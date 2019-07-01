@@ -1,7 +1,7 @@
 # Publications
 
   * [Architectural Digest](./architectural-digest/) (1)
-  * [Billboard](./billboard/) (2)
+  * [Billboard](./billboard/) (7)
   * [Esquire](./esquire/) (1)
   * [Essence](./essence/) (1)
   * [EW (Entertainment Weekly)](./ew-entertainment-weekly/) (1)
