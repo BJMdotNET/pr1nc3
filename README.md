@@ -4,3 +4,5 @@
 ## An experiment in news delivery
 
   * [articles](./articles/)
+  * [topics](./topics/)
+  
