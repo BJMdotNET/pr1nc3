@@ -1,7 +1,7 @@
 # Architectural Digest
 
   * 2019: 
-      [June](./architectural-digest-2019-06.md) | 
+      [June](./architectural-digest-2019-06.md) (1) | 
 
 ----
 

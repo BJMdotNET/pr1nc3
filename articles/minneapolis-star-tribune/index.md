@@ -1,7 +1,8 @@
 # Minneapolis Star Tribune
 
   * 2019: 
-      [June](./minneapolis-star-tribune-2019-06.md) | 
+      [July](./minneapolis-star-tribune-2019-07.md) (2) | 
+      [June](./minneapolis-star-tribune-2019-06.md) (11) | 
 
 ----
 
