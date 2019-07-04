@@ -1,0 +1,11 @@
+# Chaka Khan
+
+ - [**"Chaka Khan On Why She Finally Released Her First Album In 12 Years"**](https://www.billboard.com/articles/news/8496614/chaka-khan-hello-happiness-interview) by  for [Billboard](https://www.billboard.com/) on 8 February 2019 about  ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8496614/chaka-khan-hello-happiness-interview))
+
+----
+
+ - [**"Lenny Henry on Prince: 'I almost passed out. This was my hero talking to me'"**](https://www.theguardian.com/music/2016/apr/24/the-time-i-sang-with-prince-and-kate-bush-by-lenny-henry) by  for The Guardian on 24 April 2016 about  ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/music/2016/apr/24/the-time-i-sang-with-prince-and-kate-bush-by-lenny-henry))
+
+----
+
+[Home](../)
