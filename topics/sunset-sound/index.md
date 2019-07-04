@@ -8,4 +8,16 @@
 
 ----
 
+ - [**"Inside The Recording Of Prince's Originals Album"**](https://www.ilikeyouroldstuff.com/news/inside-the-recording-of-prince-originals-album-peggy-mccreary) by  for I Like Your Old Stuff on 21 June 2019 about  ([mirror](https://web.archive.org/web/*/https://www.ilikeyouroldstuff.com/news/inside-the-recording-of-prince-originals-album-peggy-mccreary))
+
+----
+
+ - [**"What It Was Like to Be the Only Other Person in the Studio With Prince, According to His Engineer Peggy McCreary"**](https://pitchfork.com/thepitch/prince-engineer-peggy-mccreary-interview-originals/) by  for Pitchfork on 19 June 2019 about  ([mirror](https://web.archive.org/web/*/https://pitchfork.com/thepitch/prince-engineer-peggy-mccreary-interview-originals/))
+
+----
+
+ - [**"Sometimes he dreamed his songs: A portrait of Prince in the recording studio"**](http://www.startribune.com/sometimes-he-dreamed-his-songs-a-portrait-of-prince-in-the-recording-studio/510918872/) by  for Minneapolis Star Tribune on 6 June 2019 about  ([mirror](https://web.archive.org/web/*/http://www.startribune.com/sometimes-he-dreamed-his-songs-a-portrait-of-prince-in-the-recording-studio/510918872/))
+
+----
+
 [Home](../)

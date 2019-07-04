@@ -4,6 +4,10 @@
 
 ----
 
+ - [**"Judge: Andy Warhol didn't violate Prince picture copyright"**](http://www.startribune.com/judge-andy-warhol-didn-t-violate-prince-picture-copyright/512091952/) by  for Minneapolis Star Tribune on 1 July 2019 about  ([mirror](https://web.archive.org/web/*/http://www.startribune.com/judge-andy-warhol-didn-t-violate-prince-picture-copyright/512091952/))
+
+----
+
  - [**"Prince Collaborators Share Stories About the Songs He Gave to Others on 'Originals'"**](https://www.billboard.com/articles/news/8517755/prince-collaborators-originals) by  for [Billboard](https://www.billboard.com/) on 26 June 2019 about  ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8517755/prince-collaborators-originals))
 
 ----

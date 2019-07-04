@@ -4,6 +4,10 @@
 
 ----
 
+ - [**"Inside The Recording Of Prince's Originals Album"**](https://www.ilikeyouroldstuff.com/news/inside-the-recording-of-prince-originals-album-peggy-mccreary) by  for I Like Your Old Stuff on 21 June 2019 about  ([mirror](https://web.archive.org/web/*/https://www.ilikeyouroldstuff.com/news/inside-the-recording-of-prince-originals-album-peggy-mccreary))
+
+----
+
  - [**"Prince Album of Unreleased Demos, 'Originals,' Coming in June"**](https://www.billboard.com/articles/columns/rock/8508690/prince-album-unreleased-demos-originals) by  for [Billboard](https://www.billboard.com/) on 25 April 2019 about  ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/columns/rock/8508690/prince-album-unreleased-demos-originals))
 
 ----
