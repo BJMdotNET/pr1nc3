@@ -1,38 +1,38 @@
 # Jill Jones
 
- - [**"Meet the man in charge of releasing Prince’s unheard songs from his private vault"**](https://thewest.com.au/entertainment/meet-the-man-in-charge-of-releasing-princes-unheard-songs-from-his-private-vault-ng-5844d5d8a68b1a7ddac6c4893ef8083f) by  for [The West Australian](https://thewest.com.au/) on 29 June 2019 about  ([mirror](https://web.archive.org/web/*/https://thewest.com.au/entertainment/meet-the-man-in-charge-of-releasing-princes-unheard-songs-from-his-private-vault-ng-5844d5d8a68b1a7ddac6c4893ef8083f))
+ - [**"Meet the man in charge of releasing Prince’s unheard songs from his private vault"**](https://thewest.com.au/entertainment/meet-the-man-in-charge-of-releasing-princes-unheard-songs-from-his-private-vault-ng-5844d5d8a68b1a7ddac6c4893ef8083f) by  for [The West Australian](https://thewest.com.au/) on 29 June 2019 about Bangles, Jill Jones, Michael Howe, Originals, The Time ([mirror](https://web.archive.org/web/*/https://thewest.com.au/entertainment/meet-the-man-in-charge-of-releasing-princes-unheard-songs-from-his-private-vault-ng-5844d5d8a68b1a7ddac6c4893ef8083f))
 
 ----
 
- - [**"Prince songs: What is left in the secret vault after the singer’s death?"**](https://www.heraldsun.com.au/entertainment/meet-the-man-in-charge-of-releasing-princes-unheard-songs-from-his-private-vault/news-story/5844d5d8a68b1a7ddac6c4893ef8083f) by  for [Herald Sun](https://www.heraldsun.com.au/) on 29 June 2019 about  ([mirror](https://web.archive.org/web/*/https://www.heraldsun.com.au/entertainment/meet-the-man-in-charge-of-releasing-princes-unheard-songs-from-his-private-vault/news-story/5844d5d8a68b1a7ddac6c4893ef8083f))
+ - [**"Prince songs: What is left in the secret vault after the singer’s death?"**](https://www.heraldsun.com.au/entertainment/meet-the-man-in-charge-of-releasing-princes-unheard-songs-from-his-private-vault/news-story/5844d5d8a68b1a7ddac6c4893ef8083f) by  for [Herald Sun](https://www.heraldsun.com.au/) on 29 June 2019 about Bangles, Jill Jones, Michael Howe, Originals, The Time ([mirror](https://web.archive.org/web/*/https://www.heraldsun.com.au/entertainment/meet-the-man-in-charge-of-releasing-princes-unheard-songs-from-his-private-vault/news-story/5844d5d8a68b1a7ddac6c4893ef8083f))
 
 ----
 
- - [**"Prince Collaborators Share Stories About the Songs He Gave to Others on 'Originals'"**](https://www.billboard.com/articles/news/8517755/prince-collaborators-originals) by  for [Billboard](https://www.billboard.com/) on 26 June 2019 about  ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8517755/prince-collaborators-originals))
+ - [**"Prince Collaborators Share Stories About the Songs He Gave to Others on 'Originals'"**](https://www.billboard.com/articles/news/8517755/prince-collaborators-originals) by  for [Billboard](https://www.billboard.com/) on 26 June 2019 about Andy Warhol, Bangles, Jill Jones, Kenny Rogers, Martika, Originals, Peggy McCreary, Sheila E., Sunset Sound, Susanna Hoffs, Susannah Melvoin, The Family, The Revolution, The Time ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8517755/prince-collaborators-originals))
 
 ----
 
- - [**"Prince's 'Originals' Album: Comparing Each Demo With Its Well-Known Cover Version"**](https://www.billboard.com/articles/news/8517576/prince-originals-album-covers) by  for [Billboard](https://www.billboard.com/) on 25 June 2019 about  ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8517576/prince-originals-album-covers))
+ - [**"Prince's 'Originals' Album: Comparing Each Demo With Its Well-Known Cover Version"**](https://www.billboard.com/articles/news/8517576/prince-originals-album-covers) by  for [Billboard](https://www.billboard.com/) on 25 June 2019 about Bangles, Brownmark, Jill Jones, Originals, Susanna Hoffs, The Revolution ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8517576/prince-originals-album-covers))
 
 ----
 
- - [**"Prince’s Unearthed ‘Originals’: Collaborators Look Back on the Hits He Passed Along"**](https://www.rollingstone.com/music/music-features/prince-originals-interview-842940/) by  for [Rolling Stone](https://www.rollingstone.com/) on 24 June 2019 about  ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/prince-originals-interview-842940/))
+ - [**"Prince’s Unearthed ‘Originals’: Collaborators Look Back on the Hits He Passed Along"**](https://www.rollingstone.com/music/music-features/prince-originals-interview-842940/) by  for [Rolling Stone](https://www.rollingstone.com/) on 24 June 2019 about Apollonia 6, Apollonia Kotero, Bangles, Jill Jones, Kenny Rogers, Martika, Mazarati, Originals, Peggy McCreary, Sheila E., Sunset Sound, Susan Rogers, Susanna Hoffs, Susannah Melvoin, The Family, The Time, Troy Carter, Vanity 6 ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/prince-originals-interview-842940/))
 
 ----
 
- - [**"10 deep nuggets of info we learned at the playback of Prince’s new album, ‘Originals’"**](https://www.nme.com/blogs/11-things-we-learned-at-playback-new-prince-album-2506506) by  for [NME (New Musical Express)](https://www.nme.com/) on 10 June 2019 about  ([mirror](https://web.archive.org/web/*/https://www.nme.com/blogs/11-things-we-learned-at-playback-new-prince-album-2506506))
+ - [**"10 deep nuggets of info we learned at the playback of Prince’s new album, ‘Originals’"**](https://www.nme.com/blogs/11-things-we-learned-at-playback-new-prince-album-2506506) by  for [NME (New Musical Express)](https://www.nme.com/) on 10 June 2019 about Bangles, Jill Jones, Michael Howe, Originals, Peggy McCreary, The Revolution, Troy Carter, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://www.nme.com/blogs/11-things-we-learned-at-playback-new-prince-album-2506506))
 
 ----
 
- - [**"Prince Album of Unreleased Demos, 'Originals,' Coming in June"**](https://www.billboard.com/articles/columns/rock/8508690/prince-album-unreleased-demos-originals) by  for [Billboard](https://www.billboard.com/) on 25 April 2019 about  ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/columns/rock/8508690/prince-album-unreleased-demos-originals))
+ - [**"Prince Album of Unreleased Demos, 'Originals,' Coming in June"**](https://www.billboard.com/articles/columns/rock/8508690/prince-album-unreleased-demos-originals) by  for [Billboard](https://www.billboard.com/) on 25 April 2019 about Apollonia 6, Bangles, Jill Jones, Mazarati, Originals, Sheila E., The Time, Troy Carter, Vanity 6 ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/columns/rock/8508690/prince-album-unreleased-demos-originals))
 
 ----
 
- - [**"'Piano and a Microphone': The Inside Story of the Long-Lost Prince Recording From 1983"**](https://www.newsweek.com/2018/10/19/prince-piano-microphone-purple-rain-17-days-1983-paisly-park-1131839.html) by  for Newsweek on 19 October 2018 about  ([mirror](https://web.archive.org/web/*/https://www.newsweek.com/2018/10/19/prince-piano-microphone-purple-rain-17-days-1983-paisly-park-1131839.html))
+ - [**"'Piano and a Microphone': The Inside Story of the Long-Lost Prince Recording From 1983"**](https://www.newsweek.com/2018/10/19/prince-piano-microphone-purple-rain-17-days-1983-paisly-park-1131839.html) by  for Newsweek on 19 October 2018 about Jill Jones, Joni Mitchell, Michael Howe, Piano and a Microphone 1983 ([mirror](https://web.archive.org/web/*/https://www.newsweek.com/2018/10/19/prince-piano-microphone-purple-rain-17-days-1983-paisly-park-1131839.html))
 
 ----
 
- - [**"Prince's Archivist on Uncovering 'Piano & A Microphone 1983' & What's Next From the Vault"**](https://www.billboard.com/articles/columns/rock/8476193/prince-archivist-piano-a-microphone-1983-interview) by  for [Billboard](https://www.billboard.com/) on 20 September 2018 about  ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/columns/rock/8476193/prince-archivist-piano-a-microphone-1983-interview))
+ - [**"Prince's Archivist on Uncovering 'Piano & A Microphone 1983' & What's Next From the Vault"**](https://www.billboard.com/articles/columns/rock/8476193/prince-archivist-piano-a-microphone-1983-interview) by  for [Billboard](https://www.billboard.com/) on 20 September 2018 about Jill Jones, Michael Howe, Piano and a Microphone 1983 ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/columns/rock/8476193/prince-archivist-piano-a-microphone-1983-interview))
 
 ----
 
