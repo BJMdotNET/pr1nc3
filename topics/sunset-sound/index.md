@@ -8,15 +8,15 @@
 
 ----
 
- - [**"Inside The Recording Of Prince's Originals Album"**](https://www.ilikeyouroldstuff.com/news/inside-the-recording-of-prince-originals-album-peggy-mccreary) in I Like Your Old Stuff on 21 June 2019 about Apollonia 6, Bangles, Martika, Originals (Album), Peggy McCreary, Sunset Sound, The Family, The Time ([mirror](https://web.archive.org/web/*/https://www.ilikeyouroldstuff.com/news/inside-the-recording-of-prince-originals-album-peggy-mccreary))
+ - [**"Inside The Recording Of Prince's Originals Album"**](https://www.ilikeyouroldstuff.com/news/inside-the-recording-of-prince-originals-album-peggy-mccreary) in [I Like Your Old Stuff](https://www.ilikeyouroldstuff.com/) on 21 June 2019 about Apollonia 6, Bangles, Martika, Originals (Album), Peggy McCreary, Sunset Sound, The Family, The Time ([mirror](https://web.archive.org/web/*/https://www.ilikeyouroldstuff.com/news/inside-the-recording-of-prince-originals-album-peggy-mccreary))
 
 ----
 
- - [**"What It Was Like to Be the Only Other Person in the Studio With Prince, According to His Engineer Peggy McCreary"**](https://pitchfork.com/thepitch/prince-engineer-peggy-mccreary-interview-originals/) in Pitchfork on 19 June 2019 about Bangles, Originals (Album), Peggy McCreary, Sheila E., Sunset Sound, The Time, Vanity 6 ([mirror](https://web.archive.org/web/*/https://pitchfork.com/thepitch/prince-engineer-peggy-mccreary-interview-originals/))
+ - [**"What It Was Like to Be the Only Other Person in the Studio With Prince, According to His Engineer Peggy McCreary"**](https://pitchfork.com/thepitch/prince-engineer-peggy-mccreary-interview-originals/) in [Pitchfork](https://pitchfork.com/) on 19 June 2019 about Bangles, Originals (Album), Peggy McCreary, Sheila E., Sunset Sound, The Time, Vanity 6 ([mirror](https://web.archive.org/web/*/https://pitchfork.com/thepitch/prince-engineer-peggy-mccreary-interview-originals/))
 
 ----
 
- - [**"Sometimes he dreamed his songs: A portrait of Prince in the recording studio -- “You had to be ready at any time for anything that inspired him,” says his L.A. engineer, who dishes on a new album of songs Prince wrote for other artists."**](http://www.startribune.com/sometimes-he-dreamed-his-songs-a-portrait-of-prince-in-the-recording-studio/510918872/) by Jon Bream in Minneapolis Star Tribune on 6 June 2019 about Originals (Album), Peggy McCreary, Sunset Sound ([mirror](https://web.archive.org/web/*/http://www.startribune.com/sometimes-he-dreamed-his-songs-a-portrait-of-prince-in-the-recording-studio/510918872/))
+ - [**"Sometimes he dreamed his songs: A portrait of Prince in the recording studio -- “You had to be ready at any time for anything that inspired him,” says his L.A. engineer, who dishes on a new album of songs Prince wrote for other artists."**](http://www.startribune.com/sometimes-he-dreamed-his-songs-a-portrait-of-prince-in-the-recording-studio/510918872/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 6 June 2019 about Originals (Album), Peggy McCreary, Sunset Sound ([mirror](https://web.archive.org/web/*/http://www.startribune.com/sometimes-he-dreamed-his-songs-a-portrait-of-prince-in-the-recording-studio/510918872/))
 
 ----
 

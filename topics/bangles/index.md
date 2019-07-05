@@ -8,7 +8,7 @@
 
 ----
 
- - [**"Niko Bolas on Mixing the Prince "Originals" Album -- Faced with mixing the new archival release, "Originals," engineer Niko Bolas had to find the best way to honor the material, including taking the results to Bernie Grundman Mastering, where many Prince albums were previously mastered."**](https://www.prosoundnetwork.com/recording/princes-originals-mastered-by-grundman) in ProSound on 26 June 2019 about Bangles, Bernie Grundman, Bernie Grundman Mastering, David Leonard, Michael Howe, Niko Bolas, Originals (Album), Peggy McCreary, Susan Rogers, Troy Carter ([mirror](https://web.archive.org/web/*/https://www.prosoundnetwork.com/recording/princes-originals-mastered-by-grundman))
+ - [**"Niko Bolas on Mixing the Prince "Originals" Album -- Faced with mixing the new archival release, "Originals," engineer Niko Bolas had to find the best way to honor the material, including taking the results to Bernie Grundman Mastering, where many Prince albums were previously mastered."**](https://www.prosoundnetwork.com/recording/princes-originals-mastered-by-grundman) in [ProSound](https://www.prosoundnetwork.com/) on 26 June 2019 about Bangles, Bernie Grundman, Bernie Grundman Mastering, David Leonard, Michael Howe, Niko Bolas, Originals (Album), Peggy McCreary, Susan Rogers, Troy Carter ([mirror](https://web.archive.org/web/*/https://www.prosoundnetwork.com/recording/princes-originals-mastered-by-grundman))
 
 ----
 
@@ -24,11 +24,11 @@
 
 ----
 
- - [**"Inside The Recording Of Prince's Originals Album"**](https://www.ilikeyouroldstuff.com/news/inside-the-recording-of-prince-originals-album-peggy-mccreary) in I Like Your Old Stuff on 21 June 2019 about Apollonia 6, Bangles, Martika, Originals (Album), Peggy McCreary, Sunset Sound, The Family, The Time ([mirror](https://web.archive.org/web/*/https://www.ilikeyouroldstuff.com/news/inside-the-recording-of-prince-originals-album-peggy-mccreary))
+ - [**"Inside The Recording Of Prince's Originals Album"**](https://www.ilikeyouroldstuff.com/news/inside-the-recording-of-prince-originals-album-peggy-mccreary) in [I Like Your Old Stuff](https://www.ilikeyouroldstuff.com/) on 21 June 2019 about Apollonia 6, Bangles, Martika, Originals (Album), Peggy McCreary, Sunset Sound, The Family, The Time ([mirror](https://web.archive.org/web/*/https://www.ilikeyouroldstuff.com/news/inside-the-recording-of-prince-originals-album-peggy-mccreary))
 
 ----
 
- - [**"What It Was Like to Be the Only Other Person in the Studio With Prince, According to His Engineer Peggy McCreary"**](https://pitchfork.com/thepitch/prince-engineer-peggy-mccreary-interview-originals/) in Pitchfork on 19 June 2019 about Bangles, Originals (Album), Peggy McCreary, Sheila E., Sunset Sound, The Time, Vanity 6 ([mirror](https://web.archive.org/web/*/https://pitchfork.com/thepitch/prince-engineer-peggy-mccreary-interview-originals/))
+ - [**"What It Was Like to Be the Only Other Person in the Studio With Prince, According to His Engineer Peggy McCreary"**](https://pitchfork.com/thepitch/prince-engineer-peggy-mccreary-interview-originals/) in [Pitchfork](https://pitchfork.com/) on 19 June 2019 about Bangles, Originals (Album), Peggy McCreary, Sheila E., Sunset Sound, The Time, Vanity 6 ([mirror](https://web.archive.org/web/*/https://pitchfork.com/thepitch/prince-engineer-peggy-mccreary-interview-originals/))
 
 ----
 
@@ -36,7 +36,7 @@
 
 ----
 
- - [**"Remembering when Prince wrote that song for you"**](http://www.startribune.com/remembering-when-prince-wrote-that-song-for-you/510818462/) by Mesfin Fekadu in Minneapolis Star Tribune on 4 June 2019 about Apollonia Kotero, Bangles, Originals (Album), Susannah Melvoin ([mirror](https://web.archive.org/web/*/http://www.startribune.com/remembering-when-prince-wrote-that-song-for-you/510818462/))
+ - [**"Remembering when Prince wrote that song for you"**](http://www.startribune.com/remembering-when-prince-wrote-that-song-for-you/510818462/) by Mesfin Fekadu in [Minneapolis Star Tribune](http://www.startribune.com/) on 4 June 2019 about Apollonia Kotero, Bangles, Originals (Album), Susannah Melvoin ([mirror](https://web.archive.org/web/*/http://www.startribune.com/remembering-when-prince-wrote-that-song-for-you/510818462/))
 
 ----
 

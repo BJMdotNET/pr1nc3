@@ -8,11 +8,11 @@
 
 ----
 
- - [**"Interview: Prince’s vault archivist, Michael Howe, talks to SDE"**](http://www.superdeluxeedition.com/interview/princes-archivist-michael-howe-talks-to-sde/) in SuperDeluxeEdition on 27 June 2019 about Around The World In A Day (Album), Michael Howe, Originals (Album), Susan Rogers, Troy Carter ([mirror](https://web.archive.org/web/*/http://www.superdeluxeedition.com/interview/princes-archivist-michael-howe-talks-to-sde/))
+ - [**"Interview: Prince’s vault archivist, Michael Howe, talks to SDE"**](http://www.superdeluxeedition.com/interview/princes-archivist-michael-howe-talks-to-sde/) in [SuperDeluxeEdition](http://www.superdeluxeedition.com/) on 27 June 2019 about Around The World In A Day (Album), Michael Howe, Originals (Album), Susan Rogers, Troy Carter ([mirror](https://web.archive.org/web/*/http://www.superdeluxeedition.com/interview/princes-archivist-michael-howe-talks-to-sde/))
 
 ----
 
- - [**"Niko Bolas on Mixing the Prince "Originals" Album -- Faced with mixing the new archival release, "Originals," engineer Niko Bolas had to find the best way to honor the material, including taking the results to Bernie Grundman Mastering, where many Prince albums were previously mastered."**](https://www.prosoundnetwork.com/recording/princes-originals-mastered-by-grundman) in ProSound on 26 June 2019 about Bangles, Bernie Grundman, Bernie Grundman Mastering, David Leonard, Michael Howe, Niko Bolas, Originals (Album), Peggy McCreary, Susan Rogers, Troy Carter ([mirror](https://web.archive.org/web/*/https://www.prosoundnetwork.com/recording/princes-originals-mastered-by-grundman))
+ - [**"Niko Bolas on Mixing the Prince "Originals" Album -- Faced with mixing the new archival release, "Originals," engineer Niko Bolas had to find the best way to honor the material, including taking the results to Bernie Grundman Mastering, where many Prince albums were previously mastered."**](https://www.prosoundnetwork.com/recording/princes-originals-mastered-by-grundman) in [ProSound](https://www.prosoundnetwork.com/) on 26 June 2019 about Bangles, Bernie Grundman, Bernie Grundman Mastering, David Leonard, Michael Howe, Niko Bolas, Originals (Album), Peggy McCreary, Susan Rogers, Troy Carter ([mirror](https://web.archive.org/web/*/https://www.prosoundnetwork.com/recording/princes-originals-mastered-by-grundman))
 
 ----
 
@@ -20,7 +20,7 @@
 
 ----
 
- - [**"'Piano and a Microphone': The Inside Story of the Long-Lost Prince Recording From 1983"**](https://www.newsweek.com/2018/10/19/prince-piano-microphone-purple-rain-17-days-1983-paisly-park-1131839.html) in Newsweek on 19 October 2018 about Jill Jones, Joni Mitchell, Michael Howe, Piano and a Microphone 1983 (Album) ([mirror](https://web.archive.org/web/*/https://www.newsweek.com/2018/10/19/prince-piano-microphone-purple-rain-17-days-1983-paisly-park-1131839.html))
+ - [**"'Piano and a Microphone': The Inside Story of the Long-Lost Prince Recording From 1983"**](https://www.newsweek.com/2018/10/19/prince-piano-microphone-purple-rain-17-days-1983-paisly-park-1131839.html) in [Newsweek](https://www.newsweek.com/) on 19 October 2018 about Jill Jones, Joni Mitchell, Michael Howe, Piano and a Microphone 1983 (Album) ([mirror](https://web.archive.org/web/*/https://www.newsweek.com/2018/10/19/prince-piano-microphone-purple-rain-17-days-1983-paisly-park-1131839.html))
 
 ----
 

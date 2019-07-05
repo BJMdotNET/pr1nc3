@@ -1,10 +1,10 @@
 # Troy Carter
 
- - [**"Interview: Prince’s vault archivist, Michael Howe, talks to SDE"**](http://www.superdeluxeedition.com/interview/princes-archivist-michael-howe-talks-to-sde/) in SuperDeluxeEdition on 27 June 2019 about Around The World In A Day (Album), Michael Howe, Originals (Album), Susan Rogers, Troy Carter ([mirror](https://web.archive.org/web/*/http://www.superdeluxeedition.com/interview/princes-archivist-michael-howe-talks-to-sde/))
+ - [**"Interview: Prince’s vault archivist, Michael Howe, talks to SDE"**](http://www.superdeluxeedition.com/interview/princes-archivist-michael-howe-talks-to-sde/) in [SuperDeluxeEdition](http://www.superdeluxeedition.com/) on 27 June 2019 about Around The World In A Day (Album), Michael Howe, Originals (Album), Susan Rogers, Troy Carter ([mirror](https://web.archive.org/web/*/http://www.superdeluxeedition.com/interview/princes-archivist-michael-howe-talks-to-sde/))
 
 ----
 
- - [**"Niko Bolas on Mixing the Prince "Originals" Album -- Faced with mixing the new archival release, "Originals," engineer Niko Bolas had to find the best way to honor the material, including taking the results to Bernie Grundman Mastering, where many Prince albums were previously mastered."**](https://www.prosoundnetwork.com/recording/princes-originals-mastered-by-grundman) in ProSound on 26 June 2019 about Bangles, Bernie Grundman, Bernie Grundman Mastering, David Leonard, Michael Howe, Niko Bolas, Originals (Album), Peggy McCreary, Susan Rogers, Troy Carter ([mirror](https://web.archive.org/web/*/https://www.prosoundnetwork.com/recording/princes-originals-mastered-by-grundman))
+ - [**"Niko Bolas on Mixing the Prince "Originals" Album -- Faced with mixing the new archival release, "Originals," engineer Niko Bolas had to find the best way to honor the material, including taking the results to Bernie Grundman Mastering, where many Prince albums were previously mastered."**](https://www.prosoundnetwork.com/recording/princes-originals-mastered-by-grundman) in [ProSound](https://www.prosoundnetwork.com/) on 26 June 2019 about Bangles, Bernie Grundman, Bernie Grundman Mastering, David Leonard, Michael Howe, Niko Bolas, Originals (Album), Peggy McCreary, Susan Rogers, Troy Carter ([mirror](https://web.archive.org/web/*/https://www.prosoundnetwork.com/recording/princes-originals-mastered-by-grundman))
 
 ----
 
@@ -24,7 +24,7 @@
 
 ----
 
- - [**"Movie Inspired by Prince’s Music in the Works at Universal (EXCLUSIVE)"**](https://variety.com/2018/film/news/universal-original-movie-inspired-by-princes-music-1203067739/) in Variety on 3 December 2018 about Troy Carter, Universal Music Publishing Group, Universal Pictures ([mirror](https://web.archive.org/web/*/https://variety.com/2018/film/news/universal-original-movie-inspired-by-princes-music-1203067739/))
+ - [**"Movie Inspired by Prince’s Music in the Works at Universal (EXCLUSIVE)"**](https://variety.com/2018/film/news/universal-original-movie-inspired-by-princes-music-1203067739/) in [Variety](https://variety.com/) on 3 December 2018 about Troy Carter, Universal Music Publishing Group, Universal Pictures ([mirror](https://web.archive.org/web/*/https://variety.com/2018/film/news/universal-original-movie-inspired-by-princes-music-1203067739/))
 
 ----
 

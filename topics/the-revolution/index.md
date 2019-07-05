@@ -12,7 +12,7 @@
 
 ----
 
- - [**"Prince's Drum Machine: How His Use of the Linn LM-1 Heralded a New Age of Pop Rhythm Creation"**](https://reverb.com/news/prince-and-the-linn-lm-1) in Reverb on 24 June 2019 about Linn LM-1, Roger Linn, Susan Rogers, The Revolution ([mirror](https://web.archive.org/web/*/https://reverb.com/news/prince-and-the-linn-lm-1))
+ - [**"Prince's Drum Machine: How His Use of the Linn LM-1 Heralded a New Age of Pop Rhythm Creation"**](https://reverb.com/news/prince-and-the-linn-lm-1) in [Reverb](https://reverb.com/) on 24 June 2019 about Linn LM-1, Roger Linn, Susan Rogers, The Revolution ([mirror](https://web.archive.org/web/*/https://reverb.com/news/prince-and-the-linn-lm-1))
 
 ----
 
@@ -20,7 +20,7 @@
 
 ----
 
- - [**"Two veteran Minnesota bands earn their First Avenue stars (one a do-over)"**](http://www.startribune.com/two-veteran-minnesota-bands-earn-their-first-avenue-stars-one-a-do-over/509260572/) by Chris Riemenschneider in Minneapolis Star Tribune on 30 April 2019 about First Avenue, Lisa Coleman, Matt Fink, Sam’s, The Revolution, Uncle Sam’s, Wendy Melvoin ([mirror](https://web.archive.org/web/*/http://www.startribune.com/two-veteran-minnesota-bands-earn-their-first-avenue-stars-one-a-do-over/509260572/))
+ - [**"Two veteran Minnesota bands earn their First Avenue stars (one a do-over)"**](http://www.startribune.com/two-veteran-minnesota-bands-earn-their-first-avenue-stars-one-a-do-over/509260572/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 30 April 2019 about First Avenue, Lisa Coleman, Matt Fink, Sam’s, The Revolution, Uncle Sam’s, Wendy Melvoin ([mirror](https://web.archive.org/web/*/http://www.startribune.com/two-veteran-minnesota-bands-earn-their-first-avenue-stars-one-a-do-over/509260572/))
 
 ----
 

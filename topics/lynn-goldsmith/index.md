@@ -4,7 +4,7 @@
 
 ----
 
- - [**"Judge: Andy Warhol didn't violate Prince picture copyright"**](http://www.startribune.com/judge-andy-warhol-didn-t-violate-prince-picture-copyright/512091952/) in Minneapolis Star Tribune on 1 July 2019 about Andy Warhol, Lynn Goldsmith, Prince Series ([mirror](https://web.archive.org/web/*/http://www.startribune.com/judge-andy-warhol-didn-t-violate-prince-picture-copyright/512091952/))
+ - [**"Judge: Andy Warhol didn't violate Prince picture copyright"**](http://www.startribune.com/judge-andy-warhol-didn-t-violate-prince-picture-copyright/512091952/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 1 July 2019 about Andy Warhol, Lynn Goldsmith, Prince Series ([mirror](https://web.archive.org/web/*/http://www.startribune.com/judge-andy-warhol-didn-t-violate-prince-picture-copyright/512091952/))
 
 ----
 

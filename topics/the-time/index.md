@@ -16,11 +16,11 @@
 
 ----
 
- - [**"Inside The Recording Of Prince's Originals Album"**](https://www.ilikeyouroldstuff.com/news/inside-the-recording-of-prince-originals-album-peggy-mccreary) in I Like Your Old Stuff on 21 June 2019 about Apollonia 6, Bangles, Martika, Originals (Album), Peggy McCreary, Sunset Sound, The Family, The Time ([mirror](https://web.archive.org/web/*/https://www.ilikeyouroldstuff.com/news/inside-the-recording-of-prince-originals-album-peggy-mccreary))
+ - [**"Inside The Recording Of Prince's Originals Album"**](https://www.ilikeyouroldstuff.com/news/inside-the-recording-of-prince-originals-album-peggy-mccreary) in [I Like Your Old Stuff](https://www.ilikeyouroldstuff.com/) on 21 June 2019 about Apollonia 6, Bangles, Martika, Originals (Album), Peggy McCreary, Sunset Sound, The Family, The Time ([mirror](https://web.archive.org/web/*/https://www.ilikeyouroldstuff.com/news/inside-the-recording-of-prince-originals-album-peggy-mccreary))
 
 ----
 
- - [**"What It Was Like to Be the Only Other Person in the Studio With Prince, According to His Engineer Peggy McCreary"**](https://pitchfork.com/thepitch/prince-engineer-peggy-mccreary-interview-originals/) in Pitchfork on 19 June 2019 about Bangles, Originals (Album), Peggy McCreary, Sheila E., Sunset Sound, The Time, Vanity 6 ([mirror](https://web.archive.org/web/*/https://pitchfork.com/thepitch/prince-engineer-peggy-mccreary-interview-originals/))
+ - [**"What It Was Like to Be the Only Other Person in the Studio With Prince, According to His Engineer Peggy McCreary"**](https://pitchfork.com/thepitch/prince-engineer-peggy-mccreary-interview-originals/) in [Pitchfork](https://pitchfork.com/) on 19 June 2019 about Bangles, Originals (Album), Peggy McCreary, Sheila E., Sunset Sound, The Time, Vanity 6 ([mirror](https://web.archive.org/web/*/https://pitchfork.com/thepitch/prince-engineer-peggy-mccreary-interview-originals/))
 
 ----
 
@@ -32,7 +32,7 @@
 
 ----
 
- - [**"Third annual Prince commemoration at Paisley Park features emotional ups and downs -- For a third year, fans gather to celebrate and remember the artist."**](http://www.startribune.com/third-annual-prince-commemoration-at-paisley-park-features-emotional-ups-and-downs/509087732/) by Jon Bream in Minneapolis Star Tribune on 25 April 2019 about Jesse Johnson, The Time ([mirror](https://web.archive.org/web/*/http://www.startribune.com/third-annual-prince-commemoration-at-paisley-park-features-emotional-ups-and-downs/509087732/))
+ - [**"Third annual Prince commemoration at Paisley Park features emotional ups and downs -- For a third year, fans gather to celebrate and remember the artist."**](http://www.startribune.com/third-annual-prince-commemoration-at-paisley-park-features-emotional-ups-and-downs/509087732/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 April 2019 about Jesse Johnson, The Time ([mirror](https://web.archive.org/web/*/http://www.startribune.com/third-annual-prince-commemoration-at-paisley-park-features-emotional-ups-and-downs/509087732/))
 
 ----
 
