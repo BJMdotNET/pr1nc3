@@ -1,6 +1,6 @@
 # Brownmark
 
- - [**"Prince's 'Originals' Album: Comparing Each Demo With Its Well-Known Cover Version"**](https://www.billboard.com/articles/news/8517576/prince-originals-album-covers) by  for [Billboard](https://www.billboard.com/) on 25 June 2019 about Bangles, Brownmark, Jill Jones, Originals, Susanna Hoffs, The Revolution ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8517576/prince-originals-album-covers))
+ - [**"Prince's 'Originals' Album: Comparing Each Demo With Its Well-Known Cover Version"**](https://www.billboard.com/articles/news/8517576/prince-originals-album-covers) by  for [Billboard](https://www.billboard.com/) on 25 June 2019 about Bangles, Brownmark, Jill Jones, Originals (Album), Susanna Hoffs, The Revolution ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8517576/prince-originals-album-covers))
 
 ----
 

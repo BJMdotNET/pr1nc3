@@ -4,11 +4,15 @@
 
 ----
 
- - [**"The Revolution's Lisa Coleman Talks 'Piano & A Microphone 1983,' Jamming With Prince and Unreleased Gems"**](https://www.billboard.com/articles/news/8476040/the-revolution-lisa-coleman-piano-a-microphone-1983-prince-ice-cream) by  for [Billboard](https://www.billboard.com/) on 20 September 2018 about Lisa Coleman, Piano and a Microphone 1983, The Revolution ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8476040/the-revolution-lisa-coleman-piano-a-microphone-1983-prince-ice-cream))
+ - [**"Two veteran Minnesota bands earn their First Avenue stars (one a do-over)"**](http://www.startribune.com/two-veteran-minnesota-bands-earn-their-first-avenue-stars-one-a-do-over/509260572/) by Chris Riemenschneider for Minneapolis Star Tribune on 30 April 2019 about First Avenue, Lisa Coleman, Matt Fink, Sam’s, The Revolution, Uncle Sam’s, Wendy Melvoin ([mirror](https://web.archive.org/web/*/http://www.startribune.com/two-veteran-minnesota-bands-earn-their-first-avenue-stars-one-a-do-over/509260572/))
 
 ----
 
- - [**"Prince's New 'Piano & A Microphone 1983' Basement Tape Is as Simple as It Sounds"**](https://www.billboard.com/articles/news/8475824/prince-piano-and-a-microphone-1983-album) by  for [Billboard](https://www.billboard.com/) on 18 September 2018 about Joni Mitchell, Lisa Coleman, Michael Howe, Piano and a Microphone 1983, Troy Carter ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8475824/prince-piano-and-a-microphone-1983-album))
+ - [**"The Revolution's Lisa Coleman Talks 'Piano & A Microphone 1983,' Jamming With Prince and Unreleased Gems"**](https://www.billboard.com/articles/news/8476040/the-revolution-lisa-coleman-piano-a-microphone-1983-prince-ice-cream) by  for [Billboard](https://www.billboard.com/) on 20 September 2018 about Lisa Coleman, Piano and a Microphone 1983 (Album), The Revolution ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8476040/the-revolution-lisa-coleman-piano-a-microphone-1983-prince-ice-cream))
+
+----
+
+ - [**"Prince's New 'Piano & A Microphone 1983' Basement Tape Is as Simple as It Sounds"**](https://www.billboard.com/articles/news/8475824/prince-piano-and-a-microphone-1983-album) by  for [Billboard](https://www.billboard.com/) on 18 September 2018 about Joni Mitchell, Lisa Coleman, Michael Howe, Piano and a Microphone 1983 (Album), Troy Carter ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8475824/prince-piano-and-a-microphone-1983-album))
 
 ----
 

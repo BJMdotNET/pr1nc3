@@ -8,11 +8,11 @@
 
 ----
 
- - [**"Re-live the 1980s heyday of Minnesota music and comedy in a new photo book"**](http://www.startribune.com/80s-scenesters-offer-snapshots-of-the-minneapolis-sound-in-new-photo-book/509385652/) by Tim Campbell, Tim Campbell for Minneapolis Star Tribune on 7 May 2019 about Capri Theater , Jimmy Jam, Mayte, Terry Lewis ([mirror](https://web.archive.org/web/*/http://www.startribune.com/80s-scenesters-offer-snapshots-of-the-minneapolis-sound-in-new-photo-book/509385652/))
+ - [**"Re-live the 1980s heyday of Minnesota music and comedy in a new photo book"**](http://www.startribune.com/80s-scenesters-offer-snapshots-of-the-minneapolis-sound-in-new-photo-book/509385652/) by Tim Campbell for Minneapolis Star Tribune on 7 May 2019 about Capri Theater , Jimmy Jam, Mayte, Terry Lewis ([mirror](https://web.archive.org/web/*/http://www.startribune.com/80s-scenesters-offer-snapshots-of-the-minneapolis-sound-in-new-photo-book/509385652/))
 
 ----
 
- - [**"10 things you’ll learn about First Avenue in new Minnesota History Center show"**](http://www.startribune.com/10-things-you-ll-learn-about-first-avenue-in-new-minnesota-history-center-show/509374312/) by Jon Bream for Minneapolis Star Tribune on 3 May 2019 about David Brewster, Erotic City, First Avenue, Purple Rain, Sam’s, Uncle Sam’s ([mirror](https://web.archive.org/web/*/http://www.startribune.com/10-things-you-ll-learn-about-first-avenue-in-new-minnesota-history-center-show/509374312/))
+ - [**"10 things you’ll learn about First Avenue in new Minnesota History Center show"**](http://www.startribune.com/10-things-you-ll-learn-about-first-avenue-in-new-minnesota-history-center-show/509374312/) by Jon Bream for Minneapolis Star Tribune on 3 May 2019 about David Brewster, Erotic City (Song), First Avenue, Purple Rain (Movie), Sam’s, Uncle Sam’s ([mirror](https://web.archive.org/web/*/http://www.startribune.com/10-things-you-ll-learn-about-first-avenue-in-new-minnesota-history-center-show/509374312/))
 
 ----
 

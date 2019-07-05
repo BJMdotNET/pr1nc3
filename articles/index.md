@@ -1,7 +1,7 @@
 # Publications
 
   * [Architectural Digest](./architectural-digest/) (1)
-  * [Associated Press News](./associated-press-news/) (1)
+  * [Associated Press News](./associated-press-news/) (2)
   * [Billboard](./billboard/) (8)
   * [Esquire](./esquire/) (1)
   * [Essence](./essence/) (1)
@@ -10,7 +10,7 @@
   * [Herald Sun](./herald-sun/) (1)
   * [I Like Your Old Stuff](./i-like-your-old-stuff/) (1)
   * [Lynn Goldsmith on Facebook](./lynn-goldsmith-on-facebook/) (1)
-  * [Minneapolis Star Tribune](./minneapolis-star-tribune/) (17)
+  * [Minneapolis Star Tribune](./minneapolis-star-tribune/) (25)
   * [Newsweek](./newsweek/) (1)
   * [NME (New Musical Express)](./nme-new-musical-express/) (2)
   * [Pitchfork](./pitchfork/) (1)
