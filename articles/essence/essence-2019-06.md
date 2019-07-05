@@ -1,6 +1,6 @@
 # Essence: June 2019
 
- - [**"Prince’s Network Of Activism Lives On And Is Creating Access To Tech Jobs"**](https://www.essence.com/news/prince-activism-yeswecode/) by  for Essence on 21 June 2019 about  ([mirror](https://web.archive.org/web/*/https://www.essence.com/news/prince-activism-yeswecode/))
+ - [**"Prince’s Network Of Activism Lives On And Is Creating Access To Tech Jobs -- #YesWeCode and its partnership with Infor are creating a path for people of color to rise in the tech industry"**](https://www.essence.com/news/prince-activism-yeswecode/) in Essence on 21 June 2019 ([mirror](https://web.archive.org/web/*/https://www.essence.com/news/prince-activism-yeswecode/))
 
 ----
 

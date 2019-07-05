@@ -1,10 +1,10 @@
 # Kate Bush
 
- - [**"Kate Bush discusses the material she recorded with Prince"**](https://www.nme.com/news/music/kate-bush-discusses-material-recorded-prince-1860552) by  for [NME (New Musical Express)](https://www.nme.com/) on 17 November 2016 about Kate Bush, The Red Shoes (Album) ([mirror](https://web.archive.org/web/*/https://www.nme.com/news/music/kate-bush-discusses-material-recorded-prince-1860552))
+ - [**"Kate Bush discusses the material she recorded with Prince"**](https://www.nme.com/news/music/kate-bush-discusses-material-recorded-prince-1860552) in [NME (New Musical Express)](https://www.nme.com/) on 17 November 2016 about Kate Bush, The Red Shoes (Album) ([mirror](https://web.archive.org/web/*/https://www.nme.com/news/music/kate-bush-discusses-material-recorded-prince-1860552))
 
 ----
 
- - [**"Lenny Henry on Prince: 'I almost passed out. This was my hero talking to me'"**](https://www.theguardian.com/music/2016/apr/24/the-time-i-sang-with-prince-and-kate-bush-by-lenny-henry) by  for [The Guardian](https://www.theguardian.com/) on 24 April 2016 about Chaka Khan, Eric Clapton, Kate Bush, Lenny Henry, The Red Shoes (Album), Why Should I Love You? (Song) ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/music/2016/apr/24/the-time-i-sang-with-prince-and-kate-bush-by-lenny-henry))
+ - [**"Lenny Henry on Prince: 'I almost passed out. This was my hero talking to me' -- The actor and comedian remembers a rooftop meeting and how he couldn’t believe his luck when he found out Prince was playing guitar for an album he was singing on for Kate Bush"**](https://www.theguardian.com/music/2016/apr/24/the-time-i-sang-with-prince-and-kate-bush-by-lenny-henry) in [The Guardian](https://www.theguardian.com/) on 24 April 2016 about Chaka Khan, Eric Clapton, Kate Bush, Lenny Henry, The Red Shoes (Album), Why Should I Love You? (Song) ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/music/2016/apr/24/the-time-i-sang-with-prince-and-kate-bush-by-lenny-henry))
 
 ----
 
