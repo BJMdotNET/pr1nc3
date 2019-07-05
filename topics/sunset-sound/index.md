@@ -16,7 +16,7 @@
 
 ----
 
- - [**"Sometimes he dreamed his songs: A portrait of Prince in the recording studio"**](http://www.startribune.com/sometimes-he-dreamed-his-songs-a-portrait-of-prince-in-the-recording-studio/510918872/) by  for Minneapolis Star Tribune on 6 June 2019 about Originals, Peggy McCreary, Sunset Sound ([mirror](https://web.archive.org/web/*/http://www.startribune.com/sometimes-he-dreamed-his-songs-a-portrait-of-prince-in-the-recording-studio/510918872/))
+ - [**"Sometimes he dreamed his songs: A portrait of Prince in the recording studio"**](http://www.startribune.com/sometimes-he-dreamed-his-songs-a-portrait-of-prince-in-the-recording-studio/510918872/) by Jon Bream for Minneapolis Star Tribune on 6 June 2019 about Originals, Peggy McCreary, Sunset Sound ([mirror](https://web.archive.org/web/*/http://www.startribune.com/sometimes-he-dreamed-his-songs-a-portrait-of-prince-in-the-recording-studio/510918872/))
 
 ----
 

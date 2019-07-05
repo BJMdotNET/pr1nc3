@@ -10,7 +10,7 @@
   * [Herald Sun](./herald-sun/) (1)
   * [I Like Your Old Stuff](./i-like-your-old-stuff/) (1)
   * [Lynn Goldsmith on Facebook](./lynn-goldsmith-on-facebook/) (1)
-  * [Minneapolis Star Tribune](./minneapolis-star-tribune/) (13)
+  * [Minneapolis Star Tribune](./minneapolis-star-tribune/) (17)
   * [Newsweek](./newsweek/) (1)
   * [NME (New Musical Express)](./nme-new-musical-express/) (2)
   * [Pitchfork](./pitchfork/) (1)
