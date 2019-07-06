@@ -1,14 +1,18 @@
 # Originals (Album)
 
- - [**"Meet the man in charge of releasing Prince’s unheard songs from his private vault"**](https://thewest.com.au/entertainment/meet-the-man-in-charge-of-releasing-princes-unheard-songs-from-his-private-vault-ng-5844d5d8a68b1a7ddac6c4893ef8083f) in [The West Australian](https://thewest.com.au/) on 29 June 2019 about Bangles, Jill Jones, Michael Howe, Originals (Album), The Time ([mirror](https://web.archive.org/web/*/https://thewest.com.au/entertainment/meet-the-man-in-charge-of-releasing-princes-unheard-songs-from-his-private-vault-ng-5844d5d8a68b1a7ddac6c4893ef8083f))
+ - [**"Minnesota's 10 best albums of 2019 so far, from J.S. Ondara to Nur-D -- The Cactus Blossoms, Dizzy Fae, Sass, Sam Cassidy and — never mind the 30-plus-year wait — Prince all produced gems in the first half of 2019."**](http://www.startribune.com/minnesota-s-10-best-albums-of-2019-so-far-from-j-s-ondara-to-nur-d/512181452/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 3 July 2019 about Originals (Album) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/minnesota-s-10-best-albums-of-2019-so-far-from-j-s-ondara-to-nur-d/512181452/))
 
 ----
 
- - [**"Prince songs: What is left in the secret vault after the singer’s death?"**](https://www.heraldsun.com.au/entertainment/meet-the-man-in-charge-of-releasing-princes-unheard-songs-from-his-private-vault/news-story/5844d5d8a68b1a7ddac6c4893ef8083f) in [Herald Sun](https://www.heraldsun.com.au/) on 29 June 2019 about Bangles, Jill Jones, Michael Howe, Originals (Album), The Time ([mirror](https://web.archive.org/web/*/https://www.heraldsun.com.au/entertainment/meet-the-man-in-charge-of-releasing-princes-unheard-songs-from-his-private-vault/news-story/5844d5d8a68b1a7ddac6c4893ef8083f))
+ - [**"Meet the man in charge of releasing Prince’s unheard songs from his private vault"**](https://thewest.com.au/entertainment/meet-the-man-in-charge-of-releasing-princes-unheard-songs-from-his-private-vault-ng-5844d5d8a68b1a7ddac6c4893ef8083f) by Cameron Adams in [The West Australian](https://thewest.com.au/) on 29 June 2019 about Bangles, Jill Jones, Michael Howe, Originals (Album), The Time ([mirror](https://web.archive.org/web/*/https://thewest.com.au/entertainment/meet-the-man-in-charge-of-releasing-princes-unheard-songs-from-his-private-vault-ng-5844d5d8a68b1a7ddac6c4893ef8083f))
 
 ----
 
- - [**"Interview: Prince’s vault archivist, Michael Howe, talks to SDE"**](http://www.superdeluxeedition.com/interview/princes-archivist-michael-howe-talks-to-sde/) in [SuperDeluxeEdition](http://www.superdeluxeedition.com/) on 27 June 2019 about Around The World In A Day (Album), Michael Howe, Originals (Album), Susan Rogers, Troy Carter ([mirror](https://web.archive.org/web/*/http://www.superdeluxeedition.com/interview/princes-archivist-michael-howe-talks-to-sde/))
+ - [**"Prince songs: What is left in the secret vault after the singer’s death?"**](https://www.heraldsun.com.au/entertainment/meet-the-man-in-charge-of-releasing-princes-unheard-songs-from-his-private-vault/news-story/5844d5d8a68b1a7ddac6c4893ef8083f) by Cameron Adams in [Herald Sun](https://www.heraldsun.com.au/) on 29 June 2019 about Bangles, Jill Jones, Michael Howe, Originals (Album), The Time ([mirror](https://web.archive.org/web/*/https://www.heraldsun.com.au/entertainment/meet-the-man-in-charge-of-releasing-princes-unheard-songs-from-his-private-vault/news-story/5844d5d8a68b1a7ddac6c4893ef8083f))
+
+----
+
+ - [**"Interview: Prince’s vault archivist, Michael Howe, talks to SDE"**](http://www.superdeluxeedition.com/interview/princes-archivist-michael-howe-talks-to-sde/) by Paul Sinclair in [SuperDeluxeEdition](http://www.superdeluxeedition.com/) on 27 June 2019 about Around The World In A Day (Album), Michael Howe, Originals (Album), Susan Rogers, Troy Carter ([mirror](https://web.archive.org/web/*/http://www.superdeluxeedition.com/interview/princes-archivist-michael-howe-talks-to-sde/))
 
 ----
 
@@ -48,7 +52,7 @@
 
 ----
 
- - [**"Remembering when Prince wrote that song for you"**](http://www.startribune.com/remembering-when-prince-wrote-that-song-for-you/510818462/) by Mesfin Fekadu in [Minneapolis Star Tribune](http://www.startribune.com/) on 4 June 2019 about Apollonia Kotero, Bangles, Originals (Album), Susannah Melvoin ([mirror](https://web.archive.org/web/*/http://www.startribune.com/remembering-when-prince-wrote-that-song-for-you/510818462/))
+ - [**"Remembering when Prince wrote that song for you"**](http://www.startribune.com/remembering-when-prince-wrote-that-song-for-you/510818462/) by Mesfin Fekadu (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 4 June 2019 about Apollonia Kotero, Bangles, Originals (Album), Susannah Melvoin ([mirror](https://web.archive.org/web/*/http://www.startribune.com/remembering-when-prince-wrote-that-song-for-you/510818462/))
 
 ----
 
