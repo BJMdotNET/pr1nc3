@@ -1,0 +1,7 @@
+# Album Review
+
+
+
+----
+
+[Home](../)

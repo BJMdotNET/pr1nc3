@@ -1,6 +1,7 @@
 # Publications
 
   * [Architectural Digest](./architectural-digest/) (1)
+  * [ASMP -- American Society of Media Photographers](./asmp-american-society-of-media-photographers/) (1)
   * [Associated Press News](./associated-press-news/) (2)
   * [Billboard](./billboard/) (8)
   * [The Chronicle Herald](./the-chronicle-herald/) (1)

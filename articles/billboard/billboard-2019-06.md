@@ -1,6 +1,6 @@
 # Billboard: June 2019
 
- - [**"Prince Collaborators Share Stories About the Songs He Gave to Others on 'Originals'"**](https://www.billboard.com/articles/news/8517755/prince-collaborators-originals) in [Billboard](https://www.billboard.com/) on 26 June 2019 about Andy Warhol, Bangles, Jill Jones, Kenny Rogers, Martika, Originals (Album), Peggy McCreary, Sheila E., Sunset Sound, Susanna Hoffs, Susannah Melvoin, The Family, The Revolution, The Time ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8517755/prince-collaborators-originals))
+ - [**"Prince Collaborators Share Stories About the Songs He Gave to Others on 'Originals'"**](https://www.billboard.com/articles/news/8517755/prince-collaborators-originals) in [Billboard](https://www.billboard.com/) on 26 June 2019 about Andy Warhol, Bangles, Jill Jones, Kenny Rogers, Martika, Originals (Album), Peggy McCreary, Sheila E., Sunset Sound (Place), Susanna Hoffs, Susannah Melvoin, The Family, The Revolution, The Time ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8517755/prince-collaborators-originals))
 
 ----
 

@@ -24,7 +24,7 @@
 
 ----
 
- - [**"Sometimes he dreamed his songs: A portrait of Prince in the recording studio -- “You had to be ready at any time for anything that inspired him,” says his L.A. engineer, who dishes on a new album of songs Prince wrote for other artists."**](http://www.startribune.com/sometimes-he-dreamed-his-songs-a-portrait-of-prince-in-the-recording-studio/510918872/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 6 June 2019 about Originals (Album), Peggy McCreary, Sunset Sound ([mirror](https://web.archive.org/web/*/http://www.startribune.com/sometimes-he-dreamed-his-songs-a-portrait-of-prince-in-the-recording-studio/510918872/))
+ - [**"Sometimes he dreamed his songs: A portrait of Prince in the recording studio -- “You had to be ready at any time for anything that inspired him,” says his L.A. engineer, who dishes on a new album of songs Prince wrote for other artists."**](http://www.startribune.com/sometimes-he-dreamed-his-songs-a-portrait-of-prince-in-the-recording-studio/510918872/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 6 June 2019 about Originals (Album), Peggy McCreary, Sunset Sound (Place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/sometimes-he-dreamed-his-songs-a-portrait-of-prince-in-the-recording-studio/510918872/))
 
 ----
 

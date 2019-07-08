@@ -8,7 +8,11 @@
 
 ----
 
- - [**"Prince Collaborators Share Stories About the Songs He Gave to Others on 'Originals'"**](https://www.billboard.com/articles/news/8517755/prince-collaborators-originals) in [Billboard](https://www.billboard.com/) on 26 June 2019 about Andy Warhol, Bangles, Jill Jones, Kenny Rogers, Martika, Originals (Album), Peggy McCreary, Sheila E., Sunset Sound, Susanna Hoffs, Susannah Melvoin, The Family, The Revolution, The Time ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8517755/prince-collaborators-originals))
+ - [**"Prince Collaborators Share Stories About the Songs He Gave to Others on 'Originals'"**](https://www.billboard.com/articles/news/8517755/prince-collaborators-originals) in [Billboard](https://www.billboard.com/) on 26 June 2019 about Andy Warhol, Bangles, Jill Jones, Kenny Rogers, Martika, Originals (Album), Peggy McCreary, Sheila E., Sunset Sound (Place), Susanna Hoffs, Susannah Melvoin, The Family, The Revolution, The Time ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8517755/prince-collaborators-originals))
+
+----
+
+ - [**"Transformative Use v. Derivative Use:  Will the Outcome of a Recent Lawsuit Test the Limits of Fair Use Doctrine, or Result in a Free-for-all?"**](https://www.asmp.org/legal/transformative-use-v-derivative-use-will-outcome-recent-lawsuit-test-limits-fair-use-doctrine-result-free/) by ASMP, Sammetria Goodson, Thomas Maddrey in [ASMP -- American Society of Media Photographers](https://www.asmp.org/) on 5 September 2017 about Andy Warhol, Lynn Goldsmith, Prince Series ([mirror](https://web.archive.org/web/*/https://www.asmp.org/legal/transformative-use-v-derivative-use-will-outcome-recent-lawsuit-test-limits-fair-use-doctrine-result-free/))
 
 ----
 
