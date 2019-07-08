@@ -5,6 +5,7 @@
   * [Associated Press News](./associated-press-news/) (2)
   * [Billboard](./billboard/) (8)
   * [The Chronicle Herald](./the-chronicle-herald/) (1)
+  * [Courier-Gazette & Camden Herald](./courier-gazette-camden-herald/) (1)
   * [Esquire](./esquire/) (1)
   * [Essence](./essence/) (1)
   * [EW (Entertainment Weekly)](./ew-entertainment-weekly/) (1)
@@ -18,6 +19,8 @@
   * [NBC News](./nbc-news/) (1)
   * [Newsweek](./newsweek/) (1)
   * [NME (New Musical Express)](./nme-new-musical-express/) (2)
+  * [Official Charts](./official-charts/) (1)
+  * [OUT In Perth](./out-in-perth/) (1)
   * [Pitchfork](./pitchfork/) (1)
   * [PopMatters](./popmatters/) (1)
   * [ProSound](./prosound/) (1)
@@ -32,6 +35,7 @@
   * [Vulture](./vulture/) (1)
   * [The West Australian](./the-west-australian/) (1)
   * [Yahoo! Entertainment](./yahoo-entertainment/) (1)
+  * [The Young Folks](./the-young-folks/) (1)
 
 ----
 

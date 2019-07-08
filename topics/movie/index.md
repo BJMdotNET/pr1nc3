@@ -1,6 +1,6 @@
 # Movie
 
-     * [Purple Rain (Movie)](./movie/purple-rain/) (3)
+  * [Purple Rain (Movie)](./movie/purple-rain/) (3)
 
 ----
 

@@ -4,8 +4,11 @@
   * [ASMP](./asmp/) (1)
   * [Cameron Adams](./cameron-adams/) (2)
   * [Chris Riemenschneider](./chris-riemenschneider/) (7)
+  * [Graeme Watson](./graeme-watson/) (1)
   * [Jon Bream](./jon-bream/) (10)
+  * [Jon Winkler ](./jon-winkler/) (1)
   * [Larry Neumeister](./larry-neumeister/) (2)
+  * [Martin Talbot](./martin-talbot/) (1)
   * [Mesfin Fekadu](./mesfin-fekadu/) (1)
   * [Neal Justin](./neal-justin/) (1)
   * [Paul Sinclair](./paul-sinclair/) (1)
@@ -17,6 +20,7 @@
   * [Thomas Maddrey](./thomas-maddrey/) (1)
   * [Tim Campbell](./tim-campbell/) (1)
   * [Tom Moon](./tom-moon/) (1)
+  * [Tom Von Malder](./tom-von-malder/) (1)
 
 ----
 

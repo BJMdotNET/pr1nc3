@@ -2,15 +2,25 @@
 
   * [Album](./album/)
      * [Around The World In A Day (Album)](./album/around-the-world-in-a-day/) (1)
+     * [Crystal Ball (Album)](./album/crystal-ball/) (1)
      * [Diamonds & Pearls (Album)](./album/diamonds-pearls/) (1)
+     * [Dream Factory (Album)](./album/dream-factory/) (1)
      * [Lovesexy (Album)](./album/lovesexy/) (1)
-     * [Originals (Album)](./album/originals/) (18)
+     * [Originals (Album)](./album/originals/) (22)
      * [Piano and a Microphone 1983 (Album)](./album/piano-and-a-microphone-1983/) (5)
      * [Purple Rain (Album)](./album/purple-rain/) (1)
      * [Rave In2 the Joy Fantastic (Album)](./album/rave-in2-the-joy-fantastic/) (1)
      * [Rave Un2 the Joy Fantastic (Album)](./album/rave-un2-the-joy-fantastic/) (1)
+     * [The Black Album (Album)](./album/the-black-album/) (1)
      * [The Red Shoes (Album)](./album/the-red-shoes/) (2)
      * [Ultimate Rave (Album)](./album/ultimate-rave/) (1)
+
+
+----
+
+
+  * [Album Review](./album-review/)
+     * [Originals (Album Review)](./album-review/originals/) (3)
 
 
 ----
@@ -34,7 +44,7 @@
      * [Capri Theater  (Place)](./place/capri-theater/) (1)
      * [First Avenue (Place)](./place/first-avenue/) (5)
      * [Sam’s (Place)](./place/sam-s/) (2)
-     * [Sunset Sound (Place)](./place/sunset-sound/) (5)
+     * [Sunset Sound (Place)](./place/sunset-sound/) (6)
      * [Uncle Sam’s (Place)](./place/uncle-sam-s/) (2)
 
 
@@ -43,7 +53,9 @@
 
   * [Song](./song/)
      * [Erotic City (Song)](./song/erotic-city/) (1)
+     * [Nothing Compares 2 U (Song)](./song/nothing-compares-2-u/) (1)
      * [Sticky Wicked (Song)](./song/sticky-wicked/) (1)
+     * [Wally (Song)](./song/wally/) (1)
      * [Why Should I Love You? (Song)](./song/why-should-i-love-you/) (1)
 
 
@@ -70,7 +82,9 @@
   * [Candy Dulfer](./candy-dulfer/) (1)
   * [Chaka Khan](./chaka-khan/) (2)
   * [Controversy Music](./controversy-music/) (1)
+  * [Cynthia Rose](./cynthia-rose/) (1)
   * [David Brewster](./david-brewster/) (1)
+  * [David Geffen](./david-geffen/) (1)
   * [David Leonard](./david-leonard/) (1)
   * [Eric Clapton](./eric-clapton/) (1)
   * [Eric Leeds](./eric-leeds/) (1)
@@ -95,6 +109,7 @@
   * [Maceo Parker](./maceo-parker/) (1)
   * [Martika](./martika/) (4)
   * [Matt Fink](./matt-fink/) (1)
+  * [Mavis Staples](./mavis-staples/) (1)
   * [Mayte](./mayte/) (1)
   * [Mazarati](./mazarati/) (3)
   * [Michael Bland](./michael-bland/) (1)
@@ -110,6 +125,7 @@
   * [Prince: In Concert On The Big Screen](./prince-in-concert-on-the-big-screen/) (1)
   * [PRN Alumni Foundation](./prn-alumni-foundation/) (1)
   * [Questlove](./questlove/) (1)
+  * [Quincy Jones](./quincy-jones/) (1)
   * [Random House ](./random-house/) (1)
   * [Ricky Peterson](./ricky-peterson/) (1)
   * [Roger Linn](./roger-linn/) (1)
@@ -118,10 +134,10 @@
   * [St. Paul Peterson](./st-paul-peterson/) (1)
   * [Susan Rogers](./susan-rogers/) (5)
   * [Susanna Hoffs](./susanna-hoffs/) (3)
-  * [Susannah Melvoin](./susannah-melvoin/) (3)
+  * [Susannah Melvoin](./susannah-melvoin/) (4)
   * [Terry Casey](./terry-casey/) (1)
   * [Terry Lewis](./terry-lewis/) (1)
-  * [The Family](./the-family/) (3)
+  * [The Family](./the-family/) (4)
   * [The Revolution](./the-revolution/) (7)
   * [The Time](./the-time/) (9)
   * [Time Warner](./time-warner/) (1)
