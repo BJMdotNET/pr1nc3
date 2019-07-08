@@ -2,7 +2,6 @@
 
      
   * [Album](./album/)
-     
      * [Around The World In A Day (Album)](./album/around-the-world-in-a-day/) (1)
      * [Diamonds & Pearls (Album)](./album/diamonds-pearls/) (1)
      * [Lovesexy (Album)](./album/lovesexy/) (1)
@@ -15,15 +14,12 @@
      * [Ultimate Rave (Album)](./album/ultimate-rave/) (1)
      
   * [Book](./book/)
-     
      * [The Beautiful Ones (Book)](./book/the-beautiful-ones/) (1)
      
   * [Movie](./movie/)
-     
      * [Purple Rain (Movie)](./movie/purple-rain/) (3)
      
   * [Place](./place/)
-     
      * [Capri Theater  (Place)](./place/capri-theater/) (1)
      * [First Avenue (Place)](./place/first-avenue/) (5)
      * [Sam’s (Place)](./place/sam-s/) (2)
@@ -31,7 +27,6 @@
      * [Uncle Sam’s (Place)](./place/uncle-sam-s/) (2)
      
   * [Song](./song/)
-     
      * [Erotic City (Song)](./song/erotic-city/) (1)
      * [Sticky Wicked (Song)](./song/sticky-wicked/) (1)
      * [Why Should I Love You? (Song)](./song/why-should-i-love-you/) (1)
