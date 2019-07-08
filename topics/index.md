@@ -1,6 +1,5 @@
 # Topics
 
-     
   * [Album](./album/)
      * [Around The World In A Day (Album)](./album/around-the-world-in-a-day/) (1)
      * [Diamonds & Pearls (Album)](./album/diamonds-pearls/) (1)
@@ -12,27 +11,46 @@
      * [Rave Un2 the Joy Fantastic (Album)](./album/rave-un2-the-joy-fantastic/) (1)
      * [The Red Shoes (Album)](./album/the-red-shoes/) (2)
      * [Ultimate Rave (Album)](./album/ultimate-rave/) (1)
-     
+
+
+----
+
+
   * [Book](./book/)
      * [The Beautiful Ones (Book)](./book/the-beautiful-ones/) (1)
-     
+
+
+----
+
+
   * [Movie](./movie/)
      * [Purple Rain (Movie)](./movie/purple-rain/) (3)
-     
+
+
+----
+
+
   * [Place](./place/)
      * [Capri Theater  (Place)](./place/capri-theater/) (1)
      * [First Avenue (Place)](./place/first-avenue/) (5)
      * [Sam’s (Place)](./place/sam-s/) (2)
      * [Sunset Sound (Place)](./place/sunset-sound/) (5)
      * [Uncle Sam’s (Place)](./place/uncle-sam-s/) (2)
-     
+
+
+----
+
+
   * [Song](./song/)
      * [Erotic City (Song)](./song/erotic-city/) (1)
      * [Sticky Wicked (Song)](./song/sticky-wicked/) (1)
      * [Why Should I Love You? (Song)](./song/why-should-i-love-you/) (1)
-     
+
+
+----
+
+
   * [Video](./video/)
-     
      * [Rave Un2 the Year 2000 (Video)](./video/rave-un2-the-year-2000/) (1)
 
 ----
