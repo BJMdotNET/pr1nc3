@@ -1,5 +1,9 @@
 # Purple Rain (Movie)
 
+ - [**"Imagine, if you will, a picture with John Travolta as the 'Purple Rain' kid"**](http://www.startribune.com/c-j-imagine-if-you-will-a-picture-with-john-travolta-as-the-purple-rain-kid/512260012/) by C.J. (Cheryl Johnson) in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 July 2019 about Alan Light, Purple Rain (Movie) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-imagine-if-you-will-a-picture-with-john-travolta-as-the-purple-rain-kid/512260012/))
+
+----
+
  - [**"Exclusive: Universal Fast Tracking Movie with Prince’s Songs Now That Beatles Movie “Yesterday” is A Hit, “Rocketman” Still Soaring"**](https://www.showbiz411.com/2019/07/02/exclusive-universal-fast-tracking-movie-with-princes-songs-now-that-beatles-movie-yesterday-is-a-hit-rocketman-still-soaring) by Roger Friedman in [Showbiz411](https://www.showbiz411.com/) on 2 July 2019 about Purple Rain (Movie), Universal Pictures ([mirror](https://web.archive.org/web/*/https://www.showbiz411.com/2019/07/02/exclusive-universal-fast-tracking-movie-with-princes-songs-now-that-beatles-movie-yesterday-is-a-hit-rocketman-still-soaring))
 
 ----

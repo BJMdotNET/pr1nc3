@@ -14,7 +14,7 @@
   * [I Like Your Old Stuff](./i-like-your-old-stuff/) (1)
   * [KXLF.com](./kxlf-com/) (1)
   * [Lynn Goldsmith on Facebook](./lynn-goldsmith-on-facebook/) (1)
-  * [Minneapolis Star Tribune](./minneapolis-star-tribune/) (26)
+  * [Minneapolis Star Tribune](./minneapolis-star-tribune/) (28)
   * [Music Fans Stack Exchange](./music-fans-stack-exchange/) (1)
   * [NBC News](./nbc-news/) (1)
   * [Newsweek](./newsweek/) (1)

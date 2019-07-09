@@ -34,7 +34,7 @@
 
 
   * [Movie](./movie/)
-     * [Purple Rain (Movie)](./movie/purple-rain/) (3)
+     * [Purple Rain (Movie)](./movie/purple-rain/) (4)
 
 
 ----
@@ -67,6 +67,7 @@
 
 ----
 
+  * [Alan Light](./alan-light/) (2)
   * [Albert Magnoli](./albert-magnoli/) (1)
   * [Allen Beaulieu](./allen-beaulieu/) (1)
   * [Andy Warhol](./andy-warhol/) (5)

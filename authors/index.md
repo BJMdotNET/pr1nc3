@@ -2,6 +2,7 @@
 
   * [Alex Johnson](./alex-johnson/) (1)
   * [ASMP](./asmp/) (1)
+  * [C.J. (Cheryl Johnson)](./c-j-cheryl-johnson/) (2)
   * [Cameron Adams](./cameron-adams/) (2)
   * [Chris Riemenschneider](./chris-riemenschneider/) (7)
   * [Graeme Watson](./graeme-watson/) (1)
