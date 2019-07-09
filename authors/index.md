@@ -16,6 +16,7 @@
   * [Richard Chin](./richard-chin/) (1)
   * [Roger Friedman](./roger-friedman/) (1)
   * [Sammetria Goodson](./sammetria-goodson/) (1)
+  * [Serge Simonart](./serge-simonart/) (1)
   * [Stephen Cooke](./stephen-cooke/) (1)
   * [The Associated Press](./the-associated-press/) (2)
   * [Thomas Maddrey](./thomas-maddrey/) (1)

@@ -11,6 +11,7 @@
   * [EW (Entertainment Weekly)](./ew-entertainment-weekly/) (1)
   * [The Guardian](./the-guardian/) (1)
   * [Herald Sun](./herald-sun/) (1)
+  * [Humo](./humo/) (1)
   * [I Like Your Old Stuff](./i-like-your-old-stuff/) (1)
   * [KXLF.com](./kxlf-com/) (1)
   * [Lynn Goldsmith on Facebook](./lynn-goldsmith-on-facebook/) (1)
