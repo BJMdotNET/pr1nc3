@@ -2,6 +2,7 @@
 
   * [Alex Johnson](./alex-johnson/) (1)
   * [ASMP](./asmp/) (1)
+  * [Bill Pearis](./bill-pearis/) (1)
   * [C.J. (Cheryl Johnson)](./c-j-cheryl-johnson/) (2)
   * [Cameron Adams](./cameron-adams/) (2)
   * [Chris Riemenschneider](./chris-riemenschneider/) (7)
@@ -16,10 +17,12 @@
   * [Richard Chin](./richard-chin/) (1)
   * [Roger Friedman](./roger-friedman/) (1)
   * [Sammetria Goodson](./sammetria-goodson/) (1)
+  * [Serge Simonart](./serge-simonart/) (1)
   * [Stephen Cooke](./stephen-cooke/) (1)
   * [The Associated Press](./the-associated-press/) (2)
   * [Thomas Maddrey](./thomas-maddrey/) (1)
   * [Tim Campbell](./tim-campbell/) (1)
+  * [Timberwolves PR](./timberwolves-pr/) (1)
   * [Tom Moon](./tom-moon/) (1)
   * [Tom Von Malder](./tom-von-malder/) (1)
 

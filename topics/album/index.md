@@ -1,11 +1,11 @@
 # Album
 
-  * [Around The World In A Day (Album)](./album/around-the-world-in-a-day/) (1)
+  * [Around The World In A Day (Album)](./album/around-the-world-in-a-day/) (2)
   * [Crystal Ball (Album)](./album/crystal-ball/) (1)
   * [Diamonds & Pearls (Album)](./album/diamonds-pearls/) (1)
   * [Dream Factory (Album)](./album/dream-factory/) (1)
   * [Lovesexy (Album)](./album/lovesexy/) (1)
-  * [Originals (Album)](./album/originals/) (22)
+  * [Originals (Album)](./album/originals/) (23)
   * [Piano and a Microphone 1983 (Album)](./album/piano-and-a-microphone-1983/) (5)
   * [Purple Rain (Album)](./album/purple-rain/) (1)
   * [Rave In2 the Joy Fantastic (Album)](./album/rave-in2-the-joy-fantastic/) (1)
