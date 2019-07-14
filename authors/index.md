@@ -13,6 +13,7 @@
   * [Larry Neumeister](./larry-neumeister/) (2)
   * [Martin Talbot](./martin-talbot/) (1)
   * [Mesfin Fekadu](./mesfin-fekadu/) (1)
+  * [Michael Mitchell](./michael-mitchell/) (1)
   * [Neal Justin](./neal-justin/) (1)
   * [Paul Sinclair](./paul-sinclair/) (1)
   * [Richard Chin](./richard-chin/) (1)
