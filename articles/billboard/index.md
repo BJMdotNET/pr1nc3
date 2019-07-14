@@ -7,6 +7,8 @@
   * 2018: 
       [September](./billboard-2018-09.md) (3) | 
       [June](./billboard-2018-06.md) (1) | 
+  * 2016: 
+      [April](./billboard-2016-04.md) (2) | 
 
 ----
 
