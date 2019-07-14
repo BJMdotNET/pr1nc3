@@ -5,5 +5,6 @@
 
   * [articles](./articles/)
   * [authors](./authors/)
+  * [dates](./dates/)
   * [topics](./topics/)
   
