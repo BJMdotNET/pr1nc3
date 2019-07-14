@@ -20,4 +20,12 @@
 
 ----
 
+ - [**"Michael Howe : « J’ai passé en revue 262 titres du Vault pour Prince : Originals »"**](http://www.funku.fr/2019/michael-howe-jai-passe-en-revue-262-titres-du-vault-pour-prince-originals/) in [Funk-U](http://www.funku.fr/) on 6 June 2019 about Bernie Grundman, Michael Howe, Nothing Compares 2 U (Song), Originals (Album), Troy Carter ([mirror](https://web.archive.org/web/*/http://www.funku.fr/2019/michael-howe-jai-passe-en-revue-262-titres-du-vault-pour-prince-originals/))
+
+----
+
+ - [**"MICHAEL HOWE, L’ARCHIVISTE DE PRINCE, NOUS PARLE DE « ORIGINALS »"**](https://www.schkopi.com/index.php/2019/06/news/michael-howe-larchiviste-de-prince-nous-parle-de-originals/) in [schkopi](https://www.schkopi.com/) on 6 June 2019 about Michael Howe, Nothing Compares 2 U (Song), Originals (Album), Troy Carter ([mirror](https://web.archive.org/web/*/https://www.schkopi.com/index.php/2019/06/news/michael-howe-larchiviste-de-prince-nous-parle-de-originals/))
+
+----
+
 [Home](./)
