@@ -6,6 +6,7 @@
   * [Billboard](./billboard/) (8)
   * [Brooklyn Vegan](./brooklyn-vegan/) (1)
   * [The Chronicle Herald](./the-chronicle-herald/) (1)
+  * [CNBC](./cnbc/) (1)
   * [Courier-Gazette & Camden Herald](./courier-gazette-camden-herald/) (1)
   * [Esquire](./esquire/) (1)
   * [Essence](./essence/) (1)

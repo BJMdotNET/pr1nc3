@@ -6,6 +6,7 @@
   * [C.J. (Cheryl Johnson)](./c-j-cheryl-johnson/) (2)
   * [Cameron Adams](./cameron-adams/) (2)
   * [Chris Riemenschneider](./chris-riemenschneider/) (7)
+  * [Christopher DiLella](./christopher-dilella/) (1)
   * [Graeme Watson](./graeme-watson/) (1)
   * [Jon Bream](./jon-bream/) (10)
   * [Jon Winkler ](./jon-winkler/) (1)
