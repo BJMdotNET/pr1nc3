@@ -33,7 +33,7 @@
   * [Stephen Cooke](./stephen-cooke/) (1)
   * [Steve Baltin](./steve-baltin/) (1)
   * [Suzanne Vega](./suzanne-vega/) (1)
-  * [The Associated Press](./the-associated-press/) (5)
+  * [The Associated Press](./the-associated-press/) (6)
   * [Thomas Maddrey](./thomas-maddrey/) (1)
   * [Tim Campbell](./tim-campbell/) (1)
   * [Timberwolves PR](./timberwolves-pr/) (1)

@@ -103,6 +103,7 @@
   * [Donna Grantis](./donna-grantis/) (3)
   * [Eric Clapton](./eric-clapton/) (1)
   * [Eric Leeds](./eric-leeds/) (1)
+  * [fentanyl](./fentanyl/) (2)
   * [Flyte Tyme Productions](./flyte-tyme-productions/) (1)
   * [Gary Stiffelman](./gary-stiffelman/) (1)
   * [George Clinton](./george-clinton/) (1)

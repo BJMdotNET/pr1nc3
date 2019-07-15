@@ -2,7 +2,7 @@
 
   * [Architectural Digest](./architectural-digest/) (1)
   * [ASMP -- American Society of Media Photographers](./asmp-american-society-of-media-photographers/) (1)
-  * [Associated Press News](./associated-press-news/) (3)
+  * [Associated Press News](./associated-press-news/) (4)
   * [BBC News](./bbc-news/) (1)
   * [Billboard](./billboard/) (10)
   * [Box In A Suitcase](./box-in-a-suitcase/) (1)
