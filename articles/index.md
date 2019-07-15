@@ -2,7 +2,7 @@
 
   * [Architectural Digest](./architectural-digest/) (1)
   * [ASMP -- American Society of Media Photographers](./asmp-american-society-of-media-photographers/) (1)
-  * [Associated Press News](./associated-press-news/) (2)
+  * [Associated Press News](./associated-press-news/) (3)
   * [BBC News](./bbc-news/) (1)
   * [Billboard](./billboard/) (10)
   * [Box In A Suitcase](./box-in-a-suitcase/) (1)
@@ -22,7 +22,7 @@
   * [I Like Your Old Stuff](./i-like-your-old-stuff/) (1)
   * [KXLF.com](./kxlf-com/) (1)
   * [Lynn Goldsmith on Facebook](./lynn-goldsmith-on-facebook/) (1)
-  * [Minneapolis Star Tribune](./minneapolis-star-tribune/) (28)
+  * [Minneapolis Star Tribune](./minneapolis-star-tribune/) (50)
   * [Mirador de les Arts](./mirador-de-les-arts/) (1)
   * [Music Fans Stack Exchange](./music-fans-stack-exchange/) (1)
   * [NBA.com](./nba-com/) (1)

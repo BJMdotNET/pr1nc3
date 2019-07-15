@@ -8,4 +8,16 @@
 
 ----
 
+ - [**"Herb Ritts photos of Bowie, Madonna, more to be exhibited"**](https://www.apnews.com/1c8308821f394c988d91e49742dbd17e) by The Associated Press in [Associated Press News](https://www.apnews.com/) on 31 March 2019 about Herb Ritts ([mirror](https://web.archive.org/web/*/https://www.apnews.com/1c8308821f394c988d91e49742dbd17e))
+
+----
+
+ - [**"Herb Ritts photos of Bowie, Madonna, more to be exhibited"**](http://www.startribune.com/herb-ritts-photos-of-bowie-madonna-more-to-be-exhibited/507913581/) by The Associated Press in [Minneapolis Star Tribune](http://www.startribune.com/) on 31 March 2019 about Herb Ritts ([mirror](https://web.archive.org/web/*/http://www.startribune.com/herb-ritts-photos-of-bowie-madonna-more-to-be-exhibited/507913581/))
+
+----
+
+ - [**"The Latest: Klobuchar points to Prince in talking drug issue"**](http://www.startribune.com/the-latest-klobuchar-points-to-prince-in-talking-drug-issue/506023432/) by The Associated Press in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 February 2019 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/the-latest-klobuchar-points-to-prince-in-talking-drug-issue/506023432/))
+
+----
+
 [Home](../)

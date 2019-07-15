@@ -40,4 +40,36 @@
 
 ----
 
+ - [**"Prince's memoir 'The Beautiful Ones' will finally be published this fall"**](http://www.startribune.com/prince-s-memoir-the-beautiful-ones-will-finally-be-published-this-fall/508894482/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 April 2019 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-memoir-the-beautiful-ones-will-finally-be-published-this-fall/508894482/))
+
+----
+
+ - [**"Prince's greatest talent? Self-confidence, says the manager who landed 'Purple Rain' -- Bob Cavallo recounts some of the tales he'll tell at Paisley Park for the third annual Celebration."**](http://www.startribune.com/prince-s-greatest-talent-self-confidence-says-the-manager-who-landed-purple-rain/508774052/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 April 2019 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-greatest-talent-self-confidence-says-the-manager-who-landed-purple-rain/508774052/))
+
+----
+
+ - [**"Pick Six: Praise for Lil Nas X, Bob Mould, Zedd, 'Jay's Longhorn' and more"**](http://www.startribune.com/pick-six-praise-for-lil-nas-x-bob-mould-zedd-jay-s-longhorn-and-more/508453002/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 April 2019 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/pick-six-praise-for-lil-nas-x-bob-mould-zedd-jay-s-longhorn-and-more/508453002/))
+
+----
+
+ - [**"Former Prince guitarist Donna Grantis celebrates new jazz-rock album at the Dakota -- 3rdEyeGirl guitarist Donna Grantis will celebrate her new jazz-rock fusion album in Minneapolis."**](http://www.startribune.com/former-prince-guitarist-donna-grantis-celebrates-new-jazz-rock-album-at-the-dakota/507678332/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 March 2019 about 3rdEyeGirl, Dakota (Place), Donna Grantis ([mirror](https://web.archive.org/web/*/http://www.startribune.com/former-prince-guitarist-donna-grantis-celebrates-new-jazz-rock-album-at-the-dakota/507678332/))
+
+----
+
+ - [**"Prince protégée Donna Grantis elaborates on the titles for new 'Diamonds & Dynamite' album"**](http://www.startribune.com/prince-protge-donna-grantis-elaborates-on-the-titles-for-new-diamonds-amp-dynamite-album/507678302/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 March 2019 about Donna Grantis ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-protge-donna-grantis-elaborates-on-the-titles-for-new-diamonds-amp-dynamite-album/507678302/))
+
+----
+
+ - [**"Urn with Prince's ashes still in the building, 'just not on display' at Paisley Park"**](http://www.startribune.com/urn-with-prince-s-ashes-still-in-the-building-just-not-on-display-at-paisley-park/507434942/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 March 2019 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/urn-with-prince-s-ashes-still-in-the-building-just-not-on-display-at-paisley-park/507434942/))
+
+----
+
+ - [**"Paisley Park rocks again with four of Prince's female protégées in concert"**](http://www.startribune.com/paisley-park-rocks-again-with-four-of-prince-s-female-protegees-in-concert/507037812/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 March 2019 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-rocks-again-with-four-of-prince-s-female-protegees-in-concert/507037812/))
+
+----
+
+ - [**"Grammy winner Angelique Kidjo gets Afro funky covering Talking Heads in Minneapolis"**](http://www.startribune.com/grammy-winner-angelique-kidjo-gets-afro-funky-covering-talking-heads-in-minneapolis/506087722/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 February 2019 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/grammy-winner-angelique-kidjo-gets-afro-funky-covering-talking-heads-in-minneapolis/506087722/))
+
+----
+
 [Home](../)

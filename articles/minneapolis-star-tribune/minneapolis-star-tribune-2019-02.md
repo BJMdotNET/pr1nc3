@@ -1,14 +1,10 @@
-# 2019: February
+# Minneapolis Star Tribune: February 2019
 
  - [**"Grammy winner Angelique Kidjo gets Afro funky covering Talking Heads in Minneapolis"**](http://www.startribune.com/grammy-winner-angelique-kidjo-gets-afro-funky-covering-talking-heads-in-minneapolis/506087722/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 February 2019 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/grammy-winner-angelique-kidjo-gets-afro-funky-covering-talking-heads-in-minneapolis/506087722/))
 
 ----
 
  - [**"The Latest: Klobuchar points to Prince in talking drug issue"**](http://www.startribune.com/the-latest-klobuchar-points-to-prince-in-talking-drug-issue/506023432/) by The Associated Press in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 February 2019 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/the-latest-klobuchar-points-to-prince-in-talking-drug-issue/506023432/))
-
-----
-
- - [**"Chaka Khan On Why She Finally Released Her First Album In 12 Years"**](https://www.billboard.com/articles/news/8496614/chaka-khan-hello-happiness-interview) in [Billboard](https://www.billboard.com/) on 8 February 2019 about Chaka Khan, Joni Mitchell, Miles Davis, NPG Records, Sticky Wicked (Song) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8496614/chaka-khan-hello-happiness-interview))
 
 ----
 

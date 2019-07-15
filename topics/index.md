@@ -4,6 +4,7 @@
      * [Around The World In A Day (Album)](./album/around-the-world-in-a-day/) (2)
      * [Crystal Ball (Album)](./album/crystal-ball/) (1)
      * [Diamonds & Pearls (Album)](./album/diamonds-pearls/) (1)
+     * [Dirty Mind (Album)](./album/dirty-mind/) (1)
      * [Dream Factory (Album)](./album/dream-factory/) (1)
      * [Lovesexy (Album)](./album/lovesexy/) (1)
      * [Originals (Album)](./album/originals/) (26)
@@ -43,6 +44,7 @@
   * [Place](./place/)
      * [Bel Air (Place)](./place/bel-air/) (1)
      * [Capri Theater  (Place)](./place/capri-theater/) (1)
+     * [Dakota (Place)](./place/dakota/) (1)
      * [First Avenue (Place)](./place/first-avenue/) (6)
      * [Sam’s (Place)](./place/sam-s/) (2)
      * [Sunset Sound (Place)](./place/sunset-sound/) (6)
@@ -56,6 +58,7 @@
      * [Around The World In A Day (Song)](./song/around-the-world-in-a-day/) (1)
      * [Cold Coffee & Cocaine (Song)](./song/cold-coffee-cocaine/) (1)
      * [Erotic City (Song)](./song/erotic-city/) (1)
+     * [How Come U Don't Call Me Anymore (Song)](./song/how-come-u-don-t-call-me-anymore/) (1)
      * [Luka (Song)](./song/luka/) (4)
      * [Nothing Compares 2 U (Song)](./song/nothing-compares-2-u/) (5)
      * [Purple Rain (Song)](./song/purple-rain/) (1)
@@ -75,6 +78,7 @@
 
 ----
 
+  * [3rdEyeGirl](./3rdeyegirl/) (1)
   * [Alan Light](./alan-light/) (2)
   * [Albert Magnoli](./albert-magnoli/) (1)
   * [Alexander O’Neal](./alexander-o-neal/) (1)
@@ -96,6 +100,7 @@
   * [David Brewster](./david-brewster/) (1)
   * [David Geffen](./david-geffen/) (1)
   * [David Leonard](./david-leonard/) (1)
+  * [Donna Grantis](./donna-grantis/) (3)
   * [Eric Clapton](./eric-clapton/) (1)
   * [Eric Leeds](./eric-leeds/) (1)
   * [Flyte Tyme Productions](./flyte-tyme-productions/) (1)
@@ -103,6 +108,7 @@
   * [George Clinton](./george-clinton/) (1)
   * [Gilbert Davison](./gilbert-davison/) (1)
   * [Grammy Award](./grammy-award/) (1)
+  * [Herb Ritts](./herb-ritts/) (2)
   * [Ingrid Chavez](./ingrid-chavez/) (1)
   * [James Brown](./james-brown/) (1)
   * [Jamie Starr](./jamie-starr/) (1)
