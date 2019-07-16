@@ -1,6 +1,7 @@
 # Publications
 
   * [Architectural Digest](./architectural-digest/) (1)
+  * [artnet news](./artnet-news/) (1)
   * [ASMP -- American Society of Media Photographers](./asmp-american-society-of-media-photographers/) (1)
   * [Associated Press News](./associated-press-news/) (4)
   * [BBC News](./bbc-news/) (1)
@@ -11,6 +12,7 @@
   * [CNBC](./cnbc/) (1)
   * [Courier-Gazette & Camden Herald](./courier-gazette-camden-herald/) (1)
   * [De Tijd](./de-tijd/) (1)
+  * [El Mundo](./el-mundo/) (1)
   * [Esquire](./esquire/) (1)
   * [Essence](./essence/) (1)
   * [EW (Entertainment Weekly)](./ew-entertainment-weekly/) (1)
@@ -21,6 +23,7 @@
   * [Humo](./humo/) (1)
   * [I Like Your Old Stuff](./i-like-your-old-stuff/) (1)
   * [KXLF.com](./kxlf-com/) (1)
+  * [The Lefsetz Letter](./the-lefsetz-letter/) (1)
   * [Lynn Goldsmith on Facebook](./lynn-goldsmith-on-facebook/) (1)
   * [Minneapolis Star Tribune](./minneapolis-star-tribune/) (50)
   * [Mirador de les Arts](./mirador-de-les-arts/) (1)
@@ -31,6 +34,7 @@
   * [NME (New Musical Express)](./nme-new-musical-express/) (2)
   * [Official Charts](./official-charts/) (1)
   * [OUT In Perth](./out-in-perth/) (1)
+  * [People](./people/) (1)
   * [Pitchfork](./pitchfork/) (1)
   * [PopMatters](./popmatters/) (1)
   * [ProSound](./prosound/) (1)

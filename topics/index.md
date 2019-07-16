@@ -7,7 +7,7 @@
      * [Dirty Mind (Album)](./album/dirty-mind/) (1)
      * [Dream Factory (Album)](./album/dream-factory/) (1)
      * [Lovesexy (Album)](./album/lovesexy/) (1)
-     * [Originals (Album)](./album/originals/) (26)
+     * [Originals (Album)](./album/originals/) (27)
      * [Piano and a Microphone 1983 (Album)](./album/piano-and-a-microphone-1983/) (7)
      * [Purple Rain (Album)](./album/purple-rain/) (1)
      * [Rave In2 the Joy Fantastic (Album)](./album/rave-in2-the-joy-fantastic/) (1)
@@ -36,6 +36,7 @@
 
   * [Movie](./movie/)
      * [Purple Rain (Movie)](./movie/purple-rain/) (4)
+     * [Under the Cherry Moon (Movie)](./movie/under-the-cherry-moon/) (1)
 
 
 ----
@@ -73,6 +74,14 @@
 ----
 
 
+  * [Tour](./tour/)
+     * [Lovesexy (Tour)](./tour/lovesexy/) (1)
+     * [Sign O’ The Times (Tour)](./tour/sign-o-the-times/) (1)
+
+
+----
+
+
   * [Video](./video/)
      * [Rave Un2 the Year 2000 (Video)](./video/rave-un2-the-year-2000/) (1)
 
@@ -83,7 +92,7 @@
   * [Albert Magnoli](./albert-magnoli/) (1)
   * [Alexander O’Neal](./alexander-o-neal/) (1)
   * [Allen Beaulieu](./allen-beaulieu/) (1)
-  * [Andy Warhol](./andy-warhol/) (5)
+  * [Andy Warhol](./andy-warhol/) (6)
   * [Apollonia 6](./apollonia-6/) (3)
   * [Apollonia Kotero](./apollonia-kotero/) (2)
   * [Apple Music](./apple-music/) (2)
@@ -113,11 +122,13 @@
   * [Ingrid Chavez](./ingrid-chavez/) (1)
   * [James Brown](./james-brown/) (1)
   * [Jamie Starr](./jamie-starr/) (1)
+  * [Jeff Katz](./jeff-katz/) (1)
   * [Jesse Johnson](./jesse-johnson/) (1)
   * [Jill Jones](./jill-jones/) (9)
   * [Jill Wills](./jill-wills/) (1)
   * [Jimmy Jam](./jimmy-jam/) (2)
   * [Joey Coco](./joey-coco/) (2)
+  * [John L. Nelson](./john-l-nelson/) (1)
   * [Joni Mitchell](./joni-mitchell/) (6)
   * [Kate Bush](./kate-bush/) (2)
   * [Kenny Rogers](./kenny-rogers/) (4)
@@ -125,7 +136,7 @@
   * [Linn LM-1](./linn-lm-1/) (1)
   * [Lisa Coleman](./lisa-coleman/) (5)
   * [LP Music](./lp-music/) (1)
-  * [Lynn Goldsmith](./lynn-goldsmith/) (4)
+  * [Lynn Goldsmith](./lynn-goldsmith/) (5)
   * [Maceo Parker](./maceo-parker/) (1)
   * [Martika](./martika/) (4)
   * [Matt Fink](./matt-fink/) (1)
@@ -133,16 +144,17 @@
   * [Mayte](./mayte/) (1)
   * [Mazarati](./mazarati/) (3)
   * [Michael Bland](./michael-bland/) (1)
-  * [Michael Howe](./michael-howe/) (14)
+  * [Michael Howe](./michael-howe/) (16)
   * [Miles Davis](./miles-davis/) (1)
   * [Minnesota Timberwolves](./minnesota-timberwolves/) (1)
+  * [Mountains](./mountains/) (1)
   * [Netflix](./netflix/) (1)
   * [Niko Bolas](./niko-bolas/) (1)
   * [NPG Records](./npg-records/) (1)
   * [Paisley Park Enterprises](./paisley-park-enterprises/) (1)
   * [Paisley Park Records](./paisley-park-records/) (1)
   * [Peggy McCreary](./peggy-mccreary/) (7)
-  * [Prince Series](./prince-series/) (4)
+  * [Prince Series](./prince-series/) (5)
   * [Prince: In Concert On The Big Screen](./prince-in-concert-on-the-big-screen/) (1)
   * [PRN Alumni Foundation](./prn-alumni-foundation/) (1)
   * [Questlove](./questlove/) (2)
