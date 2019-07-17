@@ -1,7 +1,7 @@
 # Publications
 
   * [Architectural Digest](./architectural-digest/) (1)
-  * [artnet news](./artnet-news/) (1)
+  * [artnet news](./artnet-news/) (4)
   * [ASMP -- American Society of Media Photographers](./asmp-american-society-of-media-photographers/) (1)
   * [Associated Press News](./associated-press-news/) (4)
   * [BBC News](./bbc-news/) (1)
