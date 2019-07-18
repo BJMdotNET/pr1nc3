@@ -7,6 +7,8 @@
       [April](./minneapolis-star-tribune-2019-04.md) (15) | 
       [March](./minneapolis-star-tribune-2019-03.md) (12) | 
       [February](./minneapolis-star-tribune-2019-02.md) (2) | 
+  * 2018: 
+      [April](./minneapolis-star-tribune-2018-04.md) (3) | 
 
 ----
 

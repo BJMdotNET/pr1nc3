@@ -1,4 +1,40 @@
-# Authors
+# Topics
+
+  * [Associated Press](./associated-press/)
+     * [Amy Forliti (Associated Press)](./associated-press/amy-forliti/) (1)
+     * [Hillel Italie (Associated Press)](./associated-press/hillel-italie/) (1)
+     * [Leanne Italie (Associated Press)](./associated-press/leanne-italie/) (1)
+     * [Mesfin Fekadu (Associated Press)](./associated-press/mesfin-fekadu/) (1)
+     * [Pablo Gorondi (Associated Press)](./associated-press/pablo-gorondi/) (2)
+     * [Amy Forliti (Associated Press)](./associated-press/amy-forliti/) (1)
+     * [Hillel Italie (Associated Press)](./associated-press/hillel-italie/) (1)
+     * [Leanne Italie (Associated Press)](./associated-press/leanne-italie/) (1)
+     * [Mesfin Fekadu (Associated Press)](./associated-press/mesfin-fekadu/) (1)
+     * [Pablo Gorondi (Associated Press)](./associated-press/pablo-gorondi/) (2)
+
+
+----
+
+
+  * [The Associated Press](./the-associated-press/)
+     * [Larry Neumeister (The Associated Press)](./the-associated-press/larry-neumeister/) (2)
+     * [Amy Forliti (Associated Press)](./associated-press/amy-forliti/) (1)
+     * [Hillel Italie (Associated Press)](./associated-press/hillel-italie/) (1)
+     * [Leanne Italie (Associated Press)](./associated-press/leanne-italie/) (1)
+     * [Mesfin Fekadu (Associated Press)](./associated-press/mesfin-fekadu/) (1)
+     * [Pablo Gorondi (Associated Press)](./associated-press/pablo-gorondi/) (2)
+     * [Amy Forliti (Associated Press)](./associated-press/amy-forliti/) (1)
+     * [Hillel Italie (Associated Press)](./associated-press/hillel-italie/) (1)
+     * [Leanne Italie (Associated Press)](./associated-press/leanne-italie/) (1)
+     * [Mesfin Fekadu (Associated Press)](./associated-press/mesfin-fekadu/) (1)
+     * [Pablo Gorondi (Associated Press)](./associated-press/pablo-gorondi/) (2)
+     * [Amy Forliti (Associated Press)](./associated-press/amy-forliti/) (1)
+     * [Hillel Italie (Associated Press)](./associated-press/hillel-italie/) (1)
+     * [Leanne Italie (Associated Press)](./associated-press/leanne-italie/) (1)
+     * [Mesfin Fekadu (Associated Press)](./associated-press/mesfin-fekadu/) (1)
+     * [Pablo Gorondi (Associated Press)](./associated-press/pablo-gorondi/) (2)
+
+----
 
   * [Alex Johnson](./alex-johnson/) (1)
   * [ASMP](./asmp/) (1)
@@ -13,20 +49,15 @@
   * [Eileen Kinsella](./eileen-kinsella/) (2)
   * [Esther Lee](./esther-lee/) (1)
   * [Graeme Watson](./graeme-watson/) (1)
-  * [Hillel Italie](./hillel-italie/) (1)
   * [Jean Hopfensperger](./jean-hopfensperger/) (1)
-  * [Jon Bream](./jon-bream/) (18)
+  * [Jon Bream](./jon-bream/) (19)
   * [Jon Winkler ](./jon-winkler/) (1)
   * [Katy Read](./katy-read/) (2)
-  * [Larry Neumeister](./larry-neumeister/) (2)
-  * [Leanne Italie](./leanne-italie/) (1)
   * [Leila Navidi](./leila-navidi/) (1)
   * [Martin Talbot](./martin-talbot/) (1)
   * [Melinda Newman](./melinda-newman/) (1)
-  * [Mesfin Fekadu](./mesfin-fekadu/) (1)
   * [Michael Mitchell](./michael-mitchell/) (1)
   * [Neal Justin](./neal-justin/) (3)
-  * [Pablo Gorondi](./pablo-gorondi/) (2)
   * [Paul Sinclair](./paul-sinclair/) (1)
   * [Richard Chin](./richard-chin/) (1)
   * [Roger Friedman](./roger-friedman/) (1)

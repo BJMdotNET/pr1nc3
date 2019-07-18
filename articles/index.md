@@ -25,7 +25,7 @@
   * [KXLF.com](./kxlf-com/) (1)
   * [The Lefsetz Letter](./the-lefsetz-letter/) (1)
   * [Lynn Goldsmith on Facebook](./lynn-goldsmith-on-facebook/) (1)
-  * [Minneapolis Star Tribune](./minneapolis-star-tribune/) (50)
+  * [Minneapolis Star Tribune](./minneapolis-star-tribune/) (53)
   * [Mirador de les Arts](./mirador-de-les-arts/) (1)
   * [Music Fans Stack Exchange](./music-fans-stack-exchange/) (1)
   * [NBA.com](./nba-com/) (1)

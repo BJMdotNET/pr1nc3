@@ -4,4 +4,8 @@
 
 ----
 
+ - [**"A timeline of Prince's final days"**](http://www.startribune.com/a-timeline-of-prince-s-final-days/480321973/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 April 2018 about [Dakota (Place)](https://bjmdotnet.github.io/pr1nc3/topics/place/dakota/), [fentanyl](https://bjmdotnet.github.io/pr1nc3/topics/fentanyl/), [Kirk Johnson](https://bjmdotnet.github.io/pr1nc3/topics/kirk-johnson/) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/a-timeline-of-prince-s-final-days/480321973/))
+
+----
+
 [Home](../)

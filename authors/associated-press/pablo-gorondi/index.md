@@ -1,4 +1,4 @@
-# Pablo Gorondi
+# Pablo Gorondi (Associated Press)
 
  - [**"Review: Ex-Prince guitarist Donna Grantis explores fusion"**](http://www.startribune.com/review-ex-prince-guitarist-donna-grantis-explores-fusion/507416972/) by Pablo Gorondi (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 March 2019 about [Donna Grantis](https://bjmdotnet.github.io/pr1nc3/topics/donna-grantis/) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/review-ex-prince-guitarist-donna-grantis-explores-fusion/507416972/))
 
