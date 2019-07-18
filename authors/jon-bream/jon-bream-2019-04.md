@@ -16,7 +16,7 @@
 
 ----
 
- - [**"Prince's memoir 'The Beautiful Ones' will finally be published this fall"**](http://www.startribune.com/prince-s-memoir-the-beautiful-ones-will-finally-be-published-this-fall/508894482/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 April 2019 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-memoir-the-beautiful-ones-will-finally-be-published-this-fall/508894482/))
+ - [**"Prince's memoir 'The Beautiful Ones' will finally be published this fall"**](http://www.startribune.com/prince-s-memoir-the-beautiful-ones-will-finally-be-published-this-fall/508894482/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 April 2019 about [Random House ](https://bjmdotnet.github.io/pr1nc3/topics/random-house/), [The Beautiful Ones (Book)](https://bjmdotnet.github.io/pr1nc3/topics/book/the-beautiful-ones/) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-memoir-the-beautiful-ones-will-finally-be-published-this-fall/508894482/))
 
 ----
 
