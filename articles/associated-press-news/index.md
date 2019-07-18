@@ -5,6 +5,8 @@
       [April](./associated-press-news-2019-04.md) (1) | 
       [March](./associated-press-news-2019-03.md) (1) | 
       [February](./associated-press-news-2019-02.md) (1) | 
+  * 2018: 
+      [April](./associated-press-news-2018-04.md) (1) | 
 
 ----
 

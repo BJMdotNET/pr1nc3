@@ -1,35 +1,9 @@
 # Topics
 
   * [Associated Press](./associated-press/)
-     * [Amy Forliti (Associated Press)](./associated-press/amy-forliti/) (1)
+     * [Amy Forliti (Associated Press)](./associated-press/amy-forliti/) (2)
      * [Hillel Italie (Associated Press)](./associated-press/hillel-italie/) (1)
-     * [Leanne Italie (Associated Press)](./associated-press/leanne-italie/) (1)
-     * [Mesfin Fekadu (Associated Press)](./associated-press/mesfin-fekadu/) (1)
-     * [Pablo Gorondi (Associated Press)](./associated-press/pablo-gorondi/) (2)
-     * [Amy Forliti (Associated Press)](./associated-press/amy-forliti/) (1)
-     * [Hillel Italie (Associated Press)](./associated-press/hillel-italie/) (1)
-     * [Leanne Italie (Associated Press)](./associated-press/leanne-italie/) (1)
-     * [Mesfin Fekadu (Associated Press)](./associated-press/mesfin-fekadu/) (1)
-     * [Pablo Gorondi (Associated Press)](./associated-press/pablo-gorondi/) (2)
-
-
-----
-
-
-  * [The Associated Press](./the-associated-press/)
-     * [Larry Neumeister (The Associated Press)](./the-associated-press/larry-neumeister/) (2)
-     * [Amy Forliti (Associated Press)](./associated-press/amy-forliti/) (1)
-     * [Hillel Italie (Associated Press)](./associated-press/hillel-italie/) (1)
-     * [Leanne Italie (Associated Press)](./associated-press/leanne-italie/) (1)
-     * [Mesfin Fekadu (Associated Press)](./associated-press/mesfin-fekadu/) (1)
-     * [Pablo Gorondi (Associated Press)](./associated-press/pablo-gorondi/) (2)
-     * [Amy Forliti (Associated Press)](./associated-press/amy-forliti/) (1)
-     * [Hillel Italie (Associated Press)](./associated-press/hillel-italie/) (1)
-     * [Leanne Italie (Associated Press)](./associated-press/leanne-italie/) (1)
-     * [Mesfin Fekadu (Associated Press)](./associated-press/mesfin-fekadu/) (1)
-     * [Pablo Gorondi (Associated Press)](./associated-press/pablo-gorondi/) (2)
-     * [Amy Forliti (Associated Press)](./associated-press/amy-forliti/) (1)
-     * [Hillel Italie (Associated Press)](./associated-press/hillel-italie/) (1)
+     * [Larry Neumeister (Associated Press)](./associated-press/larry-neumeister/) (2)
      * [Leanne Italie (Associated Press)](./associated-press/leanne-italie/) (1)
      * [Mesfin Fekadu (Associated Press)](./associated-press/mesfin-fekadu/) (1)
      * [Pablo Gorondi (Associated Press)](./associated-press/pablo-gorondi/) (2)
