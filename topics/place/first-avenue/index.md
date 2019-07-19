@@ -1,6 +1,7 @@
 # First Avenue (Place)
 
   * 2019: 
+      [July](./first-avenue-place-2019-07.md) (1) | 
       [May](./first-avenue-place-2019-05.md) (2) | 
       [April](./first-avenue-place-2019-04.md) (3) | 
   * 2018: 

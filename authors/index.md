@@ -35,6 +35,7 @@
   * [Paul Sinclair](./paul-sinclair/) (1)
   * [Richard Chin](./richard-chin/) (1)
   * [Roger Friedman](./roger-friedman/) (1)
+  * [Ross Raihala](./ross-raihala/) (1)
   * [Sammetria Goodson](./sammetria-goodson/) (1)
   * [Sarah Cascone](./sarah-cascone/) (2)
   * [Serge Simonart](./serge-simonart/) (1)
