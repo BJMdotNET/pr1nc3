@@ -4,7 +4,7 @@
      * [Around The World In A Day (Album)](./album/around-the-world-in-a-day/) (2)
      * [Crystal Ball (Album)](./album/crystal-ball/) (1)
      * [Diamonds & Pearls (Album)](./album/diamonds-pearls/) (1)
-     * [Dirty Mind (Album)](./album/dirty-mind/) (1)
+     * [Dirty Mind (Album)](./album/dirty-mind/) (2)
      * [Dream Factory (Album)](./album/dream-factory/) (1)
      * [Lovesexy (Album)](./album/lovesexy/) (1)
      * [Originals (Album)](./album/originals/) (27)
@@ -35,7 +35,7 @@
 
 
   * [Movie](./movie/)
-     * [Purple Rain (Movie)](./movie/purple-rain/) (4)
+     * [Purple Rain (Movie)](./movie/purple-rain/) (5)
      * [Under the Cherry Moon (Movie)](./movie/under-the-cherry-moon/) (1)
 
 
@@ -78,6 +78,7 @@
 
   * [Tour](./tour/)
      * [Lovesexy (Tour)](./tour/lovesexy/) (1)
+     * [Purple Rain (Tour)](./tour/purple-rain/) (1)
      * [Sign O’ The Times (Tour)](./tour/sign-o-the-times/) (1)
 
 
@@ -96,6 +97,7 @@
   * [Allen Beaulieu](./allen-beaulieu/) (1)
   * [Andrew Kornfeld](./andrew-kornfeld/) (2)
   * [Andy Warhol](./andy-warhol/) (8)
+  * [Ani DiFranco](./ani-difranco/) (1)
   * [Apollonia 6](./apollonia-6/) (3)
   * [Apollonia Kotero](./apollonia-kotero/) (2)
   * [Apple Music](./apple-music/) (2)
@@ -122,7 +124,7 @@
   * [Gary Stiffelman](./gary-stiffelman/) (1)
   * [George Clinton](./george-clinton/) (1)
   * [Gilbert Davison](./gilbert-davison/) (1)
-  * [Grammy Award](./grammy-award/) (1)
+  * [Grammy Award](./grammy-award/) (2)
   * [Hannah Welton](./hannah-welton/) (1)
   * [Herb Ritts](./herb-ritts/) (2)
   * [Howard Kornfeld](./howard-kornfeld/) (2)
@@ -144,6 +146,7 @@
   * [Kenny Rogers](./kenny-rogers/) (4)
   * [Kirk Johnson](./kirk-johnson/) (4)
   * [Lenny Henry](./lenny-henry/) (1)
+  * [LeRoy Bennett](./leroy-bennett/) (1)
   * [Linn LM-1](./linn-lm-1/) (1)
   * [Lisa Coleman](./lisa-coleman/) (5)
   * [LP Music](./lp-music/) (1)

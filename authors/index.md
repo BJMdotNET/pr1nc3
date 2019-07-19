@@ -1,4 +1,4 @@
-# Topics
+# Authors
 
   * [Associated Press](./associated-press/)
      * [Amy Forliti (Associated Press)](./associated-press/amy-forliti/) (2)
@@ -39,7 +39,7 @@
   * [Sarah Cascone](./sarah-cascone/) (2)
   * [Serge Simonart](./serge-simonart/) (1)
   * [Stephen Cooke](./stephen-cooke/) (1)
-  * [Steve Baltin](./steve-baltin/) (1)
+  * [Steve Baltin](./steve-baltin/) (2)
   * [Suzanne Vega](./suzanne-vega/) (1)
   * [The Associated Press](./the-associated-press/) (6)
   * [Thomas Maddrey](./thomas-maddrey/) (1)
