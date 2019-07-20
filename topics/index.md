@@ -203,6 +203,7 @@
   * [Terry Lewis](./terry-lewis/) (3)
   * [The Family](./the-family/) (6)
   * [The Revolution](./the-revolution/) (8)
+  * [The Roots](./the-roots/) (1)
   * [The Time](./the-time/) (11)
   * [Time Warner](./time-warner/) (1)
   * [Tom Moon](./tom-moon/) (1)
