@@ -1,7 +1,7 @@
 # Jon Bream
 
   * 2019: 
-      [July](./jon-bream-2019-07.md) (1) | 
+      [July](./jon-bream-2019-07.md) (2) | 
       [June](./jon-bream-2019-06.md) (2) | 
       [May](./jon-bream-2019-05.md) (3) | 
       [April](./jon-bream-2019-04.md) (7) | 

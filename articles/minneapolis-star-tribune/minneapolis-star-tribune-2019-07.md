@@ -1,5 +1,9 @@
 # Minneapolis Star Tribune: July 2019
 
+ - [**"From Neil to J. Lo: The 10 greatest Twin Cities concerts of 2019 (so far) -- Here are the performers who thrilled us. "**](http://www.startribune.com/from-neil-to-j-lo-the-10-greatest-twin-cities-concerts-of-2019-so-far/512907922/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 July 2019 about [The Roots](https://bjmdotnet.github.io/pr1nc3/topics/the-roots/) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/from-neil-to-j-lo-the-10-greatest-twin-cities-concerts-of-2019-so-far/512907922/))
+
+----
+
  - [**"C.J.: Music stars can learn more about themselves by acquiescing to media interviews"**](http://www.startribune.com/c-j-music-stars-can-learn-more-about-themselves-by-acquiescing-to-media-interviews/512421852/) by C.J. (Cheryl Johnson) in [Minneapolis Star Tribune](http://www.startribune.com/) on 8 July 2019 about [Alan Light](https://bjmdotnet.github.io/pr1nc3/topics/alan-light/) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-music-stars-can-learn-more-about-themselves-by-acquiescing-to-media-interviews/512421852/))
 
 ----
