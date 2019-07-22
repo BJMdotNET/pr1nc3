@@ -12,7 +12,7 @@
   * [Piano and a Microphone 1983 (Album)](./album/piano-and-a-microphone-1983/) (8)
   * [Purple Rain (Album)](./album/purple-rain/) (1)
   * [Rave In2 the Joy Fantastic (Album)](./album/rave-in2-the-joy-fantastic/) (1)
-  * [Rave Un2 the Joy Fantastic (Album)](./album/rave-un2-the-joy-fantastic/) (1)
+  * [Rave Un2 the Joy Fantastic (Album)](./album/rave-un2-the-joy-fantastic/) (2)
   * [The Black Album (Album)](./album/the-black-album/) (1)
   * [The Gold Experience (Album)](./album/the-gold-experience/) (1)
   * [The Red Shoes (Album)](./album/the-red-shoes/) (2)

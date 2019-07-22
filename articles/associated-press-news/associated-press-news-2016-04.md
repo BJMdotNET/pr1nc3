@@ -1,0 +1,7 @@
+# Associated Press News: April 2016
+
+ - [**"Prince’s former wives issue messages of grief"**](https://apnews.com/e1248c7300a445e0a07e438cf492a4c4) in [Associated Press News](https://www.apnews.com/) on 23 April 2016 about [In a Perfect World](https://bjmdotnet.github.io/pr1nc3/topics/in-a-perfect-world/), [Manuela Testolini](https://bjmdotnet.github.io/pr1nc3/topics/manuela-testolini/), [Mayte](https://bjmdotnet.github.io/pr1nc3/topics/mayte/), [Mayte Garcia](https://bjmdotnet.github.io/pr1nc3/topics/mayte-garcia/) ([mirror](https://web.archive.org/web/*/https://apnews.com/e1248c7300a445e0a07e438cf492a4c4))
+
+----
+
+[Home](./)

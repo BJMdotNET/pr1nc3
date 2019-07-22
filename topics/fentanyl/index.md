@@ -6,6 +6,8 @@
   * 2018: 
       [September](./fentanyl-2018-09.md) (1) | 
       [April](./fentanyl-2018-04.md) (3) | 
+  * 2016: 
+      [June](./fentanyl-2016-06.md) (1) | 
 
 ----
 
