@@ -1,12 +1,14 @@
 # Authors
 
   * [Associated Press](./associated-press/)
-     * [Amy Forliti (Associated Press)](./associated-press/amy-forliti/) (2)
+     * [Amy Forliti (Associated Press)](./associated-press/amy-forliti/) (3)
      * [Hillel Italie (Associated Press)](./associated-press/hillel-italie/) (2)
+     * [Jeff Baenen (Associated Press)](./associated-press/jeff-baenen/) (1)
      * [Larry Neumeister (Associated Press)](./associated-press/larry-neumeister/) (2)
      * [Leanne Italie (Associated Press)](./associated-press/leanne-italie/) (1)
      * [Mesfin Fekadu (Associated Press)](./associated-press/mesfin-fekadu/) (1)
      * [Pablo Gorondi (Associated Press)](./associated-press/pablo-gorondi/) (2)
+     * [Steve Karnowski (Associated Press)](./associated-press/steve-karnowski/) (1)
 
 ----
 
@@ -42,7 +44,7 @@
   * [Stephen Cooke](./stephen-cooke/) (1)
   * [Steve Baltin](./steve-baltin/) (2)
   * [Suzanne Vega](./suzanne-vega/) (1)
-  * [The Associated Press](./the-associated-press/) (6)
+  * [The Associated Press](./the-associated-press/) (9)
   * [Thomas Maddrey](./thomas-maddrey/) (1)
   * [Tim Campbell](./tim-campbell/) (1)
   * [Timberwolves PR](./timberwolves-pr/) (1)
