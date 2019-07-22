@@ -1,6 +1,7 @@
 # Topics
 
   * [Album](./album/)
+     * [1999 (Album)](./album/1999/) (1)
      * [3121 (Album)](./album/3121/) (1)
      * [Around The World In A Day (Album)](./album/around-the-world-in-a-day/) (2)
      * [Crystal Ball (Album)](./album/crystal-ball/) (1)
@@ -9,7 +10,7 @@
      * [Dream Factory (Album)](./album/dream-factory/) (1)
      * [Emancipation (Album)](./album/emancipation/) (1)
      * [Lovesexy (Album)](./album/lovesexy/) (1)
-     * [Originals (Album)](./album/originals/) (27)
+     * [Originals (Album)](./album/originals/) (28)
      * [Piano and a Microphone 1983 (Album)](./album/piano-and-a-microphone-1983/) (8)
      * [Purple Rain (Album)](./album/purple-rain/) (1)
      * [Rave In2 the Joy Fantastic (Album)](./album/rave-in2-the-joy-fantastic/) (1)
@@ -24,7 +25,7 @@
 
 
   * [Album Review](./album-review/)
-     * [Originals (Album Review)](./album-review/originals/) (5)
+     * [Originals (Album Review)](./album-review/originals/) (6)
 
 
 ----
@@ -65,11 +66,15 @@
      * [17 Days (Song)](./song/17-days/) (1)
      * [Around The World In A Day (Song)](./song/around-the-world-in-a-day/) (1)
      * [Cold Coffee & Cocaine (Song)](./song/cold-coffee-cocaine/) (2)
+     * [Do It All Night (Song)](./song/do-it-all-night/) (1)
+     * [Do Me Baby (Song)](./song/do-me-baby/) (1)
      * [Erotic City (Song)](./song/erotic-city/) (1)
      * [Got a Broken Heart Again (Song)](./song/got-a-broken-heart-again/) (1)
      * [How Come U Don't Call Me Anymore (Song)](./song/how-come-u-don-t-call-me-anymore/) (1)
+     * [I Wanna Be Your Lover (Song)](./song/i-wanna-be-your-lover/) (1)
      * [Luka (Song)](./song/luka/) (4)
      * [Nothing Compares 2 U (Song)](./song/nothing-compares-2-u/) (7)
+     * [Pop Life (Song)](./song/pop-life/) (1)
      * [Purple Rain (Song)](./song/purple-rain/) (2)
      * [Starfish And Coffee (Song)](./song/starfish-and-coffee/) (1)
      * [Sticky Wicked (Song)](./song/sticky-wicked/) (1)
@@ -83,6 +88,7 @@
 
 
   * [Tour](./tour/)
+     * [Dirty Mind (Tour)](./tour/dirty-mind/) (1)
      * [Lovesexy (Tour)](./tour/lovesexy/) (1)
      * [Purple Rain (Tour)](./tour/purple-rain/) (1)
      * [Sign O’ The Times (Tour)](./tour/sign-o-the-times/) (1)
@@ -113,7 +119,9 @@
   * [Bernie Grundman](./bernie-grundman/) (2)
   * [Bernie Grundman Mastering](./bernie-grundman-mastering/) (1)
   * [BET Awards](./bet-awards/) (1)
+  * [Bob Cavallo](./bob-cavallo/) (1)
   * [Bobby Z.](./bobby-z/) (1)
+  * [bootleg](./bootleg/) (1)
   * [Brown Mark](./brown-mark/) (1)
   * [Brownmark](./brownmark/) (2)
   * [Candy Dulfer](./candy-dulfer/) (1)
@@ -132,6 +140,7 @@
   * [Eric Leeds](./eric-leeds/) (2)
   * [Esperanza Spalding](./esperanza-spalding/) (1)
   * [Esther Newberg](./esther-newberg/) (1)
+  * [Eye Records](./eye-records/) (1)
   * [fDeluxe](./fdeluxe/) (1)
   * [fentanyl](./fentanyl/) (8)
   * [Flyte Tyme Productions](./flyte-tyme-productions/) (1)
@@ -168,7 +177,7 @@
   * [Lenny Henry](./lenny-henry/) (1)
   * [LeRoy Bennett](./leroy-bennett/) (1)
   * [Linn LM-1](./linn-lm-1/) (1)
-  * [Lisa Coleman](./lisa-coleman/) (6)
+  * [Lisa Coleman](./lisa-coleman/) (7)
   * [LP Music](./lp-music/) (1)
   * [Lynn Goldsmith](./lynn-goldsmith/) (6)
   * [Maceo Parker](./maceo-parker/) (1)
@@ -182,7 +191,7 @@
   * [Mazarati](./mazarati/) (3)
   * [Meron Bekure](./meron-bekure/) (2)
   * [Michael Bland](./michael-bland/) (1)
-  * [Michael Howe](./michael-howe/) (17)
+  * [Michael Howe](./michael-howe/) (18)
   * [Michael Todd Schulenberg](./michael-todd-schulenberg/) (2)
   * [Miles Davis](./miles-davis/) (1)
   * [Minnesota Timberwolves](./minnesota-timberwolves/) (1)
@@ -223,7 +232,7 @@
   * [Terry Casey](./terry-casey/) (1)
   * [Terry Lewis](./terry-lewis/) (3)
   * [The Family](./the-family/) (6)
-  * [The Revolution](./the-revolution/) (8)
+  * [The Revolution](./the-revolution/) (9)
   * [The Roots](./the-roots/) (1)
   * [The Time](./the-time/) (11)
   * [Tidal](./tidal/) (2)
@@ -239,7 +248,7 @@
   * [Vicodin](./vicodin/) (1)
   * [Warner Bros. Records](./warner-bros-records/) (3)
   * [Warner/Chappell Music](./warner-chappell-music/) (1)
-  * [Wendy Melvoin](./wendy-melvoin/) (4)
+  * [Wendy Melvoin](./wendy-melvoin/) (5)
 
 ----
 

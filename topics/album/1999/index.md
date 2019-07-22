@@ -1,7 +1,7 @@
-# Variety: September 2018
+# 1999 (Album)
 
  - [**"Prince’s Longtime Pianist and Archivist Talk ‘Piano & a Microphone 1983’ and the ‘Vault’ -- "It’s a look at somebody who shared himself with the public taking moments for himself, to make himself better," the Revolution's Lisa Coleman says"**](https://variety.com/2018/biz/news/princes-longtime-pianist-and-archivist-talk-piano-a-microphone-1983-and-the-vault-1202952085/) in [Variety](https://variety.com/) on 21 September 2018 about [1999 (Album)](https://bjmdotnet.github.io/pr1nc3/topics/album/1999/), [Bob Cavallo](https://bjmdotnet.github.io/pr1nc3/topics/bob-cavallo/), [Dirty Mind (Tour)](https://bjmdotnet.github.io/pr1nc3/topics/tour/dirty-mind/), [Do It All Night (Song)](https://bjmdotnet.github.io/pr1nc3/topics/song/do-it-all-night/), [Do Me Baby (Song)](https://bjmdotnet.github.io/pr1nc3/topics/song/do-me-baby/), [I Wanna Be Your Lover (Song)](https://bjmdotnet.github.io/pr1nc3/topics/song/i-wanna-be-your-lover/), [Lisa Coleman](https://bjmdotnet.github.io/pr1nc3/topics/lisa-coleman/), [Michael Howe](https://bjmdotnet.github.io/pr1nc3/topics/michael-howe/), [Pop Life (Song)](https://bjmdotnet.github.io/pr1nc3/topics/song/pop-life/), [The Revolution](https://bjmdotnet.github.io/pr1nc3/topics/the-revolution/), [Wendy Melvoin](https://bjmdotnet.github.io/pr1nc3/topics/wendy-melvoin/) ([mirror](https://web.archive.org/web/*/https://variety.com/2018/biz/news/princes-longtime-pianist-and-archivist-talk-piano-a-microphone-1983-and-the-vault-1202952085/))
 
 ----
 
-[Home](./)
+[Home](../)

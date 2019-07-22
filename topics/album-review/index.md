@@ -1,6 +1,6 @@
 # Album Review
 
-  * [Originals (Album Review)](./album-review/originals/) (5)
+  * [Originals (Album Review)](./album-review/originals/) (6)
 
 ----
 
