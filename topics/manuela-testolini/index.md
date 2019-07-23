@@ -8,7 +8,27 @@
 
 ----
 
+ - [**"Minnesota school gets music classroom in Prince’s honor"**](https://www.apnews.com/fe46b7e749314c719a83b9b6c8279700) in [Associated Press News](https://www.apnews.com/) on 10 June 2018 about [In a Perfect World](https://bjmdotnet.github.io/pr1nc3/topics/in-a-perfect-world/), [Manuela Testolini](https://bjmdotnet.github.io/pr1nc3/topics/manuela-testolini/) ([mirror](https://web.archive.org/web/*/https://www.apnews.com/fe46b7e749314c719a83b9b6c8279700))
+
+----
+
+ - [**"Judge rejects claims by Prince divorce lawyer for $600,000"**](https://www.apnews.com/061fb04e9fcf448782e9b921b971eac9) in [Associated Press News](https://www.apnews.com/) on 11 April 2017 about [Manuela Testolini](https://bjmdotnet.github.io/pr1nc3/topics/manuela-testolini/), [Patrick Cousins](https://bjmdotnet.github.io/pr1nc3/topics/patrick-cousins/) ([mirror](https://web.archive.org/web/*/https://www.apnews.com/061fb04e9fcf448782e9b921b971eac9))
+
+----
+
  - [**"Divorce file: Prince, 2nd wife lived luxurious lifestyle"**](https://apnews.com/d52610515904420ca116e820411aa344) in [Associated Press News](https://www.apnews.com/) on 13 January 2017 about [Manuela Testolini](https://bjmdotnet.github.io/pr1nc3/topics/manuela-testolini/), [Mayte](https://bjmdotnet.github.io/pr1nc3/topics/mayte/), [Mayte Garcia](https://bjmdotnet.github.io/pr1nc3/topics/mayte-garcia/) ([mirror](https://web.archive.org/web/*/https://apnews.com/d52610515904420ca116e820411aa344))
+
+----
+
+ - [**"Judge orders Prince divorce file unsealed; ex-wife objected"**](https://www.apnews.com/75c476d27c0246fbbba2e908f2985acf) in [Associated Press News](https://www.apnews.com/) on 22 December 2016 about [Bremer Trust](https://bjmdotnet.github.io/pr1nc3/topics/bremer-trust/), [fentanyl](https://bjmdotnet.github.io/pr1nc3/topics/fentanyl/), [Manuela Testolini](https://bjmdotnet.github.io/pr1nc3/topics/manuela-testolini/), [Omarr Baker](https://bjmdotnet.github.io/pr1nc3/topics/omarr-baker/) ([mirror](https://web.archive.org/web/*/https://www.apnews.com/75c476d27c0246fbbba2e908f2985acf))
+
+----
+
+ - [**"Prince’s ex-wife wants to keep 2006 divorce records sealed"**](https://apnews.com/bf6e2876e5614884afb5e3775a127af3) in [Associated Press News](https://www.apnews.com/) on 4 August 2016 about [fentanyl](https://bjmdotnet.github.io/pr1nc3/topics/fentanyl/), [Manuela Testolini](https://bjmdotnet.github.io/pr1nc3/topics/manuela-testolini/) ([mirror](https://web.archive.org/web/*/https://apnews.com/bf6e2876e5614884afb5e3775a127af3))
+
+----
+
+ - [**"Lawyers may have ‘potentially relevant’ info on Prince heirs"**](https://apnews.com/649c8b53a3514b54a7116f7f04641458) in [Associated Press News](https://www.apnews.com/) on 13 July 2016 about [Bremer Trust](https://bjmdotnet.github.io/pr1nc3/topics/bremer-trust/), [Henson & Efron](https://bjmdotnet.github.io/pr1nc3/topics/henson-efron/), [Manuela Testolini](https://bjmdotnet.github.io/pr1nc3/topics/manuela-testolini/) ([mirror](https://web.archive.org/web/*/https://apnews.com/649c8b53a3514b54a7116f7f04641458))
 
 ----
 

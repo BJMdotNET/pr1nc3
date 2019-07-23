@@ -1,12 +1,34 @@
 # Joni Mitchell
 
-  * 2019: 
-      [February](./joni-mitchell-2019-02.md) (1) | 
-  * 2018: 
-      [October](./joni-mitchell-2018-10.md) (1) | 
-      [September](./joni-mitchell-2018-09.md) (3) | 
-      [July](./joni-mitchell-2018-07.md) (1) | 
-      [June](./joni-mitchell-2018-06.md) (1) | 
+ - [**"Chaka Khan On Why She Finally Released Her First Album In 12 Years"**](https://www.billboard.com/articles/news/8496614/chaka-khan-hello-happiness-interview) in [Billboard](https://www.billboard.com/) on 8 February 2019 about [Chaka Khan](https://bjmdotnet.github.io/pr1nc3/topics/chaka-khan/), [Joni Mitchell](https://bjmdotnet.github.io/pr1nc3/topics/joni-mitchell/), [Miles Davis](https://bjmdotnet.github.io/pr1nc3/topics/miles-davis/), [NPG Records](https://bjmdotnet.github.io/pr1nc3/topics/npg-records/), [Sticky Wicked (Song)](https://bjmdotnet.github.io/pr1nc3/topics/song/sticky-wicked/) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8496614/chaka-khan-hello-happiness-interview))
+
+----
+
+ - [**"'Piano and a Microphone': The Inside Story of the Long-Lost Prince Recording From 1983"**](https://www.newsweek.com/2018/10/19/prince-piano-microphone-purple-rain-17-days-1983-paisly-park-1131839.html) in [Newsweek](https://www.newsweek.com/) on 19 October 2018 about [Jill Jones](https://bjmdotnet.github.io/pr1nc3/topics/jill-jones/), [Joni Mitchell](https://bjmdotnet.github.io/pr1nc3/topics/joni-mitchell/), [Michael Howe](https://bjmdotnet.github.io/pr1nc3/topics/michael-howe/), [Piano and a Microphone 1983 (Album)](https://bjmdotnet.github.io/pr1nc3/topics/album/piano-and-a-microphone-1983/) ([mirror](https://web.archive.org/web/*/https://www.newsweek.com/2018/10/19/prince-piano-microphone-purple-rain-17-days-1983-paisly-park-1131839.html))
+
+----
+
+ - [**"Prince’s new basement tape: Just him singing, playing piano"**](https://apnews.com/e0a9e78a662c40d3adee133110bc8489) by Jeff Baenen (Associated Press) in [Associated Press News](https://www.apnews.com/) on 18 September 2018 about [17 Days (Song)](https://bjmdotnet.github.io/pr1nc3/topics/song/17-days/), [Cold Coffee & Cocaine (Song)](https://bjmdotnet.github.io/pr1nc3/topics/song/cold-coffee-cocaine/), [fentanyl](https://bjmdotnet.github.io/pr1nc3/topics/fentanyl/), [Joni Mitchell](https://bjmdotnet.github.io/pr1nc3/topics/joni-mitchell/), [Lisa Coleman](https://bjmdotnet.github.io/pr1nc3/topics/lisa-coleman/), [Michael Howe](https://bjmdotnet.github.io/pr1nc3/topics/michael-howe/), [NPG Records](https://bjmdotnet.github.io/pr1nc3/topics/npg-records/), [Piano and a Microphone 1983 (Album)](https://bjmdotnet.github.io/pr1nc3/topics/album/piano-and-a-microphone-1983/), [Purple Rain (Song)](https://bjmdotnet.github.io/pr1nc3/topics/song/purple-rain/), [Troy Carter](https://bjmdotnet.github.io/pr1nc3/topics/troy-carter/), [Warner Bros. Records](https://bjmdotnet.github.io/pr1nc3/topics/warner-bros-records/), [Why The Butterflies (Song)](https://bjmdotnet.github.io/pr1nc3/topics/song/why-the-butterflies/) ([mirror](https://web.archive.org/web/*/https://apnews.com/e0a9e78a662c40d3adee133110bc8489))
+
+----
+
+ - [**"Prince's New 'Piano & A Microphone 1983' Basement Tape Is as Simple as It Sounds"**](https://www.billboard.com/articles/news/8475824/prince-piano-and-a-microphone-1983-album) in [Billboard](https://www.billboard.com/) on 18 September 2018 about [Joni Mitchell](https://bjmdotnet.github.io/pr1nc3/topics/joni-mitchell/), [Lisa Coleman](https://bjmdotnet.github.io/pr1nc3/topics/lisa-coleman/), [Michael Howe](https://bjmdotnet.github.io/pr1nc3/topics/michael-howe/), [Piano and a Microphone 1983 (Album)](https://bjmdotnet.github.io/pr1nc3/topics/album/piano-and-a-microphone-1983/), [Troy Carter](https://bjmdotnet.github.io/pr1nc3/topics/troy-carter/) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8475824/prince-piano-and-a-microphone-1983-album))
+
+----
+
+ - [**"'It's Prince, thinking aloud on the piano'"**](https://www.bbc.com/news/entertainment-arts-45510532) in [BBC News](https://www.bbc.com/news/) on 15 September 2018 about [Cold Coffee & Cocaine (Song)](https://bjmdotnet.github.io/pr1nc3/topics/song/cold-coffee-cocaine/), [Jamie Starr](https://bjmdotnet.github.io/pr1nc3/topics/jamie-starr/), [Joni Mitchell](https://bjmdotnet.github.io/pr1nc3/topics/joni-mitchell/), [Lisa Coleman](https://bjmdotnet.github.io/pr1nc3/topics/lisa-coleman/), [Michael Howe](https://bjmdotnet.github.io/pr1nc3/topics/michael-howe/), [Piano and a Microphone 1983 (Album)](https://bjmdotnet.github.io/pr1nc3/topics/album/piano-and-a-microphone-1983/), [Purple Rain (Song)](https://bjmdotnet.github.io/pr1nc3/topics/song/purple-rain/), [The Revolution](https://bjmdotnet.github.io/pr1nc3/topics/the-revolution/), [Wednesday (Song)](https://bjmdotnet.github.io/pr1nc3/topics/song/wednesday/), [Why The Butterflies (Song)](https://bjmdotnet.github.io/pr1nc3/topics/song/why-the-butterflies/) ([mirror](https://web.archive.org/web/*/https://www.bbc.com/news/entertainment-arts-45510532))
+
+----
+
+ - [**"The Prince Estate’s Big Plans: Inside the Upcoming Purple Reign -- The late singer’s estate is currently exploring licensing, future releases and even a hotel – all while trying to consider what Prince would have wanted"**](https://www.rollingstone.com/music/music-features/prince-estate-big-plans-upcoming-purple-reign-698529/) in [Rolling Stone](https://www.rollingstone.com/) on 13 July 2018 about [First Avenue (Place)](https://bjmdotnet.github.io/pr1nc3/topics/place/first-avenue/), [Joni Mitchell](https://bjmdotnet.github.io/pr1nc3/topics/joni-mitchell/), [Michael Howe](https://bjmdotnet.github.io/pr1nc3/topics/michael-howe/), [Nothing Compares 2 U (Song)](https://bjmdotnet.github.io/pr1nc3/topics/song/nothing-compares-2-u/), [Piano and a Microphone 1983 (Album)](https://bjmdotnet.github.io/pr1nc3/topics/album/piano-and-a-microphone-1983/), [Questlove](https://bjmdotnet.github.io/pr1nc3/topics/questlove/), [Susan Rogers](https://bjmdotnet.github.io/pr1nc3/topics/susan-rogers/), [Troy Carter](https://bjmdotnet.github.io/pr1nc3/topics/troy-carter/), [Warner Bros. Records](https://bjmdotnet.github.io/pr1nc3/topics/warner-bros-records/) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/prince-estate-big-plans-upcoming-purple-reign-698529/))
+
+----
+
+ - [**"Prince Estate Releasing Unheard 'Piano & A Microphone 1983' Album -- Record captured at singer's home studio is due out Sept. 21."**](https://www.billboard.com/articles/columns/rock/8459820/prince-estate-releasing-unheard-piano-a-microphone-1983-album) in [Billboard](https://www.billboard.com/) on 7 June 2018 about [Allen Beaulieu](https://bjmdotnet.github.io/pr1nc3/topics/allen-beaulieu/), [Joni Mitchell](https://bjmdotnet.github.io/pr1nc3/topics/joni-mitchell/), [Piano and a Microphone 1983 (Album)](https://bjmdotnet.github.io/pr1nc3/topics/album/piano-and-a-microphone-1983/), [Troy Carter](https://bjmdotnet.github.io/pr1nc3/topics/troy-carter/) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/columns/rock/8459820/prince-estate-releasing-unheard-piano-a-microphone-1983-album))
+
+----
+
+ - [**"The scholarly Prince: U symposium explores musical icon’s link to Minneapolis"**](https://www.apnews.com/6a20afbf0eeb41c9a728cbaaa1c2af71) in [Associated Press News](https://www.apnews.com/) on 17 April 2018 about [Joni Mitchell](https://bjmdotnet.github.io/pr1nc3/topics/joni-mitchell/), [Mayte](https://bjmdotnet.github.io/pr1nc3/topics/mayte/), [Mayte Garcia](https://bjmdotnet.github.io/pr1nc3/topics/mayte-garcia/) ([mirror](https://web.archive.org/web/*/https://www.apnews.com/6a20afbf0eeb41c9a728cbaaa1c2af71))
 
 ----
 

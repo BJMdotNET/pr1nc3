@@ -1,0 +1,7 @@
+# Mayte Garcia: April 2018
+
+ - [**"The scholarly Prince: U symposium explores musical icon’s link to Minneapolis"**](https://www.apnews.com/6a20afbf0eeb41c9a728cbaaa1c2af71) in [Associated Press News](https://www.apnews.com/) on 17 April 2018 about [Joni Mitchell](https://bjmdotnet.github.io/pr1nc3/topics/joni-mitchell/), [Mayte](https://bjmdotnet.github.io/pr1nc3/topics/mayte/), [Mayte Garcia](https://bjmdotnet.github.io/pr1nc3/topics/mayte-garcia/) ([mirror](https://web.archive.org/web/*/https://www.apnews.com/6a20afbf0eeb41c9a728cbaaa1c2af71))
+
+----
+
+[Home](./)

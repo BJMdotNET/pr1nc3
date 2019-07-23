@@ -1,7 +1,0 @@
-# Andy Warhol: June 2019
-
- - [**"Prince Collaborators Share Stories About the Songs He Gave to Others on 'Originals'"**](https://www.billboard.com/articles/news/8517755/prince-collaborators-originals) in [Billboard](https://www.billboard.com/) on 26 June 2019 about [Andy Warhol](https://bjmdotnet.github.io/pr1nc3/topics/andy-warhol/), [Bangles](https://bjmdotnet.github.io/pr1nc3/topics/bangles/), [Jill Jones](https://bjmdotnet.github.io/pr1nc3/topics/jill-jones/), [Kenny Rogers](https://bjmdotnet.github.io/pr1nc3/topics/kenny-rogers/), [Martika](https://bjmdotnet.github.io/pr1nc3/topics/martika/), [Originals (Album)](https://bjmdotnet.github.io/pr1nc3/topics/album/originals/), [Peggy McCreary](https://bjmdotnet.github.io/pr1nc3/topics/peggy-mccreary/), [Sheila E.](https://bjmdotnet.github.io/pr1nc3/topics/sheila-e/), [Sunset Sound (Place)](https://bjmdotnet.github.io/pr1nc3/topics/place/sunset-sound/), [Susanna Hoffs](https://bjmdotnet.github.io/pr1nc3/topics/susanna-hoffs/), [Susannah Melvoin](https://bjmdotnet.github.io/pr1nc3/topics/susannah-melvoin/), [The Family](https://bjmdotnet.github.io/pr1nc3/topics/the-family/), [The Revolution](https://bjmdotnet.github.io/pr1nc3/topics/the-revolution/), [The Time](https://bjmdotnet.github.io/pr1nc3/topics/the-time/) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8517755/prince-collaborators-originals))
-
-----
-
-[Home](./)

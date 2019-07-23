@@ -9,6 +9,7 @@
   * [Sam’s (Place)](./place/sam-s/) (2)
   * [Sunset Sound (Place)](./place/sunset-sound/) (6)
   * [Uncle Sam’s (Place)](./place/uncle-sam-s/) (2)
+  * [Xcel Energy Center (Place)](./place/xcel-energy-center/) (3)
 
 ----
 

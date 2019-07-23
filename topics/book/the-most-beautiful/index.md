@@ -12,4 +12,12 @@
 
 ----
 
+ - [**"AM Prep-Segue"**](https://www.apnews.com/94705887ea764bd1b5d2381eb0622bb9) in [Associated Press News](https://www.apnews.com/) on 11 April 2017 about [Mayte](https://bjmdotnet.github.io/pr1nc3/topics/mayte/), [Mayte Garcia](https://bjmdotnet.github.io/pr1nc3/topics/mayte-garcia/), [The Most Beautiful (Book)](https://bjmdotnet.github.io/pr1nc3/topics/book/the-most-beautiful/) ([mirror](https://web.archive.org/web/*/https://www.apnews.com/94705887ea764bd1b5d2381eb0622bb9))
+
+----
+
+ - [**"AM Prep-Music"**](https://www.apnews.com/00a854bad6dc4bea836dcf16182e0978) in [Associated Press News](https://www.apnews.com/) on 16 March 2017 about [Mayte](https://bjmdotnet.github.io/pr1nc3/topics/mayte/), [Pfeiffer syndrome type 2](https://bjmdotnet.github.io/pr1nc3/topics/pfeiffer-syndrome-type-2/), [The Most Beautiful (Book)](https://bjmdotnet.github.io/pr1nc3/topics/book/the-most-beautiful/) ([mirror](https://web.archive.org/web/*/https://www.apnews.com/00a854bad6dc4bea836dcf16182e0978))
+
+----
+
 [Home](../)

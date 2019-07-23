@@ -4,4 +4,8 @@
 
 ----
 
+ - [**"Minnesota school gets music classroom in Prince’s honor"**](https://www.apnews.com/fe46b7e749314c719a83b9b6c8279700) in [Associated Press News](https://www.apnews.com/) on 10 June 2018 about [In a Perfect World](https://bjmdotnet.github.io/pr1nc3/topics/in-a-perfect-world/), [Manuela Testolini](https://bjmdotnet.github.io/pr1nc3/topics/manuela-testolini/) ([mirror](https://web.archive.org/web/*/https://www.apnews.com/fe46b7e749314c719a83b9b6c8279700))
+
+----
+
 [Home](./)
