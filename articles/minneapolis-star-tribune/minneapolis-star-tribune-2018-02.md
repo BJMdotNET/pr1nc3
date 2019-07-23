@@ -1,0 +1,11 @@
+# Minneapolis Star Tribune: February 2018
+
+ - [**"Minnesota Twins will funk it up with Prince branding deal, second night honoring the artist"**](http://www.startribune.com/minnesota-twins-bring-back-popular-prince-night-for-a-second-year/475168823/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 27 February 2018 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/minnesota-twins-bring-back-popular-prince-night-for-a-second-year/475168823/))
+
+----
+
+ - [**"Second annual Celebration at Prince's Paisley Park to feature Sheila E., fDeluxe, NPG"**](http://www.startribune.com/second-annual-celebration-at-prince-s-paisley-park-to-feature-sheila-e-fdeluxe-npg/474975113/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 23 February 2018 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/second-annual-celebration-at-prince-s-paisley-park-to-feature-sheila-e-fdeluxe-npg/474975113/))
+
+----
+
+[Home](./)

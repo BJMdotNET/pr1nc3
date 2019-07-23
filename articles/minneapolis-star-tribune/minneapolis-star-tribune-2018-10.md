@@ -1,4 +1,4 @@
-# 2018: October
+# Minneapolis Star Tribune: October 2018
 
  - [**"'A Wrinkle in Time' director Ava DuVernay to make Prince documentary for Netflix"**](http://www.startribune.com/ava-duvernay-to-make-prince-documentary-for-netflix/499015301/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 31 October 2018 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/ava-duvernay-to-make-prince-documentary-for-netflix/499015301/))
 
@@ -17,10 +17,6 @@
 ----
 
  - [**"Warner Bros. radio representative Steve Fingerett dies at 67"**](http://www.startribune.com/warner-bros-radio-representative-steve-fingerett-dies-at-67/498793531/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 27 October 2018 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/warner-bros-radio-representative-steve-fingerett-dies-at-67/498793531/))
-
-----
-
- - [**"'Piano and a Microphone': The Inside Story of the Long-Lost Prince Recording From 1983"**](https://www.newsweek.com/2018/10/19/prince-piano-microphone-purple-rain-17-days-1983-paisly-park-1131839.html) in [Newsweek](https://www.newsweek.com/) on 19 October 2018 about [Jill Jones](https://bjmdotnet.github.io/pr1nc3/topics/jill-jones/), [Joni Mitchell](https://bjmdotnet.github.io/pr1nc3/topics/joni-mitchell/), [Michael Howe](https://bjmdotnet.github.io/pr1nc3/topics/michael-howe/), [Piano and a Microphone 1983 (Album)](https://bjmdotnet.github.io/pr1nc3/topics/album/piano-and-a-microphone-1983/) ([mirror](https://web.archive.org/web/*/https://www.newsweek.com/2018/10/19/prince-piano-microphone-purple-rain-17-days-1983-paisly-park-1131839.html))
 
 ----
 

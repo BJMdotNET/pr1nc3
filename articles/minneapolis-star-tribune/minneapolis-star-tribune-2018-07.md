@@ -1,14 +1,10 @@
-# 2018: July
+# Minneapolis Star Tribune: July 2018
 
  - [**"Lizzo earns a big nod as Rolling Stone's 'Artist You Need to Know'"**](http://www.startribune.com/lizzo-earns-a-big-nod-as-rolling-stone-s-artist-you-need-to-know/489627651/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 31 July 2018 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/lizzo-earns-a-big-nod-as-rolling-stone-s-artist-you-need-to-know/489627651/))
 
 ----
 
  - [**"'Purple Rain' singalong video outside First Ave nightclub banned, then reinstated on Twitter"**](http://www.startribune.com/purple-rain-singalong-video-outside-first-ave-nightclub-banned-then-reinstated-on-twitter/489369791/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 27 July 2018 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/purple-rain-singalong-video-outside-first-ave-nightclub-banned-then-reinstated-on-twitter/489369791/))
-
-----
-
- - [**"The Prince Estate’s Big Plans: Inside the Upcoming Purple Reign -- The late singer’s estate is currently exploring licensing, future releases and even a hotel – all while trying to consider what Prince would have wanted"**](https://www.rollingstone.com/music/music-features/prince-estate-big-plans-upcoming-purple-reign-698529/) in [Rolling Stone](https://www.rollingstone.com/) on 13 July 2018 about [First Avenue (Place)](https://bjmdotnet.github.io/pr1nc3/topics/place/first-avenue/), [Joni Mitchell](https://bjmdotnet.github.io/pr1nc3/topics/joni-mitchell/), [Michael Howe](https://bjmdotnet.github.io/pr1nc3/topics/michael-howe/), [Nothing Compares 2 U (Song)](https://bjmdotnet.github.io/pr1nc3/topics/song/nothing-compares-2-u/), [Piano and a Microphone 1983 (Album)](https://bjmdotnet.github.io/pr1nc3/topics/album/piano-and-a-microphone-1983/), [Questlove](https://bjmdotnet.github.io/pr1nc3/topics/questlove/), [Susan Rogers](https://bjmdotnet.github.io/pr1nc3/topics/susan-rogers/), [Troy Carter](https://bjmdotnet.github.io/pr1nc3/topics/troy-carter/), [Warner Bros. Records](https://bjmdotnet.github.io/pr1nc3/topics/warner-bros-records/) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/prince-estate-big-plans-upcoming-purple-reign-698529/))
 
 ----
 

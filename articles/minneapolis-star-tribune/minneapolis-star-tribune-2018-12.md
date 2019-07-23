@@ -1,4 +1,4 @@
-# 2018: December
+# Minneapolis Star Tribune: December 2018
 
  - [**"After a decade of dormancy, Chaka Khan blooms again"**](http://www.startribune.com/after-a-decade-of-dormancy-chaka-khan-blooms-again/503608222/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 28 December 2018 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/after-a-decade-of-dormancy-chaka-khan-blooms-again/503608222/))
 
@@ -21,10 +21,6 @@
 ----
 
  - [**"Universal plans authorized fictitious film based on Prince's songs"**](http://www.startribune.com/universal-plans-authorized-fictitious-film-based-on-prince-s-songs/501912161/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 4 December 2018 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/universal-plans-authorized-fictitious-film-based-on-prince-s-songs/501912161/))
-
-----
-
- - [**"Movie Inspired by Prince’s Music in the Works at Universal (EXCLUSIVE)"**](https://variety.com/2018/film/news/universal-original-movie-inspired-by-princes-music-1203067739/) in [Variety](https://variety.com/) on 3 December 2018 about [Troy Carter](https://bjmdotnet.github.io/pr1nc3/topics/troy-carter/), [Universal Music Publishing Group](https://bjmdotnet.github.io/pr1nc3/topics/universal-music-publishing-group/), [Universal Pictures](https://bjmdotnet.github.io/pr1nc3/topics/universal-pictures/) ([mirror](https://web.archive.org/web/*/https://variety.com/2018/film/news/universal-original-movie-inspired-by-princes-music-1203067739/))
 
 ----
 
