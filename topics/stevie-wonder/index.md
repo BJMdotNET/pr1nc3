@@ -12,6 +12,10 @@
 
 ----
 
+ - [**"Still no will, but work to settle Prince estate forges ahead"**](https://apnews.com/e2669a78b7dd4d8fb5c6e743d4acc29d) in [Associated Press News](https://www.apnews.com/) on 25 September 2016 about [Bremer Trust](https://bjmdotnet.github.io/pr1nc3/topics/bremer-trust/), [Chaka Khan](https://bjmdotnet.github.io/pr1nc3/topics/chaka-khan/), [Charles Koppelman](https://bjmdotnet.github.io/pr1nc3/topics/charles-koppelman/), [Christina Aguilera](https://bjmdotnet.github.io/pr1nc3/topics/christina-aguilera/), [Graceland](https://bjmdotnet.github.io/pr1nc3/topics/graceland/), [Judith Hill](https://bjmdotnet.github.io/pr1nc3/topics/judith-hill/), [Liv Warfield](https://bjmdotnet.github.io/pr1nc3/topics/liv-warfield/), [Morris Day & The Time](https://bjmdotnet.github.io/pr1nc3/topics/morris-day-the-time/), [New Power Generation](https://bjmdotnet.github.io/pr1nc3/topics/new-power-generation/), [Stevie Wonder](https://bjmdotnet.github.io/pr1nc3/topics/stevie-wonder/), [The Time](https://bjmdotnet.github.io/pr1nc3/topics/the-time/), [Tyka Nelson](https://bjmdotnet.github.io/pr1nc3/topics/tyka-nelson/), [Xcel Energy Center (Place)](https://bjmdotnet.github.io/pr1nc3/topics/place/xcel-energy-center/) ([mirror](https://web.archive.org/web/*/https://apnews.com/e2669a78b7dd4d8fb5c6e743d4acc29d))
+
+----
+
  - [**"APNewsBreak: Official Prince tribute concert set for October"**](https://www.apnews.com/08568057d51c46f8a3daf99e36db5e38) in [Associated Press News](https://www.apnews.com/) on 28 July 2016 about [Janelle Monae](https://bjmdotnet.github.io/pr1nc3/topics/janelle-monae/), [Mayte](https://bjmdotnet.github.io/pr1nc3/topics/mayte/), [Mayte Garcia](https://bjmdotnet.github.io/pr1nc3/topics/mayte-garcia/), [Sheila E.](https://bjmdotnet.github.io/pr1nc3/topics/sheila-e/), [Stevie Wonder](https://bjmdotnet.github.io/pr1nc3/topics/stevie-wonder/), [The Roots](https://bjmdotnet.github.io/pr1nc3/topics/the-roots/), [Tori Kelly](https://bjmdotnet.github.io/pr1nc3/topics/tori-kelly/) ([mirror](https://web.archive.org/web/*/https://www.apnews.com/08568057d51c46f8a3daf99e36db5e38))
 
 ----
