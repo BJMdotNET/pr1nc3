@@ -1,9 +1,5 @@
 # Manuela Testolini
 
- - [**"No ‘tell-all,’ but Prince’s ex details their life in memoir"**](https://www.apnews.com/0c93c63651ef4f15adde78e51b38c197) in [Associated Press News](https://www.apnews.com/) on 10 April 2019 about [Manuela Testolini](https://bjmdotnet.github.io/pr1nc3/topics/manuela-testolini/), [Mayte](https://bjmdotnet.github.io/pr1nc3/topics/mayte/), [Mayte Garcia](https://bjmdotnet.github.io/pr1nc3/topics/mayte-garcia/), [The Most Beautiful (Book)](https://bjmdotnet.github.io/pr1nc3/topics/book/the-most-beautiful/) ([mirror](https://web.archive.org/web/*/https://www.apnews.com/0c93c63651ef4f15adde78e51b38c197))
-
-----
-
  - [**"Foundation of Prince’s second wife to honor him at gala"**](https://www.apnews.com/16e91a0add574df1b24e5df54dfbc087) in [Associated Press News](https://www.apnews.com/) on 1 March 2019 about [Apollonia Kotero](https://bjmdotnet.github.io/pr1nc3/topics/apollonia-kotero/), [Chaka Khan](https://bjmdotnet.github.io/pr1nc3/topics/chaka-khan/), [In a Perfect World](https://bjmdotnet.github.io/pr1nc3/topics/in-a-perfect-world/), [Manuela Testolini](https://bjmdotnet.github.io/pr1nc3/topics/manuela-testolini/) ([mirror](https://web.archive.org/web/*/https://www.apnews.com/16e91a0add574df1b24e5df54dfbc087))
 
 ----
@@ -13,6 +9,10 @@
 ----
 
  - [**"Judge rejects claims by Prince divorce lawyer for $600,000"**](https://www.apnews.com/061fb04e9fcf448782e9b921b971eac9) in [Associated Press News](https://www.apnews.com/) on 11 April 2017 about [Manuela Testolini](https://bjmdotnet.github.io/pr1nc3/topics/manuela-testolini/), [Patrick Cousins](https://bjmdotnet.github.io/pr1nc3/topics/patrick-cousins/) ([mirror](https://web.archive.org/web/*/https://www.apnews.com/061fb04e9fcf448782e9b921b971eac9))
+
+----
+
+ - [**"No ‘tell-all,’ but Prince’s ex details their life in memoir"**](https://www.apnews.com/0c93c63651ef4f15adde78e51b38c197) in [Associated Press News](https://www.apnews.com/) on 10 April 2017 about [Manuela Testolini](https://bjmdotnet.github.io/pr1nc3/topics/manuela-testolini/), [Mayte](https://bjmdotnet.github.io/pr1nc3/topics/mayte/), [Mayte Garcia](https://bjmdotnet.github.io/pr1nc3/topics/mayte-garcia/), [The Most Beautiful (Book)](https://bjmdotnet.github.io/pr1nc3/topics/book/the-most-beautiful/) ([mirror](https://web.archive.org/web/*/https://www.apnews.com/0c93c63651ef4f15adde78e51b38c197))
 
 ----
 
