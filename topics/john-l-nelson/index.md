@@ -8,4 +8,8 @@
 
 ----
 
+ - [**"Review: John L. Nelson Project records jazz by Prince's dad"**](http://www.startribune.com/review-john-l-nelson-project-records-jazz-by-prince-s-dad/476151463/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 7 March 2018 about [John L. Nelson](https://bjmdotnet.github.io/pr1nc3/topics/john-l-nelson/) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/review-john-l-nelson-project-records-jazz-by-prince-s-dad/476151463/))
+
+----
+
 [Home](../)

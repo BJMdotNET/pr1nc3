@@ -8,4 +8,8 @@
 
 ----
 
+ - [**"Prince's former musician Donna Grantis plays guitar hero at the Dakota"**](http://www.startribune.com/prince-s-former-musician-donna-grantis-plays-guitar-hero-at-the-dakota/480212673/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 April 2018 about [Dakota (Place)](https://bjmdotnet.github.io/pr1nc3/topics/place/dakota/), [Donna Grantis](https://bjmdotnet.github.io/pr1nc3/topics/donna-grantis/) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-former-musician-donna-grantis-plays-guitar-hero-at-the-dakota/480212673/))
+
+----
+
 [Home](../)

@@ -41,6 +41,7 @@
   * [PopMatters](./popmatters/) (1)
   * [ProSound](./prosound/) (1)
   * [RadioFacts](./radiofacts/) (1)
+  * [relix](./relix/) (1)
   * [Reverb](./reverb/) (1)
   * [Rolling Stone](./rolling-stone/) (2)
   * [schkopi](./schkopi/) (1)

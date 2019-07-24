@@ -22,6 +22,7 @@
   * [Christopher DiLella](./christopher-dilella/) (1)
   * [Colin Stutz](./colin-stutz/) (1)
   * [David Chanen](./david-chanen/) (1)
+  * [Dean Budnick](./dean-budnick/) (1)
   * [Eileen Kinsella](./eileen-kinsella/) (2)
   * [Esther Lee](./esther-lee/) (1)
   * [Graeme Watson](./graeme-watson/) (1)

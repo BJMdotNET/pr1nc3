@@ -1,6 +1,6 @@
 # Minneapolis Star Tribune: April 2018
 
- - [**"Janelle Monáe to tout her new Prince-infused album July 3 at the State"**](http://www.startribune.com/janelle-monae-to-tout-her-new-prince-infused-album-july-3-at-the-state/480567481/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 23 April 2018 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/janelle-monae-to-tout-her-new-prince-infused-album-july-3-at-the-state/480567481/))
+ - [**"Janelle Monáe to tout her new Prince-infused album July 3 at the State"**](http://www.startribune.com/janelle-monae-to-tout-her-new-prince-infused-album-july-3-at-the-state/480567481/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 23 April 2018 about [Janelle Monae](https://bjmdotnet.github.io/pr1nc3/topics/janelle-monae/) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/janelle-monae-to-tout-her-new-prince-infused-album-july-3-at-the-state/480567481/))
 
 ----
 
@@ -36,11 +36,11 @@
 
 ----
 
- - [**"Celebration 2018 at Paisley Park for Prince"**](http://www.startribune.com/celebration-2018-at-paisley-park-for-prince/480313663/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 April 2018 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/celebration-2018-at-paisley-park-for-prince/480313663/))
+ - [**"Celebration 2018 at Paisley Park for Prince"**](http://www.startribune.com/celebration-2018-at-paisley-park-for-prince/480313663/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 April 2018 about [Celebration 2018](https://bjmdotnet.github.io/pr1nc3/topics/celebration-2018/) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/celebration-2018-at-paisley-park-for-prince/480313663/))
 
 ----
 
- - [**"New Prince record released today: His version of 'Nothing Compares 2 U'"**](http://www.startribune.com/new-prince-record-released-today-his-version-of-nothing-compares-2-u/480265043/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 April 2018 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/new-prince-record-released-today-his-version-of-nothing-compares-2-u/480265043/))
+ - [**"New Prince record released today: His version of 'Nothing Compares 2 U'"**](http://www.startribune.com/new-prince-record-released-today-his-version-of-nothing-compares-2-u/480265043/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 April 2018 about [Nothing Compares 2 U (Song)](https://bjmdotnet.github.io/pr1nc3/topics/song/nothing-compares-2-u/) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/new-prince-record-released-today-his-version-of-nothing-compares-2-u/480265043/))
 
 ----
 
@@ -56,7 +56,7 @@
 
 ----
 
- - [**"Prince's former musician Donna Grantis plays guitar hero at the Dakota"**](http://www.startribune.com/prince-s-former-musician-donna-grantis-plays-guitar-hero-at-the-dakota/480212673/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 April 2018 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-former-musician-donna-grantis-plays-guitar-hero-at-the-dakota/480212673/))
+ - [**"Prince's former musician Donna Grantis plays guitar hero at the Dakota"**](http://www.startribune.com/prince-s-former-musician-donna-grantis-plays-guitar-hero-at-the-dakota/480212673/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 April 2018 about [Dakota (Place)](https://bjmdotnet.github.io/pr1nc3/topics/place/dakota/), [Donna Grantis](https://bjmdotnet.github.io/pr1nc3/topics/donna-grantis/) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-former-musician-donna-grantis-plays-guitar-hero-at-the-dakota/480212673/))
 
 ----
 
@@ -72,7 +72,7 @@
 
 ----
 
- - [**"Everything was cool once keyboardist Morris Hayes figured out which Prince had arrived"**](http://www.startribune.com/c-j-everything-was-cool-once-keyboardist-morris-hayes-figured-out-which-prince-had-arrived/480052643/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 April 2018 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-everything-was-cool-once-keyboardist-morris-hayes-figured-out-which-prince-had-arrived/480052643/))
+ - [**"Everything was cool once keyboardist Morris Hayes figured out which Prince had arrived"**](http://www.startribune.com/c-j-everything-was-cool-once-keyboardist-morris-hayes-figured-out-which-prince-had-arrived/480052643/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 April 2018 about [Morris Hayes](https://bjmdotnet.github.io/pr1nc3/topics/morris-hayes/) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-everything-was-cool-once-keyboardist-morris-hayes-figured-out-which-prince-had-arrived/480052643/))
 
 ----
 

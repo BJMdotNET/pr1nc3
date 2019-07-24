@@ -11,7 +11,7 @@
   * [I Feel For You (Song)](./song/i-feel-for-you/) (2)
   * [I Wanna Be Your Lover (Song)](./song/i-wanna-be-your-lover/) (1)
   * [Luka (Song)](./song/luka/) (4)
-  * [Nothing Compares 2 U (Song)](./song/nothing-compares-2-u/) (7)
+  * [Nothing Compares 2 U (Song)](./song/nothing-compares-2-u/) (8)
   * [Pop Life (Song)](./song/pop-life/) (1)
   * [Purple Rain (Song)](./song/purple-rain/) (2)
   * [Starfish And Coffee (Song)](./song/starfish-and-coffee/) (1)
