@@ -1,6 +1,6 @@
 # 2018
 
-  * [December](./2018-12.md) (7)
+  * [December](./2018-12.md) (8)
   * [November](./2018-11.md) (9)
   * [October](./2018-10.md) (10)
   * [September](./2018-09.md) (22)

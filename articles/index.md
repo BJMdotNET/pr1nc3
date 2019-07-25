@@ -54,7 +54,7 @@
   * [Tom Moon on Medium](./tom-moon-on-medium/) (1)
   * [TwinCities.com - Pioneer Press](./twincities-com-pioneer-press/) (1)
   * [US Weekly](./us-weekly/) (1)
-  * [USA Today](./usa-today/) (1)
+  * [USA Today](./usa-today/) (6)
   * [Variety](./variety/) (4)
   * [Vulture](./vulture/) (1)
   * [The West Australian](./the-west-australian/) (1)

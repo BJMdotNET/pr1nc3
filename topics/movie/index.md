@@ -1,6 +1,6 @@
 # Movie
 
-  * [Purple Rain (Movie)](./movie/purple-rain/) (7)
+  * [Purple Rain (Movie)](./movie/purple-rain/) (10)
   * [Under the Cherry Moon (Movie)](./movie/under-the-cherry-moon/) (1)
 
 ----
