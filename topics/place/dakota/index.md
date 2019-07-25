@@ -1,5 +1,9 @@
 # Dakota (Place)
 
+ - [**"Lizz Wright shakes her soulful Prince tambourine at the Dakota"**](http://www.startribune.com/lizz-wright-shakes-her-soulful-prince-tambourine-at-the-dakota/510019492/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 16 May 2019 about [Dakota (Place)](https://bjmdotnet.github.io/pr1nc3/topics/place/dakota/), [Lizz Wright](https://bjmdotnet.github.io/pr1nc3/topics/lizz-wright/) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/lizz-wright-shakes-her-soulful-prince-tambourine-at-the-dakota/510019492/))
+
+----
+
  - [**"Former Prince guitarist Donna Grantis celebrates new jazz-rock album at the Dakota -- 3rdEyeGirl guitarist Donna Grantis will celebrate her new jazz-rock fusion album in Minneapolis."**](http://www.startribune.com/former-prince-guitarist-donna-grantis-celebrates-new-jazz-rock-album-at-the-dakota/507678332/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 March 2019 about [3rdEyeGirl](https://bjmdotnet.github.io/pr1nc3/topics/3rdeyegirl/), [Dakota (Place)](https://bjmdotnet.github.io/pr1nc3/topics/place/dakota/), [Donna Grantis](https://bjmdotnet.github.io/pr1nc3/topics/donna-grantis/) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/former-prince-guitarist-donna-grantis-celebrates-new-jazz-rock-album-at-the-dakota/507678332/))
 
 ----

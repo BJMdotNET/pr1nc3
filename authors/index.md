@@ -27,6 +27,7 @@
   * [Esther Lee](./esther-lee/) (1)
   * [Graeme Watson](./graeme-watson/) (1)
   * [Jean Hopfensperger](./jean-hopfensperger/) (1)
+  * [Jeff Nelson](./jeff-nelson/) (1)
   * [Jon Bream](./jon-bream/) (20)
   * [Jon Winkler ](./jon-winkler/) (1)
   * [Katy Read](./katy-read/) (2)

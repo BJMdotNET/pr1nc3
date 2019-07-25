@@ -36,7 +36,7 @@
   * [NME (New Musical Express)](./nme-new-musical-express/) (3)
   * [Official Charts](./official-charts/) (1)
   * [OUT In Perth](./out-in-perth/) (1)
-  * [People](./people/) (1)
+  * [People](./people/) (2)
   * [Pitchfork](./pitchfork/) (1)
   * [PopMatters](./popmatters/) (1)
   * [ProSound](./prosound/) (1)

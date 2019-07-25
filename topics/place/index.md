@@ -2,7 +2,7 @@
 
   * [Bel Air (Place)](./place/bel-air/) (1)
   * [Capri Theater  (Place)](./place/capri-theater/) (1)
-  * [Dakota (Place)](./place/dakota/) (3)
+  * [Dakota (Place)](./place/dakota/) (4)
   * [First Avenue (Place)](./place/first-avenue/) (8)
   * [Moline, Illinois (Place)](./place/moline-illinois/) (3)
   * [North Memorial Medical Center (Place)](./place/north-memorial-medical-center/) (1)
