@@ -1,6 +1,17 @@
 # David Chanen
 
- - [**"Chanhassen City Council approves housing and park plan on former Prince property"**](http://www.startribune.com/chanhassen-council-approves-housing-and-park-plan-on-former-prince-property/507037042/)) by David Chanen, Katy Read in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 March 2019 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/chanhassen-council-approves-housing-and-park-plan-on-former-prince-property/507037042/)))
+  * 2019: 
+      [March](./david-chanen-2019-03.md) (1) | 
+  * 2017: 
+      [November](./david-chanen-2017-11.md) (2) | 
+      [October](./david-chanen-2017-10.md) (1) | 
+      [May](./david-chanen-2017-05.md) (2) | 
+      [April](./david-chanen-2017-04.md) (3) | 
+      [January](./david-chanen-2017-01.md) (1) | 
+  * 2016: 
+      [June](./david-chanen-2016-06.md) (1) | 
+      [May](./david-chanen-2016-05.md) (4) | 
+      [April](./david-chanen-2016-04.md) (1) | 
 
 ----
 

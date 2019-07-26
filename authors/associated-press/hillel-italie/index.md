@@ -8,4 +8,8 @@
 
 ----
 
+ - [**"Publicist: Pop superstar Prince dies at his Minnesota home"**](http://www.startribune.com/publicist-pop-superstar-prince-dies-at-his-minnesota-home/376584031/) by Hillel Italie (Associated Press), Jeff Baenen (Associated Press), Nekesa Mumbi Moody (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 21 April 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/publicist-pop-superstar-prince-dies-at-his-minnesota-home/376584031/))
+
+----
+
 [Home](../)

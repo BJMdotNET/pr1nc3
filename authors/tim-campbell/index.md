@@ -4,4 +4,8 @@
 
 ----
 
+ - [**"This weekend is your final chance to see Prince's 'Purple Rain' coat"**](http://www.startribune.com/this-weekend-is-the-last-chance-to-see-prince-s-purple-rain-coat/383455521/) by Tim Campbell in [Minneapolis Star Tribune](http://www.startribune.com/) on 17 June 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/this-weekend-is-the-last-chance-to-see-prince-s-purple-rain-coat/383455521/))
+
+----
+
 [Home](../)

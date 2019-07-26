@@ -12,4 +12,20 @@
 
 ----
 
+ - [**"Judge confirms Prince's 6 siblings as heirs to his estate"**](http://www.startribune.com/judge-declares-prince-s-6-siblings-the-heirs-to-his-estate/423174053/) by Amy Forliti (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 May 2017 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/judge-declares-prince-s-6-siblings-the-heirs-to-his-estate/423174053/))
+
+----
+
+ - [**"Judge won't hear media request at Prince estate hearing"**](http://www.startribune.com/judge-won-t-hear-media-request-at-prince-estate-hearing/384399061/) by Amy Forliti (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 June 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/judge-won-t-hear-media-request-at-prince-estate-hearing/384399061/))
+
+----
+
+ - [**"Finding overdose killed Prince just the beginning of probe"**](http://www.startribune.com/finding-overdose-killed-prince-just-the-beginning-of-probe/381743311/) by Amy Forliti (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 3 June 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/finding-overdose-killed-prince-just-the-beginning-of-probe/381743311/))
+
+----
+
+ - [**"APNewsBreak: Investigators look at overdose in Prince death"**](http://www.startribune.com/apnewsbreak-investigators-look-at-overdose-in-prince-death/377540691/) by Amy Forliti (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 29 April 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/apnewsbreak-investigators-look-at-overdose-in-prince-death/377540691/))
+
+----
+
 [Home](../)

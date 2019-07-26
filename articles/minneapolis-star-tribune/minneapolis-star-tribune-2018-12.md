@@ -12,6 +12,14 @@
 
 ----
 
+ - [**"First Ave, Electric Fetus named best in U.S. again by Rolling Stone"**](http://www.startribune.com/first-ave-electric-fetus-named-best-in-u-s-again-by-rolling-stone/502770432/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 14 December 2018 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/first-ave-electric-fetus-named-best-in-u-s-again-by-rolling-stone/502770432/))
+
+----
+
+ - [**"Morris Day's misadventures in Minneapolis get animated for Mike Judge's TV series"**](http://www.startribune.com/morris-day-s-misadventures-in-minneapolis-get-animated-for-mike-judge-s-tv-series/502781422/) by Neal Justin in [Minneapolis Star Tribune](http://www.startribune.com/) on 14 December 2018 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/morris-day-s-misadventures-in-minneapolis-get-animated-for-mike-judge-s-tv-series/502781422/))
+
+----
+
  - [**"Two new sculptures installed in north Minneapolis parks"**](http://www.startribune.com/two-new-sculptures-installed-in-north-minneapolis-parks/502826701/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 14 December 2018 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/two-new-sculptures-installed-in-north-minneapolis-parks/502826701/))
 
 ----

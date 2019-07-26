@@ -1,0 +1,215 @@
+# Minneapolis Star Tribune: June 2016
+
+ - [**"New Orleans ready to 'party with a purpose' at Essence Fest"**](http://www.startribune.com/new-orleans-ready-to-party-with-a-purpose-at-essence-fest/384987441/) by Chevel Johnson (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 30 June 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/new-orleans-ready-to-party-with-a-purpose-at-essence-fest/384987441/))
+
+----
+
+ - [**"Souhan: Bloomington guitar-maker's link to Prince passes to Colts owner -- Jim Irsay, owner of the Indianapolis Colts, collects famous guitars. Last week, he paid $137,500 in an auction to buy a guitar that at least looks a lot like the yellow version of Prince's "Cloud" guitar."**](http://www.startribune.com/bloomington-guitar-maker-s-link-to-prince-passes-to-colts-owner/385127861/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 30 June 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/bloomington-guitar-maker-s-link-to-prince-passes-to-colts-owner/385127861/))
+
+----
+
+ - [**"BET Awards full of Prince tributes and political moments"**](http://www.startribune.com/prince-s-legacy-to-be-honored-at-bet-awards/384438451/) by Mesfin Fekadu (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 27 June 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-legacy-to-be-honored-at-bet-awards/384438451/))
+
+----
+
+ - [**"Judge calls complex Prince estate case 'uncharted water' -- Judge calls complex case "uncharted water.""**](http://www.startribune.com/prince-heirship-protocols-subject-of-carver-county-court-hearing/384503191/) by Dan Browning in [Minneapolis Star Tribune](http://www.startribune.com/) on 27 June 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-heirship-protocols-subject-of-carver-county-court-hearing/384503191/))
+
+----
+
+ - [**"Judge says no hurry in determining Prince claims"**](http://www.startribune.com/prince-estate-case-heads-back-to-minnesota-courtroom/384482541/) by Kyle Potter (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 27 June 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-estate-case-heads-back-to-minnesota-courtroom/384482541/))
+
+----
+
+ - [**"Politically charged BET Awards honor Prince, Muhammad Ali"**](http://www.startribune.com/politically-charged-bet-awards-honor-prince-muhammad-ali/384492881/) by Kristin M. Hall (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 27 June 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/politically-charged-bet-awards-honor-prince-muhammad-ali/384492881/))
+
+----
+
+ - [**"Prince tributes take over Sunday's BET Awards"**](http://www.startribune.com/prince-tributes-take-over-sunday-s-bet-awards/384478721/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 27 June 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-tributes-take-over-sunday-s-bet-awards/384478721/))
+
+----
+
+ - [**"Indianapolis symphony to perform Prince's biggest hits"**](http://www.startribune.com/indianapolis-symphony-to-perform-prince-s-biggest-hits/384455631/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 June 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/indianapolis-symphony-to-perform-prince-s-biggest-hits/384455631/))
+
+----
+
+ - [**"Minnesota judge to hold 2nd hearing in Prince estate case"**](http://www.startribune.com/minnesota-judge-to-hold-2nd-hearing-in-prince-estate-case/384440841/) by Steve Karnowski (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 June 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/minnesota-judge-to-hold-2nd-hearing-in-prince-estate-case/384440841/))
+
+----
+
+ - [**"Indianapolis Colts owner buys Prince's Yellow Cloud guitar"**](http://www.startribune.com/indianapolis-colts-owner-buys-prince-s-yellow-cloud-guitar/384401501/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 June 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/indianapolis-colts-owner-buys-prince-s-yellow-cloud-guitar/384401501/))
+
+----
+
+ - [**"Judge won't hear media request at Prince estate hearing"**](http://www.startribune.com/judge-won-t-hear-media-request-at-prince-estate-hearing/384399061/) by Amy Forliti (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 June 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/judge-won-t-hear-media-request-at-prince-estate-hearing/384399061/))
+
+----
+
+ - [**"The attorneys and advisers Prince avoided in life oversee his estate -- He had no will, so attorneys — a profession the star distrusted — are in charge."**](http://www.startribune.com/the-attorneys-and-advisers-prince-avoided-in-life-oversee-his-estate/384359271/) by Dan Browning, Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 24 June 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/the-attorneys-and-advisers-prince-avoided-in-life-oversee-his-estate/384359271/))
+
+----
+
+ - [**"AP Source: DNA test shows Colorado inmate not Prince's son"**](http://www.startribune.com/ap-source-dna-test-shows-colorado-inmate-not-prince-s-son/384065601/) by Steve Karnowski (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 23 June 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/ap-source-dna-test-shows-colorado-inmate-not-prince-s-son/384065601/))
+
+----
+
+ - [**"Artcetera: A Time to remember Prince"**](http://www.startribune.com/artcetera-a-time-to-remember-prince/384133681/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 23 June 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/artcetera-a-time-to-remember-prince/384133681/))
+
+----
+
+ - [**"C.J.: Should Prince's friends have watched him more closely after Moline?"**](http://www.startribune.com/c-j-should-prince-s-friends-have-watched-him-more-closely-after-moline/384051341/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 23 June 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-should-prince-s-friends-have-watched-him-more-closely-after-moline/384051341/))
+
+----
+
+ - [**"Stevie Wonder added to Prince tribute lineup at BET Awards"**](http://www.startribune.com/stevie-wonder-added-to-prince-tribute-lineup-at-bet-awards/384161941/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 23 June 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/stevie-wonder-added-to-prince-tribute-lineup-at-bet-awards/384161941/))
+
+----
+
+ - [**"Prince estate hearing will be public, judge rules -- Reporters will be allowed to cover it, but judge won't allow any audio or visual recording or sketch artists."**](http://www.startribune.com/prince-estate-hearing-will-be-public-judge-rules/383978221/) by Dan Browning, Emma Nelson in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 June 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-estate-hearing-will-be-public-judge-rules/383978221/))
+
+----
+
+ - [**"Prince protégée Judith Hill shares what happened on airplane days before star died -- It's the moment that Judith Hill has been replaying in her mind for the last two months: She was sitting on a plane with Prince, talking, having dinner, when suddenly he lost consciousness."**](http://www.startribune.com/prince/383879681/) by Melena Ryzik (The New York Times) in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 June 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince/383879681/))
+
+----
+
+ - [**"Singer Judith Hill recalls Prince plane emergency landing"**](http://www.startribune.com/singer-judith-hill-recalls-prince-plane-emergency-landing/383914221/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 June 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/singer-judith-hill-recalls-prince-plane-emergency-landing/383914221/))
+
+----
+
+ - [**"Judge seals claims of potential Prince heirs -- The next step will be a hearing on genetic testing rules for determining "heirship" to the estate, which has been valued at $100 million to $300 million."**](http://www.startribune.com/judge-seals-claims-of-potential-prince-heirs/383721701/) by Dan Browning in [Minneapolis Star Tribune](http://www.startribune.com/) on 21 June 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/judge-seals-claims-of-potential-prince-heirs/383721701/))
+
+----
+
+ - [**"Massive Prince mural emerges in Chanhassen -- To honor the Purple One, a New Zealand artist is painting a 40-foot mural of Prince on the west wall of the Chanhassen Cinema, not far from the entertainer's Paisley Park studio."**](http://video.startribune.com/massive-prince-mural-emerges-in-chanhassen/383891391/) by Glen Stubbe in [Minneapolis Star Tribune](http://www.startribune.com/) on 21 June 2016 ([mirror](https://web.archive.org/web/*/http://video.startribune.com/massive-prince-mural-emerges-in-chanhassen/383891391/))
+
+----
+
+ - [**"Prince estate case judge seals documents from would-be heirs"**](http://www.startribune.com/prince-estate-case-judge-seals-documents-from-would-be-heirs/383794111/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 21 June 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-estate-case-judge-seals-documents-from-would-be-heirs/383794111/))
+
+----
+
+ - [**"Prince mural -- New Zealand mural artist Graham Hoete started painting a mural of Prince on the side of the Chanhassen Cinema on Saturday with its official unveiling on Wednesday."**](http://www.startribune.com/prince-mural/383857961/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 21 June 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-mural/383857961/))
+
+----
+
+ - [**"Chanhassen Prince mural in progress"**](http://www.startribune.com/chanhassen-prince-mural-in-progress/383702821/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 June 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/chanhassen-prince-mural-in-progress/383702821/))
+
+----
+
+ - [**"Manager of Prince's Mpls. nightspot in '90s is found dead in Minnetonka home -- Emergency dispatch traffic indicated that Paul Pudlitzke had been using illicit drugs the previous night."**](http://www.startribune.com/manager-of-prince-s-mpls-nightspot-in-90s-is-found-dead-in-minnetonka-home/383550761/) by Paul Walsh in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 June 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/manager-of-prince-s-mpls-nightspot-in-90s-is-found-dead-in-minnetonka-home/383550761/))
+
+----
+
+ - [**"Dolce&Gabbana jazz things up with fashion cacophony"**](http://www.startribune.com/dolce-gabbana-jazz-things-up-with-fashion-cacophony/383518191/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 June 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/dolce-gabbana-jazz-things-up-with-fashion-cacophony/383518191/))
+
+----
+
+ - [**"Key Prince career executives retained for estate management"**](http://www.startribune.com/key-prince-career-executives-retained-for-estate-management/383370091/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 17 June 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/key-prince-career-executives-retained-for-estate-management/383370091/))
+
+----
+
+ - [**"This weekend is your final chance to see Prince's 'Purple Rain' coat"**](http://www.startribune.com/this-weekend-is-the-last-chance-to-see-prince-s-purple-rain-coat/383455521/) by Tim Campbell in [Minneapolis Star Tribune](http://www.startribune.com/) on 17 June 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/this-weekend-is-the-last-chance-to-see-prince-s-purple-rain-coat/383455521/))
+
+----
+
+ - [**"C.J.: Place in Chanhassen to pay tribute to Prince is in the works -- Prince fans are going to be able to celebrate his memory and commune with nature on a piece of private property where something special is being installed by an artist."**](http://www.startribune.com/c-j-chanhassen-has-a-secret-of-its-own-about-prince/383196301/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 15 June 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-chanhassen-has-a-secret-of-its-own-about-prince/383196301/))
+
+----
+
+ - [**"When stars seek medical care, risk of 'VIP Syndrome' looms -- Authorities have not said whether Prince had a prescription for the fentanyl and, if not, how he obtained it."**](http://www.startribune.com/when-stars-seek-medical-care-risk-of-vip-syndrome-looms/382570941/) by Carla K. Johnson (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 11 June 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/when-stars-seek-medical-care-risk-of-vip-syndrome-looms/382570941/))
+
+----
+
+ - [**"A Prince wish, Paisley Park eyed for museum like Graceland"**](http://www.startribune.com/a-prince-wish-paisley-park-eyed-for-museum-like-graceland/382529341/) by Steve Karnowski (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 June 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/a-prince-wish-paisley-park-eyed-for-museum-like-graceland/382529341/))
+
+----
+
+ - [**"Judge rules in favor of Bremer Trust in Prince estate dispute -- The special administrator will be allowed to hire entertainment industry experts to help maximize the value of Prince's estate."**](http://www.startribune.com/judge-rules-in-favor-of-bremer-trust-in-prince-estate-dispute/382280121/) by Emma Nelson in [Minneapolis Star Tribune](http://www.startribune.com/) on 8 June 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/judge-rules-in-favor-of-bremer-trust-in-prince-estate-dispute/382280121/))
+
+----
+
+ - [**"Celebrate Prince's birthday with 10 songs he gave to other singers"**](http://www.startribune.com/celebrate-prince-s-birthday-with-10-songs-he-gifted-to-other-singers/381866931/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 7 June 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/celebrate-prince-s-birthday-with-10-songs-he-gifted-to-other-singers/381866931/))
+
+----
+
+ - [**"Judge to decide by Thursday first conflict over Prince's estate -- The trust in charge of Prince's assets says speed and expertise are needed to maximize the estate's value."**](http://www.startribune.com/first-conflict-arises-in-prince-s-estate/382108581/) by Dan Browning in [Minneapolis Star Tribune](http://www.startribune.com/) on 7 June 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/first-conflict-arises-in-prince-s-estate/382108581/))
+
+----
+
+ - [**"Sheila E., D'Angelo, The Roots to honor Prince at BET Awards"**](http://www.startribune.com/sheila-e-d-angelo-the-roots-to-honor-prince-at-bet-awards/382109321/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 7 June 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/sheila-e-d-angelo-the-roots-to-honor-prince-at-bet-awards/382109321/))
+
+----
+
+ - [**"Bus tours and more: Tourism industry markets Prince's ties to Minnesota -- After musician's death, tourism industry finding ways to market Prince's ties to Minnesota."**](http://www.startribune.com/bus-tours-and-more-tourism-industry-markets-prince-s-ties-to-minnesota/382024071/) by Sharyn Jackson in [Minneapolis Star Tribune](http://www.startribune.com/) on 6 June 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/bus-tours-and-more-tourism-industry-markets-prince-s-ties-to-minnesota/382024071/))
+
+----
+
+ - [**"Judge approves aggressive timeline in Prince estate case"**](http://www.startribune.com/judge-approves-aggressive-timeline-in-prince-estate-case/382014381/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 6 June 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/judge-approves-aggressive-timeline-in-prince-estate-case/382014381/))
+
+----
+
+ - [**"Minnesota governor declares 'Prince Day' to mark birthday"**](http://www.startribune.com/minnesota-governor-declares-prince-day-to-mark-birthday/382019731/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 6 June 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/minnesota-governor-declares-prince-day-to-mark-birthday/382019731/))
+
+----
+
+ - [**"All-star band pays tribute to Prince -- REVIEW: Concerts featuring some of Prince's former band mates are a tonic for grieving fans."**](http://www.startribune.com/all-star-band-pays-tribute-to-prince/381904761/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 June 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/all-star-band-pays-tribute-to-prince/381904761/))
+
+----
+
+ - [**"Plaque will honor Prince's life as a student in Minneapolis"**](http://www.startribune.com/plaque-will-honor-prince-s-life-as-a-student-in-minneapolis/381924121/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 June 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/plaque-will-honor-prince-s-life-as-a-student-in-minneapolis/381924121/))
+
+----
+
+ - [**"Man who found Prince's body describes 'chaos and sadness' of death scene -- Andrew Kornfeld says the musician's death underlined the deadly nature of painkiller addiction."**](http://www.startribune.com/man-who-found-prince-s-body-describes-chaos-and-sadness-of-death-scene/381872171/) by Liz Sawyer in [Minneapolis Star Tribune](http://www.startribune.com/) on 4 June 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/man-who-found-prince-s-body-describes-chaos-and-sadness-of-death-scene/381872171/))
+
+----
+
+ - [**"Spike Lee throws dance party ahead of Prince's 58th birthday"**](http://www.startribune.com/spike-lee-throws-dance-party-ahead-of-prince-s-58th-birthday/381871791/) by Nekesa Mumbi Moody (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 4 June 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/spike-lee-throws-dance-party-ahead-of-prince-s-58th-birthday/381871791/))
+
+----
+
+ - [**"C.J.: Hal Sparks gets fired up about comedy, Prince and politics"**](http://www.startribune.com/c-j-hal-sparks-gets-fired-up-about-comedy-prince-and-politics/381818651/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 3 June 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-hal-sparks-gets-fired-up-about-comedy-prince-and-politics/381818651/))
+
+----
+
+ - [**"Finding overdose killed Prince just the beginning of probe"**](http://www.startribune.com/finding-overdose-killed-prince-just-the-beginning-of-probe/381743311/) by Amy Forliti (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 3 June 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/finding-overdose-killed-prince-just-the-beginning-of-probe/381743311/))
+
+----
+
+ - [**"PETA offers pro-vegan Prince song as free download"**](http://www.startribune.com/peta-offers-pro-vegan-prince-song-as-free-download/381765851/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 3 June 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/peta-offers-pro-vegan-prince-song-as-free-download/381765851/))
+
+----
+
+ - [**"Prince joins a list of stars dead from drug overdoses"**](http://www.startribune.com/prince-joins-a-list-of-stars-dead-from-drug-overdoses/381744371/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 3 June 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-joins-a-list-of-stars-dead-from-drug-overdoses/381744371/))
+
+----
+
+ - [**"Prince died from opioid overdose -- Painkillers have long been the focus of the death investigation."**](http://www.startribune.com/prince-died-from-opioid-overdose/381663221/) by David Chanen in [Minneapolis Star Tribune](http://www.startribune.com/) on 2 June 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-died-from-opioid-overdose/381663221/))
+
+----
+
+ - [**"Prince's NPG bandmates to remember him 'the best way we know how' -- Three of the original New Power Generation band members head up three shows around their old boss' birthday."**](http://www.startribune.com/prince-s-npg-bandmates-to-remember-him-the-best-way-we-know-how/381662611/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 2 June 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-npg-bandmates-to-remember-him-the-best-way-we-know-how/381662611/))
+
+----
+
+ - [**"Tight deadlines proposed for potential heirs to Prince's estate -- The special administrator for the late musician's estate proposed tight deadlines for verification."**](http://www.startribune.com/tight-deadlines-proposed-for-potential-heirs-to-prince-s-estate/381656281/) by Dan Browning in [Minneapolis Star Tribune](http://www.startribune.com/) on 2 June 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/tight-deadlines-proposed-for-potential-heirs-to-prince-s-estate/381656281/))
+
+----
+
+ - [**"Timeline of Prince's final days"**](http://www.startribune.com/timeline-of-prince-s-final-days/381731991/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 2 June 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/timeline-of-prince-s-final-days/381731991/))
+
+----
+
+ - [**"Comic Dave Chappelle kicks off First Ave run by kicking at Cosby and Trump -- Review: The legendary stand-up veteran's 10-show run included a serious nod to Prince."**](http://www.startribune.com/comic-dave-chappelle-kicks-off-first-ave-run-by-kicking-at-cosby-and-trump/381471061/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 1 June 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/comic-dave-chappelle-kicks-off-first-ave-run-by-kicking-at-cosby-and-trump/381471061/))
+
+----
+
+ - [**"Prince breaks Beatles' Billboard record more than a month after death"**](http://www.startribune.com/prince-breaks-billboard-record-over-a-month-after-death/381522071/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 1 June 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-breaks-billboard-record-over-a-month-after-death/381522071/))
+
+----
+
+ - [**"Prince smashes Billboard sales records following death"**](http://www.startribune.com/prince-smashes-billboard-sales-records-following-death/381544711/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 1 June 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-smashes-billboard-sales-records-following-death/381544711/))
+
+----
+
+[Home](./)

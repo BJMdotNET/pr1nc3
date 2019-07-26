@@ -12,4 +12,16 @@
 
 ----
 
+ - [**"Morris Day's misadventures in Minneapolis get animated for Mike Judge's TV series"**](http://www.startribune.com/morris-day-s-misadventures-in-minneapolis-get-animated-for-mike-judge-s-tv-series/502781422/) by Neal Justin in [Minneapolis Star Tribune](http://www.startribune.com/) on 14 December 2018 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/morris-day-s-misadventures-in-minneapolis-get-animated-for-mike-judge-s-tv-series/502781422/))
+
+----
+
+ - [**"'Empire' will air special Prince-themed episode"**](http://www.startribune.com/empire-will-air-special-prince-themed-episode/439360933/) by Neal Justin in [Minneapolis Star Tribune](http://www.startribune.com/) on 9 August 2017 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/empire-will-air-special-prince-themed-episode/439360933/))
+
+----
+
+ - [**"Comedian Fred Armisen reflects on years of impersonating Prince"**](http://www.startribune.com/fred-armisen-holly-robinson-peete-remember-prince/411014275/) by Neal Justin in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 January 2017 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/fred-armisen-holly-robinson-peete-remember-prince/411014275/))
+
+----
+
 [Home](../)

@@ -1,0 +1,19 @@
+# Minneapolis Star Tribune: October 2015
+
+ - [**"Prince's Rocktober continues with another lengthy jam at Paisley Park -- He cut loose and went long at his Chanhassen complex Saturday, this time with Judith Hill playing along."**](http://www.startribune.com/prince-s-rocktober-continues-with-another-lengthy-jam-at-paisley-park/336882621/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 October 2015 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-rocktober-continues-with-another-lengthy-jam-at-paisley-park/336882621/))
+
+----
+
+ - [**"Fresh Prince: What's influenced his shift to a more engaging public persona? -- The typically mum pop star is now a jovial, talkative party thrower. What's come over the Purple One?"**](http://www.startribune.com/the-fresh-prince-what-s-influenced-his-shift-to-a-more-engaging-public-persona/335082341/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 21 October 2015 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/the-fresh-prince-what-s-influenced-his-shift-to-a-more-engaging-public-persona/335082341/))
+
+----
+
+ - [**"Night 2 at Paisley Park: Prince's rehearsal offers fans a look behind the Purple curtain"**](http://www.startribune.com/night-2-at-paisley-park-prince-s-rehearsal-offers-fans-a-look-behind-the-purple-curtain/333162901/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 16 October 2015 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/night-2-at-paisley-park-prince-s-rehearsal-offers-fans-a-look-behind-the-purple-curtain/333162901/))
+
+----
+
+ - [**"Prince throws 3-hour concert/party for champion Lynx at Paisley Park"**](http://www.startribune.com/prince-throws-3-hour-concert-party-for-champion-lynx-at-paisley-park/333016441/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 15 October 2015 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-throws-3-hour-concert-party-for-champion-lynx-at-paisley-park/333016441/))
+
+----
+
+[Home](./)

@@ -8,6 +8,7 @@
   * [Dirty Mind (Album)](./album/dirty-mind/) (2)
   * [Dream Factory (Album)](./album/dream-factory/) (1)
   * [Emancipation (Album)](./album/emancipation/) (1)
+  * [Everything Blows (Album)](./album/everything-blows/) (1)
   * [Lovesexy (Album)](./album/lovesexy/) (1)
   * [Originals (Album)](./album/originals/) (29)
   * [Piano and a Microphone 1983 (Album)](./album/piano-and-a-microphone-1983/) (8)

@@ -4,4 +4,8 @@
 
 ----
 
+ - [**"'We lost a spiritual brother' in Prince -- A low-profile member in life, the star draws attention to Jehovah's Witnesses after death."**](http://www.startribune.com/prince-s-death-puts-spotlight-on-jehovah-s-witnesses/377972981/) by Jean Hopfensperger in [Minneapolis Star Tribune](http://www.startribune.com/) on 4 May 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-death-puts-spotlight-on-jehovah-s-witnesses/377972981/))
+
+----
+
 [Home](../)

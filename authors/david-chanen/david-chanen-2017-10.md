@@ -1,0 +1,9 @@
+# David Chanen: October 2017
+
+ - [**"
+                                            Three Prince heirs demand a new administrator for the artist's massive estate
+                                    "**](http://www.startribune.com/several-prince-heirs-demand-a-new-administrator-for-the-artist-s-massive-estate/454144553/) by David Chanen in [Minneapolis Star Tribune](http://www.startribune.com/) on 30 October 2017 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/several-prince-heirs-demand-a-new-administrator-for-the-artist-s-massive-estate/454144553/))
+
+----
+
+[Home](./)

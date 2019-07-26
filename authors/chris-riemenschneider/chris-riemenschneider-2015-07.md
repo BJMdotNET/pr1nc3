@@ -1,0 +1,7 @@
+# Chris Riemenschneider: July 2015
+
+ - [**"Old "Purple Rain" house for sale as new Prince album announced"**](http://www.startribune.com/old-purple-rain-house-for-sale-as-new-prince-album-announced/318663971/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 27 July 2015 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/old-purple-rain-house-for-sale-as-new-prince-album-announced/318663971/))
+
+----
+
+[Home](./)

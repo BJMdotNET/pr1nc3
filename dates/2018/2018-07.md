@@ -4,6 +4,10 @@
 
 ----
 
+ - [**"Spike Lee uses unreleased Prince recording in his new movie"**](http://www.startribune.com/spike-lee-uses-unreleased-prince-recording-in-his-new-movie/489662811/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 31 July 2018 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/spike-lee-uses-unreleased-prince-recording-in-his-new-movie/489662811/))
+
+----
+
  - [**"'Purple Rain' singalong video outside First Ave nightclub banned, then reinstated on Twitter"**](http://www.startribune.com/purple-rain-singalong-video-outside-first-ave-nightclub-banned-then-reinstated-on-twitter/489369791/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 27 July 2018 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/purple-rain-singalong-video-outside-first-ave-nightclub-banned-then-reinstated-on-twitter/489369791/))
 
 ----
