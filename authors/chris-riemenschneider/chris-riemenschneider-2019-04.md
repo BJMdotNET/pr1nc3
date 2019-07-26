@@ -12,7 +12,7 @@
 
 ----
 
- - [**"Paisley Park tours draw celebs, including Katy Perry, Bruno Mars and Shania Twain -- Green Day’s frontman brought his family. And Katy Perry made a return visit incognito, just like any other fan."**](http://www.startribune.com/paisley-park-tours-draw-celebs-including-katy-perry-bruno-mars-and-shania-twain/509009942/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 24 April 2019 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-tours-draw-celebs-including-katy-perry-bruno-mars-and-shania-twain/509009942/))
+ - [**"Paisley Park tours draw celebs, including Katy Perry, Bruno Mars and Shania Twain -- Green Day’s frontman brought his family. And Katy Perry made a return visit incognito, just like any other fan."**](http://www.startribune.com/paisley-park-tours-draw-celebs-including-katy-perry-bruno-mars-and-shania-twain/509009942/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 24 April 2019 about [Grammy Award](https://bjmdotnet.github.io/pr1nc3/topics/grammy-award/), [Xcel Energy Center (Place)](https://bjmdotnet.github.io/pr1nc3/topics/place/xcel-energy-center/) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-tours-draw-celebs-including-katy-perry-bruno-mars-and-shania-twain/509009942/))
 
 ----
 

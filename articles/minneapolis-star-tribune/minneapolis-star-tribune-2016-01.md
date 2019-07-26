@@ -8,7 +8,7 @@
 
 ----
 
- - [**"Time to party at Paisley: Morris Day to play Prince's place Friday"**](http://www.startribune.com/it-s-party-time-at-paisley-morris-day-to-play-prince-s-place-friday/366612721/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 January 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/it-s-party-time-at-paisley-morris-day-to-play-prince-s-place-friday/366612721/))
+ - [**"Time to party at Paisley: Morris Day to play Prince's place Friday"**](http://www.startribune.com/it-s-party-time-at-paisley-morris-day-to-play-prince-s-place-friday/366612721/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 January 2016 about [Morris Day](https://bjmdotnet.github.io/pr1nc3/topics/morris-day/) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/it-s-party-time-at-paisley-morris-day-to-play-prince-s-place-friday/366612721/))
 
 ----
 
@@ -20,7 +20,7 @@
 
 ----
 
- - [**"Larry Graham to play Night 2 of Gala Event at Prince's Paisley Park"**](http://www.startribune.com/larry-graham-to-play-night-2-of-gala-event-at-prince-s-paisley-park/365992291/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 January 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/larry-graham-to-play-night-2-of-gala-event-at-prince-s-paisley-park/365992291/))
+ - [**"Larry Graham to play Night 2 of Gala Event at Prince's Paisley Park"**](http://www.startribune.com/larry-graham-to-play-night-2-of-gala-event-at-prince-s-paisley-park/365992291/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 January 2016 about [Larry Graham](https://bjmdotnet.github.io/pr1nc3/topics/larry-graham/) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/larry-graham-to-play-night-2-of-gala-event-at-prince-s-paisley-park/365992291/))
 
 ----
 

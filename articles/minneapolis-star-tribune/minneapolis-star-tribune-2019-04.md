@@ -28,7 +28,7 @@
 
 ----
 
- - [**"Paisley Park tours draw celebs, including Katy Perry, Bruno Mars and Shania Twain -- Green Day’s frontman brought his family. And Katy Perry made a return visit incognito, just like any other fan."**](http://www.startribune.com/paisley-park-tours-draw-celebs-including-katy-perry-bruno-mars-and-shania-twain/509009942/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 24 April 2019 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-tours-draw-celebs-including-katy-perry-bruno-mars-and-shania-twain/509009942/))
+ - [**"Paisley Park tours draw celebs, including Katy Perry, Bruno Mars and Shania Twain -- Green Day’s frontman brought his family. And Katy Perry made a return visit incognito, just like any other fan."**](http://www.startribune.com/paisley-park-tours-draw-celebs-including-katy-perry-bruno-mars-and-shania-twain/509009942/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 24 April 2019 about [Grammy Award](https://bjmdotnet.github.io/pr1nc3/topics/grammy-award/), [Xcel Energy Center (Place)](https://bjmdotnet.github.io/pr1nc3/topics/place/xcel-energy-center/) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-tours-draw-celebs-including-katy-perry-bruno-mars-and-shania-twain/509009942/))
 
 ----
 
@@ -40,15 +40,15 @@
 
 ----
 
- - [**"Prince memoir 'The Beautiful Ones' coming out in the fall"**](http://www.startribune.com/prince-memoir-the-beautiful-ones-coming-out-in-the-fall/508886482/) by Hillel Italie (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 April 2019 about [Random House ](https://bjmdotnet.github.io/pr1nc3/topics/random-house/), [The Beautiful Ones (Book)](https://bjmdotnet.github.io/pr1nc3/topics/book/the-beautiful-ones/) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-memoir-the-beautiful-ones-coming-out-in-the-fall/508886482/))
+ - [**"Prince memoir 'The Beautiful Ones' coming out in the fall"**](http://www.startribune.com/prince-memoir-the-beautiful-ones-coming-out-in-the-fall/508886482/) by Hillel Italie (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 April 2019 about [Dan Piepenbring](https://bjmdotnet.github.io/pr1nc3/topics/dan-piepenbring/), [memoir](https://bjmdotnet.github.io/pr1nc3/topics/memoir/), [Random House ](https://bjmdotnet.github.io/pr1nc3/topics/random-house/), [The Beautiful Ones (Book)](https://bjmdotnet.github.io/pr1nc3/topics/book/the-beautiful-ones/) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-memoir-the-beautiful-ones-coming-out-in-the-fall/508886482/))
 
 ----
 
- - [**"Prince's memoir 'The Beautiful Ones' will finally be published this fall"**](http://www.startribune.com/prince-s-memoir-the-beautiful-ones-will-finally-be-published-this-fall/508894482/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 April 2019 about [Random House ](https://bjmdotnet.github.io/pr1nc3/topics/random-house/), [The Beautiful Ones (Book)](https://bjmdotnet.github.io/pr1nc3/topics/book/the-beautiful-ones/) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-memoir-the-beautiful-ones-will-finally-be-published-this-fall/508894482/))
+ - [**"Prince's memoir 'The Beautiful Ones' will finally be published this fall"**](http://www.startribune.com/prince-s-memoir-the-beautiful-ones-will-finally-be-published-this-fall/508894482/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 April 2019 about [Dan Piepenbring](https://bjmdotnet.github.io/pr1nc3/topics/dan-piepenbring/), [Esther Newberg](https://bjmdotnet.github.io/pr1nc3/topics/esther-newberg/), [memoir](https://bjmdotnet.github.io/pr1nc3/topics/memoir/), [Random House ](https://bjmdotnet.github.io/pr1nc3/topics/random-house/), [The Beautiful Ones (Book)](https://bjmdotnet.github.io/pr1nc3/topics/book/the-beautiful-ones/) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-memoir-the-beautiful-ones-will-finally-be-published-this-fall/508894482/))
 
 ----
 
- - [**"Prince's greatest talent? Self-confidence, says the manager who landed 'Purple Rain' -- Bob Cavallo recounts some of the tales he'll tell at Paisley Park for the third annual Celebration."**](http://www.startribune.com/prince-s-greatest-talent-self-confidence-says-the-manager-who-landed-purple-rain/508774052/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 April 2019 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-greatest-talent-self-confidence-says-the-manager-who-landed-purple-rain/508774052/))
+ - [**"Prince's greatest talent? Self-confidence, says the manager who landed 'Purple Rain' -- Bob Cavallo recounts some of the tales he'll tell at Paisley Park for the third annual Celebration."**](http://www.startribune.com/prince-s-greatest-talent-self-confidence-says-the-manager-who-landed-purple-rain/508774052/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 April 2019 about [Bob Cavallo](https://bjmdotnet.github.io/pr1nc3/topics/bob-cavallo/), [Graffiti Bridge (Movie)](https://bjmdotnet.github.io/pr1nc3/topics/movie/graffiti-bridge/), [Purple Rain (Movie)](https://bjmdotnet.github.io/pr1nc3/topics/movie/purple-rain/) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-greatest-talent-self-confidence-says-the-manager-who-landed-purple-rain/508774052/))
 
 ----
 
@@ -60,7 +60,7 @@
 
 ----
 
- - [**"Gospel of Prince preached at Minnesota seminary"**](http://www.startribune.com/gospel-of-prince-preached-at-minnesota-seminary/508503562/) by Jean Hopfensperger in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 April 2019 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/gospel-of-prince-preached-at-minnesota-seminary/508503562/))
+ - [**"Gospel of Prince preached at Minnesota seminary"**](http://www.startribune.com/gospel-of-prince-preached-at-minnesota-seminary/508503562/) by Jean Hopfensperger in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 April 2019 about [Grammy Award](https://bjmdotnet.github.io/pr1nc3/topics/grammy-award/) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/gospel-of-prince-preached-at-minnesota-seminary/508503562/))
 
 ----
 

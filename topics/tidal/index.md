@@ -4,6 +4,10 @@
 
 ----
 
+ - [**"Prince Estate to Release ‘Originals’ Album: His Versions of Songs He Gave to Other Artists (EXCLUSIVE)"**](https://variety.com/2019/music/news/prince-estate-to-release-originals-album-songs-he-gave-to-other-artists-1203197451/) by Jem Aswad in [Variety](https://variety.com/) on 24 April 2019 about [Apollonia 6](https://bjmdotnet.github.io/pr1nc3/topics/apollonia-6/), [Jill Jones](https://bjmdotnet.github.io/pr1nc3/topics/jill-jones/), [Kenny Rogers](https://bjmdotnet.github.io/pr1nc3/topics/kenny-rogers/), [Manic Monday (Song)](https://bjmdotnet.github.io/pr1nc3/topics/song/manic-monday/), [Mazarati](https://bjmdotnet.github.io/pr1nc3/topics/mazarati/), [Nothing Compares 2 U (Song)](https://bjmdotnet.github.io/pr1nc3/topics/song/nothing-compares-2-u/), [Originals (Album)](https://bjmdotnet.github.io/pr1nc3/topics/album/originals/), [Sheila E.](https://bjmdotnet.github.io/pr1nc3/topics/sheila-e/), [The Family](https://bjmdotnet.github.io/pr1nc3/topics/the-family/), [The Time](https://bjmdotnet.github.io/pr1nc3/topics/the-time/), [Tidal](https://bjmdotnet.github.io/pr1nc3/topics/tidal/), [Troy Carter](https://bjmdotnet.github.io/pr1nc3/topics/troy-carter/), [Vanity](https://bjmdotnet.github.io/pr1nc3/topics/vanity/), [Vanity 6](https://bjmdotnet.github.io/pr1nc3/topics/vanity-6/), [Warner Bros. Records](https://bjmdotnet.github.io/pr1nc3/topics/warner-bros-records/) ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/news/prince-estate-to-release-originals-album-songs-he-gave-to-other-artists-1203197451/))
+
+----
+
  - [**"As Prince heirs stew, bankers and lawyers cash in on estate"**](https://www.apnews.com/d9847863113d4ff8bd70850dd6a6cd2e) by Steve Karnowski (Associated Press) in [Associated Press News](https://www.apnews.com/) on 18 May 2018 about [John L. Nelson](https://bjmdotnet.github.io/pr1nc3/topics/john-l-nelson/), [Tidal](https://bjmdotnet.github.io/pr1nc3/topics/tidal/), [Troy Carter](https://bjmdotnet.github.io/pr1nc3/topics/troy-carter/), [Tyka Nelson](https://bjmdotnet.github.io/pr1nc3/topics/tyka-nelson/) ([mirror](https://web.archive.org/web/*/https://www.apnews.com/d9847863113d4ff8bd70850dd6a6cd2e))
 
 ----
@@ -13,6 +17,10 @@
 ----
 
  - [**"Documents: Jay Z’s company wanted to manage Prince’s music"**](https://www.apnews.com/20b81c0084f9422c9022841d87c0c4d8) in [Associated Press News](https://www.apnews.com/) on 6 December 2016 about [Bremer Trust](https://bjmdotnet.github.io/pr1nc3/topics/bremer-trust/), [Charles Koppelman](https://bjmdotnet.github.io/pr1nc3/topics/charles-koppelman/), [Tidal](https://bjmdotnet.github.io/pr1nc3/topics/tidal/) ([mirror](https://web.archive.org/web/*/https://www.apnews.com/20b81c0084f9422c9022841d87c0c4d8))
+
+----
+
+ - [**"Prince releases new single, "Free Urself," on Tidal"**](http://www.startribune.com/prince-releases-new-single-free-urself-on-tidal/329887771/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 29 September 2015 about [Free Urself](https://bjmdotnet.github.io/pr1nc3/topics/free-urself/), [Tidal](https://bjmdotnet.github.io/pr1nc3/topics/tidal/) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-releases-new-single-free-urself-on-tidal/329887771/))
 
 ----
 

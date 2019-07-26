@@ -56,7 +56,7 @@
   * [TwinCities.com - Pioneer Press](./twincities-com-pioneer-press/) (1)
   * [US Weekly](./us-weekly/) (1)
   * [USA Today](./usa-today/) (6)
-  * [Variety](./variety/) (4)
+  * [Variety](./variety/) (7)
   * [Vulture](./vulture/) (1)
   * [The West Australian](./the-west-australian/) (1)
   * [Yahoo! Entertainment](./yahoo-entertainment/) (1)

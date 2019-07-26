@@ -20,7 +20,7 @@
 
 ----
 
- - [**"Prince says he's writing a memoir, performs for NYC audience"**](http://www.startribune.com/pop-star-prince-writing-a-memoir-to-be-released-next-year/372627011/) by Mesfin Fekadu (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 March 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/pop-star-prince-writing-a-memoir-to-be-released-next-year/372627011/))
+ - [**"Prince says he's writing a memoir, performs for NYC audience"**](http://www.startribune.com/pop-star-prince-writing-a-memoir-to-be-released-next-year/372627011/) by Mesfin Fekadu (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 March 2016 about [memoir](https://bjmdotnet.github.io/pr1nc3/topics/memoir/), [The Beautiful Ones (Book)](https://bjmdotnet.github.io/pr1nc3/topics/book/the-beautiful-ones/) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/pop-star-prince-writing-a-memoir-to-be-released-next-year/372627011/))
 
 ----
 
