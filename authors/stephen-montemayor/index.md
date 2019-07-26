@@ -4,6 +4,10 @@
 
 ----
 
+ - [**"Prince was a high-profile casualty to fentanyl-laced pill scourge -- The megastar unknowingly took counterfeit Vicodin painkillers that actually contained fentanyl. In so doing, he appears to have become another casualty to a worrying trend."**](http://www.startribune.com/prince-was-a-high-profile-casualty-to-fentanyl-laced-pill-scourge/480297873/) by Stephen Montemayor in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 April 2018 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-was-a-high-profile-casualty-to-fentanyl-laced-pill-scourge/480297873/))
+
+----
+
  - [**"Search warrants provide few clues into source of Prince's fatal overdose -- Court documents unsealed Monday reveal details of first searches of the late musician's Paisley Park estate."**](http://www.startribune.com/search-warrants-provide-few-clues-into-source-of-prince-s-fatal-overdose/419614143/) by David Chanen, Stephen Montemayor in [Minneapolis Star Tribune](http://www.startribune.com/) on 17 April 2017 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/search-warrants-provide-few-clues-into-source-of-prince-s-fatal-overdose/419614143/))
 
 ----

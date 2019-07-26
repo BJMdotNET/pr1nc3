@@ -11,7 +11,8 @@
   * 2018: 
       [December](./jon-bream-2018-12.md) (2) | 
       [November](./jon-bream-2018-11.md) (2) | 
-      [October](./jon-bream-2018-10.md) (1) | 
+      [October](./jon-bream-2018-10.md) (2) | 
+      [September](./jon-bream-2018-09.md) (1) | 
       [August](./jon-bream-2018-08.md) (1) | 
       [July](./jon-bream-2018-07.md) (2) | 
       [April](./jon-bream-2018-04.md) (4) | 
@@ -19,6 +20,7 @@
       [September](./jon-bream-2017-09.md) (1) | 
       [August](./jon-bream-2017-08.md) (7) | 
       [July](./jon-bream-2017-07.md) (1) | 
+      [June](./jon-bream-2017-06.md) (2) | 
       [May](./jon-bream-2017-05.md) (1) | 
       [April](./jon-bream-2017-04.md) (2) | 
       [March](./jon-bream-2017-03.md) (6) | 

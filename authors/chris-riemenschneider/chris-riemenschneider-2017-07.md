@@ -4,4 +4,8 @@
 
 ----
 
+ - [**"Paisley Park to host Musicology amateur band competition over Labor Day (with $100 tickets nightly)"**](http://www.startribune.com/paisley-park-to-host-musicology-amateur-band-competition-over-labor-day-with-100-tickets-nightly/433139673/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 7 July 2017 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-to-host-musicology-amateur-band-competition-over-labor-day-with-100-tickets-nightly/433139673/))
+
+----
+
 [Home](./)

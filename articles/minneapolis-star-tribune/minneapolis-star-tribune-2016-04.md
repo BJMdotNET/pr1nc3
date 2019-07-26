@@ -24,7 +24,7 @@
 
 ----
 
- - [**"C.J.: PR exec refused to profit off Prince's death by selling photo of him on bike"**](http://www.startribune.com/c-j-pr-exec-refused-to-profit-off-prince-s-death-by-selling-photo-of-him-on-bike/377365091/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 27 April 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-pr-exec-refused-to-profit-off-prince-s-death-by-selling-photo-of-him-on-bike/377365091/))
+ - [**"C.J.: PR exec refused to profit off Prince's death by selling photo of him on bike"**](http://www.startribune.com/c-j-pr-exec-refused-to-profit-off-prince-s-death-by-selling-photo-of-him-on-bike/377365091/) by C.J. (Cheryl Johnson) in [Minneapolis Star Tribune](http://www.startribune.com/) on 27 April 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-pr-exec-refused-to-profit-off-prince-s-death-by-selling-photo-of-him-on-bike/377365091/))
 
 ----
 

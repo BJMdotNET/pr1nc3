@@ -12,7 +12,7 @@
 
 ----
 
- - [**"Prince lights up his old Minneapolis neighborhood again – this time for real"**](http://www.startribune.com/prince-lights-up-his-old-minneapolis-neighborhood-again-this-time-for-real/440799503/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 16 August 2017 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-lights-up-his-old-minneapolis-neighborhood-again-this-time-for-real/440799503/))
+ - [**"Prince lights up his old Minneapolis neighborhood again – this time for real -- Electric utility boxes near the singer's old schools have been adorned with his likeness."**](http://www.startribune.com/prince-lights-up-his-old-minneapolis-neighborhood-again-this-time-for-real/440799503/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 16 August 2017 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-lights-up-his-old-minneapolis-neighborhood-again-this-time-for-real/440799503/))
 
 ----
 

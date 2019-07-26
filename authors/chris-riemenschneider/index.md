@@ -9,12 +9,13 @@
       [December](./chris-riemenschneider-2018-12.md) (1) | 
       [November](./chris-riemenschneider-2018-11.md) (2) | 
       [September](./chris-riemenschneider-2018-09.md) (2) | 
-      [April](./chris-riemenschneider-2018-04.md) (2) | 
+      [July](./chris-riemenschneider-2018-07.md) (1) | 
+      [April](./chris-riemenschneider-2018-04.md) (3) | 
       [February](./chris-riemenschneider-2018-02.md) (1) | 
       [January](./chris-riemenschneider-2018-01.md) (1) | 
   * 2017: 
-      [August](./chris-riemenschneider-2017-08.md) (1) | 
-      [July](./chris-riemenschneider-2017-07.md) (1) | 
+      [August](./chris-riemenschneider-2017-08.md) (2) | 
+      [July](./chris-riemenschneider-2017-07.md) (2) | 
       [June](./chris-riemenschneider-2017-06.md) (3) | 
       [April](./chris-riemenschneider-2017-04.md) (4) | 
       [March](./chris-riemenschneider-2017-03.md) (1) | 

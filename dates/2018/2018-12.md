@@ -20,7 +20,7 @@
 
 ----
 
- - [**"Two new sculptures installed in north Minneapolis parks"**](http://www.startribune.com/two-new-sculptures-installed-in-north-minneapolis-parks/502826701/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 14 December 2018 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/two-new-sculptures-installed-in-north-minneapolis-parks/502826701/))
+ - [**"Two new sculptures installed in north Minneapolis parks -- One of the pieces was created to honor Prince."**](http://www.startribune.com/two-new-sculptures-installed-in-north-minneapolis-parks/502826701/) by Karen Zamora in [Minneapolis Star Tribune](http://www.startribune.com/) on 14 December 2018 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/two-new-sculptures-installed-in-north-minneapolis-parks/502826701/))
 
 ----
 

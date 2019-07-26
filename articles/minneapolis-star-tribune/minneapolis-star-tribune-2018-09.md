@@ -20,7 +20,7 @@
 
 ----
 
- - [**"Prince insiders dish on first album released from storied Paisley Park vault"**](http://www.startribune.com/prince-insiders-dish-on-first-album-released-from-storied-paisley-park-vault/493845601/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 September 2018 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-insiders-dish-on-first-album-released-from-storied-paisley-park-vault/493845601/))
+ - [**"Prince insiders dish on first album released from storied Paisley Park vault -- The coveted 1983 recording features solo piano work and an embryonic "Purple Rain.""**](http://www.startribune.com/prince-insiders-dish-on-first-album-released-from-storied-paisley-park-vault/493845601/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 September 2018 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-insiders-dish-on-first-album-released-from-storied-paisley-park-vault/493845601/))
 
 ----
 
@@ -32,7 +32,7 @@
 
 ----
 
- - [**"Prince fans file petition demanding federal grand jury probe into the musician's death"**](http://www.startribune.com/prince-fans-file-petition-demanding-federal-grand-jury-probe-into-the-musician-s-death/493650821/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 September 2018 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-fans-file-petition-demanding-federal-grand-jury-probe-into-the-musician-s-death/493650821/))
+ - [**"Prince fans file petition demanding federal grand jury probe into the musician's death -- Group says drug supplier needs to be punished."**](http://www.startribune.com/prince-fans-file-petition-demanding-federal-grand-jury-probe-into-the-musician-s-death/493650821/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 September 2018 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-fans-file-petition-demanding-federal-grand-jury-probe-into-the-musician-s-death/493650821/))
 
 ----
 
@@ -56,7 +56,7 @@
 
 ----
 
- - [**"Prince estate sues 'brazen bootlegger,' others selling CDs of his last show, trove of other music"**](http://www.startribune.com/prince-estate-sues-brazen-bootlegger-others-selling-cds-of-his-last-show-trove-of-other-music/492422931/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 4 September 2018 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-estate-sues-brazen-bootlegger-others-selling-cds-of-his-last-show-trove-of-other-music/492422931/))
+ - [**"Prince estate sues 'brazen bootlegger,' others selling CDs of his last show, trove of other music -- Suit seeks many millions in compensation; sales over internet have been going on since 2016, the year Prince died."**](http://www.startribune.com/prince-estate-sues-brazen-bootlegger-others-selling-cds-of-his-last-show-trove-of-other-music/492422931/) by Paul Walsh in [Minneapolis Star Tribune](http://www.startribune.com/) on 4 September 2018 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-estate-sues-brazen-bootlegger-others-selling-cds-of-his-last-show-trove-of-other-music/492422931/))
 
 ----
 

@@ -19,7 +19,7 @@
   * [Michael Tarm (Associated Press)](./associated-press/michael-tarm/) (1)
   * [Nekesa Mumbi Moody (Associated Press)](./associated-press/nekesa-mumbi-moody/) (3)
   * [Nicole Evatt (Associated Press)](./associated-press/nicole-evatt/) (1)
-  * [Pablo Gorondi (Associated Press)](./associated-press/pablo-gorondi/) (2)
+  * [Pablo Gorondi (Associated Press)](./associated-press/pablo-gorondi/) (3)
   * [Ryan Nakashima (Associated Press)](./associated-press/ryan-nakashima/) (1)
   * [Steve Karnowski (Associated Press)](./associated-press/steve-karnowski/) (11)
 

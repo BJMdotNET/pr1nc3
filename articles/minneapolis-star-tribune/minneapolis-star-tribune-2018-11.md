@@ -16,7 +16,7 @@
 
 ----
 
- - [**"'Black-ish' throws TV's best-ever Prince party in its 100th episode"**](http://www.startribune.com/black-ish-throws-tv-s-best-ever-prince-party-in-its-100th-episode/500170101/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 11 November 2018 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/black-ish-throws-tv-s-best-ever-prince-party-in-its-100th-episode/500170101/))
+ - [**"'Black-ish' throws TV's best-ever Prince party in its 100th episode -- REVIEW: "Black-ish" cast goes all out to pay tribute to Prince."**](http://www.startribune.com/black-ish-throws-tv-s-best-ever-prince-party-in-its-100th-episode/500170101/) by Neal Justin in [Minneapolis Star Tribune](http://www.startribune.com/) on 11 November 2018 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/black-ish-throws-tv-s-best-ever-prince-party-in-its-100th-episode/500170101/))
 
 ----
 
@@ -32,7 +32,7 @@
 
 ----
 
- - [**"Timberwolves show off Prince tribute uniforms at Paisley Park"**](http://www.startribune.com/timberwolves-show-off-prince-tribute-jerseys-at-paisley-park/499315791/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 1 November 2018 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/timberwolves-show-off-prince-tribute-jerseys-at-paisley-park/499315791/))
+ - [**"Timberwolves show off Prince tribute uniforms at Paisley Park -- The Wolves will wear the uniforms eight times this year, including five times at home, and they go on sale to the public next week."**](http://www.startribune.com/timberwolves-show-off-prince-tribute-jerseys-at-paisley-park/499315791/) by Michael Rand in [Minneapolis Star Tribune](http://www.startribune.com/) on 1 November 2018 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/timberwolves-show-off-prince-tribute-jerseys-at-paisley-park/499315791/))
 
 ----
 
