@@ -1,0 +1,11 @@
+# Chris Riemenschneider: April 2018
+
+ - [**"Janelle Monáe to tout her new Prince-infused album July 3 at the State"**](http://www.startribune.com/janelle-monae-to-tout-her-new-prince-infused-album-july-3-at-the-state/480567481/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 23 April 2018 about [Janelle Monae](https://bjmdotnet.github.io/pr1nc3/topics/janelle-monae/) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/janelle-monae-to-tout-her-new-prince-infused-album-july-3-at-the-state/480567481/))
+
+----
+
+ - [**"Prince had his hair done before bed, and other 'alumni' stories at U symposium"**](http://www.startribune.com/prince-had-his-hair-done-before-bed-and-other-alumni-stories-at-u-symposium/480170433/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 April 2018 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-had-his-hair-done-before-bed-and-other-alumni-stories-at-u-symposium/480170433/))
+
+----
+
+[Home](./)

@@ -8,7 +8,7 @@
 
 ----
 
- - [**"Eric Church doubles down at Target Center"**](http://www.startribune.com/eric-church-doubles-down-at-target-center/505603292/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 8 February 2019 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/eric-church-doubles-down-at-target-center/505603292/))
+ - [**"Eric Church doubles down at Target Center -- Country superstar saved his best for second half."**](http://www.startribune.com/eric-church-doubles-down-at-target-center/505603292/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 8 February 2019 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/eric-church-doubles-down-at-target-center/505603292/))
 
 ----
 
@@ -16,15 +16,15 @@
 
 ----
 
- - [**"Prince Celebration 2019 to feature Jesse Johnson, manager Bob Cavallo and live/video concert"**](http://www.startribune.com/prince-celebration-2019-to-feature-jesse-johnson-manager-bob-cavallo-and-live-video-concert/505394312/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 February 2019 about [Bob Cavallo](https://bjmdotnet.github.io/pr1nc3/topics/bob-cavallo/), [Jesse Johnson](https://bjmdotnet.github.io/pr1nc3/topics/jesse-johnson/) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-celebration-2019-to-feature-jesse-johnson-manager-bob-cavallo-and-live-video-concert/505394312/))
+ - [**"Prince Celebration 2019 to feature Jesse Johnson, manager Bob Cavallo and live/video concert"**](http://www.startribune.com/prince-celebration-2019-to-feature-jesse-johnson-manager-bob-cavallo-and-live-video-concert/505394312/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 February 2019 about [Bob Cavallo](https://bjmdotnet.github.io/pr1nc3/topics/bob-cavallo/), [Jesse Johnson](https://bjmdotnet.github.io/pr1nc3/topics/jesse-johnson/) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-celebration-2019-to-feature-jesse-johnson-manager-bob-cavallo-and-live-video-concert/505394312/))
 
 ----
 
- - [**"Audra McDonald tries on Prince's 'Raspberry Beret' in upcoming season of 'The Good Fight'"**](http://www.startribune.com/audra-mcdonald-tries-on-prince-s-raspberry-beret-in-upcoming-season-of-the-good-fight/505294632/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 4 February 2019 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/audra-mcdonald-tries-on-prince-s-raspberry-beret-in-upcoming-season-of-the-good-fight/505294632/))
+ - [**"Audra McDonald tries on Prince's 'Raspberry Beret' in upcoming season of 'The Good Fight'"**](http://www.startribune.com/audra-mcdonald-tries-on-prince-s-raspberry-beret-in-upcoming-season-of-the-good-fight/505294632/) by Neal Justin in [Minneapolis Star Tribune](http://www.startribune.com/) on 4 February 2019 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/audra-mcdonald-tries-on-prince-s-raspberry-beret-in-upcoming-season-of-the-good-fight/505294632/))
 
 ----
 
- - [**"St. Paul 'Top Chef' contestant makes a Prince-inspired dish and it's purple"**](http://www.startribune.com/st-paul-top-chef-contestant-makes-a-prince-inspired-dish-and-it-s-purple/505192802/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 1 February 2019 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/st-paul-top-chef-contestant-makes-a-prince-inspired-dish-and-it-s-purple/505192802/))
+ - [**"St. Paul 'Top Chef' contestant makes a Prince-inspired dish and it's purple -- Once again, Justin Sutherland brings his home-state pride to TV."**](http://www.startribune.com/st-paul-top-chef-contestant-makes-a-prince-inspired-dish-and-it-s-purple/505192802/) by Sharyn Jackson in [Minneapolis Star Tribune](http://www.startribune.com/) on 1 February 2019 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/st-paul-top-chef-contestant-makes-a-prince-inspired-dish-and-it-s-purple/505192802/))
 
 ----
 

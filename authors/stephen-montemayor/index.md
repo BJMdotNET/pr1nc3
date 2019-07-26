@@ -1,5 +1,9 @@
 # Stephen Montemayor
 
+ - [**"Carver County closes Prince death investigation with no criminal charges -- After 2-year probe, supplier of fatal drug eludes investigators"**](http://www.startribune.com/no-charges-in-prince-death-investigation/480252103/) by Stephen Montemayor in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 April 2018 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/no-charges-in-prince-death-investigation/480252103/))
+
+----
+
  - [**"Search warrants provide few clues into source of Prince's fatal overdose -- Court documents unsealed Monday reveal details of first searches of the late musician's Paisley Park estate."**](http://www.startribune.com/search-warrants-provide-few-clues-into-source-of-prince-s-fatal-overdose/419614143/) by David Chanen, Stephen Montemayor in [Minneapolis Star Tribune](http://www.startribune.com/) on 17 April 2017 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/search-warrants-provide-few-clues-into-source-of-prince-s-fatal-overdose/419614143/))
 
 ----

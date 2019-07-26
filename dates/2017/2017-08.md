@@ -4,7 +4,7 @@
 
 ----
 
- - [**"Legendary Prince concert from Paisley Park coming to Showtime"**](http://www.startribune.com/legendary-prince-concert-from-paisley-park-coming-to-showtime/441537743/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 23 August 2017 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/legendary-prince-concert-from-paisley-park-coming-to-showtime/441537743/))
+ - [**"Legendary Prince concert from Paisley Park coming to Showtime"**](http://www.startribune.com/legendary-prince-concert-from-paisley-park-coming-to-showtime/441537743/) by Neal Justin in [Minneapolis Star Tribune](http://www.startribune.com/) on 23 August 2017 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/legendary-prince-concert-from-paisley-park-coming-to-showtime/441537743/))
 
 ----
 

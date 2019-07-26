@@ -1,42 +1,15 @@
 # Purple Rain (Movie)
 
- - [**"'Purple Rain' 35th anniversary: We dive into the Prince cult classic for the first time"**](https://usatoday.com/story/entertainment/movies/2019/07/25/purple-rain-35th-anniversary-does-prince-cult-film-hold-up/1817029001/) by Brian Truitt, Patrick Ryan in [USA Today](https://usatoday.com/) on 25 July 2019 about [Apollonia 6](https://bjmdotnet.github.io/pr1nc3/topics/apollonia-6/), [Apollonia Kotero](https://bjmdotnet.github.io/pr1nc3/topics/apollonia-kotero/), [Purple Rain (Movie)](https://bjmdotnet.github.io/pr1nc3/topics/movie/purple-rain/), [The Revolution](https://bjmdotnet.github.io/pr1nc3/topics/the-revolution/), [The Time](https://bjmdotnet.github.io/pr1nc3/topics/the-time/) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/entertainment/movies/2019/07/25/purple-rain-35th-anniversary-does-prince-cult-film-hold-up/1817029001/))
-
-----
-
- - [**"The Family’s Paul Peterson returns with a pair of new solo songs that sound a lot like Prince"**](https://www.twincities.com/2019/07/18/the-familys-paul-peterson-returns-with-a-pair-of-new-solo-songs-that-sound-a-lot-like-prince/) by Ross Raihala in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 18 July 2019 about [Alan Leeds](https://bjmdotnet.github.io/pr1nc3/topics/alan-leeds/), [Eric Leeds](https://bjmdotnet.github.io/pr1nc3/topics/eric-leeds/), [fDeluxe](https://bjmdotnet.github.io/pr1nc3/topics/fdeluxe/), [First Avenue (Place)](https://bjmdotnet.github.io/pr1nc3/topics/place/first-avenue/), [Jellybean Johnson](https://bjmdotnet.github.io/pr1nc3/topics/jellybean-johnson/), [Jerome Benton](https://bjmdotnet.github.io/pr1nc3/topics/jerome-benton/), [Jimmy Jam](https://bjmdotnet.github.io/pr1nc3/topics/jimmy-jam/), [Monte Moir](https://bjmdotnet.github.io/pr1nc3/topics/monte-moir/), [Nothing Compares 2 Prince](https://bjmdotnet.github.io/pr1nc3/topics/nothing-compares-2-prince/), [Nothing Compares 2 U (Song)](https://bjmdotnet.github.io/pr1nc3/topics/song/nothing-compares-2-u/), [Paul Peterson](https://bjmdotnet.github.io/pr1nc3/topics/paul-peterson/), [Purple Rain (Movie)](https://bjmdotnet.github.io/pr1nc3/topics/movie/purple-rain/), [St. Paul and the Minneapolis Funk All-Stars](https://bjmdotnet.github.io/pr1nc3/topics/st-paul-and-the-minneapolis-funk-all-stars/), [Susannah Melvoin](https://bjmdotnet.github.io/pr1nc3/topics/susannah-melvoin/), [Terry Lewis](https://bjmdotnet.github.io/pr1nc3/topics/terry-lewis/), [The Family](https://bjmdotnet.github.io/pr1nc3/topics/the-family/), [The Time](https://bjmdotnet.github.io/pr1nc3/topics/the-time/), [Tyka Nelson](https://bjmdotnet.github.io/pr1nc3/topics/tyka-nelson/), [Wendy Melvoin](https://bjmdotnet.github.io/pr1nc3/topics/wendy-melvoin/) ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2019/07/18/the-familys-paul-peterson-returns-with-a-pair-of-new-solo-songs-that-sound-a-lot-like-prince/))
-
-----
-
- - [**"Imagine, if you will, a picture with John Travolta as the 'Purple Rain' kid"**](http://www.startribune.com/c-j-imagine-if-you-will-a-picture-with-john-travolta-as-the-purple-rain-kid/512260012/) by C.J. (Cheryl Johnson) in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 July 2019 about [Alan Light](https://bjmdotnet.github.io/pr1nc3/topics/alan-light/), [Purple Rain (Movie)](https://bjmdotnet.github.io/pr1nc3/topics/movie/purple-rain/) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-imagine-if-you-will-a-picture-with-john-travolta-as-the-purple-rain-kid/512260012/))
-
-----
-
- - [**"Exclusive: Universal Fast Tracking Movie with Prince’s Songs Now That Beatles Movie “Yesterday” is A Hit, “Rocketman” Still Soaring"**](https://www.showbiz411.com/2019/07/02/exclusive-universal-fast-tracking-movie-with-princes-songs-now-that-beatles-movie-yesterday-is-a-hit-rocketman-still-soaring) by Roger Friedman in [Showbiz411](https://www.showbiz411.com/) on 2 July 2019 about [Purple Rain (Movie)](https://bjmdotnet.github.io/pr1nc3/topics/movie/purple-rain/), [Universal Pictures](https://bjmdotnet.github.io/pr1nc3/topics/universal-pictures/) ([mirror](https://web.archive.org/web/*/https://www.showbiz411.com/2019/07/02/exclusive-universal-fast-tracking-movie-with-princes-songs-now-that-beatles-movie-yesterday-is-a-hit-rocketman-still-soaring))
-
-----
-
- - [**"10 things you’ll learn about First Avenue in new Minnesota History Center show -- First Avenue is getting the museum treatment. Here are 10 things you’ll learn about Minnesota’s most fabled nightclub."**](http://www.startribune.com/10-things-you-ll-learn-about-first-avenue-in-new-minnesota-history-center-show/509374312/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 3 May 2019 about [David Brewster](https://bjmdotnet.github.io/pr1nc3/topics/david-brewster/), [Erotic City (Song)](https://bjmdotnet.github.io/pr1nc3/topics/song/erotic-city/), [First Avenue (Place)](https://bjmdotnet.github.io/pr1nc3/topics/place/first-avenue/), [Purple Rain (Movie)](https://bjmdotnet.github.io/pr1nc3/topics/movie/purple-rain/), [Sam’s (Place)](https://bjmdotnet.github.io/pr1nc3/topics/place/sam-s/), [Uncle Sam’s (Place)](https://bjmdotnet.github.io/pr1nc3/topics/place/uncle-sam-s/) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/10-things-you-ll-learn-about-first-avenue-in-new-minnesota-history-center-show/509374312/))
-
-----
-
- - [**"David Bourn, projectionist who lit up the skies and put Prince in the spotlight, dies at 77"**](http://www.startribune.com/david-bourn-projectionist-who-lit-up-the-skies-and-put-prince-in-the-spotlight-dies-at-77/508966712/) by Richard Chin in [Minneapolis Star Tribune](http://www.startribune.com/) on 23 April 2019 about [First Avenue (Place)](https://bjmdotnet.github.io/pr1nc3/topics/place/first-avenue/), [Purple Rain (Movie)](https://bjmdotnet.github.io/pr1nc3/topics/movie/purple-rain/) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/david-bourn-projectionist-who-lit-up-the-skies-and-put-prince-in-the-spotlight-dies-at-77/508966712/))
-
-----
-
- - [**"Prince memoir ‘The Beautiful Ones’ coming out in the fall"**](https://www.apnews.com/0c8b1deaae3b4329905d848b284f044b) by Hillel Italie (Associated Press) in [Associated Press News](https://www.apnews.com/) on 22 April 2019 about [Chris Jackson](https://bjmdotnet.github.io/pr1nc3/topics/chris-jackson/), [Dan Piepenbring](https://bjmdotnet.github.io/pr1nc3/topics/dan-piepenbring/), [Esther Newberg](https://bjmdotnet.github.io/pr1nc3/topics/esther-newberg/), [fentanyl](https://bjmdotnet.github.io/pr1nc3/topics/fentanyl/), [Purple Rain (Movie)](https://bjmdotnet.github.io/pr1nc3/topics/movie/purple-rain/), [Random House ](https://bjmdotnet.github.io/pr1nc3/topics/random-house/), [The Beautiful Ones (Book)](https://bjmdotnet.github.io/pr1nc3/topics/book/the-beautiful-ones/) ([mirror](https://web.archive.org/web/*/https://www.apnews.com/0c8b1deaae3b4329905d848b284f044b))
-
-----
-
- - [**"Let's go crazy! Songs by Prince will be the star of a new movie musical"**](https://eu.usatoday.com/story/life/movies/2018/12/03/prince-inspired-movie-musical-make-artists-songs-film-star/2196507002/) by Bryan Alexander in [USA Today](https://usatoday.com/) on 4 December 2018 about [Purple Rain (Movie)](https://bjmdotnet.github.io/pr1nc3/topics/movie/purple-rain/), [Universal Pictures](https://bjmdotnet.github.io/pr1nc3/topics/universal-pictures/) ([mirror](https://web.archive.org/web/*/https://eu.usatoday.com/story/life/movies/2018/12/03/prince-inspired-movie-musical-make-artists-songs-film-star/2196507002/))
-
-----
-
- - [**"From Prince To Paul McCartney To Bruno Mars, LeRoy Bennett Is the Man"**](https://www.forbes.com/sites/stevebaltin/2017/09/21/from-prince-to-paul-mccartney-to-bruno-mars-leroy-bennett-is-the-man/) by Steve Baltin in [Forbes](https://www.forbes.com/) on 21 September 2017 about [Dirty Mind (Album)](https://bjmdotnet.github.io/pr1nc3/topics/album/dirty-mind/), [LeRoy Bennett](https://bjmdotnet.github.io/pr1nc3/topics/leroy-bennett/), [Purple Rain (Movie)](https://bjmdotnet.github.io/pr1nc3/topics/movie/purple-rain/), [Purple Rain (Tour)](https://bjmdotnet.github.io/pr1nc3/topics/tour/purple-rain/) ([mirror](https://web.archive.org/web/*/https://www.forbes.com/sites/stevebaltin/2017/09/21/from-prince-to-paul-mccartney-to-bruno-mars-leroy-bennett-is-the-man/))
-
-----
-
- - [**"Revisit Prince's iconic first 'Purple Rain' performance"**](https://usatoday.com/story/life/entertainthis/2016/04/21/prince-first-performance-purple-rain-video/83346434/) by Maeve McDermott in [USA Today](https://usatoday.com/) on 21 April 2016 about [First Avenue (Place)](https://bjmdotnet.github.io/pr1nc3/topics/place/first-avenue/), [I Would Die 4 U (Book)](https://bjmdotnet.github.io/pr1nc3/topics/book/i-would-die-4-u/), [Purple Rain (Movie)](https://bjmdotnet.github.io/pr1nc3/topics/movie/purple-rain/), [Purple Rain (Song)](https://bjmdotnet.github.io/pr1nc3/topics/song/purple-rain/), [Touré](https://bjmdotnet.github.io/pr1nc3/topics/tour/) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/entertainthis/2016/04/21/prince-first-performance-purple-rain-video/83346434/))
+  * 2019: 
+      [July](./purple-rain-movie-2019-07.md) (5) | 
+      [May](./purple-rain-movie-2019-05.md) (1) | 
+      [April](./purple-rain-movie-2019-04.md) (2) | 
+  * 2018: 
+      [December](./purple-rain-movie-2018-12.md) (1) | 
+  * 2017: 
+      [September](./purple-rain-movie-2017-09.md) (1) | 
+  * 2016: 
+      [April](./purple-rain-movie-2016-04.md) (1) | 
 
 ----
 

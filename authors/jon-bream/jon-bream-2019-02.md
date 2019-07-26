@@ -4,4 +4,12 @@
 
 ----
 
+ - [**"Eric Church doubles down at Target Center -- Country superstar saved his best for second half."**](http://www.startribune.com/eric-church-doubles-down-at-target-center/505603292/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 8 February 2019 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/eric-church-doubles-down-at-target-center/505603292/))
+
+----
+
+ - [**"Prince Celebration 2019 to feature Jesse Johnson, manager Bob Cavallo and live/video concert"**](http://www.startribune.com/prince-celebration-2019-to-feature-jesse-johnson-manager-bob-cavallo-and-live-video-concert/505394312/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 February 2019 about [Bob Cavallo](https://bjmdotnet.github.io/pr1nc3/topics/bob-cavallo/), [Jesse Johnson](https://bjmdotnet.github.io/pr1nc3/topics/jesse-johnson/) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-celebration-2019-to-feature-jesse-johnson-manager-bob-cavallo-and-live-video-concert/505394312/))
+
+----
+
 [Home](./)

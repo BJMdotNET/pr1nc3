@@ -7,6 +7,10 @@
       [March](./chris-riemenschneider-2019-03.md) (1) | 
   * 2018: 
       [December](./chris-riemenschneider-2018-12.md) (1) | 
+      [November](./chris-riemenschneider-2018-11.md) (2) | 
+      [September](./chris-riemenschneider-2018-09.md) (2) | 
+      [April](./chris-riemenschneider-2018-04.md) (2) | 
+      [February](./chris-riemenschneider-2018-02.md) (1) | 
       [January](./chris-riemenschneider-2018-01.md) (1) | 
   * 2017: 
       [August](./chris-riemenschneider-2017-08.md) (1) | 

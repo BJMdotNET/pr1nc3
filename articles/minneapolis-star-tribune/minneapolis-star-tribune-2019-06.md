@@ -8,7 +8,7 @@
 
 ----
 
- - [**"Street names on Prince’s former Chanhassen property allude to the late star -- Street names to honor Prince in development on land once owned by late star"**](http://www.startribune.com/street-names-for-chanhassen-development-on-prince-s-former-property-allude-to-the-late-star/511245822/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 13 June 2019 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/street-names-for-chanhassen-development-on-prince-s-former-property-allude-to-the-late-star/511245822/))
+ - [**"Street names on Prince’s former Chanhassen property allude to the late star -- Street names to honor Prince in development on land once owned by late star"**](http://www.startribune.com/street-names-for-chanhassen-development-on-prince-s-former-property-allude-to-the-late-star/511245822/) by Katy Read in [Minneapolis Star Tribune](http://www.startribune.com/) on 13 June 2019 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/street-names-for-chanhassen-development-on-prince-s-former-property-allude-to-the-late-star/511245822/))
 
 ----
 
@@ -20,7 +20,7 @@
 
 ----
 
- - [**"For the love of Prince, why won’t anyone take the last piece of food?"**](http://www.startribune.com/why-won-t-anyone-take-the-last-piece-of-food/510139261/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 7 June 2019 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/why-won-t-anyone-take-the-last-piece-of-food/510139261/))
+ - [**"For the love of Prince, why won’t anyone take the last piece of food?"**](http://www.startribune.com/why-won-t-anyone-take-the-last-piece-of-food/510139261/) by John Reinan in [Minneapolis Star Tribune](http://www.startribune.com/) on 7 June 2019 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/why-won-t-anyone-take-the-last-piece-of-food/510139261/))
 
 ----
 

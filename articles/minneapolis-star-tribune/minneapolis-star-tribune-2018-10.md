@@ -1,10 +1,10 @@
 # Minneapolis Star Tribune: October 2018
 
- - [**"'A Wrinkle in Time' director Ava DuVernay to make Prince documentary for Netflix"**](http://www.startribune.com/ava-duvernay-to-make-prince-documentary-for-netflix/499015301/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 31 October 2018 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/ava-duvernay-to-make-prince-documentary-for-netflix/499015301/))
+ - [**"'A Wrinkle in Time' director Ava DuVernay to make Prince documentary for Netflix -- The filmmaker has the support of the late Minnesota musician's estate."**](http://www.startribune.com/ava-duvernay-to-make-prince-documentary-for-netflix/499015301/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 31 October 2018 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/ava-duvernay-to-make-prince-documentary-for-netflix/499015301/))
 
 ----
 
- - [**"Expect Prince-themed Wolves jerseys to be unveiled Thursday at Paisley Park"**](http://www.startribune.com/expect-prince-themed-wolves-jerseys-to-be-unveiled-thursday-at-paisley-park/499015121/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 30 October 2018 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/expect-prince-themed-wolves-jerseys-to-be-unveiled-thursday-at-paisley-park/499015121/))
+ - [**"Expect Prince-themed Wolves jerseys to be unveiled Thursday at Paisley Park -- A partial look at the new uniform � which honor the Minnesota music legend who died in 2016 � was leaked on social media last week."**](http://www.startribune.com/expect-prince-themed-wolves-jerseys-to-be-unveiled-thursday-at-paisley-park/499015121/) by Michael Rand in [Minneapolis Star Tribune](http://www.startribune.com/) on 30 October 2018 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/expect-prince-themed-wolves-jerseys-to-be-unveiled-thursday-at-paisley-park/499015121/))
 
 ----
 

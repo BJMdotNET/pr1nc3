@@ -4,7 +4,7 @@
 
 ----
 
- - [**"C.J.: Will Dire Straits' F-word be heard again on KQRS?"**](http://www.startribune.com/c-j-will-dire-straits-f-word-be-heard-again-on-kqrs/380898071/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 May 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-will-dire-straits-f-word-be-heard-again-on-kqrs/380898071/))
+ - [**"C.J.: Will Dire Straits' F-word be heard again on KQRS?"**](http://www.startribune.com/c-j-will-dire-straits-f-word-be-heard-again-on-kqrs/380898071/) by C.J. (Cheryl Johnson) in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 May 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-will-dire-straits-f-word-be-heard-again-on-kqrs/380898071/))
 
 ----
 
@@ -12,7 +12,7 @@
 
 ----
 
- - [**"C.J.: Madonna tried valiantly but in the end her Billboard tribute to Prince was not very royal"**](http://www.startribune.com/c-j-madonna-tried-valiantly-but-in-the-end-her-billboard-tribute-to-prince-was-not-very-royal/380583721/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 23 May 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-madonna-tried-valiantly-but-in-the-end-her-billboard-tribute-to-prince-was-not-very-royal/380583721/))
+ - [**"C.J.: Madonna tried valiantly but in the end her Billboard tribute to Prince was not very royal"**](http://www.startribune.com/c-j-madonna-tried-valiantly-but-in-the-end-her-billboard-tribute-to-prince-was-not-very-royal/380583721/) by C.J. (Cheryl Johnson) in [Minneapolis Star Tribune](http://www.startribune.com/) on 23 May 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-madonna-tried-valiantly-but-in-the-end-her-billboard-tribute-to-prince-was-not-very-royal/380583721/))
 
 ----
 
@@ -92,11 +92,11 @@
 
 ----
 
- - [**"All over the world, Prince was this Minnesotan's passport to cool -- Nobody in France, Holland or Vietnam knew a thing about her hometown, until she started invoking the name of its resident megastar. Then the smiles and the singing began."**](http://www.startribune.com/all-over-the-world-prince-was-this-minnesotan-s-passport-to-cool/378952801/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 11 May 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/all-over-the-world-prince-was-this-minnesotan-s-passport-to-cool/378952801/))
+ - [**"All over the world, Prince was this Minnesotan's passport to cool -- Nobody in France, Holland or Vietnam knew a thing about her hometown, until she started invoking the name of its resident megastar. Then the smiles and the singing began."**](http://www.startribune.com/all-over-the-world-prince-was-this-minnesotan-s-passport-to-cool/378952801/) by Sarah Chandler in [Minneapolis Star Tribune](http://www.startribune.com/) on 11 May 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/all-over-the-world-prince-was-this-minnesotan-s-passport-to-cool/378952801/))
 
 ----
 
- - [**"Kiss' Gene Simmons apologizes for calling Prince's death 'pathetic'"**](http://www.startribune.com/gene-simmons-apologizes-for-calling-prince-s-death-pathetic/378995911/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 11 May 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/gene-simmons-apologizes-for-calling-prince-s-death-pathetic/378995911/))
+ - [**"Kiss' Gene Simmons apologizes for calling Prince's death 'pathetic'"**](http://www.startribune.com/gene-simmons-apologizes-for-calling-prince-s-death-pathetic/378995911/) by The Wrap in [Minneapolis Star Tribune](http://www.startribune.com/) on 11 May 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/gene-simmons-apologizes-for-calling-prince-s-death-pathetic/378995911/))
 
 ----
 
@@ -176,7 +176,7 @@
 
 ----
 
- - [**"Dancers recall Prince as a hard-working 'darling' in tights and ballet slippers -- The Twin Cities dance community recalls another side of the artist who first took ballet lessons as a kid."**](http://www.startribune.com/dancers-recall-prince-as-a-hard-working-darling-in-tights-and-ballet-slippers/378179261/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 May 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/dancers-recall-prince-as-a-hard-working-darling-in-tights-and-ballet-slippers/378179261/))
+ - [**"Dancers recall Prince as a hard-working 'darling' in tights and ballet slippers -- The Twin Cities dance community recalls another side of the artist who first took ballet lessons as a kid."**](http://www.startribune.com/dancers-recall-prince-as-a-hard-working-darling-in-tights-and-ballet-slippers/378179261/) by Caroline Palmer in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 May 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/dancers-recall-prince-as-a-hard-working-darling-in-tights-and-ballet-slippers/378179261/))
 
 ----
 
@@ -188,7 +188,7 @@
 
 ----
 
- - [**"C.J.: A family history of addiction prompted attorney to tell authorities what he'd heard about Prince and Percocet"**](http://www.startribune.com/c-j-a-family-history-of-addiction-prompted-attorney-to-tell-authorities-what-he-d-heard-about-prince-and-percocet/378196251/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 4 May 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-a-family-history-of-addiction-prompted-attorney-to-tell-authorities-what-he-d-heard-about-prince-and-percocet/378196251/))
+ - [**"C.J.: A family history of addiction prompted attorney to tell authorities what he'd heard about Prince and Percocet"**](http://www.startribune.com/c-j-a-family-history-of-addiction-prompted-attorney-to-tell-authorities-what-he-d-heard-about-prince-and-percocet/378196251/) by C.J. (Cheryl Johnson) in [Minneapolis Star Tribune](http://www.startribune.com/) on 4 May 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-a-family-history-of-addiction-prompted-attorney-to-tell-authorities-what-he-d-heard-about-prince-and-percocet/378196251/))
 
 ----
 

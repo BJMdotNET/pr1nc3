@@ -1,10 +1,10 @@
 # Janelle Monae
 
- - [**"Janelle Monáe gives galvanizing Prince-inspired performance at sold-out State Theatre"**](http://www.startribune.com/janelle-monae-fights-for-the-right-to-funk/487297841/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 4 July 2018 about [Janelle Monae](https://bjmdotnet.github.io/pr1nc3/topics/janelle-monae/) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/janelle-monae-fights-for-the-right-to-funk/487297841/))
+ - [**"Janelle Monáe gives galvanizing Prince-inspired performance at sold-out State Theatre -- Review: It was obvious from the reaction of the celebratory and worshipful crowd that the visionary singer has gone from cult hero to cultural hero."**](http://www.startribune.com/janelle-monae-fights-for-the-right-to-funk/487297841/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 4 July 2018 about [Janelle Monae](https://bjmdotnet.github.io/pr1nc3/topics/janelle-monae/) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/janelle-monae-fights-for-the-right-to-funk/487297841/))
 
 ----
 
- - [**"Janelle Monáe to tout her new Prince-infused album July 3 at the State"**](http://www.startribune.com/janelle-monae-to-tout-her-new-prince-infused-album-july-3-at-the-state/480567481/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 23 April 2018 about [Janelle Monae](https://bjmdotnet.github.io/pr1nc3/topics/janelle-monae/) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/janelle-monae-to-tout-her-new-prince-infused-album-july-3-at-the-state/480567481/))
+ - [**"Janelle Monáe to tout her new Prince-infused album July 3 at the State"**](http://www.startribune.com/janelle-monae-to-tout-her-new-prince-infused-album-july-3-at-the-state/480567481/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 23 April 2018 about [Janelle Monae](https://bjmdotnet.github.io/pr1nc3/topics/janelle-monae/) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/janelle-monae-to-tout-her-new-prince-infused-album-july-3-at-the-state/480567481/))
 
 ----
 

@@ -1,10 +1,10 @@
 # Minneapolis Star Tribune: September 2018
 
- - [**"New video series is a 'love letter to black Minneapolis'"**](http://www.startribune.com/new-video-series-is-a-love-letter-to-black-minneapolis/494308901/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 27 September 2018 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/new-video-series-is-a-love-letter-to-black-minneapolis/494308901/))
+ - [**"New video series is a 'love letter to black Minneapolis'"**](http://www.startribune.com/new-video-series-is-a-love-letter-to-black-minneapolis/494308901/) by Sheila Regan in [Minneapolis Star Tribune](http://www.startribune.com/) on 27 September 2018 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/new-video-series-is-a-love-letter-to-black-minneapolis/494308901/))
 
 ----
 
- - [**"Prince receives honorary degree from University of Minnesota"**](http://www.startribune.com/prince-receives-honorary-degree-from-university-of-minnesota/494452521/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 September 2018 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-receives-honorary-degree-from-university-of-minnesota/494452521/))
+ - [**"Prince receives honorary degree from University of Minnesota -- Prince received an honorary degree from the University of Minnesota's school of music on Wednesday, Sept 26, 2018 at the Ted Mann Concert Hall in Minneapolis, Minn."**](http://www.startribune.com/prince-receives-honorary-degree-from-university-of-minnesota/494452521/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 September 2018 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-receives-honorary-degree-from-university-of-minnesota/494452521/))
 
 ----
 
@@ -36,11 +36,11 @@
 
 ----
 
- - [**"Prince fans go crazy over Capital One commercial during Emmys"**](http://www.startribune.com/prince-fans-go-crazy-over-capitol-one-commercial-during-emmys/493585251/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 September 2018 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-fans-go-crazy-over-capitol-one-commercial-during-emmys/493585251/))
+ - [**"Prince fans go crazy over Capital One commercial during Emmys"**](http://www.startribune.com/prince-fans-go-crazy-over-capitol-one-commercial-during-emmys/493585251/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 September 2018 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-fans-go-crazy-over-capitol-one-commercial-during-emmys/493585251/))
 
 ----
 
- - [**"Prince's new basement tape: Just him singing, playing piano"**](http://www.startribune.com/prince-s-new-basement-tape-just-him-singing-playing-piano/493611431/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 September 2018 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-new-basement-tape-just-him-singing-playing-piano/493611431/))
+ - [**"Prince's new basement tape: Just him singing, playing piano"**](http://www.startribune.com/prince-s-new-basement-tape-just-him-singing-playing-piano/493611431/) by Jeff Baenen (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 September 2018 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-new-basement-tape-just-him-singing-playing-piano/493611431/))
 
 ----
 
@@ -48,7 +48,7 @@
 
 ----
 
- - [**"Paisley Park to re-open 'After Dark' to celebrate new Prince album Friday"**](http://www.startribune.com/paisley-park-to-re-open-after-dark-to-celebrate-new-prince-album-friday/493515811/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 17 September 2018 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-to-re-open-after-dark-to-celebrate-new-prince-album-friday/493515811/))
+ - [**"Paisley Park to re-open 'After Dark' to celebrate new Prince album Friday"**](http://www.startribune.com/paisley-park-to-re-open-after-dark-to-celebrate-new-prince-album-friday/493515811/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 17 September 2018 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-to-re-open-after-dark-to-celebrate-new-prince-album-friday/493515811/))
 
 ----
 
