@@ -1,6 +1,6 @@
 # Album
 
-  * [1999 (Album)](./album/1999/) (1)
+  * [1999 (Album)](./album/1999/) (2)
   * [3121 (Album)](./album/3121/) (1)
   * [Around The World In A Day (Album)](./album/around-the-world-in-a-day/) (3)
   * [Crystal Ball (Album)](./album/crystal-ball/) (1)
@@ -13,7 +13,7 @@
   * [Lovesexy (Album)](./album/lovesexy/) (1)
   * [Originals (Album)](./album/originals/) (32)
   * [Piano and a Microphone 1983 (Album)](./album/piano-and-a-microphone-1983/) (8)
-  * [Purple Rain (Album)](./album/purple-rain/) (6)
+  * [Purple Rain (Album)](./album/purple-rain/) (12)
   * [Rave In2 the Joy Fantastic (Album)](./album/rave-in2-the-joy-fantastic/) (1)
   * [Rave Un2 the Joy Fantastic (Album)](./album/rave-un2-the-joy-fantastic/) (2)
   * [The Black Album (Album)](./album/the-black-album/) (2)

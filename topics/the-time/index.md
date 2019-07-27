@@ -1,7 +1,7 @@
 # The Time
 
   * 2019: 
-      [July](./the-time-2019-07.md) (4) | 
+      [July](./the-time-2019-07.md) (6) | 
       [June](./the-time-2019-06.md) (6) | 
       [April](./the-time-2019-04.md) (4) | 
   * 2017: 
