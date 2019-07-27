@@ -9,6 +9,7 @@
       [September](./variety-2018-09.md) (1) | 
   * 2017: 
       [June](./variety-2017-06.md) (1) | 
+      [May](./variety-2017-05.md) (2) | 
       [April](./variety-2017-04.md) (1) | 
 
 ----

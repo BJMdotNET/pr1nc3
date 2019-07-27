@@ -16,6 +16,10 @@
 
 ----
 
+ - [**"It’s Official: Prince’s Estate Manager and Universal Music Group Move to Nullify Recorded-Music Deal"**](https://variety.com/2017/music/news/its-official-princes-estate-manager-and-universal-music-group-move-to-nullify-recorded-music-deal-1202436842/) by Jem Aswad in [Variety](https://variety.com/) on 19 May 2017 about [Alfred Jackson](https://bjmdotnet.github.io/pr1nc3/topics/alfred-jackson/), [Charles Koppelman](https://bjmdotnet.github.io/pr1nc3/topics/charles-koppelman/), [Comerica Bank & Trust](https://bjmdotnet.github.io/pr1nc3/topics/comerica-bank-trust/), [John R. Nelson](https://bjmdotnet.github.io/pr1nc3/topics/john-r-nelson/), [Kevin Eide](https://bjmdotnet.github.io/pr1nc3/topics/kevin-eide/), [Norrine Nelson](https://bjmdotnet.github.io/pr1nc3/topics/norrine-nelson/), [Omarr Baker](https://bjmdotnet.github.io/pr1nc3/topics/omarr-baker/), [Sharon Nelson](https://bjmdotnet.github.io/pr1nc3/topics/sharon-nelson/), [Troy Carter](https://bjmdotnet.github.io/pr1nc3/topics/troy-carter/), [Tyka Nelson](https://bjmdotnet.github.io/pr1nc3/topics/tyka-nelson/), [Universal Music Group](https://bjmdotnet.github.io/pr1nc3/topics/universal-music-group/), [Van Jones](https://bjmdotnet.github.io/pr1nc3/topics/van-jones/), [Warner Bros. Records](https://bjmdotnet.github.io/pr1nc3/topics/warner-bros-records/) ([mirror](https://web.archive.org/web/*/https://variety.com/2017/music/news/its-official-princes-estate-manager-and-universal-music-group-move-to-nullify-recorded-music-deal-1202436842/))
+
+----
+
  - [**"Prince’s lawyer: Death a shock; singer led clean lifestyle"**](https://www.apnews.com/18fe9c0f0a124d55a91156e8c1865ab6) in [Associated Press News](https://www.apnews.com/) on 26 April 2016 about [Moline, Illinois (Place)](https://bjmdotnet.github.io/pr1nc3/topics/place/moline-illinois/), [Warner Bros. Records](https://bjmdotnet.github.io/pr1nc3/topics/warner-bros-records/) ([mirror](https://web.archive.org/web/*/https://www.apnews.com/18fe9c0f0a124d55a91156e8c1865ab6))
 
 ----

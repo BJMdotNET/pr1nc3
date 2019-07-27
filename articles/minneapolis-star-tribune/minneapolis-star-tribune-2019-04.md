@@ -36,7 +36,7 @@
 
 ----
 
- - [**"C.J.: Prince protégée Ashley Támar Davis performed with pre-Destiny Beyoncé"**](http://www.startribune.com/c-j-the-fame-of-destiny-s-child-almost-broke-singer-ashley-tamar-davis/508902862/) by C.J. (Cheryl Johnson) in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 April 2019 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-the-fame-of-destiny-s-child-almost-broke-singer-ashley-tamar-davis/508902862/))
+ - [**"C.J.: Prince protégée Ashley Támar Davis performed with pre-Destiny Beyoncé"**](http://www.startribune.com/c-j-the-fame-of-destiny-s-child-almost-broke-singer-ashley-tamar-davis/508902862/) by C.J. (Cheryl Johnson) in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 April 2019 about [New Power Generation](https://bjmdotnet.github.io/pr1nc3/topics/new-power-generation/), [Támar Davis](https://bjmdotnet.github.io/pr1nc3/topics/t-mar-davis/) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-the-fame-of-destiny-s-child-almost-broke-singer-ashley-tamar-davis/508902862/))
 
 ----
 
@@ -56,7 +56,7 @@
 
 ----
 
- - [**"In first night here, Dave Chappelle thanks Minnesota for sending 'wild' politicians to D.C. -- Review: Like Springsteen, the comedian worked hard and reached deep as he launched a four-night run."**](http://www.startribune.com/in-first-night-here-dave-chappelle-thanks-minnesota-for-sending-wild-politicians-to-d-c/508592742/) by Neal Justin in [Minneapolis Star Tribune](http://www.startribune.com/) on 15 April 2019 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/in-first-night-here-dave-chappelle-thanks-minnesota-for-sending-wild-politicians-to-d-c/508592742/))
+ - [**"In first night here, Dave Chappelle thanks Minnesota for sending 'wild' politicians to D.C. -- Review: Like Springsteen, the comedian worked hard and reached deep as he launched a four-night run."**](http://www.startribune.com/in-first-night-here-dave-chappelle-thanks-minnesota-for-sending-wild-politicians-to-d-c/508592742/) by Neal Justin in [Minneapolis Star Tribune](http://www.startribune.com/) on 15 April 2019 about [1999 (Song)](https://bjmdotnet.github.io/pr1nc3/topics/song/1999/), [Dave Chappelle](https://bjmdotnet.github.io/pr1nc3/topics/dave-chappelle/) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/in-first-night-here-dave-chappelle-thanks-minnesota-for-sending-wild-politicians-to-d-c/508592742/))
 
 ----
 
@@ -64,7 +64,7 @@
 
 ----
 
- - [**"Pick Six: Praise for Lil Nas X, Bob Mould, Zedd, 'Jay's Longhorn' and more -- Pick Six is a half-dozen cool things in music, from two points of view."**](http://www.startribune.com/pick-six-praise-for-lil-nas-x-bob-mould-zedd-jay-s-longhorn-and-more/508453002/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 April 2019 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/pick-six-praise-for-lil-nas-x-bob-mould-zedd-jay-s-longhorn-and-more/508453002/))
+ - [**"Pick Six: Praise for Lil Nas X, Bob Mould, Zedd, 'Jay's Longhorn' and more -- Pick Six is a half-dozen cool things in music, from two points of view."**](http://www.startribune.com/pick-six-praise-for-lil-nas-x-bob-mould-zedd-jay-s-longhorn-and-more/508453002/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 April 2019 about [Central High](https://bjmdotnet.github.io/pr1nc3/topics/central-high/), [Sheila E.](https://bjmdotnet.github.io/pr1nc3/topics/sheila-e/) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/pick-six-praise-for-lil-nas-x-bob-mould-zedd-jay-s-longhorn-and-more/508453002/))
 
 ----
 

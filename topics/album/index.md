@@ -11,7 +11,7 @@
   * [Everything Blows (Album)](./album/everything-blows/) (1)
   * [Graffiti Bridge (Album)](./album/graffiti-bridge/) (1)
   * [Lovesexy (Album)](./album/lovesexy/) (1)
-  * [Originals (Album)](./album/originals/) (32)
+  * [Originals (Album)](./album/originals/) (34)
   * [Piano and a Microphone 1983 (Album)](./album/piano-and-a-microphone-1983/) (8)
   * [Purple Rain (Album)](./album/purple-rain/) (12)
   * [Rave In2 the Joy Fantastic (Album)](./album/rave-in2-the-joy-fantastic/) (1)

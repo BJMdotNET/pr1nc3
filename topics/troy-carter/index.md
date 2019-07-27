@@ -10,6 +10,7 @@
       [June](./troy-carter-2018-06.md) (2) | 
       [May](./troy-carter-2018-05.md) (2) | 
   * 2017: 
+      [May](./troy-carter-2017-05.md) (1) | 
       [April](./troy-carter-2017-04.md) (2) | 
 
 ----
