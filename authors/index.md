@@ -37,6 +37,7 @@
   * [Aimee Blanchette](./aimee-blanchette/) (1)
   * [Alex Johnson](./alex-johnson/) (1)
   * [Andrea Swensson](./andrea-swensson/) (1)
+  * [Andy Healy](./andy-healy/) (3)
   * [Ann-Derrick Gaillot](./ann-derrick-gaillot/) (1)
   * [Anthony Lonetree](./anthony-lonetree/) (1)
   * [ASMP](./asmp/) (1)

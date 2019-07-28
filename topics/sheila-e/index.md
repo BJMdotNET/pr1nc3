@@ -1,8 +1,8 @@
 # Sheila E.
 
   * 2019: 
-      [July](./sheila-e-2019-07.md) (4) | 
-      [June](./sheila-e-2019-06.md) (4) | 
+      [July](./sheila-e-2019-07.md) (5) | 
+      [June](./sheila-e-2019-06.md) (5) | 
       [April](./sheila-e-2019-04.md) (5) | 
   * 2018: 
       [April](./sheila-e-2018-04.md) (1) | 

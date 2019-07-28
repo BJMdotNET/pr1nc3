@@ -2,6 +2,7 @@
 
   * 2019: 
       [July](./first-avenue-place-2019-07.md) (5) | 
+      [June](./first-avenue-place-2019-06.md) (1) | 
       [May](./first-avenue-place-2019-05.md) (3) | 
       [April](./first-avenue-place-2019-04.md) (3) | 
   * 2018: 

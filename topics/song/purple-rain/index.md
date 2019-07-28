@@ -2,7 +2,7 @@
 
   * 2019: 
       [July](./purple-rain-song-2019-07.md) (6) | 
-      [June](./purple-rain-song-2019-06.md) (1) | 
+      [June](./purple-rain-song-2019-06.md) (2) | 
   * 2018: 
       [September](./purple-rain-song-2018-09.md) (2) | 
   * 2017: 

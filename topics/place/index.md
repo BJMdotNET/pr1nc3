@@ -4,7 +4,7 @@
   * [Bel Air (Place)](./place/bel-air/) (1)
   * [Capri Theater  (Place)](./place/capri-theater/) (1)
   * [Dakota (Place)](./place/dakota/) (4)
-  * [First Avenue (Place)](./place/first-avenue/) (17)
+  * [First Avenue (Place)](./place/first-avenue/) (18)
   * [Lake Minnetonka (Place)](./place/lake-minnetonka/) (2)
   * [Mann’s Chinese Theatre (Place)](./place/mann-s-chinese-theatre/) (1)
   * [Moline, Illinois (Place)](./place/moline-illinois/) (4)

@@ -1,5 +1,6 @@
 # Publications
 
+  * [Albumism](./albumism/) (3)
   * [Architectural Digest](./architectural-digest/) (1)
   * [artnet news](./artnet-news/) (4)
   * [ASMP -- American Society of Media Photographers](./asmp-american-society-of-media-photographers/) (1)
@@ -8,6 +9,7 @@
   * [BBC News](./bbc-news/) (1)
   * [Billboard](./billboard/) (10)
   * [Biography](./biography/) (1)
+  * [Blitz](./blitz/) (1)
   * [Box In A Suitcase](./box-in-a-suitcase/) (1)
   * [Brooklyn Vegan](./brooklyn-vegan/) (1)
   * [The Chronicle Herald](./the-chronicle-herald/) (1)

@@ -2,7 +2,7 @@
 
   * 2019: 
       [July](./nothing-compares-2-u-song-2019-07.md) (3) | 
-      [June](./nothing-compares-2-u-song-2019-06.md) (6) | 
+      [June](./nothing-compares-2-u-song-2019-06.md) (8) | 
       [April](./nothing-compares-2-u-song-2019-04.md) (2) | 
   * 2018: 
       [July](./nothing-compares-2-u-song-2018-07.md) (1) | 
