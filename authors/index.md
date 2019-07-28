@@ -36,6 +36,7 @@
 
   * [Aimee Blanchette](./aimee-blanchette/) (1)
   * [Alex Johnson](./alex-johnson/) (1)
+  * [Andrea Swensson](./andrea-swensson/) (1)
   * [Ann-Derrick Gaillot](./ann-derrick-gaillot/) (1)
   * [Anthony Lonetree](./anthony-lonetree/) (1)
   * [ASMP](./asmp/) (1)
@@ -67,6 +68,7 @@
   * [Esther Lee](./esther-lee/) (1)
   * [Far Out Staff](./far-out-staff/) (1)
   * [Glen Stubbe](./glen-stubbe/) (1)
+  * [Going Out Guide staff](./going-out-guide-staff/) (1)
   * [Graeme Watson](./graeme-watson/) (1)
   * [Jackie Crosby](./jackie-crosby/) (1)
   * [James Eli Shiffer](./james-eli-shiffer/) (1)

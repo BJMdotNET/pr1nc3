@@ -28,6 +28,7 @@
   * [Possessed (Song)](./song/possessed/) (2)
   * [Purple Rain (Song)](./song/purple-rain/) (13)
   * [Roadhouse Garden (Song)](./song/roadhouse-garden/) (2)
+  * [Sex Shooter (Song)](./song/sex-shooter/) (1)
   * [Starfish And Coffee (Song)](./song/starfish-and-coffee/) (2)
   * [Sticky Wicked (Song)](./song/sticky-wicked/) (1)
   * [Take Me with U (Song)](./song/take-me-with-u/) (2)

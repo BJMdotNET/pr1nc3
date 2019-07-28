@@ -23,6 +23,7 @@
       [July](./associated-press-news-2016-07.md) (2) | 
       [June](./associated-press-news-2016-06.md) (4) | 
       [April](./associated-press-news-2016-04.md) (2) | 
+      [February](./associated-press-news-2016-02.md) (1) | 
   * 2006: 
       [July](./associated-press-news-2006-07.md) (1) | 
   * 1997: 
