@@ -12,7 +12,7 @@
 
 ----
 
- - [**"Prince’s lawyer: Death a shock; singer led clean lifestyle"**](https://www.apnews.com/18fe9c0f0a124d55a91156e8c1865ab6) in [Associated Press News](https://www.apnews.com/) on 26 April 2016 about [Moline, Illinois (Place)](https://bjmdotnet.github.io/pr1nc3/topics/place/moline-illinois/), [Warner Bros. Records](https://bjmdotnet.github.io/pr1nc3/topics/warner-bros-records/) ([mirror](https://web.archive.org/web/*/https://www.apnews.com/18fe9c0f0a124d55a91156e8c1865ab6))
+ - [**"Prince’s lawyer: Death a shock; singer led clean lifestyle"**](https://www.apnews.com/18fe9c0f0a124d55a91156e8c1865ab6) by Nekesa Mumbi Moody (Associated Press) in [Associated Press News](https://www.apnews.com/) on 26 April 2016 about [Moline, Illinois (Place)](https://bjmdotnet.github.io/pr1nc3/topics/place/moline-illinois/), [Warner Bros. Records](https://bjmdotnet.github.io/pr1nc3/topics/warner-bros-records/) ([mirror](https://web.archive.org/web/*/https://www.apnews.com/18fe9c0f0a124d55a91156e8c1865ab6))
 
 ----
 

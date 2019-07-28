@@ -3,6 +3,7 @@
   * 2019: 
       [July](./tyka-nelson-2019-07.md) (1) | 
   * 2018: 
+      [July](./tyka-nelson-2018-07.md) (1) | 
       [May](./tyka-nelson-2018-05.md) (1) | 
       [April](./tyka-nelson-2018-04.md) (1) | 
   * 2017: 

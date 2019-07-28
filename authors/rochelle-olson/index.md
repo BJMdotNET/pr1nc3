@@ -4,7 +4,7 @@
 
 ----
 
- - [**"Special administrator: Not all law firms seeking $1.2 million in payment benefited Prince estate -- Special administrator's filing says that some assets squandered by legal teams."**](http://www.startribune.com/special-administrator-not-all-law-firms-seeking-1-2-million-in-payment-benefitted-prince-estate/410134635/) by Rochelle Olson in [Minneapolis Star Tribune](http://www.startribune.com/) on 9 January 2017 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/special-administrator-not-all-law-firms-seeking-1-2-million-in-payment-benefitted-prince-estate/410134635/))
+ - [**"Special administrator: Not all law firms seeking $1.2 million in payment benefited Prince estate -- Special administrator's filing says that some assets squandered by legal teams."**](http://www.startribune.com/special-administrator-not-all-law-firms-seeking-1-2-million-in-payment-benefitted-prince-estate/410134635/) by Rochelle Olson in [Minneapolis Star Tribune](http://www.startribune.com/) on 9 January 2017 about [Prince Estate](https://bjmdotnet.github.io/pr1nc3/topics/prince-estate/) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/special-administrator-not-all-law-firms-seeking-1-2-million-in-payment-benefitted-prince-estate/410134635/))
 
 ----
 

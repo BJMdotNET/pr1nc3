@@ -1,22 +1,17 @@
 # The Prince Estate
 
- - [**"New Single From Prince Released Off His Originals Album (Listen) -- The basic tracking for “Holly Rock” took place at Sunset Sound studios in Los Angeles at the end of April 1985"**](https://bassmagazine.com/artists/new-single-from-prince-released-off-his-originals-album) in [Bass Magazine](https://bassmagazine.com/) on 25 July 2019 about [Electric Light Studios](https://bjmdotnet.github.io/pr1nc3/topics/electric-light-studios/), [Holly Rock (Song)](https://bjmdotnet.github.io/pr1nc3/topics/song/holly-rock/), [Krush Groove](https://bjmdotnet.github.io/pr1nc3/topics/krush-groove/), [Originals (Album)](https://bjmdotnet.github.io/pr1nc3/topics/album/originals/), [Sheila E.](https://bjmdotnet.github.io/pr1nc3/topics/sheila-e/), [Sunset Sound (Place)](https://bjmdotnet.github.io/pr1nc3/topics/place/sunset-sound/), [The Prince Estate](https://bjmdotnet.github.io/pr1nc3/topics/the-prince-estate/) ([mirror](https://web.archive.org/web/*/https://bassmagazine.com/artists/new-single-from-prince-released-off-his-originals-album))
-
-----
-
- - [**"Prince’s Unearthed ‘Originals’: Collaborators Look Back on the Hits He Passed Along -- As demos of future classics like “Manic Monday” and Nothing Compares 2 U” finally see official release, Apollonia, the Bangles’ Susanna Hoffs, and others recall the artist’s “otherworldly” songwriting talents"**](https://www.rollingstone.com/music/music-features/prince-originals-interview-842940/) by Kory Grow in [Rolling Stone](https://www.rollingstone.com/) on 24 June 2019 about [Apollonia 6](https://bjmdotnet.github.io/pr1nc3/topics/apollonia-6/), [Apollonia Kotero](https://bjmdotnet.github.io/pr1nc3/topics/apollonia-kotero/), [Bangles](https://bjmdotnet.github.io/pr1nc3/topics/bangles/), [Jill Jones](https://bjmdotnet.github.io/pr1nc3/topics/jill-jones/), [Kenny Rogers](https://bjmdotnet.github.io/pr1nc3/topics/kenny-rogers/), [Manic Monday (Song)](https://bjmdotnet.github.io/pr1nc3/topics/song/manic-monday/), [Martika](https://bjmdotnet.github.io/pr1nc3/topics/martika/), [Mazarati](https://bjmdotnet.github.io/pr1nc3/topics/mazarati/), [Nasty Girl (Song)](https://bjmdotnet.github.io/pr1nc3/topics/song/nasty-girl/), [Nothing Compares 2 U (Song)](https://bjmdotnet.github.io/pr1nc3/topics/song/nothing-compares-2-u/), [Originals (Album)](https://bjmdotnet.github.io/pr1nc3/topics/album/originals/), [Peggy McCreary](https://bjmdotnet.github.io/pr1nc3/topics/peggy-mccreary/), [Sex Shooter (Song)](https://bjmdotnet.github.io/pr1nc3/topics/song/sex-shooter/), [Sheila E.](https://bjmdotnet.github.io/pr1nc3/topics/sheila-e/), [Sunset Sound (Place)](https://bjmdotnet.github.io/pr1nc3/topics/place/sunset-sound/), [Susan Rogers](https://bjmdotnet.github.io/pr1nc3/topics/susan-rogers/), [Susanna Hoffs](https://bjmdotnet.github.io/pr1nc3/topics/susanna-hoffs/), [Susannah Melvoin](https://bjmdotnet.github.io/pr1nc3/topics/susannah-melvoin/), [The Family](https://bjmdotnet.github.io/pr1nc3/topics/the-family/), [The Prince Estate](https://bjmdotnet.github.io/pr1nc3/topics/the-prince-estate/), [The Time](https://bjmdotnet.github.io/pr1nc3/topics/the-time/), [Troy Carter](https://bjmdotnet.github.io/pr1nc3/topics/troy-carter/), [Vanity 6](https://bjmdotnet.github.io/pr1nc3/topics/vanity-6/) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/prince-originals-interview-842940/))
-
-----
-
- - [**"Prince estate tells Donald Trump to stop playing ‘Purple Rain’ at campaign rallies"**](https://www.apnews.com/c4bbf717114ff1f40a142ae260f5afd1) in [Associated Press News](https://www.apnews.com/) on 13 October 2018 about [Let’s Go Crazy (Song)](https://bjmdotnet.github.io/pr1nc3/topics/song/let-s-go-crazy/), [Omarr Baker](https://bjmdotnet.github.io/pr1nc3/topics/omarr-baker/), [The Prince Estate](https://bjmdotnet.github.io/pr1nc3/topics/the-prince-estate/), [White House (Place)](https://bjmdotnet.github.io/pr1nc3/topics/place/white-house/), [YouTube](https://bjmdotnet.github.io/pr1nc3/topics/youtube/) ([mirror](https://web.archive.org/web/*/https://www.apnews.com/c4bbf717114ff1f40a142ae260f5afd1))
-
-----
-
- - [**"Tax deadline looms for Prince estate; government to get half"**](https://www.apnews.com/79450a727b23422e94e3ded9a5f9fcff) in [Associated Press News](https://www.apnews.com/) on 17 January 2017 about [Robert Strauss](https://bjmdotnet.github.io/pr1nc3/topics/robert-strauss/), [The Prince Estate](https://bjmdotnet.github.io/pr1nc3/topics/the-prince-estate/) ([mirror](https://web.archive.org/web/*/https://www.apnews.com/79450a727b23422e94e3ded9a5f9fcff))
-
-----
-
- - [**"Prince estate case judge seals documents from would-be heirs"**](https://apnews.com/7e844fbac2e1494aba98260e58389710) in [Associated Press News](https://www.apnews.com/) on 21 June 2016 about [Bremer Trust](https://bjmdotnet.github.io/pr1nc3/topics/bremer-trust/), [Carver County](https://bjmdotnet.github.io/pr1nc3/topics/carver-county/), [Kevin Eide](https://bjmdotnet.github.io/pr1nc3/topics/kevin-eide/), [The Prince Estate](https://bjmdotnet.github.io/pr1nc3/topics/the-prince-estate/) ([mirror](https://web.archive.org/web/*/https://apnews.com/7e844fbac2e1494aba98260e58389710))
+  * 2019: 
+      [July](./the-prince-estate-2019-07.md) (2) | 
+      [June](./the-prince-estate-2019-06.md) (1) | 
+      [April](./the-prince-estate-2019-04.md) (2) | 
+  * 2018: 
+      [October](./the-prince-estate-2018-10.md) (1) | 
+      [July](./the-prince-estate-2018-07.md) (1) | 
+      [June](./the-prince-estate-2018-06.md) (2) | 
+  * 2017: 
+      [January](./the-prince-estate-2017-01.md) (1) | 
+  * 2016: 
+      [June](./the-prince-estate-2016-06.md) (1) | 
 
 ----
 

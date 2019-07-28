@@ -4,7 +4,7 @@
 
 ----
 
- - [**"PRINCE ESTATE AWARDED $7 MILLION In Bootleg Music Lawsuit"**](https://www.tmz.com/2019/07/19/prince-estate-awarded-7-million-bootleg-music-lawsuit-record-label/) in [TMZ](https://www.tmz.com/) on 19 July 2019 about [bootleg](https://bjmdotnet.github.io/pr1nc3/topics/bootleg/), [Eye Records](https://bjmdotnet.github.io/pr1nc3/topics/eye-records/) ([mirror](https://web.archive.org/web/*/https://www.tmz.com/2019/07/19/prince-estate-awarded-7-million-bootleg-music-lawsuit-record-label/))
+ - [**"PRINCE ESTATE AWARDED $7 MILLION In Bootleg Music Lawsuit"**](https://www.tmz.com/2019/07/19/prince-estate-awarded-7-million-bootleg-music-lawsuit-record-label/) in [TMZ](https://www.tmz.com/) on 19 July 2019 about [bootleg](https://bjmdotnet.github.io/pr1nc3/topics/bootleg/), [Eye Records](https://bjmdotnet.github.io/pr1nc3/topics/eye-records/), [Prince Estate](https://bjmdotnet.github.io/pr1nc3/topics/prince-estate/) ([mirror](https://web.archive.org/web/*/https://www.tmz.com/2019/07/19/prince-estate-awarded-7-million-bootleg-music-lawsuit-record-label/))
 
 ----
 

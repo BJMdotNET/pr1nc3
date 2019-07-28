@@ -16,7 +16,7 @@
 
 ----
 
- - [**"Foundation of Prince’s second wife to honor him at gala"**](https://www.apnews.com/16e91a0add574df1b24e5df54dfbc087) in [Associated Press News](https://www.apnews.com/) on 1 March 2019 about [Apollonia Kotero](https://bjmdotnet.github.io/pr1nc3/topics/apollonia-kotero/), [Chaka Khan](https://bjmdotnet.github.io/pr1nc3/topics/chaka-khan/), [In a Perfect World](https://bjmdotnet.github.io/pr1nc3/topics/in-a-perfect-world/), [Manuela Testolini](https://bjmdotnet.github.io/pr1nc3/topics/manuela-testolini/) ([mirror](https://web.archive.org/web/*/https://www.apnews.com/16e91a0add574df1b24e5df54dfbc087))
+ - [**"Foundation of Prince’s second wife to honor him at gala"**](https://www.apnews.com/16e91a0add574df1b24e5df54dfbc087) by Leanne Italie (Associated Press) in [Associated Press News](https://www.apnews.com/) on 1 March 2019 about [Apollonia Kotero](https://bjmdotnet.github.io/pr1nc3/topics/apollonia-kotero/), [Chaka Khan](https://bjmdotnet.github.io/pr1nc3/topics/chaka-khan/), [In a Perfect World](https://bjmdotnet.github.io/pr1nc3/topics/in-a-perfect-world/), [Manuela Testolini](https://bjmdotnet.github.io/pr1nc3/topics/manuela-testolini/) ([mirror](https://web.archive.org/web/*/https://www.apnews.com/16e91a0add574df1b24e5df54dfbc087))
 
 ----
 
@@ -24,7 +24,7 @@
 
 ----
 
- - [**"Apollonia: Vanity was and ‘inspiration’"**](https://www.apnews.com/849a2025be574b07b857e30d16295024) in [Associated Press News](https://www.apnews.com/) on 18 February 2016 about [Apollonia 6](https://bjmdotnet.github.io/pr1nc3/topics/apollonia-6/), [Apollonia Kotero](https://bjmdotnet.github.io/pr1nc3/topics/apollonia-kotero/), [Denise Matthews](https://bjmdotnet.github.io/pr1nc3/topics/denise-matthews/), [Purple Rain (Movie)](https://bjmdotnet.github.io/pr1nc3/topics/movie/purple-rain/), [Sex Shooter (Song)](https://bjmdotnet.github.io/pr1nc3/topics/song/sex-shooter/), [Vanity](https://bjmdotnet.github.io/pr1nc3/topics/vanity/), [Vanity 6](https://bjmdotnet.github.io/pr1nc3/topics/vanity-6/) ([mirror](https://web.archive.org/web/*/https://www.apnews.com/849a2025be574b07b857e30d16295024))
+ - [**"Apollonia: Vanity was and ‘inspiration’"**](https://www.apnews.com/849a2025be574b07b857e30d16295024) by Jesse J. Holland (Associated Press) in [Associated Press News](https://www.apnews.com/) on 18 February 2016 about [Apollonia 6](https://bjmdotnet.github.io/pr1nc3/topics/apollonia-6/), [Apollonia Kotero](https://bjmdotnet.github.io/pr1nc3/topics/apollonia-kotero/), [Denise Matthews](https://bjmdotnet.github.io/pr1nc3/topics/denise-matthews/), [Purple Rain (Movie)](https://bjmdotnet.github.io/pr1nc3/topics/movie/purple-rain/), [Sex Shooter (Song)](https://bjmdotnet.github.io/pr1nc3/topics/song/sex-shooter/), [Vanity](https://bjmdotnet.github.io/pr1nc3/topics/vanity/), [Vanity 6](https://bjmdotnet.github.io/pr1nc3/topics/vanity-6/) ([mirror](https://web.archive.org/web/*/https://www.apnews.com/849a2025be574b07b857e30d16295024))
 
 ----
 

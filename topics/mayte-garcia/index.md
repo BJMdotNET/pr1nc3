@@ -1,6 +1,7 @@
 # Mayte Garcia
 
   * 2018: 
+      [July](./mayte-garcia-2018-07.md) (1) | 
       [April](./mayte-garcia-2018-04.md) (1) | 
   * 2017: 
       [November](./mayte-garcia-2017-11.md) (1) | 
