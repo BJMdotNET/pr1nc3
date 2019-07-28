@@ -8,6 +8,10 @@
 
 ----
 
+ - [**"The Latest: Doctor said Prince ‘doesn’t look really well’"**](https://www.apnews.com/acdea18b521b4b7d886de7b06c2d302a) in [Associated Press News](https://www.apnews.com/) on 20 April 2018 about [Carver County](https://bjmdotnet.github.io/pr1nc3/topics/carver-county/), [fentanyl](https://bjmdotnet.github.io/pr1nc3/topics/fentanyl/), [Kirk Johnson](https://bjmdotnet.github.io/pr1nc3/topics/kirk-johnson/), [Mark Metz](https://bjmdotnet.github.io/pr1nc3/topics/mark-metz/), [Meron Bekure](https://bjmdotnet.github.io/pr1nc3/topics/meron-bekure/), [Michael Todd Schulenberg](https://bjmdotnet.github.io/pr1nc3/topics/michael-todd-schulenberg/), [oxycodone](https://bjmdotnet.github.io/pr1nc3/topics/oxycodone/), [Vicodin](https://bjmdotnet.github.io/pr1nc3/topics/vicodin/) ([mirror](https://web.archive.org/web/*/https://www.apnews.com/acdea18b521b4b7d886de7b06c2d302a))
+
+----
+
  - [**"A timeline of Prince's final days"**](http://www.startribune.com/a-timeline-of-prince-s-final-days/480321973/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 April 2018 about [Dakota (Place)](https://bjmdotnet.github.io/pr1nc3/topics/place/dakota/), [fentanyl](https://bjmdotnet.github.io/pr1nc3/topics/fentanyl/), [Kirk Johnson](https://bjmdotnet.github.io/pr1nc3/topics/kirk-johnson/) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/a-timeline-of-prince-s-final-days/480321973/))
 
 ----

@@ -8,4 +8,16 @@
 
 ----
 
+ - [**"Prince estate tells Donald Trump to stop playing ‘Purple Rain’ at campaign rallies"**](https://www.apnews.com/c4bbf717114ff1f40a142ae260f5afd1) in [Associated Press News](https://www.apnews.com/) on 13 October 2018 about [Let’s Go Crazy (Song)](https://bjmdotnet.github.io/pr1nc3/topics/song/let-s-go-crazy/), [Omarr Baker](https://bjmdotnet.github.io/pr1nc3/topics/omarr-baker/), [The Prince Estate](https://bjmdotnet.github.io/pr1nc3/topics/the-prince-estate/), [White House (Place)](https://bjmdotnet.github.io/pr1nc3/topics/place/white-house/), [YouTube](https://bjmdotnet.github.io/pr1nc3/topics/youtube/) ([mirror](https://web.archive.org/web/*/https://www.apnews.com/c4bbf717114ff1f40a142ae260f5afd1))
+
+----
+
+ - [**"Tax deadline looms for Prince estate; government to get half"**](https://www.apnews.com/79450a727b23422e94e3ded9a5f9fcff) in [Associated Press News](https://www.apnews.com/) on 17 January 2017 about [Robert Strauss](https://bjmdotnet.github.io/pr1nc3/topics/robert-strauss/), [The Prince Estate](https://bjmdotnet.github.io/pr1nc3/topics/the-prince-estate/) ([mirror](https://web.archive.org/web/*/https://www.apnews.com/79450a727b23422e94e3ded9a5f9fcff))
+
+----
+
+ - [**"Prince estate case judge seals documents from would-be heirs"**](https://apnews.com/7e844fbac2e1494aba98260e58389710) in [Associated Press News](https://www.apnews.com/) on 21 June 2016 about [Bremer Trust](https://bjmdotnet.github.io/pr1nc3/topics/bremer-trust/), [Carver County](https://bjmdotnet.github.io/pr1nc3/topics/carver-county/), [Kevin Eide](https://bjmdotnet.github.io/pr1nc3/topics/kevin-eide/), [The Prince Estate](https://bjmdotnet.github.io/pr1nc3/topics/the-prince-estate/) ([mirror](https://web.archive.org/web/*/https://apnews.com/7e844fbac2e1494aba98260e58389710))
+
+----
+
 [Home](../)

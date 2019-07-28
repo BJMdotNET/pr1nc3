@@ -1,5 +1,9 @@
 # Associated Press News: January 2017
 
+ - [**"Tax deadline looms for Prince estate; government to get half"**](https://www.apnews.com/79450a727b23422e94e3ded9a5f9fcff) in [Associated Press News](https://www.apnews.com/) on 17 January 2017 about [Robert Strauss](https://bjmdotnet.github.io/pr1nc3/topics/robert-strauss/), [The Prince Estate](https://bjmdotnet.github.io/pr1nc3/topics/the-prince-estate/) ([mirror](https://web.archive.org/web/*/https://www.apnews.com/79450a727b23422e94e3ded9a5f9fcff))
+
+----
+
  - [**"Divorce file: Prince, 2nd wife lived luxurious lifestyle"**](https://apnews.com/d52610515904420ca116e820411aa344) in [Associated Press News](https://www.apnews.com/) on 13 January 2017 about [Manuela Testolini](https://bjmdotnet.github.io/pr1nc3/topics/manuela-testolini/), [Mayte](https://bjmdotnet.github.io/pr1nc3/topics/mayte/), [Mayte Garcia](https://bjmdotnet.github.io/pr1nc3/topics/mayte-garcia/) ([mirror](https://web.archive.org/web/*/https://apnews.com/d52610515904420ca116e820411aa344))
 
 ----

@@ -12,6 +12,14 @@
 
 ----
 
+ - [**"Court filings suggest Prince’s estate is worth $200 million"**](https://www.apnews.com/9d1e0cc17bf64d46845040a1e6ce0c75) in [Associated Press News](https://www.apnews.com/) on 30 November 2016 about [Bremer Trust](https://bjmdotnet.github.io/pr1nc3/topics/bremer-trust/) ([mirror](https://web.archive.org/web/*/https://www.apnews.com/9d1e0cc17bf64d46845040a1e6ce0c75))
+
+----
+
+ - [**"Correction: Prince-Estate story"**](https://apnews.com/1ec7cdd50cfb4cfe849755ee17f32aba) in [Associated Press News](https://www.apnews.com/) on 3 October 2016 about [Bremer Trust](https://bjmdotnet.github.io/pr1nc3/topics/bremer-trust/), [Carver County](https://bjmdotnet.github.io/pr1nc3/topics/carver-county/), [John L. Nelson](https://bjmdotnet.github.io/pr1nc3/topics/john-l-nelson/), [John Nelson](https://bjmdotnet.github.io/pr1nc3/topics/john-nelson/), [Kevin Eide](https://bjmdotnet.github.io/pr1nc3/topics/kevin-eide/), [Norrine Nelson](https://bjmdotnet.github.io/pr1nc3/topics/norrine-nelson/), [Robert Strauss](https://bjmdotnet.github.io/pr1nc3/topics/robert-strauss/), [Sharon Nelson](https://bjmdotnet.github.io/pr1nc3/topics/sharon-nelson/), [Tyka Nelson](https://bjmdotnet.github.io/pr1nc3/topics/tyka-nelson/) ([mirror](https://web.archive.org/web/*/https://apnews.com/1ec7cdd50cfb4cfe849755ee17f32aba))
+
+----
+
  - [**"Still no will, but work to settle Prince estate forges ahead"**](https://apnews.com/e2669a78b7dd4d8fb5c6e743d4acc29d) in [Associated Press News](https://www.apnews.com/) on 25 September 2016 about [Bremer Trust](https://bjmdotnet.github.io/pr1nc3/topics/bremer-trust/), [Chaka Khan](https://bjmdotnet.github.io/pr1nc3/topics/chaka-khan/), [Charles Koppelman](https://bjmdotnet.github.io/pr1nc3/topics/charles-koppelman/), [Christina Aguilera](https://bjmdotnet.github.io/pr1nc3/topics/christina-aguilera/), [Graceland](https://bjmdotnet.github.io/pr1nc3/topics/graceland/), [Judith Hill](https://bjmdotnet.github.io/pr1nc3/topics/judith-hill/), [Liv Warfield](https://bjmdotnet.github.io/pr1nc3/topics/liv-warfield/), [Morris Day & The Time](https://bjmdotnet.github.io/pr1nc3/topics/morris-day-the-time/), [New Power Generation](https://bjmdotnet.github.io/pr1nc3/topics/new-power-generation/), [Stevie Wonder](https://bjmdotnet.github.io/pr1nc3/topics/stevie-wonder/), [The Time](https://bjmdotnet.github.io/pr1nc3/topics/the-time/), [Tyka Nelson](https://bjmdotnet.github.io/pr1nc3/topics/tyka-nelson/), [Xcel Energy Center (Place)](https://bjmdotnet.github.io/pr1nc3/topics/place/xcel-energy-center/) ([mirror](https://web.archive.org/web/*/https://apnews.com/e2669a78b7dd4d8fb5c6e743d4acc29d))
 
 ----
@@ -21,6 +29,10 @@
 ----
 
  - [**"Minnesota judge to hold 2nd hearing in Prince estate case"**](https://apnews.com/a82cb099c3514ab59577e03533ea5898) in [Associated Press News](https://www.apnews.com/) on 26 June 2016 about [Bremer Trust](https://bjmdotnet.github.io/pr1nc3/topics/bremer-trust/), [Tyka Nelson](https://bjmdotnet.github.io/pr1nc3/topics/tyka-nelson/) ([mirror](https://web.archive.org/web/*/https://apnews.com/a82cb099c3514ab59577e03533ea5898))
+
+----
+
+ - [**"Prince estate case judge seals documents from would-be heirs"**](https://apnews.com/7e844fbac2e1494aba98260e58389710) in [Associated Press News](https://www.apnews.com/) on 21 June 2016 about [Bremer Trust](https://bjmdotnet.github.io/pr1nc3/topics/bremer-trust/), [Carver County](https://bjmdotnet.github.io/pr1nc3/topics/carver-county/), [Kevin Eide](https://bjmdotnet.github.io/pr1nc3/topics/kevin-eide/), [The Prince Estate](https://bjmdotnet.github.io/pr1nc3/topics/the-prince-estate/) ([mirror](https://web.archive.org/web/*/https://apnews.com/7e844fbac2e1494aba98260e58389710))
 
 ----
 

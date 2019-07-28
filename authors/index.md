@@ -22,7 +22,7 @@
      * [Nicole Evatt (Associated Press)](./associated-press/nicole-evatt/) (1)
      * [Pablo Gorondi (Associated Press)](./associated-press/pablo-gorondi/) (3)
      * [Ryan Nakashima (Associated Press)](./associated-press/ryan-nakashima/) (1)
-     * [Steve Karnowski (Associated Press)](./associated-press/steve-karnowski/) (11)
+     * [Steve Karnowski (Associated Press)](./associated-press/steve-karnowski/) (12)
 
 
 ----

@@ -1,0 +1,7 @@
+# The Washington Times
+
+
+
+----
+
+[Home](../)

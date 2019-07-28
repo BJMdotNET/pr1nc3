@@ -1,6 +1,18 @@
 # Omarr Baker
 
+ - [**"Prince estate tells Donald Trump to stop playing ‘Purple Rain’ at campaign rallies"**](https://www.apnews.com/c4bbf717114ff1f40a142ae260f5afd1) in [Associated Press News](https://www.apnews.com/) on 13 October 2018 about [Let’s Go Crazy (Song)](https://bjmdotnet.github.io/pr1nc3/topics/song/let-s-go-crazy/), [Omarr Baker](https://bjmdotnet.github.io/pr1nc3/topics/omarr-baker/), [The Prince Estate](https://bjmdotnet.github.io/pr1nc3/topics/the-prince-estate/), [White House (Place)](https://bjmdotnet.github.io/pr1nc3/topics/place/white-house/), [YouTube](https://bjmdotnet.github.io/pr1nc3/topics/youtube/) ([mirror](https://web.archive.org/web/*/https://www.apnews.com/c4bbf717114ff1f40a142ae260f5afd1))
+
+----
+
+ - [**"Prince estate to Trump: Stop using music at rallies"**](https://www.apnews.com/af0a5a4fc34d48ffb9f29da4c5ef9771) in [Associated Press News](https://www.apnews.com/) on 12 October 2018 about [Omarr Baker](https://bjmdotnet.github.io/pr1nc3/topics/omarr-baker/), [White House (Place)](https://bjmdotnet.github.io/pr1nc3/topics/place/white-house/) ([mirror](https://web.archive.org/web/*/https://www.apnews.com/af0a5a4fc34d48ffb9f29da4c5ef9771))
+
+----
+
  - [**"It’s Official: Prince’s Estate Manager and Universal Music Group Move to Nullify Recorded-Music Deal"**](https://variety.com/2017/music/news/its-official-princes-estate-manager-and-universal-music-group-move-to-nullify-recorded-music-deal-1202436842/) by Jem Aswad in [Variety](https://variety.com/) on 19 May 2017 about [Alfred Jackson](https://bjmdotnet.github.io/pr1nc3/topics/alfred-jackson/), [Charles Koppelman](https://bjmdotnet.github.io/pr1nc3/topics/charles-koppelman/), [Comerica Bank & Trust](https://bjmdotnet.github.io/pr1nc3/topics/comerica-bank-trust/), [John R. Nelson](https://bjmdotnet.github.io/pr1nc3/topics/john-r-nelson/), [Kevin Eide](https://bjmdotnet.github.io/pr1nc3/topics/kevin-eide/), [Norrine Nelson](https://bjmdotnet.github.io/pr1nc3/topics/norrine-nelson/), [Omarr Baker](https://bjmdotnet.github.io/pr1nc3/topics/omarr-baker/), [Sharon Nelson](https://bjmdotnet.github.io/pr1nc3/topics/sharon-nelson/), [Troy Carter](https://bjmdotnet.github.io/pr1nc3/topics/troy-carter/), [Tyka Nelson](https://bjmdotnet.github.io/pr1nc3/topics/tyka-nelson/), [Universal Music Group](https://bjmdotnet.github.io/pr1nc3/topics/universal-music-group/), [Van Jones](https://bjmdotnet.github.io/pr1nc3/topics/van-jones/), [Warner Bros. Records](https://bjmdotnet.github.io/pr1nc3/topics/warner-bros-records/) ([mirror](https://web.archive.org/web/*/https://variety.com/2017/music/news/its-official-princes-estate-manager-and-universal-music-group-move-to-nullify-recorded-music-deal-1202436842/))
+
+----
+
+ - [**"Judge confirms Prince’s 6 siblings as heirs to his estate"**](https://www.apnews.com/19eec2a40a864efcb3eae84206dfd5c9) in [Associated Press News](https://www.apnews.com/) on 19 May 2017 about [Alfred Jackson](https://bjmdotnet.github.io/pr1nc3/topics/alfred-jackson/), [Carver County](https://bjmdotnet.github.io/pr1nc3/topics/carver-county/), [fentanyl](https://bjmdotnet.github.io/pr1nc3/topics/fentanyl/), [John R. Nelson](https://bjmdotnet.github.io/pr1nc3/topics/john-r-nelson/), [Kevin Eide](https://bjmdotnet.github.io/pr1nc3/topics/kevin-eide/), [Norrine Nelson](https://bjmdotnet.github.io/pr1nc3/topics/norrine-nelson/), [Omarr Baker](https://bjmdotnet.github.io/pr1nc3/topics/omarr-baker/), [Sharon Nelson](https://bjmdotnet.github.io/pr1nc3/topics/sharon-nelson/), [Tyka Nelson](https://bjmdotnet.github.io/pr1nc3/topics/tyka-nelson/) ([mirror](https://web.archive.org/web/*/https://www.apnews.com/19eec2a40a864efcb3eae84206dfd5c9))
 
 ----
 

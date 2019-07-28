@@ -13,6 +13,7 @@
   * [Smithsonian (Place)](./place/smithsonian/) (1)
   * [Sunset Sound (Place)](./place/sunset-sound/) (8)
   * [Uncle Sam’s (Place)](./place/uncle-sam-s/) (2)
+  * [White House (Place)](./place/white-house/) (2)
   * [Xcel Energy Center (Place)](./place/xcel-energy-center/) (5)
 
 ----
