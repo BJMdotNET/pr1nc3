@@ -8,6 +8,10 @@
 
 ----
 
+ - [**"The scholarly Prince: U symposium explores musical icon’s link to Minneapolis"**](https://www.apnews.com/6a20afbf0eeb41c9a728cbaaa1c2af71) by Jon Bream in [Associated Press News](https://www.apnews.com/) on 17 April 2018 about [Joni Mitchell](https://bjmdotnet.github.io/pr1nc3/topics/joni-mitchell/), [Mayte](https://bjmdotnet.github.io/pr1nc3/topics/mayte/), [Mayte Garcia](https://bjmdotnet.github.io/pr1nc3/topics/mayte-garcia/) ([mirror](https://web.archive.org/web/*/https://www.apnews.com/6a20afbf0eeb41c9a728cbaaa1c2af71))
+
+----
+
  - [**"In Minneapolis, Portuguese star Ana Moura offers world premiere of song she wrote with Prince"**](http://www.startribune.com/in-minneapolis-portuguese-star-ana-moura-offers-world-premiere-of-song-she-wrote-with-prince/479234123/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 April 2018 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/in-minneapolis-portuguese-star-ana-moura-offers-world-premiere-of-song-she-wrote-with-prince/479234123/))
 
 ----

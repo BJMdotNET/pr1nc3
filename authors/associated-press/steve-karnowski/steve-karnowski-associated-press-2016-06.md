@@ -4,6 +4,10 @@
 
 ----
 
+ - [**"Minnesota judge to hold 2nd hearing in Prince estate case"**](https://apnews.com/a82cb099c3514ab59577e03533ea5898) by Steve Karnowski (Associated Press) in [Associated Press News](https://www.apnews.com/) on 26 June 2016 about [Bremer Trust](https://bjmdotnet.github.io/pr1nc3/topics/bremer-trust/), [Tyka Nelson](https://bjmdotnet.github.io/pr1nc3/topics/tyka-nelson/) ([mirror](https://web.archive.org/web/*/https://apnews.com/a82cb099c3514ab59577e03533ea5898))
+
+----
+
  - [**"AP Source: DNA test shows Colorado inmate not Prince's son"**](http://www.startribune.com/ap-source-dna-test-shows-colorado-inmate-not-prince-s-son/384065601/) by Steve Karnowski (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 23 June 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/ap-source-dna-test-shows-colorado-inmate-not-prince-s-son/384065601/))
 
 ----

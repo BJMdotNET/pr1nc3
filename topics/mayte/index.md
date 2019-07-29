@@ -3,6 +3,7 @@
   * 2019: 
       [May](./mayte-2019-05.md) (1) | 
   * 2018: 
+      [July](./mayte-2018-07.md) (1) | 
       [April](./mayte-2018-04.md) (1) | 
   * 2017: 
       [November](./mayte-2017-11.md) (1) | 

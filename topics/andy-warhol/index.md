@@ -20,6 +20,10 @@
 
 ----
 
+ - [**"Warhol Foundation Fires First Shot in Legal Battle Over Prince-Themed Artworks -- The Foundation accuses artist Lynn Goldsmith of an attempted "shake down.""**](https://news.artnet.com/art-world/warhol-foundation-strikes-first-photographer-complains-copyright-922025) by Eileen Kinsella in [artnet news](https://news.artnet.com/) on 11 April 2019 about [Andy Warhol](https://bjmdotnet.github.io/pr1nc3/topics/andy-warhol/), [Lynn Goldsmith](https://bjmdotnet.github.io/pr1nc3/topics/lynn-goldsmith/), [Prince Series](https://bjmdotnet.github.io/pr1nc3/topics/prince-series/), [Vanity Fair](https://bjmdotnet.github.io/pr1nc3/topics/vanity-fair/) ([mirror](https://web.archive.org/web/*/https://news.artnet.com/art-world/warhol-foundation-strikes-first-photographer-complains-copyright-922025))
+
+----
+
  - [**"Transformative Use v. Derivative Use:  Will the Outcome of a Recent Lawsuit Test the Limits of Fair Use Doctrine, or Result in a Free-for-all?"**](https://www.asmp.org/legal/transformative-use-v-derivative-use-will-outcome-recent-lawsuit-test-limits-fair-use-doctrine-result-free/) by ASMP, Sammetria Goodson, Thomas Maddrey in [ASMP -- American Society of Media Photographers](https://www.asmp.org/) on 5 September 2017 about [Andy Warhol](https://bjmdotnet.github.io/pr1nc3/topics/andy-warhol/), [Lynn Goldsmith](https://bjmdotnet.github.io/pr1nc3/topics/lynn-goldsmith/), [Prince Series](https://bjmdotnet.github.io/pr1nc3/topics/prince-series/) ([mirror](https://web.archive.org/web/*/https://www.asmp.org/legal/transformative-use-v-derivative-use-will-outcome-recent-lawsuit-test-limits-fair-use-doctrine-result-free/))
 
 ----

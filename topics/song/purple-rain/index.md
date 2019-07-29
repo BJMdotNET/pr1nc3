@@ -1,22 +1,15 @@
 # Purple Rain (Song)
 
- - [**"Prince Never Acted Before 'Purple Rain.' Then He Became a Household Name -- The movie and album would come to help define the 1980s and catapult the performer to global fame."**](https://www.biography.com/news/prince-purple-rain-album-movie) by Colin Bertram in [Biography](https://www.biography.com/) on 25 July 2019 about [Academy Award](https://bjmdotnet.github.io/pr1nc3/topics/academy-award/), [Alan Light](https://bjmdotnet.github.io/pr1nc3/topics/alan-light/), [Albert Magnoli](https://bjmdotnet.github.io/pr1nc3/topics/albert-magnoli/), [Apollonia Kotero](https://bjmdotnet.github.io/pr1nc3/topics/apollonia-kotero/), [First Avenue (Place)](https://bjmdotnet.github.io/pr1nc3/topics/place/first-avenue/), [I Would Die 4 U (Song)](https://bjmdotnet.github.io/pr1nc3/topics/song/i-would-die-4-u/), [Let’s Go Crazy (Song)](https://bjmdotnet.github.io/pr1nc3/topics/song/let-s-go-crazy/), [Morris Day](https://bjmdotnet.github.io/pr1nc3/topics/morris-day/), [Purple Rain (Album)](https://bjmdotnet.github.io/pr1nc3/topics/album/purple-rain/), [Purple Rain (Movie)](https://bjmdotnet.github.io/pr1nc3/topics/movie/purple-rain/), [Purple Rain (Song)](https://bjmdotnet.github.io/pr1nc3/topics/song/purple-rain/), [The Revolution](https://bjmdotnet.github.io/pr1nc3/topics/the-revolution/), [The Time](https://bjmdotnet.github.io/pr1nc3/topics/the-time/), [Vanity](https://bjmdotnet.github.io/pr1nc3/topics/vanity/), [When Doves Cry (Song)](https://bjmdotnet.github.io/pr1nc3/topics/song/when-doves-cry/) ([mirror](https://web.archive.org/web/*/https://www.biography.com/news/prince-purple-rain-album-movie))
-
-----
-
- - [**"Prince’s new basement tape: Just him singing, playing piano"**](https://apnews.com/e0a9e78a662c40d3adee133110bc8489) by Jeff Baenen (Associated Press) in [Associated Press News](https://www.apnews.com/) on 18 September 2018 about [17 Days (Song)](https://bjmdotnet.github.io/pr1nc3/topics/song/17-days/), [Cold Coffee & Cocaine (Song)](https://bjmdotnet.github.io/pr1nc3/topics/song/cold-coffee-cocaine/), [fentanyl](https://bjmdotnet.github.io/pr1nc3/topics/fentanyl/), [Joni Mitchell](https://bjmdotnet.github.io/pr1nc3/topics/joni-mitchell/), [Lisa Coleman](https://bjmdotnet.github.io/pr1nc3/topics/lisa-coleman/), [Michael Howe](https://bjmdotnet.github.io/pr1nc3/topics/michael-howe/), [NPG Records](https://bjmdotnet.github.io/pr1nc3/topics/npg-records/), [Piano and a Microphone 1983 (Album)](https://bjmdotnet.github.io/pr1nc3/topics/album/piano-and-a-microphone-1983/), [Purple Rain (Song)](https://bjmdotnet.github.io/pr1nc3/topics/song/purple-rain/), [Troy Carter](https://bjmdotnet.github.io/pr1nc3/topics/troy-carter/), [Warner Bros. Records](https://bjmdotnet.github.io/pr1nc3/topics/warner-bros-records/), [Why The Butterflies (Song)](https://bjmdotnet.github.io/pr1nc3/topics/song/why-the-butterflies/) ([mirror](https://web.archive.org/web/*/https://apnews.com/e0a9e78a662c40d3adee133110bc8489))
-
-----
-
- - [**"'It's Prince, thinking aloud on the piano'"**](https://www.bbc.com/news/entertainment-arts-45510532) in [BBC News](https://www.bbc.com/news/) on 15 September 2018 about [Cold Coffee & Cocaine (Song)](https://bjmdotnet.github.io/pr1nc3/topics/song/cold-coffee-cocaine/), [Jamie Starr](https://bjmdotnet.github.io/pr1nc3/topics/jamie-starr/), [Joni Mitchell](https://bjmdotnet.github.io/pr1nc3/topics/joni-mitchell/), [Lisa Coleman](https://bjmdotnet.github.io/pr1nc3/topics/lisa-coleman/), [Michael Howe](https://bjmdotnet.github.io/pr1nc3/topics/michael-howe/), [Piano and a Microphone 1983 (Album)](https://bjmdotnet.github.io/pr1nc3/topics/album/piano-and-a-microphone-1983/), [Purple Rain (Song)](https://bjmdotnet.github.io/pr1nc3/topics/song/purple-rain/), [The Revolution](https://bjmdotnet.github.io/pr1nc3/topics/the-revolution/), [Wednesday (Song)](https://bjmdotnet.github.io/pr1nc3/topics/song/wednesday/), [Why The Butterflies (Song)](https://bjmdotnet.github.io/pr1nc3/topics/song/why-the-butterflies/) ([mirror](https://web.archive.org/web/*/https://www.bbc.com/news/entertainment-arts-45510532))
-
-----
-
- - [**"Dan Bova: What a 9-year-old thinks of 'Purple Rain'"**](https://usatoday.com/story/life/2016/04/27/dan-bovas-prince-tribute/83599176/) in [USA Today](https://usatoday.com/) on 28 April 2016 about [Baby I’m a Star (Song)](https://bjmdotnet.github.io/pr1nc3/topics/song/baby-i-m-a-star/), [Computer Blue (Song)](https://bjmdotnet.github.io/pr1nc3/topics/song/computer-blue/), [Darling Nikki (Song)](https://bjmdotnet.github.io/pr1nc3/topics/song/darling-nikki/), [I Would Die 4 U (Song)](https://bjmdotnet.github.io/pr1nc3/topics/song/i-would-die-4-u/), [Let’s Go Crazy (Song)](https://bjmdotnet.github.io/pr1nc3/topics/song/let-s-go-crazy/), [Purple Rain (Album)](https://bjmdotnet.github.io/pr1nc3/topics/album/purple-rain/), [Purple Rain (Song)](https://bjmdotnet.github.io/pr1nc3/topics/song/purple-rain/), [Take Me with U (Song)](https://bjmdotnet.github.io/pr1nc3/topics/song/take-me-with-u/), [The Beautiful Ones (Song)](https://bjmdotnet.github.io/pr1nc3/topics/song/the-beautiful-ones/), [When Doves Cry (Song)](https://bjmdotnet.github.io/pr1nc3/topics/song/when-doves-cry/) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/2016/04/27/dan-bovas-prince-tribute/83599176/))
-
-----
-
- - [**"Revisit Prince's iconic first 'Purple Rain' performance"**](https://usatoday.com/story/life/entertainthis/2016/04/21/prince-first-performance-purple-rain-video/83346434/) by Maeve McDermott in [USA Today](https://usatoday.com/) on 21 April 2016 about [First Avenue (Place)](https://bjmdotnet.github.io/pr1nc3/topics/place/first-avenue/), [I Would Die 4 U (Book)](https://bjmdotnet.github.io/pr1nc3/topics/book/i-would-die-4-u/), [Purple Rain (Movie)](https://bjmdotnet.github.io/pr1nc3/topics/movie/purple-rain/), [Purple Rain (Song)](https://bjmdotnet.github.io/pr1nc3/topics/song/purple-rain/), [Touré](https://bjmdotnet.github.io/pr1nc3/topics/tour/) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/entertainthis/2016/04/21/prince-first-performance-purple-rain-video/83346434/))
+  * 2019: 
+      [July](./purple-rain-song-2019-07.md) (6) | 
+      [June](./purple-rain-song-2019-06.md) (2) | 
+  * 2018: 
+      [September](./purple-rain-song-2018-09.md) (2) | 
+  * 2017: 
+      [June](./purple-rain-song-2017-06.md) (1) | 
+      [April](./purple-rain-song-2017-04.md) (1) | 
+  * 2016: 
+      [April](./purple-rain-song-2016-04.md) (2) | 
 
 ----
 

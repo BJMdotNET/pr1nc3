@@ -4,7 +4,19 @@
 
 ----
 
+ - [**"Watch: Music Video Released for Prince Single 'Holly Rock' -- Recorded in 1985 in LA, the song features on the Originals album which has been recently released by The Prince Estate."**](https://www.hotpress.com/music/watch-music-video-prince-single-holly-rock-22782924) in [Hot Press](https://www.hotpress.com/) on 26 July 2019 about [Holly Rock (Song)](https://bjmdotnet.github.io/pr1nc3/topics/song/holly-rock/), [Originals (Album)](https://bjmdotnet.github.io/pr1nc3/topics/album/originals/), [Prince Estate](https://bjmdotnet.github.io/pr1nc3/topics/prince-estate/), [Sheila E.](https://bjmdotnet.github.io/pr1nc3/topics/sheila-e/), [The Prince Estate](https://bjmdotnet.github.io/pr1nc3/topics/the-prince-estate/) ([mirror](https://web.archive.org/web/*/https://www.hotpress.com/music/watch-music-video-prince-single-holly-rock-22782924))
+
+----
+
+ - [**"New Single From Prince Released Off His Originals Album (Listen) -- The basic tracking for “Holly Rock” took place at Sunset Sound studios in Los Angeles at the end of April 1985"**](https://bassmagazine.com/artists/new-single-from-prince-released-off-his-originals-album) in [Bass Magazine](https://bassmagazine.com/) on 25 July 2019 about [Electric Light Studios](https://bjmdotnet.github.io/pr1nc3/topics/electric-light-studios/), [Holly Rock (Song)](https://bjmdotnet.github.io/pr1nc3/topics/song/holly-rock/), [Krush Groove](https://bjmdotnet.github.io/pr1nc3/topics/krush-groove/), [Originals (Album)](https://bjmdotnet.github.io/pr1nc3/topics/album/originals/), [Sheila E.](https://bjmdotnet.github.io/pr1nc3/topics/sheila-e/), [Sunset Sound (Place)](https://bjmdotnet.github.io/pr1nc3/topics/place/sunset-sound/), [The Prince Estate](https://bjmdotnet.github.io/pr1nc3/topics/the-prince-estate/) ([mirror](https://web.archive.org/web/*/https://bassmagazine.com/artists/new-single-from-prince-released-off-his-originals-album))
+
+----
+
  - [**"Sheila E. brings the glam to jazz fest"**](https://www.thechronicleherald.ca/living/sheila-e-brings-the-glam-to-jazz-fest-329717/) by Stephen Cooke in [The Chronicle Herald](https://www.thechronicleherald.ca/) on 5 July 2019 about [Sheila E.](https://bjmdotnet.github.io/pr1nc3/topics/sheila-e/) ([mirror](https://web.archive.org/web/*/https://www.thechronicleherald.ca/living/sheila-e-brings-the-glam-to-jazz-fest-329717/))
+
+----
+
+ - [**"The Time’s ‘Ice Cream Castle’ Turns 35 | Anniversary Retrospective -- Happy 35th Anniversary to The Time’s third studio album Ice Cream Castle, originally released July 2, 1984."**](https://www.albumism.com/features/the-time-ice-cream-castle-turns-35-anniversary-retrospective) by Andy Healy in [Albumism](https://www.albumism.com/) on 2 July 2019 about [Apollonia 6](https://bjmdotnet.github.io/pr1nc3/topics/apollonia-6/), [George Clinton](https://bjmdotnet.github.io/pr1nc3/topics/george-clinton/), [Jamie Starr](https://bjmdotnet.github.io/pr1nc3/topics/jamie-starr/), [Jellybean Johnson](https://bjmdotnet.github.io/pr1nc3/topics/jellybean-johnson/), [Jesse Johnson](https://bjmdotnet.github.io/pr1nc3/topics/jesse-johnson/), [Jimmy Jam](https://bjmdotnet.github.io/pr1nc3/topics/jimmy-jam/), [Joni Mitchell](https://bjmdotnet.github.io/pr1nc3/topics/joni-mitchell/), [Mazarati](https://bjmdotnet.github.io/pr1nc3/topics/mazarati/), [Monte Moir](https://bjmdotnet.github.io/pr1nc3/topics/monte-moir/), [Morris Day](https://bjmdotnet.github.io/pr1nc3/topics/morris-day/), [Purple Rain (Album)](https://bjmdotnet.github.io/pr1nc3/topics/album/purple-rain/), [Purple Rain (Movie)](https://bjmdotnet.github.io/pr1nc3/topics/movie/purple-rain/), [Sheila E.](https://bjmdotnet.github.io/pr1nc3/topics/sheila-e/), [Terry Lewis](https://bjmdotnet.github.io/pr1nc3/topics/terry-lewis/), [The Time](https://bjmdotnet.github.io/pr1nc3/topics/the-time/) ([mirror](https://web.archive.org/web/*/https://www.albumism.com/features/the-time-ice-cream-castle-turns-35-anniversary-retrospective))
 
 ----
 

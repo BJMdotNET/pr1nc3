@@ -1,42 +1,22 @@
 # First Avenue (Place)
 
- - [**"Prince Never Acted Before 'Purple Rain.' Then He Became a Household Name -- The movie and album would come to help define the 1980s and catapult the performer to global fame."**](https://www.biography.com/news/prince-purple-rain-album-movie) by Colin Bertram in [Biography](https://www.biography.com/) on 25 July 2019 about [Academy Award](https://bjmdotnet.github.io/pr1nc3/topics/academy-award/), [Alan Light](https://bjmdotnet.github.io/pr1nc3/topics/alan-light/), [Albert Magnoli](https://bjmdotnet.github.io/pr1nc3/topics/albert-magnoli/), [Apollonia Kotero](https://bjmdotnet.github.io/pr1nc3/topics/apollonia-kotero/), [First Avenue (Place)](https://bjmdotnet.github.io/pr1nc3/topics/place/first-avenue/), [I Would Die 4 U (Song)](https://bjmdotnet.github.io/pr1nc3/topics/song/i-would-die-4-u/), [Let’s Go Crazy (Song)](https://bjmdotnet.github.io/pr1nc3/topics/song/let-s-go-crazy/), [Morris Day](https://bjmdotnet.github.io/pr1nc3/topics/morris-day/), [Purple Rain (Album)](https://bjmdotnet.github.io/pr1nc3/topics/album/purple-rain/), [Purple Rain (Movie)](https://bjmdotnet.github.io/pr1nc3/topics/movie/purple-rain/), [Purple Rain (Song)](https://bjmdotnet.github.io/pr1nc3/topics/song/purple-rain/), [The Revolution](https://bjmdotnet.github.io/pr1nc3/topics/the-revolution/), [The Time](https://bjmdotnet.github.io/pr1nc3/topics/the-time/), [Vanity](https://bjmdotnet.github.io/pr1nc3/topics/vanity/), [When Doves Cry (Song)](https://bjmdotnet.github.io/pr1nc3/topics/song/when-doves-cry/) ([mirror](https://web.archive.org/web/*/https://www.biography.com/news/prince-purple-rain-album-movie))
-
-----
-
- - [**"The Family’s Paul Peterson returns with a pair of new solo songs that sound a lot like Prince"**](https://www.twincities.com/2019/07/18/the-familys-paul-peterson-returns-with-a-pair-of-new-solo-songs-that-sound-a-lot-like-prince/) by Ross Raihala in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 18 July 2019 about [Alan Leeds](https://bjmdotnet.github.io/pr1nc3/topics/alan-leeds/), [Eric Leeds](https://bjmdotnet.github.io/pr1nc3/topics/eric-leeds/), [fDeluxe](https://bjmdotnet.github.io/pr1nc3/topics/fdeluxe/), [First Avenue (Place)](https://bjmdotnet.github.io/pr1nc3/topics/place/first-avenue/), [Jellybean Johnson](https://bjmdotnet.github.io/pr1nc3/topics/jellybean-johnson/), [Jerome Benton](https://bjmdotnet.github.io/pr1nc3/topics/jerome-benton/), [Jimmy Jam](https://bjmdotnet.github.io/pr1nc3/topics/jimmy-jam/), [Monte Moir](https://bjmdotnet.github.io/pr1nc3/topics/monte-moir/), [Nothing Compares 2 Prince](https://bjmdotnet.github.io/pr1nc3/topics/nothing-compares-2-prince/), [Nothing Compares 2 U (Song)](https://bjmdotnet.github.io/pr1nc3/topics/song/nothing-compares-2-u/), [Paul Peterson](https://bjmdotnet.github.io/pr1nc3/topics/paul-peterson/), [Purple Rain (Movie)](https://bjmdotnet.github.io/pr1nc3/topics/movie/purple-rain/), [St. Paul and the Minneapolis Funk All-Stars](https://bjmdotnet.github.io/pr1nc3/topics/st-paul-and-the-minneapolis-funk-all-stars/), [Susannah Melvoin](https://bjmdotnet.github.io/pr1nc3/topics/susannah-melvoin/), [Terry Lewis](https://bjmdotnet.github.io/pr1nc3/topics/terry-lewis/), [The Family](https://bjmdotnet.github.io/pr1nc3/topics/the-family/), [The Time](https://bjmdotnet.github.io/pr1nc3/topics/the-time/), [Tyka Nelson](https://bjmdotnet.github.io/pr1nc3/topics/tyka-nelson/), [Wendy Melvoin](https://bjmdotnet.github.io/pr1nc3/topics/wendy-melvoin/) ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2019/07/18/the-familys-paul-peterson-returns-with-a-pair-of-new-solo-songs-that-sound-a-lot-like-prince/))
-
-----
-
- - [**"Nerdy comic-musician Fred Armisen salutes Prince, Grant Hart at First Avenue"**](http://www.startribune.com/nerdy-comic-musician-fred-armisen-salutes-prince-grant-hart-at-first-avenue/510055762/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 17 May 2019 about [First Avenue (Place)](https://bjmdotnet.github.io/pr1nc3/topics/place/first-avenue/) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/nerdy-comic-musician-fred-armisen-salutes-prince-grant-hart-at-first-avenue/510055762/))
-
-----
-
- - [**"10 things you’ll learn about First Avenue in new Minnesota History Center show -- First Avenue is getting the museum treatment. Here are 10 things you’ll learn about Minnesota’s most fabled nightclub."**](http://www.startribune.com/10-things-you-ll-learn-about-first-avenue-in-new-minnesota-history-center-show/509374312/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 3 May 2019 about [David Brewster](https://bjmdotnet.github.io/pr1nc3/topics/david-brewster/), [Erotic City (Song)](https://bjmdotnet.github.io/pr1nc3/topics/song/erotic-city/), [First Avenue (Place)](https://bjmdotnet.github.io/pr1nc3/topics/place/first-avenue/), [Purple Rain (Movie)](https://bjmdotnet.github.io/pr1nc3/topics/movie/purple-rain/), [Sam’s (Place)](https://bjmdotnet.github.io/pr1nc3/topics/place/sam-s/), [Uncle Sam’s (Place)](https://bjmdotnet.github.io/pr1nc3/topics/place/uncle-sam-s/) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/10-things-you-ll-learn-about-first-avenue-in-new-minnesota-history-center-show/509374312/))
-
-----
-
- - [**"Two veteran Minnesota bands earn their First Avenue stars (one a do-over)"**](http://www.startribune.com/two-veteran-minnesota-bands-earn-their-first-avenue-stars-one-a-do-over/509260572/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 30 April 2019 about [First Avenue (Place)](https://bjmdotnet.github.io/pr1nc3/topics/place/first-avenue/), [Lisa Coleman](https://bjmdotnet.github.io/pr1nc3/topics/lisa-coleman/), [Matt Fink](https://bjmdotnet.github.io/pr1nc3/topics/matt-fink/), [Sam’s (Place)](https://bjmdotnet.github.io/pr1nc3/topics/place/sam-s/), [The Revolution](https://bjmdotnet.github.io/pr1nc3/topics/the-revolution/), [Uncle Sam’s (Place)](https://bjmdotnet.github.io/pr1nc3/topics/place/uncle-sam-s/), [Wendy Melvoin](https://bjmdotnet.github.io/pr1nc3/topics/wendy-melvoin/) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/two-veteran-minnesota-bands-earn-their-first-avenue-stars-one-a-do-over/509260572/))
-
-----
-
- - [**"Coming soon from the Prince vault: A new album called ‘Originals’ -- Prince’s estate is announcing the collection of his performances of songs he wrote for others."**](http://www.startribune.com/coming-soon-from-the-prince-vault-a-new-album-called-originals/509009862/) by Chris Riemenschneider, Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 April 2019 about [Apple Music](https://bjmdotnet.github.io/pr1nc3/topics/apple-music/), [First Avenue (Place)](https://bjmdotnet.github.io/pr1nc3/topics/place/first-avenue/), [Martika](https://bjmdotnet.github.io/pr1nc3/topics/martika/), [Netflix](https://bjmdotnet.github.io/pr1nc3/topics/netflix/), [Originals (Album)](https://bjmdotnet.github.io/pr1nc3/topics/album/originals/), [Random House ](https://bjmdotnet.github.io/pr1nc3/topics/random-house/), [Rave In2 the Joy Fantastic (Album)](https://bjmdotnet.github.io/pr1nc3/topics/album/rave-in2-the-joy-fantastic/), [Rave Un2 the Joy Fantastic (Album)](https://bjmdotnet.github.io/pr1nc3/topics/album/rave-un2-the-joy-fantastic/), [Rave Un2 the Year 2000 (Video)](https://bjmdotnet.github.io/pr1nc3/topics/video/rave-un2-the-year-2000/), [The Beautiful Ones (Book)](https://bjmdotnet.github.io/pr1nc3/topics/book/the-beautiful-ones/), [Ultimate Rave (Album)](https://bjmdotnet.github.io/pr1nc3/topics/album/ultimate-rave/) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/coming-soon-from-the-prince-vault-a-new-album-called-originals/509009862/))
-
-----
-
- - [**"David Bourn, projectionist who lit up the skies and put Prince in the spotlight, dies at 77"**](http://www.startribune.com/david-bourn-projectionist-who-lit-up-the-skies-and-put-prince-in-the-spotlight-dies-at-77/508966712/) by Richard Chin in [Minneapolis Star Tribune](http://www.startribune.com/) on 23 April 2019 about [First Avenue (Place)](https://bjmdotnet.github.io/pr1nc3/topics/place/first-avenue/), [Purple Rain (Movie)](https://bjmdotnet.github.io/pr1nc3/topics/movie/purple-rain/) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/david-bourn-projectionist-who-lit-up-the-skies-and-put-prince-in-the-spotlight-dies-at-77/508966712/))
-
-----
-
- - [**"The Prince Estate’s Big Plans: Inside the Upcoming Purple Reign -- The late singer’s estate is currently exploring licensing, future releases and even a hotel – all while trying to consider what Prince would have wanted"**](https://www.rollingstone.com/music/music-features/prince-estate-big-plans-upcoming-purple-reign-698529/) in [Rolling Stone](https://www.rollingstone.com/) on 13 July 2018 about [First Avenue (Place)](https://bjmdotnet.github.io/pr1nc3/topics/place/first-avenue/), [Joni Mitchell](https://bjmdotnet.github.io/pr1nc3/topics/joni-mitchell/), [Michael Howe](https://bjmdotnet.github.io/pr1nc3/topics/michael-howe/), [Nothing Compares 2 U (Song)](https://bjmdotnet.github.io/pr1nc3/topics/song/nothing-compares-2-u/), [Piano and a Microphone 1983 (Album)](https://bjmdotnet.github.io/pr1nc3/topics/album/piano-and-a-microphone-1983/), [Questlove](https://bjmdotnet.github.io/pr1nc3/topics/questlove/), [Susan Rogers](https://bjmdotnet.github.io/pr1nc3/topics/susan-rogers/), [Troy Carter](https://bjmdotnet.github.io/pr1nc3/topics/troy-carter/), [Warner Bros. Records](https://bjmdotnet.github.io/pr1nc3/topics/warner-bros-records/) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/prince-estate-big-plans-upcoming-purple-reign-698529/))
-
-----
-
- - [**"Jesse Johnson soars as guitar hero in power trio marathon at First Avenue"**](http://www.startribune.com/jesse-johnson-soars-as-guitar-hero-in-power-trio-marathon-at-first-avenue/404557246/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 4 December 2016 about [First Avenue (Place)](https://bjmdotnet.github.io/pr1nc3/topics/place/first-avenue/), [Jesse Johnson](https://bjmdotnet.github.io/pr1nc3/topics/jesse-johnson/) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/jesse-johnson-soars-as-guitar-hero-in-power-trio-marathon-at-first-avenue/404557246/))
-
-----
-
- - [**"Revisit Prince's iconic first 'Purple Rain' performance"**](https://usatoday.com/story/life/entertainthis/2016/04/21/prince-first-performance-purple-rain-video/83346434/) by Maeve McDermott in [USA Today](https://usatoday.com/) on 21 April 2016 about [First Avenue (Place)](https://bjmdotnet.github.io/pr1nc3/topics/place/first-avenue/), [I Would Die 4 U (Book)](https://bjmdotnet.github.io/pr1nc3/topics/book/i-would-die-4-u/), [Purple Rain (Movie)](https://bjmdotnet.github.io/pr1nc3/topics/movie/purple-rain/), [Purple Rain (Song)](https://bjmdotnet.github.io/pr1nc3/topics/song/purple-rain/), [Touré](https://bjmdotnet.github.io/pr1nc3/topics/tour/) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/entertainthis/2016/04/21/prince-first-performance-purple-rain-video/83346434/))
+  * 2019: 
+      [July](./first-avenue-place-2019-07.md) (5) | 
+      [June](./first-avenue-place-2019-06.md) (1) | 
+      [May](./first-avenue-place-2019-05.md) (3) | 
+      [April](./first-avenue-place-2019-04.md) (3) | 
+  * 2018: 
+      [July](./first-avenue-place-2018-07.md) (1) | 
+  * 2017: 
+      [April](./first-avenue-place-2017-04.md) (2) | 
+  * 2016: 
+      [December](./first-avenue-place-2016-12.md) (1) | 
+      [June](./first-avenue-place-2016-06.md) (1) | 
+      [April](./first-avenue-place-2016-04.md) (1) | 
+  * 2015: 
+      [April](./first-avenue-place-2015-04.md) (1) | 
+  * 2014: 
+      [July](./first-avenue-place-2014-07.md) (1) | 
 
 ----
 

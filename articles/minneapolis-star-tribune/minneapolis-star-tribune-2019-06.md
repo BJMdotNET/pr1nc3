@@ -1,10 +1,10 @@
 # Minneapolis Star Tribune: June 2019
 
- - [**"Prince's Caribbean estate sells for $10.8 million -- Beachfront home with purple driveway was bought by North Carolina businessman"**](http://www.startribune.com/prince-s-caribbean-estate-sells-for-10-8-million/511572552/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 June 2019 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-caribbean-estate-sells-for-10-8-million/511572552/))
+ - [**"Prince's Caribbean estate sells for $10.8 million -- Beachfront home with purple driveway was bought by North Carolina businessman"**](http://www.startribune.com/prince-s-caribbean-estate-sells-for-10-8-million/511572552/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 June 2019 about [Caribbean](https://bjmdotnet.github.io/pr1nc3/topics/caribbean/) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-caribbean-estate-sells-for-10-8-million/511572552/))
 
 ----
 
- - [**"On a night honoring Prince, Twins fans show they’re delirious once again -- Remember those small crowds at Target Field in April and May? They were a distant memory Friday night."**](http://www.startribune.com/on-a-night-honoring-prince-twins-fans-show-they-re-delirious-once-again/511338901/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 15 June 2019 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/on-a-night-honoring-prince-twins-fans-show-they-re-delirious-once-again/511338901/))
+ - [**"On a night honoring Prince, Twins fans show they’re delirious once again -- Remember those small crowds at Target Field in April and May? They were a distant memory Friday night."**](http://www.startribune.com/on-a-night-honoring-prince-twins-fans-show-they-re-delirious-once-again/511338901/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 15 June 2019 about [Minnesota Twins](https://bjmdotnet.github.io/pr1nc3/topics/minnesota-twins/) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/on-a-night-honoring-prince-twins-fans-show-they-re-delirious-once-again/511338901/))
 
 ----
 
@@ -12,11 +12,11 @@
 
 ----
 
- - [**"New Prince store at MSP airport reels in fandom"**](http://www.startribune.com/new-prince-store-at-msp-airport-reels-in-fandom/511212802/) by Jackie Crosby in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 June 2019 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/new-prince-store-at-msp-airport-reels-in-fandom/511212802/))
+ - [**"New Prince store at MSP airport reels in fandom"**](http://www.startribune.com/new-prince-store-at-msp-airport-reels-in-fandom/511212802/) by Jackie Crosby in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 June 2019 about [Bravado](https://bjmdotnet.github.io/pr1nc3/topics/bravado/), [merchandise](https://bjmdotnet.github.io/pr1nc3/topics/merchandise/) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/new-prince-store-at-msp-airport-reels-in-fandom/511212802/))
 
 ----
 
- - [**"Prince rules collector site Discogs’ ‘100 Most Expensive Records’ list"**](http://www.startribune.com/prince-rules-collector-site-discogs-100-most-expensive-records-list/511122062/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 11 June 2019 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-rules-collector-site-discogs-100-most-expensive-records-list/511122062/))
+ - [**"Prince rules collector site Discogs’ ‘100 Most Expensive Records’ list"**](http://www.startribune.com/prince-rules-collector-site-discogs-100-most-expensive-records-list/511122062/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 11 June 2019 about [bootleg](https://bjmdotnet.github.io/pr1nc3/topics/bootleg/), [The Black Album (Album)](https://bjmdotnet.github.io/pr1nc3/topics/album/the-black-album/), [The Gold Experience (Album)](https://bjmdotnet.github.io/pr1nc3/topics/album/the-gold-experience/) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-rules-collector-site-discogs-100-most-expensive-records-list/511122062/))
 
 ----
 
@@ -40,7 +40,7 @@
 
 ----
 
- - [**"TV picks for June 1-2: Prince, ‘Perpetual Grace LTD,’ ‘The Weekly’"**](http://www.startribune.com/tv-picks-for-june-1-2-prince-perpetual-grace-ltd-the-weekly/510669062/) by Neal Justin in [Minneapolis Star Tribune](http://www.startribune.com/) on 4 June 2019 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/tv-picks-for-june-1-2-prince-perpetual-grace-ltd-the-weekly/510669062/))
+ - [**"TV picks for June 1-2: Prince, ‘Perpetual Grace LTD,’ ‘The Weekly’"**](http://www.startribune.com/tv-picks-for-june-1-2-prince-perpetual-grace-ltd-the-weekly/510669062/) by Neal Justin in [Minneapolis Star Tribune](http://www.startribune.com/) on 4 June 2019 about [Nothing Compares 2 U (Song)](https://bjmdotnet.github.io/pr1nc3/topics/song/nothing-compares-2-u/), [Rave Un2 the Year 2000 (Video)](https://bjmdotnet.github.io/pr1nc3/topics/video/rave-un2-the-year-2000/) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/tv-picks-for-june-1-2-prince-perpetual-grace-ltd-the-weekly/510669062/))
 
 ----
 
