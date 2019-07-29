@@ -4,7 +4,7 @@
 
 ----
 
- - [**"Still no will, but work to settle Prince estate forges ahead"**](http://www.startribune.com/still-no-will-but-work-to-settle-prince-estate-forges-ahead/394729181/) by Steve Karnowski (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 September 2016 about [Prince Estate](https://bjmdotnet.github.io/pr1nc3/topics/prince-estate/) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/still-no-will-but-work-to-settle-prince-estate-forges-ahead/394729181/))
+ - [**"Still no will, but work to settle Prince estate forges ahead"**](http://www.startribune.com/still-no-will-but-work-to-settle-prince-estate-forges-ahead/394729181/) by Steve Karnowski (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 September 2016 about [Prince Estate](../../topics/prince-estate/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/still-no-will-but-work-to-settle-prince-estate-forges-ahead/394729181/))
 
 ----
 
@@ -12,7 +12,7 @@
 
 ----
 
- - [**"Judge sets date for closed hearing in Prince estate case"**](http://www.startribune.com/judge-sets-date-for-closed-hearing-in-prince-estate-case/394446251/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 September 2016 about [Prince Estate](https://bjmdotnet.github.io/pr1nc3/topics/prince-estate/) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/judge-sets-date-for-closed-hearing-in-prince-estate-case/394446251/))
+ - [**"Judge sets date for closed hearing in Prince estate case"**](http://www.startribune.com/judge-sets-date-for-closed-hearing-in-prince-estate-case/394446251/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 September 2016 about [Prince Estate](../../topics/prince-estate/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/judge-sets-date-for-closed-hearing-in-prince-estate-case/394446251/))
 
 ----
 
@@ -20,7 +20,7 @@
 
 ----
 
- - [**"Would-be heirs raise constitutional challenge over Prince estate -- Attorneys say the protocol for these would-be heirs is unconstitutional."**](http://www.startribune.com/constitutional-challenge-raised-in-prince-estate/392918011/) by Dan Browning in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 September 2016 about [Prince Estate](https://bjmdotnet.github.io/pr1nc3/topics/prince-estate/) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/constitutional-challenge-raised-in-prince-estate/392918011/))
+ - [**"Would-be heirs raise constitutional challenge over Prince estate -- Attorneys say the protocol for these would-be heirs is unconstitutional."**](http://www.startribune.com/constitutional-challenge-raised-in-prince-estate/392918011/) by Dan Browning in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 September 2016 about [Prince Estate](../../topics/prince-estate/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/constitutional-challenge-raised-in-prince-estate/392918011/))
 
 ----
 

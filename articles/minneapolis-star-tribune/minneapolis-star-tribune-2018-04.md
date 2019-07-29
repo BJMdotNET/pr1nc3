@@ -1,6 +1,6 @@
 # Minneapolis Star Tribune: April 2018
 
- - [**"Janelle Monáe to tout her new Prince-infused album July 3 at the State"**](http://www.startribune.com/janelle-monae-to-tout-her-new-prince-infused-album-july-3-at-the-state/480567481/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 23 April 2018 about [Janelle Monae](https://bjmdotnet.github.io/pr1nc3/topics/janelle-monae/) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/janelle-monae-to-tout-her-new-prince-infused-album-july-3-at-the-state/480567481/))
+ - [**"Janelle Monáe to tout her new Prince-infused album July 3 at the State"**](http://www.startribune.com/janelle-monae-to-tout-her-new-prince-infused-album-july-3-at-the-state/480567481/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 23 April 2018 about [Janelle Monae](../../topics/janelle-monae/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/janelle-monae-to-tout-her-new-prince-infused-album-july-3-at-the-state/480567481/))
 
 ----
 
@@ -12,11 +12,11 @@
 
 ----
 
- - [**"10 curious things we learned about Prince from the investigations -- He liked Häagen-Dazs ice cream, 5-Hour Energy drinks and MAC beauty products."**](http://www.startribune.com/10-curious-things-we-learned-about-prince-from-the-investigations/480364723/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 April 2018 about [CeeLo Green](https://bjmdotnet.github.io/pr1nc3/topics/ceelo-green/), [Chaka Khan](https://bjmdotnet.github.io/pr1nc3/topics/chaka-khan/), [Esperanza Spalding](https://bjmdotnet.github.io/pr1nc3/topics/esperanza-spalding/), [Janelle Monae](https://bjmdotnet.github.io/pr1nc3/topics/janelle-monae/), [Judith Hill](https://bjmdotnet.github.io/pr1nc3/topics/judith-hill/), [Kirk Johnson](https://bjmdotnet.github.io/pr1nc3/topics/kirk-johnson/), [North Memorial Medical Center (Place)](https://bjmdotnet.github.io/pr1nc3/topics/place/north-memorial-medical-center/), [Peter Vang](https://bjmdotnet.github.io/pr1nc3/topics/peter-vang/), [Phaedra Ellis Lamkin](https://bjmdotnet.github.io/pr1nc3/topics/phaedra-ellis-lamkin/), [Rita Ora](https://bjmdotnet.github.io/pr1nc3/topics/rita-ora/), [Sheila E.](https://bjmdotnet.github.io/pr1nc3/topics/sheila-e/) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/10-curious-things-we-learned-about-prince-from-the-investigations/480364723/))
+ - [**"10 curious things we learned about Prince from the investigations -- He liked Häagen-Dazs ice cream, 5-Hour Energy drinks and MAC beauty products."**](http://www.startribune.com/10-curious-things-we-learned-about-prince-from-the-investigations/480364723/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 April 2018 about [CeeLo Green](../../topics/ceelo-green/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Esperanza Spalding](../../topics/esperanza-spalding/index.md), [Janelle Monae](../../topics/janelle-monae/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [North Memorial Medical Center (Place)](../../topics/place/north-memorial-medical-center/index.md), [Peter Vang](../../topics/peter-vang/index.md), [Phaedra Ellis Lamkin](../../topics/phaedra-ellis-lamkin/index.md), [Rita Ora](../../topics/rita-ora/index.md), [Sheila E.](../../topics/sheila-e/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/10-curious-things-we-learned-about-prince-from-the-investigations/480364723/))
 
 ----
 
- - [**"As Prince's health waned, alarm grew in inner circle"**](http://www.startribune.com/as-prince-s-health-waned-alarm-grew-in-inner-circle/480336433/) by Amy Forliti (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 April 2018 about [Andrew Kornfeld](https://bjmdotnet.github.io/pr1nc3/topics/andrew-kornfeld/), [fentanyl](https://bjmdotnet.github.io/pr1nc3/topics/fentanyl/), [Howard Kornfeld](https://bjmdotnet.github.io/pr1nc3/topics/howard-kornfeld/), [Kirk Johnson](https://bjmdotnet.github.io/pr1nc3/topics/kirk-johnson/), [Mark Metz](https://bjmdotnet.github.io/pr1nc3/topics/mark-metz/), [Meron Bekure](https://bjmdotnet.github.io/pr1nc3/topics/meron-bekure/), [Michael Todd Schulenberg](https://bjmdotnet.github.io/pr1nc3/topics/michael-todd-schulenberg/), [Moline, Illinois (Place)](https://bjmdotnet.github.io/pr1nc3/topics/place/moline-illinois/), [oxycodone](https://bjmdotnet.github.io/pr1nc3/topics/oxycodone/) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/as-prince-s-health-waned-alarm-grew-in-inner-circle/480336433/))
+ - [**"As Prince's health waned, alarm grew in inner circle"**](http://www.startribune.com/as-prince-s-health-waned-alarm-grew-in-inner-circle/480336433/) by Amy Forliti (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 April 2018 about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [fentanyl](../../topics/fentanyl/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Mark Metz](../../topics/mark-metz/index.md), [Meron Bekure](../../topics/meron-bekure/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (Place)](../../topics/place/moline-illinois/index.md), [oxycodone](../../topics/oxycodone/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/as-prince-s-health-waned-alarm-grew-in-inner-circle/480336433/))
 
 ----
 
@@ -40,15 +40,15 @@
 
 ----
 
- - [**"A timeline of Prince's final days"**](http://www.startribune.com/a-timeline-of-prince-s-final-days/480321973/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 April 2018 about [Dakota (Place)](https://bjmdotnet.github.io/pr1nc3/topics/place/dakota/), [fentanyl](https://bjmdotnet.github.io/pr1nc3/topics/fentanyl/), [Kirk Johnson](https://bjmdotnet.github.io/pr1nc3/topics/kirk-johnson/) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/a-timeline-of-prince-s-final-days/480321973/))
+ - [**"A timeline of Prince's final days"**](http://www.startribune.com/a-timeline-of-prince-s-final-days/480321973/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 April 2018 about [Dakota (Place)](../../topics/place/dakota/index.md), [fentanyl](../../topics/fentanyl/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/a-timeline-of-prince-s-final-days/480321973/))
 
 ----
 
- - [**"Celebration 2018 at Paisley Park for Prince -- Today is the first day of Celebration 2018 at Paisley Park where Prince fans from around the world gathered for tours, live music and panel discussions inside."**](http://www.startribune.com/celebration-2018-at-paisley-park-for-prince/480313663/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 April 2018 about [Celebration 2018](https://bjmdotnet.github.io/pr1nc3/topics/celebration-2018/) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/celebration-2018-at-paisley-park-for-prince/480313663/))
+ - [**"Celebration 2018 at Paisley Park for Prince -- Today is the first day of Celebration 2018 at Paisley Park where Prince fans from around the world gathered for tours, live music and panel discussions inside."**](http://www.startribune.com/celebration-2018-at-paisley-park-for-prince/480313663/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 April 2018 about [Celebration 2018](../../topics/celebration-2018/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/celebration-2018-at-paisley-park-for-prince/480313663/))
 
 ----
 
- - [**"New Prince record released today: His version of 'Nothing Compares 2 U'"**](http://www.startribune.com/new-prince-record-released-today-his-version-of-nothing-compares-2-u/480265043/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 April 2018 about [Nothing Compares 2 U (Song)](https://bjmdotnet.github.io/pr1nc3/topics/song/nothing-compares-2-u/) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/new-prince-record-released-today-his-version-of-nothing-compares-2-u/480265043/))
+ - [**"New Prince record released today: His version of 'Nothing Compares 2 U'"**](http://www.startribune.com/new-prince-record-released-today-his-version-of-nothing-compares-2-u/480265043/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 April 2018 about [Nothing Compares 2 U (Song)](../../topics/song/nothing-compares-2-u/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/new-prince-record-released-today-his-version-of-nothing-compares-2-u/480265043/))
 
 ----
 
@@ -64,7 +64,7 @@
 
 ----
 
- - [**"Prince's former musician Donna Grantis plays guitar hero at the Dakota"**](http://www.startribune.com/prince-s-former-musician-donna-grantis-plays-guitar-hero-at-the-dakota/480212673/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 April 2018 about [Dakota (Place)](https://bjmdotnet.github.io/pr1nc3/topics/place/dakota/), [Donna Grantis](https://bjmdotnet.github.io/pr1nc3/topics/donna-grantis/) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-former-musician-donna-grantis-plays-guitar-hero-at-the-dakota/480212673/))
+ - [**"Prince's former musician Donna Grantis plays guitar hero at the Dakota"**](http://www.startribune.com/prince-s-former-musician-donna-grantis-plays-guitar-hero-at-the-dakota/480212673/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 April 2018 about [Dakota (Place)](../../topics/place/dakota/index.md), [Donna Grantis](../../topics/donna-grantis/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-former-musician-donna-grantis-plays-guitar-hero-at-the-dakota/480212673/))
 
 ----
 
@@ -80,7 +80,7 @@
 
 ----
 
- - [**"Everything was cool once keyboardist Morris Hayes figured out which Prince had arrived"**](http://www.startribune.com/c-j-everything-was-cool-once-keyboardist-morris-hayes-figured-out-which-prince-had-arrived/480052643/) by C.J. (Cheryl Johnson) in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 April 2018 about [Morris Hayes](https://bjmdotnet.github.io/pr1nc3/topics/morris-hayes/) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-everything-was-cool-once-keyboardist-morris-hayes-figured-out-which-prince-had-arrived/480052643/))
+ - [**"Everything was cool once keyboardist Morris Hayes figured out which Prince had arrived"**](http://www.startribune.com/c-j-everything-was-cool-once-keyboardist-morris-hayes-figured-out-which-prince-had-arrived/480052643/) by C.J. (Cheryl Johnson) in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 April 2018 about [Morris Hayes](../../topics/morris-hayes/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-everything-was-cool-once-keyboardist-morris-hayes-figured-out-which-prince-had-arrived/480052643/))
 
 ----
 
