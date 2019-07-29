@@ -1,7 +1,7 @@
 # Authors
 
   * [Associated Press](./associated-press/)
-     * [Amy Forliti (Associated Press)](./associated-press/amy-forliti/) (8)
+     * [Amy Forliti (Associated Press)](./associated-press/amy-forliti/) (9)
      * [Carla K. Johnson (Associated Press)](./associated-press/carla-k-johnson/) (2)
      * [Chevel Johnson (Associated Press)](./associated-press/chevel-johnson/) (1)
      * [Christopher Weber (Associated Press)](./associated-press/christopher-weber/) (1)
@@ -23,7 +23,7 @@
      * [Nicole Evatt (Associated Press)](./associated-press/nicole-evatt/) (1)
      * [Pablo Gorondi (Associated Press)](./associated-press/pablo-gorondi/) (5)
      * [Ryan Nakashima (Associated Press)](./associated-press/ryan-nakashima/) (1)
-     * [Steve Karnowski (Associated Press)](./associated-press/steve-karnowski/) (14)
+     * [Steve Karnowski (Associated Press)](./associated-press/steve-karnowski/) (15)
 
 
 ----

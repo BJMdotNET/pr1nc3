@@ -10,7 +10,7 @@
       [September](./associated-press-news-2018-09.md) (2) | 
       [June](./associated-press-news-2018-06.md) (3) | 
       [May](./associated-press-news-2018-05.md) (2) | 
-      [April](./associated-press-news-2018-04.md) (4) | 
+      [April](./associated-press-news-2018-04.md) (5) | 
       [March](./associated-press-news-2018-03.md) (1) | 
   * 2017: 
       [November](./associated-press-news-2017-11.md) (2) | 
@@ -22,9 +22,9 @@
   * 2016: 
       [December](./associated-press-news-2016-12.md) (2) | 
       [November](./associated-press-news-2016-11.md) (2) | 
-      [October](./associated-press-news-2016-10.md) (7) | 
-      [September](./associated-press-news-2016-09.md) (2) | 
-      [August](./associated-press-news-2016-08.md) (1) | 
+      [October](./associated-press-news-2016-10.md) (8) | 
+      [September](./associated-press-news-2016-09.md) (3) | 
+      [August](./associated-press-news-2016-08.md) (2) | 
       [July](./associated-press-news-2016-07.md) (2) | 
       [June](./associated-press-news-2016-06.md) (5) | 
       [May](./associated-press-news-2016-05.md) (1) | 

@@ -10,6 +10,7 @@
       [November](./bremer-trust-2016-11.md) (1) | 
       [October](./bremer-trust-2016-10.md) (1) | 
       [September](./bremer-trust-2016-09.md) (1) | 
+      [August](./bremer-trust-2016-08.md) (1) | 
       [July](./bremer-trust-2016-07.md) (1) | 
       [June](./bremer-trust-2016-06.md) (3) | 
 

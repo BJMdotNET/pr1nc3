@@ -3,7 +3,7 @@
   * 2018: 
       [July](./carver-county-2018-07.md) (1) | 
       [May](./carver-county-2018-05.md) (1) | 
-      [April](./carver-county-2018-04.md) (2) | 
+      [April](./carver-county-2018-04.md) (3) | 
   * 2017: 
       [May](./carver-county-2017-05.md) (1) | 
       [January](./carver-county-2017-01.md) (3) | 
