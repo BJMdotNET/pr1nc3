@@ -17,7 +17,7 @@
   * [How Come U Don't Call Me Anymore (Song)](./song/how-come-u-don-t-call-me-anymore/) (1)
   * [I Feel For You (Song)](./song/i-feel-for-you/) (2)
   * [I Wanna Be Your Lover (Song)](./song/i-wanna-be-your-lover/) (1)
-  * [I Would Die 4 U (Song)](./song/i-would-die-4-u/) (7)
+  * [I Would Die 4 U (Song)](./song/i-would-die-4-u/) (8)
   * [Katrina’s Paper Dolls (Song)](./song/katrina-s-paper-dolls/) (2)
   * [Let’s Go Crazy (Song)](./song/let-s-go-crazy/) (10)
   * [Love and Sex (Song)](./song/love-and-sex/) (2)

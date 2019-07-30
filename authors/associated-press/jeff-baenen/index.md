@@ -4,7 +4,7 @@
 
 ----
 
- - [**"Prince’s new basement tape: Just him singing, playing piano"**](https://apnews.com/e0a9e78a662c40d3adee133110bc8489) by Jeff Baenen (Associated Press) in [Associated Press News](https://www.apnews.com/) on 18 September 2018 about [17 Days (Song)](https://bjmdotnet.github.io/pr1nc3/topics/song/17-days/), [Cold Coffee & Cocaine (Song)](https://bjmdotnet.github.io/pr1nc3/topics/song/cold-coffee-cocaine/), [fentanyl](https://bjmdotnet.github.io/pr1nc3/topics/fentanyl/), [Joni Mitchell](https://bjmdotnet.github.io/pr1nc3/topics/joni-mitchell/), [Lisa Coleman](https://bjmdotnet.github.io/pr1nc3/topics/lisa-coleman/), [Michael Howe](https://bjmdotnet.github.io/pr1nc3/topics/michael-howe/), [NPG Records](https://bjmdotnet.github.io/pr1nc3/topics/npg-records/), [Piano and a Microphone 1983 (Album)](https://bjmdotnet.github.io/pr1nc3/topics/album/piano-and-a-microphone-1983/), [Purple Rain (Song)](https://bjmdotnet.github.io/pr1nc3/topics/song/purple-rain/), [Troy Carter](https://bjmdotnet.github.io/pr1nc3/topics/troy-carter/), [Warner Bros. Records](https://bjmdotnet.github.io/pr1nc3/topics/warner-bros-records/), [Why The Butterflies (Song)](https://bjmdotnet.github.io/pr1nc3/topics/song/why-the-butterflies/) ([mirror](https://web.archive.org/web/*/https://apnews.com/e0a9e78a662c40d3adee133110bc8489))
+ - [**"Prince’s new basement tape: Just him singing, playing piano"**](https://apnews.com/e0a9e78a662c40d3adee133110bc8489) by Jeff Baenen (Associated Press) in [Associated Press News](https://www.apnews.com/) on 18 September 2018 about [17 Days (Song)](../../../topics/song/17-days/index.md), [Cold Coffee & Cocaine (Song)](../../../topics/song/cold-coffee-cocaine/index.md), [fentanyl](../../../topics/fentanyl/index.md), [Joni Mitchell](../../../topics/joni-mitchell/index.md), [Lisa Coleman](../../../topics/lisa-coleman/index.md), [Michael Howe](../../../topics/michael-howe/index.md), [NPG Records](../../../topics/npg-records/index.md), [Piano and a Microphone 1983 (Album)](../../../topics/album/piano-and-a-microphone-1983/index.md), [Purple Rain (Song)](../../../topics/song/purple-rain/index.md), [Troy Carter](../../../topics/troy-carter/index.md), [Warner Bros. Records](../../../topics/warner-bros-records/index.md), [Why The Butterflies (Song)](../../../topics/song/why-the-butterflies/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/e0a9e78a662c40d3adee133110bc8489))
 
 ----
 
@@ -14,11 +14,11 @@
 
  - [**"
                                             Minnesota judge cancels Universal deal with Prince estate
-                                    "**](http://www.startribune.com/minnesota-judge-cancels-universal-deal-with-prince-estate/434374993/) by Jeff Baenen (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 14 July 2017 about [Prince Estate](https://bjmdotnet.github.io/pr1nc3/topics/prince-estate/) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/minnesota-judge-cancels-universal-deal-with-prince-estate/434374993/))
+                                    "**](http://www.startribune.com/minnesota-judge-cancels-universal-deal-with-prince-estate/434374993/) by Jeff Baenen (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 14 July 2017 about [Prince Estate](../../../topics/prince-estate/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/minnesota-judge-cancels-universal-deal-with-prince-estate/434374993/))
 
 ----
 
- - [**"Prince left behind a treasure trove to see at Paisley Park"**](https://www.apnews.com/a5f775426be44b65a5cbe3d790774288) by Jeff Baenen (Associated Press) in [Associated Press News](https://www.apnews.com/) on 18 April 2017 about [Grammy Award](https://bjmdotnet.github.io/pr1nc3/topics/grammy-award/), [Purple Rain (Movie)](https://bjmdotnet.github.io/pr1nc3/topics/movie/purple-rain/) ([mirror](https://web.archive.org/web/*/https://www.apnews.com/a5f775426be44b65a5cbe3d790774288))
+ - [**"Prince left behind a treasure trove to see at Paisley Park"**](https://www.apnews.com/a5f775426be44b65a5cbe3d790774288) by Jeff Baenen (Associated Press) in [Associated Press News](https://www.apnews.com/) on 18 April 2017 about [Grammy Award](../../../topics/grammy-award/index.md), [Purple Rain (Movie)](../../../topics/movie/purple-rain/index.md) ([mirror](https://web.archive.org/web/*/https://www.apnews.com/a5f775426be44b65a5cbe3d790774288))
 
 ----
 
@@ -26,7 +26,7 @@
 
 ----
 
- - [**"Prince invites fans to party with him at Paisley Park"**](https://apnews.com/93c56737c5344b9597794d00449d08e3) by Jeff Baenen (Associated Press) in [Associated Press News](https://www.apnews.com/) on 27 October 2015 about [3rdEyeGirl](https://bjmdotnet.github.io/pr1nc3/topics/3rdeyegirl/), [Donna Grantis](https://bjmdotnet.github.io/pr1nc3/topics/donna-grantis/), [James Brown](https://bjmdotnet.github.io/pr1nc3/topics/james-brown/), [Judith Hill](https://bjmdotnet.github.io/pr1nc3/topics/judith-hill/), [merchandise](https://bjmdotnet.github.io/pr1nc3/topics/merchandise/), [Stevie Wonder](https://bjmdotnet.github.io/pr1nc3/topics/stevie-wonder/) ([mirror](https://web.archive.org/web/*/https://apnews.com/93c56737c5344b9597794d00449d08e3))
+ - [**"Prince invites fans to party with him at Paisley Park"**](https://apnews.com/93c56737c5344b9597794d00449d08e3) by Jeff Baenen (Associated Press) in [Associated Press News](https://www.apnews.com/) on 27 October 2015 about [3rdEyeGirl](../../../topics/3rdeyegirl/index.md), [Donna Grantis](../../../topics/donna-grantis/index.md), [James Brown](../../../topics/james-brown/index.md), [Judith Hill](../../../topics/judith-hill/index.md), [merchandise](../../../topics/merchandise/index.md), [Stevie Wonder](../../../topics/stevie-wonder/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/93c56737c5344b9597794d00449d08e3))
 
 ----
 

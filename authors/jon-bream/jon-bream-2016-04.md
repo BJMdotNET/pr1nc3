@@ -12,7 +12,7 @@
 
 ----
 
- - [**"How Prince and critic Jon Bream learned to see eye to eye"**](http://www.startribune.com/how-prince-and-critic-jon-bream-learned-to-see-eye-to-eye/376645531/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 21 April 2016 about [Jon Bream](https://bjmdotnet.github.io/pr1nc3/topics/jon-bream/) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/how-prince-and-critic-jon-bream-learned-to-see-eye-to-eye/376645531/))
+ - [**"How Prince and critic Jon Bream learned to see eye to eye"**](http://www.startribune.com/how-prince-and-critic-jon-bream-learned-to-see-eye-to-eye/376645531/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 21 April 2016 about [Jon Bream](../../topics/jon-bream/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/how-prince-and-critic-jon-bream-learned-to-see-eye-to-eye/376645531/))
 
 ----
 

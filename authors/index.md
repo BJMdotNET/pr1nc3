@@ -113,6 +113,7 @@
   * [Michael Rand](./michael-rand/) (4)
   * [Neal Justin](./neal-justin/) (11)
   * [Neal Karlen](./neal-karlen/) (1)
+  * [Nicole Neri](./nicole-neri/) (1)
   * [Nicole Norfleet](./nicole-norfleet/) (1)
   * [Padraig Cotter](./padraig-cotter/) (1)
   * [Pam Louwagie](./pam-louwagie/) (1)

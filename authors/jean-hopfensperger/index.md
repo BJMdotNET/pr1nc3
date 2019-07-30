@@ -1,6 +1,6 @@
 # Jean Hopfensperger
 
- - [**"Gospel of Prince preached at Minnesota seminary"**](http://www.startribune.com/gospel-of-prince-preached-at-minnesota-seminary/508503562/) by Jean Hopfensperger in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 April 2019 about [Grammy Award](https://bjmdotnet.github.io/pr1nc3/topics/grammy-award/) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/gospel-of-prince-preached-at-minnesota-seminary/508503562/))
+ - [**"Gospel of Prince preached at Minnesota seminary"**](http://www.startribune.com/gospel-of-prince-preached-at-minnesota-seminary/508503562/) by Jean Hopfensperger in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 April 2019 about [Grammy Award](../../topics/grammy-award/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/gospel-of-prince-preached-at-minnesota-seminary/508503562/))
 
 ----
 
