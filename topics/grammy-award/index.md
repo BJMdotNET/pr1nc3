@@ -24,6 +24,10 @@
 
 ----
 
+ - [**"Prince album covers for 'Purple Rain,' 'Lovesexy,' 'Parade' created by University Heights' Laura LiPuma Nash (photos)"**](https://www.cleveland.com/entertainment/2016/04/prince_album_covers_for_purple.html) in [Cleveland.com](https://www.cleveland.com/) on 29 April 2016 about [1999 (Album)](../../topics/album/1999/index.md), [Grammy Award](../../topics/grammy-award/index.md), [Laura LiPuma](../../topics/laura-lipuma/index.md), [Lovesexy (Album)](../../topics/album/lovesexy/index.md), [Parade (Album)](../../topics/album/parade/index.md), [Purple Rain (Album)](../../topics/album/purple-rain/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md), [When Doves Cry (Song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://www.cleveland.com/entertainment/2016/04/prince_album_covers_for_purple.html))
+
+----
+
  - [**"Tales From Suzanne Vega -- GRAMMY-winning singer/songwriter discusses the making of her new album, Tales From The Realm Of The Queen Of Pentacles, and being years ahead of "Game Of Thrones""**](https://www.grammy.com/grammys/news/tales-suzanne-vega) by Steve Baltin in [The GRAMMYs](https://www.grammy.com/) on 2 December 2014 about [Grammy Award](../../topics/grammy-award/index.md), [Suzanne Vega](../../topics/suzanne-vega/index.md) ([mirror](https://web.archive.org/web/*/https://www.grammy.com/grammys/news/tales-suzanne-vega))
 
 ----

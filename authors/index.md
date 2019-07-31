@@ -101,6 +101,7 @@
   * [Lee Svitak Dean](./lee-svitak-dean/) (1)
   * [Leila Navidi](./leila-navidi/) (1)
   * [Liz Sawyer](./liz-sawyer/) (2)
+  * [Lydia Moran](./lydia-moran/) (1)
   * [Maeve McDermott](./maeve-mcdermott/) (2)
   * [Mark Vancleave](./mark-vancleave/) (1)
   * [Martin Talbot](./martin-talbot/) (1)
