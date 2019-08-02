@@ -1,5 +1,9 @@
 # NPG Records
 
+ - [**"The Prince Estate in Partnership with Legacy Recordings Announces Next Wave of Titles in Definitive Prince Reissue Project Coming Friday, September 13"**](https://www.legacyrecordings.com/2019/08/01/the-prince-estate-in-partnership-with-legacy-recordings-announces-next-wave-of-titles-in-definitive-prince-reissue-project-coming-friday-september-13/) in [Legacy Recordings](https://www.legacyrecordings.com/) on 1 August 2019 about [Emancipation (Album)](../../topics/album/emancipation/index.md), [Legacy Recordings](../../topics/legacy-recordings/index.md), [NPG Records](../../topics/npg-records/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Sony Music Entertainment](../../topics/sony-music-entertainment/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [The Versace Experience (Prelude 2 Gold) (Album)](../../topics/album/the-versace-experience-prelude-2-gold/index.md) ([mirror](https://web.archive.org/web/*/https://www.legacyrecordings.com/2019/08/01/the-prince-estate-in-partnership-with-legacy-recordings-announces-next-wave-of-titles-in-definitive-prince-reissue-project-coming-friday-september-13/))
+
+----
+
  - [**"Chaka Khan On Why She Finally Released Her First Album In 12 Years"**](https://www.billboard.com/articles/news/8496614/chaka-khan-hello-happiness-interview) in [Billboard](https://www.billboard.com/) on 8 February 2019 about [Chaka Khan](../../topics/chaka-khan/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Miles Davis](../../topics/miles-davis/index.md), [NPG Records](../../topics/npg-records/index.md), [Sticky Wicked (Song)](../../topics/song/sticky-wicked/index.md) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8496614/chaka-khan-hello-happiness-interview))
 
 ----
@@ -9,6 +13,10 @@
 ----
 
  - [**"Unreleased Prince music to be streamed on Tidal in 2019"**](https://www.apnews.com/feda2c28fd88407aa211aa7a46f6f943) by Amy Forliti (Associated Press) in [Associated Press News](https://www.apnews.com/) on 12 May 2018 about [NPG Records](../../topics/npg-records/index.md), [Troy Carter](../../topics/troy-carter/index.md) ([mirror](https://web.archive.org/web/*/https://www.apnews.com/feda2c28fd88407aa211aa7a46f6f943))
+
+----
+
+ - [**"The Estate Of Prince Rogers Nelson Selects Universal Music Group To Manage Iconic Artist's Recordings -- Deal Encompasses Prince's Grammy-Winning NPG Records, Hits from Earlier Catalogs and Vast Collection of Unreleased Works"**](https://www.prnewswire.com/news-releases/the-estate-of-prince-rogers-nelson-selects-universal-music-group-to-manage-iconic-artists-recordings-300404797.html) in [PR Newswire](https://www.prnewswire.com/) on 9 February 2017 about [Bravado](../../topics/bravado/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [merchandise](../../topics/merchandise/index.md), [NPG Records](../../topics/npg-records/index.md), [Universal Music Group](../../topics/universal-music-group/index.md) ([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/the-estate-of-prince-rogers-nelson-selects-universal-music-group-to-manage-iconic-artists-recordings-300404797.html))
 
 ----
 

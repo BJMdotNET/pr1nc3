@@ -59,7 +59,7 @@
   * [Caroline Palmer](./caroline-palmer/) (1)
   * [Chao Xiong](./chao-xiong/) (1)
   * [Chris Miller](./chris-miller/) (1)
-  * [Chris Riemenschneider](./chris-riemenschneider/) (55)
+  * [Chris Riemenschneider](./chris-riemenschneider/) (56)
   * [Christopher DiLella](./christopher-dilella/) (1)
   * [Colin Bertram](./colin-bertram/) (1)
   * [Colin Stutz](./colin-stutz/) (1)

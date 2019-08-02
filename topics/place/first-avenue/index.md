@@ -8,6 +8,7 @@
   * 2018: 
       [July](./first-avenue-place-2018-07.md) (1) | 
   * 2017: 
+      [May](./first-avenue-place-2017-05.md) (1) | 
       [April](./first-avenue-place-2017-04.md) (2) | 
   * 2016: 
       [December](./first-avenue-place-2016-12.md) (1) | 

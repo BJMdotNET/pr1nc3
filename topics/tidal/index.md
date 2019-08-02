@@ -1,5 +1,13 @@
 # Tidal
 
+ - [**"Prince's 'Originals' Now Live Exclusively On TIDAL -- Hear the Album on TIDAL.com/Prince"**](https://www.prnewswire.com/news-releases/princes-originals-now-live-exclusively-on-tidal-300863756.html) in [PR Newswire](https://www.prnewswire.com/) on 7 June 2019 about [Originals (Album)](../../topics/album/originals/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Tidal](../../topics/tidal/index.md), [Troy Carter](../../topics/troy-carter/index.md) ([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/princes-originals-now-live-exclusively-on-tidal-300863756.html))
+
+----
+
+ - [**"TIDAL Announces Global Album Release Celebrations For Originals, New Prince Album Exclusively Available On TIDAL Beginning June 7 -- EVENTS HOSTED BY JAY-Z AND ADDITIONAL PRESENTERS; PRE-SAVE THE ALBUM ON TIDAL STARTING NOW"**](https://www.prnewswire.com/news-releases/tidal-announces-global-album-release-celebrations-for-originals-new-prince-album-exclusively-available-on-tidal-beginning-june-7-300857155.html) in [PR Newswire](https://www.prnewswire.com/) on 29 May 2019 about [Originals (Album)](../../topics/album/originals/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Tidal](../../topics/tidal/index.md), [Troy Carter](../../topics/troy-carter/index.md) ([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/tidal-announces-global-album-release-celebrations-for-originals-new-prince-album-exclusively-available-on-tidal-beginning-june-7-300857155.html))
+
+----
+
  - [**"New Prince album featuring unreleased demos out in June"**](https://www.apnews.com/f60b62d07cd74a92aec4ceb6d9c338f1) by The Associated Press in [Associated Press News](https://www.apnews.com/) on 25 April 2019 about [Apple Music](../../topics/apple-music/index.md), [Bangles](../../topics/bangles/index.md), [Joey Coco](../../topics/joey-coco/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Nothing Compares 2 U (Song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (Album)](../../topics/album/originals/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Time](../../topics/the-time/index.md), [Tidal](../../topics/tidal/index.md), [Troy Carter](../../topics/troy-carter/index.md) ([mirror](https://web.archive.org/web/*/https://www.apnews.com/f60b62d07cd74a92aec4ceb6d9c338f1))
 
 ----
@@ -9,6 +17,10 @@
 ----
 
  - [**"As Prince heirs stew, bankers and lawyers cash in on estate"**](https://www.apnews.com/d9847863113d4ff8bd70850dd6a6cd2e) by Steve Karnowski (Associated Press) in [Associated Press News](https://www.apnews.com/) on 18 May 2018 about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Carver County](../../topics/carver-county/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Tidal](../../topics/tidal/index.md), [Troy Carter](../../topics/troy-carter/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Universal Music Group](../../topics/universal-music-group/index.md) ([mirror](https://web.archive.org/web/*/https://www.apnews.com/d9847863113d4ff8bd70850dd6a6cd2e))
+
+----
+
+ - [**"The Prince Estate and TIDAL Announce Agreement to Debut New and Unreleased Prince Album and Settlement of Prior Legal Disputes"**](https://www.prnewswire.com/news-releases/the-prince-estate-and-tidal-announce-agreement-to-debut-new-and-unreleased-prince-album-and-settlement-of-prior-legal-disputes-300647106.html) in [PR Newswire](https://www.prnewswire.com/) on 11 May 2018 about [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Tidal](../../topics/tidal/index.md), [Troy Carter](../../topics/troy-carter/index.md) ([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/the-prince-estate-and-tidal-announce-agreement-to-debut-new-and-unreleased-prince-album-and-settlement-of-prior-legal-disputes-300647106.html))
 
 ----
 

@@ -1,6 +1,7 @@
 # Mayte
 
   * 2019: 
+      [August](./mayte-2019-08.md) (1) | 
       [May](./mayte-2019-05.md) (1) | 
   * 2018: 
       [July](./mayte-2018-07.md) (1) | 

@@ -1,5 +1,7 @@
 # Mayte Garcia
 
+  * 2019: 
+      [August](./mayte-garcia-2019-08.md) (1) | 
   * 2018: 
       [July](./mayte-garcia-2018-07.md) (1) | 
       [April](./mayte-garcia-2018-04.md) (1) | 

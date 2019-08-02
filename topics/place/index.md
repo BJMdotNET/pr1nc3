@@ -5,7 +5,7 @@
   * [Capri Theater  (Place)](./place/capri-theater/) (1)
   * [Dakota (Place)](./place/dakota/) (4)
   * [Electric Fetus (Place)](./place/electric-fetus/) (1)
-  * [First Avenue (Place)](./place/first-avenue/) (20)
+  * [First Avenue (Place)](./place/first-avenue/) (21)
   * [Lake Minnetonka (Place)](./place/lake-minnetonka/) (2)
   * [Mann’s Chinese Theatre (Place)](./place/mann-s-chinese-theatre/) (1)
   * [Moline, Illinois (Place)](./place/moline-illinois/) (5)

@@ -1,5 +1,9 @@
 # New Power Generation
 
+ - [**"Prince Estate to Reissue Long-Unavailable Albums Next Month"**](https://variety.com/2019/music/news/prince-estate-to-reissue-long-unavailable-albums-next-month-1203288542/) in [Variety](https://variety.com/) on 1 August 2019 about [Chaos and Disorder (Album)](../../topics/album/chaos-and-disorder/index.md), [Emancipation (Album)](../../topics/album/emancipation/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Versace Experience (Prelude 2 Gold) (Album)](../../topics/album/the-versace-experience-prelude-2-gold/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/news/prince-estate-to-reissue-long-unavailable-albums-next-month-1203288542/))
+
+----
+
  - [**"DC Once Turned Prince Into A Batman-Style Superhero"**](https://screenrant.com/prince-comic-book-dc-alter-ego/) by Padraig Cotter in [ScreenRant](https://screenrant.com/) on 16 July 2019 about [Graffiti Bridge (Movie)](../../topics/movie/graffiti-bridge/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Prince: Alter Ego](../../topics/prince-alter-ego/index.md), [Purple Rain (Movie)](../../topics/movie/purple-rain/index.md) ([mirror](https://web.archive.org/web/*/https://screenrant.com/prince-comic-book-dc-alter-ego/))
 
 ----

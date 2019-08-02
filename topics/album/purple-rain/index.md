@@ -5,6 +5,7 @@
       [June](./purple-rain-album-2019-06.md) (2) | 
   * 2017: 
       [June](./purple-rain-album-2017-06.md) (1) | 
+      [May](./purple-rain-album-2017-05.md) (1) | 
       [April](./purple-rain-album-2017-04.md) (1) | 
   * 2016: 
       [April](./purple-rain-album-2016-04.md) (2) | 
