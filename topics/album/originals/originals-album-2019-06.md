@@ -40,11 +40,19 @@
 
 ----
 
+ - [**"Another Treasure Trove Emerges from Prince's Vaults with 'Originals' -- A collection of 15 highly enjoyable demos of songs written for other artists is another reminder – as if we needed one – of why we love Prince Rogers Nelson."**](https://www.popmatters.com/prince-originals-review-2638918026.html) in [PopMatters](https://www.popmatters.com/) on 21 June 2019 about [Originals (Album Review)](../../../topics/album-review/originals/index.md), [Originals (Album)](../../../topics/album/originals/index.md) ([mirror](https://web.archive.org/web/*/https://www.popmatters.com/prince-originals-review-2638918026.html))
+
+----
+
  - [**"Inside The Recording Of Prince's Originals Album"**](https://www.ilikeyouroldstuff.com/news/inside-the-recording-of-prince-originals-album-peggy-mccreary) in [I Like Your Old Stuff](https://www.ilikeyouroldstuff.com/) on 21 June 2019 about [Apollonia 6](../../../topics/apollonia-6/index.md), [Bangles](../../../topics/bangles/index.md), [Martika](../../../topics/martika/index.md), [Originals (Album)](../../../topics/album/originals/index.md), [Peggy McCreary](../../../topics/peggy-mccreary/index.md), [Sunset Sound (Place)](../../../topics/place/sunset-sound/index.md), [The Family](../../../topics/the-family/index.md), [The Time](../../../topics/the-time/index.md) ([mirror](https://web.archive.org/web/*/https://www.ilikeyouroldstuff.com/news/inside-the-recording-of-prince-originals-album-peggy-mccreary))
 
 ----
 
  - [**"Newly released Prince video pairs late singer's legendary dance moves with 'Manic Monday'"**](https://usatoday.com/story/life/music/2019/06/21/princes-new-music-video-shows-late-singers-dancing-manic-monday/1522879001/) by Maeve McDermott in [USA Today](https://usatoday.com/) on 21 June 2019 about [Apple Music](../../../topics/apple-music/index.md), [Bangles](../../../topics/bangles/index.md), [Manic Monday (Song)](../../../topics/song/manic-monday/index.md), [Originals (Album)](../../../topics/album/originals/index.md), [When Doves Cry (Song)](../../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2019/06/21/princes-new-music-video-shows-late-singers-dancing-manic-monday/1522879001/))
+
+----
+
+ - [**"Prince's Originals is a unique look into the late artist's songwriting prowess"**](https://ew.com/music-reviews/2019/06/21/prince-originals-review/) in [EW (Entertainment Weekly)](https://ew.com/) on 21 June 2019 about [Originals (Album Review)](../../../topics/album-review/originals/index.md), [Originals (Album)](../../../topics/album/originals/index.md) ([mirror](https://web.archive.org/web/*/https://ew.com/music-reviews/2019/06/21/prince-originals-review/))
 
 ----
 

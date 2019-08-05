@@ -4,6 +4,10 @@
 
 ----
 
+ - [**"Floodgates are about to open on Prince's career after death -- A year after he died, Prince's lucrative second career is taking off. The industry moguls he despised are calling the shots — and his wishes don't apply."**](http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 April 2017 about [Bravado](../../topics/bravado/index.md), [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [merchandise](../../topics/merchandise/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/))
+
+----
+
  - [**"Deals ensure cash keeps flowing to unsettled Prince estate"**](https://www.apnews.com/ea32a54490474eccad7364653ab698f8) in [Associated Press News](https://www.apnews.com/) on 16 April 2017 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Alfred Jackson](../../topics/alfred-jackson/index.md), [Celebration 2017](../../topics/celebration-2017/index.md), [Comerica Bank & Trust](../../topics/comerica-bank-trust/index.md), [Graceland](../../topics/graceland/index.md), [Joel Weinshanker](../../topics/joel-weinshanker/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Shelby J.](../../topics/shelby-j/index.md), [The Time](../../topics/the-time/index.md), [Tidal](../../topics/tidal/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Universal Music Group](../../topics/universal-music-group/index.md), [Van Jones](../../topics/van-jones/index.md) ([mirror](https://web.archive.org/web/*/https://www.apnews.com/ea32a54490474eccad7364653ab698f8))
 
 ----
@@ -16,7 +20,15 @@
 
 ----
 
+ - [**"Paisley Park visitors will see Prince's studio and mementoes"**](http://www.startribune.com/paisley-park-visitors-will-see-prince-s-studio-and-mementoes/396025851/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 October 2016 about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-visitors-will-see-prince-s-studio-and-mementoes/396025851/))
+
+----
+
  - [**"Still no will, but work to settle Prince estate forges ahead"**](https://apnews.com/e2669a78b7dd4d8fb5c6e743d4acc29d) in [Associated Press News](https://www.apnews.com/) on 25 September 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [Christina Aguilera](../../topics/christina-aguilera/index.md), [Graceland](../../topics/graceland/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [The Time](../../topics/the-time/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Xcel Energy Center (Place)](../../topics/place/xcel-energy-center/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/e2669a78b7dd4d8fb5c6e743d4acc29d))
+
+----
+
+ - [**"Wanted: Tour guides, security for Prince’s Paisley Park"**](https://www.apnews.com/abcfffe116284e97b83ea2b6fd43818b) in [Associated Press News](https://www.apnews.com/) on 6 September 2016 about [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md) ([mirror](https://web.archive.org/web/*/https://www.apnews.com/abcfffe116284e97b83ea2b6fd43818b))
 
 ----
 

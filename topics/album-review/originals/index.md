@@ -20,7 +20,15 @@
 
 ----
 
+ - [**"Another Treasure Trove Emerges from Prince's Vaults with 'Originals' -- A collection of 15 highly enjoyable demos of songs written for other artists is another reminder – as if we needed one – of why we love Prince Rogers Nelson."**](https://www.popmatters.com/prince-originals-review-2638918026.html) in [PopMatters](https://www.popmatters.com/) on 21 June 2019 about [Originals (Album Review)](../../../topics/album-review/originals/index.md), [Originals (Album)](../../../topics/album/originals/index.md) ([mirror](https://web.archive.org/web/*/https://www.popmatters.com/prince-originals-review-2638918026.html))
+
+----
+
  - [**"Prince was vrijgevig met zijn talent"**](https://www.tijd.be/nieuws/archief/prince-was-vrijgevig-met-zijn-talent/10138730.html) in [De Tijd](https://www.tijd.be/) on 21 June 2019 about [Originals (Album Review)](../../../topics/album-review/originals/index.md) ([mirror](https://web.archive.org/web/*/https://www.tijd.be/nieuws/archief/prince-was-vrijgevig-met-zijn-talent/10138730.html))
+
+----
+
+ - [**"Prince's Originals is a unique look into the late artist's songwriting prowess"**](https://ew.com/music-reviews/2019/06/21/prince-originals-review/) in [EW (Entertainment Weekly)](https://ew.com/) on 21 June 2019 about [Originals (Album Review)](../../../topics/album-review/originals/index.md), [Originals (Album)](../../../topics/album/originals/index.md) ([mirror](https://web.archive.org/web/*/https://ew.com/music-reviews/2019/06/21/prince-originals-review/))
 
 ----
 

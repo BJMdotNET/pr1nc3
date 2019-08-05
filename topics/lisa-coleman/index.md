@@ -9,6 +9,8 @@
   * 2017: 
       [June](./lisa-coleman-2017-06.md) (1) | 
       [May](./lisa-coleman-2017-05.md) (1) | 
+  * 2016: 
+      [September](./lisa-coleman-2016-09.md) (1) | 
 
 ----
 

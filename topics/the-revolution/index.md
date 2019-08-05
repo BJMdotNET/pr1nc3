@@ -12,6 +12,7 @@
       [April](./the-revolution-2017-04.md) (1) | 
   * 2016: 
       [November](./the-revolution-2016-11.md) (1) | 
+      [September](./the-revolution-2016-09.md) (1) | 
 
 ----
 

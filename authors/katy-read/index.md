@@ -1,10 +1,10 @@
 # Katy Read
 
- - [**"Street names on Prince’s former Chanhassen property allude to the late star -- Street names to honor Prince in development on land once owned by late star"**](http://www.startribune.com/street-names-for-chanhassen-development-on-prince-s-former-property-allude-to-the-late-star/511245822/) by Katy Read in [Minneapolis Star Tribune](http://www.startribune.com/) on 13 June 2019 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/street-names-for-chanhassen-development-on-prince-s-former-property-allude-to-the-late-star/511245822/))
+ - [**"Street names on Prince’s former Chanhassen property allude to the late star -- Street names to honor Prince in development on land once owned by late star"**](http://www.startribune.com/street-names-for-chanhassen-development-on-prince-s-former-property-allude-to-the-late-star/511245822/) by Katy Read in [Minneapolis Star Tribune](http://www.startribune.com/) on 13 June 2019 about [Galpin Blvd. (Place)](../../topics/place/galpin-blvd/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/street-names-for-chanhassen-development-on-prince-s-former-property-allude-to-the-late-star/511245822/))
 
 ----
 
- - [**"Chanhassen City Council approves housing and park plan on former Prince property"**](http://www.startribune.com/chanhassen-council-approves-housing-and-park-plan-on-former-prince-property/507037042/)) by David Chanen, Katy Read in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 March 2019 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/chanhassen-council-approves-housing-and-park-plan-on-former-prince-property/507037042/)))
+ - [**"Chanhassen City Council approves housing and park plan on former Prince property"**](http://www.startribune.com/chanhassen-council-approves-housing-and-park-plan-on-former-prince-property/507037042/)) by David Chanen, Katy Read in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 March 2019 about [Galpin Boulevard (Place)](../../topics/place/galpin-boulevard/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/chanhassen-council-approves-housing-and-park-plan-on-former-prince-property/507037042/)))
 
 ----
 

@@ -8,6 +8,10 @@
 
 ----
 
+ - [**"The story of Prince's lost album 'Piano & A Microphone 1983' – from the man who found it"**](https://eu.usatoday.com/story/life/music/2018/09/18/prince-basement-tape-piano-microphone-1983/1346752002/) in [USA Today](https://usatoday.com/) on 20 September 2018 about [bootleg](../../topics/bootleg/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Michael Howe](../../topics/michael-howe/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md), [Why The Butterflies (Song)](../../topics/song/why-the-butterflies/index.md) ([mirror](https://web.archive.org/web/*/https://eu.usatoday.com/story/life/music/2018/09/18/prince-basement-tape-piano-microphone-1983/1346752002/))
+
+----
+
  - [**"Prince’s estate sues alleged European piracy network"**](https://www.apnews.com/7175907b6f0247e79365312718c0b1b6) by The Associated Press in [Associated Press News](https://www.apnews.com/) on 15 September 2018 about [bootleg](../../topics/bootleg/index.md), [piracy](../../topics/piracy/index.md) ([mirror](https://web.archive.org/web/*/https://www.apnews.com/7175907b6f0247e79365312718c0b1b6))
 
 ----

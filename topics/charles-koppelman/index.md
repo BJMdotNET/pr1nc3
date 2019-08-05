@@ -6,7 +6,7 @@
       [July](./charles-koppelman-2018-07.md) (1) | 
   * 2017: 
       [May](./charles-koppelman-2017-05.md) (1) | 
-      [April](./charles-koppelman-2017-04.md) (2) | 
+      [April](./charles-koppelman-2017-04.md) (3) | 
       [February](./charles-koppelman-2017-02.md) (1) | 
       [January](./charles-koppelman-2017-01.md) (2) | 
   * 2016: 
