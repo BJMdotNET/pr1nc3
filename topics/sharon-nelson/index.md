@@ -12,7 +12,7 @@
       [April](./sharon-nelson-2017-04.md) (1) | 
   * 2016: 
       [October](./sharon-nelson-2016-10.md) (1) | 
-      [May](./sharon-nelson-2016-05.md) (1) | 
+      [May](./sharon-nelson-2016-05.md) (2) | 
 
 ----
 

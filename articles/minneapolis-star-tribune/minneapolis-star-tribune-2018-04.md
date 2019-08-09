@@ -12,7 +12,7 @@
 
 ----
 
- - [**"10 curious things we learned about Prince from the investigations -- He liked Häagen-Dazs ice cream, 5-Hour Energy drinks and MAC beauty products."**](http://www.startribune.com/10-curious-things-we-learned-about-prince-from-the-investigations/480364723/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 April 2018 about [CeeLo Green](../../topics/ceelo-green/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Esperanza Spalding](../../topics/esperanza-spalding/index.md), [Janelle Monae](../../topics/janelle-monae/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [North Memorial Medical Center (Place)](../../topics/place/north-memorial-medical-center/index.md), [Peter Vang](../../topics/peter-vang/index.md), [Phaedra Ellis Lamkin](../../topics/phaedra-ellis-lamkin/index.md), [Rita Ora](../../topics/rita-ora/index.md), [Sheila E.](../../topics/sheila-e/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/10-curious-things-we-learned-about-prince-from-the-investigations/480364723/))
+ - [**"10 curious things we learned about Prince from the investigations -- He liked Häagen-Dazs ice cream, 5-Hour Energy drinks and MAC beauty products."**](http://www.startribune.com/10-curious-things-we-learned-about-prince-from-the-investigations/480364723/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 April 2018 about [Atlanta (Place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [CeeLo Green](../../topics/ceelo-green/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Esperanza Spalding](../../topics/esperanza-spalding/index.md), [Janelle Monae](../../topics/janelle-monae/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Larry Graham](../../topics/larry-graham/index.md), [North Memorial Medical Center (Place)](../../topics/place/north-memorial-medical-center/index.md), [Peter Vang](../../topics/peter-vang/index.md), [Phaedra Ellis Lamkin](../../topics/phaedra-ellis-lamkin/index.md), [Rita Ora](../../topics/rita-ora/index.md), [Sheila E.](../../topics/sheila-e/index.md), [U Got the Look (Song)](../../topics/song/u-got-the-look/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/10-curious-things-we-learned-about-prince-from-the-investigations/480364723/))
 
 ----
 
@@ -20,7 +20,7 @@
 
 ----
 
- - [**"Carver County closes Prince death investigation with no criminal charges -- After 2-year probe, supplier of fatal drug eludes investigators"**](http://www.startribune.com/no-charges-in-prince-death-investigation/480252103/) by Stephen Montemayor in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 April 2018 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/no-charges-in-prince-death-investigation/480252103/))
+ - [**"Carver County closes Prince death investigation with no criminal charges -- After 2-year probe, supplier of fatal drug eludes investigators"**](http://www.startribune.com/no-charges-in-prince-death-investigation/480252103/) by Stephen Montemayor in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 April 2018 about [Carver County](../../topics/carver-county/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/no-charges-in-prince-death-investigation/480252103/))
 
 ----
 
@@ -52,11 +52,11 @@
 
 ----
 
- - [**"Prince death investigation complete press conference -- Carver County Attorney Mark Metz announced Thursday that he was closing the two-year investigation into the death of Prince without issuing any criminal charges."**](http://video.startribune.com/prince-death-investigation-complete-press-conference/480279253/) by Mark Vancleave in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 April 2018 ([mirror](https://web.archive.org/web/*/http://video.startribune.com/prince-death-investigation-complete-press-conference/480279253/))
+ - [**"Prince death investigation complete press conference -- Carver County Attorney Mark Metz announced Thursday that he was closing the two-year investigation into the death of Prince without issuing any criminal charges."**](http://video.startribune.com/prince-death-investigation-complete-press-conference/480279253/) by Mark Vancleave in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 April 2018 about [Carver County](../../topics/carver-county/index.md), [Mark Metz](../../topics/mark-metz/index.md) ([mirror](https://web.archive.org/web/*/http://video.startribune.com/prince-death-investigation-complete-press-conference/480279253/))
 
 ----
 
- - [**"Prince investigation video shows scene of death -- This video was taken by Carver County investigators the morning Prince was found dead inside Paisley Park. The Star Tribune has obscured images of Prince's body."**](http://video.startribune.com/prince-investigation-video-shows-scene-of-death/480306623/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 April 2018 ([mirror](https://web.archive.org/web/*/http://video.startribune.com/prince-investigation-video-shows-scene-of-death/480306623/))
+ - [**"Prince investigation video shows scene of death -- This video was taken by Carver County investigators the morning Prince was found dead inside Paisley Park. The Star Tribune has obscured images of Prince's body."**](http://video.startribune.com/prince-investigation-video-shows-scene-of-death/480306623/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 April 2018 about [Carver County](../../topics/carver-county/index.md) ([mirror](https://web.archive.org/web/*/http://video.startribune.com/prince-investigation-video-shows-scene-of-death/480306623/))
 
 ----
 

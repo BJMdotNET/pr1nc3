@@ -12,7 +12,7 @@
 
 ----
 
- - [**"Fans' Holy Grail: unreleased songs in Prince's vault"**](http://www.startribune.com/fans-holy-grail-unreleased-songs-in-prince-s-vault/377485941/) by Christopher Weber (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 28 April 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/fans-holy-grail-unreleased-songs-in-prince-s-vault/377485941/))
+ - [**"Fans' Holy Grail: unreleased songs in Prince's vault"**](http://www.startribune.com/fans-holy-grail-unreleased-songs-in-prince-s-vault/377485941/) by Christopher Weber (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 28 April 2016 about [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/fans-holy-grail-unreleased-songs-in-prince-s-vault/377485941/))
 
 ----
 
@@ -44,7 +44,7 @@
 
 ----
 
- - [**"Prince's sister says he had no known will -- Tyka Nelson seeks special administrator for a huge, complex estate."**](http://www.startribune.com/prince-s-sister-files-to-become-estate-executor/377139151/) by Dan Browning in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 April 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-sister-files-to-become-estate-executor/377139151/))
+ - [**"Prince's sister says he had no known will -- Tyka Nelson seeks special administrator for a huge, complex estate."**](http://www.startribune.com/prince-s-sister-files-to-become-estate-executor/377139151/) by Dan Browning in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 April 2016 about [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-sister-files-to-become-estate-executor/377139151/))
 
 ----
 

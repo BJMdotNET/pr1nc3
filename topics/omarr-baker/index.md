@@ -13,7 +13,7 @@
       [January](./omarr-baker-2017-01.md) (1) | 
   * 2016: 
       [December](./omarr-baker-2016-12.md) (1) | 
-      [May](./omarr-baker-2016-05.md) (1) | 
+      [May](./omarr-baker-2016-05.md) (2) | 
       [April](./omarr-baker-2016-04.md) (1) | 
 
 ----

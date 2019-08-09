@@ -3,7 +3,7 @@
   * 2019: 
       [August](./the-prince-estate-2019-08.md) (1) | 
       [July](./the-prince-estate-2019-07.md) (2) | 
-      [June](./the-prince-estate-2019-06.md) (2) | 
+      [June](./the-prince-estate-2019-06.md) (3) | 
       [May](./the-prince-estate-2019-05.md) (1) | 
       [April](./the-prince-estate-2019-04.md) (3) | 
       [February](./the-prince-estate-2019-02.md) (1) | 
@@ -21,7 +21,7 @@
   * 2016: 
       [October](./the-prince-estate-2016-10.md) (2) | 
       [June](./the-prince-estate-2016-06.md) (1) | 
-      [May](./the-prince-estate-2016-05.md) (1) | 
+      [May](./the-prince-estate-2016-05.md) (2) | 
 
 ----
 

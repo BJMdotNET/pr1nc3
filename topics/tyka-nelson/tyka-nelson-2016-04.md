@@ -1,6 +1,6 @@
 # Tyka Nelson: April 2016
 
- - [**"Fans’ Holy Grail: unreleased songs in Prince’s vault"**](https://apnews.com/73b9ba74daa4423bb36ac62d4655a71b) in [Associated Press News](https://apnews.com/) on 29 April 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/73b9ba74daa4423bb36ac62d4655a71b))
+ - [**"Fans’ Holy Grail: unreleased songs in Prince’s vault"**](https://apnews.com/73b9ba74daa4423bb36ac62d4655a71b) in [Associated Press News](https://apnews.com/) on 29 April 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/73b9ba74daa4423bb36ac62d4655a71b))
 
 ----
 
@@ -9,6 +9,10 @@
 ----
 
  - [**"Prince’s sister says musician had no known will"**](https://apnews.com/b7bcc90e42904f679c07158bf5e851a3) in [Associated Press News](https://apnews.com/) on 27 April 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [First Avenue (Place)](../../topics/place/first-avenue/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/b7bcc90e42904f679c07158bf5e851a3))
+
+----
+
+ - [**"Prince's sister says he had no known will -- Tyka Nelson seeks special administrator for a huge, complex estate."**](http://www.startribune.com/prince-s-sister-files-to-become-estate-executor/377139151/) by Dan Browning in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 April 2016 about [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-sister-files-to-become-estate-executor/377139151/))
 
 ----
 

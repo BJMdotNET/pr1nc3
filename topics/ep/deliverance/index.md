@@ -1,6 +1,6 @@
 # Deliverance (EP)
 
- - [**"Prince Engineer Ordered to Pay Estate $4 Million Over Unauthorized Release"**](https://variety.com/2019/biz/news/prince-engineer-pay-estate-4-million-unauthorized-release-1203184099/) in [Variety](https://variety.com/) on 9 April 2019 about [3121 (Album)](../../../topics/album/3121/index.md), [David Staley](../../../topics/david-staley/index.md), [Deliverance (EP)](../../../topics/ep/deliverance/index.md), [Deliverance (Song)](../../../topics/song/deliverance/index.md), [Gabriel Solomon Wilson](../../../topics/gabriel-solomon-wilson/index.md), [Paisley Park Enterprises](../../../topics/paisley-park-enterprises/index.md), [Rogue Music Alliance, LLC](../../../topics/rogue-music-alliance-llc/index.md), [Troy Carter](../../../topics/troy-carter/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2019/biz/news/prince-engineer-pay-estate-4-million-unauthorized-release-1203184099/))
+ - [**"Prince Engineer Ordered to Pay Estate $4 Million Over Unauthorized Release"**](https://variety.com/2019/biz/news/prince-engineer-pay-estate-4-million-unauthorized-release-1203184099/) in [Variety](https://variety.com/) on 9 April 2019 about [3121 (Album)](../../../topics/album/3121/index.md), [David Staley](../../../topics/david-staley/index.md), [Deliverance (EP)](../../../topics/ep/deliverance/index.md), [Deliverance (Song)](../../../topics/song/deliverance/index.md), [Gabriel Solomon Wilson](../../../topics/gabriel-solomon-wilson/index.md), [Paisley Park Enterprises](../../../topics/paisley-park-enterprises/index.md), [Rogue Music Alliance, LLC](../../../topics/rogue-music-alliance-llc/index.md), [trademark](../../../topics/trademark/index.md), [Troy Carter](../../../topics/troy-carter/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2019/biz/news/prince-engineer-pay-estate-4-million-unauthorized-release-1203184099/))
 
 ----
 
@@ -8,7 +8,11 @@
 
 ----
 
- - [**"Judge blocks sound engineer’s release of Prince EP"**](https://apnews.com/194582ccc441427d9c3b8b644ac5dcc0) in [Associated Press News](https://apnews.com/) on 20 April 2017 about [Deliverance (EP)](../../../topics/ep/deliverance/index.md), [Deliverance (Song)](../../../topics/song/deliverance/index.md), [Paisley Park Enterprises](../../../topics/paisley-park-enterprises/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/194582ccc441427d9c3b8b644ac5dcc0))
+ - [**"Judge: Sound engineer can't publish unreleased Prince tracks"**](http://www.startribune.com/judge-sound-engineer-can-t-publish-unreleased-prince-tracks/423717653/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 May 2017 about [Deliverance (EP)](../../../topics/ep/deliverance/index.md), [Deliverance (Song)](../../../topics/song/deliverance/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/judge-sound-engineer-can-t-publish-unreleased-prince-tracks/423717653/))
+
+----
+
+ - [**"Judge blocks sound engineer’s release of Prince EP"**](https://apnews.com/194582ccc441427d9c3b8b644ac5dcc0) in [Associated Press News](https://apnews.com/) on 20 April 2017 about [Deliverance (EP)](../../../topics/ep/deliverance/index.md), [Deliverance (Song)](../../../topics/song/deliverance/index.md), [George Ian Boxill](../../../topics/george-ian-boxill/index.md), [Paisley Park Enterprises](../../../topics/paisley-park-enterprises/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/194582ccc441427d9c3b8b644ac5dcc0))
 
 ----
 

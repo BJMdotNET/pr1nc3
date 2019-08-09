@@ -1,6 +1,6 @@
 # Place
 
-  * [Atlanta (Place)](./place/atlanta/) (13)
+  * [Atlanta (Place)](./place/atlanta/) (15)
   * [Bel Air (Place)](./place/bel-air/) (1)
   * [Capri Theater  (Place)](./place/capri-theater/) (1)
   * [Dakota (Place)](./place/dakota/) (4)
