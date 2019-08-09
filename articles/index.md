@@ -5,7 +5,7 @@
   * [Architectural Digest](./architectural-digest/) (1)
   * [artnet news](./artnet-news/) (4)
   * [ASMP -- American Society of Media Photographers](./asmp-american-society-of-media-photographers/) (1)
-  * [Associated Press News](./associated-press-news/) (120)
+  * [Associated Press News](./associated-press-news/) (138)
   * [Bass Magazine](./bass-magazine/) (1)
   * [BBC News](./bbc-news/) (1)
   * [Billboard](./billboard/) (10)

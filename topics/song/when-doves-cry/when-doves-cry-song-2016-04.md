@@ -8,7 +8,7 @@
 
 ----
 
- - [**"Pop superstar Prince dies at his Minnesota home at age 57"**](https://www.apnews.com/b9e3df0421a04344835cd4fac7680c24) in [Associated Press News](https://www.apnews.com/) on 22 April 2016 about [memoir](../../../topics/memoir/index.md), [Morris Day](../../../topics/morris-day/index.md), [Nothing Compares 2 U (Song)](../../../topics/song/nothing-compares-2-u/index.md), [Obama](../../../topics/obama/index.md), [When Doves Cry (Song)](../../../topics/song/when-doves-cry/index.md), [White House (Place)](../../../topics/place/white-house/index.md) ([mirror](https://web.archive.org/web/*/https://www.apnews.com/b9e3df0421a04344835cd4fac7680c24))
+ - [**"Pop superstar Prince dies at his Minnesota home at age 57"**](https://apnews.com/b9e3df0421a04344835cd4fac7680c24) in [Associated Press News](https://apnews.com/) on 22 April 2016 about [memoir](../../../topics/memoir/index.md), [Morris Day](../../../topics/morris-day/index.md), [Nothing Compares 2 U (Song)](../../../topics/song/nothing-compares-2-u/index.md), [Obama](../../../topics/obama/index.md), [When Doves Cry (Song)](../../../topics/song/when-doves-cry/index.md), [White House (Place)](../../../topics/place/white-house/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/b9e3df0421a04344835cd4fac7680c24))
 
 ----
 

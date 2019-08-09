@@ -8,7 +8,7 @@
 
 ----
 
- - [**"Review: Ex-Prince guitarist Donna Grantis explores fusion"**](https://www.apnews.com/2e76989232854df4b0ec89f1a3bb99a5) by Pablo Gorondi (Associated Press) in [Associated Press News](https://www.apnews.com/) on 20 March 2019 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Donna Grantis](../../topics/donna-grantis/index.md) ([mirror](https://web.archive.org/web/*/https://www.apnews.com/2e76989232854df4b0ec89f1a3bb99a5))
+ - [**"Review: Ex-Prince guitarist Donna Grantis explores fusion"**](https://apnews.com/2e76989232854df4b0ec89f1a3bb99a5) by Pablo Gorondi (Associated Press) in [Associated Press News](https://apnews.com/) on 20 March 2019 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Donna Grantis](../../topics/donna-grantis/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/2e76989232854df4b0ec89f1a3bb99a5))
 
 ----
 

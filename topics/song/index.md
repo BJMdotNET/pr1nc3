@@ -1,12 +1,12 @@
 # Song
 
-  * [17 Days (Song)](./song/17-days/) (4)
+  * [17 Days (Song)](./song/17-days/) (3)
   * [1999 (Song)](./song/1999/) (1)
   * [Around The World In A Day (Song)](./song/around-the-world-in-a-day/) (1)
   * [Baby I’m a Star (Song)](./song/baby-i-m-a-star/) (4)
   * [Baby I'm a Star (Song)](./song/baby-i-m-a-star/) (1)
   * [Batdance (Song)](./song/batdance/) (1)
-  * [Cold Coffee & Cocaine (Song)](./song/cold-coffee-cocaine/) (4)
+  * [Cold Coffee & Cocaine (Song)](./song/cold-coffee-cocaine/) (3)
   * [Colleen (Song)](./song/colleen/) (1)
   * [Computer Blue (Song)](./song/computer-blue/) (6)
   * [Condition of the Heart (Song)](./song/condition-of-the-heart/) (1)
@@ -33,7 +33,7 @@
   * [Nasty Girl (Song)](./song/nasty-girl/) (1)
   * [Next Time Wipe The Lipstick Off Your Collar (Song)](./song/next-time-wipe-the-lipstick-off-your-collar/) (1)
   * [Noon Rendezvous (Song)](./song/noon-rendezvous/) (1)
-  * [Nothing Compares 2 U (Song)](./song/nothing-compares-2-u/) (21)
+  * [Nothing Compares 2 U (Song)](./song/nothing-compares-2-u/) (20)
   * [Oliver’s House (Song)](./song/oliver-s-house/) (1)
   * [Our Destiny (Song)](./song/our-destiny/) (3)
   * [Pop Life (Song)](./song/pop-life/) (1)
@@ -55,9 +55,9 @@
   * [Vicki, is the Water Warm Enough (Song)](./song/vicki-is-the-water-warm-enough/) (1)
   * [Wally (Song)](./song/wally/) (1)
   * [Wednesday (Song)](./song/wednesday/) (1)
-  * [When Doves Cry (Song)](./song/when-doves-cry/) (13)
+  * [When Doves Cry (Song)](./song/when-doves-cry/) (12)
   * [Why Should I Love You? (Song)](./song/why-should-i-love-you/) (1)
-  * [Why The Butterflies (Song)](./song/why-the-butterflies/) (5)
+  * [Why The Butterflies (Song)](./song/why-the-butterflies/) (4)
   * [Wonderful Ass (Song)](./song/wonderful-ass/) (1)
 
 ----

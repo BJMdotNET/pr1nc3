@@ -16,7 +16,7 @@
   * [Originals (Album)](./album/originals/) (40)
   * [Parade (Album)](./album/parade/) (3)
   * [Piano and a Microphone 1983 (Album)](./album/piano-and-a-microphone-1983/) (8)
-  * [Prince Anthology: 1995-2010 (Album)](./album/prince-anthology-1995-2010/) (2)
+  * [Prince Anthology: 1995-2010 (Album)](./album/prince-anthology-1995-2010/) (1)
   * [Purple Rain (Album)](./album/purple-rain/) (19)
   * [Rave In2 the Joy Fantastic (Album)](./album/rave-in2-the-joy-fantastic/) (5)
   * [Rave Un2 the Joy Fantastic (Album)](./album/rave-un2-the-joy-fantastic/) (6)

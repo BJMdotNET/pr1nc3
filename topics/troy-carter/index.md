@@ -6,7 +6,7 @@
       [April](./troy-carter-2019-04.md) (5) | 
   * 2018: 
       [December](./troy-carter-2018-12.md) (1) | 
-      [September](./troy-carter-2018-09.md) (3) | 
+      [September](./troy-carter-2018-09.md) (2) | 
       [July](./troy-carter-2018-07.md) (1) | 
       [June](./troy-carter-2018-06.md) (3) | 
       [May](./troy-carter-2018-05.md) (3) | 

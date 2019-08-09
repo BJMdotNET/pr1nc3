@@ -1,10 +1,10 @@
 # L. Londell McMilllan
 
- - [**"AM Prep-Music"**](https://www.apnews.com/63ffae131dda46bcb6a431332d0a5efc) by The Associated Press in [Associated Press News](https://www.apnews.com/) on 13 April 2017 about [Charles Koppelman](../../topics/charles-koppelman/index.md), [L. Londell McMilllan](../../topics/l-londell-mcmilllan/index.md), [Troy Carter](../../topics/troy-carter/index.md) ([mirror](https://web.archive.org/web/*/https://www.apnews.com/63ffae131dda46bcb6a431332d0a5efc))
+ - [**"AM Prep-Music"**](https://apnews.com/63ffae131dda46bcb6a431332d0a5efc) by The Associated Press in [Associated Press News](https://apnews.com/) on 13 April 2017 about [Charles Koppelman](../../topics/charles-koppelman/index.md), [L. Londell McMilllan](../../topics/l-londell-mcmilllan/index.md), [Troy Carter](../../topics/troy-carter/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/63ffae131dda46bcb6a431332d0a5efc))
 
 ----
 
- - [**"Key Prince career executives retained for estate management"**](https://apnews.com/9f07ae56d500460b9732713431643fb5) in [Associated Press News](https://www.apnews.com/) on 17 June 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [fentanyl](../../topics/fentanyl/index.md), [L. Londell McMilllan](../../topics/l-londell-mcmilllan/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/9f07ae56d500460b9732713431643fb5))
+ - [**"Key Prince career executives retained for estate management"**](https://apnews.com/9f07ae56d500460b9732713431643fb5) in [Associated Press News](https://apnews.com/) on 17 June 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [fentanyl](../../topics/fentanyl/index.md), [L. Londell McMilllan](../../topics/l-londell-mcmilllan/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/9f07ae56d500460b9732713431643fb5))
 
 ----
 

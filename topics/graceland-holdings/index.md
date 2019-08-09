@@ -8,7 +8,7 @@
 
 ----
 
- - [**"Wanted: Tour guides, security for Prince’s Paisley Park"**](https://www.apnews.com/abcfffe116284e97b83ea2b6fd43818b) in [Associated Press News](https://www.apnews.com/) on 6 September 2016 about [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md) ([mirror](https://web.archive.org/web/*/https://www.apnews.com/abcfffe116284e97b83ea2b6fd43818b))
+ - [**"Wanted: Tour guides, security for Prince’s Paisley Park"**](https://apnews.com/abcfffe116284e97b83ea2b6fd43818b) in [Associated Press News](https://apnews.com/) on 6 September 2016 about [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/abcfffe116284e97b83ea2b6fd43818b))
 
 ----
 

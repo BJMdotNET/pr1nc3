@@ -1,6 +1,6 @@
 # Herb Ritts
 
- - [**"Herb Ritts photos of Bowie, Madonna, more to be exhibited"**](https://www.apnews.com/1c8308821f394c988d91e49742dbd17e) by The Associated Press in [Associated Press News](https://www.apnews.com/) on 31 March 2019 about [Herb Ritts](../../topics/herb-ritts/index.md) ([mirror](https://web.archive.org/web/*/https://www.apnews.com/1c8308821f394c988d91e49742dbd17e))
+ - [**"Herb Ritts photos of Bowie, Madonna, more to be exhibited"**](https://apnews.com/1c8308821f394c988d91e49742dbd17e) by The Associated Press in [Associated Press News](https://apnews.com/) on 31 March 2019 about [Herb Ritts](../../topics/herb-ritts/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/1c8308821f394c988d91e49742dbd17e))
 
 ----
 

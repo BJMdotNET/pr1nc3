@@ -6,7 +6,7 @@
       [June](./warner-bros-records-2019-06.md) (1) | 
       [April](./warner-bros-records-2019-04.md) (2) | 
   * 2018: 
-      [September](./warner-bros-records-2018-09.md) (3) | 
+      [September](./warner-bros-records-2018-09.md) (2) | 
       [August](./warner-bros-records-2018-08.md) (1) | 
       [July](./warner-bros-records-2018-07.md) (1) | 
       [June](./warner-bros-records-2018-06.md) (1) | 

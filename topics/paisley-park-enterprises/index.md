@@ -12,11 +12,11 @@
 
 ----
 
- - [**"Prince Co. Suing Internet Site"**](https://www.apnews.com/06d02aeedba29e311e8d336c7b71a2b8) in [Associated Press News](https://www.apnews.com/) on 28 September 2002 about [bootleg](../../topics/bootleg/index.md), [Matthew Lankford](../../topics/matthew-lankford/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md) ([mirror](https://web.archive.org/web/*/https://www.apnews.com/06d02aeedba29e311e8d336c7b71a2b8))
+ - [**"Prince Co. Suing Internet Site"**](https://apnews.com/06d02aeedba29e311e8d336c7b71a2b8) in [Associated Press News](https://apnews.com/) on 28 September 2002 about [bootleg](../../topics/bootleg/index.md), [Matthew Lankford](../../topics/matthew-lankford/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/06d02aeedba29e311e8d336c7b71a2b8))
 
 ----
 
- - [**"People in the News"**](https://apnews.com/df4748de657e2a79a5ec74214a26f279) in [Associated Press News](https://www.apnews.com/) on 22 December 1991 about [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/df4748de657e2a79a5ec74214a26f279))
+ - [**"People in the News"**](https://apnews.com/df4748de657e2a79a5ec74214a26f279) in [Associated Press News](https://apnews.com/) on 22 December 1991 about [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/df4748de657e2a79a5ec74214a26f279))
 
 ----
 
