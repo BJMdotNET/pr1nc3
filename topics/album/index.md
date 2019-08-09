@@ -1,8 +1,8 @@
 # Album
 
-  * [1999 (Album)](./album/1999/) (3)
+  * [1999 (Album)](./album/1999/) (4)
   * [3121 (Album)](./album/3121/) (7)
-  * [Around The World In A Day (Album)](./album/around-the-world-in-a-day/) (4)
+  * [Around The World In A Day (Album)](./album/around-the-world-in-a-day/) (5)
   * [Batman (Album)](./album/batman/) (1)
   * [Chaos and Disorder (Album)](./album/chaos-and-disorder/) (3)
   * [Crystal Ball (Album)](./album/crystal-ball/) (4)
@@ -14,10 +14,10 @@
   * [Graffiti Bridge (Album)](./album/graffiti-bridge/) (2)
   * [Lovesexy (Album)](./album/lovesexy/) (4)
   * [Originals (Album)](./album/originals/) (39)
-  * [Parade (Album)](./album/parade/) (2)
+  * [Parade (Album)](./album/parade/) (3)
   * [Piano and a Microphone 1983 (Album)](./album/piano-and-a-microphone-1983/) (8)
   * [Prince Anthology: 1995-2010 (Album)](./album/prince-anthology-1995-2010/) (1)
-  * [Purple Rain (Album)](./album/purple-rain/) (18)
+  * [Purple Rain (Album)](./album/purple-rain/) (19)
   * [Rave In2 the Joy Fantastic (Album)](./album/rave-in2-the-joy-fantastic/) (5)
   * [Rave Un2 the Joy Fantastic (Album)](./album/rave-un2-the-joy-fantastic/) (6)
   * [Sign O' The Times (Album)](./album/sign-o-the-times/) (1)

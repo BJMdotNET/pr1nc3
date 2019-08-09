@@ -112,7 +112,7 @@
 
 ----
 
- - [**"Colorado inmate claims Prince is his father, seeks DNA test"**](http://www.startribune.com/colorado-inmate-claims-prince-is-his-father-seeks-dna-test/378823301/) by Steve Karnowski (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 May 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/colorado-inmate-claims-prince-is-his-father-seeks-dna-test/378823301/))
+ - [**"Colorado inmate claims Prince is his father, seeks DNA test"**](http://www.startribune.com/colorado-inmate-claims-prince-is-his-father-seeks-dna-test/378823301/) by Steve Karnowski (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 May 2016 about [Carlin Q. Williams](../../topics/carlin-q-williams/index.md), [Carver County](../../topics/carver-county/index.md), [Marsha Henson](../../topics/marsha-henson/index.md), [Patrick Cousins](../../topics/patrick-cousins/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/colorado-inmate-claims-prince-is-his-father-seeks-dna-test/378823301/))
 
 ----
 

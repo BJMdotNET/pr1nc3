@@ -4,7 +4,7 @@
 
 ----
 
- - [**"Song from Prince's father being released on his 101st b'day"**](http://www.startribune.com/song-from-prince-s-father-being-released-on-his-101th-b-day/431373963/) by Mesfin Fekadu (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 28 June 2017 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/song-from-prince-s-father-being-released-on-his-101th-b-day/431373963/))
+ - [**"Song from Prince's father being released on his 101st b'day"**](http://www.startribune.com/song-from-prince-s-father-being-released-on-his-101th-b-day/431373963/) by Mesfin Fekadu (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 28 June 2017 about [John L. Nelson](../../../topics/john-l-nelson/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/song-from-prince-s-father-being-released-on-his-101th-b-day/431373963/))
 
 ----
 

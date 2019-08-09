@@ -1,5 +1,9 @@
 # Associated Press News: April 2018
 
+ - [**"A virtual Prince gets plenty of love in concert"**](https://www.apnews.com/cd016874af1c4126b63062f6ff4188ec) in [Associated Press News](https://www.apnews.com/) on 21 April 2018 ([mirror](https://web.archive.org/web/*/https://www.apnews.com/cd016874af1c4126b63062f6ff4188ec))
+
+----
+
  - [**"AP PHOTOS: Prince file shows extravagant but isolated life"**](https://www.apnews.com/873c94e63a994cb8b920e0f022d86f19) in [Associated Press News](https://www.apnews.com/) on 21 April 2018 about [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md) ([mirror](https://web.archive.org/web/*/https://www.apnews.com/873c94e63a994cb8b920e0f022d86f19))
 
 ----

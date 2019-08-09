@@ -5,7 +5,7 @@
   * [Capri Theater  (Place)](./place/capri-theater/) (1)
   * [Dakota (Place)](./place/dakota/) (4)
   * [Electric Fetus (Place)](./place/electric-fetus/) (2)
-  * [First Avenue (Place)](./place/first-avenue/) (23)
+  * [First Avenue (Place)](./place/first-avenue/) (25)
   * [Galpin Blvd. (Place)](./place/galpin-blvd/) (1)
   * [Galpin Boulevard (Place)](./place/galpin-boulevard/) (1)
   * [Lake Minnetonka (Place)](./place/lake-minnetonka/) (2)

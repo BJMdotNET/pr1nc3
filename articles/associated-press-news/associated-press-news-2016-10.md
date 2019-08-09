@@ -8,6 +8,10 @@
 
 ----
 
+ - [**"The Latest: Wonder, Khan wow crowd at Prince tribute show"**](https://www.apnews.com/2ff2f0434f8944fdb42e5cb8b88b2b91) in [Associated Press News](https://www.apnews.com/) on 14 October 2016 ([mirror](https://web.archive.org/web/*/https://www.apnews.com/2ff2f0434f8944fdb42e5cb8b88b2b91))
+
+----
+
  - [**"Wonder, Khan wow crowd at Prince tribute show"**](https://www.apnews.com/0f0e837095fd4116aaaffee4cf83329b) in [Associated Press News](https://www.apnews.com/) on 14 October 2016 about [Anita Baker](../../topics/anita-baker/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Chris Coleman](../../topics/chris-coleman/index.md), [Christina Aguilera](../../topics/christina-aguilera/index.md), [Doug E. Fresh](../../topics/doug-e-fresh/index.md), [I Feel For You (Song)](../../topics/song/i-feel-for-you/index.md), [Jessie J](../../topics/jessie-j/index.md), [John Mayer](../../topics/john-mayer/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Prince Day](../../topics/prince-day/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Tori Kelly](../../topics/tori-kelly/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Xcel Energy Center (Place)](../../topics/place/xcel-energy-center/index.md) ([mirror](https://web.archive.org/web/*/https://www.apnews.com/0f0e837095fd4116aaaffee4cf83329b))
 
 ----
@@ -21,6 +25,10 @@
 ----
 
  - [**"Paisley Park visitors will see Prince’s studio and mementoes"**](https://apnews.com/27290d0a9516483d9f4c6e9509654af0) in [Associated Press News](https://www.apnews.com/) on 5 October 2016 about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Graceland](../../topics/graceland/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/27290d0a9516483d9f4c6e9509654af0))
+
+----
+
+ - [**"Could drug checking have prevented Prince’s overdose death?"**](https://www.apnews.com/df36569d11294d918572d3edf5428cbe) in [Associated Press News](https://www.apnews.com/) on 4 October 2016 ([mirror](https://web.archive.org/web/*/https://www.apnews.com/df36569d11294d918572d3edf5428cbe))
 
 ----
 

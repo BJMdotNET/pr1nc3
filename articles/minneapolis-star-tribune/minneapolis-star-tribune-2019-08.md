@@ -1,5 +1,21 @@
 # Minneapolis Star Tribune: August 2019
 
+ - [**"Loons, lace & Prince: Minnesota is celebrated in song at Minneapolis festival -- REVIEW: Composers from the state were celebrated at Source Song Festival kickoff."**](http://www.startribune.com/loons-lace-amp-prince-minnesota-is-celebrated-in-song-at-minneapolis-festival/525653951/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 7 August 2019 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/loons-lace-amp-prince-minnesota-is-celebrated-in-song-at-minneapolis-festival/525653951/))
+
+----
+
+ - [**"Morris Day shows off his comedic chops in new Prince mockumentary"**](http://www.startribune.com/morris-day-shows-off-his-comedic-chops-in-new-prince-mockumentary/523094741/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 6 August 2019 about [Computer Blue (Song)](../../topics/song/computer-blue/index.md), [Jungle Love (Song)](../../topics/song/jungle-love/index.md), [Morris Day](../../topics/morris-day/index.md), [Purple Rain (Movie)](../../topics/movie/purple-rain/index.md), [Quincy Jones](../../topics/quincy-jones/index.md), [Sherman's Showcase](../../topics/sherman-s-showcase/index.md), [The Bird (Song)](../../topics/song/the-bird/index.md), [Vicki, is the Water Warm Enough (Song)](../../topics/song/vicki-is-the-water-warm-enough/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/morris-day-shows-off-his-comedic-chops-in-new-prince-mockumentary/523094741/))
+
+----
+
+ - [**"TV picks for Aug. 7: '90210' gang reunites plus 'Bulletproof' and Morris Day on 'Sherman's Showcase' -- Much of the original cast of "Beverly Hills, 90210" is back playing versions of themselves. "**](http://www.startribune.com/tv-picks-for-aug-7-90210-gang-reunites-plus-bulletproof-and-morris-day-on-sherman-s-showcase/523234941/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 6 August 2019 about [Jungle Love (Song)](../../topics/song/jungle-love/index.md), [Morris Day](../../topics/morris-day/index.md), [Purple Rain (Movie)](../../topics/movie/purple-rain/index.md), [Sherman's Showcase](../../topics/sherman-s-showcase/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/tv-picks-for-aug-7-90210-gang-reunites-plus-bulletproof-and-morris-day-on-sherman-s-showcase/523234941/))
+
+----
+
+ - [**"Tamron Hall talks Prince at TV critics meeting"**](http://www.startribune.com/tamron-hall-talks-prince-at-tv-critics-meeting/521726761/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 August 2019 about [Charlie Rose](../../topics/charlie-rose/index.md), [PBS](../../topics/pbs/index.md), [Tamron Hall](../../topics/tamron-hall/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/tamron-hall-talks-prince-at-tv-critics-meeting/521726761/))
+
+----
+
  - [**"Prince's estate approves three more '90s reissues via Sony Legacy for September"**](http://www.startribune.com/prince-s-estate-approves-three-more-90s-reissues-via-sony-legacy-for-september/513494212/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 1 August 2019 about [Chaos and Disorder (Album)](../../topics/album/chaos-and-disorder/index.md), [Emancipation (Album)](../../topics/album/emancipation/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [The Versace Experience (Prelude 2 Gold) (Album)](../../topics/album/the-versace-experience-prelude-2-gold/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-estate-approves-three-more-90s-reissues-via-sony-legacy-for-september/513494212/))
 
 ----

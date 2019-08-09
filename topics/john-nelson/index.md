@@ -4,6 +4,10 @@
 
 ----
 
+ - [**"Song from Prince’s father being released on his 101st b’day"**](https://www.apnews.com/229ffc268c5e4b1ca1eef644539b5247) in [Associated Press News](https://www.apnews.com/) on 29 June 2017 about [Alfred Jackson](../../topics/alfred-jackson/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [John Nelson](../../topics/john-nelson/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://www.apnews.com/229ffc268c5e4b1ca1eef644539b5247))
+
+----
+
  - [**"Judge: Appeals holding up Prince estate determination"**](https://www.apnews.com/c26a8f91fcbc4e25b4138a17edc9c56e) in [Associated Press News](https://www.apnews.com/) on 12 January 2017 about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [John Nelson](../../topics/john-nelson/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Van Jones](../../topics/van-jones/index.md) ([mirror](https://web.archive.org/web/*/https://www.apnews.com/c26a8f91fcbc4e25b4138a17edc9c56e))
 
 ----

@@ -1,6 +1,7 @@
 # Lisa Coleman
 
   * 2019: 
+      [August](./lisa-coleman-2019-08.md) (1) | 
       [July](./lisa-coleman-2019-07.md) (1) | 
       [June](./lisa-coleman-2019-06.md) (3) | 
       [April](./lisa-coleman-2019-04.md) (1) | 

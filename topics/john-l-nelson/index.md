@@ -8,7 +8,23 @@
 
 ----
 
+ - [**"Music by Prince’s father featured on new album, tracking ‘that DNA thing’"**](https://apnews.com/869e0302972c4e36aa99981332602cd0) in [Associated Press News](https://www.apnews.com/) on 9 March 2018 about [John L. Nelson](../../topics/john-l-nelson/index.md), [Owen Husney](../../topics/owen-husney/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/869e0302972c4e36aa99981332602cd0))
+
+----
+
  - [**"Review: John L. Nelson Project records jazz by Prince's dad"**](http://www.startribune.com/review-john-l-nelson-project-records-jazz-by-prince-s-dad/476151463/) by Pablo Gorondi (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 7 March 2018 about [John L. Nelson](../../topics/john-l-nelson/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/review-john-l-nelson-project-records-jazz-by-prince-s-dad/476151463/))
+
+----
+
+ - [**"Recording of jazz compositions by Prince's father released"**](http://www.startribune.com/recording-of-jazz-compositions-by-prince-s-father-released/475668083/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 2 March 2018 about [John L. Nelson](../../topics/john-l-nelson/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/recording-of-jazz-compositions-by-prince-s-father-released/475668083/))
+
+----
+
+ - [**"Song from Prince’s father being released on his 101st b’day"**](https://www.apnews.com/229ffc268c5e4b1ca1eef644539b5247) in [Associated Press News](https://www.apnews.com/) on 29 June 2017 about [Alfred Jackson](../../topics/alfred-jackson/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [John Nelson](../../topics/john-nelson/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://www.apnews.com/229ffc268c5e4b1ca1eef644539b5247))
+
+----
+
+ - [**"Song from Prince's father being released on his 101st b'day"**](http://www.startribune.com/song-from-prince-s-father-being-released-on-his-101th-b-day/431373963/) by Mesfin Fekadu (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 28 June 2017 about [John L. Nelson](../../topics/john-l-nelson/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/song-from-prince-s-father-being-released-on-his-101th-b-day/431373963/))
 
 ----
 

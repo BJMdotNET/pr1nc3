@@ -20,7 +20,7 @@
 
 ----
 
- - [**"Recording of jazz compositions by Prince's father released"**](http://www.startribune.com/recording-of-jazz-compositions-by-prince-s-father-released/475668083/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 2 March 2018 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/recording-of-jazz-compositions-by-prince-s-father-released/475668083/))
+ - [**"Recording of jazz compositions by Prince's father released"**](http://www.startribune.com/recording-of-jazz-compositions-by-prince-s-father-released/475668083/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 2 March 2018 about [John L. Nelson](../../topics/john-l-nelson/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/recording-of-jazz-compositions-by-prince-s-father-released/475668083/))
 
 ----
 

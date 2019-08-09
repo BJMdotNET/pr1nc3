@@ -26,6 +26,7 @@
   * 2016: 
       [October](./prince-estate-2016-10.md) (3) | 
       [September](./prince-estate-2016-09.md) (4) | 
+      [August](./prince-estate-2016-08.md) (1) | 
 
 ----
 
