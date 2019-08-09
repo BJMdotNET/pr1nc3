@@ -8,4 +8,8 @@
 
 ----
 
+ - [**"‘He was family’: Music star Prince stayed home in Minnesota"**](https://www.apnews.com/00078308adec4acdbf4aa8e5fe8f8729) in [Associated Press News](https://www.apnews.com/) on 24 April 2016 about [Carver County](../../../topics/carver-county/index.md), [Chris Coleman](../../../topics/chris-coleman/index.md), [Electric Fetus (Place)](../../../topics/place/electric-fetus/index.md), [First Avenue (Place)](../../../topics/place/first-avenue/index.md) ([mirror](https://web.archive.org/web/*/https://www.apnews.com/00078308adec4acdbf4aa8e5fe8f8729))
+
+----
+
 [Home](../)

@@ -1,42 +1,16 @@
 # Chaka Khan
 
- - [**"Foundation of Prince’s second wife to honor him at gala"**](https://www.apnews.com/16e91a0add574df1b24e5df54dfbc087) by Leanne Italie (Associated Press) in [Associated Press News](https://www.apnews.com/) on 1 March 2019 about [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [In a Perfect World](../../topics/in-a-perfect-world/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md) ([mirror](https://web.archive.org/web/*/https://www.apnews.com/16e91a0add574df1b24e5df54dfbc087))
-
-----
-
- - [**"Chaka Khan On Why She Finally Released Her First Album In 12 Years"**](https://www.billboard.com/articles/news/8496614/chaka-khan-hello-happiness-interview) in [Billboard](https://www.billboard.com/) on 8 February 2019 about [Chaka Khan](../../topics/chaka-khan/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Miles Davis](../../topics/miles-davis/index.md), [NPG Records](../../topics/npg-records/index.md), [Sticky Wicked (Song)](../../topics/song/sticky-wicked/index.md) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8496614/chaka-khan-hello-happiness-interview))
-
-----
-
- - [**"10 curious things we learned about Prince from the investigations -- He liked Häagen-Dazs ice cream, 5-Hour Energy drinks and MAC beauty products."**](http://www.startribune.com/10-curious-things-we-learned-about-prince-from-the-investigations/480364723/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 April 2018 about [CeeLo Green](../../topics/ceelo-green/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Esperanza Spalding](../../topics/esperanza-spalding/index.md), [Janelle Monae](../../topics/janelle-monae/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [North Memorial Medical Center (Place)](../../topics/place/north-memorial-medical-center/index.md), [Peter Vang](../../topics/peter-vang/index.md), [Phaedra Ellis Lamkin](../../topics/phaedra-ellis-lamkin/index.md), [Rita Ora](../../topics/rita-ora/index.md), [Sheila E.](../../topics/sheila-e/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/10-curious-things-we-learned-about-prince-from-the-investigations/480364723/))
-
-----
-
- - [**"Stevie Wonder, Chaka Khan headline Prince tribute show"**](https://www.apnews.com/776650efcc1b4b3997f8af7b73f4e16c) in [Associated Press News](https://www.apnews.com/) on 14 October 2016 about [Anita Baker](../../topics/anita-baker/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Chris Coleman](../../topics/chris-coleman/index.md), [Christina Aguilera](../../topics/christina-aguilera/index.md), [Doug E. Fresh](../../topics/doug-e-fresh/index.md), [I Feel For You (Song)](../../topics/song/i-feel-for-you/index.md), [Jessie J](../../topics/jessie-j/index.md), [John Mayer](../../topics/john-mayer/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Prince Day](../../topics/prince-day/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Tori Kelly](../../topics/tori-kelly/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Xcel Energy Center (Place)](../../topics/place/xcel-energy-center/index.md) ([mirror](https://web.archive.org/web/*/https://www.apnews.com/776650efcc1b4b3997f8af7b73f4e16c))
-
-----
-
- - [**"Wonder, Khan wow crowd at Prince tribute show"**](https://www.apnews.com/0f0e837095fd4116aaaffee4cf83329b) in [Associated Press News](https://www.apnews.com/) on 14 October 2016 about [Anita Baker](../../topics/anita-baker/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Chris Coleman](../../topics/chris-coleman/index.md), [Christina Aguilera](../../topics/christina-aguilera/index.md), [Doug E. Fresh](../../topics/doug-e-fresh/index.md), [I Feel For You (Song)](../../topics/song/i-feel-for-you/index.md), [Jessie J](../../topics/jessie-j/index.md), [John Mayer](../../topics/john-mayer/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Prince Day](../../topics/prince-day/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Tori Kelly](../../topics/tori-kelly/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Xcel Energy Center (Place)](../../topics/place/xcel-energy-center/index.md) ([mirror](https://web.archive.org/web/*/https://www.apnews.com/0f0e837095fd4116aaaffee4cf83329b))
-
-----
-
- - [**"John Mayer withdraws from lineup for Prince tribute concert"**](https://www.apnews.com/d3129f4e2bbb4adcb4e064ba0e3f46c1) in [Associated Press News](https://www.apnews.com/) on 12 October 2016 about [Chaka Khan](../../topics/chaka-khan/index.md), [Christina Aguilera](../../topics/christina-aguilera/index.md), [John Mayer](../../topics/john-mayer/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Tori Kelly](../../topics/tori-kelly/index.md), [Xcel Energy Center (Place)](../../topics/place/xcel-energy-center/index.md) ([mirror](https://web.archive.org/web/*/https://www.apnews.com/d3129f4e2bbb4adcb4e064ba0e3f46c1))
-
-----
-
- - [**"Ex-wife Mayte added to Prince tribute concert in Minnesota"**](https://apnews.com/9fb9e3ee056e44988544d5f92a1bef2a) in [Associated Press News](https://www.apnews.com/) on 11 October 2016 about [Ana Moura](../../topics/ana-moura/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/9fb9e3ee056e44988544d5f92a1bef2a))
-
-----
-
- - [**"Still no will, but work to settle Prince estate forges ahead"**](https://apnews.com/e2669a78b7dd4d8fb5c6e743d4acc29d) in [Associated Press News](https://www.apnews.com/) on 25 September 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [Christina Aguilera](../../topics/christina-aguilera/index.md), [Graceland](../../topics/graceland/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [The Time](../../topics/the-time/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Xcel Energy Center (Place)](../../topics/place/xcel-energy-center/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/e2669a78b7dd4d8fb5c6e743d4acc29d))
-
-----
-
- - [**"Lenny Henry on Prince: 'I almost passed out. This was my hero talking to me' -- The actor and comedian remembers a rooftop meeting and how he couldn’t believe his luck when he found out Prince was playing guitar for an album he was singing on for Kate Bush"**](https://www.theguardian.com/music/2016/apr/24/the-time-i-sang-with-prince-and-kate-bush-by-lenny-henry) in [The Guardian](https://www.theguardian.com/) on 24 April 2016 about [Chaka Khan](../../topics/chaka-khan/index.md), [Eric Clapton](../../topics/eric-clapton/index.md), [Kate Bush](../../topics/kate-bush/index.md), [Lenny Henry](../../topics/lenny-henry/index.md), [The Red Shoes (Album)](../../topics/album/the-red-shoes/index.md), [Why Should I Love You? (Song)](../../topics/song/why-should-i-love-you/index.md) ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/music/2016/apr/24/the-time-i-sang-with-prince-and-kate-bush-by-lenny-henry))
-
-----
-
- - [**"Hornheads jazz group creates unique sound -- The five-piece a cappella horn section records and plays all over the globe."**](http://www.startribune.com/hornheads-jazz-group-creates-unique-sound/302567351/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 May 2015 about [Chaka Khan](../../topics/chaka-khan/index.md), [Dave Jensen](../../topics/dave-jensen/index.md), [Everything Blows (Album)](../../topics/album/everything-blows/index.md), [Hornheads](../../topics/hornheads/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Kathy Jensen](../../topics/kathy-jensen/index.md), [Kenni Holmen](../../topics/kenni-holmen/index.md), [Michael Nelson](../../topics/michael-nelson/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Steve Strand](../../topics/steve-strand/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/hornheads-jazz-group-creates-unique-sound/302567351/))
+  * 2019: 
+      [March](./chaka-khan-2019-03.md) (1) | 
+      [February](./chaka-khan-2019-02.md) (1) | 
+  * 2018: 
+      [April](./chaka-khan-2018-04.md) (1) | 
+  * 2016: 
+      [October](./chaka-khan-2016-10.md) (5) | 
+      [September](./chaka-khan-2016-09.md) (1) | 
+      [April](./chaka-khan-2016-04.md) (1) | 
+  * 2015: 
+      [May](./chaka-khan-2015-05.md) (1) | 
 
 ----
 

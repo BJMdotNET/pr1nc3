@@ -12,7 +12,8 @@
       [October](./carver-county-2016-10.md) (1) | 
       [September](./carver-county-2016-09.md) (1) | 
       [June](./carver-county-2016-06.md) (1) | 
-      [May](./carver-county-2016-05.md) (2) | 
+      [May](./carver-county-2016-05.md) (4) | 
+      [April](./carver-county-2016-04.md) (3) | 
 
 ----
 

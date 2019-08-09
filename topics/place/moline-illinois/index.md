@@ -16,6 +16,10 @@
 
 ----
 
+ - [**"Warrant: Minnesota doctor saw Prince, prescribed drugs"**](https://apnews.com/53b7f73993c649aebb7165d234092956) in [Associated Press News](https://www.apnews.com/) on 11 May 2016 about [Andrew Kornfeld](../../../topics/andrew-kornfeld/index.md), [Atlanta (Place)](../../../topics/place/atlanta/index.md), [Carver County](../../../topics/carver-county/index.md), [Howard Kornfeld](../../../topics/howard-kornfeld/index.md), [Michael Todd Schulenberg](../../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (Place)](../../../topics/place/moline-illinois/index.md), [North Memorial Medical Center (Place)](../../../topics/place/north-memorial-medical-center/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/53b7f73993c649aebb7165d234092956))
+
+----
+
  - [**"Prince’s lawyer: Death a shock; singer led clean lifestyle"**](https://www.apnews.com/18fe9c0f0a124d55a91156e8c1865ab6) by Nekesa Mumbi Moody (Associated Press) in [Associated Press News](https://www.apnews.com/) on 26 April 2016 about [Moline, Illinois (Place)](../../../topics/place/moline-illinois/index.md), [Warner Bros. Records](../../../topics/warner-bros-records/index.md) ([mirror](https://web.archive.org/web/*/https://www.apnews.com/18fe9c0f0a124d55a91156e8c1865ab6))
 
 ----

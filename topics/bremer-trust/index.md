@@ -13,6 +13,8 @@
       [August](./bremer-trust-2016-08.md) (1) | 
       [July](./bremer-trust-2016-07.md) (1) | 
       [June](./bremer-trust-2016-06.md) (3) | 
+      [May](./bremer-trust-2016-05.md) (1) | 
+      [April](./bremer-trust-2016-04.md) (2) | 
 
 ----
 

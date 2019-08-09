@@ -1,38 +1,16 @@
 # Apollonia Kotero
 
- - [**"Prince Never Acted Before 'Purple Rain.' Then He Became a Household Name -- The movie and album would come to help define the 1980s and catapult the performer to global fame."**](https://www.biography.com/news/prince-purple-rain-album-movie) by Colin Bertram in [Biography](https://www.biography.com/) on 25 July 2019 about [Academy Award](../../topics/academy-award/index.md), [Alan Light](../../topics/alan-light/index.md), [Albert Magnoli](../../topics/albert-magnoli/index.md), [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [First Avenue (Place)](../../topics/place/first-avenue/index.md), [I Would Die 4 U (Song)](../../topics/song/i-would-die-4-u/index.md), [Let’s Go Crazy (Song)](../../topics/song/let-s-go-crazy/index.md), [Morris Day](../../topics/morris-day/index.md), [Purple Rain (Album)](../../topics/album/purple-rain/index.md), [Purple Rain (Movie)](../../topics/movie/purple-rain/index.md), [Purple Rain (Song)](../../topics/song/purple-rain/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md), [Vanity](../../topics/vanity/index.md), [When Doves Cry (Song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://www.biography.com/news/prince-purple-rain-album-movie))
-
-----
-
- - [**"'Purple Rain' 35th anniversary: We dive into the Prince cult classic for the first time"**](https://usatoday.com/story/entertainment/movies/2019/07/25/purple-rain-35th-anniversary-does-prince-cult-film-hold-up/1817029001/) by Brian Truitt, Patrick Ryan in [USA Today](https://usatoday.com/) on 25 July 2019 about [Apollonia 6](../../topics/apollonia-6/index.md), [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Purple Rain (Movie)](../../topics/movie/purple-rain/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/entertainment/movies/2019/07/25/purple-rain-35th-anniversary-does-prince-cult-film-hold-up/1817029001/))
-
-----
-
- - [**"Prince’s Unearthed ‘Originals’: Collaborators Look Back on the Hits He Passed Along -- As demos of future classics like “Manic Monday” and Nothing Compares 2 U” finally see official release, Apollonia, the Bangles’ Susanna Hoffs, and others recall the artist’s “otherworldly” songwriting talents"**](https://www.rollingstone.com/music/music-features/prince-originals-interview-842940/) by Kory Grow in [Rolling Stone](https://www.rollingstone.com/) on 24 June 2019 about [Apollonia 6](../../topics/apollonia-6/index.md), [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Bangles](../../topics/bangles/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Manic Monday (Song)](../../topics/song/manic-monday/index.md), [Martika](../../topics/martika/index.md), [Mazarati](../../topics/mazarati/index.md), [Nasty Girl (Song)](../../topics/song/nasty-girl/index.md), [Nothing Compares 2 U (Song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (Album)](../../topics/album/originals/index.md), [Peggy McCreary](../../topics/peggy-mccreary/index.md), [Sex Shooter (Song)](../../topics/song/sex-shooter/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Sunset Sound (Place)](../../topics/place/sunset-sound/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [The Family](../../topics/the-family/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [The Time](../../topics/the-time/index.md), [Troy Carter](../../topics/troy-carter/index.md), [Vanity 6](../../topics/vanity-6/index.md) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/prince-originals-interview-842940/))
-
-----
-
- - [**"Remembering when Prince wrote that song for you"**](http://www.startribune.com/remembering-when-prince-wrote-that-song-for-you/510818462/) by Mesfin Fekadu (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 4 June 2019 about [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Bangles](../../topics/bangles/index.md), [Originals (Album)](../../topics/album/originals/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/remembering-when-prince-wrote-that-song-for-you/510818462/))
-
-----
-
- - [**"Foundation of Prince’s second wife to honor him at gala"**](https://www.apnews.com/16e91a0add574df1b24e5df54dfbc087) by Leanne Italie (Associated Press) in [Associated Press News](https://www.apnews.com/) on 1 March 2019 about [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [In a Perfect World](../../topics/in-a-perfect-world/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md) ([mirror](https://web.archive.org/web/*/https://www.apnews.com/16e91a0add574df1b24e5df54dfbc087))
-
-----
-
- - [**"'Purple Rain': THR's 1984 Review"**](https://www.hollywoodreporter.com/review/purple-rain-review-1984-movie-1024852) in [The Hollywood Reporter](https://www.hollywoodreporter.com/) on 27 July 2017 about [Albert Magnoli](../../topics/albert-magnoli/index.md), [Anne McCulley](../../topics/anne-mcculley/index.md), [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Donald L. Thorin](../../topics/donald-l-thorin/index.md), [Jerome Benton](../../topics/jerome-benton/index.md), [Ken Robinson](../../topics/ken-robinson/index.md), [Morris Day](../../topics/morris-day/index.md), [Purple Rain (Movie)](../../topics/movie/purple-rain/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md), [William Blinn](../../topics/william-blinn/index.md) ([mirror](https://web.archive.org/web/*/https://www.hollywoodreporter.com/review/purple-rain-review-1984-movie-1024852))
-
-----
-
- - [**"Apollonia: Vanity was and ‘inspiration’"**](https://www.apnews.com/849a2025be574b07b857e30d16295024) by Jesse J. Holland (Associated Press) in [Associated Press News](https://www.apnews.com/) on 18 February 2016 about [Apollonia 6](../../topics/apollonia-6/index.md), [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Denise Matthews](../../topics/denise-matthews/index.md), [Purple Rain (Movie)](../../topics/movie/purple-rain/index.md), [Sex Shooter (Song)](../../topics/song/sex-shooter/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md) ([mirror](https://web.archive.org/web/*/https://www.apnews.com/849a2025be574b07b857e30d16295024))
-
-----
-
- - [**"Apollonia: Vanity was and 'inspiration'"**](http://www.startribune.com/apollonia-vanity-was-and-inspiration/369204001/) by Jesse J. Holland (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 17 February 2016 about [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Vanity](../../topics/vanity/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/apollonia-vanity-was-and-inspiration/369204001/))
-
-----
-
- - [**"Apollonia shares her near-death experience on the set of Purple Rain"**](https://blog.thecurrent.org/2014/07/apollonia-shares-her-near-death-experience-on-the-set-of-purple-rain/) by Andrea Swensson in [The Current](https://blog.thecurrent.org/) on 28 July 2014 about [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Cavallo, Ruffalo, and Fargnoli](../../topics/cavallo-ruffalo-and-fargnoli/index.md), [First Avenue (Place)](../../topics/place/first-avenue/index.md), [Lake Minnetonka (Place)](../../topics/place/lake-minnetonka/index.md), [Morris Day](../../topics/morris-day/index.md), [Purple Rain (Movie)](../../topics/movie/purple-rain/index.md) ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2014/07/apollonia-shares-her-near-death-experience-on-the-set-of-purple-rain/))
+  * 2019: 
+      [July](./apollonia-kotero-2019-07.md) (2) | 
+      [June](./apollonia-kotero-2019-06.md) (3) | 
+      [March](./apollonia-kotero-2019-03.md) (1) | 
+  * 2017: 
+      [July](./apollonia-kotero-2017-07.md) (1) | 
+  * 2016: 
+      [April](./apollonia-kotero-2016-04.md) (1) | 
+      [February](./apollonia-kotero-2016-02.md) (2) | 
+  * 2014: 
+      [July](./apollonia-kotero-2014-07.md) (1) | 
 
 ----
 

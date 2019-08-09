@@ -6,6 +6,7 @@
       [April](./sheila-e-2019-04.md) (5) | 
       [March](./sheila-e-2019-03.md) (1) | 
   * 2018: 
+      [August](./sheila-e-2018-08.md) (1) | 
       [April](./sheila-e-2018-04.md) (1) | 
       [February](./sheila-e-2018-02.md) (1) | 
   * 2017: 

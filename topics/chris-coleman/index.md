@@ -4,7 +4,15 @@
 
 ----
 
+ - [**"The Latest: Wonder, Khan wow crowd at Prince tribute show"**](https://www.apnews.com/2ff2f0434f8944fdb42e5cb8b88b2b91) in [Associated Press News](https://www.apnews.com/) on 14 October 2016 about [Anita Baker](../../topics/anita-baker/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Chris Coleman](../../topics/chris-coleman/index.md), [Christina Aguilera](../../topics/christina-aguilera/index.md), [Doug E. Fresh](../../topics/doug-e-fresh/index.md), [Jessie J](../../topics/jessie-j/index.md), [John Mayer](../../topics/john-mayer/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Prince Day](../../topics/prince-day/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [The Time](../../topics/the-time/index.md), [Tori Kelly](../../topics/tori-kelly/index.md), [Xcel Energy Center (Place)](../../topics/place/xcel-energy-center/index.md) ([mirror](https://web.archive.org/web/*/https://www.apnews.com/2ff2f0434f8944fdb42e5cb8b88b2b91))
+
+----
+
  - [**"Wonder, Khan wow crowd at Prince tribute show"**](https://www.apnews.com/0f0e837095fd4116aaaffee4cf83329b) in [Associated Press News](https://www.apnews.com/) on 14 October 2016 about [Anita Baker](../../topics/anita-baker/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Chris Coleman](../../topics/chris-coleman/index.md), [Christina Aguilera](../../topics/christina-aguilera/index.md), [Doug E. Fresh](../../topics/doug-e-fresh/index.md), [I Feel For You (Song)](../../topics/song/i-feel-for-you/index.md), [Jessie J](../../topics/jessie-j/index.md), [John Mayer](../../topics/john-mayer/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Prince Day](../../topics/prince-day/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Tori Kelly](../../topics/tori-kelly/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Xcel Energy Center (Place)](../../topics/place/xcel-energy-center/index.md) ([mirror](https://web.archive.org/web/*/https://www.apnews.com/0f0e837095fd4116aaaffee4cf83329b))
+
+----
+
+ - [**"‘He was family’: Music star Prince stayed home in Minnesota"**](https://www.apnews.com/00078308adec4acdbf4aa8e5fe8f8729) in [Associated Press News](https://www.apnews.com/) on 24 April 2016 about [Carver County](../../topics/carver-county/index.md), [Chris Coleman](../../topics/chris-coleman/index.md), [Electric Fetus (Place)](../../topics/place/electric-fetus/index.md), [First Avenue (Place)](../../topics/place/first-avenue/index.md) ([mirror](https://web.archive.org/web/*/https://www.apnews.com/00078308adec4acdbf4aa8e5fe8f8729))
 
 ----
 

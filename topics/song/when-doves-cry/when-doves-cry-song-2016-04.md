@@ -8,6 +8,10 @@
 
 ----
 
+ - [**"Pop superstar Prince dies at his Minnesota home at age 57"**](https://www.apnews.com/b9e3df0421a04344835cd4fac7680c24) in [Associated Press News](https://www.apnews.com/) on 22 April 2016 about [memoir](../../../topics/memoir/index.md), [Morris Day](../../../topics/morris-day/index.md), [Nothing Compares 2 U (Song)](../../../topics/song/nothing-compares-2-u/index.md), [Obama](../../../topics/obama/index.md), [When Doves Cry (Song)](../../../topics/song/when-doves-cry/index.md), [White House (Place)](../../../topics/place/white-house/index.md) ([mirror](https://web.archive.org/web/*/https://www.apnews.com/b9e3df0421a04344835cd4fac7680c24))
+
+----
+
  - [**"Prince: More Important Than POTUS"**](https://www.prnewswire.com/news-releases/prince-more-important-than-potus-300255767.html) in [PR Newswire](https://www.prnewswire.com/) on 21 April 2016 about [Little Red Corvette (Song)](../../../topics/song/little-red-corvette/index.md), [Purple Rain (Song)](../../../topics/song/purple-rain/index.md), [When Doves Cry (Song)](../../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/prince-more-important-than-potus-300255767.html))
 
 ----

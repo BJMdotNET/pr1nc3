@@ -18,7 +18,8 @@
       [September](./tyka-nelson-2016-09.md) (1) | 
       [August](./tyka-nelson-2016-08.md) (1) | 
       [June](./tyka-nelson-2016-06.md) (1) | 
-      [May](./tyka-nelson-2016-05.md) (2) | 
+      [May](./tyka-nelson-2016-05.md) (4) | 
+      [April](./tyka-nelson-2016-04.md) (3) | 
 
 ----
 

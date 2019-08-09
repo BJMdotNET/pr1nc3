@@ -12,7 +12,7 @@
       [March](./mayte-2017-03.md) (2) | 
       [January](./mayte-2017-01.md) (1) | 
   * 2016: 
-      [October](./mayte-2016-10.md) (4) | 
+      [October](./mayte-2016-10.md) (5) | 
       [September](./mayte-2016-09.md) (1) | 
       [July](./mayte-2016-07.md) (1) | 
       [June](./mayte-2016-06.md) (2) | 

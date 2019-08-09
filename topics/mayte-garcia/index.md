@@ -11,7 +11,7 @@
       [March](./mayte-garcia-2017-03.md) (1) | 
       [January](./mayte-garcia-2017-01.md) (1) | 
   * 2016: 
-      [October](./mayte-garcia-2016-10.md) (4) | 
+      [October](./mayte-garcia-2016-10.md) (5) | 
       [September](./mayte-garcia-2016-09.md) (1) | 
       [July](./mayte-garcia-2016-07.md) (1) | 
       [June](./mayte-garcia-2016-06.md) (2) | 

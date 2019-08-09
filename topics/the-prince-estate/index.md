@@ -9,9 +9,9 @@
       [February](./the-prince-estate-2019-02.md) (1) | 
   * 2018: 
       [December](./the-prince-estate-2018-12.md) (1) | 
-      [November](./the-prince-estate-2018-11.md) (1) | 
+      [November](./the-prince-estate-2018-11.md) (2) | 
       [October](./the-prince-estate-2018-10.md) (1) | 
-      [September](./the-prince-estate-2018-09.md) (1) | 
+      [September](./the-prince-estate-2018-09.md) (2) | 
       [August](./the-prince-estate-2018-08.md) (3) | 
       [July](./the-prince-estate-2018-07.md) (1) | 
       [June](./the-prince-estate-2018-06.md) (3) | 
@@ -21,6 +21,7 @@
   * 2016: 
       [October](./the-prince-estate-2016-10.md) (2) | 
       [June](./the-prince-estate-2016-06.md) (1) | 
+      [May](./the-prince-estate-2016-05.md) (1) | 
 
 ----
 
