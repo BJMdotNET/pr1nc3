@@ -4,6 +4,14 @@
 
 ----
 
+ - [**"Judge: Sound engineer can’t publish unreleased Prince tracks"**](https://apnews.com/28f8d4317b3b43219621f58a3252addb) in [Associated Press News](https://apnews.com/) on 23 May 2017 about [Deliverance (EP)](../../../topics/ep/deliverance/index.md), [Deliverance (Song)](../../../topics/song/deliverance/index.md), [Paisley Park Enterprises](../../../topics/paisley-park-enterprises/index.md), [trademark](../../../topics/trademark/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/28f8d4317b3b43219621f58a3252addb))
+
+----
+
+ - [**"Judge blocks sound engineer’s release of Prince EP"**](https://apnews.com/194582ccc441427d9c3b8b644ac5dcc0) in [Associated Press News](https://apnews.com/) on 20 April 2017 about [Deliverance (EP)](../../../topics/ep/deliverance/index.md), [Deliverance (Song)](../../../topics/song/deliverance/index.md), [Paisley Park Enterprises](../../../topics/paisley-park-enterprises/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/194582ccc441427d9c3b8b644ac5dcc0))
+
+----
+
  - [**"New Undiscovered Prince Recordings To Be Released This Friday With "DELIVERANCE" EP -- THE TITLE TRACK, "DELIVERANCE," IS AVAILABLE NOW ON ITUNES AND APPLE MUSIC"**](https://www.prnewswire.com/news-releases/new-undiscovered-prince-recordings-to-be-released-this-friday-with-deliverance-ep-300441519.html) in [PR Newswire](https://www.prnewswire.com/) on 18 April 2017 about [Deliverance (EP)](../../../topics/ep/deliverance/index.md), [Deliverance (Song)](../../../topics/song/deliverance/index.md) ([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/new-undiscovered-prince-recordings-to-be-released-this-friday-with-deliverance-ep-300441519.html))
 
 ----

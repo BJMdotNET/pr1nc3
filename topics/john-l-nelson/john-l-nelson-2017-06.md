@@ -1,0 +1,15 @@
+# John L. Nelson: June 2017
+
+ - [**"Song from Prince’s father being released on his 101st b’day"**](https://apnews.com/229ffc268c5e4b1ca1eef644539b5247) in [Associated Press News](https://apnews.com/) on 29 June 2017 about [Alfred Jackson](../../topics/alfred-jackson/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [John Nelson](../../topics/john-nelson/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/229ffc268c5e4b1ca1eef644539b5247))
+
+----
+
+ - [**"Song from Prince's father being released on his 101st b'day"**](http://www.startribune.com/song-from-prince-s-father-being-released-on-his-101th-b-day/431373963/) by Mesfin Fekadu (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 28 June 2017 about [John L. Nelson](../../topics/john-l-nelson/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/song-from-prince-s-father-being-released-on-his-101th-b-day/431373963/))
+
+----
+
+ - [**"Exclusive Preview: Prince’s ‘Purple Rain’ Deluxe Edition, With Previously Unreleased Tracks"**](https://variety.com/2017/film/news/prince-purple-rain-deluxe-edition-exclusive-preview-1202463200/) by Jem Aswad in [Variety](https://variety.com/) on 13 June 2017 about [17 Days (Song)](../../topics/song/17-days/index.md), [Around The World In A Day (Album)](../../topics/album/around-the-world-in-a-day/index.md), [Computer Blue (Song)](../../topics/song/computer-blue/index.md), [Erotic City (Song)](../../topics/song/erotic-city/index.md), [I Would Die 4 U (Song)](../../topics/song/i-would-die-4-u/index.md), [James Brown](../../topics/james-brown/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [Katrina’s Paper Dolls (Song)](../../topics/song/katrina-s-paper-dolls/index.md), [Let’s Go Crazy (Song)](../../topics/song/let-s-go-crazy/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Love and Sex (Song)](../../topics/song/love-and-sex/index.md), [Our Destiny (Song)](../../topics/song/our-destiny/index.md), [Possessed (Song)](../../topics/song/possessed/index.md), [Purple Rain (Album)](../../topics/album/purple-rain/index.md), [Purple Rain (Song)](../../topics/song/purple-rain/index.md), [Roadhouse Garden (Song)](../../topics/song/roadhouse-garden/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Beautiful Ones (Song)](../../topics/song/the-beautiful-ones/index.md), [The Dance Electric (Song)](../../topics/song/the-dance-electric/index.md), [Velvet Kitty Cat (Song)](../../topics/song/velvet-kitty-cat/index.md), [When Doves Cry (Song)](../../topics/song/when-doves-cry/index.md), [Wonderful Ass (Song)](../../topics/song/wonderful-ass/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2017/film/news/prince-purple-rain-deluxe-edition-exclusive-preview-1202463200/))
+
+----
+
+[Home](./)

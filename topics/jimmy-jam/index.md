@@ -16,6 +16,14 @@
 
 ----
 
+ - [**"Prince is gone, but his spirit lives at Minnesota Super Bowl"**](https://apnews.com/760ec69e7a2e430a9879834f5f2eae63) in [Associated Press News](https://apnews.com/) on 2 February 2018 about [First Avenue (Place)](../../topics/place/first-avenue/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Hayes](../../topics/morris-hayes/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Revolution](../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/760ec69e7a2e430a9879834f5f2eae63))
+
+----
+
+ - [**"Embrace the Bold North in Minneapolis for Super Bowl"**](https://apnews.com/5ddc01f147644c79820a62b065eb5efb) in [Associated Press News](https://apnews.com/) on 17 January 2018 about [First Avenue (Place)](../../topics/place/first-avenue/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [Xcel Energy Center (Place)](../../topics/place/xcel-energy-center/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/5ddc01f147644c79820a62b065eb5efb))
+
+----
+
  - [**"Hornheads jazz group creates unique sound -- The five-piece a cappella horn section records and plays all over the globe."**](http://www.startribune.com/hornheads-jazz-group-creates-unique-sound/302567351/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 May 2015 about [Chaka Khan](../../topics/chaka-khan/index.md), [Dave Jensen](../../topics/dave-jensen/index.md), [Everything Blows (Album)](../../topics/album/everything-blows/index.md), [Hornheads](../../topics/hornheads/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Kathy Jensen](../../topics/kathy-jensen/index.md), [Kenni Holmen](../../topics/kenni-holmen/index.md), [Michael Nelson](../../topics/michael-nelson/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Steve Strand](../../topics/steve-strand/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/hornheads-jazz-group-creates-unique-sound/302567351/))
 
 ----

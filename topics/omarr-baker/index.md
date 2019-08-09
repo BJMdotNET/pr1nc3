@@ -4,7 +4,9 @@
       [October](./omarr-baker-2018-10.md) (2) | 
       [September](./omarr-baker-2018-09.md) (1) | 
       [May](./omarr-baker-2018-05.md) (1) | 
+      [April](./omarr-baker-2018-04.md) (1) | 
   * 2017: 
+      [October](./omarr-baker-2017-10.md) (1) | 
       [June](./omarr-baker-2017-06.md) (1) | 
       [May](./omarr-baker-2017-05.md) (2) | 
       [April](./omarr-baker-2017-04.md) (2) | 

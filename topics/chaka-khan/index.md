@@ -6,9 +6,10 @@
   * 2018: 
       [April](./chaka-khan-2018-04.md) (1) | 
   * 2016: 
+      [December](./chaka-khan-2016-12.md) (1) | 
       [October](./chaka-khan-2016-10.md) (5) | 
-      [September](./chaka-khan-2016-09.md) (1) | 
-      [April](./chaka-khan-2016-04.md) (1) | 
+      [September](./chaka-khan-2016-09.md) (2) | 
+      [April](./chaka-khan-2016-04.md) (2) | 
   * 2015: 
       [May](./chaka-khan-2015-05.md) (1) | 
 

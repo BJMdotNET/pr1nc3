@@ -1,5 +1,9 @@
 # Associated Press News: April 2017
 
+ - [**"‘Purple Rain’ re-issue to feature unreleased Prince songs"**](https://apnews.com/495f034e59ad4375a854c5476852d886) in [Associated Press News](https://apnews.com/) on 28 April 2017 about [NPG Records](../../topics/npg-records/index.md), [The Revolution](../../topics/the-revolution/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/495f034e59ad4375a854c5476852d886))
+
+----
+
  - [**"Prince’s ex-wife Mayte Garcia pays tribute to late star"**](https://apnews.com/f7d92f7f16cd4330912e7a1674f4c8e7) in [Associated Press News](https://apnews.com/) on 22 April 2017 about [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/f7d92f7f16cd4330912e7a1674f4c8e7))
 
 ----
@@ -12,11 +16,15 @@
 
 ----
 
- - [**"Judge blocks sound engineer’s release of Prince EP"**](https://apnews.com/194582ccc441427d9c3b8b644ac5dcc0) in [Associated Press News](https://apnews.com/) on 20 April 2017 ([mirror](https://web.archive.org/web/*/https://apnews.com/194582ccc441427d9c3b8b644ac5dcc0))
+ - [**"Judge blocks sound engineer’s release of Prince EP"**](https://apnews.com/194582ccc441427d9c3b8b644ac5dcc0) in [Associated Press News](https://apnews.com/) on 20 April 2017 about [Deliverance (EP)](../../topics/ep/deliverance/index.md), [Deliverance (Song)](../../topics/song/deliverance/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/194582ccc441427d9c3b8b644ac5dcc0))
 
 ----
 
- - [**"Affidavit: Doc prescribed Prince opioids under friend’s name"**](https://apnews.com/af6ad628c59f4c7fb7351908c72f4c23) in [Associated Press News](https://apnews.com/) on 18 April 2017 ([mirror](https://web.archive.org/web/*/https://apnews.com/af6ad628c59f4c7fb7351908c72f4c23))
+ - [**"Affidavit: Doc prescribed Prince opioids under friend’s name"**](https://apnews.com/af6ad628c59f4c7fb7351908c72f4c23) in [Associated Press News](https://apnews.com/) on 18 April 2017 about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [oxycodone](../../topics/oxycodone/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/af6ad628c59f4c7fb7351908c72f4c23))
+
+----
+
+ - [**"Documents highlight Prince’s struggle with opioid addiction"**](https://apnews.com/6309636fb0d84b968b1bfe720c289961) in [Associated Press News](https://apnews.com/) on 18 April 2017 about [fentanyl](../../topics/fentanyl/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [oxycodone](../../topics/oxycodone/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/6309636fb0d84b968b1bfe720c289961))
 
 ----
 
@@ -24,7 +32,7 @@
 
 ----
 
- - [**"The Latest: Doctor disputes prescribing opioids for Prince"**](https://apnews.com/d72d2ba9032e45debb8ac8700dc24e84) in [Associated Press News](https://apnews.com/) on 17 April 2017 ([mirror](https://web.archive.org/web/*/https://apnews.com/d72d2ba9032e45debb8ac8700dc24e84))
+ - [**"The Latest: Doctor disputes prescribing opioids for Prince"**](https://apnews.com/d72d2ba9032e45debb8ac8700dc24e84) in [Associated Press News](https://apnews.com/) on 17 April 2017 about [fentanyl](../../topics/fentanyl/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/d72d2ba9032e45debb8ac8700dc24e84))
 
 ----
 

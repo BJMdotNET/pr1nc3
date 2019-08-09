@@ -1,18 +1,14 @@
 # Atlanta (Place)
 
- - [**"Prince Remembered by Three Key Women in His Life"**](https://variety.com/2019/music/news/prince-birthday-remembered-by-three-key-women-originals-1203235532/) by Jem Aswad in [Variety](https://variety.com/) on 7 June 2019 about [Apollonia 6](../../../topics/apollonia-6/index.md), [Atlanta (Place)](../../../topics/place/atlanta/index.md), [Colleen (Song)](../../../topics/song/colleen/index.md), [Cynthia Rose](../../../topics/cynthia-rose/index.md), [Jamie Starr](../../../topics/jamie-starr/index.md), [Jill Jones](../../../topics/jill-jones/index.md), [Lisa Coleman](../../../topics/lisa-coleman/index.md), [Manic Monday (Song)](../../../topics/song/manic-monday/index.md), [Mazarati](../../../topics/mazarati/index.md), [Moline, Illinois (Place)](../../../topics/place/moline-illinois/index.md), [Nothing Compares 2 U (Song)](../../../topics/song/nothing-compares-2-u/index.md), [Originals (Album)](../../../topics/album/originals/index.md), [Peggy McCreary](../../../topics/peggy-mccreary/index.md), [Quincy Jones](../../../topics/quincy-jones/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [Starfish And Coffee (Song)](../../../topics/song/starfish-and-coffee/index.md), [Susan Rogers](../../../topics/susan-rogers/index.md), [Susannah Melvoin](../../../topics/susannah-melvoin/index.md), [Vanity](../../../topics/vanity/index.md), [Vanity 6](../../../topics/vanity-6/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/news/prince-birthday-remembered-by-three-key-women-originals-1203235532/))
-
-----
-
- - [**"Documents: Airplane scare was beginning of the end of Prince's struggles with opioids -- Long-awaited investigative documents released Thursday give the clearest narrative yet of the singer's problems with opioid addiction in his final days."**](http://www.startribune.com/documents-airplane-scare-was-beginning-of-the-end-of-prince-s-struggles-with-opioids/480325903/) by Dan Browning, David Chanen in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 April 2018 about [3rdEyeGirl](../../../topics/3rdeyegirl/index.md), [Andrew Kornfeld](../../../topics/andrew-kornfeld/index.md), [Atlanta (Place)](../../../topics/place/atlanta/index.md), [fentanyl](../../../topics/fentanyl/index.md), [Howard Kornfeld](../../../topics/howard-kornfeld/index.md), [Judith Hill](../../../topics/judith-hill/index.md), [Kirk Johnson](../../../topics/kirk-johnson/index.md), [Manuela Testolini](../../../topics/manuela-testolini/index.md), [Meron Bekure](../../../topics/meron-bekure/index.md), [Vicodin](../../../topics/vicodin/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/documents-airplane-scare-was-beginning-of-the-end-of-prince-s-struggles-with-opioids/480325903/))
-
-----
-
- - [**"Files show rising alarm in Prince’s circle as health failed"**](https://apnews.com/01ab0aaba1ab4e719af50e79319afdfb) by Amy Forliti (Associated Press) in [Associated Press News](https://apnews.com/) on 20 April 2018 about [Andrew Kornfeld](../../../topics/andrew-kornfeld/index.md), [Atlanta (Place)](../../../topics/place/atlanta/index.md), [Carver County](../../../topics/carver-county/index.md), [fentanyl](../../../topics/fentanyl/index.md), [Howard Kornfeld](../../../topics/howard-kornfeld/index.md), [Kirk Johnson](../../../topics/kirk-johnson/index.md), [Mark Metz](../../../topics/mark-metz/index.md), [Meron Bekure](../../../topics/meron-bekure/index.md), [Michael Todd Schulenberg](../../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (Place)](../../../topics/place/moline-illinois/index.md), [oxycodone](../../../topics/oxycodone/index.md), [toxicology report](../../../topics/toxicology-report/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/01ab0aaba1ab4e719af50e79319afdfb))
-
-----
-
- - [**"Warrant: Minnesota doctor saw Prince, prescribed drugs"**](https://apnews.com/53b7f73993c649aebb7165d234092956) in [Associated Press News](https://apnews.com/) on 11 May 2016 about [Andrew Kornfeld](../../../topics/andrew-kornfeld/index.md), [Atlanta (Place)](../../../topics/place/atlanta/index.md), [Carver County](../../../topics/carver-county/index.md), [Howard Kornfeld](../../../topics/howard-kornfeld/index.md), [Michael Todd Schulenberg](../../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (Place)](../../../topics/place/moline-illinois/index.md), [North Memorial Medical Center (Place)](../../../topics/place/north-memorial-medical-center/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/53b7f73993c649aebb7165d234092956))
+  * 2019: 
+      [June](./atlanta-place-2019-06.md) (1) | 
+  * 2018: 
+      [April](./atlanta-place-2018-04.md) (3) | 
+  * 2016: 
+      [October](./atlanta-place-2016-10.md) (1) | 
+      [August](./atlanta-place-2016-08.md) (1) | 
+      [May](./atlanta-place-2016-05.md) (3) | 
+      [April](./atlanta-place-2016-04.md) (4) | 
 
 ----
 

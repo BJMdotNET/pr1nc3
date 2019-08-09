@@ -9,7 +9,7 @@
       [July](./nothing-compares-2-u-song-2018-07.md) (1) | 
       [April](./nothing-compares-2-u-song-2018-04.md) (1) | 
   * 2016: 
-      [April](./nothing-compares-2-u-song-2016-04.md) (2) | 
+      [April](./nothing-compares-2-u-song-2016-04.md) (4) | 
 
 ----
 

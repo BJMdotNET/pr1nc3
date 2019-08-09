@@ -1,26 +1,12 @@
 # Howard Kornfeld
 
- - [**"Investigation says Prince was isolated, addicted and in pain"**](https://apnews.com/94806d16569541d98032ce2b2f82aa6a) by Amy Forliti (Associated Press) in [Associated Press News](https://apnews.com/) on 21 April 2018 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [fentanyl](../../topics/fentanyl/index.md), [Hannah Welton](../../topics/hannah-welton/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Joshua Welton](../../topics/joshua-welton/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Mark Metz](../../topics/mark-metz/index.md), [Meron Bekure](../../topics/meron-bekure/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (Place)](../../topics/place/moline-illinois/index.md), [oxycodone](../../topics/oxycodone/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Vicodin](../../topics/vicodin/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/94806d16569541d98032ce2b2f82aa6a))
-
-----
-
- - [**"As Prince's health waned, alarm grew in inner circle"**](http://www.startribune.com/as-prince-s-health-waned-alarm-grew-in-inner-circle/480336433/) by Amy Forliti (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 April 2018 about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [fentanyl](../../topics/fentanyl/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Mark Metz](../../topics/mark-metz/index.md), [Meron Bekure](../../topics/meron-bekure/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (Place)](../../topics/place/moline-illinois/index.md), [oxycodone](../../topics/oxycodone/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/as-prince-s-health-waned-alarm-grew-in-inner-circle/480336433/))
-
-----
-
- - [**"Documents: Airplane scare was beginning of the end of Prince's struggles with opioids -- Long-awaited investigative documents released Thursday give the clearest narrative yet of the singer's problems with opioid addiction in his final days."**](http://www.startribune.com/documents-airplane-scare-was-beginning-of-the-end-of-prince-s-struggles-with-opioids/480325903/) by Dan Browning, David Chanen in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 April 2018 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Atlanta (Place)](../../topics/place/atlanta/index.md), [fentanyl](../../topics/fentanyl/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Meron Bekure](../../topics/meron-bekure/index.md), [Vicodin](../../topics/vicodin/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/documents-airplane-scare-was-beginning-of-the-end-of-prince-s-struggles-with-opioids/480325903/))
-
-----
-
- - [**"Files show rising alarm in Prince’s circle as health failed"**](https://apnews.com/01ab0aaba1ab4e719af50e79319afdfb) by Amy Forliti (Associated Press) in [Associated Press News](https://apnews.com/) on 20 April 2018 about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Atlanta (Place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Mark Metz](../../topics/mark-metz/index.md), [Meron Bekure](../../topics/meron-bekure/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (Place)](../../topics/place/moline-illinois/index.md), [oxycodone](../../topics/oxycodone/index.md), [toxicology report](../../topics/toxicology-report/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/01ab0aaba1ab4e719af50e79319afdfb))
-
-----
-
- - [**"Questions linger about Prince’s choice of local doctor"**](https://apnews.com/270a7bd6fd104e909002bc2f6af592e2) in [Associated Press News](https://apnews.com/) on 12 May 2016 about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Carver County](../../topics/carver-county/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [North Memorial Medical Center (Place)](../../topics/place/north-memorial-medical-center/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/270a7bd6fd104e909002bc2f6af592e2))
-
-----
-
- - [**"Warrant: Minnesota doctor saw Prince, prescribed drugs"**](https://apnews.com/53b7f73993c649aebb7165d234092956) in [Associated Press News](https://apnews.com/) on 11 May 2016 about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Atlanta (Place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (Place)](../../topics/place/moline-illinois/index.md), [North Memorial Medical Center (Place)](../../topics/place/north-memorial-medical-center/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/53b7f73993c649aebb7165d234092956))
+  * 2018: 
+      [April](./howard-kornfeld-2018-04.md) (6) | 
+  * 2017: 
+      [April](./howard-kornfeld-2017-04.md) (1) | 
+  * 2016: 
+      [June](./howard-kornfeld-2016-06.md) (1) | 
+      [May](./howard-kornfeld-2016-05.md) (6) | 
 
 ----
 

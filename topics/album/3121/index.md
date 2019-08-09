@@ -28,4 +28,8 @@
 
 ----
 
+ - [**"Latest: Publicist: SNL devotes show to Prince tribute"**](https://apnews.com/b57342f2b68447639ef7589c0caa9ee8) in [Associated Press News](https://apnews.com/) on 24 April 2016 about [3121 (Album)](../../../topics/album/3121/index.md), [Carver County](../../../topics/carver-county/index.md), [First Avenue (Place)](../../../topics/place/first-avenue/index.md), [Larry Graham](../../../topics/larry-graham/index.md), [Minnesota History Center](../../../topics/minnesota-history-center/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [Tyka Nelson](../../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/b57342f2b68447639ef7589c0caa9ee8))
+
+----
+
 [Home](../)

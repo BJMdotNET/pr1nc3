@@ -6,13 +6,15 @@
       [April](./morris-day-2019-04.md) (1) | 
   * 2018: 
       [December](./morris-day-2018-12.md) (1) | 
+      [February](./morris-day-2018-02.md) (1) | 
   * 2017: 
       [July](./morris-day-2017-07.md) (1) | 
   * 2016: 
-      [November](./morris-day-2016-11.md) (1) | 
+      [November](./morris-day-2016-11.md) (2) | 
       [October](./morris-day-2016-10.md) (1) | 
+      [September](./morris-day-2016-09.md) (1) | 
       [July](./morris-day-2016-07.md) (1) | 
-      [April](./morris-day-2016-04.md) (2) | 
+      [April](./morris-day-2016-04.md) (3) | 
       [January](./morris-day-2016-01.md) (1) | 
   * 2014: 
       [July](./morris-day-2014-07.md) (1) | 

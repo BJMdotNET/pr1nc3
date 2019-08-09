@@ -4,7 +4,19 @@
 
 ----
 
+ - [**"APNewsBreak: Investigators look at overdose in Prince death"**](https://apnews.com/744a34089a8241df95a836b358741ace) in [Associated Press News](https://apnews.com/) on 29 April 2016 about [Atlanta (Place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Sheila E.](../../topics/sheila-e/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/744a34089a8241df95a836b358741ace))
+
+----
+
  - [**"Fans’ Holy Grail: unreleased songs in Prince’s vault"**](https://apnews.com/73b9ba74daa4423bb36ac62d4655a71b) in [Associated Press News](https://apnews.com/) on 29 April 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/73b9ba74daa4423bb36ac62d4655a71b))
+
+----
+
+ - [**"Prince death investigation focuses on flight, drugs, doctor"**](https://apnews.com/175b0bd7f6f641b1b9b90b268bb3375e) in [Associated Press News](https://apnews.com/) on 29 April 2016 about [Atlanta (Place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Moline, Illinois (Place)](../../topics/place/moline-illinois/index.md), [Sheila E.](../../topics/sheila-e/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/175b0bd7f6f641b1b9b90b268bb3375e))
+
+----
+
+ - [**"The Latest: Investigators consider overdose in Prince death"**](https://apnews.com/0e807ab72bc349cf9d3c7e938ba80fbf) in [Associated Press News](https://apnews.com/) on 29 April 2016 about [Carver County](../../topics/carver-county/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/0e807ab72bc349cf9d3c7e938ba80fbf))
 
 ----
 
@@ -12,7 +24,7 @@
 
 ----
 
- - [**"Prince’s sister says musician had no known will"**](https://apnews.com/b7bcc90e42904f679c07158bf5e851a3) in [Associated Press News](https://apnews.com/) on 27 April 2016 ([mirror](https://web.archive.org/web/*/https://apnews.com/b7bcc90e42904f679c07158bf5e851a3))
+ - [**"Prince’s sister says musician had no known will"**](https://apnews.com/b7bcc90e42904f679c07158bf5e851a3) in [Associated Press News](https://apnews.com/) on 27 April 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [First Avenue (Place)](../../topics/place/first-avenue/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/b7bcc90e42904f679c07158bf5e851a3))
 
 ----
 
@@ -20,7 +32,7 @@
 
 ----
 
- - [**"Prince was a one-man band and a friend to many others"**](https://apnews.com/508256962cd942f3bc61e1cc034900ad) in [Associated Press News](https://apnews.com/) on 25 April 2016 ([mirror](https://web.archive.org/web/*/https://apnews.com/508256962cd942f3bc61e1cc034900ad))
+ - [**"Prince was a one-man band and a friend to many others"**](https://apnews.com/508256962cd942f3bc61e1cc034900ad) in [Associated Press News](https://apnews.com/) on 25 April 2016 about [Bangles](../../topics/bangles/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Esperanza Spalding](../../topics/esperanza-spalding/index.md), [Grammy Award](../../topics/grammy-award/index.md), [I Feel For You (Song)](../../topics/song/i-feel-for-you/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Little Red Corvette (Song)](../../topics/song/little-red-corvette/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Manic Monday (Song)](../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (Song)](../../topics/song/nothing-compares-2-u/index.md), [Rita Ora](../../topics/rita-ora/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Sunset Sound (Place)](../../topics/place/sunset-sound/index.md), [YouTube](../../topics/youtube/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/508256962cd942f3bc61e1cc034900ad))
 
 ----
 
@@ -28,15 +40,23 @@
 
 ----
 
- - [**"Latest: Publicist: SNL devotes show to Prince tribute"**](https://apnews.com/b57342f2b68447639ef7589c0caa9ee8) in [Associated Press News](https://apnews.com/) on 24 April 2016 ([mirror](https://web.archive.org/web/*/https://apnews.com/b57342f2b68447639ef7589c0caa9ee8))
+ - [**"Latest: Publicist: SNL devotes show to Prince tribute"**](https://apnews.com/b57342f2b68447639ef7589c0caa9ee8) in [Associated Press News](https://apnews.com/) on 24 April 2016 about [3121 (Album)](../../topics/album/3121/index.md), [Carver County](../../topics/carver-county/index.md), [First Avenue (Place)](../../topics/place/first-avenue/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Minnesota History Center](../../topics/minnesota-history-center/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/b57342f2b68447639ef7589c0caa9ee8))
 
 ----
 
- - [**"Magic memories: Prince’s warmth and wit shone in private"**](https://apnews.com/cf2e87db1753473eb63165d807bd45c2) in [Associated Press News](https://apnews.com/) on 23 April 2016 ([mirror](https://web.archive.org/web/*/https://apnews.com/cf2e87db1753473eb63165d807bd45c2))
+ - [**"Magic memories: Prince’s warmth and wit shone in private"**](https://apnews.com/cf2e87db1753473eb63165d807bd45c2) in [Associated Press News](https://apnews.com/) on 23 April 2016 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [James Brown](../../topics/james-brown/index.md), [Joshua Welton](../../topics/joshua-welton/index.md), [Larry Graham](../../topics/larry-graham/index.md), [memoir](../../topics/memoir/index.md), [NPG Records](../../topics/npg-records/index.md), [piracy](../../topics/piracy/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md), [YouTube](../../topics/youtube/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/cf2e87db1753473eb63165d807bd45c2))
 
 ----
 
  - [**"Prince’s former wives issue messages of grief"**](https://apnews.com/e1248c7300a445e0a07e438cf492a4c4) by The Associated Press in [Associated Press News](https://apnews.com/) on 23 April 2016 about [In a Perfect World](../../topics/in-a-perfect-world/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/e1248c7300a445e0a07e438cf492a4c4))
+
+----
+
+ - [**"The Latest: Prince to be honored in New Orleans jazz funeral"**](https://apnews.com/2bff71641de848cdb8d414528b9686a5) in [Associated Press News](https://apnews.com/) on 23 April 2016 about [Atlanta (Place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Moline, Illinois (Place)](../../topics/place/moline-illinois/index.md), [Sheila E.](../../topics/sheila-e/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/2bff71641de848cdb8d414528b9686a5))
+
+----
+
+ - [**"5 ways Prince slammed high tech in music"**](https://apnews.com/f4cdf36615b446d6bf994eab8ab22379) in [Associated Press News](https://apnews.com/) on 22 April 2016 about [James Brown](../../topics/james-brown/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Tidal](../../topics/tidal/index.md), [YouTube](../../topics/youtube/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/f4cdf36615b446d6bf994eab8ab22379))
 
 ----
 
@@ -52,7 +72,7 @@
 
 ----
 
- - [**"Prince, hugely inventive, influential musician, dead at 57"**](https://apnews.com/988e107cf6964494b58ad2ca9bcd0985) in [Associated Press News](https://apnews.com/) on 22 April 2016 ([mirror](https://web.archive.org/web/*/https://apnews.com/988e107cf6964494b58ad2ca9bcd0985))
+ - [**"Prince, hugely inventive, influential musician, dead at 57"**](https://apnews.com/988e107cf6964494b58ad2ca9bcd0985) in [Associated Press News](https://apnews.com/) on 22 April 2016 about [Academy Award](../../topics/academy-award/index.md), [Atlanta (Place)](../../topics/place/atlanta/index.md), [Bangles](../../topics/bangles/index.md), [I Wanna Be Your Lover (Song)](../../topics/song/i-wanna-be-your-lover/index.md), [James Brown](../../topics/james-brown/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Little Red Corvette (Song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (Song)](../../topics/song/manic-monday/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Nothing Compares 2 U (Song)](../../topics/song/nothing-compares-2-u/index.md), [Obama](../../topics/obama/index.md), [Roger Ebert](../../topics/roger-ebert/index.md), [Tidal](../../topics/tidal/index.md), [Vanity](../../topics/vanity/index.md), [White House (Place)](../../topics/place/white-house/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/988e107cf6964494b58ad2ca9bcd0985))
 
 ----
 

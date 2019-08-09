@@ -24,6 +24,10 @@
 
 ----
 
+ - [**"Prince plays London living-room gig"**](https://apnews.com/cdab667abcd84f809dda4c49a044486f) in [Associated Press News](https://apnews.com/) on 5 February 2014 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [bootleg](../../topics/bootleg/index.md), [London (Place)](../../topics/place/london/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/cdab667abcd84f809dda4c49a044486f))
+
+----
+
  - [**"Prince Co. Suing Internet Site"**](https://apnews.com/06d02aeedba29e311e8d336c7b71a2b8) in [Associated Press News](https://apnews.com/) on 28 September 2002 about [bootleg](../../topics/bootleg/index.md), [Matthew Lankford](../../topics/matthew-lankford/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/06d02aeedba29e311e8d336c7b71a2b8))
 
 ----

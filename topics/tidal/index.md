@@ -1,38 +1,19 @@
 # Tidal
 
- - [**"Prince's 'Originals' Now Live Exclusively On TIDAL -- Hear the Album on TIDAL.com/Prince"**](https://www.prnewswire.com/news-releases/princes-originals-now-live-exclusively-on-tidal-300863756.html) in [PR Newswire](https://www.prnewswire.com/) on 7 June 2019 about [Originals (Album)](../../topics/album/originals/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Tidal](../../topics/tidal/index.md), [Troy Carter](../../topics/troy-carter/index.md) ([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/princes-originals-now-live-exclusively-on-tidal-300863756.html))
-
-----
-
- - [**"TIDAL Announces Global Album Release Celebrations For Originals, New Prince Album Exclusively Available On TIDAL Beginning June 7 -- EVENTS HOSTED BY JAY-Z AND ADDITIONAL PRESENTERS; PRE-SAVE THE ALBUM ON TIDAL STARTING NOW"**](https://www.prnewswire.com/news-releases/tidal-announces-global-album-release-celebrations-for-originals-new-prince-album-exclusively-available-on-tidal-beginning-june-7-300857155.html) in [PR Newswire](https://www.prnewswire.com/) on 29 May 2019 about [Originals (Album)](../../topics/album/originals/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Tidal](../../topics/tidal/index.md), [Troy Carter](../../topics/troy-carter/index.md) ([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/tidal-announces-global-album-release-celebrations-for-originals-new-prince-album-exclusively-available-on-tidal-beginning-june-7-300857155.html))
-
-----
-
- - [**"New Prince album featuring unreleased demos out in June"**](https://apnews.com/f60b62d07cd74a92aec4ceb6d9c338f1) by The Associated Press in [Associated Press News](https://apnews.com/) on 25 April 2019 about [Apple Music](../../topics/apple-music/index.md), [Bangles](../../topics/bangles/index.md), [Joey Coco](../../topics/joey-coco/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Nothing Compares 2 U (Song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (Album)](../../topics/album/originals/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Time](../../topics/the-time/index.md), [Tidal](../../topics/tidal/index.md), [Troy Carter](../../topics/troy-carter/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/f60b62d07cd74a92aec4ceb6d9c338f1))
-
-----
-
- - [**"Prince Estate to Release ‘Originals’ Album: His Versions of Songs He Gave to Other Artists (EXCLUSIVE)"**](https://variety.com/2019/music/news/prince-estate-to-release-originals-album-songs-he-gave-to-other-artists-1203197451/) by Jem Aswad in [Variety](https://variety.com/) on 24 April 2019 about [Apollonia 6](../../topics/apollonia-6/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Manic Monday (Song)](../../topics/song/manic-monday/index.md), [Mazarati](../../topics/mazarati/index.md), [Nothing Compares 2 U (Song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (Album)](../../topics/album/originals/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Family](../../topics/the-family/index.md), [The Glamorous Life (Song)](../../topics/song/the-glamorous-life/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [The Time](../../topics/the-time/index.md), [Tidal](../../topics/tidal/index.md), [Troy Carter](../../topics/troy-carter/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/news/prince-estate-to-release-originals-album-songs-he-gave-to-other-artists-1203197451/))
-
-----
-
- - [**"As Prince heirs stew, bankers and lawyers cash in on estate"**](https://apnews.com/d9847863113d4ff8bd70850dd6a6cd2e) by Steve Karnowski (Associated Press) in [Associated Press News](https://apnews.com/) on 18 May 2018 about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Carver County](../../topics/carver-county/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Tidal](../../topics/tidal/index.md), [Troy Carter](../../topics/troy-carter/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Universal Music Group](../../topics/universal-music-group/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/d9847863113d4ff8bd70850dd6a6cd2e))
-
-----
-
- - [**"The Prince Estate and TIDAL Announce Agreement to Debut New and Unreleased Prince Album and Settlement of Prior Legal Disputes"**](https://www.prnewswire.com/news-releases/the-prince-estate-and-tidal-announce-agreement-to-debut-new-and-unreleased-prince-album-and-settlement-of-prior-legal-disputes-300647106.html) in [PR Newswire](https://www.prnewswire.com/) on 11 May 2018 about [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Tidal](../../topics/tidal/index.md), [Troy Carter](../../topics/troy-carter/index.md) ([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/the-prince-estate-and-tidal-announce-agreement-to-debut-new-and-unreleased-prince-album-and-settlement-of-prior-legal-disputes-300647106.html))
-
-----
-
- - [**"Deals ensure cash keeps flowing to unsettled Prince estate"**](https://apnews.com/ea32a54490474eccad7364653ab698f8) in [Associated Press News](https://apnews.com/) on 16 April 2017 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Alfred Jackson](../../topics/alfred-jackson/index.md), [Celebration 2017](../../topics/celebration-2017/index.md), [Comerica Bank & Trust](../../topics/comerica-bank-trust/index.md), [Graceland](../../topics/graceland/index.md), [Joel Weinshanker](../../topics/joel-weinshanker/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Shelby J.](../../topics/shelby-j/index.md), [The Time](../../topics/the-time/index.md), [Tidal](../../topics/tidal/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Universal Music Group](../../topics/universal-music-group/index.md), [Van Jones](../../topics/van-jones/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/ea32a54490474eccad7364653ab698f8))
-
-----
-
- - [**"Documents: Jay Z’s company wanted to manage Prince’s music"**](https://apnews.com/20b81c0084f9422c9022841d87c0c4d8) in [Associated Press News](https://apnews.com/) on 6 December 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [Tidal](../../topics/tidal/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/20b81c0084f9422c9022841d87c0c4d8))
-
-----
-
- - [**"Prince releases new single, "Free Urself," on Tidal"**](http://www.startribune.com/prince-releases-new-single-free-urself-on-tidal/329887771/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 29 September 2015 about [Free Urself](../../topics/free-urself/index.md), [Tidal](../../topics/tidal/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-releases-new-single-free-urself-on-tidal/329887771/))
+  * 2019: 
+      [June](./tidal-2019-06.md) (1) | 
+      [May](./tidal-2019-05.md) (1) | 
+      [April](./tidal-2019-04.md) (2) | 
+  * 2018: 
+      [May](./tidal-2018-05.md) (2) | 
+  * 2017: 
+      [April](./tidal-2017-04.md) (1) | 
+      [February](./tidal-2017-02.md) (1) | 
+  * 2016: 
+      [December](./tidal-2016-12.md) (1) | 
+      [April](./tidal-2016-04.md) (2) | 
+  * 2015: 
+      [September](./tidal-2015-09.md) (1) | 
 
 ----
 

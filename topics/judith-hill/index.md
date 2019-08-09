@@ -1,42 +1,16 @@
 # Judith Hill
 
- - [**"Paisley Park rocks again with four of Prince's female protégées in concert"**](http://www.startribune.com/paisley-park-rocks-again-with-four-of-prince-s-female-protegees-in-concert/507037812/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 March 2019 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Donna Grantis](../../topics/donna-grantis/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Shelby J.](../../topics/shelby-j/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-rocks-again-with-four-of-prince-s-female-protegees-in-concert/507037812/))
-
-----
-
- - [**"Investigation says Prince was isolated, addicted and in pain"**](https://apnews.com/94806d16569541d98032ce2b2f82aa6a) by Amy Forliti (Associated Press) in [Associated Press News](https://apnews.com/) on 21 April 2018 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [fentanyl](../../topics/fentanyl/index.md), [Hannah Welton](../../topics/hannah-welton/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Joshua Welton](../../topics/joshua-welton/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Mark Metz](../../topics/mark-metz/index.md), [Meron Bekure](../../topics/meron-bekure/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (Place)](../../topics/place/moline-illinois/index.md), [oxycodone](../../topics/oxycodone/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Vicodin](../../topics/vicodin/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/94806d16569541d98032ce2b2f82aa6a))
-
-----
-
- - [**"10 curious things we learned about Prince from the investigations -- He liked Häagen-Dazs ice cream, 5-Hour Energy drinks and MAC beauty products."**](http://www.startribune.com/10-curious-things-we-learned-about-prince-from-the-investigations/480364723/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 April 2018 about [CeeLo Green](../../topics/ceelo-green/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Esperanza Spalding](../../topics/esperanza-spalding/index.md), [Janelle Monae](../../topics/janelle-monae/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [North Memorial Medical Center (Place)](../../topics/place/north-memorial-medical-center/index.md), [Peter Vang](../../topics/peter-vang/index.md), [Phaedra Ellis Lamkin](../../topics/phaedra-ellis-lamkin/index.md), [Rita Ora](../../topics/rita-ora/index.md), [Sheila E.](../../topics/sheila-e/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/10-curious-things-we-learned-about-prince-from-the-investigations/480364723/))
-
-----
-
- - [**"Documents: Airplane scare was beginning of the end of Prince's struggles with opioids -- Long-awaited investigative documents released Thursday give the clearest narrative yet of the singer's problems with opioid addiction in his final days."**](http://www.startribune.com/documents-airplane-scare-was-beginning-of-the-end-of-prince-s-struggles-with-opioids/480325903/) by Dan Browning, David Chanen in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 April 2018 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Atlanta (Place)](../../topics/place/atlanta/index.md), [fentanyl](../../topics/fentanyl/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Meron Bekure](../../topics/meron-bekure/index.md), [Vicodin](../../topics/vicodin/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/documents-airplane-scare-was-beginning-of-the-end-of-prince-s-struggles-with-opioids/480325903/))
-
-----
-
- - [**"Stevie Wonder, Chaka Khan headline Prince tribute show"**](https://apnews.com/776650efcc1b4b3997f8af7b73f4e16c) in [Associated Press News](https://apnews.com/) on 14 October 2016 about [Anita Baker](../../topics/anita-baker/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Chris Coleman](../../topics/chris-coleman/index.md), [Christina Aguilera](../../topics/christina-aguilera/index.md), [Doug E. Fresh](../../topics/doug-e-fresh/index.md), [I Feel For You (Song)](../../topics/song/i-feel-for-you/index.md), [Jessie J](../../topics/jessie-j/index.md), [John Mayer](../../topics/john-mayer/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Prince Day](../../topics/prince-day/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Tori Kelly](../../topics/tori-kelly/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Xcel Energy Center (Place)](../../topics/place/xcel-energy-center/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/776650efcc1b4b3997f8af7b73f4e16c))
-
-----
-
- - [**"Wonder, Khan wow crowd at Prince tribute show"**](https://apnews.com/0f0e837095fd4116aaaffee4cf83329b) in [Associated Press News](https://apnews.com/) on 14 October 2016 about [Anita Baker](../../topics/anita-baker/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Chris Coleman](../../topics/chris-coleman/index.md), [Christina Aguilera](../../topics/christina-aguilera/index.md), [Doug E. Fresh](../../topics/doug-e-fresh/index.md), [I Feel For You (Song)](../../topics/song/i-feel-for-you/index.md), [Jessie J](../../topics/jessie-j/index.md), [John Mayer](../../topics/john-mayer/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Prince Day](../../topics/prince-day/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Tori Kelly](../../topics/tori-kelly/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Xcel Energy Center (Place)](../../topics/place/xcel-energy-center/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/0f0e837095fd4116aaaffee4cf83329b))
-
-----
-
- - [**"Still no will, but work to settle Prince estate forges ahead"**](https://apnews.com/e2669a78b7dd4d8fb5c6e743d4acc29d) in [Associated Press News](https://apnews.com/) on 25 September 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [Christina Aguilera](../../topics/christina-aguilera/index.md), [Graceland](../../topics/graceland/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [The Time](../../topics/the-time/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Xcel Energy Center (Place)](../../topics/place/xcel-energy-center/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/e2669a78b7dd4d8fb5c6e743d4acc29d))
-
-----
-
- - [**"A day with Prince at Paisley Park"**](https://apnews.com/948911d73f9941fd938df975a3dc5f6f) by Nekesa Mumbi Moody (Associated Press) in [Associated Press News](https://apnews.com/) on 22 April 2016 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Donna Grantis](../../topics/donna-grantis/index.md), [James Brown](../../topics/james-brown/index.md), [Joshua Welton](../../topics/joshua-welton/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Rita Ora](../../topics/rita-ora/index.md), [YouTube](../../topics/youtube/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/948911d73f9941fd938df975a3dc5f6f))
-
-----
-
- - [**"A synthesizer of sounds, Prince ‘rewrote the rulebook’"**](https://apnews.com/c07d6a9a2752405fa8ed91e8d949806a) in [Associated Press News](https://apnews.com/) on 22 April 2016 about [Bangles](../../topics/bangles/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Manic Monday (Song)](../../topics/song/manic-monday/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Nothing Compares 2 U (Song)](../../topics/song/nothing-compares-2-u/index.md), [Obama](../../topics/obama/index.md), [Roger Ebert](../../topics/roger-ebert/index.md), [The Time](../../topics/the-time/index.md), [White House (Place)](../../topics/place/white-house/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/c07d6a9a2752405fa8ed91e8d949806a))
-
-----
-
- - [**"Prince invites fans to party with him at Paisley Park"**](https://apnews.com/93c56737c5344b9597794d00449d08e3) by Jeff Baenen (Associated Press) in [Associated Press News](https://apnews.com/) on 27 October 2015 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Donna Grantis](../../topics/donna-grantis/index.md), [James Brown](../../topics/james-brown/index.md), [Judith Hill](../../topics/judith-hill/index.md), [merchandise](../../topics/merchandise/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/93c56737c5344b9597794d00449d08e3))
+  * 2019: 
+      [March](./judith-hill-2019-03.md) (1) | 
+  * 2018: 
+      [April](./judith-hill-2018-04.md) (3) | 
+  * 2016: 
+      [October](./judith-hill-2016-10.md) (2) | 
+      [September](./judith-hill-2016-09.md) (2) | 
+      [April](./judith-hill-2016-04.md) (4) | 
+  * 2015: 
+      [October](./judith-hill-2015-10.md) (1) | 
+      [April](./judith-hill-2015-04.md) (1) | 
 
 ----
 

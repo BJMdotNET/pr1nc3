@@ -16,4 +16,24 @@
 
 ----
 
+ - [**"The Latest: Prince’s sister troubled by death investigation"**](https://apnews.com/86c8143c68534f938b13dfea97e2315e) in [Associated Press News](https://apnews.com/) on 20 April 2018 about [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [Mark Metz](../../topics/mark-metz/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/86c8143c68534f938b13dfea97e2315e))
+
+----
+
+ - [**"Prince’s death: Key players in investigation and aftermath"**](https://apnews.com/221f45fbd6e4440d944b38c34cffed15) in [Associated Press News](https://apnews.com/) on 19 April 2018 about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Mark Metz](../../topics/mark-metz/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (Place)](../../topics/place/moline-illinois/index.md), [oxycodone](../../topics/oxycodone/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/221f45fbd6e4440d944b38c34cffed15))
+
+----
+
+ - [**"Minnesota prosecutors plan announcement on Prince death"**](https://apnews.com/abc25c93e0d14b1bab5b300fc6ef8735) in [Associated Press News](https://apnews.com/) on 18 April 2018 about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Mark Metz](../../topics/mark-metz/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (Place)](../../topics/place/moline-illinois/index.md), [oxycodone](../../topics/oxycodone/index.md), [toxicology report](../../topics/toxicology-report/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/abc25c93e0d14b1bab5b300fc6ef8735))
+
+----
+
+ - [**"Prince family lawyers to view data for potential lawsuit"**](https://apnews.com/72fbe461381a43a096ebd1c15fae80bf) in [Associated Press News](https://apnews.com/) on 28 March 2018 about [Carver County](../../topics/carver-county/index.md), [Mark Metz](../../topics/mark-metz/index.md), [Moline, Illinois (Place)](../../topics/place/moline-illinois/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/72fbe461381a43a096ebd1c15fae80bf))
+
+----
+
+ - [**"Officials to turn over Prince investigative files to family"**](https://apnews.com/d839a494ad2a4dc0908321c824244b0d) in [Associated Press News](https://apnews.com/) on 22 March 2018 about [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [Mark Metz](../../topics/mark-metz/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/d839a494ad2a4dc0908321c824244b0d))
+
+----
+
 [Home](../)

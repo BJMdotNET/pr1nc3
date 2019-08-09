@@ -10,7 +10,7 @@
   * 2016: 
       [November](./the-time-2016-11.md) (1) | 
       [October](./the-time-2016-10.md) (1) | 
-      [September](./the-time-2016-09.md) (1) | 
+      [September](./the-time-2016-09.md) (2) | 
       [July](./the-time-2016-07.md) (1) | 
       [April](./the-time-2016-04.md) (1) | 
 

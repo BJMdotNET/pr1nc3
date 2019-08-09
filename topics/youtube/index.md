@@ -4,6 +4,22 @@
 
 ----
 
+ - [**"Nearly 6 months later, Prince superfans still mourning"**](https://apnews.com/5f2143ac989a4626b2cf7b8620a6a28c) in [Associated Press News](https://apnews.com/) on 12 October 2016 about [Atlanta (Place)](../../topics/place/atlanta/index.md), [London (Place)](../../topics/place/london/index.md), [YouTube](../../topics/youtube/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/5f2143ac989a4626b2cf7b8620a6a28c))
+
+----
+
+ - [**"Prince was a one-man band and a friend to many others"**](https://apnews.com/508256962cd942f3bc61e1cc034900ad) in [Associated Press News](https://apnews.com/) on 25 April 2016 about [Bangles](../../topics/bangles/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Esperanza Spalding](../../topics/esperanza-spalding/index.md), [Grammy Award](../../topics/grammy-award/index.md), [I Feel For You (Song)](../../topics/song/i-feel-for-you/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Little Red Corvette (Song)](../../topics/song/little-red-corvette/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Manic Monday (Song)](../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (Song)](../../topics/song/nothing-compares-2-u/index.md), [Rita Ora](../../topics/rita-ora/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Sunset Sound (Place)](../../topics/place/sunset-sound/index.md), [YouTube](../../topics/youtube/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/508256962cd942f3bc61e1cc034900ad))
+
+----
+
+ - [**"Magic memories: Prince’s warmth and wit shone in private"**](https://apnews.com/cf2e87db1753473eb63165d807bd45c2) in [Associated Press News](https://apnews.com/) on 23 April 2016 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [James Brown](../../topics/james-brown/index.md), [Joshua Welton](../../topics/joshua-welton/index.md), [Larry Graham](../../topics/larry-graham/index.md), [memoir](../../topics/memoir/index.md), [NPG Records](../../topics/npg-records/index.md), [piracy](../../topics/piracy/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md), [YouTube](../../topics/youtube/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/cf2e87db1753473eb63165d807bd45c2))
+
+----
+
+ - [**"5 ways Prince slammed high tech in music"**](https://apnews.com/f4cdf36615b446d6bf994eab8ab22379) in [Associated Press News](https://apnews.com/) on 22 April 2016 about [James Brown](../../topics/james-brown/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Tidal](../../topics/tidal/index.md), [YouTube](../../topics/youtube/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/f4cdf36615b446d6bf994eab8ab22379))
+
+----
+
  - [**"A day with Prince at Paisley Park"**](https://apnews.com/948911d73f9941fd938df975a3dc5f6f) by Nekesa Mumbi Moody (Associated Press) in [Associated Press News](https://apnews.com/) on 22 April 2016 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Donna Grantis](../../topics/donna-grantis/index.md), [James Brown](../../topics/james-brown/index.md), [Joshua Welton](../../topics/joshua-welton/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Rita Ora](../../topics/rita-ora/index.md), [YouTube](../../topics/youtube/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/948911d73f9941fd938df975a3dc5f6f))
 
 ----

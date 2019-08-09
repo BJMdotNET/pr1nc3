@@ -1,38 +1,17 @@
 # Alfred Jackson
 
- - [**"As Prince heirs stew, bankers and lawyers cash in on estate"**](https://apnews.com/d9847863113d4ff8bd70850dd6a6cd2e) by Steve Karnowski (Associated Press) in [Associated Press News](https://apnews.com/) on 18 May 2018 about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Carver County](../../topics/carver-county/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Tidal](../../topics/tidal/index.md), [Troy Carter](../../topics/troy-carter/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Universal Music Group](../../topics/universal-music-group/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/d9847863113d4ff8bd70850dd6a6cd2e))
-
-----
-
- - [**"Song from Prince’s father being released on his 101st b’day"**](https://apnews.com/229ffc268c5e4b1ca1eef644539b5247) in [Associated Press News](https://apnews.com/) on 29 June 2017 about [Alfred Jackson](../../topics/alfred-jackson/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [John Nelson](../../topics/john-nelson/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/229ffc268c5e4b1ca1eef644539b5247))
-
-----
-
- - [**"It’s Official: Prince’s Estate Manager and Universal Music Group Move to Nullify Recorded-Music Deal"**](https://variety.com/2017/music/news/its-official-princes-estate-manager-and-universal-music-group-move-to-nullify-recorded-music-deal-1202436842/) by Jem Aswad in [Variety](https://variety.com/) on 19 May 2017 about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [Comerica Bank & Trust](../../topics/comerica-bank-trust/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [merchandise](../../topics/merchandise/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Troy Carter](../../topics/troy-carter/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Universal Music Group](../../topics/universal-music-group/index.md), [Van Jones](../../topics/van-jones/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2017/music/news/its-official-princes-estate-manager-and-universal-music-group-move-to-nullify-recorded-music-deal-1202436842/))
-
-----
-
- - [**"Judge confirms Prince’s 6 siblings as heirs to his estate"**](https://apnews.com/19eec2a40a864efcb3eae84206dfd5c9) in [Associated Press News](https://apnews.com/) on 19 May 2017 about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/19eec2a40a864efcb3eae84206dfd5c9))
-
-----
-
- - [**"Deals ensure cash keeps flowing to unsettled Prince estate"**](https://apnews.com/ea32a54490474eccad7364653ab698f8) in [Associated Press News](https://apnews.com/) on 16 April 2017 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Alfred Jackson](../../topics/alfred-jackson/index.md), [Celebration 2017](../../topics/celebration-2017/index.md), [Comerica Bank & Trust](../../topics/comerica-bank-trust/index.md), [Graceland](../../topics/graceland/index.md), [Joel Weinshanker](../../topics/joel-weinshanker/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Shelby J.](../../topics/shelby-j/index.md), [The Time](../../topics/the-time/index.md), [Tidal](../../topics/tidal/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Universal Music Group](../../topics/universal-music-group/index.md), [Van Jones](../../topics/van-jones/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/ea32a54490474eccad7364653ab698f8))
-
-----
-
- - [**"Judge: Appeals holding up Prince estate determination"**](https://apnews.com/c26a8f91fcbc4e25b4138a17edc9c56e) in [Associated Press News](https://apnews.com/) on 12 January 2017 about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [John Nelson](../../topics/john-nelson/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Van Jones](../../topics/van-jones/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/c26a8f91fcbc4e25b4138a17edc9c56e))
-
-----
-
- - [**"Paisley Park visitors will see Prince’s studio and mementoes"**](https://apnews.com/27290d0a9516483d9f4c6e9509654af0) in [Associated Press News](https://apnews.com/) on 5 October 2016 about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Graceland](../../topics/graceland/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/27290d0a9516483d9f4c6e9509654af0))
-
-----
-
- - [**"Paisley Park visitors will see Prince's studio and mementoes"**](http://www.startribune.com/paisley-park-visitors-will-see-prince-s-studio-and-mementoes/396025851/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 October 2016 about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-visitors-will-see-prince-s-studio-and-mementoes/396025851/))
-
-----
-
- - [**"Prince siblings stand to make millions but keep low profiles"**](https://apnews.com/e1c3f1ca7f2e4a2a9baa312560ea6379) in [Associated Press News](https://apnews.com/) on 3 May 2016 about [Alfred Jackson](../../topics/alfred-jackson/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [U Got the Look (Song)](../../topics/song/u-got-the-look/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/e1c3f1ca7f2e4a2a9baa312560ea6379))
+  * 2018: 
+      [May](./alfred-jackson-2018-05.md) (1) | 
+      [April](./alfred-jackson-2018-04.md) (1) | 
+  * 2017: 
+      [October](./alfred-jackson-2017-10.md) (1) | 
+      [June](./alfred-jackson-2017-06.md) (1) | 
+      [May](./alfred-jackson-2017-05.md) (2) | 
+      [April](./alfred-jackson-2017-04.md) (1) | 
+      [January](./alfred-jackson-2017-01.md) (1) | 
+  * 2016: 
+      [October](./alfred-jackson-2016-10.md) (2) | 
+      [May](./alfred-jackson-2016-05.md) (1) | 
 
 ----
 

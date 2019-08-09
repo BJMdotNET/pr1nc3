@@ -8,4 +8,16 @@
 
 ----
 
+ - [**"Prince photographer Afshin Shahidi shares his intimate trove"**](https://apnews.com/01f587107e664a8c8c2287ac84f65358) in [Associated Press News](https://apnews.com/) on 16 January 2018 about [Afshin Shahidi](../../topics/afshin-shahidi/index.md), [trademark](../../topics/trademark/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/01f587107e664a8c8c2287ac84f65358))
+
+----
+
+ - [**"Judge: Sound engineer can’t publish unreleased Prince tracks"**](https://apnews.com/28f8d4317b3b43219621f58a3252addb) in [Associated Press News](https://apnews.com/) on 23 May 2017 about [Deliverance (EP)](../../topics/ep/deliverance/index.md), [Deliverance (Song)](../../topics/song/deliverance/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [trademark](../../topics/trademark/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/28f8d4317b3b43219621f58a3252addb))
+
+----
+
+ - [**"Inventory of Prince’s estate lists cash, property, gold bars"**](https://apnews.com/5ac8a5faa09440a4a8cc2cb43db35ee8) in [Associated Press News](https://apnews.com/) on 7 January 2017 about [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [LotusFlow3r (Album)](../../topics/album/lotusflow3r/index.md), [NPG Records](../../topics/npg-records/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [trademark](../../topics/trademark/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/5ac8a5faa09440a4a8cc2cb43db35ee8))
+
+----
+
 [Home](../)

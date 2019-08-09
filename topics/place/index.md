@@ -1,25 +1,25 @@
 # Place
 
-  * [Atlanta (Place)](./place/atlanta/) (4)
+  * [Atlanta (Place)](./place/atlanta/) (13)
   * [Bel Air (Place)](./place/bel-air/) (1)
   * [Capri Theater  (Place)](./place/capri-theater/) (1)
   * [Dakota (Place)](./place/dakota/) (4)
   * [Electric Fetus (Place)](./place/electric-fetus/) (3)
-  * [First Avenue (Place)](./place/first-avenue/) (28)
+  * [First Avenue (Place)](./place/first-avenue/) (34)
   * [Galpin Blvd. (Place)](./place/galpin-blvd/) (1)
   * [Galpin Boulevard (Place)](./place/galpin-boulevard/) (1)
   * [Glam Slam (Place)](./place/glam-slam/) (1)
   * [Lake Minnetonka (Place)](./place/lake-minnetonka/) (2)
-  * [London (Place)](./place/london/) (1)
+  * [London (Place)](./place/london/) (4)
   * [Mann’s Chinese Theatre (Place)](./place/mann-s-chinese-theatre/) (1)
-  * [Moline, Illinois (Place)](./place/moline-illinois/) (6)
-  * [North Memorial Medical Center (Place)](./place/north-memorial-medical-center/) (3)
+  * [Moline, Illinois (Place)](./place/moline-illinois/) (14)
+  * [North Memorial Medical Center (Place)](./place/north-memorial-medical-center/) (4)
   * [Sam’s (Place)](./place/sam-s/) (3)
   * [Smithsonian (Place)](./place/smithsonian/) (1)
-  * [Sunset Sound (Place)](./place/sunset-sound/) (9)
+  * [Sunset Sound (Place)](./place/sunset-sound/) (10)
   * [Uncle Sam’s (Place)](./place/uncle-sam-s/) (2)
-  * [White House (Place)](./place/white-house/) (4)
-  * [Xcel Energy Center (Place)](./place/xcel-energy-center/) (6)
+  * [White House (Place)](./place/white-house/) (5)
+  * [Xcel Energy Center (Place)](./place/xcel-energy-center/) (8)
 
 ----
 

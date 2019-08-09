@@ -16,7 +16,19 @@
 
 ----
 
+ - [**"‘Purple Rain’ re-issue to feature unreleased Prince songs"**](https://apnews.com/495f034e59ad4375a854c5476852d886) in [Associated Press News](https://apnews.com/) on 28 April 2017 about [NPG Records](../../topics/npg-records/index.md), [The Revolution](../../topics/the-revolution/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/495f034e59ad4375a854c5476852d886))
+
+----
+
  - [**"The Estate Of Prince Rogers Nelson Selects Universal Music Group To Manage Iconic Artist's Recordings -- Deal Encompasses Prince's Grammy-Winning NPG Records, Hits from Earlier Catalogs and Vast Collection of Unreleased Works"**](https://www.prnewswire.com/news-releases/the-estate-of-prince-rogers-nelson-selects-universal-music-group-to-manage-iconic-artists-recordings-300404797.html) in [PR Newswire](https://www.prnewswire.com/) on 9 February 2017 about [Bravado](../../topics/bravado/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [merchandise](../../topics/merchandise/index.md), [NPG Records](../../topics/npg-records/index.md), [Universal Music Group](../../topics/universal-music-group/index.md) ([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/the-estate-of-prince-rogers-nelson-selects-universal-music-group-to-manage-iconic-artists-recordings-300404797.html))
+
+----
+
+ - [**"Inventory of Prince’s estate lists cash, property, gold bars"**](https://apnews.com/5ac8a5faa09440a4a8cc2cb43db35ee8) in [Associated Press News](https://apnews.com/) on 7 January 2017 about [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [LotusFlow3r (Album)](../../topics/album/lotusflow3r/index.md), [NPG Records](../../topics/npg-records/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [trademark](../../topics/trademark/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/5ac8a5faa09440a4a8cc2cb43db35ee8))
+
+----
+
+ - [**"Magic memories: Prince’s warmth and wit shone in private"**](https://apnews.com/cf2e87db1753473eb63165d807bd45c2) in [Associated Press News](https://apnews.com/) on 23 April 2016 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [James Brown](../../topics/james-brown/index.md), [Joshua Welton](../../topics/joshua-welton/index.md), [Larry Graham](../../topics/larry-graham/index.md), [memoir](../../topics/memoir/index.md), [NPG Records](../../topics/npg-records/index.md), [piracy](../../topics/piracy/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md), [YouTube](../../topics/youtube/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/cf2e87db1753473eb63165d807bd45c2))
 
 ----
 

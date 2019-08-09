@@ -4,4 +4,8 @@
 
 ----
 
+ - [**"Prince plays London living-room gig"**](https://apnews.com/cdab667abcd84f809dda4c49a044486f) in [Associated Press News](https://apnews.com/) on 5 February 2014 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [bootleg](../../topics/bootleg/index.md), [London (Place)](../../topics/place/london/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/cdab667abcd84f809dda4c49a044486f))
+
+----
+
 [Home](./)

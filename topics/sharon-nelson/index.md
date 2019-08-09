@@ -1,38 +1,18 @@
 # Sharon Nelson
 
- - [**"The Prince Estate’s Big Plans: Inside the Upcoming Purple Reign -- The late singer’s estate is currently exploring licensing, future releases and even a hotel – all while trying to consider what Prince would have wanted"**](https://www.rollingstone.com/music/music-features/prince-estate-big-plans-upcoming-purple-reign-698529/) in [Rolling Stone](https://www.rollingstone.com/) on 13 July 2018 about [Bravado](../../topics/bravado/index.md), [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [First Avenue (Place)](../../topics/place/first-avenue/index.md), [Graceland](../../topics/graceland/index.md), [John Nelson](../../topics/john-nelson/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [merchandise](../../topics/merchandise/index.md), [Michael Howe](../../topics/michael-howe/index.md), [Minnesota Twins](../../topics/minnesota-twins/index.md), [Nothing Compares 2 U (Song)](../../topics/song/nothing-compares-2-u/index.md), [Piano and a Microphone 1983 (Album)](../../topics/album/piano-and-a-microphone-1983/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Questlove](../../topics/questlove/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Troy Carter](../../topics/troy-carter/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/prince-estate-big-plans-upcoming-purple-reign-698529/))
-
-----
-
- - [**"As Prince heirs stew, bankers and lawyers cash in on estate"**](https://apnews.com/d9847863113d4ff8bd70850dd6a6cd2e) by Steve Karnowski (Associated Press) in [Associated Press News](https://apnews.com/) on 18 May 2018 about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Carver County](../../topics/carver-county/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Tidal](../../topics/tidal/index.md), [Troy Carter](../../topics/troy-carter/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Universal Music Group](../../topics/universal-music-group/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/d9847863113d4ff8bd70850dd6a6cd2e))
-
-----
-
- - [**"Music by Prince’s father featured on new album, tracking ‘that DNA thing’"**](https://apnews.com/869e0302972c4e36aa99981332602cd0) in [Associated Press News](https://apnews.com/) on 9 March 2018 about [John L. Nelson](../../topics/john-l-nelson/index.md), [Owen Husney](../../topics/owen-husney/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/869e0302972c4e36aa99981332602cd0))
-
-----
-
- - [**"Song from Prince’s father being released on his 101st b’day"**](https://apnews.com/229ffc268c5e4b1ca1eef644539b5247) in [Associated Press News](https://apnews.com/) on 29 June 2017 about [Alfred Jackson](../../topics/alfred-jackson/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [John Nelson](../../topics/john-nelson/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/229ffc268c5e4b1ca1eef644539b5247))
-
-----
-
- - [**"It’s Official: Prince’s Estate Manager and Universal Music Group Move to Nullify Recorded-Music Deal"**](https://variety.com/2017/music/news/its-official-princes-estate-manager-and-universal-music-group-move-to-nullify-recorded-music-deal-1202436842/) by Jem Aswad in [Variety](https://variety.com/) on 19 May 2017 about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [Comerica Bank & Trust](../../topics/comerica-bank-trust/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [merchandise](../../topics/merchandise/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Troy Carter](../../topics/troy-carter/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Universal Music Group](../../topics/universal-music-group/index.md), [Van Jones](../../topics/van-jones/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2017/music/news/its-official-princes-estate-manager-and-universal-music-group-move-to-nullify-recorded-music-deal-1202436842/))
-
-----
-
- - [**"Judge confirms Prince’s 6 siblings as heirs to his estate"**](https://apnews.com/19eec2a40a864efcb3eae84206dfd5c9) in [Associated Press News](https://apnews.com/) on 19 May 2017 about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/19eec2a40a864efcb3eae84206dfd5c9))
-
-----
-
- - [**"Deals ensure cash keeps flowing to unsettled Prince estate"**](https://apnews.com/ea32a54490474eccad7364653ab698f8) in [Associated Press News](https://apnews.com/) on 16 April 2017 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Alfred Jackson](../../topics/alfred-jackson/index.md), [Celebration 2017](../../topics/celebration-2017/index.md), [Comerica Bank & Trust](../../topics/comerica-bank-trust/index.md), [Graceland](../../topics/graceland/index.md), [Joel Weinshanker](../../topics/joel-weinshanker/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Shelby J.](../../topics/shelby-j/index.md), [The Time](../../topics/the-time/index.md), [Tidal](../../topics/tidal/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Universal Music Group](../../topics/universal-music-group/index.md), [Van Jones](../../topics/van-jones/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/ea32a54490474eccad7364653ab698f8))
-
-----
-
- - [**"Correction: Prince-Estate story"**](https://apnews.com/1ec7cdd50cfb4cfe849755ee17f32aba) in [Associated Press News](https://apnews.com/) on 3 October 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [John Nelson](../../topics/john-nelson/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Robert Strauss](../../topics/robert-strauss/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/1ec7cdd50cfb4cfe849755ee17f32aba))
-
-----
-
- - [**"Prince siblings stand to make millions but keep low profiles"**](https://apnews.com/e1c3f1ca7f2e4a2a9baa312560ea6379) in [Associated Press News](https://apnews.com/) on 3 May 2016 about [Alfred Jackson](../../topics/alfred-jackson/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [U Got the Look (Song)](../../topics/song/u-got-the-look/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/e1c3f1ca7f2e4a2a9baa312560ea6379))
+  * 2018: 
+      [July](./sharon-nelson-2018-07.md) (1) | 
+      [May](./sharon-nelson-2018-05.md) (1) | 
+      [April](./sharon-nelson-2018-04.md) (1) | 
+      [March](./sharon-nelson-2018-03.md) (2) | 
+  * 2017: 
+      [October](./sharon-nelson-2017-10.md) (1) | 
+      [June](./sharon-nelson-2017-06.md) (1) | 
+      [May](./sharon-nelson-2017-05.md) (2) | 
+      [April](./sharon-nelson-2017-04.md) (1) | 
+  * 2016: 
+      [October](./sharon-nelson-2016-10.md) (1) | 
+      [May](./sharon-nelson-2016-05.md) (1) | 
 
 ----
 

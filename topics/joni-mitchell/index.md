@@ -1,42 +1,16 @@
 # Joni Mitchell
 
- - [**"The Time’s ‘Ice Cream Castle’ Turns 35: Anniversary Retrospective -- Happy 35th Anniversary to The Time’s third studio album Ice Cream Castle, originally released July 2, 1984."**](https://www.albumism.com/features/the-time-ice-cream-castle-turns-35-anniversary-retrospective) by Andy Healy in [Albumism](https://www.albumism.com/) on 2 July 2019 about [Apollonia 6](../../topics/apollonia-6/index.md), [George Clinton](../../topics/george-clinton/index.md), [Jamie Starr](../../topics/jamie-starr/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jesse Johnson](../../topics/jesse-johnson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Mazarati](../../topics/mazarati/index.md), [Monte Moir](../../topics/monte-moir/index.md), [Morris Day](../../topics/morris-day/index.md), [Purple Rain (Album)](../../topics/album/purple-rain/index.md), [Purple Rain (Movie)](../../topics/movie/purple-rain/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Time](../../topics/the-time/index.md) ([mirror](https://web.archive.org/web/*/https://www.albumism.com/features/the-time-ice-cream-castle-turns-35-anniversary-retrospective))
-
-----
-
- - [**"Chaka Khan On Why She Finally Released Her First Album In 12 Years"**](https://www.billboard.com/articles/news/8496614/chaka-khan-hello-happiness-interview) in [Billboard](https://www.billboard.com/) on 8 February 2019 about [Chaka Khan](../../topics/chaka-khan/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Miles Davis](../../topics/miles-davis/index.md), [NPG Records](../../topics/npg-records/index.md), [Sticky Wicked (Song)](../../topics/song/sticky-wicked/index.md) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8496614/chaka-khan-hello-happiness-interview))
-
-----
-
- - [**"'Piano and a Microphone': The Inside Story of the Long-Lost Prince Recording From 1983"**](https://www.newsweek.com/2018/10/19/prince-piano-microphone-purple-rain-17-days-1983-paisly-park-1131839.html) in [Newsweek](https://www.newsweek.com/) on 19 October 2018 about [Jill Jones](../../topics/jill-jones/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Michael Howe](../../topics/michael-howe/index.md), [Piano and a Microphone 1983 (Album)](../../topics/album/piano-and-a-microphone-1983/index.md) ([mirror](https://web.archive.org/web/*/https://www.newsweek.com/2018/10/19/prince-piano-microphone-purple-rain-17-days-1983-paisly-park-1131839.html))
-
-----
-
- - [**"The story of Prince's lost album 'Piano & A Microphone 1983' – from the man who found it"**](https://eu.usatoday.com/story/life/music/2018/09/18/prince-basement-tape-piano-microphone-1983/1346752002/) in [USA Today](https://usatoday.com/) on 20 September 2018 about [bootleg](../../topics/bootleg/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Michael Howe](../../topics/michael-howe/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md), [Why The Butterflies (Song)](../../topics/song/why-the-butterflies/index.md) ([mirror](https://web.archive.org/web/*/https://eu.usatoday.com/story/life/music/2018/09/18/prince-basement-tape-piano-microphone-1983/1346752002/))
-
-----
-
- - [**"Prince’s new basement tape: Just him singing, playing piano"**](https://apnews.com/e0a9e78a662c40d3adee133110bc8489) by Jeff Baenen (Associated Press) in [Associated Press News](https://apnews.com/) on 18 September 2018 about [17 Days (Song)](../../topics/song/17-days/index.md), [Cold Coffee & Cocaine (Song)](../../topics/song/cold-coffee-cocaine/index.md), [fentanyl](../../topics/fentanyl/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Michael Howe](../../topics/michael-howe/index.md), [NPG Records](../../topics/npg-records/index.md), [Piano and a Microphone 1983 (Album)](../../topics/album/piano-and-a-microphone-1983/index.md), [Purple Rain (Song)](../../topics/song/purple-rain/index.md), [Troy Carter](../../topics/troy-carter/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md), [Why The Butterflies (Song)](../../topics/song/why-the-butterflies/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/e0a9e78a662c40d3adee133110bc8489))
-
-----
-
- - [**"Prince's New 'Piano & A Microphone 1983' Basement Tape Is as Simple as It Sounds"**](https://www.billboard.com/articles/news/8475824/prince-piano-and-a-microphone-1983-album) in [Billboard](https://www.billboard.com/) on 18 September 2018 about [Joni Mitchell](../../topics/joni-mitchell/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Michael Howe](../../topics/michael-howe/index.md), [Piano and a Microphone 1983 (Album)](../../topics/album/piano-and-a-microphone-1983/index.md), [Troy Carter](../../topics/troy-carter/index.md) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8475824/prince-piano-and-a-microphone-1983-album))
-
-----
-
- - [**"'It's Prince, thinking aloud on the piano'"**](https://www.bbc.com/news/entertainment-arts-45510532) in [BBC News](https://www.bbc.com/news/) on 15 September 2018 about [Cold Coffee & Cocaine (Song)](../../topics/song/cold-coffee-cocaine/index.md), [Jamie Starr](../../topics/jamie-starr/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Michael Howe](../../topics/michael-howe/index.md), [Piano and a Microphone 1983 (Album)](../../topics/album/piano-and-a-microphone-1983/index.md), [Purple Rain (Song)](../../topics/song/purple-rain/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wednesday (Song)](../../topics/song/wednesday/index.md), [Why The Butterflies (Song)](../../topics/song/why-the-butterflies/index.md) ([mirror](https://web.archive.org/web/*/https://www.bbc.com/news/entertainment-arts-45510532))
-
-----
-
- - [**"The Prince Estate’s Big Plans: Inside the Upcoming Purple Reign -- The late singer’s estate is currently exploring licensing, future releases and even a hotel – all while trying to consider what Prince would have wanted"**](https://www.rollingstone.com/music/music-features/prince-estate-big-plans-upcoming-purple-reign-698529/) in [Rolling Stone](https://www.rollingstone.com/) on 13 July 2018 about [Bravado](../../topics/bravado/index.md), [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [First Avenue (Place)](../../topics/place/first-avenue/index.md), [Graceland](../../topics/graceland/index.md), [John Nelson](../../topics/john-nelson/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [merchandise](../../topics/merchandise/index.md), [Michael Howe](../../topics/michael-howe/index.md), [Minnesota Twins](../../topics/minnesota-twins/index.md), [Nothing Compares 2 U (Song)](../../topics/song/nothing-compares-2-u/index.md), [Piano and a Microphone 1983 (Album)](../../topics/album/piano-and-a-microphone-1983/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Questlove](../../topics/questlove/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Troy Carter](../../topics/troy-carter/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/prince-estate-big-plans-upcoming-purple-reign-698529/))
-
-----
-
- - [**"Prince Estate Releasing Unheard 'Piano & A Microphone 1983' Album -- Record captured at singer's home studio is due out Sept. 21."**](https://www.billboard.com/articles/columns/rock/8459820/prince-estate-releasing-unheard-piano-a-microphone-1983-album) in [Billboard](https://www.billboard.com/) on 7 June 2018 about [Allen Beaulieu](../../topics/allen-beaulieu/index.md), [Cold Coffee & Cocaine (Song)](../../topics/song/cold-coffee-cocaine/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Piano and a Microphone 1983 (Album)](../../topics/album/piano-and-a-microphone-1983/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Troy Carter](../../topics/troy-carter/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md), [Why The Butterflies (Song)](../../topics/song/why-the-butterflies/index.md) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/columns/rock/8459820/prince-estate-releasing-unheard-piano-a-microphone-1983-album))
-
-----
-
- - [**"The scholarly Prince: U symposium explores musical icon’s link to Minneapolis"**](https://apnews.com/6a20afbf0eeb41c9a728cbaaa1c2af71) by Jon Bream in [Associated Press News](https://apnews.com/) on 17 April 2018 about [Joni Mitchell](../../topics/joni-mitchell/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/6a20afbf0eeb41c9a728cbaaa1c2af71))
+  * 2019: 
+      [July](./joni-mitchell-2019-07.md) (1) | 
+      [February](./joni-mitchell-2019-02.md) (1) | 
+  * 2018: 
+      [October](./joni-mitchell-2018-10.md) (1) | 
+      [September](./joni-mitchell-2018-09.md) (4) | 
+      [July](./joni-mitchell-2018-07.md) (1) | 
+      [June](./joni-mitchell-2018-06.md) (1) | 
+      [April](./joni-mitchell-2018-04.md) (1) | 
+  * 2016: 
+      [April](./joni-mitchell-2016-04.md) (1) | 
 
 ----
 

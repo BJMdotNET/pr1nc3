@@ -1,42 +1,19 @@
 # Kevin Eide
 
- - [**"Former Prince Estate Advisors Ordered to Place Millions in Commissions in Escrow"**](https://variety.com/2019/music/news/prince-estate-former-advisors-millions-in-commissions-in-escro-1203180112/) in [Variety](https://variety.com/) on 8 April 2019 about [Charles Koppelman](../../topics/charles-koppelman/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [merchandise](../../topics/merchandise/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Troy Carter](../../topics/troy-carter/index.md), [Universal Music Group](../../topics/universal-music-group/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/news/prince-estate-former-advisors-millions-in-commissions-in-escro-1203180112/))
-
-----
-
- - [**"As Prince heirs stew, bankers and lawyers cash in on estate"**](https://apnews.com/d9847863113d4ff8bd70850dd6a6cd2e) by Steve Karnowski (Associated Press) in [Associated Press News](https://apnews.com/) on 18 May 2018 about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Carver County](../../topics/carver-county/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Tidal](../../topics/tidal/index.md), [Troy Carter](../../topics/troy-carter/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Universal Music Group](../../topics/universal-music-group/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/d9847863113d4ff8bd70850dd6a6cd2e))
-
-----
-
- - [**"It’s Official: Prince’s Estate Manager and Universal Music Group Move to Nullify Recorded-Music Deal"**](https://variety.com/2017/music/news/its-official-princes-estate-manager-and-universal-music-group-move-to-nullify-recorded-music-deal-1202436842/) by Jem Aswad in [Variety](https://variety.com/) on 19 May 2017 about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [Comerica Bank & Trust](../../topics/comerica-bank-trust/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [merchandise](../../topics/merchandise/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Troy Carter](../../topics/troy-carter/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Universal Music Group](../../topics/universal-music-group/index.md), [Van Jones](../../topics/van-jones/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2017/music/news/its-official-princes-estate-manager-and-universal-music-group-move-to-nullify-recorded-music-deal-1202436842/))
-
-----
-
- - [**"Judge confirms Prince’s 6 siblings as heirs to his estate"**](https://apnews.com/19eec2a40a864efcb3eae84206dfd5c9) in [Associated Press News](https://apnews.com/) on 19 May 2017 about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/19eec2a40a864efcb3eae84206dfd5c9))
-
-----
-
- - [**"Deals ensure cash keeps flowing to unsettled Prince estate"**](https://apnews.com/ea32a54490474eccad7364653ab698f8) in [Associated Press News](https://apnews.com/) on 16 April 2017 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Alfred Jackson](../../topics/alfred-jackson/index.md), [Celebration 2017](../../topics/celebration-2017/index.md), [Comerica Bank & Trust](../../topics/comerica-bank-trust/index.md), [Graceland](../../topics/graceland/index.md), [Joel Weinshanker](../../topics/joel-weinshanker/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Shelby J.](../../topics/shelby-j/index.md), [The Time](../../topics/the-time/index.md), [Tidal](../../topics/tidal/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Universal Music Group](../../topics/universal-music-group/index.md), [Van Jones](../../topics/van-jones/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/ea32a54490474eccad7364653ab698f8))
-
-----
-
- - [**"Judge: Appeals holding up Prince estate determination"**](https://apnews.com/c26a8f91fcbc4e25b4138a17edc9c56e) in [Associated Press News](https://apnews.com/) on 12 January 2017 about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [John Nelson](../../topics/john-nelson/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Van Jones](../../topics/van-jones/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/c26a8f91fcbc4e25b4138a17edc9c56e))
-
-----
-
- - [**"Correction: Prince-Estate story"**](https://apnews.com/1ec7cdd50cfb4cfe849755ee17f32aba) in [Associated Press News](https://apnews.com/) on 3 October 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [John Nelson](../../topics/john-nelson/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Robert Strauss](../../topics/robert-strauss/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/1ec7cdd50cfb4cfe849755ee17f32aba))
-
-----
-
- - [**"Still no will, but work to settle Prince estate forges ahead"**](https://apnews.com/e2669a78b7dd4d8fb5c6e743d4acc29d) in [Associated Press News](https://apnews.com/) on 25 September 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [Christina Aguilera](../../topics/christina-aguilera/index.md), [Graceland](../../topics/graceland/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [The Time](../../topics/the-time/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Xcel Energy Center (Place)](../../topics/place/xcel-energy-center/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/e2669a78b7dd4d8fb5c6e743d4acc29d))
-
-----
-
- - [**"Prince estate case judge seals documents from would-be heirs"**](https://apnews.com/7e844fbac2e1494aba98260e58389710) in [Associated Press News](https://apnews.com/) on 21 June 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/7e844fbac2e1494aba98260e58389710))
-
-----
-
- - [**"Prince’s estate to be temporarily managed by trust company"**](https://apnews.com/606153a12f3041b8b76186c824538183) in [Associated Press News](https://apnews.com/) on 28 April 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/606153a12f3041b8b76186c824538183))
+  * 2019: 
+      [April](./kevin-eide-2019-04.md) (1) | 
+  * 2018: 
+      [May](./kevin-eide-2018-05.md) (1) | 
+  * 2017: 
+      [October](./kevin-eide-2017-10.md) (1) | 
+      [May](./kevin-eide-2017-05.md) (2) | 
+      [April](./kevin-eide-2017-04.md) (1) | 
+      [January](./kevin-eide-2017-01.md) (1) | 
+  * 2016: 
+      [October](./kevin-eide-2016-10.md) (2) | 
+      [September](./kevin-eide-2016-09.md) (1) | 
+      [June](./kevin-eide-2016-06.md) (1) | 
+      [April](./kevin-eide-2016-04.md) (1) | 
 
 ----
 

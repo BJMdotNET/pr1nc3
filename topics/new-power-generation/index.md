@@ -1,34 +1,18 @@
 # New Power Generation
 
- - [**"Prince Estate to Reissue Long-Unavailable Albums Next Month"**](https://variety.com/2019/music/news/prince-estate-to-reissue-long-unavailable-albums-next-month-1203288542/) in [Variety](https://variety.com/) on 1 August 2019 about [Chaos and Disorder (Album)](../../topics/album/chaos-and-disorder/index.md), [Emancipation (Album)](../../topics/album/emancipation/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Versace Experience (Prelude 2 Gold) (Album)](../../topics/album/the-versace-experience-prelude-2-gold/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/news/prince-estate-to-reissue-long-unavailable-albums-next-month-1203288542/))
-
-----
-
- - [**"DC Once Turned Prince Into A Batman-Style Superhero"**](https://screenrant.com/prince-comic-book-dc-alter-ego/) by Padraig Cotter in [ScreenRant](https://screenrant.com/) on 16 July 2019 about [Graffiti Bridge (Movie)](../../topics/movie/graffiti-bridge/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Prince: Alter Ego](../../topics/prince-alter-ego/index.md), [Purple Rain (Movie)](../../topics/movie/purple-rain/index.md) ([mirror](https://web.archive.org/web/*/https://screenrant.com/prince-comic-book-dc-alter-ego/))
-
-----
-
- - [**"Imagine, if you will, a picture with John Travolta as the 'Purple Rain' kid"**](http://www.startribune.com/c-j-imagine-if-you-will-a-picture-with-john-travolta-as-the-purple-rain-kid/512260012/) by C.J. (Cheryl Johnson) in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 July 2019 about [Alan Light](../../topics/alan-light/index.md), [Albert Magnoli](../../topics/albert-magnoli/index.md), [John Travolta](../../topics/john-travolta/index.md), [Let’s Go Crazy (Song)](../../topics/song/let-s-go-crazy/index.md), [Morris Hayes](../../topics/morris-hayes/index.md), [Neal Karlen](../../topics/neal-karlen/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Purple Rain (Album)](../../topics/album/purple-rain/index.md), [Purple Rain (Movie)](../../topics/movie/purple-rain/index.md), [Purple Rain (Song)](../../topics/song/purple-rain/index.md), [The Revolution](../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-imagine-if-you-will-a-picture-with-john-travolta-as-the-purple-rain-kid/512260012/))
-
-----
-
- - [**"C.J.: Prince protégée Ashley Támar Davis performed with pre-Destiny Beyoncé"**](http://www.startribune.com/c-j-the-fame-of-destiny-s-child-almost-broke-singer-ashley-tamar-davis/508902862/) by C.J. (Cheryl Johnson) in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 April 2019 about [New Power Generation](../../topics/new-power-generation/index.md), [Támar Davis](../../topics/t-mar-davis/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-the-fame-of-destiny-s-child-almost-broke-singer-ashley-tamar-davis/508902862/))
-
-----
-
- - [**"Deals ensure cash keeps flowing to unsettled Prince estate"**](https://apnews.com/ea32a54490474eccad7364653ab698f8) in [Associated Press News](https://apnews.com/) on 16 April 2017 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Alfred Jackson](../../topics/alfred-jackson/index.md), [Celebration 2017](../../topics/celebration-2017/index.md), [Comerica Bank & Trust](../../topics/comerica-bank-trust/index.md), [Graceland](../../topics/graceland/index.md), [Joel Weinshanker](../../topics/joel-weinshanker/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Shelby J.](../../topics/shelby-j/index.md), [The Time](../../topics/the-time/index.md), [Tidal](../../topics/tidal/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Universal Music Group](../../topics/universal-music-group/index.md), [Van Jones](../../topics/van-jones/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/ea32a54490474eccad7364653ab698f8))
-
-----
-
- - [**"Paisley Park to host 2017 celebration of Prince’s life"**](https://apnews.com/f5878da287eb4498ab600a0f313d602d) in [Associated Press News](https://apnews.com/) on 28 November 2016 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Celebration 2017](../../topics/celebration-2017/index.md), [Morris Day](../../topics/morris-day/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/f5878da287eb4498ab600a0f313d602d))
-
-----
-
- - [**"Still no will, but work to settle Prince estate forges ahead"**](https://apnews.com/e2669a78b7dd4d8fb5c6e743d4acc29d) in [Associated Press News](https://apnews.com/) on 25 September 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [Christina Aguilera](../../topics/christina-aguilera/index.md), [Graceland](../../topics/graceland/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [The Time](../../topics/the-time/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Xcel Energy Center (Place)](../../topics/place/xcel-energy-center/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/e2669a78b7dd4d8fb5c6e743d4acc29d))
-
-----
-
- - [**"Hornheads jazz group creates unique sound -- The five-piece a cappella horn section records and plays all over the globe."**](http://www.startribune.com/hornheads-jazz-group-creates-unique-sound/302567351/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 May 2015 about [Chaka Khan](../../topics/chaka-khan/index.md), [Dave Jensen](../../topics/dave-jensen/index.md), [Everything Blows (Album)](../../topics/album/everything-blows/index.md), [Hornheads](../../topics/hornheads/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Kathy Jensen](../../topics/kathy-jensen/index.md), [Kenni Holmen](../../topics/kenni-holmen/index.md), [Michael Nelson](../../topics/michael-nelson/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Steve Strand](../../topics/steve-strand/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/hornheads-jazz-group-creates-unique-sound/302567351/))
+  * 2019: 
+      [August](./new-power-generation-2019-08.md) (1) | 
+      [July](./new-power-generation-2019-07.md) (2) | 
+      [April](./new-power-generation-2019-04.md) (1) | 
+  * 2018: 
+      [February](./new-power-generation-2018-02.md) (1) | 
+  * 2017: 
+      [April](./new-power-generation-2017-04.md) (1) | 
+  * 2016: 
+      [November](./new-power-generation-2016-11.md) (2) | 
+      [September](./new-power-generation-2016-09.md) (2) | 
+  * 2015: 
+      [May](./new-power-generation-2015-05.md) (1) | 
 
 ----
 

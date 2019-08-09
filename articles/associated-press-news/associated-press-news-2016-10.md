@@ -4,6 +4,10 @@
 
 ----
 
+ - [**"Prince’s siblings: Purported niece, grandniece are not heirs"**](https://apnews.com/52db4bd7107b4c8a9fedf31612ff26ab) in [Associated Press News](https://apnews.com/) on 18 October 2016 about [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/52db4bd7107b4c8a9fedf31612ff26ab))
+
+----
+
  - [**"Stevie Wonder, Chaka Khan headline Prince tribute show"**](https://apnews.com/776650efcc1b4b3997f8af7b73f4e16c) in [Associated Press News](https://apnews.com/) on 14 October 2016 about [Anita Baker](../../topics/anita-baker/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Chris Coleman](../../topics/chris-coleman/index.md), [Christina Aguilera](../../topics/christina-aguilera/index.md), [Doug E. Fresh](../../topics/doug-e-fresh/index.md), [I Feel For You (Song)](../../topics/song/i-feel-for-you/index.md), [Jessie J](../../topics/jessie-j/index.md), [John Mayer](../../topics/john-mayer/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Prince Day](../../topics/prince-day/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Tori Kelly](../../topics/tori-kelly/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Xcel Energy Center (Place)](../../topics/place/xcel-energy-center/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/776650efcc1b4b3997f8af7b73f4e16c))
 
 ----
@@ -20,7 +24,7 @@
 
 ----
 
- - [**"Nearly 6 months later, Prince superfans still mourning"**](https://apnews.com/5f2143ac989a4626b2cf7b8620a6a28c) in [Associated Press News](https://apnews.com/) on 12 October 2016 ([mirror](https://web.archive.org/web/*/https://apnews.com/5f2143ac989a4626b2cf7b8620a6a28c))
+ - [**"Nearly 6 months later, Prince superfans still mourning"**](https://apnews.com/5f2143ac989a4626b2cf7b8620a6a28c) in [Associated Press News](https://apnews.com/) on 12 October 2016 about [Atlanta (Place)](../../topics/place/atlanta/index.md), [London (Place)](../../topics/place/london/index.md), [YouTube](../../topics/youtube/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/5f2143ac989a4626b2cf7b8620a6a28c))
 
 ----
 

@@ -8,6 +8,18 @@
 
 ----
 
+ - [**"Judge: Sound engineer can’t publish unreleased Prince tracks"**](https://apnews.com/28f8d4317b3b43219621f58a3252addb) in [Associated Press News](https://apnews.com/) on 23 May 2017 about [Deliverance (EP)](../../topics/ep/deliverance/index.md), [Deliverance (Song)](../../topics/song/deliverance/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [trademark](../../topics/trademark/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/28f8d4317b3b43219621f58a3252addb))
+
+----
+
+ - [**"Judge blocks sound engineer’s release of Prince EP"**](https://apnews.com/194582ccc441427d9c3b8b644ac5dcc0) in [Associated Press News](https://apnews.com/) on 20 April 2017 about [Deliverance (EP)](../../topics/ep/deliverance/index.md), [Deliverance (Song)](../../topics/song/deliverance/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/194582ccc441427d9c3b8b644ac5dcc0))
+
+----
+
+ - [**"Inventory of Prince’s estate lists cash, property, gold bars"**](https://apnews.com/5ac8a5faa09440a4a8cc2cb43db35ee8) in [Associated Press News](https://apnews.com/) on 7 January 2017 about [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [LotusFlow3r (Album)](../../topics/album/lotusflow3r/index.md), [NPG Records](../../topics/npg-records/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [trademark](../../topics/trademark/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/5ac8a5faa09440a4a8cc2cb43db35ee8))
+
+----
+
  - [**"What were the specifics of Prince's “$100 million contract” with Warner Bros. Records in 1992?"**](https://musicfans.stackexchange.com/a/89/129) in [Music Fans Stack Exchange](https://musicfans.stackexchange.com/) on 15 February 2015 about [Controversy Music](../../topics/controversy-music/index.md), [Diamonds & Pearls (Album)](../../topics/album/diamonds-pearls/index.md), [Gary Stiffelman](../../topics/gary-stiffelman/index.md), [Gilbert Davidson](../../topics/gilbert-davidson/index.md), [Jill Wills](../../topics/jill-wills/index.md), [Lovesexy (Album)](../../topics/album/lovesexy/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [Paisley Park Records](../../topics/paisley-park-records/index.md), [Purple Rain (Album)](../../topics/album/purple-rain/index.md), [Time Warner](../../topics/time-warner/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md), [Warner/Chappell Music](../../topics/warner-chappell-music/index.md) ([mirror](https://web.archive.org/web/*/https://musicfans.stackexchange.com/a/89/129))
 
 ----

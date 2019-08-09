@@ -1,6 +1,6 @@
 # EP
 
-  * [Deliverance (EP)](./ep/deliverance/) (2)
+  * [Deliverance (EP)](./ep/deliverance/) (4)
 
 ----
 

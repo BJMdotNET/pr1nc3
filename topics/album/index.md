@@ -1,7 +1,7 @@
 # Album
 
   * [1999 (Album)](./album/1999/) (4)
-  * [3121 (Album)](./album/3121/) (7)
+  * [3121 (Album)](./album/3121/) (8)
   * [Around The World In A Day (Album)](./album/around-the-world-in-a-day/) (5)
   * [Batman (Album)](./album/batman/) (1)
   * [Chaos and Disorder (Album)](./album/chaos-and-disorder/) (3)
@@ -12,6 +12,7 @@
   * [Emancipation (Album)](./album/emancipation/) (8)
   * [Everything Blows (Album)](./album/everything-blows/) (1)
   * [Graffiti Bridge (Album)](./album/graffiti-bridge/) (2)
+  * [LotusFlow3r (Album)](./album/lotusflow3r/) (1)
   * [Lovesexy (Album)](./album/lovesexy/) (4)
   * [Originals (Album)](./album/originals/) (40)
   * [Parade (Album)](./album/parade/) (3)

@@ -1,42 +1,14 @@
 # Vanity
 
- - [**"Prince Never Acted Before 'Purple Rain.' Then He Became a Household Name -- The movie and album would come to help define the 1980s and catapult the performer to global fame."**](https://www.biography.com/news/prince-purple-rain-album-movie) by Colin Bertram in [Biography](https://www.biography.com/) on 25 July 2019 about [Academy Award](../../topics/academy-award/index.md), [Alan Light](../../topics/alan-light/index.md), [Albert Magnoli](../../topics/albert-magnoli/index.md), [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [First Avenue (Place)](../../topics/place/first-avenue/index.md), [I Would Die 4 U (Song)](../../topics/song/i-would-die-4-u/index.md), [Let’s Go Crazy (Song)](../../topics/song/let-s-go-crazy/index.md), [Morris Day](../../topics/morris-day/index.md), [Purple Rain (Album)](../../topics/album/purple-rain/index.md), [Purple Rain (Movie)](../../topics/movie/purple-rain/index.md), [Purple Rain (Song)](../../topics/song/purple-rain/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md), [Vanity](../../topics/vanity/index.md), [When Doves Cry (Song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://www.biography.com/news/prince-purple-rain-album-movie))
-
-----
-
- - [**"Falámos com o arquivista de Prince. “O cofre-forte de canções está atualmente num espaço de alta segurança, à prova de acidentes”"**](https://blitz.pt/principal/update/2019-06-16-Falamos-com-o-arquivista-de-Prince.-O-cofre-forte-de-cancoes-esta-atualmente-num-espaco-de-alta-seguranca-a-prova-de-acidentes) in [Blitz](https://blitz.pt/) on 16 June 2019 about [Bangles](../../topics/bangles/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Michael Howe](../../topics/michael-howe/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Nothing Compares 2 U (Song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (Album)](../../topics/album/originals/index.md), [Sinéad O'Connor](../../topics/sin-ad-o-connor/index.md), [The Time](../../topics/the-time/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md) ([mirror](https://web.archive.org/web/*/https://blitz.pt/principal/update/2019-06-16-Falamos-com-o-arquivista-de-Prince.-O-cofre-forte-de-cancoes-esta-atualmente-num-espaco-de-alta-seguranca-a-prova-de-acidentes))
-
-----
-
- - [**"Prince Remembered by Three Key Women in His Life"**](https://variety.com/2019/music/news/prince-birthday-remembered-by-three-key-women-originals-1203235532/) by Jem Aswad in [Variety](https://variety.com/) on 7 June 2019 about [Apollonia 6](../../topics/apollonia-6/index.md), [Atlanta (Place)](../../topics/place/atlanta/index.md), [Colleen (Song)](../../topics/song/colleen/index.md), [Cynthia Rose](../../topics/cynthia-rose/index.md), [Jamie Starr](../../topics/jamie-starr/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Manic Monday (Song)](../../topics/song/manic-monday/index.md), [Mazarati](../../topics/mazarati/index.md), [Moline, Illinois (Place)](../../topics/place/moline-illinois/index.md), [Nothing Compares 2 U (Song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (Album)](../../topics/album/originals/index.md), [Peggy McCreary](../../topics/peggy-mccreary/index.md), [Quincy Jones](../../topics/quincy-jones/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Starfish And Coffee (Song)](../../topics/song/starfish-and-coffee/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/news/prince-birthday-remembered-by-three-key-women-originals-1203235532/))
-
-----
-
- - [**"Remembering when Prince wrote that song for you"**](https://apnews.com/9946e6f68e354265a15047187b217b56) in [Associated Press News](https://apnews.com/) on 4 June 2019 about [Apollonia 6](../../topics/apollonia-6/index.md), [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Bangles](../../topics/bangles/index.md), [Denise Matthews](../../topics/denise-matthews/index.md), [Joey Coco](../../topics/joey-coco/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Manic Monday (Song)](../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (Song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (Album)](../../topics/album/originals/index.md), [Paisley Park Records](../../topics/paisley-park-records/index.md), [Sex Shooter (Song)](../../topics/song/sex-shooter/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [The Family](../../topics/the-family/index.md), [The Glamorous Life (Song)](../../topics/song/the-glamorous-life/index.md), [The Time](../../topics/the-time/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/9946e6f68e354265a15047187b217b56))
-
-----
-
- - [**"Prince Estate to Release ‘Originals’ Album: His Versions of Songs He Gave to Other Artists (EXCLUSIVE)"**](https://variety.com/2019/music/news/prince-estate-to-release-originals-album-songs-he-gave-to-other-artists-1203197451/) by Jem Aswad in [Variety](https://variety.com/) on 24 April 2019 about [Apollonia 6](../../topics/apollonia-6/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Manic Monday (Song)](../../topics/song/manic-monday/index.md), [Mazarati](../../topics/mazarati/index.md), [Nothing Compares 2 U (Song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (Album)](../../topics/album/originals/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Family](../../topics/the-family/index.md), [The Glamorous Life (Song)](../../topics/song/the-glamorous-life/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [The Time](../../topics/the-time/index.md), [Tidal](../../topics/tidal/index.md), [Troy Carter](../../topics/troy-carter/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/news/prince-estate-to-release-originals-album-songs-he-gave-to-other-artists-1203197451/))
-
-----
-
- - [**"Prince’s estate sues Oklahoma man over posted music videos"**](https://apnews.com/159bd401de3f409695bf84487aeb18e8) in [Associated Press News](https://apnews.com/) on 1 June 2018 about [TuneCore](../../topics/tunecore/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/159bd401de3f409695bf84487aeb18e8))
-
-----
-
- - [**"Apollonia: Vanity was and ‘inspiration’"**](https://apnews.com/849a2025be574b07b857e30d16295024) by Jesse J. Holland (Associated Press) in [Associated Press News](https://apnews.com/) on 18 February 2016 about [Apollonia 6](../../topics/apollonia-6/index.md), [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Denise Matthews](../../topics/denise-matthews/index.md), [Purple Rain (Movie)](../../topics/movie/purple-rain/index.md), [Sex Shooter (Song)](../../topics/song/sex-shooter/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/849a2025be574b07b857e30d16295024))
-
-----
-
- - [**"Apollonia: Vanity was and 'inspiration'"**](http://www.startribune.com/apollonia-vanity-was-and-inspiration/369204001/) by Jesse J. Holland (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 17 February 2016 about [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Vanity](../../topics/vanity/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/apollonia-vanity-was-and-inspiration/369204001/))
-
-----
-
- - [**"Singer, actress Denise Matthews, known as Vanity, dies"**](http://www.startribune.com/singer-actress-denise-matthews-known-as-vanity-dies/369004441/) by Jesse J. Holland (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 16 February 2016 about [Vanity](../../topics/vanity/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/singer-actress-denise-matthews-known-as-vanity-dies/369004441/))
-
-----
-
- - [**"Prince's "Nasty Girl" protégé Vanity reported dead at age 57"**](http://www.startribune.com/prince-s-nasty-girl-protege-vanity-reported-dead-at-age-57/368900551/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 15 February 2016 about [Vanity](../../topics/vanity/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-nasty-girl-protege-vanity-reported-dead-at-age-57/368900551/))
+  * 2019: 
+      [July](./vanity-2019-07.md) (1) | 
+      [June](./vanity-2019-06.md) (3) | 
+      [April](./vanity-2019-04.md) (1) | 
+  * 2018: 
+      [June](./vanity-2018-06.md) (1) | 
+  * 2016: 
+      [April](./vanity-2016-04.md) (1) | 
+      [February](./vanity-2016-02.md) (4) | 
 
 ----
 

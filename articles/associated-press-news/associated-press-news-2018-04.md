@@ -1,6 +1,6 @@
 # Associated Press News: April 2018
 
- - [**"Unfinished requiem: Enigmatic in life, Prince leaves mystery in death"**](https://apnews.com/48227e49f5384fe7b343b7ccdeb00e6f) in [Associated Press News](https://apnews.com/) on 22 April 2018 ([mirror](https://web.archive.org/web/*/https://apnews.com/48227e49f5384fe7b343b7ccdeb00e6f))
+ - [**"Unfinished requiem: Enigmatic in life, Prince leaves mystery in death"**](https://apnews.com/48227e49f5384fe7b343b7ccdeb00e6f) in [Associated Press News](https://apnews.com/) on 22 April 2018 about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Atlanta (Place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Owen Husney](../../topics/owen-husney/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/48227e49f5384fe7b343b7ccdeb00e6f))
 
 ----
 
@@ -21,6 +21,18 @@
 ----
 
  - [**"The Latest: Doctor said Prince ‘doesn’t look really well’"**](https://apnews.com/acdea18b521b4b7d886de7b06c2d302a) in [Associated Press News](https://apnews.com/) on 20 April 2018 about [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Mark Metz](../../topics/mark-metz/index.md), [Meron Bekure](../../topics/meron-bekure/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [oxycodone](../../topics/oxycodone/index.md), [Vicodin](../../topics/vicodin/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/acdea18b521b4b7d886de7b06c2d302a))
+
+----
+
+ - [**"The Latest: Prince’s sister troubled by death investigation"**](https://apnews.com/86c8143c68534f938b13dfea97e2315e) in [Associated Press News](https://apnews.com/) on 20 April 2018 about [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [Mark Metz](../../topics/mark-metz/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/86c8143c68534f938b13dfea97e2315e))
+
+----
+
+ - [**"Prince’s death: Key players in investigation and aftermath"**](https://apnews.com/221f45fbd6e4440d944b38c34cffed15) in [Associated Press News](https://apnews.com/) on 19 April 2018 about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Mark Metz](../../topics/mark-metz/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (Place)](../../topics/place/moline-illinois/index.md), [oxycodone](../../topics/oxycodone/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/221f45fbd6e4440d944b38c34cffed15))
+
+----
+
+ - [**"Minnesota prosecutors plan announcement on Prince death"**](https://apnews.com/abc25c93e0d14b1bab5b300fc6ef8735) in [Associated Press News](https://apnews.com/) on 18 April 2018 about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Mark Metz](../../topics/mark-metz/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (Place)](../../topics/place/moline-illinois/index.md), [oxycodone](../../topics/oxycodone/index.md), [toxicology report](../../topics/toxicology-report/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/abc25c93e0d14b1bab5b300fc6ef8735))
 
 ----
 

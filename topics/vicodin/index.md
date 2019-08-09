@@ -20,4 +20,8 @@
 
 ----
 
+ - [**"Counterfeit pain pills likely came to Prince illegally"**](https://apnews.com/f617a02222324bf3a06a0c7cbe15e3fd) in [Associated Press News](https://apnews.com/) on 23 August 2016 about [fentanyl](../../topics/fentanyl/index.md), [piracy](../../topics/piracy/index.md), [Vicodin](../../topics/vicodin/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/f617a02222324bf3a06a0c7cbe15e3fd))
+
+----
+
 [Home](../)
