@@ -9,6 +9,8 @@
       [July](./joni-mitchell-2018-07.md) (1) | 
       [June](./joni-mitchell-2018-06.md) (1) | 
       [April](./joni-mitchell-2018-04.md) (1) | 
+  * 2017: 
+      [April](./joni-mitchell-2017-04.md) (1) | 
   * 2016: 
       [April](./joni-mitchell-2016-04.md) (1) | 
 

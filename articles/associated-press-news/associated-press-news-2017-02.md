@@ -4,4 +4,8 @@
 
 ----
 
+ - [**"Prince’s Warner Bros. catalog goes to all streaming services"**](https://apnews.com/e19c5f6e61c54fdfbb1eb1b2ab18cd16) in [Associated Press News](https://apnews.com/) on 12 February 2017 about [Warner Bros. Records](../../topics/warner-bros-records/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/e19c5f6e61c54fdfbb1eb1b2ab18cd16))
+
+----
+
 [Home](./)

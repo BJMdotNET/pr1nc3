@@ -15,7 +15,7 @@
       [September](./mayte-garcia-2016-09.md) (1) | 
       [July](./mayte-garcia-2016-07.md) (1) | 
       [June](./mayte-garcia-2016-06.md) (2) | 
-      [April](./mayte-garcia-2016-04.md) (1) | 
+      [April](./mayte-garcia-2016-04.md) (2) | 
   * 2006: 
       [July](./mayte-garcia-2006-07.md) (1) | 
   * 1997: 

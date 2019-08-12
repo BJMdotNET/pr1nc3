@@ -1,5 +1,9 @@
 # merchandise
 
+ - [**"34 years of Gittelson Jewelers customer service, including a 3 a.m. Prince appointment -- For the past eight years, Gene and his son Michael Gittelson have been sharing the 297-square-foot space with Molly Braun, the general manager, who sometimes witnesses familial squabbling."**](http://www.startribune.com/c-j-34-years-of-gittelson-jewelers-customer-service-including-a-3-a-m-prince-appointment/530363881/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 9 August 2019 about [merchandise](../../topics/merchandise/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-34-years-of-gittelson-jewelers-customer-service-including-a-3-a-m-prince-appointment/530363881/))
+
+----
+
  - [**"New Prince store at MSP airport reels in fandom"**](http://www.startribune.com/new-prince-store-at-msp-airport-reels-in-fandom/511212802/) by Jackie Crosby in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 June 2019 about [Bravado](../../topics/bravado/index.md), [merchandise](../../topics/merchandise/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/new-prince-store-at-msp-airport-reels-in-fandom/511212802/))
 
 ----

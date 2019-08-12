@@ -28,6 +28,10 @@
 
 ----
 
+ - [**"Warner opts out of Paisley Park"**](https://variety.com/1994/music/news/warner-opts-out-of-paisley-park-117965/) in [Variety](https://variety.com/) on 1 February 1994 about [George Clinton](../../topics/george-clinton/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Mo Ostin](../../topics/mo-ostin/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [Paisley Park Records](../../topics/paisley-park-records/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/1994/music/news/warner-opts-out-of-paisley-park-117965/))
+
+----
+
  - [**"People in the News"**](https://apnews.com/df4748de657e2a79a5ec74214a26f279) in [Associated Press News](https://apnews.com/) on 22 December 1991 about [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/df4748de657e2a79a5ec74214a26f279))
 
 ----

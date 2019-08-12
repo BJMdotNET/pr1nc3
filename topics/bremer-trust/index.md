@@ -12,8 +12,8 @@
       [September](./bremer-trust-2016-09.md) (1) | 
       [August](./bremer-trust-2016-08.md) (1) | 
       [July](./bremer-trust-2016-07.md) (1) | 
-      [June](./bremer-trust-2016-06.md) (5) | 
-      [May](./bremer-trust-2016-05.md) (3) | 
+      [June](./bremer-trust-2016-06.md) (6) | 
+      [May](./bremer-trust-2016-05.md) (4) | 
       [April](./bremer-trust-2016-04.md) (3) | 
 
 ----

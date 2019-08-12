@@ -7,7 +7,7 @@
   * 2018: 
       [February](./new-power-generation-2018-02.md) (1) | 
   * 2017: 
-      [April](./new-power-generation-2017-04.md) (1) | 
+      [April](./new-power-generation-2017-04.md) (2) | 
   * 2016: 
       [November](./new-power-generation-2016-11.md) (2) | 
       [September](./new-power-generation-2016-09.md) (2) | 

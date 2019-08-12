@@ -9,7 +9,7 @@
       [September](./judith-hill-2016-09.md) (2) | 
       [April](./judith-hill-2016-04.md) (4) | 
   * 2015: 
-      [October](./judith-hill-2015-10.md) (1) | 
+      [October](./judith-hill-2015-10.md) (2) | 
       [April](./judith-hill-2015-04.md) (1) | 
 
 ----

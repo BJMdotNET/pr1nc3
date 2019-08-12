@@ -9,7 +9,7 @@
   * [Diamonds & Pearls (Album)](./album/diamonds-pearls/) (1)
   * [Dirty Mind (Album)](./album/dirty-mind/) (2)
   * [Dream Factory (Album)](./album/dream-factory/) (1)
-  * [Emancipation (Album)](./album/emancipation/) (8)
+  * [Emancipation (Album)](./album/emancipation/) (9)
   * [Everything Blows (Album)](./album/everything-blows/) (1)
   * [Graffiti Bridge (Album)](./album/graffiti-bridge/) (2)
   * [LotusFlow3r (Album)](./album/lotusflow3r/) (1)

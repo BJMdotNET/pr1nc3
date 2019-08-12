@@ -16,7 +16,7 @@
       [September](./mayte-2016-09.md) (1) | 
       [July](./mayte-2016-07.md) (1) | 
       [June](./mayte-2016-06.md) (2) | 
-      [April](./mayte-2016-04.md) (1) | 
+      [April](./mayte-2016-04.md) (3) | 
   * 2006: 
       [July](./mayte-2006-07.md) (1) | 
   * 1997: 

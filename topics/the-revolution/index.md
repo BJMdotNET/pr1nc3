@@ -13,10 +13,11 @@
       [August](./the-revolution-2017-08.md) (1) | 
       [July](./the-revolution-2017-07.md) (1) | 
       [May](./the-revolution-2017-05.md) (1) | 
-      [April](./the-revolution-2017-04.md) (2) | 
+      [April](./the-revolution-2017-04.md) (6) | 
   * 2016: 
       [November](./the-revolution-2016-11.md) (2) | 
       [September](./the-revolution-2016-09.md) (1) | 
+      [July](./the-revolution-2016-07.md) (1) | 
 
 ----
 

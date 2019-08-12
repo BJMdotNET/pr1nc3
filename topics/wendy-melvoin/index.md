@@ -7,6 +7,8 @@
       [April](./wendy-melvoin-2019-04.md) (2) | 
   * 2018: 
       [September](./wendy-melvoin-2018-09.md) (1) | 
+  * 2017: 
+      [April](./wendy-melvoin-2017-04.md) (3) | 
   * 2016: 
       [September](./wendy-melvoin-2016-09.md) (1) | 
 

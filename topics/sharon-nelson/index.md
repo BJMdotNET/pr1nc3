@@ -6,6 +6,7 @@
       [April](./sharon-nelson-2018-04.md) (1) | 
       [March](./sharon-nelson-2018-03.md) (2) | 
   * 2017: 
+      [November](./sharon-nelson-2017-11.md) (1) | 
       [October](./sharon-nelson-2017-10.md) (1) | 
       [June](./sharon-nelson-2017-06.md) (1) | 
       [May](./sharon-nelson-2017-05.md) (2) | 

@@ -7,7 +7,7 @@
       [June](./when-doves-cry-song-2017-06.md) (1) | 
       [April](./when-doves-cry-song-2017-04.md) (1) | 
   * 2016: 
-      [April](./when-doves-cry-song-2016-04.md) (4) | 
+      [April](./when-doves-cry-song-2016-04.md) (5) | 
 
 ----
 

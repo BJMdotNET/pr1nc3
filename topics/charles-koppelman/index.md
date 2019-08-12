@@ -13,7 +13,7 @@
       [December](./charles-koppelman-2016-12.md) (1) | 
       [November](./charles-koppelman-2016-11.md) (1) | 
       [September](./charles-koppelman-2016-09.md) (1) | 
-      [June](./charles-koppelman-2016-06.md) (1) | 
+      [June](./charles-koppelman-2016-06.md) (2) | 
 
 ----
 

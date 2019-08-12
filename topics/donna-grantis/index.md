@@ -10,7 +10,7 @@
   * 2016: 
       [April](./donna-grantis-2016-04.md) (1) | 
   * 2015: 
-      [October](./donna-grantis-2015-10.md) (1) | 
+      [October](./donna-grantis-2015-10.md) (2) | 
   * 2014: 
       [September](./donna-grantis-2014-09.md) (1) | 
       [February](./donna-grantis-2014-02.md) (1) | 
