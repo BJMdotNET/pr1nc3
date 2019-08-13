@@ -15,6 +15,7 @@
       [April](./tyka-nelson-2017-04.md) (2) | 
       [January](./tyka-nelson-2017-01.md) (1) | 
   * 2016: 
+      [November](./tyka-nelson-2016-11.md) (1) | 
       [October](./tyka-nelson-2016-10.md) (6) | 
       [September](./tyka-nelson-2016-09.md) (1) | 
       [August](./tyka-nelson-2016-08.md) (1) | 

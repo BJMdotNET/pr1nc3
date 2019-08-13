@@ -8,6 +8,10 @@
 
 ----
 
+ - [**"Stevie Nicks to honor Prince during upcoming US tour"**](https://apnews.com/b2990df0c26e4ee2939c4771e90c3383) in [Associated Press News](https://apnews.com/) on 13 September 2016 about [Little Red Corvette (Song)](../../../topics/song/little-red-corvette/index.md), [vault](../../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/b2990df0c26e4ee2939c4771e90c3383))
+
+----
+
  - [**"Prince was a one-man band and a friend to many others"**](https://apnews.com/508256962cd942f3bc61e1cc034900ad) in [Associated Press News](https://apnews.com/) on 25 April 2016 about [Bangles](../../../topics/bangles/index.md), [Chaka Khan](../../../topics/chaka-khan/index.md), [Esperanza Spalding](../../../topics/esperanza-spalding/index.md), [Grammy Award](../../../topics/grammy-award/index.md), [I Feel For You (Song)](../../../topics/song/i-feel-for-you/index.md), [Judith Hill](../../../topics/judith-hill/index.md), [Little Red Corvette (Song)](../../../topics/song/little-red-corvette/index.md), [Liv Warfield](../../../topics/liv-warfield/index.md), [Manic Monday (Song)](../../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (Song)](../../../topics/song/nothing-compares-2-u/index.md), [Rita Ora](../../../topics/rita-ora/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [Stevie Wonder](../../../topics/stevie-wonder/index.md), [Sunset Sound (Place)](../../../topics/place/sunset-sound/index.md), [YouTube](../../../topics/youtube/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/508256962cd942f3bc61e1cc034900ad))
 
 ----
@@ -16,11 +20,19 @@
 
 ----
 
+ - [**"Prince offered a ticket to a forbidden world in his music"**](https://apnews.com/6c306c0a54cf48eea82ce15e437829fa) in [Associated Press News](https://apnews.com/) on 22 April 2016 about [Alan Light](../../../topics/alan-light/index.md), [Darling Nikki (Song)](../../../topics/song/darling-nikki/index.md), [Do It All Night (Song)](../../../topics/song/do-it-all-night/index.md), [Erotic City (Song)](../../../topics/song/erotic-city/index.md), [Let’s Go Crazy (Song)](../../../topics/song/let-s-go-crazy/index.md), [Little Red Corvette (Song)](../../../topics/song/little-red-corvette/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/6c306c0a54cf48eea82ce15e437829fa))
+
+----
+
  - [**"Prince, hugely inventive, influential musician, dead at 57"**](https://apnews.com/988e107cf6964494b58ad2ca9bcd0985) in [Associated Press News](https://apnews.com/) on 22 April 2016 about [Academy Award](../../../topics/academy-award/index.md), [Atlanta (Place)](../../../topics/place/atlanta/index.md), [Bangles](../../../topics/bangles/index.md), [I Wanna Be Your Lover (Song)](../../../topics/song/i-wanna-be-your-lover/index.md), [James Brown](../../../topics/james-brown/index.md), [Judith Hill](../../../topics/judith-hill/index.md), [Little Red Corvette (Song)](../../../topics/song/little-red-corvette/index.md), [Manic Monday (Song)](../../../topics/song/manic-monday/index.md), [memoir](../../../topics/memoir/index.md), [Morris Day](../../../topics/morris-day/index.md), [Nothing Compares 2 U (Song)](../../../topics/song/nothing-compares-2-u/index.md), [Obama](../../../topics/obama/index.md), [Roger Ebert](../../../topics/roger-ebert/index.md), [Tidal](../../../topics/tidal/index.md), [Vanity](../../../topics/vanity/index.md), [White House (Place)](../../../topics/place/white-house/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/988e107cf6964494b58ad2ca9bcd0985))
 
 ----
 
  - [**"Prince: More Important Than POTUS"**](https://www.prnewswire.com/news-releases/prince-more-important-than-potus-300255767.html) in [PR Newswire](https://www.prnewswire.com/) on 21 April 2016 about [Little Red Corvette (Song)](../../../topics/song/little-red-corvette/index.md), [Purple Rain (Song)](../../../topics/song/purple-rain/index.md), [When Doves Cry (Song)](../../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/prince-more-important-than-potus-300255767.html))
+
+----
+
+ - [**"Costello, D’Angelo, more perform at Prince tribute"**](https://apnews.com/f78be2e8ad1b4b7ebeb0c45b96f32081) in [Associated Press News](https://apnews.com/) on 8 March 2013 about [D’Angelo](../../../topics/d-angelo/index.md), [Darling Nikki (Song)](../../../topics/song/darling-nikki/index.md), [Eric Leeds](../../../topics/eric-leeds/index.md), [Fred Armisen](../../../topics/fred-armisen/index.md), [Gretchen Lieberum](../../../topics/gretchen-lieberum/index.md), [Let’s Go Crazy (Song)](../../../topics/song/let-s-go-crazy/index.md), [Little Red Corvette (Song)](../../../topics/song/little-red-corvette/index.md), [Maya Rudolph](../../../topics/maya-rudolph/index.md), [Paul Peterson](../../../topics/paul-peterson/index.md), [Pop Life (Song)](../../../topics/song/pop-life/index.md), [PRINCEss](../../../topics/princess/index.md), [Questlove](../../../topics/questlove/index.md), [St. Paul Peterson](../../../topics/st-paul-peterson/index.md), [Susannah Melvoin](../../../topics/susannah-melvoin/index.md), [The Beautiful Ones (Song)](../../../topics/song/the-beautiful-ones/index.md), [The Revolution](../../../topics/the-revolution/index.md), [The Roots](../../../topics/the-roots/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/f78be2e8ad1b4b7ebeb0c45b96f32081))
 
 ----
 

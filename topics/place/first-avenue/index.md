@@ -20,7 +20,7 @@
       [December](./first-avenue-place-2016-12.md) (2) | 
       [November](./first-avenue-place-2016-11.md) (1) | 
       [September](./first-avenue-place-2016-09.md) (1) | 
-      [July](./first-avenue-place-2016-07.md) (1) | 
+      [July](./first-avenue-place-2016-07.md) (2) | 
       [June](./first-avenue-place-2016-06.md) (1) | 
       [April](./first-avenue-place-2016-04.md) (6) | 
   * 2015: 

@@ -4,4 +4,8 @@
 
 ----
 
+ - [**"Prince estate administrator denies plan to sell Paisley Park"**](https://apnews.com/12d774f67dfe4484a7a32024063ed4e5) in [Associated Press News](https://apnews.com/) on 7 August 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [Prince Estate](../../topics/prince-estate/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/12d774f67dfe4484a7a32024063ed4e5))
+
+----
+
 [Home](./)

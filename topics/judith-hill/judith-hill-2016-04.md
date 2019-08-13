@@ -12,6 +12,10 @@
 
 ----
 
+ - [**"Oprah, Mick Jagger among celebs to react to Prince’s death"**](https://apnews.com/ad3076cbbe69473495debc13e52669c5) in [Associated Press News](https://apnews.com/) on 22 April 2016 about [Albert Magnoli](../../topics/albert-magnoli/index.md), [Grammy Award](../../topics/grammy-award/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Obama](../../topics/obama/index.md), [Rita Ora](../../topics/rita-ora/index.md), [Spike Lee](../../topics/spike-lee/index.md), [Super Bowl](../../topics/super-bowl/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/ad3076cbbe69473495debc13e52669c5))
+
+----
+
  - [**"Prince, hugely inventive, influential musician, dead at 57"**](https://apnews.com/988e107cf6964494b58ad2ca9bcd0985) in [Associated Press News](https://apnews.com/) on 22 April 2016 about [Academy Award](../../topics/academy-award/index.md), [Atlanta (Place)](../../topics/place/atlanta/index.md), [Bangles](../../topics/bangles/index.md), [I Wanna Be Your Lover (Song)](../../topics/song/i-wanna-be-your-lover/index.md), [James Brown](../../topics/james-brown/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Little Red Corvette (Song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (Song)](../../topics/song/manic-monday/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Nothing Compares 2 U (Song)](../../topics/song/nothing-compares-2-u/index.md), [Obama](../../topics/obama/index.md), [Roger Ebert](../../topics/roger-ebert/index.md), [Tidal](../../topics/tidal/index.md), [Vanity](../../topics/vanity/index.md), [White House (Place)](../../topics/place/white-house/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/988e107cf6964494b58ad2ca9bcd0985))
 
 ----

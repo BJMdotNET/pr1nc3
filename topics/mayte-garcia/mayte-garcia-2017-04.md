@@ -8,7 +8,7 @@
 
 ----
 
- - [**"AM Prep-Segue"**](https://apnews.com/94705887ea764bd1b5d2381eb0622bb9) in [Associated Press News](https://apnews.com/) on 11 April 2017 about [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [The Most Beautiful (Book)](../../topics/book/the-most-beautiful/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/94705887ea764bd1b5d2381eb0622bb9))
+ - [**"AM Prep-Segue -- MAYTE GARCIA, PRINCE’S EX, WRITES BOOK"**](https://apnews.com/94705887ea764bd1b5d2381eb0622bb9) in [Associated Press News](https://apnews.com/) on 11 April 2017 about [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [The Most Beautiful (Book)](../../topics/book/the-most-beautiful/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/94705887ea764bd1b5d2381eb0622bb9))
 
 ----
 

@@ -1,6 +1,6 @@
 # L. Londell McMilllan
 
- - [**"AM Prep-Music"**](https://apnews.com/63ffae131dda46bcb6a431332d0a5efc) by The Associated Press in [Associated Press News](https://apnews.com/) on 13 April 2017 about [Charles Koppelman](../../topics/charles-koppelman/index.md), [L. Londell McMilllan](../../topics/l-londell-mcmilllan/index.md), [Troy Carter](../../topics/troy-carter/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/63ffae131dda46bcb6a431332d0a5efc))
+ - [**"AM Prep-Music -- PRINCE’S SIBLINGS WANT TO BE DECLARED HIS HEIRS / TROY CARTER NAMED ENTERTAINMENT ADVISER FOR PRINCE ESTATE"**](https://apnews.com/63ffae131dda46bcb6a431332d0a5efc) by The Associated Press in [Associated Press News](https://apnews.com/) on 13 April 2017 about [Carver County](../../topics/carver-county/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [L. Londell McMilllan](../../topics/l-londell-mcmilllan/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Troy Carter](../../topics/troy-carter/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/63ffae131dda46bcb6a431332d0a5efc))
 
 ----
 

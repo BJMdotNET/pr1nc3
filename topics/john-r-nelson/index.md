@@ -4,7 +4,7 @@
 
 ----
 
- - [**"AM Prep-Segue"**](https://apnews.com/1a747d45ed414fbe9752c5b2c7e2063f) in [Associated Press News](https://apnews.com/) on 31 October 2017 about [Comerica Bank & Trust](../../topics/comerica-bank-trust/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/1a747d45ed414fbe9752c5b2c7e2063f))
+ - [**"AM Prep-Segue -- PRINCE HEIRS COMPLAIN ABOUT EXECUTOR"**](https://apnews.com/1a747d45ed414fbe9752c5b2c7e2063f) in [Associated Press News](https://apnews.com/) on 31 October 2017 about [Comerica Bank & Trust](../../topics/comerica-bank-trust/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/1a747d45ed414fbe9752c5b2c7e2063f))
 
 ----
 

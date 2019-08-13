@@ -21,12 +21,12 @@
       [July](./prince-estate-2017-07.md) (1) | 
       [June](./prince-estate-2017-06.md) (1) | 
       [May](./prince-estate-2017-05.md) (1) | 
-      [April](./prince-estate-2017-04.md) (2) | 
+      [April](./prince-estate-2017-04.md) (3) | 
       [January](./prince-estate-2017-01.md) (4) | 
   * 2016: 
       [October](./prince-estate-2016-10.md) (3) | 
       [September](./prince-estate-2016-09.md) (4) | 
-      [August](./prince-estate-2016-08.md) (1) | 
+      [August](./prince-estate-2016-08.md) (2) | 
       [June](./prince-estate-2016-06.md) (1) | 
       [May](./prince-estate-2016-05.md) (3) | 
 

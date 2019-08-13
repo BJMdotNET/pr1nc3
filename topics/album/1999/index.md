@@ -12,6 +12,10 @@
 
 ----
 
+ - [**"Prince’s band, The Revolution, pays tribute to him at Mohegan Sun’s Wolf Den"**](https://apnews.com/adb446ee03a044f8a94e407e19646fdd) in [Associated Press News](https://apnews.com/) on 5 August 2017 about [1999 (Album)](../../../topics/album/1999/index.md), [Bobby Z.](../../../topics/bobby-z/index.md), [BrownMark](../../../topics/brownmark/index.md), [Lisa Coleman](../../../topics/lisa-coleman/index.md), [Parade (Album)](../../../topics/album/parade/index.md), [Purple Rain (Album)](../../../topics/album/purple-rain/index.md), [The Revolution](../../../topics/the-revolution/index.md), [Warner Bros. Records](../../../topics/warner-bros-records/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/adb446ee03a044f8a94e407e19646fdd))
+
+----
+
  - [**"Prince album covers for 'Purple Rain,' 'Lovesexy,' 'Parade' created by University Heights' Laura LiPuma Nash (photos)"**](https://www.cleveland.com/entertainment/2016/04/prince_album_covers_for_purple.html) in [Cleveland.com](https://www.cleveland.com/) on 29 April 2016 about [1999 (Album)](../../../topics/album/1999/index.md), [Grammy Award](../../../topics/grammy-award/index.md), [Laura LiPuma](../../../topics/laura-lipuma/index.md), [Lovesexy (Album)](../../../topics/album/lovesexy/index.md), [Parade (Album)](../../../topics/album/parade/index.md), [Purple Rain (Album)](../../../topics/album/purple-rain/index.md), [Warner Bros. Records](../../../topics/warner-bros-records/index.md), [When Doves Cry (Song)](../../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://www.cleveland.com/entertainment/2016/04/prince_album_covers_for_purple.html))
 
 ----

@@ -12,6 +12,10 @@
 
 ----
 
+ - [**"Oprah, Mick Jagger among celebs to react to Prince’s death"**](https://apnews.com/ad3076cbbe69473495debc13e52669c5) in [Associated Press News](https://apnews.com/) on 22 April 2016 about [Albert Magnoli](../../topics/albert-magnoli/index.md), [Grammy Award](../../topics/grammy-award/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Obama](../../topics/obama/index.md), [Rita Ora](../../topics/rita-ora/index.md), [Spike Lee](../../topics/spike-lee/index.md), [Super Bowl](../../topics/super-bowl/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/ad3076cbbe69473495debc13e52669c5))
+
+----
+
  - [**"Memorable moments from Paisley Park"**](https://apnews.com/d341d2b22be74bf7843f3c485d527b18) by Nekesa Mumbi Moody (Associated Press) in [Associated Press News](https://apnews.com/) on 29 September 2014 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Donna Grantis](../../topics/donna-grantis/index.md), [James Brown](../../topics/james-brown/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Rita Ora](../../topics/rita-ora/index.md), [YouTube](../../topics/youtube/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/d341d2b22be74bf7843f3c485d527b18))
 
 ----

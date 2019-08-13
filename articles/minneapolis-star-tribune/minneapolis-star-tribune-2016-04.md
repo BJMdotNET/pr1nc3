@@ -4,6 +4,10 @@
 
 ----
 
+ - [**"Investigation into Prince's death now is a criminal probe -- The Carver County Sheriff's Office cited an exception to Minnesota public records laws allowing the suppression of information relating to preparing a case "for the commission of a crime.""**](http://www.startribune.com/carver-county-judge-seals-search-warrants-in-prince-death-investigation/377456111/) by David Chanen in [Minneapolis Star Tribune](http://www.startribune.com/) on 29 April 2016 about [Carver County](../../topics/carver-county/index.md), [Jim Olson](../../topics/jim-olson/index.md), [Mark Metz](../../topics/mark-metz/index.md), [The Time](../../topics/the-time/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/carver-county-judge-seals-search-warrants-in-prince-death-investigation/377456111/))
+
+----
+
  - [**"Letters from Prince: A Minneapolis writer remembers his relationship with a lost star -- Minnesota native Neal Karlen was 25 years old when he landed the first of two in-depth interviews with Prince for Rolling Stone. What followed were 31 years of handwritten notes, late-night calls and an unlikely friendship."**](http://www.startribune.com/letters-from-prince-a-minneapolis-writer-remembers-his-relationship-with-a-lost-star/377555951/) by Neal Karlen in [Minneapolis Star Tribune](http://www.startribune.com/) on 29 April 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/letters-from-prince-a-minneapolis-writer-remembers-his-relationship-with-a-lost-star/377555951/))
 
 ----
@@ -13,10 +17,6 @@
 ----
 
  - [**"Fans' Holy Grail: unreleased songs in Prince's vault"**](http://www.startribune.com/fans-holy-grail-unreleased-songs-in-prince-s-vault/377485941/) by Christopher Weber (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 28 April 2016 about [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/fans-holy-grail-unreleased-songs-in-prince-s-vault/377485941/))
-
-----
-
- - [**"Investigation into Prince's death now is a criminal probe -- The Carver County Sheriff's Office cited an exception to Minnesota public records laws allowing the suppression of information relating to preparing a case "for the commission of a crime.""**](http://www.startribune.com/carver-county-judge-seals-search-warrants-in-prince-death-investigation/377456111/) by David Chanen in [Minneapolis Star Tribune](http://www.startribune.com/) on 28 April 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/carver-county-judge-seals-search-warrants-in-prince-death-investigation/377456111/))
 
 ----
 

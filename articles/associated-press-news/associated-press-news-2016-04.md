@@ -24,6 +24,10 @@
 
 ----
 
+ - [**"Prince’s old band plans to reunite for ‘some shows’"**](https://apnews.com/ade0aa56238f4568922b2146927df0bd) in [Associated Press News](https://apnews.com/) on 27 April 2016 about [The Revolution](../../topics/the-revolution/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/ade0aa56238f4568922b2146927df0bd))
+
+----
+
  - [**"Prince’s sister says musician had no known will"**](https://apnews.com/b7bcc90e42904f679c07158bf5e851a3) in [Associated Press News](https://apnews.com/) on 27 April 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [First Avenue (Place)](../../topics/place/first-avenue/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/b7bcc90e42904f679c07158bf5e851a3))
 
 ----
@@ -41,6 +45,10 @@
 ----
 
  - [**"Latest: Publicist: SNL devotes show to Prince tribute"**](https://apnews.com/b57342f2b68447639ef7589c0caa9ee8) in [Associated Press News](https://apnews.com/) on 24 April 2016 about [3121 (Album)](../../topics/album/3121/index.md), [Carver County](../../topics/carver-county/index.md), [First Avenue (Place)](../../topics/place/first-avenue/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Minnesota History Center](../../topics/minnesota-history-center/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/b57342f2b68447639ef7589c0caa9ee8))
+
+----
+
+ - [**"Eric Clapton recalls how Prince inspired ‘Holy Mother’"**](https://apnews.com/cfccdaf1481040cc962ce6bc1a79d227) in [Associated Press News](https://apnews.com/) on 23 April 2016 about [Eric Clapton](../../topics/eric-clapton/index.md), [Holy Mother (Song)](../../topics/song/holy-mother/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/cfccdaf1481040cc962ce6bc1a79d227))
 
 ----
 
@@ -64,11 +72,23 @@
 
 ----
 
+ - [**"A Prince on screen, from ‘Purple Rain’ to ‘Graffiti Bridge’"**](https://apnews.com/8082812e075544679812ad4cc742307f) in [Associated Press News](https://apnews.com/) on 22 April 2016 about [Academy Award](../../topics/academy-award/index.md), [Batdance (Song)](../../topics/song/batdance/index.md), [Batman (Album)](../../topics/album/batman/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Glam Slam (Place)](../../topics/place/glam-slam/index.md), [Graffiti Bridge (Movie)](../../topics/movie/graffiti-bridge/index.md), [Grammy Award](../../topics/grammy-award/index.md), [I Feel For You (Song)](../../topics/song/i-feel-for-you/index.md), [Krush Groove](../../topics/krush-groove/index.md), [Morris Day](../../topics/morris-day/index.md), [Parade (Album)](../../topics/album/parade/index.md), [Purple Rain (Movie)](../../topics/movie/purple-rain/index.md), [Roger Ebert](../../topics/roger-ebert/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Time](../../topics/the-time/index.md), [Under the Cherry Moon (Movie)](../../topics/movie/under-the-cherry-moon/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/8082812e075544679812ad4cc742307f))
+
+----
+
  - [**"A synthesizer of sounds, Prince ‘rewrote the rulebook’"**](https://apnews.com/c07d6a9a2752405fa8ed91e8d949806a) in [Associated Press News](https://apnews.com/) on 22 April 2016 about [Bangles](../../topics/bangles/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Manic Monday (Song)](../../topics/song/manic-monday/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Nothing Compares 2 U (Song)](../../topics/song/nothing-compares-2-u/index.md), [Obama](../../topics/obama/index.md), [Roger Ebert](../../topics/roger-ebert/index.md), [The Time](../../topics/the-time/index.md), [White House (Place)](../../topics/place/white-house/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/c07d6a9a2752405fa8ed91e8d949806a))
 
 ----
 
+ - [**"Oprah, Mick Jagger among celebs to react to Prince’s death"**](https://apnews.com/ad3076cbbe69473495debc13e52669c5) in [Associated Press News](https://apnews.com/) on 22 April 2016 about [Albert Magnoli](../../topics/albert-magnoli/index.md), [Grammy Award](../../topics/grammy-award/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Obama](../../topics/obama/index.md), [Rita Ora](../../topics/rita-ora/index.md), [Spike Lee](../../topics/spike-lee/index.md), [Super Bowl](../../topics/super-bowl/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/ad3076cbbe69473495debc13e52669c5))
+
+----
+
  - [**"Pop superstar Prince dies at his Minnesota home at age 57"**](https://apnews.com/b9e3df0421a04344835cd4fac7680c24) in [Associated Press News](https://apnews.com/) on 22 April 2016 about [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Nothing Compares 2 U (Song)](../../topics/song/nothing-compares-2-u/index.md), [Obama](../../topics/obama/index.md), [When Doves Cry (Song)](../../topics/song/when-doves-cry/index.md), [White House (Place)](../../topics/place/white-house/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/b9e3df0421a04344835cd4fac7680c24))
+
+----
+
+ - [**"Prince offered a ticket to a forbidden world in his music"**](https://apnews.com/6c306c0a54cf48eea82ce15e437829fa) in [Associated Press News](https://apnews.com/) on 22 April 2016 about [Alan Light](../../topics/alan-light/index.md), [Darling Nikki (Song)](../../topics/song/darling-nikki/index.md), [Do It All Night (Song)](../../topics/song/do-it-all-night/index.md), [Erotic City (Song)](../../topics/song/erotic-city/index.md), [Let’s Go Crazy (Song)](../../topics/song/let-s-go-crazy/index.md), [Little Red Corvette (Song)](../../topics/song/little-red-corvette/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/6c306c0a54cf48eea82ce15e437829fa))
 
 ----
 

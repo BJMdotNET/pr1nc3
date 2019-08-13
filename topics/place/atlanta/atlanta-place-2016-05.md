@@ -8,6 +8,10 @@
 
 ----
 
+ - [**"Financial Wiz Paul D. Jones Weighs In on Prince's Estate Preparedness"**](https://www.prnewswire.com/news-releases/financial-wiz-paul-d-jones-weighs-in-on-princes-estate-preparedness-300265072.html) in [PR Newswire](https://www.prnewswire.com/) on 9 May 2016 about [Atlanta (Place)](../../../topics/place/atlanta/index.md) ([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/financial-wiz-paul-d-jones-weighs-in-on-princes-estate-preparedness-300265072.html))
+
+----
+
  - [**"Longtime chef: Prince fought throat, stomach pains recently"**](https://apnews.com/cc2bbe6ca3f74392a76e6045e2029eff) in [Associated Press News](https://apnews.com/) on 1 May 2016 about [Atlanta (Place)](../../../topics/place/atlanta/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/cc2bbe6ca3f74392a76e6045e2029eff))
 
 ----

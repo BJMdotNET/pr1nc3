@@ -4,7 +4,7 @@
 
 ----
 
- - [**"AM Prep-Segue"**](https://apnews.com/94705887ea764bd1b5d2381eb0622bb9) in [Associated Press News](https://apnews.com/) on 11 April 2017 about [Mayte](../../../topics/mayte/index.md), [Mayte Garcia](../../../topics/mayte-garcia/index.md), [The Most Beautiful (Book)](../../../topics/book/the-most-beautiful/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/94705887ea764bd1b5d2381eb0622bb9))
+ - [**"AM Prep-Segue -- MAYTE GARCIA, PRINCE’S EX, WRITES BOOK"**](https://apnews.com/94705887ea764bd1b5d2381eb0622bb9) in [Associated Press News](https://apnews.com/) on 11 April 2017 about [Mayte](../../../topics/mayte/index.md), [Mayte Garcia](../../../topics/mayte-garcia/index.md), [The Most Beautiful (Book)](../../../topics/book/the-most-beautiful/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/94705887ea764bd1b5d2381eb0622bb9))
 
 ----
 
@@ -12,7 +12,7 @@
 
 ----
 
- - [**"AM Prep-Music"**](https://apnews.com/00a854bad6dc4bea836dcf16182e0978) in [Associated Press News](https://apnews.com/) on 16 March 2017 about [Mayte](../../../topics/mayte/index.md), [Pfeiffer syndrome type 2](../../../topics/pfeiffer-syndrome-type-2/index.md), [The Most Beautiful (Book)](../../../topics/book/the-most-beautiful/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/00a854bad6dc4bea836dcf16182e0978))
+ - [**"AM Prep-Music -- PRINCE’S EX OPENS UP ABOUT THE DEATH OF THEIR SON"**](https://apnews.com/00a854bad6dc4bea836dcf16182e0978) in [Associated Press News](https://apnews.com/) on 16 March 2017 about [Mayte](../../../topics/mayte/index.md), [Pfeiffer syndrome type 2](../../../topics/pfeiffer-syndrome-type-2/index.md), [The Most Beautiful (Book)](../../../topics/book/the-most-beautiful/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/00a854bad6dc4bea836dcf16182e0978))
 
 ----
 

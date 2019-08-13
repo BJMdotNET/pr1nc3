@@ -1,6 +1,14 @@
 # Associated Press News: September 2018
 
+ - [**"Minnesota Historical Society obtains more Prince items"**](https://apnews.com/7e26d95348014ce48fc8987eff0d14fc) in [Associated Press News](https://apnews.com/) on 30 September 2018 ([mirror](https://web.archive.org/web/*/https://apnews.com/7e26d95348014ce48fc8987eff0d14fc))
+
+----
+
  - [**"Thanks to a University of Minnesota degree, his name is ‘Dr. Prince’ now"**](https://apnews.com/38a03f35b393465ba72fa83d6841b3a3) in [Associated Press News](https://apnews.com/) on 27 September 2018 about [Central High](../../topics/central-high/index.md), [Cloud guitar](../../topics/cloud-guitar/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Nothing Compares 2 U (Song)](../../topics/song/nothing-compares-2-u/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Paul Peterson](../../topics/paul-peterson/index.md), [St. Paul Peterson](../../topics/st-paul-peterson/index.md), [Tommy Barbarella](../../topics/tommy-barbarella/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/38a03f35b393465ba72fa83d6841b3a3))
+
+----
+
+ - [**"AM Prep-Music -- PRINCE’S HOME JAM SESSION WILL BE RELEASED FRIDAY"**](https://apnews.com/d1f539d7cbc541b8ba4d82c1539d9ba6) in [Associated Press News](https://apnews.com/) on 19 September 2018 about [Lisa Coleman](../../topics/lisa-coleman/index.md), [Piano and a Microphone 1983 (Album)](../../topics/album/piano-and-a-microphone-1983/index.md), [The Revolution](../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/d1f539d7cbc541b8ba4d82c1539d9ba6))
 
 ----
 

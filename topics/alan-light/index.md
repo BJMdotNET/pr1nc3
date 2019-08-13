@@ -12,4 +12,8 @@
 
 ----
 
+ - [**"Prince offered a ticket to a forbidden world in his music"**](https://apnews.com/6c306c0a54cf48eea82ce15e437829fa) in [Associated Press News](https://apnews.com/) on 22 April 2016 about [Alan Light](../../topics/alan-light/index.md), [Darling Nikki (Song)](../../topics/song/darling-nikki/index.md), [Do It All Night (Song)](../../topics/song/do-it-all-night/index.md), [Erotic City (Song)](../../topics/song/erotic-city/index.md), [Let’s Go Crazy (Song)](../../topics/song/let-s-go-crazy/index.md), [Little Red Corvette (Song)](../../topics/song/little-red-corvette/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/6c306c0a54cf48eea82ce15e437829fa))
+
+----
+
 [Home](../)

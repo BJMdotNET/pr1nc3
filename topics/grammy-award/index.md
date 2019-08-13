@@ -11,9 +11,13 @@
       [February](./grammy-award-2017-02.md) (1) | 
   * 2016: 
       [December](./grammy-award-2016-12.md) (1) | 
-      [April](./grammy-award-2016-04.md) (3) | 
+      [April](./grammy-award-2016-04.md) (5) | 
   * 2014: 
       [December](./grammy-award-2014-12.md) (1) | 
+  * 1986: 
+      [July](./grammy-award-1986-07.md) (1) | 
+  * 1985: 
+      [February](./grammy-award-1985-02.md) (1) | 
 
 ----
 

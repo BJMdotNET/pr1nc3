@@ -44,6 +44,10 @@
 
 ----
 
+ - [**"Prince’s death: The view from front lines of drug epidemic"**](https://apnews.com/0796ee79840b4047a3b16d3f4dbebe8f) in [Associated Press News](https://apnews.com/) on 4 May 2016 about [fentanyl](../../topics/fentanyl/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/0796ee79840b4047a3b16d3f4dbebe8f))
+
+----
+
  - [**"Bassist: Prince found ‘real happiness’ as Jehovah’s Witness"**](https://apnews.com/9d74a545f96f473fa81c37073329320a) in [Associated Press News](https://apnews.com/) on 3 May 2016 about [Larry Graham](../../topics/larry-graham/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/9d74a545f96f473fa81c37073329320a))
 
 ----

@@ -4,6 +4,18 @@
 
 ----
 
+ - [**"Singer Gwen Stefani to wrap up Super Bowl week performances"**](https://apnews.com/80ec55b99dd74c77b9d3fbcd79adf7c1) in [Associated Press News](https://apnews.com/) on 12 December 2017 about [Gwen Stefani](../../topics/gwen-stefani/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Super Bowl](../../topics/super-bowl/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/80ec55b99dd74c77b9d3fbcd79adf7c1))
+
+----
+
+ - [**"Ellie Goulding, DJ Kygo to perform during Super Bowl week"**](https://apnews.com/283071a69cd5493380935bf78796d91c) in [Associated Press News](https://apnews.com/) on 6 December 2017 about [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Super Bowl](../../topics/super-bowl/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/283071a69cd5493380935bf78796d91c))
+
+----
+
+ - [**"Super Bowl Live concert series will include Prince tribute"**](https://apnews.com/30711cb14b744f1aa016784116c806cc) in [Associated Press News](https://apnews.com/) on 1 December 2017 about [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/30711cb14b744f1aa016784116c806cc))
+
+----
+
  - [**"Stevie Wonder, Chaka Khan headline Prince tribute show"**](https://apnews.com/776650efcc1b4b3997f8af7b73f4e16c) in [Associated Press News](https://apnews.com/) on 14 October 2016 about [Anita Baker](../../topics/anita-baker/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Chris Coleman](../../topics/chris-coleman/index.md), [Christina Aguilera](../../topics/christina-aguilera/index.md), [Doug E. Fresh](../../topics/doug-e-fresh/index.md), [I Feel For You (Song)](../../topics/song/i-feel-for-you/index.md), [Jessie J](../../topics/jessie-j/index.md), [John Mayer](../../topics/john-mayer/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Prince Day](../../topics/prince-day/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Tori Kelly](../../topics/tori-kelly/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Xcel Energy Center (Place)](../../topics/place/xcel-energy-center/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/776650efcc1b4b3997f8af7b73f4e16c))
 
 ----

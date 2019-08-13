@@ -13,7 +13,7 @@
       [July](./purple-rain-movie-2017-07.md) (1) | 
       [April](./purple-rain-movie-2017-04.md) (1) | 
   * 2016: 
-      [April](./purple-rain-movie-2016-04.md) (1) | 
+      [April](./purple-rain-movie-2016-04.md) (2) | 
       [February](./purple-rain-movie-2016-02.md) (1) | 
   * 2014: 
       [July](./purple-rain-movie-2014-07.md) (1) | 

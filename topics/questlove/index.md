@@ -12,11 +12,19 @@
 
 ----
 
+ - [**"AM Prep-Music -- FILM ACADEMY INVITES ETHERIDGE, LAMAR TO JOIN"**](https://apnews.com/755479884aae40f38493176035af1f3e) in [Associated Press News](https://apnews.com/) on 26 June 2018 about [Questlove](../../topics/questlove/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/755479884aae40f38493176035af1f3e))
+
+----
+
  - [**"2016: The Year in Entertainment"**](https://apnews.com/0980c1b2845f4c41b234f5e4ed0cd57a) in [Associated Press News](https://apnews.com/) on 30 December 2016 about [Academy Award](../../topics/academy-award/index.md), [fentanyl](../../topics/fentanyl/index.md), [Grammy Award](../../topics/grammy-award/index.md), [Questlove](../../topics/questlove/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/0980c1b2845f4c41b234f5e4ed0cd57a))
 
 ----
 
  - [**"Prince's Revolution turns the party up in its second First Ave tribute show"**](http://www.startribune.com/prince-s-revolution-turns-the-party-up-in-its-second-first-ave-tribute-show/392244021/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 3 September 2016 about [Baby I'm a Star (Song)](../../topics/song/baby-i-m-a-star/index.md), [Computer Blue (Song)](../../topics/song/computer-blue/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [First Avenue (Place)](../../topics/place/first-avenue/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Purple Rain (Song)](../../topics/song/purple-rain/index.md), [Questlove](../../topics/questlove/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-revolution-turns-the-party-up-in-its-second-first-ave-tribute-show/392244021/))
+
+----
+
+ - [**"Costello, D’Angelo, more perform at Prince tribute"**](https://apnews.com/f78be2e8ad1b4b7ebeb0c45b96f32081) in [Associated Press News](https://apnews.com/) on 8 March 2013 about [D’Angelo](../../topics/d-angelo/index.md), [Darling Nikki (Song)](../../topics/song/darling-nikki/index.md), [Eric Leeds](../../topics/eric-leeds/index.md), [Fred Armisen](../../topics/fred-armisen/index.md), [Gretchen Lieberum](../../topics/gretchen-lieberum/index.md), [Let’s Go Crazy (Song)](../../topics/song/let-s-go-crazy/index.md), [Little Red Corvette (Song)](../../topics/song/little-red-corvette/index.md), [Maya Rudolph](../../topics/maya-rudolph/index.md), [Paul Peterson](../../topics/paul-peterson/index.md), [Pop Life (Song)](../../topics/song/pop-life/index.md), [PRINCEss](../../topics/princess/index.md), [Questlove](../../topics/questlove/index.md), [St. Paul Peterson](../../topics/st-paul-peterson/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [The Beautiful Ones (Song)](../../topics/song/the-beautiful-ones/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Roots](../../topics/the-roots/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/f78be2e8ad1b4b7ebeb0c45b96f32081))
 
 ----
 

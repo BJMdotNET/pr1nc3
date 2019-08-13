@@ -15,6 +15,9 @@
   * 2015: 
       [October](./stevie-wonder-2015-10.md) (1) | 
       [June](./stevie-wonder-2015-06.md) (1) | 
+  * 1985: 
+      [February](./stevie-wonder-1985-02.md) (1) | 
+      [January](./stevie-wonder-1985-01.md) (1) | 
 
 ----
 

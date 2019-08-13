@@ -1,5 +1,9 @@
 # Associated Press News: August 2016
 
+ - [**"Musicians close to Prince reportedly in the mix for tribute"**](https://apnews.com/5c33d9f6e9654074898b04452f17c598) in [Associated Press News](https://apnews.com/) on 31 August 2016 about [Morris Day](../../topics/morris-day/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Revolution](../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/5c33d9f6e9654074898b04452f17c598))
+
+----
+
  - [**"Paisley Park, home of Prince, opens for public tours Oct. 6"**](https://apnews.com/0d8c41adcd8946dfb5182d55d077cc09) by Steve Karnowski (Associated Press) in [Associated Press News](https://apnews.com/) on 25 August 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [fentanyl](../../topics/fentanyl/index.md), [Graceland](../../topics/graceland/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/0d8c41adcd8946dfb5182d55d077cc09))
 
 ----
@@ -8,7 +12,15 @@
 
 ----
 
+ - [**"Minnesota Wild change goal song to Prince’s ‘Let’s Go Crazy’"**](https://apnews.com/4a1bac6894bb4b98a81a70b6b228dd4b) in [Associated Press News](https://apnews.com/) on 23 August 2016 about [fentanyl](../../topics/fentanyl/index.md), [Let’s Go Crazy (Song)](../../topics/song/let-s-go-crazy/index.md), [Xcel Energy Center (Place)](../../topics/place/xcel-energy-center/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/4a1bac6894bb4b98a81a70b6b228dd4b))
+
+----
+
  - [**"Official: Pills found at Prince’s estate contained fentanyl"**](https://apnews.com/f2cb614f0e79404692d5582509874869) in [Associated Press News](https://apnews.com/) on 22 August 2016 about [Atlanta (Place)](../../topics/place/atlanta/index.md), [fentanyl](../../topics/fentanyl/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (Place)](../../topics/place/moline-illinois/index.md), [oxycodone](../../topics/oxycodone/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/f2cb614f0e79404692d5582509874869))
+
+----
+
+ - [**"Prince estate administrator denies plan to sell Paisley Park"**](https://apnews.com/12d774f67dfe4484a7a32024063ed4e5) in [Associated Press News](https://apnews.com/) on 7 August 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [Prince Estate](../../topics/prince-estate/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/12d774f67dfe4484a7a32024063ed4e5))
 
 ----
 

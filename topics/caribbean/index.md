@@ -8,4 +8,8 @@
 
 ----
 
+ - [**"Boy George and Culture Club still charm with dance-happy pop-soul at Myth"**](https://apnews.com/3768e56a942a4801b42924416895d251) in [Associated Press News](https://apnews.com/) on 25 July 2016 about [Caribbean](../../topics/caribbean/index.md), [Eric Clapton](../../topics/eric-clapton/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/3768e56a942a4801b42924416895d251))
+
+----
+
 [Home](../)
