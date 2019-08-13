@@ -10,7 +10,7 @@
       [January](./manuela-testolini-2017-01.md) (1) | 
   * 2016: 
       [December](./manuela-testolini-2016-12.md) (1) | 
-      [August](./manuela-testolini-2016-08.md) (1) | 
+      [August](./manuela-testolini-2016-08.md) (3) | 
       [July](./manuela-testolini-2016-07.md) (1) | 
       [April](./manuela-testolini-2016-04.md) (1) | 
   * 2006: 

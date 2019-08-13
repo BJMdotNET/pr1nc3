@@ -28,7 +28,7 @@
 
 ----
 
- - [**"Prince's ex-wife opens up about 1996 death of couple's baby"**](http://www.startribune.com/prince-s-ex-wife-opens-up-about-1996-death-of-couple-s-baby/416246944/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 15 March 2017 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-ex-wife-opens-up-about-1996-death-of-couple-s-baby/416246944/))
+ - [**"Prince's ex-wife opens up about 1996 death of couple's baby"**](http://www.startribune.com/prince-s-ex-wife-opens-up-about-1996-death-of-couple-s-baby/416246944/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 15 March 2017 about [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-ex-wife-opens-up-about-1996-death-of-couple-s-baby/416246944/))
 
 ----
 

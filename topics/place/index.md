@@ -19,7 +19,7 @@
   * [Sunset Sound (Place)](./place/sunset-sound/) (10)
   * [Uncle Sam’s (Place)](./place/uncle-sam-s/) (2)
   * [White House (Place)](./place/white-house/) (5)
-  * [Xcel Energy Center (Place)](./place/xcel-energy-center/) (9)
+  * [Xcel Energy Center (Place)](./place/xcel-energy-center/) (10)
 
 ----
 

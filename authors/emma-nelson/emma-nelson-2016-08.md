@@ -1,6 +1,6 @@
 # Emma Nelson: August 2016
 
- - [**"Judge rules to unseal Prince's divorce records -- Ex-wife Manuela Testolini has 30 days to object to certain documents being made public."**](http://www.startribune.com/judge-rules-to-unseal-prince-s-divorce-records/390211731/) by Emma Nelson in [Minneapolis Star Tribune](http://www.startribune.com/) on 15 August 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/judge-rules-to-unseal-prince-s-divorce-records/390211731/))
+ - [**"Judge rules to unseal Prince's divorce records -- Ex-wife Manuela Testolini has 30 days to object to certain documents being made public."**](http://www.startribune.com/judge-rules-to-unseal-prince-s-divorce-records/390211731/) by Emma Nelson in [Minneapolis Star Tribune](http://www.startribune.com/) on 15 August 2016 about [Manuela Testolini](../../topics/manuela-testolini/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/judge-rules-to-unseal-prince-s-divorce-records/390211731/))
 
 ----
 

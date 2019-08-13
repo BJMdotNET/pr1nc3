@@ -17,7 +17,7 @@
       [May](./associated-press-news-2018-05.md) (2) | 
       [April](./associated-press-news-2018-04.md) (10) | 
       [March](./associated-press-news-2018-03.md) (9) | 
-      [February](./associated-press-news-2018-02.md) (4) | 
+      [February](./associated-press-news-2018-02.md) (5) | 
       [January](./associated-press-news-2018-01.md) (3) | 
   * 2017: 
       [December](./associated-press-news-2017-12.md) (1) | 

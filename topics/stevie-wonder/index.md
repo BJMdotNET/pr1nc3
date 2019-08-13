@@ -8,7 +8,7 @@
       [April](./stevie-wonder-2017-04.md) (1) | 
   * 2016: 
       [December](./stevie-wonder-2016-12.md) (1) | 
-      [October](./stevie-wonder-2016-10.md) (4) | 
+      [October](./stevie-wonder-2016-10.md) (5) | 
       [September](./stevie-wonder-2016-09.md) (2) | 
       [July](./stevie-wonder-2016-07.md) (1) | 
       [April](./stevie-wonder-2016-04.md) (1) | 

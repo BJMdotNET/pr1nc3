@@ -1,5 +1,9 @@
 # exhibition
 
+ - [**"PRINCE’S PRE-FAME YEARS ARE THE FOCUS OF THIS UPCOMING EXHIBITION!"**](https://afropunk.com/2018/05/this-upcoming-exhibition-offers-rare-glimpse-of-pre-fame-prince/) in [Afropunk](https://afropunk.com/) on 13 August 2019 about [exhibition](../../topics/exhibition/index.md), [Prince Pre-Fame (Book)](../../topics/book/prince-pre-fame/index.md), [Robert Whitman](../../topics/robert-whitman/index.md) ([mirror](https://web.archive.org/web/*/https://afropunk.com/2018/05/this-upcoming-exhibition-offers-rare-glimpse-of-pre-fame-prince/))
+
+----
+
  - [**"PM Prep-Segue"**](https://apnews.com/14ea8830aab74985b945aa5fe84d601b) in [Associated Press News](https://apnews.com/) on 26 October 2017 about [exhibition](../../topics/exhibition/index.md), [London (Place)](../../topics/place/london/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/14ea8830aab74985b945aa5fe84d601b))
 
 ----
