@@ -1,5 +1,9 @@
 # Prince Estate: October 2016
 
+ - [**"Judge rejects claim to Prince estate from woman and girl"**](https://apnews.com/26dcb05f3dc549dd8d6f415e3b6f2602) in [Associated Press News](https://apnews.com/) on 27 October 2016 about [Brianna Nelson](../../topics/brianna-nelson/index.md), [Carver County](../../topics/carver-county/index.md), [Duane Nelson](../../topics/duane-nelson/index.md), [fentanyl](../../topics/fentanyl/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Victoria Nelson](../../topics/victoria-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/26dcb05f3dc549dd8d6f415e3b6f2602))
+
+----
+
  - [**"Paisley Park visitors will see Prince’s studio and mementoes"**](https://apnews.com/27290d0a9516483d9f4c6e9509654af0) in [Associated Press News](https://apnews.com/) on 5 October 2016 about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Graceland](../../topics/graceland/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/27290d0a9516483d9f4c6e9509654af0))
 
 ----

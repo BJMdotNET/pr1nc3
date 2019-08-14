@@ -1,10 +1,22 @@
 # Associated Press News: June 2016
 
+ - [**"Prince estate lawyers get deadline to weigh in on DNA tests"**](https://apnews.com/3000566d908b457fb4329be42fdf45d7) in [Associated Press News](https://apnews.com/) on 28 June 2016 about [Carver County](../../topics/carver-county/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Prince Estate](../../topics/prince-estate/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/3000566d908b457fb4329be42fdf45d7))
+
+----
+
  - [**"BET Awards full of Prince tributes and political moments"**](https://apnews.com/6b28e8f305564390bd4b11732e176683) in [Associated Press News](https://apnews.com/) on 27 June 2016 about [BET Awards](../../topics/bet-awards/index.md), [Janelle Monae](../../topics/janelle-monae/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Sheila E.](../../topics/sheila-e/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/6b28e8f305564390bd4b11732e176683))
 
 ----
 
+ - [**"Judge says no hurry in determining Prince claims"**](https://apnews.com/9aed6516c0bf48d28349462372cdec58) in [Associated Press News](https://apnews.com/) on 27 June 2016 about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [John Nelson](../../topics/john-nelson/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/9aed6516c0bf48d28349462372cdec58))
+
+----
+
  - [**"Indianapolis Colts owner buys Prince’s Yellow Cloud guitar"**](https://apnews.com/c4ba9354d4934e29a41a0a0777210daa) in [Associated Press News](https://apnews.com/) on 26 June 2016 about [Cloud guitar](../../topics/cloud-guitar/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/c4ba9354d4934e29a41a0a0777210daa))
+
+----
+
+ - [**"Judge won’t hear media request at Prince estate hearing"**](https://apnews.com/46d343aa279c4a019185384eac591183) in [Associated Press News](https://apnews.com/) on 26 June 2016 about [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/46d343aa279c4a019185384eac591183))
 
 ----
 
@@ -20,7 +32,7 @@
 
 ----
 
- - [**"A Prince wish, Paisley Park eyed for museum like Graceland"**](https://apnews.com/e126f8cb38574b21b3cf0f5dd0843873) in [Associated Press News](https://apnews.com/) on 10 June 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [exhibition](../../topics/exhibition/index.md), [fentanyl](../../topics/fentanyl/index.md), [Graceland](../../topics/graceland/index.md), [Jeremiah Freed](../../topics/jeremiah-freed/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/e126f8cb38574b21b3cf0f5dd0843873))
+ - [**"A Prince wish, Paisley Park eyed for museum like Graceland"**](https://apnews.com/e126f8cb38574b21b3cf0f5dd0843873) in [Associated Press News](https://apnews.com/) on 10 June 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [exhibition](../../topics/exhibition/index.md), [fentanyl](../../topics/fentanyl/index.md), [Graceland](../../topics/graceland/index.md), [Jeremiah Freed](../../topics/jeremiah-freed/index.md), [motorcycle](../../topics/motorcycle/index.md), [museum](../../topics/museum/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/e126f8cb38574b21b3cf0f5dd0843873))
 
 ----
 

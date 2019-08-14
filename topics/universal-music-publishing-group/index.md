@@ -8,6 +8,10 @@
 
 ----
 
+ - [**"Prince’s songs to be administered by Universal Music"**](https://apnews.com/6bbb6f003373473794c6e97dd692189e) in [Associated Press News](https://apnews.com/) on 2 November 2016 about [Batdance (Song)](../../topics/song/batdance/index.md), [Let’s Go Crazy (Song)](../../topics/song/let-s-go-crazy/index.md), [Little Red Corvette (Song)](../../topics/song/little-red-corvette/index.md), [Universal Music Publishing Group](../../topics/universal-music-publishing-group/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/6bbb6f003373473794c6e97dd692189e))
+
+----
+
  - [**"The Estate Of Prince Rogers Nelson Selects Universal Music Publishing Group To Serve As Worldwide Publisher For Prince's Iconic Catalog Of Songs"**](https://www.prnewswire.com/news-releases/the-estate-of-prince-rogers-nelson-selects-universal-music-publishing-group-to-serve-as-worldwide-publisher-for-princes-iconic-catalog-of-songs-300356320.html) in [PR Newswire](https://www.prnewswire.com/) on 2 November 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [Universal Music Group](../../topics/universal-music-group/index.md), [Universal Music Publishing Group](../../topics/universal-music-publishing-group/index.md) ([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/the-estate-of-prince-rogers-nelson-selects-universal-music-publishing-group-to-serve-as-worldwide-publisher-for-princes-iconic-catalog-of-songs-300356320.html))
 
 ----

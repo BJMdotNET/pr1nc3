@@ -16,6 +16,10 @@
 
 ----
 
+ - [**"AM Prep-Music -- PRINCE’S BODYGUARD IS HAPPY THERE ARE NO CHARGES"**](https://apnews.com/a46d9d30047e4a92b2fef45f4d7d7744) in [Associated Press News](https://apnews.com/) on 20 April 2018 about [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Mark Metz](../../topics/mark-metz/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [oxycodone](../../topics/oxycodone/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/a46d9d30047e4a92b2fef45f4d7d7744))
+
+----
+
  - [**"Carver County closes Prince death investigation with no criminal charges -- After 2-year probe, supplier of fatal drug eludes investigators"**](http://www.startribune.com/no-charges-in-prince-death-investigation/480252103/) by Stephen Montemayor in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 April 2018 about [Carver County](../../topics/carver-county/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/no-charges-in-prince-death-investigation/480252103/))
 
 ----

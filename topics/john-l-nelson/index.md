@@ -9,7 +9,8 @@
   * 2017: 
       [June](./john-l-nelson-2017-06.md) (3) | 
   * 2016: 
-      [October](./john-l-nelson-2016-10.md) (1) | 
+      [October](./john-l-nelson-2016-10.md) (2) | 
+      [July](./john-l-nelson-2016-07.md) (1) | 
       [June](./john-l-nelson-2016-06.md) (1) | 
       [May](./john-l-nelson-2016-05.md) (2) | 
 

@@ -1,6 +1,6 @@
 # Jon Bream: March 2017
 
- - [**"Paisley Park museum opens new room dedicated to Prince's 'Lovesexy'"**](http://www.startribune.com/paisley-park-museum-opens-new-room-dedicated-to-prince-s-lovesexy/417745653/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 31 March 2017 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-museum-opens-new-room-dedicated-to-prince-s-lovesexy/417745653/))
+ - [**"Paisley Park museum opens new room dedicated to Prince's 'Lovesexy'"**](http://www.startribune.com/paisley-park-museum-opens-new-room-dedicated-to-prince-s-lovesexy/417745653/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 31 March 2017 about [museum](../../topics/museum/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-museum-opens-new-room-dedicated-to-prince-s-lovesexy/417745653/))
 
 ----
 
@@ -8,7 +8,7 @@
 
 ----
 
- - [**"Three official Prince books due at 'Celebration' at Paisley Park"**](http://www.startribune.com/three-official-prince-books-due-at-celebration-at-paisley-park/417539473/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 29 March 2017 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/three-official-prince-books-due-at-celebration-at-paisley-park/417539473/))
+ - [**"Three official Prince books due at 'Celebration' at Paisley Park"**](http://www.startribune.com/three-official-prince-books-due-at-celebration-at-paisley-park/417539473/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 29 March 2017 about [Celebration](../../topics/celebration/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/three-official-prince-books-due-at-celebration-at-paisley-park/417539473/))
 
 ----
 

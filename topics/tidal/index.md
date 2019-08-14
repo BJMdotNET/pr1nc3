@@ -5,7 +5,7 @@
       [May](./tidal-2019-05.md) (1) | 
       [April](./tidal-2019-04.md) (2) | 
   * 2018: 
-      [May](./tidal-2018-05.md) (2) | 
+      [May](./tidal-2018-05.md) (3) | 
   * 2017: 
       [April](./tidal-2017-04.md) (1) | 
       [February](./tidal-2017-02.md) (1) | 

@@ -1,6 +1,6 @@
 # Liz Sawyer
 
- - [**"Princely jobs available: Paisley Park holds job fair this week -- New museum opens Oct. 6 in Chanhassen."**](http://www.startribune.com/princely-jobs-available-paisley-park-holds-job-fair-this-week/392460791/) by Liz Sawyer in [Minneapolis Star Tribune](http://www.startribune.com/) on 6 September 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/princely-jobs-available-paisley-park-holds-job-fair-this-week/392460791/))
+ - [**"Princely jobs available: Paisley Park holds job fair this week -- New museum opens Oct. 6 in Chanhassen."**](http://www.startribune.com/princely-jobs-available-paisley-park-holds-job-fair-this-week/392460791/) by Liz Sawyer in [Minneapolis Star Tribune](http://www.startribune.com/) on 6 September 2016 about [museum](../../topics/museum/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/princely-jobs-available-paisley-park-holds-job-fair-this-week/392460791/))
 
 ----
 

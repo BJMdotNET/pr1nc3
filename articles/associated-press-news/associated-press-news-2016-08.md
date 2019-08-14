@@ -16,7 +16,15 @@
 
 ----
 
+ - [**"Correction: Prince Death story"**](https://apnews.com/6ea0a330a6fa442990b24ec0c5153b27) in [Associated Press News](https://apnews.com/) on 22 August 2016 about [Amy Conners](../../topics/amy-conners/index.md), [Atlanta (Place)](../../topics/place/atlanta/index.md), [fentanyl](../../topics/fentanyl/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (Place)](../../topics/place/moline-illinois/index.md), [oxycodone](../../topics/oxycodone/index.md), [U-47700](../../topics/u-47700/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/6ea0a330a6fa442990b24ec0c5153b27))
+
+----
+
  - [**"Official: Pills found at Prince’s estate contained fentanyl"**](https://apnews.com/f2cb614f0e79404692d5582509874869) in [Associated Press News](https://apnews.com/) on 22 August 2016 about [Atlanta (Place)](../../topics/place/atlanta/index.md), [fentanyl](../../topics/fentanyl/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (Place)](../../topics/place/moline-illinois/index.md), [oxycodone](../../topics/oxycodone/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/f2cb614f0e79404692d5582509874869))
+
+----
+
+ - [**"BC-AP Entertainment and Arts Digest,2nd Ld-Writethru"**](https://apnews.com/235fd3646e154869b87829ee9f66a03e) in [Associated Press News](https://apnews.com/) on 12 August 2016 about [Marni Gustavson](../../topics/marni-gustavson/index.md), [Parsa NGO](../../topics/parsa-ngo/index.md), [Purple Rain (Song)](../../topics/song/purple-rain/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/235fd3646e154869b87829ee9f66a03e))
 
 ----
 
@@ -25,6 +33,10 @@
 ----
 
  - [**"Prince’s ex-wife wants to keep 2006 divorce records sealed"**](https://apnews.com/bf6e2876e5614884afb5e3775a127af3) in [Associated Press News](https://apnews.com/) on 4 August 2016 about [fentanyl](../../topics/fentanyl/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/bf6e2876e5614884afb5e3775a127af3))
+
+----
+
+ - [**"Judge: Filings about Prince estate fees, property under seal"**](https://apnews.com/d3e3a4f42ae748178a987132c322b10f) in [Associated Press News](https://apnews.com/) on 3 August 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Prince Estate](../../topics/prince-estate/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/d3e3a4f42ae748178a987132c322b10f))
 
 ----
 

@@ -1,6 +1,6 @@
 # Place
 
-  * [Atlanta (Place)](./place/atlanta/) (18)
+  * [Atlanta (Place)](./place/atlanta/) (19)
   * [Bel Air (Place)](./place/bel-air/) (1)
   * [Capri Theater  (Place)](./place/capri-theater/) (1)
   * [Dakota (Place)](./place/dakota/) (6)
@@ -10,9 +10,9 @@
   * [Galpin Boulevard (Place)](./place/galpin-boulevard/) (1)
   * [Glam Slam (Place)](./place/glam-slam/) (2)
   * [Lake Minnetonka (Place)](./place/lake-minnetonka/) (2)
-  * [London (Place)](./place/london/) (7)
+  * [London (Place)](./place/london/) (8)
   * [Mann’s Chinese Theatre (Place)](./place/mann-s-chinese-theatre/) (1)
-  * [Moline, Illinois (Place)](./place/moline-illinois/) (14)
+  * [Moline, Illinois (Place)](./place/moline-illinois/) (15)
   * [North Memorial Medical Center (Place)](./place/north-memorial-medical-center/) (4)
   * [Sam’s (Place)](./place/sam-s/) (3)
   * [Smithsonian (Place)](./place/smithsonian/) (1)

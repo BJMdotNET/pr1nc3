@@ -1,6 +1,6 @@
 # Minneapolis Star Tribune: August 2017
 
- - [**"For $160, you get to hold Prince's guitar on 3-hour 'Ultimate' Paisley Park tour -- Is the new "Ultimate Experience" at Prince's museum worth $160?"**](http://www.startribune.com/for-160-you-get-to-hold-prince-s-guitar-on-3-hour-ultimate-paisley-park-tour/441644933/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 24 August 2017 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/for-160-you-get-to-hold-prince-s-guitar-on-3-hour-ultimate-paisley-park-tour/441644933/))
+ - [**"For $160, you get to hold Prince's guitar on 3-hour 'Ultimate' Paisley Park tour -- Is the new "Ultimate Experience" at Prince's museum worth $160?"**](http://www.startribune.com/for-160-you-get-to-hold-prince-s-guitar-on-3-hour-ultimate-paisley-park-tour/441644933/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 24 August 2017 about [museum](../../topics/museum/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/for-160-you-get-to-hold-prince-s-guitar-on-3-hour-ultimate-paisley-park-tour/441644933/))
 
 ----
 

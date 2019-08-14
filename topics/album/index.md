@@ -4,7 +4,7 @@
   * [3121 (Album)](./album/3121/) (8)
   * [Around The World In A Day (Album)](./album/around-the-world-in-a-day/) (5)
   * [Batman (Album)](./album/batman/) (2)
-  * [Chaos and Disorder (Album)](./album/chaos-and-disorder/) (3)
+  * [Chaos and Disorder (Album)](./album/chaos-and-disorder/) (4)
   * [Crystal Ball (Album)](./album/crystal-ball/) (4)
   * [Diamonds & Pearls (Album)](./album/diamonds-pearls/) (1)
   * [Dirty Mind (Album)](./album/dirty-mind/) (2)

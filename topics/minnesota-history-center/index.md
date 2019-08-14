@@ -1,10 +1,14 @@
 # Minnesota History Center
 
+ - [**"10 things you’ll learn about First Avenue in new Minnesota History Center show -- First Avenue is getting the museum treatment. Here are 10 things you’ll learn about Minnesota’s most fabled nightclub."**](http://www.startribune.com/10-things-you-ll-learn-about-first-avenue-in-new-minnesota-history-center-show/509374312/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 3 May 2019 about [David Brewster](../../topics/david-brewster/index.md), [Erotic City (Song)](../../topics/song/erotic-city/index.md), [First Avenue (Place)](../../topics/place/first-avenue/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [Minnesota History Center](../../topics/minnesota-history-center/index.md), [museum](../../topics/museum/index.md), [Purple Rain (Movie)](../../topics/movie/purple-rain/index.md), [Sam’s (Place)](../../topics/place/sam-s/index.md), [Uncle Sam’s (Place)](../../topics/place/uncle-sam-s/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/10-things-you-ll-learn-about-first-avenue-in-new-minnesota-history-center-show/509374312/))
+
+----
+
  - [**"With tears, tattoos, Prince fans remember him a year later"**](https://apnews.com/839811ae130242a3ade37017c6115208) in [Associated Press News](https://apnews.com/) on 21 April 2017 about [First Avenue (Place)](../../topics/place/first-avenue/index.md), [Minnesota History Center](../../topics/minnesota-history-center/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/839811ae130242a3ade37017c6115208))
 
 ----
 
- - [**"Prince home state marks death anniversary with celebrations"**](https://apnews.com/683330f22682410896e82d5734a2a060) in [Associated Press News](https://apnews.com/) on 20 April 2017 about [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [First Avenue (Place)](../../topics/place/first-avenue/index.md), [Minnesota History Center](../../topics/minnesota-history-center/index.md), [Morris Day](../../topics/morris-day/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [The Revolution](../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/683330f22682410896e82d5734a2a060))
+ - [**"Prince home state marks death anniversary with celebrations"**](https://apnews.com/683330f22682410896e82d5734a2a060) in [Associated Press News](https://apnews.com/) on 20 April 2017 about [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [First Avenue (Place)](../../topics/place/first-avenue/index.md), [Minnesota History Center](../../topics/minnesota-history-center/index.md), [Morris Day](../../topics/morris-day/index.md), [museum](../../topics/museum/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [The Revolution](../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/683330f22682410896e82d5734a2a060))
 
 ----
 

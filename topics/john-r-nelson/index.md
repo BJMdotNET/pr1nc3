@@ -16,6 +16,10 @@
 
 ----
 
+ - [**"Prince’s other sister: Purple was his color, not orange"**](https://apnews.com/4d22688b86214d839d01281d61cf3775) in [Associated Press News](https://apnews.com/) on 1 September 2017 about [Alfred Jackson](../../topics/alfred-jackson/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [London (Place)](../../topics/place/london/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [orange](../../topics/orange/index.md), [Pantone Color Institute](../../topics/pantone-color-institute/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/4d22688b86214d839d01281d61cf3775))
+
+----
+
  - [**"Song from Prince’s father being released on his 101st b’day"**](https://apnews.com/229ffc268c5e4b1ca1eef644539b5247) in [Associated Press News](https://apnews.com/) on 29 June 2017 about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Computer Blue (Song)](../../topics/song/computer-blue/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [John Nelson](../../topics/john-nelson/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Purple Rain (Song)](../../topics/song/purple-rain/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/229ffc268c5e4b1ca1eef644539b5247))
 
 ----

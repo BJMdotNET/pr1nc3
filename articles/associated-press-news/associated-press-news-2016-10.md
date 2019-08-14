@@ -1,6 +1,10 @@
 # Associated Press News: October 2016
 
- - [**"Council: Prince’s Paisley Park museum can open permanently"**](https://apnews.com/b8ca79d39dec4b2e830759ad4485342c) in [Associated Press News](https://apnews.com/) on 25 October 2016 about [Graceland](../../topics/graceland/index.md), [Joel Weinshanker](../../topics/joel-weinshanker/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/b8ca79d39dec4b2e830759ad4485342c))
+ - [**"Judge rejects claim to Prince estate from woman and girl"**](https://apnews.com/26dcb05f3dc549dd8d6f415e3b6f2602) in [Associated Press News](https://apnews.com/) on 27 October 2016 about [Brianna Nelson](../../topics/brianna-nelson/index.md), [Carver County](../../topics/carver-county/index.md), [Duane Nelson](../../topics/duane-nelson/index.md), [fentanyl](../../topics/fentanyl/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Victoria Nelson](../../topics/victoria-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/26dcb05f3dc549dd8d6f415e3b6f2602))
+
+----
+
+ - [**"Council: Prince’s Paisley Park museum can open permanently"**](https://apnews.com/b8ca79d39dec4b2e830759ad4485342c) in [Associated Press News](https://apnews.com/) on 25 October 2016 about [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [Joel Weinshanker](../../topics/joel-weinshanker/index.md), [motorcycle](../../topics/motorcycle/index.md), [museum](../../topics/museum/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/b8ca79d39dec4b2e830759ad4485342c))
 
 ----
 
@@ -25,6 +29,10 @@
 ----
 
  - [**"Nearly 6 months later, Prince superfans still mourning"**](https://apnews.com/5f2143ac989a4626b2cf7b8620a6a28c) in [Associated Press News](https://apnews.com/) on 12 October 2016 about [Atlanta (Place)](../../topics/place/atlanta/index.md), [London (Place)](../../topics/place/london/index.md), [YouTube](../../topics/youtube/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/5f2143ac989a4626b2cf7b8620a6a28c))
+
+----
+
+ - [**"Paisley Park museum adds more October tour dates"**](https://apnews.com/7bcfafee440e41c49ea690bc6a6af50a) in [Associated Press News](https://apnews.com/) on 12 October 2016 about [motorcycle](../../topics/motorcycle/index.md), [museum](../../topics/museum/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/7bcfafee440e41c49ea690bc6a6af50a))
 
 ----
 

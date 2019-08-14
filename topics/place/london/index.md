@@ -8,6 +8,10 @@
 
 ----
 
+ - [**"Prince’s other sister: Purple was his color, not orange"**](https://apnews.com/4d22688b86214d839d01281d61cf3775) in [Associated Press News](https://apnews.com/) on 1 September 2017 about [Alfred Jackson](../../../topics/alfred-jackson/index.md), [John R. Nelson](../../../topics/john-r-nelson/index.md), [London (Place)](../../../topics/place/london/index.md), [Norrine Nelson](../../../topics/norrine-nelson/index.md), [Omarr Baker](../../../topics/omarr-baker/index.md), [orange](../../../topics/orange/index.md), [Pantone Color Institute](../../../topics/pantone-color-institute/index.md), [Sharon Nelson](../../../topics/sharon-nelson/index.md), [Tyka Nelson](../../../topics/tyka-nelson/index.md), [Warner Bros. Records](../../../topics/warner-bros-records/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/4d22688b86214d839d01281d61cf3775))
+
+----
+
  - [**"Coldplay pulls for the color purple at U.S. Bank Stadium -- The British band put on a colorful spectacle with shout-outs to the Vikings and Prince at U.S. Bank Stadium."**](http://www.startribune.com/coldplay-pulls-for-the-color-purple-at-u-s-bank-stadium/440125493/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 13 August 2017 about [First Avenue (Place)](../../../topics/place/first-avenue/index.md), [London (Place)](../../../topics/place/london/index.md), [Super Bowl](../../../topics/super-bowl/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/coldplay-pulls-for-the-color-purple-at-u-s-bank-stadium/440125493/))
 
 ----

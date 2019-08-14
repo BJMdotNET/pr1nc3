@@ -4,6 +4,10 @@
 
 ----
 
+ - [**"Prince’s songs to be administered by Universal Music"**](https://apnews.com/6bbb6f003373473794c6e97dd692189e) in [Associated Press News](https://apnews.com/) on 2 November 2016 about [Batdance (Song)](../../../topics/song/batdance/index.md), [Let’s Go Crazy (Song)](../../../topics/song/let-s-go-crazy/index.md), [Little Red Corvette (Song)](../../../topics/song/little-red-corvette/index.md), [Universal Music Publishing Group](../../../topics/universal-music-publishing-group/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/6bbb6f003373473794c6e97dd692189e))
+
+----
+
  - [**"A Prince on screen, from ‘Purple Rain’ to ‘Graffiti Bridge’"**](https://apnews.com/8082812e075544679812ad4cc742307f) in [Associated Press News](https://apnews.com/) on 22 April 2016 about [Academy Award](../../../topics/academy-award/index.md), [Batdance (Song)](../../../topics/song/batdance/index.md), [Batman (Album)](../../../topics/album/batman/index.md), [Chaka Khan](../../../topics/chaka-khan/index.md), [Glam Slam (Place)](../../../topics/place/glam-slam/index.md), [Graffiti Bridge (Movie)](../../../topics/movie/graffiti-bridge/index.md), [Grammy Award](../../../topics/grammy-award/index.md), [I Feel For You (Song)](../../../topics/song/i-feel-for-you/index.md), [Krush Groove](../../../topics/krush-groove/index.md), [Morris Day](../../../topics/morris-day/index.md), [Parade (Album)](../../../topics/album/parade/index.md), [Purple Rain (Movie)](../../../topics/movie/purple-rain/index.md), [Roger Ebert](../../../topics/roger-ebert/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [The Time](../../../topics/the-time/index.md), [Under the Cherry Moon (Movie)](../../../topics/movie/under-the-cherry-moon/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/8082812e075544679812ad4cc742307f))
 
 ----

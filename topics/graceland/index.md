@@ -10,7 +10,7 @@
       [October](./graceland-2016-10.md) (3) | 
       [September](./graceland-2016-09.md) (2) | 
       [August](./graceland-2016-08.md) (1) | 
-      [June](./graceland-2016-06.md) (1) | 
+      [June](./graceland-2016-06.md) (2) | 
 
 ----
 

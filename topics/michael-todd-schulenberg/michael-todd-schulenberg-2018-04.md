@@ -4,6 +4,10 @@
 
 ----
 
+ - [**"AM Prep-Music -- PRINCE’S BODYGUARD IS HAPPY THERE ARE NO CHARGES"**](https://apnews.com/a46d9d30047e4a92b2fef45f4d7d7744) in [Associated Press News](https://apnews.com/) on 20 April 2018 about [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Mark Metz](../../topics/mark-metz/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [oxycodone](../../topics/oxycodone/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/a46d9d30047e4a92b2fef45f4d7d7744))
+
+----
+
  - [**"As Prince's health waned, alarm grew in inner circle"**](http://www.startribune.com/as-prince-s-health-waned-alarm-grew-in-inner-circle/480336433/) by Amy Forliti (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 April 2018 about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [fentanyl](../../topics/fentanyl/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Mark Metz](../../topics/mark-metz/index.md), [Meron Bekure](../../topics/meron-bekure/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (Place)](../../topics/place/moline-illinois/index.md), [oxycodone](../../topics/oxycodone/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/as-prince-s-health-waned-alarm-grew-in-inner-circle/480336433/))
 
 ----

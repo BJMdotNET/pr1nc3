@@ -4,7 +4,7 @@
 
 ----
 
- - [**"Paisley Park museum finally gets go-ahead from Chanhassen -- After weeks of hesitation, Chanhassen signs off on zoning permits."**](http://www.startribune.com/paisley-park-museum-finally-gets-go-ahead-from-chanhassen/398282691/) by Erin Adler in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 October 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-museum-finally-gets-go-ahead-from-chanhassen/398282691/))
+ - [**"Paisley Park museum finally gets go-ahead from Chanhassen -- After weeks of hesitation, Chanhassen signs off on zoning permits."**](http://www.startribune.com/paisley-park-museum-finally-gets-go-ahead-from-chanhassen/398282691/) by Erin Adler in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 October 2016 about [museum](../../topics/museum/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-museum-finally-gets-go-ahead-from-chanhassen/398282691/))
 
 ----
 

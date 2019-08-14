@@ -10,6 +10,7 @@
       [April](./purple-rain-song-2017-04.md) (1) | 
   * 2016: 
       [September](./purple-rain-song-2016-09.md) (1) | 
+      [August](./purple-rain-song-2016-08.md) (1) | 
       [April](./purple-rain-song-2016-04.md) (3) | 
 
 ----

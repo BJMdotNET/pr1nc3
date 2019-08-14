@@ -1,10 +1,10 @@
 # Minneapolis Star Tribune: October 2016
 
- - [**"Paisley Park museum finally gets go-ahead from Chanhassen -- After weeks of hesitation, Chanhassen signs off on zoning permits."**](http://www.startribune.com/paisley-park-museum-finally-gets-go-ahead-from-chanhassen/398282691/) by Erin Adler in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 October 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-museum-finally-gets-go-ahead-from-chanhassen/398282691/))
+ - [**"Paisley Park museum finally gets go-ahead from Chanhassen -- After weeks of hesitation, Chanhassen signs off on zoning permits."**](http://www.startribune.com/paisley-park-museum-finally-gets-go-ahead-from-chanhassen/398282691/) by Erin Adler in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 October 2016 about [museum](../../topics/museum/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-museum-finally-gets-go-ahead-from-chanhassen/398282691/))
 
 ----
 
- - [**"What should Prince's estate do to keep his music alive? -- The tribute concert is over, and the museum is open. Here's how Prince's family should handle other posthumous projects."**](http://www.startribune.com/what-should-prince-s-estate-do-to-keep-his-music-alive/397828981/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 21 October 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/what-should-prince-s-estate-do-to-keep-his-music-alive/397828981/))
+ - [**"What should Prince's estate do to keep his music alive? -- The tribute concert is over, and the museum is open. Here's how Prince's family should handle other posthumous projects."**](http://www.startribune.com/what-should-prince-s-estate-do-to-keep-his-music-alive/397828981/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 21 October 2016 about [museum](../../topics/museum/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/what-should-prince-s-estate-do-to-keep-his-music-alive/397828981/))
 
 ----
 
@@ -28,7 +28,7 @@
 
 ----
 
- - [**"Prince-inspired fashions on display at Minneapolis Institute of Art -- The purple pop star inspired this fashionable assemblage in the museum's lobby."**](http://www.startribune.com/prince-inspired-fashions-on-display-at-minneapolis-institute-of-art/396029361/) by Sue Campbell in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 October 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-inspired-fashions-on-display-at-minneapolis-institute-of-art/396029361/))
+ - [**"Prince-inspired fashions on display at Minneapolis Institute of Art -- The purple pop star inspired this fashionable assemblage in the museum's lobby."**](http://www.startribune.com/prince-inspired-fashions-on-display-at-minneapolis-institute-of-art/396029361/) by Sue Campbell in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 October 2016 about [Minneapolis Institute of Art](../../topics/minneapolis-institute-of-art/index.md), [museum](../../topics/museum/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-inspired-fashions-on-display-at-minneapolis-institute-of-art/396029361/))
 
 ----
 
