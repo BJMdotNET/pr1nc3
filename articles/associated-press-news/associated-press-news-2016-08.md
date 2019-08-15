@@ -12,19 +12,19 @@
 
 ----
 
- - [**"Minnesota Wild change goal song to Prince’s ‘Let’s Go Crazy’"**](https://apnews.com/4a1bac6894bb4b98a81a70b6b228dd4b) in [Associated Press News](https://apnews.com/) on 23 August 2016 about [fentanyl](../../topics/fentanyl/index.md), [Let’s Go Crazy (Song)](../../topics/song/let-s-go-crazy/index.md), [Xcel Energy Center (Place)](../../topics/place/xcel-energy-center/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/4a1bac6894bb4b98a81a70b6b228dd4b))
+ - [**"Minnesota Wild change goal song to Prince’s ‘Let’s Go Crazy’"**](https://apnews.com/4a1bac6894bb4b98a81a70b6b228dd4b) in [Associated Press News](https://apnews.com/) on 23 August 2016 about [fentanyl](../../topics/fentanyl/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/4a1bac6894bb4b98a81a70b6b228dd4b))
 
 ----
 
- - [**"Correction: Prince Death story"**](https://apnews.com/6ea0a330a6fa442990b24ec0c5153b27) in [Associated Press News](https://apnews.com/) on 22 August 2016 about [Amy Conners](../../topics/amy-conners/index.md), [Atlanta (Place)](../../topics/place/atlanta/index.md), [fentanyl](../../topics/fentanyl/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (Place)](../../topics/place/moline-illinois/index.md), [oxycodone](../../topics/oxycodone/index.md), [U-47700](../../topics/u-47700/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/6ea0a330a6fa442990b24ec0c5153b27))
+ - [**"Correction: Prince Death story"**](https://apnews.com/6ea0a330a6fa442990b24ec0c5153b27) in [Associated Press News](https://apnews.com/) on 22 August 2016 about [Amy Conners](../../topics/amy-conners/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [fentanyl](../../topics/fentanyl/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [oxycodone](../../topics/oxycodone/index.md), [U-47700](../../topics/u-47700/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/6ea0a330a6fa442990b24ec0c5153b27))
 
 ----
 
- - [**"Official: Pills found at Prince’s estate contained fentanyl"**](https://apnews.com/f2cb614f0e79404692d5582509874869) in [Associated Press News](https://apnews.com/) on 22 August 2016 about [Atlanta (Place)](../../topics/place/atlanta/index.md), [fentanyl](../../topics/fentanyl/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (Place)](../../topics/place/moline-illinois/index.md), [oxycodone](../../topics/oxycodone/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/f2cb614f0e79404692d5582509874869))
+ - [**"Official: Pills found at Prince’s estate contained fentanyl"**](https://apnews.com/f2cb614f0e79404692d5582509874869) in [Associated Press News](https://apnews.com/) on 22 August 2016 about [Atlanta (place)](../../topics/place/atlanta/index.md), [fentanyl](../../topics/fentanyl/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [oxycodone](../../topics/oxycodone/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/f2cb614f0e79404692d5582509874869))
 
 ----
 
- - [**"BC-AP Entertainment and Arts Digest,2nd Ld-Writethru"**](https://apnews.com/235fd3646e154869b87829ee9f66a03e) in [Associated Press News](https://apnews.com/) on 12 August 2016 about [Marni Gustavson](../../topics/marni-gustavson/index.md), [Parsa NGO](../../topics/parsa-ngo/index.md), [Purple Rain (Song)](../../topics/song/purple-rain/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/235fd3646e154869b87829ee9f66a03e))
+ - [**"BC-AP Entertainment and Arts Digest,2nd Ld-Writethru"**](https://apnews.com/235fd3646e154869b87829ee9f66a03e) in [Associated Press News](https://apnews.com/) on 12 August 2016 about [Marni Gustavson](../../topics/marni-gustavson/index.md), [Parsa NGO](../../topics/parsa-ngo/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/235fd3646e154869b87829ee9f66a03e))
 
 ----
 

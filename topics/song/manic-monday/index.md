@@ -1,4 +1,4 @@
-# Manic Monday (Song)
+# Manic Monday (song)
 
   * 2019: 
       [July](./manic-monday-song-2019-07.md) (1) | 

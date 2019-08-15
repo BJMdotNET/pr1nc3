@@ -2,6 +2,8 @@
 
   * 2019: 
       [April](./memoir-2019-04.md) (3) | 
+  * 2018: 
+      [April](./memoir-2018-04.md) (1) | 
   * 2017: 
       [April](./memoir-2017-04.md) (1) | 
       [March](./memoir-2017-03.md) (1) | 

@@ -1,4 +1,4 @@
-# Atlanta (Place)
+# Atlanta (place)
 
   * 2019: 
       [June](./atlanta-place-2019-06.md) (1) | 

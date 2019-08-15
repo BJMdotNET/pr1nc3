@@ -4,11 +4,11 @@
 
 ----
 
- - [**"1 year after Prince’s death, another turn for The Revolution"**](https://apnews.com/98e9d09300534ac8a7ae5b7b82e9567f) in [Associated Press News](https://apnews.com/) on 20 April 2017 about [Bobby Z.](../../topics/bobby-z/index.md), [BrownMark](../../topics/brownmark/index.md), [First Avenue (Place)](../../topics/place/first-avenue/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Matt Fink](../../topics/matt-fink/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/98e9d09300534ac8a7ae5b7b82e9567f))
+ - [**"1 year after Prince’s death, another turn for The Revolution"**](https://apnews.com/98e9d09300534ac8a7ae5b7b82e9567f) in [Associated Press News](https://apnews.com/) on 20 April 2017 about [Bobby Z.](../../topics/bobby-z/index.md), [BrownMark](../../topics/brownmark/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Matt Fink](../../topics/matt-fink/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/98e9d09300534ac8a7ae5b7b82e9567f))
 
 ----
 
- - [**"Prince’s 1980s band hits the road for memorial tour"**](https://apnews.com/696a75af9362451891d58cef723d4114) in [Associated Press News](https://apnews.com/) on 20 April 2017 about [Bobby Z.](../../topics/bobby-z/index.md), [BrownMark](../../topics/brownmark/index.md), [First Avenue (Place)](../../topics/place/first-avenue/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Matt Fink](../../topics/matt-fink/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/696a75af9362451891d58cef723d4114))
+ - [**"Prince’s 1980s band hits the road for memorial tour"**](https://apnews.com/696a75af9362451891d58cef723d4114) in [Associated Press News](https://apnews.com/) on 20 April 2017 about [Bobby Z.](../../topics/bobby-z/index.md), [BrownMark](../../topics/brownmark/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Matt Fink](../../topics/matt-fink/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/696a75af9362451891d58cef723d4114))
 
 ----
 

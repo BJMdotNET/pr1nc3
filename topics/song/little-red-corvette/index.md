@@ -1,7 +1,9 @@
-# Little Red Corvette (Song)
+# Little Red Corvette (song)
 
   * 2019: 
       [April](./little-red-corvette-song-2019-04.md) (1) | 
+  * 2018: 
+      [June](./little-red-corvette-song-2018-06.md) (1) | 
   * 2017: 
       [February](./little-red-corvette-song-2017-02.md) (1) | 
   * 2016: 

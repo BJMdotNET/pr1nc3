@@ -1,4 +1,4 @@
-# Purple Rain (Album)
+# Purple Rain (album)
 
   * 2019: 
       [August](./purple-rain-album-2019-08.md) (1) | 

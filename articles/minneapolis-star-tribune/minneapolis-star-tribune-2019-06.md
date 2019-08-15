@@ -8,7 +8,7 @@
 
 ----
 
- - [**"Street names on Prince’s former Chanhassen property allude to the late star -- Street names to honor Prince in development on land once owned by late star"**](http://www.startribune.com/street-names-for-chanhassen-development-on-prince-s-former-property-allude-to-the-late-star/511245822/) by Katy Read in [Minneapolis Star Tribune](http://www.startribune.com/) on 13 June 2019 about [Galpin Blvd. (Place)](../../topics/place/galpin-blvd/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/street-names-for-chanhassen-development-on-prince-s-former-property-allude-to-the-late-star/511245822/))
+ - [**"Street names on Prince’s former Chanhassen property allude to the late star -- Street names to honor Prince in development on land once owned by late star"**](http://www.startribune.com/street-names-for-chanhassen-development-on-prince-s-former-property-allude-to-the-late-star/511245822/) by Katy Read in [Minneapolis Star Tribune](http://www.startribune.com/) on 13 June 2019 about [Galpin Blvd. (place)](../../topics/place/galpin-blvd/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/street-names-for-chanhassen-development-on-prince-s-former-property-allude-to-the-late-star/511245822/))
 
 ----
 
@@ -16,7 +16,7 @@
 
 ----
 
- - [**"Prince rules collector site Discogs’ ‘100 Most Expensive Records’ list"**](http://www.startribune.com/prince-rules-collector-site-discogs-100-most-expensive-records-list/511122062/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 11 June 2019 about [bootleg](../../topics/bootleg/index.md), [The Black Album (Album)](../../topics/album/the-black-album/index.md), [The Gold Experience (Album)](../../topics/album/the-gold-experience/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-rules-collector-site-discogs-100-most-expensive-records-list/511122062/))
+ - [**"Prince rules collector site Discogs’ ‘100 Most Expensive Records’ list"**](http://www.startribune.com/prince-rules-collector-site-discogs-100-most-expensive-records-list/511122062/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 11 June 2019 about [bootleg](../../topics/bootleg/index.md), [The Black Album (album)](../../topics/album/the-black-album/index.md), [The Gold Experience (album)](../../topics/album/the-gold-experience/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-rules-collector-site-discogs-100-most-expensive-records-list/511122062/))
 
 ----
 
@@ -24,7 +24,7 @@
 
 ----
 
- - [**"Sometimes he dreamed his songs: A portrait of Prince in the recording studio -- “You had to be ready at any time for anything that inspired him,” says his L.A. engineer, who dishes on a new album of songs Prince wrote for other artists."**](http://www.startribune.com/sometimes-he-dreamed-his-songs-a-portrait-of-prince-in-the-recording-studio/510918872/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 6 June 2019 about [Originals (Album)](../../topics/album/originals/index.md), [Peggy McCreary](../../topics/peggy-mccreary/index.md), [Sunset Sound (Place)](../../topics/place/sunset-sound/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/sometimes-he-dreamed-his-songs-a-portrait-of-prince-in-the-recording-studio/510918872/))
+ - [**"Sometimes he dreamed his songs: A portrait of Prince in the recording studio -- “You had to be ready at any time for anything that inspired him,” says his L.A. engineer, who dishes on a new album of songs Prince wrote for other artists."**](http://www.startribune.com/sometimes-he-dreamed-his-songs-a-portrait-of-prince-in-the-recording-studio/510918872/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 6 June 2019 about [Originals (album)](../../topics/album/originals/index.md), [Peggy McCreary](../../topics/peggy-mccreary/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/sometimes-he-dreamed-his-songs-a-portrait-of-prince-in-the-recording-studio/510918872/))
 
 ----
 
@@ -36,11 +36,11 @@
 
 ----
 
- - [**"Remembering when Prince wrote that song for you"**](http://www.startribune.com/remembering-when-prince-wrote-that-song-for-you/510818462/) by Mesfin Fekadu (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 4 June 2019 about [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Bangles](../../topics/bangles/index.md), [Originals (Album)](../../topics/album/originals/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/remembering-when-prince-wrote-that-song-for-you/510818462/))
+ - [**"Remembering when Prince wrote that song for you"**](http://www.startribune.com/remembering-when-prince-wrote-that-song-for-you/510818462/) by Mesfin Fekadu (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 4 June 2019 about [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Bangles](../../topics/bangles/index.md), [Originals (album)](../../topics/album/originals/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/remembering-when-prince-wrote-that-song-for-you/510818462/))
 
 ----
 
- - [**"TV picks for June 1-2: Prince, ‘Perpetual Grace LTD,’ ‘The Weekly’"**](http://www.startribune.com/tv-picks-for-june-1-2-prince-perpetual-grace-ltd-the-weekly/510669062/) by Neal Justin in [Minneapolis Star Tribune](http://www.startribune.com/) on 4 June 2019 about [Nothing Compares 2 U (Song)](../../topics/song/nothing-compares-2-u/index.md), [Rave Un2 the Year 2000 (Video)](../../topics/video/rave-un2-the-year-2000/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/tv-picks-for-june-1-2-prince-perpetual-grace-ltd-the-weekly/510669062/))
+ - [**"TV picks for June 1-2: Prince, ‘Perpetual Grace LTD,’ ‘The Weekly’"**](http://www.startribune.com/tv-picks-for-june-1-2-prince-perpetual-grace-ltd-the-weekly/510669062/) by Neal Justin in [Minneapolis Star Tribune](http://www.startribune.com/) on 4 June 2019 about [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Rave Un2 the Year 2000 (video)](../../topics/video/rave-un2-the-year-2000/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/tv-picks-for-june-1-2-prince-perpetual-grace-ltd-the-weekly/510669062/))
 
 ----
 

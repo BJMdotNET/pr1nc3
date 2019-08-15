@@ -1,6 +1,6 @@
 # Andy Warhol
 
- - [**"Judge: Andy Warhol didn’t violate Prince picture copyright"**](https://apnews.com/d14de100e0454e658238546e0e036fc2) by Larry Neumeister (Associated Press) in [Associated Press News](https://apnews.com/) on 2 July 2019 about [Andy Warhol](../../topics/andy-warhol/index.md), [Lynn Goldsmith](../../topics/lynn-goldsmith/index.md), [Prince Series](../../topics/prince-series/index.md), [Vanity Fair](../../topics/vanity-fair/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/d14de100e0454e658238546e0e036fc2))
+ - [**"Judge: Andy Warhol didn’t violate Prince picture copyright"**](https://apnews.com/d14de100e0454e658238546e0e036fc2) by Larry Neumeister (Associated Press) in [Associated Press News](https://apnews.com/) on 2 July 2019 about [Andy Warhol](../../topics/andy-warhol/index.md), [Lynn Goldsmith](../../topics/lynn-goldsmith/index.md), [Prince Series](../../topics/prince-series/index.md), [Vanity Fair (magazine)](../../topics/magazine/vanity-fair/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/d14de100e0454e658238546e0e036fc2))
 
 ----
 
@@ -12,7 +12,7 @@
 
 ----
 
- - [**"Prince Collaborators Share Stories About the Songs He Gave to Others on 'Originals'"**](https://www.billboard.com/articles/news/8517755/prince-collaborators-originals) in [Billboard](https://www.billboard.com/) on 26 June 2019 about [Andy Warhol](../../topics/andy-warhol/index.md), [Bangles](../../topics/bangles/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Manic Monday (Song)](../../topics/song/manic-monday/index.md), [Martika](../../topics/martika/index.md), [Nothing Compares 2 U (Song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (Album)](../../topics/album/originals/index.md), [Peggy McCreary](../../topics/peggy-mccreary/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Sunset Sound (Place)](../../topics/place/sunset-sound/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [The Family](../../topics/the-family/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8517755/prince-collaborators-originals))
+ - [**"Prince Collaborators Share Stories About the Songs He Gave to Others on 'Originals'"**](https://www.billboard.com/articles/news/8517755/prince-collaborators-originals) in [Billboard](https://www.billboard.com/) on 26 June 2019 about [Andy Warhol](../../topics/andy-warhol/index.md), [Bangles](../../topics/bangles/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Martika](../../topics/martika/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../topics/album/originals/index.md), [Peggy McCreary](../../topics/peggy-mccreary/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [The Family](../../topics/the-family/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8517755/prince-collaborators-originals))
 
 ----
 
@@ -20,7 +20,7 @@
 
 ----
 
- - [**"Warhol Foundation Fires First Shot in Legal Battle Over Prince-Themed Artworks -- The Foundation accuses artist Lynn Goldsmith of an attempted "shake down.""**](https://news.artnet.com/art-world/warhol-foundation-strikes-first-photographer-complains-copyright-922025) by Eileen Kinsella in [artnet news](https://news.artnet.com/) on 11 April 2019 about [Andy Warhol](../../topics/andy-warhol/index.md), [Lynn Goldsmith](../../topics/lynn-goldsmith/index.md), [Prince Series](../../topics/prince-series/index.md), [Vanity Fair](../../topics/vanity-fair/index.md) ([mirror](https://web.archive.org/web/*/https://news.artnet.com/art-world/warhol-foundation-strikes-first-photographer-complains-copyright-922025))
+ - [**"Warhol Foundation Fires First Shot in Legal Battle Over Prince-Themed Artworks -- The Foundation accuses artist Lynn Goldsmith of an attempted "shake down.""**](https://news.artnet.com/art-world/warhol-foundation-strikes-first-photographer-complains-copyright-922025) by Eileen Kinsella in [artnet news](https://news.artnet.com/) on 11 April 2019 about [Andy Warhol](../../topics/andy-warhol/index.md), [Lynn Goldsmith](../../topics/lynn-goldsmith/index.md), [Prince Series](../../topics/prince-series/index.md), [Vanity Fair (magazine)](../../topics/magazine/vanity-fair/index.md) ([mirror](https://web.archive.org/web/*/https://news.artnet.com/art-world/warhol-foundation-strikes-first-photographer-complains-copyright-922025))
 
 ----
 

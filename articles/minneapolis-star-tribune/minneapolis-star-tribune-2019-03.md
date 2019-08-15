@@ -4,7 +4,7 @@
 
 ----
 
- - [**"Former Prince guitarist Donna Grantis celebrates new jazz-rock album at the Dakota -- 3rdEyeGirl guitarist Donna Grantis will celebrate her new jazz-rock fusion album in Minneapolis."**](http://www.startribune.com/former-prince-guitarist-donna-grantis-celebrates-new-jazz-rock-album-at-the-dakota/507678332/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 March 2019 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Dakota (Place)](../../topics/place/dakota/index.md), [Donna Grantis](../../topics/donna-grantis/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/former-prince-guitarist-donna-grantis-celebrates-new-jazz-rock-album-at-the-dakota/507678332/))
+ - [**"Former Prince guitarist Donna Grantis celebrates new jazz-rock album at the Dakota -- 3rdEyeGirl guitarist Donna Grantis will celebrate her new jazz-rock fusion album in Minneapolis."**](http://www.startribune.com/former-prince-guitarist-donna-grantis-celebrates-new-jazz-rock-album-at-the-dakota/507678332/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 March 2019 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Dakota (place)](../../topics/place/dakota/index.md), [Donna Grantis](../../topics/donna-grantis/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/former-prince-guitarist-donna-grantis-celebrates-new-jazz-rock-album-at-the-dakota/507678332/))
 
 ----
 
@@ -24,11 +24,11 @@
 
 ----
 
- - [**"Colbert's bandleader Jon Batiste honors Prince in final 'Live From Here' St. Paul show of the season"**](http://www.startribune.com/colbert-s-bandleader-jon-batiste-honors-prince-in-live-from-here-s-last-st-paul-show-of-the-season/507271362/) by Neal Justin in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 March 2019 about [Dirty Mind (Album)](../../topics/album/dirty-mind/index.md), [How Come U Don't Call Me Anymore (Song)](../../topics/song/how-come-u-don-t-call-me-anymore/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/colbert-s-bandleader-jon-batiste-honors-prince-in-live-from-here-s-last-st-paul-show-of-the-season/507271362/))
+ - [**"Colbert's bandleader Jon Batiste honors Prince in final 'Live From Here' St. Paul show of the season"**](http://www.startribune.com/colbert-s-bandleader-jon-batiste-honors-prince-in-live-from-here-s-last-st-paul-show-of-the-season/507271362/) by Neal Justin in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 March 2019 about [Dirty Mind (album)](../../topics/album/dirty-mind/index.md), [How Come U Don't Call Me Anymore (song)](../../topics/song/how-come-u-don-t-call-me-anymore/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/colbert-s-bandleader-jon-batiste-honors-prince-in-live-from-here-s-last-st-paul-show-of-the-season/507271362/))
 
 ----
 
- - [**"Chanhassen City Council approves housing and park plan on former Prince property"**](http://www.startribune.com/chanhassen-council-approves-housing-and-park-plan-on-former-prince-property/507037042/)) by David Chanen, Katy Read in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 March 2019 about [Galpin Boulevard (Place)](../../topics/place/galpin-boulevard/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/chanhassen-council-approves-housing-and-park-plan-on-former-prince-property/507037042/)))
+ - [**"Chanhassen City Council approves housing and park plan on former Prince property"**](http://www.startribune.com/chanhassen-council-approves-housing-and-park-plan-on-former-prince-property/507037042/)) by David Chanen, Katy Read in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 March 2019 about [Galpin Boulevard (place)](../../topics/place/galpin-boulevard/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/chanhassen-council-approves-housing-and-park-plan-on-former-prince-property/507037042/)))
 
 ----
 

@@ -1,4 +1,4 @@
-# Nothing Compares 2 U (Song)
+# Nothing Compares 2 U (song)
 
   * 2019: 
       [July](./nothing-compares-2-u-song-2019-07.md) (3) | 

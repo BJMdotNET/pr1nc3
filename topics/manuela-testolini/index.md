@@ -3,7 +3,7 @@
   * 2019: 
       [March](./manuela-testolini-2019-03.md) (2) | 
   * 2018: 
-      [June](./manuela-testolini-2018-06.md) (1) | 
+      [June](./manuela-testolini-2018-06.md) (2) | 
       [April](./manuela-testolini-2018-04.md) (1) | 
   * 2017: 
       [April](./manuela-testolini-2017-04.md) (2) | 

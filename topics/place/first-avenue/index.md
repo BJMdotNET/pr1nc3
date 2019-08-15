@@ -1,16 +1,16 @@
-# First Avenue (Place)
+# First Avenue (place)
 
   * 2019: 
       [August](./first-avenue-place-2019-08.md) (1) | 
       [July](./first-avenue-place-2019-07.md) (5) | 
-      [June](./first-avenue-place-2019-06.md) (1) | 
+      [June](./first-avenue-place-2019-06.md) (2) | 
       [May](./first-avenue-place-2019-05.md) (3) | 
       [April](./first-avenue-place-2019-04.md) (3) | 
   * 2018: 
       [December](./first-avenue-place-2018-12.md) (1) | 
       [July](./first-avenue-place-2018-07.md) (2) | 
       [February](./first-avenue-place-2018-02.md) (1) | 
-      [January](./first-avenue-place-2018-01.md) (1) | 
+      [January](./first-avenue-place-2018-01.md) (2) | 
   * 2017: 
       [December](./first-avenue-place-2017-12.md) (1) | 
       [August](./first-avenue-place-2017-08.md) (1) | 

@@ -20,7 +20,7 @@
 
 ----
 
- - [**"'Purple Rain' suit worn by Prince in movie on display in St. Paul -- The suit and other items can be viewed free of charge at the Minnesota History Center in St. Paul."**](http://www.startribune.com/purple-rain-suit-worn-by-prince-in-movie-goes-on-display-starting-today/419713513/) by Paul Walsh in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 April 2017 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/purple-rain-suit-worn-by-prince-in-movie-goes-on-display-starting-today/419713513/))
+ - [**"'Purple Rain' suit worn by Prince in movie on display in St. Paul -- The suit and other items can be viewed free of charge at the Minnesota History Center in St. Paul."**](http://www.startribune.com/purple-rain-suit-worn-by-prince-in-movie-goes-on-display-starting-today/419713513/) by Paul Walsh in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 April 2017 about [Minnesota History Center](../../topics/minnesota-history-center/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/purple-rain-suit-worn-by-prince-in-movie-goes-on-display-starting-today/419713513/))
 
 ----
 

@@ -4,11 +4,11 @@
 
 ----
 
- - [**"Auction offers never-released Prince recordings, guitar, ex’s wedding dress"**](https://apnews.com/a37b4dffd41e4f0aa89ed41ee05e4185) by Paul Walsh in [Associated Press News](https://apnews.com/) on 5 November 2017 about [Got a Broken Heart Again (Song)](../../topics/song/got-a-broken-heart-again/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Michael Kirk](../../topics/michael-kirk/index.md), [Owen Husney](../../topics/owen-husney/index.md), [Rave Un2 the Joy Fantastic (Album)](../../topics/album/rave-un2-the-joy-fantastic/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/a37b4dffd41e4f0aa89ed41ee05e4185))
+ - [**"Auction offers never-released Prince recordings, guitar, ex’s wedding dress"**](https://apnews.com/a37b4dffd41e4f0aa89ed41ee05e4185) by Paul Walsh in [Associated Press News](https://apnews.com/) on 5 November 2017 about [Got a Broken Heart Again (song)](../../topics/song/got-a-broken-heart-again/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Michael Kirk](../../topics/michael-kirk/index.md), [Owen Husney](../../topics/owen-husney/index.md), [Rave Un2 the Joy Fantastic (album)](../../topics/album/rave-un2-the-joy-fantastic/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/a37b4dffd41e4f0aa89ed41ee05e4185))
 
 ----
 
- - [**"'Purple Rain' suit worn by Prince in movie on display in St. Paul -- The suit and other items can be viewed free of charge at the Minnesota History Center in St. Paul."**](http://www.startribune.com/purple-rain-suit-worn-by-prince-in-movie-goes-on-display-starting-today/419713513/) by Paul Walsh in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 April 2017 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/purple-rain-suit-worn-by-prince-in-movie-goes-on-display-starting-today/419713513/))
+ - [**"'Purple Rain' suit worn by Prince in movie on display in St. Paul -- The suit and other items can be viewed free of charge at the Minnesota History Center in St. Paul."**](http://www.startribune.com/purple-rain-suit-worn-by-prince-in-movie-goes-on-display-starting-today/419713513/) by Paul Walsh in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 April 2017 about [Minnesota History Center](../../topics/minnesota-history-center/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/purple-rain-suit-worn-by-prince-in-movie-goes-on-display-starting-today/419713513/))
 
 ----
 
@@ -16,7 +16,7 @@
 
 ----
 
- - [**"Handwritten letter from Paul McCartney to Prince sells for nearly $15K at auction -- The 2-page letter was requesting a donation to a performing arts school he was establishing."**](http://www.startribune.com/handwritten-letter-from-paul-mccartney-to-prince-sells-for-nearly-15k-at-auction/387473981/) by Paul Walsh in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 July 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/handwritten-letter-from-paul-mccartney-to-prince-sells-for-nearly-15k-at-auction/387473981/))
+ - [**"Handwritten letter from Paul McCartney to Prince sells for nearly $15K at auction -- The 2-page letter was requesting a donation to a performing arts school he was establishing."**](http://www.startribune.com/handwritten-letter-from-paul-mccartney-to-prince-sells-for-nearly-15k-at-auction/387473981/) by Paul Walsh in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 July 2016 about [auction](../../topics/auction/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/handwritten-letter-from-paul-mccartney-to-prince-sells-for-nearly-15k-at-auction/387473981/))
 
 ----
 

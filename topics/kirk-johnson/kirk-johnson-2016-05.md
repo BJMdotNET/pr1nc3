@@ -8,7 +8,7 @@
 
 ----
 
- - [**"Questions linger about Prince’s choice of local doctor"**](https://apnews.com/270a7bd6fd104e909002bc2f6af592e2) in [Associated Press News](https://apnews.com/) on 12 May 2016 about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Carver County](../../topics/carver-county/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [North Memorial Medical Center (Place)](../../topics/place/north-memorial-medical-center/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/270a7bd6fd104e909002bc2f6af592e2))
+ - [**"Questions linger about Prince’s choice of local doctor"**](https://apnews.com/270a7bd6fd104e909002bc2f6af592e2) in [Associated Press News](https://apnews.com/) on 12 May 2016 about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Carver County](../../topics/carver-county/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [North Memorial Medical Center (place)](../../topics/place/north-memorial-medical-center/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/270a7bd6fd104e909002bc2f6af592e2))
 
 ----
 

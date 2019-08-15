@@ -1,4 +1,4 @@
-# Originals (Album)
+# Originals (album)
 
   * 2019: 
       [July](./originals-album-2019-07.md) (8) | 

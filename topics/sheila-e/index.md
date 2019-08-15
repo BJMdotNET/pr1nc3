@@ -5,13 +5,13 @@
       [June](./sheila-e-2019-06.md) (5) | 
       [April](./sheila-e-2019-04.md) (5) | 
       [March](./sheila-e-2019-03.md) (1) | 
-      [February](./sheila-e-2019-02.md) (1) | 
+      [February](./sheila-e-2019-02.md) (3) | 
   * 2018: 
       [August](./sheila-e-2018-08.md) (1) | 
       [April](./sheila-e-2018-04.md) (2) | 
       [March](./sheila-e-2018-03.md) (1) | 
       [February](./sheila-e-2018-02.md) (2) | 
-      [January](./sheila-e-2018-01.md) (1) | 
+      [January](./sheila-e-2018-01.md) (2) | 
   * 2017: 
       [December](./sheila-e-2017-12.md) (3) | 
       [August](./sheila-e-2017-08.md) (1) | 

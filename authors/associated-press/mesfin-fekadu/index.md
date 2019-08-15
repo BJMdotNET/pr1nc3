@@ -1,6 +1,6 @@
 # Mesfin Fekadu (Associated Press)
 
- - [**"Remembering when Prince wrote that song for you"**](http://www.startribune.com/remembering-when-prince-wrote-that-song-for-you/510818462/) by Mesfin Fekadu (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 4 June 2019 about [Apollonia Kotero](../../../topics/apollonia-kotero/index.md), [Bangles](../../../topics/bangles/index.md), [Originals (Album)](../../../topics/album/originals/index.md), [Susannah Melvoin](../../../topics/susannah-melvoin/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/remembering-when-prince-wrote-that-song-for-you/510818462/))
+ - [**"Remembering when Prince wrote that song for you"**](http://www.startribune.com/remembering-when-prince-wrote-that-song-for-you/510818462/) by Mesfin Fekadu (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 4 June 2019 about [Apollonia Kotero](../../../topics/apollonia-kotero/index.md), [Bangles](../../../topics/bangles/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Susannah Melvoin](../../../topics/susannah-melvoin/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/remembering-when-prince-wrote-that-song-for-you/510818462/))
 
 ----
 
@@ -20,7 +20,7 @@
 
 ----
 
- - [**"Prince says he's writing a memoir, performs for NYC audience"**](http://www.startribune.com/pop-star-prince-writing-a-memoir-to-be-released-next-year/372627011/) by Mesfin Fekadu (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 March 2016 about [memoir](../../../topics/memoir/index.md), [The Beautiful Ones (Book)](../../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/pop-star-prince-writing-a-memoir-to-be-released-next-year/372627011/))
+ - [**"Prince says he's writing a memoir, performs for NYC audience"**](http://www.startribune.com/pop-star-prince-writing-a-memoir-to-be-released-next-year/372627011/) by Mesfin Fekadu (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 March 2016 about [memoir](../../../topics/memoir/index.md), [The Beautiful Ones (book)](../../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/pop-star-prince-writing-a-memoir-to-be-released-next-year/372627011/))
 
 ----
 

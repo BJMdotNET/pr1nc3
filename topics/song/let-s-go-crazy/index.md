@@ -1,4 +1,4 @@
-# Let’s Go Crazy (Song)
+# Let’s Go Crazy (song)
 
   * 2019: 
       [July](./let-s-go-crazy-song-2019-07.md) (4) | 

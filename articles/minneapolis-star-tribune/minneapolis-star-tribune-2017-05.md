@@ -1,6 +1,6 @@
 # Minneapolis Star Tribune: May 2017
 
- - [**"Judge: Sound engineer can't publish unreleased Prince tracks"**](http://www.startribune.com/judge-sound-engineer-can-t-publish-unreleased-prince-tracks/423717653/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 May 2017 about [Deliverance (EP)](../../topics/ep/deliverance/index.md), [Deliverance (Song)](../../topics/song/deliverance/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/judge-sound-engineer-can-t-publish-unreleased-prince-tracks/423717653/))
+ - [**"Judge: Sound engineer can't publish unreleased Prince tracks"**](http://www.startribune.com/judge-sound-engineer-can-t-publish-unreleased-prince-tracks/423717653/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 May 2017 about [Deliverance (EP)](../../topics/ep/deliverance/index.md), [Deliverance (song)](../../topics/song/deliverance/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/judge-sound-engineer-can-t-publish-unreleased-prince-tracks/423717653/))
 
 ----
 

@@ -36,6 +36,10 @@
 
 ----
 
+ - [**"Spike Lee throws dance party ahead of Prince’s 58th birthday"**](https://apnews.com/780ae6981b534a27be2f65bf10470f6e) in [Associated Press News](https://apnews.com/) on 5 June 2016 about [Celebration](../../topics/celebration/index.md), [Erotic City (song)](../../topics/song/erotic-city/index.md), [fentanyl](../../topics/fentanyl/index.md), [Spike Lee](../../topics/spike-lee/index.md), [Starfish And Coffee (song)](../../topics/song/starfish-and-coffee/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/780ae6981b534a27be2f65bf10470f6e))
+
+----
+
  - [**"PETA offers pro-vegan Prince song as free download"**](https://apnews.com/98096304481044cb87de3d4eb7372c16) in [Associated Press News](https://apnews.com/) on 3 June 2016 about [fentanyl](../../topics/fentanyl/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/98096304481044cb87de3d4eb7372c16))
 
 ----

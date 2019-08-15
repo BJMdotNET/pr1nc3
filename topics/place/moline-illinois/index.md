@@ -1,4 +1,4 @@
-# Moline, Illinois (Place)
+# Moline, Illinois (place)
 
   * 2019: 
       [June](./moline-illinois-place-2019-06.md) (1) | 

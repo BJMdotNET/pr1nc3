@@ -1,7 +1,7 @@
 # Afropunk
 
-  * 2019: 
-      [August](./afropunk-2019-08.md) (1) | 
+  * 2018: 
+      [May](./afropunk-2018-05.md) (1) | 
 
 ----
 

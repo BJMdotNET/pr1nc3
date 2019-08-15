@@ -1,5 +1,9 @@
 # Associated Press News: May 2016
 
+ - [**"Dan Rather to host program on fallen musicians"**](https://apnews.com/b8b0092e3f024fa5ae25a2c97bd1b6ff) in [Associated Press News](https://apnews.com/) on 23 May 2016 about [AXS-TV](../../topics/axs-tv/index.md), [Dan Rather](../../topics/dan-rather/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/b8b0092e3f024fa5ae25a2c97bd1b6ff))
+
+----
+
  - [**"Prince confidant says he’s heartbroken, wants privacy"**](https://apnews.com/9b56d50728424a36a69a6ff566878a68) in [Associated Press News](https://apnews.com/) on 19 May 2016 about [Kirk Johnson](../../topics/kirk-johnson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/9b56d50728424a36a69a6ff566878a68))
 
 ----
@@ -12,15 +16,15 @@
 
 ----
 
- - [**"Questions linger about Prince’s choice of local doctor"**](https://apnews.com/270a7bd6fd104e909002bc2f6af592e2) in [Associated Press News](https://apnews.com/) on 12 May 2016 about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Carver County](../../topics/carver-county/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [North Memorial Medical Center (Place)](../../topics/place/north-memorial-medical-center/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/270a7bd6fd104e909002bc2f6af592e2))
+ - [**"Questions linger about Prince’s choice of local doctor"**](https://apnews.com/270a7bd6fd104e909002bc2f6af592e2) in [Associated Press News](https://apnews.com/) on 12 May 2016 about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Carver County](../../topics/carver-county/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [North Memorial Medical Center (place)](../../topics/place/north-memorial-medical-center/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/270a7bd6fd104e909002bc2f6af592e2))
 
 ----
 
- - [**"Warrant: Minnesota doctor saw Prince, prescribed drugs"**](https://apnews.com/21140409ac784faf88f88ce5c400bbe3) in [Associated Press News](https://apnews.com/) on 11 May 2016 about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Atlanta (Place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (Place)](../../topics/place/moline-illinois/index.md), [North Memorial Medical Center (Place)](../../topics/place/north-memorial-medical-center/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/21140409ac784faf88f88ce5c400bbe3))
+ - [**"Warrant: Minnesota doctor saw Prince, prescribed drugs"**](https://apnews.com/21140409ac784faf88f88ce5c400bbe3) in [Associated Press News](https://apnews.com/) on 11 May 2016 about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [North Memorial Medical Center (place)](../../topics/place/north-memorial-medical-center/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/21140409ac784faf88f88ce5c400bbe3))
 
 ----
 
- - [**"Warrant: Minnesota doctor saw Prince, prescribed drugs"**](https://apnews.com/53b7f73993c649aebb7165d234092956) in [Associated Press News](https://apnews.com/) on 11 May 2016 about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Atlanta (Place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (Place)](../../topics/place/moline-illinois/index.md), [North Memorial Medical Center (Place)](../../topics/place/north-memorial-medical-center/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/53b7f73993c649aebb7165d234092956))
+ - [**"Warrant: Minnesota doctor saw Prince, prescribed drugs"**](https://apnews.com/53b7f73993c649aebb7165d234092956) in [Associated Press News](https://apnews.com/) on 11 May 2016 about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [North Memorial Medical Center (place)](../../topics/place/north-memorial-medical-center/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/53b7f73993c649aebb7165d234092956))
 
 ----
 
@@ -40,7 +44,7 @@
 
 ----
 
- - [**"911 calls to Prince estate ranged from mundane to serious"**](https://apnews.com/b145542cfe0d4dfd945cabaa0c720696) in [Associated Press News](https://apnews.com/) on 4 May 2016 about [Carver County](../../topics/carver-county/index.md), [Moline, Illinois (Place)](../../topics/place/moline-illinois/index.md), [Prince Estate](../../topics/prince-estate/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/b145542cfe0d4dfd945cabaa0c720696))
+ - [**"911 calls to Prince estate ranged from mundane to serious"**](https://apnews.com/b145542cfe0d4dfd945cabaa0c720696) in [Associated Press News](https://apnews.com/) on 4 May 2016 about [Carver County](../../topics/carver-county/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [Prince Estate](../../topics/prince-estate/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/b145542cfe0d4dfd945cabaa0c720696))
 
 ----
 
@@ -52,7 +56,7 @@
 
 ----
 
- - [**"Prince siblings stand to make millions but keep low profiles"**](https://apnews.com/e1c3f1ca7f2e4a2a9baa312560ea6379) in [Associated Press News](https://apnews.com/) on 3 May 2016 about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Duane Nelson](../../topics/duane-nelson/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [U Got the Look (Song)](../../topics/song/u-got-the-look/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/e1c3f1ca7f2e4a2a9baa312560ea6379))
+ - [**"Prince siblings stand to make millions but keep low profiles"**](https://apnews.com/e1c3f1ca7f2e4a2a9baa312560ea6379) in [Associated Press News](https://apnews.com/) on 3 May 2016 about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Duane Nelson](../../topics/duane-nelson/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [U Got the Look (song)](../../topics/song/u-got-the-look/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/e1c3f1ca7f2e4a2a9baa312560ea6379))
 
 ----
 
@@ -60,7 +64,7 @@
 
 ----
 
- - [**"Longtime chef: Prince fought throat, stomach pains recently"**](https://apnews.com/cc2bbe6ca3f74392a76e6045e2029eff) in [Associated Press News](https://apnews.com/) on 1 May 2016 about [Atlanta (Place)](../../topics/place/atlanta/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/cc2bbe6ca3f74392a76e6045e2029eff))
+ - [**"Longtime chef: Prince fought throat, stomach pains recently"**](https://apnews.com/cc2bbe6ca3f74392a76e6045e2029eff) in [Associated Press News](https://apnews.com/) on 1 May 2016 about [Atlanta (place)](../../topics/place/atlanta/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/cc2bbe6ca3f74392a76e6045e2029eff))
 
 ----
 

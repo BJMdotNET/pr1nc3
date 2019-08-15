@@ -10,6 +10,7 @@
       [August](./warner-bros-records-2018-08.md) (1) | 
       [July](./warner-bros-records-2018-07.md) (1) | 
       [June](./warner-bros-records-2018-06.md) (2) | 
+      [April](./warner-bros-records-2018-04.md) (1) | 
   * 2017: 
       [September](./warner-bros-records-2017-09.md) (1) | 
       [August](./warner-bros-records-2017-08.md) (1) | 

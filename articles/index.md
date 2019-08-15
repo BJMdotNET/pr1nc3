@@ -6,7 +6,7 @@
   * [Architectural Digest](./architectural-digest/) (1)
   * [artnet news](./artnet-news/) (4)
   * [ASMP -- American Society of Media Photographers](./asmp-american-society-of-media-photographers/) (1)
-  * [Associated Press News](./associated-press-news/) (248)
+  * [Associated Press News](./associated-press-news/) (263)
   * [Bass Magazine](./bass-magazine/) (1)
   * [BBC News](./bbc-news/) (1)
   * [Billboard](./billboard/) (10)
@@ -38,6 +38,7 @@
   * [Humo](./humo/) (1)
   * [I Like Your Old Stuff](./i-like-your-old-stuff/) (1)
   * [i-D](./i-d/) (1)
+  * [JDSupra](./jdsupra/) (1)
   * [KXLF.com](./kxlf-com/) (1)
   * [The Lefsetz Letter](./the-lefsetz-letter/) (1)
   * [Legacy Recordings](./legacy-recordings/) (4)
@@ -81,9 +82,11 @@
   * [Variety](./variety/) (19)
   * [Vulture](./vulture/) (1)
   * [Washington Post](./washington-post/) (1)
+  * [Washington Times](./washington-times/) (1)
   * [The West Australian](./the-west-australian/) (1)
   * [Yahoo! Entertainment](./yahoo-entertainment/) (1)
   * [The Young Folks](./the-young-folks/) (1)
+  * [Zapproved](./zapproved/) (1)
 
 ----
 

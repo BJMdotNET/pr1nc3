@@ -2,6 +2,8 @@
 
   * 2019: 
       [May](./museum-2019-05.md) (1) | 
+  * 2018: 
+      [September](./museum-2018-09.md) (1) | 
   * 2017: 
       [August](./museum-2017-08.md) (1) | 
       [April](./museum-2017-04.md) (1) | 

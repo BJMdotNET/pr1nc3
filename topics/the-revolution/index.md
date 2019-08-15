@@ -11,7 +11,7 @@
       [June](./the-revolution-2018-06.md) (1) | 
       [March](./the-revolution-2018-03.md) (2) | 
       [February](./the-revolution-2018-02.md) (1) | 
-      [January](./the-revolution-2018-01.md) (1) | 
+      [January](./the-revolution-2018-01.md) (2) | 
   * 2017: 
       [December](./the-revolution-2017-12.md) (3) | 
       [August](./the-revolution-2017-08.md) (2) | 

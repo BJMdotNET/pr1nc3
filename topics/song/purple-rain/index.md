@@ -1,4 +1,4 @@
-# Purple Rain (Song)
+# Purple Rain (song)
 
   * 2019: 
       [July](./purple-rain-song-2019-07.md) (6) | 

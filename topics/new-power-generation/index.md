@@ -3,10 +3,11 @@
   * 2019: 
       [August](./new-power-generation-2019-08.md) (1) | 
       [July](./new-power-generation-2019-07.md) (2) | 
+      [June](./new-power-generation-2019-06.md) (1) | 
       [April](./new-power-generation-2019-04.md) (1) | 
   * 2018: 
       [February](./new-power-generation-2018-02.md) (1) | 
-      [January](./new-power-generation-2018-01.md) (1) | 
+      [January](./new-power-generation-2018-01.md) (2) | 
   * 2017: 
       [December](./new-power-generation-2017-12.md) (1) | 
       [April](./new-power-generation-2017-04.md) (2) | 
