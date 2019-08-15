@@ -1,5 +1,7 @@
 # Carver County
 
+  * 2019: 
+      [July](./carver-county-2019-07.md) (1) | 
   * 2018: 
       [July](./carver-county-2018-07.md) (1) | 
       [May](./carver-county-2018-05.md) (1) | 

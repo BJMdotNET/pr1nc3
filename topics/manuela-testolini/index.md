@@ -1,6 +1,7 @@
 # Manuela Testolini
 
   * 2019: 
+      [July](./manuela-testolini-2019-07.md) (1) | 
       [March](./manuela-testolini-2019-03.md) (2) | 
   * 2018: 
       [June](./manuela-testolini-2018-06.md) (2) | 

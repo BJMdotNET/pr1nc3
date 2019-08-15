@@ -1,5 +1,7 @@
 # Kirk Johnson
 
+  * 2019: 
+      [July](./kirk-johnson-2019-07.md) (1) | 
   * 2018: 
       [April](./kirk-johnson-2018-04.md) (11) | 
   * 2017: 

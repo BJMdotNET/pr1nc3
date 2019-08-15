@@ -1,7 +1,7 @@
 # Prince Estate
 
   * 2019: 
-      [August](./prince-estate-2019-08.md) (2) | 
+      [August](./prince-estate-2019-08.md) (4) | 
       [July](./prince-estate-2019-07.md) (2) | 
       [June](./prince-estate-2019-06.md) (3) | 
       [May](./prince-estate-2019-05.md) (1) | 

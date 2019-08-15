@@ -1,6 +1,7 @@
 # Chaka Khan
 
   * 2019: 
+      [July](./chaka-khan-2019-07.md) (1) | 
       [March](./chaka-khan-2019-03.md) (2) | 
       [February](./chaka-khan-2019-02.md) (2) | 
   * 2018: 

@@ -1,7 +1,7 @@
 # Publications
 
   * [Afropunk](./afropunk/) (1)
-  * [Albumism](./albumism/) (3)
+  * [Albumism](./albumism/) (4)
   * [Alternative Nation](./alternative-nation/) (1)
   * [Architectural Digest](./architectural-digest/) (1)
   * [artnet news](./artnet-news/) (4)

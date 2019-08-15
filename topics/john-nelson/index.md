@@ -1,5 +1,7 @@
 # John Nelson
 
+  * 2019: 
+      [July](./john-nelson-2019-07.md) (1) | 
   * 2018: 
       [July](./john-nelson-2018-07.md) (1) | 
       [March](./john-nelson-2018-03.md) (2) | 

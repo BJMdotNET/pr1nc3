@@ -24,7 +24,7 @@
   * [Sign O' The Times (album)](./album/sign-o-the-times/) (1)
   * [The Black Album (album)](./album/the-black-album/) (2)
   * [The Glamorous Life (album)](./album/the-glamorous-life/) (1)
-  * [The Gold Experience (album)](./album/the-gold-experience/) (5)
+  * [The Gold Experience (album)](./album/the-gold-experience/) (6)
   * [The Red Shoes (album)](./album/the-red-shoes/) (2)
   * [The Versace Experience (Prelude 2 Gold) (album)](./album/the-versace-experience-prelude-2-gold/) (3)
   * [Ultimate Rave (album)](./album/ultimate-rave/) (1)

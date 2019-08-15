@@ -10,6 +10,7 @@
       [January](./new-power-generation-2018-01.md) (2) | 
   * 2017: 
       [December](./new-power-generation-2017-12.md) (1) | 
+      [November](./new-power-generation-2017-11.md) (1) | 
       [April](./new-power-generation-2017-04.md) (2) | 
   * 2016: 
       [November](./new-power-generation-2016-11.md) (2) | 
