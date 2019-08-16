@@ -4,6 +4,10 @@
 
 ----
 
+ - [**"Hiding in plain sight – why I spent a lifetime chasing Prince"**](https://www.telegraph.co.uk/music/what-to-listen-to/hiding-in-plain-sight--why-i-spent-a-lifetime-chasing-prince/) in [The Telegraph](https://www.telegraph.co.uk/) on 22 April 2016 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Andy Warhol](../../topics/andy-warhol/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [bootleg](../../topics/bootleg/index.md), [Chris Moon](../../topics/chris-moon/index.md), [Denise Matthews](../../topics/denise-matthews/index.md), [Gilbert Davidson](../../topics/gilbert-davidson/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [Matt Fink](../../topics/matt-fink/index.md), [The Revolution](../../topics/the-revolution/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.telegraph.co.uk/music/what-to-listen-to/hiding-in-plain-sight--why-i-spent-a-lifetime-chasing-prince/))
+
+----
+
  - [**"Apollonia: Vanity was and ‘inspiration’"**](https://apnews.com/849a2025be574b07b857e30d16295024) by Jesse J. Holland (Associated Press) in [Associated Press News](https://apnews.com/) on 18 February 2016 about [Apollonia 6](../../topics/apollonia-6/index.md), [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Denise Matthews](../../topics/denise-matthews/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Sex Shooter (song)](../../topics/song/sex-shooter/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/849a2025be574b07b857e30d16295024))
 
 ----

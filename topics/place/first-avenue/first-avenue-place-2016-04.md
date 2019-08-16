@@ -1,5 +1,9 @@
 # First Avenue (place): April 2016
 
+ - [**"Remembering Prince: Engineer “Cubby” Colby"**](https://www.prosoundnetwork.com/business/remembering-prince-engineer-cubby-colby) in [ProSound](https://www.prosoundnetwork.com/) on 28 April 2016 about [Brown Mark](../../../topics/brown-mark/index.md), [Dez Dickerson](../../../topics/dez-dickerson/index.md), [Eric Leeds](../../../topics/eric-leeds/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [James Brown](../../../topics/james-brown/index.md), [Jehovah’s Witness](../../../topics/jehovah-s-witness/index.md), [Kirk Johnson](../../../topics/kirk-johnson/index.md), [LeRoy Bennett](../../../topics/leroy-bennett/index.md), [Matt Fink](../../../topics/matt-fink/index.md), [Michael Bland](../../../topics/michael-bland/index.md), [Robert “Cubby” Colby](../../../topics/robert-cubby-colby/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [Sunset Sound (place)](../../../topics/place/sunset-sound/index.md), [Susan Rogers](../../../topics/susan-rogers/index.md), [The Revolution](../../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/https://www.prosoundnetwork.com/business/remembering-prince-engineer-cubby-colby))
+
+----
+
  - [**"Prince’s sister says musician had no known will"**](https://apnews.com/b7bcc90e42904f679c07158bf5e851a3) in [Associated Press News](https://apnews.com/) on 27 April 2016 about [Bremer Trust](../../../topics/bremer-trust/index.md), [Carver County](../../../topics/carver-county/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Tyka Nelson](../../../topics/tyka-nelson/index.md), [University of Minnesota](../../../topics/university-of-minnesota/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/b7bcc90e42904f679c07158bf5e851a3))
 
 ----

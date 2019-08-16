@@ -9,6 +9,7 @@
   * 2016: 
       [June](./kirk-johnson-2016-06.md) (1) | 
       [May](./kirk-johnson-2016-05.md) (3) | 
+      [April](./kirk-johnson-2016-04.md) (1) | 
   * 2015: 
       [October](./kirk-johnson-2015-10.md) (1) | 
 

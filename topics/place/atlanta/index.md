@@ -8,7 +8,7 @@
       [October](./atlanta-place-2016-10.md) (1) | 
       [August](./atlanta-place-2016-08.md) (2) | 
       [May](./atlanta-place-2016-05.md) (4) | 
-      [April](./atlanta-place-2016-04.md) (5) | 
+      [April](./atlanta-place-2016-04.md) (6) | 
   * 1985: 
       [March](./atlanta-place-1985-03.md) (1) | 
 

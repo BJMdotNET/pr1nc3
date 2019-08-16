@@ -14,7 +14,7 @@
       [October](./vault-2017-10.md) (1) | 
   * 2016: 
       [September](./vault-2016-09.md) (1) | 
-      [April](./vault-2016-04.md) (2) | 
+      [April](./vault-2016-04.md) (3) | 
 
 ----
 

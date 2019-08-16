@@ -21,7 +21,7 @@
       [July](./sheila-e-2016-07.md) (1) | 
       [June](./sheila-e-2016-06.md) (1) | 
       [May](./sheila-e-2016-05.md) (1) | 
-      [April](./sheila-e-2016-04.md) (6) | 
+      [April](./sheila-e-2016-04.md) (8) | 
   * 2014: 
       [July](./sheila-e-2014-07.md) (1) | 
   * 1986: 

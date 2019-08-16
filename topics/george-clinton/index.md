@@ -16,6 +16,10 @@
 
 ----
 
+ - [**"What Prince Taught Me About Love. And Sex. And Time. -- Thirty-five years ago, I heard Prince's voice. Eighteen years later, I was in his presence."**](https://www.esquire.com/entertainment/music/a44221/prince-a-remembrance-dave-holmes/) in [Esquire](https://www.esquire.com/) on 21 April 2016 about [Baby I'm a Star (song)](../../topics/song/baby-i-m-a-star/index.md), [Batdance (song)](../../topics/song/batdance/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [George Clinton](../../topics/george-clinton/index.md), [I Would Die 4 U (song)](../../topics/song/i-would-die-4-u/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Morris Day](../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Vanity 6](../../topics/vanity-6/index.md), [YouTube](../../topics/youtube/index.md) ([mirror](https://web.archive.org/web/*/https://www.esquire.com/entertainment/music/a44221/prince-a-remembrance-dave-holmes/))
+
+----
+
  - [**"Warner opts out of Paisley Park"**](https://variety.com/1994/music/news/warner-opts-out-of-paisley-park-117965/) in [Variety](https://variety.com/) on 1 February 1994 about [George Clinton](../../topics/george-clinton/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Mo Ostin](../../topics/mo-ostin/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [Paisley Park Records](../../topics/paisley-park-records/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/1994/music/news/warner-opts-out-of-paisley-park-117965/))
 
 ----

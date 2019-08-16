@@ -1,42 +1,18 @@
 # James Brown
 
- - [**"Twin Cities concerts of the week: Vampire Weekend, Luis Miguel, New Kids on the Block, Billie Eilish"**](http://www.startribune.com/twin-cities-concerts-of-the-week-vampire-weekend-luis-miguel-new-kids-on-the-block-billie-eilish/510910832/) by Chris Riemenschneider, Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 6 June 2019 about [Brown Mark](../../topics/brown-mark/index.md), [Candy Dulfer](../../topics/candy-dulfer/index.md), [George Clinton](../../topics/george-clinton/index.md), [Ingrid Chavez](../../topics/ingrid-chavez/index.md), [James Brown](../../topics/james-brown/index.md), [Maceo Parker](../../topics/maceo-parker/index.md), [Mazarati](../../topics/mazarati/index.md), [PRN Alumni Foundation](../../topics/prn-alumni-foundation/index.md), [Terry Casey](../../topics/terry-casey/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/twin-cities-concerts-of-the-week-vampire-weekend-luis-miguel-new-kids-on-the-block-billie-eilish/510910832/))
-
-----
-
- - [**"The days the music died: A look at funerals of the greats"**](https://apnews.com/7d546ab5dbec4e5ba4ebd0eddd1064e8) in [Associated Press News](https://apnews.com/) on 29 August 2018 about [Graceland](../../topics/graceland/index.md), [James Brown](../../topics/james-brown/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [trademark](../../topics/trademark/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/7d546ab5dbec4e5ba4ebd0eddd1064e8))
-
-----
-
- - [**"Exclusive Preview: Prince’s ‘Purple Rain’ Deluxe Edition, With Previously Unreleased Tracks"**](https://variety.com/2017/film/news/prince-purple-rain-deluxe-edition-exclusive-preview-1202463200/) by Jem Aswad in [Variety](https://variety.com/) on 13 June 2017 about [17 Days (song)](../../topics/song/17-days/index.md), [Around The World In A Day (album)](../../topics/album/around-the-world-in-a-day/index.md), [Computer Blue (song)](../../topics/song/computer-blue/index.md), [Erotic City (song)](../../topics/song/erotic-city/index.md), [I Would Die 4 U (song)](../../topics/song/i-would-die-4-u/index.md), [James Brown](../../topics/james-brown/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [Katrina’s Paper Dolls (song)](../../topics/song/katrina-s-paper-dolls/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Love and Sex (song)](../../topics/song/love-and-sex/index.md), [Our Destiny (song)](../../topics/song/our-destiny/index.md), [Possessed (song)](../../topics/song/possessed/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Roadhouse Garden (song)](../../topics/song/roadhouse-garden/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Beautiful Ones (song)](../../topics/song/the-beautiful-ones/index.md), [The Dance Electric (song)](../../topics/song/the-dance-electric/index.md), [Velvet Kitty Cat (song)](../../topics/song/velvet-kitty-cat/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md), [Wonderful Ass (song)](../../topics/song/wonderful-ass/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2017/film/news/prince-purple-rain-deluxe-edition-exclusive-preview-1202463200/))
-
-----
-
- - [**"Tracklist for Prince’s ‘Purple Rain’ Deluxe Edition Leaks — Unreleased Tracks Revealed"**](https://variety.com/2017/music/news/prince-purple-rain-deluxe-tracklist-leaks-1202390479/) by Jem Aswad in [Variety](https://variety.com/) on 19 April 2017 about [17 Days (song)](../../topics/song/17-days/index.md), [Baby I’m a Star (song)](../../topics/song/baby-i-m-a-star/index.md), [Computer Blue (song)](../../topics/song/computer-blue/index.md), [Erotic City (song)](../../topics/song/erotic-city/index.md), [George Clinton](../../topics/george-clinton/index.md), [Graffiti Bridge (album)](../../topics/album/graffiti-bridge/index.md), [I Would Die 4 U (song)](../../topics/song/i-would-die-4-u/index.md), [James Brown](../../topics/james-brown/index.md), [Katrina’s Paper Dolls (song)](../../topics/song/katrina-s-paper-dolls/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Love and Sex (song)](../../topics/song/love-and-sex/index.md), [Our Destiny (song)](../../topics/song/our-destiny/index.md), [Possessed (song)](../../topics/song/possessed/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Roadhouse Garden (song)](../../topics/song/roadhouse-garden/index.md), [Take Me with U (song)](../../topics/song/take-me-with-u/index.md), [The Beautiful Ones (song)](../../topics/song/the-beautiful-ones/index.md), [The Dance Electric (song)](../../topics/song/the-dance-electric/index.md), [The Revolution](../../topics/the-revolution/index.md), [Velvet Kitty Cat (song)](../../topics/song/velvet-kitty-cat/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2017/music/news/prince-purple-rain-deluxe-tracklist-leaks-1202390479/))
-
-----
-
- - [**"Magic memories: Prince’s warmth and wit shone in private"**](https://apnews.com/cf2e87db1753473eb63165d807bd45c2) in [Associated Press News](https://apnews.com/) on 23 April 2016 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [James Brown](../../topics/james-brown/index.md), [Joshua Welton](../../topics/joshua-welton/index.md), [Larry Graham](../../topics/larry-graham/index.md), [memoir](../../topics/memoir/index.md), [NPG Records](../../topics/npg-records/index.md), [piracy](../../topics/piracy/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md), [YouTube](../../topics/youtube/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/cf2e87db1753473eb63165d807bd45c2))
-
-----
-
- - [**"5 ways Prince slammed high tech in music"**](https://apnews.com/f4cdf36615b446d6bf994eab8ab22379) in [Associated Press News](https://apnews.com/) on 22 April 2016 about [James Brown](../../topics/james-brown/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Tidal](../../topics/tidal/index.md), [YouTube](../../topics/youtube/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/f4cdf36615b446d6bf994eab8ab22379))
-
-----
-
- - [**"A day with Prince at Paisley Park"**](https://apnews.com/948911d73f9941fd938df975a3dc5f6f) by Nekesa Mumbi Moody (Associated Press) in [Associated Press News](https://apnews.com/) on 22 April 2016 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Donna Grantis](../../topics/donna-grantis/index.md), [James Brown](../../topics/james-brown/index.md), [Joshua Welton](../../topics/joshua-welton/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Rita Ora](../../topics/rita-ora/index.md), [YouTube](../../topics/youtube/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/948911d73f9941fd938df975a3dc5f6f))
-
-----
-
- - [**"Prince, hugely inventive, influential musician, dead at 57"**](https://apnews.com/988e107cf6964494b58ad2ca9bcd0985) in [Associated Press News](https://apnews.com/) on 22 April 2016 about [Academy Award](../../topics/academy-award/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Bangles](../../topics/bangles/index.md), [I Wanna Be Your Lover (song)](../../topics/song/i-wanna-be-your-lover/index.md), [James Brown](../../topics/james-brown/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Obama](../../topics/obama/index.md), [Roger Ebert](../../topics/roger-ebert/index.md), [Tidal](../../topics/tidal/index.md), [Vanity](../../topics/vanity/index.md), [White House (place)](../../topics/place/white-house/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/988e107cf6964494b58ad2ca9bcd0985))
-
-----
-
- - [**"Prince invites fans to party with him at Paisley Park"**](https://apnews.com/93c56737c5344b9597794d00449d08e3) by Jeff Baenen (Associated Press) in [Associated Press News](https://apnews.com/) on 27 October 2015 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Donna Grantis](../../topics/donna-grantis/index.md), [James Brown](../../topics/james-brown/index.md), [Judith Hill](../../topics/judith-hill/index.md), [merchandise](../../topics/merchandise/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/93c56737c5344b9597794d00449d08e3))
-
-----
-
- - [**"Memorable moments from Paisley Park"**](https://apnews.com/d341d2b22be74bf7843f3c485d527b18) by Nekesa Mumbi Moody (Associated Press) in [Associated Press News](https://apnews.com/) on 29 September 2014 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Donna Grantis](../../topics/donna-grantis/index.md), [James Brown](../../topics/james-brown/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Rita Ora](../../topics/rita-ora/index.md), [YouTube](../../topics/youtube/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/d341d2b22be74bf7843f3c485d527b18))
+  * 2019: 
+      [June](./james-brown-2019-06.md) (1) | 
+  * 2018: 
+      [August](./james-brown-2018-08.md) (1) | 
+  * 2017: 
+      [June](./james-brown-2017-06.md) (1) | 
+      [April](./james-brown-2017-04.md) (1) | 
+  * 2016: 
+      [April](./james-brown-2016-04.md) (5) | 
+  * 2015: 
+      [October](./james-brown-2015-10.md) (1) | 
+  * 2014: 
+      [September](./james-brown-2014-09.md) (1) | 
 
 ----
 

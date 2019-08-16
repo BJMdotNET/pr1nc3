@@ -9,7 +9,7 @@
   * 2016: 
       [November](./3rdeyegirl-2016-11.md) (2) | 
       [September](./3rdeyegirl-2016-09.md) (1) | 
-      [April](./3rdeyegirl-2016-04.md) (2) | 
+      [April](./3rdeyegirl-2016-04.md) (3) | 
   * 2015: 
       [October](./3rdeyegirl-2015-10.md) (2) | 
   * 2014: 

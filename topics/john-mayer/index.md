@@ -1,5 +1,13 @@
 # John Mayer
 
+ - [**"John Mayer keeps things ultra mellow, with mixed results, at Milwaukee's Fiserv Forum"**](https://eu.jsonline.com/story/entertainment/music/2019/08/07/john-mayer-keeps-things-ultra-mellow-mixed-results-milwaukees-fiserv-forum/1933653001/) in [Milwaukee Journal Sentinel](https://eu.jsonline.com/) on 7 August 2019 about [John Mayer](../../topics/john-mayer/index.md), [The Beautiful Ones (song)](../../topics/song/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://eu.jsonline.com/story/entertainment/music/2019/08/07/john-mayer-keeps-things-ultra-mellow-mixed-results-milwaukees-fiserv-forum/1933653001/))
+
+----
+
+ - [**"John Mayer barely comes alive in post-Dead, two-set Xcel Center gig -- The bluesy pop hitmaker hit St. Paul fresh off a tour with his older pals. "**](http://www.startribune.com/john-mayer-barely-comes-alive-in-post-dead-two-set-xcel-center-gig/522130881/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 6 August 2019 about [John Mayer](../../topics/john-mayer/index.md), [The Beautiful Ones (song)](../../topics/song/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/john-mayer-barely-comes-alive-in-post-dead-two-set-xcel-center-gig/522130881/))
+
+----
+
  - [**"Stevie Wonder, Chaka Khan headline Prince tribute show"**](https://apnews.com/776650efcc1b4b3997f8af7b73f4e16c) in [Associated Press News](https://apnews.com/) on 14 October 2016 about [Anita Baker](../../topics/anita-baker/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Chris Coleman](../../topics/chris-coleman/index.md), [Christina Aguilera](../../topics/christina-aguilera/index.md), [Doug E. Fresh](../../topics/doug-e-fresh/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Jessie J](../../topics/jessie-j/index.md), [John Mayer](../../topics/john-mayer/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Prince Day](../../topics/prince-day/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Tori Kelly](../../topics/tori-kelly/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/776650efcc1b4b3997f8af7b73f4e16c))
 
 ----
