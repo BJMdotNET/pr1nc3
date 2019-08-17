@@ -4,7 +4,7 @@
 
 ----
 
- - [**"Auction offers never-released Prince recordings, guitar, ex’s wedding dress"**](https://apnews.com/a37b4dffd41e4f0aa89ed41ee05e4185) by Paul Walsh in [Associated Press News](https://apnews.com/) on 5 November 2017 about [Got a Broken Heart Again (song)](../../topics/song/got-a-broken-heart-again/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Michael Kirk](../../topics/michael-kirk/index.md), [Owen Husney](../../topics/owen-husney/index.md), [Rave Un2 the Joy Fantastic (album)](../../topics/album/rave-un2-the-joy-fantastic/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/a37b4dffd41e4f0aa89ed41ee05e4185))
+ - [**"Auction offers never-released Prince recordings, guitar, ex’s wedding dress"**](https://apnews.com/a37b4dffd41e4f0aa89ed41ee05e4185) by Paul Walsh in [Associated Press News](https://apnews.com/) on 5 November 2017 about [auction](../../topics/auction/index.md), [Got a Broken Heart Again (song)](../../topics/song/got-a-broken-heart-again/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Michael Kirk](../../topics/michael-kirk/index.md), [Owen Husney](../../topics/owen-husney/index.md), [Rave Un2 the Joy Fantastic (album)](../../topics/album/rave-un2-the-joy-fantastic/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/a37b4dffd41e4f0aa89ed41ee05e4185))
 
 ----
 
@@ -24,7 +24,7 @@
 
 ----
 
- - [**"Auction offers never-released Prince recordings, guitar, ex's wedding dress -- Never-released recordings, her engagement ring and wedding ring among the items, as well as a guitar Prince used early in his career."**](http://www.startribune.com/prince-s-ex-wife-first-manager-putting-prized-memorabilia-up-for-auction/371654961/) by Paul Walsh in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 March 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-ex-wife-first-manager-putting-prized-memorabilia-up-for-auction/371654961/))
+ - [**"Auction offers never-released Prince recordings, guitar, ex's wedding dress -- Never-released recordings, her engagement ring and wedding ring among the items, as well as a guitar Prince used early in his career."**](http://www.startribune.com/prince-s-ex-wife-first-manager-putting-prized-memorabilia-up-for-auction/371654961/) by Paul Walsh in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 March 2016 about [auction](../../topics/auction/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-ex-wife-first-manager-putting-prized-memorabilia-up-for-auction/371654961/))
 
 ----
 

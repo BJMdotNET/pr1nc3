@@ -15,7 +15,7 @@
       [October](./kevin-eide-2016-10.md) (3) | 
       [September](./kevin-eide-2016-09.md) (1) | 
       [August](./kevin-eide-2016-08.md) (1) | 
-      [July](./kevin-eide-2016-07.md) (2) | 
+      [July](./kevin-eide-2016-07.md) (3) | 
       [June](./kevin-eide-2016-06.md) (5) | 
       [May](./kevin-eide-2016-05.md) (2) | 
       [April](./kevin-eide-2016-04.md) (1) | 

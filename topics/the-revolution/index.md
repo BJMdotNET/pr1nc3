@@ -23,6 +23,7 @@
       [September](./the-revolution-2016-09.md) (1) | 
       [August](./the-revolution-2016-08.md) (1) | 
       [July](./the-revolution-2016-07.md) (2) | 
+      [June](./the-revolution-2016-06.md) (1) | 
       [April](./the-revolution-2016-04.md) (4) | 
   * 2013: 
       [March](./the-revolution-2013-03.md) (1) | 

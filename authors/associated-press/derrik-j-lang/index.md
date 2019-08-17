@@ -4,7 +4,7 @@
 
 ----
 
- - [**"Prince guitar to be auctioned in Beverly Hills"**](http://www.startribune.com/prince-guitar-to-be-auctioned-in-beverly-hills/379533661/) by Derrik J. Lang (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 14 May 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-guitar-to-be-auctioned-in-beverly-hills/379533661/))
+ - [**"Prince guitar to be auctioned in Beverly Hills"**](http://www.startribune.com/prince-guitar-to-be-auctioned-in-beverly-hills/379533661/) by Derrik J. Lang (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 14 May 2016 about [auction](../../../topics/auction/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-guitar-to-be-auctioned-in-beverly-hills/379533661/))
 
 ----
 

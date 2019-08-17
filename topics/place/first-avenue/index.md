@@ -21,7 +21,7 @@
       [November](./first-avenue-place-2016-11.md) (1) | 
       [September](./first-avenue-place-2016-09.md) (1) | 
       [July](./first-avenue-place-2016-07.md) (2) | 
-      [June](./first-avenue-place-2016-06.md) (1) | 
+      [June](./first-avenue-place-2016-06.md) (2) | 
       [April](./first-avenue-place-2016-04.md) (7) | 
   * 2015: 
       [April](./first-avenue-place-2015-04.md) (1) | 

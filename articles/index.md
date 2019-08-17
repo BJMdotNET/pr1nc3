@@ -58,6 +58,7 @@
   * [Pitchfork](./pitchfork/) (2)
   * [PopMatters](./popmatters/) (1)
   * [PR Newswire](./pr-newswire/) (13)
+  * [Premier Guitar](./premier-guitar/) (1)
   * [ProSound](./prosound/) (2)
   * [RadioFacts](./radiofacts/) (1)
   * [Reading Eagle](./reading-eagle/) (1)
