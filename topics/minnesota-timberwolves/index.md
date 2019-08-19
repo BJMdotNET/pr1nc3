@@ -8,6 +8,10 @@
 
 ----
 
+ - [**"Wolves unveil Prince tribute uniforms at Paisley Park -- The Wolves will wear the Prince uniforms eight times this year, including five times at home, and they go on sale to the public next week."**](http://video.startribune.com/wolves-unveil-prince-tribute-uniforms-at-paisley-park/499324871/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 2 November 2018 about [Minnesota Timberwolves](../../topics/minnesota-timberwolves/index.md), [Timberwolves](../../topics/timberwolves/index.md) ([mirror](https://web.archive.org/web/*/http://video.startribune.com/wolves-unveil-prince-tribute-uniforms-at-paisley-park/499324871/))
+
+----
+
  - [**"Minnesota Timberwolves unveil Prince-inspired uniform"**](https://apnews.com/6dfaaf1b249646a3852f2e00d9626255) in [Associated Press News](https://apnews.com/) on 1 November 2018 about [Minnesota Timberwolves](../../topics/minnesota-timberwolves/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Timberwolves](../../topics/timberwolves/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/6dfaaf1b249646a3852f2e00d9626255))
 
 ----

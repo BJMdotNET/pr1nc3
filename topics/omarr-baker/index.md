@@ -1,6 +1,7 @@
 # Omarr Baker
 
   * 2018: 
+      [November](./omarr-baker-2018-11.md) (1) | 
       [October](./omarr-baker-2018-10.md) (2) | 
       [September](./omarr-baker-2018-09.md) (1) | 
       [May](./omarr-baker-2018-05.md) (1) | 

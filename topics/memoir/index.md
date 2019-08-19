@@ -9,7 +9,7 @@
       [March](./memoir-2017-03.md) (1) | 
   * 2016: 
       [September](./memoir-2016-09.md) (1) | 
-      [April](./memoir-2016-04.md) (4) | 
+      [April](./memoir-2016-04.md) (5) | 
       [March](./memoir-2016-03.md) (4) | 
 
 ----
