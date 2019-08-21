@@ -7,6 +7,7 @@
       [April](./the-revolution-2019-04.md) (1) | 
   * 2018: 
       [December](./the-revolution-2018-12.md) (1) | 
+      [October](./the-revolution-2018-10.md) (1) | 
       [September](./the-revolution-2018-09.md) (4) | 
       [June](./the-revolution-2018-06.md) (1) | 
       [March](./the-revolution-2018-03.md) (2) | 

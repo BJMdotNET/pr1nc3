@@ -2,7 +2,7 @@
 
   * [December](./2018-12.md) (14)
   * [November](./2018-11.md) (13)
-  * [October](./2018-10.md) (14)
+  * [October](./2018-10.md) (18)
   * [September](./2018-09.md) (27)
   * [August](./2018-08.md) (6)
   * [July](./2018-07.md) (7)

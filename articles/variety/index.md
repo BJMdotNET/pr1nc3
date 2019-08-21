@@ -7,6 +7,7 @@
       [April](./variety-2019-04.md) (3) | 
   * 2018: 
       [December](./variety-2018-12.md) (1) | 
+      [October](./variety-2018-10.md) (1) | 
       [September](./variety-2018-09.md) (1) | 
       [August](./variety-2018-08.md) (1) | 
   * 2017: 

@@ -10,7 +10,7 @@
   * 2018: 
       [December](./prince-estate-2018-12.md) (1) | 
       [November](./prince-estate-2018-11.md) (4) | 
-      [October](./prince-estate-2018-10.md) (3) | 
+      [October](./prince-estate-2018-10.md) (5) | 
       [September](./prince-estate-2018-09.md) (2) | 
       [August](./prince-estate-2018-08.md) (3) | 
       [July](./prince-estate-2018-07.md) (1) | 

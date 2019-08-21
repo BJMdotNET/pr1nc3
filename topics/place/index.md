@@ -6,7 +6,7 @@
   * [Capri Theatre (place)](./place/capri-theatre/) (1)
   * [Dakota (place)](./place/dakota/) (7)
   * [Electric Fetus (place)](./place/electric-fetus/) (3)
-  * [First Avenue (place)](./place/first-avenue/) (46)
+  * [First Avenue (place)](./place/first-avenue/) (47)
   * [Galpin Blvd. (place)](./place/galpin-blvd/) (1)
   * [Galpin Boulevard (place)](./place/galpin-boulevard/) (1)
   * [Glam Slam (place)](./place/glam-slam/) (2)

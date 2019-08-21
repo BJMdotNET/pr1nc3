@@ -2,6 +2,8 @@
 
   * 2019: 
       [August](./the-guardian-2019-08.md) (1) | 
+  * 2018: 
+      [October](./the-guardian-2018-10.md) (1) | 
   * 2016: 
       [April](./the-guardian-2016-04.md) (1) | 
 
