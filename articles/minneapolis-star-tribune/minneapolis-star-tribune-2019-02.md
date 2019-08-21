@@ -12,7 +12,7 @@
 
 ----
 
- - [**"Sheila E. to perform at Timberwolves halftime Feb. 13"**](http://www.startribune.com/sheila-e-to-perform-at-timberwolves-halftime-feb-13/505512282/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 7 February 2019 about [Sheila E.](../../topics/sheila-e/index.md), [Timberwolves](../../topics/timberwolves/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/sheila-e-to-perform-at-timberwolves-halftime-feb-13/505512282/))
+ - [**"Sheila E. to perform at Timberwolves halftime Feb. 13"**](http://www.startribune.com/sheila-e-to-perform-at-timberwolves-halftime-feb-13/505512282/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 7 February 2019 about [Minnesota Timberwolves](../../topics/minnesota-timberwolves/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Timberwolves](../../topics/timberwolves/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/sheila-e-to-perform-at-timberwolves-halftime-feb-13/505512282/))
 
 ----
 

@@ -26,7 +26,7 @@
   * [I Would Die 4 U (song)](./song/i-would-die-4-u/) (9)
   * [Jungle Love (song)](./song/jungle-love/) (7)
   * [Katrina’s Paper Dolls (song)](./song/katrina-s-paper-dolls/) (2)
-  * [Let’s Go Crazy (song)](./song/let-s-go-crazy/) (18)
+  * [Let’s Go Crazy (song)](./song/let-s-go-crazy/) (19)
   * [Letitgo (song)](./song/letitgo/) (1)
   * [Little Red Corvette (song)](./song/little-red-corvette/) (12)
   * [Love and Sex (song)](./song/love-and-sex/) (2)

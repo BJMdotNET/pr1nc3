@@ -1,6 +1,6 @@
 # Let’s Go Crazy (song): October 2018
 
- - [**"Expect Prince-themed Wolves jerseys to be unveiled Thursday at Paisley Park -- A partial look at the new uniform — which honor the Minnesota music legend who died in 2016 — was leaked on social media last week."**](http://www.startribune.com/expect-prince-themed-wolves-jerseys-to-be-unveiled-thursday-at-paisley-park/499015121/) by Michael Rand in [Minneapolis Star Tribune](http://www.startribune.com/) on 30 October 2018 about [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Timberwolves](../../../topics/timberwolves/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/expect-prince-themed-wolves-jerseys-to-be-unveiled-thursday-at-paisley-park/499015121/))
+ - [**"Expect Prince-themed Wolves jerseys to be unveiled Thursday at Paisley Park -- A partial look at the new uniform — which honor the Minnesota music legend who died in 2016 — was leaked on social media last week."**](http://www.startribune.com/expect-prince-themed-wolves-jerseys-to-be-unveiled-thursday-at-paisley-park/499015121/) by Michael Rand in [Minneapolis Star Tribune](http://www.startribune.com/) on 30 October 2018 about [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Minnesota Timberwolves](../../../topics/minnesota-timberwolves/index.md), [Timberwolves](../../../topics/timberwolves/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/expect-prince-themed-wolves-jerseys-to-be-unveiled-thursday-at-paisley-park/499015121/))
 
 ----
 

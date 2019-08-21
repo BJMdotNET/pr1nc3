@@ -11,6 +11,7 @@
   * 2016: 
       [November](./let-s-go-crazy-song-2016-11.md) (1) | 
       [August](./let-s-go-crazy-song-2016-08.md) (1) | 
+      [July](./let-s-go-crazy-song-2016-07.md) (1) | 
       [April](./let-s-go-crazy-song-2016-04.md) (3) | 
   * 2013: 
       [March](./let-s-go-crazy-song-2013-03.md) (1) | 

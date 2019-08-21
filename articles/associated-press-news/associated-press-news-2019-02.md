@@ -8,7 +8,7 @@
 
 ----
 
- - [**"AM Prep-Music -- SHEILA E. WILL PERFORM AT TIMBERWOLVES GAME"**](https://apnews.com/8101441d66a44dd9a5831ab40423f32c) in [Associated Press News](https://apnews.com/) on 8 February 2019 about [Celebration](../../topics/celebration/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Timberwolves](../../topics/timberwolves/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/8101441d66a44dd9a5831ab40423f32c))
+ - [**"AM Prep-Music -- SHEILA E. WILL PERFORM AT TIMBERWOLVES GAME"**](https://apnews.com/8101441d66a44dd9a5831ab40423f32c) in [Associated Press News](https://apnews.com/) on 8 February 2019 about [Celebration](../../topics/celebration/index.md), [Minnesota Timberwolves](../../topics/minnesota-timberwolves/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Timberwolves](../../topics/timberwolves/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/8101441d66a44dd9a5831ab40423f32c))
 
 ----
 
