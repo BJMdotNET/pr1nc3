@@ -1,7 +1,7 @@
 # New Power Generation
 
   * 2019: 
-      [August](./new-power-generation-2019-08.md) (1) | 
+      [August](./new-power-generation-2019-08.md) (2) | 
       [July](./new-power-generation-2019-07.md) (2) | 
       [June](./new-power-generation-2019-06.md) (1) | 
       [April](./new-power-generation-2019-04.md) (1) | 

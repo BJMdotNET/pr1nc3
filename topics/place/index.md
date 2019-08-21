@@ -13,6 +13,7 @@
   * [Lake Minnetonka (place)](./place/lake-minnetonka/) (2)
   * [London (place)](./place/london/) (8)
   * [Mann’s Chinese Theatre (place)](./place/mann-s-chinese-theatre/) (1)
+  * [Minneapolis-St. Paul International Airport (place)](./place/minneapolis-st-paul-international-airport/) (2)
   * [Moline, Illinois (place)](./place/moline-illinois/) (15)
   * [Moon Sound Studio (place)](./place/moon-sound-studio/) (1)
   * [North Memorial Medical Center (place)](./place/north-memorial-medical-center/) (4)

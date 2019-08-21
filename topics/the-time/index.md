@@ -16,6 +16,8 @@
       [April](./the-time-2016-04.md) (3) | 
   * 2014: 
       [July](./the-time-2014-07.md) (1) | 
+  * 2012: 
+      [June](./the-time-2012-06.md) (1) | 
   * 1986: 
       [June](./the-time-1986-06.md) (1) | 
 
