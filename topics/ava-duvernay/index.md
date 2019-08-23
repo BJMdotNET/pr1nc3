@@ -1,5 +1,9 @@
 # Ava DuVernay
 
+ - [**"Ava DuVernay quits as director of Netflix's authorized Prince documentary"**](http://www.startribune.com/ava-duvernay-quits-as-director-of-netflix-s-authorized-prince-documentary/557885482/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 August 2019 about [Ava DuVernay](../../topics/ava-duvernay/index.md), [Netflix](../../topics/netflix/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/ava-duvernay-quits-as-director-of-netflix-s-authorized-prince-documentary/557885482/))
+
+----
+
  - [**"Ava DuVernay looks for joy in every project. She even found it in ‘When They See Us’"**](https://www.latimes.com/entertainment-arts/awards/story/2019-08-16/ava-duvernay-when-they-see-us-exonerated-five-emmys) in [Los Angeles Times](https://www.latimes.com/) on 19 August 2019 about [Ava DuVernay](../../topics/ava-duvernay/index.md), [Netflix](../../topics/netflix/index.md) ([mirror](https://web.archive.org/web/*/https://www.latimes.com/entertainment-arts/awards/story/2019-08-16/ava-duvernay-when-they-see-us-exonerated-five-emmys))
 
 ----

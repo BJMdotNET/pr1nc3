@@ -1,5 +1,9 @@
 # The Black Album (album)
 
+ - [**"Nine artists who hated their own albums"**](http://www.bbc.com/culture/story/20190819-nine-artists-who-hated-their-own-albums) in [BBC - Culture](http://www.bbc.com/culture/) on 19 August 2019 about [The Black Album (album)](../../../topics/album/the-black-album/index.md) ([mirror](https://web.archive.org/web/*/http://www.bbc.com/culture/story/20190819-nine-artists-who-hated-their-own-albums))
+
+----
+
  - [**"Prince Originals: exclusive interview with muse and collaborator Susannah Melvoin -- As Prince rarities finally become available on the Originals album, we speak to the woman who inspired Nothing Compares 2 U."**](https://www.officialcharts.com/chart-news/prince-originals-exclusive-interview-with-muse-and-collaborator-susannah-melvoin__26670/) by Martin Talbot in [Official Charts](https://www.officialcharts.com/) on 24 June 2019 about [Crystal Ball (album)](../../../topics/album/crystal-ball/index.md), [Cynthia Rose](../../../topics/cynthia-rose/index.md), [David Geffen](../../../topics/david-geffen/index.md), [Dream Factory (album)](../../../topics/album/dream-factory/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Quincy Jones](../../../topics/quincy-jones/index.md), [Sunset Sound (place)](../../../topics/place/sunset-sound/index.md), [Susannah Melvoin](../../../topics/susannah-melvoin/index.md), [The Black Album (album)](../../../topics/album/the-black-album/index.md), [The Family](../../../topics/the-family/index.md), [Wally (song)](../../../topics/song/wally/index.md) ([mirror](https://web.archive.org/web/*/https://www.officialcharts.com/chart-news/prince-originals-exclusive-interview-with-muse-and-collaborator-susannah-melvoin__26670/))
 
 ----

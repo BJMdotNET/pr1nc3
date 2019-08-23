@@ -22,7 +22,7 @@
   * [Rave In2 the Joy Fantastic (album)](./album/rave-in2-the-joy-fantastic/) (5)
   * [Rave Un2 the Joy Fantastic (album)](./album/rave-un2-the-joy-fantastic/) (6)
   * [Sign O' The Times (album)](./album/sign-o-the-times/) (1)
-  * [The Black Album (album)](./album/the-black-album/) (2)
+  * [The Black Album (album)](./album/the-black-album/) (3)
   * [The Glamorous Life (album)](./album/the-glamorous-life/) (1)
   * [The Gold Experience (album)](./album/the-gold-experience/) (6)
   * [The Red Shoes (album)](./album/the-red-shoes/) (2)
