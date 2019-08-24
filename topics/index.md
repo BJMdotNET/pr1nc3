@@ -142,7 +142,7 @@
      * [I Would Die 4 U (song)](./song/i-would-die-4-u/) (9)
      * [Jungle Love (song)](./song/jungle-love/) (7)
      * [Katrina’s Paper Dolls (song)](./song/katrina-s-paper-dolls/) (2)
-     * [Let’s Go Crazy (song)](./song/let-s-go-crazy/) (19)
+     * [Let’s Go Crazy (song)](./song/let-s-go-crazy/) (25)
      * [Letitgo (song)](./song/letitgo/) (1)
      * [Little Red Corvette (song)](./song/little-red-corvette/) (12)
      * [Love and Sex (song)](./song/love-and-sex/) (2)
@@ -216,6 +216,7 @@
 
 ----
 
+  * ["Weird Al" Yankovic](./-weird-al-yankovic/) (1)
   * [3rdEyeGirl](./3rdeyegirl/) (17)
   * [Academy Award](./academy-award/) (8)
   * [Adrian Sibley](./adrian-sibley/) (1)
@@ -282,7 +283,7 @@
   * [Chanhassen Dinner Theatres](./chanhassen-dinner-theatres/) (2)
   * [Channel 4](./channel-4/) (1)
   * [Charles Koppelman](./charles-koppelman/) (14)
-  * [Charlie Murphy](./charlie-murphy/) (2)
+  * [Charlie Murphy](./charlie-murphy/) (3)
   * [Charlie Rose](./charlie-rose/) (2)
   * [Chris Coleman](./chris-coleman/) (4)
   * [Chris Jackson](./chris-jackson/) (1)
@@ -298,7 +299,7 @@
   * [Dan Piepenbring](./dan-piepenbring/) (3)
   * [Dan Rather](./dan-rather/) (1)
   * [Daphne A. Brooks](./daphne-a-brooks/) (1)
-  * [Dave Chappelle](./dave-chappelle/) (3)
+  * [Dave Chappelle](./dave-chappelle/) (4)
   * [Dave Jensen](./dave-jensen/) (1)
   * [David Brewster](./david-brewster/) (1)
   * [David Geffen](./david-geffen/) (1)
@@ -578,6 +579,7 @@
   * [Warner/Chappell Music](./warner-chappell-music/) (1)
   * [WCCO-TV](./wcco-tv/) (2)
   * [Weezer](./weezer/) (2)
+  * [Weird Al Yankovic](./weird-al-yankovic/) (6)
   * [Wendy Melvoin](./wendy-melvoin/) (23)
   * [William Blinn](./william-blinn/) (3)
   * [Yara Shahidi](./yara-shahidi/) (1)

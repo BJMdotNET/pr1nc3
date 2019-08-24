@@ -4,6 +4,14 @@
 
 ----
 
+ - [**"No, seriously: Weird Al and his fans explain why he's so big at the Minnesota State Fair -- Weird Al Yankovic is headed to the Minnesota State Fair's grandstand. We talked to fans of the clever parodist. "**](http://www.startribune.com/no-seriously-weird-al-and-his-fans-explain-why-he-s-so-big-at-the-minnesota-state-fair/557878752/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 August 2019 about [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Weird Al Yankovic](../../topics/weird-al-yankovic/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/no-seriously-weird-al-and-his-fans-explain-why-he-s-so-big-at-the-minnesota-state-fair/557878752/))
+
+----
+
+ - [**"Why Weird Al Yankovic never parodied Prince"**](http://www.startribune.com/why-weird-al-yankovic-never-parodied-prince/557878822/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 August 2019 about [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Weird Al Yankovic](../../topics/weird-al-yankovic/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/why-weird-al-yankovic-never-parodied-prince/557878822/))
+
+----
+
  - [**"Prince store at MSP gives travelers a glimpse at superstar's Minnesota life -- Terminal shop organized around parts of Minnesota musician's life to lure fans."**](http://www.startribune.com/prince-store-at-msp-gives-travelers-a-glimpse-at-superstar-s-minnesota-life/556690022/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 August 2019 about [Bravado](../../topics/bravado/index.md), [DJ Dudley D](../../topics/dj-dudley-d/index.md), [merchandise](../../topics/merchandise/index.md), [Minneapolis-St. Paul International Airport (place)](../../topics/place/minneapolis-st-paul-international-airport/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-store-at-msp-gives-travelers-a-glimpse-at-superstar-s-minnesota-life/556690022/))
 
 ----
