@@ -20,11 +20,19 @@
 
 ----
 
+ - [**"Stone Rolling: Raphael Saadiq Interviewed -- Despite a masterful solo career and being the producer behind some of the best D’Angelo and Solange Knowles songs, many still don’t know who Raphael Saadiq is, says Thomas Hobbs, who interviewed him recently"**](https://thequietus.com/articles/22052-raphael-saadiq-interview-solange-prince) in [The Quietus](https://thequietus.com/) on 22 March 2017 about [ Raphael Saadiq](../../../topics/-raphael-saadiq/index.md), [D’Angelo](../../../topics/d-angelo/index.md), [Erotic City (song)](../../../topics/song/erotic-city/index.md) ([mirror](https://web.archive.org/web/*/https://thequietus.com/articles/22052-raphael-saadiq-interview-solange-prince))
+
+----
+
  - [**"Spike Lee throws dance party ahead of Prince’s 58th birthday"**](https://apnews.com/780ae6981b534a27be2f65bf10470f6e) in [Associated Press News](https://apnews.com/) on 5 June 2016 about [Celebration](../../../topics/celebration/index.md), [Erotic City (song)](../../../topics/song/erotic-city/index.md), [fentanyl](../../../topics/fentanyl/index.md), [Spike Lee](../../../topics/spike-lee/index.md), [Starfish And Coffee (song)](../../../topics/song/starfish-and-coffee/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/780ae6981b534a27be2f65bf10470f6e))
 
 ----
 
  - [**"Prince offered a ticket to a forbidden world in his music"**](https://apnews.com/6c306c0a54cf48eea82ce15e437829fa) in [Associated Press News](https://apnews.com/) on 22 April 2016 about [Alan Light](../../../topics/alan-light/index.md), [Darling Nikki (song)](../../../topics/song/darling-nikki/index.md), [Do It All Night (song)](../../../topics/song/do-it-all-night/index.md), [Erotic City (song)](../../../topics/song/erotic-city/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/6c306c0a54cf48eea82ce15e437829fa))
+
+----
+
+ - [**"One step back, two steps forward -- Many an artist owes their career to Raphael Saadiq's pioneering work, but now he wants urban music to embrace its heritage, as rock'n'roll so often does. Angus Batey meets him"**](https://www.theguardian.com/music/2009/apr/24/raphael-saadiq-interview) in [The Guardian](https://www.theguardian.com/) on 24 April 2009 about [ Raphael Saadiq](../../../topics/-raphael-saadiq/index.md), [Erotic City (song)](../../../topics/song/erotic-city/index.md) ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/music/2009/apr/24/raphael-saadiq-interview))
 
 ----
 

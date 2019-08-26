@@ -3,6 +3,7 @@
   * 2019: 
       [July](./museum-2019-07.md) (1) | 
       [May](./museum-2019-05.md) (1) | 
+      [April](./museum-2019-04.md) (1) | 
       [March](./museum-2019-03.md) (1) | 
   * 2018: 
       [September](./museum-2018-09.md) (1) | 

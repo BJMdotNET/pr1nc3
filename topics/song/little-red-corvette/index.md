@@ -9,7 +9,7 @@
   * 2016: 
       [November](./little-red-corvette-song-2016-11.md) (1) | 
       [September](./little-red-corvette-song-2016-09.md) (1) | 
-      [April](./little-red-corvette-song-2016-04.md) (5) | 
+      [April](./little-red-corvette-song-2016-04.md) (6) | 
   * 2014: 
       [July](./little-red-corvette-song-2014-07.md) (1) | 
   * 2013: 

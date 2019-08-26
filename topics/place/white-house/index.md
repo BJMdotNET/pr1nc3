@@ -1,5 +1,9 @@
 # White House (place)
 
+ - [**"Sheila E. turns trauma into 'glorious' triumph"**](https://usatoday.com/story/life/2019/08/24/sheila-e-glorious-life/2101411001/) in [USA Today](https://usatoday.com/) on 24 August 2019 about [memoir](../../../topics/memoir/index.md), [Obama](../../../topics/obama/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [The Glamorous Life (album)](../../../topics/album/the-glamorous-life/index.md), [The Glamorous Life (song)](../../../topics/song/the-glamorous-life/index.md), [White House (place)](../../../topics/place/white-house/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/2019/08/24/sheila-e-glorious-life/2101411001/))
+
+----
+
  - [**"Prince estate tells Donald Trump to stop playing ‘Purple Rain’ at campaign rallies"**](https://apnews.com/c4bbf717114ff1f40a142ae260f5afd1) by Andrew Blake (The Washington Times) in [Associated Press News](https://apnews.com/) on 13 October 2018 about [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Omarr Baker](../../../topics/omarr-baker/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [The Prince Estate](../../../topics/the-prince-estate/index.md), [White House (place)](../../../topics/place/white-house/index.md), [YouTube](../../../topics/youtube/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/c4bbf717114ff1f40a142ae260f5afd1))
 
 ----

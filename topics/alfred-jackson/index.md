@@ -1,5 +1,7 @@
 # Alfred Jackson
 
+  * 2019: 
+      [April](./alfred-jackson-2019-04.md) (1) | 
   * 2018: 
       [May](./alfred-jackson-2018-05.md) (1) | 
       [April](./alfred-jackson-2018-04.md) (1) | 

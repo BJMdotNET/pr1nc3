@@ -8,6 +8,10 @@
 
 ----
 
+ - [**"Sheila E. reflects on losing Prince, jamming with Ringo and how Trump inspired 'Iconic'"**](https://usatoday.com/story/entertainment/music/2018/01/11/sheila-e-interview-prince-ringo-starr-donald-trump-iconic/1022142001/) in [USA Today](https://usatoday.com/) on 18 January 2018 about [Candy Dulfer](../../topics/candy-dulfer/index.md), [George Clinton](../../topics/george-clinton/index.md), [Oliver’s House (song)](../../topics/song/oliver-s-house/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [The Belle of St. Mark (song)](../../topics/song/the-belle-of-st-mark/index.md), [The Glamorous Life (album)](../../topics/album/the-glamorous-life/index.md), [The Glamorous Life (song)](../../topics/song/the-glamorous-life/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/entertainment/music/2018/01/11/sheila-e-interview-prince-ringo-starr-donald-trump-iconic/1022142001/))
+
+----
+
  - [**"‘Prince’s Last Year’ Will Explore the Music Icon’s Final Twelve Months"**](https://variety.com/2017/tv/news/princes-last-year-documentary-1202626889/) in [Variety](https://variety.com/) on 30 November 2017 about [Adrian Sibley](../../topics/adrian-sibley/index.md), [Andy Allo](../../topics/andy-allo/index.md), [CeeLo Green](../../topics/ceelo-green/index.md), [Channel 4](../../topics/channel-4/index.md), [Dan Goldsack](../../topics/dan-goldsack/index.md), [Eryn Allen Kane](../../topics/eryn-allen-kane/index.md), [George Clinton](../../topics/george-clinton/index.md), [Kate Bush](../../topics/kate-bush/index.md), [Lincoln Square Prods.](../../topics/lincoln-square-prods/index.md), [Michael Kirk](../../topics/michael-kirk/index.md), [Prince: R U Listening? (documentary)](../../topics/documentary/prince-r-u-listening/index.md), [Prince’s Last Year (documentary)](../../topics/documentary/prince-s-last-year/index.md), [Sheldon Lazarus](../../topics/sheldon-lazarus/index.md), [Van Jones](../../topics/van-jones/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2017/tv/news/princes-last-year-documentary-1202626889/))
 
 ----

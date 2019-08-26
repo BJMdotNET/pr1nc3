@@ -2,12 +2,12 @@
 
   * 2019: 
       [July](./fentanyl-2019-07.md) (1) | 
-      [April](./fentanyl-2019-04.md) (1) | 
+      [April](./fentanyl-2019-04.md) (2) | 
       [February](./fentanyl-2019-02.md) (2) | 
   * 2018: 
       [September](./fentanyl-2018-09.md) (1) | 
-      [April](./fentanyl-2018-04.md) (12) | 
-      [March](./fentanyl-2018-03.md) (5) | 
+      [April](./fentanyl-2018-04.md) (13) | 
+      [March](./fentanyl-2018-03.md) (6) | 
   * 2017: 
       [November](./fentanyl-2017-11.md) (1) | 
       [June](./fentanyl-2017-06.md) (1) | 

@@ -4,6 +4,7 @@
       [July](./stevie-wonder-2019-07.md) (1) | 
   * 2018: 
       [August](./stevie-wonder-2018-08.md) (1) | 
+      [January](./stevie-wonder-2018-01.md) (1) | 
   * 2017: 
       [April](./stevie-wonder-2017-04.md) (1) | 
   * 2016: 

@@ -5,7 +5,7 @@
       [July](./the-prince-estate-2019-07.md) (2) | 
       [June](./the-prince-estate-2019-06.md) (4) | 
       [May](./the-prince-estate-2019-05.md) (1) | 
-      [April](./the-prince-estate-2019-04.md) (3) | 
+      [April](./the-prince-estate-2019-04.md) (5) | 
       [February](./the-prince-estate-2019-02.md) (2) | 
   * 2018: 
       [December](./the-prince-estate-2018-12.md) (1) | 

@@ -1,5 +1,7 @@
 # Norrine Nelson
 
+  * 2019: 
+      [April](./norrine-nelson-2019-04.md) (1) | 
   * 2018: 
       [May](./norrine-nelson-2018-05.md) (1) | 
   * 2017: 

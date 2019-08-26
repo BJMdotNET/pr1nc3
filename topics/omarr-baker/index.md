@@ -1,5 +1,7 @@
 # Omarr Baker
 
+  * 2019: 
+      [April](./omarr-baker-2019-04.md) (1) | 
   * 2018: 
       [November](./omarr-baker-2018-11.md) (1) | 
       [October](./omarr-baker-2018-10.md) (2) | 

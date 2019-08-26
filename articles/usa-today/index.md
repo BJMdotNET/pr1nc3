@@ -1,13 +1,25 @@
 # USA Today
 
   * 2019: 
+      [August](./usa-today-2019-08.md) (1) | 
       [July](./usa-today-2019-07.md) (1) | 
       [June](./usa-today-2019-06.md) (1) | 
+      [April](./usa-today-2019-04.md) (2) | 
   * 2018: 
       [December](./usa-today-2018-12.md) (1) | 
       [September](./usa-today-2018-09.md) (1) | 
+      [April](./usa-today-2018-04.md) (1) | 
+      [March](./usa-today-2018-03.md) (1) | 
+      [February](./usa-today-2018-02.md) (1) | 
+      [January](./usa-today-2018-01.md) (1) | 
+  * 2017: 
+      [July](./usa-today-2017-07.md) (1) | 
   * 2016: 
-      [April](./usa-today-2016-04.md) (2) | 
+      [June](./usa-today-2016-06.md) (1) | 
+      [May](./usa-today-2016-05.md) (2) | 
+      [April](./usa-today-2016-04.md) (3) | 
+  * 2015: 
+      [March](./usa-today-2015-03.md) (1) | 
 
 ----
 

@@ -1,0 +1,7 @@
+# Sheila E.: August 2019
+
+ - [**"Sheila E. turns trauma into 'glorious' triumph"**](https://usatoday.com/story/life/2019/08/24/sheila-e-glorious-life/2101411001/) in [USA Today](https://usatoday.com/) on 24 August 2019 about [memoir](../../topics/memoir/index.md), [Obama](../../topics/obama/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Glamorous Life (album)](../../topics/album/the-glamorous-life/index.md), [The Glamorous Life (song)](../../topics/song/the-glamorous-life/index.md), [White House (place)](../../topics/place/white-house/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/2019/08/24/sheila-e-glorious-life/2101411001/))
+
+----
+
+[Home](./)

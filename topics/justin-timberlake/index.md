@@ -1,5 +1,9 @@
 # Justin Timberlake
 
+ - [**"Prince drummer: No halftime show Prince hologram"**](https://usatoday.com/story/sports/ftw/2018/02/04/prince-drummer-justin-timberlake-told-me-there-will-be-no-hologram-of-prince-at-super-bowl-halftime/110106588/) in [USA Today](https://usatoday.com/) on 4 February 2018 about [Justin Timberlake](../../topics/justin-timberlake/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Super Bowl](../../topics/super-bowl/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/sports/ftw/2018/02/04/prince-drummer-justin-timberlake-told-me-there-will-be-no-hologram-of-prince-at-super-bowl-halftime/110106588/))
+
+----
+
  - [**"Justin Timberlake previews Super Bowl halftime show: No Janet Jackson"**](https://apnews.com/7c4321049c904c9fa912ac8290000f23) in [Associated Press News](https://apnews.com/) on 2 February 2018 about [Janet Jackson](../../topics/janet-jackson/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [Super Bowl](../../topics/super-bowl/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/7c4321049c904c9fa912ac8290000f23))
 
 ----
@@ -9,6 +13,10 @@
 ----
 
  - [**"Justin Timberlake Super Bowl bash upsets some Prince fans"**](https://apnews.com/06f3c57285d142b4968a920090c3afe8) in [Associated Press News](https://apnews.com/) on 30 January 2018 about [Jeremiah Freed](../../topics/jeremiah-freed/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [Super Bowl](../../topics/super-bowl/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/06f3c57285d142b4968a920090c3afe8))
+
+----
+
+ - [**"Longtime Prince drummer John Blackwell Jr. dies at 43"**](https://usatoday.com/story/life/music/2017/07/04/longtime-prince-drummer-john-blackwell-jr-dies/103425914/) in [USA Today](https://usatoday.com/) on 5 July 2017 about [John Blackwell Jr.](../../topics/john-blackwell-jr/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [Morris Day](../../topics/morris-day/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Sheila E.](../../topics/sheila-e/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2017/07/04/longtime-prince-drummer-john-blackwell-jr-dies/103425914/))
 
 ----
 

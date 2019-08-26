@@ -2,6 +2,7 @@
 
   * 2019: 
       [July](./bremer-trust-2019-07.md) (1) | 
+      [April](./bremer-trust-2019-04.md) (1) | 
   * 2018: 
       [July](./bremer-trust-2018-07.md) (1) | 
   * 2017: 

@@ -28,6 +28,10 @@
 
 ----
 
+ - [**"'Stunned' celebrities react to Prince's death"**](https://usatoday.com/story/life/nation-now/2016/04/21/celebrities-react-princes-death/83341102/) in [USA Today](https://usatoday.com/) on 21 April 2016 about [Bangles](../../topics/bangles/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Obama](../../topics/obama/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Spike Lee](../../topics/spike-lee/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/nation-now/2016/04/21/celebrities-react-princes-death/83341102/))
+
+----
+
  - [**"What Prince Taught Me About Love. And Sex. And Time. -- Thirty-five years ago, I heard Prince's voice. Eighteen years later, I was in his presence."**](https://www.esquire.com/entertainment/music/a44221/prince-a-remembrance-dave-holmes/) in [Esquire](https://www.esquire.com/) on 21 April 2016 about [Baby I'm a Star (song)](../../topics/song/baby-i-m-a-star/index.md), [Batdance (song)](../../topics/song/batdance/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [George Clinton](../../topics/george-clinton/index.md), [I Would Die 4 U (song)](../../topics/song/i-would-die-4-u/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Morris Day](../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Vanity 6](../../topics/vanity-6/index.md), [YouTube](../../topics/youtube/index.md) ([mirror](https://web.archive.org/web/*/https://www.esquire.com/entertainment/music/a44221/prince-a-remembrance-dave-holmes/))
 
 ----

@@ -24,6 +24,10 @@
 
 ----
 
+ - [**"'BET Awards'' Prince tribute to feature Sheila E, The Roots"**](https://usatoday.com/story/life/tv/2016/06/07/bet-awards-prince-tribute-feature-sheila-e-roots/85563070/) in [USA Today](https://usatoday.com/) on 7 June 2016 about [BET Awards](../../topics/bet-awards/index.md), [Black-ish (TV show)](../../topics/tv-show/black-ish/index.md), [Janelle Monae](../../topics/janelle-monae/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Roots](../../topics/the-roots/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/tv/2016/06/07/bet-awards-prince-tribute-feature-sheila-e-roots/85563070/))
+
+----
+
  - [**"Prince returns for Essence’s 20th celebration"**](https://apnews.com/2816a54a81a54d278d43121785573047) in [Associated Press News](https://apnews.com/) on 5 July 2014 about [Janelle Monae](../../topics/janelle-monae/index.md), [Jungle Love (song)](../../topics/song/jungle-love/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Morris Day](../../topics/morris-day/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Time](../../topics/the-time/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/2816a54a81a54d278d43121785573047))
 
 ----
