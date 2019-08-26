@@ -16,6 +16,7 @@
       [September](./lisa-coleman-2016-09.md) (1) | 
       [July](./lisa-coleman-2016-07.md) (1) | 
       [April](./lisa-coleman-2016-04.md) (1) | 
+      [February](./lisa-coleman-2016-02.md) (1) | 
   * 1986: 
       [October](./lisa-coleman-1986-10.md) (1) | 
 

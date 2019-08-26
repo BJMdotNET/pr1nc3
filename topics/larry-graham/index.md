@@ -1,42 +1,17 @@
 # Larry Graham
 
- - [**"Coming soon from the Prince vault: A new album called ‘Originals’ -- Prince’s estate is announcing the collection of his performances of songs he wrote for others."**](http://www.startribune.com/coming-soon-from-the-prince-vault-a-new-album-called-originals/509009862/) by Chris Riemenschneider, Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 April 2019 about [Apple Music](../../topics/apple-music/index.md), [Bangles](../../topics/bangles/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Martika](../../topics/martika/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Netflix](../../topics/netflix/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../topics/album/originals/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Random House ](../../topics/random-house/index.md), [Rave In2 the Joy Fantastic (album)](../../topics/album/rave-in2-the-joy-fantastic/index.md), [Rave Un2 the Joy Fantastic (album)](../../topics/album/rave-un2-the-joy-fantastic/index.md), [Rave Un2 the Year 2000 (video)](../../topics/video/rave-un2-the-year-2000/index.md), [Sex Shooter (song)](../../topics/song/sex-shooter/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [The Family](../../topics/the-family/index.md), [The Glamorous Life (song)](../../topics/song/the-glamorous-life/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [The Time](../../topics/the-time/index.md), [Ultimate Rave (album)](../../topics/album/ultimate-rave/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/coming-soon-from-the-prince-vault-a-new-album-called-originals/509009862/))
-
-----
-
- - [**"The days the music died: A look at funerals of the greats"**](https://apnews.com/7d546ab5dbec4e5ba4ebd0eddd1064e8) in [Associated Press News](https://apnews.com/) on 29 August 2018 about [Graceland](../../topics/graceland/index.md), [James Brown](../../topics/james-brown/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [trademark](../../topics/trademark/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/7d546ab5dbec4e5ba4ebd0eddd1064e8))
-
-----
-
- - [**"Unfinished requiem: Enigmatic in life, Prince leaves mystery in death"**](https://apnews.com/48227e49f5384fe7b343b7ccdeb00e6f) in [Associated Press News](https://apnews.com/) on 22 April 2018 about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Owen Husney](../../topics/owen-husney/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/48227e49f5384fe7b343b7ccdeb00e6f))
-
-----
-
- - [**"10 curious things we learned about Prince from the investigations -- He liked Häagen-Dazs ice cream, 5-Hour Energy drinks and MAC beauty products."**](http://www.startribune.com/10-curious-things-we-learned-about-prince-from-the-investigations/480364723/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 April 2018 about [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [CeeLo Green](../../topics/ceelo-green/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Esperanza Spalding](../../topics/esperanza-spalding/index.md), [Janelle Monae](../../topics/janelle-monae/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Larry Graham](../../topics/larry-graham/index.md), [North Memorial Medical Center (place)](../../topics/place/north-memorial-medical-center/index.md), [Peter Vang](../../topics/peter-vang/index.md), [Phaedra Ellis Lamkin](../../topics/phaedra-ellis-lamkin/index.md), [Rita Ora](../../topics/rita-ora/index.md), [Sheila E.](../../topics/sheila-e/index.md), [U Got the Look (song)](../../topics/song/u-got-the-look/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/10-curious-things-we-learned-about-prince-from-the-investigations/480364723/))
-
-----
-
- - [**"Prince's death: Sinbad, Sheila E attend memorial service"**](https://usatoday.com/story/life/music/2016/05/15/princes-death-day-25--jehovahs-witness-memorial-guitar-auction/84412432/) in [USA Today](https://usatoday.com/) on 16 May 2016 about [auction](../../topics/auction/index.md), [Heritage Auctions](../../topics/heritage-auctions/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Meron Bekure](../../topics/meron-bekure/index.md), [Paisley Park Records](../../topics/paisley-park-records/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2016/05/15/princes-death-day-25--jehovahs-witness-memorial-guitar-auction/84412432/))
-
-----
-
- - [**"Bassist: Prince found ‘real happiness’ as Jehovah’s Witness"**](https://apnews.com/9d74a545f96f473fa81c37073329320a) in [Associated Press News](https://apnews.com/) on 3 May 2016 about [Larry Graham](../../topics/larry-graham/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/9d74a545f96f473fa81c37073329320a))
-
-----
-
- - [**"Latest: Publicist: SNL devotes show to Prince tribute"**](https://apnews.com/b57342f2b68447639ef7589c0caa9ee8) in [Associated Press News](https://apnews.com/) on 24 April 2016 about [3121 (album)](../../topics/album/3121/index.md), [Carver County](../../topics/carver-county/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Minnesota Historical Society](../../topics/minnesota-historical-society/index.md), [Minnesota History Center](../../topics/minnesota-history-center/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [Sheila E.](../../topics/sheila-e/index.md), [SNL (TV show)](../../topics/tv-show/snl/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/b57342f2b68447639ef7589c0caa9ee8))
-
-----
-
- - [**"Magic memories: Prince’s warmth and wit shone in private"**](https://apnews.com/cf2e87db1753473eb63165d807bd45c2) in [Associated Press News](https://apnews.com/) on 23 April 2016 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [James Brown](../../topics/james-brown/index.md), [Joshua Welton](../../topics/joshua-welton/index.md), [Larry Graham](../../topics/larry-graham/index.md), [memoir](../../topics/memoir/index.md), [NPG Records](../../topics/npg-records/index.md), [piracy](../../topics/piracy/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md), [YouTube](../../topics/youtube/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/cf2e87db1753473eb63165d807bd45c2))
-
-----
-
- - [**"Larry Graham to play Night 2 of Gala Event at Prince's Paisley Park"**](http://www.startribune.com/larry-graham-to-play-night-2-of-gala-event-at-prince-s-paisley-park/365992291/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 January 2016 about [Larry Graham](../../topics/larry-graham/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/larry-graham-to-play-night-2-of-gala-event-at-prince-s-paisley-park/365992291/))
-
-----
-
- - [**"Memorable moments from Paisley Park"**](https://apnews.com/d341d2b22be74bf7843f3c485d527b18) by Nekesa Mumbi Moody (Associated Press) in [Associated Press News](https://apnews.com/) on 29 September 2014 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Donna Grantis](../../topics/donna-grantis/index.md), [James Brown](../../topics/james-brown/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Rita Ora](../../topics/rita-ora/index.md), [YouTube](../../topics/youtube/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/d341d2b22be74bf7843f3c485d527b18))
+  * 2019: 
+      [April](./larry-graham-2019-04.md) (1) | 
+  * 2018: 
+      [August](./larry-graham-2018-08.md) (1) | 
+      [April](./larry-graham-2018-04.md) (2) | 
+  * 2016: 
+      [May](./larry-graham-2016-05.md) (2) | 
+      [April](./larry-graham-2016-04.md) (2) | 
+      [February](./larry-graham-2016-02.md) (1) | 
+      [January](./larry-graham-2016-01.md) (1) | 
+  * 2014: 
+      [September](./larry-graham-2014-09.md) (1) | 
 
 ----
 

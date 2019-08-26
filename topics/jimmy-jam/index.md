@@ -9,6 +9,8 @@
       [January](./jimmy-jam-2018-01.md) (2) | 
   * 2017: 
       [December](./jimmy-jam-2017-12.md) (1) | 
+  * 2016: 
+      [February](./jimmy-jam-2016-02.md) (1) | 
   * 2015: 
       [May](./jimmy-jam-2015-05.md) (1) | 
   * 2012: 

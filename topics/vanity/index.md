@@ -8,7 +8,7 @@
       [June](./vanity-2018-06.md) (1) | 
   * 2016: 
       [April](./vanity-2016-04.md) (1) | 
-      [February](./vanity-2016-02.md) (4) | 
+      [February](./vanity-2016-02.md) (5) | 
 
 ----
 

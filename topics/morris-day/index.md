@@ -20,6 +20,7 @@
       [July](./morris-day-2016-07.md) (1) | 
       [June](./morris-day-2016-06.md) (1) | 
       [April](./morris-day-2016-04.md) (5) | 
+      [February](./morris-day-2016-02.md) (1) | 
       [January](./morris-day-2016-01.md) (1) | 
   * 2014: 
       [July](./morris-day-2014-07.md) (2) | 

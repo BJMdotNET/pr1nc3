@@ -4,12 +4,12 @@
   * [3121 (album)](./album/3121/) (8)
   * [Around The World In A Day (album)](./album/around-the-world-in-a-day/) (5)
   * [Batman (album)](./album/batman/) (2)
-  * [Chaos and Disorder (album)](./album/chaos-and-disorder/) (4)
+  * [Chaos and Disorder (album)](./album/chaos-and-disorder/) (5)
   * [Crystal Ball (album)](./album/crystal-ball/) (4)
   * [Diamonds & Pearls (album)](./album/diamonds-pearls/) (1)
   * [Dirty Mind (album)](./album/dirty-mind/) (2)
   * [Dream Factory (album)](./album/dream-factory/) (1)
-  * [Emancipation (album)](./album/emancipation/) (9)
+  * [Emancipation (album)](./album/emancipation/) (10)
   * [Everything Blows (album)](./album/everything-blows/) (1)
   * [Graffiti Bridge (album)](./album/graffiti-bridge/) (2)
   * [LotusFlow3r (album)](./album/lotusflow3r/) (1)
@@ -26,7 +26,7 @@
   * [The Glamorous Life (album)](./album/the-glamorous-life/) (3)
   * [The Gold Experience (album)](./album/the-gold-experience/) (6)
   * [The Red Shoes (album)](./album/the-red-shoes/) (2)
-  * [The Versace Experience (Prelude 2 Gold) (album)](./album/the-versace-experience-prelude-2-gold/) (3)
+  * [The Versace Experience (Prelude 2 Gold) (album)](./album/the-versace-experience-prelude-2-gold/) (4)
   * [Ultimate Rave (album)](./album/ultimate-rave/) (1)
 
 ----
