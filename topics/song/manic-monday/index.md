@@ -5,7 +5,7 @@
       [June](./manic-monday-song-2019-06.md) (9) | 
       [April](./manic-monday-song-2019-04.md) (2) | 
   * 2016: 
-      [April](./manic-monday-song-2016-04.md) (4) | 
+      [April](./manic-monday-song-2016-04.md) (5) | 
 
 ----
 

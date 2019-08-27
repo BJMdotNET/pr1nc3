@@ -6,10 +6,10 @@
       [November](./celebration-2018-11.md) (1) | 
       [June](./celebration-2018-06.md) (1) | 
   * 2017: 
-      [April](./celebration-2017-04.md) (1) | 
+      [April](./celebration-2017-04.md) (2) | 
       [March](./celebration-2017-03.md) (1) | 
   * 2016: 
-      [August](./celebration-2016-08.md) (1) | 
+      [August](./celebration-2016-08.md) (2) | 
       [June](./celebration-2016-06.md) (1) | 
       [April](./celebration-2016-04.md) (1) | 
   * 2015: 

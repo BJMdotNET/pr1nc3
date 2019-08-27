@@ -9,7 +9,7 @@
       [October](./kevin-eide-2017-10.md) (1) | 
       [July](./kevin-eide-2017-07.md) (1) | 
       [May](./kevin-eide-2017-05.md) (2) | 
-      [April](./kevin-eide-2017-04.md) (2) | 
+      [April](./kevin-eide-2017-04.md) (3) | 
       [January](./kevin-eide-2017-01.md) (1) | 
   * 2016: 
       [October](./kevin-eide-2016-10.md) (3) | 

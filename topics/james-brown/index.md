@@ -8,6 +8,7 @@
       [June](./james-brown-2017-06.md) (1) | 
       [April](./james-brown-2017-04.md) (1) | 
   * 2016: 
+      [November](./james-brown-2016-11.md) (1) | 
       [April](./james-brown-2016-04.md) (5) | 
   * 2015: 
       [October](./james-brown-2015-10.md) (1) | 

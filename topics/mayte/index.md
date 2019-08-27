@@ -9,10 +9,11 @@
       [February](./mayte-2018-02.md) (1) | 
   * 2017: 
       [November](./mayte-2017-11.md) (1) | 
-      [April](./mayte-2017-04.md) (5) | 
+      [April](./mayte-2017-04.md) (7) | 
       [March](./mayte-2017-03.md) (3) | 
       [January](./mayte-2017-01.md) (1) | 
   * 2016: 
+      [November](./mayte-2016-11.md) (1) | 
       [October](./mayte-2016-10.md) (5) | 
       [September](./mayte-2016-09.md) (1) | 
       [July](./mayte-2016-07.md) (1) | 

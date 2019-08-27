@@ -4,6 +4,10 @@
 
 ----
 
+ - [**"George Clinton gets Paisley Park's Prince celebration off to a funky start"**](https://usatoday.com/story/life/music/2017/04/21/george-clinton-gets-paisley-parks-prince-celebration-off-funky-start/100736612/) in [USA Today](https://usatoday.com/) on 21 April 2017 about [Celebration](../../topics/celebration/index.md), [Celebration 2017](../../topics/celebration-2017/index.md), [Dave Chappelle](../../topics/dave-chappelle/index.md), [fentanyl](../../topics/fentanyl/index.md), [George Clinton](../../topics/george-clinton/index.md), [Jungle Love (song)](../../topics/song/jungle-love/index.md), [Morris Hayes](../../topics/morris-hayes/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [The Revolution](../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2017/04/21/george-clinton-gets-paisley-parks-prince-celebration-off-funky-start/100736612/))
+
+----
+
  - [**"Comedian Charlie Murphy, brother of Eddie, dies at 57"**](https://apnews.com/15803935af9247c192707d1b81400809) in [Associated Press News](https://apnews.com/) on 12 April 2017 about [Charlie Murphy](../../topics/charlie-murphy/index.md), [Dave Chappelle](../../topics/dave-chappelle/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/15803935af9247c192707d1b81400809))
 
 ----

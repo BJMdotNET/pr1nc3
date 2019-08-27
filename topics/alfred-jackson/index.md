@@ -17,7 +17,7 @@
   * 2016: 
       [October](./alfred-jackson-2016-10.md) (2) | 
       [July](./alfred-jackson-2016-07.md) (1) | 
-      [June](./alfred-jackson-2016-06.md) (1) | 
+      [June](./alfred-jackson-2016-06.md) (2) | 
       [May](./alfred-jackson-2016-05.md) (3) | 
 
 ----

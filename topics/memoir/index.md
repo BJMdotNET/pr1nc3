@@ -6,7 +6,8 @@
   * 2018: 
       [April](./memoir-2018-04.md) (1) | 
   * 2017: 
-      [April](./memoir-2017-04.md) (1) | 
+      [August](./memoir-2017-08.md) (1) | 
+      [April](./memoir-2017-04.md) (3) | 
       [March](./memoir-2017-03.md) (1) | 
   * 2016: 
       [September](./memoir-2016-09.md) (1) | 

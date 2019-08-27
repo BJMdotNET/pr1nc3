@@ -22,8 +22,8 @@
       [August](./sheila-e-2016-08.md) (1) | 
       [July](./sheila-e-2016-07.md) (1) | 
       [June](./sheila-e-2016-06.md) (2) | 
-      [May](./sheila-e-2016-05.md) (2) | 
-      [April](./sheila-e-2016-04.md) (9) | 
+      [May](./sheila-e-2016-05.md) (3) | 
+      [April](./sheila-e-2016-04.md) (10) | 
       [February](./sheila-e-2016-02.md) (1) | 
   * 2015: 
       [March](./sheila-e-2015-03.md) (1) | 

@@ -92,7 +92,7 @@
   * [uDiscover Music](./udiscover-music/) (1)
   * [Uproxx](./uproxx/) (1)
   * [US Weekly](./us-weekly/) (1)
-  * [USA Today](./usa-today/) (19)
+  * [USA Today](./usa-today/) (36)
   * [Variety](./variety/) (21)
   * [The Verge](./the-verge/) (1)
   * [Vulture](./vulture/) (1)

@@ -13,9 +13,12 @@
       [April](./vault-2018-04.md) (1) | 
   * 2017: 
       [October](./vault-2017-10.md) (1) | 
+      [April](./vault-2017-04.md) (1) | 
+      [February](./vault-2017-02.md) (1) | 
   * 2016: 
+      [November](./vault-2016-11.md) (1) | 
       [September](./vault-2016-09.md) (1) | 
-      [April](./vault-2016-04.md) (3) | 
+      [April](./vault-2016-04.md) (4) | 
 
 ----
 

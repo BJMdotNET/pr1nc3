@@ -2,7 +2,7 @@
 
   * [November](./2015-11.md) (4)
   * [October](./2015-10.md) (5)
-  * [September](./2015-09.md) (5)
+  * [September](./2015-09.md) (6)
   * [August](./2015-08.md) (2)
   * [July](./2015-07.md) (1)
   * [June](./2015-06.md) (3)

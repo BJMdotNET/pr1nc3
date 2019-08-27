@@ -12,12 +12,13 @@
       [December](./new-power-generation-2017-12.md) (1) | 
       [November](./new-power-generation-2017-11.md) (1) | 
       [July](./new-power-generation-2017-07.md) (1) | 
-      [April](./new-power-generation-2017-04.md) (2) | 
+      [April](./new-power-generation-2017-04.md) (3) | 
   * 2016: 
-      [November](./new-power-generation-2016-11.md) (2) | 
+      [November](./new-power-generation-2016-11.md) (3) | 
       [September](./new-power-generation-2016-09.md) (2) | 
       [August](./new-power-generation-2016-08.md) (1) | 
   * 2015: 
+      [September](./new-power-generation-2015-09.md) (1) | 
       [May](./new-power-generation-2015-05.md) (1) | 
 
 ----

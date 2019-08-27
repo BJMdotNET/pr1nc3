@@ -8,6 +8,10 @@
 
 ----
 
+ - [**"Voices: Even for Millennials, memories of Prince will endure"**](https://usatoday.com/story/college/2016/04/22/voices-even-for-millennials-memories-of-prince-will-endure/37417249/) in [USA Today](https://usatoday.com/) on 22 April 2016 about [Super Bowl](../../topics/super-bowl/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/college/2016/04/22/voices-even-for-millennials-memories-of-prince-will-endure/37417249/))
+
+----
+
  - [**"Why Prince’s Super Bowl Performance, ‘New Girl’ Cameo Proved He Was a God"**](https://variety.com/2016/tv/columns/prince-super-bowl-new-girl-1201758416/) in [Variety](https://variety.com/) on 21 April 2016 about [Super Bowl](../../topics/super-bowl/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2016/tv/columns/prince-super-bowl-new-girl-1201758416/))
 
 ----

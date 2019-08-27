@@ -10,7 +10,7 @@
       [November](./super-bowl-2017-11.md) (1) | 
       [August](./super-bowl-2017-08.md) (1) | 
   * 2016: 
-      [April](./super-bowl-2016-04.md) (3) | 
+      [April](./super-bowl-2016-04.md) (4) | 
 
 ----
 

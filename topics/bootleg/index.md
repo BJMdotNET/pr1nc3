@@ -5,6 +5,8 @@
       [June](./bootleg-2019-06.md) (5) | 
   * 2018: 
       [September](./bootleg-2018-09.md) (5) | 
+  * 2017: 
+      [April](./bootleg-2017-04.md) (1) | 
   * 2016: 
       [April](./bootleg-2016-04.md) (1) | 
   * 2014: 

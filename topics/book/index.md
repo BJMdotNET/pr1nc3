@@ -4,7 +4,7 @@
   * [It Gets Me Home, This Curving Track (book)](./book/it-gets-me-home-this-curving-track/) (4)
   * [Prince Pre Fame (book)](./book/prince-pre-fame/) (3)
   * [The Beautiful Ones (book)](./book/the-beautiful-ones/) (9)
-  * [The Most Beautiful (book)](./book/the-most-beautiful/) (5)
+  * [The Most Beautiful (book)](./book/the-most-beautiful/) (6)
 
 ----
 

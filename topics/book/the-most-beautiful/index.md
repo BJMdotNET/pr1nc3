@@ -12,6 +12,10 @@
 
 ----
 
+ - [**"5 Prince revelations from the memoir of his first wife, Mayte Garcia"**](https://usatoday.com/story/life/people/2017/04/04/5-prince-revelations-memoir-his-first-wife-mayte-garcia/100018722/) in [USA Today](https://usatoday.com/) on 4 April 2017 about [Mayte](../../../topics/mayte/index.md), [Mayte Garcia](../../../topics/mayte-garcia/index.md), [memoir](../../../topics/memoir/index.md), [The Most Beautiful (book)](../../../topics/book/the-most-beautiful/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/people/2017/04/04/5-prince-revelations-memoir-his-first-wife-mayte-garcia/100018722/))
+
+----
+
  - [**"AM Prep-Music -- PRINCE’S EX OPENS UP ABOUT THE DEATH OF THEIR SON"**](https://apnews.com/00a854bad6dc4bea836dcf16182e0978) in [Associated Press News](https://apnews.com/) on 16 March 2017 about [Mayte](../../../topics/mayte/index.md), [Pfeiffer syndrome type 2](../../../topics/pfeiffer-syndrome-type-2/index.md), [The Most Beautiful (book)](../../../topics/book/the-most-beautiful/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/00a854bad6dc4bea836dcf16182e0978))
 
 ----

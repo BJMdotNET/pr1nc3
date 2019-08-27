@@ -16,6 +16,10 @@
 
 ----
 
+ - [**"Prince's death: New photos, video show singer on the day before he died"**](https://usatoday.com/story/life/people/2018/04/20/princes-death-new-photos-video-show-singer-day-before-he-died/535971002/) in [USA Today](https://usatoday.com/) on 20 April 2018 about [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Mark Metz](../../topics/mark-metz/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Vicodin](../../topics/vicodin/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/people/2018/04/20/princes-death-new-photos-video-show-singer-day-before-he-died/535971002/))
+
+----
+
  - [**"Prince’s death: Key players in investigation and aftermath"**](https://apnews.com/221f45fbd6e4440d944b38c34cffed15) in [Associated Press News](https://apnews.com/) on 19 April 2018 about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [Greg Brooker](../../topics/greg-brooker/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Jim Olson](../../topics/jim-olson/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Mark Metz](../../topics/mark-metz/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [oxycodone](../../topics/oxycodone/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/221f45fbd6e4440d944b38c34cffed15))
 
 ----

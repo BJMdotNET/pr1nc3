@@ -7,7 +7,7 @@
       [December](./obama-2017-12.md) (1) | 
   * 2016: 
       [November](./obama-2016-11.md) (1) | 
-      [April](./obama-2016-04.md) (7) | 
+      [April](./obama-2016-04.md) (8) | 
 
 ----
 
