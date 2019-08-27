@@ -4,6 +4,10 @@
 
 ----
 
+ - [**"'Rehabilitated' Paisley Park takes center stage for Prince anniversary -- Graceland firm remakes studio into a showplace."**](http://www.startribune.com/rehabilitated-paisley-park-takes-center-stage-for-prince-anniversary/419571163/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 17 April 2017 about [Bremer Trust](../../topics/bremer-trust/index.md), [Celebration](../../topics/celebration/index.md), [Denny Laufenburger](../../topics/denny-laufenburger/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [Joel Weinshanker](../../topics/joel-weinshanker/index.md), [museum](../../topics/museum/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/rehabilitated-paisley-park-takes-center-stage-for-prince-anniversary/419571163/))
+
+----
+
  - [**"Lady Gaga ex-manager Troy Carter named Prince estate adviser"**](https://apnews.com/727501ec378a400184818701510f73ea) by The Associated Press in [Associated Press News](https://apnews.com/) on 12 April 2017 about [Bremer Trust](../../topics/bremer-trust/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [Comerica Bank & Trust](../../topics/comerica-bank-trust/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Troy Carter](../../topics/troy-carter/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/727501ec378a400184818701510f73ea))
 
 ----

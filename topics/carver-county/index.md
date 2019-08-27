@@ -20,7 +20,7 @@
       [October](./carver-county-2016-10.md) (3) | 
       [September](./carver-county-2016-09.md) (1) | 
       [July](./carver-county-2016-07.md) (2) | 
-      [June](./carver-county-2016-06.md) (7) | 
+      [June](./carver-county-2016-06.md) (8) | 
       [May](./carver-county-2016-05.md) (9) | 
       [April](./carver-county-2016-04.md) (11) | 
 

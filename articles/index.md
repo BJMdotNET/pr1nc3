@@ -51,7 +51,7 @@
   * [Los Angeles Times](./los-angeles-times/) (1)
   * [Lynn Goldsmith on Facebook](./lynn-goldsmith-on-facebook/) (1)
   * [Milwaukee Journal Sentinel](./milwaukee-journal-sentinel/) (1)
-  * [Minneapolis Star Tribune](./minneapolis-star-tribune/) (493)
+  * [Minneapolis Star Tribune](./minneapolis-star-tribune/) (494)
   * [Minnesota Spokesman-Recorder](./minnesota-spokesman-recorder/) (1)
   * [Mirador de les Arts](./mirador-de-les-arts/) (1)
   * [Music Fans Stack Exchange](./music-fans-stack-exchange/) (1)

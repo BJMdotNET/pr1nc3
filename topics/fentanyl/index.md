@@ -20,7 +20,7 @@
       [November](./fentanyl-2016-11.md) (1) | 
       [October](./fentanyl-2016-10.md) (3) | 
       [August](./fentanyl-2016-08.md) (6) | 
-      [June](./fentanyl-2016-06.md) (9) | 
+      [June](./fentanyl-2016-06.md) (10) | 
       [May](./fentanyl-2016-05.md) (1) | 
 
 ----

@@ -1,6 +1,7 @@
 # Sharon Nelson
 
   * 2019: 
+      [August](./sharon-nelson-2019-08.md) (1) | 
       [April](./sharon-nelson-2019-04.md) (1) | 
   * 2018: 
       [July](./sharon-nelson-2018-07.md) (1) | 

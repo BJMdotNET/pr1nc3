@@ -3,7 +3,7 @@
   * 2019: 
       [August](./let-s-go-crazy-song-2019-08.md) (3) | 
       [July](./let-s-go-crazy-song-2019-07.md) (4) | 
-      [June](./let-s-go-crazy-song-2019-06.md) (2) | 
+      [June](./let-s-go-crazy-song-2019-06.md) (3) | 
   * 2018: 
       [October](./let-s-go-crazy-song-2018-10.md) (3) | 
   * 2017: 

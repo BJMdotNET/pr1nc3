@@ -1,6 +1,7 @@
 # vault
 
   * 2019: 
+      [August](./vault-2019-08.md) (1) | 
       [June](./vault-2019-06.md) (5) | 
       [May](./vault-2019-05.md) (1) | 
       [April](./vault-2019-04.md) (1) | 
