@@ -4,6 +4,14 @@
 
 ----
 
+ - [**"Estate of Prince Sues Custom Guitar Builder"**](http://digitaleditions.sheridan.com/article/Estate+of+Prince+Sues+Custom+Guitar+Builder/3278617/556089/article.html) in [digitaleditions.sheridan.com](http://digitaleditions.sheridan.com/) on 7 January 2019 about [André Cymone](../../topics/andr-cymone/index.md), [Cloud guitar](../../topics/cloud-guitar/index.md), [Comerica Bank & Trust](../../topics/comerica-bank-trust/index.md), [trademark](../../topics/trademark/index.md) ([mirror](https://web.archive.org/web/*/http://digitaleditions.sheridan.com/article/Estate+of+Prince+Sues+Custom+Guitar+Builder/3278617/556089/article.html))
+
+----
+
+ - [**"Prince estate goes after Cloud guitar designer -- Sooner or later, we all hear from Prince’s lawyers."**](http://www.citypages.com/music/prince-estate-goes-after-cloud-guitar-designer/502027422) in [City Pages](http://www.citypages.com/) on 6 December 2018 about [André Cymone](../../topics/andr-cymone/index.md), [Cloud guitar](../../topics/cloud-guitar/index.md), [Comerica Bank & Trust](../../topics/comerica-bank-trust/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Smithsonian (place)](../../topics/place/smithsonian/index.md), [trademark](../../topics/trademark/index.md) ([mirror](https://web.archive.org/web/*/http://www.citypages.com/music/prince-estate-goes-after-cloud-guitar-designer/502027422))
+
+----
+
  - [**"AM Prep-Segue -- PRINCE HEIRS COMPLAIN ABOUT EXECUTOR"**](https://apnews.com/1a747d45ed414fbe9752c5b2c7e2063f) in [Associated Press News](https://apnews.com/) on 31 October 2017 about [Comerica Bank & Trust](../../topics/comerica-bank-trust/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/1a747d45ed414fbe9752c5b2c7e2063f))
 
 ----

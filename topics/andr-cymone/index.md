@@ -8,11 +8,23 @@
 
 ----
 
+ - [**"A TALE OF TWO GUITARS: THE STORY OF PRINCE'S CLOUD AND PURPLE SPECIAL GUITARS -- The History Of The Iconic Purple Rain Instrument And His Last Ever Guitar"**](http://www.mixdownmag.com.au/tale-two-guitars-story-princes-cloud-and-purple-special-guitars) in [www.mixdownmag.com.au](http://www.mixdownmag.com.au/) on 21 July 2019 about [André Cymone](../../topics/andr-cymone/index.md), [Cloud guitar](../../topics/cloud-guitar/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [museum](../../topics/museum/index.md), [The Revolution](../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/http://www.mixdownmag.com.au/tale-two-guitars-story-princes-cloud-and-purple-special-guitars))
+
+----
+
+ - [**"Estate of Prince Sues Custom Guitar Builder"**](http://digitaleditions.sheridan.com/article/Estate+of+Prince+Sues+Custom+Guitar+Builder/3278617/556089/article.html) in [digitaleditions.sheridan.com](http://digitaleditions.sheridan.com/) on 7 January 2019 about [André Cymone](../../topics/andr-cymone/index.md), [Cloud guitar](../../topics/cloud-guitar/index.md), [Comerica Bank & Trust](../../topics/comerica-bank-trust/index.md), [trademark](../../topics/trademark/index.md) ([mirror](https://web.archive.org/web/*/http://digitaleditions.sheridan.com/article/Estate+of+Prince+Sues+Custom+Guitar+Builder/3278617/556089/article.html))
+
+----
+
+ - [**"Prince estate goes after Cloud guitar designer -- Sooner or later, we all hear from Prince’s lawyers."**](http://www.citypages.com/music/prince-estate-goes-after-cloud-guitar-designer/502027422) in [City Pages](http://www.citypages.com/) on 6 December 2018 about [André Cymone](../../topics/andr-cymone/index.md), [Cloud guitar](../../topics/cloud-guitar/index.md), [Comerica Bank & Trust](../../topics/comerica-bank-trust/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Smithsonian (place)](../../topics/place/smithsonian/index.md), [trademark](../../topics/trademark/index.md) ([mirror](https://web.archive.org/web/*/http://www.citypages.com/music/prince-estate-goes-after-cloud-guitar-designer/502027422))
+
+----
+
  - [**"5 Minneapolis Super Bowl concerts worth the splurge, plus 5 cheaper alternatives"**](https://apnews.com/b5354fb801f94674abaf28203dd6eec2) in [Associated Press News](https://apnews.com/) on 25 January 2018 about [André Cymone](../../topics/andr-cymone/index.md), [Brother Jules](../../topics/brother-jules/index.md), [Dakota (place)](../../topics/place/dakota/index.md), [fDeluxe](../../topics/fdeluxe/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Gwen Stefani](../../topics/gwen-stefani/index.md), [Morris Day](../../topics/morris-day/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Super Bowl](../../topics/super-bowl/index.md), [The Family](../../topics/the-family/index.md), [The Revolution](../../topics/the-revolution/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/b5354fb801f94674abaf28203dd6eec2))
 
 ----
 
- - [**"Dave Rusan: Building Prince’s Cloud Guitar"**](https://www.premierguitar.com/articles/24199-dave-rusan-building-princes-cloud-guitar) in [Premier Guitar](https://www.premierguitar.com/) on 10 June 2016 about [André Cymone](../../topics/andr-cymone/index.md), [Bobby Z.](../../topics/bobby-z/index.md), [Cloud guitar](../../topics/cloud-guitar/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Matt Fink](../../topics/matt-fink/index.md), [Morris Day](../../topics/morris-day/index.md), [Smithsonian (place)](../../topics/place/smithsonian/index.md), [The Revolution](../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/https://www.premierguitar.com/articles/24199-dave-rusan-building-princes-cloud-guitar))
+ - [**"Dave Rusan: Building Prince’s Cloud Guitar"**](https://www.premierguitar.com/articles/24199-dave-rusan-building-princes-cloud-guitar) in [Premier Guitar](https://www.premierguitar.com/) on 10 June 2016 about [André Cymone](../../topics/andr-cymone/index.md), [Bobby Z.](../../topics/bobby-z/index.md), [Cloud guitar](../../topics/cloud-guitar/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Matt Fink](../../topics/matt-fink/index.md), [Morris Day](../../topics/morris-day/index.md), [Smithsonian (place)](../../topics/place/smithsonian/index.md), [The Revolution](../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/https://www.premierguitar.com/articles/24199-dave-rusan-building-princes-cloud-guitar))
 
 ----
 

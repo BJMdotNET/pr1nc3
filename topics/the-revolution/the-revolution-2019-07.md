@@ -12,6 +12,10 @@
 
 ----
 
+ - [**"A TALE OF TWO GUITARS: THE STORY OF PRINCE'S CLOUD AND PURPLE SPECIAL GUITARS -- The History Of The Iconic Purple Rain Instrument And His Last Ever Guitar"**](http://www.mixdownmag.com.au/tale-two-guitars-story-princes-cloud-and-purple-special-guitars) in [www.mixdownmag.com.au](http://www.mixdownmag.com.au/) on 21 July 2019 about [André Cymone](../../topics/andr-cymone/index.md), [Cloud guitar](../../topics/cloud-guitar/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [museum](../../topics/museum/index.md), [The Revolution](../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/http://www.mixdownmag.com.au/tale-two-guitars-story-princes-cloud-and-purple-special-guitars))
+
+----
+
  - [**"Prince And The Revolution’s Lisa Coleman On Her New Solo LP And ‘Purple Rain’ Turning 35"**](https://www.forbes.com/sites/davidchiu/2019/07/09/prince-and-the-revolutions-lisa-coleman-on-her-new-solo-lp-and-purple-rain-turning-35/) by David Chiu in [Forbes](https://www.forbes.com/) on 9 July 2019 about [First Avenue (place)](../../topics/place/first-avenue/index.md), [I Would Die 4 U (song)](../../topics/song/i-would-die-4-u/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://www.forbes.com/sites/davidchiu/2019/07/09/prince-and-the-revolutions-lisa-coleman-on-her-new-solo-lp-and-purple-rain-turning-35/))
 
 ----

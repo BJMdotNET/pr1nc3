@@ -28,7 +28,7 @@
   * [Katrina’s Paper Dolls (song)](./song/katrina-s-paper-dolls/) (2)
   * [Let’s Go Crazy (song)](./song/let-s-go-crazy/) (27)
   * [Letitgo (song)](./song/letitgo/) (1)
-  * [Little Red Corvette (song)](./song/little-red-corvette/) (15)
+  * [Little Red Corvette (song)](./song/little-red-corvette/) (16)
   * [Love and Sex (song)](./song/love-and-sex/) (2)
   * [Luka (song)](./song/luka/) (4)
   * [Manic Monday (song)](./song/manic-monday/) (17)

@@ -4,4 +4,8 @@
 
 ----
 
+ - [**"Prince estate asks Bloomington man to stop selling iconic Cloud guitar replicas"**](https://kstp.com/news/prince-estate-asks-bloomington-man-to-stop-selling-iconic-cloud-guitar-replicas/5167255/) in [KSTP](https://kstp.com/) on 4 December 2018 about [Cloud guitar](../../topics/cloud-guitar/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [trademark](../../topics/trademark/index.md) ([mirror](https://web.archive.org/web/*/https://kstp.com/news/prince-estate-asks-bloomington-man-to-stop-selling-iconic-cloud-guitar-replicas/5167255/))
+
+----
+
 [Home](./)

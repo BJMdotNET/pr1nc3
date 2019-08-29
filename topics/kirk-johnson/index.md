@@ -2,7 +2,7 @@
 
   * 2019: 
       [August](./kirk-johnson-2019-08.md) (1) | 
-      [July](./kirk-johnson-2019-07.md) (1) | 
+      [July](./kirk-johnson-2019-07.md) (2) | 
   * 2018: 
       [April](./kirk-johnson-2018-04.md) (13) | 
   * 2017: 

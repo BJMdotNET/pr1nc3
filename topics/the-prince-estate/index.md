@@ -8,7 +8,7 @@
       [April](./the-prince-estate-2019-04.md) (5) | 
       [February](./the-prince-estate-2019-02.md) (2) | 
   * 2018: 
-      [December](./the-prince-estate-2018-12.md) (1) | 
+      [December](./the-prince-estate-2018-12.md) (2) | 
       [November](./the-prince-estate-2018-11.md) (3) | 
       [October](./the-prince-estate-2018-10.md) (3) | 
       [September](./the-prince-estate-2018-09.md) (1) | 
