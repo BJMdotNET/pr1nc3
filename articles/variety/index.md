@@ -1,7 +1,7 @@
 # Variety
 
   * 2019: 
-      [August](./variety-2019-08.md) (1) | 
+      [August](./variety-2019-08.md) (2) | 
       [July](./variety-2019-07.md) (1) | 
       [June](./variety-2019-06.md) (2) | 
       [April](./variety-2019-04.md) (3) | 

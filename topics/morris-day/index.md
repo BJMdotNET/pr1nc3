@@ -1,7 +1,7 @@
 # Morris Day
 
   * [2019](./morris-day-2019.md): 
-      August (2) | 
+      August (4) | 
       July (4) | 
       April (1) | 
   * [2018](./morris-day-2018.md): 

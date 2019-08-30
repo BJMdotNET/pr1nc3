@@ -1,7 +1,7 @@
 # Prince Estate
 
   * [2019](./prince-estate-2019.md): 
-      August (5) | 
+      August (6) | 
       July (2) | 
       June (5) | 
       May (1) | 

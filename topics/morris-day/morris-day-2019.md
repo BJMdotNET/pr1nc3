@@ -2,6 +2,14 @@
 
 ## August 2019
 
+ - [**"Atwood, Rushdie novels among fall highlights"**](https://www.santacruzsentinel.com/2019/08/29/atwood-rushdie-novels-among-fall-highlights/) in [www.santacruzsentinel.com](https://www.santacruzsentinel.com/) on 29 August 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.santacruzsentinel.com/2019/08/29/atwood-rushdie-novels-among-fall-highlights/))
+
+----
+
+ - [**"Atwood, Rushdie novels among fall highlights"**](https://apnews.com/10e0c40e0c6c4d5f83f13bef45246a6e) in [Associated Press News](https://apnews.com/) on 28 August 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/10e0c40e0c6c4d5f83f13bef45246a6e))
+
+----
+
  - [**"Morris Day shows off his comedic chops in new Prince mockumentary"**](http://www.startribune.com/morris-day-shows-off-his-comedic-chops-in-new-prince-mockumentary/523094741/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 6 August 2019 about [Computer Blue (song)](../../topics/song/computer-blue/index.md), [Jungle Love (song)](../../topics/song/jungle-love/index.md), [Morris Day](../../topics/morris-day/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Quincy Jones](../../topics/quincy-jones/index.md), [Sherman's Showcase (TV show)](../../topics/tv-show/sherman-s-showcase/index.md), [The Bird (song)](../../topics/song/the-bird/index.md), [Vicki, is the Water Warm Enough (song)](../../topics/song/vicki-is-the-water-warm-enough/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/morris-day-shows-off-his-comedic-chops-in-new-prince-mockumentary/523094741/))
 
 ----

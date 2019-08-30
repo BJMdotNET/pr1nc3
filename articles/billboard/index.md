@@ -1,6 +1,7 @@
 # Billboard
 
   * 2019: 
+      [August](./billboard-2019-08.md) (1) | 
       [June](./billboard-2019-06.md) (2) | 
       [April](./billboard-2019-04.md) (1) | 
       [February](./billboard-2019-02.md) (1) | 

@@ -1,7 +1,7 @@
 # Graceland
 
   * [2019](./graceland-2019.md): 
-      August (1) | 
+      August (6) | 
       April (1) | 
   * [2018](./graceland-2018.md): 
       August (1) | 

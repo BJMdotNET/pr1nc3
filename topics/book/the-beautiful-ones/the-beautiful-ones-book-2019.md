@@ -1,0 +1,39 @@
+# The Beautiful Ones (book): 2019
+
+## August 2019
+
+ - [**"Atwood, Rushdie novels among fall highlights"**](https://www.santacruzsentinel.com/2019/08/29/atwood-rushdie-novels-among-fall-highlights/) in [www.santacruzsentinel.com](https://www.santacruzsentinel.com/) on 29 August 2019 about [Dan Piepenbring](../../../topics/dan-piepenbring/index.md), [memoir](../../../topics/memoir/index.md), [Morris Day](../../../topics/morris-day/index.md), [The Beautiful Ones (book)](../../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.santacruzsentinel.com/2019/08/29/atwood-rushdie-novels-among-fall-highlights/))
+
+----
+
+ - [**"Atwood, Rushdie novels among fall highlights"**](https://apnews.com/10e0c40e0c6c4d5f83f13bef45246a6e) in [Associated Press News](https://apnews.com/) on 28 August 2019 about [Dan Piepenbring](../../../topics/dan-piepenbring/index.md), [memoir](../../../topics/memoir/index.md), [Morris Day](../../../topics/morris-day/index.md), [The Beautiful Ones (book)](../../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/10e0c40e0c6c4d5f83f13bef45246a6e))
+
+----
+
+ - [**"Prince’s Estate to Take Over Management of Paisley Park"**](https://variety.com/2019/music/news/prince-estate-take-over-paisley-park-1203316110/) in [Variety](https://variety.com/) on 27 August 2019 about [Ava DuVernay](../../../topics/ava-duvernay/index.md), [Graceland](../../../topics/graceland/index.md), [Graceland Holdings](../../../topics/graceland-holdings/index.md), [Joel Weinshanker](../../../topics/joel-weinshanker/index.md), [Kirk Johnson](../../../topics/kirk-johnson/index.md), [memoir](../../../topics/memoir/index.md), [museum](../../../topics/museum/index.md), [Netflix](../../../topics/netflix/index.md), [Sharon Nelson](../../../topics/sharon-nelson/index.md), [The Beautiful Ones (book)](../../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/news/prince-estate-take-over-paisley-park-1203316110/))
+
+----
+
+## April 2019
+
+ - [**"Coming soon from the Prince vault: A new album called ‘Originals’ -- Prince’s estate is announcing the collection of his performances of songs he wrote for others."**](http://www.startribune.com/coming-soon-from-the-prince-vault-a-new-album-called-originals/509009862/) by Chris Riemenschneider, Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 April 2019 about [Apple Music](../../../topics/apple-music/index.md), [Bangles](../../../topics/bangles/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Kenny Rogers](../../../topics/kenny-rogers/index.md), [Larry Graham](../../../topics/larry-graham/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Martika](../../../topics/martika/index.md), [Morris Day](../../../topics/morris-day/index.md), [Morris Day & The Time](../../../topics/morris-day-the-time/index.md), [Netflix](../../../topics/netflix/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [Random House ](../../../topics/random-house/index.md), [Rave In2 the Joy Fantastic (album)](../../../topics/album/rave-in2-the-joy-fantastic/index.md), [Rave Un2 the Joy Fantastic (album)](../../../topics/album/rave-un2-the-joy-fantastic/index.md), [Rave Un2 the Year 2000 (video)](../../../topics/video/rave-un2-the-year-2000/index.md), [Sex Shooter (song)](../../../topics/song/sex-shooter/index.md), [The Beautiful Ones (book)](../../../topics/book/the-beautiful-ones/index.md), [The Family](../../../topics/the-family/index.md), [The Glamorous Life (song)](../../../topics/song/the-glamorous-life/index.md), [The Prince Estate](../../../topics/the-prince-estate/index.md), [The Time](../../../topics/the-time/index.md), [Ultimate Rave (album)](../../../topics/album/ultimate-rave/index.md), [Vanity 6](../../../topics/vanity-6/index.md), [vault](../../../topics/vault/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/coming-soon-from-the-prince-vault-a-new-album-called-originals/509009862/))
+
+----
+
+ - [**"Prince memoir ‘The Beautiful Ones’ coming out in the fall"**](https://apnews.com/0c8b1deaae3b4329905d848b284f044b) by Hillel Italie (Associated Press) in [Associated Press News](https://apnews.com/) on 22 April 2019 about [Chris Jackson](../../../topics/chris-jackson/index.md), [Dan Piepenbring](../../../topics/dan-piepenbring/index.md), [Esther Newberg](../../../topics/esther-newberg/index.md), [fentanyl](../../../topics/fentanyl/index.md), [memoir](../../../topics/memoir/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md), [Random House ](../../../topics/random-house/index.md), [The Beautiful Ones (book)](../../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/0c8b1deaae3b4329905d848b284f044b))
+
+----
+
+ - [**"Prince memoir ‘The Beautiful Ones’ to combine manuscript with rare photos, lyrics"**](https://usatoday.com/story/life/books/2019/04/22/princes-deeply-personal-memoir-the-beautiful-ones-due-fall/3536956002/) in [USA Today](https://usatoday.com/) on 22 April 2019 about [Chris Jackson](../../../topics/chris-jackson/index.md), [Dan Piepenbring](../../../topics/dan-piepenbring/index.md), [Esther Newberg](../../../topics/esther-newberg/index.md), [memoir](../../../topics/memoir/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [Random House ](../../../topics/random-house/index.md), [The Beautiful Ones (book)](../../../topics/book/the-beautiful-ones/index.md), [The Prince Estate](../../../topics/the-prince-estate/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/books/2019/04/22/princes-deeply-personal-memoir-the-beautiful-ones-due-fall/3536956002/))
+
+----
+
+ - [**"Prince memoir 'The Beautiful Ones' coming out in the fall"**](http://www.startribune.com/prince-memoir-the-beautiful-ones-coming-out-in-the-fall/508886482/) by Hillel Italie (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 April 2019 about [Dan Piepenbring](../../../topics/dan-piepenbring/index.md), [memoir](../../../topics/memoir/index.md), [Random House ](../../../topics/random-house/index.md), [The Beautiful Ones (book)](../../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-memoir-the-beautiful-ones-coming-out-in-the-fall/508886482/))
+
+----
+
+ - [**"Prince's memoir 'The Beautiful Ones' will finally be published this fall"**](http://www.startribune.com/prince-s-memoir-the-beautiful-ones-will-finally-be-published-this-fall/508894482/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 April 2019 about [Dan Piepenbring](../../../topics/dan-piepenbring/index.md), [Esther Newberg](../../../topics/esther-newberg/index.md), [memoir](../../../topics/memoir/index.md), [Random House ](../../../topics/random-house/index.md), [The Beautiful Ones (book)](../../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-memoir-the-beautiful-ones-will-finally-be-published-this-fall/508894482/))
+
+----
+
+[Home](../)

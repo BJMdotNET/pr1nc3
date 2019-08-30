@@ -1,7 +1,7 @@
 # Kirk Johnson
 
   * [2019](./kirk-johnson-2019.md): 
-      August (1) | 
+      August (2) | 
       July (2) | 
   * [2018](./kirk-johnson-2018.md): 
       April (13) | 

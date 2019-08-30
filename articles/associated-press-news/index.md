@@ -1,7 +1,7 @@
 # Associated Press News
 
   * 2019: 
-      [August](./associated-press-news-2019-08.md) (1) | 
+      [August](./associated-press-news-2019-08.md) (2) | 
       [July](./associated-press-news-2019-07.md) (1) | 
       [June](./associated-press-news-2019-06.md) (1) | 
       [April](./associated-press-news-2019-04.md) (2) | 

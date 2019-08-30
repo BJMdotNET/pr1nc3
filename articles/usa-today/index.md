@@ -1,7 +1,7 @@
 # USA Today
 
   * 2019: 
-      [August](./usa-today-2019-08.md) (1) | 
+      [August](./usa-today-2019-08.md) (2) | 
       [July](./usa-today-2019-07.md) (1) | 
       [June](./usa-today-2019-06.md) (1) | 
       [April](./usa-today-2019-04.md) (2) | 

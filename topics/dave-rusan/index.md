@@ -1,0 +1,13 @@
+# Dave Rusan
+
+  * [2019](./dave-rusan-2019.md): 
+      August (4) | 
+      July (1) | 
+      January (1) | 
+  * [2018](./dave-rusan-2018.md): 
+      December (4) | 
+      February (2) | 
+
+----
+
+[Home](../)

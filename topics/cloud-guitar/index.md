@@ -1,7 +1,7 @@
 # Cloud guitar
 
   * [2019](./cloud-guitar-2019.md): 
-      August (1) | 
+      August (4) | 
       July (2) | 
       January (1) | 
   * [2018](./cloud-guitar-2018.md): 
