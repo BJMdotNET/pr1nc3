@@ -1,7 +1,7 @@
 # Kenny Rogers
 
   * 2019: 
-      [June](./kenny-rogers-2019-06.md) (5) | 
+      [June](./kenny-rogers-2019-06.md) (6) | 
       [April](./kenny-rogers-2019-04.md) (4) | 
   * 2016: 
       [April](./kenny-rogers-2016-04.md) (1) | 

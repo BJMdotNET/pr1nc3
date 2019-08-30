@@ -4,7 +4,7 @@
 
 ----
 
- - [**"Prince is the star of the ‘homegrown legends’ in Minnesota State Fair ‘Floralpalooza’"**](https://blog.thecurrent.org/2019/08/prince-is-the-star-of-the-homegrown-legends-in-minnesota-state-fair-floralpalooza/) in [The Current](https://blog.thecurrent.org/) on 22 August 2019 about [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md) ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2019/08/prince-is-the-star-of-the-homegrown-legends-in-minnesota-state-fair-floralpalooza/))
+ - [**"Prince is the star of the ‘homegrown legends’ in Minnesota State Fair ‘Floralpalooza’"**](https://blog.thecurrent.org/2019/08/prince-is-the-star-of-the-homegrown-legends-in-minnesota-state-fair-floralpalooza/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 22 August 2019 about [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md) ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2019/08/prince-is-the-star-of-the-homegrown-legends-in-minnesota-state-fair-floralpalooza/))
 
 ----
 

@@ -10,6 +10,7 @@
       [December](./first-avenue-place-2018-12.md) (1) | 
       [October](./first-avenue-place-2018-10.md) (1) | 
       [July](./first-avenue-place-2018-07.md) (2) | 
+      [April](./first-avenue-place-2018-04.md) (1) | 
       [February](./first-avenue-place-2018-02.md) (1) | 
       [January](./first-avenue-place-2018-01.md) (2) | 
   * 2017: 
@@ -18,7 +19,7 @@
       [May](./first-avenue-place-2017-05.md) (1) | 
       [April](./first-avenue-place-2017-04.md) (6) | 
   * 2016: 
-      [December](./first-avenue-place-2016-12.md) (2) | 
+      [December](./first-avenue-place-2016-12.md) (3) | 
       [November](./first-avenue-place-2016-11.md) (2) | 
       [September](./first-avenue-place-2016-09.md) (1) | 
       [July](./first-avenue-place-2016-07.md) (2) | 

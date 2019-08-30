@@ -10,6 +10,7 @@
       [October](./the-revolution-2018-10.md) (1) | 
       [September](./the-revolution-2018-09.md) (4) | 
       [June](./the-revolution-2018-06.md) (1) | 
+      [April](./the-revolution-2018-04.md) (1) | 
       [March](./the-revolution-2018-03.md) (2) | 
       [February](./the-revolution-2018-02.md) (1) | 
       [January](./the-revolution-2018-01.md) (2) | 
@@ -20,6 +21,7 @@
       [May](./the-revolution-2017-05.md) (1) | 
       [April](./the-revolution-2017-04.md) (7) | 
   * 2016: 
+      [December](./the-revolution-2016-12.md) (1) | 
       [November](./the-revolution-2016-11.md) (2) | 
       [September](./the-revolution-2016-09.md) (1) | 
       [August](./the-revolution-2016-08.md) (1) | 

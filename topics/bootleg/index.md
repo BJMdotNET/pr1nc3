@@ -8,6 +8,7 @@
   * 2017: 
       [April](./bootleg-2017-04.md) (1) | 
   * 2016: 
+      [December](./bootleg-2016-12.md) (1) | 
       [April](./bootleg-2016-04.md) (1) | 
   * 2014: 
       [February](./bootleg-2014-02.md) (2) | 

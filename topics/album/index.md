@@ -16,7 +16,7 @@
   * [Lovesexy (album)](./album/lovesexy/) (4)
   * [Originals (album)](./album/originals/) (40)
   * [Parade (album)](./album/parade/) (8)
-  * [Piano and a Microphone 1983 (album)](./album/piano-and-a-microphone-1983/) (9)
+  * [Piano and a Microphone 1983 (album)](./album/piano-and-a-microphone-1983/) (10)
   * [Prince Anthology: 1995-2010 (album)](./album/prince-anthology-1995-2010/) (2)
   * [Purple Rain (album)](./album/purple-rain/) (20)
   * [Rave In2 the Joy Fantastic (album)](./album/rave-in2-the-joy-fantastic/) (5)

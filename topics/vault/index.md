@@ -2,7 +2,7 @@
 
   * 2019: 
       [August](./vault-2019-08.md) (1) | 
-      [June](./vault-2019-06.md) (5) | 
+      [June](./vault-2019-06.md) (8) | 
       [May](./vault-2019-05.md) (1) | 
       [April](./vault-2019-04.md) (1) | 
   * 2018: 
@@ -16,9 +16,10 @@
       [April](./vault-2017-04.md) (1) | 
       [February](./vault-2017-02.md) (1) | 
   * 2016: 
+      [December](./vault-2016-12.md) (1) | 
       [November](./vault-2016-11.md) (1) | 
       [September](./vault-2016-09.md) (1) | 
-      [April](./vault-2016-04.md) (4) | 
+      [April](./vault-2016-04.md) (5) | 
 
 ----
 

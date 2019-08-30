@@ -6,6 +6,7 @@
   * 2018: 
       [June](./vanity-6-2018-06.md) (2) | 
   * 2016: 
+      [December](./vanity-6-2016-12.md) (2) | 
       [April](./vanity-6-2016-04.md) (1) | 
       [February](./vanity-6-2016-02.md) (2) | 
 

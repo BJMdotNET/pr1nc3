@@ -10,9 +10,11 @@
       [September](./wendy-melvoin-2018-09.md) (1) | 
       [June](./wendy-melvoin-2018-06.md) (1) | 
   * 2017: 
+      [November](./wendy-melvoin-2017-11.md) (1) | 
       [August](./wendy-melvoin-2017-08.md) (1) | 
       [April](./wendy-melvoin-2017-04.md) (3) | 
   * 2016: 
+      [December](./wendy-melvoin-2016-12.md) (2) | 
       [September](./wendy-melvoin-2016-09.md) (1) | 
       [July](./wendy-melvoin-2016-07.md) (1) | 
       [April](./wendy-melvoin-2016-04.md) (2) | 

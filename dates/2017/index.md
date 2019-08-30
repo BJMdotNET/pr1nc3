@@ -1,7 +1,7 @@
 # 2017
 
   * [December](./2017-12.md) (6)
-  * [November](./2017-11.md) (12)
+  * [November](./2017-11.md) (13)
   * [October](./2017-10.md) (9)
   * [September](./2017-09.md) (4)
   * [August](./2017-08.md) (18)

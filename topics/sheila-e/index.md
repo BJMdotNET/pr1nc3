@@ -4,12 +4,13 @@
       [August](./sheila-e-2019-08.md) (1) | 
       [July](./sheila-e-2019-07.md) (5) | 
       [June](./sheila-e-2019-06.md) (5) | 
+      [May](./sheila-e-2019-05.md) (1) | 
       [April](./sheila-e-2019-04.md) (5) | 
       [March](./sheila-e-2019-03.md) (1) | 
       [February](./sheila-e-2019-02.md) (3) | 
   * 2018: 
       [August](./sheila-e-2018-08.md) (1) | 
-      [April](./sheila-e-2018-04.md) (2) | 
+      [April](./sheila-e-2018-04.md) (3) | 
       [March](./sheila-e-2018-03.md) (1) | 
       [February](./sheila-e-2018-02.md) (4) | 
       [January](./sheila-e-2018-01.md) (3) | 
@@ -19,6 +20,7 @@
       [July](./sheila-e-2017-07.md) (1) | 
       [June](./sheila-e-2017-06.md) (1) | 
   * 2016: 
+      [December](./sheila-e-2016-12.md) (2) | 
       [August](./sheila-e-2016-08.md) (1) | 
       [July](./sheila-e-2016-07.md) (1) | 
       [June](./sheila-e-2016-06.md) (2) | 

@@ -1,6 +1,6 @@
 # André Cymone
 
- - [**"‘Prince: Before the Rain’ photo exhibit coming to Minnesota History Center"**](https://blog.thecurrent.org/2019/08/prince-before-the-rain-photo-exhibit-coming-to-minnesota-history-center/) in [The Current](https://blog.thecurrent.org/) on 6 August 2019 about [Allen Beaulieu](../../topics/allen-beaulieu/index.md), [André Cymone](../../topics/andr-cymone/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [exhibit](../../topics/exhibit/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Minnesota History Center](../../topics/minnesota-history-center/index.md), [Prince: Before the Rain](../../topics/prince-before-the-rain/index.md) ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2019/08/prince-before-the-rain-photo-exhibit-coming-to-minnesota-history-center/))
+ - [**"‘Prince: Before the Rain’ photo exhibit coming to Minnesota History Center"**](https://blog.thecurrent.org/2019/08/prince-before-the-rain-photo-exhibit-coming-to-minnesota-history-center/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 6 August 2019 about [Allen Beaulieu](../../topics/allen-beaulieu/index.md), [André Cymone](../../topics/andr-cymone/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [exhibit](../../topics/exhibit/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Minnesota History Center](../../topics/minnesota-history-center/index.md), [Prince: Before the Rain](../../topics/prince-before-the-rain/index.md) ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2019/08/prince-before-the-rain-photo-exhibit-coming-to-minnesota-history-center/))
 
 ----
 
@@ -8,7 +8,7 @@
 
 ----
 
- - [**"A TALE OF TWO GUITARS: THE STORY OF PRINCE'S CLOUD AND PURPLE SPECIAL GUITARS -- The History Of The Iconic Purple Rain Instrument And His Last Ever Guitar"**](http://www.mixdownmag.com.au/tale-two-guitars-story-princes-cloud-and-purple-special-guitars) in [www.mixdownmag.com.au](http://www.mixdownmag.com.au/) on 21 July 2019 about [André Cymone](../../topics/andr-cymone/index.md), [Cloud guitar](../../topics/cloud-guitar/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [museum](../../topics/museum/index.md), [The Revolution](../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/http://www.mixdownmag.com.au/tale-two-guitars-story-princes-cloud-and-purple-special-guitars))
+ - [**"A TALE OF TWO GUITARS: THE STORY OF PRINCE'S CLOUD AND PURPLE SPECIAL GUITARS -- The History Of The Iconic Purple Rain Instrument And His Last Ever Guitar"**](http://www.mixdownmag.com.au/tale-two-guitars-story-princes-cloud-and-purple-special-guitars) in [Mixdown](http://www.mixdownmag.com.au/) on 21 July 2019 about [André Cymone](../../topics/andr-cymone/index.md), [Cloud guitar](../../topics/cloud-guitar/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [museum](../../topics/museum/index.md), [The Revolution](../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/http://www.mixdownmag.com.au/tale-two-guitars-story-princes-cloud-and-purple-special-guitars))
 
 ----
 

@@ -2,12 +2,15 @@
 
   * 2019: 
       [June](./james-brown-2019-06.md) (1) | 
+      [May](./james-brown-2019-05.md) (1) | 
   * 2018: 
       [August](./james-brown-2018-08.md) (1) | 
   * 2017: 
+      [November](./james-brown-2017-11.md) (1) | 
       [June](./james-brown-2017-06.md) (1) | 
       [April](./james-brown-2017-04.md) (1) | 
   * 2016: 
+      [December](./james-brown-2016-12.md) (1) | 
       [November](./james-brown-2016-11.md) (1) | 
       [April](./james-brown-2016-04.md) (5) | 
   * 2015: 
