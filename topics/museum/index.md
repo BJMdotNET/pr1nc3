@@ -1,26 +1,26 @@
 # museum
 
-  * 2019: 
-      [August](./museum-2019-08.md) (1) | 
-      [July](./museum-2019-07.md) (2) | 
-      [May](./museum-2019-05.md) (1) | 
-      [April](./museum-2019-04.md) (1) | 
-      [March](./museum-2019-03.md) (1) | 
-  * 2018: 
-      [September](./museum-2018-09.md) (1) | 
-  * 2017: 
-      [August](./museum-2017-08.md) (1) | 
-      [April](./museum-2017-04.md) (3) | 
-      [March](./museum-2017-03.md) (1) | 
-  * 2016: 
-      [November](./museum-2016-11.md) (3) | 
-      [October](./museum-2016-10.md) (6) | 
-      [September](./museum-2016-09.md) (1) | 
-      [August](./museum-2016-08.md) (1) | 
-      [July](./museum-2016-07.md) (1) | 
-      [June](./museum-2016-06.md) (2) | 
-      [May](./museum-2016-05.md) (2) | 
-      [April](./museum-2016-04.md) (1) | 
+  * [2019](./museum-2019.md): 
+      August (1) | 
+      July (2) | 
+      May (1) | 
+      April (1) | 
+      March (1) | 
+  * [2018](./museum-2018.md): 
+      September (1) | 
+  * [2017](./museum-2017.md): 
+      August (1) | 
+      April (3) | 
+      March (1) | 
+  * [2016](./museum-2016.md): 
+      November (3) | 
+      October (6) | 
+      September (1) | 
+      August (1) | 
+      July (1) | 
+      June (2) | 
+      May (2) | 
+      April (1) | 
 
 ----
 

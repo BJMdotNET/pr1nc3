@@ -1,20 +1,20 @@
 # C.J. (Cheryl Johnson)
 
-  * 2019: 
-      [July](./c-j-cheryl-johnson-2019-07.md) (2) | 
-      [April](./c-j-cheryl-johnson-2019-04.md) (1) | 
-  * 2018: 
-      [July](./c-j-cheryl-johnson-2018-07.md) (1) | 
-      [April](./c-j-cheryl-johnson-2018-04.md) (1) | 
-  * 2016: 
-      [November](./c-j-cheryl-johnson-2016-11.md) (1) | 
-      [July](./c-j-cheryl-johnson-2016-07.md) (1) | 
-      [June](./c-j-cheryl-johnson-2016-06.md) (3) | 
-      [May](./c-j-cheryl-johnson-2016-05.md) (3) | 
-      [April](./c-j-cheryl-johnson-2016-04.md) (3) | 
-  * 2015: 
-      [November](./c-j-cheryl-johnson-2015-11.md) (1) | 
-      [May](./c-j-cheryl-johnson-2015-05.md) (1) | 
+  * [2019](./c-j-cheryl-johnson-2019.md): 
+      July (2) | 
+      April (1) | 
+  * [2018](./c-j-cheryl-johnson-2018.md): 
+      July (1) | 
+      April (1) | 
+  * [2016](./c-j-cheryl-johnson-2016.md): 
+      November (1) | 
+      July (1) | 
+      June (3) | 
+      May (3) | 
+      April (3) | 
+  * [2015](./c-j-cheryl-johnson-2015.md): 
+      November (1) | 
+      May (1) | 
 
 ----
 

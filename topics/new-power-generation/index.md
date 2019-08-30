@@ -1,25 +1,25 @@
 # New Power Generation
 
-  * 2019: 
-      [August](./new-power-generation-2019-08.md) (2) | 
-      [July](./new-power-generation-2019-07.md) (2) | 
-      [June](./new-power-generation-2019-06.md) (1) | 
-      [April](./new-power-generation-2019-04.md) (1) | 
-  * 2018: 
-      [February](./new-power-generation-2018-02.md) (1) | 
-      [January](./new-power-generation-2018-01.md) (2) | 
-  * 2017: 
-      [December](./new-power-generation-2017-12.md) (1) | 
-      [November](./new-power-generation-2017-11.md) (1) | 
-      [July](./new-power-generation-2017-07.md) (1) | 
-      [April](./new-power-generation-2017-04.md) (3) | 
-  * 2016: 
-      [November](./new-power-generation-2016-11.md) (3) | 
-      [September](./new-power-generation-2016-09.md) (2) | 
-      [August](./new-power-generation-2016-08.md) (1) | 
-  * 2015: 
-      [September](./new-power-generation-2015-09.md) (1) | 
-      [May](./new-power-generation-2015-05.md) (1) | 
+  * [2019](./new-power-generation-2019.md): 
+      August (2) | 
+      July (2) | 
+      June (1) | 
+      April (1) | 
+  * [2018](./new-power-generation-2018.md): 
+      February (1) | 
+      January (2) | 
+  * [2017](./new-power-generation-2017.md): 
+      December (1) | 
+      November (1) | 
+      July (1) | 
+      April (3) | 
+  * [2016](./new-power-generation-2016.md): 
+      November (3) | 
+      September (2) | 
+      August (1) | 
+  * [2015](./new-power-generation-2015.md): 
+      September (1) | 
+      May (1) | 
 
 ----
 

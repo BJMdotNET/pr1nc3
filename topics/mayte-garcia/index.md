@@ -1,27 +1,27 @@
 # Mayte Garcia
 
-  * 2019: 
-      [August](./mayte-garcia-2019-08.md) (1) | 
-      [July](./mayte-garcia-2019-07.md) (1) | 
-  * 2018: 
-      [July](./mayte-garcia-2018-07.md) (1) | 
-      [April](./mayte-garcia-2018-04.md) (1) | 
-  * 2017: 
-      [November](./mayte-garcia-2017-11.md) (1) | 
-      [April](./mayte-garcia-2017-04.md) (7) | 
-      [March](./mayte-garcia-2017-03.md) (2) | 
-      [January](./mayte-garcia-2017-01.md) (1) | 
-  * 2016: 
-      [October](./mayte-garcia-2016-10.md) (5) | 
-      [September](./mayte-garcia-2016-09.md) (1) | 
-      [July](./mayte-garcia-2016-07.md) (1) | 
-      [June](./mayte-garcia-2016-06.md) (2) | 
-      [May](./mayte-garcia-2016-05.md) (1) | 
-      [April](./mayte-garcia-2016-04.md) (2) | 
-  * 2006: 
-      [July](./mayte-garcia-2006-07.md) (1) | 
-  * 1997: 
-      [June](./mayte-garcia-1997-06.md) (1) | 
+  * [2019](./mayte-garcia-2019.md): 
+      August (1) | 
+      July (1) | 
+  * [2018](./mayte-garcia-2018.md): 
+      July (1) | 
+      April (1) | 
+  * [2017](./mayte-garcia-2017.md): 
+      November (1) | 
+      April (7) | 
+      March (2) | 
+      January (1) | 
+  * [2016](./mayte-garcia-2016.md): 
+      October (5) | 
+      September (1) | 
+      July (1) | 
+      June (2) | 
+      May (1) | 
+      April (2) | 
+  * [2006](./mayte-garcia-2006.md): 
+      July (1) | 
+  * [1997](./mayte-garcia-1997.md): 
+      June (1) | 
 
 ----
 

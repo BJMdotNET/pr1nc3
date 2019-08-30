@@ -1,17 +1,17 @@
 # Nothing Compares 2 U (song)
 
-  * 2019: 
-      [July](./nothing-compares-2-u-song-2019-07.md) (3) | 
-      [June](./nothing-compares-2-u-song-2019-06.md) (12) | 
-      [April](./nothing-compares-2-u-song-2019-04.md) (3) | 
-  * 2018: 
-      [September](./nothing-compares-2-u-song-2018-09.md) (1) | 
-      [July](./nothing-compares-2-u-song-2018-07.md) (1) | 
-      [April](./nothing-compares-2-u-song-2018-04.md) (2) | 
-  * 2016: 
-      [December](./nothing-compares-2-u-song-2016-12.md) (1) | 
-      [November](./nothing-compares-2-u-song-2016-11.md) (1) | 
-      [April](./nothing-compares-2-u-song-2016-04.md) (5) | 
+  * [2019](./nothing-compares-2-u-song-2019.md): 
+      July (3) | 
+      June (12) | 
+      April (3) | 
+  * [2018](./nothing-compares-2-u-song-2018.md): 
+      September (1) | 
+      July (1) | 
+      April (2) | 
+  * [2016](./nothing-compares-2-u-song-2016.md): 
+      December (1) | 
+      November (1) | 
+      April (5) | 
 
 ----
 

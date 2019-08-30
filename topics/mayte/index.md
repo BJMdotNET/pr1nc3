@@ -1,29 +1,29 @@
 # Mayte
 
-  * 2019: 
-      [August](./mayte-2019-08.md) (1) | 
-      [May](./mayte-2019-05.md) (1) | 
-  * 2018: 
-      [July](./mayte-2018-07.md) (1) | 
-      [April](./mayte-2018-04.md) (1) | 
-      [February](./mayte-2018-02.md) (1) | 
-  * 2017: 
-      [November](./mayte-2017-11.md) (1) | 
-      [April](./mayte-2017-04.md) (7) | 
-      [March](./mayte-2017-03.md) (3) | 
-      [January](./mayte-2017-01.md) (1) | 
-  * 2016: 
-      [November](./mayte-2016-11.md) (1) | 
-      [October](./mayte-2016-10.md) (5) | 
-      [September](./mayte-2016-09.md) (1) | 
-      [July](./mayte-2016-07.md) (1) | 
-      [June](./mayte-2016-06.md) (2) | 
-      [May](./mayte-2016-05.md) (1) | 
-      [April](./mayte-2016-04.md) (4) | 
-  * 2006: 
-      [July](./mayte-2006-07.md) (1) | 
-  * 1997: 
-      [June](./mayte-1997-06.md) (1) | 
+  * [2019](./mayte-2019.md): 
+      August (1) | 
+      May (1) | 
+  * [2018](./mayte-2018.md): 
+      July (1) | 
+      April (1) | 
+      February (1) | 
+  * [2017](./mayte-2017.md): 
+      November (1) | 
+      April (7) | 
+      March (3) | 
+      January (1) | 
+  * [2016](./mayte-2016.md): 
+      November (1) | 
+      October (5) | 
+      September (1) | 
+      July (1) | 
+      June (2) | 
+      May (1) | 
+      April (4) | 
+  * [2006](./mayte-2006.md): 
+      July (1) | 
+  * [1997](./mayte-1997.md): 
+      June (1) | 
 
 ----
 

@@ -1,28 +1,28 @@
 # Carver County
 
-  * 2019: 
-      [July](./carver-county-2019-07.md) (1) | 
-      [April](./carver-county-2019-04.md) (1) | 
-  * 2018: 
-      [July](./carver-county-2018-07.md) (1) | 
-      [May](./carver-county-2018-05.md) (1) | 
-      [April](./carver-county-2018-04.md) (15) | 
-      [March](./carver-county-2018-03.md) (2) | 
-  * 2017: 
-      [October](./carver-county-2017-10.md) (1) | 
-      [July](./carver-county-2017-07.md) (1) | 
-      [June](./carver-county-2017-06.md) (1) | 
-      [May](./carver-county-2017-05.md) (1) | 
-      [April](./carver-county-2017-04.md) (4) | 
-      [January](./carver-county-2017-01.md) (4) | 
-  * 2016: 
-      [November](./carver-county-2016-11.md) (1) | 
-      [October](./carver-county-2016-10.md) (3) | 
-      [September](./carver-county-2016-09.md) (1) | 
-      [July](./carver-county-2016-07.md) (2) | 
-      [June](./carver-county-2016-06.md) (9) | 
-      [May](./carver-county-2016-05.md) (9) | 
-      [April](./carver-county-2016-04.md) (12) | 
+  * [2019](./carver-county-2019.md): 
+      July (1) | 
+      April (1) | 
+  * [2018](./carver-county-2018.md): 
+      July (1) | 
+      May (1) | 
+      April (15) | 
+      March (2) | 
+  * [2017](./carver-county-2017.md): 
+      October (1) | 
+      July (1) | 
+      June (1) | 
+      May (1) | 
+      April (4) | 
+      January (4) | 
+  * [2016](./carver-county-2016.md): 
+      November (1) | 
+      October (3) | 
+      September (1) | 
+      July (2) | 
+      June (9) | 
+      May (9) | 
+      April (12) | 
 
 ----
 

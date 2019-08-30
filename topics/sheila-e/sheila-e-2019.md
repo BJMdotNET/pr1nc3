@@ -1,0 +1,101 @@
+# Sheila E.: 2019
+
+## August 2019
+
+ - [**"Sheila E. turns trauma into 'glorious' triumph"**](https://usatoday.com/story/life/2019/08/24/sheila-e-glorious-life/2101411001/) in [USA Today](https://usatoday.com/) on 24 August 2019 about [memoir](../../topics/memoir/index.md), [Obama](../../topics/obama/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Glamorous Life (album)](../../topics/album/the-glamorous-life/index.md), [The Glamorous Life (song)](../../topics/song/the-glamorous-life/index.md), [White House (place)](../../topics/place/white-house/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/2019/08/24/sheila-e-glorious-life/2101411001/))
+
+----
+
+## July 2019
+
+ - [**"Fan-favourite ‘lost’ Prince song ‘Holly Rock’ is released as a single, with a brand-new video"**](https://www.nme.com/news/music/listen-new-prince-single-holly-rock-new-video-2532592) by Elizabeth Aubrey in [NME (New Musical Express)](https://www.nme.com/) on 26 July 2019 about [Eye Records](../../topics/eye-records/index.md), [Holly Rock (song)](../../topics/song/holly-rock/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../topics/album/originals/index.md), [Peggy McCreary](../../topics/peggy-mccreary/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md) ([mirror](https://web.archive.org/web/*/https://www.nme.com/news/music/listen-new-prince-single-holly-rock-new-video-2532592))
+
+----
+
+ - [**"Watch: Music Video Released for Prince Single 'Holly Rock' -- Recorded in 1985 in LA, the song features on the Originals album which has been recently released by The Prince Estate."**](https://www.hotpress.com/music/watch-music-video-prince-single-holly-rock-22782924) in [Hot Press](https://www.hotpress.com/) on 26 July 2019 about [Holly Rock (song)](../../topics/song/holly-rock/index.md), [Originals (album)](../../topics/album/originals/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md) ([mirror](https://web.archive.org/web/*/https://www.hotpress.com/music/watch-music-video-prince-single-holly-rock-22782924))
+
+----
+
+ - [**"New Single From Prince Released Off His Originals Album (Listen) -- The basic tracking for “Holly Rock” took place at Sunset Sound studios in Los Angeles at the end of April 1985"**](https://bassmagazine.com/artists/new-single-from-prince-released-off-his-originals-album) in [Bass Magazine](https://bassmagazine.com/) on 25 July 2019 about [Electric Light Studios](../../topics/electric-light-studios/index.md), [Holly Rock (song)](../../topics/song/holly-rock/index.md), [Krush Groove (movie)](../../topics/movie/krush-groove/index.md), [Originals (album)](../../topics/album/originals/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md) ([mirror](https://web.archive.org/web/*/https://bassmagazine.com/artists/new-single-from-prince-released-off-his-originals-album))
+
+----
+
+ - [**"Sheila E. brings the glam to jazz fest"**](https://www.thechronicleherald.ca/living/sheila-e-brings-the-glam-to-jazz-fest-329717/) by Stephen Cooke in [The Chronicle Herald](https://www.thechronicleherald.ca/) on 5 July 2019 about [Sheila E.](../../topics/sheila-e/index.md) ([mirror](https://web.archive.org/web/*/https://www.thechronicleherald.ca/living/sheila-e-brings-the-glam-to-jazz-fest-329717/))
+
+----
+
+ - [**"The Time’s ‘Ice Cream Castle’ Turns 35: Anniversary Retrospective -- Happy 35th Anniversary to The Time’s third studio album Ice Cream Castle, originally released July 2, 1984."**](https://www.albumism.com/features/the-time-ice-cream-castle-turns-35-anniversary-retrospective) by Andy Healy in [Albumism](https://www.albumism.com/) on 2 July 2019 about [Apollonia 6](../../topics/apollonia-6/index.md), [George Clinton](../../topics/george-clinton/index.md), [Jamie Starr](../../topics/jamie-starr/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jesse Johnson](../../topics/jesse-johnson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Mazarati](../../topics/mazarati/index.md), [Monte Moir](../../topics/monte-moir/index.md), [Morris Day](../../topics/morris-day/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Time](../../topics/the-time/index.md) ([mirror](https://web.archive.org/web/*/https://www.albumism.com/features/the-time-ice-cream-castle-turns-35-anniversary-retrospective))
+
+----
+
+## June 2019
+
+ - [**"Prince Collaborators Share Stories About the Songs He Gave to Others on 'Originals'"**](https://www.billboard.com/articles/news/8517755/prince-collaborators-originals) in [Billboard](https://www.billboard.com/) on 26 June 2019 about [Andy Warhol](../../topics/andy-warhol/index.md), [Bangles](../../topics/bangles/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Martika](../../topics/martika/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../topics/album/originals/index.md), [Peggy McCreary](../../topics/peggy-mccreary/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [The Family](../../topics/the-family/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8517755/prince-collaborators-originals))
+
+----
+
+ - [**"Prince’s Unearthed ‘Originals’: Collaborators Look Back on the Hits He Passed Along -- As demos of future classics like “Manic Monday” and Nothing Compares 2 U” finally see official release, Apollonia, the Bangles’ Susanna Hoffs, and others recall the artist’s “otherworldly” songwriting talents"**](https://www.rollingstone.com/music/music-features/prince-originals-interview-842940/) by Kory Grow in [Rolling Stone](https://www.rollingstone.com/) on 24 June 2019 about [Apollonia 6](../../topics/apollonia-6/index.md), [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Bangles](../../topics/bangles/index.md), [George Clinton](../../topics/george-clinton/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Jungle Love (song)](../../topics/song/jungle-love/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Martika](../../topics/martika/index.md), [Mazarati](../../topics/mazarati/index.md), [Nasty Girl (song)](../../topics/song/nasty-girl/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../topics/album/originals/index.md), [Peggy McCreary](../../topics/peggy-mccreary/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Sex Shooter (song)](../../topics/song/sex-shooter/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [The Family](../../topics/the-family/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [The Time](../../topics/the-time/index.md), [Troy Carter](../../topics/troy-carter/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/prince-originals-interview-842940/))
+
+----
+
+ - [**"What It Was Like to Be the Only Other Person in the Studio With Prince, According to His Engineer Peggy McCreary"**](https://pitchfork.com/thepitch/prince-engineer-peggy-mccreary-interview-originals/) in [Pitchfork](https://pitchfork.com/) on 19 June 2019 about [Bangles](../../topics/bangles/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../topics/album/originals/index.md), [Peggy McCreary](../../topics/peggy-mccreary/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [The Time](../../topics/the-time/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://pitchfork.com/thepitch/prince-engineer-peggy-mccreary-interview-originals/))
+
+----
+
+ - [**"Prince Remembered by Three Key Women in His Life"**](https://variety.com/2019/music/news/prince-birthday-remembered-by-three-key-women-originals-1203235532/) by Jem Aswad in [Variety](https://variety.com/) on 7 June 2019 about [Apollonia 6](../../topics/apollonia-6/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Colleen (song)](../../topics/song/colleen/index.md), [Cynthia Rose](../../topics/cynthia-rose/index.md), [Jamie Starr](../../topics/jamie-starr/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Mazarati](../../topics/mazarati/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../topics/album/originals/index.md), [Peggy McCreary](../../topics/peggy-mccreary/index.md), [Quincy Jones](../../topics/quincy-jones/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Starfish And Coffee (song)](../../topics/song/starfish-and-coffee/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/news/prince-birthday-remembered-by-three-key-women-originals-1203235532/))
+
+----
+
+ - [**"Sheila E.’s Debut Album ‘The Glamorous Life’ Turns 35: Anniversary Retrospective -- Happy 35th Anniversary to Sheila E.’s debut album The Glamorous Life, originally released June 4, 1984."**](https://www.albumism.com/features/sheila-e-debut-album-the-glamorous-life-turns-35-anniversary-retrospective) by Andy Healy in [Albumism](https://www.albumism.com/) on 2 June 2019 about [Condition of the Heart (song)](../../topics/song/condition-of-the-heart/index.md), [Erotic City (song)](../../topics/song/erotic-city/index.md), [Jesse Johnson](../../topics/jesse-johnson/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Next Time Wipe The Lipstick Off Your Collar (song)](../../topics/song/next-time-wipe-the-lipstick-off-your-collar/index.md), [Noon Rendezvous (song)](../../topics/song/noon-rendezvous/index.md), [Oliver’s House (song)](../../topics/song/oliver-s-house/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Shortberry Strawcake (song)](../../topics/song/shortberry-strawcake/index.md), [The Belle of St. Mark (song)](../../topics/song/the-belle-of-st-mark/index.md), [The Glamorous Life (album)](../../topics/album/the-glamorous-life/index.md), [The Glamorous Life (song)](../../topics/song/the-glamorous-life/index.md), [The Starr Company](../../topics/the-starr-company/index.md), [The Time](../../topics/the-time/index.md) ([mirror](https://web.archive.org/web/*/https://www.albumism.com/features/sheila-e-debut-album-the-glamorous-life-turns-35-anniversary-retrospective))
+
+----
+
+## May 2019
+
+ - [**"Susan Rogers -- The future is a big place and you can't see it all from here"**](https://wepresent.wetransfer.com/story/susan-rogers/) in [WePresent](https://wepresent.wetransfer.com/) on 24 May 2019 about [James Brown](../../topics/james-brown/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://wepresent.wetransfer.com/story/susan-rogers/))
+
+----
+
+## April 2019
+
+ - [**"New Prince album featuring unreleased demos out in June"**](http://www.startribune.com/new-prince-album-featuring-unreleased-demos-out-in-june/509058902/) by The Associated Press in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 April 2019 about [Joey Coco](../../topics/joey-coco/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Originals (album)](../../topics/album/originals/index.md), [Sheila E.](../../topics/sheila-e/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/new-prince-album-featuring-unreleased-demos-out-in-june/509058902/))
+
+----
+
+ - [**"New Prince album featuring unreleased demos out in June"**](https://apnews.com/f60b62d07cd74a92aec4ceb6d9c338f1) by The Associated Press in [Associated Press News](https://apnews.com/) on 25 April 2019 about [Apple Music](../../topics/apple-music/index.md), [Bangles](../../topics/bangles/index.md), [Joey Coco](../../topics/joey-coco/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../topics/album/originals/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Time](../../topics/the-time/index.md), [Tidal](../../topics/tidal/index.md), [Troy Carter](../../topics/troy-carter/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/f60b62d07cd74a92aec4ceb6d9c338f1))
+
+----
+
+ - [**"Prince Album of Unreleased Demos, 'Originals,' Coming in June -- Album will feature songs later recorded by The Time, Vanity 6, Sheila E., the Bangles and Apollonia 6."**](https://www.billboard.com/articles/columns/rock/8508690/prince-album-unreleased-demos-originals) in [Billboard](https://www.billboard.com/) on 25 April 2019 about [Apollonia 6](../../topics/apollonia-6/index.md), [Bangles](../../topics/bangles/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Mazarati](../../topics/mazarati/index.md), [Originals (album)](../../topics/album/originals/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Time](../../topics/the-time/index.md), [Troy Carter](../../topics/troy-carter/index.md), [Vanity 6](../../topics/vanity-6/index.md) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/columns/rock/8508690/prince-album-unreleased-demos-originals))
+
+----
+
+ - [**"Prince Estate to Release ‘Originals’ Album: His Versions of Songs He Gave to Other Artists (EXCLUSIVE)"**](https://variety.com/2019/music/news/prince-estate-to-release-originals-album-songs-he-gave-to-other-artists-1203197451/) by Jem Aswad in [Variety](https://variety.com/) on 24 April 2019 about [Apollonia 6](../../topics/apollonia-6/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Mazarati](../../topics/mazarati/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../topics/album/originals/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Family](../../topics/the-family/index.md), [The Glamorous Life (song)](../../topics/song/the-glamorous-life/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [The Time](../../topics/the-time/index.md), [Tidal](../../topics/tidal/index.md), [Troy Carter](../../topics/troy-carter/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/news/prince-estate-to-release-originals-album-songs-he-gave-to-other-artists-1203197451/))
+
+----
+
+ - [**"Pick Six: Praise for Lil Nas X, Bob Mould, Zedd, 'Jay's Longhorn' and more -- Pick Six is a half-dozen cool things in music, from two points of view."**](http://www.startribune.com/pick-six-praise-for-lil-nas-x-bob-mould-zedd-jay-s-longhorn-and-more/508453002/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 April 2019 about [Central High](../../topics/central-high/index.md), [Sheila E.](../../topics/sheila-e/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/pick-six-praise-for-lil-nas-x-bob-mould-zedd-jay-s-longhorn-and-more/508453002/))
+
+----
+
+## March 2019
+
+ - [**"Paisley Park rocks again with four of Prince's female protégées in concert"**](http://www.startribune.com/paisley-park-rocks-again-with-four-of-prince-s-female-protegees-in-concert/507037812/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 March 2019 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Donna Grantis](../../topics/donna-grantis/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Shelby J.](../../topics/shelby-j/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-rocks-again-with-four-of-prince-s-female-protegees-in-concert/507037812/))
+
+----
+
+## February 2019
+
+ - [**"AM Prep-Music -- SHEILA E. WILL PERFORM AT TIMBERWOLVES GAME"**](https://apnews.com/8101441d66a44dd9a5831ab40423f32c) in [Associated Press News](https://apnews.com/) on 8 February 2019 about [Celebration](../../topics/celebration/index.md), [Minnesota Timberwolves](../../topics/minnesota-timberwolves/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Timberwolves](../../topics/timberwolves/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/8101441d66a44dd9a5831ab40423f32c))
+
+----
+
+ - [**"Sheila E. to perform at Timberwolves halftime Feb. 13"**](https://apnews.com/e312ae64d71e4f17b589704e4e2314ac) in [Associated Press News](https://apnews.com/) on 7 February 2019 about [Celebration](../../topics/celebration/index.md), [Minnesota Timberwolves](../../topics/minnesota-timberwolves/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Timberwolves](../../topics/timberwolves/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/e312ae64d71e4f17b589704e4e2314ac))
+
+----
+
+ - [**"Sheila E. to perform at Timberwolves halftime Feb. 13"**](http://www.startribune.com/sheila-e-to-perform-at-timberwolves-halftime-feb-13/505512282/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 7 February 2019 about [Minnesota Timberwolves](../../topics/minnesota-timberwolves/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Timberwolves](../../topics/timberwolves/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/sheila-e-to-perform-at-timberwolves-halftime-feb-13/505512282/))
+
+----
+
+[Home](../)

@@ -1,16 +1,16 @@
 # Super Bowl
 
-  * 2019: 
-      [July](./super-bowl-2019-07.md) (1) | 
-  * 2018: 
-      [February](./super-bowl-2018-02.md) (4) | 
-      [January](./super-bowl-2018-01.md) (4) | 
-  * 2017: 
-      [December](./super-bowl-2017-12.md) (2) | 
-      [November](./super-bowl-2017-11.md) (1) | 
-      [August](./super-bowl-2017-08.md) (1) | 
-  * 2016: 
-      [April](./super-bowl-2016-04.md) (4) | 
+  * [2019](./super-bowl-2019.md): 
+      July (1) | 
+  * [2018](./super-bowl-2018.md): 
+      February (4) | 
+      January (4) | 
+  * [2017](./super-bowl-2017.md): 
+      December (2) | 
+      November (1) | 
+      August (1) | 
+  * [2016](./super-bowl-2016.md): 
+      April (4) | 
 
 ----
 

@@ -1,19 +1,19 @@
 # Charles Koppelman
 
-  * 2019: 
-      [April](./charles-koppelman-2019-04.md) (1) | 
-  * 2018: 
-      [July](./charles-koppelman-2018-07.md) (1) | 
-  * 2017: 
-      [May](./charles-koppelman-2017-05.md) (1) | 
-      [April](./charles-koppelman-2017-04.md) (3) | 
-      [February](./charles-koppelman-2017-02.md) (1) | 
-      [January](./charles-koppelman-2017-01.md) (2) | 
-  * 2016: 
-      [December](./charles-koppelman-2016-12.md) (1) | 
-      [November](./charles-koppelman-2016-11.md) (1) | 
-      [September](./charles-koppelman-2016-09.md) (1) | 
-      [June](./charles-koppelman-2016-06.md) (2) | 
+  * [2019](./charles-koppelman-2019.md): 
+      April (1) | 
+  * [2018](./charles-koppelman-2018.md): 
+      July (1) | 
+  * [2017](./charles-koppelman-2017.md): 
+      May (1) | 
+      April (3) | 
+      February (1) | 
+      January (2) | 
+  * [2016](./charles-koppelman-2016.md): 
+      December (1) | 
+      November (1) | 
+      September (1) | 
+      June (2) | 
 
 ----
 

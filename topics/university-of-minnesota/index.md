@@ -1,15 +1,15 @@
 # University of Minnesota
 
-  * 2019: 
-      [May](./university-of-minnesota-2019-05.md) (1) | 
-      [April](./university-of-minnesota-2019-04.md) (1) | 
-  * 2018: 
-      [September](./university-of-minnesota-2018-09.md) (5) | 
-      [August](./university-of-minnesota-2018-08.md) (1) | 
-  * 2016: 
-      [December](./university-of-minnesota-2016-12.md) (1) | 
-      [May](./university-of-minnesota-2016-05.md) (1) | 
-      [April](./university-of-minnesota-2016-04.md) (1) | 
+  * [2019](./university-of-minnesota-2019.md): 
+      May (1) | 
+      April (1) | 
+  * [2018](./university-of-minnesota-2018.md): 
+      September (5) | 
+      August (1) | 
+  * [2016](./university-of-minnesota-2016.md): 
+      December (1) | 
+      May (1) | 
+      April (1) | 
 
 ----
 

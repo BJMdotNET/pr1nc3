@@ -1,22 +1,22 @@
 # 3rdEyeGirl
 
-  * 2019: 
-      [March](./3rdeyegirl-2019-03.md) (3) | 
-  * 2018: 
-      [April](./3rdeyegirl-2018-04.md) (2) | 
-  * 2017: 
-      [April](./3rdeyegirl-2017-04.md) (1) | 
-  * 2016: 
-      [November](./3rdeyegirl-2016-11.md) (3) | 
-      [September](./3rdeyegirl-2016-09.md) (1) | 
-      [April](./3rdeyegirl-2016-04.md) (3) | 
-  * 2015: 
-      [October](./3rdeyegirl-2015-10.md) (2) | 
-      [September](./3rdeyegirl-2015-09.md) (1) | 
-      [March](./3rdeyegirl-2015-03.md) (1) | 
-  * 2014: 
-      [September](./3rdeyegirl-2014-09.md) (1) | 
-      [February](./3rdeyegirl-2014-02.md) (2) | 
+  * [2019](./3rdeyegirl-2019.md): 
+      March (3) | 
+  * [2018](./3rdeyegirl-2018.md): 
+      April (2) | 
+  * [2017](./3rdeyegirl-2017.md): 
+      April (1) | 
+  * [2016](./3rdeyegirl-2016.md): 
+      November (3) | 
+      September (1) | 
+      April (3) | 
+  * [2015](./3rdeyegirl-2015.md): 
+      October (2) | 
+      September (1) | 
+      March (1) | 
+  * [2014](./3rdeyegirl-2014.md): 
+      September (1) | 
+      February (2) | 
 
 ----
 

@@ -1,20 +1,20 @@
 # Norrine Nelson
 
-  * 2019: 
-      [April](./norrine-nelson-2019-04.md) (1) | 
-  * 2018: 
-      [May](./norrine-nelson-2018-05.md) (1) | 
-  * 2017: 
-      [November](./norrine-nelson-2017-11.md) (1) | 
-      [October](./norrine-nelson-2017-10.md) (1) | 
-      [September](./norrine-nelson-2017-09.md) (1) | 
-      [June](./norrine-nelson-2017-06.md) (1) | 
-      [May](./norrine-nelson-2017-05.md) (2) | 
-      [April](./norrine-nelson-2017-04.md) (1) | 
-  * 2016: 
-      [October](./norrine-nelson-2016-10.md) (3) | 
-      [July](./norrine-nelson-2016-07.md) (1) | 
-      [May](./norrine-nelson-2016-05.md) (3) | 
+  * [2019](./norrine-nelson-2019.md): 
+      April (1) | 
+  * [2018](./norrine-nelson-2018.md): 
+      May (1) | 
+  * [2017](./norrine-nelson-2017.md): 
+      November (1) | 
+      October (1) | 
+      September (1) | 
+      June (1) | 
+      May (2) | 
+      April (1) | 
+  * [2016](./norrine-nelson-2016.md): 
+      October (3) | 
+      July (1) | 
+      May (3) | 
 
 ----
 

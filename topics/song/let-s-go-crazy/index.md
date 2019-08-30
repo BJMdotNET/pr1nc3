@@ -1,25 +1,25 @@
 # Let’s Go Crazy (song)
 
-  * 2019: 
-      [August](./let-s-go-crazy-song-2019-08.md) (3) | 
-      [July](./let-s-go-crazy-song-2019-07.md) (4) | 
-      [June](./let-s-go-crazy-song-2019-06.md) (3) | 
-  * 2018: 
-      [October](./let-s-go-crazy-song-2018-10.md) (3) | 
-  * 2017: 
-      [June](./let-s-go-crazy-song-2017-06.md) (1) | 
-      [April](./let-s-go-crazy-song-2017-04.md) (2) | 
-  * 2016: 
-      [December](./let-s-go-crazy-song-2016-12.md) (1) | 
-      [November](./let-s-go-crazy-song-2016-11.md) (1) | 
-      [August](./let-s-go-crazy-song-2016-08.md) (3) | 
-      [July](./let-s-go-crazy-song-2016-07.md) (1) | 
-      [May](./let-s-go-crazy-song-2016-05.md) (1) | 
-      [April](./let-s-go-crazy-song-2016-04.md) (3) | 
-  * 2013: 
-      [March](./let-s-go-crazy-song-2013-03.md) (1) | 
-  * 1985: 
-      [March](./let-s-go-crazy-song-1985-03.md) (1) | 
+  * [2019](./let-s-go-crazy-song-2019.md): 
+      August (3) | 
+      July (4) | 
+      June (3) | 
+  * [2018](./let-s-go-crazy-song-2018.md): 
+      October (3) | 
+  * [2017](./let-s-go-crazy-song-2017.md): 
+      June (1) | 
+      April (2) | 
+  * [2016](./let-s-go-crazy-song-2016.md): 
+      December (1) | 
+      November (1) | 
+      August (3) | 
+      July (1) | 
+      May (1) | 
+      April (3) | 
+  * [2013](./let-s-go-crazy-song-2013.md): 
+      March (1) | 
+  * [1985](./let-s-go-crazy-song-1985.md): 
+      March (1) | 
 
 ----
 

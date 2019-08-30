@@ -1,10 +1,10 @@
 # Mark Metz
 
-  * 2018: 
-      [April](./mark-metz-2018-04.md) (10) | 
-      [March](./mark-metz-2018-03.md) (2) | 
-  * 2016: 
-      [April](./mark-metz-2016-04.md) (1) | 
+  * [2018](./mark-metz-2018.md): 
+      April (10) | 
+      March (2) | 
+  * [2016](./mark-metz-2016.md): 
+      April (1) | 
 
 ----
 

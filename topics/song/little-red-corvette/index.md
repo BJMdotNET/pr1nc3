@@ -1,22 +1,22 @@
 # Little Red Corvette (song)
 
-  * 2019: 
-      [June](./little-red-corvette-song-2019-06.md) (1) | 
-      [April](./little-red-corvette-song-2019-04.md) (1) | 
-  * 2018: 
-      [June](./little-red-corvette-song-2018-06.md) (1) | 
-  * 2017: 
-      [February](./little-red-corvette-song-2017-02.md) (1) | 
-  * 2016: 
-      [December](./little-red-corvette-song-2016-12.md) (1) | 
-      [November](./little-red-corvette-song-2016-11.md) (1) | 
-      [September](./little-red-corvette-song-2016-09.md) (1) | 
-      [June](./little-red-corvette-song-2016-06.md) (1) | 
-      [April](./little-red-corvette-song-2016-04.md) (8) | 
-  * 2014: 
-      [July](./little-red-corvette-song-2014-07.md) (1) | 
-  * 2013: 
-      [March](./little-red-corvette-song-2013-03.md) (1) | 
+  * [2019](./little-red-corvette-song-2019.md): 
+      June (1) | 
+      April (1) | 
+  * [2018](./little-red-corvette-song-2018.md): 
+      June (1) | 
+  * [2017](./little-red-corvette-song-2017.md): 
+      February (1) | 
+  * [2016](./little-red-corvette-song-2016.md): 
+      December (1) | 
+      November (1) | 
+      September (1) | 
+      June (1) | 
+      April (8) | 
+  * [2014](./little-red-corvette-song-2014.md): 
+      July (1) | 
+  * [2013](./little-red-corvette-song-2013.md): 
+      March (1) | 
 
 ----
 

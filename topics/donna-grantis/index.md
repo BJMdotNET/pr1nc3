@@ -1,20 +1,20 @@
 # Donna Grantis
 
-  * 2019: 
-      [March](./donna-grantis-2019-03.md) (5) | 
-  * 2018: 
-      [April](./donna-grantis-2018-04.md) (1) | 
-  * 2017: 
-      [August](./donna-grantis-2017-08.md) (1) | 
-      [July](./donna-grantis-2017-07.md) (1) | 
-  * 2016: 
-      [November](./donna-grantis-2016-11.md) (1) | 
-      [April](./donna-grantis-2016-04.md) (1) | 
-  * 2015: 
-      [October](./donna-grantis-2015-10.md) (2) | 
-  * 2014: 
-      [September](./donna-grantis-2014-09.md) (1) | 
-      [February](./donna-grantis-2014-02.md) (1) | 
+  * [2019](./donna-grantis-2019.md): 
+      March (5) | 
+  * [2018](./donna-grantis-2018.md): 
+      April (1) | 
+  * [2017](./donna-grantis-2017.md): 
+      August (1) | 
+      July (1) | 
+  * [2016](./donna-grantis-2016.md): 
+      November (1) | 
+      April (1) | 
+  * [2015](./donna-grantis-2015.md): 
+      October (2) | 
+  * [2014](./donna-grantis-2014.md): 
+      September (1) | 
+      February (1) | 
 
 ----
 

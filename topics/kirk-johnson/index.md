@@ -1,19 +1,19 @@
 # Kirk Johnson
 
-  * 2019: 
-      [August](./kirk-johnson-2019-08.md) (1) | 
-      [July](./kirk-johnson-2019-07.md) (2) | 
-  * 2018: 
-      [April](./kirk-johnson-2018-04.md) (13) | 
-  * 2017: 
-      [April](./kirk-johnson-2017-04.md) (3) | 
-  * 2016: 
-      [November](./kirk-johnson-2016-11.md) (1) | 
-      [June](./kirk-johnson-2016-06.md) (1) | 
-      [May](./kirk-johnson-2016-05.md) (4) | 
-      [April](./kirk-johnson-2016-04.md) (1) | 
-  * 2015: 
-      [October](./kirk-johnson-2015-10.md) (1) | 
+  * [2019](./kirk-johnson-2019.md): 
+      August (1) | 
+      July (2) | 
+  * [2018](./kirk-johnson-2018.md): 
+      April (13) | 
+  * [2017](./kirk-johnson-2017.md): 
+      April (3) | 
+  * [2016](./kirk-johnson-2016.md): 
+      November (1) | 
+      June (1) | 
+      May (4) | 
+      April (1) | 
+  * [2015](./kirk-johnson-2015.md): 
+      October (1) | 
 
 ----
 

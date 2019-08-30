@@ -1,34 +1,34 @@
 # First Avenue (place)
 
-  * 2019: 
-      [August](./first-avenue-place-2019-08.md) (2) | 
-      [July](./first-avenue-place-2019-07.md) (5) | 
-      [June](./first-avenue-place-2019-06.md) (2) | 
-      [May](./first-avenue-place-2019-05.md) (3) | 
-      [April](./first-avenue-place-2019-04.md) (3) | 
-  * 2018: 
-      [December](./first-avenue-place-2018-12.md) (1) | 
-      [October](./first-avenue-place-2018-10.md) (1) | 
-      [July](./first-avenue-place-2018-07.md) (2) | 
-      [April](./first-avenue-place-2018-04.md) (1) | 
-      [February](./first-avenue-place-2018-02.md) (1) | 
-      [January](./first-avenue-place-2018-01.md) (2) | 
-  * 2017: 
-      [December](./first-avenue-place-2017-12.md) (1) | 
-      [August](./first-avenue-place-2017-08.md) (1) | 
-      [May](./first-avenue-place-2017-05.md) (1) | 
-      [April](./first-avenue-place-2017-04.md) (6) | 
-  * 2016: 
-      [December](./first-avenue-place-2016-12.md) (3) | 
-      [November](./first-avenue-place-2016-11.md) (2) | 
-      [September](./first-avenue-place-2016-09.md) (1) | 
-      [July](./first-avenue-place-2016-07.md) (2) | 
-      [June](./first-avenue-place-2016-06.md) (3) | 
-      [April](./first-avenue-place-2016-04.md) (7) | 
-  * 2015: 
-      [April](./first-avenue-place-2015-04.md) (1) | 
-  * 2014: 
-      [July](./first-avenue-place-2014-07.md) (1) | 
+  * [2019](./first-avenue-place-2019.md): 
+      August (2) | 
+      July (5) | 
+      June (2) | 
+      May (3) | 
+      April (3) | 
+  * [2018](./first-avenue-place-2018.md): 
+      December (1) | 
+      October (1) | 
+      July (2) | 
+      April (1) | 
+      February (1) | 
+      January (2) | 
+  * [2017](./first-avenue-place-2017.md): 
+      December (1) | 
+      August (1) | 
+      May (1) | 
+      April (6) | 
+  * [2016](./first-avenue-place-2016.md): 
+      December (3) | 
+      November (2) | 
+      September (1) | 
+      July (2) | 
+      June (3) | 
+      April (7) | 
+  * [2015](./first-avenue-place-2015.md): 
+      April (1) | 
+  * [2014](./first-avenue-place-2014.md): 
+      July (1) | 
 
 ----
 

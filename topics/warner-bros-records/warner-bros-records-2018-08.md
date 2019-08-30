@@ -1,7 +1,0 @@
-# Warner Bros. Records: August 2018
-
- - [**"Prince Estate and Sony Release 23 Long-Unavailable Albums Digitally"**](https://variety.com/2018/biz/news/prince-estate-and-sony-release-23-long-unavailable-albums-digitally-1202908647/) in [Variety](https://variety.com/) on 17 August 2018 about [3121 (album)](../../topics/album/3121/index.md), [Chaos and Disorder (album)](../../topics/album/chaos-and-disorder/index.md), [Crystal Ball (album)](../../topics/album/crystal-ball/index.md), [Emancipation (album)](../../topics/album/emancipation/index.md), [Legacy Recordings](../../topics/legacy-recordings/index.md), [Prince Anthology: 1995-2010 (album)](../../topics/album/prince-anthology-1995-2010/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Rave In2 the Joy Fantastic (album)](../../topics/album/rave-in2-the-joy-fantastic/index.md), [Rave Un2 the Joy Fantastic (album)](../../topics/album/rave-un2-the-joy-fantastic/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2018/biz/news/prince-estate-and-sony-release-23-long-unavailable-albums-digitally-1202908647/))
-
-----
-
-[Home](./)

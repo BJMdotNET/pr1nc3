@@ -1,13 +1,13 @@
 # Michael Todd Schulenberg
 
-  * 2018: 
-      [April](./michael-todd-schulenberg-2018-04.md) (9) | 
-  * 2017: 
-      [April](./michael-todd-schulenberg-2017-04.md) (2) | 
-  * 2016: 
-      [August](./michael-todd-schulenberg-2016-08.md) (2) | 
-      [June](./michael-todd-schulenberg-2016-06.md) (2) | 
-      [May](./michael-todd-schulenberg-2016-05.md) (4) | 
+  * [2018](./michael-todd-schulenberg-2018.md): 
+      April (9) | 
+  * [2017](./michael-todd-schulenberg-2017.md): 
+      April (2) | 
+  * [2016](./michael-todd-schulenberg-2016.md): 
+      August (2) | 
+      June (2) | 
+      May (4) | 
 
 ----
 

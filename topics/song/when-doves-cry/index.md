@@ -1,22 +1,22 @@
 # When Doves Cry (song)
 
-  * 2019: 
-      [July](./when-doves-cry-song-2019-07.md) (5) | 
-      [June](./when-doves-cry-song-2019-06.md) (4) | 
-      [May](./when-doves-cry-song-2019-05.md) (1) | 
-  * 2018: 
-      [November](./when-doves-cry-song-2018-11.md) (1) | 
-  * 2017: 
-      [November](./when-doves-cry-song-2017-11.md) (1) | 
-      [June](./when-doves-cry-song-2017-06.md) (1) | 
-      [April](./when-doves-cry-song-2017-04.md) (1) | 
-      [January](./when-doves-cry-song-2017-01.md) (1) | 
-  * 2016: 
-      [August](./when-doves-cry-song-2016-08.md) (1) | 
-      [June](./when-doves-cry-song-2016-06.md) (1) | 
-      [April](./when-doves-cry-song-2016-04.md) (7) | 
-  * 2014: 
-      [July](./when-doves-cry-song-2014-07.md) (1) | 
+  * [2019](./when-doves-cry-song-2019.md): 
+      July (5) | 
+      June (4) | 
+      May (1) | 
+  * [2018](./when-doves-cry-song-2018.md): 
+      November (1) | 
+  * [2017](./when-doves-cry-song-2017.md): 
+      November (1) | 
+      June (1) | 
+      April (1) | 
+      January (1) | 
+  * [2016](./when-doves-cry-song-2016.md): 
+      August (1) | 
+      June (1) | 
+      April (7) | 
+  * [2014](./when-doves-cry-song-2014.md): 
+      July (1) | 
 
 ----
 

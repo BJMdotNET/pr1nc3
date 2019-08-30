@@ -1,21 +1,21 @@
 # Graceland
 
-  * 2019: 
-      [August](./graceland-2019-08.md) (1) | 
-      [April](./graceland-2019-04.md) (1) | 
-  * 2018: 
-      [August](./graceland-2018-08.md) (1) | 
-      [July](./graceland-2018-07.md) (1) | 
-      [April](./graceland-2018-04.md) (1) | 
-  * 2017: 
-      [April](./graceland-2017-04.md) (3) | 
-  * 2016: 
-      [November](./graceland-2016-11.md) (1) | 
-      [October](./graceland-2016-10.md) (3) | 
-      [September](./graceland-2016-09.md) (2) | 
-      [August](./graceland-2016-08.md) (2) | 
-      [June](./graceland-2016-06.md) (2) | 
-      [May](./graceland-2016-05.md) (1) | 
+  * [2019](./graceland-2019.md): 
+      August (1) | 
+      April (1) | 
+  * [2018](./graceland-2018.md): 
+      August (1) | 
+      July (1) | 
+      April (1) | 
+  * [2017](./graceland-2017.md): 
+      April (3) | 
+  * [2016](./graceland-2016.md): 
+      November (1) | 
+      October (3) | 
+      September (2) | 
+      August (2) | 
+      June (2) | 
+      May (1) | 
 
 ----
 

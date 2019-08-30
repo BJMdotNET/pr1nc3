@@ -1,16 +1,16 @@
 # Dan Browning
 
-  * 2018: 
-      [April](./dan-browning-2018-04.md) (1) | 
-  * 2017: 
-      [January](./dan-browning-2017-01.md) (1) | 
-  * 2016: 
-      [September](./dan-browning-2016-09.md) (1) | 
-      [August](./dan-browning-2016-08.md) (1) | 
-      [July](./dan-browning-2016-07.md) (1) | 
-      [June](./dan-browning-2016-06.md) (6) | 
-      [May](./dan-browning-2016-05.md) (4) | 
-      [April](./dan-browning-2016-04.md) (1) | 
+  * [2018](./dan-browning-2018.md): 
+      April (1) | 
+  * [2017](./dan-browning-2017.md): 
+      January (1) | 
+  * [2016](./dan-browning-2016.md): 
+      September (1) | 
+      August (1) | 
+      July (1) | 
+      June (6) | 
+      May (4) | 
+      April (1) | 
 
 ----
 

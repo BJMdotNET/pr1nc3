@@ -1,13 +1,13 @@
 # Obama
 
-  * 2019: 
-      [August](./obama-2019-08.md) (1) | 
-      [January](./obama-2019-01.md) (1) | 
-  * 2017: 
-      [December](./obama-2017-12.md) (1) | 
-  * 2016: 
-      [November](./obama-2016-11.md) (1) | 
-      [April](./obama-2016-04.md) (8) | 
+  * [2019](./obama-2019.md): 
+      August (1) | 
+      January (1) | 
+  * [2017](./obama-2017.md): 
+      December (1) | 
+  * [2016](./obama-2016.md): 
+      November (1) | 
+      April (8) | 
 
 ----
 

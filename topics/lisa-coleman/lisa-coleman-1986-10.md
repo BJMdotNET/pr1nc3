@@ -1,7 +1,0 @@
-# Lisa Coleman: October 1986
-
- - [**"People In The News"**](https://apnews.com/68d6ee2a071cbb3c83fc9defc5343edb) in [Associated Press News](https://apnews.com/) on 17 October 1986 about [Dakota (place)](../../topics/place/dakota/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [PRINCEss](../../topics/princess/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/68d6ee2a071cbb3c83fc9defc5343edb))
-
-----
-
-[Home](./)

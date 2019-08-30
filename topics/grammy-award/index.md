@@ -1,23 +1,23 @@
 # Grammy Award
 
-  * 2019: 
-      [July](./grammy-award-2019-07.md) (1) | 
-      [June](./grammy-award-2019-06.md) (1) | 
-      [April](./grammy-award-2019-04.md) (2) | 
-  * 2018: 
-      [December](./grammy-award-2018-12.md) (1) | 
-  * 2017: 
-      [April](./grammy-award-2017-04.md) (1) | 
-      [February](./grammy-award-2017-02.md) (1) | 
-  * 2016: 
-      [December](./grammy-award-2016-12.md) (2) | 
-      [April](./grammy-award-2016-04.md) (5) | 
-  * 2014: 
-      [December](./grammy-award-2014-12.md) (1) | 
-  * 1986: 
-      [July](./grammy-award-1986-07.md) (1) | 
-  * 1985: 
-      [February](./grammy-award-1985-02.md) (1) | 
+  * [2019](./grammy-award-2019.md): 
+      July (1) | 
+      June (1) | 
+      April (2) | 
+  * [2018](./grammy-award-2018.md): 
+      December (1) | 
+  * [2017](./grammy-award-2017.md): 
+      April (1) | 
+      February (1) | 
+  * [2016](./grammy-award-2016.md): 
+      December (2) | 
+      April (5) | 
+  * [2014](./grammy-award-2014.md): 
+      December (1) | 
+  * [1986](./grammy-award-1986.md): 
+      July (1) | 
+  * [1985](./grammy-award-1985.md): 
+      February (1) | 
 
 ----
 

@@ -1,14 +1,14 @@
 # Vanity 6
 
-  * 2019: 
-      [June](./vanity-6-2019-06.md) (5) | 
-      [April](./vanity-6-2019-04.md) (3) | 
-  * 2018: 
-      [June](./vanity-6-2018-06.md) (2) | 
-  * 2016: 
-      [December](./vanity-6-2016-12.md) (2) | 
-      [April](./vanity-6-2016-04.md) (1) | 
-      [February](./vanity-6-2016-02.md) (2) | 
+  * [2019](./vanity-6-2019.md): 
+      June (5) | 
+      April (3) | 
+  * [2018](./vanity-6-2018.md): 
+      June (2) | 
+  * [2016](./vanity-6-2016.md): 
+      December (2) | 
+      April (1) | 
+      February (2) | 
 
 ----
 

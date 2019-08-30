@@ -1,31 +1,31 @@
 # Tyka Nelson
 
-  * 2019: 
-      [July](./tyka-nelson-2019-07.md) (1) | 
-      [April](./tyka-nelson-2019-04.md) (1) | 
-  * 2018: 
-      [September](./tyka-nelson-2018-09.md) (1) | 
-      [July](./tyka-nelson-2018-07.md) (1) | 
-      [May](./tyka-nelson-2018-05.md) (1) | 
-      [April](./tyka-nelson-2018-04.md) (2) | 
-      [March](./tyka-nelson-2018-03.md) (1) | 
-  * 2017: 
-      [November](./tyka-nelson-2017-11.md) (1) | 
-      [October](./tyka-nelson-2017-10.md) (2) | 
-      [September](./tyka-nelson-2017-09.md) (1) | 
-      [June](./tyka-nelson-2017-06.md) (1) | 
-      [May](./tyka-nelson-2017-05.md) (2) | 
-      [April](./tyka-nelson-2017-04.md) (3) | 
-      [January](./tyka-nelson-2017-01.md) (1) | 
-  * 2016: 
-      [November](./tyka-nelson-2016-11.md) (1) | 
-      [October](./tyka-nelson-2016-10.md) (6) | 
-      [September](./tyka-nelson-2016-09.md) (1) | 
-      [August](./tyka-nelson-2016-08.md) (2) | 
-      [July](./tyka-nelson-2016-07.md) (1) | 
-      [June](./tyka-nelson-2016-06.md) (6) | 
-      [May](./tyka-nelson-2016-05.md) (9) | 
-      [April](./tyka-nelson-2016-04.md) (8) | 
+  * [2019](./tyka-nelson-2019.md): 
+      July (1) | 
+      April (1) | 
+  * [2018](./tyka-nelson-2018.md): 
+      September (1) | 
+      July (1) | 
+      May (1) | 
+      April (2) | 
+      March (1) | 
+  * [2017](./tyka-nelson-2017.md): 
+      November (1) | 
+      October (2) | 
+      September (1) | 
+      June (1) | 
+      May (2) | 
+      April (3) | 
+      January (1) | 
+  * [2016](./tyka-nelson-2016.md): 
+      November (1) | 
+      October (6) | 
+      September (1) | 
+      August (2) | 
+      July (1) | 
+      June (6) | 
+      May (9) | 
+      April (8) | 
 
 ----
 

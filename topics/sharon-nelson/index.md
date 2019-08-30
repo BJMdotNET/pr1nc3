@@ -1,24 +1,24 @@
 # Sharon Nelson
 
-  * 2019: 
-      [August](./sharon-nelson-2019-08.md) (1) | 
-      [April](./sharon-nelson-2019-04.md) (1) | 
-  * 2018: 
-      [July](./sharon-nelson-2018-07.md) (1) | 
-      [May](./sharon-nelson-2018-05.md) (1) | 
-      [April](./sharon-nelson-2018-04.md) (2) | 
-      [March](./sharon-nelson-2018-03.md) (2) | 
-  * 2017: 
-      [November](./sharon-nelson-2017-11.md) (1) | 
-      [October](./sharon-nelson-2017-10.md) (1) | 
-      [September](./sharon-nelson-2017-09.md) (1) | 
-      [June](./sharon-nelson-2017-06.md) (1) | 
-      [May](./sharon-nelson-2017-05.md) (2) | 
-      [April](./sharon-nelson-2017-04.md) (1) | 
-  * 2016: 
-      [October](./sharon-nelson-2016-10.md) (1) | 
-      [July](./sharon-nelson-2016-07.md) (1) | 
-      [May](./sharon-nelson-2016-05.md) (3) | 
+  * [2019](./sharon-nelson-2019.md): 
+      August (1) | 
+      April (1) | 
+  * [2018](./sharon-nelson-2018.md): 
+      July (1) | 
+      May (1) | 
+      April (2) | 
+      March (2) | 
+  * [2017](./sharon-nelson-2017.md): 
+      November (1) | 
+      October (1) | 
+      September (1) | 
+      June (1) | 
+      May (2) | 
+      April (1) | 
+  * [2016](./sharon-nelson-2016.md): 
+      October (1) | 
+      July (1) | 
+      May (3) | 
 
 ----
 

@@ -1,21 +1,21 @@
 # Susan Rogers
 
-  * 2019: 
-      [July](./susan-rogers-2019-07.md) (1) | 
-      [June](./susan-rogers-2019-06.md) (5) | 
-      [May](./susan-rogers-2019-05.md) (1) | 
-  * 2018: 
-      [August](./susan-rogers-2018-08.md) (1) | 
-      [July](./susan-rogers-2018-07.md) (2) | 
-      [June](./susan-rogers-2018-06.md) (2) | 
-      [April](./susan-rogers-2018-04.md) (1) | 
-  * 2017: 
-      [November](./susan-rogers-2017-11.md) (1) | 
-  * 2016: 
-      [December](./susan-rogers-2016-12.md) (2) | 
-      [November](./susan-rogers-2016-11.md) (1) | 
-      [April](./susan-rogers-2016-04.md) (2) | 
-      [February](./susan-rogers-2016-02.md) (1) | 
+  * [2019](./susan-rogers-2019.md): 
+      July (1) | 
+      June (5) | 
+      May (1) | 
+  * [2018](./susan-rogers-2018.md): 
+      August (1) | 
+      July (2) | 
+      June (2) | 
+      April (1) | 
+  * [2017](./susan-rogers-2017.md): 
+      November (1) | 
+  * [2016](./susan-rogers-2016.md): 
+      December (2) | 
+      November (1) | 
+      April (2) | 
+      February (1) | 
 
 ----
 
