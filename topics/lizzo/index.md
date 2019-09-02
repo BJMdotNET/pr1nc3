@@ -1,6 +1,6 @@
 # Lizzo
 
- - [**"Lizzo, Prince, Freddie Mercury, and more music tributes in Minnesota State Fair crop art 2019"**](https://blog.thecurrent.org/2019/08/lizzo-prince-freddie-mercury-and-more-music-tributes-in-minnesota-state-fair-crop-art-2019/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 22 August 2019 about [exhibit](../../topics/exhibit/index.md), [Lizzo](../../topics/lizzo/index.md) ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2019/08/lizzo-prince-freddie-mercury-and-more-music-tributes-in-minnesota-state-fair-crop-art-2019/))
+ - [**"Lizzo, Prince, Freddie Mercury, and more music tributes in Minnesota State Fair crop art 2019"**](https://blog.thecurrent.org/2019/08/lizzo-prince-freddie-mercury-and-more-music-tributes-in-minnesota-state-fair-crop-art-2019/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 22 August 2019 about [exhibit](../../topics/exhibit/index.md), [Lizzo](../../topics/lizzo/index.md), [Minnesota State Fair](../../topics/minnesota-state-fair/index.md), [State Fair](../../topics/state-fair/index.md) ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2019/08/lizzo-prince-freddie-mercury-and-more-music-tributes-in-minnesota-state-fair-crop-art-2019/))
 
 ----
 
@@ -17,6 +17,10 @@
 ----
 
  - [**"Lizzo earns a big nod as Rolling Stone's 'Artist You Need to Know'"**](http://www.startribune.com/lizzo-earns-a-big-nod-as-rolling-stone-s-artist-you-need-to-know/489627651/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 31 July 2018 about [Lizzo](../../topics/lizzo/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/lizzo-earns-a-big-nod-as-rolling-stone-s-artist-you-need-to-know/489627651/))
+
+----
+
+ - [**"Prince celebrated with all-night dance party at First Avenue"**](http://www.fox9.com/entertainment/all-night-dance-party-at-first-avenue-to-honor-prince) in [Fox 9](http://www.fox9.com/) on 21 April 2016 about [First Avenue (place)](../../topics/place/first-avenue/index.md), [Lizzo](../../topics/lizzo/index.md) ([mirror](https://web.archive.org/web/*/http://www.fox9.com/entertainment/all-night-dance-party-at-first-avenue-to-honor-prince))
 
 ----
 

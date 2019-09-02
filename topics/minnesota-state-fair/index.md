@@ -1,0 +1,23 @@
+# Minnesota State Fair
+
+ - [**"Prince exhibit coming to the Minnesota State Fair next year -- Superstar's estate is planning exhibit with artifacts, merchandise and performances. "**](http://www.startribune.com/prince-exhibit-coming-to-the-minnesota-state-fair-next-year/558970762/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 31 August 2019 about [exhibit](../../topics/exhibit/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [merchandise](../../topics/merchandise/index.md), [Minnesota State Fair](../../topics/minnesota-state-fair/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [State Fair](../../topics/state-fair/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-exhibit-coming-to-the-minnesota-state-fair-next-year/558970762/))
+
+----
+
+ - [**"Lizzo, Prince, Freddie Mercury, and more music tributes in Minnesota State Fair crop art 2019"**](https://blog.thecurrent.org/2019/08/lizzo-prince-freddie-mercury-and-more-music-tributes-in-minnesota-state-fair-crop-art-2019/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 22 August 2019 about [exhibit](../../topics/exhibit/index.md), [Lizzo](../../topics/lizzo/index.md), [Minnesota State Fair](../../topics/minnesota-state-fair/index.md), [State Fair](../../topics/state-fair/index.md) ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2019/08/lizzo-prince-freddie-mercury-and-more-music-tributes-in-minnesota-state-fair-crop-art-2019/))
+
+----
+
+ - [**"No, seriously: Weird Al and his fans explain why he's so big at the Minnesota State Fair -- Weird Al Yankovic is headed to the Minnesota State Fair's grandstand. We talked to fans of the clever parodist. "**](http://www.startribune.com/no-seriously-weird-al-and-his-fans-explain-why-he-s-so-big-at-the-minnesota-state-fair/557878752/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 August 2019 about [First Avenue (place)](../../topics/place/first-avenue/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Minnesota State Fair](../../topics/minnesota-state-fair/index.md), [State Fair](../../topics/state-fair/index.md), [Weird Al Yankovic](../../topics/weird-al-yankovic/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/no-seriously-weird-al-and-his-fans-explain-why-he-s-so-big-at-the-minnesota-state-fair/557878752/))
+
+----
+
+ - [**"Prince is the star of the ‘homegrown legends’ in Minnesota State Fair ‘Floralpalooza’"**](https://blog.thecurrent.org/2019/08/prince-is-the-star-of-the-homegrown-legends-in-minnesota-state-fair-floralpalooza/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 22 August 2019 about [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Minnesota State Fair](../../topics/minnesota-state-fair/index.md), [State Fair](../../topics/state-fair/index.md) ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2019/08/prince-is-the-star-of-the-homegrown-legends-in-minnesota-state-fair-floralpalooza/))
+
+----
+
+ - [**"Photos: Minnesota State Fair celebrates Prince"**](https://blog.thecurrent.org/2016/08/photos-minnesota-state-fair-celebrates-prince/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 27 August 2016 about [Celebration](../../topics/celebration/index.md), [DJ Dudley D](../../topics/dj-dudley-d/index.md), [Minnesota State Fair](../../topics/minnesota-state-fair/index.md), [State Fair](../../topics/state-fair/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2016/08/photos-minnesota-state-fair-celebrates-prince/))
+
+----
+
+[Home](../)

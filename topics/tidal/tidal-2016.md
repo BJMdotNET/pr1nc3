@@ -6,6 +6,12 @@
 
 ----
 
+## May 2016
+
+ - [**"Judge authorizes DNA testing of Prince's blood for estate case"**](http://www.fox9.com/news/judge-authorizes-dna-testing-of-princes-blood-for-estate-case) in [Fox 9](http://www.fox9.com/) on 6 May 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [Carver County District Court](../../topics/carver-county-district-court/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Tidal](../../topics/tidal/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/http://www.fox9.com/news/judge-authorizes-dna-testing-of-princes-blood-for-estate-case))
+
+----
+
 ## April 2016
 
  - [**"Prince sells 1M songs, 231K albums posthumously"**](https://usatoday.com/story/life/music/2016/04/22/prince-sales-death/83376684/) in [USA Today](https://usatoday.com/) on 23 April 2016 about [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Tidal](../../topics/tidal/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2016/04/22/prince-sales-death/83376684/))

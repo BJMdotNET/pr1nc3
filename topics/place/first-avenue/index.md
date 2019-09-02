@@ -1,7 +1,7 @@
 # First Avenue (place)
 
   * [2019](./first-avenue-place-2019.md): 
-      August (2) | 
+      August (3) | 
       July (5) | 
       June (2) | 
       May (3) | 
@@ -24,7 +24,7 @@
       September (1) | 
       July (2) | 
       June (3) | 
-      April (7) | 
+      April (9) | 
   * [2015](./first-avenue-place-2015.md): 
       April (1) | 
   * [2014](./first-avenue-place-2014.md): 

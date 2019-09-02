@@ -12,6 +12,10 @@
 
 ----
 
+ - [**"Owen Husney reflects on meeting a teenage Prince: ‘He was not an icon then. He was a brilliant human being who was living in a basement’"**](https://blog.thecurrent.org/2018/04/owen-husney-reflects-on-meeting-a-teenage-prince-he-was-not-an-icon-then-he-was-a-brilliant-human-being-who-was-living-in-a-basement/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 17 April 2018 about [André Cymone](../../topics/andr-cymone/index.md), [Bobby Z.](../../topics/bobby-z/index.md), [Chris Moon](../../topics/chris-moon/index.md), [Cloud bass](../../topics/cloud-bass/index.md), [Cloud guitar](../../topics/cloud-guitar/index.md), [Dave Rusan](../../topics/dave-rusan/index.md), [For You (album)](../../topics/album/for-you/index.md), [James Brown](../../topics/james-brown/index.md), [memoir](../../topics/memoir/index.md), [Owen Husney](../../topics/owen-husney/index.md), [Record Plant](../../topics/record-plant/index.md), [Sausalito (place)](../../topics/place/sausalito/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md) ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2018/04/owen-husney-reflects-on-meeting-a-teenage-prince-he-was-not-an-icon-then-he-was-a-brilliant-human-being-who-was-living-in-a-basement/))
+
+----
+
  - [**"Prince’s band, The Revolution, pays tribute to him at Mohegan Sun’s Wolf Den"**](https://apnews.com/adb446ee03a044f8a94e407e19646fdd) in [Associated Press News](https://apnews.com/) on 5 August 2017 about [1999 (album)](../../topics/album/1999/index.md), [Bobby Z.](../../topics/bobby-z/index.md), [BrownMark](../../topics/brownmark/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Parade (album)](../../topics/album/parade/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [The Revolution](../../topics/the-revolution/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/adb446ee03a044f8a94e407e19646fdd))
 
 ----

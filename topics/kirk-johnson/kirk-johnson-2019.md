@@ -2,6 +2,10 @@
 
 ## August 2019
 
+ - [**"Prince exhibit coming to the Minnesota State Fair next year -- Superstar's estate is planning exhibit with artifacts, merchandise and performances. "**](http://www.startribune.com/prince-exhibit-coming-to-the-minnesota-state-fair-next-year/558970762/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 31 August 2019 about [exhibit](../../topics/exhibit/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [merchandise](../../topics/merchandise/index.md), [Minnesota State Fair](../../topics/minnesota-state-fair/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [State Fair](../../topics/state-fair/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-exhibit-coming-to-the-minnesota-state-fair-next-year/558970762/))
+
+----
+
  - [**"Prince’s Estate to Take Over Management of Paisley Park"**](https://variety.com/2019/music/news/prince-estate-take-over-paisley-park-1203316110/) in [Variety](https://variety.com/) on 27 August 2019 about [Ava DuVernay](../../topics/ava-duvernay/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [Joel Weinshanker](../../topics/joel-weinshanker/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [memoir](../../topics/memoir/index.md), [museum](../../topics/museum/index.md), [Netflix](../../topics/netflix/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/news/prince-estate-take-over-paisley-park-1203316110/))
 
 ----

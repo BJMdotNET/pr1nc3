@@ -10,7 +10,7 @@
       August (1) | 
       July (1) | 
       June (2) | 
-      April (1) | 
+      April (2) | 
   * [2017](./warner-bros-records-2017.md): 
       September (1) | 
       August (1) | 

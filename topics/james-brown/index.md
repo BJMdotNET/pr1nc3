@@ -5,6 +5,7 @@
       May (1) | 
   * [2018](./james-brown-2018.md): 
       August (1) | 
+      April (1) | 
   * [2017](./james-brown-2017.md): 
       November (1) | 
       June (1) | 

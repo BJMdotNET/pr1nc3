@@ -100,6 +100,14 @@
 
 ----
 
+ - [**"Mixed Blood forced to cancel party at Paisley Park"**](http://www.fox9.com/news/mixed-blood-forced-to-cancel-party-at-paisley-park) in [Fox 9](http://www.fox9.com/) on 7 May 2016 about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [John Nelson](../../topics/john-nelson/index.md), [Mixed Blood](../../topics/mixed-blood/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/http://www.fox9.com/news/mixed-blood-forced-to-cancel-party-at-paisley-park))
+
+----
+
+ - [**"Judge authorizes DNA testing of Prince's blood for estate case"**](http://www.fox9.com/news/judge-authorizes-dna-testing-of-princes-blood-for-estate-case) in [Fox 9](http://www.fox9.com/) on 6 May 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [Carver County District Court](../../topics/carver-county-district-court/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Tidal](../../topics/tidal/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/http://www.fox9.com/news/judge-authorizes-dna-testing-of-princes-blood-for-estate-case))
+
+----
+
  - [**"911 calls to Prince estate ranged from mundane to serious"**](https://apnews.com/b145542cfe0d4dfd945cabaa0c720696) in [Associated Press News](https://apnews.com/) on 4 May 2016 about [Carver County](../../topics/carver-county/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [Prince Estate](../../topics/prince-estate/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/b145542cfe0d4dfd945cabaa0c720696))
 
 ----
@@ -127,6 +135,10 @@
 ----
 
  - [**"The Latest: Investigators consider overdose in Prince death"**](https://apnews.com/0e807ab72bc349cf9d3c7e938ba80fbf) in [Associated Press News](https://apnews.com/) on 29 April 2016 about [Carver County](../../topics/carver-county/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/0e807ab72bc349cf9d3c7e938ba80fbf))
+
+----
+
+ - [**"Party at Paisley Park still planned for May 14"**](http://www.fox9.com/entertainment/party-at-paisley-park-still-planned-for-may-14) in [Fox 9](http://www.fox9.com/) on 28 April 2016 about [Carver County](../../topics/carver-county/index.md), [Mixed Blood](../../topics/mixed-blood/index.md) ([mirror](https://web.archive.org/web/*/http://www.fox9.com/entertainment/party-at-paisley-park-still-planned-for-may-14))
 
 ----
 
@@ -159,6 +171,10 @@
 ----
 
  - [**"Transcript of 911 call to Prince’s compound"**](https://apnews.com/2d6f0997c28e41d1902762d889e8bf19) in [Associated Press News](https://apnews.com/) on 22 April 2016 about [Audubon Road](../../topics/audubon-road/index.md), [Carver County](../../topics/carver-county/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/2d6f0997c28e41d1902762d889e8bf19))
+
+----
+
+ - [**"Prince dead at Paisley Park estate in Minnesota"**](http://www.fox9.com/news/emergency-medical-response-at-paisley-park) in [Fox 9](http://www.fox9.com/) on 21 April 2016 about [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Jim Olson](../../topics/jim-olson/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Minnesota Twins](../../topics/minnesota-twins/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [Obama](../../topics/obama/index.md), [Paisley Park Studios (place)](../../topics/place/paisley-park-studios/index.md), [Super Bowl](../../topics/super-bowl/index.md), [TMZ (website)](../../topics/website/tmz/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/http://www.fox9.com/news/emergency-medical-response-at-paisley-park))
 
 ----
 

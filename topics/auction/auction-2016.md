@@ -1,5 +1,11 @@
 # auction: 2016
 
+## September 2016
+
+ - [**"Mixed Blood Theatre Files Claim Against Late Musician Prince’s Estate -- The Minneapolis theatre company’s gala was canceled following Prince’s unexpected death."**](http://www.playbill.com/article/mixed-blood-theatre-files-claim-against-late-musician-princes-estate) in [Playbill](http://www.playbill.com/) on 13 September 2016 about [auction](../../topics/auction/index.md), [Bremer Trust](../../topics/bremer-trust/index.md), [Mixed Blood](../../topics/mixed-blood/index.md) ([mirror](https://web.archive.org/web/*/http://www.playbill.com/article/mixed-blood-theatre-files-claim-against-late-musician-princes-estate))
+
+----
+
 ## July 2016
 
  - [**"Handwritten letter from Paul McCartney to Prince sells for nearly $15K at auction -- The 2-page letter was requesting a donation to a performing arts school he was establishing."**](http://www.startribune.com/handwritten-letter-from-paul-mccartney-to-prince-sells-for-nearly-15k-at-auction/387473981/) by Paul Walsh in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 July 2016 about [auction](../../topics/auction/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/handwritten-letter-from-paul-mccartney-to-prince-sells-for-nearly-15k-at-auction/387473981/))
@@ -49,6 +55,10 @@
 ----
 
  - [**"Prince's 'Purple Rain' coat is up for auction"**](http://www.startribune.com/ap-exclusive-prince-s-purple-rain-coat-is-up-for-auction/377542161/) by Nicole Evatt (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 29 April 2016 about [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [auction](../../topics/auction/index.md), [motorcycle](../../topics/motorcycle/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/ap-exclusive-prince-s-purple-rain-coat-is-up-for-auction/377542161/))
+
+----
+
+ - [**"‘Prince wanted this event to happen’: Mixed Blood Theatre’s Paisley Park gala will go on as planned"**](https://blog.thecurrent.org/2016/04/prince-wanted-this-event-to-happen-mixed-blood-theatres-paisley-park-gala-will-go-on-as-planned/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 26 April 2016 about [auction](../../topics/auction/index.md), [Mixed Blood](../../topics/mixed-blood/index.md), [museum](../../topics/museum/index.md), [Sheila E.](../../topics/sheila-e/index.md) ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2016/04/prince-wanted-this-event-to-happen-mixed-blood-theatres-paisley-park-gala-will-go-on-as-planned/))
 
 ----
 

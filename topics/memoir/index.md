@@ -5,7 +5,7 @@
       April (4) | 
   * [2018](./memoir-2018.md): 
       June (1) | 
-      April (1) | 
+      April (2) | 
   * [2017](./memoir-2017.md): 
       August (1) | 
       April (3) | 

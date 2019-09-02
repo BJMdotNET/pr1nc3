@@ -80,6 +80,14 @@
 
 ----
 
+ - [**"Prince celebrated with all-night dance party at First Avenue"**](http://www.fox9.com/entertainment/all-night-dance-party-at-first-avenue-to-honor-prince) in [Fox 9](http://www.fox9.com/) on 21 April 2016 about [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Lizzo](../../../topics/lizzo/index.md) ([mirror](https://web.archive.org/web/*/http://www.fox9.com/entertainment/all-night-dance-party-at-first-avenue-to-honor-prince))
+
+----
+
+ - [**"Prince dead at Paisley Park estate in Minnesota"**](http://www.fox9.com/news/emergency-medical-response-at-paisley-park) in [Fox 9](http://www.fox9.com/) on 21 April 2016 about [Atlanta (place)](../../../topics/place/atlanta/index.md), [Carver County](../../../topics/carver-county/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Jim Olson](../../../topics/jim-olson/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Minnesota Twins](../../../topics/minnesota-twins/index.md), [Moline, Illinois (place)](../../../topics/place/moline-illinois/index.md), [Obama](../../../topics/obama/index.md), [Paisley Park Studios (place)](../../../topics/place/paisley-park-studios/index.md), [Super Bowl](../../../topics/super-bowl/index.md), [TMZ (website)](../../../topics/website/tmz/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/http://www.fox9.com/news/emergency-medical-response-at-paisley-park))
+
+----
+
  - [**"Revisit Prince's iconic first 'Purple Rain' performance"**](https://usatoday.com/story/life/entertainthis/2016/04/21/prince-first-performance-purple-rain-video/83346434/) by Maeve McDermott in [USA Today](https://usatoday.com/) on 21 April 2016 about [First Avenue (place)](../../../topics/place/first-avenue/index.md), [I Would Die 4 U (book)](../../../topics/book/i-would-die-4-u/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Touré](../../../topics/tour/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/entertainthis/2016/04/21/prince-first-performance-purple-rain-video/83346434/))
 
 ----

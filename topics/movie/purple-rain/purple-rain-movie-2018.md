@@ -2,6 +2,10 @@
 
 ## December 2018
 
+ - [**"The Cloud Bass"**](https://madcatsandclouds.com/2018/12/30/the-cloud-bass/) in [MADCATS & CLOUDS](https://madcatsandclouds.com/) on 30 December 2018 about [Cloud bass](../../../topics/cloud-bass/index.md), [Cloud guitar](../../../topics/cloud-guitar/index.md), [exhibit](../../../topics/exhibit/index.md), [exhibition](../../../topics/exhibition/index.md), [For You (album)](../../../topics/album/for-you/index.md), [Jeffrey Levin](../../../topics/jeffrey-levin/index.md), [Knut-Koupée Music](../../../topics/knut-koup-e-music/index.md), [Matt Umanov](../../../topics/matt-umanov/index.md), [Matt Umanov Guitars](../../../topics/matt-umanov-guitars/index.md), [museum](../../../topics/museum/index.md), [My Name Is Prince (exhibition)](../../../topics/exhibition/my-name-is-prince/index.md), [Owen Husney](../../../topics/owen-husney/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md), [Record Plant](../../../topics/record-plant/index.md), [Sardonyx](../../../topics/sardonyx/index.md), [Sausalito (place)](../../../topics/place/sausalito/index.md), [Smithsonian (place)](../../../topics/place/smithsonian/index.md) ([mirror](https://web.archive.org/web/*/https://madcatsandclouds.com/2018/12/30/the-cloud-bass/))
+
+----
+
  - [**"Prince estate sues maker of famous 'cloud guitar'"**](https://abc13.com/entertainment/prince-estate-sues-maker-of-famous-cloud-guitar/4848492/) in [abc13 News -- KTRK  Houston and Southeast Texas News](https://abc13.com/) on 7 December 2018 about [Cloud guitar](../../../topics/cloud-guitar/index.md), [Dave Rusan](../../../topics/dave-rusan/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md), [trademark](../../../topics/trademark/index.md) ([mirror](https://web.archive.org/web/*/https://abc13.com/entertainment/prince-estate-sues-maker-of-famous-cloud-guitar/4848492/))
 
 ----

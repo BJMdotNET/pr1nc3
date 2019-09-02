@@ -60,6 +60,10 @@
 
 ----
 
+ - [**"‘Prince wanted this event to happen’: Mixed Blood Theatre’s Paisley Park gala will go on as planned"**](https://blog.thecurrent.org/2016/04/prince-wanted-this-event-to-happen-mixed-blood-theatres-paisley-park-gala-will-go-on-as-planned/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 26 April 2016 about [auction](../../topics/auction/index.md), [Mixed Blood](../../topics/mixed-blood/index.md), [museum](../../topics/museum/index.md), [Sheila E.](../../topics/sheila-e/index.md) ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2016/04/prince-wanted-this-event-to-happen-mixed-blood-theatres-paisley-park-gala-will-go-on-as-planned/))
+
+----
+
  - [**"Prince was a one-man band and a friend to many others"**](https://apnews.com/508256962cd942f3bc61e1cc034900ad) in [Associated Press News](https://apnews.com/) on 25 April 2016 about [Bangles](../../topics/bangles/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Esperanza Spalding](../../topics/esperanza-spalding/index.md), [Grammy Award](../../topics/grammy-award/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Rita Ora](../../topics/rita-ora/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [YouTube](../../topics/youtube/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/508256962cd942f3bc61e1cc034900ad))
 
 ----

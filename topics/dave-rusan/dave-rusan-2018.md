@@ -18,6 +18,12 @@
 
 ----
 
+## April 2018
+
+ - [**"Owen Husney reflects on meeting a teenage Prince: ‘He was not an icon then. He was a brilliant human being who was living in a basement’"**](https://blog.thecurrent.org/2018/04/owen-husney-reflects-on-meeting-a-teenage-prince-he-was-not-an-icon-then-he-was-a-brilliant-human-being-who-was-living-in-a-basement/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 17 April 2018 about [André Cymone](../../topics/andr-cymone/index.md), [Bobby Z.](../../topics/bobby-z/index.md), [Chris Moon](../../topics/chris-moon/index.md), [Cloud bass](../../topics/cloud-bass/index.md), [Cloud guitar](../../topics/cloud-guitar/index.md), [Dave Rusan](../../topics/dave-rusan/index.md), [For You (album)](../../topics/album/for-you/index.md), [James Brown](../../topics/james-brown/index.md), [memoir](../../topics/memoir/index.md), [Owen Husney](../../topics/owen-husney/index.md), [Record Plant](../../topics/record-plant/index.md), [Sausalito (place)](../../topics/place/sausalito/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md) ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2018/04/owen-husney-reflects-on-meeting-a-teenage-prince-he-was-not-an-icon-then-he-was-a-brilliant-human-being-who-was-living-in-a-basement/))
+
+----
+
 ## February 2018
 
  - [**"Meet Dave Rusan, builder of Prince's iconic Cloud Guitar"**](https://www.thecurrent.org/feature/2018/02/15/meet-dave-rusan-builder-of-princes-iconic-cloud-guitar) in [The Current](https://www.thecurrent.org/) on 15 February 2018 about [Cloud guitar](../../topics/cloud-guitar/index.md), [Dave Rusan](../../topics/dave-rusan/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md) ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2018/02/15/meet-dave-rusan-builder-of-princes-iconic-cloud-guitar))

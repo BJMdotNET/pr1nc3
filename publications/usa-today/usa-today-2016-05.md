@@ -8,6 +8,10 @@
 
 ----
 
+ - [**"Prince's death, Day 18: Ex-wife speaks about loss of son"**](https://usatoday.com/story/life/people/2016/05/08/princes-death-day-18-ex-wife-speaks-loss-son/84109510/) in [USA Today](https://usatoday.com/) on 8 May 2016 ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/people/2016/05/08/princes-death-day-18-ex-wife-speaks-loss-son/84109510/))
+
+----
+
  - [**"Prince's death, Day 13: Woman reported Prince had bad cocaine habit in 2011"**](https://usatoday.com/story/life/people/2016/05/03/princes-death-day-13-latest-news-and-tributes/83866634/) in [USA Today](https://usatoday.com/) on 3 May 2016 ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/people/2016/05/03/princes-death-day-13-latest-news-and-tributes/83866634/))
 
 ----

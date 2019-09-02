@@ -1,7 +1,7 @@
 # merchandise
 
   * [2019](./merchandise-2019.md): 
-      August (2) | 
+      August (3) | 
       June (1) | 
       April (2) | 
   * [2018](./merchandise-2018.md): 

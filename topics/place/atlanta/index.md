@@ -8,7 +8,7 @@
       October (1) | 
       August (2) | 
       May (4) | 
-      April (6) | 
+      April (7) | 
   * [1985](./atlanta-place-1985.md): 
       March (1) | 
 

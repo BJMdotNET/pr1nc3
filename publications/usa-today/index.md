@@ -20,7 +20,7 @@
       [October](./usa-today-2016-10.md) (1) | 
       [August](./usa-today-2016-08.md) (2) | 
       [June](./usa-today-2016-06.md) (2) | 
-      [May](./usa-today-2016-05.md) (4) | 
+      [May](./usa-today-2016-05.md) (5) | 
       [April](./usa-today-2016-04.md) (8) | 
   * 2015: 
       [September](./usa-today-2015-09.md) (1) | 
