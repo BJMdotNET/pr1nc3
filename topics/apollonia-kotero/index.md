@@ -1,6 +1,7 @@
 # Apollonia Kotero
 
   * [2019](./apollonia-kotero-2019.md): 
+      September (1) | 
       July (2) | 
       June (3) | 
       March (2) | 

@@ -1,9 +1,10 @@
 # place
 
-  * [Atlanta (place)](./place/atlanta/) (21)
+  * [Atlanta (place)](./place/atlanta/) (22)
   * [Bel Air (place)](./place/bel-air/) (1)
   * [Capri Theater  (place)](./place/capri-theater/) (1)
   * [Capri Theatre (place)](./place/capri-theatre/) (1)
+  * [Country Inn & Suites (place)](./place/country-inn-suites/) (1)
   * [Dakota (place)](./place/dakota/) (7)
   * [Electric Fetus (place)](./place/electric-fetus/) (3)
   * [First Avenue (place)](./place/first-avenue/) (55)
@@ -14,7 +15,7 @@
   * [London (place)](./place/london/) (8)
   * [Mann’s Chinese Theatre (place)](./place/mann-s-chinese-theatre/) (1)
   * [Minneapolis-St. Paul International Airport (place)](./place/minneapolis-st-paul-international-airport/) (2)
-  * [Moline, Illinois (place)](./place/moline-illinois/) (16)
+  * [Moline, Illinois (place)](./place/moline-illinois/) (17)
   * [Moon Sound Studio (place)](./place/moon-sound-studio/) (1)
   * [North Memorial Medical Center (place)](./place/north-memorial-medical-center/) (4)
   * [Paisley Park Studios (place)](./place/paisley-park-studios/) (2)

@@ -1,6 +1,7 @@
 # Judith Hill
 
   * [2019](./judith-hill-2019.md): 
+      September (1) | 
       March (1) | 
   * [2018](./judith-hill-2018.md): 
       April (3) | 

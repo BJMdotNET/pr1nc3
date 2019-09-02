@@ -1,6 +1,7 @@
 # Moline, Illinois (place)
 
   * [2019](./moline-illinois-place-2019.md): 
+      September (1) | 
       June (1) | 
   * [2018](./moline-illinois-place-2018.md): 
       April (5) | 
