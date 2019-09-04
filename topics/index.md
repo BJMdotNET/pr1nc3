@@ -231,7 +231,6 @@
 
 ----
 
-  * [ Raphael Saadiq](./-raphael-saadiq/) (3)
   * ["Weird Al" Yankovic](./-weird-al-yankovic/) (1)
   * [3rdEyeGirl](./3rdeyegirl/) (20)
   * [Academy Award](./academy-award/) (9)
@@ -546,6 +545,7 @@
   * [Quincy Jones](./quincy-jones/) (5)
   * [Random House ](./random-house/) (6)
   * [Randy Grimmett](./randy-grimmett/) (1)
+  * [Raphael Saadiq](./raphael-saadiq/) (3)
   * [Record Plant](./record-plant/) (2)
   * [Richard Pryor](./richard-pryor/) (1)
   * [Richard Robinson](./richard-robinson/) (1)

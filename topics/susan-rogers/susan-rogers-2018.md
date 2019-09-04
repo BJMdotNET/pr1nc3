@@ -2,7 +2,7 @@
 
 ## August 2018
 
- - [**"Susan Rogers on her four intense years working for Prince -- Susan Rogers was Prince's sound engineer on albums including Purple Rain and Sign o' the Times. It was four years of her life that left a huge impression, she tells Tony Stamp."**](https://www.rnz.co.nz/national/programmes/nat-music/audio/2018657684/susan-rogers-on-her-four-intense-years-working-for-prince) in [www.rnz.co.nz](https://www.rnz.co.nz/) on 11 August 2018 about [Owen Husney](../../topics/owen-husney/index.md), [Susan Rogers](../../topics/susan-rogers/index.md) ([mirror](https://web.archive.org/web/*/https://www.rnz.co.nz/national/programmes/nat-music/audio/2018657684/susan-rogers-on-her-four-intense-years-working-for-prince))
+ - [**"Susan Rogers on her four intense years working for Prince -- Susan Rogers was Prince's sound engineer on albums including Purple Rain and Sign o' the Times. It was four years of her life that left a huge impression, she tells Tony Stamp."**](https://www.rnz.co.nz/national/programmes/nat-music/audio/2018657684/susan-rogers-on-her-four-intense-years-working-for-prince) in [RNZ](https://www.rnz.co.nz/) on 11 August 2018 about [Owen Husney](../../topics/owen-husney/index.md), [Susan Rogers](../../topics/susan-rogers/index.md) ([mirror](https://web.archive.org/web/*/https://www.rnz.co.nz/national/programmes/nat-music/audio/2018657684/susan-rogers-on-her-four-intense-years-working-for-prince))
 
 ----
 
@@ -22,7 +22,7 @@
 
 ----
 
- - [**"Recording with Prince: An Interview with Susan Rogers from Berklee Online"**](https://online.berklee.edu/takenote/recording-with-prince-an-interview-with-susan-rogers-from-berklee-online/) in [online.berklee.edu](https://online.berklee.edu/) on 5 June 2018 about [Susan Rogers](../../topics/susan-rogers/index.md) ([mirror](https://web.archive.org/web/*/https://online.berklee.edu/takenote/recording-with-prince-an-interview-with-susan-rogers-from-berklee-online/))
+ - [**"Recording with Prince: An Interview with Susan Rogers from Berklee Online"**](https://online.berklee.edu/takenote/recording-with-prince-an-interview-with-susan-rogers-from-berklee-online/) in [Berklee Online (Berklee College of Music)](https://online.berklee.edu/) on 5 June 2018 about [Susan Rogers](../../topics/susan-rogers/index.md) ([mirror](https://web.archive.org/web/*/https://online.berklee.edu/takenote/recording-with-prince-an-interview-with-susan-rogers-from-berklee-online/))
 
 ----
 
