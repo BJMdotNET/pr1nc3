@@ -15,7 +15,7 @@
       August (3) | 
       July (1) | 
       May (1) | 
-      April (3) | 
+      April (4) | 
   * [2013](./let-s-go-crazy-song-2013.md): 
       March (1) | 
   * [1985](./let-s-go-crazy-song-1985.md): 

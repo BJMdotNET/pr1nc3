@@ -11,7 +11,7 @@
       December (4) | 
       November (4) | 
       October (5) | 
-      September (2) | 
+      September (3) | 
       August (3) | 
       July (1) | 
       June (4) | 

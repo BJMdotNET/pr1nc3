@@ -1,6 +1,6 @@
 # Minneapolis Star Tribune: February 2016
 
- - [**"C.J.: James Corden is not vague about examining Prince's facial hair"**](http://www.startribune.com/c-j-james-corden-is-not-vague-about-examining-prince-s-facial-hair/370042781/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 February 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-james-corden-is-not-vague-about-examining-prince-s-facial-hair/370042781/))
+ - [**"C.J.: James Corden is not vague about examining Prince's facial hair"**](http://www.startribune.com/c-j-james-corden-is-not-vague-about-examining-prince-s-facial-hair/370042781/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 February 2016 about [C.J.](../../topics/c-j/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-james-corden-is-not-vague-about-examining-prince-s-facial-hair/370042781/))
 
 ----
 

@@ -56,6 +56,10 @@
 
 ----
 
+ - [**"Sheila E.: Saying goodbye to Prince 'the hardest thing I've ever had to do' -- Sheila E., longtime friend, said she never knew Prince to take drugs."**](http://www.startribune.com/sheila-e-saying-goodbye-to-prince-the-hardest-thing-i-ve-ever-had-to-do/376906621/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 April 2016 about [Celebration](../../topics/celebration/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Lionel Richie](../../topics/lionel-richie/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Sheila E.](../../topics/sheila-e/index.md), [TMZ (website)](../../topics/website/tmz/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [WCCO-TV](../../topics/wcco-tv/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/sheila-e-saying-goodbye-to-prince-the-hardest-thing-i-ve-ever-had-to-do/376906621/))
+
+----
+
  - [**"Lenny Henry on Prince: 'I almost passed out. This was my hero talking to me' -- The actor and comedian remembers a rooftop meeting and how he couldn’t believe his luck when he found out Prince was playing guitar for an album he was singing on for Kate Bush"**](https://www.theguardian.com/music/2016/apr/24/the-time-i-sang-with-prince-and-kate-bush-by-lenny-henry) in [The Guardian](https://www.theguardian.com/) on 24 April 2016 about [Chaka Khan](../../topics/chaka-khan/index.md), [Eric Clapton](../../topics/eric-clapton/index.md), [Kate Bush](../../topics/kate-bush/index.md), [Lenny Henry](../../topics/lenny-henry/index.md), [The Red Shoes (album)](../../topics/album/the-red-shoes/index.md), [Why Should I Love You? (song)](../../topics/song/why-should-i-love-you/index.md) ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/music/2016/apr/24/the-time-i-sang-with-prince-and-kate-bush-by-lenny-henry))
 
 ----

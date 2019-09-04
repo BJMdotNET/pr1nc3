@@ -2,7 +2,7 @@
 
 ## July 2019
 
- - [**"C.J.: Music stars can learn more about themselves by acquiescing to media interviews"**](http://www.startribune.com/c-j-music-stars-can-learn-more-about-themselves-by-acquiescing-to-media-interviews/512421852/) by C.J. (Cheryl Johnson) in [Minneapolis Star Tribune](http://www.startribune.com/) on 8 July 2019 about [Alan Light](../../topics/alan-light/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-music-stars-can-learn-more-about-themselves-by-acquiescing-to-media-interviews/512421852/))
+ - [**"C.J.: Music stars can learn more about themselves by acquiescing to media interviews"**](http://www.startribune.com/c-j-music-stars-can-learn-more-about-themselves-by-acquiescing-to-media-interviews/512421852/) by C.J. (Cheryl Johnson) in [Minneapolis Star Tribune](http://www.startribune.com/) on 8 July 2019 about [Alan Light](../../topics/alan-light/index.md), [C.J.](../../topics/c-j/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-music-stars-can-learn-more-about-themselves-by-acquiescing-to-media-interviews/512421852/))
 
 ----
 
@@ -12,7 +12,7 @@
 
 ## April 2019
 
- - [**"C.J.: Prince protégée Ashley Támar Davis performed with pre-Destiny Beyoncé"**](http://www.startribune.com/c-j-the-fame-of-destiny-s-child-almost-broke-singer-ashley-tamar-davis/508902862/) by C.J. (Cheryl Johnson) in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 April 2019 about [New Power Generation](../../topics/new-power-generation/index.md), [Támar Davis](../../topics/t-mar-davis/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-the-fame-of-destiny-s-child-almost-broke-singer-ashley-tamar-davis/508902862/))
+ - [**"C.J.: Prince protégée Ashley Támar Davis performed with pre-Destiny Beyoncé"**](http://www.startribune.com/c-j-the-fame-of-destiny-s-child-almost-broke-singer-ashley-tamar-davis/508902862/) by C.J. (Cheryl Johnson) in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 April 2019 about [C.J.](../../topics/c-j/index.md), [memoir](../../topics/memoir/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Támar Davis](../../topics/t-mar-davis/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-the-fame-of-destiny-s-child-almost-broke-singer-ashley-tamar-davis/508902862/))
 
 ----
 

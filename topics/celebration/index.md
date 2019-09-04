@@ -12,7 +12,7 @@
   * [2016](./celebration-2016.md): 
       August (2) | 
       June (1) | 
-      April (1) | 
+      April (2) | 
   * [2015](./celebration-2015.md): 
       February (1) | 
   * [2013](./celebration-2013.md): 

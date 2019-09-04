@@ -10,7 +10,7 @@
       January (2) | 
   * [2017](./morris-day-2017.md): 
       December (3) | 
-      July (2) | 
+      July (3) | 
       April (1) | 
   * [2016](./morris-day-2016.md): 
       November (2) | 

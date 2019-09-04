@@ -7,6 +7,7 @@
       December (1) | 
   * [2016](./obama-2016.md): 
       November (1) | 
+      September (1) | 
       April (9) | 
 
 ----

@@ -14,7 +14,7 @@
       September (2) | 
       July (1) | 
       May (1) | 
-      April (3) | 
+      April (4) | 
   * [2015](./chaka-khan-2015.md): 
       May (1) | 
   * [1985](./chaka-khan-1985.md): 

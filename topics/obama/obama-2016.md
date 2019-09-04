@@ -6,6 +6,12 @@
 
 ----
 
+## September 2016
+
+ - [**"The Power—and Piousness—and Frustration—and Sorrow—of One -- How Cheryl Johnson became C.J., the most infamous journalist in Minnesota"**](https://www.minnesotamonthly.com/lifestyle/the-power-and-piousness-and-frustration-and-sorrow-of-one/) in [Minnesota Monthly](https://www.minnesotamonthly.com/) on 8 September 2016 about [auction](../../topics/auction/index.md), [C.J.](../../topics/c-j/index.md), [Colleen (song)](../../topics/song/colleen/index.md), [exhibit](../../topics/exhibit/index.md), [Minnesota Timberwolves](../../topics/minnesota-timberwolves/index.md), [Obama](../../topics/obama/index.md), [State Fair](../../topics/state-fair/index.md), [Timberwolves](../../topics/timberwolves/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md) ([mirror](https://web.archive.org/web/*/https://www.minnesotamonthly.com/lifestyle/the-power-and-piousness-and-frustration-and-sorrow-of-one/))
+
+----
+
 ## April 2016
 
  - [**"A synthesizer of sounds, Prince ‘rewrote the rulebook’"**](https://apnews.com/c07d6a9a2752405fa8ed91e8d949806a) in [Associated Press News](https://apnews.com/) on 22 April 2016 about [Bangles](../../topics/bangles/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Obama](../../topics/obama/index.md), [Roger Ebert](../../topics/roger-ebert/index.md), [The Time](../../topics/the-time/index.md), [White House (place)](../../topics/place/white-house/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/c07d6a9a2752405fa8ed91e8d949806a))

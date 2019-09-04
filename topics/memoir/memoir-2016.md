@@ -24,13 +24,13 @@
 
 ----
 
- - [**"C.J.: Writing a book with Prince 'would be a nightmare job,' Neal Karlen says"**](http://www.startribune.com/c-j-writing-a-book-with-prince-would-be-a-nightmare-job-says-neal-karlen-who-loves-the-purple-guy/375907901/) by C.J. (Cheryl Johnson) in [Minneapolis Star Tribune](http://www.startribune.com/) on 15 April 2016 about [memoir](../../topics/memoir/index.md), [Neal Karlen](../../topics/neal-karlen/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-writing-a-book-with-prince-would-be-a-nightmare-job-says-neal-karlen-who-loves-the-purple-guy/375907901/))
+ - [**"C.J.: Writing a book with Prince 'would be a nightmare job,' Neal Karlen says"**](http://www.startribune.com/c-j-writing-a-book-with-prince-would-be-a-nightmare-job-says-neal-karlen-who-loves-the-purple-guy/375907901/) by C.J. (Cheryl Johnson) in [Minneapolis Star Tribune](http://www.startribune.com/) on 15 April 2016 about [C.J.](../../topics/c-j/index.md), [memoir](../../topics/memoir/index.md), [Neal Karlen](../../topics/neal-karlen/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-writing-a-book-with-prince-would-be-a-nightmare-job-says-neal-karlen-who-loves-the-purple-guy/375907901/))
 
 ----
 
 ## March 2016
 
- - [**"C.J.: Prince's memoir will be a beauty if he gives his take on my questions"**](http://www.startribune.com/c-j-prince-s-memoir-will-be-a-beauty-if-he-gives-his-take-on-my-questions/373295271/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 23 March 2016 about [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-prince-s-memoir-will-be-a-beauty-if-he-gives-his-take-on-my-questions/373295271/))
+ - [**"C.J.: Prince's memoir will be a beauty if he gives his take on my questions"**](http://www.startribune.com/c-j-prince-s-memoir-will-be-a-beauty-if-he-gives-his-take-on-my-questions/373295271/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 23 March 2016 about [C.J.](../../topics/c-j/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-prince-s-memoir-will-be-a-beauty-if-he-gives-his-take-on-my-questions/373295271/))
 
 ----
 

@@ -8,7 +8,7 @@
       November (5) | 
       October (1) | 
   * [2016](./auction-2016.md): 
-      September (1) | 
+      September (2) | 
       July (1) | 
       June (3) | 
       May (5) | 

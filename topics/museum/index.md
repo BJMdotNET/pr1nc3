@@ -8,7 +8,7 @@
       March (1) | 
   * [2018](./museum-2018.md): 
       December (1) | 
-      September (1) | 
+      September (2) | 
   * [2017](./museum-2017.md): 
       August (1) | 
       April (3) | 

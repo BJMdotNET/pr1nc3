@@ -30,6 +30,10 @@
 
 ## April 2019
 
+ - [**"C.J.: Prince protégée Ashley Támar Davis performed with pre-Destiny Beyoncé"**](http://www.startribune.com/c-j-the-fame-of-destiny-s-child-almost-broke-singer-ashley-tamar-davis/508902862/) by C.J. (Cheryl Johnson) in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 April 2019 about [C.J.](../../topics/c-j/index.md), [memoir](../../topics/memoir/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Támar Davis](../../topics/t-mar-davis/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-the-fame-of-destiny-s-child-almost-broke-singer-ashley-tamar-davis/508902862/))
+
+----
+
  - [**"Prince memoir ‘The Beautiful Ones’ coming out in the fall"**](https://apnews.com/0c8b1deaae3b4329905d848b284f044b) by Hillel Italie (Associated Press) in [Associated Press News](https://apnews.com/) on 22 April 2019 about [Chris Jackson](../../topics/chris-jackson/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Esther Newberg](../../topics/esther-newberg/index.md), [fentanyl](../../topics/fentanyl/index.md), [memoir](../../topics/memoir/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Random House ](../../topics/random-house/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/0c8b1deaae3b4329905d848b284f044b))
 
 ----

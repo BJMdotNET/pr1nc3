@@ -11,7 +11,7 @@
   * [2017](./new-power-generation-2017.md): 
       December (1) | 
       November (1) | 
-      July (1) | 
+      July (2) | 
       April (3) | 
   * [2016](./new-power-generation-2016.md): 
       November (3) | 
