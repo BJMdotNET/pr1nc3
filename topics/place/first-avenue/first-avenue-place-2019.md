@@ -1,5 +1,11 @@
 # First Avenue (place): 2019
 
+## September 2019
+
+ - [**"Prince’s guitar builder fights estate to keep hold of Cloud design -- Dave Rusan speaks out on Paisley Park trademark dispute"**](https://www.guitarworld.com/news/princes-guitar-builder-fights-estate-to-keep-hold-of-cloud-design) in [www.guitarworld.com](https://www.guitarworld.com/) on 4 September 2019 about [Cloud guitar](../../../topics/cloud-guitar/index.md), [Dave Rusan](../../../topics/dave-rusan/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md), [Sardonyx](../../../topics/sardonyx/index.md), [trademark](../../../topics/trademark/index.md) ([mirror](https://web.archive.org/web/*/https://www.guitarworld.com/news/princes-guitar-builder-fights-estate-to-keep-hold-of-cloud-design))
+
+----
+
 ## August 2019
 
  - [**"No, seriously: Weird Al and his fans explain why he's so big at the Minnesota State Fair -- Weird Al Yankovic is headed to the Minnesota State Fair's grandstand. We talked to fans of the clever parodist. "**](http://www.startribune.com/no-seriously-weird-al-and-his-fans-explain-why-he-s-so-big-at-the-minnesota-state-fair/557878752/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 August 2019 about [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Minnesota State Fair](../../../topics/minnesota-state-fair/index.md), [State Fair](../../../topics/state-fair/index.md), [Weird Al Yankovic](../../../topics/weird-al-yankovic/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/no-seriously-weird-al-and-his-fans-explain-why-he-s-so-big-at-the-minnesota-state-fair/557878752/))
@@ -11,6 +17,10 @@
 ----
 
  - [**"‘Prince: Before the Rain’ photo exhibit coming to Minnesota History Center"**](https://blog.thecurrent.org/2019/08/prince-before-the-rain-photo-exhibit-coming-to-minnesota-history-center/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 6 August 2019 about [Allen Beaulieu](../../../topics/allen-beaulieu/index.md), [André Cymone](../../../topics/andr-cymone/index.md), [Dez Dickerson](../../../topics/dez-dickerson/index.md), [exhibit](../../../topics/exhibit/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Minnesota History Center](../../../topics/minnesota-history-center/index.md), [Prince: Before the Rain](../../../topics/prince-before-the-rain/index.md) ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2019/08/prince-before-the-rain-photo-exhibit-coming-to-minnesota-history-center/))
+
+----
+
+ - [**"Rare pictures of Prince to feature at Minnesota History Center -- It will include the work of Prince's personal photographer."**](https://bringmethenews.com/minnesota-lifestyle/rare-pictures-of-prince-to-feature-at-minnesota-history-center) in [Bring Me The News](https://bringmethenews.com/) on 5 August 2019 about [Allen Beaulieu](../../../topics/allen-beaulieu/index.md), [Dez Dickerson](../../../topics/dez-dickerson/index.md), [exhibit](../../../topics/exhibit/index.md), [exhibition](../../../topics/exhibition/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Minnesota History Center](../../../topics/minnesota-history-center/index.md), [Morris Day](../../../topics/morris-day/index.md), [Prince: Before the Rain](../../../topics/prince-before-the-rain/index.md) ([mirror](https://web.archive.org/web/*/https://bringmethenews.com/minnesota-lifestyle/rare-pictures-of-prince-to-feature-at-minnesota-history-center))
 
 ----
 

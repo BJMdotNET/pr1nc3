@@ -1,5 +1,11 @@
 # Troy Carter: 2019
 
+## September 2019
+
+ - [**"PRINCE'S ICONIC CLOUD GUITAR INVOLVED IN TRADEMARK DISPUTE -- When Doves File Trademark Disputes"**](http://www.mixdownmag.com.au/princes-iconic-cloud-guitar-involved-trademark-dispute) in [Mixdown](http://www.mixdownmag.com.au/) on 5 September 2019 about [Cloud guitar](../../topics/cloud-guitar/index.md), [Dave Rusan](../../topics/dave-rusan/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [trademark](../../topics/trademark/index.md), [Troy Carter](../../topics/troy-carter/index.md) ([mirror](https://web.archive.org/web/*/http://www.mixdownmag.com.au/princes-iconic-cloud-guitar-involved-trademark-dispute))
+
+----
+
 ## June 2019
 
  - [**"Interview: Prince’s vault archivist, Michael Howe, talks to SDE"**](http://www.superdeluxeedition.com/interview/princes-archivist-michael-howe-talks-to-sde/) by Paul Sinclair in [SuperDeluxeEdition](http://www.superdeluxeedition.com/) on 27 June 2019 about [Around The World In A Day (album)](../../topics/album/around-the-world-in-a-day/index.md), [bootleg](../../topics/bootleg/index.md), [Michael Howe](../../topics/michael-howe/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../topics/album/originals/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [The Glamorous Life (song)](../../topics/song/the-glamorous-life/index.md), [Troy Carter](../../topics/troy-carter/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/http://www.superdeluxeedition.com/interview/princes-archivist-michael-howe-talks-to-sde/))

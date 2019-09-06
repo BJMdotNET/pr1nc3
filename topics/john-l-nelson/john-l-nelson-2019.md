@@ -1,5 +1,11 @@
 # John L. Nelson: 2019
 
+## September 2019
+
+ - [**"Here’s what the Prince exhibit coming to the 2020 Minnesota State Fair might look like"**](http://www.citypages.com/music/heres-what-the-prince-exhibit-coming-to-the-2020-minnesota-state-fair-might-look-like/559252741) in [City Pages](http://www.citypages.com/) on 3 September 2019 about [Alfred Jackson](../../topics/alfred-jackson/index.md), [exhibit](../../topics/exhibit/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [Jon Bream](../../topics/jon-bream/index.md), [merchandise](../../topics/merchandise/index.md), [Minnesota State Fair](../../topics/minnesota-state-fair/index.md), [State Fair](../../topics/state-fair/index.md) ([mirror](https://web.archive.org/web/*/http://www.citypages.com/music/heres-what-the-prince-exhibit-coming-to-the-2020-minnesota-state-fair-might-look-like/559252741))
+
+----
+
 ## August 2019
 
  - [**"One of Prince's heirs, Alfred Jackson, dies in Kansas City"**](http://www.startribune.com/one-of-prince-s-heirs-alfred-jackson-dies-in-kansas-city/558728862/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 29 August 2019 about [Alfred Jackson](../../topics/alfred-jackson/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/one-of-prince-s-heirs-alfred-jackson-dies-in-kansas-city/558728862/))

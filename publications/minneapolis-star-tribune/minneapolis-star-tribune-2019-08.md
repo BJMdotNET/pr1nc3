@@ -8,7 +8,7 @@
 
 ----
 
- - [**"Alfred Jackson, half-brother of late rock star Prince, dies"**](http://www.startribune.com/alfred-jackson-half-brother-of-late-rock-star-prince-dies/558837782/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 30 August 2019 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/alfred-jackson-half-brother-of-late-rock-star-prince-dies/558837782/))
+ - [**"Alfred Jackson, half-brother of late rock star Prince, dies"**](http://www.startribune.com/alfred-jackson-half-brother-of-late-rock-star-prince-dies/558837782/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 30 August 2019 about [Alfred Jackson](../../topics/alfred-jackson/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/alfred-jackson-half-brother-of-late-rock-star-prince-dies/558837782/))
 
 ----
 

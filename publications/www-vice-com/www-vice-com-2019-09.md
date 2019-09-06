@@ -1,6 +1,6 @@
 # www.vice.com: September 2019
 
- - [**"Prince's Autobiography 'The Beautiful Ones' Has a Heartbreaking Story Behind It -- A new piece in The New Yorker by the memoir's co-writer Dan Piepenbring explains the extremely Prince-ish way he was hired."**](https://www.vice.com/en_us/article/7x58ky/princes-autobiography-the-beautiful-ones-has-a-heartbreaking-story-behind-it) in [www.vice.com](https://www.vice.com/) on 3 September 2019 ([mirror](https://web.archive.org/web/*/https://www.vice.com/en_us/article/7x58ky/princes-autobiography-the-beautiful-ones-has-a-heartbreaking-story-behind-it))
+ - [**"Prince's Autobiography 'The Beautiful Ones' Has a Heartbreaking Story Behind It -- A new piece in The New Yorker by the memoir's co-writer Dan Piepenbring explains the extremely Prince-ish way he was hired."**](https://www.vice.com/en_us/article/7x58ky/princes-autobiography-the-beautiful-ones-has-a-heartbreaking-story-behind-it) in [www.vice.com](https://www.vice.com/) on 3 September 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.vice.com/en_us/article/7x58ky/princes-autobiography-the-beautiful-ones-has-a-heartbreaking-story-behind-it))
 
 ----
 

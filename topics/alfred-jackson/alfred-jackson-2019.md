@@ -1,8 +1,26 @@
 # Alfred Jackson: 2019
 
+## September 2019
+
+ - [**"Here’s what the Prince exhibit coming to the 2020 Minnesota State Fair might look like"**](http://www.citypages.com/music/heres-what-the-prince-exhibit-coming-to-the-2020-minnesota-state-fair-might-look-like/559252741) in [City Pages](http://www.citypages.com/) on 3 September 2019 about [Alfred Jackson](../../topics/alfred-jackson/index.md), [exhibit](../../topics/exhibit/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [Jon Bream](../../topics/jon-bream/index.md), [merchandise](../../topics/merchandise/index.md), [Minnesota State Fair](../../topics/minnesota-state-fair/index.md), [State Fair](../../topics/state-fair/index.md) ([mirror](https://web.archive.org/web/*/http://www.citypages.com/music/heres-what-the-prince-exhibit-coming-to-the-2020-minnesota-state-fair-might-look-like/559252741))
+
+----
+
+ - [**"Alfred Jackson, half brother of Prince, has died -- The 66-year-old died of apparent natural causes, reports say."**](https://bringmethenews.com/minnesota-news/alfred-jackson-half-brother-of-prince-has-died) in [Bring Me The News](https://bringmethenews.com/) on 1 September 2019 about [Alfred Jackson](../../topics/alfred-jackson/index.md), [TMZ (website)](../../topics/website/tmz/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://bringmethenews.com/minnesota-news/alfred-jackson-half-brother-of-prince-has-died))
+
+----
+
 ## August 2019
 
+ - [**"Alfred Jackson, half-brother of late rock star Prince, dies"**](http://www.startribune.com/alfred-jackson-half-brother-of-late-rock-star-prince-dies/558837782/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 30 August 2019 about [Alfred Jackson](../../topics/alfred-jackson/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/alfred-jackson-half-brother-of-late-rock-star-prince-dies/558837782/))
+
+----
+
  - [**"One of Prince's heirs, Alfred Jackson, dies in Kansas City"**](http://www.startribune.com/one-of-prince-s-heirs-alfred-jackson-dies-in-kansas-city/558728862/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 29 August 2019 about [Alfred Jackson](../../topics/alfred-jackson/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/one-of-prince-s-heirs-alfred-jackson-dies-in-kansas-city/558728862/))
+
+----
+
+ - [**"PRINCE HALF-BROTHER, HEIR ... DEAD AT 66"**](https://www.tmz.com/2019/08/29/prince-half-brother-alfred-jackson-dead-heir-fortune/) in [TMZ](https://www.tmz.com/) on 29 August 2019 about [Alfred Jackson](../../topics/alfred-jackson/index.md), [TMZ (website)](../../topics/website/tmz/index.md) ([mirror](https://web.archive.org/web/*/https://www.tmz.com/2019/08/29/prince-half-brother-alfred-jackson-dead-heir-fortune/))
 
 ----
 

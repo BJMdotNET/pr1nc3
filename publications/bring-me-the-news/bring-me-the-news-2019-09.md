@@ -4,7 +4,7 @@
 
 ----
 
- - [**"Alfred Jackson, half brother of Prince, has died -- The 66-year-old died of apparent natural causes, reports say."**](https://bringmethenews.com/minnesota-news/alfred-jackson-half-brother-of-prince-has-died) in [Bring Me The News](https://bringmethenews.com/) on 1 September 2019 ([mirror](https://web.archive.org/web/*/https://bringmethenews.com/minnesota-news/alfred-jackson-half-brother-of-prince-has-died))
+ - [**"Alfred Jackson, half brother of Prince, has died -- The 66-year-old died of apparent natural causes, reports say."**](https://bringmethenews.com/minnesota-news/alfred-jackson-half-brother-of-prince-has-died) in [Bring Me The News](https://bringmethenews.com/) on 1 September 2019 about [Alfred Jackson](../../topics/alfred-jackson/index.md), [TMZ (website)](../../topics/website/tmz/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://bringmethenews.com/minnesota-news/alfred-jackson-half-brother-of-prince-has-died))
 
 ----
 

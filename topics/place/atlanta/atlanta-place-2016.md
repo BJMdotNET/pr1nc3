@@ -30,6 +30,10 @@
 
 ----
 
+ - [**"Judge authorizes DNA testing of Prince's blood for any heir claims"**](http://www.startribune.com/prince-creditors-have-four-months-to-file-claims/378449441/) by Dan Browning in [Minneapolis Star Tribune](http://www.startribune.com/) on 7 May 2016 about [Atlanta (place)](../../../topics/place/atlanta/index.md), [Bremer Trust](../../../topics/bremer-trust/index.md), [Carver County](../../../topics/carver-county/index.md), [Kevin Eide](../../../topics/kevin-eide/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-creditors-have-four-months-to-file-claims/378449441/))
+
+----
+
  - [**"Longtime chef: Prince fought throat, stomach pains recently"**](https://apnews.com/cc2bbe6ca3f74392a76e6045e2029eff) in [Associated Press News](https://apnews.com/) on 1 May 2016 about [Atlanta (place)](../../../topics/place/atlanta/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/cc2bbe6ca3f74392a76e6045e2029eff))
 
 ----

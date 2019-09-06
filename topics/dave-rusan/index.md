@@ -1,6 +1,7 @@
 # Dave Rusan
 
   * [2019](./dave-rusan-2019.md): 
+      September (3) | 
       August (4) | 
       July (1) | 
       January (1) | 

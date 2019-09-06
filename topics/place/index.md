@@ -1,13 +1,13 @@
 # place
 
-  * [Atlanta (place)](./place/atlanta/) (22)
+  * [Atlanta (place)](./place/atlanta/) (24)
   * [Bel Air (place)](./place/bel-air/) (1)
   * [Capri Theater  (place)](./place/capri-theater/) (1)
   * [Capri Theatre (place)](./place/capri-theatre/) (1)
-  * [Country Inn & Suites (place)](./place/country-inn-suites/) (1)
+  * [Country Inn & Suites (place)](./place/country-inn-suites/) (2)
   * [Dakota (place)](./place/dakota/) (7)
   * [Electric Fetus (place)](./place/electric-fetus/) (3)
-  * [First Avenue (place)](./place/first-avenue/) (55)
+  * [First Avenue (place)](./place/first-avenue/) (57)
   * [Galpin Blvd. (place)](./place/galpin-blvd/) (1)
   * [Galpin Boulevard (place)](./place/galpin-boulevard/) (1)
   * [Glam Slam (place)](./place/glam-slam/) (2)

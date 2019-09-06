@@ -1,6 +1,7 @@
 # Tyka Nelson
 
   * [2019](./tyka-nelson-2019.md): 
+      September (1) | 
       August (3) | 
       July (1) | 
       April (1) | 

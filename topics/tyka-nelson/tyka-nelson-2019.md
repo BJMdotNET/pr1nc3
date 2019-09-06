@@ -1,5 +1,11 @@
 # Tyka Nelson: 2019
 
+## September 2019
+
+ - [**"Alfred Jackson, half brother of Prince, has died -- The 66-year-old died of apparent natural causes, reports say."**](https://bringmethenews.com/minnesota-news/alfred-jackson-half-brother-of-prince-has-died) in [Bring Me The News](https://bringmethenews.com/) on 1 September 2019 about [Alfred Jackson](../../topics/alfred-jackson/index.md), [TMZ (website)](../../topics/website/tmz/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://bringmethenews.com/minnesota-news/alfred-jackson-half-brother-of-prince-has-died))
+
+----
+
 ## August 2019
 
  - [**"Prince exhibit coming to the Minnesota State Fair next year -- Superstar's estate is planning exhibit with artifacts, merchandise and performances. "**](http://www.startribune.com/prince-exhibit-coming-to-the-minnesota-state-fair-next-year/558970762/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 31 August 2019 about [exhibit](../../topics/exhibit/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [merchandise](../../topics/merchandise/index.md), [Minnesota State Fair](../../topics/minnesota-state-fair/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [State Fair](../../topics/state-fair/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-exhibit-coming-to-the-minnesota-state-fair-next-year/558970762/))

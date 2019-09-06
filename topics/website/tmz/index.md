@@ -4,6 +4,14 @@
 
 ----
 
+ - [**"Alfred Jackson, half brother of Prince, has died -- The 66-year-old died of apparent natural causes, reports say."**](https://bringmethenews.com/minnesota-news/alfred-jackson-half-brother-of-prince-has-died) in [Bring Me The News](https://bringmethenews.com/) on 1 September 2019 about [Alfred Jackson](../../../topics/alfred-jackson/index.md), [TMZ (website)](../../../topics/website/tmz/index.md), [Tyka Nelson](../../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://bringmethenews.com/minnesota-news/alfred-jackson-half-brother-of-prince-has-died))
+
+----
+
+ - [**"PRINCE HALF-BROTHER, HEIR ... DEAD AT 66"**](https://www.tmz.com/2019/08/29/prince-half-brother-alfred-jackson-dead-heir-fortune/) in [TMZ](https://www.tmz.com/) on 29 August 2019 about [Alfred Jackson](../../../topics/alfred-jackson/index.md), [TMZ (website)](../../../topics/website/tmz/index.md) ([mirror](https://web.archive.org/web/*/https://www.tmz.com/2019/08/29/prince-half-brother-alfred-jackson-dead-heir-fortune/))
+
+----
+
  - [**"Prince's half-brother and heir Alfred Jackson dies at 66"**](https://usatoday.com/story/entertainment/celebrities/2019/08/29/alfred-jackson-half-brother-heir-musician-prince-dies-66/2156857001/) in [USA Today](https://usatoday.com/) on 29 August 2019 about [Alfred Jackson](../../../topics/alfred-jackson/index.md), [John L. Nelson](../../../topics/john-l-nelson/index.md), [John R. Nelson](../../../topics/john-r-nelson/index.md), [Norrine Nelson](../../../topics/norrine-nelson/index.md), [Omarr Baker](../../../topics/omarr-baker/index.md), [Sharon Nelson](../../../topics/sharon-nelson/index.md), [TMZ (website)](../../../topics/website/tmz/index.md), [Tyka Nelson](../../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/entertainment/celebrities/2019/08/29/alfred-jackson-half-brother-heir-musician-prince-dies-66/2156857001/))
 
 ----

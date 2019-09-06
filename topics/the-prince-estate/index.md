@@ -3,7 +3,7 @@
   * [2019](./the-prince-estate-2019.md): 
       August (4) | 
       July (2) | 
-      June (4) | 
+      June (5) | 
       May (1) | 
       April (5) | 
       February (2) | 

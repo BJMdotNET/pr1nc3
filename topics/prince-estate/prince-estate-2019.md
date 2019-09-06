@@ -46,6 +46,10 @@
 
 ----
 
+ - [**"Check out this previously unseen 'Manic Monday' Prince video -- The music video, which features rare rehearsal footage, was released this weekend."**](https://bringmethenews.com/minnesota-lifestyle/check-out-this-previously-unseen-manic-monday-prince-video) in [Bring Me The News](https://bringmethenews.com/) on 23 June 2019 about [Apple Music](../../topics/apple-music/index.md), [Bangles](../../topics/bangles/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Sinéad O'Connor](../../topics/sin-ad-o-connor/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [YouTube](../../topics/youtube/index.md) ([mirror](https://web.archive.org/web/*/https://bringmethenews.com/minnesota-lifestyle/check-out-this-previously-unseen-manic-monday-prince-video))
+
+----
+
  - [**"New Prince store at MSP airport reels in fandom"**](http://www.startribune.com/new-prince-store-at-msp-airport-reels-in-fandom/511212802/) by Jackie Crosby in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 June 2019 about [Bravado](../../topics/bravado/index.md), [merchandise](../../topics/merchandise/index.md), [Minneapolis-St. Paul International Airport (place)](../../topics/place/minneapolis-st-paul-international-airport/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/new-prince-store-at-msp-airport-reels-in-fandom/511212802/))
 
 ----
