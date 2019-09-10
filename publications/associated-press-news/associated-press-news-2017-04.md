@@ -12,11 +12,11 @@
 
 ----
 
- - [**"The Latest: Prince fans join ‘purple family’ at Paisley Park"**](https://apnews.com/26c3f25587514065a9f72fbfd1d96bab) in [Associated Press News](https://apnews.com/) on 21 April 2017 about [fentanyl](../../topics/fentanyl/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/26c3f25587514065a9f72fbfd1d96bab))
+ - [**"The Latest: Prince fans join ‘purple family’ at Paisley Park"**](https://apnews.com/26c3f25587514065a9f72fbfd1d96bab) in [Associated Press News](https://apnews.com/) on 21 April 2017 about [fentanyl](../../topics/fentanyl/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [museum](../../topics/museum/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/26c3f25587514065a9f72fbfd1d96bab))
 
 ----
 
- - [**"With tears, tattoos, Prince fans remember him a year later"**](https://apnews.com/839811ae130242a3ade37017c6115208) in [Associated Press News](https://apnews.com/) on 21 April 2017 about [First Avenue (place)](../../topics/place/first-avenue/index.md), [Minnesota History Center](../../topics/minnesota-history-center/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/839811ae130242a3ade37017c6115208))
+ - [**"With tears, tattoos, Prince fans remember him a year later"**](https://apnews.com/839811ae130242a3ade37017c6115208) in [Associated Press News](https://apnews.com/) on 21 April 2017 about [First Avenue (place)](../../topics/place/first-avenue/index.md), [Minnesota History Center](../../topics/minnesota-history-center/index.md), [museum](../../topics/museum/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/839811ae130242a3ade37017c6115208))
 
 ----
 
@@ -44,7 +44,7 @@
 
 ----
 
- - [**"Prince left behind a treasure trove to see at Paisley Park"**](https://apnews.com/a5f775426be44b65a5cbe3d790774288) by Jeff Baenen (Associated Press) in [Associated Press News](https://apnews.com/) on 18 April 2017 about [Grammy Award](../../topics/grammy-award/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/a5f775426be44b65a5cbe3d790774288))
+ - [**"Prince left behind a treasure trove to see at Paisley Park"**](https://apnews.com/a5f775426be44b65a5cbe3d790774288) by Jeff Baenen (Associated Press) in [Associated Press News](https://apnews.com/) on 18 April 2017 about [Grammy Award](../../topics/grammy-award/index.md), [museum](../../topics/museum/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/a5f775426be44b65a5cbe3d790774288))
 
 ----
 
@@ -52,11 +52,11 @@
 
 ----
 
- - [**"Deals ensure cash keeps flowing to unsettled Prince estate"**](https://apnews.com/ea32a54490474eccad7364653ab698f8) in [Associated Press News](https://apnews.com/) on 16 April 2017 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Alfred Jackson](../../topics/alfred-jackson/index.md), [Celebration 2017](../../topics/celebration-2017/index.md), [Comerica Bank & Trust](../../topics/comerica-bank-trust/index.md), [Graceland](../../topics/graceland/index.md), [Joel Weinshanker](../../topics/joel-weinshanker/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Shelby J.](../../topics/shelby-j/index.md), [The Time](../../topics/the-time/index.md), [Tidal](../../topics/tidal/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Universal Music Group](../../topics/universal-music-group/index.md), [Van Jones](../../topics/van-jones/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/ea32a54490474eccad7364653ab698f8))
+ - [**"Deals ensure cash keeps flowing to unsettled Prince estate"**](https://apnews.com/ea32a54490474eccad7364653ab698f8) in [Associated Press News](https://apnews.com/) on 16 April 2017 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Alfred Jackson](../../topics/alfred-jackson/index.md), [Celebration 2017](../../topics/celebration-2017/index.md), [Comerica Bank & Trust](../../topics/comerica-bank-trust/index.md), [Graceland](../../topics/graceland/index.md), [Joel Weinshanker](../../topics/joel-weinshanker/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [museum](../../topics/museum/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Shelby J.](../../topics/shelby-j/index.md), [The Time](../../topics/the-time/index.md), [Tidal](../../topics/tidal/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Universal Music Group](../../topics/universal-music-group/index.md), [Van Jones](../../topics/van-jones/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/ea32a54490474eccad7364653ab698f8))
 
 ----
 
- - [**"A Minneapolis-area Prince pilgrimage a year after his death"**](https://apnews.com/c26c137efcb447af86f26bb41e8ac97f) in [Associated Press News](https://apnews.com/) on 15 April 2017 about [Electric Fetus (place)](../../topics/place/electric-fetus/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Minnesota History Center](../../topics/minnesota-history-center/index.md), [Sam’s (place)](../../topics/place/sam-s/index.md), [Schmitt Music Company](../../topics/schmitt-music-company/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/c26c137efcb447af86f26bb41e8ac97f))
+ - [**"A Minneapolis-area Prince pilgrimage a year after his death"**](https://apnews.com/c26c137efcb447af86f26bb41e8ac97f) in [Associated Press News](https://apnews.com/) on 15 April 2017 about [Electric Fetus (place)](../../topics/place/electric-fetus/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Minnesota History Center](../../topics/minnesota-history-center/index.md), [museum](../../topics/museum/index.md), [Sam’s (place)](../../topics/place/sam-s/index.md), [Schmitt Music Company](../../topics/schmitt-music-company/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/c26c137efcb447af86f26bb41e8ac97f))
 
 ----
 
@@ -76,7 +76,7 @@
 
 ----
 
- - [**"Judge rejects claims by Prince divorce lawyer for $600,000"**](https://apnews.com/061fb04e9fcf448782e9b921b971eac9) in [Associated Press News](https://apnews.com/) on 11 April 2017 about [Manuela Testolini](../../topics/manuela-testolini/index.md), [Patrick Cousins](../../topics/patrick-cousins/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/061fb04e9fcf448782e9b921b971eac9))
+ - [**"Judge rejects claims by Prince divorce lawyer for $600,000"**](https://apnews.com/061fb04e9fcf448782e9b921b971eac9) in [Associated Press News](https://apnews.com/) on 11 April 2017 about [Carver County](../../topics/carver-county/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Patrick Cousins](../../topics/patrick-cousins/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/061fb04e9fcf448782e9b921b971eac9))
 
 ----
 

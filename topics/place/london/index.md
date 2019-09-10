@@ -16,7 +16,7 @@
 
 ----
 
- - [**"Nearly 6 months later, Prince superfans still mourning"**](https://apnews.com/5f2143ac989a4626b2cf7b8620a6a28c) in [Associated Press News](https://apnews.com/) on 12 October 2016 about [Atlanta (place)](../../../topics/place/atlanta/index.md), [London (place)](../../../topics/place/london/index.md), [YouTube](../../../topics/youtube/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/5f2143ac989a4626b2cf7b8620a6a28c))
+ - [**"Nearly 6 months later, Prince superfans still mourning"**](https://apnews.com/5f2143ac989a4626b2cf7b8620a6a28c) in [Associated Press News](https://apnews.com/) on 12 October 2016 about [Atlanta (place)](../../../topics/place/atlanta/index.md), [London (place)](../../../topics/place/london/index.md), [museum](../../../topics/museum/index.md), [YouTube](../../../topics/youtube/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/5f2143ac989a4626b2cf7b8620a6a28c))
 
 ----
 
@@ -24,7 +24,7 @@
 
 ----
 
- - [**"Prince plays London living-room gig"**](https://apnews.com/cdab667abcd84f809dda4c49a044486f) in [Associated Press News](https://apnews.com/) on 5 February 2014 about [3rdEyeGirl](../../../topics/3rdeyegirl/index.md), [bootleg](../../../topics/bootleg/index.md), [London (place)](../../../topics/place/london/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/cdab667abcd84f809dda4c49a044486f))
+ - [**"Prince plays London living-room gig"**](https://apnews.com/cdab667abcd84f809dda4c49a044486f) in [Associated Press News](https://apnews.com/) on 5 February 2014 about [3rdEyeGirl](../../../topics/3rdeyegirl/index.md), [bootleg](../../../topics/bootleg/index.md), [contract](../../../topics/contract/index.md), [London (place)](../../../topics/place/london/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/cdab667abcd84f809dda4c49a044486f))
 
 ----
 

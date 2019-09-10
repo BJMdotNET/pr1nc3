@@ -4,7 +4,7 @@
 
 ----
 
- - [**"Judge rejects claims by Prince divorce lawyer for $600,000"**](https://apnews.com/061fb04e9fcf448782e9b921b971eac9) in [Associated Press News](https://apnews.com/) on 11 April 2017 about [Manuela Testolini](../../topics/manuela-testolini/index.md), [Patrick Cousins](../../topics/patrick-cousins/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/061fb04e9fcf448782e9b921b971eac9))
+ - [**"Judge rejects claims by Prince divorce lawyer for $600,000"**](https://apnews.com/061fb04e9fcf448782e9b921b971eac9) in [Associated Press News](https://apnews.com/) on 11 April 2017 about [Carver County](../../topics/carver-county/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Patrick Cousins](../../topics/patrick-cousins/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/061fb04e9fcf448782e9b921b971eac9))
 
 ----
 

@@ -1,8 +1,14 @@
 # Carver County: 2016
 
+## December 2016
+
+ - [**"Documents: Jay Z’s company wanted to manage Prince’s music"**](https://apnews.com/20b81c0084f9422c9022841d87c0c4d8) in [Associated Press News](https://apnews.com/) on 6 December 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [Tidal](../../topics/tidal/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/20b81c0084f9422c9022841d87c0c4d8))
+
+----
+
 ## November 2016
 
- - [**"Around the state: Paisley Park to host Prince celebration"**](https://apnews.com/61839c62b9d94fec885fbf304d279168) in [Associated Press News](https://apnews.com/) on 30 November 2016 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Carver County](../../topics/carver-county/index.md), [Celebration 2017](../../topics/celebration-2017/index.md), [Morris Day](../../topics/morris-day/index.md), [museum](../../topics/museum/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [The Revolution](../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/61839c62b9d94fec885fbf304d279168))
+ - [**"Around the state: Paisley Park to host Prince celebration"**](https://apnews.com/61839c62b9d94fec885fbf304d279168) in [Associated Press News](https://apnews.com/) on 30 November 2016 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Carver County](../../topics/carver-county/index.md), [Celebration 2017](../../topics/celebration-2017/index.md), [contract](../../topics/contract/index.md), [Morris Day](../../topics/morris-day/index.md), [museum](../../topics/museum/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [The Revolution](../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/61839c62b9d94fec885fbf304d279168))
 
 ----
 
@@ -22,17 +28,33 @@
 
 ## September 2016
 
- - [**"Still no will, but work to settle Prince estate forges ahead"**](https://apnews.com/e2669a78b7dd4d8fb5c6e743d4acc29d) in [Associated Press News](https://apnews.com/) on 25 September 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [Christina Aguilera](../../topics/christina-aguilera/index.md), [Graceland](../../topics/graceland/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [The Time](../../topics/the-time/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/e2669a78b7dd4d8fb5c6e743d4acc29d))
+ - [**"Still no will, but work to settle Prince estate forges ahead"**](https://apnews.com/e2669a78b7dd4d8fb5c6e743d4acc29d) in [Associated Press News](https://apnews.com/) on 25 September 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [Christina Aguilera](../../topics/christina-aguilera/index.md), [Graceland](../../topics/graceland/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [museum](../../topics/museum/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [The Time](../../topics/the-time/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/e2669a78b7dd4d8fb5c6e743d4acc29d))
+
+----
+
+ - [**"Still no will, but work to settle Prince estate forges ahead"**](http://www.startribune.com/still-no-will-but-work-to-settle-prince-estate-forges-ahead/394729181/) by Steve Karnowski (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 September 2016 about [Carver County](../../topics/carver-county/index.md), [museum](../../topics/museum/index.md), [Prince Estate](../../topics/prince-estate/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/still-no-will-but-work-to-settle-prince-estate-forges-ahead/394729181/))
+
+----
+
+ - [**"Minneapolis theater files claim against Prince's estate"**](https://www.mprnews.org/story/2016/09/12/theater-files-nearly-350000-claim-against-prince-estate) in [MPR News (Minnesota Public Radio)](https://www.mprnews.org/) on 12 September 2016 about [Carver County](../../topics/carver-county/index.md) ([mirror](https://web.archive.org/web/*/https://www.mprnews.org/story/2016/09/12/theater-files-nearly-350000-claim-against-prince-estate))
 
 ----
 
 ## July 2016
+
+ - [**"Prince's possible heirs narrowed down to six"**](https://edition.cnn.com/2016/07/29/entertainment/prince-estate-possible-heirs-ruling/) in [CNN International](https://edition.cnn.com/) on 30 July 2016 about [Carver County](../../topics/carver-county/index.md) ([mirror](https://web.archive.org/web/*/https://edition.cnn.com/2016/07/29/entertainment/prince-estate-possible-heirs-ruling/))
+
+----
 
  - [**"Court order sharply narrows Prince’s potential heirs"**](https://apnews.com/e27548f874704baa902e13785b87670c) in [Associated Press News](https://apnews.com/) on 29 July 2016 about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Brianna Nelson](../../topics/brianna-nelson/index.md), [Carver County](../../topics/carver-county/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [John Nelson](../../topics/john-nelson/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Victoria Nelson](../../topics/victoria-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/e27548f874704baa902e13785b87670c))
 
 ----
 
  - [**"Judge says he may allow cameras in Prince estate proceedings"**](https://apnews.com/e765a15638374aa4bdfbc5cca13280f5) in [Associated Press News](https://apnews.com/) on 28 July 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Victoria Nelson](../../topics/victoria-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/e765a15638374aa4bdfbc5cca13280f5))
+
+----
+
+ - [**"Lawyers may have ‘potentially relevant’ info on Prince heirs"**](https://apnews.com/649c8b53a3514b54a7116f7f04641458) in [Associated Press News](https://apnews.com/) on 13 July 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [Henson & Efron](../../topics/henson-efron/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/649c8b53a3514b54a7116f7f04641458))
 
 ----
 
@@ -47,6 +69,10 @@
 ----
 
  - [**"Judge won’t hear media request at Prince estate hearing"**](https://apnews.com/46d343aa279c4a019185384eac591183) in [Associated Press News](https://apnews.com/) on 26 June 2016 about [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/46d343aa279c4a019185384eac591183))
+
+----
+
+ - [**"Minnesota judge to hold 2nd hearing in Prince estate case"**](https://apnews.com/a82cb099c3514ab59577e03533ea5898) by Steve Karnowski (Associated Press) in [Associated Press News](https://apnews.com/) on 26 June 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [museum](../../topics/museum/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/a82cb099c3514ab59577e03533ea5898))
 
 ----
 
@@ -108,11 +134,19 @@
 
 ----
 
+ - [**"Prince's death: The latest"**](https://edition.cnn.com/2016/05/04/entertainment/prince-death-latest/index.html) in [CNN International](https://edition.cnn.com/) on 7 May 2016 about [Carver County](../../topics/carver-county/index.md) ([mirror](https://web.archive.org/web/*/https://edition.cnn.com/2016/05/04/entertainment/prince-death-latest/index.html))
+
+----
+
  - [**"Judge authorizes DNA testing of Prince's blood for estate case"**](http://www.fox9.com/news/judge-authorizes-dna-testing-of-princes-blood-for-estate-case) in [Fox 9](http://www.fox9.com/) on 6 May 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [Carver County District Court](../../topics/carver-county-district-court/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Tidal](../../topics/tidal/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/http://www.fox9.com/news/judge-authorizes-dna-testing-of-princes-blood-for-estate-case))
 
 ----
 
  - [**"911 calls to Prince estate ranged from mundane to serious"**](https://apnews.com/b145542cfe0d4dfd945cabaa0c720696) in [Associated Press News](https://apnews.com/) on 4 May 2016 about [Carver County](../../topics/carver-county/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [Prince Estate](../../topics/prince-estate/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/b145542cfe0d4dfd945cabaa0c720696))
+
+----
+
+ - [**"Prince's death, Day 13: Woman reported Prince had bad cocaine habit in 2011"**](https://usatoday.com/story/life/people/2016/05/03/princes-death-day-13-latest-news-and-tributes/83866634/) in [USA Today](https://usatoday.com/) on 3 May 2016 about [Carver County](../../topics/carver-county/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/people/2016/05/03/princes-death-day-13-latest-news-and-tributes/83866634/))
 
 ----
 
@@ -170,7 +204,7 @@
 
 ----
 
- - [**"The Latest: Tributes to Prince spring up across the US"**](https://apnews.com/debddfb333364e4091f0989c39458119) in [Associated Press News](https://apnews.com/) on 22 April 2016 about [Carver County](../../topics/carver-county/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Obama](../../topics/obama/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/debddfb333364e4091f0989c39458119))
+ - [**"The Latest: Tributes to Prince spring up across the US"**](https://apnews.com/debddfb333364e4091f0989c39458119) in [Associated Press News](https://apnews.com/) on 22 April 2016 about [Carver County](../../topics/carver-county/index.md), [contract](../../topics/contract/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Obama](../../topics/obama/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/debddfb333364e4091f0989c39458119))
 
 ----
 
@@ -179,6 +213,12 @@
 ----
 
  - [**"Prince dead at Paisley Park estate in Minnesota"**](http://www.fox9.com/news/emergency-medical-response-at-paisley-park) in [Fox 9](http://www.fox9.com/) on 21 April 2016 about [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Jim Olson](../../topics/jim-olson/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Minnesota Twins](../../topics/minnesota-twins/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [Obama](../../topics/obama/index.md), [Paisley Park Studios (place)](../../topics/place/paisley-park-studios/index.md), [Super Bowl](../../topics/super-bowl/index.md), [TMZ (website)](../../topics/website/tmz/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/http://www.fox9.com/news/emergency-medical-response-at-paisley-park))
+
+----
+
+## March 2016
+
+ - [**"C.J.: Prince's memoir will be a beauty if he gives his take on my questions"**](http://www.startribune.com/c-j-prince-s-memoir-will-be-a-beauty-if-he-gives-his-take-on-my-questions/373295271/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 23 March 2016 about [C.J.](../../topics/c-j/index.md), [Carver County](../../topics/carver-county/index.md), [memoir](../../topics/memoir/index.md), [museum](../../topics/museum/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-prince-s-memoir-will-be-a-beauty-if-he-gives-his-take-on-my-questions/373295271/))
 
 ----
 

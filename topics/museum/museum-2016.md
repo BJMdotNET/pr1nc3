@@ -1,8 +1,14 @@
 # museum: 2016
 
+## December 2016
+
+ - [**"Prince death, mall attack among year’s top Minnesota stories"**](https://apnews.com/f4859fe2db0e4820b8062b664141a973) in [Associated Press News](https://apnews.com/) on 24 December 2016 about [Chaka Khan](../../topics/chaka-khan/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [museum](../../topics/museum/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/f4859fe2db0e4820b8062b664141a973))
+
+----
+
 ## November 2016
 
- - [**"Around the state: Paisley Park to host Prince celebration"**](https://apnews.com/61839c62b9d94fec885fbf304d279168) in [Associated Press News](https://apnews.com/) on 30 November 2016 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Carver County](../../topics/carver-county/index.md), [Celebration 2017](../../topics/celebration-2017/index.md), [Morris Day](../../topics/morris-day/index.md), [museum](../../topics/museum/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [The Revolution](../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/61839c62b9d94fec885fbf304d279168))
+ - [**"Around the state: Paisley Park to host Prince celebration"**](https://apnews.com/61839c62b9d94fec885fbf304d279168) in [Associated Press News](https://apnews.com/) on 30 November 2016 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Carver County](../../topics/carver-county/index.md), [Celebration 2017](../../topics/celebration-2017/index.md), [contract](../../topics/contract/index.md), [Morris Day](../../topics/morris-day/index.md), [museum](../../topics/museum/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [The Revolution](../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/61839c62b9d94fec885fbf304d279168))
 
 ----
 
@@ -28,6 +34,10 @@
 
 ----
 
+ - [**"Nearly 6 months later, Prince superfans still mourning"**](https://apnews.com/5f2143ac989a4626b2cf7b8620a6a28c) in [Associated Press News](https://apnews.com/) on 12 October 2016 about [Atlanta (place)](../../topics/place/atlanta/index.md), [London (place)](../../topics/place/london/index.md), [museum](../../topics/museum/index.md), [YouTube](../../topics/youtube/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/5f2143ac989a4626b2cf7b8620a6a28c))
+
+----
+
  - [**"Paisley Park museum adds more October tour dates"**](https://apnews.com/7bcfafee440e41c49ea690bc6a6af50a) in [Associated Press News](https://apnews.com/) on 12 October 2016 about [motorcycle](../../topics/motorcycle/index.md), [museum](../../topics/museum/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/7bcfafee440e41c49ea690bc6a6af50a))
 
 ----
@@ -36,17 +46,41 @@
 
 ----
 
+ - [**"Paisley Park visitors will see Prince’s studio and mementoes"**](https://apnews.com/27290d0a9516483d9f4c6e9509654af0) in [Associated Press News](https://apnews.com/) on 5 October 2016 about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Graceland](../../topics/graceland/index.md), [museum](../../topics/museum/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/27290d0a9516483d9f4c6e9509654af0))
+
+----
+
+ - [**"Paisley Park visitors will see Prince's studio and mementoes"**](http://www.startribune.com/paisley-park-visitors-will-see-prince-s-studio-and-mementoes/396025851/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 October 2016 about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [museum](../../topics/museum/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-visitors-will-see-prince-s-studio-and-mementoes/396025851/))
+
+----
+
  - [**"Prince-inspired fashions on display at Minneapolis Institute of Art -- The purple pop star inspired this fashionable assemblage in the museum's lobby."**](http://www.startribune.com/prince-inspired-fashions-on-display-at-minneapolis-institute-of-art/396029361/) by Sue Campbell in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 October 2016 about [Minneapolis Institute of Art](../../topics/minneapolis-institute-of-art/index.md), [museum](../../topics/museum/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-inspired-fashions-on-display-at-minneapolis-institute-of-art/396029361/))
 
 ----
 
+ - [**"The Latest: Paisley Park gets temporary permit for 3 days"**](https://apnews.com/73fd90f56feb4f4a8cb841127f205ee1) in [Associated Press News](https://apnews.com/) on 4 October 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [exhibition](../../topics/exhibition/index.md), [museum](../../topics/museum/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/73fd90f56feb4f4a8cb841127f205ee1))
+
+----
+
 ## September 2016
+
+ - [**"Still no will, but work to settle Prince estate forges ahead"**](https://apnews.com/e2669a78b7dd4d8fb5c6e743d4acc29d) in [Associated Press News](https://apnews.com/) on 25 September 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [Christina Aguilera](../../topics/christina-aguilera/index.md), [Graceland](../../topics/graceland/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [museum](../../topics/museum/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [The Time](../../topics/the-time/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/e2669a78b7dd4d8fb5c6e743d4acc29d))
+
+----
+
+ - [**"Still no will, but work to settle Prince estate forges ahead"**](http://www.startribune.com/still-no-will-but-work-to-settle-prince-estate-forges-ahead/394729181/) by Steve Karnowski (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 September 2016 about [Carver County](../../topics/carver-county/index.md), [museum](../../topics/museum/index.md), [Prince Estate](../../topics/prince-estate/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/still-no-will-but-work-to-settle-prince-estate-forges-ahead/394729181/))
+
+----
 
  - [**"Princely jobs available: Paisley Park holds job fair this week -- New museum opens Oct. 6 in Chanhassen."**](http://www.startribune.com/princely-jobs-available-paisley-park-holds-job-fair-this-week/392460791/) by Liz Sawyer in [Minneapolis Star Tribune](http://www.startribune.com/) on 6 September 2016 about [museum](../../topics/museum/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/princely-jobs-available-paisley-park-holds-job-fair-this-week/392460791/))
 
 ----
 
 ## August 2016
+
+ - [**"Paisley Park, home of Prince, opens for public tours Oct. 6"**](https://apnews.com/0d8c41adcd8946dfb5182d55d077cc09) by Steve Karnowski (Associated Press) in [Associated Press News](https://apnews.com/) on 25 August 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [fentanyl](../../topics/fentanyl/index.md), [Graceland](../../topics/graceland/index.md), [museum](../../topics/museum/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/0d8c41adcd8946dfb5182d55d077cc09))
+
+----
 
  - [**"Prince Estate: Paisley Park to open for daily paid public tours in fall"**](https://usatoday.com/story/life/2016/08/24/prince-estate-paisley-park-open-daily-paid-public-tours-fall/89298540/) in [USA Today](https://usatoday.com/) on 25 August 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [Caribbean](../../topics/caribbean/index.md), [Denny Laufenburger](../../topics/denny-laufenburger/index.md), [exhibit](../../topics/exhibit/index.md), [exhibition](../../topics/exhibition/index.md), [Graceland](../../topics/graceland/index.md), [motorcycle](../../topics/motorcycle/index.md), [museum](../../topics/museum/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/2016/08/24/prince-estate-paisley-park-open-daily-paid-public-tours-fall/89298540/))
 
@@ -59,6 +93,10 @@
 ----
 
 ## June 2016
+
+ - [**"Minnesota judge to hold 2nd hearing in Prince estate case"**](https://apnews.com/a82cb099c3514ab59577e03533ea5898) by Steve Karnowski (Associated Press) in [Associated Press News](https://apnews.com/) on 26 June 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [museum](../../topics/museum/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/a82cb099c3514ab59577e03533ea5898))
+
+----
 
  - [**"A Prince wish, Paisley Park eyed for museum like Graceland"**](https://apnews.com/e126f8cb38574b21b3cf0f5dd0843873) in [Associated Press News](https://apnews.com/) on 10 June 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [exhibit](../../topics/exhibit/index.md), [exhibition](../../topics/exhibition/index.md), [fentanyl](../../topics/fentanyl/index.md), [Graceland](../../topics/graceland/index.md), [Jeremiah Freed](../../topics/jeremiah-freed/index.md), [motorcycle](../../topics/motorcycle/index.md), [museum](../../topics/museum/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/e126f8cb38574b21b3cf0f5dd0843873))
 
@@ -85,6 +123,16 @@
 ----
 
  - [**"‘Prince wanted this event to happen’: Mixed Blood Theatre’s Paisley Park gala will go on as planned"**](https://blog.thecurrent.org/2016/04/prince-wanted-this-event-to-happen-mixed-blood-theatres-paisley-park-gala-will-go-on-as-planned/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 26 April 2016 about [auction](../../topics/auction/index.md), [Mixed Blood](../../topics/mixed-blood/index.md), [museum](../../topics/museum/index.md), [Sheila E.](../../topics/sheila-e/index.md) ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2016/04/prince-wanted-this-event-to-happen-mixed-blood-theatres-paisley-park-gala-will-go-on-as-planned/))
+
+----
+
+ - [**"Nashville mourns a Prince"**](https://eu.tennessean.com/story/entertainment/music/2016/04/21/nashville-musicians-remember-prince/83340932/) in [Tennessean](https://tennessean.com/) on 22 April 2016 about [Laura LiPuma](../../topics/laura-lipuma/index.md), [museum](../../topics/museum/index.md) ([mirror](https://web.archive.org/web/*/https://eu.tennessean.com/story/entertainment/music/2016/04/21/nashville-musicians-remember-prince/83340932/))
+
+----
+
+## March 2016
+
+ - [**"C.J.: Prince's memoir will be a beauty if he gives his take on my questions"**](http://www.startribune.com/c-j-prince-s-memoir-will-be-a-beauty-if-he-gives-his-take-on-my-questions/373295271/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 23 March 2016 about [C.J.](../../topics/c-j/index.md), [Carver County](../../topics/carver-county/index.md), [memoir](../../topics/memoir/index.md), [museum](../../topics/museum/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-prince-s-memoir-will-be-a-beauty-if-he-gives-his-take-on-my-questions/373295271/))
 
 ----
 

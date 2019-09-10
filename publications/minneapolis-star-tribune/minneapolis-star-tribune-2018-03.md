@@ -4,7 +4,7 @@
 
 ----
 
- - [**"Carver County to turn over Prince investigative files to family"**](http://www.startribune.com/officials-to-turn-over-prince-investigative-files-to-family/477563043/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 21 March 2018 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/officials-to-turn-over-prince-investigative-files-to-family/477563043/))
+ - [**"Carver County to turn over Prince investigative files to family"**](http://www.startribune.com/officials-to-turn-over-prince-investigative-files-to-family/477563043/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 21 March 2018 about [Carver County](../../topics/carver-county/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/officials-to-turn-over-prince-investigative-files-to-family/477563043/))
 
 ----
 

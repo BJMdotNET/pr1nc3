@@ -2,10 +2,12 @@
 
   * [2019](./bangles-2019.md): 
       August (1) | 
-      June (16) | 
+      July (4) | 
+      June (21) | 
       April (3) | 
   * [2016](./bangles-2016.md): 
-      April (5) | 
+      November (1) | 
+      April (7) | 
 
 ----
 

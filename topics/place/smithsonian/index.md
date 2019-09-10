@@ -1,6 +1,6 @@
 # Smithsonian (place)
 
- - [**"14 things to do in the D.C. area this week"**](https://www.washingtonpost.com/dc-md-va/2019/07/22/things-do-dc-area-this-week/) by Going Out Guide staff in [Washington Post](https://www.washingtonpost.com/dc-md-va/2019/07/22/things-do-dc-area-this-week/) on 22 July 2019 about [Cloud guitar](../../../topics/cloud-guitar/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md), [Smithsonian (place)](../../../topics/place/smithsonian/index.md) ([mirror](https://web.archive.org/web/*/https://www.washingtonpost.com/dc-md-va/2019/07/22/things-do-dc-area-this-week/))
+ - [**"14 things to do in the D.C. area this week"**](https://www.washingtonpost.com/dc-md-va/2019/07/22/things-do-dc-area-this-week/) by Going Out Guide staff in [Washington Post](https://www.washingtonpost.com/dc-md-va/2019/07/22/things-do-dc-area-this-week/) on 22 July 2019 about [Cloud guitar](../../../topics/cloud-guitar/index.md), [museum](../../../topics/museum/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md), [Smithsonian (place)](../../../topics/place/smithsonian/index.md) ([mirror](https://web.archive.org/web/*/https://www.washingtonpost.com/dc-md-va/2019/07/22/things-do-dc-area-this-week/))
 
 ----
 
@@ -12,7 +12,7 @@
 
 ----
 
- - [**"Dave Rusan: Building Prince’s Cloud Guitar"**](https://www.premierguitar.com/articles/24199-dave-rusan-building-princes-cloud-guitar) in [Premier Guitar](https://www.premierguitar.com/) on 10 June 2016 about [André Cymone](../../../topics/andr-cymone/index.md), [Bobby Z.](../../../topics/bobby-z/index.md), [Cloud guitar](../../../topics/cloud-guitar/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Matt Fink](../../../topics/matt-fink/index.md), [Morris Day](../../../topics/morris-day/index.md), [Smithsonian (place)](../../../topics/place/smithsonian/index.md), [The Revolution](../../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/https://www.premierguitar.com/articles/24199-dave-rusan-building-princes-cloud-guitar))
+ - [**"Dave Rusan: Building Prince’s Cloud Guitar"**](https://www.premierguitar.com/articles/24199-dave-rusan-building-princes-cloud-guitar) in [Premier Guitar](https://www.premierguitar.com/) on 10 June 2016 about [André Cymone](../../../topics/andr-cymone/index.md), [Bobby Z.](../../../topics/bobby-z/index.md), [Cloud guitar](../../../topics/cloud-guitar/index.md), [contract](../../../topics/contract/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Matt Fink](../../../topics/matt-fink/index.md), [Morris Day](../../../topics/morris-day/index.md), [Smithsonian (place)](../../../topics/place/smithsonian/index.md), [The Revolution](../../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/https://www.premierguitar.com/articles/24199-dave-rusan-building-princes-cloud-guitar))
 
 ----
 

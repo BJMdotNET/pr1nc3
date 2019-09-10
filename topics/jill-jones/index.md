@@ -1,7 +1,8 @@
 # Jill Jones
 
   * [2019](./jill-jones-2019.md): 
-      June (11) | 
+      July (3) | 
+      June (15) | 
       May (1) | 
       April (2) | 
   * [2018](./jill-jones-2018.md): 

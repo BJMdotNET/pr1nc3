@@ -28,7 +28,7 @@
 
 ----
 
- - [**"Nearly 6 months later, Prince superfans still mourning"**](https://apnews.com/5f2143ac989a4626b2cf7b8620a6a28c) in [Associated Press News](https://apnews.com/) on 12 October 2016 about [Atlanta (place)](../../topics/place/atlanta/index.md), [London (place)](../../topics/place/london/index.md), [YouTube](../../topics/youtube/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/5f2143ac989a4626b2cf7b8620a6a28c))
+ - [**"Nearly 6 months later, Prince superfans still mourning"**](https://apnews.com/5f2143ac989a4626b2cf7b8620a6a28c) in [Associated Press News](https://apnews.com/) on 12 October 2016 about [Atlanta (place)](../../topics/place/atlanta/index.md), [London (place)](../../topics/place/london/index.md), [museum](../../topics/museum/index.md), [YouTube](../../topics/youtube/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/5f2143ac989a4626b2cf7b8620a6a28c))
 
 ----
 
@@ -40,7 +40,7 @@
 
 ----
 
- - [**"Paisley Park visitors will see Prince’s studio and mementoes"**](https://apnews.com/27290d0a9516483d9f4c6e9509654af0) in [Associated Press News](https://apnews.com/) on 5 October 2016 about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Graceland](../../topics/graceland/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/27290d0a9516483d9f4c6e9509654af0))
+ - [**"Paisley Park visitors will see Prince’s studio and mementoes"**](https://apnews.com/27290d0a9516483d9f4c6e9509654af0) in [Associated Press News](https://apnews.com/) on 5 October 2016 about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Graceland](../../topics/graceland/index.md), [museum](../../topics/museum/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/27290d0a9516483d9f4c6e9509654af0))
 
 ----
 
@@ -48,7 +48,7 @@
 
 ----
 
- - [**"The Latest: Paisley Park gets temporary permit for 3 days"**](https://apnews.com/73fd90f56feb4f4a8cb841127f205ee1) in [Associated Press News](https://apnews.com/) on 4 October 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [exhibition](../../topics/exhibition/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/73fd90f56feb4f4a8cb841127f205ee1))
+ - [**"The Latest: Paisley Park gets temporary permit for 3 days"**](https://apnews.com/73fd90f56feb4f4a8cb841127f205ee1) in [Associated Press News](https://apnews.com/) on 4 October 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [exhibition](../../topics/exhibition/index.md), [museum](../../topics/museum/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/73fd90f56feb4f4a8cb841127f205ee1))
 
 ----
 

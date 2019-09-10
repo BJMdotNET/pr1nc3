@@ -6,7 +6,7 @@
 
 ----
 
- - [**"Documents: Jay Z’s company wanted to manage Prince’s music"**](https://apnews.com/20b81c0084f9422c9022841d87c0c4d8) in [Associated Press News](https://apnews.com/) on 6 December 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [Tidal](../../topics/tidal/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/20b81c0084f9422c9022841d87c0c4d8))
+ - [**"Documents: Jay Z’s company wanted to manage Prince’s music"**](https://apnews.com/20b81c0084f9422c9022841d87c0c4d8) in [Associated Press News](https://apnews.com/) on 6 December 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [Tidal](../../topics/tidal/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/20b81c0084f9422c9022841d87c0c4d8))
 
 ----
 
@@ -16,13 +16,13 @@
 
 ----
 
- - [**"The Estate Of Prince Rogers Nelson Selects Universal Music Publishing Group To Serve As Worldwide Publisher For Prince's Iconic Catalog Of Songs"**](https://www.prnewswire.com/news-releases/the-estate-of-prince-rogers-nelson-selects-universal-music-publishing-group-to-serve-as-worldwide-publisher-for-princes-iconic-catalog-of-songs-300356320.html) in [PR Newswire](https://www.prnewswire.com/) on 2 November 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [Universal Music Group](../../topics/universal-music-group/index.md), [Universal Music Publishing Group](../../topics/universal-music-publishing-group/index.md) ([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/the-estate-of-prince-rogers-nelson-selects-universal-music-publishing-group-to-serve-as-worldwide-publisher-for-princes-iconic-catalog-of-songs-300356320.html))
+ - [**"The Estate Of Prince Rogers Nelson Selects Universal Music Publishing Group To Serve As Worldwide Publisher For Prince's Iconic Catalog Of Songs"**](https://www.prnewswire.com/news-releases/the-estate-of-prince-rogers-nelson-selects-universal-music-publishing-group-to-serve-as-worldwide-publisher-for-princes-iconic-catalog-of-songs-300356320.html) in [PR Newswire](https://www.prnewswire.com/) on 2 November 2016 about [Bangles](../../topics/bangles/index.md), [Bremer Trust](../../topics/bremer-trust/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [Universal Music Group](../../topics/universal-music-group/index.md), [Universal Music Publishing Group](../../topics/universal-music-publishing-group/index.md) ([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/the-estate-of-prince-rogers-nelson-selects-universal-music-publishing-group-to-serve-as-worldwide-publisher-for-princes-iconic-catalog-of-songs-300356320.html))
 
 ----
 
 ## October 2016
 
- - [**"The Latest: Paisley Park gets temporary permit for 3 days"**](https://apnews.com/73fd90f56feb4f4a8cb841127f205ee1) in [Associated Press News](https://apnews.com/) on 4 October 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [exhibition](../../topics/exhibition/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/73fd90f56feb4f4a8cb841127f205ee1))
+ - [**"The Latest: Paisley Park gets temporary permit for 3 days"**](https://apnews.com/73fd90f56feb4f4a8cb841127f205ee1) in [Associated Press News](https://apnews.com/) on 4 October 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [exhibition](../../topics/exhibition/index.md), [museum](../../topics/museum/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/73fd90f56feb4f4a8cb841127f205ee1))
 
 ----
 
@@ -32,11 +32,11 @@
 
 ## September 2016
 
- - [**"Still no will, but work to settle Prince estate forges ahead"**](https://apnews.com/e2669a78b7dd4d8fb5c6e743d4acc29d) in [Associated Press News](https://apnews.com/) on 25 September 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [Christina Aguilera](../../topics/christina-aguilera/index.md), [Graceland](../../topics/graceland/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [The Time](../../topics/the-time/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/e2669a78b7dd4d8fb5c6e743d4acc29d))
+ - [**"Still no will, but work to settle Prince estate forges ahead"**](https://apnews.com/e2669a78b7dd4d8fb5c6e743d4acc29d) in [Associated Press News](https://apnews.com/) on 25 September 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [Christina Aguilera](../../topics/christina-aguilera/index.md), [Graceland](../../topics/graceland/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [museum](../../topics/museum/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [The Time](../../topics/the-time/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/e2669a78b7dd4d8fb5c6e743d4acc29d))
 
 ----
 
- - [**"Mixed Blood is suing Prince's estate for $348,358 -- Last week, West Bank theater Mixed Blood filed a $350,000 lawsuit against Prince's estate after being forced to cancel its benefit gala at Paisley Park."**](http://www.citypages.com/arts/mixed-blood-is-suing-princes-estate-for-348358/393265501) in [City Pages](http://www.citypages.com/) on 19 September 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [Mixed Blood](../../topics/mixed-blood/index.md) ([mirror](https://web.archive.org/web/*/http://www.citypages.com/arts/mixed-blood-is-suing-princes-estate-for-348358/393265501))
+ - [**"Mixed Blood is suing Prince's estate for $348,358 -- Last week, West Bank theater Mixed Blood filed a $350,000 lawsuit against Prince's estate after being forced to cancel its benefit gala at Paisley Park."**](http://www.citypages.com/arts/mixed-blood-is-suing-princes-estate-for-348358/393265501) in [City Pages](http://www.citypages.com/) on 19 September 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [contract](../../topics/contract/index.md), [Mixed Blood](../../topics/mixed-blood/index.md) ([mirror](https://web.archive.org/web/*/http://www.citypages.com/arts/mixed-blood-is-suing-princes-estate-for-348358/393265501))
 
 ----
 
@@ -58,7 +58,7 @@
 
 ----
 
- - [**"Paisley Park, home of Prince, opens for public tours Oct. 6"**](https://apnews.com/0d8c41adcd8946dfb5182d55d077cc09) by Steve Karnowski (Associated Press) in [Associated Press News](https://apnews.com/) on 25 August 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [fentanyl](../../topics/fentanyl/index.md), [Graceland](../../topics/graceland/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/0d8c41adcd8946dfb5182d55d077cc09))
+ - [**"Paisley Park, home of Prince, opens for public tours Oct. 6"**](https://apnews.com/0d8c41adcd8946dfb5182d55d077cc09) by Steve Karnowski (Associated Press) in [Associated Press News](https://apnews.com/) on 25 August 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [fentanyl](../../topics/fentanyl/index.md), [Graceland](../../topics/graceland/index.md), [museum](../../topics/museum/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/0d8c41adcd8946dfb5182d55d077cc09))
 
 ----
 
@@ -84,7 +84,7 @@
 
 ----
 
- - [**"Lawyers may have ‘potentially relevant’ info on Prince heirs"**](https://apnews.com/649c8b53a3514b54a7116f7f04641458) in [Associated Press News](https://apnews.com/) on 13 July 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [Henson & Efron](../../topics/henson-efron/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/649c8b53a3514b54a7116f7f04641458))
+ - [**"Lawyers may have ‘potentially relevant’ info on Prince heirs"**](https://apnews.com/649c8b53a3514b54a7116f7f04641458) in [Associated Press News](https://apnews.com/) on 13 July 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [Henson & Efron](../../topics/henson-efron/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/649c8b53a3514b54a7116f7f04641458))
 
 ----
 
@@ -94,7 +94,7 @@
 
 ----
 
- - [**"Minnesota judge to hold 2nd hearing in Prince estate case"**](https://apnews.com/a82cb099c3514ab59577e03533ea5898) by Steve Karnowski (Associated Press) in [Associated Press News](https://apnews.com/) on 26 June 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/a82cb099c3514ab59577e03533ea5898))
+ - [**"Minnesota judge to hold 2nd hearing in Prince estate case"**](https://apnews.com/a82cb099c3514ab59577e03533ea5898) by Steve Karnowski (Associated Press) in [Associated Press News](https://apnews.com/) on 26 June 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [museum](../../topics/museum/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/a82cb099c3514ab59577e03533ea5898))
 
 ----
 
@@ -102,11 +102,11 @@
 
 ----
 
- - [**"Key Prince career executives retained for estate management"**](https://apnews.com/9f07ae56d500460b9732713431643fb5) in [Associated Press News](https://apnews.com/) on 17 June 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [fentanyl](../../topics/fentanyl/index.md), [L. Londell McMilllan](../../topics/l-londell-mcmilllan/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/9f07ae56d500460b9732713431643fb5))
+ - [**"Key Prince career executives retained for estate management"**](https://apnews.com/9f07ae56d500460b9732713431643fb5) in [Associated Press News](https://apnews.com/) on 17 June 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [contract](../../topics/contract/index.md), [fentanyl](../../topics/fentanyl/index.md), [L. Londell McMilllan](../../topics/l-londell-mcmilllan/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/9f07ae56d500460b9732713431643fb5))
 
 ----
 
- - [**"Key Prince career executives retained for estate management"**](http://www.startribune.com/key-prince-career-executives-retained-for-estate-management/383370091/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 17 June 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [fentanyl](../../topics/fentanyl/index.md), [L. Londell McMilllan](../../topics/l-londell-mcmilllan/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/key-prince-career-executives-retained-for-estate-management/383370091/))
+ - [**"Key Prince career executives retained for estate management"**](http://www.startribune.com/key-prince-career-executives-retained-for-estate-management/383370091/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 17 June 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [contract](../../topics/contract/index.md), [fentanyl](../../topics/fentanyl/index.md), [L. Londell McMilllan](../../topics/l-londell-mcmilllan/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/key-prince-career-executives-retained-for-estate-management/383370091/))
 
 ----
 
@@ -124,7 +124,7 @@
 
 ## May 2016
 
- - [**"Effort to lock down publicity rights for Prince heirs encounters controversy at Capitol -- Proposal for publicity rights is scaled back after debate on First Amendment."**](http://www.startribune.com/effort-to-lock-down-publicity-rights-for-prince-heirs-encounters-controversy-at-capitol/379884991/) by Patrick Condon in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 May 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [exhibition](../../topics/exhibition/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/effort-to-lock-down-publicity-rights-for-prince-heirs-encounters-controversy-at-capitol/379884991/))
+ - [**"Effort to lock down publicity rights for Prince heirs encounters controversy at Capitol -- Proposal for publicity rights is scaled back after debate on First Amendment."**](http://www.startribune.com/effort-to-lock-down-publicity-rights-for-prince-heirs-encounters-controversy-at-capitol/379884991/) by Patrick Condon in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 May 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [contract](../../topics/contract/index.md), [exhibition](../../topics/exhibition/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/effort-to-lock-down-publicity-rights-for-prince-heirs-encounters-controversy-at-capitol/379884991/))
 
 ----
 
@@ -132,7 +132,7 @@
 
 ----
 
- - [**"Mixed Blood benefit booted from Paisley Park"**](http://www.citypages.com/arts/mixed-blood-benefit-booted-from-paisley-park-8262958) in [City Pages](http://www.citypages.com/) on 9 May 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [Mixed Blood](../../topics/mixed-blood/index.md) ([mirror](https://web.archive.org/web/*/http://www.citypages.com/arts/mixed-blood-benefit-booted-from-paisley-park-8262958))
+ - [**"Mixed Blood benefit booted from Paisley Park"**](http://www.citypages.com/arts/mixed-blood-benefit-booted-from-paisley-park-8262958) in [City Pages](http://www.citypages.com/) on 9 May 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [contract](../../topics/contract/index.md), [Mixed Blood](../../topics/mixed-blood/index.md) ([mirror](https://web.archive.org/web/*/http://www.citypages.com/arts/mixed-blood-benefit-booted-from-paisley-park-8262958))
 
 ----
 
@@ -148,11 +148,11 @@
 
 ----
 
- - [**"Mixed Blood is forced by Prince's estate to cancel gala at Paisley Park"**](http://www.startribune.com/mixed-blood-is-forced-by-prince-s-estate-to-cancel-gala-at-paisley-park/378494185/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 7 May 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [Mixed Blood](../../topics/mixed-blood/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/mixed-blood-is-forced-by-prince-s-estate-to-cancel-gala-at-paisley-park/378494185/))
+ - [**"Mixed Blood is forced by Prince's estate to cancel gala at Paisley Park"**](http://www.startribune.com/mixed-blood-is-forced-by-prince-s-estate-to-cancel-gala-at-paisley-park/378494185/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 7 May 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [contract](../../topics/contract/index.md), [Mixed Blood](../../topics/mixed-blood/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/mixed-blood-is-forced-by-prince-s-estate-to-cancel-gala-at-paisley-park/378494185/))
 
 ----
 
- - [**"Paisley Park event cancellation distresses Mixed Blood ticket holders -- Court-appointed trustee is enforcing a ban on events at Prince's estate."**](http://www.startribune.com/paisley-park-event-cancellation-distresses-mixed-blood-ticket-holders/378527695/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 7 May 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [Mixed Blood](../../topics/mixed-blood/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-event-cancellation-distresses-mixed-blood-ticket-holders/378527695/))
+ - [**"Paisley Park event cancellation distresses Mixed Blood ticket holders -- Court-appointed trustee is enforcing a ban on events at Prince's estate."**](http://www.startribune.com/paisley-park-event-cancellation-distresses-mixed-blood-ticket-holders/378527695/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 7 May 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [contract](../../topics/contract/index.md), [Mixed Blood](../../topics/mixed-blood/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-event-cancellation-distresses-mixed-blood-ticket-holders/378527695/))
 
 ----
 
@@ -170,7 +170,7 @@
 
 ## April 2016
 
- - [**"Fans’ Holy Grail: unreleased songs in Prince’s vault"**](https://apnews.com/73b9ba74daa4423bb36ac62d4655a71b) in [Associated Press News](https://apnews.com/) on 29 April 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/73b9ba74daa4423bb36ac62d4655a71b))
+ - [**"Fans’ Holy Grail: unreleased songs in Prince’s vault"**](https://apnews.com/73b9ba74daa4423bb36ac62d4655a71b) in [Associated Press News](https://apnews.com/) on 29 April 2016 about [Bangles](../../topics/bangles/index.md), [Bremer Trust](../../topics/bremer-trust/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/73b9ba74daa4423bb36ac62d4655a71b))
 
 ----
 

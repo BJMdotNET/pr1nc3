@@ -8,7 +8,7 @@
 
 ----
 
- - [**"A timeline of Prince's final days"**](http://www.startribune.com/a-timeline-of-prince-s-final-days/480321973/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 April 2018 about [Dakota (place)](../../../topics/place/dakota/index.md), [fentanyl](../../../topics/fentanyl/index.md), [Kirk Johnson](../../../topics/kirk-johnson/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/a-timeline-of-prince-s-final-days/480321973/))
+ - [**"A timeline of Prince's final days"**](http://www.startribune.com/a-timeline-of-prince-s-final-days/480321973/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 April 2018 about [Carver County](../../../topics/carver-county/index.md), [Dakota (place)](../../../topics/place/dakota/index.md), [fentanyl](../../../topics/fentanyl/index.md), [Kirk Johnson](../../../topics/kirk-johnson/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/a-timeline-of-prince-s-final-days/480321973/))
 
 ----
 

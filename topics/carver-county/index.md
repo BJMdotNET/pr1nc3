@@ -6,23 +6,25 @@
   * [2018](./carver-county-2018.md): 
       July (1) | 
       May (1) | 
-      April (15) | 
-      March (2) | 
+      April (17) | 
+      March (3) | 
   * [2017](./carver-county-2017.md): 
       October (1) | 
       July (1) | 
       June (1) | 
-      May (1) | 
-      April (4) | 
+      May (2) | 
+      April (6) | 
       January (4) | 
   * [2016](./carver-county-2016.md): 
+      December (1) | 
       November (1) | 
       October (3) | 
-      September (1) | 
-      July (2) | 
-      June (9) | 
-      May (12) | 
+      September (3) | 
+      July (4) | 
+      June (10) | 
+      May (14) | 
       April (14) | 
+      March (1) | 
 
 ----
 

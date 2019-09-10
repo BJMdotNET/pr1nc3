@@ -1,14 +1,14 @@
 # Associated Press News: April 2018
 
- - [**"Unfinished requiem: Enigmatic in life, Prince leaves mystery in death"**](https://apnews.com/48227e49f5384fe7b343b7ccdeb00e6f) in [Associated Press News](https://apnews.com/) on 22 April 2018 about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Owen Husney](../../topics/owen-husney/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/48227e49f5384fe7b343b7ccdeb00e6f))
+ - [**"Unfinished requiem: Enigmatic in life, Prince leaves mystery in death"**](https://apnews.com/48227e49f5384fe7b343b7ccdeb00e6f) in [Associated Press News](https://apnews.com/) on 22 April 2018 about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Larry Graham](../../topics/larry-graham/index.md), [museum](../../topics/museum/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Owen Husney](../../topics/owen-husney/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/48227e49f5384fe7b343b7ccdeb00e6f))
 
 ----
 
- - [**"A virtual Prince gets plenty of love in concert"**](https://apnews.com/cd016874af1c4126b63062f6ff4188ec) in [Associated Press News](https://apnews.com/) on 21 April 2018 about [Graceland](../../topics/graceland/index.md), [Joel Weinshanker](../../topics/joel-weinshanker/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/cd016874af1c4126b63062f6ff4188ec))
+ - [**"A virtual Prince gets plenty of love in concert"**](https://apnews.com/cd016874af1c4126b63062f6ff4188ec) in [Associated Press News](https://apnews.com/) on 21 April 2018 about [Graceland](../../topics/graceland/index.md), [Joel Weinshanker](../../topics/joel-weinshanker/index.md), [museum](../../topics/museum/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/cd016874af1c4126b63062f6ff4188ec))
 
 ----
 
- - [**"AP PHOTOS: Prince file shows extravagant but isolated life"**](https://apnews.com/873c94e63a994cb8b920e0f022d86f19) in [Associated Press News](https://apnews.com/) on 21 April 2018 about [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/873c94e63a994cb8b920e0f022d86f19))
+ - [**"AP PHOTOS: Prince file shows extravagant but isolated life"**](https://apnews.com/873c94e63a994cb8b920e0f022d86f19) in [Associated Press News](https://apnews.com/) on 21 April 2018 about [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [museum](../../topics/museum/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/873c94e63a994cb8b920e0f022d86f19))
 
 ----
 
@@ -44,7 +44,7 @@
 
 ----
 
- - [**"Minnesota music mogul writes about his life with Elvis, Jimi, Janis and Prince"**](https://apnews.com/40d0b497f55245a88a7b38c926003e4f) in [Associated Press News](https://apnews.com/) on 7 April 2018 about [Central High](../../topics/central-high/index.md), [Chris Moon](../../topics/chris-moon/index.md), [Jesse Johnson](../../topics/jesse-johnson/index.md), [memoir](../../topics/memoir/index.md), [Owen Husney](../../topics/owen-husney/index.md), [St. Louis Park (place)](../../topics/place/st-louis-park/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/40d0b497f55245a88a7b38c926003e4f))
+ - [**"Minnesota music mogul writes about his life with Elvis, Jimi, Janis and Prince"**](https://apnews.com/40d0b497f55245a88a7b38c926003e4f) in [Associated Press News](https://apnews.com/) on 7 April 2018 about [Central High](../../topics/central-high/index.md), [Chris Moon](../../topics/chris-moon/index.md), [contract](../../topics/contract/index.md), [Jesse Johnson](../../topics/jesse-johnson/index.md), [memoir](../../topics/memoir/index.md), [Owen Husney](../../topics/owen-husney/index.md), [St. Louis Park (place)](../../topics/place/st-louis-park/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/40d0b497f55245a88a7b38c926003e4f))
 
 ----
 
