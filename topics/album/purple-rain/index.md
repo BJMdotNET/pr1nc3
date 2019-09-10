@@ -6,7 +6,7 @@
       June (2) | 
   * [2017](./purple-rain-album-2017.md): 
       August (1) | 
-      June (1) | 
+      June (2) | 
       May (1) | 
       April (1) | 
   * [2016](./purple-rain-album-2016.md): 

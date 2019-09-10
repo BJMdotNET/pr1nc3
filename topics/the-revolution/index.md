@@ -18,6 +18,7 @@
       December (3) | 
       August (2) | 
       July (1) | 
+      June (1) | 
       May (1) | 
       April (7) | 
   * [2016](./the-revolution-2016.md): 

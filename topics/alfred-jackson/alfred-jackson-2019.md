@@ -16,6 +16,10 @@
 
 ----
 
+ - [**"Alfred Jackson, half-brother of late rock star Prince, dies"**](https://apnews.com/6b52dd65a9254e2c8f273bedc80902b6) in [Associated Press News](https://apnews.com/) on 30 August 2019 about [Alfred Jackson](../../topics/alfred-jackson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/6b52dd65a9254e2c8f273bedc80902b6))
+
+----
+
  - [**"One of Prince's heirs, Alfred Jackson, dies in Kansas City"**](http://www.startribune.com/one-of-prince-s-heirs-alfred-jackson-dies-in-kansas-city/558728862/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 29 August 2019 about [Alfred Jackson](../../topics/alfred-jackson/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/one-of-prince-s-heirs-alfred-jackson-dies-in-kansas-city/558728862/))
 
 ----

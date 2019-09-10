@@ -14,6 +14,7 @@
       April (1) | 
   * [2017](./vault-2017.md): 
       October (1) | 
+      June (1) | 
       April (1) | 
       February (1) | 
   * [2016](./vault-2016.md): 

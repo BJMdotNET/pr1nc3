@@ -6,6 +6,10 @@
 
 ----
 
+ - [**"'We lost a spiritual brother' in Prince -- A low-profile member in life, the star draws attention to Jehovah's Witnesses after death."**](http://www.startribune.com/prince-s-death-puts-spotlight-on-jehovah-s-witnesses/377972981/) by Jean Hopfensperger in [Minneapolis Star Tribune](http://www.startribune.com/) on 4 May 2016 about [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [Larry Graham](../../topics/larry-graham/index.md), [St. Louis Park (place)](../../topics/place/st-louis-park/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-death-puts-spotlight-on-jehovah-s-witnesses/377972981/))
+
+----
+
  - [**"Bassist: Prince found ‘real happiness’ as Jehovah’s Witness"**](https://apnews.com/9d74a545f96f473fa81c37073329320a) in [Associated Press News](https://apnews.com/) on 3 May 2016 about [Larry Graham](../../topics/larry-graham/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/9d74a545f96f473fa81c37073329320a))
 
 ----

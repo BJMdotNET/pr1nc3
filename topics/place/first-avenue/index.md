@@ -17,6 +17,7 @@
   * [2017](./first-avenue-place-2017.md): 
       December (1) | 
       August (1) | 
+      June (1) | 
       May (1) | 
       April (6) | 
   * [2016](./first-avenue-place-2016.md): 

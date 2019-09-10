@@ -9,7 +9,7 @@
   * [2016](./university-of-minnesota-2016.md): 
       December (1) | 
       September (1) | 
-      May (1) | 
+      May (2) | 
       April (1) | 
 
 ----
