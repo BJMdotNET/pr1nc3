@@ -1,5 +1,11 @@
 # Wendy Melvoin: 2019
 
+## September 2019
+
+ - [**"Prince’s ‘1999’ Album to Get Deluxe Reissue Treatment: Six-Disc Set Due in November"**](https://variety.com/2019/music/news/prince-1999-album-deluxe-reissue-november-1203331220/) in [Variety](https://variety.com/) on 10 September 2019 about [1999 (album)](../../topics/album/1999/index.md), [1999 (song)](../../topics/song/1999/index.md), [Horny Toad (song)](../../topics/song/horny-toad/index.md), [Irresistible Bitch (song)](../../topics/song/irresistible-bitch/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [The Revolution](../../topics/the-revolution/index.md), [vault](../../topics/vault/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/news/prince-1999-album-deluxe-reissue-november-1203331220/))
+
+----
+
 ## August 2019
 
  - [**"The Revolution, Prince's backing band during the 'Purple Rain' days, continues Reading's Downtown Alive series -- The group will play a free concert on Wednesday evening in the 500 block of Penn Street."**](https://www.readingeagle.com/weekend/article/readings-downtown-alive-series-says-welcome-to-the-revolution) in [Reading Eagle](https://www.readingeagle.com/) on 7 August 2019 about [1999 (album)](../../topics/album/1999/index.md), [Around The World In A Day (album)](../../topics/album/around-the-world-in-a-day/index.md), [Bobby Z.](../../topics/bobby-z/index.md), [Brown Mark](../../topics/brown-mark/index.md), [BrownMark](../../topics/brownmark/index.md), [BrownMark Nation](../../topics/brownmark-nation/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Matt Fink](../../topics/matt-fink/index.md), [Mazarati](../../topics/mazarati/index.md), [Parade (album)](../../topics/album/parade/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md) ([mirror](https://web.archive.org/web/*/https://www.readingeagle.com/weekend/article/readings-downtown-alive-series-says-welcome-to-the-revolution))

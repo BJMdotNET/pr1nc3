@@ -1,6 +1,7 @@
 # Little Red Corvette (song)
 
   * [2019](./little-red-corvette-song-2019.md): 
+      September (15) | 
       June (1) | 
       April (1) | 
   * [2018](./little-red-corvette-song-2018.md): 

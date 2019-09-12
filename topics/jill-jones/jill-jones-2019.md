@@ -1,5 +1,11 @@
 # Jill Jones: 2019
 
+## September 2019
+
+ - [**"Prince’s Massive ‘1999’ Box Set to Contain 35 Previously Unreleased Recordings -- Box set, due this fall, also contains previously unreleased video footage"**](https://www.rollingstone.com/music/music-news/prince-1999-reissue-882749/) in [Rolling Stone](https://www.rollingstone.com/) on 10 September 2019 about [1999 (album)](../../topics/album/1999/index.md), [1999 (song)](../../topics/song/1999/index.md), [Allen Beaulieu](../../topics/allen-beaulieu/index.md), [Andrea Swensson](../../topics/andrea-swensson/index.md), [Bangles](../../topics/bangles/index.md), [David Fricke](../../topics/david-fricke/index.md), [Duane Tudahl](../../topics/duane-tudahl/index.md), [Duff McKagan](../../topics/duff-mckagan/index.md), [Houston Summit (place)](../../topics/place/houston-summit/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-news/prince-1999-reissue-882749/))
+
+----
+
 ## July 2019
 
  - [**"New Single From Prince Released Off His Originals Album (Listen) -- The basic tracking for “Holly Rock” took place at Sunset Sound studios in Los Angeles at the end of April 1985"**](https://bassmagazine.com/artists/new-single-from-prince-released-off-his-originals-album) in [Bass Magazine](https://bassmagazine.com/) on 25 July 2019 about [Electric Light Studios](../../topics/electric-light-studios/index.md), [Holly Rock (song)](../../topics/song/holly-rock/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Krush Groove (movie)](../../topics/movie/krush-groove/index.md), [Originals (album)](../../topics/album/originals/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md) ([mirror](https://web.archive.org/web/*/https://bassmagazine.com/artists/new-single-from-prince-released-off-his-originals-album))

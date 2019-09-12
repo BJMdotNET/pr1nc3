@@ -1,5 +1,7 @@
 # oxycodone
 
+  * [2019](./oxycodone-2019.md): 
+      September (1) | 
   * [2018](./oxycodone-2018.md): 
       April (8) | 
   * [2017](./oxycodone-2017.md): 

@@ -1,5 +1,11 @@
 # Warner Bros. Records: 2019
 
+## September 2019
+
+ - [**"Upcoming ‘1999’ reissue includes 23 unheard Prince songs from his vault and two full concerts"**](https://www.twincities.com/2019/09/10/upcoming-1999-reissue-includes-23-unheard-prince-songs-from-his-vault-and-two-full-concerts/) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 10 September 2019 about [1999 (album)](../../topics/album/1999/index.md), [1999 (song)](../../topics/song/1999/index.md), [Andrea Swensson](../../topics/andrea-swensson/index.md), [David Fricke](../../topics/david-fricke/index.md), [Duane Tudahl](../../topics/duane-tudahl/index.md), [Duff McKagan](../../topics/duff-mckagan/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [The Revolution](../../topics/the-revolution/index.md), [vault](../../topics/vault/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md) ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2019/09/10/upcoming-1999-reissue-includes-23-unheard-prince-songs-from-his-vault-and-two-full-concerts/))
+
+----
+
 ## August 2019
 
  - [**"Prince's estate approves three more '90s reissues via Sony Legacy for September"**](http://www.startribune.com/prince-s-estate-approves-three-more-90s-reissues-via-sony-legacy-for-september/513494212/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 1 August 2019 about [Chaos and Disorder (album)](../../topics/album/chaos-and-disorder/index.md), [Emancipation (album)](../../topics/album/emancipation/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [The Versace Experience (Prelude 2 Gold) (album)](../../topics/album/the-versace-experience-prelude-2-gold/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-estate-approves-three-more-90s-reissues-via-sony-legacy-for-september/513494212/))

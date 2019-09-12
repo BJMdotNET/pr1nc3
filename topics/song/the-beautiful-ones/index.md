@@ -5,7 +5,7 @@
       August (3) | 
       June (1) | 
   * [2017](./the-beautiful-ones-song-2017.md): 
-      June (2) | 
+      June (3) | 
       April (1) | 
   * [2016](./the-beautiful-ones-song-2016.md): 
       April (1) | 

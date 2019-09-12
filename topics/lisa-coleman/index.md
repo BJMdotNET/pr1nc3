@@ -10,7 +10,7 @@
   * [2017](./lisa-coleman-2017.md): 
       November (1) | 
       August (1) | 
-      June (1) | 
+      June (2) | 
       May (1) | 
       April (3) | 
   * [2016](./lisa-coleman-2016.md): 

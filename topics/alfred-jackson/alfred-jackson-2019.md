@@ -2,6 +2,10 @@
 
 ## September 2019
 
+ - [**"Prince’s half-brother Alfred Jackson found dead in his Kansas City home at 66"**](https://en.brinkwire.com/us/princes-half-brother-alfred-jackson-found-dead-in-his-kansas-city-home-at-66/) in [en.brinkwire.com](https://en.brinkwire.com/) on 11 September 2019 about [Alfred Jackson](../../topics/alfred-jackson/index.md), [TMZ (website)](../../topics/website/tmz/index.md) ([mirror](https://web.archive.org/web/*/https://en.brinkwire.com/us/princes-half-brother-alfred-jackson-found-dead-in-his-kansas-city-home-at-66/))
+
+----
+
  - [**"Here’s what the Prince exhibit coming to the 2020 Minnesota State Fair might look like"**](http://www.citypages.com/music/heres-what-the-prince-exhibit-coming-to-the-2020-minnesota-state-fair-might-look-like/559252741) in [City Pages](http://www.citypages.com/) on 3 September 2019 about [Alfred Jackson](../../topics/alfred-jackson/index.md), [contract](../../topics/contract/index.md), [exhibit](../../topics/exhibit/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [Jon Bream](../../topics/jon-bream/index.md), [merchandise](../../topics/merchandise/index.md), [Minnesota State Fair](../../topics/minnesota-state-fair/index.md), [State Fair](../../topics/state-fair/index.md) ([mirror](https://web.archive.org/web/*/http://www.citypages.com/music/heres-what-the-prince-exhibit-coming-to-the-2020-minnesota-state-fair-might-look-like/559252741))
 
 ----

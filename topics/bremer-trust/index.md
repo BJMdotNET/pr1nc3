@@ -10,7 +10,7 @@
       January (2) | 
   * [2016](./bremer-trust-2016.md): 
       December (2) | 
-      November (2) | 
+      November (3) | 
       October (2) | 
       September (5) | 
       August (6) | 

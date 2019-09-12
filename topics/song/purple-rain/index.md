@@ -6,7 +6,7 @@
   * [2018](./purple-rain-song-2018.md): 
       September (2) | 
   * [2017](./purple-rain-song-2017.md): 
-      June (2) | 
+      June (3) | 
       April (1) | 
   * [2016](./purple-rain-song-2016.md): 
       September (1) | 

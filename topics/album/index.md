@@ -1,6 +1,6 @@
 # album
 
-  * [1999 (album)](./album/1999/) (5)
+  * [1999 (album)](./album/1999/) (25)
   * [3121 (album)](./album/3121/) (8)
   * [Around The World In A Day (album)](./album/around-the-world-in-a-day/) (5)
   * [Batman (album)](./album/batman/) (2)
@@ -19,9 +19,9 @@
   * [Parade (album)](./album/parade/) (8)
   * [Piano and a Microphone 1983 (album)](./album/piano-and-a-microphone-1983/) (10)
   * [Prince Anthology: 1995-2010 (album)](./album/prince-anthology-1995-2010/) (2)
-  * [Purple Rain (album)](./album/purple-rain/) (21)
+  * [Purple Rain (album)](./album/purple-rain/) (22)
   * [Rave In2 the Joy Fantastic (album)](./album/rave-in2-the-joy-fantastic/) (5)
-  * [Rave Un2 the Joy Fantastic (album)](./album/rave-un2-the-joy-fantastic/) (6)
+  * [Rave Un2 the Joy Fantastic (album)](./album/rave-un2-the-joy-fantastic/) (7)
   * [Sign O' The Times (album)](./album/sign-o-the-times/) (1)
   * [The Black Album (album)](./album/the-black-album/) (3)
   * [The Glamorous Life (album)](./album/the-glamorous-life/) (3)

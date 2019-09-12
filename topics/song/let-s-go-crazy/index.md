@@ -7,7 +7,7 @@
   * [2018](./let-s-go-crazy-song-2018.md): 
       October (3) | 
   * [2017](./let-s-go-crazy-song-2017.md): 
-      June (1) | 
+      June (2) | 
       April (2) | 
   * [2016](./let-s-go-crazy-song-2016.md): 
       December (1) | 

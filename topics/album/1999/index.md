@@ -1,22 +1,15 @@
 # 1999 (album)
 
- - [**"The Revolution, Prince's backing band during the 'Purple Rain' days, continues Reading's Downtown Alive series -- The group will play a free concert on Wednesday evening in the 500 block of Penn Street."**](https://www.readingeagle.com/weekend/article/readings-downtown-alive-series-says-welcome-to-the-revolution) in [Reading Eagle](https://www.readingeagle.com/) on 7 August 2019 about [1999 (album)](../../../topics/album/1999/index.md), [Around The World In A Day (album)](../../../topics/album/around-the-world-in-a-day/index.md), [Bobby Z.](../../../topics/bobby-z/index.md), [Brown Mark](../../../topics/brown-mark/index.md), [BrownMark](../../../topics/brownmark/index.md), [BrownMark Nation](../../../topics/brownmark-nation/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Lisa Coleman](../../../topics/lisa-coleman/index.md), [Matt Fink](../../../topics/matt-fink/index.md), [Mazarati](../../../topics/mazarati/index.md), [Parade (album)](../../../topics/album/parade/index.md), [Purple Rain (album)](../../../topics/album/purple-rain/index.md), [The Revolution](../../../topics/the-revolution/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md) ([mirror](https://web.archive.org/web/*/https://www.readingeagle.com/weekend/article/readings-downtown-alive-series-says-welcome-to-the-revolution))
-
-----
-
- - [**"How Long Does It Take to Make a Classic Album? -- From D’Angelo’s infamously slow creative pace to Frank Sinatra’s rapid-fire release schedule, our expectations of artists’ output have always been in flux."**](https://pitchfork.com/features/article/how-long-does-it-take-to-make-a-classic-album/) by Ann-Derrick Gaillot in [Pitchfork](https://pitchfork.com/) on 24 July 2019 about [1999 (album)](../../../topics/album/1999/index.md), [contract](../../../topics/contract/index.md), [Miles Davis](../../../topics/miles-davis/index.md), [Purple Rain (album)](../../../topics/album/purple-rain/index.md), [Stevie Wonder](../../../topics/stevie-wonder/index.md) ([mirror](https://web.archive.org/web/*/https://pitchfork.com/features/article/how-long-does-it-take-to-make-a-classic-album/))
-
-----
-
- - [**"Prince’s Longtime Pianist and Archivist Talk ‘Piano & a Microphone 1983’ and the ‘Vault’ -- "It’s a look at somebody who shared himself with the public taking moments for himself, to make himself better," the Revolution's Lisa Coleman says"**](https://variety.com/2018/biz/news/princes-longtime-pianist-and-archivist-talk-piano-a-microphone-1983-and-the-vault-1202952085/) in [Variety](https://variety.com/) on 21 September 2018 about [1999 (album)](../../../topics/album/1999/index.md), [Baby I’m a Star (song)](../../../topics/song/baby-i-m-a-star/index.md), [Bob Cavallo](../../../topics/bob-cavallo/index.md), [bootleg](../../../topics/bootleg/index.md), [Dirty Mind (tour)](../../../topics/tour/dirty-mind/index.md), [Do It All Night (song)](../../../topics/song/do-it-all-night/index.md), [Do Me Baby (song)](../../../topics/song/do-me-baby/index.md), [I Wanna Be Your Lover (song)](../../../topics/song/i-wanna-be-your-lover/index.md), [Lisa Coleman](../../../topics/lisa-coleman/index.md), [Michael Howe](../../../topics/michael-howe/index.md), [museum](../../../topics/museum/index.md), [Pop Life (song)](../../../topics/song/pop-life/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [The Revolution](../../../topics/the-revolution/index.md), [vault](../../../topics/vault/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2018/biz/news/princes-longtime-pianist-and-archivist-talk-piano-a-microphone-1983-and-the-vault-1202952085/))
-
-----
-
- - [**"Prince’s band, The Revolution, pays tribute to him at Mohegan Sun’s Wolf Den"**](https://apnews.com/adb446ee03a044f8a94e407e19646fdd) in [Associated Press News](https://apnews.com/) on 5 August 2017 about [1999 (album)](../../../topics/album/1999/index.md), [Bobby Z.](../../../topics/bobby-z/index.md), [BrownMark](../../../topics/brownmark/index.md), [Lisa Coleman](../../../topics/lisa-coleman/index.md), [Parade (album)](../../../topics/album/parade/index.md), [Purple Rain (album)](../../../topics/album/purple-rain/index.md), [The Revolution](../../../topics/the-revolution/index.md), [Warner Bros. Records](../../../topics/warner-bros-records/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/adb446ee03a044f8a94e407e19646fdd))
-
-----
-
- - [**"Prince album covers for 'Purple Rain,' 'Lovesexy,' 'Parade' created by University Heights' Laura LiPuma Nash (photos)"**](https://www.cleveland.com/entertainment/2016/04/prince_album_covers_for_purple.html) in [Cleveland.com](https://www.cleveland.com/) on 29 April 2016 about [1999 (album)](../../../topics/album/1999/index.md), [Grammy Award](../../../topics/grammy-award/index.md), [Laura LiPuma](../../../topics/laura-lipuma/index.md), [Lovesexy (album)](../../../topics/album/lovesexy/index.md), [Parade (album)](../../../topics/album/parade/index.md), [Purple Rain (album)](../../../topics/album/purple-rain/index.md), [Warner Bros. Records](../../../topics/warner-bros-records/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://www.cleveland.com/entertainment/2016/04/prince_album_covers_for_purple.html))
+  * [2019](./1999-album-2019.md): 
+      September (20) | 
+      August (1) | 
+      July (1) | 
+  * [2018](./1999-album-2018.md): 
+      September (1) | 
+  * [2017](./1999-album-2017.md): 
+      August (1) | 
+  * [2016](./1999-album-2016.md): 
+      April (1) | 
 
 ----
 

@@ -1,6 +1,7 @@
 # Wendy Melvoin
 
   * [2019](./wendy-melvoin-2019.md): 
+      September (1) | 
       August (1) | 
       July (2) | 
       June (4) | 
@@ -12,6 +13,7 @@
   * [2017](./wendy-melvoin-2017.md): 
       November (1) | 
       August (1) | 
+      June (1) | 
       April (3) | 
   * [2016](./wendy-melvoin-2016.md): 
       December (2) | 

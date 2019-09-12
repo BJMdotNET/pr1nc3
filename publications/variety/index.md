@@ -1,6 +1,7 @@
 # Variety
 
   * 2019: 
+      [September](./variety-2019-09.md) (1) | 
       [August](./variety-2019-08.md) (2) | 
       [July](./variety-2019-07.md) (1) | 
       [June](./variety-2019-06.md) (2) | 
@@ -19,6 +20,8 @@
   * 2016: 
       [August](./variety-2016-08.md) (1) | 
       [April](./variety-2016-04.md) (1) | 
+  * 1999: 
+      [August](./variety-1999-08.md) (1) | 
   * 1995: 
       [September](./variety-1995-09.md) (1) | 
   * 1994: 

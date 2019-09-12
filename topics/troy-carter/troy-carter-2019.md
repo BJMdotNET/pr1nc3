@@ -2,6 +2,10 @@
 
 ## September 2019
 
+ - [**"Prince’s 1999 Getting Expanded Reissue With 35 Unreleased Tracks"**](https://www.stereogum.com/2057855/princes-1999-getting-expanded-reissue-with-35-unreleased-tracks/news/) in [www.stereogum.com](https://www.stereogum.com/) on 10 September 2019 about [1999 (album)](../../topics/album/1999/index.md), [1999 (song)](../../topics/song/1999/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Troy Carter](../../topics/troy-carter/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.stereogum.com/2057855/princes-1999-getting-expanded-reissue-with-35-unreleased-tracks/news/))
+
+----
+
  - [**"PRINCE'S ICONIC CLOUD GUITAR INVOLVED IN TRADEMARK DISPUTE -- When Doves File Trademark Disputes"**](http://www.mixdownmag.com.au/princes-iconic-cloud-guitar-involved-trademark-dispute) in [Mixdown](http://www.mixdownmag.com.au/) on 5 September 2019 about [Cloud guitar](../../topics/cloud-guitar/index.md), [Dave Rusan](../../topics/dave-rusan/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [trademark](../../topics/trademark/index.md), [Troy Carter](../../topics/troy-carter/index.md) ([mirror](https://web.archive.org/web/*/http://www.mixdownmag.com.au/princes-iconic-cloud-guitar-involved-trademark-dispute))
 
 ----

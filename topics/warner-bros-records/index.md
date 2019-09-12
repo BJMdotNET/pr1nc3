@@ -1,6 +1,7 @@
 # Warner Bros. Records
 
   * [2019](./warner-bros-records-2019.md): 
+      September (1) | 
       August (1) | 
       July (1) | 
       June (2) | 

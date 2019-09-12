@@ -11,6 +11,7 @@
   * [Galpin Blvd. (place)](./place/galpin-blvd/) (1)
   * [Galpin Boulevard (place)](./place/galpin-boulevard/) (1)
   * [Glam Slam (place)](./place/glam-slam/) (2)
+  * [Houston Summit (place)](./place/houston-summit/) (11)
   * [Lake Minnetonka (place)](./place/lake-minnetonka/) (2)
   * [London (place)](./place/london/) (8)
   * [Mann’s Chinese Theatre (place)](./place/mann-s-chinese-theatre/) (1)
