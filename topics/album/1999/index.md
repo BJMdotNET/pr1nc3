@@ -1,7 +1,7 @@
 # 1999 (album)
 
   * [2019](./1999-album-2019.md): 
-      September (20) | 
+      September (27) | 
       August (1) | 
       July (1) | 
   * [2018](./1999-album-2018.md): 

@@ -1,5 +1,9 @@
 # Janet Jackson
 
+ - [**"To Janet Jackson, Minneapolis will always be her 'home away from home' -- Balancing motherhood and megahits, Janet Jackson talks about her return to Minnesota, where she recorded her breakthrough albums. "**](http://www.startribune.com/to-janet-jackson-minneapolis-will-always-be-her-home-away-from-home/560054982/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 11 September 2019 about [Janelle Monae](../../topics/janelle-monae/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Time](../../topics/the-time/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/to-janet-jackson-minneapolis-will-always-be-her-home-away-from-home/560054982/))
+
+----
+
  - [**"Justin Timberlake previews Super Bowl halftime show: No Janet Jackson"**](https://apnews.com/7c4321049c904c9fa912ac8290000f23) in [Associated Press News](https://apnews.com/) on 2 February 2018 about [Janet Jackson](../../topics/janet-jackson/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [Super Bowl](../../topics/super-bowl/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/7c4321049c904c9fa912ac8290000f23))
 
 ----

@@ -1,5 +1,13 @@
 # Dez Dickerson
 
+ - [**"Watch Prince Celebrate Pop Apocalypse With Previously Unreleased ‘1999’ Live Clip -- DVD of full 1982 concert in Houston, Texas will appear on upcoming 1999 deluxe reissue"**](https://www.rollingstone.com/music/music-news/prince-1999-live-houston-1982-883499/) in [Rolling Stone](https://www.rollingstone.com/) on 12 September 2019 about [1999 (album)](../../topics/album/1999/index.md), [1999 (song)](../../topics/song/1999/index.md), [1999 Deluxe (album)](../../topics/album/1999-deluxe/index.md), [Allen Beaulieu](../../topics/allen-beaulieu/index.md), [Brown Mark](../../topics/brown-mark/index.md), [David Fricke](../../topics/david-fricke/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [Duff McKagan](../../topics/duff-mckagan/index.md) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-news/prince-1999-live-houston-1982-883499/))
+
+----
+
+ - [**"Watch Prince Perform ‘1999’ In Houston In 1982"**](https://www.jambase.com/article/prince-1999-houston-1982) in [Jambase](https://www.jambase.com/) on 12 September 2019 about [1999 (album)](../../topics/album/1999/index.md), [1999 (song)](../../topics/song/1999/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md) ([mirror](https://web.archive.org/web/*/https://www.jambase.com/article/prince-1999-houston-1982))
+
+----
+
  - [**"‘Prince: Before the Rain’ photo exhibit coming to Minnesota History Center"**](https://blog.thecurrent.org/2019/08/prince-before-the-rain-photo-exhibit-coming-to-minnesota-history-center/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 6 August 2019 about [Allen Beaulieu](../../topics/allen-beaulieu/index.md), [André Cymone](../../topics/andr-cymone/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [exhibit](../../topics/exhibit/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Minnesota History Center](../../topics/minnesota-history-center/index.md), [Prince: Before the Rain](../../topics/prince-before-the-rain/index.md) ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2019/08/prince-before-the-rain-photo-exhibit-coming-to-minnesota-history-center/))
 
 ----

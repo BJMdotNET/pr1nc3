@@ -16,7 +16,7 @@
       September (1) | 
       July (1) | 
       June (2) | 
-      May (1) | 
+      May (2) | 
       April (2) | 
   * [2006](./mayte-garcia-2006.md): 
       July (1) | 

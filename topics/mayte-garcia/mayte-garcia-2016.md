@@ -50,6 +50,10 @@
 
 ----
 
+ - [**"Prince's death, Day 18: Ex-wife speaks about loss of son"**](https://usatoday.com/story/life/people/2016/05/08/princes-death-day-18-ex-wife-speaks-loss-son/84109510/) in [USA Today](https://usatoday.com/) on 8 May 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Mixed Blood](../../topics/mixed-blood/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/people/2016/05/08/princes-death-day-18-ex-wife-speaks-loss-son/84109510/))
+
+----
+
 ## April 2016
 
  - [**"Prince’s former wives issue messages of grief"**](https://apnews.com/e1248c7300a445e0a07e438cf492a4c4) by The Associated Press in [Associated Press News](https://apnews.com/) on 23 April 2016 about [In a Perfect World](../../topics/in-a-perfect-world/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/e1248c7300a445e0a07e438cf492a4c4))

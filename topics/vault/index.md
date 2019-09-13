@@ -1,7 +1,7 @@
 # vault
 
   * [2019](./vault-2019.md): 
-      September (15) | 
+      September (18) | 
       August (1) | 
       June (8) | 
       May (1) | 
@@ -21,6 +21,7 @@
       December (1) | 
       November (1) | 
       September (1) | 
+      June (1) | 
       May (1) | 
       April (5) | 
   * [1999](./vault-1999.md): 

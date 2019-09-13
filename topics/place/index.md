@@ -1,6 +1,6 @@
 # place
 
-  * [Atlanta (place)](./place/atlanta/) (24)
+  * [Atlanta (place)](./place/atlanta/) (25)
   * [Bel Air (place)](./place/bel-air/) (1)
   * [Capri Theater  (place)](./place/capri-theater/) (1)
   * [Capri Theatre (place)](./place/capri-theatre/) (1)
@@ -11,12 +11,12 @@
   * [Galpin Blvd. (place)](./place/galpin-blvd/) (1)
   * [Galpin Boulevard (place)](./place/galpin-boulevard/) (1)
   * [Glam Slam (place)](./place/glam-slam/) (2)
-  * [Houston Summit (place)](./place/houston-summit/) (11)
+  * [Houston Summit (place)](./place/houston-summit/) (12)
   * [Lake Minnetonka (place)](./place/lake-minnetonka/) (2)
   * [London (place)](./place/london/) (8)
   * [Mann’s Chinese Theatre (place)](./place/mann-s-chinese-theatre/) (1)
   * [Minneapolis-St. Paul International Airport (place)](./place/minneapolis-st-paul-international-airport/) (2)
-  * [Moline, Illinois (place)](./place/moline-illinois/) (17)
+  * [Moline, Illinois (place)](./place/moline-illinois/) (18)
   * [Moon Sound Studio (place)](./place/moon-sound-studio/) (1)
   * [North Memorial Medical Center (place)](./place/north-memorial-medical-center/) (4)
   * [Paisley Park Studios (place)](./place/paisley-park-studios/) (2)

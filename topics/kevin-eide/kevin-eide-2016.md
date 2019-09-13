@@ -58,6 +58,10 @@
 
 ----
 
+ - [**"Source: DNA proves Colorado inmate not Prince's son"**](https://edition.cnn.com/2016/06/22/entertainment/carlin-williams-not-princes-son/index.html) in [CNN International](https://edition.cnn.com/) on 23 June 2016 about [Carlin Q. Williams](../../topics/carlin-q-williams/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Marsha Henson](../../topics/marsha-henson/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://edition.cnn.com/2016/06/22/entertainment/carlin-williams-not-princes-son/index.html))
+
+----
+
  - [**"Prince estate case judge seals documents from would-be heirs"**](https://apnews.com/7e844fbac2e1494aba98260e58389710) in [Associated Press News](https://apnews.com/) on 21 June 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/7e844fbac2e1494aba98260e58389710))
 
 ----

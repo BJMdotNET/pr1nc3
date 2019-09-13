@@ -1,5 +1,9 @@
 # Minneapolis Star Tribune: September 2019
 
+ - [**"To Janet Jackson, Minneapolis will always be her 'home away from home' -- Balancing motherhood and megahits, Janet Jackson talks about her return to Minnesota, where she recorded her breakthrough albums. "**](http://www.startribune.com/to-janet-jackson-minneapolis-will-always-be-her-home-away-from-home/560054982/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 11 September 2019 about [Janelle Monae](../../topics/janelle-monae/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Time](../../topics/the-time/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/to-janet-jackson-minneapolis-will-always-be-her-home-away-from-home/560054982/))
+
+----
+
  - [**"Deluxe reissue of Prince's '1999' is set for Nov. 29 with three dozen new tracks"**](http://www.startribune.com/deluxe-reissue-of-prince-s-1999-is-set-for-nov-29-with-three-dozen-new-tracks/559971322/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 September 2019 about [1999 (album)](../../topics/album/1999/index.md), [Allen Beaulieu](../../topics/allen-beaulieu/index.md), [Andrea Swensson](../../topics/andrea-swensson/index.md), [David Fricke](../../topics/david-fricke/index.md), [Duff McKagan](../../topics/duff-mckagan/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/deluxe-reissue-of-prince-s-1999-is-set-for-nov-29-with-three-dozen-new-tracks/559971322/))
 
 ----

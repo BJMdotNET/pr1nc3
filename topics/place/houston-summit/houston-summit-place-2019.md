@@ -2,6 +2,10 @@
 
 ## September 2019
 
+ - [**"Prince's Estate To Reissue '1999' Album With Unreleased Songs, Concert Footage"**](https://www.vibe.com/2019/09/princes-estate-to-reissue-1999-album-with-unreleased-songs-concert-footage) in [www.vibe.com](https://www.vibe.com/) on 12 September 2019 about [1999 (album)](../../../topics/album/1999/index.md), [1999 (song)](../../../topics/song/1999/index.md), [Allen Beaulieu](../../../topics/allen-beaulieu/index.md), [Andrea Swensson](../../../topics/andrea-swensson/index.md), [David Fricke](../../../topics/david-fricke/index.md), [Duane Tudahl](../../../topics/duane-tudahl/index.md), [Duff McKagan](../../../topics/duff-mckagan/index.md), [Houston Summit (place)](../../../topics/place/houston-summit/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [The Time](../../../topics/the-time/index.md), [Vanity 6](../../../topics/vanity-6/index.md), [vault](../../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.vibe.com/2019/09/princes-estate-to-reissue-1999-album-with-unreleased-songs-concert-footage))
+
+----
+
  - [**"Heruitgave Prince-album ‘1999’ met 35 nieuwe songs"**](https://www.demorgen.be/nieuws/heruitgave-prince-album-1999-met-35-nieuwe-songs~bce9c5e6/) in [www.demorgen.be](https://www.demorgen.be/) on 11 September 2019 about [1999 (album)](../../../topics/album/1999/index.md), [Allen Beaulieu](../../../topics/allen-beaulieu/index.md), [Houston Summit (place)](../../../topics/place/houston-summit/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md) ([mirror](https://web.archive.org/web/*/https://www.demorgen.be/nieuws/heruitgave-prince-album-1999-met-35-nieuwe-songs~bce9c5e6/))
 
 ----

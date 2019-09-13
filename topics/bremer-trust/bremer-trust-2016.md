@@ -144,6 +144,10 @@
 
 ----
 
+ - [**"Prince's death, Day 18: Ex-wife speaks about loss of son"**](https://usatoday.com/story/life/people/2016/05/08/princes-death-day-18-ex-wife-speaks-loss-son/84109510/) in [USA Today](https://usatoday.com/) on 8 May 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Mixed Blood](../../topics/mixed-blood/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/people/2016/05/08/princes-death-day-18-ex-wife-speaks-loss-son/84109510/))
+
+----
+
  - [**"Judge authorizes DNA testing of Prince's blood for any heir claims"**](http://www.startribune.com/prince-creditors-have-four-months-to-file-claims/378449441/) by Dan Browning in [Minneapolis Star Tribune](http://www.startribune.com/) on 7 May 2016 about [Atlanta (place)](../../topics/place/atlanta/index.md), [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [Kevin Eide](../../topics/kevin-eide/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-creditors-have-four-months-to-file-claims/378449441/))
 
 ----

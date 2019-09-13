@@ -16,6 +16,12 @@
 
 ----
 
+## July 2016
+
+ - [**"Prince died of accidental overdose of opioid fentanyl, medical examiner says"**](https://edition.cnn.com/2016/06/02/health/prince-death-opioid-overdose/) in [CNN International](https://edition.cnn.com/) on 3 July 2016 about [Andrew Kornfeld](../../../topics/andrew-kornfeld/index.md), [Atlanta (place)](../../../topics/place/atlanta/index.md), [fentanyl](../../../topics/fentanyl/index.md), [Howard Kornfeld](../../../topics/howard-kornfeld/index.md), [Moline, Illinois (place)](../../../topics/place/moline-illinois/index.md), [Percocet](../../../topics/percocet/index.md), [toxicology report](../../../topics/toxicology-report/index.md) ([mirror](https://web.archive.org/web/*/https://edition.cnn.com/2016/06/02/health/prince-death-opioid-overdose/))
+
+----
+
 ## May 2016
 
  - [**"Warrant: Minnesota doctor saw Prince, prescribed drugs"**](https://apnews.com/21140409ac784faf88f88ce5c400bbe3) in [Associated Press News](https://apnews.com/) on 11 May 2016 about [Andrew Kornfeld](../../../topics/andrew-kornfeld/index.md), [Atlanta (place)](../../../topics/place/atlanta/index.md), [Carver County](../../../topics/carver-county/index.md), [Howard Kornfeld](../../../topics/howard-kornfeld/index.md), [Michael Todd Schulenberg](../../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../../topics/place/moline-illinois/index.md), [North Memorial Medical Center (place)](../../../topics/place/north-memorial-medical-center/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/21140409ac784faf88f88ce5c400bbe3))

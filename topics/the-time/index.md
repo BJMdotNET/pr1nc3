@@ -1,6 +1,7 @@
 # The Time
 
   * [2019](./the-time-2019.md): 
+      September (2) | 
       July (7) | 
       June (10) | 
       April (5) | 

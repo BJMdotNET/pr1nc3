@@ -8,6 +8,7 @@
       March (1) | 
   * [2016](./moline-illinois-place-2016.md): 
       August (2) | 
+      July (1) | 
       May (3) | 
       April (4) | 
 

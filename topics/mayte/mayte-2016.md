@@ -56,6 +56,10 @@
 
 ----
 
+ - [**"Prince's death, Day 18: Ex-wife speaks about loss of son"**](https://usatoday.com/story/life/people/2016/05/08/princes-death-day-18-ex-wife-speaks-loss-son/84109510/) in [USA Today](https://usatoday.com/) on 8 May 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Mixed Blood](../../topics/mixed-blood/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/people/2016/05/08/princes-death-day-18-ex-wife-speaks-loss-son/84109510/))
+
+----
+
 ## April 2016
 
  - [**"Letters from Prince: A Minneapolis writer remembers his relationship with a lost star -- Minnesota native Neal Karlen was 25 years old when he landed the first of two in-depth interviews with Prince for Rolling Stone. What followed were 31 years of handwritten notes, late-night calls and an unlikely friendship."**](http://www.startribune.com/letters-from-prince-a-minneapolis-writer-remembers-his-relationship-with-a-lost-star/377555951/) by Neal Karlen in [Minneapolis Star Tribune](http://www.startribune.com/) on 29 April 2016 about [Mayte](../../topics/mayte/index.md), [Neal Karlen](../../topics/neal-karlen/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/letters-from-prince-a-minneapolis-writer-remembers-his-relationship-with-a-lost-star/377555951/))

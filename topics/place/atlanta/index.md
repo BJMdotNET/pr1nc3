@@ -8,6 +8,7 @@
   * [2016](./atlanta-place-2016.md): 
       October (1) | 
       August (2) | 
+      July (1) | 
       May (5) | 
       April (7) | 
   * [1985](./atlanta-place-1985.md): 

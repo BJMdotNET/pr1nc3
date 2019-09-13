@@ -5,6 +5,7 @@
   * [2017](./andrew-kornfeld-2017.md): 
       April (1) | 
   * [2016](./andrew-kornfeld-2016.md): 
+      July (1) | 
       June (1) | 
       May (6) | 
 

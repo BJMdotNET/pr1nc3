@@ -24,6 +24,10 @@
 
 ----
 
+ - [**"Prince's death, Day 18: Ex-wife speaks about loss of son"**](https://usatoday.com/story/life/people/2016/05/08/princes-death-day-18-ex-wife-speaks-loss-son/84109510/) in [USA Today](https://usatoday.com/) on 8 May 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Mixed Blood](../../topics/mixed-blood/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/people/2016/05/08/princes-death-day-18-ex-wife-speaks-loss-son/84109510/))
+
+----
+
  - [**"Mixed Blood forced to cancel party at Paisley Park"**](http://www.fox9.com/news/mixed-blood-forced-to-cancel-party-at-paisley-park) in [Fox 9](http://www.fox9.com/) on 7 May 2016 about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [John Nelson](../../topics/john-nelson/index.md), [Mixed Blood](../../topics/mixed-blood/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/http://www.fox9.com/news/mixed-blood-forced-to-cancel-party-at-paisley-park))
 
 ----
