@@ -1,5 +1,9 @@
 # Quincy Jones
 
+ - [**"W&W PR VICE PRESIDENT KAREN LEE RECEIVES HIGH HONORS FROM LIVING LEGENDS FOUNDATION -- PLUS: She Credits ‘Old Hollywood’ publicist Henry C. Rogers, legendary Patti Webster as role models and speaks on the amazing charitable nature of PRINCE"**](https://eurweb.com/2019/09/16/ww-pr-vice-president-karen-lee-receives-high-honors-from-living-legends-foundation/) in [EURweb](https://eurweb.com/) on 16 September 2019 about [Chaka Khan](../../topics/chaka-khan/index.md), [contract](../../topics/contract/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [PRN Alumni Foundation](../../topics/prn-alumni-foundation/index.md), [Quincy Jones](../../topics/quincy-jones/index.md) ([mirror](https://web.archive.org/web/*/https://eurweb.com/2019/09/16/ww-pr-vice-president-karen-lee-receives-high-honors-from-living-legends-foundation/))
+
+----
+
  - [**"Morris Day shows off his comedic chops in new Prince mockumentary"**](http://www.startribune.com/morris-day-shows-off-his-comedic-chops-in-new-prince-mockumentary/523094741/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 6 August 2019 about [Computer Blue (song)](../../topics/song/computer-blue/index.md), [Jungle Love (song)](../../topics/song/jungle-love/index.md), [Morris Day](../../topics/morris-day/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Quincy Jones](../../topics/quincy-jones/index.md), [Sherman's Showcase (TV show)](../../topics/tv-show/sherman-s-showcase/index.md), [The Bird (song)](../../topics/song/the-bird/index.md), [Vicki, is the Water Warm Enough (song)](../../topics/song/vicki-is-the-water-warm-enough/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/morris-day-shows-off-his-comedic-chops-in-new-prince-mockumentary/523094741/))
 
 ----

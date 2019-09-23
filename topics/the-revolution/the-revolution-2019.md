@@ -2,6 +2,10 @@
 
 ## September 2019
 
+ - [**"Interview mit Prince-Tänzerin Cat: „Ich las ihm ‚Der Kleine Prinz‘ beim Einschlafen vor“"**](https://www.rollingstone.de/prince-interview-mit-cat-sign-o-the-times-1761999/) in [www.rollingstone.de](https://www.rollingstone.de/) on 13 September 2019 about [Albert Magnoli](../../topics/albert-magnoli/index.md), [Housequake (song)](../../topics/song/housequake/index.md), [LeRoy Bennett](../../topics/leroy-bennett/index.md), [Lovesexy (album)](../../topics/album/lovesexy/index.md), [Lovesexy (tour)](../../topics/tour/lovesexy/index.md), [museum](../../topics/museum/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [The Revolution](../../topics/the-revolution/index.md), [U Got the Look (song)](../../topics/song/u-got-the-look/index.md), [vault](../../topics/vault/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.de/prince-interview-mit-cat-sign-o-the-times-1761999/))
+
+----
+
  - [**"Prince ‘1999’ Remaster Features 35 Previously Unreleased Tracks"**](https://www.jambase.com/article/prince-1999-remaster) in [Jambase](https://www.jambase.com/) on 10 September 2019 about [1999 (album)](../../topics/album/1999/index.md), [1999 (song)](../../topics/song/1999/index.md), [Allen Beaulieu](../../topics/allen-beaulieu/index.md), [Andrea Swensson](../../topics/andrea-swensson/index.md), [David Fricke](../../topics/david-fricke/index.md), [Duane Tudahl](../../topics/duane-tudahl/index.md), [Duff McKagan](../../topics/duff-mckagan/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [The Revolution](../../topics/the-revolution/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.jambase.com/article/prince-1999-remaster))
 
 ----

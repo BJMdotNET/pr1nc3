@@ -1,5 +1,11 @@
 # Susannah Melvoin: 2019
 
+## September 2019
+
+ - [**"Interview mit Prince-Tänzerin Cat: „Ich las ihm ‚Der Kleine Prinz‘ beim Einschlafen vor“"**](https://www.rollingstone.de/prince-interview-mit-cat-sign-o-the-times-1761999/) in [www.rollingstone.de](https://www.rollingstone.de/) on 13 September 2019 about [Albert Magnoli](../../topics/albert-magnoli/index.md), [Housequake (song)](../../topics/song/housequake/index.md), [LeRoy Bennett](../../topics/leroy-bennett/index.md), [Lovesexy (album)](../../topics/album/lovesexy/index.md), [Lovesexy (tour)](../../topics/tour/lovesexy/index.md), [museum](../../topics/museum/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [The Revolution](../../topics/the-revolution/index.md), [U Got the Look (song)](../../topics/song/u-got-the-look/index.md), [vault](../../topics/vault/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.de/prince-interview-mit-cat-sign-o-the-times-1761999/))
+
+----
+
 ## July 2019
 
  - [**"Fan-favourite ‘lost’ Prince song ‘Holly Rock’ is released as a single, with a brand-new video"**](https://www.nme.com/news/music/listen-new-prince-single-holly-rock-new-video-2532592) by Elizabeth Aubrey in [NME (New Musical Express)](https://www.nme.com/) on 26 July 2019 about [Eye Records](../../topics/eye-records/index.md), [Holly Rock (song)](../../topics/song/holly-rock/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../topics/album/originals/index.md), [Peggy McCreary](../../topics/peggy-mccreary/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md) ([mirror](https://web.archive.org/web/*/https://www.nme.com/news/music/listen-new-prince-single-holly-rock-new-video-2532592))

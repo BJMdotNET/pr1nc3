@@ -1,5 +1,13 @@
 # Prince: Before the Rain
 
+ - [**"An early glimpse of genius: “Prince: Before the Rain” Exhibit opens Sept. 21"**](https://spokesman-recorder.com/2019/09/17/an-early-glimpse-of-genius-prince-before-the-rain-exhibit-opens-sept-21/) in [spokesman-recorder.com](https://spokesman-recorder.com/) on 17 September 2019 about [Prince: Before the Rain](../../topics/prince-before-the-rain/index.md) ([mirror](https://web.archive.org/web/*/https://spokesman-recorder.com/2019/09/17/an-early-glimpse-of-genius-prince-before-the-rain-exhibit-opens-sept-21/))
+
+----
+
+ - [**"Prince Lives on in the Minnesota History Center’s Photo Exhibit Starting September 21"**](http://twincitiesgeek.com/2019/09/prince-lives-on-in-the-minnesota-history-centers-photo-exhibit-starting-september-21/) in [twincitiesgeek.com](http://twincitiesgeek.com/) on 7 September 2019 about [museum](../../topics/museum/index.md), [Prince: Before the Rain](../../topics/prince-before-the-rain/index.md) ([mirror](https://web.archive.org/web/*/http://twincitiesgeek.com/2019/09/prince-lives-on-in-the-minnesota-history-centers-photo-exhibit-starting-september-21/))
+
+----
+
  - [**"‘Prince: Before the Rain’ photo exhibit coming to Minnesota History Center"**](https://blog.thecurrent.org/2019/08/prince-before-the-rain-photo-exhibit-coming-to-minnesota-history-center/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 6 August 2019 about [Allen Beaulieu](../../topics/allen-beaulieu/index.md), [André Cymone](../../topics/andr-cymone/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [exhibit](../../topics/exhibit/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Minnesota History Center](../../topics/minnesota-history-center/index.md), [Prince: Before the Rain](../../topics/prince-before-the-rain/index.md) ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2019/08/prince-before-the-rain-photo-exhibit-coming-to-minnesota-history-center/))
 
 ----

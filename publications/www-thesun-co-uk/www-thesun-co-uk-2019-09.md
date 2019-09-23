@@ -1,0 +1,7 @@
+# www.thesun.co.uk: September 2019
+
+ - [**"'HE TRIED TO PUNCH ME' Sinead O’Connor accuses Prince of trying to beat her up when he was on ‘dark’ drugs"**](https://www.thesun.co.uk/tvandshowbiz/9936189/sinead-oconnor-accuses-prince-attack/) in [www.thesun.co.uk](https://www.thesun.co.uk/) on 16 September 2019 about [fentanyl](../../topics/fentanyl/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md) ([mirror](https://web.archive.org/web/*/https://www.thesun.co.uk/tvandshowbiz/9936189/sinead-oconnor-accuses-prince-attack/))
+
+----
+
+[Home](./)

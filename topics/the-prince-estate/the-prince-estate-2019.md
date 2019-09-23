@@ -2,6 +2,14 @@
 
 ## September 2019
 
+ - [**"Prince's '1999' getting reissue with 35 previously unreleased songs -- The release will include multiple CDs ,DVDs and vinyls."**](https://bringmethenews.com/minnesota-lifestyle/princes-1999-getting-reissue-with-35-previously-unreleased-songs) in [Bring Me The News](https://bringmethenews.com/) on 14 September 2019 about [1999 (album)](../../topics/album/1999/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://bringmethenews.com/minnesota-lifestyle/princes-1999-getting-reissue-with-35-previously-unreleased-songs))
+
+----
+
+ - [**"Prince’s Versace Experience, With Rare Songs From Paris Fashion Week 1995, Is Now Streaming: Listen -- A limited number of tapes were shared with attendees of the Versace collection"**](https://pitchfork.com/news/princes-versace-experience-with-rare-songs-from-paris-fashion-week-1995-is-now-streaming-listen/) in [Pitchfork](https://pitchfork.com/) on 13 September 2019 about [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md) ([mirror](https://web.archive.org/web/*/https://pitchfork.com/news/princes-versace-experience-with-rare-songs-from-paris-fashion-week-1995-is-now-streaming-listen/))
+
+----
+
  - [**"Watch Prince Perform ‘1999’ In Houston In 1982"**](https://www.jambase.com/article/prince-1999-houston-1982) in [Jambase](https://www.jambase.com/) on 12 September 2019 about [1999 (album)](../../topics/album/1999/index.md), [1999 (song)](../../topics/song/1999/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md) ([mirror](https://web.archive.org/web/*/https://www.jambase.com/article/prince-1999-houston-1982))
 
 ----

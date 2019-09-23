@@ -1,5 +1,11 @@
 # Nothing Compares 2 U (song): 2019
 
+## September 2019
+
+ - [**"'HE TRIED TO PUNCH ME' Sinead O’Connor accuses Prince of trying to beat her up when he was on ‘dark’ drugs"**](https://www.thesun.co.uk/tvandshowbiz/9936189/sinead-oconnor-accuses-prince-attack/) in [www.thesun.co.uk](https://www.thesun.co.uk/) on 16 September 2019 about [fentanyl](../../../topics/fentanyl/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md) ([mirror](https://web.archive.org/web/*/https://www.thesun.co.uk/tvandshowbiz/9936189/sinead-oconnor-accuses-prince-attack/))
+
+----
+
 ## July 2019
 
  - [**"Fan-favourite ‘lost’ Prince song ‘Holly Rock’ is released as a single, with a brand-new video"**](https://www.nme.com/news/music/listen-new-prince-single-holly-rock-new-video-2532592) by Elizabeth Aubrey in [NME (New Musical Express)](https://www.nme.com/) on 26 July 2019 about [Eye Records](../../../topics/eye-records/index.md), [Holly Rock (song)](../../../topics/song/holly-rock/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Peggy McCreary](../../../topics/peggy-mccreary/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [Sunset Sound (place)](../../../topics/place/sunset-sound/index.md), [Susannah Melvoin](../../../topics/susannah-melvoin/index.md) ([mirror](https://web.archive.org/web/*/https://www.nme.com/news/music/listen-new-prince-single-holly-rock-new-video-2532592))

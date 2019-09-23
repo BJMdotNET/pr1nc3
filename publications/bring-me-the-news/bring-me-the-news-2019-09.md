@@ -1,5 +1,9 @@
 # Bring Me The News: September 2019
 
+ - [**"Prince's '1999' getting reissue with 35 previously unreleased songs -- The release will include multiple CDs ,DVDs and vinyls."**](https://bringmethenews.com/minnesota-lifestyle/princes-1999-getting-reissue-with-35-previously-unreleased-songs) in [Bring Me The News](https://bringmethenews.com/) on 14 September 2019 about [1999 (album)](../../topics/album/1999/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://bringmethenews.com/minnesota-lifestyle/princes-1999-getting-reissue-with-35-previously-unreleased-songs))
+
+----
+
  - [**"Star Tribune gossip columnist C.J. leaving newspaper after more than 30 years -- Over her years writing about local celebrities, C.J. built up a large following."**](https://bringmethenews.com/minnesota-lifestyle/star-tribune-gossip-columnist-c-j-leaving-newspaper-after-almost-30-years) in [Bring Me The News](https://bringmethenews.com/) on 3 September 2019 about [C.J.](../../topics/c-j/index.md) ([mirror](https://web.archive.org/web/*/https://bringmethenews.com/minnesota-lifestyle/star-tribune-gossip-columnist-c-j-leaving-newspaper-after-almost-30-years))
 
 ----

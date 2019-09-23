@@ -1,5 +1,9 @@
 # Janet Jackson
 
+ - [**"W&W PR VICE PRESIDENT KAREN LEE RECEIVES HIGH HONORS FROM LIVING LEGENDS FOUNDATION -- PLUS: She Credits ‘Old Hollywood’ publicist Henry C. Rogers, legendary Patti Webster as role models and speaks on the amazing charitable nature of PRINCE"**](https://eurweb.com/2019/09/16/ww-pr-vice-president-karen-lee-receives-high-honors-from-living-legends-foundation/) in [EURweb](https://eurweb.com/) on 16 September 2019 about [Chaka Khan](../../topics/chaka-khan/index.md), [contract](../../topics/contract/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [PRN Alumni Foundation](../../topics/prn-alumni-foundation/index.md), [Quincy Jones](../../topics/quincy-jones/index.md) ([mirror](https://web.archive.org/web/*/https://eurweb.com/2019/09/16/ww-pr-vice-president-karen-lee-receives-high-honors-from-living-legends-foundation/))
+
+----
+
  - [**"To Janet Jackson, Minneapolis will always be her 'home away from home' -- Balancing motherhood and megahits, Janet Jackson talks about her return to Minnesota, where she recorded her breakthrough albums. "**](http://www.startribune.com/to-janet-jackson-minneapolis-will-always-be-her-home-away-from-home/560054982/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 11 September 2019 about [Janelle Monae](../../topics/janelle-monae/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Time](../../topics/the-time/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/to-janet-jackson-minneapolis-will-always-be-her-home-away-from-home/560054982/))
 
 ----

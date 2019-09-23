@@ -1,6 +1,6 @@
 # album
 
-  * [1999 (album)](./album/1999/) (32)
+  * [1999 (album)](./album/1999/) (33)
   * [1999 Deluxe (album)](./album/1999-deluxe/) (1)
   * [3121 (album)](./album/3121/) (8)
   * [Around The World In A Day (album)](./album/around-the-world-in-a-day/) (5)
@@ -15,7 +15,7 @@
   * [For You (album)](./album/for-you/) (2)
   * [Graffiti Bridge (album)](./album/graffiti-bridge/) (2)
   * [LotusFlow3r (album)](./album/lotusflow3r/) (2)
-  * [Lovesexy (album)](./album/lovesexy/) (4)
+  * [Lovesexy (album)](./album/lovesexy/) (5)
   * [Originals (album)](./album/originals/) (40)
   * [Parade (album)](./album/parade/) (8)
   * [Piano and a Microphone 1983 (album)](./album/piano-and-a-microphone-1983/) (10)
