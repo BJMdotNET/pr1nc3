@@ -4,6 +4,10 @@
 
 ----
 
+ - [**"All shook up: Graceland to cede Paisley Park management to Prince estate"**](https://blog.thecurrent.org/2019/08/all-shook-up-graceland-to-cede-paisley-park-management-to-prince-estate/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 27 August 2019 about [Celebration](../../topics/celebration/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [Joel Weinshanker](../../topics/joel-weinshanker/index.md), [Jon Bream](../../topics/jon-bream/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [museum](../../topics/museum/index.md), [Nooky Jones](../../topics/nooky-jones/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2019/08/all-shook-up-graceland-to-cede-paisley-park-management-to-prince-estate/))
+
+----
+
  - [**"Eric Church doubles down at Target Center -- Country superstar saved his best for second half."**](http://www.startribune.com/eric-church-doubles-down-at-target-center/505603292/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 8 February 2019 about [Jon Bream](../../topics/jon-bream/index.md), [Parade (album)](../../topics/album/parade/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/eric-church-doubles-down-at-target-center/505603292/))
 
 ----

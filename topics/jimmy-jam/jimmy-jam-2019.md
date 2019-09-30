@@ -2,6 +2,10 @@
 
 ## September 2019
 
+ - [**"Fire devastates home, gear of New Power Generation keyboardist Morris Hayes"**](https://blog.thecurrent.org/2019/09/fire-devastates-home-gear-of-new-power-generation-keyboardist-morris-hayes/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 19 September 2019 about [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Hayes](../../topics/morris-hayes/index.md), [New Power Generation](../../topics/new-power-generation/index.md) ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2019/09/fire-devastates-home-gear-of-new-power-generation-keyboardist-morris-hayes/))
+
+----
+
  - [**"To Janet Jackson, Minneapolis will always be her 'home away from home' -- Balancing motherhood and megahits, Janet Jackson talks about her return to Minnesota, where she recorded her breakthrough albums. "**](http://www.startribune.com/to-janet-jackson-minneapolis-will-always-be-her-home-away-from-home/560054982/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 11 September 2019 about [Janelle Monae](../../topics/janelle-monae/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Time](../../topics/the-time/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/to-janet-jackson-minneapolis-will-always-be-her-home-away-from-home/560054982/))
 
 ----

@@ -1,5 +1,11 @@
 # Let’s Go Crazy (song): 2019
 
+## September 2019
+
+ - [**"What do Lizzo, Prince, Lipps Inc., Owl City, Next, and Bobby Vee have in common? Minnesota, and the top of the charts."**](https://blog.thecurrent.org/2019/09/what-do-lizzo-prince-lipps-inc-owl-city-next-and-bobby-vee-have-in-common-minnesota-and-the-top-of-the-charts/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 4 September 2019 about [Batdance (song)](../../../topics/song/batdance/index.md), [BET Awards](../../../topics/bet-awards/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Lizzo](../../../topics/lizzo/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2019/09/what-do-lizzo-prince-lipps-inc-owl-city-next-and-bobby-vee-have-in-common-minnesota-and-the-top-of-the-charts/))
+
+----
+
 ## August 2019
 
  - [**"No, seriously: Weird Al and his fans explain why he's so big at the Minnesota State Fair -- Weird Al Yankovic is headed to the Minnesota State Fair's grandstand. We talked to fans of the clever parodist. "**](http://www.startribune.com/no-seriously-weird-al-and-his-fans-explain-why-he-s-so-big-at-the-minnesota-state-fair/557878752/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 August 2019 about [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Minnesota State Fair](../../../topics/minnesota-state-fair/index.md), [State Fair](../../../topics/state-fair/index.md), [Weird Al Yankovic](../../../topics/weird-al-yankovic/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/no-seriously-weird-al-and-his-fans-explain-why-he-s-so-big-at-the-minnesota-state-fair/557878752/))

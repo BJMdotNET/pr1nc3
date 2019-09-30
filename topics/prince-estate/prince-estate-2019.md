@@ -2,6 +2,10 @@
 
 ## September 2019
 
+ - [**"Court Dicta in Paisley Park v. Boxill Foresees Expansion of Discoverable ESI"**](https://www.jdsupra.com/legalnews/court-dicta-in-paisley-park-v-boxill-64176/) in [JDSupra](https://www.jdsupra.com/) on 18 September 2019 about [David Staley](../../topics/david-staley/index.md), [Gabriel Solomon Wilson](../../topics/gabriel-solomon-wilson/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md) ([mirror](https://web.archive.org/web/*/https://www.jdsupra.com/legalnews/court-dicta-in-paisley-park-v-boxill-64176/))
+
+----
+
  - [**"Prince's '1999' getting reissue with 35 previously unreleased songs -- The release will include multiple CDs ,DVDs and vinyls."**](https://bringmethenews.com/minnesota-lifestyle/princes-1999-getting-reissue-with-35-previously-unreleased-songs) in [Bring Me The News](https://bringmethenews.com/) on 14 September 2019 about [1999 (album)](../../topics/album/1999/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://bringmethenews.com/minnesota-lifestyle/princes-1999-getting-reissue-with-35-previously-unreleased-songs))
 
 ----
@@ -67,6 +71,10 @@
 ----
 
 ## August 2019
+
+ - [**"All shook up: Graceland to cede Paisley Park management to Prince estate"**](https://blog.thecurrent.org/2019/08/all-shook-up-graceland-to-cede-paisley-park-management-to-prince-estate/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 27 August 2019 about [Celebration](../../topics/celebration/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [Joel Weinshanker](../../topics/joel-weinshanker/index.md), [Jon Bream](../../topics/jon-bream/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [museum](../../topics/museum/index.md), [Nooky Jones](../../topics/nooky-jones/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2019/08/all-shook-up-graceland-to-cede-paisley-park-management-to-prince-estate/))
+
+----
 
  - [**"Prince Estate Taking Over Management of Paisley Park From Graceland Holdings"**](https://www.billboard.com/articles/business/8528477/prince-estate-paisley-park-management-graceland) in [Billboard](https://www.billboard.com/) on 27 August 2019 about [contract](../../topics/contract/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [museum](../../topics/museum/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/business/8528477/prince-estate-paisley-park-management-graceland))
 

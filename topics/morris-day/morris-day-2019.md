@@ -1,5 +1,11 @@
 # Morris Day: 2019
 
+## September 2019
+
+ - [**"Fall fiction titles have eye for truth; new poetry, nonfiction and memoirs also due -- Ta-Nehisi Coates, Joy Harjo, Prince, Liz Phair among authors with new works"**](https://www.arkansasonline.com/news/2019/sep/29/fall-fiction-releases-have-eye-for-trut/) in [www.arkansasonline.com](https://www.arkansasonline.com/) on 29 September 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.arkansasonline.com/news/2019/sep/29/fall-fiction-releases-have-eye-for-trut/))
+
+----
+
 ## August 2019
 
  - [**"Atwood, Rushdie novels among fall highlights"**](https://www.santacruzsentinel.com/2019/08/29/atwood-rushdie-novels-among-fall-highlights/) in [Santa Cruz Sentinel](https://www.santacruzsentinel.com/) on 29 August 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.santacruzsentinel.com/2019/08/29/atwood-rushdie-novels-among-fall-highlights/))

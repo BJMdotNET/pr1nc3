@@ -2,6 +2,10 @@
 
 ## September 2019
 
+ - [**"Fire devastates home, gear of New Power Generation keyboardist Morris Hayes"**](https://blog.thecurrent.org/2019/09/fire-devastates-home-gear-of-new-power-generation-keyboardist-morris-hayes/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 19 September 2019 about [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Hayes](../../topics/morris-hayes/index.md), [New Power Generation](../../topics/new-power-generation/index.md) ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2019/09/fire-devastates-home-gear-of-new-power-generation-keyboardist-morris-hayes/))
+
+----
+
  - [**"PREVIEW: Donna Grantis At The Dakota Jazz Club, 9/24"**](https://twincitiesarts.com/2019/09/17/preview-donna-gratis-dakota-jazz-club/) in [twincitiesarts.com](https://twincitiesarts.com/) on 17 September 2019 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Dakota (place)](../../topics/place/dakota/index.md), [Donna Grantis](../../topics/donna-grantis/index.md), [Hannah Welton](../../topics/hannah-welton/index.md), [Miles Davis](../../topics/miles-davis/index.md), [New Power Generation](../../topics/new-power-generation/index.md) ([mirror](https://web.archive.org/web/*/https://twincitiesarts.com/2019/09/17/preview-donna-gratis-dakota-jazz-club/))
 
 ----

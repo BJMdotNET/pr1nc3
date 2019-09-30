@@ -12,6 +12,10 @@
 
 ----
 
+ - [**"All shook up: Graceland to cede Paisley Park management to Prince estate"**](https://blog.thecurrent.org/2019/08/all-shook-up-graceland-to-cede-paisley-park-management-to-prince-estate/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 27 August 2019 about [Celebration](../../topics/celebration/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [Joel Weinshanker](../../topics/joel-weinshanker/index.md), [Jon Bream](../../topics/jon-bream/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [museum](../../topics/museum/index.md), [Nooky Jones](../../topics/nooky-jones/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2019/08/all-shook-up-graceland-to-cede-paisley-park-management-to-prince-estate/))
+
+----
+
  - [**"Prince’s Estate to Take Over Management of Paisley Park"**](https://variety.com/2019/music/news/prince-estate-take-over-paisley-park-1203316110/) in [Variety](https://variety.com/) on 27 August 2019 about [Ava DuVernay](../../topics/ava-duvernay/index.md), [contract](../../topics/contract/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [Joel Weinshanker](../../topics/joel-weinshanker/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [memoir](../../topics/memoir/index.md), [museum](../../topics/museum/index.md), [Netflix](../../topics/netflix/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/news/prince-estate-take-over-paisley-park-1203316110/))
 
 ----

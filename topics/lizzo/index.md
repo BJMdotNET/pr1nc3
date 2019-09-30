@@ -1,5 +1,9 @@
 # Lizzo
 
+ - [**"What do Lizzo, Prince, Lipps Inc., Owl City, Next, and Bobby Vee have in common? Minnesota, and the top of the charts."**](https://blog.thecurrent.org/2019/09/what-do-lizzo-prince-lipps-inc-owl-city-next-and-bobby-vee-have-in-common-minnesota-and-the-top-of-the-charts/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 4 September 2019 about [Batdance (song)](../../topics/song/batdance/index.md), [BET Awards](../../topics/bet-awards/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Lizzo](../../topics/lizzo/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2019/09/what-do-lizzo-prince-lipps-inc-owl-city-next-and-bobby-vee-have-in-common-minnesota-and-the-top-of-the-charts/))
+
+----
+
  - [**"Lizzo, Prince, Freddie Mercury, and more music tributes in Minnesota State Fair crop art 2019"**](https://blog.thecurrent.org/2019/08/lizzo-prince-freddie-mercury-and-more-music-tributes-in-minnesota-state-fair-crop-art-2019/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 22 August 2019 about [exhibit](../../topics/exhibit/index.md), [Lizzo](../../topics/lizzo/index.md), [Minnesota State Fair](../../topics/minnesota-state-fair/index.md), [State Fair](../../topics/state-fair/index.md) ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2019/08/lizzo-prince-freddie-mercury-and-more-music-tributes-in-minnesota-state-fair-crop-art-2019/))
 
 ----

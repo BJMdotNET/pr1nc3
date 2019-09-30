@@ -1,6 +1,7 @@
 # Celebration
 
   * [2019](./celebration-2019.md): 
+      August (1) | 
       April (1) | 
       February (2) | 
   * [2018](./celebration-2018.md): 

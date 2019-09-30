@@ -2,7 +2,7 @@
 
   * [2019](./graceland-holdings-2019.md): 
       September (1) | 
-      August (6) | 
+      August (7) | 
       April (1) | 
   * [2017](./graceland-holdings-2017.md): 
       April (2) | 

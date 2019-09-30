@@ -2,7 +2,7 @@
 
   * [2019](./museum-2019.md): 
       September (3) | 
-      August (8) | 
+      August (9) | 
       July (4) | 
       June (3) | 
       May (1) | 

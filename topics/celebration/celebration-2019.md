@@ -1,5 +1,11 @@
 # Celebration: 2019
 
+## August 2019
+
+ - [**"All shook up: Graceland to cede Paisley Park management to Prince estate"**](https://blog.thecurrent.org/2019/08/all-shook-up-graceland-to-cede-paisley-park-management-to-prince-estate/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 27 August 2019 about [Celebration](../../topics/celebration/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [Joel Weinshanker](../../topics/joel-weinshanker/index.md), [Jon Bream](../../topics/jon-bream/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [museum](../../topics/museum/index.md), [Nooky Jones](../../topics/nooky-jones/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2019/08/all-shook-up-graceland-to-cede-paisley-park-management-to-prince-estate/))
+
+----
+
 ## April 2019
 
  - [**"Former Time guitarist says Prince 'hurt me to my soul' at Paisley Park event -- The remarks came during an onstage interview at "Celebration 2019""**](https://bringmethenews.com/minnesota-lifestyle/former-time-guitarist-says-prince-hurt-me-to-my-soul-at-paisley-park-event) in [Bring Me The News](https://bringmethenews.com/) on 27 April 2019 about [Celebration](../../topics/celebration/index.md), [Celebration 2019](../../topics/celebration-2019/index.md), [Jesse Johnson](../../topics/jesse-johnson/index.md) ([mirror](https://web.archive.org/web/*/https://bringmethenews.com/minnesota-lifestyle/former-time-guitarist-says-prince-hurt-me-to-my-soul-at-paisley-park-event))

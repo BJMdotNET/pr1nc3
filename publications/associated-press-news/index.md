@@ -45,6 +45,7 @@
       [June](./associated-press-news-2016-06.md) (13) | 
       [May](./associated-press-news-2016-05.md) (17) | 
       [April](./associated-press-news-2016-04.md) (27) | 
+      [March](./associated-press-news-2016-03.md) (1) | 
       [February](./associated-press-news-2016-02.md) (1) | 
   * 2015: 
       [October](./associated-press-news-2015-10.md) (1) | 

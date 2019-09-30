@@ -2,6 +2,10 @@
 
 ## September 2019
 
+ - [**"Fall fiction titles have eye for truth; new poetry, nonfiction and memoirs also due -- Ta-Nehisi Coates, Joy Harjo, Prince, Liz Phair among authors with new works"**](https://www.arkansasonline.com/news/2019/sep/29/fall-fiction-releases-have-eye-for-trut/) in [www.arkansasonline.com](https://www.arkansasonline.com/) on 29 September 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.arkansasonline.com/news/2019/sep/29/fall-fiction-releases-have-eye-for-trut/))
+
+----
+
  - [**"Susan Kamil, longtime publisher and editor, dead at 69"**](https://apnews.com/b8b2bccd9de741da9e805cb9245d6637) in [Associated Press News](https://apnews.com/) on 10 September 2019 about [memoir](../../topics/memoir/index.md), [Random House ](../../topics/random-house/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/b8b2bccd9de741da9e805cb9245d6637))
 
 ----
@@ -11,6 +15,10 @@
 ----
 
  - [**"Prince co-author details 'extremely unlikely' story behind new memoir in New Yorker article"**](http://www.startribune.com/prince-co-author-details-extremely-unlikely-story-behind-new-memoir-in-new-yorker-article/559478242/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 September 2019 about [Atlanta (place)](../../topics/place/atlanta/index.md), [Chanhassen Cinema](../../topics/chanhassen-cinema/index.md), [Country Inn & Suites (place)](../../topics/place/country-inn-suites/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [John Nelson](../../topics/john-nelson/index.md), [memoir](../../topics/memoir/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Random House ](../../topics/random-house/index.md), [Raspberry Beret (song)](../../topics/song/raspberry-beret/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Ballad Of Dorothy Parker (song)](../../topics/song/the-ballad-of-dorothy-parker/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-co-author-details-extremely-unlikely-story-behind-new-memoir-in-new-yorker-article/559478242/))
+
+----
+
+ - [**"‘There are gonna be some bombshells’: What we know about Prince’s forthcoming memoir"**](https://blog.thecurrent.org/2019/09/the-beautiful-ones-what-we-know-about-princes-forthcoming-memoir/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 3 September 2019 about [contract](../../topics/contract/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2019/09/the-beautiful-ones-what-we-know-about-princes-forthcoming-memoir/))
 
 ----
 

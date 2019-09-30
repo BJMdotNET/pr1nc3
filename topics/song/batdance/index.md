@@ -1,5 +1,9 @@
 # Batdance (song)
 
+ - [**"What do Lizzo, Prince, Lipps Inc., Owl City, Next, and Bobby Vee have in common? Minnesota, and the top of the charts."**](https://blog.thecurrent.org/2019/09/what-do-lizzo-prince-lipps-inc-owl-city-next-and-bobby-vee-have-in-common-minnesota-and-the-top-of-the-charts/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 4 September 2019 about [Batdance (song)](../../../topics/song/batdance/index.md), [BET Awards](../../../topics/bet-awards/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Lizzo](../../../topics/lizzo/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2019/09/what-do-lizzo-prince-lipps-inc-owl-city-next-and-bobby-vee-have-in-common-minnesota-and-the-top-of-the-charts/))
+
+----
+
  - [**"Prince’s ‘Batman’ at 30: How the Film Saved His Career From ‘Horrible’ Financial Straits"**](https://variety.com/2019/music/news/prince-batman-at-30-how-film-saved-his-career-1203251356/) in [Variety](https://variety.com/) on 24 June 2019 about [Albert Magnoli](../../../topics/albert-magnoli/index.md), [Baby I’m a Star (song)](../../../topics/song/baby-i-m-a-star/index.md), [Batdance (song)](../../../topics/song/batdance/index.md), [Batman (album)](../../../topics/album/batman/index.md), [contract](../../../topics/contract/index.md), [Graffiti Bridge (movie)](../../../topics/movie/graffiti-bridge/index.md), [Mark Canton](../../../topics/mark-canton/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md), [Under the Cherry Moon (movie)](../../../topics/movie/under-the-cherry-moon/index.md), [Warner Bros. Records](../../../topics/warner-bros-records/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/news/prince-batman-at-30-how-film-saved-his-career-1203251356/))
 
 ----
