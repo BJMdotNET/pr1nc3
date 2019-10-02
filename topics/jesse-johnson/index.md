@@ -1,6 +1,7 @@
 # Jesse Johnson
 
   * [2019](./jesse-johnson-2019.md): 
+      September (1) | 
       July (1) | 
       June (1) | 
       April (2) | 

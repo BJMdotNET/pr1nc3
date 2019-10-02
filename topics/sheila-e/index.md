@@ -1,7 +1,7 @@
 # Sheila E.
 
   * [2019](./sheila-e-2019.md): 
-      September (1) | 
+      September (2) | 
       August (1) | 
       July (5) | 
       June (5) | 

@@ -1,5 +1,11 @@
 # Originals (album): 2019
 
+## September 2019
+
+ - [**"Prince and his lost comic book past get animated for a posthumous promo"**](https://www.digitalartsonline.co.uk/features/motion-graphics/prince-his-lost-comic-book-past-get-animated-for-posthumous-promo/) in [www.digitalartsonline.co.uk](https://www.digitalartsonline.co.uk/) on 27 September 2019 about [Electric Light Studios](../../../topics/electric-light-studios/index.md), [Holly Rock (song)](../../../topics/song/holly-rock/index.md), [Krush Groove (movie)](../../../topics/movie/krush-groove/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Prince: Alter Ego](../../../topics/prince-alter-ego/index.md), [Sheila E.](../../../topics/sheila-e/index.md) ([mirror](https://web.archive.org/web/*/https://www.digitalartsonline.co.uk/features/motion-graphics/prince-his-lost-comic-book-past-get-animated-for-posthumous-promo/))
+
+----
+
 ## July 2019
 
  - [**"Fan-favourite ‘lost’ Prince song ‘Holly Rock’ is released as a single, with a brand-new video"**](https://www.nme.com/news/music/listen-new-prince-single-holly-rock-new-video-2532592) by Elizabeth Aubrey in [NME (New Musical Express)](https://www.nme.com/) on 26 July 2019 about [Eye Records](../../../topics/eye-records/index.md), [Holly Rock (song)](../../../topics/song/holly-rock/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Peggy McCreary](../../../topics/peggy-mccreary/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [Sunset Sound (place)](../../../topics/place/sunset-sound/index.md), [Susannah Melvoin](../../../topics/susannah-melvoin/index.md) ([mirror](https://web.archive.org/web/*/https://www.nme.com/news/music/listen-new-prince-single-holly-rock-new-video-2532592))

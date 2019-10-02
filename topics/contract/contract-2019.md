@@ -1,6 +1,16 @@
 # contract: 2019
 
+## October 2019
+
+ - [**"Show-biz veteran named new executive director for Prince's Paisley Park"**](http://www.startribune.com/show-biz-veteran-named-new-executive-director-for-prince-s-paisley-park/561890092/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 1 October 2019 about [Alan Seiffert](../../topics/alan-seiffert/index.md), [contract](../../topics/contract/index.md), [Graceland](../../topics/graceland/index.md), [Joel Weinshanker](../../topics/joel-weinshanker/index.md), [Midnight Blue Management](../../topics/midnight-blue-management/index.md), [MR-ProFun](../../topics/mr-profun/index.md), [museum](../../topics/museum/index.md), [Mycotoo](../../topics/mycotoo/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/show-biz-veteran-named-new-executive-director-for-prince-s-paisley-park/561890092/))
+
+----
+
 ## September 2019
+
+ - [**"Exclusive: Prince's estate sued for $3 million"**](https://au.lifestyle.yahoo.com/princes-estate-sued-for-3-million-053919372.html) in [Yahoo! Lifestyle Australia](https://au.lifestyle.yahoo.com/) on 24 September 2019 about [Bruno Bergonzi](../../topics/bruno-bergonzi/index.md), [contract](../../topics/contract/index.md), [Jay Rolandi](../../topics/jay-rolandi/index.md), [Michele Vicino](../../topics/michele-vicino/index.md), [Takin Me To Paradise (song)](../../topics/song/takin-me-to-paradise/index.md), [The Most Beautiful Girl In The World (song)](../../topics/song/the-most-beautiful-girl-in-the-world/index.md), [Warner Chappell Music](../../topics/warner-chappell-music/index.md) ([mirror](https://web.archive.org/web/*/https://au.lifestyle.yahoo.com/princes-estate-sued-for-3-million-053919372.html))
+
+----
 
  - [**"W&W PR VICE PRESIDENT KAREN LEE RECEIVES HIGH HONORS FROM LIVING LEGENDS FOUNDATION -- PLUS: She Credits ‘Old Hollywood’ publicist Henry C. Rogers, legendary Patti Webster as role models and speaks on the amazing charitable nature of PRINCE"**](https://eurweb.com/2019/09/16/ww-pr-vice-president-karen-lee-receives-high-honors-from-living-legends-foundation/) in [EURweb](https://eurweb.com/) on 16 September 2019 about [Chaka Khan](../../topics/chaka-khan/index.md), [contract](../../topics/contract/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [PRN Alumni Foundation](../../topics/prn-alumni-foundation/index.md), [Quincy Jones](../../topics/quincy-jones/index.md) ([mirror](https://web.archive.org/web/*/https://eurweb.com/2019/09/16/ww-pr-vice-president-karen-lee-receives-high-honors-from-living-legends-foundation/))
 

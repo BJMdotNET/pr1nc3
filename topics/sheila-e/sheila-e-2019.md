@@ -2,6 +2,10 @@
 
 ## September 2019
 
+ - [**"Prince and his lost comic book past get animated for a posthumous promo"**](https://www.digitalartsonline.co.uk/features/motion-graphics/prince-his-lost-comic-book-past-get-animated-for-posthumous-promo/) in [www.digitalartsonline.co.uk](https://www.digitalartsonline.co.uk/) on 27 September 2019 about [Electric Light Studios](../../topics/electric-light-studios/index.md), [Holly Rock (song)](../../topics/song/holly-rock/index.md), [Krush Groove (movie)](../../topics/movie/krush-groove/index.md), [Originals (album)](../../topics/album/originals/index.md), [Prince: Alter Ego](../../topics/prince-alter-ego/index.md), [Sheila E.](../../topics/sheila-e/index.md) ([mirror](https://web.archive.org/web/*/https://www.digitalartsonline.co.uk/features/motion-graphics/prince-his-lost-comic-book-past-get-animated-for-posthumous-promo/))
+
+----
+
  - [**"Interview mit Prince-Tänzerin Cat: „Ich las ihm ‚Der Kleine Prinz‘ beim Einschlafen vor“"**](https://www.rollingstone.de/prince-interview-mit-cat-sign-o-the-times-1761999/) in [www.rollingstone.de](https://www.rollingstone.de/) on 13 September 2019 about [Albert Magnoli](../../topics/albert-magnoli/index.md), [Housequake (song)](../../topics/song/housequake/index.md), [LeRoy Bennett](../../topics/leroy-bennett/index.md), [Lovesexy (album)](../../topics/album/lovesexy/index.md), [Lovesexy (tour)](../../topics/tour/lovesexy/index.md), [museum](../../topics/museum/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [The Revolution](../../topics/the-revolution/index.md), [U Got the Look (song)](../../topics/song/u-got-the-look/index.md), [vault](../../topics/vault/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.de/prince-interview-mit-cat-sign-o-the-times-1761999/))
 
 ----

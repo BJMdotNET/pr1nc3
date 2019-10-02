@@ -1,5 +1,15 @@
 # museum: 2019
 
+## October 2019
+
+ - [**"Prince Estate Names New Executive Director, Development Partners for Paisley Park"**](https://variety.com/2019/music/news/prince-estate-paisley-park-names-new-director-1203354747/) in [Variety](https://variety.com/) on 1 October 2019 about [Alan Seiffert](../../topics/alan-seiffert/index.md), [Lovesexy (album)](../../topics/album/lovesexy/index.md), [Midnight Blue Management](../../topics/midnight-blue-management/index.md), [MR-ProFun](../../topics/mr-profun/index.md), [museum](../../topics/museum/index.md), [Mycotoo](../../topics/mycotoo/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/news/prince-estate-paisley-park-names-new-director-1203354747/))
+
+----
+
+ - [**"Show-biz veteran named new executive director for Prince's Paisley Park"**](http://www.startribune.com/show-biz-veteran-named-new-executive-director-for-prince-s-paisley-park/561890092/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 1 October 2019 about [Alan Seiffert](../../topics/alan-seiffert/index.md), [contract](../../topics/contract/index.md), [Graceland](../../topics/graceland/index.md), [Joel Weinshanker](../../topics/joel-weinshanker/index.md), [Midnight Blue Management](../../topics/midnight-blue-management/index.md), [MR-ProFun](../../topics/mr-profun/index.md), [museum](../../topics/museum/index.md), [Mycotoo](../../topics/mycotoo/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/show-biz-veteran-named-new-executive-director-for-prince-s-paisley-park/561890092/))
+
+----
+
 ## September 2019
 
  - [**"Interview mit Prince-Tänzerin Cat: „Ich las ihm ‚Der Kleine Prinz‘ beim Einschlafen vor“"**](https://www.rollingstone.de/prince-interview-mit-cat-sign-o-the-times-1761999/) in [www.rollingstone.de](https://www.rollingstone.de/) on 13 September 2019 about [Albert Magnoli](../../topics/albert-magnoli/index.md), [Housequake (song)](../../topics/song/housequake/index.md), [LeRoy Bennett](../../topics/leroy-bennett/index.md), [Lovesexy (album)](../../topics/album/lovesexy/index.md), [Lovesexy (tour)](../../topics/tour/lovesexy/index.md), [museum](../../topics/museum/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [The Revolution](../../topics/the-revolution/index.md), [U Got the Look (song)](../../topics/song/u-got-the-look/index.md), [vault](../../topics/vault/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.de/prince-interview-mit-cat-sign-o-the-times-1761999/))
