@@ -34,4 +34,8 @@
 
 ----
 
+ - [**"Bob Seger Remembers Meeting Prince & His Impact: 'He Was a Gift to Music'"**](https://www.billboard.com/articles/news/7341559/bob-seger-prince-remembers-interview) in [Billboard](https://www.billboard.com/) on 21 April 2016 about [James Brown](../../topics/james-brown/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Stand Back (song)](../../topics/song/stand-back/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/7341559/bob-seger-prince-remembers-interview))
+
+----
+
 [Home](../)

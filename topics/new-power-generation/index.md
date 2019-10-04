@@ -18,6 +18,7 @@
       November (3) | 
       September (2) | 
       August (1) | 
+      April (1) | 
   * [2015](./new-power-generation-2015.md): 
       September (1) | 
       May (1) | 

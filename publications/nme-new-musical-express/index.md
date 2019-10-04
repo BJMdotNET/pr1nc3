@@ -6,6 +6,8 @@
       [June](./nme-new-musical-express-2019-06.md) (1) | 
   * 2016: 
       [November](./nme-new-musical-express-2016-11.md) (1) | 
+  * 2011: 
+      [September](./nme-new-musical-express-2011-09.md) (1) | 
 
 ----
 

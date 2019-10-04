@@ -1,6 +1,7 @@
 # Sunset Sound (place)
 
   * [2019](./sunset-sound-place-2019.md): 
+      October (1) | 
       September (1) | 
       July (2) | 
       June (6) | 

@@ -16,4 +16,8 @@
 
 ----
 
+ - [**"R.I.P. Prince: 11 Deep Cuts From the Purple One's Vast Catalog"**](https://www.billboard.com/articles/news/7341543/prince-songs-deep-cuts) in [Billboard](https://www.billboard.com/) on 21 April 2016 about [1999 (album)](../../../topics/album/1999/index.md), [3121 (album)](../../../topics/album/3121/index.md), [Around The World In A Day (album)](../../../topics/album/around-the-world-in-a-day/index.md), [Condition of the Heart (song)](../../../topics/song/condition-of-the-heart/index.md), [Graffiti Bridge (album)](../../../topics/album/graffiti-bridge/index.md), [Graffiti Bridge (movie)](../../../topics/movie/graffiti-bridge/index.md), [Parade (album)](../../../topics/album/parade/index.md), [Purple Rain (album)](../../../topics/album/purple-rain/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md), [The Black Album (album)](../../../topics/album/the-black-album/index.md), [Tidal](../../../topics/tidal/index.md), [Under the Cherry Moon (movie)](../../../topics/movie/under-the-cherry-moon/index.md), [vault](../../../topics/vault/index.md), [YouTube](../../../topics/youtube/index.md) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/7341543/prince-songs-deep-cuts))
+
+----
+
 [Home](../)

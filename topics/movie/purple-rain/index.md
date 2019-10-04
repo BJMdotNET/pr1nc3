@@ -15,7 +15,7 @@
       July (1) | 
       April (1) | 
   * [2016](./purple-rain-movie-2016.md): 
-      April (2) | 
+      April (5) | 
       February (1) | 
   * [2014](./purple-rain-movie-2014.md): 
       July (1) | 

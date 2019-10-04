@@ -28,6 +28,10 @@
 
 ----
 
+ - [**"R.I.P. Prince: 11 Deep Cuts From the Purple One's Vast Catalog"**](https://www.billboard.com/articles/news/7341543/prince-songs-deep-cuts) in [Billboard](https://www.billboard.com/) on 21 April 2016 about [1999 (album)](../../../topics/album/1999/index.md), [3121 (album)](../../../topics/album/3121/index.md), [Around The World In A Day (album)](../../../topics/album/around-the-world-in-a-day/index.md), [Condition of the Heart (song)](../../../topics/song/condition-of-the-heart/index.md), [Graffiti Bridge (album)](../../../topics/album/graffiti-bridge/index.md), [Graffiti Bridge (movie)](../../../topics/movie/graffiti-bridge/index.md), [Parade (album)](../../../topics/album/parade/index.md), [Purple Rain (album)](../../../topics/album/purple-rain/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md), [The Black Album (album)](../../../topics/album/the-black-album/index.md), [Tidal](../../../topics/tidal/index.md), [Under the Cherry Moon (movie)](../../../topics/movie/under-the-cherry-moon/index.md), [vault](../../../topics/vault/index.md), [YouTube](../../../topics/youtube/index.md) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/7341543/prince-songs-deep-cuts))
+
+----
+
  - [**"″His Royal Badness” Rocks Sheridan"**](https://apnews.com/485767a7a9734b8abcd31a5d36f3ffa1) in [Associated Press News](https://apnews.com/) on 2 July 1986 about [Academy Award](../../../topics/academy-award/index.md), [Grammy Award](../../../topics/grammy-award/index.md), [Jerome Benton](../../../topics/jerome-benton/index.md), [Joni Mitchell](../../../topics/joni-mitchell/index.md), [Lisa Barber](../../../topics/lisa-barber/index.md), [Mazarati](../../../topics/mazarati/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [Under the Cherry Moon (movie)](../../../topics/movie/under-the-cherry-moon/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/485767a7a9734b8abcd31a5d36f3ffa1))
 
 ----
