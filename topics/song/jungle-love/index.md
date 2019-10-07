@@ -1,5 +1,9 @@
 # Jungle Love (song)
 
+ - [**"Advance Book Review: Morris Day - On Time: A Princely Life in Funk (with David Ritz)"**](https://www.soultracks.com/book-review-morris-day-on-time) in [www.soultracks.com](https://www.soultracks.com/) on 1 October 2019 about [Jimmy Jam](../../../topics/jimmy-jam/index.md), [Jungle Love (song)](../../../topics/song/jungle-love/index.md), [memoir](../../../topics/memoir/index.md), [Morris Day](../../../topics/morris-day/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md), [Terry Lewis](../../../topics/terry-lewis/index.md), [The Bird (song)](../../../topics/song/the-bird/index.md), [The Time](../../../topics/the-time/index.md) ([mirror](https://web.archive.org/web/*/https://www.soultracks.com/book-review-morris-day-on-time))
+
+----
+
  - [**"Morris Day shows off his comedic chops in new Prince mockumentary"**](http://www.startribune.com/morris-day-shows-off-his-comedic-chops-in-new-prince-mockumentary/523094741/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 6 August 2019 about [Computer Blue (song)](../../../topics/song/computer-blue/index.md), [Jungle Love (song)](../../../topics/song/jungle-love/index.md), [Morris Day](../../../topics/morris-day/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md), [Quincy Jones](../../../topics/quincy-jones/index.md), [Sherman's Showcase (TV show)](../../../topics/tv-show/sherman-s-showcase/index.md), [The Bird (song)](../../../topics/song/the-bird/index.md), [Vicki, is the Water Warm Enough (song)](../../../topics/song/vicki-is-the-water-warm-enough/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/morris-day-shows-off-his-comedic-chops-in-new-prince-mockumentary/523094741/))
 
 ----

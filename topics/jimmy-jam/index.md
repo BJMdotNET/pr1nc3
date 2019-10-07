@@ -1,6 +1,7 @@
 # Jimmy Jam
 
   * [2019](./jimmy-jam-2019.md): 
+      October (1) | 
       September (2) | 
       July (3) | 
       June (1) | 

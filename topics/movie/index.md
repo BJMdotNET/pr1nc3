@@ -2,7 +2,7 @@
 
   * [Graffiti Bridge (movie)](./movie/graffiti-bridge/) (6)
   * [Krush Groove (movie)](./movie/krush-groove/) (3)
-  * [Purple Rain (movie)](./movie/purple-rain/) (46)
+  * [Purple Rain (movie)](./movie/purple-rain/) (47)
   * [Under the Cherry Moon (movie)](./movie/under-the-cherry-moon/) (10)
 
 ----

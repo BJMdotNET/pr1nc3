@@ -1,5 +1,11 @@
 # Jimmy Jam: 2019
 
+## October 2019
+
+ - [**"Advance Book Review: Morris Day - On Time: A Princely Life in Funk (with David Ritz)"**](https://www.soultracks.com/book-review-morris-day-on-time) in [www.soultracks.com](https://www.soultracks.com/) on 1 October 2019 about [Jimmy Jam](../../topics/jimmy-jam/index.md), [Jungle Love (song)](../../topics/song/jungle-love/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Bird (song)](../../topics/song/the-bird/index.md), [The Time](../../topics/the-time/index.md) ([mirror](https://web.archive.org/web/*/https://www.soultracks.com/book-review-morris-day-on-time))
+
+----
+
 ## September 2019
 
  - [**"Fire devastates home, gear of New Power Generation keyboardist Morris Hayes"**](https://blog.thecurrent.org/2019/09/fire-devastates-home-gear-of-new-power-generation-keyboardist-morris-hayes/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 19 September 2019 about [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Hayes](../../topics/morris-hayes/index.md), [New Power Generation](../../topics/new-power-generation/index.md) ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2019/09/fire-devastates-home-gear-of-new-power-generation-keyboardist-morris-hayes/))
