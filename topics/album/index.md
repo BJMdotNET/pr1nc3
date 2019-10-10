@@ -1,5 +1,6 @@
 # album
 
+  * [1-800-NEW-FUNK (album)](./album/1-800-new-funk/) (1)
   * [1999 (album)](./album/1999/) (35)
   * [1999 Deluxe (album)](./album/1999-deluxe/) (1)
   * [3121 (album)](./album/3121/) (9)
@@ -16,6 +17,7 @@
   * [Graffiti Bridge (album)](./album/graffiti-bridge/) (4)
   * [LotusFlow3r (album)](./album/lotusflow3r/) (2)
   * [Lovesexy (album)](./album/lovesexy/) (7)
+  * [Margie's Little Demo (album)](./album/margie-s-little-demo/) (1)
   * [Originals (album)](./album/originals/) (41)
   * [Parade (album)](./album/parade/) (9)
   * [Piano and a Microphone 1983 (album)](./album/piano-and-a-microphone-1983/) (10)

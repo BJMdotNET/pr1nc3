@@ -1,5 +1,15 @@
 # Tyka Nelson: 2019
 
+## October 2019
+
+ - [**"Prince's Sister's Lawyer Files Lien Against Her Portion of Singer's Fortune"**](https://theblast.com/c/prince-music-dead-drug-overdose-sister-tyka-lien-lawyers-estate) in [theblast.com](https://theblast.com/) on 7 October 2019 about [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://theblast.com/c/prince-music-dead-drug-overdose-sister-tyka-lien-lawyers-estate))
+
+----
+
+ - [**"Prince's Sister's Lawyer Files Lien Against Her Portion of Singer's Fortune"**](https://news.yahoo.com/princes-sisters-lawyer-files-lien-210645118.html) in [Yahoo! News](https://news.yahoo.com/) on 7 October 2019 about [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://news.yahoo.com/princes-sisters-lawyer-files-lien-210645118.html))
+
+----
+
 ## September 2019
 
  - [**"Alfred Jackson, half brother of Prince, has died -- The 66-year-old died of apparent natural causes, reports say."**](https://bringmethenews.com/minnesota-news/alfred-jackson-half-brother-of-prince-has-died) in [Bring Me The News](https://bringmethenews.com/) on 1 September 2019 about [Alfred Jackson](../../topics/alfred-jackson/index.md), [TMZ (website)](../../topics/website/tmz/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://bringmethenews.com/minnesota-news/alfred-jackson-half-brother-of-prince-has-died))
