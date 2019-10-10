@@ -1,6 +1,7 @@
 # Larry Graham
 
   * [2019](./larry-graham-2019.md): 
+      October (1) | 
       April (1) | 
   * [2018](./larry-graham-2018.md): 
       August (1) | 
