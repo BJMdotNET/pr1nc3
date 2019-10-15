@@ -1,6 +1,7 @@
 # André Cymone
 
   * [2019](./andr-cymone-2019.md): 
+      October (2) | 
       September (1) | 
       August (1) | 
       July (2) | 
@@ -13,7 +14,7 @@
       June (1) | 
   * [2016](./andr-cymone-2016.md): 
       June (1) | 
-      April (1) | 
+      April (2) | 
 
 ----
 

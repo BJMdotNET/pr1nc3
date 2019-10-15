@@ -1,5 +1,11 @@
 # 3rdEyeGirl: 2019
 
+## October 2019
+
+ - [**"Looks Like We'll Be Seeing Velvet Negroni In Australia Next Year"**](https://themusic.com.au/features/og-flavas-velvet-negroni-cyclone/v8zb09LV1Nc/) in [themusic.com.au](https://themusic.com.au/) on 10 October 2019 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Lenny Kravitz](../../topics/lenny-kravitz/index.md), [Lizzo](../../topics/lizzo/index.md), [Paisley Park Records](../../topics/paisley-park-records/index.md), [Paul Peterson](../../topics/paul-peterson/index.md), [Quincy Jones](../../topics/quincy-jones/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Time](../../topics/the-time/index.md) ([mirror](https://web.archive.org/web/*/https://themusic.com.au/features/og-flavas-velvet-negroni-cyclone/v8zb09LV1Nc/))
+
+----
+
 ## September 2019
 
  - [**"PREVIEW: Donna Grantis At The Dakota Jazz Club, 9/24"**](https://twincitiesarts.com/2019/09/17/preview-donna-gratis-dakota-jazz-club/) in [twincitiesarts.com](https://twincitiesarts.com/) on 17 September 2019 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Dakota (place)](../../topics/place/dakota/index.md), [Donna Grantis](../../topics/donna-grantis/index.md), [Hannah Welton](../../topics/hannah-welton/index.md), [Miles Davis](../../topics/miles-davis/index.md), [New Power Generation](../../topics/new-power-generation/index.md) ([mirror](https://web.archive.org/web/*/https://twincitiesarts.com/2019/09/17/preview-donna-gratis-dakota-jazz-club/))

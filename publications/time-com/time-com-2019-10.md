@@ -1,5 +1,9 @@
 # time.com: October 2019
 
+ - [**"Prince Estate Slams Trump For Playing 'Purple Rain' at a Campaign Rally in Minneapolis"**](https://time.com/5698383/prince-estate-condemns-donald-trump-rally-using-purple-rain/) in [time.com](https://time.com/) on 11 October 2019 about [Prince Estate](../../topics/prince-estate/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md) ([mirror](https://web.archive.org/web/*/https://time.com/5698383/prince-estate-condemns-donald-trump-rally-using-purple-rain/))
+
+----
+
  - [**"15 New Books You Should Read in October"**](https://time.com/5684268/best-books-october-2019/) in [time.com](https://time.com/) on 1 October 2019 about [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://time.com/5684268/best-books-october-2019/))
 
 ----

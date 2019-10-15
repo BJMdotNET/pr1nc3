@@ -8,7 +8,7 @@
   * [Country Inn & Suites (place)](./place/country-inn-suites/) (2)
   * [Dakota (place)](./place/dakota/) (8)
   * [Electric Fetus (place)](./place/electric-fetus/) (3)
-  * [First Avenue (place)](./place/first-avenue/) (59)
+  * [First Avenue (place)](./place/first-avenue/) (62)
   * [Galpin Blvd. (place)](./place/galpin-blvd/) (1)
   * [Galpin Boulevard (place)](./place/galpin-boulevard/) (1)
   * [Glam Slam (place)](./place/glam-slam/) (2)

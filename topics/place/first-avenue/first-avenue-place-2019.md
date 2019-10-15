@@ -1,5 +1,19 @@
 # First Avenue (place): 2019
 
+## October 2019
+
+ - [**"Prince estate objects to Trump use of 'Purple Rain' at Minneapolis rally"**](https://kstp.com/news/prince-estate-objects-to-trump-use-of-purple-rain-at-minneapolis-rally-/5521682/) in [KSTP](https://kstp.com/) on 11 October 2019 about [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md) ([mirror](https://web.archive.org/web/*/https://kstp.com/news/prince-estate-objects-to-trump-use-of-purple-rain-at-minneapolis-rally-/5521682/))
+
+----
+
+ - [**"Prince estate: Trump violated promise not to play 'Purple Rain' -- The campaign played the song at the president's Target Center appearance after it promised a year ago to stop playing Prince's music at rallies, the estate said. "**](http://www.startribune.com/prince-estate-says-playing-purple-rain-at-trump-rally-was-unauthorized/562782832/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 11 October 2019 about [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [The Prince Estate](../../../topics/the-prince-estate/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-estate-says-playing-purple-rain-at-trump-rally-was-unauthorized/562782832/))
+
+----
+
+ - [**"Prince Estate Slams Trump for Playing "Purple Rain" During Rally -- After the Trump campaign played Prince's famous song as the audience at the rally waited for the president to begin speaking, the estate reiterated that it would not give him permission to use his music."**](https://www.hollywoodreporter.com/news/prince-estate-slams-trump-use-purple-rain-rally-1246970) in [The Hollywood Reporter](https://www.hollywoodreporter.com/) on 10 October 2019 about [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md) ([mirror](https://web.archive.org/web/*/https://www.hollywoodreporter.com/news/prince-estate-slams-trump-use-purple-rain-rally-1246970))
+
+----
+
 ## September 2019
 
  - [**"Where did that Prince mural on the Midtown Greenway come from?"**](https://blog.thecurrent.org/2019/09/where-did-that-prince-mural-on-the-midtown-greenway-come-from/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 19 September 2019 about [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Lake Minnetonka (place)](../../../topics/place/lake-minnetonka/index.md) ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2019/09/where-did-that-prince-mural-on-the-midtown-greenway-come-from/))
@@ -20,7 +34,7 @@
 
 ----
 
- - [**"‘Prince: Before the Rain’ photo exhibit coming to Minnesota History Center"**](https://blog.thecurrent.org/2019/08/prince-before-the-rain-photo-exhibit-coming-to-minnesota-history-center/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 6 August 2019 about [Allen Beaulieu](../../../topics/allen-beaulieu/index.md), [André Cymone](../../../topics/andr-cymone/index.md), [Dez Dickerson](../../../topics/dez-dickerson/index.md), [exhibit](../../../topics/exhibit/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Minnesota History Center](../../../topics/minnesota-history-center/index.md), [Prince: Before the Rain](../../../topics/prince-before-the-rain/index.md) ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2019/08/prince-before-the-rain-photo-exhibit-coming-to-minnesota-history-center/))
+ - [**"‘Prince: Before the Rain’ photo exhibit coming to Minnesota History Center"**](https://blog.thecurrent.org/2019/08/prince-before-the-rain-photo-exhibit-coming-to-minnesota-history-center/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 6 August 2019 about [Allen Beaulieu](../../../topics/allen-beaulieu/index.md), [André Cymone](../../../topics/andr-cymone/index.md), [Dez Dickerson](../../../topics/dez-dickerson/index.md), [exhibit](../../../topics/exhibit/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Minnesota History Center](../../../topics/minnesota-history-center/index.md), [Morris Day](../../../topics/morris-day/index.md), [Prince: Before the Rain](../../../topics/prince-before-the-rain/index.md) ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2019/08/prince-before-the-rain-photo-exhibit-coming-to-minnesota-history-center/))
 
 ----
 

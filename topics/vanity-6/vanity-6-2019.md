@@ -1,5 +1,11 @@
 # Vanity 6: 2019
 
+## October 2019
+
+ - [**"‘Purple Rain’ star Morris Day opens up about Prince’s ‘Jesus complex’"**](https://nypost.com/2019/10/12/purple-rain-star-morris-day-opens-up-about-princes-jesus-complex/) in [New York Post](https://nypost.com/) on 12 October 2019 about [Graffiti Bridge (movie)](../../topics/movie/graffiti-bridge/index.md), [Jamie Starr](../../topics/jamie-starr/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jungle Love (song)](../../topics/song/jungle-love/index.md), [Morris Day](../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Bird (song)](../../topics/song/the-bird/index.md), [The Time](../../topics/the-time/index.md), [Vanity 6](../../topics/vanity-6/index.md) ([mirror](https://web.archive.org/web/*/https://nypost.com/2019/10/12/purple-rain-star-morris-day-opens-up-about-princes-jesus-complex/))
+
+----
+
 ## September 2019
 
  - [**"Prince's Estate To Reissue '1999' Album With Unreleased Songs, Concert Footage"**](https://www.vibe.com/2019/09/princes-estate-to-reissue-1999-album-with-unreleased-songs-concert-footage) in [www.vibe.com](https://www.vibe.com/) on 12 September 2019 about [1999 (album)](../../topics/album/1999/index.md), [1999 (song)](../../topics/song/1999/index.md), [Allen Beaulieu](../../topics/allen-beaulieu/index.md), [Andrea Swensson](../../topics/andrea-swensson/index.md), [David Fricke](../../topics/david-fricke/index.md), [Duane Tudahl](../../topics/duane-tudahl/index.md), [Duff McKagan](../../topics/duff-mckagan/index.md), [Houston Summit (place)](../../topics/place/houston-summit/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [The Time](../../topics/the-time/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.vibe.com/2019/09/princes-estate-to-reissue-1999-album-with-unreleased-songs-concert-footage))

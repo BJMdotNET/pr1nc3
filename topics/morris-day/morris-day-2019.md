@@ -2,6 +2,26 @@
 
 ## October 2019
 
+ - [**"‘Purple Rain’ star Morris Day opens up about Prince’s ‘Jesus complex’"**](https://nypost.com/2019/10/12/purple-rain-star-morris-day-opens-up-about-princes-jesus-complex/) in [New York Post](https://nypost.com/) on 12 October 2019 about [Graffiti Bridge (movie)](../../topics/movie/graffiti-bridge/index.md), [Jamie Starr](../../topics/jamie-starr/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jungle Love (song)](../../topics/song/jungle-love/index.md), [Morris Day](../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Bird (song)](../../topics/song/the-bird/index.md), [The Time](../../topics/the-time/index.md), [Vanity 6](../../topics/vanity-6/index.md) ([mirror](https://web.archive.org/web/*/https://nypost.com/2019/10/12/purple-rain-star-morris-day-opens-up-about-princes-jesus-complex/))
+
+----
+
+ - [**"Buddy Holly and Roy Orbison in Minnesota? Hologram tours of old stars are the hot new concert trend -- Buddy Holly is coming to town with Roy Orbison? Yes, rock 'n' roll holograms are here to stay."**](http://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 October 2019 about [Lizzo](../../topics/lizzo/index.md), [Morris Day](../../topics/morris-day/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/))
+
+----
+
+ - [**"Morris Day: The musician on his complicated and competitive friendship with Prince"**](https://www.scpr.org/programs/q/2019/10/11/74391/) in [www.scpr.org](https://www.scpr.org/) on 11 October 2019 about [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md) ([mirror](https://web.archive.org/web/*/https://www.scpr.org/programs/q/2019/10/11/74391/))
+
+----
+
+ - [**"The Time’s Morris Day imagines a conversation with Prince in his new book ‘On Time’"**](https://www.twincities.com/2019/10/11/the-times-morris-day-imagines-a-conversation-with-prince-in-his-new-book-on-time/) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 11 October 2019 about [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [The Time](../../topics/the-time/index.md) ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2019/10/11/the-times-morris-day-imagines-a-conversation-with-prince-in-his-new-book-on-time/))
+
+----
+
+ - [**"Rock and Roll Book Club: Morris Day is 'On Time'"**](https://www.thecurrent.org/feature/2019/10/08/morris-day-on-time) in [The Current](https://www.thecurrent.org/) on 9 October 2019 about [André Cymone](../../topics/andr-cymone/index.md), [Morris Day](../../topics/morris-day/index.md) ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/10/08/morris-day-on-time))
+
+----
+
  - [**"Prince haunts Morris Day's new memoir: 'I still hear his voice in my head' -- "Purple Rain" co-star and Time leader Morris Day details his long friendship with Prince in a memoir that brings him home to the Twin Cities this week. "**](http://www.startribune.com/prince-haunts-morris-day-s-new-memoir-i-still-hear-his-voice-in-my-head/562430972/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 8 October 2019 about [Jamie Starr](../../topics/jamie-starr/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-haunts-morris-day-s-new-memoir-i-still-hear-his-voice-in-my-head/562430972/))
 
 ----
@@ -24,6 +44,14 @@
 
 ----
 
+ - [**"Upcoming ‘1999’ reissue includes 23 unheard Prince songs from his vault and two full concerts"**](https://www.twincities.com/2019/09/10/upcoming-1999-reissue-includes-23-unheard-prince-songs-from-his-vault-and-two-full-concerts/) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 10 September 2019 about [1999 (album)](../../topics/album/1999/index.md), [1999 (song)](../../topics/song/1999/index.md), [Andrea Swensson](../../topics/andrea-swensson/index.md), [David Fricke](../../topics/david-fricke/index.md), [Duane Tudahl](../../topics/duane-tudahl/index.md), [Duff McKagan](../../topics/duff-mckagan/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Morris Day](../../topics/morris-day/index.md), [The Revolution](../../topics/the-revolution/index.md), [vault](../../topics/vault/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md) ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2019/09/10/upcoming-1999-reissue-includes-23-unheard-prince-songs-from-his-vault-and-two-full-concerts/))
+
+----
+
+ - [**"Prince Lives on in the Minnesota History Center’s Photo Exhibit Starting September 21"**](http://twincitiesgeek.com/2019/09/prince-lives-on-in-the-minnesota-history-centers-photo-exhibit-starting-september-21/) in [twincitiesgeek.com](http://twincitiesgeek.com/) on 7 September 2019 about [Morris Day](../../topics/morris-day/index.md), [museum](../../topics/museum/index.md), [Prince: Before the Rain](../../topics/prince-before-the-rain/index.md) ([mirror](https://web.archive.org/web/*/http://twincitiesgeek.com/2019/09/prince-lives-on-in-the-minnesota-history-centers-photo-exhibit-starting-september-21/))
+
+----
+
 ## August 2019
 
  - [**"Atwood, Rushdie novels among fall highlights"**](https://www.santacruzsentinel.com/2019/08/29/atwood-rushdie-novels-among-fall-highlights/) in [Santa Cruz Sentinel](https://www.santacruzsentinel.com/) on 29 August 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.santacruzsentinel.com/2019/08/29/atwood-rushdie-novels-among-fall-highlights/))
@@ -31,6 +59,10 @@
 ----
 
  - [**"Atwood, Rushdie novels among fall highlights"**](https://apnews.com/10e0c40e0c6c4d5f83f13bef45246a6e) in [Associated Press News](https://apnews.com/) on 28 August 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/10e0c40e0c6c4d5f83f13bef45246a6e))
+
+----
+
+ - [**"‘Prince: Before the Rain’ photo exhibit coming to Minnesota History Center"**](https://blog.thecurrent.org/2019/08/prince-before-the-rain-photo-exhibit-coming-to-minnesota-history-center/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 6 August 2019 about [Allen Beaulieu](../../topics/allen-beaulieu/index.md), [André Cymone](../../topics/andr-cymone/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [exhibit](../../topics/exhibit/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Minnesota History Center](../../topics/minnesota-history-center/index.md), [Morris Day](../../topics/morris-day/index.md), [Prince: Before the Rain](../../topics/prince-before-the-rain/index.md) ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2019/08/prince-before-the-rain-photo-exhibit-coming-to-minnesota-history-center/))
 
 ----
 
@@ -60,13 +92,45 @@
 
 ----
 
+ - [**"'Purple Rain' 35th anniversary: We dive into the Prince cult classic for the first time"**](https://usatoday.com/story/entertainment/movies/2019/07/25/purple-rain-35th-anniversary-does-prince-cult-film-hold-up/1817029001/) by Brian Truitt, Patrick Ryan in [USA Today](https://usatoday.com/) on 25 July 2019 about [Apollonia 6](../../topics/apollonia-6/index.md), [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Morris Day](../../topics/morris-day/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/entertainment/movies/2019/07/25/purple-rain-35th-anniversary-does-prince-cult-film-hold-up/1817029001/))
+
+----
+
+ - [**"Sheila E. brings the glam to jazz fest"**](https://www.thechronicleherald.ca/living/sheila-e-brings-the-glam-to-jazz-fest-329717/) by Stephen Cooke in [The Chronicle Herald](https://www.thechronicleherald.ca/) on 5 July 2019 about [Morris Day](../../topics/morris-day/index.md), [Sheila E.](../../topics/sheila-e/index.md) ([mirror](https://web.archive.org/web/*/https://www.thechronicleherald.ca/living/sheila-e-brings-the-glam-to-jazz-fest-329717/))
+
+----
+
  - [**"The Time’s ‘Ice Cream Castle’ Turns 35: Anniversary Retrospective -- Happy 35th Anniversary to The Time’s third studio album Ice Cream Castle, originally released July 2, 1984."**](https://www.albumism.com/features/the-time-ice-cream-castle-turns-35-anniversary-retrospective) by Andy Healy in [Albumism](https://www.albumism.com/) on 2 July 2019 about [Apollonia 6](../../topics/apollonia-6/index.md), [George Clinton](../../topics/george-clinton/index.md), [Jamie Starr](../../topics/jamie-starr/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jesse Johnson](../../topics/jesse-johnson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Mazarati](../../topics/mazarati/index.md), [Monte Moir](../../topics/monte-moir/index.md), [Morris Day](../../topics/morris-day/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Time](../../topics/the-time/index.md) ([mirror](https://web.archive.org/web/*/https://www.albumism.com/features/the-time-ice-cream-castle-turns-35-anniversary-retrospective))
+
+----
+
+## June 2019
+
+ - [**"Prince's 'Originals' Album: Comparing Each Demo With Its Well-Known Cover Version"**](https://www.billboard.com/articles/news/8517576/prince-originals-album-covers) in [Billboard](https://www.billboard.com/) on 25 June 2019 about [Alan Light](../../topics/alan-light/index.md), [Bangles](../../topics/bangles/index.md), [BrownMark](../../topics/brownmark/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Morris Day](../../topics/morris-day/index.md), [Originals (album)](../../topics/album/originals/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [The Revolution](../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8517576/prince-originals-album-covers))
+
+----
+
+ - [**"Album Review: Prince – “Originals”"**](https://www.theyoungfolks.com/review/133972/album-review-prince-originals/) by Jon Winkler  in [The Young Folks](https://www.theyoungfolks.com/) on 24 June 2019 about [Bangles](../../topics/bangles/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Morris Day](../../topics/morris-day/index.md), [Originals (album review)](../../topics/album-review/originals/index.md), [Originals (album)](../../topics/album/originals/index.md) ([mirror](https://web.archive.org/web/*/https://www.theyoungfolks.com/review/133972/album-review-prince-originals/))
+
+----
+
+ - [**"Another Treasure Trove Emerges from Prince's Vaults with 'Originals' -- A collection of 15 highly enjoyable demos of songs written for other artists is another reminder – as if we needed one – of why we love Prince Rogers Nelson."**](https://www.popmatters.com/prince-originals-review-2638918026.html) in [PopMatters](https://www.popmatters.com/) on 21 June 2019 about [Bangles](../../topics/bangles/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Morris Day](../../topics/morris-day/index.md), [Originals (album review)](../../topics/album-review/originals/index.md), [Originals (album)](../../topics/album/originals/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.popmatters.com/prince-originals-review-2638918026.html))
+
+----
+
+ - [**"10 deep nuggets of info we learned at the playback of Prince’s new album, ‘Originals’"**](https://www.nme.com/blogs/11-things-we-learned-at-playback-new-prince-album-2506506) in [NME (New Musical Express)](https://www.nme.com/) on 10 June 2019 about [Bangles](../../topics/bangles/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Michael Howe](../../topics/michael-howe/index.md), [Morris Day](../../topics/morris-day/index.md), [Originals (album)](../../topics/album/originals/index.md), [Peggy McCreary](../../topics/peggy-mccreary/index.md), [The Revolution](../../topics/the-revolution/index.md), [Troy Carter](../../topics/troy-carter/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md) ([mirror](https://web.archive.org/web/*/https://www.nme.com/blogs/11-things-we-learned-at-playback-new-prince-album-2506506))
 
 ----
 
 ## April 2019
 
  - [**"Coming soon from the Prince vault: A new album called ‘Originals’ -- Prince’s estate is announcing the collection of his performances of songs he wrote for others."**](http://www.startribune.com/coming-soon-from-the-prince-vault-a-new-album-called-originals/509009862/) by Chris Riemenschneider, Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 April 2019 about [Ani DiFranco](../../topics/ani-difranco/index.md), [Apple Music](../../topics/apple-music/index.md), [Bangles](../../topics/bangles/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Martika](../../topics/martika/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Netflix](../../topics/netflix/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../topics/album/originals/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Random House ](../../topics/random-house/index.md), [Rave In2 the Joy Fantastic (album)](../../topics/album/rave-in2-the-joy-fantastic/index.md), [Rave Un2 the Joy Fantastic (album)](../../topics/album/rave-un2-the-joy-fantastic/index.md), [Rave Un2 the Year 2000 (video)](../../topics/video/rave-un2-the-year-2000/index.md), [Sex Shooter (song)](../../topics/song/sex-shooter/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [The Family](../../topics/the-family/index.md), [The Glamorous Life (song)](../../topics/song/the-glamorous-life/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [The Time](../../topics/the-time/index.md), [Ultimate Rave (album)](../../topics/album/ultimate-rave/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/coming-soon-from-the-prince-vault-a-new-album-called-originals/509009862/))
+
+----
+
+## February 2019
+
+ - [**"The Prince Estate in Partnership with Legacy Recordings Announce Next Wave of Physical Titles in Definitive Catalog Rerelease Project with Prince’s Ultimate Rave on Friday, April 26, 2019"**](https://www.legacyrecordings.com/2019/02/22/the-prince-estate-in-partnership-with-legacy-recordings-announce-next-wave-of-physical-titles-cd-dvd-vinyl-in-definitive-catalog-rerelease-project-with-princes-ultimate-rave-on-friday-april-26-2/) in [Legacy Recordings](https://www.legacyrecordings.com/) on 22 February 2019 about [Ani DiFranco](../../topics/ani-difranco/index.md), [Legacy Recordings](../../topics/legacy-recordings/index.md), [Morris Day](../../topics/morris-day/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Rave In2 the Joy Fantastic (album)](../../topics/album/rave-in2-the-joy-fantastic/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md) ([mirror](https://web.archive.org/web/*/https://www.legacyrecordings.com/2019/02/22/the-prince-estate-in-partnership-with-legacy-recordings-announce-next-wave-of-physical-titles-cd-dvd-vinyl-in-definitive-catalog-rerelease-project-with-princes-ultimate-rave-on-friday-april-26-2/))
 
 ----
 

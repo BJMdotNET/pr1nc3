@@ -2,6 +2,14 @@
 
 ## October 2019
 
+ - [**"Morris Day: The musician on his complicated and competitive friendship with Prince"**](https://www.scpr.org/programs/q/2019/10/11/74391/) in [www.scpr.org](https://www.scpr.org/) on 11 October 2019 about [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md) ([mirror](https://web.archive.org/web/*/https://www.scpr.org/programs/q/2019/10/11/74391/))
+
+----
+
+ - [**"The Time’s Morris Day imagines a conversation with Prince in his new book ‘On Time’"**](https://www.twincities.com/2019/10/11/the-times-morris-day-imagines-a-conversation-with-prince-in-his-new-book-on-time/) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 11 October 2019 about [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [The Time](../../topics/the-time/index.md) ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2019/10/11/the-times-morris-day-imagines-a-conversation-with-prince-in-his-new-book-on-time/))
+
+----
+
  - [**"The Beautiful Ones' Editor Reveals How Prince Tapped Him to Write His Memoir -- A month after Chris Jackson signed a deal to publish Prince’s memoir, Prince died. Here, Jackson opens up about the three-year journey to make The Purple One proud."**](https://www.oprahmag.com/entertainment/books/a29339794/prince-the-beautiful-ones-book-chris-jackson/) in [www.oprahmag.com](https://www.oprahmag.com/) on 9 October 2019 about [Chris Jackson](../../topics/chris-jackson/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Esther Newberg](../../topics/esther-newberg/index.md), [I Wanna Be Your Lover (song)](../../topics/song/i-wanna-be-your-lover/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [Larry Graham](../../topics/larry-graham/index.md), [memoir](../../topics/memoir/index.md), [motorcycle](../../topics/motorcycle/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://www.oprahmag.com/entertainment/books/a29339794/prince-the-beautiful-ones-book-chris-jackson/))
 
 ----
@@ -71,6 +79,12 @@
 ----
 
  - [**"Sheila E. turns trauma into 'glorious' triumph"**](https://usatoday.com/story/life/2019/08/24/sheila-e-glorious-life/2101411001/) in [USA Today](https://usatoday.com/) on 24 August 2019 about [memoir](../../topics/memoir/index.md), [Obama](../../topics/obama/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Glamorous Life (album)](../../topics/album/the-glamorous-life/index.md), [The Glamorous Life (song)](../../topics/song/the-glamorous-life/index.md), [White House (place)](../../topics/place/white-house/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/2019/08/24/sheila-e-glorious-life/2101411001/))
+
+----
+
+## May 2019
+
+ - [**"Prince: Unseen Images Unearthed for Randee St. Nicholas Photo Book -- Singer, photographer previously collaborated on 2008 book 21 Nights"**](https://www.rollingstone.com/music/music-news/prince-photo-book-randee-st-nicholas-833631/) in [Rolling Stone](https://www.rollingstone.com/) on 10 May 2019 about [memoir](../../topics/memoir/index.md), [My Name Is Prince: 25 Inspired Years (book)](../../topics/book/my-name-is-prince-25-inspired-years/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-news/prince-photo-book-randee-st-nicholas-833631/))
 
 ----
 

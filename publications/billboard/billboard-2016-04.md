@@ -1,5 +1,9 @@
 # Billboard: April 2016
 
+ - [**"Prince Remembered by Childhood Best Friend and Bandmate André Cymone : 'There Was a Lot More to Him Than What People Saw'"**](https://www.billboard.com/articles/news/magazine-feature/7348518/prince-childhood-friend-bassist-andre-cymone-remembrance) in [Billboard](https://www.billboard.com/) on 28 April 2016 about [André Cymone](../../topics/andr-cymone/index.md), [Morris Day](../../topics/morris-day/index.md) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/magazine-feature/7348518/prince-childhood-friend-bassist-andre-cymone-remembrance))
+
+----
+
  - [**"Suzanne Vega On That Note From Prince: 'I Always Felt That Connection'"**](https://www.billboard.com/articles/news/7350157/suzanne-vega-prince-interview) by Melinda Newman in [Billboard](https://www.billboard.com/) on 28 April 2016 about [Luka (song)](../../topics/song/luka/index.md), [Suzanne Vega](../../topics/suzanne-vega/index.md) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/7350157/suzanne-vega-prince-interview))
 
 ----

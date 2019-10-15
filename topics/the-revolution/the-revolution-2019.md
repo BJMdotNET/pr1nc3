@@ -18,7 +18,7 @@
 
 ----
 
- - [**"Upcoming ‘1999’ reissue includes 23 unheard Prince songs from his vault and two full concerts"**](https://www.twincities.com/2019/09/10/upcoming-1999-reissue-includes-23-unheard-prince-songs-from-his-vault-and-two-full-concerts/) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 10 September 2019 about [1999 (album)](../../topics/album/1999/index.md), [1999 (song)](../../topics/song/1999/index.md), [Andrea Swensson](../../topics/andrea-swensson/index.md), [David Fricke](../../topics/david-fricke/index.md), [Duane Tudahl](../../topics/duane-tudahl/index.md), [Duff McKagan](../../topics/duff-mckagan/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [The Revolution](../../topics/the-revolution/index.md), [vault](../../topics/vault/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md) ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2019/09/10/upcoming-1999-reissue-includes-23-unheard-prince-songs-from-his-vault-and-two-full-concerts/))
+ - [**"Upcoming ‘1999’ reissue includes 23 unheard Prince songs from his vault and two full concerts"**](https://www.twincities.com/2019/09/10/upcoming-1999-reissue-includes-23-unheard-prince-songs-from-his-vault-and-two-full-concerts/) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 10 September 2019 about [1999 (album)](../../topics/album/1999/index.md), [1999 (song)](../../topics/song/1999/index.md), [Andrea Swensson](../../topics/andrea-swensson/index.md), [David Fricke](../../topics/david-fricke/index.md), [Duane Tudahl](../../topics/duane-tudahl/index.md), [Duff McKagan](../../topics/duff-mckagan/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Morris Day](../../topics/morris-day/index.md), [The Revolution](../../topics/the-revolution/index.md), [vault](../../topics/vault/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md) ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2019/09/10/upcoming-1999-reissue-includes-23-unheard-prince-songs-from-his-vault-and-two-full-concerts/))
 
 ----
 
@@ -38,7 +38,7 @@
 
 ----
 
- - [**"'Purple Rain' 35th anniversary: We dive into the Prince cult classic for the first time"**](https://usatoday.com/story/entertainment/movies/2019/07/25/purple-rain-35th-anniversary-does-prince-cult-film-hold-up/1817029001/) by Brian Truitt, Patrick Ryan in [USA Today](https://usatoday.com/) on 25 July 2019 about [Apollonia 6](../../topics/apollonia-6/index.md), [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/entertainment/movies/2019/07/25/purple-rain-35th-anniversary-does-prince-cult-film-hold-up/1817029001/))
+ - [**"'Purple Rain' 35th anniversary: We dive into the Prince cult classic for the first time"**](https://usatoday.com/story/entertainment/movies/2019/07/25/purple-rain-35th-anniversary-does-prince-cult-film-hold-up/1817029001/) by Brian Truitt, Patrick Ryan in [USA Today](https://usatoday.com/) on 25 July 2019 about [Apollonia 6](../../topics/apollonia-6/index.md), [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Morris Day](../../topics/morris-day/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/entertainment/movies/2019/07/25/purple-rain-35th-anniversary-does-prince-cult-film-hold-up/1817029001/))
 
 ----
 
@@ -68,7 +68,7 @@
 
 ----
 
- - [**"Prince's 'Originals' Album: Comparing Each Demo With Its Well-Known Cover Version"**](https://www.billboard.com/articles/news/8517576/prince-originals-album-covers) in [Billboard](https://www.billboard.com/) on 25 June 2019 about [Alan Light](../../topics/alan-light/index.md), [Bangles](../../topics/bangles/index.md), [BrownMark](../../topics/brownmark/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Originals (album)](../../topics/album/originals/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [The Revolution](../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8517576/prince-originals-album-covers))
+ - [**"Prince's 'Originals' Album: Comparing Each Demo With Its Well-Known Cover Version"**](https://www.billboard.com/articles/news/8517576/prince-originals-album-covers) in [Billboard](https://www.billboard.com/) on 25 June 2019 about [Alan Light](../../topics/alan-light/index.md), [Bangles](../../topics/bangles/index.md), [BrownMark](../../topics/brownmark/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Morris Day](../../topics/morris-day/index.md), [Originals (album)](../../topics/album/originals/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [The Revolution](../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8517576/prince-originals-album-covers))
 
 ----
 
@@ -84,7 +84,7 @@
 
 ----
 
- - [**"10 deep nuggets of info we learned at the playback of Prince’s new album, ‘Originals’"**](https://www.nme.com/blogs/11-things-we-learned-at-playback-new-prince-album-2506506) in [NME (New Musical Express)](https://www.nme.com/) on 10 June 2019 about [Bangles](../../topics/bangles/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Michael Howe](../../topics/michael-howe/index.md), [Originals (album)](../../topics/album/originals/index.md), [Peggy McCreary](../../topics/peggy-mccreary/index.md), [The Revolution](../../topics/the-revolution/index.md), [Troy Carter](../../topics/troy-carter/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md) ([mirror](https://web.archive.org/web/*/https://www.nme.com/blogs/11-things-we-learned-at-playback-new-prince-album-2506506))
+ - [**"10 deep nuggets of info we learned at the playback of Prince’s new album, ‘Originals’"**](https://www.nme.com/blogs/11-things-we-learned-at-playback-new-prince-album-2506506) in [NME (New Musical Express)](https://www.nme.com/) on 10 June 2019 about [Bangles](../../topics/bangles/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Michael Howe](../../topics/michael-howe/index.md), [Morris Day](../../topics/morris-day/index.md), [Originals (album)](../../topics/album/originals/index.md), [Peggy McCreary](../../topics/peggy-mccreary/index.md), [The Revolution](../../topics/the-revolution/index.md), [Troy Carter](../../topics/troy-carter/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md) ([mirror](https://web.archive.org/web/*/https://www.nme.com/blogs/11-things-we-learned-at-playback-new-prince-album-2506506))
 
 ----
 

@@ -1,5 +1,13 @@
 # Lizzo
 
+ - [**"Buddy Holly and Roy Orbison in Minnesota? Hologram tours of old stars are the hot new concert trend -- Buddy Holly is coming to town with Roy Orbison? Yes, rock 'n' roll holograms are here to stay."**](http://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 October 2019 about [Lizzo](../../topics/lizzo/index.md), [Morris Day](../../topics/morris-day/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/))
+
+----
+
+ - [**"Looks Like We'll Be Seeing Velvet Negroni In Australia Next Year"**](https://themusic.com.au/features/og-flavas-velvet-negroni-cyclone/v8zb09LV1Nc/) in [themusic.com.au](https://themusic.com.au/) on 10 October 2019 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Lenny Kravitz](../../topics/lenny-kravitz/index.md), [Lizzo](../../topics/lizzo/index.md), [Paisley Park Records](../../topics/paisley-park-records/index.md), [Paul Peterson](../../topics/paul-peterson/index.md), [Quincy Jones](../../topics/quincy-jones/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Time](../../topics/the-time/index.md) ([mirror](https://web.archive.org/web/*/https://themusic.com.au/features/og-flavas-velvet-negroni-cyclone/v8zb09LV1Nc/))
+
+----
+
  - [**"What do Lizzo, Prince, Lipps Inc., Owl City, Next, and Bobby Vee have in common? Minnesota, and the top of the charts."**](https://blog.thecurrent.org/2019/09/what-do-lizzo-prince-lipps-inc-owl-city-next-and-bobby-vee-have-in-common-minnesota-and-the-top-of-the-charts/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 4 September 2019 about [Batdance (song)](../../topics/song/batdance/index.md), [BET Awards](../../topics/bet-awards/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Lizzo](../../topics/lizzo/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2019/09/what-do-lizzo-prince-lipps-inc-owl-city-next-and-bobby-vee-have-in-common-minnesota-and-the-top-of-the-charts/))
 
 ----

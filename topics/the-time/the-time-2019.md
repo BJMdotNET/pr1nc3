@@ -2,6 +2,18 @@
 
 ## October 2019
 
+ - [**"‘Purple Rain’ star Morris Day opens up about Prince’s ‘Jesus complex’"**](https://nypost.com/2019/10/12/purple-rain-star-morris-day-opens-up-about-princes-jesus-complex/) in [New York Post](https://nypost.com/) on 12 October 2019 about [Graffiti Bridge (movie)](../../topics/movie/graffiti-bridge/index.md), [Jamie Starr](../../topics/jamie-starr/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jungle Love (song)](../../topics/song/jungle-love/index.md), [Morris Day](../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Bird (song)](../../topics/song/the-bird/index.md), [The Time](../../topics/the-time/index.md), [Vanity 6](../../topics/vanity-6/index.md) ([mirror](https://web.archive.org/web/*/https://nypost.com/2019/10/12/purple-rain-star-morris-day-opens-up-about-princes-jesus-complex/))
+
+----
+
+ - [**"The Time’s Morris Day imagines a conversation with Prince in his new book ‘On Time’"**](https://www.twincities.com/2019/10/11/the-times-morris-day-imagines-a-conversation-with-prince-in-his-new-book-on-time/) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 11 October 2019 about [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [The Time](../../topics/the-time/index.md) ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2019/10/11/the-times-morris-day-imagines-a-conversation-with-prince-in-his-new-book-on-time/))
+
+----
+
+ - [**"Looks Like We'll Be Seeing Velvet Negroni In Australia Next Year"**](https://themusic.com.au/features/og-flavas-velvet-negroni-cyclone/v8zb09LV1Nc/) in [themusic.com.au](https://themusic.com.au/) on 10 October 2019 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Lenny Kravitz](../../topics/lenny-kravitz/index.md), [Lizzo](../../topics/lizzo/index.md), [Paisley Park Records](../../topics/paisley-park-records/index.md), [Paul Peterson](../../topics/paul-peterson/index.md), [Quincy Jones](../../topics/quincy-jones/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Time](../../topics/the-time/index.md) ([mirror](https://web.archive.org/web/*/https://themusic.com.au/features/og-flavas-velvet-negroni-cyclone/v8zb09LV1Nc/))
+
+----
+
  - [**"Excerpt of a 'dialogue' between Prince and Morris Day from the book 'On Time'"**](http://www.startribune.com/excerpt-of-a-dialogue-between-prince-and-morris-day-from-the-book-on-time/562430982/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 7 October 2019 about [Morris Day](../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [The Time](../../topics/the-time/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/excerpt-of-a-dialogue-between-prince-and-morris-day-from-the-book-on-time/562430982/))
 
 ----
@@ -30,7 +42,7 @@
 
 ----
 
- - [**"'Purple Rain' 35th anniversary: We dive into the Prince cult classic for the first time"**](https://usatoday.com/story/entertainment/movies/2019/07/25/purple-rain-35th-anniversary-does-prince-cult-film-hold-up/1817029001/) by Brian Truitt, Patrick Ryan in [USA Today](https://usatoday.com/) on 25 July 2019 about [Apollonia 6](../../topics/apollonia-6/index.md), [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/entertainment/movies/2019/07/25/purple-rain-35th-anniversary-does-prince-cult-film-hold-up/1817029001/))
+ - [**"'Purple Rain' 35th anniversary: We dive into the Prince cult classic for the first time"**](https://usatoday.com/story/entertainment/movies/2019/07/25/purple-rain-35th-anniversary-does-prince-cult-film-hold-up/1817029001/) by Brian Truitt, Patrick Ryan in [USA Today](https://usatoday.com/) on 25 July 2019 about [Apollonia 6](../../topics/apollonia-6/index.md), [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Morris Day](../../topics/morris-day/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/entertainment/movies/2019/07/25/purple-rain-35th-anniversary-does-prince-cult-film-hold-up/1817029001/))
 
 ----
 

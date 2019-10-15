@@ -8,7 +8,7 @@
   * [2017](./george-clinton-2017.md): 
       November (1) | 
       June (1) | 
-      April (2) | 
+      April (3) | 
   * [2016](./george-clinton-2016.md): 
       November (1) | 
       April (1) | 

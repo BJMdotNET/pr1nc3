@@ -12,7 +12,7 @@
   * 2016: 
       [November](./billboard-2016-11.md) (1) | 
       [August](./billboard-2016-08.md) (1) | 
-      [April](./billboard-2016-04.md) (5) | 
+      [April](./billboard-2016-04.md) (6) | 
 
 ----
 

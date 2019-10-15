@@ -1,6 +1,7 @@
 # Tidal
 
   * [2019](./tidal-2019.md): 
+      October (1) | 
       June (1) | 
       May (1) | 
       April (2) | 

@@ -1,5 +1,15 @@
 # André Cymone: 2019
 
+## October 2019
+
+ - [**""A REMARKABLE MAN!” -- Susan Rogers Reflects upon her Lifelong Journey in Music, What it was Like to Watch a ‘Genius at Work,’ and Her Personal Vow to lift up Prince’s Legacy at Every Turn -- Spotlight: Susan Rogers"**](http://prnalumni.org/members/spotlight/spotlight-susan-rogers/) in [prnalumni.org](http://prnalumni.org/) on 11 October 2019 about [André Cymone](../../topics/andr-cymone/index.md) ([mirror](https://web.archive.org/web/*/http://prnalumni.org/members/spotlight/spotlight-susan-rogers/))
+
+----
+
+ - [**"Rock and Roll Book Club: Morris Day is 'On Time'"**](https://www.thecurrent.org/feature/2019/10/08/morris-day-on-time) in [The Current](https://www.thecurrent.org/) on 9 October 2019 about [André Cymone](../../topics/andr-cymone/index.md), [Morris Day](../../topics/morris-day/index.md) ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/10/08/morris-day-on-time))
+
+----
+
 ## September 2019
 
  - [**"The builder of Prince’s Cloud guitar speaks out on the trademark dispute with the late pop icon’s estate -- Paisley Park ordered Dave Rusan to give up his trademark for the guitar’s design"**](https://www.musicradar.com/news/the-builder-of-princes-cloud-guitar-speaks-out-on-the-trademark-dispute-with-the-late-pop-icons-estate) in [MusicRadar](https://www.musicradar.com/) on 4 September 2019 about [André Cymone](../../topics/andr-cymone/index.md), [Cloud guitar](../../topics/cloud-guitar/index.md), [Dave Rusan](../../topics/dave-rusan/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Sardonyx](../../topics/sardonyx/index.md), [trademark](../../topics/trademark/index.md) ([mirror](https://web.archive.org/web/*/https://www.musicradar.com/news/the-builder-of-princes-cloud-guitar-speaks-out-on-the-trademark-dispute-with-the-late-pop-icons-estate))
@@ -8,7 +18,7 @@
 
 ## August 2019
 
- - [**"‘Prince: Before the Rain’ photo exhibit coming to Minnesota History Center"**](https://blog.thecurrent.org/2019/08/prince-before-the-rain-photo-exhibit-coming-to-minnesota-history-center/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 6 August 2019 about [Allen Beaulieu](../../topics/allen-beaulieu/index.md), [André Cymone](../../topics/andr-cymone/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [exhibit](../../topics/exhibit/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Minnesota History Center](../../topics/minnesota-history-center/index.md), [Prince: Before the Rain](../../topics/prince-before-the-rain/index.md) ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2019/08/prince-before-the-rain-photo-exhibit-coming-to-minnesota-history-center/))
+ - [**"‘Prince: Before the Rain’ photo exhibit coming to Minnesota History Center"**](https://blog.thecurrent.org/2019/08/prince-before-the-rain-photo-exhibit-coming-to-minnesota-history-center/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 6 August 2019 about [Allen Beaulieu](../../topics/allen-beaulieu/index.md), [André Cymone](../../topics/andr-cymone/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [exhibit](../../topics/exhibit/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Minnesota History Center](../../topics/minnesota-history-center/index.md), [Morris Day](../../topics/morris-day/index.md), [Prince: Before the Rain](../../topics/prince-before-the-rain/index.md) ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2019/08/prince-before-the-rain-photo-exhibit-coming-to-minnesota-history-center/))
 
 ----
 

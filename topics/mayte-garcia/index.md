@@ -2,7 +2,7 @@
 
   * [2019](./mayte-garcia-2019.md): 
       August (1) | 
-      July (1) | 
+      July (2) | 
   * [2018](./mayte-garcia-2018.md): 
       July (1) | 
       April (1) | 

@@ -1,5 +1,11 @@
 # Sheila E.: 2019
 
+## October 2019
+
+ - [**"‘Purple Rain’ star Morris Day opens up about Prince’s ‘Jesus complex’"**](https://nypost.com/2019/10/12/purple-rain-star-morris-day-opens-up-about-princes-jesus-complex/) in [New York Post](https://nypost.com/) on 12 October 2019 about [Graffiti Bridge (movie)](../../topics/movie/graffiti-bridge/index.md), [Jamie Starr](../../topics/jamie-starr/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jungle Love (song)](../../topics/song/jungle-love/index.md), [Morris Day](../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Bird (song)](../../topics/song/the-bird/index.md), [The Time](../../topics/the-time/index.md), [Vanity 6](../../topics/vanity-6/index.md) ([mirror](https://web.archive.org/web/*/https://nypost.com/2019/10/12/purple-rain-star-morris-day-opens-up-about-princes-jesus-complex/))
+
+----
+
 ## September 2019
 
  - [**"Prince and his lost comic book past get animated for a posthumous promo"**](https://www.digitalartsonline.co.uk/features/motion-graphics/prince-his-lost-comic-book-past-get-animated-for-posthumous-promo/) in [www.digitalartsonline.co.uk](https://www.digitalartsonline.co.uk/) on 27 September 2019 about [Electric Light Studios](../../topics/electric-light-studios/index.md), [Holly Rock (song)](../../topics/song/holly-rock/index.md), [Krush Groove (movie)](../../topics/movie/krush-groove/index.md), [Originals (album)](../../topics/album/originals/index.md), [Prince: Alter Ego](../../topics/prince-alter-ego/index.md), [Sheila E.](../../topics/sheila-e/index.md) ([mirror](https://web.archive.org/web/*/https://www.digitalartsonline.co.uk/features/motion-graphics/prince-his-lost-comic-book-past-get-animated-for-posthumous-promo/))
@@ -30,7 +36,7 @@
 
 ----
 
- - [**"Sheila E. brings the glam to jazz fest"**](https://www.thechronicleherald.ca/living/sheila-e-brings-the-glam-to-jazz-fest-329717/) by Stephen Cooke in [The Chronicle Herald](https://www.thechronicleherald.ca/) on 5 July 2019 about [Sheila E.](../../topics/sheila-e/index.md) ([mirror](https://web.archive.org/web/*/https://www.thechronicleherald.ca/living/sheila-e-brings-the-glam-to-jazz-fest-329717/))
+ - [**"Sheila E. brings the glam to jazz fest"**](https://www.thechronicleherald.ca/living/sheila-e-brings-the-glam-to-jazz-fest-329717/) by Stephen Cooke in [The Chronicle Herald](https://www.thechronicleherald.ca/) on 5 July 2019 about [Morris Day](../../topics/morris-day/index.md), [Sheila E.](../../topics/sheila-e/index.md) ([mirror](https://web.archive.org/web/*/https://www.thechronicleherald.ca/living/sheila-e-brings-the-glam-to-jazz-fest-329717/))
 
 ----
 

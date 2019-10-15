@@ -1,5 +1,17 @@
 # On Time: A Princely Life in Funk (book)
 
+ - [**"‘Purple Rain’ star Morris Day opens up about Prince’s ‘Jesus complex’"**](https://nypost.com/2019/10/12/purple-rain-star-morris-day-opens-up-about-princes-jesus-complex/) in [New York Post](https://nypost.com/) on 12 October 2019 about [Graffiti Bridge (movie)](../../../topics/movie/graffiti-bridge/index.md), [Jamie Starr](../../../topics/jamie-starr/index.md), [Jehovah’s Witness](../../../topics/jehovah-s-witness/index.md), [Jellybean Johnson](../../../topics/jellybean-johnson/index.md), [Jungle Love (song)](../../../topics/song/jungle-love/index.md), [Morris Day](../../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../../topics/book/on-time-a-princely-life-in-funk/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [The Bird (song)](../../../topics/song/the-bird/index.md), [The Time](../../../topics/the-time/index.md), [Vanity 6](../../../topics/vanity-6/index.md) ([mirror](https://web.archive.org/web/*/https://nypost.com/2019/10/12/purple-rain-star-morris-day-opens-up-about-princes-jesus-complex/))
+
+----
+
+ - [**"Morris Day: The musician on his complicated and competitive friendship with Prince"**](https://www.scpr.org/programs/q/2019/10/11/74391/) in [www.scpr.org](https://www.scpr.org/) on 11 October 2019 about [memoir](../../../topics/memoir/index.md), [Morris Day](../../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../../topics/book/on-time-a-princely-life-in-funk/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md) ([mirror](https://web.archive.org/web/*/https://www.scpr.org/programs/q/2019/10/11/74391/))
+
+----
+
+ - [**"The Time’s Morris Day imagines a conversation with Prince in his new book ‘On Time’"**](https://www.twincities.com/2019/10/11/the-times-morris-day-imagines-a-conversation-with-prince-in-his-new-book-on-time/) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 11 October 2019 about [memoir](../../../topics/memoir/index.md), [Morris Day](../../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../../topics/book/on-time-a-princely-life-in-funk/index.md), [The Time](../../../topics/the-time/index.md) ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2019/10/11/the-times-morris-day-imagines-a-conversation-with-prince-in-his-new-book-on-time/))
+
+----
+
  - [**"Prince haunts Morris Day's new memoir: 'I still hear his voice in my head' -- "Purple Rain" co-star and Time leader Morris Day details his long friendship with Prince in a memoir that brings him home to the Twin Cities this week. "**](http://www.startribune.com/prince-haunts-morris-day-s-new-memoir-i-still-hear-his-voice-in-my-head/562430972/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 8 October 2019 about [Jamie Starr](../../../topics/jamie-starr/index.md), [Janet Jackson](../../../topics/janet-jackson/index.md), [memoir](../../../topics/memoir/index.md), [Morris Day](../../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../../topics/book/on-time-a-princely-life-in-funk/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-haunts-morris-day-s-new-memoir-i-still-hear-his-voice-in-my-head/562430972/))
 
 ----

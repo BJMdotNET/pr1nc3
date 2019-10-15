@@ -1,6 +1,7 @@
 # 3rdEyeGirl
 
   * [2019](./3rdeyegirl-2019.md): 
+      October (1) | 
       September (1) | 
       March (3) | 
   * [2018](./3rdeyegirl-2018.md): 

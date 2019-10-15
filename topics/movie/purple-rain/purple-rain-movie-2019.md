@@ -2,6 +2,14 @@
 
 ## October 2019
 
+ - [**"‘Purple Rain’ star Morris Day opens up about Prince’s ‘Jesus complex’"**](https://nypost.com/2019/10/12/purple-rain-star-morris-day-opens-up-about-princes-jesus-complex/) in [New York Post](https://nypost.com/) on 12 October 2019 about [Graffiti Bridge (movie)](../../../topics/movie/graffiti-bridge/index.md), [Jamie Starr](../../../topics/jamie-starr/index.md), [Jehovah’s Witness](../../../topics/jehovah-s-witness/index.md), [Jellybean Johnson](../../../topics/jellybean-johnson/index.md), [Jungle Love (song)](../../../topics/song/jungle-love/index.md), [Morris Day](../../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../../topics/book/on-time-a-princely-life-in-funk/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [The Bird (song)](../../../topics/song/the-bird/index.md), [The Time](../../../topics/the-time/index.md), [Vanity 6](../../../topics/vanity-6/index.md) ([mirror](https://web.archive.org/web/*/https://nypost.com/2019/10/12/purple-rain-star-morris-day-opens-up-about-princes-jesus-complex/))
+
+----
+
+ - [**"Morris Day: The musician on his complicated and competitive friendship with Prince"**](https://www.scpr.org/programs/q/2019/10/11/74391/) in [www.scpr.org](https://www.scpr.org/) on 11 October 2019 about [memoir](../../../topics/memoir/index.md), [Morris Day](../../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../../topics/book/on-time-a-princely-life-in-funk/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md) ([mirror](https://web.archive.org/web/*/https://www.scpr.org/programs/q/2019/10/11/74391/))
+
+----
+
  - [**"Advance Book Review: Morris Day - On Time: A Princely Life in Funk (with David Ritz)"**](https://www.soultracks.com/book-review-morris-day-on-time) in [www.soultracks.com](https://www.soultracks.com/) on 1 October 2019 about [Jimmy Jam](../../../topics/jimmy-jam/index.md), [Jungle Love (song)](../../../topics/song/jungle-love/index.md), [memoir](../../../topics/memoir/index.md), [Morris Day](../../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../../topics/book/on-time-a-princely-life-in-funk/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md), [Terry Lewis](../../../topics/terry-lewis/index.md), [The Bird (song)](../../../topics/song/the-bird/index.md), [The Time](../../../topics/the-time/index.md) ([mirror](https://web.archive.org/web/*/https://www.soultracks.com/book-review-morris-day-on-time))
 
 ----
@@ -56,7 +64,7 @@
 
 ----
 
- - [**"'Purple Rain' 35th anniversary: We dive into the Prince cult classic for the first time"**](https://usatoday.com/story/entertainment/movies/2019/07/25/purple-rain-35th-anniversary-does-prince-cult-film-hold-up/1817029001/) by Brian Truitt, Patrick Ryan in [USA Today](https://usatoday.com/) on 25 July 2019 about [Apollonia 6](../../../topics/apollonia-6/index.md), [Apollonia Kotero](../../../topics/apollonia-kotero/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md), [The Revolution](../../../topics/the-revolution/index.md), [The Time](../../../topics/the-time/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/entertainment/movies/2019/07/25/purple-rain-35th-anniversary-does-prince-cult-film-hold-up/1817029001/))
+ - [**"'Purple Rain' 35th anniversary: We dive into the Prince cult classic for the first time"**](https://usatoday.com/story/entertainment/movies/2019/07/25/purple-rain-35th-anniversary-does-prince-cult-film-hold-up/1817029001/) by Brian Truitt, Patrick Ryan in [USA Today](https://usatoday.com/) on 25 July 2019 about [Apollonia 6](../../../topics/apollonia-6/index.md), [Apollonia Kotero](../../../topics/apollonia-kotero/index.md), [Morris Day](../../../topics/morris-day/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md), [The Revolution](../../../topics/the-revolution/index.md), [The Time](../../../topics/the-time/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/entertainment/movies/2019/07/25/purple-rain-35th-anniversary-does-prince-cult-film-hold-up/1817029001/))
 
 ----
 

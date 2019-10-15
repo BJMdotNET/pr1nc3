@@ -1,5 +1,11 @@
 # vault: 2019
 
+## October 2019
+
+ - [**"Once and Future Prince"**](https://www.newyorker.com/magazine/2019/10/21/once-and-future-prince/) in [The New Yorker](https://www.newyorker.com/) on 14 October 2019 about [Grammy Award](../../topics/grammy-award/index.md), [Super Bowl](../../topics/super-bowl/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.newyorker.com/magazine/2019/10/21/once-and-future-prince/))
+
+----
+
 ## September 2019
 
  - [**"Prince's '1999' getting reissue with 35 previously unreleased songs -- The release will include multiple CDs ,DVDs and vinyls."**](https://bringmethenews.com/minnesota-lifestyle/princes-1999-getting-reissue-with-35-previously-unreleased-songs) in [Bring Me The News](https://bringmethenews.com/) on 14 September 2019 about [1999 (album)](../../topics/album/1999/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://bringmethenews.com/minnesota-lifestyle/princes-1999-getting-reissue-with-35-previously-unreleased-songs))
@@ -74,7 +80,7 @@
 
 ----
 
- - [**"Upcoming ‘1999’ reissue includes 23 unheard Prince songs from his vault and two full concerts"**](https://www.twincities.com/2019/09/10/upcoming-1999-reissue-includes-23-unheard-prince-songs-from-his-vault-and-two-full-concerts/) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 10 September 2019 about [1999 (album)](../../topics/album/1999/index.md), [1999 (song)](../../topics/song/1999/index.md), [Andrea Swensson](../../topics/andrea-swensson/index.md), [David Fricke](../../topics/david-fricke/index.md), [Duane Tudahl](../../topics/duane-tudahl/index.md), [Duff McKagan](../../topics/duff-mckagan/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [The Revolution](../../topics/the-revolution/index.md), [vault](../../topics/vault/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md) ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2019/09/10/upcoming-1999-reissue-includes-23-unheard-prince-songs-from-his-vault-and-two-full-concerts/))
+ - [**"Upcoming ‘1999’ reissue includes 23 unheard Prince songs from his vault and two full concerts"**](https://www.twincities.com/2019/09/10/upcoming-1999-reissue-includes-23-unheard-prince-songs-from-his-vault-and-two-full-concerts/) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 10 September 2019 about [1999 (album)](../../topics/album/1999/index.md), [1999 (song)](../../topics/song/1999/index.md), [Andrea Swensson](../../topics/andrea-swensson/index.md), [David Fricke](../../topics/david-fricke/index.md), [Duane Tudahl](../../topics/duane-tudahl/index.md), [Duff McKagan](../../topics/duff-mckagan/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Morris Day](../../topics/morris-day/index.md), [The Revolution](../../topics/the-revolution/index.md), [vault](../../topics/vault/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md) ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2019/09/10/upcoming-1999-reissue-includes-23-unheard-prince-songs-from-his-vault-and-two-full-concerts/))
 
 ----
 
@@ -110,7 +116,7 @@
 
 ----
 
- - [**"Another Treasure Trove Emerges from Prince's Vaults with 'Originals' -- A collection of 15 highly enjoyable demos of songs written for other artists is another reminder – as if we needed one – of why we love Prince Rogers Nelson."**](https://www.popmatters.com/prince-originals-review-2638918026.html) in [PopMatters](https://www.popmatters.com/) on 21 June 2019 about [Bangles](../../topics/bangles/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Originals (album review)](../../topics/album-review/originals/index.md), [Originals (album)](../../topics/album/originals/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.popmatters.com/prince-originals-review-2638918026.html))
+ - [**"Another Treasure Trove Emerges from Prince's Vaults with 'Originals' -- A collection of 15 highly enjoyable demos of songs written for other artists is another reminder – as if we needed one – of why we love Prince Rogers Nelson."**](https://www.popmatters.com/prince-originals-review-2638918026.html) in [PopMatters](https://www.popmatters.com/) on 21 June 2019 about [Bangles](../../topics/bangles/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Morris Day](../../topics/morris-day/index.md), [Originals (album review)](../../topics/album-review/originals/index.md), [Originals (album)](../../topics/album/originals/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.popmatters.com/prince-originals-review-2638918026.html))
 
 ----
 

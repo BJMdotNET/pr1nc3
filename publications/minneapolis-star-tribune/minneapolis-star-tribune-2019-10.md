@@ -1,5 +1,13 @@
 # Minneapolis Star Tribune: October 2019
 
+ - [**"Buddy Holly and Roy Orbison in Minnesota? Hologram tours of old stars are the hot new concert trend -- Buddy Holly is coming to town with Roy Orbison? Yes, rock 'n' roll holograms are here to stay."**](http://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 October 2019 about [Lizzo](../../topics/lizzo/index.md), [Morris Day](../../topics/morris-day/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/))
+
+----
+
+ - [**"Prince estate: Trump violated promise not to play 'Purple Rain' -- The campaign played the song at the president's Target Center appearance after it promised a year ago to stop playing Prince's music at rallies, the estate said. "**](http://www.startribune.com/prince-estate-says-playing-purple-rain-at-trump-rally-was-unauthorized/562782832/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 11 October 2019 about [First Avenue (place)](../../topics/place/first-avenue/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-estate-says-playing-purple-rain-at-trump-rally-was-unauthorized/562782832/))
+
+----
+
  - [**"Prince haunts Morris Day's new memoir: 'I still hear his voice in my head' -- "Purple Rain" co-star and Time leader Morris Day details his long friendship with Prince in a memoir that brings him home to the Twin Cities this week. "**](http://www.startribune.com/prince-haunts-morris-day-s-new-memoir-i-still-hear-his-voice-in-my-head/562430972/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 8 October 2019 about [Jamie Starr](../../topics/jamie-starr/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-haunts-morris-day-s-new-memoir-i-still-hear-his-voice-in-my-head/562430972/))
 
 ----

@@ -2,6 +2,26 @@
 
 ## October 2019
 
+ - [**"Prince estate objects to Trump use of 'Purple Rain' at Minneapolis rally"**](https://kstp.com/news/prince-estate-objects-to-trump-use-of-purple-rain-at-minneapolis-rally-/5521682/) in [KSTP](https://kstp.com/) on 11 October 2019 about [First Avenue (place)](../../topics/place/first-avenue/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md) ([mirror](https://web.archive.org/web/*/https://kstp.com/news/prince-estate-objects-to-trump-use-of-purple-rain-at-minneapolis-rally-/5521682/))
+
+----
+
+ - [**"Prince Estate Slams Trump For Playing 'Purple Rain' at a Campaign Rally in Minneapolis"**](https://time.com/5698383/prince-estate-condemns-donald-trump-rally-using-purple-rain/) in [time.com](https://time.com/) on 11 October 2019 about [Prince Estate](../../topics/prince-estate/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md) ([mirror](https://web.archive.org/web/*/https://time.com/5698383/prince-estate-condemns-donald-trump-rally-using-purple-rain/))
+
+----
+
+ - [**"Prince estate: Trump violated promise not to play 'Purple Rain' -- The campaign played the song at the president's Target Center appearance after it promised a year ago to stop playing Prince's music at rallies, the estate said. "**](http://www.startribune.com/prince-estate-says-playing-purple-rain-at-trump-rally-was-unauthorized/562782832/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 11 October 2019 about [First Avenue (place)](../../topics/place/first-avenue/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-estate-says-playing-purple-rain-at-trump-rally-was-unauthorized/562782832/))
+
+----
+
+ - [**"Prince Estate Slams Trump for Playing "Purple Rain" During Rally -- After the Trump campaign played Prince's famous song as the audience at the rally waited for the president to begin speaking, the estate reiterated that it would not give him permission to use his music."**](https://www.hollywoodreporter.com/news/prince-estate-slams-trump-use-purple-rain-rally-1246970) in [The Hollywood Reporter](https://www.hollywoodreporter.com/) on 10 October 2019 about [First Avenue (place)](../../topics/place/first-avenue/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md) ([mirror](https://web.archive.org/web/*/https://www.hollywoodreporter.com/news/prince-estate-slams-trump-use-purple-rain-rally-1246970))
+
+----
+
+ - [**"The Latest Music Industry Gigs: TIDAL, Roc Nation, Nuclear Blast, BPI, Sony Pictures, More -- Here’s a recap of recent executive shuffles — including both hirings and in-house promotions — from across the music industry."**](https://www.digitalmusicnews.com/2019/10/06/music-industry-jobs-oct-6-2019/) in [www.digitalmusicnews.com](https://www.digitalmusicnews.com/) on 6 October 2019 about [Alan Seiffert](../../topics/alan-seiffert/index.md), [Midnight Blue Management](../../topics/midnight-blue-management/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Tidal](../../topics/tidal/index.md) ([mirror](https://web.archive.org/web/*/https://www.digitalmusicnews.com/2019/10/06/music-industry-jobs-oct-6-2019/))
+
+----
+
  - [**"Prince Estate Names New Executive Director, Development Partners for Paisley Park"**](https://variety.com/2019/music/news/prince-estate-paisley-park-names-new-director-1203354747/) in [Variety](https://variety.com/) on 1 October 2019 about [Alan Seiffert](../../topics/alan-seiffert/index.md), [Lovesexy (album)](../../topics/album/lovesexy/index.md), [Midnight Blue Management](../../topics/midnight-blue-management/index.md), [MR-ProFun](../../topics/mr-profun/index.md), [museum](../../topics/museum/index.md), [Mycotoo](../../topics/mycotoo/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/news/prince-estate-paisley-park-names-new-director-1203354747/))
 
 ----
@@ -172,7 +192,7 @@
 
 ## February 2019
 
- - [**"The Prince Estate in Partnership with Legacy Recordings Announce Next Wave of Physical Titles in Definitive Catalog Rerelease Project with Prince’s Ultimate Rave on Friday, April 26, 2019"**](https://www.legacyrecordings.com/2019/02/22/the-prince-estate-in-partnership-with-legacy-recordings-announce-next-wave-of-physical-titles-cd-dvd-vinyl-in-definitive-catalog-rerelease-project-with-princes-ultimate-rave-on-friday-april-26-2/) in [Legacy Recordings](https://www.legacyrecordings.com/) on 22 February 2019 about [Ani DiFranco](../../topics/ani-difranco/index.md), [Legacy Recordings](../../topics/legacy-recordings/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Rave In2 the Joy Fantastic (album)](../../topics/album/rave-in2-the-joy-fantastic/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md) ([mirror](https://web.archive.org/web/*/https://www.legacyrecordings.com/2019/02/22/the-prince-estate-in-partnership-with-legacy-recordings-announce-next-wave-of-physical-titles-cd-dvd-vinyl-in-definitive-catalog-rerelease-project-with-princes-ultimate-rave-on-friday-april-26-2/))
+ - [**"The Prince Estate in Partnership with Legacy Recordings Announce Next Wave of Physical Titles in Definitive Catalog Rerelease Project with Prince’s Ultimate Rave on Friday, April 26, 2019"**](https://www.legacyrecordings.com/2019/02/22/the-prince-estate-in-partnership-with-legacy-recordings-announce-next-wave-of-physical-titles-cd-dvd-vinyl-in-definitive-catalog-rerelease-project-with-princes-ultimate-rave-on-friday-april-26-2/) in [Legacy Recordings](https://www.legacyrecordings.com/) on 22 February 2019 about [Ani DiFranco](../../topics/ani-difranco/index.md), [Legacy Recordings](../../topics/legacy-recordings/index.md), [Morris Day](../../topics/morris-day/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Rave In2 the Joy Fantastic (album)](../../topics/album/rave-in2-the-joy-fantastic/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md) ([mirror](https://web.archive.org/web/*/https://www.legacyrecordings.com/2019/02/22/the-prince-estate-in-partnership-with-legacy-recordings-announce-next-wave-of-physical-titles-cd-dvd-vinyl-in-definitive-catalog-rerelease-project-with-princes-ultimate-rave-on-friday-april-26-2/))
 
 ----
 
