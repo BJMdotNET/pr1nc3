@@ -2,6 +2,10 @@
 
 ## October 2019
 
+ - [**"PRINCE, IN PRIVATE AND PUBLIC"**](https://www.interviewmagazine.com/music/prince-private-randee-st-nicholas-book-my-name-is-prince) in [www.interviewmagazine.com](https://www.interviewmagazine.com/) on 15 October 2019 about [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [My Name Is Prince: 25 Inspired Years (book)](../../../topics/book/my-name-is-prince-25-inspired-years/index.md), [Randee St. Nicholas](../../../topics/randee-st-nicholas/index.md), [Spike Lee](../../../topics/spike-lee/index.md) ([mirror](https://web.archive.org/web/*/https://www.interviewmagazine.com/music/prince-private-randee-st-nicholas-book-my-name-is-prince))
+
+----
+
  - [**"Remembering the moment Stevie Nicks turned down working with Prince on his iconic song ‘Purple Rain’"**](https://faroutmagazine.co.uk/stevie-nicks-prince-purple-rain/) in [Far Out Magazine](https://faroutmagazine.co.uk/) on 1 October 2019 about [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Stand Back (song)](../../../topics/song/stand-back/index.md), [Stevie Nicks](../../../topics/stevie-nicks/index.md), [Sunset Sound (place)](../../../topics/place/sunset-sound/index.md) ([mirror](https://web.archive.org/web/*/https://faroutmagazine.co.uk/stevie-nicks-prince-purple-rain/))
 
 ----

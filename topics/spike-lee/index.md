@@ -1,5 +1,9 @@
 # Spike Lee
 
+ - [**"PRINCE, IN PRIVATE AND PUBLIC"**](https://www.interviewmagazine.com/music/prince-private-randee-st-nicholas-book-my-name-is-prince) in [www.interviewmagazine.com](https://www.interviewmagazine.com/) on 15 October 2019 about [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [My Name Is Prince: 25 Inspired Years (book)](../../topics/book/my-name-is-prince-25-inspired-years/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md), [Spike Lee](../../topics/spike-lee/index.md) ([mirror](https://web.archive.org/web/*/https://www.interviewmagazine.com/music/prince-private-randee-st-nicholas-book-my-name-is-prince))
+
+----
+
  - [**"Spike Lee throws dance party ahead of Prince’s 58th birthday"**](https://apnews.com/780ae6981b534a27be2f65bf10470f6e) in [Associated Press News](https://apnews.com/) on 5 June 2016 about [Celebration](../../topics/celebration/index.md), [Erotic City (song)](../../topics/song/erotic-city/index.md), [fentanyl](../../topics/fentanyl/index.md), [Spike Lee](../../topics/spike-lee/index.md), [Starfish And Coffee (song)](../../topics/song/starfish-and-coffee/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/780ae6981b534a27be2f65bf10470f6e))
 
 ----

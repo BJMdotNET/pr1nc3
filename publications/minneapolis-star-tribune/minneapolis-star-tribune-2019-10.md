@@ -4,6 +4,10 @@
 
 ----
 
+ - [**"From Ukraine to Jay-Z, a night with President Trump -- One journalist's notes from an exceptional happening in downtown Minneapolis. "**](http://www.startribune.com/from-ukraine-to-jay-z-a-night-with-president-trump/562832292/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 11 October 2019 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/from-ukraine-to-jay-z-a-night-with-president-trump/562832292/))
+
+----
+
  - [**"Prince estate: Trump violated promise not to play 'Purple Rain' -- The campaign played the song at the president's Target Center appearance after it promised a year ago to stop playing Prince's music at rallies, the estate said. "**](http://www.startribune.com/prince-estate-says-playing-purple-rain-at-trump-rally-was-unauthorized/562782832/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 11 October 2019 about [First Avenue (place)](../../topics/place/first-avenue/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-estate-says-playing-purple-rain-at-trump-rally-was-unauthorized/562782832/))
 
 ----
