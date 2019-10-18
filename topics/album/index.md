@@ -13,7 +13,7 @@
   * [Dream Factory (album)](./album/dream-factory/) (1)
   * [Emancipation (album)](./album/emancipation/) (10)
   * [Everything Blows (album)](./album/everything-blows/) (1)
-  * [For You (album)](./album/for-you/) (3)
+  * [For You (album)](./album/for-you/) (4)
   * [Graffiti Bridge (album)](./album/graffiti-bridge/) (4)
   * [LotusFlow3r (album)](./album/lotusflow3r/) (2)
   * [Lovesexy (album)](./album/lovesexy/) (7)

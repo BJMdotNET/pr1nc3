@@ -1,5 +1,11 @@
 # Michael Howe: 2019
 
+## October 2019
+
+ - [**"This Prince Acoustic Demo Is Shockingly Intimate -- It's a stripped back version of 'I Feel For You'..."**](https://www.clashmusic.com/news/this-prince-acoustic-demo-is-shockingly-intimate) in [www.clashmusic.com](https://www.clashmusic.com/) on 18 October 2019 about [For You (album)](../../topics/album/for-you/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Michael Howe](../../topics/michael-howe/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.clashmusic.com/news/this-prince-acoustic-demo-is-shockingly-intimate))
+
+----
+
 ## July 2019
 
  - [**"Prince: Humo sprak met zijn manager en muze. 'Wij hadden een heerlijk seksleven, maar als er een song in z'n hoofd opdook, moest ik wijken'"**](https://www.humo.be/humo-archief/403403/prince-humo-sprak-met-zijn-manager-en-muze-wij-hadden-een-heerlijk-seksleven-maar-als-er-een-song-in-zn-hoofd-opdook-moest-ik-wijken) by Serge Simonart in [Humo](https://www.humo.be/) on 8 July 2019 about [contract](../../topics/contract/index.md), [Cynthia Rose](../../topics/cynthia-rose/index.md), [Michael Howe](../../topics/michael-howe/index.md), [Mo Ostin](../../topics/mo-ostin/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../topics/album/originals/index.md), [Starfish And Coffee (song)](../../topics/song/starfish-and-coffee/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [The Family](../../topics/the-family/index.md) ([mirror](https://web.archive.org/web/*/https://www.humo.be/humo-archief/403403/prince-humo-sprak-met-zijn-manager-en-muze-wij-hadden-een-heerlijk-seksleven-maar-als-er-een-song-in-zn-hoofd-opdook-moest-ik-wijken))
