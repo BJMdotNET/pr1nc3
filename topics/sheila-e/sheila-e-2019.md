@@ -6,6 +6,10 @@
 
 ----
 
+ - [**"MORRIS DAY RECALLS TIME HE AND PRINCE NEARLY CAME TO BLOWS ON SET OF ‘PURPLE RAIN’"**](https://eurweb.com/2019/10/14/morris-day-recalls-time-he-and-prince-nearly-came-to-blows-on-set-of-purple-rain/) in [EURweb](https://eurweb.com/) on 14 October 2019 about [Jamie Starr](../../topics/jamie-starr/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jungle Love (song)](../../topics/song/jungle-love/index.md), [Morris Day](../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Bird (song)](../../topics/song/the-bird/index.md), [The Time](../../topics/the-time/index.md), [Vanity](../../topics/vanity/index.md) ([mirror](https://web.archive.org/web/*/https://eurweb.com/2019/10/14/morris-day-recalls-time-he-and-prince-nearly-came-to-blows-on-set-of-purple-rain/))
+
+----
+
  - [**"‘Purple Rain’ star Morris Day opens up about Prince’s ‘Jesus complex’"**](https://nypost.com/2019/10/12/purple-rain-star-morris-day-opens-up-about-princes-jesus-complex/) in [New York Post](https://nypost.com/) on 12 October 2019 about [Graffiti Bridge (movie)](../../topics/movie/graffiti-bridge/index.md), [Jamie Starr](../../topics/jamie-starr/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jungle Love (song)](../../topics/song/jungle-love/index.md), [Morris Day](../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Bird (song)](../../topics/song/the-bird/index.md), [The Time](../../topics/the-time/index.md), [Vanity 6](../../topics/vanity-6/index.md) ([mirror](https://web.archive.org/web/*/https://nypost.com/2019/10/12/purple-rain-star-morris-day-opens-up-about-princes-jesus-complex/))
 
 ----
@@ -40,7 +44,7 @@
 
 ----
 
- - [**"Sheila E. brings the glam to jazz fest"**](https://www.thechronicleherald.ca/living/sheila-e-brings-the-glam-to-jazz-fest-329717/) by Stephen Cooke in [The Chronicle Herald](https://www.thechronicleherald.ca/) on 5 July 2019 about [Morris Day](../../topics/morris-day/index.md), [Sheila E.](../../topics/sheila-e/index.md) ([mirror](https://web.archive.org/web/*/https://www.thechronicleherald.ca/living/sheila-e-brings-the-glam-to-jazz-fest-329717/))
+ - [**"Sheila E. brings the glam to jazz fest"**](https://www.thechronicleherald.ca/living/sheila-e-brings-the-glam-to-jazz-fest-329717/) by Stephen Cooke in [The Chronicle Herald](https://www.thechronicleherald.ca/) on 5 July 2019 about [Donald Trump](../../topics/donald-trump/index.md), [Morris Day](../../topics/morris-day/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Trump](../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/https://www.thechronicleherald.ca/living/sheila-e-brings-the-glam-to-jazz-fest-329717/))
 
 ----
 

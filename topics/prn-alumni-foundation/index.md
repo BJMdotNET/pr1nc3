@@ -1,5 +1,9 @@
 # PRN Alumni Foundation
 
+ - [**"If You Love Prince, Then You Need To Go To The Purple Paisley Brunch"**](https://madamenoire.com/1106415/purple-paisley-brunch-prince/) in [madamenoire.com](https://madamenoire.com/) on 12 October 2019 about [Jerome Benton](../../topics/jerome-benton/index.md), [PRN Alumni Foundation](../../topics/prn-alumni-foundation/index.md) ([mirror](https://web.archive.org/web/*/https://madamenoire.com/1106415/purple-paisley-brunch-prince/))
+
+----
+
  - [**"Interview: Ingrid Chavez on her friendship with Prince and working with him as Paisley Park opened its doors"**](https://www.thecurrent.org/feature/2019/06/13/interview-ingrid-chavez-on-her-friendship-with-prince-and-working-with-him-as-paisley-par) in [The Current](https://www.thecurrent.org/) on 23 September 2019 about [Andrea Swensson](../../topics/andrea-swensson/index.md), [Graffiti Bridge (album)](../../topics/album/graffiti-bridge/index.md), [Graffiti Bridge (movie)](../../topics/movie/graffiti-bridge/index.md), [Ingrid Chavez](../../topics/ingrid-chavez/index.md), [Jesse Johnson](../../topics/jesse-johnson/index.md), [Lenny Kravitz](../../topics/lenny-kravitz/index.md), [Lovesexy (album)](../../topics/album/lovesexy/index.md), [Morris Day](../../topics/morris-day/index.md), [Paisley Park Records](../../topics/paisley-park-records/index.md), [PRN Alumni Foundation](../../topics/prn-alumni-foundation/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [The Black Album (album)](../../topics/album/the-black-album/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md) ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/06/13/interview-ingrid-chavez-on-her-friendship-with-prince-and-working-with-him-as-paisley-par))
 
 ----

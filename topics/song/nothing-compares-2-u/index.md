@@ -1,6 +1,7 @@
 # Nothing Compares 2 U (song)
 
   * [2019](./nothing-compares-2-u-song-2019.md): 
+      October (1) | 
       September (1) | 
       July (3) | 
       June (13) | 

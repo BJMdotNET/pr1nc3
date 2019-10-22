@@ -1,6 +1,7 @@
 # Obama
 
   * [2019](./obama-2019.md): 
+      October (2) | 
       August (1) | 
       January (1) | 
   * [2017](./obama-2017.md): 

@@ -1,5 +1,11 @@
 # trademark: 2019
 
+## October 2019
+
+ - [**"MC Hammer’s House Party Hits The Island"**](https://www.musicinminnesota.com/mc-hammers-house-party-hits-the-island/) in [www.musicinminnesota.com](https://www.musicinminnesota.com/) on 21 October 2019 about [trademark](../../topics/trademark/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://www.musicinminnesota.com/mc-hammers-house-party-hits-the-island/))
+
+----
+
 ## September 2019
 
  - [**"PRINCE'S ICONIC CLOUD GUITAR INVOLVED IN TRADEMARK DISPUTE -- When Doves File Trademark Disputes"**](http://www.mixdownmag.com.au/princes-iconic-cloud-guitar-involved-trademark-dispute) in [Mixdown](http://www.mixdownmag.com.au/) on 5 September 2019 about [Cloud guitar](../../topics/cloud-guitar/index.md), [Dave Rusan](../../topics/dave-rusan/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [trademark](../../topics/trademark/index.md), [Troy Carter](../../topics/troy-carter/index.md) ([mirror](https://web.archive.org/web/*/http://www.mixdownmag.com.au/princes-iconic-cloud-guitar-involved-trademark-dispute))

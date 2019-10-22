@@ -50,7 +50,7 @@
 
 ## March 2018
 
- - [**"Music by Prince’s father featured on new album, tracking ‘that DNA thing’"**](https://apnews.com/869e0302972c4e36aa99981332602cd0) in [Associated Press News](https://apnews.com/) on 9 March 2018 about [John L. Nelson](../../topics/john-l-nelson/index.md), [museum](../../topics/museum/index.md), [Owen Husney](../../topics/owen-husney/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/869e0302972c4e36aa99981332602cd0))
+ - [**"Music by Prince’s father featured on new album, tracking ‘that DNA thing’"**](https://apnews.com/869e0302972c4e36aa99981332602cd0) in [Associated Press News](https://apnews.com/) on 9 March 2018 about [John L. Nelson](../../topics/john-l-nelson/index.md), [museum](../../topics/museum/index.md), [Owen Husney](../../topics/owen-husney/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Trump](../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/869e0302972c4e36aa99981332602cd0))
 
 ----
 

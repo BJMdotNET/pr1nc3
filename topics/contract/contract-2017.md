@@ -2,7 +2,7 @@
 
 ## December 2017
 
- - [**"Franken, Keillor, Damond, Castile top Minnesota news in 2017"**](https://apnews.com/80ae6c0e800c49ba95447bb986d2dd78) in [Associated Press News](https://apnews.com/) on 22 December 2017 about [contract](../../topics/contract/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Obama](../../topics/obama/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/80ae6c0e800c49ba95447bb986d2dd78))
+ - [**"Franken, Keillor, Damond, Castile top Minnesota news in 2017"**](https://apnews.com/80ae6c0e800c49ba95447bb986d2dd78) in [Associated Press News](https://apnews.com/) on 22 December 2017 about [contract](../../topics/contract/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Obama](../../topics/obama/index.md), [Trump](../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/80ae6c0e800c49ba95447bb986d2dd78))
 
 ----
 
@@ -40,7 +40,7 @@
 
 ## March 2017
 
- - [**"Stone Rolling: Raphael Saadiq Interviewed -- Despite a masterful solo career and being the producer behind some of the best D’Angelo and Solange Knowles songs, many still don’t know who Raphael Saadiq is, says Thomas Hobbs, who interviewed him recently"**](https://thequietus.com/articles/22052-raphael-saadiq-interview-solange-prince) in [The Quietus](https://thequietus.com/) on 22 March 2017 about [contract](../../topics/contract/index.md), [D’Angelo](../../topics/d-angelo/index.md), [Erotic City (song)](../../topics/song/erotic-city/index.md), [Raphael Saadiq](../../topics/raphael-saadiq/index.md) ([mirror](https://web.archive.org/web/*/https://thequietus.com/articles/22052-raphael-saadiq-interview-solange-prince))
+ - [**"Stone Rolling: Raphael Saadiq Interviewed -- Despite a masterful solo career and being the producer behind some of the best D’Angelo and Solange Knowles songs, many still don’t know who Raphael Saadiq is, says Thomas Hobbs, who interviewed him recently"**](https://thequietus.com/articles/22052-raphael-saadiq-interview-solange-prince) in [The Quietus](https://thequietus.com/) on 22 March 2017 about [contract](../../topics/contract/index.md), [D’Angelo](../../topics/d-angelo/index.md), [Erotic City (song)](../../topics/song/erotic-city/index.md), [Raphael Saadiq](../../topics/raphael-saadiq/index.md), [Trump](../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/https://thequietus.com/articles/22052-raphael-saadiq-interview-solange-prince))
 
 ----
 

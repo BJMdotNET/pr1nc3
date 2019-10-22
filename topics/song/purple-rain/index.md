@@ -1,7 +1,7 @@
 # Purple Rain (song)
 
   * [2019](./purple-rain-song-2019.md): 
-      October (5) | 
+      October (8) | 
       July (6) | 
       June (2) | 
   * [2018](./purple-rain-song-2018.md): 

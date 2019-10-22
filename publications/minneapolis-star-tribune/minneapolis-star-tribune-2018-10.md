@@ -28,11 +28,11 @@
 
 ----
 
- - [**"Members of Prince's estate ask President Trump to not use his music at rallies"**](http://www.startribune.com/members-of-prince-s-estate-ask-president-trump-to-not-use-his-music-at-rallies/497193471/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 October 2018 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/members-of-prince-s-estate-ask-president-trump-to-not-use-his-music-at-rallies/497193471/))
+ - [**"Members of Prince's estate ask President Trump to not use his music at rallies"**](http://www.startribune.com/members-of-prince-s-estate-ask-president-trump-to-not-use-his-music-at-rallies/497193471/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 October 2018 about [Trump](../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/members-of-prince-s-estate-ask-president-trump-to-not-use-his-music-at-rallies/497193471/))
 
 ----
 
- - [**"Prince estate to Trump: Stop using music at rallies"**](http://www.startribune.com/prince-estate-to-trump-stop-using-music-at-rallies/497248101/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 October 2018 about [Prince Estate](../../topics/prince-estate/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-estate-to-trump-stop-using-music-at-rallies/497248101/))
+ - [**"Prince estate to Trump: Stop using music at rallies"**](http://www.startribune.com/prince-estate-to-trump-stop-using-music-at-rallies/497248101/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 October 2018 about [Prince Estate](../../topics/prince-estate/index.md), [Trump](../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-estate-to-trump-stop-using-music-at-rallies/497248101/))
 
 ----
 

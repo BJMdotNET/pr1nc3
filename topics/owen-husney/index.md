@@ -20,7 +20,7 @@
 
 ----
 
- - [**"Music by Prince’s father featured on new album, tracking ‘that DNA thing’"**](https://apnews.com/869e0302972c4e36aa99981332602cd0) in [Associated Press News](https://apnews.com/) on 9 March 2018 about [John L. Nelson](../../topics/john-l-nelson/index.md), [museum](../../topics/museum/index.md), [Owen Husney](../../topics/owen-husney/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/869e0302972c4e36aa99981332602cd0))
+ - [**"Music by Prince’s father featured on new album, tracking ‘that DNA thing’"**](https://apnews.com/869e0302972c4e36aa99981332602cd0) in [Associated Press News](https://apnews.com/) on 9 March 2018 about [John L. Nelson](../../topics/john-l-nelson/index.md), [museum](../../topics/museum/index.md), [Owen Husney](../../topics/owen-husney/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Trump](../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/869e0302972c4e36aa99981332602cd0))
 
 ----
 
@@ -28,7 +28,7 @@
 
 ----
 
- - [**"Austin's SXSW turns purple on St. Paddy's Day with Prince tributes -- Music megafest featured outdoor concert and two panels in his memory."**](http://www.startribune.com/austin-s-sxsw-turns-purple-on-st-patty-s-day-with-prince-tributes/416509783/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 March 2017 about [Owen Husney](../../topics/owen-husney/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/austin-s-sxsw-turns-purple-on-st-patty-s-day-with-prince-tributes/416509783/))
+ - [**"Austin's SXSW turns purple on St. Paddy's Day with Prince tributes -- Music megafest featured outdoor concert and two panels in his memory."**](http://www.startribune.com/austin-s-sxsw-turns-purple-on-st-patty-s-day-with-prince-tributes/416509783/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 March 2017 about [Owen Husney](../../topics/owen-husney/index.md), [Trump](../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/austin-s-sxsw-turns-purple-on-st-patty-s-day-with-prince-tributes/416509783/))
 
 ----
 

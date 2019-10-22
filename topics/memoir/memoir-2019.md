@@ -2,7 +2,19 @@
 
 ## October 2019
 
+ - [**"Listen to Prince's previously unreleased demo for 'I Feel For You'"**](https://ew.com/music/2019/10/18/prince-i-feel-for-you-unreleased-demo/) in [EW (Entertainment Weekly)](https://ew.com/) on 18 October 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [For You (album)](../../topics/album/for-you/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [memoir](../../topics/memoir/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md) ([mirror](https://web.archive.org/web/*/https://ew.com/music/2019/10/18/prince-i-feel-for-you-unreleased-demo/))
+
+----
+
  - [**"'Purple Rain' Star Morris Day Claims Prince Had A 'God Complex'"**](https://www.yourtango.com/2019328900/who-morris-day-new-details-purple-rain-stars-friendship-prince-who-claims-had-god-complex) in [www.yourtango.com](https://www.yourtango.com/) on 17 October 2019 about [Jungle Love (song)](../../topics/song/jungle-love/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Bird (song)](../../topics/song/the-bird/index.md), [The Time](../../topics/the-time/index.md) ([mirror](https://web.archive.org/web/*/https://www.yourtango.com/2019328900/who-morris-day-new-details-purple-rain-stars-friendship-prince-who-claims-had-god-complex))
+
+----
+
+ - [**"Morris Day shares memories of Prince (and some imagined conversations) in new memoir ‘On Time’"**](https://www.dailynews.com/2019/10/16/morris-day-shares-memories-of-prince-and-some-imagined-conversations-in-new-memoir-on-time/) in [www.dailynews.com](https://www.dailynews.com/) on 16 October 2019 about [James Brown](../../topics/james-brown/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Jungle Love (song)](../../topics/song/jungle-love/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [Pop Life (song)](../../topics/song/pop-life/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Bird (song)](../../topics/song/the-bird/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [The Time](../../topics/the-time/index.md) ([mirror](https://web.archive.org/web/*/https://www.dailynews.com/2019/10/16/morris-day-shares-memories-of-prince-and-some-imagined-conversations-in-new-memoir-on-time/))
+
+----
+
+ - [**"What made Prince such a formidable talent? And what exactly can we expect from his memoir, out this month?"**](https://www.gqindia.com/magazine-story/made-prince-formidable-talent-exactly-can-expect-memoir-month/) in [www.gqindia.com](https://www.gqindia.com/) on 15 October 2019 about [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [vault](../../topics/vault/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://www.gqindia.com/magazine-story/made-prince-formidable-talent-exactly-can-expect-memoir-month/))
 
 ----
 
@@ -18,7 +30,7 @@
 
 ----
 
- - [**"Prince haunts Morris Day's new memoir: 'I still hear his voice in my head' -- "Purple Rain" co-star and Time leader Morris Day details his long friendship with Prince in a memoir that brings him home to the Twin Cities this week. "**](http://www.startribune.com/prince-haunts-morris-day-s-new-memoir-i-still-hear-his-voice-in-my-head/562430972/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 8 October 2019 about [Jamie Starr](../../topics/jamie-starr/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-haunts-morris-day-s-new-memoir-i-still-hear-his-voice-in-my-head/562430972/))
+ - [**"Prince haunts Morris Day's new memoir: 'I still hear his voice in my head' -- "Purple Rain" co-star and Time leader Morris Day details his long friendship with Prince in a memoir that brings him home to the Twin Cities this week. "**](http://www.startribune.com/prince-haunts-morris-day-s-new-memoir-i-still-hear-his-voice-in-my-head/562430972/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 8 October 2019 about [Donald Trump](../../topics/donald-trump/index.md), [Jamie Starr](../../topics/jamie-starr/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [Trump](../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-haunts-morris-day-s-new-memoir-i-still-hear-his-voice-in-my-head/562430972/))
 
 ----
 
@@ -36,7 +48,7 @@
 
 ## September 2019
 
- - [**"Fall fiction titles have eye for truth; new poetry, nonfiction and memoirs also due -- Ta-Nehisi Coates, Joy Harjo, Prince, Liz Phair among authors with new works"**](https://www.arkansasonline.com/news/2019/sep/29/fall-fiction-releases-have-eye-for-trut/) in [www.arkansasonline.com](https://www.arkansasonline.com/) on 29 September 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.arkansasonline.com/news/2019/sep/29/fall-fiction-releases-have-eye-for-trut/))
+ - [**"Fall fiction titles have eye for truth; new poetry, nonfiction and memoirs also due -- Ta-Nehisi Coates, Joy Harjo, Prince, Liz Phair among authors with new works"**](https://www.arkansasonline.com/news/2019/sep/29/fall-fiction-releases-have-eye-for-trut/) in [www.arkansasonline.com](https://www.arkansasonline.com/) on 29 September 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Donald Trump](../../topics/donald-trump/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [Trump](../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/https://www.arkansasonline.com/news/2019/sep/29/fall-fiction-releases-have-eye-for-trut/))
 
 ----
 
@@ -66,11 +78,11 @@
 
 ## August 2019
 
- - [**"Atwood, Rushdie novels among fall highlights"**](https://www.santacruzsentinel.com/2019/08/29/atwood-rushdie-novels-among-fall-highlights/) in [Santa Cruz Sentinel](https://www.santacruzsentinel.com/) on 29 August 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.santacruzsentinel.com/2019/08/29/atwood-rushdie-novels-among-fall-highlights/))
+ - [**"Atwood, Rushdie novels among fall highlights"**](https://www.santacruzsentinel.com/2019/08/29/atwood-rushdie-novels-among-fall-highlights/) in [Santa Cruz Sentinel](https://www.santacruzsentinel.com/) on 29 August 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Donald Trump](../../topics/donald-trump/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [Trump](../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/https://www.santacruzsentinel.com/2019/08/29/atwood-rushdie-novels-among-fall-highlights/))
 
 ----
 
- - [**"Atwood, Rushdie novels among fall highlights"**](https://apnews.com/10e0c40e0c6c4d5f83f13bef45246a6e) in [Associated Press News](https://apnews.com/) on 28 August 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/10e0c40e0c6c4d5f83f13bef45246a6e))
+ - [**"Atwood, Rushdie novels among fall highlights"**](https://apnews.com/10e0c40e0c6c4d5f83f13bef45246a6e) in [Associated Press News](https://apnews.com/) on 28 August 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Donald Trump](../../topics/donald-trump/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [Trump](../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/10e0c40e0c6c4d5f83f13bef45246a6e))
 
 ----
 

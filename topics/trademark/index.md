@@ -1,6 +1,7 @@
 # trademark
 
   * [2019](./trademark-2019.md): 
+      October (1) | 
       September (3) | 
       August (5) | 
       April (1) | 
