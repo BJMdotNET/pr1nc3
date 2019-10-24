@@ -20,7 +20,7 @@
   * [Moline, Illinois (place)](./place/moline-illinois/) (18)
   * [Moon Sound Studio (place)](./place/moon-sound-studio/) (1)
   * [North Memorial Medical Center (place)](./place/north-memorial-medical-center/) (4)
-  * [Paisley Park Studios (place)](./place/paisley-park-studios/) (2)
+  * [Paisley Park Studios (place)](./place/paisley-park-studios/) (3)
   * [Sam’s (place)](./place/sam-s/) (3)
   * [Sausalito (place)](./place/sausalito/) (2)
   * [Smithsonian (place)](./place/smithsonian/) (5)

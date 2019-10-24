@@ -1,42 +1,12 @@
 # For You (album)
 
- - [**"Prince Estate Drops Stripped-Down 'I Feel For You' Acoustic Demo: Listen"**](https://www.billboard.com/articles/news/8533600/prince-estate-warner-records-drops-stripped-down-i-feel-for-you-acoustic-demo-listen) in [Billboard](https://www.billboard.com/) on 20 October 2019 about [Chaka Khan](../../../topics/chaka-khan/index.md), [For You (album)](../../../topics/album/for-you/index.md), [I Feel For You (song)](../../../topics/song/i-feel-for-you/index.md), [Michael Howe](../../../topics/michael-howe/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [The Prince Estate](../../../topics/the-prince-estate/index.md), [vault](../../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8533600/prince-estate-warner-records-drops-stripped-down-i-feel-for-you-acoustic-demo-listen))
-
-----
-
- - [**"Hear Prince’s Acoustic Demo of ‘I Feel for You’"**](https://variety.com/2019/music/news/prince-i-feel-for-you-acoustic-demo-listen-1203375320/) in [Variety](https://variety.com/) on 18 October 2019 about [Capri Theater  (place)](../../../topics/place/capri-theater/index.md), [Chaka Khan](../../../topics/chaka-khan/index.md), [For You (album)](../../../topics/album/for-you/index.md), [I Feel For You (song)](../../../topics/song/i-feel-for-you/index.md), [Michael Howe](../../../topics/michael-howe/index.md), [vault](../../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/news/prince-i-feel-for-you-acoustic-demo-listen-1203375320/))
-
-----
-
- - [**"Listen to Prince's previously unheard acoustic demo of 'I Feel For You'"**](https://usatoday.com/story/entertainment/music/2019/10/18/prince-acoustic-demo-i-feel-for-you-released/4025966002/) in [USA Today](https://usatoday.com/) on 18 October 2019 about [Capri Theater  (place)](../../../topics/place/capri-theater/index.md), [Chaka Khan](../../../topics/chaka-khan/index.md), [For You (album)](../../../topics/album/for-you/index.md), [Grammy Award](../../../topics/grammy-award/index.md), [I Feel For You (song)](../../../topics/song/i-feel-for-you/index.md), [vault](../../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/entertainment/music/2019/10/18/prince-acoustic-demo-i-feel-for-you-released/4025966002/))
-
-----
-
- - [**"Listen to Prince's previously unreleased demo for 'I Feel For You'"**](https://ew.com/music/2019/10/18/prince-i-feel-for-you-unreleased-demo/) in [EW (Entertainment Weekly)](https://ew.com/) on 18 October 2019 about [Dan Piepenbring](../../../topics/dan-piepenbring/index.md), [For You (album)](../../../topics/album/for-you/index.md), [I Feel For You (song)](../../../topics/song/i-feel-for-you/index.md), [memoir](../../../topics/memoir/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [The Beautiful Ones (book)](../../../topics/book/the-beautiful-ones/index.md), [The Prince Estate](../../../topics/the-prince-estate/index.md) ([mirror](https://web.archive.org/web/*/https://ew.com/music/2019/10/18/prince-i-feel-for-you-unreleased-demo/))
-
-----
-
- - [**"Prince - Listen to His Previously Unreleased Original Demo of “Feel For You” -- Recorded in 1979 and Available on 7-Inch"**](http://www.undertheradarmag.com/news/prince_-_listen_to_his_previously_unreleased_original_demo_of_feel_for_you) in [www.undertheradarmag.com](http://www.undertheradarmag.com/) on 18 October 2019 about [Chaka Khan](../../../topics/chaka-khan/index.md), [For You (album)](../../../topics/album/for-you/index.md), [Michael Howe](../../../topics/michael-howe/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [The Prince Estate](../../../topics/the-prince-estate/index.md), [vault](../../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/http://www.undertheradarmag.com/news/prince_-_listen_to_his_previously_unreleased_original_demo_of_feel_for_you))
-
-----
-
- - [**"Prince’s acoustic demo of “I Feel for You” unearthed from vault: Stream -- An intimate recording released in honor of the 40th anniversary of his self-titled LP"**](https://consequenceofsound.net/2019/10/stream-prince-i-feel-for-you-acoustic-demo/) in [Consequence of Sound](https://consequenceofsound.net/) on 18 October 2019 about [Chaka Khan](../../../topics/chaka-khan/index.md), [For You (album)](../../../topics/album/for-you/index.md), [I Feel For You (song)](../../../topics/song/i-feel-for-you/index.md), [Michael Howe](../../../topics/michael-howe/index.md), [vault](../../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://consequenceofsound.net/2019/10/stream-prince-i-feel-for-you-acoustic-demo/))
-
-----
-
- - [**"This Prince Acoustic Demo Is Shockingly Intimate -- It's a stripped back version of 'I Feel For You'..."**](https://www.clashmusic.com/news/this-prince-acoustic-demo-is-shockingly-intimate) in [www.clashmusic.com](https://www.clashmusic.com/) on 18 October 2019 about [For You (album)](../../../topics/album/for-you/index.md), [I Feel For You (song)](../../../topics/song/i-feel-for-you/index.md), [Michael Howe](../../../topics/michael-howe/index.md), [vault](../../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.clashmusic.com/news/this-prince-acoustic-demo-is-shockingly-intimate))
-
-----
-
- - [**"The Cloud Bass"**](https://madcatsandclouds.com/2018/12/30/the-cloud-bass/) in [Madcats & Clouds](https://madcatsandclouds.com/) on 30 December 2018 about [Cloud bass](../../../topics/cloud-bass/index.md), [Cloud guitar](../../../topics/cloud-guitar/index.md), [exhibit](../../../topics/exhibit/index.md), [exhibition](../../../topics/exhibition/index.md), [For You (album)](../../../topics/album/for-you/index.md), [Jeffrey Levin](../../../topics/jeffrey-levin/index.md), [Knut-Koupée Music](../../../topics/knut-koup-e-music/index.md), [Matt Umanov](../../../topics/matt-umanov/index.md), [Matt Umanov Guitars](../../../topics/matt-umanov-guitars/index.md), [museum](../../../topics/museum/index.md), [My Name Is Prince (exhibition)](../../../topics/exhibition/my-name-is-prince/index.md), [Owen Husney](../../../topics/owen-husney/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md), [Record Plant](../../../topics/record-plant/index.md), [Sardonyx](../../../topics/sardonyx/index.md), [Sausalito (place)](../../../topics/place/sausalito/index.md), [Smithsonian (place)](../../../topics/place/smithsonian/index.md) ([mirror](https://web.archive.org/web/*/https://madcatsandclouds.com/2018/12/30/the-cloud-bass/))
-
-----
-
- - [**"Owen Husney reflects on meeting a teenage Prince: ‘He was not an icon then. He was a brilliant human being who was living in a basement’"**](https://blog.thecurrent.org/2018/04/owen-husney-reflects-on-meeting-a-teenage-prince-he-was-not-an-icon-then-he-was-a-brilliant-human-being-who-was-living-in-a-basement/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 17 April 2018 about [André Cymone](../../../topics/andr-cymone/index.md), [Bobby Z.](../../../topics/bobby-z/index.md), [Chris Moon](../../../topics/chris-moon/index.md), [Cloud bass](../../../topics/cloud-bass/index.md), [Cloud guitar](../../../topics/cloud-guitar/index.md), [contract](../../../topics/contract/index.md), [Dave Rusan](../../../topics/dave-rusan/index.md), [For You (album)](../../../topics/album/for-you/index.md), [James Brown](../../../topics/james-brown/index.md), [memoir](../../../topics/memoir/index.md), [Owen Husney](../../../topics/owen-husney/index.md), [Record Plant](../../../topics/record-plant/index.md), [Sausalito (place)](../../../topics/place/sausalito/index.md), [Warner Bros. Records](../../../topics/warner-bros-records/index.md) ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2018/04/owen-husney-reflects-on-meeting-a-teenage-prince-he-was-not-an-icon-then-he-was-a-brilliant-human-being-who-was-living-in-a-basement/))
-
-----
-
- - [**"Prince Dies at 57: Iconic Musical Genius Found Dead in Paisley Park"**](https://www.billboard.com/articles/news/7341522/prince-dead) in [Billboard](https://www.billboard.com/) on 21 April 2016 about [1999 (album)](../../../topics/album/1999/index.md), [Around The World In A Day (album)](../../../topics/album/around-the-world-in-a-day/index.md), [Batdance (song)](../../../topics/song/batdance/index.md), [Carver County](../../../topics/carver-county/index.md), [Chaos and Disorder (album)](../../../topics/album/chaos-and-disorder/index.md), [contract](../../../topics/contract/index.md), [For You (album)](../../../topics/album/for-you/index.md), [Grammy Award](../../../topics/grammy-award/index.md), [New Power Generation](../../../topics/new-power-generation/index.md), [Purple Rain (album)](../../../topics/album/purple-rain/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md), [The Revolution](../../../topics/the-revolution/index.md), [TMZ (website)](../../../topics/website/tmz/index.md), [vault](../../../topics/vault/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/7341522/prince-dead))
+  * [2019](./for-you-album-2019.md): 
+      October (8) | 
+  * [2018](./for-you-album-2018.md): 
+      December (1) | 
+      April (1) | 
+  * [2016](./for-you-album-2016.md): 
+      April (1) | 
 
 ----
 

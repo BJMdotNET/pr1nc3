@@ -2,6 +2,10 @@
 
 ## October 2019
 
+ - [**"Reckoning With The Ethics of The Ever-Unfurling Prince Vault -- The demos, b-sides and rarities keep coming. How should we feel about listening?"**](https://www.pastemagazine.com/articles/2019/10/prince-estate-ethics.html) in [www.pastemagazine.com](https://www.pastemagazine.com/) on 23 October 2019 about [1999 (album)](../../topics/album/1999/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [contract](../../topics/contract/index.md), [D’Angelo](../../topics/d-angelo/index.md), [exhibit](../../topics/exhibit/index.md), [For You (album)](../../topics/album/for-you/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [trademark](../../topics/trademark/index.md), [vault](../../topics/vault/index.md), [YouTube](../../topics/youtube/index.md) ([mirror](https://web.archive.org/web/*/https://www.pastemagazine.com/articles/2019/10/prince-estate-ethics.html))
+
+----
+
  - [**"Show-biz veteran named new executive director for Prince's Paisley Park"**](http://www.startribune.com/show-biz-veteran-named-new-executive-director-for-prince-s-paisley-park/561890092/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 1 October 2019 about [Alan Seiffert](../../topics/alan-seiffert/index.md), [contract](../../topics/contract/index.md), [Graceland](../../topics/graceland/index.md), [Joel Weinshanker](../../topics/joel-weinshanker/index.md), [Midnight Blue Management](../../topics/midnight-blue-management/index.md), [MR-ProFun](../../topics/mr-profun/index.md), [museum](../../topics/museum/index.md), [Mycotoo](../../topics/mycotoo/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/show-biz-veteran-named-new-executive-director-for-prince-s-paisley-park/561890092/))
 
 ----

@@ -1,5 +1,9 @@
 # D’Angelo
 
+ - [**"Reckoning With The Ethics of The Ever-Unfurling Prince Vault -- The demos, b-sides and rarities keep coming. How should we feel about listening?"**](https://www.pastemagazine.com/articles/2019/10/prince-estate-ethics.html) in [www.pastemagazine.com](https://www.pastemagazine.com/) on 23 October 2019 about [1999 (album)](../../topics/album/1999/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [contract](../../topics/contract/index.md), [D’Angelo](../../topics/d-angelo/index.md), [exhibit](../../topics/exhibit/index.md), [For You (album)](../../topics/album/for-you/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [trademark](../../topics/trademark/index.md), [vault](../../topics/vault/index.md), [YouTube](../../topics/youtube/index.md) ([mirror](https://web.archive.org/web/*/https://www.pastemagazine.com/articles/2019/10/prince-estate-ethics.html))
+
+----
+
  - [**"Raphael Saadiq on His Oscar-Nominated ‘Mudbound’ Song, Working With Mary J. Blige and Declining Prince’s Record Deal"**](https://variety.com/2018/film/news/raphael-saadiq-on-his-oscar-nominated-mudbound-song-working-with-mary-j-blige-and-declining-princes-record-deal-1202708352/) in [Variety](https://variety.com/) on 23 February 2018 about [Chaka Khan](../../topics/chaka-khan/index.md), [D’Angelo](../../topics/d-angelo/index.md), [Raphael Saadiq](../../topics/raphael-saadiq/index.md), [Sheila E.](../../topics/sheila-e/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2018/film/news/raphael-saadiq-on-his-oscar-nominated-mudbound-song-working-with-mary-j-blige-and-declining-princes-record-deal-1202708352/))
 
 ----

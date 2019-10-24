@@ -1,5 +1,9 @@
 # Paisley Park Studios (place)
 
+ - [**"A Father Surprises At Son’s 25th Anniversary Celebration"**](https://instinctmagazine.com/a-father-surprises-at-sons-25th-anniversary-celebration/) in [instinctmagazine.com](https://instinctmagazine.com/) on 21 October 2019 about [Paisley Park Studios (place)](../../../topics/place/paisley-park-studios/index.md) ([mirror](https://web.archive.org/web/*/https://instinctmagazine.com/a-father-surprises-at-sons-25th-anniversary-celebration/))
+
+----
+
  - [**"Prince dead at Paisley Park estate in Minnesota"**](http://www.fox9.com/news/emergency-medical-response-at-paisley-park) in [Fox 9](http://www.fox9.com/) on 21 April 2016 about [Atlanta (place)](../../../topics/place/atlanta/index.md), [Carver County](../../../topics/carver-county/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Jim Olson](../../../topics/jim-olson/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Minnesota Twins](../../../topics/minnesota-twins/index.md), [Moline, Illinois (place)](../../../topics/place/moline-illinois/index.md), [Obama](../../../topics/obama/index.md), [Paisley Park Studios (place)](../../../topics/place/paisley-park-studios/index.md), [Super Bowl](../../../topics/super-bowl/index.md), [TMZ (website)](../../../topics/website/tmz/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/http://www.fox9.com/news/emergency-medical-response-at-paisley-park))
 
 ----

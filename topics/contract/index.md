@@ -1,7 +1,7 @@
 # contract
 
   * [2019](./contract-2019.md): 
-      October (1) | 
+      October (2) | 
       September (5) | 
       August (7) | 
       July (4) | 

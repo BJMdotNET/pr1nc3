@@ -1,7 +1,7 @@
 # album
 
   * [1-800-NEW-FUNK (album)](./album/1-800-new-funk/) (1)
-  * [1999 (album)](./album/1999/) (35)
+  * [1999 (album)](./album/1999/) (36)
   * [1999 Deluxe (album)](./album/1999-deluxe/) (1)
   * [3121 (album)](./album/3121/) (9)
   * [Around The World In A Day (album)](./album/around-the-world-in-a-day/) (7)
@@ -13,7 +13,7 @@
   * [Dream Factory (album)](./album/dream-factory/) (1)
   * [Emancipation (album)](./album/emancipation/) (10)
   * [Everything Blows (album)](./album/everything-blows/) (1)
-  * [For You (album)](./album/for-you/) (10)
+  * [For You (album)](./album/for-you/) (11)
   * [Graffiti Bridge (album)](./album/graffiti-bridge/) (4)
   * [LotusFlow3r (album)](./album/lotusflow3r/) (2)
   * [Lovesexy (album)](./album/lovesexy/) (7)

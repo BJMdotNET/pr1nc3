@@ -1,4 +1,4 @@
-# I Feel For You (song): 2019
+# For You (album): 2019
 
 ## October 2019
 
@@ -22,17 +22,15 @@
 
 ----
 
+ - [**"Prince - Listen to His Previously Unreleased Original Demo of “Feel For You” -- Recorded in 1979 and Available on 7-Inch"**](http://www.undertheradarmag.com/news/prince_-_listen_to_his_previously_unreleased_original_demo_of_feel_for_you) in [www.undertheradarmag.com](http://www.undertheradarmag.com/) on 18 October 2019 about [Chaka Khan](../../../topics/chaka-khan/index.md), [For You (album)](../../../topics/album/for-you/index.md), [Michael Howe](../../../topics/michael-howe/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [The Prince Estate](../../../topics/the-prince-estate/index.md), [vault](../../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/http://www.undertheradarmag.com/news/prince_-_listen_to_his_previously_unreleased_original_demo_of_feel_for_you))
+
+----
+
  - [**"Prince’s acoustic demo of “I Feel for You” unearthed from vault: Stream -- An intimate recording released in honor of the 40th anniversary of his self-titled LP"**](https://consequenceofsound.net/2019/10/stream-prince-i-feel-for-you-acoustic-demo/) in [Consequence of Sound](https://consequenceofsound.net/) on 18 October 2019 about [Chaka Khan](../../../topics/chaka-khan/index.md), [For You (album)](../../../topics/album/for-you/index.md), [I Feel For You (song)](../../../topics/song/i-feel-for-you/index.md), [Michael Howe](../../../topics/michael-howe/index.md), [vault](../../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://consequenceofsound.net/2019/10/stream-prince-i-feel-for-you-acoustic-demo/))
 
 ----
 
  - [**"This Prince Acoustic Demo Is Shockingly Intimate -- It's a stripped back version of 'I Feel For You'..."**](https://www.clashmusic.com/news/this-prince-acoustic-demo-is-shockingly-intimate) in [www.clashmusic.com](https://www.clashmusic.com/) on 18 October 2019 about [For You (album)](../../../topics/album/for-you/index.md), [I Feel For You (song)](../../../topics/song/i-feel-for-you/index.md), [Michael Howe](../../../topics/michael-howe/index.md), [vault](../../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.clashmusic.com/news/this-prince-acoustic-demo-is-shockingly-intimate))
-
-----
-
-## February 2019
-
- - [**"Chaka Khan: Prince’s death was wake-up call to get help"**](https://apnews.com/b44eff69ea1d493f863ccd6db0596a03) in [Associated Press News](https://apnews.com/) on 9 February 2019 about [Chaka Khan](../../../topics/chaka-khan/index.md), [I Feel For You (song)](../../../topics/song/i-feel-for-you/index.md), [Miles Davis](../../../topics/miles-davis/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/b44eff69ea1d493f863ccd6db0596a03))
 
 ----
 

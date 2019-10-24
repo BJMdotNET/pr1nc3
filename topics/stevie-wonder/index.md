@@ -1,6 +1,7 @@
 # Stevie Wonder
 
   * [2019](./stevie-wonder-2019.md): 
+      October (1) | 
       September (1) | 
       July (1) | 
   * [2018](./stevie-wonder-2018.md): 

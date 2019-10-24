@@ -2,6 +2,10 @@
 
 ## October 2019
 
+ - [**"Reckoning With The Ethics of The Ever-Unfurling Prince Vault -- The demos, b-sides and rarities keep coming. How should we feel about listening?"**](https://www.pastemagazine.com/articles/2019/10/prince-estate-ethics.html) in [www.pastemagazine.com](https://www.pastemagazine.com/) on 23 October 2019 about [1999 (album)](../../topics/album/1999/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [contract](../../topics/contract/index.md), [D’Angelo](../../topics/d-angelo/index.md), [exhibit](../../topics/exhibit/index.md), [For You (album)](../../topics/album/for-you/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [trademark](../../topics/trademark/index.md), [vault](../../topics/vault/index.md), [YouTube](../../topics/youtube/index.md) ([mirror](https://web.archive.org/web/*/https://www.pastemagazine.com/articles/2019/10/prince-estate-ethics.html))
+
+----
+
  - [**"Prince Estate Drops Stripped-Down 'I Feel For You' Acoustic Demo: Listen"**](https://www.billboard.com/articles/news/8533600/prince-estate-warner-records-drops-stripped-down-i-feel-for-you-acoustic-demo-listen) in [Billboard](https://www.billboard.com/) on 20 October 2019 about [Chaka Khan](../../topics/chaka-khan/index.md), [For You (album)](../../topics/album/for-you/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Michael Howe](../../topics/michael-howe/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8533600/prince-estate-warner-records-drops-stripped-down-i-feel-for-you-acoustic-demo-listen))
 
 ----
