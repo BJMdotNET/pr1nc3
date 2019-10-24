@@ -12,6 +12,10 @@
 
 ----
 
+ - [**"Drake, Bieber win big, Selena Gomez gets emotional at AMAs"**](https://apnews.com/d90b510be7564038ab7ceed50f3bd1ba) in [Associated Press News](https://apnews.com/) on 21 November 2016 about [Apple Music](../../topics/apple-music/index.md), [Donald Trump](../../topics/donald-trump/index.md), [Obama](../../topics/obama/index.md), [Trump](../../topics/trump/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/d90b510be7564038ab7ceed50f3bd1ba))
+
+----
+
  - [**"Tests confirm Utah teens overdosed on new synthetic drug"**](https://apnews.com/9ff5f1b2797343a19cf7fe7676667554) in [Associated Press News](https://apnews.com/) on 3 November 2016 about [fentanyl](../../topics/fentanyl/index.md), [U-47700](../../topics/u-47700/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/9ff5f1b2797343a19cf7fe7676667554))
 
 ----

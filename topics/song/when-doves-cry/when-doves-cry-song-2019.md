@@ -2,23 +2,11 @@
 
 ## October 2019
 
- - [**"What made Prince such a formidable talent? And what exactly can we expect from his memoir, out this month?"**](https://www.gqindia.com/magazine-story/made-prince-formidable-talent-exactly-can-expect-memoir-month/) in [www.gqindia.com](https://www.gqindia.com/) on 24 October 2019 about [memoir](../../../topics/memoir/index.md), [The Beautiful Ones (book)](../../../topics/book/the-beautiful-ones/index.md), [vault](../../../topics/vault/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://www.gqindia.com/magazine-story/made-prince-formidable-talent-exactly-can-expect-memoir-month/))
+ - [**"MC Hammer’s House Party Hits The Island"**](https://www.musicinminnesota.com/mc-hammers-house-party-hits-the-island/) in [www.musicinminnesota.com](https://www.musicinminnesota.com/) on 21 October 2019 about [trademark](../../../topics/trademark/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://www.musicinminnesota.com/mc-hammers-house-party-hits-the-island/))
 
 ----
 
- - [**"Prince sells 1M songs, 231K albums posthumously"**](https://usatoday.com/story/life/music/2016/04/22/prince-sales-death/83376684/) in [USA Today](https://usatoday.com/) on 24 October 2019 about [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Spotify](../../../topics/spotify/index.md), [Tidal](../../../topics/tidal/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2016/04/22/prince-sales-death/83376684/))
-
-----
-
- - [**"MC Hammer’s House Party Hits The Island"**](https://www.musicinminnesota.com/mc-hammers-house-party-hits-the-island/) in [www.musicinminnesota.com](https://www.musicinminnesota.com/) on 24 October 2019 about [trademark](../../../topics/trademark/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://www.musicinminnesota.com/mc-hammers-house-party-hits-the-island/))
-
-----
-
- - [**"COMPOSER STARR PARODI TEAMS WITH FORMER TEMPTATIONS LEAD SINGER LOUIS PRICE ON PRINCE RENDITION!"**](https://eurweb.com/2019/09/09/composer-starr-parodi-teams-with-former-temptations-lead-singer-louis-price-on-prince-rendition/) in [EURweb](https://eurweb.com/) on 24 October 2019 about [Spotify](../../../topics/spotify/index.md), [Stevie Wonder](../../../topics/stevie-wonder/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://eurweb.com/2019/09/09/composer-starr-parodi-teams-with-former-temptations-lead-singer-louis-price-on-prince-rendition/))
-
-----
-
- - [**"‘Black-ish’ throws TV’s best-ever Prince party in its 100th episode"**](https://apnews.com/bd6c6bba1c8f4d5d83707d6d24c8fdf2) in [Associated Press News](https://apnews.com/) on 24 October 2019 about [Black-ish (TV show)](../../../topics/tv-show/black-ish/index.md), [Celebration](../../../topics/celebration/index.md), [Erotic City (song)](../../../topics/song/erotic-city/index.md), [Spotify](../../../topics/spotify/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md), [Yara Shahidi](../../../topics/yara-shahidi/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/bd6c6bba1c8f4d5d83707d6d24c8fdf2))
+ - [**"What made Prince such a formidable talent? And what exactly can we expect from his memoir, out this month?"**](https://www.gqindia.com/magazine-story/made-prince-formidable-talent-exactly-can-expect-memoir-month/) in [www.gqindia.com](https://www.gqindia.com/) on 15 October 2019 about [memoir](../../../topics/memoir/index.md), [The Beautiful Ones (book)](../../../topics/book/the-beautiful-ones/index.md), [vault](../../../topics/vault/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://www.gqindia.com/magazine-story/made-prince-formidable-talent-exactly-can-expect-memoir-month/))
 
 ----
 
@@ -29,6 +17,10 @@
 ## September 2019
 
  - [**"Interview mit Prince-Tänzerin Cat: „Ich las ihm ‚Der Kleine Prinz‘ beim Einschlafen vor“"**](https://www.rollingstone.de/prince-interview-mit-cat-sign-o-the-times-1761999/) in [www.rollingstone.de](https://www.rollingstone.de/) on 13 September 2019 about [Albert Magnoli](../../../topics/albert-magnoli/index.md), [Housequake (song)](../../../topics/song/housequake/index.md), [LeRoy Bennett](../../../topics/leroy-bennett/index.md), [Lovesexy (album)](../../../topics/album/lovesexy/index.md), [Lovesexy (tour)](../../../topics/tour/lovesexy/index.md), [museum](../../../topics/museum/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [Sunset Sound (place)](../../../topics/place/sunset-sound/index.md), [Susannah Melvoin](../../../topics/susannah-melvoin/index.md), [The Revolution](../../../topics/the-revolution/index.md), [U Got the Look (song)](../../../topics/song/u-got-the-look/index.md), [vault](../../../topics/vault/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.de/prince-interview-mit-cat-sign-o-the-times-1761999/))
+
+----
+
+ - [**"COMPOSER STARR PARODI TEAMS WITH FORMER TEMPTATIONS LEAD SINGER LOUIS PRICE ON PRINCE RENDITION!"**](https://eurweb.com/2019/09/09/composer-starr-parodi-teams-with-former-temptations-lead-singer-louis-price-on-prince-rendition/) in [EURweb](https://eurweb.com/) on 9 September 2019 about [Spotify](../../../topics/spotify/index.md), [Stevie Wonder](../../../topics/stevie-wonder/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://eurweb.com/2019/09/09/composer-starr-parodi-teams-with-former-temptations-lead-singer-louis-price-on-prince-rendition/))
 
 ----
 

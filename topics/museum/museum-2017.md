@@ -30,6 +30,10 @@
 
 ## April 2017
 
+ - [**"A year after Prince's death, these questions remain unanswered"**](https://usatoday.com/story/life/music/2017/04/20/death-prince-one-year-later-what-do-we-know/100180398/) in [USA Today](https://usatoday.com/) on 21 April 2017 about [Amy Conners](../../topics/amy-conners/index.md), [Apple Music](../../topics/apple-music/index.md), [bootleg](../../topics/bootleg/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [George Ian Boxill](../../topics/george-ian-boxill/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [memoir](../../topics/memoir/index.md), [Michael Schulenberg](../../topics/michael-schulenberg/index.md), [museum](../../topics/museum/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [Patrick Cousins](../../topics/patrick-cousins/index.md), [Spotify](../../topics/spotify/index.md), [Tidal](../../topics/tidal/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Universal Music Group](../../topics/universal-music-group/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2017/04/20/death-prince-one-year-later-what-do-we-know/100180398/))
+
+----
+
  - [**"The Latest: Prince fans join ‘purple family’ at Paisley Park"**](https://apnews.com/26c3f25587514065a9f72fbfd1d96bab) in [Associated Press News](https://apnews.com/) on 21 April 2017 about [fentanyl](../../topics/fentanyl/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [museum](../../topics/museum/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/26c3f25587514065a9f72fbfd1d96bab))
 
 ----
@@ -42,11 +46,19 @@
 
 ----
 
+ - [**"Floodgates are about to open on Prince's career after death -- A year after he died, Prince's lucrative second career is taking off. The industry moguls he despised are calling the shots — and his wishes don't apply."**](http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 April 2017 about [Bravado](../../topics/bravado/index.md), [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [contract](../../topics/contract/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [merchandise](../../topics/merchandise/index.md), [museum](../../topics/museum/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Spotify](../../topics/spotify/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/))
+
+----
+
  - [**"Prince left behind a treasure trove to see at Paisley Park"**](https://apnews.com/a5f775426be44b65a5cbe3d790774288) by Jeff Baenen (Associated Press) in [Associated Press News](https://apnews.com/) on 18 April 2017 about [Grammy Award](../../topics/grammy-award/index.md), [museum](../../topics/museum/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/a5f775426be44b65a5cbe3d790774288))
 
 ----
 
  - [**"'Rehabilitated' Paisley Park takes center stage for Prince anniversary -- Graceland firm remakes studio into a showplace."**](http://www.startribune.com/rehabilitated-paisley-park-takes-center-stage-for-prince-anniversary/419571163/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 17 April 2017 about [Bremer Trust](../../topics/bremer-trust/index.md), [Celebration](../../topics/celebration/index.md), [Denny Laufenburger](../../topics/denny-laufenburger/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [Joel Weinshanker](../../topics/joel-weinshanker/index.md), [museum](../../topics/museum/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/rehabilitated-paisley-park-takes-center-stage-for-prince-anniversary/419571163/))
+
+----
+
+ - [**"Deals ensure cash keeps flowing to unsettled Prince estate"**](https://apnews.com/ea32a54490474eccad7364653ab698f8) in [Associated Press News](https://apnews.com/) on 16 April 2017 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Alfred Jackson](../../topics/alfred-jackson/index.md), [Celebration 2017](../../topics/celebration-2017/index.md), [Comerica Bank & Trust](../../topics/comerica-bank-trust/index.md), [Graceland](../../topics/graceland/index.md), [Joel Weinshanker](../../topics/joel-weinshanker/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Morris Day](../../topics/morris-day/index.md), [museum](../../topics/museum/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Shelby J.](../../topics/shelby-j/index.md), [Spotify](../../topics/spotify/index.md), [The Time](../../topics/the-time/index.md), [Tidal](../../topics/tidal/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Universal Music Group](../../topics/universal-music-group/index.md), [Van Jones](../../topics/van-jones/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/ea32a54490474eccad7364653ab698f8))
 
 ----
 

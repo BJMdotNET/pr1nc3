@@ -1,19 +1,5 @@
 # John L. Nelson: 2019
 
-## October 2019
-
- - [**"Review: John L. Nelson Project records jazz by Prince’s dad"**](https://apnews.com/5dc00ec90459479b8a584f9ab9969188) in [Associated Press News](https://apnews.com/) on 24 October 2019 about [John L. Nelson](../../topics/john-l-nelson/index.md), [Trump](../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/5dc00ec90459479b8a584f9ab9969188))
-
-----
-
- - [**"Music by Prince’s father featured on new album, tracking ‘that DNA thing’"**](https://apnews.com/869e0302972c4e36aa99981332602cd0) in [Associated Press News](https://apnews.com/) on 24 October 2019 about [John L. Nelson](../../topics/john-l-nelson/index.md), [museum](../../topics/museum/index.md), [Owen Husney](../../topics/owen-husney/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Trump](../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/869e0302972c4e36aa99981332602cd0))
-
-----
-
- - [**"As Prince heirs stew, bankers and lawyers cash in on estate"**](https://apnews.com/d9847863113d4ff8bd70850dd6a6cd2e) by Steve Karnowski (Associated Press) in [Associated Press News](https://apnews.com/) on 24 October 2019 about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Carver County](../../topics/carver-county/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Spotify](../../topics/spotify/index.md), [Tidal](../../topics/tidal/index.md), [Troy Carter](../../topics/troy-carter/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Universal Music Group](../../topics/universal-music-group/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/d9847863113d4ff8bd70850dd6a6cd2e))
-
-----
-
 ## September 2019
 
  - [**"Here’s what the Prince exhibit coming to the 2020 Minnesota State Fair might look like"**](http://www.citypages.com/music/heres-what-the-prince-exhibit-coming-to-the-2020-minnesota-state-fair-might-look-like/559252741) in [City Pages](http://www.citypages.com/) on 3 September 2019 about [Alfred Jackson](../../topics/alfred-jackson/index.md), [contract](../../topics/contract/index.md), [exhibit](../../topics/exhibit/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [Jon Bream](../../topics/jon-bream/index.md), [merchandise](../../topics/merchandise/index.md), [Minnesota State Fair](../../topics/minnesota-state-fair/index.md), [State Fair](../../topics/state-fair/index.md) ([mirror](https://web.archive.org/web/*/http://www.citypages.com/music/heres-what-the-prince-exhibit-coming-to-the-2020-minnesota-state-fair-might-look-like/559252741))

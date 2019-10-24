@@ -4,6 +4,10 @@
 
 ----
 
+ - [**"Prince death, mall attack among year’s top Minnesota stories"**](https://apnews.com/f4859fe2db0e4820b8062b664141a973) in [Associated Press News](https://apnews.com/) on 24 December 2016 about [Chaka Khan](../../topics/chaka-khan/index.md), [Donald Trump](../../topics/donald-trump/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [museum](../../topics/museum/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Trump](../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/f4859fe2db0e4820b8062b664141a973))
+
+----
+
  - [**"Judge orders Prince divorce file unsealed; ex-wife objected"**](https://apnews.com/75c476d27c0246fbbba2e908f2985acf) in [Associated Press News](https://apnews.com/) on 22 December 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [fentanyl](../../topics/fentanyl/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Omarr Baker](../../topics/omarr-baker/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/75c476d27c0246fbbba2e908f2985acf))
 
 ----

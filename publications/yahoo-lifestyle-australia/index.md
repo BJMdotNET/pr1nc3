@@ -1,7 +1,7 @@
 # Yahoo! Lifestyle Australia
 
   * 2019: 
-      [October](./yahoo-lifestyle-australia-2019-10.md) (1) | 
+      [September](./yahoo-lifestyle-australia-2019-09.md) (1) | 
 
 ----
 

@@ -1,9 +1,5 @@
 # Janelle Monae
 
- - [**"BET Awards full of Prince tributes and political moments"**](https://apnews.com/6b28e8f305564390bd4b11732e176683) in [Associated Press News](https://apnews.com/) on 24 October 2019 about [BET Awards](../../topics/bet-awards/index.md), [Donald Trump](../../topics/donald-trump/index.md), [Janelle Monae](../../topics/janelle-monae/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Trump](../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/6b28e8f305564390bd4b11732e176683))
-
-----
-
  - [**"To Janet Jackson, Minneapolis will always be her 'home away from home' -- Balancing motherhood and megahits, Janet Jackson talks about her return to Minnesota, where she recorded her breakthrough albums. "**](http://www.startribune.com/to-janet-jackson-minneapolis-will-always-be-her-home-away-from-home/560054982/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 11 September 2019 about [Janelle Monae](../../topics/janelle-monae/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Time](../../topics/the-time/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/to-janet-jackson-minneapolis-will-always-be-her-home-away-from-home/560054982/))
 
 ----
@@ -25,6 +21,10 @@
 ----
 
  - [**"APNewsBreak: Official Prince tribute concert set for October"**](https://apnews.com/08568057d51c46f8a3daf99e36db5e38) in [Associated Press News](https://apnews.com/) on 28 July 2016 about [Janelle Monae](../../topics/janelle-monae/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [The Roots](../../topics/the-roots/index.md), [Tori Kelly](../../topics/tori-kelly/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/08568057d51c46f8a3daf99e36db5e38))
+
+----
+
+ - [**"BET Awards full of Prince tributes and political moments"**](https://apnews.com/6b28e8f305564390bd4b11732e176683) in [Associated Press News](https://apnews.com/) on 27 June 2016 about [BET Awards](../../topics/bet-awards/index.md), [Donald Trump](../../topics/donald-trump/index.md), [Janelle Monae](../../topics/janelle-monae/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Trump](../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/6b28e8f305564390bd4b11732e176683))
 
 ----
 

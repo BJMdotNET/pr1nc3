@@ -1,10 +1,10 @@
 # Purple Rain (movie)
 
   * [2019](./purple-rain-movie-2019.md): 
-      October (7) | 
+      October (6) | 
       September (3) | 
       August (5) | 
-      July (12) | 
+      July (13) | 
       June (3) | 
       May (1) | 
       April (3) | 

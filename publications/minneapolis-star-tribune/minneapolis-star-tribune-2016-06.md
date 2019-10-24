@@ -200,6 +200,10 @@
 
 ----
 
+ - [**"Comic Dave Chappelle kicks off First Ave run by kicking at Cosby and Trump -- Review: The legendary stand-up veteran's 10-show run included a serious nod to Prince."**](http://www.startribune.com/comic-dave-chappelle-kicks-off-first-ave-run-by-kicking-at-cosby-and-trump/381471061/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 1 June 2016 about [Dave Chappelle](../../topics/dave-chappelle/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Trump](../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/comic-dave-chappelle-kicks-off-first-ave-run-by-kicking-at-cosby-and-trump/381471061/))
+
+----
+
  - [**"Prince breaks Beatles' Billboard record more than a month after death"**](http://www.startribune.com/prince-breaks-billboard-record-over-a-month-after-death/381522071/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 1 June 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-breaks-billboard-record-over-a-month-after-death/381522071/))
 
 ----

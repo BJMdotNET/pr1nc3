@@ -1,17 +1,5 @@
 # Apple Music
 
- - [**"New Prince album featuring unreleased demos out in June"**](https://apnews.com/f60b62d07cd74a92aec4ceb6d9c338f1) by The Associated Press in [Associated Press News](https://apnews.com/) on 24 October 2019 about [Apple Music](../../topics/apple-music/index.md), [Bangles](../../topics/bangles/index.md), [Joey Coco](../../topics/joey-coco/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../topics/album/originals/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Spotify](../../topics/spotify/index.md), [The Time](../../topics/the-time/index.md), [Tidal](../../topics/tidal/index.md), [Troy Carter](../../topics/troy-carter/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/f60b62d07cd74a92aec4ceb6d9c338f1))
-
-----
-
- - [**"Drake, Bieber win big, Selena Gomez gets emotional at AMAs"**](https://apnews.com/d90b510be7564038ab7ceed50f3bd1ba) in [Associated Press News](https://apnews.com/) on 24 October 2019 about [Apple Music](../../topics/apple-music/index.md), [Donald Trump](../../topics/donald-trump/index.md), [Obama](../../topics/obama/index.md), [Trump](../../topics/trump/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/d90b510be7564038ab7ceed50f3bd1ba))
-
-----
-
- - [**"A year after Prince's death, these questions remain unanswered"**](https://usatoday.com/story/life/music/2017/04/20/death-prince-one-year-later-what-do-we-know/100180398/) in [USA Today](https://usatoday.com/) on 24 October 2019 about [Amy Conners](../../topics/amy-conners/index.md), [Apple Music](../../topics/apple-music/index.md), [bootleg](../../topics/bootleg/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [George Ian Boxill](../../topics/george-ian-boxill/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [memoir](../../topics/memoir/index.md), [Michael Schulenberg](../../topics/michael-schulenberg/index.md), [museum](../../topics/museum/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [Patrick Cousins](../../topics/patrick-cousins/index.md), [Spotify](../../topics/spotify/index.md), [Tidal](../../topics/tidal/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Universal Music Group](../../topics/universal-music-group/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2017/04/20/death-prince-one-year-later-what-do-we-know/100180398/))
-
-----
-
  - [**"Check out this previously unseen 'Manic Monday' Prince video -- The music video, which features rare rehearsal footage, was released this weekend."**](https://bringmethenews.com/minnesota-lifestyle/check-out-this-previously-unseen-manic-monday-prince-video) in [Bring Me The News](https://bringmethenews.com/) on 23 June 2019 about [Apple Music](../../topics/apple-music/index.md), [Bangles](../../topics/bangles/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Sinéad O'Connor](../../topics/sin-ad-o-connor/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [YouTube](../../topics/youtube/index.md) ([mirror](https://web.archive.org/web/*/https://bringmethenews.com/minnesota-lifestyle/check-out-this-previously-unseen-manic-monday-prince-video))
 
 ----
@@ -24,11 +12,23 @@
 
 ----
 
+ - [**"New Prince album featuring unreleased demos out in June"**](https://apnews.com/f60b62d07cd74a92aec4ceb6d9c338f1) by The Associated Press in [Associated Press News](https://apnews.com/) on 25 April 2019 about [Apple Music](../../topics/apple-music/index.md), [Bangles](../../topics/bangles/index.md), [Joey Coco](../../topics/joey-coco/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../topics/album/originals/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Spotify](../../topics/spotify/index.md), [The Time](../../topics/the-time/index.md), [Tidal](../../topics/tidal/index.md), [Troy Carter](../../topics/troy-carter/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/f60b62d07cd74a92aec4ceb6d9c338f1))
+
+----
+
  - [**"Ava DuVernay Working on Prince Documentary for Netflix (EXCLUSIVE)"**](https://variety.com/2018/music/news/ava-duvernay-prince-documentary-for-netflix-1203011709/) in [Variety](https://variety.com/) on 29 October 2018 about [Apple Music](../../topics/apple-music/index.md), [Ava DuVernay](../../topics/ava-duvernay/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Netflix](../../topics/netflix/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2018/music/news/ava-duvernay-prince-documentary-for-netflix-1203011709/))
 
 ----
 
+ - [**"A year after Prince's death, these questions remain unanswered"**](https://usatoday.com/story/life/music/2017/04/20/death-prince-one-year-later-what-do-we-know/100180398/) in [USA Today](https://usatoday.com/) on 21 April 2017 about [Amy Conners](../../topics/amy-conners/index.md), [Apple Music](../../topics/apple-music/index.md), [bootleg](../../topics/bootleg/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [George Ian Boxill](../../topics/george-ian-boxill/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [memoir](../../topics/memoir/index.md), [Michael Schulenberg](../../topics/michael-schulenberg/index.md), [museum](../../topics/museum/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [Patrick Cousins](../../topics/patrick-cousins/index.md), [Spotify](../../topics/spotify/index.md), [Tidal](../../topics/tidal/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Universal Music Group](../../topics/universal-music-group/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2017/04/20/death-prince-one-year-later-what-do-we-know/100180398/))
+
+----
+
  - [**"Prince’s estate to release ‘unreleased gems’ from back catalogue"**](https://apnews.com/e2aa16268e7b4d5e84f5158e895ea006) in [Associated Press News](https://apnews.com/) on 13 February 2017 about [Apple Music](../../topics/apple-music/index.md), [fentanyl](../../topics/fentanyl/index.md), [Grammy Award](../../topics/grammy-award/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Tidal](../../topics/tidal/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/e2aa16268e7b4d5e84f5158e895ea006))
+
+----
+
+ - [**"Drake, Bieber win big, Selena Gomez gets emotional at AMAs"**](https://apnews.com/d90b510be7564038ab7ceed50f3bd1ba) in [Associated Press News](https://apnews.com/) on 21 November 2016 about [Apple Music](../../topics/apple-music/index.md), [Donald Trump](../../topics/donald-trump/index.md), [Obama](../../topics/obama/index.md), [Trump](../../topics/trump/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/d90b510be7564038ab7ceed50f3bd1ba))
 
 ----
 

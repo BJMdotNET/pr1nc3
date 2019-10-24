@@ -1,5 +1,9 @@
 # Associated Press News: December 2017
 
+ - [**"Franken, Keillor, Damond, Castile top Minnesota news in 2017"**](https://apnews.com/80ae6c0e800c49ba95447bb986d2dd78) in [Associated Press News](https://apnews.com/) on 22 December 2017 about [contract](../../topics/contract/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Obama](../../topics/obama/index.md), [Trump](../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/80ae6c0e800c49ba95447bb986d2dd78))
+
+----
+
  - [**"Singer Gwen Stefani to wrap up Super Bowl week performances"**](https://apnews.com/80ec55b99dd74c77b9d3fbcd79adf7c1) in [Associated Press News](https://apnews.com/) on 12 December 2017 about [Gwen Stefani](../../topics/gwen-stefani/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Super Bowl](../../topics/super-bowl/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/80ec55b99dd74c77b9d3fbcd79adf7c1))
 
 ----

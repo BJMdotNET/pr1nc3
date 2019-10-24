@@ -1,7 +1,7 @@
 # www.arkansasonline.com
 
   * 2019: 
-      [October](./www-arkansasonline-com-2019-10.md) (1) | 
+      [September](./www-arkansasonline-com-2019-09.md) (1) | 
 
 ----
 

@@ -1,7 +1,6 @@
 # fentanyl
 
   * [2019](./fentanyl-2019.md): 
-      October (1) | 
       September (3) | 
       July (1) | 
       April (2) | 
@@ -14,7 +13,7 @@
       November (1) | 
       June (1) | 
       May (1) | 
-      April (5) | 
+      April (6) | 
       February (1) | 
       January (1) | 
   * [2016](./fentanyl-2016.md): 

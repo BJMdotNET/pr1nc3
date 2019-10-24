@@ -1,13 +1,12 @@
 # Paisley Park Enterprises
 
   * [2019](./paisley-park-enterprises-2019.md): 
-      October (1) | 
       September (1) | 
       August (1) | 
       April (1) | 
   * [2017](./paisley-park-enterprises-2017.md): 
       May (1) | 
-      April (1) | 
+      April (2) | 
       January (1) | 
   * [2015](./paisley-park-enterprises-2015.md): 
       February (1) | 

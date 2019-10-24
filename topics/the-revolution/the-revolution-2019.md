@@ -1,15 +1,5 @@
 # The Revolution: 2019
 
-## October 2019
-
- - [**"'Purple Rain' 35th anniversary: We dive into the Prince cult classic for the first time"**](https://usatoday.com/story/entertainment/movies/2019/07/25/purple-rain-35th-anniversary-does-prince-cult-film-hold-up/1817029001/) by Brian Truitt, Patrick Ryan in [USA Today](https://usatoday.com/) on 24 October 2019 about [Apollonia 6](../../topics/apollonia-6/index.md), [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Morris Day](../../topics/morris-day/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Spotify](../../topics/spotify/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/entertainment/movies/2019/07/25/purple-rain-35th-anniversary-does-prince-cult-film-hold-up/1817029001/))
-
-----
-
- - [**"Boy George dishes on Prince and promises 'gorgeousness' at Twin Cities show -- Boy George speaks his mind, chatting about Prince, Trump and Culture Club's Twin Cities concert this weekend."**](http://www.startribune.com/boy-george-dishes-on-prince-and-promises-gorgeousness-at-twin-cities-show/387819481/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 24 October 2019 about [Donald Trump](../../topics/donald-trump/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [London (place)](../../topics/place/london/index.md), [The Revolution](../../topics/the-revolution/index.md), [Trump](../../topics/trump/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/boy-george-dishes-on-prince-and-promises-gorgeousness-at-twin-cities-show/387819481/))
-
-----
-
 ## September 2019
 
  - [**"Interview mit Prince-Tänzerin Cat: „Ich las ihm ‚Der Kleine Prinz‘ beim Einschlafen vor“"**](https://www.rollingstone.de/prince-interview-mit-cat-sign-o-the-times-1761999/) in [www.rollingstone.de](https://www.rollingstone.de/) on 13 September 2019 about [Albert Magnoli](../../topics/albert-magnoli/index.md), [Housequake (song)](../../topics/song/housequake/index.md), [LeRoy Bennett](../../topics/leroy-bennett/index.md), [Lovesexy (album)](../../topics/album/lovesexy/index.md), [Lovesexy (tour)](../../topics/tour/lovesexy/index.md), [museum](../../topics/museum/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [The Revolution](../../topics/the-revolution/index.md), [U Got the Look (song)](../../topics/song/u-got-the-look/index.md), [vault](../../topics/vault/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.de/prince-interview-mit-cat-sign-o-the-times-1761999/))
@@ -45,6 +35,10 @@
 ----
 
  - [**"Prince Never Acted Before 'Purple Rain.' Then He Became a Household Name -- The movie and album would come to help define the 1980s and catapult the performer to global fame."**](https://www.biography.com/news/prince-purple-rain-album-movie) by Colin Bertram in [Biography](https://www.biography.com/) on 25 July 2019 about [Academy Award](../../topics/academy-award/index.md), [Alan Light](../../topics/alan-light/index.md), [Albert Magnoli](../../topics/albert-magnoli/index.md), [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [I Would Die 4 U (song)](../../topics/song/i-would-die-4-u/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Morris Day](../../topics/morris-day/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md), [Vanity](../../topics/vanity/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://www.biography.com/news/prince-purple-rain-album-movie))
+
+----
+
+ - [**"'Purple Rain' 35th anniversary: We dive into the Prince cult classic for the first time"**](https://usatoday.com/story/entertainment/movies/2019/07/25/purple-rain-35th-anniversary-does-prince-cult-film-hold-up/1817029001/) by Brian Truitt, Patrick Ryan in [USA Today](https://usatoday.com/) on 25 July 2019 about [Apollonia 6](../../topics/apollonia-6/index.md), [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Morris Day](../../topics/morris-day/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Spotify](../../topics/spotify/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/entertainment/movies/2019/07/25/purple-rain-35th-anniversary-does-prince-cult-film-hold-up/1817029001/))
 
 ----
 

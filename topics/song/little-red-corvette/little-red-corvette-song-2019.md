@@ -2,11 +2,7 @@
 
 ## October 2019
 
- - [**"Prince sells 1M songs, 231K albums posthumously"**](https://usatoday.com/story/life/music/2016/04/22/prince-sales-death/83376684/) in [USA Today](https://usatoday.com/) on 24 October 2019 about [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Spotify](../../../topics/spotify/index.md), [Tidal](../../../topics/tidal/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2016/04/22/prince-sales-death/83376684/))
-
-----
-
- - [**"PRINCE, IN PRIVATE AND PUBLIC"**](https://www.interviewmagazine.com/music/prince-private-randee-st-nicholas-book-my-name-is-prince) in [www.interviewmagazine.com](https://www.interviewmagazine.com/) on 24 October 2019 about [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [My Name Is Prince: 25 Inspired Years (book)](../../../topics/book/my-name-is-prince-25-inspired-years/index.md), [Randee St. Nicholas](../../../topics/randee-st-nicholas/index.md), [Spike Lee](../../../topics/spike-lee/index.md) ([mirror](https://web.archive.org/web/*/https://www.interviewmagazine.com/music/prince-private-randee-st-nicholas-book-my-name-is-prince))
+ - [**"PRINCE, IN PRIVATE AND PUBLIC"**](https://www.interviewmagazine.com/music/prince-private-randee-st-nicholas-book-my-name-is-prince) in [www.interviewmagazine.com](https://www.interviewmagazine.com/) on 15 October 2019 about [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [My Name Is Prince: 25 Inspired Years (book)](../../../topics/book/my-name-is-prince-25-inspired-years/index.md), [Randee St. Nicholas](../../../topics/randee-st-nicholas/index.md), [Spike Lee](../../../topics/spike-lee/index.md) ([mirror](https://web.archive.org/web/*/https://www.interviewmagazine.com/music/prince-private-randee-st-nicholas-book-my-name-is-prince))
 
 ----
 

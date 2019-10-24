@@ -1,14 +1,17 @@
 # Stevie Wonder
 
   * [2019](./stevie-wonder-2019.md): 
-      October (5) | 
+      October (1) | 
+      September (1) | 
+      July (1) | 
   * [2018](./stevie-wonder-2018.md): 
       August (1) | 
       April (1) | 
+      January (1) | 
   * [2017](./stevie-wonder-2017.md): 
       April (1) | 
   * [2016](./stevie-wonder-2016.md): 
-      December (1) | 
+      December (2) | 
       October (5) | 
       September (2) | 
       July (1) | 

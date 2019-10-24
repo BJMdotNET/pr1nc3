@@ -1,11 +1,5 @@
 # Kenny Rogers: 2019
 
-## October 2019
-
- - [**"New Prince album featuring unreleased demos out in June"**](https://apnews.com/f60b62d07cd74a92aec4ceb6d9c338f1) by The Associated Press in [Associated Press News](https://apnews.com/) on 24 October 2019 about [Apple Music](../../topics/apple-music/index.md), [Bangles](../../topics/bangles/index.md), [Joey Coco](../../topics/joey-coco/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../topics/album/originals/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Spotify](../../topics/spotify/index.md), [The Time](../../topics/the-time/index.md), [Tidal](../../topics/tidal/index.md), [Troy Carter](../../topics/troy-carter/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/f60b62d07cd74a92aec4ceb6d9c338f1))
-
-----
-
 ## June 2019
 
  - [**"Meet the man in charge of releasing Prince’s unheard songs from his private vault"**](https://thewest.com.au/entertainment/meet-the-man-in-charge-of-releasing-princes-unheard-songs-from-his-private-vault-ng-5844d5d8a68b1a7ddac6c4893ef8083f) by Cameron Adams in [The West Australian](https://thewest.com.au/) on 29 June 2019 about [Bangles](../../topics/bangles/index.md), [bootleg](../../topics/bootleg/index.md), [Holly Rock (song)](../../topics/song/holly-rock/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Joey Coco](../../topics/joey-coco/index.md), [Jungle Love (song)](../../topics/song/jungle-love/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Martika](../../topics/martika/index.md), [Michael Howe](../../topics/michael-howe/index.md), [Originals (album)](../../topics/album/originals/index.md), [The Family](../../topics/the-family/index.md), [The Glamorous Life (song)](../../topics/song/the-glamorous-life/index.md), [The Time](../../topics/the-time/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://thewest.com.au/entertainment/meet-the-man-in-charge-of-releasing-princes-unheard-songs-from-his-private-vault-ng-5844d5d8a68b1a7ddac6c4893ef8083f))
@@ -39,6 +33,10 @@
 ----
 
  - [**"New Prince album featuring unreleased demos out in June"**](http://www.startribune.com/new-prince-album-featuring-unreleased-demos-out-in-june/509058902/) by The Associated Press in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 April 2019 about [Joey Coco](../../topics/joey-coco/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Originals (album)](../../topics/album/originals/index.md), [Sheila E.](../../topics/sheila-e/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/new-prince-album-featuring-unreleased-demos-out-in-june/509058902/))
+
+----
+
+ - [**"New Prince album featuring unreleased demos out in June"**](https://apnews.com/f60b62d07cd74a92aec4ceb6d9c338f1) by The Associated Press in [Associated Press News](https://apnews.com/) on 25 April 2019 about [Apple Music](../../topics/apple-music/index.md), [Bangles](../../topics/bangles/index.md), [Joey Coco](../../topics/joey-coco/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../topics/album/originals/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Spotify](../../topics/spotify/index.md), [The Time](../../topics/the-time/index.md), [Tidal](../../topics/tidal/index.md), [Troy Carter](../../topics/troy-carter/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/f60b62d07cd74a92aec4ceb6d9c338f1))
 
 ----
 

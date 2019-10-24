@@ -2,27 +2,11 @@
 
 ## October 2019
 
- - [**"Sheila E. reflects on losing Prince, jamming with Ringo and how Trump inspired 'Iconic'"**](https://usatoday.com/story/entertainment/music/2018/01/11/sheila-e-interview-prince-ringo-starr-donald-trump-iconic/1022142001/) in [USA Today](https://usatoday.com/) on 24 October 2019 about [Candy Dulfer](../../topics/candy-dulfer/index.md), [Donald Trump](../../topics/donald-trump/index.md), [George Clinton](../../topics/george-clinton/index.md), [Oliver’s House (song)](../../topics/song/oliver-s-house/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [The Belle of St. Mark (song)](../../topics/song/the-belle-of-st-mark/index.md), [The Glamorous Life (album)](../../topics/album/the-glamorous-life/index.md), [The Glamorous Life (song)](../../topics/song/the-glamorous-life/index.md), [Trump](../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/entertainment/music/2018/01/11/sheila-e-interview-prince-ringo-starr-donald-trump-iconic/1022142001/))
+ - [**"'Purple Rain' Star Morris Day Claims Prince Had A 'God Complex'"**](https://www.yourtango.com/2019328900/who-morris-day-new-details-purple-rain-stars-friendship-prince-who-claims-had-god-complex) in [www.yourtango.com](https://www.yourtango.com/) on 17 October 2019 about [Jungle Love (song)](../../topics/song/jungle-love/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Bird (song)](../../topics/song/the-bird/index.md), [The Time](../../topics/the-time/index.md) ([mirror](https://web.archive.org/web/*/https://www.yourtango.com/2019328900/who-morris-day-new-details-purple-rain-stars-friendship-prince-who-claims-had-god-complex))
 
 ----
 
- - [**"Sheila E. brings the glam to jazz fest"**](https://www.thechronicleherald.ca/living/sheila-e-brings-the-glam-to-jazz-fest-329717/) by Stephen Cooke in [The Chronicle Herald](https://www.thechronicleherald.ca/) on 24 October 2019 about [Donald Trump](../../topics/donald-trump/index.md), [Morris Day](../../topics/morris-day/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Trump](../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/https://www.thechronicleherald.ca/living/sheila-e-brings-the-glam-to-jazz-fest-329717/))
-
-----
-
- - [**"'Purple Rain' Star Morris Day Claims Prince Had A 'God Complex'"**](https://www.yourtango.com/2019328900/who-morris-day-new-details-purple-rain-stars-friendship-prince-who-claims-had-god-complex) in [www.yourtango.com](https://www.yourtango.com/) on 24 October 2019 about [Jungle Love (song)](../../topics/song/jungle-love/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Bird (song)](../../topics/song/the-bird/index.md), [The Time](../../topics/the-time/index.md) ([mirror](https://web.archive.org/web/*/https://www.yourtango.com/2019328900/who-morris-day-new-details-purple-rain-stars-friendship-prince-who-claims-had-god-complex))
-
-----
-
- - [**"New Prince album featuring unreleased demos out in June"**](https://apnews.com/f60b62d07cd74a92aec4ceb6d9c338f1) by The Associated Press in [Associated Press News](https://apnews.com/) on 24 October 2019 about [Apple Music](../../topics/apple-music/index.md), [Bangles](../../topics/bangles/index.md), [Joey Coco](../../topics/joey-coco/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../topics/album/originals/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Spotify](../../topics/spotify/index.md), [The Time](../../topics/the-time/index.md), [Tidal](../../topics/tidal/index.md), [Troy Carter](../../topics/troy-carter/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/f60b62d07cd74a92aec4ceb6d9c338f1))
-
-----
-
- - [**"MORRIS DAY RECALLS TIME HE AND PRINCE NEARLY CAME TO BLOWS ON SET OF ‘PURPLE RAIN’"**](https://eurweb.com/2019/10/14/morris-day-recalls-time-he-and-prince-nearly-came-to-blows-on-set-of-purple-rain/) in [EURweb](https://eurweb.com/) on 24 October 2019 about [Jamie Starr](../../topics/jamie-starr/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jungle Love (song)](../../topics/song/jungle-love/index.md), [Morris Day](../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Bird (song)](../../topics/song/the-bird/index.md), [The Time](../../topics/the-time/index.md), [Vanity](../../topics/vanity/index.md) ([mirror](https://web.archive.org/web/*/https://eurweb.com/2019/10/14/morris-day-recalls-time-he-and-prince-nearly-came-to-blows-on-set-of-purple-rain/))
-
-----
-
- - [**"BET Awards full of Prince tributes and political moments"**](https://apnews.com/6b28e8f305564390bd4b11732e176683) in [Associated Press News](https://apnews.com/) on 24 October 2019 about [BET Awards](../../topics/bet-awards/index.md), [Donald Trump](../../topics/donald-trump/index.md), [Janelle Monae](../../topics/janelle-monae/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Trump](../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/6b28e8f305564390bd4b11732e176683))
+ - [**"MORRIS DAY RECALLS TIME HE AND PRINCE NEARLY CAME TO BLOWS ON SET OF ‘PURPLE RAIN’"**](https://eurweb.com/2019/10/14/morris-day-recalls-time-he-and-prince-nearly-came-to-blows-on-set-of-purple-rain/) in [EURweb](https://eurweb.com/) on 14 October 2019 about [Jamie Starr](../../topics/jamie-starr/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jungle Love (song)](../../topics/song/jungle-love/index.md), [Morris Day](../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Bird (song)](../../topics/song/the-bird/index.md), [The Time](../../topics/the-time/index.md), [Vanity](../../topics/vanity/index.md) ([mirror](https://web.archive.org/web/*/https://eurweb.com/2019/10/14/morris-day-recalls-time-he-and-prince-nearly-came-to-blows-on-set-of-purple-rain/))
 
 ----
 
@@ -57,6 +41,10 @@
 ----
 
  - [**"New Single From Prince Released Off His Originals Album (Listen) -- The basic tracking for “Holly Rock” took place at Sunset Sound studios in Los Angeles at the end of April 1985"**](https://bassmagazine.com/artists/new-single-from-prince-released-off-his-originals-album) in [Bass Magazine](https://bassmagazine.com/) on 25 July 2019 about [Electric Light Studios](../../topics/electric-light-studios/index.md), [Holly Rock (song)](../../topics/song/holly-rock/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Krush Groove (movie)](../../topics/movie/krush-groove/index.md), [Originals (album)](../../topics/album/originals/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md) ([mirror](https://web.archive.org/web/*/https://bassmagazine.com/artists/new-single-from-prince-released-off-his-originals-album))
+
+----
+
+ - [**"Sheila E. brings the glam to jazz fest"**](https://www.thechronicleherald.ca/living/sheila-e-brings-the-glam-to-jazz-fest-329717/) by Stephen Cooke in [The Chronicle Herald](https://www.thechronicleherald.ca/) on 5 July 2019 about [Donald Trump](../../topics/donald-trump/index.md), [Morris Day](../../topics/morris-day/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Trump](../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/https://www.thechronicleherald.ca/living/sheila-e-brings-the-glam-to-jazz-fest-329717/))
 
 ----
 
@@ -95,6 +83,10 @@
 ## April 2019
 
  - [**"New Prince album featuring unreleased demos out in June"**](http://www.startribune.com/new-prince-album-featuring-unreleased-demos-out-in-june/509058902/) by The Associated Press in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 April 2019 about [Joey Coco](../../topics/joey-coco/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Originals (album)](../../topics/album/originals/index.md), [Sheila E.](../../topics/sheila-e/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/new-prince-album-featuring-unreleased-demos-out-in-june/509058902/))
+
+----
+
+ - [**"New Prince album featuring unreleased demos out in June"**](https://apnews.com/f60b62d07cd74a92aec4ceb6d9c338f1) by The Associated Press in [Associated Press News](https://apnews.com/) on 25 April 2019 about [Apple Music](../../topics/apple-music/index.md), [Bangles](../../topics/bangles/index.md), [Joey Coco](../../topics/joey-coco/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../topics/album/originals/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Spotify](../../topics/spotify/index.md), [The Time](../../topics/the-time/index.md), [Tidal](../../topics/tidal/index.md), [Troy Carter](../../topics/troy-carter/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/f60b62d07cd74a92aec4ceb6d9c338f1))
 
 ----
 

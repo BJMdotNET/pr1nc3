@@ -1,24 +1,8 @@
 # Chris Riemenschneider: 2019
 
-## October 2019
+## August 2019
 
- - [**"Want to hear Prince music? Radio stations fill online void in wake of his death -- Fans can't hear his music on Spotify and other online music sites, but 89.3 the Current and First Avenue are going all out."**](http://www.startribune.com/want-to-hear-prince-music-radio-stations-fill-online-void-in-wake-of-his-death/376744351/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 24 October 2019 about [Spotify](../../topics/spotify/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/want-to-hear-prince-music-radio-stations-fill-online-void-in-wake-of-his-death/376744351/))
-
-----
-
- - [**"Prince's estate approves three more '90s reissues via Sony Legacy for September"**](http://www.startribune.com/prince-s-estate-approves-three-more-90s-reissues-via-sony-legacy-for-september/513494212/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 24 October 2019 about [Chaos and Disorder (album)](../../topics/album/chaos-and-disorder/index.md), [Emancipation (album)](../../topics/album/emancipation/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [The Versace Experience (Prelude 2 Gold) (album)](../../topics/album/the-versace-experience-prelude-2-gold/index.md), [Trump](../../topics/trump/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-estate-approves-three-more-90s-reissues-via-sony-legacy-for-september/513494212/))
-
-----
-
- - [**"Floodgates are about to open on Prince's career after death -- A year after he died, Prince's lucrative second career is taking off. The industry moguls he despised are calling the shots — and his wishes don't apply."**](http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 24 October 2019 about [Bravado](../../topics/bravado/index.md), [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [contract](../../topics/contract/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [merchandise](../../topics/merchandise/index.md), [museum](../../topics/museum/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Spotify](../../topics/spotify/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/))
-
-----
-
- - [**"Comic Dave Chappelle kicks off First Ave run by kicking at Cosby and Trump -- Review: The legendary stand-up veteran's 10-show run included a serious nod to Prince."**](http://www.startribune.com/comic-dave-chappelle-kicks-off-first-ave-run-by-kicking-at-cosby-and-trump/381471061/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 24 October 2019 about [Dave Chappelle](../../topics/dave-chappelle/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Trump](../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/comic-dave-chappelle-kicks-off-first-ave-run-by-kicking-at-cosby-and-trump/381471061/))
-
-----
-
- - [**"Austin's SXSW turns purple on St. Paddy's Day with Prince tributes -- Music megafest featured outdoor concert and two panels in his memory."**](http://www.startribune.com/austin-s-sxsw-turns-purple-on-st-patty-s-day-with-prince-tributes/416509783/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 24 October 2019 about [Owen Husney](../../topics/owen-husney/index.md), [Trump](../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/austin-s-sxsw-turns-purple-on-st-patty-s-day-with-prince-tributes/416509783/))
+ - [**"Prince's estate approves three more '90s reissues via Sony Legacy for September"**](http://www.startribune.com/prince-s-estate-approves-three-more-90s-reissues-via-sony-legacy-for-september/513494212/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 1 August 2019 about [Chaos and Disorder (album)](../../topics/album/chaos-and-disorder/index.md), [Emancipation (album)](../../topics/album/emancipation/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [The Versace Experience (Prelude 2 Gold) (album)](../../topics/album/the-versace-experience-prelude-2-gold/index.md), [Trump](../../topics/trump/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-estate-approves-three-more-90s-reissues-via-sony-legacy-for-september/513494212/))
 
 ----
 

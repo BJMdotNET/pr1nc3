@@ -26,6 +26,10 @@
 
 ## June 2018
 
+ - [**"Prince’s Vault"**](https://lefsetz.com/wordpress/2018/06/14/princes-vault/) in [The Lefsetz Letter](https://lefsetz.com/) on 14 June 2018 about [Michael Howe](../../topics/michael-howe/index.md), [Spotify](../../topics/spotify/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://lefsetz.com/wordpress/2018/06/14/princes-vault/))
+
+----
+
  - [**"Warner Bros. to release new Prince album in September"**](https://apnews.com/542e9ad6962e46e8882badfd663b1921) in [Associated Press News](https://apnews.com/) on 7 June 2018 about [17 Days (song)](../../topics/song/17-days/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [vault](../../topics/vault/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/542e9ad6962e46e8882badfd663b1921))
 
 ----

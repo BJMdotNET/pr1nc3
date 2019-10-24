@@ -18,6 +18,18 @@
 
 ----
 
+ - [**"Magic memories: Prince’s warmth and wit shone in private"**](https://apnews.com/cf2e87db1753473eb63165d807bd45c2) in [Associated Press News](https://apnews.com/) on 23 April 2016 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [James Brown](../../topics/james-brown/index.md), [Joshua Welton](../../topics/joshua-welton/index.md), [Larry Graham](../../topics/larry-graham/index.md), [memoir](../../topics/memoir/index.md), [NPG Records](../../topics/npg-records/index.md), [piracy](../../topics/piracy/index.md), [Spotify](../../topics/spotify/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md), [YouTube](../../topics/youtube/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/cf2e87db1753473eb63165d807bd45c2))
+
+----
+
+ - [**"5 ways Prince slammed high tech in music"**](https://apnews.com/f4cdf36615b446d6bf994eab8ab22379) in [Associated Press News](https://apnews.com/) on 22 April 2016 about [James Brown](../../topics/james-brown/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Spotify](../../topics/spotify/index.md), [Tidal](../../topics/tidal/index.md), [YouTube](../../topics/youtube/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/f4cdf36615b446d6bf994eab8ab22379))
+
+----
+
+ - [**"A day with Prince at Paisley Park"**](https://apnews.com/948911d73f9941fd938df975a3dc5f6f) by Nekesa Mumbi Moody (Associated Press) in [Associated Press News](https://apnews.com/) on 22 April 2016 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [contract](../../topics/contract/index.md), [Donna Grantis](../../topics/donna-grantis/index.md), [James Brown](../../topics/james-brown/index.md), [Joshua Welton](../../topics/joshua-welton/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Rita Ora](../../topics/rita-ora/index.md), [Spotify](../../topics/spotify/index.md), [YouTube](../../topics/youtube/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/948911d73f9941fd938df975a3dc5f6f))
+
+----
+
  - [**"Prince, hugely inventive, influential musician, dead at 57"**](https://apnews.com/988e107cf6964494b58ad2ca9bcd0985) in [Associated Press News](https://apnews.com/) on 22 April 2016 about [Academy Award](../../topics/academy-award/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Bangles](../../topics/bangles/index.md), [contract](../../topics/contract/index.md), [I Wanna Be Your Lover (song)](../../topics/song/i-wanna-be-your-lover/index.md), [James Brown](../../topics/james-brown/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Obama](../../topics/obama/index.md), [Roger Ebert](../../topics/roger-ebert/index.md), [Tidal](../../topics/tidal/index.md), [Vanity](../../topics/vanity/index.md), [White House (place)](../../topics/place/white-house/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/988e107cf6964494b58ad2ca9bcd0985))
 
 ----

@@ -1,13 +1,13 @@
 # Sheila E.
 
   * [2019](./sheila-e-2019.md): 
-      October (7) | 
+      October (3) | 
       September (2) | 
       August (1) | 
-      July (4) | 
+      July (5) | 
       June (5) | 
       May (1) | 
-      April (4) | 
+      April (5) | 
       March (1) | 
       February (3) | 
   * [2018](./sheila-e-2018.md): 
@@ -15,7 +15,7 @@
       April (3) | 
       March (1) | 
       February (4) | 
-      January (2) | 
+      January (3) | 
   * [2017](./sheila-e-2017.md): 
       December (3) | 
       August (1) | 
@@ -25,7 +25,7 @@
       December (2) | 
       August (1) | 
       July (1) | 
-      June (1) | 
+      June (2) | 
       May (3) | 
       April (12) | 
       February (1) | 

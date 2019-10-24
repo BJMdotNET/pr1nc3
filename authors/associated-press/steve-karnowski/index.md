@@ -1,9 +1,8 @@
 # Steve Karnowski (Associated Press)
 
-  * [2019](./steve-karnowski-associated-press-2019.md): 
-      October (1) | 
   * [2018](./steve-karnowski-associated-press-2018.md): 
       August (1) | 
+      May (1) | 
   * [2017](./steve-karnowski-associated-press-2017.md): 
       October (1) | 
       June (1) | 
