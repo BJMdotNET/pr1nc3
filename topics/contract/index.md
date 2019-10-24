@@ -1,21 +1,18 @@
 # contract
 
   * [2019](./contract-2019.md): 
-      October (2) | 
-      September (5) | 
+      October (10) | 
+      September (4) | 
       August (7) | 
-      July (4) | 
+      July (3) | 
       June (4) | 
       April (2) | 
   * [2018](./contract-2018.md): 
       April (2) | 
   * [2017](./contract-2017.md): 
-      December (1) | 
       November (2) | 
       July (1) | 
-      May (1) | 
-      April (2) | 
-      March (1) | 
+      April (1) | 
       January (1) | 
   * [2016](./contract-2016.md): 
       December (1) | 
@@ -23,7 +20,7 @@
       September (2) | 
       June (3) | 
       May (5) | 
-      April (9) | 
+      April (7) | 
   * [2015](./contract-2015.md): 
       April (1) | 
       February (1) | 

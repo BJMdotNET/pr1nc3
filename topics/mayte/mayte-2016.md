@@ -42,10 +42,6 @@
 
 ## June 2016
 
- - [**"BET Awards full of Prince tributes and political moments"**](https://apnews.com/6b28e8f305564390bd4b11732e176683) in [Associated Press News](https://apnews.com/) on 27 June 2016 about [BET Awards](../../topics/bet-awards/index.md), [Donald Trump](../../topics/donald-trump/index.md), [Janelle Monae](../../topics/janelle-monae/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Trump](../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/6b28e8f305564390bd4b11732e176683))
-
-----
-
  - [**"PETA offers pro-vegan Prince song as free download"**](https://apnews.com/98096304481044cb87de3d4eb7372c16) in [Associated Press News](https://apnews.com/) on 3 June 2016 about [fentanyl](../../topics/fentanyl/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/98096304481044cb87de3d4eb7372c16))
 
 ----

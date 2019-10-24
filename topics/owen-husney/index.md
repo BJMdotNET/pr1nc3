@@ -1,5 +1,13 @@
 # Owen Husney
 
+ - [**"Music by Prince’s father featured on new album, tracking ‘that DNA thing’"**](https://apnews.com/869e0302972c4e36aa99981332602cd0) in [Associated Press News](https://apnews.com/) on 24 October 2019 about [John L. Nelson](../../topics/john-l-nelson/index.md), [museum](../../topics/museum/index.md), [Owen Husney](../../topics/owen-husney/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Trump](../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/869e0302972c4e36aa99981332602cd0))
+
+----
+
+ - [**"Austin's SXSW turns purple on St. Paddy's Day with Prince tributes -- Music megafest featured outdoor concert and two panels in his memory."**](http://www.startribune.com/austin-s-sxsw-turns-purple-on-st-patty-s-day-with-prince-tributes/416509783/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 24 October 2019 about [Owen Husney](../../topics/owen-husney/index.md), [Trump](../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/austin-s-sxsw-turns-purple-on-st-patty-s-day-with-prince-tributes/416509783/))
+
+----
+
  - [**"The Cloud Bass"**](https://madcatsandclouds.com/2018/12/30/the-cloud-bass/) in [Madcats & Clouds](https://madcatsandclouds.com/) on 30 December 2018 about [Cloud bass](../../topics/cloud-bass/index.md), [Cloud guitar](../../topics/cloud-guitar/index.md), [exhibit](../../topics/exhibit/index.md), [exhibition](../../topics/exhibition/index.md), [For You (album)](../../topics/album/for-you/index.md), [Jeffrey Levin](../../topics/jeffrey-levin/index.md), [Knut-Koupée Music](../../topics/knut-koup-e-music/index.md), [Matt Umanov](../../topics/matt-umanov/index.md), [Matt Umanov Guitars](../../topics/matt-umanov-guitars/index.md), [museum](../../topics/museum/index.md), [My Name Is Prince (exhibition)](../../topics/exhibition/my-name-is-prince/index.md), [Owen Husney](../../topics/owen-husney/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Record Plant](../../topics/record-plant/index.md), [Sardonyx](../../topics/sardonyx/index.md), [Sausalito (place)](../../topics/place/sausalito/index.md), [Smithsonian (place)](../../topics/place/smithsonian/index.md) ([mirror](https://web.archive.org/web/*/https://madcatsandclouds.com/2018/12/30/the-cloud-bass/))
 
 ----
@@ -20,15 +28,7 @@
 
 ----
 
- - [**"Music by Prince’s father featured on new album, tracking ‘that DNA thing’"**](https://apnews.com/869e0302972c4e36aa99981332602cd0) in [Associated Press News](https://apnews.com/) on 9 March 2018 about [John L. Nelson](../../topics/john-l-nelson/index.md), [museum](../../topics/museum/index.md), [Owen Husney](../../topics/owen-husney/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Trump](../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/869e0302972c4e36aa99981332602cd0))
-
-----
-
  - [**"Auction offers never-released Prince recordings, guitar, ex’s wedding dress"**](https://apnews.com/a37b4dffd41e4f0aa89ed41ee05e4185) by Paul Walsh in [Associated Press News](https://apnews.com/) on 5 November 2017 about [auction](../../topics/auction/index.md), [contract](../../topics/contract/index.md), [Got a Broken Heart Again (song)](../../topics/song/got-a-broken-heart-again/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Michael Kirk](../../topics/michael-kirk/index.md), [Owen Husney](../../topics/owen-husney/index.md), [Rave Un2 the Joy Fantastic (album)](../../topics/album/rave-un2-the-joy-fantastic/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/a37b4dffd41e4f0aa89ed41ee05e4185))
-
-----
-
- - [**"Austin's SXSW turns purple on St. Paddy's Day with Prince tributes -- Music megafest featured outdoor concert and two panels in his memory."**](http://www.startribune.com/austin-s-sxsw-turns-purple-on-st-patty-s-day-with-prince-tributes/416509783/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 March 2017 about [Owen Husney](../../topics/owen-husney/index.md), [Trump](../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/austin-s-sxsw-turns-purple-on-st-patty-s-day-with-prince-tributes/416509783/))
 
 ----
 

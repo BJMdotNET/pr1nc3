@@ -30,10 +30,6 @@
 
 ----
 
- - [**"Jazz legend Herbie Hancock talks music, recovery and partying with Prince                                     -- Jazz giant Herbie Hancock is working on an album with Snoop and Pharrell; he'll preview it at the Minnesota Zoo. "**](http://www.startribune.com/jazz-legend-herbie-hancock-talks-music-recovery-and-partying-with-prince/439675873/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 August 2017 about [Joni Mitchell](../../topics/joni-mitchell/index.md), [memoir](../../topics/memoir/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Trump](../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/jazz-legend-herbie-hancock-talks-music-recovery-and-partying-with-prince/439675873/))
-
-----
-
  - [**"'Empire' will air special Prince-themed episode"**](http://www.startribune.com/empire-will-air-special-prince-themed-episode/439360933/) by Neal Justin in [Minneapolis Star Tribune](http://www.startribune.com/) on 9 August 2017 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/empire-will-air-special-prince-themed-episode/439360933/))
 
 ----

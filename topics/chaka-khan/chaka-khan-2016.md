@@ -1,11 +1,5 @@
 # Chaka Khan: 2016
 
-## December 2016
-
- - [**"Prince death, mall attack among year’s top Minnesota stories"**](https://apnews.com/f4859fe2db0e4820b8062b664141a973) in [Associated Press News](https://apnews.com/) on 24 December 2016 about [Chaka Khan](../../topics/chaka-khan/index.md), [Donald Trump](../../topics/donald-trump/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [museum](../../topics/museum/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Trump](../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/f4859fe2db0e4820b8062b664141a973))
-
-----
-
 ## October 2016
 
  - [**"Stevie Wonder, Chaka Khan headline Prince tribute show"**](https://apnews.com/776650efcc1b4b3997f8af7b73f4e16c) in [Associated Press News](https://apnews.com/) on 14 October 2016 about [Anita Baker](../../topics/anita-baker/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Chris Coleman](../../topics/chris-coleman/index.md), [Christina Aguilera](../../topics/christina-aguilera/index.md), [Doug E. Fresh](../../topics/doug-e-fresh/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Jessie J](../../topics/jessie-j/index.md), [John Mayer](../../topics/john-mayer/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Prince Day](../../topics/prince-day/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Tori Kelly](../../topics/tori-kelly/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/776650efcc1b4b3997f8af7b73f4e16c))

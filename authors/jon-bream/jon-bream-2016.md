@@ -46,10 +46,6 @@
 
 ----
 
- - [**"Boy George dishes on Prince and promises 'gorgeousness' at Twin Cities show -- Boy George speaks his mind, chatting about Prince, Trump and Culture Club's Twin Cities concert this weekend."**](http://www.startribune.com/boy-george-dishes-on-prince-and-promises-gorgeousness-at-twin-cities-show/387819481/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 July 2016 about [Donald Trump](../../topics/donald-trump/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [London (place)](../../topics/place/london/index.md), [The Revolution](../../topics/the-revolution/index.md), [Trump](../../topics/trump/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/boy-george-dishes-on-prince-and-promises-gorgeousness-at-twin-cities-show/387819481/))
-
-----
-
  - [**"Morris Day and the Time perform with Purple pride at the Minnesota Zoo"**](http://www.startribune.com/morris-day-and-the-time-perform-with-purple-pride-at-the-minnesota-zoo/385161471/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 1 July 2016 about [Morris Day](../../topics/morris-day/index.md), [The Time](../../topics/the-time/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/morris-day-and-the-time-perform-with-purple-pride-at-the-minnesota-zoo/385161471/))
 
 ----

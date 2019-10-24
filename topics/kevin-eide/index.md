@@ -1,15 +1,14 @@
 # Kevin Eide
 
   * [2019](./kevin-eide-2019.md): 
+      October (5) | 
       April (2) | 
   * [2018](./kevin-eide-2018.md): 
-      May (1) | 
       March (1) | 
   * [2017](./kevin-eide-2017.md): 
       October (1) | 
       July (1) | 
-      May (2) | 
-      April (3) | 
+      May (1) | 
       January (1) | 
   * [2016](./kevin-eide-2016.md): 
       October (3) | 

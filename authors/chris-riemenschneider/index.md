@@ -1,7 +1,7 @@
 # Chris Riemenschneider
 
   * [2019](./chris-riemenschneider-2019.md): 
-      August (1) | 
+      October (5) | 
       July (1) | 
       June (2) | 
       April (4) | 
@@ -18,8 +18,7 @@
       August (2) | 
       July (2) | 
       June (3) | 
-      April (4) | 
-      March (1) | 
+      April (3) | 
   * [2016](./chris-riemenschneider-2016.md): 
       December (1) | 
       November (1) | 
@@ -27,9 +26,9 @@
       September (1) | 
       August (1) | 
       July (2) | 
-      June (2) | 
+      June (1) | 
       May (2) | 
-      April (4) | 
+      April (3) | 
       March (1) | 
       February (1) | 
       January (1) | 

@@ -6,25 +6,9 @@
 
 ----
 
-## October 2018
-
- - [**"Prince estate tells Donald Trump to stop playing ‘Purple Rain’ at campaign rallies"**](https://apnews.com/c4bbf717114ff1f40a142ae260f5afd1) by Andrew Blake (The Washington Times) in [Associated Press News](https://apnews.com/) on 13 October 2018 about [Donald Trump](../../topics/donald-trump/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Trump](../../topics/trump/index.md), [White House (place)](../../topics/place/white-house/index.md), [YouTube](../../topics/youtube/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/c4bbf717114ff1f40a142ae260f5afd1))
-
-----
-
- - [**"Prince estate to Trump: Stop using music at rallies"**](https://apnews.com/af0a5a4fc34d48ffb9f29da4c5ef9771) by The Associated Press in [Associated Press News](https://apnews.com/) on 12 October 2018 about [Donald Trump](../../topics/donald-trump/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Trump](../../topics/trump/index.md), [White House (place)](../../topics/place/white-house/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/af0a5a4fc34d48ffb9f29da4c5ef9771))
-
-----
-
 ## September 2018
 
  - [**"Thanks to a University of Minnesota degree, his name is ‘Dr. Prince’ now"**](https://apnews.com/38a03f35b393465ba72fa83d6841b3a3) in [Associated Press News](https://apnews.com/) on 27 September 2018 about [Central High](../../topics/central-high/index.md), [Cloud guitar](../../topics/cloud-guitar/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [museum](../../topics/museum/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Paul Peterson](../../topics/paul-peterson/index.md), [St. Paul Peterson](../../topics/st-paul-peterson/index.md), [Tommy Barbarella](../../topics/tommy-barbarella/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/38a03f35b393465ba72fa83d6841b3a3))
-
-----
-
-## May 2018
-
- - [**"As Prince heirs stew, bankers and lawyers cash in on estate"**](https://apnews.com/d9847863113d4ff8bd70850dd6a6cd2e) by Steve Karnowski (Associated Press) in [Associated Press News](https://apnews.com/) on 18 May 2018 about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Carver County](../../topics/carver-county/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Tidal](../../topics/tidal/index.md), [Troy Carter](../../topics/troy-carter/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Universal Music Group](../../topics/universal-music-group/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/d9847863113d4ff8bd70850dd6a6cd2e))
 
 ----
 

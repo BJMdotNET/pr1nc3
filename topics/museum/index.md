@@ -1,7 +1,7 @@
 # museum
 
   * [2019](./museum-2019.md): 
-      October (2) | 
+      October (8) | 
       September (3) | 
       August (9) | 
       July (4) | 
@@ -14,9 +14,7 @@
       October (1) | 
       September (2) | 
       August (1) | 
-      July (1) | 
       April (3) | 
-      March (1) | 
       February (1) | 
       January (2) | 
   * [2017](./museum-2017.md): 
@@ -24,10 +22,9 @@
       October (2) | 
       August (1) | 
       May (1) | 
-      April (9) | 
+      April (6) | 
       March (1) | 
   * [2016](./museum-2016.md): 
-      December (1) | 
       November (3) | 
       October (10) | 
       September (3) | 

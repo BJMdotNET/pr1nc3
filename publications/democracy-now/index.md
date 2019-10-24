@@ -1,7 +1,7 @@
 # Democracy Now
 
   * 2019: 
-      [July](./democracy-now-2019-07.md) (1) | 
+      [October](./democracy-now-2019-10.md) (1) | 
 
 ----
 

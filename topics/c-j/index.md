@@ -1,6 +1,7 @@
 # C.J.
 
   * [2019](./c-j-2019.md): 
+      October (1) | 
       September (2) | 
       July (1) | 
       April (1) | 
@@ -14,7 +15,6 @@
       May (3) | 
       April (4) | 
       March (1) | 
-      February (1) | 
   * [2015](./c-j-2015.md): 
       November (1) | 
       August (1) | 

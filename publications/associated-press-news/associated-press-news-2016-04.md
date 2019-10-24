@@ -8,10 +8,6 @@
 
 ----
 
- - [**"Fans’ Holy Grail: unreleased songs in Prince’s vault"**](https://apnews.com/73b9ba74daa4423bb36ac62d4655a71b) in [Associated Press News](https://apnews.com/) on 29 April 2016 about [Bangles](../../topics/bangles/index.md), [Bremer Trust](../../topics/bremer-trust/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/73b9ba74daa4423bb36ac62d4655a71b))
-
-----
-
  - [**"Prince death investigation focuses on flight, drugs, doctor"**](https://apnews.com/175b0bd7f6f641b1b9b90b268bb3375e) in [Associated Press News](https://apnews.com/) on 29 April 2016 about [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [Sheila E.](../../topics/sheila-e/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/175b0bd7f6f641b1b9b90b268bb3375e))
 
 ----
@@ -56,23 +52,11 @@
 
 ----
 
- - [**"Magic memories: Prince’s warmth and wit shone in private"**](https://apnews.com/cf2e87db1753473eb63165d807bd45c2) in [Associated Press News](https://apnews.com/) on 23 April 2016 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [James Brown](../../topics/james-brown/index.md), [Joshua Welton](../../topics/joshua-welton/index.md), [Larry Graham](../../topics/larry-graham/index.md), [memoir](../../topics/memoir/index.md), [NPG Records](../../topics/npg-records/index.md), [piracy](../../topics/piracy/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md), [YouTube](../../topics/youtube/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/cf2e87db1753473eb63165d807bd45c2))
-
-----
-
  - [**"Prince’s former wives issue messages of grief"**](https://apnews.com/e1248c7300a445e0a07e438cf492a4c4) by The Associated Press in [Associated Press News](https://apnews.com/) on 23 April 2016 about [In a Perfect World](../../topics/in-a-perfect-world/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/e1248c7300a445e0a07e438cf492a4c4))
 
 ----
 
  - [**"The Latest: Prince to be honored in New Orleans jazz funeral"**](https://apnews.com/2bff71641de848cdb8d414528b9686a5) in [Associated Press News](https://apnews.com/) on 23 April 2016 about [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [Sheila E.](../../topics/sheila-e/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/2bff71641de848cdb8d414528b9686a5))
-
-----
-
- - [**"5 ways Prince slammed high tech in music"**](https://apnews.com/f4cdf36615b446d6bf994eab8ab22379) in [Associated Press News](https://apnews.com/) on 22 April 2016 about [James Brown](../../topics/james-brown/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Tidal](../../topics/tidal/index.md), [YouTube](../../topics/youtube/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/f4cdf36615b446d6bf994eab8ab22379))
-
-----
-
- - [**"A day with Prince at Paisley Park"**](https://apnews.com/948911d73f9941fd938df975a3dc5f6f) by Nekesa Mumbi Moody (Associated Press) in [Associated Press News](https://apnews.com/) on 22 April 2016 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [contract](../../topics/contract/index.md), [Donna Grantis](../../topics/donna-grantis/index.md), [James Brown](../../topics/james-brown/index.md), [Joshua Welton](../../topics/joshua-welton/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Rita Ora](../../topics/rita-ora/index.md), [YouTube](../../topics/youtube/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/948911d73f9941fd938df975a3dc5f6f))
 
 ----
 
@@ -97,10 +81,6 @@
 ----
 
  - [**"Prince, hugely inventive, influential musician, dead at 57"**](https://apnews.com/988e107cf6964494b58ad2ca9bcd0985) in [Associated Press News](https://apnews.com/) on 22 April 2016 about [Academy Award](../../topics/academy-award/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Bangles](../../topics/bangles/index.md), [contract](../../topics/contract/index.md), [I Wanna Be Your Lover (song)](../../topics/song/i-wanna-be-your-lover/index.md), [James Brown](../../topics/james-brown/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Obama](../../topics/obama/index.md), [Roger Ebert](../../topics/roger-ebert/index.md), [Tidal](../../topics/tidal/index.md), [Vanity](../../topics/vanity/index.md), [White House (place)](../../topics/place/white-house/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/988e107cf6964494b58ad2ca9bcd0985))
-
-----
-
- - [**"The Latest: Tributes to Prince spring up across the US"**](https://apnews.com/debddfb333364e4091f0989c39458119) in [Associated Press News](https://apnews.com/) on 22 April 2016 about [Carver County](../../topics/carver-county/index.md), [contract](../../topics/contract/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Obama](../../topics/obama/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/debddfb333364e4091f0989c39458119))
 
 ----
 

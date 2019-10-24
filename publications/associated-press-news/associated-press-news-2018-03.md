@@ -24,15 +24,7 @@
 
 ----
 
- - [**"Music by Prince’s father featured on new album, tracking ‘that DNA thing’"**](https://apnews.com/869e0302972c4e36aa99981332602cd0) in [Associated Press News](https://apnews.com/) on 9 March 2018 about [John L. Nelson](../../topics/john-l-nelson/index.md), [museum](../../topics/museum/index.md), [Owen Husney](../../topics/owen-husney/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Trump](../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/869e0302972c4e36aa99981332602cd0))
-
-----
-
  - [**"Paper: Solicitor’s records show $932 island hotel spending"**](https://apnews.com/9079400c8e7745559ed13953e9a658ef) in [Associated Press News](https://apnews.com/) on 9 March 2018 about [Minnesota Twins](../../topics/minnesota-twins/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/9079400c8e7745559ed13953e9a658ef))
-
-----
-
- - [**"Review: John L. Nelson Project records jazz by Prince’s dad"**](https://apnews.com/5dc00ec90459479b8a584f9ab9969188) in [Associated Press News](https://apnews.com/) on 7 March 2018 about [John L. Nelson](../../topics/john-l-nelson/index.md), [Trump](../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/5dc00ec90459479b8a584f9ab9969188))
 
 ----
 

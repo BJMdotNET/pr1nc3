@@ -1,6 +1,7 @@
 # Xcel Energy Center (place)
 
   * [2019](./xcel-energy-center-place-2019.md): 
+      October (1) | 
       April (1) | 
   * [2018](./xcel-energy-center-place-2018.md): 
       January (2) | 
@@ -8,7 +9,6 @@
       October (5) | 
       September (2) | 
       August (1) | 
-      July (1) | 
 
 ----
 

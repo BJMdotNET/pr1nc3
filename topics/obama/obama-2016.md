@@ -1,11 +1,5 @@
 # Obama: 2016
 
-## November 2016
-
- - [**"Drake, Bieber win big, Selena Gomez gets emotional at AMAs"**](https://apnews.com/d90b510be7564038ab7ceed50f3bd1ba) in [Associated Press News](https://apnews.com/) on 21 November 2016 about [Apple Music](../../topics/apple-music/index.md), [Donald Trump](../../topics/donald-trump/index.md), [Obama](../../topics/obama/index.md), [Trump](../../topics/trump/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/d90b510be7564038ab7ceed50f3bd1ba))
-
-----
-
 ## September 2016
 
  - [**"The Power — and Piousness — and Frustration — and Sorrow — of One -- How Cheryl Johnson became C.J., the most infamous journalist in Minnesota"**](https://www.minnesotamonthly.com/lifestyle/the-power-and-piousness-and-frustration-and-sorrow-of-one/) in [Minnesota Monthly](https://www.minnesotamonthly.com/) on 8 September 2016 about [auction](../../topics/auction/index.md), [C.J.](../../topics/c-j/index.md), [Colleen (song)](../../topics/song/colleen/index.md), [contract](../../topics/contract/index.md), [exhibit](../../topics/exhibit/index.md), [Minnesota Timberwolves](../../topics/minnesota-timberwolves/index.md), [Obama](../../topics/obama/index.md), [State Fair](../../topics/state-fair/index.md), [Timberwolves](../../topics/timberwolves/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md) ([mirror](https://web.archive.org/web/*/https://www.minnesotamonthly.com/lifestyle/the-power-and-piousness-and-frustration-and-sorrow-of-one/))
@@ -31,10 +25,6 @@
 ----
 
  - [**"Prince, hugely inventive, influential musician, dead at 57"**](https://apnews.com/988e107cf6964494b58ad2ca9bcd0985) in [Associated Press News](https://apnews.com/) on 22 April 2016 about [Academy Award](../../topics/academy-award/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Bangles](../../topics/bangles/index.md), [contract](../../topics/contract/index.md), [I Wanna Be Your Lover (song)](../../topics/song/i-wanna-be-your-lover/index.md), [James Brown](../../topics/james-brown/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Obama](../../topics/obama/index.md), [Roger Ebert](../../topics/roger-ebert/index.md), [Tidal](../../topics/tidal/index.md), [Vanity](../../topics/vanity/index.md), [White House (place)](../../topics/place/white-house/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/988e107cf6964494b58ad2ca9bcd0985))
-
-----
-
- - [**"The Latest: Tributes to Prince spring up across the US"**](https://apnews.com/debddfb333364e4091f0989c39458119) in [Associated Press News](https://apnews.com/) on 22 April 2016 about [Carver County](../../topics/carver-county/index.md), [contract](../../topics/contract/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Obama](../../topics/obama/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/debddfb333364e4091f0989c39458119))
 
 ----
 

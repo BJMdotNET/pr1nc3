@@ -1,5 +1,19 @@
 # New Power Generation: 2019
 
+## October 2019
+
+ - [**"Welcome To The Dawn… The Versace Experience"**](https://blog.discogs.com/en/welcome-to-the-dawn-the-versace-experience/) in [blog.discogs.com](https://blog.discogs.com/) on 24 October 2019 about [bootleg](../../topics/bootleg/index.md), [Eye Records](../../topics/eye-records/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [The Gold Experience (album)](../../topics/album/the-gold-experience/index.md), [The Versace Experience (Prelude 2 Gold) (album)](../../topics/album/the-versace-experience-prelude-2-gold/index.md) ([mirror](https://web.archive.org/web/*/https://blog.discogs.com/en/welcome-to-the-dawn-the-versace-experience/))
+
+----
+
+ - [**"Hornheads jazz group creates unique sound -- The five-piece a cappella horn section records and plays all over the globe."**](http://www.startribune.com/hornheads-jazz-group-creates-unique-sound/302567351/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 24 October 2019 about [Chaka Khan](../../topics/chaka-khan/index.md), [Dave Jensen](../../topics/dave-jensen/index.md), [Everything Blows (album)](../../topics/album/everything-blows/index.md), [Hornheads](../../topics/hornheads/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Kathy Jensen](../../topics/kathy-jensen/index.md), [Kenni Holmen](../../topics/kenni-holmen/index.md), [Michael Nelson](../../topics/michael-nelson/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Steve Strand](../../topics/steve-strand/index.md), [Trump](../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/hornheads-jazz-group-creates-unique-sound/302567351/))
+
+----
+
+ - [**"Deals ensure cash keeps flowing to unsettled Prince estate"**](https://apnews.com/ea32a54490474eccad7364653ab698f8) in [Associated Press News](https://apnews.com/) on 24 October 2019 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Alfred Jackson](../../topics/alfred-jackson/index.md), [Celebration 2017](../../topics/celebration-2017/index.md), [Comerica Bank & Trust](../../topics/comerica-bank-trust/index.md), [Graceland](../../topics/graceland/index.md), [Joel Weinshanker](../../topics/joel-weinshanker/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Morris Day](../../topics/morris-day/index.md), [museum](../../topics/museum/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Shelby J.](../../topics/shelby-j/index.md), [Spotify](../../topics/spotify/index.md), [The Time](../../topics/the-time/index.md), [Tidal](../../topics/tidal/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Universal Music Group](../../topics/universal-music-group/index.md), [Van Jones](../../topics/van-jones/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/ea32a54490474eccad7364653ab698f8))
+
+----
+
 ## September 2019
 
  - [**"Fire devastates home, gear of New Power Generation keyboardist Morris Hayes"**](https://blog.thecurrent.org/2019/09/fire-devastates-home-gear-of-new-power-generation-keyboardist-morris-hayes/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 19 September 2019 about [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Hayes](../../topics/morris-hayes/index.md), [New Power Generation](../../topics/new-power-generation/index.md) ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2019/09/fire-devastates-home-gear-of-new-power-generation-keyboardist-morris-hayes/))

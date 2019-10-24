@@ -8,10 +8,6 @@
 
 ----
 
- - [**"Prince sells 1M songs, 231K albums posthumously"**](https://usatoday.com/story/life/music/2016/04/22/prince-sales-death/83376684/) in [USA Today](https://usatoday.com/) on 23 April 2016 about [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Tidal](../../topics/tidal/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2016/04/22/prince-sales-death/83376684/))
-
-----
-
  - [**"Prince 911 call: Read the transcript"**](https://usatoday.com/story/life/people/2016/04/21/transcript-of-911-call-to-princes-compound/83368052/) in [USA Today](https://usatoday.com/) on 22 April 2016 about [Audubon Road](../../topics/audubon-road/index.md), [Carver County](../../topics/carver-county/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/people/2016/04/21/transcript-of-911-call-to-princes-compound/83368052/))
 
 ----

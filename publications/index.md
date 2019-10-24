@@ -18,6 +18,7 @@
   * [Billboard](./billboard/) (19)
   * [Biography](./biography/) (1)
   * [Blitz](./blitz/) (1)
+  * [blog.discogs.com](./blog-discogs-com/) (1)
   * [The Bookseller](./the-bookseller/) (1)
   * [Box In A Suitcase](./box-in-a-suitcase/) (1)
   * [Bring Me The News](./bring-me-the-news/) (8)

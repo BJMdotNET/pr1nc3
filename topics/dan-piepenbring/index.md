@@ -1,9 +1,8 @@
 # Dan Piepenbring
 
   * [2019](./dan-piepenbring-2019.md): 
-      October (3) | 
-      September (6) | 
-      August (2) | 
+      October (6) | 
+      September (5) | 
       April (5) | 
 
 ----

@@ -42,21 +42,11 @@
 
 ----
 
- - [**"Floodgates are about to open on Prince's career after death -- A year after he died, Prince's lucrative second career is taking off. The industry moguls he despised are calling the shots — and his wishes don't apply."**](http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 April 2017 about [Bravado](../../topics/bravado/index.md), [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [contract](../../topics/contract/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [merchandise](../../topics/merchandise/index.md), [museum](../../topics/museum/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/))
-
-----
-
  - [**"'Rehabilitated' Paisley Park takes center stage for Prince anniversary -- Graceland firm remakes studio into a showplace."**](http://www.startribune.com/rehabilitated-paisley-park-takes-center-stage-for-prince-anniversary/419571163/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 17 April 2017 about [Bremer Trust](../../topics/bremer-trust/index.md), [Celebration](../../topics/celebration/index.md), [Denny Laufenburger](../../topics/denny-laufenburger/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [Joel Weinshanker](../../topics/joel-weinshanker/index.md), [museum](../../topics/museum/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/rehabilitated-paisley-park-takes-center-stage-for-prince-anniversary/419571163/))
 
 ----
 
  - [**"You don't have to be rich! Your guide to Prince anniversary events in Minnesota -- A guide to this week's tributes to the hometown icon on (and around) the anniversary of his death."**](http://www.startribune.com/you-don-t-have-to-be-rich-your-guide-to-prince-memorial-week-events-in-minnesota/419480573/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 17 April 2017 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/you-don-t-have-to-be-rich-your-guide-to-prince-memorial-week-events-in-minnesota/419480573/))
-
-----
-
-## March 2017
-
- - [**"Austin's SXSW turns purple on St. Paddy's Day with Prince tributes -- Music megafest featured outdoor concert and two panels in his memory."**](http://www.startribune.com/austin-s-sxsw-turns-purple-on-st-patty-s-day-with-prince-tributes/416509783/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 March 2017 about [Owen Husney](../../topics/owen-husney/index.md), [Trump](../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/austin-s-sxsw-turns-purple-on-st-patty-s-day-with-prince-tributes/416509783/))
 
 ----
 

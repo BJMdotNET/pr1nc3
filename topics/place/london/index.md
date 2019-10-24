@@ -1,5 +1,9 @@
 # London (place)
 
+ - [**"Boy George dishes on Prince and promises 'gorgeousness' at Twin Cities show -- Boy George speaks his mind, chatting about Prince, Trump and Culture Club's Twin Cities concert this weekend."**](http://www.startribune.com/boy-george-dishes-on-prince-and-promises-gorgeousness-at-twin-cities-show/387819481/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 24 October 2019 about [Donald Trump](../../../topics/donald-trump/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [London (place)](../../../topics/place/london/index.md), [The Revolution](../../../topics/the-revolution/index.md), [Trump](../../../topics/trump/index.md), [Xcel Energy Center (place)](../../../topics/place/xcel-energy-center/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/boy-george-dishes-on-prince-and-promises-gorgeousness-at-twin-cities-show/387819481/))
+
+----
+
  - [**"AM Prep-Music -- PRINCE’S PERSONAL ITEMS GO ON DISPLAY IN LONDON"**](https://apnews.com/28703b322bd34762b8d47ec043e9c98a) in [Associated Press News](https://apnews.com/) on 27 October 2017 about [London (place)](../../../topics/place/london/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/28703b322bd34762b8d47ec043e9c98a))
 
 ----
@@ -17,10 +21,6 @@
 ----
 
  - [**"Nearly 6 months later, Prince superfans still mourning"**](https://apnews.com/5f2143ac989a4626b2cf7b8620a6a28c) in [Associated Press News](https://apnews.com/) on 12 October 2016 about [Atlanta (place)](../../../topics/place/atlanta/index.md), [London (place)](../../../topics/place/london/index.md), [museum](../../../topics/museum/index.md), [YouTube](../../../topics/youtube/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/5f2143ac989a4626b2cf7b8620a6a28c))
-
-----
-
- - [**"Boy George dishes on Prince and promises 'gorgeousness' at Twin Cities show -- Boy George speaks his mind, chatting about Prince, Trump and Culture Club's Twin Cities concert this weekend."**](http://www.startribune.com/boy-george-dishes-on-prince-and-promises-gorgeousness-at-twin-cities-show/387819481/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 July 2016 about [Donald Trump](../../../topics/donald-trump/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [London (place)](../../../topics/place/london/index.md), [The Revolution](../../../topics/the-revolution/index.md), [Trump](../../../topics/trump/index.md), [Xcel Energy Center (place)](../../../topics/place/xcel-energy-center/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/boy-george-dishes-on-prince-and-promises-gorgeousness-at-twin-cities-show/387819481/))
 
 ----
 

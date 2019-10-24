@@ -1,6 +1,6 @@
 # time.com: October 2019
 
- - [**"Prince Estate Slams Trump For Playing 'Purple Rain' at a Campaign Rally in Minneapolis"**](https://time.com/5698383/prince-estate-condemns-donald-trump-rally-using-purple-rain/) in [time.com](https://time.com/) on 11 October 2019 about [Donald Trump](../../topics/donald-trump/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Trump](../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/https://time.com/5698383/prince-estate-condemns-donald-trump-rally-using-purple-rain/))
+ - [**"Prince Estate Slams Trump For Playing 'Purple Rain' at a Campaign Rally in Minneapolis"**](https://time.com/5698383/prince-estate-condemns-donald-trump-rally-using-purple-rain/) in [time.com](https://time.com/) on 24 October 2019 about [Donald Trump](../../topics/donald-trump/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Trump](../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/https://time.com/5698383/prince-estate-condemns-donald-trump-rally-using-purple-rain/))
 
 ----
 

@@ -1,15 +1,15 @@
 # The Time
 
   * [2019](./the-time-2019.md): 
-      October (8) | 
+      October (11) | 
       September (2) | 
-      July (7) | 
+      July (6) | 
       June (10) | 
-      April (5) | 
+      April (4) | 
   * [2017](./the-time-2017.md): 
       December (3) | 
       July (1) | 
-      April (2) | 
+      April (1) | 
   * [2016](./the-time-2016.md): 
       November (1) | 
       October (1) | 

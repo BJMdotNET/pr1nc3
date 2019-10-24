@@ -1,8 +1,8 @@
 # Prince Estate
 
   * [2019](./prince-estate-2019.md): 
-      October (12) | 
-      September (17) | 
+      October (20) | 
+      September (16) | 
       August (7) | 
       July (2) | 
       June (6) | 
@@ -12,10 +12,9 @@
   * [2018](./prince-estate-2018.md): 
       December (4) | 
       November (4) | 
-      October (5) | 
+      October (2) | 
       September (3) | 
       August (3) | 
-      July (1) | 
       June (4) | 
       May (2) | 
   * [2017](./prince-estate-2017.md): 
@@ -23,7 +22,6 @@
       July (1) | 
       June (1) | 
       May (1) | 
-      April (3) | 
       January (5) | 
   * [2016](./prince-estate-2016.md): 
       October (4) | 

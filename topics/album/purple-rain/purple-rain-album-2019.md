@@ -1,5 +1,11 @@
 # Purple Rain (album): 2019
 
+## October 2019
+
+ - [**"How Long Does It Take to Make a Classic Album? -- From D’Angelo’s infamously slow creative pace to Frank Sinatra’s rapid-fire release schedule, our expectations of artists’ output have always been in flux."**](https://pitchfork.com/features/article/how-long-does-it-take-to-make-a-classic-album/) by Ann-Derrick Gaillot in [Pitchfork](https://pitchfork.com/) on 24 October 2019 about [1999 (album)](../../../topics/album/1999/index.md), [contract](../../../topics/contract/index.md), [Miles Davis](../../../topics/miles-davis/index.md), [Purple Rain (album)](../../../topics/album/purple-rain/index.md), [Spotify](../../../topics/spotify/index.md), [Stevie Wonder](../../../topics/stevie-wonder/index.md), [Trump](../../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/https://pitchfork.com/features/article/how-long-does-it-take-to-make-a-classic-album/))
+
+----
+
 ## August 2019
 
  - [**"The Revolution, Prince's backing band during the 'Purple Rain' days, continues Reading's Downtown Alive series -- The group will play a free concert on Wednesday evening in the 500 block of Penn Street."**](https://www.readingeagle.com/weekend/article/readings-downtown-alive-series-says-welcome-to-the-revolution) in [Reading Eagle](https://www.readingeagle.com/) on 7 August 2019 about [1999 (album)](../../../topics/album/1999/index.md), [Around The World In A Day (album)](../../../topics/album/around-the-world-in-a-day/index.md), [Bobby Z.](../../../topics/bobby-z/index.md), [Brown Mark](../../../topics/brown-mark/index.md), [BrownMark](../../../topics/brownmark/index.md), [BrownMark Nation](../../../topics/brownmark-nation/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Lisa Coleman](../../../topics/lisa-coleman/index.md), [Matt Fink](../../../topics/matt-fink/index.md), [Mazarati](../../../topics/mazarati/index.md), [Parade (album)](../../../topics/album/parade/index.md), [Purple Rain (album)](../../../topics/album/purple-rain/index.md), [The Revolution](../../../topics/the-revolution/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md) ([mirror](https://web.archive.org/web/*/https://www.readingeagle.com/weekend/article/readings-downtown-alive-series-says-welcome-to-the-revolution))
@@ -21,10 +27,6 @@
 ----
 
  - [**"Prince Never Acted Before 'Purple Rain.' Then He Became a Household Name -- The movie and album would come to help define the 1980s and catapult the performer to global fame."**](https://www.biography.com/news/prince-purple-rain-album-movie) by Colin Bertram in [Biography](https://www.biography.com/) on 25 July 2019 about [Academy Award](../../../topics/academy-award/index.md), [Alan Light](../../../topics/alan-light/index.md), [Albert Magnoli](../../../topics/albert-magnoli/index.md), [Apollonia Kotero](../../../topics/apollonia-kotero/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [I Would Die 4 U (song)](../../../topics/song/i-would-die-4-u/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Morris Day](../../../topics/morris-day/index.md), [Purple Rain (album)](../../../topics/album/purple-rain/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [The Revolution](../../../topics/the-revolution/index.md), [The Time](../../../topics/the-time/index.md), [Vanity](../../../topics/vanity/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://www.biography.com/news/prince-purple-rain-album-movie))
-
-----
-
- - [**"How Long Does It Take to Make a Classic Album? -- From D’Angelo’s infamously slow creative pace to Frank Sinatra’s rapid-fire release schedule, our expectations of artists’ output have always been in flux."**](https://pitchfork.com/features/article/how-long-does-it-take-to-make-a-classic-album/) by Ann-Derrick Gaillot in [Pitchfork](https://pitchfork.com/) on 24 July 2019 about [1999 (album)](../../../topics/album/1999/index.md), [contract](../../../topics/contract/index.md), [Miles Davis](../../../topics/miles-davis/index.md), [Purple Rain (album)](../../../topics/album/purple-rain/index.md), [Stevie Wonder](../../../topics/stevie-wonder/index.md), [Trump](../../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/https://pitchfork.com/features/article/how-long-does-it-take-to-make-a-classic-album/))
 
 ----
 

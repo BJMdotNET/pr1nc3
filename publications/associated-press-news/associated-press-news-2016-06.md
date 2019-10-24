@@ -4,10 +4,6 @@
 
 ----
 
- - [**"BET Awards full of Prince tributes and political moments"**](https://apnews.com/6b28e8f305564390bd4b11732e176683) in [Associated Press News](https://apnews.com/) on 27 June 2016 about [BET Awards](../../topics/bet-awards/index.md), [Donald Trump](../../topics/donald-trump/index.md), [Janelle Monae](../../topics/janelle-monae/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Trump](../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/6b28e8f305564390bd4b11732e176683))
-
-----
-
  - [**"Judge says no hurry in determining Prince claims"**](https://apnews.com/9aed6516c0bf48d28349462372cdec58) in [Associated Press News](https://apnews.com/) on 27 June 2016 about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [John Nelson](../../topics/john-nelson/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/9aed6516c0bf48d28349462372cdec58))
 
 ----

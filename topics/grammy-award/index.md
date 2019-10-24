@@ -1,8 +1,7 @@
 # Grammy Award
 
   * [2019](./grammy-award-2019.md): 
-      October (2) | 
-      July (1) | 
+      October (3) | 
       June (1) | 
       April (2) | 
   * [2018](./grammy-award-2018.md): 

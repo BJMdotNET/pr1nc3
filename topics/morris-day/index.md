@@ -1,10 +1,10 @@
 # Morris Day
 
   * [2019](./morris-day-2019.md): 
-      October (11) | 
-      September (4) | 
-      August (6) | 
-      July (6) | 
+      October (17) | 
+      September (3) | 
+      August (4) | 
+      July (4) | 
       June (4) | 
       April (1) | 
       February (1) | 
@@ -17,7 +17,7 @@
   * [2017](./morris-day-2017.md): 
       December (3) | 
       July (3) | 
-      April (4) | 
+      April (3) | 
   * [2016](./morris-day-2016.md): 
       November (2) | 
       October (3) | 

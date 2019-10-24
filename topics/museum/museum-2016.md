@@ -1,11 +1,5 @@
 # museum: 2016
 
-## December 2016
-
- - [**"Prince death, mall attack among year’s top Minnesota stories"**](https://apnews.com/f4859fe2db0e4820b8062b664141a973) in [Associated Press News](https://apnews.com/) on 24 December 2016 about [Chaka Khan](../../topics/chaka-khan/index.md), [Donald Trump](../../topics/donald-trump/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [museum](../../topics/museum/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Trump](../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/f4859fe2db0e4820b8062b664141a973))
-
-----
-
 ## November 2016
 
  - [**"Around the state: Paisley Park to host Prince celebration"**](https://apnews.com/61839c62b9d94fec885fbf304d279168) in [Associated Press News](https://apnews.com/) on 30 November 2016 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Carver County](../../topics/carver-county/index.md), [Celebration 2017](../../topics/celebration-2017/index.md), [contract](../../topics/contract/index.md), [Morris Day](../../topics/morris-day/index.md), [museum](../../topics/museum/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [The Revolution](../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/61839c62b9d94fec885fbf304d279168))

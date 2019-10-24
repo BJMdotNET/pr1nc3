@@ -2,11 +2,23 @@
 
 ## October 2019
 
- - [**"Listen to Prince's previously unreleased demo for 'I Feel For You'"**](https://ew.com/music/2019/10/18/prince-i-feel-for-you-unreleased-demo/) in [EW (Entertainment Weekly)](https://ew.com/) on 18 October 2019 about [Dan Piepenbring](../../../topics/dan-piepenbring/index.md), [For You (album)](../../../topics/album/for-you/index.md), [I Feel For You (song)](../../../topics/song/i-feel-for-you/index.md), [memoir](../../../topics/memoir/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [The Beautiful Ones (book)](../../../topics/book/the-beautiful-ones/index.md), [The Prince Estate](../../../topics/the-prince-estate/index.md) ([mirror](https://web.archive.org/web/*/https://ew.com/music/2019/10/18/prince-i-feel-for-you-unreleased-demo/))
+ - [**"What made Prince such a formidable talent? And what exactly can we expect from his memoir, out this month?"**](https://www.gqindia.com/magazine-story/made-prince-formidable-talent-exactly-can-expect-memoir-month/) in [www.gqindia.com](https://www.gqindia.com/) on 24 October 2019 about [memoir](../../../topics/memoir/index.md), [The Beautiful Ones (book)](../../../topics/book/the-beautiful-ones/index.md), [vault](../../../topics/vault/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://www.gqindia.com/magazine-story/made-prince-formidable-talent-exactly-can-expect-memoir-month/))
 
 ----
 
- - [**"What made Prince such a formidable talent? And what exactly can we expect from his memoir, out this month?"**](https://www.gqindia.com/magazine-story/made-prince-formidable-talent-exactly-can-expect-memoir-month/) in [www.gqindia.com](https://www.gqindia.com/) on 15 October 2019 about [memoir](../../../topics/memoir/index.md), [The Beautiful Ones (book)](../../../topics/book/the-beautiful-ones/index.md), [vault](../../../topics/vault/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://www.gqindia.com/magazine-story/made-prince-formidable-talent-exactly-can-expect-memoir-month/))
+ - [**"Listen to Prince's previously unreleased demo for 'I Feel For You'"**](https://ew.com/music/2019/10/18/prince-i-feel-for-you-unreleased-demo/) in [EW (Entertainment Weekly)](https://ew.com/) on 24 October 2019 about [Dan Piepenbring](../../../topics/dan-piepenbring/index.md), [For You (album)](../../../topics/album/for-you/index.md), [I Feel For You (song)](../../../topics/song/i-feel-for-you/index.md), [memoir](../../../topics/memoir/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [The Beautiful Ones (book)](../../../topics/book/the-beautiful-ones/index.md), [The Prince Estate](../../../topics/the-prince-estate/index.md) ([mirror](https://web.archive.org/web/*/https://ew.com/music/2019/10/18/prince-i-feel-for-you-unreleased-demo/))
+
+----
+
+ - [**"Fall fiction titles have eye for truth; new poetry, nonfiction and memoirs also due -- Ta-Nehisi Coates, Joy Harjo, Prince, Liz Phair among authors with new works"**](https://www.arkansasonline.com/news/2019/sep/29/fall-fiction-releases-have-eye-for-trut/) in [www.arkansasonline.com](https://www.arkansasonline.com/) on 24 October 2019 about [Dan Piepenbring](../../../topics/dan-piepenbring/index.md), [Donald Trump](../../../topics/donald-trump/index.md), [memoir](../../../topics/memoir/index.md), [Morris Day](../../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../../topics/book/on-time-a-princely-life-in-funk/index.md), [The Beautiful Ones (book)](../../../topics/book/the-beautiful-ones/index.md), [Trump](../../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/https://www.arkansasonline.com/news/2019/sep/29/fall-fiction-releases-have-eye-for-trut/))
+
+----
+
+ - [**"Atwood, Rushdie novels among fall highlights"**](https://apnews.com/10e0c40e0c6c4d5f83f13bef45246a6e) in [Associated Press News](https://apnews.com/) on 24 October 2019 about [Dan Piepenbring](../../../topics/dan-piepenbring/index.md), [Donald Trump](../../../topics/donald-trump/index.md), [memoir](../../../topics/memoir/index.md), [Morris Day](../../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../../topics/book/on-time-a-princely-life-in-funk/index.md), [The Beautiful Ones (book)](../../../topics/book/the-beautiful-ones/index.md), [Trump](../../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/10e0c40e0c6c4d5f83f13bef45246a6e))
+
+----
+
+ - [**"Atwood, Rushdie novels among fall highlights"**](https://www.santacruzsentinel.com/2019/08/29/atwood-rushdie-novels-among-fall-highlights/) in [Santa Cruz Sentinel](https://www.santacruzsentinel.com/) on 24 October 2019 about [Dan Piepenbring](../../../topics/dan-piepenbring/index.md), [Donald Trump](../../../topics/donald-trump/index.md), [memoir](../../../topics/memoir/index.md), [Morris Day](../../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../../topics/book/on-time-a-princely-life-in-funk/index.md), [The Beautiful Ones (book)](../../../topics/book/the-beautiful-ones/index.md), [Trump](../../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/https://www.santacruzsentinel.com/2019/08/29/atwood-rushdie-novels-among-fall-highlights/))
 
 ----
 
@@ -23,10 +35,6 @@
 ----
 
 ## September 2019
-
- - [**"Fall fiction titles have eye for truth; new poetry, nonfiction and memoirs also due -- Ta-Nehisi Coates, Joy Harjo, Prince, Liz Phair among authors with new works"**](https://www.arkansasonline.com/news/2019/sep/29/fall-fiction-releases-have-eye-for-trut/) in [www.arkansasonline.com](https://www.arkansasonline.com/) on 29 September 2019 about [Dan Piepenbring](../../../topics/dan-piepenbring/index.md), [Donald Trump](../../../topics/donald-trump/index.md), [memoir](../../../topics/memoir/index.md), [Morris Day](../../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../../topics/book/on-time-a-princely-life-in-funk/index.md), [The Beautiful Ones (book)](../../../topics/book/the-beautiful-ones/index.md), [Trump](../../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/https://www.arkansasonline.com/news/2019/sep/29/fall-fiction-releases-have-eye-for-trut/))
-
-----
 
  - [**"Susan Kamil, longtime publisher and editor, dead at 69"**](https://apnews.com/b8b2bccd9de741da9e805cb9245d6637) in [Associated Press News](https://apnews.com/) on 10 September 2019 about [memoir](../../../topics/memoir/index.md), [Random House ](../../../topics/random-house/index.md), [The Beautiful Ones (book)](../../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/b8b2bccd9de741da9e805cb9245d6637))
 
@@ -53,14 +61,6 @@
 ----
 
 ## August 2019
-
- - [**"Atwood, Rushdie novels among fall highlights"**](https://www.santacruzsentinel.com/2019/08/29/atwood-rushdie-novels-among-fall-highlights/) in [Santa Cruz Sentinel](https://www.santacruzsentinel.com/) on 29 August 2019 about [Dan Piepenbring](../../../topics/dan-piepenbring/index.md), [Donald Trump](../../../topics/donald-trump/index.md), [memoir](../../../topics/memoir/index.md), [Morris Day](../../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../../topics/book/on-time-a-princely-life-in-funk/index.md), [The Beautiful Ones (book)](../../../topics/book/the-beautiful-ones/index.md), [Trump](../../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/https://www.santacruzsentinel.com/2019/08/29/atwood-rushdie-novels-among-fall-highlights/))
-
-----
-
- - [**"Atwood, Rushdie novels among fall highlights"**](https://apnews.com/10e0c40e0c6c4d5f83f13bef45246a6e) in [Associated Press News](https://apnews.com/) on 28 August 2019 about [Dan Piepenbring](../../../topics/dan-piepenbring/index.md), [Donald Trump](../../../topics/donald-trump/index.md), [memoir](../../../topics/memoir/index.md), [Morris Day](../../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../../topics/book/on-time-a-princely-life-in-funk/index.md), [The Beautiful Ones (book)](../../../topics/book/the-beautiful-ones/index.md), [Trump](../../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/10e0c40e0c6c4d5f83f13bef45246a6e))
-
-----
 
  - [**"Prince’s Estate to Take Over Management of Paisley Park"**](https://variety.com/2019/music/news/prince-estate-take-over-paisley-park-1203316110/) in [Variety](https://variety.com/) on 27 August 2019 about [Ava DuVernay](../../../topics/ava-duvernay/index.md), [contract](../../../topics/contract/index.md), [Graceland](../../../topics/graceland/index.md), [Graceland Holdings](../../../topics/graceland-holdings/index.md), [Joel Weinshanker](../../../topics/joel-weinshanker/index.md), [Kirk Johnson](../../../topics/kirk-johnson/index.md), [memoir](../../../topics/memoir/index.md), [museum](../../../topics/museum/index.md), [Netflix](../../../topics/netflix/index.md), [Sharon Nelson](../../../topics/sharon-nelson/index.md), [The Beautiful Ones (book)](../../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/news/prince-estate-take-over-paisley-park-1203316110/))
 

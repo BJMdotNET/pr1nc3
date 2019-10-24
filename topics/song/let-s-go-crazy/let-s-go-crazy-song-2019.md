@@ -1,5 +1,11 @@
 # Let’s Go Crazy (song): 2019
 
+## October 2019
+
+ - [**"Prince estate tells Donald Trump to stop playing ‘Purple Rain’ at campaign rallies"**](https://apnews.com/c4bbf717114ff1f40a142ae260f5afd1) by Andrew Blake (The Washington Times) in [Associated Press News](https://apnews.com/) on 24 October 2019 about [Donald Trump](../../../topics/donald-trump/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Omarr Baker](../../../topics/omarr-baker/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [The Prince Estate](../../../topics/the-prince-estate/index.md), [Trump](../../../topics/trump/index.md), [White House (place)](../../../topics/place/white-house/index.md), [YouTube](../../../topics/youtube/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/c4bbf717114ff1f40a142ae260f5afd1))
+
+----
+
 ## September 2019
 
  - [**"What do Lizzo, Prince, Lipps Inc., Owl City, Next, and Bobby Vee have in common? Minnesota, and the top of the charts."**](https://blog.thecurrent.org/2019/09/what-do-lizzo-prince-lipps-inc-owl-city-next-and-bobby-vee-have-in-common-minnesota-and-the-top-of-the-charts/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 4 September 2019 about [Batdance (song)](../../../topics/song/batdance/index.md), [BET Awards](../../../topics/bet-awards/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Lizzo](../../../topics/lizzo/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2019/09/what-do-lizzo-prince-lipps-inc-owl-city-next-and-bobby-vee-have-in-common-minnesota-and-the-top-of-the-charts/))

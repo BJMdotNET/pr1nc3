@@ -1,5 +1,31 @@
 # Jon Bream: 2019
 
+## October 2019
+
+ - [**"Remembering Willie Murphy: 'Defiant maverick' who was funky to the bone"**](http://www.startribune.com/remembering-willie-murphy-defiant-maverick-who-was-funky-to-the-bone/504295712/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 24 October 2019 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/remembering-willie-murphy-defiant-maverick-who-was-funky-to-the-bone/504295712/))
+
+----
+
+ - [**"Questlove and the Roots give a Prince-like epic performance at Mystic Lake"**](http://www.startribune.com/questlove-and-the-roots-give-a-prince-like-epic-performance-at-mystic-lake/512044012/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 24 October 2019 about [Questlove](../../topics/questlove/index.md), [Trump](../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/questlove-and-the-roots-give-a-prince-like-epic-performance-at-mystic-lake/512044012/))
+
+----
+
+ - [**"Must-have new book features pre-"Purple Rain" photos of Prince"**](http://www.startribune.com/must-have-new-book-features-pre-purple-rain-photos-of-prince/499037341/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 24 October 2019 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/must-have-new-book-features-pre-purple-rain-photos-of-prince/499037341/))
+
+----
+
+ - [**"Jazz legend Herbie Hancock talks music, recovery and partying with Prince                                     -- Jazz giant Herbie Hancock is working on an album with Snoop and Pharrell; he'll preview it at the Minnesota Zoo. "**](http://www.startribune.com/jazz-legend-herbie-hancock-talks-music-recovery-and-partying-with-prince/439675873/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 24 October 2019 about [Joni Mitchell](../../topics/joni-mitchell/index.md), [memoir](../../topics/memoir/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Trump](../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/jazz-legend-herbie-hancock-talks-music-recovery-and-partying-with-prince/439675873/))
+
+----
+
+ - [**"Boy George dishes on Prince and promises 'gorgeousness' at Twin Cities show -- Boy George speaks his mind, chatting about Prince, Trump and Culture Club's Twin Cities concert this weekend."**](http://www.startribune.com/boy-george-dishes-on-prince-and-promises-gorgeousness-at-twin-cities-show/387819481/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 24 October 2019 about [Donald Trump](../../topics/donald-trump/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [London (place)](../../topics/place/london/index.md), [The Revolution](../../topics/the-revolution/index.md), [Trump](../../topics/trump/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/boy-george-dishes-on-prince-and-promises-gorgeousness-at-twin-cities-show/387819481/))
+
+----
+
+ - [**"Barack Obama names Prince song among his musical favorites of 2018"**](http://www.startribune.com/barack-obama-names-prince-song-among-his-musical-favorites-of-2018/503626142/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 24 October 2019 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/barack-obama-names-prince-song-among-his-musical-favorites-of-2018/503626142/))
+
+----
+
 ## August 2019
 
  - [**"Ava DuVernay quits as director of Netflix's authorized Prince documentary"**](http://www.startribune.com/ava-duvernay-quits-as-director-of-netflix-s-authorized-prince-documentary/557885482/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 August 2019 about [Ava DuVernay](../../topics/ava-duvernay/index.md), [Netflix](../../topics/netflix/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/ava-duvernay-quits-as-director-of-netflix-s-authorized-prince-documentary/557885482/))
@@ -9,10 +35,6 @@
 ## July 2019
 
  - [**"From Neil to J. Lo: The 10 greatest Twin Cities concerts of 2019 (so far) -- Here are the performers who thrilled us."**](http://www.startribune.com/from-neil-to-j-lo-the-10-greatest-twin-cities-concerts-of-2019-so-far/512907922/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 July 2019 about [The Roots](../../topics/the-roots/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/from-neil-to-j-lo-the-10-greatest-twin-cities-concerts-of-2019-so-far/512907922/))
-
-----
-
- - [**"Questlove and the Roots give a Prince-like epic performance at Mystic Lake"**](http://www.startribune.com/questlove-and-the-roots-give-a-prince-like-epic-performance-at-mystic-lake/512044012/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 1 July 2019 about [Questlove](../../topics/questlove/index.md), [Trump](../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/questlove-and-the-roots-give-a-prince-like-epic-performance-at-mystic-lake/512044012/))
 
 ----
 
@@ -99,12 +121,6 @@
 ----
 
  - [**"Prince Celebration 2019 to feature Jesse Johnson, manager Bob Cavallo and live/video concert"**](http://www.startribune.com/prince-celebration-2019-to-feature-jesse-johnson-manager-bob-cavallo-and-live-video-concert/505394312/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 February 2019 about [Bob Cavallo](../../topics/bob-cavallo/index.md), [Celebration 2019](../../topics/celebration-2019/index.md), [Jesse Johnson](../../topics/jesse-johnson/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-celebration-2019-to-feature-jesse-johnson-manager-bob-cavallo-and-live-video-concert/505394312/))
-
-----
-
-## January 2019
-
- - [**"Remembering Willie Murphy: 'Defiant maverick' who was funky to the bone"**](http://www.startribune.com/remembering-willie-murphy-defiant-maverick-who-was-funky-to-the-bone/504295712/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 13 January 2019 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/remembering-willie-murphy-defiant-maverick-who-was-funky-to-the-bone/504295712/))
 
 ----
 

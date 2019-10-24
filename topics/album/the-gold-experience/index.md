@@ -1,5 +1,13 @@
 # The Gold Experience (album)
 
+ - [**"Welcome To The Dawn… The Versace Experience"**](https://blog.discogs.com/en/welcome-to-the-dawn-the-versace-experience/) in [blog.discogs.com](https://blog.discogs.com/) on 24 October 2019 about [bootleg](../../../topics/bootleg/index.md), [Eye Records](../../../topics/eye-records/index.md), [New Power Generation](../../../topics/new-power-generation/index.md), [The Gold Experience (album)](../../../topics/album/the-gold-experience/index.md), [The Versace Experience (Prelude 2 Gold) (album)](../../../topics/album/the-versace-experience-prelude-2-gold/index.md) ([mirror](https://web.archive.org/web/*/https://blog.discogs.com/en/welcome-to-the-dawn-the-versace-experience/))
+
+----
+
+ - [**"Prince’s Versace Experience, With Rare Songs From Paris Fashion Week 1995, Is Now Streaming: Listen -- A limited number of tapes were shared with attendees of the Versace collection"**](https://pitchfork.com/news/princes-versace-experience-with-rare-songs-from-paris-fashion-week-1995-is-now-streaming-listen/) in [Pitchfork](https://pitchfork.com/) on 24 October 2019 about [Prince Estate](../../../topics/prince-estate/index.md), [The Gold Experience (album)](../../../topics/album/the-gold-experience/index.md), [The Prince Estate](../../../topics/the-prince-estate/index.md) ([mirror](https://web.archive.org/web/*/https://pitchfork.com/news/princes-versace-experience-with-rare-songs-from-paris-fashion-week-1995-is-now-streaming-listen/))
+
+----
+
  - [**"Prince’s ‘Come’ Turns 25 -- Anniversary Retrospective -- Happy 25th Anniversary to Prince’s fifteenth studio album Come, originally released August 16, 1994. "**](https://www.albumism.com/features/prince-come-turns-25-anniversary-retrospective) in [Albumism](https://www.albumism.com/) on 14 August 2019 about [contract](../../../topics/contract/index.md), [Letitgo (song)](../../../topics/song/letitgo/index.md), [The Gold Experience (album)](../../../topics/album/the-gold-experience/index.md) ([mirror](https://web.archive.org/web/*/https://www.albumism.com/features/prince-come-turns-25-anniversary-retrospective))
 
 ----

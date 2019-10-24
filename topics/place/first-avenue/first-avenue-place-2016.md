@@ -2,10 +2,6 @@
 
 ## December 2016
 
- - [**"Prince death, mall attack among year’s top Minnesota stories"**](https://apnews.com/f4859fe2db0e4820b8062b664141a973) in [Associated Press News](https://apnews.com/) on 24 December 2016 about [Chaka Khan](../../../topics/chaka-khan/index.md), [Donald Trump](../../../topics/donald-trump/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [museum](../../../topics/museum/index.md), [Stevie Wonder](../../../topics/stevie-wonder/index.md), [Trump](../../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/f4859fe2db0e4820b8062b664141a973))
-
-----
-
  - [**"Susan Rogers - 2016 Red Bull Music Academy lecture"**](https://www.redbullmusicacademy.com/lectures/susan-rogers-lecture) in [Red Bull Music Academy](https://www.redbullmusicacademy.com/) on 8 December 2016 about [17 Days (song)](../../../topics/song/17-days/index.md), [Academy Award](../../../topics/academy-award/index.md), [Anita Baker](../../../topics/anita-baker/index.md), [Bernie Grundman](../../../topics/bernie-grundman/index.md), [bootleg](../../../topics/bootleg/index.md), [Condition of the Heart (song)](../../../topics/song/condition-of-the-heart/index.md), [contract](../../../topics/contract/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Grammy Award](../../../topics/grammy-award/index.md), [James Brown](../../../topics/james-brown/index.md), [Jesse Johnson](../../../topics/jesse-johnson/index.md), [Jill Jones](../../../topics/jill-jones/index.md), [Joni Mitchell](../../../topics/joni-mitchell/index.md), [Kate Bush](../../../topics/kate-bush/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Lisa Coleman](../../../topics/lisa-coleman/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Pop Life (song)](../../../topics/song/pop-life/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [Stevie Wonder](../../../topics/stevie-wonder/index.md), [Sunset Sound (place)](../../../topics/place/sunset-sound/index.md), [Susan Rogers](../../../topics/susan-rogers/index.md), [Susannah Melvoin](../../../topics/susannah-melvoin/index.md), [The Ballad Of Dorothy Parker (song)](../../../topics/song/the-ballad-of-dorothy-parker/index.md), [The Revolution](../../../topics/the-revolution/index.md), [Under the Cherry Moon (movie)](../../../topics/movie/under-the-cherry-moon/index.md), [University of Minnesota](../../../topics/university-of-minnesota/index.md), [Vanity 6](../../../topics/vanity-6/index.md), [vault](../../../topics/vault/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md) ([mirror](https://web.archive.org/web/*/https://www.redbullmusicacademy.com/lectures/susan-rogers-lecture))
 
 ----
@@ -32,10 +28,6 @@
 
 ## July 2016
 
- - [**"Boy George dishes on Prince and promises 'gorgeousness' at Twin Cities show -- Boy George speaks his mind, chatting about Prince, Trump and Culture Club's Twin Cities concert this weekend."**](http://www.startribune.com/boy-george-dishes-on-prince-and-promises-gorgeousness-at-twin-cities-show/387819481/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 July 2016 about [Donald Trump](../../../topics/donald-trump/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [London (place)](../../../topics/place/london/index.md), [The Revolution](../../../topics/the-revolution/index.md), [Trump](../../../topics/trump/index.md), [Xcel Energy Center (place)](../../../topics/place/xcel-energy-center/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/boy-george-dishes-on-prince-and-promises-gorgeousness-at-twin-cities-show/387819481/))
-
-----
-
  - [**"Prince backup band The Revolution to reunite for 2 shows"**](https://apnews.com/f222d2e94e2c414bb74a9d7bde1de068) in [Associated Press News](https://apnews.com/) on 13 July 2016 about [BrownMark](../../../topics/brownmark/index.md), [Dez Dickerson](../../../topics/dez-dickerson/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Lisa Coleman](../../../topics/lisa-coleman/index.md), [The Revolution](../../../topics/the-revolution/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/f222d2e94e2c414bb74a9d7bde1de068))
 
 ----
@@ -47,10 +39,6 @@
 ----
 
  - [**"Dave Rusan: Building Prince’s Cloud Guitar"**](https://www.premierguitar.com/articles/24199-dave-rusan-building-princes-cloud-guitar) in [Premier Guitar](https://www.premierguitar.com/) on 10 June 2016 about [André Cymone](../../../topics/andr-cymone/index.md), [Bobby Z.](../../../topics/bobby-z/index.md), [Cloud guitar](../../../topics/cloud-guitar/index.md), [contract](../../../topics/contract/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Matt Fink](../../../topics/matt-fink/index.md), [Morris Day](../../../topics/morris-day/index.md), [Smithsonian (place)](../../../topics/place/smithsonian/index.md), [The Revolution](../../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/https://www.premierguitar.com/articles/24199-dave-rusan-building-princes-cloud-guitar))
-
-----
-
- - [**"Comic Dave Chappelle kicks off First Ave run by kicking at Cosby and Trump -- Review: The legendary stand-up veteran's 10-show run included a serious nod to Prince."**](http://www.startribune.com/comic-dave-chappelle-kicks-off-first-ave-run-by-kicking-at-cosby-and-trump/381471061/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 1 June 2016 about [Dave Chappelle](../../../topics/dave-chappelle/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Trump](../../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/comic-dave-chappelle-kicks-off-first-ave-run-by-kicking-at-cosby-and-trump/381471061/))
 
 ----
 
@@ -73,10 +61,6 @@
 ----
 
  - [**"Obituary: Prince was a diminutive giant who revolutionized pop -- Though he was a puzzle at times, the rocker was a true Minnesotan who changed music more than once in a nearly 40-year career."**](http://www.startribune.com/jon-bream-prince-was-a-once-in-a-generation-artist-who-never-rested-on-his-laurels/376594221/) by Chris Riemenschneider, Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 April 2016 about [André Cymone](../../../topics/andr-cymone/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Grammy Award](../../../topics/grammy-award/index.md), [John Nelson](../../../topics/john-nelson/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Mayte](../../../topics/mayte/index.md), [Mayte Garcia](../../../topics/mayte-garcia/index.md), [Obama](../../../topics/obama/index.md), [Super Bowl](../../../topics/super-bowl/index.md), [Tyka Nelson](../../../topics/tyka-nelson/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/jon-bream-prince-was-a-once-in-a-generation-artist-who-never-rested-on-his-laurels/376594221/))
-
-----
-
- - [**"The Latest: Tributes to Prince spring up across the US"**](https://apnews.com/debddfb333364e4091f0989c39458119) in [Associated Press News](https://apnews.com/) on 22 April 2016 about [Carver County](../../../topics/carver-county/index.md), [contract](../../../topics/contract/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Obama](../../../topics/obama/index.md), [Tyka Nelson](../../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/debddfb333364e4091f0989c39458119))
 
 ----
 
