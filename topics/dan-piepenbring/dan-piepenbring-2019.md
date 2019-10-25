@@ -6,6 +6,14 @@
 
 ----
 
+ - [**"Prince’s memoir ‘The Beautiful Ones’ is ‘warm, funny, well observed, eloquent and surprisingly focused’"**](https://www.twincities.com/2019/10/25/princes-memoir-the-beautiful-ones-is-warm-funny-well-observed-eloquent-and-surprisingly-focused/) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 25 October 2019 about [Andrea Swensson](../../topics/andrea-swensson/index.md), [Capri Theater  (place)](../../topics/place/capri-theater/index.md), [Chris Jackson](../../topics/chris-jackson/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [memoir](../../topics/memoir/index.md), [Raspberry Beret (song)](../../topics/song/raspberry-beret/index.md), [The Ballad Of Dorothy Parker (song)](../../topics/song/the-ballad-of-dorothy-parker/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2019/10/25/princes-memoir-the-beautiful-ones-is-warm-funny-well-observed-eloquent-and-surprisingly-focused/))
+
+----
+
+ - [**"Last Words: Prince Details Seizures & ‘Blackouts’ In New Memoir Released 3 Years After His Death"**](https://radaronline.com/videos/prince-details-seizures-blackouts-in-new-memoir-released-three-years-after-his-death/) in [radaronline.com](https://radaronline.com/) on 24 October 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [fentanyl](../../topics/fentanyl/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://radaronline.com/videos/prince-details-seizures-blackouts-in-new-memoir-released-three-years-after-his-death/))
+
+----
+
  - [**"Listen to Prince's previously unreleased demo for 'I Feel For You'"**](https://ew.com/music/2019/10/18/prince-i-feel-for-you-unreleased-demo/) in [EW (Entertainment Weekly)](https://ew.com/) on 18 October 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [For You (album)](../../topics/album/for-you/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [memoir](../../topics/memoir/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md) ([mirror](https://web.archive.org/web/*/https://ew.com/music/2019/10/18/prince-i-feel-for-you-unreleased-demo/))
 
 ----

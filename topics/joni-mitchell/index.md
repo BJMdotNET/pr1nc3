@@ -1,6 +1,7 @@
 # Joni Mitchell
 
   * [2019](./joni-mitchell-2019.md): 
+      October (1) | 
       July (2) | 
       February (1) | 
   * [2018](./joni-mitchell-2018.md): 

@@ -3,7 +3,7 @@
   * [Atlanta (place)](./place/atlanta/) (25)
   * [Bel Air (place)](./place/bel-air/) (1)
   * [Bunkers (place)](./place/bunkers/) (1)
-  * [Capri Theater  (place)](./place/capri-theater/) (4)
+  * [Capri Theater  (place)](./place/capri-theater/) (5)
   * [Capri Theatre (place)](./place/capri-theatre/) (1)
   * [Country Inn & Suites (place)](./place/country-inn-suites/) (2)
   * [Dakota (place)](./place/dakota/) (8)

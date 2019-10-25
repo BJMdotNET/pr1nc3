@@ -1,5 +1,11 @@
 # Joni Mitchell: 2019
 
+## October 2019
+
+ - [**"Prince’s memoir ‘The Beautiful Ones’ is ‘warm, funny, well observed, eloquent and surprisingly focused’"**](https://www.twincities.com/2019/10/25/princes-memoir-the-beautiful-ones-is-warm-funny-well-observed-eloquent-and-surprisingly-focused/) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 25 October 2019 about [Andrea Swensson](../../topics/andrea-swensson/index.md), [Capri Theater  (place)](../../topics/place/capri-theater/index.md), [Chris Jackson](../../topics/chris-jackson/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [memoir](../../topics/memoir/index.md), [Raspberry Beret (song)](../../topics/song/raspberry-beret/index.md), [The Ballad Of Dorothy Parker (song)](../../topics/song/the-ballad-of-dorothy-parker/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2019/10/25/princes-memoir-the-beautiful-ones-is-warm-funny-well-observed-eloquent-and-surprisingly-focused/))
+
+----
+
 ## July 2019
 
  - [**"C.J.: Music stars can learn more about themselves by acquiescing to media interviews"**](http://www.startribune.com/c-j-music-stars-can-learn-more-about-themselves-by-acquiescing-to-media-interviews/512421852/) by C.J. (Cheryl Johnson) in [Minneapolis Star Tribune](http://www.startribune.com/) on 8 July 2019 about [Alan Light](../../topics/alan-light/index.md), [C.J.](../../topics/c-j/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-music-stars-can-learn-more-about-themselves-by-acquiescing-to-media-interviews/512421852/))

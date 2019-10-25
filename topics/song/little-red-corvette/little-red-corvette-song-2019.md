@@ -6,6 +6,10 @@
 
 ----
 
+ - [**"Last Words: Prince Details Seizures & ‘Blackouts’ In New Memoir Released 3 Years After His Death"**](https://radaronline.com/videos/prince-details-seizures-blackouts-in-new-memoir-released-three-years-after-his-death/) in [radaronline.com](https://radaronline.com/) on 24 October 2019 about [Dan Piepenbring](../../../topics/dan-piepenbring/index.md), [fentanyl](../../../topics/fentanyl/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [memoir](../../../topics/memoir/index.md), [The Beautiful Ones (book)](../../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://radaronline.com/videos/prince-details-seizures-blackouts-in-new-memoir-released-three-years-after-his-death/))
+
+----
+
  - [**"PRINCE, IN PRIVATE AND PUBLIC"**](https://www.interviewmagazine.com/music/prince-private-randee-st-nicholas-book-my-name-is-prince) in [www.interviewmagazine.com](https://www.interviewmagazine.com/) on 15 October 2019 about [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [My Name Is Prince: 25 Inspired Years (book)](../../../topics/book/my-name-is-prince-25-inspired-years/index.md), [Randee St. Nicholas](../../../topics/randee-st-nicholas/index.md), [Spike Lee](../../../topics/spike-lee/index.md) ([mirror](https://web.archive.org/web/*/https://www.interviewmagazine.com/music/prince-private-randee-st-nicholas-book-my-name-is-prince))
 
 ----

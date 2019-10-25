@@ -1,5 +1,11 @@
 # fentanyl: 2019
 
+## October 2019
+
+ - [**"Last Words: Prince Details Seizures & ‘Blackouts’ In New Memoir Released 3 Years After His Death"**](https://radaronline.com/videos/prince-details-seizures-blackouts-in-new-memoir-released-three-years-after-his-death/) in [radaronline.com](https://radaronline.com/) on 24 October 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [fentanyl](../../topics/fentanyl/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://radaronline.com/videos/prince-details-seizures-blackouts-in-new-memoir-released-three-years-after-his-death/))
+
+----
+
 ## September 2019
 
  - [**"'HE TRIED TO PUNCH ME' Sinead O’Connor accuses Prince of trying to beat her up when he was on ‘dark’ drugs"**](https://www.thesun.co.uk/tvandshowbiz/9936189/sinead-oconnor-accuses-prince-attack/) in [www.thesun.co.uk](https://www.thesun.co.uk/) on 16 September 2019 about [fentanyl](../../topics/fentanyl/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md) ([mirror](https://web.archive.org/web/*/https://www.thesun.co.uk/tvandshowbiz/9936189/sinead-oconnor-accuses-prince-attack/))

@@ -1,5 +1,9 @@
 # Capri Theater  (place)
 
+ - [**"Prince’s memoir ‘The Beautiful Ones’ is ‘warm, funny, well observed, eloquent and surprisingly focused’"**](https://www.twincities.com/2019/10/25/princes-memoir-the-beautiful-ones-is-warm-funny-well-observed-eloquent-and-surprisingly-focused/) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 25 October 2019 about [Andrea Swensson](../../../topics/andrea-swensson/index.md), [Capri Theater  (place)](../../../topics/place/capri-theater/index.md), [Chris Jackson](../../../topics/chris-jackson/index.md), [Dan Piepenbring](../../../topics/dan-piepenbring/index.md), [I Feel For You (song)](../../../topics/song/i-feel-for-you/index.md), [Joni Mitchell](../../../topics/joni-mitchell/index.md), [memoir](../../../topics/memoir/index.md), [Raspberry Beret (song)](../../../topics/song/raspberry-beret/index.md), [The Ballad Of Dorothy Parker (song)](../../../topics/song/the-ballad-of-dorothy-parker/index.md), [The Beautiful Ones (book)](../../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2019/10/25/princes-memoir-the-beautiful-ones-is-warm-funny-well-observed-eloquent-and-surprisingly-focused/))
+
+----
+
  - [**"$12.5 million Capri Theater renovation pinned as linchpin to north Minneapolis revitalization -- A $12.5 million expansion of the Capri Theater promises to help with the revitalization of north Minneapolis."**](http://www.startribune.com/12-5-million-capri-theater-renovation-pinned-as-linchpin-to-north-minneapolis-revitalization/563569292/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 October 2019 about [Capri Theater  (place)](../../../topics/place/capri-theater/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/12-5-million-capri-theater-renovation-pinned-as-linchpin-to-north-minneapolis-revitalization/563569292/))
 
 ----
