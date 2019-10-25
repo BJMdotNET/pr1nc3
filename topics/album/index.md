@@ -1,8 +1,8 @@
 # album
 
   * [1-800-NEW-FUNK (album)](./album/1-800-new-funk/) (1)
-  * [1999 (album)](./album/1999/) (36)
-  * [1999 Deluxe (album)](./album/1999-deluxe/) (1)
+  * [1999 (album)](./album/1999/) (37)
+  * [1999 Deluxe (album)](./album/1999-deluxe/) (2)
   * [3121 (album)](./album/3121/) (9)
   * [Around The World In A Day (album)](./album/around-the-world-in-a-day/) (7)
   * [Batman (album)](./album/batman/) (2)

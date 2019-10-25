@@ -5,7 +5,7 @@
   * [My Name Is Prince: 25 Inspired Years (book)](./book/my-name-is-prince-25-inspired-years/) (4)
   * [On Time: A Princely Life in Funk (book)](./book/on-time-a-princely-life-in-funk/) (12)
   * [Prince Pre Fame (book)](./book/prince-pre-fame/) (3)
-  * [The Beautiful Ones (book)](./book/the-beautiful-ones/) (25)
+  * [The Beautiful Ones (book)](./book/the-beautiful-ones/) (26)
   * [The Most Beautiful (book)](./book/the-most-beautiful/) (6)
 
 ----

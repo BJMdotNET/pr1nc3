@@ -1,7 +1,7 @@
 # bootleg
 
   * [2019](./bootleg-2019.md): 
-      October (1) | 
+      October (2) | 
       September (3) | 
       July (1) | 
       June (5) | 
