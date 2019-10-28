@@ -1,6 +1,7 @@
 # Troy Carter
 
   * [2019](./troy-carter-2019.md): 
+      October (1) | 
       September (2) | 
       June (7) | 
       May (1) | 

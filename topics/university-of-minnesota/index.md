@@ -1,6 +1,7 @@
 # University of Minnesota
 
   * [2019](./university-of-minnesota-2019.md): 
+      October (1) | 
       May (1) | 
       April (1) | 
   * [2018](./university-of-minnesota-2018.md): 

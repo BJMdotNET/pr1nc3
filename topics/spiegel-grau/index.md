@@ -1,5 +1,25 @@
 # Spiegel & Grau
 
+ - [**"Book excerpt: Prince's memoir, "The Beautiful Ones""**](https://www.cbsnews.com/news/book-excerpt-prince-memoir-the-beautiful-ones/) in [CBS News](https://www.cbsnews.com/) on 26 October 2019 about [Chris Jackson](../../topics/chris-jackson/index.md), [Country Inn & Suites (place)](../../topics/place/country-inn-suites/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Kim Pratt](../../topics/kim-pratt/index.md), [memoir](../../topics/memoir/index.md), [Penguin Random House](../../topics/penguin-random-house/index.md), [Random House ](../../topics/random-house/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/news/book-excerpt-prince-memoir-the-beautiful-ones/))
+
+----
+
+ - [**"Five books not to miss: Prince memoir, Astro Poets, Mr. Rogers and Jack Reacher"**](https://usatoday.com/story/entertainment/books/2019/10/26/new-books-prince-memoir-astro-poets-mr-rogers-jack-reacher/2458082001/) in [USA Today](https://usatoday.com/) on 26 October 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/entertainment/books/2019/10/26/new-books-prince-memoir-astro-poets-mr-rogers-jack-reacher/2458082001/))
+
+----
+
+ - [**"In their brief time together, Prince made co-author believe he could do the 'impossible' -- He'd never written a book before. But Dan Piepenbring carried on after Prince's death. "**](http://www.startribune.com/in-their-brief-time-together-prince-made-co-author-believe-he-could-do-the-impossible/563845862/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 October 2019 about [contract](../../topics/contract/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/in-their-brief-time-together-prince-made-co-author-believe-he-could-do-the-impossible/563845862/))
+
+----
+
+ - [**"Prince’s anticipated, posthumous memoir is ready for fans"**](https://apnews.com/3b915e466906421c90d0d42fcbbaef47) in [Associated Press News](https://apnews.com/) on 26 October 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [memoir](../../topics/memoir/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/3b915e466906421c90d0d42fcbbaef47))
+
+----
+
+ - [**"Prince's anticipated, posthumous memoir is ready for fans"**](http://www.startribune.com/prince-s-anticipated-posthumous-memoir-is-ready-for-fans/563912692/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 October 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [memoir](../../topics/memoir/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-anticipated-posthumous-memoir-is-ready-for-fans/563912692/))
+
+----
+
  - [**"Prince co-author details 'extremely unlikely' story behind new memoir in New Yorker article"**](http://www.startribune.com/prince-co-author-details-extremely-unlikely-story-behind-new-memoir-in-new-yorker-article/559478242/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 September 2019 about [Atlanta (place)](../../topics/place/atlanta/index.md), [Chanhassen Cinema](../../topics/chanhassen-cinema/index.md), [Country Inn & Suites (place)](../../topics/place/country-inn-suites/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [John Nelson](../../topics/john-nelson/index.md), [memoir](../../topics/memoir/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Random House ](../../topics/random-house/index.md), [Raspberry Beret (song)](../../topics/song/raspberry-beret/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Ballad Of Dorothy Parker (song)](../../topics/song/the-ballad-of-dorothy-parker/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-co-author-details-extremely-unlikely-story-behind-new-memoir-in-new-yorker-article/559478242/))
 
 ----

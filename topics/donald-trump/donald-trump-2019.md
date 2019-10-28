@@ -2,7 +2,7 @@
 
 ## October 2019
 
- - [**"Prince estate slams Trump for playing 'Purple Rain' at rally -- Donald Trump's re-election team played Prince's 'Purple Rain' at a campaign event, despite Prince's estate saying a year ago that 'it will never give permission to President Trump to use Prince's songs'"**](https://www.rappler.com/entertainment/news/242373-prince-estate-slams-trump-rally) in [www.rappler.com](https://www.rappler.com/) on 12 October 2019 about [Donald Trump](../../topics/donald-trump/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Trump](../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/https://www.rappler.com/entertainment/news/242373-prince-estate-slams-trump-rally))
+ - [**"Prince estate slams Trump for playing 'Purple Rain' at rally -- Donald Trump's re-election team played Prince's 'Purple Rain' at a campaign event, despite Prince's estate saying a year ago that 'it will never give permission to President Trump to use Prince's songs'"**](https://www.rappler.com/entertainment/news/242373-prince-estate-slams-trump-rally) in [Rappler](https://www.rappler.com/) on 12 October 2019 about [Donald Trump](../../topics/donald-trump/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Trump](../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/https://www.rappler.com/entertainment/news/242373-prince-estate-slams-trump-rally))
 
 ----
 
@@ -32,7 +32,7 @@
 
 ## September 2019
 
- - [**"Fall fiction titles have eye for truth; new poetry, nonfiction and memoirs also due -- Ta-Nehisi Coates, Joy Harjo, Prince, Liz Phair among authors with new works"**](https://www.arkansasonline.com/news/2019/sep/29/fall-fiction-releases-have-eye-for-trut/) in [www.arkansasonline.com](https://www.arkansasonline.com/) on 29 September 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Donald Trump](../../topics/donald-trump/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [Trump](../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/https://www.arkansasonline.com/news/2019/sep/29/fall-fiction-releases-have-eye-for-trut/))
+ - [**"Fall fiction titles have eye for truth; new poetry, nonfiction and memoirs also due -- Ta-Nehisi Coates, Joy Harjo, Prince, Liz Phair among authors with new works"**](https://www.arkansasonline.com/news/2019/sep/29/fall-fiction-releases-have-eye-for-trut/) in [The Arkansas Democrat-Gazette](https://www.arkansasonline.com/) on 29 September 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Donald Trump](../../topics/donald-trump/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [Trump](../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/https://www.arkansasonline.com/news/2019/sep/29/fall-fiction-releases-have-eye-for-trut/))
 
 ----
 

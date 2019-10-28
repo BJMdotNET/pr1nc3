@@ -1,8 +1,14 @@
 # Mayte: 2019
 
+## October 2019
+
+ - [**"Comic strips, goofy snaps and mirror selfies: inside Prince’s private archive -- When Prince died, he was three months into work on a deeply personal memoir. Co-writer Dan Piepenbring talks about bringing his idol’s project to completion"**](https://www.theguardian.com/music/2019/oct/26/prince-private-archive-memoir-comic-strips-snaps-selfies) in [The Guardian](https://www.theguardian.com/) on 26 October 2019 about [Carver County](../../topics/carver-county/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [fentanyl](../../topics/fentanyl/index.md), [Mayte](../../topics/mayte/index.md), [memoir](../../topics/memoir/index.md), [museum](../../topics/museum/index.md), [Peter Bravestrong](../../topics/peter-bravestrong/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [Vanity](../../topics/vanity/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/music/2019/oct/26/prince-private-archive-memoir-comic-strips-snaps-selfies))
+
+----
+
 ## September 2019
 
- - [**"My Name Is Prince: 25 Inspired Years—1991 to 2016 -- Randee St. Nicholas. Amistad, $90 (384p) ISBN 978-0-06-293923-4"**](https://www.publishersweekly.com/978-0-06-293923-4) in [www.publishersweekly.com](https://www.publishersweekly.com/) on 27 September 2019 about [Mayte](../../topics/mayte/index.md), [My Name Is Prince: 25 Inspired Years (book)](../../topics/book/my-name-is-prince-25-inspired-years/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md) ([mirror](https://web.archive.org/web/*/https://www.publishersweekly.com/978-0-06-293923-4))
+ - [**"My Name Is Prince: 25 Inspired Years—1991 to 2016 -- Randee St. Nicholas. Amistad, $90 (384p) ISBN 978-0-06-293923-4"**](https://www.publishersweekly.com/978-0-06-293923-4) in [Publishers Weekly](https://www.publishersweekly.com/) on 27 September 2019 about [Mayte](../../topics/mayte/index.md), [My Name Is Prince: 25 Inspired Years (book)](../../topics/book/my-name-is-prince-25-inspired-years/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md) ([mirror](https://web.archive.org/web/*/https://www.publishersweekly.com/978-0-06-293923-4))
 
 ----
 
@@ -14,7 +20,7 @@
 
 ## July 2019
 
- - [**"KIRKUS REVIEW: MY NAME IS PRINCE by Randee St. Nicholas"**](https://www.kirkusreviews.com/book-reviews/randee-st-nicholas/my-name-is-prince/) in [www.kirkusreviews.com](https://www.kirkusreviews.com/) on 28 July 2019 about [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [My Name Is Prince: 25 Inspired Years (book)](../../topics/book/my-name-is-prince-25-inspired-years/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md), [Rearrange (song)](../../topics/song/rearrange/index.md) ([mirror](https://web.archive.org/web/*/https://www.kirkusreviews.com/book-reviews/randee-st-nicholas/my-name-is-prince/))
+ - [**"KIRKUS REVIEW: MY NAME IS PRINCE by Randee St. Nicholas"**](https://www.kirkusreviews.com/book-reviews/randee-st-nicholas/my-name-is-prince/) in [Kirkus Reviews](https://www.kirkusreviews.com/) on 28 July 2019 about [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [My Name Is Prince: 25 Inspired Years (book)](../../topics/book/my-name-is-prince-25-inspired-years/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md), [Rearrange (song)](../../topics/song/rearrange/index.md) ([mirror](https://web.archive.org/web/*/https://www.kirkusreviews.com/book-reviews/randee-st-nicholas/my-name-is-prince/))
 
 ----
 

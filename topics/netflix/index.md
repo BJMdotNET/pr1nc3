@@ -1,6 +1,7 @@
 # Netflix
 
   * [2019](./netflix-2019.md): 
+      October (1) | 
       August (4) | 
       April (1) | 
   * [2018](./netflix-2018.md): 

@@ -1,5 +1,21 @@
 # Minneapolis Star Tribune: October 2019
 
+ - [**"Adorable cuteness and spooktacular creativity: The winners of the Star Tribune Halloween Pet Costume Contest -- The winners in our Halloween Pet Costume Contest ranged from the elaborate to the adorably goofy. "**](http://www.startribune.com/adorable-cuteness-and-spooktacular-creativity-the-winners-of-the-star-tribune-halloween-pet-costume-contest/563846062/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 27 October 2019 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/adorable-cuteness-and-spooktacular-creativity-the-winners-of-the-star-tribune-halloween-pet-costume-contest/563846062/))
+
+----
+
+ - [**"In their brief time together, Prince made co-author believe he could do the 'impossible' -- He'd never written a book before. But Dan Piepenbring carried on after Prince's death. "**](http://www.startribune.com/in-their-brief-time-together-prince-made-co-author-believe-he-could-do-the-impossible/563845862/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 October 2019 about [contract](../../topics/contract/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/in-their-brief-time-together-prince-made-co-author-believe-he-could-do-the-impossible/563845862/))
+
+----
+
+ - [**"Like Prince, his new memoir 'The Beautiful Ones' can't be pigeonholed -- Filled with ephemera, photos and philosophy, "The Beautiful Ones" is incomplete yet revealing. "**](http://www.startribune.com/like-prince-his-new-memoir-the-beautiful-ones-can-t-be-pigeonholed/563845812/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 October 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [fentanyl](../../topics/fentanyl/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/like-prince-his-new-memoir-the-beautiful-ones-can-t-be-pigeonholed/563845812/))
+
+----
+
+ - [**"Prince's anticipated, posthumous memoir is ready for fans"**](http://www.startribune.com/prince-s-anticipated-posthumous-memoir-is-ready-for-fans/563912692/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 October 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [memoir](../../topics/memoir/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-anticipated-posthumous-memoir-is-ready-for-fans/563912692/))
+
+----
+
  - [**"$12.5 million Capri Theater renovation pinned as linchpin to north Minneapolis revitalization -- A $12.5 million expansion of the Capri Theater promises to help with the revitalization of north Minneapolis."**](http://www.startribune.com/12-5-million-capri-theater-renovation-pinned-as-linchpin-to-north-minneapolis-revitalization/563569292/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 October 2019 about [Capri Theater  (place)](../../topics/place/capri-theater/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/12-5-million-capri-theater-renovation-pinned-as-linchpin-to-north-minneapolis-revitalization/563569292/))
 
 ----

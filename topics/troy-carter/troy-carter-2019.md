@@ -1,8 +1,14 @@
 # Troy Carter: 2019
 
+## October 2019
+
+ - [**"The life of Prince, revealed in "The Beautiful Ones""**](https://www.cbsnews.com/news/the-life-of-prince-revealed-in-the-beautiful-ones/) in [CBS News](https://www.cbsnews.com/) on 27 October 2019 about [Academy Award](../../topics/academy-award/index.md), [Bobby Z.](../../topics/bobby-z/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Jill Jones](../../topics/jill-jones/index.md), [memoir](../../topics/memoir/index.md), [Moon Sound Studio (place)](../../topics/place/moon-sound-studio/index.md), [Super Bowl](../../topics/super-bowl/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [The Revolution](../../topics/the-revolution/index.md), [Troy Carter](../../topics/troy-carter/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/news/the-life-of-prince-revealed-in-the-beautiful-ones/))
+
+----
+
 ## September 2019
 
- - [**"Prince’s 1999 Getting Expanded Reissue With 35 Unreleased Tracks"**](https://www.stereogum.com/2057855/princes-1999-getting-expanded-reissue-with-35-unreleased-tracks/news/) in [www.stereogum.com](https://www.stereogum.com/) on 10 September 2019 about [1999 (album)](../../topics/album/1999/index.md), [1999 (song)](../../topics/song/1999/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Troy Carter](../../topics/troy-carter/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.stereogum.com/2057855/princes-1999-getting-expanded-reissue-with-35-unreleased-tracks/news/))
+ - [**"Prince’s 1999 Getting Expanded Reissue With 35 Unreleased Tracks"**](https://www.stereogum.com/2057855/princes-1999-getting-expanded-reissue-with-35-unreleased-tracks/news/) in [Stereogum](https://www.stereogum.com/) on 10 September 2019 about [1999 (album)](../../topics/album/1999/index.md), [1999 (song)](../../topics/song/1999/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Troy Carter](../../topics/troy-carter/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.stereogum.com/2057855/princes-1999-getting-expanded-reissue-with-35-unreleased-tracks/news/))
 
 ----
 
@@ -36,7 +42,7 @@
 
 ----
 
- - [**"MICHAEL HOWE, L’ARCHIVISTE DE PRINCE, NOUS PARLE DE « ORIGINALS »"**](https://www.schkopi.com/index.php/2019/06/news/michael-howe-larchiviste-de-prince-nous-parle-de-originals/) in [schkopi](https://www.schkopi.com/) on 6 June 2019 about [contract](../../topics/contract/index.md), [Michael Howe](../../topics/michael-howe/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../topics/album/originals/index.md), [Troy Carter](../../topics/troy-carter/index.md) ([mirror](https://web.archive.org/web/*/https://www.schkopi.com/index.php/2019/06/news/michael-howe-larchiviste-de-prince-nous-parle-de-originals/))
+ - [**"MICHAEL HOWE, L’ARCHIVISTE DE PRINCE, NOUS PARLE DE « ORIGINALS »"**](https://www.schkopi.com/index.php/2019/06/news/michael-howe-larchiviste-de-prince-nous-parle-de-originals/) in [Schkopi.com](https://www.schkopi.com/) on 6 June 2019 about [contract](../../topics/contract/index.md), [Michael Howe](../../topics/michael-howe/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../topics/album/originals/index.md), [Troy Carter](../../topics/troy-carter/index.md) ([mirror](https://web.archive.org/web/*/https://www.schkopi.com/index.php/2019/06/news/michael-howe-larchiviste-de-prince-nous-parle-de-originals/))
 
 ----
 

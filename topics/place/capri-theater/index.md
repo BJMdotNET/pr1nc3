@@ -4,6 +4,10 @@
 
 ----
 
+ - [**"Capri Theater breaks ground on expansion, renovations"**](https://spokesman-recorder.com/2019/10/23/capri-theater-breaks-ground-on-expansion-renovations/) in [spokesman-recorder.com](https://spokesman-recorder.com/) on 23 October 2019 about [Capri Theater  (place)](../../../topics/place/capri-theater/index.md) ([mirror](https://web.archive.org/web/*/https://spokesman-recorder.com/2019/10/23/capri-theater-breaks-ground-on-expansion-renovations/))
+
+----
+
  - [**"$12.5 million Capri Theater renovation pinned as linchpin to north Minneapolis revitalization -- A $12.5 million expansion of the Capri Theater promises to help with the revitalization of north Minneapolis."**](http://www.startribune.com/12-5-million-capri-theater-renovation-pinned-as-linchpin-to-north-minneapolis-revitalization/563569292/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 October 2019 about [Capri Theater  (place)](../../../topics/place/capri-theater/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/12-5-million-capri-theater-renovation-pinned-as-linchpin-to-north-minneapolis-revitalization/563569292/))
 
 ----

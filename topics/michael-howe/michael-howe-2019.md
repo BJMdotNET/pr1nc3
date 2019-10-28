@@ -10,7 +10,7 @@
 
 ----
 
- - [**"Prince - Listen to His Previously Unreleased Original Demo of “Feel For You” -- Recorded in 1979 and Available on 7-Inch"**](http://www.undertheradarmag.com/news/prince_-_listen_to_his_previously_unreleased_original_demo_of_feel_for_you) in [www.undertheradarmag.com](http://www.undertheradarmag.com/) on 18 October 2019 about [Chaka Khan](../../topics/chaka-khan/index.md), [For You (album)](../../topics/album/for-you/index.md), [Michael Howe](../../topics/michael-howe/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/http://www.undertheradarmag.com/news/prince_-_listen_to_his_previously_unreleased_original_demo_of_feel_for_you))
+ - [**"Prince - Listen to His Previously Unreleased Original Demo of “Feel For You” -- Recorded in 1979 and Available on 7-Inch"**](http://www.undertheradarmag.com/news/prince_-_listen_to_his_previously_unreleased_original_demo_of_feel_for_you) in [Under the Radar](http://www.undertheradarmag.com/) on 18 October 2019 about [Chaka Khan](../../topics/chaka-khan/index.md), [For You (album)](../../topics/album/for-you/index.md), [Michael Howe](../../topics/michael-howe/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/http://www.undertheradarmag.com/news/prince_-_listen_to_his_previously_unreleased_original_demo_of_feel_for_you))
 
 ----
 
@@ -18,7 +18,7 @@
 
 ----
 
- - [**"This Prince Acoustic Demo Is Shockingly Intimate -- It's a stripped back version of 'I Feel For You'..."**](https://www.clashmusic.com/news/this-prince-acoustic-demo-is-shockingly-intimate) in [www.clashmusic.com](https://www.clashmusic.com/) on 18 October 2019 about [For You (album)](../../topics/album/for-you/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Michael Howe](../../topics/michael-howe/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.clashmusic.com/news/this-prince-acoustic-demo-is-shockingly-intimate))
+ - [**"This Prince Acoustic Demo Is Shockingly Intimate -- It's a stripped back version of 'I Feel For You'..."**](https://www.clashmusic.com/news/this-prince-acoustic-demo-is-shockingly-intimate) in [Clash Magazine](https://www.clashmusic.com/) on 18 October 2019 about [For You (album)](../../topics/album/for-you/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Michael Howe](../../topics/michael-howe/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.clashmusic.com/news/this-prince-acoustic-demo-is-shockingly-intimate))
 
 ----
 
@@ -66,7 +66,7 @@
 
 ----
 
- - [**"MICHAEL HOWE, L’ARCHIVISTE DE PRINCE, NOUS PARLE DE « ORIGINALS »"**](https://www.schkopi.com/index.php/2019/06/news/michael-howe-larchiviste-de-prince-nous-parle-de-originals/) in [schkopi](https://www.schkopi.com/) on 6 June 2019 about [contract](../../topics/contract/index.md), [Michael Howe](../../topics/michael-howe/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../topics/album/originals/index.md), [Troy Carter](../../topics/troy-carter/index.md) ([mirror](https://web.archive.org/web/*/https://www.schkopi.com/index.php/2019/06/news/michael-howe-larchiviste-de-prince-nous-parle-de-originals/))
+ - [**"MICHAEL HOWE, L’ARCHIVISTE DE PRINCE, NOUS PARLE DE « ORIGINALS »"**](https://www.schkopi.com/index.php/2019/06/news/michael-howe-larchiviste-de-prince-nous-parle-de-originals/) in [Schkopi.com](https://www.schkopi.com/) on 6 June 2019 about [contract](../../topics/contract/index.md), [Michael Howe](../../topics/michael-howe/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../topics/album/originals/index.md), [Troy Carter](../../topics/troy-carter/index.md) ([mirror](https://web.archive.org/web/*/https://www.schkopi.com/index.php/2019/06/news/michael-howe-larchiviste-de-prince-nous-parle-de-originals/))
 
 ----
 

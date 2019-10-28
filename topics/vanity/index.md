@@ -1,7 +1,7 @@
 # Vanity
 
   * [2019](./vanity-2019.md): 
-      October (1) | 
+      October (3) | 
       September (1) | 
       July (1) | 
       June (4) | 

@@ -1,5 +1,11 @@
 # Jill Jones: 2019
 
+## October 2019
+
+ - [**"The life of Prince, revealed in "The Beautiful Ones""**](https://www.cbsnews.com/news/the-life-of-prince-revealed-in-the-beautiful-ones/) in [CBS News](https://www.cbsnews.com/) on 27 October 2019 about [Academy Award](../../topics/academy-award/index.md), [Bobby Z.](../../topics/bobby-z/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Jill Jones](../../topics/jill-jones/index.md), [memoir](../../topics/memoir/index.md), [Moon Sound Studio (place)](../../topics/place/moon-sound-studio/index.md), [Super Bowl](../../topics/super-bowl/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [The Revolution](../../topics/the-revolution/index.md), [Troy Carter](../../topics/troy-carter/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/news/the-life-of-prince-revealed-in-the-beautiful-ones/))
+
+----
+
 ## September 2019
 
  - [**"Prince’s Massive ‘1999’ Box Set to Contain 35 Previously Unreleased Recordings -- Box set, due this fall, also contains previously unreleased video footage"**](https://www.rollingstone.com/music/music-news/prince-1999-reissue-882749/) in [Rolling Stone](https://www.rollingstone.com/) on 10 September 2019 about [1999 (album)](../../topics/album/1999/index.md), [1999 (song)](../../topics/song/1999/index.md), [Allen Beaulieu](../../topics/allen-beaulieu/index.md), [Andrea Swensson](../../topics/andrea-swensson/index.md), [Bangles](../../topics/bangles/index.md), [David Fricke](../../topics/david-fricke/index.md), [Duane Tudahl](../../topics/duane-tudahl/index.md), [Duff McKagan](../../topics/duff-mckagan/index.md), [Houston Summit (place)](../../topics/place/houston-summit/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-news/prince-1999-reissue-882749/))

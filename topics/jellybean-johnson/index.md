@@ -1,5 +1,9 @@
 # Jellybean Johnson
 
+ - [**"Mike Judge’s Silicon Valley take on power continues in Tales from the Tour Bus -- The Morris Day and Prince episode is another strong exploration of insider / outsider dynamics"**](https://www.theverge.com/2019/10/25/20932300/silicon-valley-season-6-mike-judge-tales-from-the-tour-bus-prince-morris-day-cinemax-streaming) in [The Verge](https://www.theverge.com/) on 25 October 2019 about [James Brown](../../topics/james-brown/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md) ([mirror](https://web.archive.org/web/*/https://www.theverge.com/2019/10/25/20932300/silicon-valley-season-6-mike-judge-tales-from-the-tour-bus-prince-morris-day-cinemax-streaming))
+
+----
+
  - [**"MORRIS DAY RECALLS TIME HE AND PRINCE NEARLY CAME TO BLOWS ON SET OF ‘PURPLE RAIN’"**](https://eurweb.com/2019/10/14/morris-day-recalls-time-he-and-prince-nearly-came-to-blows-on-set-of-purple-rain/) in [EURweb](https://eurweb.com/) on 14 October 2019 about [Jamie Starr](../../topics/jamie-starr/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jungle Love (song)](../../topics/song/jungle-love/index.md), [Morris Day](../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Bird (song)](../../topics/song/the-bird/index.md), [The Time](../../topics/the-time/index.md), [Vanity](../../topics/vanity/index.md) ([mirror](https://web.archive.org/web/*/https://eurweb.com/2019/10/14/morris-day-recalls-time-he-and-prince-nearly-came-to-blows-on-set-of-purple-rain/))
 
 ----

@@ -2,13 +2,21 @@
 
 ## October 2019
 
+ - [**"Comic strips, goofy snaps and mirror selfies: inside Prince’s private archive -- When Prince died, he was three months into work on a deeply personal memoir. Co-writer Dan Piepenbring talks about bringing his idol’s project to completion"**](https://www.theguardian.com/music/2019/oct/26/prince-private-archive-memoir-comic-strips-snaps-selfies) in [The Guardian](https://www.theguardian.com/) on 26 October 2019 about [Carver County](../../topics/carver-county/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [fentanyl](../../topics/fentanyl/index.md), [Mayte](../../topics/mayte/index.md), [memoir](../../topics/memoir/index.md), [museum](../../topics/museum/index.md), [Peter Bravestrong](../../topics/peter-bravestrong/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [Vanity](../../topics/vanity/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/music/2019/oct/26/prince-private-archive-memoir-comic-strips-snaps-selfies))
+
+----
+
+ - [**"Like Prince, his new memoir 'The Beautiful Ones' can't be pigeonholed -- Filled with ephemera, photos and philosophy, "The Beautiful Ones" is incomplete yet revealing. "**](http://www.startribune.com/like-prince-his-new-memoir-the-beautiful-ones-can-t-be-pigeonholed/563845812/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 October 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [fentanyl](../../topics/fentanyl/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/like-prince-his-new-memoir-the-beautiful-ones-can-t-be-pigeonholed/563845812/))
+
+----
+
  - [**"Last Words: Prince Details Seizures & ‘Blackouts’ In New Memoir Released 3 Years After His Death"**](https://radaronline.com/videos/prince-details-seizures-blackouts-in-new-memoir-released-three-years-after-his-death/) in [radaronline.com](https://radaronline.com/) on 24 October 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [fentanyl](../../topics/fentanyl/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://radaronline.com/videos/prince-details-seizures-blackouts-in-new-memoir-released-three-years-after-his-death/))
 
 ----
 
 ## September 2019
 
- - [**"'HE TRIED TO PUNCH ME' Sinead O’Connor accuses Prince of trying to beat her up when he was on ‘dark’ drugs"**](https://www.thesun.co.uk/tvandshowbiz/9936189/sinead-oconnor-accuses-prince-attack/) in [www.thesun.co.uk](https://www.thesun.co.uk/) on 16 September 2019 about [fentanyl](../../topics/fentanyl/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md) ([mirror](https://web.archive.org/web/*/https://www.thesun.co.uk/tvandshowbiz/9936189/sinead-oconnor-accuses-prince-attack/))
+ - [**"'HE TRIED TO PUNCH ME' Sinead O’Connor accuses Prince of trying to beat her up when he was on ‘dark’ drugs"**](https://www.thesun.co.uk/tvandshowbiz/9936189/sinead-oconnor-accuses-prince-attack/) in [The Sun](https://www.thesun.co.uk/) on 16 September 2019 about [fentanyl](../../topics/fentanyl/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md) ([mirror](https://web.archive.org/web/*/https://www.thesun.co.uk/tvandshowbiz/9936189/sinead-oconnor-accuses-prince-attack/))
 
 ----
 

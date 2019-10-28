@@ -1,6 +1,7 @@
 # Mayte
 
   * [2019](./mayte-2019.md): 
+      October (1) | 
       September (1) | 
       August (1) | 
       July (1) | 
