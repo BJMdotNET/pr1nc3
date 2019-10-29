@@ -1,5 +1,11 @@
 # merchandise: 2019
 
+## October 2019
+
+ - [**"Prince: Autobiografie "The Beautiful Ones" -- Er wollte unbedingt ein Buch über sein Leben schreiben, denn von weißen Kritikern fühlte sich Prince unverstanden. Drei Jahre nach seinem Tod kommt jetzt seine Autobiografie "The Beautiful Ones" auf den Markt."**](https://www.dw.com/de/prince-autobiografie-the-beautiful-ones/a-51019175) in [www.dw.com](https://www.dw.com/) on 29 October 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [James Brown](../../topics/james-brown/index.md), [merchandise](../../topics/merchandise/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.dw.com/de/prince-autobiografie-the-beautiful-ones/a-51019175))
+
+----
+
 ## September 2019
 
  - [**"Here’s what the Prince exhibit coming to the 2020 Minnesota State Fair might look like"**](http://www.citypages.com/music/heres-what-the-prince-exhibit-coming-to-the-2020-minnesota-state-fair-might-look-like/559252741) in [City Pages](http://www.citypages.com/) on 3 September 2019 about [Alfred Jackson](../../topics/alfred-jackson/index.md), [contract](../../topics/contract/index.md), [exhibit](../../topics/exhibit/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [Jon Bream](../../topics/jon-bream/index.md), [merchandise](../../topics/merchandise/index.md), [Minnesota State Fair](../../topics/minnesota-state-fair/index.md), [State Fair](../../topics/state-fair/index.md) ([mirror](https://web.archive.org/web/*/http://www.citypages.com/music/heres-what-the-prince-exhibit-coming-to-the-2020-minnesota-state-fair-might-look-like/559252741))

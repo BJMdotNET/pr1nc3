@@ -1,7 +1,7 @@
 # James Brown
 
   * [2019](./james-brown-2019.md): 
-      October (4) | 
+      October (7) | 
       June (1) | 
       May (1) | 
   * [2018](./james-brown-2018.md): 

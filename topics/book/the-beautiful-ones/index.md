@@ -1,7 +1,7 @@
 # The Beautiful Ones (book)
 
   * [2019](./the-beautiful-ones-book-2019.md): 
-      October (22) | 
+      October (30) | 
       September (7) | 
       August (3) | 
       April (5) | 
