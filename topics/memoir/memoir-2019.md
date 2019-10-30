@@ -2,7 +2,7 @@
 
 ## October 2019
 
- - [**"Vandaag verschijnt de autobiografie van Prince: "Zo intiem is hij tijdens zijn leven nooit geweest" -- Het muziekfenomeen Prince stierf op 21 april 2016, toch verschijnt vandaag postuum zijn onafgewerkte autobiografie. Wat komen we te weten over "His royal badness"? Muzikant Stijn en muziekexpert Sasha Van der Speeten, allebei hevige fans, konden de memoires al lezen."**](https://www.vrt.be/vrtnws/nl/2019/10/28/vandaag-verschijnt-de-autobiografie-van-prince/) in [www.vrt.be](https://www.vrt.be/) on 30 October 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.vrt.be/vrtnws/nl/2019/10/28/vandaag-verschijnt-de-autobiografie-van-prince/))
+ - [**"Vandaag verschijnt de autobiografie van Prince: "Zo intiem is hij tijdens zijn leven nooit geweest" -- Het muziekfenomeen Prince stierf op 21 april 2016, toch verschijnt vandaag postuum zijn onafgewerkte autobiografie. Wat komen we te weten over "His royal badness"? Muzikant Stijn en muziekexpert Sasha Van der Speeten, allebei hevige fans, konden de memoires al lezen."**](https://www.vrt.be/vrtnws/nl/2019/10/28/vandaag-verschijnt-de-autobiografie-van-prince/) in [VRT NWS](https://www.vrt.be/vrtnws/) on 30 October 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.vrt.be/vrtnws/nl/2019/10/28/vandaag-verschijnt-de-autobiografie-van-prince/))
 
 ----
 
@@ -11,6 +11,10 @@
 ----
 
  - [**"KIRKUS REVIEW: THE BEAUTIFUL ONES by Prince with Dan Piepenbring"**](https://www.kirkusreviews.com/book-reviews/prince/the-beautiful-ones/) in [Kirkus Reviews](https://www.kirkusreviews.com/) on 29 October 2019 about [Baby I’m a Star (song)](../../topics/song/baby-i-m-a-star/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.kirkusreviews.com/book-reviews/prince/the-beautiful-ones/))
+
+----
+
+ - [**"My Next Read: The Beautiful Ones By Prince"**](https://www.thatericalper.com/2019/10/29/my-next-read-the-beautiful-ones-by-prince/) in [www.thatericalper.com](https://www.thatericalper.com/) on 29 October 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.thatericalper.com/2019/10/29/my-next-read-the-beautiful-ones-by-prince/))
 
 ----
 
@@ -26,15 +30,15 @@
 
 ----
 
- - [**"The Beautiful Ones by Prince review — a primped-up scrapbook of the Purple One -- Prince’s posthumous memoir is as eccentric as meeting the great man himself, says Will Hodgkinson"**](https://www.thetimes.co.uk/article/the-beautiful-ones-by-prince-review-memoir-f5vd7rj5g) in [www.thetimes.co.uk](https://www.thetimes.co.uk/) on 29 October 2019 about [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [Turks and Caicos](../../topics/turks-and-caicos/index.md) ([mirror](https://web.archive.org/web/*/https://www.thetimes.co.uk/article/the-beautiful-ones-by-prince-review-memoir-f5vd7rj5g))
+ - [**"The Beautiful Ones by Prince review — a primped-up scrapbook of the Purple One -- Prince’s posthumous memoir is as eccentric as meeting the great man himself, says Will Hodgkinson"**](https://www.thetimes.co.uk/article/the-beautiful-ones-by-prince-review-memoir-f5vd7rj5g) in [The Times](https://www.thetimes.co.uk/) on 29 October 2019 about [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [Turks and Caicos](../../topics/turks-and-caicos/index.md) ([mirror](https://web.archive.org/web/*/https://www.thetimes.co.uk/article/the-beautiful-ones-by-prince-review-memoir-f5vd7rj5g))
 
 ----
 
- - [**"What we learned from Prince's memoir"**](https://edition.cnn.com/2019/10/29/entertainment/prince-memoir-what-we-learn-intl-scli/index.html) in [CNN International](https://edition.cnn.com/) on 29 October 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [fentanyl](../../topics/fentanyl/index.md), [memoir](../../topics/memoir/index.md), [museum](../../topics/museum/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [trademark](../../topics/trademark/index.md) ([mirror](https://web.archive.org/web/*/https://edition.cnn.com/2019/10/29/entertainment/prince-memoir-what-we-learn-intl-scli/index.html))
+ - [**"What we learned from Prince's memoir"**](https://edition.cnn.com/2019/10/29/entertainment/prince-memoir-what-we-learn-intl-scli/index.html) in [CNN International](https://edition.cnn.com/) on 29 October 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Ed Sheeran](../../topics/ed-sheeran/index.md), [fentanyl](../../topics/fentanyl/index.md), [Katy Perry](../../topics/katy-perry/index.md), [memoir](../../topics/memoir/index.md), [museum](../../topics/museum/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [trademark](../../topics/trademark/index.md) ([mirror](https://web.archive.org/web/*/https://edition.cnn.com/2019/10/29/entertainment/prince-memoir-what-we-learn-intl-scli/index.html))
 
 ----
 
- - [**"IRRESISTIBLE BOOK: PRINCE’S MEMOIR “THE BEAUTIFUL ONES”"**](https://scottwoodsmakeslists.wordpress.com/2019/10/27/irresistible-book-princes-memoir-the-beautiful-ones/) in [scottwoodsmakeslists.wordpress.com](https://scottwoodsmakeslists.wordpress.com/) on 28 October 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Eric Leeds](../../topics/eric-leeds/index.md), [James Brown](../../topics/james-brown/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://scottwoodsmakeslists.wordpress.com/2019/10/27/irresistible-book-princes-memoir-the-beautiful-ones/))
+ - [**"IRRESISTIBLE BOOK: PRINCE’S MEMOIR “THE BEAUTIFUL ONES”"**](https://scottwoodsmakeslists.wordpress.com/2019/10/27/irresistible-book-princes-memoir-the-beautiful-ones/) in [scottwoodsmakeslists.wordpress.com](https://scottwoodsmakeslists.wordpress.com/) on 28 October 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Ed Sheeran](../../topics/ed-sheeran/index.md), [Eric Leeds](../../topics/eric-leeds/index.md), [James Brown](../../topics/james-brown/index.md), [Katy Perry](../../topics/katy-perry/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://scottwoodsmakeslists.wordpress.com/2019/10/27/irresistible-book-princes-memoir-the-beautiful-ones/))
 
 ----
 
@@ -46,7 +50,7 @@
 
 ----
 
- - [**"Prince's memoir: Seven things we learned"**](https://www.bbc.com/news/entertainment-arts-50174377) in [BBC News](https://www.bbc.com/news/) on 28 October 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [trademark](../../topics/trademark/index.md) ([mirror](https://web.archive.org/web/*/https://www.bbc.com/news/entertainment-arts-50174377))
+ - [**"Prince's memoir: Seven things we learned"**](https://www.bbc.com/news/entertainment-arts-50174377) in [BBC News](https://www.bbc.com/news/) on 28 October 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [Ed Sheeran](../../topics/ed-sheeran/index.md), [Katy Perry](../../topics/katy-perry/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [trademark](../../topics/trademark/index.md) ([mirror](https://web.archive.org/web/*/https://www.bbc.com/news/entertainment-arts-50174377))
 
 ----
 
@@ -62,7 +66,7 @@
 
 ----
 
- - [**"Prince’s Memoir, ‘The Beautiful Ones,’ Is A Brief But Compelling Affirmation Of His Blackness -- The book, co-written with Dan Piepenbring, explores the musician’s family life, racism and path to stardom."**](https://www.huffpost.com/entry/prince-memoir-the-beautiful-ones_n_5db314e8e4b0a893740424bc) in [www.huffpost.com](https://www.huffpost.com/) on 27 October 2019 about [Ava DuVernay](../../topics/ava-duvernay/index.md), [Chris Jackson](../../topics/chris-jackson/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [Netflix](../../topics/netflix/index.md), [Random House ](../../topics/random-house/index.md), [Super Bowl](../../topics/super-bowl/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://www.huffpost.com/entry/prince-memoir-the-beautiful-ones_n_5db314e8e4b0a893740424bc))
+ - [**"Prince’s Memoir, ‘The Beautiful Ones,’ Is A Brief But Compelling Affirmation Of His Blackness -- The book, co-written with Dan Piepenbring, explores the musician’s family life, racism and path to stardom."**](https://www.huffpost.com/entry/prince-memoir-the-beautiful-ones_n_5db314e8e4b0a893740424bc) in [HuffPost](https://www.huffpost.com/) on 27 October 2019 about [Ava DuVernay](../../topics/ava-duvernay/index.md), [Chris Jackson](../../topics/chris-jackson/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [Netflix](../../topics/netflix/index.md), [Random House ](../../topics/random-house/index.md), [Super Bowl](../../topics/super-bowl/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://www.huffpost.com/entry/prince-memoir-the-beautiful-ones_n_5db314e8e4b0a893740424bc))
 
 ----
 
@@ -78,7 +82,7 @@
 
 ----
 
- - [**"Comic strips, goofy snaps and mirror selfies: inside Prince’s private archive -- When Prince died, he was three months into work on a deeply personal memoir. Co-writer Dan Piepenbring talks about bringing his idol’s project to completion"**](https://www.theguardian.com/music/2019/oct/26/prince-private-archive-memoir-comic-strips-snaps-selfies) in [The Guardian](https://www.theguardian.com/) on 26 October 2019 about [Carver County](../../topics/carver-county/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [fentanyl](../../topics/fentanyl/index.md), [Mayte](../../topics/mayte/index.md), [memoir](../../topics/memoir/index.md), [museum](../../topics/museum/index.md), [Peter Bravestrong](../../topics/peter-bravestrong/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [Vanity](../../topics/vanity/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/music/2019/oct/26/prince-private-archive-memoir-comic-strips-snaps-selfies))
+ - [**"Comic strips, goofy snaps and mirror selfies: inside Prince’s private archive -- When Prince died, he was three months into work on a deeply personal memoir. Co-writer Dan Piepenbring talks about bringing his idol’s project to completion"**](https://www.theguardian.com/music/2019/oct/26/prince-private-archive-memoir-comic-strips-snaps-selfies) in [The Guardian](https://www.theguardian.com/) on 26 October 2019 about [Carver County](../../topics/carver-county/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Ed Sheeran](../../topics/ed-sheeran/index.md), [fentanyl](../../topics/fentanyl/index.md), [Katy Perry](../../topics/katy-perry/index.md), [Mayte](../../topics/mayte/index.md), [memoir](../../topics/memoir/index.md), [museum](../../topics/museum/index.md), [Peter Bravestrong](../../topics/peter-bravestrong/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [Vanity](../../topics/vanity/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/music/2019/oct/26/prince-private-archive-memoir-comic-strips-snaps-selfies))
 
 ----
 
@@ -110,7 +114,7 @@
 
 ----
 
- - [**"Last Words: Prince Details Seizures & ‘Blackouts’ In New Memoir Released 3 Years After His Death"**](https://radaronline.com/videos/prince-details-seizures-blackouts-in-new-memoir-released-three-years-after-his-death/) in [radaronline.com](https://radaronline.com/) on 24 October 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [fentanyl](../../topics/fentanyl/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://radaronline.com/videos/prince-details-seizures-blackouts-in-new-memoir-released-three-years-after-his-death/))
+ - [**"Last Words: Prince Details Seizures & ‘Blackouts’ In New Memoir Released 3 Years After His Death"**](https://radaronline.com/videos/prince-details-seizures-blackouts-in-new-memoir-released-three-years-after-his-death/) in [Radar Online](https://radaronline.com/) on 24 October 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [fentanyl](../../topics/fentanyl/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://radaronline.com/videos/prince-details-seizures-blackouts-in-new-memoir-released-three-years-after-his-death/))
 
 ----
 

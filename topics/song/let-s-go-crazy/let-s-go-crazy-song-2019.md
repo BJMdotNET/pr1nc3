@@ -1,5 +1,11 @@
 # Let’s Go Crazy (song): 2019
 
+## October 2019
+
+ - [**"Prince « The Beautiful Ones, mémoires inachevés »"**](http://www.funku.fr/2019/prince-the-beautiful-ones-memoires-inacheves/) in [Funk-U](http://www.funku.fr/) on 30 October 2019 about [Dan Piepenbring](../../../topics/dan-piepenbring/index.md), [Do Me Baby (song)](../../../topics/song/do-me-baby/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [The Beautiful Ones (book)](../../../topics/book/the-beautiful-ones/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/http://www.funku.fr/2019/prince-the-beautiful-ones-memoires-inacheves/))
+
+----
+
 ## September 2019
 
  - [**"What do Lizzo, Prince, Lipps Inc., Owl City, Next, and Bobby Vee have in common? Minnesota, and the top of the charts."**](https://blog.thecurrent.org/2019/09/what-do-lizzo-prince-lipps-inc-owl-city-next-and-bobby-vee-have-in-common-minnesota-and-the-top-of-the-charts/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 4 September 2019 about [Batdance (song)](../../../topics/song/batdance/index.md), [BET Awards](../../../topics/bet-awards/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Lizzo](../../../topics/lizzo/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2019/09/what-do-lizzo-prince-lipps-inc-owl-city-next-and-bobby-vee-have-in-common-minnesota-and-the-top-of-the-charts/))
