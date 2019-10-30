@@ -2,7 +2,23 @@
 
 ## October 2019
 
+ - [**"Dan Piepenbring mocht de biografie van Prince schrijven – en toen ging Prince dood -- Nu is er het boek The Beautiful Ones, gemaakt aan de hand van dertig handgeschreven velletjes van de zanger zelf."**](https://www.volkskrant.nl/cultuur-media/dan-piepenbring-mocht-de-biografie-van-prince-schrijven-en-toen-ging-prince-dood~bc9a0bc0/) in [www.volkskrant.nl](https://www.volkskrant.nl/) on 30 October 2019 about [contract](../../topics/contract/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.volkskrant.nl/cultuur-media/dan-piepenbring-mocht-de-biografie-van-prince-schrijven-en-toen-ging-prince-dood~bc9a0bc0/))
+
+----
+
+ - [**"Vandaag verschijnt de autobiografie van Prince: "Zo intiem is hij tijdens zijn leven nooit geweest" -- Het muziekfenomeen Prince stierf op 21 april 2016, toch verschijnt vandaag postuum zijn onafgewerkte autobiografie. Wat komen we te weten over "His royal badness"? Muzikant Stijn en muziekexpert Sasha Van der Speeten, allebei hevige fans, konden de memoires al lezen."**](https://www.vrt.be/vrtnws/nl/2019/10/28/vandaag-verschijnt-de-autobiografie-van-prince/) in [www.vrt.be](https://www.vrt.be/) on 30 October 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.vrt.be/vrtnws/nl/2019/10/28/vandaag-verschijnt-de-autobiografie-van-prince/))
+
+----
+
+ - [**"« On ne saura jamais à quoi les Mémoires de Prince auraient ressemblé s’il avait été en vie » -- L’autobiographie inachevée du chanteur, mort brutalement en 2016, sort en librairie mardi aux Etats-Unis et jeudi en France."**](https://www.lemonde.fr/big-browser/article/2019/10/29/on-ne-saura-jamais-a-quoi-les-memoires-de-prince-auraient-ressemble-s-il-avait-ete-en-vie_6017345_4832693.html) in [www.lemonde.fr](https://www.lemonde.fr/) on 29 October 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [fentanyl](../../topics/fentanyl/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.lemonde.fr/big-browser/article/2019/10/29/on-ne-saura-jamais-a-quoi-les-memoires-de-prince-auraient-ressemble-s-il-avait-ete-en-vie_6017345_4832693.html))
+
+----
+
  - [**"Der unvollendete Weltstar Prince legt sein letztes Werk vor -- Dreieinhalb Jahre nach dem Tod des Funk-Stars Prince erscheinen seine Memoiren. Das aufschlussreiche Buch ist zwangsläufig lückenhaft."**](https://www.morgenpost.de/vermischtes/article227497917/Der-unvollendete-Weltstar-Prince-legt-sein-letztes-Werk-vor.html) in [www.morgenpost.de](https://www.morgenpost.de/) on 29 October 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [fentanyl](../../topics/fentanyl/index.md), [James Brown](../../topics/james-brown/index.md), [John Nelson](../../topics/john-nelson/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [memoir](../../topics/memoir/index.md), [Random House ](../../topics/random-house/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://www.morgenpost.de/vermischtes/article227497917/Der-unvollendete-Weltstar-Prince-legt-sein-letztes-Werk-vor.html))
+
+----
+
+ - [**"KIRKUS REVIEW: THE BEAUTIFUL ONES by Prince with Dan Piepenbring"**](https://www.kirkusreviews.com/book-reviews/prince/the-beautiful-ones/) in [Kirkus Reviews](https://www.kirkusreviews.com/) on 29 October 2019 about [Baby I’m a Star (song)](../../topics/song/baby-i-m-a-star/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.kirkusreviews.com/book-reviews/prince/the-beautiful-ones/))
 
 ----
 
@@ -10,7 +26,15 @@
 
 ----
 
+ - [**"Prince Remembers His Parents’ ‘Soul-Crushing’ Fights in Posthumous Memoir The Beautiful Ones -- In his posthumous memoir, the music legend recalls his complicated relationship with his parents"**](https://people.com/music/prince-recalls-parents-fights-in-posthumous-memoir-the-beautiful-ones/) in [People](https://people.com/) on 29 October 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [John Nelson](../../topics/john-nelson/index.md), [memoir](../../topics/memoir/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://people.com/music/prince-recalls-parents-fights-in-posthumous-memoir-the-beautiful-ones/))
+
+----
+
  - [**"Prince: Autobiografie "The Beautiful Ones" -- Er wollte unbedingt ein Buch über sein Leben schreiben, denn von weißen Kritikern fühlte sich Prince unverstanden. Drei Jahre nach seinem Tod kommt jetzt seine Autobiografie "The Beautiful Ones" auf den Markt."**](https://www.dw.com/de/prince-autobiografie-the-beautiful-ones/a-51019175) in [www.dw.com](https://www.dw.com/) on 29 October 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [James Brown](../../topics/james-brown/index.md), [merchandise](../../topics/merchandise/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.dw.com/de/prince-autobiografie-the-beautiful-ones/a-51019175))
+
+----
+
+ - [**"Prince's Book Agent Reveals an Unconventional Path to ‘Beautiful Ones’ -- ICM Partners' literary doyenne Esther  Newberg shepherded the rock legend’s book to its posthumous publication: "He just didn't want others writing any more about him. He wanted to set the story straight.""**](https://www.hollywoodreporter.com/news/princes-memoir-beautiful-took-an-unconventional-path-bookshelves-1250555) in [The Hollywood Reporter](https://www.hollywoodreporter.com/) on 29 October 2019 about [contract](../../topics/contract/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Esther Newberg](../../topics/esther-newberg/index.md), [memoir](../../topics/memoir/index.md), [Random House ](../../topics/random-house/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.hollywoodreporter.com/news/princes-memoir-beautiful-took-an-unconventional-path-bookshelves-1250555))
 
 ----
 
@@ -18,7 +42,19 @@
 
 ----
 
+ - [**"Tamron Hall Opens Up About Selfie That Became Cover Art for Prince's 'If Eye Could Get Ur Attention' -- The talk show host also revealed an email that Prince sent her about the outfit"**](https://people.com/tv/tamron-hall-selfie-cover-art-prince-if-eye-could-get-ur-attention/) in [People](https://people.com/) on 29 October 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [Tamron Hall](../../topics/tamron-hall/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://people.com/tv/tamron-hall-selfie-cover-art-prince-if-eye-could-get-ur-attention/))
+
+----
+
+ - [**"What we learned from Prince's memoir"**](https://edition.cnn.com/2019/10/29/entertainment/prince-memoir-what-we-learn-intl-scli/index.html) in [CNN International](https://edition.cnn.com/) on 29 October 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [fentanyl](../../topics/fentanyl/index.md), [memoir](../../topics/memoir/index.md), [museum](../../topics/museum/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [trademark](../../topics/trademark/index.md) ([mirror](https://web.archive.org/web/*/https://edition.cnn.com/2019/10/29/entertainment/prince-memoir-what-we-learn-intl-scli/index.html))
+
+----
+
  - [**"IRRESISTIBLE BOOK: PRINCE’S MEMOIR “THE BEAUTIFUL ONES”"**](https://scottwoodsmakeslists.wordpress.com/2019/10/27/irresistible-book-princes-memoir-the-beautiful-ones/) in [scottwoodsmakeslists.wordpress.com](https://scottwoodsmakeslists.wordpress.com/) on 28 October 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Eric Leeds](../../topics/eric-leeds/index.md), [James Brown](../../topics/james-brown/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://scottwoodsmakeslists.wordpress.com/2019/10/27/irresistible-book-princes-memoir-the-beautiful-ones/))
+
+----
+
+ - [**"'Prince haatte de vergelijking met Springsteen, die met Mozart streelde wél zijn ego'"**](https://www.humo.be/humo-archief/406597/het-blijft-vreemd-dat-de-politie-de-zaak-heeft-gesloten-we-weten-nog-steeds-niet-wie-prince-die-dodelijke-fentanyl-heeft-gegeven) in [Humo](https://www.humo.be/) on 28 October 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Lenny Kravitz](../../topics/lenny-kravitz/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.humo.be/humo-archief/406597/het-blijft-vreemd-dat-de-politie-de-zaak-heeft-gesloten-we-weten-nog-steeds-niet-wie-prince-die-dodelijke-fentanyl-heeft-gegeven))
 
 ----
 

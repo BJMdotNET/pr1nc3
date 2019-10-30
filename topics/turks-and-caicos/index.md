@@ -1,5 +1,9 @@
 # Turks and Caicos
 
+ - [**"The Beautiful Ones by Prince review — a primped-up scrapbook of the Purple One -- Prince’s posthumous memoir is as eccentric as meeting the great man himself, says Will Hodgkinson"**](https://www.thetimes.co.uk/article/the-beautiful-ones-by-prince-review-memoir-f5vd7rj5g) in [www.thetimes.co.uk](https://www.thetimes.co.uk/) on 29 October 2019 about [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [Turks and Caicos](../../topics/turks-and-caicos/index.md) ([mirror](https://web.archive.org/web/*/https://www.thetimes.co.uk/article/the-beautiful-ones-by-prince-review-memoir-f5vd7rj5g))
+
+----
+
  - [**"Prince’s Turks and Caicos Retreat Sells for $10.8 Million -- The rock legend’s home went for a million under the asking price"**](https://www.architecturaldigest.com/story/princes-turks-and-caicos-retreat-sells) in [Architectural Digest](https://www.architecturaldigest.com/) on 20 June 2019 about [museum](../../topics/museum/index.md), [Turks and Caicos](../../topics/turks-and-caicos/index.md) ([mirror](https://web.archive.org/web/*/https://www.architecturaldigest.com/story/princes-turks-and-caicos-retreat-sells))
 
 ----

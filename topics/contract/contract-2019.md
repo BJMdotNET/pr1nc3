@@ -2,6 +2,14 @@
 
 ## October 2019
 
+ - [**"Dan Piepenbring mocht de biografie van Prince schrijven – en toen ging Prince dood -- Nu is er het boek The Beautiful Ones, gemaakt aan de hand van dertig handgeschreven velletjes van de zanger zelf."**](https://www.volkskrant.nl/cultuur-media/dan-piepenbring-mocht-de-biografie-van-prince-schrijven-en-toen-ging-prince-dood~bc9a0bc0/) in [www.volkskrant.nl](https://www.volkskrant.nl/) on 30 October 2019 about [contract](../../topics/contract/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.volkskrant.nl/cultuur-media/dan-piepenbring-mocht-de-biografie-van-prince-schrijven-en-toen-ging-prince-dood~bc9a0bc0/))
+
+----
+
+ - [**"Prince's Book Agent Reveals an Unconventional Path to ‘Beautiful Ones’ -- ICM Partners' literary doyenne Esther  Newberg shepherded the rock legend’s book to its posthumous publication: "He just didn't want others writing any more about him. He wanted to set the story straight.""**](https://www.hollywoodreporter.com/news/princes-memoir-beautiful-took-an-unconventional-path-bookshelves-1250555) in [The Hollywood Reporter](https://www.hollywoodreporter.com/) on 29 October 2019 about [contract](../../topics/contract/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Esther Newberg](../../topics/esther-newberg/index.md), [memoir](../../topics/memoir/index.md), [Random House ](../../topics/random-house/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.hollywoodreporter.com/news/princes-memoir-beautiful-took-an-unconventional-path-bookshelves-1250555))
+
+----
+
  - [**"In their brief time together, Prince made co-author believe he could do the 'impossible' -- He'd never written a book before. But Dan Piepenbring carried on after Prince's death. "**](http://www.startribune.com/in-their-brief-time-together-prince-made-co-author-believe-he-could-do-the-impossible/563845862/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 October 2019 about [contract](../../topics/contract/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/in-their-brief-time-together-prince-made-co-author-believe-he-could-do-the-impossible/563845862/))
 
 ----
