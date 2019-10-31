@@ -15,7 +15,7 @@
       October (5) | 
       September (2) | 
       July (1) | 
-      April (1) | 
+      April (2) | 
   * [2015](./stevie-wonder-2015.md): 
       October (1) | 
       June (1) | 

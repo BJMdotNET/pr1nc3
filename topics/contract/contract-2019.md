@@ -6,6 +6,10 @@
 
 ----
 
+ - [**"Prince’s Memoir Isn’t Really Prince’s Memoir -- That doesn’t mean it’s not worth reading."**](https://slate.com/culture/2019/10/prince-memoir-book-review-the-beautiful-ones.html) in [slate.com](https://slate.com/) on 30 October 2019 about [Bremer Trust](../../topics/bremer-trust/index.md), [contract](../../topics/contract/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [John Nelson](../../topics/john-nelson/index.md), [memoir](../../topics/memoir/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://slate.com/culture/2019/10/prince-memoir-book-review-the-beautiful-ones.html))
+
+----
+
  - [**"Prince's Book Agent Reveals an Unconventional Path to ‘Beautiful Ones’ -- ICM Partners' literary doyenne Esther  Newberg shepherded the rock legend’s book to its posthumous publication: "He just didn't want others writing any more about him. He wanted to set the story straight.""**](https://www.hollywoodreporter.com/news/princes-memoir-beautiful-took-an-unconventional-path-bookshelves-1250555) in [The Hollywood Reporter](https://www.hollywoodreporter.com/) on 29 October 2019 about [contract](../../topics/contract/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Esther Newberg](../../topics/esther-newberg/index.md), [memoir](../../topics/memoir/index.md), [Random House ](../../topics/random-house/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.hollywoodreporter.com/news/princes-memoir-beautiful-took-an-unconventional-path-bookshelves-1250555))
 
 ----

@@ -2,7 +2,23 @@
 
 ## October 2019
 
+ - [**"All of Prince’s Spiciest Pop-Culture Hot Takes From His New Book, The Beautiful Ones"**](https://www.vulture.com/2019/10/prince-memoir-pop-culture-hot-takes.html) in [Vulture](https://www.vulture.com/) on 31 October 2019 about [Chaka Khan](../../topics/chaka-khan/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Ed Sheeran](../../topics/ed-sheeran/index.md), [Katy Perry](../../topics/katy-perry/index.md), [Lenny Kravitz](../../topics/lenny-kravitz/index.md), [memoir](../../topics/memoir/index.md), [Meron Bekure](../../topics/meron-bekure/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Purple Pam](../../topics/purple-pam/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.vulture.com/2019/10/prince-memoir-pop-culture-hot-takes.html))
+
+----
+
  - [**"De laatste woorden van popster Prince: ‘Hij liep nog over van de plannen’ -- Enkele maanden voor zijn dood begon popster Prince aan een autobiografie. Het boek kwam in de verste verte niet af, maar verschijnt nu toch, dankzij co-auteur Dan Piepenbring. ‘Prince was meer dan ooit bezig met zijn sterfelijkheid.’"**](https://www.parool.nl/kunst-media/de-laatste-woorden-van-popster-prince-hij-liep-nog-over-van-de-plannen~baef9d74/) in [Het Parool](https://www.parool.nl/) on 30 October 2019 about [Ed Sheeran](../../topics/ed-sheeran/index.md), [Katy Perry](../../topics/katy-perry/index.md) ([mirror](https://web.archive.org/web/*/https://www.parool.nl/kunst-media/de-laatste-woorden-van-popster-prince-hij-liep-nog-over-van-de-plannen~baef9d74/))
+
+----
+
+ - [**"QUAND PRINCE POUSSAIT UN COUP DE GUEULE CONTRE LES STARS DE LA POP"**](https://www.rocknfolk.com/news/quand-prince-poussait-un-coup-de-gueule-contre-les-stars-de-la-pop/39605) in [www.rocknfolk.com](https://www.rocknfolk.com/) on 30 October 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Ed Sheeran](../../topics/ed-sheeran/index.md), [James Brown](../../topics/james-brown/index.md), [Katy Perry](../../topics/katy-perry/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.rocknfolk.com/news/quand-prince-poussait-un-coup-de-gueule-contre-les-stars-de-la-pop/39605))
+
+----
+
+ - [**"Ruziënde ouders, zijn unieke naam en ‘Superman’: drie jaar na overlijden Prince verschijnt autobiografie ‘The Beautiful Ones’"**](https://www.hln.be/showbizz/celebrities/ruziende-ouders-zijn-unieke-naam-en-superman-drie-jaar-na-overlijden-prince-verschijnt-autobiografie-the-beautiful-ones~ae718968/) in [www.hln.be](https://www.hln.be/) on 30 October 2019 about [Chaka Khan](../../topics/chaka-khan/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Ed Sheeran](../../topics/ed-sheeran/index.md), [Katy Perry](../../topics/katy-perry/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.hln.be/showbizz/celebrities/ruziende-ouders-zijn-unieke-naam-en-superman-drie-jaar-na-overlijden-prince-verschijnt-autobiografie-the-beautiful-ones~ae718968/))
+
+----
+
+ - [**"What Early Readers Have Learned From Prince’s Memoir"**](https://www.kirkusreviews.com/features/prince-memoir-the-beautiful-ones-takeaways/) in [Kirkus Reviews](https://www.kirkusreviews.com/) on 30 October 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Ed Sheeran](../../topics/ed-sheeran/index.md), [Katy Perry](../../topics/katy-perry/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.kirkusreviews.com/features/prince-memoir-the-beautiful-ones-takeaways/))
 
 ----
 

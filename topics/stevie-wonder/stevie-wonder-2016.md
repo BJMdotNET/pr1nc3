@@ -54,4 +54,8 @@
 
 ----
 
+ - [**"Stevie Wonder on Prince's "greatness" and "love for people""**](https://www.cbsnews.com/news/stevie-wonder-remembers-prince/) in [CBS News](https://www.cbsnews.com/) on 22 April 2016 about [Stevie Wonder](../../topics/stevie-wonder/index.md) ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/news/stevie-wonder-remembers-prince/))
+
+----
+
 [Home](../)

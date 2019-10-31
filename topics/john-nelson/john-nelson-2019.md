@@ -2,6 +2,10 @@
 
 ## October 2019
 
+ - [**"Prince’s Memoir Isn’t Really Prince’s Memoir -- That doesn’t mean it’s not worth reading."**](https://slate.com/culture/2019/10/prince-memoir-book-review-the-beautiful-ones.html) in [slate.com](https://slate.com/) on 30 October 2019 about [Bremer Trust](../../topics/bremer-trust/index.md), [contract](../../topics/contract/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [John Nelson](../../topics/john-nelson/index.md), [memoir](../../topics/memoir/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://slate.com/culture/2019/10/prince-memoir-book-review-the-beautiful-ones.html))
+
+----
+
  - [**"Der unvollendete Weltstar Prince legt sein letztes Werk vor -- Dreieinhalb Jahre nach dem Tod des Funk-Stars Prince erscheinen seine Memoiren. Das aufschlussreiche Buch ist zwangsläufig lückenhaft."**](https://www.morgenpost.de/vermischtes/article227497917/Der-unvollendete-Weltstar-Prince-legt-sein-letztes-Werk-vor.html) in [www.morgenpost.de](https://www.morgenpost.de/) on 29 October 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [fentanyl](../../topics/fentanyl/index.md), [James Brown](../../topics/james-brown/index.md), [John Nelson](../../topics/john-nelson/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [memoir](../../topics/memoir/index.md), [Random House ](../../topics/random-house/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://www.morgenpost.de/vermischtes/article227497917/Der-unvollendete-Weltstar-Prince-legt-sein-letztes-Werk-vor.html))
 
 ----

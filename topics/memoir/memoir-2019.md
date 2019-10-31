@@ -2,7 +2,39 @@
 
 ## October 2019
 
+ - [**"All of Prince’s Spiciest Pop-Culture Hot Takes From His New Book, The Beautiful Ones"**](https://www.vulture.com/2019/10/prince-memoir-pop-culture-hot-takes.html) in [Vulture](https://www.vulture.com/) on 31 October 2019 about [Chaka Khan](../../topics/chaka-khan/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Ed Sheeran](../../topics/ed-sheeran/index.md), [Katy Perry](../../topics/katy-perry/index.md), [Lenny Kravitz](../../topics/lenny-kravitz/index.md), [memoir](../../topics/memoir/index.md), [Meron Bekure](../../topics/meron-bekure/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Purple Pam](../../topics/purple-pam/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.vulture.com/2019/10/prince-memoir-pop-culture-hot-takes.html))
+
+----
+
+ - [**"Dig if you will the picture... of Prince, in his own words"**](https://www.france24.com/en/20191031-dig-if-you-will-the-picture-of-prince-in-his-own-words) in [www.france24.com](https://www.france24.com/) on 31 October 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.france24.com/en/20191031-dig-if-you-will-the-picture-of-prince-in-his-own-words))
+
+----
+
+ - [**"Random House’s Chris Jackson on the Creation of Prince’s THE BEAUTIFUL ONES: “A Handbook for the Brilliant Community”"**](https://www.webwire.com/ViewPressRel.asp?aId=249276) in [www.webwire.com](https://www.webwire.com/) on 31 October 2019 about [Chris Jackson](../../topics/chris-jackson/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.webwire.com/ViewPressRel.asp?aId=249276))
+
+----
+
+ - [**"‘The Beautiful Ones’ isn’t the memoir Prince envisioned, but it’s a moving look at the singer’s life"**](https://www.washingtonpost.com/entertainment/books/the-beautiful-ones-isnt-the-memoir-prince-envisioned-but-its-a-moving-look-at-the-singers-life/2019/10/30/b4868632-fb16-11e9-8906-ab6b60de9124_story.html) in [www.washingtonpost.com](https://www.washingtonpost.com/) on 30 October 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [fentanyl](../../topics/fentanyl/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.washingtonpost.com/entertainment/books/the-beautiful-ones-isnt-the-memoir-prince-envisioned-but-its-a-moving-look-at-the-singers-life/2019/10/30/b4868632-fb16-11e9-8906-ab6b60de9124_story.html))
+
+----
+
+ - [**"Prince’s Memoir Isn’t Really Prince’s Memoir -- That doesn’t mean it’s not worth reading."**](https://slate.com/culture/2019/10/prince-memoir-book-review-the-beautiful-ones.html) in [slate.com](https://slate.com/) on 30 October 2019 about [Bremer Trust](../../topics/bremer-trust/index.md), [contract](../../topics/contract/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [John Nelson](../../topics/john-nelson/index.md), [memoir](../../topics/memoir/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://slate.com/culture/2019/10/prince-memoir-book-review-the-beautiful-ones.html))
+
+----
+
+ - [**"Prince's The Beautiful Ones is a breathtaking, occasionally frustrating look at the icon -- The Purple One's long-awaited memoir features personal details and rare artifacts Prince fans have been pining for, even if the book doesn't quite live up to its lofty ambitions."**](https://ew.com/book-reviews/2019/10/30/prince-the-beautiful-ones-ew-review/) in [EW (Entertainment Weekly)](https://ew.com/) on 30 October 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Do Me Baby (song)](../../topics/song/do-me-baby/index.md), [fentanyl](../../topics/fentanyl/index.md), [memoir](../../topics/memoir/index.md), [Random House ](../../topics/random-house/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [trademark](../../topics/trademark/index.md) ([mirror](https://web.archive.org/web/*/https://ew.com/book-reviews/2019/10/30/prince-the-beautiful-ones-ew-review/))
+
+----
+
+ - [**"Ruziënde ouders, zijn unieke naam en ‘Superman’: drie jaar na overlijden Prince verschijnt autobiografie ‘The Beautiful Ones’"**](https://www.hln.be/showbizz/celebrities/ruziende-ouders-zijn-unieke-naam-en-superman-drie-jaar-na-overlijden-prince-verschijnt-autobiografie-the-beautiful-ones~ae718968/) in [www.hln.be](https://www.hln.be/) on 30 October 2019 about [Chaka Khan](../../topics/chaka-khan/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Ed Sheeran](../../topics/ed-sheeran/index.md), [Katy Perry](../../topics/katy-perry/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.hln.be/showbizz/celebrities/ruziende-ouders-zijn-unieke-naam-en-superman-drie-jaar-na-overlijden-prince-verschijnt-autobiografie-the-beautiful-ones~ae718968/))
+
+----
+
  - [**"Vandaag verschijnt de autobiografie van Prince: "Zo intiem is hij tijdens zijn leven nooit geweest" -- Het muziekfenomeen Prince stierf op 21 april 2016, toch verschijnt vandaag postuum zijn onafgewerkte autobiografie. Wat komen we te weten over "His royal badness"? Muzikant Stijn en muziekexpert Sasha Van der Speeten, allebei hevige fans, konden de memoires al lezen."**](https://www.vrt.be/vrtnws/nl/2019/10/28/vandaag-verschijnt-de-autobiografie-van-prince/) in [VRT NWS](https://www.vrt.be/vrtnws/) on 30 October 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.vrt.be/vrtnws/nl/2019/10/28/vandaag-verschijnt-de-autobiografie-van-prince/))
+
+----
+
+ - [**"What Early Readers Have Learned From Prince’s Memoir"**](https://www.kirkusreviews.com/features/prince-memoir-the-beautiful-ones-takeaways/) in [Kirkus Reviews](https://www.kirkusreviews.com/) on 30 October 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Ed Sheeran](../../topics/ed-sheeran/index.md), [Katy Perry](../../topics/katy-perry/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.kirkusreviews.com/features/prince-memoir-the-beautiful-ones-takeaways/))
 
 ----
 
@@ -158,7 +190,7 @@
 
 ----
 
- - [**"15 New Books You Should Read in October"**](https://time.com/5684268/best-books-october-2019/) in [time.com](https://time.com/) on 1 October 2019 about [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://time.com/5684268/best-books-october-2019/))
+ - [**"15 New Books You Should Read in October"**](https://time.com/5684268/best-books-october-2019/) in [TIME](https://time.com/) on 1 October 2019 about [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://time.com/5684268/best-books-october-2019/))
 
 ----
 

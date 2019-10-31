@@ -1,7 +1,7 @@
 # vault
 
   * [2019](./vault-2019.md): 
-      October (22) | 
+      October (23) | 
       September (20) | 
       August (1) | 
       June (8) | 

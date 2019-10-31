@@ -2,6 +2,10 @@
 
 ## October 2019
 
+ - [**"‘The Beautiful Ones’ isn’t the memoir Prince envisioned, but it’s a moving look at the singer’s life"**](https://www.washingtonpost.com/entertainment/books/the-beautiful-ones-isnt-the-memoir-prince-envisioned-but-its-a-moving-look-at-the-singers-life/2019/10/30/b4868632-fb16-11e9-8906-ab6b60de9124_story.html) in [www.washingtonpost.com](https://www.washingtonpost.com/) on 30 October 2019 about [Dan Piepenbring](../../../topics/dan-piepenbring/index.md), [fentanyl](../../../topics/fentanyl/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [memoir](../../../topics/memoir/index.md), [The Beautiful Ones (book)](../../../topics/book/the-beautiful-ones/index.md), [vault](../../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.washingtonpost.com/entertainment/books/the-beautiful-ones-isnt-the-memoir-prince-envisioned-but-its-a-moving-look-at-the-singers-life/2019/10/30/b4868632-fb16-11e9-8906-ab6b60de9124_story.html))
+
+----
+
  - [**"Der unvollendete Weltstar Prince legt sein letztes Werk vor -- Dreieinhalb Jahre nach dem Tod des Funk-Stars Prince erscheinen seine Memoiren. Das aufschlussreiche Buch ist zwangsläufig lückenhaft."**](https://www.morgenpost.de/vermischtes/article227497917/Der-unvollendete-Weltstar-Prince-legt-sein-letztes-Werk-vor.html) in [www.morgenpost.de](https://www.morgenpost.de/) on 29 October 2019 about [Dan Piepenbring](../../../topics/dan-piepenbring/index.md), [fentanyl](../../../topics/fentanyl/index.md), [James Brown](../../../topics/james-brown/index.md), [John Nelson](../../../topics/john-nelson/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [memoir](../../../topics/memoir/index.md), [Random House ](../../../topics/random-house/index.md), [The Beautiful Ones (book)](../../../topics/book/the-beautiful-ones/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://www.morgenpost.de/vermischtes/article227497917/Der-unvollendete-Weltstar-Prince-legt-sein-letztes-Werk-vor.html))
 
 ----

@@ -2,6 +2,14 @@
 
 ## October 2019
 
+ - [**"‘The Beautiful Ones’ isn’t the memoir Prince envisioned, but it’s a moving look at the singer’s life"**](https://www.washingtonpost.com/entertainment/books/the-beautiful-ones-isnt-the-memoir-prince-envisioned-but-its-a-moving-look-at-the-singers-life/2019/10/30/b4868632-fb16-11e9-8906-ab6b60de9124_story.html) in [www.washingtonpost.com](https://www.washingtonpost.com/) on 30 October 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [fentanyl](../../topics/fentanyl/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.washingtonpost.com/entertainment/books/the-beautiful-ones-isnt-the-memoir-prince-envisioned-but-its-a-moving-look-at-the-singers-life/2019/10/30/b4868632-fb16-11e9-8906-ab6b60de9124_story.html))
+
+----
+
+ - [**"Prince's The Beautiful Ones is a breathtaking, occasionally frustrating look at the icon -- The Purple One's long-awaited memoir features personal details and rare artifacts Prince fans have been pining for, even if the book doesn't quite live up to its lofty ambitions."**](https://ew.com/book-reviews/2019/10/30/prince-the-beautiful-ones-ew-review/) in [EW (Entertainment Weekly)](https://ew.com/) on 30 October 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Do Me Baby (song)](../../topics/song/do-me-baby/index.md), [fentanyl](../../topics/fentanyl/index.md), [memoir](../../topics/memoir/index.md), [Random House ](../../topics/random-house/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [trademark](../../topics/trademark/index.md) ([mirror](https://web.archive.org/web/*/https://ew.com/book-reviews/2019/10/30/prince-the-beautiful-ones-ew-review/))
+
+----
+
  - [**"« On ne saura jamais à quoi les Mémoires de Prince auraient ressemblé s’il avait été en vie » -- L’autobiographie inachevée du chanteur, mort brutalement en 2016, sort en librairie mardi aux Etats-Unis et jeudi en France."**](https://www.lemonde.fr/big-browser/article/2019/10/29/on-ne-saura-jamais-a-quoi-les-memoires-de-prince-auraient-ressemble-s-il-avait-ete-en-vie_6017345_4832693.html) in [Le Monde](https://www.lemonde.fr/) on 29 October 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [fentanyl](../../topics/fentanyl/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.lemonde.fr/big-browser/article/2019/10/29/on-ne-saura-jamais-a-quoi-les-memoires-de-prince-auraient-ressemble-s-il-avait-ete-en-vie_6017345_4832693.html))
 
 ----

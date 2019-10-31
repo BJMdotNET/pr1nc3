@@ -2,6 +2,10 @@
 
 ## October 2019
 
+ - [**"Trois ans après sa mort, des mémoires éclairent la personnalité du grand Prince -- Maître du funk, génie musical, visionnaire, tous ces descriptifs viennent à la bouche en parlant de Prince."**](https://www.crooner.fr/2019/10/31/trois-ans-apres-sa-mort-des-memoires-eclairent-la-personnalite-du-grand-prince/) in [www.crooner.fr](https://www.crooner.fr/) on 31 October 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Grammy Award](../../topics/grammy-award/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [The Revolution](../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/https://www.crooner.fr/2019/10/31/trois-ans-apres-sa-mort-des-memoires-eclairent-la-personnalite-du-grand-prince/))
+
+----
+
  - [**"Les mémoires inachevées de Prince : on vous dévoile les bonnes feuilles de "The Beautiful Ones" -- SOUVENIRS - Plus de 3 ans après sa disparition, le chanteur Prince revient à ses fans à travers une autobiographie inachevée "The Beautiful Ones" publiée ce jeudi aux éditions Robet Laffont. Retour sur les bonnes feuilles des mémoires inédits écrits de la main de cet artiste planétaire peu avant sa mort."**](https://www.lci.fr/sorties/les-memoires-inachevees-de-prince-on-vous-devoile-les-bonnes-feuilles-de-the-beautiful-ones-2136218.html) in [LCI](https://www.lci.fr/) on 29 October 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [The Revolution](../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/https://www.lci.fr/sorties/les-memoires-inachevees-de-prince-on-vous-devoile-les-bonnes-feuilles-de-the-beautiful-ones-2136218.html))
 
 ----

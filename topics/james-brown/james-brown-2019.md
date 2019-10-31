@@ -2,6 +2,14 @@
 
 ## October 2019
 
+ - [**"Comment Rogers Nelson est devenu Prince -- Dans « The beautiful Ones », sorte d'autobiographie posthume et inachevée, plane le fantôme d'un artiste solitaire qui voulait écrire l'histoire de sa vie."**](https://www.lepoint.fr/culture/comment-rogers-nelson-est-devenu-prince-30-10-2019-2344489_3.php) in [www.lepoint.fr](https://www.lepoint.fr/) on 30 October 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Denise Matthews](../../topics/denise-matthews/index.md), [James Brown](../../topics/james-brown/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Peter Bravestrong](../../topics/peter-bravestrong/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md) ([mirror](https://web.archive.org/web/*/https://www.lepoint.fr/culture/comment-rogers-nelson-est-devenu-prince-30-10-2019-2344489_3.php))
+
+----
+
+ - [**"QUAND PRINCE POUSSAIT UN COUP DE GUEULE CONTRE LES STARS DE LA POP"**](https://www.rocknfolk.com/news/quand-prince-poussait-un-coup-de-gueule-contre-les-stars-de-la-pop/39605) in [www.rocknfolk.com](https://www.rocknfolk.com/) on 30 October 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Ed Sheeran](../../topics/ed-sheeran/index.md), [James Brown](../../topics/james-brown/index.md), [Katy Perry](../../topics/katy-perry/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.rocknfolk.com/news/quand-prince-poussait-un-coup-de-gueule-contre-les-stars-de-la-pop/39605))
+
+----
+
  - [**"Der unvollendete Weltstar Prince legt sein letztes Werk vor -- Dreieinhalb Jahre nach dem Tod des Funk-Stars Prince erscheinen seine Memoiren. Das aufschlussreiche Buch ist zwangsläufig lückenhaft."**](https://www.morgenpost.de/vermischtes/article227497917/Der-unvollendete-Weltstar-Prince-legt-sein-letztes-Werk-vor.html) in [www.morgenpost.de](https://www.morgenpost.de/) on 29 October 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [fentanyl](../../topics/fentanyl/index.md), [James Brown](../../topics/james-brown/index.md), [John Nelson](../../topics/john-nelson/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [memoir](../../topics/memoir/index.md), [Random House ](../../topics/random-house/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://www.morgenpost.de/vermischtes/article227497917/Der-unvollendete-Weltstar-Prince-legt-sein-letztes-Werk-vor.html))
 
 ----

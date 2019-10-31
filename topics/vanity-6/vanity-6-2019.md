@@ -2,6 +2,10 @@
 
 ## October 2019
 
+ - [**"Comment Rogers Nelson est devenu Prince -- Dans « The beautiful Ones », sorte d'autobiographie posthume et inachevée, plane le fantôme d'un artiste solitaire qui voulait écrire l'histoire de sa vie."**](https://www.lepoint.fr/culture/comment-rogers-nelson-est-devenu-prince-30-10-2019-2344489_3.php) in [www.lepoint.fr](https://www.lepoint.fr/) on 30 October 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Denise Matthews](../../topics/denise-matthews/index.md), [James Brown](../../topics/james-brown/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Peter Bravestrong](../../topics/peter-bravestrong/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md) ([mirror](https://web.archive.org/web/*/https://www.lepoint.fr/culture/comment-rogers-nelson-est-devenu-prince-30-10-2019-2344489_3.php))
+
+----
+
  - [**"‘Purple Rain’ star Morris Day opens up about Prince’s ‘Jesus complex’"**](https://nypost.com/2019/10/12/purple-rain-star-morris-day-opens-up-about-princes-jesus-complex/) in [New York Post](https://nypost.com/) on 12 October 2019 about [Graffiti Bridge (movie)](../../topics/movie/graffiti-bridge/index.md), [Jamie Starr](../../topics/jamie-starr/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jungle Love (song)](../../topics/song/jungle-love/index.md), [Morris Day](../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Bird (song)](../../topics/song/the-bird/index.md), [The Time](../../topics/the-time/index.md), [Vanity 6](../../topics/vanity-6/index.md) ([mirror](https://web.archive.org/web/*/https://nypost.com/2019/10/12/purple-rain-star-morris-day-opens-up-about-princes-jesus-complex/))
 
 ----

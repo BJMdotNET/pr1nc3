@@ -1,5 +1,15 @@
 # Miles Davis: 2019
 
+## October 2019
+
+ - [**"All of Prince’s Spiciest Pop-Culture Hot Takes From His New Book, The Beautiful Ones"**](https://www.vulture.com/2019/10/prince-memoir-pop-culture-hot-takes.html) in [Vulture](https://www.vulture.com/) on 31 October 2019 about [Chaka Khan](../../topics/chaka-khan/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Ed Sheeran](../../topics/ed-sheeran/index.md), [Katy Perry](../../topics/katy-perry/index.md), [Lenny Kravitz](../../topics/lenny-kravitz/index.md), [memoir](../../topics/memoir/index.md), [Meron Bekure](../../topics/meron-bekure/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Purple Pam](../../topics/purple-pam/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.vulture.com/2019/10/prince-memoir-pop-culture-hot-takes.html))
+
+----
+
+ - [**"Comment Rogers Nelson est devenu Prince -- Dans « The beautiful Ones », sorte d'autobiographie posthume et inachevée, plane le fantôme d'un artiste solitaire qui voulait écrire l'histoire de sa vie."**](https://www.lepoint.fr/culture/comment-rogers-nelson-est-devenu-prince-30-10-2019-2344489_3.php) in [www.lepoint.fr](https://www.lepoint.fr/) on 30 October 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Denise Matthews](../../topics/denise-matthews/index.md), [James Brown](../../topics/james-brown/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Peter Bravestrong](../../topics/peter-bravestrong/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md) ([mirror](https://web.archive.org/web/*/https://www.lepoint.fr/culture/comment-rogers-nelson-est-devenu-prince-30-10-2019-2344489_3.php))
+
+----
+
 ## September 2019
 
  - [**"PREVIEW: Donna Grantis At The Dakota Jazz Club, 9/24"**](https://twincitiesarts.com/2019/09/17/preview-donna-gratis-dakota-jazz-club/) in [twincitiesarts.com](https://twincitiesarts.com/) on 17 September 2019 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Dakota (place)](../../topics/place/dakota/index.md), [Donna Grantis](../../topics/donna-grantis/index.md), [Hannah Welton](../../topics/hannah-welton/index.md), [Miles Davis](../../topics/miles-davis/index.md), [New Power Generation](../../topics/new-power-generation/index.md) ([mirror](https://web.archive.org/web/*/https://twincitiesarts.com/2019/09/17/preview-donna-gratis-dakota-jazz-club/))

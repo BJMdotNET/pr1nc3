@@ -1,6 +1,7 @@
 # Bremer Trust
 
   * [2019](./bremer-trust-2019.md): 
+      October (1) | 
       July (1) | 
       April (1) | 
   * [2018](./bremer-trust-2018.md): 
