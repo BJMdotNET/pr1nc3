@@ -2,7 +2,7 @@
 
   * 2019: 
       [November](./billboard-2019-11.md) (1) | 
-      [October](./billboard-2019-10.md) (1) | 
+      [October](./billboard-2019-10.md) (2) | 
       [September](./billboard-2019-09.md) (1) | 
       [August](./billboard-2019-08.md) (1) | 
       [June](./billboard-2019-06.md) (2) | 

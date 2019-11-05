@@ -1,6 +1,6 @@
 # place
 
-  * [Atlanta (place)](./place/atlanta/) (25)
+  * [Atlanta (place)](./place/atlanta/) (26)
   * [Bel Air (place)](./place/bel-air/) (1)
   * [Bunkers (place)](./place/bunkers/) (1)
   * [Capri Theater  (place)](./place/capri-theater/) (6)
@@ -14,7 +14,7 @@
   * [Glam Slam (place)](./place/glam-slam/) (2)
   * [Houston Summit (place)](./place/houston-summit/) (12)
   * [Lake Minnetonka (place)](./place/lake-minnetonka/) (3)
-  * [London (place)](./place/london/) (8)
+  * [London (place)](./place/london/) (9)
   * [Mann’s Chinese Theatre (place)](./place/mann-s-chinese-theatre/) (1)
   * [Minneapolis-St. Paul International Airport (place)](./place/minneapolis-st-paul-international-airport/) (2)
   * [Moline, Illinois (place)](./place/moline-illinois/) (18)

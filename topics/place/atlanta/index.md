@@ -1,6 +1,7 @@
 # Atlanta (place)
 
   * [2019](./atlanta-place-2019.md): 
+      October (1) | 
       September (2) | 
       June (1) | 
   * [2018](./atlanta-place-2018.md): 

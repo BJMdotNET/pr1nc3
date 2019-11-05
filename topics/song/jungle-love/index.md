@@ -1,7 +1,7 @@
 # Jungle Love (song)
 
   * [2019](./jungle-love-song-2019.md): 
-      October (5) | 
+      October (6) | 
       August (2) | 
       June (5) | 
   * [2017](./jungle-love-song-2017.md): 

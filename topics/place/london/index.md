@@ -1,5 +1,9 @@
 # London (place)
 
+ - [**"Inside Prince’s surprise London gig at Ronnie Scott’s: From absolute ‘chaos’ to banned celeb guestlist"**](https://metro.co.uk/2019/10/29/inside-prince-surprise-london-gig-ronnie-scotts-absolute-chaos-banned-celeb-guestlist-10971994/) in [metro.co.uk](https://metro.co.uk/) on 29 October 2019 about [London (place)](../../../topics/place/london/index.md), [Rita Ora](../../../topics/rita-ora/index.md) ([mirror](https://web.archive.org/web/*/https://metro.co.uk/2019/10/29/inside-prince-surprise-london-gig-ronnie-scotts-absolute-chaos-banned-celeb-guestlist-10971994/))
+
+----
+
  - [**"AM Prep-Music -- PRINCE’S PERSONAL ITEMS GO ON DISPLAY IN LONDON"**](https://apnews.com/28703b322bd34762b8d47ec043e9c98a) in [Associated Press News](https://apnews.com/) on 27 October 2017 about [London (place)](../../../topics/place/london/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/28703b322bd34762b8d47ec043e9c98a))
 
 ----
