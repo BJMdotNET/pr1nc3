@@ -76,7 +76,7 @@
 
 ----
 
- - [**"Prince « The Beautiful Ones, mémoires inachevés »"**](http://www.funku.fr/2019/prince-the-beautiful-ones-memoires-inacheves/) in [Funk-U](http://www.funku.fr/) on 30 October 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Do Me Baby (song)](../../topics/song/do-me-baby/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/http://www.funku.fr/2019/prince-the-beautiful-ones-memoires-inacheves/))
+ - [**"Prince: The Beautiful Ones, mémoires inachevés"**](http://www.funku.fr/2019/prince-the-beautiful-ones-memoires-inacheves/) in [Funk-U](http://www.funku.fr/) on 30 October 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Do Me Baby (song)](../../topics/song/do-me-baby/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/http://www.funku.fr/2019/prince-the-beautiful-ones-memoires-inacheves/))
 
 ----
 
