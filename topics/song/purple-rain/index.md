@@ -5,7 +5,7 @@
       July (6) | 
       June (2) | 
   * [2018](./purple-rain-song-2018.md): 
-      September (2) | 
+      September (3) | 
   * [2017](./purple-rain-song-2017.md): 
       June (3) | 
       April (1) | 

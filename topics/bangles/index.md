@@ -4,7 +4,7 @@
       September (1) | 
       August (1) | 
       July (4) | 
-      June (22) | 
+      June (23) | 
       April (3) | 
   * [2016](./bangles-2016.md): 
       November (1) | 

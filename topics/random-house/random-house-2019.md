@@ -1,5 +1,11 @@
 # Random House : 2019
 
+## November 2019
+
+ - [**"'He was kind of tortured': memoir reveals Prince's family torment"**](https://www.smh.com.au/culture/music/he-was-kind-of-tortured-memoir-reveals-prince-s-family-torment-20191028-p534wi.html) in [www.smh.com.au](https://www.smh.com.au/) on 1 November 2019 about [contract](../../topics/contract/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [Penguin Random House](../../topics/penguin-random-house/index.md), [Random House ](../../topics/random-house/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.smh.com.au/culture/music/he-was-kind-of-tortured-memoir-reveals-prince-s-family-torment-20191028-p534wi.html))
+
+----
+
 ## October 2019
 
  - [**"Les mémoires de Prince sortent 3 ans après sa mort"**](https://www.rtbf.be/classic21/article/detail_les-memoires-de-prince-sortent-3-ans-apres-sa-mort?id=10355075) in [www.rtbf.be](https://www.rtbf.be/) on 31 October 2019 about [Ava DuVernay](../../topics/ava-duvernay/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Penguin Random House](../../topics/penguin-random-house/index.md), [Random House ](../../topics/random-house/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [Universal Pictures](../../topics/universal-pictures/index.md) ([mirror](https://web.archive.org/web/*/https://www.rtbf.be/classic21/article/detail_les-memoires-de-prince-sortent-3-ans-apres-sa-mort?id=10355075))

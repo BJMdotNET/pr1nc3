@@ -1,6 +1,7 @@
 # museum
 
   * [2019](./museum-2019.md): 
+      November (1) | 
       October (4) | 
       September (3) | 
       August (9) | 

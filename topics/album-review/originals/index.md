@@ -28,6 +28,10 @@
 
 ----
 
+ - [**"Prince: Originals review – Dazzling tracks from the vault of a pop genius"**](https://www.irishtimes.com/culture/music/prince-originals-review-dazzling-tracks-from-the-vault-of-a-pop-genius-1.3928324) in [www.irishtimes.com](https://www.irishtimes.com/) on 21 June 2019 about [Bangles](../../../topics/bangles/index.md), [Kenny Rogers](../../../topics/kenny-rogers/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Originals (album review)](../../../topics/album-review/originals/index.md), [vault](../../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.irishtimes.com/culture/music/prince-originals-review-dazzling-tracks-from-the-vault-of-a-pop-genius-1.3928324))
+
+----
+
  - [**"Prince's Originals is a unique look into the late artist's songwriting prowess"**](https://ew.com/music-reviews/2019/06/21/prince-originals-review/) in [EW (Entertainment Weekly)](https://ew.com/) on 21 June 2019 about [Bangles](../../../topics/bangles/index.md), [Jill Jones](../../../topics/jill-jones/index.md), [Originals (album review)](../../../topics/album-review/originals/index.md), [Originals (album)](../../../topics/album/originals/index.md) ([mirror](https://web.archive.org/web/*/https://ew.com/music-reviews/2019/06/21/prince-originals-review/))
 
 ----

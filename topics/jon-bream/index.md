@@ -1,5 +1,9 @@
 # Jon Bream
 
+ - [**"6 cool things in music including Prince's memoir, Lady Gaga, Kanye West, Lewis Capaldi, Tom Morello"**](http://www.startribune.com/6-cool-things-in-music-including-prince-s-memoir-lady-gaga-kanye-west-lewis-capaldi-tom-morello/564218342/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 2 November 2019 about [First Avenue (place)](../../topics/place/first-avenue/index.md), [Jon Bream](../../topics/jon-bream/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/6-cool-things-in-music-including-prince-s-memoir-lady-gaga-kanye-west-lewis-capaldi-tom-morello/564218342/))
+
+----
+
  - [**"Here’s what the Prince exhibit coming to the 2020 Minnesota State Fair might look like"**](http://www.citypages.com/music/heres-what-the-prince-exhibit-coming-to-the-2020-minnesota-state-fair-might-look-like/559252741) in [City Pages](http://www.citypages.com/) on 3 September 2019 about [Alfred Jackson](../../topics/alfred-jackson/index.md), [contract](../../topics/contract/index.md), [exhibit](../../topics/exhibit/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [Jon Bream](../../topics/jon-bream/index.md), [merchandise](../../topics/merchandise/index.md), [Minnesota State Fair](../../topics/minnesota-state-fair/index.md), [State Fair](../../topics/state-fair/index.md) ([mirror](https://web.archive.org/web/*/http://www.citypages.com/music/heres-what-the-prince-exhibit-coming-to-the-2020-minnesota-state-fair-might-look-like/559252741))
 
 ----

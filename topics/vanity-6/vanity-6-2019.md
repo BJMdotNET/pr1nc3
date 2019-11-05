@@ -2,6 +2,10 @@
 
 ## October 2019
 
+ - [**"Early Lyrics to ‘Purple Rain’ and Other Musical Details From Prince’s New Book"**](https://www.vulture.com/2019/10/prince-book-purple-rain-lyrics-music-details.html) in [Vulture](https://www.vulture.com/) on 31 October 2019 about [Bold Generation (song)](../../topics/song/bold-generation/index.md), [Computer Blue (song)](../../topics/song/computer-blue/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [memoir](../../topics/memoir/index.md), [Purple Music (song)](../../topics/song/purple-music/index.md), [Raspberry Beret (song)](../../topics/song/raspberry-beret/index.md), [Vagina (song)](../../topics/song/vagina/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.vulture.com/2019/10/prince-book-purple-rain-lyrics-music-details.html))
+
+----
+
  - [**"Comment Rogers Nelson est devenu Prince -- Dans « The beautiful Ones », sorte d'autobiographie posthume et inachevée, plane le fantôme d'un artiste solitaire qui voulait écrire l'histoire de sa vie."**](https://www.lepoint.fr/culture/comment-rogers-nelson-est-devenu-prince-30-10-2019-2344489_3.php) in [www.lepoint.fr](https://www.lepoint.fr/) on 30 October 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Denise Matthews](../../topics/denise-matthews/index.md), [James Brown](../../topics/james-brown/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Peter Bravestrong](../../topics/peter-bravestrong/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md) ([mirror](https://web.archive.org/web/*/https://www.lepoint.fr/culture/comment-rogers-nelson-est-devenu-prince-30-10-2019-2344489_3.php))
 
 ----

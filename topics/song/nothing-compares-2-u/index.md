@@ -4,7 +4,7 @@
       October (1) | 
       September (1) | 
       July (3) | 
-      June (13) | 
+      June (14) | 
       April (3) | 
   * [2018](./nothing-compares-2-u-song-2018.md): 
       September (1) | 

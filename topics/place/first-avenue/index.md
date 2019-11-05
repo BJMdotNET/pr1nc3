@@ -1,6 +1,7 @@
 # First Avenue (place)
 
   * [2019](./first-avenue-place-2019.md): 
+      November (2) | 
       October (4) | 
       September (2) | 
       August (4) | 

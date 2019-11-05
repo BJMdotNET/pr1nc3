@@ -1,6 +1,16 @@
 # The Prince Estate: 2019
 
+## November 2019
+
+ - [**"Prince’s last days: ‘He seemed so strong. He was still burning with ambition’ -- Dan Piepenbring on how he brought the musician’s memoir to life following his death"**](https://www.irishtimes.com/culture/music/prince-s-last-days-he-seemed-so-strong-he-was-still-burning-with-ambition-1.4059357) in [www.irishtimes.com](https://www.irishtimes.com/) on 2 November 2019 about [contract](../../topics/contract/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [memoir](../../topics/memoir/index.md), [Penguin Random House](../../topics/penguin-random-house/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md) ([mirror](https://web.archive.org/web/*/https://www.irishtimes.com/culture/music/prince-s-last-days-he-seemed-so-strong-he-was-still-burning-with-ambition-1.4059357))
+
+----
+
 ## October 2019
+
+ - [**"Morris Day On His Life With Prince: From ‘Purple Rain’ To A Godly Ultimatum"**](https://www.forbes.com/sites/derekscancarelli/2019/10/29/morris-day-on-his-life-with-prince-from-purple-rain-to-a-godly-ultimatum/) in [Forbes](https://www.forbes.com/) on 29 October 2019 about [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md) ([mirror](https://web.archive.org/web/*/https://www.forbes.com/sites/derekscancarelli/2019/10/29/morris-day-on-his-life-with-prince-from-purple-rain-to-a-godly-ultimatum/))
+
+----
 
  - [**"Prince Estate Drops Stripped-Down 'I Feel For You' Acoustic Demo: Listen"**](https://www.billboard.com/articles/news/8533600/prince-estate-warner-records-drops-stripped-down-i-feel-for-you-acoustic-demo-listen) in [Billboard](https://www.billboard.com/) on 20 October 2019 about [Chaka Khan](../../topics/chaka-khan/index.md), [For You (album)](../../topics/album/for-you/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Michael Howe](../../topics/michael-howe/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8533600/prince-estate-warner-records-drops-stripped-down-i-feel-for-you-acoustic-demo-listen))
 

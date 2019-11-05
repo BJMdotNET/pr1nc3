@@ -2,6 +2,10 @@
 
 ## October 2019
 
+ - [**"Morris Day On His Life With Prince: From ‘Purple Rain’ To A Godly Ultimatum"**](https://www.forbes.com/sites/derekscancarelli/2019/10/29/morris-day-on-his-life-with-prince-from-purple-rain-to-a-godly-ultimatum/) in [Forbes](https://www.forbes.com/) on 29 October 2019 about [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md) ([mirror](https://web.archive.org/web/*/https://www.forbes.com/sites/derekscancarelli/2019/10/29/morris-day-on-his-life-with-prince-from-purple-rain-to-a-godly-ultimatum/))
+
+----
+
  - [**"Mike Judge’s Silicon Valley take on power continues in Tales from the Tour Bus -- The Morris Day and Prince episode is another strong exploration of insider / outsider dynamics"**](https://www.theverge.com/2019/10/25/20932300/silicon-valley-season-6-mike-judge-tales-from-the-tour-bus-prince-morris-day-cinemax-streaming) in [The Verge](https://www.theverge.com/) on 25 October 2019 about [James Brown](../../topics/james-brown/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md) ([mirror](https://web.archive.org/web/*/https://www.theverge.com/2019/10/25/20932300/silicon-valley-season-6-mike-judge-tales-from-the-tour-bus-prince-morris-day-cinemax-streaming))
 
 ----

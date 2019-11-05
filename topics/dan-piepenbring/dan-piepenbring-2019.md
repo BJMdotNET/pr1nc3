@@ -1,5 +1,39 @@
 # Dan Piepenbring: 2019
 
+## November 2019
+
+ - [**"Book Review: ‘The Beautiful Ones’ a moving look at the singer’s life"**](https://www.seacoastonline.com/news/20191103/book-review-the-beautiful-ones-moving-look-at-singers-life) in [www.seacoastonline.com](https://www.seacoastonline.com/) on 3 November 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [fentanyl](../../topics/fentanyl/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.seacoastonline.com/news/20191103/book-review-the-beautiful-ones-moving-look-at-singers-life))
+
+----
+
+ - [**"Becoming Prince: The Beautiful Ones Reviewed -- Prince's posthumous memoir conceals as much as it reveals, but remains a beautiful and strange book, finds Soma Ghosh"**](https://thequietus.com/articles/27371-the-beautiful-ones-prince-review) in [The Quietus](https://thequietus.com/) on 2 November 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Jamie Starr](../../topics/jamie-starr/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [John Nelson](../../topics/john-nelson/index.md), [memoir](../../topics/memoir/index.md), [Miles Davis](../../topics/miles-davis/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://thequietus.com/articles/27371-the-beautiful-ones-prince-review))
+
+----
+
+ - [**"Prince’s last days: ‘He seemed so strong. He was still burning with ambition’ -- Dan Piepenbring on how he brought the musician’s memoir to life following his death"**](https://www.irishtimes.com/culture/music/prince-s-last-days-he-seemed-so-strong-he-was-still-burning-with-ambition-1.4059357) in [www.irishtimes.com](https://www.irishtimes.com/) on 2 November 2019 about [contract](../../topics/contract/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [memoir](../../topics/memoir/index.md), [Penguin Random House](../../topics/penguin-random-house/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md) ([mirror](https://web.archive.org/web/*/https://www.irishtimes.com/culture/music/prince-s-last-days-he-seemed-so-strong-he-was-still-burning-with-ambition-1.4059357))
+
+----
+
+ - [**"What critics are missing about Prince's raw, rule-breaking memoir"**](https://edition.cnn.com/2019/11/01/opinions/prince-memoir-is-about-race-and-more-cane/index.html) in [CNN International](https://edition.cnn.com/) on 2 November 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://edition.cnn.com/2019/11/01/opinions/prince-memoir-is-about-race-and-more-cane/index.html))
+
+----
+
+ - [**"'He was kind of tortured': memoir reveals Prince's family torment"**](https://www.smh.com.au/culture/music/he-was-kind-of-tortured-memoir-reveals-prince-s-family-torment-20191028-p534wi.html) in [www.smh.com.au](https://www.smh.com.au/) on 1 November 2019 about [contract](../../topics/contract/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [Penguin Random House](../../topics/penguin-random-house/index.md), [Random House ](../../topics/random-house/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.smh.com.au/culture/music/he-was-kind-of-tortured-memoir-reveals-prince-s-family-torment-20191028-p534wi.html))
+
+----
+
+ - [**"Prince memoir ‘The Beautiful Ones’ finished, released posthumously"**](https://www.columbian.com/news/2019/nov/01/prince-memoir-the-beautiful-ones-finished-released-posthumously/) in [www.columbian.com](https://www.columbian.com/) on 1 November 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [memoir](../../topics/memoir/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.columbian.com/news/2019/nov/01/prince-memoir-the-beautiful-ones-finished-released-posthumously/))
+
+----
+
+ - [**"Prince Memoir: Hear ‘The Beautiful Ones’ Audio Clip From Book’s Introduction -- Esperanza Spalding and Adepero Oduye recorded the Prince parts of the book, and Dan Piepenbring wrote the introduction to the memoir"**](https://www.rollingstone.com/music/music-news/prince-memoir-audio-clip-beautiful-ones-906680/) in [Rolling Stone](https://www.rollingstone.com/) on 1 November 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Esperanza Spalding](../../topics/esperanza-spalding/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-news/prince-memoir-audio-clip-beautiful-ones-906680/))
+
+----
+
+ - [**"Prince's co-author talks about the late artist's new book"**](https://kstp.com/news/prince-co-author-talks-about-the-late-artists-new-book-the-beautiful-one-/5541590/) in [KSTP](https://kstp.com/) on 1 November 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://kstp.com/news/prince-co-author-talks-about-the-late-artists-new-book-the-beautiful-one-/5541590/))
+
+----
+
 ## October 2019
 
  - [**"All of Prince’s Spiciest Pop-Culture Hot Takes From His New Book, The Beautiful Ones"**](https://www.vulture.com/2019/10/prince-memoir-pop-culture-hot-takes.html) in [Vulture](https://www.vulture.com/) on 31 October 2019 about [Chaka Khan](../../topics/chaka-khan/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Ed Sheeran](../../topics/ed-sheeran/index.md), [Katy Perry](../../topics/katy-perry/index.md), [Lenny Kravitz](../../topics/lenny-kravitz/index.md), [memoir](../../topics/memoir/index.md), [Meron Bekure](../../topics/meron-bekure/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Purple Pam](../../topics/purple-pam/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.vulture.com/2019/10/prince-memoir-pop-culture-hot-takes.html))
@@ -7,6 +41,10 @@
 ----
 
  - [**"Dig if you will the picture... of Prince, in his own words"**](https://www.france24.com/en/20191031-dig-if-you-will-the-picture-of-prince-in-his-own-words) in [www.france24.com](https://www.france24.com/) on 31 October 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.france24.com/en/20191031-dig-if-you-will-the-picture-of-prince-in-his-own-words))
+
+----
+
+ - [**"Early Lyrics to ‘Purple Rain’ and Other Musical Details From Prince’s New Book"**](https://www.vulture.com/2019/10/prince-book-purple-rain-lyrics-music-details.html) in [Vulture](https://www.vulture.com/) on 31 October 2019 about [Bold Generation (song)](../../topics/song/bold-generation/index.md), [Computer Blue (song)](../../topics/song/computer-blue/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [memoir](../../topics/memoir/index.md), [Purple Music (song)](../../topics/song/purple-music/index.md), [Raspberry Beret (song)](../../topics/song/raspberry-beret/index.md), [Vagina (song)](../../topics/song/vagina/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.vulture.com/2019/10/prince-book-purple-rain-lyrics-music-details.html))
 
 ----
 
@@ -39,6 +77,10 @@
 ----
 
  - [**"Prince « The Beautiful Ones, mémoires inachevés »"**](http://www.funku.fr/2019/prince-the-beautiful-ones-memoires-inacheves/) in [Funk-U](http://www.funku.fr/) on 30 October 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Do Me Baby (song)](../../topics/song/do-me-baby/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/http://www.funku.fr/2019/prince-the-beautiful-ones-memoires-inacheves/))
+
+----
+
+ - [**"Prince’s just-released posthumous book contains no bombshells"**](https://www.thestar.com/entertainment/books/2019/10/30/princes-just-released-posthumous-book-contains-no-bombshells.html) in [www.thestar.com](https://www.thestar.com/) on 30 October 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [memoir](../../topics/memoir/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.thestar.com/entertainment/books/2019/10/30/princes-just-released-posthumous-book-contains-no-bombshells.html))
 
 ----
 

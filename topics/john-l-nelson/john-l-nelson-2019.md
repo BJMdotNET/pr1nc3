@@ -1,6 +1,16 @@
 # John L. Nelson: 2019
 
+## November 2019
+
+ - [**"Prince memoir ‘The Beautiful Ones’ finished, released posthumously"**](https://www.columbian.com/news/2019/nov/01/prince-memoir-the-beautiful-ones-finished-released-posthumously/) in [www.columbian.com](https://www.columbian.com/) on 1 November 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [memoir](../../topics/memoir/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.columbian.com/news/2019/nov/01/prince-memoir-the-beautiful-ones-finished-released-posthumously/))
+
+----
+
 ## October 2019
+
+ - [**"Prince’s just-released posthumous book contains no bombshells"**](https://www.thestar.com/entertainment/books/2019/10/30/princes-just-released-posthumous-book-contains-no-bombshells.html) in [www.thestar.com](https://www.thestar.com/) on 30 October 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [memoir](../../topics/memoir/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.thestar.com/entertainment/books/2019/10/30/princes-just-released-posthumous-book-contains-no-bombshells.html))
+
+----
 
  - [**"Like Prince, his new memoir 'The Beautiful Ones' can't be pigeonholed -- Filled with ephemera, photos and philosophy, "The Beautiful Ones" is incomplete yet revealing. "**](http://www.startribune.com/like-prince-his-new-memoir-the-beautiful-ones-can-t-be-pigeonholed/563845812/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 October 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [fentanyl](../../topics/fentanyl/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/like-prince-his-new-memoir-the-beautiful-ones-can-t-be-pigeonholed/563845812/))
 

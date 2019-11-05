@@ -1,5 +1,15 @@
 # First Avenue (place): 2019
 
+## November 2019
+
+ - [**"6 cool things in music including Prince's memoir, Lady Gaga, Kanye West, Lewis Capaldi, Tom Morello"**](http://www.startribune.com/6-cool-things-in-music-including-prince-s-memoir-lady-gaga-kanye-west-lewis-capaldi-tom-morello/564218342/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 2 November 2019 about [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Jon Bream](../../../topics/jon-bream/index.md), [memoir](../../../topics/memoir/index.md), [The Beautiful Ones (book)](../../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/6-cool-things-in-music-including-prince-s-memoir-lady-gaga-kanye-west-lewis-capaldi-tom-morello/564218342/))
+
+----
+
+ - [**"Go to Paisley Park While It's Still in Your Heart"**](https://www.houstonpress.com/music/a-trip-to-princes-paisley-park-11373725) in [www.houstonpress.com](https://www.houstonpress.com/) on 1 November 2019 about [Academy Award](../../../topics/academy-award/index.md), [Charlie Murphy](../../../topics/charlie-murphy/index.md), [exhibit](../../../topics/exhibit/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Graceland](../../../topics/graceland/index.md), [James Brown](../../../topics/james-brown/index.md), [Larry Graham](../../../topics/larry-graham/index.md), [Lizzo](../../../topics/lizzo/index.md), [Minnesota Timberwolves](../../../topics/minnesota-timberwolves/index.md), [motorcycle](../../../topics/motorcycle/index.md), [museum](../../../topics/museum/index.md), [Obama](../../../topics/obama/index.md), [Stevie Wonder](../../../topics/stevie-wonder/index.md), [Timberwolves](../../../topics/timberwolves/index.md), [Under the Cherry Moon (movie)](../../../topics/movie/under-the-cherry-moon/index.md) ([mirror](https://web.archive.org/web/*/https://www.houstonpress.com/music/a-trip-to-princes-paisley-park-11373725))
+
+----
+
 ## October 2019
 
  - [**"Prince estate objects to Trump use of 'Purple Rain' at Minneapolis rally"**](https://kstp.com/news/prince-estate-objects-to-trump-use-of-purple-rain-at-minneapolis-rally-/5521682/) in [KSTP](https://kstp.com/) on 11 October 2019 about [Donald Trump](../../../topics/donald-trump/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Trump](../../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/https://kstp.com/news/prince-estate-objects-to-trump-use-of-purple-rain-at-minneapolis-rally-/5521682/))

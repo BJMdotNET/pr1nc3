@@ -1,5 +1,15 @@
 # contract: 2019
 
+## November 2019
+
+ - [**"Prince’s last days: ‘He seemed so strong. He was still burning with ambition’ -- Dan Piepenbring on how he brought the musician’s memoir to life following his death"**](https://www.irishtimes.com/culture/music/prince-s-last-days-he-seemed-so-strong-he-was-still-burning-with-ambition-1.4059357) in [www.irishtimes.com](https://www.irishtimes.com/) on 2 November 2019 about [contract](../../topics/contract/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [memoir](../../topics/memoir/index.md), [Penguin Random House](../../topics/penguin-random-house/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md) ([mirror](https://web.archive.org/web/*/https://www.irishtimes.com/culture/music/prince-s-last-days-he-seemed-so-strong-he-was-still-burning-with-ambition-1.4059357))
+
+----
+
+ - [**"'He was kind of tortured': memoir reveals Prince's family torment"**](https://www.smh.com.au/culture/music/he-was-kind-of-tortured-memoir-reveals-prince-s-family-torment-20191028-p534wi.html) in [www.smh.com.au](https://www.smh.com.au/) on 1 November 2019 about [contract](../../topics/contract/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [Penguin Random House](../../topics/penguin-random-house/index.md), [Random House ](../../topics/random-house/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.smh.com.au/culture/music/he-was-kind-of-tortured-memoir-reveals-prince-s-family-torment-20191028-p534wi.html))
+
+----
+
 ## October 2019
 
  - [**"Dan Piepenbring mocht de biografie van Prince schrijven – en toen ging Prince dood -- Nu is er het boek The Beautiful Ones, gemaakt aan de hand van dertig handgeschreven velletjes van de zanger zelf."**](https://www.volkskrant.nl/cultuur-media/dan-piepenbring-mocht-de-biografie-van-prince-schrijven-en-toen-ging-prince-dood~bc9a0bc0/) in [Volkskrant](https://www.volkskrant.nl/) on 30 October 2019 about [contract](../../topics/contract/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.volkskrant.nl/cultuur-media/dan-piepenbring-mocht-de-biografie-van-prince-schrijven-en-toen-ging-prince-dood~bc9a0bc0/))

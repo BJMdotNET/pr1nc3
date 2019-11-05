@@ -1,7 +1,8 @@
 # Jehovah’s Witness
 
   * [2019](./jehovah-s-witness-2019.md): 
-      October (3) | 
+      November (2) | 
+      October (4) | 
       September (1) | 
       July (1) | 
       May (1) | 

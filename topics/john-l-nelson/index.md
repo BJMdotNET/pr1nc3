@@ -1,7 +1,8 @@
 # John L. Nelson
 
   * [2019](./john-l-nelson-2019.md): 
-      October (3) | 
+      November (1) | 
+      October (4) | 
       September (1) | 
       August (2) | 
       July (1) | 

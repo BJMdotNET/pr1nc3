@@ -1,5 +1,9 @@
 # Charlie Murphy
 
+ - [**"Go to Paisley Park While It's Still in Your Heart"**](https://www.houstonpress.com/music/a-trip-to-princes-paisley-park-11373725) in [www.houstonpress.com](https://www.houstonpress.com/) on 1 November 2019 about [Academy Award](../../topics/academy-award/index.md), [Charlie Murphy](../../topics/charlie-murphy/index.md), [exhibit](../../topics/exhibit/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Graceland](../../topics/graceland/index.md), [James Brown](../../topics/james-brown/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Lizzo](../../topics/lizzo/index.md), [Minnesota Timberwolves](../../topics/minnesota-timberwolves/index.md), [motorcycle](../../topics/motorcycle/index.md), [museum](../../topics/museum/index.md), [Obama](../../topics/obama/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Timberwolves](../../topics/timberwolves/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md) ([mirror](https://web.archive.org/web/*/https://www.houstonpress.com/music/a-trip-to-princes-paisley-park-11373725))
+
+----
+
  - [**"The True Story Behind Prince's Famous Basketball Game With Charlie Murphy -- Micki Free remembers The Purple One's perfect jump shot."**](https://www.esquire.com/entertainment/music/a54667/prince-basketball-game-charlie-murphy-micki-free/) in [Esquire](https://www.esquire.com/) on 21 April 2017 about [Charlie Murphy](../../topics/charlie-murphy/index.md), [Micki Free](../../topics/micki-free/index.md), [Morris Day](../../topics/morris-day/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md) ([mirror](https://web.archive.org/web/*/https://www.esquire.com/entertainment/music/a54667/prince-basketball-game-charlie-murphy-micki-free/))
 
 ----

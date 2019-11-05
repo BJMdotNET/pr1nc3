@@ -1,5 +1,11 @@
 # exhibit: 2019
 
+## November 2019
+
+ - [**"Go to Paisley Park While It's Still in Your Heart"**](https://www.houstonpress.com/music/a-trip-to-princes-paisley-park-11373725) in [www.houstonpress.com](https://www.houstonpress.com/) on 1 November 2019 about [Academy Award](../../topics/academy-award/index.md), [Charlie Murphy](../../topics/charlie-murphy/index.md), [exhibit](../../topics/exhibit/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Graceland](../../topics/graceland/index.md), [James Brown](../../topics/james-brown/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Lizzo](../../topics/lizzo/index.md), [Minnesota Timberwolves](../../topics/minnesota-timberwolves/index.md), [motorcycle](../../topics/motorcycle/index.md), [museum](../../topics/museum/index.md), [Obama](../../topics/obama/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Timberwolves](../../topics/timberwolves/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md) ([mirror](https://web.archive.org/web/*/https://www.houstonpress.com/music/a-trip-to-princes-paisley-park-11373725))
+
+----
+
 ## October 2019
 
  - [**"Reckoning With The Ethics of The Ever-Unfurling Prince Vault -- The demos, b-sides and rarities keep coming. How should we feel about listening?"**](https://www.pastemagazine.com/articles/2019/10/prince-estate-ethics.html) in [Paste Magazine](https://www.pastemagazine.com/) on 23 October 2019 about [1999 (album)](../../topics/album/1999/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [contract](../../topics/contract/index.md), [D’Angelo](../../topics/d-angelo/index.md), [exhibit](../../topics/exhibit/index.md), [For You (album)](../../topics/album/for-you/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Spotify](../../topics/spotify/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [trademark](../../topics/trademark/index.md), [vault](../../topics/vault/index.md), [YouTube](../../topics/youtube/index.md) ([mirror](https://web.archive.org/web/*/https://www.pastemagazine.com/articles/2019/10/prince-estate-ethics.html))

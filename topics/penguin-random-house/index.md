@@ -1,5 +1,13 @@
 # Penguin Random House
 
+ - [**"Prince’s last days: ‘He seemed so strong. He was still burning with ambition’ -- Dan Piepenbring on how he brought the musician’s memoir to life following his death"**](https://www.irishtimes.com/culture/music/prince-s-last-days-he-seemed-so-strong-he-was-still-burning-with-ambition-1.4059357) in [www.irishtimes.com](https://www.irishtimes.com/) on 2 November 2019 about [contract](../../topics/contract/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [memoir](../../topics/memoir/index.md), [Penguin Random House](../../topics/penguin-random-house/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md) ([mirror](https://web.archive.org/web/*/https://www.irishtimes.com/culture/music/prince-s-last-days-he-seemed-so-strong-he-was-still-burning-with-ambition-1.4059357))
+
+----
+
+ - [**"'He was kind of tortured': memoir reveals Prince's family torment"**](https://www.smh.com.au/culture/music/he-was-kind-of-tortured-memoir-reveals-prince-s-family-torment-20191028-p534wi.html) in [www.smh.com.au](https://www.smh.com.au/) on 1 November 2019 about [contract](../../topics/contract/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [Penguin Random House](../../topics/penguin-random-house/index.md), [Random House ](../../topics/random-house/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.smh.com.au/culture/music/he-was-kind-of-tortured-memoir-reveals-prince-s-family-torment-20191028-p534wi.html))
+
+----
+
  - [**"Les mémoires de Prince sortent 3 ans après sa mort"**](https://www.rtbf.be/classic21/article/detail_les-memoires-de-prince-sortent-3-ans-apres-sa-mort?id=10355075) in [www.rtbf.be](https://www.rtbf.be/) on 31 October 2019 about [Ava DuVernay](../../topics/ava-duvernay/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Penguin Random House](../../topics/penguin-random-house/index.md), [Random House ](../../topics/random-house/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [Universal Pictures](../../topics/universal-pictures/index.md) ([mirror](https://web.archive.org/web/*/https://www.rtbf.be/classic21/article/detail_les-memoires-de-prince-sortent-3-ans-apres-sa-mort?id=10355075))
 
 ----
