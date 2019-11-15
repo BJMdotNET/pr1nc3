@@ -2,6 +2,10 @@
 
 ## November 2019
 
+ - [**"Beck surprises fans with 'Paisley Park Sessions' EP recorded in Chanhassen"**](http://www.startribune.com/beck-surprises-fans-with-paisley-park-sessions-ep-recorded-in-chanhassen/564759282/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 11 November 2019 about [Raspberry Beret (song)](../../../topics/song/raspberry-beret/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/beck-surprises-fans-with-paisley-park-sessions-ep-recorded-in-chanhassen/564759282/))
+
+----
+
  - [**"Tamron Hall On How Her Selfie Became Cover Art for Prince's "If Eye Could Get Ur Attention"﻿ -- "Prince called me every single morning to critique or give feedback on what I would wear.""**](https://www.oprahmag.com/entertainment/tv-movies/a29665289/tamron-hall-selfie-prince-cover-art/) in [Oprah Magazine](https://www.oprahmag.com/) on 1 November 2019 about [Chris Jackson](../../../topics/chris-jackson/index.md), [Dan Piepenbring](../../../topics/dan-piepenbring/index.md), [memoir](../../../topics/memoir/index.md), [Tamron Hall](../../../topics/tamron-hall/index.md), [The Beautiful Ones (book)](../../../topics/book/the-beautiful-ones/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://www.oprahmag.com/entertainment/tv-movies/a29665289/tamron-hall-selfie-prince-cover-art/))
 
 ----

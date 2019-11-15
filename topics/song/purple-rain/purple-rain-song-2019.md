@@ -1,6 +1,16 @@
 # Purple Rain (song): 2019
 
+## November 2019
+
+ - [**"Trisha Yearwood salutes Prince, St. Cloud in overdue Minneapolis concert"**](http://www.startribune.com/trisha-yearwood-salutes-prince-st-cloud-in-overdue-minneapolis-concert/564728422/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 November 2019 about [Purple Rain (song)](../../../topics/song/purple-rain/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/trisha-yearwood-salutes-prince-st-cloud-in-overdue-minneapolis-concert/564728422/))
+
+----
+
 ## October 2019
+
+ - [**"Interview: Director Albert Magnoli describes working with Prince and making 'Purple Rain'"**](https://www.thecurrent.org/feature/2019/10/24/interview-director-albert-magnoli-describes-working-with-prince-purple-rain) in [The Current](https://www.thecurrent.org/) on 24 October 2019 about [Albert Magnoli](../../../topics/albert-magnoli/index.md), [Chick Huntsberry](../../../topics/chick-huntsberry/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Lake Minnetonka (place)](../../../topics/place/lake-minnetonka/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [motorcycle](../../../topics/motorcycle/index.md), [Purple Rain (album)](../../../topics/album/purple-rain/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Spotify](../../../topics/spotify/index.md), [Steve Fargnoli ](../../../topics/steve-fargnoli/index.md) ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/10/24/interview-director-albert-magnoli-describes-working-with-prince-purple-rain))
+
+----
 
  - [**"Prince estate slams Trump for playing 'Purple Rain' at rally -- Donald Trump's re-election team played Prince's 'Purple Rain' at a campaign event, despite Prince's estate saying a year ago that 'it will never give permission to President Trump to use Prince's songs'"**](https://www.rappler.com/entertainment/news/242373-prince-estate-slams-trump-rally) in [Rappler](https://www.rappler.com/) on 12 October 2019 about [Donald Trump](../../../topics/donald-trump/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [The Prince Estate](../../../topics/the-prince-estate/index.md), [Trump](../../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/https://www.rappler.com/entertainment/news/242373-prince-estate-slams-trump-rally))
 

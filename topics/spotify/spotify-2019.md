@@ -1,6 +1,20 @@
 # Spotify: 2019
 
+## November 2019
+
+ - [**"They're one of Minnesota's most-streamed music acts – and you probably haven't heard of them -- Straight out of New Prague, piano duo the O'Neill Brothers have rolled with the times to become unlikely stars of digital streaming."**](http://www.startribune.com/they-re-one-of-minnesota-s-most-streamed-music-acts-and-you-probably-haven-t-heard-of-them/564655012/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 9 November 2019 about [Apple Music](../../topics/apple-music/index.md), [Spotify](../../topics/spotify/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/they-re-one-of-minnesota-s-most-streamed-music-acts-and-you-probably-haven-t-heard-of-them/564655012/))
+
+----
+
+ - [**"3 secrets to the O'Neill Brothers' streaming success -- How the piano-playing siblings have racked up big numbers via Spotify and other digital music sites."**](http://www.startribune.com/tips-for-success-on-streaming-media/564657862/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 8 November 2019 about [Spotify](../../topics/spotify/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/tips-for-success-on-streaming-media/564657862/))
+
+----
+
 ## October 2019
+
+ - [**"Interview: Director Albert Magnoli describes working with Prince and making 'Purple Rain'"**](https://www.thecurrent.org/feature/2019/10/24/interview-director-albert-magnoli-describes-working-with-prince-purple-rain) in [The Current](https://www.thecurrent.org/) on 24 October 2019 about [Albert Magnoli](../../topics/albert-magnoli/index.md), [Chick Huntsberry](../../topics/chick-huntsberry/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Lake Minnetonka (place)](../../topics/place/lake-minnetonka/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [motorcycle](../../topics/motorcycle/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Spotify](../../topics/spotify/index.md), [Steve Fargnoli ](../../topics/steve-fargnoli/index.md) ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/10/24/interview-director-albert-magnoli-describes-working-with-prince-purple-rain))
+
+----
 
  - [**"Reckoning With The Ethics of The Ever-Unfurling Prince Vault -- The demos, b-sides and rarities keep coming. How should we feel about listening?"**](https://www.pastemagazine.com/articles/2019/10/prince-estate-ethics.html) in [Paste Magazine](https://www.pastemagazine.com/) on 23 October 2019 about [1999 (album)](../../topics/album/1999/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [contract](../../topics/contract/index.md), [D’Angelo](../../topics/d-angelo/index.md), [exhibit](../../topics/exhibit/index.md), [For You (album)](../../topics/album/for-you/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Spotify](../../topics/spotify/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [trademark](../../topics/trademark/index.md), [vault](../../topics/vault/index.md), [YouTube](../../topics/youtube/index.md) ([mirror](https://web.archive.org/web/*/https://www.pastemagazine.com/articles/2019/10/prince-estate-ethics.html))
 

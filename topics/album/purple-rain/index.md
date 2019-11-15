@@ -1,6 +1,7 @@
 # Purple Rain (album)
 
   * [2019](./purple-rain-album-2019.md): 
+      October (1) | 
       August (1) | 
       July (9) | 
       June (2) | 

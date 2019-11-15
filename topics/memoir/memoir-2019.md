@@ -2,6 +2,10 @@
 
 ## November 2019
 
+ - [**"25 Celebrity Memoirs That Are Actually Worth Reading"**](https://www.vogue.com/article/best-celebrity-memoirs) in [www.vogue.com](https://www.vogue.com/) on 14 November 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [Netflix](../../topics/netflix/index.md), [Obama](../../topics/obama/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [trademark](../../topics/trademark/index.md) ([mirror](https://web.archive.org/web/*/https://www.vogue.com/article/best-celebrity-memoirs))
+
+----
+
  - [**"Fresh Air Weekend: Prince's Co-Writer; 'Mr. Robot' Creator Sam Esmail"**](https://www.npr.org/2019/11/02/775377534/fresh-air-weekend-princes-co-writer-mr-robot-creator-sam-esmail) in [National Public Radio](https://www.npr.org/) on 4 November 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.npr.org/2019/11/02/775377534/fresh-air-weekend-princes-co-writer-mr-robot-creator-sam-esmail))
 
 ----

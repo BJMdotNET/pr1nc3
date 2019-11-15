@@ -1,5 +1,11 @@
 # trademark: 2019
 
+## November 2019
+
+ - [**"25 Celebrity Memoirs That Are Actually Worth Reading"**](https://www.vogue.com/article/best-celebrity-memoirs) in [www.vogue.com](https://www.vogue.com/) on 14 November 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [Netflix](../../topics/netflix/index.md), [Obama](../../topics/obama/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [trademark](../../topics/trademark/index.md) ([mirror](https://web.archive.org/web/*/https://www.vogue.com/article/best-celebrity-memoirs))
+
+----
+
 ## October 2019
 
  - [**"Prince's The Beautiful Ones is a breathtaking, occasionally frustrating look at the icon -- The Purple One's long-awaited memoir features personal details and rare artifacts Prince fans have been pining for, even if the book doesn't quite live up to its lofty ambitions."**](https://ew.com/book-reviews/2019/10/30/prince-the-beautiful-ones-ew-review/) in [EW (Entertainment Weekly)](https://ew.com/) on 30 October 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Do Me Baby (song)](../../topics/song/do-me-baby/index.md), [fentanyl](../../topics/fentanyl/index.md), [memoir](../../topics/memoir/index.md), [Random House ](../../topics/random-house/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [trademark](../../topics/trademark/index.md) ([mirror](https://web.archive.org/web/*/https://ew.com/book-reviews/2019/10/30/prince-the-beautiful-ones-ew-review/))

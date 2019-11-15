@@ -2,7 +2,7 @@
 
   * [2019](./motorcycle-2019.md): 
       November (1) | 
-      October (1) | 
+      October (2) | 
   * [2018](./motorcycle-2018.md): 
       November (1) | 
   * [2017](./motorcycle-2017.md): 
