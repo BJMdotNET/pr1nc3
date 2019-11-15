@@ -2,6 +2,14 @@
 
 ## November 2019
 
+ - [**"Fresh Air Weekend: Prince's Co-Writer; 'Mr. Robot' Creator Sam Esmail"**](https://www.npr.org/2019/11/02/775377534/fresh-air-weekend-princes-co-writer-mr-robot-creator-sam-esmail) in [National Public Radio](https://www.npr.org/) on 4 November 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.npr.org/2019/11/02/775377534/fresh-air-weekend-princes-co-writer-mr-robot-creator-sam-esmail))
+
+----
+
+ - [**"'He's Royalty After All': Prince Co-Author On Finishing His Memoir 'The Beautiful Ones'"**](https://www.wbur.org/hereandnow/2019/11/04/prince-memoir-the-beautiful-ones) in [www.wbur.org](https://www.wbur.org/) on 4 November 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Mayte](../../topics/mayte/index.md), [memoir](../../topics/memoir/index.md), [Super Bowl](../../topics/super-bowl/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.wbur.org/hereandnow/2019/11/04/prince-memoir-the-beautiful-ones))
+
+----
+
  - [**"Book Review: ‘The Beautiful Ones’ a moving look at the singer’s life"**](https://www.seacoastonline.com/news/20191103/book-review-the-beautiful-ones-moving-look-at-singers-life) in [www.seacoastonline.com](https://www.seacoastonline.com/) on 3 November 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [fentanyl](../../topics/fentanyl/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.seacoastonline.com/news/20191103/book-review-the-beautiful-ones-moving-look-at-singers-life))
 
 ----
@@ -18,7 +26,7 @@
 
 ----
 
- - [**"What critics are missing about Prince's raw, rule-breaking memoir"**](https://edition.cnn.com/2019/11/01/opinions/prince-memoir-is-about-race-and-more-cane/index.html) in [CNN International](https://edition.cnn.com/) on 2 November 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://edition.cnn.com/2019/11/01/opinions/prince-memoir-is-about-race-and-more-cane/index.html))
+ - [**"What critics are missing about Prince's raw, rule-breaking memoir"**](https://edition.cnn.com/2019/11/01/opinions/prince-memoir-is-about-race-and-more-cane/index.html) in [CNN International](https://edition.cnn.com/) on 2 November 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [Thieves in the Temple (song)](../../topics/song/thieves-in-the-temple/index.md) ([mirror](https://web.archive.org/web/*/https://edition.cnn.com/2019/11/01/opinions/prince-memoir-is-about-race-and-more-cane/index.html))
 
 ----
 
@@ -42,6 +50,10 @@
 
 ----
 
+ - [**"Tamron Hall On How Her Selfie Became Cover Art for Prince's "If Eye Could Get Ur Attention"﻿ -- "Prince called me every single morning to critique or give feedback on what I would wear.""**](https://www.oprahmag.com/entertainment/tv-movies/a29665289/tamron-hall-selfie-prince-cover-art/) in [Oprah Magazine](https://www.oprahmag.com/) on 1 November 2019 about [Chris Jackson](../../topics/chris-jackson/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [Tamron Hall](../../topics/tamron-hall/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://www.oprahmag.com/entertainment/tv-movies/a29665289/tamron-hall-selfie-prince-cover-art/))
+
+----
+
 ## October 2019
 
  - [**"All of Prince’s Spiciest Pop-Culture Hot Takes From His New Book, The Beautiful Ones"**](https://www.vulture.com/2019/10/prince-memoir-pop-culture-hot-takes.html) in [Vulture](https://www.vulture.com/) on 31 October 2019 about [Chaka Khan](../../topics/chaka-khan/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Ed Sheeran](../../topics/ed-sheeran/index.md), [Katy Perry](../../topics/katy-perry/index.md), [Lenny Kravitz](../../topics/lenny-kravitz/index.md), [memoir](../../topics/memoir/index.md), [Meron Bekure](../../topics/meron-bekure/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Purple Pam](../../topics/purple-pam/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.vulture.com/2019/10/prince-memoir-pop-culture-hot-takes.html))
@@ -60,6 +72,10 @@
 
 ----
 
+ - [**"Recensie: Prince - The Beautiful Ones"**](https://writteninmusic.com/boekrecensie/prince-the-beautiful-ones/) in [writteninmusic.com](https://writteninmusic.com/) on 31 October 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [The Time](../../topics/the-time/index.md), [Vanity](../../topics/vanity/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://writteninmusic.com/boekrecensie/prince-the-beautiful-ones/))
+
+----
+
  - [**"‘The Beautiful Ones’ isn’t the memoir Prince envisioned, but it’s a moving look at the singer’s life"**](https://www.washingtonpost.com/entertainment/books/the-beautiful-ones-isnt-the-memoir-prince-envisioned-but-its-a-moving-look-at-the-singers-life/2019/10/30/b4868632-fb16-11e9-8906-ab6b60de9124_story.html) in [www.washingtonpost.com](https://www.washingtonpost.com/) on 30 October 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [fentanyl](../../topics/fentanyl/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.washingtonpost.com/entertainment/books/the-beautiful-ones-isnt-the-memoir-prince-envisioned-but-its-a-moving-look-at-the-singers-life/2019/10/30/b4868632-fb16-11e9-8906-ab6b60de9124_story.html))
 
 ----
@@ -72,7 +88,7 @@
 
 ----
 
- - [**"Prince’s Memoir Isn’t Really Prince’s Memoir -- That doesn’t mean it’s not worth reading."**](https://slate.com/culture/2019/10/prince-memoir-book-review-the-beautiful-ones.html) in [slate.com](https://slate.com/) on 30 October 2019 about [Bremer Trust](../../topics/bremer-trust/index.md), [contract](../../topics/contract/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [John Nelson](../../topics/john-nelson/index.md), [memoir](../../topics/memoir/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://slate.com/culture/2019/10/prince-memoir-book-review-the-beautiful-ones.html))
+ - [**"Prince’s Memoir Isn’t Really Prince’s Memoir -- That doesn’t mean it’s not worth reading."**](https://slate.com/culture/2019/10/prince-memoir-book-review-the-beautiful-ones.html) in [slate.com](https://slate.com/) on 30 October 2019 about [Bremer Trust](../../topics/bremer-trust/index.md), [contract](../../topics/contract/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [John Nelson](../../topics/john-nelson/index.md), [memoir](../../topics/memoir/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [Thieves in the Temple (song)](../../topics/song/thieves-in-the-temple/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://slate.com/culture/2019/10/prince-memoir-book-review-the-beautiful-ones.html))
 
 ----
 
@@ -224,7 +240,7 @@
 
 ----
 
- - [**"What made Prince such a formidable talent? And what exactly can we expect from his memoir, out this month?"**](https://www.gqindia.com/magazine-story/made-prince-formidable-talent-exactly-can-expect-memoir-month/) in [GQ India](https://www.gqindia.com/) on 15 October 2019 about [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [vault](../../topics/vault/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://www.gqindia.com/magazine-story/made-prince-formidable-talent-exactly-can-expect-memoir-month/))
+ - [**"What made Prince such a formidable talent? And what exactly can we expect from his memoir, out this month?"**](https://www.gqindia.com/magazine-story/made-prince-formidable-talent-exactly-can-expect-memoir-month/) in [GQ India](https://www.gqindia.com/) on 15 October 2019 about [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [Thieves in the Temple (song)](../../topics/song/thieves-in-the-temple/index.md), [vault](../../topics/vault/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://www.gqindia.com/magazine-story/made-prince-formidable-talent-exactly-can-expect-memoir-month/))
 
 ----
 

@@ -1,7 +1,8 @@
 # When Doves Cry (song)
 
   * [2019](./when-doves-cry-song-2019.md): 
-      October (11) | 
+      November (1) | 
+      October (12) | 
       September (4) | 
       July (5) | 
       June (4) | 

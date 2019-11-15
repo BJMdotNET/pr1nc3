@@ -2,7 +2,7 @@
 
   * [2019](./little-red-corvette-song-2019.md): 
       November (2) | 
-      October (8) | 
+      October (9) | 
       September (18) | 
       June (1) | 
       April (1) | 

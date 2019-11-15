@@ -2,7 +2,7 @@
 
   * [1-800-NEW-FUNK (album)](./album/1-800-new-funk/) (1)
   * [1999 (album)](./album/1999/) (38)
-  * [1999 Deluxe (album)](./album/1999-deluxe/) (2)
+  * [1999 Deluxe (album)](./album/1999-deluxe/) (3)
   * [3121 (album)](./album/3121/) (9)
   * [Around The World In A Day (album)](./album/around-the-world-in-a-day/) (7)
   * [Batman (album)](./album/batman/) (2)
@@ -25,7 +25,7 @@
   * [Prince Anthology: 1995-2010 (album)](./album/prince-anthology-1995-2010/) (2)
   * [Purple Rain (album)](./album/purple-rain/) (25)
   * [Rave In2 the Joy Fantastic (album)](./album/rave-in2-the-joy-fantastic/) (5)
-  * [Rave Un2 the Joy Fantastic (album)](./album/rave-un2-the-joy-fantastic/) (7)
+  * [Rave Un2 the Joy Fantastic (album)](./album/rave-un2-the-joy-fantastic/) (8)
   * [Sign O' The Times (album)](./album/sign-o-the-times/) (1)
   * [The Black Album (album)](./album/the-black-album/) (5)
   * [The Glamorous Life (album)](./album/the-glamorous-life/) (3)

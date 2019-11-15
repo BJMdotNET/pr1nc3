@@ -1,6 +1,7 @@
 # National Public Radio
 
   * 2019: 
+      [November](./national-public-radio-2019-11.md) (1) | 
       [October](./national-public-radio-2019-10.md) (2) | 
 
 ----

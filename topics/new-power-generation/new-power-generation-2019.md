@@ -6,6 +6,10 @@
 
 ----
 
+ - [**"New Power Generation To Perform At Bernie Sanders’ Minneapolis Rally"**](https://minnesota.cbslocal.com/2019/11/01/new-power-generation-to-perform-at-bernie-sanders-minneapolis-rally/) in [WCCO - CBS Minnesota](https://minnesota.cbslocal.com/) on 1 November 2019 about [New Power Generation](../../topics/new-power-generation/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md) ([mirror](https://web.archive.org/web/*/https://minnesota.cbslocal.com/2019/11/01/new-power-generation-to-perform-at-bernie-sanders-minneapolis-rally/))
+
+----
+
 ## October 2019
 
  - [**"Welcome To The Dawn… The Versace Experience"**](https://blog.discogs.com/en/welcome-to-the-dawn-the-versace-experience/) in [blog.discogs.com](https://blog.discogs.com/) on 24 October 2019 about [bootleg](../../topics/bootleg/index.md), [Eye Records](../../topics/eye-records/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [The Gold Experience (album)](../../topics/album/the-gold-experience/index.md), [The Versace Experience (Prelude 2 Gold) (album)](../../topics/album/the-versace-experience-prelude-2-gold/index.md) ([mirror](https://web.archive.org/web/*/https://blog.discogs.com/en/welcome-to-the-dawn-the-versace-experience/))

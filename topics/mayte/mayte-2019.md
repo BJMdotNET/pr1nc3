@@ -1,5 +1,11 @@
 # Mayte: 2019
 
+## November 2019
+
+ - [**"'He's Royalty After All': Prince Co-Author On Finishing His Memoir 'The Beautiful Ones'"**](https://www.wbur.org/hereandnow/2019/11/04/prince-memoir-the-beautiful-ones) in [www.wbur.org](https://www.wbur.org/) on 4 November 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Mayte](../../topics/mayte/index.md), [memoir](../../topics/memoir/index.md), [Super Bowl](../../topics/super-bowl/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.wbur.org/hereandnow/2019/11/04/prince-memoir-the-beautiful-ones))
+
+----
+
 ## October 2019
 
  - [**"Comic strips, goofy snaps and mirror selfies: inside Prince’s private archive -- When Prince died, he was three months into work on a deeply personal memoir. Co-writer Dan Piepenbring talks about bringing his idol’s project to completion"**](https://www.theguardian.com/music/2019/oct/26/prince-private-archive-memoir-comic-strips-snaps-selfies) in [The Guardian](https://www.theguardian.com/) on 26 October 2019 about [Carver County](../../topics/carver-county/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Ed Sheeran](../../topics/ed-sheeran/index.md), [fentanyl](../../topics/fentanyl/index.md), [Katy Perry](../../topics/katy-perry/index.md), [Mayte](../../topics/mayte/index.md), [memoir](../../topics/memoir/index.md), [museum](../../topics/museum/index.md), [Peter Bravestrong](../../topics/peter-bravestrong/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [Vanity](../../topics/vanity/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/music/2019/oct/26/prince-private-archive-memoir-comic-strips-snaps-selfies))

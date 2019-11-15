@@ -28,6 +28,10 @@
 
 ----
 
+ - [**"CHRONIQUE : THE BEAUTIFUL ONES, MÉMOIRES INACHEVÉS – PRINCE COMME VOUS NE L’AVEZ JAMAIS LU"**](http://www.schkopi.com/index.php/2019/10/news/the-beautiful-ones-livre/) in [Schkopi.com](http://www.schkopi.com/) on 30 October 2019 about [1999 Deluxe (album)](../../topics/album/1999-deluxe/index.md), [Bold Generation (song)](../../topics/song/bold-generation/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Morris Day](../../topics/morris-day/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [Vanity](../../topics/vanity/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/http://www.schkopi.com/index.php/2019/10/news/the-beautiful-ones-livre/))
+
+----
+
  - [**"Here's What Morris Day Thinks About the Posthumous Prince Releases -- Hot off his wildly entertaining memoir 'On Time,' the funk legend talks unreleased The Time music and Prince's Vaults."**](https://www.billboard.com/articles/news/8541347/morris-day-on-time-book-memoir-prince-funk) in [Billboard](https://www.billboard.com/) on 30 October 2019 about [Atlanta (place)](../../topics/place/atlanta/index.md), [Graffiti Bridge (album)](../../topics/album/graffiti-bridge/index.md), [Graffiti Bridge (movie)](../../topics/movie/graffiti-bridge/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Jungle Love (song)](../../topics/song/jungle-love/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [Pandemonium (album)](../../topics/album/pandemonium/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Bird (song)](../../topics/song/the-bird/index.md), [The Time](../../topics/the-time/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8541347/morris-day-on-time-book-memoir-prince-funk))
 
 ----
@@ -116,7 +120,7 @@
 
 ----
 
- - [**"What made Prince such a formidable talent? And what exactly can we expect from his memoir, out this month?"**](https://www.gqindia.com/magazine-story/made-prince-formidable-talent-exactly-can-expect-memoir-month/) in [GQ India](https://www.gqindia.com/) on 15 October 2019 about [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [vault](../../topics/vault/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://www.gqindia.com/magazine-story/made-prince-formidable-talent-exactly-can-expect-memoir-month/))
+ - [**"What made Prince such a formidable talent? And what exactly can we expect from his memoir, out this month?"**](https://www.gqindia.com/magazine-story/made-prince-formidable-talent-exactly-can-expect-memoir-month/) in [GQ India](https://www.gqindia.com/) on 15 October 2019 about [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [Thieves in the Temple (song)](../../topics/song/thieves-in-the-temple/index.md), [vault](../../topics/vault/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://www.gqindia.com/magazine-story/made-prince-formidable-talent-exactly-can-expect-memoir-month/))
 
 ----
 

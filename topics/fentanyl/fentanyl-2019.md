@@ -2,6 +2,10 @@
 
 ## November 2019
 
+ - [**"Prince : adolescence, souvenirs de famille... Ce que l'on apprend dans ses mémoires -- PRINCE - "The Beautiful Ones - Mémoires inachevés", l'autobiographie du chanteur Prince, mort en 2016, sort jeudi 31 octobre en France."**](https://www.linternaute.com/musique/magazine/1337605-prince-adolescence-souvenirs-de-famille-ce-que-l-on-apprend-dans-ses-memoires/) in [www.linternaute.com](https://www.linternaute.com/) on 5 November 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [fentanyl](../../topics/fentanyl/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.linternaute.com/musique/magazine/1337605-prince-adolescence-souvenirs-de-famille-ce-que-l-on-apprend-dans-ses-memoires/))
+
+----
+
  - [**"Book Review: ‘The Beautiful Ones’ a moving look at the singer’s life"**](https://www.seacoastonline.com/news/20191103/book-review-the-beautiful-ones-moving-look-at-singers-life) in [www.seacoastonline.com](https://www.seacoastonline.com/) on 3 November 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [fentanyl](../../topics/fentanyl/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.seacoastonline.com/news/20191103/book-review-the-beautiful-ones-moving-look-at-singers-life))
 
 ----

@@ -6,6 +6,10 @@
 
 ----
 
+ - [**"CHRONIQUE : THE BEAUTIFUL ONES, MÉMOIRES INACHEVÉS – PRINCE COMME VOUS NE L’AVEZ JAMAIS LU"**](http://www.schkopi.com/index.php/2019/10/news/the-beautiful-ones-livre/) in [Schkopi.com](http://www.schkopi.com/) on 30 October 2019 about [1999 Deluxe (album)](../../topics/album/1999-deluxe/index.md), [Bold Generation (song)](../../topics/song/bold-generation/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Morris Day](../../topics/morris-day/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [Vanity](../../topics/vanity/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/http://www.schkopi.com/index.php/2019/10/news/the-beautiful-ones-livre/))
+
+----
+
  - [**"Ruziënde ouders, zijn unieke naam en ‘Superman’: drie jaar na overlijden Prince verschijnt autobiografie ‘The Beautiful Ones’"**](https://www.hln.be/showbizz/celebrities/ruziende-ouders-zijn-unieke-naam-en-superman-drie-jaar-na-overlijden-prince-verschijnt-autobiografie-the-beautiful-ones~ae718968/) in [www.hln.be](https://www.hln.be/) on 30 October 2019 about [Chaka Khan](../../topics/chaka-khan/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Ed Sheeran](../../topics/ed-sheeran/index.md), [Katy Perry](../../topics/katy-perry/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.hln.be/showbizz/celebrities/ruziende-ouders-zijn-unieke-naam-en-superman-drie-jaar-na-overlijden-prince-verschijnt-autobiografie-the-beautiful-ones~ae718968/))
 
 ----

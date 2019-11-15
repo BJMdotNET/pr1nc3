@@ -1,6 +1,7 @@
 # WCCO - CBS Minnesota
 
   * 2019: 
+      [November](./wcco-cbs-minnesota-2019-11.md) (1) | 
       [October](./wcco-cbs-minnesota-2019-10.md) (1) | 
       [August](./wcco-cbs-minnesota-2019-08.md) (1) | 
   * 2018: 

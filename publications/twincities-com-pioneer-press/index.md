@@ -5,6 +5,7 @@
       [September](./twincities-com-pioneer-press-2019-09.md) (2) | 
       [August](./twincities-com-pioneer-press-2019-08.md) (2) | 
       [July](./twincities-com-pioneer-press-2019-07.md) (1) | 
+      [April](./twincities-com-pioneer-press-2019-04.md) (1) | 
   * 2016: 
       [September](./twincities-com-pioneer-press-2016-09.md) (1) | 
 

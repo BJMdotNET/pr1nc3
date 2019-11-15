@@ -2,6 +2,10 @@
 
 ## October 2019
 
+ - [**"Recensie: Prince - The Beautiful Ones"**](https://writteninmusic.com/boekrecensie/prince-the-beautiful-ones/) in [writteninmusic.com](https://writteninmusic.com/) on 31 October 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [The Time](../../topics/the-time/index.md), [Vanity](../../topics/vanity/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://writteninmusic.com/boekrecensie/prince-the-beautiful-ones/))
+
+----
+
  - [**"Morris Day On His Life With Prince: From ‘Purple Rain’ To A Godly Ultimatum"**](https://www.forbes.com/sites/derekscancarelli/2019/10/29/morris-day-on-his-life-with-prince-from-purple-rain-to-a-godly-ultimatum/) in [Forbes](https://www.forbes.com/) on 29 October 2019 about [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md) ([mirror](https://web.archive.org/web/*/https://www.forbes.com/sites/derekscancarelli/2019/10/29/morris-day-on-his-life-with-prince-from-purple-rain-to-a-godly-ultimatum/))
 
 ----
