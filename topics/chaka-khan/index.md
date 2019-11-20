@@ -1,6 +1,7 @@
 # Chaka Khan
 
   * [2019](./chaka-khan-2019.md): 
+      November (1) | 
       October (10) | 
       September (1) | 
       July (1) | 

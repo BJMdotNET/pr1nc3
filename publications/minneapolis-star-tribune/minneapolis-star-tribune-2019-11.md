@@ -1,6 +1,18 @@
 # Minneapolis Star Tribune: November 2019
 
- - [**"Two plays opening this week add to the legend of Minnesota's own, Judy Garland -- Judy Garland is everywhere, including four versions of her at St. Paul's History Theatre."**](http://www.startribune.com/two-plays-opening-this-week-add-to-the-legend-of-minnesota-s-own-judy-garland/564933682/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 14 November 2019 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/two-plays-opening-this-week-add-to-the-legend-of-minnesota-s-own-judy-garland/564933682/))
+ - [**"Don't overlook splashy coffee table books as holiday gifts"**](http://www.startribune.com/don-t-overlook-splashy-coffee-table-books-as-holiday-gifts/565099382/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 November 2019 about [Andy Warhol](../../topics/andy-warhol/index.md), [Celebration](../../topics/celebration/index.md), [exhibit](../../topics/exhibit/index.md), [exhibition](../../topics/exhibition/index.md), [Hachette Books](../../topics/hachette-books/index.md), [museum](../../topics/museum/index.md), [Penguin Random House](../../topics/penguin-random-house/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md), [trademark](../../topics/trademark/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/don-t-overlook-splashy-coffee-table-books-as-holiday-gifts/565099382/))
+
+----
+
+ - [**"Garrison Keillor rips Bob Dylan in his latest book"**](http://www.startribune.com/garrison-keillor-rips-bob-dylan-in-his-latest-book/565146932/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 November 2019 about [Bob Dylan](../../topics/bob-dylan/index.md), [Garrison Keillor](../../topics/garrison-keillor/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/garrison-keillor-rips-bob-dylan-in-his-latest-book/565146932/))
+
+----
+
+ - [**"6 cool things in music include Prince, CMA Awards, Apollo Theater doc, Tyler Childers"**](http://www.startribune.com/6-cool-things-in-music-include-prince-cma-awards-apollo-theater-doc-tyler-childers/564975732/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 15 November 2019 about [First Avenue (place)](../../topics/place/first-avenue/index.md), [Jon Bream](../../topics/jon-bream/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/6-cool-things-in-music-include-prince-cma-awards-apollo-theater-doc-tyler-childers/564975732/))
+
+----
+
+ - [**"Two plays opening this week add to the legend of Minnesota's own, Judy Garland -- Judy Garland is everywhere, including four versions of her at St. Paul's History Theatre."**](http://www.startribune.com/two-plays-opening-this-week-add-to-the-legend-of-minnesota-s-own-judy-garland/564933682/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 14 November 2019 about [Grammy Award](../../topics/grammy-award/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/two-plays-opening-this-week-add-to-the-legend-of-minnesota-s-own-judy-garland/564933682/))
 
 ----
 

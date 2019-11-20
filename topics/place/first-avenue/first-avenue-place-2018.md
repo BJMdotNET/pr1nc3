@@ -28,6 +28,10 @@
 
 ----
 
+ - [**"Rock and Roll Book Club: Two Prince associates share their memories"**](https://www.thecurrent.org/feature/2018/04/17/prince-books) in [The Current](https://www.thecurrent.org/) on 18 April 2018 about [André Cymone](../../../topics/andr-cymone/index.md), [Andrea Swensson](../../../topics/andrea-swensson/index.md), [Chris Moon](../../../topics/chris-moon/index.md), [contract](../../../topics/contract/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Lisa Barber](../../../topics/lisa-barber/index.md), [memoir](../../../topics/memoir/index.md), [Owen Husney](../../../topics/owen-husney/index.md), [Robert Whitman](../../../topics/robert-whitman/index.md), [St. Louis Park (place)](../../../topics/place/st-louis-park/index.md), [The Revolution](../../../topics/the-revolution/index.md), [Under the Cherry Moon (movie)](../../../topics/movie/under-the-cherry-moon/index.md) ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2018/04/17/prince-books))
+
+----
+
 ## February 2018
 
  - [**"Prince is gone, but his spirit lives at Minnesota Super Bowl"**](https://apnews.com/760ec69e7a2e430a9879834f5f2eae63) in [Associated Press News](https://apnews.com/) on 2 February 2018 about [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Jimmy Jam](../../../topics/jimmy-jam/index.md), [Morris Day](../../../topics/morris-day/index.md), [Morris Hayes](../../../topics/morris-hayes/index.md), [museum](../../../topics/museum/index.md), [New Power Generation](../../../topics/new-power-generation/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [Super Bowl](../../../topics/super-bowl/index.md), [Terry Lewis](../../../topics/terry-lewis/index.md), [The Revolution](../../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/760ec69e7a2e430a9879834f5f2eae63))

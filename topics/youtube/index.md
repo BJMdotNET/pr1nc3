@@ -1,6 +1,7 @@
 # YouTube
 
   * [2019](./youtube-2019.md): 
+      November (1) | 
       October (1) | 
       June (1) | 
       March (1) | 

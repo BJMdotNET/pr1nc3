@@ -1,7 +1,7 @@
 # Super Bowl
 
   * [2019](./super-bowl-2019.md): 
-      November (1) | 
+      November (2) | 
       October (3) | 
       July (1) | 
   * [2018](./super-bowl-2018.md): 

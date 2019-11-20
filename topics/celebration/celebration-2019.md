@@ -1,5 +1,19 @@
 # Celebration: 2019
 
+## November 2019
+
+ - [**"Don’t overlook splashy coffee table books as holiday gifts"**](https://apnews.com/e8495b29d38d4596b879f066a3eec8fb) in [Associated Press News](https://apnews.com/) on 19 November 2019 about [Andy Warhol](../../topics/andy-warhol/index.md), [Celebration](../../topics/celebration/index.md), [exhibit](../../topics/exhibit/index.md), [exhibition](../../topics/exhibition/index.md), [Hachette Books](../../topics/hachette-books/index.md), [museum](../../topics/museum/index.md), [Penguin Random House](../../topics/penguin-random-house/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md), [trademark](../../topics/trademark/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/e8495b29d38d4596b879f066a3eec8fb))
+
+----
+
+ - [**"Don't overlook splashy coffee table books as holiday gifts"**](http://www.startribune.com/don-t-overlook-splashy-coffee-table-books-as-holiday-gifts/565099382/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 November 2019 about [Andy Warhol](../../topics/andy-warhol/index.md), [Celebration](../../topics/celebration/index.md), [exhibit](../../topics/exhibit/index.md), [exhibition](../../topics/exhibition/index.md), [Hachette Books](../../topics/hachette-books/index.md), [museum](../../topics/museum/index.md), [Penguin Random House](../../topics/penguin-random-house/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md), [trademark](../../topics/trademark/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/don-t-overlook-splashy-coffee-table-books-as-holiday-gifts/565099382/))
+
+----
+
+ - [**"Books, movies and music gifts 2019: Tops finds for the A&E fans on your list"**](https://www.seattletimes.com/explore/shop-northwest/books-movies-and-music-gifts-2019-tops-finds-for-the-ae-fans-on-your-list/) in [www.seattletimes.com](https://www.seattletimes.com/) on 14 November 2019 about [Celebration](../../topics/celebration/index.md), [PBS](../../topics/pbs/index.md), [Universal Pictures](../../topics/universal-pictures/index.md) ([mirror](https://web.archive.org/web/*/https://www.seattletimes.com/explore/shop-northwest/books-movies-and-music-gifts-2019-tops-finds-for-the-ae-fans-on-your-list/))
+
+----
+
 ## September 2019
 
  - [**"Deborah Allen talks about 40-year career in country music, Prince -- Veteran country singer-songwriter Deborah Allen chatted with Digital Journal about her 40-year career in the country music scene."**](http://www.digitaljournal.com/entertainment/music/deborah-allen-talks-about-40-year-career-in-country-music-prince/article/558910) in [Digital Journal](http://www.digitaljournal.com/) on 30 September 2019 about [Celebration](../../topics/celebration/index.md), [Deborah Allen](../../topics/deborah-allen/index.md) ([mirror](https://web.archive.org/web/*/http://www.digitaljournal.com/entertainment/music/deborah-allen-talks-about-40-year-career-in-country-music-prince/article/558910))

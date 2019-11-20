@@ -2,6 +2,30 @@
 
 ## November 2019
 
+ - [**"From 'The Ladder' to 'The Cross,' Prince's Legacy Endures Through His Friends and Music at a Town Hall Tribute"**](https://www.theroot.com/from-the-ladder-to-the-cross-princes-legacy-endured-th-1839945113) in [The Root](https://www.theroot.com/) on 19 November 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Greg Tate](../../topics/greg-tate/index.md), [memoir](../../topics/memoir/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Spike Lee](../../topics/spike-lee/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://www.theroot.com/from-the-ladder-to-the-cross-princes-legacy-endured-th-1839945113))
+
+----
+
+ - [**"Rock ’n’ roll reading: the best books to buy music fans for Christmas"**](https://www.telegraph.co.uk/books/what-to-read/rock-n-roll-reading-best-books-buy-music-fans-christmas/) in [The Telegraph](https://www.telegraph.co.uk/) on 19 November 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.telegraph.co.uk/books/what-to-read/rock-n-roll-reading-best-books-buy-music-fans-christmas/))
+
+----
+
+ - [**"Songs of Survival and Rebellion"**](https://www.nytimes.com/2019/11/19/books/review/me-elton-john.html) in [New York Times](https://www.nytimes.com/) on 19 November 2019 about [Andy Warhol](../../topics/andy-warhol/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [trademark](../../topics/trademark/index.md) ([mirror](https://web.archive.org/web/*/https://www.nytimes.com/2019/11/19/books/review/me-elton-john.html))
+
+----
+
+ - [**"INTERVIEW: New Power Generation remember their leader, Prince, at NYC concert"**](https://www.hollywoodsoapbox.com/interview-new-power-generation-remember-their-leader-prince-at-nyc-concert/) in [www.hollywoodsoapbox.com](https://www.hollywoodsoapbox.com/) on 17 November 2019 about [Chris Jackson](../../topics/chris-jackson/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [Morris Hayes](../../topics/morris-hayes/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Sonny Thompson](../../topics/sonny-thompson/index.md), [Spike Lee](../../topics/spike-lee/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.hollywoodsoapbox.com/interview-new-power-generation-remember-their-leader-prince-at-nyc-concert/))
+
+----
+
+ - [**"Prince's Posthumous Memoir The Beautiful Ones Celebrates His Humanity. A Musical Event in New York City Will Celebrate Its Release"**](https://thegrapevine.theroot.com/princes-posthumous-memoir-the-beautiful-ones-celebrates-1839906780) in [The Grapevine (The Root)](https://thegrapevine.theroot.com/) on 16 November 2019 about [Chris Jackson](../../topics/chris-jackson/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Greg Tate](../../topics/greg-tate/index.md), [memoir](../../topics/memoir/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Raspberry Beret (song)](../../topics/song/raspberry-beret/index.md), [Spike Lee](../../topics/spike-lee/index.md), [The Ballad Of Dorothy Parker (song)](../../topics/song/the-ballad-of-dorothy-parker/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [Timberwolves](../../topics/timberwolves/index.md) ([mirror](https://web.archive.org/web/*/https://thegrapevine.theroot.com/princes-posthumous-memoir-the-beautiful-ones-celebrates-1839906780))
+
+----
+
+ - [**"The afterlife of Prince, in words and music"**](https://www.inquirer.com/entertainment/prince-1999-beautiful-ones-music-book-tom-petty-david-bowie-20191115.html) in [www.inquirer.com](https://www.inquirer.com/) on 15 November 2019 about [bootleg](../../topics/bootleg/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [museum](../../topics/museum/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [Spike Lee](../../topics/spike-lee/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [Vagina (song)](../../topics/song/vagina/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.inquirer.com/entertainment/prince-1999-beautiful-ones-music-book-tom-petty-david-bowie-20191115.html))
+
+----
+
  - [**"25 Celebrity Memoirs That Are Actually Worth Reading"**](https://www.vogue.com/article/best-celebrity-memoirs) in [www.vogue.com](https://www.vogue.com/) on 14 November 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [Netflix](../../topics/netflix/index.md), [Obama](../../topics/obama/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [trademark](../../topics/trademark/index.md) ([mirror](https://web.archive.org/web/*/https://www.vogue.com/article/best-celebrity-memoirs))
 
 ----
@@ -177,6 +201,10 @@
 ----
 
  - [**"Tamron Hall Opens Up About Selfie That Became Cover Art for Prince's 'If Eye Could Get Ur Attention' -- The talk show host also revealed an email that Prince sent her about the outfit"**](https://people.com/tv/tamron-hall-selfie-cover-art-prince-if-eye-could-get-ur-attention/) in [People](https://people.com/) on 29 October 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [Tamron Hall](../../topics/tamron-hall/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://people.com/tv/tamron-hall-selfie-cover-art-prince-if-eye-could-get-ur-attention/))
+
+----
+
+ - [**"The Beautiful Ones: Before His Tragic Death, Prince Began a Memoir Detailing How He Became...Prince"**](https://thegrapevine.theroot.com/the-beautiful-ones-before-his-tragic-death-prince-beg-1839437523) in [The Grapevine (The Root)](https://thegrapevine.theroot.com/) on 29 October 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Ed Sheeran](../../topics/ed-sheeran/index.md), [Esperanza Spalding](../../topics/esperanza-spalding/index.md), [Grammy Award](../../topics/grammy-award/index.md), [Katy Perry](../../topics/katy-perry/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://thegrapevine.theroot.com/the-beautiful-ones-before-his-tragic-death-prince-beg-1839437523))
 
 ----
 

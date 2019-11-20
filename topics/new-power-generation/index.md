@@ -1,7 +1,7 @@
 # New Power Generation
 
   * [2019](./new-power-generation-2019.md): 
-      November (2) | 
+      November (6) | 
       October (1) | 
       September (3) | 
       August (2) | 

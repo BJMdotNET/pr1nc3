@@ -1,6 +1,7 @@
 # Bangles
 
   * [2019](./bangles-2019.md): 
+      November (1) | 
       September (1) | 
       August (1) | 
       July (4) | 

@@ -1,7 +1,7 @@
 # Spotify
 
   * [2019](./spotify-2019.md): 
-      November (2) | 
+      November (3) | 
       October (3) | 
       September (2) | 
       July (2) | 

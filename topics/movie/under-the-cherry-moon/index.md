@@ -5,6 +5,8 @@
       October (1) | 
       July (3) | 
       June (2) | 
+  * [2018](./under-the-cherry-moon-movie-2018.md): 
+      April (1) | 
   * [2016](./under-the-cherry-moon-movie-2016.md): 
       December (1) | 
       April (2) | 

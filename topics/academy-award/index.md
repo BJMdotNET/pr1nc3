@@ -1,7 +1,7 @@
 # Academy Award
 
   * [2019](./academy-award-2019.md): 
-      November (1) | 
+      November (2) | 
       October (1) | 
       July (1) | 
   * [2018](./academy-award-2018.md): 

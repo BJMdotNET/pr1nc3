@@ -1,6 +1,7 @@
 # Associated Press News
 
   * 2019: 
+      [November](./associated-press-news-2019-11.md) (1) | 
       [October](./associated-press-news-2019-10.md) (2) | 
       [September](./associated-press-news-2019-09.md) (2) | 
       [August](./associated-press-news-2019-08.md) (4) | 

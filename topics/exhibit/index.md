@@ -1,7 +1,7 @@
 # exhibit
 
   * [2019](./exhibit-2019.md): 
-      November (1) | 
+      November (3) | 
       October (1) | 
       September (1) | 
       August (4) | 

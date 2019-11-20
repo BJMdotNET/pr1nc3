@@ -2,6 +2,14 @@
 
 ## November 2019
 
+ - [**"PRINCE’S COUSIN (CHARLES SMITH) ON THE SINGER’S FIRST OVERDOSE: ‘HE DIED ON THE PLANE!’ – WATCH"**](https://eurweb.com/2019/11/13/princes-cousin-charles-smith-on-the-singers-first-overdose-he-died-on-the-plane-watch/) in [EURweb](https://eurweb.com/) on 13 November 2019 about [fentanyl](../../topics/fentanyl/index.md) ([mirror](https://web.archive.org/web/*/https://eurweb.com/2019/11/13/princes-cousin-charles-smith-on-the-singers-first-overdose-he-died-on-the-plane-watch/))
+
+----
+
+ - [**"Prince's Cousin Reflects on the Singer's First Opioid Overdose: "He Didn't Have a Chance""**](https://www.eonline.com/shows/true_hollywood_story/news/1090249/prince-s-cousin-reflects-on-the-singer-s-first-opioid-overdose-he-didn-t-have-a-chance) in [www.eonline.com](https://www.eonline.com/) on 11 November 2019 about [fentanyl](../../topics/fentanyl/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md) ([mirror](https://web.archive.org/web/*/https://www.eonline.com/shows/true_hollywood_story/news/1090249/prince-s-cousin-reflects-on-the-singer-s-first-opioid-overdose-he-didn-t-have-a-chance))
+
+----
+
  - [**"Prince : adolescence, souvenirs de famille... Ce que l'on apprend dans ses mémoires -- PRINCE - "The Beautiful Ones - Mémoires inachevés", l'autobiographie du chanteur Prince, mort en 2016, sort jeudi 31 octobre en France."**](https://www.linternaute.com/musique/magazine/1337605-prince-adolescence-souvenirs-de-famille-ce-que-l-on-apprend-dans-ses-memoires/) in [www.linternaute.com](https://www.linternaute.com/) on 5 November 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [fentanyl](../../topics/fentanyl/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.linternaute.com/musique/magazine/1337605-prince-adolescence-souvenirs-de-famille-ce-que-l-on-apprend-dans-ses-memoires/))
 
 ----

@@ -1,6 +1,7 @@
 # Matt Fink
 
   * [2019](./matt-fink-2019.md): 
+      November (1) | 
       August (1) | 
       April (1) | 
   * [2018](./matt-fink-2018.md): 

@@ -1,7 +1,7 @@
 # Michael Howe
 
   * [2019](./michael-howe-2019.md): 
-      November (1) | 
+      November (2) | 
       October (5) | 
       July (2) | 
       June (9) | 
