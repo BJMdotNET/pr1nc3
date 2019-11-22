@@ -1,8 +1,6 @@
 # instinctmagazine.com
 
-  * 2019: 
-      [October](./instinctmagazine-com-2019-10.md) (1) | 
-
+  * [2019](./instinctmagazine-com-2019.md/) (1)
 ----
 
 [Home](../)

@@ -1,5 +1,9 @@
 # Beck
 
+ - [**"Beck Talks The Time Prince Whispered His Name"**](https://www.rollingstone.com/music/music-news/beck-apple-music-915828/) in [Rolling Stone](https://www.rollingstone.com/) on 21 November 2019 about [Apple Music](../../topics/apple-music/index.md), [Beck](../../topics/beck/index.md), [Paisley Park Studios (place)](../../topics/place/paisley-park-studios/index.md), [The Beautiful Ones (song)](../../topics/song/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-news/beck-apple-music-915828/))
+
+----
+
  - [**"Watch Beck perform a Prince medley at Paisley Park"**](http://www.citypages.com/music/watch-beck-perform-a-prince-medley-at-paisley-park/565152092) in [City Pages](http://www.citypages.com/) on 19 November 2019 about [Beck](../../topics/beck/index.md), [Raspberry Beret (song)](../../topics/song/raspberry-beret/index.md), [The Paisley Park Sessions (EP)](../../topics/ep/the-paisley-park-sessions/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/http://www.citypages.com/music/watch-beck-perform-a-prince-medley-at-paisley-park/565152092))
 
 ----

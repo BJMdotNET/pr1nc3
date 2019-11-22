@@ -1,8 +1,6 @@
 # Essence
 
-  * 2019: 
-      [June](./essence-2019-06.md) (1) | 
-
+  * [2019](./essence-2019.md/) (1)
 ----
 
 [Home](../)

@@ -1,9 +1,6 @@
 # Kirkus Reviews
 
-  * 2019: 
-      [October](./kirkus-reviews-2019-10.md) (2) | 
-      [July](./kirkus-reviews-2019-07.md) (1) | 
-
+  * [2019](./kirkus-reviews-2019.md/) (3)
 ----
 
 [Home](../)

@@ -1,8 +1,6 @@
 # Under the Radar
 
-  * 2019: 
-      [October](./under-the-radar-2019-10.md) (1) | 
-
+  * [2019](./under-the-radar-2019.md/) (1)
 ----
 
 [Home](../)

@@ -8,6 +8,10 @@
 
 ----
 
+ - [**"Prince Interview -- The Purple Yoda dispenses wisdom via e-mail."**](https://www.timeout.com/chicago/music/prince-interview) in [www.timeout.com](https://www.timeout.com/) on 18 September 2012 about [Chaka Khan](../../topics/chaka-khan/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Van Jones](../../topics/van-jones/index.md) ([mirror](https://web.archive.org/web/*/https://www.timeout.com/chicago/music/prince-interview))
+
+----
+
  - [**"Warner opts out of Paisley Park"**](https://variety.com/1994/music/news/warner-opts-out-of-paisley-park-117965/) in [Variety](https://variety.com/) on 1 February 1994 about [George Clinton](../../topics/george-clinton/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Mo Ostin](../../topics/mo-ostin/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [Paisley Park Records](../../topics/paisley-park-records/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/1994/music/news/warner-opts-out-of-paisley-park-117965/))
 
 ----

@@ -1,8 +1,6 @@
 # Alternative Nation
 
-  * 2019: 
-      [August](./alternative-nation-2019-08.md) (1) | 
-
+  * [2019](./alternative-nation-2019.md/) (1)
 ----
 
 [Home](../)

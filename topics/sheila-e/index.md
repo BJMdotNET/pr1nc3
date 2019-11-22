@@ -1,44 +1,294 @@
 # Sheila E.
 
-  * [2019](./sheila-e-2019.md): 
-      November (1) | 
-      October (3) | 
-      September (2) | 
-      August (1) | 
-      July (5) | 
-      June (5) | 
-      May (1) | 
-      April (5) | 
-      March (1) | 
-      February (3) | 
-  * [2018](./sheila-e-2018.md): 
-      August (1) | 
-      April (3) | 
-      March (1) | 
-      February (4) | 
-      January (3) | 
-  * [2017](./sheila-e-2017.md): 
-      December (3) | 
-      August (1) | 
-      July (1) | 
-      June (1) | 
-  * [2016](./sheila-e-2016.md): 
-      December (2) | 
-      August (1) | 
-      July (1) | 
-      June (2) | 
-      May (3) | 
-      April (12) | 
-      February (1) | 
-  * [2015](./sheila-e-2015.md): 
-      March (1) | 
-  * [2014](./sheila-e-2014.md): 
-      July (1) | 
-  * [1986](./sheila-e-1986.md): 
-      July (2) | 
-  * [1985](./sheila-e-1985.md): 
-      February (1) | 
-      January (1) | 
+ - [**"The afterlife of Prince, in words and music"**](https://www.inquirer.com/entertainment/prince-1999-beautiful-ones-music-book-tom-petty-david-bowie-20191115.html) in [www.inquirer.com](https://www.inquirer.com/) on 15 November 2019 about [bootleg](../../topics/bootleg/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [museum](../../topics/museum/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [Spike Lee](../../topics/spike-lee/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [Vagina (song)](../../topics/song/vagina/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.inquirer.com/entertainment/prince-1999-beautiful-ones-music-book-tom-petty-david-bowie-20191115.html))
+
+----
+
+ - [**"'Purple Rain' Star Morris Day Claims Prince Had A 'God Complex'"**](https://www.yourtango.com/2019328900/who-morris-day-new-details-purple-rain-stars-friendship-prince-who-claims-had-god-complex) in [YourTango](https://www.yourtango.com/) on 17 October 2019 about [Jungle Love (song)](../../topics/song/jungle-love/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Bird (song)](../../topics/song/the-bird/index.md), [The Time](../../topics/the-time/index.md) ([mirror](https://web.archive.org/web/*/https://www.yourtango.com/2019328900/who-morris-day-new-details-purple-rain-stars-friendship-prince-who-claims-had-god-complex))
+
+----
+
+ - [**"MORRIS DAY RECALLS TIME HE AND PRINCE NEARLY CAME TO BLOWS ON SET OF ‘PURPLE RAIN’"**](https://eurweb.com/2019/10/14/morris-day-recalls-time-he-and-prince-nearly-came-to-blows-on-set-of-purple-rain/) in [EURweb](https://eurweb.com/) on 14 October 2019 about [Jamie Starr](../../topics/jamie-starr/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jungle Love (song)](../../topics/song/jungle-love/index.md), [Morris Day](../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Bird (song)](../../topics/song/the-bird/index.md), [The Time](../../topics/the-time/index.md), [Vanity](../../topics/vanity/index.md) ([mirror](https://web.archive.org/web/*/https://eurweb.com/2019/10/14/morris-day-recalls-time-he-and-prince-nearly-came-to-blows-on-set-of-purple-rain/))
+
+----
+
+ - [**"‘Purple Rain’ star Morris Day opens up about Prince’s ‘Jesus complex’"**](https://nypost.com/2019/10/12/purple-rain-star-morris-day-opens-up-about-princes-jesus-complex/) in [New York Post](https://nypost.com/) on 12 October 2019 about [Graffiti Bridge (movie)](../../topics/movie/graffiti-bridge/index.md), [Jamie Starr](../../topics/jamie-starr/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jungle Love (song)](../../topics/song/jungle-love/index.md), [Morris Day](../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Bird (song)](../../topics/song/the-bird/index.md), [The Time](../../topics/the-time/index.md), [Vanity 6](../../topics/vanity-6/index.md) ([mirror](https://web.archive.org/web/*/https://nypost.com/2019/10/12/purple-rain-star-morris-day-opens-up-about-princes-jesus-complex/))
+
+----
+
+ - [**"Prince and his lost comic book past get animated for a posthumous promo"**](https://www.digitalartsonline.co.uk/features/motion-graphics/prince-his-lost-comic-book-past-get-animated-for-posthumous-promo/) in [Digital Arts](https://www.digitalartsonline.co.uk/) on 27 September 2019 about [Electric Light Studios](../../topics/electric-light-studios/index.md), [Holly Rock (song)](../../topics/song/holly-rock/index.md), [Krush Groove (movie)](../../topics/movie/krush-groove/index.md), [Originals (album)](../../topics/album/originals/index.md), [Prince: Alter Ego](../../topics/prince-alter-ego/index.md), [Sheila E.](../../topics/sheila-e/index.md) ([mirror](https://web.archive.org/web/*/https://www.digitalartsonline.co.uk/features/motion-graphics/prince-his-lost-comic-book-past-get-animated-for-posthumous-promo/))
+
+----
+
+ - [**"Interview mit Prince-Tänzerin Cat: „Ich las ihm ‚Der Kleine Prinz‘ beim Einschlafen vor“"**](https://www.rollingstone.de/prince-interview-mit-cat-sign-o-the-times-1761999/) in [Rolling Stone (Germany)](https://www.rollingstone.de/) on 13 September 2019 about [Albert Magnoli](../../topics/albert-magnoli/index.md), [Housequake (song)](../../topics/song/housequake/index.md), [LeRoy Bennett](../../topics/leroy-bennett/index.md), [Lovesexy (album)](../../topics/album/lovesexy/index.md), [Lovesexy (tour)](../../topics/tour/lovesexy/index.md), [museum](../../topics/museum/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [The Revolution](../../topics/the-revolution/index.md), [U Got the Look (song)](../../topics/song/u-got-the-look/index.md), [vault](../../topics/vault/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.de/prince-interview-mit-cat-sign-o-the-times-1761999/))
+
+----
+
+ - [**"Sheila E. turns trauma into 'glorious' triumph"**](https://usatoday.com/story/life/2019/08/24/sheila-e-glorious-life/2101411001/) in [USA Today](https://usatoday.com/) on 24 August 2019 about [memoir](../../topics/memoir/index.md), [Obama](../../topics/obama/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Glamorous Life (album)](../../topics/album/the-glamorous-life/index.md), [The Glamorous Life (song)](../../topics/song/the-glamorous-life/index.md), [White House (place)](../../topics/place/white-house/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/2019/08/24/sheila-e-glorious-life/2101411001/))
+
+----
+
+ - [**"Fan-favourite ‘lost’ Prince song ‘Holly Rock’ is released as a single, with a brand-new video"**](https://www.nme.com/news/music/listen-new-prince-single-holly-rock-new-video-2532592) by Elizabeth Aubrey in [NME (New Musical Express)](https://www.nme.com/) on 26 July 2019 about [Eye Records](../../topics/eye-records/index.md), [Holly Rock (song)](../../topics/song/holly-rock/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../topics/album/originals/index.md), [Peggy McCreary](../../topics/peggy-mccreary/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md) ([mirror](https://web.archive.org/web/*/https://www.nme.com/news/music/listen-new-prince-single-holly-rock-new-video-2532592))
+
+----
+
+ - [**"Watch: Music Video Released for Prince Single 'Holly Rock' -- Recorded in 1985 in LA, the song features on the Originals album which has been recently released by The Prince Estate."**](https://www.hotpress.com/music/watch-music-video-prince-single-holly-rock-22782924) in [Hot Press](https://www.hotpress.com/) on 26 July 2019 about [Holly Rock (song)](../../topics/song/holly-rock/index.md), [Originals (album)](../../topics/album/originals/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md) ([mirror](https://web.archive.org/web/*/https://www.hotpress.com/music/watch-music-video-prince-single-holly-rock-22782924))
+
+----
+
+ - [**"New Single From Prince Released Off His Originals Album (Listen) -- The basic tracking for “Holly Rock” took place at Sunset Sound studios in Los Angeles at the end of April 1985"**](https://bassmagazine.com/artists/new-single-from-prince-released-off-his-originals-album) in [Bass Magazine](https://bassmagazine.com/) on 25 July 2019 about [Electric Light Studios](../../topics/electric-light-studios/index.md), [Holly Rock (song)](../../topics/song/holly-rock/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Krush Groove (movie)](../../topics/movie/krush-groove/index.md), [Originals (album)](../../topics/album/originals/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md) ([mirror](https://web.archive.org/web/*/https://bassmagazine.com/artists/new-single-from-prince-released-off-his-originals-album))
+
+----
+
+ - [**"Sheila E. brings the glam to jazz fest"**](https://www.thechronicleherald.ca/living/sheila-e-brings-the-glam-to-jazz-fest-329717/) by Stephen Cooke in [The Chronicle Herald](https://www.thechronicleherald.ca/) on 5 July 2019 about [Donald Trump](../../topics/donald-trump/index.md), [Morris Day](../../topics/morris-day/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Trump](../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/https://www.thechronicleherald.ca/living/sheila-e-brings-the-glam-to-jazz-fest-329717/))
+
+----
+
+ - [**"The Time’s ‘Ice Cream Castle’ Turns 35: Anniversary Retrospective -- Happy 35th Anniversary to The Time’s third studio album Ice Cream Castle, originally released July 2, 1984."**](https://www.albumism.com/features/the-time-ice-cream-castle-turns-35-anniversary-retrospective) by Andy Healy in [Albumism](https://www.albumism.com/) on 2 July 2019 about [Apollonia 6](../../topics/apollonia-6/index.md), [George Clinton](../../topics/george-clinton/index.md), [Jamie Starr](../../topics/jamie-starr/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jesse Johnson](../../topics/jesse-johnson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Mazarati](../../topics/mazarati/index.md), [Monte Moir](../../topics/monte-moir/index.md), [Morris Day](../../topics/morris-day/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Time](../../topics/the-time/index.md) ([mirror](https://web.archive.org/web/*/https://www.albumism.com/features/the-time-ice-cream-castle-turns-35-anniversary-retrospective))
+
+----
+
+ - [**"Prince Collaborators Share Stories About the Songs He Gave to Others on 'Originals'"**](https://www.billboard.com/articles/news/8517755/prince-collaborators-originals) in [Billboard](https://www.billboard.com/) on 26 June 2019 about [Andy Warhol](../../topics/andy-warhol/index.md), [Bangles](../../topics/bangles/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Martika](../../topics/martika/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../topics/album/originals/index.md), [Peggy McCreary](../../topics/peggy-mccreary/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [The Family](../../topics/the-family/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8517755/prince-collaborators-originals))
+
+----
+
+ - [**"Prince’s Unearthed ‘Originals’: Collaborators Look Back on the Hits He Passed Along -- As demos of future classics like “Manic Monday” and Nothing Compares 2 U” finally see official release, Apollonia, the Bangles’ Susanna Hoffs, and others recall the artist’s “otherworldly” songwriting talents"**](https://www.rollingstone.com/music/music-features/prince-originals-interview-842940/) by Kory Grow in [Rolling Stone](https://www.rollingstone.com/) on 24 June 2019 about [Apollonia 6](../../topics/apollonia-6/index.md), [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Bangles](../../topics/bangles/index.md), [contract](../../topics/contract/index.md), [George Clinton](../../topics/george-clinton/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Jungle Love (song)](../../topics/song/jungle-love/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Martika](../../topics/martika/index.md), [Mazarati](../../topics/mazarati/index.md), [Nasty Girl (song)](../../topics/song/nasty-girl/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../topics/album/originals/index.md), [Peggy McCreary](../../topics/peggy-mccreary/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Sex Shooter (song)](../../topics/song/sex-shooter/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [The Family](../../topics/the-family/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [The Time](../../topics/the-time/index.md), [Troy Carter](../../topics/troy-carter/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/prince-originals-interview-842940/))
+
+----
+
+ - [**"What It Was Like to Be the Only Other Person in the Studio With Prince, According to His Engineer Peggy McCreary"**](https://pitchfork.com/thepitch/prince-engineer-peggy-mccreary-interview-originals/) in [Pitchfork](https://pitchfork.com/) on 19 June 2019 about [Bangles](../../topics/bangles/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../topics/album/originals/index.md), [Peggy McCreary](../../topics/peggy-mccreary/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [The Time](../../topics/the-time/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://pitchfork.com/thepitch/prince-engineer-peggy-mccreary-interview-originals/))
+
+----
+
+ - [**"Prince Remembered by Three Key Women in His Life"**](https://variety.com/2019/music/news/prince-birthday-remembered-by-three-key-women-originals-1203235532/) by Jem Aswad in [Variety](https://variety.com/) on 7 June 2019 about [Apollonia 6](../../topics/apollonia-6/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Colleen (song)](../../topics/song/colleen/index.md), [contract](../../topics/contract/index.md), [Cynthia Rose](../../topics/cynthia-rose/index.md), [Jamie Starr](../../topics/jamie-starr/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Mazarati](../../topics/mazarati/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../topics/album/originals/index.md), [Peggy McCreary](../../topics/peggy-mccreary/index.md), [Quincy Jones](../../topics/quincy-jones/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Starfish And Coffee (song)](../../topics/song/starfish-and-coffee/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/news/prince-birthday-remembered-by-three-key-women-originals-1203235532/))
+
+----
+
+ - [**"Sheila E.’s Debut Album ‘The Glamorous Life’ Turns 35: Anniversary Retrospective -- Happy 35th Anniversary to Sheila E.’s debut album The Glamorous Life, originally released June 4, 1984."**](https://www.albumism.com/features/sheila-e-debut-album-the-glamorous-life-turns-35-anniversary-retrospective) by Andy Healy in [Albumism](https://www.albumism.com/) on 2 June 2019 about [Condition of the Heart (song)](../../topics/song/condition-of-the-heart/index.md), [Erotic City (song)](../../topics/song/erotic-city/index.md), [Jesse Johnson](../../topics/jesse-johnson/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Next Time Wipe The Lipstick Off Your Collar (song)](../../topics/song/next-time-wipe-the-lipstick-off-your-collar/index.md), [Noon Rendezvous (song)](../../topics/song/noon-rendezvous/index.md), [Oliver’s House (song)](../../topics/song/oliver-s-house/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Shortberry Strawcake (song)](../../topics/song/shortberry-strawcake/index.md), [The Belle of St. Mark (song)](../../topics/song/the-belle-of-st-mark/index.md), [The Glamorous Life (album)](../../topics/album/the-glamorous-life/index.md), [The Glamorous Life (song)](../../topics/song/the-glamorous-life/index.md), [The Starr Company](../../topics/the-starr-company/index.md), [The Time](../../topics/the-time/index.md) ([mirror](https://web.archive.org/web/*/https://www.albumism.com/features/sheila-e-debut-album-the-glamorous-life-turns-35-anniversary-retrospective))
+
+----
+
+ - [**"Susan Rogers -- The future is a big place and you can't see it all from here"**](https://wepresent.wetransfer.com/story/susan-rogers/) in [WePresent](https://wepresent.wetransfer.com/) on 24 May 2019 about [James Brown](../../topics/james-brown/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://wepresent.wetransfer.com/story/susan-rogers/))
+
+----
+
+ - [**"New Prince album featuring unreleased demos out in June"**](http://www.startribune.com/new-prince-album-featuring-unreleased-demos-out-in-june/509058902/) by The Associated Press in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 April 2019 about [Joey Coco](../../topics/joey-coco/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Originals (album)](../../topics/album/originals/index.md), [Sheila E.](../../topics/sheila-e/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/new-prince-album-featuring-unreleased-demos-out-in-june/509058902/))
+
+----
+
+ - [**"New Prince album featuring unreleased demos out in June"**](https://apnews.com/f60b62d07cd74a92aec4ceb6d9c338f1) by The Associated Press in [Associated Press News](https://apnews.com/) on 25 April 2019 about [Apple Music](../../topics/apple-music/index.md), [Bangles](../../topics/bangles/index.md), [Joey Coco](../../topics/joey-coco/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../topics/album/originals/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Spotify](../../topics/spotify/index.md), [The Time](../../topics/the-time/index.md), [Tidal](../../topics/tidal/index.md), [Troy Carter](../../topics/troy-carter/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/f60b62d07cd74a92aec4ceb6d9c338f1))
+
+----
+
+ - [**"Prince Album of Unreleased Demos, 'Originals,' Coming in June -- Album will feature songs later recorded by The Time, Vanity 6, Sheila E., the Bangles and Apollonia 6."**](https://www.billboard.com/articles/columns/rock/8508690/prince-album-unreleased-demos-originals) in [Billboard](https://www.billboard.com/) on 25 April 2019 about [Apollonia 6](../../topics/apollonia-6/index.md), [Bangles](../../topics/bangles/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Mazarati](../../topics/mazarati/index.md), [Originals (album)](../../topics/album/originals/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Time](../../topics/the-time/index.md), [Troy Carter](../../topics/troy-carter/index.md), [Vanity 6](../../topics/vanity-6/index.md) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/columns/rock/8508690/prince-album-unreleased-demos-originals))
+
+----
+
+ - [**"Prince Estate to Release ‘Originals’ Album: His Versions of Songs He Gave to Other Artists (EXCLUSIVE)"**](https://variety.com/2019/music/news/prince-estate-to-release-originals-album-songs-he-gave-to-other-artists-1203197451/) by Jem Aswad in [Variety](https://variety.com/) on 24 April 2019 about [Apollonia 6](../../topics/apollonia-6/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Mazarati](../../topics/mazarati/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../topics/album/originals/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Family](../../topics/the-family/index.md), [The Glamorous Life (song)](../../topics/song/the-glamorous-life/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [The Time](../../topics/the-time/index.md), [Tidal](../../topics/tidal/index.md), [Troy Carter](../../topics/troy-carter/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/news/prince-estate-to-release-originals-album-songs-he-gave-to-other-artists-1203197451/))
+
+----
+
+ - [**"Pick Six: Praise for Lil Nas X, Bob Mould, Zedd, 'Jay's Longhorn' and more -- Pick Six is a half-dozen cool things in music, from two points of view."**](http://www.startribune.com/pick-six-praise-for-lil-nas-x-bob-mould-zedd-jay-s-longhorn-and-more/508453002/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 April 2019 about [Central High](../../topics/central-high/index.md), [Sheila E.](../../topics/sheila-e/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/pick-six-praise-for-lil-nas-x-bob-mould-zedd-jay-s-longhorn-and-more/508453002/))
+
+----
+
+ - [**"Paisley Park rocks again with four of Prince's female protégées in concert"**](http://www.startribune.com/paisley-park-rocks-again-with-four-of-prince-s-female-protegees-in-concert/507037812/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 March 2019 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Donna Grantis](../../topics/donna-grantis/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Shelby J.](../../topics/shelby-j/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-rocks-again-with-four-of-prince-s-female-protegees-in-concert/507037812/))
+
+----
+
+ - [**"AM Prep-Music -- SHEILA E. WILL PERFORM AT TIMBERWOLVES GAME"**](https://apnews.com/8101441d66a44dd9a5831ab40423f32c) in [Associated Press News](https://apnews.com/) on 8 February 2019 about [Celebration](../../topics/celebration/index.md), [Minnesota Timberwolves](../../topics/minnesota-timberwolves/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Timberwolves](../../topics/timberwolves/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/8101441d66a44dd9a5831ab40423f32c))
+
+----
+
+ - [**"Sheila E. to perform at Timberwolves halftime Feb. 13"**](https://apnews.com/e312ae64d71e4f17b589704e4e2314ac) in [Associated Press News](https://apnews.com/) on 7 February 2019 about [Celebration](../../topics/celebration/index.md), [Minnesota Timberwolves](../../topics/minnesota-timberwolves/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Timberwolves](../../topics/timberwolves/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/e312ae64d71e4f17b589704e4e2314ac))
+
+----
+
+ - [**"Sheila E. to perform at Timberwolves halftime Feb. 13"**](http://www.startribune.com/sheila-e-to-perform-at-timberwolves-halftime-feb-13/505512282/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 7 February 2019 about [Minnesota Timberwolves](../../topics/minnesota-timberwolves/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Timberwolves](../../topics/timberwolves/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/sheila-e-to-perform-at-timberwolves-halftime-feb-13/505512282/))
+
+----
+
+ - [**"The days the music died: A look at funerals of the greats"**](https://apnews.com/7d546ab5dbec4e5ba4ebd0eddd1064e8) in [Associated Press News](https://apnews.com/) on 29 August 2018 about [Graceland](../../topics/graceland/index.md), [James Brown](../../topics/james-brown/index.md), [Larry Graham](../../topics/larry-graham/index.md), [museum](../../topics/museum/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [trademark](../../topics/trademark/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/7d546ab5dbec4e5ba4ebd0eddd1064e8))
+
+----
+
+ - [**"10 curious things we learned about Prince from the investigations -- He liked Häagen-Dazs ice cream, 5-Hour Energy drinks and MAC beauty products."**](http://www.startribune.com/10-curious-things-we-learned-about-prince-from-the-investigations/480364723/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 April 2018 about [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [CeeLo Green](../../topics/ceelo-green/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Esperanza Spalding](../../topics/esperanza-spalding/index.md), [Janelle Monae](../../topics/janelle-monae/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Larry Graham](../../topics/larry-graham/index.md), [North Memorial Medical Center (place)](../../topics/place/north-memorial-medical-center/index.md), [Peter Vang](../../topics/peter-vang/index.md), [Phaedra Ellis Lamkin](../../topics/phaedra-ellis-lamkin/index.md), [Rita Ora](../../topics/rita-ora/index.md), [Sheila E.](../../topics/sheila-e/index.md), [U Got the Look (song)](../../topics/song/u-got-the-look/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/10-curious-things-we-learned-about-prince-from-the-investigations/480364723/))
+
+----
+
+ - [**"Prince fans converge on Paisley Park for a more celebratory Celebration -- Paisley Park's second annual fan gathering kicked off with a (mostly) upbeat set by Sheila E."**](http://www.startribune.com/prince-fans-converge-on-paisley-park-for-a-more-celebratory-celebration/480314653/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 April 2018 about [Sheila E.](../../topics/sheila-e/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-fans-converge-on-paisley-park-for-a-more-celebratory-celebration/480314653/))
+
+----
+
+ - [**"Susan Rogers on working with Prince in the studio: ‘The man I knew was so human’"**](https://blog.thecurrent.org/2018/04/susan-rogers-on-working-with-prince-in-the-studio-the-man-i-knew-was-so-human/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 20 April 2018 about [Apollonia 6](../../topics/apollonia-6/index.md), [Bobby Z.](../../topics/bobby-z/index.md), [Celebration](../../topics/celebration/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Mazarati](../../topics/mazarati/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [The Revolution](../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2018/04/susan-rogers-on-working-with-prince-in-the-studio-the-man-i-knew-was-so-human/))
+
+----
+
+ - [**"AM Prep-Music -- PRINCE CELEBRATION PLANNED FOR NEXT MONTH / PRINCE - TOXICOLOGY"**](https://apnews.com/c62930a448b849a785758cf9f450f418) in [Associated Press News](https://apnews.com/) on 27 March 2018 about [Dez Dickerson](../../topics/dez-dickerson/index.md), [fentanyl](../../topics/fentanyl/index.md), [Matt Fink](../../topics/matt-fink/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Revolution](../../topics/the-revolution/index.md), [toxicology report](../../topics/toxicology-report/index.md), [tribute fence](../../topics/tribute-fence/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/c62930a448b849a785758cf9f450f418))
+
+----
+
+ - [**"Raphael Saadiq on His Oscar-Nominated ‘Mudbound’ Song, Working With Mary J. Blige and Declining Prince’s Record Deal"**](https://variety.com/2018/film/news/raphael-saadiq-on-his-oscar-nominated-mudbound-song-working-with-mary-j-blige-and-declining-princes-record-deal-1202708352/) in [Variety](https://variety.com/) on 23 February 2018 about [Chaka Khan](../../topics/chaka-khan/index.md), [D’Angelo](../../topics/d-angelo/index.md), [Raphael Saadiq](../../topics/raphael-saadiq/index.md), [Sheila E.](../../topics/sheila-e/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2018/film/news/raphael-saadiq-on-his-oscar-nominated-mudbound-song-working-with-mary-j-blige-and-declining-princes-record-deal-1202708352/))
+
+----
+
+ - [**"Second annual Celebration at Prince's Paisley Park to feature Sheila E., fDeluxe, NPG"**](http://www.startribune.com/second-annual-celebration-at-prince-s-paisley-park-to-feature-sheila-e-fdeluxe-npg/474975113/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 23 February 2018 about [fDeluxe](../../topics/fdeluxe/index.md), [Sheila E.](../../topics/sheila-e/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/second-annual-celebration-at-prince-s-paisley-park-to-feature-sheila-e-fdeluxe-npg/474975113/))
+
+----
+
+ - [**"Prince drummer: No halftime show Prince hologram"**](https://usatoday.com/story/sports/ftw/2018/02/04/prince-drummer-justin-timberlake-told-me-there-will-be-no-hologram-of-prince-at-super-bowl-halftime/110106588/) in [USA Today](https://usatoday.com/) on 4 February 2018 about [Justin Timberlake](../../topics/justin-timberlake/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Super Bowl](../../topics/super-bowl/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/sports/ftw/2018/02/04/prince-drummer-justin-timberlake-told-me-there-will-be-no-hologram-of-prince-at-super-bowl-halftime/110106588/))
+
+----
+
+ - [**"Prince is gone, but his spirit lives at Minnesota Super Bowl"**](https://apnews.com/760ec69e7a2e430a9879834f5f2eae63) in [Associated Press News](https://apnews.com/) on 2 February 2018 about [First Avenue (place)](../../topics/place/first-avenue/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Hayes](../../topics/morris-hayes/index.md), [museum](../../topics/museum/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Revolution](../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/760ec69e7a2e430a9879834f5f2eae63))
+
+----
+
+ - [**"5 Minneapolis Super Bowl concerts worth the splurge, plus 5 cheaper alternatives"**](https://apnews.com/b5354fb801f94674abaf28203dd6eec2) in [Associated Press News](https://apnews.com/) on 25 January 2018 about [André Cymone](../../topics/andr-cymone/index.md), [Brother Jules](../../topics/brother-jules/index.md), [Dakota (place)](../../topics/place/dakota/index.md), [fDeluxe](../../topics/fdeluxe/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Gwen Stefani](../../topics/gwen-stefani/index.md), [Morris Day](../../topics/morris-day/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Super Bowl](../../topics/super-bowl/index.md), [The Family](../../topics/the-family/index.md), [The Revolution](../../topics/the-revolution/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/b5354fb801f94674abaf28203dd6eec2))
+
+----
+
+ - [**"Super Bowl Live free concerts schedule revealed with new Minnesota all-stars"**](https://apnews.com/359610d132dc4676a00e9e4da420ecaf) in [Associated Press News](https://apnews.com/) on 19 January 2018 about [fDeluxe](../../topics/fdeluxe/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Revolution](../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/359610d132dc4676a00e9e4da420ecaf))
+
+----
+
+ - [**"Sheila E. reflects on losing Prince, jamming with Ringo and how Trump inspired 'Iconic'"**](https://usatoday.com/story/entertainment/music/2018/01/11/sheila-e-interview-prince-ringo-starr-donald-trump-iconic/1022142001/) in [USA Today](https://usatoday.com/) on 18 January 2018 about [Candy Dulfer](../../topics/candy-dulfer/index.md), [Donald Trump](../../topics/donald-trump/index.md), [George Clinton](../../topics/george-clinton/index.md), [Oliver’s House (song)](../../topics/song/oliver-s-house/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [The Belle of St. Mark (song)](../../topics/song/the-belle-of-st-mark/index.md), [The Glamorous Life (album)](../../topics/album/the-glamorous-life/index.md), [The Glamorous Life (song)](../../topics/song/the-glamorous-life/index.md), [Trump](../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/entertainment/music/2018/01/11/sheila-e-interview-prince-ringo-starr-donald-trump-iconic/1022142001/))
+
+----
+
+ - [**"Singer Gwen Stefani to wrap up Super Bowl week performances"**](https://apnews.com/80ec55b99dd74c77b9d3fbcd79adf7c1) in [Associated Press News](https://apnews.com/) on 12 December 2017 about [Gwen Stefani](../../topics/gwen-stefani/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Super Bowl](../../topics/super-bowl/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/80ec55b99dd74c77b9d3fbcd79adf7c1))
+
+----
+
+ - [**"Ellie Goulding, DJ Kygo to perform during Super Bowl week"**](https://apnews.com/283071a69cd5493380935bf78796d91c) in [Associated Press News](https://apnews.com/) on 6 December 2017 about [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Super Bowl](../../topics/super-bowl/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/283071a69cd5493380935bf78796d91c))
+
+----
+
+ - [**"Super Bowl Live concert series will include Prince tribute"**](https://apnews.com/30711cb14b744f1aa016784116c806cc) in [Associated Press News](https://apnews.com/) on 1 December 2017 about [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/30711cb14b744f1aa016784116c806cc))
+
+----
+
+ - [**"Remembering Margo Chase, letter alchemist"**](https://www.typenetwork.com/news/article/remembering-margo-chase-letter-alchemist) in [TypeNetwork](https://www.typenetwork.com/) on 2 August 2017 about [Around The World In A Day (album)](../../topics/album/around-the-world-in-a-day/index.md), [Graffiti Bridge (album)](../../topics/album/graffiti-bridge/index.md), [Laura LiPuma](../../topics/laura-lipuma/index.md), [Lovesexy (album)](../../topics/album/lovesexy/index.md), [Margo Chase](../../topics/margo-chase/index.md), [Mazarati](../../topics/mazarati/index.md), [Sheila E.](../../topics/sheila-e/index.md) ([mirror](https://web.archive.org/web/*/https://www.typenetwork.com/news/article/remembering-margo-chase-letter-alchemist))
+
+----
+
+ - [**"Longtime Prince drummer John Blackwell Jr. dies at 43"**](https://usatoday.com/story/life/music/2017/07/04/longtime-prince-drummer-john-blackwell-jr-dies/103425914/) in [USA Today](https://usatoday.com/) on 5 July 2017 about [John Blackwell Jr.](../../topics/john-blackwell-jr/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [Morris Day](../../topics/morris-day/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Sheila E.](../../topics/sheila-e/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2017/07/04/longtime-prince-drummer-john-blackwell-jr-dies/103425914/))
+
+----
+
+ - [**"Exclusive Preview: Prince’s ‘Purple Rain’ Deluxe Edition, With Previously Unreleased Tracks"**](https://variety.com/2017/film/news/prince-purple-rain-deluxe-edition-exclusive-preview-1202463200/) by Jem Aswad in [Variety](https://variety.com/) on 13 June 2017 about [17 Days (song)](../../topics/song/17-days/index.md), [Around The World In A Day (album)](../../topics/album/around-the-world-in-a-day/index.md), [Computer Blue (song)](../../topics/song/computer-blue/index.md), [Erotic City (song)](../../topics/song/erotic-city/index.md), [I Would Die 4 U (song)](../../topics/song/i-would-die-4-u/index.md), [James Brown](../../topics/james-brown/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [Katrina’s Paper Dolls (song)](../../topics/song/katrina-s-paper-dolls/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Love and Sex (song)](../../topics/song/love-and-sex/index.md), [Our Destiny (song)](../../topics/song/our-destiny/index.md), [Possessed (song)](../../topics/song/possessed/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Roadhouse Garden (song)](../../topics/song/roadhouse-garden/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Beautiful Ones (song)](../../topics/song/the-beautiful-ones/index.md), [The Dance Electric (song)](../../topics/song/the-dance-electric/index.md), [Velvet Kitty Cat (song)](../../topics/song/velvet-kitty-cat/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md), [Wonderful Ass (song)](../../topics/song/wonderful-ass/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2017/film/news/prince-purple-rain-deluxe-edition-exclusive-preview-1202463200/))
+
+----
+
+ - [**"Susan Rogers - 2016 Red Bull Music Academy lecture"**](https://www.redbullmusicacademy.com/lectures/susan-rogers-lecture) in [Red Bull Music Academy](https://www.redbullmusicacademy.com/) on 8 December 2016 about [17 Days (song)](../../topics/song/17-days/index.md), [Academy Award](../../topics/academy-award/index.md), [Anita Baker](../../topics/anita-baker/index.md), [Bernie Grundman](../../topics/bernie-grundman/index.md), [bootleg](../../topics/bootleg/index.md), [Condition of the Heart (song)](../../topics/song/condition-of-the-heart/index.md), [contract](../../topics/contract/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Grammy Award](../../topics/grammy-award/index.md), [James Brown](../../topics/james-brown/index.md), [Jesse Johnson](../../topics/jesse-johnson/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Kate Bush](../../topics/kate-bush/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Pop Life (song)](../../topics/song/pop-life/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [The Ballad Of Dorothy Parker (song)](../../topics/song/the-ballad-of-dorothy-parker/index.md), [The Revolution](../../topics/the-revolution/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md) ([mirror](https://web.archive.org/web/*/https://www.redbullmusicacademy.com/lectures/susan-rogers-lecture))
+
+----
+
+ - [**"Susan Rogers on Working with Prince -- The engineer, collaborator and confidante shares stories from her exhilarating and exhausting time with Prince Rogers Nelson"**](https://daily.redbullmusicacademy.com/2017/06/susan-rogers-working-with-prince) in [Red Bull Music Academy Daily](https://daily.redbullmusicacademy.com/) on 8 December 2016 about [Jesse Johnson](../../topics/jesse-johnson/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [Vanity 6](../../topics/vanity-6/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md) ([mirror](https://web.archive.org/web/*/https://daily.redbullmusicacademy.com/2017/06/susan-rogers-working-with-prince))
+
+----
+
+ - [**"Musicians close to Prince reportedly in the mix for tribute"**](https://apnews.com/5c33d9f6e9654074898b04452f17c598) in [Associated Press News](https://apnews.com/) on 31 August 2016 about [Morris Day](../../topics/morris-day/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Revolution](../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/5c33d9f6e9654074898b04452f17c598))
+
+----
+
+ - [**"APNewsBreak: Official Prince tribute concert set for October"**](https://apnews.com/08568057d51c46f8a3daf99e36db5e38) in [Associated Press News](https://apnews.com/) on 28 July 2016 about [Janelle Monae](../../topics/janelle-monae/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [The Roots](../../topics/the-roots/index.md), [Tori Kelly](../../topics/tori-kelly/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/08568057d51c46f8a3daf99e36db5e38))
+
+----
+
+ - [**"BET Awards full of Prince tributes and political moments"**](https://apnews.com/6b28e8f305564390bd4b11732e176683) in [Associated Press News](https://apnews.com/) on 27 June 2016 about [BET Awards](../../topics/bet-awards/index.md), [Donald Trump](../../topics/donald-trump/index.md), [Janelle Monae](../../topics/janelle-monae/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Trump](../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/6b28e8f305564390bd4b11732e176683))
+
+----
+
+ - [**"'BET Awards'' Prince tribute to feature Sheila E, The Roots"**](https://usatoday.com/story/life/tv/2016/06/07/bet-awards-prince-tribute-feature-sheila-e-roots/85563070/) in [USA Today](https://usatoday.com/) on 7 June 2016 about [BET Awards](../../topics/bet-awards/index.md), [Black-ish (TV show)](../../topics/tv-show/black-ish/index.md), [Janelle Monae](../../topics/janelle-monae/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Roots](../../topics/the-roots/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/tv/2016/06/07/bet-awards-prince-tribute-feature-sheila-e-roots/85563070/))
+
+----
+
+ - [**"Record crowd on hand as St. Paul Saints play Purple Game to remember Prince -- The St. Paul Saints gave Prince a final farewell — complete with a lot of purple, and some red Corvettes."**](http://www.startribune.com/record-crowd-on-hand-as-st-paul-saints-play-purple-game-to-remember-prince/381305401/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 30 May 2016 about [Sheila E.](../../topics/sheila-e/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/record-crowd-on-hand-as-st-paul-saints-play-purple-game-to-remember-prince/381305401/))
+
+----
+
+ - [**"Prince's death: Sheila E. disputes 'irrelevant' label"**](https://usatoday.com/story/life/people/2016/05/21/princes-death-day-31-questions-over-timeline/84709882/) in [USA Today](https://usatoday.com/) on 22 May 2016 about [Chaka Khan](../../topics/chaka-khan/index.md), [Sheila E.](../../topics/sheila-e/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/people/2016/05/21/princes-death-day-31-questions-over-timeline/84709882/))
+
+----
+
+ - [**"Could Paisley Park become a Prince museum? Maybe not"**](https://usatoday.com/story/life/music/2016/04/29/could-paisley-park-become-prince-museum-maybe-not/83651588/) in [USA Today](https://usatoday.com/) on 1 May 2016 about [Denny Laufenburger](../../topics/denny-laufenburger/index.md), [Graceland](../../topics/graceland/index.md), [museum](../../topics/museum/index.md), [Robert Strauss](../../topics/robert-strauss/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2016/04/29/could-paisley-park-become-prince-museum-maybe-not/83651588/))
+
+----
+
+ - [**"APNewsBreak: Investigators look at overdose in Prince death"**](https://apnews.com/744a34089a8241df95a836b358741ace) in [Associated Press News](https://apnews.com/) on 29 April 2016 about [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Sheila E.](../../topics/sheila-e/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/744a34089a8241df95a836b358741ace))
+
+----
+
+ - [**"Prince death investigation focuses on flight, drugs, doctor"**](https://apnews.com/175b0bd7f6f641b1b9b90b268bb3375e) in [Associated Press News](https://apnews.com/) on 29 April 2016 about [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [Sheila E.](../../topics/sheila-e/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/175b0bd7f6f641b1b9b90b268bb3375e))
+
+----
+
+ - [**"Remembering Prince: Engineer “Cubby” Colby"**](https://www.prosoundnetwork.com/business/remembering-prince-engineer-cubby-colby) in [ProSound](https://www.prosoundnetwork.com/) on 28 April 2016 about [Brown Mark](../../topics/brown-mark/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [Eric Leeds](../../topics/eric-leeds/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [James Brown](../../topics/james-brown/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [LeRoy Bennett](../../topics/leroy-bennett/index.md), [Matt Fink](../../topics/matt-fink/index.md), [Michael Bland](../../topics/michael-bland/index.md), [Robert “Cubby” Colby](../../topics/robert-cubby-colby/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [The Revolution](../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/https://www.prosoundnetwork.com/business/remembering-prince-engineer-cubby-colby))
+
+----
+
+ - [**"‘Prince wanted this event to happen’: Mixed Blood Theatre’s Paisley Park gala will go on as planned"**](https://blog.thecurrent.org/2016/04/prince-wanted-this-event-to-happen-mixed-blood-theatres-paisley-park-gala-will-go-on-as-planned/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 26 April 2016 about [auction](../../topics/auction/index.md), [Mixed Blood](../../topics/mixed-blood/index.md), [museum](../../topics/museum/index.md), [Sheila E.](../../topics/sheila-e/index.md) ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2016/04/prince-wanted-this-event-to-happen-mixed-blood-theatres-paisley-park-gala-will-go-on-as-planned/))
+
+----
+
+ - [**"Prince was a one-man band and a friend to many others"**](https://apnews.com/508256962cd942f3bc61e1cc034900ad) in [Associated Press News](https://apnews.com/) on 25 April 2016 about [Bangles](../../topics/bangles/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Esperanza Spalding](../../topics/esperanza-spalding/index.md), [Grammy Award](../../topics/grammy-award/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Rita Ora](../../topics/rita-ora/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stand Back (song)](../../topics/song/stand-back/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [YouTube](../../topics/youtube/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/508256962cd942f3bc61e1cc034900ad))
+
+----
+
+ - [**"Sheila E.: Saying goodbye to Prince 'the hardest thing I've ever had to do' -- Sheila E., longtime friend, said she never knew Prince to take drugs."**](http://www.startribune.com/sheila-e-saying-goodbye-to-prince-the-hardest-thing-i-ve-ever-had-to-do/376906621/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 April 2016 about [Celebration](../../topics/celebration/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Lionel Richie](../../topics/lionel-richie/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Sheila E.](../../topics/sheila-e/index.md), [TMZ (website)](../../topics/website/tmz/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [WCCO-TV](../../topics/wcco-tv/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/sheila-e-saying-goodbye-to-prince-the-hardest-thing-i-ve-ever-had-to-do/376906621/))
+
+----
+
+ - [**"Latest: Publicist: SNL devotes show to Prince tribute"**](https://apnews.com/b57342f2b68447639ef7589c0caa9ee8) in [Associated Press News](https://apnews.com/) on 24 April 2016 about [3121 (album)](../../topics/album/3121/index.md), [Carver County](../../topics/carver-county/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Minnesota Historical Society](../../topics/minnesota-historical-society/index.md), [Minnesota History Center](../../topics/minnesota-history-center/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [Sheila E.](../../topics/sheila-e/index.md), [SNL (TV show)](../../topics/tv-show/snl/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/b57342f2b68447639ef7589c0caa9ee8))
+
+----
+
+ - [**"The Latest: Prince to be honored in New Orleans jazz funeral"**](https://apnews.com/2bff71641de848cdb8d414528b9686a5) in [Associated Press News](https://apnews.com/) on 23 April 2016 about [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [Sheila E.](../../topics/sheila-e/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/2bff71641de848cdb8d414528b9686a5))
+
+----
+
+ - [**"A Prince on screen, from ‘Purple Rain’ to ‘Graffiti Bridge’"**](https://apnews.com/8082812e075544679812ad4cc742307f) in [Associated Press News](https://apnews.com/) on 22 April 2016 about [Academy Award](../../topics/academy-award/index.md), [Batdance (song)](../../topics/song/batdance/index.md), [Batman (album)](../../topics/album/batman/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Glam Slam (place)](../../topics/place/glam-slam/index.md), [Graffiti Bridge (movie)](../../topics/movie/graffiti-bridge/index.md), [Grammy Award](../../topics/grammy-award/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Krush Groove (movie)](../../topics/movie/krush-groove/index.md), [Morris Day](../../topics/morris-day/index.md), [Parade (album)](../../topics/album/parade/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Roger Ebert](../../topics/roger-ebert/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Time](../../topics/the-time/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/8082812e075544679812ad4cc742307f))
+
+----
+
+ - [**"Music icon Prince dead at 57"**](https://usatoday.com/story/entertainment/music/2016/04/21/report-music-icon-prince-dead-57/83339894/) in [USA Today](https://usatoday.com/) on 21 April 2016 about [Bangles](../../topics/bangles/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Obama](../../topics/obama/index.md), [Sheila E.](../../topics/sheila-e/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/entertainment/music/2016/04/21/report-music-icon-prince-dead-57/83339894/))
+
+----
+
+ - [**"'Stunned' celebrities react to Prince's death"**](https://usatoday.com/story/life/nation-now/2016/04/21/celebrities-react-princes-death/83341102/) in [USA Today](https://usatoday.com/) on 21 April 2016 about [Bangles](../../topics/bangles/index.md), [Katy Perry](../../topics/katy-perry/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Obama](../../topics/obama/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Spike Lee](../../topics/spike-lee/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/nation-now/2016/04/21/celebrities-react-princes-death/83341102/))
+
+----
+
+ - [**"What Prince Taught Me About Love. And Sex. And Time. -- Thirty-five years ago, I heard Prince's voice. Eighteen years later, I was in his presence."**](https://www.esquire.com/entertainment/music/a44221/prince-a-remembrance-dave-holmes/) in [Esquire](https://www.esquire.com/) on 21 April 2016 about [Baby I'm a Star (song)](../../topics/song/baby-i-m-a-star/index.md), [Batdance (song)](../../topics/song/batdance/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [George Clinton](../../topics/george-clinton/index.md), [I Would Die 4 U (song)](../../topics/song/i-would-die-4-u/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Morris Day](../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Vanity 6](../../topics/vanity-6/index.md), [YouTube](../../topics/youtube/index.md) ([mirror](https://web.archive.org/web/*/https://www.esquire.com/entertainment/music/a44221/prince-a-remembrance-dave-holmes/))
+
+----
+
+ - [**"Paean to Prince: 15 Fascinating Facts About His Purple Majesty -- Juicy secrets from a legendary music career, collected by an infatuated fan"**](https://medium.com/cuepoint/paean-to-prince-15-fascinating-facts-about-his-purple-majesty-6aa627d1d17e) in [Cuepoint](https://medium.com/cuepoint/) on 10 February 2016 about [Alan Light](../../topics/alan-light/index.md), [Albert Magnoli](../../topics/albert-magnoli/index.md), [Apollonia 6](../../topics/apollonia-6/index.md), [Dave Chappelle](../../topics/dave-chappelle/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [Jesse Johnson](../../topics/jesse-johnson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Matt Fink](../../topics/matt-fink/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Questlove](../../topics/questlove/index.md), [Quincy Jones](../../topics/quincy-jones/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stand Back (song)](../../topics/song/stand-back/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Revolution](../../topics/the-revolution/index.md), [Vagina (song)](../../topics/song/vagina/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md) ([mirror](https://web.archive.org/web/*/https://medium.com/cuepoint/paean-to-prince-15-fascinating-facts-about-his-purple-majesty-6aa627d1d17e))
+
+----
+
+ - [**"New Prince track was a long time coming"**](https://usatoday.com/story/life/music/2015/03/14/new-prince-track-what-if-nichole-nordeman/24773895/) in [USA Today](https://usatoday.com/) on 15 March 2015 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Hannah Welton](../../topics/hannah-welton/index.md), [Nichole Nordeman](../../topics/nichole-nordeman/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The X's Face (song)](../../topics/song/the-x-s-face/index.md), [What If (song)](../../topics/song/what-if/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2015/03/14/new-prince-track-what-if-nichole-nordeman/24773895/))
+
+----
+
+ - [**"Prince returns for Essence’s 20th celebration"**](https://apnews.com/2816a54a81a54d278d43121785573047) in [Associated Press News](https://apnews.com/) on 5 July 2014 about [Janelle Monae](../../topics/janelle-monae/index.md), [Jungle Love (song)](../../topics/song/jungle-love/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Morris Day](../../topics/morris-day/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Time](../../topics/the-time/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/2816a54a81a54d278d43121785573047))
+
+----
+
+ - [**"″His Royal Badness” Rocks Sheridan"**](https://apnews.com/485767a7a9734b8abcd31a5d36f3ffa1) in [Associated Press News](https://apnews.com/) on 2 July 1986 about [Academy Award](../../topics/academy-award/index.md), [Grammy Award](../../topics/grammy-award/index.md), [Jerome Benton](../../topics/jerome-benton/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Lisa Barber](../../topics/lisa-barber/index.md), [Mazarati](../../topics/mazarati/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/485767a7a9734b8abcd31a5d36f3ffa1))
+
+----
+
+ - [**"People In The News"**](https://apnews.com/a54722baa9192b6b063a98d9a77d403b) in [Associated Press News](https://apnews.com/) on 2 July 1986 about [Academy Award](../../topics/academy-award/index.md), [Lisa Barber](../../topics/lisa-barber/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/a54722baa9192b6b063a98d9a77d403b))
+
+----
+
+ - [**"27th Annual Grammy Awards Show to Offer Stellar Performances Tuesday"**](https://apnews.com/f0321a7f0a1984fca521fee8571d39e8) in [Associated Press News](https://apnews.com/) on 23 February 1985 about [Baby I’m a Star (song)](../../topics/song/baby-i-m-a-star/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Grammy Award](../../topics/grammy-award/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [PRINCEss](../../topics/princess/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [The Revolution](../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/f0321a7f0a1984fca521fee8571d39e8))
+
+----
+
+ - [**"David Foster Edges Cyndi Lauper, Tina Turner and Prince With BC-Grammys-List"**](https://apnews.com/78bd652204e400aeb604e68f1e12f43b) in [Associated Press News](https://apnews.com/) on 10 January 1985 about [Chaka Khan](../../topics/chaka-khan/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [The Revolution](../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/78bd652204e400aeb604e68f1e12f43b))
 
 ----
 

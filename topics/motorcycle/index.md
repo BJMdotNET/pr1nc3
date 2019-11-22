@@ -1,17 +1,54 @@
 # motorcycle
 
-  * [2019](./motorcycle-2019.md): 
-      November (2) | 
-      October (2) | 
-  * [2018](./motorcycle-2018.md): 
-      November (1) | 
-  * [2017](./motorcycle-2017.md): 
-      June (1) | 
-  * [2016](./motorcycle-2016.md): 
-      October (2) | 
-      August (1) | 
-      June (2) | 
-      April (2) | 
+ - [**"PAISLEY PARK IS IN YOUR HEART: A VISIT TO PRINCE'S MAGICAL MINNEAPOLIS KINGDOM -- WITH PRINCE'S MEMOIR JUST OUT AND A REMASTERED "1999" ON THE WAY, IT'S THE PERFECT TIME TO DO A PURPLE-COLORED TOUR OF MINNEAPOLIS."**](https://www.newsweek.com/paisley-park-your-heart-visit-princes-magical-minneapolis-kingdom-1472087) in [Newsweek](https://www.newsweek.com/) on 15 November 2019 about [Academy Award](../../topics/academy-award/index.md), [Chappelle's Show (TV show)](../../topics/tv-show/chappelle-s-show/index.md), [Electric Fetus (place)](../../topics/place/electric-fetus/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [George Clinton](../../topics/george-clinton/index.md), [Grammy Award](../../topics/grammy-award/index.md), [James Brown](../../topics/james-brown/index.md), [memoir](../../topics/memoir/index.md), [merchandise](../../topics/merchandise/index.md), [motorcycle](../../topics/motorcycle/index.md), [museum](../../topics/museum/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Super Bowl](../../topics/super-bowl/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.newsweek.com/paisley-park-your-heart-visit-princes-magical-minneapolis-kingdom-1472087))
+
+----
+
+ - [**"Go to Paisley Park While It's Still in Your Heart"**](https://www.houstonpress.com/music/a-trip-to-princes-paisley-park-11373725) in [www.houstonpress.com](https://www.houstonpress.com/) on 1 November 2019 about [Academy Award](../../topics/academy-award/index.md), [Charlie Murphy](../../topics/charlie-murphy/index.md), [exhibit](../../topics/exhibit/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Graceland](../../topics/graceland/index.md), [James Brown](../../topics/james-brown/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Lizzo](../../topics/lizzo/index.md), [Minnesota Timberwolves](../../topics/minnesota-timberwolves/index.md), [motorcycle](../../topics/motorcycle/index.md), [museum](../../topics/museum/index.md), [Obama](../../topics/obama/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Timberwolves](../../topics/timberwolves/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md) ([mirror](https://web.archive.org/web/*/https://www.houstonpress.com/music/a-trip-to-princes-paisley-park-11373725))
+
+----
+
+ - [**"Interview: Director Albert Magnoli describes working with Prince and making 'Purple Rain'"**](https://www.thecurrent.org/feature/2019/10/24/interview-director-albert-magnoli-describes-working-with-prince-purple-rain) in [The Current](https://www.thecurrent.org/) on 24 October 2019 about [Albert Magnoli](../../topics/albert-magnoli/index.md), [Chick Huntsberry](../../topics/chick-huntsberry/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Lake Minnetonka (place)](../../topics/place/lake-minnetonka/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [motorcycle](../../topics/motorcycle/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Spotify](../../topics/spotify/index.md), [Steve Fargnoli ](../../topics/steve-fargnoli/index.md) ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/10/24/interview-director-albert-magnoli-describes-working-with-prince-purple-rain))
+
+----
+
+ - [**"The Beautiful Ones' Editor Reveals How Prince Tapped Him to Write His Memoir -- A month after Chris Jackson signed a deal to publish Prince’s memoir, Prince died. Here, Jackson opens up about the three-year journey to make The Purple One proud."**](https://www.oprahmag.com/entertainment/books/a29339794/prince-the-beautiful-ones-book-chris-jackson/) in [Oprah Magazine](https://www.oprahmag.com/) on 9 October 2019 about [Chris Jackson](../../topics/chris-jackson/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Esther Newberg](../../topics/esther-newberg/index.md), [I Wanna Be Your Lover (song)](../../topics/song/i-wanna-be-your-lover/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [Larry Graham](../../topics/larry-graham/index.md), [memoir](../../topics/memoir/index.md), [motorcycle](../../topics/motorcycle/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://www.oprahmag.com/entertainment/books/a29339794/prince-the-beautiful-ones-book-chris-jackson/))
+
+----
+
+ - [**"Timberwolves show off Prince tribute uniforms at Paisley Park -- The Wolves will wear the uniforms eight times this year, including five times at home, and they go on sale to the public next week."**](http://www.startribune.com/timberwolves-show-off-prince-tribute-jerseys-at-paisley-park/499315791/) by Michael Rand in [Minneapolis Star Tribune](http://www.startribune.com/) on 1 November 2018 about [Minnesota Timberwolves](../../topics/minnesota-timberwolves/index.md), [motorcycle](../../topics/motorcycle/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Timberwolves](../../topics/timberwolves/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/timberwolves-show-off-prince-tribute-jerseys-at-paisley-park/499315791/))
+
+----
+
+ - [**"Prince’s Purple Downpour: A Review of the Expanded “Purple Rain”"**](https://www.newyorker.com/culture/culture-desk/princes-purple-downpour-a-review-of-the-expanded-purple-rain) in [The New Yorker](https://www.newyorker.com/) on 25 June 2017 about [17 Days (song)](../../topics/song/17-days/index.md), [André Cymone](../../topics/andr-cymone/index.md), [Baby I’m a Star (song)](../../topics/song/baby-i-m-a-star/index.md), [Computer Blue (song)](../../topics/song/computer-blue/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [Erotic City (song)](../../topics/song/erotic-city/index.md), [George Clinton](../../topics/george-clinton/index.md), [Horny Toad (song)](../../topics/song/horny-toad/index.md), [How Come U Don’t Call Me Anymore? (song)](../../topics/song/how-come-u-don-t-call-me-anymore/index.md), [I Would Die 4 U (song)](../../topics/song/i-would-die-4-u/index.md), [Irresistible Bitch (song)](../../topics/song/irresistible-bitch/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Katrina’s Paper Dolls (song)](../../topics/song/katrina-s-paper-dolls/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Love and Sex (song)](../../topics/song/love-and-sex/index.md), [Miles Davis](../../topics/miles-davis/index.md), [motorcycle](../../topics/motorcycle/index.md), [Our Destiny (song)](../../topics/song/our-destiny/index.md), [Possessed (song)](../../topics/song/possessed/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Roadhouse Garden (song)](../../topics/song/roadhouse-garden/index.md), [The Beautiful Ones (song)](../../topics/song/the-beautiful-ones/index.md), [The Dance Electric (song)](../../topics/song/the-dance-electric/index.md), [The Revolution](../../topics/the-revolution/index.md), [vault](../../topics/vault/index.md), [Velvet Kitty Cat (song)](../../topics/song/velvet-kitty-cat/index.md), [Wednesday (song)](../../topics/song/wednesday/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md), [Wonderful Ass (song)](../../topics/song/wonderful-ass/index.md) ([mirror](https://web.archive.org/web/*/https://www.newyorker.com/culture/culture-desk/princes-purple-downpour-a-review-of-the-expanded-purple-rain))
+
+----
+
+ - [**"Council: Prince’s Paisley Park museum can open permanently"**](https://apnews.com/b8ca79d39dec4b2e830759ad4485342c) in [Associated Press News](https://apnews.com/) on 25 October 2016 about [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [Joel Weinshanker](../../topics/joel-weinshanker/index.md), [motorcycle](../../topics/motorcycle/index.md), [museum](../../topics/museum/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/b8ca79d39dec4b2e830759ad4485342c))
+
+----
+
+ - [**"Paisley Park museum adds more October tour dates"**](https://apnews.com/7bcfafee440e41c49ea690bc6a6af50a) in [Associated Press News](https://apnews.com/) on 12 October 2016 about [motorcycle](../../topics/motorcycle/index.md), [museum](../../topics/museum/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/7bcfafee440e41c49ea690bc6a6af50a))
+
+----
+
+ - [**"Prince Estate: Paisley Park to open for daily paid public tours in fall"**](https://usatoday.com/story/life/2016/08/24/prince-estate-paisley-park-open-daily-paid-public-tours-fall/89298540/) in [USA Today](https://usatoday.com/) on 25 August 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [Caribbean](../../topics/caribbean/index.md), [Denny Laufenburger](../../topics/denny-laufenburger/index.md), [exhibit](../../topics/exhibit/index.md), [exhibition](../../topics/exhibition/index.md), [Graceland](../../topics/graceland/index.md), [motorcycle](../../topics/motorcycle/index.md), [museum](../../topics/museum/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/2016/08/24/prince-estate-paisley-park-open-daily-paid-public-tours-fall/89298540/))
+
+----
+
+ - [**"A Prince wish, Paisley Park eyed for museum like Graceland"**](https://apnews.com/e126f8cb38574b21b3cf0f5dd0843873) in [Associated Press News](https://apnews.com/) on 10 June 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [exhibit](../../topics/exhibit/index.md), [exhibition](../../topics/exhibition/index.md), [fentanyl](../../topics/fentanyl/index.md), [Graceland](../../topics/graceland/index.md), [Jeremiah Freed](../../topics/jeremiah-freed/index.md), [motorcycle](../../topics/motorcycle/index.md), [museum](../../topics/museum/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/e126f8cb38574b21b3cf0f5dd0843873))
+
+----
+
+ - [**"A Prince wish, Paisley Park eyed for museum like Graceland"**](http://www.startribune.com/a-prince-wish-paisley-park-eyed-for-museum-like-graceland/382529341/) by Steve Karnowski (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 June 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [exhibit](../../topics/exhibit/index.md), [exhibition](../../topics/exhibition/index.md), [fentanyl](../../topics/fentanyl/index.md), [Graceland](../../topics/graceland/index.md), [Jeremiah Freed](../../topics/jeremiah-freed/index.md), [motorcycle](../../topics/motorcycle/index.md), [museum](../../topics/museum/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/a-prince-wish-paisley-park-eyed-for-museum-like-graceland/382529341/))
+
+----
+
+ - [**"AP Exclusive: Prince’s ‘Purple Rain’ coat is up for auction"**](https://apnews.com/8110dcbaa6714d75a12db043ff989975) in [Associated Press News](https://apnews.com/) on 29 April 2016 about [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [auction](../../topics/auction/index.md), [Katy Perry](../../topics/katy-perry/index.md), [motorcycle](../../topics/motorcycle/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/8110dcbaa6714d75a12db043ff989975))
+
+----
+
+ - [**"Prince's 'Purple Rain' coat is up for auction"**](http://www.startribune.com/ap-exclusive-prince-s-purple-rain-coat-is-up-for-auction/377542161/) by Nicole Evatt (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 29 April 2016 about [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [auction](../../topics/auction/index.md), [Katy Perry](../../topics/katy-perry/index.md), [motorcycle](../../topics/motorcycle/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/ap-exclusive-prince-s-purple-rain-coat-is-up-for-auction/377542161/))
 
 ----
 

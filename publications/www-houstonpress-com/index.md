@@ -1,8 +1,6 @@
 # www.houstonpress.com
 
-  * 2019: 
-      [November](./www-houstonpress-com-2019-11.md) (1) | 
-
+  * [2019](./www-houstonpress-com-2019.md/) (1)
 ----
 
 [Home](../)

@@ -1,8 +1,6 @@
 # www.seacoastonline.com
 
-  * 2019: 
-      [November](./www-seacoastonline-com-2019-11.md) (1) | 
-
+  * [2019](./www-seacoastonline-com-2019.md/) (1)
 ----
 
 [Home](../)

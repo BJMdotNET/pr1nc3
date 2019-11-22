@@ -1,25 +1,102 @@
 # Grammy Award
 
-  * [2019](./grammy-award-2019.md): 
-      November (3) | 
-      October (4) | 
-      July (1) | 
-      June (1) | 
-      April (2) | 
-  * [2018](./grammy-award-2018.md): 
-      December (1) | 
-  * [2017](./grammy-award-2017.md): 
-      April (1) | 
-      February (1) | 
-  * [2016](./grammy-award-2016.md): 
-      December (2) | 
-      April (6) | 
-  * [2014](./grammy-award-2014.md): 
-      December (1) | 
-  * [1986](./grammy-award-1986.md): 
-      July (1) | 
-  * [1985](./grammy-award-1985.md): 
-      February (1) | 
+ - [**"PAISLEY PARK IS IN YOUR HEART: A VISIT TO PRINCE'S MAGICAL MINNEAPOLIS KINGDOM -- WITH PRINCE'S MEMOIR JUST OUT AND A REMASTERED "1999" ON THE WAY, IT'S THE PERFECT TIME TO DO A PURPLE-COLORED TOUR OF MINNEAPOLIS."**](https://www.newsweek.com/paisley-park-your-heart-visit-princes-magical-minneapolis-kingdom-1472087) in [Newsweek](https://www.newsweek.com/) on 15 November 2019 about [Academy Award](../../topics/academy-award/index.md), [Chappelle's Show (TV show)](../../topics/tv-show/chappelle-s-show/index.md), [Electric Fetus (place)](../../topics/place/electric-fetus/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [George Clinton](../../topics/george-clinton/index.md), [Grammy Award](../../topics/grammy-award/index.md), [James Brown](../../topics/james-brown/index.md), [memoir](../../topics/memoir/index.md), [merchandise](../../topics/merchandise/index.md), [motorcycle](../../topics/motorcycle/index.md), [museum](../../topics/museum/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Super Bowl](../../topics/super-bowl/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.newsweek.com/paisley-park-your-heart-visit-princes-magical-minneapolis-kingdom-1472087))
+
+----
+
+ - [**"Two plays opening this week add to the legend of Minnesota's own, Judy Garland -- Judy Garland is everywhere, including four versions of her at St. Paul's History Theatre."**](http://www.startribune.com/two-plays-opening-this-week-add-to-the-legend-of-minnesota-s-own-judy-garland/564933682/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 14 November 2019 about [Grammy Award](../../topics/grammy-award/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/two-plays-opening-this-week-add-to-the-legend-of-minnesota-s-own-judy-garland/564933682/))
+
+----
+
+ - [**"Today in Music History: Prince and the Revolution debut"**](https://www.thecurrent.org/feature/2019/10/28/today-in-music-history-prince-and-the-revolution-debut) in [The Current](https://www.thecurrent.org/) on 4 November 2019 about [Grammy Award](../../topics/grammy-award/index.md), [Purple Rain (tour)](../../topics/tour/purple-rain/index.md), [The Revolution](../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/10/28/today-in-music-history-prince-and-the-revolution-debut))
+
+----
+
+ - [**"Trois ans après sa mort, des mémoires éclairent la personnalité du grand Prince -- Maître du funk, génie musical, visionnaire, tous ces descriptifs viennent à la bouche en parlant de Prince."**](https://www.crooner.fr/2019/10/31/trois-ans-apres-sa-mort-des-memoires-eclairent-la-personnalite-du-grand-prince/) in [www.crooner.fr](https://www.crooner.fr/) on 31 October 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Grammy Award](../../topics/grammy-award/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [The Revolution](../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/https://www.crooner.fr/2019/10/31/trois-ans-apres-sa-mort-des-memoires-eclairent-la-personnalite-du-grand-prince/))
+
+----
+
+ - [**"The Beautiful Ones: Before His Tragic Death, Prince Began a Memoir Detailing How He Became...Prince"**](https://thegrapevine.theroot.com/the-beautiful-ones-before-his-tragic-death-prince-beg-1839437523) in [The Grapevine (The Root)](https://thegrapevine.theroot.com/) on 29 October 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Ed Sheeran](../../topics/ed-sheeran/index.md), [Esperanza Spalding](../../topics/esperanza-spalding/index.md), [Grammy Award](../../topics/grammy-award/index.md), [Katy Perry](../../topics/katy-perry/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://thegrapevine.theroot.com/the-beautiful-ones-before-his-tragic-death-prince-beg-1839437523))
+
+----
+
+ - [**"Listen to Prince's previously unheard acoustic demo of 'I Feel For You'"**](https://usatoday.com/story/entertainment/music/2019/10/18/prince-acoustic-demo-i-feel-for-you-released/4025966002/) in [USA Today](https://usatoday.com/) on 18 October 2019 about [Capri Theater  (place)](../../topics/place/capri-theater/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [For You (album)](../../topics/album/for-you/index.md), [Grammy Award](../../topics/grammy-award/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/entertainment/music/2019/10/18/prince-acoustic-demo-i-feel-for-you-released/4025966002/))
+
+----
+
+ - [**"Once and Future Prince"**](https://www.newyorker.com/magazine/2019/10/21/once-and-future-prince/) in [The New Yorker](https://www.newyorker.com/) on 14 October 2019 about [Grammy Award](../../topics/grammy-award/index.md), [Spotify](../../topics/spotify/index.md), [Super Bowl](../../topics/super-bowl/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.newyorker.com/magazine/2019/10/21/once-and-future-prince/))
+
+----
+
+ - [**"Ani DiFranco on Trump, Her New Memoir, Defying Music Moguls & Working with Pete Seeger and Prince"**](https://www.democracynow.org/2019/7/16/ani_difranco_on_trump_her_new) in [Democracy Now](https://www.democracynow.org/) on 16 July 2019 about [Ani DiFranco](../../topics/ani-difranco/index.md), [Grammy Award](../../topics/grammy-award/index.md), [Trump](../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/https://www.democracynow.org/2019/7/16/ani_difranco_on_trump_her_new))
+
+----
+
+ - [**"Prince and The Revolution’s ‘Purple Rain’ Turns 35: Anniversary Retrospective -- Happy 35th Anniversary to Prince’s sixth studio album (and soundtrack to the film) Purple Rain, originally released June 25, 1984. "**](https://www.albumism.com/features/prince-and-the-revolution-purple-rain-turns-35-anniversary-retrospective) by Andy Healy in [Albumism](https://www.albumism.com/) on 23 June 2019 about [Apollonia 6](../../topics/apollonia-6/index.md), [Baby I’m a Star (song)](../../topics/song/baby-i-m-a-star/index.md), [Computer Blue (song)](../../topics/song/computer-blue/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Grammy Award](../../topics/grammy-award/index.md), [I Would Die 4 U (song)](../../topics/song/i-would-die-4-u/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Linn LM-1](../../topics/linn-lm-1/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Take Me with U (song)](../../topics/song/take-me-with-u/index.md), [The Beautiful Ones (song)](../../topics/song/the-beautiful-ones/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md), [Undisputed (song)](../../topics/song/undisputed/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://www.albumism.com/features/prince-and-the-revolution-purple-rain-turns-35-anniversary-retrospective))
+
+----
+
+ - [**"Paisley Park tours draw celebs, including Katy Perry, Bruno Mars and Shania Twain -- Green Day’s frontman brought his family. And Katy Perry made a return visit incognito, just like any other fan."**](http://www.startribune.com/paisley-park-tours-draw-celebs-including-katy-perry-bruno-mars-and-shania-twain/509009942/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 24 April 2019 about [Grammy Award](../../topics/grammy-award/index.md), [Katy Perry](../../topics/katy-perry/index.md), [museum](../../topics/museum/index.md), [Rearrange (song)](../../topics/song/rearrange/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-tours-draw-celebs-including-katy-perry-bruno-mars-and-shania-twain/509009942/))
+
+----
+
+ - [**"Gospel of Prince preached at Minnesota seminary"**](http://www.startribune.com/gospel-of-prince-preached-at-minnesota-seminary/508503562/) by Jean Hopfensperger in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 April 2019 about [Grammy Award](../../topics/grammy-award/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/gospel-of-prince-preached-at-minnesota-seminary/508503562/))
+
+----
+
+ - [**"Movie Inspired by Prince’s Music in the Works at Universal (EXCLUSIVE)"**](https://variety.com/2018/film/news/universal-original-movie-inspired-by-princes-music-1203067739/) in [Variety](https://variety.com/) on 3 December 2018 about [Academy Award](../../topics/academy-award/index.md), [Grammy Award](../../topics/grammy-award/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Troy Carter](../../topics/troy-carter/index.md), [Universal Music Publishing Group](../../topics/universal-music-publishing-group/index.md), [Universal Pictures](../../topics/universal-pictures/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2018/film/news/universal-original-movie-inspired-by-princes-music-1203067739/))
+
+----
+
+ - [**"Prince left behind a treasure trove to see at Paisley Park"**](https://apnews.com/a5f775426be44b65a5cbe3d790774288) by Jeff Baenen (Associated Press) in [Associated Press News](https://apnews.com/) on 18 April 2017 about [Grammy Award](../../topics/grammy-award/index.md), [museum](../../topics/museum/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/a5f775426be44b65a5cbe3d790774288))
+
+----
+
+ - [**"Prince’s estate to release ‘unreleased gems’ from back catalogue"**](https://apnews.com/e2aa16268e7b4d5e84f5158e895ea006) in [Associated Press News](https://apnews.com/) on 13 February 2017 about [Apple Music](../../topics/apple-music/index.md), [fentanyl](../../topics/fentanyl/index.md), [Grammy Award](../../topics/grammy-award/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Tidal](../../topics/tidal/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/e2aa16268e7b4d5e84f5158e895ea006))
+
+----
+
+ - [**"2016: The Year in Entertainment"**](https://apnews.com/0980c1b2845f4c41b234f5e4ed0cd57a) in [Associated Press News](https://apnews.com/) on 30 December 2016 about [Academy Award](../../topics/academy-award/index.md), [fentanyl](../../topics/fentanyl/index.md), [Grammy Award](../../topics/grammy-award/index.md), [Katy Perry](../../topics/katy-perry/index.md), [Questlove](../../topics/questlove/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/0980c1b2845f4c41b234f5e4ed0cd57a))
+
+----
+
+ - [**"Susan Rogers - 2016 Red Bull Music Academy lecture"**](https://www.redbullmusicacademy.com/lectures/susan-rogers-lecture) in [Red Bull Music Academy](https://www.redbullmusicacademy.com/) on 8 December 2016 about [17 Days (song)](../../topics/song/17-days/index.md), [Academy Award](../../topics/academy-award/index.md), [Anita Baker](../../topics/anita-baker/index.md), [Bernie Grundman](../../topics/bernie-grundman/index.md), [bootleg](../../topics/bootleg/index.md), [Condition of the Heart (song)](../../topics/song/condition-of-the-heart/index.md), [contract](../../topics/contract/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Grammy Award](../../topics/grammy-award/index.md), [James Brown](../../topics/james-brown/index.md), [Jesse Johnson](../../topics/jesse-johnson/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Kate Bush](../../topics/kate-bush/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Pop Life (song)](../../topics/song/pop-life/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [The Ballad Of Dorothy Parker (song)](../../topics/song/the-ballad-of-dorothy-parker/index.md), [The Revolution](../../topics/the-revolution/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md) ([mirror](https://web.archive.org/web/*/https://www.redbullmusicacademy.com/lectures/susan-rogers-lecture))
+
+----
+
+ - [**"Prince album covers for 'Purple Rain,' 'Lovesexy,' 'Parade' created by University Heights' Laura LiPuma Nash (photos)"**](https://www.cleveland.com/entertainment/2016/04/prince_album_covers_for_purple.html) in [Cleveland.com](https://www.cleveland.com/) on 29 April 2016 about [1999 (album)](../../topics/album/1999/index.md), [Grammy Award](../../topics/grammy-award/index.md), [Laura LiPuma](../../topics/laura-lipuma/index.md), [Lovesexy (album)](../../topics/album/lovesexy/index.md), [Parade (album)](../../topics/album/parade/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://www.cleveland.com/entertainment/2016/04/prince_album_covers_for_purple.html))
+
+----
+
+ - [**"Prince was a one-man band and a friend to many others"**](https://apnews.com/508256962cd942f3bc61e1cc034900ad) in [Associated Press News](https://apnews.com/) on 25 April 2016 about [Bangles](../../topics/bangles/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Esperanza Spalding](../../topics/esperanza-spalding/index.md), [Grammy Award](../../topics/grammy-award/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Rita Ora](../../topics/rita-ora/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stand Back (song)](../../topics/song/stand-back/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [YouTube](../../topics/youtube/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/508256962cd942f3bc61e1cc034900ad))
+
+----
+
+ - [**"A Prince on screen, from ‘Purple Rain’ to ‘Graffiti Bridge’"**](https://apnews.com/8082812e075544679812ad4cc742307f) in [Associated Press News](https://apnews.com/) on 22 April 2016 about [Academy Award](../../topics/academy-award/index.md), [Batdance (song)](../../topics/song/batdance/index.md), [Batman (album)](../../topics/album/batman/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Glam Slam (place)](../../topics/place/glam-slam/index.md), [Graffiti Bridge (movie)](../../topics/movie/graffiti-bridge/index.md), [Grammy Award](../../topics/grammy-award/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Krush Groove (movie)](../../topics/movie/krush-groove/index.md), [Morris Day](../../topics/morris-day/index.md), [Parade (album)](../../topics/album/parade/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Roger Ebert](../../topics/roger-ebert/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Time](../../topics/the-time/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/8082812e075544679812ad4cc742307f))
+
+----
+
+ - [**"Obituary: Prince was a diminutive giant who revolutionized pop -- Though he was a puzzle at times, the rocker was a true Minnesotan who changed music more than once in a nearly 40-year career."**](http://www.startribune.com/jon-bream-prince-was-a-once-in-a-generation-artist-who-never-rested-on-his-laurels/376594221/) by Chris Riemenschneider, Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 April 2016 about [André Cymone](../../topics/andr-cymone/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Grammy Award](../../topics/grammy-award/index.md), [John Nelson](../../topics/john-nelson/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Obama](../../topics/obama/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/jon-bream-prince-was-a-once-in-a-generation-artist-who-never-rested-on-his-laurels/376594221/))
+
+----
+
+ - [**"Oprah, Mick Jagger among celebs to react to Prince’s death"**](https://apnews.com/ad3076cbbe69473495debc13e52669c5) in [Associated Press News](https://apnews.com/) on 22 April 2016 about [Albert Magnoli](../../topics/albert-magnoli/index.md), [Grammy Award](../../topics/grammy-award/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Obama](../../topics/obama/index.md), [Rita Ora](../../topics/rita-ora/index.md), [Spike Lee](../../topics/spike-lee/index.md), [Super Bowl](../../topics/super-bowl/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/ad3076cbbe69473495debc13e52669c5))
+
+----
+
+ - [**"Prince Dies at 57: Iconic Musical Genius Found Dead in Paisley Park"**](https://www.billboard.com/articles/news/7341522/prince-dead) in [Billboard](https://www.billboard.com/) on 21 April 2016 about [1999 (album)](../../topics/album/1999/index.md), [Around The World In A Day (album)](../../topics/album/around-the-world-in-a-day/index.md), [Batdance (song)](../../topics/song/batdance/index.md), [Carver County](../../topics/carver-county/index.md), [Chaos and Disorder (album)](../../topics/album/chaos-and-disorder/index.md), [contract](../../topics/contract/index.md), [For You (album)](../../topics/album/for-you/index.md), [Grammy Award](../../topics/grammy-award/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [The Revolution](../../topics/the-revolution/index.md), [TMZ (website)](../../topics/website/tmz/index.md), [vault](../../topics/vault/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/7341522/prince-dead))
+
+----
+
+ - [**"Tales From Suzanne Vega -- GRAMMY-winning singer/songwriter discusses the making of her new album, Tales From The Realm Of The Queen Of Pentacles, and being years ahead of "Game Of Thrones""**](https://www.grammy.com/grammys/news/tales-suzanne-vega) by Steve Baltin in [The GRAMMYs](https://www.grammy.com/) on 2 December 2014 about [Grammy Award](../../topics/grammy-award/index.md), [Suzanne Vega](../../topics/suzanne-vega/index.md) ([mirror](https://web.archive.org/web/*/https://www.grammy.com/grammys/news/tales-suzanne-vega))
+
+----
+
+ - [**"″His Royal Badness” Rocks Sheridan"**](https://apnews.com/485767a7a9734b8abcd31a5d36f3ffa1) in [Associated Press News](https://apnews.com/) on 2 July 1986 about [Academy Award](../../topics/academy-award/index.md), [Grammy Award](../../topics/grammy-award/index.md), [Jerome Benton](../../topics/jerome-benton/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Lisa Barber](../../topics/lisa-barber/index.md), [Mazarati](../../topics/mazarati/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/485767a7a9734b8abcd31a5d36f3ffa1))
+
+----
+
+ - [**"27th Annual Grammy Awards Show to Offer Stellar Performances Tuesday"**](https://apnews.com/f0321a7f0a1984fca521fee8571d39e8) in [Associated Press News](https://apnews.com/) on 23 February 1985 about [Baby I’m a Star (song)](../../topics/song/baby-i-m-a-star/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Grammy Award](../../topics/grammy-award/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [PRINCEss](../../topics/princess/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [The Revolution](../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/f0321a7f0a1984fca521fee8571d39e8))
 
 ----
 

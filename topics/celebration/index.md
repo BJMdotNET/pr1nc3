@@ -1,26 +1,86 @@
 # Celebration
 
-  * [2019](./celebration-2019.md): 
-      November (3) | 
-      September (1) | 
-      August (1) | 
-      April (1) | 
-      February (2) | 
-  * [2018](./celebration-2018.md): 
-      November (1) | 
-      June (1) | 
-      April (1) | 
-  * [2017](./celebration-2017.md): 
-      April (2) | 
-      March (1) | 
-  * [2016](./celebration-2016.md): 
-      August (2) | 
-      June (1) | 
-      April (2) | 
-  * [2015](./celebration-2015.md): 
-      February (1) | 
-  * [2013](./celebration-2013.md): 
-      December (1) | 
+ - [**"Don’t overlook splashy coffee table books as holiday gifts"**](https://apnews.com/e8495b29d38d4596b879f066a3eec8fb) in [Associated Press News](https://apnews.com/) on 19 November 2019 about [Andy Warhol](../../topics/andy-warhol/index.md), [Celebration](../../topics/celebration/index.md), [exhibit](../../topics/exhibit/index.md), [exhibition](../../topics/exhibition/index.md), [Hachette Books](../../topics/hachette-books/index.md), [museum](../../topics/museum/index.md), [Penguin Random House](../../topics/penguin-random-house/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md), [trademark](../../topics/trademark/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/e8495b29d38d4596b879f066a3eec8fb))
+
+----
+
+ - [**"Don't overlook splashy coffee table books as holiday gifts"**](http://www.startribune.com/don-t-overlook-splashy-coffee-table-books-as-holiday-gifts/565099382/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 November 2019 about [Andy Warhol](../../topics/andy-warhol/index.md), [Celebration](../../topics/celebration/index.md), [exhibit](../../topics/exhibit/index.md), [exhibition](../../topics/exhibition/index.md), [Hachette Books](../../topics/hachette-books/index.md), [museum](../../topics/museum/index.md), [Penguin Random House](../../topics/penguin-random-house/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md), [trademark](../../topics/trademark/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/don-t-overlook-splashy-coffee-table-books-as-holiday-gifts/565099382/))
+
+----
+
+ - [**"Books, movies and music gifts 2019: Tops finds for the A&E fans on your list"**](https://www.seattletimes.com/explore/shop-northwest/books-movies-and-music-gifts-2019-tops-finds-for-the-ae-fans-on-your-list/) in [www.seattletimes.com](https://www.seattletimes.com/) on 14 November 2019 about [Celebration](../../topics/celebration/index.md), [PBS](../../topics/pbs/index.md), [Universal Pictures](../../topics/universal-pictures/index.md) ([mirror](https://web.archive.org/web/*/https://www.seattletimes.com/explore/shop-northwest/books-movies-and-music-gifts-2019-tops-finds-for-the-ae-fans-on-your-list/))
+
+----
+
+ - [**"Deborah Allen talks about 40-year career in country music, Prince -- Veteran country singer-songwriter Deborah Allen chatted with Digital Journal about her 40-year career in the country music scene."**](http://www.digitaljournal.com/entertainment/music/deborah-allen-talks-about-40-year-career-in-country-music-prince/article/558910) in [Digital Journal](http://www.digitaljournal.com/) on 30 September 2019 about [Celebration](../../topics/celebration/index.md), [Deborah Allen](../../topics/deborah-allen/index.md) ([mirror](https://web.archive.org/web/*/http://www.digitaljournal.com/entertainment/music/deborah-allen-talks-about-40-year-career-in-country-music-prince/article/558910))
+
+----
+
+ - [**"All shook up: Graceland to cede Paisley Park management to Prince estate"**](https://blog.thecurrent.org/2019/08/all-shook-up-graceland-to-cede-paisley-park-management-to-prince-estate/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 27 August 2019 about [Celebration](../../topics/celebration/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [Joel Weinshanker](../../topics/joel-weinshanker/index.md), [Jon Bream](../../topics/jon-bream/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [museum](../../topics/museum/index.md), [Nooky Jones](../../topics/nooky-jones/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2019/08/all-shook-up-graceland-to-cede-paisley-park-management-to-prince-estate/))
+
+----
+
+ - [**"Former Time guitarist says Prince 'hurt me to my soul' at Paisley Park event -- The remarks came during an onstage interview at "Celebration 2019""**](https://bringmethenews.com/minnesota-lifestyle/former-time-guitarist-says-prince-hurt-me-to-my-soul-at-paisley-park-event) in [Bring Me The News](https://bringmethenews.com/) on 27 April 2019 about [Celebration](../../topics/celebration/index.md), [Celebration 2019](../../topics/celebration-2019/index.md), [Jesse Johnson](../../topics/jesse-johnson/index.md) ([mirror](https://web.archive.org/web/*/https://bringmethenews.com/minnesota-lifestyle/former-time-guitarist-says-prince-hurt-me-to-my-soul-at-paisley-park-event))
+
+----
+
+ - [**"AM Prep-Music -- SHEILA E. WILL PERFORM AT TIMBERWOLVES GAME"**](https://apnews.com/8101441d66a44dd9a5831ab40423f32c) in [Associated Press News](https://apnews.com/) on 8 February 2019 about [Celebration](../../topics/celebration/index.md), [Minnesota Timberwolves](../../topics/minnesota-timberwolves/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Timberwolves](../../topics/timberwolves/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/8101441d66a44dd9a5831ab40423f32c))
+
+----
+
+ - [**"Sheila E. to perform at Timberwolves halftime Feb. 13"**](https://apnews.com/e312ae64d71e4f17b589704e4e2314ac) in [Associated Press News](https://apnews.com/) on 7 February 2019 about [Celebration](../../topics/celebration/index.md), [Minnesota Timberwolves](../../topics/minnesota-timberwolves/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Timberwolves](../../topics/timberwolves/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/e312ae64d71e4f17b589704e4e2314ac))
+
+----
+
+ - [**"‘Black-ish’ throws TV’s best-ever Prince party in its 100th episode"**](https://apnews.com/bd6c6bba1c8f4d5d83707d6d24c8fdf2) in [Associated Press News](https://apnews.com/) on 11 November 2018 about [Black-ish (TV show)](../../topics/tv-show/black-ish/index.md), [Celebration](../../topics/celebration/index.md), [Erotic City (song)](../../topics/song/erotic-city/index.md), [Spotify](../../topics/spotify/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md), [Yara Shahidi](../../topics/yara-shahidi/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/bd6c6bba1c8f4d5d83707d6d24c8fdf2))
+
+----
+
+ - [**"Prince fans to celebrate musician with festival in Minnesota"**](https://apnews.com/7d216df29d83433a90f27e58788546ea) in [Associated Press News](https://apnews.com/) on 2 June 2018 about [Celebration](../../topics/celebration/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/7d216df29d83433a90f27e58788546ea))
+
+----
+
+ - [**"Susan Rogers on working with Prince in the studio: ‘The man I knew was so human’"**](https://blog.thecurrent.org/2018/04/susan-rogers-on-working-with-prince-in-the-studio-the-man-i-knew-was-so-human/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 20 April 2018 about [Apollonia 6](../../topics/apollonia-6/index.md), [Bobby Z.](../../topics/bobby-z/index.md), [Celebration](../../topics/celebration/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Mazarati](../../topics/mazarati/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [The Revolution](../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2018/04/susan-rogers-on-working-with-prince-in-the-studio-the-man-i-knew-was-so-human/))
+
+----
+
+ - [**"George Clinton gets Paisley Park's Prince celebration off to a funky start"**](https://usatoday.com/story/life/music/2017/04/21/george-clinton-gets-paisley-parks-prince-celebration-off-funky-start/100736612/) in [USA Today](https://usatoday.com/) on 21 April 2017 about [Celebration](../../topics/celebration/index.md), [Celebration 2017](../../topics/celebration-2017/index.md), [Dave Chappelle](../../topics/dave-chappelle/index.md), [fentanyl](../../topics/fentanyl/index.md), [George Clinton](../../topics/george-clinton/index.md), [Jungle Love (song)](../../topics/song/jungle-love/index.md), [Morris Hayes](../../topics/morris-hayes/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [The Revolution](../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2017/04/21/george-clinton-gets-paisley-parks-prince-celebration-off-funky-start/100736612/))
+
+----
+
+ - [**"'Rehabilitated' Paisley Park takes center stage for Prince anniversary -- Graceland firm remakes studio into a showplace."**](http://www.startribune.com/rehabilitated-paisley-park-takes-center-stage-for-prince-anniversary/419571163/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 17 April 2017 about [Bremer Trust](../../topics/bremer-trust/index.md), [Celebration](../../topics/celebration/index.md), [Denny Laufenburger](../../topics/denny-laufenburger/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [Joel Weinshanker](../../topics/joel-weinshanker/index.md), [museum](../../topics/museum/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/rehabilitated-paisley-park-takes-center-stage-for-prince-anniversary/419571163/))
+
+----
+
+ - [**"Three official Prince books due at 'Celebration' at Paisley Park"**](http://www.startribune.com/three-official-prince-books-due-at-celebration-at-paisley-park/417539473/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 29 March 2017 about [Celebration](../../topics/celebration/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/three-official-prince-books-due-at-celebration-at-paisley-park/417539473/))
+
+----
+
+ - [**"Photos: Minnesota State Fair celebrates Prince"**](https://blog.thecurrent.org/2016/08/photos-minnesota-state-fair-celebrates-prince/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 27 August 2016 about [Celebration](../../topics/celebration/index.md), [DJ Dudley D](../../topics/dj-dudley-d/index.md), [Minnesota State Fair](../../topics/minnesota-state-fair/index.md), [State Fair](../../topics/state-fair/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2016/08/photos-minnesota-state-fair-celebrates-prince/))
+
+----
+
+ - [**"State Fair to celebrate Prince with "Unite in Purple" Day Aug. 26 -- "Unite in Purple" Day will offer tributes to the late rock icon on Aug. 26."**](http://www.startribune.com/state-fair-to-celebrate-prince-with-unite-in-purple-day/389514481/) by Tim Harlow in [Minneapolis Star Tribune](http://www.startribune.com/) on 8 August 2016 about [Celebration](../../topics/celebration/index.md), [State Fair](../../topics/state-fair/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/state-fair-to-celebrate-prince-with-unite-in-purple-day/389514481/))
+
+----
+
+ - [**"Spike Lee throws dance party ahead of Prince’s 58th birthday"**](https://apnews.com/780ae6981b534a27be2f65bf10470f6e) in [Associated Press News](https://apnews.com/) on 5 June 2016 about [Celebration](../../topics/celebration/index.md), [Erotic City (song)](../../topics/song/erotic-city/index.md), [fentanyl](../../topics/fentanyl/index.md), [Spike Lee](../../topics/spike-lee/index.md), [Starfish And Coffee (song)](../../topics/song/starfish-and-coffee/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/780ae6981b534a27be2f65bf10470f6e))
+
+----
+
+ - [**"Publicist says Prince’s remains have been cremated and a celebration of his life has been held"**](https://apnews.com/b6ccd2cd840845f490510518fd26f4b5) in [Associated Press News](https://apnews.com/) on 26 April 2016 about [Celebration](../../topics/celebration/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/b6ccd2cd840845f490510518fd26f4b5))
+
+----
+
+ - [**"Sheila E.: Saying goodbye to Prince 'the hardest thing I've ever had to do' -- Sheila E., longtime friend, said she never knew Prince to take drugs."**](http://www.startribune.com/sheila-e-saying-goodbye-to-prince-the-hardest-thing-i-ve-ever-had-to-do/376906621/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 April 2016 about [Celebration](../../topics/celebration/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Lionel Richie](../../topics/lionel-richie/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Sheila E.](../../topics/sheila-e/index.md), [TMZ (website)](../../topics/website/tmz/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [WCCO-TV](../../topics/wcco-tv/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/sheila-e-saying-goodbye-to-prince-the-hardest-thing-i-ve-ever-had-to-do/376906621/))
+
+----
+
+ - [**"Players, celebs and models converge during All-Star weekend"**](https://apnews.com/ba65c68171c64269919a07e1d745ced6) in [Associated Press News](https://apnews.com/) on 15 February 2015 about [Celebration](../../topics/celebration/index.md), [Questlove](../../topics/questlove/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [SNL (TV show)](../../topics/tv-show/snl/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/ba65c68171c64269919a07e1d745ced6))
+
+----
+
+ - [**"Prince to headline 20th annual Essence Fest"**](https://apnews.com/4d2ee6a810f04caf9f6ad52f34507f4b) in [Associated Press News](https://apnews.com/) on 3 December 2013 about [Celebration](../../topics/celebration/index.md), [Essence Fest](../../topics/essence-fest/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/4d2ee6a810f04caf9f6ad52f34507f4b))
 
 ----
 

@@ -1,8 +1,6 @@
 # Tennessean
 
-  * 2016: 
-      [April](./tennessean-2016-04.md) (1) | 
-
+  * [2016](./tennessean-2016.md/) (1)
 ----
 
 [Home](../)

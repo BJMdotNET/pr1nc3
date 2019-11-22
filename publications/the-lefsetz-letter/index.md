@@ -1,8 +1,6 @@
 # The Lefsetz Letter
 
-  * 2018: 
-      [June](./the-lefsetz-letter-2018-06.md) (1) | 
-
+  * [2018](./the-lefsetz-letter-2018.md/) (1)
 ----
 
 [Home](../)

@@ -1,18 +1,10 @@
 # The Guardian
 
-  * 2019: 
-      [October](./the-guardian-2019-10.md) (1) | 
-      [September](./the-guardian-2019-09.md) (1) | 
-      [August](./the-guardian-2019-08.md) (1) | 
-  * 2018: 
-      [October](./the-guardian-2018-10.md) (1) | 
-  * 2017: 
-      [November](./the-guardian-2017-11.md) (1) | 
-  * 2016: 
-      [April](./the-guardian-2016-04.md) (1) | 
-  * 2009: 
-      [April](./the-guardian-2009-04.md) (1) | 
-
+  * [2019](./the-guardian-2019.md/) (3)
+  * [2018](./the-guardian-2018.md/) (1)
+  * [2017](./the-guardian-2017.md/) (1)
+  * [2016](./the-guardian-2016.md/) (1)
+  * [2009](./the-guardian-2009.md/) (1)
 ----
 
 [Home](../)

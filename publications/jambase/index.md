@@ -1,8 +1,6 @@
 # Jambase
 
-  * 2019: 
-      [September](./jambase-2019-09.md) (2) | 
-
+  * [2019](./jambase-2019.md/) (2)
 ----
 
 [Home](../)

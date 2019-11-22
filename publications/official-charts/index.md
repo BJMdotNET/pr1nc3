@@ -1,8 +1,6 @@
 # Official Charts
 
-  * 2019: 
-      [June](./official-charts-2019-06.md) (1) | 
-
+  * [2019](./official-charts-2019.md/) (1)
 ----
 
 [Home](../)

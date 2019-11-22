@@ -1,29 +1,142 @@
 # New Power Generation
 
-  * [2019](./new-power-generation-2019.md): 
-      November (6) | 
-      October (1) | 
-      September (3) | 
-      August (2) | 
-      July (2) | 
-      June (1) | 
-      April (1) | 
-  * [2018](./new-power-generation-2018.md): 
-      February (1) | 
-      January (2) | 
-  * [2017](./new-power-generation-2017.md): 
-      December (1) | 
-      November (1) | 
-      July (2) | 
-      April (3) | 
-  * [2016](./new-power-generation-2016.md): 
-      November (3) | 
-      September (2) | 
-      August (1) | 
-      April (1) | 
-  * [2015](./new-power-generation-2015.md): 
-      September (1) | 
-      May (1) | 
+ - [**"From 'The Ladder' to 'The Cross,' Prince's Legacy Endures Through His Friends and Music at a Town Hall Tribute"**](https://www.theroot.com/from-the-ladder-to-the-cross-princes-legacy-endured-th-1839945113) in [The Root](https://www.theroot.com/) on 19 November 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Greg Tate](../../topics/greg-tate/index.md), [memoir](../../topics/memoir/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Spike Lee](../../topics/spike-lee/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://www.theroot.com/from-the-ladder-to-the-cross-princes-legacy-endured-th-1839945113))
+
+----
+
+ - [**"INTERVIEW: New Power Generation remember their leader, Prince, at NYC concert"**](https://www.hollywoodsoapbox.com/interview-new-power-generation-remember-their-leader-prince-at-nyc-concert/) in [www.hollywoodsoapbox.com](https://www.hollywoodsoapbox.com/) on 17 November 2019 about [Chris Jackson](../../topics/chris-jackson/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [Morris Hayes](../../topics/morris-hayes/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Sonny Thompson](../../topics/sonny-thompson/index.md), [Spike Lee](../../topics/spike-lee/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.hollywoodsoapbox.com/interview-new-power-generation-remember-their-leader-prince-at-nyc-concert/))
+
+----
+
+ - [**"Prince's Posthumous Memoir The Beautiful Ones Celebrates His Humanity. A Musical Event in New York City Will Celebrate Its Release"**](https://thegrapevine.theroot.com/princes-posthumous-memoir-the-beautiful-ones-celebrates-1839906780) in [The Grapevine (The Root)](https://thegrapevine.theroot.com/) on 16 November 2019 about [Chris Jackson](../../topics/chris-jackson/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Greg Tate](../../topics/greg-tate/index.md), [memoir](../../topics/memoir/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Raspberry Beret (song)](../../topics/song/raspberry-beret/index.md), [Spike Lee](../../topics/spike-lee/index.md), [The Ballad Of Dorothy Parker (song)](../../topics/song/the-ballad-of-dorothy-parker/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [Timberwolves](../../topics/timberwolves/index.md) ([mirror](https://web.archive.org/web/*/https://thegrapevine.theroot.com/princes-posthumous-memoir-the-beautiful-ones-celebrates-1839906780))
+
+----
+
+ - [**"The afterlife of Prince, in words and music"**](https://www.inquirer.com/entertainment/prince-1999-beautiful-ones-music-book-tom-petty-david-bowie-20191115.html) in [www.inquirer.com](https://www.inquirer.com/) on 15 November 2019 about [bootleg](../../topics/bootleg/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [museum](../../topics/museum/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [Spike Lee](../../topics/spike-lee/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [Vagina (song)](../../topics/song/vagina/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.inquirer.com/entertainment/prince-1999-beautiful-ones-music-book-tom-petty-david-bowie-20191115.html))
+
+----
+
+ - [**"Prince : tous les bonus de “1999 Super Deluxe” titre par titre"**](http://www.funku.fr/2019/prince-tous-les-bonus-de-1999-super-deluxe-titre-par-titre/) in [Funk-U](http://www.funku.fr/) on 3 November 2019 about [1999 (album)](../../topics/album/1999/index.md), [94 East](../../topics/94-east/index.md), [Bobby Z.](../../topics/bobby-z/index.md), [Bold Generation (song)](../../topics/song/bold-generation/index.md), [bootleg](../../topics/bootleg/index.md), [Colleen (song)](../../topics/song/colleen/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [Feel U Up (song)](../../topics/song/feel-u-up/index.md), [Graffiti Bridge (album)](../../topics/album/graffiti-bridge/index.md), [How Come U Don’t Call Me Anymore? (song)](../../topics/song/how-come-u-don-t-call-me-anymore/index.md), [Irresistible Bitch (song)](../../topics/song/irresistible-bitch/index.md), [James Brown](../../topics/james-brown/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Michael Howe](../../topics/michael-howe/index.md), [Morris Day](../../topics/morris-day/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [No Call U (song)](../../topics/song/no-call-u/index.md), [Peggy McCreary](../../topics/peggy-mccreary/index.md), [Pepé Willie](../../topics/pep-willie/index.md), [Possessed (song)](../../topics/song/possessed/index.md), [Purple Music (song)](../../topics/song/purple-music/index.md), [Rearrange (song)](../../topics/song/rearrange/index.md), [The Revolution](../../topics/the-revolution/index.md), [Vagina (song)](../../topics/song/vagina/index.md), [vault](../../topics/vault/index.md), [Yah, You Know (song)](../../topics/song/yah-you-know/index.md) ([mirror](https://web.archive.org/web/*/http://www.funku.fr/2019/prince-tous-les-bonus-de-1999-super-deluxe-titre-par-titre/))
+
+----
+
+ - [**"New Power Generation To Perform At Bernie Sanders’ Minneapolis Rally"**](https://minnesota.cbslocal.com/2019/11/01/new-power-generation-to-perform-at-bernie-sanders-minneapolis-rally/) in [WCCO - CBS Minnesota](https://minnesota.cbslocal.com/) on 1 November 2019 about [New Power Generation](../../topics/new-power-generation/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md) ([mirror](https://web.archive.org/web/*/https://minnesota.cbslocal.com/2019/11/01/new-power-generation-to-perform-at-bernie-sanders-minneapolis-rally/))
+
+----
+
+ - [**"Welcome To The Dawn… The Versace Experience"**](https://blog.discogs.com/en/welcome-to-the-dawn-the-versace-experience/) in [blog.discogs.com](https://blog.discogs.com/) on 24 October 2019 about [bootleg](../../topics/bootleg/index.md), [Eye Records](../../topics/eye-records/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [The Gold Experience (album)](../../topics/album/the-gold-experience/index.md), [The Versace Experience (Prelude 2 Gold) (album)](../../topics/album/the-versace-experience-prelude-2-gold/index.md) ([mirror](https://web.archive.org/web/*/https://blog.discogs.com/en/welcome-to-the-dawn-the-versace-experience/))
+
+----
+
+ - [**"Fire devastates home, gear of New Power Generation keyboardist Morris Hayes"**](https://blog.thecurrent.org/2019/09/fire-devastates-home-gear-of-new-power-generation-keyboardist-morris-hayes/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 19 September 2019 about [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Hayes](../../topics/morris-hayes/index.md), [New Power Generation](../../topics/new-power-generation/index.md) ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2019/09/fire-devastates-home-gear-of-new-power-generation-keyboardist-morris-hayes/))
+
+----
+
+ - [**"PREVIEW: Donna Grantis At The Dakota Jazz Club, 9/24"**](https://twincitiesarts.com/2019/09/17/preview-donna-gratis-dakota-jazz-club/) in [twincitiesarts.com](https://twincitiesarts.com/) on 17 September 2019 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Dakota (place)](../../topics/place/dakota/index.md), [Donna Grantis](../../topics/donna-grantis/index.md), [Hannah Welton](../../topics/hannah-welton/index.md), [Miles Davis](../../topics/miles-davis/index.md), [New Power Generation](../../topics/new-power-generation/index.md) ([mirror](https://web.archive.org/web/*/https://twincitiesarts.com/2019/09/17/preview-donna-gratis-dakota-jazz-club/))
+
+----
+
+ - [**"W&W PR VICE PRESIDENT KAREN LEE RECEIVES HIGH HONORS FROM LIVING LEGENDS FOUNDATION -- PLUS: She Credits ‘Old Hollywood’ publicist Henry C. Rogers, legendary Patti Webster as role models and speaks on the amazing charitable nature of PRINCE"**](https://eurweb.com/2019/09/16/ww-pr-vice-president-karen-lee-receives-high-honors-from-living-legends-foundation/) in [EURweb](https://eurweb.com/) on 16 September 2019 about [Chaka Khan](../../topics/chaka-khan/index.md), [contract](../../topics/contract/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [PRN Alumni Foundation](../../topics/prn-alumni-foundation/index.md), [Quincy Jones](../../topics/quincy-jones/index.md) ([mirror](https://web.archive.org/web/*/https://eurweb.com/2019/09/16/ww-pr-vice-president-karen-lee-receives-high-honors-from-living-legends-foundation/))
+
+----
+
+ - [**"Prince protege Elisa Fiorillo talks of his legend, her Las Vegas career — PODCAST"**](https://www.reviewjournal.com/entertainment/entertainment-columns/kats/prince-protege-elisa-fiorillo-talks-of-his-legend-her-las-vegas-career-podcast-1829762/) in [Las Vegas Review-Journal](https://www.reviewjournal.com/) on 19 August 2019 about [Elisa Fiorillo](../../topics/elisa-fiorillo/index.md), [New Power Generation](../../topics/new-power-generation/index.md) ([mirror](https://web.archive.org/web/*/https://www.reviewjournal.com/entertainment/entertainment-columns/kats/prince-protege-elisa-fiorillo-talks-of-his-legend-her-las-vegas-career-podcast-1829762/))
+
+----
+
+ - [**"Prince Estate to Reissue Long-Unavailable Albums Next Month"**](https://variety.com/2019/music/news/prince-estate-to-reissue-long-unavailable-albums-next-month-1203288542/) in [Variety](https://variety.com/) on 1 August 2019 about [Chaos and Disorder (album)](../../topics/album/chaos-and-disorder/index.md), [Emancipation (album)](../../topics/album/emancipation/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Versace Experience (Prelude 2 Gold) (album)](../../topics/album/the-versace-experience-prelude-2-gold/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/news/prince-estate-to-reissue-long-unavailable-albums-next-month-1203288542/))
+
+----
+
+ - [**"DC Once Turned Prince Into A Batman-Style Superhero"**](https://screenrant.com/prince-comic-book-dc-alter-ego/) by Padraig Cotter in [ScreenRant](https://screenrant.com/) on 16 July 2019 about [Graffiti Bridge (movie)](../../topics/movie/graffiti-bridge/index.md), [museum](../../topics/museum/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Prince: Alter Ego](../../topics/prince-alter-ego/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md) ([mirror](https://web.archive.org/web/*/https://screenrant.com/prince-comic-book-dc-alter-ego/))
+
+----
+
+ - [**"Imagine, if you will, a picture with John Travolta as the 'Purple Rain' kid"**](http://www.startribune.com/c-j-imagine-if-you-will-a-picture-with-john-travolta-as-the-purple-rain-kid/512260012/) by C.J. (Cheryl Johnson) in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 July 2019 about [Alan Light](../../topics/alan-light/index.md), [Albert Magnoli](../../topics/albert-magnoli/index.md), [John Travolta](../../topics/john-travolta/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Morris Hayes](../../topics/morris-hayes/index.md), [Neal Karlen](../../topics/neal-karlen/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [The Revolution](../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-imagine-if-you-will-a-picture-with-john-travolta-as-the-purple-rain-kid/512260012/))
+
+----
+
+ - [**"The Revolution recalls making Prince’s ‘Purple Rain’: ‘He was frantically telling us we were making history’"**](https://www.yahoo.com/entertainment/the-revolution-recalls-making-princes-purple-rain-he-was-frantically-telling-us-we-were-making-history-035500076.html) in [Yahoo! Entertainment](https://www.yahoo.com/entertainment/) on 25 June 2019 about [Albert Magnoli](../../topics/albert-magnoli/index.md), [Bobby Z.](../../topics/bobby-z/index.md), [BrownMark](../../topics/brownmark/index.md), [Computer Blue (song)](../../topics/song/computer-blue/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [The Revolution](../../topics/the-revolution/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md) ([mirror](https://web.archive.org/web/*/https://www.yahoo.com/entertainment/the-revolution-recalls-making-princes-purple-rain-he-was-frantically-telling-us-we-were-making-history-035500076.html))
+
+----
+
+ - [**"C.J.: Prince protégée Ashley Támar Davis performed with pre-Destiny Beyoncé"**](http://www.startribune.com/c-j-the-fame-of-destiny-s-child-almost-broke-singer-ashley-tamar-davis/508902862/) by C.J. (Cheryl Johnson) in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 April 2019 about [C.J.](../../topics/c-j/index.md), [memoir](../../topics/memoir/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Támar Davis](../../topics/t-mar-davis/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-the-fame-of-destiny-s-child-almost-broke-singer-ashley-tamar-davis/508902862/))
+
+----
+
+ - [**"Prince is gone, but his spirit lives at Minnesota Super Bowl"**](https://apnews.com/760ec69e7a2e430a9879834f5f2eae63) in [Associated Press News](https://apnews.com/) on 2 February 2018 about [First Avenue (place)](../../topics/place/first-avenue/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Hayes](../../topics/morris-hayes/index.md), [museum](../../topics/museum/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Revolution](../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/760ec69e7a2e430a9879834f5f2eae63))
+
+----
+
+ - [**"5 Minneapolis Super Bowl concerts worth the splurge, plus 5 cheaper alternatives"**](https://apnews.com/b5354fb801f94674abaf28203dd6eec2) in [Associated Press News](https://apnews.com/) on 25 January 2018 about [André Cymone](../../topics/andr-cymone/index.md), [Brother Jules](../../topics/brother-jules/index.md), [Dakota (place)](../../topics/place/dakota/index.md), [fDeluxe](../../topics/fdeluxe/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Gwen Stefani](../../topics/gwen-stefani/index.md), [Morris Day](../../topics/morris-day/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Super Bowl](../../topics/super-bowl/index.md), [The Family](../../topics/the-family/index.md), [The Revolution](../../topics/the-revolution/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/b5354fb801f94674abaf28203dd6eec2))
+
+----
+
+ - [**"Super Bowl Live free concerts schedule revealed with new Minnesota all-stars"**](https://apnews.com/359610d132dc4676a00e9e4da420ecaf) in [Associated Press News](https://apnews.com/) on 19 January 2018 about [fDeluxe](../../topics/fdeluxe/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Revolution](../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/359610d132dc4676a00e9e4da420ecaf))
+
+----
+
+ - [**"Super Bowl Live concert series will include Prince tribute"**](https://apnews.com/30711cb14b744f1aa016784116c806cc) in [Associated Press News](https://apnews.com/) on 1 December 2017 about [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/30711cb14b744f1aa016784116c806cc))
+
+----
+
+ - [**"Andre Cymone: 'Love for a Friend' -- Prince's childhood friend and earliest collaborator on the Purple One and making a protest album"**](https://www.washingtontimes.com/news/2017/nov/1/prince-former-bandmate-andre-cymone-discusses-join/) in [Washington Times](https://www.washingtontimes.com/) on 1 November 2017 about [New Power Generation](../../topics/new-power-generation/index.md) ([mirror](https://web.archive.org/web/*/https://www.washingtontimes.com/news/2017/nov/1/prince-former-bandmate-andre-cymone-discusses-join/))
+
+----
+
+ - [**"Longtime Prince drummer John Blackwell Jr. dies at 43"**](https://usatoday.com/story/life/music/2017/07/04/longtime-prince-drummer-john-blackwell-jr-dies/103425914/) in [USA Today](https://usatoday.com/) on 5 July 2017 about [John Blackwell Jr.](../../topics/john-blackwell-jr/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [Morris Day](../../topics/morris-day/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Sheila E.](../../topics/sheila-e/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2017/07/04/longtime-prince-drummer-john-blackwell-jr-dies/103425914/))
+
+----
+
+ - [**"Prince's drummer for more than a decade, John Blackwell Jr. dies at 43 -- John Blackwell, Jr., longtime drummer for Prince, died Tuesday after being diagnosed with a brain tumor one year ago. He was 43."**](http://www.startribune.com/prince-s-drummer-for-more-than-a-decade-john-blackwell-jr-dies-at-43/432674483/) by TheWrap in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 July 2017 about [John Blackwell Jr.](../../topics/john-blackwell-jr/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [Morris Day](../../topics/morris-day/index.md), [New Power Generation](../../topics/new-power-generation/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-drummer-for-more-than-a-decade-john-blackwell-jr-dies-at-43/432674483/))
+
+----
+
+ - [**"George Clinton gets Paisley Park's Prince celebration off to a funky start"**](https://usatoday.com/story/life/music/2017/04/21/george-clinton-gets-paisley-parks-prince-celebration-off-funky-start/100736612/) in [USA Today](https://usatoday.com/) on 21 April 2017 about [Celebration](../../topics/celebration/index.md), [Celebration 2017](../../topics/celebration-2017/index.md), [Dave Chappelle](../../topics/dave-chappelle/index.md), [fentanyl](../../topics/fentanyl/index.md), [George Clinton](../../topics/george-clinton/index.md), [Jungle Love (song)](../../topics/song/jungle-love/index.md), [Morris Hayes](../../topics/morris-hayes/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [The Revolution](../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2017/04/21/george-clinton-gets-paisley-parks-prince-celebration-off-funky-start/100736612/))
+
+----
+
+ - [**"Prince home state marks death anniversary with celebrations"**](https://apnews.com/683330f22682410896e82d5734a2a060) in [Associated Press News](https://apnews.com/) on 20 April 2017 about [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Minnesota History Center](../../topics/minnesota-history-center/index.md), [Morris Day](../../topics/morris-day/index.md), [museum](../../topics/museum/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [The Revolution](../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/683330f22682410896e82d5734a2a060))
+
+----
+
+ - [**"Deals ensure cash keeps flowing to unsettled Prince estate"**](https://apnews.com/ea32a54490474eccad7364653ab698f8) in [Associated Press News](https://apnews.com/) on 16 April 2017 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Alfred Jackson](../../topics/alfred-jackson/index.md), [Celebration 2017](../../topics/celebration-2017/index.md), [Comerica Bank & Trust](../../topics/comerica-bank-trust/index.md), [Graceland](../../topics/graceland/index.md), [Joel Weinshanker](../../topics/joel-weinshanker/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Morris Day](../../topics/morris-day/index.md), [museum](../../topics/museum/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Shelby J.](../../topics/shelby-j/index.md), [Spotify](../../topics/spotify/index.md), [The Time](../../topics/the-time/index.md), [Tidal](../../topics/tidal/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Universal Music Group](../../topics/universal-music-group/index.md), [Van Jones](../../topics/van-jones/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/ea32a54490474eccad7364653ab698f8))
+
+----
+
+ - [**"Around the state: Paisley Park to host Prince celebration"**](https://apnews.com/61839c62b9d94fec885fbf304d279168) in [Associated Press News](https://apnews.com/) on 30 November 2016 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Carver County](../../topics/carver-county/index.md), [Celebration 2017](../../topics/celebration-2017/index.md), [contract](../../topics/contract/index.md), [Morris Day](../../topics/morris-day/index.md), [museum](../../topics/museum/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [The Revolution](../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/61839c62b9d94fec885fbf304d279168))
+
+----
+
+ - [**"Paisley Park to host 2017 celebration of Prince’s life"**](https://apnews.com/f5878da287eb4498ab600a0f313d602d) in [Associated Press News](https://apnews.com/) on 28 November 2016 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Celebration 2017](../../topics/celebration-2017/index.md), [Morris Day](../../topics/morris-day/index.md), [museum](../../topics/museum/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/f5878da287eb4498ab600a0f313d602d))
+
+----
+
+ - [**"Prince & The Vault: The 10 Things That Should and Shouldn’t Happen"**](https://medium.com/cuepoint/prince-the-vault-the-10-things-that-should-and-shouldnt-happen-ad96cc58999f) in [Cuepoint](https://medium.com/cuepoint/) on 19 November 2016 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Alan Leeds](../../topics/alan-leeds/index.md), [Apollonia 6](../../topics/apollonia-6/index.md), [Batdance (song)](../../topics/song/batdance/index.md), [Donna Grantis](../../topics/donna-grantis/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [George Clinton](../../topics/george-clinton/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [Ingrid Chavez](../../topics/ingrid-chavez/index.md), [James Brown](../../topics/james-brown/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Jon Bream](../../topics/jon-bream/index.md), [Joshua Welton](../../topics/joshua-welton/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [LotusFlow3r (album)](../../topics/album/lotusflow3r/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Mayte](../../topics/mayte/index.md), [museum](../../topics/museum/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Purple Music (song)](../../topics/song/purple-music/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [The Ballad Of Dorothy Parker (song)](../../topics/song/the-ballad-of-dorothy-parker/index.md), [The Gold Experience (album)](../../topics/album/the-gold-experience/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://medium.com/cuepoint/prince-the-vault-the-10-things-that-should-and-shouldnt-happen-ad96cc58999f))
+
+----
+
+ - [**"Still no will, but work to settle Prince estate forges ahead"**](https://apnews.com/e2669a78b7dd4d8fb5c6e743d4acc29d) in [Associated Press News](https://apnews.com/) on 25 September 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [Christina Aguilera](../../topics/christina-aguilera/index.md), [Graceland](../../topics/graceland/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [museum](../../topics/museum/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [The Time](../../topics/the-time/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/e2669a78b7dd4d8fb5c6e743d4acc29d))
+
+----
+
+ - [**"Stevie Wonder, Chaka Khan top Prince tribute show lineup"**](https://apnews.com/2a821da9313d4f35974af75596a12697) in [Associated Press News](https://apnews.com/) on 16 September 2016 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Anita Baker](../../topics/anita-baker/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Christina Aguilera](../../topics/christina-aguilera/index.md), [Doug E. Fresh](../../topics/doug-e-fresh/index.md), [Jeremiah Freed](../../topics/jeremiah-freed/index.md), [John Mayer](../../topics/john-mayer/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Morris Hayes](../../topics/morris-hayes/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [The Time](../../topics/the-time/index.md), [Tori Kelly](../../topics/tori-kelly/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/2a821da9313d4f35974af75596a12697))
+
+----
+
+ - [**"Musicians close to Prince reportedly in the mix for tribute"**](https://apnews.com/5c33d9f6e9654074898b04452f17c598) in [Associated Press News](https://apnews.com/) on 31 August 2016 about [Morris Day](../../topics/morris-day/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Revolution](../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/5c33d9f6e9654074898b04452f17c598))
+
+----
+
+ - [**"Prince Dies at 57: Iconic Musical Genius Found Dead in Paisley Park"**](https://www.billboard.com/articles/news/7341522/prince-dead) in [Billboard](https://www.billboard.com/) on 21 April 2016 about [1999 (album)](../../topics/album/1999/index.md), [Around The World In A Day (album)](../../topics/album/around-the-world-in-a-day/index.md), [Batdance (song)](../../topics/song/batdance/index.md), [Carver County](../../topics/carver-county/index.md), [Chaos and Disorder (album)](../../topics/album/chaos-and-disorder/index.md), [contract](../../topics/contract/index.md), [For You (album)](../../topics/album/for-you/index.md), [Grammy Award](../../topics/grammy-award/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [The Revolution](../../topics/the-revolution/index.md), [TMZ (website)](../../topics/website/tmz/index.md), [vault](../../topics/vault/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/7341522/prince-dead))
+
+----
+
+ - [**"Meet the man behind Prince's new sound"**](https://usatoday.com/story/life/music/2015/09/03/meet-man-behind-princes-new-sound/71600344/) in [USA Today](https://usatoday.com/) on 4 September 2015 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Joshua Welton](../../topics/joshua-welton/index.md), [New Power Generation](../../topics/new-power-generation/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2015/09/03/meet-man-behind-princes-new-sound/71600344/))
+
+----
+
+ - [**"Hornheads jazz group creates unique sound -- The five-piece a cappella horn section records and plays all over the globe."**](http://www.startribune.com/hornheads-jazz-group-creates-unique-sound/302567351/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 May 2015 about [Chaka Khan](../../topics/chaka-khan/index.md), [Dave Jensen](../../topics/dave-jensen/index.md), [Everything Blows (album)](../../topics/album/everything-blows/index.md), [Hornheads](../../topics/hornheads/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Kathy Jensen](../../topics/kathy-jensen/index.md), [Kenni Holmen](../../topics/kenni-holmen/index.md), [Michael Nelson](../../topics/michael-nelson/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Steve Strand](../../topics/steve-strand/index.md), [Trump](../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/hornheads-jazz-group-creates-unique-sound/302567351/))
 
 ----
 

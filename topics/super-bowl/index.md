@@ -1,18 +1,94 @@
 # Super Bowl
 
-  * [2019](./super-bowl-2019.md): 
-      November (2) | 
-      October (3) | 
-      July (1) | 
-  * [2018](./super-bowl-2018.md): 
-      February (4) | 
-      January (4) | 
-  * [2017](./super-bowl-2017.md): 
-      December (2) | 
-      November (1) | 
-      August (1) | 
-  * [2016](./super-bowl-2016.md): 
-      April (5) | 
+ - [**"PAISLEY PARK IS IN YOUR HEART: A VISIT TO PRINCE'S MAGICAL MINNEAPOLIS KINGDOM -- WITH PRINCE'S MEMOIR JUST OUT AND A REMASTERED "1999" ON THE WAY, IT'S THE PERFECT TIME TO DO A PURPLE-COLORED TOUR OF MINNEAPOLIS."**](https://www.newsweek.com/paisley-park-your-heart-visit-princes-magical-minneapolis-kingdom-1472087) in [Newsweek](https://www.newsweek.com/) on 15 November 2019 about [Academy Award](../../topics/academy-award/index.md), [Chappelle's Show (TV show)](../../topics/tv-show/chappelle-s-show/index.md), [Electric Fetus (place)](../../topics/place/electric-fetus/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [George Clinton](../../topics/george-clinton/index.md), [Grammy Award](../../topics/grammy-award/index.md), [James Brown](../../topics/james-brown/index.md), [memoir](../../topics/memoir/index.md), [merchandise](../../topics/merchandise/index.md), [motorcycle](../../topics/motorcycle/index.md), [museum](../../topics/museum/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Super Bowl](../../topics/super-bowl/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.newsweek.com/paisley-park-your-heart-visit-princes-magical-minneapolis-kingdom-1472087))
+
+----
+
+ - [**"'He's Royalty After All': Prince Co-Author On Finishing His Memoir 'The Beautiful Ones'"**](https://www.wbur.org/hereandnow/2019/11/04/prince-memoir-the-beautiful-ones) in [www.wbur.org](https://www.wbur.org/) on 4 November 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Mayte](../../topics/mayte/index.md), [memoir](../../topics/memoir/index.md), [Super Bowl](../../topics/super-bowl/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.wbur.org/hereandnow/2019/11/04/prince-memoir-the-beautiful-ones))
+
+----
+
+ - [**"Prince’s Memoir, ‘The Beautiful Ones,’ Is A Brief But Compelling Affirmation Of His Blackness -- The book, co-written with Dan Piepenbring, explores the musician’s family life, racism and path to stardom."**](https://www.huffpost.com/entry/prince-memoir-the-beautiful-ones_n_5db314e8e4b0a893740424bc) in [HuffPost](https://www.huffpost.com/) on 27 October 2019 about [Ava DuVernay](../../topics/ava-duvernay/index.md), [Chris Jackson](../../topics/chris-jackson/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [Netflix](../../topics/netflix/index.md), [Random House ](../../topics/random-house/index.md), [Super Bowl](../../topics/super-bowl/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://www.huffpost.com/entry/prince-memoir-the-beautiful-ones_n_5db314e8e4b0a893740424bc))
+
+----
+
+ - [**"The life of Prince, revealed in "The Beautiful Ones""**](https://www.cbsnews.com/news/the-life-of-prince-revealed-in-the-beautiful-ones/) in [CBS News](https://www.cbsnews.com/) on 27 October 2019 about [Academy Award](../../topics/academy-award/index.md), [Bobby Z.](../../topics/bobby-z/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Jill Jones](../../topics/jill-jones/index.md), [memoir](../../topics/memoir/index.md), [Moon Sound Studio (place)](../../topics/place/moon-sound-studio/index.md), [Super Bowl](../../topics/super-bowl/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [The Revolution](../../topics/the-revolution/index.md), [Troy Carter](../../topics/troy-carter/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/news/the-life-of-prince-revealed-in-the-beautiful-ones/))
+
+----
+
+ - [**"Once and Future Prince"**](https://www.newyorker.com/magazine/2019/10/21/once-and-future-prince/) in [The New Yorker](https://www.newyorker.com/) on 14 October 2019 about [Grammy Award](../../topics/grammy-award/index.md), [Spotify](../../topics/spotify/index.md), [Super Bowl](../../topics/super-bowl/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.newyorker.com/magazine/2019/10/21/once-and-future-prince/))
+
+----
+
+ - [**"Prince Fast Facts"**](https://kxlf.com/cnn-national/2019/07/02/prince-fast-facts/) in [KXLF.com](https://kxlf.com) on 3 July 2019 about [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [contract](../../topics/contract/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [fentanyl](../../topics/fentanyl/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [John Nelson](../../topics/john-nelson/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Michael Schulenberg](../../topics/michael-schulenberg/index.md), [museum](../../topics/museum/index.md), [Percocet](../../topics/percocet/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Super Bowl](../../topics/super-bowl/index.md), [The Revolution](../../topics/the-revolution/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://kxlf.com/cnn-national/2019/07/02/prince-fast-facts/))
+
+----
+
+ - [**"Prince drummer: No halftime show Prince hologram"**](https://usatoday.com/story/sports/ftw/2018/02/04/prince-drummer-justin-timberlake-told-me-there-will-be-no-hologram-of-prince-at-super-bowl-halftime/110106588/) in [USA Today](https://usatoday.com/) on 4 February 2018 about [Justin Timberlake](../../topics/justin-timberlake/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Super Bowl](../../topics/super-bowl/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/sports/ftw/2018/02/04/prince-drummer-justin-timberlake-told-me-there-will-be-no-hologram-of-prince-at-super-bowl-halftime/110106588/))
+
+----
+
+ - [**"Justin Timberlake previews Super Bowl halftime show: No Janet Jackson"**](https://apnews.com/7c4321049c904c9fa912ac8290000f23) in [Associated Press News](https://apnews.com/) on 2 February 2018 about [Janet Jackson](../../topics/janet-jackson/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [Super Bowl](../../topics/super-bowl/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/7c4321049c904c9fa912ac8290000f23))
+
+----
+
+ - [**"Prince is gone, but his spirit lives at Minnesota Super Bowl"**](https://apnews.com/760ec69e7a2e430a9879834f5f2eae63) in [Associated Press News](https://apnews.com/) on 2 February 2018 about [First Avenue (place)](../../topics/place/first-avenue/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Hayes](../../topics/morris-hayes/index.md), [museum](../../topics/museum/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Revolution](../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/760ec69e7a2e430a9879834f5f2eae63))
+
+----
+
+ - [**"Timberlake rules out ’N Sync reunion at Super Bowl show"**](https://apnews.com/d0f93adfdc504dc48fb737f7af717b4d) in [Associated Press News](https://apnews.com/) on 1 February 2018 about [Justin Timberlake](../../topics/justin-timberlake/index.md), [Super Bowl](../../topics/super-bowl/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/d0f93adfdc504dc48fb737f7af717b4d))
+
+----
+
+ - [**"Justin Timberlake Super Bowl bash upsets some Prince fans"**](https://apnews.com/06f3c57285d142b4968a920090c3afe8) in [Associated Press News](https://apnews.com/) on 30 January 2018 about [Jeremiah Freed](../../topics/jeremiah-freed/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [museum](../../topics/museum/index.md), [Super Bowl](../../topics/super-bowl/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/06f3c57285d142b4968a920090c3afe8))
+
+----
+
+ - [**"5 Minneapolis Super Bowl concerts worth the splurge, plus 5 cheaper alternatives"**](https://apnews.com/b5354fb801f94674abaf28203dd6eec2) in [Associated Press News](https://apnews.com/) on 25 January 2018 about [André Cymone](../../topics/andr-cymone/index.md), [Brother Jules](../../topics/brother-jules/index.md), [Dakota (place)](../../topics/place/dakota/index.md), [fDeluxe](../../topics/fdeluxe/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Gwen Stefani](../../topics/gwen-stefani/index.md), [Morris Day](../../topics/morris-day/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Super Bowl](../../topics/super-bowl/index.md), [The Family](../../topics/the-family/index.md), [The Revolution](../../topics/the-revolution/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/b5354fb801f94674abaf28203dd6eec2))
+
+----
+
+ - [**"Super Bowl Live free concerts schedule revealed with new Minnesota all-stars"**](https://apnews.com/359610d132dc4676a00e9e4da420ecaf) in [Associated Press News](https://apnews.com/) on 19 January 2018 about [fDeluxe](../../topics/fdeluxe/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Revolution](../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/359610d132dc4676a00e9e4da420ecaf))
+
+----
+
+ - [**"Embrace the Bold North in Minneapolis for Super Bowl"**](https://apnews.com/5ddc01f147644c79820a62b065eb5efb) in [Associated Press News](https://apnews.com/) on 17 January 2018 about [First Avenue (place)](../../topics/place/first-avenue/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [museum](../../topics/museum/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/5ddc01f147644c79820a62b065eb5efb))
+
+----
+
+ - [**"Singer Gwen Stefani to wrap up Super Bowl week performances"**](https://apnews.com/80ec55b99dd74c77b9d3fbcd79adf7c1) in [Associated Press News](https://apnews.com/) on 12 December 2017 about [Gwen Stefani](../../topics/gwen-stefani/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Super Bowl](../../topics/super-bowl/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/80ec55b99dd74c77b9d3fbcd79adf7c1))
+
+----
+
+ - [**"Ellie Goulding, DJ Kygo to perform during Super Bowl week"**](https://apnews.com/283071a69cd5493380935bf78796d91c) in [Associated Press News](https://apnews.com/) on 6 December 2017 about [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Super Bowl](../../topics/super-bowl/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/283071a69cd5493380935bf78796d91c))
+
+----
+
+ - [**"Alcohol permit sought for events at Prince’s Paisley Park"**](https://apnews.com/cd4a980b1fcb4c82aeb268b53dba06dc) in [Associated Press News](https://apnews.com/) on 29 November 2017 about [museum](../../topics/museum/index.md), [Super Bowl](../../topics/super-bowl/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/cd4a980b1fcb4c82aeb268b53dba06dc))
+
+----
+
+ - [**"Coldplay pulls for the color purple at U.S. Bank Stadium -- The British band put on a colorful spectacle with shout-outs to the Vikings and Prince at U.S. Bank Stadium."**](http://www.startribune.com/coldplay-pulls-for-the-color-purple-at-u-s-bank-stadium/440125493/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 13 August 2017 about [First Avenue (place)](../../topics/place/first-avenue/index.md), [London (place)](../../topics/place/london/index.md), [Super Bowl](../../topics/super-bowl/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/coldplay-pulls-for-the-color-purple-at-u-s-bank-stadium/440125493/))
+
+----
+
+ - [**"Obituary: Prince was a diminutive giant who revolutionized pop -- Though he was a puzzle at times, the rocker was a true Minnesotan who changed music more than once in a nearly 40-year career."**](http://www.startribune.com/jon-bream-prince-was-a-once-in-a-generation-artist-who-never-rested-on-his-laurels/376594221/) by Chris Riemenschneider, Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 April 2016 about [André Cymone](../../topics/andr-cymone/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Grammy Award](../../topics/grammy-award/index.md), [John Nelson](../../topics/john-nelson/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Obama](../../topics/obama/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/jon-bream-prince-was-a-once-in-a-generation-artist-who-never-rested-on-his-laurels/376594221/))
+
+----
+
+ - [**"Oprah, Mick Jagger among celebs to react to Prince’s death"**](https://apnews.com/ad3076cbbe69473495debc13e52669c5) in [Associated Press News](https://apnews.com/) on 22 April 2016 about [Albert Magnoli](../../topics/albert-magnoli/index.md), [Grammy Award](../../topics/grammy-award/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Obama](../../topics/obama/index.md), [Rita Ora](../../topics/rita-ora/index.md), [Spike Lee](../../topics/spike-lee/index.md), [Super Bowl](../../topics/super-bowl/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/ad3076cbbe69473495debc13e52669c5))
+
+----
+
+ - [**"Voices: Even for Millennials, memories of Prince will endure"**](https://usatoday.com/story/college/2016/04/22/voices-even-for-millennials-memories-of-prince-will-endure/37417249/) in [USA Today](https://usatoday.com/) on 22 April 2016 about [Super Bowl](../../topics/super-bowl/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/college/2016/04/22/voices-even-for-millennials-memories-of-prince-will-endure/37417249/))
+
+----
+
+ - [**"Prince dead at Paisley Park estate in Minnesota"**](http://www.fox9.com/news/emergency-medical-response-at-paisley-park) in [Fox 9](http://www.fox9.com/) on 21 April 2016 about [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Jim Olson](../../topics/jim-olson/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Minnesota Twins](../../topics/minnesota-twins/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [Obama](../../topics/obama/index.md), [Paisley Park Studios (place)](../../topics/place/paisley-park-studios/index.md), [Super Bowl](../../topics/super-bowl/index.md), [TMZ (website)](../../topics/website/tmz/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/http://www.fox9.com/news/emergency-medical-response-at-paisley-park))
+
+----
+
+ - [**"Why Prince’s Super Bowl Performance, ‘New Girl’ Cameo Proved He Was a God"**](https://variety.com/2016/tv/columns/prince-super-bowl-new-girl-1201758416/) in [Variety](https://variety.com/) on 21 April 2016 about [contract](../../topics/contract/index.md), [Super Bowl](../../topics/super-bowl/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2016/tv/columns/prince-super-bowl-new-girl-1201758416/))
 
 ----
 

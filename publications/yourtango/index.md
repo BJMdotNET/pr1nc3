@@ -1,8 +1,6 @@
 # YourTango
 
-  * 2019: 
-      [October](./yourtango-2019-10.md) (1) | 
-
+  * [2019](./yourtango-2019.md/) (1)
 ----
 
 [Home](../)

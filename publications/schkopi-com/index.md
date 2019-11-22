@@ -1,8 +1,6 @@
 # Schkopi.com
 
-  * 2019: 
-      [June](./schkopi-com-2019-06.md) (1) | 
-
+  * [2019](./schkopi-com-2019.md/) (1)
 ----
 
 [Home](../)

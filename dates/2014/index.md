@@ -1,9 +1,34 @@
 # 2014
 
-  * [December](./2014-12.md) (1)
-  * [September](./2014-09.md) (1)
-  * [July](./2014-07.md) (2)
-  * [February](./2014-02.md) (2)
+## December 2014 (1)
+
+ - [**"Tales From Suzanne Vega -- GRAMMY-winning singer/songwriter discusses the making of her new album, Tales From The Realm Of The Queen Of Pentacles, and being years ahead of "Game Of Thrones""**](https://www.grammy.com/grammys/news/tales-suzanne-vega) by Steve Baltin in [The GRAMMYs](https://www.grammy.com/) on 2 December 2014 about [Grammy Award](../../topics/grammy-award/index.md), [Suzanne Vega](../../topics/suzanne-vega/index.md) ([mirror](https://web.archive.org/web/*/https://www.grammy.com/grammys/news/tales-suzanne-vega))
+
+----
+
+## September 2014 (1)
+
+ - [**"Memorable moments from Paisley Park"**](https://apnews.com/d341d2b22be74bf7843f3c485d527b18) by Nekesa Mumbi Moody (Associated Press) in [Associated Press News](https://apnews.com/) on 29 September 2014 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Donna Grantis](../../topics/donna-grantis/index.md), [James Brown](../../topics/james-brown/index.md), [Katy Perry](../../topics/katy-perry/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Rita Ora](../../topics/rita-ora/index.md), [YouTube](../../topics/youtube/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/d341d2b22be74bf7843f3c485d527b18))
+
+----
+
+## July 2014 (2)
+
+ - [**"Apollonia shares her near-death experience on the set of Purple Rain"**](https://blog.thecurrent.org/2014/07/apollonia-shares-her-near-death-experience-on-the-set-of-purple-rain/) by Andrea Swensson in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 28 July 2014 about [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Cavallo, Ruffalo, and Fargnoli](../../topics/cavallo-ruffalo-and-fargnoli/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Lake Minnetonka (place)](../../topics/place/lake-minnetonka/index.md), [Morris Day](../../topics/morris-day/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md) ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2014/07/apollonia-shares-her-near-death-experience-on-the-set-of-purple-rain/))
+
+----
+
+ - [**"Prince returns for Essence’s 20th celebration"**](https://apnews.com/2816a54a81a54d278d43121785573047) in [Associated Press News](https://apnews.com/) on 5 July 2014 about [Janelle Monae](../../topics/janelle-monae/index.md), [Jungle Love (song)](../../topics/song/jungle-love/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Morris Day](../../topics/morris-day/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Time](../../topics/the-time/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/2816a54a81a54d278d43121785573047))
+
+----
+
+## February 2014 (2)
+
+ - [**"Prince plays London living-room gig"**](https://apnews.com/cdab667abcd84f809dda4c49a044486f) in [Associated Press News](https://apnews.com/) on 5 February 2014 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [bootleg](../../topics/bootleg/index.md), [contract](../../topics/contract/index.md), [London (place)](../../topics/place/london/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/cdab667abcd84f809dda4c49a044486f))
+
+----
+
+ - [**"Prince plays London living-room gig"**](https://apnews.com/f22a4231a0ec48dba636f2d710184fe0) by Jill Lawless (Associated Press) in [Associated Press News](https://apnews.com/) on 5 February 2014 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [bootleg](../../topics/bootleg/index.md), [contract](../../topics/contract/index.md), [Donna Grantis](../../topics/donna-grantis/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/f22a4231a0ec48dba636f2d710184fe0))
 
 ----
 

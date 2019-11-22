@@ -1,5 +1,9 @@
 # David Staley
 
+ - [**"Court Sanctions Defendant for Failure to Preserve Text Messages in Copyright Infringement Suit Brought by Prince’s Estate"**](https://www.lexology.com/library/detail.aspx?g=ff9d02bd-b6be-485d-b249-e3ecc172bb1f) in [www.lexology.com](https://www.lexology.com/) on 19 November 2019 about [David Staley](../../topics/david-staley/index.md), [Deliverance (EP)](../../topics/ep/deliverance/index.md), [Deliverance (song)](../../topics/song/deliverance/index.md), [Gabriel Solomon Wilson](../../topics/gabriel-solomon-wilson/index.md), [George Ian Boxill](../../topics/george-ian-boxill/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md) ([mirror](https://web.archive.org/web/*/https://www.lexology.com/library/detail.aspx?g=ff9d02bd-b6be-485d-b249-e3ecc172bb1f))
+
+----
+
  - [**"Court Dicta in Paisley Park v. Boxill Foresees Expansion of Discoverable ESI"**](https://www.jdsupra.com/legalnews/court-dicta-in-paisley-park-v-boxill-64176/) in [JDSupra](https://www.jdsupra.com/) on 18 September 2019 about [David Staley](../../topics/david-staley/index.md), [Gabriel Solomon Wilson](../../topics/gabriel-solomon-wilson/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md) ([mirror](https://web.archive.org/web/*/https://www.jdsupra.com/legalnews/court-dicta-in-paisley-park-v-boxill-64176/))
 
 ----

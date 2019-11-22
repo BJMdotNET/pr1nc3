@@ -1,15 +1,8 @@
 # WCCO - CBS Minnesota
 
-  * 2019: 
-      [November](./wcco-cbs-minnesota-2019-11.md) (1) | 
-      [October](./wcco-cbs-minnesota-2019-10.md) (1) | 
-      [August](./wcco-cbs-minnesota-2019-08.md) (1) | 
-  * 2018: 
-      [December](./wcco-cbs-minnesota-2018-12.md) (1) | 
-  * 2016: 
-      [September](./wcco-cbs-minnesota-2016-09.md) (1) | 
-      [April](./wcco-cbs-minnesota-2016-04.md) (1) | 
-
+  * [2019](./wcco-cbs-minnesota-2019.md/) (3)
+  * [2018](./wcco-cbs-minnesota-2018.md/) (1)
+  * [2016](./wcco-cbs-minnesota-2016.md/) (2)
 ----
 
 [Home](../)

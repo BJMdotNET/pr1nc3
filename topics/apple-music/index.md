@@ -1,5 +1,9 @@
 # Apple Music
 
+ - [**"Beck Talks The Time Prince Whispered His Name"**](https://www.rollingstone.com/music/music-news/beck-apple-music-915828/) in [Rolling Stone](https://www.rollingstone.com/) on 21 November 2019 about [Apple Music](../../topics/apple-music/index.md), [Beck](../../topics/beck/index.md), [Paisley Park Studios (place)](../../topics/place/paisley-park-studios/index.md), [The Beautiful Ones (song)](../../topics/song/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-news/beck-apple-music-915828/))
+
+----
+
  - [**"They're one of Minnesota's most-streamed music acts – and you probably haven't heard of them -- Straight out of New Prague, piano duo the O'Neill Brothers have rolled with the times to become unlikely stars of digital streaming."**](http://www.startribune.com/they-re-one-of-minnesota-s-most-streamed-music-acts-and-you-probably-haven-t-heard-of-them/564655012/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 9 November 2019 about [Apple Music](../../topics/apple-music/index.md), [Spotify](../../topics/spotify/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/they-re-one-of-minnesota-s-most-streamed-music-acts-and-you-probably-haven-t-heard-of-them/564655012/))
 
 ----

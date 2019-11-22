@@ -1,28 +1,158 @@
 # Chaka Khan
 
-  * [2019](./chaka-khan-2019.md): 
-      November (1) | 
-      October (10) | 
-      September (1) | 
-      July (1) | 
-      March (2) | 
-      February (2) | 
-  * [2018](./chaka-khan-2018.md): 
-      December (2) | 
-      April (1) | 
-      February (1) | 
-  * [2016](./chaka-khan-2016.md): 
-      December (1) | 
-      October (5) | 
-      September (2) | 
-      July (1) | 
-      May (1) | 
-      April (4) | 
-  * [2015](./chaka-khan-2015.md): 
-      May (1) | 
-  * [1985](./chaka-khan-1985.md): 
-      February (1) | 
-      January (1) | 
+ - [**"The afterlife of Prince, in words and music"**](https://www.inquirer.com/entertainment/prince-1999-beautiful-ones-music-book-tom-petty-david-bowie-20191115.html) in [www.inquirer.com](https://www.inquirer.com/) on 15 November 2019 about [bootleg](../../topics/bootleg/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [museum](../../topics/museum/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [Spike Lee](../../topics/spike-lee/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [Vagina (song)](../../topics/song/vagina/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.inquirer.com/entertainment/prince-1999-beautiful-ones-music-book-tom-petty-david-bowie-20191115.html))
+
+----
+
+ - [**"All of Prince’s Spiciest Pop-Culture Hot Takes From His New Book, The Beautiful Ones"**](https://www.vulture.com/2019/10/prince-memoir-pop-culture-hot-takes.html) in [Vulture](https://www.vulture.com/) on 31 October 2019 about [Chaka Khan](../../topics/chaka-khan/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Ed Sheeran](../../topics/ed-sheeran/index.md), [Katy Perry](../../topics/katy-perry/index.md), [Lenny Kravitz](../../topics/lenny-kravitz/index.md), [memoir](../../topics/memoir/index.md), [Meron Bekure](../../topics/meron-bekure/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Purple Pam](../../topics/purple-pam/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.vulture.com/2019/10/prince-memoir-pop-culture-hot-takes.html))
+
+----
+
+ - [**"CHRONIQUE : THE BEAUTIFUL ONES, MÉMOIRES INACHEVÉS – PRINCE COMME VOUS NE L’AVEZ JAMAIS LU"**](http://www.schkopi.com/index.php/2019/10/news/the-beautiful-ones-livre/) in [Schkopi.com](http://www.schkopi.com/) on 30 October 2019 about [1999 Deluxe (album)](../../topics/album/1999-deluxe/index.md), [Bold Generation (song)](../../topics/song/bold-generation/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Morris Day](../../topics/morris-day/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [Vanity](../../topics/vanity/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/http://www.schkopi.com/index.php/2019/10/news/the-beautiful-ones-livre/))
+
+----
+
+ - [**"Ruziënde ouders, zijn unieke naam en ‘Superman’: drie jaar na overlijden Prince verschijnt autobiografie ‘The Beautiful Ones’"**](https://www.hln.be/showbizz/celebrities/ruziende-ouders-zijn-unieke-naam-en-superman-drie-jaar-na-overlijden-prince-verschijnt-autobiografie-the-beautiful-ones~ae718968/) in [www.hln.be](https://www.hln.be/) on 30 October 2019 about [Chaka Khan](../../topics/chaka-khan/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Ed Sheeran](../../topics/ed-sheeran/index.md), [Katy Perry](../../topics/katy-perry/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.hln.be/showbizz/celebrities/ruziende-ouders-zijn-unieke-naam-en-superman-drie-jaar-na-overlijden-prince-verschijnt-autobiografie-the-beautiful-ones~ae718968/))
+
+----
+
+ - [**"Book Review: Prince’s Autobiography ‘The Beautiful Ones’"**](https://variety.com/2019/music/news/prince-autobiography-beautiful-ones-book-review-1203383683/) in [Variety](https://variety.com/) on 27 October 2019 about [Chaka Khan](../../topics/chaka-khan/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [James Brown](../../topics/james-brown/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [The Revolution](../../topics/the-revolution/index.md), [trademark](../../topics/trademark/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/news/prince-autobiography-beautiful-ones-book-review-1203383683/))
+
+----
+
+ - [**"Reckoning With The Ethics of The Ever-Unfurling Prince Vault -- The demos, b-sides and rarities keep coming. How should we feel about listening?"**](https://www.pastemagazine.com/articles/2019/10/prince-estate-ethics.html) in [Paste Magazine](https://www.pastemagazine.com/) on 23 October 2019 about [1999 (album)](../../topics/album/1999/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [contract](../../topics/contract/index.md), [D’Angelo](../../topics/d-angelo/index.md), [exhibit](../../topics/exhibit/index.md), [For You (album)](../../topics/album/for-you/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Spotify](../../topics/spotify/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [trademark](../../topics/trademark/index.md), [vault](../../topics/vault/index.md), [YouTube](../../topics/youtube/index.md) ([mirror](https://web.archive.org/web/*/https://www.pastemagazine.com/articles/2019/10/prince-estate-ethics.html))
+
+----
+
+ - [**"Prince Estate Drops Stripped-Down 'I Feel For You' Acoustic Demo: Listen"**](https://www.billboard.com/articles/news/8533600/prince-estate-warner-records-drops-stripped-down-i-feel-for-you-acoustic-demo-listen) in [Billboard](https://www.billboard.com/) on 20 October 2019 about [Chaka Khan](../../topics/chaka-khan/index.md), [For You (album)](../../topics/album/for-you/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Michael Howe](../../topics/michael-howe/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8533600/prince-estate-warner-records-drops-stripped-down-i-feel-for-you-acoustic-demo-listen))
+
+----
+
+ - [**"Hear Prince’s Acoustic Demo of ‘I Feel for You’"**](https://variety.com/2019/music/news/prince-i-feel-for-you-acoustic-demo-listen-1203375320/) in [Variety](https://variety.com/) on 18 October 2019 about [Capri Theater  (place)](../../topics/place/capri-theater/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [For You (album)](../../topics/album/for-you/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Michael Howe](../../topics/michael-howe/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/news/prince-i-feel-for-you-acoustic-demo-listen-1203375320/))
+
+----
+
+ - [**"Listen to Prince's previously unheard acoustic demo of 'I Feel For You'"**](https://usatoday.com/story/entertainment/music/2019/10/18/prince-acoustic-demo-i-feel-for-you-released/4025966002/) in [USA Today](https://usatoday.com/) on 18 October 2019 about [Capri Theater  (place)](../../topics/place/capri-theater/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [For You (album)](../../topics/album/for-you/index.md), [Grammy Award](../../topics/grammy-award/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/entertainment/music/2019/10/18/prince-acoustic-demo-i-feel-for-you-released/4025966002/))
+
+----
+
+ - [**"Prince - Listen to His Previously Unreleased Original Demo of “Feel For You” -- Recorded in 1979 and Available on 7-Inch"**](http://www.undertheradarmag.com/news/prince_-_listen_to_his_previously_unreleased_original_demo_of_feel_for_you) in [Under the Radar](http://www.undertheradarmag.com/) on 18 October 2019 about [Chaka Khan](../../topics/chaka-khan/index.md), [For You (album)](../../topics/album/for-you/index.md), [Michael Howe](../../topics/michael-howe/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/http://www.undertheradarmag.com/news/prince_-_listen_to_his_previously_unreleased_original_demo_of_feel_for_you))
+
+----
+
+ - [**"Prince’s acoustic demo of “I Feel for You” unearthed from vault: Stream -- An intimate recording released in honor of the 40th anniversary of his self-titled LP"**](https://consequenceofsound.net/2019/10/stream-prince-i-feel-for-you-acoustic-demo/) in [Consequence of Sound](https://consequenceofsound.net/) on 18 October 2019 about [Chaka Khan](../../topics/chaka-khan/index.md), [For You (album)](../../topics/album/for-you/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Michael Howe](../../topics/michael-howe/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://consequenceofsound.net/2019/10/stream-prince-i-feel-for-you-acoustic-demo/))
+
+----
+
+ - [**"W&W PR VICE PRESIDENT KAREN LEE RECEIVES HIGH HONORS FROM LIVING LEGENDS FOUNDATION -- PLUS: She Credits ‘Old Hollywood’ publicist Henry C. Rogers, legendary Patti Webster as role models and speaks on the amazing charitable nature of PRINCE"**](https://eurweb.com/2019/09/16/ww-pr-vice-president-karen-lee-receives-high-honors-from-living-legends-foundation/) in [EURweb](https://eurweb.com/) on 16 September 2019 about [Chaka Khan](../../topics/chaka-khan/index.md), [contract](../../topics/contract/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [PRN Alumni Foundation](../../topics/prn-alumni-foundation/index.md), [Quincy Jones](../../topics/quincy-jones/index.md) ([mirror](https://web.archive.org/web/*/https://eurweb.com/2019/09/16/ww-pr-vice-president-karen-lee-receives-high-honors-from-living-legends-foundation/))
+
+----
+
+ - [**"Prince Fast Facts"**](https://kxlf.com/cnn-national/2019/07/02/prince-fast-facts/) in [KXLF.com](https://kxlf.com) on 3 July 2019 about [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [contract](../../topics/contract/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [fentanyl](../../topics/fentanyl/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [John Nelson](../../topics/john-nelson/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Michael Schulenberg](../../topics/michael-schulenberg/index.md), [museum](../../topics/museum/index.md), [Percocet](../../topics/percocet/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Super Bowl](../../topics/super-bowl/index.md), [The Revolution](../../topics/the-revolution/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://kxlf.com/cnn-national/2019/07/02/prince-fast-facts/))
+
+----
+
+ - [**"Foundation of Prince’s second wife to honor him at gala"**](https://apnews.com/16e91a0add574df1b24e5df54dfbc087) by Leanne Italie (Associated Press) in [Associated Press News](https://apnews.com/) on 1 March 2019 about [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [In a Perfect World](../../topics/in-a-perfect-world/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Quincy Jones](../../topics/quincy-jones/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/16e91a0add574df1b24e5df54dfbc087))
+
+----
+
+ - [**"Foundation of Prince's second wife to honor him at gala"**](http://www.startribune.com/foundation-of-prince-s-second-wife-to-honor-him-at-gala/506568702/) by Leanne Italie (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 1 March 2019 about [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [In a Perfect World](../../topics/in-a-perfect-world/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/foundation-of-prince-s-second-wife-to-honor-him-at-gala/506568702/))
+
+----
+
+ - [**"Chaka Khan: Prince’s death was wake-up call to get help"**](https://apnews.com/b44eff69ea1d493f863ccd6db0596a03) in [Associated Press News](https://apnews.com/) on 9 February 2019 about [Chaka Khan](../../topics/chaka-khan/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Miles Davis](../../topics/miles-davis/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/b44eff69ea1d493f863ccd6db0596a03))
+
+----
+
+ - [**"Chaka Khan On Why She Finally Released Her First Album In 12 Years"**](https://www.billboard.com/articles/news/8496614/chaka-khan-hello-happiness-interview) in [Billboard](https://www.billboard.com/) on 8 February 2019 about [Chaka Khan](../../topics/chaka-khan/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Miles Davis](../../topics/miles-davis/index.md), [NPG Records](../../topics/npg-records/index.md), [Sticky Wicked (song)](../../topics/song/sticky-wicked/index.md) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8496614/chaka-khan-hello-happiness-interview))
+
+----
+
+ - [**"After a decade of dormancy, Chaka Khan blooms again"**](https://apnews.com/bcd4b582e5504891b1a983d6e69cb61f) in [Associated Press News](https://apnews.com/) on 29 December 2018 about [Chaka Khan](../../topics/chaka-khan/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/bcd4b582e5504891b1a983d6e69cb61f))
+
+----
+
+ - [**"After a decade of dormancy, Chaka Khan blooms again"**](https://apnews.com/57ecf87aba0f47ec9b908585757d2933) in [Associated Press News](https://apnews.com/) on 28 December 2018 about [Chaka Khan](../../topics/chaka-khan/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Parade (album)](../../topics/album/parade/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/57ecf87aba0f47ec9b908585757d2933))
+
+----
+
+ - [**"10 curious things we learned about Prince from the investigations -- He liked Häagen-Dazs ice cream, 5-Hour Energy drinks and MAC beauty products."**](http://www.startribune.com/10-curious-things-we-learned-about-prince-from-the-investigations/480364723/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 April 2018 about [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [CeeLo Green](../../topics/ceelo-green/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Esperanza Spalding](../../topics/esperanza-spalding/index.md), [Janelle Monae](../../topics/janelle-monae/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Larry Graham](../../topics/larry-graham/index.md), [North Memorial Medical Center (place)](../../topics/place/north-memorial-medical-center/index.md), [Peter Vang](../../topics/peter-vang/index.md), [Phaedra Ellis Lamkin](../../topics/phaedra-ellis-lamkin/index.md), [Rita Ora](../../topics/rita-ora/index.md), [Sheila E.](../../topics/sheila-e/index.md), [U Got the Look (song)](../../topics/song/u-got-the-look/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/10-curious-things-we-learned-about-prince-from-the-investigations/480364723/))
+
+----
+
+ - [**"Raphael Saadiq on His Oscar-Nominated ‘Mudbound’ Song, Working With Mary J. Blige and Declining Prince’s Record Deal"**](https://variety.com/2018/film/news/raphael-saadiq-on-his-oscar-nominated-mudbound-song-working-with-mary-j-blige-and-declining-princes-record-deal-1202708352/) in [Variety](https://variety.com/) on 23 February 2018 about [Chaka Khan](../../topics/chaka-khan/index.md), [D’Angelo](../../topics/d-angelo/index.md), [Raphael Saadiq](../../topics/raphael-saadiq/index.md), [Sheila E.](../../topics/sheila-e/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2018/film/news/raphael-saadiq-on-his-oscar-nominated-mudbound-song-working-with-mary-j-blige-and-declining-princes-record-deal-1202708352/))
+
+----
+
+ - [**"Prince death, mall attack among year’s top Minnesota stories"**](https://apnews.com/f4859fe2db0e4820b8062b664141a973) in [Associated Press News](https://apnews.com/) on 24 December 2016 about [Chaka Khan](../../topics/chaka-khan/index.md), [Donald Trump](../../topics/donald-trump/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [museum](../../topics/museum/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Trump](../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/f4859fe2db0e4820b8062b664141a973))
+
+----
+
+ - [**"Stevie Wonder, Chaka Khan headline Prince tribute show"**](https://apnews.com/776650efcc1b4b3997f8af7b73f4e16c) in [Associated Press News](https://apnews.com/) on 14 October 2016 about [Anita Baker](../../topics/anita-baker/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Chris Coleman](../../topics/chris-coleman/index.md), [Christina Aguilera](../../topics/christina-aguilera/index.md), [Doug E. Fresh](../../topics/doug-e-fresh/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Jessie J](../../topics/jessie-j/index.md), [John Mayer](../../topics/john-mayer/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Prince Day](../../topics/prince-day/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Tori Kelly](../../topics/tori-kelly/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/776650efcc1b4b3997f8af7b73f4e16c))
+
+----
+
+ - [**"The Latest: Wonder, Khan wow crowd at Prince tribute show"**](https://apnews.com/2ff2f0434f8944fdb42e5cb8b88b2b91) in [Associated Press News](https://apnews.com/) on 14 October 2016 about [Anita Baker](../../topics/anita-baker/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Chris Coleman](../../topics/chris-coleman/index.md), [Christina Aguilera](../../topics/christina-aguilera/index.md), [Doug E. Fresh](../../topics/doug-e-fresh/index.md), [Jessie J](../../topics/jessie-j/index.md), [John Mayer](../../topics/john-mayer/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Prince Day](../../topics/prince-day/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [The Time](../../topics/the-time/index.md), [Tori Kelly](../../topics/tori-kelly/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/2ff2f0434f8944fdb42e5cb8b88b2b91))
+
+----
+
+ - [**"Wonder, Khan wow crowd at Prince tribute show"**](https://apnews.com/0f0e837095fd4116aaaffee4cf83329b) in [Associated Press News](https://apnews.com/) on 14 October 2016 about [Anita Baker](../../topics/anita-baker/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Chris Coleman](../../topics/chris-coleman/index.md), [Christina Aguilera](../../topics/christina-aguilera/index.md), [Doug E. Fresh](../../topics/doug-e-fresh/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Jessie J](../../topics/jessie-j/index.md), [John Mayer](../../topics/john-mayer/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Prince Day](../../topics/prince-day/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Tori Kelly](../../topics/tori-kelly/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/0f0e837095fd4116aaaffee4cf83329b))
+
+----
+
+ - [**"John Mayer withdraws from lineup for Prince tribute concert"**](https://apnews.com/d3129f4e2bbb4adcb4e064ba0e3f46c1) in [Associated Press News](https://apnews.com/) on 12 October 2016 about [Chaka Khan](../../topics/chaka-khan/index.md), [Christina Aguilera](../../topics/christina-aguilera/index.md), [John Mayer](../../topics/john-mayer/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Tori Kelly](../../topics/tori-kelly/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/d3129f4e2bbb4adcb4e064ba0e3f46c1))
+
+----
+
+ - [**"Ex-wife Mayte added to Prince tribute concert in Minnesota"**](https://apnews.com/9fb9e3ee056e44988544d5f92a1bef2a) in [Associated Press News](https://apnews.com/) on 11 October 2016 about [Ana Moura](../../topics/ana-moura/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Christina Aguilera](../../topics/christina-aguilera/index.md), [John Mayer](../../topics/john-mayer/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Tori Kelly](../../topics/tori-kelly/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/9fb9e3ee056e44988544d5f92a1bef2a))
+
+----
+
+ - [**"Still no will, but work to settle Prince estate forges ahead"**](https://apnews.com/e2669a78b7dd4d8fb5c6e743d4acc29d) in [Associated Press News](https://apnews.com/) on 25 September 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [Christina Aguilera](../../topics/christina-aguilera/index.md), [Graceland](../../topics/graceland/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [museum](../../topics/museum/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [The Time](../../topics/the-time/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/e2669a78b7dd4d8fb5c6e743d4acc29d))
+
+----
+
+ - [**"Stevie Wonder, Chaka Khan top Prince tribute show lineup"**](https://apnews.com/2a821da9313d4f35974af75596a12697) in [Associated Press News](https://apnews.com/) on 16 September 2016 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Anita Baker](../../topics/anita-baker/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Christina Aguilera](../../topics/christina-aguilera/index.md), [Doug E. Fresh](../../topics/doug-e-fresh/index.md), [Jeremiah Freed](../../topics/jeremiah-freed/index.md), [John Mayer](../../topics/john-mayer/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Morris Hayes](../../topics/morris-hayes/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [The Time](../../topics/the-time/index.md), [Tori Kelly](../../topics/tori-kelly/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/2a821da9313d4f35974af75596a12697))
+
+----
+
+ - [**"Chaka Khan and sister enter rehab over prescription drugs"**](http://www.startribune.com/chaka-khan-and-sister-enter-rehab-over-prescription-drugs/386205921/) by Nekesa Mumbi Moody (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 July 2016 about [Chaka Khan](../../topics/chaka-khan/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/chaka-khan-and-sister-enter-rehab-over-prescription-drugs/386205921/))
+
+----
+
+ - [**"Prince's death: Sheila E. disputes 'irrelevant' label"**](https://usatoday.com/story/life/people/2016/05/21/princes-death-day-31-questions-over-timeline/84709882/) in [USA Today](https://usatoday.com/) on 22 May 2016 about [Chaka Khan](../../topics/chaka-khan/index.md), [Sheila E.](../../topics/sheila-e/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/people/2016/05/21/princes-death-day-31-questions-over-timeline/84709882/))
+
+----
+
+ - [**"Prince was a one-man band and a friend to many others"**](https://apnews.com/508256962cd942f3bc61e1cc034900ad) in [Associated Press News](https://apnews.com/) on 25 April 2016 about [Bangles](../../topics/bangles/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Esperanza Spalding](../../topics/esperanza-spalding/index.md), [Grammy Award](../../topics/grammy-award/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Rita Ora](../../topics/rita-ora/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stand Back (song)](../../topics/song/stand-back/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [YouTube](../../topics/youtube/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/508256962cd942f3bc61e1cc034900ad))
+
+----
+
+ - [**"Sheila E.: Saying goodbye to Prince 'the hardest thing I've ever had to do' -- Sheila E., longtime friend, said she never knew Prince to take drugs."**](http://www.startribune.com/sheila-e-saying-goodbye-to-prince-the-hardest-thing-i-ve-ever-had-to-do/376906621/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 April 2016 about [Celebration](../../topics/celebration/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Lionel Richie](../../topics/lionel-richie/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Sheila E.](../../topics/sheila-e/index.md), [TMZ (website)](../../topics/website/tmz/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [WCCO-TV](../../topics/wcco-tv/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/sheila-e-saying-goodbye-to-prince-the-hardest-thing-i-ve-ever-had-to-do/376906621/))
+
+----
+
+ - [**"Lenny Henry on Prince: 'I almost passed out. This was my hero talking to me' -- The actor and comedian remembers a rooftop meeting and how he couldn’t believe his luck when he found out Prince was playing guitar for an album he was singing on for Kate Bush"**](https://www.theguardian.com/music/2016/apr/24/the-time-i-sang-with-prince-and-kate-bush-by-lenny-henry) in [The Guardian](https://www.theguardian.com/) on 24 April 2016 about [Chaka Khan](../../topics/chaka-khan/index.md), [Eric Clapton](../../topics/eric-clapton/index.md), [Kate Bush](../../topics/kate-bush/index.md), [Lenny Henry](../../topics/lenny-henry/index.md), [The Red Shoes (album)](../../topics/album/the-red-shoes/index.md), [Why Should I Love You? (song)](../../topics/song/why-should-i-love-you/index.md) ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/music/2016/apr/24/the-time-i-sang-with-prince-and-kate-bush-by-lenny-henry))
+
+----
+
+ - [**"A Prince on screen, from ‘Purple Rain’ to ‘Graffiti Bridge’"**](https://apnews.com/8082812e075544679812ad4cc742307f) in [Associated Press News](https://apnews.com/) on 22 April 2016 about [Academy Award](../../topics/academy-award/index.md), [Batdance (song)](../../topics/song/batdance/index.md), [Batman (album)](../../topics/album/batman/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Glam Slam (place)](../../topics/place/glam-slam/index.md), [Graffiti Bridge (movie)](../../topics/movie/graffiti-bridge/index.md), [Grammy Award](../../topics/grammy-award/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Krush Groove (movie)](../../topics/movie/krush-groove/index.md), [Morris Day](../../topics/morris-day/index.md), [Parade (album)](../../topics/album/parade/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Roger Ebert](../../topics/roger-ebert/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Time](../../topics/the-time/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/8082812e075544679812ad4cc742307f))
+
+----
+
+ - [**"Hornheads jazz group creates unique sound -- The five-piece a cappella horn section records and plays all over the globe."**](http://www.startribune.com/hornheads-jazz-group-creates-unique-sound/302567351/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 May 2015 about [Chaka Khan](../../topics/chaka-khan/index.md), [Dave Jensen](../../topics/dave-jensen/index.md), [Everything Blows (album)](../../topics/album/everything-blows/index.md), [Hornheads](../../topics/hornheads/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Kathy Jensen](../../topics/kathy-jensen/index.md), [Kenni Holmen](../../topics/kenni-holmen/index.md), [Michael Nelson](../../topics/michael-nelson/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Steve Strand](../../topics/steve-strand/index.md), [Trump](../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/hornheads-jazz-group-creates-unique-sound/302567351/))
+
+----
+
+ - [**"Prince Interview -- The Purple Yoda dispenses wisdom via e-mail."**](https://www.timeout.com/chicago/music/prince-interview) in [www.timeout.com](https://www.timeout.com/) on 18 September 2012 about [Chaka Khan](../../topics/chaka-khan/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Van Jones](../../topics/van-jones/index.md) ([mirror](https://web.archive.org/web/*/https://www.timeout.com/chicago/music/prince-interview))
+
+----
+
+ - [**"27th Annual Grammy Awards Show to Offer Stellar Performances Tuesday"**](https://apnews.com/f0321a7f0a1984fca521fee8571d39e8) in [Associated Press News](https://apnews.com/) on 23 February 1985 about [Baby I’m a Star (song)](../../topics/song/baby-i-m-a-star/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Grammy Award](../../topics/grammy-award/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [PRINCEss](../../topics/princess/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [The Revolution](../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/f0321a7f0a1984fca521fee8571d39e8))
+
+----
+
+ - [**"David Foster Edges Cyndi Lauper, Tina Turner and Prince With BC-Grammys-List"**](https://apnews.com/78bd652204e400aeb604e68f1e12f43b) in [Associated Press News](https://apnews.com/) on 10 January 1985 about [Chaka Khan](../../topics/chaka-khan/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [The Revolution](../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/78bd652204e400aeb604e68f1e12f43b))
 
 ----
 

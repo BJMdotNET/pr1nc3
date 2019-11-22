@@ -1,21 +1,70 @@
 # Manuela Testolini
 
-  * [2019](./manuela-testolini-2019.md): 
-      July (1) | 
-      March (2) | 
-  * [2018](./manuela-testolini-2018.md): 
-      June (2) | 
-      April (1) | 
-  * [2017](./manuela-testolini-2017.md): 
-      April (3) | 
-      January (1) | 
-  * [2016](./manuela-testolini-2016.md): 
-      December (1) | 
-      August (3) | 
-      July (1) | 
-      April (1) | 
-  * [2006](./manuela-testolini-2006.md): 
-      July (1) | 
+ - [**"Prince Fast Facts"**](https://kxlf.com/cnn-national/2019/07/02/prince-fast-facts/) in [KXLF.com](https://kxlf.com) on 3 July 2019 about [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [contract](../../topics/contract/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [fentanyl](../../topics/fentanyl/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [John Nelson](../../topics/john-nelson/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Michael Schulenberg](../../topics/michael-schulenberg/index.md), [museum](../../topics/museum/index.md), [Percocet](../../topics/percocet/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Super Bowl](../../topics/super-bowl/index.md), [The Revolution](../../topics/the-revolution/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://kxlf.com/cnn-national/2019/07/02/prince-fast-facts/))
+
+----
+
+ - [**"Foundation of Prince’s second wife to honor him at gala"**](https://apnews.com/16e91a0add574df1b24e5df54dfbc087) by Leanne Italie (Associated Press) in [Associated Press News](https://apnews.com/) on 1 March 2019 about [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [In a Perfect World](../../topics/in-a-perfect-world/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Quincy Jones](../../topics/quincy-jones/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/16e91a0add574df1b24e5df54dfbc087))
+
+----
+
+ - [**"Foundation of Prince's second wife to honor him at gala"**](http://www.startribune.com/foundation-of-prince-s-second-wife-to-honor-him-at-gala/506568702/) by Leanne Italie (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 1 March 2019 about [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [In a Perfect World](../../topics/in-a-perfect-world/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/foundation-of-prince-s-second-wife-to-honor-him-at-gala/506568702/))
+
+----
+
+ - [**"AM Prep-Music -- MUSIC ROOM DEDICATED IN PRINCE’S HONOR AT MIDDLE SCHOOL"**](https://apnews.com/f55dd3fb59454f2e9a49c6bfd436eb0c) in [Associated Press News](https://apnews.com/) on 12 June 2018 about [Anwatin Middle School](../../topics/anwatin-middle-school/index.md), [In a Perfect World](../../topics/in-a-perfect-world/index.md), [In A Perfect World Foundation](../../topics/in-a-perfect-world-foundation/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [WCCO-TV](../../topics/wcco-tv/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/f55dd3fb59454f2e9a49c6bfd436eb0c))
+
+----
+
+ - [**"Minnesota school gets music classroom in Prince’s honor"**](https://apnews.com/fe46b7e749314c719a83b9b6c8279700) in [Associated Press News](https://apnews.com/) on 10 June 2018 about [Anwatin Middle School](../../topics/anwatin-middle-school/index.md), [In a Perfect World](../../topics/in-a-perfect-world/index.md), [In A Perfect World Foundation](../../topics/in-a-perfect-world-foundation/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [WCCO-TV](../../topics/wcco-tv/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/fe46b7e749314c719a83b9b6c8279700))
+
+----
+
+ - [**"Documents: Airplane scare was beginning of the end of Prince's struggles with opioids -- Long-awaited investigative documents released Thursday give the clearest narrative yet of the singer's problems with opioid addiction in his final days."**](http://www.startribune.com/documents-airplane-scare-was-beginning-of-the-end-of-prince-s-struggles-with-opioids/480325903/) by Dan Browning, David Chanen in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 April 2018 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [fentanyl](../../topics/fentanyl/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Meron Bekure](../../topics/meron-bekure/index.md), [Vicodin](../../topics/vicodin/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/documents-airplane-scare-was-beginning-of-the-end-of-prince-s-struggles-with-opioids/480325903/))
+
+----
+
+ - [**"A year after Prince's death, these questions remain unanswered"**](https://usatoday.com/story/life/music/2017/04/20/death-prince-one-year-later-what-do-we-know/100180398/) in [USA Today](https://usatoday.com/) on 21 April 2017 about [Amy Conners](../../topics/amy-conners/index.md), [Apple Music](../../topics/apple-music/index.md), [bootleg](../../topics/bootleg/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [George Ian Boxill](../../topics/george-ian-boxill/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [memoir](../../topics/memoir/index.md), [Michael Schulenberg](../../topics/michael-schulenberg/index.md), [museum](../../topics/museum/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [Patrick Cousins](../../topics/patrick-cousins/index.md), [Spotify](../../topics/spotify/index.md), [Tidal](../../topics/tidal/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Universal Music Group](../../topics/universal-music-group/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2017/04/20/death-prince-one-year-later-what-do-we-know/100180398/))
+
+----
+
+ - [**"Judge rejects claims by Prince divorce lawyer for $600,000"**](https://apnews.com/061fb04e9fcf448782e9b921b971eac9) in [Associated Press News](https://apnews.com/) on 11 April 2017 about [Carver County](../../topics/carver-county/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Patrick Cousins](../../topics/patrick-cousins/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/061fb04e9fcf448782e9b921b971eac9))
+
+----
+
+ - [**"No ‘tell-all,’ but Prince’s ex details their life in memoir"**](https://apnews.com/0c93c63651ef4f15adde78e51b38c197) by Leanne Italie (Associated Press) in [Associated Press News](https://apnews.com/) on 10 April 2017 about [Manuela Testolini](../../topics/manuela-testolini/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [memoir](../../topics/memoir/index.md), [The Most Beautiful (book)](../../topics/book/the-most-beautiful/index.md), [Vicodin](../../topics/vicodin/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/0c93c63651ef4f15adde78e51b38c197))
+
+----
+
+ - [**"Divorce file: Prince, 2nd wife lived luxurious lifestyle"**](https://apnews.com/d52610515904420ca116e820411aa344) in [Associated Press News](https://apnews.com/) on 13 January 2017 about [Manuela Testolini](../../topics/manuela-testolini/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/d52610515904420ca116e820411aa344))
+
+----
+
+ - [**"Judge orders Prince divorce file unsealed; ex-wife objected"**](https://apnews.com/75c476d27c0246fbbba2e908f2985acf) in [Associated Press News](https://apnews.com/) on 22 December 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [fentanyl](../../topics/fentanyl/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Omarr Baker](../../topics/omarr-baker/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/75c476d27c0246fbbba2e908f2985acf))
+
+----
+
+ - [**"Judge rules to unseal Prince's divorce records -- Ex-wife Manuela Testolini has 30 days to object to certain documents being made public."**](http://www.startribune.com/judge-rules-to-unseal-prince-s-divorce-records/390211731/) by Emma Nelson in [Minneapolis Star Tribune](http://www.startribune.com/) on 15 August 2016 about [Manuela Testolini](../../topics/manuela-testolini/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/judge-rules-to-unseal-prince-s-divorce-records/390211731/))
+
+----
+
+ - [**"Prince’s ex-wife wants to keep 2006 divorce records sealed"**](https://apnews.com/bf6e2876e5614884afb5e3775a127af3) in [Associated Press News](https://apnews.com/) on 4 August 2016 about [fentanyl](../../topics/fentanyl/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/bf6e2876e5614884afb5e3775a127af3))
+
+----
+
+ - [**"Prince's ex attends Minneapolis court hearing over newspaper's bid to unseal divorce file -- Attorneys for his second wife argued that details should remain private."**](http://www.startribune.com/prince-s-ex-attends-minneapolis-court-hearing-over-media-bid-to-unseal-divorce-file/389206661/) by Matt McKinney in [Minneapolis Star Tribune](http://www.startribune.com/) on 4 August 2016 about [Manuela Testolini](../../topics/manuela-testolini/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-ex-attends-minneapolis-court-hearing-over-media-bid-to-unseal-divorce-file/389206661/))
+
+----
+
+ - [**"Lawyers may have ‘potentially relevant’ info on Prince heirs"**](https://apnews.com/649c8b53a3514b54a7116f7f04641458) in [Associated Press News](https://apnews.com/) on 13 July 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [Henson & Efron](../../topics/henson-efron/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/649c8b53a3514b54a7116f7f04641458))
+
+----
+
+ - [**"Prince’s former wives issue messages of grief"**](https://apnews.com/e1248c7300a445e0a07e438cf492a4c4) by The Associated Press in [Associated Press News](https://apnews.com/) on 23 April 2016 about [In a Perfect World](../../topics/in-a-perfect-world/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/e1248c7300a445e0a07e438cf492a4c4))
+
+----
+
+ - [**"Prince’s Second Wife Seeks Divorce"**](https://apnews.com/c1fedc72849a886a891899e38f3a6ad2) in [Associated Press News](https://apnews.com/) on 27 July 2006 about [Manuela Testolini](../../topics/manuela-testolini/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Patrick Cousins](../../topics/patrick-cousins/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/c1fedc72849a886a891899e38f3a6ad2))
 
 ----
 

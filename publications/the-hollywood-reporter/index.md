@@ -1,10 +1,7 @@
 # The Hollywood Reporter
 
-  * 2019: 
-      [October](./the-hollywood-reporter-2019-10.md) (2) | 
-  * 2017: 
-      [July](./the-hollywood-reporter-2017-07.md) (1) | 
-
+  * [2019](./the-hollywood-reporter-2019.md/) (2)
+  * [2017](./the-hollywood-reporter-2017.md/) (1)
 ----
 
 [Home](../)

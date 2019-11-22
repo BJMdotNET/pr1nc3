@@ -1,18 +1,62 @@
 # University of Minnesota
 
-  * [2019](./university-of-minnesota-2019.md): 
-      November (1) | 
-      October (1) | 
-      May (1) | 
-      April (1) | 
-  * [2018](./university-of-minnesota-2018.md): 
-      September (5) | 
-      August (1) | 
-  * [2016](./university-of-minnesota-2016.md): 
-      December (1) | 
-      September (1) | 
-      May (2) | 
-      April (1) | 
+ - [**"New Power Generation To Perform At Bernie Sanders’ Minneapolis Rally"**](https://minnesota.cbslocal.com/2019/11/01/new-power-generation-to-perform-at-bernie-sanders-minneapolis-rally/) in [WCCO - CBS Minnesota](https://minnesota.cbslocal.com/) on 1 November 2019 about [New Power Generation](../../topics/new-power-generation/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md) ([mirror](https://web.archive.org/web/*/https://minnesota.cbslocal.com/2019/11/01/new-power-generation-to-perform-at-bernie-sanders-minneapolis-rally/))
+
+----
+
+ - [**"4 Generations Of Minnesota’s Peterson Family: A Hall Of Fame Musical Legacy"**](https://minnesota.cbslocal.com/2019/10/27/4-generations-of-minnesotas-peterson-family-a-hall-of-fame-musical-legacy/) in [WCCO - CBS Minnesota](https://minnesota.cbslocal.com/) on 27 October 2019 about [Fleetwood Mac](../../topics/fleetwood-mac/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [The Family](../../topics/the-family/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md) ([mirror](https://web.archive.org/web/*/https://minnesota.cbslocal.com/2019/10/27/4-generations-of-minnesotas-peterson-family-a-hall-of-fame-musical-legacy/))
+
+----
+
+ - [**"Susan Rogers -- The future is a big place and you can't see it all from here"**](https://wepresent.wetransfer.com/story/susan-rogers/) in [WePresent](https://wepresent.wetransfer.com/) on 24 May 2019 about [James Brown](../../topics/james-brown/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://wepresent.wetransfer.com/story/susan-rogers/))
+
+----
+
+ - [**"Prince died three years ago, his estate is still unsettled: Here's why"**](https://usatoday.com/story/life/2019/04/18/prince-died-3-years-ago-his-estate-still-unsettled-heres-why/3344038002/) in [USA Today](https://usatoday.com/) on 21 April 2019 about [Alfred Jackson](../../topics/alfred-jackson/index.md), [auction](../../topics/auction/index.md), [Bremer Trust](../../topics/bremer-trust/index.md), [Caribbean](../../topics/caribbean/index.md), [Carver County](../../topics/carver-county/index.md), [Celebration 2019](../../topics/celebration-2019/index.md), [Comerica Bank & Trust](../../topics/comerica-bank-trust/index.md), [exhibition](../../topics/exhibition/index.md), [fentanyl](../../topics/fentanyl/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [Joel Weinshanker](../../topics/joel-weinshanker/index.md), [John Nelson](../../topics/john-nelson/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Legacy Recordings](../../topics/legacy-recordings/index.md), [merchandise](../../topics/merchandise/index.md), [museum](../../topics/museum/index.md), [My Name Is Prince (exhibition)](../../topics/exhibition/my-name-is-prince/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Prince Anthology: 1995-2010 (album)](../../topics/album/prince-anthology-1995-2010/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Prince: In Concert On The Big Screen](../../topics/prince-in-concert-on-the-big-screen/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Turks and Caicos](../../topics/turks-and-caicos/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/2019/04/18/prince-died-3-years-ago-his-estate-still-unsettled-heres-why/3344038002/))
+
+----
+
+ - [**"Thanks to a University of Minnesota degree, his name is ‘Dr. Prince’ now"**](https://apnews.com/38a03f35b393465ba72fa83d6841b3a3) in [Associated Press News](https://apnews.com/) on 27 September 2018 about [Central High](../../topics/central-high/index.md), [Cloud guitar](../../topics/cloud-guitar/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [museum](../../topics/museum/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Paul Peterson](../../topics/paul-peterson/index.md), [St. Paul Peterson](../../topics/st-paul-peterson/index.md), [Tommy Barbarella](../../topics/tommy-barbarella/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/38a03f35b393465ba72fa83d6841b3a3))
+
+----
+
+ - [**"Prince receives honorary degree from University of Minnesota -- Prince received an honorary degree from the University of Minnesota's school of music on Wednesday, Sept 26, 2018 at the Ted Mann Concert Hall in Minneapolis, Minn."**](http://www.startribune.com/prince-receives-honorary-degree-from-university-of-minnesota/494452521/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 September 2018 about [honorary degree](../../topics/honorary-degree/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-receives-honorary-degree-from-university-of-minnesota/494452521/))
+
+----
+
+ - [**"Thanks to a University of Minnesota degree, his name is 'Dr. Prince' now"**](http://www.startribune.com/thanks-to-a-university-of-minnesota-degree-his-name-is-dr-prince-now/494454901/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 September 2018 about [University of Minnesota](../../topics/university-of-minnesota/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/thanks-to-a-university-of-minnesota-degree-his-name-is-dr-prince-now/494454901/))
+
+----
+
+ - [**"University of Minnesota awards honorary degree to Prince"**](http://www.startribune.com/university-of-minnesota-awarding-honorary-degree-to-prince/494377981/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 September 2018 about [honorary degree](../../topics/honorary-degree/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/university-of-minnesota-awarding-honorary-degree-to-prince/494377981/))
+
+----
+
+ - [**"University of Minnesota confers honorary degree to Prince"**](http://video.startribune.com/university-of-minnesota-confers-honorary-degree-to-prince/494449581/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 September 2018 about [honorary degree](../../topics/honorary-degree/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md) ([mirror](https://web.archive.org/web/*/http://video.startribune.com/university-of-minnesota-confers-honorary-degree-to-prince/494449581/))
+
+----
+
+ - [**"Prince to receive honorary degree from University of Minnesota"**](http://www.startribune.com/prince-to-receive-honorary-degree-from-university-of-minnesota-on-sept-26/490762631/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 13 August 2018 about [honorary degree](../../topics/honorary-degree/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-to-receive-honorary-degree-from-university-of-minnesota-on-sept-26/490762631/))
+
+----
+
+ - [**"Susan Rogers - 2016 Red Bull Music Academy lecture"**](https://www.redbullmusicacademy.com/lectures/susan-rogers-lecture) in [Red Bull Music Academy](https://www.redbullmusicacademy.com/) on 8 December 2016 about [17 Days (song)](../../topics/song/17-days/index.md), [Academy Award](../../topics/academy-award/index.md), [Anita Baker](../../topics/anita-baker/index.md), [Bernie Grundman](../../topics/bernie-grundman/index.md), [bootleg](../../topics/bootleg/index.md), [Condition of the Heart (song)](../../topics/song/condition-of-the-heart/index.md), [contract](../../topics/contract/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Grammy Award](../../topics/grammy-award/index.md), [James Brown](../../topics/james-brown/index.md), [Jesse Johnson](../../topics/jesse-johnson/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Kate Bush](../../topics/kate-bush/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Pop Life (song)](../../topics/song/pop-life/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [The Ballad Of Dorothy Parker (song)](../../topics/song/the-ballad-of-dorothy-parker/index.md), [The Revolution](../../topics/the-revolution/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md) ([mirror](https://web.archive.org/web/*/https://www.redbullmusicacademy.com/lectures/susan-rogers-lecture))
+
+----
+
+ - [**"The Power — and Piousness — and Frustration — and Sorrow — of One -- How Cheryl Johnson became C.J., the most infamous journalist in Minnesota"**](https://www.minnesotamonthly.com/lifestyle/the-power-and-piousness-and-frustration-and-sorrow-of-one/) in [Minnesota Monthly](https://www.minnesotamonthly.com/) on 8 September 2016 about [auction](../../topics/auction/index.md), [C.J.](../../topics/c-j/index.md), [Colleen (song)](../../topics/song/colleen/index.md), [contract](../../topics/contract/index.md), [exhibit](../../topics/exhibit/index.md), [Minnesota Timberwolves](../../topics/minnesota-timberwolves/index.md), [Obama](../../topics/obama/index.md), [State Fair](../../topics/state-fair/index.md), [Timberwolves](../../topics/timberwolves/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md) ([mirror](https://web.archive.org/web/*/https://www.minnesotamonthly.com/lifestyle/the-power-and-piousness-and-frustration-and-sorrow-of-one/))
+
+----
+
+ - [**"'We lost a spiritual brother' in Prince -- A low-profile member in life, the star draws attention to Jehovah's Witnesses after death."**](http://www.startribune.com/prince-s-death-puts-spotlight-on-jehovah-s-witnesses/377972981/) by Jean Hopfensperger in [Minneapolis Star Tribune](http://www.startribune.com/) on 4 May 2016 about [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [Larry Graham](../../topics/larry-graham/index.md), [St. Louis Park (place)](../../topics/place/st-louis-park/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-death-puts-spotlight-on-jehovah-s-witnesses/377972981/))
+
+----
+
+ - [**"Prince siblings in probate court in 1st hearing on estate"**](https://apnews.com/881e8ee95c4745da831b027fa9d9c93b) in [Associated Press News](https://apnews.com/) on 2 May 2016 about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [John Nelson](../../topics/john-nelson/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/881e8ee95c4745da831b027fa9d9c93b))
+
+----
+
+ - [**"Prince’s sister says musician had no known will"**](https://apnews.com/b7bcc90e42904f679c07158bf5e851a3) in [Associated Press News](https://apnews.com/) on 27 April 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/b7bcc90e42904f679c07158bf5e851a3))
 
 ----
 

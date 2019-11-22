@@ -1,8 +1,6 @@
 # Afropunk
 
-  * 2018: 
-      [May](./afropunk-2018-05.md) (1) | 
-
+  * [2018](./afropunk-2018.md/) (1)
 ----
 
 [Home](../)

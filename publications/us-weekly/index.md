@@ -1,8 +1,6 @@
 # US Weekly
 
-  * 2016: 
-      [April](./us-weekly-2016-04.md) (1) | 
-
+  * [2016](./us-weekly-2016.md/) (1)
 ----
 
 [Home](../)

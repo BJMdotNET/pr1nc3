@@ -1,8 +1,6 @@
 # Stereogum
 
-  * 2019: 
-      [September](./stereogum-2019-09.md) (1) | 
-
+  * [2019](./stereogum-2019.md/) (1)
 ----
 
 [Home](../)

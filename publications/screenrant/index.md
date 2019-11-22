@@ -1,8 +1,6 @@
 # ScreenRant
 
-  * 2019: 
-      [July](./screenrant-2019-07.md) (1) | 
-
+  * [2019](./screenrant-2019.md/) (1)
 ----
 
 [Home](../)

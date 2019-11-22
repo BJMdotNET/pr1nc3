@@ -1,5 +1,9 @@
 # Paisley Park Studios (place)
 
+ - [**"Beck Talks The Time Prince Whispered His Name"**](https://www.rollingstone.com/music/music-news/beck-apple-music-915828/) in [Rolling Stone](https://www.rollingstone.com/) on 21 November 2019 about [Apple Music](../../../topics/apple-music/index.md), [Beck](../../../topics/beck/index.md), [Paisley Park Studios (place)](../../../topics/place/paisley-park-studios/index.md), [The Beautiful Ones (song)](../../../topics/song/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-news/beck-apple-music-915828/))
+
+----
+
  - [**"Watch Beck Perform Prince Medley at Paisley Park Studios -- Musician also shares clips for “Where It’s At,” “Up All Night” from new Paisley Park Sessions EP"**](https://www.rollingstone.com/music/music-news/beck-prince-medley-paisley-park-studios-video-914156/) in [Rolling Stone](https://www.rollingstone.com/) on 18 November 2019 about [Beck](../../../topics/beck/index.md), [Paisley Park Studios (place)](../../../topics/place/paisley-park-studios/index.md), [Raspberry Beret (song)](../../../topics/song/raspberry-beret/index.md), [The Paisley Park Sessions (EP)](../../../topics/ep/the-paisley-park-sessions/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-news/beck-prince-medley-paisley-park-studios-video-914156/))
 
 ----

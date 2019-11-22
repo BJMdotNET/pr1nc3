@@ -1,5 +1,9 @@
 # The Roots
 
+ - [**"11 anticipated music books this fall"**](https://www.latimes.com/entertainment-arts/books/story/2019-09-13/la-ca-jc-music-books-fall-2019) in [Los Angeles Times](https://www.latimes.com/) on 13 September 2019 about [Fred Armisen](../../topics/fred-armisen/index.md), [memoir](../../topics/memoir/index.md), [Questlove](../../topics/questlove/index.md), [Spotify](../../topics/spotify/index.md), [The Roots](../../topics/the-roots/index.md) ([mirror](https://web.archive.org/web/*/https://www.latimes.com/entertainment-arts/books/story/2019-09-13/la-ca-jc-music-books-fall-2019))
+
+----
+
  - [**"From Neil to J. Lo: The 10 greatest Twin Cities concerts of 2019 (so far) -- Here are the performers who thrilled us."**](http://www.startribune.com/from-neil-to-j-lo-the-10-greatest-twin-cities-concerts-of-2019-so-far/512907922/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 July 2019 about [The Roots](../../topics/the-roots/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/from-neil-to-j-lo-the-10-greatest-twin-cities-concerts-of-2019-so-far/512907922/))
 
 ----

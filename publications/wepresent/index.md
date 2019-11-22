@@ -1,8 +1,6 @@
 # WePresent
 
-  * 2019: 
-      [May](./wepresent-2019-05.md) (1) | 
-
+  * [2019](./wepresent-2019.md/) (1)
 ----
 
 [Home](../)

@@ -1,8 +1,6 @@
 # Zapproved
 
-  * 2019: 
-      [August](./zapproved-2019-08.md) (1) | 
-
+  * [2019](./zapproved-2019.md/) (1)
 ----
 
 [Home](../)

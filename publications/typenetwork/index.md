@@ -1,8 +1,6 @@
 # TypeNetwork
 
-  * 2017: 
-      [August](./typenetwork-2017-08.md) (1) | 
-
+  * [2017](./typenetwork-2017.md/) (1)
 ----
 
 [Home](../)
