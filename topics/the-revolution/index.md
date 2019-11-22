@@ -1,7 +1,7 @@
 # The Revolution
 
   * [2019](./the-revolution-2019.md): 
-      November (2) | 
+      November (4) | 
       October (6) | 
       September (5) | 
       August (1) | 

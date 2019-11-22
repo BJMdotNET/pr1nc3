@@ -2,7 +2,7 @@
 
   * [2019](./vault-2019.md): 
       November (8) | 
-      October (28) | 
+      October (29) | 
       September (20) | 
       August (1) | 
       June (9) | 

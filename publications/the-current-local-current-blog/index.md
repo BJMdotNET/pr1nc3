@@ -1,6 +1,7 @@
 # The Current - Local Current Blog
 
   * 2019: 
+      [November](./the-current-local-current-blog-2019-11.md) (1) | 
       [September](./the-current-local-current-blog-2019-09.md) (4) | 
       [August](./the-current-local-current-blog-2019-08.md) (5) | 
       [July](./the-current-local-current-blog-2019-07.md) (1) | 

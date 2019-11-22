@@ -1,5 +1,9 @@
 # Jerome Benton
 
+ - [**"What Time is it? Listen to 25 Hours of The Time on Purple Current"**](https://www.thecurrent.org/feature/2018/11/01/what-time-is-it-listen-to-25-hours-of-the-time-on-purple-current) in [The Current](https://www.thecurrent.org/) on 1 November 2019 about [Jerome Benton](../../topics/jerome-benton/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Bird (song)](../../topics/song/the-bird/index.md), [The Time](../../topics/the-time/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md) ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2018/11/01/what-time-is-it-listen-to-25-hours-of-the-time-on-purple-current))
+
+----
+
  - [**"If You Love Prince, Then You Need To Go To The Purple Paisley Brunch"**](https://madamenoire.com/1106415/purple-paisley-brunch-prince/) in [madamenoire.com](https://madamenoire.com/) on 12 October 2019 about [Jerome Benton](../../topics/jerome-benton/index.md), [PRN Alumni Foundation](../../topics/prn-alumni-foundation/index.md) ([mirror](https://web.archive.org/web/*/https://madamenoire.com/1106415/purple-paisley-brunch-prince/))
 
 ----

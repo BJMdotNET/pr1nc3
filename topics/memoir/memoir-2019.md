@@ -42,6 +42,10 @@
 
 ----
 
+ - [**"Prince reportedly died and was resuscitated a week before his fatal overdose -- Cousin of the talented musician believes that 'somebody was hiding something' and being dishonest about his health"**](https://thegrio.com/2019/11/13/prince-died-resuscitated-overdose/) in [thegrio.com](https://thegrio.com/) on 13 November 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://thegrio.com/2019/11/13/prince-died-resuscitated-overdose/))
+
+----
+
  - [**"Fresh Air Weekend: Prince's Co-Writer; 'Mr. Robot' Creator Sam Esmail"**](https://www.npr.org/2019/11/02/775377534/fresh-air-weekend-princes-co-writer-mr-robot-creator-sam-esmail) in [National Public Radio](https://www.npr.org/) on 4 November 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.npr.org/2019/11/02/775377534/fresh-air-weekend-princes-co-writer-mr-robot-creator-sam-esmail))
 
 ----
@@ -172,6 +176,10 @@
 
 ----
 
+ - [**"Prince's Book Agent Reveals an Unconventional Path to 'Beautiful Ones'"**](https://www.billboard.com/articles/columns/rock/8541301/prince-book-agent-talks-beautiful-ones-memoir) in [Billboard](https://www.billboard.com/) on 29 October 2019 about [contract](../../topics/contract/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Esther Newberg](../../topics/esther-newberg/index.md), [memoir](../../topics/memoir/index.md), [Random House ](../../topics/random-house/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/columns/rock/8541301/prince-book-agent-talks-beautiful-ones-memoir))
+
+----
+
  - [**"Tamron Hall Opens Up About Selfie That Became Cover Art for Prince's 'If Eye Could Get Ur Attention' -- The talk show host also revealed an email that Prince sent her about the outfit"**](https://people.com/tv/tamron-hall-selfie-cover-art-prince-if-eye-could-get-ur-attention/) in [People](https://people.com/) on 29 October 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [Tamron Hall](../../topics/tamron-hall/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://people.com/tv/tamron-hall-selfie-cover-art-prince-if-eye-could-get-ur-attention/))
 
 ----
@@ -253,6 +261,10 @@
 ----
 
  - [**"Prince's anticipated, posthumous memoir is ready for fans"**](http://www.startribune.com/prince-s-anticipated-posthumous-memoir-is-ready-for-fans/563912692/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 October 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [memoir](../../topics/memoir/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-anticipated-posthumous-memoir-is-ready-for-fans/563912692/))
+
+----
+
+ - [**"Prince's Posthumous Memoir 'The Beautiful Ones' Is Ready for Fans"**](https://www.billboard.com/articles/news/8540792/prince-posthumous-memoir-the-beautiful-ones-is-ready-for-fans) in [Billboard](https://www.billboard.com/) on 26 October 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [memoir](../../topics/memoir/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8540792/prince-posthumous-memoir-the-beautiful-ones-is-ready-for-fans))
 
 ----
 

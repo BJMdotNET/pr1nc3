@@ -4,6 +4,14 @@
 
 ----
 
+ - [**"Prince's Book Agent Reveals an Unconventional Path to 'Beautiful Ones'"**](https://www.billboard.com/articles/columns/rock/8541301/prince-book-agent-talks-beautiful-ones-memoir) in [Billboard](https://www.billboard.com/) on 29 October 2019 about [contract](../../topics/contract/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Esther Newberg](../../topics/esther-newberg/index.md), [memoir](../../topics/memoir/index.md), [Random House ](../../topics/random-house/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/columns/rock/8541301/prince-book-agent-talks-beautiful-ones-memoir))
+
+----
+
+ - [**"Prince's Posthumous Memoir 'The Beautiful Ones' Is Ready for Fans"**](https://www.billboard.com/articles/news/8540792/prince-posthumous-memoir-the-beautiful-ones-is-ready-for-fans) in [Billboard](https://www.billboard.com/) on 26 October 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [memoir](../../topics/memoir/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8540792/prince-posthumous-memoir-the-beautiful-ones-is-ready-for-fans))
+
+----
+
  - [**"Prince Estate Drops Stripped-Down 'I Feel For You' Acoustic Demo: Listen"**](https://www.billboard.com/articles/news/8533600/prince-estate-warner-records-drops-stripped-down-i-feel-for-you-acoustic-demo-listen) in [Billboard](https://www.billboard.com/) on 20 October 2019 about [Chaka Khan](../../topics/chaka-khan/index.md), [For You (album)](../../topics/album/for-you/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Michael Howe](../../topics/michael-howe/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8533600/prince-estate-warner-records-drops-stripped-down-i-feel-for-you-acoustic-demo-listen))
 
 ----

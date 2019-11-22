@@ -10,6 +10,10 @@
 
 ----
 
+ - [**"Today in Music History: Prince and the Revolution debut"**](https://www.thecurrent.org/feature/2019/10/28/today-in-music-history-prince-and-the-revolution-debut) in [The Current](https://www.thecurrent.org/) on 4 November 2019 about [Grammy Award](../../topics/grammy-award/index.md), [Purple Rain (tour)](../../topics/tour/purple-rain/index.md), [The Revolution](../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/10/28/today-in-music-history-prince-and-the-revolution-debut))
+
+----
+
 ## October 2019
 
  - [**"Trois ans après sa mort, des mémoires éclairent la personnalité du grand Prince -- Maître du funk, génie musical, visionnaire, tous ces descriptifs viennent à la bouche en parlant de Prince."**](https://www.crooner.fr/2019/10/31/trois-ans-apres-sa-mort-des-memoires-eclairent-la-personnalite-du-grand-prince/) in [www.crooner.fr](https://www.crooner.fr/) on 31 October 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Grammy Award](../../topics/grammy-award/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [The Revolution](../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/https://www.crooner.fr/2019/10/31/trois-ans-apres-sa-mort-des-memoires-eclairent-la-personnalite-du-grand-prince/))

@@ -1,6 +1,7 @@
 # Susan Rogers
 
   * [2019](./susan-rogers-2019.md): 
+      November (1) | 
       September (1) | 
       July (1) | 
       June (5) | 

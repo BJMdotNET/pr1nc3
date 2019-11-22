@@ -1,7 +1,7 @@
 # Dez Dickerson
 
   * [2019](./dez-dickerson-2019.md): 
-      November (2) | 
+      November (3) | 
       September (2) | 
       August (2) | 
   * [2018](./dez-dickerson-2018.md): 

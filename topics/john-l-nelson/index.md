@@ -2,7 +2,7 @@
 
   * [2019](./john-l-nelson-2019.md): 
       November (1) | 
-      October (4) | 
+      October (5) | 
       September (1) | 
       August (2) | 
       July (1) | 

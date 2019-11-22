@@ -1,6 +1,7 @@
 # Terry Lewis
 
   * [2019](./terry-lewis-2019.md): 
+      November (2) | 
       October (5) | 
       September (1) | 
       July (3) | 

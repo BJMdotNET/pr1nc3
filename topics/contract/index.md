@@ -2,7 +2,7 @@
 
   * [2019](./contract-2019.md): 
       November (3) | 
-      October (6) | 
+      October (7) | 
       September (5) | 
       August (7) | 
       July (4) | 

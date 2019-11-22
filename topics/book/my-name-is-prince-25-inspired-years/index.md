@@ -1,5 +1,9 @@
 # My Name Is Prince: 25 Inspired Years (book)
 
+ - [**"Prince Photographer Randee St. Nicholas Shares 25 Years of Stories"**](https://www.rollingstone.com/music/music-pictures/prince-photographer-randee-st-nicholas-photo-book-914562/) in [Rolling Stone](https://www.rollingstone.com/) on 20 November 2019 about [My Name Is Prince: 25 Inspired Years (book)](../../../topics/book/my-name-is-prince-25-inspired-years/index.md), [Randee St. Nicholas](../../../topics/randee-st-nicholas/index.md) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-pictures/prince-photographer-randee-st-nicholas-photo-book-914562/))
+
+----
+
  - [**"How The Massive New Prince Photo Book Came Together"**](https://www.billboard.com/articles/news/8541575/prince-photo-book-details-randee-st-nicholas-interview) in [Billboard](https://www.billboard.com/) on 1 November 2019 about [memoir](../../../topics/memoir/index.md), [My Name Is Prince: 25 Inspired Years (book)](../../../topics/book/my-name-is-prince-25-inspired-years/index.md), [Randee St. Nicholas](../../../topics/randee-st-nicholas/index.md) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8541575/prince-photo-book-details-randee-st-nicholas-interview))
 
 ----

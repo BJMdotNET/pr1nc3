@@ -1,5 +1,15 @@
 # The Time: 2019
 
+## November 2019
+
+ - [**"Today in Music History: Prince begins his 'Controversy' tour"**](https://www.thecurrent.org/feature/2019/11/15/today-in-music-history-prince-begins-his-controversy-tour) in [The Current](https://www.thecurrent.org/) on 20 November 2019 about [Controversy (album)](../../topics/album/controversy/index.md), [Controversy (tour)](../../topics/tour/controversy/index.md), [Dirty Mind (album)](../../topics/album/dirty-mind/index.md), [The Time](../../topics/the-time/index.md) ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/11/15/today-in-music-history-prince-begins-his-controversy-tour))
+
+----
+
+ - [**"What Time is it? Listen to 25 Hours of The Time on Purple Current"**](https://www.thecurrent.org/feature/2018/11/01/what-time-is-it-listen-to-25-hours-of-the-time-on-purple-current) in [The Current](https://www.thecurrent.org/) on 1 November 2019 about [Jerome Benton](../../topics/jerome-benton/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Bird (song)](../../topics/song/the-bird/index.md), [The Time](../../topics/the-time/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md) ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2018/11/01/what-time-is-it-listen-to-25-hours-of-the-time-on-purple-current))
+
+----
+
 ## October 2019
 
  - [**"Recensie: Prince - The Beautiful Ones"**](https://writteninmusic.com/boekrecensie/prince-the-beautiful-ones/) in [writteninmusic.com](https://writteninmusic.com/) on 31 October 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [The Time](../../topics/the-time/index.md), [Vanity](../../topics/vanity/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://writteninmusic.com/boekrecensie/prince-the-beautiful-ones/))
@@ -112,7 +122,7 @@
 
 ----
 
- - [**"Inside The Recording Of Prince's Originals Album"**](https://www.ilikeyouroldstuff.com/news/inside-the-recording-of-prince-originals-album-peggy-mccreary) in [I Like Your Old Stuff](https://www.ilikeyouroldstuff.com/) on 21 June 2019 about [Alan Leeds](../../topics/alan-leeds/index.md), [Apollonia 6](../../topics/apollonia-6/index.md), [Bangles](../../topics/bangles/index.md), [Martika](../../topics/martika/index.md), [Originals (album)](../../topics/album/originals/index.md), [Peggy McCreary](../../topics/peggy-mccreary/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [The Family](../../topics/the-family/index.md), [The Time](../../topics/the-time/index.md) ([mirror](https://web.archive.org/web/*/https://www.ilikeyouroldstuff.com/news/inside-the-recording-of-prince-originals-album-peggy-mccreary))
+ - [**"Inside The Recording Of Prince's Originals Album"**](https://www.ilikeyouroldstuff.com/news/inside-the-recording-of-prince-originals-album-peggy-mccreary) in [I Like Your Old Stuff](https://www.ilikeyouroldstuff.com/) on 21 June 2019 about [Alan Leeds](../../topics/alan-leeds/index.md), [Apollonia 6](../../topics/apollonia-6/index.md), [Bangles](../../topics/bangles/index.md), [cough drops](../../topics/cough-drops/index.md), [Martika](../../topics/martika/index.md), [Originals (album)](../../topics/album/originals/index.md), [Peggy McCreary](../../topics/peggy-mccreary/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [The Family](../../topics/the-family/index.md), [The Time](../../topics/the-time/index.md) ([mirror](https://web.archive.org/web/*/https://www.ilikeyouroldstuff.com/news/inside-the-recording-of-prince-originals-album-peggy-mccreary))
 
 ----
 

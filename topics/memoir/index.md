@@ -1,8 +1,8 @@
 # memoir
 
   * [2019](./memoir-2019.md): 
-      November (23) | 
-      October (55) | 
+      November (24) | 
+      October (57) | 
       September (7) | 
       August (5) | 
       May (1) | 

@@ -80,6 +80,7 @@
   * [Glen Stubbe](./glen-stubbe/) (1)
   * [Going Out Guide staff](./going-out-guide-staff/) (1)
   * [Graeme Watson](./graeme-watson/) (1)
+  * [Greg Kot](./greg-kot/) (1)
   * [Jackie Crosby](./jackie-crosby/) (1)
   * [James Eli Shiffer](./james-eli-shiffer/) (1)
   * [Jean Hopfensperger](./jean-hopfensperger/) (2)

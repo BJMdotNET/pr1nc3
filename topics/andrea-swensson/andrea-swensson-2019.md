@@ -6,6 +6,10 @@
 
 ----
 
+ - [**"Wee Willie Walker, Minnesota soul legend, dies at 77"**](https://blog.thecurrent.org/2019/11/wee-willie-walker-minneapolis-soul-legend-dies-at-77/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 19 November 2019 about [Andrea Swensson](../../topics/andrea-swensson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md) ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2019/11/wee-willie-walker-minneapolis-soul-legend-dies-at-77/))
+
+----
+
 ## October 2019
 
  - [**"Rock and Roll Book Club: Prince's memoir 'The Beautiful Ones'"**](https://www.thecurrent.org/feature/2019/10/25/prince-beautiful-ones-book-review) in [The Current](https://www.thecurrent.org/) on 27 October 2019 about [Andrea Swensson](../../topics/andrea-swensson/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Jamie Starr](../../topics/jamie-starr/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [Vanity](../../topics/vanity/index.md), [vault](../../topics/vault/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/10/25/prince-beautiful-ones-book-review))
