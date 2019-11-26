@@ -1,5 +1,9 @@
 # Bangles
 
+ - [**"How '1999' made Prince a star: 'This album was the turning point' -- An expanded reissue of Prince's breakthrough album shows how prolific he was in the early '80s."**](http://www.startribune.com/how-1999-made-prince-a-star-this-album-was-the-turning-point/565432932/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 November 2019 about [1999 (album)](../../topics/album/1999/index.md), [Bangles](../../topics/bangles/index.md), [Bobby Z.](../../topics/bobby-z/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [James Brown](../../topics/james-brown/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [memoir](../../topics/memoir/index.md), [The Revolution](../../topics/the-revolution/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/how-1999-made-prince-a-star-this-album-was-the-turning-point/565432932/))
+
+----
+
  - [**"New Music From Andreas Dorau, Opal"**](http://www.chattanoogapulse.com/music/music-review/new-music-from-andreas-dorau-opal/) in [www.chattanoogapulse.com](http://www.chattanoogapulse.com/) on 13 November 2019 about [Bangles](../../topics/bangles/index.md), [YouTube](../../topics/youtube/index.md) ([mirror](https://web.archive.org/web/*/http://www.chattanoogapulse.com/music/music-review/new-music-from-andreas-dorau-opal/))
 
 ----

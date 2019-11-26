@@ -1,5 +1,9 @@
 # Beck
 
+ - [**"Album of the Week: Beck, 'Hyperspace'"**](https://www.thecurrent.org/feature/2019/11/20/interview-beck-on-paisley-park-and-hyperspace) in [The Current](https://www.thecurrent.org/) on 26 November 2019 about [Beck](../../topics/beck/index.md), [Graceland](../../topics/graceland/index.md) ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/11/20/interview-beck-on-paisley-park-and-hyperspace))
+
+----
+
  - [**"Beck Talks The Time Prince Whispered His Name"**](https://www.rollingstone.com/music/music-news/beck-apple-music-915828/) in [Rolling Stone](https://www.rollingstone.com/) on 21 November 2019 about [Apple Music](../../topics/apple-music/index.md), [Beck](../../topics/beck/index.md), [Paisley Park Studios (place)](../../topics/place/paisley-park-studios/index.md), [The Beautiful Ones (song)](../../topics/song/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-news/beck-apple-music-915828/))
 
 ----

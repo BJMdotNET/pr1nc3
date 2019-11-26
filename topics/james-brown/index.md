@@ -1,5 +1,9 @@
 # James Brown
 
+ - [**"How '1999' made Prince a star: 'This album was the turning point' -- An expanded reissue of Prince's breakthrough album shows how prolific he was in the early '80s."**](http://www.startribune.com/how-1999-made-prince-a-star-this-album-was-the-turning-point/565432932/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 November 2019 about [1999 (album)](../../topics/album/1999/index.md), [Bangles](../../topics/bangles/index.md), [Bobby Z.](../../topics/bobby-z/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [James Brown](../../topics/james-brown/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [memoir](../../topics/memoir/index.md), [The Revolution](../../topics/the-revolution/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/how-1999-made-prince-a-star-this-album-was-the-turning-point/565432932/))
+
+----
+
  - [**"IN REVIEW: A treasure recounted in Prince’s new memoir"**](https://www.theprospectordaily.com/2019/11/19/in-review-a-treasure-recounted-in-princes-new-memoir/) in [www.theprospectordaily.com](https://www.theprospectordaily.com/) on 19 November 2019 about [contract](../../topics/contract/index.md), [James Brown](../../topics/james-brown/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.theprospectordaily.com/2019/11/19/in-review-a-treasure-recounted-in-princes-new-memoir/))
 
 ----
