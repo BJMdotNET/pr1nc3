@@ -1,6 +1,10 @@
 # 2019
 
-## November 2019 (3)
+## November 2019 (4)
+
+ - [**"Prince's '1999': 10 Best Bonus Songs on the Super Deluxe Edition"**](https://www.billboard.com/articles/news/8544912/prince-1999-reissue-best-moments) in [Billboard](https://www.billboard.com/) on 27 November 2019 about [1999 (album)](../../topics/album/1999/index.md), [Bold Generation (song)](../../topics/song/bold-generation/index.md), [Can’t Stop This Feeling I Got (song)](../../topics/song/can-t-stop-this-feeling-i-got/index.md), [Do Yourself a Favor (song)](../../topics/song/do-yourself-a-favor/index.md), [Graffiti Bridge (album)](../../topics/album/graffiti-bridge/index.md), [How Come U Don’t Call Me Anymore? (song)](../../topics/song/how-come-u-don-t-call-me-anymore/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [New Power Generation (song)](../../topics/song/new-power-generation/index.md), [Purple Music (song)](../../topics/song/purple-music/index.md), [Rearrange (song)](../../topics/song/rearrange/index.md), [Vagina (song)](../../topics/song/vagina/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8544912/prince-1999-reissue-best-moments))
+
+----
 
  - [**"Listen to Prince's Super Funky '1999' Remaster Outtake 'Don't Let Him Fool Ya'"**](https://www.billboard.com/articles/columns/pop/8543094/prince-1999-remaster-outtake-dont-let-him-fool-ya) in [Billboard](https://www.billboard.com/) on 8 November 2019 about [Don't Let Him Fool Ya (song)](../../topics/song/don-t-let-him-fool-ya/index.md) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/columns/pop/8543094/prince-1999-remaster-outtake-dont-let-him-fool-ya))
 

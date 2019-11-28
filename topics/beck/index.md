@@ -1,5 +1,9 @@
 # Beck
 
+ - [**"Een superdeluxe Prince, Coldplay op zijn klefst en sterkst, en persoonlijke indiepop: dit zijn de platen van de week"**](https://www.demorgen.be/tv-cultuur/een-superdeluxe-prince-coldplay-op-zijn-klefst-en-sterkst-en-persoonlijke-indiepop-dit-zijn-de-platen-van-de-week~bd6fe98d/) in [De Morgen](https://www.demorgen.be/) on 28 November 2019 about [1999 (album)](../../topics/album/1999/index.md), [Beck](../../topics/beck/index.md), [Bold Generation (song)](../../topics/song/bold-generation/index.md), [Colleen (song)](../../topics/song/colleen/index.md), [New Power Generation (song)](../../topics/song/new-power-generation/index.md), [Possessed (song)](../../topics/song/possessed/index.md), [Purple Music (song)](../../topics/song/purple-music/index.md), [Rearrange (song)](../../topics/song/rearrange/index.md), [Vagina (song)](../../topics/song/vagina/index.md), [You’re All I Want (song)](../../topics/song/you-re-all-i-want/index.md) ([mirror](https://web.archive.org/web/*/https://www.demorgen.be/tv-cultuur/een-superdeluxe-prince-coldplay-op-zijn-klefst-en-sterkst-en-persoonlijke-indiepop-dit-zijn-de-platen-van-de-week~bd6fe98d/))
+
+----
+
  - [**"Album of the Week: Beck, 'Hyperspace'"**](https://www.thecurrent.org/feature/2019/11/20/interview-beck-on-paisley-park-and-hyperspace) in [The Current](https://www.thecurrent.org/) on 26 November 2019 about [Beck](../../topics/beck/index.md), [Graceland](../../topics/graceland/index.md) ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/11/20/interview-beck-on-paisley-park-and-hyperspace))
 
 ----

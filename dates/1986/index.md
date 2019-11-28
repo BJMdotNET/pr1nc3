@@ -6,13 +6,17 @@
 
 ----
 
-## July 1986 (2)
+## July 1986 (3)
 
  - [**"″His Royal Badness” Rocks Sheridan"**](https://apnews.com/485767a7a9734b8abcd31a5d36f3ffa1) in [Associated Press News](https://apnews.com/) on 2 July 1986 about [Academy Award](../../topics/academy-award/index.md), [Grammy Award](../../topics/grammy-award/index.md), [Jerome Benton](../../topics/jerome-benton/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Lisa Barber](../../topics/lisa-barber/index.md), [Mazarati](../../topics/mazarati/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/485767a7a9734b8abcd31a5d36f3ffa1))
 
 ----
 
  - [**"People In The News"**](https://apnews.com/a54722baa9192b6b063a98d9a77d403b) in [Associated Press News](https://apnews.com/) on 2 July 1986 about [Academy Award](../../topics/academy-award/index.md), [Lisa Barber](../../topics/lisa-barber/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/a54722baa9192b6b063a98d9a77d403b))
+
+----
+
+ - [**"Prince: Our 1986 Cover Story -- A stranger in a strange land, Prince set out to create his own magical kingdom, where all he needs is your—kiss."**](https://www.spin.com/featured/prince-july-1986-cover-story-black-narcissus/) in [Spin](https://www.spin.com/) on 1 July 1986 about [I Wanna Be Your Lover (song)](../../topics/song/i-wanna-be-your-lover/index.md), [James Brown](../../topics/james-brown/index.md), [Jamie Starr](../../topics/jamie-starr/index.md), [Morris Day](../../topics/morris-day/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Vanity](../../topics/vanity/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://www.spin.com/featured/prince-july-1986-cover-story-black-narcissus/))
 
 ----
 

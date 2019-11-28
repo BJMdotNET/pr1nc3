@@ -104,6 +104,10 @@
 
 ----
 
+ - [**"Prince: Our 1986 Cover Story -- A stranger in a strange land, Prince set out to create his own magical kingdom, where all he needs is your—kiss."**](https://www.spin.com/featured/prince-july-1986-cover-story-black-narcissus/) in [Spin](https://www.spin.com/) on 1 July 1986 about [I Wanna Be Your Lover (song)](../../topics/song/i-wanna-be-your-lover/index.md), [James Brown](../../topics/james-brown/index.md), [Jamie Starr](../../topics/jamie-starr/index.md), [Morris Day](../../topics/morris-day/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Vanity](../../topics/vanity/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://www.spin.com/featured/prince-july-1986-cover-story-black-narcissus/))
+
+----
+
  - [**"27th Annual Grammy Awards Show to Offer Stellar Performances Tuesday"**](https://apnews.com/f0321a7f0a1984fca521fee8571d39e8) in [Associated Press News](https://apnews.com/) on 23 February 1985 about [Baby I’m a Star (song)](../../topics/song/baby-i-m-a-star/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Grammy Award](../../topics/grammy-award/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [PRINCEss](../../topics/princess/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [The Revolution](../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/f0321a7f0a1984fca521fee8571d39e8))
 
 ----

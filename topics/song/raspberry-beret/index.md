@@ -1,5 +1,9 @@
 # Raspberry Beret (song)
 
+ - [**"The real story behind Prince's Little Red Corvette"**](https://www.bbc.com/news/entertainment-arts-50556922) in [BBC News](https://www.bbc.com/news/) on 27 November 2019 about [1999 (album)](../../../topics/album/1999/index.md), [Around The World In A Day (album)](../../../topics/album/around-the-world-in-a-day/index.md), [bootleg](../../../topics/bootleg/index.md), [Denise Matthews](../../../topics/denise-matthews/index.md), [Jill Jones](../../../topics/jill-jones/index.md), [Lisa Coleman](../../../topics/lisa-coleman/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Maya Rudolph](../../../topics/maya-rudolph/index.md), [Raspberry Beret (song)](../../../topics/song/raspberry-beret/index.md), [Sunset Sound (place)](../../../topics/place/sunset-sound/index.md), [Susan Rogers](../../../topics/susan-rogers/index.md), [The Revolution](../../../topics/the-revolution/index.md), [Vanity](../../../topics/vanity/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md) ([mirror](https://web.archive.org/web/*/https://www.bbc.com/news/entertainment-arts-50556922))
+
+----
+
  - [**"Watch Beck perform a Prince medley at Paisley Park"**](http://www.citypages.com/music/watch-beck-perform-a-prince-medley-at-paisley-park/565152092) in [City Pages](http://www.citypages.com/) on 19 November 2019 about [Beck](../../../topics/beck/index.md), [Raspberry Beret (song)](../../../topics/song/raspberry-beret/index.md), [The Paisley Park Sessions (EP)](../../../topics/ep/the-paisley-park-sessions/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/http://www.citypages.com/music/watch-beck-perform-a-prince-medley-at-paisley-park/565152092))
 
 ----
