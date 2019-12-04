@@ -1,8 +1,54 @@
 # 2019
 
-## November 2019 (82)
+## December 2019 (8)
+
+ - [**""CALL & RESPONSE" IS A FASHION LINE CREATED BY PRINCE'S TRUSTED DESIGNERS -- To honor the Super Deluxe reissue of "1999", the duo conjured up a collection full of textured fabrics, overlays and detail."**](https://vmagazine.com/article/call-response-is-a-fashion-line-created-by-princes-trusted-designers/) in [vmagazine.com](https://vmagazine.com/) on 3 December 2019 ([mirror](https://web.archive.org/web/*/https://vmagazine.com/article/call-response-is-a-fashion-line-created-by-princes-trusted-designers/))
+
+----
+
+ - [**"AVEC "1999", PRINCE SE HISSE AU SOMMET DE SON ART -- Avec la réédition deluxe de 1999 de Prince, Warner Music nous donne l’occasion de revenir aux racines d’un album qui marque la période la plus créative du Kid de Minneapolis."**](http://www.magicrpm.com/1999-prince-au-sommet-de-son-art/) in [www.magicrpm.com](http://www.magicrpm.com/) on 3 December 2019 ([mirror](https://web.archive.org/web/*/http://www.magicrpm.com/1999-prince-au-sommet-de-son-art/))
+
+----
+
+ - [**"Prince: The Story of 1999, Episode 3: The Idolmaker"**](https://www.thecurrent.org/feature/2019/12/03/prince-the-story-of-1999-episode-3-the-idolmaker-swensson) in [The Current](https://www.thecurrent.org/) on 3 December 2019 ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/12/03/prince-the-story-of-1999-episode-3-the-idolmaker-swensson))
+
+----
+
+ - [**"The Prince Estate Announces Unique 1999-Inspired Fashion Line Created By Prince’s Trusted Designers"**](https://musicmayhemmagazine.com/the-prince-estate-announces-unique-1999-inspired-fashion-line-created-by-princes-trusted-designers/) in [musicmayhemmagazine.com](https://musicmayhemmagazine.com/) on 3 December 2019 ([mirror](https://web.archive.org/web/*/https://musicmayhemmagazine.com/the-prince-estate-announces-unique-1999-inspired-fashion-line-created-by-princes-trusted-designers/))
+
+----
+
+ - [**"‘1999-Super Deluxe’ Showcases All Things Prince"**](https://americansongwriter.com/1999-super-deluxe-showcases-all-things-prince/hal-horowitz/) in [americansongwriter.com](https://americansongwriter.com/) on 2 December 2019 about [1999 (album)](../../topics/album/1999/index.md), [Bangles](../../topics/bangles/index.md), [Colleen (song)](../../topics/song/colleen/index.md), [Feel U Up (song)](../../topics/song/feel-u-up/index.md), [Horny Toad (song)](../../topics/song/horny-toad/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Purple Music (song)](../../topics/song/purple-music/index.md), [Vagina (song)](../../topics/song/vagina/index.md) ([mirror](https://web.archive.org/web/*/https://americansongwriter.com/1999-super-deluxe-showcases-all-things-prince/hal-horowitz/))
+
+----
+
+ - [**"Prince - 1999 -- This five-disc set, which includes concert footage, B-sides, and demos, delivers what box sets of this kind almost never do: the thrill of discovery."**](https://pitchfork.com/reviews/albums/prince-1999/) in [Pitchfork](https://pitchfork.com/) on 2 December 2019 about [1999 (album)](../../topics/album/1999/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Horny Toad (song)](../../topics/song/horny-toad/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Purple Music (song)](../../topics/song/purple-music/index.md), [Rearrange (song)](../../topics/song/rearrange/index.md) ([mirror](https://web.archive.org/web/*/https://pitchfork.com/reviews/albums/prince-1999/))
+
+----
+
+ - [**"Prince’s ‘1999’: How the Artist Leveled Up on His Breakthrough LP -- With the release of a new box set devoted to the album and its era, Prince’s guitarist Dez Dickerson and engineer Peggy McCreary look back on the Purple One’s revolutionary genius"**](https://www.rollingstone.com/music/music-features/prince-1999-interview-915663/) in [Rolling Stone](https://www.rollingstone.com/) on 2 December 2019 about [1999 (album)](../../topics/album/1999/index.md), [94 East](../../topics/94-east/index.md), [Bold Generation (song)](../../topics/song/bold-generation/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [Do Yourself a Favor (song)](../../topics/song/do-yourself-a-favor/index.md), [How Come U Don’t Call Me Anymore? (song)](../../topics/song/how-come-u-don-t-call-me-anymore/index.md), [I Wanna Be Your Lover (song)](../../topics/song/i-wanna-be-your-lover/index.md), [James Brown](../../topics/james-brown/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Michael Howe](../../topics/michael-howe/index.md), [motorcycle](../../topics/motorcycle/index.md), [New Power Generation (song)](../../topics/song/new-power-generation/index.md), [Peggy McCreary](../../topics/peggy-mccreary/index.md), [Pop Life (song)](../../topics/song/pop-life/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Quincy Jones](../../topics/quincy-jones/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [The Revolution](../../topics/the-revolution/index.md), [trademark](../../topics/trademark/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/prince-1999-interview-915663/))
+
+----
+
+ - [**"Prince’s Previously Unreleased ‘Purple Music’ is ‘1999’-Era Perfection -- The track came out Friday as part of a massive box set revisiting Prince’s 5th LP"**](https://www.rollingstone.com/music/music-news/prince-purple-music-song-you-need-to-know-918020/) in [Rolling Stone](https://www.rollingstone.com/) on 2 December 2019 about [1999 (album)](../../topics/album/1999/index.md), [bootleg](../../topics/bootleg/index.md), [Computer Blue (song)](../../topics/song/computer-blue/index.md), [Erotic City (song)](../../topics/song/erotic-city/index.md), [Irresistible Bitch (song)](../../topics/song/irresistible-bitch/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Morris Day](../../topics/morris-day/index.md), [Purple Music (song)](../../topics/song/purple-music/index.md) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-news/prince-purple-music-song-you-need-to-know-918020/))
+
+----
+
+## November 2019 (90)
+
+ - [**"A Photographer That Counts Prince as a Mentor is Now Suing His Estate"**](https://www.lightstalking.com/a-photographer-that-counts-prince-as-a-mentor-is-now-suing-his-estate/) in [www.lightstalking.com](https://www.lightstalking.com/) on 29 November 2019 about [Madison Dube](../../topics/madison-dube/index.md) ([mirror](https://web.archive.org/web/*/https://www.lightstalking.com/a-photographer-that-counts-prince-as-a-mentor-is-now-suing-his-estate/))
+
+----
+
+ - [**"PRINCE - 1999 - SUPER DELUXE EDITION"**](https://oor.nl/albums/prince-1999-super-deluxe-edition/) in [oor.nl](https://oor.nl/) on 29 November 2019 about [1999 (album)](../../topics/album/1999/index.md), [Feel U Up (song)](../../topics/song/feel-u-up/index.md), [If It’ll Make U Happy (song)](../../topics/song/if-it-ll-make-u-happy/index.md), [Irresistible Bitch (song)](../../topics/song/irresistible-bitch/index.md), [vault](../../topics/vault/index.md), [You’re All I Want (song)](../../topics/song/you-re-all-i-want/index.md) ([mirror](https://web.archive.org/web/*/https://oor.nl/albums/prince-1999-super-deluxe-edition/))
+
+----
 
  - [**"Prince 1999 Remastered And Expanded Reissues Set For Release On November 29"**](http://media.rhino.com/press-release/prince-1999-remastered-and-expanded-reissues-set-release-november-29) in [media.rhino.com](http://media.rhino.com/) on 29 November 2019 about [1999 (album)](../../topics/album/1999/index.md), [1999 Super Deluxe (album)](../../topics/album/1999-super-deluxe/index.md), [Allen Beaulieu](../../topics/allen-beaulieu/index.md), [Andrea Swensson](../../topics/andrea-swensson/index.md), [David Fricke](../../topics/david-fricke/index.md), [Duane Tudahl](../../topics/duane-tudahl/index.md), [Duff McKagan](../../topics/duff-mckagan/index.md), [Houston Summit (place)](../../topics/place/houston-summit/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/http://media.rhino.com/press-release/prince-1999-remastered-and-expanded-reissues-set-release-november-29))
+
+----
+
+ - [**"Review: Prince – 1999: Super Deluxe Edition -- Across 10 LPs and a DVD, the vaults of this breakout album have been raided to produce a deluxe edition boxset of pitch-perfect proportions. John Earls wallows in Prince’s 1982 otherworldliness…"**](https://www.longlivevinyl.net/review-prince-1999-super-deluxe-edition/) in [www.longlivevinyl.net](https://www.longlivevinyl.net/) on 29 November 2019 about [1999 (album)](../../topics/album/1999/index.md), [Bold Generation (song)](../../topics/song/bold-generation/index.md), [Feel U Up (song)](../../topics/song/feel-u-up/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Michael Howe](../../topics/michael-howe/index.md), [Possessed (song)](../../topics/song/possessed/index.md), [Raspberry Beret (song)](../../topics/song/raspberry-beret/index.md), [Rearrange (song)](../../topics/song/rearrange/index.md), [Vagina (song)](../../topics/song/vagina/index.md), [vault](../../topics/vault/index.md), [Yah, You Know (song)](../../topics/song/yah-you-know/index.md) ([mirror](https://web.archive.org/web/*/https://www.longlivevinyl.net/review-prince-1999-super-deluxe-edition/))
 
 ----
 
@@ -14,7 +60,15 @@
 
 ----
 
+ - [**"FORMER PRINCE PHOTOGRAPHER SUES SINGER’S ESTATE FOR COPYRIGHT INFRINGEMENT"**](https://www.diyphotography.net/former-prince-photographer-sues-singers-estate-for-copyright-infringement/) in [www.diyphotography.net](https://www.diyphotography.net/) on 28 November 2019 about [Madison Dube](../../topics/madison-dube/index.md) ([mirror](https://web.archive.org/web/*/https://www.diyphotography.net/former-prince-photographer-sues-singers-estate-for-copyright-infringement/))
+
+----
+
  - [**"More Prince, More Pleasure: The Joys of the Expanded ‘1999’ -- Prince’s fifth album, rereleased on its 37th anniversary with a wealth of material from his vault, captures the moment he broke down barriers and became a rock star."**](https://www.nytimes.com/2019/11/27/arts/music/prince-1999-review.html) in [New York Times](https://www.nytimes.com/) on 27 November 2019 about [1999 (album)](../../topics/album/1999/index.md), [Bold Generation (song)](../../topics/song/bold-generation/index.md), [Feel U Up (song)](../../topics/song/feel-u-up/index.md), [I Wanna Be Your Lover (song)](../../topics/song/i-wanna-be-your-lover/index.md), [Irresistible Bitch (song)](../../topics/song/irresistible-bitch/index.md), [Linn LM-1](../../topics/linn-lm-1/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [New Power Generation (song)](../../topics/song/new-power-generation/index.md), [No Call U (song)](../../topics/song/no-call-u/index.md), [Possessed (song)](../../topics/song/possessed/index.md), [Purple Music (song)](../../topics/song/purple-music/index.md), [Rearrange (song)](../../topics/song/rearrange/index.md), [Vagina (song)](../../topics/song/vagina/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.nytimes.com/2019/11/27/arts/music/prince-1999-review.html))
+
+----
+
+ - [**"Photographer Mentored by Prince Sues the Late Singer's Estate for Copyright Infringement, Unauthorized Image Usage"**](https://fstoppers.com/legal/photographer-mentored-prince-sues-late-singers-estate-copyright-infringement-431957) in [fstoppers.com](https://fstoppers.com/) on 27 November 2019 about [Madison Dube](../../topics/madison-dube/index.md) ([mirror](https://web.archive.org/web/*/https://fstoppers.com/legal/photographer-mentored-prince-sues-late-singers-estate-copyright-infringement-431957))
 
 ----
 
@@ -38,7 +92,15 @@
 
 ----
 
+ - [**"Photographer sues Prince estate for copyright infringement"**](https://completemusicupdate.com/article/photographer-sues-prince-estate-for-copyright-infringement/) in [completemusicupdate.com](https://completemusicupdate.com/) on 26 November 2019 about [Madison Dube](../../topics/madison-dube/index.md) ([mirror](https://web.archive.org/web/*/https://completemusicupdate.com/article/photographer-sues-prince-estate-for-copyright-infringement/))
+
+----
+
  - [**"Prince: The Story of 1999, Episode 2: Rearrange"**](https://www.thecurrent.org/feature/2019/11/26/prince-the-story-of-1999-episode-2-rearrange-andrea-swensson) in [The Current](https://www.thecurrent.org/) on 26 November 2019 about [1999 (album)](../../topics/album/1999/index.md), [1999 SuperDeluxe (album)](../../topics/album/1999-superdeluxe/index.md), [Andrea Swensson](../../topics/andrea-swensson/index.md), [Bobby Z.](../../topics/bobby-z/index.md), [Colleen (song)](../../topics/song/colleen/index.md), [Denise Matthews](../../topics/denise-matthews/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [Do Me Baby (song)](../../topics/song/do-me-baby/index.md), [Duane Tudahl](../../topics/duane-tudahl/index.md), [I Wanna Be Your Lover (song)](../../topics/song/i-wanna-be-your-lover/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Michael Howe](../../topics/michael-howe/index.md), [Money Don't Grow On Trees (song)](../../topics/song/money-don-t-grow-on-trees/index.md), [Peggy McCreary](../../topics/peggy-mccreary/index.md), [Possessed (song)](../../topics/song/possessed/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Rearrange (song)](../../topics/song/rearrange/index.md), [Spotify](../../topics/spotify/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [The Revolution](../../topics/the-revolution/index.md), [Vagina (song)](../../topics/song/vagina/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md), [Yah, You Know (song)](../../topics/song/yah-you-know/index.md) ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/11/26/prince-the-story-of-1999-episode-2-rearrange-andrea-swensson))
+
+----
+
+ - [**"Prince’s ‘1999’ Box Set Contains Incredible Alternate Universe of Unreleased Songs -- With two discs of never-released recordings and electrifying live performances, the collection shows how the Artist became a star"**](https://www.rollingstone.com/music/music-album-reviews/princes-1999-super-deluxe-edition-review-915651/) in [Rolling Stone](https://www.rollingstone.com/) on 26 November 2019 about [1999 (album)](../../topics/album/1999/index.md), [Batman (album)](../../topics/album/batman/index.md), [Bold Generation (song)](../../topics/song/bold-generation/index.md), [Can’t Stop This Feeling I Got (song)](../../topics/song/can-t-stop-this-feeling-i-got/index.md), [Feel U Up (song)](../../topics/song/feel-u-up/index.md), [How Come U Don’t Call Me Anymore? (song)](../../topics/song/how-come-u-don-t-call-me-anymore/index.md), [If It’ll Make U Happy (song)](../../topics/song/if-it-ll-make-u-happy/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [No Call U (song)](../../topics/song/no-call-u/index.md), [Possessed (song)](../../topics/song/possessed/index.md), [Purple Music (song)](../../topics/song/purple-music/index.md), [Rearrange (song)](../../topics/song/rearrange/index.md), [Vagina (song)](../../topics/song/vagina/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-album-reviews/princes-1999-super-deluxe-edition-review-915651/))
 
 ----
 
@@ -47,6 +109,10 @@
 ----
 
  - [**"Album Preview: Prince’s Sprawling, Six-Disc ‘1999’ Deluxe Reissue"**](https://variety.com/2019/music/news/album-preview-princes-sprawling-six-disc-1999-deluxe-reissue-1203415514/) in [Variety](https://variety.com/) on 25 November 2019 about [1999 (album)](../../topics/album/1999/index.md), [Bold Generation (song)](../../topics/song/bold-generation/index.md), [bootleg](../../topics/bootleg/index.md), [Can’t Stop This Feeling I Got (song)](../../topics/song/can-t-stop-this-feeling-i-got/index.md), [Feel U Up (song)](../../topics/song/feel-u-up/index.md), [Graffiti Bridge (album)](../../topics/album/graffiti-bridge/index.md), [Horny Toad (song)](../../topics/song/horny-toad/index.md), [If It’ll Make U Happy (song)](../../topics/song/if-it-ll-make-u-happy/index.md), [Irresistible Bitch (song)](../../topics/song/irresistible-bitch/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Matt Fink](../../topics/matt-fink/index.md), [No Call U (song)](../../topics/song/no-call-u/index.md), [Purple Music (song)](../../topics/song/purple-music/index.md), [Rearrange (song)](../../topics/song/rearrange/index.md), [The Revolution](../../topics/the-revolution/index.md), [Vagina (song)](../../topics/song/vagina/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md), [Yah, You Know (song)](../../topics/song/yah-you-know/index.md), [You’re All I Want (song)](../../topics/song/you-re-all-i-want/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/news/album-preview-princes-sprawling-six-disc-1999-deluxe-reissue-1203415514/))
+
+----
+
+ - [**"Former Prince Photographer Sues Estate for Alleged Photo Misuse"**](https://news.bloomberglaw.com/ip-law/former-prince-photographer-sues-estate-for-alleged-photo-misuse) in [news.bloomberglaw.com](https://news.bloomberglaw.com/) on 25 November 2019 about [Madison Dube](../../topics/madison-dube/index.md) ([mirror](https://web.archive.org/web/*/https://news.bloomberglaw.com/ip-law/former-prince-photographer-sues-estate-for-alleged-photo-misuse))
 
 ----
 

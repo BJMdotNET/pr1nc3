@@ -1,5 +1,9 @@
 # Lisa Coleman
 
+ - [**"Prince - 1999 -- This five-disc set, which includes concert footage, B-sides, and demos, delivers what box sets of this kind almost never do: the thrill of discovery."**](https://pitchfork.com/reviews/albums/prince-1999/) in [Pitchfork](https://pitchfork.com/) on 2 December 2019 about [1999 (album)](../../topics/album/1999/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Horny Toad (song)](../../topics/song/horny-toad/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Purple Music (song)](../../topics/song/purple-music/index.md), [Rearrange (song)](../../topics/song/rearrange/index.md) ([mirror](https://web.archive.org/web/*/https://pitchfork.com/reviews/albums/prince-1999/))
+
+----
+
  - [**"The real story behind Prince's Little Red Corvette"**](https://www.bbc.com/news/entertainment-arts-50556922) in [BBC News](https://www.bbc.com/news/) on 27 November 2019 about [1999 (album)](../../topics/album/1999/index.md), [Around The World In A Day (album)](../../topics/album/around-the-world-in-a-day/index.md), [bootleg](../../topics/bootleg/index.md), [Denise Matthews](../../topics/denise-matthews/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Maya Rudolph](../../topics/maya-rudolph/index.md), [Raspberry Beret (song)](../../topics/song/raspberry-beret/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [The Revolution](../../topics/the-revolution/index.md), [Vanity](../../topics/vanity/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md) ([mirror](https://web.archive.org/web/*/https://www.bbc.com/news/entertainment-arts-50556922))
 
 ----

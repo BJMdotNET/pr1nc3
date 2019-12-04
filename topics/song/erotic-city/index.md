@@ -1,5 +1,9 @@
 # Erotic City (song)
 
+ - [**"Prince’s Previously Unreleased ‘Purple Music’ is ‘1999’-Era Perfection -- The track came out Friday as part of a massive box set revisiting Prince’s 5th LP"**](https://www.rollingstone.com/music/music-news/prince-purple-music-song-you-need-to-know-918020/) in [Rolling Stone](https://www.rollingstone.com/) on 2 December 2019 about [1999 (album)](../../../topics/album/1999/index.md), [bootleg](../../../topics/bootleg/index.md), [Computer Blue (song)](../../../topics/song/computer-blue/index.md), [Erotic City (song)](../../../topics/song/erotic-city/index.md), [Irresistible Bitch (song)](../../../topics/song/irresistible-bitch/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Morris Day](../../../topics/morris-day/index.md), [Purple Music (song)](../../../topics/song/purple-music/index.md) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-news/prince-purple-music-song-you-need-to-know-918020/))
+
+----
+
  - [**"Prince Memoir, 'The Beautiful Ones,' Brings To Life A Vision In One's Mind"**](https://www.npr.org/2019/10/27/771446639/prince-memoir-the-beautiful-ones-brings-to-life-a-vision-in-one-s-mind) in [National Public Radio](https://www.npr.org/) on 27 October 2019 about [Dan Piepenbring](../../../topics/dan-piepenbring/index.md), [Erotic City (song)](../../../topics/song/erotic-city/index.md), [memoir](../../../topics/memoir/index.md), [The Beautiful Ones (book)](../../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.npr.org/2019/10/27/771446639/prince-memoir-the-beautiful-ones-brings-to-life-a-vision-in-one-s-mind))
 
 ----

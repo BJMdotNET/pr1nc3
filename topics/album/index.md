@@ -1,13 +1,13 @@
 # album
 
   * [1-800-NEW-FUNK (album)](./album/1-800-new-funk/) (1)
-  * [1999 (album)](./album/1999/) (57)
+  * [1999 (album)](./album/1999/) (64)
   * [1999 Deluxe (album)](./album/1999-deluxe/) (4)
   * [1999 Super Deluxe (album)](./album/1999-super-deluxe/) (3)
   * [1999 SuperDeluxe (album)](./album/1999-superdeluxe/) (1)
   * [3121 (album)](./album/3121/) (9)
   * [Around The World In A Day (album)](./album/around-the-world-in-a-day/) (8)
-  * [Batman (album)](./album/batman/) (3)
+  * [Batman (album)](./album/batman/) (4)
   * [Chaos and Disorder (album)](./album/chaos-and-disorder/) (6)
   * [Controversy (album)](./album/controversy/) (1)
   * [Crystal Ball (album)](./album/crystal-ball/) (4)

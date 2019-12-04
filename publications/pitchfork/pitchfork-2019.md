@@ -1,5 +1,11 @@
 # 2019
 
+## December 2019 (1)
+
+ - [**"Prince - 1999 -- This five-disc set, which includes concert footage, B-sides, and demos, delivers what box sets of this kind almost never do: the thrill of discovery."**](https://pitchfork.com/reviews/albums/prince-1999/) in [Pitchfork](https://pitchfork.com/) on 2 December 2019 about [1999 (album)](../../topics/album/1999/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Horny Toad (song)](../../topics/song/horny-toad/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Purple Music (song)](../../topics/song/purple-music/index.md), [Rearrange (song)](../../topics/song/rearrange/index.md) ([mirror](https://web.archive.org/web/*/https://pitchfork.com/reviews/albums/prince-1999/))
+
+----
+
 ## September 2019 (2)
 
  - [**"Prince’s Versace Experience, With Rare Songs From Paris Fashion Week 1995, Is Now Streaming: Listen -- A limited number of tapes were shared with attendees of the Versace collection"**](https://pitchfork.com/news/princes-versace-experience-with-rare-songs-from-paris-fashion-week-1995-is-now-streaming-listen/) in [Pitchfork](https://pitchfork.com/) on 13 September 2019 about [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md) ([mirror](https://web.archive.org/web/*/https://pitchfork.com/news/princes-versace-experience-with-rare-songs-from-paris-fashion-week-1995-is-now-streaming-listen/))
