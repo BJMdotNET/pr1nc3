@@ -1,6 +1,6 @@
 # 2016
 
-## December 2016 (11)
+## December 2016 (12)
 
  - [**"2016: The Year in Entertainment"**](https://apnews.com/0980c1b2845f4c41b234f5e4ed0cd57a) in [Associated Press News](https://apnews.com/) on 30 December 2016 about [Academy Award](../../topics/academy-award/index.md), [fentanyl](../../topics/fentanyl/index.md), [Grammy Award](../../topics/grammy-award/index.md), [Katy Perry](../../topics/katy-perry/index.md), [Questlove](../../topics/questlove/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/0980c1b2845f4c41b234f5e4ed0cd57a))
 
@@ -23,6 +23,10 @@
 ----
 
  - [**"Netflix spokesperson says Prince discussed reality show"**](https://apnews.com/804f4ae18ff44bb7a4d1de3c4676d1e1) in [Associated Press News](https://apnews.com/) on 11 December 2016 about [Netflix](../../topics/netflix/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/804f4ae18ff44bb7a4d1de3c4676d1e1))
+
+----
+
+ - [**"Prince’s Closest Friends Share Their Best Prince Stories -- From Van Jones to Carmen Electra, publicists to Paisley Park members, those close to Prince Rogers Nelson tell tales—ordinary and out there—of the late legend."**](https://www.gq.com/story/prince-stories) in [www.gq.com](https://www.gq.com/) on 8 December 2016 ([mirror](https://web.archive.org/web/*/https://www.gq.com/story/prince-stories))
 
 ----
 
@@ -1148,7 +1152,7 @@
 
 ----
 
-## April 2016 (105)
+## April 2016 (107)
 
  - [**"AP Exclusive: Prince’s ‘Purple Rain’ coat is up for auction"**](https://apnews.com/8110dcbaa6714d75a12db043ff989975) in [Associated Press News](https://apnews.com/) on 29 April 2016 about [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [auction](../../topics/auction/index.md), [Katy Perry](../../topics/katy-perry/index.md), [motorcycle](../../topics/motorcycle/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/8110dcbaa6714d75a12db043ff989975))
 
@@ -1478,6 +1482,10 @@
 
 ----
 
+ - [**"How Prince Taught Me to Give No F&%ks -- He was our Bach. He was our Beethoven. And he was our idol."**](https://www.gq.com/story/prince-lessons) in [www.gq.com](https://www.gq.com/) on 21 April 2016 ([mirror](https://web.archive.org/web/*/https://www.gq.com/story/prince-lessons))
+
+----
+
  - [**"Music icon Prince dead at 57"**](https://usatoday.com/story/entertainment/music/2016/04/21/report-music-icon-prince-dead-57/83339894/) in [USA Today](https://usatoday.com/) on 21 April 2016 about [Bangles](../../topics/bangles/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Obama](../../topics/obama/index.md), [Sheila E.](../../topics/sheila-e/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/entertainment/music/2016/04/21/report-music-icon-prince-dead-57/83339894/))
 
 ----
@@ -1523,6 +1531,10 @@
 ----
 
  - [**"'Stunned' celebrities react to Prince's death"**](https://usatoday.com/story/life/nation-now/2016/04/21/celebrities-react-princes-death/83341102/) in [USA Today](https://usatoday.com/) on 21 April 2016 about [Bangles](../../topics/bangles/index.md), [Katy Perry](../../topics/katy-perry/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Obama](../../topics/obama/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Spike Lee](../../topics/spike-lee/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/nation-now/2016/04/21/celebrities-react-princes-death/83341102/))
+
+----
+
+ - [**"The Man Who Would Be Prince -- In the fall of 1991, set to drop double-platinum Diamonds and Pearls, Prince sat down with writer Chris Heath for a rare interview. A crazy-rare interview: The singer had answered questions publicly just four times between 1984’s Purple Rain and that year. Go inside Paisley Park, where Heath lived for six days."**](https://www.gq.com/story/prince-interview-inside-paisley-park) in [www.gq.com](https://www.gq.com/) on 21 April 2016 ([mirror](https://web.archive.org/web/*/https://www.gq.com/story/prince-interview-inside-paisley-park))
 
 ----
 

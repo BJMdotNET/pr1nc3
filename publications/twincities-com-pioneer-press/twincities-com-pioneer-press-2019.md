@@ -1,5 +1,11 @@
 # 2019
 
+## November 2019 (1)
+
+ - [**"Coffee table books are great gifts — even if you don’t have a coffee table"**](https://www.twincities.com/2019/11/30/coffee-table-books-are-great-gifts-even-if-you-dont-have-a-coffee-table/) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 30 November 2019 about [Andy Warhol](../../topics/andy-warhol/index.md), [exhibit](../../topics/exhibit/index.md), [exhibition](../../topics/exhibition/index.md), [Hachette Books](../../topics/hachette-books/index.md), [museum](../../topics/museum/index.md), [Penguin Random House](../../topics/penguin-random-house/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md), [trademark](../../topics/trademark/index.md) ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2019/11/30/coffee-table-books-are-great-gifts-even-if-you-dont-have-a-coffee-table/))
+
+----
+
 ## October 2019 (2)
 
  - [**"Prince’s memoir ‘The Beautiful Ones’ is ‘warm, funny, well observed, eloquent and surprisingly focused’"**](https://www.twincities.com/2019/10/25/princes-memoir-the-beautiful-ones-is-warm-funny-well-observed-eloquent-and-surprisingly-focused/) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 25 October 2019 about [Andrea Swensson](../../topics/andrea-swensson/index.md), [Capri Theater  (place)](../../topics/place/capri-theater/index.md), [Chris Jackson](../../topics/chris-jackson/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [memoir](../../topics/memoir/index.md), [Raspberry Beret (song)](../../topics/song/raspberry-beret/index.md), [The Ballad Of Dorothy Parker (song)](../../topics/song/the-ballad-of-dorothy-parker/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2019/10/25/princes-memoir-the-beautiful-ones-is-warm-funny-well-observed-eloquent-and-surprisingly-focused/))
@@ -38,7 +44,7 @@
 
 ## April 2019 (1)
 
- - [**"Prince’s estate gets it right the second time around with Prince: In Concert on the Big Screen"**](https://www.twincities.com/2019/04/27/princes-estate-gets-it-right-the-second-time-around-with-prince-in-concert-on-the-big-screen/) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 27 April 2019 ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2019/04/27/princes-estate-gets-it-right-the-second-time-around-with-prince-in-concert-on-the-big-screen/))
+ - [**"Prince’s estate gets it right the second time around with Prince: In Concert on the Big Screen"**](https://www.twincities.com/2019/04/27/princes-estate-gets-it-right-the-second-time-around-with-prince-in-concert-on-the-big-screen/) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 27 April 2019 about [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Pop Life (song)](../../topics/song/pop-life/index.md), [Prince: In Concert On The Big Screen](../../topics/prince-in-concert-on-the-big-screen/index.md), [Shelby J.](../../topics/shelby-j/index.md), [U Got the Look (song)](../../topics/song/u-got-the-look/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2019/04/27/princes-estate-gets-it-right-the-second-time-around-with-prince-in-concert-on-the-big-screen/))
 
 ----
 

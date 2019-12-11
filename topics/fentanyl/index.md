@@ -1,5 +1,9 @@
 # fentanyl
 
+ - [**"20 Biggest Celebrity News Stories of the 2010s: Beyonce, Lindsay Lohan, Sandra Bullock and More"**](https://www.etonline.com/20-biggest-celebrity-news-stories-of-the-2010s-137319) in [www.etonline.com](https://www.etonline.com/) on 9 December 2019 about [fentanyl](../../topics/fentanyl/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md) ([mirror](https://web.archive.org/web/*/https://www.etonline.com/20-biggest-celebrity-news-stories-of-the-2010s-137319))
+
+----
+
  - [**"PRINCE’S COUSIN (CHARLES SMITH) ON THE SINGER’S FIRST OVERDOSE: ‘HE DIED ON THE PLANE!’ – WATCH"**](https://eurweb.com/2019/11/13/princes-cousin-charles-smith-on-the-singers-first-overdose-he-died-on-the-plane-watch/) in [EURweb](https://eurweb.com/) on 13 November 2019 about [fentanyl](../../topics/fentanyl/index.md) ([mirror](https://web.archive.org/web/*/https://eurweb.com/2019/11/13/princes-cousin-charles-smith-on-the-singers-first-overdose-he-died-on-the-plane-watch/))
 
 ----

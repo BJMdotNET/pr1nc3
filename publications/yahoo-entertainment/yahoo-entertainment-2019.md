@@ -1,5 +1,15 @@
 # 2019
 
+## December 2019 (2)
+
+ - [**"Prince’s Longtime Collaborator Says Musician Was ‘Creating All the Time’"**](https://www.yahoo.com/entertainment/prince-longtime-collaborator-says-musician-230841459.html) in [Yahoo! Entertainment](https://www.yahoo.com/entertainment/) on 7 December 2019 about [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md) ([mirror](https://web.archive.org/web/*/https://www.yahoo.com/entertainment/prince-longtime-collaborator-says-musician-230841459.html))
+
+----
+
+ - [**"Prince's Toronto mansion is for sale"**](https://www.yahoo.com/entertainment/prince-toronto-mansion-for-sale-160410502.html) in [Yahoo! Entertainment](https://www.yahoo.com/entertainment/) on 3 December 2019 ([mirror](https://web.archive.org/web/*/https://www.yahoo.com/entertainment/prince-toronto-mansion-for-sale-160410502.html))
+
+----
+
 ## November 2019 (2)
 
  - [**"Beck talks ‘Hyperspace’ journey, from Zankou Chicken to Paisley Park"**](https://www.yahoo.com/entertainment/beck-talks-hyperspace-journey-from-zankou-chicken-to-paisley-park-222822065.html) in [Yahoo! Entertainment](https://www.yahoo.com/entertainment/) on 17 November 2019 about [Beck](../../topics/beck/index.md), [Weezer](../../topics/weezer/index.md) ([mirror](https://web.archive.org/web/*/https://www.yahoo.com/entertainment/beck-talks-hyperspace-journey-from-zankou-chicken-to-paisley-park-222822065.html))

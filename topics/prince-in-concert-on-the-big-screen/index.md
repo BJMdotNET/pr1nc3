@@ -1,5 +1,9 @@
 # Prince: In Concert On The Big Screen
 
+ - [**"Prince’s estate gets it right the second time around with Prince: In Concert on the Big Screen"**](https://www.twincities.com/2019/04/27/princes-estate-gets-it-right-the-second-time-around-with-prince-in-concert-on-the-big-screen/) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 27 April 2019 about [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Pop Life (song)](../../topics/song/pop-life/index.md), [Prince: In Concert On The Big Screen](../../topics/prince-in-concert-on-the-big-screen/index.md), [Shelby J.](../../topics/shelby-j/index.md), [U Got the Look (song)](../../topics/song/u-got-the-look/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2019/04/27/princes-estate-gets-it-right-the-second-time-around-with-prince-in-concert-on-the-big-screen/))
+
+----
+
  - [**"With Prince on a big screen, fans party like it’s 2009 at the Armory -- It was the second annual posthumous concert featuring live musicians accompanying a video of Prince performing."**](http://www.startribune.com/with-prince-on-a-big-screen-fans-party-like-it-s-2009-at-the-armory/509152322/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 27 April 2019 about [Prince: In Concert On The Big Screen](../../topics/prince-in-concert-on-the-big-screen/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/with-prince-on-a-big-screen-fans-party-like-it-s-2009-at-the-armory/509152322/))
 
 ----

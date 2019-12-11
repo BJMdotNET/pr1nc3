@@ -1,5 +1,9 @@
 # Mayte
 
+ - [**"The people’s Prince: even as a teenager the musician charmed everyone he met -- A newly discovered cache of his handwritten notes, as well as wonderful early photographs, reveal just how funny and charming the youthful Prince was"**](https://www.spectator.co.uk/2019/12/the-peoples-prince-even-as-a-teenager-the-musician-charmed-everyone-he-met/) in [www.spectator.co.uk](https://www.spectator.co.uk/) on 7 December 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [memoir](../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.spectator.co.uk/2019/12/the-peoples-prince-even-as-a-teenager-the-musician-charmed-everyone-he-met/))
+
+----
+
  - [**"'He's Royalty After All': Prince Co-Author On Finishing His Memoir 'The Beautiful Ones'"**](https://www.wbur.org/hereandnow/2019/11/04/prince-memoir-the-beautiful-ones) in [www.wbur.org](https://www.wbur.org/) on 4 November 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Mayte](../../topics/mayte/index.md), [memoir](../../topics/memoir/index.md), [Super Bowl](../../topics/super-bowl/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.wbur.org/hereandnow/2019/11/04/prince-memoir-the-beautiful-ones))
 
 ----

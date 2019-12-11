@@ -1,5 +1,13 @@
 # Purple Rain (movie)
 
+ - [**"‘Purple Rain,’ ‘Clerks, ‘She’s Gotta Have It’ Added to National Film Registry"**](https://variety.com/2019/film/news/purple-rain-clerks-shes-gotta-have-it-national-film-registry-1203431784/) in [Variety](https://variety.com/) on 11 December 2019 about [Albert Magnoli](../../../topics/albert-magnoli/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md), [Spike Lee](../../../topics/spike-lee/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2019/film/news/purple-rain-clerks-shes-gotta-have-it-national-film-registry-1203431784/))
+
+----
+
+ - [**"Prince’s Purple Rain Added to National Film Registry -- The Library of Congress has also archived She’s Gotta Have It, Clerks, The Last Waltz, and more"**](https://pitchfork.com/news/princes-purple-rain-added-to-national-film-registry/) in [Pitchfork](https://pitchfork.com/) on 11 December 2019 about [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md), [Spike Lee](../../../topics/spike-lee/index.md) ([mirror](https://web.archive.org/web/*/https://pitchfork.com/news/princes-purple-rain-added-to-national-film-registry/))
+
+----
+
  - [**"4 Generations Of Minnesota’s Peterson Family: A Hall Of Fame Musical Legacy"**](https://minnesota.cbslocal.com/2019/10/27/4-generations-of-minnesotas-peterson-family-a-hall-of-fame-musical-legacy/) in [WCCO - CBS Minnesota](https://minnesota.cbslocal.com/) on 27 October 2019 about [Fleetwood Mac](../../../topics/fleetwood-mac/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md), [The Family](../../../topics/the-family/index.md), [University of Minnesota](../../../topics/university-of-minnesota/index.md) ([mirror](https://web.archive.org/web/*/https://minnesota.cbslocal.com/2019/10/27/4-generations-of-minnesotas-peterson-family-a-hall-of-fame-musical-legacy/))
 
 ----

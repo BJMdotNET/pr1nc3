@@ -1,5 +1,9 @@
 # Shelby J.
 
+ - [**"Prince’s estate gets it right the second time around with Prince: In Concert on the Big Screen"**](https://www.twincities.com/2019/04/27/princes-estate-gets-it-right-the-second-time-around-with-prince-in-concert-on-the-big-screen/) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 27 April 2019 about [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Pop Life (song)](../../topics/song/pop-life/index.md), [Prince: In Concert On The Big Screen](../../topics/prince-in-concert-on-the-big-screen/index.md), [Shelby J.](../../topics/shelby-j/index.md), [U Got the Look (song)](../../topics/song/u-got-the-look/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2019/04/27/princes-estate-gets-it-right-the-second-time-around-with-prince-in-concert-on-the-big-screen/))
+
+----
+
  - [**"Paisley Park rocks again with four of Prince's female protégées in concert"**](http://www.startribune.com/paisley-park-rocks-again-with-four-of-prince-s-female-protegees-in-concert/507037812/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 March 2019 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Donna Grantis](../../topics/donna-grantis/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Shelby J.](../../topics/shelby-j/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-rocks-again-with-four-of-prince-s-female-protegees-in-concert/507037812/))
 
 ----

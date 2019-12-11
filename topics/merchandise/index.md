@@ -1,5 +1,9 @@
 # merchandise
 
+ - [**"Music bios should strike chord with Moorer, Prince, Elton fans"**](https://www.bostonherald.com/2019/12/03/music-bios-should-strike-chord-with-moorer-prince-elton-fans/) in [www.bostonherald.com](https://www.bostonherald.com/) on 3 December 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [merchandise](../../topics/merchandise/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.bostonherald.com/2019/12/03/music-bios-should-strike-chord-with-moorer-prince-elton-fans/))
+
+----
+
  - [**"5 of the best new music books"**](https://www.latimes.com/entertainment-arts/books/story/2019-11-21/music-books-elton-john-flea-prince-allison-moorer-janis-joplin) in [Los Angeles Times](https://www.latimes.com/) on 21 November 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [merchandise](../../topics/merchandise/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.latimes.com/entertainment-arts/books/story/2019-11-21/music-books-elton-john-flea-prince-allison-moorer-janis-joplin))
 
 ----

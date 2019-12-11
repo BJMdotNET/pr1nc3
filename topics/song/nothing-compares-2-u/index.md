@@ -1,5 +1,9 @@
 # Nothing Compares 2 U (song)
 
+ - [**"The people’s Prince: even as a teenager the musician charmed everyone he met -- A newly discovered cache of his handwritten notes, as well as wonderful early photographs, reveal just how funny and charming the youthful Prince was"**](https://www.spectator.co.uk/2019/12/the-peoples-prince-even-as-a-teenager-the-musician-charmed-everyone-he-met/) in [www.spectator.co.uk](https://www.spectator.co.uk/) on 7 December 2019 about [Dan Piepenbring](../../../topics/dan-piepenbring/index.md), [Joni Mitchell](../../../topics/joni-mitchell/index.md), [Mayte](../../../topics/mayte/index.md), [Mayte Garcia](../../../topics/mayte-garcia/index.md), [memoir](../../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [The Beautiful Ones (book)](../../../topics/book/the-beautiful-ones/index.md), [vault](../../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.spectator.co.uk/2019/12/the-peoples-prince-even-as-a-teenager-the-musician-charmed-everyone-he-met/))
+
+----
+
  - [**"The afterlife of Prince, in words and music"**](https://www.inquirer.com/entertainment/prince-1999-beautiful-ones-music-book-tom-petty-david-bowie-20191115.html) in [www.inquirer.com](https://www.inquirer.com/) on 15 November 2019 about [bootleg](../../../topics/bootleg/index.md), [Chaka Khan](../../../topics/chaka-khan/index.md), [Dan Piepenbring](../../../topics/dan-piepenbring/index.md), [memoir](../../../topics/memoir/index.md), [museum](../../../topics/museum/index.md), [New Power Generation](../../../topics/new-power-generation/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [Spiegel & Grau](../../../topics/spiegel-grau/index.md), [Spike Lee](../../../topics/spike-lee/index.md), [The Beautiful Ones (book)](../../../topics/book/the-beautiful-ones/index.md), [Vagina (song)](../../../topics/song/vagina/index.md), [Vanity](../../../topics/vanity/index.md), [Vanity 6](../../../topics/vanity-6/index.md), [vault](../../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.inquirer.com/entertainment/prince-1999-beautiful-ones-music-book-tom-petty-david-bowie-20191115.html))
 
 ----
@@ -77,6 +81,10 @@
 ----
 
  - [**"TV picks for June 1-2: Prince, ‘Perpetual Grace LTD,’ ‘The Weekly’"**](http://www.startribune.com/tv-picks-for-june-1-2-prince-perpetual-grace-ltd-the-weekly/510669062/) by Neal Justin in [Minneapolis Star Tribune](http://www.startribune.com/) on 4 June 2019 about [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Rave Un2 the Year 2000 (video)](../../../topics/video/rave-un2-the-year-2000/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/tv-picks-for-june-1-2-prince-perpetual-grace-ltd-the-weekly/510669062/))
+
+----
+
+ - [**"Prince’s estate gets it right the second time around with Prince: In Concert on the Big Screen"**](https://www.twincities.com/2019/04/27/princes-estate-gets-it-right-the-second-time-around-with-prince-in-concert-on-the-big-screen/) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 27 April 2019 about [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Pop Life (song)](../../../topics/song/pop-life/index.md), [Prince: In Concert On The Big Screen](../../../topics/prince-in-concert-on-the-big-screen/index.md), [Shelby J.](../../../topics/shelby-j/index.md), [U Got the Look (song)](../../../topics/song/u-got-the-look/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2019/04/27/princes-estate-gets-it-right-the-second-time-around-with-prince-in-concert-on-the-big-screen/))
 
 ----
 

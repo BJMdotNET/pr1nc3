@@ -1,5 +1,13 @@
 # Spike Lee
 
+ - [**"‘Purple Rain,’ ‘Clerks, ‘She’s Gotta Have It’ Added to National Film Registry"**](https://variety.com/2019/film/news/purple-rain-clerks-shes-gotta-have-it-national-film-registry-1203431784/) in [Variety](https://variety.com/) on 11 December 2019 about [Albert Magnoli](../../topics/albert-magnoli/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Spike Lee](../../topics/spike-lee/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2019/film/news/purple-rain-clerks-shes-gotta-have-it-national-film-registry-1203431784/))
+
+----
+
+ - [**"Prince’s Purple Rain Added to National Film Registry -- The Library of Congress has also archived She’s Gotta Have It, Clerks, The Last Waltz, and more"**](https://pitchfork.com/news/princes-purple-rain-added-to-national-film-registry/) in [Pitchfork](https://pitchfork.com/) on 11 December 2019 about [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Spike Lee](../../topics/spike-lee/index.md) ([mirror](https://web.archive.org/web/*/https://pitchfork.com/news/princes-purple-rain-added-to-national-film-registry/))
+
+----
+
  - [**"From 'The Ladder' to 'The Cross,' Prince's Legacy Endures Through His Friends and Music at a Town Hall Tribute"**](https://www.theroot.com/from-the-ladder-to-the-cross-princes-legacy-endured-th-1839945113) in [The Root](https://www.theroot.com/) on 19 November 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Greg Tate](../../topics/greg-tate/index.md), [memoir](../../topics/memoir/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Spike Lee](../../topics/spike-lee/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://www.theroot.com/from-the-ladder-to-the-cross-princes-legacy-endured-th-1839945113))
 
 ----

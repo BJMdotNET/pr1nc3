@@ -1,5 +1,9 @@
 # Joni Mitchell
 
+ - [**"The people’s Prince: even as a teenager the musician charmed everyone he met -- A newly discovered cache of his handwritten notes, as well as wonderful early photographs, reveal just how funny and charming the youthful Prince was"**](https://www.spectator.co.uk/2019/12/the-peoples-prince-even-as-a-teenager-the-musician-charmed-everyone-he-met/) in [www.spectator.co.uk](https://www.spectator.co.uk/) on 7 December 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [memoir](../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.spectator.co.uk/2019/12/the-peoples-prince-even-as-a-teenager-the-musician-charmed-everyone-he-met/))
+
+----
+
  - [**"INTERVIEW: PRINCE ARCHIVIST MICHAEL HOWE ON PRINCE'S FAMED VAULT"**](https://www.ilikeyouroldstuff.com/news/interview-prince-archivist-michael-howe-on-prince-vault) in [I Like Your Old Stuff](https://www.ilikeyouroldstuff.com/) on 25 November 2019 about [1999 (album)](../../topics/album/1999/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Michael Howe](../../topics/michael-howe/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Purple Music (song)](../../topics/song/purple-music/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.ilikeyouroldstuff.com/news/interview-prince-archivist-michael-howe-on-prince-vault))
 
 ----

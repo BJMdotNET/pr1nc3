@@ -136,6 +136,10 @@
 
 ----
 
+ - [**"Prince’s estate gets it right the second time around with Prince: In Concert on the Big Screen"**](https://www.twincities.com/2019/04/27/princes-estate-gets-it-right-the-second-time-around-with-prince-in-concert-on-the-big-screen/) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 27 April 2019 about [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Pop Life (song)](../../../topics/song/pop-life/index.md), [Prince: In Concert On The Big Screen](../../../topics/prince-in-concert-on-the-big-screen/index.md), [Shelby J.](../../../topics/shelby-j/index.md), [U Got the Look (song)](../../../topics/song/u-got-the-look/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2019/04/27/princes-estate-gets-it-right-the-second-time-around-with-prince-in-concert-on-the-big-screen/))
+
+----
+
  - [**"‘Black-ish’ throws TV’s best-ever Prince party in its 100th episode"**](https://apnews.com/bd6c6bba1c8f4d5d83707d6d24c8fdf2) in [Associated Press News](https://apnews.com/) on 11 November 2018 about [Black-ish (TV show)](../../../topics/tv-show/black-ish/index.md), [Celebration](../../../topics/celebration/index.md), [Erotic City (song)](../../../topics/song/erotic-city/index.md), [Spotify](../../../topics/spotify/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md), [Yara Shahidi](../../../topics/yara-shahidi/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/bd6c6bba1c8f4d5d83707d6d24c8fdf2))
 
 ----

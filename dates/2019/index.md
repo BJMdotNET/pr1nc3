@@ -1,24 +1,96 @@
 # 2019
 
-## December 2019 (8)
+## December 2019 (27)
 
- - [**""CALL & RESPONSE" IS A FASHION LINE CREATED BY PRINCE'S TRUSTED DESIGNERS -- To honor the Super Deluxe reissue of "1999", the duo conjured up a collection full of textured fabrics, overlays and detail."**](https://vmagazine.com/article/call-response-is-a-fashion-line-created-by-princes-trusted-designers/) in [vmagazine.com](https://vmagazine.com/) on 3 December 2019 ([mirror](https://web.archive.org/web/*/https://vmagazine.com/article/call-response-is-a-fashion-line-created-by-princes-trusted-designers/))
-
-----
-
- - [**"AVEC "1999", PRINCE SE HISSE AU SOMMET DE SON ART -- Avec la réédition deluxe de 1999 de Prince, Warner Music nous donne l’occasion de revenir aux racines d’un album qui marque la période la plus créative du Kid de Minneapolis."**](http://www.magicrpm.com/1999-prince-au-sommet-de-son-art/) in [www.magicrpm.com](http://www.magicrpm.com/) on 3 December 2019 ([mirror](https://web.archive.org/web/*/http://www.magicrpm.com/1999-prince-au-sommet-de-son-art/))
+ - [**"‘Purple Rain,’ ‘Clerks, ‘She’s Gotta Have It’ Added to National Film Registry"**](https://variety.com/2019/film/news/purple-rain-clerks-shes-gotta-have-it-national-film-registry-1203431784/) in [Variety](https://variety.com/) on 11 December 2019 about [Albert Magnoli](../../topics/albert-magnoli/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Spike Lee](../../topics/spike-lee/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2019/film/news/purple-rain-clerks-shes-gotta-have-it-national-film-registry-1203431784/))
 
 ----
 
- - [**"Prince: The Story of 1999, Episode 3: The Idolmaker"**](https://www.thecurrent.org/feature/2019/12/03/prince-the-story-of-1999-episode-3-the-idolmaker-swensson) in [The Current](https://www.thecurrent.org/) on 3 December 2019 ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/12/03/prince-the-story-of-1999-episode-3-the-idolmaker-swensson))
+ - [**"Prince’s Purple Rain Added to National Film Registry -- The Library of Congress has also archived She’s Gotta Have It, Clerks, The Last Waltz, and more"**](https://pitchfork.com/news/princes-purple-rain-added-to-national-film-registry/) in [Pitchfork](https://pitchfork.com/) on 11 December 2019 about [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Spike Lee](../../topics/spike-lee/index.md) ([mirror](https://web.archive.org/web/*/https://pitchfork.com/news/princes-purple-rain-added-to-national-film-registry/))
 
 ----
 
- - [**"The Prince Estate Announces Unique 1999-Inspired Fashion Line Created By Prince’s Trusted Designers"**](https://musicmayhemmagazine.com/the-prince-estate-announces-unique-1999-inspired-fashion-line-created-by-princes-trusted-designers/) in [musicmayhemmagazine.com](https://musicmayhemmagazine.com/) on 3 December 2019 ([mirror](https://web.archive.org/web/*/https://musicmayhemmagazine.com/the-prince-estate-announces-unique-1999-inspired-fashion-line-created-by-princes-trusted-designers/))
+ - [**"20 Biggest Celebrity News Stories of the 2010s: Beyonce, Lindsay Lohan, Sandra Bullock and More"**](https://www.etonline.com/20-biggest-celebrity-news-stories-of-the-2010s-137319) in [www.etonline.com](https://www.etonline.com/) on 9 December 2019 about [fentanyl](../../topics/fentanyl/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md) ([mirror](https://web.archive.org/web/*/https://www.etonline.com/20-biggest-celebrity-news-stories-of-the-2010s-137319))
+
+----
+
+ - [**"A Review Of Prince’s 1999 Super Deluxe Edition"**](https://www.sobrosnetwork.com/2019/12/09/a-review-of-princes-1999-super-deluxe-edition/) in [www.sobrosnetwork.com](https://www.sobrosnetwork.com/) on 9 December 2019 about [1999 (album)](../../topics/album/1999/index.md), [1999 Super Deluxe (album)](../../topics/album/1999-super-deluxe/index.md), [Andrea Swensson](../../topics/andrea-swensson/index.md), [Bold Generation (song)](../../topics/song/bold-generation/index.md), [Colleen (song)](../../topics/song/colleen/index.md), [Feel U Up (song)](../../topics/song/feel-u-up/index.md), [Graffiti Bridge (album)](../../topics/album/graffiti-bridge/index.md), [How Come U Don’t Call Me Anymore? (song)](../../topics/song/how-come-u-don-t-call-me-anymore/index.md), [If It’ll Make U Happy (song)](../../topics/song/if-it-ll-make-u-happy/index.md), [Irresistible Bitch (song)](../../topics/song/irresistible-bitch/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Morris Day](../../topics/morris-day/index.md), [New Power Generation (song)](../../topics/song/new-power-generation/index.md), [No Call U (song)](../../topics/song/no-call-u/index.md), [Peggy McCreary](../../topics/peggy-mccreary/index.md), [Possessed (song)](../../topics/song/possessed/index.md), [Purple Music (song)](../../topics/song/purple-music/index.md), [Rearrange (song)](../../topics/song/rearrange/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [The Revolution](../../topics/the-revolution/index.md), [Vagina (song)](../../topics/song/vagina/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md), [Yah, You Know (song)](../../topics/song/yah-you-know/index.md), [You’re All I Want (song)](../../topics/song/you-re-all-i-want/index.md) ([mirror](https://web.archive.org/web/*/https://www.sobrosnetwork.com/2019/12/09/a-review-of-princes-1999-super-deluxe-edition/))
+
+----
+
+ - [**"Janelle Monáe and Belvedere Vodka campaign wrap celebrated Atlanta"**](https://www.ajc.com/lifestyles/janelle-monae-and-belvedere-vodka-campaign-wrap-celebrated-atlanta/pDWaFyvGGb09piQnh9vnwI/) in [www.ajc.com](https://www.ajc.com/) on 9 December 2019 about [Janelle Monáe](../../topics/janelle-mon-e/index.md) ([mirror](https://web.archive.org/web/*/https://www.ajc.com/lifestyles/janelle-monae-and-belvedere-vodka-campaign-wrap-celebrated-atlanta/pDWaFyvGGb09piQnh9vnwI/))
+
+----
+
+ - [**"Prince’s Longtime Photographer Reflects On Working With The Singer: ‘You Could Just Go Wild’"**](https://www.littlethings.com/prince-photographer/) in [www.littlethings.com](https://www.littlethings.com/) on 9 December 2019 about [Charlie Murphy](../../topics/charlie-murphy/index.md), [Dave Chappelle](../../topics/dave-chappelle/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md) ([mirror](https://web.archive.org/web/*/https://www.littlethings.com/prince-photographer/))
+
+----
+
+ - [**"The 19 Best Audiobooks of 2019"**](https://www.pastemagazine.com/articles/2019/12/best-audiobooks-of-2019-novels-nonfiction-list.html) in [Paste Magazine](https://www.pastemagazine.com/) on 9 December 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Esperanza Spalding](../../topics/esperanza-spalding/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.pastemagazine.com/articles/2019/12/best-audiobooks-of-2019-novels-nonfiction-list.html))
+
+----
+
+ - [**"Musician’s artistic life is now behind a camera"**](https://www.abqjournal.com/1399043/musicians-artistic-life-is-now-behind-a-camera.html) in [www.abqjournal.com](https://www.abqjournal.com/) on 8 December 2019 about [Beck](../../topics/beck/index.md) ([mirror](https://web.archive.org/web/*/https://www.abqjournal.com/1399043/musicians-artistic-life-is-now-behind-a-camera.html))
+
+----
+
+ - [**""My Name Is Prince": A graceful, powerful photographic tribute to the Purple One -- Randee St. Nicholas' book of photographs taken over 25 years is a lavish look at an artful, inspired life"**](https://www.salon.com/2019/12/07/my-name-is-prince-a-graceful-powerful-photographic-tribute-to-the-purple-one/) in [www.salon.com](https://www.salon.com/) on 7 December 2019 about [My Name Is Prince: 25 Inspired Years (book)](../../topics/book/my-name-is-prince-25-inspired-years/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md) ([mirror](https://web.archive.org/web/*/https://www.salon.com/2019/12/07/my-name-is-prince-a-graceful-powerful-photographic-tribute-to-the-purple-one/))
+
+----
+
+ - [**"Prince’s Longtime Collaborator Says Musician Was ‘Creating All the Time’"**](https://www.yahoo.com/entertainment/prince-longtime-collaborator-says-musician-230841459.html) in [Yahoo! Entertainment](https://www.yahoo.com/entertainment/) on 7 December 2019 about [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md) ([mirror](https://web.archive.org/web/*/https://www.yahoo.com/entertainment/prince-longtime-collaborator-says-musician-230841459.html))
+
+----
+
+ - [**"The people’s Prince: even as a teenager the musician charmed everyone he met -- A newly discovered cache of his handwritten notes, as well as wonderful early photographs, reveal just how funny and charming the youthful Prince was"**](https://www.spectator.co.uk/2019/12/the-peoples-prince-even-as-a-teenager-the-musician-charmed-everyone-he-met/) in [www.spectator.co.uk](https://www.spectator.co.uk/) on 7 December 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [memoir](../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.spectator.co.uk/2019/12/the-peoples-prince-even-as-a-teenager-the-musician-charmed-everyone-he-met/))
+
+----
+
+ - [**"Prince Archivist Michael Howe Runs Us Through The ‘1999’ Box Set -- Michael Howe is Prince’s archivist. His job is to mine The Vault, the complete masters of Prince recordings, and extract what becomes the expanded reissues of the Prince catalogue."**](http://www.noise11.com/news/prince-archivist-michael-howe-runs-us-through-the-1999-box-set-20191205) in [www.noise11.com](http://www.noise11.com/) on 5 December 2019 about [Michael Howe](../../topics/michael-howe/index.md), [Stand Back (song)](../../topics/song/stand-back/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md), [The Revolution](../../topics/the-revolution/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/http://www.noise11.com/news/prince-archivist-michael-howe-runs-us-through-the-1999-box-set-20191205))
+
+----
+
+ - [**"Prince's Personal Photographer on What It Was Like to Work Closely with Him"**](https://www.yahoo.com/lifestyle/princes-personal-photographer-closely-him-140000320.html) in [www.yahoo.com](https://www.yahoo.com/) on 4 December 2019 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Elisa Fiorillo](../../topics/elisa-fiorillo/index.md), [Erotic City (song)](../../topics/song/erotic-city/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md) ([mirror](https://web.archive.org/web/*/https://www.yahoo.com/lifestyle/princes-personal-photographer-closely-him-140000320.html))
+
+----
+
+ - [**"Prince's Personal Photographer on What It Was Like to Work Closely with Him -- Randee St. Nicholas's new book, My Name Is Prince, collects and unpacks photographs and memories of the icon."**](https://www.gq.com/story/prince-photographer-randee-st-nicholas-interview) in [www.gq.com](https://www.gq.com/) on 4 December 2019 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Elisa Fiorillo](../../topics/elisa-fiorillo/index.md), [Erotic City (song)](../../topics/song/erotic-city/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md), [The Revolution](../../topics/the-revolution/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md) ([mirror](https://web.archive.org/web/*/https://www.gq.com/story/prince-photographer-randee-st-nicholas-interview))
+
+----
+
+ - [**""CALL & RESPONSE" IS A FASHION LINE CREATED BY PRINCE'S TRUSTED DESIGNERS -- To honor the Super Deluxe reissue of "1999", the duo conjured up a collection full of textured fabrics, overlays and detail."**](https://vmagazine.com/article/call-response-is-a-fashion-line-created-by-princes-trusted-designers/) in [vmagazine.com](https://vmagazine.com/) on 3 December 2019 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md) ([mirror](https://web.archive.org/web/*/https://vmagazine.com/article/call-response-is-a-fashion-line-created-by-princes-trusted-designers/))
+
+----
+
+ - [**"AVEC "1999", PRINCE SE HISSE AU SOMMET DE SON ART -- Avec la réédition deluxe de 1999 de Prince, Warner Music nous donne l’occasion de revenir aux racines d’un album qui marque la période la plus créative du Kid de Minneapolis."**](http://www.magicrpm.com/1999-prince-au-sommet-de-son-art/) in [www.magicrpm.com](http://www.magicrpm.com/) on 3 December 2019 about [1999 (album)](../../topics/album/1999/index.md), [Bold Generation (song)](../../topics/song/bold-generation/index.md), [Colleen (song)](../../topics/song/colleen/index.md), [Feel U Up (song)](../../topics/song/feel-u-up/index.md), [Irresistible Bitch (song)](../../topics/song/irresistible-bitch/index.md), [Lake Minnetonka (place)](../../topics/place/lake-minnetonka/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [New Power Generation (song)](../../topics/song/new-power-generation/index.md), [Peggy McCreary](../../topics/peggy-mccreary/index.md), [Purple Music (song)](../../topics/song/purple-music/index.md), [Quincy Jones](../../topics/quincy-jones/index.md), [Raspberry Beret (song)](../../topics/song/raspberry-beret/index.md), [Rearrange (song)](../../topics/song/rearrange/index.md), [Roger Linn](../../topics/roger-linn/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md) ([mirror](https://web.archive.org/web/*/http://www.magicrpm.com/1999-prince-au-sommet-de-son-art/))
+
+----
+
+ - [**"Music bios should strike chord with Moorer, Prince, Elton fans"**](https://www.bostonherald.com/2019/12/03/music-bios-should-strike-chord-with-moorer-prince-elton-fans/) in [www.bostonherald.com](https://www.bostonherald.com/) on 3 December 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [merchandise](../../topics/merchandise/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.bostonherald.com/2019/12/03/music-bios-should-strike-chord-with-moorer-prince-elton-fans/))
+
+----
+
+ - [**"Prince: The Story of 1999, Episode 3: The Idolmaker"**](https://www.thecurrent.org/feature/2019/12/03/prince-the-story-of-1999-episode-3-the-idolmaker-swensson) in [The Current](https://www.thecurrent.org/) on 3 December 2019 about [1999 (album)](../../topics/album/1999/index.md), [1999 Super Deluxe (album)](../../topics/album/1999-super-deluxe/index.md), [Allen Beaulieu](../../topics/allen-beaulieu/index.md), [Andrea Swensson](../../topics/andrea-swensson/index.md), [Apollonia 6](../../topics/apollonia-6/index.md), [Bold Generation (song)](../../topics/song/bold-generation/index.md), [Chanhassen Cinema](../../topics/chanhassen-cinema/index.md), [Denise Matthews](../../topics/denise-matthews/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [Don't Let Him Fool Ya (song)](../../topics/song/don-t-let-him-fool-ya/index.md), [Duane Tudahl](../../topics/duane-tudahl/index.md), [George Clinton](../../topics/george-clinton/index.md), [Jamie Starr](../../topics/jamie-starr/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [memoir](../../topics/memoir/index.md), [Michael Howe](../../topics/michael-howe/index.md), [Morris Day](../../topics/morris-day/index.md), [Nasty Girl (song)](../../topics/song/nasty-girl/index.md), [New Power Generation (song)](../../topics/song/new-power-generation/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Spotify](../../topics/spotify/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Starr Company](../../topics/the-starr-company/index.md), [Vagina (song)](../../topics/song/vagina/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/12/03/prince-the-story-of-1999-episode-3-the-idolmaker-swensson))
+
+----
+
+ - [**"Prince's Toronto mansion is for sale"**](https://www.yahoo.com/entertainment/prince-toronto-mansion-for-sale-160410502.html) in [Yahoo! Entertainment](https://www.yahoo.com/entertainment/) on 3 December 2019 ([mirror](https://web.archive.org/web/*/https://www.yahoo.com/entertainment/prince-toronto-mansion-for-sale-160410502.html))
+
+----
+
+ - [**"The Prince Estate Announces Unique 1999-Inspired Fashion Line Created By Prince’s Trusted Designers"**](https://musicmayhemmagazine.com/the-prince-estate-announces-unique-1999-inspired-fashion-line-created-by-princes-trusted-designers/) in [musicmayhemmagazine.com](https://musicmayhemmagazine.com/) on 3 December 2019 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Andy Allo](../../topics/andy-allo/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [NPG Records](../../topics/npg-records/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [trademark](../../topics/trademark/index.md) ([mirror](https://web.archive.org/web/*/https://musicmayhemmagazine.com/the-prince-estate-announces-unique-1999-inspired-fashion-line-created-by-princes-trusted-designers/))
 
 ----
 
  - [**"‘1999-Super Deluxe’ Showcases All Things Prince"**](https://americansongwriter.com/1999-super-deluxe-showcases-all-things-prince/hal-horowitz/) in [americansongwriter.com](https://americansongwriter.com/) on 2 December 2019 about [1999 (album)](../../topics/album/1999/index.md), [Bangles](../../topics/bangles/index.md), [Colleen (song)](../../topics/song/colleen/index.md), [Feel U Up (song)](../../topics/song/feel-u-up/index.md), [Horny Toad (song)](../../topics/song/horny-toad/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Purple Music (song)](../../topics/song/purple-music/index.md), [Vagina (song)](../../topics/song/vagina/index.md) ([mirror](https://web.archive.org/web/*/https://americansongwriter.com/1999-super-deluxe-showcases-all-things-prince/hal-horowitz/))
+
+----
+
+ - [**"Not just arabesques: Misty Copeland imparts her life lessons"**](https://apnews.com/979e7d6b80b24f1189f1a26986ca7e03) in [Associated Press News](https://apnews.com/) on 2 December 2019 about [Misty Copeland](../../topics/misty-copeland/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/979e7d6b80b24f1189f1a26986ca7e03))
+
+----
+
+ - [**"Not just arabesques: Misty Copeland imparts her life lessons"**](http://www.startribune.com/not-just-arabesques-misty-copeland-imparts-her-life-lessons/565682042/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 2 December 2019 about [Misty Copeland](../../topics/misty-copeland/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/not-just-arabesques-misty-copeland-imparts-her-life-lessons/565682042/))
 
 ----
 
@@ -34,7 +106,15 @@
 
 ----
 
-## November 2019 (90)
+ - [**"Books of the month: From Dave Eggers’ The Captain and the Glory to Hayley Nolan’s corrective history of Anne Boleyn -- Martin Chilton reviews five of December’s best books for our monthly book column"**](https://www.independent.co.uk/arts-entertainment/books/features/december-book-dave-eggers-the-captain-teen-idol-leif-garrett-anne-boleyn-a9220196.html) in [www.independent.co.uk](https://www.independent.co.uk/) on 1 December 2019 about [Kate Bush](../../topics/kate-bush/index.md), [memoir](../../topics/memoir/index.md) ([mirror](https://web.archive.org/web/*/https://www.independent.co.uk/arts-entertainment/books/features/december-book-dave-eggers-the-captain-teen-idol-leif-garrett-anne-boleyn-a9220196.html))
+
+----
+
+## November 2019 (91)
+
+ - [**"Coffee table books are great gifts — even if you don’t have a coffee table"**](https://www.twincities.com/2019/11/30/coffee-table-books-are-great-gifts-even-if-you-dont-have-a-coffee-table/) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 30 November 2019 about [Andy Warhol](../../topics/andy-warhol/index.md), [exhibit](../../topics/exhibit/index.md), [exhibition](../../topics/exhibition/index.md), [Hachette Books](../../topics/hachette-books/index.md), [museum](../../topics/museum/index.md), [Penguin Random House](../../topics/penguin-random-house/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md), [trademark](../../topics/trademark/index.md) ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2019/11/30/coffee-table-books-are-great-gifts-even-if-you-dont-have-a-coffee-table/))
+
+----
 
  - [**"A Photographer That Counts Prince as a Mentor is Now Suing His Estate"**](https://www.lightstalking.com/a-photographer-that-counts-prince-as-a-mentor-is-now-suing-his-estate/) in [www.lightstalking.com](https://www.lightstalking.com/) on 29 November 2019 about [Madison Dube](../../topics/madison-dube/index.md) ([mirror](https://web.archive.org/web/*/https://www.lightstalking.com/a-photographer-that-counts-prince-as-a-mentor-is-now-suing-his-estate/))
 
@@ -1806,7 +1886,7 @@
 
 ----
 
- - [**"Prince’s estate gets it right the second time around with Prince: In Concert on the Big Screen"**](https://www.twincities.com/2019/04/27/princes-estate-gets-it-right-the-second-time-around-with-prince-in-concert-on-the-big-screen/) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 27 April 2019 ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2019/04/27/princes-estate-gets-it-right-the-second-time-around-with-prince-in-concert-on-the-big-screen/))
+ - [**"Prince’s estate gets it right the second time around with Prince: In Concert on the Big Screen"**](https://www.twincities.com/2019/04/27/princes-estate-gets-it-right-the-second-time-around-with-prince-in-concert-on-the-big-screen/) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 27 April 2019 about [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Pop Life (song)](../../topics/song/pop-life/index.md), [Prince: In Concert On The Big Screen](../../topics/prince-in-concert-on-the-big-screen/index.md), [Shelby J.](../../topics/shelby-j/index.md), [U Got the Look (song)](../../topics/song/u-got-the-look/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2019/04/27/princes-estate-gets-it-right-the-second-time-around-with-prince-in-concert-on-the-big-screen/))
 
 ----
 

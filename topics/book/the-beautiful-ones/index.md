@@ -1,5 +1,17 @@
 # The Beautiful Ones (book)
 
+ - [**"The 19 Best Audiobooks of 2019"**](https://www.pastemagazine.com/articles/2019/12/best-audiobooks-of-2019-novels-nonfiction-list.html) in [Paste Magazine](https://www.pastemagazine.com/) on 9 December 2019 about [Dan Piepenbring](../../../topics/dan-piepenbring/index.md), [Esperanza Spalding](../../../topics/esperanza-spalding/index.md), [memoir](../../../topics/memoir/index.md), [The Beautiful Ones (book)](../../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.pastemagazine.com/articles/2019/12/best-audiobooks-of-2019-novels-nonfiction-list.html))
+
+----
+
+ - [**"The people’s Prince: even as a teenager the musician charmed everyone he met -- A newly discovered cache of his handwritten notes, as well as wonderful early photographs, reveal just how funny and charming the youthful Prince was"**](https://www.spectator.co.uk/2019/12/the-peoples-prince-even-as-a-teenager-the-musician-charmed-everyone-he-met/) in [www.spectator.co.uk](https://www.spectator.co.uk/) on 7 December 2019 about [Dan Piepenbring](../../../topics/dan-piepenbring/index.md), [Joni Mitchell](../../../topics/joni-mitchell/index.md), [Mayte](../../../topics/mayte/index.md), [Mayte Garcia](../../../topics/mayte-garcia/index.md), [memoir](../../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [The Beautiful Ones (book)](../../../topics/book/the-beautiful-ones/index.md), [vault](../../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.spectator.co.uk/2019/12/the-peoples-prince-even-as-a-teenager-the-musician-charmed-everyone-he-met/))
+
+----
+
+ - [**"Music bios should strike chord with Moorer, Prince, Elton fans"**](https://www.bostonherald.com/2019/12/03/music-bios-should-strike-chord-with-moorer-prince-elton-fans/) in [www.bostonherald.com](https://www.bostonherald.com/) on 3 December 2019 about [Dan Piepenbring](../../../topics/dan-piepenbring/index.md), [memoir](../../../topics/memoir/index.md), [merchandise](../../../topics/merchandise/index.md), [Spiegel & Grau](../../../topics/spiegel-grau/index.md), [The Beautiful Ones (book)](../../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.bostonherald.com/2019/12/03/music-bios-should-strike-chord-with-moorer-prince-elton-fans/))
+
+----
+
  - [**"The best music books of 2019 -- BOOKS OF THE YEAR"**](https://www.thetimes.co.uk/article/the-best-music-books-of-2019-2ztl5fncb) in [The Times](https://www.thetimes.co.uk/) on 22 November 2019 about [Dan Piepenbring](../../../topics/dan-piepenbring/index.md), [Ed Sheeran](../../../topics/ed-sheeran/index.md), [memoir](../../../topics/memoir/index.md), [Stevie Wonder](../../../topics/stevie-wonder/index.md), [The Beautiful Ones (book)](../../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.thetimes.co.uk/article/the-best-music-books-of-2019-2ztl5fncb))
 
 ----

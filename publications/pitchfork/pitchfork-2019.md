@@ -1,6 +1,10 @@
 # 2019
 
-## December 2019 (1)
+## December 2019 (2)
+
+ - [**"Prince’s Purple Rain Added to National Film Registry -- The Library of Congress has also archived She’s Gotta Have It, Clerks, The Last Waltz, and more"**](https://pitchfork.com/news/princes-purple-rain-added-to-national-film-registry/) in [Pitchfork](https://pitchfork.com/) on 11 December 2019 about [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Spike Lee](../../topics/spike-lee/index.md) ([mirror](https://web.archive.org/web/*/https://pitchfork.com/news/princes-purple-rain-added-to-national-film-registry/))
+
+----
 
  - [**"Prince - 1999 -- This five-disc set, which includes concert footage, B-sides, and demos, delivers what box sets of this kind almost never do: the thrill of discovery."**](https://pitchfork.com/reviews/albums/prince-1999/) in [Pitchfork](https://pitchfork.com/) on 2 December 2019 about [1999 (album)](../../topics/album/1999/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Horny Toad (song)](../../topics/song/horny-toad/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Purple Music (song)](../../topics/song/purple-music/index.md), [Rearrange (song)](../../topics/song/rearrange/index.md) ([mirror](https://web.archive.org/web/*/https://pitchfork.com/reviews/albums/prince-1999/))
 

@@ -1,5 +1,13 @@
 # Erotic City (song)
 
+ - [**"Prince's Personal Photographer on What It Was Like to Work Closely with Him"**](https://www.yahoo.com/lifestyle/princes-personal-photographer-closely-him-140000320.html) in [www.yahoo.com](https://www.yahoo.com/) on 4 December 2019 about [3rdEyeGirl](../../../topics/3rdeyegirl/index.md), [Elisa Fiorillo](../../../topics/elisa-fiorillo/index.md), [Erotic City (song)](../../../topics/song/erotic-city/index.md), [Randee St. Nicholas](../../../topics/randee-st-nicholas/index.md), [Vanity](../../../topics/vanity/index.md), [Vanity 6](../../../topics/vanity-6/index.md) ([mirror](https://web.archive.org/web/*/https://www.yahoo.com/lifestyle/princes-personal-photographer-closely-him-140000320.html))
+
+----
+
+ - [**"Prince's Personal Photographer on What It Was Like to Work Closely with Him -- Randee St. Nicholas's new book, My Name Is Prince, collects and unpacks photographs and memories of the icon."**](https://www.gq.com/story/prince-photographer-randee-st-nicholas-interview) in [www.gq.com](https://www.gq.com/) on 4 December 2019 about [3rdEyeGirl](../../../topics/3rdeyegirl/index.md), [Elisa Fiorillo](../../../topics/elisa-fiorillo/index.md), [Erotic City (song)](../../../topics/song/erotic-city/index.md), [Randee St. Nicholas](../../../topics/randee-st-nicholas/index.md), [The Revolution](../../../topics/the-revolution/index.md), [Vanity](../../../topics/vanity/index.md), [Vanity 6](../../../topics/vanity-6/index.md) ([mirror](https://web.archive.org/web/*/https://www.gq.com/story/prince-photographer-randee-st-nicholas-interview))
+
+----
+
  - [**"Prince’s Previously Unreleased ‘Purple Music’ is ‘1999’-Era Perfection -- The track came out Friday as part of a massive box set revisiting Prince’s 5th LP"**](https://www.rollingstone.com/music/music-news/prince-purple-music-song-you-need-to-know-918020/) in [Rolling Stone](https://www.rollingstone.com/) on 2 December 2019 about [1999 (album)](../../../topics/album/1999/index.md), [bootleg](../../../topics/bootleg/index.md), [Computer Blue (song)](../../../topics/song/computer-blue/index.md), [Erotic City (song)](../../../topics/song/erotic-city/index.md), [Irresistible Bitch (song)](../../../topics/song/irresistible-bitch/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Morris Day](../../../topics/morris-day/index.md), [Purple Music (song)](../../../topics/song/purple-music/index.md) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-news/prince-purple-music-song-you-need-to-know-918020/))
 
 ----

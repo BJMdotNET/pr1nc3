@@ -1,5 +1,9 @@
 # Miles Davis
 
+ - [**""CALL & RESPONSE" IS A FASHION LINE CREATED BY PRINCE'S TRUSTED DESIGNERS -- To honor the Super Deluxe reissue of "1999", the duo conjured up a collection full of textured fabrics, overlays and detail."**](https://vmagazine.com/article/call-response-is-a-fashion-line-created-by-princes-trusted-designers/) in [vmagazine.com](https://vmagazine.com/) on 3 December 2019 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md) ([mirror](https://web.archive.org/web/*/https://vmagazine.com/article/call-response-is-a-fashion-line-created-by-princes-trusted-designers/))
+
+----
+
  - [**"INTERVIEW: PRINCE ARCHIVIST MICHAEL HOWE ON PRINCE'S FAMED VAULT"**](https://www.ilikeyouroldstuff.com/news/interview-prince-archivist-michael-howe-on-prince-vault) in [I Like Your Old Stuff](https://www.ilikeyouroldstuff.com/) on 25 November 2019 about [1999 (album)](../../topics/album/1999/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Michael Howe](../../topics/michael-howe/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Purple Music (song)](../../topics/song/purple-music/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.ilikeyouroldstuff.com/news/interview-prince-archivist-michael-howe-on-prince-vault))
 
 ----
