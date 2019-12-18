@@ -1,5 +1,15 @@
 # 2019
 
+## December 2019 (2)
+
+ - [**"Paisley Park announces Celebration 2020 dates, moving from April to June"**](https://blog.thecurrent.org/2019/12/paisley-park-announces-celebration-2020-dates-moving-from-april-to-june/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 16 December 2019 about [Andrea Swensson](../../topics/andrea-swensson/index.md), [Bob Cavallo](../../topics/bob-cavallo/index.md), [Celebration](../../topics/celebration/index.md), [Celebration 2020](../../topics/celebration-2020/index.md), [Jesse Johnson](../../topics/jesse-johnson/index.md), [museum](../../topics/museum/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [The Revolution](../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2019/12/paisley-park-announces-celebration-2020-dates-moving-from-april-to-june/))
+
+----
+
+ - [**"‘Purple Rain’ added to National Film Registry"**](https://blog.thecurrent.org/2019/12/purple-rain-added-to-national-film-registry/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 11 December 2019 about [Albert Magnoli](../../topics/albert-magnoli/index.md), [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Bob Dylan](../../topics/bob-dylan/index.md) ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2019/12/purple-rain-added-to-national-film-registry/))
+
+----
+
 ## November 2019 (1)
 
  - [**"Wee Willie Walker, Minnesota soul legend, dies at 77"**](https://blog.thecurrent.org/2019/11/wee-willie-walker-minneapolis-soul-legend-dies-at-77/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 19 November 2019 about [Andrea Swensson](../../topics/andrea-swensson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md) ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2019/11/wee-willie-walker-minneapolis-soul-legend-dies-at-77/))

@@ -170,7 +170,7 @@
 
 ----
 
- - [**"Musicheads Essentials: Prince - 1999"**](https://www.thecurrent.org/feature/2018/10/27/musicheads-essentials-prince-1999) in [The Current](https://www.thecurrent.org/) on 27 October 2018 ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2018/10/27/musicheads-essentials-prince-1999))
+ - [**"Musicheads Essentials: Prince - 1999"**](https://www.thecurrent.org/feature/2018/10/27/musicheads-essentials-prince-1999) in [The Current](https://www.thecurrent.org/) on 27 October 2018 about [1999 (album)](../../topics/album/1999/index.md), [André Cymone](../../topics/andr-cymone/index.md), [Computer Blue (song)](../../topics/song/computer-blue/index.md), [James Brown](../../topics/james-brown/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [St. Louis Park (place)](../../topics/place/st-louis-park/index.md), [Steve Fargnoli ](../../topics/steve-fargnoli/index.md), [The Revolution](../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2018/10/27/musicheads-essentials-prince-1999))
 
 ----
 
@@ -716,13 +716,17 @@
 
 ----
 
-## February 2018 (11)
+## February 2018 (12)
 
  - [**"Minnesota Twins will funk it up with Prince branding deal, second night honoring the artist"**](http://www.startribune.com/minnesota-twins-bring-back-popular-prince-night-for-a-second-year/475168823/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 27 February 2018 about [Minnesota Twins](../../topics/minnesota-twins/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/minnesota-twins-bring-back-popular-prince-night-for-a-second-year/475168823/))
 
 ----
 
  - [**"Raphael Saadiq on His Oscar-Nominated ‘Mudbound’ Song, Working With Mary J. Blige and Declining Prince’s Record Deal"**](https://variety.com/2018/film/news/raphael-saadiq-on-his-oscar-nominated-mudbound-song-working-with-mary-j-blige-and-declining-princes-record-deal-1202708352/) in [Variety](https://variety.com/) on 23 February 2018 about [Chaka Khan](../../topics/chaka-khan/index.md), [D’Angelo](../../topics/d-angelo/index.md), [Raphael Saadiq](../../topics/raphael-saadiq/index.md), [Sheila E.](../../topics/sheila-e/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2018/film/news/raphael-saadiq-on-his-oscar-nominated-mudbound-song-working-with-mary-j-blige-and-declining-princes-record-deal-1202708352/))
+
+----
+
+ - [**"Rewinding the Charts: In 1985, Sheena Easton Sexed Up Pop With 'Sugar Walls'"**](https://www.billboard.com/articles/columns/chart-beat/6480268/sheena-easton-sugar-walls-prince-rewinding-charts) in [Billboard](https://www.billboard.com/) on 23 February 2018 ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/columns/chart-beat/6480268/sheena-easton-sugar-walls-prince-rewinding-charts))
 
 ----
 

@@ -1,12 +1,40 @@
 # 2019
 
-## December 2019 (27)
+## December 2019 (34)
+
+ - [**"Rock and Roll Book Club: Best music books of 2019"**](https://www.thecurrent.org/feature/2019/12/11/best-music-books-2019) in [The Current](https://www.thecurrent.org/) on 18 December 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/12/11/best-music-books-2019))
+
+----
+
+ - [**"Prince: The Story of 1999 bonus feature: Lisa Coleman, 'Prince and I just connected musically'"**](https://www.thecurrent.org/feature/2019/12/17/the-revolution-lisa-coleman-prince-was-an-amazing-spirit-guide) in [The Current](https://www.thecurrent.org/) on 17 December 2019 about [1999 (album)](../../topics/album/1999/index.md), [Andrea Swensson](../../topics/andrea-swensson/index.md), [Bob Dylan](../../topics/bob-dylan/index.md), [BrownMark](../../topics/brownmark/index.md), [I Wanna Be Your Lover (song)](../../topics/song/i-wanna-be-your-lover/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Matt Fink](../../topics/matt-fink/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [The Revolution](../../topics/the-revolution/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md), [Yah, You Know (song)](../../topics/song/yah-you-know/index.md) ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/12/17/the-revolution-lisa-coleman-prince-was-an-amazing-spirit-guide))
+
+----
+
+ - [**"Paisley Park announces Celebration 2020 dates, moving from April to June"**](https://blog.thecurrent.org/2019/12/paisley-park-announces-celebration-2020-dates-moving-from-april-to-june/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 16 December 2019 about [Andrea Swensson](../../topics/andrea-swensson/index.md), [Bob Cavallo](../../topics/bob-cavallo/index.md), [Celebration](../../topics/celebration/index.md), [Celebration 2020](../../topics/celebration-2020/index.md), [Jesse Johnson](../../topics/jesse-johnson/index.md), [museum](../../topics/museum/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [The Revolution](../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2019/12/paisley-park-announces-celebration-2020-dates-moving-from-april-to-june/))
+
+----
+
+ - [**"Prince: The Story of 1999 bonus feature: Nile Rodgers, 'Prince made such an impression on the world'"**](https://www.thecurrent.org/feature/2019/12/13/prince-the-story-of-1999-bonus-feature-nile-rodgers-interview) in [The Current](https://www.thecurrent.org/) on 13 December 2019 about [1999 (album)](../../topics/album/1999/index.md), [Andrea Swensson](../../topics/andrea-swensson/index.md), [Essence Fest](../../topics/essence-fest/index.md), [Morris Day](../../topics/morris-day/index.md), [Nile Rodgers](../../topics/nile-rodgers/index.md), [Spotify](../../topics/spotify/index.md), [Turks and Caicos](../../topics/turks-and-caicos/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md), [YouTube](../../topics/youtube/index.md) ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/12/13/prince-the-story-of-1999-bonus-feature-nile-rodgers-interview))
+
+----
 
  - [**"‘Purple Rain,’ ‘Clerks, ‘She’s Gotta Have It’ Added to National Film Registry"**](https://variety.com/2019/film/news/purple-rain-clerks-shes-gotta-have-it-national-film-registry-1203431784/) in [Variety](https://variety.com/) on 11 December 2019 about [Albert Magnoli](../../topics/albert-magnoli/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Spike Lee](../../topics/spike-lee/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2019/film/news/purple-rain-clerks-shes-gotta-have-it-national-film-registry-1203431784/))
 
 ----
 
+ - [**"‘Purple Rain’ added to National Film Registry"**](https://blog.thecurrent.org/2019/12/purple-rain-added-to-national-film-registry/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 11 December 2019 about [Albert Magnoli](../../topics/albert-magnoli/index.md), [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Bob Dylan](../../topics/bob-dylan/index.md) ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2019/12/purple-rain-added-to-national-film-registry/))
+
+----
+
  - [**"Prince’s Purple Rain Added to National Film Registry -- The Library of Congress has also archived She’s Gotta Have It, Clerks, The Last Waltz, and more"**](https://pitchfork.com/news/princes-purple-rain-added-to-national-film-registry/) in [Pitchfork](https://pitchfork.com/) on 11 December 2019 about [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Spike Lee](../../topics/spike-lee/index.md) ([mirror](https://web.archive.org/web/*/https://pitchfork.com/news/princes-purple-rain-added-to-national-film-registry/))
+
+----
+
+ - [**"'Purple Rain,' 'Amadeus,' 'The Last Waltz' and More Make it Into National Film Registry Class of 2019: See the List"**](https://www.billboard.com/articles/news/movies/8545964/national-film-registry-2019-purple-rain) in [Billboard](https://www.billboard.com/) on 11 December 2019 about [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Spike Lee](../../topics/spike-lee/index.md) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/movies/8545964/national-film-registry-2019-purple-rain))
+
+----
+
+ - [**"Prince: The Story of 1999, Episode 4: Let's Work"**](https://www.thecurrent.org/feature/2019/12/10/prince-the-story-of-1999-episode-4-lets-work-swensson) in [The Current](https://www.thecurrent.org/) on 10 December 2019 about [1999 (album)](../../topics/album/1999/index.md), [1999 Super Deluxe (album)](../../topics/album/1999-super-deluxe/index.md), [Alabama Shakes](../../topics/alabama-shakes/index.md), [Andrea Swensson](../../topics/andrea-swensson/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [Essence Fest](../../topics/essence-fest/index.md), [Fred Armisen](../../topics/fred-armisen/index.md), [How Come U Don't Call Me Anymore (song)](../../topics/song/how-come-u-don-t-call-me-anymore/index.md), [I Wanna Be Your Lover (song)](../../topics/song/i-wanna-be-your-lover/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [LeRoy Bennett](../../topics/leroy-bennett/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Matt Fink](../../topics/matt-fink/index.md), [Maya Rudolph](../../topics/maya-rudolph/index.md), [Michael Howe](../../topics/michael-howe/index.md), [Nile Rodgers](../../topics/nile-rodgers/index.md), [Parade (album)](../../topics/album/parade/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [Spotify](../../topics/spotify/index.md), [Super Bowl](../../topics/super-bowl/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [The Revolution](../../topics/the-revolution/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/12/10/prince-the-story-of-1999-episode-4-lets-work-swensson))
 
 ----
 
@@ -1040,7 +1068,7 @@
 
 ----
 
- - [**"Prince's 50 greatest singles – ranked!"**](https://www.theguardian.com/music/2019/sep/12/prince-50-greatest-singles-ranked) in [The Guardian](https://www.theguardian.com/) on 12 September 2019 about [Cat Glover](../../topics/cat-glover/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md), [Thieves in the Temple (song)](../../topics/song/thieves-in-the-temple/index.md) ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/music/2019/sep/12/prince-50-greatest-singles-ranked))
+ - [**"Prince's 50 greatest singles – ranked!"**](https://www.theguardian.com/music/2019/sep/12/prince-50-greatest-singles-ranked) in [The Guardian](https://www.theguardian.com/) on 12 September 2019 about [Cat Glover](../../topics/cat-glover/index.md), [Nile Rodgers](../../topics/nile-rodgers/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md), [Thieves in the Temple (song)](../../topics/song/thieves-in-the-temple/index.md) ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/music/2019/sep/12/prince-50-greatest-singles-ranked))
 
 ----
 
@@ -1670,7 +1698,7 @@
 
 ----
 
- - [**"Prince's 'Originals' Album: Comparing Each Demo With Its Well-Known Cover Version"**](https://www.billboard.com/articles/news/8517576/prince-originals-album-covers) in [Billboard](https://www.billboard.com/) on 25 June 2019 about [Alan Light](../../topics/alan-light/index.md), [Bangles](../../topics/bangles/index.md), [BrownMark](../../topics/brownmark/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Morris Day](../../topics/morris-day/index.md), [Originals (album)](../../topics/album/originals/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [The Revolution](../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8517576/prince-originals-album-covers))
+ - [**"Prince's 'Originals' Album: Comparing Each Demo With Its Well-Known Cover Version"**](https://www.billboard.com/articles/news/8517576/prince-originals-album-covers) in [Billboard](https://www.billboard.com/) on 25 June 2019 about [Alan Light](../../topics/alan-light/index.md), [Bangles](../../topics/bangles/index.md), [BrownMark](../../topics/brownmark/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Morris Day](../../topics/morris-day/index.md), [Nile Rodgers](../../topics/nile-rodgers/index.md), [Originals (album)](../../topics/album/originals/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [The Revolution](../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8517576/prince-originals-album-covers))
 
 ----
 
@@ -1830,7 +1858,7 @@
 
 ----
 
- - [**"Remembering when Prince wrote that song for you"**](https://apnews.com/9946e6f68e354265a15047187b217b56) in [Associated Press News](https://apnews.com/) on 4 June 2019 about [Apollonia 6](../../topics/apollonia-6/index.md), [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Bangles](../../topics/bangles/index.md), [Denise Matthews](../../topics/denise-matthews/index.md), [Joey Coco](../../topics/joey-coco/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../topics/album/originals/index.md), [Paisley Park Records](../../topics/paisley-park-records/index.md), [Sex Shooter (song)](../../topics/song/sex-shooter/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [The Family](../../topics/the-family/index.md), [The Glamorous Life (song)](../../topics/song/the-glamorous-life/index.md), [The Time](../../topics/the-time/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/9946e6f68e354265a15047187b217b56))
+ - [**"Remembering when Prince wrote that song for you"**](https://apnews.com/9946e6f68e354265a15047187b217b56) in [Associated Press News](https://apnews.com/) on 4 June 2019 about [Apollonia 6](../../topics/apollonia-6/index.md), [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Bangles](../../topics/bangles/index.md), [Denise Matthews](../../topics/denise-matthews/index.md), [Joey Coco](../../topics/joey-coco/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Nile Rodgers](../../topics/nile-rodgers/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../topics/album/originals/index.md), [Paisley Park Records](../../topics/paisley-park-records/index.md), [Sex Shooter (song)](../../topics/song/sex-shooter/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [The Family](../../topics/the-family/index.md), [The Glamorous Life (song)](../../topics/song/the-glamorous-life/index.md), [The Time](../../topics/the-time/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/9946e6f68e354265a15047187b217b56))
 
 ----
 

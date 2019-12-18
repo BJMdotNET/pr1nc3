@@ -16,6 +16,10 @@
 
 ----
 
+ - [**"Hunting for Prince's vault"**](https://www.bbc.com/news/magazine-31962180) in [BBC News](https://www.bbc.com/news/) on 20 March 2015 about [Alan Leeds](../../topics/alan-leeds/index.md), [Donna Grantis](../../topics/donna-grantis/index.md), [Dream Factory (album)](../../topics/album/dream-factory/index.md), [Eric Leeds](../../topics/eric-leeds/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [vault](../../topics/vault/index.md), [Wally (song)](../../topics/song/wally/index.md), [YouTube](../../topics/youtube/index.md) ([mirror](https://web.archive.org/web/*/https://www.bbc.com/news/magazine-31962180))
+
+----
+
  - [**"Rock Star Plays Surprise Concert For Handicapped Children"**](https://apnews.com/1ca469b35a7440f27741bf605c161816) in [Associated Press News](https://apnews.com/) on 20 March 1985 about [Alan Leeds](../../topics/alan-leeds/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Baby I’m a Star (song)](../../topics/song/baby-i-m-a-star/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/1ca469b35a7440f27741bf605c161816))
 
 ----

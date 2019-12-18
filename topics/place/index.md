@@ -13,7 +13,7 @@
   * [Galpin Boulevard (place)](./place/galpin-boulevard/) (1)
   * [Glam Slam (place)](./place/glam-slam/) (2)
   * [Houston Summit (place)](./place/houston-summit/) (13)
-  * [Lake Minnetonka (place)](./place/lake-minnetonka/) (5)
+  * [Lake Minnetonka (place)](./place/lake-minnetonka/) (6)
   * [London (place)](./place/london/) (9)
   * [Mann’s Chinese Theatre (place)](./place/mann-s-chinese-theatre/) (1)
   * [Minneapolis-St. Paul International Airport (place)](./place/minneapolis-st-paul-international-airport/) (2)
@@ -24,10 +24,10 @@
   * [Sam’s (place)](./place/sam-s/) (3)
   * [Sausalito (place)](./place/sausalito/) (2)
   * [Smithsonian (place)](./place/smithsonian/) (5)
-  * [St. Louis Park (place)](./place/st-louis-park/) (4)
-  * [Sunset Sound (place)](./place/sunset-sound/) (26)
+  * [St. Louis Park (place)](./place/st-louis-park/) (6)
+  * [Sunset Sound (place)](./place/sunset-sound/) (27)
   * [Uncle Sam’s (place)](./place/uncle-sam-s/) (2)
-  * [White House (place)](./place/white-house/) (6)
+  * [White House (place)](./place/white-house/) (7)
   * [Xcel Energy Center (place)](./place/xcel-energy-center/) (13)
 
 ----

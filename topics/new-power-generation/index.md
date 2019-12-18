@@ -1,5 +1,9 @@
 # New Power Generation
 
+ - [**"Paisley Park announces Celebration 2020 dates, moving from April to June"**](https://blog.thecurrent.org/2019/12/paisley-park-announces-celebration-2020-dates-moving-from-april-to-june/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 16 December 2019 about [Andrea Swensson](../../topics/andrea-swensson/index.md), [Bob Cavallo](../../topics/bob-cavallo/index.md), [Celebration](../../topics/celebration/index.md), [Celebration 2020](../../topics/celebration-2020/index.md), [Jesse Johnson](../../topics/jesse-johnson/index.md), [museum](../../topics/museum/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [The Revolution](../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2019/12/paisley-park-announces-celebration-2020-dates-moving-from-april-to-june/))
+
+----
+
  - [**"From 'The Ladder' to 'The Cross,' Prince's Legacy Endures Through His Friends and Music at a Town Hall Tribute"**](https://www.theroot.com/from-the-ladder-to-the-cross-princes-legacy-endured-th-1839945113) in [The Root](https://www.theroot.com/) on 19 November 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Greg Tate](../../topics/greg-tate/index.md), [memoir](../../topics/memoir/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Spike Lee](../../topics/spike-lee/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://www.theroot.com/from-the-ladder-to-the-cross-princes-legacy-endured-th-1839945113))
 
 ----

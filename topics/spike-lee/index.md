@@ -8,6 +8,10 @@
 
 ----
 
+ - [**"'Purple Rain,' 'Amadeus,' 'The Last Waltz' and More Make it Into National Film Registry Class of 2019: See the List"**](https://www.billboard.com/articles/news/movies/8545964/national-film-registry-2019-purple-rain) in [Billboard](https://www.billboard.com/) on 11 December 2019 about [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Spike Lee](../../topics/spike-lee/index.md) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/movies/8545964/national-film-registry-2019-purple-rain))
+
+----
+
  - [**"From 'The Ladder' to 'The Cross,' Prince's Legacy Endures Through His Friends and Music at a Town Hall Tribute"**](https://www.theroot.com/from-the-ladder-to-the-cross-princes-legacy-endured-th-1839945113) in [The Root](https://www.theroot.com/) on 19 November 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Greg Tate](../../topics/greg-tate/index.md), [memoir](../../topics/memoir/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Spike Lee](../../topics/spike-lee/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://www.theroot.com/from-the-ladder-to-the-cross-princes-legacy-endured-th-1839945113))
 
 ----

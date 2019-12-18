@@ -1,6 +1,6 @@
 # The Current
 
-  * [2019](./the-current-2019.md/) (15)
+  * [2019](./the-current-2019.md/) (19)
   * [2018](./the-current-2018.md/) (3)
 ----
 

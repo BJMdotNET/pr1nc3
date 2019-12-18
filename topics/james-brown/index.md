@@ -72,6 +72,10 @@
 
 ----
 
+ - [**"Musicheads Essentials: Prince - 1999"**](https://www.thecurrent.org/feature/2018/10/27/musicheads-essentials-prince-1999) in [The Current](https://www.thecurrent.org/) on 27 October 2018 about [1999 (album)](../../topics/album/1999/index.md), [André Cymone](../../topics/andr-cymone/index.md), [Computer Blue (song)](../../topics/song/computer-blue/index.md), [James Brown](../../topics/james-brown/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [St. Louis Park (place)](../../topics/place/st-louis-park/index.md), [Steve Fargnoli ](../../topics/steve-fargnoli/index.md), [The Revolution](../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2018/10/27/musicheads-essentials-prince-1999))
+
+----
+
  - [**"The days the music died: A look at funerals of the greats"**](https://apnews.com/7d546ab5dbec4e5ba4ebd0eddd1064e8) in [Associated Press News](https://apnews.com/) on 29 August 2018 about [Graceland](../../topics/graceland/index.md), [James Brown](../../topics/james-brown/index.md), [Larry Graham](../../topics/larry-graham/index.md), [museum](../../topics/museum/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [trademark](../../topics/trademark/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/7d546ab5dbec4e5ba4ebd0eddd1064e8))
 
 ----

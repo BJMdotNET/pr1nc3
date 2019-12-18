@@ -12,4 +12,8 @@
 
 ----
 
+ - [**"Musicheads Essentials: Prince - 1999"**](https://www.thecurrent.org/feature/2018/10/27/musicheads-essentials-prince-1999) in [The Current](https://www.thecurrent.org/) on 27 October 2018 about [1999 (album)](../../topics/album/1999/index.md), [André Cymone](../../topics/andr-cymone/index.md), [Computer Blue (song)](../../topics/song/computer-blue/index.md), [James Brown](../../topics/james-brown/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [St. Louis Park (place)](../../topics/place/st-louis-park/index.md), [Steve Fargnoli ](../../topics/steve-fargnoli/index.md), [The Revolution](../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2018/10/27/musicheads-essentials-prince-1999))
+
+----
+
 [Home](../)

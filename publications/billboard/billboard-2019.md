@@ -1,5 +1,11 @@
 # 2019
 
+## December 2019 (1)
+
+ - [**"'Purple Rain,' 'Amadeus,' 'The Last Waltz' and More Make it Into National Film Registry Class of 2019: See the List"**](https://www.billboard.com/articles/news/movies/8545964/national-film-registry-2019-purple-rain) in [Billboard](https://www.billboard.com/) on 11 December 2019 about [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Spike Lee](../../topics/spike-lee/index.md) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/movies/8545964/national-film-registry-2019-purple-rain))
+
+----
+
 ## November 2019 (4)
 
  - [**"Prince's '1999': 10 Best Bonus Songs on the Super Deluxe Edition"**](https://www.billboard.com/articles/news/8544912/prince-1999-reissue-best-moments) in [Billboard](https://www.billboard.com/) on 27 November 2019 about [1999 (album)](../../topics/album/1999/index.md), [Bold Generation (song)](../../topics/song/bold-generation/index.md), [Can’t Stop This Feeling I Got (song)](../../topics/song/can-t-stop-this-feeling-i-got/index.md), [Do Yourself a Favor (song)](../../topics/song/do-yourself-a-favor/index.md), [Graffiti Bridge (album)](../../topics/album/graffiti-bridge/index.md), [How Come U Don’t Call Me Anymore? (song)](../../topics/song/how-come-u-don-t-call-me-anymore/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [New Power Generation (song)](../../topics/song/new-power-generation/index.md), [Purple Music (song)](../../topics/song/purple-music/index.md), [Rearrange (song)](../../topics/song/rearrange/index.md), [Vagina (song)](../../topics/song/vagina/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8544912/prince-1999-reissue-best-moments))
@@ -54,7 +60,7 @@
 
 ----
 
- - [**"Prince's 'Originals' Album: Comparing Each Demo With Its Well-Known Cover Version"**](https://www.billboard.com/articles/news/8517576/prince-originals-album-covers) in [Billboard](https://www.billboard.com/) on 25 June 2019 about [Alan Light](../../topics/alan-light/index.md), [Bangles](../../topics/bangles/index.md), [BrownMark](../../topics/brownmark/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Morris Day](../../topics/morris-day/index.md), [Originals (album)](../../topics/album/originals/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [The Revolution](../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8517576/prince-originals-album-covers))
+ - [**"Prince's 'Originals' Album: Comparing Each Demo With Its Well-Known Cover Version"**](https://www.billboard.com/articles/news/8517576/prince-originals-album-covers) in [Billboard](https://www.billboard.com/) on 25 June 2019 about [Alan Light](../../topics/alan-light/index.md), [Bangles](../../topics/bangles/index.md), [BrownMark](../../topics/brownmark/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Morris Day](../../topics/morris-day/index.md), [Nile Rodgers](../../topics/nile-rodgers/index.md), [Originals (album)](../../topics/album/originals/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [The Revolution](../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8517576/prince-originals-album-covers))
 
 ----
 

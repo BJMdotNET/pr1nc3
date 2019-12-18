@@ -1,5 +1,9 @@
 # Dan Piepenbring
 
+ - [**"Rock and Roll Book Club: Best music books of 2019"**](https://www.thecurrent.org/feature/2019/12/11/best-music-books-2019) in [The Current](https://www.thecurrent.org/) on 18 December 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/12/11/best-music-books-2019))
+
+----
+
  - [**"The 19 Best Audiobooks of 2019"**](https://www.pastemagazine.com/articles/2019/12/best-audiobooks-of-2019-novels-nonfiction-list.html) in [Paste Magazine](https://www.pastemagazine.com/) on 9 December 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Esperanza Spalding](../../topics/esperanza-spalding/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.pastemagazine.com/articles/2019/12/best-audiobooks-of-2019-novels-nonfiction-list.html))
 
 ----

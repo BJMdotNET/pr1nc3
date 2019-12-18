@@ -1,5 +1,9 @@
 # Turks and Caicos
 
+ - [**"Prince: The Story of 1999 bonus feature: Nile Rodgers, 'Prince made such an impression on the world'"**](https://www.thecurrent.org/feature/2019/12/13/prince-the-story-of-1999-bonus-feature-nile-rodgers-interview) in [The Current](https://www.thecurrent.org/) on 13 December 2019 about [1999 (album)](../../topics/album/1999/index.md), [Andrea Swensson](../../topics/andrea-swensson/index.md), [Essence Fest](../../topics/essence-fest/index.md), [Morris Day](../../topics/morris-day/index.md), [Nile Rodgers](../../topics/nile-rodgers/index.md), [Spotify](../../topics/spotify/index.md), [Turks and Caicos](../../topics/turks-and-caicos/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md), [YouTube](../../topics/youtube/index.md) ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/12/13/prince-the-story-of-1999-bonus-feature-nile-rodgers-interview))
+
+----
+
  - [**"The Beautiful Ones by Prince review — a primped-up scrapbook of the Purple One -- Prince’s posthumous memoir is as eccentric as meeting the great man himself, says Will Hodgkinson"**](https://www.thetimes.co.uk/article/the-beautiful-ones-by-prince-review-memoir-f5vd7rj5g) in [The Times](https://www.thetimes.co.uk/) on 29 October 2019 about [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [Turks and Caicos](../../topics/turks-and-caicos/index.md) ([mirror](https://web.archive.org/web/*/https://www.thetimes.co.uk/article/the-beautiful-ones-by-prince-review-memoir-f5vd7rj5g))
 
 ----

@@ -26,7 +26,7 @@
 
 ----
 
- - [**"Prince’s Closest Friends Share Their Best Prince Stories -- From Van Jones to Carmen Electra, publicists to Paisley Park members, those close to Prince Rogers Nelson tell tales—ordinary and out there—of the late legend."**](https://www.gq.com/story/prince-stories) in [www.gq.com](https://www.gq.com/) on 8 December 2016 ([mirror](https://web.archive.org/web/*/https://www.gq.com/story/prince-stories))
+ - [**"Prince’s Closest Friends Share Their Best Prince Stories -- From Van Jones to Carmen Electra, publicists to Paisley Park members, those close to Prince Rogers Nelson tell tales—ordinary and out there—of the late legend."**](https://www.gq.com/story/prince-stories) in [www.gq.com](https://www.gq.com/) on 8 December 2016 about [Albert Magnoli](../../topics/albert-magnoli/index.md), [André Cymone](../../topics/andr-cymone/index.md), [Audubon Road](../../topics/audubon-road/index.md), [Bangles](../../topics/bangles/index.md), [Cat Glover](../../topics/cat-glover/index.md), [Central High](../../topics/central-high/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Chappelle's Show (TV show)](../../topics/tv-show/chappelle-s-show/index.md), [Charlie Murphy](../../topics/charlie-murphy/index.md), [Corey Tollefson](../../topics/corey-tollefson/index.md), [Dave Chappelle](../../topics/dave-chappelle/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [Gwen Stefani](../../topics/gwen-stefani/index.md), [Jeremiah Freed](../../topics/jeremiah-freed/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Lake Minnetonka (place)](../../topics/place/lake-minnetonka/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Mayte](../../topics/mayte/index.md), [Micki Free](../../topics/micki-free/index.md), [Misty Copeland](../../topics/misty-copeland/index.md), [Morris Hayes](../../topics/morris-hayes/index.md), [Neal Karlen](../../topics/neal-karlen/index.md), [Netflix](../../topics/netflix/index.md), [NPG Records](../../topics/npg-records/index.md), [Obama](../../topics/obama/index.md), [Owen Husney](../../topics/owen-husney/index.md), [piracy](../../topics/piracy/index.md), [St. Louis Park (place)](../../topics/place/st-louis-park/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [The Gold Experience (album)](../../topics/album/the-gold-experience/index.md), [The Revolution](../../topics/the-revolution/index.md), [Van Jones](../../topics/van-jones/index.md), [Vanity](../../topics/vanity/index.md), [vault](../../topics/vault/index.md), [White House (place)](../../topics/place/white-house/index.md), [YouTube](../../topics/youtube/index.md) ([mirror](https://web.archive.org/web/*/https://www.gq.com/story/prince-stories))
 
 ----
 
@@ -108,7 +108,7 @@
 
 ----
 
-## October 2016 (23)
+## October 2016 (24)
 
  - [**"Judge rejects claim to Prince estate from woman and girl"**](https://apnews.com/26dcb05f3dc549dd8d6f415e3b6f2602) in [Associated Press News](https://apnews.com/) on 27 October 2016 about [Brianna Nelson](../../topics/brianna-nelson/index.md), [Carver County](../../topics/carver-county/index.md), [Duane Nelson](../../topics/duane-nelson/index.md), [fentanyl](../../topics/fentanyl/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Victoria Nelson](../../topics/victoria-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/26dcb05f3dc549dd8d6f415e3b6f2602))
 
@@ -127,6 +127,10 @@
 ----
 
  - [**"Prince’s siblings: Purported niece, grandniece are not heirs"**](https://apnews.com/52db4bd7107b4c8a9fedf31612ff26ab) in [Associated Press News](https://apnews.com/) on 18 October 2016 about [Brianna Nelson](../../topics/brianna-nelson/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Victoria Nelson](../../topics/victoria-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/52db4bd7107b4c8a9fedf31612ff26ab))
+
+----
+
+ - [**"Prince's Most NSFW Lyrics: 10 Times He Would Have Had to Pay The Swear Jar"**](https://www.billboard.com/articles/columns/pop/7542026/prince-lyrics-most-nsfw-songs) in [Billboard](https://www.billboard.com/) on 16 October 2016 about [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [Netflix](../../topics/netflix/index.md), [The Gold Experience (album)](../../topics/album/the-gold-experience/index.md) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/columns/pop/7542026/prince-lyrics-most-nsfw-songs))
 
 ----
 
