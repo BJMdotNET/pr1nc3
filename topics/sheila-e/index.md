@@ -1,5 +1,13 @@
 # Sheila E.
 
+ - [**"Sheila E. Recalls Hearing Her Song on the Radio the First Time -- Just as She Was Getting in a Car Crash"**](https://www.billboard.com/articles/columns/pop/8545796/sheila-e-glamorous-life-billboard-moment-video-interview) in [Billboard](https://www.billboard.com/) on 13 December 2019 about [Sheila E.](../../topics/sheila-e/index.md), [The Belle of St. Mark (song)](../../topics/song/the-belle-of-st-mark/index.md), [The Glamorous Life (album)](../../topics/album/the-glamorous-life/index.md), [The Glamorous Life (song)](../../topics/song/the-glamorous-life/index.md) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/columns/pop/8545796/sheila-e-glamorous-life-billboard-moment-video-interview))
+
+----
+
+ - [**"Sheila E. Dishes On How Prince Proposed To Her!"**](https://www.iheart.com/content/2018-01-05-sheila-e-dishes-on-how-prince-proposed-to-her/) in [www.iheart.com](https://www.iheart.com/) on 12 December 2019 about [Sheila E.](../../topics/sheila-e/index.md) ([mirror](https://web.archive.org/web/*/https://www.iheart.com/content/2018-01-05-sheila-e-dishes-on-how-prince-proposed-to-her/))
+
+----
+
  - [**"The afterlife of Prince, in words and music"**](https://www.inquirer.com/entertainment/prince-1999-beautiful-ones-music-book-tom-petty-david-bowie-20191115.html) in [www.inquirer.com](https://www.inquirer.com/) on 15 November 2019 about [bootleg](../../topics/bootleg/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [museum](../../topics/museum/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [Spike Lee](../../topics/spike-lee/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [Vagina (song)](../../topics/song/vagina/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.inquirer.com/entertainment/prince-1999-beautiful-ones-music-book-tom-petty-david-bowie-20191115.html))
 
 ----

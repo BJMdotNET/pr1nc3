@@ -24,6 +24,10 @@
 
 ----
 
+ - [**"Prince Wanted To 'Break The Mold Of The Memoir,' Says His Co-Writer"**](https://www.npr.org/2019/11/28/782929000/prince-wanted-to-break-the-mold-of-the-memoir-says-his-co-writer) in [National Public Radio](https://www.npr.org/) on 28 November 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [fentanyl](../../topics/fentanyl/index.md), [Kim Pratt](../../topics/kim-pratt/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [vault](../../topics/vault/index.md), [Vicodin](../../topics/vicodin/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://www.npr.org/2019/11/28/782929000/prince-wanted-to-break-the-mold-of-the-memoir-says-his-co-writer))
+
+----
+
  - [**"The best music books of 2019 -- BOOKS OF THE YEAR"**](https://www.thetimes.co.uk/article/the-best-music-books-of-2019-2ztl5fncb) in [The Times](https://www.thetimes.co.uk/) on 22 November 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Ed Sheeran](../../topics/ed-sheeran/index.md), [memoir](../../topics/memoir/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.thetimes.co.uk/article/the-best-music-books-of-2019-2ztl5fncb))
 
 ----
@@ -248,7 +252,7 @@
 
 ----
 
- - [**"IRRESISTIBLE BOOK: PRINCE’S MEMOIR “THE BEAUTIFUL ONES”"**](https://scottwoodsmakeslists.wordpress.com/2019/10/27/irresistible-book-princes-memoir-the-beautiful-ones/) in [scottwoodsmakeslists.wordpress.com](https://scottwoodsmakeslists.wordpress.com/) on 28 October 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Ed Sheeran](../../topics/ed-sheeran/index.md), [Eric Leeds](../../topics/eric-leeds/index.md), [James Brown](../../topics/james-brown/index.md), [Katy Perry](../../topics/katy-perry/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://scottwoodsmakeslists.wordpress.com/2019/10/27/irresistible-book-princes-memoir-the-beautiful-ones/))
+ - [**"IRRESISTIBLE BOOK: PRINCE’S MEMOIR “THE BEAUTIFUL ONES”"**](https://scottwoodsmakeslists.wordpress.com/2019/10/27/irresistible-book-princes-memoir-the-beautiful-ones/) in [scottwoodsmakeslists.wordpress.com](https://scottwoodsmakeslists.wordpress.com/) on 28 October 2019 about [Brittany Howard](../../topics/brittany-howard/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Ed Sheeran](../../topics/ed-sheeran/index.md), [Eric Leeds](../../topics/eric-leeds/index.md), [James Brown](../../topics/james-brown/index.md), [Katy Perry](../../topics/katy-perry/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://scottwoodsmakeslists.wordpress.com/2019/10/27/irresistible-book-princes-memoir-the-beautiful-ones/))
 
 ----
 

@@ -1,6 +1,10 @@
 # 2019
 
-## December 2019 (1)
+## December 2019 (2)
+
+ - [**"Sheila E. Recalls Hearing Her Song on the Radio the First Time -- Just as She Was Getting in a Car Crash"**](https://www.billboard.com/articles/columns/pop/8545796/sheila-e-glamorous-life-billboard-moment-video-interview) in [Billboard](https://www.billboard.com/) on 13 December 2019 about [Sheila E.](../../topics/sheila-e/index.md), [The Belle of St. Mark (song)](../../topics/song/the-belle-of-st-mark/index.md), [The Glamorous Life (album)](../../topics/album/the-glamorous-life/index.md), [The Glamorous Life (song)](../../topics/song/the-glamorous-life/index.md) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/columns/pop/8545796/sheila-e-glamorous-life-billboard-moment-video-interview))
+
+----
 
  - [**"'Purple Rain,' 'Amadeus,' 'The Last Waltz' and More Make it Into National Film Registry Class of 2019: See the List"**](https://www.billboard.com/articles/news/movies/8545964/national-film-registry-2019-purple-rain) in [Billboard](https://www.billboard.com/) on 11 December 2019 about [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Spike Lee](../../topics/spike-lee/index.md) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/movies/8545964/national-film-registry-2019-purple-rain))
 

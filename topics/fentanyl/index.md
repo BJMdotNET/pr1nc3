@@ -4,6 +4,10 @@
 
 ----
 
+ - [**"Prince Wanted To 'Break The Mold Of The Memoir,' Says His Co-Writer"**](https://www.npr.org/2019/11/28/782929000/prince-wanted-to-break-the-mold-of-the-memoir-says-his-co-writer) in [National Public Radio](https://www.npr.org/) on 28 November 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [fentanyl](../../topics/fentanyl/index.md), [Kim Pratt](../../topics/kim-pratt/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [vault](../../topics/vault/index.md), [Vicodin](../../topics/vicodin/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://www.npr.org/2019/11/28/782929000/prince-wanted-to-break-the-mold-of-the-memoir-says-his-co-writer))
+
+----
+
  - [**"PRINCE’S COUSIN (CHARLES SMITH) ON THE SINGER’S FIRST OVERDOSE: ‘HE DIED ON THE PLANE!’ – WATCH"**](https://eurweb.com/2019/11/13/princes-cousin-charles-smith-on-the-singers-first-overdose-he-died-on-the-plane-watch/) in [EURweb](https://eurweb.com/) on 13 November 2019 about [fentanyl](../../topics/fentanyl/index.md) ([mirror](https://web.archive.org/web/*/https://eurweb.com/2019/11/13/princes-cousin-charles-smith-on-the-singers-first-overdose-he-died-on-the-plane-watch/))
 
 ----

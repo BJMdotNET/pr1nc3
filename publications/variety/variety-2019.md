@@ -1,8 +1,12 @@
 # 2019
 
-## December 2019 (1)
+## December 2019 (2)
 
  - [**"‘Purple Rain,’ ‘Clerks, ‘She’s Gotta Have It’ Added to National Film Registry"**](https://variety.com/2019/film/news/purple-rain-clerks-shes-gotta-have-it-national-film-registry-1203431784/) in [Variety](https://variety.com/) on 11 December 2019 about [Albert Magnoli](../../topics/albert-magnoli/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Spike Lee](../../topics/spike-lee/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2019/film/news/purple-rain-clerks-shes-gotta-have-it-national-film-registry-1203431784/))
+
+----
+
+ - [**"Final Prince ‘1999’ Podcast Chapter Drops Tonight – Hear an Exclusive Clip Here"**](https://variety.com/2019/music/news/prince-1999-podcast-exclusive-clip-1203430119/) in [Variety](https://variety.com/) on 9 December 2019 about [1999 (album)](../../topics/album/1999/index.md), [Nile Rodgers](../../topics/nile-rodgers/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Prince: The Story of 1999](../../topics/prince-the-story-of-1999/index.md), [Rearrange (song)](../../topics/song/rearrange/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/news/prince-1999-podcast-exclusive-clip-1203430119/))
 
 ----
 

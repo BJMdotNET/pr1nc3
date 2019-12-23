@@ -1,8 +1,8 @@
 # album
 
   * [1-800-NEW-FUNK (album)](./album/1-800-new-funk/) (1)
-  * [1999 (album)](./album/1999/) (71)
-  * [1999 Deluxe (album)](./album/1999-deluxe/) (4)
+  * [1999 (album)](./album/1999/) (76)
+  * [1999 Deluxe (album)](./album/1999-deluxe/) (5)
   * [1999 Super Deluxe (album)](./album/1999-super-deluxe/) (9)
   * [1999 SuperDeluxe (album)](./album/1999-superdeluxe/) (1)
   * [3121 (album)](./album/3121/) (10)
@@ -31,7 +31,7 @@
   * [Rave Un2 the Joy Fantastic (album)](./album/rave-un2-the-joy-fantastic/) (8)
   * [Sign O' The Times (album)](./album/sign-o-the-times/) (1)
   * [The Black Album (album)](./album/the-black-album/) (7)
-  * [The Glamorous Life (album)](./album/the-glamorous-life/) (3)
+  * [The Glamorous Life (album)](./album/the-glamorous-life/) (4)
   * [The Gold Experience (album)](./album/the-gold-experience/) (10)
   * [The Red Shoes (album)](./album/the-red-shoes/) (2)
   * [The Versace Experience (Prelude 2 Gold) (album)](./album/the-versace-experience-prelude-2-gold/) (5)
