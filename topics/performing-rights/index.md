@@ -4,4 +4,8 @@
 
 ----
 
+ - [**"The rearview mirror rehinged: how Prince's early years formed his legend -- Prince preferred not to talk about his past but vignettes of his past – from his father playing the piano in a strip club to his producer introducing him to the double entendre – undeniably shaped the innate talent that led to great success"**](https://www.theguardian.com/music/2016/apr/23/prince-death-early-years-formed-music-legend) in [The Guardian](https://www.theguardian.com/) on 23 April 2016 about [94 East](../../topics/94-east/index.md), [Andre Cymone](../../topics/andre-cymone/index.md), [Chris Moon](../../topics/chris-moon/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Morris Day](../../topics/morris-day/index.md), [Pepe Willie](../../topics/pepe-willie/index.md), [performing rights](../../topics/performing-rights/index.md), [Terry Lewis](../../topics/terry-lewis/index.md) ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/music/2016/apr/23/prince-death-early-years-formed-music-legend))
+
+----
+
 [Home](../)

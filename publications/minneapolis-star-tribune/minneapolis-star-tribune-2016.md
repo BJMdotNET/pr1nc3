@@ -62,7 +62,7 @@
 
 ----
 
- - [**"Prince-inspired fashions on display at Minneapolis Institute of Art -- The purple pop star inspired this fashionable assemblage in the museum's lobby."**](http://www.startribune.com/prince-inspired-fashions-on-display-at-minneapolis-institute-of-art/396029361/) by Sue Campbell in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 October 2016 about [Minneapolis Institute of Art](../../topics/minneapolis-institute-of-art/index.md), [museum](../../topics/museum/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-inspired-fashions-on-display-at-minneapolis-institute-of-art/396029361/))
+ - [**"Prince-inspired fashions on display at Minneapolis Institute of Art -- The purple pop star inspired this fashionable assemblage in the museum's lobby."**](http://www.startribune.com/prince-inspired-fashions-on-display-at-minneapolis-institute-of-art/396029361/) by Sue Campbell in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 October 2016 about [Minneapolis Institute of Art](../../topics/minneapolis-institute-of-art/index.md), [museum](../../topics/museum/index.md), [Toronto](../../topics/toronto/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-inspired-fashions-on-display-at-minneapolis-institute-of-art/396029361/))
 
 ----
 
@@ -750,7 +750,7 @@
 
 ----
 
- - [**"Adored by millions, Prince was alone as he died"**](http://www.startribune.com/investigation-underway-into-prince-s-death/376741561/) by John Reinan in [Minneapolis Star Tribune](http://www.startribune.com/) on 23 April 2016 about [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Dakota (place)](../../topics/place/dakota/index.md), [Jim Olson](../../topics/jim-olson/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/investigation-underway-into-prince-s-death/376741561/))
+ - [**"Adored by millions, Prince was alone as he died"**](http://www.startribune.com/investigation-underway-into-prince-s-death/376741561/) by John Reinan in [Minneapolis Star Tribune](http://www.startribune.com/) on 23 April 2016 about [airport](../../topics/airport/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Dakota (place)](../../topics/place/dakota/index.md), [Jim Olson](../../topics/jim-olson/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/investigation-underway-into-prince-s-death/376741561/))
 
 ----
 
@@ -838,7 +838,7 @@
 
 ----
 
- - [**"C.J.: Writing a book with Prince 'would be a nightmare job,' Neal Karlen says"**](http://www.startribune.com/c-j-writing-a-book-with-prince-would-be-a-nightmare-job-says-neal-karlen-who-loves-the-purple-guy/375907901/) by C.J. (Cheryl Johnson) in [Minneapolis Star Tribune](http://www.startribune.com/) on 15 April 2016 about [C.J.](../../topics/c-j/index.md), [memoir](../../topics/memoir/index.md), [Neal Karlen](../../topics/neal-karlen/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-writing-a-book-with-prince-would-be-a-nightmare-job-says-neal-karlen-who-loves-the-purple-guy/375907901/))
+ - [**"C.J.: Writing a book with Prince 'would be a nightmare job,' Neal Karlen says"**](http://www.startribune.com/c-j-writing-a-book-with-prince-would-be-a-nightmare-job-says-neal-karlen-who-loves-the-purple-guy/375907901/) by C.J. (Cheryl Johnson) in [Minneapolis Star Tribune](http://www.startribune.com/) on 15 April 2016 about [airport](../../topics/airport/index.md), [C.J.](../../topics/c-j/index.md), [memoir](../../topics/memoir/index.md), [Neal Karlen](../../topics/neal-karlen/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-writing-a-book-with-prince-would-be-a-nightmare-job-says-neal-karlen-who-loves-the-purple-guy/375907901/))
 
 ----
 

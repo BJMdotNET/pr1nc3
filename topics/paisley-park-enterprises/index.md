@@ -32,6 +32,10 @@
 
 ----
 
+ - [**"The Man Who Would Be Prince -- In the fall of 1991, set to drop double-platinum Diamonds and Pearls, Prince sat down with writer Chris Heath for a rare interview. A crazy-rare interview: The singer had answered questions publicly just four times between 1984’s Purple Rain and that year. Go inside Paisley Park, where Heath lived for six days."**](https://www.gq.com/story/prince-interview-inside-paisley-park) in [www.gq.com](https://www.gq.com/) on 21 April 2016 about [contract](../../topics/contract/index.md), [Glam Slam (place)](../../topics/place/glam-slam/index.md), [Ingrid Chavez](../../topics/ingrid-chavez/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Kate Bush](../../topics/kate-bush/index.md), [Martika](../../topics/martika/index.md), [New Girl (TV show)](../../topics/tv-show/new-girl/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [Paula Abdul](../../topics/paula-abdul/index.md), [Spike Lee](../../topics/spike-lee/index.md), [Standing at the Altar (song)](../../topics/song/standing-at-the-altar/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [The Black Album (album)](../../topics/album/the-black-album/index.md), [Wednesday (song)](../../topics/song/wednesday/index.md) ([mirror](https://web.archive.org/web/*/https://www.gq.com/story/prince-interview-inside-paisley-park))
+
+----
+
  - [**"What were the specifics of Prince's “$100 million contract” with Warner Bros. Records in 1992?"**](https://musicfans.stackexchange.com/a/89/129) in [Music Fans Stack Exchange](https://musicfans.stackexchange.com/) on 15 February 2015 about [contract](../../topics/contract/index.md), [Controversy Music](../../topics/controversy-music/index.md), [Diamonds & Pearls (album)](../../topics/album/diamonds-pearls/index.md), [Gary Stiffelman](../../topics/gary-stiffelman/index.md), [Gilbert Davidson](../../topics/gilbert-davidson/index.md), [Jill Wills](../../topics/jill-wills/index.md), [Lovesexy (album)](../../topics/album/lovesexy/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [Paisley Park Records](../../topics/paisley-park-records/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Time Warner](../../topics/time-warner/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md), [Warner/Chappell Music](../../topics/warner-chappell-music/index.md) ([mirror](https://web.archive.org/web/*/https://musicfans.stackexchange.com/a/89/129))
 
 ----
@@ -44,7 +48,7 @@
 
 ----
 
- - [**"People in the News"**](https://apnews.com/df4748de657e2a79a5ec74214a26f279) in [Associated Press News](https://apnews.com/) on 22 December 1991 about [contract](../../topics/contract/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/df4748de657e2a79a5ec74214a26f279))
+ - [**"People in the News"**](https://apnews.com/df4748de657e2a79a5ec74214a26f279) in [Associated Press News](https://apnews.com/) on 22 December 1991 about [contract](../../topics/contract/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [Sheena Easton](../../topics/sheena-easton/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/df4748de657e2a79a5ec74214a26f279))
 
 ----
 

@@ -210,9 +210,13 @@
 
 ----
 
-## September 2018 (28)
+## September 2018 (29)
 
  - [**"Minnesota Historical Society obtains more Prince items"**](https://apnews.com/7e26d95348014ce48fc8987eff0d14fc) in [Associated Press News](https://apnews.com/) on 30 September 2018 about [Capri Theatre (place)](../../topics/place/capri-theatre/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [Minnesota Historical Society](../../topics/minnesota-historical-society/index.md), [Sondra Reierson](../../topics/sondra-reierson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/7e26d95348014ce48fc8987eff0d14fc))
+
+----
+
+ - [**"Prince's Half-Sister Opens Up on His Overdose, Counterfeit Pills"**](https://kstp.com/news/prince-half-sister-sharon-nelson-opens-up-on-his-overdose-counterfeit-pills-20-20/5089197/) in [KSTP](https://kstp.com/) on 28 September 2018 about [fentanyl](../../topics/fentanyl/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Vicodin](../../topics/vicodin/index.md) ([mirror](https://web.archive.org/web/*/https://kstp.com/news/prince-half-sister-sharon-nelson-opens-up-on-his-overdose-counterfeit-pills-20-20/5089197/))
 
 ----
 
@@ -324,9 +328,13 @@
 
 ----
 
-## August 2018 (7)
+## August 2018 (9)
 
  - [**"The days the music died: A look at funerals of the greats"**](https://apnews.com/7d546ab5dbec4e5ba4ebd0eddd1064e8) in [Associated Press News](https://apnews.com/) on 29 August 2018 about [Graceland](../../topics/graceland/index.md), [James Brown](../../topics/james-brown/index.md), [Larry Graham](../../topics/larry-graham/index.md), [museum](../../topics/museum/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [trademark](../../topics/trademark/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/7d546ab5dbec4e5ba4ebd0eddd1064e8))
+
+----
+
+ - [**"Prince in concert: an experience like no other"**](https://spokesman-recorder.com/2018/08/26/prince-in-concert-an-experience-like-no-other/) in [spokesman-recorder.com](https://spokesman-recorder.com/) on 26 August 2018 about [Greg Tate](../../topics/greg-tate/index.md), [James Brown](../../topics/james-brown/index.md), [Lovesexy (tour)](../../topics/tour/lovesexy/index.md), [The Revolution](../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/https://spokesman-recorder.com/2018/08/26/prince-in-concert-an-experience-like-no-other/))
 
 ----
 
@@ -354,7 +362,11 @@
 
 ----
 
-## July 2018 (7)
+ - [**"The interview that ‘blessed’ Robyne Robinson’s career"**](https://spokesman-recorder.com/2018/08/03/the-interview-that-blessed-robyne-robinsons-career/) in [spokesman-recorder.com](https://spokesman-recorder.com/) on 3 August 2018 about [Chaka Khan](../../topics/chaka-khan/index.md), [Dakota (place)](../../topics/place/dakota/index.md), [Gwen Stefani](../../topics/gwen-stefani/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Mayte](../../topics/mayte/index.md), [Purple Music (song)](../../topics/song/purple-music/index.md), [Robyne Robinson](../../topics/robyne-robinson/index.md) ([mirror](https://web.archive.org/web/*/https://spokesman-recorder.com/2018/08/03/the-interview-that-blessed-robyne-robinsons-career/))
+
+----
+
+## July 2018 (8)
 
  - [**"Lizzo earns a big nod as Rolling Stone's 'Artist You Need to Know'"**](http://www.startribune.com/lizzo-earns-a-big-nod-as-rolling-stone-s-artist-you-need-to-know/489627651/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 31 July 2018 about [Lizzo](../../topics/lizzo/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/lizzo-earns-a-big-nod-as-rolling-stone-s-artist-you-need-to-know/489627651/))
 
@@ -372,6 +384,10 @@
 
 ----
 
+ - [**"Pioneering broadcaster Robyne Robinson reflects on Prince interview"**](https://spokesman-recorder.com/2018/07/26/pioneering-broadcaster-robyne-robinson-reflects-on-prince-interview/) in [spokesman-recorder.com](https://spokesman-recorder.com/) on 26 July 2018 about [Jacqui Thompson](../../topics/jacqui-thompson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Mayte](../../topics/mayte/index.md), [Purple Music (song)](../../topics/song/purple-music/index.md), [Robyne Robinson](../../topics/robyne-robinson/index.md) ([mirror](https://web.archive.org/web/*/https://spokesman-recorder.com/2018/07/26/pioneering-broadcaster-robyne-robinson-reflects-on-prince-interview/))
+
+----
+
  - [**"The Prince Estate’s Big Plans: Inside the Upcoming Purple Reign -- The late singer’s estate is currently exploring licensing, future releases and even a hotel – all while trying to consider what Prince would have wanted"**](https://www.rollingstone.com/music/music-features/prince-estate-big-plans-upcoming-purple-reign-698529/) in [Rolling Stone](https://www.rollingstone.com/) on 13 July 2018 about [Bravado](../../topics/bravado/index.md), [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Graceland](../../topics/graceland/index.md), [John Nelson](../../topics/john-nelson/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [merchandise](../../topics/merchandise/index.md), [Michael Howe](../../topics/michael-howe/index.md), [Minnesota Twins](../../topics/minnesota-twins/index.md), [museum](../../topics/museum/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Piano and a Microphone 1983 (album)](../../topics/album/piano-and-a-microphone-1983/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Questlove](../../topics/questlove/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Spotify](../../topics/spotify/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Troy Carter](../../topics/troy-carter/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/prince-estate-big-plans-upcoming-purple-reign-698529/))
 
 ----
@@ -384,7 +400,11 @@
 
 ----
 
-## June 2018 (13)
+## June 2018 (14)
+
+ - [**"Former Prince Property to be Developed into Residential Neighborhood"**](https://kstp.com/news/prince-property-chanhassen-developed-residential-neighborhood-/4969812/) in [KSTP](https://kstp.com/) on 29 June 2018 about [Carver County](../../topics/carver-county/index.md), [Denny Laufenburger](../../topics/denny-laufenburger/index.md), [Galpin Boulevard (place)](../../topics/place/galpin-boulevard/index.md), [Lennar Homes](../../topics/lennar-homes/index.md), [trademark](../../topics/trademark/index.md) ([mirror](https://web.archive.org/web/*/https://kstp.com/news/prince-property-chanhassen-developed-residential-neighborhood-/4969812/))
+
+----
 
  - [**"Prince estate, Sony ink distribution deal for 35 albums"**](https://apnews.com/3f346190027d4601a34fa81f7cf165a2) by The Associated Press in [Associated Press News](https://apnews.com/) on 27 June 2018 about [3121 (album)](../../topics/album/3121/index.md), [Emancipation (album)](../../topics/album/emancipation/index.md), [Legacy Recordings](../../topics/legacy-recordings/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Sony Music Entertainment](../../topics/sony-music-entertainment/index.md), [The Gold Experience (album)](../../topics/album/the-gold-experience/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Troy Carter](../../topics/troy-carter/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/3f346190027d4601a34fa81f7cf165a2))
 
@@ -490,7 +510,7 @@
 
 ----
 
- - [**"10 curious things we learned about Prince from the investigations -- He liked Häagen-Dazs ice cream, 5-Hour Energy drinks and MAC beauty products."**](http://www.startribune.com/10-curious-things-we-learned-about-prince-from-the-investigations/480364723/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 April 2018 about [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [CeeLo Green](../../topics/ceelo-green/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Esperanza Spalding](../../topics/esperanza-spalding/index.md), [Janelle Monae](../../topics/janelle-monae/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Larry Graham](../../topics/larry-graham/index.md), [North Memorial Medical Center (place)](../../topics/place/north-memorial-medical-center/index.md), [Peter Vang](../../topics/peter-vang/index.md), [Phaedra Ellis Lamkin](../../topics/phaedra-ellis-lamkin/index.md), [Rita Ora](../../topics/rita-ora/index.md), [Sheila E.](../../topics/sheila-e/index.md), [U Got the Look (song)](../../topics/song/u-got-the-look/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/10-curious-things-we-learned-about-prince-from-the-investigations/480364723/))
+ - [**"10 curious things we learned about Prince from the investigations -- He liked Häagen-Dazs ice cream, 5-Hour Energy drinks and MAC beauty products."**](http://www.startribune.com/10-curious-things-we-learned-about-prince-from-the-investigations/480364723/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 April 2018 about [airport](../../topics/airport/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [CeeLo Green](../../topics/ceelo-green/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Esperanza Spalding](../../topics/esperanza-spalding/index.md), [Janelle Monae](../../topics/janelle-monae/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Larry Graham](../../topics/larry-graham/index.md), [North Memorial Medical Center (place)](../../topics/place/north-memorial-medical-center/index.md), [Peter Vang](../../topics/peter-vang/index.md), [Phaedra Ellis Lamkin](../../topics/phaedra-ellis-lamkin/index.md), [Rita Ora](../../topics/rita-ora/index.md), [Sheila E.](../../topics/sheila-e/index.md), [U Got the Look (song)](../../topics/song/u-got-the-look/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/10-curious-things-we-learned-about-prince-from-the-investigations/480364723/))
 
 ----
 
@@ -726,7 +746,7 @@
 
 ----
 
- - [**"Rewinding the Charts: In 1985, Sheena Easton Sexed Up Pop With 'Sugar Walls'"**](https://www.billboard.com/articles/columns/chart-beat/6480268/sheena-easton-sugar-walls-prince-rewinding-charts) in [Billboard](https://www.billboard.com/) on 23 February 2018 ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/columns/chart-beat/6480268/sheena-easton-sugar-walls-prince-rewinding-charts))
+ - [**"Rewinding the Charts: In 1985, Sheena Easton Sexed Up Pop With 'Sugar Walls'"**](https://www.billboard.com/articles/columns/chart-beat/6480268/sheena-easton-sugar-walls-prince-rewinding-charts) in [Billboard](https://www.billboard.com/) on 23 February 2018 about [Frank Zappa](../../topics/frank-zappa/index.md), [Parental Advisory](../../topics/parental-advisory/index.md), [Parents Music Resource Center](../../topics/parents-music-resource-center/index.md), [PMRC](../../topics/pmrc/index.md), [Sheena Easton](../../topics/sheena-easton/index.md), [Sugar Walls (song)](../../topics/song/sugar-walls/index.md), [Tipper Gore](../../topics/tipper-gore/index.md) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/columns/chart-beat/6480268/sheena-easton-sugar-walls-prince-rewinding-charts))
 
 ----
 
@@ -788,11 +808,11 @@
 
 ----
 
- - [**"Embrace the Bold North in Minneapolis for Super Bowl"**](https://apnews.com/5ddc01f147644c79820a62b065eb5efb) in [Associated Press News](https://apnews.com/) on 17 January 2018 about [First Avenue (place)](../../topics/place/first-avenue/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [museum](../../topics/museum/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/5ddc01f147644c79820a62b065eb5efb))
+ - [**"Embrace the Bold North in Minneapolis for Super Bowl"**](https://apnews.com/5ddc01f147644c79820a62b065eb5efb) in [Associated Press News](https://apnews.com/) on 17 January 2018 about [airport](../../topics/airport/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [museum](../../topics/museum/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/5ddc01f147644c79820a62b065eb5efb))
 
 ----
 
- - [**"Prince photographer Afshin Shahidi shares his intimate trove"**](https://apnews.com/01f587107e664a8c8c2287ac84f65358) in [Associated Press News](https://apnews.com/) on 16 January 2018 about [Afshin Shahidi](../../topics/afshin-shahidi/index.md), [trademark](../../topics/trademark/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/01f587107e664a8c8c2287ac84f65358))
+ - [**"Prince photographer Afshin Shahidi shares his intimate trove"**](https://apnews.com/01f587107e664a8c8c2287ac84f65358) in [Associated Press News](https://apnews.com/) on 16 January 2018 about [Afshin Shahidi](../../topics/afshin-shahidi/index.md), [airport](../../topics/airport/index.md), [trademark](../../topics/trademark/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/01f587107e664a8c8c2287ac84f65358))
 
 ----
 

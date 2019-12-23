@@ -1,5 +1,9 @@
 # Graceland
 
+ - [**"Celebration 2020 at Paisley Park will coincide with Prince's birth, not death"**](http://www.startribune.com/celebration-2020-at-paisley-park-will-coincide-with-prince-s-birth-not-death/566249302/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 16 December 2019 about [1999 Super Deluxe (album)](../../topics/album/1999-super-deluxe/index.md), [Alan Seiffert](../../topics/alan-seiffert/index.md), [Celebration](../../topics/celebration/index.md), [Celebration 2020](../../topics/celebration-2020/index.md), [contract](../../topics/contract/index.md), [Donna Grantis](../../topics/donna-grantis/index.md), [George Clinton](../../topics/george-clinton/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [museum](../../topics/museum/index.md), [Nooky Jones](../../topics/nooky-jones/index.md), [Super Bowl](../../topics/super-bowl/index.md), [The Revolution](../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/celebration-2020-at-paisley-park-will-coincide-with-prince-s-birth-not-death/566249302/))
+
+----
+
  - [**"Album of the Week: Beck, 'Hyperspace'"**](https://www.thecurrent.org/feature/2019/11/20/interview-beck-on-paisley-park-and-hyperspace) in [The Current](https://www.thecurrent.org/) on 26 November 2019 about [Beck](../../topics/beck/index.md), [Graceland](../../topics/graceland/index.md) ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/11/20/interview-beck-on-paisley-park-and-hyperspace))
 
 ----

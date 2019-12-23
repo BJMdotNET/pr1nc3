@@ -22,7 +22,7 @@
 
 ----
 
- - [**"Prince died of 'fentanyl toxicity,' an overdose of a painkiller"**](https://usatoday.com/story/life/music/2016/06/02/ap-prince-died-opioid-overdose/85029998/) in [USA Today](https://usatoday.com/) on 2 June 2016 about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2016/06/02/ap-prince-died-opioid-overdose/85029998/))
+ - [**"Prince died of 'fentanyl toxicity,' an overdose of a painkiller"**](https://usatoday.com/story/life/music/2016/06/02/ap-prince-died-opioid-overdose/85029998/) in [USA Today](https://usatoday.com/) on 2 June 2016 about [airport](../../topics/airport/index.md), [Alfred Jackson](../../topics/alfred-jackson/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2016/06/02/ap-prince-died-opioid-overdose/85029998/))
 
 ----
 
@@ -70,7 +70,7 @@
 
 ----
 
- - [**"Music icon Prince dead at 57"**](https://usatoday.com/story/entertainment/music/2016/04/21/report-music-icon-prince-dead-57/83339894/) in [USA Today](https://usatoday.com/) on 21 April 2016 about [Bangles](../../topics/bangles/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Obama](../../topics/obama/index.md), [Sheila E.](../../topics/sheila-e/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/entertainment/music/2016/04/21/report-music-icon-prince-dead-57/83339894/))
+ - [**"Music icon Prince dead at 57"**](https://usatoday.com/story/entertainment/music/2016/04/21/report-music-icon-prince-dead-57/83339894/) in [USA Today](https://usatoday.com/) on 21 April 2016 about [Bangles](../../topics/bangles/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Obama](../../topics/obama/index.md), [Parental Advisory](../../topics/parental-advisory/index.md), [Parents Music Resource Center](../../topics/parents-music-resource-center/index.md), [Sheena Easton](../../topics/sheena-easton/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Sugar Walls (song)](../../topics/song/sugar-walls/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/entertainment/music/2016/04/21/report-music-icon-prince-dead-57/83339894/))
 
 ----
 
@@ -78,7 +78,7 @@
 
 ----
 
- - [**"'Stunned' celebrities react to Prince's death"**](https://usatoday.com/story/life/nation-now/2016/04/21/celebrities-react-princes-death/83341102/) in [USA Today](https://usatoday.com/) on 21 April 2016 about [Bangles](../../topics/bangles/index.md), [Katy Perry](../../topics/katy-perry/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Obama](../../topics/obama/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Spike Lee](../../topics/spike-lee/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/nation-now/2016/04/21/celebrities-react-princes-death/83341102/))
+ - [**"'Stunned' celebrities react to Prince's death"**](https://usatoday.com/story/life/nation-now/2016/04/21/celebrities-react-princes-death/83341102/) in [USA Today](https://usatoday.com/) on 21 April 2016 about [airport](../../topics/airport/index.md), [Bangles](../../topics/bangles/index.md), [Katy Perry](../../topics/katy-perry/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Obama](../../topics/obama/index.md), [Sheena Easton](../../topics/sheena-easton/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Spike Lee](../../topics/spike-lee/index.md), [Sugar Walls (song)](../../topics/song/sugar-walls/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/nation-now/2016/04/21/celebrities-react-princes-death/83341102/))
 
 ----
 

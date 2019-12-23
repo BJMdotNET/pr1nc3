@@ -6,4 +6,10 @@
 
 ----
 
+## April 2016 (1)
+
+ - [**"Prince's Close Friend Támar Davis Shares Emotional Memories of the Legend: 'He Was Like Uncle Prince to Me' -- "It still hasn't hit me yet that he's passed," the singer tells PEOPLE exclusively"**](https://people.com/celebrity/prince-dead-tamar-davis-shares-emotional-memories/) in [People](https://people.com/) on 22 April 2016 about [Támar Davis](../../topics/t-mar-davis/index.md) ([mirror](https://web.archive.org/web/*/https://people.com/celebrity/prince-dead-tamar-davis-shares-emotional-memories/))
+
+----
+
 [Home](../)

@@ -4,11 +4,23 @@
 
 ----
 
+ - [**"20 gift ideas for the music lovers on your holiday list -- Twenty ideas for the music lovers on your holiday list. "**](http://www.startribune.com/20-gift-ideas-for-the-music-lovers-on-your-holiday-list/566181501/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 16 December 2019 about [1999 Super Deluxe (album)](../../topics/album/1999-super-deluxe/index.md), [Bob Dylan](../../topics/bob-dylan/index.md), [bootleg](../../topics/bootleg/index.md), [Lizzo](../../topics/lizzo/index.md), [memoir](../../topics/memoir/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Morris Day](../../topics/morris-day/index.md), [My Name Is Prince: 25 Inspired Years (book)](../../topics/book/my-name-is-prince-25-inspired-years/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/20-gift-ideas-for-the-music-lovers-on-your-holiday-list/566181501/))
+
+----
+
+ - [**"From Prince to Dessa to Dylan, here are five homegrown musical gift ideas"**](https://www.twincities.com/2019/12/12/from-prince-to-dessa-to-dylan-here-are-five-homegrown-musical-gift-ideas/) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 12 December 2019 about [Andrea Swensson](../../topics/andrea-swensson/index.md), [Bob Dylan](../../topics/bob-dylan/index.md), [bootleg](../../topics/bootleg/index.md), [Chanhassen Dinner Theatres](../../topics/chanhassen-dinner-theatres/index.md), [David Fricke](../../topics/david-fricke/index.md), [Duane Tudahl](../../topics/duane-tudahl/index.md), [Duff McKagan](../../topics/duff-mckagan/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Minnesota Historical Society](../../topics/minnesota-historical-society/index.md), [motorcycle](../../topics/motorcycle/index.md), [Pop Life (song)](../../topics/song/pop-life/index.md), [The Revolution](../../topics/the-revolution/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2019/12/12/from-prince-to-dessa-to-dylan-here-are-five-homegrown-musical-gift-ideas/))
+
+----
+
  - [**"‘Purple Rain’ added to National Film Registry"**](https://blog.thecurrent.org/2019/12/purple-rain-added-to-national-film-registry/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 11 December 2019 about [Albert Magnoli](../../topics/albert-magnoli/index.md), [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Bob Dylan](../../topics/bob-dylan/index.md) ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2019/12/purple-rain-added-to-national-film-registry/))
 
 ----
 
  - [**"Garrison Keillor rips Bob Dylan in his latest book"**](http://www.startribune.com/garrison-keillor-rips-bob-dylan-in-his-latest-book/565146932/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 November 2019 about [Bob Dylan](../../topics/bob-dylan/index.md), [Garrison Keillor](../../topics/garrison-keillor/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/garrison-keillor-rips-bob-dylan-in-his-latest-book/565146932/))
+
+----
+
+ - [**"Prince’s Former Mentor Pepe Willie Recalls the Star's Early Days"**](https://www.yahoo.com/entertainment/princes-former-mentor-pepe-willie-recalls-the-215708376.html) in [Yahoo! Entertainment](https://www.yahoo.com/entertainment/) on 28 April 2016 about [3121 (album)](../../topics/album/3121/index.md), [94 East](../../topics/94-east/index.md), [André Cymone](../../topics/andr-cymone/index.md), [Bob Cavallo](../../topics/bob-cavallo/index.md), [Bob Dylan](../../topics/bob-dylan/index.md), [Chris Moon](../../topics/chris-moon/index.md), [Do Yourself a Favor (song)](../../topics/song/do-yourself-a-favor/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Jesse Johnson](../../topics/jesse-johnson/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Morris Day](../../topics/morris-day/index.md), [Owen Husney](../../topics/owen-husney/index.md), [Pepe Willie](../../topics/pepe-willie/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md) ([mirror](https://web.archive.org/web/*/https://www.yahoo.com/entertainment/princes-former-mentor-pepe-willie-recalls-the-215708376.html))
 
 ----
 

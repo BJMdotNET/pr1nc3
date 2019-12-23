@@ -1,6 +1,10 @@
 # Dakota (place)
 
- - [**"PREVIEW: Donna Grantis At The Dakota Jazz Club, 9/24"**](https://twincitiesarts.com/2019/09/17/preview-donna-gratis-dakota-jazz-club/) in [twincitiesarts.com](https://twincitiesarts.com/) on 17 September 2019 about [3rdEyeGirl](../../../topics/3rdeyegirl/index.md), [Dakota (place)](../../../topics/place/dakota/index.md), [Donna Grantis](../../../topics/donna-grantis/index.md), [Hannah Welton](../../../topics/hannah-welton/index.md), [Miles Davis](../../../topics/miles-davis/index.md), [New Power Generation](../../../topics/new-power-generation/index.md) ([mirror](https://web.archive.org/web/*/https://twincitiesarts.com/2019/09/17/preview-donna-gratis-dakota-jazz-club/))
+ - [**"6 cool things in music include Beyoncé's Elle interview, J.S. Ondara, David Byrne & Nachito Herrera"**](http://www.startribune.com/6-cool-things-in-music-include-beyonce-s-elle-interview-j-s-ondara-david-byrne-amp-nachito-herrera/566170311/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 13 December 2019 about [Dakota (place)](../../../topics/place/dakota/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Jon Bream](../../../topics/jon-bream/index.md), [St. Louis Park (place)](../../../topics/place/st-louis-park/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/6-cool-things-in-music-include-beyonce-s-elle-interview-j-s-ondara-david-byrne-amp-nachito-herrera/566170311/))
+
+----
+
+ - [**"PREVIEW: Donna Grantis At The Dakota Jazz Club, 9/24"**](https://twincitiesarts.com/2019/09/17/preview-donna-gratis-dakota-jazz-club/) in [twincitiesarts.com](https://twincitiesarts.com/) on 17 September 2019 about [3rdEyeGirl](../../../topics/3rdeyegirl/index.md), [Dakota (place)](../../../topics/place/dakota/index.md), [Donna Grantis](../../../topics/donna-grantis/index.md), [Hannah Welton](../../../topics/hannah-welton/index.md), [Miles Davis](../../../topics/miles-davis/index.md), [New Power Generation](../../../topics/new-power-generation/index.md), [Toronto](../../../topics/toronto/index.md) ([mirror](https://web.archive.org/web/*/https://twincitiesarts.com/2019/09/17/preview-donna-gratis-dakota-jazz-club/))
 
 ----
 
@@ -8,7 +12,11 @@
 
 ----
 
- - [**"Former Prince guitarist Donna Grantis celebrates new jazz-rock album at the Dakota -- 3rdEyeGirl guitarist Donna Grantis will celebrate her new jazz-rock fusion album in Minneapolis."**](http://www.startribune.com/former-prince-guitarist-donna-grantis-celebrates-new-jazz-rock-album-at-the-dakota/507678332/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 March 2019 about [3rdEyeGirl](../../../topics/3rdeyegirl/index.md), [Dakota (place)](../../../topics/place/dakota/index.md), [Donna Grantis](../../../topics/donna-grantis/index.md), [Hannah Welton](../../../topics/hannah-welton/index.md), [YouTube](../../../topics/youtube/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/former-prince-guitarist-donna-grantis-celebrates-new-jazz-rock-album-at-the-dakota/507678332/))
+ - [**"Former Prince guitarist Donna Grantis celebrates new jazz-rock album at the Dakota -- 3rdEyeGirl guitarist Donna Grantis will celebrate her new jazz-rock fusion album in Minneapolis."**](http://www.startribune.com/former-prince-guitarist-donna-grantis-celebrates-new-jazz-rock-album-at-the-dakota/507678332/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 March 2019 about [3rdEyeGirl](../../../topics/3rdeyegirl/index.md), [Dakota (place)](../../../topics/place/dakota/index.md), [Donna Grantis](../../../topics/donna-grantis/index.md), [Hannah Welton](../../../topics/hannah-welton/index.md), [Toronto](../../../topics/toronto/index.md), [YouTube](../../../topics/youtube/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/former-prince-guitarist-donna-grantis-celebrates-new-jazz-rock-album-at-the-dakota/507678332/))
+
+----
+
+ - [**"The interview that ‘blessed’ Robyne Robinson’s career"**](https://spokesman-recorder.com/2018/08/03/the-interview-that-blessed-robyne-robinsons-career/) in [spokesman-recorder.com](https://spokesman-recorder.com/) on 3 August 2018 about [Chaka Khan](../../../topics/chaka-khan/index.md), [Dakota (place)](../../../topics/place/dakota/index.md), [Gwen Stefani](../../../topics/gwen-stefani/index.md), [Larry Graham](../../../topics/larry-graham/index.md), [Mayte](../../../topics/mayte/index.md), [Purple Music (song)](../../../topics/song/purple-music/index.md), [Robyne Robinson](../../../topics/robyne-robinson/index.md) ([mirror](https://web.archive.org/web/*/https://spokesman-recorder.com/2018/08/03/the-interview-that-blessed-robyne-robinsons-career/))
 
 ----
 
@@ -24,7 +32,7 @@
 
 ----
 
- - [**"Adored by millions, Prince was alone as he died"**](http://www.startribune.com/investigation-underway-into-prince-s-death/376741561/) by John Reinan in [Minneapolis Star Tribune](http://www.startribune.com/) on 23 April 2016 about [Atlanta (place)](../../../topics/place/atlanta/index.md), [Carver County](../../../topics/carver-county/index.md), [Dakota (place)](../../../topics/place/dakota/index.md), [Jim Olson](../../../topics/jim-olson/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/investigation-underway-into-prince-s-death/376741561/))
+ - [**"Adored by millions, Prince was alone as he died"**](http://www.startribune.com/investigation-underway-into-prince-s-death/376741561/) by John Reinan in [Minneapolis Star Tribune](http://www.startribune.com/) on 23 April 2016 about [airport](../../../topics/airport/index.md), [Atlanta (place)](../../../topics/place/atlanta/index.md), [Carver County](../../../topics/carver-county/index.md), [Dakota (place)](../../../topics/place/dakota/index.md), [Jim Olson](../../../topics/jim-olson/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/investigation-underway-into-prince-s-death/376741561/))
 
 ----
 

@@ -6,7 +6,7 @@
 
 ----
 
- - [**"Prince's Toronto mansion is for sale"**](https://www.yahoo.com/entertainment/prince-toronto-mansion-for-sale-160410502.html) in [Yahoo! Entertainment](https://www.yahoo.com/entertainment/) on 3 December 2019 ([mirror](https://web.archive.org/web/*/https://www.yahoo.com/entertainment/prince-toronto-mansion-for-sale-160410502.html))
+ - [**"Prince's Toronto mansion is for sale"**](https://www.yahoo.com/entertainment/prince-toronto-mansion-for-sale-160410502.html) in [Yahoo! Entertainment](https://www.yahoo.com/entertainment/) on 3 December 2019 about [Toronto](../../topics/toronto/index.md) ([mirror](https://web.archive.org/web/*/https://www.yahoo.com/entertainment/prince-toronto-mansion-for-sale-160410502.html))
 
 ----
 

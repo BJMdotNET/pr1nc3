@@ -16,7 +16,7 @@
 
 ----
 
- - [**"Prince offered a ticket to a forbidden world in his music"**](https://apnews.com/6c306c0a54cf48eea82ce15e437829fa) in [Associated Press News](https://apnews.com/) on 22 April 2016 about [Alan Light](../../topics/alan-light/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [Do It All Night (song)](../../topics/song/do-it-all-night/index.md), [Erotic City (song)](../../topics/song/erotic-city/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/6c306c0a54cf48eea82ce15e437829fa))
+ - [**"Prince offered a ticket to a forbidden world in his music"**](https://apnews.com/6c306c0a54cf48eea82ce15e437829fa) in [Associated Press News](https://apnews.com/) on 22 April 2016 about [Alan Light](../../topics/alan-light/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [Do It All Night (song)](../../topics/song/do-it-all-night/index.md), [Erotic City (song)](../../topics/song/erotic-city/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Parents Music Resource Center](../../topics/parents-music-resource-center/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/6c306c0a54cf48eea82ce15e437829fa))
 
 ----
 

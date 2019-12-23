@@ -1,6 +1,10 @@
 # André Cymone
 
- - [**""A REMARKABLE MAN!” -- Susan Rogers Reflects upon her Lifelong Journey in Music, What it was Like to Watch a ‘Genius at Work,’ and Her Personal Vow to lift up Prince’s Legacy at Every Turn -- Spotlight: Susan Rogers"**](http://prnalumni.org/members/spotlight/spotlight-susan-rogers/) in [prnalumni.org](http://prnalumni.org/) on 11 October 2019 about [André Cymone](../../topics/andr-cymone/index.md) ([mirror](https://web.archive.org/web/*/http://prnalumni.org/members/spotlight/spotlight-susan-rogers/))
+ - [**"Former Prince mentor Pepé Willie shares memories of the late legend"**](https://spokesman-recorder.com/2019/12/14/former-prince-mentor-pepe-willie-shares-storied-history-of-do-yourself-a-favor-if-you-see-me/) in [spokesman-recorder.com](https://spokesman-recorder.com/) on 14 December 2019 about [1999 Super Deluxe (album)](../../topics/album/1999-super-deluxe/index.md), [94 East](../../topics/94-east/index.md), [André Cymone](../../topics/andr-cymone/index.md), [Bob Cavallo](../../topics/bob-cavallo/index.md), [bootleg](../../topics/bootleg/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [Do Yourself a Favor (song)](../../topics/song/do-yourself-a-favor/index.md), [Little Anthony and The Imperials](../../topics/little-anthony-and-the-imperials/index.md), [Morris Day](../../topics/morris-day/index.md), [No Call U (song)](../../topics/song/no-call-u/index.md), [Owen Husney](../../topics/owen-husney/index.md), [Pepé Willie](../../topics/pep-willie/index.md), [Purple Music (song)](../../topics/song/purple-music/index.md), [The Revolution](../../topics/the-revolution/index.md), [vault](../../topics/vault/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md) ([mirror](https://web.archive.org/web/*/https://spokesman-recorder.com/2019/12/14/former-prince-mentor-pepe-willie-shares-storied-history-of-do-yourself-a-favor-if-you-see-me/))
+
+----
+
+ - [**""A REMARKABLE MAN!” -- Susan Rogers Reflects upon her Lifelong Journey in Music, What it was Like to Watch a ‘Genius at Work,’ and Her Personal Vow to lift up Prince’s Legacy at Every Turn -- Spotlight: Susan Rogers"**](http://prnalumni.org/members/spotlight/spotlight-susan-rogers/) in [prnalumni.org](http://prnalumni.org/) on 11 October 2019 about [André Cymone](../../topics/andr-cymone/index.md), [Sheena Easton](../../topics/sheena-easton/index.md) ([mirror](https://web.archive.org/web/*/http://prnalumni.org/members/spotlight/spotlight-susan-rogers/))
 
 ----
 
@@ -61,6 +65,10 @@
 ----
 
  - [**"Prince Remembered by Childhood Best Friend and Bandmate André Cymone : 'There Was a Lot More to Him Than What People Saw'"**](https://www.billboard.com/articles/news/magazine-feature/7348518/prince-childhood-friend-bassist-andre-cymone-remembrance) in [Billboard](https://www.billboard.com/) on 28 April 2016 about [André Cymone](../../topics/andr-cymone/index.md), [Morris Day](../../topics/morris-day/index.md) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/magazine-feature/7348518/prince-childhood-friend-bassist-andre-cymone-remembrance))
+
+----
+
+ - [**"Prince’s Former Mentor Pepe Willie Recalls the Star's Early Days"**](https://www.yahoo.com/entertainment/princes-former-mentor-pepe-willie-recalls-the-215708376.html) in [Yahoo! Entertainment](https://www.yahoo.com/entertainment/) on 28 April 2016 about [3121 (album)](../../topics/album/3121/index.md), [94 East](../../topics/94-east/index.md), [André Cymone](../../topics/andr-cymone/index.md), [Bob Cavallo](../../topics/bob-cavallo/index.md), [Bob Dylan](../../topics/bob-dylan/index.md), [Chris Moon](../../topics/chris-moon/index.md), [Do Yourself a Favor (song)](../../topics/song/do-yourself-a-favor/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Jesse Johnson](../../topics/jesse-johnson/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Morris Day](../../topics/morris-day/index.md), [Owen Husney](../../topics/owen-husney/index.md), [Pepe Willie](../../topics/pepe-willie/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md) ([mirror](https://web.archive.org/web/*/https://www.yahoo.com/entertainment/princes-former-mentor-pepe-willie-recalls-the-215708376.html))
 
 ----
 

@@ -56,11 +56,11 @@
 
 ----
 
- - [**"A Father Surprises At Son’s 25th Anniversary Celebration"**](https://instinctmagazine.com/a-father-surprises-at-sons-25th-anniversary-celebration/) in [instinctmagazine.com](https://instinctmagazine.com/) on 21 October 2019 about [Ed Sheeran](../../topics/ed-sheeran/index.md), [Paisley Park Studios (place)](../../topics/place/paisley-park-studios/index.md) ([mirror](https://web.archive.org/web/*/https://instinctmagazine.com/a-father-surprises-at-sons-25th-anniversary-celebration/))
+ - [**"A Father Surprises At Son’s 25th Anniversary Celebration"**](https://instinctmagazine.com/a-father-surprises-at-sons-25th-anniversary-celebration/) in [instinctmagazine.com](https://instinctmagazine.com/) on 21 October 2019 about [Ed Sheeran](../../topics/ed-sheeran/index.md), [Paisley Park Studios (place)](../../topics/place/paisley-park-studios/index.md), [Toronto](../../topics/toronto/index.md) ([mirror](https://web.archive.org/web/*/https://instinctmagazine.com/a-father-surprises-at-sons-25th-anniversary-celebration/))
 
 ----
 
- - [**"Buddy Holly and Roy Orbison in Minnesota? Hologram tours of old stars are the hot new concert trend -- Buddy Holly is coming to town with Roy Orbison? Yes, rock 'n' roll holograms are here to stay."**](http://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 October 2019 about [Ed Sheeran](../../topics/ed-sheeran/index.md), [Lizzo](../../topics/lizzo/index.md), [Morris Day](../../topics/morris-day/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/))
+ - [**"Buddy Holly and Roy Orbison in Minnesota? Hologram tours of old stars are the hot new concert trend -- Buddy Holly is coming to town with Roy Orbison? Yes, rock 'n' roll holograms are here to stay."**](http://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 October 2019 about [Ed Sheeran](../../topics/ed-sheeran/index.md), [Frank Zappa](../../topics/frank-zappa/index.md), [Lizzo](../../topics/lizzo/index.md), [Morris Day](../../topics/morris-day/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/))
 
 ----
 

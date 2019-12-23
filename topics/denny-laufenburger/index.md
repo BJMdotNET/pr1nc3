@@ -1,5 +1,9 @@
 # Denny Laufenburger
 
+ - [**"Former Prince Property to be Developed into Residential Neighborhood"**](https://kstp.com/news/prince-property-chanhassen-developed-residential-neighborhood-/4969812/) in [KSTP](https://kstp.com/) on 29 June 2018 about [Carver County](../../topics/carver-county/index.md), [Denny Laufenburger](../../topics/denny-laufenburger/index.md), [Galpin Boulevard (place)](../../topics/place/galpin-boulevard/index.md), [Lennar Homes](../../topics/lennar-homes/index.md), [trademark](../../topics/trademark/index.md) ([mirror](https://web.archive.org/web/*/https://kstp.com/news/prince-property-chanhassen-developed-residential-neighborhood-/4969812/))
+
+----
+
  - [**"'Rehabilitated' Paisley Park takes center stage for Prince anniversary -- Graceland firm remakes studio into a showplace."**](http://www.startribune.com/rehabilitated-paisley-park-takes-center-stage-for-prince-anniversary/419571163/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 17 April 2017 about [Bremer Trust](../../topics/bremer-trust/index.md), [Celebration](../../topics/celebration/index.md), [Denny Laufenburger](../../topics/denny-laufenburger/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [Joel Weinshanker](../../topics/joel-weinshanker/index.md), [museum](../../topics/museum/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/rehabilitated-paisley-park-takes-center-stage-for-prince-anniversary/419571163/))
 
 ----

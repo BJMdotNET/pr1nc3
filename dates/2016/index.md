@@ -130,7 +130,7 @@
 
 ----
 
- - [**"Prince's Most NSFW Lyrics: 10 Times He Would Have Had to Pay The Swear Jar"**](https://www.billboard.com/articles/columns/pop/7542026/prince-lyrics-most-nsfw-songs) in [Billboard](https://www.billboard.com/) on 16 October 2016 about [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [Netflix](../../topics/netflix/index.md), [The Gold Experience (album)](../../topics/album/the-gold-experience/index.md) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/columns/pop/7542026/prince-lyrics-most-nsfw-songs))
+ - [**"Prince's Most NSFW Lyrics: 10 Times He Would Have Had to Pay The Swear Jar"**](https://www.billboard.com/articles/columns/pop/7542026/prince-lyrics-most-nsfw-songs) in [Billboard](https://www.billboard.com/) on 16 October 2016 about [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [Netflix](../../topics/netflix/index.md), [Sheena Easton](../../topics/sheena-easton/index.md), [Sugar Walls (song)](../../topics/song/sugar-walls/index.md), [The Gold Experience (album)](../../topics/album/the-gold-experience/index.md) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/columns/pop/7542026/prince-lyrics-most-nsfw-songs))
 
 ----
 
@@ -190,7 +190,7 @@
 
 ----
 
- - [**"Prince-inspired fashions on display at Minneapolis Institute of Art -- The purple pop star inspired this fashionable assemblage in the museum's lobby."**](http://www.startribune.com/prince-inspired-fashions-on-display-at-minneapolis-institute-of-art/396029361/) by Sue Campbell in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 October 2016 about [Minneapolis Institute of Art](../../topics/minneapolis-institute-of-art/index.md), [museum](../../topics/museum/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-inspired-fashions-on-display-at-minneapolis-institute-of-art/396029361/))
+ - [**"Prince-inspired fashions on display at Minneapolis Institute of Art -- The purple pop star inspired this fashionable assemblage in the museum's lobby."**](http://www.startribune.com/prince-inspired-fashions-on-display-at-minneapolis-institute-of-art/396029361/) by Sue Campbell in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 October 2016 about [Minneapolis Institute of Art](../../topics/minneapolis-institute-of-art/index.md), [museum](../../topics/museum/index.md), [Toronto](../../topics/toronto/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-inspired-fashions-on-display-at-minneapolis-institute-of-art/396029361/))
 
 ----
 
@@ -790,7 +790,7 @@
 
 ----
 
- - [**"Prince died of 'fentanyl toxicity,' an overdose of a painkiller"**](https://usatoday.com/story/life/music/2016/06/02/ap-prince-died-opioid-overdose/85029998/) in [USA Today](https://usatoday.com/) on 2 June 2016 about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2016/06/02/ap-prince-died-opioid-overdose/85029998/))
+ - [**"Prince died of 'fentanyl toxicity,' an overdose of a painkiller"**](https://usatoday.com/story/life/music/2016/06/02/ap-prince-died-opioid-overdose/85029998/) in [USA Today](https://usatoday.com/) on 2 June 2016 about [airport](../../topics/airport/index.md), [Alfred Jackson](../../topics/alfred-jackson/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2016/06/02/ap-prince-died-opioid-overdose/85029998/))
 
 ----
 
@@ -1156,7 +1156,7 @@
 
 ----
 
-## April 2016 (107)
+## April 2016 (110)
 
  - [**"AP Exclusive: Prince’s ‘Purple Rain’ coat is up for auction"**](https://apnews.com/8110dcbaa6714d75a12db043ff989975) in [Associated Press News](https://apnews.com/) on 29 April 2016 about [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [auction](../../topics/auction/index.md), [Katy Perry](../../topics/katy-perry/index.md), [motorcycle](../../topics/motorcycle/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/8110dcbaa6714d75a12db043ff989975))
 
@@ -1219,6 +1219,10 @@
 ----
 
  - [**"Prince’s estate to be temporarily managed by trust company"**](https://apnews.com/606153a12f3041b8b76186c824538183) in [Associated Press News](https://apnews.com/) on 28 April 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/606153a12f3041b8b76186c824538183))
+
+----
+
+ - [**"Prince’s Former Mentor Pepe Willie Recalls the Star's Early Days"**](https://www.yahoo.com/entertainment/princes-former-mentor-pepe-willie-recalls-the-215708376.html) in [Yahoo! Entertainment](https://www.yahoo.com/entertainment/) on 28 April 2016 about [3121 (album)](../../topics/album/3121/index.md), [94 East](../../topics/94-east/index.md), [André Cymone](../../topics/andr-cymone/index.md), [Bob Cavallo](../../topics/bob-cavallo/index.md), [Bob Dylan](../../topics/bob-dylan/index.md), [Chris Moon](../../topics/chris-moon/index.md), [Do Yourself a Favor (song)](../../topics/song/do-yourself-a-favor/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Jesse Johnson](../../topics/jesse-johnson/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Morris Day](../../topics/morris-day/index.md), [Owen Husney](../../topics/owen-husney/index.md), [Pepe Willie](../../topics/pepe-willie/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md) ([mirror](https://web.archive.org/web/*/https://www.yahoo.com/entertainment/princes-former-mentor-pepe-willie-recalls-the-215708376.html))
 
 ----
 
@@ -1318,7 +1322,7 @@
 
 ----
 
- - [**"Prince: An appreciation"**](https://www.cbsnews.com/news/prince-an-appreciation/) in [CBS News](https://www.cbsnews.com/) on 24 April 2016 ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/news/prince-an-appreciation/))
+ - [**"Prince: An appreciation"**](https://www.cbsnews.com/news/prince-an-appreciation/) in [CBS News](https://www.cbsnews.com/) on 24 April 2016 about [Bangles](../../topics/bangles/index.md), [George Clinton](../../topics/george-clinton/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Raspberry Beret (song)](../../topics/song/raspberry-beret/index.md), [U Got the Look (song)](../../topics/song/u-got-the-look/index.md) ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/news/prince-an-appreciation/))
 
 ----
 
@@ -1334,7 +1338,7 @@
 
 ----
 
- - [**"Adored by millions, Prince was alone as he died"**](http://www.startribune.com/investigation-underway-into-prince-s-death/376741561/) by John Reinan in [Minneapolis Star Tribune](http://www.startribune.com/) on 23 April 2016 about [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Dakota (place)](../../topics/place/dakota/index.md), [Jim Olson](../../topics/jim-olson/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/investigation-underway-into-prince-s-death/376741561/))
+ - [**"Adored by millions, Prince was alone as he died"**](http://www.startribune.com/investigation-underway-into-prince-s-death/376741561/) by John Reinan in [Minneapolis Star Tribune](http://www.startribune.com/) on 23 April 2016 about [airport](../../topics/airport/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Dakota (place)](../../topics/place/dakota/index.md), [Jim Olson](../../topics/jim-olson/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/investigation-underway-into-prince-s-death/376741561/))
 
 ----
 
@@ -1374,6 +1378,10 @@
 
 ----
 
+ - [**"The rearview mirror rehinged: how Prince's early years formed his legend -- Prince preferred not to talk about his past but vignettes of his past – from his father playing the piano in a strip club to his producer introducing him to the double entendre – undeniably shaped the innate talent that led to great success"**](https://www.theguardian.com/music/2016/apr/23/prince-death-early-years-formed-music-legend) in [The Guardian](https://www.theguardian.com/) on 23 April 2016 about [94 East](../../topics/94-east/index.md), [Andre Cymone](../../topics/andre-cymone/index.md), [Chris Moon](../../topics/chris-moon/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Morris Day](../../topics/morris-day/index.md), [Pepe Willie](../../topics/pepe-willie/index.md), [performing rights](../../topics/performing-rights/index.md), [Terry Lewis](../../topics/terry-lewis/index.md) ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/music/2016/apr/23/prince-death-early-years-formed-music-legend))
+
+----
+
  - [**"5 ways Prince slammed high tech in music"**](https://apnews.com/f4cdf36615b446d6bf994eab8ab22379) in [Associated Press News](https://apnews.com/) on 22 April 2016 about [James Brown](../../topics/james-brown/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Spotify](../../topics/spotify/index.md), [Tidal](../../topics/tidal/index.md), [YouTube](../../topics/youtube/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/f4cdf36615b446d6bf994eab8ab22379))
 
 ----
@@ -1386,7 +1394,7 @@
 
 ----
 
- - [**"A synthesizer of sounds, Prince ‘rewrote the rulebook’"**](https://apnews.com/c07d6a9a2752405fa8ed91e8d949806a) in [Associated Press News](https://apnews.com/) on 22 April 2016 about [Bangles](../../topics/bangles/index.md), [contract](../../topics/contract/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Obama](../../topics/obama/index.md), [Roger Ebert](../../topics/roger-ebert/index.md), [The Time](../../topics/the-time/index.md), [White House (place)](../../topics/place/white-house/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/c07d6a9a2752405fa8ed91e8d949806a))
+ - [**"A synthesizer of sounds, Prince ‘rewrote the rulebook’"**](https://apnews.com/c07d6a9a2752405fa8ed91e8d949806a) in [Associated Press News](https://apnews.com/) on 22 April 2016 about [Bangles](../../topics/bangles/index.md), [contract](../../topics/contract/index.md), [Frank Zappa](../../topics/frank-zappa/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Obama](../../topics/obama/index.md), [Parents Music Resource Center](../../topics/parents-music-resource-center/index.md), [Roger Ebert](../../topics/roger-ebert/index.md), [The Time](../../topics/the-time/index.md), [White House (place)](../../topics/place/white-house/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/c07d6a9a2752405fa8ed91e8d949806a))
 
 ----
 
@@ -1422,7 +1430,7 @@
 
 ----
 
- - [**"Pop superstar Prince dies at his Minnesota home at age 57"**](https://apnews.com/b9e3df0421a04344835cd4fac7680c24) in [Associated Press News](https://apnews.com/) on 22 April 2016 about [Bangles](../../topics/bangles/index.md), [contract](../../topics/contract/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Obama](../../topics/obama/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md), [White House (place)](../../topics/place/white-house/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/b9e3df0421a04344835cd4fac7680c24))
+ - [**"Pop superstar Prince dies at his Minnesota home at age 57"**](https://apnews.com/b9e3df0421a04344835cd4fac7680c24) in [Associated Press News](https://apnews.com/) on 22 April 2016 about [Bangles](../../topics/bangles/index.md), [contract](../../topics/contract/index.md), [Frank Zappa](../../topics/frank-zappa/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Obama](../../topics/obama/index.md), [Parents Music Resource Center](../../topics/parents-music-resource-center/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md), [White House (place)](../../topics/place/white-house/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/b9e3df0421a04344835cd4fac7680c24))
 
 ----
 
@@ -1430,7 +1438,7 @@
 
 ----
 
- - [**"Prince offered a ticket to a forbidden world in his music"**](https://apnews.com/6c306c0a54cf48eea82ce15e437829fa) in [Associated Press News](https://apnews.com/) on 22 April 2016 about [Alan Light](../../topics/alan-light/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [Do It All Night (song)](../../topics/song/do-it-all-night/index.md), [Erotic City (song)](../../topics/song/erotic-city/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/6c306c0a54cf48eea82ce15e437829fa))
+ - [**"Prince offered a ticket to a forbidden world in his music"**](https://apnews.com/6c306c0a54cf48eea82ce15e437829fa) in [Associated Press News](https://apnews.com/) on 22 April 2016 about [Alan Light](../../topics/alan-light/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [Do It All Night (song)](../../topics/song/do-it-all-night/index.md), [Erotic City (song)](../../topics/song/erotic-city/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Parents Music Resource Center](../../topics/parents-music-resource-center/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/6c306c0a54cf48eea82ce15e437829fa))
 
 ----
 
@@ -1438,7 +1446,11 @@
 
 ----
 
- - [**"Prince, hugely inventive, influential musician, dead at 57"**](https://apnews.com/988e107cf6964494b58ad2ca9bcd0985) in [Associated Press News](https://apnews.com/) on 22 April 2016 about [Academy Award](../../topics/academy-award/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Bangles](../../topics/bangles/index.md), [contract](../../topics/contract/index.md), [I Wanna Be Your Lover (song)](../../topics/song/i-wanna-be-your-lover/index.md), [James Brown](../../topics/james-brown/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Obama](../../topics/obama/index.md), [Roger Ebert](../../topics/roger-ebert/index.md), [Tidal](../../topics/tidal/index.md), [Vanity](../../topics/vanity/index.md), [White House (place)](../../topics/place/white-house/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/988e107cf6964494b58ad2ca9bcd0985))
+ - [**"Prince, hugely inventive, influential musician, dead at 57"**](https://apnews.com/988e107cf6964494b58ad2ca9bcd0985) in [Associated Press News](https://apnews.com/) on 22 April 2016 about [Academy Award](../../topics/academy-award/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Bangles](../../topics/bangles/index.md), [contract](../../topics/contract/index.md), [Frank Zappa](../../topics/frank-zappa/index.md), [I Wanna Be Your Lover (song)](../../topics/song/i-wanna-be-your-lover/index.md), [James Brown](../../topics/james-brown/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Obama](../../topics/obama/index.md), [Parents Music Resource Center](../../topics/parents-music-resource-center/index.md), [Roger Ebert](../../topics/roger-ebert/index.md), [Tidal](../../topics/tidal/index.md), [Vanity](../../topics/vanity/index.md), [White House (place)](../../topics/place/white-house/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/988e107cf6964494b58ad2ca9bcd0985))
+
+----
+
+ - [**"Prince's Close Friend Támar Davis Shares Emotional Memories of the Legend: 'He Was Like Uncle Prince to Me' -- "It still hasn't hit me yet that he's passed," the singer tells PEOPLE exclusively"**](https://people.com/celebrity/prince-dead-tamar-davis-shares-emotional-memories/) in [People](https://people.com/) on 22 April 2016 about [Támar Davis](../../topics/t-mar-davis/index.md) ([mirror](https://web.archive.org/web/*/https://people.com/celebrity/prince-dead-tamar-davis-shares-emotional-memories/))
 
 ----
 
@@ -1486,15 +1498,15 @@
 
 ----
 
- - [**"How Prince Taught Me to Give No F&%ks -- He was our Bach. He was our Beethoven. And he was our idol."**](https://www.gq.com/story/prince-lessons) in [www.gq.com](https://www.gq.com/) on 21 April 2016 ([mirror](https://web.archive.org/web/*/https://www.gq.com/story/prince-lessons))
+ - [**"How Prince Taught Me to Give No F&%ks -- He was our Bach. He was our Beethoven. And he was our idol."**](https://www.gq.com/story/prince-lessons) in [www.gq.com](https://www.gq.com/) on 21 April 2016 about [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md) ([mirror](https://web.archive.org/web/*/https://www.gq.com/story/prince-lessons))
 
 ----
 
- - [**"Music icon Prince dead at 57"**](https://usatoday.com/story/entertainment/music/2016/04/21/report-music-icon-prince-dead-57/83339894/) in [USA Today](https://usatoday.com/) on 21 April 2016 about [Bangles](../../topics/bangles/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Obama](../../topics/obama/index.md), [Sheila E.](../../topics/sheila-e/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/entertainment/music/2016/04/21/report-music-icon-prince-dead-57/83339894/))
+ - [**"Music icon Prince dead at 57"**](https://usatoday.com/story/entertainment/music/2016/04/21/report-music-icon-prince-dead-57/83339894/) in [USA Today](https://usatoday.com/) on 21 April 2016 about [Bangles](../../topics/bangles/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Obama](../../topics/obama/index.md), [Parental Advisory](../../topics/parental-advisory/index.md), [Parents Music Resource Center](../../topics/parents-music-resource-center/index.md), [Sheena Easton](../../topics/sheena-easton/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Sugar Walls (song)](../../topics/song/sugar-walls/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/entertainment/music/2016/04/21/report-music-icon-prince-dead-57/83339894/))
 
 ----
 
- - [**"Prince "might be two or three of the greats""**](https://www.cbsnews.com/news/prince-dead-might-be-two-or-three-of-the-greats/) in [CBS News](https://www.cbsnews.com/) on 21 April 2016 ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/news/prince-dead-might-be-two-or-three-of-the-greats/))
+ - [**"Prince "might be two or three of the greats""**](https://www.cbsnews.com/news/prince-dead-might-be-two-or-three-of-the-greats/) in [CBS News](https://www.cbsnews.com/) on 21 April 2016 about [James Brown](../../topics/james-brown/index.md) ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/news/prince-dead-might-be-two-or-three-of-the-greats/))
 
 ----
 
@@ -1534,11 +1546,11 @@
 
 ----
 
- - [**"'Stunned' celebrities react to Prince's death"**](https://usatoday.com/story/life/nation-now/2016/04/21/celebrities-react-princes-death/83341102/) in [USA Today](https://usatoday.com/) on 21 April 2016 about [Bangles](../../topics/bangles/index.md), [Katy Perry](../../topics/katy-perry/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Obama](../../topics/obama/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Spike Lee](../../topics/spike-lee/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/nation-now/2016/04/21/celebrities-react-princes-death/83341102/))
+ - [**"'Stunned' celebrities react to Prince's death"**](https://usatoday.com/story/life/nation-now/2016/04/21/celebrities-react-princes-death/83341102/) in [USA Today](https://usatoday.com/) on 21 April 2016 about [airport](../../topics/airport/index.md), [Bangles](../../topics/bangles/index.md), [Katy Perry](../../topics/katy-perry/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Obama](../../topics/obama/index.md), [Sheena Easton](../../topics/sheena-easton/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Spike Lee](../../topics/spike-lee/index.md), [Sugar Walls (song)](../../topics/song/sugar-walls/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/nation-now/2016/04/21/celebrities-react-princes-death/83341102/))
 
 ----
 
- - [**"The Man Who Would Be Prince -- In the fall of 1991, set to drop double-platinum Diamonds and Pearls, Prince sat down with writer Chris Heath for a rare interview. A crazy-rare interview: The singer had answered questions publicly just four times between 1984’s Purple Rain and that year. Go inside Paisley Park, where Heath lived for six days."**](https://www.gq.com/story/prince-interview-inside-paisley-park) in [www.gq.com](https://www.gq.com/) on 21 April 2016 ([mirror](https://web.archive.org/web/*/https://www.gq.com/story/prince-interview-inside-paisley-park))
+ - [**"The Man Who Would Be Prince -- In the fall of 1991, set to drop double-platinum Diamonds and Pearls, Prince sat down with writer Chris Heath for a rare interview. A crazy-rare interview: The singer had answered questions publicly just four times between 1984’s Purple Rain and that year. Go inside Paisley Park, where Heath lived for six days."**](https://www.gq.com/story/prince-interview-inside-paisley-park) in [www.gq.com](https://www.gq.com/) on 21 April 2016 about [contract](../../topics/contract/index.md), [Glam Slam (place)](../../topics/place/glam-slam/index.md), [Ingrid Chavez](../../topics/ingrid-chavez/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Kate Bush](../../topics/kate-bush/index.md), [Martika](../../topics/martika/index.md), [New Girl (TV show)](../../topics/tv-show/new-girl/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [Paula Abdul](../../topics/paula-abdul/index.md), [Spike Lee](../../topics/spike-lee/index.md), [Standing at the Altar (song)](../../topics/song/standing-at-the-altar/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [The Black Album (album)](../../topics/album/the-black-album/index.md), [Wednesday (song)](../../topics/song/wednesday/index.md) ([mirror](https://web.archive.org/web/*/https://www.gq.com/story/prince-interview-inside-paisley-park))
 
 ----
 
@@ -1550,7 +1562,7 @@
 
 ----
 
- - [**"What Prince Taught Me About Love. And Sex. And Time. -- Thirty-five years ago, I heard Prince's voice. Eighteen years later, I was in his presence."**](https://www.esquire.com/entertainment/music/a44221/prince-a-remembrance-dave-holmes/) in [Esquire](https://www.esquire.com/) on 21 April 2016 about [Baby I'm a Star (song)](../../topics/song/baby-i-m-a-star/index.md), [Batdance (song)](../../topics/song/batdance/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [George Clinton](../../topics/george-clinton/index.md), [I Would Die 4 U (song)](../../topics/song/i-would-die-4-u/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Morris Day](../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Vanity 6](../../topics/vanity-6/index.md), [YouTube](../../topics/youtube/index.md) ([mirror](https://web.archive.org/web/*/https://www.esquire.com/entertainment/music/a44221/prince-a-remembrance-dave-holmes/))
+ - [**"What Prince Taught Me About Love. And Sex. And Time. -- Thirty-five years ago, I heard Prince's voice. Eighteen years later, I was in his presence."**](https://www.esquire.com/entertainment/music/a44221/prince-a-remembrance-dave-holmes/) in [Esquire](https://www.esquire.com/) on 21 April 2016 about [Baby I'm a Star (song)](../../topics/song/baby-i-m-a-star/index.md), [Batdance (song)](../../topics/song/batdance/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [George Clinton](../../topics/george-clinton/index.md), [I Would Die 4 U (song)](../../topics/song/i-would-die-4-u/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Morris Day](../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Sheena Easton](../../topics/sheena-easton/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Vanity 6](../../topics/vanity-6/index.md), [YouTube](../../topics/youtube/index.md) ([mirror](https://web.archive.org/web/*/https://www.esquire.com/entertainment/music/a44221/prince-a-remembrance-dave-holmes/))
 
 ----
 
@@ -1570,7 +1582,7 @@
 
 ----
 
- - [**"C.J.: Writing a book with Prince 'would be a nightmare job,' Neal Karlen says"**](http://www.startribune.com/c-j-writing-a-book-with-prince-would-be-a-nightmare-job-says-neal-karlen-who-loves-the-purple-guy/375907901/) by C.J. (Cheryl Johnson) in [Minneapolis Star Tribune](http://www.startribune.com/) on 15 April 2016 about [C.J.](../../topics/c-j/index.md), [memoir](../../topics/memoir/index.md), [Neal Karlen](../../topics/neal-karlen/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-writing-a-book-with-prince-would-be-a-nightmare-job-says-neal-karlen-who-loves-the-purple-guy/375907901/))
+ - [**"C.J.: Writing a book with Prince 'would be a nightmare job,' Neal Karlen says"**](http://www.startribune.com/c-j-writing-a-book-with-prince-would-be-a-nightmare-job-says-neal-karlen-who-loves-the-purple-guy/375907901/) by C.J. (Cheryl Johnson) in [Minneapolis Star Tribune](http://www.startribune.com/) on 15 April 2016 about [airport](../../topics/airport/index.md), [C.J.](../../topics/c-j/index.md), [memoir](../../topics/memoir/index.md), [Neal Karlen](../../topics/neal-karlen/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-writing-a-book-with-prince-would-be-a-nightmare-job-says-neal-karlen-who-loves-the-purple-guy/375907901/))
 
 ----
 

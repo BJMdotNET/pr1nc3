@@ -366,7 +366,7 @@
 
 ----
 
-## April 2017 (46)
+## April 2017 (47)
 
  - [**"‘Purple Rain’ re-issue to feature unreleased Prince songs"**](https://apnews.com/495f034e59ad4375a854c5476852d886) in [Associated Press News](https://apnews.com/) on 28 April 2017 about [NPG Records](../../topics/npg-records/index.md), [The Revolution](../../topics/the-revolution/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/495f034e59ad4375a854c5476852d886))
 
@@ -381,6 +381,10 @@
 ----
 
  - [**"A year after Prince's death, these questions remain unanswered"**](https://usatoday.com/story/life/music/2017/04/20/death-prince-one-year-later-what-do-we-know/100180398/) in [USA Today](https://usatoday.com/) on 21 April 2017 about [Amy Conners](../../topics/amy-conners/index.md), [Apple Music](../../topics/apple-music/index.md), [bootleg](../../topics/bootleg/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [George Ian Boxill](../../topics/george-ian-boxill/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [memoir](../../topics/memoir/index.md), [Michael Schulenberg](../../topics/michael-schulenberg/index.md), [museum](../../topics/museum/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [Patrick Cousins](../../topics/patrick-cousins/index.md), [Spotify](../../topics/spotify/index.md), [Tidal](../../topics/tidal/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Universal Music Group](../../topics/universal-music-group/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2017/04/20/death-prince-one-year-later-what-do-we-know/100180398/))
+
+----
+
+ - [**"Early Prince Mentor Still Struggles with Star's Death"**](https://kstp.com/news/early-prince-mentor-pepe-willie-struggles-with-princes-death-/4460798/) in [KSTP](https://kstp.com/) on 21 April 2017 about [94 East](../../topics/94-east/index.md), [Little Anthony and The Imperials](../../topics/little-anthony-and-the-imperials/index.md), [Pepe Willie](../../topics/pepe-willie/index.md) ([mirror](https://web.archive.org/web/*/https://kstp.com/news/early-prince-mentor-pepe-willie-struggles-with-princes-death-/4460798/))
 
 ----
 
@@ -552,13 +556,21 @@
 
 ----
 
-## March 2017 (14)
+## March 2017 (16)
 
  - [**"Paisley Park museum opens new room dedicated to Prince's 'Lovesexy'"**](http://www.startribune.com/paisley-park-museum-opens-new-room-dedicated-to-prince-s-lovesexy/417745653/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 31 March 2017 about [museum](../../topics/museum/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-museum-opens-new-room-dedicated-to-prince-s-lovesexy/417745653/))
 
 ----
 
+ - [**"Prince's Sign O' The Times, 30 years on"**](https://www.bbc.com/news/entertainment-arts-39441461) in [BBC News](https://www.bbc.com/news/) on 31 March 2017 about [Bangles](../../topics/bangles/index.md), [Dream Factory (album)](../../topics/album/dream-factory/index.md), [Eric Leeds](../../topics/eric-leeds/index.md), [George Clinton](../../topics/george-clinton/index.md), [Housequake (song)](../../topics/song/housequake/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Matt Fink](../../topics/matt-fink/index.md), [Obama](../../topics/obama/index.md), [Questlove](../../topics/questlove/index.md), [Sheena Easton](../../topics/sheena-easton/index.md), [Starfish And Coffee (song)](../../topics/song/starfish-and-coffee/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [The Ballad Of Dorothy Parker (song)](../../topics/song/the-ballad-of-dorothy-parker/index.md), [The Revolution](../../topics/the-revolution/index.md), [U Got the Look (song)](../../topics/song/u-got-the-look/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md), [Van Jones](../../topics/van-jones/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.bbc.com/news/entertainment-arts-39441461))
+
+----
+
  - [**"New Paisley Park memorial fence to open for fans in April"**](http://www.startribune.com/new-paisley-park-memorial-fence-to-open-for-fans-in-april/417735013/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 30 March 2017 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/new-paisley-park-memorial-fence-to-open-for-fans-in-april/417735013/))
+
+----
+
+ - [**"Drummer who discovered Prince dead in elevator talks legend's legacy"**](https://www.cbsnews.com/news/prince-confidant-drummer-kirk-johnson-paisley-park-tour-legacy/) in [CBS News](https://www.cbsnews.com/) on 29 March 2017 about [Carver County](../../topics/carver-county/index.md), [Celebration](../../topics/celebration/index.md), [exhibit](../../topics/exhibit/index.md), [fentanyl](../../topics/fentanyl/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Super Bowl](../../topics/super-bowl/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/news/prince-confidant-drummer-kirk-johnson-paisley-park-tour-legacy/))
 
 ----
 
@@ -662,7 +674,7 @@
 
 ----
 
- - [**"Divorce file: Prince, 2nd wife lived luxurious lifestyle"**](https://apnews.com/d52610515904420ca116e820411aa344) in [Associated Press News](https://apnews.com/) on 13 January 2017 about [Manuela Testolini](../../topics/manuela-testolini/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/d52610515904420ca116e820411aa344))
+ - [**"Divorce file: Prince, 2nd wife lived luxurious lifestyle"**](https://apnews.com/d52610515904420ca116e820411aa344) in [Associated Press News](https://apnews.com/) on 13 January 2017 about [Manuela Testolini](../../topics/manuela-testolini/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Toronto](../../topics/toronto/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/d52610515904420ca116e820411aa344))
 
 ----
 

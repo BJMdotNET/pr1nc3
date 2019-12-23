@@ -1,5 +1,9 @@
 # Jon Bream
 
+ - [**"6 cool things in music include Beyoncé's Elle interview, J.S. Ondara, David Byrne & Nachito Herrera"**](http://www.startribune.com/6-cool-things-in-music-include-beyonce-s-elle-interview-j-s-ondara-david-byrne-amp-nachito-herrera/566170311/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 13 December 2019 about [Dakota (place)](../../topics/place/dakota/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Jon Bream](../../topics/jon-bream/index.md), [St. Louis Park (place)](../../topics/place/st-louis-park/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/6-cool-things-in-music-include-beyonce-s-elle-interview-j-s-ondara-david-byrne-amp-nachito-herrera/566170311/))
+
+----
+
  - [**"6 cool things in music include Prince, CMA Awards, Apollo Theater doc, Tyler Childers"**](http://www.startribune.com/6-cool-things-in-music-include-prince-cma-awards-apollo-theater-doc-tyler-childers/564975732/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 15 November 2019 about [First Avenue (place)](../../topics/place/first-avenue/index.md), [Jon Bream](../../topics/jon-bream/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/6-cool-things-in-music-include-prince-cma-awards-apollo-theater-doc-tyler-childers/564975732/))
 
 ----

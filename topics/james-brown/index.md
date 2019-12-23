@@ -80,6 +80,10 @@
 
 ----
 
+ - [**"Prince in concert: an experience like no other"**](https://spokesman-recorder.com/2018/08/26/prince-in-concert-an-experience-like-no-other/) in [spokesman-recorder.com](https://spokesman-recorder.com/) on 26 August 2018 about [Greg Tate](../../topics/greg-tate/index.md), [James Brown](../../topics/james-brown/index.md), [Lovesexy (tour)](../../topics/tour/lovesexy/index.md), [The Revolution](../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/https://spokesman-recorder.com/2018/08/26/prince-in-concert-an-experience-like-no-other/))
+
+----
+
  - [**"Owen Husney reflects on meeting a teenage Prince: ‘He was not an icon then. He was a brilliant human being who was living in a basement’"**](https://blog.thecurrent.org/2018/04/owen-husney-reflects-on-meeting-a-teenage-prince-he-was-not-an-icon-then-he-was-a-brilliant-human-being-who-was-living-in-a-basement/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 17 April 2018 about [André Cymone](../../topics/andr-cymone/index.md), [Bobby Z.](../../topics/bobby-z/index.md), [Chris Moon](../../topics/chris-moon/index.md), [Cloud bass](../../topics/cloud-bass/index.md), [Cloud guitar](../../topics/cloud-guitar/index.md), [contract](../../topics/contract/index.md), [Dave Rusan](../../topics/dave-rusan/index.md), [For You (album)](../../topics/album/for-you/index.md), [James Brown](../../topics/james-brown/index.md), [memoir](../../topics/memoir/index.md), [Owen Husney](../../topics/owen-husney/index.md), [Record Plant](../../topics/record-plant/index.md), [Sausalito (place)](../../topics/place/sausalito/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md) ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2018/04/owen-husney-reflects-on-meeting-a-teenage-prince-he-was-not-an-icon-then-he-was-a-brilliant-human-being-who-was-living-in-a-basement/))
 
 ----
@@ -120,11 +124,15 @@
 
 ----
 
- - [**"Prince, hugely inventive, influential musician, dead at 57"**](https://apnews.com/988e107cf6964494b58ad2ca9bcd0985) in [Associated Press News](https://apnews.com/) on 22 April 2016 about [Academy Award](../../topics/academy-award/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Bangles](../../topics/bangles/index.md), [contract](../../topics/contract/index.md), [I Wanna Be Your Lover (song)](../../topics/song/i-wanna-be-your-lover/index.md), [James Brown](../../topics/james-brown/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Obama](../../topics/obama/index.md), [Roger Ebert](../../topics/roger-ebert/index.md), [Tidal](../../topics/tidal/index.md), [Vanity](../../topics/vanity/index.md), [White House (place)](../../topics/place/white-house/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/988e107cf6964494b58ad2ca9bcd0985))
+ - [**"Prince, hugely inventive, influential musician, dead at 57"**](https://apnews.com/988e107cf6964494b58ad2ca9bcd0985) in [Associated Press News](https://apnews.com/) on 22 April 2016 about [Academy Award](../../topics/academy-award/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Bangles](../../topics/bangles/index.md), [contract](../../topics/contract/index.md), [Frank Zappa](../../topics/frank-zappa/index.md), [I Wanna Be Your Lover (song)](../../topics/song/i-wanna-be-your-lover/index.md), [James Brown](../../topics/james-brown/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Obama](../../topics/obama/index.md), [Parents Music Resource Center](../../topics/parents-music-resource-center/index.md), [Roger Ebert](../../topics/roger-ebert/index.md), [Tidal](../../topics/tidal/index.md), [Vanity](../../topics/vanity/index.md), [White House (place)](../../topics/place/white-house/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/988e107cf6964494b58ad2ca9bcd0985))
 
 ----
 
  - [**"Bob Seger Remembers Meeting Prince & His Impact: 'He Was a Gift to Music'"**](https://www.billboard.com/articles/news/7341559/bob-seger-prince-remembers-interview) in [Billboard](https://www.billboard.com/) on 21 April 2016 about [James Brown](../../topics/james-brown/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Stand Back (song)](../../topics/song/stand-back/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/7341559/bob-seger-prince-remembers-interview))
+
+----
+
+ - [**"Prince "might be two or three of the greats""**](https://www.cbsnews.com/news/prince-dead-might-be-two-or-three-of-the-greats/) in [CBS News](https://www.cbsnews.com/) on 21 April 2016 about [James Brown](../../topics/james-brown/index.md) ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/news/prince-dead-might-be-two-or-three-of-the-greats/))
 
 ----
 

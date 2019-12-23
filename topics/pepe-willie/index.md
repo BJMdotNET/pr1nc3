@@ -4,4 +4,16 @@
 
 ----
 
+ - [**"Early Prince Mentor Still Struggles with Star's Death"**](https://kstp.com/news/early-prince-mentor-pepe-willie-struggles-with-princes-death-/4460798/) in [KSTP](https://kstp.com/) on 21 April 2017 about [94 East](../../topics/94-east/index.md), [Little Anthony and The Imperials](../../topics/little-anthony-and-the-imperials/index.md), [Pepe Willie](../../topics/pepe-willie/index.md) ([mirror](https://web.archive.org/web/*/https://kstp.com/news/early-prince-mentor-pepe-willie-struggles-with-princes-death-/4460798/))
+
+----
+
+ - [**"Prince’s Former Mentor Pepe Willie Recalls the Star's Early Days"**](https://www.yahoo.com/entertainment/princes-former-mentor-pepe-willie-recalls-the-215708376.html) in [Yahoo! Entertainment](https://www.yahoo.com/entertainment/) on 28 April 2016 about [3121 (album)](../../topics/album/3121/index.md), [94 East](../../topics/94-east/index.md), [André Cymone](../../topics/andr-cymone/index.md), [Bob Cavallo](../../topics/bob-cavallo/index.md), [Bob Dylan](../../topics/bob-dylan/index.md), [Chris Moon](../../topics/chris-moon/index.md), [Do Yourself a Favor (song)](../../topics/song/do-yourself-a-favor/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Jesse Johnson](../../topics/jesse-johnson/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Morris Day](../../topics/morris-day/index.md), [Owen Husney](../../topics/owen-husney/index.md), [Pepe Willie](../../topics/pepe-willie/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md) ([mirror](https://web.archive.org/web/*/https://www.yahoo.com/entertainment/princes-former-mentor-pepe-willie-recalls-the-215708376.html))
+
+----
+
+ - [**"The rearview mirror rehinged: how Prince's early years formed his legend -- Prince preferred not to talk about his past but vignettes of his past – from his father playing the piano in a strip club to his producer introducing him to the double entendre – undeniably shaped the innate talent that led to great success"**](https://www.theguardian.com/music/2016/apr/23/prince-death-early-years-formed-music-legend) in [The Guardian](https://www.theguardian.com/) on 23 April 2016 about [94 East](../../topics/94-east/index.md), [Andre Cymone](../../topics/andre-cymone/index.md), [Chris Moon](../../topics/chris-moon/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Morris Day](../../topics/morris-day/index.md), [Pepe Willie](../../topics/pepe-willie/index.md), [performing rights](../../topics/performing-rights/index.md), [Terry Lewis](../../topics/terry-lewis/index.md) ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/music/2016/apr/23/prince-death-early-years-formed-music-legend))
+
+----
+
 [Home](../)

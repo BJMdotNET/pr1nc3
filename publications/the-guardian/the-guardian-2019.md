@@ -8,13 +8,13 @@
 
 ## September 2019 (1)
 
- - [**"Prince's 50 greatest singles – ranked!"**](https://www.theguardian.com/music/2019/sep/12/prince-50-greatest-singles-ranked) in [The Guardian](https://www.theguardian.com/) on 12 September 2019 about [Cat Glover](../../topics/cat-glover/index.md), [Nile Rodgers](../../topics/nile-rodgers/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md), [Thieves in the Temple (song)](../../topics/song/thieves-in-the-temple/index.md) ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/music/2019/sep/12/prince-50-greatest-singles-ranked))
+ - [**"Prince's 50 greatest singles – ranked!"**](https://www.theguardian.com/music/2019/sep/12/prince-50-greatest-singles-ranked) in [The Guardian](https://www.theguardian.com/) on 12 September 2019 about [Cat Glover](../../topics/cat-glover/index.md), [Nile Rodgers](../../topics/nile-rodgers/index.md), [Sheena Easton](../../topics/sheena-easton/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md), [Thieves in the Temple (song)](../../topics/song/thieves-in-the-temple/index.md) ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/music/2019/sep/12/prince-50-greatest-singles-ranked))
 
 ----
 
 ## August 2019 (1)
 
- - [**"It Gets Me Home, This Curving Track review – essays from a star rock writer -- Prince, Steely Dan, Frank Sinatra and others are assessed with verve in a superb collection by the renowned critic Ian Penman"**](https://www.theguardian.com/books/2019/aug/14/it-gets-me-home-this-curving-track-by-ian-perlman-review) in [The Guardian](https://www.theguardian.com/) on 14 August 2019 about [Ian Penman](../../topics/ian-penman/index.md), [It Gets Me Home, This Curving Track (book)](../../topics/book/it-gets-me-home-this-curving-track/index.md) ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/books/2019/aug/14/it-gets-me-home-this-curving-track-by-ian-perlman-review))
+ - [**"It Gets Me Home, This Curving Track review – essays from a star rock writer -- Prince, Steely Dan, Frank Sinatra and others are assessed with verve in a superb collection by the renowned critic Ian Penman"**](https://www.theguardian.com/books/2019/aug/14/it-gets-me-home-this-curving-track-by-ian-perlman-review) in [The Guardian](https://www.theguardian.com/) on 14 August 2019 about [Frank Zappa](../../topics/frank-zappa/index.md), [Ian Penman](../../topics/ian-penman/index.md), [It Gets Me Home, This Curving Track (book)](../../topics/book/it-gets-me-home-this-curving-track/index.md) ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/books/2019/aug/14/it-gets-me-home-this-curving-track-by-ian-perlman-review))
 
 ----
 
