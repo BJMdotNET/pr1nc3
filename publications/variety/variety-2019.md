@@ -1,12 +1,28 @@
 # 2019
 
-## December 2019 (2)
+## December 2019 (6)
+
+ - [**"The Best Music Boxed Sets of 2019 -- The Beatles, Prince, Bob Dylan, Nat King Cole, the Replacements and the Band all got commemorated — along with Woodstock, Bakersfield, Motown and East L.A."**](https://variety.com/2019/music/reviews/best-music-boxed-sets-2019-1203451459/) in [Variety](https://variety.com/) on 23 December 2019 about [1999 (album)](../../topics/album/1999/index.md), [Bob Dylan](../../topics/bob-dylan/index.md), [bootleg](../../topics/bootleg/index.md), [David Fricke](../../topics/david-fricke/index.md), [Eric Clapton](../../topics/eric-clapton/index.md), [Mountains (song)](../../topics/song/mountains/index.md), [New Power Generation (song)](../../topics/song/new-power-generation/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [The Revolution](../../topics/the-revolution/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/reviews/best-music-boxed-sets-2019-1203451459/))
+
+----
+
+ - [**"The Best Music Books of 2019 (a Lot of Them, Anyway)"**](https://variety.com/feature/best-music-books-2019-1203450290/) in [Variety](https://variety.com/) on 22 December 2019 about [ASCAP](../../topics/ascap/index.md), [Duane Tudahl](../../topics/duane-tudahl/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Morris Day](../../topics/morris-day/index.md), [Prince And The Purple Rain Era Studio Sessions 1983-1984 (book)](../../topics/book/prince-and-the-purple-rain-era-studio-sessions-1983-1984/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/feature/best-music-books-2019-1203450290/))
+
+----
 
  - [**"‘Purple Rain,’ ‘Clerks, ‘She’s Gotta Have It’ Added to National Film Registry"**](https://variety.com/2019/film/news/purple-rain-clerks-shes-gotta-have-it-national-film-registry-1203431784/) in [Variety](https://variety.com/) on 11 December 2019 about [Albert Magnoli](../../topics/albert-magnoli/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Spike Lee](../../topics/spike-lee/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2019/film/news/purple-rain-clerks-shes-gotta-have-it-national-film-registry-1203431784/))
 
 ----
 
+ - [**"Beyoncé Doesn’t Care That ‘Lemonade’ Was Snubbed at the Grammys"**](https://variety.com/2019/music/news/beyonce-elle-lemonade-ivy-park-snapchat-1203429941/) in [Variety](https://variety.com/) on 9 December 2019 about [Ava DuVernay](../../topics/ava-duvernay/index.md), [Beyoncé](../../topics/beyonc/index.md), [Grammy Award](../../topics/grammy-award/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/news/beyonce-elle-lemonade-ivy-park-snapchat-1203429941/))
+
+----
+
  - [**"Final Prince ‘1999’ Podcast Chapter Drops Tonight – Hear an Exclusive Clip Here"**](https://variety.com/2019/music/news/prince-1999-podcast-exclusive-clip-1203430119/) in [Variety](https://variety.com/) on 9 December 2019 about [1999 (album)](../../topics/album/1999/index.md), [Nile Rodgers](../../topics/nile-rodgers/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Prince: The Story of 1999](../../topics/prince-the-story-of-1999/index.md), [Rearrange (song)](../../topics/song/rearrange/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/news/prince-1999-podcast-exclusive-clip-1203430119/))
+
+----
+
+ - [**"Women Who Man the Boards: Five Engineers Powering Today’s Hitmakers Sessions"**](https://variety.com/2019/music/news/female-engineers-recording-studio-1203421600/) in [Variety](https://variety.com/) on 6 December 2019 about [Grammy Award](../../topics/grammy-award/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [Spotify](../../topics/spotify/index.md), [Susan Rogers](../../topics/susan-rogers/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/news/female-engineers-recording-studio-1203421600/))
 
 ----
 

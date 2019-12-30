@@ -1,6 +1,26 @@
 # Ani DiFranco
 
+ - [**"Ani DiFranco’s “To the Teeth,” Twenty Years Later -- A look back at the folk song about gun violence that is, unfortunately, timelier than ever. "**](http://floodmagazine.com/71430/ani-difrancos-to-the-teeth-twenty-years-later/) in [floodmagazine.com](http://floodmagazine.com/) on 15 December 2019 about [Ani DiFranco](../../topics/ani-difranco/index.md), [Maceo Parker](../../topics/maceo-parker/index.md), [Trump](../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/http://floodmagazine.com/71430/ani-difrancos-to-the-teeth-twenty-years-later/))
+
+----
+
+ - [**"Rock and Roll Book Club: Ani DiFranco's 'No Walls and the Recurring Dream'"**](https://www.thecurrent.org/feature/2019/08/20/ani-difranco-no-walls) in [The Current](https://www.thecurrent.org/) on 21 August 2019 about [Ani DiFranco](../../topics/ani-difranco/index.md), [Bob Dylan](../../topics/bob-dylan/index.md), [Maceo Parker](../../topics/maceo-parker/index.md), [memoir](../../topics/memoir/index.md), [Rave Un2 the Joy Fantastic (album)](../../topics/album/rave-un2-the-joy-fantastic/index.md) ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/08/20/ani-difranco-no-walls))
+
+----
+
  - [**"Ani DiFranco on Trump, Her New Memoir, Defying Music Moguls & Working with Pete Seeger and Prince"**](https://www.democracynow.org/2019/7/16/ani_difranco_on_trump_her_new) in [Democracy Now](https://www.democracynow.org/) on 16 July 2019 about [Ani DiFranco](../../topics/ani-difranco/index.md), [Grammy Award](../../topics/grammy-award/index.md), [Trump](../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/https://www.democracynow.org/2019/7/16/ani_difranco_on_trump_her_new))
+
+----
+
+ - [**"Ani DiFranco: The making of an iconoclast"**](https://www.washingtonpost.com/entertainment/books/ani-difranco-the-making-of-an-iconoclast/2019/05/09/2ddb20f2-6b7e-11e9-8f44-e8d8bb1df986_story.html) in [www.washingtonpost.com](https://www.washingtonpost.com/) on 10 May 2019 about [Ani DiFranco](../../topics/ani-difranco/index.md), [Grammy Award](../../topics/grammy-award/index.md), [memoir](../../topics/memoir/index.md) ([mirror](https://web.archive.org/web/*/https://www.washingtonpost.com/entertainment/books/ani-difranco-the-making-of-an-iconoclast/2019/05/09/2ddb20f2-6b7e-11e9-8f44-e8d8bb1df986_story.html))
+
+----
+
+ - [**"Review: Musician Ani DiFranco’s memoir is raw and powerful"**](https://apnews.com/7d5cc5a8936a4338a0ea150a080523c7) in [Associated Press News](https://apnews.com/) on 7 May 2019 about [Ani DiFranco](../../topics/ani-difranco/index.md), [Grammy Award](../../topics/grammy-award/index.md), [memoir](../../topics/memoir/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/7d5cc5a8936a4338a0ea150a080523c7))
+
+----
+
+ - [**"Ani DiFranco on Touring With Bob Dylan and Why Prince Was a ‘Queer F-ckin’ Hero’ -- Always unapologetic, the folk singer details her decades of survival in her new memoir, No Walls and the Recurring Dream"**](https://www.rollingstone.com/music/music-features/ani-difranco-new-memoir-bob-dylan-prince-tour-831543/) in [Rolling Stone](https://www.rollingstone.com/) on 6 May 2019 about [Ani DiFranco](../../topics/ani-difranco/index.md), [Bob Dylan](../../topics/bob-dylan/index.md), [Maceo Parker](../../topics/maceo-parker/index.md), [memoir](../../topics/memoir/index.md) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/ani-difranco-new-memoir-bob-dylan-prince-tour-831543/))
 
 ----
 

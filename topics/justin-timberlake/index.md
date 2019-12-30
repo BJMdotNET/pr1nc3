@@ -8,6 +8,10 @@
 
 ----
 
+ - [**"Women Who Man the Boards: Five Engineers Powering Today’s Hitmakers Sessions"**](https://variety.com/2019/music/news/female-engineers-recording-studio-1203421600/) in [Variety](https://variety.com/) on 6 December 2019 about [Grammy Award](../../topics/grammy-award/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [Spotify](../../topics/spotify/index.md), [Susan Rogers](../../topics/susan-rogers/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/news/female-engineers-recording-studio-1203421600/))
+
+----
+
  - [**"Prince's 'Rave Un2 the Joy Fantastic' at 20: Why His 1999 Comeback Deserved Better"**](https://www.billboard.com/articles/columns/rock/8542107/prince-rave-un2-the-joy-fantastic-album) in [Billboard](https://www.billboard.com/) on 2 November 2019 about [Arista Records](../../topics/arista-records/index.md), [Baby Knows (song)](../../topics/song/baby-knows/index.md), [Clive Davis](../../topics/clive-davis/index.md), [Gwen Stefani](../../topics/gwen-stefani/index.md), [Hot Wit U (song)](../../topics/song/hot-wit-u/index.md), [I Love U, But I Don't Trust U Anymore (song)](../../topics/song/i-love-u-but-i-don-t-trust-u-anymore/index.md), [James Brown](../../topics/james-brown/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [Maceo Parker](../../topics/maceo-parker/index.md), [Prettyman (song)](../../topics/song/prettyman/index.md), [Rave Un2 the Joy Fantastic (album)](../../topics/album/rave-un2-the-joy-fantastic/index.md), [Sheryl Crow](../../topics/sheryl-crow/index.md), [So Far, So Pleased (song)](../../topics/song/so-far-so-pleased/index.md), [Strange But True (song)](../../topics/song/strange-but-true/index.md), [The Greatest Romance Ever Sold (song)](../../topics/song/the-greatest-romance-ever-sold/index.md), [Thieves in the Temple (song)](../../topics/song/thieves-in-the-temple/index.md), [Undisputed (song)](../../topics/song/undisputed/index.md) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/columns/rock/8542107/prince-rave-un2-the-joy-fantastic-album))
 
 ----
@@ -33,6 +37,10 @@
 ----
 
  - [**"Prince's drummer for more than a decade, John Blackwell Jr. dies at 43 -- John Blackwell, Jr., longtime drummer for Prince, died Tuesday after being diagnosed with a brain tumor one year ago. He was 43."**](http://www.startribune.com/prince-s-drummer-for-more-than-a-decade-john-blackwell-jr-dies-at-43/432674483/) by TheWrap in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 July 2017 about [John Blackwell Jr.](../../topics/john-blackwell-jr/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [Morris Day](../../topics/morris-day/index.md), [New Power Generation](../../topics/new-power-generation/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-drummer-for-more-than-a-decade-john-blackwell-jr-dies-at-43/432674483/))
+
+----
+
+ - [**"Deborah Allen Recalls Magical ‘Telepathy’ With Prince -- Singer tells incredible story about recruiting the late legend for a collaboration — and bonding over music, fashion and dance"**](https://www.rollingstone.com/music/music-country/deborah-allen-recalls-magical-telepathy-with-prince-174700/) in [Rolling Stone](https://www.rollingstone.com/) on 21 April 2016 about [Deborah Allen](../../topics/deborah-allen/index.md), [Joey Coco](../../topics/joey-coco/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [Telepathy (song)](../../topics/song/telepathy/index.md) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-country/deborah-allen-recalls-magical-telepathy-with-prince-174700/))
 
 ----
 

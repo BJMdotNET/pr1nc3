@@ -1,5 +1,9 @@
 # Bob Dylan
 
+ - [**"The Best Music Boxed Sets of 2019 -- The Beatles, Prince, Bob Dylan, Nat King Cole, the Replacements and the Band all got commemorated — along with Woodstock, Bakersfield, Motown and East L.A."**](https://variety.com/2019/music/reviews/best-music-boxed-sets-2019-1203451459/) in [Variety](https://variety.com/) on 23 December 2019 about [1999 (album)](../../topics/album/1999/index.md), [Bob Dylan](../../topics/bob-dylan/index.md), [bootleg](../../topics/bootleg/index.md), [David Fricke](../../topics/david-fricke/index.md), [Eric Clapton](../../topics/eric-clapton/index.md), [Mountains (song)](../../topics/song/mountains/index.md), [New Power Generation (song)](../../topics/song/new-power-generation/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [The Revolution](../../topics/the-revolution/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/reviews/best-music-boxed-sets-2019-1203451459/))
+
+----
+
  - [**"Prince: The Story of 1999 bonus feature: Lisa Coleman, 'Prince and I just connected musically'"**](https://www.thecurrent.org/feature/2019/12/17/the-revolution-lisa-coleman-prince-was-an-amazing-spirit-guide) in [The Current](https://www.thecurrent.org/) on 17 December 2019 about [1999 (album)](../../topics/album/1999/index.md), [Andrea Swensson](../../topics/andrea-swensson/index.md), [Bob Dylan](../../topics/bob-dylan/index.md), [BrownMark](../../topics/brownmark/index.md), [I Wanna Be Your Lover (song)](../../topics/song/i-wanna-be-your-lover/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Matt Fink](../../topics/matt-fink/index.md), [Prince: The Story of 1999](../../topics/prince-the-story-of-1999/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [The Revolution](../../topics/the-revolution/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md), [Yah, You Know (song)](../../topics/song/yah-you-know/index.md) ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/12/17/the-revolution-lisa-coleman-prince-was-an-amazing-spirit-guide))
 
 ----
@@ -17,6 +21,14 @@
 ----
 
  - [**"Garrison Keillor rips Bob Dylan in his latest book"**](http://www.startribune.com/garrison-keillor-rips-bob-dylan-in-his-latest-book/565146932/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 November 2019 about [Bob Dylan](../../topics/bob-dylan/index.md), [Garrison Keillor](../../topics/garrison-keillor/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/garrison-keillor-rips-bob-dylan-in-his-latest-book/565146932/))
+
+----
+
+ - [**"Rock and Roll Book Club: Ani DiFranco's 'No Walls and the Recurring Dream'"**](https://www.thecurrent.org/feature/2019/08/20/ani-difranco-no-walls) in [The Current](https://www.thecurrent.org/) on 21 August 2019 about [Ani DiFranco](../../topics/ani-difranco/index.md), [Bob Dylan](../../topics/bob-dylan/index.md), [Maceo Parker](../../topics/maceo-parker/index.md), [memoir](../../topics/memoir/index.md), [Rave Un2 the Joy Fantastic (album)](../../topics/album/rave-un2-the-joy-fantastic/index.md) ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/08/20/ani-difranco-no-walls))
+
+----
+
+ - [**"Ani DiFranco on Touring With Bob Dylan and Why Prince Was a ‘Queer F-ckin’ Hero’ -- Always unapologetic, the folk singer details her decades of survival in her new memoir, No Walls and the Recurring Dream"**](https://www.rollingstone.com/music/music-features/ani-difranco-new-memoir-bob-dylan-prince-tour-831543/) in [Rolling Stone](https://www.rollingstone.com/) on 6 May 2019 about [Ani DiFranco](../../topics/ani-difranco/index.md), [Bob Dylan](../../topics/bob-dylan/index.md), [Maceo Parker](../../topics/maceo-parker/index.md), [memoir](../../topics/memoir/index.md) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/ani-difranco-new-memoir-bob-dylan-prince-tour-831543/))
 
 ----
 

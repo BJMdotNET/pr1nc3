@@ -1,12 +1,20 @@
 # 2019
 
-## December 2019 (52)
+## December 2019 (57)
+
+ - [**"The Best Music Boxed Sets of 2019 -- The Beatles, Prince, Bob Dylan, Nat King Cole, the Replacements and the Band all got commemorated — along with Woodstock, Bakersfield, Motown and East L.A."**](https://variety.com/2019/music/reviews/best-music-boxed-sets-2019-1203451459/) in [Variety](https://variety.com/) on 23 December 2019 about [1999 (album)](../../topics/album/1999/index.md), [Bob Dylan](../../topics/bob-dylan/index.md), [bootleg](../../topics/bootleg/index.md), [David Fricke](../../topics/david-fricke/index.md), [Eric Clapton](../../topics/eric-clapton/index.md), [Mountains (song)](../../topics/song/mountains/index.md), [New Power Generation (song)](../../topics/song/new-power-generation/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [The Revolution](../../topics/the-revolution/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/reviews/best-music-boxed-sets-2019-1203451459/))
+
+----
 
  - [**"6 must-read music books and memoirs for 2020"**](https://rollingout.com/2019/12/22/6-must-read-music-books-and-memoirs-for-2020/) in [rollingout.com](https://rollingout.com/) on 22 December 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://rollingout.com/2019/12/22/6-must-read-music-books-and-memoirs-for-2020/))
 
 ----
 
  - [**"Noteworthy music books of the year"**](https://www.irishexaminer.com/breakingnews/lifestyle/noteworthy-music-books-of-the-year-971884.html) in [www.irishexaminer.com](https://www.irishexaminer.com/) on 22 December 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Donald Trump](../../topics/donald-trump/index.md), [memoir](../../topics/memoir/index.md), [orange](../../topics/orange/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [Trump](../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/https://www.irishexaminer.com/breakingnews/lifestyle/noteworthy-music-books-of-the-year-971884.html))
+
+----
+
+ - [**"The Best Music Books of 2019 (a Lot of Them, Anyway)"**](https://variety.com/feature/best-music-books-2019-1203450290/) in [Variety](https://variety.com/) on 22 December 2019 about [ASCAP](../../topics/ascap/index.md), [Duane Tudahl](../../topics/duane-tudahl/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Morris Day](../../topics/morris-day/index.md), [Prince And The Purple Rain Era Studio Sessions 1983-1984 (book)](../../topics/book/prince-and-the-purple-rain-era-studio-sessions-1983-1984/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/feature/best-music-books-2019-1203450290/))
 
 ----
 
@@ -43,6 +51,10 @@
 ----
 
  - [**"Paisley Park announces Celebration 2020 dates, moving from April to June"**](https://blog.thecurrent.org/2019/12/paisley-park-announces-celebration-2020-dates-moving-from-april-to-june/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 16 December 2019 about [Andrea Swensson](../../topics/andrea-swensson/index.md), [Bob Cavallo](../../topics/bob-cavallo/index.md), [Celebration](../../topics/celebration/index.md), [Celebration 2020](../../topics/celebration-2020/index.md), [Jesse Johnson](../../topics/jesse-johnson/index.md), [museum](../../topics/museum/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [The Revolution](../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2019/12/paisley-park-announces-celebration-2020-dates-moving-from-april-to-june/))
+
+----
+
+ - [**"Ani DiFranco’s “To the Teeth,” Twenty Years Later -- A look back at the folk song about gun violence that is, unfortunately, timelier than ever. "**](http://floodmagazine.com/71430/ani-difrancos-to-the-teeth-twenty-years-later/) in [floodmagazine.com](http://floodmagazine.com/) on 15 December 2019 about [Ani DiFranco](../../topics/ani-difranco/index.md), [Maceo Parker](../../topics/maceo-parker/index.md), [Trump](../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/http://floodmagazine.com/71430/ani-difrancos-to-the-teeth-twenty-years-later/))
 
 ----
 
@@ -106,6 +118,10 @@
 
 ----
 
+ - [**"Beyoncé Doesn’t Care That ‘Lemonade’ Was Snubbed at the Grammys"**](https://variety.com/2019/music/news/beyonce-elle-lemonade-ivy-park-snapchat-1203429941/) in [Variety](https://variety.com/) on 9 December 2019 about [Ava DuVernay](../../topics/ava-duvernay/index.md), [Beyoncé](../../topics/beyonc/index.md), [Grammy Award](../../topics/grammy-award/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/news/beyonce-elle-lemonade-ivy-park-snapchat-1203429941/))
+
+----
+
  - [**"Final Prince ‘1999’ Podcast Chapter Drops Tonight – Hear an Exclusive Clip Here"**](https://variety.com/2019/music/news/prince-1999-podcast-exclusive-clip-1203430119/) in [Variety](https://variety.com/) on 9 December 2019 about [1999 (album)](../../topics/album/1999/index.md), [Nile Rodgers](../../topics/nile-rodgers/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Prince: The Story of 1999](../../topics/prince-the-story-of-1999/index.md), [Rearrange (song)](../../topics/song/rearrange/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/news/prince-1999-podcast-exclusive-clip-1203430119/))
 
 ----
@@ -139,6 +155,10 @@
 ----
 
  - [**"The people’s Prince: even as a teenager the musician charmed everyone he met -- A newly discovered cache of his handwritten notes, as well as wonderful early photographs, reveal just how funny and charming the youthful Prince was"**](https://www.spectator.co.uk/2019/12/the-peoples-prince-even-as-a-teenager-the-musician-charmed-everyone-he-met/) in [www.spectator.co.uk](https://www.spectator.co.uk/) on 7 December 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [memoir](../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.spectator.co.uk/2019/12/the-peoples-prince-even-as-a-teenager-the-musician-charmed-everyone-he-met/))
+
+----
+
+ - [**"Women Who Man the Boards: Five Engineers Powering Today’s Hitmakers Sessions"**](https://variety.com/2019/music/news/female-engineers-recording-studio-1203421600/) in [Variety](https://variety.com/) on 6 December 2019 about [Grammy Award](../../topics/grammy-award/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [Spotify](../../topics/spotify/index.md), [Susan Rogers](../../topics/susan-rogers/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/news/female-engineers-recording-studio-1203421600/))
 
 ----
 
@@ -210,7 +230,7 @@
 
 ----
 
-## November 2019 (93)
+## November 2019 (94)
 
  - [**"Coffee table books are great gifts — even if you don’t have a coffee table"**](https://www.twincities.com/2019/11/30/coffee-table-books-are-great-gifts-even-if-you-dont-have-a-coffee-table/) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 30 November 2019 about [Andy Warhol](../../topics/andy-warhol/index.md), [exhibit](../../topics/exhibit/index.md), [exhibition](../../topics/exhibition/index.md), [Hachette Books](../../topics/hachette-books/index.md), [museum](../../topics/museum/index.md), [Penguin Random House](../../topics/penguin-random-house/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md), [trademark](../../topics/trademark/index.md) ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2019/11/30/coffee-table-books-are-great-gifts-even-if-you-dont-have-a-coffee-table/))
 
@@ -293,6 +313,10 @@
 ----
 
  - [**"Album Preview: Prince’s Sprawling, Six-Disc ‘1999’ Deluxe Reissue"**](https://variety.com/2019/music/news/album-preview-princes-sprawling-six-disc-1999-deluxe-reissue-1203415514/) in [Variety](https://variety.com/) on 25 November 2019 about [1999 (album)](../../topics/album/1999/index.md), [Bold Generation (song)](../../topics/song/bold-generation/index.md), [bootleg](../../topics/bootleg/index.md), [Can’t Stop This Feeling I Got (song)](../../topics/song/can-t-stop-this-feeling-i-got/index.md), [Feel U Up (song)](../../topics/song/feel-u-up/index.md), [Graffiti Bridge (album)](../../topics/album/graffiti-bridge/index.md), [Horny Toad (song)](../../topics/song/horny-toad/index.md), [If It’ll Make U Happy (song)](../../topics/song/if-it-ll-make-u-happy/index.md), [Irresistible Bitch (song)](../../topics/song/irresistible-bitch/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Matt Fink](../../topics/matt-fink/index.md), [No Call U (song)](../../topics/song/no-call-u/index.md), [Purple Music (song)](../../topics/song/purple-music/index.md), [Rearrange (song)](../../topics/song/rearrange/index.md), [The Revolution](../../topics/the-revolution/index.md), [Vagina (song)](../../topics/song/vagina/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md), [Yah, You Know (song)](../../topics/song/yah-you-know/index.md), [You’re All I Want (song)](../../topics/song/you-re-all-i-want/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/news/album-preview-princes-sprawling-six-disc-1999-deluxe-reissue-1203415514/))
+
+----
+
+ - [**"Former Bodyguard for Prince and Other Stars Gets Real in New Memoir -- How one man moved from behind the scenes to center stage and trusted friend of the megatalented Grammy and Oscar winner."**](https://www.ebony.com/news/former-bodyguard-for-prince-and-other-stars-gets-real-in-new-memoir/) in [www.ebony.com](https://www.ebony.com/) on 25 November 2019 about [Billy Sparks](../../topics/billy-sparks/index.md), [George Clinton](../../topics/george-clinton/index.md), [Grammy Award](../../topics/grammy-award/index.md), [Margena A. Christian](../../topics/margena-a-christian/index.md), [memoir](../../topics/memoir/index.md), [Muhammad Ali](../../topics/muhammad-ali/index.md), [Purple Gang](../../topics/purple-gang/index.md), [Wallace Safford](../../topics/wallace-safford/index.md), [Wally, Where’d You Get Those Glasses? (book)](../../topics/book/wally-where-d-you-get-those-glasses/index.md) ([mirror](https://web.archive.org/web/*/https://www.ebony.com/news/former-bodyguard-for-prince-and-other-stars-gets-real-in-new-memoir/))
 
 ----
 
@@ -1340,7 +1364,7 @@
 
 ----
 
-## August 2019 (58)
+## August 2019 (59)
 
  - [**"Lionel Richie is ham on a shtick at the Minnesota State Fair -- He was chatty and comical in a sold-out hits-filled concert."**](http://www.startribune.com/lionel-richie-is-ham-on-a-shtick-at-the-minnesota-state-fair/558897292/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 31 August 2019 about [Lionel Richie](../../topics/lionel-richie/index.md), [Minnesota State Fair](../../topics/minnesota-state-fair/index.md), [State Fair](../../topics/state-fair/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/lionel-richie-is-ham-on-a-shtick-at-the-minnesota-state-fair/558897292/))
 
@@ -1458,6 +1482,10 @@
 
 ----
 
+ - [**"Rock and Roll Book Club: Ani DiFranco's 'No Walls and the Recurring Dream'"**](https://www.thecurrent.org/feature/2019/08/20/ani-difranco-no-walls) in [The Current](https://www.thecurrent.org/) on 21 August 2019 about [Ani DiFranco](../../topics/ani-difranco/index.md), [Bob Dylan](../../topics/bob-dylan/index.md), [Maceo Parker](../../topics/maceo-parker/index.md), [memoir](../../topics/memoir/index.md), [Rave Un2 the Joy Fantastic (album)](../../topics/album/rave-un2-the-joy-fantastic/index.md) ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/08/20/ani-difranco-no-walls))
+
+----
+
  - [**"Prince store at MSP gives travelers a glimpse at superstar's Minnesota life -- Terminal shop organized around parts of Minnesota musician's life to lure fans."**](http://www.startribune.com/prince-store-at-msp-gives-travelers-a-glimpse-at-superstar-s-minnesota-life/556690022/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 August 2019 about [airport](../../topics/airport/index.md), [Bravado](../../topics/bravado/index.md), [DJ Dudley D](../../topics/dj-dudley-d/index.md), [merchandise](../../topics/merchandise/index.md), [Minneapolis-St. Paul International Airport (place)](../../topics/place/minneapolis-st-paul-international-airport/index.md), [museum](../../topics/museum/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-store-at-msp-gives-travelers-a-glimpse-at-superstar-s-minnesota-life/556690022/))
 
 ----
@@ -1478,7 +1506,7 @@
 
 ----
 
- - [**"With glut of festivals, hard to match Woodstock magic"**](https://apnews.com/136ee507406e4b04a30b7cd19883c664) in [Associated Press News](https://apnews.com/) on 16 August 2019 ([mirror](https://web.archive.org/web/*/https://apnews.com/136ee507406e4b04a30b7cd19883c664))
+ - [**"With glut of festivals, hard to match Woodstock magic"**](https://apnews.com/136ee507406e4b04a30b7cd19883c664) in [Associated Press News](https://apnews.com/) on 16 August 2019 about [Beyoncé](../../topics/beyonc/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/136ee507406e4b04a30b7cd19883c664))
 
 ----
 
@@ -1950,7 +1978,7 @@
 
 ----
 
-## May 2019 (9)
+## May 2019 (12)
 
  - [**"From 'Raspberry Road' to 'Dove Court,' development planned on land owned by Prince could honor singer"**](https://kstp.com/news/lennar-homes-housing-development-land-formerly-owned-prince-chanhassen/5370959/) in [KSTP](https://kstp.com/) on 29 May 2019 about [Galpin Boulevard (place)](../../topics/place/galpin-boulevard/index.md), [Lennar Homes](../../topics/lennar-homes/index.md), [Raspberry Beret (song)](../../topics/song/raspberry-beret/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://kstp.com/news/lennar-homes-housing-development-land-formerly-owned-prince-chanhassen/5370959/))
 
@@ -1972,11 +2000,23 @@
 
 ----
 
+ - [**"Ani DiFranco: The making of an iconoclast"**](https://www.washingtonpost.com/entertainment/books/ani-difranco-the-making-of-an-iconoclast/2019/05/09/2ddb20f2-6b7e-11e9-8f44-e8d8bb1df986_story.html) in [www.washingtonpost.com](https://www.washingtonpost.com/) on 10 May 2019 about [Ani DiFranco](../../topics/ani-difranco/index.md), [Grammy Award](../../topics/grammy-award/index.md), [memoir](../../topics/memoir/index.md) ([mirror](https://web.archive.org/web/*/https://www.washingtonpost.com/entertainment/books/ani-difranco-the-making-of-an-iconoclast/2019/05/09/2ddb20f2-6b7e-11e9-8f44-e8d8bb1df986_story.html))
+
+----
+
  - [**"Prince: Unseen Images Unearthed for Randee St. Nicholas Photo Book -- Singer, photographer previously collaborated on 2008 book 21 Nights"**](https://www.rollingstone.com/music/music-news/prince-photo-book-randee-st-nicholas-833631/) in [Rolling Stone](https://www.rollingstone.com/) on 10 May 2019 about [memoir](../../topics/memoir/index.md), [My Name Is Prince: 25 Inspired Years (book)](../../topics/book/my-name-is-prince-25-inspired-years/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-news/prince-photo-book-randee-st-nicholas-833631/))
 
 ----
 
  - [**"Re-live the 1980s heyday of Minnesota music and comedy in a new photo book -- Writer Martin Keller and photographer Greg Helgeson walked “the thin-grooved line between fandom and journalism,” as chronicled in “Hijinx and Hearsay.”"**](http://www.startribune.com/80s-scenesters-offer-snapshots-of-the-minneapolis-sound-in-new-photo-book/509385652/) by Tim Campbell in [Minneapolis Star Tribune](http://www.startribune.com/) on 7 May 2019 about [Capri Theater  (place)](../../topics/place/capri-theater/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Mayte](../../topics/mayte/index.md), [Terry Lewis](../../topics/terry-lewis/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/80s-scenesters-offer-snapshots-of-the-minneapolis-sound-in-new-photo-book/509385652/))
+
+----
+
+ - [**"Review: Musician Ani DiFranco’s memoir is raw and powerful"**](https://apnews.com/7d5cc5a8936a4338a0ea150a080523c7) in [Associated Press News](https://apnews.com/) on 7 May 2019 about [Ani DiFranco](../../topics/ani-difranco/index.md), [Grammy Award](../../topics/grammy-award/index.md), [memoir](../../topics/memoir/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/7d5cc5a8936a4338a0ea150a080523c7))
+
+----
+
+ - [**"Ani DiFranco on Touring With Bob Dylan and Why Prince Was a ‘Queer F-ckin’ Hero’ -- Always unapologetic, the folk singer details her decades of survival in her new memoir, No Walls and the Recurring Dream"**](https://www.rollingstone.com/music/music-features/ani-difranco-new-memoir-bob-dylan-prince-tour-831543/) in [Rolling Stone](https://www.rollingstone.com/) on 6 May 2019 about [Ani DiFranco](../../topics/ani-difranco/index.md), [Bob Dylan](../../topics/bob-dylan/index.md), [Maceo Parker](../../topics/maceo-parker/index.md), [memoir](../../topics/memoir/index.md) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/ani-difranco-new-memoir-bob-dylan-prince-tour-831543/))
 
 ----
 

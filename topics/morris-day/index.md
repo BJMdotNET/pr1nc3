@@ -1,5 +1,9 @@
 # Morris Day
 
+ - [**"The Best Music Books of 2019 (a Lot of Them, Anyway)"**](https://variety.com/feature/best-music-books-2019-1203450290/) in [Variety](https://variety.com/) on 22 December 2019 about [ASCAP](../../topics/ascap/index.md), [Duane Tudahl](../../topics/duane-tudahl/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Morris Day](../../topics/morris-day/index.md), [Prince And The Purple Rain Era Studio Sessions 1983-1984 (book)](../../topics/book/prince-and-the-purple-rain-era-studio-sessions-1983-1984/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/feature/best-music-books-2019-1203450290/))
+
+----
+
  - [**"Rock and Roll Book Club: Best music books of 2019"**](https://www.thecurrent.org/feature/2019/12/11/best-music-books-2019) in [The Current](https://www.thecurrent.org/) on 18 December 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/12/11/best-music-books-2019))
 
 ----

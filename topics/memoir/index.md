@@ -44,6 +44,10 @@
 
 ----
 
+ - [**"Former Bodyguard for Prince and Other Stars Gets Real in New Memoir -- How one man moved from behind the scenes to center stage and trusted friend of the megatalented Grammy and Oscar winner."**](https://www.ebony.com/news/former-bodyguard-for-prince-and-other-stars-gets-real-in-new-memoir/) in [www.ebony.com](https://www.ebony.com/) on 25 November 2019 about [Billy Sparks](../../topics/billy-sparks/index.md), [George Clinton](../../topics/george-clinton/index.md), [Grammy Award](../../topics/grammy-award/index.md), [Margena A. Christian](../../topics/margena-a-christian/index.md), [memoir](../../topics/memoir/index.md), [Muhammad Ali](../../topics/muhammad-ali/index.md), [Purple Gang](../../topics/purple-gang/index.md), [Wallace Safford](../../topics/wallace-safford/index.md), [Wally, Where’d You Get Those Glasses? (book)](../../topics/book/wally-where-d-you-get-those-glasses/index.md) ([mirror](https://web.archive.org/web/*/https://www.ebony.com/news/former-bodyguard-for-prince-and-other-stars-gets-real-in-new-memoir/))
+
+----
+
  - [**"How '1999' made Prince a star: 'This album was the turning point' -- An expanded reissue of Prince's breakthrough album shows how prolific he was in the early '80s."**](http://www.startribune.com/how-1999-made-prince-a-star-this-album-was-the-turning-point/565432932/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 November 2019 about [1999 (album)](../../topics/album/1999/index.md), [Bangles](../../topics/bangles/index.md), [Bobby Z.](../../topics/bobby-z/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [James Brown](../../topics/james-brown/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [memoir](../../topics/memoir/index.md), [The Revolution](../../topics/the-revolution/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/how-1999-made-prince-a-star-this-album-was-the-turning-point/565432932/))
 
 ----
@@ -432,7 +436,23 @@
 
 ----
 
+ - [**"Rock and Roll Book Club: Ani DiFranco's 'No Walls and the Recurring Dream'"**](https://www.thecurrent.org/feature/2019/08/20/ani-difranco-no-walls) in [The Current](https://www.thecurrent.org/) on 21 August 2019 about [Ani DiFranco](../../topics/ani-difranco/index.md), [Bob Dylan](../../topics/bob-dylan/index.md), [Maceo Parker](../../topics/maceo-parker/index.md), [memoir](../../topics/memoir/index.md), [Rave Un2 the Joy Fantastic (album)](../../topics/album/rave-un2-the-joy-fantastic/index.md) ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/08/20/ani-difranco-no-walls))
+
+----
+
+ - [**"Ani DiFranco: The making of an iconoclast"**](https://www.washingtonpost.com/entertainment/books/ani-difranco-the-making-of-an-iconoclast/2019/05/09/2ddb20f2-6b7e-11e9-8f44-e8d8bb1df986_story.html) in [www.washingtonpost.com](https://www.washingtonpost.com/) on 10 May 2019 about [Ani DiFranco](../../topics/ani-difranco/index.md), [Grammy Award](../../topics/grammy-award/index.md), [memoir](../../topics/memoir/index.md) ([mirror](https://web.archive.org/web/*/https://www.washingtonpost.com/entertainment/books/ani-difranco-the-making-of-an-iconoclast/2019/05/09/2ddb20f2-6b7e-11e9-8f44-e8d8bb1df986_story.html))
+
+----
+
  - [**"Prince: Unseen Images Unearthed for Randee St. Nicholas Photo Book -- Singer, photographer previously collaborated on 2008 book 21 Nights"**](https://www.rollingstone.com/music/music-news/prince-photo-book-randee-st-nicholas-833631/) in [Rolling Stone](https://www.rollingstone.com/) on 10 May 2019 about [memoir](../../topics/memoir/index.md), [My Name Is Prince: 25 Inspired Years (book)](../../topics/book/my-name-is-prince-25-inspired-years/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-news/prince-photo-book-randee-st-nicholas-833631/))
+
+----
+
+ - [**"Review: Musician Ani DiFranco’s memoir is raw and powerful"**](https://apnews.com/7d5cc5a8936a4338a0ea150a080523c7) in [Associated Press News](https://apnews.com/) on 7 May 2019 about [Ani DiFranco](../../topics/ani-difranco/index.md), [Grammy Award](../../topics/grammy-award/index.md), [memoir](../../topics/memoir/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/7d5cc5a8936a4338a0ea150a080523c7))
+
+----
+
+ - [**"Ani DiFranco on Touring With Bob Dylan and Why Prince Was a ‘Queer F-ckin’ Hero’ -- Always unapologetic, the folk singer details her decades of survival in her new memoir, No Walls and the Recurring Dream"**](https://www.rollingstone.com/music/music-features/ani-difranco-new-memoir-bob-dylan-prince-tour-831543/) in [Rolling Stone](https://www.rollingstone.com/) on 6 May 2019 about [Ani DiFranco](../../topics/ani-difranco/index.md), [Bob Dylan](../../topics/bob-dylan/index.md), [Maceo Parker](../../topics/maceo-parker/index.md), [memoir](../../topics/memoir/index.md) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/ani-difranco-new-memoir-bob-dylan-prince-tour-831543/))
 
 ----
 

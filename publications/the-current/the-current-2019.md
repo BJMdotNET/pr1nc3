@@ -96,4 +96,10 @@
 
 ----
 
+## August 2019 (1)
+
+ - [**"Rock and Roll Book Club: Ani DiFranco's 'No Walls and the Recurring Dream'"**](https://www.thecurrent.org/feature/2019/08/20/ani-difranco-no-walls) in [The Current](https://www.thecurrent.org/) on 21 August 2019 about [Ani DiFranco](../../topics/ani-difranco/index.md), [Bob Dylan](../../topics/bob-dylan/index.md), [Maceo Parker](../../topics/maceo-parker/index.md), [memoir](../../topics/memoir/index.md), [Rave Un2 the Joy Fantastic (album)](../../topics/album/rave-un2-the-joy-fantastic/index.md) ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/08/20/ani-difranco-no-walls))
+
+----
+
 [Home](../)

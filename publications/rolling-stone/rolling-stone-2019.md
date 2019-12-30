@@ -52,9 +52,13 @@
 
 ----
 
-## May 2019 (1)
+## May 2019 (2)
 
  - [**"Prince: Unseen Images Unearthed for Randee St. Nicholas Photo Book -- Singer, photographer previously collaborated on 2008 book 21 Nights"**](https://www.rollingstone.com/music/music-news/prince-photo-book-randee-st-nicholas-833631/) in [Rolling Stone](https://www.rollingstone.com/) on 10 May 2019 about [memoir](../../topics/memoir/index.md), [My Name Is Prince: 25 Inspired Years (book)](../../topics/book/my-name-is-prince-25-inspired-years/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-news/prince-photo-book-randee-st-nicholas-833631/))
+
+----
+
+ - [**"Ani DiFranco on Touring With Bob Dylan and Why Prince Was a ‘Queer F-ckin’ Hero’ -- Always unapologetic, the folk singer details her decades of survival in her new memoir, No Walls and the Recurring Dream"**](https://www.rollingstone.com/music/music-features/ani-difranco-new-memoir-bob-dylan-prince-tour-831543/) in [Rolling Stone](https://www.rollingstone.com/) on 6 May 2019 about [Ani DiFranco](../../topics/ani-difranco/index.md), [Bob Dylan](../../topics/bob-dylan/index.md), [Maceo Parker](../../topics/maceo-parker/index.md), [memoir](../../topics/memoir/index.md) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/ani-difranco-new-memoir-bob-dylan-prince-tour-831543/))
 
 ----
 

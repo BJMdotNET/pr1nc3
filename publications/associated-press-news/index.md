@@ -1,6 +1,6 @@
 # Associated Press News
 
-  * [2019](./associated-press-news-2019.md/) (23)
+  * [2019](./associated-press-news-2019.md/) (24)
   * [2018](./associated-press-news-2018.md/) (61)
   * [2017](./associated-press-news-2017.md/) (57)
   * [2016](./associated-press-news-2016.md/) (106)

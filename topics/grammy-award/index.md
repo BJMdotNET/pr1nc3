@@ -1,5 +1,17 @@
 # Grammy Award
 
+ - [**"Beyoncé Doesn’t Care That ‘Lemonade’ Was Snubbed at the Grammys"**](https://variety.com/2019/music/news/beyonce-elle-lemonade-ivy-park-snapchat-1203429941/) in [Variety](https://variety.com/) on 9 December 2019 about [Ava DuVernay](../../topics/ava-duvernay/index.md), [Beyoncé](../../topics/beyonc/index.md), [Grammy Award](../../topics/grammy-award/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/news/beyonce-elle-lemonade-ivy-park-snapchat-1203429941/))
+
+----
+
+ - [**"Women Who Man the Boards: Five Engineers Powering Today’s Hitmakers Sessions"**](https://variety.com/2019/music/news/female-engineers-recording-studio-1203421600/) in [Variety](https://variety.com/) on 6 December 2019 about [Grammy Award](../../topics/grammy-award/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [Spotify](../../topics/spotify/index.md), [Susan Rogers](../../topics/susan-rogers/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/news/female-engineers-recording-studio-1203421600/))
+
+----
+
+ - [**"Former Bodyguard for Prince and Other Stars Gets Real in New Memoir -- How one man moved from behind the scenes to center stage and trusted friend of the megatalented Grammy and Oscar winner."**](https://www.ebony.com/news/former-bodyguard-for-prince-and-other-stars-gets-real-in-new-memoir/) in [www.ebony.com](https://www.ebony.com/) on 25 November 2019 about [Billy Sparks](../../topics/billy-sparks/index.md), [George Clinton](../../topics/george-clinton/index.md), [Grammy Award](../../topics/grammy-award/index.md), [Margena A. Christian](../../topics/margena-a-christian/index.md), [memoir](../../topics/memoir/index.md), [Muhammad Ali](../../topics/muhammad-ali/index.md), [Purple Gang](../../topics/purple-gang/index.md), [Wallace Safford](../../topics/wallace-safford/index.md), [Wally, Where’d You Get Those Glasses? (book)](../../topics/book/wally-where-d-you-get-those-glasses/index.md) ([mirror](https://web.archive.org/web/*/https://www.ebony.com/news/former-bodyguard-for-prince-and-other-stars-gets-real-in-new-memoir/))
+
+----
+
  - [**"PAISLEY PARK IS IN YOUR HEART: A VISIT TO PRINCE'S MAGICAL MINNEAPOLIS KINGDOM -- WITH PRINCE'S MEMOIR JUST OUT AND A REMASTERED "1999" ON THE WAY, IT'S THE PERFECT TIME TO DO A PURPLE-COLORED TOUR OF MINNEAPOLIS."**](https://www.newsweek.com/paisley-park-your-heart-visit-princes-magical-minneapolis-kingdom-1472087) in [Newsweek](https://www.newsweek.com/) on 15 November 2019 about [Academy Award](../../topics/academy-award/index.md), [Chappelle's Show (TV show)](../../topics/tv-show/chappelle-s-show/index.md), [Electric Fetus (place)](../../topics/place/electric-fetus/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [George Clinton](../../topics/george-clinton/index.md), [Grammy Award](../../topics/grammy-award/index.md), [James Brown](../../topics/james-brown/index.md), [memoir](../../topics/memoir/index.md), [merchandise](../../topics/merchandise/index.md), [motorcycle](../../topics/motorcycle/index.md), [museum](../../topics/museum/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Super Bowl](../../topics/super-bowl/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.newsweek.com/paisley-park-your-heart-visit-princes-magical-minneapolis-kingdom-1472087))
 
 ----
@@ -33,6 +45,14 @@
 ----
 
  - [**"Prince and The Revolution’s ‘Purple Rain’ Turns 35: Anniversary Retrospective -- Happy 35th Anniversary to Prince’s sixth studio album (and soundtrack to the film) Purple Rain, originally released June 25, 1984. "**](https://www.albumism.com/features/prince-and-the-revolution-purple-rain-turns-35-anniversary-retrospective) by Andy Healy in [Albumism](https://www.albumism.com/) on 23 June 2019 about [Apollonia 6](../../topics/apollonia-6/index.md), [Baby I’m a Star (song)](../../topics/song/baby-i-m-a-star/index.md), [Computer Blue (song)](../../topics/song/computer-blue/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Grammy Award](../../topics/grammy-award/index.md), [I Would Die 4 U (song)](../../topics/song/i-would-die-4-u/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Linn LM-1](../../topics/linn-lm-1/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Parental Advisory](../../topics/parental-advisory/index.md), [Parents Music Resource Center](../../topics/parents-music-resource-center/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Take Me with U (song)](../../topics/song/take-me-with-u/index.md), [The Beautiful Ones (song)](../../topics/song/the-beautiful-ones/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md), [Undisputed (song)](../../topics/song/undisputed/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://www.albumism.com/features/prince-and-the-revolution-purple-rain-turns-35-anniversary-retrospective))
+
+----
+
+ - [**"Ani DiFranco: The making of an iconoclast"**](https://www.washingtonpost.com/entertainment/books/ani-difranco-the-making-of-an-iconoclast/2019/05/09/2ddb20f2-6b7e-11e9-8f44-e8d8bb1df986_story.html) in [www.washingtonpost.com](https://www.washingtonpost.com/) on 10 May 2019 about [Ani DiFranco](../../topics/ani-difranco/index.md), [Grammy Award](../../topics/grammy-award/index.md), [memoir](../../topics/memoir/index.md) ([mirror](https://web.archive.org/web/*/https://www.washingtonpost.com/entertainment/books/ani-difranco-the-making-of-an-iconoclast/2019/05/09/2ddb20f2-6b7e-11e9-8f44-e8d8bb1df986_story.html))
+
+----
+
+ - [**"Review: Musician Ani DiFranco’s memoir is raw and powerful"**](https://apnews.com/7d5cc5a8936a4338a0ea150a080523c7) in [Associated Press News](https://apnews.com/) on 7 May 2019 about [Ani DiFranco](../../topics/ani-difranco/index.md), [Grammy Award](../../topics/grammy-award/index.md), [memoir](../../topics/memoir/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/7d5cc5a8936a4338a0ea150a080523c7))
 
 ----
 

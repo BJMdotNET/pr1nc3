@@ -1156,7 +1156,7 @@
 
 ----
 
-## April 2016 (110)
+## April 2016 (111)
 
  - [**"AP Exclusive: Prince’s ‘Purple Rain’ coat is up for auction"**](https://apnews.com/8110dcbaa6714d75a12db043ff989975) in [Associated Press News](https://apnews.com/) on 29 April 2016 about [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [auction](../../topics/auction/index.md), [Katy Perry](../../topics/katy-perry/index.md), [motorcycle](../../topics/motorcycle/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/8110dcbaa6714d75a12db043ff989975))
 
@@ -1491,6 +1491,10 @@
 ----
 
  - [**"Bob Seger Remembers Meeting Prince & His Impact: 'He Was a Gift to Music'"**](https://www.billboard.com/articles/news/7341559/bob-seger-prince-remembers-interview) in [Billboard](https://www.billboard.com/) on 21 April 2016 about [James Brown](../../topics/james-brown/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Stand Back (song)](../../topics/song/stand-back/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/7341559/bob-seger-prince-remembers-interview))
+
+----
+
+ - [**"Deborah Allen Recalls Magical ‘Telepathy’ With Prince -- Singer tells incredible story about recruiting the late legend for a collaboration — and bonding over music, fashion and dance"**](https://www.rollingstone.com/music/music-country/deborah-allen-recalls-magical-telepathy-with-prince-174700/) in [Rolling Stone](https://www.rollingstone.com/) on 21 April 2016 about [Deborah Allen](../../topics/deborah-allen/index.md), [Joey Coco](../../topics/joey-coco/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [Telepathy (song)](../../topics/song/telepathy/index.md) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-country/deborah-allen-recalls-magical-telepathy-with-prince-174700/))
 
 ----
 

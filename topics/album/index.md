@@ -1,7 +1,7 @@
 # album
 
   * [1-800-NEW-FUNK (album)](./album/1-800-new-funk/) (1)
-  * [1999 (album)](./album/1999/) (76)
+  * [1999 (album)](./album/1999/) (77)
   * [1999 Deluxe (album)](./album/1999-deluxe/) (5)
   * [1999 Super Deluxe (album)](./album/1999-super-deluxe/) (9)
   * [1999 SuperDeluxe (album)](./album/1999-superdeluxe/) (1)
@@ -28,7 +28,7 @@
   * [Prince Anthology: 1995-2010 (album)](./album/prince-anthology-1995-2010/) (2)
   * [Purple Rain (album)](./album/purple-rain/) (27)
   * [Rave In2 the Joy Fantastic (album)](./album/rave-in2-the-joy-fantastic/) (5)
-  * [Rave Un2 the Joy Fantastic (album)](./album/rave-un2-the-joy-fantastic/) (8)
+  * [Rave Un2 the Joy Fantastic (album)](./album/rave-un2-the-joy-fantastic/) (9)
   * [Sign O' The Times (album)](./album/sign-o-the-times/) (1)
   * [The Black Album (album)](./album/the-black-album/) (7)
   * [The Glamorous Life (album)](./album/the-glamorous-life/) (4)

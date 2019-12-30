@@ -42,7 +42,7 @@
 
 ----
 
- - [**"With glut of festivals, hard to match Woodstock magic"**](https://apnews.com/136ee507406e4b04a30b7cd19883c664) in [Associated Press News](https://apnews.com/) on 16 August 2019 ([mirror](https://web.archive.org/web/*/https://apnews.com/136ee507406e4b04a30b7cd19883c664))
+ - [**"With glut of festivals, hard to match Woodstock magic"**](https://apnews.com/136ee507406e4b04a30b7cd19883c664) in [Associated Press News](https://apnews.com/) on 16 August 2019 about [Beyoncé](../../topics/beyonc/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/136ee507406e4b04a30b7cd19883c664))
 
 ----
 
@@ -59,6 +59,12 @@
 ## June 2019 (1)
 
  - [**"Remembering when Prince wrote that song for you"**](https://apnews.com/9946e6f68e354265a15047187b217b56) in [Associated Press News](https://apnews.com/) on 4 June 2019 about [Apollonia 6](../../topics/apollonia-6/index.md), [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Bangles](../../topics/bangles/index.md), [Denise Matthews](../../topics/denise-matthews/index.md), [Joey Coco](../../topics/joey-coco/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Nile Rodgers](../../topics/nile-rodgers/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../topics/album/originals/index.md), [Paisley Park Records](../../topics/paisley-park-records/index.md), [Sex Shooter (song)](../../topics/song/sex-shooter/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [The Family](../../topics/the-family/index.md), [The Glamorous Life (song)](../../topics/song/the-glamorous-life/index.md), [The Time](../../topics/the-time/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/9946e6f68e354265a15047187b217b56))
+
+----
+
+## May 2019 (1)
+
+ - [**"Review: Musician Ani DiFranco’s memoir is raw and powerful"**](https://apnews.com/7d5cc5a8936a4338a0ea150a080523c7) in [Associated Press News](https://apnews.com/) on 7 May 2019 about [Ani DiFranco](../../topics/ani-difranco/index.md), [Grammy Award](../../topics/grammy-award/index.md), [memoir](../../topics/memoir/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/7d5cc5a8936a4338a0ea150a080523c7))
 
 ----
 
