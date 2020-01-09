@@ -1,6 +1,10 @@
 # 2019
 
-## December 2019 (1)
+## December 2019 (2)
+
+ - [**"Lifetime returns to R. Kelly with a new powerful series"**](https://apnews.com/76d4ff162e58196357641dbdbb5cbf07) by Mark Kennedy (Associated Press) in [Associated Press News](https://apnews.com/) on 30 December 2019 about [Beyoncé](../../topics/beyonc/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/76d4ff162e58196357641dbdbb5cbf07))
+
+----
 
  - [**"Not just arabesques: Misty Copeland imparts her life lessons"**](https://apnews.com/979e7d6b80b24f1189f1a26986ca7e03) in [Associated Press News](https://apnews.com/) on 2 December 2019 about [Misty Copeland](../../topics/misty-copeland/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/979e7d6b80b24f1189f1a26986ca7e03))
 

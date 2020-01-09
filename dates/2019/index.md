@@ -1,6 +1,26 @@
 # 2019
 
-## December 2019 (57)
+## December 2019 (62)
+
+ - [**"Prince fans can now wear clothes made by his favorite designers"**](https://nypost.com/2019/12/31/prince-fans-can-now-wear-clothes-made-by-his-favorite-designers/) in [New York Post](https://nypost.com/) on 31 December 2019 about [1999 (album)](../../topics/album/1999/index.md), [Call & Response](../../topics/call-response/index.md), [Cathy Robinson](../../topics/cathy-robinson/index.md), [Lori Marcuz](../../topics/lori-marcuz/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Toronto](../../topics/toronto/index.md) ([mirror](https://web.archive.org/web/*/https://nypost.com/2019/12/31/prince-fans-can-now-wear-clothes-made-by-his-favorite-designers/))
+
+----
+
+ - [**"Lifetime returns to R. Kelly with a new powerful series"**](http://www.startribune.com/lifetime-returns-to-r-kelly-with-a-new-powerful-series/566568672/) by Mark Kennedy (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 30 December 2019 about [Beyoncé](../../topics/beyonc/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/lifetime-returns-to-r-kelly-with-a-new-powerful-series/566568672/))
+
+----
+
+ - [**"Lifetime returns to R. Kelly with a new powerful series"**](https://apnews.com/76d4ff162e58196357641dbdbb5cbf07) by Mark Kennedy (Associated Press) in [Associated Press News](https://apnews.com/) on 30 December 2019 about [Beyoncé](../../topics/beyonc/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/76d4ff162e58196357641dbdbb5cbf07))
+
+----
+
+ - [**"Paisley Park to host film series featuring Aretha, 'Wattstax' and 'Dave Chappelle's Block Party'"**](http://www.startribune.com/paisley-park-to-host-film-series-featuring-aretha-wattstax-and-dave-chappelle-s-block-party/566561102/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 30 December 2019 about [Alan Seiffert](../../topics/alan-seiffert/index.md), [Andre Cymone](../../topics/andre-cymone/index.md), [Dave Chappelle](../../topics/dave-chappelle/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [Judith Hill](../../topics/judith-hill/index.md), [museum](../../topics/museum/index.md), [The Roots](../../topics/the-roots/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-to-host-film-series-featuring-aretha-wattstax-and-dave-chappelle-s-block-party/566561102/))
+
+----
+
+ - [**"Prince’s Personal Designers Are Releasing A Made-To-Order Line"**](https://www.refinery29.com/en-us/2019/12/9088095/prince-1999-clothing-collection) in [www.refinery29.com](https://www.refinery29.com/) on 28 December 2019 about [Call & Response](../../topics/call-response/index.md), [Cathy Robinson](../../topics/cathy-robinson/index.md), [Lori Marcuz](../../topics/lori-marcuz/index.md), [Toronto](../../topics/toronto/index.md) ([mirror](https://web.archive.org/web/*/https://www.refinery29.com/en-us/2019/12/9088095/prince-1999-clothing-collection))
+
+----
 
  - [**"The Best Music Boxed Sets of 2019 -- The Beatles, Prince, Bob Dylan, Nat King Cole, the Replacements and the Band all got commemorated — along with Woodstock, Bakersfield, Motown and East L.A."**](https://variety.com/2019/music/reviews/best-music-boxed-sets-2019-1203451459/) in [Variety](https://variety.com/) on 23 December 2019 about [1999 (album)](../../topics/album/1999/index.md), [Bob Dylan](../../topics/bob-dylan/index.md), [bootleg](../../topics/bootleg/index.md), [David Fricke](../../topics/david-fricke/index.md), [Eric Clapton](../../topics/eric-clapton/index.md), [Mountains (song)](../../topics/song/mountains/index.md), [New Power Generation (song)](../../topics/song/new-power-generation/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [The Revolution](../../topics/the-revolution/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/reviews/best-music-boxed-sets-2019-1203451459/))
 
@@ -178,7 +198,7 @@
 
 ----
 
- - [**""CALL & RESPONSE" IS A FASHION LINE CREATED BY PRINCE'S TRUSTED DESIGNERS -- To honor the Super Deluxe reissue of "1999", the duo conjured up a collection full of textured fabrics, overlays and detail."**](https://vmagazine.com/article/call-response-is-a-fashion-line-created-by-princes-trusted-designers/) in [vmagazine.com](https://vmagazine.com/) on 3 December 2019 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md) ([mirror](https://web.archive.org/web/*/https://vmagazine.com/article/call-response-is-a-fashion-line-created-by-princes-trusted-designers/))
+ - [**""CALL & RESPONSE" IS A FASHION LINE CREATED BY PRINCE'S TRUSTED DESIGNERS -- To honor the Super Deluxe reissue of "1999", the duo conjured up a collection full of textured fabrics, overlays and detail."**](https://vmagazine.com/article/call-response-is-a-fashion-line-created-by-princes-trusted-designers/) in [vmagazine.com](https://vmagazine.com/) on 3 December 2019 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Call & Response](../../topics/call-response/index.md), [Cathy Robinson](../../topics/cathy-robinson/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Lori Marcuz](../../topics/lori-marcuz/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md) ([mirror](https://web.archive.org/web/*/https://vmagazine.com/article/call-response-is-a-fashion-line-created-by-princes-trusted-designers/))
 
 ----
 
@@ -198,7 +218,7 @@
 
 ----
 
- - [**"The Prince Estate Announces Unique 1999-Inspired Fashion Line Created By Prince’s Trusted Designers"**](https://musicmayhemmagazine.com/the-prince-estate-announces-unique-1999-inspired-fashion-line-created-by-princes-trusted-designers/) in [musicmayhemmagazine.com](https://musicmayhemmagazine.com/) on 3 December 2019 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Andy Allo](../../topics/andy-allo/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [NPG Records](../../topics/npg-records/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Prince: The Story of 1999](../../topics/prince-the-story-of-1999/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Toronto](../../topics/toronto/index.md), [trademark](../../topics/trademark/index.md) ([mirror](https://web.archive.org/web/*/https://musicmayhemmagazine.com/the-prince-estate-announces-unique-1999-inspired-fashion-line-created-by-princes-trusted-designers/))
+ - [**"The Prince Estate Announces Unique 1999-Inspired Fashion Line Created By Prince’s Trusted Designers"**](https://musicmayhemmagazine.com/the-prince-estate-announces-unique-1999-inspired-fashion-line-created-by-princes-trusted-designers/) in [musicmayhemmagazine.com](https://musicmayhemmagazine.com/) on 3 December 2019 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Andy Allo](../../topics/andy-allo/index.md), [Call & Response](../../topics/call-response/index.md), [Cathy Robinson](../../topics/cathy-robinson/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Lori Marcuz](../../topics/lori-marcuz/index.md), [NPG Records](../../topics/npg-records/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Prince: The Story of 1999](../../topics/prince-the-story-of-1999/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Toronto](../../topics/toronto/index.md), [trademark](../../topics/trademark/index.md) ([mirror](https://web.archive.org/web/*/https://musicmayhemmagazine.com/the-prince-estate-announces-unique-1999-inspired-fashion-line-created-by-princes-trusted-designers/))
 
 ----
 
@@ -642,7 +662,7 @@
 
 ----
 
- - [**"‘The Beautiful Ones’ isn’t the memoir Prince envisioned, but it’s a moving look at the singer’s life"**](https://www.washingtonpost.com/entertainment/books/the-beautiful-ones-isnt-the-memoir-prince-envisioned-but-its-a-moving-look-at-the-singers-life/2019/10/30/b4868632-fb16-11e9-8906-ab6b60de9124_story.html) in [www.washingtonpost.com](https://www.washingtonpost.com/) on 30 October 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [fentanyl](../../topics/fentanyl/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.washingtonpost.com/entertainment/books/the-beautiful-ones-isnt-the-memoir-prince-envisioned-but-its-a-moving-look-at-the-singers-life/2019/10/30/b4868632-fb16-11e9-8906-ab6b60de9124_story.html))
+ - [**"‘The Beautiful Ones’ isn’t the memoir Prince envisioned, but it’s a moving look at the singer’s life"**](https://www.washingtonpost.com/entertainment/books/the-beautiful-ones-isnt-the-memoir-prince-envisioned-but-its-a-moving-look-at-the-singers-life/2019/10/30/b4868632-fb16-11e9-8906-ab6b60de9124_story.html) in [Washington Post](https://www.washingtonpost.com/) on 30 October 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [fentanyl](../../topics/fentanyl/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.washingtonpost.com/entertainment/books/the-beautiful-ones-isnt-the-memoir-prince-envisioned-but-its-a-moving-look-at-the-singers-life/2019/10/30/b4868632-fb16-11e9-8906-ab6b60de9124_story.html))
 
 ----
 
@@ -1656,7 +1676,7 @@
 
 ----
 
- - [**"14 things to do in the D.C. area this week"**](https://www.washingtonpost.com/dc-md-va/2019/07/22/things-do-dc-area-this-week/) by Going Out Guide staff in [Washington Post](https://www.washingtonpost.com/dc-md-va/2019/07/22/things-do-dc-area-this-week/) on 22 July 2019 about [Cloud guitar](../../topics/cloud-guitar/index.md), [museum](../../topics/museum/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Smithsonian (place)](../../topics/place/smithsonian/index.md) ([mirror](https://web.archive.org/web/*/https://www.washingtonpost.com/dc-md-va/2019/07/22/things-do-dc-area-this-week/))
+ - [**"14 things to do in the D.C. area this week"**](https://www.washingtonpost.com/dc-md-va/2019/07/22/things-do-dc-area-this-week/) by Going Out Guide staff in [Washington Post](https://www.washingtonpost.com/) on 22 July 2019 about [Cloud guitar](../../topics/cloud-guitar/index.md), [museum](../../topics/museum/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Smithsonian (place)](../../topics/place/smithsonian/index.md) ([mirror](https://web.archive.org/web/*/https://www.washingtonpost.com/dc-md-va/2019/07/22/things-do-dc-area-this-week/))
 
 ----
 
@@ -2000,7 +2020,7 @@
 
 ----
 
- - [**"Ani DiFranco: The making of an iconoclast"**](https://www.washingtonpost.com/entertainment/books/ani-difranco-the-making-of-an-iconoclast/2019/05/09/2ddb20f2-6b7e-11e9-8f44-e8d8bb1df986_story.html) in [www.washingtonpost.com](https://www.washingtonpost.com/) on 10 May 2019 about [Ani DiFranco](../../topics/ani-difranco/index.md), [Grammy Award](../../topics/grammy-award/index.md), [memoir](../../topics/memoir/index.md) ([mirror](https://web.archive.org/web/*/https://www.washingtonpost.com/entertainment/books/ani-difranco-the-making-of-an-iconoclast/2019/05/09/2ddb20f2-6b7e-11e9-8f44-e8d8bb1df986_story.html))
+ - [**"Ani DiFranco: The making of an iconoclast"**](https://www.washingtonpost.com/entertainment/books/ani-difranco-the-making-of-an-iconoclast/2019/05/09/2ddb20f2-6b7e-11e9-8f44-e8d8bb1df986_story.html) in [Washington Post](https://www.washingtonpost.com/) on 10 May 2019 about [Ani DiFranco](../../topics/ani-difranco/index.md), [Grammy Award](../../topics/grammy-award/index.md), [memoir](../../topics/memoir/index.md) ([mirror](https://web.archive.org/web/*/https://www.washingtonpost.com/entertainment/books/ani-difranco-the-making-of-an-iconoclast/2019/05/09/2ddb20f2-6b7e-11e9-8f44-e8d8bb1df986_story.html))
 
 ----
 

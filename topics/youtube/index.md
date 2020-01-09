@@ -1,5 +1,13 @@
 # YouTube
 
+ - [**"Prince: requiem for a bass hero -- The bassists that played with the late legend share their stories"**](https://www.guitarworld.com/features/prince-requiem-for-a-bass-hero) in [GuitarWorld](https://www.guitarworld.com/) on 8 January 2020 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [André Cymone](../../topics/andr-cymone/index.md), [BrownMark](../../topics/brownmark/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Pop Life (song)](../../topics/song/pop-life/index.md), [Sonny Thompson](../../topics/sonny-thompson/index.md), [Tal Wilkenfeld](../../topics/tal-wilkenfeld/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md), [YouTube](../../topics/youtube/index.md) ([mirror](https://web.archive.org/web/*/https://www.guitarworld.com/features/prince-requiem-for-a-bass-hero))
+
+----
+
+ - [**"Prince’s costume designers release new collection inspired by The Kid himself"**](https://thegrio.com/2020/01/08/princes-costume-designers-release-new-collection-inspired-by-the-kid-himself/) in [thegrio.com](https://thegrio.com/) on 8 January 2020 about [Call & Response](../../topics/call-response/index.md), [Cathy Robinson](../../topics/cathy-robinson/index.md), [Lori Marcuz](../../topics/lori-marcuz/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [YouTube](../../topics/youtube/index.md) ([mirror](https://web.archive.org/web/*/https://thegrio.com/2020/01/08/princes-costume-designers-release-new-collection-inspired-by-the-kid-himself/))
+
+----
+
  - [**"Prince: The Story of 1999 bonus feature: Nile Rodgers, 'Prince made such an impression on the world'"**](https://www.thecurrent.org/feature/2019/12/13/prince-the-story-of-1999-bonus-feature-nile-rodgers-interview) in [The Current](https://www.thecurrent.org/) on 13 December 2019 about [1999 (album)](../../topics/album/1999/index.md), [Andrea Swensson](../../topics/andrea-swensson/index.md), [Essence Fest](../../topics/essence-fest/index.md), [Morris Day](../../topics/morris-day/index.md), [Nile Rodgers](../../topics/nile-rodgers/index.md), [Prince: The Story of 1999](../../topics/prince-the-story-of-1999/index.md), [Spotify](../../topics/spotify/index.md), [Turks and Caicos](../../topics/turks-and-caicos/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md), [YouTube](../../topics/youtube/index.md) ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/12/13/prince-the-story-of-1999-bonus-feature-nile-rodgers-interview))
 
 ----

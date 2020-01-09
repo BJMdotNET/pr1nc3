@@ -480,7 +480,7 @@
 
 ----
 
-## April 2018 (45)
+## April 2018 (46)
 
  - [**"Janelle Monáe to tout her new Prince-infused album July 3 at the State"**](http://www.startribune.com/janelle-monae-to-tout-her-new-prince-infused-album-july-3-at-the-state/480567481/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 23 April 2018 about [Janelle Monae](../../topics/janelle-monae/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/janelle-monae-to-tout-her-new-prince-infused-album-july-3-at-the-state/480567481/))
 
@@ -507,6 +507,10 @@
 ----
 
  - [**"Investigation says Prince was isolated, addicted and in pain"**](https://apnews.com/94806d16569541d98032ce2b2f82aa6a) by Amy Forliti (Associated Press) in [Associated Press News](https://apnews.com/) on 21 April 2018 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [Hannah Welton](../../topics/hannah-welton/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Joshua Welton](../../topics/joshua-welton/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Mark Metz](../../topics/mark-metz/index.md), [Meron Bekure](../../topics/meron-bekure/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [oxycodone](../../topics/oxycodone/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Vicodin](../../topics/vicodin/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/94806d16569541d98032ce2b2f82aa6a))
+
+----
+
+ - [**"See Prince's Legendary Outfits From His Fashion Archives: The Greatest Rock 'n' Roll Closet of All Time"**](https://www.vogue.com/article/inside-prince-closet-at-paisley-park-fashion-archive) in [www.vogue.com](https://www.vogue.com/) on 21 April 2018 about [Cathy Robinson](../../topics/cathy-robinson/index.md), [Lori Marcuz](../../topics/lori-marcuz/index.md) ([mirror](https://web.archive.org/web/*/https://www.vogue.com/article/inside-prince-closet-at-paisley-park-fashion-archive))
 
 ----
 

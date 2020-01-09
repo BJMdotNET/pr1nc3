@@ -1,5 +1,9 @@
 # The Roots
 
+ - [**"Paisley Park to host film series featuring Aretha, 'Wattstax' and 'Dave Chappelle's Block Party'"**](http://www.startribune.com/paisley-park-to-host-film-series-featuring-aretha-wattstax-and-dave-chappelle-s-block-party/566561102/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 30 December 2019 about [Alan Seiffert](../../topics/alan-seiffert/index.md), [Andre Cymone](../../topics/andre-cymone/index.md), [Dave Chappelle](../../topics/dave-chappelle/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [Judith Hill](../../topics/judith-hill/index.md), [museum](../../topics/museum/index.md), [The Roots](../../topics/the-roots/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-to-host-film-series-featuring-aretha-wattstax-and-dave-chappelle-s-block-party/566561102/))
+
+----
+
  - [**"11 anticipated music books this fall"**](https://www.latimes.com/entertainment-arts/books/story/2019-09-13/la-ca-jc-music-books-fall-2019) in [Los Angeles Times](https://www.latimes.com/) on 13 September 2019 about [Fred Armisen](../../topics/fred-armisen/index.md), [memoir](../../topics/memoir/index.md), [Questlove](../../topics/questlove/index.md), [Spotify](../../topics/spotify/index.md), [The Roots](../../topics/the-roots/index.md) ([mirror](https://web.archive.org/web/*/https://www.latimes.com/entertainment-arts/books/story/2019-09-13/la-ca-jc-music-books-fall-2019))
 
 ----

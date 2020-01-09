@@ -1,5 +1,13 @@
 # Dave Chappelle
 
+ - [**"Prince's Paisley Park Announces Music on the Big Screen Series"**](https://www.antimusic.com/news/20/January/07Princes_Paisley_Park_Announces_Music_on_the_Big_Screen_Series.shtml) in [www.antimusic.com](https://www.antimusic.com/) on 6 January 2020 about [Alan Seiffert](../../topics/alan-seiffert/index.md), [Dave Chappelle](../../topics/dave-chappelle/index.md) ([mirror](https://web.archive.org/web/*/https://www.antimusic.com/news/20/January/07Princes_Paisley_Park_Announces_Music_on_the_Big_Screen_Series.shtml))
+
+----
+
+ - [**"Paisley Park to host film series featuring Aretha, 'Wattstax' and 'Dave Chappelle's Block Party'"**](http://www.startribune.com/paisley-park-to-host-film-series-featuring-aretha-wattstax-and-dave-chappelle-s-block-party/566561102/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 30 December 2019 about [Alan Seiffert](../../topics/alan-seiffert/index.md), [Andre Cymone](../../topics/andre-cymone/index.md), [Dave Chappelle](../../topics/dave-chappelle/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [Judith Hill](../../topics/judith-hill/index.md), [museum](../../topics/museum/index.md), [The Roots](../../topics/the-roots/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-to-host-film-series-featuring-aretha-wattstax-and-dave-chappelle-s-block-party/566561102/))
+
+----
+
  - [**"Prince’s Longtime Photographer Reflects On Working With The Singer: ‘You Could Just Go Wild’"**](https://www.littlethings.com/prince-photographer/) in [www.littlethings.com](https://www.littlethings.com/) on 9 December 2019 about [Charlie Murphy](../../topics/charlie-murphy/index.md), [Dave Chappelle](../../topics/dave-chappelle/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md) ([mirror](https://web.archive.org/web/*/https://www.littlethings.com/prince-photographer/))
 
 ----

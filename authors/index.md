@@ -17,6 +17,7 @@
      * [Larry Neumeister (Associated Press)](./associated-press/larry-neumeister/) (2)
      * [Leanne Italie (Associated Press)](./associated-press/leanne-italie/) (3)
      * [Lynne O'Donnell (Associated Press)](./associated-press/lynne-o-donnell/) (1)
+     * [Mark Kennedy (Associated Press)](./associated-press/mark-kennedy/) (2)
      * [Mesfin Fekadu (Associated Press)](./associated-press/mesfin-fekadu/) (6)
      * [Michael Tarm (Associated Press)](./associated-press/michael-tarm/) (1)
      * [Nekesa Mumbi Moody (Associated Press)](./associated-press/nekesa-mumbi-moody/) (6)

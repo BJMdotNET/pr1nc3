@@ -1,6 +1,7 @@
 # Minneapolis Star Tribune
 
-  * [2019](./minneapolis-star-tribune-2019.md/) (115)
+  * [2020](./minneapolis-star-tribune-2020.md/) (1)
+  * [2019](./minneapolis-star-tribune-2019.md/) (117)
   * [2018](./minneapolis-star-tribune-2018.md/) (87)
   * [2017](./minneapolis-star-tribune-2017.md/) (80)
   * [2016](./minneapolis-star-tribune-2016.md/) (228)
