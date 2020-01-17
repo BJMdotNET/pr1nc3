@@ -1,5 +1,9 @@
 # Susan Rogers
 
+ - [**"Prince: The Story of 1999 bonus feature: LeRoy Bennett, 'Prince was beyond anybody'"**](https://www.thecurrent.org/feature/2020/01/02/prince-the-story-of-1999-leroy-bennett-prince-was-beyond-anybody) in [The Current](https://www.thecurrent.org/) on 2 January 2020 about [1999 (album)](../../topics/album/1999/index.md), [Andrea Swensson](../../topics/andrea-swensson/index.md), [Grammy Award](../../topics/grammy-award/index.md), [Jesse Johnson](../../topics/jesse-johnson/index.md), [Jill Jones](../../topics/jill-jones/index.md), [LeRoy Bennett](../../topics/leroy-bennett/index.md), [Prince: The Story of 1999](../../topics/prince-the-story-of-1999/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [The Revolution](../../topics/the-revolution/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md) ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2020/01/02/prince-the-story-of-1999-leroy-bennett-prince-was-beyond-anybody))
+
+----
+
  - [**"Women Who Man the Boards: Five Engineers Powering Today’s Hitmakers Sessions"**](https://variety.com/2019/music/news/female-engineers-recording-studio-1203421600/) in [Variety](https://variety.com/) on 6 December 2019 about [Grammy Award](../../topics/grammy-award/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [Spotify](../../topics/spotify/index.md), [Susan Rogers](../../topics/susan-rogers/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/news/female-engineers-recording-studio-1203421600/))
 
 ----

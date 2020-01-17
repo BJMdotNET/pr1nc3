@@ -4,6 +4,10 @@
 
 ----
 
+ - [**"Official Prince website publishes interactive guide to Minneapolis"**](https://blog.thecurrent.org/2019/12/official-prince-website-publishes-interactive-guide-to-minneapolis/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 26 December 2019 about [André Cymone](../../topics/andr-cymone/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [memoir](../../topics/memoir/index.md), [Moon Sound Studio (place)](../../topics/place/moon-sound-studio/index.md), [Owen Husney](../../topics/owen-husney/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md) ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2019/12/official-prince-website-publishes-interactive-guide-to-minneapolis/))
+
+----
+
  - [**"6 must-read music books and memoirs for 2020"**](https://rollingout.com/2019/12/22/6-must-read-music-books-and-memoirs-for-2020/) in [rollingout.com](https://rollingout.com/) on 22 December 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://rollingout.com/2019/12/22/6-must-read-music-books-and-memoirs-for-2020/))
 
 ----

@@ -1,6 +1,14 @@
 # 2019
 
-## December 2019 (2)
+## December 2019 (4)
+
+ - [**"Henderson (‘That ain’t Lake Minnetonka’), Minnesota to unveil Prince statue"**](https://blog.thecurrent.org/2019/12/henderson-that-aint-lake-minnetonka-minnesota-to-unveil-prince-statue/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 27 December 2019 about [Allen Beaulieu](../../topics/allen-beaulieu/index.md), [Andrea Swensson](../../topics/andrea-swensson/index.md), [Bob Dylan](../../topics/bob-dylan/index.md), [Celebration](../../topics/celebration/index.md), [Cloud guitar](../../topics/cloud-guitar/index.md), [Lake Minnetonka (place)](../../topics/place/lake-minnetonka/index.md) ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2019/12/henderson-that-aint-lake-minnetonka-minnesota-to-unveil-prince-statue/))
+
+----
+
+ - [**"Official Prince website publishes interactive guide to Minneapolis"**](https://blog.thecurrent.org/2019/12/official-prince-website-publishes-interactive-guide-to-minneapolis/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 26 December 2019 about [André Cymone](../../topics/andr-cymone/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [memoir](../../topics/memoir/index.md), [Moon Sound Studio (place)](../../topics/place/moon-sound-studio/index.md), [Owen Husney](../../topics/owen-husney/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md) ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2019/12/official-prince-website-publishes-interactive-guide-to-minneapolis/))
+
+----
 
  - [**"Paisley Park announces Celebration 2020 dates, moving from April to June"**](https://blog.thecurrent.org/2019/12/paisley-park-announces-celebration-2020-dates-moving-from-april-to-june/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 16 December 2019 about [Andrea Swensson](../../topics/andrea-swensson/index.md), [Bob Cavallo](../../topics/bob-cavallo/index.md), [Celebration](../../topics/celebration/index.md), [Celebration 2020](../../topics/celebration-2020/index.md), [Jesse Johnson](../../topics/jesse-johnson/index.md), [museum](../../topics/museum/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [The Revolution](../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2019/12/paisley-park-announces-celebration-2020-dates-moving-from-april-to-june/))
 

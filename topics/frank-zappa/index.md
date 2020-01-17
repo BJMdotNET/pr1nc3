@@ -1,5 +1,9 @@
 # Frank Zappa
 
+ - [**"Prince: The Story of 1999 bonus feature: Dr. Fink, 'When Prince sang live, he was just impeccable'"**](https://www.thecurrent.org/feature/2020/01/03/prince-the-story-of-1999-bonus-feature-matt-dr-fink-interview) in [The Current](https://www.thecurrent.org/) on 3 January 2020 about [1999 (album)](../../topics/album/1999/index.md), [Andrea Swensson](../../topics/andrea-swensson/index.md), [Do Yourself a Favor (song)](../../topics/song/do-yourself-a-favor/index.md), [Frank Zappa](../../topics/frank-zappa/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Matt Fink](../../topics/matt-fink/index.md), [Pepe Willie](../../topics/pepe-willie/index.md), [Possessed (song)](../../topics/song/possessed/index.md), [Prince: The Story of 1999](../../topics/prince-the-story-of-1999/index.md), [Purple Music (song)](../../topics/song/purple-music/index.md), [The Revolution](../../topics/the-revolution/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2020/01/03/prince-the-story-of-1999-bonus-feature-matt-dr-fink-interview))
+
+----
+
  - [**"Buddy Holly and Roy Orbison in Minnesota? Hologram tours of old stars are the hot new concert trend -- Buddy Holly is coming to town with Roy Orbison? Yes, rock 'n' roll holograms are here to stay."**](http://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 October 2019 about [Ed Sheeran](../../topics/ed-sheeran/index.md), [Frank Zappa](../../topics/frank-zappa/index.md), [Lizzo](../../topics/lizzo/index.md), [Morris Day](../../topics/morris-day/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/))
 
 ----

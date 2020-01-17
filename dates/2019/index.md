@@ -1,6 +1,6 @@
 # 2019
 
-## December 2019 (62)
+## December 2019 (64)
 
  - [**"Prince fans can now wear clothes made by his favorite designers"**](https://nypost.com/2019/12/31/prince-fans-can-now-wear-clothes-made-by-his-favorite-designers/) in [New York Post](https://nypost.com/) on 31 December 2019 about [1999 (album)](../../topics/album/1999/index.md), [Call & Response](../../topics/call-response/index.md), [Cathy Robinson](../../topics/cathy-robinson/index.md), [Lori Marcuz](../../topics/lori-marcuz/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Toronto](../../topics/toronto/index.md) ([mirror](https://web.archive.org/web/*/https://nypost.com/2019/12/31/prince-fans-can-now-wear-clothes-made-by-his-favorite-designers/))
 
@@ -19,6 +19,14 @@
 ----
 
  - [**"Prince’s Personal Designers Are Releasing A Made-To-Order Line"**](https://www.refinery29.com/en-us/2019/12/9088095/prince-1999-clothing-collection) in [www.refinery29.com](https://www.refinery29.com/) on 28 December 2019 about [Call & Response](../../topics/call-response/index.md), [Cathy Robinson](../../topics/cathy-robinson/index.md), [Lori Marcuz](../../topics/lori-marcuz/index.md), [Toronto](../../topics/toronto/index.md) ([mirror](https://web.archive.org/web/*/https://www.refinery29.com/en-us/2019/12/9088095/prince-1999-clothing-collection))
+
+----
+
+ - [**"Henderson (‘That ain’t Lake Minnetonka’), Minnesota to unveil Prince statue"**](https://blog.thecurrent.org/2019/12/henderson-that-aint-lake-minnetonka-minnesota-to-unveil-prince-statue/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 27 December 2019 about [Allen Beaulieu](../../topics/allen-beaulieu/index.md), [Andrea Swensson](../../topics/andrea-swensson/index.md), [Bob Dylan](../../topics/bob-dylan/index.md), [Celebration](../../topics/celebration/index.md), [Cloud guitar](../../topics/cloud-guitar/index.md), [Lake Minnetonka (place)](../../topics/place/lake-minnetonka/index.md) ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2019/12/henderson-that-aint-lake-minnetonka-minnesota-to-unveil-prince-statue/))
+
+----
+
+ - [**"Official Prince website publishes interactive guide to Minneapolis"**](https://blog.thecurrent.org/2019/12/official-prince-website-publishes-interactive-guide-to-minneapolis/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 26 December 2019 about [André Cymone](../../topics/andr-cymone/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [memoir](../../topics/memoir/index.md), [Moon Sound Studio (place)](../../topics/place/moon-sound-studio/index.md), [Owen Husney](../../topics/owen-husney/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md) ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2019/12/official-prince-website-publishes-interactive-guide-to-minneapolis/))
 
 ----
 

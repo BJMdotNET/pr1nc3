@@ -4,6 +4,10 @@
 
 ----
 
+ - [**"Prince: The Story of 1999 bonus feature: Dr. Fink, 'When Prince sang live, he was just impeccable'"**](https://www.thecurrent.org/feature/2020/01/03/prince-the-story-of-1999-bonus-feature-matt-dr-fink-interview) in [The Current](https://www.thecurrent.org/) on 3 January 2020 about [1999 (album)](../../topics/album/1999/index.md), [Andrea Swensson](../../topics/andrea-swensson/index.md), [Do Yourself a Favor (song)](../../topics/song/do-yourself-a-favor/index.md), [Frank Zappa](../../topics/frank-zappa/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Matt Fink](../../topics/matt-fink/index.md), [Pepe Willie](../../topics/pepe-willie/index.md), [Possessed (song)](../../topics/song/possessed/index.md), [Prince: The Story of 1999](../../topics/prince-the-story-of-1999/index.md), [Purple Music (song)](../../topics/song/purple-music/index.md), [The Revolution](../../topics/the-revolution/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2020/01/03/prince-the-story-of-1999-bonus-feature-matt-dr-fink-interview))
+
+----
+
  - [**"The Best Music Boxed Sets of 2019 -- The Beatles, Prince, Bob Dylan, Nat King Cole, the Replacements and the Band all got commemorated — along with Woodstock, Bakersfield, Motown and East L.A."**](https://variety.com/2019/music/reviews/best-music-boxed-sets-2019-1203451459/) in [Variety](https://variety.com/) on 23 December 2019 about [1999 (album)](../../topics/album/1999/index.md), [Bob Dylan](../../topics/bob-dylan/index.md), [bootleg](../../topics/bootleg/index.md), [David Fricke](../../topics/david-fricke/index.md), [Eric Clapton](../../topics/eric-clapton/index.md), [Mountains (song)](../../topics/song/mountains/index.md), [New Power Generation (song)](../../topics/song/new-power-generation/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [The Revolution](../../topics/the-revolution/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/reviews/best-music-boxed-sets-2019-1203451459/))
 
 ----

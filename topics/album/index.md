@@ -1,7 +1,7 @@
 # album
 
   * [1-800-NEW-FUNK (album)](./album/1-800-new-funk/) (1)
-  * [1999 (album)](./album/1999/) (79)
+  * [1999 (album)](./album/1999/) (83)
   * [1999 Deluxe (album)](./album/1999-deluxe/) (5)
   * [1999 Super Deluxe (album)](./album/1999-super-deluxe/) (9)
   * [1999 SuperDeluxe (album)](./album/1999-superdeluxe/) (1)
@@ -23,7 +23,7 @@
   * [Margie's Little Demo (album)](./album/margie-s-little-demo/) (1)
   * [Originals (album)](./album/originals/) (42)
   * [Pandemonium (album)](./album/pandemonium/) (2)
-  * [Parade (album)](./album/parade/) (10)
+  * [Parade (album)](./album/parade/) (11)
   * [Piano and a Microphone 1983 (album)](./album/piano-and-a-microphone-1983/) (10)
   * [Prince Anthology: 1995-2010 (album)](./album/prince-anthology-1995-2010/) (2)
   * [Purple Rain (album)](./album/purple-rain/) (27)

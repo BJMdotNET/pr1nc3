@@ -1,5 +1,9 @@
 # Cloud guitar
 
+ - [**"Henderson (‘That ain’t Lake Minnetonka’), Minnesota to unveil Prince statue"**](https://blog.thecurrent.org/2019/12/henderson-that-aint-lake-minnetonka-minnesota-to-unveil-prince-statue/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 27 December 2019 about [Allen Beaulieu](../../topics/allen-beaulieu/index.md), [Andrea Swensson](../../topics/andrea-swensson/index.md), [Bob Dylan](../../topics/bob-dylan/index.md), [Celebration](../../topics/celebration/index.md), [Cloud guitar](../../topics/cloud-guitar/index.md), [Lake Minnetonka (place)](../../topics/place/lake-minnetonka/index.md) ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2019/12/henderson-that-aint-lake-minnetonka-minnesota-to-unveil-prince-statue/))
+
+----
+
  - [**"Here’s the Guitar That Prince Revolutionized Music With in ‘Purple Rain’ -- The artist gave the “cloud” guitar to the Smithsonian in 1993, but only now do we know it’s the same instrument used in the iconic movie"**](https://www.smithsonianmag.com/smithsonian-institution/guitar-prince-revolutionized-music-purple-rain-180973083/) in [Smithsonian Magazine](https://www.smithsonianmag.com/) on 19 September 2019 about [Cloud guitar](../../topics/cloud-guitar/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md) ([mirror](https://web.archive.org/web/*/https://www.smithsonianmag.com/smithsonian-institution/guitar-prince-revolutionized-music-purple-rain-180973083/))
 
 ----

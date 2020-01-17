@@ -1,5 +1,9 @@
 # First Avenue (place)
 
+ - [**"Official Prince website publishes interactive guide to Minneapolis"**](https://blog.thecurrent.org/2019/12/official-prince-website-publishes-interactive-guide-to-minneapolis/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 26 December 2019 about [André Cymone](../../../topics/andr-cymone/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [memoir](../../../topics/memoir/index.md), [Moon Sound Studio (place)](../../../topics/place/moon-sound-studio/index.md), [Owen Husney](../../../topics/owen-husney/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [The Prince Estate](../../../topics/the-prince-estate/index.md) ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2019/12/official-prince-website-publishes-interactive-guide-to-minneapolis/))
+
+----
+
  - [**"6 cool things in music include Beyoncé's Elle interview, J.S. Ondara, David Byrne & Nachito Herrera"**](http://www.startribune.com/6-cool-things-in-music-include-beyonce-s-elle-interview-j-s-ondara-david-byrne-amp-nachito-herrera/566170311/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 13 December 2019 about [Dakota (place)](../../../topics/place/dakota/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Jon Bream](../../../topics/jon-bream/index.md), [St. Louis Park (place)](../../../topics/place/st-louis-park/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/6-cool-things-in-music-include-beyonce-s-elle-interview-j-s-ondara-david-byrne-amp-nachito-herrera/566170311/))
 
 ----

@@ -4,6 +4,10 @@
 
 ----
 
+ - [**"Prince: The Story of 1999 bonus feature: Fred Armisen, 'I could talk about Prince endlessly'"**](https://www.thecurrent.org/feature/2020/01/03/prince-the-story-of-1999-bonus-feature-fred-armisen-interview) in [The Current](https://www.thecurrent.org/) on 3 January 2020 about [1999 (album)](../../topics/album/1999/index.md), [Andrea Swensson](../../topics/andrea-swensson/index.md), [Bobby Z.](../../topics/bobby-z/index.md), [Dr. Mambo's Combo](../../topics/dr-mambo-s-combo/index.md), [Fred Armisen](../../topics/fred-armisen/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Michael Bland](../../topics/michael-bland/index.md), [Parade (album)](../../topics/album/parade/index.md), [Prince: The Story of 1999](../../topics/prince-the-story-of-1999/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [SNL (TV show)](../../topics/tv-show/snl/index.md), [Sonny Thompson](../../topics/sonny-thompson/index.md) ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2020/01/03/prince-the-story-of-1999-bonus-feature-fred-armisen-interview))
+
+----
+
  - [**"In a Twin Cities living room, the Steeles cook up their 35th annual Christmas show -- The Steeles' annual Christmas show is a family affair, brewed up in a Golden Valley living room. "**](http://www.startribune.com/in-a-twin-cities-living-room-the-steeles-cook-up-their-35th-annual-christmas-show/566344542/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 December 2019 about [Alexander O’Neal](../../topics/alexander-o-neal/index.md), [contract](../../topics/contract/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [Kenni Holmen](../../topics/kenni-holmen/index.md), [Sonny Thompson](../../topics/sonny-thompson/index.md), [Tommy Barbarella](../../topics/tommy-barbarella/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/in-a-twin-cities-living-room-the-steeles-cook-up-their-35th-annual-christmas-show/566344542/))
 
 ----

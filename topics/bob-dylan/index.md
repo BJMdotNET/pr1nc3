@@ -4,6 +4,10 @@
 
 ----
 
+ - [**"Henderson (‘That ain’t Lake Minnetonka’), Minnesota to unveil Prince statue"**](https://blog.thecurrent.org/2019/12/henderson-that-aint-lake-minnetonka-minnesota-to-unveil-prince-statue/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 27 December 2019 about [Allen Beaulieu](../../topics/allen-beaulieu/index.md), [Andrea Swensson](../../topics/andrea-swensson/index.md), [Bob Dylan](../../topics/bob-dylan/index.md), [Celebration](../../topics/celebration/index.md), [Cloud guitar](../../topics/cloud-guitar/index.md), [Lake Minnetonka (place)](../../topics/place/lake-minnetonka/index.md) ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2019/12/henderson-that-aint-lake-minnetonka-minnesota-to-unveil-prince-statue/))
+
+----
+
  - [**"The Best Music Boxed Sets of 2019 -- The Beatles, Prince, Bob Dylan, Nat King Cole, the Replacements and the Band all got commemorated — along with Woodstock, Bakersfield, Motown and East L.A."**](https://variety.com/2019/music/reviews/best-music-boxed-sets-2019-1203451459/) in [Variety](https://variety.com/) on 23 December 2019 about [1999 (album)](../../topics/album/1999/index.md), [Bob Dylan](../../topics/bob-dylan/index.md), [bootleg](../../topics/bootleg/index.md), [David Fricke](../../topics/david-fricke/index.md), [Eric Clapton](../../topics/eric-clapton/index.md), [Mountains (song)](../../topics/song/mountains/index.md), [New Power Generation (song)](../../topics/song/new-power-generation/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [The Revolution](../../topics/the-revolution/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/reviews/best-music-boxed-sets-2019-1203451459/))
 
 ----

@@ -1,5 +1,9 @@
 # The Family
 
+ - [**"Prince: The Story of 1999 bonus feature: Jellybean Johnson, 'Prince knew we had something special here in Minneapolis'"**](https://www.thecurrent.org/feature/2020/01/02/prince-the-story-of-1999-bonus-feature-jellybean-johnson-the-time-interview) in [The Current](https://www.thecurrent.org/) on 2 January 2020 about [1999 (album)](../../topics/album/1999/index.md), [Andrea Swensson](../../topics/andrea-swensson/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [fDeluxe](../../topics/fdeluxe/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Prince: The Story of 1999](../../topics/prince-the-story-of-1999/index.md), [The Family](../../topics/the-family/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md) ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2020/01/02/prince-the-story-of-1999-bonus-feature-jellybean-johnson-the-time-interview))
+
+----
+
  - [**"4 Generations Of Minnesota’s Peterson Family: A Hall Of Fame Musical Legacy"**](https://minnesota.cbslocal.com/2019/10/27/4-generations-of-minnesotas-peterson-family-a-hall-of-fame-musical-legacy/) in [WCCO - CBS Minnesota](https://minnesota.cbslocal.com/) on 27 October 2019 about [Fleetwood Mac](../../topics/fleetwood-mac/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [The Family](../../topics/the-family/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md) ([mirror](https://web.archive.org/web/*/https://minnesota.cbslocal.com/2019/10/27/4-generations-of-minnesotas-peterson-family-a-hall-of-fame-musical-legacy/))
 
 ----
