@@ -8,7 +8,7 @@
 
 ----
 
- - [**"Prince's death: Sinbad, Sheila E attend memorial service"**](https://usatoday.com/story/life/music/2016/05/15/princes-death-day-25--jehovahs-witness-memorial-guitar-auction/84412432/) in [USA Today](https://usatoday.com/) on 16 May 2016 about [auction](../../topics/auction/index.md), [contract](../../topics/contract/index.md), [Heritage Auctions](../../topics/heritage-auctions/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Meron Bekure](../../topics/meron-bekure/index.md), [Paisley Park Records](../../topics/paisley-park-records/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2016/05/15/princes-death-day-25--jehovahs-witness-memorial-guitar-auction/84412432/))
+ - [**"Prince's death: Sinbad, Sheila E attend memorial service"**](https://usatoday.com/story/life/music/2016/05/15/princes-death-day-25--jehovahs-witness-memorial-guitar-auction/84412432/) in [USA Today](https://usatoday.com/) on 16 May 2016 about [auction](../../topics/auction/index.md), [contract](../../topics/contract/index.md), [Heritage Auctions](../../topics/heritage-auctions/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Meron Bekure](../../topics/meron-bekure/index.md), [Minnesota Vikings](../../topics/minnesota-vikings/index.md), [Paisley Park Records](../../topics/paisley-park-records/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2016/05/15/princes-death-day-25--jehovahs-witness-memorial-guitar-auction/84412432/))
 
 ----
 

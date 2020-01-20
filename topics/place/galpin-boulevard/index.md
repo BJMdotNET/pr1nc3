@@ -1,6 +1,6 @@
 # Galpin Boulevard (place)
 
- - [**"Streets of housing development built on Prince property pay homage to Minnesota icon"**](https://kstp.com/news/streets-of-housing-development-built-on-prince-property-pay-homage-to-minnesota-icon-december-13-2019-/5578475/) in [KSTP](https://kstp.com/) on 13 December 2019 about [Galpin Boulevard (place)](../../../topics/place/galpin-boulevard/index.md) ([mirror](https://web.archive.org/web/*/https://kstp.com/news/streets-of-housing-development-built-on-prince-property-pay-homage-to-minnesota-icon-december-13-2019-/5578475/))
+ - [**"Streets of housing development built on Prince property pay homage to Minnesota icon"**](https://kstp.com/news/streets-of-housing-development-built-on-prince-property-pay-homage-to-minnesota-icon-december-13-2019-/5578475/) in [KSTP](https://kstp.com/) on 13 December 2019 about [Galpin Boulevard (place)](../../../topics/place/galpin-boulevard/index.md), [Minnesota Vikings](../../../topics/minnesota-vikings/index.md) ([mirror](https://web.archive.org/web/*/https://kstp.com/news/streets-of-housing-development-built-on-prince-property-pay-homage-to-minnesota-icon-december-13-2019-/5578475/))
 
 ----
 

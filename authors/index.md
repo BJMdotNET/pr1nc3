@@ -109,6 +109,7 @@
   * [Mark Vancleave](./mark-vancleave/) (1)
   * [Martin Talbot](./martin-talbot/) (1)
   * [Mary Lynn Smith](./mary-lynn-smith/) (2)
+  * [Marylou Badeaux](./marylou-badeaux/) (1)
   * [Matt DeLong](./matt-delong/) (1)
   * [Matt McKinney](./matt-mckinney/) (1)
   * [Maya Rao](./maya-rao/) (1)

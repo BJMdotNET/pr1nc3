@@ -48,6 +48,10 @@
 
 ----
 
+ - [**"Robyne Robinson remembers Prince's Vikings song, playful side"**](https://www.thecurrent.org/feature/2017/11/30/robyne-robinson-remembers-princes-vikings-song-playful-side) in [The Current](https://www.thecurrent.org/) on 30 November 2017 about [airport](../../topics/airport/index.md), [Bob Dylan](../../topics/bob-dylan/index.md), [Dave Chappelle](../../topics/dave-chappelle/index.md), [Mayte](../../topics/mayte/index.md), [Minneapolis-St. Paul International Airport (place)](../../topics/place/minneapolis-st-paul-international-airport/index.md), [Purple and Gold (song)](../../topics/song/purple-and-gold/index.md), [Robyne Robinson](../../topics/robyne-robinson/index.md), [Super Bowl](../../topics/super-bowl/index.md) ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2017/11/30/robyne-robinson-remembers-princes-vikings-song-playful-side))
+
+----
+
  - [**"Prince died of 'fentanyl toxicity,' an overdose of a painkiller"**](https://usatoday.com/story/life/music/2016/06/02/ap-prince-died-opioid-overdose/85029998/) in [USA Today](https://usatoday.com/) on 2 June 2016 about [airport](../../topics/airport/index.md), [Alfred Jackson](../../topics/alfred-jackson/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2016/06/02/ap-prince-died-opioid-overdose/85029998/))
 
 ----

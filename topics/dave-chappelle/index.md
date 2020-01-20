@@ -16,6 +16,10 @@
 
 ----
 
+ - [**"Robyne Robinson remembers Prince's Vikings song, playful side"**](https://www.thecurrent.org/feature/2017/11/30/robyne-robinson-remembers-princes-vikings-song-playful-side) in [The Current](https://www.thecurrent.org/) on 30 November 2017 about [airport](../../topics/airport/index.md), [Bob Dylan](../../topics/bob-dylan/index.md), [Dave Chappelle](../../topics/dave-chappelle/index.md), [Mayte](../../topics/mayte/index.md), [Minneapolis-St. Paul International Airport (place)](../../topics/place/minneapolis-st-paul-international-airport/index.md), [Purple and Gold (song)](../../topics/song/purple-and-gold/index.md), [Robyne Robinson](../../topics/robyne-robinson/index.md), [Super Bowl](../../topics/super-bowl/index.md) ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2017/11/30/robyne-robinson-remembers-princes-vikings-song-playful-side))
+
+----
+
  - [**"George Clinton gets Paisley Park's Prince celebration off to a funky start"**](https://usatoday.com/story/life/music/2017/04/21/george-clinton-gets-paisley-parks-prince-celebration-off-funky-start/100736612/) in [USA Today](https://usatoday.com/) on 21 April 2017 about [Celebration](../../topics/celebration/index.md), [Celebration 2017](../../topics/celebration-2017/index.md), [Dave Chappelle](../../topics/dave-chappelle/index.md), [fentanyl](../../topics/fentanyl/index.md), [George Clinton](../../topics/george-clinton/index.md), [Jungle Love (song)](../../topics/song/jungle-love/index.md), [Morris Hayes](../../topics/morris-hayes/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [The Revolution](../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2017/04/21/george-clinton-gets-paisley-parks-prince-celebration-off-funky-start/100736612/))
 
 ----

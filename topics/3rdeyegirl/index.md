@@ -24,6 +24,10 @@
 
 ----
 
+ - [**"Video: Lizzo's time in Minnesota"**](https://www.thecurrent.org/feature/2019/10/09/video-lizzos-time-in-minnesota) in [The Current](https://www.thecurrent.org/) on 9 October 2019 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Lizzo](../../topics/lizzo/index.md) ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/10/09/video-lizzos-time-in-minnesota))
+
+----
+
  - [**"PREVIEW: Donna Grantis At The Dakota Jazz Club, 9/24"**](https://twincitiesarts.com/2019/09/17/preview-donna-gratis-dakota-jazz-club/) in [twincitiesarts.com](https://twincitiesarts.com/) on 17 September 2019 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Dakota (place)](../../topics/place/dakota/index.md), [Donna Grantis](../../topics/donna-grantis/index.md), [Hannah Welton](../../topics/hannah-welton/index.md), [Miles Davis](../../topics/miles-davis/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Toronto](../../topics/toronto/index.md) ([mirror](https://web.archive.org/web/*/https://twincitiesarts.com/2019/09/17/preview-donna-gratis-dakota-jazz-club/))
 
 ----
