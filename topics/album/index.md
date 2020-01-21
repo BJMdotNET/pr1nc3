@@ -5,7 +5,7 @@
   * [1999 Deluxe (album)](./album/1999-deluxe/) (5)
   * [1999 Super Deluxe (album)](./album/1999-super-deluxe/) (9)
   * [1999 SuperDeluxe (album)](./album/1999-superdeluxe/) (1)
-  * [3121 (album)](./album/3121/) (10)
+  * [3121 (album)](./album/3121/) (11)
   * [Around The World In A Day (album)](./album/around-the-world-in-a-day/) (8)
   * [Batman (album)](./album/batman/) (4)
   * [Chaos and Disorder (album)](./album/chaos-and-disorder/) (6)

@@ -44,6 +44,7 @@
 ----
 
   * [Aimee Blanchette](./aimee-blanchette/) (1)
+  * [Alex Hahn](./alex-hahn/) (1)
   * [Alex Johnson](./alex-johnson/) (1)
   * [Andrea Swensson](./andrea-swensson/) (1)
   * [Andy Healy](./andy-healy/) (3)

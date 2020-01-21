@@ -1,5 +1,9 @@
 # Sony Music Entertainment
 
+ - [**"Michael Stokes says a "Good Samaritan" in the music industry told him others were profiting from his work."**](https://www.billboard.com/articles/business/legal-and-management/8548153/michael-stokes-publishers-lawsuit) in [Billboard](https://www.billboard.com/) on 20 January 2020 about [Michael Stokes](../../topics/michael-stokes/index.md), [Sony Music Entertainment](../../topics/sony-music-entertainment/index.md), [Universal Music Group](../../topics/universal-music-group/index.md) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/business/legal-and-management/8548153/michael-stokes-publishers-lawsuit))
+
+----
+
  - [**"The Prince Estate in Partnership with Legacy Recordings Announces Next Wave of Titles in Definitive Prince Reissue Project Coming Friday, September 13"**](https://www.legacyrecordings.com/2019/08/01/the-prince-estate-in-partnership-with-legacy-recordings-announces-next-wave-of-titles-in-definitive-prince-reissue-project-coming-friday-september-13/) in [Legacy Recordings](https://www.legacyrecordings.com/) on 1 August 2019 about [Emancipation (album)](../../topics/album/emancipation/index.md), [Legacy Recordings](../../topics/legacy-recordings/index.md), [NPG Records](../../topics/npg-records/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Sony Music Entertainment](../../topics/sony-music-entertainment/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [The Versace Experience (Prelude 2 Gold) (album)](../../topics/album/the-versace-experience-prelude-2-gold/index.md) ([mirror](https://web.archive.org/web/*/https://www.legacyrecordings.com/2019/08/01/the-prince-estate-in-partnership-with-legacy-recordings-announces-next-wave-of-titles-in-definitive-prince-reissue-project-coming-friday-september-13/))
 
 ----

@@ -15,6 +15,7 @@
   * [Houston Summit (place)](./place/houston-summit/) (13)
   * [Lake Minnetonka (place)](./place/lake-minnetonka/) (8)
   * [London (place)](./place/london/) (10)
+  * [Los Angeles Convention Center (place)](./place/los-angeles-convention-center/) (3)
   * [Mann’s Chinese Theatre (place)](./place/mann-s-chinese-theatre/) (1)
   * [Minneapolis-St. Paul International Airport (place)](./place/minneapolis-st-paul-international-airport/) (3)
   * [Moline, Illinois (place)](./place/moline-illinois/) (19)

@@ -8,7 +8,7 @@
 
 ----
 
- - [**"Prince in concert: an experience like no other"**](https://spokesman-recorder.com/2018/08/26/prince-in-concert-an-experience-like-no-other/) in [spokesman-recorder.com](https://spokesman-recorder.com/) on 26 August 2018 about [Greg Tate](../../../topics/greg-tate/index.md), [James Brown](../../../topics/james-brown/index.md), [Lovesexy (tour)](../../../topics/tour/lovesexy/index.md), [The Revolution](../../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/https://spokesman-recorder.com/2018/08/26/prince-in-concert-an-experience-like-no-other/))
+ - [**"Prince in concert: an experience like no other"**](https://spokesman-recorder.com/2018/08/26/prince-in-concert-an-experience-like-no-other/) in [Minnesota Spokesman-Recorder](https://spokesman-recorder.com/) on 26 August 2018 about [Greg Tate](../../../topics/greg-tate/index.md), [James Brown](../../../topics/james-brown/index.md), [Lovesexy (tour)](../../../topics/tour/lovesexy/index.md), [The Revolution](../../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/https://spokesman-recorder.com/2018/08/26/prince-in-concert-an-experience-like-no-other/))
 
 ----
 

@@ -292,7 +292,7 @@
 
 ----
 
- - [**"Prince’s new basement tape: Just him singing, playing piano"**](https://apnews.com/e0a9e78a662c40d3adee133110bc8489) by Jeff Baenen (Associated Press) in [Associated Press News](https://apnews.com/) on 18 September 2018 about [17 Days (song)](../../topics/song/17-days/index.md), [Cold Coffee & Cocaine (song)](../../topics/song/cold-coffee-cocaine/index.md), [fentanyl](../../topics/fentanyl/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Michael Howe](../../topics/michael-howe/index.md), [NPG Records](../../topics/npg-records/index.md), [Piano and a Microphone 1983 (album)](../../topics/album/piano-and-a-microphone-1983/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Troy Carter](../../topics/troy-carter/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md), [Why The Butterflies (song)](../../topics/song/why-the-butterflies/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/e0a9e78a662c40d3adee133110bc8489))
+ - [**"Prince’s new basement tape: Just him singing, playing piano"**](https://apnews.com/e0a9e78a662c40d3adee133110bc8489) by Jeff Baenen (Associated Press) in [Associated Press News](https://apnews.com/) on 18 September 2018 about [17 Days (song)](../../topics/song/17-days/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Cold Coffee & Cocaine (song)](../../topics/song/cold-coffee-cocaine/index.md), [fentanyl](../../topics/fentanyl/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Michael Howe](../../topics/michael-howe/index.md), [NPG Records](../../topics/npg-records/index.md), [Piano and a Microphone 1983 (album)](../../topics/album/piano-and-a-microphone-1983/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Troy Carter](../../topics/troy-carter/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md), [Why The Butterflies (song)](../../topics/song/why-the-butterflies/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/e0a9e78a662c40d3adee133110bc8489))
 
 ----
 
@@ -300,7 +300,7 @@
 
 ----
 
- - [**"Prince's New 'Piano & A Microphone 1983' Basement Tape Is as Simple as It Sounds"**](https://www.billboard.com/articles/news/8475824/prince-piano-and-a-microphone-1983-album) in [Billboard](https://www.billboard.com/) on 18 September 2018 about [Joni Mitchell](../../topics/joni-mitchell/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Michael Howe](../../topics/michael-howe/index.md), [Piano and a Microphone 1983 (album)](../../topics/album/piano-and-a-microphone-1983/index.md), [Troy Carter](../../topics/troy-carter/index.md) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8475824/prince-piano-and-a-microphone-1983-album))
+ - [**"Prince's New 'Piano & A Microphone 1983' Basement Tape Is as Simple as It Sounds"**](https://www.billboard.com/articles/news/8475824/prince-piano-and-a-microphone-1983-album) in [Billboard](https://www.billboard.com/) on 18 September 2018 about [Aretha Franklin](../../topics/aretha-franklin/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Michael Howe](../../topics/michael-howe/index.md), [Piano and a Microphone 1983 (album)](../../topics/album/piano-and-a-microphone-1983/index.md), [Troy Carter](../../topics/troy-carter/index.md) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8475824/prince-piano-and-a-microphone-1983-album))
 
 ----
 
@@ -330,11 +330,11 @@
 
 ## August 2018 (9)
 
- - [**"The days the music died: A look at funerals of the greats"**](https://apnews.com/7d546ab5dbec4e5ba4ebd0eddd1064e8) in [Associated Press News](https://apnews.com/) on 29 August 2018 about [Graceland](../../topics/graceland/index.md), [James Brown](../../topics/james-brown/index.md), [Larry Graham](../../topics/larry-graham/index.md), [museum](../../topics/museum/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [trademark](../../topics/trademark/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/7d546ab5dbec4e5ba4ebd0eddd1064e8))
+ - [**"The days the music died: A look at funerals of the greats"**](https://apnews.com/7d546ab5dbec4e5ba4ebd0eddd1064e8) in [Associated Press News](https://apnews.com/) on 29 August 2018 about [Aretha Franklin](../../topics/aretha-franklin/index.md), [Graceland](../../topics/graceland/index.md), [James Brown](../../topics/james-brown/index.md), [Larry Graham](../../topics/larry-graham/index.md), [museum](../../topics/museum/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [trademark](../../topics/trademark/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/7d546ab5dbec4e5ba4ebd0eddd1064e8))
 
 ----
 
- - [**"Prince in concert: an experience like no other"**](https://spokesman-recorder.com/2018/08/26/prince-in-concert-an-experience-like-no-other/) in [spokesman-recorder.com](https://spokesman-recorder.com/) on 26 August 2018 about [Greg Tate](../../topics/greg-tate/index.md), [James Brown](../../topics/james-brown/index.md), [Lovesexy (tour)](../../topics/tour/lovesexy/index.md), [The Revolution](../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/https://spokesman-recorder.com/2018/08/26/prince-in-concert-an-experience-like-no-other/))
+ - [**"Prince in concert: an experience like no other"**](https://spokesman-recorder.com/2018/08/26/prince-in-concert-an-experience-like-no-other/) in [Minnesota Spokesman-Recorder](https://spokesman-recorder.com/) on 26 August 2018 about [Greg Tate](../../topics/greg-tate/index.md), [James Brown](../../topics/james-brown/index.md), [Lovesexy (tour)](../../topics/tour/lovesexy/index.md), [The Revolution](../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/https://spokesman-recorder.com/2018/08/26/prince-in-concert-an-experience-like-no-other/))
 
 ----
 
@@ -362,7 +362,7 @@
 
 ----
 
- - [**"The interview that ‘blessed’ Robyne Robinson’s career"**](https://spokesman-recorder.com/2018/08/03/the-interview-that-blessed-robyne-robinsons-career/) in [spokesman-recorder.com](https://spokesman-recorder.com/) on 3 August 2018 about [Chaka Khan](../../topics/chaka-khan/index.md), [Dakota (place)](../../topics/place/dakota/index.md), [Gwen Stefani](../../topics/gwen-stefani/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Mayte](../../topics/mayte/index.md), [Purple Music (song)](../../topics/song/purple-music/index.md), [Robyne Robinson](../../topics/robyne-robinson/index.md) ([mirror](https://web.archive.org/web/*/https://spokesman-recorder.com/2018/08/03/the-interview-that-blessed-robyne-robinsons-career/))
+ - [**"The interview that ‘blessed’ Robyne Robinson’s career"**](https://spokesman-recorder.com/2018/08/03/the-interview-that-blessed-robyne-robinsons-career/) in [Minnesota Spokesman-Recorder](https://spokesman-recorder.com/) on 3 August 2018 about [Chaka Khan](../../topics/chaka-khan/index.md), [Dakota (place)](../../topics/place/dakota/index.md), [Gwen Stefani](../../topics/gwen-stefani/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Mayte](../../topics/mayte/index.md), [Purple Music (song)](../../topics/song/purple-music/index.md), [Robyne Robinson](../../topics/robyne-robinson/index.md) ([mirror](https://web.archive.org/web/*/https://spokesman-recorder.com/2018/08/03/the-interview-that-blessed-robyne-robinsons-career/))
 
 ----
 
@@ -384,7 +384,7 @@
 
 ----
 
- - [**"Pioneering broadcaster Robyne Robinson reflects on Prince interview"**](https://spokesman-recorder.com/2018/07/26/pioneering-broadcaster-robyne-robinson-reflects-on-prince-interview/) in [spokesman-recorder.com](https://spokesman-recorder.com/) on 26 July 2018 about [Jacqui Thompson](../../topics/jacqui-thompson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Mayte](../../topics/mayte/index.md), [Purple Music (song)](../../topics/song/purple-music/index.md), [Robyne Robinson](../../topics/robyne-robinson/index.md) ([mirror](https://web.archive.org/web/*/https://spokesman-recorder.com/2018/07/26/pioneering-broadcaster-robyne-robinson-reflects-on-prince-interview/))
+ - [**"Pioneering broadcaster Robyne Robinson reflects on Prince interview"**](https://spokesman-recorder.com/2018/07/26/pioneering-broadcaster-robyne-robinson-reflects-on-prince-interview/) in [Minnesota Spokesman-Recorder](https://spokesman-recorder.com/) on 26 July 2018 about [Jacqui Thompson](../../topics/jacqui-thompson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Mayte](../../topics/mayte/index.md), [Purple Music (song)](../../topics/song/purple-music/index.md), [Robyne Robinson](../../topics/robyne-robinson/index.md) ([mirror](https://web.archive.org/web/*/https://spokesman-recorder.com/2018/07/26/pioneering-broadcaster-robyne-robinson-reflects-on-prince-interview/))
 
 ----
 
