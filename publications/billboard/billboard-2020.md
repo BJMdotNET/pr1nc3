@@ -1,8 +1,12 @@
 # 2020
 
-## January 2020 (2)
+## January 2020 (3)
 
  - [**"Michael Stokes says a "Good Samaritan" in the music industry told him others were profiting from his work."**](https://www.billboard.com/articles/business/legal-and-management/8548153/michael-stokes-publishers-lawsuit) in [Billboard](https://www.billboard.com/) on 20 January 2020 about [Michael Stokes](../../topics/michael-stokes/index.md), [Sony Music Entertainment](../../topics/sony-music-entertainment/index.md), [Universal Music Group](../../topics/universal-music-group/index.md) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/business/legal-and-management/8548153/michael-stokes-publishers-lawsuit))
+
+----
+
+ - [**"Prince Wrongful Death Case Dismissed; Estate Case Continues"**](https://www.billboard.com/articles/business/legal-and-management/8548465/prince-wrongful-death-case-dismissed-estate-case) in [Billboard](https://www.billboard.com/) on 20 January 2020 about [Alfred Jackson](../../topics/alfred-jackson/index.md), [fentanyl](../../topics/fentanyl/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [John Nelson](../../topics/john-nelson/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Michael Schulenberg](../../topics/michael-schulenberg/index.md), [oxycodone](../../topics/oxycodone/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Trinity Medical Center (place)](../../topics/place/trinity-medical-center/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Walgreens](../../topics/walgreens/index.md) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/business/legal-and-management/8548465/prince-wrongful-death-case-dismissed-estate-case))
 
 ----
 

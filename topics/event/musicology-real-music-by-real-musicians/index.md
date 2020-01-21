@@ -4,4 +4,8 @@
 
 ----
 
+ - [**"Alcohol will be served as Paisley Park launches new live music series"**](http://www.startribune.com/live-music-series-at-prince-s-paisley-park-to-kick-off-feb-15-with-meshell-ndegeocello/566830752/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 9 January 2020 about [Amazing Grace (movie)](../../../topics/movie/amazing-grace/index.md), [Andre Cymone](../../../topics/andre-cymone/index.md), [Aretha Franklin](../../../topics/aretha-franklin/index.md), [Dave Chappelle](../../../topics/dave-chappelle/index.md), [Dave Chappelle’s Block Party (movie)](../../../topics/movie/dave-chappelle-s-block-party/index.md), [George Clinton](../../../topics/george-clinton/index.md), [Judith Hill](../../../topics/judith-hill/index.md), [Meshell Ndegeocello](../../../topics/meshell-ndegeocello/index.md), [Musicology: Real Music by Real Musicians (event)](../../../topics/event/musicology-real-music-by-real-musicians/index.md), [Paisley Park Cinema: Music on the Big Screen (event)](../../../topics/event/paisley-park-cinema-music-on-the-big-screen/index.md), [Sometimes It Snows In April (song)](../../../topics/song/sometimes-it-snows-in-april/index.md), [Wattstax (movie)](../../../topics/movie/wattstax/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/live-music-series-at-prince-s-paisley-park-to-kick-off-feb-15-with-meshell-ndegeocello/566830752/))
+
+----
+
 [Home](../)

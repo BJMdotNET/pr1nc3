@@ -1,5 +1,13 @@
 # Prince Estate
 
+ - [**"Prince Wrongful Death Case Dismissed; Estate Case Continues"**](https://www.billboard.com/articles/business/legal-and-management/8548465/prince-wrongful-death-case-dismissed-estate-case) in [Billboard](https://www.billboard.com/) on 20 January 2020 about [Alfred Jackson](../../topics/alfred-jackson/index.md), [fentanyl](../../topics/fentanyl/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [John Nelson](../../topics/john-nelson/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Michael Schulenberg](../../topics/michael-schulenberg/index.md), [oxycodone](../../topics/oxycodone/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Trinity Medical Center (place)](../../topics/place/trinity-medical-center/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Walgreens](../../topics/walgreens/index.md) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/business/legal-and-management/8548465/prince-wrongful-death-case-dismissed-estate-case))
+
+----
+
+ - [**"Prince's estate quietly dismisses wrongful-death claims -- Legal settlements likely in wrongful-death suits. "**](http://www.startribune.com/prince-wrongful-death-claims-dismissed/567141982/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 January 2020 about [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Carver County District Court](../../topics/carver-county-district-court/index.md), [Cecilie M. Loidolt](../../topics/cecilie-m-loidolt/index.md), [fentanyl](../../topics/fentanyl/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [John Goetz](../../topics/john-goetz/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Michael Schulenberg](../../topics/michael-schulenberg/index.md), [North Memorial Health Care](../../topics/north-memorial-health-care/index.md), [Paul C. Peterson](../../topics/paul-c-peterson/index.md), [Percocet](../../topics/percocet/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Recovery Without Walls](../../topics/recovery-without-walls/index.md), [Rodger Hagen](../../topics/rodger-hagen/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Trinity Medical Center (place)](../../topics/place/trinity-medical-center/index.md), [Walgreens](../../topics/walgreens/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-wrongful-death-claims-dismissed/567141982/))
+
+----
+
  - [**"Prince’s costume designers release new collection inspired by The Kid himself"**](https://thegrio.com/2020/01/08/princes-costume-designers-release-new-collection-inspired-by-the-kid-himself/) in [thegrio.com](https://thegrio.com/) on 8 January 2020 about [Call & Response](../../topics/call-response/index.md), [Cathy Robinson](../../topics/cathy-robinson/index.md), [Lori Marcuz](../../topics/lori-marcuz/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [YouTube](../../topics/youtube/index.md) ([mirror](https://web.archive.org/web/*/https://thegrio.com/2020/01/08/princes-costume-designers-release-new-collection-inspired-by-the-kid-himself/))
 
 ----
@@ -502,7 +510,7 @@
 
 ----
 
- - [**"911 calls to Prince estate ranged from mundane to serious"**](https://apnews.com/b145542cfe0d4dfd945cabaa0c720696) in [Associated Press News](https://apnews.com/) on 4 May 2016 about [Carver County](../../topics/carver-county/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [Prince Estate](../../topics/prince-estate/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/b145542cfe0d4dfd945cabaa0c720696))
+ - [**"911 calls to Prince estate ranged from mundane to serious"**](https://apnews.com/b145542cfe0d4dfd945cabaa0c720696) in [Associated Press News](https://apnews.com/) on 4 May 2016 about [Carver County](../../topics/carver-county/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [Prince Estate](../../topics/prince-estate/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/b145542cfe0d4dfd945cabaa0c720696))
 
 ----
 

@@ -106,7 +106,7 @@
 
 ## August 2016 (14)
 
- - [**"Pills seized from Paisley Park contained illicit fentanyl, same drug that killed Prince -- Level of fentanyl found in musician's body was so great no one could have survived it."**](http://www.startribune.com/pills-seized-from-paisley-park-contained-illicit-fentanyl-same-drug-that-killed-prince/390816101/) by Stephen Montemayor in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 August 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/pills-seized-from-paisley-park-contained-illicit-fentanyl-same-drug-that-killed-prince/390816101/))
+ - [**"Pills seized from Paisley Park contained illicit fentanyl, same drug that killed Prince -- Level of fentanyl found in musician's body was so great no one could have survived it."**](http://www.startribune.com/pills-seized-from-paisley-park-contained-illicit-fentanyl-same-drug-that-killed-prince/390816101/) by Stephen Montemayor in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 August 2016 about [fentanyl](../../topics/fentanyl/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/pills-seized-from-paisley-park-contained-illicit-fentanyl-same-drug-that-killed-prince/390816101/))
 
 ----
 
@@ -406,7 +406,7 @@
 
 ----
 
- - [**"Man who found Prince's body describes 'chaos and sadness' of death scene -- Andrew Kornfeld says the musician's death underlined the deadly nature of painkiller addiction."**](http://www.startribune.com/man-who-found-prince-s-body-describes-chaos-and-sadness-of-death-scene/381872171/) by Liz Sawyer in [Minneapolis Star Tribune](http://www.startribune.com/) on 4 June 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/man-who-found-prince-s-body-describes-chaos-and-sadness-of-death-scene/381872171/))
+ - [**"Man who found Prince's body describes 'chaos and sadness' of death scene -- Andrew Kornfeld says the musician's death underlined the deadly nature of painkiller addiction."**](http://www.startribune.com/man-who-found-prince-s-body-describes-chaos-and-sadness-of-death-scene/381872171/) by Liz Sawyer in [Minneapolis Star Tribune](http://www.startribune.com/) on 4 June 2016 about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/man-who-found-prince-s-body-describes-chaos-and-sadness-of-death-scene/381872171/))
 
 ----
 
@@ -560,7 +560,7 @@
 
 ----
 
- - [**"Prince's local doctor identified in search warrant -- Dr. Michael Todd Schulenberg, a family practitioner, had seen Prince twice before his body was found April 21, according to the warrant left unsealed."**](http://www.startribune.com/prince-s-md-identified-in-search-warrant/378880371/) by Dan Browning, Jeremy Olson in [Minneapolis Star Tribune](http://www.startribune.com/) on 11 May 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-md-identified-in-search-warrant/378880371/))
+ - [**"Prince's local doctor identified in search warrant -- Dr. Michael Todd Schulenberg, a family practitioner, had seen Prince twice before his body was found April 21, according to the warrant left unsealed."**](http://www.startribune.com/prince-s-md-identified-in-search-warrant/378880371/) by Dan Browning, Jeremy Olson in [Minneapolis Star Tribune](http://www.startribune.com/) on 11 May 2016 about [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-md-identified-in-search-warrant/378880371/))
 
 ----
 
@@ -750,7 +750,7 @@
 
 ----
 
- - [**"Adored by millions, Prince was alone as he died"**](http://www.startribune.com/investigation-underway-into-prince-s-death/376741561/) by John Reinan in [Minneapolis Star Tribune](http://www.startribune.com/) on 23 April 2016 about [airport](../../topics/airport/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Dakota (place)](../../topics/place/dakota/index.md), [Jim Olson](../../topics/jim-olson/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/investigation-underway-into-prince-s-death/376741561/))
+ - [**"Adored by millions, Prince was alone as he died"**](http://www.startribune.com/investigation-underway-into-prince-s-death/376741561/) by John Reinan in [Minneapolis Star Tribune](http://www.startribune.com/) on 23 April 2016 about [airport](../../topics/airport/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Dakota (place)](../../topics/place/dakota/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Jim Olson](../../topics/jim-olson/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/investigation-underway-into-prince-s-death/376741561/))
 
 ----
 

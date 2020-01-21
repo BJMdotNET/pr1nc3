@@ -2,7 +2,7 @@
 
 ## December 2019 (2)
 
- - [**"Lifetime returns to R. Kelly with a new powerful series"**](https://apnews.com/76d4ff162e58196357641dbdbb5cbf07) by Mark Kennedy (Associated Press) in [Associated Press News](https://apnews.com/) on 30 December 2019 about [Beyoncé](../../topics/beyonc/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/76d4ff162e58196357641dbdbb5cbf07))
+ - [**"Lifetime returns to R. Kelly with a new powerful series"**](https://apnews.com/76d4ff162e58196357641dbdbb5cbf07) by Mark Kennedy (Associated Press) in [Associated Press News](https://apnews.com/) on 30 December 2019 about [Beyoncé](../../topics/beyonc/index.md), [Illinois (place)](../../topics/place/illinois/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/76d4ff162e58196357641dbdbb5cbf07))
 
 ----
 
@@ -66,7 +66,11 @@
 
 ----
 
-## May 2019 (1)
+## May 2019 (2)
+
+ - [**"Prince’s bodyguard deposed in wrongful death lawsuit"**](https://apnews.com/8e68cf25ceb245319425b5952c5d1be8) in [Associated Press News](https://apnews.com/) on 30 May 2019 about [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Clayton Tyler](../../topics/clayton-tyler/index.md), [fentanyl](../../topics/fentanyl/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Michael Schulenberg](../../topics/michael-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [North Memorial Health Care](../../topics/north-memorial-health-care/index.md), [oxycodone](../../topics/oxycodone/index.md), [Walgreens](../../topics/walgreens/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/8e68cf25ceb245319425b5952c5d1be8))
+
+----
 
  - [**"Review: Musician Ani DiFranco’s memoir is raw and powerful"**](https://apnews.com/7d5cc5a8936a4338a0ea150a080523c7) in [Associated Press News](https://apnews.com/) on 7 May 2019 about [Ani DiFranco](../../topics/ani-difranco/index.md), [Grammy Award](../../topics/grammy-award/index.md), [memoir](../../topics/memoir/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/7d5cc5a8936a4338a0ea150a080523c7))
 

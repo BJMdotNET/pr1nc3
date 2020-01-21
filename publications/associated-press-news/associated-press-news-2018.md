@@ -124,7 +124,11 @@
 
 ----
 
-## April 2018 (12)
+## April 2018 (13)
+
+ - [**"Prince heirs sue Illinois hospital over care during overdose"**](https://apnews.com/83447f08715c4c7e92cd9427168b418d) in [Associated Press News](https://apnews.com/) on 24 April 2018 about [Atlanta (place)](../../topics/place/atlanta/index.md), [fentanyl](../../topics/fentanyl/index.md), [George Loucas](../../topics/george-loucas/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [John Goetz](../../topics/john-goetz/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [oxycodone](../../topics/oxycodone/index.md), [Trinity Medical Center (place)](../../topics/place/trinity-medical-center/index.md), [Vicodin](../../topics/vicodin/index.md), [Walgreens](../../topics/walgreens/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/83447f08715c4c7e92cd9427168b418d))
+
+----
 
  - [**"Unfinished requiem: Enigmatic in life, Prince leaves mystery in death"**](https://apnews.com/48227e49f5384fe7b343b7ccdeb00e6f) in [Associated Press News](https://apnews.com/) on 22 April 2018 about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Larry Graham](../../topics/larry-graham/index.md), [museum](../../topics/museum/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Owen Husney](../../topics/owen-husney/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/48227e49f5384fe7b343b7ccdeb00e6f))
 
@@ -138,7 +142,7 @@
 
 ----
 
- - [**"Investigation says Prince was isolated, addicted and in pain"**](https://apnews.com/94806d16569541d98032ce2b2f82aa6a) by Amy Forliti (Associated Press) in [Associated Press News](https://apnews.com/) on 21 April 2018 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [Hannah Welton](../../topics/hannah-welton/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Joshua Welton](../../topics/joshua-welton/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Mark Metz](../../topics/mark-metz/index.md), [Meron Bekure](../../topics/meron-bekure/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [oxycodone](../../topics/oxycodone/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Vicodin](../../topics/vicodin/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/94806d16569541d98032ce2b2f82aa6a))
+ - [**"Investigation says Prince was isolated, addicted and in pain"**](https://apnews.com/94806d16569541d98032ce2b2f82aa6a) by Amy Forliti (Associated Press) in [Associated Press News](https://apnews.com/) on 21 April 2018 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [Hannah Welton](../../topics/hannah-welton/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Joshua Welton](../../topics/joshua-welton/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Mark Metz](../../topics/mark-metz/index.md), [Meron Bekure](../../topics/meron-bekure/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [oxycodone](../../topics/oxycodone/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Vicodin](../../topics/vicodin/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/94806d16569541d98032ce2b2f82aa6a))
 
 ----
 
@@ -146,7 +150,7 @@
 
 ----
 
- - [**"Files show rising alarm in Prince’s circle as health failed"**](https://apnews.com/01ab0aaba1ab4e719af50e79319afdfb) by Amy Forliti (Associated Press) in [Associated Press News](https://apnews.com/) on 20 April 2018 about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Mark Metz](../../topics/mark-metz/index.md), [Meron Bekure](../../topics/meron-bekure/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [oxycodone](../../topics/oxycodone/index.md), [toxicology report](../../topics/toxicology-report/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/01ab0aaba1ab4e719af50e79319afdfb))
+ - [**"Files show rising alarm in Prince’s circle as health failed"**](https://apnews.com/01ab0aaba1ab4e719af50e79319afdfb) by Amy Forliti (Associated Press) in [Associated Press News](https://apnews.com/) on 20 April 2018 about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Mark Metz](../../topics/mark-metz/index.md), [Meron Bekure](../../topics/meron-bekure/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [oxycodone](../../topics/oxycodone/index.md), [toxicology report](../../topics/toxicology-report/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/01ab0aaba1ab4e719af50e79319afdfb))
 
 ----
 
@@ -158,11 +162,11 @@
 
 ----
 
- - [**"Prince’s death: Key players in investigation and aftermath"**](https://apnews.com/221f45fbd6e4440d944b38c34cffed15) in [Associated Press News](https://apnews.com/) on 19 April 2018 about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [Greg Brooker](../../topics/greg-brooker/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Jim Olson](../../topics/jim-olson/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Mark Metz](../../topics/mark-metz/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [oxycodone](../../topics/oxycodone/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/221f45fbd6e4440d944b38c34cffed15))
+ - [**"Prince’s death: Key players in investigation and aftermath"**](https://apnews.com/221f45fbd6e4440d944b38c34cffed15) in [Associated Press News](https://apnews.com/) on 19 April 2018 about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [Greg Brooker](../../topics/greg-brooker/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Jim Olson](../../topics/jim-olson/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Mark Metz](../../topics/mark-metz/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [oxycodone](../../topics/oxycodone/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/221f45fbd6e4440d944b38c34cffed15))
 
 ----
 
- - [**"Minnesota prosecutors plan announcement on Prince death"**](https://apnews.com/abc25c93e0d14b1bab5b300fc6ef8735) in [Associated Press News](https://apnews.com/) on 18 April 2018 about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Mark Metz](../../topics/mark-metz/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [oxycodone](../../topics/oxycodone/index.md), [toxicology report](../../topics/toxicology-report/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/abc25c93e0d14b1bab5b300fc6ef8735))
+ - [**"Minnesota prosecutors plan announcement on Prince death"**](https://apnews.com/abc25c93e0d14b1bab5b300fc6ef8735) in [Associated Press News](https://apnews.com/) on 18 April 2018 about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Mark Metz](../../topics/mark-metz/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [oxycodone](../../topics/oxycodone/index.md), [toxicology report](../../topics/toxicology-report/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/abc25c93e0d14b1bab5b300fc6ef8735))
 
 ----
 
@@ -176,7 +180,7 @@
 
 ## March 2018 (11)
 
- - [**"Prince family lawyers to view data for potential lawsuit"**](https://apnews.com/72fbe461381a43a096ebd1c15fae80bf) in [Associated Press News](https://apnews.com/) on 28 March 2018 about [Carver County](../../topics/carver-county/index.md), [Mark Metz](../../topics/mark-metz/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/72fbe461381a43a096ebd1c15fae80bf))
+ - [**"Prince family lawyers to view data for potential lawsuit"**](https://apnews.com/72fbe461381a43a096ebd1c15fae80bf) in [Associated Press News](https://apnews.com/) on 28 March 2018 about [Carver County](../../topics/carver-county/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Mark Metz](../../topics/mark-metz/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/72fbe461381a43a096ebd1c15fae80bf))
 
 ----
 
@@ -192,11 +196,11 @@
 
 ----
 
- - [**"The Latest: Fentanyl in Prince’s body was exceedingly high"**](https://apnews.com/72d21087451948ed872cce0815f0e426) in [Associated Press News](https://apnews.com/) on 26 March 2018 about [Celebration 2018](../../topics/celebration-2018/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [fentanyl](../../topics/fentanyl/index.md), [Matt Fink](../../topics/matt-fink/index.md), [The Revolution](../../topics/the-revolution/index.md), [toxicology report](../../topics/toxicology-report/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/72d21087451948ed872cce0815f0e426))
+ - [**"The Latest: Fentanyl in Prince’s body was exceedingly high"**](https://apnews.com/72d21087451948ed872cce0815f0e426) in [Associated Press News](https://apnews.com/) on 26 March 2018 about [Celebration 2018](../../topics/celebration-2018/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [fentanyl](../../topics/fentanyl/index.md), [Matt Fink](../../topics/matt-fink/index.md), [The Revolution](../../topics/the-revolution/index.md), [toxicology report](../../topics/toxicology-report/index.md), [tribute fence](../../topics/tribute-fence/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/72d21087451948ed872cce0815f0e426))
 
 ----
 
- - [**"Officials to turn over Prince investigative files to family"**](https://apnews.com/d839a494ad2a4dc0908321c824244b0d) in [Associated Press News](https://apnews.com/) on 22 March 2018 about [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [Mark Metz](../../topics/mark-metz/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/d839a494ad2a4dc0908321c824244b0d))
+ - [**"Officials to turn over Prince investigative files to family"**](https://apnews.com/d839a494ad2a4dc0908321c824244b0d) in [Associated Press News](https://apnews.com/) on 22 March 2018 about [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [John Goetz](../../topics/john-goetz/index.md), [Mark Metz](../../topics/mark-metz/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/d839a494ad2a4dc0908321c824244b0d))
 
 ----
 

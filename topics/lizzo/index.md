@@ -1,5 +1,9 @@
 # Lizzo
 
+ - [**"Black Pumas talk busking, Grammys and Prince ahead of the Current birthday bash -- The soul-rock duo is up for a best new artist Grammy but hardly inexperienced (see: Prince). "**](http://www.startribune.com/black-pumas-talk-busking-grammys-and-prince-ahead-of-the-current-birthday-bash/567044352/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 17 January 2020 about [3121 (album)](../../topics/album/3121/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Lizzo](../../topics/lizzo/index.md), [PBS](../../topics/pbs/index.md), [YouTube](../../topics/youtube/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/black-pumas-talk-busking-grammys-and-prince-ahead-of-the-current-birthday-bash/567044352/))
+
+----
+
  - [**"Ten years ago today, Prince recorded his Minnesota Vikings anthem ‘Purple and Gold’"**](https://blog.thecurrent.org/2020/01/ten-years-ago-today-prince-recorded-his-minnesota-vikings-anthem-purple-and-gold/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 17 January 2020 about [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Lizzo](../../topics/lizzo/index.md), [Minnesota Vikings](../../topics/minnesota-vikings/index.md), [Purple and Gold (song)](../../topics/song/purple-and-gold/index.md), [Robyne Robinson](../../topics/robyne-robinson/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Super Bowl](../../topics/super-bowl/index.md) ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2020/01/ten-years-ago-today-prince-recorded-his-minnesota-vikings-anthem-purple-and-gold/))
 
 ----

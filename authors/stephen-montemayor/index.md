@@ -16,7 +16,7 @@
 
 ----
 
- - [**"Pills seized from Paisley Park contained illicit fentanyl, same drug that killed Prince -- Level of fentanyl found in musician's body was so great no one could have survived it."**](http://www.startribune.com/pills-seized-from-paisley-park-contained-illicit-fentanyl-same-drug-that-killed-prince/390816101/) by Stephen Montemayor in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 August 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/pills-seized-from-paisley-park-contained-illicit-fentanyl-same-drug-that-killed-prince/390816101/))
+ - [**"Pills seized from Paisley Park contained illicit fentanyl, same drug that killed Prince -- Level of fentanyl found in musician's body was so great no one could have survived it."**](http://www.startribune.com/pills-seized-from-paisley-park-contained-illicit-fentanyl-same-drug-that-killed-prince/390816101/) by Stephen Montemayor in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 August 2016 about [fentanyl](../../topics/fentanyl/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/pills-seized-from-paisley-park-contained-illicit-fentanyl-same-drug-that-killed-prince/390816101/))
 
 ----
 

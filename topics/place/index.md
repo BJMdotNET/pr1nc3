@@ -1,6 +1,6 @@
 # place
 
-  * [Atlanta (place)](./place/atlanta/) (26)
+  * [Atlanta (place)](./place/atlanta/) (30)
   * [Bel Air (place)](./place/bel-air/) (1)
   * [Bunkers (place)](./place/bunkers/) (1)
   * [Capri Theater  (place)](./place/capri-theater/) (6)
@@ -8,17 +8,18 @@
   * [Country Inn & Suites (place)](./place/country-inn-suites/) (3)
   * [Dakota (place)](./place/dakota/) (11)
   * [Electric Fetus (place)](./place/electric-fetus/) (4)
-  * [First Avenue (place)](./place/first-avenue/) (78)
+  * [First Avenue (place)](./place/first-avenue/) (80)
   * [Galpin Blvd. (place)](./place/galpin-blvd/) (1)
   * [Galpin Boulevard (place)](./place/galpin-boulevard/) (4)
   * [Glam Slam (place)](./place/glam-slam/) (3)
   * [Houston Summit (place)](./place/houston-summit/) (13)
+  * [Illinois (place)](./place/illinois/) (45)
   * [Lake Minnetonka (place)](./place/lake-minnetonka/) (8)
   * [London (place)](./place/london/) (10)
-  * [Los Angeles Convention Center (place)](./place/los-angeles-convention-center/) (3)
+  * [Los Angeles Convention Center (place)](./place/los-angeles-convention-center/) (6)
   * [Mann’s Chinese Theatre (place)](./place/mann-s-chinese-theatre/) (1)
   * [Minneapolis-St. Paul International Airport (place)](./place/minneapolis-st-paul-international-airport/) (3)
-  * [Moline, Illinois (place)](./place/moline-illinois/) (19)
+  * [Moline, Illinois (place)](./place/moline-illinois/) (21)
   * [Moon Sound Studio (place)](./place/moon-sound-studio/) (3)
   * [North Memorial Medical Center (place)](./place/north-memorial-medical-center/) (4)
   * [Paisley Park Studios (place)](./place/paisley-park-studios/) (6)
@@ -28,9 +29,10 @@
   * [Smithsonian (place)](./place/smithsonian/) (6)
   * [St. Louis Park (place)](./place/st-louis-park/) (8)
   * [Sunset Sound (place)](./place/sunset-sound/) (29)
+  * [Trinity Medical Center (place)](./place/trinity-medical-center/) (10)
   * [Uncle Sam’s (place)](./place/uncle-sam-s/) (2)
   * [White House (place)](./place/white-house/) (7)
-  * [Xcel Energy Center (place)](./place/xcel-energy-center/) (13)
+  * [Xcel Energy Center (place)](./place/xcel-energy-center/) (14)
 
 ----
 

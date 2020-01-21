@@ -2,7 +2,7 @@
 
 ## December 2019 (8)
 
- - [**"Lifetime returns to R. Kelly with a new powerful series"**](http://www.startribune.com/lifetime-returns-to-r-kelly-with-a-new-powerful-series/566568672/) by Mark Kennedy (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 30 December 2019 about [Beyoncé](../../topics/beyonc/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/lifetime-returns-to-r-kelly-with-a-new-powerful-series/566568672/))
+ - [**"Lifetime returns to R. Kelly with a new powerful series"**](http://www.startribune.com/lifetime-returns-to-r-kelly-with-a-new-powerful-series/566568672/) by Mark Kennedy (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 30 December 2019 about [Beyoncé](../../topics/beyonc/index.md), [Illinois (place)](../../topics/place/illinois/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/lifetime-returns-to-r-kelly-with-a-new-powerful-series/566568672/))
 
 ----
 

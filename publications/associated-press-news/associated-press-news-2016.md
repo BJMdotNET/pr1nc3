@@ -94,7 +94,7 @@
 
 ----
 
- - [**"Could drug checking have prevented Prince’s overdose death?"**](https://apnews.com/df36569d11294d918572d3edf5428cbe) in [Associated Press News](https://apnews.com/) on 4 October 2016 about [fentanyl](../../topics/fentanyl/index.md), [oxycodone](../../topics/oxycodone/index.md), [Vicodin](../../topics/vicodin/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/df36569d11294d918572d3edf5428cbe))
+ - [**"Could drug checking have prevented Prince’s overdose death?"**](https://apnews.com/df36569d11294d918572d3edf5428cbe) in [Associated Press News](https://apnews.com/) on 4 October 2016 about [fentanyl](../../topics/fentanyl/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [oxycodone](../../topics/oxycodone/index.md), [Vicodin](../../topics/vicodin/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/df36569d11294d918572d3edf5428cbe))
 
 ----
 
@@ -146,11 +146,11 @@
 
 ----
 
- - [**"Correction: Prince Death story"**](https://apnews.com/6ea0a330a6fa442990b24ec0c5153b27) in [Associated Press News](https://apnews.com/) on 22 August 2016 about [Amy Conners](../../topics/amy-conners/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [fentanyl](../../topics/fentanyl/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [oxycodone](../../topics/oxycodone/index.md), [U-47700](../../topics/u-47700/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/6ea0a330a6fa442990b24ec0c5153b27))
+ - [**"Correction: Prince Death story"**](https://apnews.com/6ea0a330a6fa442990b24ec0c5153b27) in [Associated Press News](https://apnews.com/) on 22 August 2016 about [Amy Conners](../../topics/amy-conners/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [fentanyl](../../topics/fentanyl/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [oxycodone](../../topics/oxycodone/index.md), [U-47700](../../topics/u-47700/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/6ea0a330a6fa442990b24ec0c5153b27))
 
 ----
 
- - [**"Official: Pills found at Prince’s estate contained fentanyl"**](https://apnews.com/f2cb614f0e79404692d5582509874869) in [Associated Press News](https://apnews.com/) on 22 August 2016 about [Atlanta (place)](../../topics/place/atlanta/index.md), [fentanyl](../../topics/fentanyl/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [oxycodone](../../topics/oxycodone/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/f2cb614f0e79404692d5582509874869))
+ - [**"Official: Pills found at Prince’s estate contained fentanyl"**](https://apnews.com/f2cb614f0e79404692d5582509874869) in [Associated Press News](https://apnews.com/) on 22 August 2016 about [Atlanta (place)](../../topics/place/atlanta/index.md), [fentanyl](../../topics/fentanyl/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [oxycodone](../../topics/oxycodone/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/f2cb614f0e79404692d5582509874869))
 
 ----
 
@@ -200,7 +200,7 @@
 
 ----
 
-## June 2016 (13)
+## June 2016 (14)
 
  - [**"Prince estate lawyers get deadline to weigh in on DNA tests"**](https://apnews.com/3000566d908b457fb4329be42fdf45d7) in [Associated Press News](https://apnews.com/) on 28 June 2016 about [Carver County](../../topics/carver-county/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Prince Estate](../../topics/prince-estate/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/3000566d908b457fb4329be42fdf45d7))
 
@@ -242,6 +242,10 @@
 
 ----
 
+ - [**"News Guide: Prince died of overdose, but questions linger"**](https://apnews.com/e31c398f2bc142d2ae9a05023cebbe7d) in [Associated Press News](https://apnews.com/) on 4 June 2016 about [Amy Conners](../../topics/amy-conners/index.md), [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/e31c398f2bc142d2ae9a05023cebbe7d))
+
+----
+
  - [**"PETA offers pro-vegan Prince song as free download"**](https://apnews.com/98096304481044cb87de3d4eb7372c16) in [Associated Press News](https://apnews.com/) on 3 June 2016 about [fentanyl](../../topics/fentanyl/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/98096304481044cb87de3d4eb7372c16))
 
 ----
@@ -276,11 +280,11 @@
 
 ----
 
- - [**"Warrant: Minnesota doctor saw Prince, prescribed drugs"**](https://apnews.com/21140409ac784faf88f88ce5c400bbe3) in [Associated Press News](https://apnews.com/) on 11 May 2016 about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [North Memorial Medical Center (place)](../../topics/place/north-memorial-medical-center/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/21140409ac784faf88f88ce5c400bbe3))
+ - [**"Warrant: Minnesota doctor saw Prince, prescribed drugs"**](https://apnews.com/21140409ac784faf88f88ce5c400bbe3) in [Associated Press News](https://apnews.com/) on 11 May 2016 about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [North Memorial Medical Center (place)](../../topics/place/north-memorial-medical-center/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/21140409ac784faf88f88ce5c400bbe3))
 
 ----
 
- - [**"Warrant: Minnesota doctor saw Prince, prescribed drugs"**](https://apnews.com/53b7f73993c649aebb7165d234092956) in [Associated Press News](https://apnews.com/) on 11 May 2016 about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [North Memorial Medical Center (place)](../../topics/place/north-memorial-medical-center/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/53b7f73993c649aebb7165d234092956))
+ - [**"Warrant: Minnesota doctor saw Prince, prescribed drugs"**](https://apnews.com/53b7f73993c649aebb7165d234092956) in [Associated Press News](https://apnews.com/) on 11 May 2016 about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [North Memorial Medical Center (place)](../../topics/place/north-memorial-medical-center/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/53b7f73993c649aebb7165d234092956))
 
 ----
 
@@ -288,7 +292,7 @@
 
 ----
 
- - [**"Behind closed doors, lawyers dig into Prince’s estate"**](https://apnews.com/f1bf636ed8b346e78abbea69ead9bda0) in [Associated Press News](https://apnews.com/) on 8 May 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/f1bf636ed8b346e78abbea69ead9bda0))
+ - [**"Behind closed doors, lawyers dig into Prince’s estate"**](https://apnews.com/f1bf636ed8b346e78abbea69ead9bda0) in [Associated Press News](https://apnews.com/) on 8 May 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/f1bf636ed8b346e78abbea69ead9bda0))
 
 ----
 
@@ -300,7 +304,7 @@
 
 ----
 
- - [**"911 calls to Prince estate ranged from mundane to serious"**](https://apnews.com/b145542cfe0d4dfd945cabaa0c720696) in [Associated Press News](https://apnews.com/) on 4 May 2016 about [Carver County](../../topics/carver-county/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [Prince Estate](../../topics/prince-estate/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/b145542cfe0d4dfd945cabaa0c720696))
+ - [**"911 calls to Prince estate ranged from mundane to serious"**](https://apnews.com/b145542cfe0d4dfd945cabaa0c720696) in [Associated Press News](https://apnews.com/) on 4 May 2016 about [Carver County](../../topics/carver-county/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [Prince Estate](../../topics/prince-estate/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/b145542cfe0d4dfd945cabaa0c720696))
 
 ----
 
@@ -330,7 +334,7 @@
 
 ----
 
- - [**"APNewsBreak: Investigators look at overdose in Prince death"**](https://apnews.com/744a34089a8241df95a836b358741ace) in [Associated Press News](https://apnews.com/) on 29 April 2016 about [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Sheila E.](../../topics/sheila-e/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/744a34089a8241df95a836b358741ace))
+ - [**"APNewsBreak: Investigators look at overdose in Prince death"**](https://apnews.com/744a34089a8241df95a836b358741ace) in [Associated Press News](https://apnews.com/) on 29 April 2016 about [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Sheila E.](../../topics/sheila-e/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/744a34089a8241df95a836b358741ace))
 
 ----
 
@@ -338,11 +342,11 @@
 
 ----
 
- - [**"Prince death investigation focuses on flight, drugs, doctor"**](https://apnews.com/175b0bd7f6f641b1b9b90b268bb3375e) in [Associated Press News](https://apnews.com/) on 29 April 2016 about [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [Sheila E.](../../topics/sheila-e/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/175b0bd7f6f641b1b9b90b268bb3375e))
+ - [**"Prince death investigation focuses on flight, drugs, doctor"**](https://apnews.com/175b0bd7f6f641b1b9b90b268bb3375e) in [Associated Press News](https://apnews.com/) on 29 April 2016 about [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [Sheila E.](../../topics/sheila-e/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/175b0bd7f6f641b1b9b90b268bb3375e))
 
 ----
 
- - [**"The Latest: Investigators consider overdose in Prince death"**](https://apnews.com/0e807ab72bc349cf9d3c7e938ba80fbf) in [Associated Press News](https://apnews.com/) on 29 April 2016 about [Carver County](../../topics/carver-county/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/0e807ab72bc349cf9d3c7e938ba80fbf))
+ - [**"The Latest: Investigators consider overdose in Prince death"**](https://apnews.com/0e807ab72bc349cf9d3c7e938ba80fbf) in [Associated Press News](https://apnews.com/) on 29 April 2016 about [Carver County](../../topics/carver-county/index.md), [Illinois (place)](../../topics/place/illinois/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/0e807ab72bc349cf9d3c7e938ba80fbf))
 
 ----
 
@@ -358,7 +362,7 @@
 
 ----
 
- - [**"Prince’s lawyer: Death a shock; singer led clean lifestyle"**](https://apnews.com/18fe9c0f0a124d55a91156e8c1865ab6) by Nekesa Mumbi Moody (Associated Press) in [Associated Press News](https://apnews.com/) on 26 April 2016 about [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/18fe9c0f0a124d55a91156e8c1865ab6))
+ - [**"Prince’s lawyer: Death a shock; singer led clean lifestyle"**](https://apnews.com/18fe9c0f0a124d55a91156e8c1865ab6) by Nekesa Mumbi Moody (Associated Press) in [Associated Press News](https://apnews.com/) on 26 April 2016 about [Illinois (place)](../../topics/place/illinois/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/18fe9c0f0a124d55a91156e8c1865ab6))
 
 ----
 
@@ -390,7 +394,7 @@
 
 ----
 
- - [**"The Latest: Prince to be honored in New Orleans jazz funeral"**](https://apnews.com/2bff71641de848cdb8d414528b9686a5) in [Associated Press News](https://apnews.com/) on 23 April 2016 about [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [Sheila E.](../../topics/sheila-e/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/2bff71641de848cdb8d414528b9686a5))
+ - [**"The Latest: Prince to be honored in New Orleans jazz funeral"**](https://apnews.com/2bff71641de848cdb8d414528b9686a5) in [Associated Press News](https://apnews.com/) on 23 April 2016 about [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [Sheila E.](../../topics/sheila-e/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/2bff71641de848cdb8d414528b9686a5))
 
 ----
 

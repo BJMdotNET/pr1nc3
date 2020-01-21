@@ -1,5 +1,9 @@
 # 3121 (album)
 
+ - [**"Black Pumas talk busking, Grammys and Prince ahead of the Current birthday bash -- The soul-rock duo is up for a best new artist Grammy but hardly inexperienced (see: Prince). "**](http://www.startribune.com/black-pumas-talk-busking-grammys-and-prince-ahead-of-the-current-birthday-bash/567044352/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 17 January 2020 about [3121 (album)](../../../topics/album/3121/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Lizzo](../../../topics/lizzo/index.md), [PBS](../../../topics/pbs/index.md), [YouTube](../../../topics/youtube/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/black-pumas-talk-busking-grammys-and-prince-ahead-of-the-current-birthday-bash/567044352/))
+
+----
+
  - [**"Prince Engineer Ordered to Pay Estate $4 Million Over Unauthorized Release"**](https://variety.com/2019/biz/news/prince-engineer-pay-estate-4-million-unauthorized-release-1203184099/) in [Variety](https://variety.com/) on 9 April 2019 about [3121 (album)](../../../topics/album/3121/index.md), [contract](../../../topics/contract/index.md), [David Staley](../../../topics/david-staley/index.md), [Deliverance (EP)](../../../topics/ep/deliverance/index.md), [Deliverance (song)](../../../topics/song/deliverance/index.md), [Gabriel Solomon Wilson](../../../topics/gabriel-solomon-wilson/index.md), [George Ian Boxill](../../../topics/george-ian-boxill/index.md), [Paisley Park Enterprises](../../../topics/paisley-park-enterprises/index.md), [Rogue Music Alliance, LLC](../../../topics/rogue-music-alliance-llc/index.md), [trademark](../../../topics/trademark/index.md), [Troy Carter](../../../topics/troy-carter/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2019/biz/news/prince-engineer-pay-estate-4-million-unauthorized-release-1203184099/))
 
 ----

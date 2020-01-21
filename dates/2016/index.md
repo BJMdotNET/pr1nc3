@@ -194,7 +194,7 @@
 
 ----
 
- - [**"Could drug checking have prevented Prince’s overdose death?"**](https://apnews.com/df36569d11294d918572d3edf5428cbe) in [Associated Press News](https://apnews.com/) on 4 October 2016 about [fentanyl](../../topics/fentanyl/index.md), [oxycodone](../../topics/oxycodone/index.md), [Vicodin](../../topics/vicodin/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/df36569d11294d918572d3edf5428cbe))
+ - [**"Could drug checking have prevented Prince’s overdose death?"**](https://apnews.com/df36569d11294d918572d3edf5428cbe) in [Associated Press News](https://apnews.com/) on 4 October 2016 about [fentanyl](../../topics/fentanyl/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [oxycodone](../../topics/oxycodone/index.md), [Vicodin](../../topics/vicodin/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/df36569d11294d918572d3edf5428cbe))
 
 ----
 
@@ -318,15 +318,15 @@
 
 ----
 
- - [**"Correction: Prince Death story"**](https://apnews.com/6ea0a330a6fa442990b24ec0c5153b27) in [Associated Press News](https://apnews.com/) on 22 August 2016 about [Amy Conners](../../topics/amy-conners/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [fentanyl](../../topics/fentanyl/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [oxycodone](../../topics/oxycodone/index.md), [U-47700](../../topics/u-47700/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/6ea0a330a6fa442990b24ec0c5153b27))
+ - [**"Correction: Prince Death story"**](https://apnews.com/6ea0a330a6fa442990b24ec0c5153b27) in [Associated Press News](https://apnews.com/) on 22 August 2016 about [Amy Conners](../../topics/amy-conners/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [fentanyl](../../topics/fentanyl/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [oxycodone](../../topics/oxycodone/index.md), [U-47700](../../topics/u-47700/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/6ea0a330a6fa442990b24ec0c5153b27))
 
 ----
 
- - [**"Official: Pills found at Prince’s estate contained fentanyl"**](https://apnews.com/f2cb614f0e79404692d5582509874869) in [Associated Press News](https://apnews.com/) on 22 August 2016 about [Atlanta (place)](../../topics/place/atlanta/index.md), [fentanyl](../../topics/fentanyl/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [oxycodone](../../topics/oxycodone/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/f2cb614f0e79404692d5582509874869))
+ - [**"Official: Pills found at Prince’s estate contained fentanyl"**](https://apnews.com/f2cb614f0e79404692d5582509874869) in [Associated Press News](https://apnews.com/) on 22 August 2016 about [Atlanta (place)](../../topics/place/atlanta/index.md), [fentanyl](../../topics/fentanyl/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [oxycodone](../../topics/oxycodone/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/f2cb614f0e79404692d5582509874869))
 
 ----
 
- - [**"Pills seized from Paisley Park contained illicit fentanyl, same drug that killed Prince -- Level of fentanyl found in musician's body was so great no one could have survived it."**](http://www.startribune.com/pills-seized-from-paisley-park-contained-illicit-fentanyl-same-drug-that-killed-prince/390816101/) by Stephen Montemayor in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 August 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/pills-seized-from-paisley-park-contained-illicit-fentanyl-same-drug-that-killed-prince/390816101/))
+ - [**"Pills seized from Paisley Park contained illicit fentanyl, same drug that killed Prince -- Level of fentanyl found in musician's body was so great no one could have survived it."**](http://www.startribune.com/pills-seized-from-paisley-park-contained-illicit-fentanyl-same-drug-that-killed-prince/390816101/) by Stephen Montemayor in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 August 2016 about [fentanyl](../../topics/fentanyl/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/pills-seized-from-paisley-park-contained-illicit-fentanyl-same-drug-that-killed-prince/390816101/))
 
 ----
 
@@ -528,7 +528,7 @@
 
 ----
 
- - [**"Prince died of accidental overdose of opioid fentanyl, medical examiner says"**](https://edition.cnn.com/2016/06/02/health/prince-death-opioid-overdose/) in [CNN International](https://edition.cnn.com/) on 3 July 2016 about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [fentanyl](../../topics/fentanyl/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [Percocet](../../topics/percocet/index.md), [toxicology report](../../topics/toxicology-report/index.md) ([mirror](https://web.archive.org/web/*/https://edition.cnn.com/2016/06/02/health/prince-death-opioid-overdose/))
+ - [**"Prince died of accidental overdose of opioid fentanyl, medical examiner says"**](https://edition.cnn.com/2016/06/02/health/prince-death-opioid-overdose/) in [CNN International](https://edition.cnn.com/) on 3 July 2016 about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [fentanyl](../../topics/fentanyl/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [Percocet](../../topics/percocet/index.md), [toxicology report](../../topics/toxicology-report/index.md) ([mirror](https://web.archive.org/web/*/https://edition.cnn.com/2016/06/02/health/prince-death-opioid-overdose/))
 
 ----
 
@@ -536,7 +536,7 @@
 
 ----
 
-## June 2016 (70)
+## June 2016 (71)
 
  - [**"Bloomington guitar-maker's link to Prince passes to Colts owner -- Jim Irsay, owner of the Indianapolis Colts, collects famous guitars. Last week, he paid $137,500 in an auction to buy a guitar that at least looks a lot like the yellow version of Prince's "Cloud" guitar."**](http://www.startribune.com/bloomington-guitar-maker-s-link-to-prince-passes-to-colts-owner/385127861/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 30 June 2016 about [auction](../../topics/auction/index.md), [BET Awards](../../topics/bet-awards/index.md), [Cloud guitar](../../topics/cloud-guitar/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/bloomington-guitar-maker-s-link-to-prince-passes-to-colts-owner/385127861/))
 
@@ -750,7 +750,11 @@
 
 ----
 
- - [**"Man who found Prince's body describes 'chaos and sadness' of death scene -- Andrew Kornfeld says the musician's death underlined the deadly nature of painkiller addiction."**](http://www.startribune.com/man-who-found-prince-s-body-describes-chaos-and-sadness-of-death-scene/381872171/) by Liz Sawyer in [Minneapolis Star Tribune](http://www.startribune.com/) on 4 June 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/man-who-found-prince-s-body-describes-chaos-and-sadness-of-death-scene/381872171/))
+ - [**"Man who found Prince's body describes 'chaos and sadness' of death scene -- Andrew Kornfeld says the musician's death underlined the deadly nature of painkiller addiction."**](http://www.startribune.com/man-who-found-prince-s-body-describes-chaos-and-sadness-of-death-scene/381872171/) by Liz Sawyer in [Minneapolis Star Tribune](http://www.startribune.com/) on 4 June 2016 about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/man-who-found-prince-s-body-describes-chaos-and-sadness-of-death-scene/381872171/))
+
+----
+
+ - [**"News Guide: Prince died of overdose, but questions linger"**](https://apnews.com/e31c398f2bc142d2ae9a05023cebbe7d) in [Associated Press News](https://apnews.com/) on 4 June 2016 about [Amy Conners](../../topics/amy-conners/index.md), [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/e31c398f2bc142d2ae9a05023cebbe7d))
 
 ----
 
@@ -952,7 +956,7 @@
 
 ----
 
- - [**"Prince's local doctor identified in search warrant -- Dr. Michael Todd Schulenberg, a family practitioner, had seen Prince twice before his body was found April 21, according to the warrant left unsealed."**](http://www.startribune.com/prince-s-md-identified-in-search-warrant/378880371/) by Dan Browning, Jeremy Olson in [Minneapolis Star Tribune](http://www.startribune.com/) on 11 May 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-md-identified-in-search-warrant/378880371/))
+ - [**"Prince's local doctor identified in search warrant -- Dr. Michael Todd Schulenberg, a family practitioner, had seen Prince twice before his body was found April 21, according to the warrant left unsealed."**](http://www.startribune.com/prince-s-md-identified-in-search-warrant/378880371/) by Dan Browning, Jeremy Olson in [Minneapolis Star Tribune](http://www.startribune.com/) on 11 May 2016 about [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-md-identified-in-search-warrant/378880371/))
 
 ----
 
@@ -964,11 +968,11 @@
 
 ----
 
- - [**"Warrant: Minnesota doctor saw Prince, prescribed drugs"**](https://apnews.com/21140409ac784faf88f88ce5c400bbe3) in [Associated Press News](https://apnews.com/) on 11 May 2016 about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [North Memorial Medical Center (place)](../../topics/place/north-memorial-medical-center/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/21140409ac784faf88f88ce5c400bbe3))
+ - [**"Warrant: Minnesota doctor saw Prince, prescribed drugs"**](https://apnews.com/21140409ac784faf88f88ce5c400bbe3) in [Associated Press News](https://apnews.com/) on 11 May 2016 about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [North Memorial Medical Center (place)](../../topics/place/north-memorial-medical-center/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/21140409ac784faf88f88ce5c400bbe3))
 
 ----
 
- - [**"Warrant: Minnesota doctor saw Prince, prescribed drugs"**](https://apnews.com/53b7f73993c649aebb7165d234092956) in [Associated Press News](https://apnews.com/) on 11 May 2016 about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [North Memorial Medical Center (place)](../../topics/place/north-memorial-medical-center/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/53b7f73993c649aebb7165d234092956))
+ - [**"Warrant: Minnesota doctor saw Prince, prescribed drugs"**](https://apnews.com/53b7f73993c649aebb7165d234092956) in [Associated Press News](https://apnews.com/) on 11 May 2016 about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [North Memorial Medical Center (place)](../../topics/place/north-memorial-medical-center/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/53b7f73993c649aebb7165d234092956))
 
 ----
 
@@ -1008,7 +1012,7 @@
 
 ----
 
- - [**"Behind closed doors, lawyers dig into Prince’s estate"**](https://apnews.com/f1bf636ed8b346e78abbea69ead9bda0) in [Associated Press News](https://apnews.com/) on 8 May 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/f1bf636ed8b346e78abbea69ead9bda0))
+ - [**"Behind closed doors, lawyers dig into Prince’s estate"**](https://apnews.com/f1bf636ed8b346e78abbea69ead9bda0) in [Associated Press News](https://apnews.com/) on 8 May 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/f1bf636ed8b346e78abbea69ead9bda0))
 
 ----
 
@@ -1076,7 +1080,7 @@
 
 ----
 
- - [**"More Obscure Than a One-Hit Wonder? The Legends Who Never Had a Hit"**](https://www.billboard.com/articles/news/7356964/stealth-hit-wonder) in [Billboard](https://www.billboard.com/) on 5 May 2016 ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/7356964/stealth-hit-wonder))
+ - [**"More Obscure Than a One-Hit Wonder? The Legends Who Never Had a Hit"**](https://www.billboard.com/articles/news/7356964/stealth-hit-wonder) in [Billboard](https://www.billboard.com/) on 5 May 2016 about [Apollonia](../../topics/apollonia/index.md), [Caribbean](../../topics/caribbean/index.md), [He’s So Dull (song)](../../topics/song/he-s-so-dull/index.md), [Nasty Girl (song)](../../topics/song/nasty-girl/index.md), [Sheena Easton](../../topics/sheena-easton/index.md), [Sugar Walls (song)](../../topics/song/sugar-walls/index.md), [The Time](../../topics/the-time/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/7356964/stealth-hit-wonder))
 
 ----
 
@@ -1092,7 +1096,7 @@
 
 ----
 
- - [**"911 calls to Prince estate ranged from mundane to serious"**](https://apnews.com/b145542cfe0d4dfd945cabaa0c720696) in [Associated Press News](https://apnews.com/) on 4 May 2016 about [Carver County](../../topics/carver-county/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [Prince Estate](../../topics/prince-estate/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/b145542cfe0d4dfd945cabaa0c720696))
+ - [**"911 calls to Prince estate ranged from mundane to serious"**](https://apnews.com/b145542cfe0d4dfd945cabaa0c720696) in [Associated Press News](https://apnews.com/) on 4 May 2016 about [Carver County](../../topics/carver-county/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [Prince Estate](../../topics/prince-estate/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/b145542cfe0d4dfd945cabaa0c720696))
 
 ----
 
@@ -1160,7 +1164,7 @@
 
 ----
 
-## April 2016 (112)
+## April 2016 (113)
 
  - [**"AP Exclusive: Prince’s ‘Purple Rain’ coat is up for auction"**](https://apnews.com/8110dcbaa6714d75a12db043ff989975) in [Associated Press News](https://apnews.com/) on 29 April 2016 about [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [auction](../../topics/auction/index.md), [Katy Perry](../../topics/katy-perry/index.md), [motorcycle](../../topics/motorcycle/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/8110dcbaa6714d75a12db043ff989975))
 
@@ -1170,7 +1174,7 @@
 
 ----
 
- - [**"APNewsBreak: Investigators look at overdose in Prince death"**](https://apnews.com/744a34089a8241df95a836b358741ace) in [Associated Press News](https://apnews.com/) on 29 April 2016 about [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Sheila E.](../../topics/sheila-e/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/744a34089a8241df95a836b358741ace))
+ - [**"APNewsBreak: Investigators look at overdose in Prince death"**](https://apnews.com/744a34089a8241df95a836b358741ace) in [Associated Press News](https://apnews.com/) on 29 April 2016 about [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Sheila E.](../../topics/sheila-e/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/744a34089a8241df95a836b358741ace))
 
 ----
 
@@ -1194,7 +1198,7 @@
 
 ----
 
- - [**"Prince death investigation focuses on flight, drugs, doctor"**](https://apnews.com/175b0bd7f6f641b1b9b90b268bb3375e) in [Associated Press News](https://apnews.com/) on 29 April 2016 about [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [Sheila E.](../../topics/sheila-e/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/175b0bd7f6f641b1b9b90b268bb3375e))
+ - [**"Prince death investigation focuses on flight, drugs, doctor"**](https://apnews.com/175b0bd7f6f641b1b9b90b268bb3375e) in [Associated Press News](https://apnews.com/) on 29 April 2016 about [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [Sheila E.](../../topics/sheila-e/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/175b0bd7f6f641b1b9b90b268bb3375e))
 
 ----
 
@@ -1202,7 +1206,7 @@
 
 ----
 
- - [**"The Latest: Investigators consider overdose in Prince death"**](https://apnews.com/0e807ab72bc349cf9d3c7e938ba80fbf) in [Associated Press News](https://apnews.com/) on 29 April 2016 about [Carver County](../../topics/carver-county/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/0e807ab72bc349cf9d3c7e938ba80fbf))
+ - [**"The Latest: Investigators consider overdose in Prince death"**](https://apnews.com/0e807ab72bc349cf9d3c7e938ba80fbf) in [Associated Press News](https://apnews.com/) on 29 April 2016 about [Carver County](../../topics/carver-county/index.md), [Illinois (place)](../../topics/place/illinois/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/0e807ab72bc349cf9d3c7e938ba80fbf))
 
 ----
 
@@ -1286,7 +1290,7 @@
 
 ----
 
- - [**"Prince’s lawyer: Death a shock; singer led clean lifestyle"**](https://apnews.com/18fe9c0f0a124d55a91156e8c1865ab6) by Nekesa Mumbi Moody (Associated Press) in [Associated Press News](https://apnews.com/) on 26 April 2016 about [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/18fe9c0f0a124d55a91156e8c1865ab6))
+ - [**"Prince’s lawyer: Death a shock; singer led clean lifestyle"**](https://apnews.com/18fe9c0f0a124d55a91156e8c1865ab6) by Nekesa Mumbi Moody (Associated Press) in [Associated Press News](https://apnews.com/) on 26 April 2016 about [Illinois (place)](../../topics/place/illinois/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/18fe9c0f0a124d55a91156e8c1865ab6))
 
 ----
 
@@ -1346,7 +1350,7 @@
 
 ----
 
- - [**"Adored by millions, Prince was alone as he died"**](http://www.startribune.com/investigation-underway-into-prince-s-death/376741561/) by John Reinan in [Minneapolis Star Tribune](http://www.startribune.com/) on 23 April 2016 about [airport](../../topics/airport/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Dakota (place)](../../topics/place/dakota/index.md), [Jim Olson](../../topics/jim-olson/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/investigation-underway-into-prince-s-death/376741561/))
+ - [**"Adored by millions, Prince was alone as he died"**](http://www.startribune.com/investigation-underway-into-prince-s-death/376741561/) by John Reinan in [Minneapolis Star Tribune](http://www.startribune.com/) on 23 April 2016 about [airport](../../topics/airport/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Dakota (place)](../../topics/place/dakota/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Jim Olson](../../topics/jim-olson/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/investigation-underway-into-prince-s-death/376741561/))
 
 ----
 
@@ -1382,7 +1386,7 @@
 
 ----
 
- - [**"The Latest: Prince to be honored in New Orleans jazz funeral"**](https://apnews.com/2bff71641de848cdb8d414528b9686a5) in [Associated Press News](https://apnews.com/) on 23 April 2016 about [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [Sheila E.](../../topics/sheila-e/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/2bff71641de848cdb8d414528b9686a5))
+ - [**"The Latest: Prince to be honored in New Orleans jazz funeral"**](https://apnews.com/2bff71641de848cdb8d414528b9686a5) in [Associated Press News](https://apnews.com/) on 23 April 2016 about [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [Sheila E.](../../topics/sheila-e/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/2bff71641de848cdb8d414528b9686a5))
 
 ----
 
@@ -1418,7 +1422,7 @@
 
 ----
 
- - [**"Hiding in plain sight – why I spent a lifetime chasing Prince"**](https://www.telegraph.co.uk/music/what-to-listen-to/hiding-in-plain-sight--why-i-spent-a-lifetime-chasing-prince/) in [The Telegraph](https://www.telegraph.co.uk/) on 22 April 2016 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Andy Warhol](../../topics/andy-warhol/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [bootleg](../../topics/bootleg/index.md), [Chris Moon](../../topics/chris-moon/index.md), [Denise Matthews](../../topics/denise-matthews/index.md), [Gilbert Davidson](../../topics/gilbert-davidson/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [Matt Fink](../../topics/matt-fink/index.md), [The Revolution](../../topics/the-revolution/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.telegraph.co.uk/music/what-to-listen-to/hiding-in-plain-sight--why-i-spent-a-lifetime-chasing-prince/))
+ - [**"Hiding in plain sight – why I spent a lifetime chasing Prince"**](https://www.telegraph.co.uk/music/what-to-listen-to/hiding-in-plain-sight--why-i-spent-a-lifetime-chasing-prince/) in [The Telegraph](https://www.telegraph.co.uk/) on 22 April 2016 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Andy Warhol](../../topics/andy-warhol/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [bootleg](../../topics/bootleg/index.md), [Chris Moon](../../topics/chris-moon/index.md), [Denise Matthews](../../topics/denise-matthews/index.md), [Gilbert Davidson](../../topics/gilbert-davidson/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [Matt Fink](../../topics/matt-fink/index.md), [The Revolution](../../topics/the-revolution/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.telegraph.co.uk/music/what-to-listen-to/hiding-in-plain-sight--why-i-spent-a-lifetime-chasing-prince/))
 
 ----
 
@@ -1514,7 +1518,11 @@
 
 ----
 
- - [**"Music icon Prince dead at 57"**](https://usatoday.com/story/entertainment/music/2016/04/21/report-music-icon-prince-dead-57/83339894/) in [USA Today](https://usatoday.com/) on 21 April 2016 about [Bangles](../../topics/bangles/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Obama](../../topics/obama/index.md), [Parental Advisory](../../topics/parental-advisory/index.md), [Parents Music Resource Center](../../topics/parents-music-resource-center/index.md), [Sheena Easton](../../topics/sheena-easton/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Sugar Walls (song)](../../topics/song/sugar-walls/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/entertainment/music/2016/04/21/report-music-icon-prince-dead-57/83339894/))
+ - [**"Music icon Prince dead at 57"**](https://usatoday.com/story/entertainment/music/2016/04/21/report-music-icon-prince-dead-57/83339894/) in [USA Today](https://usatoday.com/) on 21 April 2016 about [Bangles](../../topics/bangles/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Obama](../../topics/obama/index.md), [Parental Advisory](../../topics/parental-advisory/index.md), [Parents Music Resource Center](../../topics/parents-music-resource-center/index.md), [Sheena Easton](../../topics/sheena-easton/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Sugar Walls (song)](../../topics/song/sugar-walls/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/entertainment/music/2016/04/21/report-music-icon-prince-dead-57/83339894/))
+
+----
+
+ - [**"Our horrible and stupid experience with Prince in 1981"**](https://www.presstelegram.com/2016/04/21/our-horrible-and-stupid-experience-with-prince-in-1981/) in [www.presstelegram.com](https://www.presstelegram.com/) on 21 April 2016 ([mirror](https://web.archive.org/web/*/https://www.presstelegram.com/2016/04/21/our-horrible-and-stupid-experience-with-prince-in-1981/))
 
 ----
 
@@ -1526,7 +1534,7 @@
 
 ----
 
- - [**"Prince dead at Paisley Park estate in Minnesota"**](http://www.fox9.com/news/emergency-medical-response-at-paisley-park) in [Fox 9](http://www.fox9.com/) on 21 April 2016 about [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Jim Olson](../../topics/jim-olson/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Minnesota Twins](../../topics/minnesota-twins/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [Obama](../../topics/obama/index.md), [Paisley Park Studios (place)](../../topics/place/paisley-park-studios/index.md), [Super Bowl](../../topics/super-bowl/index.md), [TMZ (website)](../../topics/website/tmz/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/http://www.fox9.com/news/emergency-medical-response-at-paisley-park))
+ - [**"Prince dead at Paisley Park estate in Minnesota"**](http://www.fox9.com/news/emergency-medical-response-at-paisley-park) in [Fox 9](http://www.fox9.com/) on 21 April 2016 about [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Jim Olson](../../topics/jim-olson/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Minnesota Twins](../../topics/minnesota-twins/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [Obama](../../topics/obama/index.md), [Paisley Park Studios (place)](../../topics/place/paisley-park-studios/index.md), [Super Bowl](../../topics/super-bowl/index.md), [TMZ (website)](../../topics/website/tmz/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/http://www.fox9.com/news/emergency-medical-response-at-paisley-park))
 
 ----
 
@@ -1558,7 +1566,7 @@
 
 ----
 
- - [**"'Stunned' celebrities react to Prince's death"**](https://usatoday.com/story/life/nation-now/2016/04/21/celebrities-react-princes-death/83341102/) in [USA Today](https://usatoday.com/) on 21 April 2016 about [airport](../../topics/airport/index.md), [Bangles](../../topics/bangles/index.md), [Katy Perry](../../topics/katy-perry/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Obama](../../topics/obama/index.md), [Sheena Easton](../../topics/sheena-easton/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Spike Lee](../../topics/spike-lee/index.md), [Sugar Walls (song)](../../topics/song/sugar-walls/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/nation-now/2016/04/21/celebrities-react-princes-death/83341102/))
+ - [**"'Stunned' celebrities react to Prince's death"**](https://usatoday.com/story/life/nation-now/2016/04/21/celebrities-react-princes-death/83341102/) in [USA Today](https://usatoday.com/) on 21 April 2016 about [airport](../../topics/airport/index.md), [Bangles](../../topics/bangles/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Katy Perry](../../topics/katy-perry/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Obama](../../topics/obama/index.md), [Sheena Easton](../../topics/sheena-easton/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Spike Lee](../../topics/spike-lee/index.md), [Sugar Walls (song)](../../topics/song/sugar-walls/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/nation-now/2016/04/21/celebrities-react-princes-death/83341102/))
 
 ----
 
@@ -1582,7 +1590,7 @@
 
 ----
 
- - [**"Why Prince’s Super Bowl Performance, ‘New Girl’ Cameo Proved He Was a God"**](https://variety.com/2016/tv/columns/prince-super-bowl-new-girl-1201758416/) in [Variety](https://variety.com/) on 21 April 2016 about [contract](../../topics/contract/index.md), [Super Bowl](../../topics/super-bowl/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2016/tv/columns/prince-super-bowl-new-girl-1201758416/))
+ - [**"Why Prince’s Super Bowl Performance, ‘New Girl’ Cameo Proved He Was a God"**](https://variety.com/2016/tv/columns/prince-super-bowl-new-girl-1201758416/) in [Variety](https://variety.com/) on 21 April 2016 about [contract](../../topics/contract/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Super Bowl](../../topics/super-bowl/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2016/tv/columns/prince-super-bowl-new-girl-1201758416/))
 
 ----
 

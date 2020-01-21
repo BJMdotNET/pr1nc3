@@ -1,6 +1,6 @@
 # Associated Press
 
-  * [Amy Forliti (Associated Press)](./associated-press/amy-forliti/) (9)
+  * [Amy Forliti (Associated Press)](./associated-press/amy-forliti/) (14)
   * [Carla K. Johnson (Associated Press)](./associated-press/carla-k-johnson/) (2)
   * [Chevel Johnson (Associated Press)](./associated-press/chevel-johnson/) (1)
   * [Christopher Weber (Associated Press)](./associated-press/christopher-weber/) (1)
