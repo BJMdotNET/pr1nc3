@@ -1,6 +1,10 @@
 # 2020
 
-## January 2020 (3)
+## January 2020 (4)
+
+ - [**"Lizzo, Charli XCX, Billie Eilish and Lana Del Rey Among 2020 NME Awards Nominees -- Stormzy, The 1975, Yungblud, Foals and Stormzy are also nominated."**](https://www.billboard.com/articles/news/awards/8548499/2020-nme-awards-nominees-list) in [Billboard](https://www.billboard.com/) on 21 January 2020 about [Amazing Grace (movie)](../../topics/movie/amazing-grace/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Beck](../../topics/beck/index.md), [FKA twigs](../../topics/fka-twigs/index.md), [Lizzo](../../topics/lizzo/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/awards/8548499/2020-nme-awards-nominees-list))
+
+----
 
  - [**"Michael Stokes says a "Good Samaritan" in the music industry told him others were profiting from his work."**](https://www.billboard.com/articles/business/legal-and-management/8548153/michael-stokes-publishers-lawsuit) in [Billboard](https://www.billboard.com/) on 20 January 2020 about [Michael Stokes](../../topics/michael-stokes/index.md), [Sony Music Entertainment](../../topics/sony-music-entertainment/index.md), [Universal Music Group](../../topics/universal-music-group/index.md) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/business/legal-and-management/8548153/michael-stokes-publishers-lawsuit))
 

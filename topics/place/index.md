@@ -28,11 +28,11 @@
   * [Sausalito (place)](./place/sausalito/) (3)
   * [Smithsonian (place)](./place/smithsonian/) (6)
   * [St. Louis Park (place)](./place/st-louis-park/) (8)
-  * [Sunset Sound (place)](./place/sunset-sound/) (29)
+  * [Sunset Sound (place)](./place/sunset-sound/) (30)
   * [Trinity Medical Center (place)](./place/trinity-medical-center/) (10)
   * [Uncle Sam’s (place)](./place/uncle-sam-s/) (2)
   * [White House (place)](./place/white-house/) (7)
-  * [Xcel Energy Center (place)](./place/xcel-energy-center/) (14)
+  * [Xcel Energy Center (place)](./place/xcel-energy-center/) (15)
 
 ----
 

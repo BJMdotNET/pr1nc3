@@ -1,5 +1,9 @@
 # Jon Bream
 
+ - [**"6 cool things in music this week including Neil Peart, Billie Eilish, Paisley Park Cinema and Keith Richards"**](http://www.startribune.com/6-cool-things-in-music-this-week-including-neil-peart-billie-eilish-paisley-park-cinema-and-keith-richards/567079992/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 17 January 2020 about [Amazing Grace (movie)](../../topics/movie/amazing-grace/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Jon Bream](../../topics/jon-bream/index.md), [Richard Pryor](../../topics/richard-pryor/index.md), [Wattstax (movie)](../../topics/movie/wattstax/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md), [YouTube](../../topics/youtube/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/6-cool-things-in-music-this-week-including-neil-peart-billie-eilish-paisley-park-cinema-and-keith-richards/567079992/))
+
+----
+
  - [**"6 cool things in music include Beyoncé's Elle interview, J.S. Ondara, David Byrne & Nachito Herrera"**](http://www.startribune.com/6-cool-things-in-music-include-beyonce-s-elle-interview-j-s-ondara-david-byrne-amp-nachito-herrera/566170311/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 13 December 2019 about [Dakota (place)](../../topics/place/dakota/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Jon Bream](../../topics/jon-bream/index.md), [St. Louis Park (place)](../../topics/place/st-louis-park/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/6-cool-things-in-music-include-beyonce-s-elle-interview-j-s-ondara-david-byrne-amp-nachito-herrera/566170311/))
 
 ----

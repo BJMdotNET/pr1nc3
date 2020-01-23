@@ -1,5 +1,9 @@
 # Joni Mitchell
 
+ - [**"Segerstrom Center Announces Kandace Springs To Headline Jazz Series In February"**](https://www.broadwayworld.com/costa-mesa/article/Segerstrom-Center-Announces-Kandace-Springs-To-Headline-Jazz-Series-In-February-20200115) in [www.broadwayworld.com](https://www.broadwayworld.com/) on 15 January 2020 about [Joni Mitchell](../../topics/joni-mitchell/index.md), [Kandace Springs](../../topics/kandace-springs/index.md), [Lizz Wright](../../topics/lizz-wright/index.md) ([mirror](https://web.archive.org/web/*/https://www.broadwayworld.com/costa-mesa/article/Segerstrom-Center-Announces-Kandace-Springs-To-Headline-Jazz-Series-In-February-20200115))
+
+----
+
  - [**"The Best Music Books of 2019 (a Lot of Them, Anyway)"**](https://variety.com/feature/best-music-books-2019-1203450290/) in [Variety](https://variety.com/) on 22 December 2019 about [ASCAP](../../topics/ascap/index.md), [Duane Tudahl](../../topics/duane-tudahl/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Morris Day](../../topics/morris-day/index.md), [Prince And The Purple Rain Era Studio Sessions 1983-1984 (book)](../../topics/book/prince-and-the-purple-rain-era-studio-sessions-1983-1984/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/feature/best-music-books-2019-1203450290/))
 
 ----

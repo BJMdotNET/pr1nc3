@@ -1,12 +1,20 @@
 # 2020
 
-## January 2020 (7)
+## January 2020 (9)
+
+ - [**"Lizzo reveals even more in overdue Rolling Stone cover story ahead of Grammys"**](http://www.startribune.com/lizzo-reveals-even-more-in-overdue-rolling-stone-cover-story-ahead-of-grammys/567201112/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 January 2020 about [Grammy Award](../../topics/grammy-award/index.md), [Lizzo](../../topics/lizzo/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/lizzo-reveals-even-more-in-overdue-rolling-stone-cover-story-ahead-of-grammys/567201112/))
+
+----
 
  - [**"Prince wrongful death case dismissed; estate case continues"**](http://www.startribune.com/prince-wrongful-death-case-dismissed-estate-case-continues/567136462/) by Amy Forliti (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 January 2020 about [Alfred Jackson](../../topics/alfred-jackson/index.md), [fentanyl](../../topics/fentanyl/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [John Nelson](../../topics/john-nelson/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Michael Schulenberg](../../topics/michael-schulenberg/index.md), [oxycodone](../../topics/oxycodone/index.md), [Trinity Medical Center (place)](../../topics/place/trinity-medical-center/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Walgreens](../../topics/walgreens/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-wrongful-death-case-dismissed-estate-case-continues/567136462/))
 
 ----
 
  - [**"Prince's estate quietly dismisses wrongful-death claims -- Legal settlements likely in wrongful-death suits. "**](http://www.startribune.com/prince-wrongful-death-claims-dismissed/567141982/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 January 2020 about [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Carver County District Court](../../topics/carver-county-district-court/index.md), [Cecilie M. Loidolt](../../topics/cecilie-m-loidolt/index.md), [fentanyl](../../topics/fentanyl/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [John Goetz](../../topics/john-goetz/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Michael Schulenberg](../../topics/michael-schulenberg/index.md), [North Memorial Health Care](../../topics/north-memorial-health-care/index.md), [Paul C. Peterson](../../topics/paul-c-peterson/index.md), [Percocet](../../topics/percocet/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Recovery Without Walls](../../topics/recovery-without-walls/index.md), [Rodger Hagen](../../topics/rodger-hagen/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Trinity Medical Center (place)](../../topics/place/trinity-medical-center/index.md), [Walgreens](../../topics/walgreens/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-wrongful-death-claims-dismissed/567141982/))
+
+----
+
+ - [**"6 cool things in music this week including Neil Peart, Billie Eilish, Paisley Park Cinema and Keith Richards"**](http://www.startribune.com/6-cool-things-in-music-this-week-including-neil-peart-billie-eilish-paisley-park-cinema-and-keith-richards/567079992/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 17 January 2020 about [Amazing Grace (movie)](../../topics/movie/amazing-grace/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Jon Bream](../../topics/jon-bream/index.md), [Richard Pryor](../../topics/richard-pryor/index.md), [Wattstax (movie)](../../topics/movie/wattstax/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md), [YouTube](../../topics/youtube/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/6-cool-things-in-music-this-week-including-neil-peart-billie-eilish-paisley-park-cinema-and-keith-richards/567079992/))
 
 ----
 

@@ -1,5 +1,9 @@
 # On Time: A Princely Life in Funk (book)
 
+ - [**"MORRIS DAY’S SON FOLLOWING IN HIS MUSICAL FOOTSTEPS"**](https://eurweb.com/2020/01/15/morris-days-son-following-in-his-musical-footsteps/) in [EURweb](https://eurweb.com/) on 15 January 2020 about [Apollonia](../../../topics/apollonia/index.md), [memoir](../../../topics/memoir/index.md), [Morris Day](../../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../../topics/book/on-time-a-princely-life-in-funk/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md), [The Time](../../../topics/the-time/index.md) ([mirror](https://web.archive.org/web/*/https://eurweb.com/2020/01/15/morris-days-son-following-in-his-musical-footsteps/))
+
+----
+
  - [**"Rock and Roll Book Club: Best music books of 2019"**](https://www.thecurrent.org/feature/2019/12/11/best-music-books-2019) in [The Current](https://www.thecurrent.org/) on 18 December 2019 about [Dan Piepenbring](../../../topics/dan-piepenbring/index.md), [memoir](../../../topics/memoir/index.md), [Morris Day](../../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../../topics/book/on-time-a-princely-life-in-funk/index.md), [Spiegel & Grau](../../../topics/spiegel-grau/index.md), [The Beautiful Ones (book)](../../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/12/11/best-music-books-2019))
 
 ----

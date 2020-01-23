@@ -1,5 +1,13 @@
 # FKA twigs
 
+ - [**"Lizzo, Charli XCX, Billie Eilish and Lana Del Rey Among 2020 NME Awards Nominees -- Stormzy, The 1975, Yungblud, Foals and Stormzy are also nominated."**](https://www.billboard.com/articles/news/awards/8548499/2020-nme-awards-nominees-list) in [Billboard](https://www.billboard.com/) on 21 January 2020 about [Amazing Grace (movie)](../../topics/movie/amazing-grace/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Beck](../../topics/beck/index.md), [FKA twigs](../../topics/fka-twigs/index.md), [Lizzo](../../topics/lizzo/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/awards/8548499/2020-nme-awards-nominees-list))
+
+----
+
+ - [**"NME Awards 2020: Full list of nominations revealed -- The winners will be revealed at London's O2 Academy Brixton on February 12."**](https://www.nme.com/news/music/nme-awards-2020-nominations-2598499) in [NME (New Musical Express)](https://www.nme.com/) on 19 January 2020 about [Amazing Grace (movie)](../../topics/movie/amazing-grace/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Beck](../../topics/beck/index.md), [FKA twigs](../../topics/fka-twigs/index.md), [Lizzo](../../topics/lizzo/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/https://www.nme.com/news/music/nme-awards-2020-nominations-2598499))
+
+----
+
  - [**"Interview: FKA twigs describes the making of 'Magdalene,' her musical decision-making, and when she met Prince in 2015"**](https://www.thecurrent.org/feature/2019/11/23/interview-fka-twigs-magdalene-prince) in [The Current](https://www.thecurrent.org/) on 23 November 2019 about [FKA twigs](../../topics/fka-twigs/index.md) ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/11/23/interview-fka-twigs-magdalene-prince))
 
 ----

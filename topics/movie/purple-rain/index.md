@@ -1,5 +1,9 @@
 # Purple Rain (movie)
 
+ - [**"MORRIS DAY’S SON FOLLOWING IN HIS MUSICAL FOOTSTEPS"**](https://eurweb.com/2020/01/15/morris-days-son-following-in-his-musical-footsteps/) in [EURweb](https://eurweb.com/) on 15 January 2020 about [Apollonia](../../../topics/apollonia/index.md), [memoir](../../../topics/memoir/index.md), [Morris Day](../../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../../topics/book/on-time-a-princely-life-in-funk/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md), [The Time](../../../topics/the-time/index.md) ([mirror](https://web.archive.org/web/*/https://eurweb.com/2020/01/15/morris-days-son-following-in-his-musical-footsteps/))
+
+----
+
  - [**"‘Purple Rain,’ ‘Clerks, ‘She’s Gotta Have It’ Added to National Film Registry"**](https://variety.com/2019/film/news/purple-rain-clerks-shes-gotta-have-it-national-film-registry-1203431784/) in [Variety](https://variety.com/) on 11 December 2019 about [Albert Magnoli](../../../topics/albert-magnoli/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md), [Spike Lee](../../../topics/spike-lee/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2019/film/news/purple-rain-clerks-shes-gotta-have-it-national-film-registry-1203431784/))
 
 ----

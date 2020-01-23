@@ -1,5 +1,9 @@
 # contract
 
+ - [**"Prince’s ‘Purple High’ lives on through his vaulted music"**](https://www.shsoutherner.net/a-e/2020/01/16/princes-purple-high-lives-on-through-his-vaulted-music/) in [www.shsoutherner.net](https://www.shsoutherner.net/) on 16 January 2020 about [contract](../../topics/contract/index.md), [DJ Dudley D](../../topics/dj-dudley-d/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.shsoutherner.net/a-e/2020/01/16/princes-purple-high-lives-on-through-his-vaulted-music/))
+
+----
+
  - [**"In a Twin Cities living room, the Steeles cook up their 35th annual Christmas show -- The Steeles' annual Christmas show is a family affair, brewed up in a Golden Valley living room. "**](http://www.startribune.com/in-a-twin-cities-living-room-the-steeles-cook-up-their-35th-annual-christmas-show/566344542/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 December 2019 about [Alexander O’Neal](../../topics/alexander-o-neal/index.md), [contract](../../topics/contract/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [Kenni Holmen](../../topics/kenni-holmen/index.md), [Sonny Thompson](../../topics/sonny-thompson/index.md), [Tommy Barbarella](../../topics/tommy-barbarella/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/in-a-twin-cities-living-room-the-steeles-cook-up-their-35th-annual-christmas-show/566344542/))
 
 ----
