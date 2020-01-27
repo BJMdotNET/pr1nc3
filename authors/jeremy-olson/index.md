@@ -4,7 +4,7 @@
 
 ----
 
- - [**"Prince's local doctor identified in search warrant -- Dr. Michael Todd Schulenberg, a family practitioner, had seen Prince twice before his body was found April 21, according to the warrant left unsealed."**](http://www.startribune.com/prince-s-md-identified-in-search-warrant/378880371/) by Dan Browning, Jeremy Olson in [Minneapolis Star Tribune](http://www.startribune.com/) on 11 May 2016 about [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-md-identified-in-search-warrant/378880371/))
+ - [**"Prince's local doctor identified in search warrant -- Dr. Michael Todd Schulenberg, a family practitioner, had seen Prince twice before his body was found April 21, according to the warrant left unsealed."**](http://www.startribune.com/prince-s-md-identified-in-search-warrant/378880371/) by Dan Browning, Jeremy Olson in [Minneapolis Star Tribune](http://www.startribune.com/) on 11 May 2016 about Michael Todd Schulenberg ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-md-identified-in-search-warrant/378880371/))
 
 ----
 

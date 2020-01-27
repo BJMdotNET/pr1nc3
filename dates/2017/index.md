@@ -2,45 +2,45 @@
 
 ## December 2017 (6)
 
- - [**"Franken, Keillor, Damond, Castile top Minnesota news in 2017"**](https://apnews.com/80ae6c0e800c49ba95447bb986d2dd78) in [Associated Press News](https://apnews.com/) on 22 December 2017 about [contract](../../topics/contract/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Obama](../../topics/obama/index.md), [Trump](../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/80ae6c0e800c49ba95447bb986d2dd78))
+ - [**"Franken, Keillor, Damond, Castile top Minnesota news in 2017"**](https://apnews.com/80ae6c0e800c49ba95447bb986d2dd78) in [Associated Press News](https://apnews.com/) on 22 December 2017 about contract, First Avenue (place), Obama, Trump ([mirror](https://web.archive.org/web/*/https://apnews.com/80ae6c0e800c49ba95447bb986d2dd78))
 
 ----
 
- - [**"robert whitman’s intimate photos of prince on the cusp of fame"**](https://i-d.vice.com/en_us/article/7xwkqa/robert-whitmans-intimate-photos-of-prince-on-the-cusp-of-fame) in [i-D](https://i-d.vice.com/) on 13 December 2017 about [Prince Pre Fame (book)](../../topics/book/prince-pre-fame/index.md), [Robert Whitman](../../topics/robert-whitman/index.md) ([mirror](https://web.archive.org/web/*/https://i-d.vice.com/en_us/article/7xwkqa/robert-whitmans-intimate-photos-of-prince-on-the-cusp-of-fame))
+ - [**"robert whitman’s intimate photos of prince on the cusp of fame"**](https://i-d.vice.com/en_us/article/7xwkqa/robert-whitmans-intimate-photos-of-prince-on-the-cusp-of-fame) in [i-D](https://i-d.vice.com/) on 13 December 2017 about Prince Pre Fame (book), Robert Whitman ([mirror](https://web.archive.org/web/*/https://i-d.vice.com/en_us/article/7xwkqa/robert-whitmans-intimate-photos-of-prince-on-the-cusp-of-fame))
 
 ----
 
- - [**"Singer Gwen Stefani to wrap up Super Bowl week performances"**](https://apnews.com/80ec55b99dd74c77b9d3fbcd79adf7c1) in [Associated Press News](https://apnews.com/) on 12 December 2017 about [Gwen Stefani](../../topics/gwen-stefani/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Super Bowl](../../topics/super-bowl/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/80ec55b99dd74c77b9d3fbcd79adf7c1))
+ - [**"Singer Gwen Stefani to wrap up Super Bowl week performances"**](https://apnews.com/80ec55b99dd74c77b9d3fbcd79adf7c1) in [Associated Press News](https://apnews.com/) on 12 December 2017 about Gwen Stefani, Morris Day, Morris Day & The Time, Sheila E., Super Bowl, The Revolution, The Time ([mirror](https://web.archive.org/web/*/https://apnews.com/80ec55b99dd74c77b9d3fbcd79adf7c1))
 
 ----
 
- - [**"NEWSLETTER 7.12.17"**](https://recordcollectormag.com/newsletter-7-12-17) in [Record Collector](https://recordcollectormag.com/) on 7 December 2017 about [Prince Pre Fame (book)](../../topics/book/prince-pre-fame/index.md), [Robert Whitman](../../topics/robert-whitman/index.md) ([mirror](https://web.archive.org/web/*/https://recordcollectormag.com/newsletter-7-12-17))
+ - [**"NEWSLETTER 7.12.17"**](https://recordcollectormag.com/newsletter-7-12-17) in [Record Collector](https://recordcollectormag.com/) on 7 December 2017 about Prince Pre Fame (book), Robert Whitman ([mirror](https://web.archive.org/web/*/https://recordcollectormag.com/newsletter-7-12-17))
 
 ----
 
- - [**"Ellie Goulding, DJ Kygo to perform during Super Bowl week"**](https://apnews.com/283071a69cd5493380935bf78796d91c) in [Associated Press News](https://apnews.com/) on 6 December 2017 about [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Super Bowl](../../topics/super-bowl/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/283071a69cd5493380935bf78796d91c))
+ - [**"Ellie Goulding, DJ Kygo to perform during Super Bowl week"**](https://apnews.com/283071a69cd5493380935bf78796d91c) in [Associated Press News](https://apnews.com/) on 6 December 2017 about Morris Day, Morris Day & The Time, Sheila E., Super Bowl, The Revolution, The Time ([mirror](https://web.archive.org/web/*/https://apnews.com/283071a69cd5493380935bf78796d91c))
 
 ----
 
- - [**"Super Bowl Live concert series will include Prince tribute"**](https://apnews.com/30711cb14b744f1aa016784116c806cc) in [Associated Press News](https://apnews.com/) on 1 December 2017 about [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/30711cb14b744f1aa016784116c806cc))
+ - [**"Super Bowl Live concert series will include Prince tribute"**](https://apnews.com/30711cb14b744f1aa016784116c806cc) in [Associated Press News](https://apnews.com/) on 1 December 2017 about Jimmy Jam, Morris Day, Morris Day & The Time, New Power Generation, Sheila E., Terry Lewis, The Revolution, The Time ([mirror](https://web.archive.org/web/*/https://apnews.com/30711cb14b744f1aa016784116c806cc))
 
 ----
 
 ## November 2017 (14)
 
- - [**"‘Prince’s Last Year’ Will Explore the Music Icon’s Final Twelve Months"**](https://variety.com/2017/tv/news/princes-last-year-documentary-1202626889/) in [Variety](https://variety.com/) on 30 November 2017 about [Adrian Sibley](../../topics/adrian-sibley/index.md), [Andy Allo](../../topics/andy-allo/index.md), [CeeLo Green](../../topics/ceelo-green/index.md), [Channel 4](../../topics/channel-4/index.md), [Dan Goldsack](../../topics/dan-goldsack/index.md), [Eryn Allen Kane](../../topics/eryn-allen-kane/index.md), [George Clinton](../../topics/george-clinton/index.md), [Kate Bush](../../topics/kate-bush/index.md), [Lincoln Square Prods.](../../topics/lincoln-square-prods/index.md), [Michael Kirk](../../topics/michael-kirk/index.md), [Prince: R U Listening? (documentary)](../../topics/documentary/prince-r-u-listening/index.md), [Prince’s Last Year (documentary)](../../topics/documentary/prince-s-last-year/index.md), [Sheldon Lazarus](../../topics/sheldon-lazarus/index.md), [Van Jones](../../topics/van-jones/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2017/tv/news/princes-last-year-documentary-1202626889/))
+ - [**"‘Prince’s Last Year’ Will Explore the Music Icon’s Final Twelve Months"**](https://variety.com/2017/tv/news/princes-last-year-documentary-1202626889/) in [Variety](https://variety.com/) on 30 November 2017 about Adrian Sibley, Andy Allo, CeeLo Green, Channel 4, Dan Goldsack, Eryn Allen Kane, George Clinton, Kate Bush, Lincoln Square Prods., Michael Kirk, Prince: R U Listening? (documentary), Prince’s Last Year (documentary), Sheldon Lazarus, Van Jones ([mirror](https://web.archive.org/web/*/https://variety.com/2017/tv/news/princes-last-year-documentary-1202626889/))
 
 ----
 
- - [**"Robyne Robinson remembers Prince's Vikings song, playful side"**](https://www.thecurrent.org/feature/2017/11/30/robyne-robinson-remembers-princes-vikings-song-playful-side) in [The Current](https://www.thecurrent.org/) on 30 November 2017 about [airport](../../topics/airport/index.md), [Bob Dylan](../../topics/bob-dylan/index.md), [Dave Chappelle](../../topics/dave-chappelle/index.md), [Mayte](../../topics/mayte/index.md), [Minneapolis-St. Paul International Airport (place)](../../topics/place/minneapolis-st-paul-international-airport/index.md), [Purple and Gold (song)](../../topics/song/purple-and-gold/index.md), [Robyne Robinson](../../topics/robyne-robinson/index.md), [Super Bowl](../../topics/super-bowl/index.md) ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2017/11/30/robyne-robinson-remembers-princes-vikings-song-playful-side))
+ - [**"Robyne Robinson remembers Prince's Vikings song, playful side"**](https://www.thecurrent.org/feature/2017/11/30/robyne-robinson-remembers-princes-vikings-song-playful-side) in [The Current](https://www.thecurrent.org/) on 30 November 2017 about airport, Bob Dylan, Dave Chappelle, Mayte, Minneapolis-St. Paul International Airport (place), Purple and Gold (song), Robyne Robinson, Super Bowl ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2017/11/30/robyne-robinson-remembers-princes-vikings-song-playful-side))
 
 ----
 
- - [**"Alcohol permit sought for events at Prince’s Paisley Park"**](https://apnews.com/cd4a980b1fcb4c82aeb268b53dba06dc) in [Associated Press News](https://apnews.com/) on 29 November 2017 about [museum](../../topics/museum/index.md), [Super Bowl](../../topics/super-bowl/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/cd4a980b1fcb4c82aeb268b53dba06dc))
+ - [**"Alcohol permit sought for events at Prince’s Paisley Park"**](https://apnews.com/cd4a980b1fcb4c82aeb268b53dba06dc) in [Associated Press News](https://apnews.com/) on 29 November 2017 about museum, Super Bowl ([mirror](https://web.archive.org/web/*/https://apnews.com/cd4a980b1fcb4c82aeb268b53dba06dc))
 
 ----
 
- - [**"Minnesota Supreme Court rejects two Prince heirs"**](https://apnews.com/0ff4834801f741d5a5119c38e2286c02) in [Associated Press News](https://apnews.com/) on 29 November 2017 about [Alfred Jackson](../../topics/alfred-jackson/index.md), [fentanyl](../../topics/fentanyl/index.md), [John Nelson](../../topics/john-nelson/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/0ff4834801f741d5a5119c38e2286c02))
+ - [**"Minnesota Supreme Court rejects two Prince heirs"**](https://apnews.com/0ff4834801f741d5a5119c38e2286c02) in [Associated Press News](https://apnews.com/) on 29 November 2017 about Alfred Jackson, fentanyl, John Nelson, Norrine Nelson, Omarr Baker, Sharon Nelson, Tyka Nelson ([mirror](https://web.archive.org/web/*/https://apnews.com/0ff4834801f741d5a5119c38e2286c02))
 
 ----
 
@@ -48,31 +48,31 @@
 
 ----
 
- - [**"Prince estate alleges Roc Nation used a fraudulent contract to stream the artist's songs"**](http://www.startribune.com/prince-estate-alleges-roc-nation-used-a-fraudulent-contract-to-stream-the-artist-s-songs/456728283/) by David Chanen in [Minneapolis Star Tribune](http://www.startribune.com/) on 11 November 2017 about [contract](../../topics/contract/index.md), [Prince Estate](../../topics/prince-estate/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-estate-alleges-roc-nation-used-a-fraudulent-contract-to-stream-the-artist-s-songs/456728283/))
+ - [**"Prince estate alleges Roc Nation used a fraudulent contract to stream the artist's songs"**](http://www.startribune.com/prince-estate-alleges-roc-nation-used-a-fraudulent-contract-to-stream-the-artist-s-songs/456728283/) by David Chanen in [Minneapolis Star Tribune](http://www.startribune.com/) on 11 November 2017 about contract, Prince Estate ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-estate-alleges-roc-nation-used-a-fraudulent-contract-to-stream-the-artist-s-songs/456728283/))
 
 ----
 
- - [**"Prince's sound engineer, Susan Rogers: 'He needed to be the alpha male to get things done' -- One of a tiny number of female recording engineers, Rogers was there at birth of some of pop’s classics, including When Doves Cry. She recalls the man she knew – and shares her theory about why he loved working with women"**](https://www.theguardian.com/music/2017/nov/09/princes-sound-engineer-susan-rogers-he-needed-to-be-the-alpha-male-to-get-things-done) in [The Guardian](https://www.theguardian.com/) on 9 November 2017 about [Eric Clapton](../../topics/eric-clapton/index.md), [exhibit](../../topics/exhibit/index.md), [exhibition](../../topics/exhibition/index.md), [James Brown](../../topics/james-brown/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/music/2017/nov/09/princes-sound-engineer-susan-rogers-he-needed-to-be-the-alpha-male-to-get-things-done))
+ - [**"Prince's sound engineer, Susan Rogers: 'He needed to be the alpha male to get things done' -- One of a tiny number of female recording engineers, Rogers was there at birth of some of pop’s classics, including When Doves Cry. She recalls the man she knew – and shares her theory about why he loved working with women"**](https://www.theguardian.com/music/2017/nov/09/princes-sound-engineer-susan-rogers-he-needed-to-be-the-alpha-male-to-get-things-done) in [The Guardian](https://www.theguardian.com/) on 9 November 2017 about Eric Clapton, exhibit, exhibition, James Brown, Joni Mitchell, Lisa Coleman, Susan Rogers, Wendy Melvoin, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/music/2017/nov/09/princes-sound-engineer-susan-rogers-he-needed-to-be-the-alpha-male-to-get-things-done))
 
 ----
 
- - [**"AM Prep-Kickers -- PRINCE GUITAR"**](https://apnews.com/8045c44b70334e33bdcda7511ed769ae) in [Associated Press News](https://apnews.com/) on 7 November 2017 about [auction](../../topics/auction/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/8045c44b70334e33bdcda7511ed769ae))
+ - [**"AM Prep-Kickers -- PRINCE GUITAR"**](https://apnews.com/8045c44b70334e33bdcda7511ed769ae) in [Associated Press News](https://apnews.com/) on 7 November 2017 about auction ([mirror](https://web.archive.org/web/*/https://apnews.com/8045c44b70334e33bdcda7511ed769ae))
 
 ----
 
- - [**"Prince guitar auctioned for $700,000"**](https://apnews.com/3305278f51e8419a9c56fe24013761db) in [Associated Press News](https://apnews.com/) on 6 November 2017 about [auction](../../topics/auction/index.md), [Cloud guitar](../../topics/cloud-guitar/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/3305278f51e8419a9c56fe24013761db))
+ - [**"Prince guitar auctioned for $700,000"**](https://apnews.com/3305278f51e8419a9c56fe24013761db) in [Associated Press News](https://apnews.com/) on 6 November 2017 about auction, Cloud guitar ([mirror](https://web.archive.org/web/*/https://apnews.com/3305278f51e8419a9c56fe24013761db))
 
 ----
 
- - [**"Prince guitar fetches record $700K in auction"**](http://www.startribune.com/prince-guitar-fetches-record-700k-in-auction/455397973/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 6 November 2017 about [auction](../../topics/auction/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-guitar-fetches-record-700k-in-auction/455397973/))
+ - [**"Prince guitar fetches record $700K in auction"**](http://www.startribune.com/prince-guitar-fetches-record-700k-in-auction/455397973/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 6 November 2017 about auction ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-guitar-fetches-record-700k-in-auction/455397973/))
 
 ----
 
- - [**"Prince’s teal blue Cloud guitar auctioned for $700K"**](https://apnews.com/7b24e181a75149e88cad384d6d289b74) in [Associated Press News](https://apnews.com/) on 6 November 2017 about [auction](../../topics/auction/index.md), [Cloud guitar](../../topics/cloud-guitar/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/7b24e181a75149e88cad384d6d289b74))
+ - [**"Prince’s teal blue Cloud guitar auctioned for $700K"**](https://apnews.com/7b24e181a75149e88cad384d6d289b74) in [Associated Press News](https://apnews.com/) on 6 November 2017 about auction, Cloud guitar ([mirror](https://web.archive.org/web/*/https://apnews.com/7b24e181a75149e88cad384d6d289b74))
 
 ----
 
- - [**"Auction offers never-released Prince recordings, guitar, ex’s wedding dress"**](https://apnews.com/a37b4dffd41e4f0aa89ed41ee05e4185) by Paul Walsh in [Associated Press News](https://apnews.com/) on 5 November 2017 about [auction](../../topics/auction/index.md), [contract](../../topics/contract/index.md), [Got a Broken Heart Again (song)](../../topics/song/got-a-broken-heart-again/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Michael Kirk](../../topics/michael-kirk/index.md), [Owen Husney](../../topics/owen-husney/index.md), [Rave Un2 the Joy Fantastic (album)](../../topics/album/rave-un2-the-joy-fantastic/index.md), [Sometimes It Snows In April (song)](../../topics/song/sometimes-it-snows-in-april/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/a37b4dffd41e4f0aa89ed41ee05e4185))
+ - [**"Auction offers never-released Prince recordings, guitar, ex’s wedding dress"**](https://apnews.com/a37b4dffd41e4f0aa89ed41ee05e4185) by Paul Walsh in [Associated Press News](https://apnews.com/) on 5 November 2017 about auction, contract, Got a Broken Heart Again (song), Mayte, Mayte Garcia, Michael Kirk, Owen Husney, Rave Un2 the Joy Fantastic (album), Sometimes It Snows In April (song) ([mirror](https://web.archive.org/web/*/https://apnews.com/a37b4dffd41e4f0aa89ed41ee05e4185))
 
 ----
 
@@ -80,13 +80,13 @@
 
 ----
 
- - [**"Andre Cymone: 'Love for a Friend' -- Prince's childhood friend and earliest collaborator on the Purple One and making a protest album"**](https://www.washingtontimes.com/news/2017/nov/1/prince-former-bandmate-andre-cymone-discusses-join/) in [Washington Times](https://www.washingtontimes.com/) on 1 November 2017 about [New Power Generation](../../topics/new-power-generation/index.md) ([mirror](https://web.archive.org/web/*/https://www.washingtontimes.com/news/2017/nov/1/prince-former-bandmate-andre-cymone-discusses-join/))
+ - [**"Andre Cymone: 'Love for a Friend' -- Prince's childhood friend and earliest collaborator on the Purple One and making a protest album"**](https://www.washingtontimes.com/news/2017/nov/1/prince-former-bandmate-andre-cymone-discusses-join/) in [Washington Times](https://www.washingtontimes.com/) on 1 November 2017 about New Power Generation ([mirror](https://web.archive.org/web/*/https://www.washingtontimes.com/news/2017/nov/1/prince-former-bandmate-andre-cymone-discusses-join/))
 
 ----
 
 ## October 2017 (9)
 
- - [**"AM Prep-Segue -- PRINCE HEIRS COMPLAIN ABOUT EXECUTOR"**](https://apnews.com/1a747d45ed414fbe9752c5b2c7e2063f) in [Associated Press News](https://apnews.com/) on 31 October 2017 about [Comerica Bank & Trust](../../topics/comerica-bank-trust/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/1a747d45ed414fbe9752c5b2c7e2063f))
+ - [**"AM Prep-Segue -- PRINCE HEIRS COMPLAIN ABOUT EXECUTOR"**](https://apnews.com/1a747d45ed414fbe9752c5b2c7e2063f) in [Associated Press News](https://apnews.com/) on 31 October 2017 about Comerica Bank & Trust, John R. Nelson, vault ([mirror](https://web.archive.org/web/*/https://apnews.com/1a747d45ed414fbe9752c5b2c7e2063f))
 
 ----
 
@@ -96,37 +96,37 @@
 
 ----
 
- - [**"3 Prince heirs ask judge to remove estate administrator"**](https://apnews.com/0ab4827f56ec45b6be9ace1fbceadd95) in [Associated Press News](https://apnews.com/) on 30 October 2017 about [Comerica Bank & Trust](../../topics/comerica-bank-trust/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/0ab4827f56ec45b6be9ace1fbceadd95))
+ - [**"3 Prince heirs ask judge to remove estate administrator"**](https://apnews.com/0ab4827f56ec45b6be9ace1fbceadd95) in [Associated Press News](https://apnews.com/) on 30 October 2017 about Comerica Bank & Trust, John R. Nelson ([mirror](https://web.archive.org/web/*/https://apnews.com/0ab4827f56ec45b6be9ace1fbceadd95))
 
 ----
 
- - [**"AM Prep-Music -- PRINCE’S PERSONAL ITEMS GO ON DISPLAY IN LONDON"**](https://apnews.com/28703b322bd34762b8d47ec043e9c98a) in [Associated Press News](https://apnews.com/) on 27 October 2017 about [London (place)](../../topics/place/london/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/28703b322bd34762b8d47ec043e9c98a))
+ - [**"AM Prep-Music -- PRINCE’S PERSONAL ITEMS GO ON DISPLAY IN LONDON"**](https://apnews.com/28703b322bd34762b8d47ec043e9c98a) in [Associated Press News](https://apnews.com/) on 27 October 2017 about London (place) ([mirror](https://web.archive.org/web/*/https://apnews.com/28703b322bd34762b8d47ec043e9c98a))
 
 ----
 
- - [**"PM Prep-Segue -- PRINCE - LONDON EXHIBIT"**](https://apnews.com/14ea8830aab74985b945aa5fe84d601b) in [Associated Press News](https://apnews.com/) on 26 October 2017 about [exhibition](../../topics/exhibition/index.md), [London (place)](../../topics/place/london/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/14ea8830aab74985b945aa5fe84d601b))
+ - [**"PM Prep-Segue -- PRINCE - LONDON EXHIBIT"**](https://apnews.com/14ea8830aab74985b945aa5fe84d601b) in [Associated Press News](https://apnews.com/) on 26 October 2017 about exhibition, London (place) ([mirror](https://web.archive.org/web/*/https://apnews.com/14ea8830aab74985b945aa5fe84d601b))
 
 ----
 
- - [**"Prince exhibition in London dubbed ‘miniature Paisley Park’"**](https://apnews.com/addbfdacbdd04a7288d8aab8806575e2) in [Associated Press News](https://apnews.com/) on 26 October 2017 about [exhibition](../../topics/exhibition/index.md), [museum](../../topics/museum/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/addbfdacbdd04a7288d8aab8806575e2))
+ - [**"Prince exhibition in London dubbed ‘miniature Paisley Park’"**](https://apnews.com/addbfdacbdd04a7288d8aab8806575e2) in [Associated Press News](https://apnews.com/) on 26 October 2017 about exhibition, museum, Tyka Nelson ([mirror](https://web.archive.org/web/*/https://apnews.com/addbfdacbdd04a7288d8aab8806575e2))
 
 ----
 
- - [**"Michael Jackson’s glove, Nirvana’s MTV moon man up for bid"**](https://apnews.com/2ce5075522554dca83f0b6b384c122eb) in [Associated Press News](https://apnews.com/) on 13 October 2017 about [auction](../../topics/auction/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/2ce5075522554dca83f0b6b384c122eb))
+ - [**"Michael Jackson’s glove, Nirvana’s MTV moon man up for bid"**](https://apnews.com/2ce5075522554dca83f0b6b384c122eb) in [Associated Press News](https://apnews.com/) on 13 October 2017 about auction ([mirror](https://web.archive.org/web/*/https://apnews.com/2ce5075522554dca83f0b6b384c122eb))
 
 ----
 
- - [**"APNewsBreak: Prince tapes moved to California; 2 heirs angry"**](https://apnews.com/7fc066b10aa546e2977a0a85fc8ecb3b) in [Associated Press News](https://apnews.com/) on 12 October 2017 about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Carver County](../../topics/carver-county/index.md), [Comerica Bank & Trust](../../topics/comerica-bank-trust/index.md), [Iron Mountain](../../topics/iron-mountain/index.md), [Iron Mountain Entertainment Services](../../topics/iron-mountain-entertainment-services/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [museum](../../topics/museum/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/7fc066b10aa546e2977a0a85fc8ecb3b))
+ - [**"APNewsBreak: Prince tapes moved to California; 2 heirs angry"**](https://apnews.com/7fc066b10aa546e2977a0a85fc8ecb3b) in [Associated Press News](https://apnews.com/) on 12 October 2017 about Alfred Jackson, Carver County, Comerica Bank & Trust, Iron Mountain, Iron Mountain Entertainment Services, John R. Nelson, Kevin Eide, museum, Norrine Nelson, Omarr Baker, Sharon Nelson, Tyka Nelson ([mirror](https://web.archive.org/web/*/https://apnews.com/7fc066b10aa546e2977a0a85fc8ecb3b))
 
 ----
 
- - [**"Prince tapes moved to California; 2 heirs angry"**](http://www.startribune.com/apnewsbreak-prince-tapes-moved-to-california-heirs-miffed/450496873/) by Steve Karnowski (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 October 2017 about [Iron Mountain](../../topics/iron-mountain/index.md), [Iron Mountain Entertainment Services](../../topics/iron-mountain-entertainment-services/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/apnewsbreak-prince-tapes-moved-to-california-heirs-miffed/450496873/))
+ - [**"Prince tapes moved to California; 2 heirs angry"**](http://www.startribune.com/apnewsbreak-prince-tapes-moved-to-california-heirs-miffed/450496873/) by Steve Karnowski (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 October 2017 about Iron Mountain, Iron Mountain Entertainment Services ([mirror](https://web.archive.org/web/*/http://www.startribune.com/apnewsbreak-prince-tapes-moved-to-california-heirs-miffed/450496873/))
 
 ----
 
 ## September 2017 (4)
 
- - [**"From Prince To Paul McCartney To Bruno Mars, LeRoy Bennett Is the Man"**](https://www.forbes.com/sites/stevebaltin/2017/09/21/from-prince-to-paul-mccartney-to-bruno-mars-leroy-bennett-is-the-man/) by Steve Baltin in [Forbes](https://www.forbes.com/) on 21 September 2017 about [Dirty Mind (album)](../../topics/album/dirty-mind/index.md), [LeRoy Bennett](../../topics/leroy-bennett/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Purple Rain (tour)](../../topics/tour/purple-rain/index.md) ([mirror](https://web.archive.org/web/*/https://www.forbes.com/sites/stevebaltin/2017/09/21/from-prince-to-paul-mccartney-to-bruno-mars-leroy-bennett-is-the-man/))
+ - [**"From Prince To Paul McCartney To Bruno Mars, LeRoy Bennett Is the Man"**](https://www.forbes.com/sites/stevebaltin/2017/09/21/from-prince-to-paul-mccartney-to-bruno-mars-leroy-bennett-is-the-man/) by Steve Baltin in [Forbes](https://www.forbes.com/) on 21 September 2017 about Dirty Mind (album), LeRoy Bennett, Purple Rain (movie), Purple Rain (tour) ([mirror](https://web.archive.org/web/*/https://www.forbes.com/sites/stevebaltin/2017/09/21/from-prince-to-paul-mccartney-to-bruno-mars-leroy-bennett-is-the-man/))
 
 ----
 
@@ -134,17 +134,17 @@
 
 ----
 
- - [**"Transformative Use v. Derivative Use:  Will the Outcome of a Recent Lawsuit Test the Limits of Fair Use Doctrine, or Result in a Free-for-all?"**](https://www.asmp.org/legal/transformative-use-v-derivative-use-will-outcome-recent-lawsuit-test-limits-fair-use-doctrine-result-free/) by ASMP, Sammetria Goodson, Thomas Maddrey in [ASMP -- American Society of Media Photographers](https://www.asmp.org/) on 5 September 2017 about [Andy Warhol](../../topics/andy-warhol/index.md), [Lynn Goldsmith](../../topics/lynn-goldsmith/index.md), [Prince Series](../../topics/prince-series/index.md), [Vanity Fair (magazine)](../../topics/magazine/vanity-fair/index.md) ([mirror](https://web.archive.org/web/*/https://www.asmp.org/legal/transformative-use-v-derivative-use-will-outcome-recent-lawsuit-test-limits-fair-use-doctrine-result-free/))
+ - [**"Transformative Use v. Derivative Use:  Will the Outcome of a Recent Lawsuit Test the Limits of Fair Use Doctrine, or Result in a Free-for-all?"**](https://www.asmp.org/legal/transformative-use-v-derivative-use-will-outcome-recent-lawsuit-test-limits-fair-use-doctrine-result-free/) by ASMP, Sammetria Goodson, Thomas Maddrey in [ASMP -- American Society of Media Photographers](https://www.asmp.org/) on 5 September 2017 about Andy Warhol, Lynn Goldsmith, Prince Series, Vanity Fair (magazine) ([mirror](https://web.archive.org/web/*/https://www.asmp.org/legal/transformative-use-v-derivative-use-will-outcome-recent-lawsuit-test-limits-fair-use-doctrine-result-free/))
 
 ----
 
- - [**"Prince’s other sister: Purple was his color, not orange"**](https://apnews.com/4d22688b86214d839d01281d61cf3775) in [Associated Press News](https://apnews.com/) on 1 September 2017 about [Alfred Jackson](../../topics/alfred-jackson/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [London (place)](../../topics/place/london/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [orange](../../topics/orange/index.md), [Pantone Color Institute](../../topics/pantone-color-institute/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/4d22688b86214d839d01281d61cf3775))
+ - [**"Prince’s other sister: Purple was his color, not orange"**](https://apnews.com/4d22688b86214d839d01281d61cf3775) in [Associated Press News](https://apnews.com/) on 1 September 2017 about Alfred Jackson, John R. Nelson, London (place), Norrine Nelson, Omarr Baker, orange, Pantone Color Institute, Sharon Nelson, Tyka Nelson, Warner Bros. Records ([mirror](https://web.archive.org/web/*/https://apnews.com/4d22688b86214d839d01281d61cf3775))
 
 ----
 
 ## August 2017 (18)
 
- - [**"For $160, you get to hold Prince's guitar on 3-hour 'Ultimate' Paisley Park tour -- Is the new "Ultimate Experience" at Prince's museum worth $160?"**](http://www.startribune.com/for-160-you-get-to-hold-prince-s-guitar-on-3-hour-ultimate-paisley-park-tour/441644933/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 24 August 2017 about [museum](../../topics/museum/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/for-160-you-get-to-hold-prince-s-guitar-on-3-hour-ultimate-paisley-park-tour/441644933/))
+ - [**"For $160, you get to hold Prince's guitar on 3-hour 'Ultimate' Paisley Park tour -- Is the new "Ultimate Experience" at Prince's museum worth $160?"**](http://www.startribune.com/for-160-you-get-to-hold-prince-s-guitar-on-3-hour-ultimate-paisley-park-tour/441644933/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 24 August 2017 about museum ([mirror](https://web.archive.org/web/*/http://www.startribune.com/for-160-you-get-to-hold-prince-s-guitar-on-3-hour-ultimate-paisley-park-tour/441644933/))
 
 ----
 
@@ -152,7 +152,7 @@
 
 ----
 
- - [**"Showtime to air rare Prince music film, ‘Sign O’ the Times’"**](https://apnews.com/b4bf1e11d2ea4d0d81d744c92dffaaee) in [Associated Press News](https://apnews.com/) on 23 August 2017 about [The Revolution](../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/b4bf1e11d2ea4d0d81d744c92dffaaee))
+ - [**"Showtime to air rare Prince music film, ‘Sign O’ the Times’"**](https://apnews.com/b4bf1e11d2ea4d0d81d744c92dffaaee) in [Associated Press News](https://apnews.com/) on 23 August 2017 about The Revolution ([mirror](https://web.archive.org/web/*/https://apnews.com/b4bf1e11d2ea4d0d81d744c92dffaaee))
 
 ----
 
@@ -174,11 +174,11 @@
 
 ----
 
- - [**"Coldplay pulls for the color purple at U.S. Bank Stadium -- The British band put on a colorful spectacle with shout-outs to the Vikings and Prince at U.S. Bank Stadium."**](http://www.startribune.com/coldplay-pulls-for-the-color-purple-at-u-s-bank-stadium/440125493/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 13 August 2017 about [First Avenue (place)](../../topics/place/first-avenue/index.md), [London (place)](../../topics/place/london/index.md), [Super Bowl](../../topics/super-bowl/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/coldplay-pulls-for-the-color-purple-at-u-s-bank-stadium/440125493/))
+ - [**"Coldplay pulls for the color purple at U.S. Bank Stadium -- The British band put on a colorful spectacle with shout-outs to the Vikings and Prince at U.S. Bank Stadium."**](http://www.startribune.com/coldplay-pulls-for-the-color-purple-at-u-s-bank-stadium/440125493/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 13 August 2017 about First Avenue (place), London (place), Super Bowl ([mirror](https://web.archive.org/web/*/http://www.startribune.com/coldplay-pulls-for-the-color-purple-at-u-s-bank-stadium/440125493/))
 
 ----
 
- - [**"Jazz legend Herbie Hancock talks music, recovery and partying with Prince                                     -- Jazz giant Herbie Hancock is working on an album with Snoop and Pharrell; he'll preview it at the Minnesota Zoo. "**](http://www.startribune.com/jazz-legend-herbie-hancock-talks-music-recovery-and-partying-with-prince/439675873/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 August 2017 about [Joni Mitchell](../../topics/joni-mitchell/index.md), [memoir](../../topics/memoir/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Trump](../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/jazz-legend-herbie-hancock-talks-music-recovery-and-partying-with-prince/439675873/))
+ - [**"Jazz legend Herbie Hancock talks music, recovery and partying with Prince                                     -- Jazz giant Herbie Hancock is working on an album with Snoop and Pharrell; he'll preview it at the Minnesota Zoo. "**](http://www.startribune.com/jazz-legend-herbie-hancock-talks-music-recovery-and-partying-with-prince/439675873/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 August 2017 about Joni Mitchell, memoir, Miles Davis, Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/jazz-legend-herbie-hancock-talks-music-recovery-and-partying-with-prince/439675873/))
 
 ----
 
@@ -204,11 +204,11 @@
 
 ----
 
- - [**"Ex-Prince guitarist Donna Grantis creates big fun with jazz-rock fusion group"**](http://www.startribune.com/ex-prince-guitarist-donna-grantis-creates-big-fun-with-jazz-rock-fusion-group/438738623/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 August 2017 about [Donna Grantis](../../topics/donna-grantis/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/ex-prince-guitarist-donna-grantis-creates-big-fun-with-jazz-rock-fusion-group/438738623/))
+ - [**"Ex-Prince guitarist Donna Grantis creates big fun with jazz-rock fusion group"**](http://www.startribune.com/ex-prince-guitarist-donna-grantis-creates-big-fun-with-jazz-rock-fusion-group/438738623/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 August 2017 about Donna Grantis ([mirror](https://web.archive.org/web/*/http://www.startribune.com/ex-prince-guitarist-donna-grantis-creates-big-fun-with-jazz-rock-fusion-group/438738623/))
 
 ----
 
- - [**"Prince’s band, The Revolution, pays tribute to him at Mohegan Sun’s Wolf Den"**](https://apnews.com/adb446ee03a044f8a94e407e19646fdd) in [Associated Press News](https://apnews.com/) on 5 August 2017 about [1999 (album)](../../topics/album/1999/index.md), [Bobby Z.](../../topics/bobby-z/index.md), [BrownMark](../../topics/brownmark/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Parade (album)](../../topics/album/parade/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [The Revolution](../../topics/the-revolution/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/adb446ee03a044f8a94e407e19646fdd))
+ - [**"Prince’s band, The Revolution, pays tribute to him at Mohegan Sun’s Wolf Den"**](https://apnews.com/adb446ee03a044f8a94e407e19646fdd) in [Associated Press News](https://apnews.com/) on 5 August 2017 about 1999 (album), Bobby Z., BrownMark, Lisa Coleman, Parade (album), Purple Rain (album), The Revolution, Warner Bros. Records, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://apnews.com/adb446ee03a044f8a94e407e19646fdd))
 
 ----
 
@@ -218,7 +218,7 @@
 
 ----
 
- - [**"Remembering Margo Chase, letter alchemist"**](https://www.typenetwork.com/news/article/remembering-margo-chase-letter-alchemist) in [TypeNetwork](https://www.typenetwork.com/) on 2 August 2017 about [Around The World In A Day (album)](../../topics/album/around-the-world-in-a-day/index.md), [Graffiti Bridge (album)](../../topics/album/graffiti-bridge/index.md), [Laura LiPuma](../../topics/laura-lipuma/index.md), [Lovesexy (album)](../../topics/album/lovesexy/index.md), [Margo Chase](../../topics/margo-chase/index.md), [Mazarati](../../topics/mazarati/index.md), [Sheila E.](../../topics/sheila-e/index.md) ([mirror](https://web.archive.org/web/*/https://www.typenetwork.com/news/article/remembering-margo-chase-letter-alchemist))
+ - [**"Remembering Margo Chase, letter alchemist"**](https://www.typenetwork.com/news/article/remembering-margo-chase-letter-alchemist) in [TypeNetwork](https://www.typenetwork.com/) on 2 August 2017 about Around The World In A Day (album), Graffiti Bridge (album), Laura LiPuma, Lovesexy (album), Margo Chase, Mazarati, Sheila E. ([mirror](https://web.archive.org/web/*/https://www.typenetwork.com/news/article/remembering-margo-chase-letter-alchemist))
 
 ----
 
@@ -228,11 +228,11 @@
 
 ----
 
- - [**"Former Prince guitarist Donna Grantis debuts genre-bending band in Minneapolis -- Former Prince guitarist Donna Grantis will debut her new instrumental project on Friday."**](http://www.startribune.com/former-prince-guitarist-donna-grantis-debuts-genre-bending-band-in-minneapolis/437048403/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 29 July 2017 about [Donna Grantis](../../topics/donna-grantis/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/former-prince-guitarist-donna-grantis-debuts-genre-bending-band-in-minneapolis/437048403/))
+ - [**"Former Prince guitarist Donna Grantis debuts genre-bending band in Minneapolis -- Former Prince guitarist Donna Grantis will debut her new instrumental project on Friday."**](http://www.startribune.com/former-prince-guitarist-donna-grantis-debuts-genre-bending-band-in-minneapolis/437048403/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 29 July 2017 about Donna Grantis ([mirror](https://web.archive.org/web/*/http://www.startribune.com/former-prince-guitarist-donna-grantis-debuts-genre-bending-band-in-minneapolis/437048403/))
 
 ----
 
- - [**"'Purple Rain': THR's 1984 Review"**](https://www.hollywoodreporter.com/review/purple-rain-review-1984-movie-1024852) in [The Hollywood Reporter](https://www.hollywoodreporter.com/) on 27 July 2017 about [Albert Magnoli](../../topics/albert-magnoli/index.md), [Anne McCulley](../../topics/anne-mcculley/index.md), [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Donald L. Thorin](../../topics/donald-l-thorin/index.md), [Jerome Benton](../../topics/jerome-benton/index.md), [Ken Robinson](../../topics/ken-robinson/index.md), [Morris Day](../../topics/morris-day/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md), [William Blinn](../../topics/william-blinn/index.md) ([mirror](https://web.archive.org/web/*/https://www.hollywoodreporter.com/review/purple-rain-review-1984-movie-1024852))
+ - [**"'Purple Rain': THR's 1984 Review"**](https://www.hollywoodreporter.com/review/purple-rain-review-1984-movie-1024852) in [The Hollywood Reporter](https://www.hollywoodreporter.com/) on 27 July 2017 about Albert Magnoli, Anne McCulley, Apollonia Kotero, Donald L. Thorin, Jerome Benton, Ken Robinson, Morris Day, Purple Rain (movie), The Revolution, The Time, William Blinn ([mirror](https://web.archive.org/web/*/https://www.hollywoodreporter.com/review/purple-rain-review-1984-movie-1024852))
 
 ----
 
@@ -246,11 +246,11 @@
 
  - [**"
                                             Minnesota judge cancels Universal deal with Prince estate
-                                    "**](http://www.startribune.com/minnesota-judge-cancels-universal-deal-with-prince-estate/434374993/) by Jeff Baenen (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 14 July 2017 about [Prince Estate](../../topics/prince-estate/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/minnesota-judge-cancels-universal-deal-with-prince-estate/434374993/))
+                                    "**](http://www.startribune.com/minnesota-judge-cancels-universal-deal-with-prince-estate/434374993/) by Jeff Baenen (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 14 July 2017 about Prince Estate ([mirror](https://web.archive.org/web/*/http://www.startribune.com/minnesota-judge-cancels-universal-deal-with-prince-estate/434374993/))
 
 ----
 
- - [**"AM Prep-Music -- PRINCE - ESTATE"**](https://apnews.com/6ec81cc98f52428685fae3cfe951c6c0) in [Associated Press News](https://apnews.com/) on 14 July 2017 about [Carver County](../../topics/carver-county/index.md), [contract](../../topics/contract/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Universal Music Group](../../topics/universal-music-group/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/6ec81cc98f52428685fae3cfe951c6c0))
+ - [**"AM Prep-Music -- PRINCE - ESTATE"**](https://apnews.com/6ec81cc98f52428685fae3cfe951c6c0) in [Associated Press News](https://apnews.com/) on 14 July 2017 about Carver County, contract, Kevin Eide, Universal Music Group, Warner Bros. Records ([mirror](https://web.archive.org/web/*/https://apnews.com/6ec81cc98f52428685fae3cfe951c6c0))
 
 ----
 
@@ -258,11 +258,11 @@
 
 ----
 
- - [**"Longtime Prince drummer John Blackwell Jr. dies at 43"**](https://usatoday.com/story/life/music/2017/07/04/longtime-prince-drummer-john-blackwell-jr-dies/103425914/) in [USA Today](https://usatoday.com/) on 5 July 2017 about [John Blackwell Jr.](../../topics/john-blackwell-jr/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [Morris Day](../../topics/morris-day/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Sheila E.](../../topics/sheila-e/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2017/07/04/longtime-prince-drummer-john-blackwell-jr-dies/103425914/))
+ - [**"Longtime Prince drummer John Blackwell Jr. dies at 43"**](https://usatoday.com/story/life/music/2017/07/04/longtime-prince-drummer-john-blackwell-jr-dies/103425914/) in [USA Today](https://usatoday.com/) on 5 July 2017 about John Blackwell Jr., Justin Timberlake, Morris Day, New Power Generation, Sheila E. ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2017/07/04/longtime-prince-drummer-john-blackwell-jr-dies/103425914/))
 
 ----
 
- - [**"Prince's drummer for more than a decade, John Blackwell Jr. dies at 43 -- John Blackwell, Jr., longtime drummer for Prince, died Tuesday after being diagnosed with a brain tumor one year ago. He was 43."**](http://www.startribune.com/prince-s-drummer-for-more-than-a-decade-john-blackwell-jr-dies-at-43/432674483/) by TheWrap in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 July 2017 about [John Blackwell Jr.](../../topics/john-blackwell-jr/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [Morris Day](../../topics/morris-day/index.md), [New Power Generation](../../topics/new-power-generation/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-drummer-for-more-than-a-decade-john-blackwell-jr-dies-at-43/432674483/))
+ - [**"Prince's drummer for more than a decade, John Blackwell Jr. dies at 43 -- John Blackwell, Jr., longtime drummer for Prince, died Tuesday after being diagnosed with a brain tumor one year ago. He was 43."**](http://www.startribune.com/prince-s-drummer-for-more-than-a-decade-john-blackwell-jr-dies-at-43/432674483/) by TheWrap in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 July 2017 about John Blackwell Jr., Justin Timberlake, Morris Day, New Power Generation ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-drummer-for-more-than-a-decade-john-blackwell-jr-dies-at-43/432674483/))
 
 ----
 
@@ -280,27 +280,27 @@
 
 ----
 
- - [**"Minnesota's best albums of the year (so far): Chastity Brown, Romantica, Brother Ali, Lady Midnight -- This year's 10 albums includes several artists who saw their patience pay off."**](http://www.startribune.com/minnesota-s-best-albums-of-the-year-so-far-brother-ali-chastity-brown-romantica-prince/431623233/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 30 June 2017 about [17 Days (song)](../../topics/song/17-days/index.md), [bootleg](../../topics/bootleg/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Our Destiny (song)](../../topics/song/our-destiny/index.md), [Possessed (song)](../../topics/song/possessed/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Roadhouse Garden (song)](../../topics/song/roadhouse-garden/index.md), [The Beautiful Ones (song)](../../topics/song/the-beautiful-ones/index.md), [The Revolution](../../topics/the-revolution/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/minnesota-s-best-albums-of-the-year-so-far-brother-ali-chastity-brown-romantica-prince/431623233/))
+ - [**"Minnesota's best albums of the year (so far): Chastity Brown, Romantica, Brother Ali, Lady Midnight -- This year's 10 albums includes several artists who saw their patience pay off."**](http://www.startribune.com/minnesota-s-best-albums-of-the-year-so-far-brother-ali-chastity-brown-romantica-prince/431623233/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 30 June 2017 about 17 Days (song), bootleg, First Avenue (place), Our Destiny (song), Possessed (song), Purple Rain (album), Roadhouse Garden (song), The Beautiful Ones (song), The Revolution, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/minnesota-s-best-albums-of-the-year-so-far-brother-ali-chastity-brown-romantica-prince/431623233/))
 
 ----
 
- - [**"Song from Prince’s father being released on his 101st b’day"**](https://apnews.com/229ffc268c5e4b1ca1eef644539b5247) in [Associated Press News](https://apnews.com/) on 29 June 2017 about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Computer Blue (song)](../../topics/song/computer-blue/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [John Nelson](../../topics/john-nelson/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/229ffc268c5e4b1ca1eef644539b5247))
+ - [**"Song from Prince’s father being released on his 101st b’day"**](https://apnews.com/229ffc268c5e4b1ca1eef644539b5247) in [Associated Press News](https://apnews.com/) on 29 June 2017 about Alfred Jackson, Computer Blue (song), John L. Nelson, John Nelson, John R. Nelson, Norrine Nelson, Omarr Baker, Purple Rain (song), Sharon Nelson, Tyka Nelson ([mirror](https://web.archive.org/web/*/https://apnews.com/229ffc268c5e4b1ca1eef644539b5247))
 
 ----
 
- - [**"Song from Prince's father being released on his 101st b'day"**](http://www.startribune.com/song-from-prince-s-father-being-released-on-his-101th-b-day/431373963/) by Mesfin Fekadu (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 28 June 2017 about [John L. Nelson](../../topics/john-l-nelson/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/song-from-prince-s-father-being-released-on-his-101th-b-day/431373963/))
+ - [**"Song from Prince's father being released on his 101st b'day"**](http://www.startribune.com/song-from-prince-s-father-being-released-on-his-101th-b-day/431373963/) by Mesfin Fekadu (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 28 June 2017 about John L. Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/song-from-prince-s-father-being-released-on-his-101th-b-day/431373963/))
 
 ----
 
- - [**"Universal presses bid to void music deal with Prince estate"**](http://www.startribune.com/universal-presses-bid-to-void-music-deal-with-prince-estate/431156123/) by Steve Karnowski (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 27 June 2017 about [Prince Estate](../../topics/prince-estate/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/universal-presses-bid-to-void-music-deal-with-prince-estate/431156123/))
+ - [**"Universal presses bid to void music deal with Prince estate"**](http://www.startribune.com/universal-presses-bid-to-void-music-deal-with-prince-estate/431156123/) by Steve Karnowski (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 27 June 2017 about Prince Estate ([mirror](https://web.archive.org/web/*/http://www.startribune.com/universal-presses-bid-to-void-music-deal-with-prince-estate/431156123/))
 
 ----
 
- - [**"Prince’s Purple Downpour: A Review of the Expanded “Purple Rain”"**](https://www.newyorker.com/culture/culture-desk/princes-purple-downpour-a-review-of-the-expanded-purple-rain) in [The New Yorker](https://www.newyorker.com/) on 25 June 2017 about [17 Days (song)](../../topics/song/17-days/index.md), [André Cymone](../../topics/andr-cymone/index.md), [Baby I’m a Star (song)](../../topics/song/baby-i-m-a-star/index.md), [Computer Blue (song)](../../topics/song/computer-blue/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [Erotic City (song)](../../topics/song/erotic-city/index.md), [George Clinton](../../topics/george-clinton/index.md), [Horny Toad (song)](../../topics/song/horny-toad/index.md), [How Come U Don’t Call Me Anymore? (song)](../../topics/song/how-come-u-don-t-call-me-anymore/index.md), [I Would Die 4 U (song)](../../topics/song/i-would-die-4-u/index.md), [Irresistible Bitch (song)](../../topics/song/irresistible-bitch/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Katrina’s Paper Dolls (song)](../../topics/song/katrina-s-paper-dolls/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Love and Sex (song)](../../topics/song/love-and-sex/index.md), [Miles Davis](../../topics/miles-davis/index.md), [motorcycle](../../topics/motorcycle/index.md), [Our Destiny (song)](../../topics/song/our-destiny/index.md), [Possessed (song)](../../topics/song/possessed/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Roadhouse Garden (song)](../../topics/song/roadhouse-garden/index.md), [The Beautiful Ones (song)](../../topics/song/the-beautiful-ones/index.md), [The Dance Electric (song)](../../topics/song/the-dance-electric/index.md), [The Revolution](../../topics/the-revolution/index.md), [vault](../../topics/vault/index.md), [Velvet Kitty Cat (song)](../../topics/song/velvet-kitty-cat/index.md), [Wednesday (song)](../../topics/song/wednesday/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md), [Wonderful Ass (song)](../../topics/song/wonderful-ass/index.md) ([mirror](https://web.archive.org/web/*/https://www.newyorker.com/culture/culture-desk/princes-purple-downpour-a-review-of-the-expanded-purple-rain))
+ - [**"Prince’s Purple Downpour: A Review of the Expanded “Purple Rain”"**](https://www.newyorker.com/culture/culture-desk/princes-purple-downpour-a-review-of-the-expanded-purple-rain) in [The New Yorker](https://www.newyorker.com/) on 25 June 2017 about 17 Days (song), André Cymone, Baby I’m a Star (song), Computer Blue (song), Darling Nikki (song), Erotic City (song), George Clinton, Horny Toad (song), How Come U Don’t Call Me Anymore? (song), I Would Die 4 U (song), Irresistible Bitch (song), Jill Jones, Katrina’s Paper Dolls (song), Let’s Go Crazy (song), Lisa Coleman, Love and Sex (song), Miles Davis, motorcycle, Our Destiny (song), Possessed (song), Purple Rain (album), Purple Rain (song), Roadhouse Garden (song), The Beautiful Ones (song), The Dance Electric (song), The Revolution, vault, Velvet Kitty Cat (song), Wednesday (song), Wendy Melvoin, When Doves Cry (song), Wonderful Ass (song) ([mirror](https://web.archive.org/web/*/https://www.newyorker.com/culture/culture-desk/princes-purple-downpour-a-review-of-the-expanded-purple-rain))
 
 ----
 
- - [**"China bans more synthetic opioids blamed for US drug deaths"**](https://apnews.com/421285a512ab4793ad1428f586e7e05a) in [Associated Press News](https://apnews.com/) on 19 June 2017 about [fentanyl](../../topics/fentanyl/index.md), [U-47700](../../topics/u-47700/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/421285a512ab4793ad1428f586e7e05a))
+ - [**"China bans more synthetic opioids blamed for US drug deaths"**](https://apnews.com/421285a512ab4793ad1428f586e7e05a) in [Associated Press News](https://apnews.com/) on 19 June 2017 about fentanyl, U-47700 ([mirror](https://web.archive.org/web/*/https://apnews.com/421285a512ab4793ad1428f586e7e05a))
 
 ----
 
@@ -312,11 +312,11 @@
 
 ----
 
- - [**"Exclusive Preview: Prince’s ‘Purple Rain’ Deluxe Edition, With Previously Unreleased Tracks"**](https://variety.com/2017/film/news/prince-purple-rain-deluxe-edition-exclusive-preview-1202463200/) by Jem Aswad in [Variety](https://variety.com/) on 13 June 2017 about [17 Days (song)](../../topics/song/17-days/index.md), [Around The World In A Day (album)](../../topics/album/around-the-world-in-a-day/index.md), [Computer Blue (song)](../../topics/song/computer-blue/index.md), [Erotic City (song)](../../topics/song/erotic-city/index.md), [I Would Die 4 U (song)](../../topics/song/i-would-die-4-u/index.md), [James Brown](../../topics/james-brown/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [Katrina’s Paper Dolls (song)](../../topics/song/katrina-s-paper-dolls/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Love and Sex (song)](../../topics/song/love-and-sex/index.md), [Our Destiny (song)](../../topics/song/our-destiny/index.md), [Possessed (song)](../../topics/song/possessed/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Roadhouse Garden (song)](../../topics/song/roadhouse-garden/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Beautiful Ones (song)](../../topics/song/the-beautiful-ones/index.md), [The Dance Electric (song)](../../topics/song/the-dance-electric/index.md), [Velvet Kitty Cat (song)](../../topics/song/velvet-kitty-cat/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md), [Wonderful Ass (song)](../../topics/song/wonderful-ass/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2017/film/news/prince-purple-rain-deluxe-edition-exclusive-preview-1202463200/))
+ - [**"Exclusive Preview: Prince’s ‘Purple Rain’ Deluxe Edition, With Previously Unreleased Tracks"**](https://variety.com/2017/film/news/prince-purple-rain-deluxe-edition-exclusive-preview-1202463200/) by Jem Aswad in [Variety](https://variety.com/) on 13 June 2017 about 17 Days (song), Around The World In A Day (album), Computer Blue (song), Erotic City (song), I Would Die 4 U (song), James Brown, John L. Nelson, Katrina’s Paper Dolls (song), Let’s Go Crazy (song), Lisa Coleman, Love and Sex (song), Our Destiny (song), Possessed (song), Purple Rain (album), Purple Rain (song), Roadhouse Garden (song), Sheila E., The Beautiful Ones (song), The Dance Electric (song), Velvet Kitty Cat (song), When Doves Cry (song), Wonderful Ass (song) ([mirror](https://web.archive.org/web/*/https://variety.com/2017/film/news/prince-purple-rain-deluxe-edition-exclusive-preview-1202463200/))
 
 ----
 
- - [**"Prince Day celebration brings fans to Rock Hall of Fame"**](http://www.startribune.com/prince-day-celebration-brings-fans-to-rock-hall-of-fame/427257111/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 8 June 2017 about [Prince Day](../../topics/prince-day/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-day-celebration-brings-fans-to-rock-hall-of-fame/427257111/))
+ - [**"Prince Day celebration brings fans to Rock Hall of Fame"**](http://www.startribune.com/prince-day-celebration-brings-fans-to-rock-hall-of-fame/427257111/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 8 June 2017 about Prince Day ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-day-celebration-brings-fans-to-rock-hall-of-fame/427257111/))
 
 ----
 
@@ -324,17 +324,17 @@
 
 ----
 
- - [**"Carver County Historical Society scores trove of Paisley Park photos -- The photos, taken by a friend, capture Prince's home at a time when no pictures were allowed."**](http://www.startribune.com/carver-county-historical-society-scores-trove-of-paisley-park-photos/426764851/) by Erin Adler in [Minneapolis Star Tribune](http://www.startribune.com/) on 6 June 2017 about [Carver County](../../topics/carver-county/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/carver-county-historical-society-scores-trove-of-paisley-park-photos/426764851/))
+ - [**"Carver County Historical Society scores trove of Paisley Park photos -- The photos, taken by a friend, capture Prince's home at a time when no pictures were allowed."**](http://www.startribune.com/carver-county-historical-society-scores-trove-of-paisley-park-photos/426764851/) by Erin Adler in [Minneapolis Star Tribune](http://www.startribune.com/) on 6 June 2017 about Carver County ([mirror](https://web.archive.org/web/*/http://www.startribune.com/carver-county-historical-society-scores-trove-of-paisley-park-photos/426764851/))
 
 ----
 
 ## May 2017 (10)
 
- - [**"Judge: Sound engineer can’t publish unreleased Prince tracks"**](https://apnews.com/28f8d4317b3b43219621f58a3252addb) in [Associated Press News](https://apnews.com/) on 23 May 2017 about [Deliverance (EP)](../../topics/ep/deliverance/index.md), [Deliverance (song)](../../topics/song/deliverance/index.md), [George Ian Boxill](../../topics/george-ian-boxill/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [trademark](../../topics/trademark/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/28f8d4317b3b43219621f58a3252addb))
+ - [**"Judge: Sound engineer can’t publish unreleased Prince tracks"**](https://apnews.com/28f8d4317b3b43219621f58a3252addb) in [Associated Press News](https://apnews.com/) on 23 May 2017 about Deliverance (EP), Deliverance (song), George Ian Boxill, Paisley Park Enterprises, trademark ([mirror](https://web.archive.org/web/*/https://apnews.com/28f8d4317b3b43219621f58a3252addb))
 
 ----
 
- - [**"Judge: Sound engineer can't publish unreleased Prince tracks"**](http://www.startribune.com/judge-sound-engineer-can-t-publish-unreleased-prince-tracks/423717653/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 May 2017 about [Deliverance (EP)](../../topics/ep/deliverance/index.md), [Deliverance (song)](../../topics/song/deliverance/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/judge-sound-engineer-can-t-publish-unreleased-prince-tracks/423717653/))
+ - [**"Judge: Sound engineer can't publish unreleased Prince tracks"**](http://www.startribune.com/judge-sound-engineer-can-t-publish-unreleased-prince-tracks/423717653/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 May 2017 about Deliverance (EP), Deliverance (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/judge-sound-engineer-can-t-publish-unreleased-prince-tracks/423717653/))
 
 ----
 
@@ -342,11 +342,11 @@
 
 ----
 
- - [**"It’s Official: Prince’s Estate Manager and Universal Music Group Move to Nullify Recorded-Music Deal"**](https://variety.com/2017/music/news/its-official-princes-estate-manager-and-universal-music-group-move-to-nullify-recorded-music-deal-1202436842/) by Jem Aswad in [Variety](https://variety.com/) on 19 May 2017 about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [Comerica Bank & Trust](../../topics/comerica-bank-trust/index.md), [contract](../../topics/contract/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [merchandise](../../topics/merchandise/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Spotify](../../topics/spotify/index.md), [Troy Carter](../../topics/troy-carter/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Universal Music Group](../../topics/universal-music-group/index.md), [Van Jones](../../topics/van-jones/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2017/music/news/its-official-princes-estate-manager-and-universal-music-group-move-to-nullify-recorded-music-deal-1202436842/))
+ - [**"It’s Official: Prince’s Estate Manager and Universal Music Group Move to Nullify Recorded-Music Deal"**](https://variety.com/2017/music/news/its-official-princes-estate-manager-and-universal-music-group-move-to-nullify-recorded-music-deal-1202436842/) by Jem Aswad in [Variety](https://variety.com/) on 19 May 2017 about Alfred Jackson, Charles Koppelman, Comerica Bank & Trust, contract, John R. Nelson, Kevin Eide, merchandise, Norrine Nelson, Omarr Baker, Sharon Nelson, Spotify, Troy Carter, Tyka Nelson, Universal Music Group, Van Jones, Warner Bros. Records ([mirror](https://web.archive.org/web/*/https://variety.com/2017/music/news/its-official-princes-estate-manager-and-universal-music-group-move-to-nullify-recorded-music-deal-1202436842/))
 
 ----
 
- - [**"Judge confirms Prince’s 6 siblings as heirs to his estate"**](https://apnews.com/19eec2a40a864efcb3eae84206dfd5c9) in [Associated Press News](https://apnews.com/) on 19 May 2017 about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [museum](../../topics/museum/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/19eec2a40a864efcb3eae84206dfd5c9))
+ - [**"Judge confirms Prince’s 6 siblings as heirs to his estate"**](https://apnews.com/19eec2a40a864efcb3eae84206dfd5c9) in [Associated Press News](https://apnews.com/) on 19 May 2017 about Alfred Jackson, Carver County, fentanyl, John R. Nelson, Kevin Eide, museum, Norrine Nelson, Omarr Baker, Sharon Nelson, Tyka Nelson ([mirror](https://web.archive.org/web/*/https://apnews.com/19eec2a40a864efcb3eae84206dfd5c9))
 
 ----
 
@@ -358,21 +358,21 @@
 
 ----
 
- - [**"Prince has 6 heirs who will inherit what he left behind -- 13 months after his death, there are finally some answers on who will get Prince's estate."**](https://bringmethenews.com/news/prince-6-heirs-will-inherit-belongings) in [Bring Me The News](https://bringmethenews.com/) on 19 May 2017 about [Carver County](../../topics/carver-county/index.md) ([mirror](https://web.archive.org/web/*/https://bringmethenews.com/news/prince-6-heirs-will-inherit-belongings))
+ - [**"Prince has 6 heirs who will inherit what he left behind -- 13 months after his death, there are finally some answers on who will get Prince's estate."**](https://bringmethenews.com/news/prince-6-heirs-will-inherit-belongings) in [Bring Me The News](https://bringmethenews.com/) on 19 May 2017 about Carver County ([mirror](https://web.archive.org/web/*/https://bringmethenews.com/news/prince-6-heirs-will-inherit-belongings))
 
 ----
 
- - [**"Another Track Drops From Prince’s ‘Purple Rain’ Deluxe Edition: ‘Our Destiny’/’Roadhouse Garden’"**](https://variety.com/2017/music/news/prince-purple-rain-deluxe-new-song-our-destiny-roadhouse-garden-1202424644/) in [Variety](https://variety.com/) on 12 May 2017 about [First Avenue (place)](../../topics/place/first-avenue/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Our Destiny (song)](../../topics/song/our-destiny/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Roadhouse Garden (song)](../../topics/song/roadhouse-garden/index.md), [The Revolution](../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2017/music/news/prince-purple-rain-deluxe-new-song-our-destiny-roadhouse-garden-1202424644/))
+ - [**"Another Track Drops From Prince’s ‘Purple Rain’ Deluxe Edition: ‘Our Destiny’/’Roadhouse Garden’"**](https://variety.com/2017/music/news/prince-purple-rain-deluxe-new-song-our-destiny-roadhouse-garden-1202424644/) in [Variety](https://variety.com/) on 12 May 2017 about First Avenue (place), Lisa Coleman, Our Destiny (song), Purple Rain (album), Roadhouse Garden (song), The Revolution ([mirror](https://web.archive.org/web/*/https://variety.com/2017/music/news/prince-purple-rain-deluxe-new-song-our-destiny-roadhouse-garden-1202424644/))
 
 ----
 
- - [**"Battle over Prince estate plays on -- Move would start clock ticking on when others can still make claims."**](http://www.startribune.com/battle-over-prince-estate-plays-on/421893663/) by David Chanen in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 May 2017 about [Prince Estate](../../topics/prince-estate/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/battle-over-prince-estate-plays-on/421893663/))
+ - [**"Battle over Prince estate plays on -- Move would start clock ticking on when others can still make claims."**](http://www.startribune.com/battle-over-prince-estate-plays-on/421893663/) by David Chanen in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 May 2017 about Prince Estate ([mirror](https://web.archive.org/web/*/http://www.startribune.com/battle-over-prince-estate-plays-on/421893663/))
 
 ----
 
-## April 2017 (47)
+## April 2017 (48)
 
- - [**"‘Purple Rain’ re-issue to feature unreleased Prince songs"**](https://apnews.com/495f034e59ad4375a854c5476852d886) in [Associated Press News](https://apnews.com/) on 28 April 2017 about [NPG Records](../../topics/npg-records/index.md), [The Revolution](../../topics/the-revolution/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/495f034e59ad4375a854c5476852d886))
+ - [**"‘Purple Rain’ re-issue to feature unreleased Prince songs"**](https://apnews.com/495f034e59ad4375a854c5476852d886) in [Associated Press News](https://apnews.com/) on 28 April 2017 about NPG Records, The Revolution, Warner Bros. Records ([mirror](https://web.archive.org/web/*/https://apnews.com/495f034e59ad4375a854c5476852d886))
 
 ----
 
@@ -380,47 +380,47 @@
 
 ----
 
- - [**"Prince’s ex-wife Mayte Garcia pays tribute to late star"**](https://apnews.com/f7d92f7f16cd4330912e7a1674f4c8e7) in [Associated Press News](https://apnews.com/) on 22 April 2017 about [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/f7d92f7f16cd4330912e7a1674f4c8e7))
+ - [**"Prince’s ex-wife Mayte Garcia pays tribute to late star"**](https://apnews.com/f7d92f7f16cd4330912e7a1674f4c8e7) in [Associated Press News](https://apnews.com/) on 22 April 2017 about Mayte, Mayte Garcia ([mirror](https://web.archive.org/web/*/https://apnews.com/f7d92f7f16cd4330912e7a1674f4c8e7))
 
 ----
 
- - [**"A year after Prince's death, these questions remain unanswered"**](https://usatoday.com/story/life/music/2017/04/20/death-prince-one-year-later-what-do-we-know/100180398/) in [USA Today](https://usatoday.com/) on 21 April 2017 about [Amy Conners](../../topics/amy-conners/index.md), [Apple Music](../../topics/apple-music/index.md), [bootleg](../../topics/bootleg/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [George Ian Boxill](../../topics/george-ian-boxill/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [memoir](../../topics/memoir/index.md), [Michael Schulenberg](../../topics/michael-schulenberg/index.md), [museum](../../topics/museum/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [Patrick Cousins](../../topics/patrick-cousins/index.md), [Spotify](../../topics/spotify/index.md), [Tidal](../../topics/tidal/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Universal Music Group](../../topics/universal-music-group/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2017/04/20/death-prince-one-year-later-what-do-we-know/100180398/))
+ - [**"A year after Prince's death, these questions remain unanswered"**](https://usatoday.com/story/life/music/2017/04/20/death-prince-one-year-later-what-do-we-know/100180398/) in [USA Today](https://usatoday.com/) on 21 April 2017 about Amy Conners, Apple Music, bootleg, Carver County, fentanyl, George Ian Boxill, Howard Kornfeld, Kevin Eide, Manuela Testolini, Mayte, Mayte Garcia, memoir, Michael Schulenberg, museum, Paisley Park Enterprises, Patrick Cousins, Spotify, Tidal, Tyka Nelson, Universal Music Group, vault ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2017/04/20/death-prince-one-year-later-what-do-we-know/100180398/))
 
 ----
 
- - [**"Early Prince Mentor Still Struggles with Star's Death"**](https://kstp.com/news/early-prince-mentor-pepe-willie-struggles-with-princes-death-/4460798/) in [KSTP](https://kstp.com/) on 21 April 2017 about [94 East](../../topics/94-east/index.md), [Little Anthony and The Imperials](../../topics/little-anthony-and-the-imperials/index.md), [Pepe Willie](../../topics/pepe-willie/index.md) ([mirror](https://web.archive.org/web/*/https://kstp.com/news/early-prince-mentor-pepe-willie-struggles-with-princes-death-/4460798/))
+ - [**"Early Prince Mentor Still Struggles with Star's Death"**](https://kstp.com/news/early-prince-mentor-pepe-willie-struggles-with-princes-death-/4460798/) in [KSTP](https://kstp.com/) on 21 April 2017 about 94 East, Little Anthony and The Imperials, Pepe Willie ([mirror](https://web.archive.org/web/*/https://kstp.com/news/early-prince-mentor-pepe-willie-struggles-with-princes-death-/4460798/))
 
 ----
 
- - [**"George Clinton gets Paisley Park's Prince celebration off to a funky start"**](https://usatoday.com/story/life/music/2017/04/21/george-clinton-gets-paisley-parks-prince-celebration-off-funky-start/100736612/) in [USA Today](https://usatoday.com/) on 21 April 2017 about [Celebration](../../topics/celebration/index.md), [Celebration 2017](../../topics/celebration-2017/index.md), [Dave Chappelle](../../topics/dave-chappelle/index.md), [fentanyl](../../topics/fentanyl/index.md), [George Clinton](../../topics/george-clinton/index.md), [Jungle Love (song)](../../topics/song/jungle-love/index.md), [Morris Hayes](../../topics/morris-hayes/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [The Revolution](../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2017/04/21/george-clinton-gets-paisley-parks-prince-celebration-off-funky-start/100736612/))
+ - [**"George Clinton gets Paisley Park's Prince celebration off to a funky start"**](https://usatoday.com/story/life/music/2017/04/21/george-clinton-gets-paisley-parks-prince-celebration-off-funky-start/100736612/) in [USA Today](https://usatoday.com/) on 21 April 2017 about Celebration, Celebration 2017, Dave Chappelle, fentanyl, George Clinton, Jungle Love (song), Morris Hayes, New Power Generation, The Revolution ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2017/04/21/george-clinton-gets-paisley-parks-prince-celebration-off-funky-start/100736612/))
 
 ----
 
- - [**"Mayte Garcia on the Prince you didn’t know"**](https://apnews.com/a4115faebefc463a8aad4433e14f5d2b) in [Associated Press News](https://apnews.com/) on 21 April 2017 about [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [The Most Beautiful (book)](../../topics/book/the-most-beautiful/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/a4115faebefc463a8aad4433e14f5d2b))
+ - [**"Mayte Garcia on the Prince you didn’t know"**](https://apnews.com/a4115faebefc463a8aad4433e14f5d2b) in [Associated Press News](https://apnews.com/) on 21 April 2017 about Mayte, Mayte Garcia, The Most Beautiful (book) ([mirror](https://web.archive.org/web/*/https://apnews.com/a4115faebefc463a8aad4433e14f5d2b))
 
 ----
 
- - [**"Morris Day, Prince’s Childhood Friend And Collaborator, Reflects On His Death -- On the one-year anniversary of Prince’s passing, Day opens up about the virtuoso’s art and immortality."**](https://www.thefader.com/2017/04/21/morris-day-prince-interview) in [The FADER](https://www.thefader.com/) on 21 April 2017 about [George Clinton](../../topics/george-clinton/index.md), [Morris Day](../../topics/morris-day/index.md), [The Time](../../topics/the-time/index.md) ([mirror](https://web.archive.org/web/*/https://www.thefader.com/2017/04/21/morris-day-prince-interview))
+ - [**"Morris Day, Prince’s Childhood Friend And Collaborator, Reflects On His Death -- On the one-year anniversary of Prince’s passing, Day opens up about the virtuoso’s art and immortality."**](https://www.thefader.com/2017/04/21/morris-day-prince-interview) in [The FADER](https://www.thefader.com/) on 21 April 2017 about George Clinton, Morris Day, The Time ([mirror](https://web.archive.org/web/*/https://www.thefader.com/2017/04/21/morris-day-prince-interview))
 
 ----
 
- - [**"One Year After Prince's Death, Wendy and Lisa Are Ready to Mourn Through Song -- Two of Prince's proteges are back to pay tribute to the beloved rock icon."**](https://www.esquire.com/entertainment/music/a54634/wendy-and-lisa-interview-prince/) in [Esquire](https://www.esquire.com/) on 21 April 2017 about [Brown Mark](../../topics/brown-mark/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Matt Fink](../../topics/matt-fink/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md) ([mirror](https://web.archive.org/web/*/https://www.esquire.com/entertainment/music/a54634/wendy-and-lisa-interview-prince/))
+ - [**"One Year After Prince's Death, Wendy and Lisa Are Ready to Mourn Through Song -- Two of Prince's proteges are back to pay tribute to the beloved rock icon."**](https://www.esquire.com/entertainment/music/a54634/wendy-and-lisa-interview-prince/) in [Esquire](https://www.esquire.com/) on 21 April 2017 about Brown Mark, Joni Mitchell, Lisa Coleman, Matt Fink, Stevie Wonder, The Revolution, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://www.esquire.com/entertainment/music/a54634/wendy-and-lisa-interview-prince/))
 
 ----
 
- - [**"The Latest: Prince fans join ‘purple family’ at Paisley Park"**](https://apnews.com/26c3f25587514065a9f72fbfd1d96bab) in [Associated Press News](https://apnews.com/) on 21 April 2017 about [fentanyl](../../topics/fentanyl/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [museum](../../topics/museum/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/26c3f25587514065a9f72fbfd1d96bab))
+ - [**"The Latest: Prince fans join ‘purple family’ at Paisley Park"**](https://apnews.com/26c3f25587514065a9f72fbfd1d96bab) in [Associated Press News](https://apnews.com/) on 21 April 2017 about fentanyl, First Avenue (place), museum ([mirror](https://web.archive.org/web/*/https://apnews.com/26c3f25587514065a9f72fbfd1d96bab))
 
 ----
 
- - [**"The True Story Behind Prince's Famous Basketball Game With Charlie Murphy -- Micki Free remembers The Purple One's perfect jump shot."**](https://www.esquire.com/entertainment/music/a54667/prince-basketball-game-charlie-murphy-micki-free/) in [Esquire](https://www.esquire.com/) on 21 April 2017 about [Charlie Murphy](../../topics/charlie-murphy/index.md), [Micki Free](../../topics/micki-free/index.md), [Morris Day](../../topics/morris-day/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md) ([mirror](https://web.archive.org/web/*/https://www.esquire.com/entertainment/music/a54667/prince-basketball-game-charlie-murphy-micki-free/))
+ - [**"The True Story Behind Prince's Famous Basketball Game With Charlie Murphy -- Micki Free remembers The Purple One's perfect jump shot."**](https://www.esquire.com/entertainment/music/a54667/prince-basketball-game-charlie-murphy-micki-free/) in [Esquire](https://www.esquire.com/) on 21 April 2017 about Charlie Murphy, Micki Free, Morris Day, Sunset Sound (place) ([mirror](https://web.archive.org/web/*/https://www.esquire.com/entertainment/music/a54667/prince-basketball-game-charlie-murphy-micki-free/))
 
 ----
 
- - [**"With tears, tattoos, Prince fans remember him a year later"**](https://apnews.com/839811ae130242a3ade37017c6115208) in [Associated Press News](https://apnews.com/) on 21 April 2017 about [First Avenue (place)](../../topics/place/first-avenue/index.md), [Minnesota History Center](../../topics/minnesota-history-center/index.md), [museum](../../topics/museum/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/839811ae130242a3ade37017c6115208))
+ - [**"With tears, tattoos, Prince fans remember him a year later"**](https://apnews.com/839811ae130242a3ade37017c6115208) in [Associated Press News](https://apnews.com/) on 21 April 2017 about First Avenue (place), Minnesota History Center, museum ([mirror](https://web.archive.org/web/*/https://apnews.com/839811ae130242a3ade37017c6115208))
 
 ----
 
- - [**"1 year after Prince’s death, another turn for The Revolution"**](https://apnews.com/98e9d09300534ac8a7ae5b7b82e9567f) in [Associated Press News](https://apnews.com/) on 20 April 2017 about [Bobby Z.](../../topics/bobby-z/index.md), [BrownMark](../../topics/brownmark/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Matt Fink](../../topics/matt-fink/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/98e9d09300534ac8a7ae5b7b82e9567f))
+ - [**"1 year after Prince’s death, another turn for The Revolution"**](https://apnews.com/98e9d09300534ac8a7ae5b7b82e9567f) in [Associated Press News](https://apnews.com/) on 20 April 2017 about Bobby Z., BrownMark, First Avenue (place), Lisa Coleman, Matt Fink, The Revolution, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://apnews.com/98e9d09300534ac8a7ae5b7b82e9567f))
 
 ----
 
@@ -428,15 +428,15 @@
 
 ----
 
- - [**"Judge blocks sound engineer’s release of Prince EP"**](https://apnews.com/194582ccc441427d9c3b8b644ac5dcc0) in [Associated Press News](https://apnews.com/) on 20 April 2017 about [Deliverance (EP)](../../topics/ep/deliverance/index.md), [Deliverance (song)](../../topics/song/deliverance/index.md), [George Ian Boxill](../../topics/george-ian-boxill/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/194582ccc441427d9c3b8b644ac5dcc0))
+ - [**"Judge blocks sound engineer’s release of Prince EP"**](https://apnews.com/194582ccc441427d9c3b8b644ac5dcc0) in [Associated Press News](https://apnews.com/) on 20 April 2017 about Deliverance (EP), Deliverance (song), George Ian Boxill, Paisley Park Enterprises ([mirror](https://web.archive.org/web/*/https://apnews.com/194582ccc441427d9c3b8b644ac5dcc0))
 
 ----
 
- - [**"Prince home state marks death anniversary with celebrations"**](https://apnews.com/683330f22682410896e82d5734a2a060) in [Associated Press News](https://apnews.com/) on 20 April 2017 about [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Minnesota History Center](../../topics/minnesota-history-center/index.md), [Morris Day](../../topics/morris-day/index.md), [museum](../../topics/museum/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [The Revolution](../../topics/the-revolution/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/683330f22682410896e82d5734a2a060))
+ - [**"Prince home state marks death anniversary with celebrations"**](https://apnews.com/683330f22682410896e82d5734a2a060) in [Associated Press News](https://apnews.com/) on 20 April 2017 about Apollonia Kotero, Dez Dickerson, First Avenue (place), Minnesota History Center, Morris Day, museum, New Power Generation, The Revolution ([mirror](https://web.archive.org/web/*/https://apnews.com/683330f22682410896e82d5734a2a060))
 
 ----
 
- - [**"Prince’s 1980s band hits the road for memorial tour"**](https://apnews.com/696a75af9362451891d58cef723d4114) in [Associated Press News](https://apnews.com/) on 20 April 2017 about [Bobby Z.](../../topics/bobby-z/index.md), [BrownMark](../../topics/brownmark/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Matt Fink](../../topics/matt-fink/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/696a75af9362451891d58cef723d4114))
+ - [**"Prince’s 1980s band hits the road for memorial tour"**](https://apnews.com/696a75af9362451891d58cef723d4114) in [Associated Press News](https://apnews.com/) on 20 April 2017 about Bobby Z., BrownMark, First Avenue (place), Lisa Coleman, Matt Fink, The Revolution, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://apnews.com/696a75af9362451891d58cef723d4114))
 
 ----
 
@@ -444,11 +444,15 @@
 
 ----
 
- - [**"Tracklist for Prince’s ‘Purple Rain’ Deluxe Edition Leaks — Unreleased Tracks Revealed"**](https://variety.com/2017/music/news/prince-purple-rain-deluxe-tracklist-leaks-1202390479/) by Jem Aswad in [Variety](https://variety.com/) on 19 April 2017 about [17 Days (song)](../../topics/song/17-days/index.md), [Baby I’m a Star (song)](../../topics/song/baby-i-m-a-star/index.md), [Computer Blue (song)](../../topics/song/computer-blue/index.md), [Erotic City (song)](../../topics/song/erotic-city/index.md), [George Clinton](../../topics/george-clinton/index.md), [Graffiti Bridge (album)](../../topics/album/graffiti-bridge/index.md), [I Would Die 4 U (song)](../../topics/song/i-would-die-4-u/index.md), [James Brown](../../topics/james-brown/index.md), [Katrina’s Paper Dolls (song)](../../topics/song/katrina-s-paper-dolls/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Love and Sex (song)](../../topics/song/love-and-sex/index.md), [Our Destiny (song)](../../topics/song/our-destiny/index.md), [Possessed (song)](../../topics/song/possessed/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Roadhouse Garden (song)](../../topics/song/roadhouse-garden/index.md), [Take Me with U (song)](../../topics/song/take-me-with-u/index.md), [The Beautiful Ones (song)](../../topics/song/the-beautiful-ones/index.md), [The Dance Electric (song)](../../topics/song/the-dance-electric/index.md), [The Revolution](../../topics/the-revolution/index.md), [Velvet Kitty Cat (song)](../../topics/song/velvet-kitty-cat/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://variety.com/2017/music/news/prince-purple-rain-deluxe-tracklist-leaks-1202390479/))
+ - [**"Album of the Day: Parade (Music from the Motion Picture Under the Cherry Moon) by Prince and The Revolution"**](https://www.rhino.com/aod/parade-music-from-the-motion-picture-under-the-cherry-moon-prince-and-the-revolution) in [Rhino](https://www.rhino.com/) on 19 April 2017 about Parade (album), The Revolution, Under the Cherry Moon (movie) ([mirror](https://web.archive.org/web/*/https://www.rhino.com/aod/parade-music-from-the-motion-picture-under-the-cherry-moon-prince-and-the-revolution))
 
 ----
 
- - [**"Affidavit: Doc prescribed Prince opioids under friend’s name"**](https://apnews.com/af6ad628c59f4c7fb7351908c72f4c23) in [Associated Press News](https://apnews.com/) on 18 April 2017 about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [oxycodone](../../topics/oxycodone/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/af6ad628c59f4c7fb7351908c72f4c23))
+ - [**"Tracklist for Prince’s ‘Purple Rain’ Deluxe Edition Leaks — Unreleased Tracks Revealed"**](https://variety.com/2017/music/news/prince-purple-rain-deluxe-tracklist-leaks-1202390479/) by Jem Aswad in [Variety](https://variety.com/) on 19 April 2017 about 17 Days (song), Baby I’m a Star (song), Computer Blue (song), Erotic City (song), George Clinton, Graffiti Bridge (album), I Would Die 4 U (song), James Brown, Katrina’s Paper Dolls (song), Let’s Go Crazy (song), Love and Sex (song), Our Destiny (song), Possessed (song), Purple Rain (album), Purple Rain (song), Roadhouse Garden (song), Take Me with U (song), The Beautiful Ones (song), The Dance Electric (song), The Revolution, Velvet Kitty Cat (song), When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://variety.com/2017/music/news/prince-purple-rain-deluxe-tracklist-leaks-1202390479/))
+
+----
+
+ - [**"Affidavit: Doc prescribed Prince opioids under friend’s name"**](https://apnews.com/af6ad628c59f4c7fb7351908c72f4c23) in [Associated Press News](https://apnews.com/) on 18 April 2017 about Andrew Kornfeld, Carver County, fentanyl, Howard Kornfeld, Kirk Johnson, Michael Todd Schulenberg, oxycodone ([mirror](https://web.archive.org/web/*/https://apnews.com/af6ad628c59f4c7fb7351908c72f4c23))
 
 ----
 
@@ -456,23 +460,23 @@
 
 ----
 
- - [**"Documents highlight Prince’s struggle with opioid addiction"**](https://apnews.com/6309636fb0d84b968b1bfe720c289961) in [Associated Press News](https://apnews.com/) on 18 April 2017 about [fentanyl](../../topics/fentanyl/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [oxycodone](../../topics/oxycodone/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/6309636fb0d84b968b1bfe720c289961))
+ - [**"Documents highlight Prince’s struggle with opioid addiction"**](https://apnews.com/6309636fb0d84b968b1bfe720c289961) in [Associated Press News](https://apnews.com/) on 18 April 2017 about fentanyl, Kirk Johnson, oxycodone ([mirror](https://web.archive.org/web/*/https://apnews.com/6309636fb0d84b968b1bfe720c289961))
 
 ----
 
- - [**"Floodgates are about to open on Prince's career after death -- A year after he died, Prince's lucrative second career is taking off. The industry moguls he despised are calling the shots — and his wishes don't apply."**](http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 April 2017 about [Bravado](../../topics/bravado/index.md), [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [contract](../../topics/contract/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [merchandise](../../topics/merchandise/index.md), [museum](../../topics/museum/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Spotify](../../topics/spotify/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/))
+ - [**"Floodgates are about to open on Prince's career after death -- A year after he died, Prince's lucrative second career is taking off. The industry moguls he despised are calling the shots — and his wishes don't apply."**](http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 April 2017 about Bravado, Bremer Trust, Carver County, Charles Koppelman, contract, Graceland, Graceland Holdings, merchandise, museum, Omarr Baker, Spotify, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/))
 
 ----
 
- - [**"New Undiscovered Prince Recordings To Be Released This Friday With "DELIVERANCE" EP -- THE TITLE TRACK, "DELIVERANCE," IS AVAILABLE NOW ON ITUNES AND APPLE MUSIC"**](https://www.prnewswire.com/news-releases/new-undiscovered-prince-recordings-to-be-released-this-friday-with-deliverance-ep-300441519.html) in [PR Newswire](https://www.prnewswire.com/) on 18 April 2017 about [contract](../../topics/contract/index.md), [Deliverance (EP)](../../topics/ep/deliverance/index.md), [Deliverance (song)](../../topics/song/deliverance/index.md) ([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/new-undiscovered-prince-recordings-to-be-released-this-friday-with-deliverance-ep-300441519.html))
+ - [**"New Undiscovered Prince Recordings To Be Released This Friday With "DELIVERANCE" EP -- THE TITLE TRACK, "DELIVERANCE," IS AVAILABLE NOW ON ITUNES AND APPLE MUSIC"**](https://www.prnewswire.com/news-releases/new-undiscovered-prince-recordings-to-be-released-this-friday-with-deliverance-ep-300441519.html) in [PR Newswire](https://www.prnewswire.com/) on 18 April 2017 about contract, Deliverance (EP), Deliverance (song) ([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/new-undiscovered-prince-recordings-to-be-released-this-friday-with-deliverance-ep-300441519.html))
 
 ----
 
- - [**"Prince left behind a treasure trove to see at Paisley Park"**](https://apnews.com/a5f775426be44b65a5cbe3d790774288) by Jeff Baenen (Associated Press) in [Associated Press News](https://apnews.com/) on 18 April 2017 about [Grammy Award](../../topics/grammy-award/index.md), [museum](../../topics/museum/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/a5f775426be44b65a5cbe3d790774288))
+ - [**"Prince left behind a treasure trove to see at Paisley Park"**](https://apnews.com/a5f775426be44b65a5cbe3d790774288) by Jeff Baenen (Associated Press) in [Associated Press News](https://apnews.com/) on 18 April 2017 about Grammy Award, museum, Purple Rain (movie) ([mirror](https://web.archive.org/web/*/https://apnews.com/a5f775426be44b65a5cbe3d790774288))
 
 ----
 
- - [**"'Purple Rain' suit worn by Prince in movie on display in St. Paul -- The suit and other items can be viewed free of charge at the Minnesota History Center in St. Paul."**](http://www.startribune.com/purple-rain-suit-worn-by-prince-in-movie-goes-on-display-starting-today/419713513/) by Paul Walsh in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 April 2017 about [Minnesota History Center](../../topics/minnesota-history-center/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/purple-rain-suit-worn-by-prince-in-movie-goes-on-display-starting-today/419713513/))
+ - [**"'Purple Rain' suit worn by Prince in movie on display in St. Paul -- The suit and other items can be viewed free of charge at the Minnesota History Center in St. Paul."**](http://www.startribune.com/purple-rain-suit-worn-by-prince-in-movie-goes-on-display-starting-today/419713513/) by Paul Walsh in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 April 2017 about Minnesota History Center ([mirror](https://web.archive.org/web/*/http://www.startribune.com/purple-rain-suit-worn-by-prince-in-movie-goes-on-display-starting-today/419713513/))
 
 ----
 
@@ -480,7 +484,7 @@
 
 ----
 
- - [**"'Rehabilitated' Paisley Park takes center stage for Prince anniversary -- Graceland firm remakes studio into a showplace."**](http://www.startribune.com/rehabilitated-paisley-park-takes-center-stage-for-prince-anniversary/419571163/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 17 April 2017 about [Bremer Trust](../../topics/bremer-trust/index.md), [Celebration](../../topics/celebration/index.md), [Denny Laufenburger](../../topics/denny-laufenburger/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [Joel Weinshanker](../../topics/joel-weinshanker/index.md), [museum](../../topics/museum/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/rehabilitated-paisley-park-takes-center-stage-for-prince-anniversary/419571163/))
+ - [**"'Rehabilitated' Paisley Park takes center stage for Prince anniversary -- Graceland firm remakes studio into a showplace."**](http://www.startribune.com/rehabilitated-paisley-park-takes-center-stage-for-prince-anniversary/419571163/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 17 April 2017 about Bremer Trust, Celebration, Denny Laufenburger, Graceland, Graceland Holdings, Joel Weinshanker, museum ([mirror](https://web.archive.org/web/*/http://www.startribune.com/rehabilitated-paisley-park-takes-center-stage-for-prince-anniversary/419571163/))
 
 ----
 
@@ -488,7 +492,7 @@
 
 ----
 
- - [**"The Latest: Doctor disputes prescribing opioids for Prince"**](https://apnews.com/d72d2ba9032e45debb8ac8700dc24e84) in [Associated Press News](https://apnews.com/) on 17 April 2017 about [fentanyl](../../topics/fentanyl/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/d72d2ba9032e45debb8ac8700dc24e84))
+ - [**"The Latest: Doctor disputes prescribing opioids for Prince"**](https://apnews.com/d72d2ba9032e45debb8ac8700dc24e84) in [Associated Press News](https://apnews.com/) on 17 April 2017 about fentanyl, Kirk Johnson, Michael Todd Schulenberg ([mirror](https://web.archive.org/web/*/https://apnews.com/d72d2ba9032e45debb8ac8700dc24e84))
 
 ----
 
@@ -500,47 +504,47 @@
 
 ----
 
- - [**"Deals ensure cash keeps flowing to unsettled Prince estate"**](https://apnews.com/ea32a54490474eccad7364653ab698f8) in [Associated Press News](https://apnews.com/) on 16 April 2017 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Alfred Jackson](../../topics/alfred-jackson/index.md), [Celebration 2017](../../topics/celebration-2017/index.md), [Comerica Bank & Trust](../../topics/comerica-bank-trust/index.md), [Graceland](../../topics/graceland/index.md), [Joel Weinshanker](../../topics/joel-weinshanker/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Morris Day](../../topics/morris-day/index.md), [museum](../../topics/museum/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Shelby J.](../../topics/shelby-j/index.md), [Spotify](../../topics/spotify/index.md), [The Time](../../topics/the-time/index.md), [Tidal](../../topics/tidal/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Universal Music Group](../../topics/universal-music-group/index.md), [Van Jones](../../topics/van-jones/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/ea32a54490474eccad7364653ab698f8))
+ - [**"Deals ensure cash keeps flowing to unsettled Prince estate"**](https://apnews.com/ea32a54490474eccad7364653ab698f8) in [Associated Press News](https://apnews.com/) on 16 April 2017 about 3rdEyeGirl, Alfred Jackson, Celebration 2017, Comerica Bank & Trust, Graceland, Joel Weinshanker, John R. Nelson, Kevin Eide, Liv Warfield, Morris Day, museum, New Power Generation, Norrine Nelson, Omarr Baker, Prince Estate, Sharon Nelson, Shelby J., Spotify, The Time, Tidal, Tyka Nelson, Universal Music Group, Van Jones ([mirror](https://web.archive.org/web/*/https://apnews.com/ea32a54490474eccad7364653ab698f8))
 
 ----
 
- - [**"A Minneapolis-area Prince pilgrimage a year after his death"**](https://apnews.com/c26c137efcb447af86f26bb41e8ac97f) in [Associated Press News](https://apnews.com/) on 15 April 2017 about [Electric Fetus (place)](../../topics/place/electric-fetus/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Minnesota History Center](../../topics/minnesota-history-center/index.md), [museum](../../topics/museum/index.md), [Sam’s (place)](../../topics/place/sam-s/index.md), [Schmitt Music Company](../../topics/schmitt-music-company/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/c26c137efcb447af86f26bb41e8ac97f))
+ - [**"A Minneapolis-area Prince pilgrimage a year after his death"**](https://apnews.com/c26c137efcb447af86f26bb41e8ac97f) in [Associated Press News](https://apnews.com/) on 15 April 2017 about Electric Fetus (place), First Avenue (place), Minnesota History Center, museum, Sam’s (place), Schmitt Music Company ([mirror](https://web.archive.org/web/*/https://apnews.com/c26c137efcb447af86f26bb41e8ac97f))
 
 ----
 
- - [**"Carver County plans to unseal search warrants into Prince's death next week -- State and federal investigation is ongoing a year after his death from an accidental drug overdose."**](http://www.startribune.com/carver-county-plans-to-unseal-search-warrants-into-prince-s-death-next-week/419481643/) by David Chanen in [Minneapolis Star Tribune](http://www.startribune.com/) on 14 April 2017 about [Carver County](../../topics/carver-county/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/carver-county-plans-to-unseal-search-warrants-into-prince-s-death-next-week/419481643/))
+ - [**"Carver County plans to unseal search warrants into Prince's death next week -- State and federal investigation is ongoing a year after his death from an accidental drug overdose."**](http://www.startribune.com/carver-county-plans-to-unseal-search-warrants-into-prince-s-death-next-week/419481643/) by David Chanen in [Minneapolis Star Tribune](http://www.startribune.com/) on 14 April 2017 about Carver County ([mirror](https://web.archive.org/web/*/http://www.startribune.com/carver-county-plans-to-unseal-search-warrants-into-prince-s-death-next-week/419481643/))
 
 ----
 
- - [**"AM Prep-Music -- PRINCE’S SIBLINGS WANT TO BE DECLARED HIS HEIRS / TROY CARTER NAMED ENTERTAINMENT ADVISER FOR PRINCE ESTATE"**](https://apnews.com/63ffae131dda46bcb6a431332d0a5efc) by The Associated Press in [Associated Press News](https://apnews.com/) on 13 April 2017 about [Carver County](../../topics/carver-county/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [L. Londell McMilllan](../../topics/l-londell-mcmilllan/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Spotify](../../topics/spotify/index.md), [Troy Carter](../../topics/troy-carter/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/63ffae131dda46bcb6a431332d0a5efc))
+ - [**"AM Prep-Music -- PRINCE’S SIBLINGS WANT TO BE DECLARED HIS HEIRS / TROY CARTER NAMED ENTERTAINMENT ADVISER FOR PRINCE ESTATE"**](https://apnews.com/63ffae131dda46bcb6a431332d0a5efc) by The Associated Press in [Associated Press News](https://apnews.com/) on 13 April 2017 about Carver County, Charles Koppelman, Kevin Eide, L. Londell McMilllan, Prince Estate, Spotify, Troy Carter ([mirror](https://web.archive.org/web/*/https://apnews.com/63ffae131dda46bcb6a431332d0a5efc))
 
 ----
 
- - [**"Comedian Charlie Murphy, brother of Eddie, dies at 57"**](https://apnews.com/15803935af9247c192707d1b81400809) in [Associated Press News](https://apnews.com/) on 12 April 2017 about [Charlie Murphy](../../topics/charlie-murphy/index.md), [Dave Chappelle](../../topics/dave-chappelle/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/15803935af9247c192707d1b81400809))
+ - [**"Comedian Charlie Murphy, brother of Eddie, dies at 57"**](https://apnews.com/15803935af9247c192707d1b81400809) in [Associated Press News](https://apnews.com/) on 12 April 2017 about Charlie Murphy, Dave Chappelle ([mirror](https://web.archive.org/web/*/https://apnews.com/15803935af9247c192707d1b81400809))
 
 ----
 
- - [**"Lady Gaga ex-manager Troy Carter named Prince estate adviser"**](https://apnews.com/727501ec378a400184818701510f73ea) by The Associated Press in [Associated Press News](https://apnews.com/) on 12 April 2017 about [Bremer Trust](../../topics/bremer-trust/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [Comerica Bank & Trust](../../topics/comerica-bank-trust/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Spotify](../../topics/spotify/index.md), [Troy Carter](../../topics/troy-carter/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/727501ec378a400184818701510f73ea))
+ - [**"Lady Gaga ex-manager Troy Carter named Prince estate adviser"**](https://apnews.com/727501ec378a400184818701510f73ea) by The Associated Press in [Associated Press News](https://apnews.com/) on 12 April 2017 about Bremer Trust, Charles Koppelman, Comerica Bank & Trust, Prince Estate, Spotify, Troy Carter ([mirror](https://web.archive.org/web/*/https://apnews.com/727501ec378a400184818701510f73ea))
 
 ----
 
- - [**"AM Prep-Segue -- MAYTE GARCIA, PRINCE’S EX, WRITES BOOK"**](https://apnews.com/94705887ea764bd1b5d2381eb0622bb9) in [Associated Press News](https://apnews.com/) on 11 April 2017 about [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [The Most Beautiful (book)](../../topics/book/the-most-beautiful/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/94705887ea764bd1b5d2381eb0622bb9))
+ - [**"AM Prep-Segue -- MAYTE GARCIA, PRINCE’S EX, WRITES BOOK"**](https://apnews.com/94705887ea764bd1b5d2381eb0622bb9) in [Associated Press News](https://apnews.com/) on 11 April 2017 about Mayte, Mayte Garcia, The Most Beautiful (book) ([mirror](https://web.archive.org/web/*/https://apnews.com/94705887ea764bd1b5d2381eb0622bb9))
 
 ----
 
- - [**"Judge rejects claims by Prince divorce lawyer for $600,000"**](https://apnews.com/061fb04e9fcf448782e9b921b971eac9) in [Associated Press News](https://apnews.com/) on 11 April 2017 about [Carver County](../../topics/carver-county/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Patrick Cousins](../../topics/patrick-cousins/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/061fb04e9fcf448782e9b921b971eac9))
+ - [**"Judge rejects claims by Prince divorce lawyer for $600,000"**](https://apnews.com/061fb04e9fcf448782e9b921b971eac9) in [Associated Press News](https://apnews.com/) on 11 April 2017 about Carver County, Manuela Testolini, Patrick Cousins ([mirror](https://web.archive.org/web/*/https://apnews.com/061fb04e9fcf448782e9b921b971eac9))
 
 ----
 
- - [**"Mayte Garcia reflects on life with Prince"**](https://apnews.com/5a81cc1b557141e4b9cbdd3bbbf4a40d) in [Associated Press News](https://apnews.com/) on 10 April 2017 about [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/5a81cc1b557141e4b9cbdd3bbbf4a40d))
+ - [**"Mayte Garcia reflects on life with Prince"**](https://apnews.com/5a81cc1b557141e4b9cbdd3bbbf4a40d) in [Associated Press News](https://apnews.com/) on 10 April 2017 about Mayte, Mayte Garcia ([mirror](https://web.archive.org/web/*/https://apnews.com/5a81cc1b557141e4b9cbdd3bbbf4a40d))
 
 ----
 
- - [**"No ‘tell-all,’ but Prince’s ex details their life in memoir"**](https://apnews.com/0c93c63651ef4f15adde78e51b38c197) by Leanne Italie (Associated Press) in [Associated Press News](https://apnews.com/) on 10 April 2017 about [Manuela Testolini](../../topics/manuela-testolini/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [memoir](../../topics/memoir/index.md), [The Most Beautiful (book)](../../topics/book/the-most-beautiful/index.md), [Vicodin](../../topics/vicodin/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/0c93c63651ef4f15adde78e51b38c197))
+ - [**"No ‘tell-all,’ but Prince’s ex details their life in memoir"**](https://apnews.com/0c93c63651ef4f15adde78e51b38c197) by Leanne Italie (Associated Press) in [Associated Press News](https://apnews.com/) on 10 April 2017 about Manuela Testolini, Mayte, Mayte Garcia, memoir, The Most Beautiful (book), Vicodin ([mirror](https://web.archive.org/web/*/https://apnews.com/0c93c63651ef4f15adde78e51b38c197))
 
 ----
 
- - [**"Lynn Goldsmith's reaction to the news that she's being sued by the Warhol Foundation"**](https://www.facebook.com/lynn.goldsmith/posts/10155098104516758) in [Lynn Goldsmith on Facebook](https://www.facebook.com/lynn.goldsmith) on 9 April 2017 about [Andy Warhol](../../topics/andy-warhol/index.md), [Lynn Goldsmith](../../topics/lynn-goldsmith/index.md), [Prince Series](../../topics/prince-series/index.md) ([mirror](https://web.archive.org/web/*/https://www.facebook.com/lynn.goldsmith/posts/10155098104516758))
+ - [**"Lynn Goldsmith's reaction to the news that she's being sued by the Warhol Foundation"**](https://www.facebook.com/lynn.goldsmith/posts/10155098104516758) in [Lynn Goldsmith on Facebook](https://www.facebook.com/lynn.goldsmith) on 9 April 2017 about Andy Warhol, Lynn Goldsmith, Prince Series ([mirror](https://web.archive.org/web/*/https://www.facebook.com/lynn.goldsmith/posts/10155098104516758))
 
 ----
 
@@ -548,11 +552,11 @@
 
 ----
 
- - [**"Prince's Strange Relationship with Parody (and Weird Al) Detailed in Excerpt From Ben Greenman's 'Dig If U Will The Picture' [Exclusive]"**](https://www.okayplayer.com/news/prince-weird-al-exclusive-excerpt-ben-greenman-interview.html) in [Okayplayer](https://www.okayplayer.com/) on 6 April 2017 about [Charlie Murphy](../../topics/charlie-murphy/index.md), [Dave Chappelle](../../topics/dave-chappelle/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Weird Al Yankovic](../../topics/weird-al-yankovic/index.md) ([mirror](https://web.archive.org/web/*/https://www.okayplayer.com/news/prince-weird-al-exclusive-excerpt-ben-greenman-interview.html))
+ - [**"Prince's Strange Relationship with Parody (and Weird Al) Detailed in Excerpt From Ben Greenman's 'Dig If U Will The Picture' [Exclusive]"**](https://www.okayplayer.com/news/prince-weird-al-exclusive-excerpt-ben-greenman-interview.html) in [Okayplayer](https://www.okayplayer.com/) on 6 April 2017 about Charlie Murphy, Dave Chappelle, Let’s Go Crazy (song), Weird Al Yankovic ([mirror](https://web.archive.org/web/*/https://www.okayplayer.com/news/prince-weird-al-exclusive-excerpt-ben-greenman-interview.html))
 
 ----
 
- - [**"5 Prince revelations from the memoir of his first wife, Mayte Garcia"**](https://usatoday.com/story/life/people/2017/04/04/5-prince-revelations-memoir-his-first-wife-mayte-garcia/100018722/) in [USA Today](https://usatoday.com/) on 4 April 2017 about [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [memoir](../../topics/memoir/index.md), [The Most Beautiful (book)](../../topics/book/the-most-beautiful/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/people/2017/04/04/5-prince-revelations-memoir-his-first-wife-mayte-garcia/100018722/))
+ - [**"5 Prince revelations from the memoir of his first wife, Mayte Garcia"**](https://usatoday.com/story/life/people/2017/04/04/5-prince-revelations-memoir-his-first-wife-mayte-garcia/100018722/) in [USA Today](https://usatoday.com/) on 4 April 2017 about Mayte, Mayte Garcia, memoir, The Most Beautiful (book) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/people/2017/04/04/5-prince-revelations-memoir-his-first-wife-mayte-garcia/100018722/))
 
 ----
 
@@ -562,11 +566,11 @@
 
 ## March 2017 (16)
 
- - [**"Paisley Park museum opens new room dedicated to Prince's 'Lovesexy'"**](http://www.startribune.com/paisley-park-museum-opens-new-room-dedicated-to-prince-s-lovesexy/417745653/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 31 March 2017 about [museum](../../topics/museum/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-museum-opens-new-room-dedicated-to-prince-s-lovesexy/417745653/))
+ - [**"Paisley Park museum opens new room dedicated to Prince's 'Lovesexy'"**](http://www.startribune.com/paisley-park-museum-opens-new-room-dedicated-to-prince-s-lovesexy/417745653/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 31 March 2017 about museum ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-museum-opens-new-room-dedicated-to-prince-s-lovesexy/417745653/))
 
 ----
 
- - [**"Prince's Sign O' The Times, 30 years on"**](https://www.bbc.com/news/entertainment-arts-39441461) in [BBC News](https://www.bbc.com/news/) on 31 March 2017 about [Bangles](../../topics/bangles/index.md), [Dream Factory (album)](../../topics/album/dream-factory/index.md), [Eric Leeds](../../topics/eric-leeds/index.md), [George Clinton](../../topics/george-clinton/index.md), [Housequake (song)](../../topics/song/housequake/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Matt Fink](../../topics/matt-fink/index.md), [Obama](../../topics/obama/index.md), [Questlove](../../topics/questlove/index.md), [Sheena Easton](../../topics/sheena-easton/index.md), [Starfish And Coffee (song)](../../topics/song/starfish-and-coffee/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [The Ballad Of Dorothy Parker (song)](../../topics/song/the-ballad-of-dorothy-parker/index.md), [The Revolution](../../topics/the-revolution/index.md), [U Got the Look (song)](../../topics/song/u-got-the-look/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md), [Van Jones](../../topics/van-jones/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.bbc.com/news/entertainment-arts-39441461))
+ - [**"Prince's Sign O' The Times, 30 years on"**](https://www.bbc.com/news/entertainment-arts-39441461) in [BBC News](https://www.bbc.com/news/) on 31 March 2017 about Bangles, Dream Factory (album), Eric Leeds, George Clinton, Housequake (song), Jill Jones, Matt Fink, Obama, Questlove, Sheena Easton, Starfish And Coffee (song), Stevie Wonder, Susan Rogers, Susannah Melvoin, The Ballad Of Dorothy Parker (song), The Revolution, U Got the Look (song), Under the Cherry Moon (movie), Van Jones, vault ([mirror](https://web.archive.org/web/*/https://www.bbc.com/news/entertainment-arts-39441461))
 
 ----
 
@@ -574,15 +578,15 @@
 
 ----
 
- - [**"Drummer who discovered Prince dead in elevator talks legend's legacy"**](https://www.cbsnews.com/news/prince-confidant-drummer-kirk-johnson-paisley-park-tour-legacy/) in [CBS News](https://www.cbsnews.com/) on 29 March 2017 about [Carver County](../../topics/carver-county/index.md), [Celebration](../../topics/celebration/index.md), [exhibit](../../topics/exhibit/index.md), [fentanyl](../../topics/fentanyl/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Super Bowl](../../topics/super-bowl/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/news/prince-confidant-drummer-kirk-johnson-paisley-park-tour-legacy/))
+ - [**"Drummer who discovered Prince dead in elevator talks legend's legacy"**](https://www.cbsnews.com/news/prince-confidant-drummer-kirk-johnson-paisley-park-tour-legacy/) in [CBS News](https://www.cbsnews.com/) on 29 March 2017 about Carver County, Celebration, exhibit, fentanyl, Illinois (place), Kirk Johnson, Super Bowl, vault ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/news/prince-confidant-drummer-kirk-johnson-paisley-park-tour-legacy/))
 
 ----
 
- - [**"Three official Prince books due at 'Celebration' at Paisley Park"**](http://www.startribune.com/three-official-prince-books-due-at-celebration-at-paisley-park/417539473/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 29 March 2017 about [Celebration](../../topics/celebration/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/three-official-prince-books-due-at-celebration-at-paisley-park/417539473/))
+ - [**"Three official Prince books due at 'Celebration' at Paisley Park"**](http://www.startribune.com/three-official-prince-books-due-at-celebration-at-paisley-park/417539473/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 29 March 2017 about Celebration ([mirror](https://web.archive.org/web/*/http://www.startribune.com/three-official-prince-books-due-at-celebration-at-paisley-park/417539473/))
 
 ----
 
- - [**"Stone Rolling: Raphael Saadiq Interviewed -- Despite a masterful solo career and being the producer behind some of the best D’Angelo and Solange Knowles songs, many still don’t know who Raphael Saadiq is, says Thomas Hobbs, who interviewed him recently"**](https://thequietus.com/articles/22052-raphael-saadiq-interview-solange-prince) in [The Quietus](https://thequietus.com/) on 22 March 2017 about [contract](../../topics/contract/index.md), [D’Angelo](../../topics/d-angelo/index.md), [Erotic City (song)](../../topics/song/erotic-city/index.md), [Raphael Saadiq](../../topics/raphael-saadiq/index.md), [Trump](../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/https://thequietus.com/articles/22052-raphael-saadiq-interview-solange-prince))
+ - [**"Stone Rolling: Raphael Saadiq Interviewed -- Despite a masterful solo career and being the producer behind some of the best D’Angelo and Solange Knowles songs, many still don’t know who Raphael Saadiq is, says Thomas Hobbs, who interviewed him recently"**](https://thequietus.com/articles/22052-raphael-saadiq-interview-solange-prince) in [The Quietus](https://thequietus.com/) on 22 March 2017 about contract, D’Angelo, Erotic City (song), Raphael Saadiq, Trump ([mirror](https://web.archive.org/web/*/https://thequietus.com/articles/22052-raphael-saadiq-interview-solange-prince))
 
 ----
 
@@ -594,7 +598,7 @@
 
 ----
 
- - [**"Austin's SXSW turns purple on St. Paddy's Day with Prince tributes -- Music megafest featured outdoor concert and two panels in his memory."**](http://www.startribune.com/austin-s-sxsw-turns-purple-on-st-patty-s-day-with-prince-tributes/416509783/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 March 2017 about [Owen Husney](../../topics/owen-husney/index.md), [Trump](../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/austin-s-sxsw-turns-purple-on-st-patty-s-day-with-prince-tributes/416509783/))
+ - [**"Austin's SXSW turns purple on St. Paddy's Day with Prince tributes -- Music megafest featured outdoor concert and two panels in his memory."**](http://www.startribune.com/austin-s-sxsw-turns-purple-on-st-patty-s-day-with-prince-tributes/416509783/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 March 2017 about Owen Husney, Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/austin-s-sxsw-turns-purple-on-st-patty-s-day-with-prince-tributes/416509783/))
 
 ----
 
@@ -602,15 +606,15 @@
 
 ----
 
- - [**"AM Prep-Music -- PRINCE’S EX OPENS UP ABOUT THE DEATH OF THEIR SON"**](https://apnews.com/00a854bad6dc4bea836dcf16182e0978) in [Associated Press News](https://apnews.com/) on 16 March 2017 about [Mayte](../../topics/mayte/index.md), [Pfeiffer syndrome type 2](../../topics/pfeiffer-syndrome-type-2/index.md), [The Most Beautiful (book)](../../topics/book/the-most-beautiful/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/00a854bad6dc4bea836dcf16182e0978))
+ - [**"AM Prep-Music -- PRINCE’S EX OPENS UP ABOUT THE DEATH OF THEIR SON"**](https://apnews.com/00a854bad6dc4bea836dcf16182e0978) in [Associated Press News](https://apnews.com/) on 16 March 2017 about Mayte, Pfeiffer syndrome type 2, The Most Beautiful (book) ([mirror](https://web.archive.org/web/*/https://apnews.com/00a854bad6dc4bea836dcf16182e0978))
 
 ----
 
- - [**"Prince’s ex-wife opens up about 1996 death of couple’s baby"**](https://apnews.com/4353bb4317364ba9b544c3363334fe4b) by The Associated Press in [Associated Press News](https://apnews.com/) on 15 March 2017 about [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [memoir](../../topics/memoir/index.md), [Pfeiffer syndrome type 2](../../topics/pfeiffer-syndrome-type-2/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/4353bb4317364ba9b544c3363334fe4b))
+ - [**"Prince’s ex-wife opens up about 1996 death of couple’s baby"**](https://apnews.com/4353bb4317364ba9b544c3363334fe4b) by The Associated Press in [Associated Press News](https://apnews.com/) on 15 March 2017 about Mayte, Mayte Garcia, memoir, Pfeiffer syndrome type 2 ([mirror](https://web.archive.org/web/*/https://apnews.com/4353bb4317364ba9b544c3363334fe4b))
 
 ----
 
- - [**"Prince's ex-wife opens up about 1996 death of couple's baby"**](http://www.startribune.com/prince-s-ex-wife-opens-up-about-1996-death-of-couple-s-baby/416246944/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 15 March 2017 about [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-ex-wife-opens-up-about-1996-death-of-couple-s-baby/416246944/))
+ - [**"Prince's ex-wife opens up about 1996 death of couple's baby"**](http://www.startribune.com/prince-s-ex-wife-opens-up-about-1996-death-of-couple-s-baby/416246944/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 15 March 2017 about Mayte, Mayte Garcia ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-ex-wife-opens-up-about-1996-death-of-couple-s-baby/416246944/))
 
 ----
 
@@ -626,25 +630,29 @@
 
 ----
 
-## February 2017 (6)
+## February 2017 (7)
 
  - [**"Delta's boarding music almost rocks"**](http://www.startribune.com/delta-s-boarding-music-almost-rocks/414664093/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 24 February 2017 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/delta-s-boarding-music-almost-rocks/414664093/))
 
 ----
 
- - [**"Prince’s estate to release ‘unreleased gems’ from back catalogue"**](https://apnews.com/e2aa16268e7b4d5e84f5158e895ea006) in [Associated Press News](https://apnews.com/) on 13 February 2017 about [Apple Music](../../topics/apple-music/index.md), [fentanyl](../../topics/fentanyl/index.md), [Grammy Award](../../topics/grammy-award/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Tidal](../../topics/tidal/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/e2aa16268e7b4d5e84f5158e895ea006))
+ - [**"An Announcement of Royal Proportions: Prince’s Warner Bros. Catalog is Streaming Again"**](https://www.rhino.com/article/an-announcement-of-royal-proportions-princes-warner-bros-catalog-is-streaming-again) in [Rhino](https://www.rhino.com/) on 13 February 2017 about 1999 (album), Around The World In A Day (album), Batman (album), Controversy (album), Dirty Mind (album), For You (album), Grammy Award, Lovesexy (album), Parade (album), Purple Rain (album), Spotify, vault ([mirror](https://web.archive.org/web/*/https://www.rhino.com/article/an-announcement-of-royal-proportions-princes-warner-bros-catalog-is-streaming-again))
 
 ----
 
- - [**"Prince’s Warner Bros. catalog goes to all streaming services"**](https://apnews.com/e19c5f6e61c54fdfbb1eb1b2ab18cd16) in [Associated Press News](https://apnews.com/) on 12 February 2017 about [Warner Bros. Records](../../topics/warner-bros-records/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/e19c5f6e61c54fdfbb1eb1b2ab18cd16))
+ - [**"Prince’s estate to release ‘unreleased gems’ from back catalogue"**](https://apnews.com/e2aa16268e7b4d5e84f5158e895ea006) in [Associated Press News](https://apnews.com/) on 13 February 2017 about Apple Music, fentanyl, Grammy Award, Little Red Corvette (song), Tidal, Warner Bros. Records ([mirror](https://web.archive.org/web/*/https://apnews.com/e2aa16268e7b4d5e84f5158e895ea006))
 
 ----
 
- - [**"What's in Prince's 'vault'? It's still secret but maybe not for long"**](https://usatoday.com/story/life/music/2017/02/10/whats-princes-vault-s-still-secret-but-maybe-not-long/97744394/) in [USA Today](https://usatoday.com/) on 10 February 2017 about [merchandise](../../topics/merchandise/index.md), [NPG Records](../../topics/npg-records/index.md), [Spotify](../../topics/spotify/index.md), [Tidal](../../topics/tidal/index.md), [Universal Music Group](../../topics/universal-music-group/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2017/02/10/whats-princes-vault-s-still-secret-but-maybe-not-long/97744394/))
+ - [**"Prince’s Warner Bros. catalog goes to all streaming services"**](https://apnews.com/e19c5f6e61c54fdfbb1eb1b2ab18cd16) in [Associated Press News](https://apnews.com/) on 12 February 2017 about Warner Bros. Records ([mirror](https://web.archive.org/web/*/https://apnews.com/e19c5f6e61c54fdfbb1eb1b2ab18cd16))
 
 ----
 
- - [**"The Estate Of Prince Rogers Nelson Selects Universal Music Group To Manage Iconic Artist's Recordings -- Deal Encompasses Prince's Grammy-Winning NPG Records, Hits from Earlier Catalogs and Vast Collection of Unreleased Works"**](https://www.prnewswire.com/news-releases/the-estate-of-prince-rogers-nelson-selects-universal-music-group-to-manage-iconic-artists-recordings-300404797.html) in [PR Newswire](https://www.prnewswire.com/) on 9 February 2017 about [3121 (album)](../../topics/album/3121/index.md), [Bravado](../../topics/bravado/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [merchandise](../../topics/merchandise/index.md), [NPG Records](../../topics/npg-records/index.md), [Universal Music Group](../../topics/universal-music-group/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/the-estate-of-prince-rogers-nelson-selects-universal-music-group-to-manage-iconic-artists-recordings-300404797.html))
+ - [**"What's in Prince's 'vault'? It's still secret but maybe not for long"**](https://usatoday.com/story/life/music/2017/02/10/whats-princes-vault-s-still-secret-but-maybe-not-long/97744394/) in [USA Today](https://usatoday.com/) on 10 February 2017 about merchandise, NPG Records, Spotify, Tidal, Universal Music Group, vault ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2017/02/10/whats-princes-vault-s-still-secret-but-maybe-not-long/97744394/))
+
+----
+
+ - [**"The Estate Of Prince Rogers Nelson Selects Universal Music Group To Manage Iconic Artist's Recordings -- Deal Encompasses Prince's Grammy-Winning NPG Records, Hits from Earlier Catalogs and Vast Collection of Unreleased Works"**](https://www.prnewswire.com/news-releases/the-estate-of-prince-rogers-nelson-selects-universal-music-group-to-manage-iconic-artists-recordings-300404797.html) in [PR Newswire](https://www.prnewswire.com/) on 9 February 2017 about 3121 (album), Bravado, Charles Koppelman, merchandise, NPG Records, Universal Music Group, vault ([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/the-estate-of-prince-rogers-nelson-selects-universal-music-group-to-manage-iconic-artists-recordings-300404797.html))
 
 ----
 
@@ -654,7 +662,7 @@
 
 ## January 2017 (15)
 
- - [**"Carver County judge decides not to appoint a co-executor for Prince's estate -- Comerica Bank & Trust will solely manage the multimillion estate."**](http://www.startribune.com/carver-county-judge-decides-not-to-appoint-a-co-executor-for-prince-s-estate/411678576/) by Mary Lynn Smith in [Minneapolis Star Tribune](http://www.startribune.com/) on 24 January 2017 about [Carver County](../../topics/carver-county/index.md), [Comerica Bank & Trust](../../topics/comerica-bank-trust/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/carver-county-judge-decides-not-to-appoint-a-co-executor-for-prince-s-estate/411678576/))
+ - [**"Carver County judge decides not to appoint a co-executor for Prince's estate -- Comerica Bank & Trust will solely manage the multimillion estate."**](http://www.startribune.com/carver-county-judge-decides-not-to-appoint-a-co-executor-for-prince-s-estate/411678576/) by Mary Lynn Smith in [Minneapolis Star Tribune](http://www.startribune.com/) on 24 January 2017 about Carver County, Comerica Bank & Trust ([mirror](https://web.archive.org/web/*/http://www.startribune.com/carver-county-judge-decides-not-to-appoint-a-co-executor-for-prince-s-estate/411678576/))
 
 ----
 
@@ -670,15 +678,15 @@
 
 ----
 
- - [**"Tax deadline looms for Prince estate; government to get half"**](https://apnews.com/79450a727b23422e94e3ded9a5f9fcff) by Steve Karnowski (Associated Press) in [Associated Press News](https://apnews.com/) on 17 January 2017 about [Prince Estate](../../topics/prince-estate/index.md), [Robert Strauss](../../topics/robert-strauss/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/79450a727b23422e94e3ded9a5f9fcff))
+ - [**"Tax deadline looms for Prince estate; government to get half"**](https://apnews.com/79450a727b23422e94e3ded9a5f9fcff) by Steve Karnowski (Associated Press) in [Associated Press News](https://apnews.com/) on 17 January 2017 about Prince Estate, Robert Strauss, The Prince Estate ([mirror](https://web.archive.org/web/*/https://apnews.com/79450a727b23422e94e3ded9a5f9fcff))
 
 ----
 
- - [**"Court holds off determining Prince's legal heirs, picks firm to oversee estate -- Filings in Carver County District Court raised questions of conflicts of interest in the management of the estate."**](http://www.startribune.com/challenges-raised-in-hand-off-of-prince-estate/410513285/) by Dan Browning, David Chanen in [Minneapolis Star Tribune](http://www.startribune.com/) on 13 January 2017 about [Carver County](../../topics/carver-county/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/challenges-raised-in-hand-off-of-prince-estate/410513285/))
+ - [**"Court holds off determining Prince's legal heirs, picks firm to oversee estate -- Filings in Carver County District Court raised questions of conflicts of interest in the management of the estate."**](http://www.startribune.com/challenges-raised-in-hand-off-of-prince-estate/410513285/) by Dan Browning, David Chanen in [Minneapolis Star Tribune](http://www.startribune.com/) on 13 January 2017 about Carver County ([mirror](https://web.archive.org/web/*/http://www.startribune.com/challenges-raised-in-hand-off-of-prince-estate/410513285/))
 
 ----
 
- - [**"Divorce file: Prince, 2nd wife lived luxurious lifestyle"**](https://apnews.com/d52610515904420ca116e820411aa344) in [Associated Press News](https://apnews.com/) on 13 January 2017 about [Manuela Testolini](../../topics/manuela-testolini/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Toronto](../../topics/toronto/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/d52610515904420ca116e820411aa344))
+ - [**"Divorce file: Prince, 2nd wife lived luxurious lifestyle"**](https://apnews.com/d52610515904420ca116e820411aa344) in [Associated Press News](https://apnews.com/) on 13 January 2017 about Manuela Testolini, Mayte, Mayte Garcia, Toronto ([mirror](https://web.archive.org/web/*/https://apnews.com/d52610515904420ca116e820411aa344))
 
 ----
 
@@ -686,27 +694,27 @@
 
 ----
 
- - [**"Judge: Appeals holding up Prince estate determination"**](https://apnews.com/c26a8f91fcbc4e25b4138a17edc9c56e) in [Associated Press News](https://apnews.com/) on 12 January 2017 about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [contract](../../topics/contract/index.md), [John Nelson](../../topics/john-nelson/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Van Jones](../../topics/van-jones/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/c26a8f91fcbc4e25b4138a17edc9c56e))
+ - [**"Judge: Appeals holding up Prince estate determination"**](https://apnews.com/c26a8f91fcbc4e25b4138a17edc9c56e) in [Associated Press News](https://apnews.com/) on 12 January 2017 about Alfred Jackson, Bremer Trust, Carver County, contract, John Nelson, Kevin Eide, Omarr Baker, Prince Estate, Tyka Nelson, Van Jones ([mirror](https://web.archive.org/web/*/https://apnews.com/c26a8f91fcbc4e25b4138a17edc9c56e))
 
 ----
 
- - [**"Azoff’s company signs Prince estate for performing rights"**](https://apnews.com/ff0777c8261d47d4842d12a9329141e8) in [Associated Press News](https://apnews.com/) on 11 January 2017 about [ASCAP](../../topics/ascap/index.md), [Global Music Rights](../../topics/global-music-rights/index.md), [Irving Azoff](../../topics/irving-azoff/index.md), [performing rights](../../topics/performing-rights/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Randy Grimmett](../../topics/randy-grimmett/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/ff0777c8261d47d4842d12a9329141e8))
+ - [**"Azoff’s company signs Prince estate for performing rights"**](https://apnews.com/ff0777c8261d47d4842d12a9329141e8) in [Associated Press News](https://apnews.com/) on 11 January 2017 about ASCAP, Global Music Rights, Irving Azoff, performing rights, Prince Estate, Randy Grimmett, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://apnews.com/ff0777c8261d47d4842d12a9329141e8))
 
 ----
 
- - [**"Prince estate signs merchandising deal with UMG’s Bravado"**](https://apnews.com/b45977db69d142faa7174d2c45ef9498) in [Associated Press News](https://apnews.com/) on 10 January 2017 about [Bravado](../../topics/bravado/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Universal Music Group](../../topics/universal-music-group/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/b45977db69d142faa7174d2c45ef9498))
+ - [**"Prince estate signs merchandising deal with UMG’s Bravado"**](https://apnews.com/b45977db69d142faa7174d2c45ef9498) in [Associated Press News](https://apnews.com/) on 10 January 2017 about Bravado, Charles Koppelman, Prince Estate, Universal Music Group ([mirror](https://web.archive.org/web/*/https://apnews.com/b45977db69d142faa7174d2c45ef9498))
 
 ----
 
- - [**"The Estate Of Prince Rogers Nelson Signs Exclusive Worldwide Merchandise Agreement With Universal Music Group's Bravado"**](https://www.prnewswire.com/news-releases/the-estate-of-prince-rogers-nelson-signs-exclusive-worldwide-merchandise-agreement-with-universal-music-groups-bravado-300388893.html) in [PR Newswire](https://www.prnewswire.com/) on 10 January 2017 about [Bravado](../../topics/bravado/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [merchandise](../../topics/merchandise/index.md), [Universal Music Group](../../topics/universal-music-group/index.md) ([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/the-estate-of-prince-rogers-nelson-signs-exclusive-worldwide-merchandise-agreement-with-universal-music-groups-bravado-300388893.html))
+ - [**"The Estate Of Prince Rogers Nelson Signs Exclusive Worldwide Merchandise Agreement With Universal Music Group's Bravado"**](https://www.prnewswire.com/news-releases/the-estate-of-prince-rogers-nelson-signs-exclusive-worldwide-merchandise-agreement-with-universal-music-groups-bravado-300388893.html) in [PR Newswire](https://www.prnewswire.com/) on 10 January 2017 about Bravado, Charles Koppelman, merchandise, Universal Music Group ([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/the-estate-of-prince-rogers-nelson-signs-exclusive-worldwide-merchandise-agreement-with-universal-music-groups-bravado-300388893.html))
 
 ----
 
- - [**"Special administrator: Not all law firms seeking $1.2 million in payment benefited Prince estate -- Special administrator's filing says that some assets squandered by legal teams."**](http://www.startribune.com/special-administrator-not-all-law-firms-seeking-1-2-million-in-payment-benefitted-prince-estate/410134635/) by Rochelle Olson in [Minneapolis Star Tribune](http://www.startribune.com/) on 9 January 2017 about [Prince Estate](../../topics/prince-estate/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/special-administrator-not-all-law-firms-seeking-1-2-million-in-payment-benefitted-prince-estate/410134635/))
+ - [**"Special administrator: Not all law firms seeking $1.2 million in payment benefited Prince estate -- Special administrator's filing says that some assets squandered by legal teams."**](http://www.startribune.com/special-administrator-not-all-law-firms-seeking-1-2-million-in-payment-benefitted-prince-estate/410134635/) by Rochelle Olson in [Minneapolis Star Tribune](http://www.startribune.com/) on 9 January 2017 about Prince Estate ([mirror](https://web.archive.org/web/*/http://www.startribune.com/special-administrator-not-all-law-firms-seeking-1-2-million-in-payment-benefitted-prince-estate/410134635/))
 
 ----
 
- - [**"Inventory of Prince’s estate lists cash, property, gold bars"**](https://apnews.com/5ac8a5faa09440a4a8cc2cb43db35ee8) in [Associated Press News](https://apnews.com/) on 7 January 2017 about [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [LotusFlow3r (album)](../../topics/album/lotusflow3r/index.md), [NPG Records](../../topics/npg-records/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [trademark](../../topics/trademark/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/5ac8a5faa09440a4a8cc2cb43db35ee8))
+ - [**"Inventory of Prince’s estate lists cash, property, gold bars"**](https://apnews.com/5ac8a5faa09440a4a8cc2cb43db35ee8) in [Associated Press News](https://apnews.com/) on 7 January 2017 about Bremer Trust, Carver County, fentanyl, LotusFlow3r (album), NPG Records, Paisley Park Enterprises, trademark ([mirror](https://web.archive.org/web/*/https://apnews.com/5ac8a5faa09440a4a8cc2cb43db35ee8))
 
 ----
 

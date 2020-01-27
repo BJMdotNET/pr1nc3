@@ -1,90 +1,90 @@
 # Jon Bream
 
- - [**"Ava DuVernay quits as director of Netflix's authorized Prince documentary"**](http://www.startribune.com/ava-duvernay-quits-as-director-of-netflix-s-authorized-prince-documentary/557885482/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 August 2019 about [Ava DuVernay](../../topics/ava-duvernay/index.md), [Netflix](../../topics/netflix/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/ava-duvernay-quits-as-director-of-netflix-s-authorized-prince-documentary/557885482/))
+ - [**"Ava DuVernay quits as director of Netflix's authorized Prince documentary"**](http://www.startribune.com/ava-duvernay-quits-as-director-of-netflix-s-authorized-prince-documentary/557885482/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 August 2019 about Ava DuVernay, Netflix ([mirror](https://web.archive.org/web/*/http://www.startribune.com/ava-duvernay-quits-as-director-of-netflix-s-authorized-prince-documentary/557885482/))
 
 ----
 
- - [**"From Neil to J. Lo: The 10 greatest Twin Cities concerts of 2019 (so far) -- Here are the performers who thrilled us."**](http://www.startribune.com/from-neil-to-j-lo-the-10-greatest-twin-cities-concerts-of-2019-so-far/512907922/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 July 2019 about [The Roots](../../topics/the-roots/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/from-neil-to-j-lo-the-10-greatest-twin-cities-concerts-of-2019-so-far/512907922/))
+ - [**"From Neil to J. Lo: The 10 greatest Twin Cities concerts of 2019 (so far) -- Here are the performers who thrilled us."**](http://www.startribune.com/from-neil-to-j-lo-the-10-greatest-twin-cities-concerts-of-2019-so-far/512907922/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 July 2019 about The Roots ([mirror](https://web.archive.org/web/*/http://www.startribune.com/from-neil-to-j-lo-the-10-greatest-twin-cities-concerts-of-2019-so-far/512907922/))
 
 ----
 
- - [**"Questlove and the Roots give a Prince-like epic performance at Mystic Lake"**](http://www.startribune.com/questlove-and-the-roots-give-a-prince-like-epic-performance-at-mystic-lake/512044012/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 1 July 2019 about [Questlove](../../topics/questlove/index.md), [Trump](../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/questlove-and-the-roots-give-a-prince-like-epic-performance-at-mystic-lake/512044012/))
+ - [**"Questlove and the Roots give a Prince-like epic performance at Mystic Lake"**](http://www.startribune.com/questlove-and-the-roots-give-a-prince-like-epic-performance-at-mystic-lake/512044012/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 1 July 2019 about Questlove, Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/questlove-and-the-roots-give-a-prince-like-epic-performance-at-mystic-lake/512044012/))
 
 ----
 
- - [**"Sometimes he dreamed his songs: A portrait of Prince in the recording studio -- “You had to be ready at any time for anything that inspired him,” says his L.A. engineer, who dishes on a new album of songs Prince wrote for other artists."**](http://www.startribune.com/sometimes-he-dreamed-his-songs-a-portrait-of-prince-in-the-recording-studio/510918872/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 6 June 2019 about [Originals (album)](../../topics/album/originals/index.md), [Peggy McCreary](../../topics/peggy-mccreary/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/sometimes-he-dreamed-his-songs-a-portrait-of-prince-in-the-recording-studio/510918872/))
+ - [**"Sometimes he dreamed his songs: A portrait of Prince in the recording studio -- “You had to be ready at any time for anything that inspired him,” says his L.A. engineer, who dishes on a new album of songs Prince wrote for other artists."**](http://www.startribune.com/sometimes-he-dreamed-his-songs-a-portrait-of-prince-in-the-recording-studio/510918872/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 6 June 2019 about Originals (album), Peggy McCreary, Sunset Sound (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/sometimes-he-dreamed-his-songs-a-portrait-of-prince-in-the-recording-studio/510918872/))
 
 ----
 
- - [**"Twin Cities concerts of the week: Vampire Weekend, Luis Miguel, New Kids on the Block, Billie Eilish"**](http://www.startribune.com/twin-cities-concerts-of-the-week-vampire-weekend-luis-miguel-new-kids-on-the-block-billie-eilish/510910832/) by Chris Riemenschneider, Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 6 June 2019 about [Brown Mark](../../topics/brown-mark/index.md), [Candy Dulfer](../../topics/candy-dulfer/index.md), [George Clinton](../../topics/george-clinton/index.md), [Ingrid Chavez](../../topics/ingrid-chavez/index.md), [James Brown](../../topics/james-brown/index.md), [Maceo Parker](../../topics/maceo-parker/index.md), [Mazarati](../../topics/mazarati/index.md), [PRN Alumni Foundation](../../topics/prn-alumni-foundation/index.md), [Terry Casey](../../topics/terry-casey/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/twin-cities-concerts-of-the-week-vampire-weekend-luis-miguel-new-kids-on-the-block-billie-eilish/510910832/))
+ - [**"Twin Cities concerts of the week: Vampire Weekend, Luis Miguel, New Kids on the Block, Billie Eilish"**](http://www.startribune.com/twin-cities-concerts-of-the-week-vampire-weekend-luis-miguel-new-kids-on-the-block-billie-eilish/510910832/) by Chris Riemenschneider, Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 6 June 2019 about Brown Mark, Candy Dulfer, George Clinton, Ingrid Chavez, James Brown, Maceo Parker, Mazarati, PRN Alumni Foundation, Terry Casey ([mirror](https://web.archive.org/web/*/http://www.startribune.com/twin-cities-concerts-of-the-week-vampire-weekend-luis-miguel-new-kids-on-the-block-billie-eilish/510910832/))
 
 ----
 
- - [**"Nerdy comic-musician Fred Armisen salutes Prince, Grant Hart at First Avenue"**](http://www.startribune.com/nerdy-comic-musician-fred-armisen-salutes-prince-grant-hart-at-first-avenue/510055762/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 17 May 2019 about [First Avenue (place)](../../topics/place/first-avenue/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/nerdy-comic-musician-fred-armisen-salutes-prince-grant-hart-at-first-avenue/510055762/))
+ - [**"Nerdy comic-musician Fred Armisen salutes Prince, Grant Hart at First Avenue"**](http://www.startribune.com/nerdy-comic-musician-fred-armisen-salutes-prince-grant-hart-at-first-avenue/510055762/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 17 May 2019 about First Avenue (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/nerdy-comic-musician-fred-armisen-salutes-prince-grant-hart-at-first-avenue/510055762/))
 
 ----
 
- - [**"Lizz Wright shakes her soulful Prince tambourine at the Dakota"**](http://www.startribune.com/lizz-wright-shakes-her-soulful-prince-tambourine-at-the-dakota/510019492/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 16 May 2019 about [Dakota (place)](../../topics/place/dakota/index.md), [Lizz Wright](../../topics/lizz-wright/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/lizz-wright-shakes-her-soulful-prince-tambourine-at-the-dakota/510019492/))
+ - [**"Lizz Wright shakes her soulful Prince tambourine at the Dakota"**](http://www.startribune.com/lizz-wright-shakes-her-soulful-prince-tambourine-at-the-dakota/510019492/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 16 May 2019 about Dakota (place), Lizz Wright ([mirror](https://web.archive.org/web/*/http://www.startribune.com/lizz-wright-shakes-her-soulful-prince-tambourine-at-the-dakota/510019492/))
 
 ----
 
- - [**"10 things you’ll learn about First Avenue in new Minnesota History Center show -- First Avenue is getting the museum treatment. Here are 10 things you’ll learn about Minnesota’s most fabled nightclub."**](http://www.startribune.com/10-things-you-ll-learn-about-first-avenue-in-new-minnesota-history-center-show/509374312/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 3 May 2019 about [David Brewster](../../topics/david-brewster/index.md), [Erotic City (song)](../../topics/song/erotic-city/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [Minnesota History Center](../../topics/minnesota-history-center/index.md), [museum](../../topics/museum/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Sam’s (place)](../../topics/place/sam-s/index.md), [Uncle Sam’s (place)](../../topics/place/uncle-sam-s/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/10-things-you-ll-learn-about-first-avenue-in-new-minnesota-history-center-show/509374312/))
+ - [**"10 things you’ll learn about First Avenue in new Minnesota History Center show -- First Avenue is getting the museum treatment. Here are 10 things you’ll learn about Minnesota’s most fabled nightclub."**](http://www.startribune.com/10-things-you-ll-learn-about-first-avenue-in-new-minnesota-history-center-show/509374312/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 3 May 2019 about David Brewster, Erotic City (song), First Avenue (place), Jehovah’s Witness, Minnesota History Center, museum, Purple Rain (movie), Sam’s (place), Uncle Sam’s (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/10-things-you-ll-learn-about-first-avenue-in-new-minnesota-history-center-show/509374312/))
 
 ----
 
- - [**"With Prince on a big screen, fans party like it’s 2009 at the Armory -- It was the second annual posthumous concert featuring live musicians accompanying a video of Prince performing."**](http://www.startribune.com/with-prince-on-a-big-screen-fans-party-like-it-s-2009-at-the-armory/509152322/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 27 April 2019 about [Prince: In Concert On The Big Screen](../../topics/prince-in-concert-on-the-big-screen/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/with-prince-on-a-big-screen-fans-party-like-it-s-2009-at-the-armory/509152322/))
+ - [**"With Prince on a big screen, fans party like it’s 2009 at the Armory -- It was the second annual posthumous concert featuring live musicians accompanying a video of Prince performing."**](http://www.startribune.com/with-prince-on-a-big-screen-fans-party-like-it-s-2009-at-the-armory/509152322/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 27 April 2019 about Prince: In Concert On The Big Screen ([mirror](https://web.archive.org/web/*/http://www.startribune.com/with-prince-on-a-big-screen-fans-party-like-it-s-2009-at-the-armory/509152322/))
 
 ----
 
- - [**"Coming soon from the Prince vault: A new album called ‘Originals’ -- Prince’s estate is announcing the collection of his performances of songs he wrote for others."**](http://www.startribune.com/coming-soon-from-the-prince-vault-a-new-album-called-originals/509009862/) by Chris Riemenschneider, Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 April 2019 about [Ani DiFranco](../../topics/ani-difranco/index.md), [Apple Music](../../topics/apple-music/index.md), [Bangles](../../topics/bangles/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Martika](../../topics/martika/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Netflix](../../topics/netflix/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../topics/album/originals/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Random House ](../../topics/random-house/index.md), [Rave In2 the Joy Fantastic (album)](../../topics/album/rave-in2-the-joy-fantastic/index.md), [Rave Un2 the Joy Fantastic (album)](../../topics/album/rave-un2-the-joy-fantastic/index.md), [Rave Un2 the Year 2000 (video)](../../topics/video/rave-un2-the-year-2000/index.md), [Sex Shooter (song)](../../topics/song/sex-shooter/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [The Family](../../topics/the-family/index.md), [The Glamorous Life (song)](../../topics/song/the-glamorous-life/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [The Time](../../topics/the-time/index.md), [Ultimate Rave (album)](../../topics/album/ultimate-rave/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/coming-soon-from-the-prince-vault-a-new-album-called-originals/509009862/))
+ - [**"Coming soon from the Prince vault: A new album called ‘Originals’ -- Prince’s estate is announcing the collection of his performances of songs he wrote for others."**](http://www.startribune.com/coming-soon-from-the-prince-vault-a-new-album-called-originals/509009862/) by Chris Riemenschneider, Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 April 2019 about Ani DiFranco, Apple Music, Bangles, Dan Piepenbring, First Avenue (place), Kenny Rogers, Larry Graham, Little Red Corvette (song), Manic Monday (song), Martika, Morris Day, Morris Day & The Time, Netflix, Nothing Compares 2 U (song), Originals (album), Prince Estate, Random House , Rave In2 the Joy Fantastic (album), Rave Un2 the Joy Fantastic (album), Rave Un2 the Year 2000 (video), Sex Shooter (song), The Beautiful Ones (book), The Family, The Glamorous Life (song), The Prince Estate, The Time, Ultimate Rave (album), Vanity 6, vault, Wendy Melvoin ([mirror](https://web.archive.org/web/*/http://www.startribune.com/coming-soon-from-the-prince-vault-a-new-album-called-originals/509009862/))
 
 ----
 
- - [**"Third annual Prince commemoration at Paisley Park features emotional ups and downs -- For a third year, fans gather to celebrate and remember the artist."**](http://www.startribune.com/third-annual-prince-commemoration-at-paisley-park-features-emotional-ups-and-downs/509087732/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 April 2019 about [Jesse Johnson](../../topics/jesse-johnson/index.md), [The Time](../../topics/the-time/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/third-annual-prince-commemoration-at-paisley-park-features-emotional-ups-and-downs/509087732/))
+ - [**"Third annual Prince commemoration at Paisley Park features emotional ups and downs -- For a third year, fans gather to celebrate and remember the artist."**](http://www.startribune.com/third-annual-prince-commemoration-at-paisley-park-features-emotional-ups-and-downs/509087732/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 April 2019 about Jesse Johnson, The Time ([mirror](https://web.archive.org/web/*/http://www.startribune.com/third-annual-prince-commemoration-at-paisley-park-features-emotional-ups-and-downs/509087732/))
 
 ----
 
- - [**"Twin Cities concerts of the week: Snoop Dogg, Chris Koza, VocalEssence does Dylan, Prince tributes -- This week’s big gigs for April 26-May 2, also including Neko Case, Kodak Black, Arturo Sandoval, Foals and more."**](http://www.startribune.com/twin-cities-concerts-of-the-week-snoop-dogg-chris-koza-vocalessence-does-dylan-prince-tributes/509061512/) by Chris Riemenschneider, Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 April 2019 about [Eric Leeds](../../topics/eric-leeds/index.md), [LP Music](../../topics/lp-music/index.md), [Michael Bland](../../topics/michael-bland/index.md), [Ricky Peterson](../../topics/ricky-peterson/index.md), [Sonny Thompson](../../topics/sonny-thompson/index.md), [St. Paul Peterson](../../topics/st-paul-peterson/index.md), [Tommy Barbarella](../../topics/tommy-barbarella/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/twin-cities-concerts-of-the-week-snoop-dogg-chris-koza-vocalessence-does-dylan-prince-tributes/509061512/))
+ - [**"Twin Cities concerts of the week: Snoop Dogg, Chris Koza, VocalEssence does Dylan, Prince tributes -- This week’s big gigs for April 26-May 2, also including Neko Case, Kodak Black, Arturo Sandoval, Foals and more."**](http://www.startribune.com/twin-cities-concerts-of-the-week-snoop-dogg-chris-koza-vocalessence-does-dylan-prince-tributes/509061512/) by Chris Riemenschneider, Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 April 2019 about Eric Leeds, LP Music, Michael Bland, Ricky Peterson, Sonny Thompson, St. Paul Peterson, Tommy Barbarella ([mirror](https://web.archive.org/web/*/http://www.startribune.com/twin-cities-concerts-of-the-week-snoop-dogg-chris-koza-vocalessence-does-dylan-prince-tributes/509061512/))
 
 ----
 
- - [**"Prince's memoir 'The Beautiful Ones' will finally be published this fall"**](http://www.startribune.com/prince-s-memoir-the-beautiful-ones-will-finally-be-published-this-fall/508894482/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 April 2019 about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Esther Newberg](../../topics/esther-newberg/index.md), [memoir](../../topics/memoir/index.md), [Random House ](../../topics/random-house/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-memoir-the-beautiful-ones-will-finally-be-published-this-fall/508894482/))
+ - [**"Prince's memoir 'The Beautiful Ones' will finally be published this fall"**](http://www.startribune.com/prince-s-memoir-the-beautiful-ones-will-finally-be-published-this-fall/508894482/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 April 2019 about Dan Piepenbring, Esther Newberg, memoir, Random House , The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-memoir-the-beautiful-ones-will-finally-be-published-this-fall/508894482/))
 
 ----
 
- - [**"Prince's greatest talent? Self-confidence, says the manager who landed 'Purple Rain' -- Bob Cavallo recounts some of the tales he'll tell at Paisley Park for the third annual Celebration."**](http://www.startribune.com/prince-s-greatest-talent-self-confidence-says-the-manager-who-landed-purple-rain/508774052/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 April 2019 about [Bob Cavallo](../../topics/bob-cavallo/index.md), [Graffiti Bridge (movie)](../../topics/movie/graffiti-bridge/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-greatest-talent-self-confidence-says-the-manager-who-landed-purple-rain/508774052/))
+ - [**"Prince's greatest talent? Self-confidence, says the manager who landed 'Purple Rain' -- Bob Cavallo recounts some of the tales he'll tell at Paisley Park for the third annual Celebration."**](http://www.startribune.com/prince-s-greatest-talent-self-confidence-says-the-manager-who-landed-purple-rain/508774052/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 April 2019 about Bob Cavallo, Graffiti Bridge (movie), Purple Rain (movie) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-greatest-talent-self-confidence-says-the-manager-who-landed-purple-rain/508774052/))
 
 ----
 
- - [**"Pick Six: Praise for Lil Nas X, Bob Mould, Zedd, 'Jay's Longhorn' and more -- Pick Six is a half-dozen cool things in music, from two points of view."**](http://www.startribune.com/pick-six-praise-for-lil-nas-x-bob-mould-zedd-jay-s-longhorn-and-more/508453002/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 April 2019 about [Central High](../../topics/central-high/index.md), [Sheila E.](../../topics/sheila-e/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/pick-six-praise-for-lil-nas-x-bob-mould-zedd-jay-s-longhorn-and-more/508453002/))
+ - [**"Pick Six: Praise for Lil Nas X, Bob Mould, Zedd, 'Jay's Longhorn' and more -- Pick Six is a half-dozen cool things in music, from two points of view."**](http://www.startribune.com/pick-six-praise-for-lil-nas-x-bob-mould-zedd-jay-s-longhorn-and-more/508453002/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 April 2019 about Central High, Sheila E. ([mirror](https://web.archive.org/web/*/http://www.startribune.com/pick-six-praise-for-lil-nas-x-bob-mould-zedd-jay-s-longhorn-and-more/508453002/))
 
 ----
 
- - [**"Former Prince guitarist Donna Grantis celebrates new jazz-rock album at the Dakota -- 3rdEyeGirl guitarist Donna Grantis will celebrate her new jazz-rock fusion album in Minneapolis."**](http://www.startribune.com/former-prince-guitarist-donna-grantis-celebrates-new-jazz-rock-album-at-the-dakota/507678332/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 March 2019 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Dakota (place)](../../topics/place/dakota/index.md), [Donna Grantis](../../topics/donna-grantis/index.md), [Hannah Welton](../../topics/hannah-welton/index.md), [Toronto](../../topics/toronto/index.md), [YouTube](../../topics/youtube/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/former-prince-guitarist-donna-grantis-celebrates-new-jazz-rock-album-at-the-dakota/507678332/))
+ - [**"Former Prince guitarist Donna Grantis celebrates new jazz-rock album at the Dakota -- 3rdEyeGirl guitarist Donna Grantis will celebrate her new jazz-rock fusion album in Minneapolis."**](http://www.startribune.com/former-prince-guitarist-donna-grantis-celebrates-new-jazz-rock-album-at-the-dakota/507678332/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 March 2019 about 3rdEyeGirl, Aretha Franklin, Dakota (place), Donna Grantis, Hannah Welton, Toronto, YouTube ([mirror](https://web.archive.org/web/*/http://www.startribune.com/former-prince-guitarist-donna-grantis-celebrates-new-jazz-rock-album-at-the-dakota/507678332/))
 
 ----
 
- - [**"Prince protégée Donna Grantis elaborates on the titles for new 'Diamonds & Dynamite' album"**](http://www.startribune.com/prince-protge-donna-grantis-elaborates-on-the-titles-for-new-diamonds-amp-dynamite-album/507678302/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 March 2019 about [Donna Grantis](../../topics/donna-grantis/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-protge-donna-grantis-elaborates-on-the-titles-for-new-diamonds-amp-dynamite-album/507678302/))
+ - [**"Prince protégée Donna Grantis elaborates on the titles for new 'Diamonds & Dynamite' album"**](http://www.startribune.com/prince-protge-donna-grantis-elaborates-on-the-titles-for-new-diamonds-amp-dynamite-album/507678302/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 March 2019 about Donna Grantis ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-protge-donna-grantis-elaborates-on-the-titles-for-new-diamonds-amp-dynamite-album/507678302/))
 
 ----
 
- - [**"Urn with Prince's ashes still in the building, 'just not on display' at Paisley Park"**](http://www.startribune.com/urn-with-prince-s-ashes-still-in-the-building-just-not-on-display-at-paisley-park/507434942/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 March 2019 about [museum](../../topics/museum/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/urn-with-prince-s-ashes-still-in-the-building-just-not-on-display-at-paisley-park/507434942/))
+ - [**"Urn with Prince's ashes still in the building, 'just not on display' at Paisley Park"**](http://www.startribune.com/urn-with-prince-s-ashes-still-in-the-building-just-not-on-display-at-paisley-park/507434942/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 March 2019 about museum ([mirror](https://web.archive.org/web/*/http://www.startribune.com/urn-with-prince-s-ashes-still-in-the-building-just-not-on-display-at-paisley-park/507434942/))
 
 ----
 
- - [**"Paisley Park rocks again with four of Prince's female protégées in concert"**](http://www.startribune.com/paisley-park-rocks-again-with-four-of-prince-s-female-protegees-in-concert/507037812/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 March 2019 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Donna Grantis](../../topics/donna-grantis/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Shelby J.](../../topics/shelby-j/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-rocks-again-with-four-of-prince-s-female-protegees-in-concert/507037812/))
+ - [**"Paisley Park rocks again with four of Prince's female protégées in concert"**](http://www.startribune.com/paisley-park-rocks-again-with-four-of-prince-s-female-protegees-in-concert/507037812/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 March 2019 about 3rdEyeGirl, Donna Grantis, Judith Hill, Liv Warfield, Sheila E., Shelby J. ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-rocks-again-with-four-of-prince-s-female-protegees-in-concert/507037812/))
 
 ----
 
- - [**"Grammy winner Angelique Kidjo gets Afro funky covering Talking Heads in Minneapolis"**](http://www.startribune.com/grammy-winner-angelique-kidjo-gets-afro-funky-covering-talking-heads-in-minneapolis/506087722/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 February 2019 about [Angelique Kidjo](../../topics/angelique-kidjo/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/grammy-winner-angelique-kidjo-gets-afro-funky-covering-talking-heads-in-minneapolis/506087722/))
+ - [**"Grammy winner Angelique Kidjo gets Afro funky covering Talking Heads in Minneapolis"**](http://www.startribune.com/grammy-winner-angelique-kidjo-gets-afro-funky-covering-talking-heads-in-minneapolis/506087722/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 February 2019 about Angelique Kidjo ([mirror](https://web.archive.org/web/*/http://www.startribune.com/grammy-winner-angelique-kidjo-gets-afro-funky-covering-talking-heads-in-minneapolis/506087722/))
 
 ----
 
- - [**"Eric Church doubles down at Target Center -- Country superstar saved his best for second half."**](http://www.startribune.com/eric-church-doubles-down-at-target-center/505603292/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 8 February 2019 about [Jon Bream](../../topics/jon-bream/index.md), [Parade (album)](../../topics/album/parade/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/eric-church-doubles-down-at-target-center/505603292/))
+ - [**"Eric Church doubles down at Target Center -- Country superstar saved his best for second half."**](http://www.startribune.com/eric-church-doubles-down-at-target-center/505603292/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 8 February 2019 about Jon Bream, Parade (album) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/eric-church-doubles-down-at-target-center/505603292/))
 
 ----
 
- - [**"Prince Celebration 2019 to feature Jesse Johnson, manager Bob Cavallo and live/video concert"**](http://www.startribune.com/prince-celebration-2019-to-feature-jesse-johnson-manager-bob-cavallo-and-live-video-concert/505394312/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 February 2019 about [Bob Cavallo](../../topics/bob-cavallo/index.md), [Celebration 2019](../../topics/celebration-2019/index.md), [Jesse Johnson](../../topics/jesse-johnson/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-celebration-2019-to-feature-jesse-johnson-manager-bob-cavallo-and-live-video-concert/505394312/))
+ - [**"Prince Celebration 2019 to feature Jesse Johnson, manager Bob Cavallo and live/video concert"**](http://www.startribune.com/prince-celebration-2019-to-feature-jesse-johnson-manager-bob-cavallo-and-live-video-concert/505394312/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 February 2019 about Bob Cavallo, Celebration 2019, Jesse Johnson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-celebration-2019-to-feature-jesse-johnson-manager-bob-cavallo-and-live-video-concert/505394312/))
 
 ----
 
@@ -116,11 +116,11 @@
 
 ----
 
- - [**"Prince insiders dish on first album released from storied Paisley Park vault -- The coveted 1983 recording features solo piano work and an embryonic "Purple Rain.""**](http://www.startribune.com/prince-insiders-dish-on-first-album-released-from-storied-paisley-park-vault/493845601/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 September 2018 about [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-insiders-dish-on-first-album-released-from-storied-paisley-park-vault/493845601/))
+ - [**"Prince insiders dish on first album released from storied Paisley Park vault -- The coveted 1983 recording features solo piano work and an embryonic "Purple Rain.""**](http://www.startribune.com/prince-insiders-dish-on-first-album-released-from-storied-paisley-park-vault/493845601/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 September 2018 about vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-insiders-dish-on-first-album-released-from-storied-paisley-park-vault/493845601/))
 
 ----
 
- - [**"Prince to receive honorary degree from University of Minnesota"**](http://www.startribune.com/prince-to-receive-honorary-degree-from-university-of-minnesota-on-sept-26/490762631/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 13 August 2018 about [honorary degree](../../topics/honorary-degree/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-to-receive-honorary-degree-from-university-of-minnesota-on-sept-26/490762631/))
+ - [**"Prince to receive honorary degree from University of Minnesota"**](http://www.startribune.com/prince-to-receive-honorary-degree-from-university-of-minnesota-on-sept-26/490762631/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 13 August 2018 about honorary degree, University of Minnesota ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-to-receive-honorary-degree-from-university-of-minnesota-on-sept-26/490762631/))
 
 ----
 
@@ -128,7 +128,7 @@
 
 ----
 
- - [**"Janelle Monáe gives galvanizing Prince-inspired performance at sold-out State Theatre -- Review: It was obvious from the reaction of the celebratory and worshipful crowd that the visionary singer has gone from cult hero to cultural hero."**](http://www.startribune.com/janelle-monae-fights-for-the-right-to-funk/487297841/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 4 July 2018 about [Janelle Monae](../../topics/janelle-monae/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/janelle-monae-fights-for-the-right-to-funk/487297841/))
+ - [**"Janelle Monáe gives galvanizing Prince-inspired performance at sold-out State Theatre -- Review: It was obvious from the reaction of the celebratory and worshipful crowd that the visionary singer has gone from cult hero to cultural hero."**](http://www.startribune.com/janelle-monae-fights-for-the-right-to-funk/487297841/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 4 July 2018 about Janelle Monae ([mirror](https://web.archive.org/web/*/http://www.startribune.com/janelle-monae-fights-for-the-right-to-funk/487297841/))
 
 ----
 
@@ -136,15 +136,15 @@
 
 ----
 
- - [**"10 curious things we learned about Prince from the investigations -- He liked Häagen-Dazs ice cream, 5-Hour Energy drinks and MAC beauty products."**](http://www.startribune.com/10-curious-things-we-learned-about-prince-from-the-investigations/480364723/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 April 2018 about [airport](../../topics/airport/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [CeeLo Green](../../topics/ceelo-green/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Esperanza Spalding](../../topics/esperanza-spalding/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Janelle Monae](../../topics/janelle-monae/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Larry Graham](../../topics/larry-graham/index.md), [North Memorial Medical Center (place)](../../topics/place/north-memorial-medical-center/index.md), [Peter Vang](../../topics/peter-vang/index.md), [Phaedra Ellis Lamkin](../../topics/phaedra-ellis-lamkin/index.md), [Rita Ora](../../topics/rita-ora/index.md), [Sheila E.](../../topics/sheila-e/index.md), [U Got the Look (song)](../../topics/song/u-got-the-look/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/10-curious-things-we-learned-about-prince-from-the-investigations/480364723/))
+ - [**"10 curious things we learned about Prince from the investigations -- He liked Häagen-Dazs ice cream, 5-Hour Energy drinks and MAC beauty products."**](http://www.startribune.com/10-curious-things-we-learned-about-prince-from-the-investigations/480364723/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 April 2018 about airport, Atlanta (place), Carver County, CeeLo Green, Chaka Khan, Esperanza Spalding, Illinois (place), Janelle Monae, Judith Hill, Kirk Johnson, Larry Graham, North Memorial Medical Center (place), Peter Vang, Phaedra Ellis Lamkin, Rita Ora, Sheila E., U Got the Look (song), vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/10-curious-things-we-learned-about-prince-from-the-investigations/480364723/))
 
 ----
 
- - [**"The scholarly Prince: U symposium explores musical icon’s link to Minneapolis"**](https://apnews.com/6a20afbf0eeb41c9a728cbaaa1c2af71) by Jon Bream in [Associated Press News](https://apnews.com/) on 17 April 2018 about [Joni Mitchell](../../topics/joni-mitchell/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/6a20afbf0eeb41c9a728cbaaa1c2af71))
+ - [**"The scholarly Prince: U symposium explores musical icon’s link to Minneapolis"**](https://apnews.com/6a20afbf0eeb41c9a728cbaaa1c2af71) by Jon Bream in [Associated Press News](https://apnews.com/) on 17 April 2018 about Joni Mitchell, Mayte, Mayte Garcia ([mirror](https://web.archive.org/web/*/https://apnews.com/6a20afbf0eeb41c9a728cbaaa1c2af71))
 
 ----
 
- - [**"In Minneapolis, Portuguese star Ana Moura offers world premiere of song she wrote with Prince"**](http://www.startribune.com/in-minneapolis-portuguese-star-ana-moura-offers-world-premiere-of-song-she-wrote-with-prince/479234123/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 April 2018 about [Ana Moura](../../topics/ana-moura/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/in-minneapolis-portuguese-star-ana-moura-offers-world-premiere-of-song-she-wrote-with-prince/479234123/))
+ - [**"In Minneapolis, Portuguese star Ana Moura offers world premiere of song she wrote with Prince"**](http://www.startribune.com/in-minneapolis-portuguese-star-ana-moura-offers-world-premiere-of-song-she-wrote-with-prince/479234123/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 April 2018 about Ana Moura ([mirror](https://web.archive.org/web/*/http://www.startribune.com/in-minneapolis-portuguese-star-ana-moura-offers-world-premiere-of-song-she-wrote-with-prince/479234123/))
 
 ----
 
@@ -156,11 +156,11 @@
 
 ----
 
- - [**"For $160, you get to hold Prince's guitar on 3-hour 'Ultimate' Paisley Park tour -- Is the new "Ultimate Experience" at Prince's museum worth $160?"**](http://www.startribune.com/for-160-you-get-to-hold-prince-s-guitar-on-3-hour-ultimate-paisley-park-tour/441644933/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 24 August 2017 about [museum](../../topics/museum/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/for-160-you-get-to-hold-prince-s-guitar-on-3-hour-ultimate-paisley-park-tour/441644933/))
+ - [**"For $160, you get to hold Prince's guitar on 3-hour 'Ultimate' Paisley Park tour -- Is the new "Ultimate Experience" at Prince's museum worth $160?"**](http://www.startribune.com/for-160-you-get-to-hold-prince-s-guitar-on-3-hour-ultimate-paisley-park-tour/441644933/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 24 August 2017 about museum ([mirror](https://web.archive.org/web/*/http://www.startribune.com/for-160-you-get-to-hold-prince-s-guitar-on-3-hour-ultimate-paisley-park-tour/441644933/))
 
 ----
 
- - [**"Jazz legend Herbie Hancock talks music, recovery and partying with Prince                                     -- Jazz giant Herbie Hancock is working on an album with Snoop and Pharrell; he'll preview it at the Minnesota Zoo. "**](http://www.startribune.com/jazz-legend-herbie-hancock-talks-music-recovery-and-partying-with-prince/439675873/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 August 2017 about [Joni Mitchell](../../topics/joni-mitchell/index.md), [memoir](../../topics/memoir/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Trump](../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/jazz-legend-herbie-hancock-talks-music-recovery-and-partying-with-prince/439675873/))
+ - [**"Jazz legend Herbie Hancock talks music, recovery and partying with Prince                                     -- Jazz giant Herbie Hancock is working on an album with Snoop and Pharrell; he'll preview it at the Minnesota Zoo. "**](http://www.startribune.com/jazz-legend-herbie-hancock-talks-music-recovery-and-partying-with-prince/439675873/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 August 2017 about Joni Mitchell, memoir, Miles Davis, Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/jazz-legend-herbie-hancock-talks-music-recovery-and-partying-with-prince/439675873/))
 
 ----
 
@@ -178,7 +178,7 @@
 
 ----
 
- - [**"Ex-Prince guitarist Donna Grantis creates big fun with jazz-rock fusion group"**](http://www.startribune.com/ex-prince-guitarist-donna-grantis-creates-big-fun-with-jazz-rock-fusion-group/438738623/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 August 2017 about [Donna Grantis](../../topics/donna-grantis/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/ex-prince-guitarist-donna-grantis-creates-big-fun-with-jazz-rock-fusion-group/438738623/))
+ - [**"Ex-Prince guitarist Donna Grantis creates big fun with jazz-rock fusion group"**](http://www.startribune.com/ex-prince-guitarist-donna-grantis-creates-big-fun-with-jazz-rock-fusion-group/438738623/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 August 2017 about Donna Grantis ([mirror](https://web.archive.org/web/*/http://www.startribune.com/ex-prince-guitarist-donna-grantis-creates-big-fun-with-jazz-rock-fusion-group/438738623/))
 
 ----
 
@@ -188,7 +188,7 @@
 
 ----
 
- - [**"Former Prince guitarist Donna Grantis debuts genre-bending band in Minneapolis -- Former Prince guitarist Donna Grantis will debut her new instrumental project on Friday."**](http://www.startribune.com/former-prince-guitarist-donna-grantis-debuts-genre-bending-band-in-minneapolis/437048403/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 29 July 2017 about [Donna Grantis](../../topics/donna-grantis/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/former-prince-guitarist-donna-grantis-debuts-genre-bending-band-in-minneapolis/437048403/))
+ - [**"Former Prince guitarist Donna Grantis debuts genre-bending band in Minneapolis -- Former Prince guitarist Donna Grantis will debut her new instrumental project on Friday."**](http://www.startribune.com/former-prince-guitarist-donna-grantis-debuts-genre-bending-band-in-minneapolis/437048403/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 29 July 2017 about Donna Grantis ([mirror](https://web.archive.org/web/*/http://www.startribune.com/former-prince-guitarist-donna-grantis-debuts-genre-bending-band-in-minneapolis/437048403/))
 
 ----
 
@@ -212,7 +212,7 @@
 
 ----
 
- - [**"Paisley Park museum opens new room dedicated to Prince's 'Lovesexy'"**](http://www.startribune.com/paisley-park-museum-opens-new-room-dedicated-to-prince-s-lovesexy/417745653/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 31 March 2017 about [museum](../../topics/museum/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-museum-opens-new-room-dedicated-to-prince-s-lovesexy/417745653/))
+ - [**"Paisley Park museum opens new room dedicated to Prince's 'Lovesexy'"**](http://www.startribune.com/paisley-park-museum-opens-new-room-dedicated-to-prince-s-lovesexy/417745653/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 31 March 2017 about museum ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-museum-opens-new-room-dedicated-to-prince-s-lovesexy/417745653/))
 
 ----
 
@@ -220,7 +220,7 @@
 
 ----
 
- - [**"Three official Prince books due at 'Celebration' at Paisley Park"**](http://www.startribune.com/three-official-prince-books-due-at-celebration-at-paisley-park/417539473/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 29 March 2017 about [Celebration](../../topics/celebration/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/three-official-prince-books-due-at-celebration-at-paisley-park/417539473/))
+ - [**"Three official Prince books due at 'Celebration' at Paisley Park"**](http://www.startribune.com/three-official-prince-books-due-at-celebration-at-paisley-park/417539473/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 29 March 2017 about Celebration ([mirror](https://web.archive.org/web/*/http://www.startribune.com/three-official-prince-books-due-at-celebration-at-paisley-park/417539473/))
 
 ----
 
@@ -240,7 +240,7 @@
 
 ----
 
- - [**"Time guitarist Jesse Johnson returns to First Ave, a venue that 'always felt strange' -- After stints with the Time and D'Angelo, guitar ace Jesse Johnson returns to First Avenue fronting a power trio."**](http://www.startribune.com/guitarist-jesse-johnson-from-the-time-returns-to-first-ave-a-venue-that-always-felt-strange/403806736/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 30 November 2016 about [First Avenue (place)](../../topics/place/first-avenue/index.md), [Jesse Johnson](../../topics/jesse-johnson/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/guitarist-jesse-johnson-from-the-time-returns-to-first-ave-a-venue-that-always-felt-strange/403806736/))
+ - [**"Time guitarist Jesse Johnson returns to First Ave, a venue that 'always felt strange' -- After stints with the Time and D'Angelo, guitar ace Jesse Johnson returns to First Avenue fronting a power trio."**](http://www.startribune.com/guitarist-jesse-johnson-from-the-time-returns-to-first-ave-a-venue-that-always-felt-strange/403806736/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 30 November 2016 about First Avenue (place), Jesse Johnson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/guitarist-jesse-johnson-from-the-time-returns-to-first-ave-a-venue-that-always-felt-strange/403806736/))
 
 ----
 
@@ -276,11 +276,11 @@
 
 ----
 
- - [**"Boy George dishes on Prince and promises 'gorgeousness' at Twin Cities show -- Boy George speaks his mind, chatting about Prince, Trump and Culture Club's Twin Cities concert this weekend."**](http://www.startribune.com/boy-george-dishes-on-prince-and-promises-gorgeousness-at-twin-cities-show/387819481/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 July 2016 about [Donald Trump](../../topics/donald-trump/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [London (place)](../../topics/place/london/index.md), [The Revolution](../../topics/the-revolution/index.md), [Trump](../../topics/trump/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/boy-george-dishes-on-prince-and-promises-gorgeousness-at-twin-cities-show/387819481/))
+ - [**"Boy George dishes on Prince and promises 'gorgeousness' at Twin Cities show -- Boy George speaks his mind, chatting about Prince, Trump and Culture Club's Twin Cities concert this weekend."**](http://www.startribune.com/boy-george-dishes-on-prince-and-promises-gorgeousness-at-twin-cities-show/387819481/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 July 2016 about Donald Trump, First Avenue (place), London (place), The Revolution, Trump, Xcel Energy Center (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/boy-george-dishes-on-prince-and-promises-gorgeousness-at-twin-cities-show/387819481/))
 
 ----
 
- - [**"Morris Day and the Time perform with Purple pride at the Minnesota Zoo"**](http://www.startribune.com/morris-day-and-the-time-perform-with-purple-pride-at-the-minnesota-zoo/385161471/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 1 July 2016 about [Morris Day](../../topics/morris-day/index.md), [The Time](../../topics/the-time/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/morris-day-and-the-time-perform-with-purple-pride-at-the-minnesota-zoo/385161471/))
+ - [**"Morris Day and the Time perform with Purple pride at the Minnesota Zoo"**](http://www.startribune.com/morris-day-and-the-time-perform-with-purple-pride-at-the-minnesota-zoo/385161471/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 1 July 2016 about Morris Day, The Time ([mirror](https://web.archive.org/web/*/http://www.startribune.com/morris-day-and-the-time-perform-with-purple-pride-at-the-minnesota-zoo/385161471/))
 
 ----
 
@@ -304,15 +304,15 @@
 
 ----
 
- - [**"Mixed Blood is forced by Prince's estate to cancel gala at Paisley Park"**](http://www.startribune.com/mixed-blood-is-forced-by-prince-s-estate-to-cancel-gala-at-paisley-park/378494185/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 7 May 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [contract](../../topics/contract/index.md), [Mixed Blood](../../topics/mixed-blood/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/mixed-blood-is-forced-by-prince-s-estate-to-cancel-gala-at-paisley-park/378494185/))
+ - [**"Mixed Blood is forced by Prince's estate to cancel gala at Paisley Park"**](http://www.startribune.com/mixed-blood-is-forced-by-prince-s-estate-to-cancel-gala-at-paisley-park/378494185/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 7 May 2016 about Bremer Trust, contract, Mixed Blood ([mirror](https://web.archive.org/web/*/http://www.startribune.com/mixed-blood-is-forced-by-prince-s-estate-to-cancel-gala-at-paisley-park/378494185/))
 
 ----
 
- - [**"Paisley Park event cancellation distresses Mixed Blood ticket holders -- Court-appointed trustee is enforcing a ban on events at Prince's estate."**](http://www.startribune.com/paisley-park-event-cancellation-distresses-mixed-blood-ticket-holders/378527695/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 7 May 2016 about [Bremer Trust](../../topics/bremer-trust/index.md), [contract](../../topics/contract/index.md), [Mixed Blood](../../topics/mixed-blood/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-event-cancellation-distresses-mixed-blood-ticket-holders/378527695/))
+ - [**"Paisley Park event cancellation distresses Mixed Blood ticket holders -- Court-appointed trustee is enforcing a ban on events at Prince's estate."**](http://www.startribune.com/paisley-park-event-cancellation-distresses-mixed-blood-ticket-holders/378527695/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 7 May 2016 about Bremer Trust, contract, Mixed Blood ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-event-cancellation-distresses-mixed-blood-ticket-holders/378527695/))
 
 ----
 
- - [**"Sheila E.: Saying goodbye to Prince 'the hardest thing I've ever had to do' -- Sheila E., longtime friend, said she never knew Prince to take drugs."**](http://www.startribune.com/sheila-e-saying-goodbye-to-prince-the-hardest-thing-i-ve-ever-had-to-do/376906621/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 April 2016 about [Celebration](../../topics/celebration/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Lionel Richie](../../topics/lionel-richie/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Sheila E.](../../topics/sheila-e/index.md), [TMZ (website)](../../topics/website/tmz/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [WCCO-TV](../../topics/wcco-tv/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/sheila-e-saying-goodbye-to-prince-the-hardest-thing-i-ve-ever-had-to-do/376906621/))
+ - [**"Sheila E.: Saying goodbye to Prince 'the hardest thing I've ever had to do' -- Sheila E., longtime friend, said she never knew Prince to take drugs."**](http://www.startribune.com/sheila-e-saying-goodbye-to-prince-the-hardest-thing-i-ve-ever-had-to-do/376906621/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 April 2016 about Celebration, Chaka Khan, Kirk Johnson, Larry Graham, Let’s Go Crazy (song), Lionel Richie, Omarr Baker, Sheila E., TMZ (website), Tyka Nelson, WCCO-TV ([mirror](https://web.archive.org/web/*/http://www.startribune.com/sheila-e-saying-goodbye-to-prince-the-hardest-thing-i-ve-ever-had-to-do/376906621/))
 
 ----
 
@@ -320,11 +320,11 @@
 
 ----
 
- - [**"Obituary: Prince was a diminutive giant who revolutionized pop -- Though he was a puzzle at times, the rocker was a true Minnesotan who changed music more than once in a nearly 40-year career."**](http://www.startribune.com/jon-bream-prince-was-a-once-in-a-generation-artist-who-never-rested-on-his-laurels/376594221/) by Chris Riemenschneider, Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 April 2016 about [André Cymone](../../topics/andr-cymone/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Grammy Award](../../topics/grammy-award/index.md), [John Nelson](../../topics/john-nelson/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Obama](../../topics/obama/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/jon-bream-prince-was-a-once-in-a-generation-artist-who-never-rested-on-his-laurels/376594221/))
+ - [**"Obituary: Prince was a diminutive giant who revolutionized pop -- Though he was a puzzle at times, the rocker was a true Minnesotan who changed music more than once in a nearly 40-year career."**](http://www.startribune.com/jon-bream-prince-was-a-once-in-a-generation-artist-who-never-rested-on-his-laurels/376594221/) by Chris Riemenschneider, Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 April 2016 about André Cymone, First Avenue (place), Grammy Award, John Nelson, Let’s Go Crazy (song), Little Red Corvette (song), Mayte, Mayte Garcia, Obama, Super Bowl, Tyka Nelson, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/jon-bream-prince-was-a-once-in-a-generation-artist-who-never-rested-on-his-laurels/376594221/))
 
 ----
 
- - [**"How Prince and critic Jon Bream learned to see eye to eye"**](http://www.startribune.com/how-prince-and-critic-jon-bream-learned-to-see-eye-to-eye/376645531/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 21 April 2016 about [Jon Bream](../../topics/jon-bream/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/how-prince-and-critic-jon-bream-learned-to-see-eye-to-eye/376645531/))
+ - [**"How Prince and critic Jon Bream learned to see eye to eye"**](http://www.startribune.com/how-prince-and-critic-jon-bream-learned-to-see-eye-to-eye/376645531/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 21 April 2016 about Jon Bream ([mirror](https://web.archive.org/web/*/http://www.startribune.com/how-prince-and-critic-jon-bream-learned-to-see-eye-to-eye/376645531/))
 
 ----
 
@@ -332,11 +332,11 @@
 
 ----
 
- - [**"Questions and thoughts about Prince's memoir due in 2017"**](http://www.startribune.com/questions-and-thoughts-about-prince-s-memoir-due-in-2017/372901571/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 21 March 2016 about [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/questions-and-thoughts-about-prince-s-memoir-due-in-2017/372901571/))
+ - [**"Questions and thoughts about Prince's memoir due in 2017"**](http://www.startribune.com/questions-and-thoughts-about-prince-s-memoir-due-in-2017/372901571/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 21 March 2016 about memoir, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/questions-and-thoughts-about-prince-s-memoir-due-in-2017/372901571/))
 
 ----
 
- - [**"Prince gives surprise (brief) performance at Chanhassen Dinner Theatres"**](http://www.startribune.com/prince-gives-surprise-brief-performance-at-chanhassen-dinner-theatres/371944961/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 14 March 2016 about [Chanhassen Dinner Theatres](../../topics/chanhassen-dinner-theatres/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-gives-surprise-brief-performance-at-chanhassen-dinner-theatres/371944961/))
+ - [**"Prince gives surprise (brief) performance at Chanhassen Dinner Theatres"**](http://www.startribune.com/prince-gives-surprise-brief-performance-at-chanhassen-dinner-theatres/371944961/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 14 March 2016 about Chanhassen Dinner Theatres ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-gives-surprise-brief-performance-at-chanhassen-dinner-theatres/371944961/))
 
 ----
 
@@ -348,7 +348,7 @@
 
 ----
 
- - [**"Larry Graham to play Night 2 of Gala Event at Prince's Paisley Park"**](http://www.startribune.com/larry-graham-to-play-night-2-of-gala-event-at-prince-s-paisley-park/365992291/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 January 2016 about [Larry Graham](../../topics/larry-graham/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/larry-graham-to-play-night-2-of-gala-event-at-prince-s-paisley-park/365992291/))
+ - [**"Larry Graham to play Night 2 of Gala Event at Prince's Paisley Park"**](http://www.startribune.com/larry-graham-to-play-night-2-of-gala-event-at-prince-s-paisley-park/365992291/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 January 2016 about Larry Graham ([mirror](https://web.archive.org/web/*/http://www.startribune.com/larry-graham-to-play-night-2-of-gala-event-at-prince-s-paisley-park/365992291/))
 
 ----
 
@@ -372,7 +372,7 @@
 
 ----
 
- - [**"Prince releases new single, "Free Urself," on Tidal"**](http://www.startribune.com/prince-releases-new-single-free-urself-on-tidal/329887771/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 29 September 2015 about [Free Urself (song)](../../topics/song/free-urself/index.md), [Tidal](../../topics/tidal/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-releases-new-single-free-urself-on-tidal/329887771/))
+ - [**"Prince releases new single, "Free Urself," on Tidal"**](http://www.startribune.com/prince-releases-new-single-free-urself-on-tidal/329887771/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 29 September 2015 about Free Urself (song), Tidal ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-releases-new-single-free-urself-on-tidal/329887771/))
 
 ----
 
@@ -380,11 +380,11 @@
 
 ----
 
- - [**"Prince, Stevie Wonder jam at White House, D.C. concerts"**](http://www.startribune.com/prince-stevie-wonder-jam-at-white-house-at-d-c-concerts/307329581/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 15 June 2015 about [Stevie Wonder](../../topics/stevie-wonder/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-stevie-wonder-jam-at-white-house-at-d-c-concerts/307329581/))
+ - [**"Prince, Stevie Wonder jam at White House, D.C. concerts"**](http://www.startribune.com/prince-stevie-wonder-jam-at-white-house-at-d-c-concerts/307329581/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 15 June 2015 about Stevie Wonder ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-stevie-wonder-jam-at-white-house-at-d-c-concerts/307329581/))
 
 ----
 
- - [**"Lisa Fischer & Brittany Howard: Two extraordinary voices in concert Monday"**](http://www.startribune.com/lisa-fischer-brittany-howard-two-extraordinary-voices-in-concert-monday/305794671/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 2 June 2015 about [Brittany Howard](../../topics/brittany-howard/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/lisa-fischer-brittany-howard-two-extraordinary-voices-in-concert-monday/305794671/))
+ - [**"Lisa Fischer & Brittany Howard: Two extraordinary voices in concert Monday"**](http://www.startribune.com/lisa-fischer-brittany-howard-two-extraordinary-voices-in-concert-monday/305794671/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 2 June 2015 about Brittany Howard ([mirror](https://web.archive.org/web/*/http://www.startribune.com/lisa-fischer-brittany-howard-two-extraordinary-voices-in-concert-monday/305794671/))
 
 ----
 

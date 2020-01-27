@@ -14,11 +14,11 @@
 
 ----
 
- - [**"First Ave, Electric Fetus named best in U.S. again by Rolling Stone"**](http://www.startribune.com/first-ave-electric-fetus-named-best-in-u-s-again-by-rolling-stone/502770432/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 14 December 2018 about [Electric Fetus (place)](../../topics/place/electric-fetus/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Lizzo](../../topics/lizzo/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/first-ave-electric-fetus-named-best-in-u-s-again-by-rolling-stone/502770432/))
+ - [**"First Ave, Electric Fetus named best in U.S. again by Rolling Stone"**](http://www.startribune.com/first-ave-electric-fetus-named-best-in-u-s-again-by-rolling-stone/502770432/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 14 December 2018 about Electric Fetus (place), First Avenue (place), Lizzo ([mirror](https://web.archive.org/web/*/http://www.startribune.com/first-ave-electric-fetus-named-best-in-u-s-again-by-rolling-stone/502770432/))
 
 ----
 
- - [**"Morris Day's misadventures in Minneapolis get animated for Mike Judge's TV series"**](http://www.startribune.com/morris-day-s-misadventures-in-minneapolis-get-animated-for-mike-judge-s-tv-series/502781422/) by Neal Justin in [Minneapolis Star Tribune](http://www.startribune.com/) on 14 December 2018 about [Morris Day](../../topics/morris-day/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/morris-day-s-misadventures-in-minneapolis-get-animated-for-mike-judge-s-tv-series/502781422/))
+ - [**"Morris Day's misadventures in Minneapolis get animated for Mike Judge's TV series"**](http://www.startribune.com/morris-day-s-misadventures-in-minneapolis-get-animated-for-mike-judge-s-tv-series/502781422/) by Neal Justin in [Minneapolis Star Tribune](http://www.startribune.com/) on 14 December 2018 about Morris Day ([mirror](https://web.archive.org/web/*/http://www.startribune.com/morris-day-s-misadventures-in-minneapolis-get-animated-for-mike-judge-s-tv-series/502781422/))
 
 ----
 
@@ -56,7 +56,7 @@
 
 ----
 
- - [**"Prince estate issues rare (and goofy!) music videos from the '90s with Sony"**](http://www.startribune.com/prince-estate-issues-rare-and-goofy-music-videos-from-the-90s-with-sony/499690051/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 November 2018 about [Prince Estate](../../topics/prince-estate/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-estate-issues-rare-and-goofy-music-videos-from-the-90s-with-sony/499690051/))
+ - [**"Prince estate issues rare (and goofy!) music videos from the '90s with Sony"**](http://www.startribune.com/prince-estate-issues-rare-and-goofy-music-videos-from-the-90s-with-sony/499690051/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 November 2018 about Prince Estate ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-estate-issues-rare-and-goofy-music-videos-from-the-90s-with-sony/499690051/))
 
 ----
 
@@ -64,21 +64,21 @@
 
 ----
 
- - [**"Wolves unveil Prince tribute uniforms at Paisley Park -- The Wolves will wear the Prince uniforms eight times this year, including five times at home, and they go on sale to the public next week."**](http://video.startribune.com/wolves-unveil-prince-tribute-uniforms-at-paisley-park/499324871/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 2 November 2018 about [Minnesota Timberwolves](../../topics/minnesota-timberwolves/index.md), [Timberwolves](../../topics/timberwolves/index.md) ([mirror](https://web.archive.org/web/*/http://video.startribune.com/wolves-unveil-prince-tribute-uniforms-at-paisley-park/499324871/))
+ - [**"Wolves unveil Prince tribute uniforms at Paisley Park -- The Wolves will wear the Prince uniforms eight times this year, including five times at home, and they go on sale to the public next week."**](http://video.startribune.com/wolves-unveil-prince-tribute-uniforms-at-paisley-park/499324871/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 2 November 2018 about Minnesota Timberwolves, Timberwolves ([mirror](https://web.archive.org/web/*/http://video.startribune.com/wolves-unveil-prince-tribute-uniforms-at-paisley-park/499324871/))
 
 ----
 
- - [**"Timberwolves show off Prince tribute uniforms at Paisley Park -- The Wolves will wear the uniforms eight times this year, including five times at home, and they go on sale to the public next week."**](http://www.startribune.com/timberwolves-show-off-prince-tribute-jerseys-at-paisley-park/499315791/) by Michael Rand in [Minneapolis Star Tribune](http://www.startribune.com/) on 1 November 2018 about [Minnesota Timberwolves](../../topics/minnesota-timberwolves/index.md), [motorcycle](../../topics/motorcycle/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Timberwolves](../../topics/timberwolves/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/timberwolves-show-off-prince-tribute-jerseys-at-paisley-park/499315791/))
+ - [**"Timberwolves show off Prince tribute uniforms at Paisley Park -- The Wolves will wear the uniforms eight times this year, including five times at home, and they go on sale to the public next week."**](http://www.startribune.com/timberwolves-show-off-prince-tribute-jerseys-at-paisley-park/499315791/) by Michael Rand in [Minneapolis Star Tribune](http://www.startribune.com/) on 1 November 2018 about Minnesota Timberwolves, motorcycle, Omarr Baker, Timberwolves ([mirror](https://web.archive.org/web/*/http://www.startribune.com/timberwolves-show-off-prince-tribute-jerseys-at-paisley-park/499315791/))
 
 ----
 
 ## October 2018 (10)
 
- - [**"'A Wrinkle in Time' director Ava DuVernay to make Prince documentary for Netflix -- The filmmaker has the support of the late Minnesota musician's estate."**](http://www.startribune.com/ava-duvernay-to-make-prince-documentary-for-netflix/499015301/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 31 October 2018 about [Ava DuVernay](../../topics/ava-duvernay/index.md), [Netflix](../../topics/netflix/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/ava-duvernay-to-make-prince-documentary-for-netflix/499015301/))
+ - [**"'A Wrinkle in Time' director Ava DuVernay to make Prince documentary for Netflix -- The filmmaker has the support of the late Minnesota musician's estate."**](http://www.startribune.com/ava-duvernay-to-make-prince-documentary-for-netflix/499015301/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 31 October 2018 about Ava DuVernay, Netflix ([mirror](https://web.archive.org/web/*/http://www.startribune.com/ava-duvernay-to-make-prince-documentary-for-netflix/499015301/))
 
 ----
 
- - [**"Expect Prince-themed Wolves jerseys to be unveiled Thursday at Paisley Park -- A partial look at the new uniform — which honor the Minnesota music legend who died in 2016 — was leaked on social media last week."**](http://www.startribune.com/expect-prince-themed-wolves-jerseys-to-be-unveiled-thursday-at-paisley-park/499015121/) by Michael Rand in [Minneapolis Star Tribune](http://www.startribune.com/) on 30 October 2018 about [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Minnesota Timberwolves](../../topics/minnesota-timberwolves/index.md), [Timberwolves](../../topics/timberwolves/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/expect-prince-themed-wolves-jerseys-to-be-unveiled-thursday-at-paisley-park/499015121/))
+ - [**"Expect Prince-themed Wolves jerseys to be unveiled Thursday at Paisley Park -- A partial look at the new uniform — which honor the Minnesota music legend who died in 2016 — was leaked on social media last week."**](http://www.startribune.com/expect-prince-themed-wolves-jerseys-to-be-unveiled-thursday-at-paisley-park/499015121/) by Michael Rand in [Minneapolis Star Tribune](http://www.startribune.com/) on 30 October 2018 about Let’s Go Crazy (song), Minnesota Timberwolves, Timberwolves ([mirror](https://web.archive.org/web/*/http://www.startribune.com/expect-prince-themed-wolves-jerseys-to-be-unveiled-thursday-at-paisley-park/499015121/))
 
 ----
 
@@ -86,7 +86,7 @@
 
 ----
 
- - [**"RandBall: New Wolves uniforms are tribute to Prince"**](http://www.startribune.com/randball-new-wolves-uniforms-are-tribute-to-prince/499079081/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 30 October 2018 about [Minnesota Timberwolves](../../topics/minnesota-timberwolves/index.md), [Timberwolves](../../topics/timberwolves/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/randball-new-wolves-uniforms-are-tribute-to-prince/499079081/))
+ - [**"RandBall: New Wolves uniforms are tribute to Prince"**](http://www.startribune.com/randball-new-wolves-uniforms-are-tribute-to-prince/499079081/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 30 October 2018 about Minnesota Timberwolves, Timberwolves ([mirror](https://web.archive.org/web/*/http://www.startribune.com/randball-new-wolves-uniforms-are-tribute-to-prince/499079081/))
 
 ----
 
@@ -102,15 +102,15 @@
 
 ----
 
- - [**"Members of Prince's estate ask President Trump to not use his music at rallies"**](http://www.startribune.com/members-of-prince-s-estate-ask-president-trump-to-not-use-his-music-at-rallies/497193471/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 October 2018 about [Trump](../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/members-of-prince-s-estate-ask-president-trump-to-not-use-his-music-at-rallies/497193471/))
+ - [**"Members of Prince's estate ask President Trump to not use his music at rallies"**](http://www.startribune.com/members-of-prince-s-estate-ask-president-trump-to-not-use-his-music-at-rallies/497193471/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 October 2018 about Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/members-of-prince-s-estate-ask-president-trump-to-not-use-his-music-at-rallies/497193471/))
 
 ----
 
- - [**"Prince estate to Trump: Stop using music at rallies"**](http://www.startribune.com/prince-estate-to-trump-stop-using-music-at-rallies/497248101/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 October 2018 about [Prince Estate](../../topics/prince-estate/index.md), [Trump](../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-estate-to-trump-stop-using-music-at-rallies/497248101/))
+ - [**"Prince estate to Trump: Stop using music at rallies"**](http://www.startribune.com/prince-estate-to-trump-stop-using-music-at-rallies/497248101/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 October 2018 about Prince Estate, Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-estate-to-trump-stop-using-music-at-rallies/497248101/))
 
 ----
 
- - [**"After two years and a team record for goals, Wild is ditching 'Let's Go Crazy' -- There appeared to be a strange unease among the Wild faithful with having “Let’s Go Crazy” as the goal song"**](http://www.startribune.com/after-two-years-and-a-team-record-for-goals-wild-is-ditching-lets-go-crazy/494917391/) by Michael Rand in [Minneapolis Star Tribune](http://www.startribune.com/) on 2 October 2018 about [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Minnesota Wild](../../topics/minnesota-wild/index.md), [trademark](../../topics/trademark/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/after-two-years-and-a-team-record-for-goals-wild-is-ditching-lets-go-crazy/494917391/))
+ - [**"After two years and a team record for goals, Wild is ditching 'Let's Go Crazy' -- There appeared to be a strange unease among the Wild faithful with having “Let’s Go Crazy” as the goal song"**](http://www.startribune.com/after-two-years-and-a-team-record-for-goals-wild-is-ditching-lets-go-crazy/494917391/) by Michael Rand in [Minneapolis Star Tribune](http://www.startribune.com/) on 2 October 2018 about Let’s Go Crazy (song), Minnesota Wild, trademark ([mirror](https://web.archive.org/web/*/http://www.startribune.com/after-two-years-and-a-team-record-for-goals-wild-is-ditching-lets-go-crazy/494917391/))
 
 ----
 
@@ -120,23 +120,23 @@
 
 ----
 
- - [**"Prince receives honorary degree from University of Minnesota -- Prince received an honorary degree from the University of Minnesota's school of music on Wednesday, Sept 26, 2018 at the Ted Mann Concert Hall in Minneapolis, Minn."**](http://www.startribune.com/prince-receives-honorary-degree-from-university-of-minnesota/494452521/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 September 2018 about [honorary degree](../../topics/honorary-degree/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-receives-honorary-degree-from-university-of-minnesota/494452521/))
+ - [**"Prince receives honorary degree from University of Minnesota -- Prince received an honorary degree from the University of Minnesota's school of music on Wednesday, Sept 26, 2018 at the Ted Mann Concert Hall in Minneapolis, Minn."**](http://www.startribune.com/prince-receives-honorary-degree-from-university-of-minnesota/494452521/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 September 2018 about honorary degree, University of Minnesota ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-receives-honorary-degree-from-university-of-minnesota/494452521/))
 
 ----
 
- - [**"Thanks to a University of Minnesota degree, his name is 'Dr. Prince' now"**](http://www.startribune.com/thanks-to-a-university-of-minnesota-degree-his-name-is-dr-prince-now/494454901/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 September 2018 about [University of Minnesota](../../topics/university-of-minnesota/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/thanks-to-a-university-of-minnesota-degree-his-name-is-dr-prince-now/494454901/))
+ - [**"Thanks to a University of Minnesota degree, his name is 'Dr. Prince' now"**](http://www.startribune.com/thanks-to-a-university-of-minnesota-degree-his-name-is-dr-prince-now/494454901/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 September 2018 about University of Minnesota ([mirror](https://web.archive.org/web/*/http://www.startribune.com/thanks-to-a-university-of-minnesota-degree-his-name-is-dr-prince-now/494454901/))
 
 ----
 
- - [**"University of Minnesota awards honorary degree to Prince"**](http://www.startribune.com/university-of-minnesota-awarding-honorary-degree-to-prince/494377981/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 September 2018 about [honorary degree](../../topics/honorary-degree/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/university-of-minnesota-awarding-honorary-degree-to-prince/494377981/))
+ - [**"University of Minnesota awards honorary degree to Prince"**](http://www.startribune.com/university-of-minnesota-awarding-honorary-degree-to-prince/494377981/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 September 2018 about honorary degree, University of Minnesota ([mirror](https://web.archive.org/web/*/http://www.startribune.com/university-of-minnesota-awarding-honorary-degree-to-prince/494377981/))
 
 ----
 
- - [**"University of Minnesota confers honorary degree to Prince"**](http://video.startribune.com/university-of-minnesota-confers-honorary-degree-to-prince/494449581/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 September 2018 about [honorary degree](../../topics/honorary-degree/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md) ([mirror](https://web.archive.org/web/*/http://video.startribune.com/university-of-minnesota-confers-honorary-degree-to-prince/494449581/))
+ - [**"University of Minnesota confers honorary degree to Prince"**](http://video.startribune.com/university-of-minnesota-confers-honorary-degree-to-prince/494449581/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 September 2018 about honorary degree, University of Minnesota ([mirror](https://web.archive.org/web/*/http://video.startribune.com/university-of-minnesota-confers-honorary-degree-to-prince/494449581/))
 
 ----
 
- - [**"Prince insiders dish on first album released from storied Paisley Park vault -- The coveted 1983 recording features solo piano work and an embryonic "Purple Rain.""**](http://www.startribune.com/prince-insiders-dish-on-first-album-released-from-storied-paisley-park-vault/493845601/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 September 2018 about [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-insiders-dish-on-first-album-released-from-storied-paisley-park-vault/493845601/))
+ - [**"Prince insiders dish on first album released from storied Paisley Park vault -- The coveted 1983 recording features solo piano work and an embryonic "Purple Rain.""**](http://www.startribune.com/prince-insiders-dish-on-first-album-released-from-storied-paisley-park-vault/493845601/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 September 2018 about vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-insiders-dish-on-first-album-released-from-storied-paisley-park-vault/493845601/))
 
 ----
 
@@ -172,7 +172,7 @@
 
 ----
 
- - [**"Prince estate sues 'brazen bootlegger,' others selling CDs of his last show, trove of other music -- Suit seeks many millions in compensation; sales over internet have been going on since 2016, the year Prince died."**](http://www.startribune.com/prince-estate-sues-brazen-bootlegger-others-selling-cds-of-his-last-show-trove-of-other-music/492422931/) by Paul Walsh in [Minneapolis Star Tribune](http://www.startribune.com/) on 4 September 2018 about [bootleg](../../topics/bootleg/index.md), [Prince Estate](../../topics/prince-estate/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-estate-sues-brazen-bootlegger-others-selling-cds-of-his-last-show-trove-of-other-music/492422931/))
+ - [**"Prince estate sues 'brazen bootlegger,' others selling CDs of his last show, trove of other music -- Suit seeks many millions in compensation; sales over internet have been going on since 2016, the year Prince died."**](http://www.startribune.com/prince-estate-sues-brazen-bootlegger-others-selling-cds-of-his-last-show-trove-of-other-music/492422931/) by Paul Walsh in [Minneapolis Star Tribune](http://www.startribune.com/) on 4 September 2018 about bootleg, Prince Estate ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-estate-sues-brazen-bootlegger-others-selling-cds-of-his-last-show-trove-of-other-music/492422931/))
 
 ----
 
@@ -182,13 +182,13 @@
 
 ----
 
- - [**"Prince to receive honorary degree from University of Minnesota"**](http://www.startribune.com/prince-to-receive-honorary-degree-from-university-of-minnesota-on-sept-26/490762631/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 13 August 2018 about [honorary degree](../../topics/honorary-degree/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-to-receive-honorary-degree-from-university-of-minnesota-on-sept-26/490762631/))
+ - [**"Prince to receive honorary degree from University of Minnesota"**](http://www.startribune.com/prince-to-receive-honorary-degree-from-university-of-minnesota-on-sept-26/490762631/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 13 August 2018 about honorary degree, University of Minnesota ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-to-receive-honorary-degree-from-university-of-minnesota-on-sept-26/490762631/))
 
 ----
 
 ## July 2018 (5)
 
- - [**"Lizzo earns a big nod as Rolling Stone's 'Artist You Need to Know'"**](http://www.startribune.com/lizzo-earns-a-big-nod-as-rolling-stone-s-artist-you-need-to-know/489627651/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 31 July 2018 about [Lizzo](../../topics/lizzo/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/lizzo-earns-a-big-nod-as-rolling-stone-s-artist-you-need-to-know/489627651/))
+ - [**"Lizzo earns a big nod as Rolling Stone's 'Artist You Need to Know'"**](http://www.startribune.com/lizzo-earns-a-big-nod-as-rolling-stone-s-artist-you-need-to-know/489627651/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 31 July 2018 about Lizzo ([mirror](https://web.archive.org/web/*/http://www.startribune.com/lizzo-earns-a-big-nod-as-rolling-stone-s-artist-you-need-to-know/489627651/))
 
 ----
 
@@ -200,23 +200,23 @@
 
 ----
 
- - [**"There are good things in Prince's musical vault, says former engineer who has heard songs -- Susan Rogers has heard the new music from Prince that the rest of us may soon hear."**](http://www.startribune.com/c-j-there-are-good-things-in-prince-s-musical-vault-says-former-engineer-who-has-heard-songs/487824511/) by C.J. (Cheryl Johnson) in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 July 2018 about [Susan Rogers](../../topics/susan-rogers/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-there-are-good-things-in-prince-s-musical-vault-says-former-engineer-who-has-heard-songs/487824511/))
+ - [**"There are good things in Prince's musical vault, says former engineer who has heard songs -- Susan Rogers has heard the new music from Prince that the rest of us may soon hear."**](http://www.startribune.com/c-j-there-are-good-things-in-prince-s-musical-vault-says-former-engineer-who-has-heard-songs/487824511/) by C.J. (Cheryl Johnson) in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 July 2018 about Susan Rogers, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-there-are-good-things-in-prince-s-musical-vault-says-former-engineer-who-has-heard-songs/487824511/))
 
 ----
 
- - [**"Janelle Monáe gives galvanizing Prince-inspired performance at sold-out State Theatre -- Review: It was obvious from the reaction of the celebratory and worshipful crowd that the visionary singer has gone from cult hero to cultural hero."**](http://www.startribune.com/janelle-monae-fights-for-the-right-to-funk/487297841/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 4 July 2018 about [Janelle Monae](../../topics/janelle-monae/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/janelle-monae-fights-for-the-right-to-funk/487297841/))
+ - [**"Janelle Monáe gives galvanizing Prince-inspired performance at sold-out State Theatre -- Review: It was obvious from the reaction of the celebratory and worshipful crowd that the visionary singer has gone from cult hero to cultural hero."**](http://www.startribune.com/janelle-monae-fights-for-the-right-to-funk/487297841/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 4 July 2018 about Janelle Monae ([mirror](https://web.archive.org/web/*/http://www.startribune.com/janelle-monae-fights-for-the-right-to-funk/487297841/))
 
 ----
 
 ## June 2018 (1)
 
- - [**"From Prince to Ph.D., Prof. Susan Rogers knows music -- Busy with teaching, the former recording engineer has no memoir is in the works yet."**](http://www.startribune.com/from-prince-to-ph-d-professor-susan-rogers-knows-music/486626941/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 June 2018 about [memoir](../../topics/memoir/index.md), [Susan Rogers](../../topics/susan-rogers/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/from-prince-to-ph-d-professor-susan-rogers-knows-music/486626941/))
+ - [**"From Prince to Ph.D., Prof. Susan Rogers knows music -- Busy with teaching, the former recording engineer has no memoir is in the works yet."**](http://www.startribune.com/from-prince-to-ph-d-professor-susan-rogers-knows-music/486626941/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 June 2018 about memoir, Susan Rogers ([mirror](https://web.archive.org/web/*/http://www.startribune.com/from-prince-to-ph-d-professor-susan-rogers-knows-music/486626941/))
 
 ----
 
 ## April 2018 (28)
 
- - [**"Janelle Monáe to tout her new Prince-infused album July 3 at the State"**](http://www.startribune.com/janelle-monae-to-tout-her-new-prince-infused-album-july-3-at-the-state/480567481/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 23 April 2018 about [Janelle Monae](../../topics/janelle-monae/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/janelle-monae-to-tout-her-new-prince-infused-album-july-3-at-the-state/480567481/))
+ - [**"Janelle Monáe to tout her new Prince-infused album July 3 at the State"**](http://www.startribune.com/janelle-monae-to-tout-her-new-prince-infused-album-july-3-at-the-state/480567481/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 23 April 2018 about Janelle Monae ([mirror](https://web.archive.org/web/*/http://www.startribune.com/janelle-monae-to-tout-her-new-prince-infused-album-july-3-at-the-state/480567481/))
 
 ----
 
@@ -224,27 +224,27 @@
 
 ----
 
- - [**"C.J.: Music or basketball, Prince executed what was in his head, says NPG's Hayes"**](http://www.startribune.com/c-j-music-or-basketball-prince-executed-what-was-in-his-head-says-npg-s-hayes/480462451/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 21 April 2018 about [C.J.](../../topics/c-j/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-music-or-basketball-prince-executed-what-was-in-his-head-says-npg-s-hayes/480462451/))
+ - [**"C.J.: Music or basketball, Prince executed what was in his head, says NPG's Hayes"**](http://www.startribune.com/c-j-music-or-basketball-prince-executed-what-was-in-his-head-says-npg-s-hayes/480462451/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 21 April 2018 about C.J. ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-music-or-basketball-prince-executed-what-was-in-his-head-says-npg-s-hayes/480462451/))
 
 ----
 
- - [**"10 curious things we learned about Prince from the investigations -- He liked Häagen-Dazs ice cream, 5-Hour Energy drinks and MAC beauty products."**](http://www.startribune.com/10-curious-things-we-learned-about-prince-from-the-investigations/480364723/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 April 2018 about [airport](../../topics/airport/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [CeeLo Green](../../topics/ceelo-green/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Esperanza Spalding](../../topics/esperanza-spalding/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Janelle Monae](../../topics/janelle-monae/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Larry Graham](../../topics/larry-graham/index.md), [North Memorial Medical Center (place)](../../topics/place/north-memorial-medical-center/index.md), [Peter Vang](../../topics/peter-vang/index.md), [Phaedra Ellis Lamkin](../../topics/phaedra-ellis-lamkin/index.md), [Rita Ora](../../topics/rita-ora/index.md), [Sheila E.](../../topics/sheila-e/index.md), [U Got the Look (song)](../../topics/song/u-got-the-look/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/10-curious-things-we-learned-about-prince-from-the-investigations/480364723/))
+ - [**"10 curious things we learned about Prince from the investigations -- He liked Häagen-Dazs ice cream, 5-Hour Energy drinks and MAC beauty products."**](http://www.startribune.com/10-curious-things-we-learned-about-prince-from-the-investigations/480364723/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 April 2018 about airport, Atlanta (place), Carver County, CeeLo Green, Chaka Khan, Esperanza Spalding, Illinois (place), Janelle Monae, Judith Hill, Kirk Johnson, Larry Graham, North Memorial Medical Center (place), Peter Vang, Phaedra Ellis Lamkin, Rita Ora, Sheila E., U Got the Look (song), vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/10-curious-things-we-learned-about-prince-from-the-investigations/480364723/))
 
 ----
 
- - [**"As Prince's health waned, alarm grew in inner circle"**](http://www.startribune.com/as-prince-s-health-waned-alarm-grew-in-inner-circle/480336433/) by Amy Forliti (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 April 2018 about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Mark Metz](../../topics/mark-metz/index.md), [Meron Bekure](../../topics/meron-bekure/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [oxycodone](../../topics/oxycodone/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/as-prince-s-health-waned-alarm-grew-in-inner-circle/480336433/))
+ - [**"As Prince's health waned, alarm grew in inner circle"**](http://www.startribune.com/as-prince-s-health-waned-alarm-grew-in-inner-circle/480336433/) by Amy Forliti (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 April 2018 about Andrew Kornfeld, Carver County, fentanyl, Howard Kornfeld, Illinois (place), Kirk Johnson, Mark Metz, Meron Bekure, Michael Todd Schulenberg, Moline, Illinois (place), oxycodone ([mirror](https://web.archive.org/web/*/http://www.startribune.com/as-prince-s-health-waned-alarm-grew-in-inner-circle/480336433/))
 
 ----
 
- - [**"Carver County closes Prince death investigation with no criminal charges -- After 2-year probe, supplier of fatal drug eludes investigators"**](http://www.startribune.com/no-charges-in-prince-death-investigation/480252103/) by Stephen Montemayor in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 April 2018 about [Carver County](../../topics/carver-county/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/no-charges-in-prince-death-investigation/480252103/))
+ - [**"Carver County closes Prince death investigation with no criminal charges -- After 2-year probe, supplier of fatal drug eludes investigators"**](http://www.startribune.com/no-charges-in-prince-death-investigation/480252103/) by Stephen Montemayor in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 April 2018 about Carver County ([mirror](https://web.archive.org/web/*/http://www.startribune.com/no-charges-in-prince-death-investigation/480252103/))
 
 ----
 
- - [**"Documents: Airplane scare was beginning of the end of Prince's struggles with opioids -- Long-awaited investigative documents released Thursday give the clearest narrative yet of the singer's problems with opioid addiction in his final days."**](http://www.startribune.com/documents-airplane-scare-was-beginning-of-the-end-of-prince-s-struggles-with-opioids/480325903/) by Dan Browning, David Chanen in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 April 2018 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [fentanyl](../../topics/fentanyl/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Meron Bekure](../../topics/meron-bekure/index.md), [Vicodin](../../topics/vicodin/index.md), [Walgreens](../../topics/walgreens/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/documents-airplane-scare-was-beginning-of-the-end-of-prince-s-struggles-with-opioids/480325903/))
+ - [**"Documents: Airplane scare was beginning of the end of Prince's struggles with opioids -- Long-awaited investigative documents released Thursday give the clearest narrative yet of the singer's problems with opioid addiction in his final days."**](http://www.startribune.com/documents-airplane-scare-was-beginning-of-the-end-of-prince-s-struggles-with-opioids/480325903/) by Dan Browning, David Chanen in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 April 2018 about 3rdEyeGirl, Andrew Kornfeld, Atlanta (place), fentanyl, Howard Kornfeld, Judith Hill, Kirk Johnson, Manuela Testolini, Meron Bekure, Vicodin, Walgreens ([mirror](https://web.archive.org/web/*/http://www.startribune.com/documents-airplane-scare-was-beginning-of-the-end-of-prince-s-struggles-with-opioids/480325903/))
 
 ----
 
- - [**"Prince fans converge on Paisley Park for a more celebratory Celebration -- Paisley Park's second annual fan gathering kicked off with a (mostly) upbeat set by Sheila E."**](http://www.startribune.com/prince-fans-converge-on-paisley-park-for-a-more-celebratory-celebration/480314653/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 April 2018 about [Sheila E.](../../topics/sheila-e/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-fans-converge-on-paisley-park-for-a-more-celebratory-celebration/480314653/))
+ - [**"Prince fans converge on Paisley Park for a more celebratory Celebration -- Paisley Park's second annual fan gathering kicked off with a (mostly) upbeat set by Sheila E."**](http://www.startribune.com/prince-fans-converge-on-paisley-park-for-a-more-celebratory-celebration/480314653/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 April 2018 about Sheila E. ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-fans-converge-on-paisley-park-for-a-more-celebratory-celebration/480314653/))
 
 ----
 
@@ -256,23 +256,23 @@
 
 ----
 
- - [**"A timeline of Prince's final days"**](http://www.startribune.com/a-timeline-of-prince-s-final-days/480321973/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 April 2018 about [Carver County](../../topics/carver-county/index.md), [Dakota (place)](../../topics/place/dakota/index.md), [fentanyl](../../topics/fentanyl/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/a-timeline-of-prince-s-final-days/480321973/))
+ - [**"A timeline of Prince's final days"**](http://www.startribune.com/a-timeline-of-prince-s-final-days/480321973/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 April 2018 about Carver County, Dakota (place), fentanyl, Kirk Johnson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/a-timeline-of-prince-s-final-days/480321973/))
 
 ----
 
- - [**"Celebration 2018 at Paisley Park for Prince -- Today is the first day of Celebration 2018 at Paisley Park where Prince fans from around the world gathered for tours, live music and panel discussions inside."**](http://www.startribune.com/celebration-2018-at-paisley-park-for-prince/480313663/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 April 2018 about [Celebration 2018](../../topics/celebration-2018/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/celebration-2018-at-paisley-park-for-prince/480313663/))
+ - [**"Celebration 2018 at Paisley Park for Prince -- Today is the first day of Celebration 2018 at Paisley Park where Prince fans from around the world gathered for tours, live music and panel discussions inside."**](http://www.startribune.com/celebration-2018-at-paisley-park-for-prince/480313663/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 April 2018 about Celebration 2018 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/celebration-2018-at-paisley-park-for-prince/480313663/))
 
 ----
 
- - [**"New Prince record released today: His version of 'Nothing Compares 2 U'"**](http://www.startribune.com/new-prince-record-released-today-his-version-of-nothing-compares-2-u/480265043/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 April 2018 about [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/new-prince-record-released-today-his-version-of-nothing-compares-2-u/480265043/))
+ - [**"New Prince record released today: His version of 'Nothing Compares 2 U'"**](http://www.startribune.com/new-prince-record-released-today-his-version-of-nothing-compares-2-u/480265043/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 April 2018 about Nothing Compares 2 U (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/new-prince-record-released-today-his-version-of-nothing-compares-2-u/480265043/))
 
 ----
 
- - [**"Prince death investigation complete press conference -- Carver County Attorney Mark Metz announced Thursday that he was closing the two-year investigation into the death of Prince without issuing any criminal charges."**](http://video.startribune.com/prince-death-investigation-complete-press-conference/480279253/) by Mark Vancleave in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 April 2018 about [Carver County](../../topics/carver-county/index.md), [Mark Metz](../../topics/mark-metz/index.md) ([mirror](https://web.archive.org/web/*/http://video.startribune.com/prince-death-investigation-complete-press-conference/480279253/))
+ - [**"Prince death investigation complete press conference -- Carver County Attorney Mark Metz announced Thursday that he was closing the two-year investigation into the death of Prince without issuing any criminal charges."**](http://video.startribune.com/prince-death-investigation-complete-press-conference/480279253/) by Mark Vancleave in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 April 2018 about Carver County, Mark Metz ([mirror](https://web.archive.org/web/*/http://video.startribune.com/prince-death-investigation-complete-press-conference/480279253/))
 
 ----
 
- - [**"Prince investigation video shows scene of death -- This video was taken by Carver County investigators the morning Prince was found dead inside Paisley Park. The Star Tribune has obscured images of Prince's body."**](http://video.startribune.com/prince-investigation-video-shows-scene-of-death/480306623/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 April 2018 about [Carver County](../../topics/carver-county/index.md) ([mirror](https://web.archive.org/web/*/http://video.startribune.com/prince-investigation-video-shows-scene-of-death/480306623/))
+ - [**"Prince investigation video shows scene of death -- This video was taken by Carver County investigators the morning Prince was found dead inside Paisley Park. The Star Tribune has obscured images of Prince's body."**](http://video.startribune.com/prince-investigation-video-shows-scene-of-death/480306623/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 April 2018 about Carver County ([mirror](https://web.archive.org/web/*/http://video.startribune.com/prince-investigation-video-shows-scene-of-death/480306623/))
 
 ----
 
@@ -280,7 +280,7 @@
 
 ----
 
- - [**"Prince's former musician Donna Grantis plays guitar hero at the Dakota"**](http://www.startribune.com/prince-s-former-musician-donna-grantis-plays-guitar-hero-at-the-dakota/480212673/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 April 2018 about [Dakota (place)](../../topics/place/dakota/index.md), [Donna Grantis](../../topics/donna-grantis/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-former-musician-donna-grantis-plays-guitar-hero-at-the-dakota/480212673/))
+ - [**"Prince's former musician Donna Grantis plays guitar hero at the Dakota"**](http://www.startribune.com/prince-s-former-musician-donna-grantis-plays-guitar-hero-at-the-dakota/480212673/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 April 2018 about Dakota (place), Donna Grantis ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-former-musician-donna-grantis-plays-guitar-hero-at-the-dakota/480212673/))
 
 ----
 
@@ -296,7 +296,7 @@
 
 ----
 
- - [**"Everything was cool once keyboardist Morris Hayes figured out which Prince had arrived"**](http://www.startribune.com/c-j-everything-was-cool-once-keyboardist-morris-hayes-figured-out-which-prince-had-arrived/480052643/) by C.J. (Cheryl Johnson) in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 April 2018 about [Morris Hayes](../../topics/morris-hayes/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-everything-was-cool-once-keyboardist-morris-hayes-figured-out-which-prince-had-arrived/480052643/))
+ - [**"Everything was cool once keyboardist Morris Hayes figured out which Prince had arrived"**](http://www.startribune.com/c-j-everything-was-cool-once-keyboardist-morris-hayes-figured-out-which-prince-had-arrived/480052643/) by C.J. (Cheryl Johnson) in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 April 2018 about Morris Hayes ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-everything-was-cool-once-keyboardist-morris-hayes-figured-out-which-prince-had-arrived/480052643/))
 
 ----
 
@@ -320,7 +320,7 @@
 
 ----
 
- - [**"In Minneapolis, Portuguese star Ana Moura offers world premiere of song she wrote with Prince"**](http://www.startribune.com/in-minneapolis-portuguese-star-ana-moura-offers-world-premiere-of-song-she-wrote-with-prince/479234123/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 April 2018 about [Ana Moura](../../topics/ana-moura/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/in-minneapolis-portuguese-star-ana-moura-offers-world-premiere-of-song-she-wrote-with-prince/479234123/))
+ - [**"In Minneapolis, Portuguese star Ana Moura offers world premiere of song she wrote with Prince"**](http://www.startribune.com/in-minneapolis-portuguese-star-ana-moura-offers-world-premiere-of-song-she-wrote-with-prince/479234123/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 April 2018 about Ana Moura ([mirror](https://web.archive.org/web/*/http://www.startribune.com/in-minneapolis-portuguese-star-ana-moura-offers-world-premiere-of-song-she-wrote-with-prince/479234123/))
 
 ----
 
@@ -334,7 +334,7 @@
 
 ----
 
- - [**"Carver County to turn over Prince investigative files to family"**](http://www.startribune.com/officials-to-turn-over-prince-investigative-files-to-family/477563043/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 21 March 2018 about [Carver County](../../topics/carver-county/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/officials-to-turn-over-prince-investigative-files-to-family/477563043/))
+ - [**"Carver County to turn over Prince investigative files to family"**](http://www.startribune.com/officials-to-turn-over-prince-investigative-files-to-family/477563043/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 21 March 2018 about Carver County ([mirror](https://web.archive.org/web/*/http://www.startribune.com/officials-to-turn-over-prince-investigative-files-to-family/477563043/))
 
 ----
 
@@ -342,7 +342,7 @@
 
 ----
 
- - [**"Review: John L. Nelson Project records jazz by Prince's dad"**](http://www.startribune.com/review-john-l-nelson-project-records-jazz-by-prince-s-dad/476151463/) by Pablo Gorondi (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 7 March 2018 about [John L. Nelson](../../topics/john-l-nelson/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/review-john-l-nelson-project-records-jazz-by-prince-s-dad/476151463/))
+ - [**"Review: John L. Nelson Project records jazz by Prince's dad"**](http://www.startribune.com/review-john-l-nelson-project-records-jazz-by-prince-s-dad/476151463/) by Pablo Gorondi (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 7 March 2018 about John L. Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/review-john-l-nelson-project-records-jazz-by-prince-s-dad/476151463/))
 
 ----
 
@@ -350,17 +350,17 @@
 
 ----
 
- - [**"Recording of jazz compositions by Prince's father released"**](http://www.startribune.com/recording-of-jazz-compositions-by-prince-s-father-released/475668083/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 2 March 2018 about [John L. Nelson](../../topics/john-l-nelson/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/recording-of-jazz-compositions-by-prince-s-father-released/475668083/))
+ - [**"Recording of jazz compositions by Prince's father released"**](http://www.startribune.com/recording-of-jazz-compositions-by-prince-s-father-released/475668083/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 2 March 2018 about John L. Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/recording-of-jazz-compositions-by-prince-s-father-released/475668083/))
 
 ----
 
 ## February 2018 (2)
 
- - [**"Minnesota Twins will funk it up with Prince branding deal, second night honoring the artist"**](http://www.startribune.com/minnesota-twins-bring-back-popular-prince-night-for-a-second-year/475168823/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 27 February 2018 about [Minnesota Twins](../../topics/minnesota-twins/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/minnesota-twins-bring-back-popular-prince-night-for-a-second-year/475168823/))
+ - [**"Minnesota Twins will funk it up with Prince branding deal, second night honoring the artist"**](http://www.startribune.com/minnesota-twins-bring-back-popular-prince-night-for-a-second-year/475168823/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 27 February 2018 about Minnesota Twins ([mirror](https://web.archive.org/web/*/http://www.startribune.com/minnesota-twins-bring-back-popular-prince-night-for-a-second-year/475168823/))
 
 ----
 
- - [**"Second annual Celebration at Prince's Paisley Park to feature Sheila E., fDeluxe, NPG"**](http://www.startribune.com/second-annual-celebration-at-prince-s-paisley-park-to-feature-sheila-e-fdeluxe-npg/474975113/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 23 February 2018 about [fDeluxe](../../topics/fdeluxe/index.md), [Sheila E.](../../topics/sheila-e/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/second-annual-celebration-at-prince-s-paisley-park-to-feature-sheila-e-fdeluxe-npg/474975113/))
+ - [**"Second annual Celebration at Prince's Paisley Park to feature Sheila E., fDeluxe, NPG"**](http://www.startribune.com/second-annual-celebration-at-prince-s-paisley-park-to-feature-sheila-e-fdeluxe-npg/474975113/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 23 February 2018 about fDeluxe, Sheila E. ([mirror](https://web.archive.org/web/*/http://www.startribune.com/second-annual-celebration-at-prince-s-paisley-park-to-feature-sheila-e-fdeluxe-npg/474975113/))
 
 ----
 

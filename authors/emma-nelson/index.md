@@ -12,7 +12,7 @@
 
 ----
 
- - [**"Judge rules to unseal Prince's divorce records -- Ex-wife Manuela Testolini has 30 days to object to certain documents being made public."**](http://www.startribune.com/judge-rules-to-unseal-prince-s-divorce-records/390211731/) by Emma Nelson in [Minneapolis Star Tribune](http://www.startribune.com/) on 15 August 2016 about [Manuela Testolini](../../topics/manuela-testolini/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/judge-rules-to-unseal-prince-s-divorce-records/390211731/))
+ - [**"Judge rules to unseal Prince's divorce records -- Ex-wife Manuela Testolini has 30 days to object to certain documents being made public."**](http://www.startribune.com/judge-rules-to-unseal-prince-s-divorce-records/390211731/) by Emma Nelson in [Minneapolis Star Tribune](http://www.startribune.com/) on 15 August 2016 about Manuela Testolini ([mirror](https://web.archive.org/web/*/http://www.startribune.com/judge-rules-to-unseal-prince-s-divorce-records/390211731/))
 
 ----
 
@@ -20,7 +20,7 @@
 
 ----
 
- - [**"Who's family? Sibling question at heart of Prince estate case -- Genetic testing to settle issue of whether Prince and his half-brother Duane shared a father."**](http://www.startribune.com/who-s-family-sibling-question-at-heart-of-prince-estate-case/389316281/) by Dan Browning, Emma Nelson in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 August 2016 about [Prince Estate](../../topics/prince-estate/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/who-s-family-sibling-question-at-heart-of-prince-estate-case/389316281/))
+ - [**"Who's family? Sibling question at heart of Prince estate case -- Genetic testing to settle issue of whether Prince and his half-brother Duane shared a father."**](http://www.startribune.com/who-s-family-sibling-question-at-heart-of-prince-estate-case/389316281/) by Dan Browning, Emma Nelson in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 August 2016 about Prince Estate ([mirror](https://web.archive.org/web/*/http://www.startribune.com/who-s-family-sibling-question-at-heart-of-prince-estate-case/389316281/))
 
 ----
 
@@ -40,7 +40,7 @@
 
 ----
 
- - [**"Judge confirms appointment of special administrator on Prince's estate -- Siblings say they're "all on the same page" even as a new alleged heir emerges."**](http://www.startribune.com/court-hearing-today-in-carver-county-on-prince-estate/377780821/) by Emma Nelson in [Minneapolis Star Tribune](http://www.startribune.com/) on 2 May 2016 about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [John Nelson](../../topics/john-nelson/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Van Jones](../../topics/van-jones/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/court-hearing-today-in-carver-county-on-prince-estate/377780821/))
+ - [**"Judge confirms appointment of special administrator on Prince's estate -- Siblings say they're "all on the same page" even as a new alleged heir emerges."**](http://www.startribune.com/court-hearing-today-in-carver-county-on-prince-estate/377780821/) by Emma Nelson in [Minneapolis Star Tribune](http://www.startribune.com/) on 2 May 2016 about Alfred Jackson, Bremer Trust, Carver County, John Nelson, Kevin Eide, Norrine Nelson, Omarr Baker, Prince Estate, Sharon Nelson, The Prince Estate, Tyka Nelson, Van Jones ([mirror](https://web.archive.org/web/*/http://www.startribune.com/court-hearing-today-in-carver-county-on-prince-estate/377780821/))
 
 ----
 

@@ -1,10 +1,10 @@
 # David Chanen
 
- - [**"Chanhassen City Council approves housing and park plan on former Prince property"**](http://www.startribune.com/chanhassen-council-approves-housing-and-park-plan-on-former-prince-property/507037042/)) by David Chanen, Katy Read in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 March 2019 about [Galpin Boulevard (place)](../../topics/place/galpin-boulevard/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/chanhassen-council-approves-housing-and-park-plan-on-former-prince-property/507037042/)))
+ - [**"Chanhassen City Council approves housing and park plan on former Prince property"**](http://www.startribune.com/chanhassen-council-approves-housing-and-park-plan-on-former-prince-property/507037042/)) by David Chanen, Katy Read in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 March 2019 about Galpin Boulevard (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/chanhassen-council-approves-housing-and-park-plan-on-former-prince-property/507037042/)))
 
 ----
 
- - [**"Documents: Airplane scare was beginning of the end of Prince's struggles with opioids -- Long-awaited investigative documents released Thursday give the clearest narrative yet of the singer's problems with opioid addiction in his final days."**](http://www.startribune.com/documents-airplane-scare-was-beginning-of-the-end-of-prince-s-struggles-with-opioids/480325903/) by Dan Browning, David Chanen in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 April 2018 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [fentanyl](../../topics/fentanyl/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Meron Bekure](../../topics/meron-bekure/index.md), [Vicodin](../../topics/vicodin/index.md), [Walgreens](../../topics/walgreens/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/documents-airplane-scare-was-beginning-of-the-end-of-prince-s-struggles-with-opioids/480325903/))
+ - [**"Documents: Airplane scare was beginning of the end of Prince's struggles with opioids -- Long-awaited investigative documents released Thursday give the clearest narrative yet of the singer's problems with opioid addiction in his final days."**](http://www.startribune.com/documents-airplane-scare-was-beginning-of-the-end-of-prince-s-struggles-with-opioids/480325903/) by Dan Browning, David Chanen in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 April 2018 about 3rdEyeGirl, Andrew Kornfeld, Atlanta (place), fentanyl, Howard Kornfeld, Judith Hill, Kirk Johnson, Manuela Testolini, Meron Bekure, Vicodin, Walgreens ([mirror](https://web.archive.org/web/*/http://www.startribune.com/documents-airplane-scare-was-beginning-of-the-end-of-prince-s-struggles-with-opioids/480325903/))
 
 ----
 
@@ -20,7 +20,7 @@
 
 ----
 
- - [**"Prince estate alleges Roc Nation used a fraudulent contract to stream the artist's songs"**](http://www.startribune.com/prince-estate-alleges-roc-nation-used-a-fraudulent-contract-to-stream-the-artist-s-songs/456728283/) by David Chanen in [Minneapolis Star Tribune](http://www.startribune.com/) on 11 November 2017 about [contract](../../topics/contract/index.md), [Prince Estate](../../topics/prince-estate/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-estate-alleges-roc-nation-used-a-fraudulent-contract-to-stream-the-artist-s-songs/456728283/))
+ - [**"Prince estate alleges Roc Nation used a fraudulent contract to stream the artist's songs"**](http://www.startribune.com/prince-estate-alleges-roc-nation-used-a-fraudulent-contract-to-stream-the-artist-s-songs/456728283/) by David Chanen in [Minneapolis Star Tribune](http://www.startribune.com/) on 11 November 2017 about contract, Prince Estate ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-estate-alleges-roc-nation-used-a-fraudulent-contract-to-stream-the-artist-s-songs/456728283/))
 
 ----
 
@@ -34,7 +34,7 @@
 
 ----
 
- - [**"Battle over Prince estate plays on -- Move would start clock ticking on when others can still make claims."**](http://www.startribune.com/battle-over-prince-estate-plays-on/421893663/) by David Chanen in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 May 2017 about [Prince Estate](../../topics/prince-estate/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/battle-over-prince-estate-plays-on/421893663/))
+ - [**"Battle over Prince estate plays on -- Move would start clock ticking on when others can still make claims."**](http://www.startribune.com/battle-over-prince-estate-plays-on/421893663/) by David Chanen in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 May 2017 about Prince Estate ([mirror](https://web.archive.org/web/*/http://www.startribune.com/battle-over-prince-estate-plays-on/421893663/))
 
 ----
 
@@ -42,7 +42,7 @@
 
 ----
 
- - [**"Carver County plans to unseal search warrants into Prince's death next week -- State and federal investigation is ongoing a year after his death from an accidental drug overdose."**](http://www.startribune.com/carver-county-plans-to-unseal-search-warrants-into-prince-s-death-next-week/419481643/) by David Chanen in [Minneapolis Star Tribune](http://www.startribune.com/) on 14 April 2017 about [Carver County](../../topics/carver-county/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/carver-county-plans-to-unseal-search-warrants-into-prince-s-death-next-week/419481643/))
+ - [**"Carver County plans to unseal search warrants into Prince's death next week -- State and federal investigation is ongoing a year after his death from an accidental drug overdose."**](http://www.startribune.com/carver-county-plans-to-unseal-search-warrants-into-prince-s-death-next-week/419481643/) by David Chanen in [Minneapolis Star Tribune](http://www.startribune.com/) on 14 April 2017 about Carver County ([mirror](https://web.archive.org/web/*/http://www.startribune.com/carver-county-plans-to-unseal-search-warrants-into-prince-s-death-next-week/419481643/))
 
 ----
 
@@ -50,7 +50,7 @@
 
 ----
 
- - [**"Court holds off determining Prince's legal heirs, picks firm to oversee estate -- Filings in Carver County District Court raised questions of conflicts of interest in the management of the estate."**](http://www.startribune.com/challenges-raised-in-hand-off-of-prince-estate/410513285/) by Dan Browning, David Chanen in [Minneapolis Star Tribune](http://www.startribune.com/) on 13 January 2017 about [Carver County](../../topics/carver-county/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/challenges-raised-in-hand-off-of-prince-estate/410513285/))
+ - [**"Court holds off determining Prince's legal heirs, picks firm to oversee estate -- Filings in Carver County District Court raised questions of conflicts of interest in the management of the estate."**](http://www.startribune.com/challenges-raised-in-hand-off-of-prince-estate/410513285/) by Dan Browning, David Chanen in [Minneapolis Star Tribune](http://www.startribune.com/) on 13 January 2017 about Carver County ([mirror](https://web.archive.org/web/*/http://www.startribune.com/challenges-raised-in-hand-off-of-prince-estate/410513285/))
 
 ----
 
@@ -78,7 +78,7 @@
 
 ----
 
- - [**"Investigation into Prince's death now is a criminal probe -- The Carver County Sheriff's Office cited an exception to Minnesota public records laws allowing the suppression of information relating to preparing a case "for the commission of a crime.""**](http://www.startribune.com/carver-county-judge-seals-search-warrants-in-prince-death-investigation/377456111/) by David Chanen in [Minneapolis Star Tribune](http://www.startribune.com/) on 29 April 2016 about [Carver County](../../topics/carver-county/index.md), [Jim Olson](../../topics/jim-olson/index.md), [Mark Metz](../../topics/mark-metz/index.md), [The Time](../../topics/the-time/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/carver-county-judge-seals-search-warrants-in-prince-death-investigation/377456111/))
+ - [**"Investigation into Prince's death now is a criminal probe -- The Carver County Sheriff's Office cited an exception to Minnesota public records laws allowing the suppression of information relating to preparing a case "for the commission of a crime.""**](http://www.startribune.com/carver-county-judge-seals-search-warrants-in-prince-death-investigation/377456111/) by David Chanen in [Minneapolis Star Tribune](http://www.startribune.com/) on 29 April 2016 about Carver County, Jim Olson, Mark Metz, The Time ([mirror](https://web.archive.org/web/*/http://www.startribune.com/carver-county-judge-seals-search-warrants-in-prince-death-investigation/377456111/))
 
 ----
 

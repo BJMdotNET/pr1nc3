@@ -1,18 +1,18 @@
 # Dan Browning
 
- - [**"Documents: Airplane scare was beginning of the end of Prince's struggles with opioids -- Long-awaited investigative documents released Thursday give the clearest narrative yet of the singer's problems with opioid addiction in his final days."**](http://www.startribune.com/documents-airplane-scare-was-beginning-of-the-end-of-prince-s-struggles-with-opioids/480325903/) by Dan Browning, David Chanen in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 April 2018 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [fentanyl](../../topics/fentanyl/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Meron Bekure](../../topics/meron-bekure/index.md), [Vicodin](../../topics/vicodin/index.md), [Walgreens](../../topics/walgreens/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/documents-airplane-scare-was-beginning-of-the-end-of-prince-s-struggles-with-opioids/480325903/))
+ - [**"Documents: Airplane scare was beginning of the end of Prince's struggles with opioids -- Long-awaited investigative documents released Thursday give the clearest narrative yet of the singer's problems with opioid addiction in his final days."**](http://www.startribune.com/documents-airplane-scare-was-beginning-of-the-end-of-prince-s-struggles-with-opioids/480325903/) by Dan Browning, David Chanen in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 April 2018 about 3rdEyeGirl, Andrew Kornfeld, Atlanta (place), fentanyl, Howard Kornfeld, Judith Hill, Kirk Johnson, Manuela Testolini, Meron Bekure, Vicodin, Walgreens ([mirror](https://web.archive.org/web/*/http://www.startribune.com/documents-airplane-scare-was-beginning-of-the-end-of-prince-s-struggles-with-opioids/480325903/))
 
 ----
 
- - [**"Court holds off determining Prince's legal heirs, picks firm to oversee estate -- Filings in Carver County District Court raised questions of conflicts of interest in the management of the estate."**](http://www.startribune.com/challenges-raised-in-hand-off-of-prince-estate/410513285/) by Dan Browning, David Chanen in [Minneapolis Star Tribune](http://www.startribune.com/) on 13 January 2017 about [Carver County](../../topics/carver-county/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/challenges-raised-in-hand-off-of-prince-estate/410513285/))
+ - [**"Court holds off determining Prince's legal heirs, picks firm to oversee estate -- Filings in Carver County District Court raised questions of conflicts of interest in the management of the estate."**](http://www.startribune.com/challenges-raised-in-hand-off-of-prince-estate/410513285/) by Dan Browning, David Chanen in [Minneapolis Star Tribune](http://www.startribune.com/) on 13 January 2017 about Carver County ([mirror](https://web.archive.org/web/*/http://www.startribune.com/challenges-raised-in-hand-off-of-prince-estate/410513285/))
 
 ----
 
- - [**"Would-be heirs raise constitutional challenge over Prince estate -- Attorneys say the protocol for these would-be heirs is unconstitutional."**](http://www.startribune.com/constitutional-challenge-raised-in-prince-estate/392918011/) by Dan Browning in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 September 2016 about [Prince Estate](../../topics/prince-estate/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/constitutional-challenge-raised-in-prince-estate/392918011/))
+ - [**"Would-be heirs raise constitutional challenge over Prince estate -- Attorneys say the protocol for these would-be heirs is unconstitutional."**](http://www.startribune.com/constitutional-challenge-raised-in-prince-estate/392918011/) by Dan Browning in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 September 2016 about Prince Estate ([mirror](https://web.archive.org/web/*/http://www.startribune.com/constitutional-challenge-raised-in-prince-estate/392918011/))
 
 ----
 
- - [**"Who's family? Sibling question at heart of Prince estate case -- Genetic testing to settle issue of whether Prince and his half-brother Duane shared a father."**](http://www.startribune.com/who-s-family-sibling-question-at-heart-of-prince-estate-case/389316281/) by Dan Browning, Emma Nelson in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 August 2016 about [Prince Estate](../../topics/prince-estate/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/who-s-family-sibling-question-at-heart-of-prince-estate-case/389316281/))
+ - [**"Who's family? Sibling question at heart of Prince estate case -- Genetic testing to settle issue of whether Prince and his half-brother Duane shared a father."**](http://www.startribune.com/who-s-family-sibling-question-at-heart-of-prince-estate-case/389316281/) by Dan Browning, Emma Nelson in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 August 2016 about Prince Estate ([mirror](https://web.archive.org/web/*/http://www.startribune.com/who-s-family-sibling-question-at-heart-of-prince-estate-case/389316281/))
 
 ----
 
@@ -48,11 +48,11 @@
 
 ----
 
- - [**"Prince's local doctor identified in search warrant -- Dr. Michael Todd Schulenberg, a family practitioner, had seen Prince twice before his body was found April 21, according to the warrant left unsealed."**](http://www.startribune.com/prince-s-md-identified-in-search-warrant/378880371/) by Dan Browning, Jeremy Olson in [Minneapolis Star Tribune](http://www.startribune.com/) on 11 May 2016 about [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-md-identified-in-search-warrant/378880371/))
+ - [**"Prince's local doctor identified in search warrant -- Dr. Michael Todd Schulenberg, a family practitioner, had seen Prince twice before his body was found April 21, according to the warrant left unsealed."**](http://www.startribune.com/prince-s-md-identified-in-search-warrant/378880371/) by Dan Browning, Jeremy Olson in [Minneapolis Star Tribune](http://www.startribune.com/) on 11 May 2016 about Michael Todd Schulenberg ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-md-identified-in-search-warrant/378880371/))
 
 ----
 
- - [**"Judge authorizes DNA testing of Prince's blood for any heir claims"**](http://www.startribune.com/prince-creditors-have-four-months-to-file-claims/378449441/) by Dan Browning in [Minneapolis Star Tribune](http://www.startribune.com/) on 7 May 2016 about [Atlanta (place)](../../topics/place/atlanta/index.md), [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [Kevin Eide](../../topics/kevin-eide/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-creditors-have-four-months-to-file-claims/378449441/))
+ - [**"Judge authorizes DNA testing of Prince's blood for any heir claims"**](http://www.startribune.com/prince-creditors-have-four-months-to-file-claims/378449441/) by Dan Browning in [Minneapolis Star Tribune](http://www.startribune.com/) on 7 May 2016 about Atlanta (place), Bremer Trust, Carver County, Kevin Eide ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-creditors-have-four-months-to-file-claims/378449441/))
 
 ----
 
@@ -60,7 +60,7 @@
 
 ----
 
- - [**"Prince's sister says he had no known will -- Tyka Nelson seeks special administrator for a huge, complex estate."**](http://www.startribune.com/prince-s-sister-files-to-become-estate-executor/377139151/) by Dan Browning in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 April 2016 about [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-sister-files-to-become-estate-executor/377139151/))
+ - [**"Prince's sister says he had no known will -- Tyka Nelson seeks special administrator for a huge, complex estate."**](http://www.startribune.com/prince-s-sister-files-to-become-estate-executor/377139151/) by Dan Browning in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 April 2016 about Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-sister-files-to-become-estate-executor/377139151/))
 
 ----
 

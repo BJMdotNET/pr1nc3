@@ -1,6 +1,6 @@
 # Stephen Montemayor
 
- - [**"Carver County closes Prince death investigation with no criminal charges -- After 2-year probe, supplier of fatal drug eludes investigators"**](http://www.startribune.com/no-charges-in-prince-death-investigation/480252103/) by Stephen Montemayor in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 April 2018 about [Carver County](../../topics/carver-county/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/no-charges-in-prince-death-investigation/480252103/))
+ - [**"Carver County closes Prince death investigation with no criminal charges -- After 2-year probe, supplier of fatal drug eludes investigators"**](http://www.startribune.com/no-charges-in-prince-death-investigation/480252103/) by Stephen Montemayor in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 April 2018 about Carver County ([mirror](https://web.archive.org/web/*/http://www.startribune.com/no-charges-in-prince-death-investigation/480252103/))
 
 ----
 
@@ -16,7 +16,7 @@
 
 ----
 
- - [**"Pills seized from Paisley Park contained illicit fentanyl, same drug that killed Prince -- Level of fentanyl found in musician's body was so great no one could have survived it."**](http://www.startribune.com/pills-seized-from-paisley-park-contained-illicit-fentanyl-same-drug-that-killed-prince/390816101/) by Stephen Montemayor in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 August 2016 about [fentanyl](../../topics/fentanyl/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/pills-seized-from-paisley-park-contained-illicit-fentanyl-same-drug-that-killed-prince/390816101/))
+ - [**"Pills seized from Paisley Park contained illicit fentanyl, same drug that killed Prince -- Level of fentanyl found in musician's body was so great no one could have survived it."**](http://www.startribune.com/pills-seized-from-paisley-park-contained-illicit-fentanyl-same-drug-that-killed-prince/390816101/) by Stephen Montemayor in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 August 2016 about fentanyl ([mirror](https://web.archive.org/web/*/http://www.startribune.com/pills-seized-from-paisley-park-contained-illicit-fentanyl-same-drug-that-killed-prince/390816101/))
 
 ----
 

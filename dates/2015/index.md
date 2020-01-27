@@ -14,17 +14,17 @@
 
 ----
 
- - [**"C.J.: JB Hudson CEO also collects sparkling art objects like the one featuring Prince at Gallery13"**](http://www.startribune.com/c-j-jb-hudson-ceo-also-collects-sparkling-art-objects-like-the-one-featuring-prince-at-gallery13/339637352/) by C.J. (Cheryl Johnson) in [Minneapolis Star Tribune](http://www.startribune.com/) on 2 November 2015 about [C.J.](../../topics/c-j/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-jb-hudson-ceo-also-collects-sparkling-art-objects-like-the-one-featuring-prince-at-gallery13/339637352/))
+ - [**"C.J.: JB Hudson CEO also collects sparkling art objects like the one featuring Prince at Gallery13"**](http://www.startribune.com/c-j-jb-hudson-ceo-also-collects-sparkling-art-objects-like-the-one-featuring-prince-at-gallery13/339637352/) by C.J. (Cheryl Johnson) in [Minneapolis Star Tribune](http://www.startribune.com/) on 2 November 2015 about C.J. ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-jb-hudson-ceo-also-collects-sparkling-art-objects-like-the-one-featuring-prince-at-gallery13/339637352/))
 
 ----
 
 ## October 2015 (5)
 
- - [**"Prince invites fans to party with him at Paisley Park"**](https://apnews.com/93c56737c5344b9597794d00449d08e3) by Jeff Baenen (Associated Press) in [Associated Press News](https://apnews.com/) on 27 October 2015 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Donna Grantis](../../topics/donna-grantis/index.md), [James Brown](../../topics/james-brown/index.md), [Judith Hill](../../topics/judith-hill/index.md), [merchandise](../../topics/merchandise/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/93c56737c5344b9597794d00449d08e3))
+ - [**"Prince invites fans to party with him at Paisley Park"**](https://apnews.com/93c56737c5344b9597794d00449d08e3) by Jeff Baenen (Associated Press) in [Associated Press News](https://apnews.com/) on 27 October 2015 about 3rdEyeGirl, Donna Grantis, James Brown, Judith Hill, merchandise, Stevie Wonder ([mirror](https://web.archive.org/web/*/https://apnews.com/93c56737c5344b9597794d00449d08e3))
 
 ----
 
- - [**"Prince's Rocktober continues with another lengthy jam at Paisley Park -- He cut loose and went long at his Chanhassen complex Saturday, this time with Judith Hill playing along."**](http://www.startribune.com/prince-s-rocktober-continues-with-another-lengthy-jam-at-paisley-park/336882621/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 October 2015 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Donna Grantis](../../topics/donna-grantis/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-rocktober-continues-with-another-lengthy-jam-at-paisley-park/336882621/))
+ - [**"Prince's Rocktober continues with another lengthy jam at Paisley Park -- He cut loose and went long at his Chanhassen complex Saturday, this time with Judith Hill playing along."**](http://www.startribune.com/prince-s-rocktober-continues-with-another-lengthy-jam-at-paisley-park/336882621/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 October 2015 about 3rdEyeGirl, Donna Grantis, Judith Hill, Kirk Johnson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-rocktober-continues-with-another-lengthy-jam-at-paisley-park/336882621/))
 
 ----
 
@@ -42,7 +42,7 @@
 
 ## September 2015 (6)
 
- - [**"Prince releases new single, "Free Urself," on Tidal"**](http://www.startribune.com/prince-releases-new-single-free-urself-on-tidal/329887771/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 29 September 2015 about [Free Urself (song)](../../topics/song/free-urself/index.md), [Tidal](../../topics/tidal/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-releases-new-single-free-urself-on-tidal/329887771/))
+ - [**"Prince releases new single, "Free Urself," on Tidal"**](http://www.startribune.com/prince-releases-new-single-free-urself-on-tidal/329887771/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 29 September 2015 about Free Urself (song), Tidal ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-releases-new-single-free-urself-on-tidal/329887771/))
 
 ----
 
@@ -54,7 +54,7 @@
 
 ----
 
- - [**"Meet the man behind Prince's new sound"**](https://usatoday.com/story/life/music/2015/09/03/meet-man-behind-princes-new-sound/71600344/) in [USA Today](https://usatoday.com/) on 4 September 2015 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Joshua Welton](../../topics/joshua-welton/index.md), [New Power Generation](../../topics/new-power-generation/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2015/09/03/meet-man-behind-princes-new-sound/71600344/))
+ - [**"Meet the man behind Prince's new sound"**](https://usatoday.com/story/life/music/2015/09/03/meet-man-behind-princes-new-sound/71600344/) in [USA Today](https://usatoday.com/) on 4 September 2015 about 3rdEyeGirl, Joshua Welton, New Power Generation ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2015/09/03/meet-man-behind-princes-new-sound/71600344/))
 
 ----
 
@@ -62,13 +62,13 @@
 
 ----
 
- - [**"Music critic Jon Bream lists his faves from 40 years of concerts, interviews"**](http://www.startribune.com/music-critic-jon-bream-lists-his-faves-from-40-years-of-concerts-and-interviews/323509361/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 1 September 2015 about [Jon Bream](../../topics/jon-bream/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/music-critic-jon-bream-lists-his-faves-from-40-years-of-concerts-and-interviews/323509361/))
+ - [**"Music critic Jon Bream lists his faves from 40 years of concerts, interviews"**](http://www.startribune.com/music-critic-jon-bream-lists-his-faves-from-40-years-of-concerts-and-interviews/323509361/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 1 September 2015 about Jon Bream ([mirror](https://web.archive.org/web/*/http://www.startribune.com/music-critic-jon-bream-lists-his-faves-from-40-years-of-concerts-and-interviews/323509361/))
 
 ----
 
 ## August 2015 (2)
 
- - [**"C.J.: The bachelorette party was in the secure hands of CBS' Jeff Pegues"**](http://www.startribune.com/c-j-the-bachelorette-party-was-in-the-secure-hands-of-cbs-jeff-pegues/321326941/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 August 2015 about [C.J.](../../topics/c-j/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-the-bachelorette-party-was-in-the-secure-hands-of-cbs-jeff-pegues/321326941/))
+ - [**"C.J.: The bachelorette party was in the secure hands of CBS' Jeff Pegues"**](http://www.startribune.com/c-j-the-bachelorette-party-was-in-the-secure-hands-of-cbs-jeff-pegues/321326941/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 August 2015 about C.J. ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-the-bachelorette-party-was-in-the-secure-hands-of-cbs-jeff-pegues/321326941/))
 
 ----
 
@@ -84,7 +84,7 @@
 
 ## June 2015 (3)
 
- - [**"Prince, Stevie Wonder jam at White House, D.C. concerts"**](http://www.startribune.com/prince-stevie-wonder-jam-at-white-house-at-d-c-concerts/307329581/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 15 June 2015 about [Stevie Wonder](../../topics/stevie-wonder/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-stevie-wonder-jam-at-white-house-at-d-c-concerts/307329581/))
+ - [**"Prince, Stevie Wonder jam at White House, D.C. concerts"**](http://www.startribune.com/prince-stevie-wonder-jam-at-white-house-at-d-c-concerts/307329581/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 15 June 2015 about Stevie Wonder ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-stevie-wonder-jam-at-white-house-at-d-c-concerts/307329581/))
 
 ----
 
@@ -92,7 +92,7 @@
 
 ----
 
- - [**"Lisa Fischer & Brittany Howard: Two extraordinary voices in concert Monday"**](http://www.startribune.com/lisa-fischer-brittany-howard-two-extraordinary-voices-in-concert-monday/305794671/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 2 June 2015 about [Brittany Howard](../../topics/brittany-howard/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/lisa-fischer-brittany-howard-two-extraordinary-voices-in-concert-monday/305794671/))
+ - [**"Lisa Fischer & Brittany Howard: Two extraordinary voices in concert Monday"**](http://www.startribune.com/lisa-fischer-brittany-howard-two-extraordinary-voices-in-concert-monday/305794671/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 2 June 2015 about Brittany Howard ([mirror](https://web.archive.org/web/*/http://www.startribune.com/lisa-fischer-brittany-howard-two-extraordinary-voices-in-concert-monday/305794671/))
 
 ----
 
@@ -102,41 +102,41 @@
 
 ----
 
- - [**"C.J.: TV guys Blake McCoy and Tom Butler have nationally recognized hair"**](http://www.startribune.com/c-j-tv-guys-blake-mccoy-and-tom-butler-have-nationally-recognized-hair/302847421/) by C.J. (Cheryl Johnson) in [Minneapolis Star Tribune](http://www.startribune.com/) on 6 May 2015 about [C.J.](../../topics/c-j/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-tv-guys-blake-mccoy-and-tom-butler-have-nationally-recognized-hair/302847421/))
+ - [**"C.J.: TV guys Blake McCoy and Tom Butler have nationally recognized hair"**](http://www.startribune.com/c-j-tv-guys-blake-mccoy-and-tom-butler-have-nationally-recognized-hair/302847421/) by C.J. (Cheryl Johnson) in [Minneapolis Star Tribune](http://www.startribune.com/) on 6 May 2015 about C.J. ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-tv-guys-blake-mccoy-and-tom-butler-have-nationally-recognized-hair/302847421/))
 
 ----
 
- - [**"Hornheads jazz group creates unique sound -- The five-piece a cappella horn section records and plays all over the globe."**](http://www.startribune.com/hornheads-jazz-group-creates-unique-sound/302567351/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 May 2015 about [Chaka Khan](../../topics/chaka-khan/index.md), [Dave Jensen](../../topics/dave-jensen/index.md), [Everything Blows (album)](../../topics/album/everything-blows/index.md), [Hornheads](../../topics/hornheads/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Kathy Jensen](../../topics/kathy-jensen/index.md), [Kenni Holmen](../../topics/kenni-holmen/index.md), [Michael Nelson](../../topics/michael-nelson/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Steve Strand](../../topics/steve-strand/index.md), [Trump](../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/hornheads-jazz-group-creates-unique-sound/302567351/))
+ - [**"Hornheads jazz group creates unique sound -- The five-piece a cappella horn section records and plays all over the globe."**](http://www.startribune.com/hornheads-jazz-group-creates-unique-sound/302567351/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 May 2015 about Chaka Khan, Dave Jensen, Everything Blows (album), Hornheads, Jimmy Jam, Kathy Jensen, Kenni Holmen, Michael Nelson, New Power Generation, Steve Strand, Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/hornheads-jazz-group-creates-unique-sound/302567351/))
 
 ----
 
 ## April 2015 (2)
 
- - [**"13,000 at writers conference having best, versed of times in Minneapolis"**](http://www.startribune.com/13-000-at-writers-conference-having-best-versed-of-times/299262081/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 April 2015 about [airport](../../topics/airport/index.md), [exhibition](../../topics/exhibition/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [museum](../../topics/museum/index.md), [Patricia Smith](../../topics/patricia-smith/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/13-000-at-writers-conference-having-best-versed-of-times/299262081/))
+ - [**"13,000 at writers conference having best, versed of times in Minneapolis"**](http://www.startribune.com/13-000-at-writers-conference-having-best-versed-of-times/299262081/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 April 2015 about airport, exhibition, First Avenue (place), museum, Patricia Smith ([mirror](https://web.archive.org/web/*/http://www.startribune.com/13-000-at-writers-conference-having-best-versed-of-times/299262081/))
 
 ----
 
- - [**"A new album -- and lawsuit -- puts Prince protege in spotlight"**](https://apnews.com/491d81d7a2324c25b8b874ac6da01062) in [Associated Press News](https://apnews.com/) on 7 April 2015 about [contract](../../topics/contract/index.md), [Judith Hill](../../topics/judith-hill/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/491d81d7a2324c25b8b874ac6da01062))
+ - [**"A new album -- and lawsuit -- puts Prince protege in spotlight"**](https://apnews.com/491d81d7a2324c25b8b874ac6da01062) in [Associated Press News](https://apnews.com/) on 7 April 2015 about contract, Judith Hill ([mirror](https://web.archive.org/web/*/https://apnews.com/491d81d7a2324c25b8b874ac6da01062))
 
 ----
 
 ## March 2015 (2)
 
- - [**"Hunting for Prince's vault"**](https://www.bbc.com/news/magazine-31962180) in [BBC News](https://www.bbc.com/news/) on 20 March 2015 about [Alan Leeds](../../topics/alan-leeds/index.md), [Donna Grantis](../../topics/donna-grantis/index.md), [Dream Factory (album)](../../topics/album/dream-factory/index.md), [Eric Leeds](../../topics/eric-leeds/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [vault](../../topics/vault/index.md), [Wally (song)](../../topics/song/wally/index.md), [YouTube](../../topics/youtube/index.md) ([mirror](https://web.archive.org/web/*/https://www.bbc.com/news/magazine-31962180))
+ - [**"Hunting for Prince's vault"**](https://www.bbc.com/news/magazine-31962180) in [BBC News](https://www.bbc.com/news/) on 20 March 2015 about Alan Leeds, Donna Grantis, Dream Factory (album), Eric Leeds, Susan Rogers, vault, Wally (song), YouTube ([mirror](https://web.archive.org/web/*/https://www.bbc.com/news/magazine-31962180))
 
 ----
 
- - [**"New Prince track was a long time coming"**](https://usatoday.com/story/life/music/2015/03/14/new-prince-track-what-if-nichole-nordeman/24773895/) in [USA Today](https://usatoday.com/) on 15 March 2015 about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Hannah Welton](../../topics/hannah-welton/index.md), [Nichole Nordeman](../../topics/nichole-nordeman/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The X's Face (song)](../../topics/song/the-x-s-face/index.md), [What If (song)](../../topics/song/what-if/index.md) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2015/03/14/new-prince-track-what-if-nichole-nordeman/24773895/))
+ - [**"New Prince track was a long time coming"**](https://usatoday.com/story/life/music/2015/03/14/new-prince-track-what-if-nichole-nordeman/24773895/) in [USA Today](https://usatoday.com/) on 15 March 2015 about 3rdEyeGirl, Hannah Welton, Nichole Nordeman, Sheila E., The X's Face (song), What If (song) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2015/03/14/new-prince-track-what-if-nichole-nordeman/24773895/))
 
 ----
 
 ## February 2015 (2)
 
- - [**"Players, celebs and models converge during All-Star weekend"**](https://apnews.com/ba65c68171c64269919a07e1d745ced6) in [Associated Press News](https://apnews.com/) on 15 February 2015 about [Celebration](../../topics/celebration/index.md), [Questlove](../../topics/questlove/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [SNL (TV show)](../../topics/tv-show/snl/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/ba65c68171c64269919a07e1d745ced6))
+ - [**"Players, celebs and models converge during All-Star weekend"**](https://apnews.com/ba65c68171c64269919a07e1d745ced6) in [Associated Press News](https://apnews.com/) on 15 February 2015 about Celebration, Questlove, Saturday Night Live (TV show), SNL (TV show) ([mirror](https://web.archive.org/web/*/https://apnews.com/ba65c68171c64269919a07e1d745ced6))
 
 ----
 
- - [**"What were the specifics of Prince's “$100 million contract” with Warner Bros. Records in 1992?"**](https://musicfans.stackexchange.com/a/89/129) in [Music Fans Stack Exchange](https://musicfans.stackexchange.com/) on 15 February 2015 about [contract](../../topics/contract/index.md), [Controversy Music](../../topics/controversy-music/index.md), [Diamonds & Pearls (album)](../../topics/album/diamonds-pearls/index.md), [Gary Stiffelman](../../topics/gary-stiffelman/index.md), [Gilbert Davidson](../../topics/gilbert-davidson/index.md), [Jill Wills](../../topics/jill-wills/index.md), [Lovesexy (album)](../../topics/album/lovesexy/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [Paisley Park Records](../../topics/paisley-park-records/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Time Warner](../../topics/time-warner/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md), [Warner/Chappell Music](../../topics/warner-chappell-music/index.md) ([mirror](https://web.archive.org/web/*/https://musicfans.stackexchange.com/a/89/129))
+ - [**"What were the specifics of Prince's “$100 million contract” with Warner Bros. Records in 1992?"**](https://musicfans.stackexchange.com/a/89/129) in [Music Fans Stack Exchange](https://musicfans.stackexchange.com/) on 15 February 2015 about contract, Controversy Music, Diamonds & Pearls (album), Gary Stiffelman, Gilbert Davidson, Jill Wills, Lovesexy (album), Paisley Park Enterprises, Paisley Park Records, Purple Rain (album), Time Warner, Warner Bros. Records, Warner/Chappell Music ([mirror](https://web.archive.org/web/*/https://musicfans.stackexchange.com/a/89/129))
 
 ----
 

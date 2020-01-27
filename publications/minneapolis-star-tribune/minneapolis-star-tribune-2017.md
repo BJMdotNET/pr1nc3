@@ -6,11 +6,11 @@
 
 ----
 
- - [**"Prince estate alleges Roc Nation used a fraudulent contract to stream the artist's songs"**](http://www.startribune.com/prince-estate-alleges-roc-nation-used-a-fraudulent-contract-to-stream-the-artist-s-songs/456728283/) by David Chanen in [Minneapolis Star Tribune](http://www.startribune.com/) on 11 November 2017 about [contract](../../topics/contract/index.md), [Prince Estate](../../topics/prince-estate/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-estate-alleges-roc-nation-used-a-fraudulent-contract-to-stream-the-artist-s-songs/456728283/))
+ - [**"Prince estate alleges Roc Nation used a fraudulent contract to stream the artist's songs"**](http://www.startribune.com/prince-estate-alleges-roc-nation-used-a-fraudulent-contract-to-stream-the-artist-s-songs/456728283/) by David Chanen in [Minneapolis Star Tribune](http://www.startribune.com/) on 11 November 2017 about contract, Prince Estate ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-estate-alleges-roc-nation-used-a-fraudulent-contract-to-stream-the-artist-s-songs/456728283/))
 
 ----
 
- - [**"Prince guitar fetches record $700K in auction"**](http://www.startribune.com/prince-guitar-fetches-record-700k-in-auction/455397973/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 6 November 2017 about [auction](../../topics/auction/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-guitar-fetches-record-700k-in-auction/455397973/))
+ - [**"Prince guitar fetches record $700K in auction"**](http://www.startribune.com/prince-guitar-fetches-record-700k-in-auction/455397973/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 6 November 2017 about auction ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-guitar-fetches-record-700k-in-auction/455397973/))
 
 ----
 
@@ -26,7 +26,7 @@
 
 ----
 
- - [**"Prince tapes moved to California; 2 heirs angry"**](http://www.startribune.com/apnewsbreak-prince-tapes-moved-to-california-heirs-miffed/450496873/) by Steve Karnowski (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 October 2017 about [Iron Mountain](../../topics/iron-mountain/index.md), [Iron Mountain Entertainment Services](../../topics/iron-mountain-entertainment-services/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/apnewsbreak-prince-tapes-moved-to-california-heirs-miffed/450496873/))
+ - [**"Prince tapes moved to California; 2 heirs angry"**](http://www.startribune.com/apnewsbreak-prince-tapes-moved-to-california-heirs-miffed/450496873/) by Steve Karnowski (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 October 2017 about Iron Mountain, Iron Mountain Entertainment Services ([mirror](https://web.archive.org/web/*/http://www.startribune.com/apnewsbreak-prince-tapes-moved-to-california-heirs-miffed/450496873/))
 
 ----
 
@@ -38,7 +38,7 @@
 
 ## August 2017 (15)
 
- - [**"For $160, you get to hold Prince's guitar on 3-hour 'Ultimate' Paisley Park tour -- Is the new "Ultimate Experience" at Prince's museum worth $160?"**](http://www.startribune.com/for-160-you-get-to-hold-prince-s-guitar-on-3-hour-ultimate-paisley-park-tour/441644933/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 24 August 2017 about [museum](../../topics/museum/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/for-160-you-get-to-hold-prince-s-guitar-on-3-hour-ultimate-paisley-park-tour/441644933/))
+ - [**"For $160, you get to hold Prince's guitar on 3-hour 'Ultimate' Paisley Park tour -- Is the new "Ultimate Experience" at Prince's museum worth $160?"**](http://www.startribune.com/for-160-you-get-to-hold-prince-s-guitar-on-3-hour-ultimate-paisley-park-tour/441644933/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 24 August 2017 about museum ([mirror](https://web.archive.org/web/*/http://www.startribune.com/for-160-you-get-to-hold-prince-s-guitar-on-3-hour-ultimate-paisley-park-tour/441644933/))
 
 ----
 
@@ -64,11 +64,11 @@
 
 ----
 
- - [**"Coldplay pulls for the color purple at U.S. Bank Stadium -- The British band put on a colorful spectacle with shout-outs to the Vikings and Prince at U.S. Bank Stadium."**](http://www.startribune.com/coldplay-pulls-for-the-color-purple-at-u-s-bank-stadium/440125493/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 13 August 2017 about [First Avenue (place)](../../topics/place/first-avenue/index.md), [London (place)](../../topics/place/london/index.md), [Super Bowl](../../topics/super-bowl/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/coldplay-pulls-for-the-color-purple-at-u-s-bank-stadium/440125493/))
+ - [**"Coldplay pulls for the color purple at U.S. Bank Stadium -- The British band put on a colorful spectacle with shout-outs to the Vikings and Prince at U.S. Bank Stadium."**](http://www.startribune.com/coldplay-pulls-for-the-color-purple-at-u-s-bank-stadium/440125493/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 13 August 2017 about First Avenue (place), London (place), Super Bowl ([mirror](https://web.archive.org/web/*/http://www.startribune.com/coldplay-pulls-for-the-color-purple-at-u-s-bank-stadium/440125493/))
 
 ----
 
- - [**"Jazz legend Herbie Hancock talks music, recovery and partying with Prince                                     -- Jazz giant Herbie Hancock is working on an album with Snoop and Pharrell; he'll preview it at the Minnesota Zoo. "**](http://www.startribune.com/jazz-legend-herbie-hancock-talks-music-recovery-and-partying-with-prince/439675873/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 August 2017 about [Joni Mitchell](../../topics/joni-mitchell/index.md), [memoir](../../topics/memoir/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Trump](../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/jazz-legend-herbie-hancock-talks-music-recovery-and-partying-with-prince/439675873/))
+ - [**"Jazz legend Herbie Hancock talks music, recovery and partying with Prince                                     -- Jazz giant Herbie Hancock is working on an album with Snoop and Pharrell; he'll preview it at the Minnesota Zoo. "**](http://www.startribune.com/jazz-legend-herbie-hancock-talks-music-recovery-and-partying-with-prince/439675873/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 August 2017 about Joni Mitchell, memoir, Miles Davis, Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/jazz-legend-herbie-hancock-talks-music-recovery-and-partying-with-prince/439675873/))
 
 ----
 
@@ -94,7 +94,7 @@
 
 ----
 
- - [**"Ex-Prince guitarist Donna Grantis creates big fun with jazz-rock fusion group"**](http://www.startribune.com/ex-prince-guitarist-donna-grantis-creates-big-fun-with-jazz-rock-fusion-group/438738623/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 August 2017 about [Donna Grantis](../../topics/donna-grantis/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/ex-prince-guitarist-donna-grantis-creates-big-fun-with-jazz-rock-fusion-group/438738623/))
+ - [**"Ex-Prince guitarist Donna Grantis creates big fun with jazz-rock fusion group"**](http://www.startribune.com/ex-prince-guitarist-donna-grantis-creates-big-fun-with-jazz-rock-fusion-group/438738623/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 August 2017 about Donna Grantis ([mirror](https://web.archive.org/web/*/http://www.startribune.com/ex-prince-guitarist-donna-grantis-creates-big-fun-with-jazz-rock-fusion-group/438738623/))
 
 ----
 
@@ -110,7 +110,7 @@
 
 ----
 
- - [**"Former Prince guitarist Donna Grantis debuts genre-bending band in Minneapolis -- Former Prince guitarist Donna Grantis will debut her new instrumental project on Friday."**](http://www.startribune.com/former-prince-guitarist-donna-grantis-debuts-genre-bending-band-in-minneapolis/437048403/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 29 July 2017 about [Donna Grantis](../../topics/donna-grantis/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/former-prince-guitarist-donna-grantis-debuts-genre-bending-band-in-minneapolis/437048403/))
+ - [**"Former Prince guitarist Donna Grantis debuts genre-bending band in Minneapolis -- Former Prince guitarist Donna Grantis will debut her new instrumental project on Friday."**](http://www.startribune.com/former-prince-guitarist-donna-grantis-debuts-genre-bending-band-in-minneapolis/437048403/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 29 July 2017 about Donna Grantis ([mirror](https://web.archive.org/web/*/http://www.startribune.com/former-prince-guitarist-donna-grantis-debuts-genre-bending-band-in-minneapolis/437048403/))
 
 ----
 
@@ -124,7 +124,7 @@
 
  - [**"
                                             Minnesota judge cancels Universal deal with Prince estate
-                                    "**](http://www.startribune.com/minnesota-judge-cancels-universal-deal-with-prince-estate/434374993/) by Jeff Baenen (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 14 July 2017 about [Prince Estate](../../topics/prince-estate/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/minnesota-judge-cancels-universal-deal-with-prince-estate/434374993/))
+                                    "**](http://www.startribune.com/minnesota-judge-cancels-universal-deal-with-prince-estate/434374993/) by Jeff Baenen (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 14 July 2017 about Prince Estate ([mirror](https://web.archive.org/web/*/http://www.startribune.com/minnesota-judge-cancels-universal-deal-with-prince-estate/434374993/))
 
 ----
 
@@ -132,7 +132,7 @@
 
 ----
 
- - [**"Prince's drummer for more than a decade, John Blackwell Jr. dies at 43 -- John Blackwell, Jr., longtime drummer for Prince, died Tuesday after being diagnosed with a brain tumor one year ago. He was 43."**](http://www.startribune.com/prince-s-drummer-for-more-than-a-decade-john-blackwell-jr-dies-at-43/432674483/) by TheWrap in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 July 2017 about [John Blackwell Jr.](../../topics/john-blackwell-jr/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [Morris Day](../../topics/morris-day/index.md), [New Power Generation](../../topics/new-power-generation/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-drummer-for-more-than-a-decade-john-blackwell-jr-dies-at-43/432674483/))
+ - [**"Prince's drummer for more than a decade, John Blackwell Jr. dies at 43 -- John Blackwell, Jr., longtime drummer for Prince, died Tuesday after being diagnosed with a brain tumor one year ago. He was 43."**](http://www.startribune.com/prince-s-drummer-for-more-than-a-decade-john-blackwell-jr-dies-at-43/432674483/) by TheWrap in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 July 2017 about John Blackwell Jr., Justin Timberlake, Morris Day, New Power Generation ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-drummer-for-more-than-a-decade-john-blackwell-jr-dies-at-43/432674483/))
 
 ----
 
@@ -150,15 +150,15 @@
 
 ----
 
- - [**"Minnesota's best albums of the year (so far): Chastity Brown, Romantica, Brother Ali, Lady Midnight -- This year's 10 albums includes several artists who saw their patience pay off."**](http://www.startribune.com/minnesota-s-best-albums-of-the-year-so-far-brother-ali-chastity-brown-romantica-prince/431623233/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 30 June 2017 about [17 Days (song)](../../topics/song/17-days/index.md), [bootleg](../../topics/bootleg/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Our Destiny (song)](../../topics/song/our-destiny/index.md), [Possessed (song)](../../topics/song/possessed/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Roadhouse Garden (song)](../../topics/song/roadhouse-garden/index.md), [The Beautiful Ones (song)](../../topics/song/the-beautiful-ones/index.md), [The Revolution](../../topics/the-revolution/index.md), [vault](../../topics/vault/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/minnesota-s-best-albums-of-the-year-so-far-brother-ali-chastity-brown-romantica-prince/431623233/))
+ - [**"Minnesota's best albums of the year (so far): Chastity Brown, Romantica, Brother Ali, Lady Midnight -- This year's 10 albums includes several artists who saw their patience pay off."**](http://www.startribune.com/minnesota-s-best-albums-of-the-year-so-far-brother-ali-chastity-brown-romantica-prince/431623233/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 30 June 2017 about 17 Days (song), bootleg, First Avenue (place), Our Destiny (song), Possessed (song), Purple Rain (album), Roadhouse Garden (song), The Beautiful Ones (song), The Revolution, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/minnesota-s-best-albums-of-the-year-so-far-brother-ali-chastity-brown-romantica-prince/431623233/))
 
 ----
 
- - [**"Song from Prince's father being released on his 101st b'day"**](http://www.startribune.com/song-from-prince-s-father-being-released-on-his-101th-b-day/431373963/) by Mesfin Fekadu (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 28 June 2017 about [John L. Nelson](../../topics/john-l-nelson/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/song-from-prince-s-father-being-released-on-his-101th-b-day/431373963/))
+ - [**"Song from Prince's father being released on his 101st b'day"**](http://www.startribune.com/song-from-prince-s-father-being-released-on-his-101th-b-day/431373963/) by Mesfin Fekadu (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 28 June 2017 about John L. Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/song-from-prince-s-father-being-released-on-his-101th-b-day/431373963/))
 
 ----
 
- - [**"Universal presses bid to void music deal with Prince estate"**](http://www.startribune.com/universal-presses-bid-to-void-music-deal-with-prince-estate/431156123/) by Steve Karnowski (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 27 June 2017 about [Prince Estate](../../topics/prince-estate/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/universal-presses-bid-to-void-music-deal-with-prince-estate/431156123/))
+ - [**"Universal presses bid to void music deal with Prince estate"**](http://www.startribune.com/universal-presses-bid-to-void-music-deal-with-prince-estate/431156123/) by Steve Karnowski (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 27 June 2017 about Prince Estate ([mirror](https://web.archive.org/web/*/http://www.startribune.com/universal-presses-bid-to-void-music-deal-with-prince-estate/431156123/))
 
 ----
 
@@ -170,7 +170,7 @@
 
 ----
 
- - [**"Prince Day celebration brings fans to Rock Hall of Fame"**](http://www.startribune.com/prince-day-celebration-brings-fans-to-rock-hall-of-fame/427257111/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 8 June 2017 about [Prince Day](../../topics/prince-day/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-day-celebration-brings-fans-to-rock-hall-of-fame/427257111/))
+ - [**"Prince Day celebration brings fans to Rock Hall of Fame"**](http://www.startribune.com/prince-day-celebration-brings-fans-to-rock-hall-of-fame/427257111/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 8 June 2017 about Prince Day ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-day-celebration-brings-fans-to-rock-hall-of-fame/427257111/))
 
 ----
 
@@ -178,13 +178,13 @@
 
 ----
 
- - [**"Carver County Historical Society scores trove of Paisley Park photos -- The photos, taken by a friend, capture Prince's home at a time when no pictures were allowed."**](http://www.startribune.com/carver-county-historical-society-scores-trove-of-paisley-park-photos/426764851/) by Erin Adler in [Minneapolis Star Tribune](http://www.startribune.com/) on 6 June 2017 about [Carver County](../../topics/carver-county/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/carver-county-historical-society-scores-trove-of-paisley-park-photos/426764851/))
+ - [**"Carver County Historical Society scores trove of Paisley Park photos -- The photos, taken by a friend, capture Prince's home at a time when no pictures were allowed."**](http://www.startribune.com/carver-county-historical-society-scores-trove-of-paisley-park-photos/426764851/) by Erin Adler in [Minneapolis Star Tribune](http://www.startribune.com/) on 6 June 2017 about Carver County ([mirror](https://web.archive.org/web/*/http://www.startribune.com/carver-county-historical-society-scores-trove-of-paisley-park-photos/426764851/))
 
 ----
 
 ## May 2017 (5)
 
- - [**"Judge: Sound engineer can't publish unreleased Prince tracks"**](http://www.startribune.com/judge-sound-engineer-can-t-publish-unreleased-prince-tracks/423717653/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 May 2017 about [Deliverance (EP)](../../topics/ep/deliverance/index.md), [Deliverance (song)](../../topics/song/deliverance/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/judge-sound-engineer-can-t-publish-unreleased-prince-tracks/423717653/))
+ - [**"Judge: Sound engineer can't publish unreleased Prince tracks"**](http://www.startribune.com/judge-sound-engineer-can-t-publish-unreleased-prince-tracks/423717653/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 May 2017 about Deliverance (EP), Deliverance (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/judge-sound-engineer-can-t-publish-unreleased-prince-tracks/423717653/))
 
 ----
 
@@ -200,7 +200,7 @@
 
 ----
 
- - [**"Battle over Prince estate plays on -- Move would start clock ticking on when others can still make claims."**](http://www.startribune.com/battle-over-prince-estate-plays-on/421893663/) by David Chanen in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 May 2017 about [Prince Estate](../../topics/prince-estate/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/battle-over-prince-estate-plays-on/421893663/))
+ - [**"Battle over Prince estate plays on -- Move would start clock ticking on when others can still make claims."**](http://www.startribune.com/battle-over-prince-estate-plays-on/421893663/) by David Chanen in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 May 2017 about Prince Estate ([mirror](https://web.archive.org/web/*/http://www.startribune.com/battle-over-prince-estate-plays-on/421893663/))
 
 ----
 
@@ -222,11 +222,11 @@
 
 ----
 
- - [**"Floodgates are about to open on Prince's career after death -- A year after he died, Prince's lucrative second career is taking off. The industry moguls he despised are calling the shots — and his wishes don't apply."**](http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 April 2017 about [Bravado](../../topics/bravado/index.md), [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [contract](../../topics/contract/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [merchandise](../../topics/merchandise/index.md), [museum](../../topics/museum/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Spotify](../../topics/spotify/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/))
+ - [**"Floodgates are about to open on Prince's career after death -- A year after he died, Prince's lucrative second career is taking off. The industry moguls he despised are calling the shots — and his wishes don't apply."**](http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 April 2017 about Bravado, Bremer Trust, Carver County, Charles Koppelman, contract, Graceland, Graceland Holdings, merchandise, museum, Omarr Baker, Spotify, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/))
 
 ----
 
- - [**"'Purple Rain' suit worn by Prince in movie on display in St. Paul -- The suit and other items can be viewed free of charge at the Minnesota History Center in St. Paul."**](http://www.startribune.com/purple-rain-suit-worn-by-prince-in-movie-goes-on-display-starting-today/419713513/) by Paul Walsh in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 April 2017 about [Minnesota History Center](../../topics/minnesota-history-center/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/purple-rain-suit-worn-by-prince-in-movie-goes-on-display-starting-today/419713513/))
+ - [**"'Purple Rain' suit worn by Prince in movie on display in St. Paul -- The suit and other items can be viewed free of charge at the Minnesota History Center in St. Paul."**](http://www.startribune.com/purple-rain-suit-worn-by-prince-in-movie-goes-on-display-starting-today/419713513/) by Paul Walsh in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 April 2017 about Minnesota History Center ([mirror](https://web.archive.org/web/*/http://www.startribune.com/purple-rain-suit-worn-by-prince-in-movie-goes-on-display-starting-today/419713513/))
 
 ----
 
@@ -234,7 +234,7 @@
 
 ----
 
- - [**"'Rehabilitated' Paisley Park takes center stage for Prince anniversary -- Graceland firm remakes studio into a showplace."**](http://www.startribune.com/rehabilitated-paisley-park-takes-center-stage-for-prince-anniversary/419571163/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 17 April 2017 about [Bremer Trust](../../topics/bremer-trust/index.md), [Celebration](../../topics/celebration/index.md), [Denny Laufenburger](../../topics/denny-laufenburger/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [Joel Weinshanker](../../topics/joel-weinshanker/index.md), [museum](../../topics/museum/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/rehabilitated-paisley-park-takes-center-stage-for-prince-anniversary/419571163/))
+ - [**"'Rehabilitated' Paisley Park takes center stage for Prince anniversary -- Graceland firm remakes studio into a showplace."**](http://www.startribune.com/rehabilitated-paisley-park-takes-center-stage-for-prince-anniversary/419571163/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 17 April 2017 about Bremer Trust, Celebration, Denny Laufenburger, Graceland, Graceland Holdings, Joel Weinshanker, museum ([mirror](https://web.archive.org/web/*/http://www.startribune.com/rehabilitated-paisley-park-takes-center-stage-for-prince-anniversary/419571163/))
 
 ----
 
@@ -250,7 +250,7 @@
 
 ----
 
- - [**"Carver County plans to unseal search warrants into Prince's death next week -- State and federal investigation is ongoing a year after his death from an accidental drug overdose."**](http://www.startribune.com/carver-county-plans-to-unseal-search-warrants-into-prince-s-death-next-week/419481643/) by David Chanen in [Minneapolis Star Tribune](http://www.startribune.com/) on 14 April 2017 about [Carver County](../../topics/carver-county/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/carver-county-plans-to-unseal-search-warrants-into-prince-s-death-next-week/419481643/))
+ - [**"Carver County plans to unseal search warrants into Prince's death next week -- State and federal investigation is ongoing a year after his death from an accidental drug overdose."**](http://www.startribune.com/carver-county-plans-to-unseal-search-warrants-into-prince-s-death-next-week/419481643/) by David Chanen in [Minneapolis Star Tribune](http://www.startribune.com/) on 14 April 2017 about Carver County ([mirror](https://web.archive.org/web/*/http://www.startribune.com/carver-county-plans-to-unseal-search-warrants-into-prince-s-death-next-week/419481643/))
 
 ----
 
@@ -264,7 +264,7 @@
 
 ## March 2017 (11)
 
- - [**"Paisley Park museum opens new room dedicated to Prince's 'Lovesexy'"**](http://www.startribune.com/paisley-park-museum-opens-new-room-dedicated-to-prince-s-lovesexy/417745653/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 31 March 2017 about [museum](../../topics/museum/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-museum-opens-new-room-dedicated-to-prince-s-lovesexy/417745653/))
+ - [**"Paisley Park museum opens new room dedicated to Prince's 'Lovesexy'"**](http://www.startribune.com/paisley-park-museum-opens-new-room-dedicated-to-prince-s-lovesexy/417745653/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 31 March 2017 about museum ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-museum-opens-new-room-dedicated-to-prince-s-lovesexy/417745653/))
 
 ----
 
@@ -272,7 +272,7 @@
 
 ----
 
- - [**"Three official Prince books due at 'Celebration' at Paisley Park"**](http://www.startribune.com/three-official-prince-books-due-at-celebration-at-paisley-park/417539473/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 29 March 2017 about [Celebration](../../topics/celebration/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/three-official-prince-books-due-at-celebration-at-paisley-park/417539473/))
+ - [**"Three official Prince books due at 'Celebration' at Paisley Park"**](http://www.startribune.com/three-official-prince-books-due-at-celebration-at-paisley-park/417539473/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 29 March 2017 about Celebration ([mirror](https://web.archive.org/web/*/http://www.startribune.com/three-official-prince-books-due-at-celebration-at-paisley-park/417539473/))
 
 ----
 
@@ -284,7 +284,7 @@
 
 ----
 
- - [**"Austin's SXSW turns purple on St. Paddy's Day with Prince tributes -- Music megafest featured outdoor concert and two panels in his memory."**](http://www.startribune.com/austin-s-sxsw-turns-purple-on-st-patty-s-day-with-prince-tributes/416509783/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 March 2017 about [Owen Husney](../../topics/owen-husney/index.md), [Trump](../../topics/trump/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/austin-s-sxsw-turns-purple-on-st-patty-s-day-with-prince-tributes/416509783/))
+ - [**"Austin's SXSW turns purple on St. Paddy's Day with Prince tributes -- Music megafest featured outdoor concert and two panels in his memory."**](http://www.startribune.com/austin-s-sxsw-turns-purple-on-st-patty-s-day-with-prince-tributes/416509783/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 March 2017 about Owen Husney, Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/austin-s-sxsw-turns-purple-on-st-patty-s-day-with-prince-tributes/416509783/))
 
 ----
 
@@ -292,7 +292,7 @@
 
 ----
 
- - [**"Prince's ex-wife opens up about 1996 death of couple's baby"**](http://www.startribune.com/prince-s-ex-wife-opens-up-about-1996-death-of-couple-s-baby/416246944/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 15 March 2017 about [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-ex-wife-opens-up-about-1996-death-of-couple-s-baby/416246944/))
+ - [**"Prince's ex-wife opens up about 1996 death of couple's baby"**](http://www.startribune.com/prince-s-ex-wife-opens-up-about-1996-death-of-couple-s-baby/416246944/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 15 March 2017 about Mayte, Mayte Garcia ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-ex-wife-opens-up-about-1996-death-of-couple-s-baby/416246944/))
 
 ----
 
@@ -320,7 +320,7 @@
 
 ## January 2017 (8)
 
- - [**"Carver County judge decides not to appoint a co-executor for Prince's estate -- Comerica Bank & Trust will solely manage the multimillion estate."**](http://www.startribune.com/carver-county-judge-decides-not-to-appoint-a-co-executor-for-prince-s-estate/411678576/) by Mary Lynn Smith in [Minneapolis Star Tribune](http://www.startribune.com/) on 24 January 2017 about [Carver County](../../topics/carver-county/index.md), [Comerica Bank & Trust](../../topics/comerica-bank-trust/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/carver-county-judge-decides-not-to-appoint-a-co-executor-for-prince-s-estate/411678576/))
+ - [**"Carver County judge decides not to appoint a co-executor for Prince's estate -- Comerica Bank & Trust will solely manage the multimillion estate."**](http://www.startribune.com/carver-county-judge-decides-not-to-appoint-a-co-executor-for-prince-s-estate/411678576/) by Mary Lynn Smith in [Minneapolis Star Tribune](http://www.startribune.com/) on 24 January 2017 about Carver County, Comerica Bank & Trust ([mirror](https://web.archive.org/web/*/http://www.startribune.com/carver-county-judge-decides-not-to-appoint-a-co-executor-for-prince-s-estate/411678576/))
 
 ----
 
@@ -336,7 +336,7 @@
 
 ----
 
- - [**"Court holds off determining Prince's legal heirs, picks firm to oversee estate -- Filings in Carver County District Court raised questions of conflicts of interest in the management of the estate."**](http://www.startribune.com/challenges-raised-in-hand-off-of-prince-estate/410513285/) by Dan Browning, David Chanen in [Minneapolis Star Tribune](http://www.startribune.com/) on 13 January 2017 about [Carver County](../../topics/carver-county/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/challenges-raised-in-hand-off-of-prince-estate/410513285/))
+ - [**"Court holds off determining Prince's legal heirs, picks firm to oversee estate -- Filings in Carver County District Court raised questions of conflicts of interest in the management of the estate."**](http://www.startribune.com/challenges-raised-in-hand-off-of-prince-estate/410513285/) by Dan Browning, David Chanen in [Minneapolis Star Tribune](http://www.startribune.com/) on 13 January 2017 about Carver County ([mirror](https://web.archive.org/web/*/http://www.startribune.com/challenges-raised-in-hand-off-of-prince-estate/410513285/))
 
 ----
 
@@ -344,7 +344,7 @@
 
 ----
 
- - [**"Special administrator: Not all law firms seeking $1.2 million in payment benefited Prince estate -- Special administrator's filing says that some assets squandered by legal teams."**](http://www.startribune.com/special-administrator-not-all-law-firms-seeking-1-2-million-in-payment-benefitted-prince-estate/410134635/) by Rochelle Olson in [Minneapolis Star Tribune](http://www.startribune.com/) on 9 January 2017 about [Prince Estate](../../topics/prince-estate/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/special-administrator-not-all-law-firms-seeking-1-2-million-in-payment-benefitted-prince-estate/410134635/))
+ - [**"Special administrator: Not all law firms seeking $1.2 million in payment benefited Prince estate -- Special administrator's filing says that some assets squandered by legal teams."**](http://www.startribune.com/special-administrator-not-all-law-firms-seeking-1-2-million-in-payment-benefitted-prince-estate/410134635/) by Rochelle Olson in [Minneapolis Star Tribune](http://www.startribune.com/) on 9 January 2017 about Prince Estate ([mirror](https://web.archive.org/web/*/http://www.startribune.com/special-administrator-not-all-law-firms-seeking-1-2-million-in-payment-benefitted-prince-estate/410134635/))
 
 ----
 

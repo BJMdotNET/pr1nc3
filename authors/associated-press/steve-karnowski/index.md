@@ -4,27 +4,27 @@
 
 ----
 
- - [**"As Prince heirs stew, bankers and lawyers cash in on estate"**](https://apnews.com/d9847863113d4ff8bd70850dd6a6cd2e) by Steve Karnowski (Associated Press) in [Associated Press News](https://apnews.com/) on 18 May 2018 about [Alfred Jackson](../../../topics/alfred-jackson/index.md), [Carver County](../../../topics/carver-county/index.md), [John L. Nelson](../../../topics/john-l-nelson/index.md), [John R. Nelson](../../../topics/john-r-nelson/index.md), [Kevin Eide](../../../topics/kevin-eide/index.md), [Norrine Nelson](../../../topics/norrine-nelson/index.md), [Omarr Baker](../../../topics/omarr-baker/index.md), [Sharon Nelson](../../../topics/sharon-nelson/index.md), [Spotify](../../../topics/spotify/index.md), [Tidal](../../../topics/tidal/index.md), [Troy Carter](../../../topics/troy-carter/index.md), [Tyka Nelson](../../../topics/tyka-nelson/index.md), [Universal Music Group](../../../topics/universal-music-group/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/d9847863113d4ff8bd70850dd6a6cd2e))
+ - [**"As Prince heirs stew, bankers and lawyers cash in on estate"**](https://apnews.com/d9847863113d4ff8bd70850dd6a6cd2e) by Steve Karnowski (Associated Press) in [Associated Press News](https://apnews.com/) on 18 May 2018 about Alfred Jackson, Carver County, John L. Nelson, John R. Nelson, Kevin Eide, Norrine Nelson, Omarr Baker, Sharon Nelson, Spotify, Tidal, Troy Carter, Tyka Nelson, Universal Music Group ([mirror](https://web.archive.org/web/*/https://apnews.com/d9847863113d4ff8bd70850dd6a6cd2e))
 
 ----
 
- - [**"Prince tapes moved to California; 2 heirs angry"**](http://www.startribune.com/apnewsbreak-prince-tapes-moved-to-california-heirs-miffed/450496873/) by Steve Karnowski (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 October 2017 about [Iron Mountain](../../../topics/iron-mountain/index.md), [Iron Mountain Entertainment Services](../../../topics/iron-mountain-entertainment-services/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/apnewsbreak-prince-tapes-moved-to-california-heirs-miffed/450496873/))
+ - [**"Prince tapes moved to California; 2 heirs angry"**](http://www.startribune.com/apnewsbreak-prince-tapes-moved-to-california-heirs-miffed/450496873/) by Steve Karnowski (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 October 2017 about Iron Mountain, Iron Mountain Entertainment Services ([mirror](https://web.archive.org/web/*/http://www.startribune.com/apnewsbreak-prince-tapes-moved-to-california-heirs-miffed/450496873/))
 
 ----
 
- - [**"Universal presses bid to void music deal with Prince estate"**](http://www.startribune.com/universal-presses-bid-to-void-music-deal-with-prince-estate/431156123/) by Steve Karnowski (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 27 June 2017 about [Prince Estate](../../../topics/prince-estate/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/universal-presses-bid-to-void-music-deal-with-prince-estate/431156123/))
+ - [**"Universal presses bid to void music deal with Prince estate"**](http://www.startribune.com/universal-presses-bid-to-void-music-deal-with-prince-estate/431156123/) by Steve Karnowski (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 27 June 2017 about Prince Estate ([mirror](https://web.archive.org/web/*/http://www.startribune.com/universal-presses-bid-to-void-music-deal-with-prince-estate/431156123/))
 
 ----
 
- - [**"Tax deadline looms for Prince estate; government to get half"**](https://apnews.com/79450a727b23422e94e3ded9a5f9fcff) by Steve Karnowski (Associated Press) in [Associated Press News](https://apnews.com/) on 17 January 2017 about [Prince Estate](../../../topics/prince-estate/index.md), [Robert Strauss](../../../topics/robert-strauss/index.md), [The Prince Estate](../../../topics/the-prince-estate/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/79450a727b23422e94e3ded9a5f9fcff))
+ - [**"Tax deadline looms for Prince estate; government to get half"**](https://apnews.com/79450a727b23422e94e3ded9a5f9fcff) by Steve Karnowski (Associated Press) in [Associated Press News](https://apnews.com/) on 17 January 2017 about Prince Estate, Robert Strauss, The Prince Estate ([mirror](https://web.archive.org/web/*/https://apnews.com/79450a727b23422e94e3ded9a5f9fcff))
 
 ----
 
- - [**"Still no will, but work to settle Prince estate forges ahead"**](http://www.startribune.com/still-no-will-but-work-to-settle-prince-estate-forges-ahead/394729181/) by Steve Karnowski (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 September 2016 about [Carver County](../../../topics/carver-county/index.md), [Morris Day](../../../topics/morris-day/index.md), [museum](../../../topics/museum/index.md), [Prince Estate](../../../topics/prince-estate/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/still-no-will-but-work-to-settle-prince-estate-forges-ahead/394729181/))
+ - [**"Still no will, but work to settle Prince estate forges ahead"**](http://www.startribune.com/still-no-will-but-work-to-settle-prince-estate-forges-ahead/394729181/) by Steve Karnowski (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 September 2016 about Carver County, Morris Day, museum, Prince Estate ([mirror](https://web.archive.org/web/*/http://www.startribune.com/still-no-will-but-work-to-settle-prince-estate-forges-ahead/394729181/))
 
 ----
 
- - [**"Paisley Park, home of Prince, opens for public tours Oct. 6"**](https://apnews.com/0d8c41adcd8946dfb5182d55d077cc09) by Steve Karnowski (Associated Press) in [Associated Press News](https://apnews.com/) on 25 August 2016 about [Bremer Trust](../../../topics/bremer-trust/index.md), [fentanyl](../../../topics/fentanyl/index.md), [Graceland](../../../topics/graceland/index.md), [museum](../../../topics/museum/index.md), [Tyka Nelson](../../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/0d8c41adcd8946dfb5182d55d077cc09))
+ - [**"Paisley Park, home of Prince, opens for public tours Oct. 6"**](https://apnews.com/0d8c41adcd8946dfb5182d55d077cc09) by Steve Karnowski (Associated Press) in [Associated Press News](https://apnews.com/) on 25 August 2016 about Bremer Trust, fentanyl, Graceland, museum, Tyka Nelson ([mirror](https://web.archive.org/web/*/https://apnews.com/0d8c41adcd8946dfb5182d55d077cc09))
 
 ----
 
@@ -36,7 +36,7 @@
 
 ----
 
- - [**"Minnesota judge to hold 2nd hearing in Prince estate case"**](https://apnews.com/a82cb099c3514ab59577e03533ea5898) by Steve Karnowski (Associated Press) in [Associated Press News](https://apnews.com/) on 26 June 2016 about [Bremer Trust](../../../topics/bremer-trust/index.md), [Carver County](../../../topics/carver-county/index.md), [museum](../../../topics/museum/index.md), [Tyka Nelson](../../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/a82cb099c3514ab59577e03533ea5898))
+ - [**"Minnesota judge to hold 2nd hearing in Prince estate case"**](https://apnews.com/a82cb099c3514ab59577e03533ea5898) by Steve Karnowski (Associated Press) in [Associated Press News](https://apnews.com/) on 26 June 2016 about Bremer Trust, Carver County, museum, Tyka Nelson ([mirror](https://web.archive.org/web/*/https://apnews.com/a82cb099c3514ab59577e03533ea5898))
 
 ----
 
@@ -44,15 +44,15 @@
 
 ----
 
- - [**"A Prince wish, Paisley Park eyed for museum like Graceland"**](http://www.startribune.com/a-prince-wish-paisley-park-eyed-for-museum-like-graceland/382529341/) by Steve Karnowski (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 June 2016 about [Bremer Trust](../../../topics/bremer-trust/index.md), [Carver County](../../../topics/carver-county/index.md), [exhibit](../../../topics/exhibit/index.md), [exhibition](../../../topics/exhibition/index.md), [fentanyl](../../../topics/fentanyl/index.md), [Graceland](../../../topics/graceland/index.md), [Jeremiah Freed](../../../topics/jeremiah-freed/index.md), [motorcycle](../../../topics/motorcycle/index.md), [museum](../../../topics/museum/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/a-prince-wish-paisley-park-eyed-for-museum-like-graceland/382529341/))
+ - [**"A Prince wish, Paisley Park eyed for museum like Graceland"**](http://www.startribune.com/a-prince-wish-paisley-park-eyed-for-museum-like-graceland/382529341/) by Steve Karnowski (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 June 2016 about Bremer Trust, Carver County, exhibit, exhibition, fentanyl, Graceland, Jeremiah Freed, motorcycle, museum ([mirror](https://web.archive.org/web/*/http://www.startribune.com/a-prince-wish-paisley-park-eyed-for-museum-like-graceland/382529341/))
 
 ----
 
- - [**"Colorado inmate claims Prince is his father, seeks DNA test"**](https://apnews.com/13fdcc29391d427bab6b4b5584316da8) by Steve Karnowski (Associated Press) in [Associated Press News](https://apnews.com/) on 10 May 2016 about [Carlin Q. Williams](../../../topics/carlin-q-williams/index.md), [Carver County](../../../topics/carver-county/index.md), [Carver County District Court](../../../topics/carver-county-district-court/index.md), [Marsha Henson](../../../topics/marsha-henson/index.md), [Patrick Cousins](../../../topics/patrick-cousins/index.md), [Tyka Nelson](../../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/https://apnews.com/13fdcc29391d427bab6b4b5584316da8))
+ - [**"Colorado inmate claims Prince is his father, seeks DNA test"**](https://apnews.com/13fdcc29391d427bab6b4b5584316da8) by Steve Karnowski (Associated Press) in [Associated Press News](https://apnews.com/) on 10 May 2016 about Carlin Q. Williams, Carver County, Carver County District Court, Marsha Henson, Patrick Cousins, Tyka Nelson ([mirror](https://web.archive.org/web/*/https://apnews.com/13fdcc29391d427bab6b4b5584316da8))
 
 ----
 
- - [**"Colorado inmate claims Prince is his father, seeks DNA test"**](http://www.startribune.com/colorado-inmate-claims-prince-is-his-father-seeks-dna-test/378823301/) by Steve Karnowski (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 May 2016 about [Carlin Q. Williams](../../../topics/carlin-q-williams/index.md), [Carver County](../../../topics/carver-county/index.md), [Carver County District Court](../../../topics/carver-county-district-court/index.md), [Marsha Henson](../../../topics/marsha-henson/index.md), [Patrick Cousins](../../../topics/patrick-cousins/index.md), [Tyka Nelson](../../../topics/tyka-nelson/index.md) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/colorado-inmate-claims-prince-is-his-father-seeks-dna-test/378823301/))
+ - [**"Colorado inmate claims Prince is his father, seeks DNA test"**](http://www.startribune.com/colorado-inmate-claims-prince-is-his-father-seeks-dna-test/378823301/) by Steve Karnowski (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 May 2016 about Carlin Q. Williams, Carver County, Carver County District Court, Marsha Henson, Patrick Cousins, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/colorado-inmate-claims-prince-is-his-father-seeks-dna-test/378823301/))
 
 ----
 
