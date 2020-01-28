@@ -1,6 +1,10 @@
 # 2020
 
-## January 2020 (6)
+## January 2020 (7)
+
+ - [**"Sheila E. Explains Why It's Important to Continue to Honor Prince: 'His Legacy Is His Music'"**](https://www.billboard.com/articles/news/awards/8549326/sheila-e-video-interview-prince) in [Billboard](https://www.billboard.com/) on 27 January 2020 about FKA twigs, Grammy Award, Sheila E., Usher ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/awards/8549326/sheila-e-video-interview-prince))
+
+----
 
  - [**"Usher & FKA Twigs Go Crazy With Prince Tribute at 2020 Grammys"**](https://www.billboard.com/articles/news/awards/8549200/usher-fka-twigs-prince-grammy-2020) in [Billboard](https://www.billboard.com/) on 26 January 2020 about FKA twigs, Let's Go Crazy: The Grammy Salute to Prince (event), Little Red Corvette (song), Usher, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/awards/8549200/usher-fka-twigs-prince-grammy-2020))
 

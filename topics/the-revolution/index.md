@@ -108,7 +108,7 @@
 
 ----
 
- - [**"The real story behind Prince's Little Red Corvette"**](https://www.bbc.com/news/entertainment-arts-50556922) in [BBC News](https://www.bbc.com/news/) on 27 November 2019 about 1999 (album), Around The World In A Day (album), bootleg, Denise Matthews, Jill Jones, Lisa Coleman, Little Red Corvette (song), Maya Rudolph, Raspberry Beret (song), Sometimes It Snows In April (song), Sunset Sound (place), Susan Rogers, The Revolution, Vanity, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://www.bbc.com/news/entertainment-arts-50556922))
+ - [**"The real story behind Prince's Little Red Corvette"**](https://www.bbc.com/news/entertainment-arts-50556922) in [BBC News](https://www.bbc.com/news/) on 27 November 2019 about 1999 (album), Around The World In A Day (album), bootleg, Denise Matthews, Jill Jones, Lisa Coleman, Little Red Corvette (song), Maya Rudolph, Raspberry Beret (song), Sometimes It Snows In April (song), Sunset Sound (place), Susan Rogers, The Revolution, Vanity, Wendy & Lisa, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://www.bbc.com/news/entertainment-arts-50556922))
 
 ----
 
@@ -436,7 +436,7 @@
 
 ----
 
- - [**"The Women in Prince’s World: His Muses and Collaborators From Sheila E. to Kim Basinger"**](https://www.billboard.com/photos/7348470/prince-female-muses-collaborators-lovers-sheila-e-kim-basinger-more) in [Billboard](https://www.billboard.com/) on 28 April 2016 about 3rdEyeGirl, Apollonia 6, Bangles, Boy Gregory, Cat Glover, Chaka Khan, contract, Denise Matthews, Dez Dickerson, Donna Grantis, Hannah Welton, I Feel For You (song), I Wanna Be Your Lover (song), Ingrid Chavez, Jehovah’s Witness, Lisa Coleman, Little Red Corvette (song), Manic Monday (song), Manuela Testolini, Martika, Mavis Staples, Mayte, Mayte Garcia, Misty Copeland, Nasty Girl (song), Nothing Compares 2 U (song), Paisley Park Records, Saturday Night Live (TV show), Sheena Easton, Sheila E., Stand Back (song), Stevie Nicks, Sugar Walls (song), Susanna Hoffs, Susannah Melvoin, The Revolution, U Got the Look (song), Under the Cherry Moon (movie), Vanity, Vanity 6, Wendy Melvoin, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/photos/7348470/prince-female-muses-collaborators-lovers-sheila-e-kim-basinger-more))
+ - [**"The Women in Prince’s World: His Muses and Collaborators From Sheila E. to Kim Basinger"**](https://www.billboard.com/photos/7348470/prince-female-muses-collaborators-lovers-sheila-e-kim-basinger-more) in [Billboard](https://www.billboard.com/) on 28 April 2016 about 3rdEyeGirl, Apollonia 6, Bangles, Boy Gregory, Cat Glover, Chaka Khan, contract, Denise Matthews, Dez Dickerson, Donna Grantis, Hannah Welton, I Feel For You (song), I Wanna Be Your Lover (song), Ingrid Chavez, Jehovah’s Witness, Lisa Coleman, Little Red Corvette (song), Manic Monday (song), Manuela Testolini, Martika, Mavis Staples, Mayte, Mayte Garcia, Misty Copeland, Nasty Girl (song), Nothing Compares 2 U (song), Paisley Park Records, Saturday Night Live (TV show), Sheena Easton, Sheila E., Stand Back (song), Stevie Nicks, Sugar Walls (song), Susanna Hoffs, Susannah Melvoin, The Revolution, U Got the Look (song), Under the Cherry Moon (movie), Vanity, Vanity 6, Wendy & Lisa, Wendy Melvoin, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/photos/7348470/prince-female-muses-collaborators-lovers-sheila-e-kim-basinger-more))
 
 ----
 

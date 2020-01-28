@@ -4,6 +4,10 @@
 
 ----
 
+ - [**"Grammys 2020: What You Didn’t See on TV"**](https://variety.com/2020/tv/news/grammys-2020-backstage-what-you-didnt-see-on-tv-1203481796/) in [Variety](https://variety.com/) on 27 January 2020 about Clive Davis, John Legend, Ken Ehrlich, Little Red Corvette (song), Lizzo, Sheila E., Usher ([mirror](https://web.archive.org/web/*/https://variety.com/2020/tv/news/grammys-2020-backstage-what-you-didnt-see-on-tv-1203481796/))
+
+----
+
  - [**"Teen vocalist Billie Eilish and former Minnesotan Lizzo emerge as winners at Sunday night’s Grammy Awards"**](https://www.twincities.com/2020/01/26/teen-vocalist-billie-eilish-and-former-minnesotan-lizzo-emerge-as-winners-at-sunday-nights-grammy-awards/) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 26 January 2020 about Grammy Award, Gwen Stefani, John Legend, Little Red Corvette (song), Lizzo, Obama, Usher, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2020/01/26/teen-vocalist-billie-eilish-and-former-minnesotan-lizzo-emerge-as-winners-at-sunday-nights-grammy-awards/))
 
 ----

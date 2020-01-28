@@ -1,12 +1,24 @@
 # 2020
 
-## January 2020 (72)
+## January 2020 (75)
+
+ - [**"Celebrating 30th birthday, Target Center offering prize to one lucky person -- The arena wants people to submit their memories from Target Center."**](https://bringmethenews.com/minnesota-lifestyle/celebrating-30th-birthday-target-center-offering-prize-to-one-lucky-person) in [Bring Me The News](https://bringmethenews.com/) on 27 January 2020 about Fleetwood Mac, Timberwolves ([mirror](https://web.archive.org/web/*/https://bringmethenews.com/minnesota-lifestyle/celebrating-30th-birthday-target-center-offering-prize-to-one-lucky-person))
+
+----
 
  - [**"Grammy Awards: Usher’s musical tribute to Prince divides fans -- He delivered a medley of The Purple One's biggest hits"**](https://www.nme.com/news/music/grammy-awards-ushers-musical-tribute-to-prince-divides-fans-2601402) in [NME (New Musical Express)](https://www.nme.com/) on 27 January 2020 about FKA twigs, Grammy Award, John Legend, Lizzo, Usher, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.nme.com/news/music/grammy-awards-ushers-musical-tribute-to-prince-divides-fans-2601402))
 
 ----
 
  - [**"Grammys 2020: Here's why fans are upset about Usher's Prince tribute"**](https://usatoday.com/story/entertainment/music/2020/01/26/grammys-2020-mixed-reviews-prince-tribute-usher-fka-twigs/4585624002/) in [USA Today](https://usatoday.com/) on 27 January 2020 about FKA twigs, Grammy Award, Sheila E., Usher, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/entertainment/music/2020/01/26/grammys-2020-mixed-reviews-prince-tribute-usher-fka-twigs/4585624002/))
+
+----
+
+ - [**"Grammys 2020: What You Didn’t See on TV"**](https://variety.com/2020/tv/news/grammys-2020-backstage-what-you-didnt-see-on-tv-1203481796/) in [Variety](https://variety.com/) on 27 January 2020 about Clive Davis, John Legend, Ken Ehrlich, Little Red Corvette (song), Lizzo, Sheila E., Usher ([mirror](https://web.archive.org/web/*/https://variety.com/2020/tv/news/grammys-2020-backstage-what-you-didnt-see-on-tv-1203481796/))
+
+----
+
+ - [**"Sheila E. Explains Why It's Important to Continue to Honor Prince: 'His Legacy Is His Music'"**](https://www.billboard.com/articles/news/awards/8549326/sheila-e-video-interview-prince) in [Billboard](https://www.billboard.com/) on 27 January 2020 about FKA twigs, Grammy Award, Sheila E., Usher ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/awards/8549326/sheila-e-video-interview-prince))
 
 ----
 

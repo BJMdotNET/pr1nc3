@@ -26,16 +26,12 @@
      * [Ryan Nakashima (Associated Press)](./associated-press/ryan-nakashima/) (1)
      * [Steve Karnowski (Associated Press)](./associated-press/steve-karnowski/) (15)
 
-
 ----
-
 
   * [The Washington Times](./the-washington-times/)
      * [Andrew Blake (The Washington Times)](./the-washington-times/andrew-blake/) (1)
 
-
 ----
-
 
   * [The New York Times](./the-new-york-times/)
      * [Melena Ryzik (The New York Times)](./the-new-york-times/melena-ryzik/) (1)

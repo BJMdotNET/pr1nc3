@@ -4,6 +4,10 @@
 
 ----
 
+ - [**"Grammys 2020: What You Didn’t See on TV"**](https://variety.com/2020/tv/news/grammys-2020-backstage-what-you-didnt-see-on-tv-1203481796/) in [Variety](https://variety.com/) on 27 January 2020 about Clive Davis, John Legend, Ken Ehrlich, Little Red Corvette (song), Lizzo, Sheila E., Usher ([mirror](https://web.archive.org/web/*/https://variety.com/2020/tv/news/grammys-2020-backstage-what-you-didnt-see-on-tv-1203481796/))
+
+----
+
  - [**"FKA Twigs: I Wasn’t Asked to Sing During Prince Tribute at Grammys"**](https://variety.com/2020/music/news/fka-twigs-grammys-prince-usher-sheila-e-1203481545/) in [Variety](https://variety.com/) on 26 January 2020 about Alicia Keys, Coldplay, FKA twigs, Foo Fighters, Grammy Award, John Legend, Little Red Corvette (song), Sheila E., Usher, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://variety.com/2020/music/news/fka-twigs-grammys-prince-usher-sheila-e-1203481545/))
 
 ----

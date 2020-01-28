@@ -1,5 +1,9 @@
 # Ken Ehrlich
 
+ - [**"Grammys 2020: What You Didn’t See on TV"**](https://variety.com/2020/tv/news/grammys-2020-backstage-what-you-didnt-see-on-tv-1203481796/) in [Variety](https://variety.com/) on 27 January 2020 about Clive Davis, John Legend, Ken Ehrlich, Little Red Corvette (song), Lizzo, Sheila E., Usher ([mirror](https://web.archive.org/web/*/https://variety.com/2020/tv/news/grammys-2020-backstage-what-you-didnt-see-on-tv-1203481796/))
+
+----
+
  - [**"After 40 Years, Grammy show producer bows out his way"**](https://apnews.com/20a0fbeb977981d1d1d6f393423ca1db) in [Associated Press News](https://apnews.com/) on 23 January 2020 about Aretha Franklin, Beyoncé, Ed Sheeran, Gary Clark Jr., John Legend, Ken Ehrlich, Misty Copeland, Obama, Stevie Wonder, White House (place) ([mirror](https://web.archive.org/web/*/https://apnews.com/20a0fbeb977981d1d1d6f393423ca1db))
 
 ----

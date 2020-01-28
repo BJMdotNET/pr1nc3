@@ -4,6 +4,14 @@
 
 ----
 
+ - [**"Grammys 2020: What You Didn’t See on TV"**](https://variety.com/2020/tv/news/grammys-2020-backstage-what-you-didnt-see-on-tv-1203481796/) in [Variety](https://variety.com/) on 27 January 2020 about Clive Davis, John Legend, Ken Ehrlich, Little Red Corvette (song), Lizzo, Sheila E., Usher ([mirror](https://web.archive.org/web/*/https://variety.com/2020/tv/news/grammys-2020-backstage-what-you-didnt-see-on-tv-1203481796/))
+
+----
+
+ - [**"Sheila E. Explains Why It's Important to Continue to Honor Prince: 'His Legacy Is His Music'"**](https://www.billboard.com/articles/news/awards/8549326/sheila-e-video-interview-prince) in [Billboard](https://www.billboard.com/) on 27 January 2020 about FKA twigs, Grammy Award, Sheila E., Usher ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/awards/8549326/sheila-e-video-interview-prince))
+
+----
+
  - [**"2020 GRAMMYs: Usher, Sheila E. & FKA Twigs Honor The Purple One With A Prince-Themed Medley -- Some of the most celebrated singers, dancers and instrumentalists in the industry took to the stage during the 62nd Annual GRAMMY Awards telecast to honor the late musical icon Prince"**](https://www.grammy.com/grammys/news/2020-grammys-usher-sheila-e-fka-twigs-honor-purple-one-prince-themed-medley) in [The GRAMMYs](https://www.grammy.com/) on 26 January 2020 about FKA twigs, Grammy Award, Let’s Go Crazy (song), Little Red Corvette (song), Sheila E., Usher, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.grammy.com/grammys/news/2020-grammys-usher-sheila-e-fka-twigs-honor-purple-one-prince-themed-medley))
 
 ----
@@ -124,7 +132,7 @@
 
 ----
 
- - [**"Sheila E. brings the glam to jazz fest"**](https://www.thechronicleherald.ca/living/sheila-e-brings-the-glam-to-jazz-fest-329717/) by Stephen Cooke in [The Chronicle Herald](https://www.thechronicleherald.ca/) on 5 July 2019 about Donald Trump, Morris Day, Sheila E., Trump ([mirror](https://web.archive.org/web/*/https://www.thechronicleherald.ca/living/sheila-e-brings-the-glam-to-jazz-fest-329717/))
+ - [**"Sheila E. brings the glam to jazz fest"**](https://www.thechronicleherald.ca/living/sheila-e-brings-the-glam-to-jazz-fest-329717/) by Stephen Cooke in [The Chronicle Herald](https://www.thechronicleherald.ca/) on 5 July 2019 about Donald Trump, Morris Day, Sheila E., Trump, Wendy & Lisa ([mirror](https://web.archive.org/web/*/https://www.thechronicleherald.ca/living/sheila-e-brings-the-glam-to-jazz-fest-329717/))
 
 ----
 
@@ -144,7 +152,7 @@
 
 ----
 
- - [**"Prince Remembered by Three Key Women in His Life"**](https://variety.com/2019/music/news/prince-birthday-remembered-by-three-key-women-originals-1203235532/) by Jem Aswad in [Variety](https://variety.com/) on 7 June 2019 about airport, Apollonia 6, Atlanta (place), Colleen (song), contract, Cynthia Rose, Illinois (place), Jamie Starr, Jill Jones, Lisa Coleman, Manic Monday (song), Mazarati, Moline, Illinois (place), Nothing Compares 2 U (song), Originals (album), Peggy McCreary, Quincy Jones, Sheena Easton, Sheila E., Starfish And Coffee (song), Sugar Walls (song), Susan Rogers, Susannah Melvoin, Vanity, Vanity 6 ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/news/prince-birthday-remembered-by-three-key-women-originals-1203235532/))
+ - [**"Prince Remembered by Three Key Women in His Life"**](https://variety.com/2019/music/news/prince-birthday-remembered-by-three-key-women-originals-1203235532/) by Jem Aswad in [Variety](https://variety.com/) on 7 June 2019 about airport, Apollonia 6, Atlanta (place), Colleen (song), contract, Cynthia Rose, Illinois (place), Jamie Starr, Jill Jones, Lisa Coleman, Manic Monday (song), Mazarati, Moline, Illinois (place), Nothing Compares 2 U (song), Originals (album), Peggy McCreary, Quincy Jones, Sheena Easton, Sheila E., Starfish And Coffee (song), Sugar Walls (song), Susan Rogers, Susannah Melvoin, Vanity, Vanity 6, Wendy & Lisa ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/news/prince-birthday-remembered-by-three-key-women-originals-1203235532/))
 
 ----
 
@@ -312,7 +320,7 @@
 
 ----
 
- - [**"The Women in Prince’s World: His Muses and Collaborators From Sheila E. to Kim Basinger"**](https://www.billboard.com/photos/7348470/prince-female-muses-collaborators-lovers-sheila-e-kim-basinger-more) in [Billboard](https://www.billboard.com/) on 28 April 2016 about 3rdEyeGirl, Apollonia 6, Bangles, Boy Gregory, Cat Glover, Chaka Khan, contract, Denise Matthews, Dez Dickerson, Donna Grantis, Hannah Welton, I Feel For You (song), I Wanna Be Your Lover (song), Ingrid Chavez, Jehovah’s Witness, Lisa Coleman, Little Red Corvette (song), Manic Monday (song), Manuela Testolini, Martika, Mavis Staples, Mayte, Mayte Garcia, Misty Copeland, Nasty Girl (song), Nothing Compares 2 U (song), Paisley Park Records, Saturday Night Live (TV show), Sheena Easton, Sheila E., Stand Back (song), Stevie Nicks, Sugar Walls (song), Susanna Hoffs, Susannah Melvoin, The Revolution, U Got the Look (song), Under the Cherry Moon (movie), Vanity, Vanity 6, Wendy Melvoin, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/photos/7348470/prince-female-muses-collaborators-lovers-sheila-e-kim-basinger-more))
+ - [**"The Women in Prince’s World: His Muses and Collaborators From Sheila E. to Kim Basinger"**](https://www.billboard.com/photos/7348470/prince-female-muses-collaborators-lovers-sheila-e-kim-basinger-more) in [Billboard](https://www.billboard.com/) on 28 April 2016 about 3rdEyeGirl, Apollonia 6, Bangles, Boy Gregory, Cat Glover, Chaka Khan, contract, Denise Matthews, Dez Dickerson, Donna Grantis, Hannah Welton, I Feel For You (song), I Wanna Be Your Lover (song), Ingrid Chavez, Jehovah’s Witness, Lisa Coleman, Little Red Corvette (song), Manic Monday (song), Manuela Testolini, Martika, Mavis Staples, Mayte, Mayte Garcia, Misty Copeland, Nasty Girl (song), Nothing Compares 2 U (song), Paisley Park Records, Saturday Night Live (TV show), Sheena Easton, Sheila E., Stand Back (song), Stevie Nicks, Sugar Walls (song), Susanna Hoffs, Susannah Melvoin, The Revolution, U Got the Look (song), Under the Cherry Moon (movie), Vanity, Vanity 6, Wendy & Lisa, Wendy Melvoin, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/photos/7348470/prince-female-muses-collaborators-lovers-sheila-e-kim-basinger-more))
 
 ----
 

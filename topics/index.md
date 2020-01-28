@@ -39,16 +39,12 @@
      * [Ultimate Rave (album)](./album/ultimate-rave/) (1)
      * [Vermillion (album)](./album/vermillion/) (1)
 
-
 ----
-
 
   * [album review](./album-review/)
      * [Originals (album review)](./album-review/originals/) (9)
 
-
 ----
-
 
   * [book](./book/)
      * [I Would Die 4 U (book)](./book/i-would-die-4-u/) (1)
@@ -61,49 +57,37 @@
      * [The Most Beautiful (book)](./book/the-most-beautiful/) (6)
      * [Wally, Where’d You Get Those Glasses? (book)](./book/wally-where-d-you-get-those-glasses/) (1)
 
-
 ----
-
 
   * [documentary](./documentary/)
      * [Prince: R U Listening? (documentary)](./documentary/prince-r-u-listening/) (1)
      * [Prince’s Last Year (documentary)](./documentary/prince-s-last-year/) (1)
      * [Slave Trade: How Prince Re-Made the Music Business (documentary)](./documentary/slave-trade-how-prince-re-made-the-music-business/) (2)
 
-
 ----
-
 
   * [EP](./ep/)
      * [Deliverance (EP)](./ep/deliverance/) (7)
      * [The Paisley Park Sessions (EP)](./ep/the-paisley-park-sessions/) (4)
 
-
 ----
-
 
   * [event](./event/)
      * [Let's Go Crazy: The Grammy Salute to Prince (event)](./event/let-s-go-crazy-the-grammy-salute-to-prince/) (6)
      * [Musicology: Real Music by Real Musicians (event)](./event/musicology-real-music-by-real-musicians/) (2)
      * [Paisley Park Cinema: Music on the Big Screen (event)](./event/paisley-park-cinema-music-on-the-big-screen/) (5)
 
-
 ----
-
 
   * [exhibition](./exhibition/)
      * [My Name Is Prince (exhibition)](./exhibition/my-name-is-prince/) (2)
 
-
 ----
-
 
   * [magazine](./magazine/)
      * [Vanity Fair (magazine)](./magazine/vanity-fair/) (3)
 
-
 ----
-
 
   * [movie](./movie/)
      * [Amazing Grace (movie)](./movie/amazing-grace/) (9)
@@ -114,9 +98,7 @@
      * [Under the Cherry Moon (movie)](./movie/under-the-cherry-moon/) (16)
      * [Wattstax (movie)](./movie/wattstax/) (3)
 
-
 ----
-
 
   * [place](./place/)
      * [Atlanta (place)](./place/atlanta/) (30)
@@ -157,9 +139,7 @@
      * [White House (place)](./place/white-house/) (9)
      * [Xcel Energy Center (place)](./place/xcel-energy-center/) (15)
 
-
 ----
-
 
   * [song](./song/)
      * [17 Days (song)](./song/17-days/) (8)
@@ -210,7 +190,7 @@
      * [Katrina’s Paper Dolls (song)](./song/katrina-s-paper-dolls/) (3)
      * [Let’s Go Crazy (song)](./song/let-s-go-crazy/) (41)
      * [Letitgo (song)](./song/letitgo/) (1)
-     * [Little Red Corvette (song)](./song/little-red-corvette/) (92)
+     * [Little Red Corvette (song)](./song/little-red-corvette/) (93)
      * [Love and Sex (song)](./song/love-and-sex/) (4)
      * [Luka (song)](./song/luka/) (4)
      * [Manic Monday (song)](./song/manic-monday/) (25)
@@ -272,9 +252,7 @@
      * [Yah, You Know (song)](./song/yah-you-know/) (10)
      * [You’re All I Want (song)](./song/you-re-all-i-want/) (6)
 
-
 ----
-
 
   * [tour](./tour/)
      * [1999 (tour)](./tour/1999/) (1)
@@ -285,9 +263,7 @@
      * [Sign O' The Times (tour)](./tour/sign-o-the-times/) (1)
      * [Thing Called Life: Prince Reimagined (tour)](./tour/thing-called-life-prince-reimagined/) (1)
 
-
 ----
-
 
   * [TV show](./tv-show/)
      * [Black-ish (TV show)](./tv-show/black-ish/) (3)
@@ -297,16 +273,12 @@
      * [Sherman's Showcase (TV show)](./tv-show/sherman-s-showcase/) (2)
      * [SNL (TV show)](./tv-show/snl/) (4)
 
-
 ----
-
 
   * [video](./video/)
      * [Rave Un2 the Year 2000 (video)](./video/rave-un2-the-year-2000/) (2)
 
-
 ----
-
 
   * [website](./website/)
      * [Prince Online Museum (website)](./website/prince-online-museum/) (1)
@@ -417,7 +389,7 @@
   * [Christina Aguilera](./christina-aguilera/) (7)
   * [Chuck D.](./chuck-d/) (1)
   * [Clayton Tyler](./clayton-tyler/) (1)
-  * [Clive Davis](./clive-davis/) (2)
+  * [Clive Davis](./clive-davis/) (3)
   * [Cloud bass](./cloud-bass/) (2)
   * [Cloud guitar](./cloud-guitar/) (28)
   * [Coldplay](./coldplay/) (6)
@@ -474,8 +446,8 @@
   * [Eye Records](./eye-records/) (3)
   * [fDeluxe](./fdeluxe/) (5)
   * [fentanyl](./fentanyl/) (94)
-  * [FKA twigs](./fka-twigs/) (15)
-  * [Fleetwood Mac](./fleetwood-mac/) (1)
+  * [FKA twigs](./fka-twigs/) (16)
+  * [Fleetwood Mac](./fleetwood-mac/) (2)
   * [Flyte Tyme Productions](./flyte-tyme-productions/) (2)
   * [Foo Fighters](./foo-fighters/) (10)
   * [Frank Zappa](./frank-zappa/) (8)
@@ -493,7 +465,7 @@
   * [Global Music Rights](./global-music-rights/) (1)
   * [Graceland](./graceland/) (33)
   * [Graceland Holdings](./graceland-holdings/) (18)
-  * [Grammy Award](./grammy-award/) (50)
+  * [Grammy Award](./grammy-award/) (51)
   * [Greazy Meal](./greazy-meal/) (1)
   * [Greg Brooker](./greg-brooker/) (1)
   * [Greg Tate](./greg-tate/) (4)
@@ -547,7 +519,7 @@
   * [John Focke](./john-focke/) (1)
   * [John Goetz](./john-goetz/) (3)
   * [John L. Nelson](./john-l-nelson/) (26)
-  * [John Legend](./john-legend/) (18)
+  * [John Legend](./john-legend/) (19)
   * [John Lewis Nelson](./john-lewis-nelson/) (2)
   * [John Mayer](./john-mayer/) (8)
   * [John Nelson](./john-nelson/) (27)
@@ -565,7 +537,7 @@
   * [Kate Bush](./kate-bush/) (6)
   * [Kathy Jensen](./kathy-jensen/) (1)
   * [Katy Perry](./katy-perry/) (20)
-  * [Ken Ehrlich](./ken-ehrlich/) (5)
+  * [Ken Ehrlich](./ken-ehrlich/) (6)
   * [Ken Robinson](./ken-robinson/) (1)
   * [Kenni Holmen](./kenni-holmen/) (2)
   * [Kenny Rogers](./kenny-rogers/) (17)
@@ -592,7 +564,7 @@
   * [Little Anthony and The Imperials](./little-anthony-and-the-imperials/) (3)
   * [Liv Warfield](./liv-warfield/) (12)
   * [Lizz Wright](./lizz-wright/) (2)
-  * [Lizzo](./lizzo/) (28)
+  * [Lizzo](./lizzo/) (29)
   * [Lori Marcuz](./lori-marcuz/) (7)
   * [LP Music](./lp-music/) (1)
   * [Lynn Goldsmith](./lynn-goldsmith/) (7)
@@ -743,7 +715,7 @@
   * [Shannon M. Cochran](./shannon-m-cochran/) (1)
   * [Sharon Nelson](./sharon-nelson/) (29)
   * [Sheena Easton](./sheena-easton/) (16)
-  * [Sheila E.](./sheila-e/) (95)
+  * [Sheila E.](./sheila-e/) (97)
   * [Shelby J.](./shelby-j/) (3)
   * [Sheldon Lazarus](./sheldon-lazarus/) (1)
   * [Sheryl Crow](./sheryl-crow/) (2)
@@ -788,7 +760,7 @@
   * [The Three O’Clock](./the-three-o-clock/) (1)
   * [The Time](./the-time/) (70)
   * [Tidal](./tidal/) (19)
-  * [Timberwolves](./timberwolves/) (14)
+  * [Timberwolves](./timberwolves/) (15)
   * [Time Warner](./time-warner/) (1)
   * [Tipper Gore](./tipper-gore/) (2)
   * [Tom Moon](./tom-moon/) (1)
@@ -810,7 +782,7 @@
   * [Universal Music Publishing Group](./universal-music-publishing-group/) (4)
   * [Universal Pictures](./universal-pictures/) (6)
   * [University of Minnesota](./university-of-minnesota/) (18)
-  * [Usher](./usher/) (22)
+  * [Usher](./usher/) (24)
   * [Van Jones](./van-jones/) (10)
   * [Vanity](./vanity/) (52)
   * [Vanity 6](./vanity-6/) (47)
@@ -825,7 +797,7 @@
   * [WCCO-TV](./wcco-tv/) (7)
   * [Weezer](./weezer/) (3)
   * [Weird Al Yankovic](./weird-al-yankovic/) (6)
-  * [Wendy & Lisa](./wendy-lisa/) (1)
+  * [Wendy & Lisa](./wendy-lisa/) (6)
   * [Wendy Melvoin](./wendy-melvoin/) (32)
   * [William Blinn](./william-blinn/) (3)
   * [Yara Shahidi](./yara-shahidi/) (3)

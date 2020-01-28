@@ -16,7 +16,7 @@
 
 ----
 
- - [**"The real story behind Prince's Little Red Corvette"**](https://www.bbc.com/news/entertainment-arts-50556922) in [BBC News](https://www.bbc.com/news/) on 27 November 2019 about 1999 (album), Around The World In A Day (album), bootleg, Denise Matthews, Jill Jones, Lisa Coleman, Little Red Corvette (song), Maya Rudolph, Raspberry Beret (song), Sometimes It Snows In April (song), Sunset Sound (place), Susan Rogers, The Revolution, Vanity, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://www.bbc.com/news/entertainment-arts-50556922))
+ - [**"The real story behind Prince's Little Red Corvette"**](https://www.bbc.com/news/entertainment-arts-50556922) in [BBC News](https://www.bbc.com/news/) on 27 November 2019 about 1999 (album), Around The World In A Day (album), bootleg, Denise Matthews, Jill Jones, Lisa Coleman, Little Red Corvette (song), Maya Rudolph, Raspberry Beret (song), Sometimes It Snows In April (song), Sunset Sound (place), Susan Rogers, The Revolution, Vanity, Wendy & Lisa, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://www.bbc.com/news/entertainment-arts-50556922))
 
 ----
 
@@ -48,7 +48,7 @@
 
 ----
 
- - [**"Prince Remembered by Three Key Women in His Life"**](https://variety.com/2019/music/news/prince-birthday-remembered-by-three-key-women-originals-1203235532/) by Jem Aswad in [Variety](https://variety.com/) on 7 June 2019 about airport, Apollonia 6, Atlanta (place), Colleen (song), contract, Cynthia Rose, Illinois (place), Jamie Starr, Jill Jones, Lisa Coleman, Manic Monday (song), Mazarati, Moline, Illinois (place), Nothing Compares 2 U (song), Originals (album), Peggy McCreary, Quincy Jones, Sheena Easton, Sheila E., Starfish And Coffee (song), Sugar Walls (song), Susan Rogers, Susannah Melvoin, Vanity, Vanity 6 ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/news/prince-birthday-remembered-by-three-key-women-originals-1203235532/))
+ - [**"Prince Remembered by Three Key Women in His Life"**](https://variety.com/2019/music/news/prince-birthday-remembered-by-three-key-women-originals-1203235532/) by Jem Aswad in [Variety](https://variety.com/) on 7 June 2019 about airport, Apollonia 6, Atlanta (place), Colleen (song), contract, Cynthia Rose, Illinois (place), Jamie Starr, Jill Jones, Lisa Coleman, Manic Monday (song), Mazarati, Moline, Illinois (place), Nothing Compares 2 U (song), Originals (album), Peggy McCreary, Quincy Jones, Sheena Easton, Sheila E., Starfish And Coffee (song), Sugar Walls (song), Susan Rogers, Susannah Melvoin, Vanity, Vanity 6, Wendy & Lisa ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/news/prince-birthday-remembered-by-three-key-women-originals-1203235532/))
 
 ----
 

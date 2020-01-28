@@ -16,6 +16,7 @@
   * [1991](./associated-press-news-1991.md/) (2)
   * [1986](./associated-press-news-1986.md/) (5)
   * [1985](./associated-press-news-1985.md/) (5)
+
 ----
 
 [Home](../)

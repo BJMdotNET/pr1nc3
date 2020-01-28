@@ -1,5 +1,9 @@
 # Timberwolves
 
+ - [**"Celebrating 30th birthday, Target Center offering prize to one lucky person -- The arena wants people to submit their memories from Target Center."**](https://bringmethenews.com/minnesota-lifestyle/celebrating-30th-birthday-target-center-offering-prize-to-one-lucky-person) in [Bring Me The News](https://bringmethenews.com/) on 27 January 2020 about Fleetwood Mac, Timberwolves ([mirror](https://web.archive.org/web/*/https://bringmethenews.com/minnesota-lifestyle/celebrating-30th-birthday-target-center-offering-prize-to-one-lucky-person))
+
+----
+
  - [**"Prince's Posthumous Memoir The Beautiful Ones Celebrates His Humanity. A Musical Event in New York City Will Celebrate Its Release"**](https://thegrapevine.theroot.com/princes-posthumous-memoir-the-beautiful-ones-celebrates-1839906780) in [The Grapevine (The Root)](https://thegrapevine.theroot.com/) on 16 November 2019 about Chris Jackson, Dan Piepenbring, First Avenue (place), Greg Tate, memoir, New Power Generation, Raspberry Beret (song), Spike Lee, The Ballad Of Dorothy Parker (song), The Beautiful Ones (book), Timberwolves ([mirror](https://web.archive.org/web/*/https://thegrapevine.theroot.com/princes-posthumous-memoir-the-beautiful-ones-celebrates-1839906780))
 
 ----

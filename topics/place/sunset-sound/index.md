@@ -24,7 +24,7 @@
 
 ----
 
- - [**"The real story behind Prince's Little Red Corvette"**](https://www.bbc.com/news/entertainment-arts-50556922) in [BBC News](https://www.bbc.com/news/) on 27 November 2019 about 1999 (album), Around The World In A Day (album), bootleg, Denise Matthews, Jill Jones, Lisa Coleman, Little Red Corvette (song), Maya Rudolph, Raspberry Beret (song), Sometimes It Snows In April (song), Sunset Sound (place), Susan Rogers, The Revolution, Vanity, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://www.bbc.com/news/entertainment-arts-50556922))
+ - [**"The real story behind Prince's Little Red Corvette"**](https://www.bbc.com/news/entertainment-arts-50556922) in [BBC News](https://www.bbc.com/news/) on 27 November 2019 about 1999 (album), Around The World In A Day (album), bootleg, Denise Matthews, Jill Jones, Lisa Coleman, Little Red Corvette (song), Maya Rudolph, Raspberry Beret (song), Sometimes It Snows In April (song), Sunset Sound (place), Susan Rogers, The Revolution, Vanity, Wendy & Lisa, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://www.bbc.com/news/entertainment-arts-50556922))
 
 ----
 
@@ -64,7 +64,7 @@
 
 ----
 
- - [**"Prince Originals: exclusive interview with muse and collaborator Susannah Melvoin -- As Prince rarities finally become available on the Originals album, we speak to the woman who inspired Nothing Compares 2 U."**](https://www.officialcharts.com/chart-news/prince-originals-exclusive-interview-with-muse-and-collaborator-susannah-melvoin__26670/) by Martin Talbot in [Official Charts](https://www.officialcharts.com/) on 24 June 2019 about Aretha Franklin, Bangles, Crystal Ball (album), Cynthia Rose, David Geffen, Dream Factory (album), Jill Jones, Kenny Rogers, Little Red Corvette (song), Manic Monday (song), Martika, Nothing Compares 2 U (song), Originals (album), Quincy Jones, Sunset Sound (place), Susannah Melvoin, The Black Album (album), The Family, vault, Wally (song) ([mirror](https://web.archive.org/web/*/https://www.officialcharts.com/chart-news/prince-originals-exclusive-interview-with-muse-and-collaborator-susannah-melvoin__26670/))
+ - [**"Prince Originals: exclusive interview with muse and collaborator Susannah Melvoin -- As Prince rarities finally become available on the Originals album, we speak to the woman who inspired Nothing Compares 2 U."**](https://www.officialcharts.com/chart-news/prince-originals-exclusive-interview-with-muse-and-collaborator-susannah-melvoin__26670/) by Martin Talbot in [Official Charts](https://www.officialcharts.com/) on 24 June 2019 about Aretha Franklin, Bangles, Crystal Ball (album), Cynthia Rose, David Geffen, Dream Factory (album), Jill Jones, Kenny Rogers, Little Red Corvette (song), Manic Monday (song), Martika, Nothing Compares 2 U (song), Originals (album), Quincy Jones, Sunset Sound (place), Susannah Melvoin, The Black Album (album), The Family, vault, Wally (song), Wendy & Lisa ([mirror](https://web.archive.org/web/*/https://www.officialcharts.com/chart-news/prince-originals-exclusive-interview-with-muse-and-collaborator-susannah-melvoin__26670/))
 
 ----
 

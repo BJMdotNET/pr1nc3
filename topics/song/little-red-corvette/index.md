@@ -1,5 +1,9 @@
 # Little Red Corvette (song)
 
+ - [**"Grammys 2020: What You Didn’t See on TV"**](https://variety.com/2020/tv/news/grammys-2020-backstage-what-you-didnt-see-on-tv-1203481796/) in [Variety](https://variety.com/) on 27 January 2020 about Clive Davis, John Legend, Ken Ehrlich, Little Red Corvette (song), Lizzo, Sheila E., Usher ([mirror](https://web.archive.org/web/*/https://variety.com/2020/tv/news/grammys-2020-backstage-what-you-didnt-see-on-tv-1203481796/))
+
+----
+
  - [**"2020 GRAMMYs: Usher, Sheila E. & FKA Twigs Honor The Purple One With A Prince-Themed Medley -- Some of the most celebrated singers, dancers and instrumentalists in the industry took to the stage during the 62nd Annual GRAMMY Awards telecast to honor the late musical icon Prince"**](https://www.grammy.com/grammys/news/2020-grammys-usher-sheila-e-fka-twigs-honor-purple-one-prince-themed-medley) in [The GRAMMYs](https://www.grammy.com/) on 26 January 2020 about FKA twigs, Grammy Award, Let’s Go Crazy (song), Little Red Corvette (song), Sheila E., Usher, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.grammy.com/grammys/news/2020-grammys-usher-sheila-e-fka-twigs-honor-purple-one-prince-themed-medley))
 
 ----
@@ -116,7 +120,7 @@
 
 ----
 
- - [**"The real story behind Prince's Little Red Corvette"**](https://www.bbc.com/news/entertainment-arts-50556922) in [BBC News](https://www.bbc.com/news/) on 27 November 2019 about 1999 (album), Around The World In A Day (album), bootleg, Denise Matthews, Jill Jones, Lisa Coleman, Little Red Corvette (song), Maya Rudolph, Raspberry Beret (song), Sometimes It Snows In April (song), Sunset Sound (place), Susan Rogers, The Revolution, Vanity, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://www.bbc.com/news/entertainment-arts-50556922))
+ - [**"The real story behind Prince's Little Red Corvette"**](https://www.bbc.com/news/entertainment-arts-50556922) in [BBC News](https://www.bbc.com/news/) on 27 November 2019 about 1999 (album), Around The World In A Day (album), bootleg, Denise Matthews, Jill Jones, Lisa Coleman, Little Red Corvette (song), Maya Rudolph, Raspberry Beret (song), Sometimes It Snows In April (song), Sunset Sound (place), Susan Rogers, The Revolution, Vanity, Wendy & Lisa, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://www.bbc.com/news/entertainment-arts-50556922))
 
 ----
 
@@ -272,7 +276,7 @@
 
 ----
 
- - [**"Prince Originals: exclusive interview with muse and collaborator Susannah Melvoin -- As Prince rarities finally become available on the Originals album, we speak to the woman who inspired Nothing Compares 2 U."**](https://www.officialcharts.com/chart-news/prince-originals-exclusive-interview-with-muse-and-collaborator-susannah-melvoin__26670/) by Martin Talbot in [Official Charts](https://www.officialcharts.com/) on 24 June 2019 about Aretha Franklin, Bangles, Crystal Ball (album), Cynthia Rose, David Geffen, Dream Factory (album), Jill Jones, Kenny Rogers, Little Red Corvette (song), Manic Monday (song), Martika, Nothing Compares 2 U (song), Originals (album), Quincy Jones, Sunset Sound (place), Susannah Melvoin, The Black Album (album), The Family, vault, Wally (song) ([mirror](https://web.archive.org/web/*/https://www.officialcharts.com/chart-news/prince-originals-exclusive-interview-with-muse-and-collaborator-susannah-melvoin__26670/))
+ - [**"Prince Originals: exclusive interview with muse and collaborator Susannah Melvoin -- As Prince rarities finally become available on the Originals album, we speak to the woman who inspired Nothing Compares 2 U."**](https://www.officialcharts.com/chart-news/prince-originals-exclusive-interview-with-muse-and-collaborator-susannah-melvoin__26670/) by Martin Talbot in [Official Charts](https://www.officialcharts.com/) on 24 June 2019 about Aretha Franklin, Bangles, Crystal Ball (album), Cynthia Rose, David Geffen, Dream Factory (album), Jill Jones, Kenny Rogers, Little Red Corvette (song), Manic Monday (song), Martika, Nothing Compares 2 U (song), Originals (album), Quincy Jones, Sunset Sound (place), Susannah Melvoin, The Black Album (album), The Family, vault, Wally (song), Wendy & Lisa ([mirror](https://web.archive.org/web/*/https://www.officialcharts.com/chart-news/prince-originals-exclusive-interview-with-muse-and-collaborator-susannah-melvoin__26670/))
 
 ----
 
@@ -312,7 +316,7 @@
 
 ----
 
- - [**"The Women in Prince’s World: His Muses and Collaborators From Sheila E. to Kim Basinger"**](https://www.billboard.com/photos/7348470/prince-female-muses-collaborators-lovers-sheila-e-kim-basinger-more) in [Billboard](https://www.billboard.com/) on 28 April 2016 about 3rdEyeGirl, Apollonia 6, Bangles, Boy Gregory, Cat Glover, Chaka Khan, contract, Denise Matthews, Dez Dickerson, Donna Grantis, Hannah Welton, I Feel For You (song), I Wanna Be Your Lover (song), Ingrid Chavez, Jehovah’s Witness, Lisa Coleman, Little Red Corvette (song), Manic Monday (song), Manuela Testolini, Martika, Mavis Staples, Mayte, Mayte Garcia, Misty Copeland, Nasty Girl (song), Nothing Compares 2 U (song), Paisley Park Records, Saturday Night Live (TV show), Sheena Easton, Sheila E., Stand Back (song), Stevie Nicks, Sugar Walls (song), Susanna Hoffs, Susannah Melvoin, The Revolution, U Got the Look (song), Under the Cherry Moon (movie), Vanity, Vanity 6, Wendy Melvoin, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/photos/7348470/prince-female-muses-collaborators-lovers-sheila-e-kim-basinger-more))
+ - [**"The Women in Prince’s World: His Muses and Collaborators From Sheila E. to Kim Basinger"**](https://www.billboard.com/photos/7348470/prince-female-muses-collaborators-lovers-sheila-e-kim-basinger-more) in [Billboard](https://www.billboard.com/) on 28 April 2016 about 3rdEyeGirl, Apollonia 6, Bangles, Boy Gregory, Cat Glover, Chaka Khan, contract, Denise Matthews, Dez Dickerson, Donna Grantis, Hannah Welton, I Feel For You (song), I Wanna Be Your Lover (song), Ingrid Chavez, Jehovah’s Witness, Lisa Coleman, Little Red Corvette (song), Manic Monday (song), Manuela Testolini, Martika, Mavis Staples, Mayte, Mayte Garcia, Misty Copeland, Nasty Girl (song), Nothing Compares 2 U (song), Paisley Park Records, Saturday Night Live (TV show), Sheena Easton, Sheila E., Stand Back (song), Stevie Nicks, Sugar Walls (song), Susanna Hoffs, Susannah Melvoin, The Revolution, U Got the Look (song), Under the Cherry Moon (movie), Vanity, Vanity 6, Wendy & Lisa, Wendy Melvoin, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/photos/7348470/prince-female-muses-collaborators-lovers-sheila-e-kim-basinger-more))
 
 ----
 

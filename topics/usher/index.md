@@ -8,6 +8,14 @@
 
 ----
 
+ - [**"Grammys 2020: What You Didn’t See on TV"**](https://variety.com/2020/tv/news/grammys-2020-backstage-what-you-didnt-see-on-tv-1203481796/) in [Variety](https://variety.com/) on 27 January 2020 about Clive Davis, John Legend, Ken Ehrlich, Little Red Corvette (song), Lizzo, Sheila E., Usher ([mirror](https://web.archive.org/web/*/https://variety.com/2020/tv/news/grammys-2020-backstage-what-you-didnt-see-on-tv-1203481796/))
+
+----
+
+ - [**"Sheila E. Explains Why It's Important to Continue to Honor Prince: 'His Legacy Is His Music'"**](https://www.billboard.com/articles/news/awards/8549326/sheila-e-video-interview-prince) in [Billboard](https://www.billboard.com/) on 27 January 2020 about FKA twigs, Grammy Award, Sheila E., Usher ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/awards/8549326/sheila-e-video-interview-prince))
+
+----
+
  - [**"2020 GRAMMYs: Usher, Sheila E. & FKA Twigs Honor The Purple One With A Prince-Themed Medley -- Some of the most celebrated singers, dancers and instrumentalists in the industry took to the stage during the 62nd Annual GRAMMY Awards telecast to honor the late musical icon Prince"**](https://www.grammy.com/grammys/news/2020-grammys-usher-sheila-e-fka-twigs-honor-purple-one-prince-themed-medley) in [The GRAMMYs](https://www.grammy.com/) on 26 January 2020 about FKA twigs, Grammy Award, Let’s Go Crazy (song), Little Red Corvette (song), Sheila E., Usher, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.grammy.com/grammys/news/2020-grammys-usher-sheila-e-fka-twigs-honor-purple-one-prince-themed-medley))
 
 ----
