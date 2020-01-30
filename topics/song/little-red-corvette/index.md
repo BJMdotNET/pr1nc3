@@ -1,5 +1,13 @@
 # Little Red Corvette (song)
 
+ - [**"At Prince’s Grammy Tribute Concert, Old Friends Meet Rock and Soul Superstars -- Foo Fighters, Beck, John Legend, Gary Clark Jr, St. Vincent and Mavis Staples join the Revolution and Sheila E. to honor musician at the Recording Academy’s latest Grammy Salute show"**](https://www.rollingstone.com/music/music-news/prince-grammy-salute-show-recap-944767/) in [Rolling Stone](https://www.rollingstone.com/) on 29 January 2020 about Bangles, Beck, Chris Martin, Darling Nikki (song), Earth, Wind & Fire, FKA twigs, Foo Fighters, Gary Clark Jr., Grammy Award, Gretchen Lieberum, H.E.R., John Legend, Juanes, Let’s Go Crazy (song), Little Red Corvette (song), Los Angeles Convention Center (place), Manic Monday (song), Mavis Staples, Maya Rudolph, Nothing Compares 2 U (song), Paisley Park Records, PRINCEss, Purple Rain (song), Raspberry Beret (song), Sheila E., St. Vincent, Stevie Wonder, Susanna Hoffs, The Revolution, Usher, Wendy Melvoin, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-news/prince-grammy-salute-show-recap-944767/))
+
+----
+
+ - [**"Pure Magic: The Oral History of Prince’s Super Bowl XLI Halftime Show -- As the heavens opened up and rain poured down, the Purple One ran through a handful of covers and some of his own songs, delivering an iconic set on the biggest stage possible and only expanding his legend"**](https://www.theringer.com/music/2020/1/29/21112539/prince-halftime-show-oral-history-super-bowl-xli) in [www.theringer.com](https://www.theringer.com/) on 29 January 2020 about 1999 (song), airport, Baby I’m a Star (song), contract, Dan Piepenbring, Darling Nikki (song), Foo Fighters, Janet Jackson, Justin Timberlake, Little Red Corvette (song), memoir, Morris Hayes, Purple Rain (song), Raspberry Beret (song), Shelby J., Super Bowl, Super Bowl XLI (event) ([mirror](https://web.archive.org/web/*/https://www.theringer.com/music/2020/1/29/21112539/prince-halftime-show-oral-history-super-bowl-xli))
+
+----
+
  - [**"Grammys 2020: What You Didn’t See on TV"**](https://variety.com/2020/tv/news/grammys-2020-backstage-what-you-didnt-see-on-tv-1203481796/) in [Variety](https://variety.com/) on 27 January 2020 about Clive Davis, John Legend, Ken Ehrlich, Little Red Corvette (song), Lizzo, Sheila E., Usher ([mirror](https://web.archive.org/web/*/https://variety.com/2020/tv/news/grammys-2020-backstage-what-you-didnt-see-on-tv-1203481796/))
 
 ----
@@ -316,6 +324,10 @@
 
 ----
 
+ - [**"My Surreal Time Planning Prince’s Iconic Super Bowl Performance -- As Head of Programming for the NFL, it was my job to plan Prince’s rain-soaked Super Bowl halftime show on February 4, 2007. And what a time it was."**](https://www.thedailybeast.com/my-surreal-time-planning-princes-iconic-super-bowl-performance) in [www.thedailybeast.com](https://www.thedailybeast.com/) on 14 May 2016 about 1999 (song), Foo Fighters, James Brown, Lenny Kravitz, Little Red Corvette (song), Purple Rain (song), Raspberry Beret (song), Super Bowl, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.thedailybeast.com/my-surreal-time-planning-princes-iconic-super-bowl-performance))
+
+----
+
  - [**"The Women in Prince’s World: His Muses and Collaborators From Sheila E. to Kim Basinger"**](https://www.billboard.com/photos/7348470/prince-female-muses-collaborators-lovers-sheila-e-kim-basinger-more) in [Billboard](https://www.billboard.com/) on 28 April 2016 about 3rdEyeGirl, Apollonia 6, Bangles, Boy Gregory, Cat Glover, Chaka Khan, contract, Denise Matthews, Dez Dickerson, Donna Grantis, Hannah Welton, I Feel For You (song), I Wanna Be Your Lover (song), Ingrid Chavez, Jehovah’s Witness, Lisa Coleman, Little Red Corvette (song), Manic Monday (song), Manuela Testolini, Martika, Mavis Staples, Mayte, Mayte Garcia, Misty Copeland, Nasty Girl (song), Nothing Compares 2 U (song), Paisley Park Records, Saturday Night Live (TV show), Sheena Easton, Sheila E., Stand Back (song), Stevie Nicks, Sugar Walls (song), Susanna Hoffs, Susannah Melvoin, The Revolution, U Got the Look (song), Under the Cherry Moon (movie), Vanity, Vanity 6, Wendy & Lisa, Wendy Melvoin, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/photos/7348470/prince-female-muses-collaborators-lovers-sheila-e-kim-basinger-more))
 
 ----
@@ -332,7 +344,7 @@
 
 ----
 
- - [**"Obituary: Prince was a diminutive giant who revolutionized pop -- Though he was a puzzle at times, the rocker was a true Minnesotan who changed music more than once in a nearly 40-year career."**](http://www.startribune.com/jon-bream-prince-was-a-once-in-a-generation-artist-who-never-rested-on-his-laurels/376594221/) by Chris Riemenschneider, Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 April 2016 about André Cymone, First Avenue (place), Grammy Award, John Nelson, Let’s Go Crazy (song), Little Red Corvette (song), Mayte, Mayte Garcia, Obama, Super Bowl, Tyka Nelson, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/jon-bream-prince-was-a-once-in-a-generation-artist-who-never-rested-on-his-laurels/376594221/))
+ - [**"Obituary: Prince was a diminutive giant who revolutionized pop -- Though he was a puzzle at times, the rocker was a true Minnesotan who changed music more than once in a nearly 40-year career."**](http://www.startribune.com/jon-bream-prince-was-a-once-in-a-generation-artist-who-never-rested-on-his-laurels/376594221/) by Chris Riemenschneider, Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 April 2016 about André Cymone, First Avenue (place), Grammy Award, John Nelson, Let’s Go Crazy (song), Little Red Corvette (song), Mayte, Mayte Garcia, Obama, Super Bowl, Super Bowl XLI (event), Tyka Nelson, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/jon-bream-prince-was-a-once-in-a-generation-artist-who-never-rested-on-his-laurels/376594221/))
 
 ----
 
@@ -352,7 +364,7 @@
 
 ----
 
- - [**"Prince dead at Paisley Park estate in Minnesota"**](http://www.fox9.com/news/emergency-medical-response-at-paisley-park) in [Fox 9](http://www.fox9.com/) on 21 April 2016 about Atlanta (place), Carver County, First Avenue (place), Illinois (place), Jim Olson, Little Red Corvette (song), Minnesota Twins, Moline, Illinois (place), Obama, Paisley Park Studios (place), Super Bowl, TMZ (website), When Doves Cry (song) ([mirror](https://web.archive.org/web/*/http://www.fox9.com/news/emergency-medical-response-at-paisley-park))
+ - [**"Prince dead at Paisley Park estate in Minnesota"**](http://www.fox9.com/news/emergency-medical-response-at-paisley-park) in [Fox 9](http://www.fox9.com/) on 21 April 2016 about Atlanta (place), Carver County, First Avenue (place), Illinois (place), Jim Olson, Little Red Corvette (song), Minnesota Twins, Moline, Illinois (place), Obama, Paisley Park Studios (place), Super Bowl, Super Bowl XLI (event), TMZ (website), When Doves Cry (song) ([mirror](https://web.archive.org/web/*/http://www.fox9.com/news/emergency-medical-response-at-paisley-park))
 
 ----
 

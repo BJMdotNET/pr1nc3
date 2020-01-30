@@ -1,5 +1,17 @@
 # Purple Rain (song)
 
+ - [**"At Prince’s Grammy Tribute Concert, Old Friends Meet Rock and Soul Superstars -- Foo Fighters, Beck, John Legend, Gary Clark Jr, St. Vincent and Mavis Staples join the Revolution and Sheila E. to honor musician at the Recording Academy’s latest Grammy Salute show"**](https://www.rollingstone.com/music/music-news/prince-grammy-salute-show-recap-944767/) in [Rolling Stone](https://www.rollingstone.com/) on 29 January 2020 about Bangles, Beck, Chris Martin, Darling Nikki (song), Earth, Wind & Fire, FKA twigs, Foo Fighters, Gary Clark Jr., Grammy Award, Gretchen Lieberum, H.E.R., John Legend, Juanes, Let’s Go Crazy (song), Little Red Corvette (song), Los Angeles Convention Center (place), Manic Monday (song), Mavis Staples, Maya Rudolph, Nothing Compares 2 U (song), Paisley Park Records, PRINCEss, Purple Rain (song), Raspberry Beret (song), Sheila E., St. Vincent, Stevie Wonder, Susanna Hoffs, The Revolution, Usher, Wendy Melvoin, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-news/prince-grammy-salute-show-recap-944767/))
+
+----
+
+ - [**"Deep cuts and idiosyncratic visions highlight Grammy tribute concert to Prince"**](https://www.latimes.com/entertainment-arts/music/story/2020-01-29/prince-tribute-grammys-foo-fighters-beck-john-legend) in [Los Angeles Times](https://www.latimes.com/) on 29 January 2020 about Aretha Franklin, Baby I’m a Star (song), Bangles, Beck, Chris Martin, Coldplay, Controversy (song), Earth, Wind & Fire, fentanyl, Foo Fighters, Fred Armisen, Gary Clark Jr., Grammy Award, H.E.R., Jimmy Jam, John Legend, Jungle Love (song), Ken Ehrlich, Let’s Go Crazy (song), Los Angeles Convention Center (place), Manic Monday (song), Mavis Staples, Mountains (song), Nothing Compares 2 U (song), Pop Life (song), Purple Rain (song), Sheila E., St. Vincent, Super Bowl, Super Bowl XLI (event), Susanna Hoffs, Terry Lewis, The Beautiful Ones (song), The Glamorous Life (song), The Revolution, The Time, Under the Cherry Moon (movie) ([mirror](https://web.archive.org/web/*/https://www.latimes.com/entertainment-arts/music/story/2020-01-29/prince-tribute-grammys-foo-fighters-beck-john-legend))
+
+----
+
+ - [**"Foo Fighters, Beck, H.E.R., Sheila E. Light Up ‘Grammy Salute to Prince’ Concert"**](https://variety.com/2020/music/news/prince-tribute-concert-foo-fighters-her-beck-1203485036/) in [Variety](https://variety.com/) on 29 January 2020 about 1999 (song), Baby I’m a Star (song), Bangles, Beck, bootleg, Chris Martin, Coldplay, Controversy (song), D’Angelo, Darling Nikki (song), Diamonds and Pearls (song), Earth, Wind & Fire, Foo Fighters, Fred Armisen, Gary Clark Jr., Gretchen Lieberum, H.E.R., Janelle Monae, Jerome Benton, Jimmy Jam, John Legend, Juanes, Jungle Love (song), Ken Ehrlich, Let’s Go Crazy (song), Lisa Coleman, Manic Monday (song), Mavis Staples, Maya Rudolph, Misty Copeland, Morris Day, Mountains (song), Nothing Compares 2 U (song), Pop Life (song), PRINCEss, Purple Rain (song), Raspberry Beret (song), Sheila E., St. Vincent, Stevie Wonder, Super Bowl, Terry Lewis, The Beautiful Ones (song), The Bird (song), The Glamorous Life (song), The Revolution, The Time, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://variety.com/2020/music/news/prince-tribute-concert-foo-fighters-her-beck-1203485036/))
+
+----
+
  - [**"Grammy’s Prince “Tribute” is Everything But"**](https://vocal.media/beat/let-s-go-insane-a9c30s63) in [vocal.media](https://vocal.media/) on 29 January 2020 about Grammy Award, Juanes, Let’s Go Crazy (song), Let's Go Crazy: The Grammy Salute to Prince (event), Los Angeles Convention Center (place), Purple Rain (song), The Revolution, Trump, Usher ([mirror](https://web.archive.org/web/*/https://vocal.media/beat/let-s-go-insane-a9c30s63))
 
 ----
@@ -8,7 +20,15 @@
 
 ----
 
+ - [**"Pure Magic: The Oral History of Prince’s Super Bowl XLI Halftime Show -- As the heavens opened up and rain poured down, the Purple One ran through a handful of covers and some of his own songs, delivering an iconic set on the biggest stage possible and only expanding his legend"**](https://www.theringer.com/music/2020/1/29/21112539/prince-halftime-show-oral-history-super-bowl-xli) in [www.theringer.com](https://www.theringer.com/) on 29 January 2020 about 1999 (song), airport, Baby I’m a Star (song), contract, Dan Piepenbring, Darling Nikki (song), Foo Fighters, Janet Jackson, Justin Timberlake, Little Red Corvette (song), memoir, Morris Hayes, Purple Rain (song), Raspberry Beret (song), Shelby J., Super Bowl, Super Bowl XLI (event) ([mirror](https://web.archive.org/web/*/https://www.theringer.com/music/2020/1/29/21112539/prince-halftime-show-oral-history-super-bowl-xli))
+
+----
+
  - [**"Opinion: From Joe Namath to Prince, Miami has provided epic Super Bowl moments"**](https://usatoday.com/story/sports/nfl/columnist/bell/2020/01/25/super-bowl-54-joe-namath-prince-miami-provides-iconic-moments/4576597002/) in [USA Today](https://usatoday.com/) on 25 January 2020 about Purple Rain (song), Stevie Wonder, Super Bowl ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/sports/nfl/columnist/bell/2020/01/25/super-bowl-54-joe-namath-prince-miami-provides-iconic-moments/4576597002/))
+
+----
+
+ - [**"Super Bowl Halftime Shows Ranked: From Worst to Best -- Pop spectacles, Janet’s nipple, Springsteen’s marathon, Left Shark and loads of soul revues – we’ve seen ’em all"**](https://www.rollingstone.com/culture/culture-lists/super-bowl-halftime-shows-ranked-from-worst-to-best-14201/prince-2007-228422/) in [Rolling Stone](https://www.rollingstone.com/) on 17 January 2020 about Beyoncé, Foo Fighters, Let’s Go Crazy (song), Madonna, Purple Rain (song), Super Bowl ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/culture/culture-lists/super-bowl-halftime-shows-ranked-from-worst-to-best-14201/prince-2007-228422/))
 
 ----
 
@@ -116,11 +136,23 @@
 
 ----
 
+ - [**"Remembering Prince’s incredible 2007 Super Bowl halftime show -- It’s the 10th anniversary of one of the best halftime shows ever."**](https://www.sbnation.com/2017/2/4/14463094/super-bowl-halftime-show-prince-2007-purple-rain-retrospective) in [www.sbnation.com](https://www.sbnation.com/) on 5 February 2017 about 1999 (song), Janet Jackson, Justin Timberlake, Let’s Go Crazy (song), Purple Rain (song), Super Bowl, Super Bowl XLI (event), vault, YouTube ([mirror](https://web.archive.org/web/*/https://www.sbnation.com/2017/2/4/14463094/super-bowl-halftime-show-prince-2007-purple-rain-retrospective))
+
+----
+
  - [**"Prince's Revolution turns the party up in its second First Ave tribute show"**](http://www.startribune.com/prince-s-revolution-turns-the-party-up-in-its-second-first-ave-tribute-show/392244021/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 3 September 2016 about Baby I'm a Star (song), Computer Blue (song), Dez Dickerson, First Avenue (place), Lisa Coleman, Purple Rain (song), Questlove, Sometimes It Snows In April (song), The Revolution, Wendy Melvoin ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-revolution-turns-the-party-up-in-its-second-first-ave-tribute-show/392244021/))
 
 ----
 
  - [**"BC-AP Entertainment and Arts Digest,2nd Ld-Writethru"**](https://apnews.com/235fd3646e154869b87829ee9f66a03e) in [Associated Press News](https://apnews.com/) on 12 August 2016 about Marni Gustavson, Parsa NGO, Purple Rain (song) ([mirror](https://web.archive.org/web/*/https://apnews.com/235fd3646e154869b87829ee9f66a03e))
+
+----
+
+ - [**"My Surreal Time Planning Prince’s Iconic Super Bowl Performance -- As Head of Programming for the NFL, it was my job to plan Prince’s rain-soaked Super Bowl halftime show on February 4, 2007. And what a time it was."**](https://www.thedailybeast.com/my-surreal-time-planning-princes-iconic-super-bowl-performance) in [www.thedailybeast.com](https://www.thedailybeast.com/) on 14 May 2016 about 1999 (song), Foo Fighters, James Brown, Lenny Kravitz, Little Red Corvette (song), Purple Rain (song), Raspberry Beret (song), Super Bowl, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.thedailybeast.com/my-surreal-time-planning-princes-iconic-super-bowl-performance))
+
+----
+
+ - [**"When Prince Presented the NFL With His Super Bowl Halftime Show Idea, He Literally Gave Everyone Tissues to Wipe Their Tears Away"**](https://www.vulture.com/2016/05/story-behind-princes-super-bowl-performance.html) in [Vulture](https://www.vulture.com/) on 14 May 2016 about Purple Rain (song), Super Bowl ([mirror](https://web.archive.org/web/*/https://www.vulture.com/2016/05/story-behind-princes-super-bowl-performance.html))
 
 ----
 

@@ -8,7 +8,7 @@
 
 ----
 
- - [**"The Prince Estate in Partnership with Legacy Recordings Announce First Wave of Physical Titles (CD/Vinyl) in Definitive Catalog Rerelease Project"**](https://www.prnewswire.com/news-releases/the-prince-estate-in-partnership-with-legacy-recordings-announce-first-wave-of-physical-titles-cdvinyl-in-definitive-catalog-rerelease-project-300760870.html) in [PR Newswire](https://www.prnewswire.com/) on 10 December 2018 about 3121 (album), Legacy Recordings, Prince Estate, Sony Music Entertainment, The Prince Estate ([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/the-prince-estate-in-partnership-with-legacy-recordings-announce-first-wave-of-physical-titles-cdvinyl-in-definitive-catalog-rerelease-project-300760870.html))
+ - [**"The Prince Estate in Partnership with Legacy Recordings Announce First Wave of Physical Titles (CD/Vinyl) in Definitive Catalog Rerelease Project"**](https://www.prnewswire.com/news-releases/the-prince-estate-in-partnership-with-legacy-recordings-announce-first-wave-of-physical-titles-cdvinyl-in-definitive-catalog-rerelease-project-300760870.html) in [PR Newswire](https://www.prnewswire.com/) on 10 December 2018 about 3121 (album), Legacy Recordings, Prince Estate, Sony Music Entertainment, Super Bowl, The Prince Estate ([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/the-prince-estate-in-partnership-with-legacy-recordings-announce-first-wave-of-physical-titles-cdvinyl-in-definitive-catalog-rerelease-project-300760870.html))
 
 ----
 

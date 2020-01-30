@@ -14,7 +14,7 @@
 
 ----
 
- - [**"Super Bowl Live concert series will include Prince tribute"**](https://apnews.com/30711cb14b744f1aa016784116c806cc) in [Associated Press News](https://apnews.com/) on 1 December 2017 about Jimmy Jam, Morris Day, Morris Day & The Time, New Power Generation, Sheila E., Terry Lewis, The Revolution, The Time ([mirror](https://web.archive.org/web/*/https://apnews.com/30711cb14b744f1aa016784116c806cc))
+ - [**"Super Bowl Live concert series will include Prince tribute"**](https://apnews.com/30711cb14b744f1aa016784116c806cc) in [Associated Press News](https://apnews.com/) on 1 December 2017 about Jimmy Jam, Morris Day, Morris Day & The Time, New Power Generation, Sheila E., Super Bowl, Terry Lewis, The Revolution, The Time ([mirror](https://web.archive.org/web/*/https://apnews.com/30711cb14b744f1aa016784116c806cc))
 
 ----
 
@@ -162,7 +162,7 @@
 
 ----
 
- - [**"Prince left behind a treasure trove to see at Paisley Park"**](https://apnews.com/a5f775426be44b65a5cbe3d790774288) by Jeff Baenen (Associated Press) in [Associated Press News](https://apnews.com/) on 18 April 2017 about Grammy Award, museum, Purple Rain (movie) ([mirror](https://web.archive.org/web/*/https://apnews.com/a5f775426be44b65a5cbe3d790774288))
+ - [**"Prince left behind a treasure trove to see at Paisley Park"**](https://apnews.com/a5f775426be44b65a5cbe3d790774288) by Jeff Baenen (Associated Press) in [Associated Press News](https://apnews.com/) on 18 April 2017 about Grammy Award, museum, Purple Rain (movie), Super Bowl ([mirror](https://web.archive.org/web/*/https://apnews.com/a5f775426be44b65a5cbe3d790774288))
 
 ----
 

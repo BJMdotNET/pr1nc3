@@ -40,7 +40,7 @@
 
 ----
 
- - [**"The Estate Of Prince Rogers Nelson Signs Exclusive Worldwide Merchandise Agreement With Universal Music Group's Bravado"**](https://www.prnewswire.com/news-releases/the-estate-of-prince-rogers-nelson-signs-exclusive-worldwide-merchandise-agreement-with-universal-music-groups-bravado-300388893.html) in [PR Newswire](https://www.prnewswire.com/) on 10 January 2017 about Bravado, Charles Koppelman, merchandise, Universal Music Group ([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/the-estate-of-prince-rogers-nelson-signs-exclusive-worldwide-merchandise-agreement-with-universal-music-groups-bravado-300388893.html))
+ - [**"The Estate Of Prince Rogers Nelson Signs Exclusive Worldwide Merchandise Agreement With Universal Music Group's Bravado"**](https://www.prnewswire.com/news-releases/the-estate-of-prince-rogers-nelson-signs-exclusive-worldwide-merchandise-agreement-with-universal-music-groups-bravado-300388893.html) in [PR Newswire](https://www.prnewswire.com/) on 10 January 2017 about Bravado, Charles Koppelman, merchandise, Super Bowl, Universal Music Group ([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/the-estate-of-prince-rogers-nelson-signs-exclusive-worldwide-merchandise-agreement-with-universal-music-groups-bravado-300388893.html))
 
 ----
 

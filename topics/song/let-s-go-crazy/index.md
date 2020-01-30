@@ -1,5 +1,17 @@
 # Let’s Go Crazy (song)
 
+ - [**"At Prince’s Grammy Tribute Concert, Old Friends Meet Rock and Soul Superstars -- Foo Fighters, Beck, John Legend, Gary Clark Jr, St. Vincent and Mavis Staples join the Revolution and Sheila E. to honor musician at the Recording Academy’s latest Grammy Salute show"**](https://www.rollingstone.com/music/music-news/prince-grammy-salute-show-recap-944767/) in [Rolling Stone](https://www.rollingstone.com/) on 29 January 2020 about Bangles, Beck, Chris Martin, Darling Nikki (song), Earth, Wind & Fire, FKA twigs, Foo Fighters, Gary Clark Jr., Grammy Award, Gretchen Lieberum, H.E.R., John Legend, Juanes, Let’s Go Crazy (song), Little Red Corvette (song), Los Angeles Convention Center (place), Manic Monday (song), Mavis Staples, Maya Rudolph, Nothing Compares 2 U (song), Paisley Park Records, PRINCEss, Purple Rain (song), Raspberry Beret (song), Sheila E., St. Vincent, Stevie Wonder, Susanna Hoffs, The Revolution, Usher, Wendy Melvoin, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-news/prince-grammy-salute-show-recap-944767/))
+
+----
+
+ - [**"Deep cuts and idiosyncratic visions highlight Grammy tribute concert to Prince"**](https://www.latimes.com/entertainment-arts/music/story/2020-01-29/prince-tribute-grammys-foo-fighters-beck-john-legend) in [Los Angeles Times](https://www.latimes.com/) on 29 January 2020 about Aretha Franklin, Baby I’m a Star (song), Bangles, Beck, Chris Martin, Coldplay, Controversy (song), Earth, Wind & Fire, fentanyl, Foo Fighters, Fred Armisen, Gary Clark Jr., Grammy Award, H.E.R., Jimmy Jam, John Legend, Jungle Love (song), Ken Ehrlich, Let’s Go Crazy (song), Los Angeles Convention Center (place), Manic Monday (song), Mavis Staples, Mountains (song), Nothing Compares 2 U (song), Pop Life (song), Purple Rain (song), Sheila E., St. Vincent, Super Bowl, Super Bowl XLI (event), Susanna Hoffs, Terry Lewis, The Beautiful Ones (song), The Glamorous Life (song), The Revolution, The Time, Under the Cherry Moon (movie) ([mirror](https://web.archive.org/web/*/https://www.latimes.com/entertainment-arts/music/story/2020-01-29/prince-tribute-grammys-foo-fighters-beck-john-legend))
+
+----
+
+ - [**"Foo Fighters, Beck, H.E.R., Sheila E. Light Up ‘Grammy Salute to Prince’ Concert"**](https://variety.com/2020/music/news/prince-tribute-concert-foo-fighters-her-beck-1203485036/) in [Variety](https://variety.com/) on 29 January 2020 about 1999 (song), Baby I’m a Star (song), Bangles, Beck, bootleg, Chris Martin, Coldplay, Controversy (song), D’Angelo, Darling Nikki (song), Diamonds and Pearls (song), Earth, Wind & Fire, Foo Fighters, Fred Armisen, Gary Clark Jr., Gretchen Lieberum, H.E.R., Janelle Monae, Jerome Benton, Jimmy Jam, John Legend, Juanes, Jungle Love (song), Ken Ehrlich, Let’s Go Crazy (song), Lisa Coleman, Manic Monday (song), Mavis Staples, Maya Rudolph, Misty Copeland, Morris Day, Mountains (song), Nothing Compares 2 U (song), Pop Life (song), PRINCEss, Purple Rain (song), Raspberry Beret (song), Sheila E., St. Vincent, Stevie Wonder, Super Bowl, Terry Lewis, The Beautiful Ones (song), The Bird (song), The Glamorous Life (song), The Revolution, The Time, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://variety.com/2020/music/news/prince-tribute-concert-foo-fighters-her-beck-1203485036/))
+
+----
+
  - [**"Grammy’s Prince “Tribute” is Everything But"**](https://vocal.media/beat/let-s-go-insane-a9c30s63) in [vocal.media](https://vocal.media/) on 29 January 2020 about Grammy Award, Juanes, Let’s Go Crazy (song), Let's Go Crazy: The Grammy Salute to Prince (event), Los Angeles Convention Center (place), Purple Rain (song), The Revolution, Trump, Usher ([mirror](https://web.archive.org/web/*/https://vocal.media/beat/let-s-go-insane-a9c30s63))
 
 ----
@@ -9,6 +21,10 @@
 ----
 
  - [**"2020 GRAMMYs: Usher, Sheila E. & FKA Twigs Honor The Purple One With A Prince-Themed Medley -- Some of the most celebrated singers, dancers and instrumentalists in the industry took to the stage during the 62nd Annual GRAMMY Awards telecast to honor the late musical icon Prince"**](https://www.grammy.com/grammys/news/2020-grammys-usher-sheila-e-fka-twigs-honor-purple-one-prince-themed-medley) in [The GRAMMYs](https://www.grammy.com/) on 26 January 2020 about FKA twigs, Grammy Award, Let’s Go Crazy (song), Little Red Corvette (song), Sheila E., Usher, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.grammy.com/grammys/news/2020-grammys-usher-sheila-e-fka-twigs-honor-purple-one-prince-themed-medley))
+
+----
+
+ - [**"Super Bowl Halftime Shows Ranked: From Worst to Best -- Pop spectacles, Janet’s nipple, Springsteen’s marathon, Left Shark and loads of soul revues – we’ve seen ’em all"**](https://www.rollingstone.com/culture/culture-lists/super-bowl-halftime-shows-ranked-from-worst-to-best-14201/prince-2007-228422/) in [Rolling Stone](https://www.rollingstone.com/) on 17 January 2020 about Beyoncé, Foo Fighters, Let’s Go Crazy (song), Madonna, Purple Rain (song), Super Bowl ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/culture/culture-lists/super-bowl-halftime-shows-ranked-from-worst-to-best-14201/prince-2007-228422/))
 
 ----
 
@@ -25,6 +41,10 @@
 ----
 
  - [**"John Legend, H.E.R. to perform at Prince tribute concert"**](https://apnews.com/e672f9a779c8cef910eefb7b8cff753f) in [Associated Press News](https://apnews.com/) on 9 January 2020 about Alicia Keys, Beck, Chris Martin, Earth, Wind & Fire, Foo Fighters, Gary Clark Jr., Grammy Award, H.E.R., John Legend, Juanes, Let’s Go Crazy (song), Los Angeles Convention Center (place), Mavis Staples, Morris Day, Morris Day and The Time, Sheila E., St. Vincent, Susanna Hoffs, The Revolution, The Time, Usher ([mirror](https://web.archive.org/web/*/https://apnews.com/e672f9a779c8cef910eefb7b8cff753f))
+
+----
+
+ - [**"Prince Is Getting an All-Star Grammy Tribute Concert -- Alicia Keys, John Legend, Usher, Foo Fighters, Beck set to perform with musical director Sheila E."**](https://www.rollingstone.com/music/music-news/prince-grammys-tribute-concert-934548/) in [Rolling Stone](https://www.rollingstone.com/) on 9 January 2020 about Alicia Keys, Aretha Franklin, Bangles, Beck, Bobby Z., Chris Martin, Earth, Wind & Fire, Foo Fighters, Grammy Award, H.E.R., Jimmy Jam, John Legend, Juanes, Ken Ehrlich, Let’s Go Crazy (song), Los Angeles Convention Center (place), Manic Monday (song), Mavis Staples, Morris Day, Morris Day and The Time, Sheila E., St. Vincent, Stevie Wonder, Susanna Hoffs, Terry Lewis, The Glamorous Life (song), The Revolution, The Time, Usher ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-news/prince-grammys-tribute-concert-934548/))
 
 ----
 
@@ -116,6 +136,10 @@
 
 ----
 
+ - [**"Remembering Prince’s incredible 2007 Super Bowl halftime show -- It’s the 10th anniversary of one of the best halftime shows ever."**](https://www.sbnation.com/2017/2/4/14463094/super-bowl-halftime-show-prince-2007-purple-rain-retrospective) in [www.sbnation.com](https://www.sbnation.com/) on 5 February 2017 about 1999 (song), Janet Jackson, Justin Timberlake, Let’s Go Crazy (song), Purple Rain (song), Super Bowl, Super Bowl XLI (event), vault, YouTube ([mirror](https://web.archive.org/web/*/https://www.sbnation.com/2017/2/4/14463094/super-bowl-halftime-show-prince-2007-purple-rain-retrospective))
+
+----
+
  - [**"Susan Rogers - 2016 Red Bull Music Academy lecture"**](https://www.redbullmusicacademy.com/lectures/susan-rogers-lecture) in [Red Bull Music Academy](https://www.redbullmusicacademy.com/) on 8 December 2016 about 17 Days (song), Academy Award, Anita Baker, Bernie Grundman, bootleg, Condition of the Heart (song), contract, First Avenue (place), Grammy Award, James Brown, Jesse Johnson, Jill Jones, Joni Mitchell, Kate Bush, Let’s Go Crazy (song), Lisa Coleman, Little Red Corvette (song), Nothing Compares 2 U (song), Pop Life (song), Sheila E., Sometimes It Snows In April (song), Stevie Wonder, Sunset Sound (place), Susan Rogers, Susannah Melvoin, The Ballad Of Dorothy Parker (song), The Revolution, Under the Cherry Moon (movie), University of Minnesota, Vanity 6, vault, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://www.redbullmusicacademy.com/lectures/susan-rogers-lecture))
 
 ----
@@ -152,7 +176,7 @@
 
 ----
 
- - [**"Obituary: Prince was a diminutive giant who revolutionized pop -- Though he was a puzzle at times, the rocker was a true Minnesotan who changed music more than once in a nearly 40-year career."**](http://www.startribune.com/jon-bream-prince-was-a-once-in-a-generation-artist-who-never-rested-on-his-laurels/376594221/) by Chris Riemenschneider, Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 April 2016 about André Cymone, First Avenue (place), Grammy Award, John Nelson, Let’s Go Crazy (song), Little Red Corvette (song), Mayte, Mayte Garcia, Obama, Super Bowl, Tyka Nelson, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/jon-bream-prince-was-a-once-in-a-generation-artist-who-never-rested-on-his-laurels/376594221/))
+ - [**"Obituary: Prince was a diminutive giant who revolutionized pop -- Though he was a puzzle at times, the rocker was a true Minnesotan who changed music more than once in a nearly 40-year career."**](http://www.startribune.com/jon-bream-prince-was-a-once-in-a-generation-artist-who-never-rested-on-his-laurels/376594221/) by Chris Riemenschneider, Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 April 2016 about André Cymone, First Avenue (place), Grammy Award, John Nelson, Let’s Go Crazy (song), Little Red Corvette (song), Mayte, Mayte Garcia, Obama, Super Bowl, Super Bowl XLI (event), Tyka Nelson, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/jon-bream-prince-was-a-once-in-a-generation-artist-who-never-rested-on-his-laurels/376594221/))
 
 ----
 

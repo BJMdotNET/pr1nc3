@@ -1,5 +1,9 @@
 # FKA twigs
 
+ - [**"At Prince’s Grammy Tribute Concert, Old Friends Meet Rock and Soul Superstars -- Foo Fighters, Beck, John Legend, Gary Clark Jr, St. Vincent and Mavis Staples join the Revolution and Sheila E. to honor musician at the Recording Academy’s latest Grammy Salute show"**](https://www.rollingstone.com/music/music-news/prince-grammy-salute-show-recap-944767/) in [Rolling Stone](https://www.rollingstone.com/) on 29 January 2020 about Bangles, Beck, Chris Martin, Darling Nikki (song), Earth, Wind & Fire, FKA twigs, Foo Fighters, Gary Clark Jr., Grammy Award, Gretchen Lieberum, H.E.R., John Legend, Juanes, Let’s Go Crazy (song), Little Red Corvette (song), Los Angeles Convention Center (place), Manic Monday (song), Mavis Staples, Maya Rudolph, Nothing Compares 2 U (song), Paisley Park Records, PRINCEss, Purple Rain (song), Raspberry Beret (song), Sheila E., St. Vincent, Stevie Wonder, Susanna Hoffs, The Revolution, Usher, Wendy Melvoin, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-news/prince-grammy-salute-show-recap-944767/))
+
+----
+
  - [**"Grammy Awards: Usher’s musical tribute to Prince divides fans -- He delivered a medley of The Purple One's biggest hits"**](https://www.nme.com/news/music/grammy-awards-ushers-musical-tribute-to-prince-divides-fans-2601402) in [NME (New Musical Express)](https://www.nme.com/) on 27 January 2020 about FKA twigs, Grammy Award, John Legend, Lizzo, Usher, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.nme.com/news/music/grammy-awards-ushers-musical-tribute-to-prince-divides-fans-2601402))
 
 ----

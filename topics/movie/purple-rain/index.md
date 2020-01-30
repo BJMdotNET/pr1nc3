@@ -152,7 +152,7 @@
 
 ----
 
- - [**"Prince memoir ‘The Beautiful Ones’ coming out in the fall"**](https://apnews.com/0c8b1deaae3b4329905d848b284f044b) by Hillel Italie (Associated Press) in [Associated Press News](https://apnews.com/) on 22 April 2019 about Chris Jackson, Dan Piepenbring, Esther Newberg, fentanyl, memoir, Purple Rain (movie), Random House , The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/https://apnews.com/0c8b1deaae3b4329905d848b284f044b))
+ - [**"Prince memoir ‘The Beautiful Ones’ coming out in the fall"**](https://apnews.com/0c8b1deaae3b4329905d848b284f044b) by Hillel Italie (Associated Press) in [Associated Press News](https://apnews.com/) on 22 April 2019 about Chris Jackson, Dan Piepenbring, Esther Newberg, fentanyl, memoir, Purple Rain (movie), Random House , Super Bowl, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/https://apnews.com/0c8b1deaae3b4329905d848b284f044b))
 
 ----
 
@@ -200,7 +200,7 @@
 
 ----
 
- - [**"Prince left behind a treasure trove to see at Paisley Park"**](https://apnews.com/a5f775426be44b65a5cbe3d790774288) by Jeff Baenen (Associated Press) in [Associated Press News](https://apnews.com/) on 18 April 2017 about Grammy Award, museum, Purple Rain (movie) ([mirror](https://web.archive.org/web/*/https://apnews.com/a5f775426be44b65a5cbe3d790774288))
+ - [**"Prince left behind a treasure trove to see at Paisley Park"**](https://apnews.com/a5f775426be44b65a5cbe3d790774288) by Jeff Baenen (Associated Press) in [Associated Press News](https://apnews.com/) on 18 April 2017 about Grammy Award, museum, Purple Rain (movie), Super Bowl ([mirror](https://web.archive.org/web/*/https://apnews.com/a5f775426be44b65a5cbe3d790774288))
 
 ----
 

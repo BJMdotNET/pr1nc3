@@ -1,5 +1,9 @@
 # When Doves Cry (song)
 
+ - [**"At Prince’s Grammy Tribute Concert, Old Friends Meet Rock and Soul Superstars -- Foo Fighters, Beck, John Legend, Gary Clark Jr, St. Vincent and Mavis Staples join the Revolution and Sheila E. to honor musician at the Recording Academy’s latest Grammy Salute show"**](https://www.rollingstone.com/music/music-news/prince-grammy-salute-show-recap-944767/) in [Rolling Stone](https://www.rollingstone.com/) on 29 January 2020 about Bangles, Beck, Chris Martin, Darling Nikki (song), Earth, Wind & Fire, FKA twigs, Foo Fighters, Gary Clark Jr., Grammy Award, Gretchen Lieberum, H.E.R., John Legend, Juanes, Let’s Go Crazy (song), Little Red Corvette (song), Los Angeles Convention Center (place), Manic Monday (song), Mavis Staples, Maya Rudolph, Nothing Compares 2 U (song), Paisley Park Records, PRINCEss, Purple Rain (song), Raspberry Beret (song), Sheila E., St. Vincent, Stevie Wonder, Susanna Hoffs, The Revolution, Usher, Wendy Melvoin, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-news/prince-grammy-salute-show-recap-944767/))
+
+----
+
  - [**"Grammy Awards: Usher’s musical tribute to Prince divides fans -- He delivered a medley of The Purple One's biggest hits"**](https://www.nme.com/news/music/grammy-awards-ushers-musical-tribute-to-prince-divides-fans-2601402) in [NME (New Musical Express)](https://www.nme.com/) on 27 January 2020 about FKA twigs, Grammy Award, John Legend, Lizzo, Usher, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.nme.com/news/music/grammy-awards-ushers-musical-tribute-to-prince-divides-fans-2601402))
 
 ----
@@ -236,6 +240,10 @@
 
 ----
 
+ - [**"My Surreal Time Planning Prince’s Iconic Super Bowl Performance -- As Head of Programming for the NFL, it was my job to plan Prince’s rain-soaked Super Bowl halftime show on February 4, 2007. And what a time it was."**](https://www.thedailybeast.com/my-surreal-time-planning-princes-iconic-super-bowl-performance) in [www.thedailybeast.com](https://www.thedailybeast.com/) on 14 May 2016 about 1999 (song), Foo Fighters, James Brown, Lenny Kravitz, Little Red Corvette (song), Purple Rain (song), Raspberry Beret (song), Super Bowl, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.thedailybeast.com/my-surreal-time-planning-princes-iconic-super-bowl-performance))
+
+----
+
  - [**"Prince album covers for 'Purple Rain,' 'Lovesexy,' 'Parade' created by University Heights' Laura LiPuma Nash (photos)"**](https://www.cleveland.com/entertainment/2016/04/prince_album_covers_for_purple.html) in [Cleveland.com](https://www.cleveland.com/) on 29 April 2016 about 1999 (album), Grammy Award, Laura LiPuma, Lovesexy (album), Parade (album), Purple Rain (album), Warner Bros. Records, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.cleveland.com/entertainment/2016/04/prince_album_covers_for_purple.html))
 
 ----
@@ -252,7 +260,7 @@
 
 ----
 
- - [**"Obituary: Prince was a diminutive giant who revolutionized pop -- Though he was a puzzle at times, the rocker was a true Minnesotan who changed music more than once in a nearly 40-year career."**](http://www.startribune.com/jon-bream-prince-was-a-once-in-a-generation-artist-who-never-rested-on-his-laurels/376594221/) by Chris Riemenschneider, Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 April 2016 about André Cymone, First Avenue (place), Grammy Award, John Nelson, Let’s Go Crazy (song), Little Red Corvette (song), Mayte, Mayte Garcia, Obama, Super Bowl, Tyka Nelson, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/jon-bream-prince-was-a-once-in-a-generation-artist-who-never-rested-on-his-laurels/376594221/))
+ - [**"Obituary: Prince was a diminutive giant who revolutionized pop -- Though he was a puzzle at times, the rocker was a true Minnesotan who changed music more than once in a nearly 40-year career."**](http://www.startribune.com/jon-bream-prince-was-a-once-in-a-generation-artist-who-never-rested-on-his-laurels/376594221/) by Chris Riemenschneider, Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 April 2016 about André Cymone, First Avenue (place), Grammy Award, John Nelson, Let’s Go Crazy (song), Little Red Corvette (song), Mayte, Mayte Garcia, Obama, Super Bowl, Super Bowl XLI (event), Tyka Nelson, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/jon-bream-prince-was-a-once-in-a-generation-artist-who-never-rested-on-his-laurels/376594221/))
 
 ----
 
@@ -268,7 +276,7 @@
 
 ----
 
- - [**"Prince dead at Paisley Park estate in Minnesota"**](http://www.fox9.com/news/emergency-medical-response-at-paisley-park) in [Fox 9](http://www.fox9.com/) on 21 April 2016 about Atlanta (place), Carver County, First Avenue (place), Illinois (place), Jim Olson, Little Red Corvette (song), Minnesota Twins, Moline, Illinois (place), Obama, Paisley Park Studios (place), Super Bowl, TMZ (website), When Doves Cry (song) ([mirror](https://web.archive.org/web/*/http://www.fox9.com/news/emergency-medical-response-at-paisley-park))
+ - [**"Prince dead at Paisley Park estate in Minnesota"**](http://www.fox9.com/news/emergency-medical-response-at-paisley-park) in [Fox 9](http://www.fox9.com/) on 21 April 2016 about Atlanta (place), Carver County, First Avenue (place), Illinois (place), Jim Olson, Little Red Corvette (song), Minnesota Twins, Moline, Illinois (place), Obama, Paisley Park Studios (place), Super Bowl, Super Bowl XLI (event), TMZ (website), When Doves Cry (song) ([mirror](https://web.archive.org/web/*/http://www.fox9.com/news/emergency-medical-response-at-paisley-park))
 
 ----
 

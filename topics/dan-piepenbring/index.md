@@ -1,5 +1,9 @@
 # Dan Piepenbring
 
+ - [**"Pure Magic: The Oral History of Prince’s Super Bowl XLI Halftime Show -- As the heavens opened up and rain poured down, the Purple One ran through a handful of covers and some of his own songs, delivering an iconic set on the biggest stage possible and only expanding his legend"**](https://www.theringer.com/music/2020/1/29/21112539/prince-halftime-show-oral-history-super-bowl-xli) in [www.theringer.com](https://www.theringer.com/) on 29 January 2020 about 1999 (song), airport, Baby I’m a Star (song), contract, Dan Piepenbring, Darling Nikki (song), Foo Fighters, Janet Jackson, Justin Timberlake, Little Red Corvette (song), memoir, Morris Hayes, Purple Rain (song), Raspberry Beret (song), Shelby J., Super Bowl, Super Bowl XLI (event) ([mirror](https://web.archive.org/web/*/https://www.theringer.com/music/2020/1/29/21112539/prince-halftime-show-oral-history-super-bowl-xli))
+
+----
+
  - [**""To have him trust me to be the first reader of his memoir pages...that was special" – Dan Piepenbring on Prince's unfinished memoir"**](https://www.hotpress.com/music/trust-first-reader-memoir-pages-special-dan-piepenbring-princes-unfinished-memoir-22801383) in [Hot Press](https://www.hotpress.com/) on 23 January 2020 about Bob Dylan, Chaka Khan, Dan Piepenbring, John Lewis Nelson, memoir, The Beautiful Ones (book), When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.hotpress.com/music/trust-first-reader-memoir-pages-special-dan-piepenbring-princes-unfinished-memoir-22801383))
 
 ----
@@ -9,6 +13,10 @@
 ----
 
  - [**"NAACP Image Awards Nominees: ‘Harriet,’ ‘When They See Us’, Netflix Lead Way"**](https://deadline.com/2020/01/naacp-image-awards-nominees-list-2020-nominations-1202825419/) in [Deadline](https://deadline.com/) on 9 January 2020 about Alicia Keys, Ava DuVernay, BET Awards, Beyoncé, Dan Piepenbring, Dave Chappelle, H.E.R., Janelle Monáe, Lizzo, memoir, Miles Davis, My Name Is Prince: 25 Inspired Years (book), Netflix, PBS, Penguin Random House, Randee St. Nicholas, Ropeadope, Saturday Night Live (TV show), Tamron Hall, The Beautiful Ones (book), Universal Pictures, Yara Shahidi ([mirror](https://web.archive.org/web/*/https://deadline.com/2020/01/naacp-image-awards-nominees-list-2020-nominations-1202825419/))
+
+----
+
+ - [**"Kritik: Prince „The Beautiful Ones“ – Skizzen eines Lebens -- Zwei Monate vor seinem Tod begann Prince mit der Niederschrift seiner Memoiren – nun wurde das Fragment „The Beautiful Ones“ veröffentlicht"**](https://www.rollingstone.de/prince-the-beautiful-ones-1871895/) in [Rolling Stone (Germany)](https://www.rollingstone.de/) on 4 January 2020 about Dan Piepenbring, memoir, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.de/prince-the-beautiful-ones-1871895/))
 
 ----
 
@@ -320,7 +328,7 @@
 
 ----
 
- - [**"Like Prince, his new memoir 'The Beautiful Ones' can't be pigeonholed -- Filled with ephemera, photos and philosophy, "The Beautiful Ones" is incomplete yet revealing. "**](http://www.startribune.com/like-prince-his-new-memoir-the-beautiful-ones-can-t-be-pigeonholed/563845812/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 October 2019 about Dan Piepenbring, fentanyl, John L. Nelson, memoir, The Beautiful Ones (book), vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/like-prince-his-new-memoir-the-beautiful-ones-can-t-be-pigeonholed/563845812/))
+ - [**"Like Prince, his new memoir 'The Beautiful Ones' can't be pigeonholed -- Filled with ephemera, photos and philosophy, "The Beautiful Ones" is incomplete yet revealing. "**](http://www.startribune.com/like-prince-his-new-memoir-the-beautiful-ones-can-t-be-pigeonholed/563845812/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 October 2019 about Dan Piepenbring, fentanyl, John L. Nelson, memoir, Super Bowl, The Beautiful Ones (book), vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/like-prince-his-new-memoir-the-beautiful-ones-can-t-be-pigeonholed/563845812/))
 
 ----
 
@@ -396,7 +404,7 @@
 
 ----
 
- - [**"Prince memoir ‘The Beautiful Ones’ coming out in the fall"**](https://apnews.com/0c8b1deaae3b4329905d848b284f044b) by Hillel Italie (Associated Press) in [Associated Press News](https://apnews.com/) on 22 April 2019 about Chris Jackson, Dan Piepenbring, Esther Newberg, fentanyl, memoir, Purple Rain (movie), Random House , The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/https://apnews.com/0c8b1deaae3b4329905d848b284f044b))
+ - [**"Prince memoir ‘The Beautiful Ones’ coming out in the fall"**](https://apnews.com/0c8b1deaae3b4329905d848b284f044b) by Hillel Italie (Associated Press) in [Associated Press News](https://apnews.com/) on 22 April 2019 about Chris Jackson, Dan Piepenbring, Esther Newberg, fentanyl, memoir, Purple Rain (movie), Random House , Super Bowl, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/https://apnews.com/0c8b1deaae3b4329905d848b284f044b))
 
 ----
 

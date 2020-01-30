@@ -208,7 +208,7 @@
 
 ----
 
- - [**"Like Prince, his new memoir 'The Beautiful Ones' can't be pigeonholed -- Filled with ephemera, photos and philosophy, "The Beautiful Ones" is incomplete yet revealing. "**](http://www.startribune.com/like-prince-his-new-memoir-the-beautiful-ones-can-t-be-pigeonholed/563845812/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 October 2019 about Dan Piepenbring, fentanyl, John L. Nelson, memoir, The Beautiful Ones (book), vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/like-prince-his-new-memoir-the-beautiful-ones-can-t-be-pigeonholed/563845812/))
+ - [**"Like Prince, his new memoir 'The Beautiful Ones' can't be pigeonholed -- Filled with ephemera, photos and philosophy, "The Beautiful Ones" is incomplete yet revealing. "**](http://www.startribune.com/like-prince-his-new-memoir-the-beautiful-ones-can-t-be-pigeonholed/563845812/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 October 2019 about Dan Piepenbring, fentanyl, John L. Nelson, memoir, Super Bowl, The Beautiful Ones (book), vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/like-prince-his-new-memoir-the-beautiful-ones-can-t-be-pigeonholed/563845812/))
 
 ----
 
@@ -477,6 +477,10 @@
 ----
 
  - [**"The Estate Of Prince Rogers Nelson Selects Universal Music Group To Manage Iconic Artist's Recordings -- Deal Encompasses Prince's Grammy-Winning NPG Records, Hits from Earlier Catalogs and Vast Collection of Unreleased Works"**](https://www.prnewswire.com/news-releases/the-estate-of-prince-rogers-nelson-selects-universal-music-group-to-manage-iconic-artists-recordings-300404797.html) in [PR Newswire](https://www.prnewswire.com/) on 9 February 2017 about 3121 (album), Bravado, Charles Koppelman, merchandise, NPG Records, Universal Music Group, vault ([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/the-estate-of-prince-rogers-nelson-selects-universal-music-group-to-manage-iconic-artists-recordings-300404797.html))
+
+----
+
+ - [**"Remembering Prince’s incredible 2007 Super Bowl halftime show -- It’s the 10th anniversary of one of the best halftime shows ever."**](https://www.sbnation.com/2017/2/4/14463094/super-bowl-halftime-show-prince-2007-purple-rain-retrospective) in [www.sbnation.com](https://www.sbnation.com/) on 5 February 2017 about 1999 (song), Janet Jackson, Justin Timberlake, Let’s Go Crazy (song), Purple Rain (song), Super Bowl, Super Bowl XLI (event), vault, YouTube ([mirror](https://web.archive.org/web/*/https://www.sbnation.com/2017/2/4/14463094/super-bowl-halftime-show-prince-2007-purple-rain-retrospective))
 
 ----
 

@@ -52,6 +52,10 @@
 
 ----
 
+ - [**"Remembering Prince’s incredible 2007 Super Bowl halftime show -- It’s the 10th anniversary of one of the best halftime shows ever."**](https://www.sbnation.com/2017/2/4/14463094/super-bowl-halftime-show-prince-2007-purple-rain-retrospective) in [www.sbnation.com](https://www.sbnation.com/) on 5 February 2017 about 1999 (song), Janet Jackson, Justin Timberlake, Let’s Go Crazy (song), Purple Rain (song), Super Bowl, Super Bowl XLI (event), vault, YouTube ([mirror](https://web.archive.org/web/*/https://www.sbnation.com/2017/2/4/14463094/super-bowl-halftime-show-prince-2007-purple-rain-retrospective))
+
+----
+
  - [**"Prince’s Closest Friends Share Their Best Prince Stories -- From Van Jones to Carmen Electra, publicists to Paisley Park members, those close to Prince Rogers Nelson tell tales—ordinary and out there—of the late legend."**](https://www.gq.com/story/prince-stories) in [www.gq.com](https://www.gq.com/) on 8 December 2016 about Albert Magnoli, André Cymone, Audubon Road, Bangles, Cat Glover, Central High, Chaka Khan, Chappelle's Show (TV show), Charlie Murphy, Corey Tollefson, Dave Chappelle, Dez Dickerson, Gwen Stefani, Jeremiah Freed, Jill Jones, Kandace Springs, Lake Minnetonka (place), Larry Graham, Manuela Testolini, Mayte, Micki Free, Misty Copeland, Morris Hayes, Neal Karlen, Netflix, NPG Records, Obama, Owen Husney, piracy, St. Louis Park (place), Susanna Hoffs, The Gold Experience (album), The Revolution, Van Jones, Vanity, vault, White House (place), YouTube ([mirror](https://web.archive.org/web/*/https://www.gq.com/story/prince-stories))
 
 ----
@@ -84,7 +88,7 @@
 
 ----
 
- - [**"YouTube 'dancing baby' video with Prince music births a legal battle that won't go away"**](http://www.startribune.com/youtube-dancing-baby-video-births-a-legal-battle-that-won-t-go-away/367109661/) by James Eli Shiffer in [Minneapolis Star Tribune](http://www.startribune.com/) on 30 January 2016 about YouTube ([mirror](https://web.archive.org/web/*/http://www.startribune.com/youtube-dancing-baby-video-births-a-legal-battle-that-won-t-go-away/367109661/))
+ - [**"YouTube 'dancing baby' video with Prince music births a legal battle that won't go away"**](http://www.startribune.com/youtube-dancing-baby-video-births-a-legal-battle-that-won-t-go-away/367109661/) by James Eli Shiffer in [Minneapolis Star Tribune](http://www.startribune.com/) on 30 January 2016 about Super Bowl, YouTube ([mirror](https://web.archive.org/web/*/http://www.startribune.com/youtube-dancing-baby-video-births-a-legal-battle-that-won-t-go-away/367109661/))
 
 ----
 

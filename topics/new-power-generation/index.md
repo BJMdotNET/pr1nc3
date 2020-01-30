@@ -84,7 +84,7 @@
 
 ----
 
- - [**"Super Bowl Live concert series will include Prince tribute"**](https://apnews.com/30711cb14b744f1aa016784116c806cc) in [Associated Press News](https://apnews.com/) on 1 December 2017 about Jimmy Jam, Morris Day, Morris Day & The Time, New Power Generation, Sheila E., Terry Lewis, The Revolution, The Time ([mirror](https://web.archive.org/web/*/https://apnews.com/30711cb14b744f1aa016784116c806cc))
+ - [**"Super Bowl Live concert series will include Prince tribute"**](https://apnews.com/30711cb14b744f1aa016784116c806cc) in [Associated Press News](https://apnews.com/) on 1 December 2017 about Jimmy Jam, Morris Day, Morris Day & The Time, New Power Generation, Sheila E., Super Bowl, Terry Lewis, The Revolution, The Time ([mirror](https://web.archive.org/web/*/https://apnews.com/30711cb14b744f1aa016784116c806cc))
 
 ----
 

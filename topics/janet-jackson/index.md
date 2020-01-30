@@ -1,5 +1,9 @@
 # Janet Jackson
 
+ - [**"Pure Magic: The Oral History of Prince’s Super Bowl XLI Halftime Show -- As the heavens opened up and rain poured down, the Purple One ran through a handful of covers and some of his own songs, delivering an iconic set on the biggest stage possible and only expanding his legend"**](https://www.theringer.com/music/2020/1/29/21112539/prince-halftime-show-oral-history-super-bowl-xli) in [www.theringer.com](https://www.theringer.com/) on 29 January 2020 about 1999 (song), airport, Baby I’m a Star (song), contract, Dan Piepenbring, Darling Nikki (song), Foo Fighters, Janet Jackson, Justin Timberlake, Little Red Corvette (song), memoir, Morris Hayes, Purple Rain (song), Raspberry Beret (song), Shelby J., Super Bowl, Super Bowl XLI (event) ([mirror](https://web.archive.org/web/*/https://www.theringer.com/music/2020/1/29/21112539/prince-halftime-show-oral-history-super-bowl-xli))
+
+----
+
  - [**"In a Twin Cities living room, the Steeles cook up their 35th annual Christmas show -- The Steeles' annual Christmas show is a family affair, brewed up in a Golden Valley living room. "**](http://www.startribune.com/in-a-twin-cities-living-room-the-steeles-cook-up-their-35th-annual-christmas-show/566344542/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 December 2019 about Alexander O’Neal, contract, Janet Jackson, Justin Timberlake, Kenni Holmen, Sonny Thompson, Tommy Barbarella ([mirror](https://web.archive.org/web/*/http://www.startribune.com/in-a-twin-cities-living-room-the-steeles-cook-up-their-35th-annual-christmas-show/566344542/))
 
 ----
@@ -33,6 +37,10 @@
 ----
 
  - [**"Justin Timberlake previews Super Bowl halftime show: No Janet Jackson"**](https://apnews.com/7c4321049c904c9fa912ac8290000f23) in [Associated Press News](https://apnews.com/) on 2 February 2018 about Janet Jackson, Justin Timberlake, Super Bowl ([mirror](https://web.archive.org/web/*/https://apnews.com/7c4321049c904c9fa912ac8290000f23))
+
+----
+
+ - [**"Remembering Prince’s incredible 2007 Super Bowl halftime show -- It’s the 10th anniversary of one of the best halftime shows ever."**](https://www.sbnation.com/2017/2/4/14463094/super-bowl-halftime-show-prince-2007-purple-rain-retrospective) in [www.sbnation.com](https://www.sbnation.com/) on 5 February 2017 about 1999 (song), Janet Jackson, Justin Timberlake, Let’s Go Crazy (song), Purple Rain (song), Super Bowl, Super Bowl XLI (event), vault, YouTube ([mirror](https://web.archive.org/web/*/https://www.sbnation.com/2017/2/4/14463094/super-bowl-halftime-show-prince-2007-purple-rain-retrospective))
 
 ----
 

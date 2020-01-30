@@ -1,5 +1,9 @@
 # James Brown
 
+ - [**"The Night Prince Jammed With a Black Puma -- Before Adrian Quesada was nominated for a Best New Artist Grammy with Black Pumas, he had a brief, exhilarating brush with purple greatness"**](https://www.rollingstone.com/music/music-features/black-pumas-prince-938428/) in [Rolling Stone](https://www.rollingstone.com/) on 30 January 2020 about James Brown, Super Bowl, Usher ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/black-pumas-prince-938428/))
+
+----
+
  - [**"Did Prince flirt with prog on Around The World In A Day -- He certainly did, reckons Prog writer Joseph Stannard..."**](https://www.loudersound.com/features/did-prince-flirt-with-prog-on-around-the-world-in-a-day) in [www.loudersound.com](https://www.loudersound.com/) on 25 January 2020 about Around The World In A Day (album), James Brown, Parade (album), Pop Life (song), Raspberry Beret (song) ([mirror](https://web.archive.org/web/*/https://www.loudersound.com/features/did-prince-flirt-with-prog-on-around-the-world-in-a-day))
 
 ----
@@ -113,6 +117,10 @@
 ----
 
  - [**"Prince & The Vault: The 10 Things That Should and Shouldn’t Happen"**](https://medium.com/cuepoint/prince-the-vault-the-10-things-that-should-and-shouldnt-happen-ad96cc58999f) in [Cuepoint](https://medium.com/cuepoint/) on 19 November 2016 about 3rdEyeGirl, Alan Leeds, Apollonia 6, Batdance (song), Donna Grantis, First Avenue (place), George Clinton, Graceland, Graceland Holdings, Ingrid Chavez, James Brown, Jill Jones, Jon Bream, Joshua Welton, Kirk Johnson, LotusFlow3r (album), Mavis Staples, Mayte, museum, New Power Generation, Nothing Compares 2 U (song), Purple Music (song), Susan Rogers, The Ballad Of Dorothy Parker (song), The Gold Experience (album), vault ([mirror](https://web.archive.org/web/*/https://medium.com/cuepoint/prince-the-vault-the-10-things-that-should-and-shouldnt-happen-ad96cc58999f))
+
+----
+
+ - [**"My Surreal Time Planning Prince’s Iconic Super Bowl Performance -- As Head of Programming for the NFL, it was my job to plan Prince’s rain-soaked Super Bowl halftime show on February 4, 2007. And what a time it was."**](https://www.thedailybeast.com/my-surreal-time-planning-princes-iconic-super-bowl-performance) in [www.thedailybeast.com](https://www.thedailybeast.com/) on 14 May 2016 about 1999 (song), Foo Fighters, James Brown, Lenny Kravitz, Little Red Corvette (song), Purple Rain (song), Raspberry Beret (song), Super Bowl, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.thedailybeast.com/my-surreal-time-planning-princes-iconic-super-bowl-performance))
 
 ----
 

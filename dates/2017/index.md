@@ -22,7 +22,7 @@
 
 ----
 
- - [**"Super Bowl Live concert series will include Prince tribute"**](https://apnews.com/30711cb14b744f1aa016784116c806cc) in [Associated Press News](https://apnews.com/) on 1 December 2017 about Jimmy Jam, Morris Day, Morris Day & The Time, New Power Generation, Sheila E., Terry Lewis, The Revolution, The Time ([mirror](https://web.archive.org/web/*/https://apnews.com/30711cb14b744f1aa016784116c806cc))
+ - [**"Super Bowl Live concert series will include Prince tribute"**](https://apnews.com/30711cb14b744f1aa016784116c806cc) in [Associated Press News](https://apnews.com/) on 1 December 2017 about Jimmy Jam, Morris Day, Morris Day & The Time, New Power Generation, Sheila E., Super Bowl, Terry Lewis, The Revolution, The Time ([mirror](https://web.archive.org/web/*/https://apnews.com/30711cb14b744f1aa016784116c806cc))
 
 ----
 
@@ -472,7 +472,7 @@
 
 ----
 
- - [**"Prince left behind a treasure trove to see at Paisley Park"**](https://apnews.com/a5f775426be44b65a5cbe3d790774288) by Jeff Baenen (Associated Press) in [Associated Press News](https://apnews.com/) on 18 April 2017 about Grammy Award, museum, Purple Rain (movie) ([mirror](https://web.archive.org/web/*/https://apnews.com/a5f775426be44b65a5cbe3d790774288))
+ - [**"Prince left behind a treasure trove to see at Paisley Park"**](https://apnews.com/a5f775426be44b65a5cbe3d790774288) by Jeff Baenen (Associated Press) in [Associated Press News](https://apnews.com/) on 18 April 2017 about Grammy Award, museum, Purple Rain (movie), Super Bowl ([mirror](https://web.archive.org/web/*/https://apnews.com/a5f775426be44b65a5cbe3d790774288))
 
 ----
 
@@ -630,7 +630,7 @@
 
 ----
 
-## February 2017 (7)
+## February 2017 (8)
 
  - [**"Delta's boarding music almost rocks"**](http://www.startribune.com/delta-s-boarding-music-almost-rocks/414664093/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 24 February 2017 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/delta-s-boarding-music-almost-rocks/414664093/))
 
@@ -657,6 +657,10 @@
 ----
 
  - [**"Grammy Awards will salute Prince, George Michael on Sunday"**](http://www.startribune.com/grammy-awards-will-salute-prince-george-michael-on-sunday/413214213/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 8 February 2017 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/grammy-awards-will-salute-prince-george-michael-on-sunday/413214213/))
+
+----
+
+ - [**"Remembering Prince’s incredible 2007 Super Bowl halftime show -- It’s the 10th anniversary of one of the best halftime shows ever."**](https://www.sbnation.com/2017/2/4/14463094/super-bowl-halftime-show-prince-2007-purple-rain-retrospective) in [www.sbnation.com](https://www.sbnation.com/) on 5 February 2017 about 1999 (song), Janet Jackson, Justin Timberlake, Let’s Go Crazy (song), Purple Rain (song), Super Bowl, Super Bowl XLI (event), vault, YouTube ([mirror](https://web.archive.org/web/*/https://www.sbnation.com/2017/2/4/14463094/super-bowl-halftime-show-prince-2007-purple-rain-retrospective))
 
 ----
 
@@ -706,7 +710,7 @@
 
 ----
 
- - [**"The Estate Of Prince Rogers Nelson Signs Exclusive Worldwide Merchandise Agreement With Universal Music Group's Bravado"**](https://www.prnewswire.com/news-releases/the-estate-of-prince-rogers-nelson-signs-exclusive-worldwide-merchandise-agreement-with-universal-music-groups-bravado-300388893.html) in [PR Newswire](https://www.prnewswire.com/) on 10 January 2017 about Bravado, Charles Koppelman, merchandise, Universal Music Group ([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/the-estate-of-prince-rogers-nelson-signs-exclusive-worldwide-merchandise-agreement-with-universal-music-groups-bravado-300388893.html))
+ - [**"The Estate Of Prince Rogers Nelson Signs Exclusive Worldwide Merchandise Agreement With Universal Music Group's Bravado"**](https://www.prnewswire.com/news-releases/the-estate-of-prince-rogers-nelson-signs-exclusive-worldwide-merchandise-agreement-with-universal-music-groups-bravado-300388893.html) in [PR Newswire](https://www.prnewswire.com/) on 10 January 2017 about Bravado, Charles Koppelman, merchandise, Super Bowl, Universal Music Group ([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/the-estate-of-prince-rogers-nelson-signs-exclusive-worldwide-merchandise-agreement-with-universal-music-groups-bravado-300388893.html))
 
 ----
 

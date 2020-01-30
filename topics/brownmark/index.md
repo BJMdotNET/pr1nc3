@@ -12,7 +12,7 @@
 
 ----
 
- - [**"Prince's 'Originals' Album: Comparing Each Demo With Its Well-Known Cover Version"**](https://www.billboard.com/articles/news/8517576/prince-originals-album-covers) in [Billboard](https://www.billboard.com/) on 25 June 2019 about Alan Light, Bangles, BrownMark, Jill Jones, Morris Day, Nile Rodgers, Originals (album), Susanna Hoffs, The Revolution ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8517576/prince-originals-album-covers))
+ - [**"Prince's 'Originals' Album: Comparing Each Demo With Its Well-Known Cover Version"**](https://www.billboard.com/articles/news/8517576/prince-originals-album-covers) in [Billboard](https://www.billboard.com/) on 25 June 2019 about Alan Light, Bangles, BrownMark, Jill Jones, Morris Day, Nile Rodgers, Originals (album), Super Bowl, Super Bowl XLI (event), Susanna Hoffs, The Revolution ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8517576/prince-originals-album-covers))
 
 ----
 

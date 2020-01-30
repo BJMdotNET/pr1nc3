@@ -822,7 +822,7 @@
 
 ----
 
-## May 2016 (85)
+## May 2016 (87)
 
  - [**"Record crowd on hand as St. Paul Saints play Purple Game to remember Prince -- The St. Paul Saints gave Prince a final farewell — complete with a lot of purple, and some red Corvettes."**](http://www.startribune.com/record-crowd-on-hand-as-st-paul-saints-play-purple-game-to-remember-prince/381305401/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 30 May 2016 about Sheila E. ([mirror](https://web.archive.org/web/*/http://www.startribune.com/record-crowd-on-hand-as-st-paul-saints-play-purple-game-to-remember-prince/381305401/))
 
@@ -924,7 +924,15 @@
 
 ----
 
+ - [**"My Surreal Time Planning Prince’s Iconic Super Bowl Performance -- As Head of Programming for the NFL, it was my job to plan Prince’s rain-soaked Super Bowl halftime show on February 4, 2007. And what a time it was."**](https://www.thedailybeast.com/my-surreal-time-planning-princes-iconic-super-bowl-performance) in [www.thedailybeast.com](https://www.thedailybeast.com/) on 14 May 2016 about 1999 (song), Foo Fighters, James Brown, Lenny Kravitz, Little Red Corvette (song), Purple Rain (song), Raspberry Beret (song), Super Bowl, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.thedailybeast.com/my-surreal-time-planning-princes-iconic-super-bowl-performance))
+
+----
+
  - [**"Prince guitar to be auctioned in Beverly Hills"**](http://www.startribune.com/prince-guitar-to-be-auctioned-in-beverly-hills/379533661/) by Derrik J. Lang (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 14 May 2016 about auction ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-guitar-to-be-auctioned-in-beverly-hills/379533661/))
+
+----
+
+ - [**"When Prince Presented the NFL With His Super Bowl Halftime Show Idea, He Literally Gave Everyone Tissues to Wipe Their Tears Away"**](https://www.vulture.com/2016/05/story-behind-princes-super-bowl-performance.html) in [Vulture](https://www.vulture.com/) on 14 May 2016 about Purple Rain (song), Super Bowl ([mirror](https://web.archive.org/web/*/https://www.vulture.com/2016/05/story-behind-princes-super-bowl-performance.html))
 
 ----
 
@@ -1430,11 +1438,11 @@
 
 ----
 
- - [**"Nashville mourns a Prince"**](https://eu.tennessean.com/story/entertainment/music/2016/04/21/nashville-musicians-remember-prince/83340932/) in [Tennessean](https://tennessean.com/) on 22 April 2016 about Laura LiPuma, museum ([mirror](https://web.archive.org/web/*/https://eu.tennessean.com/story/entertainment/music/2016/04/21/nashville-musicians-remember-prince/83340932/))
+ - [**"Nashville mourns a Prince"**](https://eu.tennessean.com/story/entertainment/music/2016/04/21/nashville-musicians-remember-prince/83340932/) in [Tennessean](https://tennessean.com/) on 22 April 2016 about Laura LiPuma, museum, Super Bowl ([mirror](https://web.archive.org/web/*/https://eu.tennessean.com/story/entertainment/music/2016/04/21/nashville-musicians-remember-prince/83340932/))
 
 ----
 
- - [**"Obituary: Prince was a diminutive giant who revolutionized pop -- Though he was a puzzle at times, the rocker was a true Minnesotan who changed music more than once in a nearly 40-year career."**](http://www.startribune.com/jon-bream-prince-was-a-once-in-a-generation-artist-who-never-rested-on-his-laurels/376594221/) by Chris Riemenschneider, Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 April 2016 about André Cymone, First Avenue (place), Grammy Award, John Nelson, Let’s Go Crazy (song), Little Red Corvette (song), Mayte, Mayte Garcia, Obama, Super Bowl, Tyka Nelson, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/jon-bream-prince-was-a-once-in-a-generation-artist-who-never-rested-on-his-laurels/376594221/))
+ - [**"Obituary: Prince was a diminutive giant who revolutionized pop -- Though he was a puzzle at times, the rocker was a true Minnesotan who changed music more than once in a nearly 40-year career."**](http://www.startribune.com/jon-bream-prince-was-a-once-in-a-generation-artist-who-never-rested-on-his-laurels/376594221/) by Chris Riemenschneider, Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 April 2016 about André Cymone, First Avenue (place), Grammy Award, John Nelson, Let’s Go Crazy (song), Little Red Corvette (song), Mayte, Mayte Garcia, Obama, Super Bowl, Super Bowl XLI (event), Tyka Nelson, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/jon-bream-prince-was-a-once-in-a-generation-artist-who-never-rested-on-his-laurels/376594221/))
 
 ----
 
@@ -1498,7 +1506,7 @@
 
 ----
 
- - [**"AXS TV Celebrates The Life And Legacy Of Music Icon Prince With A Special Programming Lineup On Saturday, April 23 -- The Tribute Features the Prince Edition of ROCK LEGENDS at 1 P.M. ET/10 A.M. PT, and the Television Premiere of the Acclaimed Documentary SLAVE TRADE: HOW PRINCE RE-MADE THE MUSIC BUSINESS at 2 P.M. ET/11 A.M. PT"**](https://www.prnewswire.com/news-releases/axs-tv-celebrates-the-life-and-legacy-of-music-icon-prince-with-a-special-programming-lineup-on-saturday-april-23-300255801.html) in [PR Newswire](https://www.prnewswire.com/) on 21 April 2016 about Slave Trade: How Prince Re-Made the Music Business (documentary) ([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/axs-tv-celebrates-the-life-and-legacy-of-music-icon-prince-with-a-special-programming-lineup-on-saturday-april-23-300255801.html))
+ - [**"AXS TV Celebrates The Life And Legacy Of Music Icon Prince With A Special Programming Lineup On Saturday, April 23 -- The Tribute Features the Prince Edition of ROCK LEGENDS at 1 P.M. ET/10 A.M. PT, and the Television Premiere of the Acclaimed Documentary SLAVE TRADE: HOW PRINCE RE-MADE THE MUSIC BUSINESS at 2 P.M. ET/11 A.M. PT"**](https://www.prnewswire.com/news-releases/axs-tv-celebrates-the-life-and-legacy-of-music-icon-prince-with-a-special-programming-lineup-on-saturday-april-23-300255801.html) in [PR Newswire](https://www.prnewswire.com/) on 21 April 2016 about Slave Trade: How Prince Re-Made the Music Business (documentary), Super Bowl ([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/axs-tv-celebrates-the-life-and-legacy-of-music-icon-prince-with-a-special-programming-lineup-on-saturday-april-23-300255801.html))
 
 ----
 
@@ -1534,7 +1542,7 @@
 
 ----
 
- - [**"Prince dead at Paisley Park estate in Minnesota"**](http://www.fox9.com/news/emergency-medical-response-at-paisley-park) in [Fox 9](http://www.fox9.com/) on 21 April 2016 about Atlanta (place), Carver County, First Avenue (place), Illinois (place), Jim Olson, Little Red Corvette (song), Minnesota Twins, Moline, Illinois (place), Obama, Paisley Park Studios (place), Super Bowl, TMZ (website), When Doves Cry (song) ([mirror](https://web.archive.org/web/*/http://www.fox9.com/news/emergency-medical-response-at-paisley-park))
+ - [**"Prince dead at Paisley Park estate in Minnesota"**](http://www.fox9.com/news/emergency-medical-response-at-paisley-park) in [Fox 9](http://www.fox9.com/) on 21 April 2016 about Atlanta (place), Carver County, First Avenue (place), Illinois (place), Jim Olson, Little Red Corvette (song), Minnesota Twins, Moline, Illinois (place), Obama, Paisley Park Studios (place), Super Bowl, Super Bowl XLI (event), TMZ (website), When Doves Cry (song) ([mirror](https://web.archive.org/web/*/http://www.fox9.com/news/emergency-medical-response-at-paisley-park))
 
 ----
 
@@ -1632,7 +1640,7 @@
 
 ----
 
- - [**"Prince says he’s writing a memoir, performs for NYC audience"**](https://apnews.com/d3224f63097842a7a4a8c9e7705ede02) in [Associated Press News](https://apnews.com/) on 19 March 2016 about memoir, Penguin Random House, Spiegel & Grau, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/https://apnews.com/d3224f63097842a7a4a8c9e7705ede02))
+ - [**"Prince says he’s writing a memoir, performs for NYC audience"**](https://apnews.com/d3224f63097842a7a4a8c9e7705ede02) in [Associated Press News](https://apnews.com/) on 19 March 2016 about memoir, Penguin Random House, Spiegel & Grau, Super Bowl, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/https://apnews.com/d3224f63097842a7a4a8c9e7705ede02))
 
 ----
 
@@ -1688,7 +1696,7 @@
 
 ## January 2016 (7)
 
- - [**"YouTube 'dancing baby' video with Prince music births a legal battle that won't go away"**](http://www.startribune.com/youtube-dancing-baby-video-births-a-legal-battle-that-won-t-go-away/367109661/) by James Eli Shiffer in [Minneapolis Star Tribune](http://www.startribune.com/) on 30 January 2016 about YouTube ([mirror](https://web.archive.org/web/*/http://www.startribune.com/youtube-dancing-baby-video-births-a-legal-battle-that-won-t-go-away/367109661/))
+ - [**"YouTube 'dancing baby' video with Prince music births a legal battle that won't go away"**](http://www.startribune.com/youtube-dancing-baby-video-births-a-legal-battle-that-won-t-go-away/367109661/) by James Eli Shiffer in [Minneapolis Star Tribune](http://www.startribune.com/) on 30 January 2016 about Super Bowl, YouTube ([mirror](https://web.archive.org/web/*/http://www.startribune.com/youtube-dancing-baby-video-births-a-legal-battle-that-won-t-go-away/367109661/))
 
 ----
 

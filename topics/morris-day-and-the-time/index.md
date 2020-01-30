@@ -28,6 +28,10 @@
 
 ----
 
+ - [**"Prince Is Getting an All-Star Grammy Tribute Concert -- Alicia Keys, John Legend, Usher, Foo Fighters, Beck set to perform with musical director Sheila E."**](https://www.rollingstone.com/music/music-news/prince-grammys-tribute-concert-934548/) in [Rolling Stone](https://www.rollingstone.com/) on 9 January 2020 about Alicia Keys, Aretha Franklin, Bangles, Beck, Bobby Z., Chris Martin, Earth, Wind & Fire, Foo Fighters, Grammy Award, H.E.R., Jimmy Jam, John Legend, Juanes, Ken Ehrlich, Let’s Go Crazy (song), Los Angeles Convention Center (place), Manic Monday (song), Mavis Staples, Morris Day, Morris Day and The Time, Sheila E., St. Vincent, Stevie Wonder, Susanna Hoffs, Terry Lewis, The Glamorous Life (song), The Revolution, The Time, Usher ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-news/prince-grammys-tribute-concert-934548/))
+
+----
+
  - [**"Prince To Receive All-Star GRAMMY Tribute Concert Featuring Beck, Alicia Keys, John Legend And More -- The Recording Academy is honoring the legacy of the seven-time GRAMMY winner with a special celebration featuring some of music's biggest stars and Prince's most celebrated friends and collaborators"**](https://www.grammy.com/grammys/news/prince-receive-all-star-grammy-tribute-concert-featuring-beck-alicia-keys-john-legend) in [The GRAMMYs](https://www.grammy.com/) on 9 January 2020 about Alicia Keys, Beck, Chris Martin, Coldplay, Earth, Wind & Fire, Foo Fighters, Gary Clark Jr., Grammy Award, H.E.R., Jimmy Jam, John Legend, Juanes, Los Angeles Convention Center (place), Mavis Staples, Morris Day, Morris Day and The Time, Sheila E., St. Vincent, Susanna Hoffs, Terry Lewis, The Revolution, The Time, Usher, Warner Bros. Records ([mirror](https://web.archive.org/web/*/https://www.grammy.com/grammys/news/prince-receive-all-star-grammy-tribute-concert-featuring-beck-alicia-keys-john-legend))
 
 ----

@@ -874,7 +874,7 @@
 
 ----
 
- - [**"Like Prince, his new memoir 'The Beautiful Ones' can't be pigeonholed -- Filled with ephemera, photos and philosophy, "The Beautiful Ones" is incomplete yet revealing. "**](http://www.startribune.com/like-prince-his-new-memoir-the-beautiful-ones-can-t-be-pigeonholed/563845812/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 October 2019 about Dan Piepenbring, fentanyl, John L. Nelson, memoir, The Beautiful Ones (book), vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/like-prince-his-new-memoir-the-beautiful-ones-can-t-be-pigeonholed/563845812/))
+ - [**"Like Prince, his new memoir 'The Beautiful Ones' can't be pigeonholed -- Filled with ephemera, photos and philosophy, "The Beautiful Ones" is incomplete yet revealing. "**](http://www.startribune.com/like-prince-his-new-memoir-the-beautiful-ones-can-t-be-pigeonholed/563845812/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 October 2019 about Dan Piepenbring, fentanyl, John L. Nelson, memoir, Super Bowl, The Beautiful Ones (book), vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/like-prince-his-new-memoir-the-beautiful-ones-can-t-be-pigeonholed/563845812/))
 
 ----
 
@@ -1526,7 +1526,7 @@
 
 ----
 
- - [**"Prince store at MSP gives travelers a glimpse at superstar's Minnesota life -- Terminal shop organized around parts of Minnesota musician's life to lure fans."**](http://www.startribune.com/prince-store-at-msp-gives-travelers-a-glimpse-at-superstar-s-minnesota-life/556690022/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 August 2019 about airport, Bravado, DJ Dudley D, merchandise, Minneapolis-St. Paul International Airport (place), museum, Prince Estate, The Prince Estate ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-store-at-msp-gives-travelers-a-glimpse-at-superstar-s-minnesota-life/556690022/))
+ - [**"Prince store at MSP gives travelers a glimpse at superstar's Minnesota life -- Terminal shop organized around parts of Minnesota musician's life to lure fans."**](http://www.startribune.com/prince-store-at-msp-gives-travelers-a-glimpse-at-superstar-s-minnesota-life/556690022/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 August 2019 about airport, Bravado, DJ Dudley D, merchandise, Minneapolis-St. Paul International Airport (place), museum, Prince Estate, Super Bowl, The Prince Estate ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-store-at-msp-gives-travelers-a-glimpse-at-superstar-s-minnesota-life/556690022/))
 
 ----
 
@@ -1652,7 +1652,7 @@
 
 ----
 
- - [**"Rapper Cardi B delivered a sharp but too-short show, with plenty of wisecracks -- The Bronx native became the first female rapper to fill a local arena at Target Center, and her performance convincingly showed why."**](http://www.startribune.com/rapper-cardi-b-s-short-minneapolis-set-still-a-big-deal-on-several-fronts/513303462/) by Nicole Neri in [Minneapolis Star Tribune](http://www.startribune.com/) on 27 July 2019 about I Would Die 4 U (song), Lizzo ([mirror](https://web.archive.org/web/*/http://www.startribune.com/rapper-cardi-b-s-short-minneapolis-set-still-a-big-deal-on-several-fronts/513303462/))
+ - [**"Rapper Cardi B delivered a sharp but too-short show, with plenty of wisecracks -- The Bronx native became the first female rapper to fill a local arena at Target Center, and her performance convincingly showed why."**](http://www.startribune.com/rapper-cardi-b-s-short-minneapolis-set-still-a-big-deal-on-several-fronts/513303462/) by Nicole Neri in [Minneapolis Star Tribune](http://www.startribune.com/) on 27 July 2019 about I Would Die 4 U (song), Lizzo, Super Bowl ([mirror](https://web.archive.org/web/*/http://www.startribune.com/rapper-cardi-b-s-short-minneapolis-set-still-a-big-deal-on-several-fronts/513303462/))
 
 ----
 
@@ -1854,7 +1854,7 @@
 
 ----
 
- - [**"Prince's 'Originals' Album: Comparing Each Demo With Its Well-Known Cover Version"**](https://www.billboard.com/articles/news/8517576/prince-originals-album-covers) in [Billboard](https://www.billboard.com/) on 25 June 2019 about Alan Light, Bangles, BrownMark, Jill Jones, Morris Day, Nile Rodgers, Originals (album), Susanna Hoffs, The Revolution ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8517576/prince-originals-album-covers))
+ - [**"Prince's 'Originals' Album: Comparing Each Demo With Its Well-Known Cover Version"**](https://www.billboard.com/articles/news/8517576/prince-originals-album-covers) in [Billboard](https://www.billboard.com/) on 25 June 2019 about Alan Light, Bangles, BrownMark, Jill Jones, Morris Day, Nile Rodgers, Originals (album), Super Bowl, Super Bowl XLI (event), Susanna Hoffs, The Revolution ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8517576/prince-originals-album-covers))
 
 ----
 
@@ -2154,7 +2154,7 @@
 
 ----
 
- - [**"Prince memoir ‘The Beautiful Ones’ coming out in the fall"**](https://apnews.com/0c8b1deaae3b4329905d848b284f044b) by Hillel Italie (Associated Press) in [Associated Press News](https://apnews.com/) on 22 April 2019 about Chris Jackson, Dan Piepenbring, Esther Newberg, fentanyl, memoir, Purple Rain (movie), Random House , The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/https://apnews.com/0c8b1deaae3b4329905d848b284f044b))
+ - [**"Prince memoir ‘The Beautiful Ones’ coming out in the fall"**](https://apnews.com/0c8b1deaae3b4329905d848b284f044b) by Hillel Italie (Associated Press) in [Associated Press News](https://apnews.com/) on 22 April 2019 about Chris Jackson, Dan Piepenbring, Esther Newberg, fentanyl, memoir, Purple Rain (movie), Random House , Super Bowl, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/https://apnews.com/0c8b1deaae3b4329905d848b284f044b))
 
 ----
 

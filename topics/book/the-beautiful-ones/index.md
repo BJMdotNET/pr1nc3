@@ -24,6 +24,10 @@
 
 ----
 
+ - [**"Kritik: Prince „The Beautiful Ones“ – Skizzen eines Lebens -- Zwei Monate vor seinem Tod begann Prince mit der Niederschrift seiner Memoiren – nun wurde das Fragment „The Beautiful Ones“ veröffentlicht"**](https://www.rollingstone.de/prince-the-beautiful-ones-1871895/) in [Rolling Stone (Germany)](https://www.rollingstone.de/) on 4 January 2020 about Dan Piepenbring, memoir, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.de/prince-the-beautiful-ones-1871895/))
+
+----
+
  - [**"6 must-read music books and memoirs for 2020"**](https://rollingout.com/2019/12/22/6-must-read-music-books-and-memoirs-for-2020/) in [rollingout.com](https://rollingout.com/) on 22 December 2019 about Dan Piepenbring, memoir, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/https://rollingout.com/2019/12/22/6-must-read-music-books-and-memoirs-for-2020/))
 
 ----
@@ -360,7 +364,7 @@
 
 ----
 
- - [**"Like Prince, his new memoir 'The Beautiful Ones' can't be pigeonholed -- Filled with ephemera, photos and philosophy, "The Beautiful Ones" is incomplete yet revealing. "**](http://www.startribune.com/like-prince-his-new-memoir-the-beautiful-ones-can-t-be-pigeonholed/563845812/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 October 2019 about Dan Piepenbring, fentanyl, John L. Nelson, memoir, The Beautiful Ones (book), vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/like-prince-his-new-memoir-the-beautiful-ones-can-t-be-pigeonholed/563845812/))
+ - [**"Like Prince, his new memoir 'The Beautiful Ones' can't be pigeonholed -- Filled with ephemera, photos and philosophy, "The Beautiful Ones" is incomplete yet revealing. "**](http://www.startribune.com/like-prince-his-new-memoir-the-beautiful-ones-can-t-be-pigeonholed/563845812/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 October 2019 about Dan Piepenbring, fentanyl, John L. Nelson, memoir, Super Bowl, The Beautiful Ones (book), vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/like-prince-his-new-memoir-the-beautiful-ones-can-t-be-pigeonholed/563845812/))
 
 ----
 
@@ -452,7 +456,7 @@
 
 ----
 
- - [**"Prince memoir ‘The Beautiful Ones’ coming out in the fall"**](https://apnews.com/0c8b1deaae3b4329905d848b284f044b) by Hillel Italie (Associated Press) in [Associated Press News](https://apnews.com/) on 22 April 2019 about Chris Jackson, Dan Piepenbring, Esther Newberg, fentanyl, memoir, Purple Rain (movie), Random House , The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/https://apnews.com/0c8b1deaae3b4329905d848b284f044b))
+ - [**"Prince memoir ‘The Beautiful Ones’ coming out in the fall"**](https://apnews.com/0c8b1deaae3b4329905d848b284f044b) by Hillel Italie (Associated Press) in [Associated Press News](https://apnews.com/) on 22 April 2019 about Chris Jackson, Dan Piepenbring, Esther Newberg, fentanyl, memoir, Purple Rain (movie), Random House , Super Bowl, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/https://apnews.com/0c8b1deaae3b4329905d848b284f044b))
 
 ----
 
@@ -480,7 +484,7 @@
 
 ----
 
- - [**"Prince says he’s writing a memoir, performs for NYC audience"**](https://apnews.com/d3224f63097842a7a4a8c9e7705ede02) in [Associated Press News](https://apnews.com/) on 19 March 2016 about memoir, Penguin Random House, Spiegel & Grau, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/https://apnews.com/d3224f63097842a7a4a8c9e7705ede02))
+ - [**"Prince says he’s writing a memoir, performs for NYC audience"**](https://apnews.com/d3224f63097842a7a4a8c9e7705ede02) in [Associated Press News](https://apnews.com/) on 19 March 2016 about memoir, Penguin Random House, Spiegel & Grau, Super Bowl, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/https://apnews.com/d3224f63097842a7a4a8c9e7705ede02))
 
 ----
 

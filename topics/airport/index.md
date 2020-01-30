@@ -1,5 +1,9 @@
 # airport
 
+ - [**"Pure Magic: The Oral History of Prince’s Super Bowl XLI Halftime Show -- As the heavens opened up and rain poured down, the Purple One ran through a handful of covers and some of his own songs, delivering an iconic set on the biggest stage possible and only expanding his legend"**](https://www.theringer.com/music/2020/1/29/21112539/prince-halftime-show-oral-history-super-bowl-xli) in [www.theringer.com](https://www.theringer.com/) on 29 January 2020 about 1999 (song), airport, Baby I’m a Star (song), contract, Dan Piepenbring, Darling Nikki (song), Foo Fighters, Janet Jackson, Justin Timberlake, Little Red Corvette (song), memoir, Morris Hayes, Purple Rain (song), Raspberry Beret (song), Shelby J., Super Bowl, Super Bowl XLI (event) ([mirror](https://web.archive.org/web/*/https://www.theringer.com/music/2020/1/29/21112539/prince-halftime-show-oral-history-super-bowl-xli))
+
+----
+
  - [**"Massive Prince Mural Coming To MSP’s Terminal 1"**](https://minnesota.cbslocal.com/2020/01/24/massive-prince-mural-coming-to-msps-terminal-1/) in [WCCO - CBS Minnesota](https://minnesota.cbslocal.com/) on 24 January 2020 about airport, I Would Die 4 U (song), Minneapolis-St. Paul International Airport (place), museum, University of Minnesota ([mirror](https://web.archive.org/web/*/https://minnesota.cbslocal.com/2020/01/24/massive-prince-mural-coming-to-msps-terminal-1/))
 
 ----
@@ -28,7 +32,7 @@
 
 ----
 
- - [**"Prince store at MSP gives travelers a glimpse at superstar's Minnesota life -- Terminal shop organized around parts of Minnesota musician's life to lure fans."**](http://www.startribune.com/prince-store-at-msp-gives-travelers-a-glimpse-at-superstar-s-minnesota-life/556690022/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 August 2019 about airport, Bravado, DJ Dudley D, merchandise, Minneapolis-St. Paul International Airport (place), museum, Prince Estate, The Prince Estate ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-store-at-msp-gives-travelers-a-glimpse-at-superstar-s-minnesota-life/556690022/))
+ - [**"Prince store at MSP gives travelers a glimpse at superstar's Minnesota life -- Terminal shop organized around parts of Minnesota musician's life to lure fans."**](http://www.startribune.com/prince-store-at-msp-gives-travelers-a-glimpse-at-superstar-s-minnesota-life/556690022/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 August 2019 about airport, Bravado, DJ Dudley D, merchandise, Minneapolis-St. Paul International Airport (place), museum, Prince Estate, Super Bowl, The Prince Estate ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-store-at-msp-gives-travelers-a-glimpse-at-superstar-s-minnesota-life/556690022/))
 
 ----
 

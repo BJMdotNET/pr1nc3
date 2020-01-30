@@ -28,7 +28,7 @@
 
 ----
 
- - [**"Prince dead at Paisley Park estate in Minnesota"**](http://www.fox9.com/news/emergency-medical-response-at-paisley-park) in [Fox 9](http://www.fox9.com/) on 21 April 2016 about Atlanta (place), Carver County, First Avenue (place), Illinois (place), Jim Olson, Little Red Corvette (song), Minnesota Twins, Moline, Illinois (place), Obama, Paisley Park Studios (place), Super Bowl, TMZ (website), When Doves Cry (song) ([mirror](https://web.archive.org/web/*/http://www.fox9.com/news/emergency-medical-response-at-paisley-park))
+ - [**"Prince dead at Paisley Park estate in Minnesota"**](http://www.fox9.com/news/emergency-medical-response-at-paisley-park) in [Fox 9](http://www.fox9.com/) on 21 April 2016 about Atlanta (place), Carver County, First Avenue (place), Illinois (place), Jim Olson, Little Red Corvette (song), Minnesota Twins, Moline, Illinois (place), Obama, Paisley Park Studios (place), Super Bowl, Super Bowl XLI (event), TMZ (website), When Doves Cry (song) ([mirror](https://web.archive.org/web/*/http://www.fox9.com/news/emergency-medical-response-at-paisley-park))
 
 ----
 
