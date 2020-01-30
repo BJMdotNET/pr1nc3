@@ -1,5 +1,13 @@
 # Grammy Award
 
+ - [**"Grammy’s Prince “Tribute” is Everything But"**](https://vocal.media/beat/let-s-go-insane-a9c30s63) in [vocal.media](https://vocal.media/) on 29 January 2020 about Grammy Award, Juanes, Let’s Go Crazy (song), Let's Go Crazy: The Grammy Salute to Prince (event), Los Angeles Convention Center (place), Purple Rain (song), The Revolution, Trump, Usher ([mirror](https://web.archive.org/web/*/https://vocal.media/beat/let-s-go-insane-a9c30s63))
+
+----
+
+ - [**"H.E.R., Gary Clark Jr., Dave Grohl and More Go Crazy For 'The Grammy Salute to Prince'"**](https://www.billboard.com/articles/news/television/8549551/grammy-salute-prince-taping-recap) in [Billboard](https://www.billboard.com/) on 29 January 2020 about 1999 (song), Baby I’m a Star (song), Bangles, Beck, Chris Martin, Coldplay, Controversy (song), Darling Nikki (song), Earth, Wind & Fire, Foo Fighters, Gary Clark Jr., Grammy Award, H.E.R., I Would Die 4 U (song), Jellybean Johnson, Jerome Benton, Jimmy Jam, John Legend, Juanes, Jungle Love (song), Ken Ehrlich, Let’s Go Crazy (song), Los Angeles Convention Center (place), Manic Monday (song), Mavis Staples, Maya Rudolph, Misty Copeland, Morris Day, Mountains (song), Pop Life (song), Prince Estate, Purple Rain (song), Raspberry Beret (song), Sheila E., St. Vincent, Susanna Hoffs, Terry Lewis, The Beautiful Ones (song), The Bird (song), The Glamorous Life (song), The Prince Estate, The Revolution, The Time ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/television/8549551/grammy-salute-prince-taping-recap))
+
+----
+
  - [**"Grammy Awards: Usher’s musical tribute to Prince divides fans -- He delivered a medley of The Purple One's biggest hits"**](https://www.nme.com/news/music/grammy-awards-ushers-musical-tribute-to-prince-divides-fans-2601402) in [NME (New Musical Express)](https://www.nme.com/) on 27 January 2020 about FKA twigs, Grammy Award, John Legend, Lizzo, Usher, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.nme.com/news/music/grammy-awards-ushers-musical-tribute-to-prince-divides-fans-2601402))
 
 ----
@@ -145,6 +153,14 @@
 ----
 
  - [**"Movie Inspired by Prince’s Music in the Works at Universal (EXCLUSIVE)"**](https://variety.com/2018/film/news/universal-original-movie-inspired-by-princes-music-1203067739/) in [Variety](https://variety.com/) on 3 December 2018 about Academy Award, Grammy Award, Purple Rain (movie), Troy Carter, Universal Music Publishing Group, Universal Pictures ([mirror](https://web.archive.org/web/*/https://variety.com/2018/film/news/universal-original-movie-inspired-by-princes-music-1203067739/))
+
+----
+
+ - [**"KEW MEDIA DISTRIBUTION Assembles Massive Slate of New Projects Ahead of AFM"**](https://www.businesswire.com/news/home/20181031005865/en/) in [Business Wire](https://www.businesswire.com/) on 31 October 2018 about American Film Market, Chaka Khan, Daniel D’or, Grammy Award, Kew Media Distribution, Macy Gray, Michael J. Kirk, Mr. Nelson: On the North Side (documentary), Spike Moss ([mirror](https://web.archive.org/web/*/https://www.businesswire.com/news/home/20181031005865/en/))
+
+----
+
+ - [**"KEW MEDIA DISTRIBUTION Assembles Massive Slate of New Projects Ahead of AFM"**](https://apnews.com/BusinessWire/418ba9bb1ee245ee9c3fb0cb4202aa3d) in [Associated Press News](https://apnews.com/) on 31 October 2018 about American Film Market, Chaka Khan, Daniel D’or, Grammy Award, Kew Media Distribution, Macy Gray, Michael J. Kirk, Mr. Nelson: On the North Side (documentary), Spike Moss ([mirror](https://web.archive.org/web/*/https://apnews.com/BusinessWire/418ba9bb1ee245ee9c3fb0cb4202aa3d))
 
 ----
 

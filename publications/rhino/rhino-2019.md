@@ -18,6 +18,12 @@
 
 ----
 
+## July 2019 (1)
+
+ - [**"Prince ORIGINALS with archivist Michael Howe"**](https://www.rhino.com/podcast/prince-originals-with-archivist-michael-howe) in [Rhino](https://www.rhino.com/) on 19 July 2019 about Michael Howe, Originals (album), vault ([mirror](https://web.archive.org/web/*/https://www.rhino.com/podcast/prince-originals-with-archivist-michael-howe))
+
+----
+
 ## June 2019 (1)
 
  - [**"Single Stories: Prince, “Manic Monday”"**](https://www.rhino.com/article/single-stories-prince-manic-monday) in [Rhino](https://www.rhino.com/) on 24 June 2019 about Bangles, Susanna Hoffs ([mirror](https://web.archive.org/web/*/https://www.rhino.com/article/single-stories-prince-manic-monday))

@@ -1,5 +1,9 @@
 # Usher
 
+ - [**"Grammy’s Prince “Tribute” is Everything But"**](https://vocal.media/beat/let-s-go-insane-a9c30s63) in [vocal.media](https://vocal.media/) on 29 January 2020 about Grammy Award, Juanes, Let’s Go Crazy (song), Let's Go Crazy: The Grammy Salute to Prince (event), Los Angeles Convention Center (place), Purple Rain (song), The Revolution, Trump, Usher ([mirror](https://web.archive.org/web/*/https://vocal.media/beat/let-s-go-insane-a9c30s63))
+
+----
+
  - [**"Grammy Awards: Usher’s musical tribute to Prince divides fans -- He delivered a medley of The Purple One's biggest hits"**](https://www.nme.com/news/music/grammy-awards-ushers-musical-tribute-to-prince-divides-fans-2601402) in [NME (New Musical Express)](https://www.nme.com/) on 27 January 2020 about FKA twigs, Grammy Award, John Legend, Lizzo, Usher, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.nme.com/news/music/grammy-awards-ushers-musical-tribute-to-prince-divides-fans-2601402))
 
 ----

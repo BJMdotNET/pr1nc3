@@ -658,7 +658,7 @@
 
 ----
 
- - [**"Random House’s Chris Jackson on the Creation of Prince’s THE BEAUTIFUL ONES: “A Handbook for the Brilliant Community”"**](https://www.webwire.com/ViewPressRel.asp?aId=249276) in [www.webwire.com](https://www.webwire.com/) on 31 October 2019 about Chris Jackson, Dan Piepenbring, memoir, Spiegel & Grau, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/https://www.webwire.com/ViewPressRel.asp?aId=249276))
+ - [**"Random House’s Chris Jackson on the Creation of Prince’s THE BEAUTIFUL ONES: “A Handbook for the Brilliant Community”"**](https://www.webwire.com/ViewPressRel.asp?aId=249276) in [WebWire](https://www.webwire.com/) on 31 October 2019 about Chris Jackson, Dan Piepenbring, memoir, Spiegel & Grau, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/https://www.webwire.com/ViewPressRel.asp?aId=249276))
 
 ----
 
@@ -1118,7 +1118,7 @@
 
 ----
 
-## September 2019 (69)
+## September 2019 (71)
 
  - [**"Deborah Allen talks about 40-year career in country music, Prince -- Veteran country singer-songwriter Deborah Allen chatted with Digital Journal about her 40-year career in the country music scene."**](http://www.digitaljournal.com/entertainment/music/deborah-allen-talks-about-40-year-career-in-country-music-prince/article/558910) in [Digital Journal](http://www.digitaljournal.com/) on 30 September 2019 about Celebration, Deborah Allen ([mirror](https://web.archive.org/web/*/http://www.digitaljournal.com/entertainment/music/deborah-allen-talks-about-40-year-career-in-country-music-prince/article/558910))
 
@@ -1137,6 +1137,10 @@
 ----
 
  - [**"Prince and his lost comic book past get animated for a posthumous promo"**](https://www.digitalartsonline.co.uk/features/motion-graphics/prince-his-lost-comic-book-past-get-animated-for-posthumous-promo/) in [Digital Arts](https://www.digitalartsonline.co.uk/) on 27 September 2019 about Electric Light Studios, Holly Rock (song), Krush Groove (movie), Originals (album), Prince: Alter Ego, Sheila E. ([mirror](https://web.archive.org/web/*/https://www.digitalartsonline.co.uk/features/motion-graphics/prince-his-lost-comic-book-past-get-animated-for-posthumous-promo/))
+
+----
+
+ - [**"Santa Fe Art Institute and “the Art of Change:” a Night of Film, Music and Art Celebrating Catalytic Artists That Change the World -- Exclusive screening of Prince documentary “Mr. Nelson: On the North Side” performance by Brian Hardgroove, and support from Sennheiser"**](https://www.webwire.com/ViewPressRel.asp?aId=247590) in [WebWire](https://www.webwire.com/) on 26 September 2019 about Belling The Cat, Brian Hardgroove, Kirk Fera, Mr. Nelson: On the North Side (documentary) ([mirror](https://web.archive.org/web/*/https://www.webwire.com/ViewPressRel.asp?aId=247590))
 
 ----
 
@@ -1392,6 +1396,10 @@
 
 ----
 
+ - [**"‘A full and fantastic evening’"**](https://www.abqjournal.com/1360440/a-full-and-fantastic-evening.html) in [www.abqjournal.com](https://www.abqjournal.com/) on 1 September 2019 about Belling The Cat, Brian Hardgroove, Kirk Fera, Mr. Nelson: On the North Side (documentary) ([mirror](https://web.archive.org/web/*/https://www.abqjournal.com/1360440/a-full-and-fantastic-evening.html))
+
+----
+
  - [**"Alfred Jackson, half brother of Prince, has died -- The 66-year-old died of apparent natural causes, reports say."**](https://bringmethenews.com/minnesota-news/alfred-jackson-half-brother-of-prince-has-died) in [Bring Me The News](https://bringmethenews.com/) on 1 September 2019 about Alfred Jackson, TMZ (website), Tyka Nelson ([mirror](https://web.archive.org/web/*/https://bringmethenews.com/minnesota-news/alfred-jackson-half-brother-of-prince-has-died))
 
 ----
@@ -1634,7 +1642,7 @@
 
 ----
 
-## July 2019 (44)
+## July 2019 (46)
 
  - [**"Designer Laura LiPuma Nash talks directing Prince’s iconic album packages from ‘Purple Rain’ to ‘Lovesexy’"**](https://blog.thecurrent.org/2019/07/designer-laura-lipuma-nash-talks-directing-princes-iconic-album-packages-from-purple-rain-to-lovesexy/) by Lydia Moran in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 30 July 2019 about Chanhassen Dinner Theatres, Guys and Dolls, Housequake (song), Jeff Katz, Laura LiPuma, Lenny Waronker, Lovesexy (album), Parade (album), Purple Rain (album), Sign O' The Times (album), U Got the Look (song), Under the Cherry Moon (movie), When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2019/07/designer-laura-lipuma-nash-talks-directing-princes-iconic-album-packages-from-purple-rain-to-lovesexy/))
 
@@ -1684,7 +1692,7 @@
 
 ----
 
- - [**"Interview: Tal Wilkenfeld on ‘Love Remains,’ Collaborating with Prince and More"**](https://relix.com/articles/detail/interview-tal-wilkenfeld-on-love-remains-collaborating-with-prince-and-more/) by Dean Budnick in [relix](https://relix.com/) on 23 July 2019 about Jack DeJohnette, Tal Wilkenfeld ([mirror](https://web.archive.org/web/*/https://relix.com/articles/detail/interview-tal-wilkenfeld-on-love-remains-collaborating-with-prince-and-more/))
+ - [**"Interview: Tal Wilkenfeld on ‘Love Remains,’ Collaborating with Prince and More"**](https://relix.com/articles/detail/interview-tal-wilkenfeld-on-love-remains-collaborating-with-prince-and-more/) by Dean Budnick in [relix](https://relix.com/) on 23 July 2019 about Billy Gibbons, Jack DeJohnette, Tal Wilkenfeld ([mirror](https://web.archive.org/web/*/https://relix.com/articles/detail/interview-tal-wilkenfeld-on-love-remains-collaborating-with-prince-and-more/))
 
 ----
 
@@ -1708,6 +1716,10 @@
 
 ----
 
+ - [**"Prince ORIGINALS with archivist Michael Howe"**](https://www.rhino.com/podcast/prince-originals-with-archivist-michael-howe) in [Rhino](https://www.rhino.com/) on 19 July 2019 about Michael Howe, Originals (album), vault ([mirror](https://web.archive.org/web/*/https://www.rhino.com/podcast/prince-originals-with-archivist-michael-howe))
+
+----
+
  - [**"This week’s biggest vinyl releases to buy and pre-order: Bon Iver, Thom Yorke, Prince and more"**](https://www.nme.com/blogs/biggest-vinyl-releases-this-week-2527518) in [NME (New Musical Express)](https://www.nme.com/) on 19 July 2019 about Bangles, Originals (album review), Originals (album) ([mirror](https://web.archive.org/web/*/https://www.nme.com/blogs/biggest-vinyl-releases-this-week-2527518))
 
 ----
@@ -1725,6 +1737,10 @@
 ----
 
  - [**"Prince Like You’ve Never Seen Him Before: The Star’s Longtime Photographer Shares Rare Photos and Private Memories -- For more than a decade, Jeff Katz photographed the late music icon as he moved through different eras of his career"**](https://people.com/music/prince-rare-photos-jeff-katz-exclusive/) by Brianne Tracy  in [People](https://people.com/) on 16 July 2019 about Jeff Katz, John L. Nelson, Lovesexy (tour), Mountains (song), Sign O' The Times (tour), Under the Cherry Moon (movie) ([mirror](https://web.archive.org/web/*/https://people.com/music/prince-rare-photos-jeff-katz-exclusive/))
+
+----
+
+ - [**""Good Time" Music Video  Marks First for Charleston Filmmaker"**](https://www.southeastfilm.net/copy-of-carolina-film-alliance) in [www.southeastfilm.net](https://www.southeastfilm.net/) on 12 July 2019 about Kevin Harrison, Mr. Nelson: On the North Side (documentary) ([mirror](https://web.archive.org/web/*/https://www.southeastfilm.net/copy-of-carolina-film-alliance))
 
 ----
 
@@ -2064,7 +2080,7 @@
 
 ----
 
-## April 2019 (30)
+## April 2019 (33)
 
  - [**"Two veteran Minnesota bands earn their First Avenue stars (one a do-over)"**](http://www.startribune.com/two-veteran-minnesota-bands-earn-their-first-avenue-stars-one-a-do-over/509260572/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 30 April 2019 about First Avenue (place), Lisa Coleman, Matt Fink, Sam’s (place), The Revolution, Uncle Sam’s (place), Wendy Melvoin ([mirror](https://web.archive.org/web/*/http://www.startribune.com/two-veteran-minnesota-bands-earn-their-first-avenue-stars-one-a-do-over/509260572/))
 
@@ -2090,6 +2106,10 @@
 
 ----
 
+ - [**"LATEST NEWS 25.4.19"**](https://recordcollectormag.com/latest-news-25-4-19) in [Record Collector](https://recordcollectormag.com/) on 25 April 2019 about Billy Gibbons, Chaka Khan, Macy Gray, Michael Kirk, Netflix, Orianthi, Randy Bachman, Robby Krieger, ZZ Top ([mirror](https://web.archive.org/web/*/https://recordcollectormag.com/latest-news-25-4-19))
+
+----
+
  - [**"New Prince album featuring unreleased demos out in June"**](http://www.startribune.com/new-prince-album-featuring-unreleased-demos-out-in-june/509058902/) by The Associated Press in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 April 2019 about Joey Coco, Kenny Rogers, Originals (album), Sheila E. ([mirror](https://web.archive.org/web/*/http://www.startribune.com/new-prince-album-featuring-unreleased-demos-out-in-june/509058902/))
 
 ----
@@ -2099,6 +2119,10 @@
 ----
 
  - [**"Prince Album of Unreleased Demos, 'Originals,' Coming in June -- Album will feature songs later recorded by The Time, Vanity 6, Sheila E., the Bangles and Apollonia 6."**](https://www.billboard.com/articles/columns/rock/8508690/prince-album-unreleased-demos-originals) in [Billboard](https://www.billboard.com/) on 25 April 2019 about Apollonia 6, Bangles, Jill Jones, Mazarati, Originals (album), Sheila E., The Time, Troy Carter, Vanity 6 ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/columns/rock/8508690/prince-album-unreleased-demos-originals))
+
+----
+
+ - [**"The Doors' Robby Krieger Contributes New Song To Prince Documentary"**](https://www.rttnews.com/2995487/the-doors-robby-krieger-contributes-new-song-to-prince-documentary.aspx) in [www.rttnews.com](https://www.rttnews.com/) on 25 April 2019 about Alex Al, Billy Gibbons, Brody Brown, Chaka Khan, Dennis Quaid, Eddie Kramer, Ezra Gabay, Haley Reinhart, Kirk Fera, Macy Gray, Mr. Nelson: On the North Side (documentary), Music Speaks Louder Than Words (song), Orianthi, Randy Bachman, Robby Krieger ([mirror](https://web.archive.org/web/*/https://www.rttnews.com/2995487/the-doors-robby-krieger-contributes-new-song-to-prince-documentary.aspx))
 
 ----
 
@@ -2119,6 +2143,10 @@
 ----
 
  - [**"David Bourn, projectionist who lit up the skies and put Prince in the spotlight, dies at 77"**](http://www.startribune.com/david-bourn-projectionist-who-lit-up-the-skies-and-put-prince-in-the-spotlight-dies-at-77/508966712/) by Richard Chin in [Minneapolis Star Tribune](http://www.startribune.com/) on 23 April 2019 about First Avenue (place), Purple Rain (movie) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/david-bourn-projectionist-who-lit-up-the-skies-and-put-prince-in-the-spotlight-dies-at-77/508966712/))
+
+----
+
+ - [**"The Doors' Robby Krieger contributes song to upcoming Prince documentary"**](https://www.ktlo.com/2019/04/23/the-doors-robby-krieger-contributes-song-to-upcoming-prince-documentary/) in [www.ktlo.com](https://www.ktlo.com/) on 23 April 2019 about Billy Gibbons, Chaka Khan, Danny Seraphine, Dennis Quaid, Kirk Fera, Macy Gray, Mr. Nelson: On the North Side (documentary), Music Speaks Louder Than Words (song), Randy Bachman, Robby Krieger, ZZ Top ([mirror](https://web.archive.org/web/*/https://www.ktlo.com/2019/04/23/the-doors-robby-krieger-contributes-song-to-upcoming-prince-documentary/))
 
 ----
 

@@ -1,6 +1,14 @@
 # 2020
 
-## January 2020 (75)
+## January 2020 (77)
+
+ - [**"Grammy’s Prince “Tribute” is Everything But"**](https://vocal.media/beat/let-s-go-insane-a9c30s63) in [vocal.media](https://vocal.media/) on 29 January 2020 about Grammy Award, Juanes, Let’s Go Crazy (song), Let's Go Crazy: The Grammy Salute to Prince (event), Los Angeles Convention Center (place), Purple Rain (song), The Revolution, Trump, Usher ([mirror](https://web.archive.org/web/*/https://vocal.media/beat/let-s-go-insane-a9c30s63))
+
+----
+
+ - [**"H.E.R., Gary Clark Jr., Dave Grohl and More Go Crazy For 'The Grammy Salute to Prince'"**](https://www.billboard.com/articles/news/television/8549551/grammy-salute-prince-taping-recap) in [Billboard](https://www.billboard.com/) on 29 January 2020 about 1999 (song), Baby I’m a Star (song), Bangles, Beck, Chris Martin, Coldplay, Controversy (song), Darling Nikki (song), Earth, Wind & Fire, Foo Fighters, Gary Clark Jr., Grammy Award, H.E.R., I Would Die 4 U (song), Jellybean Johnson, Jerome Benton, Jimmy Jam, John Legend, Juanes, Jungle Love (song), Ken Ehrlich, Let’s Go Crazy (song), Los Angeles Convention Center (place), Manic Monday (song), Mavis Staples, Maya Rudolph, Misty Copeland, Morris Day, Mountains (song), Pop Life (song), Prince Estate, Purple Rain (song), Raspberry Beret (song), Sheila E., St. Vincent, Susanna Hoffs, Terry Lewis, The Beautiful Ones (song), The Bird (song), The Glamorous Life (song), The Prince Estate, The Revolution, The Time ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/television/8549551/grammy-salute-prince-taping-recap))
+
+----
 
  - [**"Celebrating 30th birthday, Target Center offering prize to one lucky person -- The arena wants people to submit their memories from Target Center."**](https://bringmethenews.com/minnesota-lifestyle/celebrating-30th-birthday-target-center-offering-prize-to-one-lucky-person) in [Bring Me The News](https://bringmethenews.com/) on 27 January 2020 about Fleetwood Mac, Timberwolves ([mirror](https://web.archive.org/web/*/https://bringmethenews.com/minnesota-lifestyle/celebrating-30th-birthday-target-center-offering-prize-to-one-lucky-person))
 
@@ -258,7 +266,7 @@
 
 ----
 
- - [**"Prince: requiem for a bass hero -- The bassists that played with the late legend share their stories"**](https://www.guitarworld.com/features/prince-requiem-for-a-bass-hero) in [GuitarWorld](https://www.guitarworld.com/) on 8 January 2020 about 3rdEyeGirl, André Cymone, BrownMark, Larry Graham, Pop Life (song), Sonny Thompson, Tal Wilkenfeld, Terry Lewis, When Doves Cry (song), YouTube ([mirror](https://web.archive.org/web/*/https://www.guitarworld.com/features/prince-requiem-for-a-bass-hero))
+ - [**"Prince: requiem for a bass hero -- The bassists that played with the late legend share their stories"**](https://www.guitarworld.com/features/prince-requiem-for-a-bass-hero) in [GuitarWorld](https://www.guitarworld.com/) on 8 January 2020 about 3rdEyeGirl, Alex Al, André Cymone, BrownMark, Larry Graham, Pop Life (song), Sonny Thompson, Tal Wilkenfeld, Terry Lewis, When Doves Cry (song), YouTube ([mirror](https://web.archive.org/web/*/https://www.guitarworld.com/features/prince-requiem-for-a-bass-hero))
 
 ----
 

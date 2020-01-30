@@ -132,13 +132,21 @@
 
 ----
 
-## October 2018 (19)
+## October 2018 (23)
 
  - [**"'A Wrinkle in Time' director Ava DuVernay to make Prince documentary for Netflix -- The filmmaker has the support of the late Minnesota musician's estate."**](http://www.startribune.com/ava-duvernay-to-make-prince-documentary-for-netflix/499015301/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 31 October 2018 about Ava DuVernay, Netflix ([mirror](https://web.archive.org/web/*/http://www.startribune.com/ava-duvernay-to-make-prince-documentary-for-netflix/499015301/))
 
 ----
 
  - [**"AM Prep-Music -- Ava DuVernay IS WORKING ON PRINCE DOCUMENTARY"**](https://apnews.com/b802f49e738248588639de5b2811b4da) in [Associated Press News](https://apnews.com/) on 31 October 2018 about Ava DuVernay, Netflix ([mirror](https://web.archive.org/web/*/https://apnews.com/b802f49e738248588639de5b2811b4da))
+
+----
+
+ - [**"KEW MEDIA DISTRIBUTION Assembles Massive Slate of New Projects Ahead of AFM"**](https://www.businesswire.com/news/home/20181031005865/en/) in [Business Wire](https://www.businesswire.com/) on 31 October 2018 about American Film Market, Chaka Khan, Daniel D’or, Grammy Award, Kew Media Distribution, Macy Gray, Michael J. Kirk, Mr. Nelson: On the North Side (documentary), Spike Moss ([mirror](https://web.archive.org/web/*/https://www.businesswire.com/news/home/20181031005865/en/))
+
+----
+
+ - [**"KEW MEDIA DISTRIBUTION Assembles Massive Slate of New Projects Ahead of AFM"**](https://apnews.com/BusinessWire/418ba9bb1ee245ee9c3fb0cb4202aa3d) in [Associated Press News](https://apnews.com/) on 31 October 2018 about American Film Market, Chaka Khan, Daniel D’or, Grammy Award, Kew Media Distribution, Macy Gray, Michael J. Kirk, Mr. Nelson: On the North Side (documentary), Spike Moss ([mirror](https://web.archive.org/web/*/https://apnews.com/BusinessWire/418ba9bb1ee245ee9c3fb0cb4202aa3d))
 
 ----
 
@@ -163,6 +171,14 @@
 ----
 
  - [**"Ava DuVernay Working on Prince Documentary for Netflix (EXCLUSIVE)"**](https://variety.com/2018/music/news/ava-duvernay-prince-documentary-for-netflix-1203011709/) in [Variety](https://variety.com/) on 29 October 2018 about Apple Music, Ava DuVernay, First Avenue (place), Netflix, Prince Estate, The Prince Estate, The Revolution, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://variety.com/2018/music/news/ava-duvernay-prince-documentary-for-netflix-1203011709/))
+
+----
+
+ - [**"Chaka Khan and Prince documentaries are in the works"**](https://thegrio.com/2018/10/29/chaka-khan-and-prince-documentaries-are-in-the-works/) in [thegrio.com](https://thegrio.com/) on 29 October 2018 about Chaka Khan, Kew Media Distribution, Macy Gray, Michael J. Kirk, Spike Moss ([mirror](https://web.archive.org/web/*/https://thegrio.com/2018/10/29/chaka-khan-and-prince-documentaries-are-in-the-works/))
+
+----
+
+ - [**"Kew Media Distribution adds to AFM slate"**](https://realscreen.com/2018/10/29/kew-media-distribution-adds-to-afm-slate/) in [realscreen.com](https://realscreen.com/) on 29 October 2018 about American Film Market, Chaka Khan, Daniel D’or, Kew Media Distribution, Michael J. Kirk, Mr. Nelson: On the North Side (documentary), Spike Moss ([mirror](https://web.archive.org/web/*/https://realscreen.com/2018/10/29/kew-media-distribution-adds-to-afm-slate/))
 
 ----
 

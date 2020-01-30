@@ -2,7 +2,7 @@
 
   * [2020](./associated-press-news-2020.md/) (3)
   * [2019](./associated-press-news-2019.md/) (26)
-  * [2018](./associated-press-news-2018.md/) (62)
+  * [2018](./associated-press-news-2018.md/) (63)
   * [2017](./associated-press-news-2017.md/) (57)
   * [2016](./associated-press-news-2016.md/) (107)
   * [2015](./associated-press-news-2015.md/) (3)

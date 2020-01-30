@@ -44,6 +44,10 @@
 
 ----
 
+ - [**"LATEST NEWS 25.4.19"**](https://recordcollectormag.com/latest-news-25-4-19) in [Record Collector](https://recordcollectormag.com/) on 25 April 2019 about Billy Gibbons, Chaka Khan, Macy Gray, Michael Kirk, Netflix, Orianthi, Randy Bachman, Robby Krieger, ZZ Top ([mirror](https://web.archive.org/web/*/https://recordcollectormag.com/latest-news-25-4-19))
+
+----
+
  - [**"'A Wrinkle in Time' director Ava DuVernay to make Prince documentary for Netflix -- The filmmaker has the support of the late Minnesota musician's estate."**](http://www.startribune.com/ava-duvernay-to-make-prince-documentary-for-netflix/499015301/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 31 October 2018 about Ava DuVernay, Netflix ([mirror](https://web.archive.org/web/*/http://www.startribune.com/ava-duvernay-to-make-prince-documentary-for-netflix/499015301/))
 
 ----

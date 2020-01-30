@@ -24,6 +24,10 @@
 
 ----
 
+ - [**"Prince ORIGINALS with archivist Michael Howe"**](https://www.rhino.com/podcast/prince-originals-with-archivist-michael-howe) in [Rhino](https://www.rhino.com/) on 19 July 2019 about Michael Howe, Originals (album), vault ([mirror](https://web.archive.org/web/*/https://www.rhino.com/podcast/prince-originals-with-archivist-michael-howe))
+
+----
+
  - [**"This week’s biggest vinyl releases to buy and pre-order: Bon Iver, Thom Yorke, Prince and more"**](https://www.nme.com/blogs/biggest-vinyl-releases-this-week-2527518) in [NME (New Musical Express)](https://www.nme.com/) on 19 July 2019 about Bangles, Originals (album review), Originals (album) ([mirror](https://web.archive.org/web/*/https://www.nme.com/blogs/biggest-vinyl-releases-this-week-2527518))
 
 ----

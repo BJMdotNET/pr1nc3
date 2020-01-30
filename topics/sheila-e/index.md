@@ -1,5 +1,9 @@
 # Sheila E.
 
+ - [**"H.E.R., Gary Clark Jr., Dave Grohl and More Go Crazy For 'The Grammy Salute to Prince'"**](https://www.billboard.com/articles/news/television/8549551/grammy-salute-prince-taping-recap) in [Billboard](https://www.billboard.com/) on 29 January 2020 about 1999 (song), Baby I’m a Star (song), Bangles, Beck, Chris Martin, Coldplay, Controversy (song), Darling Nikki (song), Earth, Wind & Fire, Foo Fighters, Gary Clark Jr., Grammy Award, H.E.R., I Would Die 4 U (song), Jellybean Johnson, Jerome Benton, Jimmy Jam, John Legend, Juanes, Jungle Love (song), Ken Ehrlich, Let’s Go Crazy (song), Los Angeles Convention Center (place), Manic Monday (song), Mavis Staples, Maya Rudolph, Misty Copeland, Morris Day, Mountains (song), Pop Life (song), Prince Estate, Purple Rain (song), Raspberry Beret (song), Sheila E., St. Vincent, Susanna Hoffs, Terry Lewis, The Beautiful Ones (song), The Bird (song), The Glamorous Life (song), The Prince Estate, The Revolution, The Time ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/television/8549551/grammy-salute-prince-taping-recap))
+
+----
+
  - [**"Grammys 2020: Here's why fans are upset about Usher's Prince tribute"**](https://usatoday.com/story/entertainment/music/2020/01/26/grammys-2020-mixed-reviews-prince-tribute-usher-fka-twigs/4585624002/) in [USA Today](https://usatoday.com/) on 27 January 2020 about FKA twigs, Grammy Award, Sheila E., Usher, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/entertainment/music/2020/01/26/grammys-2020-mixed-reviews-prince-tribute-usher-fka-twigs/4585624002/))
 
 ----

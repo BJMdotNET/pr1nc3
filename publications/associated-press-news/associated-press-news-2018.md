@@ -28,9 +28,13 @@
 
 ----
 
-## October 2018 (3)
+## October 2018 (4)
 
  - [**"AM Prep-Music -- Ava DuVernay IS WORKING ON PRINCE DOCUMENTARY"**](https://apnews.com/b802f49e738248588639de5b2811b4da) in [Associated Press News](https://apnews.com/) on 31 October 2018 about Ava DuVernay, Netflix ([mirror](https://web.archive.org/web/*/https://apnews.com/b802f49e738248588639de5b2811b4da))
+
+----
+
+ - [**"KEW MEDIA DISTRIBUTION Assembles Massive Slate of New Projects Ahead of AFM"**](https://apnews.com/BusinessWire/418ba9bb1ee245ee9c3fb0cb4202aa3d) in [Associated Press News](https://apnews.com/) on 31 October 2018 about American Film Market, Chaka Khan, Daniel D’or, Grammy Award, Kew Media Distribution, Macy Gray, Michael J. Kirk, Mr. Nelson: On the North Side (documentary), Spike Moss ([mirror](https://web.archive.org/web/*/https://apnews.com/BusinessWire/418ba9bb1ee245ee9c3fb0cb4202aa3d))
 
 ----
 

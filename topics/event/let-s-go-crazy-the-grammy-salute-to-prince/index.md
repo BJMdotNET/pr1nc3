@@ -1,5 +1,9 @@
 # Let's Go Crazy: The Grammy Salute to Prince (event)
 
+ - [**"Grammy’s Prince “Tribute” is Everything But"**](https://vocal.media/beat/let-s-go-insane-a9c30s63) in [vocal.media](https://vocal.media/) on 29 January 2020 about Grammy Award, Juanes, Let’s Go Crazy (song), Let's Go Crazy: The Grammy Salute to Prince (event), Los Angeles Convention Center (place), Purple Rain (song), The Revolution, Trump, Usher ([mirror](https://web.archive.org/web/*/https://vocal.media/beat/let-s-go-insane-a9c30s63))
+
+----
+
  - [**"Usher & FKA Twigs Go Crazy With Prince Tribute at 2020 Grammys"**](https://www.billboard.com/articles/news/awards/8549200/usher-fka-twigs-prince-grammy-2020) in [Billboard](https://www.billboard.com/) on 26 January 2020 about FKA twigs, Let's Go Crazy: The Grammy Salute to Prince (event), Little Red Corvette (song), Usher, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/awards/8549200/usher-fka-twigs-prince-grammy-2020))
 
 ----

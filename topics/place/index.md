@@ -20,7 +20,7 @@
   * [Joe Louis Arena (place)](./place/joe-louis-arena/) (1)
   * [Lake Minnetonka (place)](./place/lake-minnetonka/) (8)
   * [London (place)](./place/london/) (10)
-  * [Los Angeles Convention Center (place)](./place/los-angeles-convention-center/) (7)
+  * [Los Angeles Convention Center (place)](./place/los-angeles-convention-center/) (9)
   * [Mann’s Chinese Theatre (place)](./place/mann-s-chinese-theatre/) (1)
   * [Minneapolis-St. Paul International Airport (place)](./place/minneapolis-st-paul-international-airport/) (4)
   * [Moline, Illinois (place)](./place/moline-illinois/) (21)

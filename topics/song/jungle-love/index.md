@@ -1,5 +1,9 @@
 # Jungle Love (song)
 
+ - [**"H.E.R., Gary Clark Jr., Dave Grohl and More Go Crazy For 'The Grammy Salute to Prince'"**](https://www.billboard.com/articles/news/television/8549551/grammy-salute-prince-taping-recap) in [Billboard](https://www.billboard.com/) on 29 January 2020 about 1999 (song), Baby I’m a Star (song), Bangles, Beck, Chris Martin, Coldplay, Controversy (song), Darling Nikki (song), Earth, Wind & Fire, Foo Fighters, Gary Clark Jr., Grammy Award, H.E.R., I Would Die 4 U (song), Jellybean Johnson, Jerome Benton, Jimmy Jam, John Legend, Juanes, Jungle Love (song), Ken Ehrlich, Let’s Go Crazy (song), Los Angeles Convention Center (place), Manic Monday (song), Mavis Staples, Maya Rudolph, Misty Copeland, Morris Day, Mountains (song), Pop Life (song), Prince Estate, Purple Rain (song), Raspberry Beret (song), Sheila E., St. Vincent, Susanna Hoffs, Terry Lewis, The Beautiful Ones (song), The Bird (song), The Glamorous Life (song), The Prince Estate, The Revolution, The Time ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/television/8549551/grammy-salute-prince-taping-recap))
+
+----
+
  - [**"Here's What Morris Day Thinks About the Posthumous Prince Releases -- Hot off his wildly entertaining memoir 'On Time,' the funk legend talks unreleased The Time music and Prince's Vaults."**](https://www.billboard.com/articles/news/8541347/morris-day-on-time-book-memoir-prince-funk) in [Billboard](https://www.billboard.com/) on 30 October 2019 about Atlanta (place), Graffiti Bridge (album), Graffiti Bridge (movie), Janet Jackson, Jimmy Jam, Jungle Love (song), memoir, Morris Day, On Time: A Princely Life in Funk (book), Pandemonium (album), Terry Lewis, The Bird (song), The Time, vault ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8541347/morris-day-on-time-book-memoir-prince-funk))
 
 ----

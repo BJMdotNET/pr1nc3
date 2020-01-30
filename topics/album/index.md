@@ -21,7 +21,7 @@
   * [LotusFlow3r (album)](./album/lotusflow3r/) (2)
   * [Lovesexy (album)](./album/lovesexy/) (8)
   * [Margie's Little Demo (album)](./album/margie-s-little-demo/) (1)
-  * [Originals (album)](./album/originals/) (43)
+  * [Originals (album)](./album/originals/) (44)
   * [Pandemonium (album)](./album/pandemonium/) (2)
   * [Parade (album)](./album/parade/) (16)
   * [Piano and a Microphone 1983 (album)](./album/piano-and-a-microphone-1983/) (11)
