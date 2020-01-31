@@ -1,6 +1,10 @@
 # 2020
 
-## January 2020 (3)
+## January 2020 (4)
+
+ - [**"Sister act: Minneapolis actors return from New York to play siblings in dark comedy ‘Peerless’"**](https://www.twincities.com/2020/01/31/sister-act-minneapolis-actors-return-from-new-york-to-play-siblings-in-dark-comedy-peerless/) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 31 January 2020 about Chanhassen Dinner Theatres, University of Minnesota ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2020/01/31/sister-act-minneapolis-actors-return-from-new-york-to-play-siblings-in-dark-comedy-peerless/))
+
+----
 
  - [**"Teen vocalist Billie Eilish and former Minnesotan Lizzo emerge as winners at Sunday night’s Grammy Awards"**](https://www.twincities.com/2020/01/26/teen-vocalist-billie-eilish-and-former-minnesotan-lizzo-emerge-as-winners-at-sunday-nights-grammy-awards/) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 26 January 2020 about Grammy Award, Gwen Stefani, John Legend, Little Red Corvette (song), Lizzo, Obama, Usher, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2020/01/26/teen-vocalist-billie-eilish-and-former-minnesotan-lizzo-emerge-as-winners-at-sunday-nights-grammy-awards/))
 

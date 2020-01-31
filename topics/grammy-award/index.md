@@ -16,11 +16,19 @@
 
 ----
 
+ - [**"Billie Eilish sweeps Lizzo in a historic Grammy battle of the newcomers -- Lizzo seized her Grammy moment, but 18-year-old Billie Eilish pulled off a historic sweep of the top prizes. "**](http://www.startribune.com/with-fierce-emotion-lizzo-seizes-her-grammy-moment-i-m-crying-cuz-i-love-you/567316152/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 27 January 2020 about Ava DuVernay, Gary Clark Jr., Grammy Award, John Legend, Lizzo, Madonna, The Roots, Usher ([mirror](https://web.archive.org/web/*/http://www.startribune.com/with-fierce-emotion-lizzo-seizes-her-grammy-moment-i-m-crying-cuz-i-love-you/567316152/))
+
+----
+
  - [**"Grammy Awards: Usher’s musical tribute to Prince divides fans -- He delivered a medley of The Purple One's biggest hits"**](https://www.nme.com/news/music/grammy-awards-ushers-musical-tribute-to-prince-divides-fans-2601402) in [NME (New Musical Express)](https://www.nme.com/) on 27 January 2020 about FKA twigs, Grammy Award, John Legend, Lizzo, Usher, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.nme.com/news/music/grammy-awards-ushers-musical-tribute-to-prince-divides-fans-2601402))
 
 ----
 
  - [**"Grammys 2020: Here's why fans are upset about Usher's Prince tribute"**](https://usatoday.com/story/entertainment/music/2020/01/26/grammys-2020-mixed-reviews-prince-tribute-usher-fka-twigs/4585624002/) in [USA Today](https://usatoday.com/) on 27 January 2020 about FKA twigs, Grammy Award, Sheila E., Usher, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/entertainment/music/2020/01/26/grammys-2020-mixed-reviews-prince-tribute-usher-fka-twigs/4585624002/))
+
+----
+
+ - [**"Paisley Park Aims to Register Prince's Signature Purple as a Trademark for Use on Buildings"**](https://www.thefashionlaw.com/home/princes-estate-in-the-midst-of-fight-to-register-the-color-purple-for-use-on-buildings) in [www.thefashionlaw.com](https://www.thefashionlaw.com/) on 27 January 2020 about Cloud guitar, Grammy Award, Jamie Starr, museum, Paisley Park Enterprises, trademark ([mirror](https://web.archive.org/web/*/https://www.thefashionlaw.com/home/princes-estate-in-the-midst-of-fight-to-register-the-color-purple-for-use-on-buildings))
 
 ----
 
@@ -33,6 +41,10 @@
 ----
 
  - [**"FKA Twigs: I Wasn’t Asked to Sing During Prince Tribute at Grammys"**](https://variety.com/2020/music/news/fka-twigs-grammys-prince-usher-sheila-e-1203481545/) in [Variety](https://variety.com/) on 26 January 2020 about Alicia Keys, Coldplay, FKA twigs, Foo Fighters, Grammy Award, John Legend, Little Red Corvette (song), Sheila E., Usher, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://variety.com/2020/music/news/fka-twigs-grammys-prince-usher-sheila-e-1203481545/))
+
+----
+
+ - [**"Grammys: Usher, Sheila E. and FKA Twigs Team Up for Prince Tribute -- The group of Prince collaborators and friends performed a medley of the icon's biggest hits."**](https://www.hollywoodreporter.com/news/grammys-usher-sheila-e-fka-twigs-perform-prince-tribute-1272924) in [The Hollywood Reporter](https://www.hollywoodreporter.com/) on 26 January 2020 about Alicia Keys, Beck, BET Awards, Celebration, Coldplay, FKA twigs, Grammy Award, H.E.R., John Legend, Little Red Corvette (song), Los Angeles Convention Center (place), Purple Rain (song), Sheila E., The Glamorous Life (song), The Roots, The Time, Usher, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.hollywoodreporter.com/news/grammys-usher-sheila-e-fka-twigs-perform-prince-tribute-1272924))
 
 ----
 

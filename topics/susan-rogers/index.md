@@ -1,5 +1,9 @@
 # Susan Rogers
 
+ - [**"True Tales of Prince From Susan Rogers, His 1980’s Audio Engineer -- HEARD ON ANN DELISI'S ESSENTIAL CONVERSATIONS PODCAST"**](https://wdet.org/posts/2020/01/29/89147-true-tales-of-prince-from-susan-rogers-his-1980s-audio-engineer/) in [wdet.org](https://wdet.org/) on 29 January 2020 about Bruce Springsteen, Computer Blue (song), Jill Jones, Madonna, Purple Rain (song), Susan Rogers, The Beautiful Ones (song), Vanity, Vanity 6, vault ([mirror](https://web.archive.org/web/*/https://wdet.org/posts/2020/01/29/89147-true-tales-of-prince-from-susan-rogers-his-1980s-audio-engineer/))
+
+----
+
  - [**"Prince: The Story of 1999 bonus feature: LeRoy Bennett, 'Prince was beyond anybody'"**](https://www.thecurrent.org/feature/2020/01/02/prince-the-story-of-1999-leroy-bennett-prince-was-beyond-anybody) in [The Current](https://www.thecurrent.org/) on 2 January 2020 about 1999 (album), Andrea Swensson, Grammy Award, Jesse Johnson, Jill Jones, LeRoy Bennett, Prince: The Story of 1999, Susan Rogers, The Revolution, Vanity, Vanity 6 ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2020/01/02/prince-the-story-of-1999-leroy-bennett-prince-was-beyond-anybody))
 
 ----
@@ -21,6 +25,10 @@
 ----
 
  - [**"Album review: Prince’s ’1999′ keeps on giving in 2019"**](https://www.chicagotribune.com/entertainment/music/greg-kot/ct-ent-prince-1999-box-set-review-20191119-qa756i52jbacfdye5jyro4w47u-story.html) by Greg Kot in [Chicago Tribune](https://www.chicagotribune.com/) on 19 November 2019 about 1999 (album), 1999 (song), 1999 (tour), 1999 Super Deluxe (album), Andre Cymone, Can’t Stop This Feeling I Got (song), cough drops, Dez Dickerson, Do Yourself a Favor (song), Feel U Up (song), If It’ll Make U Happy (song), Jill Jones, Lisa Coleman, Little Red Corvette (song), Peggy McCreary, Purple Music (song), Purple Rain (album), Rearrange (song), Stevie Wonder, Susan Rogers, The Revolution, Vagina (song), Yah, You Know (song), You’re All I Want (song) ([mirror](https://web.archive.org/web/*/https://www.chicagotribune.com/entertainment/music/greg-kot/ct-ent-prince-1999-box-set-review-20191119-qa756i52jbacfdye5jyro4w47u-story.html))
+
+----
+
+ - [**""A REMARKABLE MAN!” -- Susan Rogers Reflects upon her Lifelong Journey in Music, What it was Like to Watch a ‘Genius at Work,’ and Her Personal Vow to lift up Prince’s Legacy at Every Turn -- Spotlight: Susan Rogers"**](http://prnalumni.org/members/spotlight/spotlight-susan-rogers/) in [prnalumni.org](http://prnalumni.org/) on 11 October 2019 about André Cymone, Sheena Easton, Susan Rogers ([mirror](https://web.archive.org/web/*/http://prnalumni.org/members/spotlight/spotlight-susan-rogers/))
 
 ----
 
@@ -81,6 +89,10 @@
 ----
 
  - [**"Prince's sound engineer, Susan Rogers: 'He needed to be the alpha male to get things done' -- One of a tiny number of female recording engineers, Rogers was there at birth of some of pop’s classics, including When Doves Cry. She recalls the man she knew – and shares her theory about why he loved working with women"**](https://www.theguardian.com/music/2017/nov/09/princes-sound-engineer-susan-rogers-he-needed-to-be-the-alpha-male-to-get-things-done) in [The Guardian](https://www.theguardian.com/) on 9 November 2017 about Eric Clapton, exhibit, exhibition, James Brown, Joni Mitchell, Lisa Coleman, Susan Rogers, Wendy Melvoin, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/music/2017/nov/09/princes-sound-engineer-susan-rogers-he-needed-to-be-the-alpha-male-to-get-things-done))
+
+----
+
+ - [**"Floodgates are about to open on Prince's career after death -- A year after he died, Prince's lucrative second career is taking off. The industry moguls he despised are calling the shots — and his wishes don't apply."**](http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 April 2017 about Bravado, Bremer Trust, Carver County, Charles Koppelman, contract, Graceland, Graceland Holdings, merchandise, museum, Omarr Baker, Spotify, Susan Rogers, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/))
 
 ----
 

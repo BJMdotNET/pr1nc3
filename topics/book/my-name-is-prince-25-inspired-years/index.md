@@ -1,5 +1,9 @@
 # My Name Is Prince: 25 Inspired Years (book)
 
+ - [**"The Iconic Moments of Prince"**](https://www.npr.org/2020/01/27/800304552/the-iconic-moments-of-prince) in [National Public Radio](https://www.npr.org/) on 27 January 2020 about My Name Is Prince: 25 Inspired Years (book), Randee St. Nicholas ([mirror](https://web.archive.org/web/*/https://www.npr.org/2020/01/27/800304552/the-iconic-moments-of-prince))
+
+----
+
  - [**"2020 NAACP Image Awards Nominations: The Full List"**](https://www.etonline.com/2020-naacp-image-awards-nominations-the-full-list-139199) in [www.etonline.com](https://www.etonline.com/) on 9 January 2020 about Alicia Keys, Ava DuVernay, BET Awards, Beyoncé, Black-ish (TV show), Dan Piepenbring, Dave Chappelle, H.E.R., Janelle Monáe, Lizzo, memoir, Miles Davis, My Name Is Prince: 25 Inspired Years (book), Randee St. Nicholas, Saturday Night Live (TV show), Tamron Hall, The Beautiful Ones (book), Yara Shahidi ([mirror](https://web.archive.org/web/*/https://www.etonline.com/2020-naacp-image-awards-nominations-the-full-list-139199))
 
 ----

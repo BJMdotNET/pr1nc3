@@ -1,6 +1,22 @@
 # 2020
 
-## January 2020 (87)
+## January 2020 (102)
+
+ - [**"Sister act: Minneapolis actors return from New York to play siblings in dark comedy ‘Peerless’"**](https://www.twincities.com/2020/01/31/sister-act-minneapolis-actors-return-from-new-york-to-play-siblings-in-dark-comedy-peerless/) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 31 January 2020 about Chanhassen Dinner Theatres, University of Minnesota ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2020/01/31/sister-act-minneapolis-actors-return-from-new-york-to-play-siblings-in-dark-comedy-peerless/))
+
+----
+
+ - [**"8 unforgettable Super Bowl halftime show moments"**](https://www.msn.com/en-us/entertainment/news/8-unforgettable-super-bowl-halftime-show-moments/vi-BBZuigg) in [msn entertainment](https://www.msn.com/en-us/entertainment) on 30 January 2020 about Katy Perry, Super Bowl ([mirror](https://web.archive.org/web/*/https://www.msn.com/en-us/entertainment/news/8-unforgettable-super-bowl-halftime-show-moments/vi-BBZuigg))
+
+----
+
+ - [**"Minnesota is often overlooked on a worldwide scale, but we have an amazing medical scene -- Images of 3M masks are widespread, which got me thinking."**](http://www.startribune.com/minnesota-is-often-overlooked-on-a-worldwide-scale-but-we-have-an-amazing-medical-scene/567438732/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 30 January 2020 about Lizzo, University of Minnesota ([mirror](https://web.archive.org/web/*/http://www.startribune.com/minnesota-is-often-overlooked-on-a-worldwide-scale-but-we-have-an-amazing-medical-scene/567438732/))
+
+----
+
+ - [**"Sign O’ the Times: Pop Music and Spoliation Allegations"**](https://www.jdsupra.com/legalnews/sign-o-the-times-pop-music-and-45017/) in [JDSupra](https://www.jdsupra.com/) on 30 January 2020 about David Staley, vault ([mirror](https://web.archive.org/web/*/https://www.jdsupra.com/legalnews/sign-o-the-times-pop-music-and-45017/))
+
+----
 
  - [**"The Night Prince Jammed With a Black Puma -- Before Adrian Quesada was nominated for a Best New Artist Grammy with Black Pumas, he had a brief, exhilarating brush with purple greatness"**](https://www.rollingstone.com/music/music-features/black-pumas-prince-938428/) in [Rolling Stone](https://www.rollingstone.com/) on 30 January 2020 about James Brown, Super Bowl, Usher ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/black-pumas-prince-938428/))
 
@@ -26,11 +42,35 @@
 
 ----
 
+ - [**"Prince Mural Installed at MSP Airport -- The bright and colorful 16-by-24 foot image will send off travelers over the course of this year."**](http://mspmag.com/arts-and-culture/new-prince-mural-installed-at-msp-airport/) in [Mpls.St.Paul Magazine](http://mspmag.com/) on 29 January 2020 about airport, ARTS@MSP, exhibit, I Would Die 4 U (song), Minneapolis-St. Paul International Airport (place), MSP (place), museum, Rock 'Cyfi' Martinez, Weisman Art Museum (place) ([mirror](https://web.archive.org/web/*/http://mspmag.com/arts-and-culture/new-prince-mural-installed-at-msp-airport/))
+
+----
+
  - [**"Pure Magic: The Oral History of Prince’s Super Bowl XLI Halftime Show -- As the heavens opened up and rain poured down, the Purple One ran through a handful of covers and some of his own songs, delivering an iconic set on the biggest stage possible and only expanding his legend"**](https://www.theringer.com/music/2020/1/29/21112539/prince-halftime-show-oral-history-super-bowl-xli) in [www.theringer.com](https://www.theringer.com/) on 29 January 2020 about 1999 (song), airport, Baby I’m a Star (song), contract, Dan Piepenbring, Darling Nikki (song), Foo Fighters, Janet Jackson, Justin Timberlake, Little Red Corvette (song), memoir, Morris Hayes, Purple Rain (song), Raspberry Beret (song), Shelby J., Super Bowl, Super Bowl XLI (event) ([mirror](https://web.archive.org/web/*/https://www.theringer.com/music/2020/1/29/21112539/prince-halftime-show-oral-history-super-bowl-xli))
 
 ----
 
+ - [**"True Tales of Prince From Susan Rogers, His 1980’s Audio Engineer -- HEARD ON ANN DELISI'S ESSENTIAL CONVERSATIONS PODCAST"**](https://wdet.org/posts/2020/01/29/89147-true-tales-of-prince-from-susan-rogers-his-1980s-audio-engineer/) in [wdet.org](https://wdet.org/) on 29 January 2020 about Bruce Springsteen, Computer Blue (song), Jill Jones, Madonna, Purple Rain (song), Susan Rogers, The Beautiful Ones (song), Vanity, Vanity 6, vault ([mirror](https://web.archive.org/web/*/https://wdet.org/posts/2020/01/29/89147-true-tales-of-prince-from-susan-rogers-his-1980s-audio-engineer/))
+
+----
+
+ - [**"40+ CELEBRITY BOOKS YOU SHOULD READ THIS YEAR"**](https://bookriot.com/2020/01/28/best-celebrity-books/) in [bookriot.com](https://bookriot.com/) on 28 January 2020 about memoir, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/https://bookriot.com/2020/01/28/best-celebrity-books/))
+
+----
+
+ - [**"Local artist pays tribute to Prince with giant mural at MSP airport -- Rock Martinez's mural of the music legend arrived for a yearlong stay at MSP as part of the airport's traveling exhibits program."**](http://www.startribune.com/local-artist-pays-tribute-to-prince-with-msp-airport-mural/567357372/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 28 January 2020 about airport, Alan Seiffert, ARTS@MSP, Bob Dylan, exhibit, I Would Die 4 U (song), merchandise, Minneapolis-St. Paul International Airport (place), MSP (place), museum, Rock Martinez, The Revolution, University of Minnesota, Weisman Art Museum (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/local-artist-pays-tribute-to-prince-with-msp-airport-mural/567357372/))
+
+----
+
+ - [**"Billie Eilish sweeps Lizzo in a historic Grammy battle of the newcomers -- Lizzo seized her Grammy moment, but 18-year-old Billie Eilish pulled off a historic sweep of the top prizes. "**](http://www.startribune.com/with-fierce-emotion-lizzo-seizes-her-grammy-moment-i-m-crying-cuz-i-love-you/567316152/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 27 January 2020 about Ava DuVernay, Gary Clark Jr., Grammy Award, John Legend, Lizzo, Madonna, The Roots, Usher ([mirror](https://web.archive.org/web/*/http://www.startribune.com/with-fierce-emotion-lizzo-seizes-her-grammy-moment-i-m-crying-cuz-i-love-you/567316152/))
+
+----
+
  - [**"Celebrating 30th birthday, Target Center offering prize to one lucky person -- The arena wants people to submit their memories from Target Center."**](https://bringmethenews.com/minnesota-lifestyle/celebrating-30th-birthday-target-center-offering-prize-to-one-lucky-person) in [Bring Me The News](https://bringmethenews.com/) on 27 January 2020 about Fleetwood Mac, Timberwolves ([mirror](https://web.archive.org/web/*/https://bringmethenews.com/minnesota-lifestyle/celebrating-30th-birthday-target-center-offering-prize-to-one-lucky-person))
+
+----
+
+ - [**"Gigantic Prince Mural Coming to Minneapolis-St. Paul Airport -- Rock 'Cyfi' Martinez's "I Would Die 4 U" will be featured"**](https://www.insidehook.com/daily_brief/music/prince-mural-minneapolis-st-paul-airport) in [www.insidehook.com](https://www.insidehook.com/) on 27 January 2020 about airport, I Would Die 4 U (song), Minneapolis-St. Paul International Airport (place), MSP (place), museum, Rock 'Cyfi' Martinez, Weisman Art Museum (place) ([mirror](https://web.archive.org/web/*/https://www.insidehook.com/daily_brief/music/prince-mural-minneapolis-st-paul-airport))
 
 ----
 
@@ -46,7 +86,19 @@
 
 ----
 
+ - [**"Paisley Park Aims to Register Prince's Signature Purple as a Trademark for Use on Buildings"**](https://www.thefashionlaw.com/home/princes-estate-in-the-midst-of-fight-to-register-the-color-purple-for-use-on-buildings) in [www.thefashionlaw.com](https://www.thefashionlaw.com/) on 27 January 2020 about Cloud guitar, Grammy Award, Jamie Starr, museum, Paisley Park Enterprises, trademark ([mirror](https://web.archive.org/web/*/https://www.thefashionlaw.com/home/princes-estate-in-the-midst-of-fight-to-register-the-color-purple-for-use-on-buildings))
+
+----
+
  - [**"Sheila E. Explains Why It's Important to Continue to Honor Prince: 'His Legacy Is His Music'"**](https://www.billboard.com/articles/news/awards/8549326/sheila-e-video-interview-prince) in [Billboard](https://www.billboard.com/) on 27 January 2020 about FKA twigs, Grammy Award, Sheila E., Usher ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/awards/8549326/sheila-e-video-interview-prince))
+
+----
+
+ - [**"The Iconic Moments of Prince"**](https://www.npr.org/2020/01/27/800304552/the-iconic-moments-of-prince) in [National Public Radio](https://www.npr.org/) on 27 January 2020 about My Name Is Prince: 25 Inspired Years (book), Randee St. Nicholas ([mirror](https://web.archive.org/web/*/https://www.npr.org/2020/01/27/800304552/the-iconic-moments-of-prince))
+
+----
+
+ - [**"When Brittany Howard Jammed With Prince"**](https://www.pollstar.com/article/when-brittany-howard-jammed-with-prince-143384) in [www.pollstar.com](https://www.pollstar.com/) on 27 January 2020 about Brittany Howard, SNL (TV show) ([mirror](https://web.archive.org/web/*/https://www.pollstar.com/article/when-brittany-howard-jammed-with-prince-143384))
 
 ----
 
@@ -63,6 +115,10 @@
 ----
 
  - [**"Grammys 2020: Usher, Sheila E., & FKA Twigs Perform Prince Tribute"**](https://www.stereogum.com/2071237/grammys-2020-usher-sheila-e-fka-twigs-perform-prince-tribute/video/) in [Stereogum](https://www.stereogum.com/) on 26 January 2020 about Alicia Keys, Beck, Chris Martin, Earth, Wind & Fire, FKA twigs, Foo Fighters, Gary Clark Jr., H.E.R., Little Red Corvette (song), Mavis Staples, Sheila E., St. Vincent, Usher, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.stereogum.com/2071237/grammys-2020-usher-sheila-e-fka-twigs-perform-prince-tribute/video/))
+
+----
+
+ - [**"Grammys: Usher, Sheila E. and FKA Twigs Team Up for Prince Tribute -- The group of Prince collaborators and friends performed a medley of the icon's biggest hits."**](https://www.hollywoodreporter.com/news/grammys-usher-sheila-e-fka-twigs-perform-prince-tribute-1272924) in [The Hollywood Reporter](https://www.hollywoodreporter.com/) on 26 January 2020 about Alicia Keys, Beck, BET Awards, Celebration, Coldplay, FKA twigs, Grammy Award, H.E.R., John Legend, Little Red Corvette (song), Los Angeles Convention Center (place), Purple Rain (song), Sheila E., The Glamorous Life (song), The Roots, The Time, Usher, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.hollywoodreporter.com/news/grammys-usher-sheila-e-fka-twigs-perform-prince-tribute-1272924))
 
 ----
 
@@ -98,7 +154,7 @@
 
 ----
 
- - [**"Massive Prince Mural Coming To MSP’s Terminal 1"**](https://minnesota.cbslocal.com/2020/01/24/massive-prince-mural-coming-to-msps-terminal-1/) in [WCCO - CBS Minnesota](https://minnesota.cbslocal.com/) on 24 January 2020 about airport, I Would Die 4 U (song), Minneapolis-St. Paul International Airport (place), museum, University of Minnesota ([mirror](https://web.archive.org/web/*/https://minnesota.cbslocal.com/2020/01/24/massive-prince-mural-coming-to-msps-terminal-1/))
+ - [**"Massive Prince Mural Coming To MSP’s Terminal 1"**](https://minnesota.cbslocal.com/2020/01/24/massive-prince-mural-coming-to-msps-terminal-1/) in [WCCO - CBS Minnesota](https://minnesota.cbslocal.com/) on 24 January 2020 about airport, I Would Die 4 U (song), Minneapolis-St. Paul International Airport (place), museum, Rock Martinez, University of Minnesota ([mirror](https://web.archive.org/web/*/https://minnesota.cbslocal.com/2020/01/24/massive-prince-mural-coming-to-msps-terminal-1/))
 
 ----
 
@@ -135,6 +191,10 @@
 ----
 
  - [**"Lizzo reveals even more in overdue Rolling Stone cover story ahead of Grammys"**](http://www.startribune.com/lizzo-reveals-even-more-in-overdue-rolling-stone-cover-story-ahead-of-grammys/567201112/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 January 2020 about Grammy Award, Lizzo ([mirror](https://web.archive.org/web/*/http://www.startribune.com/lizzo-reveals-even-more-in-overdue-rolling-stone-cover-story-ahead-of-grammys/567201112/))
+
+----
+
+ - [**"The Joy of Lizzo -- She has become a new kind of pop superstar, full of relentless positivity. But it took a long time and a lot of heartache"**](https://www.rollingstone.com/music/music-features/lizzo-cover-story-interview-truth-hurts-grammys-937009/) in [Rolling Stone](https://www.rollingstone.com/) on 22 January 2020 about 3rdEyeGirl, BET Awards, Beyoncé, Detroit (place), Lizzo, Netflix, Saturday Night Live (TV show), Toronto ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/lizzo-cover-story-interview-truth-hurts-grammys-937009/))
 
 ----
 

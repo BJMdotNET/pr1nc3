@@ -1,5 +1,9 @@
 # Super Bowl
 
+ - [**"8 unforgettable Super Bowl halftime show moments"**](https://www.msn.com/en-us/entertainment/news/8-unforgettable-super-bowl-halftime-show-moments/vi-BBZuigg) in [msn entertainment](https://www.msn.com/en-us/entertainment) on 30 January 2020 about Katy Perry, Super Bowl ([mirror](https://web.archive.org/web/*/https://www.msn.com/en-us/entertainment/news/8-unforgettable-super-bowl-halftime-show-moments/vi-BBZuigg))
+
+----
+
  - [**"The Night Prince Jammed With a Black Puma -- Before Adrian Quesada was nominated for a Best New Artist Grammy with Black Pumas, he had a brief, exhilarating brush with purple greatness"**](https://www.rollingstone.com/music/music-features/black-pumas-prince-938428/) in [Rolling Stone](https://www.rollingstone.com/) on 30 January 2020 about James Brown, Super Bowl, Usher ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/black-pumas-prince-938428/))
 
 ----

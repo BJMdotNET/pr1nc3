@@ -1,5 +1,9 @@
 # Paisley Park Enterprises
 
+ - [**"Paisley Park Aims to Register Prince's Signature Purple as a Trademark for Use on Buildings"**](https://www.thefashionlaw.com/home/princes-estate-in-the-midst-of-fight-to-register-the-color-purple-for-use-on-buildings) in [www.thefashionlaw.com](https://www.thefashionlaw.com/) on 27 January 2020 about Cloud guitar, Grammy Award, Jamie Starr, museum, Paisley Park Enterprises, trademark ([mirror](https://web.archive.org/web/*/https://www.thefashionlaw.com/home/princes-estate-in-the-midst-of-fight-to-register-the-color-purple-for-use-on-buildings))
+
+----
+
  - [**"Court Sanctions Defendant for Failure to Preserve Text Messages in Copyright Infringement Suit Brought by Prince’s Estate"**](https://www.lexology.com/library/detail.aspx?g=ff9d02bd-b6be-485d-b249-e3ecc172bb1f) in [www.lexology.com](https://www.lexology.com/) on 19 November 2019 about David Staley, Deliverance (EP), Deliverance (song), Gabriel Solomon Wilson, George Ian Boxill, Paisley Park Enterprises ([mirror](https://web.archive.org/web/*/https://www.lexology.com/library/detail.aspx?g=ff9d02bd-b6be-485d-b249-e3ecc172bb1f))
 
 ----

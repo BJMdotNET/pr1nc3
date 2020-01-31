@@ -1,5 +1,9 @@
 # Computer Blue (song)
 
+ - [**"True Tales of Prince From Susan Rogers, His 1980’s Audio Engineer -- HEARD ON ANN DELISI'S ESSENTIAL CONVERSATIONS PODCAST"**](https://wdet.org/posts/2020/01/29/89147-true-tales-of-prince-from-susan-rogers-his-1980s-audio-engineer/) in [wdet.org](https://wdet.org/) on 29 January 2020 about Bruce Springsteen, Computer Blue (song), Jill Jones, Madonna, Purple Rain (song), Susan Rogers, The Beautiful Ones (song), Vanity, Vanity 6, vault ([mirror](https://web.archive.org/web/*/https://wdet.org/posts/2020/01/29/89147-true-tales-of-prince-from-susan-rogers-his-1980s-audio-engineer/))
+
+----
+
  - [**"Prince’s Previously Unreleased ‘Purple Music’ is ‘1999’-Era Perfection -- The track came out Friday as part of a massive box set revisiting Prince’s 5th LP"**](https://www.rollingstone.com/music/music-news/prince-purple-music-song-you-need-to-know-918020/) in [Rolling Stone](https://www.rollingstone.com/) on 2 December 2019 about 1999 (album), bootleg, Computer Blue (song), Erotic City (song), Irresistible Bitch (song), Let’s Go Crazy (song), Morris Day, Purple Music (song) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-news/prince-purple-music-song-you-need-to-know-918020/))
 
 ----

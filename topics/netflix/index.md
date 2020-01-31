@@ -1,5 +1,9 @@
 # Netflix
 
+ - [**"The Joy of Lizzo -- She has become a new kind of pop superstar, full of relentless positivity. But it took a long time and a lot of heartache"**](https://www.rollingstone.com/music/music-features/lizzo-cover-story-interview-truth-hurts-grammys-937009/) in [Rolling Stone](https://www.rollingstone.com/) on 22 January 2020 about 3rdEyeGirl, BET Awards, Beyoncé, Detroit (place), Lizzo, Netflix, Saturday Night Live (TV show), Toronto ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/lizzo-cover-story-interview-truth-hurts-grammys-937009/))
+
+----
+
  - [**"Alex Hahn about the Prince documentary Netflix is working on"**](https://www.facebook.com/groups/theriseofprince/permalink/1071260089885116/) by Alex Hahn in [theriseofprince on Facebook](https://www.facebook.com/groups/theriseofprince/) on 18 January 2020 about Ava DuVernay, Netflix ([mirror](https://web.archive.org/web/*/https://www.facebook.com/groups/theriseofprince/permalink/1071260089885116/))
 
 ----

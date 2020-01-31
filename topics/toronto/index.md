@@ -1,5 +1,9 @@
 # Toronto
 
+ - [**"The Joy of Lizzo -- She has become a new kind of pop superstar, full of relentless positivity. But it took a long time and a lot of heartache"**](https://www.rollingstone.com/music/music-features/lizzo-cover-story-interview-truth-hurts-grammys-937009/) in [Rolling Stone](https://www.rollingstone.com/) on 22 January 2020 about 3rdEyeGirl, BET Awards, Beyoncé, Detroit (place), Lizzo, Netflix, Saturday Night Live (TV show), Toronto ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/lizzo-cover-story-interview-truth-hurts-grammys-937009/))
+
+----
+
  - [**"Purple Galore: Prince’s Former Designers Release a New Line That’s Inspired by the Late Singer"**](https://atlantablackstar.com/2020/01/06/purple-galore-princes-former-designers-release-a-new-line-thats-inspired-by-the-late-singer/) in [atlantablackstar.com](https://atlantablackstar.com/) on 6 January 2020 about Call & Response, Cathy Robinson, Lori Marcuz, Toronto ([mirror](https://web.archive.org/web/*/https://atlantablackstar.com/2020/01/06/purple-galore-princes-former-designers-release-a-new-line-thats-inspired-by-the-late-singer/))
 
 ----

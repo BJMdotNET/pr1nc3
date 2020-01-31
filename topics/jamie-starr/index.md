@@ -1,5 +1,9 @@
 # Jamie Starr
 
+ - [**"Paisley Park Aims to Register Prince's Signature Purple as a Trademark for Use on Buildings"**](https://www.thefashionlaw.com/home/princes-estate-in-the-midst-of-fight-to-register-the-color-purple-for-use-on-buildings) in [www.thefashionlaw.com](https://www.thefashionlaw.com/) on 27 January 2020 about Cloud guitar, Grammy Award, Jamie Starr, museum, Paisley Park Enterprises, trademark ([mirror](https://web.archive.org/web/*/https://www.thefashionlaw.com/home/princes-estate-in-the-midst-of-fight-to-register-the-color-purple-for-use-on-buildings))
+
+----
+
  - [**"Prince: The Story of 1999 bonus feature: Dez Dickerson: 'Put an explosion over it'"**](https://www.thecurrent.org/feature/2019/12/05/prince-the-story-of-1999-bonus-dez-dickerson-prince-guitarist-interview) in [The Current](https://www.thecurrent.org/) on 5 December 2019 about 1999 (album), 94 East, Allen Beaulieu, Andrea Swensson, Dez Dickerson, Do Yourself a Favor (song), Eric Clapton, exhibit, George Clinton, I Wanna Be Your Lover (song), Jamie Starr, Little Red Corvette (song), Morris Day, orange, Peggy McCreary, Prince: The Story of 1999, SNL (TV show), Sunset Sound (place), The Time, Vanity, Vanity 6 ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/12/05/prince-the-story-of-1999-bonus-dez-dickerson-prince-guitarist-interview))
 
 ----

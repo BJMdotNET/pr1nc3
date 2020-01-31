@@ -1,5 +1,13 @@
 # BET Awards
 
+ - [**"Grammys: Usher, Sheila E. and FKA Twigs Team Up for Prince Tribute -- The group of Prince collaborators and friends performed a medley of the icon's biggest hits."**](https://www.hollywoodreporter.com/news/grammys-usher-sheila-e-fka-twigs-perform-prince-tribute-1272924) in [The Hollywood Reporter](https://www.hollywoodreporter.com/) on 26 January 2020 about Alicia Keys, Beck, BET Awards, Celebration, Coldplay, FKA twigs, Grammy Award, H.E.R., John Legend, Little Red Corvette (song), Los Angeles Convention Center (place), Purple Rain (song), Sheila E., The Glamorous Life (song), The Roots, The Time, Usher, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.hollywoodreporter.com/news/grammys-usher-sheila-e-fka-twigs-perform-prince-tribute-1272924))
+
+----
+
+ - [**"The Joy of Lizzo -- She has become a new kind of pop superstar, full of relentless positivity. But it took a long time and a lot of heartache"**](https://www.rollingstone.com/music/music-features/lizzo-cover-story-interview-truth-hurts-grammys-937009/) in [Rolling Stone](https://www.rollingstone.com/) on 22 January 2020 about 3rdEyeGirl, BET Awards, Beyoncé, Detroit (place), Lizzo, Netflix, Saturday Night Live (TV show), Toronto ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/lizzo-cover-story-interview-truth-hurts-grammys-937009/))
+
+----
+
  - [**"2020 NAACP Image Awards Nominations: The Full List"**](https://www.etonline.com/2020-naacp-image-awards-nominations-the-full-list-139199) in [www.etonline.com](https://www.etonline.com/) on 9 January 2020 about Alicia Keys, Ava DuVernay, BET Awards, Beyoncé, Black-ish (TV show), Dan Piepenbring, Dave Chappelle, H.E.R., Janelle Monáe, Lizzo, memoir, Miles Davis, My Name Is Prince: 25 Inspired Years (book), Randee St. Nicholas, Saturday Night Live (TV show), Tamron Hall, The Beautiful Ones (book), Yara Shahidi ([mirror](https://web.archive.org/web/*/https://www.etonline.com/2020-naacp-image-awards-nominations-the-full-list-139199))
 
 ----

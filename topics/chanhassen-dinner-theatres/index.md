@@ -1,5 +1,9 @@
 # Chanhassen Dinner Theatres
 
+ - [**"Sister act: Minneapolis actors return from New York to play siblings in dark comedy ‘Peerless’"**](https://www.twincities.com/2020/01/31/sister-act-minneapolis-actors-return-from-new-york-to-play-siblings-in-dark-comedy-peerless/) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 31 January 2020 about Chanhassen Dinner Theatres, University of Minnesota ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2020/01/31/sister-act-minneapolis-actors-return-from-new-york-to-play-siblings-in-dark-comedy-peerless/))
+
+----
+
  - [**"From Prince to Dessa to Dylan, here are five homegrown musical gift ideas"**](https://www.twincities.com/2019/12/12/from-prince-to-dessa-to-dylan-here-are-five-homegrown-musical-gift-ideas/) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 12 December 2019 about Andrea Swensson, Bob Dylan, bootleg, Chanhassen Dinner Theatres, David Fricke, Duane Tudahl, Duff McKagan, Little Red Corvette (song), Miles Davis, Minnesota Historical Society, motorcycle, Pop Life (song), The Revolution, vault ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2019/12/12/from-prince-to-dessa-to-dylan-here-are-five-homegrown-musical-gift-ideas/))
 
 ----

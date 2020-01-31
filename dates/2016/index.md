@@ -1172,7 +1172,7 @@
 
 ----
 
-## April 2016 (113)
+## April 2016 (114)
 
  - [**"AP Exclusive: Prince’s ‘Purple Rain’ coat is up for auction"**](https://apnews.com/8110dcbaa6714d75a12db043ff989975) in [Associated Press News](https://apnews.com/) on 29 April 2016 about Apollonia Kotero, auction, Katy Perry, motorcycle ([mirror](https://web.archive.org/web/*/https://apnews.com/8110dcbaa6714d75a12db043ff989975))
 
@@ -1371,6 +1371,10 @@
 ----
 
  - [**"Magic memories: Prince’s warmth and wit shone in private"**](https://apnews.com/cf2e87db1753473eb63165d807bd45c2) in [Associated Press News](https://apnews.com/) on 23 April 2016 about 3rdEyeGirl, James Brown, Joshua Welton, Larry Graham, memoir, NPG Records, piracy, Spotify, Warner Bros. Records, YouTube ([mirror](https://web.archive.org/web/*/https://apnews.com/cf2e87db1753473eb63165d807bd45c2))
+
+----
+
+ - [**"New Prince mural in Uptown: ‘A present to Minneapolis’"**](https://blog.thecurrent.org/2016/04/new-prince-mural-in-uptown-a-present-to-minneapolis/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 23 April 2016 about Rock “Cyfi” Martinez ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2016/04/new-prince-mural-in-uptown-a-present-to-minneapolis/))
 
 ----
 

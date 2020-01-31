@@ -1,5 +1,9 @@
 # The Beautiful Ones (book)
 
+ - [**"40+ CELEBRITY BOOKS YOU SHOULD READ THIS YEAR"**](https://bookriot.com/2020/01/28/best-celebrity-books/) in [bookriot.com](https://bookriot.com/) on 28 January 2020 about memoir, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/https://bookriot.com/2020/01/28/best-celebrity-books/))
+
+----
+
  - [**""To have him trust me to be the first reader of his memoir pages...that was special" – Dan Piepenbring on Prince's unfinished memoir"**](https://www.hotpress.com/music/trust-first-reader-memoir-pages-special-dan-piepenbring-princes-unfinished-memoir-22801383) in [Hot Press](https://www.hotpress.com/) on 23 January 2020 about Bob Dylan, Chaka Khan, Dan Piepenbring, John Lewis Nelson, memoir, The Beautiful Ones (book), When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.hotpress.com/music/trust-first-reader-memoir-pages-special-dan-piepenbring-princes-unfinished-memoir-22801383))
 
 ----

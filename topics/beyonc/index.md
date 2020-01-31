@@ -16,6 +16,10 @@
 
 ----
 
+ - [**"The Joy of Lizzo -- She has become a new kind of pop superstar, full of relentless positivity. But it took a long time and a lot of heartache"**](https://www.rollingstone.com/music/music-features/lizzo-cover-story-interview-truth-hurts-grammys-937009/) in [Rolling Stone](https://www.rollingstone.com/) on 22 January 2020 about 3rdEyeGirl, BET Awards, Beyoncé, Detroit (place), Lizzo, Netflix, Saturday Night Live (TV show), Toronto ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/lizzo-cover-story-interview-truth-hurts-grammys-937009/))
+
+----
+
  - [**"Super Bowl Halftime Shows Ranked: From Worst to Best -- Pop spectacles, Janet’s nipple, Springsteen’s marathon, Left Shark and loads of soul revues – we’ve seen ’em all"**](https://www.rollingstone.com/culture/culture-lists/super-bowl-halftime-shows-ranked-from-worst-to-best-14201/prince-2007-228422/) in [Rolling Stone](https://www.rollingstone.com/) on 17 January 2020 about Beyoncé, Foo Fighters, Let’s Go Crazy (song), Madonna, Purple Rain (song), Super Bowl ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/culture/culture-lists/super-bowl-halftime-shows-ranked-from-worst-to-best-14201/prince-2007-228422/))
 
 ----

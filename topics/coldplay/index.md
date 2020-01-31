@@ -16,6 +16,10 @@
 
 ----
 
+ - [**"Grammys: Usher, Sheila E. and FKA Twigs Team Up for Prince Tribute -- The group of Prince collaborators and friends performed a medley of the icon's biggest hits."**](https://www.hollywoodreporter.com/news/grammys-usher-sheila-e-fka-twigs-perform-prince-tribute-1272924) in [The Hollywood Reporter](https://www.hollywoodreporter.com/) on 26 January 2020 about Alicia Keys, Beck, BET Awards, Celebration, Coldplay, FKA twigs, Grammy Award, H.E.R., John Legend, Little Red Corvette (song), Los Angeles Convention Center (place), Purple Rain (song), Sheila E., The Glamorous Life (song), The Roots, The Time, Usher, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.hollywoodreporter.com/news/grammys-usher-sheila-e-fka-twigs-perform-prince-tribute-1272924))
+
+----
+
  - [**""Let's Go Crazy: The GRAMMY® Salute to Prince" Available Internationally Thanks to Exclusive Television Distribution Rights Secured by Alfred Haber, Inc. -- All-Star Lineup Set to Perform Songs from Prince's Remarkable Catalog During Live Concert Taping on Jan. 28 -- Available at NATPE for the first time"**](https://www.prnewswire.com/news-releases/lets-go-crazy-the-grammy-salute-to-prince-available-internationally-thanks-to-exclusive-television-distribution-rights-secured-by-alfred-haber-inc-300989367.html) in [PR Newswire](https://www.prnewswire.com/) on 20 January 2020 about Bangles, Beck, Chris Martin, Coldplay, Earth, Wind & Fire, Foo Fighters, Gary Clark Jr., Grammy Award, H.E.R., John Legend, Juanes, Mavis Staples, Morris Day, Morris Day and The Time, museum, Sheila E., St. Vincent, Susanna Hoffs, The Revolution, The Time, Usher, YouTube ([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/lets-go-crazy-the-grammy-salute-to-prince-available-internationally-thanks-to-exclusive-television-distribution-rights-secured-by-alfred-haber-inc-300989367.html))
 
 ----

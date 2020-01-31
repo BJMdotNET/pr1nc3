@@ -16,6 +16,10 @@
 
 ----
 
+ - [**"Grammys: Usher, Sheila E. and FKA Twigs Team Up for Prince Tribute -- The group of Prince collaborators and friends performed a medley of the icon's biggest hits."**](https://www.hollywoodreporter.com/news/grammys-usher-sheila-e-fka-twigs-perform-prince-tribute-1272924) in [The Hollywood Reporter](https://www.hollywoodreporter.com/) on 26 January 2020 about Alicia Keys, Beck, BET Awards, Celebration, Coldplay, FKA twigs, Grammy Award, H.E.R., John Legend, Little Red Corvette (song), Los Angeles Convention Center (place), Purple Rain (song), Sheila E., The Glamorous Life (song), The Roots, The Time, Usher, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.hollywoodreporter.com/news/grammys-usher-sheila-e-fka-twigs-perform-prince-tribute-1272924))
+
+----
+
  - [**"Grammys to host all-star Prince tribute concert run by Sheila E., Jimmy Jam, and Terry Lewis"**](https://blog.thecurrent.org/2020/01/grammys-to-host-all-star-prince-tribute-concert-run-by-sheila-e-jimmy-jam-and-terry-lewis/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 9 January 2020 about Alicia Keys, Aretha Franklin, Bangles, Beck, Chaka Khan, Chris Martin, Coldplay, Gary Clark Jr., H.E.R., I Feel For You (song), Jimmy Jam, John Legend, Juanes, Ken Ehrlich, Let’s Go Crazy (song), Lizzo, Los Angeles Convention Center (place), Manic Monday (song), Mayte, Mayte Garcia, Morris Day, Morris Day and The Time, Nasty Girl (song), Sheila E., Stevie Wonder, Susanna Hoffs, Terry Lewis, The Revolution, The Time, Usher, Vanity, Vanity 6 ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2020/01/grammys-to-host-all-star-prince-tribute-concert-run-by-sheila-e-jimmy-jam-and-terry-lewis/))
 
 ----

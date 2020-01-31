@@ -6,7 +6,7 @@
 
 ----
 
- - [**"Massive Prince Mural Coming To MSP’s Terminal 1"**](https://minnesota.cbslocal.com/2020/01/24/massive-prince-mural-coming-to-msps-terminal-1/) in [WCCO - CBS Minnesota](https://minnesota.cbslocal.com/) on 24 January 2020 about airport, I Would Die 4 U (song), Minneapolis-St. Paul International Airport (place), museum, University of Minnesota ([mirror](https://web.archive.org/web/*/https://minnesota.cbslocal.com/2020/01/24/massive-prince-mural-coming-to-msps-terminal-1/))
+ - [**"Massive Prince Mural Coming To MSP’s Terminal 1"**](https://minnesota.cbslocal.com/2020/01/24/massive-prince-mural-coming-to-msps-terminal-1/) in [WCCO - CBS Minnesota](https://minnesota.cbslocal.com/) on 24 January 2020 about airport, I Would Die 4 U (song), Minneapolis-St. Paul International Airport (place), museum, Rock Martinez, University of Minnesota ([mirror](https://web.archive.org/web/*/https://minnesota.cbslocal.com/2020/01/24/massive-prince-mural-coming-to-msps-terminal-1/))
 
 ----
 

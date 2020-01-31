@@ -24,6 +24,14 @@
 
 ----
 
+ - [**"True Tales of Prince From Susan Rogers, His 1980’s Audio Engineer -- HEARD ON ANN DELISI'S ESSENTIAL CONVERSATIONS PODCAST"**](https://wdet.org/posts/2020/01/29/89147-true-tales-of-prince-from-susan-rogers-his-1980s-audio-engineer/) in [wdet.org](https://wdet.org/) on 29 January 2020 about Bruce Springsteen, Computer Blue (song), Jill Jones, Madonna, Purple Rain (song), Susan Rogers, The Beautiful Ones (song), Vanity, Vanity 6, vault ([mirror](https://web.archive.org/web/*/https://wdet.org/posts/2020/01/29/89147-true-tales-of-prince-from-susan-rogers-his-1980s-audio-engineer/))
+
+----
+
+ - [**"Grammys: Usher, Sheila E. and FKA Twigs Team Up for Prince Tribute -- The group of Prince collaborators and friends performed a medley of the icon's biggest hits."**](https://www.hollywoodreporter.com/news/grammys-usher-sheila-e-fka-twigs-perform-prince-tribute-1272924) in [The Hollywood Reporter](https://www.hollywoodreporter.com/) on 26 January 2020 about Alicia Keys, Beck, BET Awards, Celebration, Coldplay, FKA twigs, Grammy Award, H.E.R., John Legend, Little Red Corvette (song), Los Angeles Convention Center (place), Purple Rain (song), Sheila E., The Glamorous Life (song), The Roots, The Time, Usher, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.hollywoodreporter.com/news/grammys-usher-sheila-e-fka-twigs-perform-prince-tribute-1272924))
+
+----
+
  - [**"Opinion: From Joe Namath to Prince, Miami has provided epic Super Bowl moments"**](https://usatoday.com/story/sports/nfl/columnist/bell/2020/01/25/super-bowl-54-joe-namath-prince-miami-provides-iconic-moments/4576597002/) in [USA Today](https://usatoday.com/) on 25 January 2020 about Purple Rain (song), Stevie Wonder, Super Bowl ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/sports/nfl/columnist/bell/2020/01/25/super-bowl-54-joe-namath-prince-miami-provides-iconic-moments/4576597002/))
 
 ----

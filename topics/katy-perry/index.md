@@ -1,5 +1,9 @@
 # Katy Perry
 
+ - [**"8 unforgettable Super Bowl halftime show moments"**](https://www.msn.com/en-us/entertainment/news/8-unforgettable-super-bowl-halftime-show-moments/vi-BBZuigg) in [msn entertainment](https://www.msn.com/en-us/entertainment) on 30 January 2020 about Katy Perry, Super Bowl ([mirror](https://web.archive.org/web/*/https://www.msn.com/en-us/entertainment/news/8-unforgettable-super-bowl-halftime-show-moments/vi-BBZuigg))
+
+----
+
  - [**"All of Prince’s Spiciest Pop-Culture Hot Takes From His New Book, The Beautiful Ones"**](https://www.vulture.com/2019/10/prince-memoir-pop-culture-hot-takes.html) in [Vulture](https://www.vulture.com/) on 31 October 2019 about Chaka Khan, Dan Piepenbring, Ed Sheeran, Katy Perry, Lenny Kravitz, memoir, Meron Bekure, Miles Davis, Purple Pam, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/https://www.vulture.com/2019/10/prince-memoir-pop-culture-hot-takes.html))
 
 ----

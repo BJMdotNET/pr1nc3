@@ -20,6 +20,10 @@
 
 ----
 
+ - [**"Grammys: Usher, Sheila E. and FKA Twigs Team Up for Prince Tribute -- The group of Prince collaborators and friends performed a medley of the icon's biggest hits."**](https://www.hollywoodreporter.com/news/grammys-usher-sheila-e-fka-twigs-perform-prince-tribute-1272924) in [The Hollywood Reporter](https://www.hollywoodreporter.com/) on 26 January 2020 about Alicia Keys, Beck, BET Awards, Celebration, Coldplay, FKA twigs, Grammy Award, H.E.R., John Legend, Little Red Corvette (song), Los Angeles Convention Center (place), Purple Rain (song), Sheila E., The Glamorous Life (song), The Roots, The Time, Usher, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.hollywoodreporter.com/news/grammys-usher-sheila-e-fka-twigs-perform-prince-tribute-1272924))
+
+----
+
  - [**"Usher and Sheila E. Will Perform Special Prince Tribute at 2020 Grammy Awards"**](https://www.billboard.com/articles/news/awards/8548944/2020-grammys-usher-sheila-e-prince-tribute) in [Billboard](https://www.billboard.com/) on 24 January 2020 about Alicia Keys, Beck, Chris Martin, Gary Clark Jr., Grammy Award, Gwen Stefani, H.E.R., John Legend, Juanes, Let's Go Crazy: The Grammy Salute to Prince (event), Lizzo, Sheila E., The Roots, Usher ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/awards/8548944/2020-grammys-usher-sheila-e-prince-tribute))
 
 ----

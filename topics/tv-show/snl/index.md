@@ -1,5 +1,9 @@
 # SNL (TV show)
 
+ - [**"When Brittany Howard Jammed With Prince"**](https://www.pollstar.com/article/when-brittany-howard-jammed-with-prince-143384) in [www.pollstar.com](https://www.pollstar.com/) on 27 January 2020 about Brittany Howard, SNL (TV show) ([mirror](https://web.archive.org/web/*/https://www.pollstar.com/article/when-brittany-howard-jammed-with-prince-143384))
+
+----
+
  - [**"Prince: The Story of 1999 bonus feature: Fred Armisen, 'I could talk about Prince endlessly'"**](https://www.thecurrent.org/feature/2020/01/03/prince-the-story-of-1999-bonus-feature-fred-armisen-interview) in [The Current](https://www.thecurrent.org/) on 3 January 2020 about 1999 (album), Andrea Swensson, Bobby Z., Dr. Mambo's Combo, Fred Armisen, Little Red Corvette (song), Michael Bland, Parade (album), Prince: The Story of 1999, Saturday Night Live (TV show), SNL (TV show), Sonny Thompson ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2020/01/03/prince-the-story-of-1999-bonus-feature-fred-armisen-interview))
 
 ----

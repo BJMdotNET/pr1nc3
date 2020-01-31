@@ -1,5 +1,9 @@
 # Vanity 6
 
+ - [**"True Tales of Prince From Susan Rogers, His 1980’s Audio Engineer -- HEARD ON ANN DELISI'S ESSENTIAL CONVERSATIONS PODCAST"**](https://wdet.org/posts/2020/01/29/89147-true-tales-of-prince-from-susan-rogers-his-1980s-audio-engineer/) in [wdet.org](https://wdet.org/) on 29 January 2020 about Bruce Springsteen, Computer Blue (song), Jill Jones, Madonna, Purple Rain (song), Susan Rogers, The Beautiful Ones (song), Vanity, Vanity 6, vault ([mirror](https://web.archive.org/web/*/https://wdet.org/posts/2020/01/29/89147-true-tales-of-prince-from-susan-rogers-his-1980s-audio-engineer/))
+
+----
+
  - [**"What are the best Prince tracks released since 2016?"**](https://blog.thecurrent.org/2020/01/what-are-the-best-prince-tracks-released-since-2016/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 21 January 2020 about 1999 Deluxe (album), Amazing Grace (movie), Andrea Swensson, Apollonia, Apollonia 6, Aretha Franklin, Bold Generation (song), bootleg, Celebration 2020, Deliverance (EP), Deliverance (song), Do Yourself a Favor (song), George Clinton, I Feel For You (song), Irresistible Bitch (song), Jill Jones, Lisa Coleman, Love and Sex (song), Niko Bolas, Originals (album), Peggy McCreary, Piano and a Microphone 1983 (album), Purple Music (song), Rearrange (song), Spike Lee, Sunset Sound (place), The Glamorous Life (song), University of Minnesota, Vagina (song), Vanity, Vanity 6, vault, Wendy Melvoin, Yah, You Know (song) ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2020/01/what-are-the-best-prince-tracks-released-since-2016/))
 
 ----
