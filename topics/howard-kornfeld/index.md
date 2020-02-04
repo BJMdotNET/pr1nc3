@@ -1,5 +1,9 @@
 # Howard Kornfeld
 
+ - [**"Prince doctor sanctioned by Minnesota Board of Medical Practice -- Disciplinary action follows physician's settlement of a federal lawsuit. "**](http://www.startribune.com/prince-doctor-sanctioned-by-minnesota-board-of-medical-practice/567528322/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 3 February 2020 about Atlanta (place), fentanyl, Howard Kornfeld, Kirk Johnson, Michael Todd Schulenberg ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-doctor-sanctioned-by-minnesota-board-of-medical-practice/567528322/))
+
+----
+
  - [**"Prince relatives agree to drop wrongful death lawsuits"**](http://www.citypages.com/music/prince-relatives-agree-to-drop-wrongful-death-lawsuits/567137941) in [City Pages](http://www.citypages.com/) on 20 January 2020 about Howard Kornfeld, Illinois (place), Kirk Johnson, Michael Schulenberg, oxycodone, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/http://www.citypages.com/music/prince-relatives-agree-to-drop-wrongful-death-lawsuits/567137941))
 
 ----

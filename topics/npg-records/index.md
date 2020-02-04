@@ -20,7 +20,15 @@
 
 ----
 
+ - [**"Drum Prodigy Jacob Armen Announces Album Release Date and Live Show"**](http://asbarez.com/173309/drum-prodigy-jacob-armen-announces-album-release-date-and-live-show/) in [asbarez.com](http://asbarez.com/) on 2 July 2018 about Grammy Award, Jacob Armen, NPG Records ([mirror](https://web.archive.org/web/*/http://asbarez.com/173309/drum-prodigy-jacob-armen-announces-album-release-date-and-live-show/))
+
+----
+
  - [**"Unreleased Prince music to be streamed on Tidal in 2019"**](https://apnews.com/feda2c28fd88407aa211aa7a46f6f943) by Amy Forliti (Associated Press) in [Associated Press News](https://apnews.com/) on 12 May 2018 about NPG Records, Troy Carter ([mirror](https://web.archive.org/web/*/https://apnews.com/feda2c28fd88407aa211aa7a46f6f943))
+
+----
+
+ - [**"JAAB Records, in Association with Glendale Arts, Presents JACOB ARMEN LIVE: A CELEBRATION OF RHYTHM – “WHEN DRUMS CONDUCT” ALBUM RELEASE EVENT"**](http://glendalearts.org/event/jaab-records-in-association-with-glendale-arts-presents-jacob-armen-live-a-celebration-of-rhythm-when-drums-conduct-album-release-event/) in [glendalearts.org](http://glendalearts.org/) on 9 May 2018 about Grammy Award, Jacob Armen, NPG Records, Paisley Park Enterprises ([mirror](https://web.archive.org/web/*/http://glendalearts.org/event/jaab-records-in-association-with-glendale-arts-presents-jacob-armen-live-a-celebration-of-rhythm-when-drums-conduct-album-release-event/))
 
 ----
 

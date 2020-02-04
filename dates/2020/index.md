@@ -1,12 +1,42 @@
 # 2020
 
-## January 2020 (102)
+## February 2020 (5)
+
+ - [**"Michael Schulenberg, Doctor Who Prescribed Opioids To Prince Before Death, Punished By State Board"**](https://minnesota.cbslocal.com/2020/02/03/michael-schulenberg-doctor-who-prescribed-opioids-to-prince-before-death-punished-by-state-board/) in [WCCO - CBS Minnesota](https://minnesota.cbslocal.com/) on 3 February 2020 about Michael Schulenberg ([mirror](https://web.archive.org/web/*/https://minnesota.cbslocal.com/2020/02/03/michael-schulenberg-doctor-who-prescribed-opioids-to-prince-before-death-punished-by-state-board/))
+
+----
+
+ - [**"Prince doctor sanctioned by Minnesota Board of Medical Practice -- Disciplinary action follows physician's settlement of a federal lawsuit. "**](http://www.startribune.com/prince-doctor-sanctioned-by-minnesota-board-of-medical-practice/567528322/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 3 February 2020 about Atlanta (place), fentanyl, Howard Kornfeld, Kirk Johnson, Michael Todd Schulenberg ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-doctor-sanctioned-by-minnesota-board-of-medical-practice/567528322/))
+
+----
+
+ - [**"Prince doctor to pay $4K civil penalty for painkiller prescription"**](https://www.twincities.com/2020/02/03/prince-doctor-to-pay-4k-civil-penalty-for-painkiller-prescription/) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 3 February 2020 about Amy Conners, fentanyl, Kirk Johnson, Michael Schulenberg, oxycodone ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2020/02/03/prince-doctor-to-pay-4k-civil-penalty-for-painkiller-prescription/))
+
+----
+
+ - [**"Prince doctor to pay $4K civil penalty for prescription"**](https://apnews.com/58492fc402a996c118253c33f6fd5703) in [Associated Press News](https://apnews.com/) on 3 February 2020 about Amy Conners, fentanyl, Kirk Johnson, Michael Schulenberg, oxycodone ([mirror](https://web.archive.org/web/*/https://apnews.com/58492fc402a996c118253c33f6fd5703))
+
+----
+
+ - [**"Prince doctor to pay $4K civil penalty for prescription"**](https://www.yahoo.com/entertainment/prince-doctor-pay-4k-civil-224903514.html) in [Yahoo! Entertainment](https://www.yahoo.com/entertainment/) on 3 February 2020 about Amy Conners, fentanyl, Kirk Johnson, Michael Schulenberg, oxycodone ([mirror](https://web.archive.org/web/*/https://www.yahoo.com/entertainment/prince-doctor-pay-4k-civil-224903514.html))
+
+----
+
+## January 2020 (104)
+
+ - [**"10 Best Super Bowl Halftime Shows"**](https://www.billboard.com/articles/list/513793/super-bowl-halftime-shows-10-best) in [Billboard](https://www.billboard.com/) on 31 January 2020 about Beck, Beyoncé, Bruce Springsteen, CeeLo Green, Coldplay, Janet Jackson, Justin Timberlake, Madonna, Purple Rain (song), Super Bowl ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/list/513793/super-bowl-halftime-shows-10-best))
+
+----
 
  - [**"Sister act: Minneapolis actors return from New York to play siblings in dark comedy ‘Peerless’"**](https://www.twincities.com/2020/01/31/sister-act-minneapolis-actors-return-from-new-york-to-play-siblings-in-dark-comedy-peerless/) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 31 January 2020 about Chanhassen Dinner Theatres, University of Minnesota ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2020/01/31/sister-act-minneapolis-actors-return-from-new-york-to-play-siblings-in-dark-comedy-peerless/))
 
 ----
 
  - [**"8 unforgettable Super Bowl halftime show moments"**](https://www.msn.com/en-us/entertainment/news/8-unforgettable-super-bowl-halftime-show-moments/vi-BBZuigg) in [msn entertainment](https://www.msn.com/en-us/entertainment) on 30 January 2020 about Katy Perry, Super Bowl ([mirror](https://web.archive.org/web/*/https://www.msn.com/en-us/entertainment/news/8-unforgettable-super-bowl-halftime-show-moments/vi-BBZuigg))
+
+----
+
+ - [**"Foo Fighters, Beck, H.E.R., Sheila E. Light Up ‘Grammy Salute to Prince’ Concert"**](https://www.yahoo.com/entertainment/foo-fighters-beck-h-e-233930375.html) in [Yahoo! Entertainment](https://www.yahoo.com/entertainment/) on 30 January 2020 about 1999 (song), Baby I’m a Star (song), Bangles, Beck, Chris Martin, Coldplay, Controversy (song), D’Angelo, Darling Nikki (song), Diamonds and Pearls (song), Earth, Wind & Fire, Foo Fighters, Fred Armisen, Gary Clark Jr., Gretchen Lieberum, H.E.R., Janelle Monae, Jerome Benton, Jimmy Jam, John Legend, Juanes, Jungle Love (song), Ken Ehrlich, Let’s Go Crazy (song), Lisa Coleman, Manic Monday (song), Mavis Staples, Maya Rudolph, Misty Copeland, Morris Day, Mountains (song), Nothing Compares 2 U (song), Pop Life (song), PRINCEss, Purple Rain (song), Raspberry Beret (song), Sheila E., St. Vincent, Stevie Wonder, Super Bowl, Terry Lewis, The Beautiful Ones (song), The Bird (song), The Glamorous Life (song), The Revolution, The Time, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://www.yahoo.com/entertainment/foo-fighters-beck-h-e-233930375.html))
 
 ----
 

@@ -20,6 +20,10 @@
 
 ----
 
+ - [**"SPILL FEATURE: WHEN DRUMS CONDUCT – A CONVERSATION WITH JACOB ARMEN"**](http://spillmagazine.com/spill-feature-when-drums-conduct-a-conversation-with-jacob-armen/) in [The Spill Magazine](http://spillmagazine.com/) on 10 January 2019 about Eric Leeds, Jacob Armen, Paisley Park Records ([mirror](https://web.archive.org/web/*/http://spillmagazine.com/spill-feature-when-drums-conduct-a-conversation-with-jacob-armen/))
+
+----
+
  - [**"Prince's death: Sinbad, Sheila E attend memorial service"**](https://usatoday.com/story/life/music/2016/05/15/princes-death-day-25--jehovahs-witness-memorial-guitar-auction/84412432/) in [USA Today](https://usatoday.com/) on 16 May 2016 about auction, contract, Heritage Auctions, Kirk Johnson, Larry Graham, Meron Bekure, Minnesota Vikings, Paisley Park Records, Tyka Nelson ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2016/05/15/princes-death-day-25--jehovahs-witness-memorial-guitar-auction/84412432/))
 
 ----

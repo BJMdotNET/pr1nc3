@@ -1,5 +1,11 @@
 # 2020
 
+## February 2020 (1)
+
+ - [**"Prince doctor to pay $4K civil penalty for painkiller prescription"**](https://www.twincities.com/2020/02/03/prince-doctor-to-pay-4k-civil-penalty-for-painkiller-prescription/) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 3 February 2020 about Amy Conners, fentanyl, Kirk Johnson, Michael Schulenberg, oxycodone ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2020/02/03/prince-doctor-to-pay-4k-civil-penalty-for-painkiller-prescription/))
+
+----
+
 ## January 2020 (4)
 
  - [**"Sister act: Minneapolis actors return from New York to play siblings in dark comedy ‘Peerless’"**](https://www.twincities.com/2020/01/31/sister-act-minneapolis-actors-return-from-new-york-to-play-siblings-in-dark-comedy-peerless/) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 31 January 2020 about Chanhassen Dinner Theatres, University of Minnesota ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2020/01/31/sister-act-minneapolis-actors-return-from-new-york-to-play-siblings-in-dark-comedy-peerless/))

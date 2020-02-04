@@ -1,5 +1,11 @@
 # 2020
 
+## February 2020 (1)
+
+ - [**"Michael Schulenberg, Doctor Who Prescribed Opioids To Prince Before Death, Punished By State Board"**](https://minnesota.cbslocal.com/2020/02/03/michael-schulenberg-doctor-who-prescribed-opioids-to-prince-before-death-punished-by-state-board/) in [WCCO - CBS Minnesota](https://minnesota.cbslocal.com/) on 3 February 2020 about Michael Schulenberg ([mirror](https://web.archive.org/web/*/https://minnesota.cbslocal.com/2020/02/03/michael-schulenberg-doctor-who-prescribed-opioids-to-prince-before-death-punished-by-state-board/))
+
+----
+
 ## January 2020 (5)
 
  - [**"Finding Minnesota: First Avenue Celebrates 50 Years"**](https://minnesota.cbslocal.com/2020/01/26/finding-minnesota-first-avenue-celebrates-50-years/) in [WCCO - CBS Minnesota](https://minnesota.cbslocal.com/) on 26 January 2020 about First Avenue (place) ([mirror](https://web.archive.org/web/*/https://minnesota.cbslocal.com/2020/01/26/finding-minnesota-first-avenue-celebrates-50-years/))

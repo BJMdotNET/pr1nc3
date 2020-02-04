@@ -188,6 +188,14 @@
 
 ----
 
+ - [**"Drum Prodigy Jacob Armen Announces Album Release Date and Live Show"**](http://asbarez.com/173309/drum-prodigy-jacob-armen-announces-album-release-date-and-live-show/) in [asbarez.com](http://asbarez.com/) on 2 July 2018 about Grammy Award, Jacob Armen, NPG Records ([mirror](https://web.archive.org/web/*/http://asbarez.com/173309/drum-prodigy-jacob-armen-announces-album-release-date-and-live-show/))
+
+----
+
+ - [**"JAAB Records, in Association with Glendale Arts, Presents JACOB ARMEN LIVE: A CELEBRATION OF RHYTHM – “WHEN DRUMS CONDUCT” ALBUM RELEASE EVENT"**](http://glendalearts.org/event/jaab-records-in-association-with-glendale-arts-presents-jacob-armen-live-a-celebration-of-rhythm-when-drums-conduct-album-release-event/) in [glendalearts.org](http://glendalearts.org/) on 9 May 2018 about Grammy Award, Jacob Armen, NPG Records, Paisley Park Enterprises ([mirror](https://web.archive.org/web/*/http://glendalearts.org/event/jaab-records-in-association-with-glendale-arts-presents-jacob-armen-live-a-celebration-of-rhythm-when-drums-conduct-album-release-event/))
+
+----
+
  - [**"Prince left behind a treasure trove to see at Paisley Park"**](https://apnews.com/a5f775426be44b65a5cbe3d790774288) by Jeff Baenen (Associated Press) in [Associated Press News](https://apnews.com/) on 18 April 2017 about Grammy Award, museum, Purple Rain (movie), Super Bowl ([mirror](https://web.archive.org/web/*/https://apnews.com/a5f775426be44b65a5cbe3d790774288))
 
 ----

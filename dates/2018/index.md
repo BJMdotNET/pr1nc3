@@ -226,7 +226,7 @@
 
 ----
 
-## September 2018 (29)
+## September 2018 (30)
 
  - [**"Minnesota Historical Society obtains more Prince items"**](https://apnews.com/7e26d95348014ce48fc8987eff0d14fc) in [Associated Press News](https://apnews.com/) on 30 September 2018 about Capri Theatre (place), Jehovah’s Witness, Minnesota Historical Society, Sondra Reierson ([mirror](https://web.archive.org/web/*/https://apnews.com/7e26d95348014ce48fc8987eff0d14fc))
 
@@ -340,6 +340,10 @@
 
 ----
 
+ - [**"‘The most frightening drummer’ Prince has heard"**](https://www.pcccourier.com/lifestyle/press-play/jacob-armen-a-celebration-of-life-music-and-rhythm.html) in [www.pcccourier.com](https://www.pcccourier.com/) on 6 September 2018 about Jacob Armen, YouTube ([mirror](https://web.archive.org/web/*/https://www.pcccourier.com/lifestyle/press-play/jacob-armen-a-celebration-of-life-music-and-rhythm.html))
+
+----
+
  - [**"Prince estate sues 'brazen bootlegger,' others selling CDs of his last show, trove of other music -- Suit seeks many millions in compensation; sales over internet have been going on since 2016, the year Prince died."**](http://www.startribune.com/prince-estate-sues-brazen-bootlegger-others-selling-cds-of-his-last-show-trove-of-other-music/492422931/) by Paul Walsh in [Minneapolis Star Tribune](http://www.startribune.com/) on 4 September 2018 about bootleg, Prince Estate ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-estate-sues-brazen-bootlegger-others-selling-cds-of-his-last-show-trove-of-other-music/492422931/))
 
 ----
@@ -382,7 +386,7 @@
 
 ----
 
-## July 2018 (8)
+## July 2018 (9)
 
  - [**"Lizzo earns a big nod as Rolling Stone's 'Artist You Need to Know'"**](http://www.startribune.com/lizzo-earns-a-big-nod-as-rolling-stone-s-artist-you-need-to-know/489627651/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 31 July 2018 about Lizzo ([mirror](https://web.archive.org/web/*/http://www.startribune.com/lizzo-earns-a-big-nod-as-rolling-stone-s-artist-you-need-to-know/489627651/))
 
@@ -413,6 +417,10 @@
 ----
 
  - [**"Janelle Monáe gives galvanizing Prince-inspired performance at sold-out State Theatre -- Review: It was obvious from the reaction of the celebratory and worshipful crowd that the visionary singer has gone from cult hero to cultural hero."**](http://www.startribune.com/janelle-monae-fights-for-the-right-to-funk/487297841/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 4 July 2018 about Janelle Monae ([mirror](https://web.archive.org/web/*/http://www.startribune.com/janelle-monae-fights-for-the-right-to-funk/487297841/))
+
+----
+
+ - [**"Drum Prodigy Jacob Armen Announces Album Release Date and Live Show"**](http://asbarez.com/173309/drum-prodigy-jacob-armen-announces-album-release-date-and-live-show/) in [asbarez.com](http://asbarez.com/) on 2 July 2018 about Grammy Award, Jacob Armen, NPG Records ([mirror](https://web.archive.org/web/*/http://asbarez.com/173309/drum-prodigy-jacob-armen-announces-album-release-date-and-live-show/))
 
 ----
 
@@ -478,7 +486,7 @@
 
 ----
 
-## May 2018 (5)
+## May 2018 (6)
 
  - [**"PRINCE’S PRE-FAME YEARS ARE THE FOCUS OF THIS UPCOMING EXHIBITION!"**](https://afropunk.com/2018/05/this-upcoming-exhibition-offers-rare-glimpse-of-pre-fame-prince/) in [Afropunk](https://afropunk.com/) on 28 May 2018 about exhibition, Prince Pre Fame (book), Robert Whitman ([mirror](https://web.archive.org/web/*/https://afropunk.com/2018/05/this-upcoming-exhibition-offers-rare-glimpse-of-pre-fame-prince/))
 
@@ -497,6 +505,10 @@
 ----
 
  - [**"The Prince Estate and TIDAL Announce Agreement to Debut New and Unreleased Prince Album and Settlement of Prior Legal Disputes"**](https://www.prnewswire.com/news-releases/the-prince-estate-and-tidal-announce-agreement-to-debut-new-and-unreleased-prince-album-and-settlement-of-prior-legal-disputes-300647106.html) in [PR Newswire](https://www.prnewswire.com/) on 11 May 2018 about Prince Estate, The Prince Estate, Tidal, Troy Carter ([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/the-prince-estate-and-tidal-announce-agreement-to-debut-new-and-unreleased-prince-album-and-settlement-of-prior-legal-disputes-300647106.html))
+
+----
+
+ - [**"JAAB Records, in Association with Glendale Arts, Presents JACOB ARMEN LIVE: A CELEBRATION OF RHYTHM – “WHEN DRUMS CONDUCT” ALBUM RELEASE EVENT"**](http://glendalearts.org/event/jaab-records-in-association-with-glendale-arts-presents-jacob-armen-live-a-celebration-of-rhythm-when-drums-conduct-album-release-event/) in [glendalearts.org](http://glendalearts.org/) on 9 May 2018 about Grammy Award, Jacob Armen, NPG Records, Paisley Park Enterprises ([mirror](https://web.archive.org/web/*/http://glendalearts.org/event/jaab-records-in-association-with-glendale-arts-presents-jacob-armen-live-a-celebration-of-rhythm-when-drums-conduct-album-release-event/))
 
 ----
 

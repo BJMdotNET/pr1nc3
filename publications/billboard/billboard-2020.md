@@ -1,6 +1,10 @@
 # 2020
 
-## January 2020 (8)
+## January 2020 (9)
+
+ - [**"10 Best Super Bowl Halftime Shows"**](https://www.billboard.com/articles/list/513793/super-bowl-halftime-shows-10-best) in [Billboard](https://www.billboard.com/) on 31 January 2020 about Beck, Beyoncé, Bruce Springsteen, CeeLo Green, Coldplay, Janet Jackson, Justin Timberlake, Madonna, Purple Rain (song), Super Bowl ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/list/513793/super-bowl-halftime-shows-10-best))
+
+----
 
  - [**"H.E.R., Gary Clark Jr., Dave Grohl and More Go Crazy For 'The Grammy Salute to Prince'"**](https://www.billboard.com/articles/news/television/8549551/grammy-salute-prince-taping-recap) in [Billboard](https://www.billboard.com/) on 29 January 2020 about 1999 (song), Baby I’m a Star (song), Bangles, Beck, Chris Martin, Coldplay, Controversy (song), Darling Nikki (song), Earth, Wind & Fire, Foo Fighters, Gary Clark Jr., Grammy Award, H.E.R., I Would Die 4 U (song), Jellybean Johnson, Jerome Benton, Jimmy Jam, John Legend, Juanes, Jungle Love (song), Ken Ehrlich, Let’s Go Crazy (song), Los Angeles Convention Center (place), Manic Monday (song), Mavis Staples, Maya Rudolph, Misty Copeland, Morris Day, Mountains (song), Pop Life (song), Prince Estate, Purple Rain (song), Raspberry Beret (song), Sheila E., St. Vincent, Susanna Hoffs, Terry Lewis, The Beautiful Ones (song), The Bird (song), The Glamorous Life (song), The Prince Estate, The Revolution, The Time ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/television/8549551/grammy-salute-prince-taping-recap))
 

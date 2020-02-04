@@ -20,6 +20,10 @@
 
 ----
 
+ - [**"JAAB Records, in Association with Glendale Arts, Presents JACOB ARMEN LIVE: A CELEBRATION OF RHYTHM – “WHEN DRUMS CONDUCT” ALBUM RELEASE EVENT"**](http://glendalearts.org/event/jaab-records-in-association-with-glendale-arts-presents-jacob-armen-live-a-celebration-of-rhythm-when-drums-conduct-album-release-event/) in [glendalearts.org](http://glendalearts.org/) on 9 May 2018 about Grammy Award, Jacob Armen, NPG Records, Paisley Park Enterprises ([mirror](https://web.archive.org/web/*/http://glendalearts.org/event/jaab-records-in-association-with-glendale-arts-presents-jacob-armen-live-a-celebration-of-rhythm-when-drums-conduct-album-release-event/))
+
+----
+
  - [**"Judge: Sound engineer can’t publish unreleased Prince tracks"**](https://apnews.com/28f8d4317b3b43219621f58a3252addb) in [Associated Press News](https://apnews.com/) on 23 May 2017 about Deliverance (EP), Deliverance (song), George Ian Boxill, Paisley Park Enterprises, trademark ([mirror](https://web.archive.org/web/*/https://apnews.com/28f8d4317b3b43219621f58a3252addb))
 
 ----

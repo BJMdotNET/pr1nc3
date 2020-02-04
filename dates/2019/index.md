@@ -1,6 +1,6 @@
 # 2019
 
-## December 2019 (64)
+## December 2019 (65)
 
  - [**"Prince fans can now wear clothes made by his favorite designers"**](https://nypost.com/2019/12/31/prince-fans-can-now-wear-clothes-made-by-his-favorite-designers/) in [New York Post](https://nypost.com/) on 31 December 2019 about 1999 (album), Call & Response, Cathy Robinson, Lori Marcuz, Prince Estate, The Prince Estate, Toronto ([mirror](https://web.archive.org/web/*/https://nypost.com/2019/12/31/prince-fans-can-now-wear-clothes-made-by-his-favorite-designers/))
 
@@ -43,6 +43,10 @@
 ----
 
  - [**"The Best Music Books of 2019 (a Lot of Them, Anyway)"**](https://variety.com/feature/best-music-books-2019-1203450290/) in [Variety](https://variety.com/) on 22 December 2019 about ASCAP, Duane Tudahl, Joni Mitchell, Morris Day, Prince And The Purple Rain Era Studio Sessions 1983-1984 (book), The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/https://variety.com/feature/best-music-books-2019-1203450290/))
+
+----
+
+ - [**"BIOGRAPHIC: PRINCE"**](https://www.ammonitepress.com/biographic-prince/) in [www.ammonitepress.com](https://www.ammonitepress.com/) on 20 December 2019 about Alicia Keys, Biographic: Prince (book), Liz Flavell, Madonna ([mirror](https://web.archive.org/web/*/https://www.ammonitepress.com/biographic-prince/))
 
 ----
 
@@ -2354,13 +2358,17 @@
 
 ----
 
-## January 2019 (5)
+## January 2019 (6)
 
  - [**"'We're losing legends': Prince's cousin joins push for Minnesota opioid plan"**](http://www.startribune.com/we-re-losing-legends-prince-s-cousin-joins-push-for-minnesota-opioid-plan/505107802/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 30 January 2019 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/we-re-losing-legends-prince-s-cousin-joins-push-for-minnesota-opioid-plan/505107802/))
 
 ----
 
  - [**"Remembering Willie Murphy: 'Defiant maverick' who was funky to the bone"**](http://www.startribune.com/remembering-willie-murphy-defiant-maverick-who-was-funky-to-the-bone/504295712/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 13 January 2019 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/remembering-willie-murphy-defiant-maverick-who-was-funky-to-the-bone/504295712/))
+
+----
+
+ - [**"SPILL FEATURE: WHEN DRUMS CONDUCT – A CONVERSATION WITH JACOB ARMEN"**](http://spillmagazine.com/spill-feature-when-drums-conduct-a-conversation-with-jacob-armen/) in [The Spill Magazine](http://spillmagazine.com/) on 10 January 2019 about Eric Leeds, Jacob Armen, Paisley Park Records ([mirror](https://web.archive.org/web/*/http://spillmagazine.com/spill-feature-when-drums-conduct-a-conversation-with-jacob-armen/))
 
 ----
 

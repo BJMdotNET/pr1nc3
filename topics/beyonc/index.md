@@ -1,5 +1,9 @@
 # Beyoncé
 
+ - [**"10 Best Super Bowl Halftime Shows"**](https://www.billboard.com/articles/list/513793/super-bowl-halftime-shows-10-best) in [Billboard](https://www.billboard.com/) on 31 January 2020 about Beck, Beyoncé, Bruce Springsteen, CeeLo Green, Coldplay, Janet Jackson, Justin Timberlake, Madonna, Purple Rain (song), Super Bowl ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/list/513793/super-bowl-halftime-shows-10-best))
+
+----
+
  - [**"Usher celebrates Prince at Grammys, with help from a dancing (but not singing) FKA twigs"**](https://www.latimes.com/entertainment-arts/music/story/2020-01-26/grammys-2020-prince-usher-fka-twigs-tribute) in [Los Angeles Times](https://www.latimes.com/) on 26 January 2020 about Alicia Keys, Beyoncé, FKA twigs, Grammy Award, Little Red Corvette (song), Sheila E., Usher, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.latimes.com/entertainment-arts/music/story/2020-01-26/grammys-2020-prince-usher-fka-twigs-tribute))
 
 ----
