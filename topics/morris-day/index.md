@@ -76,7 +76,7 @@
 
 ----
 
- - [**"Prince: The Story of 1999 bonus feature: Nile Rodgers, 'Prince made such an impression on the world'"**](https://www.thecurrent.org/feature/2019/12/13/prince-the-story-of-1999-bonus-feature-nile-rodgers-interview) in [The Current](https://www.thecurrent.org/) on 13 December 2019 about 1999 (album), Andrea Swensson, Essence Fest, Morris Day, Nile Rodgers, Prince: The Story of 1999, Spotify, Turks and Caicos, When Doves Cry (song), YouTube ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/12/13/prince-the-story-of-1999-bonus-feature-nile-rodgers-interview))
+ - [**"Prince: The Story of 1999 bonus feature: Nile Rodgers, 'Prince made such an impression on the world'"**](https://www.thecurrent.org/feature/2019/12/13/prince-the-story-of-1999-bonus-feature-nile-rodgers-interview) in [The Current](https://www.thecurrent.org/) on 13 December 2019 about 1999 (album), Andrea Swensson, Essence Fest, Michael Jackson, Morris Day, Nile Rodgers, Prince: The Story of 1999, Spotify, Turks and Caicos, When Doves Cry (song), YouTube ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/12/13/prince-the-story-of-1999-bonus-feature-nile-rodgers-interview))
 
 ----
 
@@ -168,7 +168,7 @@
 
 ----
 
- - [**"Buddy Holly and Roy Orbison in Minnesota? Hologram tours of old stars are the hot new concert trend -- Buddy Holly is coming to town with Roy Orbison? Yes, rock 'n' roll holograms are here to stay."**](http://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 October 2019 about Aretha Franklin, Ed Sheeran, Frank Zappa, Lizzo, Morris Day ([mirror](https://web.archive.org/web/*/http://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/))
+ - [**"Buddy Holly and Roy Orbison in Minnesota? Hologram tours of old stars are the hot new concert trend -- Buddy Holly is coming to town with Roy Orbison? Yes, rock 'n' roll holograms are here to stay."**](http://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 October 2019 about Aretha Franklin, Ed Sheeran, Frank Zappa, Lizzo, Michael Jackson, Morris Day ([mirror](https://web.archive.org/web/*/http://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/))
 
 ----
 
@@ -180,7 +180,7 @@
 
 ----
 
- - [**"Rock and Roll Book Club: Morris Day is 'On Time'"**](https://www.thecurrent.org/feature/2019/10/08/morris-day-on-time) in [The Current](https://www.thecurrent.org/) on 9 October 2019 about André Cymone, Illinois (place), Morris Day ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/10/08/morris-day-on-time))
+ - [**"Rock and Roll Book Club: Morris Day is 'On Time'"**](https://www.thecurrent.org/feature/2019/10/08/morris-day-on-time) in [The Current](https://www.thecurrent.org/) on 9 October 2019 about André Cymone, Illinois (place), Michael Jackson, Morris Day ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/10/08/morris-day-on-time))
 
 ----
 
@@ -244,11 +244,11 @@
 
 ----
 
- - [**"Prince Never Acted Before 'Purple Rain.' Then He Became a Household Name -- The movie and album would come to help define the 1980s and catapult the performer to global fame."**](https://www.biography.com/news/prince-purple-rain-album-movie) by Colin Bertram in [Biography](https://www.biography.com/) on 25 July 2019 about Academy Award, Alan Light, Albert Magnoli, Apollonia Kotero, First Avenue (place), I Would Die 4 U (song), Let’s Go Crazy (song), Morris Day, Purple Rain (album), Purple Rain (movie), Purple Rain (song), The Revolution, The Time, Vanity, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.biography.com/news/prince-purple-rain-album-movie))
+ - [**"Prince Never Acted Before 'Purple Rain.' Then He Became a Household Name -- The movie and album would come to help define the 1980s and catapult the performer to global fame."**](https://www.biography.com/news/prince-purple-rain-album-movie) by Colin Bertram in [Biography](https://www.biography.com/) on 25 July 2019 about Academy Award, Alan Light, Albert Magnoli, Apollonia Kotero, First Avenue (place), I Would Die 4 U (song), Let’s Go Crazy (song), Michael Jackson, Morris Day, Purple Rain (album), Purple Rain (movie), Purple Rain (song), The Revolution, The Time, Vanity, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.biography.com/news/prince-purple-rain-album-movie))
 
 ----
 
- - [**"'Purple Rain' 35th anniversary: We dive into the Prince cult classic for the first time"**](https://usatoday.com/story/entertainment/movies/2019/07/25/purple-rain-35th-anniversary-does-prince-cult-film-hold-up/1817029001/) by Brian Truitt, Patrick Ryan in [USA Today](https://usatoday.com/) on 25 July 2019 about Apollonia 6, Apollonia Kotero, Morris Day, Purple Rain (movie), Spotify, The Revolution, The Time ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/entertainment/movies/2019/07/25/purple-rain-35th-anniversary-does-prince-cult-film-hold-up/1817029001/))
+ - [**"'Purple Rain' 35th anniversary: We dive into the Prince cult classic for the first time"**](https://usatoday.com/story/entertainment/movies/2019/07/25/purple-rain-35th-anniversary-does-prince-cult-film-hold-up/1817029001/) by Brian Truitt, Patrick Ryan in [USA Today](https://usatoday.com/) on 25 July 2019 about Apollonia 6, Apollonia Kotero, Michael Jackson, Morris Day, Purple Rain (movie), Spotify, The Revolution, The Time ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/entertainment/movies/2019/07/25/purple-rain-35th-anniversary-does-prince-cult-film-hold-up/1817029001/))
 
 ----
 
@@ -272,7 +272,7 @@
 
 ----
 
- - [**"10 deep nuggets of info we learned at the playback of Prince’s new album, ‘Originals’"**](https://www.nme.com/blogs/11-things-we-learned-at-playback-new-prince-album-2506506) in [NME (New Musical Express)](https://www.nme.com/) on 10 June 2019 about Bangles, Jill Jones, Michael Howe, Morris Day, Originals (album), Peggy McCreary, The Revolution, Troy Carter, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://www.nme.com/blogs/11-things-we-learned-at-playback-new-prince-album-2506506))
+ - [**"10 deep nuggets of info we learned at the playback of Prince’s new album, ‘Originals’"**](https://www.nme.com/blogs/11-things-we-learned-at-playback-new-prince-album-2506506) in [NME (New Musical Express)](https://www.nme.com/) on 10 June 2019 about Bangles, Jill Jones, Michael Howe, Michael Jackson, Morris Day, Originals (album), Peggy McCreary, The Revolution, Troy Carter, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://www.nme.com/blogs/11-things-we-learned-at-playback-new-prince-album-2506506))
 
 ----
 
@@ -392,7 +392,7 @@
 
 ----
 
- - [**"Prince Remembered by Childhood Best Friend and Bandmate André Cymone : 'There Was a Lot More to Him Than What People Saw'"**](https://www.billboard.com/articles/news/magazine-feature/7348518/prince-childhood-friend-bassist-andre-cymone-remembrance) in [Billboard](https://www.billboard.com/) on 28 April 2016 about André Cymone, Morris Day ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/magazine-feature/7348518/prince-childhood-friend-bassist-andre-cymone-remembrance))
+ - [**"Prince Remembered by Childhood Best Friend and Bandmate André Cymone : 'There Was a Lot More to Him Than What People Saw'"**](https://www.billboard.com/articles/news/magazine-feature/7348518/prince-childhood-friend-bassist-andre-cymone-remembrance) in [Billboard](https://www.billboard.com/) on 28 April 2016 about André Cymone, Michael Jackson, Morris Day ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/magazine-feature/7348518/prince-childhood-friend-bassist-andre-cymone-remembrance))
 
 ----
 
@@ -424,7 +424,7 @@
 
 ----
 
- - [**"Paean to Prince: 15 Fascinating Facts About His Purple Majesty -- Juicy secrets from a legendary music career, collected by an infatuated fan"**](https://medium.com/cuepoint/paean-to-prince-15-fascinating-facts-about-his-purple-majesty-6aa627d1d17e) in [Cuepoint](https://medium.com/cuepoint/) on 10 February 2016 about Alan Light, Albert Magnoli, Apollonia 6, Dave Chappelle, Janet Jackson, Jehovah’s Witness, Jesse Johnson, Jimmy Jam, Joni Mitchell, Larry Graham, Lisa Coleman, Matt Fink, memoir, Morris Day, Questlove, Quincy Jones, Sheila E., Stand Back (song), Stevie Nicks, Sunset Sound (place), Susan Rogers, Terry Lewis, The Revolution, Vagina (song), Vanity, Vanity 6 ([mirror](https://web.archive.org/web/*/https://medium.com/cuepoint/paean-to-prince-15-fascinating-facts-about-his-purple-majesty-6aa627d1d17e))
+ - [**"Paean to Prince: 15 Fascinating Facts About His Purple Majesty -- Juicy secrets from a legendary music career, collected by an infatuated fan"**](https://medium.com/cuepoint/paean-to-prince-15-fascinating-facts-about-his-purple-majesty-6aa627d1d17e) in [Cuepoint](https://medium.com/cuepoint/) on 10 February 2016 about Alan Light, Albert Magnoli, Apollonia 6, Dave Chappelle, Janet Jackson, Jehovah’s Witness, Jesse Johnson, Jimmy Jam, Joni Mitchell, Larry Graham, Lisa Coleman, Matt Fink, memoir, Michael Jackson, Morris Day, Questlove, Quincy Jones, Sheila E., Stand Back (song), Stevie Nicks, Sunset Sound (place), Susan Rogers, Terry Lewis, The Revolution, Vagina (song), Vanity, Vanity 6 ([mirror](https://web.archive.org/web/*/https://medium.com/cuepoint/paean-to-prince-15-fascinating-facts-about-his-purple-majesty-6aa627d1d17e))
 
 ----
 
@@ -440,7 +440,7 @@
 
 ----
 
- - [**"Prince: Our 1986 Cover Story -- A stranger in a strange land, Prince set out to create his own magical kingdom, where all he needs is your—kiss."**](https://www.spin.com/featured/prince-july-1986-cover-story-black-narcissus/) in [Spin](https://www.spin.com/) on 1 July 1986 about I Wanna Be Your Lover (song), James Brown, Jamie Starr, Morris Day, Stevie Wonder, Vanity, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.spin.com/featured/prince-july-1986-cover-story-black-narcissus/))
+ - [**"Prince: Our 1986 Cover Story -- A stranger in a strange land, Prince set out to create his own magical kingdom, where all he needs is your—kiss."**](https://www.spin.com/featured/prince-july-1986-cover-story-black-narcissus/) in [Spin](https://www.spin.com/) on 1 July 1986 about I Wanna Be Your Lover (song), James Brown, Jamie Starr, Michael Jackson, Morris Day, Stevie Wonder, Vanity, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.spin.com/featured/prince-july-1986-cover-story-black-narcissus/))
 
 ----
 

@@ -38,7 +38,7 @@
 
 ----
 
- - [**"‘There are gonna be some bombshells’: What we know about Prince’s forthcoming memoir"**](https://blog.thecurrent.org/2019/09/the-beautiful-ones-what-we-know-about-princes-forthcoming-memoir/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 3 September 2019 about contract, Dan Piepenbring, memoir, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2019/09/the-beautiful-ones-what-we-know-about-princes-forthcoming-memoir/))
+ - [**"‘There are gonna be some bombshells’: What we know about Prince’s forthcoming memoir"**](https://blog.thecurrent.org/2019/09/the-beautiful-ones-what-we-know-about-princes-forthcoming-memoir/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 3 September 2019 about contract, Dan Piepenbring, memoir, Michael Jackson, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2019/09/the-beautiful-ones-what-we-know-about-princes-forthcoming-memoir/))
 
 ----
 

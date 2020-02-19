@@ -1,5 +1,9 @@
 # YouTube
 
+ - [**"A Minnesota Geek’s Experience with Retro Audio"**](http://twincitiesgeek.com/2020/02/a-minnesota-geeks-experience-with-retro-audio/) in [twincitiesgeek.com](http://twincitiesgeek.com/) on 15 February 2020 about Electric Fetus (place), Spotify, YouTube ([mirror](https://web.archive.org/web/*/http://twincitiesgeek.com/2020/02/a-minnesota-geeks-experience-with-retro-audio/))
+
+----
+
  - [**"Peoria Native Headlines New Teatro Zinzanni Cast"**](https://wbbm780.radio.com/articles/peoria-native-headlines-new-teatro-zinzanni-cast) in [wbbm780.radio.com](https://wbbm780.radio.com/) on 24 January 2020 about Illinois (place), Liv Warfield, New Power Generation, YouTube ([mirror](https://web.archive.org/web/*/https://wbbm780.radio.com/articles/peoria-native-headlines-new-teatro-zinzanni-cast))
 
 ----
@@ -24,7 +28,7 @@
 
 ----
 
- - [**"Prince: The Story of 1999 bonus feature: Nile Rodgers, 'Prince made such an impression on the world'"**](https://www.thecurrent.org/feature/2019/12/13/prince-the-story-of-1999-bonus-feature-nile-rodgers-interview) in [The Current](https://www.thecurrent.org/) on 13 December 2019 about 1999 (album), Andrea Swensson, Essence Fest, Morris Day, Nile Rodgers, Prince: The Story of 1999, Spotify, Turks and Caicos, When Doves Cry (song), YouTube ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/12/13/prince-the-story-of-1999-bonus-feature-nile-rodgers-interview))
+ - [**"Prince: The Story of 1999 bonus feature: Nile Rodgers, 'Prince made such an impression on the world'"**](https://www.thecurrent.org/feature/2019/12/13/prince-the-story-of-1999-bonus-feature-nile-rodgers-interview) in [The Current](https://www.thecurrent.org/) on 13 December 2019 about 1999 (album), Andrea Swensson, Essence Fest, Michael Jackson, Morris Day, Nile Rodgers, Prince: The Story of 1999, Spotify, Turks and Caicos, When Doves Cry (song), YouTube ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/12/13/prince-the-story-of-1999-bonus-feature-nile-rodgers-interview))
 
 ----
 
@@ -60,7 +64,7 @@
 
 ----
 
- - [**"Prince’s Closest Friends Share Their Best Prince Stories -- From Van Jones to Carmen Electra, publicists to Paisley Park members, those close to Prince Rogers Nelson tell tales—ordinary and out there—of the late legend."**](https://www.gq.com/story/prince-stories) in [www.gq.com](https://www.gq.com/) on 8 December 2016 about Albert Magnoli, André Cymone, Audubon Road, Bangles, Cat Glover, Central High, Chaka Khan, Chappelle's Show (TV show), Charlie Murphy, Corey Tollefson, Dave Chappelle, Dez Dickerson, Gwen Stefani, Jeremiah Freed, Jill Jones, Kandace Springs, Lake Minnetonka (place), Larry Graham, Manuela Testolini, Mayte, Micki Free, Misty Copeland, Morris Hayes, Neal Karlen, Netflix, NPG Records, Obama, Owen Husney, piracy, St. Louis Park (place), Susanna Hoffs, The Gold Experience (album), The Revolution, Van Jones, Vanity, vault, White House (place), YouTube ([mirror](https://web.archive.org/web/*/https://www.gq.com/story/prince-stories))
+ - [**"Prince’s Closest Friends Share Their Best Prince Stories -- From Van Jones to Carmen Electra, publicists to Paisley Park members, those close to Prince Rogers Nelson tell tales—ordinary and out there—of the late legend."**](https://www.gq.com/story/prince-stories) in [www.gq.com](https://www.gq.com/) on 8 December 2016 about Albert Magnoli, André Cymone, Audubon Road, Bangles, Cat Glover, Central High, Chaka Khan, Chappelle's Show (TV show), Charlie Murphy, Corey Tollefson, Dave Chappelle, Dez Dickerson, Gwen Stefani, Jeremiah Freed, Jill Jones, Kandace Springs, Lake Minnetonka (place), Larry Graham, Manuela Testolini, Mayte, Michael Jackson, Micki Free, Misty Copeland, Morris Hayes, Neal Karlen, Netflix, NPG Records, Obama, Owen Husney, piracy, St. Louis Park (place), Susanna Hoffs, The Gold Experience (album), The Revolution, Van Jones, Vanity, vault, White House (place), YouTube ([mirror](https://web.archive.org/web/*/https://www.gq.com/story/prince-stories))
 
 ----
 
@@ -100,7 +104,7 @@
 
 ----
 
- - [**"Memorable moments from Paisley Park"**](https://apnews.com/d341d2b22be74bf7843f3c485d527b18) by Nekesa Mumbi Moody (Associated Press) in [Associated Press News](https://apnews.com/) on 29 September 2014 about 3rdEyeGirl, Donna Grantis, FKA twigs, James Brown, Katy Perry, Larry Graham, Rita Ora, YouTube ([mirror](https://web.archive.org/web/*/https://apnews.com/d341d2b22be74bf7843f3c485d527b18))
+ - [**"Memorable moments from Paisley Park"**](https://apnews.com/d341d2b22be74bf7843f3c485d527b18) by Nekesa Mumbi Moody (Associated Press) in [Associated Press News](https://apnews.com/) on 29 September 2014 about 3rdEyeGirl, Donna Grantis, FKA twigs, James Brown, Katy Perry, Larry Graham, Michael Jackson, Rita Ora, YouTube ([mirror](https://web.archive.org/web/*/https://apnews.com/d341d2b22be74bf7843f3c485d527b18))
 
 ----
 

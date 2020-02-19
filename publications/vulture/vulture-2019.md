@@ -2,7 +2,7 @@
 
 ## October 2019 (3)
 
- - [**"All of Prince’s Spiciest Pop-Culture Hot Takes From His New Book, The Beautiful Ones"**](https://www.vulture.com/2019/10/prince-memoir-pop-culture-hot-takes.html) in [Vulture](https://www.vulture.com/) on 31 October 2019 about Chaka Khan, Dan Piepenbring, Ed Sheeran, Katy Perry, Lenny Kravitz, memoir, Meron Bekure, Miles Davis, Purple Pam, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/https://www.vulture.com/2019/10/prince-memoir-pop-culture-hot-takes.html))
+ - [**"All of Prince’s Spiciest Pop-Culture Hot Takes From His New Book, The Beautiful Ones"**](https://www.vulture.com/2019/10/prince-memoir-pop-culture-hot-takes.html) in [Vulture](https://www.vulture.com/) on 31 October 2019 about Chaka Khan, Dan Piepenbring, Ed Sheeran, Katy Perry, Lenny Kravitz, memoir, Meron Bekure, Michael Jackson, Miles Davis, Purple Pam, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/https://www.vulture.com/2019/10/prince-memoir-pop-culture-hot-takes.html))
 
 ----
 

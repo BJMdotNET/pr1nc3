@@ -2,7 +2,7 @@
 
 ## December 2019 (2)
 
- - [**"Lifetime returns to R. Kelly with a new powerful series"**](https://apnews.com/76d4ff162e58196357641dbdbb5cbf07) by Mark Kennedy (Associated Press) in [Associated Press News](https://apnews.com/) on 30 December 2019 about Beyoncé, Illinois (place) ([mirror](https://web.archive.org/web/*/https://apnews.com/76d4ff162e58196357641dbdbb5cbf07))
+ - [**"Lifetime returns to R. Kelly with a new powerful series"**](https://apnews.com/76d4ff162e58196357641dbdbb5cbf07) by Mark Kennedy (Associated Press) in [Associated Press News](https://apnews.com/) on 30 December 2019 about Beyoncé, Illinois (place), Michael Jackson ([mirror](https://web.archive.org/web/*/https://apnews.com/76d4ff162e58196357641dbdbb5cbf07))
 
 ----
 
@@ -62,7 +62,7 @@
 
 ## June 2019 (1)
 
- - [**"Remembering when Prince wrote that song for you"**](https://apnews.com/9946e6f68e354265a15047187b217b56) in [Associated Press News](https://apnews.com/) on 4 June 2019 about Apollonia 6, Apollonia Kotero, Bangles, Denise Matthews, Joey Coco, Kenny Rogers, Manic Monday (song), Nile Rodgers, Nothing Compares 2 U (song), Originals (album), Paisley Park Records, Sex Shooter (song), Susanna Hoffs, Susannah Melvoin, The Family, The Glamorous Life (song), The Time, Vanity, Vanity 6, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://apnews.com/9946e6f68e354265a15047187b217b56))
+ - [**"Remembering when Prince wrote that song for you"**](https://apnews.com/9946e6f68e354265a15047187b217b56) in [Associated Press News](https://apnews.com/) on 4 June 2019 about Apollonia 6, Apollonia Kotero, Bangles, Denise Matthews, Joey Coco, Kenny Rogers, Manic Monday (song), Michael Jackson, Nile Rodgers, Nothing Compares 2 U (song), Originals (album), Paisley Park Records, Sex Shooter (song), Susanna Hoffs, Susannah Melvoin, The Family, The Glamorous Life (song), The Time, Vanity, Vanity 6, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://apnews.com/9946e6f68e354265a15047187b217b56))
 
 ----
 

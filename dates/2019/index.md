@@ -6,11 +6,11 @@
 
 ----
 
- - [**"Lifetime returns to R. Kelly with a new powerful series"**](http://www.startribune.com/lifetime-returns-to-r-kelly-with-a-new-powerful-series/566568672/) by Mark Kennedy (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 30 December 2019 about Beyoncé, Illinois (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/lifetime-returns-to-r-kelly-with-a-new-powerful-series/566568672/))
+ - [**"Lifetime returns to R. Kelly with a new powerful series"**](http://www.startribune.com/lifetime-returns-to-r-kelly-with-a-new-powerful-series/566568672/) by Mark Kennedy (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 30 December 2019 about Beyoncé, Illinois (place), Michael Jackson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/lifetime-returns-to-r-kelly-with-a-new-powerful-series/566568672/))
 
 ----
 
- - [**"Lifetime returns to R. Kelly with a new powerful series"**](https://apnews.com/76d4ff162e58196357641dbdbb5cbf07) by Mark Kennedy (Associated Press) in [Associated Press News](https://apnews.com/) on 30 December 2019 about Beyoncé, Illinois (place) ([mirror](https://web.archive.org/web/*/https://apnews.com/76d4ff162e58196357641dbdbb5cbf07))
+ - [**"Lifetime returns to R. Kelly with a new powerful series"**](https://apnews.com/76d4ff162e58196357641dbdbb5cbf07) by Mark Kennedy (Associated Press) in [Associated Press News](https://apnews.com/) on 30 December 2019 about Beyoncé, Illinois (place), Michael Jackson ([mirror](https://web.archive.org/web/*/https://apnews.com/76d4ff162e58196357641dbdbb5cbf07))
 
 ----
 
@@ -30,7 +30,7 @@
 
 ----
 
- - [**"The Best Music Boxed Sets of 2019 -- The Beatles, Prince, Bob Dylan, Nat King Cole, the Replacements and the Band all got commemorated — along with Woodstock, Bakersfield, Motown and East L.A."**](https://variety.com/2019/music/reviews/best-music-boxed-sets-2019-1203451459/) in [Variety](https://variety.com/) on 23 December 2019 about 1999 (album), Bob Dylan, bootleg, David Fricke, Eric Clapton, Mountains (song), New Power Generation (song), Stevie Wonder, The Revolution, vault ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/reviews/best-music-boxed-sets-2019-1203451459/))
+ - [**"The Best Music Boxed Sets of 2019 -- The Beatles, Prince, Bob Dylan, Nat King Cole, the Replacements and the Band all got commemorated — along with Woodstock, Bakersfield, Motown and East L.A."**](https://variety.com/2019/music/reviews/best-music-boxed-sets-2019-1203451459/) in [Variety](https://variety.com/) on 23 December 2019 about 1999 (album), Bob Dylan, bootleg, David Fricke, Eric Clapton, Michael Jackson, Mountains (song), New Power Generation (song), Stevie Wonder, The Revolution, vault ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/reviews/best-music-boxed-sets-2019-1203451459/))
 
 ----
 
@@ -38,7 +38,7 @@
 
 ----
 
- - [**"Noteworthy music books of the year"**](https://www.irishexaminer.com/breakingnews/lifestyle/noteworthy-music-books-of-the-year-971884.html) in [www.irishexaminer.com](https://www.irishexaminer.com/) on 22 December 2019 about Dan Piepenbring, Donald Trump, memoir, orange, The Beautiful Ones (book), Trump ([mirror](https://web.archive.org/web/*/https://www.irishexaminer.com/breakingnews/lifestyle/noteworthy-music-books-of-the-year-971884.html))
+ - [**"Noteworthy music books of the year"**](https://www.irishexaminer.com/breakingnews/lifestyle/noteworthy-music-books-of-the-year-971884.html) in [www.irishexaminer.com](https://www.irishexaminer.com/) on 22 December 2019 about Dan Piepenbring, Donald Trump, memoir, Michael Jackson, orange, The Beautiful Ones (book), Trump ([mirror](https://web.archive.org/web/*/https://www.irishexaminer.com/breakingnews/lifestyle/noteworthy-music-books-of-the-year-971884.html))
 
 ----
 
@@ -98,7 +98,7 @@
 
 ----
 
- - [**"Prince: The Story of 1999 bonus feature: Nile Rodgers, 'Prince made such an impression on the world'"**](https://www.thecurrent.org/feature/2019/12/13/prince-the-story-of-1999-bonus-feature-nile-rodgers-interview) in [The Current](https://www.thecurrent.org/) on 13 December 2019 about 1999 (album), Andrea Swensson, Essence Fest, Morris Day, Nile Rodgers, Prince: The Story of 1999, Spotify, Turks and Caicos, When Doves Cry (song), YouTube ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/12/13/prince-the-story-of-1999-bonus-feature-nile-rodgers-interview))
+ - [**"Prince: The Story of 1999 bonus feature: Nile Rodgers, 'Prince made such an impression on the world'"**](https://www.thecurrent.org/feature/2019/12/13/prince-the-story-of-1999-bonus-feature-nile-rodgers-interview) in [The Current](https://www.thecurrent.org/) on 13 December 2019 about 1999 (album), Andrea Swensson, Essence Fest, Michael Jackson, Morris Day, Nile Rodgers, Prince: The Story of 1999, Spotify, Turks and Caicos, When Doves Cry (song), YouTube ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/12/13/prince-the-story-of-1999-bonus-feature-nile-rodgers-interview))
 
 ----
 
@@ -138,7 +138,7 @@
 
 ----
 
- - [**"Prince: The Story of 1999, Episode 4: Let's Work"**](https://www.thecurrent.org/feature/2019/12/10/prince-the-story-of-1999-episode-4-lets-work-swensson) in [The Current](https://www.thecurrent.org/) on 10 December 2019 about 1999 (album), 1999 Super Deluxe (album), Alabama Shakes, Andrea Swensson, Brittany Howard, Dez Dickerson, Essence Fest, Fred Armisen, How Come U Don't Call Me Anymore (song), I Wanna Be Your Lover (song), Jellybean Johnson, LeRoy Bennett, Lisa Coleman, Little Red Corvette (song), Matt Fink, Maya Rudolph, Michael Howe, Nile Rodgers, Parade (album), Prince Estate, Prince: The Story of 1999, Saturday Night Live (TV show), Spotify, Super Bowl, The Prince Estate, The Revolution, Vanity, Vanity 6, vault ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/12/10/prince-the-story-of-1999-episode-4-lets-work-swensson))
+ - [**"Prince: The Story of 1999, Episode 4: Let's Work"**](https://www.thecurrent.org/feature/2019/12/10/prince-the-story-of-1999-episode-4-lets-work-swensson) in [The Current](https://www.thecurrent.org/) on 10 December 2019 about 1999 (album), 1999 Super Deluxe (album), Alabama Shakes, Andrea Swensson, Brittany Howard, Dez Dickerson, Essence Fest, Fred Armisen, How Come U Don't Call Me Anymore (song), I Wanna Be Your Lover (song), Jellybean Johnson, LeRoy Bennett, Lisa Coleman, Little Red Corvette (song), Matt Fink, Maya Rudolph, Michael Howe, Michael Jackson, Nile Rodgers, Parade (album), Prince Estate, Prince: The Story of 1999, Saturday Night Live (TV show), Spotify, Super Bowl, The Prince Estate, The Revolution, Vanity, Vanity 6, vault ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/12/10/prince-the-story-of-1999-episode-4-lets-work-swensson))
 
 ----
 
@@ -154,7 +154,7 @@
 
 ----
 
- - [**"Final Prince ‘1999’ Podcast Chapter Drops Tonight – Hear an Exclusive Clip Here"**](https://variety.com/2019/music/news/prince-1999-podcast-exclusive-clip-1203430119/) in [Variety](https://variety.com/) on 9 December 2019 about 1999 (album), Nile Rodgers, Prince Estate, Prince: The Story of 1999, Rearrange (song), The Prince Estate ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/news/prince-1999-podcast-exclusive-clip-1203430119/))
+ - [**"Final Prince ‘1999’ Podcast Chapter Drops Tonight – Hear an Exclusive Clip Here"**](https://variety.com/2019/music/news/prince-1999-podcast-exclusive-clip-1203430119/) in [Variety](https://variety.com/) on 9 December 2019 about 1999 (album), Michael Jackson, Nile Rodgers, Prince Estate, Prince: The Story of 1999, Rearrange (song), The Prince Estate ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/news/prince-1999-podcast-exclusive-clip-1203430119/))
 
 ----
 
@@ -214,11 +214,11 @@
 
 ----
 
- - [**"AVEC "1999", PRINCE SE HISSE AU SOMMET DE SON ART -- Avec la réédition deluxe de 1999 de Prince, Warner Music nous donne l’occasion de revenir aux racines d’un album qui marque la période la plus créative du Kid de Minneapolis."**](http://www.magicrpm.com/1999-prince-au-sommet-de-son-art/) in [www.magicrpm.com](http://www.magicrpm.com/) on 3 December 2019 about 1999 (album), Bold Generation (song), Colleen (song), Feel U Up (song), Irresistible Bitch (song), Lake Minnetonka (place), Little Red Corvette (song), New Power Generation (song), Peggy McCreary, Purple Music (song), Quincy Jones, Raspberry Beret (song), Rearrange (song), Roger Linn, Sunset Sound (place), Vanity, Vanity 6 ([mirror](https://web.archive.org/web/*/http://www.magicrpm.com/1999-prince-au-sommet-de-son-art/))
+ - [**"AVEC "1999", PRINCE SE HISSE AU SOMMET DE SON ART -- Avec la réédition deluxe de 1999 de Prince, Warner Music nous donne l’occasion de revenir aux racines d’un album qui marque la période la plus créative du Kid de Minneapolis."**](http://www.magicrpm.com/1999-prince-au-sommet-de-son-art/) in [www.magicrpm.com](http://www.magicrpm.com/) on 3 December 2019 about 1999 (album), Bold Generation (song), Colleen (song), Feel U Up (song), Irresistible Bitch (song), Lake Minnetonka (place), Little Red Corvette (song), Michael Jackson, New Power Generation (song), Peggy McCreary, Purple Music (song), Quincy Jones, Raspberry Beret (song), Rearrange (song), Roger Linn, Sunset Sound (place), Vanity, Vanity 6 ([mirror](https://web.archive.org/web/*/http://www.magicrpm.com/1999-prince-au-sommet-de-son-art/))
 
 ----
 
- - [**"Music bios should strike chord with Moorer, Prince, Elton fans"**](https://www.bostonherald.com/2019/12/03/music-bios-should-strike-chord-with-moorer-prince-elton-fans/) in [www.bostonherald.com](https://www.bostonherald.com/) on 3 December 2019 about Dan Piepenbring, memoir, merchandise, Spiegel & Grau, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/https://www.bostonherald.com/2019/12/03/music-bios-should-strike-chord-with-moorer-prince-elton-fans/))
+ - [**"Music bios should strike chord with Moorer, Prince, Elton fans"**](https://www.bostonherald.com/2019/12/03/music-bios-should-strike-chord-with-moorer-prince-elton-fans/) in [www.bostonherald.com](https://www.bostonherald.com/) on 3 December 2019 about Dan Piepenbring, memoir, merchandise, Michael Jackson, Spiegel & Grau, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/https://www.bostonherald.com/2019/12/03/music-bios-should-strike-chord-with-moorer-prince-elton-fans/))
 
 ----
 
@@ -250,7 +250,7 @@
 
 ----
 
- - [**"Prince’s ‘1999’: How the Artist Leveled Up on His Breakthrough LP -- With the release of a new box set devoted to the album and its era, Prince’s guitarist Dez Dickerson and engineer Peggy McCreary look back on the Purple One’s revolutionary genius"**](https://www.rollingstone.com/music/music-features/prince-1999-interview-915663/) in [Rolling Stone](https://www.rollingstone.com/) on 2 December 2019 about 1999 (album), 94 East, Bold Generation (song), Dez Dickerson, Do Yourself a Favor (song), How Come U Don’t Call Me Anymore? (song), I Wanna Be Your Lover (song), James Brown, Jill Jones, Little Red Corvette (song), Michael Howe, motorcycle, New Power Generation (song), Peggy McCreary, Pop Life (song), Prince Estate, Quincy Jones, Susan Rogers, The Revolution, trademark, Vanity, Vanity 6, vault ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/prince-1999-interview-915663/))
+ - [**"Prince’s ‘1999’: How the Artist Leveled Up on His Breakthrough LP -- With the release of a new box set devoted to the album and its era, Prince’s guitarist Dez Dickerson and engineer Peggy McCreary look back on the Purple One’s revolutionary genius"**](https://www.rollingstone.com/music/music-features/prince-1999-interview-915663/) in [Rolling Stone](https://www.rollingstone.com/) on 2 December 2019 about 1999 (album), 94 East, Bold Generation (song), Dez Dickerson, Do Yourself a Favor (song), How Come U Don’t Call Me Anymore? (song), I Wanna Be Your Lover (song), James Brown, Jill Jones, Little Red Corvette (song), Michael Howe, Michael Jackson, motorcycle, New Power Generation (song), Peggy McCreary, Pop Life (song), Prince Estate, Quincy Jones, Susan Rogers, The Revolution, trademark, Vanity, Vanity 6, vault ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/prince-1999-interview-915663/))
 
 ----
 
@@ -258,7 +258,7 @@
 
 ----
 
- - [**"Books of the month: From Dave Eggers’ The Captain and the Glory to Hayley Nolan’s corrective history of Anne Boleyn -- Martin Chilton reviews five of December’s best books for our monthly book column"**](https://www.independent.co.uk/arts-entertainment/books/features/december-book-dave-eggers-the-captain-teen-idol-leif-garrett-anne-boleyn-a9220196.html) in [www.independent.co.uk](https://www.independent.co.uk/) on 1 December 2019 about Kate Bush, memoir ([mirror](https://web.archive.org/web/*/https://www.independent.co.uk/arts-entertainment/books/features/december-book-dave-eggers-the-captain-teen-idol-leif-garrett-anne-boleyn-a9220196.html))
+ - [**"Books of the month: From Dave Eggers’ The Captain and the Glory to Hayley Nolan’s corrective history of Anne Boleyn -- Martin Chilton reviews five of December’s best books for our monthly book column"**](https://www.independent.co.uk/arts-entertainment/books/features/december-book-dave-eggers-the-captain-teen-idol-leif-garrett-anne-boleyn-a9220196.html) in [www.independent.co.uk](https://www.independent.co.uk/) on 1 December 2019 about Kate Bush, memoir, Michael Jackson ([mirror](https://web.archive.org/web/*/https://www.independent.co.uk/arts-entertainment/books/features/december-book-dave-eggers-the-captain-teen-idol-leif-garrett-anne-boleyn-a9220196.html))
 
 ----
 
@@ -296,7 +296,7 @@
 
 ----
 
- - [**"Prince Wanted To 'Break The Mold Of The Memoir,' Says His Co-Writer"**](https://www.npr.org/2019/11/28/782929000/prince-wanted-to-break-the-mold-of-the-memoir-says-his-co-writer) in [National Public Radio](https://www.npr.org/) on 28 November 2019 about Dan Piepenbring, fentanyl, Kim Pratt, Little Red Corvette (song), memoir, The Beautiful Ones (book), vault, Vicodin, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.npr.org/2019/11/28/782929000/prince-wanted-to-break-the-mold-of-the-memoir-says-his-co-writer))
+ - [**"Prince Wanted To 'Break The Mold Of The Memoir,' Says His Co-Writer"**](https://www.npr.org/2019/11/28/782929000/prince-wanted-to-break-the-mold-of-the-memoir-says-his-co-writer) in [National Public Radio](https://www.npr.org/) on 28 November 2019 about Dan Piepenbring, fentanyl, Kim Pratt, Little Red Corvette (song), memoir, Michael Jackson, The Beautiful Ones (book), vault, Vicodin, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.npr.org/2019/11/28/782929000/prince-wanted-to-break-the-mold-of-the-memoir-says-his-co-writer))
 
 ----
 
@@ -372,11 +372,11 @@
 
 ----
 
- - [**"The best music books of 2019 -- BOOKS OF THE YEAR"**](https://www.thetimes.co.uk/article/the-best-music-books-of-2019-2ztl5fncb) in [The Times](https://www.thetimes.co.uk/) on 22 November 2019 about Dan Piepenbring, Ed Sheeran, memoir, Stevie Wonder, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/https://www.thetimes.co.uk/article/the-best-music-books-of-2019-2ztl5fncb))
+ - [**"The best music books of 2019 -- BOOKS OF THE YEAR"**](https://www.thetimes.co.uk/article/the-best-music-books-of-2019-2ztl5fncb) in [The Times](https://www.thetimes.co.uk/) on 22 November 2019 about Dan Piepenbring, Ed Sheeran, memoir, Michael Jackson, Stevie Wonder, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/https://www.thetimes.co.uk/article/the-best-music-books-of-2019-2ztl5fncb))
 
 ----
 
- - [**"5 of the best new music books"**](https://www.latimes.com/entertainment-arts/books/story/2019-11-21/music-books-elton-john-flea-prince-allison-moorer-janis-joplin) in [Los Angeles Times](https://www.latimes.com/) on 21 November 2019 about Dan Piepenbring, memoir, merchandise, Spiegel & Grau, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/https://www.latimes.com/entertainment-arts/books/story/2019-11-21/music-books-elton-john-flea-prince-allison-moorer-janis-joplin))
+ - [**"5 of the best new music books"**](https://www.latimes.com/entertainment-arts/books/story/2019-11-21/music-books-elton-john-flea-prince-allison-moorer-janis-joplin) in [Los Angeles Times](https://www.latimes.com/) on 21 November 2019 about Dan Piepenbring, memoir, merchandise, Michael Jackson, Spiegel & Grau, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/https://www.latimes.com/entertainment-arts/books/story/2019-11-21/music-books-elton-john-flea-prince-allison-moorer-janis-joplin))
 
 ----
 
@@ -400,7 +400,7 @@
 
 ----
 
- - [**"61 Bodacious Baby Names Inspired by ’80s Pop Culture"**](https://www.sheknows.com/parenting/articles/2117365/80s-pop-culture-baby-names/) in [www.sheknows.com](https://www.sheknows.com/) on 19 November 2019 about Janet Jackson, Stevie Wonder ([mirror](https://web.archive.org/web/*/https://www.sheknows.com/parenting/articles/2117365/80s-pop-culture-baby-names/))
+ - [**"61 Bodacious Baby Names Inspired by ’80s Pop Culture"**](https://www.sheknows.com/parenting/articles/2117365/80s-pop-culture-baby-names/) in [www.sheknows.com](https://www.sheknows.com/) on 19 November 2019 about Janet Jackson, Michael Jackson, Stevie Wonder ([mirror](https://web.archive.org/web/*/https://www.sheknows.com/parenting/articles/2117365/80s-pop-culture-baby-names/))
 
 ----
 
@@ -428,7 +428,7 @@
 
 ----
 
- - [**"IN REVIEW: A treasure recounted in Prince’s new memoir"**](https://www.theprospectordaily.com/2019/11/19/in-review-a-treasure-recounted-in-princes-new-memoir/) in [www.theprospectordaily.com](https://www.theprospectordaily.com/) on 19 November 2019 about contract, James Brown, memoir, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/https://www.theprospectordaily.com/2019/11/19/in-review-a-treasure-recounted-in-princes-new-memoir/))
+ - [**"IN REVIEW: A treasure recounted in Prince’s new memoir"**](https://www.theprospectordaily.com/2019/11/19/in-review-a-treasure-recounted-in-princes-new-memoir/) in [www.theprospectordaily.com](https://www.theprospectordaily.com/) on 19 November 2019 about contract, James Brown, memoir, Michael Jackson, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/https://www.theprospectordaily.com/2019/11/19/in-review-a-treasure-recounted-in-princes-new-memoir/))
 
 ----
 
@@ -476,7 +476,7 @@
 
 ----
 
- - [**"PAISLEY PARK IS IN YOUR HEART: A VISIT TO PRINCE'S MAGICAL MINNEAPOLIS KINGDOM -- WITH PRINCE'S MEMOIR JUST OUT AND A REMASTERED "1999" ON THE WAY, IT'S THE PERFECT TIME TO DO A PURPLE-COLORED TOUR OF MINNEAPOLIS."**](https://www.newsweek.com/paisley-park-your-heart-visit-princes-magical-minneapolis-kingdom-1472087) in [Newsweek](https://www.newsweek.com/) on 15 November 2019 about Academy Award, Chappelle's Show (TV show), Electric Fetus (place), First Avenue (place), George Clinton, Grammy Award, James Brown, memoir, merchandise, motorcycle, museum, Stevie Wonder, Super Bowl, vault ([mirror](https://web.archive.org/web/*/https://www.newsweek.com/paisley-park-your-heart-visit-princes-magical-minneapolis-kingdom-1472087))
+ - [**"PAISLEY PARK IS IN YOUR HEART: A VISIT TO PRINCE'S MAGICAL MINNEAPOLIS KINGDOM -- WITH PRINCE'S MEMOIR JUST OUT AND A REMASTERED "1999" ON THE WAY, IT'S THE PERFECT TIME TO DO A PURPLE-COLORED TOUR OF MINNEAPOLIS."**](https://www.newsweek.com/paisley-park-your-heart-visit-princes-magical-minneapolis-kingdom-1472087) in [Newsweek](https://www.newsweek.com/) on 15 November 2019 about Academy Award, Chappelle's Show (TV show), Electric Fetus (place), First Avenue (place), George Clinton, Grammy Award, James Brown, memoir, merchandise, Michael Jackson, motorcycle, museum, Stevie Wonder, Super Bowl, vault ([mirror](https://web.archive.org/web/*/https://www.newsweek.com/paisley-park-your-heart-visit-princes-magical-minneapolis-kingdom-1472087))
 
 ----
 
@@ -520,7 +520,7 @@
 
 ----
 
- - [**"'Batman' composer Danny Elfman says turning down Prince was 'biggest, most stressful gamble' of his career"**](https://www.yahoo.com/entertainment/batman-composer-danny-elfman-says-turning-down-prince-was-biggest-most-stressful-gamble-of-his-career-192951834.html) in [Yahoo! Entertainment](https://www.yahoo.com/entertainment/) on 12 November 2019 about Batman (album) ([mirror](https://web.archive.org/web/*/https://www.yahoo.com/entertainment/batman-composer-danny-elfman-says-turning-down-prince-was-biggest-most-stressful-gamble-of-his-career-192951834.html))
+ - [**"'Batman' composer Danny Elfman says turning down Prince was 'biggest, most stressful gamble' of his career"**](https://www.yahoo.com/entertainment/batman-composer-danny-elfman-says-turning-down-prince-was-biggest-most-stressful-gamble-of-his-career-192951834.html) in [Yahoo! Entertainment](https://www.yahoo.com/entertainment/) on 12 November 2019 about Batman (album), Michael Jackson ([mirror](https://web.archive.org/web/*/https://www.yahoo.com/entertainment/batman-composer-danny-elfman-says-turning-down-prince-was-biggest-most-stressful-gamble-of-his-career-192951834.html))
 
 ----
 
@@ -572,7 +572,7 @@
 
 ----
 
- - [**"Book Review: ‘The Beautiful Ones’ a moving look at the singer’s life"**](https://www.seacoastonline.com/news/20191103/book-review-the-beautiful-ones-moving-look-at-singers-life) in [www.seacoastonline.com](https://www.seacoastonline.com/) on 3 November 2019 about Dan Piepenbring, fentanyl, Little Red Corvette (song), memoir, The Beautiful Ones (book), vault ([mirror](https://web.archive.org/web/*/https://www.seacoastonline.com/news/20191103/book-review-the-beautiful-ones-moving-look-at-singers-life))
+ - [**"Book Review: ‘The Beautiful Ones’ a moving look at the singer’s life"**](https://www.seacoastonline.com/news/20191103/book-review-the-beautiful-ones-moving-look-at-singers-life) in [www.seacoastonline.com](https://www.seacoastonline.com/) on 3 November 2019 about Dan Piepenbring, fentanyl, Little Red Corvette (song), memoir, Michael Jackson, The Beautiful Ones (book), vault ([mirror](https://web.archive.org/web/*/https://www.seacoastonline.com/news/20191103/book-review-the-beautiful-ones-moving-look-at-singers-life))
 
 ----
 
@@ -642,7 +642,7 @@
 
 ## October 2019 (120)
 
- - [**"All of Prince’s Spiciest Pop-Culture Hot Takes From His New Book, The Beautiful Ones"**](https://www.vulture.com/2019/10/prince-memoir-pop-culture-hot-takes.html) in [Vulture](https://www.vulture.com/) on 31 October 2019 about Chaka Khan, Dan Piepenbring, Ed Sheeran, Katy Perry, Lenny Kravitz, memoir, Meron Bekure, Miles Davis, Purple Pam, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/https://www.vulture.com/2019/10/prince-memoir-pop-culture-hot-takes.html))
+ - [**"All of Prince’s Spiciest Pop-Culture Hot Takes From His New Book, The Beautiful Ones"**](https://www.vulture.com/2019/10/prince-memoir-pop-culture-hot-takes.html) in [Vulture](https://www.vulture.com/) on 31 October 2019 about Chaka Khan, Dan Piepenbring, Ed Sheeran, Katy Perry, Lenny Kravitz, memoir, Meron Bekure, Michael Jackson, Miles Davis, Purple Pam, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/https://www.vulture.com/2019/10/prince-memoir-pop-culture-hot-takes.html))
 
 ----
 
@@ -674,7 +674,7 @@
 
 ----
 
- - [**"‘The Beautiful Ones’ isn’t the memoir Prince envisioned, but it’s a moving look at the singer’s life"**](https://www.washingtonpost.com/entertainment/books/the-beautiful-ones-isnt-the-memoir-prince-envisioned-but-its-a-moving-look-at-the-singers-life/2019/10/30/b4868632-fb16-11e9-8906-ab6b60de9124_story.html) in [Washington Post](https://www.washingtonpost.com/) on 30 October 2019 about Dan Piepenbring, fentanyl, Little Red Corvette (song), memoir, The Beautiful Ones (book), vault ([mirror](https://web.archive.org/web/*/https://www.washingtonpost.com/entertainment/books/the-beautiful-ones-isnt-the-memoir-prince-envisioned-but-its-a-moving-look-at-the-singers-life/2019/10/30/b4868632-fb16-11e9-8906-ab6b60de9124_story.html))
+ - [**"‘The Beautiful Ones’ isn’t the memoir Prince envisioned, but it’s a moving look at the singer’s life"**](https://www.washingtonpost.com/entertainment/books/the-beautiful-ones-isnt-the-memoir-prince-envisioned-but-its-a-moving-look-at-the-singers-life/2019/10/30/b4868632-fb16-11e9-8906-ab6b60de9124_story.html) in [Washington Post](https://www.washingtonpost.com/) on 30 October 2019 about Dan Piepenbring, fentanyl, Little Red Corvette (song), memoir, Michael Jackson, The Beautiful Ones (book), vault ([mirror](https://web.archive.org/web/*/https://www.washingtonpost.com/entertainment/books/the-beautiful-ones-isnt-the-memoir-prince-envisioned-but-its-a-moving-look-at-the-singers-life/2019/10/30/b4868632-fb16-11e9-8906-ab6b60de9124_story.html))
 
 ----
 
@@ -706,7 +706,7 @@
 
 ----
 
- - [**"Prince’s Memoir Isn’t Really Prince’s Memoir -- That doesn’t mean it’s not worth reading."**](https://slate.com/culture/2019/10/prince-memoir-book-review-the-beautiful-ones.html) in [slate.com](https://slate.com/) on 30 October 2019 about Bremer Trust, contract, Dan Piepenbring, John Nelson, memoir, Spiegel & Grau, The Beautiful Ones (book), Thieves in the Temple (song), When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://slate.com/culture/2019/10/prince-memoir-book-review-the-beautiful-ones.html))
+ - [**"Prince’s Memoir Isn’t Really Prince’s Memoir -- That doesn’t mean it’s not worth reading."**](https://slate.com/culture/2019/10/prince-memoir-book-review-the-beautiful-ones.html) in [slate.com](https://slate.com/) on 30 October 2019 about Bremer Trust, contract, Dan Piepenbring, John Nelson, memoir, Michael Jackson, Spiegel & Grau, The Beautiful Ones (book), Thieves in the Temple (song), When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://slate.com/culture/2019/10/prince-memoir-book-review-the-beautiful-ones.html))
 
 ----
 
@@ -722,7 +722,7 @@
 
 ----
 
- - [**"Vandaag verschijnt de autobiografie van Prince: "Zo intiem is hij tijdens zijn leven nooit geweest" -- Het muziekfenomeen Prince stierf op 21 april 2016, toch verschijnt vandaag postuum zijn onafgewerkte autobiografie. Wat komen we te weten over "His royal badness"? Muzikant Stijn en muziekexpert Sasha Van der Speeten, allebei hevige fans, konden de memoires al lezen."**](https://www.vrt.be/vrtnws/nl/2019/10/28/vandaag-verschijnt-de-autobiografie-van-prince/) in [VRT NWS](https://www.vrt.be/vrtnws/) on 30 October 2019 about Dan Piepenbring, memoir, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/https://www.vrt.be/vrtnws/nl/2019/10/28/vandaag-verschijnt-de-autobiografie-van-prince/))
+ - [**"Vandaag verschijnt de autobiografie van Prince: "Zo intiem is hij tijdens zijn leven nooit geweest" -- Het muziekfenomeen Prince stierf op 21 april 2016, toch verschijnt vandaag postuum zijn onafgewerkte autobiografie. Wat komen we te weten over "His royal badness"? Muzikant Stijn en muziekexpert Sasha Van der Speeten, allebei hevige fans, konden de memoires al lezen."**](https://www.vrt.be/vrtnws/nl/2019/10/28/vandaag-verschijnt-de-autobiografie-van-prince/) in [VRT NWS](https://www.vrt.be/vrtnws/) on 30 October 2019 about Dan Piepenbring, memoir, Michael Jackson, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/https://www.vrt.be/vrtnws/nl/2019/10/28/vandaag-verschijnt-de-autobiografie-van-prince/))
 
 ----
 
@@ -998,7 +998,7 @@
 
 ----
 
- - [**"What made Prince such a formidable talent? And what exactly can we expect from his memoir, out this month?"**](https://www.gqindia.com/magazine-story/made-prince-formidable-talent-exactly-can-expect-memoir-month/) in [GQ India](https://www.gqindia.com/) on 15 October 2019 about memoir, The Beautiful Ones (book), Thieves in the Temple (song), vault, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.gqindia.com/magazine-story/made-prince-formidable-talent-exactly-can-expect-memoir-month/))
+ - [**"What made Prince such a formidable talent? And what exactly can we expect from his memoir, out this month?"**](https://www.gqindia.com/magazine-story/made-prince-formidable-talent-exactly-can-expect-memoir-month/) in [GQ India](https://www.gqindia.com/) on 15 October 2019 about memoir, Michael Jackson, The Beautiful Ones (book), Thieves in the Temple (song), vault, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.gqindia.com/magazine-story/made-prince-formidable-talent-exactly-can-expect-memoir-month/))
 
 ----
 
@@ -1014,7 +1014,7 @@
 
 ----
 
- - [**"Buddy Holly and Roy Orbison in Minnesota? Hologram tours of old stars are the hot new concert trend -- Buddy Holly is coming to town with Roy Orbison? Yes, rock 'n' roll holograms are here to stay."**](http://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 October 2019 about Aretha Franklin, Ed Sheeran, Frank Zappa, Lizzo, Morris Day ([mirror](https://web.archive.org/web/*/http://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/))
+ - [**"Buddy Holly and Roy Orbison in Minnesota? Hologram tours of old stars are the hot new concert trend -- Buddy Holly is coming to town with Roy Orbison? Yes, rock 'n' roll holograms are here to stay."**](http://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 October 2019 about Aretha Franklin, Ed Sheeran, Frank Zappa, Lizzo, Michael Jackson, Morris Day ([mirror](https://web.archive.org/web/*/http://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/))
 
 ----
 
@@ -1066,7 +1066,7 @@
 
 ----
 
- - [**"Rock and Roll Book Club: Morris Day is 'On Time'"**](https://www.thecurrent.org/feature/2019/10/08/morris-day-on-time) in [The Current](https://www.thecurrent.org/) on 9 October 2019 about André Cymone, Illinois (place), Morris Day ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/10/08/morris-day-on-time))
+ - [**"Rock and Roll Book Club: Morris Day is 'On Time'"**](https://www.thecurrent.org/feature/2019/10/08/morris-day-on-time) in [The Current](https://www.thecurrent.org/) on 9 October 2019 about André Cymone, Illinois (place), Michael Jackson, Morris Day ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/10/08/morris-day-on-time))
 
 ----
 
@@ -1264,7 +1264,7 @@
 
 ----
 
- - [**"To Janet Jackson, Minneapolis will always be her 'home away from home' -- Balancing motherhood and megahits, Janet Jackson talks about her return to Minnesota, where she recorded her breakthrough albums. "**](http://www.startribune.com/to-janet-jackson-minneapolis-will-always-be-her-home-away-from-home/560054982/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 11 September 2019 about Janelle Monae, Janet Jackson, Jimmy Jam, Stevie Nicks, Terry Lewis, The Time ([mirror](https://web.archive.org/web/*/http://www.startribune.com/to-janet-jackson-minneapolis-will-always-be-her-home-away-from-home/560054982/))
+ - [**"To Janet Jackson, Minneapolis will always be her 'home away from home' -- Balancing motherhood and megahits, Janet Jackson talks about her return to Minnesota, where she recorded her breakthrough albums. "**](http://www.startribune.com/to-janet-jackson-minneapolis-will-always-be-her-home-away-from-home/560054982/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 11 September 2019 about Janelle Monae, Janet Jackson, Jimmy Jam, Michael Jackson, Stevie Nicks, Terry Lewis, The Time ([mirror](https://web.archive.org/web/*/http://www.startribune.com/to-janet-jackson-minneapolis-will-always-be-her-home-away-from-home/560054982/))
 
 ----
 
@@ -1336,7 +1336,7 @@
 
 ----
 
- - [**"Prince wanted his memoir “to be the biggest music book of all time” -- An abridged version of The Beautiful Ones will see release in October"**](https://consequenceofsound.net/2019/09/prince-memoir-backstory/) in [Consequence of Sound](https://consequenceofsound.net/) on 9 September 2019 about Dan Piepenbring, memoir, Miles Davis, Random House , The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/https://consequenceofsound.net/2019/09/prince-memoir-backstory/))
+ - [**"Prince wanted his memoir “to be the biggest music book of all time” -- An abridged version of The Beautiful Ones will see release in October"**](https://consequenceofsound.net/2019/09/prince-memoir-backstory/) in [Consequence of Sound](https://consequenceofsound.net/) on 9 September 2019 about Dan Piepenbring, memoir, Michael Jackson, Miles Davis, Random House , The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/https://consequenceofsound.net/2019/09/prince-memoir-backstory/))
 
 ----
 
@@ -1376,7 +1376,7 @@
 
 ----
 
- - [**"‘There are gonna be some bombshells’: What we know about Prince’s forthcoming memoir"**](https://blog.thecurrent.org/2019/09/the-beautiful-ones-what-we-know-about-princes-forthcoming-memoir/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 3 September 2019 about contract, Dan Piepenbring, memoir, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2019/09/the-beautiful-ones-what-we-know-about-princes-forthcoming-memoir/))
+ - [**"‘There are gonna be some bombshells’: What we know about Prince’s forthcoming memoir"**](https://blog.thecurrent.org/2019/09/the-beautiful-ones-what-we-know-about-princes-forthcoming-memoir/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 3 September 2019 about contract, Dan Piepenbring, memoir, Michael Jackson, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2019/09/the-beautiful-ones-what-we-know-about-princes-forthcoming-memoir/))
 
 ----
 
@@ -1396,7 +1396,7 @@
 
 ----
 
- - [**"The Book of Prince -- Prince had grand plans for his autobiography, but only a few months to live."**](https://www.newyorker.com/magazine/2019/09/09/the-book-of-prince) by Dan Piepenbring in [The New Yorker](https://www.newyorker.com/) on 2 September 2019 about airport, Alexander Nevermind, Apollonia Kotero, Atlanta (place), bootleg, Chanhassen Cinema, Chris Jackson, contract, Country Inn & Suites (place), Dan Piepenbring, Denise Matthews, DJ Kiss, fentanyl, I.C.M., Illinois (place), Jakissa Taylor Semple, Jamie Starr, Jehovah’s Witness, Joey Coco, John Lewis Nelson, Judith Hill, Kim Pratt, Kirk Johnson, Mattie Della Shaw Baker, memoir, Meron Bekure, Miles Davis, Moline, Illinois (place), Pam Warren, Penguin Random House, Peter Bravestrong, Phaedra Ellis-Lamkins, Purple Music (song), Purple Pam, Random House , Raspberry Beret (song), Spiegel & Grau, The Ballad Of Dorothy Parker (song), The Beautiful Ones (book), The Beautiful Ones (song), TMZ (website), Vanity, Vanity 6, vault, Vicodin, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.newyorker.com/magazine/2019/09/09/the-book-of-prince))
+ - [**"The Book of Prince -- Prince had grand plans for his autobiography, but only a few months to live."**](https://www.newyorker.com/magazine/2019/09/09/the-book-of-prince) by Dan Piepenbring in [The New Yorker](https://www.newyorker.com/) on 2 September 2019 about airport, Alexander Nevermind, Apollonia Kotero, Atlanta (place), bootleg, Chanhassen Cinema, Chris Jackson, contract, Country Inn & Suites (place), Dan Piepenbring, Denise Matthews, DJ Kiss, fentanyl, I.C.M., Illinois (place), Jakissa Taylor Semple, Jamie Starr, Jehovah’s Witness, Joey Coco, John Lewis Nelson, Judith Hill, Kim Pratt, Kirk Johnson, Mattie Della Shaw Baker, memoir, Meron Bekure, Michael Jackson, Miles Davis, Moline, Illinois (place), Pam Warren, Penguin Random House, Peter Bravestrong, Phaedra Ellis-Lamkins, Purple Music (song), Purple Pam, Random House , Raspberry Beret (song), Spiegel & Grau, The Ballad Of Dorothy Parker (song), The Beautiful Ones (book), The Beautiful Ones (song), TMZ (website), Vanity, Vanity 6, vault, Vicodin, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.newyorker.com/magazine/2019/09/09/the-book-of-prince))
 
 ----
 
@@ -1410,7 +1410,7 @@
 
 ## August 2019 (59)
 
- - [**"Lionel Richie is ham on a shtick at the Minnesota State Fair -- He was chatty and comical in a sold-out hits-filled concert."**](http://www.startribune.com/lionel-richie-is-ham-on-a-shtick-at-the-minnesota-state-fair/558897292/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 31 August 2019 about Lionel Richie, Minnesota State Fair, State Fair ([mirror](https://web.archive.org/web/*/http://www.startribune.com/lionel-richie-is-ham-on-a-shtick-at-the-minnesota-state-fair/558897292/))
+ - [**"Lionel Richie is ham on a shtick at the Minnesota State Fair -- He was chatty and comical in a sold-out hits-filled concert."**](http://www.startribune.com/lionel-richie-is-ham-on-a-shtick-at-the-minnesota-state-fair/558897292/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 31 August 2019 about Lionel Richie, Michael Jackson, Minnesota State Fair, State Fair, We Are the World (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/lionel-richie-is-ham-on-a-shtick-at-the-minnesota-state-fair/558897292/))
 
 ----
 
@@ -1502,7 +1502,7 @@
 
 ----
 
- - [**"Sheila E. turns trauma into 'glorious' triumph"**](https://usatoday.com/story/life/2019/08/24/sheila-e-glorious-life/2101411001/) in [USA Today](https://usatoday.com/) on 24 August 2019 about airport, memoir, Obama, Sheila E., The Glamorous Life (album), The Glamorous Life (song), White House (place) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/2019/08/24/sheila-e-glorious-life/2101411001/))
+ - [**"Sheila E. turns trauma into 'glorious' triumph"**](https://usatoday.com/story/life/2019/08/24/sheila-e-glorious-life/2101411001/) in [USA Today](https://usatoday.com/) on 24 August 2019 about airport, memoir, Michael Jackson, Obama, Sheila E., The Glamorous Life (album), The Glamorous Life (song), White House (place) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/2019/08/24/sheila-e-glorious-life/2101411001/))
 
 ----
 
@@ -1514,7 +1514,7 @@
 
 ----
 
- - [**"No, seriously: Weird Al and his fans explain why he's so big at the Minnesota State Fair -- Weird Al Yankovic is headed to the Minnesota State Fair's grandstand. We talked to fans of the clever parodist. "**](http://www.startribune.com/no-seriously-weird-al-and-his-fans-explain-why-he-s-so-big-at-the-minnesota-state-fair/557878752/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 August 2019 about First Avenue (place), Frank Zappa, Let’s Go Crazy (song), Minnesota State Fair, State Fair, Weird Al Yankovic ([mirror](https://web.archive.org/web/*/http://www.startribune.com/no-seriously-weird-al-and-his-fans-explain-why-he-s-so-big-at-the-minnesota-state-fair/557878752/))
+ - [**"No, seriously: Weird Al and his fans explain why he's so big at the Minnesota State Fair -- Weird Al Yankovic is headed to the Minnesota State Fair's grandstand. We talked to fans of the clever parodist. "**](http://www.startribune.com/no-seriously-weird-al-and-his-fans-explain-why-he-s-so-big-at-the-minnesota-state-fair/557878752/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 August 2019 about First Avenue (place), Frank Zappa, Let’s Go Crazy (song), Michael Jackson, Minnesota State Fair, State Fair, Weird Al Yankovic ([mirror](https://web.archive.org/web/*/http://www.startribune.com/no-seriously-weird-al-and-his-fans-explain-why-he-s-so-big-at-the-minnesota-state-fair/557878752/))
 
 ----
 
@@ -1680,15 +1680,15 @@
 
 ----
 
- - [**"Prince Never Acted Before 'Purple Rain.' Then He Became a Household Name -- The movie and album would come to help define the 1980s and catapult the performer to global fame."**](https://www.biography.com/news/prince-purple-rain-album-movie) by Colin Bertram in [Biography](https://www.biography.com/) on 25 July 2019 about Academy Award, Alan Light, Albert Magnoli, Apollonia Kotero, First Avenue (place), I Would Die 4 U (song), Let’s Go Crazy (song), Morris Day, Purple Rain (album), Purple Rain (movie), Purple Rain (song), The Revolution, The Time, Vanity, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.biography.com/news/prince-purple-rain-album-movie))
+ - [**"Prince Never Acted Before 'Purple Rain.' Then He Became a Household Name -- The movie and album would come to help define the 1980s and catapult the performer to global fame."**](https://www.biography.com/news/prince-purple-rain-album-movie) by Colin Bertram in [Biography](https://www.biography.com/) on 25 July 2019 about Academy Award, Alan Light, Albert Magnoli, Apollonia Kotero, First Avenue (place), I Would Die 4 U (song), Let’s Go Crazy (song), Michael Jackson, Morris Day, Purple Rain (album), Purple Rain (movie), Purple Rain (song), The Revolution, The Time, Vanity, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.biography.com/news/prince-purple-rain-album-movie))
 
 ----
 
- - [**"'Purple Rain' 35th anniversary: We dive into the Prince cult classic for the first time"**](https://usatoday.com/story/entertainment/movies/2019/07/25/purple-rain-35th-anniversary-does-prince-cult-film-hold-up/1817029001/) by Brian Truitt, Patrick Ryan in [USA Today](https://usatoday.com/) on 25 July 2019 about Apollonia 6, Apollonia Kotero, Morris Day, Purple Rain (movie), Spotify, The Revolution, The Time ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/entertainment/movies/2019/07/25/purple-rain-35th-anniversary-does-prince-cult-film-hold-up/1817029001/))
+ - [**"'Purple Rain' 35th anniversary: We dive into the Prince cult classic for the first time"**](https://usatoday.com/story/entertainment/movies/2019/07/25/purple-rain-35th-anniversary-does-prince-cult-film-hold-up/1817029001/) by Brian Truitt, Patrick Ryan in [USA Today](https://usatoday.com/) on 25 July 2019 about Apollonia 6, Apollonia Kotero, Michael Jackson, Morris Day, Purple Rain (movie), Spotify, The Revolution, The Time ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/entertainment/movies/2019/07/25/purple-rain-35th-anniversary-does-prince-cult-film-hold-up/1817029001/))
 
 ----
 
- - [**"How Long Does It Take to Make a Classic Album? -- From D’Angelo’s infamously slow creative pace to Frank Sinatra’s rapid-fire release schedule, our expectations of artists’ output have always been in flux."**](https://pitchfork.com/features/article/how-long-does-it-take-to-make-a-classic-album/) by Ann-Derrick Gaillot in [Pitchfork](https://pitchfork.com/) on 24 July 2019 about 1999 (album), contract, Miles Davis, Purple Rain (album), Spotify, Stevie Wonder, Trump ([mirror](https://web.archive.org/web/*/https://pitchfork.com/features/article/how-long-does-it-take-to-make-a-classic-album/))
+ - [**"How Long Does It Take to Make a Classic Album? -- From D’Angelo’s infamously slow creative pace to Frank Sinatra’s rapid-fire release schedule, our expectations of artists’ output have always been in flux."**](https://pitchfork.com/features/article/how-long-does-it-take-to-make-a-classic-album/) by Ann-Derrick Gaillot in [Pitchfork](https://pitchfork.com/) on 24 July 2019 about 1999 (album), contract, Michael Jackson, Miles Davis, Purple Rain (album), Spotify, Stevie Wonder, Trump ([mirror](https://web.archive.org/web/*/https://pitchfork.com/features/article/how-long-does-it-take-to-make-a-classic-album/))
 
 ----
 
@@ -1882,7 +1882,7 @@
 
 ----
 
- - [**"Prince's Drum Machine: How His Use of the Linn LM-1 Heralded a New Age of Pop Rhythm Creation"**](https://reverb.com/news/prince-and-the-linn-lm-1) in [Reverb](https://reverb.com/) on 24 June 2019 about Linn LM-1, Roger Linn, Susan Rogers, The Revolution ([mirror](https://web.archive.org/web/*/https://reverb.com/news/prince-and-the-linn-lm-1))
+ - [**"Prince's Drum Machine: How His Use of the Linn LM-1 Heralded a New Age of Pop Rhythm Creation"**](https://reverb.com/news/prince-and-the-linn-lm-1) in [Reverb](https://reverb.com/) on 24 June 2019 about Linn LM-1, Michael Jackson, Roger Linn, Susan Rogers, The Revolution ([mirror](https://web.archive.org/web/*/https://reverb.com/news/prince-and-the-linn-lm-1))
 
 ----
 
@@ -1978,7 +1978,7 @@
 
 ----
 
- - [**"10 deep nuggets of info we learned at the playback of Prince’s new album, ‘Originals’"**](https://www.nme.com/blogs/11-things-we-learned-at-playback-new-prince-album-2506506) in [NME (New Musical Express)](https://www.nme.com/) on 10 June 2019 about Bangles, Jill Jones, Michael Howe, Morris Day, Originals (album), Peggy McCreary, The Revolution, Troy Carter, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://www.nme.com/blogs/11-things-we-learned-at-playback-new-prince-album-2506506))
+ - [**"10 deep nuggets of info we learned at the playback of Prince’s new album, ‘Originals’"**](https://www.nme.com/blogs/11-things-we-learned-at-playback-new-prince-album-2506506) in [NME (New Musical Express)](https://www.nme.com/) on 10 June 2019 about Bangles, Jill Jones, Michael Howe, Michael Jackson, Morris Day, Originals (album), Peggy McCreary, The Revolution, Troy Carter, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://www.nme.com/blogs/11-things-we-learned-at-playback-new-prince-album-2506506))
 
 ----
 
@@ -1986,7 +1986,7 @@
 
 ----
 
- - [**"Prince Remembered by Three Key Women in His Life"**](https://variety.com/2019/music/news/prince-birthday-remembered-by-three-key-women-originals-1203235532/) by Jem Aswad in [Variety](https://variety.com/) on 7 June 2019 about airport, Apollonia 6, Atlanta (place), Colleen (song), contract, Cynthia Rose, Illinois (place), Jamie Starr, Jill Jones, Lisa Coleman, Manic Monday (song), Mazarati, Moline, Illinois (place), Nothing Compares 2 U (song), Originals (album), Peggy McCreary, Quincy Jones, Sheena Easton, Sheila E., Starfish And Coffee (song), Sugar Walls (song), Susan Rogers, Susannah Melvoin, Vanity, Vanity 6, Wendy & Lisa ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/news/prince-birthday-remembered-by-three-key-women-originals-1203235532/))
+ - [**"Prince Remembered by Three Key Women in His Life"**](https://variety.com/2019/music/news/prince-birthday-remembered-by-three-key-women-originals-1203235532/) by Jem Aswad in [Variety](https://variety.com/) on 7 June 2019 about airport, Apollonia 6, Atlanta (place), Colleen (song), contract, Cynthia Rose, Illinois (place), Jamie Starr, Jill Jones, Lisa Coleman, Manic Monday (song), Mazarati, Michael Jackson, Moline, Illinois (place), Nothing Compares 2 U (song), Originals (album), Peggy McCreary, Quincy Jones, Sheena Easton, Sheila E., Starfish And Coffee (song), Sugar Walls (song), Susan Rogers, Susannah Melvoin, Vanity, Vanity 6, Wendy & Lisa ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/news/prince-birthday-remembered-by-three-key-women-originals-1203235532/))
 
 ----
 
@@ -2018,7 +2018,7 @@
 
 ----
 
- - [**"Remembering when Prince wrote that song for you"**](https://apnews.com/9946e6f68e354265a15047187b217b56) in [Associated Press News](https://apnews.com/) on 4 June 2019 about Apollonia 6, Apollonia Kotero, Bangles, Denise Matthews, Joey Coco, Kenny Rogers, Manic Monday (song), Nile Rodgers, Nothing Compares 2 U (song), Originals (album), Paisley Park Records, Sex Shooter (song), Susanna Hoffs, Susannah Melvoin, The Family, The Glamorous Life (song), The Time, Vanity, Vanity 6, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://apnews.com/9946e6f68e354265a15047187b217b56))
+ - [**"Remembering when Prince wrote that song for you"**](https://apnews.com/9946e6f68e354265a15047187b217b56) in [Associated Press News](https://apnews.com/) on 4 June 2019 about Apollonia 6, Apollonia Kotero, Bangles, Denise Matthews, Joey Coco, Kenny Rogers, Manic Monday (song), Michael Jackson, Nile Rodgers, Nothing Compares 2 U (song), Originals (album), Paisley Park Records, Sex Shooter (song), Susanna Hoffs, Susannah Melvoin, The Family, The Glamorous Life (song), The Time, Vanity, Vanity 6, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://apnews.com/9946e6f68e354265a15047187b217b56))
 
 ----
 
@@ -2026,7 +2026,7 @@
 
 ----
 
- - [**"Sheila E.’s Debut Album ‘The Glamorous Life’ Turns 35: Anniversary Retrospective -- Happy 35th Anniversary to Sheila E.’s debut album The Glamorous Life, originally released June 4, 1984."**](https://www.albumism.com/features/sheila-e-debut-album-the-glamorous-life-turns-35-anniversary-retrospective) by Andy Healy in [Albumism](https://www.albumism.com/) on 2 June 2019 about Condition of the Heart (song), Erotic City (song), Jesse Johnson, Let’s Go Crazy (song), Next Time Wipe The Lipstick Off Your Collar (song), Noon Rendezvous (song), Oliver’s House (song), Sheila E., Shortberry Strawcake (song), The Belle of St. Mark (song), The Glamorous Life (album), The Glamorous Life (song), The Starr Company, The Time ([mirror](https://web.archive.org/web/*/https://www.albumism.com/features/sheila-e-debut-album-the-glamorous-life-turns-35-anniversary-retrospective))
+ - [**"Sheila E.’s Debut Album ‘The Glamorous Life’ Turns 35: Anniversary Retrospective -- Happy 35th Anniversary to Sheila E.’s debut album The Glamorous Life, originally released June 4, 1984."**](https://www.albumism.com/features/sheila-e-debut-album-the-glamorous-life-turns-35-anniversary-retrospective) by Andy Healy in [Albumism](https://www.albumism.com/) on 2 June 2019 about Condition of the Heart (song), Erotic City (song), Jesse Johnson, Let’s Go Crazy (song), Michael Jackson, Next Time Wipe The Lipstick Off Your Collar (song), Noon Rendezvous (song), Oliver’s House (song), Sheila E., Shortberry Strawcake (song), The Belle of St. Mark (song), The Glamorous Life (album), The Glamorous Life (song), The Starr Company, The Time ([mirror](https://web.archive.org/web/*/https://www.albumism.com/features/sheila-e-debut-album-the-glamorous-life-turns-35-anniversary-retrospective))
 
 ----
 
@@ -2094,7 +2094,7 @@
 
 ----
 
- - [**"Prince’s estate gets it right the second time around with Prince: In Concert on the Big Screen"**](https://www.twincities.com/2019/04/27/princes-estate-gets-it-right-the-second-time-around-with-prince-in-concert-on-the-big-screen/) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 27 April 2019 about Nothing Compares 2 U (song), Pop Life (song), Prince: In Concert On The Big Screen, Shelby J., U Got the Look (song), When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2019/04/27/princes-estate-gets-it-right-the-second-time-around-with-prince-in-concert-on-the-big-screen/))
+ - [**"Prince’s estate gets it right the second time around with Prince: In Concert on the Big Screen"**](https://www.twincities.com/2019/04/27/princes-estate-gets-it-right-the-second-time-around-with-prince-in-concert-on-the-big-screen/) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 27 April 2019 about Michael Jackson, Nothing Compares 2 U (song), Pop Life (song), Prince: In Concert On The Big Screen, Shelby J., U Got the Look (song), When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2019/04/27/princes-estate-gets-it-right-the-second-time-around-with-prince-in-concert-on-the-big-screen/))
 
 ----
 
@@ -2186,7 +2186,7 @@
 
 ----
 
- - [**"TV picks for April 20-21: 'Ramy,' Prince, 'Motown 60: A Grammy Celebration'"**](http://www.startribune.com/tv-picks-for-april-20-21-ramy-prince-motown-60-a-grammy-celebration/508806472/) by Neal Justin in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 April 2019 about Slave Trade: How Prince Re-Made the Music Business (documentary) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/tv-picks-for-april-20-21-ramy-prince-motown-60-a-grammy-celebration/508806472/))
+ - [**"TV picks for April 20-21: 'Ramy,' Prince, 'Motown 60: A Grammy Celebration'"**](http://www.startribune.com/tv-picks-for-april-20-21-ramy-prince-motown-60-a-grammy-celebration/508806472/) by Neal Justin in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 April 2019 about Michael Jackson, Slave Trade: How Prince Re-Made the Music Business (documentary) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/tv-picks-for-april-20-21-ramy-prince-motown-60-a-grammy-celebration/508806472/))
 
 ----
 

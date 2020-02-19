@@ -4,7 +4,7 @@
 
 ----
 
- - [**"TV picks for April 20-21: 'Ramy,' Prince, 'Motown 60: A Grammy Celebration'"**](http://www.startribune.com/tv-picks-for-april-20-21-ramy-prince-motown-60-a-grammy-celebration/508806472/) by Neal Justin in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 April 2019 about Slave Trade: How Prince Re-Made the Music Business (documentary) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/tv-picks-for-april-20-21-ramy-prince-motown-60-a-grammy-celebration/508806472/))
+ - [**"TV picks for April 20-21: 'Ramy,' Prince, 'Motown 60: A Grammy Celebration'"**](http://www.startribune.com/tv-picks-for-april-20-21-ramy-prince-motown-60-a-grammy-celebration/508806472/) by Neal Justin in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 April 2019 about Michael Jackson, Slave Trade: How Prince Re-Made the Music Business (documentary) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/tv-picks-for-april-20-21-ramy-prince-motown-60-a-grammy-celebration/508806472/))
 
 ----
 

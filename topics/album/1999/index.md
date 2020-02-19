@@ -12,7 +12,7 @@
 
 ----
 
- - [**"Prince: The Story of 1999 bonus feature: Jellybean Johnson, 'Prince knew we had something special here in Minneapolis'"**](https://www.thecurrent.org/feature/2020/01/02/prince-the-story-of-1999-bonus-feature-jellybean-johnson-the-time-interview) in [The Current](https://www.thecurrent.org/) on 2 January 2020 about 1999 (album), Andrea Swensson, Dez Dickerson, fDeluxe, Jellybean Johnson, Prince: The Story of 1999, The Family, The Revolution, The Time, Vanity, Vanity 6 ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2020/01/02/prince-the-story-of-1999-bonus-feature-jellybean-johnson-the-time-interview))
+ - [**"Prince: The Story of 1999 bonus feature: Jellybean Johnson, 'Prince knew we had something special here in Minneapolis'"**](https://www.thecurrent.org/feature/2020/01/02/prince-the-story-of-1999-bonus-feature-jellybean-johnson-the-time-interview) in [The Current](https://www.thecurrent.org/) on 2 January 2020 about 1999 (album), Andrea Swensson, Dez Dickerson, fDeluxe, Jellybean Johnson, Michael Jackson, Prince: The Story of 1999, The Family, The Revolution, The Time, Vanity, Vanity 6 ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2020/01/02/prince-the-story-of-1999-bonus-feature-jellybean-johnson-the-time-interview))
 
 ----
 
@@ -24,7 +24,7 @@
 
 ----
 
- - [**"The Best Music Boxed Sets of 2019 -- The Beatles, Prince, Bob Dylan, Nat King Cole, the Replacements and the Band all got commemorated — along with Woodstock, Bakersfield, Motown and East L.A."**](https://variety.com/2019/music/reviews/best-music-boxed-sets-2019-1203451459/) in [Variety](https://variety.com/) on 23 December 2019 about 1999 (album), Bob Dylan, bootleg, David Fricke, Eric Clapton, Mountains (song), New Power Generation (song), Stevie Wonder, The Revolution, vault ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/reviews/best-music-boxed-sets-2019-1203451459/))
+ - [**"The Best Music Boxed Sets of 2019 -- The Beatles, Prince, Bob Dylan, Nat King Cole, the Replacements and the Band all got commemorated — along with Woodstock, Bakersfield, Motown and East L.A."**](https://variety.com/2019/music/reviews/best-music-boxed-sets-2019-1203451459/) in [Variety](https://variety.com/) on 23 December 2019 about 1999 (album), Bob Dylan, bootleg, David Fricke, Eric Clapton, Michael Jackson, Mountains (song), New Power Generation (song), Stevie Wonder, The Revolution, vault ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/reviews/best-music-boxed-sets-2019-1203451459/))
 
 ----
 
@@ -40,11 +40,11 @@
 
 ----
 
- - [**"Prince: The Story of 1999 bonus feature: Nile Rodgers, 'Prince made such an impression on the world'"**](https://www.thecurrent.org/feature/2019/12/13/prince-the-story-of-1999-bonus-feature-nile-rodgers-interview) in [The Current](https://www.thecurrent.org/) on 13 December 2019 about 1999 (album), Andrea Swensson, Essence Fest, Morris Day, Nile Rodgers, Prince: The Story of 1999, Spotify, Turks and Caicos, When Doves Cry (song), YouTube ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/12/13/prince-the-story-of-1999-bonus-feature-nile-rodgers-interview))
+ - [**"Prince: The Story of 1999 bonus feature: Nile Rodgers, 'Prince made such an impression on the world'"**](https://www.thecurrent.org/feature/2019/12/13/prince-the-story-of-1999-bonus-feature-nile-rodgers-interview) in [The Current](https://www.thecurrent.org/) on 13 December 2019 about 1999 (album), Andrea Swensson, Essence Fest, Michael Jackson, Morris Day, Nile Rodgers, Prince: The Story of 1999, Spotify, Turks and Caicos, When Doves Cry (song), YouTube ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/12/13/prince-the-story-of-1999-bonus-feature-nile-rodgers-interview))
 
 ----
 
- - [**"Prince: The Story of 1999, Episode 4: Let's Work"**](https://www.thecurrent.org/feature/2019/12/10/prince-the-story-of-1999-episode-4-lets-work-swensson) in [The Current](https://www.thecurrent.org/) on 10 December 2019 about 1999 (album), 1999 Super Deluxe (album), Alabama Shakes, Andrea Swensson, Brittany Howard, Dez Dickerson, Essence Fest, Fred Armisen, How Come U Don't Call Me Anymore (song), I Wanna Be Your Lover (song), Jellybean Johnson, LeRoy Bennett, Lisa Coleman, Little Red Corvette (song), Matt Fink, Maya Rudolph, Michael Howe, Nile Rodgers, Parade (album), Prince Estate, Prince: The Story of 1999, Saturday Night Live (TV show), Spotify, Super Bowl, The Prince Estate, The Revolution, Vanity, Vanity 6, vault ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/12/10/prince-the-story-of-1999-episode-4-lets-work-swensson))
+ - [**"Prince: The Story of 1999, Episode 4: Let's Work"**](https://www.thecurrent.org/feature/2019/12/10/prince-the-story-of-1999-episode-4-lets-work-swensson) in [The Current](https://www.thecurrent.org/) on 10 December 2019 about 1999 (album), 1999 Super Deluxe (album), Alabama Shakes, Andrea Swensson, Brittany Howard, Dez Dickerson, Essence Fest, Fred Armisen, How Come U Don't Call Me Anymore (song), I Wanna Be Your Lover (song), Jellybean Johnson, LeRoy Bennett, Lisa Coleman, Little Red Corvette (song), Matt Fink, Maya Rudolph, Michael Howe, Michael Jackson, Nile Rodgers, Parade (album), Prince Estate, Prince: The Story of 1999, Saturday Night Live (TV show), Spotify, Super Bowl, The Prince Estate, The Revolution, Vanity, Vanity 6, vault ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/12/10/prince-the-story-of-1999-episode-4-lets-work-swensson))
 
 ----
 
@@ -52,7 +52,7 @@
 
 ----
 
- - [**"Final Prince ‘1999’ Podcast Chapter Drops Tonight – Hear an Exclusive Clip Here"**](https://variety.com/2019/music/news/prince-1999-podcast-exclusive-clip-1203430119/) in [Variety](https://variety.com/) on 9 December 2019 about 1999 (album), Nile Rodgers, Prince Estate, Prince: The Story of 1999, Rearrange (song), The Prince Estate ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/news/prince-1999-podcast-exclusive-clip-1203430119/))
+ - [**"Final Prince ‘1999’ Podcast Chapter Drops Tonight – Hear an Exclusive Clip Here"**](https://variety.com/2019/music/news/prince-1999-podcast-exclusive-clip-1203430119/) in [Variety](https://variety.com/) on 9 December 2019 about 1999 (album), Michael Jackson, Nile Rodgers, Prince Estate, Prince: The Story of 1999, Rearrange (song), The Prince Estate ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/news/prince-1999-podcast-exclusive-clip-1203430119/))
 
 ----
 
@@ -60,7 +60,7 @@
 
 ----
 
- - [**"AVEC "1999", PRINCE SE HISSE AU SOMMET DE SON ART -- Avec la réédition deluxe de 1999 de Prince, Warner Music nous donne l’occasion de revenir aux racines d’un album qui marque la période la plus créative du Kid de Minneapolis."**](http://www.magicrpm.com/1999-prince-au-sommet-de-son-art/) in [www.magicrpm.com](http://www.magicrpm.com/) on 3 December 2019 about 1999 (album), Bold Generation (song), Colleen (song), Feel U Up (song), Irresistible Bitch (song), Lake Minnetonka (place), Little Red Corvette (song), New Power Generation (song), Peggy McCreary, Purple Music (song), Quincy Jones, Raspberry Beret (song), Rearrange (song), Roger Linn, Sunset Sound (place), Vanity, Vanity 6 ([mirror](https://web.archive.org/web/*/http://www.magicrpm.com/1999-prince-au-sommet-de-son-art/))
+ - [**"AVEC "1999", PRINCE SE HISSE AU SOMMET DE SON ART -- Avec la réédition deluxe de 1999 de Prince, Warner Music nous donne l’occasion de revenir aux racines d’un album qui marque la période la plus créative du Kid de Minneapolis."**](http://www.magicrpm.com/1999-prince-au-sommet-de-son-art/) in [www.magicrpm.com](http://www.magicrpm.com/) on 3 December 2019 about 1999 (album), Bold Generation (song), Colleen (song), Feel U Up (song), Irresistible Bitch (song), Lake Minnetonka (place), Little Red Corvette (song), Michael Jackson, New Power Generation (song), Peggy McCreary, Purple Music (song), Quincy Jones, Raspberry Beret (song), Rearrange (song), Roger Linn, Sunset Sound (place), Vanity, Vanity 6 ([mirror](https://web.archive.org/web/*/http://www.magicrpm.com/1999-prince-au-sommet-de-son-art/))
 
 ----
 
@@ -76,7 +76,7 @@
 
 ----
 
- - [**"Prince’s ‘1999’: How the Artist Leveled Up on His Breakthrough LP -- With the release of a new box set devoted to the album and its era, Prince’s guitarist Dez Dickerson and engineer Peggy McCreary look back on the Purple One’s revolutionary genius"**](https://www.rollingstone.com/music/music-features/prince-1999-interview-915663/) in [Rolling Stone](https://www.rollingstone.com/) on 2 December 2019 about 1999 (album), 94 East, Bold Generation (song), Dez Dickerson, Do Yourself a Favor (song), How Come U Don’t Call Me Anymore? (song), I Wanna Be Your Lover (song), James Brown, Jill Jones, Little Red Corvette (song), Michael Howe, motorcycle, New Power Generation (song), Peggy McCreary, Pop Life (song), Prince Estate, Quincy Jones, Susan Rogers, The Revolution, trademark, Vanity, Vanity 6, vault ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/prince-1999-interview-915663/))
+ - [**"Prince’s ‘1999’: How the Artist Leveled Up on His Breakthrough LP -- With the release of a new box set devoted to the album and its era, Prince’s guitarist Dez Dickerson and engineer Peggy McCreary look back on the Purple One’s revolutionary genius"**](https://www.rollingstone.com/music/music-features/prince-1999-interview-915663/) in [Rolling Stone](https://www.rollingstone.com/) on 2 December 2019 about 1999 (album), 94 East, Bold Generation (song), Dez Dickerson, Do Yourself a Favor (song), How Come U Don’t Call Me Anymore? (song), I Wanna Be Your Lover (song), James Brown, Jill Jones, Little Red Corvette (song), Michael Howe, Michael Jackson, motorcycle, New Power Generation (song), Peggy McCreary, Pop Life (song), Prince Estate, Quincy Jones, Susan Rogers, The Revolution, trademark, Vanity, Vanity 6, vault ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/prince-1999-interview-915663/))
 
 ----
 
@@ -304,7 +304,7 @@
 
 ----
 
- - [**"How Long Does It Take to Make a Classic Album? -- From D’Angelo’s infamously slow creative pace to Frank Sinatra’s rapid-fire release schedule, our expectations of artists’ output have always been in flux."**](https://pitchfork.com/features/article/how-long-does-it-take-to-make-a-classic-album/) by Ann-Derrick Gaillot in [Pitchfork](https://pitchfork.com/) on 24 July 2019 about 1999 (album), contract, Miles Davis, Purple Rain (album), Spotify, Stevie Wonder, Trump ([mirror](https://web.archive.org/web/*/https://pitchfork.com/features/article/how-long-does-it-take-to-make-a-classic-album/))
+ - [**"How Long Does It Take to Make a Classic Album? -- From D’Angelo’s infamously slow creative pace to Frank Sinatra’s rapid-fire release schedule, our expectations of artists’ output have always been in flux."**](https://pitchfork.com/features/article/how-long-does-it-take-to-make-a-classic-album/) by Ann-Derrick Gaillot in [Pitchfork](https://pitchfork.com/) on 24 July 2019 about 1999 (album), contract, Michael Jackson, Miles Davis, Purple Rain (album), Spotify, Stevie Wonder, Trump ([mirror](https://web.archive.org/web/*/https://pitchfork.com/features/article/how-long-does-it-take-to-make-a-classic-album/))
 
 ----
 
@@ -328,7 +328,7 @@
 
 ----
 
- - [**"Prince Dies at 57: Iconic Musical Genius Found Dead in Paisley Park"**](https://www.billboard.com/articles/news/7341522/prince-dead) in [Billboard](https://www.billboard.com/) on 21 April 2016 about 1999 (album), Around The World In A Day (album), Batdance (song), Carver County, Chaos and Disorder (album), contract, For You (album), Grammy Award, New Power Generation, Purple Rain (album), Purple Rain (movie), The Revolution, TMZ (website), vault, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/7341522/prince-dead))
+ - [**"Prince Dies at 57: Iconic Musical Genius Found Dead in Paisley Park"**](https://www.billboard.com/articles/news/7341522/prince-dead) in [Billboard](https://www.billboard.com/) on 21 April 2016 about 1999 (album), Around The World In A Day (album), Batdance (song), Carver County, Chaos and Disorder (album), contract, For You (album), Grammy Award, Michael Jackson, New Power Generation, Purple Rain (album), Purple Rain (movie), The Revolution, TMZ (website), vault, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/7341522/prince-dead))
 
 ----
 

@@ -1,6 +1,6 @@
 # The Family
 
- - [**"Prince: The Story of 1999 bonus feature: Jellybean Johnson, 'Prince knew we had something special here in Minneapolis'"**](https://www.thecurrent.org/feature/2020/01/02/prince-the-story-of-1999-bonus-feature-jellybean-johnson-the-time-interview) in [The Current](https://www.thecurrent.org/) on 2 January 2020 about 1999 (album), Andrea Swensson, Dez Dickerson, fDeluxe, Jellybean Johnson, Prince: The Story of 1999, The Family, The Revolution, The Time, Vanity, Vanity 6 ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2020/01/02/prince-the-story-of-1999-bonus-feature-jellybean-johnson-the-time-interview))
+ - [**"Prince: The Story of 1999 bonus feature: Jellybean Johnson, 'Prince knew we had something special here in Minneapolis'"**](https://www.thecurrent.org/feature/2020/01/02/prince-the-story-of-1999-bonus-feature-jellybean-johnson-the-time-interview) in [The Current](https://www.thecurrent.org/) on 2 January 2020 about 1999 (album), Andrea Swensson, Dez Dickerson, fDeluxe, Jellybean Johnson, Michael Jackson, Prince: The Story of 1999, The Family, The Revolution, The Time, Vanity, Vanity 6 ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2020/01/02/prince-the-story-of-1999-bonus-feature-jellybean-johnson-the-time-interview))
 
 ----
 
@@ -40,7 +40,7 @@
 
 ----
 
- - [**"Remembering when Prince wrote that song for you"**](https://apnews.com/9946e6f68e354265a15047187b217b56) in [Associated Press News](https://apnews.com/) on 4 June 2019 about Apollonia 6, Apollonia Kotero, Bangles, Denise Matthews, Joey Coco, Kenny Rogers, Manic Monday (song), Nile Rodgers, Nothing Compares 2 U (song), Originals (album), Paisley Park Records, Sex Shooter (song), Susanna Hoffs, Susannah Melvoin, The Family, The Glamorous Life (song), The Time, Vanity, Vanity 6, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://apnews.com/9946e6f68e354265a15047187b217b56))
+ - [**"Remembering when Prince wrote that song for you"**](https://apnews.com/9946e6f68e354265a15047187b217b56) in [Associated Press News](https://apnews.com/) on 4 June 2019 about Apollonia 6, Apollonia Kotero, Bangles, Denise Matthews, Joey Coco, Kenny Rogers, Manic Monday (song), Michael Jackson, Nile Rodgers, Nothing Compares 2 U (song), Originals (album), Paisley Park Records, Sex Shooter (song), Susanna Hoffs, Susannah Melvoin, The Family, The Glamorous Life (song), The Time, Vanity, Vanity 6, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://apnews.com/9946e6f68e354265a15047187b217b56))
 
 ----
 
@@ -53,6 +53,10 @@
 ----
 
  - [**"5 Minneapolis Super Bowl concerts worth the splurge, plus 5 cheaper alternatives"**](https://apnews.com/b5354fb801f94674abaf28203dd6eec2) in [Associated Press News](https://apnews.com/) on 25 January 2018 about André Cymone, Brother Jules, Dakota (place), fDeluxe, First Avenue (place), Gwen Stefani, Morris Day, New Power Generation, Sheila E., Super Bowl, The Family, The Revolution, Xcel Energy Center (place) ([mirror](https://web.archive.org/web/*/https://apnews.com/b5354fb801f94674abaf28203dd6eec2))
+
+----
+
+ - [**"Classic Tracks: Sinéad O’Connor ‘Nothing Compares 2 U’ -- Recording Sinéad O'Connor's breakthrough hit was easy in some ways, but difficult in others — for example, all compression was forbidden..."**](https://www.soundonsound.com/people/sinead-oconnor-nothing-compares-2-u) in [www.soundonsound.com](https://www.soundonsound.com/) on 1 February 2012 about contract, Grammy Award, Nothing Compares 2 U (song), Sinéad O'Connor, The Family, Toronto ([mirror](https://web.archive.org/web/*/https://www.soundonsound.com/people/sinead-oconnor-nothing-compares-2-u))
 
 ----
 

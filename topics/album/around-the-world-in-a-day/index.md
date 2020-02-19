@@ -32,7 +32,7 @@
 
 ----
 
- - [**"Prince Dies at 57: Iconic Musical Genius Found Dead in Paisley Park"**](https://www.billboard.com/articles/news/7341522/prince-dead) in [Billboard](https://www.billboard.com/) on 21 April 2016 about 1999 (album), Around The World In A Day (album), Batdance (song), Carver County, Chaos and Disorder (album), contract, For You (album), Grammy Award, New Power Generation, Purple Rain (album), Purple Rain (movie), The Revolution, TMZ (website), vault, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/7341522/prince-dead))
+ - [**"Prince Dies at 57: Iconic Musical Genius Found Dead in Paisley Park"**](https://www.billboard.com/articles/news/7341522/prince-dead) in [Billboard](https://www.billboard.com/) on 21 April 2016 about 1999 (album), Around The World In A Day (album), Batdance (song), Carver County, Chaos and Disorder (album), contract, For You (album), Grammy Award, Michael Jackson, New Power Generation, Purple Rain (album), Purple Rain (movie), The Revolution, TMZ (website), vault, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/7341522/prince-dead))
 
 ----
 

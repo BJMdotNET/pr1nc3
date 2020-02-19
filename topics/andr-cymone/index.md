@@ -16,7 +16,7 @@
 
 ----
 
- - [**"Rock and Roll Book Club: Morris Day is 'On Time'"**](https://www.thecurrent.org/feature/2019/10/08/morris-day-on-time) in [The Current](https://www.thecurrent.org/) on 9 October 2019 about André Cymone, Illinois (place), Morris Day ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/10/08/morris-day-on-time))
+ - [**"Rock and Roll Book Club: Morris Day is 'On Time'"**](https://www.thecurrent.org/feature/2019/10/08/morris-day-on-time) in [The Current](https://www.thecurrent.org/) on 9 October 2019 about André Cymone, Illinois (place), Michael Jackson, Morris Day ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/10/08/morris-day-on-time))
 
 ----
 
@@ -64,7 +64,7 @@
 
 ----
 
- - [**"Prince’s Closest Friends Share Their Best Prince Stories -- From Van Jones to Carmen Electra, publicists to Paisley Park members, those close to Prince Rogers Nelson tell tales—ordinary and out there—of the late legend."**](https://www.gq.com/story/prince-stories) in [www.gq.com](https://www.gq.com/) on 8 December 2016 about Albert Magnoli, André Cymone, Audubon Road, Bangles, Cat Glover, Central High, Chaka Khan, Chappelle's Show (TV show), Charlie Murphy, Corey Tollefson, Dave Chappelle, Dez Dickerson, Gwen Stefani, Jeremiah Freed, Jill Jones, Kandace Springs, Lake Minnetonka (place), Larry Graham, Manuela Testolini, Mayte, Micki Free, Misty Copeland, Morris Hayes, Neal Karlen, Netflix, NPG Records, Obama, Owen Husney, piracy, St. Louis Park (place), Susanna Hoffs, The Gold Experience (album), The Revolution, Van Jones, Vanity, vault, White House (place), YouTube ([mirror](https://web.archive.org/web/*/https://www.gq.com/story/prince-stories))
+ - [**"Prince’s Closest Friends Share Their Best Prince Stories -- From Van Jones to Carmen Electra, publicists to Paisley Park members, those close to Prince Rogers Nelson tell tales—ordinary and out there—of the late legend."**](https://www.gq.com/story/prince-stories) in [www.gq.com](https://www.gq.com/) on 8 December 2016 about Albert Magnoli, André Cymone, Audubon Road, Bangles, Cat Glover, Central High, Chaka Khan, Chappelle's Show (TV show), Charlie Murphy, Corey Tollefson, Dave Chappelle, Dez Dickerson, Gwen Stefani, Jeremiah Freed, Jill Jones, Kandace Springs, Lake Minnetonka (place), Larry Graham, Manuela Testolini, Mayte, Michael Jackson, Micki Free, Misty Copeland, Morris Hayes, Neal Karlen, Netflix, NPG Records, Obama, Owen Husney, piracy, St. Louis Park (place), Susanna Hoffs, The Gold Experience (album), The Revolution, Van Jones, Vanity, vault, White House (place), YouTube ([mirror](https://web.archive.org/web/*/https://www.gq.com/story/prince-stories))
 
 ----
 
@@ -72,7 +72,7 @@
 
 ----
 
- - [**"Prince Remembered by Childhood Best Friend and Bandmate André Cymone : 'There Was a Lot More to Him Than What People Saw'"**](https://www.billboard.com/articles/news/magazine-feature/7348518/prince-childhood-friend-bassist-andre-cymone-remembrance) in [Billboard](https://www.billboard.com/) on 28 April 2016 about André Cymone, Morris Day ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/magazine-feature/7348518/prince-childhood-friend-bassist-andre-cymone-remembrance))
+ - [**"Prince Remembered by Childhood Best Friend and Bandmate André Cymone : 'There Was a Lot More to Him Than What People Saw'"**](https://www.billboard.com/articles/news/magazine-feature/7348518/prince-childhood-friend-bassist-andre-cymone-remembrance) in [Billboard](https://www.billboard.com/) on 28 April 2016 about André Cymone, Michael Jackson, Morris Day ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/magazine-feature/7348518/prince-childhood-friend-bassist-andre-cymone-remembrance))
 
 ----
 

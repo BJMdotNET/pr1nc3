@@ -36,6 +36,10 @@
 
 ----
 
+ - [**"Details of Prince's expanded 'Purple Rain' reissue revealed, coming June 23"**](http://www.startribune.com/details-of-prince-s-expanded-purple-rain-reissue-revealed-coming-june-23/420722973/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 28 April 2017 about 17 Days (song), bootleg, Erotic City (song), First Avenue (place), Minnesota Dance Theatre, NPG Records, Our Destiny (song), Possessed (song), Purple Rain (album), Purple Rain (song), Roadhouse Garden (song), The Beautiful Ones (song), The Revolution, vault, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/details-of-prince-s-expanded-purple-rain-reissue-revealed-coming-june-23/420722973/))
+
+----
+
  - [**"What's in Prince's 'vault'? It's still secret but maybe not for long"**](https://usatoday.com/story/life/music/2017/02/10/whats-princes-vault-s-still-secret-but-maybe-not-long/97744394/) in [USA Today](https://usatoday.com/) on 10 February 2017 about merchandise, NPG Records, Spotify, Tidal, Universal Music Group, vault ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2017/02/10/whats-princes-vault-s-still-secret-but-maybe-not-long/97744394/))
 
 ----
@@ -48,7 +52,7 @@
 
 ----
 
- - [**"Prince’s Closest Friends Share Their Best Prince Stories -- From Van Jones to Carmen Electra, publicists to Paisley Park members, those close to Prince Rogers Nelson tell tales—ordinary and out there—of the late legend."**](https://www.gq.com/story/prince-stories) in [www.gq.com](https://www.gq.com/) on 8 December 2016 about Albert Magnoli, André Cymone, Audubon Road, Bangles, Cat Glover, Central High, Chaka Khan, Chappelle's Show (TV show), Charlie Murphy, Corey Tollefson, Dave Chappelle, Dez Dickerson, Gwen Stefani, Jeremiah Freed, Jill Jones, Kandace Springs, Lake Minnetonka (place), Larry Graham, Manuela Testolini, Mayte, Micki Free, Misty Copeland, Morris Hayes, Neal Karlen, Netflix, NPG Records, Obama, Owen Husney, piracy, St. Louis Park (place), Susanna Hoffs, The Gold Experience (album), The Revolution, Van Jones, Vanity, vault, White House (place), YouTube ([mirror](https://web.archive.org/web/*/https://www.gq.com/story/prince-stories))
+ - [**"Prince’s Closest Friends Share Their Best Prince Stories -- From Van Jones to Carmen Electra, publicists to Paisley Park members, those close to Prince Rogers Nelson tell tales—ordinary and out there—of the late legend."**](https://www.gq.com/story/prince-stories) in [www.gq.com](https://www.gq.com/) on 8 December 2016 about Albert Magnoli, André Cymone, Audubon Road, Bangles, Cat Glover, Central High, Chaka Khan, Chappelle's Show (TV show), Charlie Murphy, Corey Tollefson, Dave Chappelle, Dez Dickerson, Gwen Stefani, Jeremiah Freed, Jill Jones, Kandace Springs, Lake Minnetonka (place), Larry Graham, Manuela Testolini, Mayte, Michael Jackson, Micki Free, Misty Copeland, Morris Hayes, Neal Karlen, Netflix, NPG Records, Obama, Owen Husney, piracy, St. Louis Park (place), Susanna Hoffs, The Gold Experience (album), The Revolution, Van Jones, Vanity, vault, White House (place), YouTube ([mirror](https://web.archive.org/web/*/https://www.gq.com/story/prince-stories))
 
 ----
 

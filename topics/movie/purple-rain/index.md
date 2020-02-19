@@ -88,11 +88,11 @@
 
 ----
 
- - [**"Prince Never Acted Before 'Purple Rain.' Then He Became a Household Name -- The movie and album would come to help define the 1980s and catapult the performer to global fame."**](https://www.biography.com/news/prince-purple-rain-album-movie) by Colin Bertram in [Biography](https://www.biography.com/) on 25 July 2019 about Academy Award, Alan Light, Albert Magnoli, Apollonia Kotero, First Avenue (place), I Would Die 4 U (song), Let’s Go Crazy (song), Morris Day, Purple Rain (album), Purple Rain (movie), Purple Rain (song), The Revolution, The Time, Vanity, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.biography.com/news/prince-purple-rain-album-movie))
+ - [**"Prince Never Acted Before 'Purple Rain.' Then He Became a Household Name -- The movie and album would come to help define the 1980s and catapult the performer to global fame."**](https://www.biography.com/news/prince-purple-rain-album-movie) by Colin Bertram in [Biography](https://www.biography.com/) on 25 July 2019 about Academy Award, Alan Light, Albert Magnoli, Apollonia Kotero, First Avenue (place), I Would Die 4 U (song), Let’s Go Crazy (song), Michael Jackson, Morris Day, Purple Rain (album), Purple Rain (movie), Purple Rain (song), The Revolution, The Time, Vanity, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.biography.com/news/prince-purple-rain-album-movie))
 
 ----
 
- - [**"'Purple Rain' 35th anniversary: We dive into the Prince cult classic for the first time"**](https://usatoday.com/story/entertainment/movies/2019/07/25/purple-rain-35th-anniversary-does-prince-cult-film-hold-up/1817029001/) by Brian Truitt, Patrick Ryan in [USA Today](https://usatoday.com/) on 25 July 2019 about Apollonia 6, Apollonia Kotero, Morris Day, Purple Rain (movie), Spotify, The Revolution, The Time ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/entertainment/movies/2019/07/25/purple-rain-35th-anniversary-does-prince-cult-film-hold-up/1817029001/))
+ - [**"'Purple Rain' 35th anniversary: We dive into the Prince cult classic for the first time"**](https://usatoday.com/story/entertainment/movies/2019/07/25/purple-rain-35th-anniversary-does-prince-cult-film-hold-up/1817029001/) by Brian Truitt, Patrick Ryan in [USA Today](https://usatoday.com/) on 25 July 2019 about Apollonia 6, Apollonia Kotero, Michael Jackson, Morris Day, Purple Rain (movie), Spotify, The Revolution, The Time ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/entertainment/movies/2019/07/25/purple-rain-35th-anniversary-does-prince-cult-film-hold-up/1817029001/))
 
 ----
 
@@ -192,7 +192,7 @@
 
 ----
 
- - [**"From Prince To Paul McCartney To Bruno Mars, LeRoy Bennett Is the Man"**](https://www.forbes.com/sites/stevebaltin/2017/09/21/from-prince-to-paul-mccartney-to-bruno-mars-leroy-bennett-is-the-man/) by Steve Baltin in [Forbes](https://www.forbes.com/) on 21 September 2017 about Dirty Mind (album), LeRoy Bennett, Purple Rain (movie), Purple Rain (tour) ([mirror](https://web.archive.org/web/*/https://www.forbes.com/sites/stevebaltin/2017/09/21/from-prince-to-paul-mccartney-to-bruno-mars-leroy-bennett-is-the-man/))
+ - [**"From Prince To Paul McCartney To Bruno Mars, LeRoy Bennett Is the Man"**](https://www.forbes.com/sites/stevebaltin/2017/09/21/from-prince-to-paul-mccartney-to-bruno-mars-leroy-bennett-is-the-man/) by Steve Baltin in [Forbes](https://www.forbes.com/) on 21 September 2017 about Dirty Mind (album), LeRoy Bennett, Michael Jackson, Purple Rain (movie), Purple Rain (tour) ([mirror](https://web.archive.org/web/*/https://www.forbes.com/sites/stevebaltin/2017/09/21/from-prince-to-paul-mccartney-to-bruno-mars-leroy-bennett-is-the-man/))
 
 ----
 
@@ -212,7 +212,7 @@
 
 ----
 
- - [**"Prince Dies at 57: Iconic Musical Genius Found Dead in Paisley Park"**](https://www.billboard.com/articles/news/7341522/prince-dead) in [Billboard](https://www.billboard.com/) on 21 April 2016 about 1999 (album), Around The World In A Day (album), Batdance (song), Carver County, Chaos and Disorder (album), contract, For You (album), Grammy Award, New Power Generation, Purple Rain (album), Purple Rain (movie), The Revolution, TMZ (website), vault, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/7341522/prince-dead))
+ - [**"Prince Dies at 57: Iconic Musical Genius Found Dead in Paisley Park"**](https://www.billboard.com/articles/news/7341522/prince-dead) in [Billboard](https://www.billboard.com/) on 21 April 2016 about 1999 (album), Around The World In A Day (album), Batdance (song), Carver County, Chaos and Disorder (album), contract, For You (album), Grammy Award, Michael Jackson, New Power Generation, Purple Rain (album), Purple Rain (movie), The Revolution, TMZ (website), vault, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/7341522/prince-dead))
 
 ----
 

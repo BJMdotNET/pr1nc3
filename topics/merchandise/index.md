@@ -4,15 +4,15 @@
 
 ----
 
- - [**"Music bios should strike chord with Moorer, Prince, Elton fans"**](https://www.bostonherald.com/2019/12/03/music-bios-should-strike-chord-with-moorer-prince-elton-fans/) in [www.bostonherald.com](https://www.bostonherald.com/) on 3 December 2019 about Dan Piepenbring, memoir, merchandise, Spiegel & Grau, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/https://www.bostonherald.com/2019/12/03/music-bios-should-strike-chord-with-moorer-prince-elton-fans/))
+ - [**"Music bios should strike chord with Moorer, Prince, Elton fans"**](https://www.bostonherald.com/2019/12/03/music-bios-should-strike-chord-with-moorer-prince-elton-fans/) in [www.bostonherald.com](https://www.bostonherald.com/) on 3 December 2019 about Dan Piepenbring, memoir, merchandise, Michael Jackson, Spiegel & Grau, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/https://www.bostonherald.com/2019/12/03/music-bios-should-strike-chord-with-moorer-prince-elton-fans/))
 
 ----
 
- - [**"5 of the best new music books"**](https://www.latimes.com/entertainment-arts/books/story/2019-11-21/music-books-elton-john-flea-prince-allison-moorer-janis-joplin) in [Los Angeles Times](https://www.latimes.com/) on 21 November 2019 about Dan Piepenbring, memoir, merchandise, Spiegel & Grau, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/https://www.latimes.com/entertainment-arts/books/story/2019-11-21/music-books-elton-john-flea-prince-allison-moorer-janis-joplin))
+ - [**"5 of the best new music books"**](https://www.latimes.com/entertainment-arts/books/story/2019-11-21/music-books-elton-john-flea-prince-allison-moorer-janis-joplin) in [Los Angeles Times](https://www.latimes.com/) on 21 November 2019 about Dan Piepenbring, memoir, merchandise, Michael Jackson, Spiegel & Grau, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/https://www.latimes.com/entertainment-arts/books/story/2019-11-21/music-books-elton-john-flea-prince-allison-moorer-janis-joplin))
 
 ----
 
- - [**"PAISLEY PARK IS IN YOUR HEART: A VISIT TO PRINCE'S MAGICAL MINNEAPOLIS KINGDOM -- WITH PRINCE'S MEMOIR JUST OUT AND A REMASTERED "1999" ON THE WAY, IT'S THE PERFECT TIME TO DO A PURPLE-COLORED TOUR OF MINNEAPOLIS."**](https://www.newsweek.com/paisley-park-your-heart-visit-princes-magical-minneapolis-kingdom-1472087) in [Newsweek](https://www.newsweek.com/) on 15 November 2019 about Academy Award, Chappelle's Show (TV show), Electric Fetus (place), First Avenue (place), George Clinton, Grammy Award, James Brown, memoir, merchandise, motorcycle, museum, Stevie Wonder, Super Bowl, vault ([mirror](https://web.archive.org/web/*/https://www.newsweek.com/paisley-park-your-heart-visit-princes-magical-minneapolis-kingdom-1472087))
+ - [**"PAISLEY PARK IS IN YOUR HEART: A VISIT TO PRINCE'S MAGICAL MINNEAPOLIS KINGDOM -- WITH PRINCE'S MEMOIR JUST OUT AND A REMASTERED "1999" ON THE WAY, IT'S THE PERFECT TIME TO DO A PURPLE-COLORED TOUR OF MINNEAPOLIS."**](https://www.newsweek.com/paisley-park-your-heart-visit-princes-magical-minneapolis-kingdom-1472087) in [Newsweek](https://www.newsweek.com/) on 15 November 2019 about Academy Award, Chappelle's Show (TV show), Electric Fetus (place), First Avenue (place), George Clinton, Grammy Award, James Brown, memoir, merchandise, Michael Jackson, motorcycle, museum, Stevie Wonder, Super Bowl, vault ([mirror](https://web.archive.org/web/*/https://www.newsweek.com/paisley-park-your-heart-visit-princes-magical-minneapolis-kingdom-1472087))
 
 ----
 
@@ -56,7 +56,7 @@
 
 ----
 
- - [**"Floodgates are about to open on Prince's career after death -- A year after he died, Prince's lucrative second career is taking off. The industry moguls he despised are calling the shots — and his wishes don't apply."**](http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 April 2017 about Bravado, Bremer Trust, Carver County, Charles Koppelman, contract, Graceland, Graceland Holdings, merchandise, museum, Omarr Baker, Spotify, Susan Rogers, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/))
+ - [**"Floodgates are about to open on Prince's career after death -- A year after he died, Prince's lucrative second career is taking off. The industry moguls he despised are calling the shots — and his wishes don't apply."**](http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 April 2017 about Bravado, Bremer Trust, Carver County, Charles Koppelman, contract, Graceland, Graceland Holdings, merchandise, Michael Jackson, museum, Omarr Baker, Spotify, Susan Rogers, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/))
 
 ----
 
@@ -72,7 +72,7 @@
 
 ----
 
- - [**"Prince invites fans to party with him at Paisley Park"**](https://apnews.com/93c56737c5344b9597794d00449d08e3) by Jeff Baenen (Associated Press) in [Associated Press News](https://apnews.com/) on 27 October 2015 about 3rdEyeGirl, Donna Grantis, James Brown, Judith Hill, merchandise, Stevie Wonder ([mirror](https://web.archive.org/web/*/https://apnews.com/93c56737c5344b9597794d00449d08e3))
+ - [**"Prince invites fans to party with him at Paisley Park"**](https://apnews.com/93c56737c5344b9597794d00449d08e3) by Jeff Baenen (Associated Press) in [Associated Press News](https://apnews.com/) on 27 October 2015 about 3rdEyeGirl, Donna Grantis, James Brown, Judith Hill, merchandise, Michael Jackson, Stevie Wonder ([mirror](https://web.archive.org/web/*/https://apnews.com/93c56737c5344b9597794d00449d08e3))
 
 ----
 

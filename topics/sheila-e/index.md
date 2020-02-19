@@ -144,7 +144,7 @@
 
 ----
 
- - [**"Sheila E. turns trauma into 'glorious' triumph"**](https://usatoday.com/story/life/2019/08/24/sheila-e-glorious-life/2101411001/) in [USA Today](https://usatoday.com/) on 24 August 2019 about airport, memoir, Obama, Sheila E., The Glamorous Life (album), The Glamorous Life (song), White House (place) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/2019/08/24/sheila-e-glorious-life/2101411001/))
+ - [**"Sheila E. turns trauma into 'glorious' triumph"**](https://usatoday.com/story/life/2019/08/24/sheila-e-glorious-life/2101411001/) in [USA Today](https://usatoday.com/) on 24 August 2019 about airport, memoir, Michael Jackson, Obama, Sheila E., The Glamorous Life (album), The Glamorous Life (song), White House (place) ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/2019/08/24/sheila-e-glorious-life/2101411001/))
 
 ----
 
@@ -180,11 +180,11 @@
 
 ----
 
- - [**"Prince Remembered by Three Key Women in His Life"**](https://variety.com/2019/music/news/prince-birthday-remembered-by-three-key-women-originals-1203235532/) by Jem Aswad in [Variety](https://variety.com/) on 7 June 2019 about airport, Apollonia 6, Atlanta (place), Colleen (song), contract, Cynthia Rose, Illinois (place), Jamie Starr, Jill Jones, Lisa Coleman, Manic Monday (song), Mazarati, Moline, Illinois (place), Nothing Compares 2 U (song), Originals (album), Peggy McCreary, Quincy Jones, Sheena Easton, Sheila E., Starfish And Coffee (song), Sugar Walls (song), Susan Rogers, Susannah Melvoin, Vanity, Vanity 6, Wendy & Lisa ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/news/prince-birthday-remembered-by-three-key-women-originals-1203235532/))
+ - [**"Prince Remembered by Three Key Women in His Life"**](https://variety.com/2019/music/news/prince-birthday-remembered-by-three-key-women-originals-1203235532/) by Jem Aswad in [Variety](https://variety.com/) on 7 June 2019 about airport, Apollonia 6, Atlanta (place), Colleen (song), contract, Cynthia Rose, Illinois (place), Jamie Starr, Jill Jones, Lisa Coleman, Manic Monday (song), Mazarati, Michael Jackson, Moline, Illinois (place), Nothing Compares 2 U (song), Originals (album), Peggy McCreary, Quincy Jones, Sheena Easton, Sheila E., Starfish And Coffee (song), Sugar Walls (song), Susan Rogers, Susannah Melvoin, Vanity, Vanity 6, Wendy & Lisa ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/news/prince-birthday-remembered-by-three-key-women-originals-1203235532/))
 
 ----
 
- - [**"Sheila E.’s Debut Album ‘The Glamorous Life’ Turns 35: Anniversary Retrospective -- Happy 35th Anniversary to Sheila E.’s debut album The Glamorous Life, originally released June 4, 1984."**](https://www.albumism.com/features/sheila-e-debut-album-the-glamorous-life-turns-35-anniversary-retrospective) by Andy Healy in [Albumism](https://www.albumism.com/) on 2 June 2019 about Condition of the Heart (song), Erotic City (song), Jesse Johnson, Let’s Go Crazy (song), Next Time Wipe The Lipstick Off Your Collar (song), Noon Rendezvous (song), Oliver’s House (song), Sheila E., Shortberry Strawcake (song), The Belle of St. Mark (song), The Glamorous Life (album), The Glamorous Life (song), The Starr Company, The Time ([mirror](https://web.archive.org/web/*/https://www.albumism.com/features/sheila-e-debut-album-the-glamorous-life-turns-35-anniversary-retrospective))
+ - [**"Sheila E.’s Debut Album ‘The Glamorous Life’ Turns 35: Anniversary Retrospective -- Happy 35th Anniversary to Sheila E.’s debut album The Glamorous Life, originally released June 4, 1984."**](https://www.albumism.com/features/sheila-e-debut-album-the-glamorous-life-turns-35-anniversary-retrospective) by Andy Healy in [Albumism](https://www.albumism.com/) on 2 June 2019 about Condition of the Heart (song), Erotic City (song), Jesse Johnson, Let’s Go Crazy (song), Michael Jackson, Next Time Wipe The Lipstick Off Your Collar (song), Noon Rendezvous (song), Oliver’s House (song), Sheila E., Shortberry Strawcake (song), The Belle of St. Mark (song), The Glamorous Life (album), The Glamorous Life (song), The Starr Company, The Time ([mirror](https://web.archive.org/web/*/https://www.albumism.com/features/sheila-e-debut-album-the-glamorous-life-turns-35-anniversary-retrospective))
 
 ----
 
@@ -228,7 +228,7 @@
 
 ----
 
- - [**"The days the music died: A look at funerals of the greats"**](https://apnews.com/7d546ab5dbec4e5ba4ebd0eddd1064e8) in [Associated Press News](https://apnews.com/) on 29 August 2018 about Aretha Franklin, Graceland, James Brown, Larry Graham, museum, Sheila E., Stevie Wonder, trademark ([mirror](https://web.archive.org/web/*/https://apnews.com/7d546ab5dbec4e5ba4ebd0eddd1064e8))
+ - [**"The days the music died: A look at funerals of the greats"**](https://apnews.com/7d546ab5dbec4e5ba4ebd0eddd1064e8) in [Associated Press News](https://apnews.com/) on 29 August 2018 about Aretha Franklin, Graceland, James Brown, Larry Graham, Michael Jackson, museum, Sheila E., Stevie Wonder, trademark ([mirror](https://web.archive.org/web/*/https://apnews.com/7d546ab5dbec4e5ba4ebd0eddd1064e8))
 
 ----
 
@@ -300,11 +300,11 @@
 
 ----
 
- - [**"Susan Rogers - 2016 Red Bull Music Academy lecture"**](https://www.redbullmusicacademy.com/lectures/susan-rogers-lecture) in [Red Bull Music Academy](https://www.redbullmusicacademy.com/) on 8 December 2016 about 17 Days (song), Academy Award, Anita Baker, Bernie Grundman, bootleg, Condition of the Heart (song), contract, First Avenue (place), Grammy Award, James Brown, Jesse Johnson, Jill Jones, Joni Mitchell, Kate Bush, Let’s Go Crazy (song), Lisa Coleman, Little Red Corvette (song), Nothing Compares 2 U (song), Pop Life (song), Sheila E., Sometimes It Snows In April (song), Stevie Wonder, Sunset Sound (place), Susan Rogers, Susannah Melvoin, The Ballad Of Dorothy Parker (song), The Revolution, Under the Cherry Moon (movie), University of Minnesota, Vanity 6, vault, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://www.redbullmusicacademy.com/lectures/susan-rogers-lecture))
+ - [**"Susan Rogers - 2016 Red Bull Music Academy lecture"**](https://www.redbullmusicacademy.com/lectures/susan-rogers-lecture) in [Red Bull Music Academy](https://www.redbullmusicacademy.com/) on 8 December 2016 about 17 Days (song), Academy Award, Anita Baker, Bernie Grundman, bootleg, Condition of the Heart (song), contract, First Avenue (place), Grammy Award, James Brown, Jesse Johnson, Jill Jones, Joni Mitchell, Kate Bush, Let’s Go Crazy (song), Lisa Coleman, Little Red Corvette (song), Michael Jackson, Nothing Compares 2 U (song), Pop Life (song), Sheila E., Sometimes It Snows In April (song), Stevie Wonder, Sunset Sound (place), Susan Rogers, Susannah Melvoin, The Ballad Of Dorothy Parker (song), The Revolution, Under the Cherry Moon (movie), University of Minnesota, Vanity 6, vault, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://www.redbullmusicacademy.com/lectures/susan-rogers-lecture))
 
 ----
 
- - [**"Susan Rogers on Working with Prince -- The engineer, collaborator and confidante shares stories from her exhilarating and exhausting time with Prince Rogers Nelson"**](https://daily.redbullmusicacademy.com/2017/06/susan-rogers-working-with-prince) in [Red Bull Music Academy Daily](https://daily.redbullmusicacademy.com/) on 8 December 2016 about Jesse Johnson, Jill Jones, Sheila E., Sunset Sound (place), Susan Rogers, Susannah Melvoin, Vanity 6, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://daily.redbullmusicacademy.com/2017/06/susan-rogers-working-with-prince))
+ - [**"Susan Rogers on Working with Prince -- The engineer, collaborator and confidante shares stories from her exhilarating and exhausting time with Prince Rogers Nelson"**](https://daily.redbullmusicacademy.com/2017/06/susan-rogers-working-with-prince) in [Red Bull Music Academy Daily](https://daily.redbullmusicacademy.com/) on 8 December 2016 about Jesse Johnson, Jill Jones, Michael Jackson, Sheila E., Sunset Sound (place), Susan Rogers, Susannah Melvoin, Vanity 6, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://daily.redbullmusicacademy.com/2017/06/susan-rogers-working-with-prince))
 
 ----
 
@@ -332,15 +332,15 @@
 
 ----
 
- - [**"Could Paisley Park become a Prince museum? Maybe not"**](https://usatoday.com/story/life/music/2016/04/29/could-paisley-park-become-prince-museum-maybe-not/83651588/) in [USA Today](https://usatoday.com/) on 1 May 2016 about Denny Laufenburger, Graceland, museum, Robert Strauss, Sheila E., Tyka Nelson ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2016/04/29/could-paisley-park-become-prince-museum-maybe-not/83651588/))
+ - [**"Could Paisley Park become a Prince museum? Maybe not"**](https://usatoday.com/story/life/music/2016/04/29/could-paisley-park-become-prince-museum-maybe-not/83651588/) in [USA Today](https://usatoday.com/) on 1 May 2016 about Denny Laufenburger, Graceland, Michael Jackson, museum, Robert Strauss, Sheila E., Tyka Nelson ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2016/04/29/could-paisley-park-become-prince-museum-maybe-not/83651588/))
 
 ----
 
- - [**"APNewsBreak: Investigators look at overdose in Prince death"**](https://apnews.com/744a34089a8241df95a836b358741ace) in [Associated Press News](https://apnews.com/) on 29 April 2016 about Atlanta (place), Carver County, Illinois (place), Sheila E. ([mirror](https://web.archive.org/web/*/https://apnews.com/744a34089a8241df95a836b358741ace))
+ - [**"APNewsBreak: Investigators look at overdose in Prince death"**](https://apnews.com/744a34089a8241df95a836b358741ace) in [Associated Press News](https://apnews.com/) on 29 April 2016 about Atlanta (place), Carver County, Illinois (place), Michael Jackson, Sheila E. ([mirror](https://web.archive.org/web/*/https://apnews.com/744a34089a8241df95a836b358741ace))
 
 ----
 
- - [**"Prince death investigation focuses on flight, drugs, doctor"**](https://apnews.com/175b0bd7f6f641b1b9b90b268bb3375e) in [Associated Press News](https://apnews.com/) on 29 April 2016 about Atlanta (place), Carver County, Illinois (place), Moline, Illinois (place), Sheila E. ([mirror](https://web.archive.org/web/*/https://apnews.com/175b0bd7f6f641b1b9b90b268bb3375e))
+ - [**"Prince death investigation focuses on flight, drugs, doctor"**](https://apnews.com/175b0bd7f6f641b1b9b90b268bb3375e) in [Associated Press News](https://apnews.com/) on 29 April 2016 about Atlanta (place), Carver County, Illinois (place), Michael Jackson, Moline, Illinois (place), Sheila E. ([mirror](https://web.archive.org/web/*/https://apnews.com/175b0bd7f6f641b1b9b90b268bb3375e))
 
 ----
 
@@ -388,7 +388,7 @@
 
 ----
 
- - [**"Paean to Prince: 15 Fascinating Facts About His Purple Majesty -- Juicy secrets from a legendary music career, collected by an infatuated fan"**](https://medium.com/cuepoint/paean-to-prince-15-fascinating-facts-about-his-purple-majesty-6aa627d1d17e) in [Cuepoint](https://medium.com/cuepoint/) on 10 February 2016 about Alan Light, Albert Magnoli, Apollonia 6, Dave Chappelle, Janet Jackson, Jehovah’s Witness, Jesse Johnson, Jimmy Jam, Joni Mitchell, Larry Graham, Lisa Coleman, Matt Fink, memoir, Morris Day, Questlove, Quincy Jones, Sheila E., Stand Back (song), Stevie Nicks, Sunset Sound (place), Susan Rogers, Terry Lewis, The Revolution, Vagina (song), Vanity, Vanity 6 ([mirror](https://web.archive.org/web/*/https://medium.com/cuepoint/paean-to-prince-15-fascinating-facts-about-his-purple-majesty-6aa627d1d17e))
+ - [**"Paean to Prince: 15 Fascinating Facts About His Purple Majesty -- Juicy secrets from a legendary music career, collected by an infatuated fan"**](https://medium.com/cuepoint/paean-to-prince-15-fascinating-facts-about-his-purple-majesty-6aa627d1d17e) in [Cuepoint](https://medium.com/cuepoint/) on 10 February 2016 about Alan Light, Albert Magnoli, Apollonia 6, Dave Chappelle, Janet Jackson, Jehovah’s Witness, Jesse Johnson, Jimmy Jam, Joni Mitchell, Larry Graham, Lisa Coleman, Matt Fink, memoir, Michael Jackson, Morris Day, Questlove, Quincy Jones, Sheila E., Stand Back (song), Stevie Nicks, Sunset Sound (place), Susan Rogers, Terry Lewis, The Revolution, Vagina (song), Vanity, Vanity 6 ([mirror](https://web.archive.org/web/*/https://medium.com/cuepoint/paean-to-prince-15-fascinating-facts-about-his-purple-majesty-6aa627d1d17e))
 
 ----
 
@@ -412,7 +412,7 @@
 
 ----
 
- - [**"David Foster Edges Cyndi Lauper, Tina Turner and Prince With BC-Grammys-List"**](https://apnews.com/78bd652204e400aeb604e68f1e12f43b) in [Associated Press News](https://apnews.com/) on 10 January 1985 about Chaka Khan, Kenny Rogers, Sheila E., Stevie Wonder, The Revolution ([mirror](https://web.archive.org/web/*/https://apnews.com/78bd652204e400aeb604e68f1e12f43b))
+ - [**"David Foster Edges Cyndi Lauper, Tina Turner and Prince With BC-Grammys-List"**](https://apnews.com/78bd652204e400aeb604e68f1e12f43b) in [Associated Press News](https://apnews.com/) on 10 January 1985 about Chaka Khan, Kenny Rogers, Michael Jackson, Sheila E., Stevie Wonder, The Revolution ([mirror](https://web.archive.org/web/*/https://apnews.com/78bd652204e400aeb604e68f1e12f43b))
 
 ----
 

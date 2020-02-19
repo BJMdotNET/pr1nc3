@@ -2,7 +2,7 @@
 
 ## November 2019 (1)
 
- - [**"The best music books of 2019 -- BOOKS OF THE YEAR"**](https://www.thetimes.co.uk/article/the-best-music-books-of-2019-2ztl5fncb) in [The Times](https://www.thetimes.co.uk/) on 22 November 2019 about Dan Piepenbring, Ed Sheeran, memoir, Stevie Wonder, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/https://www.thetimes.co.uk/article/the-best-music-books-of-2019-2ztl5fncb))
+ - [**"The best music books of 2019 -- BOOKS OF THE YEAR"**](https://www.thetimes.co.uk/article/the-best-music-books-of-2019-2ztl5fncb) in [The Times](https://www.thetimes.co.uk/) on 22 November 2019 about Dan Piepenbring, Ed Sheeran, memoir, Michael Jackson, Stevie Wonder, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/https://www.thetimes.co.uk/article/the-best-music-books-of-2019-2ztl5fncb))
 
 ----
 

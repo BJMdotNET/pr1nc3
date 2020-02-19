@@ -36,7 +36,7 @@
 
 ----
 
- - [**"Drake, Bieber win big, Selena Gomez gets emotional at AMAs"**](https://apnews.com/d90b510be7564038ab7ceed50f3bd1ba) in [Associated Press News](https://apnews.com/) on 21 November 2016 about Apple Music, Donald Trump, Obama, Trump, Tyka Nelson ([mirror](https://web.archive.org/web/*/https://apnews.com/d90b510be7564038ab7ceed50f3bd1ba))
+ - [**"Drake, Bieber win big, Selena Gomez gets emotional at AMAs"**](https://apnews.com/d90b510be7564038ab7ceed50f3bd1ba) in [Associated Press News](https://apnews.com/) on 21 November 2016 about Apple Music, Donald Trump, Michael Jackson, Obama, Trump, Tyka Nelson ([mirror](https://web.archive.org/web/*/https://apnews.com/d90b510be7564038ab7ceed50f3bd1ba))
 
 ----
 

@@ -1,5 +1,13 @@
 # Sometimes It Snows In April (song)
 
+ - [**"Paisley Park concert series kicks off with Ndegeocello reimagining Prince"**](http://www.startribune.com/paisley-park-concert-series-kicks-off-with-ndegeocello-reimagining-prince/567927442/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 16 February 2020 about Alan Seiffert, Lizzo, Meshell Ndegeocello, museum, Pop Life (song), Purple Rain (song), Sometimes It Snows In April (song), When Doves Cry (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-concert-series-kicks-off-with-ndegeocello-reimagining-prince/567927442/))
+
+----
+
+ - [**"The Hold Steady, Neko Case and local supergroup Golden Smog booked for First Avenue’s 50th birthday weekend"**](https://www.twincities.com/2020/02/13/the-hold-steady-neko-case-and-local-supergroup-golden-smog-booked-for-first-avenues-50th-birthday-weekend/) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 13 February 2020 about Celebration, fentanyl, First Avenue (place), Madonna, Meshell Ndegeocello, Musicology: Real Music by Real Musicians (event), Sometimes It Snows In April (song) ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2020/02/13/the-hold-steady-neko-case-and-local-supergroup-golden-smog-booked-for-first-avenues-50th-birthday-weekend/))
+
+----
+
  - [**"Alcohol will be served as Paisley Park launches new live music series"**](http://www.startribune.com/live-music-series-at-prince-s-paisley-park-to-kick-off-feb-15-with-meshell-ndegeocello/566830752/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 9 January 2020 about Amazing Grace (movie), Andre Cymone, Aretha Franklin, Dave Chappelle, Dave Chappelle’s Block Party (movie), George Clinton, Judith Hill, Meshell Ndegeocello, Musicology: Real Music by Real Musicians (event), Paisley Park Cinema: Music on the Big Screen (event), Sometimes It Snows In April (song), Wattstax (movie) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/live-music-series-at-prince-s-paisley-park-to-kick-off-feb-15-with-meshell-ndegeocello/566830752/))
 
 ----
@@ -16,7 +24,7 @@
 
 ----
 
- - [**"The 20 best Prince songs of all time by the NME office"**](https://www.nme.com/blogs/nme-blogs/best-prince-songs-9053) in [NME (New Musical Express)](https://www.nme.com/) on 7 June 2018 about 1999 (song), Alphabet St. (song), Around The World In A Day (song), Bambi (song), Controversy (song), Darling Nikki (song), Diamonds and Pearls (song), I Could Never Take The Place Of Your Man (song), I Wanna Be Your Lover (song), I Would Die 4 U (song), Lisa Coleman, Little Red Corvette (song), Mayte, Mayte Garcia, Mazarati, memoir, Money Don’t Matter 2 Night (song), Parental Advisory, Purple Rain (song), Raspberry Beret (song), Sheena Easton, Sometimes It Snows In April (song), Spiegel & Grau, Sugar Walls (song), The Most Beautiful Girl In The World (song), Tipper Gore, U Got the Look (song), When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.nme.com/blogs/nme-blogs/best-prince-songs-9053))
+ - [**"The 20 best Prince songs of all time by the NME office"**](https://www.nme.com/blogs/nme-blogs/best-prince-songs-9053) in [NME (New Musical Express)](https://www.nme.com/) on 7 June 2018 about 1999 (song), Alphabet St. (song), Around The World In A Day (song), Bambi (song), Controversy (song), Darling Nikki (song), Diamonds and Pearls (song), I Could Never Take The Place Of Your Man (song), I Wanna Be Your Lover (song), I Would Die 4 U (song), Lisa Coleman, Little Red Corvette (song), Mayte, Mayte Garcia, Mazarati, memoir, Michael Jackson, Money Don’t Matter 2 Night (song), Parental Advisory, Purple Rain (song), Raspberry Beret (song), Sheena Easton, Sometimes It Snows In April (song), Spiegel & Grau, Sugar Walls (song), The Most Beautiful Girl In The World (song), Tipper Gore, U Got the Look (song), When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.nme.com/blogs/nme-blogs/best-prince-songs-9053))
 
 ----
 
@@ -24,7 +32,7 @@
 
 ----
 
- - [**"Susan Rogers - 2016 Red Bull Music Academy lecture"**](https://www.redbullmusicacademy.com/lectures/susan-rogers-lecture) in [Red Bull Music Academy](https://www.redbullmusicacademy.com/) on 8 December 2016 about 17 Days (song), Academy Award, Anita Baker, Bernie Grundman, bootleg, Condition of the Heart (song), contract, First Avenue (place), Grammy Award, James Brown, Jesse Johnson, Jill Jones, Joni Mitchell, Kate Bush, Let’s Go Crazy (song), Lisa Coleman, Little Red Corvette (song), Nothing Compares 2 U (song), Pop Life (song), Sheila E., Sometimes It Snows In April (song), Stevie Wonder, Sunset Sound (place), Susan Rogers, Susannah Melvoin, The Ballad Of Dorothy Parker (song), The Revolution, Under the Cherry Moon (movie), University of Minnesota, Vanity 6, vault, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://www.redbullmusicacademy.com/lectures/susan-rogers-lecture))
+ - [**"Susan Rogers - 2016 Red Bull Music Academy lecture"**](https://www.redbullmusicacademy.com/lectures/susan-rogers-lecture) in [Red Bull Music Academy](https://www.redbullmusicacademy.com/) on 8 December 2016 about 17 Days (song), Academy Award, Anita Baker, Bernie Grundman, bootleg, Condition of the Heart (song), contract, First Avenue (place), Grammy Award, James Brown, Jesse Johnson, Jill Jones, Joni Mitchell, Kate Bush, Let’s Go Crazy (song), Lisa Coleman, Little Red Corvette (song), Michael Jackson, Nothing Compares 2 U (song), Pop Life (song), Sheila E., Sometimes It Snows In April (song), Stevie Wonder, Sunset Sound (place), Susan Rogers, Susannah Melvoin, The Ballad Of Dorothy Parker (song), The Revolution, Under the Cherry Moon (movie), University of Minnesota, Vanity 6, vault, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://www.redbullmusicacademy.com/lectures/susan-rogers-lecture))
 
 ----
 

@@ -6,7 +6,7 @@
 
 ----
 
- - [**"Rock Star Plays Surprise Concert For Handicapped Children"**](https://apnews.com/1ca469b35a7440f27741bf605c161816) in [Associated Press News](https://apnews.com/) on 20 March 1985 about Alan Leeds, Atlanta (place), Baby I’m a Star (song), Let’s Go Crazy (song) ([mirror](https://web.archive.org/web/*/https://apnews.com/1ca469b35a7440f27741bf605c161816))
+ - [**"Rock Star Plays Surprise Concert For Handicapped Children"**](https://apnews.com/1ca469b35a7440f27741bf605c161816) in [Associated Press News](https://apnews.com/) on 20 March 1985 about Alan Leeds, Atlanta (place), Baby I’m a Star (song), Let’s Go Crazy (song), We Are the World (song) ([mirror](https://web.archive.org/web/*/https://apnews.com/1ca469b35a7440f27741bf605c161816))
 
 ----
 
@@ -22,7 +22,7 @@
 
 ## January 1985 (1)
 
- - [**"David Foster Edges Cyndi Lauper, Tina Turner and Prince With BC-Grammys-List"**](https://apnews.com/78bd652204e400aeb604e68f1e12f43b) in [Associated Press News](https://apnews.com/) on 10 January 1985 about Chaka Khan, Kenny Rogers, Sheila E., Stevie Wonder, The Revolution ([mirror](https://web.archive.org/web/*/https://apnews.com/78bd652204e400aeb604e68f1e12f43b))
+ - [**"David Foster Edges Cyndi Lauper, Tina Turner and Prince With BC-Grammys-List"**](https://apnews.com/78bd652204e400aeb604e68f1e12f43b) in [Associated Press News](https://apnews.com/) on 10 January 1985 about Chaka Khan, Kenny Rogers, Michael Jackson, Sheila E., Stevie Wonder, The Revolution ([mirror](https://web.archive.org/web/*/https://apnews.com/78bd652204e400aeb604e68f1e12f43b))
 
 ----
 

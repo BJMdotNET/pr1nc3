@@ -52,7 +52,7 @@
 
 ----
 
- - [**"Prince's sound engineer, Susan Rogers: 'He needed to be the alpha male to get things done' -- One of a tiny number of female recording engineers, Rogers was there at birth of some of pop’s classics, including When Doves Cry. She recalls the man she knew – and shares her theory about why he loved working with women"**](https://www.theguardian.com/music/2017/nov/09/princes-sound-engineer-susan-rogers-he-needed-to-be-the-alpha-male-to-get-things-done) in [The Guardian](https://www.theguardian.com/) on 9 November 2017 about Eric Clapton, exhibit, exhibition, James Brown, Joni Mitchell, Lisa Coleman, Susan Rogers, Wendy Melvoin, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/music/2017/nov/09/princes-sound-engineer-susan-rogers-he-needed-to-be-the-alpha-male-to-get-things-done))
+ - [**"Prince's sound engineer, Susan Rogers: 'He needed to be the alpha male to get things done' -- One of a tiny number of female recording engineers, Rogers was there at birth of some of pop’s classics, including When Doves Cry. She recalls the man she knew – and shares her theory about why he loved working with women"**](https://www.theguardian.com/music/2017/nov/09/princes-sound-engineer-susan-rogers-he-needed-to-be-the-alpha-male-to-get-things-done) in [The Guardian](https://www.theguardian.com/) on 9 November 2017 about Eric Clapton, exhibit, exhibition, James Brown, Joni Mitchell, Lisa Coleman, Michael Jackson, Susan Rogers, Wendy Melvoin, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/music/2017/nov/09/princes-sound-engineer-susan-rogers-he-needed-to-be-the-alpha-male-to-get-things-done))
 
 ----
 
@@ -112,7 +112,7 @@
 
 ----
 
- - [**"Michael Jackson’s glove, Nirvana’s MTV moon man up for bid"**](https://apnews.com/2ce5075522554dca83f0b6b384c122eb) in [Associated Press News](https://apnews.com/) on 13 October 2017 about auction ([mirror](https://web.archive.org/web/*/https://apnews.com/2ce5075522554dca83f0b6b384c122eb))
+ - [**"Michael Jackson’s glove, Nirvana’s MTV moon man up for bid"**](https://apnews.com/2ce5075522554dca83f0b6b384c122eb) in [Associated Press News](https://apnews.com/) on 13 October 2017 about auction, Michael Jackson ([mirror](https://web.archive.org/web/*/https://apnews.com/2ce5075522554dca83f0b6b384c122eb))
 
 ----
 
@@ -126,7 +126,7 @@
 
 ## September 2017 (4)
 
- - [**"From Prince To Paul McCartney To Bruno Mars, LeRoy Bennett Is the Man"**](https://www.forbes.com/sites/stevebaltin/2017/09/21/from-prince-to-paul-mccartney-to-bruno-mars-leroy-bennett-is-the-man/) by Steve Baltin in [Forbes](https://www.forbes.com/) on 21 September 2017 about Dirty Mind (album), LeRoy Bennett, Purple Rain (movie), Purple Rain (tour) ([mirror](https://web.archive.org/web/*/https://www.forbes.com/sites/stevebaltin/2017/09/21/from-prince-to-paul-mccartney-to-bruno-mars-leroy-bennett-is-the-man/))
+ - [**"From Prince To Paul McCartney To Bruno Mars, LeRoy Bennett Is the Man"**](https://www.forbes.com/sites/stevebaltin/2017/09/21/from-prince-to-paul-mccartney-to-bruno-mars-leroy-bennett-is-the-man/) by Steve Baltin in [Forbes](https://www.forbes.com/) on 21 September 2017 about Dirty Mind (album), LeRoy Bennett, Michael Jackson, Purple Rain (movie), Purple Rain (tour) ([mirror](https://web.archive.org/web/*/https://www.forbes.com/sites/stevebaltin/2017/09/21/from-prince-to-paul-mccartney-to-bruno-mars-leroy-bennett-is-the-man/))
 
 ----
 
@@ -376,7 +376,7 @@
 
 ----
 
- - [**"Details of Prince's expanded 'Purple Rain' reissue revealed, coming June 23"**](http://www.startribune.com/details-of-prince-s-expanded-purple-rain-reissue-revealed-coming-june-23/420722973/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 28 April 2017 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/details-of-prince-s-expanded-purple-rain-reissue-revealed-coming-june-23/420722973/))
+ - [**"Details of Prince's expanded 'Purple Rain' reissue revealed, coming June 23"**](http://www.startribune.com/details-of-prince-s-expanded-purple-rain-reissue-revealed-coming-june-23/420722973/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 28 April 2017 about 17 Days (song), bootleg, Erotic City (song), First Avenue (place), Minnesota Dance Theatre, NPG Records, Our Destiny (song), Possessed (song), Purple Rain (album), Purple Rain (song), Roadhouse Garden (song), The Beautiful Ones (song), The Revolution, vault, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/details-of-prince-s-expanded-purple-rain-reissue-revealed-coming-june-23/420722973/))
 
 ----
 
@@ -464,7 +464,7 @@
 
 ----
 
- - [**"Floodgates are about to open on Prince's career after death -- A year after he died, Prince's lucrative second career is taking off. The industry moguls he despised are calling the shots — and his wishes don't apply."**](http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 April 2017 about Bravado, Bremer Trust, Carver County, Charles Koppelman, contract, Graceland, Graceland Holdings, merchandise, museum, Omarr Baker, Spotify, Susan Rogers, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/))
+ - [**"Floodgates are about to open on Prince's career after death -- A year after he died, Prince's lucrative second career is taking off. The industry moguls he despised are calling the shots — and his wishes don't apply."**](http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 April 2017 about Bravado, Bremer Trust, Carver County, Charles Koppelman, contract, Graceland, Graceland Holdings, merchandise, Michael Jackson, museum, Omarr Baker, Spotify, Susan Rogers, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/))
 
 ----
 
@@ -552,7 +552,7 @@
 
 ----
 
- - [**"Prince's Strange Relationship with Parody (and Weird Al) Detailed in Excerpt From Ben Greenman's 'Dig If U Will The Picture' [Exclusive]"**](https://www.okayplayer.com/news/prince-weird-al-exclusive-excerpt-ben-greenman-interview.html) in [Okayplayer](https://www.okayplayer.com/) on 6 April 2017 about Charlie Murphy, Dave Chappelle, Let’s Go Crazy (song), Weird Al Yankovic ([mirror](https://web.archive.org/web/*/https://www.okayplayer.com/news/prince-weird-al-exclusive-excerpt-ben-greenman-interview.html))
+ - [**"Prince's Strange Relationship with Parody (and Weird Al) Detailed in Excerpt From Ben Greenman's 'Dig If U Will The Picture' [Exclusive]"**](https://www.okayplayer.com/news/prince-weird-al-exclusive-excerpt-ben-greenman-interview.html) in [Okayplayer](https://www.okayplayer.com/) on 6 April 2017 about Charlie Murphy, Dave Chappelle, Let’s Go Crazy (song), Michael Jackson, Weird Al Yankovic ([mirror](https://web.archive.org/web/*/https://www.okayplayer.com/news/prince-weird-al-exclusive-excerpt-ben-greenman-interview.html))
 
 ----
 
@@ -682,7 +682,7 @@
 
 ----
 
- - [**"Tax deadline looms for Prince estate; government to get half"**](https://apnews.com/79450a727b23422e94e3ded9a5f9fcff) by Steve Karnowski (Associated Press) in [Associated Press News](https://apnews.com/) on 17 January 2017 about Prince Estate, Robert Strauss, The Prince Estate ([mirror](https://web.archive.org/web/*/https://apnews.com/79450a727b23422e94e3ded9a5f9fcff))
+ - [**"Tax deadline looms for Prince estate; government to get half"**](https://apnews.com/79450a727b23422e94e3ded9a5f9fcff) by Steve Karnowski (Associated Press) in [Associated Press News](https://apnews.com/) on 17 January 2017 about Michael Jackson, Prince Estate, Robert Strauss, The Prince Estate ([mirror](https://web.archive.org/web/*/https://apnews.com/79450a727b23422e94e3ded9a5f9fcff))
 
 ----
 
@@ -698,7 +698,7 @@
 
 ----
 
- - [**"Judge: Appeals holding up Prince estate determination"**](https://apnews.com/c26a8f91fcbc4e25b4138a17edc9c56e) in [Associated Press News](https://apnews.com/) on 12 January 2017 about Alfred Jackson, Bremer Trust, Carver County, contract, John Nelson, Kevin Eide, Omarr Baker, Prince Estate, Tyka Nelson, Van Jones ([mirror](https://web.archive.org/web/*/https://apnews.com/c26a8f91fcbc4e25b4138a17edc9c56e))
+ - [**"Judge: Appeals holding up Prince estate determination"**](https://apnews.com/c26a8f91fcbc4e25b4138a17edc9c56e) in [Associated Press News](https://apnews.com/) on 12 January 2017 about Alfred Jackson, Bremer Trust, Carver County, contract, John Nelson, Kevin Eide, Michael Jackson, Omarr Baker, Prince Estate, Tyka Nelson, Van Jones ([mirror](https://web.archive.org/web/*/https://apnews.com/c26a8f91fcbc4e25b4138a17edc9c56e))
 
 ----
 

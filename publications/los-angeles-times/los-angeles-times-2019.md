@@ -2,7 +2,7 @@
 
 ## November 2019 (1)
 
- - [**"5 of the best new music books"**](https://www.latimes.com/entertainment-arts/books/story/2019-11-21/music-books-elton-john-flea-prince-allison-moorer-janis-joplin) in [Los Angeles Times](https://www.latimes.com/) on 21 November 2019 about Dan Piepenbring, memoir, merchandise, Spiegel & Grau, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/https://www.latimes.com/entertainment-arts/books/story/2019-11-21/music-books-elton-john-flea-prince-allison-moorer-janis-joplin))
+ - [**"5 of the best new music books"**](https://www.latimes.com/entertainment-arts/books/story/2019-11-21/music-books-elton-john-flea-prince-allison-moorer-janis-joplin) in [Los Angeles Times](https://www.latimes.com/) on 21 November 2019 about Dan Piepenbring, memoir, merchandise, Michael Jackson, Spiegel & Grau, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/https://www.latimes.com/entertainment-arts/books/story/2019-11-21/music-books-elton-john-flea-prince-allison-moorer-janis-joplin))
 
 ----
 

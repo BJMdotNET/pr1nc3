@@ -68,7 +68,7 @@
 
 ----
 
- - [**"Prince: The Story of 1999 bonus feature: Jellybean Johnson, 'Prince knew we had something special here in Minneapolis'"**](https://www.thecurrent.org/feature/2020/01/02/prince-the-story-of-1999-bonus-feature-jellybean-johnson-the-time-interview) in [The Current](https://www.thecurrent.org/) on 2 January 2020 about 1999 (album), Andrea Swensson, Dez Dickerson, fDeluxe, Jellybean Johnson, Prince: The Story of 1999, The Family, The Revolution, The Time, Vanity, Vanity 6 ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2020/01/02/prince-the-story-of-1999-bonus-feature-jellybean-johnson-the-time-interview))
+ - [**"Prince: The Story of 1999 bonus feature: Jellybean Johnson, 'Prince knew we had something special here in Minneapolis'"**](https://www.thecurrent.org/feature/2020/01/02/prince-the-story-of-1999-bonus-feature-jellybean-johnson-the-time-interview) in [The Current](https://www.thecurrent.org/) on 2 January 2020 about 1999 (album), Andrea Swensson, Dez Dickerson, fDeluxe, Jellybean Johnson, Michael Jackson, Prince: The Story of 1999, The Family, The Revolution, The Time, Vanity, Vanity 6 ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2020/01/02/prince-the-story-of-1999-bonus-feature-jellybean-johnson-the-time-interview))
 
 ----
 
@@ -140,7 +140,7 @@
 
 ----
 
- - [**"To Janet Jackson, Minneapolis will always be her 'home away from home' -- Balancing motherhood and megahits, Janet Jackson talks about her return to Minnesota, where she recorded her breakthrough albums. "**](http://www.startribune.com/to-janet-jackson-minneapolis-will-always-be-her-home-away-from-home/560054982/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 11 September 2019 about Janelle Monae, Janet Jackson, Jimmy Jam, Stevie Nicks, Terry Lewis, The Time ([mirror](https://web.archive.org/web/*/http://www.startribune.com/to-janet-jackson-minneapolis-will-always-be-her-home-away-from-home/560054982/))
+ - [**"To Janet Jackson, Minneapolis will always be her 'home away from home' -- Balancing motherhood and megahits, Janet Jackson talks about her return to Minnesota, where she recorded her breakthrough albums. "**](http://www.startribune.com/to-janet-jackson-minneapolis-will-always-be-her-home-away-from-home/560054982/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 11 September 2019 about Janelle Monae, Janet Jackson, Jimmy Jam, Michael Jackson, Stevie Nicks, Terry Lewis, The Time ([mirror](https://web.archive.org/web/*/http://www.startribune.com/to-janet-jackson-minneapolis-will-always-be-her-home-away-from-home/560054982/))
 
 ----
 
@@ -148,11 +148,11 @@
 
 ----
 
- - [**"Prince Never Acted Before 'Purple Rain.' Then He Became a Household Name -- The movie and album would come to help define the 1980s and catapult the performer to global fame."**](https://www.biography.com/news/prince-purple-rain-album-movie) by Colin Bertram in [Biography](https://www.biography.com/) on 25 July 2019 about Academy Award, Alan Light, Albert Magnoli, Apollonia Kotero, First Avenue (place), I Would Die 4 U (song), Let’s Go Crazy (song), Morris Day, Purple Rain (album), Purple Rain (movie), Purple Rain (song), The Revolution, The Time, Vanity, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.biography.com/news/prince-purple-rain-album-movie))
+ - [**"Prince Never Acted Before 'Purple Rain.' Then He Became a Household Name -- The movie and album would come to help define the 1980s and catapult the performer to global fame."**](https://www.biography.com/news/prince-purple-rain-album-movie) by Colin Bertram in [Biography](https://www.biography.com/) on 25 July 2019 about Academy Award, Alan Light, Albert Magnoli, Apollonia Kotero, First Avenue (place), I Would Die 4 U (song), Let’s Go Crazy (song), Michael Jackson, Morris Day, Purple Rain (album), Purple Rain (movie), Purple Rain (song), The Revolution, The Time, Vanity, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.biography.com/news/prince-purple-rain-album-movie))
 
 ----
 
- - [**"'Purple Rain' 35th anniversary: We dive into the Prince cult classic for the first time"**](https://usatoday.com/story/entertainment/movies/2019/07/25/purple-rain-35th-anniversary-does-prince-cult-film-hold-up/1817029001/) by Brian Truitt, Patrick Ryan in [USA Today](https://usatoday.com/) on 25 July 2019 about Apollonia 6, Apollonia Kotero, Morris Day, Purple Rain (movie), Spotify, The Revolution, The Time ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/entertainment/movies/2019/07/25/purple-rain-35th-anniversary-does-prince-cult-film-hold-up/1817029001/))
+ - [**"'Purple Rain' 35th anniversary: We dive into the Prince cult classic for the first time"**](https://usatoday.com/story/entertainment/movies/2019/07/25/purple-rain-35th-anniversary-does-prince-cult-film-hold-up/1817029001/) by Brian Truitt, Patrick Ryan in [USA Today](https://usatoday.com/) on 25 July 2019 about Apollonia 6, Apollonia Kotero, Michael Jackson, Morris Day, Purple Rain (movie), Spotify, The Revolution, The Time ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/entertainment/movies/2019/07/25/purple-rain-35th-anniversary-does-prince-cult-film-hold-up/1817029001/))
 
 ----
 
@@ -204,11 +204,11 @@
 
 ----
 
- - [**"Remembering when Prince wrote that song for you"**](https://apnews.com/9946e6f68e354265a15047187b217b56) in [Associated Press News](https://apnews.com/) on 4 June 2019 about Apollonia 6, Apollonia Kotero, Bangles, Denise Matthews, Joey Coco, Kenny Rogers, Manic Monday (song), Nile Rodgers, Nothing Compares 2 U (song), Originals (album), Paisley Park Records, Sex Shooter (song), Susanna Hoffs, Susannah Melvoin, The Family, The Glamorous Life (song), The Time, Vanity, Vanity 6, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://apnews.com/9946e6f68e354265a15047187b217b56))
+ - [**"Remembering when Prince wrote that song for you"**](https://apnews.com/9946e6f68e354265a15047187b217b56) in [Associated Press News](https://apnews.com/) on 4 June 2019 about Apollonia 6, Apollonia Kotero, Bangles, Denise Matthews, Joey Coco, Kenny Rogers, Manic Monday (song), Michael Jackson, Nile Rodgers, Nothing Compares 2 U (song), Originals (album), Paisley Park Records, Sex Shooter (song), Susanna Hoffs, Susannah Melvoin, The Family, The Glamorous Life (song), The Time, Vanity, Vanity 6, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://apnews.com/9946e6f68e354265a15047187b217b56))
 
 ----
 
- - [**"Sheila E.’s Debut Album ‘The Glamorous Life’ Turns 35: Anniversary Retrospective -- Happy 35th Anniversary to Sheila E.’s debut album The Glamorous Life, originally released June 4, 1984."**](https://www.albumism.com/features/sheila-e-debut-album-the-glamorous-life-turns-35-anniversary-retrospective) by Andy Healy in [Albumism](https://www.albumism.com/) on 2 June 2019 about Condition of the Heart (song), Erotic City (song), Jesse Johnson, Let’s Go Crazy (song), Next Time Wipe The Lipstick Off Your Collar (song), Noon Rendezvous (song), Oliver’s House (song), Sheila E., Shortberry Strawcake (song), The Belle of St. Mark (song), The Glamorous Life (album), The Glamorous Life (song), The Starr Company, The Time ([mirror](https://web.archive.org/web/*/https://www.albumism.com/features/sheila-e-debut-album-the-glamorous-life-turns-35-anniversary-retrospective))
+ - [**"Sheila E.’s Debut Album ‘The Glamorous Life’ Turns 35: Anniversary Retrospective -- Happy 35th Anniversary to Sheila E.’s debut album The Glamorous Life, originally released June 4, 1984."**](https://www.albumism.com/features/sheila-e-debut-album-the-glamorous-life-turns-35-anniversary-retrospective) by Andy Healy in [Albumism](https://www.albumism.com/) on 2 June 2019 about Condition of the Heart (song), Erotic City (song), Jesse Johnson, Let’s Go Crazy (song), Michael Jackson, Next Time Wipe The Lipstick Off Your Collar (song), Noon Rendezvous (song), Oliver’s House (song), Sheila E., Shortberry Strawcake (song), The Belle of St. Mark (song), The Glamorous Life (album), The Glamorous Life (song), The Starr Company, The Time ([mirror](https://web.archive.org/web/*/https://www.albumism.com/features/sheila-e-debut-album-the-glamorous-life-turns-35-anniversary-retrospective))
 
 ----
 

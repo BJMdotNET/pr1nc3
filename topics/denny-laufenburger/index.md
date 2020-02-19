@@ -12,7 +12,7 @@
 
 ----
 
- - [**"Could Paisley Park become a Prince museum? Maybe not"**](https://usatoday.com/story/life/music/2016/04/29/could-paisley-park-become-prince-museum-maybe-not/83651588/) in [USA Today](https://usatoday.com/) on 1 May 2016 about Denny Laufenburger, Graceland, museum, Robert Strauss, Sheila E., Tyka Nelson ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2016/04/29/could-paisley-park-become-prince-museum-maybe-not/83651588/))
+ - [**"Could Paisley Park become a Prince museum? Maybe not"**](https://usatoday.com/story/life/music/2016/04/29/could-paisley-park-become-prince-museum-maybe-not/83651588/) in [USA Today](https://usatoday.com/) on 1 May 2016 about Denny Laufenburger, Graceland, Michael Jackson, museum, Robert Strauss, Sheila E., Tyka Nelson ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2016/04/29/could-paisley-park-become-prince-museum-maybe-not/83651588/))
 
 ----
 

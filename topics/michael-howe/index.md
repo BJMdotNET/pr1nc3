@@ -1,6 +1,6 @@
 # Michael Howe
 
- - [**"Prince: The Story of 1999, Episode 4: Let's Work"**](https://www.thecurrent.org/feature/2019/12/10/prince-the-story-of-1999-episode-4-lets-work-swensson) in [The Current](https://www.thecurrent.org/) on 10 December 2019 about 1999 (album), 1999 Super Deluxe (album), Alabama Shakes, Andrea Swensson, Brittany Howard, Dez Dickerson, Essence Fest, Fred Armisen, How Come U Don't Call Me Anymore (song), I Wanna Be Your Lover (song), Jellybean Johnson, LeRoy Bennett, Lisa Coleman, Little Red Corvette (song), Matt Fink, Maya Rudolph, Michael Howe, Nile Rodgers, Parade (album), Prince Estate, Prince: The Story of 1999, Saturday Night Live (TV show), Spotify, Super Bowl, The Prince Estate, The Revolution, Vanity, Vanity 6, vault ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/12/10/prince-the-story-of-1999-episode-4-lets-work-swensson))
+ - [**"Prince: The Story of 1999, Episode 4: Let's Work"**](https://www.thecurrent.org/feature/2019/12/10/prince-the-story-of-1999-episode-4-lets-work-swensson) in [The Current](https://www.thecurrent.org/) on 10 December 2019 about 1999 (album), 1999 Super Deluxe (album), Alabama Shakes, Andrea Swensson, Brittany Howard, Dez Dickerson, Essence Fest, Fred Armisen, How Come U Don't Call Me Anymore (song), I Wanna Be Your Lover (song), Jellybean Johnson, LeRoy Bennett, Lisa Coleman, Little Red Corvette (song), Matt Fink, Maya Rudolph, Michael Howe, Michael Jackson, Nile Rodgers, Parade (album), Prince Estate, Prince: The Story of 1999, Saturday Night Live (TV show), Spotify, Super Bowl, The Prince Estate, The Revolution, Vanity, Vanity 6, vault ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/12/10/prince-the-story-of-1999-episode-4-lets-work-swensson))
 
 ----
 
@@ -12,7 +12,7 @@
 
 ----
 
- - [**"Prince’s ‘1999’: How the Artist Leveled Up on His Breakthrough LP -- With the release of a new box set devoted to the album and its era, Prince’s guitarist Dez Dickerson and engineer Peggy McCreary look back on the Purple One’s revolutionary genius"**](https://www.rollingstone.com/music/music-features/prince-1999-interview-915663/) in [Rolling Stone](https://www.rollingstone.com/) on 2 December 2019 about 1999 (album), 94 East, Bold Generation (song), Dez Dickerson, Do Yourself a Favor (song), How Come U Don’t Call Me Anymore? (song), I Wanna Be Your Lover (song), James Brown, Jill Jones, Little Red Corvette (song), Michael Howe, motorcycle, New Power Generation (song), Peggy McCreary, Pop Life (song), Prince Estate, Quincy Jones, Susan Rogers, The Revolution, trademark, Vanity, Vanity 6, vault ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/prince-1999-interview-915663/))
+ - [**"Prince’s ‘1999’: How the Artist Leveled Up on His Breakthrough LP -- With the release of a new box set devoted to the album and its era, Prince’s guitarist Dez Dickerson and engineer Peggy McCreary look back on the Purple One’s revolutionary genius"**](https://www.rollingstone.com/music/music-features/prince-1999-interview-915663/) in [Rolling Stone](https://www.rollingstone.com/) on 2 December 2019 about 1999 (album), 94 East, Bold Generation (song), Dez Dickerson, Do Yourself a Favor (song), How Come U Don’t Call Me Anymore? (song), I Wanna Be Your Lover (song), James Brown, Jill Jones, Little Red Corvette (song), Michael Howe, Michael Jackson, motorcycle, New Power Generation (song), Peggy McCreary, Pop Life (song), Prince Estate, Quincy Jones, Susan Rogers, The Revolution, trademark, Vanity, Vanity 6, vault ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/prince-1999-interview-915663/))
 
 ----
 
@@ -100,7 +100,7 @@
 
 ----
 
- - [**"10 deep nuggets of info we learned at the playback of Prince’s new album, ‘Originals’"**](https://www.nme.com/blogs/11-things-we-learned-at-playback-new-prince-album-2506506) in [NME (New Musical Express)](https://www.nme.com/) on 10 June 2019 about Bangles, Jill Jones, Michael Howe, Morris Day, Originals (album), Peggy McCreary, The Revolution, Troy Carter, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://www.nme.com/blogs/11-things-we-learned-at-playback-new-prince-album-2506506))
+ - [**"10 deep nuggets of info we learned at the playback of Prince’s new album, ‘Originals’"**](https://www.nme.com/blogs/11-things-we-learned-at-playback-new-prince-album-2506506) in [NME (New Musical Express)](https://www.nme.com/) on 10 June 2019 about Bangles, Jill Jones, Michael Howe, Michael Jackson, Morris Day, Originals (album), Peggy McCreary, The Revolution, Troy Carter, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://www.nme.com/blogs/11-things-we-learned-at-playback-new-prince-album-2506506))
 
 ----
 

@@ -36,7 +36,7 @@
 
 ----
 
- - [**"Michael Jackson’s glove, Nirvana’s MTV moon man up for bid"**](https://apnews.com/2ce5075522554dca83f0b6b384c122eb) in [Associated Press News](https://apnews.com/) on 13 October 2017 about auction ([mirror](https://web.archive.org/web/*/https://apnews.com/2ce5075522554dca83f0b6b384c122eb))
+ - [**"Michael Jackson’s glove, Nirvana’s MTV moon man up for bid"**](https://apnews.com/2ce5075522554dca83f0b6b384c122eb) in [Associated Press News](https://apnews.com/) on 13 October 2017 about auction, Michael Jackson ([mirror](https://web.archive.org/web/*/https://apnews.com/2ce5075522554dca83f0b6b384c122eb))
 
 ----
 
@@ -80,15 +80,15 @@
 
 ----
 
- - [**"Putting a price on Prince collectibles: Don't be fooled by rip-offs -- The musician's sudden death boosts demand for related memorabilia. But be wary of rip-offs."**](http://www.startribune.com/putting-a-price-on-prince/379398971/) by Kim Palmer in [Minneapolis Star Tribune](http://www.startribune.com/) on 13 May 2016 about auction ([mirror](https://web.archive.org/web/*/http://www.startribune.com/putting-a-price-on-prince/379398971/))
+ - [**"Putting a price on Prince collectibles: Don't be fooled by rip-offs -- The musician's sudden death boosts demand for related memorabilia. But be wary of rip-offs."**](http://www.startribune.com/putting-a-price-on-prince/379398971/) by Kim Palmer in [Minneapolis Star Tribune](http://www.startribune.com/) on 13 May 2016 about auction, Michael Jackson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/putting-a-price-on-prince/379398971/))
 
 ----
 
- - [**"AP Exclusive: Prince’s ‘Purple Rain’ coat is up for auction"**](https://apnews.com/8110dcbaa6714d75a12db043ff989975) in [Associated Press News](https://apnews.com/) on 29 April 2016 about Apollonia Kotero, auction, Katy Perry, motorcycle ([mirror](https://web.archive.org/web/*/https://apnews.com/8110dcbaa6714d75a12db043ff989975))
+ - [**"AP Exclusive: Prince’s ‘Purple Rain’ coat is up for auction"**](https://apnews.com/8110dcbaa6714d75a12db043ff989975) in [Associated Press News](https://apnews.com/) on 29 April 2016 about Apollonia Kotero, auction, Katy Perry, Michael Jackson, motorcycle ([mirror](https://web.archive.org/web/*/https://apnews.com/8110dcbaa6714d75a12db043ff989975))
 
 ----
 
- - [**"Prince's 'Purple Rain' coat is up for auction"**](http://www.startribune.com/ap-exclusive-prince-s-purple-rain-coat-is-up-for-auction/377542161/) by Nicole Evatt (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 29 April 2016 about Apollonia Kotero, auction, Katy Perry, motorcycle ([mirror](https://web.archive.org/web/*/http://www.startribune.com/ap-exclusive-prince-s-purple-rain-coat-is-up-for-auction/377542161/))
+ - [**"Prince's 'Purple Rain' coat is up for auction"**](http://www.startribune.com/ap-exclusive-prince-s-purple-rain-coat-is-up-for-auction/377542161/) by Nicole Evatt (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 29 April 2016 about Apollonia Kotero, auction, Katy Perry, Michael Jackson, motorcycle ([mirror](https://web.archive.org/web/*/http://www.startribune.com/ap-exclusive-prince-s-purple-rain-coat-is-up-for-auction/377542161/))
 
 ----
 

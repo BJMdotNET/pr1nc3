@@ -8,7 +8,7 @@
 
 ----
 
- - [**"AVEC "1999", PRINCE SE HISSE AU SOMMET DE SON ART -- Avec la réédition deluxe de 1999 de Prince, Warner Music nous donne l’occasion de revenir aux racines d’un album qui marque la période la plus créative du Kid de Minneapolis."**](http://www.magicrpm.com/1999-prince-au-sommet-de-son-art/) in [www.magicrpm.com](http://www.magicrpm.com/) on 3 December 2019 about 1999 (album), Bold Generation (song), Colleen (song), Feel U Up (song), Irresistible Bitch (song), Lake Minnetonka (place), Little Red Corvette (song), New Power Generation (song), Peggy McCreary, Purple Music (song), Quincy Jones, Raspberry Beret (song), Rearrange (song), Roger Linn, Sunset Sound (place), Vanity, Vanity 6 ([mirror](https://web.archive.org/web/*/http://www.magicrpm.com/1999-prince-au-sommet-de-son-art/))
+ - [**"AVEC "1999", PRINCE SE HISSE AU SOMMET DE SON ART -- Avec la réédition deluxe de 1999 de Prince, Warner Music nous donne l’occasion de revenir aux racines d’un album qui marque la période la plus créative du Kid de Minneapolis."**](http://www.magicrpm.com/1999-prince-au-sommet-de-son-art/) in [www.magicrpm.com](http://www.magicrpm.com/) on 3 December 2019 about 1999 (album), Bold Generation (song), Colleen (song), Feel U Up (song), Irresistible Bitch (song), Lake Minnetonka (place), Little Red Corvette (song), Michael Jackson, New Power Generation (song), Peggy McCreary, Purple Music (song), Quincy Jones, Raspberry Beret (song), Rearrange (song), Roger Linn, Sunset Sound (place), Vanity, Vanity 6 ([mirror](https://web.archive.org/web/*/http://www.magicrpm.com/1999-prince-au-sommet-de-son-art/))
 
 ----
 
@@ -16,7 +16,7 @@
 
 ----
 
- - [**"Prince’s ‘1999’: How the Artist Leveled Up on His Breakthrough LP -- With the release of a new box set devoted to the album and its era, Prince’s guitarist Dez Dickerson and engineer Peggy McCreary look back on the Purple One’s revolutionary genius"**](https://www.rollingstone.com/music/music-features/prince-1999-interview-915663/) in [Rolling Stone](https://www.rollingstone.com/) on 2 December 2019 about 1999 (album), 94 East, Bold Generation (song), Dez Dickerson, Do Yourself a Favor (song), How Come U Don’t Call Me Anymore? (song), I Wanna Be Your Lover (song), James Brown, Jill Jones, Little Red Corvette (song), Michael Howe, motorcycle, New Power Generation (song), Peggy McCreary, Pop Life (song), Prince Estate, Quincy Jones, Susan Rogers, The Revolution, trademark, Vanity, Vanity 6, vault ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/prince-1999-interview-915663/))
+ - [**"Prince’s ‘1999’: How the Artist Leveled Up on His Breakthrough LP -- With the release of a new box set devoted to the album and its era, Prince’s guitarist Dez Dickerson and engineer Peggy McCreary look back on the Purple One’s revolutionary genius"**](https://www.rollingstone.com/music/music-features/prince-1999-interview-915663/) in [Rolling Stone](https://www.rollingstone.com/) on 2 December 2019 about 1999 (album), 94 East, Bold Generation (song), Dez Dickerson, Do Yourself a Favor (song), How Come U Don’t Call Me Anymore? (song), I Wanna Be Your Lover (song), James Brown, Jill Jones, Little Red Corvette (song), Michael Howe, Michael Jackson, motorcycle, New Power Generation (song), Peggy McCreary, Pop Life (song), Prince Estate, Quincy Jones, Susan Rogers, The Revolution, trademark, Vanity, Vanity 6, vault ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/prince-1999-interview-915663/))
 
 ----
 

@@ -28,7 +28,7 @@
 
 ----
 
- - [**"Court filings suggest Prince’s estate is worth $200 million"**](https://apnews.com/9d1e0cc17bf64d46845040a1e6ce0c75) in [Associated Press News](https://apnews.com/) on 30 November 2016 about Bremer Trust ([mirror](https://web.archive.org/web/*/https://apnews.com/9d1e0cc17bf64d46845040a1e6ce0c75))
+ - [**"Court filings suggest Prince’s estate is worth $200 million"**](https://apnews.com/9d1e0cc17bf64d46845040a1e6ce0c75) in [Associated Press News](https://apnews.com/) on 30 November 2016 about Bremer Trust, Michael Jackson ([mirror](https://web.archive.org/web/*/https://apnews.com/9d1e0cc17bf64d46845040a1e6ce0c75))
 
 ----
 
@@ -36,7 +36,7 @@
 
 ----
 
- - [**"Drake, Bieber win big, Selena Gomez gets emotional at AMAs"**](https://apnews.com/d90b510be7564038ab7ceed50f3bd1ba) in [Associated Press News](https://apnews.com/) on 21 November 2016 about Apple Music, Donald Trump, Obama, Trump, Tyka Nelson ([mirror](https://web.archive.org/web/*/https://apnews.com/d90b510be7564038ab7ceed50f3bd1ba))
+ - [**"Drake, Bieber win big, Selena Gomez gets emotional at AMAs"**](https://apnews.com/d90b510be7564038ab7ceed50f3bd1ba) in [Associated Press News](https://apnews.com/) on 21 November 2016 about Apple Music, Donald Trump, Michael Jackson, Obama, Trump, Tyka Nelson ([mirror](https://web.archive.org/web/*/https://apnews.com/d90b510be7564038ab7ceed50f3bd1ba))
 
 ----
 
@@ -234,11 +234,11 @@
 
 ----
 
- - [**"A Prince wish, Paisley Park eyed for museum like Graceland"**](https://apnews.com/e126f8cb38574b21b3cf0f5dd0843873) in [Associated Press News](https://apnews.com/) on 10 June 2016 about Bremer Trust, Carver County, exhibit, exhibition, fentanyl, Graceland, Jeremiah Freed, motorcycle, museum ([mirror](https://web.archive.org/web/*/https://apnews.com/e126f8cb38574b21b3cf0f5dd0843873))
+ - [**"A Prince wish, Paisley Park eyed for museum like Graceland"**](https://apnews.com/e126f8cb38574b21b3cf0f5dd0843873) in [Associated Press News](https://apnews.com/) on 10 June 2016 about Bremer Trust, Carver County, exhibit, exhibition, fentanyl, Graceland, Jeremiah Freed, Michael Jackson, motorcycle, museum ([mirror](https://web.archive.org/web/*/https://apnews.com/e126f8cb38574b21b3cf0f5dd0843873))
 
 ----
 
- - [**"Spike Lee throws dance party ahead of Prince’s 58th birthday"**](https://apnews.com/780ae6981b534a27be2f65bf10470f6e) in [Associated Press News](https://apnews.com/) on 5 June 2016 about Celebration, Erotic City (song), fentanyl, Spike Lee, Starfish And Coffee (song), When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://apnews.com/780ae6981b534a27be2f65bf10470f6e))
+ - [**"Spike Lee throws dance party ahead of Prince’s 58th birthday"**](https://apnews.com/780ae6981b534a27be2f65bf10470f6e) in [Associated Press News](https://apnews.com/) on 5 June 2016 about Celebration, Erotic City (song), fentanyl, Michael Jackson, Spike Lee, Starfish And Coffee (song), When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://apnews.com/780ae6981b534a27be2f65bf10470f6e))
 
 ----
 
@@ -250,7 +250,7 @@
 
 ----
 
- - [**"Prince joins a list of stars dead from drug overdoses"**](https://apnews.com/953c320120ba4054bc682ff06dceba99) in [Associated Press News](https://apnews.com/) on 3 June 2016 about fentanyl, oxycodone ([mirror](https://web.archive.org/web/*/https://apnews.com/953c320120ba4054bc682ff06dceba99))
+ - [**"Prince joins a list of stars dead from drug overdoses"**](https://apnews.com/953c320120ba4054bc682ff06dceba99) in [Associated Press News](https://apnews.com/) on 3 June 2016 about fentanyl, Michael Jackson, oxycodone ([mirror](https://web.archive.org/web/*/https://apnews.com/953c320120ba4054bc682ff06dceba99))
 
 ----
 
@@ -288,7 +288,7 @@
 
 ----
 
- - [**"Colorado inmate claims Prince is his father, seeks DNA test"**](https://apnews.com/13fdcc29391d427bab6b4b5584316da8) by Steve Karnowski (Associated Press) in [Associated Press News](https://apnews.com/) on 10 May 2016 about Carlin Q. Williams, Carver County, Carver County District Court, Marsha Henson, Patrick Cousins, Tyka Nelson ([mirror](https://web.archive.org/web/*/https://apnews.com/13fdcc29391d427bab6b4b5584316da8))
+ - [**"Colorado inmate claims Prince is his father, seeks DNA test"**](https://apnews.com/13fdcc29391d427bab6b4b5584316da8) by Steve Karnowski (Associated Press) in [Associated Press News](https://apnews.com/) on 10 May 2016 about Carlin Q. Williams, Carver County, Carver County District Court, Marsha Henson, Michael Jackson, Patrick Cousins, Tyka Nelson ([mirror](https://web.archive.org/web/*/https://apnews.com/13fdcc29391d427bab6b4b5584316da8))
 
 ----
 
@@ -330,19 +330,19 @@
 
 ## April 2016 (27)
 
- - [**"AP Exclusive: Prince’s ‘Purple Rain’ coat is up for auction"**](https://apnews.com/8110dcbaa6714d75a12db043ff989975) in [Associated Press News](https://apnews.com/) on 29 April 2016 about Apollonia Kotero, auction, Katy Perry, motorcycle ([mirror](https://web.archive.org/web/*/https://apnews.com/8110dcbaa6714d75a12db043ff989975))
+ - [**"AP Exclusive: Prince’s ‘Purple Rain’ coat is up for auction"**](https://apnews.com/8110dcbaa6714d75a12db043ff989975) in [Associated Press News](https://apnews.com/) on 29 April 2016 about Apollonia Kotero, auction, Katy Perry, Michael Jackson, motorcycle ([mirror](https://web.archive.org/web/*/https://apnews.com/8110dcbaa6714d75a12db043ff989975))
 
 ----
 
- - [**"APNewsBreak: Investigators look at overdose in Prince death"**](https://apnews.com/744a34089a8241df95a836b358741ace) in [Associated Press News](https://apnews.com/) on 29 April 2016 about Atlanta (place), Carver County, Illinois (place), Sheila E. ([mirror](https://web.archive.org/web/*/https://apnews.com/744a34089a8241df95a836b358741ace))
+ - [**"APNewsBreak: Investigators look at overdose in Prince death"**](https://apnews.com/744a34089a8241df95a836b358741ace) in [Associated Press News](https://apnews.com/) on 29 April 2016 about Atlanta (place), Carver County, Illinois (place), Michael Jackson, Sheila E. ([mirror](https://web.archive.org/web/*/https://apnews.com/744a34089a8241df95a836b358741ace))
 
 ----
 
- - [**"Fans’ Holy Grail: unreleased songs in Prince’s vault"**](https://apnews.com/73b9ba74daa4423bb36ac62d4655a71b) in [Associated Press News](https://apnews.com/) on 29 April 2016 about Bangles, Bremer Trust, Miles Davis, Spotify, Tyka Nelson, vault ([mirror](https://web.archive.org/web/*/https://apnews.com/73b9ba74daa4423bb36ac62d4655a71b))
+ - [**"Fans’ Holy Grail: unreleased songs in Prince’s vault"**](https://apnews.com/73b9ba74daa4423bb36ac62d4655a71b) in [Associated Press News](https://apnews.com/) on 29 April 2016 about Bangles, Bremer Trust, Michael Jackson, Miles Davis, Spotify, Tyka Nelson, vault ([mirror](https://web.archive.org/web/*/https://apnews.com/73b9ba74daa4423bb36ac62d4655a71b))
 
 ----
 
- - [**"Prince death investigation focuses on flight, drugs, doctor"**](https://apnews.com/175b0bd7f6f641b1b9b90b268bb3375e) in [Associated Press News](https://apnews.com/) on 29 April 2016 about Atlanta (place), Carver County, Illinois (place), Moline, Illinois (place), Sheila E. ([mirror](https://web.archive.org/web/*/https://apnews.com/175b0bd7f6f641b1b9b90b268bb3375e))
+ - [**"Prince death investigation focuses on flight, drugs, doctor"**](https://apnews.com/175b0bd7f6f641b1b9b90b268bb3375e) in [Associated Press News](https://apnews.com/) on 29 April 2016 about Atlanta (place), Carver County, Illinois (place), Michael Jackson, Moline, Illinois (place), Sheila E. ([mirror](https://web.archive.org/web/*/https://apnews.com/175b0bd7f6f641b1b9b90b268bb3375e))
 
 ----
 
@@ -350,7 +350,7 @@
 
 ----
 
- - [**"Prince’s estate to be temporarily managed by trust company"**](https://apnews.com/606153a12f3041b8b76186c824538183) in [Associated Press News](https://apnews.com/) on 28 April 2016 about Bremer Trust, Kevin Eide, Omarr Baker, Tyka Nelson ([mirror](https://web.archive.org/web/*/https://apnews.com/606153a12f3041b8b76186c824538183))
+ - [**"Prince’s estate to be temporarily managed by trust company"**](https://apnews.com/606153a12f3041b8b76186c824538183) in [Associated Press News](https://apnews.com/) on 28 April 2016 about Bremer Trust, Kevin Eide, Michael Jackson, Omarr Baker, Tyka Nelson ([mirror](https://web.archive.org/web/*/https://apnews.com/606153a12f3041b8b76186c824538183))
 
 ----
 
@@ -358,11 +358,11 @@
 
 ----
 
- - [**"Prince’s sister says musician had no known will"**](https://apnews.com/b7bcc90e42904f679c07158bf5e851a3) in [Associated Press News](https://apnews.com/) on 27 April 2016 about Bremer Trust, Carver County, First Avenue (place), Tyka Nelson, University of Minnesota ([mirror](https://web.archive.org/web/*/https://apnews.com/b7bcc90e42904f679c07158bf5e851a3))
+ - [**"Prince’s sister says musician had no known will"**](https://apnews.com/b7bcc90e42904f679c07158bf5e851a3) in [Associated Press News](https://apnews.com/) on 27 April 2016 about Bremer Trust, Carver County, First Avenue (place), Michael Jackson, Tyka Nelson, University of Minnesota ([mirror](https://web.archive.org/web/*/https://apnews.com/b7bcc90e42904f679c07158bf5e851a3))
 
 ----
 
- - [**"Prince’s lawyer: Death a shock; singer led clean lifestyle"**](https://apnews.com/18fe9c0f0a124d55a91156e8c1865ab6) by Nekesa Mumbi Moody (Associated Press) in [Associated Press News](https://apnews.com/) on 26 April 2016 about Illinois (place), Moline, Illinois (place), Warner Bros. Records ([mirror](https://web.archive.org/web/*/https://apnews.com/18fe9c0f0a124d55a91156e8c1865ab6))
+ - [**"Prince’s lawyer: Death a shock; singer led clean lifestyle"**](https://apnews.com/18fe9c0f0a124d55a91156e8c1865ab6) by Nekesa Mumbi Moody (Associated Press) in [Associated Press News](https://apnews.com/) on 26 April 2016 about Illinois (place), Michael Jackson, Moline, Illinois (place), Warner Bros. Records ([mirror](https://web.archive.org/web/*/https://apnews.com/18fe9c0f0a124d55a91156e8c1865ab6))
 
 ----
 
@@ -414,7 +414,7 @@
 
 ----
 
- - [**"Oprah, Mick Jagger among celebs to react to Prince’s death"**](https://apnews.com/ad3076cbbe69473495debc13e52669c5) in [Associated Press News](https://apnews.com/) on 22 April 2016 about Albert Magnoli, Grammy Award, Judith Hill, Lisa Coleman, Obama, Rita Ora, Spike Lee, Super Bowl, The Revolution, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://apnews.com/ad3076cbbe69473495debc13e52669c5))
+ - [**"Oprah, Mick Jagger among celebs to react to Prince’s death"**](https://apnews.com/ad3076cbbe69473495debc13e52669c5) in [Associated Press News](https://apnews.com/) on 22 April 2016 about Albert Magnoli, Grammy Award, Judith Hill, Lisa Coleman, Michael Jackson, Obama, Rita Ora, Spike Lee, Super Bowl, The Revolution, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://apnews.com/ad3076cbbe69473495debc13e52669c5))
 
 ----
 

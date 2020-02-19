@@ -8,11 +8,11 @@
 
 ----
 
- - [**"Prince’s Memoir Isn’t Really Prince’s Memoir -- That doesn’t mean it’s not worth reading."**](https://slate.com/culture/2019/10/prince-memoir-book-review-the-beautiful-ones.html) in [slate.com](https://slate.com/) on 30 October 2019 about Bremer Trust, contract, Dan Piepenbring, John Nelson, memoir, Spiegel & Grau, The Beautiful Ones (book), Thieves in the Temple (song), When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://slate.com/culture/2019/10/prince-memoir-book-review-the-beautiful-ones.html))
+ - [**"Prince’s Memoir Isn’t Really Prince’s Memoir -- That doesn’t mean it’s not worth reading."**](https://slate.com/culture/2019/10/prince-memoir-book-review-the-beautiful-ones.html) in [slate.com](https://slate.com/) on 30 October 2019 about Bremer Trust, contract, Dan Piepenbring, John Nelson, memoir, Michael Jackson, Spiegel & Grau, The Beautiful Ones (book), Thieves in the Temple (song), When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://slate.com/culture/2019/10/prince-memoir-book-review-the-beautiful-ones.html))
 
 ----
 
- - [**"What made Prince such a formidable talent? And what exactly can we expect from his memoir, out this month?"**](https://www.gqindia.com/magazine-story/made-prince-formidable-talent-exactly-can-expect-memoir-month/) in [GQ India](https://www.gqindia.com/) on 15 October 2019 about memoir, The Beautiful Ones (book), Thieves in the Temple (song), vault, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.gqindia.com/magazine-story/made-prince-formidable-talent-exactly-can-expect-memoir-month/))
+ - [**"What made Prince such a formidable talent? And what exactly can we expect from his memoir, out this month?"**](https://www.gqindia.com/magazine-story/made-prince-formidable-talent-exactly-can-expect-memoir-month/) in [GQ India](https://www.gqindia.com/) on 15 October 2019 about memoir, Michael Jackson, The Beautiful Ones (book), Thieves in the Temple (song), vault, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.gqindia.com/magazine-story/made-prince-formidable-talent-exactly-can-expect-memoir-month/))
 
 ----
 

@@ -32,7 +32,7 @@
 
 ----
 
- - [**"Remembering when Prince wrote that song for you"**](https://apnews.com/9946e6f68e354265a15047187b217b56) in [Associated Press News](https://apnews.com/) on 4 June 2019 about Apollonia 6, Apollonia Kotero, Bangles, Denise Matthews, Joey Coco, Kenny Rogers, Manic Monday (song), Nile Rodgers, Nothing Compares 2 U (song), Originals (album), Paisley Park Records, Sex Shooter (song), Susanna Hoffs, Susannah Melvoin, The Family, The Glamorous Life (song), The Time, Vanity, Vanity 6, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://apnews.com/9946e6f68e354265a15047187b217b56))
+ - [**"Remembering when Prince wrote that song for you"**](https://apnews.com/9946e6f68e354265a15047187b217b56) in [Associated Press News](https://apnews.com/) on 4 June 2019 about Apollonia 6, Apollonia Kotero, Bangles, Denise Matthews, Joey Coco, Kenny Rogers, Manic Monday (song), Michael Jackson, Nile Rodgers, Nothing Compares 2 U (song), Originals (album), Paisley Park Records, Sex Shooter (song), Susanna Hoffs, Susannah Melvoin, The Family, The Glamorous Life (song), The Time, Vanity, Vanity 6, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://apnews.com/9946e6f68e354265a15047187b217b56))
 
 ----
 
@@ -64,7 +64,7 @@
 
 ----
 
- - [**"David Foster Edges Cyndi Lauper, Tina Turner and Prince With BC-Grammys-List"**](https://apnews.com/78bd652204e400aeb604e68f1e12f43b) in [Associated Press News](https://apnews.com/) on 10 January 1985 about Chaka Khan, Kenny Rogers, Sheila E., Stevie Wonder, The Revolution ([mirror](https://web.archive.org/web/*/https://apnews.com/78bd652204e400aeb604e68f1e12f43b))
+ - [**"David Foster Edges Cyndi Lauper, Tina Turner and Prince With BC-Grammys-List"**](https://apnews.com/78bd652204e400aeb604e68f1e12f43b) in [Associated Press News](https://apnews.com/) on 10 January 1985 about Chaka Khan, Kenny Rogers, Michael Jackson, Sheila E., Stevie Wonder, The Revolution ([mirror](https://web.archive.org/web/*/https://apnews.com/78bd652204e400aeb604e68f1e12f43b))
 
 ----
 

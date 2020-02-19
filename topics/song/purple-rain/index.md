@@ -1,6 +1,18 @@
 # Purple Rain (song)
 
- - [**"10 Best Super Bowl Halftime Shows"**](https://www.billboard.com/articles/list/513793/super-bowl-halftime-shows-10-best) in [Billboard](https://www.billboard.com/) on 31 January 2020 about Beck, Beyoncé, Bruce Springsteen, CeeLo Green, Coldplay, Janet Jackson, Justin Timberlake, Madonna, Purple Rain (song), Super Bowl ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/list/513793/super-bowl-halftime-shows-10-best))
+ - [**"Paisley Park concert series kicks off with Ndegeocello reimagining Prince"**](http://www.startribune.com/paisley-park-concert-series-kicks-off-with-ndegeocello-reimagining-prince/567927442/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 16 February 2020 about Alan Seiffert, Lizzo, Meshell Ndegeocello, museum, Pop Life (song), Purple Rain (song), Sometimes It Snows In April (song), When Doves Cry (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-concert-series-kicks-off-with-ndegeocello-reimagining-prince/567927442/))
+
+----
+
+ - [**"Sports Gumbo Recipe #8: Prince and Pelicans and Protest Bowls"**](https://www.myneworleans.com/sports-gumbo-recipe-8-prince-and-pelicans-and-protest-bowls/) in [www.myneworleans.com](https://www.myneworleans.com/) on 3 February 2020 about Purple Rain (song), Super Bowl, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/https://www.myneworleans.com/sports-gumbo-recipe-8-prince-and-pelicans-and-protest-bowls/))
+
+----
+
+ - [**"10 Best Super Bowl Halftime Shows"**](https://www.billboard.com/articles/list/513793/super-bowl-halftime-shows-10-best) in [Billboard](https://www.billboard.com/) on 31 January 2020 about Beck, Beyoncé, Bruce Springsteen, CeeLo Green, Coldplay, Janet Jackson, Justin Timberlake, Madonna, Michael Jackson, Purple Rain (song), Super Bowl, We Are the World (song) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/list/513793/super-bowl-halftime-shows-10-best))
+
+----
+
+ - [**"IS PRINCE THE INTERNET’S FAVOURITE GUITARIST? -- Google recognises the most-searched athletes, musicians, activists and artists in celebration of Black History Month."**](https://guitar.com/news/music-news/google-black-history-month-prince-most-searched-guitar-solo/) in [guitar.com](https://guitar.com/) on 31 January 2020 about Celebration, Cloud guitar, Purple Rain (song) ([mirror](https://web.archive.org/web/*/https://guitar.com/news/music-news/google-black-history-month-prince-most-searched-guitar-solo/))
 
 ----
 
@@ -28,11 +40,11 @@
 
 ----
 
- - [**"Pure Magic: The Oral History of Prince’s Super Bowl XLI Halftime Show -- As the heavens opened up and rain poured down, the Purple One ran through a handful of covers and some of his own songs, delivering an iconic set on the biggest stage possible and only expanding his legend"**](https://www.theringer.com/music/2020/1/29/21112539/prince-halftime-show-oral-history-super-bowl-xli) in [www.theringer.com](https://www.theringer.com/) on 29 January 2020 about 1999 (song), airport, Baby I’m a Star (song), contract, Dan Piepenbring, Darling Nikki (song), Foo Fighters, Janet Jackson, Justin Timberlake, Little Red Corvette (song), memoir, Morris Hayes, Purple Rain (song), Raspberry Beret (song), Shelby J., Super Bowl, Super Bowl XLI (event) ([mirror](https://web.archive.org/web/*/https://www.theringer.com/music/2020/1/29/21112539/prince-halftime-show-oral-history-super-bowl-xli))
+ - [**"Pure Magic: The Oral History of Prince’s Super Bowl XLI Halftime Show -- As the heavens opened up and rain poured down, the Purple One ran through a handful of covers and some of his own songs, delivering an iconic set on the biggest stage possible and only expanding his legend"**](https://www.theringer.com/music/2020/1/29/21112539/prince-halftime-show-oral-history-super-bowl-xli) in [www.theringer.com](https://www.theringer.com/) on 29 January 2020 about 1999 (song), airport, Baby I’m a Star (song), contract, Dan Piepenbring, Darling Nikki (song), Foo Fighters, Janet Jackson, Justin Timberlake, Little Red Corvette (song), memoir, Michael Jackson, Morris Hayes, Purple Rain (song), Raspberry Beret (song), Shelby J., Super Bowl, Super Bowl XLI (event) ([mirror](https://web.archive.org/web/*/https://www.theringer.com/music/2020/1/29/21112539/prince-halftime-show-oral-history-super-bowl-xli))
 
 ----
 
- - [**"True Tales of Prince From Susan Rogers, His 1980’s Audio Engineer -- HEARD ON ANN DELISI'S ESSENTIAL CONVERSATIONS PODCAST"**](https://wdet.org/posts/2020/01/29/89147-true-tales-of-prince-from-susan-rogers-his-1980s-audio-engineer/) in [wdet.org](https://wdet.org/) on 29 January 2020 about Bruce Springsteen, Computer Blue (song), Jill Jones, Madonna, Purple Rain (song), Susan Rogers, The Beautiful Ones (song), Vanity, Vanity 6, vault ([mirror](https://web.archive.org/web/*/https://wdet.org/posts/2020/01/29/89147-true-tales-of-prince-from-susan-rogers-his-1980s-audio-engineer/))
+ - [**"True Tales of Prince From Susan Rogers, His 1980’s Audio Engineer -- HEARD ON ANN DELISI'S ESSENTIAL CONVERSATIONS PODCAST"**](https://wdet.org/posts/2020/01/29/89147-true-tales-of-prince-from-susan-rogers-his-1980s-audio-engineer/) in [wdet.org](https://wdet.org/) on 29 January 2020 about Bruce Springsteen, Computer Blue (song), Jill Jones, Madonna, Michael Jackson, Purple Rain (song), Susan Rogers, The Beautiful Ones (song), Vanity, Vanity 6, vault ([mirror](https://web.archive.org/web/*/https://wdet.org/posts/2020/01/29/89147-true-tales-of-prince-from-susan-rogers-his-1980s-audio-engineer/))
 
 ----
 
@@ -96,7 +108,7 @@
 
 ----
 
- - [**"Prince Never Acted Before 'Purple Rain.' Then He Became a Household Name -- The movie and album would come to help define the 1980s and catapult the performer to global fame."**](https://www.biography.com/news/prince-purple-rain-album-movie) by Colin Bertram in [Biography](https://www.biography.com/) on 25 July 2019 about Academy Award, Alan Light, Albert Magnoli, Apollonia Kotero, First Avenue (place), I Would Die 4 U (song), Let’s Go Crazy (song), Morris Day, Purple Rain (album), Purple Rain (movie), Purple Rain (song), The Revolution, The Time, Vanity, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.biography.com/news/prince-purple-rain-album-movie))
+ - [**"Prince Never Acted Before 'Purple Rain.' Then He Became a Household Name -- The movie and album would come to help define the 1980s and catapult the performer to global fame."**](https://www.biography.com/news/prince-purple-rain-album-movie) by Colin Bertram in [Biography](https://www.biography.com/) on 25 July 2019 about Academy Award, Alan Light, Albert Magnoli, Apollonia Kotero, First Avenue (place), I Would Die 4 U (song), Let’s Go Crazy (song), Michael Jackson, Morris Day, Purple Rain (album), Purple Rain (movie), Purple Rain (song), The Revolution, The Time, Vanity, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.biography.com/news/prince-purple-rain-album-movie))
 
 ----
 
@@ -132,7 +144,7 @@
 
 ----
 
- - [**"The 20 best Prince songs of all time by the NME office"**](https://www.nme.com/blogs/nme-blogs/best-prince-songs-9053) in [NME (New Musical Express)](https://www.nme.com/) on 7 June 2018 about 1999 (song), Alphabet St. (song), Around The World In A Day (song), Bambi (song), Controversy (song), Darling Nikki (song), Diamonds and Pearls (song), I Could Never Take The Place Of Your Man (song), I Wanna Be Your Lover (song), I Would Die 4 U (song), Lisa Coleman, Little Red Corvette (song), Mayte, Mayte Garcia, Mazarati, memoir, Money Don’t Matter 2 Night (song), Parental Advisory, Purple Rain (song), Raspberry Beret (song), Sheena Easton, Sometimes It Snows In April (song), Spiegel & Grau, Sugar Walls (song), The Most Beautiful Girl In The World (song), Tipper Gore, U Got the Look (song), When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.nme.com/blogs/nme-blogs/best-prince-songs-9053))
+ - [**"The 20 best Prince songs of all time by the NME office"**](https://www.nme.com/blogs/nme-blogs/best-prince-songs-9053) in [NME (New Musical Express)](https://www.nme.com/) on 7 June 2018 about 1999 (song), Alphabet St. (song), Around The World In A Day (song), Bambi (song), Controversy (song), Darling Nikki (song), Diamonds and Pearls (song), I Could Never Take The Place Of Your Man (song), I Wanna Be Your Lover (song), I Would Die 4 U (song), Lisa Coleman, Little Red Corvette (song), Mayte, Mayte Garcia, Mazarati, memoir, Michael Jackson, Money Don’t Matter 2 Night (song), Parental Advisory, Purple Rain (song), Raspberry Beret (song), Sheena Easton, Sometimes It Snows In April (song), Spiegel & Grau, Sugar Walls (song), The Most Beautiful Girl In The World (song), Tipper Gore, U Got the Look (song), When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.nme.com/blogs/nme-blogs/best-prince-songs-9053))
 
 ----
 
@@ -145,6 +157,10 @@
 ----
 
  - [**"Exclusive Preview: Prince’s ‘Purple Rain’ Deluxe Edition, With Previously Unreleased Tracks"**](https://variety.com/2017/film/news/prince-purple-rain-deluxe-edition-exclusive-preview-1202463200/) by Jem Aswad in [Variety](https://variety.com/) on 13 June 2017 about 17 Days (song), Around The World In A Day (album), Computer Blue (song), Erotic City (song), I Would Die 4 U (song), James Brown, John L. Nelson, Katrina’s Paper Dolls (song), Let’s Go Crazy (song), Lisa Coleman, Love and Sex (song), Our Destiny (song), Possessed (song), Purple Rain (album), Purple Rain (song), Roadhouse Garden (song), Sheila E., The Beautiful Ones (song), The Dance Electric (song), Velvet Kitty Cat (song), When Doves Cry (song), Wonderful Ass (song) ([mirror](https://web.archive.org/web/*/https://variety.com/2017/film/news/prince-purple-rain-deluxe-edition-exclusive-preview-1202463200/))
+
+----
+
+ - [**"Details of Prince's expanded 'Purple Rain' reissue revealed, coming June 23"**](http://www.startribune.com/details-of-prince-s-expanded-purple-rain-reissue-revealed-coming-june-23/420722973/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 28 April 2017 about 17 Days (song), bootleg, Erotic City (song), First Avenue (place), Minnesota Dance Theatre, NPG Records, Our Destiny (song), Possessed (song), Purple Rain (album), Purple Rain (song), Roadhouse Garden (song), The Beautiful Ones (song), The Revolution, vault, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/details-of-prince-s-expanded-purple-rain-reissue-revealed-coming-june-23/420722973/))
 
 ----
 

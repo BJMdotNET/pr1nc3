@@ -20,7 +20,7 @@
 
 ----
 
- - [**"Rock Star Plays Surprise Concert For Handicapped Children"**](https://apnews.com/1ca469b35a7440f27741bf605c161816) in [Associated Press News](https://apnews.com/) on 20 March 1985 about Alan Leeds, Atlanta (place), Baby I’m a Star (song), Let’s Go Crazy (song) ([mirror](https://web.archive.org/web/*/https://apnews.com/1ca469b35a7440f27741bf605c161816))
+ - [**"Rock Star Plays Surprise Concert For Handicapped Children"**](https://apnews.com/1ca469b35a7440f27741bf605c161816) in [Associated Press News](https://apnews.com/) on 20 March 1985 about Alan Leeds, Atlanta (place), Baby I’m a Star (song), Let’s Go Crazy (song), We Are the World (song) ([mirror](https://web.archive.org/web/*/https://apnews.com/1ca469b35a7440f27741bf605c161816))
 
 ----
 

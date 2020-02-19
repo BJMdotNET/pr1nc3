@@ -26,7 +26,7 @@
 
 ----
 
- - [**"Prince invites fans to party with him at Paisley Park"**](https://apnews.com/93c56737c5344b9597794d00449d08e3) by Jeff Baenen (Associated Press) in [Associated Press News](https://apnews.com/) on 27 October 2015 about 3rdEyeGirl, Donna Grantis, James Brown, Judith Hill, merchandise, Stevie Wonder ([mirror](https://web.archive.org/web/*/https://apnews.com/93c56737c5344b9597794d00449d08e3))
+ - [**"Prince invites fans to party with him at Paisley Park"**](https://apnews.com/93c56737c5344b9597794d00449d08e3) by Jeff Baenen (Associated Press) in [Associated Press News](https://apnews.com/) on 27 October 2015 about 3rdEyeGirl, Donna Grantis, James Brown, Judith Hill, merchandise, Michael Jackson, Stevie Wonder ([mirror](https://web.archive.org/web/*/https://apnews.com/93c56737c5344b9597794d00449d08e3))
 
 ----
 

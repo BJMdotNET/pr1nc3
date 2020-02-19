@@ -16,7 +16,7 @@
 
 ----
 
- - [**"People In The News"**](https://apnews.com/68d6ee2a071cbb3c83fc9defc5343edb) in [Associated Press News](https://apnews.com/) on 17 October 1986 about Dakota (place), Lisa Coleman, PRINCEss, The Revolution, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://apnews.com/68d6ee2a071cbb3c83fc9defc5343edb))
+ - [**"People In The News"**](https://apnews.com/68d6ee2a071cbb3c83fc9defc5343edb) in [Associated Press News](https://apnews.com/) on 17 October 1986 about Dakota (place), Lisa Coleman, Michael Jackson, PRINCEss, The Revolution, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://apnews.com/68d6ee2a071cbb3c83fc9defc5343edb))
 
 ----
 

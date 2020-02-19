@@ -4,7 +4,7 @@
 
 ----
 
- - [**"Putting a price on Prince collectibles: Don't be fooled by rip-offs -- The musician's sudden death boosts demand for related memorabilia. But be wary of rip-offs."**](http://www.startribune.com/putting-a-price-on-prince/379398971/) by Kim Palmer in [Minneapolis Star Tribune](http://www.startribune.com/) on 13 May 2016 about auction ([mirror](https://web.archive.org/web/*/http://www.startribune.com/putting-a-price-on-prince/379398971/))
+ - [**"Putting a price on Prince collectibles: Don't be fooled by rip-offs -- The musician's sudden death boosts demand for related memorabilia. But be wary of rip-offs."**](http://www.startribune.com/putting-a-price-on-prince/379398971/) by Kim Palmer in [Minneapolis Star Tribune](http://www.startribune.com/) on 13 May 2016 about auction, Michael Jackson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/putting-a-price-on-prince/379398971/))
 
 ----
 

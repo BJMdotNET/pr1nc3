@@ -68,7 +68,7 @@
 
 ----
 
- - [**"No, seriously: Weird Al and his fans explain why he's so big at the Minnesota State Fair -- Weird Al Yankovic is headed to the Minnesota State Fair's grandstand. We talked to fans of the clever parodist. "**](http://www.startribune.com/no-seriously-weird-al-and-his-fans-explain-why-he-s-so-big-at-the-minnesota-state-fair/557878752/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 August 2019 about First Avenue (place), Frank Zappa, Let’s Go Crazy (song), Minnesota State Fair, State Fair, Weird Al Yankovic ([mirror](https://web.archive.org/web/*/http://www.startribune.com/no-seriously-weird-al-and-his-fans-explain-why-he-s-so-big-at-the-minnesota-state-fair/557878752/))
+ - [**"No, seriously: Weird Al and his fans explain why he's so big at the Minnesota State Fair -- Weird Al Yankovic is headed to the Minnesota State Fair's grandstand. We talked to fans of the clever parodist. "**](http://www.startribune.com/no-seriously-weird-al-and-his-fans-explain-why-he-s-so-big-at-the-minnesota-state-fair/557878752/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 August 2019 about First Avenue (place), Frank Zappa, Let’s Go Crazy (song), Michael Jackson, Minnesota State Fair, State Fair, Weird Al Yankovic ([mirror](https://web.archive.org/web/*/http://www.startribune.com/no-seriously-weird-al-and-his-fans-explain-why-he-s-so-big-at-the-minnesota-state-fair/557878752/))
 
 ----
 
@@ -84,7 +84,7 @@
 
 ----
 
- - [**"Prince Never Acted Before 'Purple Rain.' Then He Became a Household Name -- The movie and album would come to help define the 1980s and catapult the performer to global fame."**](https://www.biography.com/news/prince-purple-rain-album-movie) by Colin Bertram in [Biography](https://www.biography.com/) on 25 July 2019 about Academy Award, Alan Light, Albert Magnoli, Apollonia Kotero, First Avenue (place), I Would Die 4 U (song), Let’s Go Crazy (song), Morris Day, Purple Rain (album), Purple Rain (movie), Purple Rain (song), The Revolution, The Time, Vanity, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.biography.com/news/prince-purple-rain-album-movie))
+ - [**"Prince Never Acted Before 'Purple Rain.' Then He Became a Household Name -- The movie and album would come to help define the 1980s and catapult the performer to global fame."**](https://www.biography.com/news/prince-purple-rain-album-movie) by Colin Bertram in [Biography](https://www.biography.com/) on 25 July 2019 about Academy Award, Alan Light, Albert Magnoli, Apollonia Kotero, First Avenue (place), I Would Die 4 U (song), Let’s Go Crazy (song), Michael Jackson, Morris Day, Purple Rain (album), Purple Rain (movie), Purple Rain (song), The Revolution, The Time, Vanity, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.biography.com/news/prince-purple-rain-album-movie))
 
 ----
 
@@ -104,7 +104,7 @@
 
 ----
 
- - [**"Sheila E.’s Debut Album ‘The Glamorous Life’ Turns 35: Anniversary Retrospective -- Happy 35th Anniversary to Sheila E.’s debut album The Glamorous Life, originally released June 4, 1984."**](https://www.albumism.com/features/sheila-e-debut-album-the-glamorous-life-turns-35-anniversary-retrospective) by Andy Healy in [Albumism](https://www.albumism.com/) on 2 June 2019 about Condition of the Heart (song), Erotic City (song), Jesse Johnson, Let’s Go Crazy (song), Next Time Wipe The Lipstick Off Your Collar (song), Noon Rendezvous (song), Oliver’s House (song), Sheila E., Shortberry Strawcake (song), The Belle of St. Mark (song), The Glamorous Life (album), The Glamorous Life (song), The Starr Company, The Time ([mirror](https://web.archive.org/web/*/https://www.albumism.com/features/sheila-e-debut-album-the-glamorous-life-turns-35-anniversary-retrospective))
+ - [**"Sheila E.’s Debut Album ‘The Glamorous Life’ Turns 35: Anniversary Retrospective -- Happy 35th Anniversary to Sheila E.’s debut album The Glamorous Life, originally released June 4, 1984."**](https://www.albumism.com/features/sheila-e-debut-album-the-glamorous-life-turns-35-anniversary-retrospective) by Andy Healy in [Albumism](https://www.albumism.com/) on 2 June 2019 about Condition of the Heart (song), Erotic City (song), Jesse Johnson, Let’s Go Crazy (song), Michael Jackson, Next Time Wipe The Lipstick Off Your Collar (song), Noon Rendezvous (song), Oliver’s House (song), Sheila E., Shortberry Strawcake (song), The Belle of St. Mark (song), The Glamorous Life (album), The Glamorous Life (song), The Starr Company, The Time ([mirror](https://web.archive.org/web/*/https://www.albumism.com/features/sheila-e-debut-album-the-glamorous-life-turns-35-anniversary-retrospective))
 
 ----
 
@@ -136,7 +136,7 @@
 
 ----
 
- - [**"Prince's Strange Relationship with Parody (and Weird Al) Detailed in Excerpt From Ben Greenman's 'Dig If U Will The Picture' [Exclusive]"**](https://www.okayplayer.com/news/prince-weird-al-exclusive-excerpt-ben-greenman-interview.html) in [Okayplayer](https://www.okayplayer.com/) on 6 April 2017 about Charlie Murphy, Dave Chappelle, Let’s Go Crazy (song), Weird Al Yankovic ([mirror](https://web.archive.org/web/*/https://www.okayplayer.com/news/prince-weird-al-exclusive-excerpt-ben-greenman-interview.html))
+ - [**"Prince's Strange Relationship with Parody (and Weird Al) Detailed in Excerpt From Ben Greenman's 'Dig If U Will The Picture' [Exclusive]"**](https://www.okayplayer.com/news/prince-weird-al-exclusive-excerpt-ben-greenman-interview.html) in [Okayplayer](https://www.okayplayer.com/) on 6 April 2017 about Charlie Murphy, Dave Chappelle, Let’s Go Crazy (song), Michael Jackson, Weird Al Yankovic ([mirror](https://web.archive.org/web/*/https://www.okayplayer.com/news/prince-weird-al-exclusive-excerpt-ben-greenman-interview.html))
 
 ----
 
@@ -144,7 +144,7 @@
 
 ----
 
- - [**"Susan Rogers - 2016 Red Bull Music Academy lecture"**](https://www.redbullmusicacademy.com/lectures/susan-rogers-lecture) in [Red Bull Music Academy](https://www.redbullmusicacademy.com/) on 8 December 2016 about 17 Days (song), Academy Award, Anita Baker, Bernie Grundman, bootleg, Condition of the Heart (song), contract, First Avenue (place), Grammy Award, James Brown, Jesse Johnson, Jill Jones, Joni Mitchell, Kate Bush, Let’s Go Crazy (song), Lisa Coleman, Little Red Corvette (song), Nothing Compares 2 U (song), Pop Life (song), Sheila E., Sometimes It Snows In April (song), Stevie Wonder, Sunset Sound (place), Susan Rogers, Susannah Melvoin, The Ballad Of Dorothy Parker (song), The Revolution, Under the Cherry Moon (movie), University of Minnesota, Vanity 6, vault, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://www.redbullmusicacademy.com/lectures/susan-rogers-lecture))
+ - [**"Susan Rogers - 2016 Red Bull Music Academy lecture"**](https://www.redbullmusicacademy.com/lectures/susan-rogers-lecture) in [Red Bull Music Academy](https://www.redbullmusicacademy.com/) on 8 December 2016 about 17 Days (song), Academy Award, Anita Baker, Bernie Grundman, bootleg, Condition of the Heart (song), contract, First Avenue (place), Grammy Award, James Brown, Jesse Johnson, Jill Jones, Joni Mitchell, Kate Bush, Let’s Go Crazy (song), Lisa Coleman, Little Red Corvette (song), Michael Jackson, Nothing Compares 2 U (song), Pop Life (song), Sheila E., Sometimes It Snows In April (song), Stevie Wonder, Sunset Sound (place), Susan Rogers, Susannah Melvoin, The Ballad Of Dorothy Parker (song), The Revolution, Under the Cherry Moon (movie), University of Minnesota, Vanity 6, vault, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://www.redbullmusicacademy.com/lectures/susan-rogers-lecture))
 
 ----
 
@@ -156,11 +156,11 @@
 
 ----
 
- - [**"Prince Turned Down at Least 4 Parody Ideas, But Michael Jackson Was 'Very Supportive' -- "I had this fantasy that he’d come out with a new song, I’d have a great idea, he’d finally say yes and it would erase decades of weirdness between us. But that’s obviously not going to be the case.""**](https://www.billboard.com/articles/news/7460907/prince-weird-al-yankovic-michael-jackson) in [Billboard](https://www.billboard.com/) on 2 August 2016 about "Weird Al" Yankovic, Let’s Go Crazy (song) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/7460907/prince-weird-al-yankovic-michael-jackson))
+ - [**"Prince Turned Down at Least 4 Parody Ideas, But Michael Jackson Was 'Very Supportive' -- "I had this fantasy that he’d come out with a new song, I’d have a great idea, he’d finally say yes and it would erase decades of weirdness between us. But that’s obviously not going to be the case.""**](https://www.billboard.com/articles/news/7460907/prince-weird-al-yankovic-michael-jackson) in [Billboard](https://www.billboard.com/) on 2 August 2016 about "Weird Al" Yankovic, Let’s Go Crazy (song), Michael Jackson ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/7460907/prince-weird-al-yankovic-michael-jackson))
 
 ----
 
- - [**"Weird Al Yankovic Reveals the One Musician Who Always Said No – Prince -- The musical comedian reveals that not everyone was on board with his song parodies"**](https://people.com/celebrity/weird-al-yankovic-says-prince-wasnt-a-fan-of-his-parodies/) in [People](https://people.com/) on 2 August 2016 about Let’s Go Crazy (song), Undisputed (song), Weird Al Yankovic ([mirror](https://web.archive.org/web/*/https://people.com/celebrity/weird-al-yankovic-says-prince-wasnt-a-fan-of-his-parodies/))
+ - [**"Weird Al Yankovic Reveals the One Musician Who Always Said No – Prince -- The musical comedian reveals that not everyone was on board with his song parodies"**](https://people.com/celebrity/weird-al-yankovic-says-prince-wasnt-a-fan-of-his-parodies/) in [People](https://people.com/) on 2 August 2016 about Let’s Go Crazy (song), Michael Jackson, Undisputed (song), Weird Al Yankovic ([mirror](https://web.archive.org/web/*/https://people.com/celebrity/weird-al-yankovic-says-prince-wasnt-a-fan-of-his-parodies/))
 
 ----
 
@@ -196,7 +196,7 @@
 
 ----
 
- - [**"Rock Star Plays Surprise Concert For Handicapped Children"**](https://apnews.com/1ca469b35a7440f27741bf605c161816) in [Associated Press News](https://apnews.com/) on 20 March 1985 about Alan Leeds, Atlanta (place), Baby I’m a Star (song), Let’s Go Crazy (song) ([mirror](https://web.archive.org/web/*/https://apnews.com/1ca469b35a7440f27741bf605c161816))
+ - [**"Rock Star Plays Surprise Concert For Handicapped Children"**](https://apnews.com/1ca469b35a7440f27741bf605c161816) in [Associated Press News](https://apnews.com/) on 20 March 1985 about Alan Leeds, Atlanta (place), Baby I’m a Star (song), Let’s Go Crazy (song), We Are the World (song) ([mirror](https://web.archive.org/web/*/https://apnews.com/1ca469b35a7440f27741bf605c161816))
 
 ----
 

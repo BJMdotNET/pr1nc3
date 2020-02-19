@@ -26,15 +26,15 @@
 
 ----
 
- - [**"Prince’s Closest Friends Share Their Best Prince Stories -- From Van Jones to Carmen Electra, publicists to Paisley Park members, those close to Prince Rogers Nelson tell tales—ordinary and out there—of the late legend."**](https://www.gq.com/story/prince-stories) in [www.gq.com](https://www.gq.com/) on 8 December 2016 about Albert Magnoli, André Cymone, Audubon Road, Bangles, Cat Glover, Central High, Chaka Khan, Chappelle's Show (TV show), Charlie Murphy, Corey Tollefson, Dave Chappelle, Dez Dickerson, Gwen Stefani, Jeremiah Freed, Jill Jones, Kandace Springs, Lake Minnetonka (place), Larry Graham, Manuela Testolini, Mayte, Micki Free, Misty Copeland, Morris Hayes, Neal Karlen, Netflix, NPG Records, Obama, Owen Husney, piracy, St. Louis Park (place), Susanna Hoffs, The Gold Experience (album), The Revolution, Van Jones, Vanity, vault, White House (place), YouTube ([mirror](https://web.archive.org/web/*/https://www.gq.com/story/prince-stories))
+ - [**"Prince’s Closest Friends Share Their Best Prince Stories -- From Van Jones to Carmen Electra, publicists to Paisley Park members, those close to Prince Rogers Nelson tell tales—ordinary and out there—of the late legend."**](https://www.gq.com/story/prince-stories) in [www.gq.com](https://www.gq.com/) on 8 December 2016 about Albert Magnoli, André Cymone, Audubon Road, Bangles, Cat Glover, Central High, Chaka Khan, Chappelle's Show (TV show), Charlie Murphy, Corey Tollefson, Dave Chappelle, Dez Dickerson, Gwen Stefani, Jeremiah Freed, Jill Jones, Kandace Springs, Lake Minnetonka (place), Larry Graham, Manuela Testolini, Mayte, Michael Jackson, Micki Free, Misty Copeland, Morris Hayes, Neal Karlen, Netflix, NPG Records, Obama, Owen Husney, piracy, St. Louis Park (place), Susanna Hoffs, The Gold Experience (album), The Revolution, Van Jones, Vanity, vault, White House (place), YouTube ([mirror](https://web.archive.org/web/*/https://www.gq.com/story/prince-stories))
 
 ----
 
- - [**"Susan Rogers - 2016 Red Bull Music Academy lecture"**](https://www.redbullmusicacademy.com/lectures/susan-rogers-lecture) in [Red Bull Music Academy](https://www.redbullmusicacademy.com/) on 8 December 2016 about 17 Days (song), Academy Award, Anita Baker, Bernie Grundman, bootleg, Condition of the Heart (song), contract, First Avenue (place), Grammy Award, James Brown, Jesse Johnson, Jill Jones, Joni Mitchell, Kate Bush, Let’s Go Crazy (song), Lisa Coleman, Little Red Corvette (song), Nothing Compares 2 U (song), Pop Life (song), Sheila E., Sometimes It Snows In April (song), Stevie Wonder, Sunset Sound (place), Susan Rogers, Susannah Melvoin, The Ballad Of Dorothy Parker (song), The Revolution, Under the Cherry Moon (movie), University of Minnesota, Vanity 6, vault, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://www.redbullmusicacademy.com/lectures/susan-rogers-lecture))
+ - [**"Susan Rogers - 2016 Red Bull Music Academy lecture"**](https://www.redbullmusicacademy.com/lectures/susan-rogers-lecture) in [Red Bull Music Academy](https://www.redbullmusicacademy.com/) on 8 December 2016 about 17 Days (song), Academy Award, Anita Baker, Bernie Grundman, bootleg, Condition of the Heart (song), contract, First Avenue (place), Grammy Award, James Brown, Jesse Johnson, Jill Jones, Joni Mitchell, Kate Bush, Let’s Go Crazy (song), Lisa Coleman, Little Red Corvette (song), Michael Jackson, Nothing Compares 2 U (song), Pop Life (song), Sheila E., Sometimes It Snows In April (song), Stevie Wonder, Sunset Sound (place), Susan Rogers, Susannah Melvoin, The Ballad Of Dorothy Parker (song), The Revolution, Under the Cherry Moon (movie), University of Minnesota, Vanity 6, vault, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://www.redbullmusicacademy.com/lectures/susan-rogers-lecture))
 
 ----
 
- - [**"Susan Rogers on Working with Prince -- The engineer, collaborator and confidante shares stories from her exhilarating and exhausting time with Prince Rogers Nelson"**](https://daily.redbullmusicacademy.com/2017/06/susan-rogers-working-with-prince) in [Red Bull Music Academy Daily](https://daily.redbullmusicacademy.com/) on 8 December 2016 about Jesse Johnson, Jill Jones, Sheila E., Sunset Sound (place), Susan Rogers, Susannah Melvoin, Vanity 6, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://daily.redbullmusicacademy.com/2017/06/susan-rogers-working-with-prince))
+ - [**"Susan Rogers on Working with Prince -- The engineer, collaborator and confidante shares stories from her exhilarating and exhausting time with Prince Rogers Nelson"**](https://daily.redbullmusicacademy.com/2017/06/susan-rogers-working-with-prince) in [Red Bull Music Academy Daily](https://daily.redbullmusicacademy.com/) on 8 December 2016 about Jesse Johnson, Jill Jones, Michael Jackson, Sheila E., Sunset Sound (place), Susan Rogers, Susannah Melvoin, Vanity 6, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://daily.redbullmusicacademy.com/2017/06/susan-rogers-working-with-prince))
 
 ----
 
@@ -56,11 +56,11 @@
 
 ----
 
- - [**"Court filings suggest Prince’s estate is worth $200 million"**](https://apnews.com/9d1e0cc17bf64d46845040a1e6ce0c75) in [Associated Press News](https://apnews.com/) on 30 November 2016 about Bremer Trust ([mirror](https://web.archive.org/web/*/https://apnews.com/9d1e0cc17bf64d46845040a1e6ce0c75))
+ - [**"Court filings suggest Prince’s estate is worth $200 million"**](https://apnews.com/9d1e0cc17bf64d46845040a1e6ce0c75) in [Associated Press News](https://apnews.com/) on 30 November 2016 about Bremer Trust, Michael Jackson ([mirror](https://web.archive.org/web/*/https://apnews.com/9d1e0cc17bf64d46845040a1e6ce0c75))
 
 ----
 
- - [**"Prince's Estate Worth $200 Million, Court Filings Suggest"**](https://www.billboard.com/articles/news/7595991/prince-estate-worth-200-million) in [Billboard](https://www.billboard.com/) on 30 November 2016 about Bremer Trust ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/7595991/prince-estate-worth-200-million))
+ - [**"Prince's Estate Worth $200 Million, Court Filings Suggest"**](https://www.billboard.com/articles/news/7595991/prince-estate-worth-200-million) in [Billboard](https://www.billboard.com/) on 30 November 2016 about Bremer Trust, Michael Jackson ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/7595991/prince-estate-worth-200-million))
 
 ----
 
@@ -72,7 +72,7 @@
 
 ----
 
- - [**"Drake, Bieber win big, Selena Gomez gets emotional at AMAs"**](https://apnews.com/d90b510be7564038ab7ceed50f3bd1ba) in [Associated Press News](https://apnews.com/) on 21 November 2016 about Apple Music, Donald Trump, Obama, Trump, Tyka Nelson ([mirror](https://web.archive.org/web/*/https://apnews.com/d90b510be7564038ab7ceed50f3bd1ba))
+ - [**"Drake, Bieber win big, Selena Gomez gets emotional at AMAs"**](https://apnews.com/d90b510be7564038ab7ceed50f3bd1ba) in [Associated Press News](https://apnews.com/) on 21 November 2016 about Apple Music, Donald Trump, Michael Jackson, Obama, Trump, Tyka Nelson ([mirror](https://web.archive.org/web/*/https://apnews.com/d90b510be7564038ab7ceed50f3bd1ba))
 
 ----
 
@@ -402,11 +402,11 @@
 
 ----
 
- - [**"Prince Turned Down at Least 4 Parody Ideas, But Michael Jackson Was 'Very Supportive' -- "I had this fantasy that he’d come out with a new song, I’d have a great idea, he’d finally say yes and it would erase decades of weirdness between us. But that’s obviously not going to be the case.""**](https://www.billboard.com/articles/news/7460907/prince-weird-al-yankovic-michael-jackson) in [Billboard](https://www.billboard.com/) on 2 August 2016 about "Weird Al" Yankovic, Let’s Go Crazy (song) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/7460907/prince-weird-al-yankovic-michael-jackson))
+ - [**"Prince Turned Down at Least 4 Parody Ideas, But Michael Jackson Was 'Very Supportive' -- "I had this fantasy that he’d come out with a new song, I’d have a great idea, he’d finally say yes and it would erase decades of weirdness between us. But that’s obviously not going to be the case.""**](https://www.billboard.com/articles/news/7460907/prince-weird-al-yankovic-michael-jackson) in [Billboard](https://www.billboard.com/) on 2 August 2016 about "Weird Al" Yankovic, Let’s Go Crazy (song), Michael Jackson ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/7460907/prince-weird-al-yankovic-michael-jackson))
 
 ----
 
- - [**"Weird Al Yankovic Reveals the One Musician Who Always Said No – Prince -- The musical comedian reveals that not everyone was on board with his song parodies"**](https://people.com/celebrity/weird-al-yankovic-says-prince-wasnt-a-fan-of-his-parodies/) in [People](https://people.com/) on 2 August 2016 about Let’s Go Crazy (song), Undisputed (song), Weird Al Yankovic ([mirror](https://web.archive.org/web/*/https://people.com/celebrity/weird-al-yankovic-says-prince-wasnt-a-fan-of-his-parodies/))
+ - [**"Weird Al Yankovic Reveals the One Musician Who Always Said No – Prince -- The musical comedian reveals that not everyone was on board with his song parodies"**](https://people.com/celebrity/weird-al-yankovic-says-prince-wasnt-a-fan-of-his-parodies/) in [People](https://people.com/) on 2 August 2016 about Let’s Go Crazy (song), Michael Jackson, Undisputed (song), Weird Al Yankovic ([mirror](https://web.archive.org/web/*/https://people.com/celebrity/weird-al-yankovic-says-prince-wasnt-a-fan-of-his-parodies/))
 
 ----
 
@@ -694,11 +694,11 @@
 
 ----
 
- - [**"A Prince wish, Paisley Park eyed for museum like Graceland"**](https://apnews.com/e126f8cb38574b21b3cf0f5dd0843873) in [Associated Press News](https://apnews.com/) on 10 June 2016 about Bremer Trust, Carver County, exhibit, exhibition, fentanyl, Graceland, Jeremiah Freed, motorcycle, museum ([mirror](https://web.archive.org/web/*/https://apnews.com/e126f8cb38574b21b3cf0f5dd0843873))
+ - [**"A Prince wish, Paisley Park eyed for museum like Graceland"**](https://apnews.com/e126f8cb38574b21b3cf0f5dd0843873) in [Associated Press News](https://apnews.com/) on 10 June 2016 about Bremer Trust, Carver County, exhibit, exhibition, fentanyl, Graceland, Jeremiah Freed, Michael Jackson, motorcycle, museum ([mirror](https://web.archive.org/web/*/https://apnews.com/e126f8cb38574b21b3cf0f5dd0843873))
 
 ----
 
- - [**"A Prince wish, Paisley Park eyed for museum like Graceland"**](http://www.startribune.com/a-prince-wish-paisley-park-eyed-for-museum-like-graceland/382529341/) by Steve Karnowski (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 June 2016 about Bremer Trust, Carver County, exhibit, exhibition, fentanyl, Graceland, Jeremiah Freed, motorcycle, museum ([mirror](https://web.archive.org/web/*/http://www.startribune.com/a-prince-wish-paisley-park-eyed-for-museum-like-graceland/382529341/))
+ - [**"A Prince wish, Paisley Park eyed for museum like Graceland"**](http://www.startribune.com/a-prince-wish-paisley-park-eyed-for-museum-like-graceland/382529341/) by Steve Karnowski (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 June 2016 about Bremer Trust, Carver County, exhibit, exhibition, fentanyl, Graceland, Jeremiah Freed, Michael Jackson, motorcycle, museum ([mirror](https://web.archive.org/web/*/http://www.startribune.com/a-prince-wish-paisley-park-eyed-for-museum-like-graceland/382529341/))
 
 ----
 
@@ -746,7 +746,7 @@
 
 ----
 
- - [**"Spike Lee throws dance party ahead of Prince’s 58th birthday"**](https://apnews.com/780ae6981b534a27be2f65bf10470f6e) in [Associated Press News](https://apnews.com/) on 5 June 2016 about Celebration, Erotic City (song), fentanyl, Spike Lee, Starfish And Coffee (song), When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://apnews.com/780ae6981b534a27be2f65bf10470f6e))
+ - [**"Spike Lee throws dance party ahead of Prince’s 58th birthday"**](https://apnews.com/780ae6981b534a27be2f65bf10470f6e) in [Associated Press News](https://apnews.com/) on 5 June 2016 about Celebration, Erotic City (song), fentanyl, Michael Jackson, Spike Lee, Starfish And Coffee (song), When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://apnews.com/780ae6981b534a27be2f65bf10470f6e))
 
 ----
 
@@ -782,7 +782,7 @@
 
 ----
 
- - [**"Prince joins a list of stars dead from drug overdoses"**](https://apnews.com/953c320120ba4054bc682ff06dceba99) in [Associated Press News](https://apnews.com/) on 3 June 2016 about fentanyl, oxycodone ([mirror](https://web.archive.org/web/*/https://apnews.com/953c320120ba4054bc682ff06dceba99))
+ - [**"Prince joins a list of stars dead from drug overdoses"**](https://apnews.com/953c320120ba4054bc682ff06dceba99) in [Associated Press News](https://apnews.com/) on 3 June 2016 about fentanyl, Michael Jackson, oxycodone ([mirror](https://web.archive.org/web/*/https://apnews.com/953c320120ba4054bc682ff06dceba99))
 
 ----
 
@@ -944,7 +944,7 @@
 
 ----
 
- - [**"Putting a price on Prince collectibles: Don't be fooled by rip-offs -- The musician's sudden death boosts demand for related memorabilia. But be wary of rip-offs."**](http://www.startribune.com/putting-a-price-on-prince/379398971/) by Kim Palmer in [Minneapolis Star Tribune](http://www.startribune.com/) on 13 May 2016 about auction ([mirror](https://web.archive.org/web/*/http://www.startribune.com/putting-a-price-on-prince/379398971/))
+ - [**"Putting a price on Prince collectibles: Don't be fooled by rip-offs -- The musician's sudden death boosts demand for related memorabilia. But be wary of rip-offs."**](http://www.startribune.com/putting-a-price-on-prince/379398971/) by Kim Palmer in [Minneapolis Star Tribune](http://www.startribune.com/) on 13 May 2016 about auction, Michael Jackson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/putting-a-price-on-prince/379398971/))
 
 ----
 
@@ -984,11 +984,11 @@
 
 ----
 
- - [**"Colorado inmate claims Prince is his father, seeks DNA test"**](https://apnews.com/13fdcc29391d427bab6b4b5584316da8) by Steve Karnowski (Associated Press) in [Associated Press News](https://apnews.com/) on 10 May 2016 about Carlin Q. Williams, Carver County, Carver County District Court, Marsha Henson, Patrick Cousins, Tyka Nelson ([mirror](https://web.archive.org/web/*/https://apnews.com/13fdcc29391d427bab6b4b5584316da8))
+ - [**"Colorado inmate claims Prince is his father, seeks DNA test"**](https://apnews.com/13fdcc29391d427bab6b4b5584316da8) by Steve Karnowski (Associated Press) in [Associated Press News](https://apnews.com/) on 10 May 2016 about Carlin Q. Williams, Carver County, Carver County District Court, Marsha Henson, Michael Jackson, Patrick Cousins, Tyka Nelson ([mirror](https://web.archive.org/web/*/https://apnews.com/13fdcc29391d427bab6b4b5584316da8))
 
 ----
 
- - [**"Colorado inmate claims Prince is his father, seeks DNA test"**](http://www.startribune.com/colorado-inmate-claims-prince-is-his-father-seeks-dna-test/378823301/) by Steve Karnowski (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 May 2016 about Carlin Q. Williams, Carver County, Carver County District Court, Marsha Henson, Patrick Cousins, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/colorado-inmate-claims-prince-is-his-father-seeks-dna-test/378823301/))
+ - [**"Colorado inmate claims Prince is his father, seeks DNA test"**](http://www.startribune.com/colorado-inmate-claims-prince-is-his-father-seeks-dna-test/378823301/) by Steve Karnowski (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 May 2016 about Carlin Q. Williams, Carver County, Carver County District Court, Marsha Henson, Michael Jackson, Patrick Cousins, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/colorado-inmate-claims-prince-is-his-father-seeks-dna-test/378823301/))
 
 ----
 
@@ -1160,7 +1160,7 @@
 
 ----
 
- - [**"Could Paisley Park become a Prince museum? Maybe not"**](https://usatoday.com/story/life/music/2016/04/29/could-paisley-park-become-prince-museum-maybe-not/83651588/) in [USA Today](https://usatoday.com/) on 1 May 2016 about Denny Laufenburger, Graceland, museum, Robert Strauss, Sheila E., Tyka Nelson ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2016/04/29/could-paisley-park-become-prince-museum-maybe-not/83651588/))
+ - [**"Could Paisley Park become a Prince museum? Maybe not"**](https://usatoday.com/story/life/music/2016/04/29/could-paisley-park-become-prince-museum-maybe-not/83651588/) in [USA Today](https://usatoday.com/) on 1 May 2016 about Denny Laufenburger, Graceland, Michael Jackson, museum, Robert Strauss, Sheila E., Tyka Nelson ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2016/04/29/could-paisley-park-become-prince-museum-maybe-not/83651588/))
 
 ----
 
@@ -1174,7 +1174,7 @@
 
 ## April 2016 (114)
 
- - [**"AP Exclusive: Prince’s ‘Purple Rain’ coat is up for auction"**](https://apnews.com/8110dcbaa6714d75a12db043ff989975) in [Associated Press News](https://apnews.com/) on 29 April 2016 about Apollonia Kotero, auction, Katy Perry, motorcycle ([mirror](https://web.archive.org/web/*/https://apnews.com/8110dcbaa6714d75a12db043ff989975))
+ - [**"AP Exclusive: Prince’s ‘Purple Rain’ coat is up for auction"**](https://apnews.com/8110dcbaa6714d75a12db043ff989975) in [Associated Press News](https://apnews.com/) on 29 April 2016 about Apollonia Kotero, auction, Katy Perry, Michael Jackson, motorcycle ([mirror](https://web.archive.org/web/*/https://apnews.com/8110dcbaa6714d75a12db043ff989975))
 
 ----
 
@@ -1182,11 +1182,11 @@
 
 ----
 
- - [**"APNewsBreak: Investigators look at overdose in Prince death"**](https://apnews.com/744a34089a8241df95a836b358741ace) in [Associated Press News](https://apnews.com/) on 29 April 2016 about Atlanta (place), Carver County, Illinois (place), Sheila E. ([mirror](https://web.archive.org/web/*/https://apnews.com/744a34089a8241df95a836b358741ace))
+ - [**"APNewsBreak: Investigators look at overdose in Prince death"**](https://apnews.com/744a34089a8241df95a836b358741ace) in [Associated Press News](https://apnews.com/) on 29 April 2016 about Atlanta (place), Carver County, Illinois (place), Michael Jackson, Sheila E. ([mirror](https://web.archive.org/web/*/https://apnews.com/744a34089a8241df95a836b358741ace))
 
 ----
 
- - [**"Fans’ Holy Grail: unreleased songs in Prince’s vault"**](https://apnews.com/73b9ba74daa4423bb36ac62d4655a71b) in [Associated Press News](https://apnews.com/) on 29 April 2016 about Bangles, Bremer Trust, Miles Davis, Spotify, Tyka Nelson, vault ([mirror](https://web.archive.org/web/*/https://apnews.com/73b9ba74daa4423bb36ac62d4655a71b))
+ - [**"Fans’ Holy Grail: unreleased songs in Prince’s vault"**](https://apnews.com/73b9ba74daa4423bb36ac62d4655a71b) in [Associated Press News](https://apnews.com/) on 29 April 2016 about Bangles, Bremer Trust, Michael Jackson, Miles Davis, Spotify, Tyka Nelson, vault ([mirror](https://web.archive.org/web/*/https://apnews.com/73b9ba74daa4423bb36ac62d4655a71b))
 
 ----
 
@@ -1206,11 +1206,11 @@
 
 ----
 
- - [**"Prince death investigation focuses on flight, drugs, doctor"**](https://apnews.com/175b0bd7f6f641b1b9b90b268bb3375e) in [Associated Press News](https://apnews.com/) on 29 April 2016 about Atlanta (place), Carver County, Illinois (place), Moline, Illinois (place), Sheila E. ([mirror](https://web.archive.org/web/*/https://apnews.com/175b0bd7f6f641b1b9b90b268bb3375e))
+ - [**"Prince death investigation focuses on flight, drugs, doctor"**](https://apnews.com/175b0bd7f6f641b1b9b90b268bb3375e) in [Associated Press News](https://apnews.com/) on 29 April 2016 about Atlanta (place), Carver County, Illinois (place), Michael Jackson, Moline, Illinois (place), Sheila E. ([mirror](https://web.archive.org/web/*/https://apnews.com/175b0bd7f6f641b1b9b90b268bb3375e))
 
 ----
 
- - [**"Prince's 'Purple Rain' coat is up for auction"**](http://www.startribune.com/ap-exclusive-prince-s-purple-rain-coat-is-up-for-auction/377542161/) by Nicole Evatt (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 29 April 2016 about Apollonia Kotero, auction, Katy Perry, motorcycle ([mirror](https://web.archive.org/web/*/http://www.startribune.com/ap-exclusive-prince-s-purple-rain-coat-is-up-for-auction/377542161/))
+ - [**"Prince's 'Purple Rain' coat is up for auction"**](http://www.startribune.com/ap-exclusive-prince-s-purple-rain-coat-is-up-for-auction/377542161/) by Nicole Evatt (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 29 April 2016 about Apollonia Kotero, auction, Katy Perry, Michael Jackson, motorcycle ([mirror](https://web.archive.org/web/*/http://www.startribune.com/ap-exclusive-prince-s-purple-rain-coat-is-up-for-auction/377542161/))
 
 ----
 
@@ -1230,11 +1230,11 @@
 
 ----
 
- - [**"Prince Remembered by Childhood Best Friend and Bandmate André Cymone : 'There Was a Lot More to Him Than What People Saw'"**](https://www.billboard.com/articles/news/magazine-feature/7348518/prince-childhood-friend-bassist-andre-cymone-remembrance) in [Billboard](https://www.billboard.com/) on 28 April 2016 about André Cymone, Morris Day ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/magazine-feature/7348518/prince-childhood-friend-bassist-andre-cymone-remembrance))
+ - [**"Prince Remembered by Childhood Best Friend and Bandmate André Cymone : 'There Was a Lot More to Him Than What People Saw'"**](https://www.billboard.com/articles/news/magazine-feature/7348518/prince-childhood-friend-bassist-andre-cymone-remembrance) in [Billboard](https://www.billboard.com/) on 28 April 2016 about André Cymone, Michael Jackson, Morris Day ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/magazine-feature/7348518/prince-childhood-friend-bassist-andre-cymone-remembrance))
 
 ----
 
- - [**"Prince’s estate to be temporarily managed by trust company"**](https://apnews.com/606153a12f3041b8b76186c824538183) in [Associated Press News](https://apnews.com/) on 28 April 2016 about Bremer Trust, Kevin Eide, Omarr Baker, Tyka Nelson ([mirror](https://web.archive.org/web/*/https://apnews.com/606153a12f3041b8b76186c824538183))
+ - [**"Prince’s estate to be temporarily managed by trust company"**](https://apnews.com/606153a12f3041b8b76186c824538183) in [Associated Press News](https://apnews.com/) on 28 April 2016 about Bremer Trust, Kevin Eide, Michael Jackson, Omarr Baker, Tyka Nelson ([mirror](https://web.archive.org/web/*/https://apnews.com/606153a12f3041b8b76186c824538183))
 
 ----
 
@@ -1278,7 +1278,7 @@
 
 ----
 
- - [**"Prince’s sister says musician had no known will"**](https://apnews.com/b7bcc90e42904f679c07158bf5e851a3) in [Associated Press News](https://apnews.com/) on 27 April 2016 about Bremer Trust, Carver County, First Avenue (place), Tyka Nelson, University of Minnesota ([mirror](https://web.archive.org/web/*/https://apnews.com/b7bcc90e42904f679c07158bf5e851a3))
+ - [**"Prince’s sister says musician had no known will"**](https://apnews.com/b7bcc90e42904f679c07158bf5e851a3) in [Associated Press News](https://apnews.com/) on 27 April 2016 about Bremer Trust, Carver County, First Avenue (place), Michael Jackson, Tyka Nelson, University of Minnesota ([mirror](https://web.archive.org/web/*/https://apnews.com/b7bcc90e42904f679c07158bf5e851a3))
 
 ----
 
@@ -1298,11 +1298,11 @@
 
 ----
 
- - [**"Prince’s lawyer: Death a shock; singer led clean lifestyle"**](https://apnews.com/18fe9c0f0a124d55a91156e8c1865ab6) by Nekesa Mumbi Moody (Associated Press) in [Associated Press News](https://apnews.com/) on 26 April 2016 about Illinois (place), Moline, Illinois (place), Warner Bros. Records ([mirror](https://web.archive.org/web/*/https://apnews.com/18fe9c0f0a124d55a91156e8c1865ab6))
+ - [**"Prince’s lawyer: Death a shock; singer led clean lifestyle"**](https://apnews.com/18fe9c0f0a124d55a91156e8c1865ab6) by Nekesa Mumbi Moody (Associated Press) in [Associated Press News](https://apnews.com/) on 26 April 2016 about Illinois (place), Michael Jackson, Moline, Illinois (place), Warner Bros. Records ([mirror](https://web.archive.org/web/*/https://apnews.com/18fe9c0f0a124d55a91156e8c1865ab6))
 
 ----
 
- - [**"Prince's estate: 6 key questions answered"**](https://usatoday.com/story/life/music/2016/04/25/prince-dies-estate-six-key-questions/83504318/) in [USA Today](https://usatoday.com/) on 26 April 2016 about contract, IRS, Owen Husney, Tyka Nelson, vault ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2016/04/25/prince-dies-estate-six-key-questions/83504318/))
+ - [**"Prince's estate: 6 key questions answered"**](https://usatoday.com/story/life/music/2016/04/25/prince-dies-estate-six-key-questions/83504318/) in [USA Today](https://usatoday.com/) on 26 April 2016 about contract, IRS, Michael Jackson, Owen Husney, Tyka Nelson, vault ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2016/04/25/prince-dies-estate-six-key-questions/83504318/))
 
 ----
 
@@ -1442,7 +1442,7 @@
 
 ----
 
- - [**"Nashville mourns a Prince"**](https://eu.tennessean.com/story/entertainment/music/2016/04/21/nashville-musicians-remember-prince/83340932/) in [Tennessean](https://tennessean.com/) on 22 April 2016 about Laura LiPuma, museum, Super Bowl ([mirror](https://web.archive.org/web/*/https://eu.tennessean.com/story/entertainment/music/2016/04/21/nashville-musicians-remember-prince/83340932/))
+ - [**"Nashville mourns a Prince"**](https://eu.tennessean.com/story/entertainment/music/2016/04/21/nashville-musicians-remember-prince/83340932/) in [Tennessean](https://tennessean.com/) on 22 April 2016 about Laura LiPuma, Michael Jackson, museum, Super Bowl ([mirror](https://web.archive.org/web/*/https://eu.tennessean.com/story/entertainment/music/2016/04/21/nashville-musicians-remember-prince/83340932/))
 
 ----
 
@@ -1450,7 +1450,7 @@
 
 ----
 
- - [**"Oprah, Mick Jagger among celebs to react to Prince’s death"**](https://apnews.com/ad3076cbbe69473495debc13e52669c5) in [Associated Press News](https://apnews.com/) on 22 April 2016 about Albert Magnoli, Grammy Award, Judith Hill, Lisa Coleman, Obama, Rita Ora, Spike Lee, Super Bowl, The Revolution, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://apnews.com/ad3076cbbe69473495debc13e52669c5))
+ - [**"Oprah, Mick Jagger among celebs to react to Prince’s death"**](https://apnews.com/ad3076cbbe69473495debc13e52669c5) in [Associated Press News](https://apnews.com/) on 22 April 2016 about Albert Magnoli, Grammy Award, Judith Hill, Lisa Coleman, Michael Jackson, Obama, Rita Ora, Spike Lee, Super Bowl, The Revolution, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://apnews.com/ad3076cbbe69473495debc13e52669c5))
 
 ----
 
@@ -1510,7 +1510,7 @@
 
 ----
 
- - [**"AXS TV Celebrates The Life And Legacy Of Music Icon Prince With A Special Programming Lineup On Saturday, April 23 -- The Tribute Features the Prince Edition of ROCK LEGENDS at 1 P.M. ET/10 A.M. PT, and the Television Premiere of the Acclaimed Documentary SLAVE TRADE: HOW PRINCE RE-MADE THE MUSIC BUSINESS at 2 P.M. ET/11 A.M. PT"**](https://www.prnewswire.com/news-releases/axs-tv-celebrates-the-life-and-legacy-of-music-icon-prince-with-a-special-programming-lineup-on-saturday-april-23-300255801.html) in [PR Newswire](https://www.prnewswire.com/) on 21 April 2016 about Slave Trade: How Prince Re-Made the Music Business (documentary), Super Bowl ([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/axs-tv-celebrates-the-life-and-legacy-of-music-icon-prince-with-a-special-programming-lineup-on-saturday-april-23-300255801.html))
+ - [**"AXS TV Celebrates The Life And Legacy Of Music Icon Prince With A Special Programming Lineup On Saturday, April 23 -- The Tribute Features the Prince Edition of ROCK LEGENDS at 1 P.M. ET/10 A.M. PT, and the Television Premiere of the Acclaimed Documentary SLAVE TRADE: HOW PRINCE RE-MADE THE MUSIC BUSINESS at 2 P.M. ET/11 A.M. PT"**](https://www.prnewswire.com/news-releases/axs-tv-celebrates-the-life-and-legacy-of-music-icon-prince-with-a-special-programming-lineup-on-saturday-april-23-300255801.html) in [PR Newswire](https://www.prnewswire.com/) on 21 April 2016 about Michael Jackson, Slave Trade: How Prince Re-Made the Music Business (documentary), Super Bowl ([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/axs-tv-celebrates-the-life-and-legacy-of-music-icon-prince-with-a-special-programming-lineup-on-saturday-april-23-300255801.html))
 
 ----
 
@@ -1550,7 +1550,7 @@
 
 ----
 
- - [**"Prince Dies at 57: Iconic Musical Genius Found Dead in Paisley Park"**](https://www.billboard.com/articles/news/7341522/prince-dead) in [Billboard](https://www.billboard.com/) on 21 April 2016 about 1999 (album), Around The World In A Day (album), Batdance (song), Carver County, Chaos and Disorder (album), contract, For You (album), Grammy Award, New Power Generation, Purple Rain (album), Purple Rain (movie), The Revolution, TMZ (website), vault, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/7341522/prince-dead))
+ - [**"Prince Dies at 57: Iconic Musical Genius Found Dead in Paisley Park"**](https://www.billboard.com/articles/news/7341522/prince-dead) in [Billboard](https://www.billboard.com/) on 21 April 2016 about 1999 (album), Around The World In A Day (album), Batdance (song), Carver County, Chaos and Disorder (album), contract, For You (album), Grammy Award, Michael Jackson, New Power Generation, Purple Rain (album), Purple Rain (movie), The Revolution, TMZ (website), vault, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/7341522/prince-dead))
 
 ----
 
@@ -1690,7 +1690,7 @@
 
 ----
 
- - [**"Paean to Prince: 15 Fascinating Facts About His Purple Majesty -- Juicy secrets from a legendary music career, collected by an infatuated fan"**](https://medium.com/cuepoint/paean-to-prince-15-fascinating-facts-about-his-purple-majesty-6aa627d1d17e) in [Cuepoint](https://medium.com/cuepoint/) on 10 February 2016 about Alan Light, Albert Magnoli, Apollonia 6, Dave Chappelle, Janet Jackson, Jehovah’s Witness, Jesse Johnson, Jimmy Jam, Joni Mitchell, Larry Graham, Lisa Coleman, Matt Fink, memoir, Morris Day, Questlove, Quincy Jones, Sheila E., Stand Back (song), Stevie Nicks, Sunset Sound (place), Susan Rogers, Terry Lewis, The Revolution, Vagina (song), Vanity, Vanity 6 ([mirror](https://web.archive.org/web/*/https://medium.com/cuepoint/paean-to-prince-15-fascinating-facts-about-his-purple-majesty-6aa627d1d17e))
+ - [**"Paean to Prince: 15 Fascinating Facts About His Purple Majesty -- Juicy secrets from a legendary music career, collected by an infatuated fan"**](https://medium.com/cuepoint/paean-to-prince-15-fascinating-facts-about-his-purple-majesty-6aa627d1d17e) in [Cuepoint](https://medium.com/cuepoint/) on 10 February 2016 about Alan Light, Albert Magnoli, Apollonia 6, Dave Chappelle, Janet Jackson, Jehovah’s Witness, Jesse Johnson, Jimmy Jam, Joni Mitchell, Larry Graham, Lisa Coleman, Matt Fink, memoir, Michael Jackson, Morris Day, Questlove, Quincy Jones, Sheila E., Stand Back (song), Stevie Nicks, Sunset Sound (place), Susan Rogers, Terry Lewis, The Revolution, Vagina (song), Vanity, Vanity 6 ([mirror](https://web.archive.org/web/*/https://medium.com/cuepoint/paean-to-prince-15-fascinating-facts-about-his-purple-majesty-6aa627d1d17e))
 
 ----
 

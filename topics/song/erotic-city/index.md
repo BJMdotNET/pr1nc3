@@ -16,7 +16,7 @@
 
 ----
 
- - [**"Sheila E.’s Debut Album ‘The Glamorous Life’ Turns 35: Anniversary Retrospective -- Happy 35th Anniversary to Sheila E.’s debut album The Glamorous Life, originally released June 4, 1984."**](https://www.albumism.com/features/sheila-e-debut-album-the-glamorous-life-turns-35-anniversary-retrospective) by Andy Healy in [Albumism](https://www.albumism.com/) on 2 June 2019 about Condition of the Heart (song), Erotic City (song), Jesse Johnson, Let’s Go Crazy (song), Next Time Wipe The Lipstick Off Your Collar (song), Noon Rendezvous (song), Oliver’s House (song), Sheila E., Shortberry Strawcake (song), The Belle of St. Mark (song), The Glamorous Life (album), The Glamorous Life (song), The Starr Company, The Time ([mirror](https://web.archive.org/web/*/https://www.albumism.com/features/sheila-e-debut-album-the-glamorous-life-turns-35-anniversary-retrospective))
+ - [**"Sheila E.’s Debut Album ‘The Glamorous Life’ Turns 35: Anniversary Retrospective -- Happy 35th Anniversary to Sheila E.’s debut album The Glamorous Life, originally released June 4, 1984."**](https://www.albumism.com/features/sheila-e-debut-album-the-glamorous-life-turns-35-anniversary-retrospective) by Andy Healy in [Albumism](https://www.albumism.com/) on 2 June 2019 about Condition of the Heart (song), Erotic City (song), Jesse Johnson, Let’s Go Crazy (song), Michael Jackson, Next Time Wipe The Lipstick Off Your Collar (song), Noon Rendezvous (song), Oliver’s House (song), Sheila E., Shortberry Strawcake (song), The Belle of St. Mark (song), The Glamorous Life (album), The Glamorous Life (song), The Starr Company, The Time ([mirror](https://web.archive.org/web/*/https://www.albumism.com/features/sheila-e-debut-album-the-glamorous-life-turns-35-anniversary-retrospective))
 
 ----
 
@@ -36,6 +36,10 @@
 
 ----
 
+ - [**"Details of Prince's expanded 'Purple Rain' reissue revealed, coming June 23"**](http://www.startribune.com/details-of-prince-s-expanded-purple-rain-reissue-revealed-coming-june-23/420722973/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 28 April 2017 about 17 Days (song), bootleg, Erotic City (song), First Avenue (place), Minnesota Dance Theatre, NPG Records, Our Destiny (song), Possessed (song), Purple Rain (album), Purple Rain (song), Roadhouse Garden (song), The Beautiful Ones (song), The Revolution, vault, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/details-of-prince-s-expanded-purple-rain-reissue-revealed-coming-june-23/420722973/))
+
+----
+
  - [**"Tracklist for Prince’s ‘Purple Rain’ Deluxe Edition Leaks — Unreleased Tracks Revealed"**](https://variety.com/2017/music/news/prince-purple-rain-deluxe-tracklist-leaks-1202390479/) by Jem Aswad in [Variety](https://variety.com/) on 19 April 2017 about 17 Days (song), Baby I’m a Star (song), Computer Blue (song), Erotic City (song), George Clinton, Graffiti Bridge (album), I Would Die 4 U (song), James Brown, Katrina’s Paper Dolls (song), Let’s Go Crazy (song), Love and Sex (song), Our Destiny (song), Possessed (song), Purple Rain (album), Purple Rain (song), Roadhouse Garden (song), Take Me with U (song), The Beautiful Ones (song), The Dance Electric (song), The Revolution, Velvet Kitty Cat (song), When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://variety.com/2017/music/news/prince-purple-rain-deluxe-tracklist-leaks-1202390479/))
 
 ----
@@ -44,7 +48,7 @@
 
 ----
 
- - [**"Spike Lee throws dance party ahead of Prince’s 58th birthday"**](https://apnews.com/780ae6981b534a27be2f65bf10470f6e) in [Associated Press News](https://apnews.com/) on 5 June 2016 about Celebration, Erotic City (song), fentanyl, Spike Lee, Starfish And Coffee (song), When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://apnews.com/780ae6981b534a27be2f65bf10470f6e))
+ - [**"Spike Lee throws dance party ahead of Prince’s 58th birthday"**](https://apnews.com/780ae6981b534a27be2f65bf10470f6e) in [Associated Press News](https://apnews.com/) on 5 June 2016 about Celebration, Erotic City (song), fentanyl, Michael Jackson, Spike Lee, Starfish And Coffee (song), When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://apnews.com/780ae6981b534a27be2f65bf10470f6e))
 
 ----
 

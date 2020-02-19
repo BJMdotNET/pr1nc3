@@ -66,7 +66,7 @@
 
 ----
 
- - [**"Michael Jackson’s glove, Nirvana’s MTV moon man up for bid"**](https://apnews.com/2ce5075522554dca83f0b6b384c122eb) in [Associated Press News](https://apnews.com/) on 13 October 2017 about auction ([mirror](https://web.archive.org/web/*/https://apnews.com/2ce5075522554dca83f0b6b384c122eb))
+ - [**"Michael Jackson’s glove, Nirvana’s MTV moon man up for bid"**](https://apnews.com/2ce5075522554dca83f0b6b384c122eb) in [Associated Press News](https://apnews.com/) on 13 October 2017 about auction, Michael Jackson ([mirror](https://web.archive.org/web/*/https://apnews.com/2ce5075522554dca83f0b6b384c122eb))
 
 ----
 
@@ -228,7 +228,7 @@
 
 ## January 2017 (6)
 
- - [**"Tax deadline looms for Prince estate; government to get half"**](https://apnews.com/79450a727b23422e94e3ded9a5f9fcff) by Steve Karnowski (Associated Press) in [Associated Press News](https://apnews.com/) on 17 January 2017 about Prince Estate, Robert Strauss, The Prince Estate ([mirror](https://web.archive.org/web/*/https://apnews.com/79450a727b23422e94e3ded9a5f9fcff))
+ - [**"Tax deadline looms for Prince estate; government to get half"**](https://apnews.com/79450a727b23422e94e3ded9a5f9fcff) by Steve Karnowski (Associated Press) in [Associated Press News](https://apnews.com/) on 17 January 2017 about Michael Jackson, Prince Estate, Robert Strauss, The Prince Estate ([mirror](https://web.archive.org/web/*/https://apnews.com/79450a727b23422e94e3ded9a5f9fcff))
 
 ----
 
@@ -236,7 +236,7 @@
 
 ----
 
- - [**"Judge: Appeals holding up Prince estate determination"**](https://apnews.com/c26a8f91fcbc4e25b4138a17edc9c56e) in [Associated Press News](https://apnews.com/) on 12 January 2017 about Alfred Jackson, Bremer Trust, Carver County, contract, John Nelson, Kevin Eide, Omarr Baker, Prince Estate, Tyka Nelson, Van Jones ([mirror](https://web.archive.org/web/*/https://apnews.com/c26a8f91fcbc4e25b4138a17edc9c56e))
+ - [**"Judge: Appeals holding up Prince estate determination"**](https://apnews.com/c26a8f91fcbc4e25b4138a17edc9c56e) in [Associated Press News](https://apnews.com/) on 12 January 2017 about Alfred Jackson, Bremer Trust, Carver County, contract, John Nelson, Kevin Eide, Michael Jackson, Omarr Baker, Prince Estate, Tyka Nelson, Van Jones ([mirror](https://web.archive.org/web/*/https://apnews.com/c26a8f91fcbc4e25b4138a17edc9c56e))
 
 ----
 

@@ -12,7 +12,7 @@
 
 ## September 2019 (1)
 
- - [**"Prince wanted his memoir “to be the biggest music book of all time” -- An abridged version of The Beautiful Ones will see release in October"**](https://consequenceofsound.net/2019/09/prince-memoir-backstory/) in [Consequence of Sound](https://consequenceofsound.net/) on 9 September 2019 about Dan Piepenbring, memoir, Miles Davis, Random House , The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/https://consequenceofsound.net/2019/09/prince-memoir-backstory/))
+ - [**"Prince wanted his memoir “to be the biggest music book of all time” -- An abridged version of The Beautiful Ones will see release in October"**](https://consequenceofsound.net/2019/09/prince-memoir-backstory/) in [Consequence of Sound](https://consequenceofsound.net/) on 9 September 2019 about Dan Piepenbring, memoir, Michael Jackson, Miles Davis, Random House , The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/https://consequenceofsound.net/2019/09/prince-memoir-backstory/))
 
 ----
 

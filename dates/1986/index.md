@@ -2,7 +2,7 @@
 
 ## October 1986 (1)
 
- - [**"People In The News"**](https://apnews.com/68d6ee2a071cbb3c83fc9defc5343edb) in [Associated Press News](https://apnews.com/) on 17 October 1986 about Dakota (place), Lisa Coleman, PRINCEss, The Revolution, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://apnews.com/68d6ee2a071cbb3c83fc9defc5343edb))
+ - [**"People In The News"**](https://apnews.com/68d6ee2a071cbb3c83fc9defc5343edb) in [Associated Press News](https://apnews.com/) on 17 October 1986 about Dakota (place), Lisa Coleman, Michael Jackson, PRINCEss, The Revolution, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://apnews.com/68d6ee2a071cbb3c83fc9defc5343edb))
 
 ----
 
@@ -16,7 +16,7 @@
 
 ----
 
- - [**"Prince: Our 1986 Cover Story -- A stranger in a strange land, Prince set out to create his own magical kingdom, where all he needs is your—kiss."**](https://www.spin.com/featured/prince-july-1986-cover-story-black-narcissus/) in [Spin](https://www.spin.com/) on 1 July 1986 about I Wanna Be Your Lover (song), James Brown, Jamie Starr, Morris Day, Stevie Wonder, Vanity, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.spin.com/featured/prince-july-1986-cover-story-black-narcissus/))
+ - [**"Prince: Our 1986 Cover Story -- A stranger in a strange land, Prince set out to create his own magical kingdom, where all he needs is your—kiss."**](https://www.spin.com/featured/prince-july-1986-cover-story-black-narcissus/) in [Spin](https://www.spin.com/) on 1 July 1986 about I Wanna Be Your Lover (song), James Brown, Jamie Starr, Michael Jackson, Morris Day, Stevie Wonder, Vanity, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.spin.com/featured/prince-july-1986-cover-story-black-narcissus/))
 
 ----
 

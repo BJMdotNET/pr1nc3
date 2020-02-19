@@ -1,6 +1,10 @@
 # Super Bowl
 
- - [**"10 Best Super Bowl Halftime Shows"**](https://www.billboard.com/articles/list/513793/super-bowl-halftime-shows-10-best) in [Billboard](https://www.billboard.com/) on 31 January 2020 about Beck, Beyoncé, Bruce Springsteen, CeeLo Green, Coldplay, Janet Jackson, Justin Timberlake, Madonna, Purple Rain (song), Super Bowl ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/list/513793/super-bowl-halftime-shows-10-best))
+ - [**"Sports Gumbo Recipe #8: Prince and Pelicans and Protest Bowls"**](https://www.myneworleans.com/sports-gumbo-recipe-8-prince-and-pelicans-and-protest-bowls/) in [www.myneworleans.com](https://www.myneworleans.com/) on 3 February 2020 about Purple Rain (song), Super Bowl, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/https://www.myneworleans.com/sports-gumbo-recipe-8-prince-and-pelicans-and-protest-bowls/))
+
+----
+
+ - [**"10 Best Super Bowl Halftime Shows"**](https://www.billboard.com/articles/list/513793/super-bowl-halftime-shows-10-best) in [Billboard](https://www.billboard.com/) on 31 January 2020 about Beck, Beyoncé, Bruce Springsteen, CeeLo Green, Coldplay, Janet Jackson, Justin Timberlake, Madonna, Michael Jackson, Purple Rain (song), Super Bowl, We Are the World (song) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/list/513793/super-bowl-halftime-shows-10-best))
 
 ----
 
@@ -24,7 +28,7 @@
 
 ----
 
- - [**"Pure Magic: The Oral History of Prince’s Super Bowl XLI Halftime Show -- As the heavens opened up and rain poured down, the Purple One ran through a handful of covers and some of his own songs, delivering an iconic set on the biggest stage possible and only expanding his legend"**](https://www.theringer.com/music/2020/1/29/21112539/prince-halftime-show-oral-history-super-bowl-xli) in [www.theringer.com](https://www.theringer.com/) on 29 January 2020 about 1999 (song), airport, Baby I’m a Star (song), contract, Dan Piepenbring, Darling Nikki (song), Foo Fighters, Janet Jackson, Justin Timberlake, Little Red Corvette (song), memoir, Morris Hayes, Purple Rain (song), Raspberry Beret (song), Shelby J., Super Bowl, Super Bowl XLI (event) ([mirror](https://web.archive.org/web/*/https://www.theringer.com/music/2020/1/29/21112539/prince-halftime-show-oral-history-super-bowl-xli))
+ - [**"Pure Magic: The Oral History of Prince’s Super Bowl XLI Halftime Show -- As the heavens opened up and rain poured down, the Purple One ran through a handful of covers and some of his own songs, delivering an iconic set on the biggest stage possible and only expanding his legend"**](https://www.theringer.com/music/2020/1/29/21112539/prince-halftime-show-oral-history-super-bowl-xli) in [www.theringer.com](https://www.theringer.com/) on 29 January 2020 about 1999 (song), airport, Baby I’m a Star (song), contract, Dan Piepenbring, Darling Nikki (song), Foo Fighters, Janet Jackson, Justin Timberlake, Little Red Corvette (song), memoir, Michael Jackson, Morris Hayes, Purple Rain (song), Raspberry Beret (song), Shelby J., Super Bowl, Super Bowl XLI (event) ([mirror](https://web.archive.org/web/*/https://www.theringer.com/music/2020/1/29/21112539/prince-halftime-show-oral-history-super-bowl-xli))
 
 ----
 
@@ -52,11 +56,11 @@
 
 ----
 
- - [**"Prince: The Story of 1999, Episode 4: Let's Work"**](https://www.thecurrent.org/feature/2019/12/10/prince-the-story-of-1999-episode-4-lets-work-swensson) in [The Current](https://www.thecurrent.org/) on 10 December 2019 about 1999 (album), 1999 Super Deluxe (album), Alabama Shakes, Andrea Swensson, Brittany Howard, Dez Dickerson, Essence Fest, Fred Armisen, How Come U Don't Call Me Anymore (song), I Wanna Be Your Lover (song), Jellybean Johnson, LeRoy Bennett, Lisa Coleman, Little Red Corvette (song), Matt Fink, Maya Rudolph, Michael Howe, Nile Rodgers, Parade (album), Prince Estate, Prince: The Story of 1999, Saturday Night Live (TV show), Spotify, Super Bowl, The Prince Estate, The Revolution, Vanity, Vanity 6, vault ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/12/10/prince-the-story-of-1999-episode-4-lets-work-swensson))
+ - [**"Prince: The Story of 1999, Episode 4: Let's Work"**](https://www.thecurrent.org/feature/2019/12/10/prince-the-story-of-1999-episode-4-lets-work-swensson) in [The Current](https://www.thecurrent.org/) on 10 December 2019 about 1999 (album), 1999 Super Deluxe (album), Alabama Shakes, Andrea Swensson, Brittany Howard, Dez Dickerson, Essence Fest, Fred Armisen, How Come U Don't Call Me Anymore (song), I Wanna Be Your Lover (song), Jellybean Johnson, LeRoy Bennett, Lisa Coleman, Little Red Corvette (song), Matt Fink, Maya Rudolph, Michael Howe, Michael Jackson, Nile Rodgers, Parade (album), Prince Estate, Prince: The Story of 1999, Saturday Night Live (TV show), Spotify, Super Bowl, The Prince Estate, The Revolution, Vanity, Vanity 6, vault ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/12/10/prince-the-story-of-1999-episode-4-lets-work-swensson))
 
 ----
 
- - [**"PAISLEY PARK IS IN YOUR HEART: A VISIT TO PRINCE'S MAGICAL MINNEAPOLIS KINGDOM -- WITH PRINCE'S MEMOIR JUST OUT AND A REMASTERED "1999" ON THE WAY, IT'S THE PERFECT TIME TO DO A PURPLE-COLORED TOUR OF MINNEAPOLIS."**](https://www.newsweek.com/paisley-park-your-heart-visit-princes-magical-minneapolis-kingdom-1472087) in [Newsweek](https://www.newsweek.com/) on 15 November 2019 about Academy Award, Chappelle's Show (TV show), Electric Fetus (place), First Avenue (place), George Clinton, Grammy Award, James Brown, memoir, merchandise, motorcycle, museum, Stevie Wonder, Super Bowl, vault ([mirror](https://web.archive.org/web/*/https://www.newsweek.com/paisley-park-your-heart-visit-princes-magical-minneapolis-kingdom-1472087))
+ - [**"PAISLEY PARK IS IN YOUR HEART: A VISIT TO PRINCE'S MAGICAL MINNEAPOLIS KINGDOM -- WITH PRINCE'S MEMOIR JUST OUT AND A REMASTERED "1999" ON THE WAY, IT'S THE PERFECT TIME TO DO A PURPLE-COLORED TOUR OF MINNEAPOLIS."**](https://www.newsweek.com/paisley-park-your-heart-visit-princes-magical-minneapolis-kingdom-1472087) in [Newsweek](https://www.newsweek.com/) on 15 November 2019 about Academy Award, Chappelle's Show (TV show), Electric Fetus (place), First Avenue (place), George Clinton, Grammy Award, James Brown, memoir, merchandise, Michael Jackson, motorcycle, museum, Stevie Wonder, Super Bowl, vault ([mirror](https://web.archive.org/web/*/https://www.newsweek.com/paisley-park-your-heart-visit-princes-magical-minneapolis-kingdom-1472087))
 
 ----
 
@@ -192,7 +196,7 @@
 
 ----
 
- - [**"Nashville mourns a Prince"**](https://eu.tennessean.com/story/entertainment/music/2016/04/21/nashville-musicians-remember-prince/83340932/) in [Tennessean](https://tennessean.com/) on 22 April 2016 about Laura LiPuma, museum, Super Bowl ([mirror](https://web.archive.org/web/*/https://eu.tennessean.com/story/entertainment/music/2016/04/21/nashville-musicians-remember-prince/83340932/))
+ - [**"Nashville mourns a Prince"**](https://eu.tennessean.com/story/entertainment/music/2016/04/21/nashville-musicians-remember-prince/83340932/) in [Tennessean](https://tennessean.com/) on 22 April 2016 about Laura LiPuma, Michael Jackson, museum, Super Bowl ([mirror](https://web.archive.org/web/*/https://eu.tennessean.com/story/entertainment/music/2016/04/21/nashville-musicians-remember-prince/83340932/))
 
 ----
 
@@ -200,7 +204,7 @@
 
 ----
 
- - [**"Oprah, Mick Jagger among celebs to react to Prince’s death"**](https://apnews.com/ad3076cbbe69473495debc13e52669c5) in [Associated Press News](https://apnews.com/) on 22 April 2016 about Albert Magnoli, Grammy Award, Judith Hill, Lisa Coleman, Obama, Rita Ora, Spike Lee, Super Bowl, The Revolution, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://apnews.com/ad3076cbbe69473495debc13e52669c5))
+ - [**"Oprah, Mick Jagger among celebs to react to Prince’s death"**](https://apnews.com/ad3076cbbe69473495debc13e52669c5) in [Associated Press News](https://apnews.com/) on 22 April 2016 about Albert Magnoli, Grammy Award, Judith Hill, Lisa Coleman, Michael Jackson, Obama, Rita Ora, Spike Lee, Super Bowl, The Revolution, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://apnews.com/ad3076cbbe69473495debc13e52669c5))
 
 ----
 
@@ -208,7 +212,7 @@
 
 ----
 
- - [**"AXS TV Celebrates The Life And Legacy Of Music Icon Prince With A Special Programming Lineup On Saturday, April 23 -- The Tribute Features the Prince Edition of ROCK LEGENDS at 1 P.M. ET/10 A.M. PT, and the Television Premiere of the Acclaimed Documentary SLAVE TRADE: HOW PRINCE RE-MADE THE MUSIC BUSINESS at 2 P.M. ET/11 A.M. PT"**](https://www.prnewswire.com/news-releases/axs-tv-celebrates-the-life-and-legacy-of-music-icon-prince-with-a-special-programming-lineup-on-saturday-april-23-300255801.html) in [PR Newswire](https://www.prnewswire.com/) on 21 April 2016 about Slave Trade: How Prince Re-Made the Music Business (documentary), Super Bowl ([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/axs-tv-celebrates-the-life-and-legacy-of-music-icon-prince-with-a-special-programming-lineup-on-saturday-april-23-300255801.html))
+ - [**"AXS TV Celebrates The Life And Legacy Of Music Icon Prince With A Special Programming Lineup On Saturday, April 23 -- The Tribute Features the Prince Edition of ROCK LEGENDS at 1 P.M. ET/10 A.M. PT, and the Television Premiere of the Acclaimed Documentary SLAVE TRADE: HOW PRINCE RE-MADE THE MUSIC BUSINESS at 2 P.M. ET/11 A.M. PT"**](https://www.prnewswire.com/news-releases/axs-tv-celebrates-the-life-and-legacy-of-music-icon-prince-with-a-special-programming-lineup-on-saturday-april-23-300255801.html) in [PR Newswire](https://www.prnewswire.com/) on 21 April 2016 about Michael Jackson, Slave Trade: How Prince Re-Made the Music Business (documentary), Super Bowl ([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/axs-tv-celebrates-the-life-and-legacy-of-music-icon-prince-with-a-special-programming-lineup-on-saturday-april-23-300255801.html))
 
 ----
 

@@ -1,5 +1,19 @@
 # 2020
 
+## February 2020 (3)
+
+ - [**"What’s it like to see a show at the new Fillmore music club in North Loop? We’re glad you asked."**](http://www.citypages.com/music/whats-it-like-to-see-a-show-at-the-new-fillmore-music-club-in-north-loop-were-glad-you-asked/567979071) in [City Pages](http://www.citypages.com/) on 19 February 2020 about Fillmore Minneapolis (place), First Avenue (place), Xcel Energy Center (place) ([mirror](https://web.archive.org/web/*/http://www.citypages.com/music/whats-it-like-to-see-a-show-at-the-new-fillmore-music-club-in-north-loop-were-glad-you-asked/567979071))
+
+----
+
+ - [**"Crew love, dancing silhouettes, and ruined weddings in this week’s Top 5 MN music videos"**](http://www.citypages.com/music/crew-love-dancing-silhouettes-and-ruined-weddings-in-this-weeks-top-5-mn-music-videos/567947841) in [City Pages](http://www.citypages.com/) on 18 February 2020 ([mirror](https://web.archive.org/web/*/http://www.citypages.com/music/crew-love-dancing-silhouettes-and-ruined-weddings-in-this-weeks-top-5-mn-music-videos/567947841))
+
+----
+
+ - [**"Duluth woman paralyzed by huffing driver thinks 3M should pay"**](http://www.citypages.com/news/duluth-woman-paralyzed-by-huffing-driver-thinks-3m-should-pay/567809741) in [City Pages](http://www.citypages.com/) on 13 February 2020 ([mirror](https://web.archive.org/web/*/http://www.citypages.com/news/duluth-woman-paralyzed-by-huffing-driver-thinks-3m-should-pay/567809741))
+
+----
+
 ## January 2020 (4)
 
  - [**"Lizzo has conquered the world"**](http://www.citypages.com/music/lizzo-has-conquered-the-world/567199061) in [City Pages](http://www.citypages.com/) on 22 January 2020 about Lizzo ([mirror](https://web.archive.org/web/*/http://www.citypages.com/music/lizzo-has-conquered-the-world/567199061))

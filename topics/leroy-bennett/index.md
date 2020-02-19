@@ -4,7 +4,7 @@
 
 ----
 
- - [**"Prince: The Story of 1999, Episode 4: Let's Work"**](https://www.thecurrent.org/feature/2019/12/10/prince-the-story-of-1999-episode-4-lets-work-swensson) in [The Current](https://www.thecurrent.org/) on 10 December 2019 about 1999 (album), 1999 Super Deluxe (album), Alabama Shakes, Andrea Swensson, Brittany Howard, Dez Dickerson, Essence Fest, Fred Armisen, How Come U Don't Call Me Anymore (song), I Wanna Be Your Lover (song), Jellybean Johnson, LeRoy Bennett, Lisa Coleman, Little Red Corvette (song), Matt Fink, Maya Rudolph, Michael Howe, Nile Rodgers, Parade (album), Prince Estate, Prince: The Story of 1999, Saturday Night Live (TV show), Spotify, Super Bowl, The Prince Estate, The Revolution, Vanity, Vanity 6, vault ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/12/10/prince-the-story-of-1999-episode-4-lets-work-swensson))
+ - [**"Prince: The Story of 1999, Episode 4: Let's Work"**](https://www.thecurrent.org/feature/2019/12/10/prince-the-story-of-1999-episode-4-lets-work-swensson) in [The Current](https://www.thecurrent.org/) on 10 December 2019 about 1999 (album), 1999 Super Deluxe (album), Alabama Shakes, Andrea Swensson, Brittany Howard, Dez Dickerson, Essence Fest, Fred Armisen, How Come U Don't Call Me Anymore (song), I Wanna Be Your Lover (song), Jellybean Johnson, LeRoy Bennett, Lisa Coleman, Little Red Corvette (song), Matt Fink, Maya Rudolph, Michael Howe, Michael Jackson, Nile Rodgers, Parade (album), Prince Estate, Prince: The Story of 1999, Saturday Night Live (TV show), Spotify, Super Bowl, The Prince Estate, The Revolution, Vanity, Vanity 6, vault ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/12/10/prince-the-story-of-1999-episode-4-lets-work-swensson))
 
 ----
 
@@ -12,7 +12,7 @@
 
 ----
 
- - [**"From Prince To Paul McCartney To Bruno Mars, LeRoy Bennett Is the Man"**](https://www.forbes.com/sites/stevebaltin/2017/09/21/from-prince-to-paul-mccartney-to-bruno-mars-leroy-bennett-is-the-man/) by Steve Baltin in [Forbes](https://www.forbes.com/) on 21 September 2017 about Dirty Mind (album), LeRoy Bennett, Purple Rain (movie), Purple Rain (tour) ([mirror](https://web.archive.org/web/*/https://www.forbes.com/sites/stevebaltin/2017/09/21/from-prince-to-paul-mccartney-to-bruno-mars-leroy-bennett-is-the-man/))
+ - [**"From Prince To Paul McCartney To Bruno Mars, LeRoy Bennett Is the Man"**](https://www.forbes.com/sites/stevebaltin/2017/09/21/from-prince-to-paul-mccartney-to-bruno-mars-leroy-bennett-is-the-man/) by Steve Baltin in [Forbes](https://www.forbes.com/) on 21 September 2017 about Dirty Mind (album), LeRoy Bennett, Michael Jackson, Purple Rain (movie), Purple Rain (tour) ([mirror](https://web.archive.org/web/*/https://www.forbes.com/sites/stevebaltin/2017/09/21/from-prince-to-paul-mccartney-to-bruno-mars-leroy-bennett-is-the-man/))
 
 ----
 

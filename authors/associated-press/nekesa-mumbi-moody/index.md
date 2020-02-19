@@ -8,7 +8,7 @@
 
 ----
 
- - [**"Prince’s lawyer: Death a shock; singer led clean lifestyle"**](https://apnews.com/18fe9c0f0a124d55a91156e8c1865ab6) by Nekesa Mumbi Moody (Associated Press) in [Associated Press News](https://apnews.com/) on 26 April 2016 about Illinois (place), Moline, Illinois (place), Warner Bros. Records ([mirror](https://web.archive.org/web/*/https://apnews.com/18fe9c0f0a124d55a91156e8c1865ab6))
+ - [**"Prince’s lawyer: Death a shock; singer led clean lifestyle"**](https://apnews.com/18fe9c0f0a124d55a91156e8c1865ab6) by Nekesa Mumbi Moody (Associated Press) in [Associated Press News](https://apnews.com/) on 26 April 2016 about Illinois (place), Michael Jackson, Moline, Illinois (place), Warner Bros. Records ([mirror](https://web.archive.org/web/*/https://apnews.com/18fe9c0f0a124d55a91156e8c1865ab6))
 
 ----
 
@@ -20,7 +20,7 @@
 
 ----
 
- - [**"Memorable moments from Paisley Park"**](https://apnews.com/d341d2b22be74bf7843f3c485d527b18) by Nekesa Mumbi Moody (Associated Press) in [Associated Press News](https://apnews.com/) on 29 September 2014 about 3rdEyeGirl, Donna Grantis, FKA twigs, James Brown, Katy Perry, Larry Graham, Rita Ora, YouTube ([mirror](https://web.archive.org/web/*/https://apnews.com/d341d2b22be74bf7843f3c485d527b18))
+ - [**"Memorable moments from Paisley Park"**](https://apnews.com/d341d2b22be74bf7843f3c485d527b18) by Nekesa Mumbi Moody (Associated Press) in [Associated Press News](https://apnews.com/) on 29 September 2014 about 3rdEyeGirl, Donna Grantis, FKA twigs, James Brown, Katy Perry, Larry Graham, Michael Jackson, Rita Ora, YouTube ([mirror](https://web.archive.org/web/*/https://apnews.com/d341d2b22be74bf7843f3c485d527b18))
 
 ----
 

@@ -9,8 +9,9 @@
   * [Dakota (place)](./place/dakota/) (11)
   * [Detroit (place)](./place/detroit/) (2)
   * [Detroit, Michigan (place)](./place/detroit-michigan/) (1)
-  * [Electric Fetus (place)](./place/electric-fetus/) (4)
-  * [First Avenue (place)](./place/first-avenue/) (82)
+  * [Electric Fetus (place)](./place/electric-fetus/) (5)
+  * [Fillmore Minneapolis (place)](./place/fillmore-minneapolis/) (1)
+  * [First Avenue (place)](./place/first-avenue/) (86)
   * [Galpin Blvd. (place)](./place/galpin-blvd/) (1)
   * [Galpin Boulevard (place)](./place/galpin-boulevard/) (4)
   * [Glam Slam (place)](./place/glam-slam/) (3)
@@ -38,7 +39,7 @@
   * [Uncle Sam’s (place)](./place/uncle-sam-s/) (2)
   * [Weisman Art Museum (place)](./place/weisman-art-museum/) (3)
   * [White House (place)](./place/white-house/) (9)
-  * [Xcel Energy Center (place)](./place/xcel-energy-center/) (15)
+  * [Xcel Energy Center (place)](./place/xcel-energy-center/) (16)
 
 ----
 

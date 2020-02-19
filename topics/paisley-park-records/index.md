@@ -12,7 +12,7 @@
 
 ----
 
- - [**"Remembering when Prince wrote that song for you"**](https://apnews.com/9946e6f68e354265a15047187b217b56) in [Associated Press News](https://apnews.com/) on 4 June 2019 about Apollonia 6, Apollonia Kotero, Bangles, Denise Matthews, Joey Coco, Kenny Rogers, Manic Monday (song), Nile Rodgers, Nothing Compares 2 U (song), Originals (album), Paisley Park Records, Sex Shooter (song), Susanna Hoffs, Susannah Melvoin, The Family, The Glamorous Life (song), The Time, Vanity, Vanity 6, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://apnews.com/9946e6f68e354265a15047187b217b56))
+ - [**"Remembering when Prince wrote that song for you"**](https://apnews.com/9946e6f68e354265a15047187b217b56) in [Associated Press News](https://apnews.com/) on 4 June 2019 about Apollonia 6, Apollonia Kotero, Bangles, Denise Matthews, Joey Coco, Kenny Rogers, Manic Monday (song), Michael Jackson, Nile Rodgers, Nothing Compares 2 U (song), Originals (album), Paisley Park Records, Sex Shooter (song), Susanna Hoffs, Susannah Melvoin, The Family, The Glamorous Life (song), The Time, Vanity, Vanity 6, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://apnews.com/9946e6f68e354265a15047187b217b56))
 
 ----
 
@@ -32,11 +32,11 @@
 
 ----
 
- - [**"What were the specifics of Prince's “$100 million contract” with Warner Bros. Records in 1992?"**](https://musicfans.stackexchange.com/a/89/129) in [Music Fans Stack Exchange](https://musicfans.stackexchange.com/) on 15 February 2015 about contract, Controversy Music, Diamonds & Pearls (album), Gary Stiffelman, Gilbert Davidson, Jill Wills, Lovesexy (album), Paisley Park Enterprises, Paisley Park Records, Purple Rain (album), Time Warner, Warner Bros. Records, Warner/Chappell Music ([mirror](https://web.archive.org/web/*/https://musicfans.stackexchange.com/a/89/129))
+ - [**"What were the specifics of Prince's “$100 million contract” with Warner Bros. Records in 1992?"**](https://musicfans.stackexchange.com/a/89/129) in [Music Fans Stack Exchange](https://musicfans.stackexchange.com/) on 15 February 2015 about contract, Controversy Music, Diamonds & Pearls (album), Gary Stiffelman, Gilbert Davidson, Jill Wills, Lovesexy (album), Michael Jackson, Paisley Park Enterprises, Paisley Park Records, Purple Rain (album), Time Warner, Warner Bros. Records, Warner/Chappell Music ([mirror](https://web.archive.org/web/*/https://musicfans.stackexchange.com/a/89/129))
 
 ----
 
- - [**"Vanity, thy name is not record label success"**](https://variety.com/1995/music/news/vanity-thy-name-is-not-record-label-success-99129977/) in [Variety](https://variety.com/) on 4 September 1995 about contract, Paisley Park Records, Warner Bros. Records ([mirror](https://web.archive.org/web/*/https://variety.com/1995/music/news/vanity-thy-name-is-not-record-label-success-99129977/))
+ - [**"Vanity, thy name is not record label success"**](https://variety.com/1995/music/news/vanity-thy-name-is-not-record-label-success-99129977/) in [Variety](https://variety.com/) on 4 September 1995 about contract, Michael Jackson, Paisley Park Records, Warner Bros. Records ([mirror](https://web.archive.org/web/*/https://variety.com/1995/music/news/vanity-thy-name-is-not-record-label-success-99129977/))
 
 ----
 

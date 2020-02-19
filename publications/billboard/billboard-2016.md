@@ -2,7 +2,7 @@
 
 ## November 2016 (1)
 
- - [**"Prince's Estate Worth $200 Million, Court Filings Suggest"**](https://www.billboard.com/articles/news/7595991/prince-estate-worth-200-million) in [Billboard](https://www.billboard.com/) on 30 November 2016 about Bremer Trust ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/7595991/prince-estate-worth-200-million))
+ - [**"Prince's Estate Worth $200 Million, Court Filings Suggest"**](https://www.billboard.com/articles/news/7595991/prince-estate-worth-200-million) in [Billboard](https://www.billboard.com/) on 30 November 2016 about Bremer Trust, Michael Jackson ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/7595991/prince-estate-worth-200-million))
 
 ----
 
@@ -14,7 +14,7 @@
 
 ## August 2016 (1)
 
- - [**"Prince Turned Down at Least 4 Parody Ideas, But Michael Jackson Was 'Very Supportive' -- "I had this fantasy that he’d come out with a new song, I’d have a great idea, he’d finally say yes and it would erase decades of weirdness between us. But that’s obviously not going to be the case.""**](https://www.billboard.com/articles/news/7460907/prince-weird-al-yankovic-michael-jackson) in [Billboard](https://www.billboard.com/) on 2 August 2016 about "Weird Al" Yankovic, Let’s Go Crazy (song) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/7460907/prince-weird-al-yankovic-michael-jackson))
+ - [**"Prince Turned Down at Least 4 Parody Ideas, But Michael Jackson Was 'Very Supportive' -- "I had this fantasy that he’d come out with a new song, I’d have a great idea, he’d finally say yes and it would erase decades of weirdness between us. But that’s obviously not going to be the case.""**](https://www.billboard.com/articles/news/7460907/prince-weird-al-yankovic-michael-jackson) in [Billboard](https://www.billboard.com/) on 2 August 2016 about "Weird Al" Yankovic, Let’s Go Crazy (song), Michael Jackson ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/7460907/prince-weird-al-yankovic-michael-jackson))
 
 ----
 
@@ -26,7 +26,7 @@
 
 ## April 2016 (7)
 
- - [**"Prince Remembered by Childhood Best Friend and Bandmate André Cymone : 'There Was a Lot More to Him Than What People Saw'"**](https://www.billboard.com/articles/news/magazine-feature/7348518/prince-childhood-friend-bassist-andre-cymone-remembrance) in [Billboard](https://www.billboard.com/) on 28 April 2016 about André Cymone, Morris Day ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/magazine-feature/7348518/prince-childhood-friend-bassist-andre-cymone-remembrance))
+ - [**"Prince Remembered by Childhood Best Friend and Bandmate André Cymone : 'There Was a Lot More to Him Than What People Saw'"**](https://www.billboard.com/articles/news/magazine-feature/7348518/prince-childhood-friend-bassist-andre-cymone-remembrance) in [Billboard](https://www.billboard.com/) on 28 April 2016 about André Cymone, Michael Jackson, Morris Day ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/magazine-feature/7348518/prince-childhood-friend-bassist-andre-cymone-remembrance))
 
 ----
 
@@ -46,7 +46,7 @@
 
 ----
 
- - [**"Prince Dies at 57: Iconic Musical Genius Found Dead in Paisley Park"**](https://www.billboard.com/articles/news/7341522/prince-dead) in [Billboard](https://www.billboard.com/) on 21 April 2016 about 1999 (album), Around The World In A Day (album), Batdance (song), Carver County, Chaos and Disorder (album), contract, For You (album), Grammy Award, New Power Generation, Purple Rain (album), Purple Rain (movie), The Revolution, TMZ (website), vault, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/7341522/prince-dead))
+ - [**"Prince Dies at 57: Iconic Musical Genius Found Dead in Paisley Park"**](https://www.billboard.com/articles/news/7341522/prince-dead) in [Billboard](https://www.billboard.com/) on 21 April 2016 about 1999 (album), Around The World In A Day (album), Batdance (song), Carver County, Chaos and Disorder (album), contract, For You (album), Grammy Award, Michael Jackson, New Power Generation, Purple Rain (album), Purple Rain (movie), The Revolution, TMZ (website), vault, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/7341522/prince-dead))
 
 ----
 

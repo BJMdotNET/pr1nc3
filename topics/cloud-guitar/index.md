@@ -1,5 +1,9 @@
 # Cloud guitar
 
+ - [**"IS PRINCE THE INTERNET’S FAVOURITE GUITARIST? -- Google recognises the most-searched athletes, musicians, activists and artists in celebration of Black History Month."**](https://guitar.com/news/music-news/google-black-history-month-prince-most-searched-guitar-solo/) in [guitar.com](https://guitar.com/) on 31 January 2020 about Celebration, Cloud guitar, Purple Rain (song) ([mirror](https://web.archive.org/web/*/https://guitar.com/news/music-news/google-black-history-month-prince-most-searched-guitar-solo/))
+
+----
+
  - [**"Paisley Park Aims to Register Prince's Signature Purple as a Trademark for Use on Buildings"**](https://www.thefashionlaw.com/home/princes-estate-in-the-midst-of-fight-to-register-the-color-purple-for-use-on-buildings) in [www.thefashionlaw.com](https://www.thefashionlaw.com/) on 27 January 2020 about Cloud guitar, Grammy Award, Jamie Starr, museum, Paisley Park Enterprises, trademark ([mirror](https://web.archive.org/web/*/https://www.thefashionlaw.com/home/princes-estate-in-the-midst-of-fight-to-register-the-color-purple-for-use-on-buildings))
 
 ----

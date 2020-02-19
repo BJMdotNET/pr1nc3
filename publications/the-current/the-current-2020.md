@@ -1,5 +1,15 @@
 # 2020
 
+## February 2020 (2)
+
+ - [**"Heart Bones serve 'Hot Dish' in The Current studio"**](https://www.thecurrent.org/feature/2020/02/18/heart-bones-current-studio) in [The Current](https://www.thecurrent.org/) on 18 February 2020 about Andrea Swensson, Celebration, First Avenue (place) ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2020/02/18/heart-bones-current-studio))
+
+----
+
+ - [**"Listen to 'Look What They Did,' a brand-new song from Low Cut Connie"**](https://www.thecurrent.org/feature/2020/02/18/listen-to-look-what-they-did-a-brandnew-song-from-low-cut-connie) in [The Current](https://www.thecurrent.org/) on 18 February 2020 about Bruce Springsteen ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2020/02/18/listen-to-look-what-they-did-a-brandnew-song-from-low-cut-connie))
+
+----
+
 ## January 2020 (5)
 
  - [**"Bonus download: Prince Remembered from The Current"**](https://www.thecurrent.org/feature/2020/01/04/bonus-download-prince-remembered-from-the-current) in [The Current](https://www.thecurrent.org/) on 4 January 2020 about Andrea Swensson, Lisa Coleman, The Revolution ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2020/01/04/bonus-download-prince-remembered-from-the-current))
@@ -14,7 +24,7 @@
 
 ----
 
- - [**"Prince: The Story of 1999 bonus feature: Jellybean Johnson, 'Prince knew we had something special here in Minneapolis'"**](https://www.thecurrent.org/feature/2020/01/02/prince-the-story-of-1999-bonus-feature-jellybean-johnson-the-time-interview) in [The Current](https://www.thecurrent.org/) on 2 January 2020 about 1999 (album), Andrea Swensson, Dez Dickerson, fDeluxe, Jellybean Johnson, Prince: The Story of 1999, The Family, The Revolution, The Time, Vanity, Vanity 6 ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2020/01/02/prince-the-story-of-1999-bonus-feature-jellybean-johnson-the-time-interview))
+ - [**"Prince: The Story of 1999 bonus feature: Jellybean Johnson, 'Prince knew we had something special here in Minneapolis'"**](https://www.thecurrent.org/feature/2020/01/02/prince-the-story-of-1999-bonus-feature-jellybean-johnson-the-time-interview) in [The Current](https://www.thecurrent.org/) on 2 January 2020 about 1999 (album), Andrea Swensson, Dez Dickerson, fDeluxe, Jellybean Johnson, Michael Jackson, Prince: The Story of 1999, The Family, The Revolution, The Time, Vanity, Vanity 6 ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2020/01/02/prince-the-story-of-1999-bonus-feature-jellybean-johnson-the-time-interview))
 
 ----
 
