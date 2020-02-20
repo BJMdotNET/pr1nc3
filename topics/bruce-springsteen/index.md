@@ -4,6 +4,10 @@
 
 ----
 
+ - [**"Rosanne Cash and John Leventhal delight with amazing grace and marital humor at Guthrie"**](http://www.startribune.com/rosanne-cash-and-john-leventhal-delight-with-amazing-grace-and-marital-humor-at-guthrie/567973352/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 February 2020 about Bruce Springsteen ([mirror](https://web.archive.org/web/*/http://www.startribune.com/rosanne-cash-and-john-leventhal-delight-with-amazing-grace-and-marital-humor-at-guthrie/567973352/))
+
+----
+
  - [**"10 Best Super Bowl Halftime Shows"**](https://www.billboard.com/articles/list/513793/super-bowl-halftime-shows-10-best) in [Billboard](https://www.billboard.com/) on 31 January 2020 about Beck, Beyoncé, Bruce Springsteen, CeeLo Green, Coldplay, Janet Jackson, Justin Timberlake, Madonna, Michael Jackson, Purple Rain (song), Super Bowl, We Are the World (song) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/list/513793/super-bowl-halftime-shows-10-best))
 
 ----

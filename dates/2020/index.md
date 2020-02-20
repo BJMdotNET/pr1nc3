@@ -1,6 +1,6 @@
 # 2020
 
-## February 2020 (17)
+## February 2020 (22)
 
  - [**"What’s it like to see a show at the new Fillmore music club in North Loop? We’re glad you asked."**](http://www.citypages.com/music/whats-it-like-to-see-a-show-at-the-new-fillmore-music-club-in-north-loop-were-glad-you-asked/567979071) in [City Pages](http://www.citypages.com/) on 19 February 2020 about Fillmore Minneapolis (place), First Avenue (place), Xcel Energy Center (place) ([mirror](https://web.archive.org/web/*/http://www.citypages.com/music/whats-it-like-to-see-a-show-at-the-new-fillmore-music-club-in-north-loop-were-glad-you-asked/567979071))
 
@@ -18,6 +18,14 @@
 
 ----
 
+ - [**"Rosanne Cash and John Leventhal delight with amazing grace and marital humor at Guthrie"**](http://www.startribune.com/rosanne-cash-and-john-leventhal-delight-with-amazing-grace-and-marital-humor-at-guthrie/567973352/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 February 2020 about Bruce Springsteen ([mirror](https://web.archive.org/web/*/http://www.startribune.com/rosanne-cash-and-john-leventhal-delight-with-amazing-grace-and-marital-humor-at-guthrie/567973352/))
+
+----
+
+ - [**"Twin Cities rockers Hairball go viral after singer's hair catches fire mid-song"**](http://www.startribune.com/twin-cities-rockers-hairball-go-viral-after-singer-s-hair-catches-fire-mid-song/567974442/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 February 2020 about Detroit (place), Xcel Energy Center (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/twin-cities-rockers-hairball-go-viral-after-singer-s-hair-catches-fire-mid-song/567974442/))
+
+----
+
  - [**"Paisley Park concert series kicks off with Ndegeocello reimagining Prince"**](http://www.startribune.com/paisley-park-concert-series-kicks-off-with-ndegeocello-reimagining-prince/567927442/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 16 February 2020 about Alan Seiffert, Lizzo, Meshell Ndegeocello, museum, Pop Life (song), Purple Rain (song), Sometimes It Snows In April (song), When Doves Cry (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-concert-series-kicks-off-with-ndegeocello-reimagining-prince/567927442/))
 
 ----
@@ -26,7 +34,19 @@
 
 ----
 
+ - [**"Kandace Springs Debuts Evening of Jazz at Segerstrom Center"**](https://www.newportbeachindy.com/kandace-springs-debuts-evening-of-jazz-at-segerstrom-center/) in [www.newportbeachindy.com](https://www.newportbeachindy.com/) on 15 February 2020 about Kandace Springs ([mirror](https://web.archive.org/web/*/https://www.newportbeachindy.com/kandace-springs-debuts-evening-of-jazz-at-segerstrom-center/))
+
+----
+
  - [**"A White Wedding Just Means It's Snowing -- Quick, which Kardashian married a Golden Gopher? Catch up on the history of famous MN couples."**](http://mspmag.com/arts-and-culture/famous-mn-couples/) in [Mpls.St.Paul Magazine](http://mspmag.com/) on 14 February 2020 ([mirror](https://web.archive.org/web/*/http://mspmag.com/arts-and-culture/famous-mn-couples/))
+
+----
+
+ - [**"D Smoke’s ‘Black Habits’ Video Serves As An Ode To Black Excellence"**](https://uproxx.com/music/d-smoke-black-habits-video/) in [Uproxx](https://uproxx.com/) on 14 February 2020 about Stevie Wonder ([mirror](https://web.archive.org/web/*/https://uproxx.com/music/d-smoke-black-habits-video/))
+
+----
+
+ - [**"Engineering Prince: Working With The Purple One as a Creator, Drummer, and Electronic Drum Pioneer"**](https://drummagazine.com/engineering-prince-the-purple-one-as-a-creator-drummer-and-electronic-drum-pioneer/) in [drummagazine.com](https://drummagazine.com/) on 14 February 2020 about 3121 (album), Around The World In A Day (album), Controversy (album), Larrabee Sound (place), Linn LM-1, Lisa Chamblee, Peggy McCreary, PRN Alumni Foundation, Purple Rain (album), Romance 1600 (album), Sunset Sound (place), Susan Rogers, Sylvia Massy, U Got the Look (song), vault ([mirror](https://web.archive.org/web/*/https://drummagazine.com/engineering-prince-the-purple-one-as-a-creator-drummer-and-electronic-drum-pioneer/))
 
 ----
 
@@ -148,7 +168,7 @@
 
 ----
 
- - [**"Billie Eilish sweeps Lizzo in a historic Grammy battle of the newcomers -- Lizzo seized her Grammy moment, but 18-year-old Billie Eilish pulled off a historic sweep of the top prizes. "**](http://www.startribune.com/with-fierce-emotion-lizzo-seizes-her-grammy-moment-i-m-crying-cuz-i-love-you/567316152/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 27 January 2020 about Ava DuVernay, Gary Clark Jr., Grammy Award, John Legend, Lizzo, Madonna, Michael Jackson, The Roots, Usher ([mirror](https://web.archive.org/web/*/http://www.startribune.com/with-fierce-emotion-lizzo-seizes-her-grammy-moment-i-m-crying-cuz-i-love-you/567316152/))
+ - [**"Billie Eilish sweeps Lizzo in a historic Grammy battle of the newcomers -- Lizzo seized her Grammy moment, but 18-year-old Billie Eilish pulled off a historic sweep of the top prizes. "**](http://www.startribune.com/with-fierce-emotion-lizzo-seizes-her-grammy-moment-i-m-crying-cuz-i-love-you/567316152/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 27 January 2020 about Ava DuVernay, Gary Clark Jr., Grammy Award, John Legend, Lizzo, Madonna, Michael Jackson, Plectrum Electrum (album), The Roots, Usher ([mirror](https://web.archive.org/web/*/http://www.startribune.com/with-fierce-emotion-lizzo-seizes-her-grammy-moment-i-m-crying-cuz-i-love-you/567316152/))
 
 ----
 
@@ -276,7 +296,7 @@
 
 ----
 
- - [**"Lizzo reveals even more in overdue Rolling Stone cover story ahead of Grammys"**](http://www.startribune.com/lizzo-reveals-even-more-in-overdue-rolling-stone-cover-story-ahead-of-grammys/567201112/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 January 2020 about Grammy Award, Lizzo ([mirror](https://web.archive.org/web/*/http://www.startribune.com/lizzo-reveals-even-more-in-overdue-rolling-stone-cover-story-ahead-of-grammys/567201112/))
+ - [**"Lizzo reveals even more in overdue Rolling Stone cover story ahead of Grammys"**](http://www.startribune.com/lizzo-reveals-even-more-in-overdue-rolling-stone-cover-story-ahead-of-grammys/567201112/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 January 2020 about Grammy Award, Lizzo, Plectrum Electrum (album) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/lizzo-reveals-even-more-in-overdue-rolling-stone-cover-story-ahead-of-grammys/567201112/))
 
 ----
 
@@ -448,7 +468,7 @@
 
 ----
 
- - [**"Prince: requiem for a bass hero -- The bassists that played with the late legend share their stories"**](https://www.guitarworld.com/features/prince-requiem-for-a-bass-hero) in [GuitarWorld](https://www.guitarworld.com/) on 8 January 2020 about 3rdEyeGirl, Alex Al, André Cymone, BrownMark, Larry Graham, Pop Life (song), Sonny Thompson, Tal Wilkenfeld, Terry Lewis, When Doves Cry (song), YouTube ([mirror](https://web.archive.org/web/*/https://www.guitarworld.com/features/prince-requiem-for-a-bass-hero))
+ - [**"Prince: requiem for a bass hero -- The bassists that played with the late legend share their stories"**](https://www.guitarworld.com/features/prince-requiem-for-a-bass-hero) in [GuitarWorld](https://www.guitarworld.com/) on 8 January 2020 about 3rdEyeGirl, Alex Al, André Cymone, BrownMark, Larry Graham, Pop Life (song), She’s Always In My Hair (song), Sonny Thompson, Tal Wilkenfeld, Terry Lewis, When Doves Cry (song), YouTube ([mirror](https://web.archive.org/web/*/https://www.guitarworld.com/features/prince-requiem-for-a-bass-hero))
 
 ----
 

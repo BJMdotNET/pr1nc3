@@ -1,5 +1,9 @@
 # U Got the Look (song)
 
+ - [**"Engineering Prince: Working With The Purple One as a Creator, Drummer, and Electronic Drum Pioneer"**](https://drummagazine.com/engineering-prince-the-purple-one-as-a-creator-drummer-and-electronic-drum-pioneer/) in [drummagazine.com](https://drummagazine.com/) on 14 February 2020 about 3121 (album), Around The World In A Day (album), Controversy (album), Larrabee Sound (place), Linn LM-1, Lisa Chamblee, Peggy McCreary, PRN Alumni Foundation, Purple Rain (album), Romance 1600 (album), Sunset Sound (place), Susan Rogers, Sylvia Massy, U Got the Look (song), vault ([mirror](https://web.archive.org/web/*/https://drummagazine.com/engineering-prince-the-purple-one-as-a-creator-drummer-and-electronic-drum-pioneer/))
+
+----
+
  - [**"Interview mit Prince-Tänzerin Cat: „Ich las ihm ‚Der Kleine Prinz‘ beim Einschlafen vor“"**](https://www.rollingstone.de/prince-interview-mit-cat-sign-o-the-times-1761999/) in [Rolling Stone (Germany)](https://www.rollingstone.de/) on 13 September 2019 about Albert Magnoli, Housequake (song), LeRoy Bennett, Lovesexy (album), Lovesexy (tour), museum, Sheila E., Sunset Sound (place), Susannah Melvoin, The Revolution, U Got the Look (song), vault, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.de/prince-interview-mit-cat-sign-o-the-times-1761999/))
 
 ----
@@ -9,6 +13,10 @@
 ----
 
  - [**"Prince’s estate gets it right the second time around with Prince: In Concert on the Big Screen"**](https://www.twincities.com/2019/04/27/princes-estate-gets-it-right-the-second-time-around-with-prince-in-concert-on-the-big-screen/) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 27 April 2019 about Michael Jackson, Nothing Compares 2 U (song), Pop Life (song), Prince: In Concert On The Big Screen, Shelby J., U Got the Look (song), When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2019/04/27/princes-estate-gets-it-right-the-second-time-around-with-prince-in-concert-on-the-big-screen/))
+
+----
+
+ - [**"Sunday Sounds: Celebrating The Phenomenal Drummers Of Prince"**](https://drummagazine.com/sunday-sounds-prince-drummers-sheila-e-bobby-z-john-blackwell-michael-bland-hannah-ford/) in [drummagazine.com](https://drummagazine.com/) on 21 April 2019 about 3121 (album), 3rdEyeGirl, Around The World In A Day (album), Hannah Welton, Michael Bland, New Power Generation, Parade (album), Purple Rain (album), Sheila E., The Revolution, U Got the Look (song), YouTube ([mirror](https://web.archive.org/web/*/https://drummagazine.com/sunday-sounds-prince-drummers-sheila-e-bobby-z-john-blackwell-michael-bland-hannah-ford/))
 
 ----
 

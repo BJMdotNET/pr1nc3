@@ -2,7 +2,13 @@
 
 ## December 2013 (1)
 
- - [**"Prince to headline 20th annual Essence Fest"**](https://apnews.com/4d2ee6a810f04caf9f6ad52f34507f4b) in [Associated Press News](https://apnews.com/) on 3 December 2013 about Celebration, Essence Fest ([mirror](https://web.archive.org/web/*/https://apnews.com/4d2ee6a810f04caf9f6ad52f34507f4b))
+ - [**"Prince to headline 20th annual Essence Fest"**](https://apnews.com/4d2ee6a810f04caf9f6ad52f34507f4b) in [Associated Press News](https://apnews.com/) on 3 December 2013 about Celebration, Essence Fest, Screwdriver (song) ([mirror](https://web.archive.org/web/*/https://apnews.com/4d2ee6a810f04caf9f6ad52f34507f4b))
+
+----
+
+## October 2013 (1)
+
+ - [**"Hannah Ford: The Princess Ride"**](https://drummagazine.com/hannah-ford-the-princess-ride/) in [drummagazine.com](https://drummagazine.com/) on 14 October 2013 about Donna Grantis, Hannah Ford, Ida Neilson, Live Out Loud (tour), New Power Generation, Plectrum Electrum (album), Screwdriver (song), She’s Always In My Hair (song), Sheila E., The Family, The Revolution, YouTube ([mirror](https://web.archive.org/web/*/https://drummagazine.com/hannah-ford-the-princess-ride/))
 
 ----
 

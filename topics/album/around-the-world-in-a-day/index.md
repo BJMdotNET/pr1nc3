@@ -1,5 +1,9 @@
 # Around The World In A Day (album)
 
+ - [**"Engineering Prince: Working With The Purple One as a Creator, Drummer, and Electronic Drum Pioneer"**](https://drummagazine.com/engineering-prince-the-purple-one-as-a-creator-drummer-and-electronic-drum-pioneer/) in [drummagazine.com](https://drummagazine.com/) on 14 February 2020 about 3121 (album), Around The World In A Day (album), Controversy (album), Larrabee Sound (place), Linn LM-1, Lisa Chamblee, Peggy McCreary, PRN Alumni Foundation, Purple Rain (album), Romance 1600 (album), Sunset Sound (place), Susan Rogers, Sylvia Massy, U Got the Look (song), vault ([mirror](https://web.archive.org/web/*/https://drummagazine.com/engineering-prince-the-purple-one-as-a-creator-drummer-and-electronic-drum-pioneer/))
+
+----
+
  - [**"Did Prince flirt with prog on Around The World In A Day -- He certainly did, reckons Prog writer Joseph Stannard..."**](https://www.loudersound.com/features/did-prince-flirt-with-prog-on-around-the-world-in-a-day) in [www.loudersound.com](https://www.loudersound.com/) on 25 January 2020 about Around The World In A Day (album), James Brown, Parade (album), Pop Life (song), Raspberry Beret (song) ([mirror](https://web.archive.org/web/*/https://www.loudersound.com/features/did-prince-flirt-with-prog-on-around-the-world-in-a-day))
 
 ----
@@ -17,6 +21,10 @@
 ----
 
  - [**"Interview: Prince’s vault archivist, Michael Howe, talks to SDE"**](https://www.superdeluxeedition.com/interview/princes-archivist-michael-howe-talks-to-sde/) by Paul Sinclair in [SuperDeluxeEdition](https://www.superdeluxeedition.com/) on 27 June 2019 about Around The World In A Day (album), bootleg, Michael Howe, museum, Nothing Compares 2 U (song), Originals (album), Susan Rogers, The Glamorous Life (song), Troy Carter, vault ([mirror](https://web.archive.org/web/*/https://www.superdeluxeedition.com/interview/princes-archivist-michael-howe-talks-to-sde/))
+
+----
+
+ - [**"Sunday Sounds: Celebrating The Phenomenal Drummers Of Prince"**](https://drummagazine.com/sunday-sounds-prince-drummers-sheila-e-bobby-z-john-blackwell-michael-bland-hannah-ford/) in [drummagazine.com](https://drummagazine.com/) on 21 April 2019 about 3121 (album), 3rdEyeGirl, Around The World In A Day (album), Hannah Welton, Michael Bland, New Power Generation, Parade (album), Purple Rain (album), Sheila E., The Revolution, U Got the Look (song), YouTube ([mirror](https://web.archive.org/web/*/https://drummagazine.com/sunday-sounds-prince-drummers-sheila-e-bobby-z-john-blackwell-michael-bland-hannah-ford/))
 
 ----
 

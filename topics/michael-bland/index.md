@@ -8,6 +8,10 @@
 
 ----
 
+ - [**"Sunday Sounds: Celebrating The Phenomenal Drummers Of Prince"**](https://drummagazine.com/sunday-sounds-prince-drummers-sheila-e-bobby-z-john-blackwell-michael-bland-hannah-ford/) in [drummagazine.com](https://drummagazine.com/) on 21 April 2019 about 3121 (album), 3rdEyeGirl, Around The World In A Day (album), Hannah Welton, Michael Bland, New Power Generation, Parade (album), Purple Rain (album), Sheila E., The Revolution, U Got the Look (song), YouTube ([mirror](https://web.archive.org/web/*/https://drummagazine.com/sunday-sounds-prince-drummers-sheila-e-bobby-z-john-blackwell-michael-bland-hannah-ford/))
+
+----
+
  - [**"Remembering Prince: Engineer “Cubby” Colby"**](https://www.prosoundnetwork.com/business/remembering-prince-engineer-cubby-colby) in [ProSound](https://www.prosoundnetwork.com/) on 28 April 2016 about Brown Mark, Dez Dickerson, Eric Leeds, First Avenue (place), James Brown, Jehovah’s Witness, Kirk Johnson, LeRoy Bennett, Matt Fink, Michael Bland, Robert “Cubby” Colby, Sheila E., Sunset Sound (place), Susan Rogers, The Revolution ([mirror](https://web.archive.org/web/*/https://www.prosoundnetwork.com/business/remembering-prince-engineer-cubby-colby))
 
 ----

@@ -1,5 +1,9 @@
 # Stevie Wonder
 
+ - [**"D Smoke’s ‘Black Habits’ Video Serves As An Ode To Black Excellence"**](https://uproxx.com/music/d-smoke-black-habits-video/) in [Uproxx](https://uproxx.com/) on 14 February 2020 about Stevie Wonder ([mirror](https://web.archive.org/web/*/https://uproxx.com/music/d-smoke-black-habits-video/))
+
+----
+
  - [**"Foo Fighters, Beck, H.E.R., Sheila E. Light Up ‘Grammy Salute to Prince’ Concert"**](https://www.yahoo.com/entertainment/foo-fighters-beck-h-e-233930375.html) in [Yahoo! Entertainment](https://www.yahoo.com/entertainment/) on 30 January 2020 about 1999 (song), Baby I’m a Star (song), Bangles, Beck, Chris Martin, Coldplay, Controversy (song), D’Angelo, Darling Nikki (song), Diamonds and Pearls (song), Earth, Wind & Fire, Foo Fighters, Fred Armisen, Gary Clark Jr., Gretchen Lieberum, H.E.R., Janelle Monae, Jerome Benton, Jimmy Jam, John Legend, Juanes, Jungle Love (song), Ken Ehrlich, Let’s Go Crazy (song), Lisa Coleman, Manic Monday (song), Mavis Staples, Maya Rudolph, Misty Copeland, Morris Day, Mountains (song), Nothing Compares 2 U (song), Pop Life (song), PRINCEss, Purple Rain (song), Raspberry Beret (song), Sheila E., St. Vincent, Stevie Wonder, Super Bowl, Terry Lewis, The Beautiful Ones (song), The Bird (song), The Glamorous Life (song), The Revolution, The Time, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://www.yahoo.com/entertainment/foo-fighters-beck-h-e-233930375.html))
 
 ----
@@ -92,7 +96,7 @@
 
 ----
 
- - [**"Sheila E. reflects on losing Prince, jamming with Ringo and how Trump inspired 'Iconic'"**](https://usatoday.com/story/entertainment/music/2018/01/11/sheila-e-interview-prince-ringo-starr-donald-trump-iconic/1022142001/) in [USA Today](https://usatoday.com/) on 18 January 2018 about Candy Dulfer, Donald Trump, George Clinton, Oliver’s House (song), Sheila E., Stevie Wonder, The Belle of St. Mark (song), The Glamorous Life (album), The Glamorous Life (song), Trump ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/entertainment/music/2018/01/11/sheila-e-interview-prince-ringo-starr-donald-trump-iconic/1022142001/))
+ - [**"Sheila E. reflects on losing Prince, jamming with Ringo and how Trump inspired 'Iconic'"**](https://usatoday.com/story/entertainment/music/2018/01/11/sheila-e-interview-prince-ringo-starr-donald-trump-iconic/1022142001/) in [USA Today](https://usatoday.com/) on 18 January 2018 about Candy Dulfer, Donald Trump, George Clinton, Oliver’s House (song), Romance 1600 (album), Sheila E., Stevie Wonder, The Belle of St. Mark (song), The Glamorous Life (album), The Glamorous Life (song), Trump ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/entertainment/music/2018/01/11/sheila-e-interview-prince-ringo-starr-donald-trump-iconic/1022142001/))
 
 ----
 

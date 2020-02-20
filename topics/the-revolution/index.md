@@ -268,7 +268,7 @@
 
 ----
 
- - [**"Prince's 'Originals' Album: Comparing Each Demo With Its Well-Known Cover Version"**](https://www.billboard.com/articles/news/8517576/prince-originals-album-covers) in [Billboard](https://www.billboard.com/) on 25 June 2019 about Alan Light, Bangles, BrownMark, Jill Jones, Morris Day, Nile Rodgers, Originals (album), Super Bowl, Super Bowl XLI (event), Susanna Hoffs, The Revolution ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8517576/prince-originals-album-covers))
+ - [**"Prince's 'Originals' Album: Comparing Each Demo With Its Well-Known Cover Version"**](https://www.billboard.com/articles/news/8517576/prince-originals-album-covers) in [Billboard](https://www.billboard.com/) on 25 June 2019 about Alan Light, Bangles, BrownMark, Jill Jones, Morris Day, Nile Rodgers, Originals (album), Romance 1600 (album), Super Bowl, Super Bowl XLI (event), Susanna Hoffs, The Revolution ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8517576/prince-originals-album-covers))
 
 ----
 
@@ -289,6 +289,10 @@
 ----
 
  - [**"Two veteran Minnesota bands earn their First Avenue stars (one a do-over)"**](http://www.startribune.com/two-veteran-minnesota-bands-earn-their-first-avenue-stars-one-a-do-over/509260572/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 30 April 2019 about First Avenue (place), Lisa Coleman, Matt Fink, Sam’s (place), The Revolution, Uncle Sam’s (place), Wendy Melvoin ([mirror](https://web.archive.org/web/*/http://www.startribune.com/two-veteran-minnesota-bands-earn-their-first-avenue-stars-one-a-do-over/509260572/))
+
+----
+
+ - [**"Sunday Sounds: Celebrating The Phenomenal Drummers Of Prince"**](https://drummagazine.com/sunday-sounds-prince-drummers-sheila-e-bobby-z-john-blackwell-michael-bland-hannah-ford/) in [drummagazine.com](https://drummagazine.com/) on 21 April 2019 about 3121 (album), 3rdEyeGirl, Around The World In A Day (album), Hannah Welton, Michael Bland, New Power Generation, Parade (album), Purple Rain (album), Sheila E., The Revolution, U Got the Look (song), YouTube ([mirror](https://web.archive.org/web/*/https://drummagazine.com/sunday-sounds-prince-drummers-sheila-e-bobby-z-john-blackwell-michael-bland-hannah-ford/))
 
 ----
 
@@ -501,6 +505,10 @@
 ----
 
  - [**"Rhino Historic Tours: Prince Kicks Off the Purple Rain Tour"**](https://www.rhino.com/article/rhino-historic-tours-prince-kicks-off-the-purple-rain-tour) in [Rhino](https://www.rhino.com/) on 4 November 2014 about Baby I’m a Star (song), Bruce Springsteen, Dave Marsh, Detroit (place), Detroit, Michigan (place), Dez Dickerson, Inglewood, California (place), Joe Louis Arena (place), Lisa Coleman, Madonna, Parade (album), Purple Rain (album), Purple Rain (tour), The Revolution, Wendy & Lisa, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://www.rhino.com/article/rhino-historic-tours-prince-kicks-off-the-purple-rain-tour))
+
+----
+
+ - [**"Hannah Ford: The Princess Ride"**](https://drummagazine.com/hannah-ford-the-princess-ride/) in [drummagazine.com](https://drummagazine.com/) on 14 October 2013 about Donna Grantis, Hannah Ford, Ida Neilson, Live Out Loud (tour), New Power Generation, Plectrum Electrum (album), Screwdriver (song), She’s Always In My Hair (song), Sheila E., The Family, The Revolution, YouTube ([mirror](https://web.archive.org/web/*/https://drummagazine.com/hannah-ford-the-princess-ride/))
 
 ----
 

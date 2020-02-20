@@ -7,7 +7,7 @@
   * [Capri Theatre (place)](./place/capri-theatre/) (1)
   * [Country Inn & Suites (place)](./place/country-inn-suites/) (3)
   * [Dakota (place)](./place/dakota/) (11)
-  * [Detroit (place)](./place/detroit/) (2)
+  * [Detroit (place)](./place/detroit/) (3)
   * [Detroit, Michigan (place)](./place/detroit-michigan/) (1)
   * [Electric Fetus (place)](./place/electric-fetus/) (5)
   * [Fillmore Minneapolis (place)](./place/fillmore-minneapolis/) (1)
@@ -20,6 +20,7 @@
   * [Inglewood, California (place)](./place/inglewood-california/) (1)
   * [Joe Louis Arena (place)](./place/joe-louis-arena/) (1)
   * [Lake Minnetonka (place)](./place/lake-minnetonka/) (8)
+  * [Larrabee Sound (place)](./place/larrabee-sound/) (1)
   * [London (place)](./place/london/) (10)
   * [Los Angeles Convention Center (place)](./place/los-angeles-convention-center/) (13)
   * [Mann’s Chinese Theatre (place)](./place/mann-s-chinese-theatre/) (1)
@@ -34,12 +35,12 @@
   * [Sausalito (place)](./place/sausalito/) (3)
   * [Smithsonian (place)](./place/smithsonian/) (6)
   * [St. Louis Park (place)](./place/st-louis-park/) (8)
-  * [Sunset Sound (place)](./place/sunset-sound/) (30)
+  * [Sunset Sound (place)](./place/sunset-sound/) (31)
   * [Trinity Medical Center (place)](./place/trinity-medical-center/) (10)
   * [Uncle Sam’s (place)](./place/uncle-sam-s/) (2)
   * [Weisman Art Museum (place)](./place/weisman-art-museum/) (3)
   * [White House (place)](./place/white-house/) (9)
-  * [Xcel Energy Center (place)](./place/xcel-energy-center/) (16)
+  * [Xcel Energy Center (place)](./place/xcel-energy-center/) (17)
 
 ----
 

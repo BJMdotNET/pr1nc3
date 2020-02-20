@@ -160,7 +160,7 @@
 
 ----
 
- - [**"Sheila E. brings the glam to jazz fest"**](https://www.thechronicleherald.ca/living/sheila-e-brings-the-glam-to-jazz-fest-329717/) by Stephen Cooke in [The Chronicle Herald](https://www.thechronicleherald.ca/) on 5 July 2019 about Donald Trump, Morris Day, Sheila E., Trump, Wendy & Lisa ([mirror](https://web.archive.org/web/*/https://www.thechronicleherald.ca/living/sheila-e-brings-the-glam-to-jazz-fest-329717/))
+ - [**"Sheila E. brings the glam to jazz fest"**](https://www.thechronicleherald.ca/living/sheila-e-brings-the-glam-to-jazz-fest-329717/) by Stephen Cooke in [The Chronicle Herald](https://www.thechronicleherald.ca/) on 5 July 2019 about Donald Trump, Morris Day, Romance 1600 (album), Sheila E., Trump, Wendy & Lisa ([mirror](https://web.archive.org/web/*/https://www.thechronicleherald.ca/living/sheila-e-brings-the-glam-to-jazz-fest-329717/))
 
 ----
 
@@ -205,6 +205,10 @@
 ----
 
  - [**"Prince Estate to Release ‘Originals’ Album: His Versions of Songs He Gave to Other Artists (EXCLUSIVE)"**](https://variety.com/2019/music/news/prince-estate-to-release-originals-album-songs-he-gave-to-other-artists-1203197451/) by Jem Aswad in [Variety](https://variety.com/) on 24 April 2019 about Apollonia 6, Jill Jones, Kenny Rogers, Manic Monday (song), Mazarati, Nothing Compares 2 U (song), Originals (album), Prince Estate, Sheila E., The Family, The Glamorous Life (song), The Prince Estate, The Time, Tidal, Troy Carter, Vanity, Vanity 6, Warner Bros. Records ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/news/prince-estate-to-release-originals-album-songs-he-gave-to-other-artists-1203197451/))
+
+----
+
+ - [**"Sunday Sounds: Celebrating The Phenomenal Drummers Of Prince"**](https://drummagazine.com/sunday-sounds-prince-drummers-sheila-e-bobby-z-john-blackwell-michael-bland-hannah-ford/) in [drummagazine.com](https://drummagazine.com/) on 21 April 2019 about 3121 (album), 3rdEyeGirl, Around The World In A Day (album), Hannah Welton, Michael Bland, New Power Generation, Parade (album), Purple Rain (album), Sheila E., The Revolution, U Got the Look (song), YouTube ([mirror](https://web.archive.org/web/*/https://drummagazine.com/sunday-sounds-prince-drummers-sheila-e-bobby-z-john-blackwell-michael-bland-hannah-ford/))
 
 ----
 
@@ -272,7 +276,7 @@
 
 ----
 
- - [**"Sheila E. reflects on losing Prince, jamming with Ringo and how Trump inspired 'Iconic'"**](https://usatoday.com/story/entertainment/music/2018/01/11/sheila-e-interview-prince-ringo-starr-donald-trump-iconic/1022142001/) in [USA Today](https://usatoday.com/) on 18 January 2018 about Candy Dulfer, Donald Trump, George Clinton, Oliver’s House (song), Sheila E., Stevie Wonder, The Belle of St. Mark (song), The Glamorous Life (album), The Glamorous Life (song), Trump ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/entertainment/music/2018/01/11/sheila-e-interview-prince-ringo-starr-donald-trump-iconic/1022142001/))
+ - [**"Sheila E. reflects on losing Prince, jamming with Ringo and how Trump inspired 'Iconic'"**](https://usatoday.com/story/entertainment/music/2018/01/11/sheila-e-interview-prince-ringo-starr-donald-trump-iconic/1022142001/) in [USA Today](https://usatoday.com/) on 18 January 2018 about Candy Dulfer, Donald Trump, George Clinton, Oliver’s House (song), Romance 1600 (album), Sheila E., Stevie Wonder, The Belle of St. Mark (song), The Glamorous Life (album), The Glamorous Life (song), Trump ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/entertainment/music/2018/01/11/sheila-e-interview-prince-ringo-starr-donald-trump-iconic/1022142001/))
 
 ----
 
@@ -397,6 +401,10 @@
 ----
 
  - [**"Prince returns for Essence’s 20th celebration"**](https://apnews.com/2816a54a81a54d278d43121785573047) in [Associated Press News](https://apnews.com/) on 5 July 2014 about Janelle Monae, Jungle Love (song), Little Red Corvette (song), Morris Day, Nile Rodgers, Sheila E., Sometimes It Snows In April (song), The Time, Wendy Melvoin, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://apnews.com/2816a54a81a54d278d43121785573047))
+
+----
+
+ - [**"Hannah Ford: The Princess Ride"**](https://drummagazine.com/hannah-ford-the-princess-ride/) in [drummagazine.com](https://drummagazine.com/) on 14 October 2013 about Donna Grantis, Hannah Ford, Ida Neilson, Live Out Loud (tour), New Power Generation, Plectrum Electrum (album), Screwdriver (song), She’s Always In My Hair (song), Sheila E., The Family, The Revolution, YouTube ([mirror](https://web.archive.org/web/*/https://drummagazine.com/hannah-ford-the-princess-ride/))
 
 ----
 

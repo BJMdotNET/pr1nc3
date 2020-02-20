@@ -1,5 +1,9 @@
 # Purple Rain (album)
 
+ - [**"Engineering Prince: Working With The Purple One as a Creator, Drummer, and Electronic Drum Pioneer"**](https://drummagazine.com/engineering-prince-the-purple-one-as-a-creator-drummer-and-electronic-drum-pioneer/) in [drummagazine.com](https://drummagazine.com/) on 14 February 2020 about 3121 (album), Around The World In A Day (album), Controversy (album), Larrabee Sound (place), Linn LM-1, Lisa Chamblee, Peggy McCreary, PRN Alumni Foundation, Purple Rain (album), Romance 1600 (album), Sunset Sound (place), Susan Rogers, Sylvia Massy, U Got the Look (song), vault ([mirror](https://web.archive.org/web/*/https://drummagazine.com/engineering-prince-the-purple-one-as-a-creator-drummer-and-electronic-drum-pioneer/))
+
+----
+
  - [**"Album review: Prince’s ’1999′ keeps on giving in 2019"**](https://www.chicagotribune.com/entertainment/music/greg-kot/ct-ent-prince-1999-box-set-review-20191119-qa756i52jbacfdye5jyro4w47u-story.html) by Greg Kot in [Chicago Tribune](https://www.chicagotribune.com/) on 19 November 2019 about 1999 (album), 1999 (song), 1999 (tour), 1999 Super Deluxe (album), Andre Cymone, Can’t Stop This Feeling I Got (song), cough drops, Dez Dickerson, Do Yourself a Favor (song), Feel U Up (song), If It’ll Make U Happy (song), Jill Jones, Lisa Coleman, Little Red Corvette (song), Peggy McCreary, Purple Music (song), Purple Rain (album), Rearrange (song), Stevie Wonder, Susan Rogers, The Revolution, Vagina (song), Yah, You Know (song), You’re All I Want (song) ([mirror](https://web.archive.org/web/*/https://www.chicagotribune.com/entertainment/music/greg-kot/ct-ent-prince-1999-box-set-review-20191119-qa756i52jbacfdye5jyro4w47u-story.html))
 
 ----
@@ -53,6 +57,10 @@
 ----
 
  - [**"Prince and The Revolution’s ‘Purple Rain’ Turns 35: Anniversary Retrospective -- Happy 35th Anniversary to Prince’s sixth studio album (and soundtrack to the film) Purple Rain, originally released June 25, 1984. "**](https://www.albumism.com/features/prince-and-the-revolution-purple-rain-turns-35-anniversary-retrospective) by Andy Healy in [Albumism](https://www.albumism.com/) on 23 June 2019 about Apollonia 6, Baby I’m a Star (song), Computer Blue (song), Darling Nikki (song), First Avenue (place), Grammy Award, I Would Die 4 U (song), Let’s Go Crazy (song), Linn LM-1, Lisa Coleman, Parental Advisory, Parents Music Resource Center, Purple Rain (album), Purple Rain (movie), Purple Rain (song), Take Me with U (song), The Beautiful Ones (song), The Revolution, The Time, Undisputed (song), Wendy Melvoin, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.albumism.com/features/prince-and-the-revolution-purple-rain-turns-35-anniversary-retrospective))
+
+----
+
+ - [**"Sunday Sounds: Celebrating The Phenomenal Drummers Of Prince"**](https://drummagazine.com/sunday-sounds-prince-drummers-sheila-e-bobby-z-john-blackwell-michael-bland-hannah-ford/) in [drummagazine.com](https://drummagazine.com/) on 21 April 2019 about 3121 (album), 3rdEyeGirl, Around The World In A Day (album), Hannah Welton, Michael Bland, New Power Generation, Parade (album), Purple Rain (album), Sheila E., The Revolution, U Got the Look (song), YouTube ([mirror](https://web.archive.org/web/*/https://drummagazine.com/sunday-sounds-prince-drummers-sheila-e-bobby-z-john-blackwell-michael-bland-hannah-ford/))
 
 ----
 
@@ -116,7 +124,7 @@
 
 ----
 
- - [**"Prince plays London living-room gig"**](https://apnews.com/f22a4231a0ec48dba636f2d710184fe0) by Jill Lawless (Associated Press) in [Associated Press News](https://apnews.com/) on 5 February 2014 about 3rdEyeGirl, bootleg, contract, Donna Grantis, Purple Rain (album) ([mirror](https://web.archive.org/web/*/https://apnews.com/f22a4231a0ec48dba636f2d710184fe0))
+ - [**"Prince plays London living-room gig"**](https://apnews.com/f22a4231a0ec48dba636f2d710184fe0) by Jill Lawless (Associated Press) in [Associated Press News](https://apnews.com/) on 5 February 2014 about 3rdEyeGirl, bootleg, contract, Donna Grantis, Hannah Ford, Plectrum Electrum (album), Purple Rain (album) ([mirror](https://web.archive.org/web/*/https://apnews.com/f22a4231a0ec48dba636f2d710184fe0))
 
 ----
 

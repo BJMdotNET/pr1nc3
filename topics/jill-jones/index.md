@@ -24,7 +24,7 @@
 
 ----
 
- - [**"Prince: The Story of 1999 bonus feature: The sound of Prince and Peggy McCreary"**](https://www.thecurrent.org/feature/2019/11/27/prince-the-story-of-1999-bonus-feature-the-sound-of-prince-and-peggy-mccreary) in [The Current](https://www.thecurrent.org/) on 27 November 2019 about 1999 (album), Alan Leeds, Andrea Swensson, Colleen (song), David Leonard, Duane Tudahl, First Avenue (place), Jesse Johnson, Jill Jones, Jimmy Jam, Little Red Corvette (song), Manic Monday (song), motorcycle, Peggy McCreary, Prince: The Story of 1999, Rearrange (song), Sometimes It Snows In April (song), Steve Fargnoli , Sunset Sound (place), Susan Rogers, Vanity, Vanity 6, vault, When Doves Cry (song), YouTube ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/11/27/prince-the-story-of-1999-bonus-feature-the-sound-of-prince-and-peggy-mccreary))
+ - [**"Prince: The Story of 1999 bonus feature: The sound of Prince and Peggy McCreary"**](https://www.thecurrent.org/feature/2019/11/27/prince-the-story-of-1999-bonus-feature-the-sound-of-prince-and-peggy-mccreary) in [The Current](https://www.thecurrent.org/) on 27 November 2019 about 1999 (album), Alan Leeds, Andrea Swensson, Colleen (song), David Leonard, Duane Tudahl, First Avenue (place), Jesse Johnson, Jill Jones, Jimmy Jam, Lisa Chamblee, Little Red Corvette (song), Manic Monday (song), motorcycle, Peggy McCreary, Prince: The Story of 1999, Rearrange (song), Sometimes It Snows In April (song), Steve Fargnoli , Sunset Sound (place), Susan Rogers, Sylvia Massy, Vanity, Vanity 6, vault, When Doves Cry (song), YouTube ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/11/27/prince-the-story-of-1999-bonus-feature-the-sound-of-prince-and-peggy-mccreary))
 
 ----
 
@@ -72,7 +72,7 @@
 
 ----
 
- - [**"Prince's 'Originals' Album: Comparing Each Demo With Its Well-Known Cover Version"**](https://www.billboard.com/articles/news/8517576/prince-originals-album-covers) in [Billboard](https://www.billboard.com/) on 25 June 2019 about Alan Light, Bangles, BrownMark, Jill Jones, Morris Day, Nile Rodgers, Originals (album), Super Bowl, Super Bowl XLI (event), Susanna Hoffs, The Revolution ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8517576/prince-originals-album-covers))
+ - [**"Prince's 'Originals' Album: Comparing Each Demo With Its Well-Known Cover Version"**](https://www.billboard.com/articles/news/8517576/prince-originals-album-covers) in [Billboard](https://www.billboard.com/) on 25 June 2019 about Alan Light, Bangles, BrownMark, Jill Jones, Morris Day, Nile Rodgers, Originals (album), Romance 1600 (album), Super Bowl, Super Bowl XLI (event), Susanna Hoffs, The Revolution ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8517576/prince-originals-album-covers))
 
 ----
 

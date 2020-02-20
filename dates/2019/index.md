@@ -308,7 +308,7 @@
 
 ----
 
- - [**"Prince: The Story of 1999 bonus feature: The sound of Prince and Peggy McCreary"**](https://www.thecurrent.org/feature/2019/11/27/prince-the-story-of-1999-bonus-feature-the-sound-of-prince-and-peggy-mccreary) in [The Current](https://www.thecurrent.org/) on 27 November 2019 about 1999 (album), Alan Leeds, Andrea Swensson, Colleen (song), David Leonard, Duane Tudahl, First Avenue (place), Jesse Johnson, Jill Jones, Jimmy Jam, Little Red Corvette (song), Manic Monday (song), motorcycle, Peggy McCreary, Prince: The Story of 1999, Rearrange (song), Sometimes It Snows In April (song), Steve Fargnoli , Sunset Sound (place), Susan Rogers, Vanity, Vanity 6, vault, When Doves Cry (song), YouTube ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/11/27/prince-the-story-of-1999-bonus-feature-the-sound-of-prince-and-peggy-mccreary))
+ - [**"Prince: The Story of 1999 bonus feature: The sound of Prince and Peggy McCreary"**](https://www.thecurrent.org/feature/2019/11/27/prince-the-story-of-1999-bonus-feature-the-sound-of-prince-and-peggy-mccreary) in [The Current](https://www.thecurrent.org/) on 27 November 2019 about 1999 (album), Alan Leeds, Andrea Swensson, Colleen (song), David Leonard, Duane Tudahl, First Avenue (place), Jesse Johnson, Jill Jones, Jimmy Jam, Lisa Chamblee, Little Red Corvette (song), Manic Monday (song), motorcycle, Peggy McCreary, Prince: The Story of 1999, Rearrange (song), Sometimes It Snows In April (song), Steve Fargnoli , Sunset Sound (place), Susan Rogers, Sylvia Massy, Vanity, Vanity 6, vault, When Doves Cry (song), YouTube ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/11/27/prince-the-story-of-1999-bonus-feature-the-sound-of-prince-and-peggy-mccreary))
 
 ----
 
@@ -1212,7 +1212,7 @@
 
 ----
 
- - [**"Prince's 50 greatest singles – ranked!"**](https://www.theguardian.com/music/2019/sep/12/prince-50-greatest-singles-ranked) in [The Guardian](https://www.theguardian.com/) on 12 September 2019 about Cat Glover, Nile Rodgers, Sheena Easton, Stevie Nicks, Thieves in the Temple (song) ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/music/2019/sep/12/prince-50-greatest-singles-ranked))
+ - [**"Prince's 50 greatest singles – ranked!"**](https://www.theguardian.com/music/2019/sep/12/prince-50-greatest-singles-ranked) in [The Guardian](https://www.theguardian.com/) on 12 September 2019 about Cat Glover, Nile Rodgers, Screwdriver (song), Sheena Easton, Stevie Nicks, Thieves in the Temple (song) ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/music/2019/sep/12/prince-50-greatest-singles-ranked))
 
 ----
 
@@ -1784,7 +1784,7 @@
 
 ----
 
- - [**"Sheila E. brings the glam to jazz fest"**](https://www.thechronicleherald.ca/living/sheila-e-brings-the-glam-to-jazz-fest-329717/) by Stephen Cooke in [The Chronicle Herald](https://www.thechronicleherald.ca/) on 5 July 2019 about Donald Trump, Morris Day, Sheila E., Trump, Wendy & Lisa ([mirror](https://web.archive.org/web/*/https://www.thechronicleherald.ca/living/sheila-e-brings-the-glam-to-jazz-fest-329717/))
+ - [**"Sheila E. brings the glam to jazz fest"**](https://www.thechronicleherald.ca/living/sheila-e-brings-the-glam-to-jazz-fest-329717/) by Stephen Cooke in [The Chronicle Herald](https://www.thechronicleherald.ca/) on 5 July 2019 about Donald Trump, Morris Day, Romance 1600 (album), Sheila E., Trump, Wendy & Lisa ([mirror](https://web.archive.org/web/*/https://www.thechronicleherald.ca/living/sheila-e-brings-the-glam-to-jazz-fest-329717/))
 
 ----
 
@@ -1858,7 +1858,7 @@
 
 ----
 
- - [**"Prince's 'Originals' Album: Comparing Each Demo With Its Well-Known Cover Version"**](https://www.billboard.com/articles/news/8517576/prince-originals-album-covers) in [Billboard](https://www.billboard.com/) on 25 June 2019 about Alan Light, Bangles, BrownMark, Jill Jones, Morris Day, Nile Rodgers, Originals (album), Super Bowl, Super Bowl XLI (event), Susanna Hoffs, The Revolution ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8517576/prince-originals-album-covers))
+ - [**"Prince's 'Originals' Album: Comparing Each Demo With Its Well-Known Cover Version"**](https://www.billboard.com/articles/news/8517576/prince-originals-album-covers) in [Billboard](https://www.billboard.com/) on 25 June 2019 about Alan Light, Bangles, BrownMark, Jill Jones, Morris Day, Nile Rodgers, Originals (album), Romance 1600 (album), Super Bowl, Super Bowl XLI (event), Susanna Hoffs, The Revolution ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8517576/prince-originals-album-covers))
 
 ----
 
@@ -2084,7 +2084,7 @@
 
 ----
 
-## April 2019 (33)
+## April 2019 (34)
 
  - [**"Two veteran Minnesota bands earn their First Avenue stars (one a do-over)"**](http://www.startribune.com/two-veteran-minnesota-bands-earn-their-first-avenue-stars-one-a-do-over/509260572/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 30 April 2019 about First Avenue (place), Lisa Coleman, Matt Fink, Sam’s (place), The Revolution, Uncle Sam’s (place), Wendy Melvoin ([mirror](https://web.archive.org/web/*/http://www.startribune.com/two-veteran-minnesota-bands-earn-their-first-avenue-stars-one-a-do-over/509260572/))
 
@@ -2175,6 +2175,10 @@
 ----
 
  - [**"Prince died three years ago, his estate is still unsettled: Here's why"**](https://usatoday.com/story/life/2019/04/18/prince-died-3-years-ago-his-estate-still-unsettled-heres-why/3344038002/) in [USA Today](https://usatoday.com/) on 21 April 2019 about Alfred Jackson, auction, Bremer Trust, Caribbean, Carver County, Celebration 2019, Comerica Bank & Trust, exhibition, fentanyl, Graceland, Graceland Holdings, Joel Weinshanker, John Nelson, Kevin Eide, Legacy Recordings, merchandise, museum, My Name Is Prince (exhibition), Norrine Nelson, Omarr Baker, Prince Anthology: 1995-2010 (album), Prince Estate, Prince: In Concert On The Big Screen, Sharon Nelson, The Prince Estate, Turks and Caicos, Tyka Nelson, University of Minnesota ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/2019/04/18/prince-died-3-years-ago-his-estate-still-unsettled-heres-why/3344038002/))
+
+----
+
+ - [**"Sunday Sounds: Celebrating The Phenomenal Drummers Of Prince"**](https://drummagazine.com/sunday-sounds-prince-drummers-sheila-e-bobby-z-john-blackwell-michael-bland-hannah-ford/) in [drummagazine.com](https://drummagazine.com/) on 21 April 2019 about 3121 (album), 3rdEyeGirl, Around The World In A Day (album), Hannah Welton, Michael Bland, New Power Generation, Parade (album), Purple Rain (album), Sheila E., The Revolution, U Got the Look (song), YouTube ([mirror](https://web.archive.org/web/*/https://drummagazine.com/sunday-sounds-prince-drummers-sheila-e-bobby-z-john-blackwell-michael-bland-hannah-ford/))
 
 ----
 
@@ -2276,7 +2280,7 @@
 
 ----
 
- - [**"Swedish pop star Robyn displays a royal flair in sold-out Palace show -- The dance-pop singer shined in shades of silver, white and especially purple in St. Paul."**](http://www.startribune.com/swedish-pop-star-robyn-displays-a-royal-flair-in-sold-out-palace-show/506763742/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 6 March 2019 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/swedish-pop-star-robyn-displays-a-royal-flair-in-sold-out-palace-show/506763742/))
+ - [**"Swedish pop star Robyn displays a royal flair in sold-out Palace show -- The dance-pop singer shined in shades of silver, white and especially purple in St. Paul."**](http://www.startribune.com/swedish-pop-star-robyn-displays-a-royal-flair-in-sold-out-palace-show/506763742/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 6 March 2019 about Madonna ([mirror](https://web.archive.org/web/*/http://www.startribune.com/swedish-pop-star-robyn-displays-a-royal-flair-in-sold-out-palace-show/506763742/))
 
 ----
 
@@ -2298,7 +2302,7 @@
 
 ## February 2019 (15)
 
- - [**"The Prince Estate in Partnership with Legacy Recordings Announce Next Wave of Physical Titles in Definitive Catalog Rerelease Project with Prince’s Ultimate Rave on Friday, April 26, 2019"**](https://www.legacyrecordings.com/2019/02/22/the-prince-estate-in-partnership-with-legacy-recordings-announce-next-wave-of-physical-titles-cd-dvd-vinyl-in-definitive-catalog-rerelease-project-with-princes-ultimate-rave-on-friday-april-26-2/) in [Legacy Recordings](https://www.legacyrecordings.com/) on 22 February 2019 about Ani DiFranco, Baby Knows (song), Legacy Recordings, Morris Day, Prince Estate, Rave In2 the Joy Fantastic (album), The Prince Estate ([mirror](https://web.archive.org/web/*/https://www.legacyrecordings.com/2019/02/22/the-prince-estate-in-partnership-with-legacy-recordings-announce-next-wave-of-physical-titles-cd-dvd-vinyl-in-definitive-catalog-rerelease-project-with-princes-ultimate-rave-on-friday-april-26-2/))
+ - [**"The Prince Estate in Partnership with Legacy Recordings Announce Next Wave of Physical Titles in Definitive Catalog Rerelease Project with Prince’s Ultimate Rave on Friday, April 26, 2019"**](https://www.legacyrecordings.com/2019/02/22/the-prince-estate-in-partnership-with-legacy-recordings-announce-next-wave-of-physical-titles-cd-dvd-vinyl-in-definitive-catalog-rerelease-project-with-princes-ultimate-rave-on-friday-april-26-2/) in [Legacy Recordings](https://www.legacyrecordings.com/) on 22 February 2019 about Ani DiFranco, Baby Knows (song), Legacy Recordings, Morris Day, Prince Estate, Rave In2 the Joy Fantastic (album), She’s Always In My Hair (song), The Prince Estate ([mirror](https://web.archive.org/web/*/https://www.legacyrecordings.com/2019/02/22/the-prince-estate-in-partnership-with-legacy-recordings-announce-next-wave-of-physical-titles-cd-dvd-vinyl-in-definitive-catalog-rerelease-project-with-princes-ultimate-rave-on-friday-april-26-2/))
 
 ----
 

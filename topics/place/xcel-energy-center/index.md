@@ -4,6 +4,10 @@
 
 ----
 
+ - [**"Twin Cities rockers Hairball go viral after singer's hair catches fire mid-song"**](http://www.startribune.com/twin-cities-rockers-hairball-go-viral-after-singer-s-hair-catches-fire-mid-song/567974442/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 February 2020 about Detroit (place), Xcel Energy Center (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/twin-cities-rockers-hairball-go-viral-after-singer-s-hair-catches-fire-mid-song/567974442/))
+
+----
+
  - [**"6 cool things in music this week including Neil Peart, Billie Eilish, Paisley Park Cinema and Keith Richards"**](http://www.startribune.com/6-cool-things-in-music-this-week-including-neil-peart-billie-eilish-paisley-park-cinema-and-keith-richards/567079992/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 17 January 2020 about Amazing Grace (movie), Aretha Franklin, Jon Bream, Richard Pryor, Wattstax (movie), Xcel Energy Center (place), YouTube ([mirror](https://web.archive.org/web/*/http://www.startribune.com/6-cool-things-in-music-this-week-including-neil-peart-billie-eilish-paisley-park-cinema-and-keith-richards/567079992/))
 
 ----

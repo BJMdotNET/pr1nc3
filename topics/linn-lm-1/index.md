@@ -1,5 +1,9 @@
 # Linn LM-1
 
+ - [**"Engineering Prince: Working With The Purple One as a Creator, Drummer, and Electronic Drum Pioneer"**](https://drummagazine.com/engineering-prince-the-purple-one-as-a-creator-drummer-and-electronic-drum-pioneer/) in [drummagazine.com](https://drummagazine.com/) on 14 February 2020 about 3121 (album), Around The World In A Day (album), Controversy (album), Larrabee Sound (place), Linn LM-1, Lisa Chamblee, Peggy McCreary, PRN Alumni Foundation, Purple Rain (album), Romance 1600 (album), Sunset Sound (place), Susan Rogers, Sylvia Massy, U Got the Look (song), vault ([mirror](https://web.archive.org/web/*/https://drummagazine.com/engineering-prince-the-purple-one-as-a-creator-drummer-and-electronic-drum-pioneer/))
+
+----
+
  - [**"More Prince, More Pleasure: The Joys of the Expanded ‘1999’ -- Prince’s fifth album, rereleased on its 37th anniversary with a wealth of material from his vault, captures the moment he broke down barriers and became a rock star."**](https://www.nytimes.com/2019/11/27/arts/music/prince-1999-review.html) in [New York Times](https://www.nytimes.com/) on 27 November 2019 about 1999 (album), Bold Generation (song), Feel U Up (song), I Wanna Be Your Lover (song), Irresistible Bitch (song), Linn LM-1, Little Red Corvette (song), New Power Generation (song), No Call U (song), Possessed (song), Purple Music (song), Rearrange (song), Vagina (song), Vanity, Vanity 6, vault ([mirror](https://web.archive.org/web/*/https://www.nytimes.com/2019/11/27/arts/music/prince-1999-review.html))
 
 ----

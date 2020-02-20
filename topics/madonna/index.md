@@ -12,7 +12,7 @@
 
 ----
 
- - [**"Billie Eilish sweeps Lizzo in a historic Grammy battle of the newcomers -- Lizzo seized her Grammy moment, but 18-year-old Billie Eilish pulled off a historic sweep of the top prizes. "**](http://www.startribune.com/with-fierce-emotion-lizzo-seizes-her-grammy-moment-i-m-crying-cuz-i-love-you/567316152/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 27 January 2020 about Ava DuVernay, Gary Clark Jr., Grammy Award, John Legend, Lizzo, Madonna, Michael Jackson, The Roots, Usher ([mirror](https://web.archive.org/web/*/http://www.startribune.com/with-fierce-emotion-lizzo-seizes-her-grammy-moment-i-m-crying-cuz-i-love-you/567316152/))
+ - [**"Billie Eilish sweeps Lizzo in a historic Grammy battle of the newcomers -- Lizzo seized her Grammy moment, but 18-year-old Billie Eilish pulled off a historic sweep of the top prizes. "**](http://www.startribune.com/with-fierce-emotion-lizzo-seizes-her-grammy-moment-i-m-crying-cuz-i-love-you/567316152/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 27 January 2020 about Ava DuVernay, Gary Clark Jr., Grammy Award, John Legend, Lizzo, Madonna, Michael Jackson, Plectrum Electrum (album), The Roots, Usher ([mirror](https://web.archive.org/web/*/http://www.startribune.com/with-fierce-emotion-lizzo-seizes-her-grammy-moment-i-m-crying-cuz-i-love-you/567316152/))
 
 ----
 
@@ -21,6 +21,10 @@
 ----
 
  - [**"BIOGRAPHIC: PRINCE"**](https://www.ammonitepress.com/biographic-prince/) in [www.ammonitepress.com](https://www.ammonitepress.com/) on 20 December 2019 about Alicia Keys, Biographic: Prince (book), Liz Flavell, Madonna ([mirror](https://web.archive.org/web/*/https://www.ammonitepress.com/biographic-prince/))
+
+----
+
+ - [**"Swedish pop star Robyn displays a royal flair in sold-out Palace show -- The dance-pop singer shined in shades of silver, white and especially purple in St. Paul."**](http://www.startribune.com/swedish-pop-star-robyn-displays-a-royal-flair-in-sold-out-palace-show/506763742/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 6 March 2019 about Madonna ([mirror](https://web.archive.org/web/*/http://www.startribune.com/swedish-pop-star-robyn-displays-a-royal-flair-in-sold-out-palace-show/506763742/))
 
 ----
 

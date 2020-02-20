@@ -20,7 +20,7 @@
 
 ----
 
- - [**"Prince: requiem for a bass hero -- The bassists that played with the late legend share their stories"**](https://www.guitarworld.com/features/prince-requiem-for-a-bass-hero) in [GuitarWorld](https://www.guitarworld.com/) on 8 January 2020 about 3rdEyeGirl, Alex Al, André Cymone, BrownMark, Larry Graham, Pop Life (song), Sonny Thompson, Tal Wilkenfeld, Terry Lewis, When Doves Cry (song), YouTube ([mirror](https://web.archive.org/web/*/https://www.guitarworld.com/features/prince-requiem-for-a-bass-hero))
+ - [**"Prince: requiem for a bass hero -- The bassists that played with the late legend share their stories"**](https://www.guitarworld.com/features/prince-requiem-for-a-bass-hero) in [GuitarWorld](https://www.guitarworld.com/) on 8 January 2020 about 3rdEyeGirl, Alex Al, André Cymone, BrownMark, Larry Graham, Pop Life (song), She’s Always In My Hair (song), Sonny Thompson, Tal Wilkenfeld, Terry Lewis, When Doves Cry (song), YouTube ([mirror](https://web.archive.org/web/*/https://www.guitarworld.com/features/prince-requiem-for-a-bass-hero))
 
 ----
 
@@ -32,7 +32,7 @@
 
 ----
 
- - [**"Prince: The Story of 1999 bonus feature: The sound of Prince and Peggy McCreary"**](https://www.thecurrent.org/feature/2019/11/27/prince-the-story-of-1999-bonus-feature-the-sound-of-prince-and-peggy-mccreary) in [The Current](https://www.thecurrent.org/) on 27 November 2019 about 1999 (album), Alan Leeds, Andrea Swensson, Colleen (song), David Leonard, Duane Tudahl, First Avenue (place), Jesse Johnson, Jill Jones, Jimmy Jam, Little Red Corvette (song), Manic Monday (song), motorcycle, Peggy McCreary, Prince: The Story of 1999, Rearrange (song), Sometimes It Snows In April (song), Steve Fargnoli , Sunset Sound (place), Susan Rogers, Vanity, Vanity 6, vault, When Doves Cry (song), YouTube ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/11/27/prince-the-story-of-1999-bonus-feature-the-sound-of-prince-and-peggy-mccreary))
+ - [**"Prince: The Story of 1999 bonus feature: The sound of Prince and Peggy McCreary"**](https://www.thecurrent.org/feature/2019/11/27/prince-the-story-of-1999-bonus-feature-the-sound-of-prince-and-peggy-mccreary) in [The Current](https://www.thecurrent.org/) on 27 November 2019 about 1999 (album), Alan Leeds, Andrea Swensson, Colleen (song), David Leonard, Duane Tudahl, First Avenue (place), Jesse Johnson, Jill Jones, Jimmy Jam, Lisa Chamblee, Little Red Corvette (song), Manic Monday (song), motorcycle, Peggy McCreary, Prince: The Story of 1999, Rearrange (song), Sometimes It Snows In April (song), Steve Fargnoli , Sunset Sound (place), Susan Rogers, Sylvia Massy, Vanity, Vanity 6, vault, When Doves Cry (song), YouTube ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/11/27/prince-the-story-of-1999-bonus-feature-the-sound-of-prince-and-peggy-mccreary))
 
 ----
 
@@ -45,6 +45,10 @@
 ----
 
  - [**"Check out this previously unseen 'Manic Monday' Prince video -- The music video, which features rare rehearsal footage, was released this weekend."**](https://bringmethenews.com/minnesota-lifestyle/check-out-this-previously-unseen-manic-monday-prince-video) in [Bring Me The News](https://bringmethenews.com/) on 23 June 2019 about Apple Music, Bangles, Manic Monday (song), Nothing Compares 2 U (song), Prince Estate, Sinéad O'Connor, The Prince Estate, YouTube ([mirror](https://web.archive.org/web/*/https://bringmethenews.com/minnesota-lifestyle/check-out-this-previously-unseen-manic-monday-prince-video))
+
+----
+
+ - [**"Sunday Sounds: Celebrating The Phenomenal Drummers Of Prince"**](https://drummagazine.com/sunday-sounds-prince-drummers-sheila-e-bobby-z-john-blackwell-michael-bland-hannah-ford/) in [drummagazine.com](https://drummagazine.com/) on 21 April 2019 about 3121 (album), 3rdEyeGirl, Around The World In A Day (album), Hannah Welton, Michael Bland, New Power Generation, Parade (album), Purple Rain (album), Sheila E., The Revolution, U Got the Look (song), YouTube ([mirror](https://web.archive.org/web/*/https://drummagazine.com/sunday-sounds-prince-drummers-sheila-e-bobby-z-john-blackwell-michael-bland-hannah-ford/))
 
 ----
 
@@ -105,6 +109,10 @@
 ----
 
  - [**"Memorable moments from Paisley Park"**](https://apnews.com/d341d2b22be74bf7843f3c485d527b18) by Nekesa Mumbi Moody (Associated Press) in [Associated Press News](https://apnews.com/) on 29 September 2014 about 3rdEyeGirl, Donna Grantis, FKA twigs, James Brown, Katy Perry, Larry Graham, Michael Jackson, Rita Ora, YouTube ([mirror](https://web.archive.org/web/*/https://apnews.com/d341d2b22be74bf7843f3c485d527b18))
+
+----
+
+ - [**"Hannah Ford: The Princess Ride"**](https://drummagazine.com/hannah-ford-the-princess-ride/) in [drummagazine.com](https://drummagazine.com/) on 14 October 2013 about Donna Grantis, Hannah Ford, Ida Neilson, Live Out Loud (tour), New Power Generation, Plectrum Electrum (album), Screwdriver (song), She’s Always In My Hair (song), Sheila E., The Family, The Revolution, YouTube ([mirror](https://web.archive.org/web/*/https://drummagazine.com/hannah-ford-the-princess-ride/))
 
 ----
 

@@ -12,7 +12,7 @@
 
 ----
 
- - [**"Sheila E. reflects on losing Prince, jamming with Ringo and how Trump inspired 'Iconic'"**](https://usatoday.com/story/entertainment/music/2018/01/11/sheila-e-interview-prince-ringo-starr-donald-trump-iconic/1022142001/) in [USA Today](https://usatoday.com/) on 18 January 2018 about Candy Dulfer, Donald Trump, George Clinton, Oliver’s House (song), Sheila E., Stevie Wonder, The Belle of St. Mark (song), The Glamorous Life (album), The Glamorous Life (song), Trump ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/entertainment/music/2018/01/11/sheila-e-interview-prince-ringo-starr-donald-trump-iconic/1022142001/))
+ - [**"Sheila E. reflects on losing Prince, jamming with Ringo and how Trump inspired 'Iconic'"**](https://usatoday.com/story/entertainment/music/2018/01/11/sheila-e-interview-prince-ringo-starr-donald-trump-iconic/1022142001/) in [USA Today](https://usatoday.com/) on 18 January 2018 about Candy Dulfer, Donald Trump, George Clinton, Oliver’s House (song), Romance 1600 (album), Sheila E., Stevie Wonder, The Belle of St. Mark (song), The Glamorous Life (album), The Glamorous Life (song), Trump ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/entertainment/music/2018/01/11/sheila-e-interview-prince-ringo-starr-donald-trump-iconic/1022142001/))
 
 ----
 

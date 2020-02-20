@@ -4,7 +4,7 @@
 
 ----
 
- - [**"Prince: requiem for a bass hero -- The bassists that played with the late legend share their stories"**](https://www.guitarworld.com/features/prince-requiem-for-a-bass-hero) in [GuitarWorld](https://www.guitarworld.com/) on 8 January 2020 about 3rdEyeGirl, Alex Al, André Cymone, BrownMark, Larry Graham, Pop Life (song), Sonny Thompson, Tal Wilkenfeld, Terry Lewis, When Doves Cry (song), YouTube ([mirror](https://web.archive.org/web/*/https://www.guitarworld.com/features/prince-requiem-for-a-bass-hero))
+ - [**"Prince: requiem for a bass hero -- The bassists that played with the late legend share their stories"**](https://www.guitarworld.com/features/prince-requiem-for-a-bass-hero) in [GuitarWorld](https://www.guitarworld.com/) on 8 January 2020 about 3rdEyeGirl, Alex Al, André Cymone, BrownMark, Larry Graham, Pop Life (song), She’s Always In My Hair (song), Sonny Thompson, Tal Wilkenfeld, Terry Lewis, When Doves Cry (song), YouTube ([mirror](https://web.archive.org/web/*/https://www.guitarworld.com/features/prince-requiem-for-a-bass-hero))
 
 ----
 
@@ -33,6 +33,10 @@
 ----
 
  - [**"PREVIEW: Donna Grantis At The Dakota Jazz Club, 9/24"**](https://twincitiesarts.com/2019/09/17/preview-donna-gratis-dakota-jazz-club/) in [twincitiesarts.com](https://twincitiesarts.com/) on 17 September 2019 about 3rdEyeGirl, Dakota (place), Donna Grantis, Hannah Welton, Miles Davis, New Power Generation, Toronto ([mirror](https://web.archive.org/web/*/https://twincitiesarts.com/2019/09/17/preview-donna-gratis-dakota-jazz-club/))
+
+----
+
+ - [**"Sunday Sounds: Celebrating The Phenomenal Drummers Of Prince"**](https://drummagazine.com/sunday-sounds-prince-drummers-sheila-e-bobby-z-john-blackwell-michael-bland-hannah-ford/) in [drummagazine.com](https://drummagazine.com/) on 21 April 2019 about 3121 (album), 3rdEyeGirl, Around The World In A Day (album), Hannah Welton, Michael Bland, New Power Generation, Parade (album), Purple Rain (album), Sheila E., The Revolution, U Got the Look (song), YouTube ([mirror](https://web.archive.org/web/*/https://drummagazine.com/sunday-sounds-prince-drummers-sheila-e-bobby-z-john-blackwell-michael-bland-hannah-ford/))
 
 ----
 
@@ -112,11 +116,11 @@
 
 ----
 
- - [**"Prince plays London living-room gig"**](https://apnews.com/cdab667abcd84f809dda4c49a044486f) in [Associated Press News](https://apnews.com/) on 5 February 2014 about 3rdEyeGirl, bootleg, contract, London (place) ([mirror](https://web.archive.org/web/*/https://apnews.com/cdab667abcd84f809dda4c49a044486f))
+ - [**"Prince plays London living-room gig"**](https://apnews.com/cdab667abcd84f809dda4c49a044486f) in [Associated Press News](https://apnews.com/) on 5 February 2014 about 3rdEyeGirl, bootleg, contract, Hannah Ford, London (place), Plectrum Electrum (album) ([mirror](https://web.archive.org/web/*/https://apnews.com/cdab667abcd84f809dda4c49a044486f))
 
 ----
 
- - [**"Prince plays London living-room gig"**](https://apnews.com/f22a4231a0ec48dba636f2d710184fe0) by Jill Lawless (Associated Press) in [Associated Press News](https://apnews.com/) on 5 February 2014 about 3rdEyeGirl, bootleg, contract, Donna Grantis, Purple Rain (album) ([mirror](https://web.archive.org/web/*/https://apnews.com/f22a4231a0ec48dba636f2d710184fe0))
+ - [**"Prince plays London living-room gig"**](https://apnews.com/f22a4231a0ec48dba636f2d710184fe0) by Jill Lawless (Associated Press) in [Associated Press News](https://apnews.com/) on 5 February 2014 about 3rdEyeGirl, bootleg, contract, Donna Grantis, Hannah Ford, Plectrum Electrum (album), Purple Rain (album) ([mirror](https://web.archive.org/web/*/https://apnews.com/f22a4231a0ec48dba636f2d710184fe0))
 
 ----
 
