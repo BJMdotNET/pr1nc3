@@ -1,5 +1,9 @@
 # Around The World In A Day (song)
 
+ - [**"The Prince Estate in Partnership with Legacy Recordings Announce Next Wave of Physical Titles in Definitive Prince Catalog Reissue Project arriving Friday, April 17"**](https://www.legacyrecordings.com/2020/02/20/the-prince-estate-in-partnership-with-legacy-recordings-announce-next-wave-of-physical-titles-in-definitive-prince-catalog-reissue-project-arriving-friday-april-17/) in [Legacy Recordings](https://www.legacyrecordings.com/) on 20 February 2020 about Around The World In A Day (song), Candy Dulfer, Eric Leeds, George Clinton, James Brown, Joni Mitchell, Legacy Recordings, Live at The Aladdin Las Vegas (DVD), Maceo Parker, New Power Generation, Nothing Compares 2 U (song), NPG Records, One Nite Alone (album), One Nite Alone: The Aftershow…It Ain’t Over! (album), One Nite Alone… (album), One Nite Alone… The Aftershow: It Ain’t Over! (album), One Nite Alone…Live! (album), Pop Life (song), Prince Estate, Prince Live at The Aladdin Las Vegas (DVD), Raspberry Beret (song), Sheila E., Sony Music Entertainment, The Prince Estate, The Rainbow Children (album), Up All Nite with Prince: The One Nite Alone Collection (album) ([mirror](https://web.archive.org/web/*/https://www.legacyrecordings.com/2020/02/20/the-prince-estate-in-partnership-with-legacy-recordings-announce-next-wave-of-physical-titles-in-definitive-prince-catalog-reissue-project-arriving-friday-april-17/))
+
+----
+
  - [**"Gruff Rhys preps new LP ‘Pang!’, shares the title track, touring"**](http://www.brooklynvegan.com/gruff-rhys-preps-new-lp-pang-shares-the-title-track-touring/) by Bill Pearis in [Brooklyn Vegan](http://www.brooklynvegan.com/) on 10 July 2019 about Around The World In A Day (album), Around The World In A Day (song) ([mirror](https://web.archive.org/web/*/http://www.brooklynvegan.com/gruff-rhys-preps-new-lp-pang-shares-the-title-track-touring/))
 
 ----

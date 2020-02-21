@@ -1,6 +1,22 @@
 # 2020
 
-## February 2020 (22)
+## February 2020 (26)
+
+ - [**"From Tony Toni Toné’ through 'Jimmy Lee,' Raphael Saadiq has crafted a unique career"**](http://www.citypages.com/music/from-tony-toni-tone-through-jimmy-lee-raphael-saadiq-has-crafted-a-unique-career/568004321) in [City Pages](http://www.citypages.com/) on 20 February 2020 about D’Angelo, First Avenue (place), Raphael Saadiq, Sheila E. ([mirror](https://web.archive.org/web/*/http://www.citypages.com/music/from-tony-toni-tone-through-jimmy-lee-raphael-saadiq-has-crafted-a-unique-career/568004321))
+
+----
+
+ - [**"Get Ready For More Prince Rarities: Estate Will Reissue 'The Rainbow Children' and 'One Nite Alone' Albums"**](https://www.billboard.com/articles/columns/rock/8551497/prince-estate-reissuing-live-early-2000s-studio-album) in [Billboard](https://www.billboard.com/) on 20 February 2020 about Candy Dulfer, Eric Leeds, George Clinton, Joni Mitchell, Legacy Recordings, Maceo Parker, Nothing Compares 2 U (song), NPG Records, One Nite Alone (album), Prince Estate, Raspberry Beret (song), Sheila E., The Prince Estate, The Rainbow Children (album), Up All Nite with Prince: The One Nite Alone Collection (album) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/columns/rock/8551497/prince-estate-reissuing-live-early-2000s-studio-album))
+
+----
+
+ - [**"Prince Estate’s Next Wave of Reissues: ‘Rainbow Children,’ ‘One Nite Alone …’ -- Prince’s 2001 and 2002 output, including live albums and concert film, to be rereleased April 17th"**](https://www.rollingstone.com/music/music-news/prince-rainbow-children-one-nite-alone-reissues-955535/) in [Rolling Stone](https://www.rollingstone.com/) on 20 February 2020 about Chaos and Disorder (album), Emancipation (album), Legacy Recordings, Live at The Aladdin Las Vegas (DVD), NPG Records, One Nite Alone (album), Pop Life (song), Prince Estate, Prince Live at The Aladdin Las Vegas (DVD), The Prince Estate, The Rainbow Children (album), The Versace Experience (Prelude 2 Gold) (album), Up All Nite with Prince: The One Nite Alone Collection (album) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-news/prince-rainbow-children-one-nite-alone-reissues-955535/))
+
+----
+
+ - [**"The Prince Estate in Partnership with Legacy Recordings Announce Next Wave of Physical Titles in Definitive Prince Catalog Reissue Project arriving Friday, April 17"**](https://www.legacyrecordings.com/2020/02/20/the-prince-estate-in-partnership-with-legacy-recordings-announce-next-wave-of-physical-titles-in-definitive-prince-catalog-reissue-project-arriving-friday-april-17/) in [Legacy Recordings](https://www.legacyrecordings.com/) on 20 February 2020 about Around The World In A Day (song), Candy Dulfer, Eric Leeds, George Clinton, James Brown, Joni Mitchell, Legacy Recordings, Live at The Aladdin Las Vegas (DVD), Maceo Parker, New Power Generation, Nothing Compares 2 U (song), NPG Records, One Nite Alone (album), One Nite Alone: The Aftershow…It Ain’t Over! (album), One Nite Alone… (album), One Nite Alone… The Aftershow: It Ain’t Over! (album), One Nite Alone…Live! (album), Pop Life (song), Prince Estate, Prince Live at The Aladdin Las Vegas (DVD), Raspberry Beret (song), Sheila E., Sony Music Entertainment, The Prince Estate, The Rainbow Children (album), Up All Nite with Prince: The One Nite Alone Collection (album) ([mirror](https://web.archive.org/web/*/https://www.legacyrecordings.com/2020/02/20/the-prince-estate-in-partnership-with-legacy-recordings-announce-next-wave-of-physical-titles-in-definitive-prince-catalog-reissue-project-arriving-friday-april-17/))
+
+----
 
  - [**"What’s it like to see a show at the new Fillmore music club in North Loop? We’re glad you asked."**](http://www.citypages.com/music/whats-it-like-to-see-a-show-at-the-new-fillmore-music-club-in-north-loop-were-glad-you-asked/567979071) in [City Pages](http://www.citypages.com/) on 19 February 2020 about Fillmore Minneapolis (place), First Avenue (place), Xcel Energy Center (place) ([mirror](https://web.archive.org/web/*/http://www.citypages.com/music/whats-it-like-to-see-a-show-at-the-new-fillmore-music-club-in-north-loop-were-glad-you-asked/567979071))
 
@@ -38,7 +54,7 @@
 
 ----
 
- - [**"A White Wedding Just Means It's Snowing -- Quick, which Kardashian married a Golden Gopher? Catch up on the history of famous MN couples."**](http://mspmag.com/arts-and-culture/famous-mn-couples/) in [Mpls.St.Paul Magazine](http://mspmag.com/) on 14 February 2020 ([mirror](https://web.archive.org/web/*/http://mspmag.com/arts-and-culture/famous-mn-couples/))
+ - [**"A White Wedding Just Means It's Snowing -- Quick, which Kardashian married a Golden Gopher? Catch up on the history of famous MN couples."**](http://mspmag.com/arts-and-culture/famous-mn-couples/) in [Mpls.St.Paul Magazine](http://mspmag.com/) on 14 February 2020 about C.J., Kim Basinger, Scandalous Sex Suite (EP) ([mirror](https://web.archive.org/web/*/http://mspmag.com/arts-and-culture/famous-mn-couples/))
 
 ----
 

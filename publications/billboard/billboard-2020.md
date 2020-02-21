@@ -1,6 +1,10 @@
 # 2020
 
-## February 2020 (1)
+## February 2020 (2)
+
+ - [**"Get Ready For More Prince Rarities: Estate Will Reissue 'The Rainbow Children' and 'One Nite Alone' Albums"**](https://www.billboard.com/articles/columns/rock/8551497/prince-estate-reissuing-live-early-2000s-studio-album) in [Billboard](https://www.billboard.com/) on 20 February 2020 about Candy Dulfer, Eric Leeds, George Clinton, Joni Mitchell, Legacy Recordings, Maceo Parker, Nothing Compares 2 U (song), NPG Records, One Nite Alone (album), Prince Estate, Raspberry Beret (song), Sheila E., The Prince Estate, The Rainbow Children (album), Up All Nite with Prince: The One Nite Alone Collection (album) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/columns/rock/8551497/prince-estate-reissuing-live-early-2000s-studio-album))
+
+----
 
  - [**"10 Fun Takeaways From Huey Lewis's Evening at the Grammy Museum: Tales of Michael Jackson, Prince, Tina Turner & More"**](https://www.billboard.com/articles/columns/rock/8550910/ten-fun-takeaways-huey-lewis-grammy-museum) in [Billboard](https://www.billboard.com/) on 13 February 2020 about Michael Jackson, We Are the World (song) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/columns/rock/8550910/ten-fun-takeaways-huey-lewis-grammy-museum))
 

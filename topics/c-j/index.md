@@ -1,5 +1,9 @@
 # C.J.
 
+ - [**"A White Wedding Just Means It's Snowing -- Quick, which Kardashian married a Golden Gopher? Catch up on the history of famous MN couples."**](http://mspmag.com/arts-and-culture/famous-mn-couples/) in [Mpls.St.Paul Magazine](http://mspmag.com/) on 14 February 2020 about C.J., Kim Basinger, Scandalous Sex Suite (EP) ([mirror](https://web.archive.org/web/*/http://mspmag.com/arts-and-culture/famous-mn-couples/))
+
+----
+
  - [**"Longtime Star Tribune columnist C.J. retires"**](http://www.startribune.com/c-j-longtime-star-tribune-columnist-retires/559204792/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 3 September 2019 about C.J. ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-longtime-star-tribune-columnist-retires/559204792/))
 
 ----

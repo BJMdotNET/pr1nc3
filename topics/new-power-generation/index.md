@@ -1,5 +1,9 @@
 # New Power Generation
 
+ - [**"The Prince Estate in Partnership with Legacy Recordings Announce Next Wave of Physical Titles in Definitive Prince Catalog Reissue Project arriving Friday, April 17"**](https://www.legacyrecordings.com/2020/02/20/the-prince-estate-in-partnership-with-legacy-recordings-announce-next-wave-of-physical-titles-in-definitive-prince-catalog-reissue-project-arriving-friday-april-17/) in [Legacy Recordings](https://www.legacyrecordings.com/) on 20 February 2020 about Around The World In A Day (song), Candy Dulfer, Eric Leeds, George Clinton, James Brown, Joni Mitchell, Legacy Recordings, Live at The Aladdin Las Vegas (DVD), Maceo Parker, New Power Generation, Nothing Compares 2 U (song), NPG Records, One Nite Alone (album), One Nite Alone: The Aftershow…It Ain’t Over! (album), One Nite Alone… (album), One Nite Alone… The Aftershow: It Ain’t Over! (album), One Nite Alone…Live! (album), Pop Life (song), Prince Estate, Prince Live at The Aladdin Las Vegas (DVD), Raspberry Beret (song), Sheila E., Sony Music Entertainment, The Prince Estate, The Rainbow Children (album), Up All Nite with Prince: The One Nite Alone Collection (album) ([mirror](https://web.archive.org/web/*/https://www.legacyrecordings.com/2020/02/20/the-prince-estate-in-partnership-with-legacy-recordings-announce-next-wave-of-physical-titles-in-definitive-prince-catalog-reissue-project-arriving-friday-april-17/))
+
+----
+
  - [**"Peoria Native Headlines New Teatro Zinzanni Cast"**](https://wbbm780.radio.com/articles/peoria-native-headlines-new-teatro-zinzanni-cast) in [wbbm780.radio.com](https://wbbm780.radio.com/) on 24 January 2020 about Illinois (place), Liv Warfield, New Power Generation, YouTube ([mirror](https://web.archive.org/web/*/https://wbbm780.radio.com/articles/peoria-native-headlines-new-teatro-zinzanni-cast))
 
 ----
@@ -24,7 +28,7 @@
 
 ----
 
- - [**"Prince : tous les bonus de “1999 Super Deluxe” titre par titre"**](http://www.funku.fr/2019/prince-tous-les-bonus-de-1999-super-deluxe-titre-par-titre/) in [Funk-U](http://www.funku.fr/) on 3 November 2019 about 1999 (album), 94 East, Bobby Z., Bold Generation (song), bootleg, Colleen (song), Dez Dickerson, Feel U Up (song), Graffiti Bridge (album), How Come U Don’t Call Me Anymore? (song), Irresistible Bitch (song), James Brown, Little Red Corvette (song), Michael Howe, Morris Day, New Power Generation, No Call U (song), Peggy McCreary, Pepé Willie, Possessed (song), Purple Music (song), Rearrange (song), The Revolution, Vagina (song), vault, Yah, You Know (song) ([mirror](https://web.archive.org/web/*/http://www.funku.fr/2019/prince-tous-les-bonus-de-1999-super-deluxe-titre-par-titre/))
+ - [**"Prince : tous les bonus de “1999 Super Deluxe” titre par titre"**](http://www.funku.fr/2019/prince-tous-les-bonus-de-1999-super-deluxe-titre-par-titre/) in [Funk-U](http://www.funku.fr/) on 3 November 2019 about 1999 (album), 94 East, Bobby Z., Bold Generation (song), bootleg, Colleen (song), Dez Dickerson, Feel U Up (song), Graffiti Bridge (album), How Come U Don’t Call Me Anymore? (song), Irresistible Bitch (song), James Brown, Little Red Corvette (song), Michael Howe, Morris Day, New Power Generation, No Call U (song), One Nite Alone (album), Peggy McCreary, Pepé Willie, Possessed (song), Purple Music (song), Rearrange (song), The Revolution, Vagina (song), vault, Yah, You Know (song) ([mirror](https://web.archive.org/web/*/http://www.funku.fr/2019/prince-tous-les-bonus-de-1999-super-deluxe-titre-par-titre/))
 
 ----
 
@@ -124,7 +128,7 @@
 
 ----
 
- - [**"Prince & The Vault: The 10 Things That Should and Shouldn’t Happen"**](https://medium.com/cuepoint/prince-the-vault-the-10-things-that-should-and-shouldnt-happen-ad96cc58999f) in [Cuepoint](https://medium.com/cuepoint/) on 19 November 2016 about 3rdEyeGirl, Alan Leeds, Apollonia 6, Batdance (song), Donna Grantis, First Avenue (place), George Clinton, Graceland, Graceland Holdings, Ingrid Chavez, James Brown, Jill Jones, Jon Bream, Joshua Welton, Kirk Johnson, LotusFlow3r (album), Mavis Staples, Mayte, museum, New Power Generation, Nothing Compares 2 U (song), Purple Music (song), Susan Rogers, The Ballad Of Dorothy Parker (song), The Gold Experience (album), vault ([mirror](https://web.archive.org/web/*/https://medium.com/cuepoint/prince-the-vault-the-10-things-that-should-and-shouldnt-happen-ad96cc58999f))
+ - [**"Prince & The Vault: The 10 Things That Should and Shouldn’t Happen"**](https://medium.com/cuepoint/prince-the-vault-the-10-things-that-should-and-shouldnt-happen-ad96cc58999f) in [Cuepoint](https://medium.com/cuepoint/) on 19 November 2016 about 3rdEyeGirl, Alan Leeds, Apollonia 6, Batdance (song), Donna Grantis, First Avenue (place), George Clinton, Graceland, Graceland Holdings, Ingrid Chavez, James Brown, Jill Jones, Jon Bream, Joshua Welton, Kirk Johnson, LotusFlow3r (album), Mavis Staples, Mayte, museum, New Power Generation, Nothing Compares 2 U (song), One Nite Alone (album), Purple Music (song), Susan Rogers, The Ballad Of Dorothy Parker (song), The Gold Experience (album), vault ([mirror](https://web.archive.org/web/*/https://medium.com/cuepoint/prince-the-vault-the-10-things-that-should-and-shouldnt-happen-ad96cc58999f))
 
 ----
 

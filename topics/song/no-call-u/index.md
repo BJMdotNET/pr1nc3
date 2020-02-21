@@ -24,7 +24,7 @@
 
 ----
 
- - [**"Prince : tous les bonus de “1999 Super Deluxe” titre par titre"**](http://www.funku.fr/2019/prince-tous-les-bonus-de-1999-super-deluxe-titre-par-titre/) in [Funk-U](http://www.funku.fr/) on 3 November 2019 about 1999 (album), 94 East, Bobby Z., Bold Generation (song), bootleg, Colleen (song), Dez Dickerson, Feel U Up (song), Graffiti Bridge (album), How Come U Don’t Call Me Anymore? (song), Irresistible Bitch (song), James Brown, Little Red Corvette (song), Michael Howe, Morris Day, New Power Generation, No Call U (song), Peggy McCreary, Pepé Willie, Possessed (song), Purple Music (song), Rearrange (song), The Revolution, Vagina (song), vault, Yah, You Know (song) ([mirror](https://web.archive.org/web/*/http://www.funku.fr/2019/prince-tous-les-bonus-de-1999-super-deluxe-titre-par-titre/))
+ - [**"Prince : tous les bonus de “1999 Super Deluxe” titre par titre"**](http://www.funku.fr/2019/prince-tous-les-bonus-de-1999-super-deluxe-titre-par-titre/) in [Funk-U](http://www.funku.fr/) on 3 November 2019 about 1999 (album), 94 East, Bobby Z., Bold Generation (song), bootleg, Colleen (song), Dez Dickerson, Feel U Up (song), Graffiti Bridge (album), How Come U Don’t Call Me Anymore? (song), Irresistible Bitch (song), James Brown, Little Red Corvette (song), Michael Howe, Morris Day, New Power Generation, No Call U (song), One Nite Alone (album), Peggy McCreary, Pepé Willie, Possessed (song), Purple Music (song), Rearrange (song), The Revolution, Vagina (song), vault, Yah, You Know (song) ([mirror](https://web.archive.org/web/*/http://www.funku.fr/2019/prince-tous-les-bonus-de-1999-super-deluxe-titre-par-titre/))
 
 ----
 

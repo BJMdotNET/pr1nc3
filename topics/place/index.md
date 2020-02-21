@@ -11,7 +11,7 @@
   * [Detroit, Michigan (place)](./place/detroit-michigan/) (1)
   * [Electric Fetus (place)](./place/electric-fetus/) (5)
   * [Fillmore Minneapolis (place)](./place/fillmore-minneapolis/) (1)
-  * [First Avenue (place)](./place/first-avenue/) (86)
+  * [First Avenue (place)](./place/first-avenue/) (87)
   * [Galpin Blvd. (place)](./place/galpin-blvd/) (1)
   * [Galpin Boulevard (place)](./place/galpin-boulevard/) (4)
   * [Glam Slam (place)](./place/glam-slam/) (3)

@@ -92,7 +92,7 @@
 
 ----
 
- - [**"Another Treasure Trove Emerges from Prince's Vaults with 'Originals' -- A collection of 15 highly enjoyable demos of songs written for other artists is another reminder – as if we needed one – of why we love Prince Rogers Nelson."**](https://www.popmatters.com/prince-originals-review-2638918026.html) in [PopMatters](https://www.popmatters.com/) on 21 June 2019 about Bangles, Jill Jones, Morris Day, Originals (album review), Originals (album), vault ([mirror](https://web.archive.org/web/*/https://www.popmatters.com/prince-originals-review-2638918026.html))
+ - [**"Another Treasure Trove Emerges from Prince's Vaults with 'Originals' -- A collection of 15 highly enjoyable demos of songs written for other artists is another reminder – as if we needed one – of why we love Prince Rogers Nelson."**](https://www.popmatters.com/prince-originals-review-2638918026.html) in [PopMatters](https://www.popmatters.com/) on 21 June 2019 about Bangles, Jill Jones, Morris Day, One Nite Alone (album), Originals (album review), Originals (album), vault ([mirror](https://web.archive.org/web/*/https://www.popmatters.com/prince-originals-review-2638918026.html))
 
 ----
 
@@ -164,7 +164,7 @@
 
 ----
 
- - [**"Prince & The Vault: The 10 Things That Should and Shouldn’t Happen"**](https://medium.com/cuepoint/prince-the-vault-the-10-things-that-should-and-shouldnt-happen-ad96cc58999f) in [Cuepoint](https://medium.com/cuepoint/) on 19 November 2016 about 3rdEyeGirl, Alan Leeds, Apollonia 6, Batdance (song), Donna Grantis, First Avenue (place), George Clinton, Graceland, Graceland Holdings, Ingrid Chavez, James Brown, Jill Jones, Jon Bream, Joshua Welton, Kirk Johnson, LotusFlow3r (album), Mavis Staples, Mayte, museum, New Power Generation, Nothing Compares 2 U (song), Purple Music (song), Susan Rogers, The Ballad Of Dorothy Parker (song), The Gold Experience (album), vault ([mirror](https://web.archive.org/web/*/https://medium.com/cuepoint/prince-the-vault-the-10-things-that-should-and-shouldnt-happen-ad96cc58999f))
+ - [**"Prince & The Vault: The 10 Things That Should and Shouldn’t Happen"**](https://medium.com/cuepoint/prince-the-vault-the-10-things-that-should-and-shouldnt-happen-ad96cc58999f) in [Cuepoint](https://medium.com/cuepoint/) on 19 November 2016 about 3rdEyeGirl, Alan Leeds, Apollonia 6, Batdance (song), Donna Grantis, First Avenue (place), George Clinton, Graceland, Graceland Holdings, Ingrid Chavez, James Brown, Jill Jones, Jon Bream, Joshua Welton, Kirk Johnson, LotusFlow3r (album), Mavis Staples, Mayte, museum, New Power Generation, Nothing Compares 2 U (song), One Nite Alone (album), Purple Music (song), Susan Rogers, The Ballad Of Dorothy Parker (song), The Gold Experience (album), vault ([mirror](https://web.archive.org/web/*/https://medium.com/cuepoint/prince-the-vault-the-10-things-that-should-and-shouldnt-happen-ad96cc58999f))
 
 ----
 

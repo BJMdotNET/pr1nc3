@@ -1,5 +1,9 @@
 # Raphael Saadiq
 
+ - [**"From Tony Toni Toné’ through 'Jimmy Lee,' Raphael Saadiq has crafted a unique career"**](http://www.citypages.com/music/from-tony-toni-tone-through-jimmy-lee-raphael-saadiq-has-crafted-a-unique-career/568004321) in [City Pages](http://www.citypages.com/) on 20 February 2020 about D’Angelo, First Avenue (place), Raphael Saadiq, Sheila E. ([mirror](https://web.archive.org/web/*/http://www.citypages.com/music/from-tony-toni-tone-through-jimmy-lee-raphael-saadiq-has-crafted-a-unique-career/568004321))
+
+----
+
  - [**"Raphael Saadiq on His Oscar-Nominated ‘Mudbound’ Song, Working With Mary J. Blige and Declining Prince’s Record Deal"**](https://variety.com/2018/film/news/raphael-saadiq-on-his-oscar-nominated-mudbound-song-working-with-mary-j-blige-and-declining-princes-record-deal-1202708352/) in [Variety](https://variety.com/) on 23 February 2018 about Chaka Khan, D’Angelo, Raphael Saadiq, Sheila E. ([mirror](https://web.archive.org/web/*/https://variety.com/2018/film/news/raphael-saadiq-on-his-oscar-nominated-mudbound-song-working-with-mary-j-blige-and-declining-princes-record-deal-1202708352/))
 
 ----

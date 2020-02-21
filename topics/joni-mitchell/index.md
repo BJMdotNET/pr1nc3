@@ -1,5 +1,13 @@
 # Joni Mitchell
 
+ - [**"Get Ready For More Prince Rarities: Estate Will Reissue 'The Rainbow Children' and 'One Nite Alone' Albums"**](https://www.billboard.com/articles/columns/rock/8551497/prince-estate-reissuing-live-early-2000s-studio-album) in [Billboard](https://www.billboard.com/) on 20 February 2020 about Candy Dulfer, Eric Leeds, George Clinton, Joni Mitchell, Legacy Recordings, Maceo Parker, Nothing Compares 2 U (song), NPG Records, One Nite Alone (album), Prince Estate, Raspberry Beret (song), Sheila E., The Prince Estate, The Rainbow Children (album), Up All Nite with Prince: The One Nite Alone Collection (album) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/columns/rock/8551497/prince-estate-reissuing-live-early-2000s-studio-album))
+
+----
+
+ - [**"The Prince Estate in Partnership with Legacy Recordings Announce Next Wave of Physical Titles in Definitive Prince Catalog Reissue Project arriving Friday, April 17"**](https://www.legacyrecordings.com/2020/02/20/the-prince-estate-in-partnership-with-legacy-recordings-announce-next-wave-of-physical-titles-in-definitive-prince-catalog-reissue-project-arriving-friday-april-17/) in [Legacy Recordings](https://www.legacyrecordings.com/) on 20 February 2020 about Around The World In A Day (song), Candy Dulfer, Eric Leeds, George Clinton, James Brown, Joni Mitchell, Legacy Recordings, Live at The Aladdin Las Vegas (DVD), Maceo Parker, New Power Generation, Nothing Compares 2 U (song), NPG Records, One Nite Alone (album), One Nite Alone: The Aftershow…It Ain’t Over! (album), One Nite Alone… (album), One Nite Alone… The Aftershow: It Ain’t Over! (album), One Nite Alone…Live! (album), Pop Life (song), Prince Estate, Prince Live at The Aladdin Las Vegas (DVD), Raspberry Beret (song), Sheila E., Sony Music Entertainment, The Prince Estate, The Rainbow Children (album), Up All Nite with Prince: The One Nite Alone Collection (album) ([mirror](https://web.archive.org/web/*/https://www.legacyrecordings.com/2020/02/20/the-prince-estate-in-partnership-with-legacy-recordings-announce-next-wave-of-physical-titles-in-definitive-prince-catalog-reissue-project-arriving-friday-april-17/))
+
+----
+
  - [**"Segerstrom Center Announces Kandace Springs To Headline Jazz Series In February"**](https://www.broadwayworld.com/costa-mesa/article/Segerstrom-Center-Announces-Kandace-Springs-To-Headline-Jazz-Series-In-February-20200115) in [www.broadwayworld.com](https://www.broadwayworld.com/) on 15 January 2020 about Joni Mitchell, Kandace Springs, Lizz Wright ([mirror](https://web.archive.org/web/*/https://www.broadwayworld.com/costa-mesa/article/Segerstrom-Center-Announces-Kandace-Springs-To-Headline-Jazz-Series-In-February-20200115))
 
 ----
@@ -96,7 +104,7 @@
 
 ----
 
- - [**"Paean to Prince: 15 Fascinating Facts About His Purple Majesty -- Juicy secrets from a legendary music career, collected by an infatuated fan"**](https://medium.com/cuepoint/paean-to-prince-15-fascinating-facts-about-his-purple-majesty-6aa627d1d17e) in [Cuepoint](https://medium.com/cuepoint/) on 10 February 2016 about Alan Light, Albert Magnoli, Apollonia 6, Dave Chappelle, Janet Jackson, Jehovah’s Witness, Jesse Johnson, Jimmy Jam, Joni Mitchell, Larry Graham, Lisa Coleman, Matt Fink, memoir, Michael Jackson, Morris Day, Questlove, Quincy Jones, Sheila E., Stand Back (song), Stevie Nicks, Sunset Sound (place), Susan Rogers, Terry Lewis, The Revolution, Vagina (song), Vanity, Vanity 6 ([mirror](https://web.archive.org/web/*/https://medium.com/cuepoint/paean-to-prince-15-fascinating-facts-about-his-purple-majesty-6aa627d1d17e))
+ - [**"Paean to Prince: 15 Fascinating Facts About His Purple Majesty -- Juicy secrets from a legendary music career, collected by an infatuated fan"**](https://medium.com/cuepoint/paean-to-prince-15-fascinating-facts-about-his-purple-majesty-6aa627d1d17e) in [Cuepoint](https://medium.com/cuepoint/) on 10 February 2016 about Alan Light, Albert Magnoli, Apollonia 6, Dave Chappelle, Janet Jackson, Jehovah’s Witness, Jesse Johnson, Jimmy Jam, Joni Mitchell, Larry Graham, Lisa Coleman, Matt Fink, memoir, Michael Jackson, Morris Day, One Nite Alone (album), Questlove, Quincy Jones, Sheila E., Stand Back (song), Stevie Nicks, Sunset Sound (place), Susan Rogers, Terry Lewis, The Revolution, Vagina (song), Vanity, Vanity 6 ([mirror](https://web.archive.org/web/*/https://medium.com/cuepoint/paean-to-prince-15-fascinating-facts-about-his-purple-majesty-6aa627d1d17e))
 
 ----
 

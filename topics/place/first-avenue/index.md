@@ -1,5 +1,9 @@
 # First Avenue (place)
 
+ - [**"From Tony Toni Toné’ through 'Jimmy Lee,' Raphael Saadiq has crafted a unique career"**](http://www.citypages.com/music/from-tony-toni-tone-through-jimmy-lee-raphael-saadiq-has-crafted-a-unique-career/568004321) in [City Pages](http://www.citypages.com/) on 20 February 2020 about D’Angelo, First Avenue (place), Raphael Saadiq, Sheila E. ([mirror](https://web.archive.org/web/*/http://www.citypages.com/music/from-tony-toni-tone-through-jimmy-lee-raphael-saadiq-has-crafted-a-unique-career/568004321))
+
+----
+
  - [**"What’s it like to see a show at the new Fillmore music club in North Loop? We’re glad you asked."**](http://www.citypages.com/music/whats-it-like-to-see-a-show-at-the-new-fillmore-music-club-in-north-loop-were-glad-you-asked/567979071) in [City Pages](http://www.citypages.com/) on 19 February 2020 about Fillmore Minneapolis (place), First Avenue (place), Xcel Energy Center (place) ([mirror](https://web.archive.org/web/*/http://www.citypages.com/music/whats-it-like-to-see-a-show-at-the-new-fillmore-music-club-in-north-loop-were-glad-you-asked/567979071))
 
 ----
@@ -264,7 +268,7 @@
 
 ----
 
- - [**"Prince & The Vault: The 10 Things That Should and Shouldn’t Happen"**](https://medium.com/cuepoint/prince-the-vault-the-10-things-that-should-and-shouldnt-happen-ad96cc58999f) in [Cuepoint](https://medium.com/cuepoint/) on 19 November 2016 about 3rdEyeGirl, Alan Leeds, Apollonia 6, Batdance (song), Donna Grantis, First Avenue (place), George Clinton, Graceland, Graceland Holdings, Ingrid Chavez, James Brown, Jill Jones, Jon Bream, Joshua Welton, Kirk Johnson, LotusFlow3r (album), Mavis Staples, Mayte, museum, New Power Generation, Nothing Compares 2 U (song), Purple Music (song), Susan Rogers, The Ballad Of Dorothy Parker (song), The Gold Experience (album), vault ([mirror](https://web.archive.org/web/*/https://medium.com/cuepoint/prince-the-vault-the-10-things-that-should-and-shouldnt-happen-ad96cc58999f))
+ - [**"Prince & The Vault: The 10 Things That Should and Shouldn’t Happen"**](https://medium.com/cuepoint/prince-the-vault-the-10-things-that-should-and-shouldnt-happen-ad96cc58999f) in [Cuepoint](https://medium.com/cuepoint/) on 19 November 2016 about 3rdEyeGirl, Alan Leeds, Apollonia 6, Batdance (song), Donna Grantis, First Avenue (place), George Clinton, Graceland, Graceland Holdings, Ingrid Chavez, James Brown, Jill Jones, Jon Bream, Joshua Welton, Kirk Johnson, LotusFlow3r (album), Mavis Staples, Mayte, museum, New Power Generation, Nothing Compares 2 U (song), One Nite Alone (album), Purple Music (song), Susan Rogers, The Ballad Of Dorothy Parker (song), The Gold Experience (album), vault ([mirror](https://web.archive.org/web/*/https://medium.com/cuepoint/prince-the-vault-the-10-things-that-should-and-shouldnt-happen-ad96cc58999f))
 
 ----
 

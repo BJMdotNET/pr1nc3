@@ -1,5 +1,9 @@
 # The Versace Experience (Prelude 2 Gold) (album)
 
+ - [**"Prince Estate’s Next Wave of Reissues: ‘Rainbow Children,’ ‘One Nite Alone …’ -- Prince’s 2001 and 2002 output, including live albums and concert film, to be rereleased April 17th"**](https://www.rollingstone.com/music/music-news/prince-rainbow-children-one-nite-alone-reissues-955535/) in [Rolling Stone](https://www.rollingstone.com/) on 20 February 2020 about Chaos and Disorder (album), Emancipation (album), Legacy Recordings, Live at The Aladdin Las Vegas (DVD), NPG Records, One Nite Alone (album), Pop Life (song), Prince Estate, Prince Live at The Aladdin Las Vegas (DVD), The Prince Estate, The Rainbow Children (album), The Versace Experience (Prelude 2 Gold) (album), Up All Nite with Prince: The One Nite Alone Collection (album) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-news/prince-rainbow-children-one-nite-alone-reissues-955535/))
+
+----
+
  - [**"Welcome To The Dawn… The Versace Experience"**](https://blog.discogs.com/en/welcome-to-the-dawn-the-versace-experience/) in [blog.discogs.com](https://blog.discogs.com/) on 24 October 2019 about bootleg, Eye Records, New Power Generation, The Gold Experience (album), The Versace Experience (Prelude 2 Gold) (album) ([mirror](https://web.archive.org/web/*/https://blog.discogs.com/en/welcome-to-the-dawn-the-versace-experience/))
 
 ----
