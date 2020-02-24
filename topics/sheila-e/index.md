@@ -20,7 +20,7 @@
 
 ----
 
- - [**"Deep cuts and idiosyncratic visions highlight Grammy tribute concert to Prince"**](https://www.latimes.com/entertainment-arts/music/story/2020-01-29/prince-tribute-grammys-foo-fighters-beck-john-legend) in [Los Angeles Times](https://www.latimes.com/) on 29 January 2020 about Aretha Franklin, Baby I’m a Star (song), Bangles, Beck, Chris Martin, Coldplay, Controversy (song), Earth, Wind & Fire, fentanyl, Foo Fighters, Fred Armisen, Gary Clark Jr., Grammy Award, H.E.R., Jimmy Jam, John Legend, Jungle Love (song), Ken Ehrlich, Let’s Go Crazy (song), Los Angeles Convention Center (place), Manic Monday (song), Mavis Staples, Mountains (song), Nothing Compares 2 U (song), Pop Life (song), Purple Rain (song), Sheila E., St. Vincent, Super Bowl, Super Bowl XLI (event), Susanna Hoffs, Terry Lewis, The Beautiful Ones (song), The Glamorous Life (song), The Revolution, The Time, Under the Cherry Moon (movie) ([mirror](https://web.archive.org/web/*/https://www.latimes.com/entertainment-arts/music/story/2020-01-29/prince-tribute-grammys-foo-fighters-beck-john-legend))
+ - [**"Deep cuts and idiosyncratic visions highlight Grammy tribute concert to Prince"**](https://www.latimes.com/entertainment-arts/music/story/2020-01-29/prince-tribute-grammys-foo-fighters-beck-john-legend) in [Los Angeles Times](https://www.latimes.com/) on 29 January 2020 about Aretha Franklin, Baby I’m a Star (song), Bangles, Beck, Chris Martin, Coldplay, Controversy (song), Earth, Wind & Fire, fentanyl, fentanyl overdose, Foo Fighters, Fred Armisen, Gary Clark Jr., Grammy Award, H.E.R., Jimmy Jam, John Legend, Jungle Love (song), Ken Ehrlich, Let’s Go Crazy (song), Los Angeles Convention Center (place), Manic Monday (song), Mavis Staples, Mountains (song), Nothing Compares 2 U (song), Pop Life (song), Purple Rain (song), Sheila E., St. Vincent, Super Bowl, Super Bowl XLI (event), Susanna Hoffs, Terry Lewis, The Beautiful Ones (song), The Glamorous Life (song), The Revolution, The Time, Under the Cherry Moon (movie) ([mirror](https://web.archive.org/web/*/https://www.latimes.com/entertainment-arts/music/story/2020-01-29/prince-tribute-grammys-foo-fighters-beck-john-legend))
 
 ----
 
@@ -184,7 +184,7 @@
 
 ----
 
- - [**"Prince’s Unearthed ‘Originals’: Collaborators Look Back on the Hits He Passed Along -- As demos of future classics like “Manic Monday” and Nothing Compares 2 U” finally see official release, Apollonia, the Bangles’ Susanna Hoffs, and others recall the artist’s “otherworldly” songwriting talents"**](https://www.rollingstone.com/music/music-features/prince-originals-interview-842940/) by Kory Grow in [Rolling Stone](https://www.rollingstone.com/) on 24 June 2019 about Apollonia 6, Apollonia Kotero, Bangles, contract, George Clinton, Jill Jones, Jungle Love (song), Kenny Rogers, Manic Monday (song), Martika, Mazarati, Nasty Girl (song), Nothing Compares 2 U (song), Originals (album), Peggy McCreary, Prince Estate, Sex Shooter (song), Sheena Easton, Sheila E., Sugar Walls (song), Sunset Sound (place), Susan Rogers, Susanna Hoffs, Susannah Melvoin, The Family, The Prince Estate, The Time, Troy Carter, Vanity 6, vault, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/prince-originals-interview-842940/))
+ - [**"Prince’s Unearthed ‘Originals’: Collaborators Look Back on the Hits He Passed Along -- As demos of future classics like “Manic Monday” and Nothing Compares 2 U” finally see official release, Apollonia, the Bangles’ Susanna Hoffs, and others recall the artist’s “otherworldly” songwriting talents"**](https://www.rollingstone.com/music/music-features/prince-originals-interview-842940/) by Kory Grow in [Rolling Stone](https://www.rollingstone.com/) on 24 June 2019 about Apollonia 6, Apollonia Kotero, Bangles, contract, fentanyl overdose, George Clinton, Jill Jones, Jungle Love (song), Kenny Rogers, Manic Monday (song), Martika, Mazarati, Nasty Girl (song), Nothing Compares 2 U (song), Originals (album), Peggy McCreary, Prince Estate, Sex Shooter (song), Sheena Easton, Sheila E., Sugar Walls (song), Sunset Sound (place), Susan Rogers, Susanna Hoffs, Susannah Melvoin, The Family, The Prince Estate, The Time, Troy Carter, Vanity 6, vault, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/prince-originals-interview-842940/))
 
 ----
 
@@ -244,7 +244,7 @@
 
 ----
 
- - [**"The days the music died: A look at funerals of the greats"**](https://apnews.com/7d546ab5dbec4e5ba4ebd0eddd1064e8) in [Associated Press News](https://apnews.com/) on 29 August 2018 about Aretha Franklin, Graceland, James Brown, Larry Graham, Michael Jackson, museum, Sheila E., Stevie Wonder, trademark ([mirror](https://web.archive.org/web/*/https://apnews.com/7d546ab5dbec4e5ba4ebd0eddd1064e8))
+ - [**"The days the music died: A look at funerals of the greats"**](https://apnews.com/7d546ab5dbec4e5ba4ebd0eddd1064e8) in [Associated Press News](https://apnews.com/) on 29 August 2018 about Aretha Franklin, fentanyl overdose, Graceland, James Brown, Larry Graham, Michael Jackson, museum, Sheila E., Stevie Wonder, trademark ([mirror](https://web.archive.org/web/*/https://apnews.com/7d546ab5dbec4e5ba4ebd0eddd1064e8))
 
 ----
 
@@ -260,7 +260,7 @@
 
 ----
 
- - [**"AM Prep-Music -- PRINCE CELEBRATION PLANNED FOR NEXT MONTH / PRINCE - TOXICOLOGY"**](https://apnews.com/c62930a448b849a785758cf9f450f418) in [Associated Press News](https://apnews.com/) on 27 March 2018 about Dez Dickerson, fentanyl, Matt Fink, Sheila E., The Revolution, toxicology report, tribute fence ([mirror](https://web.archive.org/web/*/https://apnews.com/c62930a448b849a785758cf9f450f418))
+ - [**"AM Prep-Music -- PRINCE CELEBRATION PLANNED FOR NEXT MONTH / PRINCE - TOXICOLOGY"**](https://apnews.com/c62930a448b849a785758cf9f450f418) in [Associated Press News](https://apnews.com/) on 27 March 2018 about Dez Dickerson, fentanyl, fentanyl overdose, Matt Fink, Sheila E., The Revolution, toxicology report, tribute fence ([mirror](https://web.archive.org/web/*/https://apnews.com/c62930a448b849a785758cf9f450f418))
 
 ----
 
@@ -272,11 +272,11 @@
 
 ----
 
- - [**"Prince drummer: No halftime show Prince hologram"**](https://usatoday.com/story/sports/ftw/2018/02/04/prince-drummer-justin-timberlake-told-me-there-will-be-no-hologram-of-prince-at-super-bowl-halftime/110106588/) in [USA Today](https://usatoday.com/) on 4 February 2018 about Justin Timberlake, Sheila E., Super Bowl ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/sports/ftw/2018/02/04/prince-drummer-justin-timberlake-told-me-there-will-be-no-hologram-of-prince-at-super-bowl-halftime/110106588/))
+ - [**"Prince drummer: No halftime show Prince hologram"**](https://usatoday.com/story/sports/ftw/2018/02/04/prince-drummer-justin-timberlake-told-me-there-will-be-no-hologram-of-prince-at-super-bowl-halftime/110106588/) in [USA Today](https://usatoday.com/) on 4 February 2018 about hologram, Justin Timberlake, Sheila E., Super Bowl ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/sports/ftw/2018/02/04/prince-drummer-justin-timberlake-told-me-there-will-be-no-hologram-of-prince-at-super-bowl-halftime/110106588/))
 
 ----
 
- - [**"Prince is gone, but his spirit lives at Minnesota Super Bowl"**](https://apnews.com/760ec69e7a2e430a9879834f5f2eae63) in [Associated Press News](https://apnews.com/) on 2 February 2018 about First Avenue (place), Jimmy Jam, Minnesota Vikings, Morris Day, Morris Hayes, museum, New Power Generation, Sheila E., Super Bowl, Terry Lewis, The Revolution ([mirror](https://web.archive.org/web/*/https://apnews.com/760ec69e7a2e430a9879834f5f2eae63))
+ - [**"Prince is gone, but his spirit lives at Minnesota Super Bowl"**](https://apnews.com/760ec69e7a2e430a9879834f5f2eae63) in [Associated Press News](https://apnews.com/) on 2 February 2018 about First Avenue (place), hologram, Jimmy Jam, Minnesota Vikings, Morris Day, Morris Hayes, museum, New Power Generation, Sheila E., Super Bowl, Terry Lewis, The Revolution ([mirror](https://web.archive.org/web/*/https://apnews.com/760ec69e7a2e430a9879834f5f2eae63))
 
 ----
 

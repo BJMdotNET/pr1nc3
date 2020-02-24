@@ -52,7 +52,7 @@
 
 ----
 
- - [**"All shook up: Graceland to cede Paisley Park management to Prince estate"**](https://blog.thecurrent.org/2019/08/all-shook-up-graceland-to-cede-paisley-park-management-to-prince-estate/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 27 August 2019 about Celebration, Graceland, Graceland Holdings, Joel Weinshanker, Jon Bream, Kirk Johnson, museum, Nooky Jones, Prince Estate, Sharon Nelson ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2019/08/all-shook-up-graceland-to-cede-paisley-park-management-to-prince-estate/))
+ - [**"All shook up: Graceland to cede Paisley Park management to Prince estate"**](https://blog.thecurrent.org/2019/08/all-shook-up-graceland-to-cede-paisley-park-management-to-prince-estate/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 27 August 2019 about Celebration, Comerica, Graceland, Graceland Holdings, Joel Weinshanker, Jon Bream, Kirk Johnson, museum, Nooky Jones, Prince Estate, Sharon Nelson ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2019/08/all-shook-up-graceland-to-cede-paisley-park-management-to-prince-estate/))
 
 ----
 
@@ -80,7 +80,7 @@
 
 ----
 
- - [**"George Clinton gets Paisley Park's Prince celebration off to a funky start"**](https://usatoday.com/story/life/music/2017/04/21/george-clinton-gets-paisley-parks-prince-celebration-off-funky-start/100736612/) in [USA Today](https://usatoday.com/) on 21 April 2017 about Celebration, Celebration 2017, Dave Chappelle, fentanyl, George Clinton, Jungle Love (song), Morris Hayes, New Power Generation, The Revolution ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2017/04/21/george-clinton-gets-paisley-parks-prince-celebration-off-funky-start/100736612/))
+ - [**"George Clinton gets Paisley Park's Prince celebration off to a funky start"**](https://usatoday.com/story/life/music/2017/04/21/george-clinton-gets-paisley-parks-prince-celebration-off-funky-start/100736612/) in [USA Today](https://usatoday.com/) on 21 April 2017 about Celebration, Celebration 2017, Dave Chappelle, fentanyl, fentanyl overdose, George Clinton, Jungle Love (song), Morris Hayes, New Power Generation, The Revolution ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2017/04/21/george-clinton-gets-paisley-parks-prince-celebration-off-funky-start/100736612/))
 
 ----
 

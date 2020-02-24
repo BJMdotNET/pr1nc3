@@ -64,7 +64,7 @@
 
 ----
 
- - [**"Prince’s Unearthed ‘Originals’: Collaborators Look Back on the Hits He Passed Along -- As demos of future classics like “Manic Monday” and Nothing Compares 2 U” finally see official release, Apollonia, the Bangles’ Susanna Hoffs, and others recall the artist’s “otherworldly” songwriting talents"**](https://www.rollingstone.com/music/music-features/prince-originals-interview-842940/) by Kory Grow in [Rolling Stone](https://www.rollingstone.com/) on 24 June 2019 about Apollonia 6, Apollonia Kotero, Bangles, contract, George Clinton, Jill Jones, Jungle Love (song), Kenny Rogers, Manic Monday (song), Martika, Mazarati, Nasty Girl (song), Nothing Compares 2 U (song), Originals (album), Peggy McCreary, Prince Estate, Sex Shooter (song), Sheena Easton, Sheila E., Sugar Walls (song), Sunset Sound (place), Susan Rogers, Susanna Hoffs, Susannah Melvoin, The Family, The Prince Estate, The Time, Troy Carter, Vanity 6, vault, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/prince-originals-interview-842940/))
+ - [**"Prince’s Unearthed ‘Originals’: Collaborators Look Back on the Hits He Passed Along -- As demos of future classics like “Manic Monday” and Nothing Compares 2 U” finally see official release, Apollonia, the Bangles’ Susanna Hoffs, and others recall the artist’s “otherworldly” songwriting talents"**](https://www.rollingstone.com/music/music-features/prince-originals-interview-842940/) by Kory Grow in [Rolling Stone](https://www.rollingstone.com/) on 24 June 2019 about Apollonia 6, Apollonia Kotero, Bangles, contract, fentanyl overdose, George Clinton, Jill Jones, Jungle Love (song), Kenny Rogers, Manic Monday (song), Martika, Mazarati, Nasty Girl (song), Nothing Compares 2 U (song), Originals (album), Peggy McCreary, Prince Estate, Sex Shooter (song), Sheena Easton, Sheila E., Sugar Walls (song), Sunset Sound (place), Susan Rogers, Susanna Hoffs, Susannah Melvoin, The Family, The Prince Estate, The Time, Troy Carter, Vanity 6, vault, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/prince-originals-interview-842940/))
 
 ----
 
@@ -76,7 +76,7 @@
 
 ----
 
- - [**"10 deep nuggets of info we learned at the playback of Prince’s new album, ‘Originals’"**](https://www.nme.com/blogs/11-things-we-learned-at-playback-new-prince-album-2506506) in [NME (New Musical Express)](https://www.nme.com/) on 10 June 2019 about Bangles, Jill Jones, Michael Howe, Michael Jackson, Morris Day, Originals (album), Peggy McCreary, The Revolution, Troy Carter, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://www.nme.com/blogs/11-things-we-learned-at-playback-new-prince-album-2506506))
+ - [**"10 deep nuggets of info we learned at the playback of Prince’s new album, ‘Originals’"**](https://www.nme.com/blogs/11-things-we-learned-at-playback-new-prince-album-2506506) in [NME (New Musical Express)](https://www.nme.com/) on 10 June 2019 about Bangles, hologram, Jill Jones, Michael Howe, Michael Jackson, Morris Day, Originals (album), Peggy McCreary, The Revolution, Troy Carter, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://www.nme.com/blogs/11-things-we-learned-at-playback-new-prince-album-2506506))
 
 ----
 

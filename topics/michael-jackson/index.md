@@ -1,5 +1,13 @@
 # Michael Jackson
 
+ - [**"Prince estate fight gets even thornier with heir's death and will"**](https://www.bizjournals.com/twincities/news/2020/02/23/prince-estate-fight-gets-even-thornier-with-heirs.html) in [Minneapolis / St. Paul Business Journal](https://www.bizjournals.com/twincities/) on 23 February 2020 about Alfred Jackson, hologram, Michael Jackson, museum, Paisley Park Studios (place), Primary Wave, Prince Estate, Raffles Van Exel, Tyka Nelson, Whitney Houston ([mirror](https://web.archive.org/web/*/https://www.bizjournals.com/twincities/news/2020/02/23/prince-estate-fight-gets-even-thornier-with-heirs.html))
+
+----
+
+ - [**"Death of Prince heir complicates estate settlement even more -- Nearly a third of Prince's estate could go to parties not related to him after two siblings signed agreements with Primary Wave."**](http://www.startribune.com/untimely-death-of-prince-heir-complicates-estate-settlement-even-more/568089142/) by Jon Bream, Mike Hughlett in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 February 2020 about Alfred Jackson, Carver County, Comerica, Dennis Patrick, fentanyl, fentanyl overdose, Fredrikson & Byron, hologram, John Nelson, L. Londell McMillan, Lawrence Mestel, Leonardo Starke, Michael Jackson, Mitchell Hamline Law Review, O.J. Simpson, Primary Wave, Prince Estate, probate court, Raffles Van Exel, Shawn Jackson, The Prince Estate, Troy Carter, Tyka Nelson, Whitney Houston, Xcel Energy Center (place), YouTube ([mirror](https://web.archive.org/web/*/http://www.startribune.com/untimely-death-of-prince-heir-complicates-estate-settlement-even-more/568089142/))
+
+----
+
  - [**"10 Fun Takeaways From Huey Lewis's Evening at the Grammy Museum: Tales of Michael Jackson, Prince, Tina Turner & More"**](https://www.billboard.com/articles/columns/rock/8550910/ten-fun-takeaways-huey-lewis-grammy-museum) in [Billboard](https://www.billboard.com/) on 13 February 2020 about Michael Jackson, We Are the World (song) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/columns/rock/8550910/ten-fun-takeaways-huey-lewis-grammy-museum))
 
 ----
@@ -20,31 +28,31 @@
 
 ----
 
- - [**"Prince wrongful death case dismissed; estate case continues"**](https://www.mprnews.org/story/2020/01/20/prince-wrongful-death-case-dismissed-estate-case-continues) by Amy Forliti (Associated Press) in [MPR News (Minnesota Public Radio)](https://www.mprnews.org/) on 20 January 2020 about Alfred Jackson, fentanyl, Howard Kornfeld, Illinois (place), John Nelson, Kirk Johnson, Michael Jackson, Michael Schulenberg, oxycodone, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/https://www.mprnews.org/story/2020/01/20/prince-wrongful-death-case-dismissed-estate-case-continues))
+ - [**"Prince wrongful death case dismissed; estate case continues"**](https://www.mprnews.org/story/2020/01/20/prince-wrongful-death-case-dismissed-estate-case-continues) by Amy Forliti (Associated Press) in [MPR News (Minnesota Public Radio)](https://www.mprnews.org/) on 20 January 2020 about Alfred Jackson, fentanyl, fentanyl overdose, Howard Kornfeld, Illinois (place), John Nelson, Kirk Johnson, Michael Jackson, Michael Schulenberg, oxycodone, Primary Wave, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/https://www.mprnews.org/story/2020/01/20/prince-wrongful-death-case-dismissed-estate-case-continues))
 
 ----
 
- - [**"Prince wrongful death case dismissed; estate case continues"**](https://apnews.com/720413e6c7ff85e224936f008554f2a0) by Amy Forliti (Associated Press) in [Associated Press News](https://apnews.com/) on 20 January 2020 about Alfred Jackson, fentanyl, Howard Kornfeld, Illinois (place), John Nelson, Kirk Johnson, Michael Jackson, Michael Schulenberg, oxycodone, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/https://apnews.com/720413e6c7ff85e224936f008554f2a0))
+ - [**"Prince wrongful death case dismissed; estate case continues"**](https://apnews.com/720413e6c7ff85e224936f008554f2a0) by Amy Forliti (Associated Press) in [Associated Press News](https://apnews.com/) on 20 January 2020 about Alfred Jackson, fentanyl, fentanyl overdose, Howard Kornfeld, Illinois (place), John Nelson, Kirk Johnson, Michael Jackson, Michael Schulenberg, oxycodone, Primary Wave, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/https://apnews.com/720413e6c7ff85e224936f008554f2a0))
 
 ----
 
- - [**"Prince wrongful death case dismissed; estate case continues"**](https://www.twincities.com/2020/01/20/princes-estate-quietly-dismisses-wrongful-death-claims/) by Amy Forliti (Associated Press) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 20 January 2020 about Alfred Jackson, fentanyl, Howard Kornfeld, Illinois (place), John Nelson, Kirk Johnson, Michael Jackson, Michael Schulenberg, oxycodone, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2020/01/20/princes-estate-quietly-dismisses-wrongful-death-claims/))
+ - [**"Prince wrongful death case dismissed; estate case continues"**](https://www.twincities.com/2020/01/20/princes-estate-quietly-dismisses-wrongful-death-claims/) by Amy Forliti (Associated Press) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 20 January 2020 about Alfred Jackson, fentanyl, fentanyl overdose, Howard Kornfeld, Illinois (place), John Nelson, Kirk Johnson, Michael Jackson, Michael Schulenberg, oxycodone, Primary Wave, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2020/01/20/princes-estate-quietly-dismisses-wrongful-death-claims/))
 
 ----
 
- - [**"Prince wrongful death case dismissed; estate case continues"**](http://www.startribune.com/prince-wrongful-death-case-dismissed-estate-case-continues/567136462/) by Amy Forliti (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 January 2020 about Alfred Jackson, fentanyl, Howard Kornfeld, Illinois (place), John Nelson, Kirk Johnson, Michael Jackson, Michael Schulenberg, oxycodone, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-wrongful-death-case-dismissed-estate-case-continues/567136462/))
+ - [**"Prince wrongful death case dismissed; estate case continues"**](http://www.startribune.com/prince-wrongful-death-case-dismissed-estate-case-continues/567136462/) by Amy Forliti (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 January 2020 about Alfred Jackson, fentanyl, fentanyl overdose, Howard Kornfeld, Illinois (place), John Nelson, Kirk Johnson, Michael Jackson, Michael Schulenberg, oxycodone, Primary Wave, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-wrongful-death-case-dismissed-estate-case-continues/567136462/))
 
 ----
 
- - [**"Prince Wrongful Death Case Dismissed; Estate Case Continues"**](https://www.billboard.com/articles/business/legal-and-management/8548465/prince-wrongful-death-case-dismissed-estate-case) in [Billboard](https://www.billboard.com/) on 20 January 2020 about Alfred Jackson, fentanyl, Howard Kornfeld, Illinois (place), John Nelson, Kirk Johnson, Michael Jackson, Michael Schulenberg, oxycodone, Prince Estate, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/business/legal-and-management/8548465/prince-wrongful-death-case-dismissed-estate-case))
+ - [**"Prince Wrongful Death Case Dismissed; Estate Case Continues"**](https://www.billboard.com/articles/business/legal-and-management/8548465/prince-wrongful-death-case-dismissed-estate-case) in [Billboard](https://www.billboard.com/) on 20 January 2020 about Alfred Jackson, fentanyl, fentanyl overdose, Howard Kornfeld, Illinois (place), John Nelson, Kirk Johnson, Michael Jackson, Michael Schulenberg, oxycodone, Primary Wave, Prince Estate, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/business/legal-and-management/8548465/prince-wrongful-death-case-dismissed-estate-case))
 
 ----
 
- - [**"Prince Wrongful Death Case Dismissed; Estate Case Continues"**](https://minnesota.cbslocal.com/2020/01/20/prince-wrongful-death-case-dismissed-estate-case-continues/) by Amy Forliti (Associated Press) in [WCCO - CBS Minnesota](https://minnesota.cbslocal.com/) on 20 January 2020 about Alfred Jackson, fentanyl, Howard Kornfeld, Illinois (place), John Nelson, Kirk Johnson, Michael Jackson, Michael Schulenberg, oxycodone, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/https://minnesota.cbslocal.com/2020/01/20/prince-wrongful-death-case-dismissed-estate-case-continues/))
+ - [**"Prince Wrongful Death Case Dismissed; Estate Case Continues"**](https://minnesota.cbslocal.com/2020/01/20/prince-wrongful-death-case-dismissed-estate-case-continues/) by Amy Forliti (Associated Press) in [WCCO - CBS Minnesota](https://minnesota.cbslocal.com/) on 20 January 2020 about Alfred Jackson, fentanyl, fentanyl overdose, Howard Kornfeld, Illinois (place), John Nelson, Kirk Johnson, Michael Jackson, Michael Schulenberg, oxycodone, Primary Wave, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/https://minnesota.cbslocal.com/2020/01/20/prince-wrongful-death-case-dismissed-estate-case-continues/))
 
 ----
 
- - [**"Prince wrongful death case quietly dismissed; attempts to settle estate continue"**](https://usatoday.com/story/entertainment/music/2020/01/20/prince-wrongful-death-case-dismissed-work-settle-estate-continues/4527342002/) in [USA Today](https://usatoday.com/) on 20 January 2020 about Alfred Jackson, fentanyl, Howard Kornfeld, Illinois (place), John Nelson, Kirk Johnson, Michael Jackson, Michael Schulenberg, oxycodone, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/entertainment/music/2020/01/20/prince-wrongful-death-case-dismissed-work-settle-estate-continues/4527342002/))
+ - [**"Prince wrongful death case quietly dismissed; attempts to settle estate continue"**](https://usatoday.com/story/entertainment/music/2020/01/20/prince-wrongful-death-case-dismissed-work-settle-estate-continues/4527342002/) in [USA Today](https://usatoday.com/) on 20 January 2020 about Alfred Jackson, fentanyl, fentanyl overdose, Howard Kornfeld, Illinois (place), John Nelson, Kirk Johnson, Michael Jackson, Michael Schulenberg, oxycodone, Primary Wave, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/entertainment/music/2020/01/20/prince-wrongful-death-case-dismissed-work-settle-estate-continues/4527342002/))
 
 ----
 
@@ -124,7 +132,7 @@
 
 ----
 
- - [**"Book Review: ‘The Beautiful Ones’ a moving look at the singer’s life"**](https://www.seacoastonline.com/news/20191103/book-review-the-beautiful-ones-moving-look-at-singers-life) in [www.seacoastonline.com](https://www.seacoastonline.com/) on 3 November 2019 about Dan Piepenbring, fentanyl, Little Red Corvette (song), memoir, Michael Jackson, The Beautiful Ones (book), vault ([mirror](https://web.archive.org/web/*/https://www.seacoastonline.com/news/20191103/book-review-the-beautiful-ones-moving-look-at-singers-life))
+ - [**"Book Review: ‘The Beautiful Ones’ a moving look at the singer’s life"**](https://www.seacoastonline.com/news/20191103/book-review-the-beautiful-ones-moving-look-at-singers-life) in [www.seacoastonline.com](https://www.seacoastonline.com/) on 3 November 2019 about Dan Piepenbring, fentanyl, fentanyl overdose, Little Red Corvette (song), memoir, Michael Jackson, The Beautiful Ones (book), vault ([mirror](https://web.archive.org/web/*/https://www.seacoastonline.com/news/20191103/book-review-the-beautiful-ones-moving-look-at-singers-life))
 
 ----
 
@@ -132,7 +140,7 @@
 
 ----
 
- - [**"‘The Beautiful Ones’ isn’t the memoir Prince envisioned, but it’s a moving look at the singer’s life"**](https://www.washingtonpost.com/entertainment/books/the-beautiful-ones-isnt-the-memoir-prince-envisioned-but-its-a-moving-look-at-the-singers-life/2019/10/30/b4868632-fb16-11e9-8906-ab6b60de9124_story.html) in [Washington Post](https://www.washingtonpost.com/) on 30 October 2019 about Dan Piepenbring, fentanyl, Little Red Corvette (song), memoir, Michael Jackson, The Beautiful Ones (book), vault ([mirror](https://web.archive.org/web/*/https://www.washingtonpost.com/entertainment/books/the-beautiful-ones-isnt-the-memoir-prince-envisioned-but-its-a-moving-look-at-the-singers-life/2019/10/30/b4868632-fb16-11e9-8906-ab6b60de9124_story.html))
+ - [**"‘The Beautiful Ones’ isn’t the memoir Prince envisioned, but it’s a moving look at the singer’s life"**](https://www.washingtonpost.com/entertainment/books/the-beautiful-ones-isnt-the-memoir-prince-envisioned-but-its-a-moving-look-at-the-singers-life/2019/10/30/b4868632-fb16-11e9-8906-ab6b60de9124_story.html) in [Washington Post](https://www.washingtonpost.com/) on 30 October 2019 about Dan Piepenbring, fentanyl, fentanyl overdose, Little Red Corvette (song), memoir, Michael Jackson, The Beautiful Ones (book), vault ([mirror](https://web.archive.org/web/*/https://www.washingtonpost.com/entertainment/books/the-beautiful-ones-isnt-the-memoir-prince-envisioned-but-its-a-moving-look-at-the-singers-life/2019/10/30/b4868632-fb16-11e9-8906-ab6b60de9124_story.html))
 
 ----
 
@@ -148,7 +156,7 @@
 
 ----
 
- - [**"Buddy Holly and Roy Orbison in Minnesota? Hologram tours of old stars are the hot new concert trend -- Buddy Holly is coming to town with Roy Orbison? Yes, rock 'n' roll holograms are here to stay."**](http://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 October 2019 about Aretha Franklin, Ed Sheeran, Frank Zappa, Lizzo, Michael Jackson, Morris Day ([mirror](https://web.archive.org/web/*/http://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/))
+ - [**"Buddy Holly and Roy Orbison in Minnesota? Hologram tours of old stars are the hot new concert trend -- Buddy Holly is coming to town with Roy Orbison? Yes, rock 'n' roll holograms are here to stay."**](http://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 October 2019 about Aretha Franklin, Ed Sheeran, Frank Zappa, hologram, Lizzo, Michael Jackson, Morris Day ([mirror](https://web.archive.org/web/*/http://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/))
 
 ----
 
@@ -200,7 +208,7 @@
 
 ----
 
- - [**"10 deep nuggets of info we learned at the playback of Prince’s new album, ‘Originals’"**](https://www.nme.com/blogs/11-things-we-learned-at-playback-new-prince-album-2506506) in [NME (New Musical Express)](https://www.nme.com/) on 10 June 2019 about Bangles, Jill Jones, Michael Howe, Michael Jackson, Morris Day, Originals (album), Peggy McCreary, The Revolution, Troy Carter, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://www.nme.com/blogs/11-things-we-learned-at-playback-new-prince-album-2506506))
+ - [**"10 deep nuggets of info we learned at the playback of Prince’s new album, ‘Originals’"**](https://www.nme.com/blogs/11-things-we-learned-at-playback-new-prince-album-2506506) in [NME (New Musical Express)](https://www.nme.com/) on 10 June 2019 about Bangles, hologram, Jill Jones, Michael Howe, Michael Jackson, Morris Day, Originals (album), Peggy McCreary, The Revolution, Troy Carter, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://www.nme.com/blogs/11-things-we-learned-at-playback-new-prince-album-2506506))
 
 ----
 
@@ -224,7 +232,7 @@
 
 ----
 
- - [**"The days the music died: A look at funerals of the greats"**](https://apnews.com/7d546ab5dbec4e5ba4ebd0eddd1064e8) in [Associated Press News](https://apnews.com/) on 29 August 2018 about Aretha Franklin, Graceland, James Brown, Larry Graham, Michael Jackson, museum, Sheila E., Stevie Wonder, trademark ([mirror](https://web.archive.org/web/*/https://apnews.com/7d546ab5dbec4e5ba4ebd0eddd1064e8))
+ - [**"The days the music died: A look at funerals of the greats"**](https://apnews.com/7d546ab5dbec4e5ba4ebd0eddd1064e8) in [Associated Press News](https://apnews.com/) on 29 August 2018 about Aretha Franklin, fentanyl overdose, Graceland, James Brown, Larry Graham, Michael Jackson, museum, Sheila E., Stevie Wonder, trademark ([mirror](https://web.archive.org/web/*/https://apnews.com/7d546ab5dbec4e5ba4ebd0eddd1064e8))
 
 ----
 
@@ -248,7 +256,7 @@
 
 ----
 
- - [**"Floodgates are about to open on Prince's career after death -- A year after he died, Prince's lucrative second career is taking off. The industry moguls he despised are calling the shots — and his wishes don't apply."**](http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 April 2017 about Bravado, Bremer Trust, Carver County, Charles Koppelman, contract, Graceland, Graceland Holdings, merchandise, Michael Jackson, museum, Omarr Baker, Spotify, Susan Rogers, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/))
+ - [**"Floodgates are about to open on Prince's career after death -- A year after he died, Prince's lucrative second career is taking off. The industry moguls he despised are calling the shots — and his wishes don't apply."**](http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 April 2017 about Bravado, Bremer Trust, Carver County, Charles Koppelman, Comerica, contract, Graceland, Graceland Holdings, hologram, merchandise, Michael Jackson, museum, Omarr Baker, Spotify, Susan Rogers, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/))
 
 ----
 
@@ -260,7 +268,7 @@
 
 ----
 
- - [**"Judge: Appeals holding up Prince estate determination"**](https://apnews.com/c26a8f91fcbc4e25b4138a17edc9c56e) in [Associated Press News](https://apnews.com/) on 12 January 2017 about Alfred Jackson, Bremer Trust, Carver County, contract, John Nelson, Kevin Eide, Michael Jackson, Omarr Baker, Prince Estate, Tyka Nelson, Van Jones ([mirror](https://web.archive.org/web/*/https://apnews.com/c26a8f91fcbc4e25b4138a17edc9c56e))
+ - [**"Judge: Appeals holding up Prince estate determination"**](https://apnews.com/c26a8f91fcbc4e25b4138a17edc9c56e) in [Associated Press News](https://apnews.com/) on 12 January 2017 about Alfred Jackson, Bremer Trust, Carver County, Comerica, contract, John Nelson, Kevin Eide, Michael Jackson, Omarr Baker, Prince Estate, Tyka Nelson, Van Jones ([mirror](https://web.archive.org/web/*/https://apnews.com/c26a8f91fcbc4e25b4138a17edc9c56e))
 
 ----
 
@@ -296,11 +304,11 @@
 
 ----
 
- - [**"A Prince wish, Paisley Park eyed for museum like Graceland"**](https://apnews.com/e126f8cb38574b21b3cf0f5dd0843873) in [Associated Press News](https://apnews.com/) on 10 June 2016 about Bremer Trust, Carver County, exhibit, exhibition, fentanyl, Graceland, Jeremiah Freed, Michael Jackson, motorcycle, museum ([mirror](https://web.archive.org/web/*/https://apnews.com/e126f8cb38574b21b3cf0f5dd0843873))
+ - [**"A Prince wish, Paisley Park eyed for museum like Graceland"**](https://apnews.com/e126f8cb38574b21b3cf0f5dd0843873) in [Associated Press News](https://apnews.com/) on 10 June 2016 about Bremer Trust, Carver County, exhibit, exhibition, fentanyl, fentanyl overdose, Graceland, Jeremiah Freed, Michael Jackson, motorcycle, museum ([mirror](https://web.archive.org/web/*/https://apnews.com/e126f8cb38574b21b3cf0f5dd0843873))
 
 ----
 
- - [**"A Prince wish, Paisley Park eyed for museum like Graceland"**](http://www.startribune.com/a-prince-wish-paisley-park-eyed-for-museum-like-graceland/382529341/) by Steve Karnowski (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 June 2016 about Bremer Trust, Carver County, exhibit, exhibition, fentanyl, Graceland, Jeremiah Freed, Michael Jackson, motorcycle, museum ([mirror](https://web.archive.org/web/*/http://www.startribune.com/a-prince-wish-paisley-park-eyed-for-museum-like-graceland/382529341/))
+ - [**"A Prince wish, Paisley Park eyed for museum like Graceland"**](http://www.startribune.com/a-prince-wish-paisley-park-eyed-for-museum-like-graceland/382529341/) by Steve Karnowski (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 June 2016 about Bremer Trust, Carver County, exhibit, exhibition, fentanyl, fentanyl overdose, Graceland, Jeremiah Freed, Michael Jackson, motorcycle, museum ([mirror](https://web.archive.org/web/*/http://www.startribune.com/a-prince-wish-paisley-park-eyed-for-museum-like-graceland/382529341/))
 
 ----
 
@@ -336,7 +344,7 @@
 
 ----
 
- - [**"Fans’ Holy Grail: unreleased songs in Prince’s vault"**](https://apnews.com/73b9ba74daa4423bb36ac62d4655a71b) in [Associated Press News](https://apnews.com/) on 29 April 2016 about Bangles, Bremer Trust, Michael Jackson, Miles Davis, Spotify, Tyka Nelson, vault ([mirror](https://web.archive.org/web/*/https://apnews.com/73b9ba74daa4423bb36ac62d4655a71b))
+ - [**"Fans’ Holy Grail: unreleased songs in Prince’s vault"**](https://apnews.com/73b9ba74daa4423bb36ac62d4655a71b) in [Associated Press News](https://apnews.com/) on 29 April 2016 about Bangles, Bremer Trust, Michael Jackson, Miles Davis, probate court, Spotify, Tyka Nelson, vault ([mirror](https://web.archive.org/web/*/https://apnews.com/73b9ba74daa4423bb36ac62d4655a71b))
 
 ----
 
@@ -356,7 +364,7 @@
 
 ----
 
- - [**"Prince’s sister says musician had no known will"**](https://apnews.com/b7bcc90e42904f679c07158bf5e851a3) in [Associated Press News](https://apnews.com/) on 27 April 2016 about Bremer Trust, Carver County, First Avenue (place), Michael Jackson, Tyka Nelson, University of Minnesota ([mirror](https://web.archive.org/web/*/https://apnews.com/b7bcc90e42904f679c07158bf5e851a3))
+ - [**"Prince’s sister says musician had no known will"**](https://apnews.com/b7bcc90e42904f679c07158bf5e851a3) in [Associated Press News](https://apnews.com/) on 27 April 2016 about Bremer Trust, Carver County, First Avenue (place), Michael Jackson, probate court, Tyka Nelson, University of Minnesota ([mirror](https://web.archive.org/web/*/https://apnews.com/b7bcc90e42904f679c07158bf5e851a3))
 
 ----
 
@@ -364,7 +372,7 @@
 
 ----
 
- - [**"Prince's estate: 6 key questions answered"**](https://usatoday.com/story/life/music/2016/04/25/prince-dies-estate-six-key-questions/83504318/) in [USA Today](https://usatoday.com/) on 26 April 2016 about contract, IRS, Michael Jackson, Owen Husney, Tyka Nelson, vault ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2016/04/25/prince-dies-estate-six-key-questions/83504318/))
+ - [**"Prince's estate: 6 key questions answered"**](https://usatoday.com/story/life/music/2016/04/25/prince-dies-estate-six-key-questions/83504318/) in [USA Today](https://usatoday.com/) on 26 April 2016 about contract, IRS, Michael Jackson, Owen Husney, probate court, Tyka Nelson, vault ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2016/04/25/prince-dies-estate-six-key-questions/83504318/))
 
 ----
 

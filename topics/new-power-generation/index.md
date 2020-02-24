@@ -80,7 +80,7 @@
 
 ----
 
- - [**"Prince is gone, but his spirit lives at Minnesota Super Bowl"**](https://apnews.com/760ec69e7a2e430a9879834f5f2eae63) in [Associated Press News](https://apnews.com/) on 2 February 2018 about First Avenue (place), Jimmy Jam, Minnesota Vikings, Morris Day, Morris Hayes, museum, New Power Generation, Sheila E., Super Bowl, Terry Lewis, The Revolution ([mirror](https://web.archive.org/web/*/https://apnews.com/760ec69e7a2e430a9879834f5f2eae63))
+ - [**"Prince is gone, but his spirit lives at Minnesota Super Bowl"**](https://apnews.com/760ec69e7a2e430a9879834f5f2eae63) in [Associated Press News](https://apnews.com/) on 2 February 2018 about First Avenue (place), hologram, Jimmy Jam, Minnesota Vikings, Morris Day, Morris Hayes, museum, New Power Generation, Sheila E., Super Bowl, Terry Lewis, The Revolution ([mirror](https://web.archive.org/web/*/https://apnews.com/760ec69e7a2e430a9879834f5f2eae63))
 
 ----
 
@@ -108,7 +108,7 @@
 
 ----
 
- - [**"George Clinton gets Paisley Park's Prince celebration off to a funky start"**](https://usatoday.com/story/life/music/2017/04/21/george-clinton-gets-paisley-parks-prince-celebration-off-funky-start/100736612/) in [USA Today](https://usatoday.com/) on 21 April 2017 about Celebration, Celebration 2017, Dave Chappelle, fentanyl, George Clinton, Jungle Love (song), Morris Hayes, New Power Generation, The Revolution ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2017/04/21/george-clinton-gets-paisley-parks-prince-celebration-off-funky-start/100736612/))
+ - [**"George Clinton gets Paisley Park's Prince celebration off to a funky start"**](https://usatoday.com/story/life/music/2017/04/21/george-clinton-gets-paisley-parks-prince-celebration-off-funky-start/100736612/) in [USA Today](https://usatoday.com/) on 21 April 2017 about Celebration, Celebration 2017, Dave Chappelle, fentanyl, fentanyl overdose, George Clinton, Jungle Love (song), Morris Hayes, New Power Generation, The Revolution ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2017/04/21/george-clinton-gets-paisley-parks-prince-celebration-off-funky-start/100736612/))
 
 ----
 
@@ -116,7 +116,7 @@
 
 ----
 
- - [**"Deals ensure cash keeps flowing to unsettled Prince estate"**](https://apnews.com/ea32a54490474eccad7364653ab698f8) in [Associated Press News](https://apnews.com/) on 16 April 2017 about 3rdEyeGirl, Alfred Jackson, Celebration 2017, Comerica Bank & Trust, Graceland, Joel Weinshanker, John R. Nelson, Kevin Eide, Liv Warfield, Morris Day, museum, New Power Generation, Norrine Nelson, Omarr Baker, Prince Estate, Sharon Nelson, Shelby J., Spotify, The Time, Tidal, Tyka Nelson, Universal Music Group, Van Jones ([mirror](https://web.archive.org/web/*/https://apnews.com/ea32a54490474eccad7364653ab698f8))
+ - [**"Deals ensure cash keeps flowing to unsettled Prince estate"**](https://apnews.com/ea32a54490474eccad7364653ab698f8) in [Associated Press News](https://apnews.com/) on 16 April 2017 about 3rdEyeGirl, Alfred Jackson, Celebration 2017, Comerica, Comerica Bank & Trust, Graceland, Joel Weinshanker, John R. Nelson, Kevin Eide, Liv Warfield, Morris Day, museum, New Power Generation, Norrine Nelson, Omarr Baker, Prince Estate, Sharon Nelson, Shelby J., Spotify, The Time, Tidal, Tyka Nelson, Universal Music Group, Van Jones ([mirror](https://web.archive.org/web/*/https://apnews.com/ea32a54490474eccad7364653ab698f8))
 
 ----
 

@@ -40,7 +40,7 @@
 
 ----
 
- - [**"George Clinton gets Paisley Park's Prince celebration off to a funky start"**](https://usatoday.com/story/life/music/2017/04/21/george-clinton-gets-paisley-parks-prince-celebration-off-funky-start/100736612/) in [USA Today](https://usatoday.com/) on 21 April 2017 about Celebration, Celebration 2017, Dave Chappelle, fentanyl, George Clinton, Jungle Love (song), Morris Hayes, New Power Generation, The Revolution ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2017/04/21/george-clinton-gets-paisley-parks-prince-celebration-off-funky-start/100736612/))
+ - [**"George Clinton gets Paisley Park's Prince celebration off to a funky start"**](https://usatoday.com/story/life/music/2017/04/21/george-clinton-gets-paisley-parks-prince-celebration-off-funky-start/100736612/) in [USA Today](https://usatoday.com/) on 21 April 2017 about Celebration, Celebration 2017, Dave Chappelle, fentanyl, fentanyl overdose, George Clinton, Jungle Love (song), Morris Hayes, New Power Generation, The Revolution ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2017/04/21/george-clinton-gets-paisley-parks-prince-celebration-off-funky-start/100736612/))
 
 ----
 

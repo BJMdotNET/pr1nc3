@@ -1,5 +1,9 @@
 # Xcel Energy Center (place)
 
+ - [**"Death of Prince heir complicates estate settlement even more -- Nearly a third of Prince's estate could go to parties not related to him after two siblings signed agreements with Primary Wave."**](http://www.startribune.com/untimely-death-of-prince-heir-complicates-estate-settlement-even-more/568089142/) by Jon Bream, Mike Hughlett in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 February 2020 about Alfred Jackson, Carver County, Comerica, Dennis Patrick, fentanyl, fentanyl overdose, Fredrikson & Byron, hologram, John Nelson, L. Londell McMillan, Lawrence Mestel, Leonardo Starke, Michael Jackson, Mitchell Hamline Law Review, O.J. Simpson, Primary Wave, Prince Estate, probate court, Raffles Van Exel, Shawn Jackson, The Prince Estate, Troy Carter, Tyka Nelson, Whitney Houston, Xcel Energy Center (place), YouTube ([mirror](https://web.archive.org/web/*/http://www.startribune.com/untimely-death-of-prince-heir-complicates-estate-settlement-even-more/568089142/))
+
+----
+
  - [**"What’s it like to see a show at the new Fillmore music club in North Loop? We’re glad you asked."**](http://www.citypages.com/music/whats-it-like-to-see-a-show-at-the-new-fillmore-music-club-in-north-loop-were-glad-you-asked/567979071) in [City Pages](http://www.citypages.com/) on 19 February 2020 about Fillmore Minneapolis (place), First Avenue (place), Xcel Energy Center (place) ([mirror](https://web.archive.org/web/*/http://www.citypages.com/music/whats-it-like-to-see-a-show-at-the-new-fillmore-music-club-in-north-loop-were-glad-you-asked/567979071))
 
 ----
@@ -60,7 +64,7 @@
 
 ----
 
- - [**"Minnesota Wild change goal song to Prince’s ‘Let’s Go Crazy’"**](https://apnews.com/4a1bac6894bb4b98a81a70b6b228dd4b) in [Associated Press News](https://apnews.com/) on 23 August 2016 about fentanyl, Let’s Go Crazy (song), Minnesota Wild, Xcel Energy Center (place) ([mirror](https://web.archive.org/web/*/https://apnews.com/4a1bac6894bb4b98a81a70b6b228dd4b))
+ - [**"Minnesota Wild change goal song to Prince’s ‘Let’s Go Crazy’"**](https://apnews.com/4a1bac6894bb4b98a81a70b6b228dd4b) in [Associated Press News](https://apnews.com/) on 23 August 2016 about fentanyl, fentanyl overdose, Let’s Go Crazy (song), Minnesota Wild, Xcel Energy Center (place) ([mirror](https://web.archive.org/web/*/https://apnews.com/4a1bac6894bb4b98a81a70b6b228dd4b))
 
 ----
 

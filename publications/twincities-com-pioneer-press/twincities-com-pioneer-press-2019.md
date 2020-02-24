@@ -38,7 +38,7 @@
 
 ----
 
- - [**"Prince’s estate will operate studio complex Paisley Park"**](https://www.twincities.com/2019/08/27/princes-estate-will-operate-studio-complex-paisley-park/) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 27 August 2019 about contract, Graceland, Graceland Holdings, museum, Sharon Nelson ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2019/08/27/princes-estate-will-operate-studio-complex-paisley-park/))
+ - [**"Prince’s estate will operate studio complex Paisley Park"**](https://www.twincities.com/2019/08/27/princes-estate-will-operate-studio-complex-paisley-park/) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 27 August 2019 about Comerica, contract, Graceland, Graceland Holdings, museum, Sharon Nelson ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2019/08/27/princes-estate-will-operate-studio-complex-paisley-park/))
 
 ----
 

@@ -16,7 +16,7 @@
 
 ----
 
- - [**"Prince's Half-Sister Opens Up on His Overdose, Counterfeit Pills"**](https://kstp.com/news/prince-half-sister-sharon-nelson-opens-up-on-his-overdose-counterfeit-pills-20-20/5089197/) in [KSTP](https://kstp.com/) on 28 September 2018 about fentanyl, Sharon Nelson, Vicodin ([mirror](https://web.archive.org/web/*/https://kstp.com/news/prince-half-sister-sharon-nelson-opens-up-on-his-overdose-counterfeit-pills-20-20/5089197/))
+ - [**"Prince's Half-Sister Opens Up on His Overdose, Counterfeit Pills"**](https://kstp.com/news/prince-half-sister-sharon-nelson-opens-up-on-his-overdose-counterfeit-pills-20-20/5089197/) in [KSTP](https://kstp.com/) on 28 September 2018 about fentanyl, fentanyl overdose, Sharon Nelson, Vicodin ([mirror](https://web.archive.org/web/*/https://kstp.com/news/prince-half-sister-sharon-nelson-opens-up-on-his-overdose-counterfeit-pills-20-20/5089197/))
 
 ----
 
@@ -40,7 +40,7 @@
 
 ----
 
- - [**"The Latest: Doctor said Prince ‘doesn’t look really well’"**](https://apnews.com/acdea18b521b4b7d886de7b06c2d302a) in [Associated Press News](https://apnews.com/) on 20 April 2018 about Carver County, fentanyl, Kirk Johnson, Mark Metz, Meron Bekure, Michael Todd Schulenberg, oxycodone, Vicodin ([mirror](https://web.archive.org/web/*/https://apnews.com/acdea18b521b4b7d886de7b06c2d302a))
+ - [**"The Latest: Doctor said Prince ‘doesn’t look really well’"**](https://apnews.com/acdea18b521b4b7d886de7b06c2d302a) in [Associated Press News](https://apnews.com/) on 20 April 2018 about Carver County, fentanyl, fentanyl overdose, Kirk Johnson, Mark Metz, Meron Bekure, Michael Todd Schulenberg, oxycodone, Vicodin ([mirror](https://web.archive.org/web/*/https://apnews.com/acdea18b521b4b7d886de7b06c2d302a))
 
 ----
 
@@ -48,11 +48,11 @@
 
 ----
 
- - [**"Could drug checking have prevented Prince’s overdose death?"**](https://apnews.com/df36569d11294d918572d3edf5428cbe) in [Associated Press News](https://apnews.com/) on 4 October 2016 about fentanyl, Illinois (place), oxycodone, Vicodin ([mirror](https://web.archive.org/web/*/https://apnews.com/df36569d11294d918572d3edf5428cbe))
+ - [**"Could drug checking have prevented Prince’s overdose death?"**](https://apnews.com/df36569d11294d918572d3edf5428cbe) in [Associated Press News](https://apnews.com/) on 4 October 2016 about fentanyl, fentanyl overdose, Illinois (place), oxycodone, Vicodin ([mirror](https://web.archive.org/web/*/https://apnews.com/df36569d11294d918572d3edf5428cbe))
 
 ----
 
- - [**"Counterfeit pain pills likely came to Prince illegally"**](https://apnews.com/f617a02222324bf3a06a0c7cbe15e3fd) in [Associated Press News](https://apnews.com/) on 23 August 2016 about fentanyl, piracy, Vicodin ([mirror](https://web.archive.org/web/*/https://apnews.com/f617a02222324bf3a06a0c7cbe15e3fd))
+ - [**"Counterfeit pain pills likely came to Prince illegally"**](https://apnews.com/f617a02222324bf3a06a0c7cbe15e3fd) in [Associated Press News](https://apnews.com/) on 23 August 2016 about fentanyl, fentanyl overdose, piracy, Vicodin ([mirror](https://web.archive.org/web/*/https://apnews.com/f617a02222324bf3a06a0c7cbe15e3fd))
 
 ----
 

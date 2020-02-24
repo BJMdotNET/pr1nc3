@@ -24,7 +24,7 @@
 
 ----
 
- - [**"Prince died three years ago, his estate is still unsettled: Here's why"**](https://usatoday.com/story/life/2019/04/18/prince-died-3-years-ago-his-estate-still-unsettled-heres-why/3344038002/) in [USA Today](https://usatoday.com/) on 21 April 2019 about Alfred Jackson, auction, Bremer Trust, Caribbean, Carver County, Celebration 2019, Comerica Bank & Trust, exhibition, fentanyl, Graceland, Graceland Holdings, Joel Weinshanker, John Nelson, Kevin Eide, Legacy Recordings, merchandise, museum, My Name Is Prince (exhibition), Norrine Nelson, Omarr Baker, Prince Anthology: 1995-2010 (album), Prince Estate, Prince: In Concert On The Big Screen, Sharon Nelson, The Prince Estate, Turks and Caicos, Tyka Nelson, University of Minnesota ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/2019/04/18/prince-died-3-years-ago-his-estate-still-unsettled-heres-why/3344038002/))
+ - [**"Prince died three years ago, his estate is still unsettled: Here's why"**](https://usatoday.com/story/life/2019/04/18/prince-died-3-years-ago-his-estate-still-unsettled-heres-why/3344038002/) in [USA Today](https://usatoday.com/) on 21 April 2019 about Alfred Jackson, auction, Bremer Trust, Caribbean, Carver County, Celebration 2019, Comerica, Comerica Bank & Trust, exhibition, fentanyl, Graceland, Graceland Holdings, Joel Weinshanker, John Nelson, Kevin Eide, Legacy Recordings, merchandise, museum, My Name Is Prince (exhibition), Norrine Nelson, Omarr Baker, Prince Anthology: 1995-2010 (album), Prince Estate, Prince: In Concert On The Big Screen, probate court, Sharon Nelson, The Prince Estate, Turks and Caicos, Tyka Nelson, University of Minnesota ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/2019/04/18/prince-died-3-years-ago-his-estate-still-unsettled-heres-why/3344038002/))
 
 ----
 
@@ -56,11 +56,11 @@
 
 ----
 
- - [**"A Prince wish, Paisley Park eyed for museum like Graceland"**](https://apnews.com/e126f8cb38574b21b3cf0f5dd0843873) in [Associated Press News](https://apnews.com/) on 10 June 2016 about Bremer Trust, Carver County, exhibit, exhibition, fentanyl, Graceland, Jeremiah Freed, Michael Jackson, motorcycle, museum ([mirror](https://web.archive.org/web/*/https://apnews.com/e126f8cb38574b21b3cf0f5dd0843873))
+ - [**"A Prince wish, Paisley Park eyed for museum like Graceland"**](https://apnews.com/e126f8cb38574b21b3cf0f5dd0843873) in [Associated Press News](https://apnews.com/) on 10 June 2016 about Bremer Trust, Carver County, exhibit, exhibition, fentanyl, fentanyl overdose, Graceland, Jeremiah Freed, Michael Jackson, motorcycle, museum ([mirror](https://web.archive.org/web/*/https://apnews.com/e126f8cb38574b21b3cf0f5dd0843873))
 
 ----
 
- - [**"A Prince wish, Paisley Park eyed for museum like Graceland"**](http://www.startribune.com/a-prince-wish-paisley-park-eyed-for-museum-like-graceland/382529341/) by Steve Karnowski (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 June 2016 about Bremer Trust, Carver County, exhibit, exhibition, fentanyl, Graceland, Jeremiah Freed, Michael Jackson, motorcycle, museum ([mirror](https://web.archive.org/web/*/http://www.startribune.com/a-prince-wish-paisley-park-eyed-for-museum-like-graceland/382529341/))
+ - [**"A Prince wish, Paisley Park eyed for museum like Graceland"**](http://www.startribune.com/a-prince-wish-paisley-park-eyed-for-museum-like-graceland/382529341/) by Steve Karnowski (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 June 2016 about Bremer Trust, Carver County, exhibit, exhibition, fentanyl, fentanyl overdose, Graceland, Jeremiah Freed, Michael Jackson, motorcycle, museum ([mirror](https://web.archive.org/web/*/http://www.startribune.com/a-prince-wish-paisley-park-eyed-for-museum-like-graceland/382529341/))
 
 ----
 

@@ -12,7 +12,7 @@
 
 ----
 
- - [**"Prince’s bodyguard deposed in wrongful death lawsuit"**](https://apnews.com/8e68cf25ceb245319425b5952c5d1be8) in [Associated Press News](https://apnews.com/) on 30 May 2019 about Atlanta (place), Carver County, Clayton Tyler, fentanyl, Illinois (place), Kirk Johnson, Michael Schulenberg, Moline, Illinois (place), North Memorial Health Care, oxycodone, Walgreens ([mirror](https://web.archive.org/web/*/https://apnews.com/8e68cf25ceb245319425b5952c5d1be8))
+ - [**"Prince’s bodyguard deposed in wrongful death lawsuit"**](https://apnews.com/8e68cf25ceb245319425b5952c5d1be8) in [Associated Press News](https://apnews.com/) on 30 May 2019 about Atlanta (place), Carver County, Clayton Tyler, fentanyl, fentanyl overdose, Illinois (place), Kirk Johnson, Michael Schulenberg, Moline, Illinois (place), North Memorial Health Care, oxycodone, Walgreens ([mirror](https://web.archive.org/web/*/https://apnews.com/8e68cf25ceb245319425b5952c5d1be8))
 
 ----
 
@@ -36,7 +36,7 @@
 
 ----
 
- - [**"Minnesota prosecutors plan announcement on Prince death"**](https://apnews.com/abc25c93e0d14b1bab5b300fc6ef8735) in [Associated Press News](https://apnews.com/) on 18 April 2018 about Andrew Kornfeld, Carver County, fentanyl, Howard Kornfeld, Illinois (place), Kirk Johnson, Mark Metz, Michael Todd Schulenberg, Moline, Illinois (place), oxycodone, toxicology report ([mirror](https://web.archive.org/web/*/https://apnews.com/abc25c93e0d14b1bab5b300fc6ef8735))
+ - [**"Minnesota prosecutors plan announcement on Prince death"**](https://apnews.com/abc25c93e0d14b1bab5b300fc6ef8735) in [Associated Press News](https://apnews.com/) on 18 April 2018 about Andrew Kornfeld, Carver County, fentanyl, fentanyl overdose, Howard Kornfeld, Illinois (place), Kirk Johnson, Mark Metz, Michael Todd Schulenberg, Moline, Illinois (place), oxycodone, toxicology report ([mirror](https://web.archive.org/web/*/https://apnews.com/abc25c93e0d14b1bab5b300fc6ef8735))
 
 ----
 
@@ -44,11 +44,11 @@
 
 ----
 
- - [**"Correction: Prince Death story"**](https://apnews.com/6ea0a330a6fa442990b24ec0c5153b27) in [Associated Press News](https://apnews.com/) on 22 August 2016 about Amy Conners, Atlanta (place), fentanyl, Illinois (place), Michael Todd Schulenberg, Moline, Illinois (place), oxycodone, U-47700 ([mirror](https://web.archive.org/web/*/https://apnews.com/6ea0a330a6fa442990b24ec0c5153b27))
+ - [**"Correction: Prince Death story"**](https://apnews.com/6ea0a330a6fa442990b24ec0c5153b27) in [Associated Press News](https://apnews.com/) on 22 August 2016 about Amy Conners, Atlanta (place), fentanyl, fentanyl overdose, Illinois (place), Michael Todd Schulenberg, Moline, Illinois (place), oxycodone, U-47700 ([mirror](https://web.archive.org/web/*/https://apnews.com/6ea0a330a6fa442990b24ec0c5153b27))
 
 ----
 
- - [**"Official: Pills found at Prince’s estate contained fentanyl"**](https://apnews.com/f2cb614f0e79404692d5582509874869) in [Associated Press News](https://apnews.com/) on 22 August 2016 about Atlanta (place), fentanyl, Illinois (place), Michael Todd Schulenberg, Moline, Illinois (place), oxycodone ([mirror](https://web.archive.org/web/*/https://apnews.com/f2cb614f0e79404692d5582509874869))
+ - [**"Official: Pills found at Prince’s estate contained fentanyl"**](https://apnews.com/f2cb614f0e79404692d5582509874869) in [Associated Press News](https://apnews.com/) on 22 August 2016 about Atlanta (place), fentanyl, fentanyl overdose, Illinois (place), Michael Todd Schulenberg, Moline, Illinois (place), oxycodone ([mirror](https://web.archive.org/web/*/https://apnews.com/f2cb614f0e79404692d5582509874869))
 
 ----
 

@@ -60,7 +60,7 @@
 
 ----
 
- - [**"Deals ensure cash keeps flowing to unsettled Prince estate"**](https://apnews.com/ea32a54490474eccad7364653ab698f8) in [Associated Press News](https://apnews.com/) on 16 April 2017 about 3rdEyeGirl, Alfred Jackson, Celebration 2017, Comerica Bank & Trust, Graceland, Joel Weinshanker, John R. Nelson, Kevin Eide, Liv Warfield, Morris Day, museum, New Power Generation, Norrine Nelson, Omarr Baker, Prince Estate, Sharon Nelson, Shelby J., Spotify, The Time, Tidal, Tyka Nelson, Universal Music Group, Van Jones ([mirror](https://web.archive.org/web/*/https://apnews.com/ea32a54490474eccad7364653ab698f8))
+ - [**"Deals ensure cash keeps flowing to unsettled Prince estate"**](https://apnews.com/ea32a54490474eccad7364653ab698f8) in [Associated Press News](https://apnews.com/) on 16 April 2017 about 3rdEyeGirl, Alfred Jackson, Celebration 2017, Comerica, Comerica Bank & Trust, Graceland, Joel Weinshanker, John R. Nelson, Kevin Eide, Liv Warfield, Morris Day, museum, New Power Generation, Norrine Nelson, Omarr Baker, Prince Estate, Sharon Nelson, Shelby J., Spotify, The Time, Tidal, Tyka Nelson, Universal Music Group, Van Jones ([mirror](https://web.archive.org/web/*/https://apnews.com/ea32a54490474eccad7364653ab698f8))
 
 ----
 

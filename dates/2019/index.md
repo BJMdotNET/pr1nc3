@@ -516,7 +516,7 @@
 
 ----
 
- - [**"PRINCE’S COUSIN (CHARLES SMITH) ON THE SINGER’S FIRST OVERDOSE: ‘HE DIED ON THE PLANE!’ – WATCH"**](https://eurweb.com/2019/11/13/princes-cousin-charles-smith-on-the-singers-first-overdose-he-died-on-the-plane-watch/) in [EURweb](https://eurweb.com/) on 13 November 2019 about fentanyl ([mirror](https://web.archive.org/web/*/https://eurweb.com/2019/11/13/princes-cousin-charles-smith-on-the-singers-first-overdose-he-died-on-the-plane-watch/))
+ - [**"PRINCE’S COUSIN (CHARLES SMITH) ON THE SINGER’S FIRST OVERDOSE: ‘HE DIED ON THE PLANE!’ – WATCH"**](https://eurweb.com/2019/11/13/princes-cousin-charles-smith-on-the-singers-first-overdose-he-died-on-the-plane-watch/) in [EURweb](https://eurweb.com/) on 13 November 2019 about fentanyl, fentanyl overdose ([mirror](https://web.archive.org/web/*/https://eurweb.com/2019/11/13/princes-cousin-charles-smith-on-the-singers-first-overdose-he-died-on-the-plane-watch/))
 
 ----
 
@@ -528,7 +528,7 @@
 
 ----
 
- - [**"Prince's Cousin Reflects on the Singer's First Opioid Overdose: "He Didn't Have a Chance""**](https://www.eonline.com/shows/true_hollywood_story/news/1090249/prince-s-cousin-reflects-on-the-singer-s-first-opioid-overdose-he-didn-t-have-a-chance) in [www.eonline.com](https://www.eonline.com/) on 11 November 2019 about fentanyl, Little Red Corvette (song) ([mirror](https://web.archive.org/web/*/https://www.eonline.com/shows/true_hollywood_story/news/1090249/prince-s-cousin-reflects-on-the-singer-s-first-opioid-overdose-he-didn-t-have-a-chance))
+ - [**"Prince's Cousin Reflects on the Singer's First Opioid Overdose: "He Didn't Have a Chance""**](https://www.eonline.com/shows/true_hollywood_story/news/1090249/prince-s-cousin-reflects-on-the-singer-s-first-opioid-overdose-he-didn-t-have-a-chance) in [www.eonline.com](https://www.eonline.com/) on 11 November 2019 about fentanyl, fentanyl overdose, Little Red Corvette (song) ([mirror](https://web.archive.org/web/*/https://www.eonline.com/shows/true_hollywood_story/news/1090249/prince-s-cousin-reflects-on-the-singer-s-first-opioid-overdose-he-didn-t-have-a-chance))
 
 ----
 
@@ -572,7 +572,7 @@
 
 ----
 
- - [**"Book Review: ‘The Beautiful Ones’ a moving look at the singer’s life"**](https://www.seacoastonline.com/news/20191103/book-review-the-beautiful-ones-moving-look-at-singers-life) in [www.seacoastonline.com](https://www.seacoastonline.com/) on 3 November 2019 about Dan Piepenbring, fentanyl, Little Red Corvette (song), memoir, Michael Jackson, The Beautiful Ones (book), vault ([mirror](https://web.archive.org/web/*/https://www.seacoastonline.com/news/20191103/book-review-the-beautiful-ones-moving-look-at-singers-life))
+ - [**"Book Review: ‘The Beautiful Ones’ a moving look at the singer’s life"**](https://www.seacoastonline.com/news/20191103/book-review-the-beautiful-ones-moving-look-at-singers-life) in [www.seacoastonline.com](https://www.seacoastonline.com/) on 3 November 2019 about Dan Piepenbring, fentanyl, fentanyl overdose, Little Red Corvette (song), memoir, Michael Jackson, The Beautiful Ones (book), vault ([mirror](https://web.archive.org/web/*/https://www.seacoastonline.com/news/20191103/book-review-the-beautiful-ones-moving-look-at-singers-life))
 
 ----
 
@@ -674,7 +674,7 @@
 
 ----
 
- - [**"‘The Beautiful Ones’ isn’t the memoir Prince envisioned, but it’s a moving look at the singer’s life"**](https://www.washingtonpost.com/entertainment/books/the-beautiful-ones-isnt-the-memoir-prince-envisioned-but-its-a-moving-look-at-the-singers-life/2019/10/30/b4868632-fb16-11e9-8906-ab6b60de9124_story.html) in [Washington Post](https://www.washingtonpost.com/) on 30 October 2019 about Dan Piepenbring, fentanyl, Little Red Corvette (song), memoir, Michael Jackson, The Beautiful Ones (book), vault ([mirror](https://web.archive.org/web/*/https://www.washingtonpost.com/entertainment/books/the-beautiful-ones-isnt-the-memoir-prince-envisioned-but-its-a-moving-look-at-the-singers-life/2019/10/30/b4868632-fb16-11e9-8906-ab6b60de9124_story.html))
+ - [**"‘The Beautiful Ones’ isn’t the memoir Prince envisioned, but it’s a moving look at the singer’s life"**](https://www.washingtonpost.com/entertainment/books/the-beautiful-ones-isnt-the-memoir-prince-envisioned-but-its-a-moving-look-at-the-singers-life/2019/10/30/b4868632-fb16-11e9-8906-ab6b60de9124_story.html) in [Washington Post](https://www.washingtonpost.com/) on 30 October 2019 about Dan Piepenbring, fentanyl, fentanyl overdose, Little Red Corvette (song), memoir, Michael Jackson, The Beautiful Ones (book), vault ([mirror](https://web.archive.org/web/*/https://www.washingtonpost.com/entertainment/books/the-beautiful-ones-isnt-the-memoir-prince-envisioned-but-its-a-moving-look-at-the-singers-life/2019/10/30/b4868632-fb16-11e9-8906-ab6b60de9124_story.html))
 
 ----
 
@@ -878,7 +878,7 @@
 
 ----
 
- - [**"Like Prince, his new memoir 'The Beautiful Ones' can't be pigeonholed -- Filled with ephemera, photos and philosophy, "The Beautiful Ones" is incomplete yet revealing. "**](http://www.startribune.com/like-prince-his-new-memoir-the-beautiful-ones-can-t-be-pigeonholed/563845812/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 October 2019 about Dan Piepenbring, fentanyl, John L. Nelson, memoir, Super Bowl, The Beautiful Ones (book), vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/like-prince-his-new-memoir-the-beautiful-ones-can-t-be-pigeonholed/563845812/))
+ - [**"Like Prince, his new memoir 'The Beautiful Ones' can't be pigeonholed -- Filled with ephemera, photos and philosophy, "The Beautiful Ones" is incomplete yet revealing. "**](http://www.startribune.com/like-prince-his-new-memoir-the-beautiful-ones-can-t-be-pigeonholed/563845812/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 October 2019 about Dan Piepenbring, fentanyl, fentanyl overdose, John L. Nelson, memoir, Super Bowl, The Beautiful Ones (book), vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/like-prince-his-new-memoir-the-beautiful-ones-can-t-be-pigeonholed/563845812/))
 
 ----
 
@@ -1006,7 +1006,7 @@
 
 ----
 
- - [**"Once and Future Prince"**](https://www.newyorker.com/magazine/2019/10/21/once-and-future-prince/) in [The New Yorker](https://www.newyorker.com/) on 14 October 2019 about Grammy Award, Spotify, Super Bowl, vault ([mirror](https://web.archive.org/web/*/https://www.newyorker.com/magazine/2019/10/21/once-and-future-prince/))
+ - [**"Once and Future Prince"**](https://www.newyorker.com/magazine/2019/10/21/once-and-future-prince/) in [The New Yorker](https://www.newyorker.com/) on 14 October 2019 about Grammy Award, hologram, Spotify, Super Bowl, vault ([mirror](https://web.archive.org/web/*/https://www.newyorker.com/magazine/2019/10/21/once-and-future-prince/))
 
 ----
 
@@ -1014,7 +1014,7 @@
 
 ----
 
- - [**"Buddy Holly and Roy Orbison in Minnesota? Hologram tours of old stars are the hot new concert trend -- Buddy Holly is coming to town with Roy Orbison? Yes, rock 'n' roll holograms are here to stay."**](http://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 October 2019 about Aretha Franklin, Ed Sheeran, Frank Zappa, Lizzo, Michael Jackson, Morris Day ([mirror](https://web.archive.org/web/*/http://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/))
+ - [**"Buddy Holly and Roy Orbison in Minnesota? Hologram tours of old stars are the hot new concert trend -- Buddy Holly is coming to town with Roy Orbison? Yes, rock 'n' roll holograms are here to stay."**](http://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 October 2019 about Aretha Franklin, Ed Sheeran, Frank Zappa, hologram, Lizzo, Michael Jackson, Morris Day ([mirror](https://web.archive.org/web/*/http://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/))
 
 ----
 
@@ -1022,7 +1022,7 @@
 
 ----
 
- - [**"Prince estate slams Trump for playing 'Purple Rain' at rally -- Donald Trump's re-election team played Prince's 'Purple Rain' at a campaign event, despite Prince's estate saying a year ago that 'it will never give permission to President Trump to use Prince's songs'"**](https://www.rappler.com/entertainment/news/242373-prince-estate-slams-trump-rally) in [Rappler](https://www.rappler.com/) on 12 October 2019 about Donald Trump, Prince Estate, Purple Rain (song), The Prince Estate, Trump ([mirror](https://web.archive.org/web/*/https://www.rappler.com/entertainment/news/242373-prince-estate-slams-trump-rally))
+ - [**"Prince estate slams Trump for playing 'Purple Rain' at rally -- Donald Trump's re-election team played Prince's 'Purple Rain' at a campaign event, despite Prince's estate saying a year ago that 'it will never give permission to President Trump to use Prince's songs'"**](https://www.rappler.com/entertainment/news/242373-prince-estate-slams-trump-rally) in [Rappler](https://www.rappler.com/) on 12 October 2019 about Donald Trump, fentanyl overdose, Prince Estate, Purple Rain (song), The Prince Estate, Trump ([mirror](https://web.archive.org/web/*/https://www.rappler.com/entertainment/news/242373-prince-estate-slams-trump-rally))
 
 ----
 
@@ -1248,7 +1248,7 @@
 
 ----
 
- - [**"Prince’s half-brother Alfred Jackson found dead in his Kansas City home at 66"**](https://en.brinkwire.com/us/princes-half-brother-alfred-jackson-found-dead-in-his-kansas-city-home-at-66/) in [en.brinkwire.com](https://en.brinkwire.com/) on 11 September 2019 about Alfred Jackson, TMZ (website) ([mirror](https://web.archive.org/web/*/https://en.brinkwire.com/us/princes-half-brother-alfred-jackson-found-dead-in-his-kansas-city-home-at-66/))
+ - [**"Prince’s half-brother Alfred Jackson found dead in his Kansas City home at 66"**](https://en.brinkwire.com/us/princes-half-brother-alfred-jackson-found-dead-in-his-kansas-city-home-at-66/) in [en.brinkwire.com](https://en.brinkwire.com/) on 11 September 2019 about Alfred Jackson, Comerica, TMZ (website) ([mirror](https://web.archive.org/web/*/https://en.brinkwire.com/us/princes-half-brother-alfred-jackson-found-dead-in-his-kansas-city-home-at-66/))
 
 ----
 
@@ -1414,7 +1414,7 @@
 
 ----
 
- - [**"Prince exhibit coming to the Minnesota State Fair next year -- Superstar's estate is planning exhibit with artifacts, merchandise and performances. "**](http://www.startribune.com/prince-exhibit-coming-to-the-minnesota-state-fair-next-year/558970762/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 31 August 2019 about exhibit, Kirk Johnson, merchandise, Minnesota State Fair, Omarr Baker, State Fair, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-exhibit-coming-to-the-minnesota-state-fair-next-year/558970762/))
+ - [**"Prince exhibit coming to the Minnesota State Fair next year -- Superstar's estate is planning exhibit with artifacts, merchandise and performances. "**](http://www.startribune.com/prince-exhibit-coming-to-the-minnesota-state-fair-next-year/558970762/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 31 August 2019 about Comerica, exhibit, Kirk Johnson, merchandise, Minnesota State Fair, Omarr Baker, State Fair, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-exhibit-coming-to-the-minnesota-state-fair-next-year/558970762/))
 
 ----
 
@@ -1458,7 +1458,7 @@
 
 ----
 
- - [**"AM Prep-Music -- PAISLEY PARK WILL GET NEW MANAGEMENT"**](https://www.princegeorgecitizen.com/am-prep-music-1.23929254) in [Prince George Citizen](https://www.princegeorgecitizen.com/) on 28 August 2019 about contract, Graceland, Graceland Holdings, museum, Sharon Nelson ([mirror](https://web.archive.org/web/*/https://www.princegeorgecitizen.com/am-prep-music-1.23929254))
+ - [**"AM Prep-Music -- PAISLEY PARK WILL GET NEW MANAGEMENT"**](https://www.princegeorgecitizen.com/am-prep-music-1.23929254) in [Prince George Citizen](https://www.princegeorgecitizen.com/) on 28 August 2019 about Comerica, contract, Graceland, Graceland Holdings, museum, Sharon Nelson ([mirror](https://web.archive.org/web/*/https://www.princegeorgecitizen.com/am-prep-music-1.23929254))
 
 ----
 
@@ -1470,11 +1470,11 @@
 
 ----
 
- - [**"All shook up: Graceland to cede Paisley Park management to Prince estate"**](https://blog.thecurrent.org/2019/08/all-shook-up-graceland-to-cede-paisley-park-management-to-prince-estate/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 27 August 2019 about Celebration, Graceland, Graceland Holdings, Joel Weinshanker, Jon Bream, Kirk Johnson, museum, Nooky Jones, Prince Estate, Sharon Nelson ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2019/08/all-shook-up-graceland-to-cede-paisley-park-management-to-prince-estate/))
+ - [**"All shook up: Graceland to cede Paisley Park management to Prince estate"**](https://blog.thecurrent.org/2019/08/all-shook-up-graceland-to-cede-paisley-park-management-to-prince-estate/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 27 August 2019 about Celebration, Comerica, Graceland, Graceland Holdings, Joel Weinshanker, Jon Bream, Kirk Johnson, museum, Nooky Jones, Prince Estate, Sharon Nelson ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2019/08/all-shook-up-graceland-to-cede-paisley-park-management-to-prince-estate/))
 
 ----
 
- - [**"Prince Estate Taking Over Management of Paisley Park From Graceland Holdings"**](https://www.billboard.com/articles/business/8528477/prince-estate-paisley-park-management-graceland) in [Billboard](https://www.billboard.com/) on 27 August 2019 about contract, Graceland, Graceland Holdings, museum, Prince Estate, Sharon Nelson ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/business/8528477/prince-estate-paisley-park-management-graceland))
+ - [**"Prince Estate Taking Over Management of Paisley Park From Graceland Holdings"**](https://www.billboard.com/articles/business/8528477/prince-estate-paisley-park-management-graceland) in [Billboard](https://www.billboard.com/) on 27 August 2019 about Comerica, contract, Graceland, Graceland Holdings, museum, Prince Estate, Sharon Nelson ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/business/8528477/prince-estate-paisley-park-management-graceland))
 
 ----
 
@@ -1486,11 +1486,11 @@
 
 ----
 
- - [**"Prince’s estate will operate studio complex Paisley Park"**](https://www.twincities.com/2019/08/27/princes-estate-will-operate-studio-complex-paisley-park/) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 27 August 2019 about contract, Graceland, Graceland Holdings, museum, Sharon Nelson ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2019/08/27/princes-estate-will-operate-studio-complex-paisley-park/))
+ - [**"Prince’s estate will operate studio complex Paisley Park"**](https://www.twincities.com/2019/08/27/princes-estate-will-operate-studio-complex-paisley-park/) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 27 August 2019 about Comerica, contract, Graceland, Graceland Holdings, museum, Sharon Nelson ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2019/08/27/princes-estate-will-operate-studio-complex-paisley-park/))
 
 ----
 
- - [**"Prince's estate will operate studio complex Paisley Park"**](http://www.startribune.com/prince-s-estate-will-operate-studio-complex-paisley-park/558425072/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 27 August 2019 about contract, Graceland, Graceland Holdings, museum, Sharon Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-estate-will-operate-studio-complex-paisley-park/558425072/))
+ - [**"Prince's estate will operate studio complex Paisley Park"**](http://www.startribune.com/prince-s-estate-will-operate-studio-complex-paisley-park/558425072/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 27 August 2019 about Comerica, contract, Graceland, Graceland Holdings, museum, Sharon Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-estate-will-operate-studio-complex-paisley-park/558425072/))
 
 ----
 
@@ -1498,7 +1498,7 @@
 
 ----
 
- - [**"Prince's estate to assume management of Paisley Park -- Graceland Holdings will no longer run the Chanhassen museum as of Oct. 1."**](http://www.startribune.com/prince-s-estate-to-assume-management-of-paisley-park/558364602/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 August 2019 about Ava DuVernay, Bangles, contract, Graceland, Graceland Holdings, Joel Weinshanker, Kirk Johnson, memoir, museum, Netflix, Sharon Nelson, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-estate-to-assume-management-of-paisley-park/558364602/))
+ - [**"Prince's estate to assume management of Paisley Park -- Graceland Holdings will no longer run the Chanhassen museum as of Oct. 1."**](http://www.startribune.com/prince-s-estate-to-assume-management-of-paisley-park/558364602/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 August 2019 about Ava DuVernay, Bangles, Comerica, contract, Graceland, Graceland Holdings, Joel Weinshanker, Kirk Johnson, memoir, museum, Netflix, Sharon Nelson, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-estate-to-assume-management-of-paisley-park/558364602/))
 
 ----
 
@@ -1622,7 +1622,7 @@
 
 ----
 
- - [**"Prince's Estate is Still Fighting to Register the Color Purple as a Trademark"**](http://www.thefashionlaw.com/home/princes-estate-is-still-fighting-to-register-the-color-purple) in [The Fashion Law](http://www.thefashionlaw.com/) on 2 August 2019 about museum, Paisley Park Enterprises, trademark ([mirror](https://web.archive.org/web/*/http://www.thefashionlaw.com/home/princes-estate-is-still-fighting-to-register-the-color-purple))
+ - [**"Prince's Estate is Still Fighting to Register the Color Purple as a Trademark"**](http://www.thefashionlaw.com/home/princes-estate-is-still-fighting-to-register-the-color-purple) in [The Fashion Law](http://www.thefashionlaw.com/) on 2 August 2019 about hologram, museum, Paisley Park Enterprises, trademark ([mirror](https://web.archive.org/web/*/http://www.thefashionlaw.com/home/princes-estate-is-still-fighting-to-register-the-color-purple))
 
 ----
 
@@ -1878,7 +1878,7 @@
 
 ----
 
- - [**"Prince’s Unearthed ‘Originals’: Collaborators Look Back on the Hits He Passed Along -- As demos of future classics like “Manic Monday” and Nothing Compares 2 U” finally see official release, Apollonia, the Bangles’ Susanna Hoffs, and others recall the artist’s “otherworldly” songwriting talents"**](https://www.rollingstone.com/music/music-features/prince-originals-interview-842940/) by Kory Grow in [Rolling Stone](https://www.rollingstone.com/) on 24 June 2019 about Apollonia 6, Apollonia Kotero, Bangles, contract, George Clinton, Jill Jones, Jungle Love (song), Kenny Rogers, Manic Monday (song), Martika, Mazarati, Nasty Girl (song), Nothing Compares 2 U (song), Originals (album), Peggy McCreary, Prince Estate, Sex Shooter (song), Sheena Easton, Sheila E., Sugar Walls (song), Sunset Sound (place), Susan Rogers, Susanna Hoffs, Susannah Melvoin, The Family, The Prince Estate, The Time, Troy Carter, Vanity 6, vault, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/prince-originals-interview-842940/))
+ - [**"Prince’s Unearthed ‘Originals’: Collaborators Look Back on the Hits He Passed Along -- As demos of future classics like “Manic Monday” and Nothing Compares 2 U” finally see official release, Apollonia, the Bangles’ Susanna Hoffs, and others recall the artist’s “otherworldly” songwriting talents"**](https://www.rollingstone.com/music/music-features/prince-originals-interview-842940/) by Kory Grow in [Rolling Stone](https://www.rollingstone.com/) on 24 June 2019 about Apollonia 6, Apollonia Kotero, Bangles, contract, fentanyl overdose, George Clinton, Jill Jones, Jungle Love (song), Kenny Rogers, Manic Monday (song), Martika, Mazarati, Nasty Girl (song), Nothing Compares 2 U (song), Originals (album), Peggy McCreary, Prince Estate, Sex Shooter (song), Sheena Easton, Sheila E., Sugar Walls (song), Sunset Sound (place), Susan Rogers, Susanna Hoffs, Susannah Melvoin, The Family, The Prince Estate, The Time, Troy Carter, Vanity 6, vault, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/prince-originals-interview-842940/))
 
 ----
 
@@ -1978,7 +1978,7 @@
 
 ----
 
- - [**"10 deep nuggets of info we learned at the playback of Prince’s new album, ‘Originals’"**](https://www.nme.com/blogs/11-things-we-learned-at-playback-new-prince-album-2506506) in [NME (New Musical Express)](https://www.nme.com/) on 10 June 2019 about Bangles, Jill Jones, Michael Howe, Michael Jackson, Morris Day, Originals (album), Peggy McCreary, The Revolution, Troy Carter, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://www.nme.com/blogs/11-things-we-learned-at-playback-new-prince-album-2506506))
+ - [**"10 deep nuggets of info we learned at the playback of Prince’s new album, ‘Originals’"**](https://www.nme.com/blogs/11-things-we-learned-at-playback-new-prince-album-2506506) in [NME (New Musical Express)](https://www.nme.com/) on 10 June 2019 about Bangles, hologram, Jill Jones, Michael Howe, Michael Jackson, Morris Day, Originals (album), Peggy McCreary, The Revolution, Troy Carter, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://www.nme.com/blogs/11-things-we-learned-at-playback-new-prince-album-2506506))
 
 ----
 
@@ -2032,7 +2032,7 @@
 
 ## May 2019 (13)
 
- - [**"Prince’s bodyguard deposed in wrongful death lawsuit"**](https://apnews.com/8e68cf25ceb245319425b5952c5d1be8) in [Associated Press News](https://apnews.com/) on 30 May 2019 about Atlanta (place), Carver County, Clayton Tyler, fentanyl, Illinois (place), Kirk Johnson, Michael Schulenberg, Moline, Illinois (place), North Memorial Health Care, oxycodone, Walgreens ([mirror](https://web.archive.org/web/*/https://apnews.com/8e68cf25ceb245319425b5952c5d1be8))
+ - [**"Prince’s bodyguard deposed in wrongful death lawsuit"**](https://apnews.com/8e68cf25ceb245319425b5952c5d1be8) in [Associated Press News](https://apnews.com/) on 30 May 2019 about Atlanta (place), Carver County, Clayton Tyler, fentanyl, fentanyl overdose, Illinois (place), Kirk Johnson, Michael Schulenberg, Moline, Illinois (place), North Memorial Health Care, oxycodone, Walgreens ([mirror](https://web.archive.org/web/*/https://apnews.com/8e68cf25ceb245319425b5952c5d1be8))
 
 ----
 
@@ -2174,7 +2174,7 @@
 
 ----
 
- - [**"Prince died three years ago, his estate is still unsettled: Here's why"**](https://usatoday.com/story/life/2019/04/18/prince-died-3-years-ago-his-estate-still-unsettled-heres-why/3344038002/) in [USA Today](https://usatoday.com/) on 21 April 2019 about Alfred Jackson, auction, Bremer Trust, Caribbean, Carver County, Celebration 2019, Comerica Bank & Trust, exhibition, fentanyl, Graceland, Graceland Holdings, Joel Weinshanker, John Nelson, Kevin Eide, Legacy Recordings, merchandise, museum, My Name Is Prince (exhibition), Norrine Nelson, Omarr Baker, Prince Anthology: 1995-2010 (album), Prince Estate, Prince: In Concert On The Big Screen, Sharon Nelson, The Prince Estate, Turks and Caicos, Tyka Nelson, University of Minnesota ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/2019/04/18/prince-died-3-years-ago-his-estate-still-unsettled-heres-why/3344038002/))
+ - [**"Prince died three years ago, his estate is still unsettled: Here's why"**](https://usatoday.com/story/life/2019/04/18/prince-died-3-years-ago-his-estate-still-unsettled-heres-why/3344038002/) in [USA Today](https://usatoday.com/) on 21 April 2019 about Alfred Jackson, auction, Bremer Trust, Caribbean, Carver County, Celebration 2019, Comerica, Comerica Bank & Trust, exhibition, fentanyl, Graceland, Graceland Holdings, Joel Weinshanker, John Nelson, Kevin Eide, Legacy Recordings, merchandise, museum, My Name Is Prince (exhibition), Norrine Nelson, Omarr Baker, Prince Anthology: 1995-2010 (album), Prince Estate, Prince: In Concert On The Big Screen, probate court, Sharon Nelson, The Prince Estate, Turks and Caicos, Tyka Nelson, University of Minnesota ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/2019/04/18/prince-died-3-years-ago-his-estate-still-unsettled-heres-why/3344038002/))
 
 ----
 
@@ -2314,11 +2314,11 @@
 
 ----
 
- - [**"The Latest: Klobuchar points to Prince in talking drug issue"**](https://apnews.com/a1facc441faa45c08d75963d0e49a9dc) by The Associated Press in [Associated Press News](https://apnews.com/) on 19 February 2019 about fentanyl ([mirror](https://web.archive.org/web/*/https://apnews.com/a1facc441faa45c08d75963d0e49a9dc))
+ - [**"The Latest: Klobuchar points to Prince in talking drug issue"**](https://apnews.com/a1facc441faa45c08d75963d0e49a9dc) by The Associated Press in [Associated Press News](https://apnews.com/) on 19 February 2019 about fentanyl, fentanyl overdose ([mirror](https://web.archive.org/web/*/https://apnews.com/a1facc441faa45c08d75963d0e49a9dc))
 
 ----
 
- - [**"The Latest: Klobuchar points to Prince in talking drug issue"**](http://www.startribune.com/the-latest-klobuchar-points-to-prince-in-talking-drug-issue/506023432/) by The Associated Press in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 February 2019 about fentanyl ([mirror](https://web.archive.org/web/*/http://www.startribune.com/the-latest-klobuchar-points-to-prince-in-talking-drug-issue/506023432/))
+ - [**"The Latest: Klobuchar points to Prince in talking drug issue"**](http://www.startribune.com/the-latest-klobuchar-points-to-prince-in-talking-drug-issue/506023432/) by The Associated Press in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 February 2019 about fentanyl, fentanyl overdose ([mirror](https://web.archive.org/web/*/http://www.startribune.com/the-latest-klobuchar-points-to-prince-in-talking-drug-issue/506023432/))
 
 ----
 
@@ -2380,7 +2380,7 @@
 
 ----
 
- - [**"Estate of Prince Sues Custom Guitar Builder"**](http://digitaleditions.sheridan.com/article/Estate+of+Prince+Sues+Custom+Guitar+Builder/3278617/556089/article.html) in [digitaleditions.sheridan.com](http://digitaleditions.sheridan.com/) on 7 January 2019 about André Cymone, Cloud guitar, Comerica Bank & Trust, Dave Rusan, trademark ([mirror](https://web.archive.org/web/*/http://digitaleditions.sheridan.com/article/Estate+of+Prince+Sues+Custom+Guitar+Builder/3278617/556089/article.html))
+ - [**"Estate of Prince Sues Custom Guitar Builder"**](http://digitaleditions.sheridan.com/article/Estate+of+Prince+Sues+Custom+Guitar+Builder/3278617/556089/article.html) in [digitaleditions.sheridan.com](http://digitaleditions.sheridan.com/) on 7 January 2019 about André Cymone, Cloud guitar, Comerica, Comerica Bank & Trust, Dave Rusan, trademark ([mirror](https://web.archive.org/web/*/http://digitaleditions.sheridan.com/article/Estate+of+Prince+Sues+Custom+Guitar+Builder/3278617/556089/article.html))
 
 ----
 

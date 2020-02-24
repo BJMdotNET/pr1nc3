@@ -1,6 +1,6 @@
 # Aretha Franklin
 
- - [**"Deep cuts and idiosyncratic visions highlight Grammy tribute concert to Prince"**](https://www.latimes.com/entertainment-arts/music/story/2020-01-29/prince-tribute-grammys-foo-fighters-beck-john-legend) in [Los Angeles Times](https://www.latimes.com/) on 29 January 2020 about Aretha Franklin, Baby I’m a Star (song), Bangles, Beck, Chris Martin, Coldplay, Controversy (song), Earth, Wind & Fire, fentanyl, Foo Fighters, Fred Armisen, Gary Clark Jr., Grammy Award, H.E.R., Jimmy Jam, John Legend, Jungle Love (song), Ken Ehrlich, Let’s Go Crazy (song), Los Angeles Convention Center (place), Manic Monday (song), Mavis Staples, Mountains (song), Nothing Compares 2 U (song), Pop Life (song), Purple Rain (song), Sheila E., St. Vincent, Super Bowl, Super Bowl XLI (event), Susanna Hoffs, Terry Lewis, The Beautiful Ones (song), The Glamorous Life (song), The Revolution, The Time, Under the Cherry Moon (movie) ([mirror](https://web.archive.org/web/*/https://www.latimes.com/entertainment-arts/music/story/2020-01-29/prince-tribute-grammys-foo-fighters-beck-john-legend))
+ - [**"Deep cuts and idiosyncratic visions highlight Grammy tribute concert to Prince"**](https://www.latimes.com/entertainment-arts/music/story/2020-01-29/prince-tribute-grammys-foo-fighters-beck-john-legend) in [Los Angeles Times](https://www.latimes.com/) on 29 January 2020 about Aretha Franklin, Baby I’m a Star (song), Bangles, Beck, Chris Martin, Coldplay, Controversy (song), Earth, Wind & Fire, fentanyl, fentanyl overdose, Foo Fighters, Fred Armisen, Gary Clark Jr., Grammy Award, H.E.R., Jimmy Jam, John Legend, Jungle Love (song), Ken Ehrlich, Let’s Go Crazy (song), Los Angeles Convention Center (place), Manic Monday (song), Mavis Staples, Mountains (song), Nothing Compares 2 U (song), Pop Life (song), Purple Rain (song), Sheila E., St. Vincent, Super Bowl, Super Bowl XLI (event), Susanna Hoffs, Terry Lewis, The Beautiful Ones (song), The Glamorous Life (song), The Revolution, The Time, Under the Cherry Moon (movie) ([mirror](https://web.archive.org/web/*/https://www.latimes.com/entertainment-arts/music/story/2020-01-29/prince-tribute-grammys-foo-fighters-beck-john-legend))
 
 ----
 
@@ -84,7 +84,7 @@
 
 ----
 
- - [**"Buddy Holly and Roy Orbison in Minnesota? Hologram tours of old stars are the hot new concert trend -- Buddy Holly is coming to town with Roy Orbison? Yes, rock 'n' roll holograms are here to stay."**](http://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 October 2019 about Aretha Franklin, Ed Sheeran, Frank Zappa, Lizzo, Michael Jackson, Morris Day ([mirror](https://web.archive.org/web/*/http://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/))
+ - [**"Buddy Holly and Roy Orbison in Minnesota? Hologram tours of old stars are the hot new concert trend -- Buddy Holly is coming to town with Roy Orbison? Yes, rock 'n' roll holograms are here to stay."**](http://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 October 2019 about Aretha Franklin, Ed Sheeran, Frank Zappa, hologram, Lizzo, Michael Jackson, Morris Day ([mirror](https://web.archive.org/web/*/http://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/))
 
 ----
 
@@ -104,15 +104,15 @@
 
 ----
 
- - [**"Prince’s new basement tape: Just him singing, playing piano"**](https://apnews.com/e0a9e78a662c40d3adee133110bc8489) by Jeff Baenen (Associated Press) in [Associated Press News](https://apnews.com/) on 18 September 2018 about 17 Days (song), Aretha Franklin, Cold Coffee & Cocaine (song), fentanyl, Joni Mitchell, Lisa Coleman, Michael Howe, NPG Records, Piano and a Microphone 1983 (album), Purple Rain (song), Troy Carter, Warner Bros. Records, Why The Butterflies (song) ([mirror](https://web.archive.org/web/*/https://apnews.com/e0a9e78a662c40d3adee133110bc8489))
+ - [**"Prince’s new basement tape: Just him singing, playing piano"**](https://apnews.com/e0a9e78a662c40d3adee133110bc8489) by Jeff Baenen (Associated Press) in [Associated Press News](https://apnews.com/) on 18 September 2018 about 17 Days (song), Aretha Franklin, Cold Coffee & Cocaine (song), fentanyl, fentanyl overdose, Joni Mitchell, Lisa Coleman, Michael Howe, NPG Records, Piano and a Microphone 1983 (album), Purple Rain (song), Troy Carter, Warner Bros. Records, Why The Butterflies (song) ([mirror](https://web.archive.org/web/*/https://apnews.com/e0a9e78a662c40d3adee133110bc8489))
 
 ----
 
- - [**"Prince's New 'Piano & A Microphone 1983' Basement Tape Is as Simple as It Sounds"**](https://www.billboard.com/articles/news/8475824/prince-piano-and-a-microphone-1983-album) in [Billboard](https://www.billboard.com/) on 18 September 2018 about Aretha Franklin, Joni Mitchell, Lisa Coleman, Michael Howe, Piano and a Microphone 1983 (album), Troy Carter ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8475824/prince-piano-and-a-microphone-1983-album))
+ - [**"Prince's New 'Piano & A Microphone 1983' Basement Tape Is as Simple as It Sounds"**](https://www.billboard.com/articles/news/8475824/prince-piano-and-a-microphone-1983-album) in [Billboard](https://www.billboard.com/) on 18 September 2018 about Aretha Franklin, fentanyl overdose, Joni Mitchell, Lisa Coleman, Michael Howe, Piano and a Microphone 1983 (album), Troy Carter ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8475824/prince-piano-and-a-microphone-1983-album))
 
 ----
 
- - [**"The days the music died: A look at funerals of the greats"**](https://apnews.com/7d546ab5dbec4e5ba4ebd0eddd1064e8) in [Associated Press News](https://apnews.com/) on 29 August 2018 about Aretha Franklin, Graceland, James Brown, Larry Graham, Michael Jackson, museum, Sheila E., Stevie Wonder, trademark ([mirror](https://web.archive.org/web/*/https://apnews.com/7d546ab5dbec4e5ba4ebd0eddd1064e8))
+ - [**"The days the music died: A look at funerals of the greats"**](https://apnews.com/7d546ab5dbec4e5ba4ebd0eddd1064e8) in [Associated Press News](https://apnews.com/) on 29 August 2018 about Aretha Franklin, fentanyl overdose, Graceland, James Brown, Larry Graham, Michael Jackson, museum, Sheila E., Stevie Wonder, trademark ([mirror](https://web.archive.org/web/*/https://apnews.com/7d546ab5dbec4e5ba4ebd0eddd1064e8))
 
 ----
 

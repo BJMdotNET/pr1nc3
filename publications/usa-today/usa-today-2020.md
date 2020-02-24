@@ -10,7 +10,7 @@
 
 ----
 
- - [**"Prince wrongful death case quietly dismissed; attempts to settle estate continue"**](https://usatoday.com/story/entertainment/music/2020/01/20/prince-wrongful-death-case-dismissed-work-settle-estate-continues/4527342002/) in [USA Today](https://usatoday.com/) on 20 January 2020 about Alfred Jackson, fentanyl, Howard Kornfeld, Illinois (place), John Nelson, Kirk Johnson, Michael Jackson, Michael Schulenberg, oxycodone, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/entertainment/music/2020/01/20/prince-wrongful-death-case-dismissed-work-settle-estate-continues/4527342002/))
+ - [**"Prince wrongful death case quietly dismissed; attempts to settle estate continue"**](https://usatoday.com/story/entertainment/music/2020/01/20/prince-wrongful-death-case-dismissed-work-settle-estate-continues/4527342002/) in [USA Today](https://usatoday.com/) on 20 January 2020 about Alfred Jackson, fentanyl, fentanyl overdose, Howard Kornfeld, Illinois (place), John Nelson, Kirk Johnson, Michael Jackson, Michael Schulenberg, oxycodone, Primary Wave, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/entertainment/music/2020/01/20/prince-wrongful-death-case-dismissed-work-settle-estate-continues/4527342002/))
 
 ----
 

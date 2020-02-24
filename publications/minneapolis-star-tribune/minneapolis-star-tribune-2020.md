@@ -1,6 +1,10 @@
 # 2020
 
-## February 2020 (4)
+## February 2020 (5)
+
+ - [**"Death of Prince heir complicates estate settlement even more -- Nearly a third of Prince's estate could go to parties not related to him after two siblings signed agreements with Primary Wave."**](http://www.startribune.com/untimely-death-of-prince-heir-complicates-estate-settlement-even-more/568089142/) by Jon Bream, Mike Hughlett in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 February 2020 about Alfred Jackson, Carver County, Comerica, Dennis Patrick, fentanyl, fentanyl overdose, Fredrikson & Byron, hologram, John Nelson, L. Londell McMillan, Lawrence Mestel, Leonardo Starke, Michael Jackson, Mitchell Hamline Law Review, O.J. Simpson, Primary Wave, Prince Estate, probate court, Raffles Van Exel, Shawn Jackson, The Prince Estate, Troy Carter, Tyka Nelson, Whitney Houston, Xcel Energy Center (place), YouTube ([mirror](https://web.archive.org/web/*/http://www.startribune.com/untimely-death-of-prince-heir-complicates-estate-settlement-even-more/568089142/))
+
+----
 
  - [**"Rosanne Cash and John Leventhal delight with amazing grace and marital humor at Guthrie"**](http://www.startribune.com/rosanne-cash-and-john-leventhal-delight-with-amazing-grace-and-marital-humor-at-guthrie/567973352/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 February 2020 about Bruce Springsteen ([mirror](https://web.archive.org/web/*/http://www.startribune.com/rosanne-cash-and-john-leventhal-delight-with-amazing-grace-and-marital-humor-at-guthrie/567973352/))
 
@@ -44,11 +48,11 @@
 
 ----
 
- - [**"Prince wrongful death case dismissed; estate case continues"**](http://www.startribune.com/prince-wrongful-death-case-dismissed-estate-case-continues/567136462/) by Amy Forliti (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 January 2020 about Alfred Jackson, fentanyl, Howard Kornfeld, Illinois (place), John Nelson, Kirk Johnson, Michael Jackson, Michael Schulenberg, oxycodone, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-wrongful-death-case-dismissed-estate-case-continues/567136462/))
+ - [**"Prince wrongful death case dismissed; estate case continues"**](http://www.startribune.com/prince-wrongful-death-case-dismissed-estate-case-continues/567136462/) by Amy Forliti (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 January 2020 about Alfred Jackson, fentanyl, fentanyl overdose, Howard Kornfeld, Illinois (place), John Nelson, Kirk Johnson, Michael Jackson, Michael Schulenberg, oxycodone, Primary Wave, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-wrongful-death-case-dismissed-estate-case-continues/567136462/))
 
 ----
 
- - [**"Prince's estate quietly dismisses wrongful-death claims -- Legal settlements likely in wrongful-death suits. "**](http://www.startribune.com/prince-wrongful-death-claims-dismissed/567141982/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 January 2020 about Atlanta (place), Carver County, Carver County District Court, Cecilie M. Loidolt, fentanyl, Illinois (place), John Goetz, Kirk Johnson, Michael Schulenberg, North Memorial Health Care, Paul C. Peterson, Percocet, Prince Estate, Recovery Without Walls, Rodger Hagen, The Prince Estate, Trinity Medical Center (place), Walgreens ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-wrongful-death-claims-dismissed/567141982/))
+ - [**"Prince's estate quietly dismisses wrongful-death claims -- Legal settlements likely in wrongful-death suits. "**](http://www.startribune.com/prince-wrongful-death-claims-dismissed/567141982/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 January 2020 about Atlanta (place), Carver County, Carver County District Court, Cecilie M. Loidolt, fentanyl, Illinois (place), John Goetz, Kirk Johnson, Michael Schulenberg, North Memorial Health Care, Paul C. Peterson, Percocet, Prince Estate, probate court, Recovery Without Walls, Rodger Hagen, The Prince Estate, Trinity Medical Center (place), Walgreens ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-wrongful-death-claims-dismissed/567141982/))
 
 ----
 

@@ -1,6 +1,6 @@
 # LotusFlow3r (album)
 
- - [**"Inventory of Prince’s estate lists cash, property, gold bars"**](https://apnews.com/5ac8a5faa09440a4a8cc2cb43db35ee8) in [Associated Press News](https://apnews.com/) on 7 January 2017 about Bremer Trust, Carver County, fentanyl, LotusFlow3r (album), NPG Records, Paisley Park Enterprises, trademark ([mirror](https://web.archive.org/web/*/https://apnews.com/5ac8a5faa09440a4a8cc2cb43db35ee8))
+ - [**"Inventory of Prince’s estate lists cash, property, gold bars"**](https://apnews.com/5ac8a5faa09440a4a8cc2cb43db35ee8) in [Associated Press News](https://apnews.com/) on 7 January 2017 about Bremer Trust, Carver County, fentanyl, LotusFlow3r (album), NPG Records, Paisley Park Enterprises, probate court, trademark ([mirror](https://web.archive.org/web/*/https://apnews.com/5ac8a5faa09440a4a8cc2cb43db35ee8))
 
 ----
 

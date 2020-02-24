@@ -24,7 +24,7 @@
 
 ----
 
- - [**"Deep cuts and idiosyncratic visions highlight Grammy tribute concert to Prince"**](https://www.latimes.com/entertainment-arts/music/story/2020-01-29/prince-tribute-grammys-foo-fighters-beck-john-legend) in [Los Angeles Times](https://www.latimes.com/) on 29 January 2020 about Aretha Franklin, Baby I’m a Star (song), Bangles, Beck, Chris Martin, Coldplay, Controversy (song), Earth, Wind & Fire, fentanyl, Foo Fighters, Fred Armisen, Gary Clark Jr., Grammy Award, H.E.R., Jimmy Jam, John Legend, Jungle Love (song), Ken Ehrlich, Let’s Go Crazy (song), Los Angeles Convention Center (place), Manic Monday (song), Mavis Staples, Mountains (song), Nothing Compares 2 U (song), Pop Life (song), Purple Rain (song), Sheila E., St. Vincent, Super Bowl, Super Bowl XLI (event), Susanna Hoffs, Terry Lewis, The Beautiful Ones (song), The Glamorous Life (song), The Revolution, The Time, Under the Cherry Moon (movie) ([mirror](https://web.archive.org/web/*/https://www.latimes.com/entertainment-arts/music/story/2020-01-29/prince-tribute-grammys-foo-fighters-beck-john-legend))
+ - [**"Deep cuts and idiosyncratic visions highlight Grammy tribute concert to Prince"**](https://www.latimes.com/entertainment-arts/music/story/2020-01-29/prince-tribute-grammys-foo-fighters-beck-john-legend) in [Los Angeles Times](https://www.latimes.com/) on 29 January 2020 about Aretha Franklin, Baby I’m a Star (song), Bangles, Beck, Chris Martin, Coldplay, Controversy (song), Earth, Wind & Fire, fentanyl, fentanyl overdose, Foo Fighters, Fred Armisen, Gary Clark Jr., Grammy Award, H.E.R., Jimmy Jam, John Legend, Jungle Love (song), Ken Ehrlich, Let’s Go Crazy (song), Los Angeles Convention Center (place), Manic Monday (song), Mavis Staples, Mountains (song), Nothing Compares 2 U (song), Pop Life (song), Purple Rain (song), Sheila E., St. Vincent, Super Bowl, Super Bowl XLI (event), Susanna Hoffs, Terry Lewis, The Beautiful Ones (song), The Glamorous Life (song), The Revolution, The Time, Under the Cherry Moon (movie) ([mirror](https://web.archive.org/web/*/https://www.latimes.com/entertainment-arts/music/story/2020-01-29/prince-tribute-grammys-foo-fighters-beck-john-legend))
 
 ----
 
@@ -68,7 +68,7 @@
 
 ----
 
- - [**"Prince estate slams Trump for playing 'Purple Rain' at rally -- Donald Trump's re-election team played Prince's 'Purple Rain' at a campaign event, despite Prince's estate saying a year ago that 'it will never give permission to President Trump to use Prince's songs'"**](https://www.rappler.com/entertainment/news/242373-prince-estate-slams-trump-rally) in [Rappler](https://www.rappler.com/) on 12 October 2019 about Donald Trump, Prince Estate, Purple Rain (song), The Prince Estate, Trump ([mirror](https://web.archive.org/web/*/https://www.rappler.com/entertainment/news/242373-prince-estate-slams-trump-rally))
+ - [**"Prince estate slams Trump for playing 'Purple Rain' at rally -- Donald Trump's re-election team played Prince's 'Purple Rain' at a campaign event, despite Prince's estate saying a year ago that 'it will never give permission to President Trump to use Prince's songs'"**](https://www.rappler.com/entertainment/news/242373-prince-estate-slams-trump-rally) in [Rappler](https://www.rappler.com/) on 12 October 2019 about Donald Trump, fentanyl overdose, Prince Estate, Purple Rain (song), The Prince Estate, Trump ([mirror](https://web.archive.org/web/*/https://www.rappler.com/entertainment/news/242373-prince-estate-slams-trump-rally))
 
 ----
 
@@ -136,7 +136,7 @@
 
 ----
 
- - [**"Prince’s new basement tape: Just him singing, playing piano"**](https://apnews.com/e0a9e78a662c40d3adee133110bc8489) by Jeff Baenen (Associated Press) in [Associated Press News](https://apnews.com/) on 18 September 2018 about 17 Days (song), Aretha Franklin, Cold Coffee & Cocaine (song), fentanyl, Joni Mitchell, Lisa Coleman, Michael Howe, NPG Records, Piano and a Microphone 1983 (album), Purple Rain (song), Troy Carter, Warner Bros. Records, Why The Butterflies (song) ([mirror](https://web.archive.org/web/*/https://apnews.com/e0a9e78a662c40d3adee133110bc8489))
+ - [**"Prince’s new basement tape: Just him singing, playing piano"**](https://apnews.com/e0a9e78a662c40d3adee133110bc8489) by Jeff Baenen (Associated Press) in [Associated Press News](https://apnews.com/) on 18 September 2018 about 17 Days (song), Aretha Franklin, Cold Coffee & Cocaine (song), fentanyl, fentanyl overdose, Joni Mitchell, Lisa Coleman, Michael Howe, NPG Records, Piano and a Microphone 1983 (album), Purple Rain (song), Troy Carter, Warner Bros. Records, Why The Butterflies (song) ([mirror](https://web.archive.org/web/*/https://apnews.com/e0a9e78a662c40d3adee133110bc8489))
 
 ----
 

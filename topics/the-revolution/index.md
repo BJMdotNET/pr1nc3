@@ -8,7 +8,7 @@
 
 ----
 
- - [**"Deep cuts and idiosyncratic visions highlight Grammy tribute concert to Prince"**](https://www.latimes.com/entertainment-arts/music/story/2020-01-29/prince-tribute-grammys-foo-fighters-beck-john-legend) in [Los Angeles Times](https://www.latimes.com/) on 29 January 2020 about Aretha Franklin, Baby I’m a Star (song), Bangles, Beck, Chris Martin, Coldplay, Controversy (song), Earth, Wind & Fire, fentanyl, Foo Fighters, Fred Armisen, Gary Clark Jr., Grammy Award, H.E.R., Jimmy Jam, John Legend, Jungle Love (song), Ken Ehrlich, Let’s Go Crazy (song), Los Angeles Convention Center (place), Manic Monday (song), Mavis Staples, Mountains (song), Nothing Compares 2 U (song), Pop Life (song), Purple Rain (song), Sheila E., St. Vincent, Super Bowl, Super Bowl XLI (event), Susanna Hoffs, Terry Lewis, The Beautiful Ones (song), The Glamorous Life (song), The Revolution, The Time, Under the Cherry Moon (movie) ([mirror](https://web.archive.org/web/*/https://www.latimes.com/entertainment-arts/music/story/2020-01-29/prince-tribute-grammys-foo-fighters-beck-john-legend))
+ - [**"Deep cuts and idiosyncratic visions highlight Grammy tribute concert to Prince"**](https://www.latimes.com/entertainment-arts/music/story/2020-01-29/prince-tribute-grammys-foo-fighters-beck-john-legend) in [Los Angeles Times](https://www.latimes.com/) on 29 January 2020 about Aretha Franklin, Baby I’m a Star (song), Bangles, Beck, Chris Martin, Coldplay, Controversy (song), Earth, Wind & Fire, fentanyl, fentanyl overdose, Foo Fighters, Fred Armisen, Gary Clark Jr., Grammy Award, H.E.R., Jimmy Jam, John Legend, Jungle Love (song), Ken Ehrlich, Let’s Go Crazy (song), Los Angeles Convention Center (place), Manic Monday (song), Mavis Staples, Mountains (song), Nothing Compares 2 U (song), Pop Life (song), Purple Rain (song), Sheila E., St. Vincent, Super Bowl, Super Bowl XLI (event), Susanna Hoffs, Terry Lewis, The Beautiful Ones (song), The Glamorous Life (song), The Revolution, The Time, Under the Cherry Moon (movie) ([mirror](https://web.archive.org/web/*/https://www.latimes.com/entertainment-arts/music/story/2020-01-29/prince-tribute-grammys-foo-fighters-beck-john-legend))
 
 ----
 
@@ -284,7 +284,7 @@
 
 ----
 
- - [**"10 deep nuggets of info we learned at the playback of Prince’s new album, ‘Originals’"**](https://www.nme.com/blogs/11-things-we-learned-at-playback-new-prince-album-2506506) in [NME (New Musical Express)](https://www.nme.com/) on 10 June 2019 about Bangles, Jill Jones, Michael Howe, Michael Jackson, Morris Day, Originals (album), Peggy McCreary, The Revolution, Troy Carter, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://www.nme.com/blogs/11-things-we-learned-at-playback-new-prince-album-2506506))
+ - [**"10 deep nuggets of info we learned at the playback of Prince’s new album, ‘Originals’"**](https://www.nme.com/blogs/11-things-we-learned-at-playback-new-prince-album-2506506) in [NME (New Musical Express)](https://www.nme.com/) on 10 June 2019 about Bangles, hologram, Jill Jones, Michael Howe, Michael Jackson, Morris Day, Originals (album), Peggy McCreary, The Revolution, Troy Carter, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://www.nme.com/blogs/11-things-we-learned-at-playback-new-prince-album-2506506))
 
 ----
 
@@ -344,15 +344,15 @@
 
 ----
 
- - [**"AM Prep-Music -- PRINCE CELEBRATION PLANNED FOR NEXT MONTH / PRINCE - TOXICOLOGY"**](https://apnews.com/c62930a448b849a785758cf9f450f418) in [Associated Press News](https://apnews.com/) on 27 March 2018 about Dez Dickerson, fentanyl, Matt Fink, Sheila E., The Revolution, toxicology report, tribute fence ([mirror](https://web.archive.org/web/*/https://apnews.com/c62930a448b849a785758cf9f450f418))
+ - [**"AM Prep-Music -- PRINCE CELEBRATION PLANNED FOR NEXT MONTH / PRINCE - TOXICOLOGY"**](https://apnews.com/c62930a448b849a785758cf9f450f418) in [Associated Press News](https://apnews.com/) on 27 March 2018 about Dez Dickerson, fentanyl, fentanyl overdose, Matt Fink, Sheila E., The Revolution, toxicology report, tribute fence ([mirror](https://web.archive.org/web/*/https://apnews.com/c62930a448b849a785758cf9f450f418))
 
 ----
 
- - [**"The Latest: Fentanyl in Prince’s body was exceedingly high"**](https://apnews.com/72d21087451948ed872cce0815f0e426) in [Associated Press News](https://apnews.com/) on 26 March 2018 about Celebration 2018, Dez Dickerson, fentanyl, Matt Fink, The Revolution, toxicology report, tribute fence ([mirror](https://web.archive.org/web/*/https://apnews.com/72d21087451948ed872cce0815f0e426))
+ - [**"The Latest: Fentanyl in Prince’s body was exceedingly high"**](https://apnews.com/72d21087451948ed872cce0815f0e426) in [Associated Press News](https://apnews.com/) on 26 March 2018 about Celebration 2018, Dez Dickerson, fentanyl, fentanyl overdose, Matt Fink, The Revolution, toxicology report, tribute fence ([mirror](https://web.archive.org/web/*/https://apnews.com/72d21087451948ed872cce0815f0e426))
 
 ----
 
- - [**"Prince is gone, but his spirit lives at Minnesota Super Bowl"**](https://apnews.com/760ec69e7a2e430a9879834f5f2eae63) in [Associated Press News](https://apnews.com/) on 2 February 2018 about First Avenue (place), Jimmy Jam, Minnesota Vikings, Morris Day, Morris Hayes, museum, New Power Generation, Sheila E., Super Bowl, Terry Lewis, The Revolution ([mirror](https://web.archive.org/web/*/https://apnews.com/760ec69e7a2e430a9879834f5f2eae63))
+ - [**"Prince is gone, but his spirit lives at Minnesota Super Bowl"**](https://apnews.com/760ec69e7a2e430a9879834f5f2eae63) in [Associated Press News](https://apnews.com/) on 2 February 2018 about First Avenue (place), hologram, Jimmy Jam, Minnesota Vikings, Morris Day, Morris Hayes, museum, New Power Generation, Sheila E., Super Bowl, Terry Lewis, The Revolution ([mirror](https://web.archive.org/web/*/https://apnews.com/760ec69e7a2e430a9879834f5f2eae63))
 
 ----
 
@@ -408,7 +408,7 @@
 
 ----
 
- - [**"George Clinton gets Paisley Park's Prince celebration off to a funky start"**](https://usatoday.com/story/life/music/2017/04/21/george-clinton-gets-paisley-parks-prince-celebration-off-funky-start/100736612/) in [USA Today](https://usatoday.com/) on 21 April 2017 about Celebration, Celebration 2017, Dave Chappelle, fentanyl, George Clinton, Jungle Love (song), Morris Hayes, New Power Generation, The Revolution ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2017/04/21/george-clinton-gets-paisley-parks-prince-celebration-off-funky-start/100736612/))
+ - [**"George Clinton gets Paisley Park's Prince celebration off to a funky start"**](https://usatoday.com/story/life/music/2017/04/21/george-clinton-gets-paisley-parks-prince-celebration-off-funky-start/100736612/) in [USA Today](https://usatoday.com/) on 21 April 2017 about Celebration, Celebration 2017, Dave Chappelle, fentanyl, fentanyl overdose, George Clinton, Jungle Love (song), Morris Hayes, New Power Generation, The Revolution ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2017/04/21/george-clinton-gets-paisley-parks-prince-celebration-off-funky-start/100736612/))
 
 ----
 

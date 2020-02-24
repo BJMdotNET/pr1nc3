@@ -28,7 +28,7 @@
 
 ----
 
- - [**"The Latest: Doctor said Prince ‘doesn’t look really well’"**](https://apnews.com/acdea18b521b4b7d886de7b06c2d302a) in [Associated Press News](https://apnews.com/) on 20 April 2018 about Carver County, fentanyl, Kirk Johnson, Mark Metz, Meron Bekure, Michael Todd Schulenberg, oxycodone, Vicodin ([mirror](https://web.archive.org/web/*/https://apnews.com/acdea18b521b4b7d886de7b06c2d302a))
+ - [**"The Latest: Doctor said Prince ‘doesn’t look really well’"**](https://apnews.com/acdea18b521b4b7d886de7b06c2d302a) in [Associated Press News](https://apnews.com/) on 20 April 2018 about Carver County, fentanyl, fentanyl overdose, Kirk Johnson, Mark Metz, Meron Bekure, Michael Todd Schulenberg, oxycodone, Vicodin ([mirror](https://web.archive.org/web/*/https://apnews.com/acdea18b521b4b7d886de7b06c2d302a))
 
 ----
 

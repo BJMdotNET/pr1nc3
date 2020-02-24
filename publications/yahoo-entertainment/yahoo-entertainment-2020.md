@@ -2,7 +2,7 @@
 
 ## February 2020 (1)
 
- - [**"Prince doctor to pay $4K civil penalty for prescription"**](https://www.yahoo.com/entertainment/prince-doctor-pay-4k-civil-224903514.html) in [Yahoo! Entertainment](https://www.yahoo.com/entertainment/) on 3 February 2020 about Amy Conners, fentanyl, Kirk Johnson, Michael Schulenberg, oxycodone ([mirror](https://web.archive.org/web/*/https://www.yahoo.com/entertainment/prince-doctor-pay-4k-civil-224903514.html))
+ - [**"Prince doctor to pay $4K civil penalty for prescription"**](https://www.yahoo.com/entertainment/prince-doctor-pay-4k-civil-224903514.html) in [Yahoo! Entertainment](https://www.yahoo.com/entertainment/) on 3 February 2020 about Amy Conners, fentanyl, fentanyl overdose, Kirk Johnson, Michael Schulenberg, oxycodone ([mirror](https://web.archive.org/web/*/https://www.yahoo.com/entertainment/prince-doctor-pay-4k-civil-224903514.html))
 
 ----
 

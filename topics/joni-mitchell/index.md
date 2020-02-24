@@ -52,11 +52,11 @@
 
 ----
 
- - [**"Prince’s new basement tape: Just him singing, playing piano"**](https://apnews.com/e0a9e78a662c40d3adee133110bc8489) by Jeff Baenen (Associated Press) in [Associated Press News](https://apnews.com/) on 18 September 2018 about 17 Days (song), Aretha Franklin, Cold Coffee & Cocaine (song), fentanyl, Joni Mitchell, Lisa Coleman, Michael Howe, NPG Records, Piano and a Microphone 1983 (album), Purple Rain (song), Troy Carter, Warner Bros. Records, Why The Butterflies (song) ([mirror](https://web.archive.org/web/*/https://apnews.com/e0a9e78a662c40d3adee133110bc8489))
+ - [**"Prince’s new basement tape: Just him singing, playing piano"**](https://apnews.com/e0a9e78a662c40d3adee133110bc8489) by Jeff Baenen (Associated Press) in [Associated Press News](https://apnews.com/) on 18 September 2018 about 17 Days (song), Aretha Franklin, Cold Coffee & Cocaine (song), fentanyl, fentanyl overdose, Joni Mitchell, Lisa Coleman, Michael Howe, NPG Records, Piano and a Microphone 1983 (album), Purple Rain (song), Troy Carter, Warner Bros. Records, Why The Butterflies (song) ([mirror](https://web.archive.org/web/*/https://apnews.com/e0a9e78a662c40d3adee133110bc8489))
 
 ----
 
- - [**"Prince's New 'Piano & A Microphone 1983' Basement Tape Is as Simple as It Sounds"**](https://www.billboard.com/articles/news/8475824/prince-piano-and-a-microphone-1983-album) in [Billboard](https://www.billboard.com/) on 18 September 2018 about Aretha Franklin, Joni Mitchell, Lisa Coleman, Michael Howe, Piano and a Microphone 1983 (album), Troy Carter ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8475824/prince-piano-and-a-microphone-1983-album))
+ - [**"Prince's New 'Piano & A Microphone 1983' Basement Tape Is as Simple as It Sounds"**](https://www.billboard.com/articles/news/8475824/prince-piano-and-a-microphone-1983-album) in [Billboard](https://www.billboard.com/) on 18 September 2018 about Aretha Franklin, fentanyl overdose, Joni Mitchell, Lisa Coleman, Michael Howe, Piano and a Microphone 1983 (album), Troy Carter ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8475824/prince-piano-and-a-microphone-1983-album))
 
 ----
 
@@ -64,7 +64,7 @@
 
 ----
 
- - [**"The Prince Estate’s Big Plans: Inside the Upcoming Purple Reign -- The late singer’s estate is currently exploring licensing, future releases and even a hotel – all while trying to consider what Prince would have wanted"**](https://www.rollingstone.com/music/music-features/prince-estate-big-plans-upcoming-purple-reign-698529/) in [Rolling Stone](https://www.rollingstone.com/) on 13 July 2018 about Bravado, Bremer Trust, Carver County, Charles Koppelman, First Avenue (place), Graceland, John Nelson, Joni Mitchell, Mayte, Mayte Garcia, merchandise, Michael Howe, Minnesota Twins, museum, Nothing Compares 2 U (song), Piano and a Microphone 1983 (album), Prince Estate, Questlove, Sharon Nelson, Spotify, Super Bowl, Susan Rogers, The Prince Estate, Troy Carter, Tyka Nelson, Warner Bros. Records ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/prince-estate-big-plans-upcoming-purple-reign-698529/))
+ - [**"The Prince Estate’s Big Plans: Inside the Upcoming Purple Reign -- The late singer’s estate is currently exploring licensing, future releases and even a hotel – all while trying to consider what Prince would have wanted"**](https://www.rollingstone.com/music/music-features/prince-estate-big-plans-upcoming-purple-reign-698529/) in [Rolling Stone](https://www.rollingstone.com/) on 13 July 2018 about Bravado, Bremer Trust, Carver County, Charles Koppelman, Comerica, First Avenue (place), Graceland, hologram, John Nelson, Joni Mitchell, Mayte, Mayte Garcia, merchandise, Michael Howe, Minnesota Twins, museum, Nothing Compares 2 U (song), Piano and a Microphone 1983 (album), Prince Estate, Questlove, Sharon Nelson, Spotify, Super Bowl, Susan Rogers, The Prince Estate, Troy Carter, Tyka Nelson, Warner Bros. Records ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/prince-estate-big-plans-upcoming-purple-reign-698529/))
 
 ----
 
@@ -72,7 +72,7 @@
 
 ----
 
- - [**"Warner Bros. to release new Prince album in September"**](https://apnews.com/542e9ad6962e46e8882badfd663b1921) in [Associated Press News](https://apnews.com/) on 7 June 2018 about 17 Days (song), Joni Mitchell, vault, Warner Bros. Records ([mirror](https://web.archive.org/web/*/https://apnews.com/542e9ad6962e46e8882badfd663b1921))
+ - [**"Warner Bros. to release new Prince album in September"**](https://apnews.com/542e9ad6962e46e8882badfd663b1921) in [Associated Press News](https://apnews.com/) on 7 June 2018 about 17 Days (song), fentanyl overdose, Joni Mitchell, vault, Warner Bros. Records ([mirror](https://web.archive.org/web/*/https://apnews.com/542e9ad6962e46e8882badfd663b1921))
 
 ----
 

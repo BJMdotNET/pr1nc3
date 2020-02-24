@@ -52,7 +52,7 @@
 
 ----
 
- - [**"Prince’s new basement tape: Just him singing, playing piano"**](https://apnews.com/e0a9e78a662c40d3adee133110bc8489) by Jeff Baenen (Associated Press) in [Associated Press News](https://apnews.com/) on 18 September 2018 about 17 Days (song), Aretha Franklin, Cold Coffee & Cocaine (song), fentanyl, Joni Mitchell, Lisa Coleman, Michael Howe, NPG Records, Piano and a Microphone 1983 (album), Purple Rain (song), Troy Carter, Warner Bros. Records, Why The Butterflies (song) ([mirror](https://web.archive.org/web/*/https://apnews.com/e0a9e78a662c40d3adee133110bc8489))
+ - [**"Prince’s new basement tape: Just him singing, playing piano"**](https://apnews.com/e0a9e78a662c40d3adee133110bc8489) by Jeff Baenen (Associated Press) in [Associated Press News](https://apnews.com/) on 18 September 2018 about 17 Days (song), Aretha Franklin, Cold Coffee & Cocaine (song), fentanyl, fentanyl overdose, Joni Mitchell, Lisa Coleman, Michael Howe, NPG Records, Piano and a Microphone 1983 (album), Purple Rain (song), Troy Carter, Warner Bros. Records, Why The Butterflies (song) ([mirror](https://web.archive.org/web/*/https://apnews.com/e0a9e78a662c40d3adee133110bc8489))
 
 ----
 
@@ -60,7 +60,7 @@
 
 ----
 
- - [**"The Prince Estate’s Big Plans: Inside the Upcoming Purple Reign -- The late singer’s estate is currently exploring licensing, future releases and even a hotel – all while trying to consider what Prince would have wanted"**](https://www.rollingstone.com/music/music-features/prince-estate-big-plans-upcoming-purple-reign-698529/) in [Rolling Stone](https://www.rollingstone.com/) on 13 July 2018 about Bravado, Bremer Trust, Carver County, Charles Koppelman, First Avenue (place), Graceland, John Nelson, Joni Mitchell, Mayte, Mayte Garcia, merchandise, Michael Howe, Minnesota Twins, museum, Nothing Compares 2 U (song), Piano and a Microphone 1983 (album), Prince Estate, Questlove, Sharon Nelson, Spotify, Super Bowl, Susan Rogers, The Prince Estate, Troy Carter, Tyka Nelson, Warner Bros. Records ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/prince-estate-big-plans-upcoming-purple-reign-698529/))
+ - [**"The Prince Estate’s Big Plans: Inside the Upcoming Purple Reign -- The late singer’s estate is currently exploring licensing, future releases and even a hotel – all while trying to consider what Prince would have wanted"**](https://www.rollingstone.com/music/music-features/prince-estate-big-plans-upcoming-purple-reign-698529/) in [Rolling Stone](https://www.rollingstone.com/) on 13 July 2018 about Bravado, Bremer Trust, Carver County, Charles Koppelman, Comerica, First Avenue (place), Graceland, hologram, John Nelson, Joni Mitchell, Mayte, Mayte Garcia, merchandise, Michael Howe, Minnesota Twins, museum, Nothing Compares 2 U (song), Piano and a Microphone 1983 (album), Prince Estate, Questlove, Sharon Nelson, Spotify, Super Bowl, Susan Rogers, The Prince Estate, Troy Carter, Tyka Nelson, Warner Bros. Records ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/prince-estate-big-plans-upcoming-purple-reign-698529/))
 
 ----
 
@@ -68,7 +68,7 @@
 
 ----
 
- - [**"Warner Bros. to release new Prince album in September"**](https://apnews.com/542e9ad6962e46e8882badfd663b1921) in [Associated Press News](https://apnews.com/) on 7 June 2018 about 17 Days (song), Joni Mitchell, vault, Warner Bros. Records ([mirror](https://web.archive.org/web/*/https://apnews.com/542e9ad6962e46e8882badfd663b1921))
+ - [**"Warner Bros. to release new Prince album in September"**](https://apnews.com/542e9ad6962e46e8882badfd663b1921) in [Associated Press News](https://apnews.com/) on 7 June 2018 about 17 Days (song), fentanyl overdose, Joni Mitchell, vault, Warner Bros. Records ([mirror](https://web.archive.org/web/*/https://apnews.com/542e9ad6962e46e8882badfd663b1921))
 
 ----
 
@@ -92,7 +92,7 @@
 
 ----
 
- - [**"It’s Official: Prince’s Estate Manager and Universal Music Group Move to Nullify Recorded-Music Deal"**](https://variety.com/2017/music/news/its-official-princes-estate-manager-and-universal-music-group-move-to-nullify-recorded-music-deal-1202436842/) by Jem Aswad in [Variety](https://variety.com/) on 19 May 2017 about Alfred Jackson, Charles Koppelman, Comerica Bank & Trust, contract, John R. Nelson, Kevin Eide, merchandise, Norrine Nelson, Omarr Baker, Sharon Nelson, Spotify, Troy Carter, Tyka Nelson, Universal Music Group, Van Jones, Warner Bros. Records ([mirror](https://web.archive.org/web/*/https://variety.com/2017/music/news/its-official-princes-estate-manager-and-universal-music-group-move-to-nullify-recorded-music-deal-1202436842/))
+ - [**"It’s Official: Prince’s Estate Manager and Universal Music Group Move to Nullify Recorded-Music Deal"**](https://variety.com/2017/music/news/its-official-princes-estate-manager-and-universal-music-group-move-to-nullify-recorded-music-deal-1202436842/) by Jem Aswad in [Variety](https://variety.com/) on 19 May 2017 about Alfred Jackson, Charles Koppelman, Comerica, Comerica Bank & Trust, contract, John R. Nelson, Kevin Eide, merchandise, Norrine Nelson, Omarr Baker, Sharon Nelson, Spotify, Troy Carter, Tyka Nelson, Universal Music Group, Van Jones, Warner Bros. Records ([mirror](https://web.archive.org/web/*/https://variety.com/2017/music/news/its-official-princes-estate-manager-and-universal-music-group-move-to-nullify-recorded-music-deal-1202436842/))
 
 ----
 

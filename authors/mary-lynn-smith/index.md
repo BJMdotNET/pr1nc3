@@ -1,6 +1,6 @@
 # Mary Lynn Smith
 
- - [**"Carver County judge decides not to appoint a co-executor for Prince's estate -- Comerica Bank & Trust will solely manage the multimillion estate."**](http://www.startribune.com/carver-county-judge-decides-not-to-appoint-a-co-executor-for-prince-s-estate/411678576/) by Mary Lynn Smith in [Minneapolis Star Tribune](http://www.startribune.com/) on 24 January 2017 about Carver County, Comerica Bank & Trust ([mirror](https://web.archive.org/web/*/http://www.startribune.com/carver-county-judge-decides-not-to-appoint-a-co-executor-for-prince-s-estate/411678576/))
+ - [**"Carver County judge decides not to appoint a co-executor for Prince's estate -- Comerica Bank & Trust will solely manage the multimillion estate."**](http://www.startribune.com/carver-county-judge-decides-not-to-appoint-a-co-executor-for-prince-s-estate/411678576/) by Mary Lynn Smith in [Minneapolis Star Tribune](http://www.startribune.com/) on 24 January 2017 about Carver County, Comerica, Comerica Bank & Trust ([mirror](https://web.archive.org/web/*/http://www.startribune.com/carver-county-judge-decides-not-to-appoint-a-co-executor-for-prince-s-estate/411678576/))
 
 ----
 

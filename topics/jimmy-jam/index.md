@@ -4,7 +4,7 @@
 
 ----
 
- - [**"Deep cuts and idiosyncratic visions highlight Grammy tribute concert to Prince"**](https://www.latimes.com/entertainment-arts/music/story/2020-01-29/prince-tribute-grammys-foo-fighters-beck-john-legend) in [Los Angeles Times](https://www.latimes.com/) on 29 January 2020 about Aretha Franklin, Baby I’m a Star (song), Bangles, Beck, Chris Martin, Coldplay, Controversy (song), Earth, Wind & Fire, fentanyl, Foo Fighters, Fred Armisen, Gary Clark Jr., Grammy Award, H.E.R., Jimmy Jam, John Legend, Jungle Love (song), Ken Ehrlich, Let’s Go Crazy (song), Los Angeles Convention Center (place), Manic Monday (song), Mavis Staples, Mountains (song), Nothing Compares 2 U (song), Pop Life (song), Purple Rain (song), Sheila E., St. Vincent, Super Bowl, Super Bowl XLI (event), Susanna Hoffs, Terry Lewis, The Beautiful Ones (song), The Glamorous Life (song), The Revolution, The Time, Under the Cherry Moon (movie) ([mirror](https://web.archive.org/web/*/https://www.latimes.com/entertainment-arts/music/story/2020-01-29/prince-tribute-grammys-foo-fighters-beck-john-legend))
+ - [**"Deep cuts and idiosyncratic visions highlight Grammy tribute concert to Prince"**](https://www.latimes.com/entertainment-arts/music/story/2020-01-29/prince-tribute-grammys-foo-fighters-beck-john-legend) in [Los Angeles Times](https://www.latimes.com/) on 29 January 2020 about Aretha Franklin, Baby I’m a Star (song), Bangles, Beck, Chris Martin, Coldplay, Controversy (song), Earth, Wind & Fire, fentanyl, fentanyl overdose, Foo Fighters, Fred Armisen, Gary Clark Jr., Grammy Award, H.E.R., Jimmy Jam, John Legend, Jungle Love (song), Ken Ehrlich, Let’s Go Crazy (song), Los Angeles Convention Center (place), Manic Monday (song), Mavis Staples, Mountains (song), Nothing Compares 2 U (song), Pop Life (song), Purple Rain (song), Sheila E., St. Vincent, Super Bowl, Super Bowl XLI (event), Susanna Hoffs, Terry Lewis, The Beautiful Ones (song), The Glamorous Life (song), The Revolution, The Time, Under the Cherry Moon (movie) ([mirror](https://web.archive.org/web/*/https://www.latimes.com/entertainment-arts/music/story/2020-01-29/prince-tribute-grammys-foo-fighters-beck-john-legend))
 
 ----
 
@@ -116,7 +116,7 @@
 
 ----
 
- - [**"Prince is gone, but his spirit lives at Minnesota Super Bowl"**](https://apnews.com/760ec69e7a2e430a9879834f5f2eae63) in [Associated Press News](https://apnews.com/) on 2 February 2018 about First Avenue (place), Jimmy Jam, Minnesota Vikings, Morris Day, Morris Hayes, museum, New Power Generation, Sheila E., Super Bowl, Terry Lewis, The Revolution ([mirror](https://web.archive.org/web/*/https://apnews.com/760ec69e7a2e430a9879834f5f2eae63))
+ - [**"Prince is gone, but his spirit lives at Minnesota Super Bowl"**](https://apnews.com/760ec69e7a2e430a9879834f5f2eae63) in [Associated Press News](https://apnews.com/) on 2 February 2018 about First Avenue (place), hologram, Jimmy Jam, Minnesota Vikings, Morris Day, Morris Hayes, museum, New Power Generation, Sheila E., Super Bowl, Terry Lewis, The Revolution ([mirror](https://web.archive.org/web/*/https://apnews.com/760ec69e7a2e430a9879834f5f2eae63))
 
 ----
 

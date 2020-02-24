@@ -4,7 +4,7 @@
 
 ----
 
- - [**"Deep cuts and idiosyncratic visions highlight Grammy tribute concert to Prince"**](https://www.latimes.com/entertainment-arts/music/story/2020-01-29/prince-tribute-grammys-foo-fighters-beck-john-legend) in [Los Angeles Times](https://www.latimes.com/) on 29 January 2020 about Aretha Franklin, Baby I’m a Star (song), Bangles, Beck, Chris Martin, Coldplay, Controversy (song), Earth, Wind & Fire, fentanyl, Foo Fighters, Fred Armisen, Gary Clark Jr., Grammy Award, H.E.R., Jimmy Jam, John Legend, Jungle Love (song), Ken Ehrlich, Let’s Go Crazy (song), Los Angeles Convention Center (place), Manic Monday (song), Mavis Staples, Mountains (song), Nothing Compares 2 U (song), Pop Life (song), Purple Rain (song), Sheila E., St. Vincent, Super Bowl, Super Bowl XLI (event), Susanna Hoffs, Terry Lewis, The Beautiful Ones (song), The Glamorous Life (song), The Revolution, The Time, Under the Cherry Moon (movie) ([mirror](https://web.archive.org/web/*/https://www.latimes.com/entertainment-arts/music/story/2020-01-29/prince-tribute-grammys-foo-fighters-beck-john-legend))
+ - [**"Deep cuts and idiosyncratic visions highlight Grammy tribute concert to Prince"**](https://www.latimes.com/entertainment-arts/music/story/2020-01-29/prince-tribute-grammys-foo-fighters-beck-john-legend) in [Los Angeles Times](https://www.latimes.com/) on 29 January 2020 about Aretha Franklin, Baby I’m a Star (song), Bangles, Beck, Chris Martin, Coldplay, Controversy (song), Earth, Wind & Fire, fentanyl, fentanyl overdose, Foo Fighters, Fred Armisen, Gary Clark Jr., Grammy Award, H.E.R., Jimmy Jam, John Legend, Jungle Love (song), Ken Ehrlich, Let’s Go Crazy (song), Los Angeles Convention Center (place), Manic Monday (song), Mavis Staples, Mountains (song), Nothing Compares 2 U (song), Pop Life (song), Purple Rain (song), Sheila E., St. Vincent, Super Bowl, Super Bowl XLI (event), Susanna Hoffs, Terry Lewis, The Beautiful Ones (song), The Glamorous Life (song), The Revolution, The Time, Under the Cherry Moon (movie) ([mirror](https://web.archive.org/web/*/https://www.latimes.com/entertainment-arts/music/story/2020-01-29/prince-tribute-grammys-foo-fighters-beck-john-legend))
 
 ----
 
@@ -28,7 +28,7 @@
 
 ----
 
- - [**"Paisley Park Aims to Register Prince's Signature Purple as a Trademark for Use on Buildings"**](https://www.thefashionlaw.com/home/princes-estate-in-the-midst-of-fight-to-register-the-color-purple-for-use-on-buildings) in [www.thefashionlaw.com](https://www.thefashionlaw.com/) on 27 January 2020 about Cloud guitar, Grammy Award, Jamie Starr, museum, Paisley Park Enterprises, trademark ([mirror](https://web.archive.org/web/*/https://www.thefashionlaw.com/home/princes-estate-in-the-midst-of-fight-to-register-the-color-purple-for-use-on-buildings))
+ - [**"Paisley Park Aims to Register Prince's Signature Purple as a Trademark for Use on Buildings"**](https://www.thefashionlaw.com/home/princes-estate-in-the-midst-of-fight-to-register-the-color-purple-for-use-on-buildings) in [www.thefashionlaw.com](https://www.thefashionlaw.com/) on 27 January 2020 about Cloud guitar, Grammy Award, hologram, Jamie Starr, museum, Paisley Park Enterprises, trademark ([mirror](https://web.archive.org/web/*/https://www.thefashionlaw.com/home/princes-estate-in-the-midst-of-fight-to-register-the-color-purple-for-use-on-buildings))
 
 ----
 
@@ -148,7 +148,7 @@
 
 ----
 
- - [**"Once and Future Prince"**](https://www.newyorker.com/magazine/2019/10/21/once-and-future-prince/) in [The New Yorker](https://www.newyorker.com/) on 14 October 2019 about Grammy Award, Spotify, Super Bowl, vault ([mirror](https://web.archive.org/web/*/https://www.newyorker.com/magazine/2019/10/21/once-and-future-prince/))
+ - [**"Once and Future Prince"**](https://www.newyorker.com/magazine/2019/10/21/once-and-future-prince/) in [The New Yorker](https://www.newyorker.com/) on 14 October 2019 about Grammy Award, hologram, Spotify, Super Bowl, vault ([mirror](https://web.archive.org/web/*/https://www.newyorker.com/magazine/2019/10/21/once-and-future-prince/))
 
 ----
 

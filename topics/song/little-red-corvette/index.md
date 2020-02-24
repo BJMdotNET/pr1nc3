@@ -164,11 +164,11 @@
 
 ----
 
- - [**"Prince's Cousin Reflects on the Singer's First Opioid Overdose: "He Didn't Have a Chance""**](https://www.eonline.com/shows/true_hollywood_story/news/1090249/prince-s-cousin-reflects-on-the-singer-s-first-opioid-overdose-he-didn-t-have-a-chance) in [www.eonline.com](https://www.eonline.com/) on 11 November 2019 about fentanyl, Little Red Corvette (song) ([mirror](https://web.archive.org/web/*/https://www.eonline.com/shows/true_hollywood_story/news/1090249/prince-s-cousin-reflects-on-the-singer-s-first-opioid-overdose-he-didn-t-have-a-chance))
+ - [**"Prince's Cousin Reflects on the Singer's First Opioid Overdose: "He Didn't Have a Chance""**](https://www.eonline.com/shows/true_hollywood_story/news/1090249/prince-s-cousin-reflects-on-the-singer-s-first-opioid-overdose-he-didn-t-have-a-chance) in [www.eonline.com](https://www.eonline.com/) on 11 November 2019 about fentanyl, fentanyl overdose, Little Red Corvette (song) ([mirror](https://web.archive.org/web/*/https://www.eonline.com/shows/true_hollywood_story/news/1090249/prince-s-cousin-reflects-on-the-singer-s-first-opioid-overdose-he-didn-t-have-a-chance))
 
 ----
 
- - [**"Book Review: ‘The Beautiful Ones’ a moving look at the singer’s life"**](https://www.seacoastonline.com/news/20191103/book-review-the-beautiful-ones-moving-look-at-singers-life) in [www.seacoastonline.com](https://www.seacoastonline.com/) on 3 November 2019 about Dan Piepenbring, fentanyl, Little Red Corvette (song), memoir, Michael Jackson, The Beautiful Ones (book), vault ([mirror](https://web.archive.org/web/*/https://www.seacoastonline.com/news/20191103/book-review-the-beautiful-ones-moving-look-at-singers-life))
+ - [**"Book Review: ‘The Beautiful Ones’ a moving look at the singer’s life"**](https://www.seacoastonline.com/news/20191103/book-review-the-beautiful-ones-moving-look-at-singers-life) in [www.seacoastonline.com](https://www.seacoastonline.com/) on 3 November 2019 about Dan Piepenbring, fentanyl, fentanyl overdose, Little Red Corvette (song), memoir, Michael Jackson, The Beautiful Ones (book), vault ([mirror](https://web.archive.org/web/*/https://www.seacoastonline.com/news/20191103/book-review-the-beautiful-ones-moving-look-at-singers-life))
 
 ----
 
@@ -180,7 +180,7 @@
 
 ----
 
- - [**"‘The Beautiful Ones’ isn’t the memoir Prince envisioned, but it’s a moving look at the singer’s life"**](https://www.washingtonpost.com/entertainment/books/the-beautiful-ones-isnt-the-memoir-prince-envisioned-but-its-a-moving-look-at-the-singers-life/2019/10/30/b4868632-fb16-11e9-8906-ab6b60de9124_story.html) in [Washington Post](https://www.washingtonpost.com/) on 30 October 2019 about Dan Piepenbring, fentanyl, Little Red Corvette (song), memoir, Michael Jackson, The Beautiful Ones (book), vault ([mirror](https://web.archive.org/web/*/https://www.washingtonpost.com/entertainment/books/the-beautiful-ones-isnt-the-memoir-prince-envisioned-but-its-a-moving-look-at-the-singers-life/2019/10/30/b4868632-fb16-11e9-8906-ab6b60de9124_story.html))
+ - [**"‘The Beautiful Ones’ isn’t the memoir Prince envisioned, but it’s a moving look at the singer’s life"**](https://www.washingtonpost.com/entertainment/books/the-beautiful-ones-isnt-the-memoir-prince-envisioned-but-its-a-moving-look-at-the-singers-life/2019/10/30/b4868632-fb16-11e9-8906-ab6b60de9124_story.html) in [Washington Post](https://www.washingtonpost.com/) on 30 October 2019 about Dan Piepenbring, fentanyl, fentanyl overdose, Little Red Corvette (song), memoir, Michael Jackson, The Beautiful Ones (book), vault ([mirror](https://web.archive.org/web/*/https://www.washingtonpost.com/entertainment/books/the-beautiful-ones-isnt-the-memoir-prince-envisioned-but-its-a-moving-look-at-the-singers-life/2019/10/30/b4868632-fb16-11e9-8906-ab6b60de9124_story.html))
 
 ----
 

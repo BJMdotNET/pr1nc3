@@ -4,7 +4,7 @@
 
 ----
 
- - [**"Prince's estate quietly dismisses wrongful-death claims -- Legal settlements likely in wrongful-death suits. "**](http://www.startribune.com/prince-wrongful-death-claims-dismissed/567141982/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 January 2020 about Atlanta (place), Carver County, Carver County District Court, Cecilie M. Loidolt, fentanyl, Illinois (place), John Goetz, Kirk Johnson, Michael Schulenberg, North Memorial Health Care, Paul C. Peterson, Percocet, Prince Estate, Recovery Without Walls, Rodger Hagen, The Prince Estate, Trinity Medical Center (place), Walgreens ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-wrongful-death-claims-dismissed/567141982/))
+ - [**"Prince's estate quietly dismisses wrongful-death claims -- Legal settlements likely in wrongful-death suits. "**](http://www.startribune.com/prince-wrongful-death-claims-dismissed/567141982/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 January 2020 about Atlanta (place), Carver County, Carver County District Court, Cecilie M. Loidolt, fentanyl, Illinois (place), John Goetz, Kirk Johnson, Michael Schulenberg, North Memorial Health Care, Paul C. Peterson, Percocet, Prince Estate, probate court, Recovery Without Walls, Rodger Hagen, The Prince Estate, Trinity Medical Center (place), Walgreens ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-wrongful-death-claims-dismissed/567141982/))
 
 ----
 
@@ -28,7 +28,7 @@
 
 ----
 
- - [**"Prince’s bodyguard deposed in wrongful death lawsuit"**](https://apnews.com/8e68cf25ceb245319425b5952c5d1be8) in [Associated Press News](https://apnews.com/) on 30 May 2019 about Atlanta (place), Carver County, Clayton Tyler, fentanyl, Illinois (place), Kirk Johnson, Michael Schulenberg, Moline, Illinois (place), North Memorial Health Care, oxycodone, Walgreens ([mirror](https://web.archive.org/web/*/https://apnews.com/8e68cf25ceb245319425b5952c5d1be8))
+ - [**"Prince’s bodyguard deposed in wrongful death lawsuit"**](https://apnews.com/8e68cf25ceb245319425b5952c5d1be8) in [Associated Press News](https://apnews.com/) on 30 May 2019 about Atlanta (place), Carver County, Clayton Tyler, fentanyl, fentanyl overdose, Illinois (place), Kirk Johnson, Michael Schulenberg, Moline, Illinois (place), North Memorial Health Care, oxycodone, Walgreens ([mirror](https://web.archive.org/web/*/https://apnews.com/8e68cf25ceb245319425b5952c5d1be8))
 
 ----
 
@@ -60,11 +60,11 @@
 
 ----
 
- - [**"Correction: Prince Death story"**](https://apnews.com/6ea0a330a6fa442990b24ec0c5153b27) in [Associated Press News](https://apnews.com/) on 22 August 2016 about Amy Conners, Atlanta (place), fentanyl, Illinois (place), Michael Todd Schulenberg, Moline, Illinois (place), oxycodone, U-47700 ([mirror](https://web.archive.org/web/*/https://apnews.com/6ea0a330a6fa442990b24ec0c5153b27))
+ - [**"Correction: Prince Death story"**](https://apnews.com/6ea0a330a6fa442990b24ec0c5153b27) in [Associated Press News](https://apnews.com/) on 22 August 2016 about Amy Conners, Atlanta (place), fentanyl, fentanyl overdose, Illinois (place), Michael Todd Schulenberg, Moline, Illinois (place), oxycodone, U-47700 ([mirror](https://web.archive.org/web/*/https://apnews.com/6ea0a330a6fa442990b24ec0c5153b27))
 
 ----
 
- - [**"Official: Pills found at Prince’s estate contained fentanyl"**](https://apnews.com/f2cb614f0e79404692d5582509874869) in [Associated Press News](https://apnews.com/) on 22 August 2016 about Atlanta (place), fentanyl, Illinois (place), Michael Todd Schulenberg, Moline, Illinois (place), oxycodone ([mirror](https://web.archive.org/web/*/https://apnews.com/f2cb614f0e79404692d5582509874869))
+ - [**"Official: Pills found at Prince’s estate contained fentanyl"**](https://apnews.com/f2cb614f0e79404692d5582509874869) in [Associated Press News](https://apnews.com/) on 22 August 2016 about Atlanta (place), fentanyl, fentanyl overdose, Illinois (place), Michael Todd Schulenberg, Moline, Illinois (place), oxycodone ([mirror](https://web.archive.org/web/*/https://apnews.com/f2cb614f0e79404692d5582509874869))
 
 ----
 

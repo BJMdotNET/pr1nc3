@@ -108,7 +108,7 @@
 
 ----
 
- - [**"Prince’s estate sues alleged European piracy network"**](https://apnews.com/7175907b6f0247e79365312718c0b1b6) by The Associated Press in [Associated Press News](https://apnews.com/) on 15 September 2018 about bootleg, piracy ([mirror](https://web.archive.org/web/*/https://apnews.com/7175907b6f0247e79365312718c0b1b6))
+ - [**"Prince’s estate sues alleged European piracy network"**](https://apnews.com/7175907b6f0247e79365312718c0b1b6) by The Associated Press in [Associated Press News](https://apnews.com/) on 15 September 2018 about bootleg, fentanyl overdose, piracy ([mirror](https://web.archive.org/web/*/https://apnews.com/7175907b6f0247e79365312718c0b1b6))
 
 ----
 
@@ -124,7 +124,7 @@
 
 ----
 
- - [**"A year after Prince's death, these questions remain unanswered"**](https://usatoday.com/story/life/music/2017/04/20/death-prince-one-year-later-what-do-we-know/100180398/) in [USA Today](https://usatoday.com/) on 21 April 2017 about Amy Conners, Apple Music, bootleg, Carver County, fentanyl, George Ian Boxill, Howard Kornfeld, Kevin Eide, Manuela Testolini, Mayte, Mayte Garcia, memoir, Michael Schulenberg, museum, Paisley Park Enterprises, Patrick Cousins, Spotify, Tidal, Tyka Nelson, Universal Music Group, vault ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2017/04/20/death-prince-one-year-later-what-do-we-know/100180398/))
+ - [**"A year after Prince's death, these questions remain unanswered"**](https://usatoday.com/story/life/music/2017/04/20/death-prince-one-year-later-what-do-we-know/100180398/) in [USA Today](https://usatoday.com/) on 21 April 2017 about Amy Conners, Apple Music, bootleg, Carver County, Comerica, fentanyl, George Ian Boxill, Howard Kornfeld, Kevin Eide, Manuela Testolini, Mayte, Mayte Garcia, memoir, Michael Schulenberg, museum, Paisley Park Enterprises, Patrick Cousins, probate court, Spotify, Tidal, Tyka Nelson, Universal Music Group, vault ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2017/04/20/death-prince-one-year-later-what-do-we-know/100180398/))
 
 ----
 

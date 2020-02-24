@@ -8,7 +8,7 @@
 
 ----
 
- - [**"Deep cuts and idiosyncratic visions highlight Grammy tribute concert to Prince"**](https://www.latimes.com/entertainment-arts/music/story/2020-01-29/prince-tribute-grammys-foo-fighters-beck-john-legend) in [Los Angeles Times](https://www.latimes.com/) on 29 January 2020 about Aretha Franklin, Baby I’m a Star (song), Bangles, Beck, Chris Martin, Coldplay, Controversy (song), Earth, Wind & Fire, fentanyl, Foo Fighters, Fred Armisen, Gary Clark Jr., Grammy Award, H.E.R., Jimmy Jam, John Legend, Jungle Love (song), Ken Ehrlich, Let’s Go Crazy (song), Los Angeles Convention Center (place), Manic Monday (song), Mavis Staples, Mountains (song), Nothing Compares 2 U (song), Pop Life (song), Purple Rain (song), Sheila E., St. Vincent, Super Bowl, Super Bowl XLI (event), Susanna Hoffs, Terry Lewis, The Beautiful Ones (song), The Glamorous Life (song), The Revolution, The Time, Under the Cherry Moon (movie) ([mirror](https://web.archive.org/web/*/https://www.latimes.com/entertainment-arts/music/story/2020-01-29/prince-tribute-grammys-foo-fighters-beck-john-legend))
+ - [**"Deep cuts and idiosyncratic visions highlight Grammy tribute concert to Prince"**](https://www.latimes.com/entertainment-arts/music/story/2020-01-29/prince-tribute-grammys-foo-fighters-beck-john-legend) in [Los Angeles Times](https://www.latimes.com/) on 29 January 2020 about Aretha Franklin, Baby I’m a Star (song), Bangles, Beck, Chris Martin, Coldplay, Controversy (song), Earth, Wind & Fire, fentanyl, fentanyl overdose, Foo Fighters, Fred Armisen, Gary Clark Jr., Grammy Award, H.E.R., Jimmy Jam, John Legend, Jungle Love (song), Ken Ehrlich, Let’s Go Crazy (song), Los Angeles Convention Center (place), Manic Monday (song), Mavis Staples, Mountains (song), Nothing Compares 2 U (song), Pop Life (song), Purple Rain (song), Sheila E., St. Vincent, Super Bowl, Super Bowl XLI (event), Susanna Hoffs, Terry Lewis, The Beautiful Ones (song), The Glamorous Life (song), The Revolution, The Time, Under the Cherry Moon (movie) ([mirror](https://web.archive.org/web/*/https://www.latimes.com/entertainment-arts/music/story/2020-01-29/prince-tribute-grammys-foo-fighters-beck-john-legend))
 
 ----
 
@@ -56,7 +56,7 @@
 
 ----
 
- - [**"Prince's estate to assume management of Paisley Park -- Graceland Holdings will no longer run the Chanhassen museum as of Oct. 1."**](http://www.startribune.com/prince-s-estate-to-assume-management-of-paisley-park/558364602/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 August 2019 about Ava DuVernay, Bangles, contract, Graceland, Graceland Holdings, Joel Weinshanker, Kirk Johnson, memoir, museum, Netflix, Sharon Nelson, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-estate-to-assume-management-of-paisley-park/558364602/))
+ - [**"Prince's estate to assume management of Paisley Park -- Graceland Holdings will no longer run the Chanhassen museum as of Oct. 1."**](http://www.startribune.com/prince-s-estate-to-assume-management-of-paisley-park/558364602/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 August 2019 about Ava DuVernay, Bangles, Comerica, contract, Graceland, Graceland Holdings, Joel Weinshanker, Kirk Johnson, memoir, museum, Netflix, Sharon Nelson, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-estate-to-assume-management-of-paisley-park/558364602/))
 
 ----
 
@@ -104,7 +104,7 @@
 
 ----
 
- - [**"Prince’s Unearthed ‘Originals’: Collaborators Look Back on the Hits He Passed Along -- As demos of future classics like “Manic Monday” and Nothing Compares 2 U” finally see official release, Apollonia, the Bangles’ Susanna Hoffs, and others recall the artist’s “otherworldly” songwriting talents"**](https://www.rollingstone.com/music/music-features/prince-originals-interview-842940/) by Kory Grow in [Rolling Stone](https://www.rollingstone.com/) on 24 June 2019 about Apollonia 6, Apollonia Kotero, Bangles, contract, George Clinton, Jill Jones, Jungle Love (song), Kenny Rogers, Manic Monday (song), Martika, Mazarati, Nasty Girl (song), Nothing Compares 2 U (song), Originals (album), Peggy McCreary, Prince Estate, Sex Shooter (song), Sheena Easton, Sheila E., Sugar Walls (song), Sunset Sound (place), Susan Rogers, Susanna Hoffs, Susannah Melvoin, The Family, The Prince Estate, The Time, Troy Carter, Vanity 6, vault, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/prince-originals-interview-842940/))
+ - [**"Prince’s Unearthed ‘Originals’: Collaborators Look Back on the Hits He Passed Along -- As demos of future classics like “Manic Monday” and Nothing Compares 2 U” finally see official release, Apollonia, the Bangles’ Susanna Hoffs, and others recall the artist’s “otherworldly” songwriting talents"**](https://www.rollingstone.com/music/music-features/prince-originals-interview-842940/) by Kory Grow in [Rolling Stone](https://www.rollingstone.com/) on 24 June 2019 about Apollonia 6, Apollonia Kotero, Bangles, contract, fentanyl overdose, George Clinton, Jill Jones, Jungle Love (song), Kenny Rogers, Manic Monday (song), Martika, Mazarati, Nasty Girl (song), Nothing Compares 2 U (song), Originals (album), Peggy McCreary, Prince Estate, Sex Shooter (song), Sheena Easton, Sheila E., Sugar Walls (song), Sunset Sound (place), Susan Rogers, Susanna Hoffs, Susannah Melvoin, The Family, The Prince Estate, The Time, Troy Carter, Vanity 6, vault, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/prince-originals-interview-842940/))
 
 ----
 
@@ -156,7 +156,7 @@
 
 ----
 
- - [**"10 deep nuggets of info we learned at the playback of Prince’s new album, ‘Originals’"**](https://www.nme.com/blogs/11-things-we-learned-at-playback-new-prince-album-2506506) in [NME (New Musical Express)](https://www.nme.com/) on 10 June 2019 about Bangles, Jill Jones, Michael Howe, Michael Jackson, Morris Day, Originals (album), Peggy McCreary, The Revolution, Troy Carter, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://www.nme.com/blogs/11-things-we-learned-at-playback-new-prince-album-2506506))
+ - [**"10 deep nuggets of info we learned at the playback of Prince’s new album, ‘Originals’"**](https://www.nme.com/blogs/11-things-we-learned-at-playback-new-prince-album-2506506) in [NME (New Musical Express)](https://www.nme.com/) on 10 June 2019 about Bangles, hologram, Jill Jones, Michael Howe, Michael Jackson, Morris Day, Originals (album), Peggy McCreary, The Revolution, Troy Carter, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://www.nme.com/blogs/11-things-we-learned-at-playback-new-prince-album-2506506))
 
 ----
 
@@ -192,7 +192,7 @@
 
 ----
 
- - [**"Fans’ Holy Grail: unreleased songs in Prince’s vault"**](https://apnews.com/73b9ba74daa4423bb36ac62d4655a71b) in [Associated Press News](https://apnews.com/) on 29 April 2016 about Bangles, Bremer Trust, Michael Jackson, Miles Davis, Spotify, Tyka Nelson, vault ([mirror](https://web.archive.org/web/*/https://apnews.com/73b9ba74daa4423bb36ac62d4655a71b))
+ - [**"Fans’ Holy Grail: unreleased songs in Prince’s vault"**](https://apnews.com/73b9ba74daa4423bb36ac62d4655a71b) in [Associated Press News](https://apnews.com/) on 29 April 2016 about Bangles, Bremer Trust, Michael Jackson, Miles Davis, probate court, Spotify, Tyka Nelson, vault ([mirror](https://web.archive.org/web/*/https://apnews.com/73b9ba74daa4423bb36ac62d4655a71b))
 
 ----
 

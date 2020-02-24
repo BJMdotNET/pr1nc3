@@ -68,7 +68,7 @@
 
 ## May 2019 (2)
 
- - [**"Prince’s bodyguard deposed in wrongful death lawsuit"**](https://apnews.com/8e68cf25ceb245319425b5952c5d1be8) in [Associated Press News](https://apnews.com/) on 30 May 2019 about Atlanta (place), Carver County, Clayton Tyler, fentanyl, Illinois (place), Kirk Johnson, Michael Schulenberg, Moline, Illinois (place), North Memorial Health Care, oxycodone, Walgreens ([mirror](https://web.archive.org/web/*/https://apnews.com/8e68cf25ceb245319425b5952c5d1be8))
+ - [**"Prince’s bodyguard deposed in wrongful death lawsuit"**](https://apnews.com/8e68cf25ceb245319425b5952c5d1be8) in [Associated Press News](https://apnews.com/) on 30 May 2019 about Atlanta (place), Carver County, Clayton Tyler, fentanyl, fentanyl overdose, Illinois (place), Kirk Johnson, Michael Schulenberg, Moline, Illinois (place), North Memorial Health Care, oxycodone, Walgreens ([mirror](https://web.archive.org/web/*/https://apnews.com/8e68cf25ceb245319425b5952c5d1be8))
 
 ----
 
@@ -106,7 +106,7 @@
 
 ## February 2019 (4)
 
- - [**"The Latest: Klobuchar points to Prince in talking drug issue"**](https://apnews.com/a1facc441faa45c08d75963d0e49a9dc) by The Associated Press in [Associated Press News](https://apnews.com/) on 19 February 2019 about fentanyl ([mirror](https://web.archive.org/web/*/https://apnews.com/a1facc441faa45c08d75963d0e49a9dc))
+ - [**"The Latest: Klobuchar points to Prince in talking drug issue"**](https://apnews.com/a1facc441faa45c08d75963d0e49a9dc) by The Associated Press in [Associated Press News](https://apnews.com/) on 19 February 2019 about fentanyl, fentanyl overdose ([mirror](https://web.archive.org/web/*/https://apnews.com/a1facc441faa45c08d75963d0e49a9dc))
 
 ----
 

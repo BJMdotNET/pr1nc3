@@ -20,7 +20,7 @@
 
 ----
 
- - [**"Minnesota prosecutors plan announcement on Prince death"**](https://apnews.com/abc25c93e0d14b1bab5b300fc6ef8735) in [Associated Press News](https://apnews.com/) on 18 April 2018 about Andrew Kornfeld, Carver County, fentanyl, Howard Kornfeld, Illinois (place), Kirk Johnson, Mark Metz, Michael Todd Schulenberg, Moline, Illinois (place), oxycodone, toxicology report ([mirror](https://web.archive.org/web/*/https://apnews.com/abc25c93e0d14b1bab5b300fc6ef8735))
+ - [**"Minnesota prosecutors plan announcement on Prince death"**](https://apnews.com/abc25c93e0d14b1bab5b300fc6ef8735) in [Associated Press News](https://apnews.com/) on 18 April 2018 about Andrew Kornfeld, Carver County, fentanyl, fentanyl overdose, Howard Kornfeld, Illinois (place), Kirk Johnson, Mark Metz, Michael Todd Schulenberg, Moline, Illinois (place), oxycodone, toxicology report ([mirror](https://web.archive.org/web/*/https://apnews.com/abc25c93e0d14b1bab5b300fc6ef8735))
 
 ----
 
@@ -36,7 +36,7 @@
 
 ----
 
- - [**"News Guide: Prince died of overdose, but questions linger"**](https://apnews.com/e31c398f2bc142d2ae9a05023cebbe7d) in [Associated Press News](https://apnews.com/) on 4 June 2016 about Amy Conners, Andrew Kornfeld, Carver County, fentanyl, Howard Kornfeld, Kirk Johnson, Michael Todd Schulenberg, Tyka Nelson, vault ([mirror](https://web.archive.org/web/*/https://apnews.com/e31c398f2bc142d2ae9a05023cebbe7d))
+ - [**"News Guide: Prince died of overdose, but questions linger"**](https://apnews.com/e31c398f2bc142d2ae9a05023cebbe7d) in [Associated Press News](https://apnews.com/) on 4 June 2016 about Amy Conners, Andrew Kornfeld, Carver County, fentanyl, fentanyl overdose, Howard Kornfeld, Kirk Johnson, Michael Todd Schulenberg, probate court, Tyka Nelson, vault ([mirror](https://web.archive.org/web/*/https://apnews.com/e31c398f2bc142d2ae9a05023cebbe7d))
 
 ----
 

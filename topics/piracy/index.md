@@ -1,6 +1,6 @@
 # piracy
 
- - [**"Prince’s estate sues alleged European piracy network"**](https://apnews.com/7175907b6f0247e79365312718c0b1b6) by The Associated Press in [Associated Press News](https://apnews.com/) on 15 September 2018 about bootleg, piracy ([mirror](https://web.archive.org/web/*/https://apnews.com/7175907b6f0247e79365312718c0b1b6))
+ - [**"Prince’s estate sues alleged European piracy network"**](https://apnews.com/7175907b6f0247e79365312718c0b1b6) by The Associated Press in [Associated Press News](https://apnews.com/) on 15 September 2018 about bootleg, fentanyl overdose, piracy ([mirror](https://web.archive.org/web/*/https://apnews.com/7175907b6f0247e79365312718c0b1b6))
 
 ----
 
@@ -8,7 +8,7 @@
 
 ----
 
- - [**"Counterfeit pain pills likely came to Prince illegally"**](https://apnews.com/f617a02222324bf3a06a0c7cbe15e3fd) in [Associated Press News](https://apnews.com/) on 23 August 2016 about fentanyl, piracy, Vicodin ([mirror](https://web.archive.org/web/*/https://apnews.com/f617a02222324bf3a06a0c7cbe15e3fd))
+ - [**"Counterfeit pain pills likely came to Prince illegally"**](https://apnews.com/f617a02222324bf3a06a0c7cbe15e3fd) in [Associated Press News](https://apnews.com/) on 23 August 2016 about fentanyl, fentanyl overdose, piracy, Vicodin ([mirror](https://web.archive.org/web/*/https://apnews.com/f617a02222324bf3a06a0c7cbe15e3fd))
 
 ----
 

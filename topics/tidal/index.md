@@ -20,7 +20,7 @@
 
 ----
 
- - [**"As Prince heirs stew, bankers and lawyers cash in on estate"**](https://apnews.com/d9847863113d4ff8bd70850dd6a6cd2e) by Steve Karnowski (Associated Press) in [Associated Press News](https://apnews.com/) on 18 May 2018 about Alfred Jackson, Carver County, John L. Nelson, John R. Nelson, Kevin Eide, Norrine Nelson, Omarr Baker, Sharon Nelson, Spotify, Tidal, Troy Carter, Tyka Nelson, Universal Music Group ([mirror](https://web.archive.org/web/*/https://apnews.com/d9847863113d4ff8bd70850dd6a6cd2e))
+ - [**"As Prince heirs stew, bankers and lawyers cash in on estate"**](https://apnews.com/d9847863113d4ff8bd70850dd6a6cd2e) by Steve Karnowski (Associated Press) in [Associated Press News](https://apnews.com/) on 18 May 2018 about Alfred Jackson, Carver County, Comerica, John L. Nelson, John R. Nelson, Kevin Eide, Norrine Nelson, Omarr Baker, Sharon Nelson, Spotify, Tidal, Troy Carter, Tyka Nelson, Universal Music Group ([mirror](https://web.archive.org/web/*/https://apnews.com/d9847863113d4ff8bd70850dd6a6cd2e))
 
 ----
 
@@ -28,15 +28,15 @@
 
 ----
 
- - [**"The Prince Estate and TIDAL Announce Agreement to Debut New and Unreleased Prince Album and Settlement of Prior Legal Disputes"**](https://www.prnewswire.com/news-releases/the-prince-estate-and-tidal-announce-agreement-to-debut-new-and-unreleased-prince-album-and-settlement-of-prior-legal-disputes-300647106.html) in [PR Newswire](https://www.prnewswire.com/) on 11 May 2018 about Prince Estate, The Prince Estate, Tidal, Troy Carter ([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/the-prince-estate-and-tidal-announce-agreement-to-debut-new-and-unreleased-prince-album-and-settlement-of-prior-legal-disputes-300647106.html))
+ - [**"The Prince Estate and TIDAL Announce Agreement to Debut New and Unreleased Prince Album and Settlement of Prior Legal Disputes"**](https://www.prnewswire.com/news-releases/the-prince-estate-and-tidal-announce-agreement-to-debut-new-and-unreleased-prince-album-and-settlement-of-prior-legal-disputes-300647106.html) in [PR Newswire](https://www.prnewswire.com/) on 11 May 2018 about Prince Estate, probate court, The Prince Estate, Tidal, Troy Carter ([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/the-prince-estate-and-tidal-announce-agreement-to-debut-new-and-unreleased-prince-album-and-settlement-of-prior-legal-disputes-300647106.html))
 
 ----
 
- - [**"A year after Prince's death, these questions remain unanswered"**](https://usatoday.com/story/life/music/2017/04/20/death-prince-one-year-later-what-do-we-know/100180398/) in [USA Today](https://usatoday.com/) on 21 April 2017 about Amy Conners, Apple Music, bootleg, Carver County, fentanyl, George Ian Boxill, Howard Kornfeld, Kevin Eide, Manuela Testolini, Mayte, Mayte Garcia, memoir, Michael Schulenberg, museum, Paisley Park Enterprises, Patrick Cousins, Spotify, Tidal, Tyka Nelson, Universal Music Group, vault ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2017/04/20/death-prince-one-year-later-what-do-we-know/100180398/))
+ - [**"A year after Prince's death, these questions remain unanswered"**](https://usatoday.com/story/life/music/2017/04/20/death-prince-one-year-later-what-do-we-know/100180398/) in [USA Today](https://usatoday.com/) on 21 April 2017 about Amy Conners, Apple Music, bootleg, Carver County, Comerica, fentanyl, George Ian Boxill, Howard Kornfeld, Kevin Eide, Manuela Testolini, Mayte, Mayte Garcia, memoir, Michael Schulenberg, museum, Paisley Park Enterprises, Patrick Cousins, probate court, Spotify, Tidal, Tyka Nelson, Universal Music Group, vault ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2017/04/20/death-prince-one-year-later-what-do-we-know/100180398/))
 
 ----
 
- - [**"Deals ensure cash keeps flowing to unsettled Prince estate"**](https://apnews.com/ea32a54490474eccad7364653ab698f8) in [Associated Press News](https://apnews.com/) on 16 April 2017 about 3rdEyeGirl, Alfred Jackson, Celebration 2017, Comerica Bank & Trust, Graceland, Joel Weinshanker, John R. Nelson, Kevin Eide, Liv Warfield, Morris Day, museum, New Power Generation, Norrine Nelson, Omarr Baker, Prince Estate, Sharon Nelson, Shelby J., Spotify, The Time, Tidal, Tyka Nelson, Universal Music Group, Van Jones ([mirror](https://web.archive.org/web/*/https://apnews.com/ea32a54490474eccad7364653ab698f8))
+ - [**"Deals ensure cash keeps flowing to unsettled Prince estate"**](https://apnews.com/ea32a54490474eccad7364653ab698f8) in [Associated Press News](https://apnews.com/) on 16 April 2017 about 3rdEyeGirl, Alfred Jackson, Celebration 2017, Comerica, Comerica Bank & Trust, Graceland, Joel Weinshanker, John R. Nelson, Kevin Eide, Liv Warfield, Morris Day, museum, New Power Generation, Norrine Nelson, Omarr Baker, Prince Estate, Sharon Nelson, Shelby J., Spotify, The Time, Tidal, Tyka Nelson, Universal Music Group, Van Jones ([mirror](https://web.archive.org/web/*/https://apnews.com/ea32a54490474eccad7364653ab698f8))
 
 ----
 
@@ -48,7 +48,7 @@
 
 ----
 
- - [**"Documents: Jay Z’s company wanted to manage Prince’s music"**](https://apnews.com/20b81c0084f9422c9022841d87c0c4d8) in [Associated Press News](https://apnews.com/) on 6 December 2016 about Bremer Trust, Carver County, Charles Koppelman, Tidal ([mirror](https://web.archive.org/web/*/https://apnews.com/20b81c0084f9422c9022841d87c0c4d8))
+ - [**"Documents: Jay Z’s company wanted to manage Prince’s music"**](https://apnews.com/20b81c0084f9422c9022841d87c0c4d8) in [Associated Press News](https://apnews.com/) on 6 December 2016 about Bremer Trust, Carver County, Charles Koppelman, probate court, Tidal ([mirror](https://web.archive.org/web/*/https://apnews.com/20b81c0084f9422c9022841d87c0c4d8))
 
 ----
 

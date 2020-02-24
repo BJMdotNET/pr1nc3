@@ -20,7 +20,7 @@
 
 ----
 
- - [**"Deep cuts and idiosyncratic visions highlight Grammy tribute concert to Prince"**](https://www.latimes.com/entertainment-arts/music/story/2020-01-29/prince-tribute-grammys-foo-fighters-beck-john-legend) in [Los Angeles Times](https://www.latimes.com/) on 29 January 2020 about Aretha Franklin, Baby I’m a Star (song), Bangles, Beck, Chris Martin, Coldplay, Controversy (song), Earth, Wind & Fire, fentanyl, Foo Fighters, Fred Armisen, Gary Clark Jr., Grammy Award, H.E.R., Jimmy Jam, John Legend, Jungle Love (song), Ken Ehrlich, Let’s Go Crazy (song), Los Angeles Convention Center (place), Manic Monday (song), Mavis Staples, Mountains (song), Nothing Compares 2 U (song), Pop Life (song), Purple Rain (song), Sheila E., St. Vincent, Super Bowl, Super Bowl XLI (event), Susanna Hoffs, Terry Lewis, The Beautiful Ones (song), The Glamorous Life (song), The Revolution, The Time, Under the Cherry Moon (movie) ([mirror](https://web.archive.org/web/*/https://www.latimes.com/entertainment-arts/music/story/2020-01-29/prince-tribute-grammys-foo-fighters-beck-john-legend))
+ - [**"Deep cuts and idiosyncratic visions highlight Grammy tribute concert to Prince"**](https://www.latimes.com/entertainment-arts/music/story/2020-01-29/prince-tribute-grammys-foo-fighters-beck-john-legend) in [Los Angeles Times](https://www.latimes.com/) on 29 January 2020 about Aretha Franklin, Baby I’m a Star (song), Bangles, Beck, Chris Martin, Coldplay, Controversy (song), Earth, Wind & Fire, fentanyl, fentanyl overdose, Foo Fighters, Fred Armisen, Gary Clark Jr., Grammy Award, H.E.R., Jimmy Jam, John Legend, Jungle Love (song), Ken Ehrlich, Let’s Go Crazy (song), Los Angeles Convention Center (place), Manic Monday (song), Mavis Staples, Mountains (song), Nothing Compares 2 U (song), Pop Life (song), Purple Rain (song), Sheila E., St. Vincent, Super Bowl, Super Bowl XLI (event), Susanna Hoffs, Terry Lewis, The Beautiful Ones (song), The Glamorous Life (song), The Revolution, The Time, Under the Cherry Moon (movie) ([mirror](https://web.archive.org/web/*/https://www.latimes.com/entertainment-arts/music/story/2020-01-29/prince-tribute-grammys-foo-fighters-beck-john-legend))
 
 ----
 
@@ -76,11 +76,11 @@
 
 ----
 
- - [**"Like Prince, his new memoir 'The Beautiful Ones' can't be pigeonholed -- Filled with ephemera, photos and philosophy, "The Beautiful Ones" is incomplete yet revealing. "**](http://www.startribune.com/like-prince-his-new-memoir-the-beautiful-ones-can-t-be-pigeonholed/563845812/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 October 2019 about Dan Piepenbring, fentanyl, John L. Nelson, memoir, Super Bowl, The Beautiful Ones (book), vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/like-prince-his-new-memoir-the-beautiful-ones-can-t-be-pigeonholed/563845812/))
+ - [**"Like Prince, his new memoir 'The Beautiful Ones' can't be pigeonholed -- Filled with ephemera, photos and philosophy, "The Beautiful Ones" is incomplete yet revealing. "**](http://www.startribune.com/like-prince-his-new-memoir-the-beautiful-ones-can-t-be-pigeonholed/563845812/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 October 2019 about Dan Piepenbring, fentanyl, fentanyl overdose, John L. Nelson, memoir, Super Bowl, The Beautiful Ones (book), vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/like-prince-his-new-memoir-the-beautiful-ones-can-t-be-pigeonholed/563845812/))
 
 ----
 
- - [**"Once and Future Prince"**](https://www.newyorker.com/magazine/2019/10/21/once-and-future-prince/) in [The New Yorker](https://www.newyorker.com/) on 14 October 2019 about Grammy Award, Spotify, Super Bowl, vault ([mirror](https://web.archive.org/web/*/https://www.newyorker.com/magazine/2019/10/21/once-and-future-prince/))
+ - [**"Once and Future Prince"**](https://www.newyorker.com/magazine/2019/10/21/once-and-future-prince/) in [The New Yorker](https://www.newyorker.com/) on 14 October 2019 about Grammy Award, hologram, Spotify, Super Bowl, vault ([mirror](https://web.archive.org/web/*/https://www.newyorker.com/magazine/2019/10/21/once-and-future-prince/))
 
 ----
 
@@ -108,11 +108,11 @@
 
 ----
 
- - [**"The Prince Estate’s Big Plans: Inside the Upcoming Purple Reign -- The late singer’s estate is currently exploring licensing, future releases and even a hotel – all while trying to consider what Prince would have wanted"**](https://www.rollingstone.com/music/music-features/prince-estate-big-plans-upcoming-purple-reign-698529/) in [Rolling Stone](https://www.rollingstone.com/) on 13 July 2018 about Bravado, Bremer Trust, Carver County, Charles Koppelman, First Avenue (place), Graceland, John Nelson, Joni Mitchell, Mayte, Mayte Garcia, merchandise, Michael Howe, Minnesota Twins, museum, Nothing Compares 2 U (song), Piano and a Microphone 1983 (album), Prince Estate, Questlove, Sharon Nelson, Spotify, Super Bowl, Susan Rogers, The Prince Estate, Troy Carter, Tyka Nelson, Warner Bros. Records ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/prince-estate-big-plans-upcoming-purple-reign-698529/))
+ - [**"The Prince Estate’s Big Plans: Inside the Upcoming Purple Reign -- The late singer’s estate is currently exploring licensing, future releases and even a hotel – all while trying to consider what Prince would have wanted"**](https://www.rollingstone.com/music/music-features/prince-estate-big-plans-upcoming-purple-reign-698529/) in [Rolling Stone](https://www.rollingstone.com/) on 13 July 2018 about Bravado, Bremer Trust, Carver County, Charles Koppelman, Comerica, First Avenue (place), Graceland, hologram, John Nelson, Joni Mitchell, Mayte, Mayte Garcia, merchandise, Michael Howe, Minnesota Twins, museum, Nothing Compares 2 U (song), Piano and a Microphone 1983 (album), Prince Estate, Questlove, Sharon Nelson, Spotify, Super Bowl, Susan Rogers, The Prince Estate, Troy Carter, Tyka Nelson, Warner Bros. Records ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/prince-estate-big-plans-upcoming-purple-reign-698529/))
 
 ----
 
- - [**"Prince drummer: No halftime show Prince hologram"**](https://usatoday.com/story/sports/ftw/2018/02/04/prince-drummer-justin-timberlake-told-me-there-will-be-no-hologram-of-prince-at-super-bowl-halftime/110106588/) in [USA Today](https://usatoday.com/) on 4 February 2018 about Justin Timberlake, Sheila E., Super Bowl ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/sports/ftw/2018/02/04/prince-drummer-justin-timberlake-told-me-there-will-be-no-hologram-of-prince-at-super-bowl-halftime/110106588/))
+ - [**"Prince drummer: No halftime show Prince hologram"**](https://usatoday.com/story/sports/ftw/2018/02/04/prince-drummer-justin-timberlake-told-me-there-will-be-no-hologram-of-prince-at-super-bowl-halftime/110106588/) in [USA Today](https://usatoday.com/) on 4 February 2018 about hologram, Justin Timberlake, Sheila E., Super Bowl ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/sports/ftw/2018/02/04/prince-drummer-justin-timberlake-told-me-there-will-be-no-hologram-of-prince-at-super-bowl-halftime/110106588/))
 
 ----
 
@@ -120,7 +120,7 @@
 
 ----
 
- - [**"Prince is gone, but his spirit lives at Minnesota Super Bowl"**](https://apnews.com/760ec69e7a2e430a9879834f5f2eae63) in [Associated Press News](https://apnews.com/) on 2 February 2018 about First Avenue (place), Jimmy Jam, Minnesota Vikings, Morris Day, Morris Hayes, museum, New Power Generation, Sheila E., Super Bowl, Terry Lewis, The Revolution ([mirror](https://web.archive.org/web/*/https://apnews.com/760ec69e7a2e430a9879834f5f2eae63))
+ - [**"Prince is gone, but his spirit lives at Minnesota Super Bowl"**](https://apnews.com/760ec69e7a2e430a9879834f5f2eae63) in [Associated Press News](https://apnews.com/) on 2 February 2018 about First Avenue (place), hologram, Jimmy Jam, Minnesota Vikings, Morris Day, Morris Hayes, museum, New Power Generation, Sheila E., Super Bowl, Terry Lewis, The Revolution ([mirror](https://web.archive.org/web/*/https://apnews.com/760ec69e7a2e430a9879834f5f2eae63))
 
 ----
 

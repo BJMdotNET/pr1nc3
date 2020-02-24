@@ -28,7 +28,7 @@
 
 ----
 
- - [**"A year after Prince's death, these questions remain unanswered"**](https://usatoday.com/story/life/music/2017/04/20/death-prince-one-year-later-what-do-we-know/100180398/) in [USA Today](https://usatoday.com/) on 21 April 2017 about Amy Conners, Apple Music, bootleg, Carver County, fentanyl, George Ian Boxill, Howard Kornfeld, Kevin Eide, Manuela Testolini, Mayte, Mayte Garcia, memoir, Michael Schulenberg, museum, Paisley Park Enterprises, Patrick Cousins, Spotify, Tidal, Tyka Nelson, Universal Music Group, vault ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2017/04/20/death-prince-one-year-later-what-do-we-know/100180398/))
+ - [**"A year after Prince's death, these questions remain unanswered"**](https://usatoday.com/story/life/music/2017/04/20/death-prince-one-year-later-what-do-we-know/100180398/) in [USA Today](https://usatoday.com/) on 21 April 2017 about Amy Conners, Apple Music, bootleg, Carver County, Comerica, fentanyl, George Ian Boxill, Howard Kornfeld, Kevin Eide, Manuela Testolini, Mayte, Mayte Garcia, memoir, Michael Schulenberg, museum, Paisley Park Enterprises, Patrick Cousins, probate court, Spotify, Tidal, Tyka Nelson, Universal Music Group, vault ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2017/04/20/death-prince-one-year-later-what-do-we-know/100180398/))
 
 ----
 

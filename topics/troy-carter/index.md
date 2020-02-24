@@ -1,5 +1,9 @@
 # Troy Carter
 
+ - [**"Death of Prince heir complicates estate settlement even more -- Nearly a third of Prince's estate could go to parties not related to him after two siblings signed agreements with Primary Wave."**](http://www.startribune.com/untimely-death-of-prince-heir-complicates-estate-settlement-even-more/568089142/) by Jon Bream, Mike Hughlett in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 February 2020 about Alfred Jackson, Carver County, Comerica, Dennis Patrick, fentanyl, fentanyl overdose, Fredrikson & Byron, hologram, John Nelson, L. Londell McMillan, Lawrence Mestel, Leonardo Starke, Michael Jackson, Mitchell Hamline Law Review, O.J. Simpson, Primary Wave, Prince Estate, probate court, Raffles Van Exel, Shawn Jackson, The Prince Estate, Troy Carter, Tyka Nelson, Whitney Houston, Xcel Energy Center (place), YouTube ([mirror](https://web.archive.org/web/*/http://www.startribune.com/untimely-death-of-prince-heir-complicates-estate-settlement-even-more/568089142/))
+
+----
+
  - [**"The life of Prince, revealed in "The Beautiful Ones""**](https://www.cbsnews.com/news/the-life-of-prince-revealed-in-the-beautiful-ones/) in [CBS News](https://www.cbsnews.com/) on 27 October 2019 about Academy Award, Bobby Z., Dan Piepenbring, Jill Jones, memoir, Moon Sound Studio (place), Super Bowl, The Beautiful Ones (book), The Revolution, Troy Carter, vault ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/news/the-life-of-prince-revealed-in-the-beautiful-ones/))
 
 ----
@@ -20,11 +24,11 @@
 
 ----
 
- - [**"Prince’s Unearthed ‘Originals’: Collaborators Look Back on the Hits He Passed Along -- As demos of future classics like “Manic Monday” and Nothing Compares 2 U” finally see official release, Apollonia, the Bangles’ Susanna Hoffs, and others recall the artist’s “otherworldly” songwriting talents"**](https://www.rollingstone.com/music/music-features/prince-originals-interview-842940/) by Kory Grow in [Rolling Stone](https://www.rollingstone.com/) on 24 June 2019 about Apollonia 6, Apollonia Kotero, Bangles, contract, George Clinton, Jill Jones, Jungle Love (song), Kenny Rogers, Manic Monday (song), Martika, Mazarati, Nasty Girl (song), Nothing Compares 2 U (song), Originals (album), Peggy McCreary, Prince Estate, Sex Shooter (song), Sheena Easton, Sheila E., Sugar Walls (song), Sunset Sound (place), Susan Rogers, Susanna Hoffs, Susannah Melvoin, The Family, The Prince Estate, The Time, Troy Carter, Vanity 6, vault, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/prince-originals-interview-842940/))
+ - [**"Prince’s Unearthed ‘Originals’: Collaborators Look Back on the Hits He Passed Along -- As demos of future classics like “Manic Monday” and Nothing Compares 2 U” finally see official release, Apollonia, the Bangles’ Susanna Hoffs, and others recall the artist’s “otherworldly” songwriting talents"**](https://www.rollingstone.com/music/music-features/prince-originals-interview-842940/) by Kory Grow in [Rolling Stone](https://www.rollingstone.com/) on 24 June 2019 about Apollonia 6, Apollonia Kotero, Bangles, contract, fentanyl overdose, George Clinton, Jill Jones, Jungle Love (song), Kenny Rogers, Manic Monday (song), Martika, Mazarati, Nasty Girl (song), Nothing Compares 2 U (song), Originals (album), Peggy McCreary, Prince Estate, Sex Shooter (song), Sheena Easton, Sheila E., Sugar Walls (song), Sunset Sound (place), Susan Rogers, Susanna Hoffs, Susannah Melvoin, The Family, The Prince Estate, The Time, Troy Carter, Vanity 6, vault, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/prince-originals-interview-842940/))
 
 ----
 
- - [**"10 deep nuggets of info we learned at the playback of Prince’s new album, ‘Originals’"**](https://www.nme.com/blogs/11-things-we-learned-at-playback-new-prince-album-2506506) in [NME (New Musical Express)](https://www.nme.com/) on 10 June 2019 about Bangles, Jill Jones, Michael Howe, Michael Jackson, Morris Day, Originals (album), Peggy McCreary, The Revolution, Troy Carter, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://www.nme.com/blogs/11-things-we-learned-at-playback-new-prince-album-2506506))
+ - [**"10 deep nuggets of info we learned at the playback of Prince’s new album, ‘Originals’"**](https://www.nme.com/blogs/11-things-we-learned-at-playback-new-prince-album-2506506) in [NME (New Musical Express)](https://www.nme.com/) on 10 June 2019 about Bangles, hologram, Jill Jones, Michael Howe, Michael Jackson, Morris Day, Originals (album), Peggy McCreary, The Revolution, Troy Carter, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://www.nme.com/blogs/11-things-we-learned-at-playback-new-prince-album-2506506))
 
 ----
 
@@ -72,19 +76,19 @@
 
 ----
 
- - [**"Prince’s new basement tape: Just him singing, playing piano"**](https://apnews.com/e0a9e78a662c40d3adee133110bc8489) by Jeff Baenen (Associated Press) in [Associated Press News](https://apnews.com/) on 18 September 2018 about 17 Days (song), Aretha Franklin, Cold Coffee & Cocaine (song), fentanyl, Joni Mitchell, Lisa Coleman, Michael Howe, NPG Records, Piano and a Microphone 1983 (album), Purple Rain (song), Troy Carter, Warner Bros. Records, Why The Butterflies (song) ([mirror](https://web.archive.org/web/*/https://apnews.com/e0a9e78a662c40d3adee133110bc8489))
+ - [**"Prince’s new basement tape: Just him singing, playing piano"**](https://apnews.com/e0a9e78a662c40d3adee133110bc8489) by Jeff Baenen (Associated Press) in [Associated Press News](https://apnews.com/) on 18 September 2018 about 17 Days (song), Aretha Franklin, Cold Coffee & Cocaine (song), fentanyl, fentanyl overdose, Joni Mitchell, Lisa Coleman, Michael Howe, NPG Records, Piano and a Microphone 1983 (album), Purple Rain (song), Troy Carter, Warner Bros. Records, Why The Butterflies (song) ([mirror](https://web.archive.org/web/*/https://apnews.com/e0a9e78a662c40d3adee133110bc8489))
 
 ----
 
- - [**"Prince's New 'Piano & A Microphone 1983' Basement Tape Is as Simple as It Sounds"**](https://www.billboard.com/articles/news/8475824/prince-piano-and-a-microphone-1983-album) in [Billboard](https://www.billboard.com/) on 18 September 2018 about Aretha Franklin, Joni Mitchell, Lisa Coleman, Michael Howe, Piano and a Microphone 1983 (album), Troy Carter ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8475824/prince-piano-and-a-microphone-1983-album))
+ - [**"Prince's New 'Piano & A Microphone 1983' Basement Tape Is as Simple as It Sounds"**](https://www.billboard.com/articles/news/8475824/prince-piano-and-a-microphone-1983-album) in [Billboard](https://www.billboard.com/) on 18 September 2018 about Aretha Franklin, fentanyl overdose, Joni Mitchell, Lisa Coleman, Michael Howe, Piano and a Microphone 1983 (album), Troy Carter ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8475824/prince-piano-and-a-microphone-1983-album))
 
 ----
 
- - [**"The Prince Estate’s Big Plans: Inside the Upcoming Purple Reign -- The late singer’s estate is currently exploring licensing, future releases and even a hotel – all while trying to consider what Prince would have wanted"**](https://www.rollingstone.com/music/music-features/prince-estate-big-plans-upcoming-purple-reign-698529/) in [Rolling Stone](https://www.rollingstone.com/) on 13 July 2018 about Bravado, Bremer Trust, Carver County, Charles Koppelman, First Avenue (place), Graceland, John Nelson, Joni Mitchell, Mayte, Mayte Garcia, merchandise, Michael Howe, Minnesota Twins, museum, Nothing Compares 2 U (song), Piano and a Microphone 1983 (album), Prince Estate, Questlove, Sharon Nelson, Spotify, Super Bowl, Susan Rogers, The Prince Estate, Troy Carter, Tyka Nelson, Warner Bros. Records ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/prince-estate-big-plans-upcoming-purple-reign-698529/))
+ - [**"The Prince Estate’s Big Plans: Inside the Upcoming Purple Reign -- The late singer’s estate is currently exploring licensing, future releases and even a hotel – all while trying to consider what Prince would have wanted"**](https://www.rollingstone.com/music/music-features/prince-estate-big-plans-upcoming-purple-reign-698529/) in [Rolling Stone](https://www.rollingstone.com/) on 13 July 2018 about Bravado, Bremer Trust, Carver County, Charles Koppelman, Comerica, First Avenue (place), Graceland, hologram, John Nelson, Joni Mitchell, Mayte, Mayte Garcia, merchandise, Michael Howe, Minnesota Twins, museum, Nothing Compares 2 U (song), Piano and a Microphone 1983 (album), Prince Estate, Questlove, Sharon Nelson, Spotify, Super Bowl, Susan Rogers, The Prince Estate, Troy Carter, Tyka Nelson, Warner Bros. Records ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/prince-estate-big-plans-upcoming-purple-reign-698529/))
 
 ----
 
- - [**"Prince estate, Sony ink distribution deal for 35 albums"**](https://apnews.com/3f346190027d4601a34fa81f7cf165a2) by The Associated Press in [Associated Press News](https://apnews.com/) on 27 June 2018 about 3121 (album), Emancipation (album), Legacy Recordings, Prince Estate, Sony Music Entertainment, The Gold Experience (album), The Prince Estate, Troy Carter ([mirror](https://web.archive.org/web/*/https://apnews.com/3f346190027d4601a34fa81f7cf165a2))
+ - [**"Prince estate, Sony ink distribution deal for 35 albums"**](https://apnews.com/3f346190027d4601a34fa81f7cf165a2) by The Associated Press in [Associated Press News](https://apnews.com/) on 27 June 2018 about 3121 (album), Emancipation (album), fentanyl overdose, Legacy Recordings, Prince Estate, Sony Music Entertainment, The Gold Experience (album), The Prince Estate, Troy Carter ([mirror](https://web.archive.org/web/*/https://apnews.com/3f346190027d4601a34fa81f7cf165a2))
 
 ----
 
@@ -96,7 +100,7 @@
 
 ----
 
- - [**"As Prince heirs stew, bankers and lawyers cash in on estate"**](https://apnews.com/d9847863113d4ff8bd70850dd6a6cd2e) by Steve Karnowski (Associated Press) in [Associated Press News](https://apnews.com/) on 18 May 2018 about Alfred Jackson, Carver County, John L. Nelson, John R. Nelson, Kevin Eide, Norrine Nelson, Omarr Baker, Sharon Nelson, Spotify, Tidal, Troy Carter, Tyka Nelson, Universal Music Group ([mirror](https://web.archive.org/web/*/https://apnews.com/d9847863113d4ff8bd70850dd6a6cd2e))
+ - [**"As Prince heirs stew, bankers and lawyers cash in on estate"**](https://apnews.com/d9847863113d4ff8bd70850dd6a6cd2e) by Steve Karnowski (Associated Press) in [Associated Press News](https://apnews.com/) on 18 May 2018 about Alfred Jackson, Carver County, Comerica, John L. Nelson, John R. Nelson, Kevin Eide, Norrine Nelson, Omarr Baker, Sharon Nelson, Spotify, Tidal, Troy Carter, Tyka Nelson, Universal Music Group ([mirror](https://web.archive.org/web/*/https://apnews.com/d9847863113d4ff8bd70850dd6a6cd2e))
 
 ----
 
@@ -104,11 +108,11 @@
 
 ----
 
- - [**"The Prince Estate and TIDAL Announce Agreement to Debut New and Unreleased Prince Album and Settlement of Prior Legal Disputes"**](https://www.prnewswire.com/news-releases/the-prince-estate-and-tidal-announce-agreement-to-debut-new-and-unreleased-prince-album-and-settlement-of-prior-legal-disputes-300647106.html) in [PR Newswire](https://www.prnewswire.com/) on 11 May 2018 about Prince Estate, The Prince Estate, Tidal, Troy Carter ([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/the-prince-estate-and-tidal-announce-agreement-to-debut-new-and-unreleased-prince-album-and-settlement-of-prior-legal-disputes-300647106.html))
+ - [**"The Prince Estate and TIDAL Announce Agreement to Debut New and Unreleased Prince Album and Settlement of Prior Legal Disputes"**](https://www.prnewswire.com/news-releases/the-prince-estate-and-tidal-announce-agreement-to-debut-new-and-unreleased-prince-album-and-settlement-of-prior-legal-disputes-300647106.html) in [PR Newswire](https://www.prnewswire.com/) on 11 May 2018 about Prince Estate, probate court, The Prince Estate, Tidal, Troy Carter ([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/the-prince-estate-and-tidal-announce-agreement-to-debut-new-and-unreleased-prince-album-and-settlement-of-prior-legal-disputes-300647106.html))
 
 ----
 
- - [**"It’s Official: Prince’s Estate Manager and Universal Music Group Move to Nullify Recorded-Music Deal"**](https://variety.com/2017/music/news/its-official-princes-estate-manager-and-universal-music-group-move-to-nullify-recorded-music-deal-1202436842/) by Jem Aswad in [Variety](https://variety.com/) on 19 May 2017 about Alfred Jackson, Charles Koppelman, Comerica Bank & Trust, contract, John R. Nelson, Kevin Eide, merchandise, Norrine Nelson, Omarr Baker, Sharon Nelson, Spotify, Troy Carter, Tyka Nelson, Universal Music Group, Van Jones, Warner Bros. Records ([mirror](https://web.archive.org/web/*/https://variety.com/2017/music/news/its-official-princes-estate-manager-and-universal-music-group-move-to-nullify-recorded-music-deal-1202436842/))
+ - [**"It’s Official: Prince’s Estate Manager and Universal Music Group Move to Nullify Recorded-Music Deal"**](https://variety.com/2017/music/news/its-official-princes-estate-manager-and-universal-music-group-move-to-nullify-recorded-music-deal-1202436842/) by Jem Aswad in [Variety](https://variety.com/) on 19 May 2017 about Alfred Jackson, Charles Koppelman, Comerica, Comerica Bank & Trust, contract, John R. Nelson, Kevin Eide, merchandise, Norrine Nelson, Omarr Baker, Sharon Nelson, Spotify, Troy Carter, Tyka Nelson, Universal Music Group, Van Jones, Warner Bros. Records ([mirror](https://web.archive.org/web/*/https://variety.com/2017/music/news/its-official-princes-estate-manager-and-universal-music-group-move-to-nullify-recorded-music-deal-1202436842/))
 
 ----
 
@@ -116,7 +120,7 @@
 
 ----
 
- - [**"Lady Gaga ex-manager Troy Carter named Prince estate adviser"**](https://apnews.com/727501ec378a400184818701510f73ea) by The Associated Press in [Associated Press News](https://apnews.com/) on 12 April 2017 about Bremer Trust, Charles Koppelman, Comerica Bank & Trust, Prince Estate, Spotify, Troy Carter ([mirror](https://web.archive.org/web/*/https://apnews.com/727501ec378a400184818701510f73ea))
+ - [**"Lady Gaga ex-manager Troy Carter named Prince estate adviser"**](https://apnews.com/727501ec378a400184818701510f73ea) by The Associated Press in [Associated Press News](https://apnews.com/) on 12 April 2017 about Bremer Trust, Charles Koppelman, Comerica, Comerica Bank & Trust, Prince Estate, Spotify, Troy Carter ([mirror](https://web.archive.org/web/*/https://apnews.com/727501ec378a400184818701510f73ea))
 
 ----
 

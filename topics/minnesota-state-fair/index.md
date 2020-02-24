@@ -8,7 +8,7 @@
 
 ----
 
- - [**"Prince exhibit coming to the Minnesota State Fair next year -- Superstar's estate is planning exhibit with artifacts, merchandise and performances. "**](http://www.startribune.com/prince-exhibit-coming-to-the-minnesota-state-fair-next-year/558970762/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 31 August 2019 about exhibit, Kirk Johnson, merchandise, Minnesota State Fair, Omarr Baker, State Fair, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-exhibit-coming-to-the-minnesota-state-fair-next-year/558970762/))
+ - [**"Prince exhibit coming to the Minnesota State Fair next year -- Superstar's estate is planning exhibit with artifacts, merchandise and performances. "**](http://www.startribune.com/prince-exhibit-coming-to-the-minnesota-state-fair-next-year/558970762/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 31 August 2019 about Comerica, exhibit, Kirk Johnson, merchandise, Minnesota State Fair, Omarr Baker, State Fair, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-exhibit-coming-to-the-minnesota-state-fair-next-year/558970762/))
 
 ----
 

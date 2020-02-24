@@ -156,7 +156,7 @@
 
 ----
 
- - [**"Book Review: ‘The Beautiful Ones’ a moving look at the singer’s life"**](https://www.seacoastonline.com/news/20191103/book-review-the-beautiful-ones-moving-look-at-singers-life) in [www.seacoastonline.com](https://www.seacoastonline.com/) on 3 November 2019 about Dan Piepenbring, fentanyl, Little Red Corvette (song), memoir, Michael Jackson, The Beautiful Ones (book), vault ([mirror](https://web.archive.org/web/*/https://www.seacoastonline.com/news/20191103/book-review-the-beautiful-ones-moving-look-at-singers-life))
+ - [**"Book Review: ‘The Beautiful Ones’ a moving look at the singer’s life"**](https://www.seacoastonline.com/news/20191103/book-review-the-beautiful-ones-moving-look-at-singers-life) in [www.seacoastonline.com](https://www.seacoastonline.com/) on 3 November 2019 about Dan Piepenbring, fentanyl, fentanyl overdose, Little Red Corvette (song), memoir, Michael Jackson, The Beautiful Ones (book), vault ([mirror](https://web.archive.org/web/*/https://www.seacoastonline.com/news/20191103/book-review-the-beautiful-ones-moving-look-at-singers-life))
 
 ----
 
@@ -220,7 +220,7 @@
 
 ----
 
- - [**"‘The Beautiful Ones’ isn’t the memoir Prince envisioned, but it’s a moving look at the singer’s life"**](https://www.washingtonpost.com/entertainment/books/the-beautiful-ones-isnt-the-memoir-prince-envisioned-but-its-a-moving-look-at-the-singers-life/2019/10/30/b4868632-fb16-11e9-8906-ab6b60de9124_story.html) in [Washington Post](https://www.washingtonpost.com/) on 30 October 2019 about Dan Piepenbring, fentanyl, Little Red Corvette (song), memoir, Michael Jackson, The Beautiful Ones (book), vault ([mirror](https://web.archive.org/web/*/https://www.washingtonpost.com/entertainment/books/the-beautiful-ones-isnt-the-memoir-prince-envisioned-but-its-a-moving-look-at-the-singers-life/2019/10/30/b4868632-fb16-11e9-8906-ab6b60de9124_story.html))
+ - [**"‘The Beautiful Ones’ isn’t the memoir Prince envisioned, but it’s a moving look at the singer’s life"**](https://www.washingtonpost.com/entertainment/books/the-beautiful-ones-isnt-the-memoir-prince-envisioned-but-its-a-moving-look-at-the-singers-life/2019/10/30/b4868632-fb16-11e9-8906-ab6b60de9124_story.html) in [Washington Post](https://www.washingtonpost.com/) on 30 October 2019 about Dan Piepenbring, fentanyl, fentanyl overdose, Little Red Corvette (song), memoir, Michael Jackson, The Beautiful Ones (book), vault ([mirror](https://web.archive.org/web/*/https://www.washingtonpost.com/entertainment/books/the-beautiful-ones-isnt-the-memoir-prince-envisioned-but-its-a-moving-look-at-the-singers-life/2019/10/30/b4868632-fb16-11e9-8906-ab6b60de9124_story.html))
 
 ----
 
@@ -352,7 +352,7 @@
 
 ----
 
- - [**"Like Prince, his new memoir 'The Beautiful Ones' can't be pigeonholed -- Filled with ephemera, photos and philosophy, "The Beautiful Ones" is incomplete yet revealing. "**](http://www.startribune.com/like-prince-his-new-memoir-the-beautiful-ones-can-t-be-pigeonholed/563845812/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 October 2019 about Dan Piepenbring, fentanyl, John L. Nelson, memoir, Super Bowl, The Beautiful Ones (book), vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/like-prince-his-new-memoir-the-beautiful-ones-can-t-be-pigeonholed/563845812/))
+ - [**"Like Prince, his new memoir 'The Beautiful Ones' can't be pigeonholed -- Filled with ephemera, photos and philosophy, "The Beautiful Ones" is incomplete yet revealing. "**](http://www.startribune.com/like-prince-his-new-memoir-the-beautiful-ones-can-t-be-pigeonholed/563845812/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 October 2019 about Dan Piepenbring, fentanyl, fentanyl overdose, John L. Nelson, memoir, Super Bowl, The Beautiful Ones (book), vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/like-prince-his-new-memoir-the-beautiful-ones-can-t-be-pigeonholed/563845812/))
 
 ----
 
@@ -472,7 +472,7 @@
 
 ----
 
- - [**"Prince's estate to assume management of Paisley Park -- Graceland Holdings will no longer run the Chanhassen museum as of Oct. 1."**](http://www.startribune.com/prince-s-estate-to-assume-management-of-paisley-park/558364602/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 August 2019 about Ava DuVernay, Bangles, contract, Graceland, Graceland Holdings, Joel Weinshanker, Kirk Johnson, memoir, museum, Netflix, Sharon Nelson, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-estate-to-assume-management-of-paisley-park/558364602/))
+ - [**"Prince's estate to assume management of Paisley Park -- Graceland Holdings will no longer run the Chanhassen museum as of Oct. 1."**](http://www.startribune.com/prince-s-estate-to-assume-management-of-paisley-park/558364602/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 August 2019 about Ava DuVernay, Bangles, Comerica, contract, Graceland, Graceland Holdings, Joel Weinshanker, Kirk Johnson, memoir, museum, Netflix, Sharon Nelson, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-estate-to-assume-management-of-paisley-park/558364602/))
 
 ----
 
@@ -544,7 +544,7 @@
 
 ----
 
- - [**"A year after Prince's death, these questions remain unanswered"**](https://usatoday.com/story/life/music/2017/04/20/death-prince-one-year-later-what-do-we-know/100180398/) in [USA Today](https://usatoday.com/) on 21 April 2017 about Amy Conners, Apple Music, bootleg, Carver County, fentanyl, George Ian Boxill, Howard Kornfeld, Kevin Eide, Manuela Testolini, Mayte, Mayte Garcia, memoir, Michael Schulenberg, museum, Paisley Park Enterprises, Patrick Cousins, Spotify, Tidal, Tyka Nelson, Universal Music Group, vault ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2017/04/20/death-prince-one-year-later-what-do-we-know/100180398/))
+ - [**"A year after Prince's death, these questions remain unanswered"**](https://usatoday.com/story/life/music/2017/04/20/death-prince-one-year-later-what-do-we-know/100180398/) in [USA Today](https://usatoday.com/) on 21 April 2017 about Amy Conners, Apple Music, bootleg, Carver County, Comerica, fentanyl, George Ian Boxill, Howard Kornfeld, Kevin Eide, Manuela Testolini, Mayte, Mayte Garcia, memoir, Michael Schulenberg, museum, Paisley Park Enterprises, Patrick Cousins, probate court, Spotify, Tidal, Tyka Nelson, Universal Music Group, vault ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2017/04/20/death-prince-one-year-later-what-do-we-know/100180398/))
 
 ----
 

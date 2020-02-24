@@ -40,7 +40,7 @@
 
 ----
 
- - [**"Prince Wrongful Death Case Dismissed; Estate Case Continues"**](https://www.billboard.com/articles/business/legal-and-management/8548465/prince-wrongful-death-case-dismissed-estate-case) in [Billboard](https://www.billboard.com/) on 20 January 2020 about Alfred Jackson, fentanyl, Howard Kornfeld, Illinois (place), John Nelson, Kirk Johnson, Michael Jackson, Michael Schulenberg, oxycodone, Prince Estate, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/business/legal-and-management/8548465/prince-wrongful-death-case-dismissed-estate-case))
+ - [**"Prince Wrongful Death Case Dismissed; Estate Case Continues"**](https://www.billboard.com/articles/business/legal-and-management/8548465/prince-wrongful-death-case-dismissed-estate-case) in [Billboard](https://www.billboard.com/) on 20 January 2020 about Alfred Jackson, fentanyl, fentanyl overdose, Howard Kornfeld, Illinois (place), John Nelson, Kirk Johnson, Michael Jackson, Michael Schulenberg, oxycodone, Primary Wave, Prince Estate, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/business/legal-and-management/8548465/prince-wrongful-death-case-dismissed-estate-case))
 
 ----
 

@@ -20,11 +20,11 @@
 
 ----
 
- - [**"The Latest: Doctor said Prince ‘doesn’t look really well’"**](https://apnews.com/acdea18b521b4b7d886de7b06c2d302a) in [Associated Press News](https://apnews.com/) on 20 April 2018 about Carver County, fentanyl, Kirk Johnson, Mark Metz, Meron Bekure, Michael Todd Schulenberg, oxycodone, Vicodin ([mirror](https://web.archive.org/web/*/https://apnews.com/acdea18b521b4b7d886de7b06c2d302a))
+ - [**"The Latest: Doctor said Prince ‘doesn’t look really well’"**](https://apnews.com/acdea18b521b4b7d886de7b06c2d302a) in [Associated Press News](https://apnews.com/) on 20 April 2018 about Carver County, fentanyl, fentanyl overdose, Kirk Johnson, Mark Metz, Meron Bekure, Michael Todd Schulenberg, oxycodone, Vicodin ([mirror](https://web.archive.org/web/*/https://apnews.com/acdea18b521b4b7d886de7b06c2d302a))
 
 ----
 
- - [**"The Latest: Prince’s sister troubled by death investigation"**](https://apnews.com/86c8143c68534f938b13dfea97e2315e) in [Associated Press News](https://apnews.com/) on 20 April 2018 about Carver County, fentanyl, Mark Metz ([mirror](https://web.archive.org/web/*/https://apnews.com/86c8143c68534f938b13dfea97e2315e))
+ - [**"The Latest: Prince’s sister troubled by death investigation"**](https://apnews.com/86c8143c68534f938b13dfea97e2315e) in [Associated Press News](https://apnews.com/) on 20 April 2018 about Carver County, fentanyl, fentanyl overdose, Mark Metz ([mirror](https://web.archive.org/web/*/https://apnews.com/86c8143c68534f938b13dfea97e2315e))
 
 ----
 
@@ -36,7 +36,7 @@
 
 ----
 
- - [**"Minnesota prosecutors plan announcement on Prince death"**](https://apnews.com/abc25c93e0d14b1bab5b300fc6ef8735) in [Associated Press News](https://apnews.com/) on 18 April 2018 about Andrew Kornfeld, Carver County, fentanyl, Howard Kornfeld, Illinois (place), Kirk Johnson, Mark Metz, Michael Todd Schulenberg, Moline, Illinois (place), oxycodone, toxicology report ([mirror](https://web.archive.org/web/*/https://apnews.com/abc25c93e0d14b1bab5b300fc6ef8735))
+ - [**"Minnesota prosecutors plan announcement on Prince death"**](https://apnews.com/abc25c93e0d14b1bab5b300fc6ef8735) in [Associated Press News](https://apnews.com/) on 18 April 2018 about Andrew Kornfeld, Carver County, fentanyl, fentanyl overdose, Howard Kornfeld, Illinois (place), Kirk Johnson, Mark Metz, Michael Todd Schulenberg, Moline, Illinois (place), oxycodone, toxicology report ([mirror](https://web.archive.org/web/*/https://apnews.com/abc25c93e0d14b1bab5b300fc6ef8735))
 
 ----
 

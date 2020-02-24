@@ -8,7 +8,7 @@
 
 ----
 
- - [**"As Prince heirs stew, bankers and lawyers cash in on estate"**](https://apnews.com/d9847863113d4ff8bd70850dd6a6cd2e) by Steve Karnowski (Associated Press) in [Associated Press News](https://apnews.com/) on 18 May 2018 about Alfred Jackson, Carver County, John L. Nelson, John R. Nelson, Kevin Eide, Norrine Nelson, Omarr Baker, Sharon Nelson, Spotify, Tidal, Troy Carter, Tyka Nelson, Universal Music Group ([mirror](https://web.archive.org/web/*/https://apnews.com/d9847863113d4ff8bd70850dd6a6cd2e))
+ - [**"As Prince heirs stew, bankers and lawyers cash in on estate"**](https://apnews.com/d9847863113d4ff8bd70850dd6a6cd2e) by Steve Karnowski (Associated Press) in [Associated Press News](https://apnews.com/) on 18 May 2018 about Alfred Jackson, Carver County, Comerica, John L. Nelson, John R. Nelson, Kevin Eide, Norrine Nelson, Omarr Baker, Sharon Nelson, Spotify, Tidal, Troy Carter, Tyka Nelson, Universal Music Group ([mirror](https://web.archive.org/web/*/https://apnews.com/d9847863113d4ff8bd70850dd6a6cd2e))
 
 ----
 
@@ -16,15 +16,15 @@
 
 ----
 
- - [**"It’s Official: Prince’s Estate Manager and Universal Music Group Move to Nullify Recorded-Music Deal"**](https://variety.com/2017/music/news/its-official-princes-estate-manager-and-universal-music-group-move-to-nullify-recorded-music-deal-1202436842/) by Jem Aswad in [Variety](https://variety.com/) on 19 May 2017 about Alfred Jackson, Charles Koppelman, Comerica Bank & Trust, contract, John R. Nelson, Kevin Eide, merchandise, Norrine Nelson, Omarr Baker, Sharon Nelson, Spotify, Troy Carter, Tyka Nelson, Universal Music Group, Van Jones, Warner Bros. Records ([mirror](https://web.archive.org/web/*/https://variety.com/2017/music/news/its-official-princes-estate-manager-and-universal-music-group-move-to-nullify-recorded-music-deal-1202436842/))
+ - [**"It’s Official: Prince’s Estate Manager and Universal Music Group Move to Nullify Recorded-Music Deal"**](https://variety.com/2017/music/news/its-official-princes-estate-manager-and-universal-music-group-move-to-nullify-recorded-music-deal-1202436842/) by Jem Aswad in [Variety](https://variety.com/) on 19 May 2017 about Alfred Jackson, Charles Koppelman, Comerica, Comerica Bank & Trust, contract, John R. Nelson, Kevin Eide, merchandise, Norrine Nelson, Omarr Baker, Sharon Nelson, Spotify, Troy Carter, Tyka Nelson, Universal Music Group, Van Jones, Warner Bros. Records ([mirror](https://web.archive.org/web/*/https://variety.com/2017/music/news/its-official-princes-estate-manager-and-universal-music-group-move-to-nullify-recorded-music-deal-1202436842/))
 
 ----
 
- - [**"A year after Prince's death, these questions remain unanswered"**](https://usatoday.com/story/life/music/2017/04/20/death-prince-one-year-later-what-do-we-know/100180398/) in [USA Today](https://usatoday.com/) on 21 April 2017 about Amy Conners, Apple Music, bootleg, Carver County, fentanyl, George Ian Boxill, Howard Kornfeld, Kevin Eide, Manuela Testolini, Mayte, Mayte Garcia, memoir, Michael Schulenberg, museum, Paisley Park Enterprises, Patrick Cousins, Spotify, Tidal, Tyka Nelson, Universal Music Group, vault ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2017/04/20/death-prince-one-year-later-what-do-we-know/100180398/))
+ - [**"A year after Prince's death, these questions remain unanswered"**](https://usatoday.com/story/life/music/2017/04/20/death-prince-one-year-later-what-do-we-know/100180398/) in [USA Today](https://usatoday.com/) on 21 April 2017 about Amy Conners, Apple Music, bootleg, Carver County, Comerica, fentanyl, George Ian Boxill, Howard Kornfeld, Kevin Eide, Manuela Testolini, Mayte, Mayte Garcia, memoir, Michael Schulenberg, museum, Paisley Park Enterprises, Patrick Cousins, probate court, Spotify, Tidal, Tyka Nelson, Universal Music Group, vault ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2017/04/20/death-prince-one-year-later-what-do-we-know/100180398/))
 
 ----
 
- - [**"Deals ensure cash keeps flowing to unsettled Prince estate"**](https://apnews.com/ea32a54490474eccad7364653ab698f8) in [Associated Press News](https://apnews.com/) on 16 April 2017 about 3rdEyeGirl, Alfred Jackson, Celebration 2017, Comerica Bank & Trust, Graceland, Joel Weinshanker, John R. Nelson, Kevin Eide, Liv Warfield, Morris Day, museum, New Power Generation, Norrine Nelson, Omarr Baker, Prince Estate, Sharon Nelson, Shelby J., Spotify, The Time, Tidal, Tyka Nelson, Universal Music Group, Van Jones ([mirror](https://web.archive.org/web/*/https://apnews.com/ea32a54490474eccad7364653ab698f8))
+ - [**"Deals ensure cash keeps flowing to unsettled Prince estate"**](https://apnews.com/ea32a54490474eccad7364653ab698f8) in [Associated Press News](https://apnews.com/) on 16 April 2017 about 3rdEyeGirl, Alfred Jackson, Celebration 2017, Comerica, Comerica Bank & Trust, Graceland, Joel Weinshanker, John R. Nelson, Kevin Eide, Liv Warfield, Morris Day, museum, New Power Generation, Norrine Nelson, Omarr Baker, Prince Estate, Sharon Nelson, Shelby J., Spotify, The Time, Tidal, Tyka Nelson, Universal Music Group, Van Jones ([mirror](https://web.archive.org/web/*/https://apnews.com/ea32a54490474eccad7364653ab698f8))
 
 ----
 

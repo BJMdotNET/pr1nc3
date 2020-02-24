@@ -32,15 +32,15 @@
 
 ----
 
- - [**"AM Prep-Music -- PAISLEY PARK WILL GET NEW MANAGEMENT"**](https://www.princegeorgecitizen.com/am-prep-music-1.23929254) in [Prince George Citizen](https://www.princegeorgecitizen.com/) on 28 August 2019 about contract, Graceland, Graceland Holdings, museum, Sharon Nelson ([mirror](https://web.archive.org/web/*/https://www.princegeorgecitizen.com/am-prep-music-1.23929254))
+ - [**"AM Prep-Music -- PAISLEY PARK WILL GET NEW MANAGEMENT"**](https://www.princegeorgecitizen.com/am-prep-music-1.23929254) in [Prince George Citizen](https://www.princegeorgecitizen.com/) on 28 August 2019 about Comerica, contract, Graceland, Graceland Holdings, museum, Sharon Nelson ([mirror](https://web.archive.org/web/*/https://www.princegeorgecitizen.com/am-prep-music-1.23929254))
 
 ----
 
- - [**"All shook up: Graceland to cede Paisley Park management to Prince estate"**](https://blog.thecurrent.org/2019/08/all-shook-up-graceland-to-cede-paisley-park-management-to-prince-estate/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 27 August 2019 about Celebration, Graceland, Graceland Holdings, Joel Weinshanker, Jon Bream, Kirk Johnson, museum, Nooky Jones, Prince Estate, Sharon Nelson ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2019/08/all-shook-up-graceland-to-cede-paisley-park-management-to-prince-estate/))
+ - [**"All shook up: Graceland to cede Paisley Park management to Prince estate"**](https://blog.thecurrent.org/2019/08/all-shook-up-graceland-to-cede-paisley-park-management-to-prince-estate/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 27 August 2019 about Celebration, Comerica, Graceland, Graceland Holdings, Joel Weinshanker, Jon Bream, Kirk Johnson, museum, Nooky Jones, Prince Estate, Sharon Nelson ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2019/08/all-shook-up-graceland-to-cede-paisley-park-management-to-prince-estate/))
 
 ----
 
- - [**"Prince Estate Taking Over Management of Paisley Park From Graceland Holdings"**](https://www.billboard.com/articles/business/8528477/prince-estate-paisley-park-management-graceland) in [Billboard](https://www.billboard.com/) on 27 August 2019 about contract, Graceland, Graceland Holdings, museum, Prince Estate, Sharon Nelson ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/business/8528477/prince-estate-paisley-park-management-graceland))
+ - [**"Prince Estate Taking Over Management of Paisley Park From Graceland Holdings"**](https://www.billboard.com/articles/business/8528477/prince-estate-paisley-park-management-graceland) in [Billboard](https://www.billboard.com/) on 27 August 2019 about Comerica, contract, Graceland, Graceland Holdings, museum, Prince Estate, Sharon Nelson ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/business/8528477/prince-estate-paisley-park-management-graceland))
 
 ----
 
@@ -48,27 +48,27 @@
 
 ----
 
- - [**"Prince’s estate will operate studio complex Paisley Park"**](https://www.twincities.com/2019/08/27/princes-estate-will-operate-studio-complex-paisley-park/) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 27 August 2019 about contract, Graceland, Graceland Holdings, museum, Sharon Nelson ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2019/08/27/princes-estate-will-operate-studio-complex-paisley-park/))
+ - [**"Prince’s estate will operate studio complex Paisley Park"**](https://www.twincities.com/2019/08/27/princes-estate-will-operate-studio-complex-paisley-park/) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 27 August 2019 about Comerica, contract, Graceland, Graceland Holdings, museum, Sharon Nelson ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2019/08/27/princes-estate-will-operate-studio-complex-paisley-park/))
 
 ----
 
- - [**"Prince's estate will operate studio complex Paisley Park"**](http://www.startribune.com/prince-s-estate-will-operate-studio-complex-paisley-park/558425072/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 27 August 2019 about contract, Graceland, Graceland Holdings, museum, Sharon Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-estate-will-operate-studio-complex-paisley-park/558425072/))
+ - [**"Prince's estate will operate studio complex Paisley Park"**](http://www.startribune.com/prince-s-estate-will-operate-studio-complex-paisley-park/558425072/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 27 August 2019 about Comerica, contract, Graceland, Graceland Holdings, museum, Sharon Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-estate-will-operate-studio-complex-paisley-park/558425072/))
 
 ----
 
- - [**"Prince's estate to assume management of Paisley Park -- Graceland Holdings will no longer run the Chanhassen museum as of Oct. 1."**](http://www.startribune.com/prince-s-estate-to-assume-management-of-paisley-park/558364602/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 August 2019 about Ava DuVernay, Bangles, contract, Graceland, Graceland Holdings, Joel Weinshanker, Kirk Johnson, memoir, museum, Netflix, Sharon Nelson, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-estate-to-assume-management-of-paisley-park/558364602/))
+ - [**"Prince's estate to assume management of Paisley Park -- Graceland Holdings will no longer run the Chanhassen museum as of Oct. 1."**](http://www.startribune.com/prince-s-estate-to-assume-management-of-paisley-park/558364602/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 August 2019 about Ava DuVernay, Bangles, Comerica, contract, Graceland, Graceland Holdings, Joel Weinshanker, Kirk Johnson, memoir, museum, Netflix, Sharon Nelson, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-estate-to-assume-management-of-paisley-park/558364602/))
 
 ----
 
- - [**"Prince died three years ago, his estate is still unsettled: Here's why"**](https://usatoday.com/story/life/2019/04/18/prince-died-3-years-ago-his-estate-still-unsettled-heres-why/3344038002/) in [USA Today](https://usatoday.com/) on 21 April 2019 about Alfred Jackson, auction, Bremer Trust, Caribbean, Carver County, Celebration 2019, Comerica Bank & Trust, exhibition, fentanyl, Graceland, Graceland Holdings, Joel Weinshanker, John Nelson, Kevin Eide, Legacy Recordings, merchandise, museum, My Name Is Prince (exhibition), Norrine Nelson, Omarr Baker, Prince Anthology: 1995-2010 (album), Prince Estate, Prince: In Concert On The Big Screen, Sharon Nelson, The Prince Estate, Turks and Caicos, Tyka Nelson, University of Minnesota ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/2019/04/18/prince-died-3-years-ago-his-estate-still-unsettled-heres-why/3344038002/))
+ - [**"Prince died three years ago, his estate is still unsettled: Here's why"**](https://usatoday.com/story/life/2019/04/18/prince-died-3-years-ago-his-estate-still-unsettled-heres-why/3344038002/) in [USA Today](https://usatoday.com/) on 21 April 2019 about Alfred Jackson, auction, Bremer Trust, Caribbean, Carver County, Celebration 2019, Comerica, Comerica Bank & Trust, exhibition, fentanyl, Graceland, Graceland Holdings, Joel Weinshanker, John Nelson, Kevin Eide, Legacy Recordings, merchandise, museum, My Name Is Prince (exhibition), Norrine Nelson, Omarr Baker, Prince Anthology: 1995-2010 (album), Prince Estate, Prince: In Concert On The Big Screen, probate court, Sharon Nelson, The Prince Estate, Turks and Caicos, Tyka Nelson, University of Minnesota ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/2019/04/18/prince-died-3-years-ago-his-estate-still-unsettled-heres-why/3344038002/))
 
 ----
 
- - [**"The days the music died: A look at funerals of the greats"**](https://apnews.com/7d546ab5dbec4e5ba4ebd0eddd1064e8) in [Associated Press News](https://apnews.com/) on 29 August 2018 about Aretha Franklin, Graceland, James Brown, Larry Graham, Michael Jackson, museum, Sheila E., Stevie Wonder, trademark ([mirror](https://web.archive.org/web/*/https://apnews.com/7d546ab5dbec4e5ba4ebd0eddd1064e8))
+ - [**"The days the music died: A look at funerals of the greats"**](https://apnews.com/7d546ab5dbec4e5ba4ebd0eddd1064e8) in [Associated Press News](https://apnews.com/) on 29 August 2018 about Aretha Franklin, fentanyl overdose, Graceland, James Brown, Larry Graham, Michael Jackson, museum, Sheila E., Stevie Wonder, trademark ([mirror](https://web.archive.org/web/*/https://apnews.com/7d546ab5dbec4e5ba4ebd0eddd1064e8))
 
 ----
 
- - [**"The Prince Estate’s Big Plans: Inside the Upcoming Purple Reign -- The late singer’s estate is currently exploring licensing, future releases and even a hotel – all while trying to consider what Prince would have wanted"**](https://www.rollingstone.com/music/music-features/prince-estate-big-plans-upcoming-purple-reign-698529/) in [Rolling Stone](https://www.rollingstone.com/) on 13 July 2018 about Bravado, Bremer Trust, Carver County, Charles Koppelman, First Avenue (place), Graceland, John Nelson, Joni Mitchell, Mayte, Mayte Garcia, merchandise, Michael Howe, Minnesota Twins, museum, Nothing Compares 2 U (song), Piano and a Microphone 1983 (album), Prince Estate, Questlove, Sharon Nelson, Spotify, Super Bowl, Susan Rogers, The Prince Estate, Troy Carter, Tyka Nelson, Warner Bros. Records ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/prince-estate-big-plans-upcoming-purple-reign-698529/))
+ - [**"The Prince Estate’s Big Plans: Inside the Upcoming Purple Reign -- The late singer’s estate is currently exploring licensing, future releases and even a hotel – all while trying to consider what Prince would have wanted"**](https://www.rollingstone.com/music/music-features/prince-estate-big-plans-upcoming-purple-reign-698529/) in [Rolling Stone](https://www.rollingstone.com/) on 13 July 2018 about Bravado, Bremer Trust, Carver County, Charles Koppelman, Comerica, First Avenue (place), Graceland, hologram, John Nelson, Joni Mitchell, Mayte, Mayte Garcia, merchandise, Michael Howe, Minnesota Twins, museum, Nothing Compares 2 U (song), Piano and a Microphone 1983 (album), Prince Estate, Questlove, Sharon Nelson, Spotify, Super Bowl, Susan Rogers, The Prince Estate, Troy Carter, Tyka Nelson, Warner Bros. Records ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/prince-estate-big-plans-upcoming-purple-reign-698529/))
 
 ----
 
@@ -76,7 +76,7 @@
 
 ----
 
- - [**"Floodgates are about to open on Prince's career after death -- A year after he died, Prince's lucrative second career is taking off. The industry moguls he despised are calling the shots — and his wishes don't apply."**](http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 April 2017 about Bravado, Bremer Trust, Carver County, Charles Koppelman, contract, Graceland, Graceland Holdings, merchandise, Michael Jackson, museum, Omarr Baker, Spotify, Susan Rogers, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/))
+ - [**"Floodgates are about to open on Prince's career after death -- A year after he died, Prince's lucrative second career is taking off. The industry moguls he despised are calling the shots — and his wishes don't apply."**](http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 April 2017 about Bravado, Bremer Trust, Carver County, Charles Koppelman, Comerica, contract, Graceland, Graceland Holdings, hologram, merchandise, Michael Jackson, museum, Omarr Baker, Spotify, Susan Rogers, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/))
 
 ----
 
@@ -84,7 +84,7 @@
 
 ----
 
- - [**"Deals ensure cash keeps flowing to unsettled Prince estate"**](https://apnews.com/ea32a54490474eccad7364653ab698f8) in [Associated Press News](https://apnews.com/) on 16 April 2017 about 3rdEyeGirl, Alfred Jackson, Celebration 2017, Comerica Bank & Trust, Graceland, Joel Weinshanker, John R. Nelson, Kevin Eide, Liv Warfield, Morris Day, museum, New Power Generation, Norrine Nelson, Omarr Baker, Prince Estate, Sharon Nelson, Shelby J., Spotify, The Time, Tidal, Tyka Nelson, Universal Music Group, Van Jones ([mirror](https://web.archive.org/web/*/https://apnews.com/ea32a54490474eccad7364653ab698f8))
+ - [**"Deals ensure cash keeps flowing to unsettled Prince estate"**](https://apnews.com/ea32a54490474eccad7364653ab698f8) in [Associated Press News](https://apnews.com/) on 16 April 2017 about 3rdEyeGirl, Alfred Jackson, Celebration 2017, Comerica, Comerica Bank & Trust, Graceland, Joel Weinshanker, John R. Nelson, Kevin Eide, Liv Warfield, Morris Day, museum, New Power Generation, Norrine Nelson, Omarr Baker, Prince Estate, Sharon Nelson, Shelby J., Spotify, The Time, Tidal, Tyka Nelson, Universal Music Group, Van Jones ([mirror](https://web.archive.org/web/*/https://apnews.com/ea32a54490474eccad7364653ab698f8))
 
 ----
 
@@ -120,11 +120,11 @@
 
 ----
 
- - [**"A Prince wish, Paisley Park eyed for museum like Graceland"**](https://apnews.com/e126f8cb38574b21b3cf0f5dd0843873) in [Associated Press News](https://apnews.com/) on 10 June 2016 about Bremer Trust, Carver County, exhibit, exhibition, fentanyl, Graceland, Jeremiah Freed, Michael Jackson, motorcycle, museum ([mirror](https://web.archive.org/web/*/https://apnews.com/e126f8cb38574b21b3cf0f5dd0843873))
+ - [**"A Prince wish, Paisley Park eyed for museum like Graceland"**](https://apnews.com/e126f8cb38574b21b3cf0f5dd0843873) in [Associated Press News](https://apnews.com/) on 10 June 2016 about Bremer Trust, Carver County, exhibit, exhibition, fentanyl, fentanyl overdose, Graceland, Jeremiah Freed, Michael Jackson, motorcycle, museum ([mirror](https://web.archive.org/web/*/https://apnews.com/e126f8cb38574b21b3cf0f5dd0843873))
 
 ----
 
- - [**"A Prince wish, Paisley Park eyed for museum like Graceland"**](http://www.startribune.com/a-prince-wish-paisley-park-eyed-for-museum-like-graceland/382529341/) by Steve Karnowski (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 June 2016 about Bremer Trust, Carver County, exhibit, exhibition, fentanyl, Graceland, Jeremiah Freed, Michael Jackson, motorcycle, museum ([mirror](https://web.archive.org/web/*/http://www.startribune.com/a-prince-wish-paisley-park-eyed-for-museum-like-graceland/382529341/))
+ - [**"A Prince wish, Paisley Park eyed for museum like Graceland"**](http://www.startribune.com/a-prince-wish-paisley-park-eyed-for-museum-like-graceland/382529341/) by Steve Karnowski (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 June 2016 about Bremer Trust, Carver County, exhibit, exhibition, fentanyl, fentanyl overdose, Graceland, Jeremiah Freed, Michael Jackson, motorcycle, museum ([mirror](https://web.archive.org/web/*/http://www.startribune.com/a-prince-wish-paisley-park-eyed-for-museum-like-graceland/382529341/))
 
 ----
 

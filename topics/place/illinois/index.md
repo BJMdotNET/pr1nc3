@@ -4,39 +4,39 @@
 
 ----
 
- - [**"Prince relatives agree to drop wrongful death lawsuits"**](http://www.citypages.com/music/prince-relatives-agree-to-drop-wrongful-death-lawsuits/567137941) in [City Pages](http://www.citypages.com/) on 20 January 2020 about Howard Kornfeld, Illinois (place), Kirk Johnson, Michael Schulenberg, oxycodone, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/http://www.citypages.com/music/prince-relatives-agree-to-drop-wrongful-death-lawsuits/567137941))
+ - [**"Prince relatives agree to drop wrongful death lawsuits"**](http://www.citypages.com/music/prince-relatives-agree-to-drop-wrongful-death-lawsuits/567137941) in [City Pages](http://www.citypages.com/) on 20 January 2020 about Howard Kornfeld, Illinois (place), Kirk Johnson, Michael Schulenberg, oxycodone, Primary Wave, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/http://www.citypages.com/music/prince-relatives-agree-to-drop-wrongful-death-lawsuits/567137941))
 
 ----
 
- - [**"Prince wrongful death case dismissed; estate case continues"**](https://www.mprnews.org/story/2020/01/20/prince-wrongful-death-case-dismissed-estate-case-continues) by Amy Forliti (Associated Press) in [MPR News (Minnesota Public Radio)](https://www.mprnews.org/) on 20 January 2020 about Alfred Jackson, fentanyl, Howard Kornfeld, Illinois (place), John Nelson, Kirk Johnson, Michael Jackson, Michael Schulenberg, oxycodone, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/https://www.mprnews.org/story/2020/01/20/prince-wrongful-death-case-dismissed-estate-case-continues))
+ - [**"Prince wrongful death case dismissed; estate case continues"**](https://www.mprnews.org/story/2020/01/20/prince-wrongful-death-case-dismissed-estate-case-continues) by Amy Forliti (Associated Press) in [MPR News (Minnesota Public Radio)](https://www.mprnews.org/) on 20 January 2020 about Alfred Jackson, fentanyl, fentanyl overdose, Howard Kornfeld, Illinois (place), John Nelson, Kirk Johnson, Michael Jackson, Michael Schulenberg, oxycodone, Primary Wave, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/https://www.mprnews.org/story/2020/01/20/prince-wrongful-death-case-dismissed-estate-case-continues))
 
 ----
 
- - [**"Prince wrongful death case dismissed; estate case continues"**](https://apnews.com/720413e6c7ff85e224936f008554f2a0) by Amy Forliti (Associated Press) in [Associated Press News](https://apnews.com/) on 20 January 2020 about Alfred Jackson, fentanyl, Howard Kornfeld, Illinois (place), John Nelson, Kirk Johnson, Michael Jackson, Michael Schulenberg, oxycodone, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/https://apnews.com/720413e6c7ff85e224936f008554f2a0))
+ - [**"Prince wrongful death case dismissed; estate case continues"**](https://apnews.com/720413e6c7ff85e224936f008554f2a0) by Amy Forliti (Associated Press) in [Associated Press News](https://apnews.com/) on 20 January 2020 about Alfred Jackson, fentanyl, fentanyl overdose, Howard Kornfeld, Illinois (place), John Nelson, Kirk Johnson, Michael Jackson, Michael Schulenberg, oxycodone, Primary Wave, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/https://apnews.com/720413e6c7ff85e224936f008554f2a0))
 
 ----
 
- - [**"Prince wrongful death case dismissed; estate case continues"**](https://www.twincities.com/2020/01/20/princes-estate-quietly-dismisses-wrongful-death-claims/) by Amy Forliti (Associated Press) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 20 January 2020 about Alfred Jackson, fentanyl, Howard Kornfeld, Illinois (place), John Nelson, Kirk Johnson, Michael Jackson, Michael Schulenberg, oxycodone, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2020/01/20/princes-estate-quietly-dismisses-wrongful-death-claims/))
+ - [**"Prince wrongful death case dismissed; estate case continues"**](https://www.twincities.com/2020/01/20/princes-estate-quietly-dismisses-wrongful-death-claims/) by Amy Forliti (Associated Press) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 20 January 2020 about Alfred Jackson, fentanyl, fentanyl overdose, Howard Kornfeld, Illinois (place), John Nelson, Kirk Johnson, Michael Jackson, Michael Schulenberg, oxycodone, Primary Wave, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2020/01/20/princes-estate-quietly-dismisses-wrongful-death-claims/))
 
 ----
 
- - [**"Prince wrongful death case dismissed; estate case continues"**](http://www.startribune.com/prince-wrongful-death-case-dismissed-estate-case-continues/567136462/) by Amy Forliti (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 January 2020 about Alfred Jackson, fentanyl, Howard Kornfeld, Illinois (place), John Nelson, Kirk Johnson, Michael Jackson, Michael Schulenberg, oxycodone, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-wrongful-death-case-dismissed-estate-case-continues/567136462/))
+ - [**"Prince wrongful death case dismissed; estate case continues"**](http://www.startribune.com/prince-wrongful-death-case-dismissed-estate-case-continues/567136462/) by Amy Forliti (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 January 2020 about Alfred Jackson, fentanyl, fentanyl overdose, Howard Kornfeld, Illinois (place), John Nelson, Kirk Johnson, Michael Jackson, Michael Schulenberg, oxycodone, Primary Wave, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-wrongful-death-case-dismissed-estate-case-continues/567136462/))
 
 ----
 
- - [**"Prince Wrongful Death Case Dismissed; Estate Case Continues"**](https://www.billboard.com/articles/business/legal-and-management/8548465/prince-wrongful-death-case-dismissed-estate-case) in [Billboard](https://www.billboard.com/) on 20 January 2020 about Alfred Jackson, fentanyl, Howard Kornfeld, Illinois (place), John Nelson, Kirk Johnson, Michael Jackson, Michael Schulenberg, oxycodone, Prince Estate, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/business/legal-and-management/8548465/prince-wrongful-death-case-dismissed-estate-case))
+ - [**"Prince Wrongful Death Case Dismissed; Estate Case Continues"**](https://www.billboard.com/articles/business/legal-and-management/8548465/prince-wrongful-death-case-dismissed-estate-case) in [Billboard](https://www.billboard.com/) on 20 January 2020 about Alfred Jackson, fentanyl, fentanyl overdose, Howard Kornfeld, Illinois (place), John Nelson, Kirk Johnson, Michael Jackson, Michael Schulenberg, oxycodone, Primary Wave, Prince Estate, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/business/legal-and-management/8548465/prince-wrongful-death-case-dismissed-estate-case))
 
 ----
 
- - [**"Prince Wrongful Death Case Dismissed; Estate Case Continues"**](https://minnesota.cbslocal.com/2020/01/20/prince-wrongful-death-case-dismissed-estate-case-continues/) by Amy Forliti (Associated Press) in [WCCO - CBS Minnesota](https://minnesota.cbslocal.com/) on 20 January 2020 about Alfred Jackson, fentanyl, Howard Kornfeld, Illinois (place), John Nelson, Kirk Johnson, Michael Jackson, Michael Schulenberg, oxycodone, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/https://minnesota.cbslocal.com/2020/01/20/prince-wrongful-death-case-dismissed-estate-case-continues/))
+ - [**"Prince Wrongful Death Case Dismissed; Estate Case Continues"**](https://minnesota.cbslocal.com/2020/01/20/prince-wrongful-death-case-dismissed-estate-case-continues/) by Amy Forliti (Associated Press) in [WCCO - CBS Minnesota](https://minnesota.cbslocal.com/) on 20 January 2020 about Alfred Jackson, fentanyl, fentanyl overdose, Howard Kornfeld, Illinois (place), John Nelson, Kirk Johnson, Michael Jackson, Michael Schulenberg, oxycodone, Primary Wave, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/https://minnesota.cbslocal.com/2020/01/20/prince-wrongful-death-case-dismissed-estate-case-continues/))
 
 ----
 
- - [**"Prince wrongful death case quietly dismissed; attempts to settle estate continue"**](https://usatoday.com/story/entertainment/music/2020/01/20/prince-wrongful-death-case-dismissed-work-settle-estate-continues/4527342002/) in [USA Today](https://usatoday.com/) on 20 January 2020 about Alfred Jackson, fentanyl, Howard Kornfeld, Illinois (place), John Nelson, Kirk Johnson, Michael Jackson, Michael Schulenberg, oxycodone, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/entertainment/music/2020/01/20/prince-wrongful-death-case-dismissed-work-settle-estate-continues/4527342002/))
+ - [**"Prince wrongful death case quietly dismissed; attempts to settle estate continue"**](https://usatoday.com/story/entertainment/music/2020/01/20/prince-wrongful-death-case-dismissed-work-settle-estate-continues/4527342002/) in [USA Today](https://usatoday.com/) on 20 January 2020 about Alfred Jackson, fentanyl, fentanyl overdose, Howard Kornfeld, Illinois (place), John Nelson, Kirk Johnson, Michael Jackson, Michael Schulenberg, oxycodone, Primary Wave, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/entertainment/music/2020/01/20/prince-wrongful-death-case-dismissed-work-settle-estate-continues/4527342002/))
 
 ----
 
- - [**"Prince's estate quietly dismisses wrongful-death claims -- Legal settlements likely in wrongful-death suits. "**](http://www.startribune.com/prince-wrongful-death-claims-dismissed/567141982/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 January 2020 about Atlanta (place), Carver County, Carver County District Court, Cecilie M. Loidolt, fentanyl, Illinois (place), John Goetz, Kirk Johnson, Michael Schulenberg, North Memorial Health Care, Paul C. Peterson, Percocet, Prince Estate, Recovery Without Walls, Rodger Hagen, The Prince Estate, Trinity Medical Center (place), Walgreens ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-wrongful-death-claims-dismissed/567141982/))
+ - [**"Prince's estate quietly dismisses wrongful-death claims -- Legal settlements likely in wrongful-death suits. "**](http://www.startribune.com/prince-wrongful-death-claims-dismissed/567141982/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 January 2020 about Atlanta (place), Carver County, Carver County District Court, Cecilie M. Loidolt, fentanyl, Illinois (place), John Goetz, Kirk Johnson, Michael Schulenberg, North Memorial Health Care, Paul C. Peterson, Percocet, Prince Estate, probate court, Recovery Without Walls, Rodger Hagen, The Prince Estate, Trinity Medical Center (place), Walgreens ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-wrongful-death-claims-dismissed/567141982/))
 
 ----
 
@@ -68,7 +68,7 @@
 
 ----
 
- - [**"Prince’s bodyguard deposed in wrongful death lawsuit"**](https://apnews.com/8e68cf25ceb245319425b5952c5d1be8) in [Associated Press News](https://apnews.com/) on 30 May 2019 about Atlanta (place), Carver County, Clayton Tyler, fentanyl, Illinois (place), Kirk Johnson, Michael Schulenberg, Moline, Illinois (place), North Memorial Health Care, oxycodone, Walgreens ([mirror](https://web.archive.org/web/*/https://apnews.com/8e68cf25ceb245319425b5952c5d1be8))
+ - [**"Prince’s bodyguard deposed in wrongful death lawsuit"**](https://apnews.com/8e68cf25ceb245319425b5952c5d1be8) in [Associated Press News](https://apnews.com/) on 30 May 2019 about Atlanta (place), Carver County, Clayton Tyler, fentanyl, fentanyl overdose, Illinois (place), Kirk Johnson, Michael Schulenberg, Moline, Illinois (place), North Memorial Health Care, oxycodone, Walgreens ([mirror](https://web.archive.org/web/*/https://apnews.com/8e68cf25ceb245319425b5952c5d1be8))
 
 ----
 
@@ -96,7 +96,7 @@
 
 ----
 
- - [**"Minnesota prosecutors plan announcement on Prince death"**](https://apnews.com/abc25c93e0d14b1bab5b300fc6ef8735) in [Associated Press News](https://apnews.com/) on 18 April 2018 about Andrew Kornfeld, Carver County, fentanyl, Howard Kornfeld, Illinois (place), Kirk Johnson, Mark Metz, Michael Todd Schulenberg, Moline, Illinois (place), oxycodone, toxicology report ([mirror](https://web.archive.org/web/*/https://apnews.com/abc25c93e0d14b1bab5b300fc6ef8735))
+ - [**"Minnesota prosecutors plan announcement on Prince death"**](https://apnews.com/abc25c93e0d14b1bab5b300fc6ef8735) in [Associated Press News](https://apnews.com/) on 18 April 2018 about Andrew Kornfeld, Carver County, fentanyl, fentanyl overdose, Howard Kornfeld, Illinois (place), Kirk Johnson, Mark Metz, Michael Todd Schulenberg, Moline, Illinois (place), oxycodone, toxicology report ([mirror](https://web.archive.org/web/*/https://apnews.com/abc25c93e0d14b1bab5b300fc6ef8735))
 
 ----
 
@@ -108,15 +108,15 @@
 
 ----
 
- - [**"Could drug checking have prevented Prince’s overdose death?"**](https://apnews.com/df36569d11294d918572d3edf5428cbe) in [Associated Press News](https://apnews.com/) on 4 October 2016 about fentanyl, Illinois (place), oxycodone, Vicodin ([mirror](https://web.archive.org/web/*/https://apnews.com/df36569d11294d918572d3edf5428cbe))
+ - [**"Could drug checking have prevented Prince’s overdose death?"**](https://apnews.com/df36569d11294d918572d3edf5428cbe) in [Associated Press News](https://apnews.com/) on 4 October 2016 about fentanyl, fentanyl overdose, Illinois (place), oxycodone, Vicodin ([mirror](https://web.archive.org/web/*/https://apnews.com/df36569d11294d918572d3edf5428cbe))
 
 ----
 
- - [**"Correction: Prince Death story"**](https://apnews.com/6ea0a330a6fa442990b24ec0c5153b27) in [Associated Press News](https://apnews.com/) on 22 August 2016 about Amy Conners, Atlanta (place), fentanyl, Illinois (place), Michael Todd Schulenberg, Moline, Illinois (place), oxycodone, U-47700 ([mirror](https://web.archive.org/web/*/https://apnews.com/6ea0a330a6fa442990b24ec0c5153b27))
+ - [**"Correction: Prince Death story"**](https://apnews.com/6ea0a330a6fa442990b24ec0c5153b27) in [Associated Press News](https://apnews.com/) on 22 August 2016 about Amy Conners, Atlanta (place), fentanyl, fentanyl overdose, Illinois (place), Michael Todd Schulenberg, Moline, Illinois (place), oxycodone, U-47700 ([mirror](https://web.archive.org/web/*/https://apnews.com/6ea0a330a6fa442990b24ec0c5153b27))
 
 ----
 
- - [**"Official: Pills found at Prince’s estate contained fentanyl"**](https://apnews.com/f2cb614f0e79404692d5582509874869) in [Associated Press News](https://apnews.com/) on 22 August 2016 about Atlanta (place), fentanyl, Illinois (place), Michael Todd Schulenberg, Moline, Illinois (place), oxycodone ([mirror](https://web.archive.org/web/*/https://apnews.com/f2cb614f0e79404692d5582509874869))
+ - [**"Official: Pills found at Prince’s estate contained fentanyl"**](https://apnews.com/f2cb614f0e79404692d5582509874869) in [Associated Press News](https://apnews.com/) on 22 August 2016 about Atlanta (place), fentanyl, fentanyl overdose, Illinois (place), Michael Todd Schulenberg, Moline, Illinois (place), oxycodone ([mirror](https://web.archive.org/web/*/https://apnews.com/f2cb614f0e79404692d5582509874869))
 
 ----
 

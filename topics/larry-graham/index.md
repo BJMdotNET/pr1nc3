@@ -16,7 +16,7 @@
 
 ----
 
- - [**"The days the music died: A look at funerals of the greats"**](https://apnews.com/7d546ab5dbec4e5ba4ebd0eddd1064e8) in [Associated Press News](https://apnews.com/) on 29 August 2018 about Aretha Franklin, Graceland, James Brown, Larry Graham, Michael Jackson, museum, Sheila E., Stevie Wonder, trademark ([mirror](https://web.archive.org/web/*/https://apnews.com/7d546ab5dbec4e5ba4ebd0eddd1064e8))
+ - [**"The days the music died: A look at funerals of the greats"**](https://apnews.com/7d546ab5dbec4e5ba4ebd0eddd1064e8) in [Associated Press News](https://apnews.com/) on 29 August 2018 about Aretha Franklin, fentanyl overdose, Graceland, James Brown, Larry Graham, Michael Jackson, museum, Sheila E., Stevie Wonder, trademark ([mirror](https://web.archive.org/web/*/https://apnews.com/7d546ab5dbec4e5ba4ebd0eddd1064e8))
 
 ----
 

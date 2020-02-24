@@ -1,34 +1,46 @@
 # Alfred Jackson
 
- - [**"Prince wrongful death case dismissed; estate case continues"**](https://www.mprnews.org/story/2020/01/20/prince-wrongful-death-case-dismissed-estate-case-continues) by Amy Forliti (Associated Press) in [MPR News (Minnesota Public Radio)](https://www.mprnews.org/) on 20 January 2020 about Alfred Jackson, fentanyl, Howard Kornfeld, Illinois (place), John Nelson, Kirk Johnson, Michael Jackson, Michael Schulenberg, oxycodone, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/https://www.mprnews.org/story/2020/01/20/prince-wrongful-death-case-dismissed-estate-case-continues))
+ - [**"Prince estate fight gets even thornier with heir's death and will"**](https://www.bizjournals.com/twincities/news/2020/02/23/prince-estate-fight-gets-even-thornier-with-heirs.html) in [Minneapolis / St. Paul Business Journal](https://www.bizjournals.com/twincities/) on 23 February 2020 about Alfred Jackson, hologram, Michael Jackson, museum, Paisley Park Studios (place), Primary Wave, Prince Estate, Raffles Van Exel, Tyka Nelson, Whitney Houston ([mirror](https://web.archive.org/web/*/https://www.bizjournals.com/twincities/news/2020/02/23/prince-estate-fight-gets-even-thornier-with-heirs.html))
 
 ----
 
- - [**"Prince wrongful death case dismissed; estate case continues"**](https://apnews.com/720413e6c7ff85e224936f008554f2a0) by Amy Forliti (Associated Press) in [Associated Press News](https://apnews.com/) on 20 January 2020 about Alfred Jackson, fentanyl, Howard Kornfeld, Illinois (place), John Nelson, Kirk Johnson, Michael Jackson, Michael Schulenberg, oxycodone, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/https://apnews.com/720413e6c7ff85e224936f008554f2a0))
+ - [**"Death of Prince heir complicates estate settlement even more -- Nearly a third of Prince's estate could go to parties not related to him after two siblings signed agreements with Primary Wave."**](http://www.startribune.com/untimely-death-of-prince-heir-complicates-estate-settlement-even-more/568089142/) by Jon Bream, Mike Hughlett in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 February 2020 about Alfred Jackson, Carver County, Comerica, Dennis Patrick, fentanyl, fentanyl overdose, Fredrikson & Byron, hologram, John Nelson, L. Londell McMillan, Lawrence Mestel, Leonardo Starke, Michael Jackson, Mitchell Hamline Law Review, O.J. Simpson, Primary Wave, Prince Estate, probate court, Raffles Van Exel, Shawn Jackson, The Prince Estate, Troy Carter, Tyka Nelson, Whitney Houston, Xcel Energy Center (place), YouTube ([mirror](https://web.archive.org/web/*/http://www.startribune.com/untimely-death-of-prince-heir-complicates-estate-settlement-even-more/568089142/))
 
 ----
 
- - [**"Prince wrongful death case dismissed; estate case continues"**](https://www.twincities.com/2020/01/20/princes-estate-quietly-dismisses-wrongful-death-claims/) by Amy Forliti (Associated Press) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 20 January 2020 about Alfred Jackson, fentanyl, Howard Kornfeld, Illinois (place), John Nelson, Kirk Johnson, Michael Jackson, Michael Schulenberg, oxycodone, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2020/01/20/princes-estate-quietly-dismisses-wrongful-death-claims/))
+ - [**"Prince's Estate & Music Now Worth $200 Million"**](https://theblast.com/c/prince-music-estate-net-worth-200-million-battle-brothers-money-alfred-jackson) in [theblast.com](https://theblast.com/) on 20 February 2020 about Alfred Jackson, Prince Estate, Shawn Jackson ([mirror](https://web.archive.org/web/*/https://theblast.com/c/prince-music-estate-net-worth-200-million-battle-brothers-money-alfred-jackson))
 
 ----
 
- - [**"Prince wrongful death case dismissed; estate case continues"**](http://www.startribune.com/prince-wrongful-death-case-dismissed-estate-case-continues/567136462/) by Amy Forliti (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 January 2020 about Alfred Jackson, fentanyl, Howard Kornfeld, Illinois (place), John Nelson, Kirk Johnson, Michael Jackson, Michael Schulenberg, oxycodone, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-wrongful-death-case-dismissed-estate-case-continues/567136462/))
+ - [**"Prince wrongful death case dismissed; estate case continues"**](https://www.mprnews.org/story/2020/01/20/prince-wrongful-death-case-dismissed-estate-case-continues) by Amy Forliti (Associated Press) in [MPR News (Minnesota Public Radio)](https://www.mprnews.org/) on 20 January 2020 about Alfred Jackson, fentanyl, fentanyl overdose, Howard Kornfeld, Illinois (place), John Nelson, Kirk Johnson, Michael Jackson, Michael Schulenberg, oxycodone, Primary Wave, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/https://www.mprnews.org/story/2020/01/20/prince-wrongful-death-case-dismissed-estate-case-continues))
 
 ----
 
- - [**"Prince Wrongful Death Case Dismissed; Estate Case Continues"**](https://www.billboard.com/articles/business/legal-and-management/8548465/prince-wrongful-death-case-dismissed-estate-case) in [Billboard](https://www.billboard.com/) on 20 January 2020 about Alfred Jackson, fentanyl, Howard Kornfeld, Illinois (place), John Nelson, Kirk Johnson, Michael Jackson, Michael Schulenberg, oxycodone, Prince Estate, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/business/legal-and-management/8548465/prince-wrongful-death-case-dismissed-estate-case))
+ - [**"Prince wrongful death case dismissed; estate case continues"**](https://apnews.com/720413e6c7ff85e224936f008554f2a0) by Amy Forliti (Associated Press) in [Associated Press News](https://apnews.com/) on 20 January 2020 about Alfred Jackson, fentanyl, fentanyl overdose, Howard Kornfeld, Illinois (place), John Nelson, Kirk Johnson, Michael Jackson, Michael Schulenberg, oxycodone, Primary Wave, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/https://apnews.com/720413e6c7ff85e224936f008554f2a0))
 
 ----
 
- - [**"Prince Wrongful Death Case Dismissed; Estate Case Continues"**](https://minnesota.cbslocal.com/2020/01/20/prince-wrongful-death-case-dismissed-estate-case-continues/) by Amy Forliti (Associated Press) in [WCCO - CBS Minnesota](https://minnesota.cbslocal.com/) on 20 January 2020 about Alfred Jackson, fentanyl, Howard Kornfeld, Illinois (place), John Nelson, Kirk Johnson, Michael Jackson, Michael Schulenberg, oxycodone, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/https://minnesota.cbslocal.com/2020/01/20/prince-wrongful-death-case-dismissed-estate-case-continues/))
+ - [**"Prince wrongful death case dismissed; estate case continues"**](https://www.twincities.com/2020/01/20/princes-estate-quietly-dismisses-wrongful-death-claims/) by Amy Forliti (Associated Press) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 20 January 2020 about Alfred Jackson, fentanyl, fentanyl overdose, Howard Kornfeld, Illinois (place), John Nelson, Kirk Johnson, Michael Jackson, Michael Schulenberg, oxycodone, Primary Wave, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2020/01/20/princes-estate-quietly-dismisses-wrongful-death-claims/))
 
 ----
 
- - [**"Prince wrongful death case quietly dismissed; attempts to settle estate continue"**](https://usatoday.com/story/entertainment/music/2020/01/20/prince-wrongful-death-case-dismissed-work-settle-estate-continues/4527342002/) in [USA Today](https://usatoday.com/) on 20 January 2020 about Alfred Jackson, fentanyl, Howard Kornfeld, Illinois (place), John Nelson, Kirk Johnson, Michael Jackson, Michael Schulenberg, oxycodone, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/entertainment/music/2020/01/20/prince-wrongful-death-case-dismissed-work-settle-estate-continues/4527342002/))
+ - [**"Prince wrongful death case dismissed; estate case continues"**](http://www.startribune.com/prince-wrongful-death-case-dismissed-estate-case-continues/567136462/) by Amy Forliti (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 January 2020 about Alfred Jackson, fentanyl, fentanyl overdose, Howard Kornfeld, Illinois (place), John Nelson, Kirk Johnson, Michael Jackson, Michael Schulenberg, oxycodone, Primary Wave, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-wrongful-death-case-dismissed-estate-case-continues/567136462/))
 
 ----
 
- - [**"Prince’s half-brother Alfred Jackson found dead in his Kansas City home at 66"**](https://en.brinkwire.com/us/princes-half-brother-alfred-jackson-found-dead-in-his-kansas-city-home-at-66/) in [en.brinkwire.com](https://en.brinkwire.com/) on 11 September 2019 about Alfred Jackson, TMZ (website) ([mirror](https://web.archive.org/web/*/https://en.brinkwire.com/us/princes-half-brother-alfred-jackson-found-dead-in-his-kansas-city-home-at-66/))
+ - [**"Prince Wrongful Death Case Dismissed; Estate Case Continues"**](https://www.billboard.com/articles/business/legal-and-management/8548465/prince-wrongful-death-case-dismissed-estate-case) in [Billboard](https://www.billboard.com/) on 20 January 2020 about Alfred Jackson, fentanyl, fentanyl overdose, Howard Kornfeld, Illinois (place), John Nelson, Kirk Johnson, Michael Jackson, Michael Schulenberg, oxycodone, Primary Wave, Prince Estate, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/business/legal-and-management/8548465/prince-wrongful-death-case-dismissed-estate-case))
+
+----
+
+ - [**"Prince Wrongful Death Case Dismissed; Estate Case Continues"**](https://minnesota.cbslocal.com/2020/01/20/prince-wrongful-death-case-dismissed-estate-case-continues/) by Amy Forliti (Associated Press) in [WCCO - CBS Minnesota](https://minnesota.cbslocal.com/) on 20 January 2020 about Alfred Jackson, fentanyl, fentanyl overdose, Howard Kornfeld, Illinois (place), John Nelson, Kirk Johnson, Michael Jackson, Michael Schulenberg, oxycodone, Primary Wave, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/https://minnesota.cbslocal.com/2020/01/20/prince-wrongful-death-case-dismissed-estate-case-continues/))
+
+----
+
+ - [**"Prince wrongful death case quietly dismissed; attempts to settle estate continue"**](https://usatoday.com/story/entertainment/music/2020/01/20/prince-wrongful-death-case-dismissed-work-settle-estate-continues/4527342002/) in [USA Today](https://usatoday.com/) on 20 January 2020 about Alfred Jackson, fentanyl, fentanyl overdose, Howard Kornfeld, Illinois (place), John Nelson, Kirk Johnson, Michael Jackson, Michael Schulenberg, oxycodone, Primary Wave, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/entertainment/music/2020/01/20/prince-wrongful-death-case-dismissed-work-settle-estate-continues/4527342002/))
+
+----
+
+ - [**"Prince’s half-brother Alfred Jackson found dead in his Kansas City home at 66"**](https://en.brinkwire.com/us/princes-half-brother-alfred-jackson-found-dead-in-his-kansas-city-home-at-66/) in [en.brinkwire.com](https://en.brinkwire.com/) on 11 September 2019 about Alfred Jackson, Comerica, TMZ (website) ([mirror](https://web.archive.org/web/*/https://en.brinkwire.com/us/princes-half-brother-alfred-jackson-found-dead-in-his-kansas-city-home-at-66/))
 
 ----
 
@@ -60,11 +72,11 @@
 
 ----
 
- - [**"Prince died three years ago, his estate is still unsettled: Here's why"**](https://usatoday.com/story/life/2019/04/18/prince-died-3-years-ago-his-estate-still-unsettled-heres-why/3344038002/) in [USA Today](https://usatoday.com/) on 21 April 2019 about Alfred Jackson, auction, Bremer Trust, Caribbean, Carver County, Celebration 2019, Comerica Bank & Trust, exhibition, fentanyl, Graceland, Graceland Holdings, Joel Weinshanker, John Nelson, Kevin Eide, Legacy Recordings, merchandise, museum, My Name Is Prince (exhibition), Norrine Nelson, Omarr Baker, Prince Anthology: 1995-2010 (album), Prince Estate, Prince: In Concert On The Big Screen, Sharon Nelson, The Prince Estate, Turks and Caicos, Tyka Nelson, University of Minnesota ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/2019/04/18/prince-died-3-years-ago-his-estate-still-unsettled-heres-why/3344038002/))
+ - [**"Prince died three years ago, his estate is still unsettled: Here's why"**](https://usatoday.com/story/life/2019/04/18/prince-died-3-years-ago-his-estate-still-unsettled-heres-why/3344038002/) in [USA Today](https://usatoday.com/) on 21 April 2019 about Alfred Jackson, auction, Bremer Trust, Caribbean, Carver County, Celebration 2019, Comerica, Comerica Bank & Trust, exhibition, fentanyl, Graceland, Graceland Holdings, Joel Weinshanker, John Nelson, Kevin Eide, Legacy Recordings, merchandise, museum, My Name Is Prince (exhibition), Norrine Nelson, Omarr Baker, Prince Anthology: 1995-2010 (album), Prince Estate, Prince: In Concert On The Big Screen, probate court, Sharon Nelson, The Prince Estate, Turks and Caicos, Tyka Nelson, University of Minnesota ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/2019/04/18/prince-died-3-years-ago-his-estate-still-unsettled-heres-why/3344038002/))
 
 ----
 
- - [**"As Prince heirs stew, bankers and lawyers cash in on estate"**](https://apnews.com/d9847863113d4ff8bd70850dd6a6cd2e) by Steve Karnowski (Associated Press) in [Associated Press News](https://apnews.com/) on 18 May 2018 about Alfred Jackson, Carver County, John L. Nelson, John R. Nelson, Kevin Eide, Norrine Nelson, Omarr Baker, Sharon Nelson, Spotify, Tidal, Troy Carter, Tyka Nelson, Universal Music Group ([mirror](https://web.archive.org/web/*/https://apnews.com/d9847863113d4ff8bd70850dd6a6cd2e))
+ - [**"As Prince heirs stew, bankers and lawyers cash in on estate"**](https://apnews.com/d9847863113d4ff8bd70850dd6a6cd2e) by Steve Karnowski (Associated Press) in [Associated Press News](https://apnews.com/) on 18 May 2018 about Alfred Jackson, Carver County, Comerica, John L. Nelson, John R. Nelson, Kevin Eide, Norrine Nelson, Omarr Baker, Sharon Nelson, Spotify, Tidal, Troy Carter, Tyka Nelson, Universal Music Group ([mirror](https://web.archive.org/web/*/https://apnews.com/d9847863113d4ff8bd70850dd6a6cd2e))
 
 ----
 
@@ -72,7 +84,7 @@
 
 ----
 
- - [**"Prince heirs claim excessive lawyer’s fees will leave ‘little … to pass on’"**](https://apnews.com/e000dd12d3744e9aa2de9951b129a0a0) in [Associated Press News](https://apnews.com/) on 3 March 2018 about Alfred Jackson, fentanyl, John Nelson, Kevin Eide, Omarr Baker, Tyka Nelson ([mirror](https://web.archive.org/web/*/https://apnews.com/e000dd12d3744e9aa2de9951b129a0a0))
+ - [**"Prince heirs claim excessive lawyer’s fees will leave ‘little … to pass on’"**](https://apnews.com/e000dd12d3744e9aa2de9951b129a0a0) in [Associated Press News](https://apnews.com/) on 3 March 2018 about Alfred Jackson, Comerica, fentanyl, John Nelson, Kevin Eide, Omarr Baker, Tyka Nelson ([mirror](https://web.archive.org/web/*/https://apnews.com/e000dd12d3744e9aa2de9951b129a0a0))
 
 ----
 
@@ -80,7 +92,7 @@
 
 ----
 
- - [**"APNewsBreak: Prince tapes moved to California; 2 heirs angry"**](https://apnews.com/7fc066b10aa546e2977a0a85fc8ecb3b) in [Associated Press News](https://apnews.com/) on 12 October 2017 about Alfred Jackson, Carver County, Comerica Bank & Trust, Iron Mountain, Iron Mountain Entertainment Services, John R. Nelson, Kevin Eide, museum, Norrine Nelson, Omarr Baker, Sharon Nelson, Tyka Nelson ([mirror](https://web.archive.org/web/*/https://apnews.com/7fc066b10aa546e2977a0a85fc8ecb3b))
+ - [**"APNewsBreak: Prince tapes moved to California; 2 heirs angry"**](https://apnews.com/7fc066b10aa546e2977a0a85fc8ecb3b) in [Associated Press News](https://apnews.com/) on 12 October 2017 about Alfred Jackson, Carver County, Comerica, Comerica Bank & Trust, Iron Mountain, Iron Mountain Entertainment Services, John R. Nelson, Kevin Eide, museum, Norrine Nelson, Omarr Baker, Sharon Nelson, Tyka Nelson ([mirror](https://web.archive.org/web/*/https://apnews.com/7fc066b10aa546e2977a0a85fc8ecb3b))
 
 ----
 
@@ -92,7 +104,7 @@
 
 ----
 
- - [**"It’s Official: Prince’s Estate Manager and Universal Music Group Move to Nullify Recorded-Music Deal"**](https://variety.com/2017/music/news/its-official-princes-estate-manager-and-universal-music-group-move-to-nullify-recorded-music-deal-1202436842/) by Jem Aswad in [Variety](https://variety.com/) on 19 May 2017 about Alfred Jackson, Charles Koppelman, Comerica Bank & Trust, contract, John R. Nelson, Kevin Eide, merchandise, Norrine Nelson, Omarr Baker, Sharon Nelson, Spotify, Troy Carter, Tyka Nelson, Universal Music Group, Van Jones, Warner Bros. Records ([mirror](https://web.archive.org/web/*/https://variety.com/2017/music/news/its-official-princes-estate-manager-and-universal-music-group-move-to-nullify-recorded-music-deal-1202436842/))
+ - [**"It’s Official: Prince’s Estate Manager and Universal Music Group Move to Nullify Recorded-Music Deal"**](https://variety.com/2017/music/news/its-official-princes-estate-manager-and-universal-music-group-move-to-nullify-recorded-music-deal-1202436842/) by Jem Aswad in [Variety](https://variety.com/) on 19 May 2017 about Alfred Jackson, Charles Koppelman, Comerica, Comerica Bank & Trust, contract, John R. Nelson, Kevin Eide, merchandise, Norrine Nelson, Omarr Baker, Sharon Nelson, Spotify, Troy Carter, Tyka Nelson, Universal Music Group, Van Jones, Warner Bros. Records ([mirror](https://web.archive.org/web/*/https://variety.com/2017/music/news/its-official-princes-estate-manager-and-universal-music-group-move-to-nullify-recorded-music-deal-1202436842/))
 
 ----
 
@@ -100,11 +112,11 @@
 
 ----
 
- - [**"Deals ensure cash keeps flowing to unsettled Prince estate"**](https://apnews.com/ea32a54490474eccad7364653ab698f8) in [Associated Press News](https://apnews.com/) on 16 April 2017 about 3rdEyeGirl, Alfred Jackson, Celebration 2017, Comerica Bank & Trust, Graceland, Joel Weinshanker, John R. Nelson, Kevin Eide, Liv Warfield, Morris Day, museum, New Power Generation, Norrine Nelson, Omarr Baker, Prince Estate, Sharon Nelson, Shelby J., Spotify, The Time, Tidal, Tyka Nelson, Universal Music Group, Van Jones ([mirror](https://web.archive.org/web/*/https://apnews.com/ea32a54490474eccad7364653ab698f8))
+ - [**"Deals ensure cash keeps flowing to unsettled Prince estate"**](https://apnews.com/ea32a54490474eccad7364653ab698f8) in [Associated Press News](https://apnews.com/) on 16 April 2017 about 3rdEyeGirl, Alfred Jackson, Celebration 2017, Comerica, Comerica Bank & Trust, Graceland, Joel Weinshanker, John R. Nelson, Kevin Eide, Liv Warfield, Morris Day, museum, New Power Generation, Norrine Nelson, Omarr Baker, Prince Estate, Sharon Nelson, Shelby J., Spotify, The Time, Tidal, Tyka Nelson, Universal Music Group, Van Jones ([mirror](https://web.archive.org/web/*/https://apnews.com/ea32a54490474eccad7364653ab698f8))
 
 ----
 
- - [**"Judge: Appeals holding up Prince estate determination"**](https://apnews.com/c26a8f91fcbc4e25b4138a17edc9c56e) in [Associated Press News](https://apnews.com/) on 12 January 2017 about Alfred Jackson, Bremer Trust, Carver County, contract, John Nelson, Kevin Eide, Michael Jackson, Omarr Baker, Prince Estate, Tyka Nelson, Van Jones ([mirror](https://web.archive.org/web/*/https://apnews.com/c26a8f91fcbc4e25b4138a17edc9c56e))
+ - [**"Judge: Appeals holding up Prince estate determination"**](https://apnews.com/c26a8f91fcbc4e25b4138a17edc9c56e) in [Associated Press News](https://apnews.com/) on 12 January 2017 about Alfred Jackson, Bremer Trust, Carver County, Comerica, contract, John Nelson, Kevin Eide, Michael Jackson, Omarr Baker, Prince Estate, Tyka Nelson, Van Jones ([mirror](https://web.archive.org/web/*/https://apnews.com/c26a8f91fcbc4e25b4138a17edc9c56e))
 
 ----
 
@@ -132,7 +144,7 @@
 
 ----
 
- - [**"Prince siblings stand to make millions but keep low profiles"**](https://apnews.com/e1c3f1ca7f2e4a2a9baa312560ea6379) in [Associated Press News](https://apnews.com/) on 3 May 2016 about Alfred Jackson, Duane Nelson, John L. Nelson, John R. Nelson, Norrine Nelson, Omarr Baker, Prince Estate, Sharon Nelson, The Prince Estate, Tyka Nelson, U Got the Look (song) ([mirror](https://web.archive.org/web/*/https://apnews.com/e1c3f1ca7f2e4a2a9baa312560ea6379))
+ - [**"Prince siblings stand to make millions but keep low profiles"**](https://apnews.com/e1c3f1ca7f2e4a2a9baa312560ea6379) in [Associated Press News](https://apnews.com/) on 3 May 2016 about Alfred Jackson, Duane Nelson, John L. Nelson, John R. Nelson, Norrine Nelson, Omarr Baker, Prince Estate, probate court, Sharon Nelson, The Prince Estate, Tyka Nelson, U Got the Look (song) ([mirror](https://web.archive.org/web/*/https://apnews.com/e1c3f1ca7f2e4a2a9baa312560ea6379))
 
 ----
 
@@ -140,7 +152,7 @@
 
 ----
 
- - [**"Prince siblings in probate court in 1st hearing on estate"**](https://apnews.com/881e8ee95c4745da831b027fa9d9c93b) in [Associated Press News](https://apnews.com/) on 2 May 2016 about Alfred Jackson, Bremer Trust, Carver County, John Nelson, Kevin Eide, Norrine Nelson, Omarr Baker, Sharon Nelson, Tyka Nelson, University of Minnesota ([mirror](https://web.archive.org/web/*/https://apnews.com/881e8ee95c4745da831b027fa9d9c93b))
+ - [**"Prince siblings in probate court in 1st hearing on estate"**](https://apnews.com/881e8ee95c4745da831b027fa9d9c93b) in [Associated Press News](https://apnews.com/) on 2 May 2016 about Alfred Jackson, Bremer Trust, Carver County, John Nelson, Kevin Eide, Norrine Nelson, Omarr Baker, probate court, Sharon Nelson, Tyka Nelson, University of Minnesota ([mirror](https://web.archive.org/web/*/https://apnews.com/881e8ee95c4745da831b027fa9d9c93b))
 
 ----
 

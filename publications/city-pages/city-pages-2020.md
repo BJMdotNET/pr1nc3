@@ -24,7 +24,7 @@
 
 ----
 
- - [**"Prince relatives agree to drop wrongful death lawsuits"**](http://www.citypages.com/music/prince-relatives-agree-to-drop-wrongful-death-lawsuits/567137941) in [City Pages](http://www.citypages.com/) on 20 January 2020 about Howard Kornfeld, Illinois (place), Kirk Johnson, Michael Schulenberg, oxycodone, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/http://www.citypages.com/music/prince-relatives-agree-to-drop-wrongful-death-lawsuits/567137941))
+ - [**"Prince relatives agree to drop wrongful death lawsuits"**](http://www.citypages.com/music/prince-relatives-agree-to-drop-wrongful-death-lawsuits/567137941) in [City Pages](http://www.citypages.com/) on 20 January 2020 about Howard Kornfeld, Illinois (place), Kirk Johnson, Michael Schulenberg, oxycodone, Primary Wave, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/http://www.citypages.com/music/prince-relatives-agree-to-drop-wrongful-death-lawsuits/567137941))
 
 ----
 

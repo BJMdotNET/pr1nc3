@@ -38,7 +38,7 @@
 
 ----
 
- - [**"Documents: Jay Z’s company wanted to manage Prince’s music"**](https://apnews.com/20b81c0084f9422c9022841d87c0c4d8) in [Associated Press News](https://apnews.com/) on 6 December 2016 about Bremer Trust, Carver County, Charles Koppelman, Tidal ([mirror](https://web.archive.org/web/*/https://apnews.com/20b81c0084f9422c9022841d87c0c4d8))
+ - [**"Documents: Jay Z’s company wanted to manage Prince’s music"**](https://apnews.com/20b81c0084f9422c9022841d87c0c4d8) in [Associated Press News](https://apnews.com/) on 6 December 2016 about Bremer Trust, Carver County, Charles Koppelman, probate court, Tidal ([mirror](https://web.archive.org/web/*/https://apnews.com/20b81c0084f9422c9022841d87c0c4d8))
 
 ----
 
@@ -110,7 +110,7 @@
 
 ## October 2016 (24)
 
- - [**"Judge rejects claim to Prince estate from woman and girl"**](https://apnews.com/26dcb05f3dc549dd8d6f415e3b6f2602) in [Associated Press News](https://apnews.com/) on 27 October 2016 about Brianna Nelson, Carver County, Duane Nelson, fentanyl, John L. Nelson, Kevin Eide, Prince Estate, Victoria Nelson ([mirror](https://web.archive.org/web/*/https://apnews.com/26dcb05f3dc549dd8d6f415e3b6f2602))
+ - [**"Judge rejects claim to Prince estate from woman and girl"**](https://apnews.com/26dcb05f3dc549dd8d6f415e3b6f2602) in [Associated Press News](https://apnews.com/) on 27 October 2016 about Brianna Nelson, Carver County, Duane Nelson, fentanyl, fentanyl overdose, John L. Nelson, Kevin Eide, Prince Estate, Victoria Nelson ([mirror](https://web.archive.org/web/*/https://apnews.com/26dcb05f3dc549dd8d6f415e3b6f2602))
 
 ----
 
@@ -126,7 +126,7 @@
 
 ----
 
- - [**"Prince’s siblings: Purported niece, grandniece are not heirs"**](https://apnews.com/52db4bd7107b4c8a9fedf31612ff26ab) in [Associated Press News](https://apnews.com/) on 18 October 2016 about Brianna Nelson, Carver County, fentanyl, Kevin Eide, Tyka Nelson, Victoria Nelson ([mirror](https://web.archive.org/web/*/https://apnews.com/52db4bd7107b4c8a9fedf31612ff26ab))
+ - [**"Prince’s siblings: Purported niece, grandniece are not heirs"**](https://apnews.com/52db4bd7107b4c8a9fedf31612ff26ab) in [Associated Press News](https://apnews.com/) on 18 October 2016 about Brianna Nelson, Carver County, fentanyl, fentanyl overdose, Kevin Eide, Tyka Nelson, Victoria Nelson ([mirror](https://web.archive.org/web/*/https://apnews.com/52db4bd7107b4c8a9fedf31612ff26ab))
 
 ----
 
@@ -194,7 +194,7 @@
 
 ----
 
- - [**"Could drug checking have prevented Prince’s overdose death?"**](https://apnews.com/df36569d11294d918572d3edf5428cbe) in [Associated Press News](https://apnews.com/) on 4 October 2016 about fentanyl, Illinois (place), oxycodone, Vicodin ([mirror](https://web.archive.org/web/*/https://apnews.com/df36569d11294d918572d3edf5428cbe))
+ - [**"Could drug checking have prevented Prince’s overdose death?"**](https://apnews.com/df36569d11294d918572d3edf5428cbe) in [Associated Press News](https://apnews.com/) on 4 October 2016 about fentanyl, fentanyl overdose, Illinois (place), oxycodone, Vicodin ([mirror](https://web.archive.org/web/*/https://apnews.com/df36569d11294d918572d3edf5428cbe))
 
 ----
 
@@ -310,19 +310,19 @@
 
 ----
 
- - [**"Counterfeit pain pills likely came to Prince illegally"**](https://apnews.com/f617a02222324bf3a06a0c7cbe15e3fd) in [Associated Press News](https://apnews.com/) on 23 August 2016 about fentanyl, piracy, Vicodin ([mirror](https://web.archive.org/web/*/https://apnews.com/f617a02222324bf3a06a0c7cbe15e3fd))
+ - [**"Counterfeit pain pills likely came to Prince illegally"**](https://apnews.com/f617a02222324bf3a06a0c7cbe15e3fd) in [Associated Press News](https://apnews.com/) on 23 August 2016 about fentanyl, fentanyl overdose, piracy, Vicodin ([mirror](https://web.archive.org/web/*/https://apnews.com/f617a02222324bf3a06a0c7cbe15e3fd))
 
 ----
 
- - [**"Minnesota Wild change goal song to Prince’s ‘Let’s Go Crazy’"**](https://apnews.com/4a1bac6894bb4b98a81a70b6b228dd4b) in [Associated Press News](https://apnews.com/) on 23 August 2016 about fentanyl, Let’s Go Crazy (song), Minnesota Wild, Xcel Energy Center (place) ([mirror](https://web.archive.org/web/*/https://apnews.com/4a1bac6894bb4b98a81a70b6b228dd4b))
+ - [**"Minnesota Wild change goal song to Prince’s ‘Let’s Go Crazy’"**](https://apnews.com/4a1bac6894bb4b98a81a70b6b228dd4b) in [Associated Press News](https://apnews.com/) on 23 August 2016 about fentanyl, fentanyl overdose, Let’s Go Crazy (song), Minnesota Wild, Xcel Energy Center (place) ([mirror](https://web.archive.org/web/*/https://apnews.com/4a1bac6894bb4b98a81a70b6b228dd4b))
 
 ----
 
- - [**"Correction: Prince Death story"**](https://apnews.com/6ea0a330a6fa442990b24ec0c5153b27) in [Associated Press News](https://apnews.com/) on 22 August 2016 about Amy Conners, Atlanta (place), fentanyl, Illinois (place), Michael Todd Schulenberg, Moline, Illinois (place), oxycodone, U-47700 ([mirror](https://web.archive.org/web/*/https://apnews.com/6ea0a330a6fa442990b24ec0c5153b27))
+ - [**"Correction: Prince Death story"**](https://apnews.com/6ea0a330a6fa442990b24ec0c5153b27) in [Associated Press News](https://apnews.com/) on 22 August 2016 about Amy Conners, Atlanta (place), fentanyl, fentanyl overdose, Illinois (place), Michael Todd Schulenberg, Moline, Illinois (place), oxycodone, U-47700 ([mirror](https://web.archive.org/web/*/https://apnews.com/6ea0a330a6fa442990b24ec0c5153b27))
 
 ----
 
- - [**"Official: Pills found at Prince’s estate contained fentanyl"**](https://apnews.com/f2cb614f0e79404692d5582509874869) in [Associated Press News](https://apnews.com/) on 22 August 2016 about Atlanta (place), fentanyl, Illinois (place), Michael Todd Schulenberg, Moline, Illinois (place), oxycodone ([mirror](https://web.archive.org/web/*/https://apnews.com/f2cb614f0e79404692d5582509874869))
+ - [**"Official: Pills found at Prince’s estate contained fentanyl"**](https://apnews.com/f2cb614f0e79404692d5582509874869) in [Associated Press News](https://apnews.com/) on 22 August 2016 about Atlanta (place), fentanyl, fentanyl overdose, Illinois (place), Michael Todd Schulenberg, Moline, Illinois (place), oxycodone ([mirror](https://web.archive.org/web/*/https://apnews.com/f2cb614f0e79404692d5582509874869))
 
 ----
 
@@ -694,11 +694,11 @@
 
 ----
 
- - [**"A Prince wish, Paisley Park eyed for museum like Graceland"**](https://apnews.com/e126f8cb38574b21b3cf0f5dd0843873) in [Associated Press News](https://apnews.com/) on 10 June 2016 about Bremer Trust, Carver County, exhibit, exhibition, fentanyl, Graceland, Jeremiah Freed, Michael Jackson, motorcycle, museum ([mirror](https://web.archive.org/web/*/https://apnews.com/e126f8cb38574b21b3cf0f5dd0843873))
+ - [**"A Prince wish, Paisley Park eyed for museum like Graceland"**](https://apnews.com/e126f8cb38574b21b3cf0f5dd0843873) in [Associated Press News](https://apnews.com/) on 10 June 2016 about Bremer Trust, Carver County, exhibit, exhibition, fentanyl, fentanyl overdose, Graceland, Jeremiah Freed, Michael Jackson, motorcycle, museum ([mirror](https://web.archive.org/web/*/https://apnews.com/e126f8cb38574b21b3cf0f5dd0843873))
 
 ----
 
- - [**"A Prince wish, Paisley Park eyed for museum like Graceland"**](http://www.startribune.com/a-prince-wish-paisley-park-eyed-for-museum-like-graceland/382529341/) by Steve Karnowski (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 June 2016 about Bremer Trust, Carver County, exhibit, exhibition, fentanyl, Graceland, Jeremiah Freed, Michael Jackson, motorcycle, museum ([mirror](https://web.archive.org/web/*/http://www.startribune.com/a-prince-wish-paisley-park-eyed-for-museum-like-graceland/382529341/))
+ - [**"A Prince wish, Paisley Park eyed for museum like Graceland"**](http://www.startribune.com/a-prince-wish-paisley-park-eyed-for-museum-like-graceland/382529341/) by Steve Karnowski (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 June 2016 about Bremer Trust, Carver County, exhibit, exhibition, fentanyl, fentanyl overdose, Graceland, Jeremiah Freed, Michael Jackson, motorcycle, museum ([mirror](https://web.archive.org/web/*/http://www.startribune.com/a-prince-wish-paisley-park-eyed-for-museum-like-graceland/382529341/))
 
 ----
 
@@ -754,7 +754,7 @@
 
 ----
 
- - [**"News Guide: Prince died of overdose, but questions linger"**](https://apnews.com/e31c398f2bc142d2ae9a05023cebbe7d) in [Associated Press News](https://apnews.com/) on 4 June 2016 about Amy Conners, Andrew Kornfeld, Carver County, fentanyl, Howard Kornfeld, Kirk Johnson, Michael Todd Schulenberg, Tyka Nelson, vault ([mirror](https://web.archive.org/web/*/https://apnews.com/e31c398f2bc142d2ae9a05023cebbe7d))
+ - [**"News Guide: Prince died of overdose, but questions linger"**](https://apnews.com/e31c398f2bc142d2ae9a05023cebbe7d) in [Associated Press News](https://apnews.com/) on 4 June 2016 about Amy Conners, Andrew Kornfeld, Carver County, fentanyl, fentanyl overdose, Howard Kornfeld, Kirk Johnson, Michael Todd Schulenberg, probate court, Tyka Nelson, vault ([mirror](https://web.archive.org/web/*/https://apnews.com/e31c398f2bc142d2ae9a05023cebbe7d))
 
 ----
 
@@ -1064,7 +1064,7 @@
 
 ----
 
- - [**"Prince's death: The latest"**](https://edition.cnn.com/2016/05/04/entertainment/prince-death-latest/index.html) in [CNN International](https://edition.cnn.com/) on 7 May 2016 about Carver County ([mirror](https://web.archive.org/web/*/https://edition.cnn.com/2016/05/04/entertainment/prince-death-latest/index.html))
+ - [**"Prince's death: The latest"**](https://edition.cnn.com/2016/05/04/entertainment/prince-death-latest/index.html) in [CNN International](https://edition.cnn.com/) on 7 May 2016 about Carver County, probate court ([mirror](https://web.archive.org/web/*/https://edition.cnn.com/2016/05/04/entertainment/prince-death-latest/index.html))
 
 ----
 
@@ -1136,7 +1136,7 @@
 
 ----
 
- - [**"Prince siblings stand to make millions but keep low profiles"**](https://apnews.com/e1c3f1ca7f2e4a2a9baa312560ea6379) in [Associated Press News](https://apnews.com/) on 3 May 2016 about Alfred Jackson, Duane Nelson, John L. Nelson, John R. Nelson, Norrine Nelson, Omarr Baker, Prince Estate, Sharon Nelson, The Prince Estate, Tyka Nelson, U Got the Look (song) ([mirror](https://web.archive.org/web/*/https://apnews.com/e1c3f1ca7f2e4a2a9baa312560ea6379))
+ - [**"Prince siblings stand to make millions but keep low profiles"**](https://apnews.com/e1c3f1ca7f2e4a2a9baa312560ea6379) in [Associated Press News](https://apnews.com/) on 3 May 2016 about Alfred Jackson, Duane Nelson, John L. Nelson, John R. Nelson, Norrine Nelson, Omarr Baker, Prince Estate, probate court, Sharon Nelson, The Prince Estate, Tyka Nelson, U Got the Look (song) ([mirror](https://web.archive.org/web/*/https://apnews.com/e1c3f1ca7f2e4a2a9baa312560ea6379))
 
 ----
 
@@ -1156,7 +1156,7 @@
 
 ----
 
- - [**"Prince siblings in probate court in 1st hearing on estate"**](https://apnews.com/881e8ee95c4745da831b027fa9d9c93b) in [Associated Press News](https://apnews.com/) on 2 May 2016 about Alfred Jackson, Bremer Trust, Carver County, John Nelson, Kevin Eide, Norrine Nelson, Omarr Baker, Sharon Nelson, Tyka Nelson, University of Minnesota ([mirror](https://web.archive.org/web/*/https://apnews.com/881e8ee95c4745da831b027fa9d9c93b))
+ - [**"Prince siblings in probate court in 1st hearing on estate"**](https://apnews.com/881e8ee95c4745da831b027fa9d9c93b) in [Associated Press News](https://apnews.com/) on 2 May 2016 about Alfred Jackson, Bremer Trust, Carver County, John Nelson, Kevin Eide, Norrine Nelson, Omarr Baker, probate court, Sharon Nelson, Tyka Nelson, University of Minnesota ([mirror](https://web.archive.org/web/*/https://apnews.com/881e8ee95c4745da831b027fa9d9c93b))
 
 ----
 
@@ -1186,7 +1186,7 @@
 
 ----
 
- - [**"Fans’ Holy Grail: unreleased songs in Prince’s vault"**](https://apnews.com/73b9ba74daa4423bb36ac62d4655a71b) in [Associated Press News](https://apnews.com/) on 29 April 2016 about Bangles, Bremer Trust, Michael Jackson, Miles Davis, Spotify, Tyka Nelson, vault ([mirror](https://web.archive.org/web/*/https://apnews.com/73b9ba74daa4423bb36ac62d4655a71b))
+ - [**"Fans’ Holy Grail: unreleased songs in Prince’s vault"**](https://apnews.com/73b9ba74daa4423bb36ac62d4655a71b) in [Associated Press News](https://apnews.com/) on 29 April 2016 about Bangles, Bremer Trust, Michael Jackson, Miles Davis, probate court, Spotify, Tyka Nelson, vault ([mirror](https://web.archive.org/web/*/https://apnews.com/73b9ba74daa4423bb36ac62d4655a71b))
 
 ----
 
@@ -1278,7 +1278,7 @@
 
 ----
 
- - [**"Prince’s sister says musician had no known will"**](https://apnews.com/b7bcc90e42904f679c07158bf5e851a3) in [Associated Press News](https://apnews.com/) on 27 April 2016 about Bremer Trust, Carver County, First Avenue (place), Michael Jackson, Tyka Nelson, University of Minnesota ([mirror](https://web.archive.org/web/*/https://apnews.com/b7bcc90e42904f679c07158bf5e851a3))
+ - [**"Prince’s sister says musician had no known will"**](https://apnews.com/b7bcc90e42904f679c07158bf5e851a3) in [Associated Press News](https://apnews.com/) on 27 April 2016 about Bremer Trust, Carver County, First Avenue (place), Michael Jackson, probate court, Tyka Nelson, University of Minnesota ([mirror](https://web.archive.org/web/*/https://apnews.com/b7bcc90e42904f679c07158bf5e851a3))
 
 ----
 
@@ -1302,7 +1302,7 @@
 
 ----
 
- - [**"Prince's estate: 6 key questions answered"**](https://usatoday.com/story/life/music/2016/04/25/prince-dies-estate-six-key-questions/83504318/) in [USA Today](https://usatoday.com/) on 26 April 2016 about contract, IRS, Michael Jackson, Owen Husney, Tyka Nelson, vault ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2016/04/25/prince-dies-estate-six-key-questions/83504318/))
+ - [**"Prince's estate: 6 key questions answered"**](https://usatoday.com/story/life/music/2016/04/25/prince-dies-estate-six-key-questions/83504318/) in [USA Today](https://usatoday.com/) on 26 April 2016 about contract, IRS, Michael Jackson, Owen Husney, probate court, Tyka Nelson, vault ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2016/04/25/prince-dies-estate-six-key-questions/83504318/))
 
 ----
 

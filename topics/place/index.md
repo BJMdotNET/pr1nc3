@@ -29,7 +29,7 @@
   * [Moon Sound Studio (place)](./place/moon-sound-studio/) (3)
   * [MSP (place)](./place/msp/) (3)
   * [North Memorial Medical Center (place)](./place/north-memorial-medical-center/) (4)
-  * [Paisley Park Studios (place)](./place/paisley-park-studios/) (6)
+  * [Paisley Park Studios (place)](./place/paisley-park-studios/) (7)
   * [Paradiso (place)](./place/paradiso/) (1)
   * [Sam’s (place)](./place/sam-s/) (3)
   * [Sausalito (place)](./place/sausalito/) (3)
@@ -40,7 +40,7 @@
   * [Uncle Sam’s (place)](./place/uncle-sam-s/) (2)
   * [Weisman Art Museum (place)](./place/weisman-art-museum/) (3)
   * [White House (place)](./place/white-house/) (9)
-  * [Xcel Energy Center (place)](./place/xcel-energy-center/) (17)
+  * [Xcel Energy Center (place)](./place/xcel-energy-center/) (18)
 
 ----
 

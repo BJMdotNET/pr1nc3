@@ -1,10 +1,22 @@
 # Prince Estate
 
+ - [**"Prince estate fight gets even thornier with heir's death and will"**](https://www.bizjournals.com/twincities/news/2020/02/23/prince-estate-fight-gets-even-thornier-with-heirs.html) in [Minneapolis / St. Paul Business Journal](https://www.bizjournals.com/twincities/) on 23 February 2020 about Alfred Jackson, hologram, Michael Jackson, museum, Paisley Park Studios (place), Primary Wave, Prince Estate, Raffles Van Exel, Tyka Nelson, Whitney Houston ([mirror](https://web.archive.org/web/*/https://www.bizjournals.com/twincities/news/2020/02/23/prince-estate-fight-gets-even-thornier-with-heirs.html))
+
+----
+
+ - [**"Death of Prince heir complicates estate settlement even more -- Nearly a third of Prince's estate could go to parties not related to him after two siblings signed agreements with Primary Wave."**](http://www.startribune.com/untimely-death-of-prince-heir-complicates-estate-settlement-even-more/568089142/) by Jon Bream, Mike Hughlett in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 February 2020 about Alfred Jackson, Carver County, Comerica, Dennis Patrick, fentanyl, fentanyl overdose, Fredrikson & Byron, hologram, John Nelson, L. Londell McMillan, Lawrence Mestel, Leonardo Starke, Michael Jackson, Mitchell Hamline Law Review, O.J. Simpson, Primary Wave, Prince Estate, probate court, Raffles Van Exel, Shawn Jackson, The Prince Estate, Troy Carter, Tyka Nelson, Whitney Houston, Xcel Energy Center (place), YouTube ([mirror](https://web.archive.org/web/*/http://www.startribune.com/untimely-death-of-prince-heir-complicates-estate-settlement-even-more/568089142/))
+
+----
+
  - [**"Get Ready For More Prince Rarities: Estate Will Reissue 'The Rainbow Children' and 'One Nite Alone' Albums"**](https://www.billboard.com/articles/columns/rock/8551497/prince-estate-reissuing-live-early-2000s-studio-album) in [Billboard](https://www.billboard.com/) on 20 February 2020 about Candy Dulfer, Eric Leeds, George Clinton, Joni Mitchell, Legacy Recordings, Maceo Parker, Nothing Compares 2 U (song), NPG Records, One Nite Alone (album), Prince Estate, Raspberry Beret (song), Sheila E., The Prince Estate, The Rainbow Children (album), Up All Nite with Prince: The One Nite Alone Collection (album) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/columns/rock/8551497/prince-estate-reissuing-live-early-2000s-studio-album))
 
 ----
 
  - [**"Prince Estate’s Next Wave of Reissues: ‘Rainbow Children,’ ‘One Nite Alone …’ -- Prince’s 2001 and 2002 output, including live albums and concert film, to be rereleased April 17th"**](https://www.rollingstone.com/music/music-news/prince-rainbow-children-one-nite-alone-reissues-955535/) in [Rolling Stone](https://www.rollingstone.com/) on 20 February 2020 about Chaos and Disorder (album), Emancipation (album), Legacy Recordings, Live at The Aladdin Las Vegas (DVD), NPG Records, One Nite Alone (album), Pop Life (song), Prince Estate, Prince Live at The Aladdin Las Vegas (DVD), The Prince Estate, The Rainbow Children (album), The Versace Experience (Prelude 2 Gold) (album), Up All Nite with Prince: The One Nite Alone Collection (album) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-news/prince-rainbow-children-one-nite-alone-reissues-955535/))
+
+----
+
+ - [**"Prince's Estate & Music Now Worth $200 Million"**](https://theblast.com/c/prince-music-estate-net-worth-200-million-battle-brothers-money-alfred-jackson) in [theblast.com](https://theblast.com/) on 20 February 2020 about Alfred Jackson, Prince Estate, Shawn Jackson ([mirror](https://web.archive.org/web/*/https://theblast.com/c/prince-music-estate-net-worth-200-million-battle-brothers-money-alfred-jackson))
 
 ----
 
@@ -16,11 +28,11 @@
 
 ----
 
- - [**"Prince Wrongful Death Case Dismissed; Estate Case Continues"**](https://www.billboard.com/articles/business/legal-and-management/8548465/prince-wrongful-death-case-dismissed-estate-case) in [Billboard](https://www.billboard.com/) on 20 January 2020 about Alfred Jackson, fentanyl, Howard Kornfeld, Illinois (place), John Nelson, Kirk Johnson, Michael Jackson, Michael Schulenberg, oxycodone, Prince Estate, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/business/legal-and-management/8548465/prince-wrongful-death-case-dismissed-estate-case))
+ - [**"Prince Wrongful Death Case Dismissed; Estate Case Continues"**](https://www.billboard.com/articles/business/legal-and-management/8548465/prince-wrongful-death-case-dismissed-estate-case) in [Billboard](https://www.billboard.com/) on 20 January 2020 about Alfred Jackson, fentanyl, fentanyl overdose, Howard Kornfeld, Illinois (place), John Nelson, Kirk Johnson, Michael Jackson, Michael Schulenberg, oxycodone, Primary Wave, Prince Estate, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/business/legal-and-management/8548465/prince-wrongful-death-case-dismissed-estate-case))
 
 ----
 
- - [**"Prince's estate quietly dismisses wrongful-death claims -- Legal settlements likely in wrongful-death suits. "**](http://www.startribune.com/prince-wrongful-death-claims-dismissed/567141982/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 January 2020 about Atlanta (place), Carver County, Carver County District Court, Cecilie M. Loidolt, fentanyl, Illinois (place), John Goetz, Kirk Johnson, Michael Schulenberg, North Memorial Health Care, Paul C. Peterson, Percocet, Prince Estate, Recovery Without Walls, Rodger Hagen, The Prince Estate, Trinity Medical Center (place), Walgreens ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-wrongful-death-claims-dismissed/567141982/))
+ - [**"Prince's estate quietly dismisses wrongful-death claims -- Legal settlements likely in wrongful-death suits. "**](http://www.startribune.com/prince-wrongful-death-claims-dismissed/567141982/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 January 2020 about Atlanta (place), Carver County, Carver County District Court, Cecilie M. Loidolt, fentanyl, Illinois (place), John Goetz, Kirk Johnson, Michael Schulenberg, North Memorial Health Care, Paul C. Peterson, Percocet, Prince Estate, probate court, Recovery Without Walls, Rodger Hagen, The Prince Estate, Trinity Medical Center (place), Walgreens ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-wrongful-death-claims-dismissed/567141982/))
 
 ----
 
@@ -108,7 +120,7 @@
 
 ----
 
- - [**"Prince estate slams Trump for playing 'Purple Rain' at rally -- Donald Trump's re-election team played Prince's 'Purple Rain' at a campaign event, despite Prince's estate saying a year ago that 'it will never give permission to President Trump to use Prince's songs'"**](https://www.rappler.com/entertainment/news/242373-prince-estate-slams-trump-rally) in [Rappler](https://www.rappler.com/) on 12 October 2019 about Donald Trump, Prince Estate, Purple Rain (song), The Prince Estate, Trump ([mirror](https://web.archive.org/web/*/https://www.rappler.com/entertainment/news/242373-prince-estate-slams-trump-rally))
+ - [**"Prince estate slams Trump for playing 'Purple Rain' at rally -- Donald Trump's re-election team played Prince's 'Purple Rain' at a campaign event, despite Prince's estate saying a year ago that 'it will never give permission to President Trump to use Prince's songs'"**](https://www.rappler.com/entertainment/news/242373-prince-estate-slams-trump-rally) in [Rappler](https://www.rappler.com/) on 12 October 2019 about Donald Trump, fentanyl overdose, Prince Estate, Purple Rain (song), The Prince Estate, Trump ([mirror](https://web.archive.org/web/*/https://www.rappler.com/entertainment/news/242373-prince-estate-slams-trump-rally))
 
 ----
 
@@ -208,11 +220,11 @@
 
 ----
 
- - [**"All shook up: Graceland to cede Paisley Park management to Prince estate"**](https://blog.thecurrent.org/2019/08/all-shook-up-graceland-to-cede-paisley-park-management-to-prince-estate/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 27 August 2019 about Celebration, Graceland, Graceland Holdings, Joel Weinshanker, Jon Bream, Kirk Johnson, museum, Nooky Jones, Prince Estate, Sharon Nelson ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2019/08/all-shook-up-graceland-to-cede-paisley-park-management-to-prince-estate/))
+ - [**"All shook up: Graceland to cede Paisley Park management to Prince estate"**](https://blog.thecurrent.org/2019/08/all-shook-up-graceland-to-cede-paisley-park-management-to-prince-estate/) in [The Current - Local Current Blog](https://blog.thecurrent.org/) on 27 August 2019 about Celebration, Comerica, Graceland, Graceland Holdings, Joel Weinshanker, Jon Bream, Kirk Johnson, museum, Nooky Jones, Prince Estate, Sharon Nelson ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2019/08/all-shook-up-graceland-to-cede-paisley-park-management-to-prince-estate/))
 
 ----
 
- - [**"Prince Estate Taking Over Management of Paisley Park From Graceland Holdings"**](https://www.billboard.com/articles/business/8528477/prince-estate-paisley-park-management-graceland) in [Billboard](https://www.billboard.com/) on 27 August 2019 about contract, Graceland, Graceland Holdings, museum, Prince Estate, Sharon Nelson ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/business/8528477/prince-estate-paisley-park-management-graceland))
+ - [**"Prince Estate Taking Over Management of Paisley Park From Graceland Holdings"**](https://www.billboard.com/articles/business/8528477/prince-estate-paisley-park-management-graceland) in [Billboard](https://www.billboard.com/) on 27 August 2019 about Comerica, contract, Graceland, Graceland Holdings, museum, Prince Estate, Sharon Nelson ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/business/8528477/prince-estate-paisley-park-management-graceland))
 
 ----
 
@@ -248,7 +260,7 @@
 
 ----
 
- - [**"Prince’s Unearthed ‘Originals’: Collaborators Look Back on the Hits He Passed Along -- As demos of future classics like “Manic Monday” and Nothing Compares 2 U” finally see official release, Apollonia, the Bangles’ Susanna Hoffs, and others recall the artist’s “otherworldly” songwriting talents"**](https://www.rollingstone.com/music/music-features/prince-originals-interview-842940/) by Kory Grow in [Rolling Stone](https://www.rollingstone.com/) on 24 June 2019 about Apollonia 6, Apollonia Kotero, Bangles, contract, George Clinton, Jill Jones, Jungle Love (song), Kenny Rogers, Manic Monday (song), Martika, Mazarati, Nasty Girl (song), Nothing Compares 2 U (song), Originals (album), Peggy McCreary, Prince Estate, Sex Shooter (song), Sheena Easton, Sheila E., Sugar Walls (song), Sunset Sound (place), Susan Rogers, Susanna Hoffs, Susannah Melvoin, The Family, The Prince Estate, The Time, Troy Carter, Vanity 6, vault, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/prince-originals-interview-842940/))
+ - [**"Prince’s Unearthed ‘Originals’: Collaborators Look Back on the Hits He Passed Along -- As demos of future classics like “Manic Monday” and Nothing Compares 2 U” finally see official release, Apollonia, the Bangles’ Susanna Hoffs, and others recall the artist’s “otherworldly” songwriting talents"**](https://www.rollingstone.com/music/music-features/prince-originals-interview-842940/) by Kory Grow in [Rolling Stone](https://www.rollingstone.com/) on 24 June 2019 about Apollonia 6, Apollonia Kotero, Bangles, contract, fentanyl overdose, George Clinton, Jill Jones, Jungle Love (song), Kenny Rogers, Manic Monday (song), Martika, Mazarati, Nasty Girl (song), Nothing Compares 2 U (song), Originals (album), Peggy McCreary, Prince Estate, Sex Shooter (song), Sheena Easton, Sheila E., Sugar Walls (song), Sunset Sound (place), Susan Rogers, Susanna Hoffs, Susannah Melvoin, The Family, The Prince Estate, The Time, Troy Carter, Vanity 6, vault, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/prince-originals-interview-842940/))
 
 ----
 
@@ -284,7 +296,7 @@
 
 ----
 
- - [**"Prince died three years ago, his estate is still unsettled: Here's why"**](https://usatoday.com/story/life/2019/04/18/prince-died-3-years-ago-his-estate-still-unsettled-heres-why/3344038002/) in [USA Today](https://usatoday.com/) on 21 April 2019 about Alfred Jackson, auction, Bremer Trust, Caribbean, Carver County, Celebration 2019, Comerica Bank & Trust, exhibition, fentanyl, Graceland, Graceland Holdings, Joel Weinshanker, John Nelson, Kevin Eide, Legacy Recordings, merchandise, museum, My Name Is Prince (exhibition), Norrine Nelson, Omarr Baker, Prince Anthology: 1995-2010 (album), Prince Estate, Prince: In Concert On The Big Screen, Sharon Nelson, The Prince Estate, Turks and Caicos, Tyka Nelson, University of Minnesota ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/2019/04/18/prince-died-3-years-ago-his-estate-still-unsettled-heres-why/3344038002/))
+ - [**"Prince died three years ago, his estate is still unsettled: Here's why"**](https://usatoday.com/story/life/2019/04/18/prince-died-3-years-ago-his-estate-still-unsettled-heres-why/3344038002/) in [USA Today](https://usatoday.com/) on 21 April 2019 about Alfred Jackson, auction, Bremer Trust, Caribbean, Carver County, Celebration 2019, Comerica, Comerica Bank & Trust, exhibition, fentanyl, Graceland, Graceland Holdings, Joel Weinshanker, John Nelson, Kevin Eide, Legacy Recordings, merchandise, museum, My Name Is Prince (exhibition), Norrine Nelson, Omarr Baker, Prince Anthology: 1995-2010 (album), Prince Estate, Prince: In Concert On The Big Screen, probate court, Sharon Nelson, The Prince Estate, Turks and Caicos, Tyka Nelson, University of Minnesota ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/2019/04/18/prince-died-3-years-ago-his-estate-still-unsettled-heres-why/3344038002/))
 
 ----
 
@@ -308,7 +320,7 @@
 
 ----
 
- - [**"Prince estate goes after Cloud guitar designer -- Sooner or later, we all hear from Prince’s lawyers."**](http://www.citypages.com/music/prince-estate-goes-after-cloud-guitar-designer/502027422) in [City Pages](http://www.citypages.com/) on 6 December 2018 about André Cymone, Cloud guitar, Comerica Bank & Trust, Dave Rusan, Prince Estate, Smithsonian (place), trademark ([mirror](https://web.archive.org/web/*/http://www.citypages.com/music/prince-estate-goes-after-cloud-guitar-designer/502027422))
+ - [**"Prince estate goes after Cloud guitar designer -- Sooner or later, we all hear from Prince’s lawyers."**](http://www.citypages.com/music/prince-estate-goes-after-cloud-guitar-designer/502027422) in [City Pages](http://www.citypages.com/) on 6 December 2018 about André Cymone, Cloud guitar, Comerica, Comerica Bank & Trust, Dave Rusan, Prince Estate, Smithsonian (place), trademark ([mirror](https://web.archive.org/web/*/http://www.citypages.com/music/prince-estate-goes-after-cloud-guitar-designer/502027422))
 
 ----
 
@@ -344,7 +356,7 @@
 
 ----
 
- - [**"Prince estate to Trump: Stop using music at rallies"**](https://apnews.com/af0a5a4fc34d48ffb9f29da4c5ef9771) by The Associated Press in [Associated Press News](https://apnews.com/) on 12 October 2018 about Donald Trump, Omarr Baker, Prince Estate, Trump, White House (place) ([mirror](https://web.archive.org/web/*/https://apnews.com/af0a5a4fc34d48ffb9f29da4c5ef9771))
+ - [**"Prince estate to Trump: Stop using music at rallies"**](https://apnews.com/af0a5a4fc34d48ffb9f29da4c5ef9771) by The Associated Press in [Associated Press News](https://apnews.com/) on 12 October 2018 about Donald Trump, fentanyl overdose, Omarr Baker, Prince Estate, Trump, White House (place) ([mirror](https://web.archive.org/web/*/https://apnews.com/af0a5a4fc34d48ffb9f29da4c5ef9771))
 
 ----
 
@@ -376,11 +388,11 @@
 
 ----
 
- - [**"The Prince Estate’s Big Plans: Inside the Upcoming Purple Reign -- The late singer’s estate is currently exploring licensing, future releases and even a hotel – all while trying to consider what Prince would have wanted"**](https://www.rollingstone.com/music/music-features/prince-estate-big-plans-upcoming-purple-reign-698529/) in [Rolling Stone](https://www.rollingstone.com/) on 13 July 2018 about Bravado, Bremer Trust, Carver County, Charles Koppelman, First Avenue (place), Graceland, John Nelson, Joni Mitchell, Mayte, Mayte Garcia, merchandise, Michael Howe, Minnesota Twins, museum, Nothing Compares 2 U (song), Piano and a Microphone 1983 (album), Prince Estate, Questlove, Sharon Nelson, Spotify, Super Bowl, Susan Rogers, The Prince Estate, Troy Carter, Tyka Nelson, Warner Bros. Records ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/prince-estate-big-plans-upcoming-purple-reign-698529/))
+ - [**"The Prince Estate’s Big Plans: Inside the Upcoming Purple Reign -- The late singer’s estate is currently exploring licensing, future releases and even a hotel – all while trying to consider what Prince would have wanted"**](https://www.rollingstone.com/music/music-features/prince-estate-big-plans-upcoming-purple-reign-698529/) in [Rolling Stone](https://www.rollingstone.com/) on 13 July 2018 about Bravado, Bremer Trust, Carver County, Charles Koppelman, Comerica, First Avenue (place), Graceland, hologram, John Nelson, Joni Mitchell, Mayte, Mayte Garcia, merchandise, Michael Howe, Minnesota Twins, museum, Nothing Compares 2 U (song), Piano and a Microphone 1983 (album), Prince Estate, Questlove, Sharon Nelson, Spotify, Super Bowl, Susan Rogers, The Prince Estate, Troy Carter, Tyka Nelson, Warner Bros. Records ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/prince-estate-big-plans-upcoming-purple-reign-698529/))
 
 ----
 
- - [**"Prince estate, Sony ink distribution deal for 35 albums"**](https://apnews.com/3f346190027d4601a34fa81f7cf165a2) by The Associated Press in [Associated Press News](https://apnews.com/) on 27 June 2018 about 3121 (album), Emancipation (album), Legacy Recordings, Prince Estate, Sony Music Entertainment, The Gold Experience (album), The Prince Estate, Troy Carter ([mirror](https://web.archive.org/web/*/https://apnews.com/3f346190027d4601a34fa81f7cf165a2))
+ - [**"Prince estate, Sony ink distribution deal for 35 albums"**](https://apnews.com/3f346190027d4601a34fa81f7cf165a2) by The Associated Press in [Associated Press News](https://apnews.com/) on 27 June 2018 about 3121 (album), Emancipation (album), fentanyl overdose, Legacy Recordings, Prince Estate, Sony Music Entertainment, The Gold Experience (album), The Prince Estate, Troy Carter ([mirror](https://web.archive.org/web/*/https://apnews.com/3f346190027d4601a34fa81f7cf165a2))
 
 ----
 
@@ -400,7 +412,7 @@
 
 ----
 
- - [**"The Prince Estate and TIDAL Announce Agreement to Debut New and Unreleased Prince Album and Settlement of Prior Legal Disputes"**](https://www.prnewswire.com/news-releases/the-prince-estate-and-tidal-announce-agreement-to-debut-new-and-unreleased-prince-album-and-settlement-of-prior-legal-disputes-300647106.html) in [PR Newswire](https://www.prnewswire.com/) on 11 May 2018 about Prince Estate, The Prince Estate, Tidal, Troy Carter ([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/the-prince-estate-and-tidal-announce-agreement-to-debut-new-and-unreleased-prince-album-and-settlement-of-prior-legal-disputes-300647106.html))
+ - [**"The Prince Estate and TIDAL Announce Agreement to Debut New and Unreleased Prince Album and Settlement of Prior Legal Disputes"**](https://www.prnewswire.com/news-releases/the-prince-estate-and-tidal-announce-agreement-to-debut-new-and-unreleased-prince-album-and-settlement-of-prior-legal-disputes-300647106.html) in [PR Newswire](https://www.prnewswire.com/) on 11 May 2018 about Prince Estate, probate court, The Prince Estate, Tidal, Troy Carter ([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/the-prince-estate-and-tidal-announce-agreement-to-debut-new-and-unreleased-prince-album-and-settlement-of-prior-legal-disputes-300647106.html))
 
 ----
 
@@ -422,7 +434,7 @@
 
 ----
 
- - [**"Deals ensure cash keeps flowing to unsettled Prince estate"**](https://apnews.com/ea32a54490474eccad7364653ab698f8) in [Associated Press News](https://apnews.com/) on 16 April 2017 about 3rdEyeGirl, Alfred Jackson, Celebration 2017, Comerica Bank & Trust, Graceland, Joel Weinshanker, John R. Nelson, Kevin Eide, Liv Warfield, Morris Day, museum, New Power Generation, Norrine Nelson, Omarr Baker, Prince Estate, Sharon Nelson, Shelby J., Spotify, The Time, Tidal, Tyka Nelson, Universal Music Group, Van Jones ([mirror](https://web.archive.org/web/*/https://apnews.com/ea32a54490474eccad7364653ab698f8))
+ - [**"Deals ensure cash keeps flowing to unsettled Prince estate"**](https://apnews.com/ea32a54490474eccad7364653ab698f8) in [Associated Press News](https://apnews.com/) on 16 April 2017 about 3rdEyeGirl, Alfred Jackson, Celebration 2017, Comerica, Comerica Bank & Trust, Graceland, Joel Weinshanker, John R. Nelson, Kevin Eide, Liv Warfield, Morris Day, museum, New Power Generation, Norrine Nelson, Omarr Baker, Prince Estate, Sharon Nelson, Shelby J., Spotify, The Time, Tidal, Tyka Nelson, Universal Music Group, Van Jones ([mirror](https://web.archive.org/web/*/https://apnews.com/ea32a54490474eccad7364653ab698f8))
 
 ----
 
@@ -430,7 +442,7 @@
 
 ----
 
- - [**"Lady Gaga ex-manager Troy Carter named Prince estate adviser"**](https://apnews.com/727501ec378a400184818701510f73ea) by The Associated Press in [Associated Press News](https://apnews.com/) on 12 April 2017 about Bremer Trust, Charles Koppelman, Comerica Bank & Trust, Prince Estate, Spotify, Troy Carter ([mirror](https://web.archive.org/web/*/https://apnews.com/727501ec378a400184818701510f73ea))
+ - [**"Lady Gaga ex-manager Troy Carter named Prince estate adviser"**](https://apnews.com/727501ec378a400184818701510f73ea) by The Associated Press in [Associated Press News](https://apnews.com/) on 12 April 2017 about Bremer Trust, Charles Koppelman, Comerica, Comerica Bank & Trust, Prince Estate, Spotify, Troy Carter ([mirror](https://web.archive.org/web/*/https://apnews.com/727501ec378a400184818701510f73ea))
 
 ----
 
@@ -438,7 +450,7 @@
 
 ----
 
- - [**"Judge: Appeals holding up Prince estate determination"**](https://apnews.com/c26a8f91fcbc4e25b4138a17edc9c56e) in [Associated Press News](https://apnews.com/) on 12 January 2017 about Alfred Jackson, Bremer Trust, Carver County, contract, John Nelson, Kevin Eide, Michael Jackson, Omarr Baker, Prince Estate, Tyka Nelson, Van Jones ([mirror](https://web.archive.org/web/*/https://apnews.com/c26a8f91fcbc4e25b4138a17edc9c56e))
+ - [**"Judge: Appeals holding up Prince estate determination"**](https://apnews.com/c26a8f91fcbc4e25b4138a17edc9c56e) in [Associated Press News](https://apnews.com/) on 12 January 2017 about Alfred Jackson, Bremer Trust, Carver County, Comerica, contract, John Nelson, Kevin Eide, Michael Jackson, Omarr Baker, Prince Estate, Tyka Nelson, Van Jones ([mirror](https://web.archive.org/web/*/https://apnews.com/c26a8f91fcbc4e25b4138a17edc9c56e))
 
 ----
 
@@ -454,7 +466,7 @@
 
 ----
 
- - [**"Judge rejects claim to Prince estate from woman and girl"**](https://apnews.com/26dcb05f3dc549dd8d6f415e3b6f2602) in [Associated Press News](https://apnews.com/) on 27 October 2016 about Brianna Nelson, Carver County, Duane Nelson, fentanyl, John L. Nelson, Kevin Eide, Prince Estate, Victoria Nelson ([mirror](https://web.archive.org/web/*/https://apnews.com/26dcb05f3dc549dd8d6f415e3b6f2602))
+ - [**"Judge rejects claim to Prince estate from woman and girl"**](https://apnews.com/26dcb05f3dc549dd8d6f415e3b6f2602) in [Associated Press News](https://apnews.com/) on 27 October 2016 about Brianna Nelson, Carver County, Duane Nelson, fentanyl, fentanyl overdose, John L. Nelson, Kevin Eide, Prince Estate, Victoria Nelson ([mirror](https://web.archive.org/web/*/https://apnews.com/26dcb05f3dc549dd8d6f415e3b6f2602))
 
 ----
 
@@ -530,7 +542,7 @@
 
 ----
 
- - [**"Prince siblings stand to make millions but keep low profiles"**](https://apnews.com/e1c3f1ca7f2e4a2a9baa312560ea6379) in [Associated Press News](https://apnews.com/) on 3 May 2016 about Alfred Jackson, Duane Nelson, John L. Nelson, John R. Nelson, Norrine Nelson, Omarr Baker, Prince Estate, Sharon Nelson, The Prince Estate, Tyka Nelson, U Got the Look (song) ([mirror](https://web.archive.org/web/*/https://apnews.com/e1c3f1ca7f2e4a2a9baa312560ea6379))
+ - [**"Prince siblings stand to make millions but keep low profiles"**](https://apnews.com/e1c3f1ca7f2e4a2a9baa312560ea6379) in [Associated Press News](https://apnews.com/) on 3 May 2016 about Alfred Jackson, Duane Nelson, John L. Nelson, John R. Nelson, Norrine Nelson, Omarr Baker, Prince Estate, probate court, Sharon Nelson, The Prince Estate, Tyka Nelson, U Got the Look (song) ([mirror](https://web.archive.org/web/*/https://apnews.com/e1c3f1ca7f2e4a2a9baa312560ea6379))
 
 ----
 

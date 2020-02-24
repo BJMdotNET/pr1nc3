@@ -54,7 +54,7 @@
 
 ## August 2019 (1)
 
- - [**"Prince Estate Taking Over Management of Paisley Park From Graceland Holdings"**](https://www.billboard.com/articles/business/8528477/prince-estate-paisley-park-management-graceland) in [Billboard](https://www.billboard.com/) on 27 August 2019 about contract, Graceland, Graceland Holdings, museum, Prince Estate, Sharon Nelson ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/business/8528477/prince-estate-paisley-park-management-graceland))
+ - [**"Prince Estate Taking Over Management of Paisley Park From Graceland Holdings"**](https://www.billboard.com/articles/business/8528477/prince-estate-paisley-park-management-graceland) in [Billboard](https://www.billboard.com/) on 27 August 2019 about Comerica, contract, Graceland, Graceland Holdings, museum, Prince Estate, Sharon Nelson ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/business/8528477/prince-estate-paisley-park-management-graceland))
 
 ----
 

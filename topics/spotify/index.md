@@ -44,7 +44,7 @@
 
 ----
 
- - [**"Once and Future Prince"**](https://www.newyorker.com/magazine/2019/10/21/once-and-future-prince/) in [The New Yorker](https://www.newyorker.com/) on 14 October 2019 about Grammy Award, Spotify, Super Bowl, vault ([mirror](https://web.archive.org/web/*/https://www.newyorker.com/magazine/2019/10/21/once-and-future-prince/))
+ - [**"Once and Future Prince"**](https://www.newyorker.com/magazine/2019/10/21/once-and-future-prince/) in [The New Yorker](https://www.newyorker.com/) on 14 October 2019 about Grammy Award, hologram, Spotify, Super Bowl, vault ([mirror](https://web.archive.org/web/*/https://www.newyorker.com/magazine/2019/10/21/once-and-future-prince/))
 
 ----
 
@@ -76,7 +76,7 @@
 
 ----
 
- - [**"The Prince Estate’s Big Plans: Inside the Upcoming Purple Reign -- The late singer’s estate is currently exploring licensing, future releases and even a hotel – all while trying to consider what Prince would have wanted"**](https://www.rollingstone.com/music/music-features/prince-estate-big-plans-upcoming-purple-reign-698529/) in [Rolling Stone](https://www.rollingstone.com/) on 13 July 2018 about Bravado, Bremer Trust, Carver County, Charles Koppelman, First Avenue (place), Graceland, John Nelson, Joni Mitchell, Mayte, Mayte Garcia, merchandise, Michael Howe, Minnesota Twins, museum, Nothing Compares 2 U (song), Piano and a Microphone 1983 (album), Prince Estate, Questlove, Sharon Nelson, Spotify, Super Bowl, Susan Rogers, The Prince Estate, Troy Carter, Tyka Nelson, Warner Bros. Records ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/prince-estate-big-plans-upcoming-purple-reign-698529/))
+ - [**"The Prince Estate’s Big Plans: Inside the Upcoming Purple Reign -- The late singer’s estate is currently exploring licensing, future releases and even a hotel – all while trying to consider what Prince would have wanted"**](https://www.rollingstone.com/music/music-features/prince-estate-big-plans-upcoming-purple-reign-698529/) in [Rolling Stone](https://www.rollingstone.com/) on 13 July 2018 about Bravado, Bremer Trust, Carver County, Charles Koppelman, Comerica, First Avenue (place), Graceland, hologram, John Nelson, Joni Mitchell, Mayte, Mayte Garcia, merchandise, Michael Howe, Minnesota Twins, museum, Nothing Compares 2 U (song), Piano and a Microphone 1983 (album), Prince Estate, Questlove, Sharon Nelson, Spotify, Super Bowl, Susan Rogers, The Prince Estate, Troy Carter, Tyka Nelson, Warner Bros. Records ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/prince-estate-big-plans-upcoming-purple-reign-698529/))
 
 ----
 
@@ -84,23 +84,23 @@
 
 ----
 
- - [**"As Prince heirs stew, bankers and lawyers cash in on estate"**](https://apnews.com/d9847863113d4ff8bd70850dd6a6cd2e) by Steve Karnowski (Associated Press) in [Associated Press News](https://apnews.com/) on 18 May 2018 about Alfred Jackson, Carver County, John L. Nelson, John R. Nelson, Kevin Eide, Norrine Nelson, Omarr Baker, Sharon Nelson, Spotify, Tidal, Troy Carter, Tyka Nelson, Universal Music Group ([mirror](https://web.archive.org/web/*/https://apnews.com/d9847863113d4ff8bd70850dd6a6cd2e))
+ - [**"As Prince heirs stew, bankers and lawyers cash in on estate"**](https://apnews.com/d9847863113d4ff8bd70850dd6a6cd2e) by Steve Karnowski (Associated Press) in [Associated Press News](https://apnews.com/) on 18 May 2018 about Alfred Jackson, Carver County, Comerica, John L. Nelson, John R. Nelson, Kevin Eide, Norrine Nelson, Omarr Baker, Sharon Nelson, Spotify, Tidal, Troy Carter, Tyka Nelson, Universal Music Group ([mirror](https://web.archive.org/web/*/https://apnews.com/d9847863113d4ff8bd70850dd6a6cd2e))
 
 ----
 
- - [**"It’s Official: Prince’s Estate Manager and Universal Music Group Move to Nullify Recorded-Music Deal"**](https://variety.com/2017/music/news/its-official-princes-estate-manager-and-universal-music-group-move-to-nullify-recorded-music-deal-1202436842/) by Jem Aswad in [Variety](https://variety.com/) on 19 May 2017 about Alfred Jackson, Charles Koppelman, Comerica Bank & Trust, contract, John R. Nelson, Kevin Eide, merchandise, Norrine Nelson, Omarr Baker, Sharon Nelson, Spotify, Troy Carter, Tyka Nelson, Universal Music Group, Van Jones, Warner Bros. Records ([mirror](https://web.archive.org/web/*/https://variety.com/2017/music/news/its-official-princes-estate-manager-and-universal-music-group-move-to-nullify-recorded-music-deal-1202436842/))
+ - [**"It’s Official: Prince’s Estate Manager and Universal Music Group Move to Nullify Recorded-Music Deal"**](https://variety.com/2017/music/news/its-official-princes-estate-manager-and-universal-music-group-move-to-nullify-recorded-music-deal-1202436842/) by Jem Aswad in [Variety](https://variety.com/) on 19 May 2017 about Alfred Jackson, Charles Koppelman, Comerica, Comerica Bank & Trust, contract, John R. Nelson, Kevin Eide, merchandise, Norrine Nelson, Omarr Baker, Sharon Nelson, Spotify, Troy Carter, Tyka Nelson, Universal Music Group, Van Jones, Warner Bros. Records ([mirror](https://web.archive.org/web/*/https://variety.com/2017/music/news/its-official-princes-estate-manager-and-universal-music-group-move-to-nullify-recorded-music-deal-1202436842/))
 
 ----
 
- - [**"A year after Prince's death, these questions remain unanswered"**](https://usatoday.com/story/life/music/2017/04/20/death-prince-one-year-later-what-do-we-know/100180398/) in [USA Today](https://usatoday.com/) on 21 April 2017 about Amy Conners, Apple Music, bootleg, Carver County, fentanyl, George Ian Boxill, Howard Kornfeld, Kevin Eide, Manuela Testolini, Mayte, Mayte Garcia, memoir, Michael Schulenberg, museum, Paisley Park Enterprises, Patrick Cousins, Spotify, Tidal, Tyka Nelson, Universal Music Group, vault ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2017/04/20/death-prince-one-year-later-what-do-we-know/100180398/))
+ - [**"A year after Prince's death, these questions remain unanswered"**](https://usatoday.com/story/life/music/2017/04/20/death-prince-one-year-later-what-do-we-know/100180398/) in [USA Today](https://usatoday.com/) on 21 April 2017 about Amy Conners, Apple Music, bootleg, Carver County, Comerica, fentanyl, George Ian Boxill, Howard Kornfeld, Kevin Eide, Manuela Testolini, Mayte, Mayte Garcia, memoir, Michael Schulenberg, museum, Paisley Park Enterprises, Patrick Cousins, probate court, Spotify, Tidal, Tyka Nelson, Universal Music Group, vault ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2017/04/20/death-prince-one-year-later-what-do-we-know/100180398/))
 
 ----
 
- - [**"Floodgates are about to open on Prince's career after death -- A year after he died, Prince's lucrative second career is taking off. The industry moguls he despised are calling the shots — and his wishes don't apply."**](http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 April 2017 about Bravado, Bremer Trust, Carver County, Charles Koppelman, contract, Graceland, Graceland Holdings, merchandise, Michael Jackson, museum, Omarr Baker, Spotify, Susan Rogers, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/))
+ - [**"Floodgates are about to open on Prince's career after death -- A year after he died, Prince's lucrative second career is taking off. The industry moguls he despised are calling the shots — and his wishes don't apply."**](http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 April 2017 about Bravado, Bremer Trust, Carver County, Charles Koppelman, Comerica, contract, Graceland, Graceland Holdings, hologram, merchandise, Michael Jackson, museum, Omarr Baker, Spotify, Susan Rogers, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/))
 
 ----
 
- - [**"Deals ensure cash keeps flowing to unsettled Prince estate"**](https://apnews.com/ea32a54490474eccad7364653ab698f8) in [Associated Press News](https://apnews.com/) on 16 April 2017 about 3rdEyeGirl, Alfred Jackson, Celebration 2017, Comerica Bank & Trust, Graceland, Joel Weinshanker, John R. Nelson, Kevin Eide, Liv Warfield, Morris Day, museum, New Power Generation, Norrine Nelson, Omarr Baker, Prince Estate, Sharon Nelson, Shelby J., Spotify, The Time, Tidal, Tyka Nelson, Universal Music Group, Van Jones ([mirror](https://web.archive.org/web/*/https://apnews.com/ea32a54490474eccad7364653ab698f8))
+ - [**"Deals ensure cash keeps flowing to unsettled Prince estate"**](https://apnews.com/ea32a54490474eccad7364653ab698f8) in [Associated Press News](https://apnews.com/) on 16 April 2017 about 3rdEyeGirl, Alfred Jackson, Celebration 2017, Comerica, Comerica Bank & Trust, Graceland, Joel Weinshanker, John R. Nelson, Kevin Eide, Liv Warfield, Morris Day, museum, New Power Generation, Norrine Nelson, Omarr Baker, Prince Estate, Sharon Nelson, Shelby J., Spotify, The Time, Tidal, Tyka Nelson, Universal Music Group, Van Jones ([mirror](https://web.archive.org/web/*/https://apnews.com/ea32a54490474eccad7364653ab698f8))
 
 ----
 
@@ -108,7 +108,7 @@
 
 ----
 
- - [**"Lady Gaga ex-manager Troy Carter named Prince estate adviser"**](https://apnews.com/727501ec378a400184818701510f73ea) by The Associated Press in [Associated Press News](https://apnews.com/) on 12 April 2017 about Bremer Trust, Charles Koppelman, Comerica Bank & Trust, Prince Estate, Spotify, Troy Carter ([mirror](https://web.archive.org/web/*/https://apnews.com/727501ec378a400184818701510f73ea))
+ - [**"Lady Gaga ex-manager Troy Carter named Prince estate adviser"**](https://apnews.com/727501ec378a400184818701510f73ea) by The Associated Press in [Associated Press News](https://apnews.com/) on 12 April 2017 about Bremer Trust, Charles Koppelman, Comerica, Comerica Bank & Trust, Prince Estate, Spotify, Troy Carter ([mirror](https://web.archive.org/web/*/https://apnews.com/727501ec378a400184818701510f73ea))
 
 ----
 
@@ -120,7 +120,7 @@
 
 ----
 
- - [**"Fans’ Holy Grail: unreleased songs in Prince’s vault"**](https://apnews.com/73b9ba74daa4423bb36ac62d4655a71b) in [Associated Press News](https://apnews.com/) on 29 April 2016 about Bangles, Bremer Trust, Michael Jackson, Miles Davis, Spotify, Tyka Nelson, vault ([mirror](https://web.archive.org/web/*/https://apnews.com/73b9ba74daa4423bb36ac62d4655a71b))
+ - [**"Fans’ Holy Grail: unreleased songs in Prince’s vault"**](https://apnews.com/73b9ba74daa4423bb36ac62d4655a71b) in [Associated Press News](https://apnews.com/) on 29 April 2016 about Bangles, Bremer Trust, Michael Jackson, Miles Davis, probate court, Spotify, Tyka Nelson, vault ([mirror](https://web.archive.org/web/*/https://apnews.com/73b9ba74daa4423bb36ac62d4655a71b))
 
 ----
 

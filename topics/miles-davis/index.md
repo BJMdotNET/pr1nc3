@@ -80,7 +80,7 @@
 
 ----
 
- - [**"Fans’ Holy Grail: unreleased songs in Prince’s vault"**](https://apnews.com/73b9ba74daa4423bb36ac62d4655a71b) in [Associated Press News](https://apnews.com/) on 29 April 2016 about Bangles, Bremer Trust, Michael Jackson, Miles Davis, Spotify, Tyka Nelson, vault ([mirror](https://web.archive.org/web/*/https://apnews.com/73b9ba74daa4423bb36ac62d4655a71b))
+ - [**"Fans’ Holy Grail: unreleased songs in Prince’s vault"**](https://apnews.com/73b9ba74daa4423bb36ac62d4655a71b) in [Associated Press News](https://apnews.com/) on 29 April 2016 about Bangles, Bremer Trust, Michael Jackson, Miles Davis, probate court, Spotify, Tyka Nelson, vault ([mirror](https://web.archive.org/web/*/https://apnews.com/73b9ba74daa4423bb36ac62d4655a71b))
 
 ----
 

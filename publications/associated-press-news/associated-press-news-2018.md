@@ -42,7 +42,7 @@
 
 ----
 
- - [**"Prince estate to Trump: Stop using music at rallies"**](https://apnews.com/af0a5a4fc34d48ffb9f29da4c5ef9771) by The Associated Press in [Associated Press News](https://apnews.com/) on 12 October 2018 about Donald Trump, Omarr Baker, Prince Estate, Trump, White House (place) ([mirror](https://web.archive.org/web/*/https://apnews.com/af0a5a4fc34d48ffb9f29da4c5ef9771))
+ - [**"Prince estate to Trump: Stop using music at rallies"**](https://apnews.com/af0a5a4fc34d48ffb9f29da4c5ef9771) by The Associated Press in [Associated Press News](https://apnews.com/) on 12 October 2018 about Donald Trump, fentanyl overdose, Omarr Baker, Prince Estate, Trump, White House (place) ([mirror](https://web.archive.org/web/*/https://apnews.com/af0a5a4fc34d48ffb9f29da4c5ef9771))
 
 ----
 
@@ -60,17 +60,17 @@
 
 ----
 
- - [**"Prince’s new basement tape: Just him singing, playing piano"**](https://apnews.com/e0a9e78a662c40d3adee133110bc8489) by Jeff Baenen (Associated Press) in [Associated Press News](https://apnews.com/) on 18 September 2018 about 17 Days (song), Aretha Franklin, Cold Coffee & Cocaine (song), fentanyl, Joni Mitchell, Lisa Coleman, Michael Howe, NPG Records, Piano and a Microphone 1983 (album), Purple Rain (song), Troy Carter, Warner Bros. Records, Why The Butterflies (song) ([mirror](https://web.archive.org/web/*/https://apnews.com/e0a9e78a662c40d3adee133110bc8489))
+ - [**"Prince’s new basement tape: Just him singing, playing piano"**](https://apnews.com/e0a9e78a662c40d3adee133110bc8489) by Jeff Baenen (Associated Press) in [Associated Press News](https://apnews.com/) on 18 September 2018 about 17 Days (song), Aretha Franklin, Cold Coffee & Cocaine (song), fentanyl, fentanyl overdose, Joni Mitchell, Lisa Coleman, Michael Howe, NPG Records, Piano and a Microphone 1983 (album), Purple Rain (song), Troy Carter, Warner Bros. Records, Why The Butterflies (song) ([mirror](https://web.archive.org/web/*/https://apnews.com/e0a9e78a662c40d3adee133110bc8489))
 
 ----
 
- - [**"Prince’s estate sues alleged European piracy network"**](https://apnews.com/7175907b6f0247e79365312718c0b1b6) by The Associated Press in [Associated Press News](https://apnews.com/) on 15 September 2018 about bootleg, piracy ([mirror](https://web.archive.org/web/*/https://apnews.com/7175907b6f0247e79365312718c0b1b6))
+ - [**"Prince’s estate sues alleged European piracy network"**](https://apnews.com/7175907b6f0247e79365312718c0b1b6) by The Associated Press in [Associated Press News](https://apnews.com/) on 15 September 2018 about bootleg, fentanyl overdose, piracy ([mirror](https://web.archive.org/web/*/https://apnews.com/7175907b6f0247e79365312718c0b1b6))
 
 ----
 
 ## August 2018 (1)
 
- - [**"The days the music died: A look at funerals of the greats"**](https://apnews.com/7d546ab5dbec4e5ba4ebd0eddd1064e8) in [Associated Press News](https://apnews.com/) on 29 August 2018 about Aretha Franklin, Graceland, James Brown, Larry Graham, Michael Jackson, museum, Sheila E., Stevie Wonder, trademark ([mirror](https://web.archive.org/web/*/https://apnews.com/7d546ab5dbec4e5ba4ebd0eddd1064e8))
+ - [**"The days the music died: A look at funerals of the greats"**](https://apnews.com/7d546ab5dbec4e5ba4ebd0eddd1064e8) in [Associated Press News](https://apnews.com/) on 29 August 2018 about Aretha Franklin, fentanyl overdose, Graceland, James Brown, Larry Graham, Michael Jackson, museum, Sheila E., Stevie Wonder, trademark ([mirror](https://web.archive.org/web/*/https://apnews.com/7d546ab5dbec4e5ba4ebd0eddd1064e8))
 
 ----
 
@@ -82,7 +82,7 @@
 
 ## June 2018 (8)
 
- - [**"Prince estate, Sony ink distribution deal for 35 albums"**](https://apnews.com/3f346190027d4601a34fa81f7cf165a2) by The Associated Press in [Associated Press News](https://apnews.com/) on 27 June 2018 about 3121 (album), Emancipation (album), Legacy Recordings, Prince Estate, Sony Music Entertainment, The Gold Experience (album), The Prince Estate, Troy Carter ([mirror](https://web.archive.org/web/*/https://apnews.com/3f346190027d4601a34fa81f7cf165a2))
+ - [**"Prince estate, Sony ink distribution deal for 35 albums"**](https://apnews.com/3f346190027d4601a34fa81f7cf165a2) by The Associated Press in [Associated Press News](https://apnews.com/) on 27 June 2018 about 3121 (album), Emancipation (album), fentanyl overdose, Legacy Recordings, Prince Estate, Sony Music Entertainment, The Gold Experience (album), The Prince Estate, Troy Carter ([mirror](https://web.archive.org/web/*/https://apnews.com/3f346190027d4601a34fa81f7cf165a2))
 
 ----
 
@@ -98,7 +98,7 @@
 
 ----
 
- - [**"Warner Bros. to release new Prince album in September"**](https://apnews.com/542e9ad6962e46e8882badfd663b1921) in [Associated Press News](https://apnews.com/) on 7 June 2018 about 17 Days (song), Joni Mitchell, vault, Warner Bros. Records ([mirror](https://web.archive.org/web/*/https://apnews.com/542e9ad6962e46e8882badfd663b1921))
+ - [**"Warner Bros. to release new Prince album in September"**](https://apnews.com/542e9ad6962e46e8882badfd663b1921) in [Associated Press News](https://apnews.com/) on 7 June 2018 about 17 Days (song), fentanyl overdose, Joni Mitchell, vault, Warner Bros. Records ([mirror](https://web.archive.org/web/*/https://apnews.com/542e9ad6962e46e8882badfd663b1921))
 
 ----
 
@@ -116,7 +116,7 @@
 
 ## May 2018 (3)
 
- - [**"As Prince heirs stew, bankers and lawyers cash in on estate"**](https://apnews.com/d9847863113d4ff8bd70850dd6a6cd2e) by Steve Karnowski (Associated Press) in [Associated Press News](https://apnews.com/) on 18 May 2018 about Alfred Jackson, Carver County, John L. Nelson, John R. Nelson, Kevin Eide, Norrine Nelson, Omarr Baker, Sharon Nelson, Spotify, Tidal, Troy Carter, Tyka Nelson, Universal Music Group ([mirror](https://web.archive.org/web/*/https://apnews.com/d9847863113d4ff8bd70850dd6a6cd2e))
+ - [**"As Prince heirs stew, bankers and lawyers cash in on estate"**](https://apnews.com/d9847863113d4ff8bd70850dd6a6cd2e) by Steve Karnowski (Associated Press) in [Associated Press News](https://apnews.com/) on 18 May 2018 about Alfred Jackson, Carver County, Comerica, John L. Nelson, John R. Nelson, Kevin Eide, Norrine Nelson, Omarr Baker, Sharon Nelson, Spotify, Tidal, Troy Carter, Tyka Nelson, Universal Music Group ([mirror](https://web.archive.org/web/*/https://apnews.com/d9847863113d4ff8bd70850dd6a6cd2e))
 
 ----
 
@@ -158,11 +158,11 @@
 
 ----
 
- - [**"The Latest: Doctor said Prince ‘doesn’t look really well’"**](https://apnews.com/acdea18b521b4b7d886de7b06c2d302a) in [Associated Press News](https://apnews.com/) on 20 April 2018 about Carver County, fentanyl, Kirk Johnson, Mark Metz, Meron Bekure, Michael Todd Schulenberg, oxycodone, Vicodin ([mirror](https://web.archive.org/web/*/https://apnews.com/acdea18b521b4b7d886de7b06c2d302a))
+ - [**"The Latest: Doctor said Prince ‘doesn’t look really well’"**](https://apnews.com/acdea18b521b4b7d886de7b06c2d302a) in [Associated Press News](https://apnews.com/) on 20 April 2018 about Carver County, fentanyl, fentanyl overdose, Kirk Johnson, Mark Metz, Meron Bekure, Michael Todd Schulenberg, oxycodone, Vicodin ([mirror](https://web.archive.org/web/*/https://apnews.com/acdea18b521b4b7d886de7b06c2d302a))
 
 ----
 
- - [**"The Latest: Prince’s sister troubled by death investigation"**](https://apnews.com/86c8143c68534f938b13dfea97e2315e) in [Associated Press News](https://apnews.com/) on 20 April 2018 about Carver County, fentanyl, Mark Metz ([mirror](https://web.archive.org/web/*/https://apnews.com/86c8143c68534f938b13dfea97e2315e))
+ - [**"The Latest: Prince’s sister troubled by death investigation"**](https://apnews.com/86c8143c68534f938b13dfea97e2315e) in [Associated Press News](https://apnews.com/) on 20 April 2018 about Carver County, fentanyl, fentanyl overdose, Mark Metz ([mirror](https://web.archive.org/web/*/https://apnews.com/86c8143c68534f938b13dfea97e2315e))
 
 ----
 
@@ -170,7 +170,7 @@
 
 ----
 
- - [**"Minnesota prosecutors plan announcement on Prince death"**](https://apnews.com/abc25c93e0d14b1bab5b300fc6ef8735) in [Associated Press News](https://apnews.com/) on 18 April 2018 about Andrew Kornfeld, Carver County, fentanyl, Howard Kornfeld, Illinois (place), Kirk Johnson, Mark Metz, Michael Todd Schulenberg, Moline, Illinois (place), oxycodone, toxicology report ([mirror](https://web.archive.org/web/*/https://apnews.com/abc25c93e0d14b1bab5b300fc6ef8735))
+ - [**"Minnesota prosecutors plan announcement on Prince death"**](https://apnews.com/abc25c93e0d14b1bab5b300fc6ef8735) in [Associated Press News](https://apnews.com/) on 18 April 2018 about Andrew Kornfeld, Carver County, fentanyl, fentanyl overdose, Howard Kornfeld, Illinois (place), Kirk Johnson, Mark Metz, Michael Todd Schulenberg, Moline, Illinois (place), oxycodone, toxicology report ([mirror](https://web.archive.org/web/*/https://apnews.com/abc25c93e0d14b1bab5b300fc6ef8735))
 
 ----
 
@@ -188,7 +188,7 @@
 
 ----
 
- - [**"AM Prep-Music -- PRINCE CELEBRATION PLANNED FOR NEXT MONTH / PRINCE - TOXICOLOGY"**](https://apnews.com/c62930a448b849a785758cf9f450f418) in [Associated Press News](https://apnews.com/) on 27 March 2018 about Dez Dickerson, fentanyl, Matt Fink, Sheila E., The Revolution, toxicology report, tribute fence ([mirror](https://web.archive.org/web/*/https://apnews.com/c62930a448b849a785758cf9f450f418))
+ - [**"AM Prep-Music -- PRINCE CELEBRATION PLANNED FOR NEXT MONTH / PRINCE - TOXICOLOGY"**](https://apnews.com/c62930a448b849a785758cf9f450f418) in [Associated Press News](https://apnews.com/) on 27 March 2018 about Dez Dickerson, fentanyl, fentanyl overdose, Matt Fink, Sheila E., The Revolution, toxicology report, tribute fence ([mirror](https://web.archive.org/web/*/https://apnews.com/c62930a448b849a785758cf9f450f418))
 
 ----
 
@@ -200,7 +200,7 @@
 
 ----
 
- - [**"The Latest: Fentanyl in Prince’s body was exceedingly high"**](https://apnews.com/72d21087451948ed872cce0815f0e426) in [Associated Press News](https://apnews.com/) on 26 March 2018 about Celebration 2018, Dez Dickerson, fentanyl, Matt Fink, The Revolution, toxicology report, tribute fence ([mirror](https://web.archive.org/web/*/https://apnews.com/72d21087451948ed872cce0815f0e426))
+ - [**"The Latest: Fentanyl in Prince’s body was exceedingly high"**](https://apnews.com/72d21087451948ed872cce0815f0e426) in [Associated Press News](https://apnews.com/) on 26 March 2018 about Celebration 2018, Dez Dickerson, fentanyl, fentanyl overdose, Matt Fink, The Revolution, toxicology report, tribute fence ([mirror](https://web.archive.org/web/*/https://apnews.com/72d21087451948ed872cce0815f0e426))
 
 ----
 
@@ -220,7 +220,7 @@
 
 ----
 
- - [**"Prince heirs claim excessive lawyer’s fees will leave ‘little … to pass on’"**](https://apnews.com/e000dd12d3744e9aa2de9951b129a0a0) in [Associated Press News](https://apnews.com/) on 3 March 2018 about Alfred Jackson, fentanyl, John Nelson, Kevin Eide, Omarr Baker, Tyka Nelson ([mirror](https://web.archive.org/web/*/https://apnews.com/e000dd12d3744e9aa2de9951b129a0a0))
+ - [**"Prince heirs claim excessive lawyer’s fees will leave ‘little … to pass on’"**](https://apnews.com/e000dd12d3744e9aa2de9951b129a0a0) in [Associated Press News](https://apnews.com/) on 3 March 2018 about Alfred Jackson, Comerica, fentanyl, John Nelson, Kevin Eide, Omarr Baker, Tyka Nelson ([mirror](https://web.archive.org/web/*/https://apnews.com/e000dd12d3744e9aa2de9951b129a0a0))
 
 ----
 
@@ -246,7 +246,7 @@
 
 ----
 
- - [**"Prince is gone, but his spirit lives at Minnesota Super Bowl"**](https://apnews.com/760ec69e7a2e430a9879834f5f2eae63) in [Associated Press News](https://apnews.com/) on 2 February 2018 about First Avenue (place), Jimmy Jam, Minnesota Vikings, Morris Day, Morris Hayes, museum, New Power Generation, Sheila E., Super Bowl, Terry Lewis, The Revolution ([mirror](https://web.archive.org/web/*/https://apnews.com/760ec69e7a2e430a9879834f5f2eae63))
+ - [**"Prince is gone, but his spirit lives at Minnesota Super Bowl"**](https://apnews.com/760ec69e7a2e430a9879834f5f2eae63) in [Associated Press News](https://apnews.com/) on 2 February 2018 about First Avenue (place), hologram, Jimmy Jam, Minnesota Vikings, Morris Day, Morris Hayes, museum, New Power Generation, Sheila E., Super Bowl, Terry Lewis, The Revolution ([mirror](https://web.archive.org/web/*/https://apnews.com/760ec69e7a2e430a9879834f5f2eae63))
 
 ----
 

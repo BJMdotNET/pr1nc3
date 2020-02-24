@@ -8,7 +8,7 @@
 
 ----
 
- - [**"Like Prince, his new memoir 'The Beautiful Ones' can't be pigeonholed -- Filled with ephemera, photos and philosophy, "The Beautiful Ones" is incomplete yet revealing. "**](http://www.startribune.com/like-prince-his-new-memoir-the-beautiful-ones-can-t-be-pigeonholed/563845812/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 October 2019 about Dan Piepenbring, fentanyl, John L. Nelson, memoir, Super Bowl, The Beautiful Ones (book), vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/like-prince-his-new-memoir-the-beautiful-ones-can-t-be-pigeonholed/563845812/))
+ - [**"Like Prince, his new memoir 'The Beautiful Ones' can't be pigeonholed -- Filled with ephemera, photos and philosophy, "The Beautiful Ones" is incomplete yet revealing. "**](http://www.startribune.com/like-prince-his-new-memoir-the-beautiful-ones-can-t-be-pigeonholed/563845812/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 October 2019 about Dan Piepenbring, fentanyl, fentanyl overdose, John L. Nelson, memoir, Super Bowl, The Beautiful Ones (book), vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/like-prince-his-new-memoir-the-beautiful-ones-can-t-be-pigeonholed/563845812/))
 
 ----
 
@@ -40,7 +40,7 @@
 
 ----
 
- - [**"As Prince heirs stew, bankers and lawyers cash in on estate"**](https://apnews.com/d9847863113d4ff8bd70850dd6a6cd2e) by Steve Karnowski (Associated Press) in [Associated Press News](https://apnews.com/) on 18 May 2018 about Alfred Jackson, Carver County, John L. Nelson, John R. Nelson, Kevin Eide, Norrine Nelson, Omarr Baker, Sharon Nelson, Spotify, Tidal, Troy Carter, Tyka Nelson, Universal Music Group ([mirror](https://web.archive.org/web/*/https://apnews.com/d9847863113d4ff8bd70850dd6a6cd2e))
+ - [**"As Prince heirs stew, bankers and lawyers cash in on estate"**](https://apnews.com/d9847863113d4ff8bd70850dd6a6cd2e) by Steve Karnowski (Associated Press) in [Associated Press News](https://apnews.com/) on 18 May 2018 about Alfred Jackson, Carver County, Comerica, John L. Nelson, John R. Nelson, Kevin Eide, Norrine Nelson, Omarr Baker, Sharon Nelson, Spotify, Tidal, Troy Carter, Tyka Nelson, Universal Music Group ([mirror](https://web.archive.org/web/*/https://apnews.com/d9847863113d4ff8bd70850dd6a6cd2e))
 
 ----
 
@@ -80,7 +80,7 @@
 
 ----
 
- - [**"Judge rejects claim to Prince estate from woman and girl"**](https://apnews.com/26dcb05f3dc549dd8d6f415e3b6f2602) in [Associated Press News](https://apnews.com/) on 27 October 2016 about Brianna Nelson, Carver County, Duane Nelson, fentanyl, John L. Nelson, Kevin Eide, Prince Estate, Victoria Nelson ([mirror](https://web.archive.org/web/*/https://apnews.com/26dcb05f3dc549dd8d6f415e3b6f2602))
+ - [**"Judge rejects claim to Prince estate from woman and girl"**](https://apnews.com/26dcb05f3dc549dd8d6f415e3b6f2602) in [Associated Press News](https://apnews.com/) on 27 October 2016 about Brianna Nelson, Carver County, Duane Nelson, fentanyl, fentanyl overdose, John L. Nelson, Kevin Eide, Prince Estate, Victoria Nelson ([mirror](https://web.archive.org/web/*/https://apnews.com/26dcb05f3dc549dd8d6f415e3b6f2602))
 
 ----
 
@@ -100,7 +100,7 @@
 
 ----
 
- - [**"Prince siblings stand to make millions but keep low profiles"**](https://apnews.com/e1c3f1ca7f2e4a2a9baa312560ea6379) in [Associated Press News](https://apnews.com/) on 3 May 2016 about Alfred Jackson, Duane Nelson, John L. Nelson, John R. Nelson, Norrine Nelson, Omarr Baker, Prince Estate, Sharon Nelson, The Prince Estate, Tyka Nelson, U Got the Look (song) ([mirror](https://web.archive.org/web/*/https://apnews.com/e1c3f1ca7f2e4a2a9baa312560ea6379))
+ - [**"Prince siblings stand to make millions but keep low profiles"**](https://apnews.com/e1c3f1ca7f2e4a2a9baa312560ea6379) in [Associated Press News](https://apnews.com/) on 3 May 2016 about Alfred Jackson, Duane Nelson, John L. Nelson, John R. Nelson, Norrine Nelson, Omarr Baker, Prince Estate, probate court, Sharon Nelson, The Prince Estate, Tyka Nelson, U Got the Look (song) ([mirror](https://web.archive.org/web/*/https://apnews.com/e1c3f1ca7f2e4a2a9baa312560ea6379))
 
 ----
 

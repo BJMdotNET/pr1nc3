@@ -8,7 +8,7 @@
 
 ----
 
- - [**"Correction: Prince Death story"**](https://apnews.com/6ea0a330a6fa442990b24ec0c5153b27) in [Associated Press News](https://apnews.com/) on 22 August 2016 about Amy Conners, Atlanta (place), fentanyl, Illinois (place), Michael Todd Schulenberg, Moline, Illinois (place), oxycodone, U-47700 ([mirror](https://web.archive.org/web/*/https://apnews.com/6ea0a330a6fa442990b24ec0c5153b27))
+ - [**"Correction: Prince Death story"**](https://apnews.com/6ea0a330a6fa442990b24ec0c5153b27) in [Associated Press News](https://apnews.com/) on 22 August 2016 about Amy Conners, Atlanta (place), fentanyl, fentanyl overdose, Illinois (place), Michael Todd Schulenberg, Moline, Illinois (place), oxycodone, U-47700 ([mirror](https://web.archive.org/web/*/https://apnews.com/6ea0a330a6fa442990b24ec0c5153b27))
 
 ----
 

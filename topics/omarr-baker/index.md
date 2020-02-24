@@ -1,6 +1,6 @@
 # Omarr Baker
 
- - [**"Prince exhibit coming to the Minnesota State Fair next year -- Superstar's estate is planning exhibit with artifacts, merchandise and performances. "**](http://www.startribune.com/prince-exhibit-coming-to-the-minnesota-state-fair-next-year/558970762/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 31 August 2019 about exhibit, Kirk Johnson, merchandise, Minnesota State Fair, Omarr Baker, State Fair, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-exhibit-coming-to-the-minnesota-state-fair-next-year/558970762/))
+ - [**"Prince exhibit coming to the Minnesota State Fair next year -- Superstar's estate is planning exhibit with artifacts, merchandise and performances. "**](http://www.startribune.com/prince-exhibit-coming-to-the-minnesota-state-fair-next-year/558970762/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 31 August 2019 about Comerica, exhibit, Kirk Johnson, merchandise, Minnesota State Fair, Omarr Baker, State Fair, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-exhibit-coming-to-the-minnesota-state-fair-next-year/558970762/))
 
 ----
 
@@ -12,7 +12,7 @@
 
 ----
 
- - [**"Prince died three years ago, his estate is still unsettled: Here's why"**](https://usatoday.com/story/life/2019/04/18/prince-died-3-years-ago-his-estate-still-unsettled-heres-why/3344038002/) in [USA Today](https://usatoday.com/) on 21 April 2019 about Alfred Jackson, auction, Bremer Trust, Caribbean, Carver County, Celebration 2019, Comerica Bank & Trust, exhibition, fentanyl, Graceland, Graceland Holdings, Joel Weinshanker, John Nelson, Kevin Eide, Legacy Recordings, merchandise, museum, My Name Is Prince (exhibition), Norrine Nelson, Omarr Baker, Prince Anthology: 1995-2010 (album), Prince Estate, Prince: In Concert On The Big Screen, Sharon Nelson, The Prince Estate, Turks and Caicos, Tyka Nelson, University of Minnesota ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/2019/04/18/prince-died-3-years-ago-his-estate-still-unsettled-heres-why/3344038002/))
+ - [**"Prince died three years ago, his estate is still unsettled: Here's why"**](https://usatoday.com/story/life/2019/04/18/prince-died-3-years-ago-his-estate-still-unsettled-heres-why/3344038002/) in [USA Today](https://usatoday.com/) on 21 April 2019 about Alfred Jackson, auction, Bremer Trust, Caribbean, Carver County, Celebration 2019, Comerica, Comerica Bank & Trust, exhibition, fentanyl, Graceland, Graceland Holdings, Joel Weinshanker, John Nelson, Kevin Eide, Legacy Recordings, merchandise, museum, My Name Is Prince (exhibition), Norrine Nelson, Omarr Baker, Prince Anthology: 1995-2010 (album), Prince Estate, Prince: In Concert On The Big Screen, probate court, Sharon Nelson, The Prince Estate, Turks and Caicos, Tyka Nelson, University of Minnesota ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/2019/04/18/prince-died-3-years-ago-his-estate-still-unsettled-heres-why/3344038002/))
 
 ----
 
@@ -24,7 +24,7 @@
 
 ----
 
- - [**"Prince estate to Trump: Stop using music at rallies"**](https://apnews.com/af0a5a4fc34d48ffb9f29da4c5ef9771) by The Associated Press in [Associated Press News](https://apnews.com/) on 12 October 2018 about Donald Trump, Omarr Baker, Prince Estate, Trump, White House (place) ([mirror](https://web.archive.org/web/*/https://apnews.com/af0a5a4fc34d48ffb9f29da4c5ef9771))
+ - [**"Prince estate to Trump: Stop using music at rallies"**](https://apnews.com/af0a5a4fc34d48ffb9f29da4c5ef9771) by The Associated Press in [Associated Press News](https://apnews.com/) on 12 October 2018 about Donald Trump, fentanyl overdose, Omarr Baker, Prince Estate, Trump, White House (place) ([mirror](https://web.archive.org/web/*/https://apnews.com/af0a5a4fc34d48ffb9f29da4c5ef9771))
 
 ----
 
@@ -32,7 +32,7 @@
 
 ----
 
- - [**"As Prince heirs stew, bankers and lawyers cash in on estate"**](https://apnews.com/d9847863113d4ff8bd70850dd6a6cd2e) by Steve Karnowski (Associated Press) in [Associated Press News](https://apnews.com/) on 18 May 2018 about Alfred Jackson, Carver County, John L. Nelson, John R. Nelson, Kevin Eide, Norrine Nelson, Omarr Baker, Sharon Nelson, Spotify, Tidal, Troy Carter, Tyka Nelson, Universal Music Group ([mirror](https://web.archive.org/web/*/https://apnews.com/d9847863113d4ff8bd70850dd6a6cd2e))
+ - [**"As Prince heirs stew, bankers and lawyers cash in on estate"**](https://apnews.com/d9847863113d4ff8bd70850dd6a6cd2e) by Steve Karnowski (Associated Press) in [Associated Press News](https://apnews.com/) on 18 May 2018 about Alfred Jackson, Carver County, Comerica, John L. Nelson, John R. Nelson, Kevin Eide, Norrine Nelson, Omarr Baker, Sharon Nelson, Spotify, Tidal, Troy Carter, Tyka Nelson, Universal Music Group ([mirror](https://web.archive.org/web/*/https://apnews.com/d9847863113d4ff8bd70850dd6a6cd2e))
 
 ----
 
@@ -40,7 +40,7 @@
 
 ----
 
- - [**"Prince heirs claim excessive lawyer’s fees will leave ‘little … to pass on’"**](https://apnews.com/e000dd12d3744e9aa2de9951b129a0a0) in [Associated Press News](https://apnews.com/) on 3 March 2018 about Alfred Jackson, fentanyl, John Nelson, Kevin Eide, Omarr Baker, Tyka Nelson ([mirror](https://web.archive.org/web/*/https://apnews.com/e000dd12d3744e9aa2de9951b129a0a0))
+ - [**"Prince heirs claim excessive lawyer’s fees will leave ‘little … to pass on’"**](https://apnews.com/e000dd12d3744e9aa2de9951b129a0a0) in [Associated Press News](https://apnews.com/) on 3 March 2018 about Alfred Jackson, Comerica, fentanyl, John Nelson, Kevin Eide, Omarr Baker, Tyka Nelson ([mirror](https://web.archive.org/web/*/https://apnews.com/e000dd12d3744e9aa2de9951b129a0a0))
 
 ----
 
@@ -48,7 +48,7 @@
 
 ----
 
- - [**"APNewsBreak: Prince tapes moved to California; 2 heirs angry"**](https://apnews.com/7fc066b10aa546e2977a0a85fc8ecb3b) in [Associated Press News](https://apnews.com/) on 12 October 2017 about Alfred Jackson, Carver County, Comerica Bank & Trust, Iron Mountain, Iron Mountain Entertainment Services, John R. Nelson, Kevin Eide, museum, Norrine Nelson, Omarr Baker, Sharon Nelson, Tyka Nelson ([mirror](https://web.archive.org/web/*/https://apnews.com/7fc066b10aa546e2977a0a85fc8ecb3b))
+ - [**"APNewsBreak: Prince tapes moved to California; 2 heirs angry"**](https://apnews.com/7fc066b10aa546e2977a0a85fc8ecb3b) in [Associated Press News](https://apnews.com/) on 12 October 2017 about Alfred Jackson, Carver County, Comerica, Comerica Bank & Trust, Iron Mountain, Iron Mountain Entertainment Services, John R. Nelson, Kevin Eide, museum, Norrine Nelson, Omarr Baker, Sharon Nelson, Tyka Nelson ([mirror](https://web.archive.org/web/*/https://apnews.com/7fc066b10aa546e2977a0a85fc8ecb3b))
 
 ----
 
@@ -60,7 +60,7 @@
 
 ----
 
- - [**"It’s Official: Prince’s Estate Manager and Universal Music Group Move to Nullify Recorded-Music Deal"**](https://variety.com/2017/music/news/its-official-princes-estate-manager-and-universal-music-group-move-to-nullify-recorded-music-deal-1202436842/) by Jem Aswad in [Variety](https://variety.com/) on 19 May 2017 about Alfred Jackson, Charles Koppelman, Comerica Bank & Trust, contract, John R. Nelson, Kevin Eide, merchandise, Norrine Nelson, Omarr Baker, Sharon Nelson, Spotify, Troy Carter, Tyka Nelson, Universal Music Group, Van Jones, Warner Bros. Records ([mirror](https://web.archive.org/web/*/https://variety.com/2017/music/news/its-official-princes-estate-manager-and-universal-music-group-move-to-nullify-recorded-music-deal-1202436842/))
+ - [**"It’s Official: Prince’s Estate Manager and Universal Music Group Move to Nullify Recorded-Music Deal"**](https://variety.com/2017/music/news/its-official-princes-estate-manager-and-universal-music-group-move-to-nullify-recorded-music-deal-1202436842/) by Jem Aswad in [Variety](https://variety.com/) on 19 May 2017 about Alfred Jackson, Charles Koppelman, Comerica, Comerica Bank & Trust, contract, John R. Nelson, Kevin Eide, merchandise, Norrine Nelson, Omarr Baker, Sharon Nelson, Spotify, Troy Carter, Tyka Nelson, Universal Music Group, Van Jones, Warner Bros. Records ([mirror](https://web.archive.org/web/*/https://variety.com/2017/music/news/its-official-princes-estate-manager-and-universal-music-group-move-to-nullify-recorded-music-deal-1202436842/))
 
 ----
 
@@ -68,15 +68,15 @@
 
 ----
 
- - [**"Floodgates are about to open on Prince's career after death -- A year after he died, Prince's lucrative second career is taking off. The industry moguls he despised are calling the shots — and his wishes don't apply."**](http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 April 2017 about Bravado, Bremer Trust, Carver County, Charles Koppelman, contract, Graceland, Graceland Holdings, merchandise, Michael Jackson, museum, Omarr Baker, Spotify, Susan Rogers, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/))
+ - [**"Floodgates are about to open on Prince's career after death -- A year after he died, Prince's lucrative second career is taking off. The industry moguls he despised are calling the shots — and his wishes don't apply."**](http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 April 2017 about Bravado, Bremer Trust, Carver County, Charles Koppelman, Comerica, contract, Graceland, Graceland Holdings, hologram, merchandise, Michael Jackson, museum, Omarr Baker, Spotify, Susan Rogers, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/))
 
 ----
 
- - [**"Deals ensure cash keeps flowing to unsettled Prince estate"**](https://apnews.com/ea32a54490474eccad7364653ab698f8) in [Associated Press News](https://apnews.com/) on 16 April 2017 about 3rdEyeGirl, Alfred Jackson, Celebration 2017, Comerica Bank & Trust, Graceland, Joel Weinshanker, John R. Nelson, Kevin Eide, Liv Warfield, Morris Day, museum, New Power Generation, Norrine Nelson, Omarr Baker, Prince Estate, Sharon Nelson, Shelby J., Spotify, The Time, Tidal, Tyka Nelson, Universal Music Group, Van Jones ([mirror](https://web.archive.org/web/*/https://apnews.com/ea32a54490474eccad7364653ab698f8))
+ - [**"Deals ensure cash keeps flowing to unsettled Prince estate"**](https://apnews.com/ea32a54490474eccad7364653ab698f8) in [Associated Press News](https://apnews.com/) on 16 April 2017 about 3rdEyeGirl, Alfred Jackson, Celebration 2017, Comerica, Comerica Bank & Trust, Graceland, Joel Weinshanker, John R. Nelson, Kevin Eide, Liv Warfield, Morris Day, museum, New Power Generation, Norrine Nelson, Omarr Baker, Prince Estate, Sharon Nelson, Shelby J., Spotify, The Time, Tidal, Tyka Nelson, Universal Music Group, Van Jones ([mirror](https://web.archive.org/web/*/https://apnews.com/ea32a54490474eccad7364653ab698f8))
 
 ----
 
- - [**"Judge: Appeals holding up Prince estate determination"**](https://apnews.com/c26a8f91fcbc4e25b4138a17edc9c56e) in [Associated Press News](https://apnews.com/) on 12 January 2017 about Alfred Jackson, Bremer Trust, Carver County, contract, John Nelson, Kevin Eide, Michael Jackson, Omarr Baker, Prince Estate, Tyka Nelson, Van Jones ([mirror](https://web.archive.org/web/*/https://apnews.com/c26a8f91fcbc4e25b4138a17edc9c56e))
+ - [**"Judge: Appeals holding up Prince estate determination"**](https://apnews.com/c26a8f91fcbc4e25b4138a17edc9c56e) in [Associated Press News](https://apnews.com/) on 12 January 2017 about Alfred Jackson, Bremer Trust, Carver County, Comerica, contract, John Nelson, Kevin Eide, Michael Jackson, Omarr Baker, Prince Estate, Tyka Nelson, Van Jones ([mirror](https://web.archive.org/web/*/https://apnews.com/c26a8f91fcbc4e25b4138a17edc9c56e))
 
 ----
 
@@ -88,7 +88,7 @@
 
 ----
 
- - [**"Prince siblings stand to make millions but keep low profiles"**](https://apnews.com/e1c3f1ca7f2e4a2a9baa312560ea6379) in [Associated Press News](https://apnews.com/) on 3 May 2016 about Alfred Jackson, Duane Nelson, John L. Nelson, John R. Nelson, Norrine Nelson, Omarr Baker, Prince Estate, Sharon Nelson, The Prince Estate, Tyka Nelson, U Got the Look (song) ([mirror](https://web.archive.org/web/*/https://apnews.com/e1c3f1ca7f2e4a2a9baa312560ea6379))
+ - [**"Prince siblings stand to make millions but keep low profiles"**](https://apnews.com/e1c3f1ca7f2e4a2a9baa312560ea6379) in [Associated Press News](https://apnews.com/) on 3 May 2016 about Alfred Jackson, Duane Nelson, John L. Nelson, John R. Nelson, Norrine Nelson, Omarr Baker, Prince Estate, probate court, Sharon Nelson, The Prince Estate, Tyka Nelson, U Got the Look (song) ([mirror](https://web.archive.org/web/*/https://apnews.com/e1c3f1ca7f2e4a2a9baa312560ea6379))
 
 ----
 
@@ -96,7 +96,7 @@
 
 ----
 
- - [**"Prince siblings in probate court in 1st hearing on estate"**](https://apnews.com/881e8ee95c4745da831b027fa9d9c93b) in [Associated Press News](https://apnews.com/) on 2 May 2016 about Alfred Jackson, Bremer Trust, Carver County, John Nelson, Kevin Eide, Norrine Nelson, Omarr Baker, Sharon Nelson, Tyka Nelson, University of Minnesota ([mirror](https://web.archive.org/web/*/https://apnews.com/881e8ee95c4745da831b027fa9d9c93b))
+ - [**"Prince siblings in probate court in 1st hearing on estate"**](https://apnews.com/881e8ee95c4745da831b027fa9d9c93b) in [Associated Press News](https://apnews.com/) on 2 May 2016 about Alfred Jackson, Bremer Trust, Carver County, John Nelson, Kevin Eide, Norrine Nelson, Omarr Baker, probate court, Sharon Nelson, Tyka Nelson, University of Minnesota ([mirror](https://web.archive.org/web/*/https://apnews.com/881e8ee95c4745da831b027fa9d9c93b))
 
 ----
 

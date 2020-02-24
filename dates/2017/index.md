@@ -86,7 +86,7 @@
 
 ## October 2017 (9)
 
- - [**"AM Prep-Segue -- PRINCE HEIRS COMPLAIN ABOUT EXECUTOR"**](https://apnews.com/1a747d45ed414fbe9752c5b2c7e2063f) in [Associated Press News](https://apnews.com/) on 31 October 2017 about Comerica Bank & Trust, John R. Nelson, vault ([mirror](https://web.archive.org/web/*/https://apnews.com/1a747d45ed414fbe9752c5b2c7e2063f))
+ - [**"AM Prep-Segue -- PRINCE HEIRS COMPLAIN ABOUT EXECUTOR"**](https://apnews.com/1a747d45ed414fbe9752c5b2c7e2063f) in [Associated Press News](https://apnews.com/) on 31 October 2017 about Comerica, Comerica Bank & Trust, John R. Nelson, vault ([mirror](https://web.archive.org/web/*/https://apnews.com/1a747d45ed414fbe9752c5b2c7e2063f))
 
 ----
 
@@ -96,7 +96,7 @@
 
 ----
 
- - [**"3 Prince heirs ask judge to remove estate administrator"**](https://apnews.com/0ab4827f56ec45b6be9ace1fbceadd95) in [Associated Press News](https://apnews.com/) on 30 October 2017 about Comerica Bank & Trust, John R. Nelson ([mirror](https://web.archive.org/web/*/https://apnews.com/0ab4827f56ec45b6be9ace1fbceadd95))
+ - [**"3 Prince heirs ask judge to remove estate administrator"**](https://apnews.com/0ab4827f56ec45b6be9ace1fbceadd95) in [Associated Press News](https://apnews.com/) on 30 October 2017 about Comerica, Comerica Bank & Trust, John R. Nelson ([mirror](https://web.archive.org/web/*/https://apnews.com/0ab4827f56ec45b6be9ace1fbceadd95))
 
 ----
 
@@ -116,7 +116,7 @@
 
 ----
 
- - [**"APNewsBreak: Prince tapes moved to California; 2 heirs angry"**](https://apnews.com/7fc066b10aa546e2977a0a85fc8ecb3b) in [Associated Press News](https://apnews.com/) on 12 October 2017 about Alfred Jackson, Carver County, Comerica Bank & Trust, Iron Mountain, Iron Mountain Entertainment Services, John R. Nelson, Kevin Eide, museum, Norrine Nelson, Omarr Baker, Sharon Nelson, Tyka Nelson ([mirror](https://web.archive.org/web/*/https://apnews.com/7fc066b10aa546e2977a0a85fc8ecb3b))
+ - [**"APNewsBreak: Prince tapes moved to California; 2 heirs angry"**](https://apnews.com/7fc066b10aa546e2977a0a85fc8ecb3b) in [Associated Press News](https://apnews.com/) on 12 October 2017 about Alfred Jackson, Carver County, Comerica, Comerica Bank & Trust, Iron Mountain, Iron Mountain Entertainment Services, John R. Nelson, Kevin Eide, museum, Norrine Nelson, Omarr Baker, Sharon Nelson, Tyka Nelson ([mirror](https://web.archive.org/web/*/https://apnews.com/7fc066b10aa546e2977a0a85fc8ecb3b))
 
 ----
 
@@ -342,7 +342,7 @@
 
 ----
 
- - [**"It’s Official: Prince’s Estate Manager and Universal Music Group Move to Nullify Recorded-Music Deal"**](https://variety.com/2017/music/news/its-official-princes-estate-manager-and-universal-music-group-move-to-nullify-recorded-music-deal-1202436842/) by Jem Aswad in [Variety](https://variety.com/) on 19 May 2017 about Alfred Jackson, Charles Koppelman, Comerica Bank & Trust, contract, John R. Nelson, Kevin Eide, merchandise, Norrine Nelson, Omarr Baker, Sharon Nelson, Spotify, Troy Carter, Tyka Nelson, Universal Music Group, Van Jones, Warner Bros. Records ([mirror](https://web.archive.org/web/*/https://variety.com/2017/music/news/its-official-princes-estate-manager-and-universal-music-group-move-to-nullify-recorded-music-deal-1202436842/))
+ - [**"It’s Official: Prince’s Estate Manager and Universal Music Group Move to Nullify Recorded-Music Deal"**](https://variety.com/2017/music/news/its-official-princes-estate-manager-and-universal-music-group-move-to-nullify-recorded-music-deal-1202436842/) by Jem Aswad in [Variety](https://variety.com/) on 19 May 2017 about Alfred Jackson, Charles Koppelman, Comerica, Comerica Bank & Trust, contract, John R. Nelson, Kevin Eide, merchandise, Norrine Nelson, Omarr Baker, Sharon Nelson, Spotify, Troy Carter, Tyka Nelson, Universal Music Group, Van Jones, Warner Bros. Records ([mirror](https://web.archive.org/web/*/https://variety.com/2017/music/news/its-official-princes-estate-manager-and-universal-music-group-move-to-nullify-recorded-music-deal-1202436842/))
 
 ----
 
@@ -358,7 +358,7 @@
 
 ----
 
- - [**"Prince has 6 heirs who will inherit what he left behind -- 13 months after his death, there are finally some answers on who will get Prince's estate."**](https://bringmethenews.com/news/prince-6-heirs-will-inherit-belongings) in [Bring Me The News](https://bringmethenews.com/) on 19 May 2017 about Carver County ([mirror](https://web.archive.org/web/*/https://bringmethenews.com/news/prince-6-heirs-will-inherit-belongings))
+ - [**"Prince has 6 heirs who will inherit what he left behind -- 13 months after his death, there are finally some answers on who will get Prince's estate."**](https://bringmethenews.com/news/prince-6-heirs-will-inherit-belongings) in [Bring Me The News](https://bringmethenews.com/) on 19 May 2017 about Carver County, fentanyl overdose ([mirror](https://web.archive.org/web/*/https://bringmethenews.com/news/prince-6-heirs-will-inherit-belongings))
 
 ----
 
@@ -384,7 +384,7 @@
 
 ----
 
- - [**"A year after Prince's death, these questions remain unanswered"**](https://usatoday.com/story/life/music/2017/04/20/death-prince-one-year-later-what-do-we-know/100180398/) in [USA Today](https://usatoday.com/) on 21 April 2017 about Amy Conners, Apple Music, bootleg, Carver County, fentanyl, George Ian Boxill, Howard Kornfeld, Kevin Eide, Manuela Testolini, Mayte, Mayte Garcia, memoir, Michael Schulenberg, museum, Paisley Park Enterprises, Patrick Cousins, Spotify, Tidal, Tyka Nelson, Universal Music Group, vault ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2017/04/20/death-prince-one-year-later-what-do-we-know/100180398/))
+ - [**"A year after Prince's death, these questions remain unanswered"**](https://usatoday.com/story/life/music/2017/04/20/death-prince-one-year-later-what-do-we-know/100180398/) in [USA Today](https://usatoday.com/) on 21 April 2017 about Amy Conners, Apple Music, bootleg, Carver County, Comerica, fentanyl, George Ian Boxill, Howard Kornfeld, Kevin Eide, Manuela Testolini, Mayte, Mayte Garcia, memoir, Michael Schulenberg, museum, Paisley Park Enterprises, Patrick Cousins, probate court, Spotify, Tidal, Tyka Nelson, Universal Music Group, vault ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2017/04/20/death-prince-one-year-later-what-do-we-know/100180398/))
 
 ----
 
@@ -392,7 +392,7 @@
 
 ----
 
- - [**"George Clinton gets Paisley Park's Prince celebration off to a funky start"**](https://usatoday.com/story/life/music/2017/04/21/george-clinton-gets-paisley-parks-prince-celebration-off-funky-start/100736612/) in [USA Today](https://usatoday.com/) on 21 April 2017 about Celebration, Celebration 2017, Dave Chappelle, fentanyl, George Clinton, Jungle Love (song), Morris Hayes, New Power Generation, The Revolution ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2017/04/21/george-clinton-gets-paisley-parks-prince-celebration-off-funky-start/100736612/))
+ - [**"George Clinton gets Paisley Park's Prince celebration off to a funky start"**](https://usatoday.com/story/life/music/2017/04/21/george-clinton-gets-paisley-parks-prince-celebration-off-funky-start/100736612/) in [USA Today](https://usatoday.com/) on 21 April 2017 about Celebration, Celebration 2017, Dave Chappelle, fentanyl, fentanyl overdose, George Clinton, Jungle Love (song), Morris Hayes, New Power Generation, The Revolution ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2017/04/21/george-clinton-gets-paisley-parks-prince-celebration-off-funky-start/100736612/))
 
 ----
 
@@ -408,7 +408,7 @@
 
 ----
 
- - [**"The Latest: Prince fans join ‘purple family’ at Paisley Park"**](https://apnews.com/26c3f25587514065a9f72fbfd1d96bab) in [Associated Press News](https://apnews.com/) on 21 April 2017 about fentanyl, First Avenue (place), museum ([mirror](https://web.archive.org/web/*/https://apnews.com/26c3f25587514065a9f72fbfd1d96bab))
+ - [**"The Latest: Prince fans join ‘purple family’ at Paisley Park"**](https://apnews.com/26c3f25587514065a9f72fbfd1d96bab) in [Associated Press News](https://apnews.com/) on 21 April 2017 about fentanyl, fentanyl overdose, First Avenue (place), museum ([mirror](https://web.archive.org/web/*/https://apnews.com/26c3f25587514065a9f72fbfd1d96bab))
 
 ----
 
@@ -464,7 +464,7 @@
 
 ----
 
- - [**"Floodgates are about to open on Prince's career after death -- A year after he died, Prince's lucrative second career is taking off. The industry moguls he despised are calling the shots — and his wishes don't apply."**](http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 April 2017 about Bravado, Bremer Trust, Carver County, Charles Koppelman, contract, Graceland, Graceland Holdings, merchandise, Michael Jackson, museum, Omarr Baker, Spotify, Susan Rogers, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/))
+ - [**"Floodgates are about to open on Prince's career after death -- A year after he died, Prince's lucrative second career is taking off. The industry moguls he despised are calling the shots — and his wishes don't apply."**](http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 April 2017 about Bravado, Bremer Trust, Carver County, Charles Koppelman, Comerica, contract, Graceland, Graceland Holdings, hologram, merchandise, Michael Jackson, museum, Omarr Baker, Spotify, Susan Rogers, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/))
 
 ----
 
@@ -492,7 +492,7 @@
 
 ----
 
- - [**"The Latest: Doctor disputes prescribing opioids for Prince"**](https://apnews.com/d72d2ba9032e45debb8ac8700dc24e84) in [Associated Press News](https://apnews.com/) on 17 April 2017 about fentanyl, Kirk Johnson, Michael Todd Schulenberg ([mirror](https://web.archive.org/web/*/https://apnews.com/d72d2ba9032e45debb8ac8700dc24e84))
+ - [**"The Latest: Doctor disputes prescribing opioids for Prince"**](https://apnews.com/d72d2ba9032e45debb8ac8700dc24e84) in [Associated Press News](https://apnews.com/) on 17 April 2017 about fentanyl, fentanyl overdose, Kirk Johnson, Michael Todd Schulenberg ([mirror](https://web.archive.org/web/*/https://apnews.com/d72d2ba9032e45debb8ac8700dc24e84))
 
 ----
 
@@ -504,7 +504,7 @@
 
 ----
 
- - [**"Deals ensure cash keeps flowing to unsettled Prince estate"**](https://apnews.com/ea32a54490474eccad7364653ab698f8) in [Associated Press News](https://apnews.com/) on 16 April 2017 about 3rdEyeGirl, Alfred Jackson, Celebration 2017, Comerica Bank & Trust, Graceland, Joel Weinshanker, John R. Nelson, Kevin Eide, Liv Warfield, Morris Day, museum, New Power Generation, Norrine Nelson, Omarr Baker, Prince Estate, Sharon Nelson, Shelby J., Spotify, The Time, Tidal, Tyka Nelson, Universal Music Group, Van Jones ([mirror](https://web.archive.org/web/*/https://apnews.com/ea32a54490474eccad7364653ab698f8))
+ - [**"Deals ensure cash keeps flowing to unsettled Prince estate"**](https://apnews.com/ea32a54490474eccad7364653ab698f8) in [Associated Press News](https://apnews.com/) on 16 April 2017 about 3rdEyeGirl, Alfred Jackson, Celebration 2017, Comerica, Comerica Bank & Trust, Graceland, Joel Weinshanker, John R. Nelson, Kevin Eide, Liv Warfield, Morris Day, museum, New Power Generation, Norrine Nelson, Omarr Baker, Prince Estate, Sharon Nelson, Shelby J., Spotify, The Time, Tidal, Tyka Nelson, Universal Music Group, Van Jones ([mirror](https://web.archive.org/web/*/https://apnews.com/ea32a54490474eccad7364653ab698f8))
 
 ----
 
@@ -524,7 +524,7 @@
 
 ----
 
- - [**"Lady Gaga ex-manager Troy Carter named Prince estate adviser"**](https://apnews.com/727501ec378a400184818701510f73ea) by The Associated Press in [Associated Press News](https://apnews.com/) on 12 April 2017 about Bremer Trust, Charles Koppelman, Comerica Bank & Trust, Prince Estate, Spotify, Troy Carter ([mirror](https://web.archive.org/web/*/https://apnews.com/727501ec378a400184818701510f73ea))
+ - [**"Lady Gaga ex-manager Troy Carter named Prince estate adviser"**](https://apnews.com/727501ec378a400184818701510f73ea) by The Associated Press in [Associated Press News](https://apnews.com/) on 12 April 2017 about Bremer Trust, Charles Koppelman, Comerica, Comerica Bank & Trust, Prince Estate, Spotify, Troy Carter ([mirror](https://web.archive.org/web/*/https://apnews.com/727501ec378a400184818701510f73ea))
 
 ----
 
@@ -666,7 +666,7 @@
 
 ## January 2017 (15)
 
- - [**"Carver County judge decides not to appoint a co-executor for Prince's estate -- Comerica Bank & Trust will solely manage the multimillion estate."**](http://www.startribune.com/carver-county-judge-decides-not-to-appoint-a-co-executor-for-prince-s-estate/411678576/) by Mary Lynn Smith in [Minneapolis Star Tribune](http://www.startribune.com/) on 24 January 2017 about Carver County, Comerica Bank & Trust ([mirror](https://web.archive.org/web/*/http://www.startribune.com/carver-county-judge-decides-not-to-appoint-a-co-executor-for-prince-s-estate/411678576/))
+ - [**"Carver County judge decides not to appoint a co-executor for Prince's estate -- Comerica Bank & Trust will solely manage the multimillion estate."**](http://www.startribune.com/carver-county-judge-decides-not-to-appoint-a-co-executor-for-prince-s-estate/411678576/) by Mary Lynn Smith in [Minneapolis Star Tribune](http://www.startribune.com/) on 24 January 2017 about Carver County, Comerica, Comerica Bank & Trust ([mirror](https://web.archive.org/web/*/http://www.startribune.com/carver-county-judge-decides-not-to-appoint-a-co-executor-for-prince-s-estate/411678576/))
 
 ----
 
@@ -698,7 +698,7 @@
 
 ----
 
- - [**"Judge: Appeals holding up Prince estate determination"**](https://apnews.com/c26a8f91fcbc4e25b4138a17edc9c56e) in [Associated Press News](https://apnews.com/) on 12 January 2017 about Alfred Jackson, Bremer Trust, Carver County, contract, John Nelson, Kevin Eide, Michael Jackson, Omarr Baker, Prince Estate, Tyka Nelson, Van Jones ([mirror](https://web.archive.org/web/*/https://apnews.com/c26a8f91fcbc4e25b4138a17edc9c56e))
+ - [**"Judge: Appeals holding up Prince estate determination"**](https://apnews.com/c26a8f91fcbc4e25b4138a17edc9c56e) in [Associated Press News](https://apnews.com/) on 12 January 2017 about Alfred Jackson, Bremer Trust, Carver County, Comerica, contract, John Nelson, Kevin Eide, Michael Jackson, Omarr Baker, Prince Estate, Tyka Nelson, Van Jones ([mirror](https://web.archive.org/web/*/https://apnews.com/c26a8f91fcbc4e25b4138a17edc9c56e))
 
 ----
 
@@ -718,7 +718,7 @@
 
 ----
 
- - [**"Inventory of Prince’s estate lists cash, property, gold bars"**](https://apnews.com/5ac8a5faa09440a4a8cc2cb43db35ee8) in [Associated Press News](https://apnews.com/) on 7 January 2017 about Bremer Trust, Carver County, fentanyl, LotusFlow3r (album), NPG Records, Paisley Park Enterprises, trademark ([mirror](https://web.archive.org/web/*/https://apnews.com/5ac8a5faa09440a4a8cc2cb43db35ee8))
+ - [**"Inventory of Prince’s estate lists cash, property, gold bars"**](https://apnews.com/5ac8a5faa09440a4a8cc2cb43db35ee8) in [Associated Press News](https://apnews.com/) on 7 January 2017 about Bremer Trust, Carver County, fentanyl, LotusFlow3r (album), NPG Records, Paisley Park Enterprises, probate court, trademark ([mirror](https://web.archive.org/web/*/https://apnews.com/5ac8a5faa09440a4a8cc2cb43db35ee8))
 
 ----
 

@@ -16,23 +16,23 @@
 
 ----
 
- - [**"The Latest: Klobuchar points to Prince in talking drug issue"**](https://apnews.com/a1facc441faa45c08d75963d0e49a9dc) by The Associated Press in [Associated Press News](https://apnews.com/) on 19 February 2019 about fentanyl ([mirror](https://web.archive.org/web/*/https://apnews.com/a1facc441faa45c08d75963d0e49a9dc))
+ - [**"The Latest: Klobuchar points to Prince in talking drug issue"**](https://apnews.com/a1facc441faa45c08d75963d0e49a9dc) by The Associated Press in [Associated Press News](https://apnews.com/) on 19 February 2019 about fentanyl, fentanyl overdose ([mirror](https://web.archive.org/web/*/https://apnews.com/a1facc441faa45c08d75963d0e49a9dc))
 
 ----
 
- - [**"The Latest: Klobuchar points to Prince in talking drug issue"**](http://www.startribune.com/the-latest-klobuchar-points-to-prince-in-talking-drug-issue/506023432/) by The Associated Press in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 February 2019 about fentanyl ([mirror](https://web.archive.org/web/*/http://www.startribune.com/the-latest-klobuchar-points-to-prince-in-talking-drug-issue/506023432/))
+ - [**"The Latest: Klobuchar points to Prince in talking drug issue"**](http://www.startribune.com/the-latest-klobuchar-points-to-prince-in-talking-drug-issue/506023432/) by The Associated Press in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 February 2019 about fentanyl, fentanyl overdose ([mirror](https://web.archive.org/web/*/http://www.startribune.com/the-latest-klobuchar-points-to-prince-in-talking-drug-issue/506023432/))
 
 ----
 
- - [**"Prince estate to Trump: Stop using music at rallies"**](https://apnews.com/af0a5a4fc34d48ffb9f29da4c5ef9771) by The Associated Press in [Associated Press News](https://apnews.com/) on 12 October 2018 about Donald Trump, Omarr Baker, Prince Estate, Trump, White House (place) ([mirror](https://web.archive.org/web/*/https://apnews.com/af0a5a4fc34d48ffb9f29da4c5ef9771))
+ - [**"Prince estate to Trump: Stop using music at rallies"**](https://apnews.com/af0a5a4fc34d48ffb9f29da4c5ef9771) by The Associated Press in [Associated Press News](https://apnews.com/) on 12 October 2018 about Donald Trump, fentanyl overdose, Omarr Baker, Prince Estate, Trump, White House (place) ([mirror](https://web.archive.org/web/*/https://apnews.com/af0a5a4fc34d48ffb9f29da4c5ef9771))
 
 ----
 
- - [**"Prince’s estate sues alleged European piracy network"**](https://apnews.com/7175907b6f0247e79365312718c0b1b6) by The Associated Press in [Associated Press News](https://apnews.com/) on 15 September 2018 about bootleg, piracy ([mirror](https://web.archive.org/web/*/https://apnews.com/7175907b6f0247e79365312718c0b1b6))
+ - [**"Prince’s estate sues alleged European piracy network"**](https://apnews.com/7175907b6f0247e79365312718c0b1b6) by The Associated Press in [Associated Press News](https://apnews.com/) on 15 September 2018 about bootleg, fentanyl overdose, piracy ([mirror](https://web.archive.org/web/*/https://apnews.com/7175907b6f0247e79365312718c0b1b6))
 
 ----
 
- - [**"Prince estate, Sony ink distribution deal for 35 albums"**](https://apnews.com/3f346190027d4601a34fa81f7cf165a2) by The Associated Press in [Associated Press News](https://apnews.com/) on 27 June 2018 about 3121 (album), Emancipation (album), Legacy Recordings, Prince Estate, Sony Music Entertainment, The Gold Experience (album), The Prince Estate, Troy Carter ([mirror](https://web.archive.org/web/*/https://apnews.com/3f346190027d4601a34fa81f7cf165a2))
+ - [**"Prince estate, Sony ink distribution deal for 35 albums"**](https://apnews.com/3f346190027d4601a34fa81f7cf165a2) by The Associated Press in [Associated Press News](https://apnews.com/) on 27 June 2018 about 3121 (album), Emancipation (album), fentanyl overdose, Legacy Recordings, Prince Estate, Sony Music Entertainment, The Gold Experience (album), The Prince Estate, Troy Carter ([mirror](https://web.archive.org/web/*/https://apnews.com/3f346190027d4601a34fa81f7cf165a2))
 
 ----
 
@@ -46,7 +46,7 @@
 
 ----
 
- - [**"Lady Gaga ex-manager Troy Carter named Prince estate adviser"**](https://apnews.com/727501ec378a400184818701510f73ea) by The Associated Press in [Associated Press News](https://apnews.com/) on 12 April 2017 about Bremer Trust, Charles Koppelman, Comerica Bank & Trust, Prince Estate, Spotify, Troy Carter ([mirror](https://web.archive.org/web/*/https://apnews.com/727501ec378a400184818701510f73ea))
+ - [**"Lady Gaga ex-manager Troy Carter named Prince estate adviser"**](https://apnews.com/727501ec378a400184818701510f73ea) by The Associated Press in [Associated Press News](https://apnews.com/) on 12 April 2017 about Bremer Trust, Charles Koppelman, Comerica, Comerica Bank & Trust, Prince Estate, Spotify, Troy Carter ([mirror](https://web.archive.org/web/*/https://apnews.com/727501ec378a400184818701510f73ea))
 
 ----
 

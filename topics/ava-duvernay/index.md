@@ -40,7 +40,7 @@
 
 ----
 
- - [**"Prince's estate to assume management of Paisley Park -- Graceland Holdings will no longer run the Chanhassen museum as of Oct. 1."**](http://www.startribune.com/prince-s-estate-to-assume-management-of-paisley-park/558364602/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 August 2019 about Ava DuVernay, Bangles, contract, Graceland, Graceland Holdings, Joel Weinshanker, Kirk Johnson, memoir, museum, Netflix, Sharon Nelson, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-estate-to-assume-management-of-paisley-park/558364602/))
+ - [**"Prince's estate to assume management of Paisley Park -- Graceland Holdings will no longer run the Chanhassen museum as of Oct. 1."**](http://www.startribune.com/prince-s-estate-to-assume-management-of-paisley-park/558364602/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 August 2019 about Ava DuVernay, Bangles, Comerica, contract, Graceland, Graceland Holdings, Joel Weinshanker, Kirk Johnson, memoir, museum, Netflix, Sharon Nelson, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-estate-to-assume-management-of-paisley-park/558364602/))
 
 ----
 

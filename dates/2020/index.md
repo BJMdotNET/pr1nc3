@@ -1,6 +1,18 @@
 # 2020
 
-## February 2020 (26)
+## February 2020 (30)
+
+ - [**"Prince estate fight gets even thornier with heir's death and will"**](https://www.bizjournals.com/twincities/news/2020/02/23/prince-estate-fight-gets-even-thornier-with-heirs.html) in [Minneapolis / St. Paul Business Journal](https://www.bizjournals.com/twincities/) on 23 February 2020 about Alfred Jackson, hologram, Michael Jackson, museum, Paisley Park Studios (place), Primary Wave, Prince Estate, Raffles Van Exel, Tyka Nelson, Whitney Houston ([mirror](https://web.archive.org/web/*/https://www.bizjournals.com/twincities/news/2020/02/23/prince-estate-fight-gets-even-thornier-with-heirs.html))
+
+----
+
+ - [**"Death of Prince heir complicates estate settlement even more -- Nearly a third of Prince's estate could go to parties not related to him after two siblings signed agreements with Primary Wave."**](http://www.startribune.com/untimely-death-of-prince-heir-complicates-estate-settlement-even-more/568089142/) by Jon Bream, Mike Hughlett in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 February 2020 about Alfred Jackson, Carver County, Comerica, Dennis Patrick, fentanyl, fentanyl overdose, Fredrikson & Byron, hologram, John Nelson, L. Londell McMillan, Lawrence Mestel, Leonardo Starke, Michael Jackson, Mitchell Hamline Law Review, O.J. Simpson, Primary Wave, Prince Estate, probate court, Raffles Van Exel, Shawn Jackson, The Prince Estate, Troy Carter, Tyka Nelson, Whitney Houston, Xcel Energy Center (place), YouTube ([mirror](https://web.archive.org/web/*/http://www.startribune.com/untimely-death-of-prince-heir-complicates-estate-settlement-even-more/568089142/))
+
+----
+
+ - [**"Prince’s The Rainbow Children and One Nite Alone Reissues Announced -- His long out-of-print albums from the early ’00s are coming to vinyl"**](https://pitchfork.com/news/princes-the-rainbow-childrenandnbspandandnbspone-nite-alone-reissues-announced/) in [Pitchfork](https://pitchfork.com/) on 21 February 2020 about Live at The Aladdin Las Vegas (DVD), One Nite Alone (album), One Nite Alone… (album), One Nite Alone…Live! (album), The Rainbow Children (album) ([mirror](https://web.archive.org/web/*/https://pitchfork.com/news/princes-the-rainbow-childrenandnbspandandnbspone-nite-alone-reissues-announced/))
+
+----
 
  - [**"From Tony Toni Toné’ through 'Jimmy Lee,' Raphael Saadiq has crafted a unique career"**](http://www.citypages.com/music/from-tony-toni-tone-through-jimmy-lee-raphael-saadiq-has-crafted-a-unique-career/568004321) in [City Pages](http://www.citypages.com/) on 20 February 2020 about D’Angelo, First Avenue (place), Raphael Saadiq, Sheila E. ([mirror](https://web.archive.org/web/*/http://www.citypages.com/music/from-tony-toni-tone-through-jimmy-lee-raphael-saadiq-has-crafted-a-unique-career/568004321))
 
@@ -11,6 +23,10 @@
 ----
 
  - [**"Prince Estate’s Next Wave of Reissues: ‘Rainbow Children,’ ‘One Nite Alone …’ -- Prince’s 2001 and 2002 output, including live albums and concert film, to be rereleased April 17th"**](https://www.rollingstone.com/music/music-news/prince-rainbow-children-one-nite-alone-reissues-955535/) in [Rolling Stone](https://www.rollingstone.com/) on 20 February 2020 about Chaos and Disorder (album), Emancipation (album), Legacy Recordings, Live at The Aladdin Las Vegas (DVD), NPG Records, One Nite Alone (album), Pop Life (song), Prince Estate, Prince Live at The Aladdin Las Vegas (DVD), The Prince Estate, The Rainbow Children (album), The Versace Experience (Prelude 2 Gold) (album), Up All Nite with Prince: The One Nite Alone Collection (album) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-news/prince-rainbow-children-one-nite-alone-reissues-955535/))
+
+----
+
+ - [**"Prince's Estate & Music Now Worth $200 Million"**](https://theblast.com/c/prince-music-estate-net-worth-200-million-battle-brothers-money-alfred-jackson) in [theblast.com](https://theblast.com/) on 20 February 2020 about Alfred Jackson, Prince Estate, Shawn Jackson ([mirror](https://web.archive.org/web/*/https://theblast.com/c/prince-music-estate-net-worth-200-million-battle-brothers-money-alfred-jackson))
 
 ----
 
@@ -90,15 +106,15 @@
 
 ----
 
- - [**"Prince doctor to pay $4K civil penalty for painkiller prescription"**](https://www.twincities.com/2020/02/03/prince-doctor-to-pay-4k-civil-penalty-for-painkiller-prescription/) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 3 February 2020 about Amy Conners, fentanyl, Kirk Johnson, Michael Schulenberg, oxycodone ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2020/02/03/prince-doctor-to-pay-4k-civil-penalty-for-painkiller-prescription/))
+ - [**"Prince doctor to pay $4K civil penalty for painkiller prescription"**](https://www.twincities.com/2020/02/03/prince-doctor-to-pay-4k-civil-penalty-for-painkiller-prescription/) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 3 February 2020 about Amy Conners, fentanyl, fentanyl overdose, Kirk Johnson, Michael Schulenberg, oxycodone ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2020/02/03/prince-doctor-to-pay-4k-civil-penalty-for-painkiller-prescription/))
 
 ----
 
- - [**"Prince doctor to pay $4K civil penalty for prescription"**](https://www.yahoo.com/entertainment/prince-doctor-pay-4k-civil-224903514.html) in [Yahoo! Entertainment](https://www.yahoo.com/entertainment/) on 3 February 2020 about Amy Conners, fentanyl, Kirk Johnson, Michael Schulenberg, oxycodone ([mirror](https://web.archive.org/web/*/https://www.yahoo.com/entertainment/prince-doctor-pay-4k-civil-224903514.html))
+ - [**"Prince doctor to pay $4K civil penalty for prescription"**](https://www.yahoo.com/entertainment/prince-doctor-pay-4k-civil-224903514.html) in [Yahoo! Entertainment](https://www.yahoo.com/entertainment/) on 3 February 2020 about Amy Conners, fentanyl, fentanyl overdose, Kirk Johnson, Michael Schulenberg, oxycodone ([mirror](https://web.archive.org/web/*/https://www.yahoo.com/entertainment/prince-doctor-pay-4k-civil-224903514.html))
 
 ----
 
- - [**"Prince doctor to pay $4K civil penalty for prescription"**](https://apnews.com/58492fc402a996c118253c33f6fd5703) in [Associated Press News](https://apnews.com/) on 3 February 2020 about Amy Conners, fentanyl, Kirk Johnson, Michael Schulenberg, oxycodone ([mirror](https://web.archive.org/web/*/https://apnews.com/58492fc402a996c118253c33f6fd5703))
+ - [**"Prince doctor to pay $4K civil penalty for prescription"**](https://apnews.com/58492fc402a996c118253c33f6fd5703) in [Associated Press News](https://apnews.com/) on 3 February 2020 about Amy Conners, fentanyl, fentanyl overdose, Kirk Johnson, Michael Schulenberg, oxycodone ([mirror](https://web.archive.org/web/*/https://apnews.com/58492fc402a996c118253c33f6fd5703))
 
 ----
 
@@ -148,7 +164,7 @@
 
 ----
 
- - [**"Deep cuts and idiosyncratic visions highlight Grammy tribute concert to Prince"**](https://www.latimes.com/entertainment-arts/music/story/2020-01-29/prince-tribute-grammys-foo-fighters-beck-john-legend) in [Los Angeles Times](https://www.latimes.com/) on 29 January 2020 about Aretha Franklin, Baby I’m a Star (song), Bangles, Beck, Chris Martin, Coldplay, Controversy (song), Earth, Wind & Fire, fentanyl, Foo Fighters, Fred Armisen, Gary Clark Jr., Grammy Award, H.E.R., Jimmy Jam, John Legend, Jungle Love (song), Ken Ehrlich, Let’s Go Crazy (song), Los Angeles Convention Center (place), Manic Monday (song), Mavis Staples, Mountains (song), Nothing Compares 2 U (song), Pop Life (song), Purple Rain (song), Sheila E., St. Vincent, Super Bowl, Super Bowl XLI (event), Susanna Hoffs, Terry Lewis, The Beautiful Ones (song), The Glamorous Life (song), The Revolution, The Time, Under the Cherry Moon (movie) ([mirror](https://web.archive.org/web/*/https://www.latimes.com/entertainment-arts/music/story/2020-01-29/prince-tribute-grammys-foo-fighters-beck-john-legend))
+ - [**"Deep cuts and idiosyncratic visions highlight Grammy tribute concert to Prince"**](https://www.latimes.com/entertainment-arts/music/story/2020-01-29/prince-tribute-grammys-foo-fighters-beck-john-legend) in [Los Angeles Times](https://www.latimes.com/) on 29 January 2020 about Aretha Franklin, Baby I’m a Star (song), Bangles, Beck, Chris Martin, Coldplay, Controversy (song), Earth, Wind & Fire, fentanyl, fentanyl overdose, Foo Fighters, Fred Armisen, Gary Clark Jr., Grammy Award, H.E.R., Jimmy Jam, John Legend, Jungle Love (song), Ken Ehrlich, Let’s Go Crazy (song), Los Angeles Convention Center (place), Manic Monday (song), Mavis Staples, Mountains (song), Nothing Compares 2 U (song), Pop Life (song), Purple Rain (song), Sheila E., St. Vincent, Super Bowl, Super Bowl XLI (event), Susanna Hoffs, Terry Lewis, The Beautiful Ones (song), The Glamorous Life (song), The Revolution, The Time, Under the Cherry Moon (movie) ([mirror](https://web.archive.org/web/*/https://www.latimes.com/entertainment-arts/music/story/2020-01-29/prince-tribute-grammys-foo-fighters-beck-john-legend))
 
 ----
 
@@ -208,7 +224,7 @@
 
 ----
 
- - [**"Paisley Park Aims to Register Prince's Signature Purple as a Trademark for Use on Buildings"**](https://www.thefashionlaw.com/home/princes-estate-in-the-midst-of-fight-to-register-the-color-purple-for-use-on-buildings) in [www.thefashionlaw.com](https://www.thefashionlaw.com/) on 27 January 2020 about Cloud guitar, Grammy Award, Jamie Starr, museum, Paisley Park Enterprises, trademark ([mirror](https://web.archive.org/web/*/https://www.thefashionlaw.com/home/princes-estate-in-the-midst-of-fight-to-register-the-color-purple-for-use-on-buildings))
+ - [**"Paisley Park Aims to Register Prince's Signature Purple as a Trademark for Use on Buildings"**](https://www.thefashionlaw.com/home/princes-estate-in-the-midst-of-fight-to-register-the-color-purple-for-use-on-buildings) in [www.thefashionlaw.com](https://www.thefashionlaw.com/) on 27 January 2020 about Cloud guitar, Grammy Award, hologram, Jamie Starr, museum, Paisley Park Enterprises, trademark ([mirror](https://web.archive.org/web/*/https://www.thefashionlaw.com/home/princes-estate-in-the-midst-of-fight-to-register-the-color-purple-for-use-on-buildings))
 
 ----
 
@@ -336,39 +352,39 @@
 
 ----
 
- - [**"Prince relatives agree to drop wrongful death lawsuits"**](http://www.citypages.com/music/prince-relatives-agree-to-drop-wrongful-death-lawsuits/567137941) in [City Pages](http://www.citypages.com/) on 20 January 2020 about Howard Kornfeld, Illinois (place), Kirk Johnson, Michael Schulenberg, oxycodone, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/http://www.citypages.com/music/prince-relatives-agree-to-drop-wrongful-death-lawsuits/567137941))
+ - [**"Prince relatives agree to drop wrongful death lawsuits"**](http://www.citypages.com/music/prince-relatives-agree-to-drop-wrongful-death-lawsuits/567137941) in [City Pages](http://www.citypages.com/) on 20 January 2020 about Howard Kornfeld, Illinois (place), Kirk Johnson, Michael Schulenberg, oxycodone, Primary Wave, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/http://www.citypages.com/music/prince-relatives-agree-to-drop-wrongful-death-lawsuits/567137941))
 
 ----
 
- - [**"Prince wrongful death case dismissed; estate case continues"**](https://www.mprnews.org/story/2020/01/20/prince-wrongful-death-case-dismissed-estate-case-continues) by Amy Forliti (Associated Press) in [MPR News (Minnesota Public Radio)](https://www.mprnews.org/) on 20 January 2020 about Alfred Jackson, fentanyl, Howard Kornfeld, Illinois (place), John Nelson, Kirk Johnson, Michael Jackson, Michael Schulenberg, oxycodone, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/https://www.mprnews.org/story/2020/01/20/prince-wrongful-death-case-dismissed-estate-case-continues))
+ - [**"Prince wrongful death case dismissed; estate case continues"**](https://www.mprnews.org/story/2020/01/20/prince-wrongful-death-case-dismissed-estate-case-continues) by Amy Forliti (Associated Press) in [MPR News (Minnesota Public Radio)](https://www.mprnews.org/) on 20 January 2020 about Alfred Jackson, fentanyl, fentanyl overdose, Howard Kornfeld, Illinois (place), John Nelson, Kirk Johnson, Michael Jackson, Michael Schulenberg, oxycodone, Primary Wave, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/https://www.mprnews.org/story/2020/01/20/prince-wrongful-death-case-dismissed-estate-case-continues))
 
 ----
 
- - [**"Prince wrongful death case dismissed; estate case continues"**](https://apnews.com/720413e6c7ff85e224936f008554f2a0) by Amy Forliti (Associated Press) in [Associated Press News](https://apnews.com/) on 20 January 2020 about Alfred Jackson, fentanyl, Howard Kornfeld, Illinois (place), John Nelson, Kirk Johnson, Michael Jackson, Michael Schulenberg, oxycodone, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/https://apnews.com/720413e6c7ff85e224936f008554f2a0))
+ - [**"Prince wrongful death case dismissed; estate case continues"**](https://apnews.com/720413e6c7ff85e224936f008554f2a0) by Amy Forliti (Associated Press) in [Associated Press News](https://apnews.com/) on 20 January 2020 about Alfred Jackson, fentanyl, fentanyl overdose, Howard Kornfeld, Illinois (place), John Nelson, Kirk Johnson, Michael Jackson, Michael Schulenberg, oxycodone, Primary Wave, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/https://apnews.com/720413e6c7ff85e224936f008554f2a0))
 
 ----
 
- - [**"Prince wrongful death case dismissed; estate case continues"**](https://www.twincities.com/2020/01/20/princes-estate-quietly-dismisses-wrongful-death-claims/) by Amy Forliti (Associated Press) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 20 January 2020 about Alfred Jackson, fentanyl, Howard Kornfeld, Illinois (place), John Nelson, Kirk Johnson, Michael Jackson, Michael Schulenberg, oxycodone, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2020/01/20/princes-estate-quietly-dismisses-wrongful-death-claims/))
+ - [**"Prince wrongful death case dismissed; estate case continues"**](https://www.twincities.com/2020/01/20/princes-estate-quietly-dismisses-wrongful-death-claims/) by Amy Forliti (Associated Press) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 20 January 2020 about Alfred Jackson, fentanyl, fentanyl overdose, Howard Kornfeld, Illinois (place), John Nelson, Kirk Johnson, Michael Jackson, Michael Schulenberg, oxycodone, Primary Wave, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2020/01/20/princes-estate-quietly-dismisses-wrongful-death-claims/))
 
 ----
 
- - [**"Prince wrongful death case dismissed; estate case continues"**](http://www.startribune.com/prince-wrongful-death-case-dismissed-estate-case-continues/567136462/) by Amy Forliti (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 January 2020 about Alfred Jackson, fentanyl, Howard Kornfeld, Illinois (place), John Nelson, Kirk Johnson, Michael Jackson, Michael Schulenberg, oxycodone, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-wrongful-death-case-dismissed-estate-case-continues/567136462/))
+ - [**"Prince wrongful death case dismissed; estate case continues"**](http://www.startribune.com/prince-wrongful-death-case-dismissed-estate-case-continues/567136462/) by Amy Forliti (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 January 2020 about Alfred Jackson, fentanyl, fentanyl overdose, Howard Kornfeld, Illinois (place), John Nelson, Kirk Johnson, Michael Jackson, Michael Schulenberg, oxycodone, Primary Wave, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-wrongful-death-case-dismissed-estate-case-continues/567136462/))
 
 ----
 
- - [**"Prince Wrongful Death Case Dismissed; Estate Case Continues"**](https://www.billboard.com/articles/business/legal-and-management/8548465/prince-wrongful-death-case-dismissed-estate-case) in [Billboard](https://www.billboard.com/) on 20 January 2020 about Alfred Jackson, fentanyl, Howard Kornfeld, Illinois (place), John Nelson, Kirk Johnson, Michael Jackson, Michael Schulenberg, oxycodone, Prince Estate, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/business/legal-and-management/8548465/prince-wrongful-death-case-dismissed-estate-case))
+ - [**"Prince Wrongful Death Case Dismissed; Estate Case Continues"**](https://www.billboard.com/articles/business/legal-and-management/8548465/prince-wrongful-death-case-dismissed-estate-case) in [Billboard](https://www.billboard.com/) on 20 January 2020 about Alfred Jackson, fentanyl, fentanyl overdose, Howard Kornfeld, Illinois (place), John Nelson, Kirk Johnson, Michael Jackson, Michael Schulenberg, oxycodone, Primary Wave, Prince Estate, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/business/legal-and-management/8548465/prince-wrongful-death-case-dismissed-estate-case))
 
 ----
 
- - [**"Prince Wrongful Death Case Dismissed; Estate Case Continues"**](https://minnesota.cbslocal.com/2020/01/20/prince-wrongful-death-case-dismissed-estate-case-continues/) by Amy Forliti (Associated Press) in [WCCO - CBS Minnesota](https://minnesota.cbslocal.com/) on 20 January 2020 about Alfred Jackson, fentanyl, Howard Kornfeld, Illinois (place), John Nelson, Kirk Johnson, Michael Jackson, Michael Schulenberg, oxycodone, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/https://minnesota.cbslocal.com/2020/01/20/prince-wrongful-death-case-dismissed-estate-case-continues/))
+ - [**"Prince Wrongful Death Case Dismissed; Estate Case Continues"**](https://minnesota.cbslocal.com/2020/01/20/prince-wrongful-death-case-dismissed-estate-case-continues/) by Amy Forliti (Associated Press) in [WCCO - CBS Minnesota](https://minnesota.cbslocal.com/) on 20 January 2020 about Alfred Jackson, fentanyl, fentanyl overdose, Howard Kornfeld, Illinois (place), John Nelson, Kirk Johnson, Michael Jackson, Michael Schulenberg, oxycodone, Primary Wave, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/https://minnesota.cbslocal.com/2020/01/20/prince-wrongful-death-case-dismissed-estate-case-continues/))
 
 ----
 
- - [**"Prince wrongful death case quietly dismissed; attempts to settle estate continue"**](https://usatoday.com/story/entertainment/music/2020/01/20/prince-wrongful-death-case-dismissed-work-settle-estate-continues/4527342002/) in [USA Today](https://usatoday.com/) on 20 January 2020 about Alfred Jackson, fentanyl, Howard Kornfeld, Illinois (place), John Nelson, Kirk Johnson, Michael Jackson, Michael Schulenberg, oxycodone, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/entertainment/music/2020/01/20/prince-wrongful-death-case-dismissed-work-settle-estate-continues/4527342002/))
+ - [**"Prince wrongful death case quietly dismissed; attempts to settle estate continue"**](https://usatoday.com/story/entertainment/music/2020/01/20/prince-wrongful-death-case-dismissed-work-settle-estate-continues/4527342002/) in [USA Today](https://usatoday.com/) on 20 January 2020 about Alfred Jackson, fentanyl, fentanyl overdose, Howard Kornfeld, Illinois (place), John Nelson, Kirk Johnson, Michael Jackson, Michael Schulenberg, oxycodone, Primary Wave, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/entertainment/music/2020/01/20/prince-wrongful-death-case-dismissed-work-settle-estate-continues/4527342002/))
 
 ----
 
- - [**"Prince's estate quietly dismisses wrongful-death claims -- Legal settlements likely in wrongful-death suits. "**](http://www.startribune.com/prince-wrongful-death-claims-dismissed/567141982/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 January 2020 about Atlanta (place), Carver County, Carver County District Court, Cecilie M. Loidolt, fentanyl, Illinois (place), John Goetz, Kirk Johnson, Michael Schulenberg, North Memorial Health Care, Paul C. Peterson, Percocet, Prince Estate, Recovery Without Walls, Rodger Hagen, The Prince Estate, Trinity Medical Center (place), Walgreens ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-wrongful-death-claims-dismissed/567141982/))
+ - [**"Prince's estate quietly dismisses wrongful-death claims -- Legal settlements likely in wrongful-death suits. "**](http://www.startribune.com/prince-wrongful-death-claims-dismissed/567141982/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 January 2020 about Atlanta (place), Carver County, Carver County District Court, Cecilie M. Loidolt, fentanyl, Illinois (place), John Goetz, Kirk Johnson, Michael Schulenberg, North Memorial Health Care, Paul C. Peterson, Percocet, Prince Estate, probate court, Recovery Without Walls, Rodger Hagen, The Prince Estate, Trinity Medical Center (place), Walgreens ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-wrongful-death-claims-dismissed/567141982/))
 
 ----
 

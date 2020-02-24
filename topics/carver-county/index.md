@@ -1,6 +1,10 @@
 # Carver County
 
- - [**"Prince's estate quietly dismisses wrongful-death claims -- Legal settlements likely in wrongful-death suits. "**](http://www.startribune.com/prince-wrongful-death-claims-dismissed/567141982/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 January 2020 about Atlanta (place), Carver County, Carver County District Court, Cecilie M. Loidolt, fentanyl, Illinois (place), John Goetz, Kirk Johnson, Michael Schulenberg, North Memorial Health Care, Paul C. Peterson, Percocet, Prince Estate, Recovery Without Walls, Rodger Hagen, The Prince Estate, Trinity Medical Center (place), Walgreens ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-wrongful-death-claims-dismissed/567141982/))
+ - [**"Death of Prince heir complicates estate settlement even more -- Nearly a third of Prince's estate could go to parties not related to him after two siblings signed agreements with Primary Wave."**](http://www.startribune.com/untimely-death-of-prince-heir-complicates-estate-settlement-even-more/568089142/) by Jon Bream, Mike Hughlett in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 February 2020 about Alfred Jackson, Carver County, Comerica, Dennis Patrick, fentanyl, fentanyl overdose, Fredrikson & Byron, hologram, John Nelson, L. Londell McMillan, Lawrence Mestel, Leonardo Starke, Michael Jackson, Mitchell Hamline Law Review, O.J. Simpson, Primary Wave, Prince Estate, probate court, Raffles Van Exel, Shawn Jackson, The Prince Estate, Troy Carter, Tyka Nelson, Whitney Houston, Xcel Energy Center (place), YouTube ([mirror](https://web.archive.org/web/*/http://www.startribune.com/untimely-death-of-prince-heir-complicates-estate-settlement-even-more/568089142/))
+
+----
+
+ - [**"Prince's estate quietly dismisses wrongful-death claims -- Legal settlements likely in wrongful-death suits. "**](http://www.startribune.com/prince-wrongful-death-claims-dismissed/567141982/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 January 2020 about Atlanta (place), Carver County, Carver County District Court, Cecilie M. Loidolt, fentanyl, Illinois (place), John Goetz, Kirk Johnson, Michael Schulenberg, North Memorial Health Care, Paul C. Peterson, Percocet, Prince Estate, probate court, Recovery Without Walls, Rodger Hagen, The Prince Estate, Trinity Medical Center (place), Walgreens ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-wrongful-death-claims-dismissed/567141982/))
 
 ----
 
@@ -12,15 +16,15 @@
 
 ----
 
- - [**"Prince’s bodyguard deposed in wrongful death lawsuit"**](https://apnews.com/8e68cf25ceb245319425b5952c5d1be8) in [Associated Press News](https://apnews.com/) on 30 May 2019 about Atlanta (place), Carver County, Clayton Tyler, fentanyl, Illinois (place), Kirk Johnson, Michael Schulenberg, Moline, Illinois (place), North Memorial Health Care, oxycodone, Walgreens ([mirror](https://web.archive.org/web/*/https://apnews.com/8e68cf25ceb245319425b5952c5d1be8))
+ - [**"Prince’s bodyguard deposed in wrongful death lawsuit"**](https://apnews.com/8e68cf25ceb245319425b5952c5d1be8) in [Associated Press News](https://apnews.com/) on 30 May 2019 about Atlanta (place), Carver County, Clayton Tyler, fentanyl, fentanyl overdose, Illinois (place), Kirk Johnson, Michael Schulenberg, Moline, Illinois (place), North Memorial Health Care, oxycodone, Walgreens ([mirror](https://web.archive.org/web/*/https://apnews.com/8e68cf25ceb245319425b5952c5d1be8))
 
 ----
 
- - [**"Prince died three years ago, his estate is still unsettled: Here's why"**](https://usatoday.com/story/life/2019/04/18/prince-died-3-years-ago-his-estate-still-unsettled-heres-why/3344038002/) in [USA Today](https://usatoday.com/) on 21 April 2019 about Alfred Jackson, auction, Bremer Trust, Caribbean, Carver County, Celebration 2019, Comerica Bank & Trust, exhibition, fentanyl, Graceland, Graceland Holdings, Joel Weinshanker, John Nelson, Kevin Eide, Legacy Recordings, merchandise, museum, My Name Is Prince (exhibition), Norrine Nelson, Omarr Baker, Prince Anthology: 1995-2010 (album), Prince Estate, Prince: In Concert On The Big Screen, Sharon Nelson, The Prince Estate, Turks and Caicos, Tyka Nelson, University of Minnesota ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/2019/04/18/prince-died-3-years-ago-his-estate-still-unsettled-heres-why/3344038002/))
+ - [**"Prince died three years ago, his estate is still unsettled: Here's why"**](https://usatoday.com/story/life/2019/04/18/prince-died-3-years-ago-his-estate-still-unsettled-heres-why/3344038002/) in [USA Today](https://usatoday.com/) on 21 April 2019 about Alfred Jackson, auction, Bremer Trust, Caribbean, Carver County, Celebration 2019, Comerica, Comerica Bank & Trust, exhibition, fentanyl, Graceland, Graceland Holdings, Joel Weinshanker, John Nelson, Kevin Eide, Legacy Recordings, merchandise, museum, My Name Is Prince (exhibition), Norrine Nelson, Omarr Baker, Prince Anthology: 1995-2010 (album), Prince Estate, Prince: In Concert On The Big Screen, probate court, Sharon Nelson, The Prince Estate, Turks and Caicos, Tyka Nelson, University of Minnesota ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/2019/04/18/prince-died-3-years-ago-his-estate-still-unsettled-heres-why/3344038002/))
 
 ----
 
- - [**"The Prince Estate’s Big Plans: Inside the Upcoming Purple Reign -- The late singer’s estate is currently exploring licensing, future releases and even a hotel – all while trying to consider what Prince would have wanted"**](https://www.rollingstone.com/music/music-features/prince-estate-big-plans-upcoming-purple-reign-698529/) in [Rolling Stone](https://www.rollingstone.com/) on 13 July 2018 about Bravado, Bremer Trust, Carver County, Charles Koppelman, First Avenue (place), Graceland, John Nelson, Joni Mitchell, Mayte, Mayte Garcia, merchandise, Michael Howe, Minnesota Twins, museum, Nothing Compares 2 U (song), Piano and a Microphone 1983 (album), Prince Estate, Questlove, Sharon Nelson, Spotify, Super Bowl, Susan Rogers, The Prince Estate, Troy Carter, Tyka Nelson, Warner Bros. Records ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/prince-estate-big-plans-upcoming-purple-reign-698529/))
+ - [**"The Prince Estate’s Big Plans: Inside the Upcoming Purple Reign -- The late singer’s estate is currently exploring licensing, future releases and even a hotel – all while trying to consider what Prince would have wanted"**](https://www.rollingstone.com/music/music-features/prince-estate-big-plans-upcoming-purple-reign-698529/) in [Rolling Stone](https://www.rollingstone.com/) on 13 July 2018 about Bravado, Bremer Trust, Carver County, Charles Koppelman, Comerica, First Avenue (place), Graceland, hologram, John Nelson, Joni Mitchell, Mayte, Mayte Garcia, merchandise, Michael Howe, Minnesota Twins, museum, Nothing Compares 2 U (song), Piano and a Microphone 1983 (album), Prince Estate, Questlove, Sharon Nelson, Spotify, Super Bowl, Susan Rogers, The Prince Estate, Troy Carter, Tyka Nelson, Warner Bros. Records ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/prince-estate-big-plans-upcoming-purple-reign-698529/))
 
 ----
 
@@ -28,7 +32,7 @@
 
 ----
 
- - [**"As Prince heirs stew, bankers and lawyers cash in on estate"**](https://apnews.com/d9847863113d4ff8bd70850dd6a6cd2e) by Steve Karnowski (Associated Press) in [Associated Press News](https://apnews.com/) on 18 May 2018 about Alfred Jackson, Carver County, John L. Nelson, John R. Nelson, Kevin Eide, Norrine Nelson, Omarr Baker, Sharon Nelson, Spotify, Tidal, Troy Carter, Tyka Nelson, Universal Music Group ([mirror](https://web.archive.org/web/*/https://apnews.com/d9847863113d4ff8bd70850dd6a6cd2e))
+ - [**"As Prince heirs stew, bankers and lawyers cash in on estate"**](https://apnews.com/d9847863113d4ff8bd70850dd6a6cd2e) by Steve Karnowski (Associated Press) in [Associated Press News](https://apnews.com/) on 18 May 2018 about Alfred Jackson, Carver County, Comerica, John L. Nelson, John R. Nelson, Kevin Eide, Norrine Nelson, Omarr Baker, Sharon Nelson, Spotify, Tidal, Troy Carter, Tyka Nelson, Universal Music Group ([mirror](https://web.archive.org/web/*/https://apnews.com/d9847863113d4ff8bd70850dd6a6cd2e))
 
 ----
 
@@ -72,11 +76,11 @@
 
 ----
 
- - [**"The Latest: Doctor said Prince ‘doesn’t look really well’"**](https://apnews.com/acdea18b521b4b7d886de7b06c2d302a) in [Associated Press News](https://apnews.com/) on 20 April 2018 about Carver County, fentanyl, Kirk Johnson, Mark Metz, Meron Bekure, Michael Todd Schulenberg, oxycodone, Vicodin ([mirror](https://web.archive.org/web/*/https://apnews.com/acdea18b521b4b7d886de7b06c2d302a))
+ - [**"The Latest: Doctor said Prince ‘doesn’t look really well’"**](https://apnews.com/acdea18b521b4b7d886de7b06c2d302a) in [Associated Press News](https://apnews.com/) on 20 April 2018 about Carver County, fentanyl, fentanyl overdose, Kirk Johnson, Mark Metz, Meron Bekure, Michael Todd Schulenberg, oxycodone, Vicodin ([mirror](https://web.archive.org/web/*/https://apnews.com/acdea18b521b4b7d886de7b06c2d302a))
 
 ----
 
- - [**"The Latest: Prince’s sister troubled by death investigation"**](https://apnews.com/86c8143c68534f938b13dfea97e2315e) in [Associated Press News](https://apnews.com/) on 20 April 2018 about Carver County, fentanyl, Mark Metz ([mirror](https://web.archive.org/web/*/https://apnews.com/86c8143c68534f938b13dfea97e2315e))
+ - [**"The Latest: Prince’s sister troubled by death investigation"**](https://apnews.com/86c8143c68534f938b13dfea97e2315e) in [Associated Press News](https://apnews.com/) on 20 April 2018 about Carver County, fentanyl, fentanyl overdose, Mark Metz ([mirror](https://web.archive.org/web/*/https://apnews.com/86c8143c68534f938b13dfea97e2315e))
 
 ----
 
@@ -96,7 +100,7 @@
 
 ----
 
- - [**"Minnesota prosecutors plan announcement on Prince death"**](https://apnews.com/abc25c93e0d14b1bab5b300fc6ef8735) in [Associated Press News](https://apnews.com/) on 18 April 2018 about Andrew Kornfeld, Carver County, fentanyl, Howard Kornfeld, Illinois (place), Kirk Johnson, Mark Metz, Michael Todd Schulenberg, Moline, Illinois (place), oxycodone, toxicology report ([mirror](https://web.archive.org/web/*/https://apnews.com/abc25c93e0d14b1bab5b300fc6ef8735))
+ - [**"Minnesota prosecutors plan announcement on Prince death"**](https://apnews.com/abc25c93e0d14b1bab5b300fc6ef8735) in [Associated Press News](https://apnews.com/) on 18 April 2018 about Andrew Kornfeld, Carver County, fentanyl, fentanyl overdose, Howard Kornfeld, Illinois (place), Kirk Johnson, Mark Metz, Michael Todd Schulenberg, Moline, Illinois (place), oxycodone, toxicology report ([mirror](https://web.archive.org/web/*/https://apnews.com/abc25c93e0d14b1bab5b300fc6ef8735))
 
 ----
 
@@ -112,7 +116,7 @@
 
 ----
 
- - [**"APNewsBreak: Prince tapes moved to California; 2 heirs angry"**](https://apnews.com/7fc066b10aa546e2977a0a85fc8ecb3b) in [Associated Press News](https://apnews.com/) on 12 October 2017 about Alfred Jackson, Carver County, Comerica Bank & Trust, Iron Mountain, Iron Mountain Entertainment Services, John R. Nelson, Kevin Eide, museum, Norrine Nelson, Omarr Baker, Sharon Nelson, Tyka Nelson ([mirror](https://web.archive.org/web/*/https://apnews.com/7fc066b10aa546e2977a0a85fc8ecb3b))
+ - [**"APNewsBreak: Prince tapes moved to California; 2 heirs angry"**](https://apnews.com/7fc066b10aa546e2977a0a85fc8ecb3b) in [Associated Press News](https://apnews.com/) on 12 October 2017 about Alfred Jackson, Carver County, Comerica, Comerica Bank & Trust, Iron Mountain, Iron Mountain Entertainment Services, John R. Nelson, Kevin Eide, museum, Norrine Nelson, Omarr Baker, Sharon Nelson, Tyka Nelson ([mirror](https://web.archive.org/web/*/https://apnews.com/7fc066b10aa546e2977a0a85fc8ecb3b))
 
 ----
 
@@ -128,11 +132,11 @@
 
 ----
 
- - [**"Prince has 6 heirs who will inherit what he left behind -- 13 months after his death, there are finally some answers on who will get Prince's estate."**](https://bringmethenews.com/news/prince-6-heirs-will-inherit-belongings) in [Bring Me The News](https://bringmethenews.com/) on 19 May 2017 about Carver County ([mirror](https://web.archive.org/web/*/https://bringmethenews.com/news/prince-6-heirs-will-inherit-belongings))
+ - [**"Prince has 6 heirs who will inherit what he left behind -- 13 months after his death, there are finally some answers on who will get Prince's estate."**](https://bringmethenews.com/news/prince-6-heirs-will-inherit-belongings) in [Bring Me The News](https://bringmethenews.com/) on 19 May 2017 about Carver County, fentanyl overdose ([mirror](https://web.archive.org/web/*/https://bringmethenews.com/news/prince-6-heirs-will-inherit-belongings))
 
 ----
 
- - [**"A year after Prince's death, these questions remain unanswered"**](https://usatoday.com/story/life/music/2017/04/20/death-prince-one-year-later-what-do-we-know/100180398/) in [USA Today](https://usatoday.com/) on 21 April 2017 about Amy Conners, Apple Music, bootleg, Carver County, fentanyl, George Ian Boxill, Howard Kornfeld, Kevin Eide, Manuela Testolini, Mayte, Mayte Garcia, memoir, Michael Schulenberg, museum, Paisley Park Enterprises, Patrick Cousins, Spotify, Tidal, Tyka Nelson, Universal Music Group, vault ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2017/04/20/death-prince-one-year-later-what-do-we-know/100180398/))
+ - [**"A year after Prince's death, these questions remain unanswered"**](https://usatoday.com/story/life/music/2017/04/20/death-prince-one-year-later-what-do-we-know/100180398/) in [USA Today](https://usatoday.com/) on 21 April 2017 about Amy Conners, Apple Music, bootleg, Carver County, Comerica, fentanyl, George Ian Boxill, Howard Kornfeld, Kevin Eide, Manuela Testolini, Mayte, Mayte Garcia, memoir, Michael Schulenberg, museum, Paisley Park Enterprises, Patrick Cousins, probate court, Spotify, Tidal, Tyka Nelson, Universal Music Group, vault ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2017/04/20/death-prince-one-year-later-what-do-we-know/100180398/))
 
 ----
 
@@ -140,7 +144,7 @@
 
 ----
 
- - [**"Floodgates are about to open on Prince's career after death -- A year after he died, Prince's lucrative second career is taking off. The industry moguls he despised are calling the shots — and his wishes don't apply."**](http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 April 2017 about Bravado, Bremer Trust, Carver County, Charles Koppelman, contract, Graceland, Graceland Holdings, merchandise, Michael Jackson, museum, Omarr Baker, Spotify, Susan Rogers, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/))
+ - [**"Floodgates are about to open on Prince's career after death -- A year after he died, Prince's lucrative second career is taking off. The industry moguls he despised are calling the shots — and his wishes don't apply."**](http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 April 2017 about Bravado, Bremer Trust, Carver County, Charles Koppelman, Comerica, contract, Graceland, Graceland Holdings, hologram, merchandise, Michael Jackson, museum, Omarr Baker, Spotify, Susan Rogers, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/))
 
 ----
 
@@ -160,7 +164,7 @@
 
 ----
 
- - [**"Carver County judge decides not to appoint a co-executor for Prince's estate -- Comerica Bank & Trust will solely manage the multimillion estate."**](http://www.startribune.com/carver-county-judge-decides-not-to-appoint-a-co-executor-for-prince-s-estate/411678576/) by Mary Lynn Smith in [Minneapolis Star Tribune](http://www.startribune.com/) on 24 January 2017 about Carver County, Comerica Bank & Trust ([mirror](https://web.archive.org/web/*/http://www.startribune.com/carver-county-judge-decides-not-to-appoint-a-co-executor-for-prince-s-estate/411678576/))
+ - [**"Carver County judge decides not to appoint a co-executor for Prince's estate -- Comerica Bank & Trust will solely manage the multimillion estate."**](http://www.startribune.com/carver-county-judge-decides-not-to-appoint-a-co-executor-for-prince-s-estate/411678576/) by Mary Lynn Smith in [Minneapolis Star Tribune](http://www.startribune.com/) on 24 January 2017 about Carver County, Comerica, Comerica Bank & Trust ([mirror](https://web.archive.org/web/*/http://www.startribune.com/carver-county-judge-decides-not-to-appoint-a-co-executor-for-prince-s-estate/411678576/))
 
 ----
 
@@ -168,15 +172,15 @@
 
 ----
 
- - [**"Judge: Appeals holding up Prince estate determination"**](https://apnews.com/c26a8f91fcbc4e25b4138a17edc9c56e) in [Associated Press News](https://apnews.com/) on 12 January 2017 about Alfred Jackson, Bremer Trust, Carver County, contract, John Nelson, Kevin Eide, Michael Jackson, Omarr Baker, Prince Estate, Tyka Nelson, Van Jones ([mirror](https://web.archive.org/web/*/https://apnews.com/c26a8f91fcbc4e25b4138a17edc9c56e))
+ - [**"Judge: Appeals holding up Prince estate determination"**](https://apnews.com/c26a8f91fcbc4e25b4138a17edc9c56e) in [Associated Press News](https://apnews.com/) on 12 January 2017 about Alfred Jackson, Bremer Trust, Carver County, Comerica, contract, John Nelson, Kevin Eide, Michael Jackson, Omarr Baker, Prince Estate, Tyka Nelson, Van Jones ([mirror](https://web.archive.org/web/*/https://apnews.com/c26a8f91fcbc4e25b4138a17edc9c56e))
 
 ----
 
- - [**"Inventory of Prince’s estate lists cash, property, gold bars"**](https://apnews.com/5ac8a5faa09440a4a8cc2cb43db35ee8) in [Associated Press News](https://apnews.com/) on 7 January 2017 about Bremer Trust, Carver County, fentanyl, LotusFlow3r (album), NPG Records, Paisley Park Enterprises, trademark ([mirror](https://web.archive.org/web/*/https://apnews.com/5ac8a5faa09440a4a8cc2cb43db35ee8))
+ - [**"Inventory of Prince’s estate lists cash, property, gold bars"**](https://apnews.com/5ac8a5faa09440a4a8cc2cb43db35ee8) in [Associated Press News](https://apnews.com/) on 7 January 2017 about Bremer Trust, Carver County, fentanyl, LotusFlow3r (album), NPG Records, Paisley Park Enterprises, probate court, trademark ([mirror](https://web.archive.org/web/*/https://apnews.com/5ac8a5faa09440a4a8cc2cb43db35ee8))
 
 ----
 
- - [**"Documents: Jay Z’s company wanted to manage Prince’s music"**](https://apnews.com/20b81c0084f9422c9022841d87c0c4d8) in [Associated Press News](https://apnews.com/) on 6 December 2016 about Bremer Trust, Carver County, Charles Koppelman, Tidal ([mirror](https://web.archive.org/web/*/https://apnews.com/20b81c0084f9422c9022841d87c0c4d8))
+ - [**"Documents: Jay Z’s company wanted to manage Prince’s music"**](https://apnews.com/20b81c0084f9422c9022841d87c0c4d8) in [Associated Press News](https://apnews.com/) on 6 December 2016 about Bremer Trust, Carver County, Charles Koppelman, probate court, Tidal ([mirror](https://web.archive.org/web/*/https://apnews.com/20b81c0084f9422c9022841d87c0c4d8))
 
 ----
 
@@ -184,11 +188,11 @@
 
 ----
 
- - [**"Judge rejects claim to Prince estate from woman and girl"**](https://apnews.com/26dcb05f3dc549dd8d6f415e3b6f2602) in [Associated Press News](https://apnews.com/) on 27 October 2016 about Brianna Nelson, Carver County, Duane Nelson, fentanyl, John L. Nelson, Kevin Eide, Prince Estate, Victoria Nelson ([mirror](https://web.archive.org/web/*/https://apnews.com/26dcb05f3dc549dd8d6f415e3b6f2602))
+ - [**"Judge rejects claim to Prince estate from woman and girl"**](https://apnews.com/26dcb05f3dc549dd8d6f415e3b6f2602) in [Associated Press News](https://apnews.com/) on 27 October 2016 about Brianna Nelson, Carver County, Duane Nelson, fentanyl, fentanyl overdose, John L. Nelson, Kevin Eide, Prince Estate, Victoria Nelson ([mirror](https://web.archive.org/web/*/https://apnews.com/26dcb05f3dc549dd8d6f415e3b6f2602))
 
 ----
 
- - [**"Prince’s siblings: Purported niece, grandniece are not heirs"**](https://apnews.com/52db4bd7107b4c8a9fedf31612ff26ab) in [Associated Press News](https://apnews.com/) on 18 October 2016 about Brianna Nelson, Carver County, fentanyl, Kevin Eide, Tyka Nelson, Victoria Nelson ([mirror](https://web.archive.org/web/*/https://apnews.com/52db4bd7107b4c8a9fedf31612ff26ab))
+ - [**"Prince’s siblings: Purported niece, grandniece are not heirs"**](https://apnews.com/52db4bd7107b4c8a9fedf31612ff26ab) in [Associated Press News](https://apnews.com/) on 18 October 2016 about Brianna Nelson, Carver County, fentanyl, fentanyl overdose, Kevin Eide, Tyka Nelson, Victoria Nelson ([mirror](https://web.archive.org/web/*/https://apnews.com/52db4bd7107b4c8a9fedf31612ff26ab))
 
 ----
 
@@ -248,15 +252,15 @@
 
 ----
 
- - [**"A Prince wish, Paisley Park eyed for museum like Graceland"**](https://apnews.com/e126f8cb38574b21b3cf0f5dd0843873) in [Associated Press News](https://apnews.com/) on 10 June 2016 about Bremer Trust, Carver County, exhibit, exhibition, fentanyl, Graceland, Jeremiah Freed, Michael Jackson, motorcycle, museum ([mirror](https://web.archive.org/web/*/https://apnews.com/e126f8cb38574b21b3cf0f5dd0843873))
+ - [**"A Prince wish, Paisley Park eyed for museum like Graceland"**](https://apnews.com/e126f8cb38574b21b3cf0f5dd0843873) in [Associated Press News](https://apnews.com/) on 10 June 2016 about Bremer Trust, Carver County, exhibit, exhibition, fentanyl, fentanyl overdose, Graceland, Jeremiah Freed, Michael Jackson, motorcycle, museum ([mirror](https://web.archive.org/web/*/https://apnews.com/e126f8cb38574b21b3cf0f5dd0843873))
 
 ----
 
- - [**"A Prince wish, Paisley Park eyed for museum like Graceland"**](http://www.startribune.com/a-prince-wish-paisley-park-eyed-for-museum-like-graceland/382529341/) by Steve Karnowski (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 June 2016 about Bremer Trust, Carver County, exhibit, exhibition, fentanyl, Graceland, Jeremiah Freed, Michael Jackson, motorcycle, museum ([mirror](https://web.archive.org/web/*/http://www.startribune.com/a-prince-wish-paisley-park-eyed-for-museum-like-graceland/382529341/))
+ - [**"A Prince wish, Paisley Park eyed for museum like Graceland"**](http://www.startribune.com/a-prince-wish-paisley-park-eyed-for-museum-like-graceland/382529341/) by Steve Karnowski (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 June 2016 about Bremer Trust, Carver County, exhibit, exhibition, fentanyl, fentanyl overdose, Graceland, Jeremiah Freed, Michael Jackson, motorcycle, museum ([mirror](https://web.archive.org/web/*/http://www.startribune.com/a-prince-wish-paisley-park-eyed-for-museum-like-graceland/382529341/))
 
 ----
 
- - [**"News Guide: Prince died of overdose, but questions linger"**](https://apnews.com/e31c398f2bc142d2ae9a05023cebbe7d) in [Associated Press News](https://apnews.com/) on 4 June 2016 about Amy Conners, Andrew Kornfeld, Carver County, fentanyl, Howard Kornfeld, Kirk Johnson, Michael Todd Schulenberg, Tyka Nelson, vault ([mirror](https://web.archive.org/web/*/https://apnews.com/e31c398f2bc142d2ae9a05023cebbe7d))
+ - [**"News Guide: Prince died of overdose, but questions linger"**](https://apnews.com/e31c398f2bc142d2ae9a05023cebbe7d) in [Associated Press News](https://apnews.com/) on 4 June 2016 about Amy Conners, Andrew Kornfeld, Carver County, fentanyl, fentanyl overdose, Howard Kornfeld, Kirk Johnson, Michael Todd Schulenberg, probate court, Tyka Nelson, vault ([mirror](https://web.archive.org/web/*/https://apnews.com/e31c398f2bc142d2ae9a05023cebbe7d))
 
 ----
 
@@ -300,7 +304,7 @@
 
 ----
 
- - [**"Prince's death: The latest"**](https://edition.cnn.com/2016/05/04/entertainment/prince-death-latest/index.html) in [CNN International](https://edition.cnn.com/) on 7 May 2016 about Carver County ([mirror](https://web.archive.org/web/*/https://edition.cnn.com/2016/05/04/entertainment/prince-death-latest/index.html))
+ - [**"Prince's death: The latest"**](https://edition.cnn.com/2016/05/04/entertainment/prince-death-latest/index.html) in [CNN International](https://edition.cnn.com/) on 7 May 2016 about Carver County, probate court ([mirror](https://web.archive.org/web/*/https://edition.cnn.com/2016/05/04/entertainment/prince-death-latest/index.html))
 
 ----
 
@@ -320,7 +324,7 @@
 
 ----
 
- - [**"Prince siblings in probate court in 1st hearing on estate"**](https://apnews.com/881e8ee95c4745da831b027fa9d9c93b) in [Associated Press News](https://apnews.com/) on 2 May 2016 about Alfred Jackson, Bremer Trust, Carver County, John Nelson, Kevin Eide, Norrine Nelson, Omarr Baker, Sharon Nelson, Tyka Nelson, University of Minnesota ([mirror](https://web.archive.org/web/*/https://apnews.com/881e8ee95c4745da831b027fa9d9c93b))
+ - [**"Prince siblings in probate court in 1st hearing on estate"**](https://apnews.com/881e8ee95c4745da831b027fa9d9c93b) in [Associated Press News](https://apnews.com/) on 2 May 2016 about Alfred Jackson, Bremer Trust, Carver County, John Nelson, Kevin Eide, Norrine Nelson, Omarr Baker, probate court, Sharon Nelson, Tyka Nelson, University of Minnesota ([mirror](https://web.archive.org/web/*/https://apnews.com/881e8ee95c4745da831b027fa9d9c93b))
 
 ----
 
@@ -344,7 +348,7 @@
 
 ----
 
- - [**"Prince’s sister says musician had no known will"**](https://apnews.com/b7bcc90e42904f679c07158bf5e851a3) in [Associated Press News](https://apnews.com/) on 27 April 2016 about Bremer Trust, Carver County, First Avenue (place), Michael Jackson, Tyka Nelson, University of Minnesota ([mirror](https://web.archive.org/web/*/https://apnews.com/b7bcc90e42904f679c07158bf5e851a3))
+ - [**"Prince’s sister says musician had no known will"**](https://apnews.com/b7bcc90e42904f679c07158bf5e851a3) in [Associated Press News](https://apnews.com/) on 27 April 2016 about Bremer Trust, Carver County, First Avenue (place), Michael Jackson, probate court, Tyka Nelson, University of Minnesota ([mirror](https://web.archive.org/web/*/https://apnews.com/b7bcc90e42904f679c07158bf5e851a3))
 
 ----
 

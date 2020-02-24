@@ -80,11 +80,11 @@
 
 ----
 
- - [**"AM Prep-Music -- PAISLEY PARK WILL GET NEW MANAGEMENT"**](https://www.princegeorgecitizen.com/am-prep-music-1.23929254) in [Prince George Citizen](https://www.princegeorgecitizen.com/) on 28 August 2019 about contract, Graceland, Graceland Holdings, museum, Sharon Nelson ([mirror](https://web.archive.org/web/*/https://www.princegeorgecitizen.com/am-prep-music-1.23929254))
+ - [**"AM Prep-Music -- PAISLEY PARK WILL GET NEW MANAGEMENT"**](https://www.princegeorgecitizen.com/am-prep-music-1.23929254) in [Prince George Citizen](https://www.princegeorgecitizen.com/) on 28 August 2019 about Comerica, contract, Graceland, Graceland Holdings, museum, Sharon Nelson ([mirror](https://web.archive.org/web/*/https://www.princegeorgecitizen.com/am-prep-music-1.23929254))
 
 ----
 
- - [**"Prince Estate Taking Over Management of Paisley Park From Graceland Holdings"**](https://www.billboard.com/articles/business/8528477/prince-estate-paisley-park-management-graceland) in [Billboard](https://www.billboard.com/) on 27 August 2019 about contract, Graceland, Graceland Holdings, museum, Prince Estate, Sharon Nelson ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/business/8528477/prince-estate-paisley-park-management-graceland))
+ - [**"Prince Estate Taking Over Management of Paisley Park From Graceland Holdings"**](https://www.billboard.com/articles/business/8528477/prince-estate-paisley-park-management-graceland) in [Billboard](https://www.billboard.com/) on 27 August 2019 about Comerica, contract, Graceland, Graceland Holdings, museum, Prince Estate, Sharon Nelson ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/business/8528477/prince-estate-paisley-park-management-graceland))
 
 ----
 
@@ -92,15 +92,15 @@
 
 ----
 
- - [**"Prince’s estate will operate studio complex Paisley Park"**](https://www.twincities.com/2019/08/27/princes-estate-will-operate-studio-complex-paisley-park/) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 27 August 2019 about contract, Graceland, Graceland Holdings, museum, Sharon Nelson ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2019/08/27/princes-estate-will-operate-studio-complex-paisley-park/))
+ - [**"Prince’s estate will operate studio complex Paisley Park"**](https://www.twincities.com/2019/08/27/princes-estate-will-operate-studio-complex-paisley-park/) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 27 August 2019 about Comerica, contract, Graceland, Graceland Holdings, museum, Sharon Nelson ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2019/08/27/princes-estate-will-operate-studio-complex-paisley-park/))
 
 ----
 
- - [**"Prince's estate will operate studio complex Paisley Park"**](http://www.startribune.com/prince-s-estate-will-operate-studio-complex-paisley-park/558425072/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 27 August 2019 about contract, Graceland, Graceland Holdings, museum, Sharon Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-estate-will-operate-studio-complex-paisley-park/558425072/))
+ - [**"Prince's estate will operate studio complex Paisley Park"**](http://www.startribune.com/prince-s-estate-will-operate-studio-complex-paisley-park/558425072/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 27 August 2019 about Comerica, contract, Graceland, Graceland Holdings, museum, Sharon Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-estate-will-operate-studio-complex-paisley-park/558425072/))
 
 ----
 
- - [**"Prince's estate to assume management of Paisley Park -- Graceland Holdings will no longer run the Chanhassen museum as of Oct. 1."**](http://www.startribune.com/prince-s-estate-to-assume-management-of-paisley-park/558364602/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 August 2019 about Ava DuVernay, Bangles, contract, Graceland, Graceland Holdings, Joel Weinshanker, Kirk Johnson, memoir, museum, Netflix, Sharon Nelson, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-estate-to-assume-management-of-paisley-park/558364602/))
+ - [**"Prince's estate to assume management of Paisley Park -- Graceland Holdings will no longer run the Chanhassen museum as of Oct. 1."**](http://www.startribune.com/prince-s-estate-to-assume-management-of-paisley-park/558364602/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 August 2019 about Ava DuVernay, Bangles, Comerica, contract, Graceland, Graceland Holdings, Joel Weinshanker, Kirk Johnson, memoir, museum, Netflix, Sharon Nelson, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-estate-to-assume-management-of-paisley-park/558364602/))
 
 ----
 
@@ -128,7 +128,7 @@
 
 ----
 
- - [**"Prince’s Unearthed ‘Originals’: Collaborators Look Back on the Hits He Passed Along -- As demos of future classics like “Manic Monday” and Nothing Compares 2 U” finally see official release, Apollonia, the Bangles’ Susanna Hoffs, and others recall the artist’s “otherworldly” songwriting talents"**](https://www.rollingstone.com/music/music-features/prince-originals-interview-842940/) by Kory Grow in [Rolling Stone](https://www.rollingstone.com/) on 24 June 2019 about Apollonia 6, Apollonia Kotero, Bangles, contract, George Clinton, Jill Jones, Jungle Love (song), Kenny Rogers, Manic Monday (song), Martika, Mazarati, Nasty Girl (song), Nothing Compares 2 U (song), Originals (album), Peggy McCreary, Prince Estate, Sex Shooter (song), Sheena Easton, Sheila E., Sugar Walls (song), Sunset Sound (place), Susan Rogers, Susanna Hoffs, Susannah Melvoin, The Family, The Prince Estate, The Time, Troy Carter, Vanity 6, vault, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/prince-originals-interview-842940/))
+ - [**"Prince’s Unearthed ‘Originals’: Collaborators Look Back on the Hits He Passed Along -- As demos of future classics like “Manic Monday” and Nothing Compares 2 U” finally see official release, Apollonia, the Bangles’ Susanna Hoffs, and others recall the artist’s “otherworldly” songwriting talents"**](https://www.rollingstone.com/music/music-features/prince-originals-interview-842940/) by Kory Grow in [Rolling Stone](https://www.rollingstone.com/) on 24 June 2019 about Apollonia 6, Apollonia Kotero, Bangles, contract, fentanyl overdose, George Clinton, Jill Jones, Jungle Love (song), Kenny Rogers, Manic Monday (song), Martika, Mazarati, Nasty Girl (song), Nothing Compares 2 U (song), Originals (album), Peggy McCreary, Prince Estate, Sex Shooter (song), Sheena Easton, Sheila E., Sugar Walls (song), Sunset Sound (place), Susan Rogers, Susanna Hoffs, Susannah Melvoin, The Family, The Prince Estate, The Time, Troy Carter, Vanity 6, vault, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/prince-originals-interview-842940/))
 
 ----
 
@@ -176,11 +176,11 @@
 
 ----
 
- - [**"It’s Official: Prince’s Estate Manager and Universal Music Group Move to Nullify Recorded-Music Deal"**](https://variety.com/2017/music/news/its-official-princes-estate-manager-and-universal-music-group-move-to-nullify-recorded-music-deal-1202436842/) by Jem Aswad in [Variety](https://variety.com/) on 19 May 2017 about Alfred Jackson, Charles Koppelman, Comerica Bank & Trust, contract, John R. Nelson, Kevin Eide, merchandise, Norrine Nelson, Omarr Baker, Sharon Nelson, Spotify, Troy Carter, Tyka Nelson, Universal Music Group, Van Jones, Warner Bros. Records ([mirror](https://web.archive.org/web/*/https://variety.com/2017/music/news/its-official-princes-estate-manager-and-universal-music-group-move-to-nullify-recorded-music-deal-1202436842/))
+ - [**"It’s Official: Prince’s Estate Manager and Universal Music Group Move to Nullify Recorded-Music Deal"**](https://variety.com/2017/music/news/its-official-princes-estate-manager-and-universal-music-group-move-to-nullify-recorded-music-deal-1202436842/) by Jem Aswad in [Variety](https://variety.com/) on 19 May 2017 about Alfred Jackson, Charles Koppelman, Comerica, Comerica Bank & Trust, contract, John R. Nelson, Kevin Eide, merchandise, Norrine Nelson, Omarr Baker, Sharon Nelson, Spotify, Troy Carter, Tyka Nelson, Universal Music Group, Van Jones, Warner Bros. Records ([mirror](https://web.archive.org/web/*/https://variety.com/2017/music/news/its-official-princes-estate-manager-and-universal-music-group-move-to-nullify-recorded-music-deal-1202436842/))
 
 ----
 
- - [**"Floodgates are about to open on Prince's career after death -- A year after he died, Prince's lucrative second career is taking off. The industry moguls he despised are calling the shots — and his wishes don't apply."**](http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 April 2017 about Bravado, Bremer Trust, Carver County, Charles Koppelman, contract, Graceland, Graceland Holdings, merchandise, Michael Jackson, museum, Omarr Baker, Spotify, Susan Rogers, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/))
+ - [**"Floodgates are about to open on Prince's career after death -- A year after he died, Prince's lucrative second career is taking off. The industry moguls he despised are calling the shots — and his wishes don't apply."**](http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 April 2017 about Bravado, Bremer Trust, Carver County, Charles Koppelman, Comerica, contract, Graceland, Graceland Holdings, hologram, merchandise, Michael Jackson, museum, Omarr Baker, Spotify, Susan Rogers, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/))
 
 ----
 
@@ -192,7 +192,7 @@
 
 ----
 
- - [**"Judge: Appeals holding up Prince estate determination"**](https://apnews.com/c26a8f91fcbc4e25b4138a17edc9c56e) in [Associated Press News](https://apnews.com/) on 12 January 2017 about Alfred Jackson, Bremer Trust, Carver County, contract, John Nelson, Kevin Eide, Michael Jackson, Omarr Baker, Prince Estate, Tyka Nelson, Van Jones ([mirror](https://web.archive.org/web/*/https://apnews.com/c26a8f91fcbc4e25b4138a17edc9c56e))
+ - [**"Judge: Appeals holding up Prince estate determination"**](https://apnews.com/c26a8f91fcbc4e25b4138a17edc9c56e) in [Associated Press News](https://apnews.com/) on 12 January 2017 about Alfred Jackson, Bremer Trust, Carver County, Comerica, contract, John Nelson, Kevin Eide, Michael Jackson, Omarr Baker, Prince Estate, Tyka Nelson, Van Jones ([mirror](https://web.archive.org/web/*/https://apnews.com/c26a8f91fcbc4e25b4138a17edc9c56e))
 
 ----
 
@@ -248,7 +248,7 @@
 
 ----
 
- - [**"Prince's estate: 6 key questions answered"**](https://usatoday.com/story/life/music/2016/04/25/prince-dies-estate-six-key-questions/83504318/) in [USA Today](https://usatoday.com/) on 26 April 2016 about contract, IRS, Michael Jackson, Owen Husney, Tyka Nelson, vault ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2016/04/25/prince-dies-estate-six-key-questions/83504318/))
+ - [**"Prince's estate: 6 key questions answered"**](https://usatoday.com/story/life/music/2016/04/25/prince-dies-estate-six-key-questions/83504318/) in [USA Today](https://usatoday.com/) on 26 April 2016 about contract, IRS, Michael Jackson, Owen Husney, probate court, Tyka Nelson, vault ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2016/04/25/prince-dies-estate-six-key-questions/83504318/))
 
 ----
 

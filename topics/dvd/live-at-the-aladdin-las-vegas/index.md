@@ -1,5 +1,9 @@
 # Live at The Aladdin Las Vegas (DVD)
 
+ - [**"Prince’s The Rainbow Children and One Nite Alone Reissues Announced -- His long out-of-print albums from the early ’00s are coming to vinyl"**](https://pitchfork.com/news/princes-the-rainbow-childrenandnbspandandnbspone-nite-alone-reissues-announced/) in [Pitchfork](https://pitchfork.com/) on 21 February 2020 about Live at The Aladdin Las Vegas (DVD), One Nite Alone (album), One Nite Alone… (album), One Nite Alone…Live! (album), The Rainbow Children (album) ([mirror](https://web.archive.org/web/*/https://pitchfork.com/news/princes-the-rainbow-childrenandnbspandandnbspone-nite-alone-reissues-announced/))
+
+----
+
  - [**"Prince Estate’s Next Wave of Reissues: ‘Rainbow Children,’ ‘One Nite Alone …’ -- Prince’s 2001 and 2002 output, including live albums and concert film, to be rereleased April 17th"**](https://www.rollingstone.com/music/music-news/prince-rainbow-children-one-nite-alone-reissues-955535/) in [Rolling Stone](https://www.rollingstone.com/) on 20 February 2020 about Chaos and Disorder (album), Emancipation (album), Legacy Recordings, Live at The Aladdin Las Vegas (DVD), NPG Records, One Nite Alone (album), Pop Life (song), Prince Estate, Prince Live at The Aladdin Las Vegas (DVD), The Prince Estate, The Rainbow Children (album), The Versace Experience (Prelude 2 Gold) (album), Up All Nite with Prince: The One Nite Alone Collection (album) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-news/prince-rainbow-children-one-nite-alone-reissues-955535/))
 
 ----

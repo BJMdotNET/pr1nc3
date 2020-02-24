@@ -94,7 +94,7 @@
 
 ----
 
- - [**"Like Prince, his new memoir 'The Beautiful Ones' can't be pigeonholed -- Filled with ephemera, photos and philosophy, "The Beautiful Ones" is incomplete yet revealing. "**](http://www.startribune.com/like-prince-his-new-memoir-the-beautiful-ones-can-t-be-pigeonholed/563845812/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 October 2019 about Dan Piepenbring, fentanyl, John L. Nelson, memoir, Super Bowl, The Beautiful Ones (book), vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/like-prince-his-new-memoir-the-beautiful-ones-can-t-be-pigeonholed/563845812/))
+ - [**"Like Prince, his new memoir 'The Beautiful Ones' can't be pigeonholed -- Filled with ephemera, photos and philosophy, "The Beautiful Ones" is incomplete yet revealing. "**](http://www.startribune.com/like-prince-his-new-memoir-the-beautiful-ones-can-t-be-pigeonholed/563845812/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 October 2019 about Dan Piepenbring, fentanyl, fentanyl overdose, John L. Nelson, memoir, Super Bowl, The Beautiful Ones (book), vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/like-prince-his-new-memoir-the-beautiful-ones-can-t-be-pigeonholed/563845812/))
 
 ----
 
@@ -106,7 +106,7 @@
 
 ----
 
- - [**"Buddy Holly and Roy Orbison in Minnesota? Hologram tours of old stars are the hot new concert trend -- Buddy Holly is coming to town with Roy Orbison? Yes, rock 'n' roll holograms are here to stay."**](http://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 October 2019 about Aretha Franklin, Ed Sheeran, Frank Zappa, Lizzo, Michael Jackson, Morris Day ([mirror](https://web.archive.org/web/*/http://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/))
+ - [**"Buddy Holly and Roy Orbison in Minnesota? Hologram tours of old stars are the hot new concert trend -- Buddy Holly is coming to town with Roy Orbison? Yes, rock 'n' roll holograms are here to stay."**](http://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 October 2019 about Aretha Franklin, Ed Sheeran, Frank Zappa, hologram, Lizzo, Michael Jackson, Morris Day ([mirror](https://web.archive.org/web/*/http://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/))
 
 ----
 
@@ -154,7 +154,7 @@
 
 ----
 
- - [**"Prince exhibit coming to the Minnesota State Fair next year -- Superstar's estate is planning exhibit with artifacts, merchandise and performances. "**](http://www.startribune.com/prince-exhibit-coming-to-the-minnesota-state-fair-next-year/558970762/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 31 August 2019 about exhibit, Kirk Johnson, merchandise, Minnesota State Fair, Omarr Baker, State Fair, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-exhibit-coming-to-the-minnesota-state-fair-next-year/558970762/))
+ - [**"Prince exhibit coming to the Minnesota State Fair next year -- Superstar's estate is planning exhibit with artifacts, merchandise and performances. "**](http://www.startribune.com/prince-exhibit-coming-to-the-minnesota-state-fair-next-year/558970762/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 31 August 2019 about Comerica, exhibit, Kirk Johnson, merchandise, Minnesota State Fair, Omarr Baker, State Fair, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-exhibit-coming-to-the-minnesota-state-fair-next-year/558970762/))
 
 ----
 
@@ -170,11 +170,11 @@
 
 ----
 
- - [**"Prince's estate will operate studio complex Paisley Park"**](http://www.startribune.com/prince-s-estate-will-operate-studio-complex-paisley-park/558425072/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 27 August 2019 about contract, Graceland, Graceland Holdings, museum, Sharon Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-estate-will-operate-studio-complex-paisley-park/558425072/))
+ - [**"Prince's estate will operate studio complex Paisley Park"**](http://www.startribune.com/prince-s-estate-will-operate-studio-complex-paisley-park/558425072/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 27 August 2019 about Comerica, contract, Graceland, Graceland Holdings, museum, Sharon Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-estate-will-operate-studio-complex-paisley-park/558425072/))
 
 ----
 
- - [**"Prince's estate to assume management of Paisley Park -- Graceland Holdings will no longer run the Chanhassen museum as of Oct. 1."**](http://www.startribune.com/prince-s-estate-to-assume-management-of-paisley-park/558364602/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 August 2019 about Ava DuVernay, Bangles, contract, Graceland, Graceland Holdings, Joel Weinshanker, Kirk Johnson, memoir, museum, Netflix, Sharon Nelson, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-estate-to-assume-management-of-paisley-park/558364602/))
+ - [**"Prince's estate to assume management of Paisley Park -- Graceland Holdings will no longer run the Chanhassen museum as of Oct. 1."**](http://www.startribune.com/prince-s-estate-to-assume-management-of-paisley-park/558364602/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 August 2019 about Ava DuVernay, Bangles, Comerica, contract, Graceland, Graceland Holdings, Joel Weinshanker, Kirk Johnson, memoir, museum, Netflix, Sharon Nelson, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-estate-to-assume-management-of-paisley-park/558364602/))
 
 ----
 
@@ -454,7 +454,7 @@
 
 ----
 
- - [**"The Latest: Klobuchar points to Prince in talking drug issue"**](http://www.startribune.com/the-latest-klobuchar-points-to-prince-in-talking-drug-issue/506023432/) by The Associated Press in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 February 2019 about fentanyl ([mirror](https://web.archive.org/web/*/http://www.startribune.com/the-latest-klobuchar-points-to-prince-in-talking-drug-issue/506023432/))
+ - [**"The Latest: Klobuchar points to Prince in talking drug issue"**](http://www.startribune.com/the-latest-klobuchar-points-to-prince-in-talking-drug-issue/506023432/) by The Associated Press in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 February 2019 about fentanyl, fentanyl overdose ([mirror](https://web.archive.org/web/*/http://www.startribune.com/the-latest-klobuchar-points-to-prince-in-talking-drug-issue/506023432/))
 
 ----
 

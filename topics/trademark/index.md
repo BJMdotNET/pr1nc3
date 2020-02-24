@@ -1,6 +1,6 @@
 # trademark
 
- - [**"Paisley Park Aims to Register Prince's Signature Purple as a Trademark for Use on Buildings"**](https://www.thefashionlaw.com/home/princes-estate-in-the-midst-of-fight-to-register-the-color-purple-for-use-on-buildings) in [www.thefashionlaw.com](https://www.thefashionlaw.com/) on 27 January 2020 about Cloud guitar, Grammy Award, Jamie Starr, museum, Paisley Park Enterprises, trademark ([mirror](https://web.archive.org/web/*/https://www.thefashionlaw.com/home/princes-estate-in-the-midst-of-fight-to-register-the-color-purple-for-use-on-buildings))
+ - [**"Paisley Park Aims to Register Prince's Signature Purple as a Trademark for Use on Buildings"**](https://www.thefashionlaw.com/home/princes-estate-in-the-midst-of-fight-to-register-the-color-purple-for-use-on-buildings) in [www.thefashionlaw.com](https://www.thefashionlaw.com/) on 27 January 2020 about Cloud guitar, Grammy Award, hologram, Jamie Starr, museum, Paisley Park Enterprises, trademark ([mirror](https://web.archive.org/web/*/https://www.thefashionlaw.com/home/princes-estate-in-the-midst-of-fight-to-register-the-color-purple-for-use-on-buildings))
 
 ----
 
@@ -84,7 +84,7 @@
 
 ----
 
- - [**"Prince's Estate is Still Fighting to Register the Color Purple as a Trademark"**](http://www.thefashionlaw.com/home/princes-estate-is-still-fighting-to-register-the-color-purple) in [The Fashion Law](http://www.thefashionlaw.com/) on 2 August 2019 about museum, Paisley Park Enterprises, trademark ([mirror](https://web.archive.org/web/*/http://www.thefashionlaw.com/home/princes-estate-is-still-fighting-to-register-the-color-purple))
+ - [**"Prince's Estate is Still Fighting to Register the Color Purple as a Trademark"**](http://www.thefashionlaw.com/home/princes-estate-is-still-fighting-to-register-the-color-purple) in [The Fashion Law](http://www.thefashionlaw.com/) on 2 August 2019 about hologram, museum, Paisley Park Enterprises, trademark ([mirror](https://web.archive.org/web/*/http://www.thefashionlaw.com/home/princes-estate-is-still-fighting-to-register-the-color-purple))
 
 ----
 
@@ -92,7 +92,7 @@
 
 ----
 
- - [**"Estate of Prince Sues Custom Guitar Builder"**](http://digitaleditions.sheridan.com/article/Estate+of+Prince+Sues+Custom+Guitar+Builder/3278617/556089/article.html) in [digitaleditions.sheridan.com](http://digitaleditions.sheridan.com/) on 7 January 2019 about André Cymone, Cloud guitar, Comerica Bank & Trust, Dave Rusan, trademark ([mirror](https://web.archive.org/web/*/http://digitaleditions.sheridan.com/article/Estate+of+Prince+Sues+Custom+Guitar+Builder/3278617/556089/article.html))
+ - [**"Estate of Prince Sues Custom Guitar Builder"**](http://digitaleditions.sheridan.com/article/Estate+of+Prince+Sues+Custom+Guitar+Builder/3278617/556089/article.html) in [digitaleditions.sheridan.com](http://digitaleditions.sheridan.com/) on 7 January 2019 about André Cymone, Cloud guitar, Comerica, Comerica Bank & Trust, Dave Rusan, trademark ([mirror](https://web.archive.org/web/*/http://digitaleditions.sheridan.com/article/Estate+of+Prince+Sues+Custom+Guitar+Builder/3278617/556089/article.html))
 
 ----
 
@@ -100,7 +100,7 @@
 
 ----
 
- - [**"Prince estate goes after Cloud guitar designer -- Sooner or later, we all hear from Prince’s lawyers."**](http://www.citypages.com/music/prince-estate-goes-after-cloud-guitar-designer/502027422) in [City Pages](http://www.citypages.com/) on 6 December 2018 about André Cymone, Cloud guitar, Comerica Bank & Trust, Dave Rusan, Prince Estate, Smithsonian (place), trademark ([mirror](https://web.archive.org/web/*/http://www.citypages.com/music/prince-estate-goes-after-cloud-guitar-designer/502027422))
+ - [**"Prince estate goes after Cloud guitar designer -- Sooner or later, we all hear from Prince’s lawyers."**](http://www.citypages.com/music/prince-estate-goes-after-cloud-guitar-designer/502027422) in [City Pages](http://www.citypages.com/) on 6 December 2018 about André Cymone, Cloud guitar, Comerica, Comerica Bank & Trust, Dave Rusan, Prince Estate, Smithsonian (place), trademark ([mirror](https://web.archive.org/web/*/http://www.citypages.com/music/prince-estate-goes-after-cloud-guitar-designer/502027422))
 
 ----
 
@@ -116,7 +116,7 @@
 
 ----
 
- - [**"The days the music died: A look at funerals of the greats"**](https://apnews.com/7d546ab5dbec4e5ba4ebd0eddd1064e8) in [Associated Press News](https://apnews.com/) on 29 August 2018 about Aretha Franklin, Graceland, James Brown, Larry Graham, Michael Jackson, museum, Sheila E., Stevie Wonder, trademark ([mirror](https://web.archive.org/web/*/https://apnews.com/7d546ab5dbec4e5ba4ebd0eddd1064e8))
+ - [**"The days the music died: A look at funerals of the greats"**](https://apnews.com/7d546ab5dbec4e5ba4ebd0eddd1064e8) in [Associated Press News](https://apnews.com/) on 29 August 2018 about Aretha Franklin, fentanyl overdose, Graceland, James Brown, Larry Graham, Michael Jackson, museum, Sheila E., Stevie Wonder, trademark ([mirror](https://web.archive.org/web/*/https://apnews.com/7d546ab5dbec4e5ba4ebd0eddd1064e8))
 
 ----
 
@@ -132,7 +132,7 @@
 
 ----
 
- - [**"Inventory of Prince’s estate lists cash, property, gold bars"**](https://apnews.com/5ac8a5faa09440a4a8cc2cb43db35ee8) in [Associated Press News](https://apnews.com/) on 7 January 2017 about Bremer Trust, Carver County, fentanyl, LotusFlow3r (album), NPG Records, Paisley Park Enterprises, trademark ([mirror](https://web.archive.org/web/*/https://apnews.com/5ac8a5faa09440a4a8cc2cb43db35ee8))
+ - [**"Inventory of Prince’s estate lists cash, property, gold bars"**](https://apnews.com/5ac8a5faa09440a4a8cc2cb43db35ee8) in [Associated Press News](https://apnews.com/) on 7 January 2017 about Bremer Trust, Carver County, fentanyl, LotusFlow3r (album), NPG Records, Paisley Park Enterprises, probate court, trademark ([mirror](https://web.archive.org/web/*/https://apnews.com/5ac8a5faa09440a4a8cc2cb43db35ee8))
 
 ----
 

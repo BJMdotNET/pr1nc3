@@ -2,7 +2,7 @@
 
 ## November 2019 (1)
 
- - [**"PRINCE’S COUSIN (CHARLES SMITH) ON THE SINGER’S FIRST OVERDOSE: ‘HE DIED ON THE PLANE!’ – WATCH"**](https://eurweb.com/2019/11/13/princes-cousin-charles-smith-on-the-singers-first-overdose-he-died-on-the-plane-watch/) in [EURweb](https://eurweb.com/) on 13 November 2019 about fentanyl ([mirror](https://web.archive.org/web/*/https://eurweb.com/2019/11/13/princes-cousin-charles-smith-on-the-singers-first-overdose-he-died-on-the-plane-watch/))
+ - [**"PRINCE’S COUSIN (CHARLES SMITH) ON THE SINGER’S FIRST OVERDOSE: ‘HE DIED ON THE PLANE!’ – WATCH"**](https://eurweb.com/2019/11/13/princes-cousin-charles-smith-on-the-singers-first-overdose-he-died-on-the-plane-watch/) in [EURweb](https://eurweb.com/) on 13 November 2019 about fentanyl, fentanyl overdose ([mirror](https://web.archive.org/web/*/https://eurweb.com/2019/11/13/princes-cousin-charles-smith-on-the-singers-first-overdose-he-died-on-the-plane-watch/))
 
 ----
 

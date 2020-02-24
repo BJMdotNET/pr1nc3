@@ -1,6 +1,6 @@
 # Paisley Park Enterprises
 
- - [**"Paisley Park Aims to Register Prince's Signature Purple as a Trademark for Use on Buildings"**](https://www.thefashionlaw.com/home/princes-estate-in-the-midst-of-fight-to-register-the-color-purple-for-use-on-buildings) in [www.thefashionlaw.com](https://www.thefashionlaw.com/) on 27 January 2020 about Cloud guitar, Grammy Award, Jamie Starr, museum, Paisley Park Enterprises, trademark ([mirror](https://web.archive.org/web/*/https://www.thefashionlaw.com/home/princes-estate-in-the-midst-of-fight-to-register-the-color-purple-for-use-on-buildings))
+ - [**"Paisley Park Aims to Register Prince's Signature Purple as a Trademark for Use on Buildings"**](https://www.thefashionlaw.com/home/princes-estate-in-the-midst-of-fight-to-register-the-color-purple-for-use-on-buildings) in [www.thefashionlaw.com](https://www.thefashionlaw.com/) on 27 January 2020 about Cloud guitar, Grammy Award, hologram, Jamie Starr, museum, Paisley Park Enterprises, trademark ([mirror](https://web.archive.org/web/*/https://www.thefashionlaw.com/home/princes-estate-in-the-midst-of-fight-to-register-the-color-purple-for-use-on-buildings))
 
 ----
 
@@ -12,7 +12,7 @@
 
 ----
 
- - [**"Prince's Estate is Still Fighting to Register the Color Purple as a Trademark"**](http://www.thefashionlaw.com/home/princes-estate-is-still-fighting-to-register-the-color-purple) in [The Fashion Law](http://www.thefashionlaw.com/) on 2 August 2019 about museum, Paisley Park Enterprises, trademark ([mirror](https://web.archive.org/web/*/http://www.thefashionlaw.com/home/princes-estate-is-still-fighting-to-register-the-color-purple))
+ - [**"Prince's Estate is Still Fighting to Register the Color Purple as a Trademark"**](http://www.thefashionlaw.com/home/princes-estate-is-still-fighting-to-register-the-color-purple) in [The Fashion Law](http://www.thefashionlaw.com/) on 2 August 2019 about hologram, museum, Paisley Park Enterprises, trademark ([mirror](https://web.archive.org/web/*/http://www.thefashionlaw.com/home/princes-estate-is-still-fighting-to-register-the-color-purple))
 
 ----
 
@@ -28,7 +28,7 @@
 
 ----
 
- - [**"A year after Prince's death, these questions remain unanswered"**](https://usatoday.com/story/life/music/2017/04/20/death-prince-one-year-later-what-do-we-know/100180398/) in [USA Today](https://usatoday.com/) on 21 April 2017 about Amy Conners, Apple Music, bootleg, Carver County, fentanyl, George Ian Boxill, Howard Kornfeld, Kevin Eide, Manuela Testolini, Mayte, Mayte Garcia, memoir, Michael Schulenberg, museum, Paisley Park Enterprises, Patrick Cousins, Spotify, Tidal, Tyka Nelson, Universal Music Group, vault ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2017/04/20/death-prince-one-year-later-what-do-we-know/100180398/))
+ - [**"A year after Prince's death, these questions remain unanswered"**](https://usatoday.com/story/life/music/2017/04/20/death-prince-one-year-later-what-do-we-know/100180398/) in [USA Today](https://usatoday.com/) on 21 April 2017 about Amy Conners, Apple Music, bootleg, Carver County, Comerica, fentanyl, George Ian Boxill, Howard Kornfeld, Kevin Eide, Manuela Testolini, Mayte, Mayte Garcia, memoir, Michael Schulenberg, museum, Paisley Park Enterprises, Patrick Cousins, probate court, Spotify, Tidal, Tyka Nelson, Universal Music Group, vault ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2017/04/20/death-prince-one-year-later-what-do-we-know/100180398/))
 
 ----
 
@@ -36,7 +36,7 @@
 
 ----
 
- - [**"Inventory of Prince’s estate lists cash, property, gold bars"**](https://apnews.com/5ac8a5faa09440a4a8cc2cb43db35ee8) in [Associated Press News](https://apnews.com/) on 7 January 2017 about Bremer Trust, Carver County, fentanyl, LotusFlow3r (album), NPG Records, Paisley Park Enterprises, trademark ([mirror](https://web.archive.org/web/*/https://apnews.com/5ac8a5faa09440a4a8cc2cb43db35ee8))
+ - [**"Inventory of Prince’s estate lists cash, property, gold bars"**](https://apnews.com/5ac8a5faa09440a4a8cc2cb43db35ee8) in [Associated Press News](https://apnews.com/) on 7 January 2017 about Bremer Trust, Carver County, fentanyl, LotusFlow3r (album), NPG Records, Paisley Park Enterprises, probate court, trademark ([mirror](https://web.archive.org/web/*/https://apnews.com/5ac8a5faa09440a4a8cc2cb43db35ee8))
 
 ----
 

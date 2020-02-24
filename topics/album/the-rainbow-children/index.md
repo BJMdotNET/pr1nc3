@@ -1,5 +1,9 @@
 # The Rainbow Children (album)
 
+ - [**"Prince’s The Rainbow Children and One Nite Alone Reissues Announced -- His long out-of-print albums from the early ’00s are coming to vinyl"**](https://pitchfork.com/news/princes-the-rainbow-childrenandnbspandandnbspone-nite-alone-reissues-announced/) in [Pitchfork](https://pitchfork.com/) on 21 February 2020 about Live at The Aladdin Las Vegas (DVD), One Nite Alone (album), One Nite Alone… (album), One Nite Alone…Live! (album), The Rainbow Children (album) ([mirror](https://web.archive.org/web/*/https://pitchfork.com/news/princes-the-rainbow-childrenandnbspandandnbspone-nite-alone-reissues-announced/))
+
+----
+
  - [**"Get Ready For More Prince Rarities: Estate Will Reissue 'The Rainbow Children' and 'One Nite Alone' Albums"**](https://www.billboard.com/articles/columns/rock/8551497/prince-estate-reissuing-live-early-2000s-studio-album) in [Billboard](https://www.billboard.com/) on 20 February 2020 about Candy Dulfer, Eric Leeds, George Clinton, Joni Mitchell, Legacy Recordings, Maceo Parker, Nothing Compares 2 U (song), NPG Records, One Nite Alone (album), Prince Estate, Raspberry Beret (song), Sheila E., The Prince Estate, The Rainbow Children (album), Up All Nite with Prince: The One Nite Alone Collection (album) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/columns/rock/8551497/prince-estate-reissuing-live-early-2000s-studio-album))
 
 ----
