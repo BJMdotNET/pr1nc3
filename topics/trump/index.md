@@ -92,11 +92,11 @@
 
 ----
 
- - [**"Prince estate to Trump: Stop using music at rallies"**](https://apnews.com/af0a5a4fc34d48ffb9f29da4c5ef9771) by The Associated Press in [Associated Press News](https://apnews.com/) on 12 October 2018 about Donald Trump, fentanyl overdose, Omarr Baker, Prince Estate, Trump, White House (place) ([mirror](https://web.archive.org/web/*/https://apnews.com/af0a5a4fc34d48ffb9f29da4c5ef9771))
+ - [**"Prince estate to Trump: Stop using music at rallies"**](http://www.startribune.com/prince-estate-to-trump-stop-using-music-at-rallies/497248101/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 October 2018 about Prince Estate, Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-estate-to-trump-stop-using-music-at-rallies/497248101/))
 
 ----
 
- - [**"Prince estate to Trump: Stop using music at rallies"**](http://www.startribune.com/prince-estate-to-trump-stop-using-music-at-rallies/497248101/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 October 2018 about Prince Estate, Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-estate-to-trump-stop-using-music-at-rallies/497248101/))
+ - [**"Prince estate to Trump: Stop using music at rallies"**](https://apnews.com/af0a5a4fc34d48ffb9f29da4c5ef9771) by The Associated Press in [Associated Press News](https://apnews.com/) on 12 October 2018 about Donald Trump, fentanyl overdose, Omarr Baker, Prince Estate, Trump, White House (place) ([mirror](https://web.archive.org/web/*/https://apnews.com/af0a5a4fc34d48ffb9f29da4c5ef9771))
 
 ----
 

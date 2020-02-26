@@ -1,5 +1,9 @@
 # Prince: Before the Rain
 
+ - [**"6 cool things in music this week include Brandi Carlile, Billie Eilish, Common, Rosanne Cash and Justin Bieber"**](http://www.startribune.com/6-cool-things-in-music-this-week-include-brandi-carlile-billie-eilish-common-rosanne-cash-and-justin-bieber/568081192/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 21 February 2020 about exhibit, Fillmore Minneapolis (place), First Avenue (place), Jon Bream, Minnesota History Center, Prince: Before the Rain ([mirror](https://web.archive.org/web/*/http://www.startribune.com/6-cool-things-in-music-this-week-include-brandi-carlile-billie-eilish-common-rosanne-cash-and-justin-bieber/568081192/))
+
+----
+
  - [**"An early glimpse of genius: “Prince: Before the Rain” Exhibit opens Sept. 21"**](https://spokesman-recorder.com/2019/09/17/an-early-glimpse-of-genius-prince-before-the-rain-exhibit-opens-sept-21/) in [Minnesota Spokesman-Recorder](https://spokesman-recorder.com/) on 17 September 2019 about Prince: Before the Rain ([mirror](https://web.archive.org/web/*/https://spokesman-recorder.com/2019/09/17/an-early-glimpse-of-genius-prince-before-the-rain-exhibit-opens-sept-21/))
 
 ----

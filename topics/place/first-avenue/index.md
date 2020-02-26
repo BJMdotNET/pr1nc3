@@ -1,5 +1,9 @@
 # First Avenue (place)
 
+ - [**"6 cool things in music this week include Brandi Carlile, Billie Eilish, Common, Rosanne Cash and Justin Bieber"**](http://www.startribune.com/6-cool-things-in-music-this-week-include-brandi-carlile-billie-eilish-common-rosanne-cash-and-justin-bieber/568081192/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 21 February 2020 about exhibit, Fillmore Minneapolis (place), First Avenue (place), Jon Bream, Minnesota History Center, Prince: Before the Rain ([mirror](https://web.archive.org/web/*/http://www.startribune.com/6-cool-things-in-music-this-week-include-brandi-carlile-billie-eilish-common-rosanne-cash-and-justin-bieber/568081192/))
+
+----
+
  - [**"From Tony Toni Toné’ through 'Jimmy Lee,' Raphael Saadiq has crafted a unique career"**](http://www.citypages.com/music/from-tony-toni-tone-through-jimmy-lee-raphael-saadiq-has-crafted-a-unique-career/568004321) in [City Pages](http://www.citypages.com/) on 20 February 2020 about D’Angelo, First Avenue (place), Raphael Saadiq, Sheila E. ([mirror](https://web.archive.org/web/*/http://www.citypages.com/music/from-tony-toni-tone-through-jimmy-lee-raphael-saadiq-has-crafted-a-unique-career/568004321))
 
 ----
@@ -9,6 +13,14 @@
 ----
 
  - [**"Heart Bones serve 'Hot Dish' in The Current studio"**](https://www.thecurrent.org/feature/2020/02/18/heart-bones-current-studio) in [The Current](https://www.thecurrent.org/) on 18 February 2020 about Andrea Swensson, Celebration, First Avenue (place) ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2020/02/18/heart-bones-current-studio))
+
+----
+
+ - [**"Best of the Week (Feb. 16-23): Tove Lo, Joe Henry, 'Gotta Dance,' Raphael Saadiq, VocalEssence, winter fest, more"**](http://www.startribune.com/best-of-the-week-feb-16-23-tove-lo-joe-henry-gotta-dance-raphael-saadiq-vocalessence-winter-fest-more/567872132/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 14 February 2020 about Celebration, Dakota (place), First Avenue (place), Jon Bream, Raphael Saadiq ([mirror](https://web.archive.org/web/*/http://www.startribune.com/best-of-the-week-feb-16-23-tove-lo-joe-henry-gotta-dance-raphael-saadiq-vocalessence-winter-fest-more/567872132/))
+
+----
+
+ - [**"Twin Cities concerts of the week: Iron & Wine with Calexico, Sudaka Fest, Heart Bones and the Suburbs -- This big gigs for Feb. 14-20, also including Tove Lo, Ellis Delaney's release party, memorials for Ed Ackerson and Lexii Alijai, Rosanne Cash, a Louisiana twofer and a Paisley Park party with Meshell Ndegeocello. "**](http://www.startribune.com/twin-cities-concerts-of-the-week-iron-amp-wine-with-calexico-sudaka-fest-heart-bones-and-the-suburbs/567843822/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 14 February 2020 about Celebration, Dakota (place), Darling Nikki (song), First Avenue (place), Garrison Keillor, Meshell Ndegeocello, Paul Peterson, Sometimes It Snows In April (song), St. Paul Peterson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/twin-cities-concerts-of-the-week-iron-amp-wine-with-calexico-sudaka-fest-heart-bones-and-the-suburbs/567843822/))
 
 ----
 

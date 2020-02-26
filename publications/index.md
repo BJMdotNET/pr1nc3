@@ -114,7 +114,7 @@
   * [metro.co.uk](./metro-co-uk/) (1)
   * [Milwaukee Journal Sentinel](./milwaukee-journal-sentinel/) (1)
   * [Minneapolis / St. Paul Business Journal](./minneapolis-st-paul-business-journal/) (1)
-  * [Minneapolis Star Tribune](./minneapolis-star-tribune/) (555)
+  * [Minneapolis Star Tribune](./minneapolis-star-tribune/) (558)
   * [Minnesota Monthly](./minnesota-monthly/) (1)
   * [Minnesota Spokesman-Recorder](./minnesota-spokesman-recorder/) (8)
   * [Mirador de les Arts](./mirador-de-les-arts/) (1)

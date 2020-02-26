@@ -1,5 +1,9 @@
 # Minnesota History Center
 
+ - [**"6 cool things in music this week include Brandi Carlile, Billie Eilish, Common, Rosanne Cash and Justin Bieber"**](http://www.startribune.com/6-cool-things-in-music-this-week-include-brandi-carlile-billie-eilish-common-rosanne-cash-and-justin-bieber/568081192/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 21 February 2020 about exhibit, Fillmore Minneapolis (place), First Avenue (place), Jon Bream, Minnesota History Center, Prince: Before the Rain ([mirror](https://web.archive.org/web/*/http://www.startribune.com/6-cool-things-in-music-this-week-include-brandi-carlile-billie-eilish-common-rosanne-cash-and-justin-bieber/568081192/))
+
+----
+
  - [**"From films at Paisley Park to the new Fillmore, here are four musical events worth catching"**](https://www.twincities.com/2020/01/09/from-films-at-paisley-park-to-the-new-fillmore-here-are-four-musical-events-worth-catching/) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 9 January 2020 about Amazing Grace (movie), Aretha Franklin, Atlanta (place), Dave Chappelle, Dave Chappelle’s Block Party (movie), exhibit, First Avenue (place), John Legend, Minnesota History Center, museum, Paisley Park Cinema: Music on the Big Screen (event), The Roots, vault, Wattstax (movie), Xcel Energy Center (place) ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2020/01/09/from-films-at-paisley-park-to-the-new-fillmore-here-are-four-musical-events-worth-catching/))
 
 ----

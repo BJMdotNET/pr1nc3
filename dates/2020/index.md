@@ -1,12 +1,16 @@
 # 2020
 
-## February 2020 (30)
+## February 2020 (33)
 
  - [**"Prince estate fight gets even thornier with heir's death and will"**](https://www.bizjournals.com/twincities/news/2020/02/23/prince-estate-fight-gets-even-thornier-with-heirs.html) in [Minneapolis / St. Paul Business Journal](https://www.bizjournals.com/twincities/) on 23 February 2020 about Alfred Jackson, hologram, Michael Jackson, museum, Paisley Park Studios (place), Primary Wave, Prince Estate, Raffles Van Exel, Tyka Nelson, Whitney Houston ([mirror](https://web.archive.org/web/*/https://www.bizjournals.com/twincities/news/2020/02/23/prince-estate-fight-gets-even-thornier-with-heirs.html))
 
 ----
 
  - [**"Death of Prince heir complicates estate settlement even more -- Nearly a third of Prince's estate could go to parties not related to him after two siblings signed agreements with Primary Wave."**](http://www.startribune.com/untimely-death-of-prince-heir-complicates-estate-settlement-even-more/568089142/) by Jon Bream, Mike Hughlett in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 February 2020 about Alfred Jackson, Carver County, Comerica, Dennis Patrick, fentanyl, fentanyl overdose, Fredrikson & Byron, hologram, John Nelson, L. Londell McMillan, Lawrence Mestel, Leonardo Starke, Michael Jackson, Mitchell Hamline Law Review, O.J. Simpson, Primary Wave, Prince Estate, probate court, Raffles Van Exel, Shawn Jackson, The Prince Estate, Troy Carter, Tyka Nelson, Whitney Houston, Xcel Energy Center (place), YouTube ([mirror](https://web.archive.org/web/*/http://www.startribune.com/untimely-death-of-prince-heir-complicates-estate-settlement-even-more/568089142/))
+
+----
+
+ - [**"6 cool things in music this week include Brandi Carlile, Billie Eilish, Common, Rosanne Cash and Justin Bieber"**](http://www.startribune.com/6-cool-things-in-music-this-week-include-brandi-carlile-billie-eilish-common-rosanne-cash-and-justin-bieber/568081192/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 21 February 2020 about exhibit, Fillmore Minneapolis (place), First Avenue (place), Jon Bream, Minnesota History Center, Prince: Before the Rain ([mirror](https://web.archive.org/web/*/http://www.startribune.com/6-cool-things-in-music-this-week-include-brandi-carlile-billie-eilish-common-rosanne-cash-and-justin-bieber/568081192/))
 
 ----
 
@@ -74,6 +78,10 @@
 
 ----
 
+ - [**"Best of the Week (Feb. 16-23): Tove Lo, Joe Henry, 'Gotta Dance,' Raphael Saadiq, VocalEssence, winter fest, more"**](http://www.startribune.com/best-of-the-week-feb-16-23-tove-lo-joe-henry-gotta-dance-raphael-saadiq-vocalessence-winter-fest-more/567872132/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 14 February 2020 about Celebration, Dakota (place), First Avenue (place), Jon Bream, Raphael Saadiq ([mirror](https://web.archive.org/web/*/http://www.startribune.com/best-of-the-week-feb-16-23-tove-lo-joe-henry-gotta-dance-raphael-saadiq-vocalessence-winter-fest-more/567872132/))
+
+----
+
  - [**"D Smoke’s ‘Black Habits’ Video Serves As An Ode To Black Excellence"**](https://uproxx.com/music/d-smoke-black-habits-video/) in [Uproxx](https://uproxx.com/) on 14 February 2020 about Stevie Wonder ([mirror](https://web.archive.org/web/*/https://uproxx.com/music/d-smoke-black-habits-video/))
 
 ----
@@ -83,6 +91,10 @@
 ----
 
  - [**"Outdoor concert may happen at Paisley Park Celebration in June"**](https://www.swnewsmedia.com/chanhassen_villager/news/outdoor-concert-may-happen-at-paisley-park-celebration-in-june/article_8e399cdb-81bc-5770-ada5-e4d2e49b4461.html) in [Chanhassen Villager](https://www.swnewsmedia.com/chanhassen_villager/) on 14 February 2020 about Karen White, museum ([mirror](https://web.archive.org/web/*/https://www.swnewsmedia.com/chanhassen_villager/news/outdoor-concert-may-happen-at-paisley-park-celebration-in-june/article_8e399cdb-81bc-5770-ada5-e4d2e49b4461.html))
+
+----
+
+ - [**"Twin Cities concerts of the week: Iron & Wine with Calexico, Sudaka Fest, Heart Bones and the Suburbs -- This big gigs for Feb. 14-20, also including Tove Lo, Ellis Delaney's release party, memorials for Ed Ackerson and Lexii Alijai, Rosanne Cash, a Louisiana twofer and a Paisley Park party with Meshell Ndegeocello. "**](http://www.startribune.com/twin-cities-concerts-of-the-week-iron-amp-wine-with-calexico-sudaka-fest-heart-bones-and-the-suburbs/567843822/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 14 February 2020 about Celebration, Dakota (place), Darling Nikki (song), First Avenue (place), Garrison Keillor, Meshell Ndegeocello, Paul Peterson, Sometimes It Snows In April (song), St. Paul Peterson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/twin-cities-concerts-of-the-week-iron-amp-wine-with-calexico-sudaka-fest-heart-bones-and-the-suburbs/567843822/))
 
 ----
 
