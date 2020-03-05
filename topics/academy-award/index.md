@@ -4,7 +4,7 @@
 
 ----
 
- - [**"Go to Paisley Park While It's Still in Your Heart"**](https://www.houstonpress.com/music/a-trip-to-princes-paisley-park-11373725) in [www.houstonpress.com](https://www.houstonpress.com/) on 1 November 2019 about Academy Award, Aretha Franklin, Charlie Murphy, exhibit, First Avenue (place), Graceland, James Brown, Larry Graham, Lizzo, Minnesota Timberwolves, motorcycle, museum, Obama, Stevie Wonder, Timberwolves, Under the Cherry Moon (movie) ([mirror](https://web.archive.org/web/*/https://www.houstonpress.com/music/a-trip-to-princes-paisley-park-11373725))
+ - [**"Go to Paisley Park While It's Still in Your Heart"**](https://www.houstonpress.com/music/a-trip-to-princes-paisley-park-11373725) in [www.houstonpress.com](https://www.houstonpress.com/) on 1 November 2019 about Academy Award, Aretha Franklin, Charlie Murphy, exhibit, First Avenue (place), Graceland, James Brown, Larry Graham, Lizzo, Minnesota Timberwolves, motorcycle, museum, NPG Music Club (website), Obama, Stevie Wonder, Timberwolves, Under the Cherry Moon (movie) ([mirror](https://web.archive.org/web/*/https://www.houstonpress.com/music/a-trip-to-princes-paisley-park-11373725))
 
 ----
 
@@ -16,6 +16,10 @@
 
 ----
 
+ - [**"UB Special Feature: The Album Eras of Prince"**](https://urbanbridgez.com/2019/06/07/ub-special-feature-the-album-eras-of-prince/) in [UrbanBridgez.com](https://urbanbridgez.com/) on 7 June 2019 about 1999 (album), Academy Award, Alicia Keys, Bangles, Chaka Khan, Controversy (album), Dirty Mind (album), For You (album), Grammy Award, I Feel For You (song), I Wanna Be Your Lover (song), Manic Monday (song), Nothing Compares 2 U (song), Purple Rain (album), Purple Rain (song), The Revolution, Vanity, Vanity Fair (magazine), vault, Warner Bros. Records ([mirror](https://web.archive.org/web/*/https://urbanbridgez.com/2019/06/07/ub-special-feature-the-album-eras-of-prince/))
+
+----
+
  - [**"Movie Inspired by Prince’s Music in the Works at Universal (EXCLUSIVE)"**](https://variety.com/2018/film/news/universal-original-movie-inspired-by-princes-music-1203067739/) in [Variety](https://variety.com/) on 3 December 2018 about Academy Award, Grammy Award, Purple Rain (movie), Troy Carter, Universal Music Publishing Group, Universal Pictures ([mirror](https://web.archive.org/web/*/https://variety.com/2018/film/news/universal-original-movie-inspired-by-princes-music-1203067739/))
 
 ----
@@ -24,7 +28,7 @@
 
 ----
 
- - [**"Susan Rogers - 2016 Red Bull Music Academy lecture"**](https://www.redbullmusicacademy.com/lectures/susan-rogers-lecture) in [Red Bull Music Academy](https://www.redbullmusicacademy.com/) on 8 December 2016 about 17 Days (song), Academy Award, Anita Baker, Bernie Grundman, bootleg, Condition of the Heart (song), contract, First Avenue (place), Grammy Award, James Brown, Jesse Johnson, Jill Jones, Joni Mitchell, Kate Bush, Let’s Go Crazy (song), Lisa Coleman, Little Red Corvette (song), Michael Jackson, Nothing Compares 2 U (song), Pop Life (song), Sheila E., Sometimes It Snows In April (song), Stevie Wonder, Sunset Sound (place), Susan Rogers, Susannah Melvoin, The Ballad Of Dorothy Parker (song), The Revolution, Under the Cherry Moon (movie), University of Minnesota, Vanity 6, vault, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://www.redbullmusicacademy.com/lectures/susan-rogers-lecture))
+ - [**"Susan Rogers - 2016 Red Bull Music Academy lecture"**](https://www.redbullmusicacademy.com/lectures/susan-rogers-lecture) in [Red Bull Music Academy](https://www.redbullmusicacademy.com/) on 8 December 2016 about 17 Days (song), Academy Award, Anita Baker, Bernie Grundman, bootleg, Condition of the Heart (song), contract, First Avenue (place), Grammy Award, James Brown, Jesse Johnson, Jill Jones, Joni Mitchell, Kate Bush, Let’s Go Crazy (song), Lisa Coleman, Little Red Corvette (song), Michael Jackson, Nothing Compares 2 U (song), Pop Life (song), Sheila E., Sometimes It Snows In April (song), Stevie Wonder, Sunset Sound (place), Susan Rogers, Susannah Melvoin, Tevin Campbell, The Ballad Of Dorothy Parker (song), The Revolution, Under the Cherry Moon (movie), University of Minnesota, Vanity 6, vault, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://www.redbullmusicacademy.com/lectures/susan-rogers-lecture))
 
 ----
 

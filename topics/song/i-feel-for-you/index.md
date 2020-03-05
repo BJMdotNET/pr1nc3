@@ -8,7 +8,7 @@
 
 ----
 
- - [**"Prince’s memoir ‘The Beautiful Ones’ is ‘warm, funny, well observed, eloquent and surprisingly focused’"**](https://www.twincities.com/2019/10/25/princes-memoir-the-beautiful-ones-is-warm-funny-well-observed-eloquent-and-surprisingly-focused/) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 25 October 2019 about Andrea Swensson, Capri Theater  (place), Chris Jackson, Dan Piepenbring, I Feel For You (song), Joni Mitchell, memoir, Raspberry Beret (song), The Ballad Of Dorothy Parker (song), The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2019/10/25/princes-memoir-the-beautiful-ones-is-warm-funny-well-observed-eloquent-and-surprisingly-focused/))
+ - [**"Prince’s memoir ‘The Beautiful Ones’ is ‘warm, funny, well observed, eloquent and surprisingly focused’"**](https://www.twincities.com/2019/10/25/princes-memoir-the-beautiful-ones-is-warm-funny-well-observed-eloquent-and-surprisingly-focused/) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 25 October 2019 about Andrea Swensson, Capri Theater  (place), Chris Jackson, Dan Piepenbring, I Feel For You (song), Joni Mitchell, memoir, NPG Music Club (website), Raspberry Beret (song), The Ballad Of Dorothy Parker (song), The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2019/10/25/princes-memoir-the-beautiful-ones-is-warm-funny-well-observed-eloquent-and-surprisingly-focused/))
 
 ----
 
@@ -37,6 +37,10 @@
 ----
 
  - [**"This Prince Acoustic Demo Is Shockingly Intimate -- It's a stripped back version of 'I Feel For You'..."**](https://www.clashmusic.com/news/this-prince-acoustic-demo-is-shockingly-intimate) in [Clash Magazine](https://www.clashmusic.com/) on 18 October 2019 about For You (album), I Feel For You (song), Michael Howe, vault ([mirror](https://web.archive.org/web/*/https://www.clashmusic.com/news/this-prince-acoustic-demo-is-shockingly-intimate))
+
+----
+
+ - [**"UB Special Feature: The Album Eras of Prince"**](https://urbanbridgez.com/2019/06/07/ub-special-feature-the-album-eras-of-prince/) in [UrbanBridgez.com](https://urbanbridgez.com/) on 7 June 2019 about 1999 (album), Academy Award, Alicia Keys, Bangles, Chaka Khan, Controversy (album), Dirty Mind (album), For You (album), Grammy Award, I Feel For You (song), I Wanna Be Your Lover (song), Manic Monday (song), Nothing Compares 2 U (song), Purple Rain (album), Purple Rain (song), The Revolution, Vanity, Vanity Fair (magazine), vault, Warner Bros. Records ([mirror](https://web.archive.org/web/*/https://urbanbridgez.com/2019/06/07/ub-special-feature-the-album-eras-of-prince/))
 
 ----
 

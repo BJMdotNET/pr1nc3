@@ -20,7 +20,7 @@
 
 ----
 
- - [**"Prince Estate and Sony Release 23 Long-Unavailable Albums Digitally"**](https://variety.com/2018/biz/news/prince-estate-and-sony-release-23-long-unavailable-albums-digitally-1202908647/) in [Variety](https://variety.com/) on 17 August 2018 about 3121 (album), Chaos and Disorder (album), Crystal Ball (album), Emancipation (album), Legacy Recordings, One Nite Alone (album), Prince Anthology: 1995-2010 (album), Prince Estate, Rave In2 the Joy Fantastic (album), Rave Un2 the Joy Fantastic (album), The Prince Estate, Warner Bros. Records ([mirror](https://web.archive.org/web/*/https://variety.com/2018/biz/news/prince-estate-and-sony-release-23-long-unavailable-albums-digitally-1202908647/))
+ - [**"Prince Estate and Sony Release 23 Long-Unavailable Albums Digitally"**](https://variety.com/2018/biz/news/prince-estate-and-sony-release-23-long-unavailable-albums-digitally-1202908647/) in [Variety](https://variety.com/) on 17 August 2018 about 3121 (album), Chaos and Disorder (album), Crystal Ball (album), Emancipation (album), Legacy Recordings, NPG Music Club (website), One Nite Alone (album), Prince Anthology: 1995-2010 (album), Prince Estate, Rave In2 the Joy Fantastic (album), Rave Un2 the Joy Fantastic (album), The Prince Estate, Warner Bros. Records ([mirror](https://web.archive.org/web/*/https://variety.com/2018/biz/news/prince-estate-and-sony-release-23-long-unavailable-albums-digitally-1202908647/))
 
 ----
 

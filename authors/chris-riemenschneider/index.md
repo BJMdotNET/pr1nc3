@@ -102,7 +102,7 @@
 
 ----
 
- - [**"Minnesota's best albums of the year (so far): Chastity Brown, Romantica, Brother Ali, Lady Midnight -- This year's 10 albums includes several artists who saw their patience pay off."**](http://www.startribune.com/minnesota-s-best-albums-of-the-year-so-far-brother-ali-chastity-brown-romantica-prince/431623233/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 30 June 2017 about 17 Days (song), bootleg, First Avenue (place), Our Destiny (song), Possessed (song), Purple Rain (album), Roadhouse Garden (song), The Beautiful Ones (song), The Revolution, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/minnesota-s-best-albums-of-the-year-so-far-brother-ali-chastity-brown-romantica-prince/431623233/))
+ - [**"Minnesota's best albums of the year (so far): Chastity Brown, Romantica, Brother Ali, Lady Midnight -- This year's 10 albums includes several artists who saw their patience pay off."**](http://www.startribune.com/minnesota-s-best-albums-of-the-year-so-far-brother-ali-chastity-brown-romantica-prince/431623233/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 30 June 2017 about 17 Days (song), bootleg, Chastity Brown, First Avenue (place), Our Destiny (song), Possessed (song), Purple Rain (album), Roadhouse Garden (song), The Beautiful Ones (song), The Revolution, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/minnesota-s-best-albums-of-the-year-so-far-brother-ali-chastity-brown-romantica-prince/431623233/))
 
 ----
 

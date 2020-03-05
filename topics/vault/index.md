@@ -88,7 +88,7 @@
 
 ----
 
- - [**"Prince Wanted To 'Break The Mold Of The Memoir,' Says His Co-Writer"**](https://www.npr.org/2019/11/28/782929000/prince-wanted-to-break-the-mold-of-the-memoir-says-his-co-writer) in [National Public Radio](https://www.npr.org/) on 28 November 2019 about Dan Piepenbring, fentanyl, Kim Pratt, Little Red Corvette (song), memoir, Michael Jackson, The Beautiful Ones (book), vault, Vicodin, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.npr.org/2019/11/28/782929000/prince-wanted-to-break-the-mold-of-the-memoir-says-his-co-writer))
+ - [**"Prince Wanted To 'Break The Mold Of The Memoir,' Says His Co-Writer"**](https://www.npr.org/2019/11/28/782929000/prince-wanted-to-break-the-mold-of-the-memoir-says-his-co-writer) in [National Public Radio](https://www.npr.org/) on 28 November 2019 about Dan Piepenbring, fentanyl, fragrance, Kim Pratt, Little Red Corvette (song), memoir, Michael Jackson, perfume, The Beautiful Ones (book), vault, Vicodin, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.npr.org/2019/11/28/782929000/prince-wanted-to-break-the-mold-of-the-memoir-says-his-co-writer))
 
 ----
 
@@ -200,7 +200,7 @@
 
 ----
 
- - [**"Prince Wanted To 'Break The Mold Of The Memoir,' Says His Co-Writer"**](https://www.npr.org/2019/10/28/773398141/prince-wanted-to-break-the-mold-of-the-memoir-says-his-co-writer) in [National Public Radio](https://www.npr.org/) on 28 October 2019 about Dan Piepenbring, fentanyl, Little Red Corvette (song), memoir, The Beautiful Ones (book), vault, Vicodin ([mirror](https://web.archive.org/web/*/https://www.npr.org/2019/10/28/773398141/prince-wanted-to-break-the-mold-of-the-memoir-says-his-co-writer))
+ - [**"Prince Wanted To 'Break The Mold Of The Memoir,' Says His Co-Writer"**](https://www.npr.org/2019/10/28/773398141/prince-wanted-to-break-the-mold-of-the-memoir-says-his-co-writer) in [National Public Radio](https://www.npr.org/) on 28 October 2019 about Dan Piepenbring, fentanyl, fragrance, Little Red Corvette (song), memoir, perfume, The Beautiful Ones (book), vault, Vicodin ([mirror](https://web.archive.org/web/*/https://www.npr.org/2019/10/28/773398141/prince-wanted-to-break-the-mold-of-the-memoir-says-his-co-writer))
 
 ----
 
@@ -360,7 +360,7 @@
 
 ----
 
- - [**"The Book of Prince -- Prince had grand plans for his autobiography, but only a few months to live."**](https://www.newyorker.com/magazine/2019/09/09/the-book-of-prince) by Dan Piepenbring in [The New Yorker](https://www.newyorker.com/) on 2 September 2019 about airport, Alexander Nevermind, Apollonia Kotero, Atlanta (place), bootleg, Chanhassen Cinema, Chris Jackson, contract, Country Inn & Suites (place), Dan Piepenbring, Denise Matthews, DJ Kiss, fentanyl, I.C.M., Illinois (place), Jakissa Taylor Semple, Jamie Starr, Jehovah’s Witness, Joey Coco, John Lewis Nelson, Judith Hill, Kim Pratt, Kirk Johnson, Mattie Della Shaw Baker, memoir, Meron Bekure, Michael Jackson, Miles Davis, Moline, Illinois (place), Pam Warren, Penguin Random House, Peter Bravestrong, Phaedra Ellis-Lamkins, Purple Music (song), Purple Pam, Random House , Raspberry Beret (song), Spiegel & Grau, The Ballad Of Dorothy Parker (song), The Beautiful Ones (book), The Beautiful Ones (song), TMZ (website), Vanity, Vanity 6, vault, Vicodin, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.newyorker.com/magazine/2019/09/09/the-book-of-prince))
+ - [**"The Book of Prince -- Prince had grand plans for his autobiography, but only a few months to live."**](https://www.newyorker.com/magazine/2019/09/09/the-book-of-prince) by Dan Piepenbring in [The New Yorker](https://www.newyorker.com/) on 2 September 2019 about airport, Alexander Nevermind, Apollonia Kotero, Atlanta (place), bootleg, Chanhassen Cinema, Chris Jackson, contract, Country Inn & Suites (place), Dan Piepenbring, Denise Matthews, DJ Kiss, fentanyl, I.C.M., Illinois (place), Jakissa Taylor Semple, Jamie Starr, Jehovah’s Witness, Joey Coco, John Lewis Nelson, Judith Hill, Kim Pratt, Kirk Johnson, Mattie Della Shaw Baker, memoir, Meron Bekure, Michael Jackson, Miles Davis, Moline, Illinois (place), Pam Warren, Penguin Random House, perfume, Peter Bravestrong, Phaedra Ellis-Lamkins, Purple Music (song), Purple Pam, Random House , Raspberry Beret (song), Spiegel & Grau, The Ballad Of Dorothy Parker (song), The Beautiful Ones (book), The Beautiful Ones (song), TMZ (website), Vanity, Vanity 6, vault, Vicodin, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.newyorker.com/magazine/2019/09/09/the-book-of-prince))
 
 ----
 
@@ -388,7 +388,7 @@
 
 ----
 
- - [**"Prince’s Unearthed ‘Originals’: Collaborators Look Back on the Hits He Passed Along -- As demos of future classics like “Manic Monday” and Nothing Compares 2 U” finally see official release, Apollonia, the Bangles’ Susanna Hoffs, and others recall the artist’s “otherworldly” songwriting talents"**](https://www.rollingstone.com/music/music-features/prince-originals-interview-842940/) by Kory Grow in [Rolling Stone](https://www.rollingstone.com/) on 24 June 2019 about Apollonia 6, Apollonia Kotero, Bangles, contract, fentanyl overdose, George Clinton, Jill Jones, Jungle Love (song), Kenny Rogers, Manic Monday (song), Martika, Mazarati, Nasty Girl (song), Nothing Compares 2 U (song), Originals (album), Peggy McCreary, Prince Estate, Sex Shooter (song), Sheena Easton, Sheila E., Sugar Walls (song), Sunset Sound (place), Susan Rogers, Susanna Hoffs, Susannah Melvoin, The Family, The Prince Estate, The Time, Troy Carter, Vanity 6, vault, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/prince-originals-interview-842940/))
+ - [**"Prince’s Unearthed ‘Originals’: Collaborators Look Back on the Hits He Passed Along -- As demos of future classics like “Manic Monday” and Nothing Compares 2 U” finally see official release, Apollonia, the Bangles’ Susanna Hoffs, and others recall the artist’s “otherworldly” songwriting talents"**](https://www.rollingstone.com/music/music-features/prince-originals-interview-842940/) by Kory Grow in [Rolling Stone](https://www.rollingstone.com/) on 24 June 2019 about Apollonia 6, Apollonia Kotero, Bangles, contract, fentanyl overdose, George Clinton, Jill Jones, Jungle Love (song), Kenny Rogers, Manic Monday (song), Martika, Mazarati, Nasty Girl (song), Nothing Compares 2 U (song), Originals (album), Peggy McCreary, perfume, Prince Estate, Sex Shooter (song), Sheena Easton, Sheila E., Sugar Walls (song), Sunset Sound (place), Susan Rogers, Susanna Hoffs, Susannah Melvoin, Tevin Campbell, The Family, The Prince Estate, The Time, Troy Carter, Vanity 6, vault, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/prince-originals-interview-842940/))
 
 ----
 
@@ -401,6 +401,10 @@
 ----
 
  - [**""Prince era música, estaba destinado a la grandeza" -- Michael Howe, 'guardián' del gigantesco archivo que dejó el autor de 'Purple rain', presenta 'Originals' (Warner), que reúne sus composiciones para otras estrellas"**](https://www.elmundo.es/cultura/musica/2019/06/18/5d084c57fdddff86448b45d3.html) in [El Mundo](https://www.elmundo.es/) on 18 June 2019 about Bangles, Jill Jones, Manic Monday (song), Michael Howe, Noon Rendezvous (song), Nothing Compares 2 U (song), Originals (album), Piano and a Microphone 1983 (album), Sinéad O'Connor, vault ([mirror](https://web.archive.org/web/*/https://www.elmundo.es/cultura/musica/2019/06/18/5d084c57fdddff86448b45d3.html))
+
+----
+
+ - [**"UB Special Feature: The Album Eras of Prince"**](https://urbanbridgez.com/2019/06/07/ub-special-feature-the-album-eras-of-prince/) in [UrbanBridgez.com](https://urbanbridgez.com/) on 7 June 2019 about 1999 (album), Academy Award, Alicia Keys, Bangles, Chaka Khan, Controversy (album), Dirty Mind (album), For You (album), Grammy Award, I Feel For You (song), I Wanna Be Your Lover (song), Manic Monday (song), Nothing Compares 2 U (song), Purple Rain (album), Purple Rain (song), The Revolution, Vanity, Vanity Fair (magazine), vault, Warner Bros. Records ([mirror](https://web.archive.org/web/*/https://urbanbridgez.com/2019/06/07/ub-special-feature-the-album-eras-of-prince/))
 
 ----
 
@@ -460,7 +464,7 @@
 
 ----
 
- - [**"Minnesota's best albums of the year (so far): Chastity Brown, Romantica, Brother Ali, Lady Midnight -- This year's 10 albums includes several artists who saw their patience pay off."**](http://www.startribune.com/minnesota-s-best-albums-of-the-year-so-far-brother-ali-chastity-brown-romantica-prince/431623233/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 30 June 2017 about 17 Days (song), bootleg, First Avenue (place), Our Destiny (song), Possessed (song), Purple Rain (album), Roadhouse Garden (song), The Beautiful Ones (song), The Revolution, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/minnesota-s-best-albums-of-the-year-so-far-brother-ali-chastity-brown-romantica-prince/431623233/))
+ - [**"Minnesota's best albums of the year (so far): Chastity Brown, Romantica, Brother Ali, Lady Midnight -- This year's 10 albums includes several artists who saw their patience pay off."**](http://www.startribune.com/minnesota-s-best-albums-of-the-year-so-far-brother-ali-chastity-brown-romantica-prince/431623233/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 30 June 2017 about 17 Days (song), bootleg, Chastity Brown, First Avenue (place), Our Destiny (song), Possessed (song), Purple Rain (album), Roadhouse Garden (song), The Beautiful Ones (song), The Revolution, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/minnesota-s-best-albums-of-the-year-so-far-brother-ali-chastity-brown-romantica-prince/431623233/))
 
 ----
 
@@ -504,7 +508,7 @@
 
 ----
 
- - [**"Susan Rogers - 2016 Red Bull Music Academy lecture"**](https://www.redbullmusicacademy.com/lectures/susan-rogers-lecture) in [Red Bull Music Academy](https://www.redbullmusicacademy.com/) on 8 December 2016 about 17 Days (song), Academy Award, Anita Baker, Bernie Grundman, bootleg, Condition of the Heart (song), contract, First Avenue (place), Grammy Award, James Brown, Jesse Johnson, Jill Jones, Joni Mitchell, Kate Bush, Let’s Go Crazy (song), Lisa Coleman, Little Red Corvette (song), Michael Jackson, Nothing Compares 2 U (song), Pop Life (song), Sheila E., Sometimes It Snows In April (song), Stevie Wonder, Sunset Sound (place), Susan Rogers, Susannah Melvoin, The Ballad Of Dorothy Parker (song), The Revolution, Under the Cherry Moon (movie), University of Minnesota, Vanity 6, vault, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://www.redbullmusicacademy.com/lectures/susan-rogers-lecture))
+ - [**"Susan Rogers - 2016 Red Bull Music Academy lecture"**](https://www.redbullmusicacademy.com/lectures/susan-rogers-lecture) in [Red Bull Music Academy](https://www.redbullmusicacademy.com/) on 8 December 2016 about 17 Days (song), Academy Award, Anita Baker, Bernie Grundman, bootleg, Condition of the Heart (song), contract, First Avenue (place), Grammy Award, James Brown, Jesse Johnson, Jill Jones, Joni Mitchell, Kate Bush, Let’s Go Crazy (song), Lisa Coleman, Little Red Corvette (song), Michael Jackson, Nothing Compares 2 U (song), Pop Life (song), Sheila E., Sometimes It Snows In April (song), Stevie Wonder, Sunset Sound (place), Susan Rogers, Susannah Melvoin, Tevin Campbell, The Ballad Of Dorothy Parker (song), The Revolution, Under the Cherry Moon (movie), University of Minnesota, Vanity 6, vault, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://www.redbullmusicacademy.com/lectures/susan-rogers-lecture))
 
 ----
 

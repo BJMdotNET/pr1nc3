@@ -1,5 +1,11 @@
 # 2020
 
+## February 2020 (1)
+
+ - [**"Juicy J Slams His Record Company in New Song, Then Backs Down"**](https://variety.com/2020/biz/news/juicy-j-slams-columbia-records-sony-music-1203519947/) in [Variety](https://variety.com/) on 29 February 2020 about Juicy J, Soul Train Awards ([mirror](https://web.archive.org/web/*/https://variety.com/2020/biz/news/juicy-j-slams-columbia-records-sony-music-1203519947/))
+
+----
+
 ## January 2020 (5)
 
  - [**"Foo Fighters, Beck, H.E.R., Sheila E. Light Up ‘Grammy Salute to Prince’ Concert"**](https://variety.com/2020/music/news/prince-tribute-concert-foo-fighters-her-beck-1203485036/) in [Variety](https://variety.com/) on 29 January 2020 about 1999 (song), Baby I’m a Star (song), Bangles, Beck, bootleg, Chris Martin, Coldplay, Controversy (song), D’Angelo, Darling Nikki (song), Diamonds and Pearls (song), Earth, Wind & Fire, Foo Fighters, Fred Armisen, Gary Clark Jr., Gretchen Lieberum, H.E.R., Janelle Monae, Jerome Benton, Jimmy Jam, John Legend, Juanes, Jungle Love (song), Ken Ehrlich, Let’s Go Crazy (song), Lisa Coleman, Manic Monday (song), Mavis Staples, Maya Rudolph, Misty Copeland, Morris Day, Mountains (song), Nothing Compares 2 U (song), Pop Life (song), PRINCEss, Purple Rain (song), Raspberry Beret (song), Sheila E., St. Vincent, Stevie Wonder, Super Bowl, Terry Lewis, The Beautiful Ones (song), The Bird (song), The Glamorous Life (song), The Revolution, The Time, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://variety.com/2020/music/news/prince-tribute-concert-foo-fighters-her-beck-1203485036/))

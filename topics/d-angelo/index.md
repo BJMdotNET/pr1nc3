@@ -16,6 +16,10 @@
 
 ----
 
+ - [**"The Curious Case of Tevin Campbell"**](https://www.thereckoningmag.com/the-reckoning-blog/the-curious-case-of-tevin-campbell) in [The Reckoning by The Counter Narrative Project](https://www.thereckoningmag.com/) on 9 May 2019 about Aretha Franklin, Ava DuVernay, Benny Medina, Beyoncé, D’Angelo, Janet Jackson, Jimmy Jam, Lenny Kravitz, Quincy Jones, Terry Lewis, Tevin Campbell, Usher, Warner Bros. Records, Whitney Houston ([mirror](https://web.archive.org/web/*/https://www.thereckoningmag.com/the-reckoning-blog/the-curious-case-of-tevin-campbell))
+
+----
+
  - [**"Raphael Saadiq on His Oscar-Nominated ‘Mudbound’ Song, Working With Mary J. Blige and Declining Prince’s Record Deal"**](https://variety.com/2018/film/news/raphael-saadiq-on-his-oscar-nominated-mudbound-song-working-with-mary-j-blige-and-declining-princes-record-deal-1202708352/) in [Variety](https://variety.com/) on 23 February 2018 about Chaka Khan, D’Angelo, Raphael Saadiq, Sheila E. ([mirror](https://web.archive.org/web/*/https://variety.com/2018/film/news/raphael-saadiq-on-his-oscar-nominated-mudbound-song-working-with-mary-j-blige-and-declining-princes-record-deal-1202708352/))
 
 ----

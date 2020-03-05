@@ -140,7 +140,7 @@
 
 ----
 
- - [**"The Book of Prince -- Prince had grand plans for his autobiography, but only a few months to live."**](https://www.newyorker.com/magazine/2019/09/09/the-book-of-prince) by Dan Piepenbring in [The New Yorker](https://www.newyorker.com/) on 2 September 2019 about airport, Alexander Nevermind, Apollonia Kotero, Atlanta (place), bootleg, Chanhassen Cinema, Chris Jackson, contract, Country Inn & Suites (place), Dan Piepenbring, Denise Matthews, DJ Kiss, fentanyl, I.C.M., Illinois (place), Jakissa Taylor Semple, Jamie Starr, Jehovah’s Witness, Joey Coco, John Lewis Nelson, Judith Hill, Kim Pratt, Kirk Johnson, Mattie Della Shaw Baker, memoir, Meron Bekure, Michael Jackson, Miles Davis, Moline, Illinois (place), Pam Warren, Penguin Random House, Peter Bravestrong, Phaedra Ellis-Lamkins, Purple Music (song), Purple Pam, Random House , Raspberry Beret (song), Spiegel & Grau, The Ballad Of Dorothy Parker (song), The Beautiful Ones (book), The Beautiful Ones (song), TMZ (website), Vanity, Vanity 6, vault, Vicodin, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.newyorker.com/magazine/2019/09/09/the-book-of-prince))
+ - [**"The Book of Prince -- Prince had grand plans for his autobiography, but only a few months to live."**](https://www.newyorker.com/magazine/2019/09/09/the-book-of-prince) by Dan Piepenbring in [The New Yorker](https://www.newyorker.com/) on 2 September 2019 about airport, Alexander Nevermind, Apollonia Kotero, Atlanta (place), bootleg, Chanhassen Cinema, Chris Jackson, contract, Country Inn & Suites (place), Dan Piepenbring, Denise Matthews, DJ Kiss, fentanyl, I.C.M., Illinois (place), Jakissa Taylor Semple, Jamie Starr, Jehovah’s Witness, Joey Coco, John Lewis Nelson, Judith Hill, Kim Pratt, Kirk Johnson, Mattie Della Shaw Baker, memoir, Meron Bekure, Michael Jackson, Miles Davis, Moline, Illinois (place), Pam Warren, Penguin Random House, perfume, Peter Bravestrong, Phaedra Ellis-Lamkins, Purple Music (song), Purple Pam, Random House , Raspberry Beret (song), Spiegel & Grau, The Ballad Of Dorothy Parker (song), The Beautiful Ones (book), The Beautiful Ones (song), TMZ (website), Vanity, Vanity 6, vault, Vicodin, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.newyorker.com/magazine/2019/09/09/the-book-of-prince))
 
 ----
 
@@ -157,6 +157,10 @@
 ----
 
  - [**"Prince Remembered by Three Key Women in His Life"**](https://variety.com/2019/music/news/prince-birthday-remembered-by-three-key-women-originals-1203235532/) by Jem Aswad in [Variety](https://variety.com/) on 7 June 2019 about airport, Apollonia 6, Atlanta (place), Colleen (song), contract, Cynthia Rose, Illinois (place), Jamie Starr, Jill Jones, Lisa Coleman, Manic Monday (song), Mazarati, Michael Jackson, Moline, Illinois (place), Nothing Compares 2 U (song), Originals (album), Peggy McCreary, Quincy Jones, Sheena Easton, Sheila E., Starfish And Coffee (song), Sugar Walls (song), Susan Rogers, Susannah Melvoin, Vanity, Vanity 6, Wendy & Lisa ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/news/prince-birthday-remembered-by-three-key-women-originals-1203235532/))
+
+----
+
+ - [**"UB Special Feature: The Album Eras of Prince"**](https://urbanbridgez.com/2019/06/07/ub-special-feature-the-album-eras-of-prince/) in [UrbanBridgez.com](https://urbanbridgez.com/) on 7 June 2019 about 1999 (album), Academy Award, Alicia Keys, Bangles, Chaka Khan, Controversy (album), Dirty Mind (album), For You (album), Grammy Award, I Feel For You (song), I Wanna Be Your Lover (song), Manic Monday (song), Nothing Compares 2 U (song), Purple Rain (album), Purple Rain (song), The Revolution, Vanity, Vanity Fair (magazine), vault, Warner Bros. Records ([mirror](https://web.archive.org/web/*/https://urbanbridgez.com/2019/06/07/ub-special-feature-the-album-eras-of-prince/))
 
 ----
 

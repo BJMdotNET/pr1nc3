@@ -30,7 +30,7 @@
 
 ----
 
- - [**"Susan Rogers - 2016 Red Bull Music Academy lecture"**](https://www.redbullmusicacademy.com/lectures/susan-rogers-lecture) in [Red Bull Music Academy](https://www.redbullmusicacademy.com/) on 8 December 2016 about 17 Days (song), Academy Award, Anita Baker, Bernie Grundman, bootleg, Condition of the Heart (song), contract, First Avenue (place), Grammy Award, James Brown, Jesse Johnson, Jill Jones, Joni Mitchell, Kate Bush, Let’s Go Crazy (song), Lisa Coleman, Little Red Corvette (song), Michael Jackson, Nothing Compares 2 U (song), Pop Life (song), Sheila E., Sometimes It Snows In April (song), Stevie Wonder, Sunset Sound (place), Susan Rogers, Susannah Melvoin, The Ballad Of Dorothy Parker (song), The Revolution, Under the Cherry Moon (movie), University of Minnesota, Vanity 6, vault, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://www.redbullmusicacademy.com/lectures/susan-rogers-lecture))
+ - [**"Susan Rogers - 2016 Red Bull Music Academy lecture"**](https://www.redbullmusicacademy.com/lectures/susan-rogers-lecture) in [Red Bull Music Academy](https://www.redbullmusicacademy.com/) on 8 December 2016 about 17 Days (song), Academy Award, Anita Baker, Bernie Grundman, bootleg, Condition of the Heart (song), contract, First Avenue (place), Grammy Award, James Brown, Jesse Johnson, Jill Jones, Joni Mitchell, Kate Bush, Let’s Go Crazy (song), Lisa Coleman, Little Red Corvette (song), Michael Jackson, Nothing Compares 2 U (song), Pop Life (song), Sheila E., Sometimes It Snows In April (song), Stevie Wonder, Sunset Sound (place), Susan Rogers, Susannah Melvoin, Tevin Campbell, The Ballad Of Dorothy Parker (song), The Revolution, Under the Cherry Moon (movie), University of Minnesota, Vanity 6, vault, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://www.redbullmusicacademy.com/lectures/susan-rogers-lecture))
 
 ----
 
@@ -182,11 +182,11 @@
 
 ----
 
- - [**"Paisley Park visitors will see Prince’s studio and mementoes"**](https://apnews.com/27290d0a9516483d9f4c6e9509654af0) in [Associated Press News](https://apnews.com/) on 5 October 2016 about Alfred Jackson, Graceland, museum, Norrine Nelson, Prince Estate, The Prince Estate, Tyka Nelson ([mirror](https://web.archive.org/web/*/https://apnews.com/27290d0a9516483d9f4c6e9509654af0))
+ - [**"Paisley Park visitors will see Prince’s studio and mementoes"**](https://apnews.com/27290d0a9516483d9f4c6e9509654af0) in [Associated Press News](https://apnews.com/) on 5 October 2016 about Alfred Jackson, Graceland, museum, Norrine Nelson, NPG Music Club (website), Prince Estate, The Prince Estate, Tyka Nelson ([mirror](https://web.archive.org/web/*/https://apnews.com/27290d0a9516483d9f4c6e9509654af0))
 
 ----
 
- - [**"Paisley Park visitors will see Prince's studio and mementoes"**](http://www.startribune.com/paisley-park-visitors-will-see-prince-s-studio-and-mementoes/396025851/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 October 2016 about Alfred Jackson, Graceland, Graceland Holdings, museum, Norrine Nelson, Prince Estate, The Prince Estate, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-visitors-will-see-prince-s-studio-and-mementoes/396025851/))
+ - [**"Paisley Park visitors will see Prince's studio and mementoes"**](http://www.startribune.com/paisley-park-visitors-will-see-prince-s-studio-and-mementoes/396025851/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 October 2016 about Alfred Jackson, Graceland, Graceland Holdings, museum, Norrine Nelson, NPG Music Club (website), Prince Estate, The Prince Estate, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-visitors-will-see-prince-s-studio-and-mementoes/396025851/))
 
 ----
 
@@ -306,7 +306,7 @@
 
 ----
 
- - [**"Prince Estate: Paisley Park to open for daily paid public tours in fall"**](https://usatoday.com/story/life/2016/08/24/prince-estate-paisley-park-open-daily-paid-public-tours-fall/89298540/) in [USA Today](https://usatoday.com/) on 25 August 2016 about Bremer Trust, Caribbean, Denny Laufenburger, exhibit, exhibition, Graceland, motorcycle, museum, Prince Estate, Tyka Nelson ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/2016/08/24/prince-estate-paisley-park-open-daily-paid-public-tours-fall/89298540/))
+ - [**"Prince Estate: Paisley Park to open for daily paid public tours in fall"**](https://usatoday.com/story/life/2016/08/24/prince-estate-paisley-park-open-daily-paid-public-tours-fall/89298540/) in [USA Today](https://usatoday.com/) on 25 August 2016 about Bremer Trust, Caribbean, Denny Laufenburger, exhibit, exhibition, Graceland, motorcycle, museum, NPG Music Club (website), Prince Estate, Tyka Nelson ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/2016/08/24/prince-estate-paisley-park-open-daily-paid-public-tours-fall/89298540/))
 
 ----
 
@@ -1278,7 +1278,7 @@
 
 ----
 
- - [**"Prince’s sister says musician had no known will"**](https://apnews.com/b7bcc90e42904f679c07158bf5e851a3) in [Associated Press News](https://apnews.com/) on 27 April 2016 about Bremer Trust, Carver County, First Avenue (place), Michael Jackson, probate court, Tyka Nelson, University of Minnesota ([mirror](https://web.archive.org/web/*/https://apnews.com/b7bcc90e42904f679c07158bf5e851a3))
+ - [**"Prince’s sister says musician had no known will"**](https://apnews.com/b7bcc90e42904f679c07158bf5e851a3) in [Associated Press News](https://apnews.com/) on 27 April 2016 about Bremer Trust, Carver County, First Avenue (place), Michael Jackson, perfume, probate court, Tyka Nelson, University of Minnesota ([mirror](https://web.archive.org/web/*/https://apnews.com/b7bcc90e42904f679c07158bf5e851a3))
 
 ----
 
@@ -1542,7 +1542,7 @@
 
 ----
 
- - [**"Prince celebrated with all-night dance party at First Avenue"**](http://www.fox9.com/entertainment/all-night-dance-party-at-first-avenue-to-honor-prince) in [Fox 9](http://www.fox9.com/) on 21 April 2016 about First Avenue (place), Lizzo ([mirror](https://web.archive.org/web/*/http://www.fox9.com/entertainment/all-night-dance-party-at-first-avenue-to-honor-prince))
+ - [**"Prince celebrated with all-night dance party at First Avenue"**](http://www.fox9.com/entertainment/all-night-dance-party-at-first-avenue-to-honor-prince) in [Fox 9](http://www.fox9.com/) on 21 April 2016 about Chastity Brown, First Avenue (place), Lizzo ([mirror](https://web.archive.org/web/*/http://www.fox9.com/entertainment/all-night-dance-party-at-first-avenue-to-honor-prince))
 
 ----
 

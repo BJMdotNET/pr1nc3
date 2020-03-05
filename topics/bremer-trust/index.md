@@ -92,7 +92,7 @@
 
 ----
 
- - [**"Prince Estate: Paisley Park to open for daily paid public tours in fall"**](https://usatoday.com/story/life/2016/08/24/prince-estate-paisley-park-open-daily-paid-public-tours-fall/89298540/) in [USA Today](https://usatoday.com/) on 25 August 2016 about Bremer Trust, Caribbean, Denny Laufenburger, exhibit, exhibition, Graceland, motorcycle, museum, Prince Estate, Tyka Nelson ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/2016/08/24/prince-estate-paisley-park-open-daily-paid-public-tours-fall/89298540/))
+ - [**"Prince Estate: Paisley Park to open for daily paid public tours in fall"**](https://usatoday.com/story/life/2016/08/24/prince-estate-paisley-park-open-daily-paid-public-tours-fall/89298540/) in [USA Today](https://usatoday.com/) on 25 August 2016 about Bremer Trust, Caribbean, Denny Laufenburger, exhibit, exhibition, Graceland, motorcycle, museum, NPG Music Club (website), Prince Estate, Tyka Nelson ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/2016/08/24/prince-estate-paisley-park-open-daily-paid-public-tours-fall/89298540/))
 
 ----
 
@@ -204,7 +204,7 @@
 
 ----
 
- - [**"Prince’s sister says musician had no known will"**](https://apnews.com/b7bcc90e42904f679c07158bf5e851a3) in [Associated Press News](https://apnews.com/) on 27 April 2016 about Bremer Trust, Carver County, First Avenue (place), Michael Jackson, probate court, Tyka Nelson, University of Minnesota ([mirror](https://web.archive.org/web/*/https://apnews.com/b7bcc90e42904f679c07158bf5e851a3))
+ - [**"Prince’s sister says musician had no known will"**](https://apnews.com/b7bcc90e42904f679c07158bf5e851a3) in [Associated Press News](https://apnews.com/) on 27 April 2016 about Bremer Trust, Carver County, First Avenue (place), Michael Jackson, perfume, probate court, Tyka Nelson, University of Minnesota ([mirror](https://web.archive.org/web/*/https://apnews.com/b7bcc90e42904f679c07158bf5e851a3))
 
 ----
 

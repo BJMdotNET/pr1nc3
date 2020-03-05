@@ -168,7 +168,7 @@
 
 ----
 
- - [**"Buddy Holly and Roy Orbison in Minnesota? Hologram tours of old stars are the hot new concert trend -- Buddy Holly is coming to town with Roy Orbison? Yes, rock 'n' roll holograms are here to stay."**](http://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 October 2019 about Aretha Franklin, Ed Sheeran, Frank Zappa, hologram, Lizzo, Michael Jackson, Morris Day ([mirror](https://web.archive.org/web/*/http://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/))
+ - [**"Buddy Holly and Roy Orbison in Minnesota? Hologram tours of old stars are the hot new concert trend -- Buddy Holly is coming to town with Roy Orbison? Yes, rock 'n' roll holograms are here to stay."**](http://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 October 2019 about Aretha Franklin, Ed Sheeran, Frank Zappa, hologram, Lizzo, Michael Jackson, Morris Day, perfume ([mirror](https://web.archive.org/web/*/http://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/))
 
 ----
 
@@ -280,7 +280,7 @@
 
 ----
 
- - [**"The Prince Estate in Partnership with Legacy Recordings Announce Next Wave of Physical Titles in Definitive Catalog Rerelease Project with Prince’s Ultimate Rave on Friday, April 26, 2019"**](https://www.legacyrecordings.com/2019/02/22/the-prince-estate-in-partnership-with-legacy-recordings-announce-next-wave-of-physical-titles-cd-dvd-vinyl-in-definitive-catalog-rerelease-project-with-princes-ultimate-rave-on-friday-april-26-2/) in [Legacy Recordings](https://www.legacyrecordings.com/) on 22 February 2019 about Ani DiFranco, Baby Knows (song), Legacy Recordings, Morris Day, Prince Estate, Rave In2 the Joy Fantastic (album), She’s Always In My Hair (song), The Prince Estate ([mirror](https://web.archive.org/web/*/https://www.legacyrecordings.com/2019/02/22/the-prince-estate-in-partnership-with-legacy-recordings-announce-next-wave-of-physical-titles-cd-dvd-vinyl-in-definitive-catalog-rerelease-project-with-princes-ultimate-rave-on-friday-april-26-2/))
+ - [**"The Prince Estate in Partnership with Legacy Recordings Announce Next Wave of Physical Titles in Definitive Catalog Rerelease Project with Prince’s Ultimate Rave on Friday, April 26, 2019"**](https://www.legacyrecordings.com/2019/02/22/the-prince-estate-in-partnership-with-legacy-recordings-announce-next-wave-of-physical-titles-cd-dvd-vinyl-in-definitive-catalog-rerelease-project-with-princes-ultimate-rave-on-friday-april-26-2/) in [Legacy Recordings](https://www.legacyrecordings.com/) on 22 February 2019 about Ani DiFranco, Baby Knows (song), Legacy Recordings, Morris Day, NPG Music Club (website), Prince Estate, Rave In2 the Joy Fantastic (album), She’s Always In My Hair (song), The Prince Estate ([mirror](https://web.archive.org/web/*/https://www.legacyrecordings.com/2019/02/22/the-prince-estate-in-partnership-with-legacy-recordings-announce-next-wave-of-physical-titles-cd-dvd-vinyl-in-definitive-catalog-rerelease-project-with-princes-ultimate-rave-on-friday-april-26-2/))
 
 ----
 

@@ -160,6 +160,10 @@
 
 ----
 
+ - [**"UB Special Feature: The Album Eras of Prince"**](https://urbanbridgez.com/2019/06/07/ub-special-feature-the-album-eras-of-prince/) in [UrbanBridgez.com](https://urbanbridgez.com/) on 7 June 2019 about 1999 (album), Academy Award, Alicia Keys, Bangles, Chaka Khan, Controversy (album), Dirty Mind (album), For You (album), Grammy Award, I Feel For You (song), I Wanna Be Your Lover (song), Manic Monday (song), Nothing Compares 2 U (song), Purple Rain (album), Purple Rain (song), The Revolution, Vanity, Vanity Fair (magazine), vault, Warner Bros. Records ([mirror](https://web.archive.org/web/*/https://urbanbridgez.com/2019/06/07/ub-special-feature-the-album-eras-of-prince/))
+
+----
+
  - [**"Ani DiFranco: The making of an iconoclast"**](https://www.washingtonpost.com/entertainment/books/ani-difranco-the-making-of-an-iconoclast/2019/05/09/2ddb20f2-6b7e-11e9-8f44-e8d8bb1df986_story.html) in [Washington Post](https://www.washingtonpost.com/) on 10 May 2019 about Ani DiFranco, Grammy Award, memoir ([mirror](https://web.archive.org/web/*/https://www.washingtonpost.com/entertainment/books/ani-difranco-the-making-of-an-iconoclast/2019/05/09/2ddb20f2-6b7e-11e9-8f44-e8d8bb1df986_story.html))
 
 ----
@@ -212,7 +216,7 @@
 
 ----
 
- - [**"Susan Rogers - 2016 Red Bull Music Academy lecture"**](https://www.redbullmusicacademy.com/lectures/susan-rogers-lecture) in [Red Bull Music Academy](https://www.redbullmusicacademy.com/) on 8 December 2016 about 17 Days (song), Academy Award, Anita Baker, Bernie Grundman, bootleg, Condition of the Heart (song), contract, First Avenue (place), Grammy Award, James Brown, Jesse Johnson, Jill Jones, Joni Mitchell, Kate Bush, Let’s Go Crazy (song), Lisa Coleman, Little Red Corvette (song), Michael Jackson, Nothing Compares 2 U (song), Pop Life (song), Sheila E., Sometimes It Snows In April (song), Stevie Wonder, Sunset Sound (place), Susan Rogers, Susannah Melvoin, The Ballad Of Dorothy Parker (song), The Revolution, Under the Cherry Moon (movie), University of Minnesota, Vanity 6, vault, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://www.redbullmusicacademy.com/lectures/susan-rogers-lecture))
+ - [**"Susan Rogers - 2016 Red Bull Music Academy lecture"**](https://www.redbullmusicacademy.com/lectures/susan-rogers-lecture) in [Red Bull Music Academy](https://www.redbullmusicacademy.com/) on 8 December 2016 about 17 Days (song), Academy Award, Anita Baker, Bernie Grundman, bootleg, Condition of the Heart (song), contract, First Avenue (place), Grammy Award, James Brown, Jesse Johnson, Jill Jones, Joni Mitchell, Kate Bush, Let’s Go Crazy (song), Lisa Coleman, Little Red Corvette (song), Michael Jackson, Nothing Compares 2 U (song), Pop Life (song), Sheila E., Sometimes It Snows In April (song), Stevie Wonder, Sunset Sound (place), Susan Rogers, Susannah Melvoin, Tevin Campbell, The Ballad Of Dorothy Parker (song), The Revolution, Under the Cherry Moon (movie), University of Minnesota, Vanity 6, vault, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://www.redbullmusicacademy.com/lectures/susan-rogers-lecture))
 
 ----
 

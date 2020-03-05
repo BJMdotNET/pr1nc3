@@ -1,5 +1,6 @@
 # book
 
+  * [21 Nights (book)](./book/21-nights/) (1)
   * [Biographic: Prince (book)](./book/biographic-prince/) (1)
   * [I Would Die 4 U (book)](./book/i-would-die-4-u/) (1)
   * [It Gets Me Home, This Curving Track (book)](./book/it-gets-me-home-this-curving-track/) (4)

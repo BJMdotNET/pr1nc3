@@ -1,6 +1,10 @@
 # 2020
 
-## February 2020 (1)
+## February 2020 (2)
+
+ - [**"Juicy J Blasts His Record Label on Diss Track ‘Fuk Columbia Records’ -- Three 6 Mafia rapper’s slam features sample of Prince’s 2000 Soul Train Awards speech"**](https://www.rollingstone.com/music/music-news/juicy-j-fuk-columbia-records-diss-track-prince-960106/) in [Rolling Stone](https://www.rollingstone.com/) on 29 February 2020 about Juicy J, Soul Train Awards ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-news/juicy-j-fuk-columbia-records-diss-track-prince-960106/))
+
+----
 
  - [**"Prince Estate’s Next Wave of Reissues: ‘Rainbow Children,’ ‘One Nite Alone …’ -- Prince’s 2001 and 2002 output, including live albums and concert film, to be rereleased April 17th"**](https://www.rollingstone.com/music/music-news/prince-rainbow-children-one-nite-alone-reissues-955535/) in [Rolling Stone](https://www.rollingstone.com/) on 20 February 2020 about Chaos and Disorder (album), Emancipation (album), Legacy Recordings, Live at The Aladdin Las Vegas (DVD), NPG Records, One Nite Alone (album), Pop Life (song), Prince Estate, Prince Live at The Aladdin Las Vegas (DVD), The Prince Estate, The Rainbow Children (album), The Versace Experience (Prelude 2 Gold) (album), Up All Nite with Prince: The One Nite Alone Collection (album) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-news/prince-rainbow-children-one-nite-alone-reissues-955535/))
 

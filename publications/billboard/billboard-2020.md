@@ -1,8 +1,12 @@
 # 2020
 
-## February 2020 (2)
+## February 2020 (3)
 
- - [**"Get Ready For More Prince Rarities: Estate Will Reissue 'The Rainbow Children' and 'One Nite Alone' Albums"**](https://www.billboard.com/articles/columns/rock/8551497/prince-estate-reissuing-live-early-2000s-studio-album) in [Billboard](https://www.billboard.com/) on 20 February 2020 about Candy Dulfer, Eric Leeds, George Clinton, Joni Mitchell, Legacy Recordings, Maceo Parker, Nothing Compares 2 U (song), NPG Records, One Nite Alone (album), Prince Estate, Raspberry Beret (song), Sheila E., The Prince Estate, The Rainbow Children (album), Up All Nite with Prince: The One Nite Alone Collection (album) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/columns/rock/8551497/prince-estate-reissuing-live-early-2000s-studio-album))
+ - [**"Juicy J Apologizes Following Columbia Records-Aimed Diss Track"**](https://www.billboard.com/articles/columns/hip-hop/9325996/juicy-j-columbia-records-diss-track) in [Billboard](https://www.billboard.com/) on 29 February 2020 about Juicy J, Soul Train Awards ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/columns/hip-hop/9325996/juicy-j-columbia-records-diss-track))
+
+----
+
+ - [**"Get Ready For More Prince Rarities: Estate Will Reissue 'The Rainbow Children' and 'One Nite Alone' Albums"**](https://www.billboard.com/articles/columns/rock/8551497/prince-estate-reissuing-live-early-2000s-studio-album) in [Billboard](https://www.billboard.com/) on 20 February 2020 about Candy Dulfer, Eric Leeds, George Clinton, Joni Mitchell, Legacy Recordings, Maceo Parker, Nothing Compares 2 U (song), NPG Music Club (website), NPG Records, One Nite Alone (album), Prince Estate, Raspberry Beret (song), Sheila E., The Prince Estate, The Rainbow Children (album), Up All Nite with Prince: The One Nite Alone Collection (album) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/columns/rock/8551497/prince-estate-reissuing-live-early-2000s-studio-album))
 
 ----
 

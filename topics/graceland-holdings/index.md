@@ -64,7 +64,7 @@
 
 ----
 
- - [**"Paisley Park visitors will see Prince's studio and mementoes"**](http://www.startribune.com/paisley-park-visitors-will-see-prince-s-studio-and-mementoes/396025851/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 October 2016 about Alfred Jackson, Graceland, Graceland Holdings, museum, Norrine Nelson, Prince Estate, The Prince Estate, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-visitors-will-see-prince-s-studio-and-mementoes/396025851/))
+ - [**"Paisley Park visitors will see Prince's studio and mementoes"**](http://www.startribune.com/paisley-park-visitors-will-see-prince-s-studio-and-mementoes/396025851/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 October 2016 about Alfred Jackson, Graceland, Graceland Holdings, museum, Norrine Nelson, NPG Music Club (website), Prince Estate, The Prince Estate, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-visitors-will-see-prince-s-studio-and-mementoes/396025851/))
 
 ----
 

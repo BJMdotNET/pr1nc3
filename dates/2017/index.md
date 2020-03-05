@@ -52,7 +52,7 @@
 
 ----
 
- - [**"Prince's sound engineer, Susan Rogers: 'He needed to be the alpha male to get things done' -- One of a tiny number of female recording engineers, Rogers was there at birth of some of pop’s classics, including When Doves Cry. She recalls the man she knew – and shares her theory about why he loved working with women"**](https://www.theguardian.com/music/2017/nov/09/princes-sound-engineer-susan-rogers-he-needed-to-be-the-alpha-male-to-get-things-done) in [The Guardian](https://www.theguardian.com/) on 9 November 2017 about Eric Clapton, exhibit, exhibition, James Brown, Joni Mitchell, Lisa Coleman, Michael Jackson, Susan Rogers, Wendy Melvoin, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/music/2017/nov/09/princes-sound-engineer-susan-rogers-he-needed-to-be-the-alpha-male-to-get-things-done))
+ - [**"Prince's sound engineer, Susan Rogers: 'He needed to be the alpha male to get things done' -- One of a tiny number of female recording engineers, Rogers was there at birth of some of pop’s classics, including When Doves Cry. She recalls the man she knew – and shares her theory about why he loved working with women"**](https://www.theguardian.com/music/2017/nov/09/princes-sound-engineer-susan-rogers-he-needed-to-be-the-alpha-male-to-get-things-done) in [The Guardian](https://www.theguardian.com/) on 9 November 2017 about Eric Clapton, exhibit, exhibition, James Brown, Joni Mitchell, Lisa Coleman, Michael Jackson, perfume, Susan Rogers, Wendy Melvoin, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/music/2017/nov/09/princes-sound-engineer-susan-rogers-he-needed-to-be-the-alpha-male-to-get-things-done))
 
 ----
 
@@ -280,7 +280,7 @@
 
 ----
 
- - [**"Minnesota's best albums of the year (so far): Chastity Brown, Romantica, Brother Ali, Lady Midnight -- This year's 10 albums includes several artists who saw their patience pay off."**](http://www.startribune.com/minnesota-s-best-albums-of-the-year-so-far-brother-ali-chastity-brown-romantica-prince/431623233/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 30 June 2017 about 17 Days (song), bootleg, First Avenue (place), Our Destiny (song), Possessed (song), Purple Rain (album), Roadhouse Garden (song), The Beautiful Ones (song), The Revolution, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/minnesota-s-best-albums-of-the-year-so-far-brother-ali-chastity-brown-romantica-prince/431623233/))
+ - [**"Minnesota's best albums of the year (so far): Chastity Brown, Romantica, Brother Ali, Lady Midnight -- This year's 10 albums includes several artists who saw their patience pay off."**](http://www.startribune.com/minnesota-s-best-albums-of-the-year-so-far-brother-ali-chastity-brown-romantica-prince/431623233/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 30 June 2017 about 17 Days (song), bootleg, Chastity Brown, First Avenue (place), Our Destiny (song), Possessed (song), Purple Rain (album), Roadhouse Garden (song), The Beautiful Ones (song), The Revolution, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/minnesota-s-best-albums-of-the-year-so-far-brother-ali-chastity-brown-romantica-prince/431623233/))
 
 ----
 
@@ -380,7 +380,7 @@
 
 ----
 
- - [**"Prince’s ex-wife Mayte Garcia pays tribute to late star"**](https://apnews.com/f7d92f7f16cd4330912e7a1674f4c8e7) in [Associated Press News](https://apnews.com/) on 22 April 2017 about Mayte, Mayte Garcia ([mirror](https://web.archive.org/web/*/https://apnews.com/f7d92f7f16cd4330912e7a1674f4c8e7))
+ - [**"Prince’s ex-wife Mayte Garcia pays tribute to late star"**](https://apnews.com/f7d92f7f16cd4330912e7a1674f4c8e7) in [Associated Press News](https://apnews.com/) on 22 April 2017 about Mayte, Mayte Garcia, perfume ([mirror](https://web.archive.org/web/*/https://apnews.com/f7d92f7f16cd4330912e7a1674f4c8e7))
 
 ----
 

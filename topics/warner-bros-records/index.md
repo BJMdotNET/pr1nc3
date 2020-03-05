@@ -40,6 +40,14 @@
 
 ----
 
+ - [**"UB Special Feature: The Album Eras of Prince"**](https://urbanbridgez.com/2019/06/07/ub-special-feature-the-album-eras-of-prince/) in [UrbanBridgez.com](https://urbanbridgez.com/) on 7 June 2019 about 1999 (album), Academy Award, Alicia Keys, Bangles, Chaka Khan, Controversy (album), Dirty Mind (album), For You (album), Grammy Award, I Feel For You (song), I Wanna Be Your Lover (song), Manic Monday (song), Nothing Compares 2 U (song), Purple Rain (album), Purple Rain (song), The Revolution, Vanity, Vanity Fair (magazine), vault, Warner Bros. Records ([mirror](https://web.archive.org/web/*/https://urbanbridgez.com/2019/06/07/ub-special-feature-the-album-eras-of-prince/))
+
+----
+
+ - [**"The Curious Case of Tevin Campbell"**](https://www.thereckoningmag.com/the-reckoning-blog/the-curious-case-of-tevin-campbell) in [The Reckoning by The Counter Narrative Project](https://www.thereckoningmag.com/) on 9 May 2019 about Aretha Franklin, Ava DuVernay, Benny Medina, Beyoncé, D’Angelo, Janet Jackson, Jimmy Jam, Lenny Kravitz, Quincy Jones, Terry Lewis, Tevin Campbell, Usher, Warner Bros. Records, Whitney Houston ([mirror](https://web.archive.org/web/*/https://www.thereckoningmag.com/the-reckoning-blog/the-curious-case-of-tevin-campbell))
+
+----
+
  - [**"Prince Estate to Release ‘Originals’ Album: His Versions of Songs He Gave to Other Artists (EXCLUSIVE)"**](https://variety.com/2019/music/news/prince-estate-to-release-originals-album-songs-he-gave-to-other-artists-1203197451/) by Jem Aswad in [Variety](https://variety.com/) on 24 April 2019 about Apollonia 6, Jill Jones, Kenny Rogers, Manic Monday (song), Mazarati, Nothing Compares 2 U (song), Originals (album), Prince Estate, Sheila E., The Family, The Glamorous Life (song), The Prince Estate, The Time, Tidal, Troy Carter, Vanity, Vanity 6, Warner Bros. Records ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/news/prince-estate-to-release-originals-album-songs-he-gave-to-other-artists-1203197451/))
 
 ----
@@ -56,7 +64,7 @@
 
 ----
 
- - [**"Prince Estate and Sony Release 23 Long-Unavailable Albums Digitally"**](https://variety.com/2018/biz/news/prince-estate-and-sony-release-23-long-unavailable-albums-digitally-1202908647/) in [Variety](https://variety.com/) on 17 August 2018 about 3121 (album), Chaos and Disorder (album), Crystal Ball (album), Emancipation (album), Legacy Recordings, One Nite Alone (album), Prince Anthology: 1995-2010 (album), Prince Estate, Rave In2 the Joy Fantastic (album), Rave Un2 the Joy Fantastic (album), The Prince Estate, Warner Bros. Records ([mirror](https://web.archive.org/web/*/https://variety.com/2018/biz/news/prince-estate-and-sony-release-23-long-unavailable-albums-digitally-1202908647/))
+ - [**"Prince Estate and Sony Release 23 Long-Unavailable Albums Digitally"**](https://variety.com/2018/biz/news/prince-estate-and-sony-release-23-long-unavailable-albums-digitally-1202908647/) in [Variety](https://variety.com/) on 17 August 2018 about 3121 (album), Chaos and Disorder (album), Crystal Ball (album), Emancipation (album), Legacy Recordings, NPG Music Club (website), One Nite Alone (album), Prince Anthology: 1995-2010 (album), Prince Estate, Rave In2 the Joy Fantastic (album), Rave Un2 the Joy Fantastic (album), The Prince Estate, Warner Bros. Records ([mirror](https://web.archive.org/web/*/https://variety.com/2018/biz/news/prince-estate-and-sony-release-23-long-unavailable-albums-digitally-1202908647/))
 
 ----
 

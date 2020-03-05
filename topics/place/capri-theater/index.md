@@ -1,6 +1,6 @@
 # Capri Theater  (place)
 
- - [**"Prince’s memoir ‘The Beautiful Ones’ is ‘warm, funny, well observed, eloquent and surprisingly focused’"**](https://www.twincities.com/2019/10/25/princes-memoir-the-beautiful-ones-is-warm-funny-well-observed-eloquent-and-surprisingly-focused/) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 25 October 2019 about Andrea Swensson, Capri Theater  (place), Chris Jackson, Dan Piepenbring, I Feel For You (song), Joni Mitchell, memoir, Raspberry Beret (song), The Ballad Of Dorothy Parker (song), The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2019/10/25/princes-memoir-the-beautiful-ones-is-warm-funny-well-observed-eloquent-and-surprisingly-focused/))
+ - [**"Prince’s memoir ‘The Beautiful Ones’ is ‘warm, funny, well observed, eloquent and surprisingly focused’"**](https://www.twincities.com/2019/10/25/princes-memoir-the-beautiful-ones-is-warm-funny-well-observed-eloquent-and-surprisingly-focused/) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 25 October 2019 about Andrea Swensson, Capri Theater  (place), Chris Jackson, Dan Piepenbring, I Feel For You (song), Joni Mitchell, memoir, NPG Music Club (website), Raspberry Beret (song), The Ballad Of Dorothy Parker (song), The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2019/10/25/princes-memoir-the-beautiful-ones-is-warm-funny-well-observed-eloquent-and-surprisingly-focused/))
 
 ----
 

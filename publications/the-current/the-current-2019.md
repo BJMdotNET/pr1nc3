@@ -64,7 +64,7 @@
 
 ----
 
- - [**"Watch Chastity Brown debut new music at a recent MicroShow"**](https://www.thecurrent.org/feature/2019/11/04/watch-chastity-brown-debut-new-music-at-a-microshow-in-minneapolis) in [The Current](https://www.thecurrent.org/) on 4 November 2019 ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/11/04/watch-chastity-brown-debut-new-music-at-a-microshow-in-minneapolis))
+ - [**"Watch Chastity Brown debut new music at a recent MicroShow"**](https://www.thecurrent.org/feature/2019/11/04/watch-chastity-brown-debut-new-music-at-a-microshow-in-minneapolis) in [The Current](https://www.thecurrent.org/) on 4 November 2019 about Chastity Brown ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/11/04/watch-chastity-brown-debut-new-music-at-a-microshow-in-minneapolis))
 
 ----
 

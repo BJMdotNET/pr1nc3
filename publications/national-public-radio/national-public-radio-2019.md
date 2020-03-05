@@ -2,7 +2,7 @@
 
 ## November 2019 (3)
 
- - [**"Prince Wanted To 'Break The Mold Of The Memoir,' Says His Co-Writer"**](https://www.npr.org/2019/11/28/782929000/prince-wanted-to-break-the-mold-of-the-memoir-says-his-co-writer) in [National Public Radio](https://www.npr.org/) on 28 November 2019 about Dan Piepenbring, fentanyl, Kim Pratt, Little Red Corvette (song), memoir, Michael Jackson, The Beautiful Ones (book), vault, Vicodin, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.npr.org/2019/11/28/782929000/prince-wanted-to-break-the-mold-of-the-memoir-says-his-co-writer))
+ - [**"Prince Wanted To 'Break The Mold Of The Memoir,' Says His Co-Writer"**](https://www.npr.org/2019/11/28/782929000/prince-wanted-to-break-the-mold-of-the-memoir-says-his-co-writer) in [National Public Radio](https://www.npr.org/) on 28 November 2019 about Dan Piepenbring, fentanyl, fragrance, Kim Pratt, Little Red Corvette (song), memoir, Michael Jackson, perfume, The Beautiful Ones (book), vault, Vicodin, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.npr.org/2019/11/28/782929000/prince-wanted-to-break-the-mold-of-the-memoir-says-his-co-writer))
 
 ----
 
@@ -16,7 +16,7 @@
 
 ## October 2019 (2)
 
- - [**"Prince Wanted To 'Break The Mold Of The Memoir,' Says His Co-Writer"**](https://www.npr.org/2019/10/28/773398141/prince-wanted-to-break-the-mold-of-the-memoir-says-his-co-writer) in [National Public Radio](https://www.npr.org/) on 28 October 2019 about Dan Piepenbring, fentanyl, Little Red Corvette (song), memoir, The Beautiful Ones (book), vault, Vicodin ([mirror](https://web.archive.org/web/*/https://www.npr.org/2019/10/28/773398141/prince-wanted-to-break-the-mold-of-the-memoir-says-his-co-writer))
+ - [**"Prince Wanted To 'Break The Mold Of The Memoir,' Says His Co-Writer"**](https://www.npr.org/2019/10/28/773398141/prince-wanted-to-break-the-mold-of-the-memoir-says-his-co-writer) in [National Public Radio](https://www.npr.org/) on 28 October 2019 about Dan Piepenbring, fentanyl, fragrance, Little Red Corvette (song), memoir, perfume, The Beautiful Ones (book), vault, Vicodin ([mirror](https://web.archive.org/web/*/https://www.npr.org/2019/10/28/773398141/prince-wanted-to-break-the-mold-of-the-memoir-says-his-co-writer))
 
 ----
 

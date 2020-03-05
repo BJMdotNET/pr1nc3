@@ -116,7 +116,7 @@
 
 ----
 
- - [**"Prince Wanted To 'Break The Mold Of The Memoir,' Says His Co-Writer"**](https://www.npr.org/2019/11/28/782929000/prince-wanted-to-break-the-mold-of-the-memoir-says-his-co-writer) in [National Public Radio](https://www.npr.org/) on 28 November 2019 about Dan Piepenbring, fentanyl, Kim Pratt, Little Red Corvette (song), memoir, Michael Jackson, The Beautiful Ones (book), vault, Vicodin, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.npr.org/2019/11/28/782929000/prince-wanted-to-break-the-mold-of-the-memoir-says-his-co-writer))
+ - [**"Prince Wanted To 'Break The Mold Of The Memoir,' Says His Co-Writer"**](https://www.npr.org/2019/11/28/782929000/prince-wanted-to-break-the-mold-of-the-memoir-says-his-co-writer) in [National Public Radio](https://www.npr.org/) on 28 November 2019 about Dan Piepenbring, fentanyl, fragrance, Kim Pratt, Little Red Corvette (song), memoir, Michael Jackson, perfume, The Beautiful Ones (book), vault, Vicodin, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.npr.org/2019/11/28/782929000/prince-wanted-to-break-the-mold-of-the-memoir-says-his-co-writer))
 
 ----
 
@@ -192,7 +192,7 @@
 
 ----
 
- - [**"Prince Wanted To 'Break The Mold Of The Memoir,' Says His Co-Writer"**](https://www.npr.org/2019/10/28/773398141/prince-wanted-to-break-the-mold-of-the-memoir-says-his-co-writer) in [National Public Radio](https://www.npr.org/) on 28 October 2019 about Dan Piepenbring, fentanyl, Little Red Corvette (song), memoir, The Beautiful Ones (book), vault, Vicodin ([mirror](https://web.archive.org/web/*/https://www.npr.org/2019/10/28/773398141/prince-wanted-to-break-the-mold-of-the-memoir-says-his-co-writer))
+ - [**"Prince Wanted To 'Break The Mold Of The Memoir,' Says His Co-Writer"**](https://www.npr.org/2019/10/28/773398141/prince-wanted-to-break-the-mold-of-the-memoir-says-his-co-writer) in [National Public Radio](https://www.npr.org/) on 28 October 2019 about Dan Piepenbring, fentanyl, fragrance, Little Red Corvette (song), memoir, perfume, The Beautiful Ones (book), vault, Vicodin ([mirror](https://web.archive.org/web/*/https://www.npr.org/2019/10/28/773398141/prince-wanted-to-break-the-mold-of-the-memoir-says-his-co-writer))
 
 ----
 
@@ -312,7 +312,7 @@
 
 ----
 
- - [**"Susan Rogers - 2016 Red Bull Music Academy lecture"**](https://www.redbullmusicacademy.com/lectures/susan-rogers-lecture) in [Red Bull Music Academy](https://www.redbullmusicacademy.com/) on 8 December 2016 about 17 Days (song), Academy Award, Anita Baker, Bernie Grundman, bootleg, Condition of the Heart (song), contract, First Avenue (place), Grammy Award, James Brown, Jesse Johnson, Jill Jones, Joni Mitchell, Kate Bush, Let’s Go Crazy (song), Lisa Coleman, Little Red Corvette (song), Michael Jackson, Nothing Compares 2 U (song), Pop Life (song), Sheila E., Sometimes It Snows In April (song), Stevie Wonder, Sunset Sound (place), Susan Rogers, Susannah Melvoin, The Ballad Of Dorothy Parker (song), The Revolution, Under the Cherry Moon (movie), University of Minnesota, Vanity 6, vault, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://www.redbullmusicacademy.com/lectures/susan-rogers-lecture))
+ - [**"Susan Rogers - 2016 Red Bull Music Academy lecture"**](https://www.redbullmusicacademy.com/lectures/susan-rogers-lecture) in [Red Bull Music Academy](https://www.redbullmusicacademy.com/) on 8 December 2016 about 17 Days (song), Academy Award, Anita Baker, Bernie Grundman, bootleg, Condition of the Heart (song), contract, First Avenue (place), Grammy Award, James Brown, Jesse Johnson, Jill Jones, Joni Mitchell, Kate Bush, Let’s Go Crazy (song), Lisa Coleman, Little Red Corvette (song), Michael Jackson, Nothing Compares 2 U (song), Pop Life (song), Sheila E., Sometimes It Snows In April (song), Stevie Wonder, Sunset Sound (place), Susan Rogers, Susannah Melvoin, Tevin Campbell, The Ballad Of Dorothy Parker (song), The Revolution, Under the Cherry Moon (movie), University of Minnesota, Vanity 6, vault, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://www.redbullmusicacademy.com/lectures/susan-rogers-lecture))
 
 ----
 

@@ -12,7 +12,7 @@
 
 ----
 
- - [**"Minnesota's best albums of the year (so far): Chastity Brown, Romantica, Brother Ali, Lady Midnight -- This year's 10 albums includes several artists who saw their patience pay off."**](http://www.startribune.com/minnesota-s-best-albums-of-the-year-so-far-brother-ali-chastity-brown-romantica-prince/431623233/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 30 June 2017 about 17 Days (song), bootleg, First Avenue (place), Our Destiny (song), Possessed (song), Purple Rain (album), Roadhouse Garden (song), The Beautiful Ones (song), The Revolution, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/minnesota-s-best-albums-of-the-year-so-far-brother-ali-chastity-brown-romantica-prince/431623233/))
+ - [**"Minnesota's best albums of the year (so far): Chastity Brown, Romantica, Brother Ali, Lady Midnight -- This year's 10 albums includes several artists who saw their patience pay off."**](http://www.startribune.com/minnesota-s-best-albums-of-the-year-so-far-brother-ali-chastity-brown-romantica-prince/431623233/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 30 June 2017 about 17 Days (song), bootleg, Chastity Brown, First Avenue (place), Our Destiny (song), Possessed (song), Purple Rain (album), Roadhouse Garden (song), The Beautiful Ones (song), The Revolution, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/minnesota-s-best-albums-of-the-year-so-far-brother-ali-chastity-brown-romantica-prince/431623233/))
 
 ----
 
@@ -32,7 +32,7 @@
 
 ----
 
- - [**"Susan Rogers - 2016 Red Bull Music Academy lecture"**](https://www.redbullmusicacademy.com/lectures/susan-rogers-lecture) in [Red Bull Music Academy](https://www.redbullmusicacademy.com/) on 8 December 2016 about 17 Days (song), Academy Award, Anita Baker, Bernie Grundman, bootleg, Condition of the Heart (song), contract, First Avenue (place), Grammy Award, James Brown, Jesse Johnson, Jill Jones, Joni Mitchell, Kate Bush, Let’s Go Crazy (song), Lisa Coleman, Little Red Corvette (song), Michael Jackson, Nothing Compares 2 U (song), Pop Life (song), Sheila E., Sometimes It Snows In April (song), Stevie Wonder, Sunset Sound (place), Susan Rogers, Susannah Melvoin, The Ballad Of Dorothy Parker (song), The Revolution, Under the Cherry Moon (movie), University of Minnesota, Vanity 6, vault, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://www.redbullmusicacademy.com/lectures/susan-rogers-lecture))
+ - [**"Susan Rogers - 2016 Red Bull Music Academy lecture"**](https://www.redbullmusicacademy.com/lectures/susan-rogers-lecture) in [Red Bull Music Academy](https://www.redbullmusicacademy.com/) on 8 December 2016 about 17 Days (song), Academy Award, Anita Baker, Bernie Grundman, bootleg, Condition of the Heart (song), contract, First Avenue (place), Grammy Award, James Brown, Jesse Johnson, Jill Jones, Joni Mitchell, Kate Bush, Let’s Go Crazy (song), Lisa Coleman, Little Red Corvette (song), Michael Jackson, Nothing Compares 2 U (song), Pop Life (song), Sheila E., Sometimes It Snows In April (song), Stevie Wonder, Sunset Sound (place), Susan Rogers, Susannah Melvoin, Tevin Campbell, The Ballad Of Dorothy Parker (song), The Revolution, Under the Cherry Moon (movie), University of Minnesota, Vanity 6, vault, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://www.redbullmusicacademy.com/lectures/susan-rogers-lecture))
 
 ----
 

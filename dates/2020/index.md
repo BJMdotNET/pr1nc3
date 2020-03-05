@@ -1,6 +1,18 @@
 # 2020
 
-## February 2020 (33)
+## February 2020 (36)
+
+ - [**"Juicy J Apologizes Following Columbia Records-Aimed Diss Track"**](https://www.billboard.com/articles/columns/hip-hop/9325996/juicy-j-columbia-records-diss-track) in [Billboard](https://www.billboard.com/) on 29 February 2020 about Juicy J, Soul Train Awards ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/columns/hip-hop/9325996/juicy-j-columbia-records-diss-track))
+
+----
+
+ - [**"Juicy J Blasts His Record Label on Diss Track ‘Fuk Columbia Records’ -- Three 6 Mafia rapper’s slam features sample of Prince’s 2000 Soul Train Awards speech"**](https://www.rollingstone.com/music/music-news/juicy-j-fuk-columbia-records-diss-track-prince-960106/) in [Rolling Stone](https://www.rollingstone.com/) on 29 February 2020 about Juicy J, Soul Train Awards ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-news/juicy-j-fuk-columbia-records-diss-track-prince-960106/))
+
+----
+
+ - [**"Juicy J Slams His Record Company in New Song, Then Backs Down"**](https://variety.com/2020/biz/news/juicy-j-slams-columbia-records-sony-music-1203519947/) in [Variety](https://variety.com/) on 29 February 2020 about Juicy J, Soul Train Awards ([mirror](https://web.archive.org/web/*/https://variety.com/2020/biz/news/juicy-j-slams-columbia-records-sony-music-1203519947/))
+
+----
 
  - [**"Prince estate fight gets even thornier with heir's death and will"**](https://www.bizjournals.com/twincities/news/2020/02/23/prince-estate-fight-gets-even-thornier-with-heirs.html) in [Minneapolis / St. Paul Business Journal](https://www.bizjournals.com/twincities/) on 23 February 2020 about Alfred Jackson, hologram, Michael Jackson, museum, Paisley Park Studios (place), Primary Wave, Prince Estate, Raffles Van Exel, Tyka Nelson, Whitney Houston ([mirror](https://web.archive.org/web/*/https://www.bizjournals.com/twincities/news/2020/02/23/prince-estate-fight-gets-even-thornier-with-heirs.html))
 
@@ -22,7 +34,7 @@
 
 ----
 
- - [**"Get Ready For More Prince Rarities: Estate Will Reissue 'The Rainbow Children' and 'One Nite Alone' Albums"**](https://www.billboard.com/articles/columns/rock/8551497/prince-estate-reissuing-live-early-2000s-studio-album) in [Billboard](https://www.billboard.com/) on 20 February 2020 about Candy Dulfer, Eric Leeds, George Clinton, Joni Mitchell, Legacy Recordings, Maceo Parker, Nothing Compares 2 U (song), NPG Records, One Nite Alone (album), Prince Estate, Raspberry Beret (song), Sheila E., The Prince Estate, The Rainbow Children (album), Up All Nite with Prince: The One Nite Alone Collection (album) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/columns/rock/8551497/prince-estate-reissuing-live-early-2000s-studio-album))
+ - [**"Get Ready For More Prince Rarities: Estate Will Reissue 'The Rainbow Children' and 'One Nite Alone' Albums"**](https://www.billboard.com/articles/columns/rock/8551497/prince-estate-reissuing-live-early-2000s-studio-album) in [Billboard](https://www.billboard.com/) on 20 February 2020 about Candy Dulfer, Eric Leeds, George Clinton, Joni Mitchell, Legacy Recordings, Maceo Parker, Nothing Compares 2 U (song), NPG Music Club (website), NPG Records, One Nite Alone (album), Prince Estate, Raspberry Beret (song), Sheila E., The Prince Estate, The Rainbow Children (album), Up All Nite with Prince: The One Nite Alone Collection (album) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/columns/rock/8551497/prince-estate-reissuing-live-early-2000s-studio-album))
 
 ----
 
@@ -34,7 +46,7 @@
 
 ----
 
- - [**"The Prince Estate in Partnership with Legacy Recordings Announce Next Wave of Physical Titles in Definitive Prince Catalog Reissue Project arriving Friday, April 17"**](https://www.legacyrecordings.com/2020/02/20/the-prince-estate-in-partnership-with-legacy-recordings-announce-next-wave-of-physical-titles-in-definitive-prince-catalog-reissue-project-arriving-friday-april-17/) in [Legacy Recordings](https://www.legacyrecordings.com/) on 20 February 2020 about Around The World In A Day (song), Candy Dulfer, Eric Leeds, George Clinton, James Brown, Joni Mitchell, Legacy Recordings, Live at The Aladdin Las Vegas (DVD), Maceo Parker, New Power Generation, Nothing Compares 2 U (song), NPG Records, One Nite Alone (album), One Nite Alone: The Aftershow…It Ain’t Over! (album), One Nite Alone… (album), One Nite Alone… The Aftershow: It Ain’t Over! (album), One Nite Alone…Live! (album), Pop Life (song), Prince Estate, Prince Live at The Aladdin Las Vegas (DVD), Raspberry Beret (song), Sheila E., Sony Music Entertainment, The Prince Estate, The Rainbow Children (album), Up All Nite with Prince: The One Nite Alone Collection (album) ([mirror](https://web.archive.org/web/*/https://www.legacyrecordings.com/2020/02/20/the-prince-estate-in-partnership-with-legacy-recordings-announce-next-wave-of-physical-titles-in-definitive-prince-catalog-reissue-project-arriving-friday-april-17/))
+ - [**"The Prince Estate in Partnership with Legacy Recordings Announce Next Wave of Physical Titles in Definitive Prince Catalog Reissue Project arriving Friday, April 17"**](https://www.legacyrecordings.com/2020/02/20/the-prince-estate-in-partnership-with-legacy-recordings-announce-next-wave-of-physical-titles-in-definitive-prince-catalog-reissue-project-arriving-friday-april-17/) in [Legacy Recordings](https://www.legacyrecordings.com/) on 20 February 2020 about Around The World In A Day (song), Candy Dulfer, Eric Leeds, George Clinton, James Brown, Joni Mitchell, Legacy Recordings, Live at The Aladdin Las Vegas (DVD), Maceo Parker, New Power Generation, Nothing Compares 2 U (song), NPG Music Club (website), NPG Records, One Nite Alone (album), One Nite Alone: The Aftershow…It Ain’t Over! (album), One Nite Alone… (album), One Nite Alone… The Aftershow: It Ain’t Over! (album), One Nite Alone…Live! (album), Pop Life (song), Prince Estate, Prince Live at The Aladdin Las Vegas (DVD), Raspberry Beret (song), Sheila E., Sony Music Entertainment, The Prince Estate, The Rainbow Children (album), Up All Nite with Prince: The One Nite Alone Collection (album) ([mirror](https://web.archive.org/web/*/https://www.legacyrecordings.com/2020/02/20/the-prince-estate-in-partnership-with-legacy-recordings-announce-next-wave-of-physical-titles-in-definitive-prince-catalog-reissue-project-arriving-friday-april-17/))
 
 ----
 
@@ -106,7 +118,7 @@
 
 ----
 
- - [**"The Hold Steady, Neko Case and local supergroup Golden Smog booked for First Avenue’s 50th birthday weekend"**](https://www.twincities.com/2020/02/13/the-hold-steady-neko-case-and-local-supergroup-golden-smog-booked-for-first-avenues-50th-birthday-weekend/) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 13 February 2020 about Celebration, fentanyl, First Avenue (place), Madonna, Meshell Ndegeocello, Musicology: Real Music by Real Musicians (event), Sometimes It Snows In April (song) ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2020/02/13/the-hold-steady-neko-case-and-local-supergroup-golden-smog-booked-for-first-avenues-50th-birthday-weekend/))
+ - [**"The Hold Steady, Neko Case and local supergroup Golden Smog booked for First Avenue’s 50th birthday weekend"**](https://www.twincities.com/2020/02/13/the-hold-steady-neko-case-and-local-supergroup-golden-smog-booked-for-first-avenues-50th-birthday-weekend/) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 13 February 2020 about Celebration, Chastity Brown, fentanyl, First Avenue (place), Madonna, Meshell Ndegeocello, Musicology: Real Music by Real Musicians (event), Sometimes It Snows In April (song) ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2020/02/13/the-hold-steady-neko-case-and-local-supergroup-golden-smog-booked-for-first-avenues-50th-birthday-weekend/))
 
 ----
 

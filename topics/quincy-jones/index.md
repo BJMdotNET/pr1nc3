@@ -28,6 +28,10 @@
 
 ----
 
+ - [**"The Curious Case of Tevin Campbell"**](https://www.thereckoningmag.com/the-reckoning-blog/the-curious-case-of-tevin-campbell) in [The Reckoning by The Counter Narrative Project](https://www.thereckoningmag.com/) on 9 May 2019 about Aretha Franklin, Ava DuVernay, Benny Medina, Beyoncé, D’Angelo, Janet Jackson, Jimmy Jam, Lenny Kravitz, Quincy Jones, Terry Lewis, Tevin Campbell, Usher, Warner Bros. Records, Whitney Houston ([mirror](https://web.archive.org/web/*/https://www.thereckoningmag.com/the-reckoning-blog/the-curious-case-of-tevin-campbell))
+
+----
+
  - [**"Foundation of Prince’s second wife to honor him at gala"**](https://apnews.com/16e91a0add574df1b24e5df54dfbc087) by Leanne Italie (Associated Press) in [Associated Press News](https://apnews.com/) on 1 March 2019 about Apollonia Kotero, Chaka Khan, In a Perfect World, Manuela Testolini, Quincy Jones ([mirror](https://web.archive.org/web/*/https://apnews.com/16e91a0add574df1b24e5df54dfbc087))
 
 ----

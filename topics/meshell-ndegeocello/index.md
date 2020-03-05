@@ -8,7 +8,7 @@
 
 ----
 
- - [**"The Hold Steady, Neko Case and local supergroup Golden Smog booked for First Avenue’s 50th birthday weekend"**](https://www.twincities.com/2020/02/13/the-hold-steady-neko-case-and-local-supergroup-golden-smog-booked-for-first-avenues-50th-birthday-weekend/) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 13 February 2020 about Celebration, fentanyl, First Avenue (place), Madonna, Meshell Ndegeocello, Musicology: Real Music by Real Musicians (event), Sometimes It Snows In April (song) ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2020/02/13/the-hold-steady-neko-case-and-local-supergroup-golden-smog-booked-for-first-avenues-50th-birthday-weekend/))
+ - [**"The Hold Steady, Neko Case and local supergroup Golden Smog booked for First Avenue’s 50th birthday weekend"**](https://www.twincities.com/2020/02/13/the-hold-steady-neko-case-and-local-supergroup-golden-smog-booked-for-first-avenues-50th-birthday-weekend/) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 13 February 2020 about Celebration, Chastity Brown, fentanyl, First Avenue (place), Madonna, Meshell Ndegeocello, Musicology: Real Music by Real Musicians (event), Sometimes It Snows In April (song) ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2020/02/13/the-hold-steady-neko-case-and-local-supergroup-golden-smog-booked-for-first-avenues-50th-birthday-weekend/))
 
 ----
 

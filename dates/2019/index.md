@@ -296,7 +296,7 @@
 
 ----
 
- - [**"Prince Wanted To 'Break The Mold Of The Memoir,' Says His Co-Writer"**](https://www.npr.org/2019/11/28/782929000/prince-wanted-to-break-the-mold-of-the-memoir-says-his-co-writer) in [National Public Radio](https://www.npr.org/) on 28 November 2019 about Dan Piepenbring, fentanyl, Kim Pratt, Little Red Corvette (song), memoir, Michael Jackson, The Beautiful Ones (book), vault, Vicodin, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.npr.org/2019/11/28/782929000/prince-wanted-to-break-the-mold-of-the-memoir-says-his-co-writer))
+ - [**"Prince Wanted To 'Break The Mold Of The Memoir,' Says His Co-Writer"**](https://www.npr.org/2019/11/28/782929000/prince-wanted-to-break-the-mold-of-the-memoir-says-his-co-writer) in [National Public Radio](https://www.npr.org/) on 28 November 2019 about Dan Piepenbring, fentanyl, fragrance, Kim Pratt, Little Red Corvette (song), memoir, Michael Jackson, perfume, The Beautiful Ones (book), vault, Vicodin, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.npr.org/2019/11/28/782929000/prince-wanted-to-break-the-mold-of-the-memoir-says-his-co-writer))
 
 ----
 
@@ -568,7 +568,7 @@
 
 ----
 
- - [**"Watch Chastity Brown debut new music at a recent MicroShow"**](https://www.thecurrent.org/feature/2019/11/04/watch-chastity-brown-debut-new-music-at-a-microshow-in-minneapolis) in [The Current](https://www.thecurrent.org/) on 4 November 2019 ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/11/04/watch-chastity-brown-debut-new-music-at-a-microshow-in-minneapolis))
+ - [**"Watch Chastity Brown debut new music at a recent MicroShow"**](https://www.thecurrent.org/feature/2019/11/04/watch-chastity-brown-debut-new-music-at-a-microshow-in-minneapolis) in [The Current](https://www.thecurrent.org/) on 4 November 2019 about Chastity Brown ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/11/04/watch-chastity-brown-debut-new-music-at-a-microshow-in-minneapolis))
 
 ----
 
@@ -604,7 +604,7 @@
 
 ----
 
- - [**"Go to Paisley Park While It's Still in Your Heart"**](https://www.houstonpress.com/music/a-trip-to-princes-paisley-park-11373725) in [www.houstonpress.com](https://www.houstonpress.com/) on 1 November 2019 about Academy Award, Aretha Franklin, Charlie Murphy, exhibit, First Avenue (place), Graceland, James Brown, Larry Graham, Lizzo, Minnesota Timberwolves, motorcycle, museum, Obama, Stevie Wonder, Timberwolves, Under the Cherry Moon (movie) ([mirror](https://web.archive.org/web/*/https://www.houstonpress.com/music/a-trip-to-princes-paisley-park-11373725))
+ - [**"Go to Paisley Park While It's Still in Your Heart"**](https://www.houstonpress.com/music/a-trip-to-princes-paisley-park-11373725) in [www.houstonpress.com](https://www.houstonpress.com/) on 1 November 2019 about Academy Award, Aretha Franklin, Charlie Murphy, exhibit, First Avenue (place), Graceland, James Brown, Larry Graham, Lizzo, Minnesota Timberwolves, motorcycle, museum, NPG Music Club (website), Obama, Stevie Wonder, Timberwolves, Under the Cherry Moon (movie) ([mirror](https://web.archive.org/web/*/https://www.houstonpress.com/music/a-trip-to-princes-paisley-park-11373725))
 
 ----
 
@@ -818,7 +818,7 @@
 
 ----
 
- - [**"Prince Wanted To 'Break The Mold Of The Memoir,' Says His Co-Writer"**](https://www.npr.org/2019/10/28/773398141/prince-wanted-to-break-the-mold-of-the-memoir-says-his-co-writer) in [National Public Radio](https://www.npr.org/) on 28 October 2019 about Dan Piepenbring, fentanyl, Little Red Corvette (song), memoir, The Beautiful Ones (book), vault, Vicodin ([mirror](https://web.archive.org/web/*/https://www.npr.org/2019/10/28/773398141/prince-wanted-to-break-the-mold-of-the-memoir-says-his-co-writer))
+ - [**"Prince Wanted To 'Break The Mold Of The Memoir,' Says His Co-Writer"**](https://www.npr.org/2019/10/28/773398141/prince-wanted-to-break-the-mold-of-the-memoir-says-his-co-writer) in [National Public Radio](https://www.npr.org/) on 28 October 2019 about Dan Piepenbring, fentanyl, fragrance, Little Red Corvette (song), memoir, perfume, The Beautiful Ones (book), vault, Vicodin ([mirror](https://web.archive.org/web/*/https://www.npr.org/2019/10/28/773398141/prince-wanted-to-break-the-mold-of-the-memoir-says-his-co-writer))
 
 ----
 
@@ -902,7 +902,7 @@
 
 ----
 
- - [**"Prince’s memoir ‘The Beautiful Ones’ is ‘warm, funny, well observed, eloquent and surprisingly focused’"**](https://www.twincities.com/2019/10/25/princes-memoir-the-beautiful-ones-is-warm-funny-well-observed-eloquent-and-surprisingly-focused/) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 25 October 2019 about Andrea Swensson, Capri Theater  (place), Chris Jackson, Dan Piepenbring, I Feel For You (song), Joni Mitchell, memoir, Raspberry Beret (song), The Ballad Of Dorothy Parker (song), The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2019/10/25/princes-memoir-the-beautiful-ones-is-warm-funny-well-observed-eloquent-and-surprisingly-focused/))
+ - [**"Prince’s memoir ‘The Beautiful Ones’ is ‘warm, funny, well observed, eloquent and surprisingly focused’"**](https://www.twincities.com/2019/10/25/princes-memoir-the-beautiful-ones-is-warm-funny-well-observed-eloquent-and-surprisingly-focused/) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 25 October 2019 about Andrea Swensson, Capri Theater  (place), Chris Jackson, Dan Piepenbring, I Feel For You (song), Joni Mitchell, memoir, NPG Music Club (website), Raspberry Beret (song), The Ballad Of Dorothy Parker (song), The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2019/10/25/princes-memoir-the-beautiful-ones-is-warm-funny-well-observed-eloquent-and-surprisingly-focused/))
 
 ----
 
@@ -1014,7 +1014,7 @@
 
 ----
 
- - [**"Buddy Holly and Roy Orbison in Minnesota? Hologram tours of old stars are the hot new concert trend -- Buddy Holly is coming to town with Roy Orbison? Yes, rock 'n' roll holograms are here to stay."**](http://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 October 2019 about Aretha Franklin, Ed Sheeran, Frank Zappa, hologram, Lizzo, Michael Jackson, Morris Day ([mirror](https://web.archive.org/web/*/http://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/))
+ - [**"Buddy Holly and Roy Orbison in Minnesota? Hologram tours of old stars are the hot new concert trend -- Buddy Holly is coming to town with Roy Orbison? Yes, rock 'n' roll holograms are here to stay."**](http://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 October 2019 about Aretha Franklin, Ed Sheeran, Frank Zappa, hologram, Lizzo, Michael Jackson, Morris Day, perfume ([mirror](https://web.archive.org/web/*/http://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/))
 
 ----
 
@@ -1026,7 +1026,7 @@
 
 ----
 
- - [**""A REMARKABLE MAN!” -- Susan Rogers Reflects upon her Lifelong Journey in Music, What it was Like to Watch a ‘Genius at Work,’ and Her Personal Vow to lift up Prince’s Legacy at Every Turn -- Spotlight: Susan Rogers"**](http://prnalumni.org/members/spotlight/spotlight-susan-rogers/) in [prnalumni.org](http://prnalumni.org/) on 11 October 2019 about André Cymone, Sheena Easton, Susan Rogers ([mirror](https://web.archive.org/web/*/http://prnalumni.org/members/spotlight/spotlight-susan-rogers/))
+ - [**""A REMARKABLE MAN!” -- Susan Rogers Reflects upon her Lifelong Journey in Music, What it was Like to Watch a ‘Genius at Work,’ and Her Personal Vow to lift up Prince’s Legacy at Every Turn -- Spotlight: Susan Rogers"**](http://prnalumni.org/members/spotlight/spotlight-susan-rogers/) in [prnalumni.org](http://prnalumni.org/) on 11 October 2019 about André Cymone, Sheena Easton, Susan Rogers, Tevin Campbell ([mirror](https://web.archive.org/web/*/http://prnalumni.org/members/spotlight/spotlight-susan-rogers/))
 
 ----
 
@@ -1070,7 +1070,7 @@
 
 ----
 
- - [**"The Beautiful Ones' Editor Reveals How Prince Tapped Him to Write His Memoir -- A month after Chris Jackson signed a deal to publish Prince’s memoir, Prince died. Here, Jackson opens up about the three-year journey to make The Purple One proud."**](https://www.oprahmag.com/entertainment/books/a29339794/prince-the-beautiful-ones-book-chris-jackson/) in [Oprah Magazine](https://www.oprahmag.com/) on 9 October 2019 about Chris Jackson, Dan Piepenbring, Esther Newberg, I Wanna Be Your Lover (song), Jehovah’s Witness, Larry Graham, memoir, motorcycle, The Beautiful Ones (book), When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.oprahmag.com/entertainment/books/a29339794/prince-the-beautiful-ones-book-chris-jackson/))
+ - [**"The Beautiful Ones' Editor Reveals How Prince Tapped Him to Write His Memoir -- A month after Chris Jackson signed a deal to publish Prince’s memoir, Prince died. Here, Jackson opens up about the three-year journey to make The Purple One proud."**](https://www.oprahmag.com/entertainment/books/a29339794/prince-the-beautiful-ones-book-chris-jackson/) in [Oprah Magazine](https://www.oprahmag.com/) on 9 October 2019 about Chris Jackson, Dan Piepenbring, Esther Newberg, fragrance, I Wanna Be Your Lover (song), Jehovah’s Witness, Larry Graham, memoir, motorcycle, The Beautiful Ones (book), When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.oprahmag.com/entertainment/books/a29339794/prince-the-beautiful-ones-book-chris-jackson/))
 
 ----
 
@@ -1396,7 +1396,7 @@
 
 ----
 
- - [**"The Book of Prince -- Prince had grand plans for his autobiography, but only a few months to live."**](https://www.newyorker.com/magazine/2019/09/09/the-book-of-prince) by Dan Piepenbring in [The New Yorker](https://www.newyorker.com/) on 2 September 2019 about airport, Alexander Nevermind, Apollonia Kotero, Atlanta (place), bootleg, Chanhassen Cinema, Chris Jackson, contract, Country Inn & Suites (place), Dan Piepenbring, Denise Matthews, DJ Kiss, fentanyl, I.C.M., Illinois (place), Jakissa Taylor Semple, Jamie Starr, Jehovah’s Witness, Joey Coco, John Lewis Nelson, Judith Hill, Kim Pratt, Kirk Johnson, Mattie Della Shaw Baker, memoir, Meron Bekure, Michael Jackson, Miles Davis, Moline, Illinois (place), Pam Warren, Penguin Random House, Peter Bravestrong, Phaedra Ellis-Lamkins, Purple Music (song), Purple Pam, Random House , Raspberry Beret (song), Spiegel & Grau, The Ballad Of Dorothy Parker (song), The Beautiful Ones (book), The Beautiful Ones (song), TMZ (website), Vanity, Vanity 6, vault, Vicodin, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.newyorker.com/magazine/2019/09/09/the-book-of-prince))
+ - [**"The Book of Prince -- Prince had grand plans for his autobiography, but only a few months to live."**](https://www.newyorker.com/magazine/2019/09/09/the-book-of-prince) by Dan Piepenbring in [The New Yorker](https://www.newyorker.com/) on 2 September 2019 about airport, Alexander Nevermind, Apollonia Kotero, Atlanta (place), bootleg, Chanhassen Cinema, Chris Jackson, contract, Country Inn & Suites (place), Dan Piepenbring, Denise Matthews, DJ Kiss, fentanyl, I.C.M., Illinois (place), Jakissa Taylor Semple, Jamie Starr, Jehovah’s Witness, Joey Coco, John Lewis Nelson, Judith Hill, Kim Pratt, Kirk Johnson, Mattie Della Shaw Baker, memoir, Meron Bekure, Michael Jackson, Miles Davis, Moline, Illinois (place), Pam Warren, Penguin Random House, perfume, Peter Bravestrong, Phaedra Ellis-Lamkins, Purple Music (song), Purple Pam, Random House , Raspberry Beret (song), Spiegel & Grau, The Ballad Of Dorothy Parker (song), The Beautiful Ones (book), The Beautiful Ones (song), TMZ (website), Vanity, Vanity 6, vault, Vicodin, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.newyorker.com/magazine/2019/09/09/the-book-of-prince))
 
 ----
 
@@ -1832,7 +1832,7 @@
 
 ----
 
-## June 2019 (49)
+## June 2019 (50)
 
  - [**"Meet the man in charge of releasing Prince’s unheard songs from his private vault"**](https://thewest.com.au/entertainment/meet-the-man-in-charge-of-releasing-princes-unheard-songs-from-his-private-vault-ng-5844d5d8a68b1a7ddac6c4893ef8083f) by Cameron Adams in [The West Australian](https://thewest.com.au/) on 29 June 2019 about Bangles, bootleg, Holly Rock (song), Jill Jones, Joey Coco, Jungle Love (song), Kenny Rogers, Manic Monday (song), Martika, Michael Howe, Originals (album), Sheena Easton, The Family, The Glamorous Life (song), The Time, vault ([mirror](https://web.archive.org/web/*/https://thewest.com.au/entertainment/meet-the-man-in-charge-of-releasing-princes-unheard-songs-from-his-private-vault-ng-5844d5d8a68b1a7ddac6c4893ef8083f))
 
@@ -1878,7 +1878,7 @@
 
 ----
 
- - [**"Prince’s Unearthed ‘Originals’: Collaborators Look Back on the Hits He Passed Along -- As demos of future classics like “Manic Monday” and Nothing Compares 2 U” finally see official release, Apollonia, the Bangles’ Susanna Hoffs, and others recall the artist’s “otherworldly” songwriting talents"**](https://www.rollingstone.com/music/music-features/prince-originals-interview-842940/) by Kory Grow in [Rolling Stone](https://www.rollingstone.com/) on 24 June 2019 about Apollonia 6, Apollonia Kotero, Bangles, contract, fentanyl overdose, George Clinton, Jill Jones, Jungle Love (song), Kenny Rogers, Manic Monday (song), Martika, Mazarati, Nasty Girl (song), Nothing Compares 2 U (song), Originals (album), Peggy McCreary, Prince Estate, Sex Shooter (song), Sheena Easton, Sheila E., Sugar Walls (song), Sunset Sound (place), Susan Rogers, Susanna Hoffs, Susannah Melvoin, The Family, The Prince Estate, The Time, Troy Carter, Vanity 6, vault, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/prince-originals-interview-842940/))
+ - [**"Prince’s Unearthed ‘Originals’: Collaborators Look Back on the Hits He Passed Along -- As demos of future classics like “Manic Monday” and Nothing Compares 2 U” finally see official release, Apollonia, the Bangles’ Susanna Hoffs, and others recall the artist’s “otherworldly” songwriting talents"**](https://www.rollingstone.com/music/music-features/prince-originals-interview-842940/) by Kory Grow in [Rolling Stone](https://www.rollingstone.com/) on 24 June 2019 about Apollonia 6, Apollonia Kotero, Bangles, contract, fentanyl overdose, George Clinton, Jill Jones, Jungle Love (song), Kenny Rogers, Manic Monday (song), Martika, Mazarati, Nasty Girl (song), Nothing Compares 2 U (song), Originals (album), Peggy McCreary, perfume, Prince Estate, Sex Shooter (song), Sheena Easton, Sheila E., Sugar Walls (song), Sunset Sound (place), Susan Rogers, Susanna Hoffs, Susannah Melvoin, Tevin Campbell, The Family, The Prince Estate, The Time, Troy Carter, Vanity 6, vault, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/prince-originals-interview-842940/))
 
 ----
 
@@ -1994,6 +1994,10 @@
 
 ----
 
+ - [**"UB Special Feature: The Album Eras of Prince"**](https://urbanbridgez.com/2019/06/07/ub-special-feature-the-album-eras-of-prince/) in [UrbanBridgez.com](https://urbanbridgez.com/) on 7 June 2019 about 1999 (album), Academy Award, Alicia Keys, Bangles, Chaka Khan, Controversy (album), Dirty Mind (album), For You (album), Grammy Award, I Feel For You (song), I Wanna Be Your Lover (song), Manic Monday (song), Nothing Compares 2 U (song), Purple Rain (album), Purple Rain (song), The Revolution, Vanity, Vanity Fair (magazine), vault, Warner Bros. Records ([mirror](https://web.archive.org/web/*/https://urbanbridgez.com/2019/06/07/ub-special-feature-the-album-eras-of-prince/))
+
+----
+
  - [**"Michael Howe : « J’ai passé en revue 262 titres du Vault pour Prince : Originals »"**](http://www.funku.fr/2019/michael-howe-jai-passe-en-revue-262-titres-du-vault-pour-prince-originals/) in [Funk-U](http://www.funku.fr/) on 6 June 2019 about Bernie Grundman, bootleg, Jill Jones, Jungle Love (song), Michael Howe, Nothing Compares 2 U (song), Originals (album), Prince Estate, Troy Carter, vault ([mirror](https://web.archive.org/web/*/http://www.funku.fr/2019/michael-howe-jai-passe-en-revue-262-titres-du-vault-pour-prince-originals/))
 
 ----
@@ -2030,7 +2034,7 @@
 
 ----
 
-## May 2019 (13)
+## May 2019 (14)
 
  - [**"Prince’s bodyguard deposed in wrongful death lawsuit"**](https://apnews.com/8e68cf25ceb245319425b5952c5d1be8) in [Associated Press News](https://apnews.com/) on 30 May 2019 about Atlanta (place), Carver County, Clayton Tyler, fentanyl, fentanyl overdose, Illinois (place), Kirk Johnson, Michael Schulenberg, Moline, Illinois (place), North Memorial Health Care, oxycodone, Walgreens ([mirror](https://web.archive.org/web/*/https://apnews.com/8e68cf25ceb245319425b5952c5d1be8))
 
@@ -2061,6 +2065,10 @@
 ----
 
  - [**"Prince: Unseen Images Unearthed for Randee St. Nicholas Photo Book -- Singer, photographer previously collaborated on 2008 book 21 Nights"**](https://www.rollingstone.com/music/music-news/prince-photo-book-randee-st-nicholas-833631/) in [Rolling Stone](https://www.rollingstone.com/) on 10 May 2019 about memoir, My Name Is Prince: 25 Inspired Years (book), Randee St. Nicholas ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-news/prince-photo-book-randee-st-nicholas-833631/))
+
+----
+
+ - [**"The Curious Case of Tevin Campbell"**](https://www.thereckoningmag.com/the-reckoning-blog/the-curious-case-of-tevin-campbell) in [The Reckoning by The Counter Narrative Project](https://www.thereckoningmag.com/) on 9 May 2019 about Aretha Franklin, Ava DuVernay, Benny Medina, Beyoncé, D’Angelo, Janet Jackson, Jimmy Jam, Lenny Kravitz, Quincy Jones, Terry Lewis, Tevin Campbell, Usher, Warner Bros. Records, Whitney Houston ([mirror](https://web.archive.org/web/*/https://www.thereckoningmag.com/the-reckoning-blog/the-curious-case-of-tevin-campbell))
 
 ----
 
@@ -2302,7 +2310,7 @@
 
 ## February 2019 (15)
 
- - [**"The Prince Estate in Partnership with Legacy Recordings Announce Next Wave of Physical Titles in Definitive Catalog Rerelease Project with Prince’s Ultimate Rave on Friday, April 26, 2019"**](https://www.legacyrecordings.com/2019/02/22/the-prince-estate-in-partnership-with-legacy-recordings-announce-next-wave-of-physical-titles-cd-dvd-vinyl-in-definitive-catalog-rerelease-project-with-princes-ultimate-rave-on-friday-april-26-2/) in [Legacy Recordings](https://www.legacyrecordings.com/) on 22 February 2019 about Ani DiFranco, Baby Knows (song), Legacy Recordings, Morris Day, Prince Estate, Rave In2 the Joy Fantastic (album), She’s Always In My Hair (song), The Prince Estate ([mirror](https://web.archive.org/web/*/https://www.legacyrecordings.com/2019/02/22/the-prince-estate-in-partnership-with-legacy-recordings-announce-next-wave-of-physical-titles-cd-dvd-vinyl-in-definitive-catalog-rerelease-project-with-princes-ultimate-rave-on-friday-april-26-2/))
+ - [**"The Prince Estate in Partnership with Legacy Recordings Announce Next Wave of Physical Titles in Definitive Catalog Rerelease Project with Prince’s Ultimate Rave on Friday, April 26, 2019"**](https://www.legacyrecordings.com/2019/02/22/the-prince-estate-in-partnership-with-legacy-recordings-announce-next-wave-of-physical-titles-cd-dvd-vinyl-in-definitive-catalog-rerelease-project-with-princes-ultimate-rave-on-friday-april-26-2/) in [Legacy Recordings](https://www.legacyrecordings.com/) on 22 February 2019 about Ani DiFranco, Baby Knows (song), Legacy Recordings, Morris Day, NPG Music Club (website), Prince Estate, Rave In2 the Joy Fantastic (album), She’s Always In My Hair (song), The Prince Estate ([mirror](https://web.archive.org/web/*/https://www.legacyrecordings.com/2019/02/22/the-prince-estate-in-partnership-with-legacy-recordings-announce-next-wave-of-physical-titles-cd-dvd-vinyl-in-definitive-catalog-rerelease-project-with-princes-ultimate-rave-on-friday-april-26-2/))
 
 ----
 

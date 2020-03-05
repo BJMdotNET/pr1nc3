@@ -122,7 +122,7 @@
 
 ----
 
- - [**"Prince’s ex-wife Mayte Garcia pays tribute to late star"**](https://apnews.com/f7d92f7f16cd4330912e7a1674f4c8e7) in [Associated Press News](https://apnews.com/) on 22 April 2017 about Mayte, Mayte Garcia ([mirror](https://web.archive.org/web/*/https://apnews.com/f7d92f7f16cd4330912e7a1674f4c8e7))
+ - [**"Prince’s ex-wife Mayte Garcia pays tribute to late star"**](https://apnews.com/f7d92f7f16cd4330912e7a1674f4c8e7) in [Associated Press News](https://apnews.com/) on 22 April 2017 about Mayte, Mayte Garcia, perfume ([mirror](https://web.archive.org/web/*/https://apnews.com/f7d92f7f16cd4330912e7a1674f4c8e7))
 
 ----
 

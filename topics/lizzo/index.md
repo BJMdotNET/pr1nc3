@@ -92,11 +92,11 @@
 
 ----
 
- - [**"Go to Paisley Park While It's Still in Your Heart"**](https://www.houstonpress.com/music/a-trip-to-princes-paisley-park-11373725) in [www.houstonpress.com](https://www.houstonpress.com/) on 1 November 2019 about Academy Award, Aretha Franklin, Charlie Murphy, exhibit, First Avenue (place), Graceland, James Brown, Larry Graham, Lizzo, Minnesota Timberwolves, motorcycle, museum, Obama, Stevie Wonder, Timberwolves, Under the Cherry Moon (movie) ([mirror](https://web.archive.org/web/*/https://www.houstonpress.com/music/a-trip-to-princes-paisley-park-11373725))
+ - [**"Go to Paisley Park While It's Still in Your Heart"**](https://www.houstonpress.com/music/a-trip-to-princes-paisley-park-11373725) in [www.houstonpress.com](https://www.houstonpress.com/) on 1 November 2019 about Academy Award, Aretha Franklin, Charlie Murphy, exhibit, First Avenue (place), Graceland, James Brown, Larry Graham, Lizzo, Minnesota Timberwolves, motorcycle, museum, NPG Music Club (website), Obama, Stevie Wonder, Timberwolves, Under the Cherry Moon (movie) ([mirror](https://web.archive.org/web/*/https://www.houstonpress.com/music/a-trip-to-princes-paisley-park-11373725))
 
 ----
 
- - [**"Buddy Holly and Roy Orbison in Minnesota? Hologram tours of old stars are the hot new concert trend -- Buddy Holly is coming to town with Roy Orbison? Yes, rock 'n' roll holograms are here to stay."**](http://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 October 2019 about Aretha Franklin, Ed Sheeran, Frank Zappa, hologram, Lizzo, Michael Jackson, Morris Day ([mirror](https://web.archive.org/web/*/http://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/))
+ - [**"Buddy Holly and Roy Orbison in Minnesota? Hologram tours of old stars are the hot new concert trend -- Buddy Holly is coming to town with Roy Orbison? Yes, rock 'n' roll holograms are here to stay."**](http://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 October 2019 about Aretha Franklin, Ed Sheeran, Frank Zappa, hologram, Lizzo, Michael Jackson, Morris Day, perfume ([mirror](https://web.archive.org/web/*/http://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/))
 
 ----
 
@@ -132,7 +132,7 @@
 
 ----
 
- - [**"Prince celebrated with all-night dance party at First Avenue"**](http://www.fox9.com/entertainment/all-night-dance-party-at-first-avenue-to-honor-prince) in [Fox 9](http://www.fox9.com/) on 21 April 2016 about First Avenue (place), Lizzo ([mirror](https://web.archive.org/web/*/http://www.fox9.com/entertainment/all-night-dance-party-at-first-avenue-to-honor-prince))
+ - [**"Prince celebrated with all-night dance party at First Avenue"**](http://www.fox9.com/entertainment/all-night-dance-party-at-first-avenue-to-honor-prince) in [Fox 9](http://www.fox9.com/) on 21 April 2016 about Chastity Brown, First Avenue (place), Lizzo ([mirror](https://web.archive.org/web/*/http://www.fox9.com/entertainment/all-night-dance-party-at-first-avenue-to-honor-prince))
 
 ----
 

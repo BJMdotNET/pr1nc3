@@ -348,7 +348,7 @@
 
 ----
 
- - [**"Prince’s sister says musician had no known will"**](https://apnews.com/b7bcc90e42904f679c07158bf5e851a3) in [Associated Press News](https://apnews.com/) on 27 April 2016 about Bremer Trust, Carver County, First Avenue (place), Michael Jackson, probate court, Tyka Nelson, University of Minnesota ([mirror](https://web.archive.org/web/*/https://apnews.com/b7bcc90e42904f679c07158bf5e851a3))
+ - [**"Prince’s sister says musician had no known will"**](https://apnews.com/b7bcc90e42904f679c07158bf5e851a3) in [Associated Press News](https://apnews.com/) on 27 April 2016 about Bremer Trust, Carver County, First Avenue (place), Michael Jackson, perfume, probate court, Tyka Nelson, University of Minnesota ([mirror](https://web.archive.org/web/*/https://apnews.com/b7bcc90e42904f679c07158bf5e851a3))
 
 ----
 

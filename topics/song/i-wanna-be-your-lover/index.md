@@ -28,7 +28,11 @@
 
 ----
 
- - [**"The Beautiful Ones' Editor Reveals How Prince Tapped Him to Write His Memoir -- A month after Chris Jackson signed a deal to publish Prince’s memoir, Prince died. Here, Jackson opens up about the three-year journey to make The Purple One proud."**](https://www.oprahmag.com/entertainment/books/a29339794/prince-the-beautiful-ones-book-chris-jackson/) in [Oprah Magazine](https://www.oprahmag.com/) on 9 October 2019 about Chris Jackson, Dan Piepenbring, Esther Newberg, I Wanna Be Your Lover (song), Jehovah’s Witness, Larry Graham, memoir, motorcycle, The Beautiful Ones (book), When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.oprahmag.com/entertainment/books/a29339794/prince-the-beautiful-ones-book-chris-jackson/))
+ - [**"The Beautiful Ones' Editor Reveals How Prince Tapped Him to Write His Memoir -- A month after Chris Jackson signed a deal to publish Prince’s memoir, Prince died. Here, Jackson opens up about the three-year journey to make The Purple One proud."**](https://www.oprahmag.com/entertainment/books/a29339794/prince-the-beautiful-ones-book-chris-jackson/) in [Oprah Magazine](https://www.oprahmag.com/) on 9 October 2019 about Chris Jackson, Dan Piepenbring, Esther Newberg, fragrance, I Wanna Be Your Lover (song), Jehovah’s Witness, Larry Graham, memoir, motorcycle, The Beautiful Ones (book), When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.oprahmag.com/entertainment/books/a29339794/prince-the-beautiful-ones-book-chris-jackson/))
+
+----
+
+ - [**"UB Special Feature: The Album Eras of Prince"**](https://urbanbridgez.com/2019/06/07/ub-special-feature-the-album-eras-of-prince/) in [UrbanBridgez.com](https://urbanbridgez.com/) on 7 June 2019 about 1999 (album), Academy Award, Alicia Keys, Bangles, Chaka Khan, Controversy (album), Dirty Mind (album), For You (album), Grammy Award, I Feel For You (song), I Wanna Be Your Lover (song), Manic Monday (song), Nothing Compares 2 U (song), Purple Rain (album), Purple Rain (song), The Revolution, Vanity, Vanity Fair (magazine), vault, Warner Bros. Records ([mirror](https://web.archive.org/web/*/https://urbanbridgez.com/2019/06/07/ub-special-feature-the-album-eras-of-prince/))
 
 ----
 

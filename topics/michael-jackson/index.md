@@ -104,7 +104,7 @@
 
 ----
 
- - [**"Prince Wanted To 'Break The Mold Of The Memoir,' Says His Co-Writer"**](https://www.npr.org/2019/11/28/782929000/prince-wanted-to-break-the-mold-of-the-memoir-says-his-co-writer) in [National Public Radio](https://www.npr.org/) on 28 November 2019 about Dan Piepenbring, fentanyl, Kim Pratt, Little Red Corvette (song), memoir, Michael Jackson, The Beautiful Ones (book), vault, Vicodin, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.npr.org/2019/11/28/782929000/prince-wanted-to-break-the-mold-of-the-memoir-says-his-co-writer))
+ - [**"Prince Wanted To 'Break The Mold Of The Memoir,' Says His Co-Writer"**](https://www.npr.org/2019/11/28/782929000/prince-wanted-to-break-the-mold-of-the-memoir-says-his-co-writer) in [National Public Radio](https://www.npr.org/) on 28 November 2019 about Dan Piepenbring, fentanyl, fragrance, Kim Pratt, Little Red Corvette (song), memoir, Michael Jackson, perfume, The Beautiful Ones (book), vault, Vicodin, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.npr.org/2019/11/28/782929000/prince-wanted-to-break-the-mold-of-the-memoir-says-his-co-writer))
 
 ----
 
@@ -156,7 +156,7 @@
 
 ----
 
- - [**"Buddy Holly and Roy Orbison in Minnesota? Hologram tours of old stars are the hot new concert trend -- Buddy Holly is coming to town with Roy Orbison? Yes, rock 'n' roll holograms are here to stay."**](http://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 October 2019 about Aretha Franklin, Ed Sheeran, Frank Zappa, hologram, Lizzo, Michael Jackson, Morris Day ([mirror](https://web.archive.org/web/*/http://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/))
+ - [**"Buddy Holly and Roy Orbison in Minnesota? Hologram tours of old stars are the hot new concert trend -- Buddy Holly is coming to town with Roy Orbison? Yes, rock 'n' roll holograms are here to stay."**](http://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 October 2019 about Aretha Franklin, Ed Sheeran, Frank Zappa, hologram, Lizzo, Michael Jackson, Morris Day, perfume ([mirror](https://web.archive.org/web/*/http://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/))
 
 ----
 
@@ -176,7 +176,7 @@
 
 ----
 
- - [**"The Book of Prince -- Prince had grand plans for his autobiography, but only a few months to live."**](https://www.newyorker.com/magazine/2019/09/09/the-book-of-prince) by Dan Piepenbring in [The New Yorker](https://www.newyorker.com/) on 2 September 2019 about airport, Alexander Nevermind, Apollonia Kotero, Atlanta (place), bootleg, Chanhassen Cinema, Chris Jackson, contract, Country Inn & Suites (place), Dan Piepenbring, Denise Matthews, DJ Kiss, fentanyl, I.C.M., Illinois (place), Jakissa Taylor Semple, Jamie Starr, Jehovah’s Witness, Joey Coco, John Lewis Nelson, Judith Hill, Kim Pratt, Kirk Johnson, Mattie Della Shaw Baker, memoir, Meron Bekure, Michael Jackson, Miles Davis, Moline, Illinois (place), Pam Warren, Penguin Random House, Peter Bravestrong, Phaedra Ellis-Lamkins, Purple Music (song), Purple Pam, Random House , Raspberry Beret (song), Spiegel & Grau, The Ballad Of Dorothy Parker (song), The Beautiful Ones (book), The Beautiful Ones (song), TMZ (website), Vanity, Vanity 6, vault, Vicodin, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.newyorker.com/magazine/2019/09/09/the-book-of-prince))
+ - [**"The Book of Prince -- Prince had grand plans for his autobiography, but only a few months to live."**](https://www.newyorker.com/magazine/2019/09/09/the-book-of-prince) by Dan Piepenbring in [The New Yorker](https://www.newyorker.com/) on 2 September 2019 about airport, Alexander Nevermind, Apollonia Kotero, Atlanta (place), bootleg, Chanhassen Cinema, Chris Jackson, contract, Country Inn & Suites (place), Dan Piepenbring, Denise Matthews, DJ Kiss, fentanyl, I.C.M., Illinois (place), Jakissa Taylor Semple, Jamie Starr, Jehovah’s Witness, Joey Coco, John Lewis Nelson, Judith Hill, Kim Pratt, Kirk Johnson, Mattie Della Shaw Baker, memoir, Meron Bekure, Michael Jackson, Miles Davis, Moline, Illinois (place), Pam Warren, Penguin Random House, perfume, Peter Bravestrong, Phaedra Ellis-Lamkins, Purple Music (song), Purple Pam, Random House , Raspberry Beret (song), Spiegel & Grau, The Ballad Of Dorothy Parker (song), The Beautiful Ones (book), The Beautiful Ones (song), TMZ (website), Vanity, Vanity 6, vault, Vicodin, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.newyorker.com/magazine/2019/09/09/the-book-of-prince))
 
 ----
 
@@ -244,7 +244,7 @@
 
 ----
 
- - [**"Prince's sound engineer, Susan Rogers: 'He needed to be the alpha male to get things done' -- One of a tiny number of female recording engineers, Rogers was there at birth of some of pop’s classics, including When Doves Cry. She recalls the man she knew – and shares her theory about why he loved working with women"**](https://www.theguardian.com/music/2017/nov/09/princes-sound-engineer-susan-rogers-he-needed-to-be-the-alpha-male-to-get-things-done) in [The Guardian](https://www.theguardian.com/) on 9 November 2017 about Eric Clapton, exhibit, exhibition, James Brown, Joni Mitchell, Lisa Coleman, Michael Jackson, Susan Rogers, Wendy Melvoin, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/music/2017/nov/09/princes-sound-engineer-susan-rogers-he-needed-to-be-the-alpha-male-to-get-things-done))
+ - [**"Prince's sound engineer, Susan Rogers: 'He needed to be the alpha male to get things done' -- One of a tiny number of female recording engineers, Rogers was there at birth of some of pop’s classics, including When Doves Cry. She recalls the man she knew – and shares her theory about why he loved working with women"**](https://www.theguardian.com/music/2017/nov/09/princes-sound-engineer-susan-rogers-he-needed-to-be-the-alpha-male-to-get-things-done) in [The Guardian](https://www.theguardian.com/) on 9 November 2017 about Eric Clapton, exhibit, exhibition, James Brown, Joni Mitchell, Lisa Coleman, Michael Jackson, perfume, Susan Rogers, Wendy Melvoin, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/music/2017/nov/09/princes-sound-engineer-susan-rogers-he-needed-to-be-the-alpha-male-to-get-things-done))
 
 ----
 
@@ -276,7 +276,7 @@
 
 ----
 
- - [**"Susan Rogers - 2016 Red Bull Music Academy lecture"**](https://www.redbullmusicacademy.com/lectures/susan-rogers-lecture) in [Red Bull Music Academy](https://www.redbullmusicacademy.com/) on 8 December 2016 about 17 Days (song), Academy Award, Anita Baker, Bernie Grundman, bootleg, Condition of the Heart (song), contract, First Avenue (place), Grammy Award, James Brown, Jesse Johnson, Jill Jones, Joni Mitchell, Kate Bush, Let’s Go Crazy (song), Lisa Coleman, Little Red Corvette (song), Michael Jackson, Nothing Compares 2 U (song), Pop Life (song), Sheila E., Sometimes It Snows In April (song), Stevie Wonder, Sunset Sound (place), Susan Rogers, Susannah Melvoin, The Ballad Of Dorothy Parker (song), The Revolution, Under the Cherry Moon (movie), University of Minnesota, Vanity 6, vault, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://www.redbullmusicacademy.com/lectures/susan-rogers-lecture))
+ - [**"Susan Rogers - 2016 Red Bull Music Academy lecture"**](https://www.redbullmusicacademy.com/lectures/susan-rogers-lecture) in [Red Bull Music Academy](https://www.redbullmusicacademy.com/) on 8 December 2016 about 17 Days (song), Academy Award, Anita Baker, Bernie Grundman, bootleg, Condition of the Heart (song), contract, First Avenue (place), Grammy Award, James Brown, Jesse Johnson, Jill Jones, Joni Mitchell, Kate Bush, Let’s Go Crazy (song), Lisa Coleman, Little Red Corvette (song), Michael Jackson, Nothing Compares 2 U (song), Pop Life (song), Sheila E., Sometimes It Snows In April (song), Stevie Wonder, Sunset Sound (place), Susan Rogers, Susannah Melvoin, Tevin Campbell, The Ballad Of Dorothy Parker (song), The Revolution, Under the Cherry Moon (movie), University of Minnesota, Vanity 6, vault, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://www.redbullmusicacademy.com/lectures/susan-rogers-lecture))
 
 ----
 
@@ -364,7 +364,7 @@
 
 ----
 
- - [**"Prince’s sister says musician had no known will"**](https://apnews.com/b7bcc90e42904f679c07158bf5e851a3) in [Associated Press News](https://apnews.com/) on 27 April 2016 about Bremer Trust, Carver County, First Avenue (place), Michael Jackson, probate court, Tyka Nelson, University of Minnesota ([mirror](https://web.archive.org/web/*/https://apnews.com/b7bcc90e42904f679c07158bf5e851a3))
+ - [**"Prince’s sister says musician had no known will"**](https://apnews.com/b7bcc90e42904f679c07158bf5e851a3) in [Associated Press News](https://apnews.com/) on 27 April 2016 about Bremer Trust, Carver County, First Avenue (place), Michael Jackson, perfume, probate court, Tyka Nelson, University of Minnesota ([mirror](https://web.archive.org/web/*/https://apnews.com/b7bcc90e42904f679c07158bf5e851a3))
 
 ----
 

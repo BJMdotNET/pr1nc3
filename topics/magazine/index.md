@@ -1,6 +1,6 @@
 # magazine
 
-  * [Vanity Fair (magazine)](./magazine/vanity-fair/) (3)
+  * [Vanity Fair (magazine)](./magazine/vanity-fair/) (4)
 
 ----
 

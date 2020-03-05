@@ -56,7 +56,7 @@
 
 ----
 
- - [**"Prince’s Unearthed ‘Originals’: Collaborators Look Back on the Hits He Passed Along -- As demos of future classics like “Manic Monday” and Nothing Compares 2 U” finally see official release, Apollonia, the Bangles’ Susanna Hoffs, and others recall the artist’s “otherworldly” songwriting talents"**](https://www.rollingstone.com/music/music-features/prince-originals-interview-842940/) by Kory Grow in [Rolling Stone](https://www.rollingstone.com/) on 24 June 2019 about Apollonia 6, Apollonia Kotero, Bangles, contract, fentanyl overdose, George Clinton, Jill Jones, Jungle Love (song), Kenny Rogers, Manic Monday (song), Martika, Mazarati, Nasty Girl (song), Nothing Compares 2 U (song), Originals (album), Peggy McCreary, Prince Estate, Sex Shooter (song), Sheena Easton, Sheila E., Sugar Walls (song), Sunset Sound (place), Susan Rogers, Susanna Hoffs, Susannah Melvoin, The Family, The Prince Estate, The Time, Troy Carter, Vanity 6, vault, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/prince-originals-interview-842940/))
+ - [**"Prince’s Unearthed ‘Originals’: Collaborators Look Back on the Hits He Passed Along -- As demos of future classics like “Manic Monday” and Nothing Compares 2 U” finally see official release, Apollonia, the Bangles’ Susanna Hoffs, and others recall the artist’s “otherworldly” songwriting talents"**](https://www.rollingstone.com/music/music-features/prince-originals-interview-842940/) by Kory Grow in [Rolling Stone](https://www.rollingstone.com/) on 24 June 2019 about Apollonia 6, Apollonia Kotero, Bangles, contract, fentanyl overdose, George Clinton, Jill Jones, Jungle Love (song), Kenny Rogers, Manic Monday (song), Martika, Mazarati, Nasty Girl (song), Nothing Compares 2 U (song), Originals (album), Peggy McCreary, perfume, Prince Estate, Sex Shooter (song), Sheena Easton, Sheila E., Sugar Walls (song), Sunset Sound (place), Susan Rogers, Susanna Hoffs, Susannah Melvoin, Tevin Campbell, The Family, The Prince Estate, The Time, Troy Carter, Vanity 6, vault, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/prince-originals-interview-842940/))
 
 ----
 
@@ -81,6 +81,10 @@
 ----
 
  - [**"Prince Remembered by Three Key Women in His Life"**](https://variety.com/2019/music/news/prince-birthday-remembered-by-three-key-women-originals-1203235532/) by Jem Aswad in [Variety](https://variety.com/) on 7 June 2019 about airport, Apollonia 6, Atlanta (place), Colleen (song), contract, Cynthia Rose, Illinois (place), Jamie Starr, Jill Jones, Lisa Coleman, Manic Monday (song), Mazarati, Michael Jackson, Moline, Illinois (place), Nothing Compares 2 U (song), Originals (album), Peggy McCreary, Quincy Jones, Sheena Easton, Sheila E., Starfish And Coffee (song), Sugar Walls (song), Susan Rogers, Susannah Melvoin, Vanity, Vanity 6, Wendy & Lisa ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/news/prince-birthday-remembered-by-three-key-women-originals-1203235532/))
+
+----
+
+ - [**"UB Special Feature: The Album Eras of Prince"**](https://urbanbridgez.com/2019/06/07/ub-special-feature-the-album-eras-of-prince/) in [UrbanBridgez.com](https://urbanbridgez.com/) on 7 June 2019 about 1999 (album), Academy Award, Alicia Keys, Bangles, Chaka Khan, Controversy (album), Dirty Mind (album), For You (album), Grammy Award, I Feel For You (song), I Wanna Be Your Lover (song), Manic Monday (song), Nothing Compares 2 U (song), Purple Rain (album), Purple Rain (song), The Revolution, Vanity, Vanity Fair (magazine), vault, Warner Bros. Records ([mirror](https://web.archive.org/web/*/https://urbanbridgez.com/2019/06/07/ub-special-feature-the-album-eras-of-prince/))
 
 ----
 

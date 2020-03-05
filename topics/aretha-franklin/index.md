@@ -60,7 +60,7 @@
 
 ----
 
- - [**"Go to Paisley Park While It's Still in Your Heart"**](https://www.houstonpress.com/music/a-trip-to-princes-paisley-park-11373725) in [www.houstonpress.com](https://www.houstonpress.com/) on 1 November 2019 about Academy Award, Aretha Franklin, Charlie Murphy, exhibit, First Avenue (place), Graceland, James Brown, Larry Graham, Lizzo, Minnesota Timberwolves, motorcycle, museum, Obama, Stevie Wonder, Timberwolves, Under the Cherry Moon (movie) ([mirror](https://web.archive.org/web/*/https://www.houstonpress.com/music/a-trip-to-princes-paisley-park-11373725))
+ - [**"Go to Paisley Park While It's Still in Your Heart"**](https://www.houstonpress.com/music/a-trip-to-princes-paisley-park-11373725) in [www.houstonpress.com](https://www.houstonpress.com/) on 1 November 2019 about Academy Award, Aretha Franklin, Charlie Murphy, exhibit, First Avenue (place), Graceland, James Brown, Larry Graham, Lizzo, Minnesota Timberwolves, motorcycle, museum, NPG Music Club (website), Obama, Stevie Wonder, Timberwolves, Under the Cherry Moon (movie) ([mirror](https://web.archive.org/web/*/https://www.houstonpress.com/music/a-trip-to-princes-paisley-park-11373725))
 
 ----
 
@@ -84,7 +84,7 @@
 
 ----
 
- - [**"Buddy Holly and Roy Orbison in Minnesota? Hologram tours of old stars are the hot new concert trend -- Buddy Holly is coming to town with Roy Orbison? Yes, rock 'n' roll holograms are here to stay."**](http://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 October 2019 about Aretha Franklin, Ed Sheeran, Frank Zappa, hologram, Lizzo, Michael Jackson, Morris Day ([mirror](https://web.archive.org/web/*/http://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/))
+ - [**"Buddy Holly and Roy Orbison in Minnesota? Hologram tours of old stars are the hot new concert trend -- Buddy Holly is coming to town with Roy Orbison? Yes, rock 'n' roll holograms are here to stay."**](http://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 October 2019 about Aretha Franklin, Ed Sheeran, Frank Zappa, hologram, Lizzo, Michael Jackson, Morris Day, perfume ([mirror](https://web.archive.org/web/*/http://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/))
 
 ----
 
@@ -93,6 +93,10 @@
 ----
 
  - [**"Prince Originals: exclusive interview with muse and collaborator Susannah Melvoin -- As Prince rarities finally become available on the Originals album, we speak to the woman who inspired Nothing Compares 2 U."**](https://www.officialcharts.com/chart-news/prince-originals-exclusive-interview-with-muse-and-collaborator-susannah-melvoin__26670/) by Martin Talbot in [Official Charts](https://www.officialcharts.com/) on 24 June 2019 about Aretha Franklin, Bangles, Crystal Ball (album), Cynthia Rose, David Geffen, Dream Factory (album), Jill Jones, Kenny Rogers, Little Red Corvette (song), Manic Monday (song), Martika, Nothing Compares 2 U (song), Originals (album), Quincy Jones, Sunset Sound (place), Susannah Melvoin, The Black Album (album), The Family, vault, Wally (song), Wendy & Lisa ([mirror](https://web.archive.org/web/*/https://www.officialcharts.com/chart-news/prince-originals-exclusive-interview-with-muse-and-collaborator-susannah-melvoin__26670/))
+
+----
+
+ - [**"The Curious Case of Tevin Campbell"**](https://www.thereckoningmag.com/the-reckoning-blog/the-curious-case-of-tevin-campbell) in [The Reckoning by The Counter Narrative Project](https://www.thereckoningmag.com/) on 9 May 2019 about Aretha Franklin, Ava DuVernay, Benny Medina, Beyoncé, D’Angelo, Janet Jackson, Jimmy Jam, Lenny Kravitz, Quincy Jones, Terry Lewis, Tevin Campbell, Usher, Warner Bros. Records, Whitney Houston ([mirror](https://web.archive.org/web/*/https://www.thereckoningmag.com/the-reckoning-blog/the-curious-case-of-tevin-campbell))
 
 ----
 

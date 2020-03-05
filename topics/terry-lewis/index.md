@@ -100,6 +100,10 @@
 
 ----
 
+ - [**"The Curious Case of Tevin Campbell"**](https://www.thereckoningmag.com/the-reckoning-blog/the-curious-case-of-tevin-campbell) in [The Reckoning by The Counter Narrative Project](https://www.thereckoningmag.com/) on 9 May 2019 about Aretha Franklin, Ava DuVernay, Benny Medina, Beyoncé, D’Angelo, Janet Jackson, Jimmy Jam, Lenny Kravitz, Quincy Jones, Terry Lewis, Tevin Campbell, Usher, Warner Bros. Records, Whitney Houston ([mirror](https://web.archive.org/web/*/https://www.thereckoningmag.com/the-reckoning-blog/the-curious-case-of-tevin-campbell))
+
+----
+
  - [**"Re-live the 1980s heyday of Minnesota music and comedy in a new photo book -- Writer Martin Keller and photographer Greg Helgeson walked “the thin-grooved line between fandom and journalism,” as chronicled in “Hijinx and Hearsay.”"**](http://www.startribune.com/80s-scenesters-offer-snapshots-of-the-minneapolis-sound-in-new-photo-book/509385652/) by Tim Campbell in [Minneapolis Star Tribune](http://www.startribune.com/) on 7 May 2019 about Capri Theater  (place), Jimmy Jam, Mayte, Terry Lewis ([mirror](https://web.archive.org/web/*/http://www.startribune.com/80s-scenesters-offer-snapshots-of-the-minneapolis-sound-in-new-photo-book/509385652/))
 
 ----

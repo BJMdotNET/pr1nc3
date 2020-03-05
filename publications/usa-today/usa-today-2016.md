@@ -8,7 +8,7 @@
 
 ## August 2016 (2)
 
- - [**"Prince Estate: Paisley Park to open for daily paid public tours in fall"**](https://usatoday.com/story/life/2016/08/24/prince-estate-paisley-park-open-daily-paid-public-tours-fall/89298540/) in [USA Today](https://usatoday.com/) on 25 August 2016 about Bremer Trust, Caribbean, Denny Laufenburger, exhibit, exhibition, Graceland, motorcycle, museum, Prince Estate, Tyka Nelson ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/2016/08/24/prince-estate-paisley-park-open-daily-paid-public-tours-fall/89298540/))
+ - [**"Prince Estate: Paisley Park to open for daily paid public tours in fall"**](https://usatoday.com/story/life/2016/08/24/prince-estate-paisley-park-open-daily-paid-public-tours-fall/89298540/) in [USA Today](https://usatoday.com/) on 25 August 2016 about Bremer Trust, Caribbean, Denny Laufenburger, exhibit, exhibition, Graceland, motorcycle, museum, NPG Music Club (website), Prince Estate, Tyka Nelson ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/2016/08/24/prince-estate-paisley-park-open-daily-paid-public-tours-fall/89298540/))
 
 ----
 

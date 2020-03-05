@@ -40,7 +40,7 @@
 
 ----
 
- - [**"Go to Paisley Park While It's Still in Your Heart"**](https://www.houstonpress.com/music/a-trip-to-princes-paisley-park-11373725) in [www.houstonpress.com](https://www.houstonpress.com/) on 1 November 2019 about Academy Award, Aretha Franklin, Charlie Murphy, exhibit, First Avenue (place), Graceland, James Brown, Larry Graham, Lizzo, Minnesota Timberwolves, motorcycle, museum, Obama, Stevie Wonder, Timberwolves, Under the Cherry Moon (movie) ([mirror](https://web.archive.org/web/*/https://www.houstonpress.com/music/a-trip-to-princes-paisley-park-11373725))
+ - [**"Go to Paisley Park While It's Still in Your Heart"**](https://www.houstonpress.com/music/a-trip-to-princes-paisley-park-11373725) in [www.houstonpress.com](https://www.houstonpress.com/) on 1 November 2019 about Academy Award, Aretha Franklin, Charlie Murphy, exhibit, First Avenue (place), Graceland, James Brown, Larry Graham, Lizzo, Minnesota Timberwolves, motorcycle, museum, NPG Music Club (website), Obama, Stevie Wonder, Timberwolves, Under the Cherry Moon (movie) ([mirror](https://web.archive.org/web/*/https://www.houstonpress.com/music/a-trip-to-princes-paisley-park-11373725))
 
 ----
 
@@ -72,7 +72,7 @@
 
 ----
 
- - [**"Prince's sound engineer, Susan Rogers: 'He needed to be the alpha male to get things done' -- One of a tiny number of female recording engineers, Rogers was there at birth of some of pop’s classics, including When Doves Cry. She recalls the man she knew – and shares her theory about why he loved working with women"**](https://www.theguardian.com/music/2017/nov/09/princes-sound-engineer-susan-rogers-he-needed-to-be-the-alpha-male-to-get-things-done) in [The Guardian](https://www.theguardian.com/) on 9 November 2017 about Eric Clapton, exhibit, exhibition, James Brown, Joni Mitchell, Lisa Coleman, Michael Jackson, Susan Rogers, Wendy Melvoin, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/music/2017/nov/09/princes-sound-engineer-susan-rogers-he-needed-to-be-the-alpha-male-to-get-things-done))
+ - [**"Prince's sound engineer, Susan Rogers: 'He needed to be the alpha male to get things done' -- One of a tiny number of female recording engineers, Rogers was there at birth of some of pop’s classics, including When Doves Cry. She recalls the man she knew – and shares her theory about why he loved working with women"**](https://www.theguardian.com/music/2017/nov/09/princes-sound-engineer-susan-rogers-he-needed-to-be-the-alpha-male-to-get-things-done) in [The Guardian](https://www.theguardian.com/) on 9 November 2017 about Eric Clapton, exhibit, exhibition, James Brown, Joni Mitchell, Lisa Coleman, Michael Jackson, perfume, Susan Rogers, Wendy Melvoin, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/music/2017/nov/09/princes-sound-engineer-susan-rogers-he-needed-to-be-the-alpha-male-to-get-things-done))
 
 ----
 
@@ -84,7 +84,7 @@
 
 ----
 
- - [**"Prince Estate: Paisley Park to open for daily paid public tours in fall"**](https://usatoday.com/story/life/2016/08/24/prince-estate-paisley-park-open-daily-paid-public-tours-fall/89298540/) in [USA Today](https://usatoday.com/) on 25 August 2016 about Bremer Trust, Caribbean, Denny Laufenburger, exhibit, exhibition, Graceland, motorcycle, museum, Prince Estate, Tyka Nelson ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/2016/08/24/prince-estate-paisley-park-open-daily-paid-public-tours-fall/89298540/))
+ - [**"Prince Estate: Paisley Park to open for daily paid public tours in fall"**](https://usatoday.com/story/life/2016/08/24/prince-estate-paisley-park-open-daily-paid-public-tours-fall/89298540/) in [USA Today](https://usatoday.com/) on 25 August 2016 about Bremer Trust, Caribbean, Denny Laufenburger, exhibit, exhibition, Graceland, motorcycle, museum, NPG Music Club (website), Prince Estate, Tyka Nelson ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/2016/08/24/prince-estate-paisley-park-open-daily-paid-public-tours-fall/89298540/))
 
 ----
 

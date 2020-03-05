@@ -4,7 +4,7 @@
 
 ----
 
- - [**"The Hold Steady, Neko Case and local supergroup Golden Smog booked for First Avenue’s 50th birthday weekend"**](https://www.twincities.com/2020/02/13/the-hold-steady-neko-case-and-local-supergroup-golden-smog-booked-for-first-avenues-50th-birthday-weekend/) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 13 February 2020 about Celebration, fentanyl, First Avenue (place), Madonna, Meshell Ndegeocello, Musicology: Real Music by Real Musicians (event), Sometimes It Snows In April (song) ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2020/02/13/the-hold-steady-neko-case-and-local-supergroup-golden-smog-booked-for-first-avenues-50th-birthday-weekend/))
+ - [**"The Hold Steady, Neko Case and local supergroup Golden Smog booked for First Avenue’s 50th birthday weekend"**](https://www.twincities.com/2020/02/13/the-hold-steady-neko-case-and-local-supergroup-golden-smog-booked-for-first-avenues-50th-birthday-weekend/) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 13 February 2020 about Celebration, Chastity Brown, fentanyl, First Avenue (place), Madonna, Meshell Ndegeocello, Musicology: Real Music by Real Musicians (event), Sometimes It Snows In April (song) ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2020/02/13/the-hold-steady-neko-case-and-local-supergroup-golden-smog-booked-for-first-avenues-50th-birthday-weekend/))
 
 ----
 
@@ -64,7 +64,7 @@
 
 ----
 
- - [**"Prince Wanted To 'Break The Mold Of The Memoir,' Says His Co-Writer"**](https://www.npr.org/2019/11/28/782929000/prince-wanted-to-break-the-mold-of-the-memoir-says-his-co-writer) in [National Public Radio](https://www.npr.org/) on 28 November 2019 about Dan Piepenbring, fentanyl, Kim Pratt, Little Red Corvette (song), memoir, Michael Jackson, The Beautiful Ones (book), vault, Vicodin, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.npr.org/2019/11/28/782929000/prince-wanted-to-break-the-mold-of-the-memoir-says-his-co-writer))
+ - [**"Prince Wanted To 'Break The Mold Of The Memoir,' Says His Co-Writer"**](https://www.npr.org/2019/11/28/782929000/prince-wanted-to-break-the-mold-of-the-memoir-says-his-co-writer) in [National Public Radio](https://www.npr.org/) on 28 November 2019 about Dan Piepenbring, fentanyl, fragrance, Kim Pratt, Little Red Corvette (song), memoir, Michael Jackson, perfume, The Beautiful Ones (book), vault, Vicodin, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.npr.org/2019/11/28/782929000/prince-wanted-to-break-the-mold-of-the-memoir-says-his-co-writer))
 
 ----
 
@@ -104,7 +104,7 @@
 
 ----
 
- - [**"Prince Wanted To 'Break The Mold Of The Memoir,' Says His Co-Writer"**](https://www.npr.org/2019/10/28/773398141/prince-wanted-to-break-the-mold-of-the-memoir-says-his-co-writer) in [National Public Radio](https://www.npr.org/) on 28 October 2019 about Dan Piepenbring, fentanyl, Little Red Corvette (song), memoir, The Beautiful Ones (book), vault, Vicodin ([mirror](https://web.archive.org/web/*/https://www.npr.org/2019/10/28/773398141/prince-wanted-to-break-the-mold-of-the-memoir-says-his-co-writer))
+ - [**"Prince Wanted To 'Break The Mold Of The Memoir,' Says His Co-Writer"**](https://www.npr.org/2019/10/28/773398141/prince-wanted-to-break-the-mold-of-the-memoir-says-his-co-writer) in [National Public Radio](https://www.npr.org/) on 28 October 2019 about Dan Piepenbring, fentanyl, fragrance, Little Red Corvette (song), memoir, perfume, The Beautiful Ones (book), vault, Vicodin ([mirror](https://web.archive.org/web/*/https://www.npr.org/2019/10/28/773398141/prince-wanted-to-break-the-mold-of-the-memoir-says-his-co-writer))
 
 ----
 
@@ -128,7 +128,7 @@
 
 ----
 
- - [**"The Book of Prince -- Prince had grand plans for his autobiography, but only a few months to live."**](https://www.newyorker.com/magazine/2019/09/09/the-book-of-prince) by Dan Piepenbring in [The New Yorker](https://www.newyorker.com/) on 2 September 2019 about airport, Alexander Nevermind, Apollonia Kotero, Atlanta (place), bootleg, Chanhassen Cinema, Chris Jackson, contract, Country Inn & Suites (place), Dan Piepenbring, Denise Matthews, DJ Kiss, fentanyl, I.C.M., Illinois (place), Jakissa Taylor Semple, Jamie Starr, Jehovah’s Witness, Joey Coco, John Lewis Nelson, Judith Hill, Kim Pratt, Kirk Johnson, Mattie Della Shaw Baker, memoir, Meron Bekure, Michael Jackson, Miles Davis, Moline, Illinois (place), Pam Warren, Penguin Random House, Peter Bravestrong, Phaedra Ellis-Lamkins, Purple Music (song), Purple Pam, Random House , Raspberry Beret (song), Spiegel & Grau, The Ballad Of Dorothy Parker (song), The Beautiful Ones (book), The Beautiful Ones (song), TMZ (website), Vanity, Vanity 6, vault, Vicodin, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.newyorker.com/magazine/2019/09/09/the-book-of-prince))
+ - [**"The Book of Prince -- Prince had grand plans for his autobiography, but only a few months to live."**](https://www.newyorker.com/magazine/2019/09/09/the-book-of-prince) by Dan Piepenbring in [The New Yorker](https://www.newyorker.com/) on 2 September 2019 about airport, Alexander Nevermind, Apollonia Kotero, Atlanta (place), bootleg, Chanhassen Cinema, Chris Jackson, contract, Country Inn & Suites (place), Dan Piepenbring, Denise Matthews, DJ Kiss, fentanyl, I.C.M., Illinois (place), Jakissa Taylor Semple, Jamie Starr, Jehovah’s Witness, Joey Coco, John Lewis Nelson, Judith Hill, Kim Pratt, Kirk Johnson, Mattie Della Shaw Baker, memoir, Meron Bekure, Michael Jackson, Miles Davis, Moline, Illinois (place), Pam Warren, Penguin Random House, perfume, Peter Bravestrong, Phaedra Ellis-Lamkins, Purple Music (song), Purple Pam, Random House , Raspberry Beret (song), Spiegel & Grau, The Ballad Of Dorothy Parker (song), The Beautiful Ones (book), The Beautiful Ones (song), TMZ (website), Vanity, Vanity 6, vault, Vicodin, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.newyorker.com/magazine/2019/09/09/the-book-of-prince))
 
 ----
 

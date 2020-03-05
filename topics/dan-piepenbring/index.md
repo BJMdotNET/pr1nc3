@@ -44,7 +44,7 @@
 
 ----
 
- - [**"Prince Wanted To 'Break The Mold Of The Memoir,' Says His Co-Writer"**](https://www.npr.org/2019/11/28/782929000/prince-wanted-to-break-the-mold-of-the-memoir-says-his-co-writer) in [National Public Radio](https://www.npr.org/) on 28 November 2019 about Dan Piepenbring, fentanyl, Kim Pratt, Little Red Corvette (song), memoir, Michael Jackson, The Beautiful Ones (book), vault, Vicodin, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.npr.org/2019/11/28/782929000/prince-wanted-to-break-the-mold-of-the-memoir-says-his-co-writer))
+ - [**"Prince Wanted To 'Break The Mold Of The Memoir,' Says His Co-Writer"**](https://www.npr.org/2019/11/28/782929000/prince-wanted-to-break-the-mold-of-the-memoir-says-his-co-writer) in [National Public Radio](https://www.npr.org/) on 28 November 2019 about Dan Piepenbring, fentanyl, fragrance, Kim Pratt, Little Red Corvette (song), memoir, Michael Jackson, perfume, The Beautiful Ones (book), vault, Vicodin, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.npr.org/2019/11/28/782929000/prince-wanted-to-break-the-mold-of-the-memoir-says-his-co-writer))
 
 ----
 
@@ -280,7 +280,7 @@
 
 ----
 
- - [**"Prince Wanted To 'Break The Mold Of The Memoir,' Says His Co-Writer"**](https://www.npr.org/2019/10/28/773398141/prince-wanted-to-break-the-mold-of-the-memoir-says-his-co-writer) in [National Public Radio](https://www.npr.org/) on 28 October 2019 about Dan Piepenbring, fentanyl, Little Red Corvette (song), memoir, The Beautiful Ones (book), vault, Vicodin ([mirror](https://web.archive.org/web/*/https://www.npr.org/2019/10/28/773398141/prince-wanted-to-break-the-mold-of-the-memoir-says-his-co-writer))
+ - [**"Prince Wanted To 'Break The Mold Of The Memoir,' Says His Co-Writer"**](https://www.npr.org/2019/10/28/773398141/prince-wanted-to-break-the-mold-of-the-memoir-says-his-co-writer) in [National Public Radio](https://www.npr.org/) on 28 October 2019 about Dan Piepenbring, fentanyl, fragrance, Little Red Corvette (song), memoir, perfume, The Beautiful Ones (book), vault, Vicodin ([mirror](https://web.archive.org/web/*/https://www.npr.org/2019/10/28/773398141/prince-wanted-to-break-the-mold-of-the-memoir-says-his-co-writer))
 
 ----
 
@@ -348,7 +348,7 @@
 
 ----
 
- - [**"Prince’s memoir ‘The Beautiful Ones’ is ‘warm, funny, well observed, eloquent and surprisingly focused’"**](https://www.twincities.com/2019/10/25/princes-memoir-the-beautiful-ones-is-warm-funny-well-observed-eloquent-and-surprisingly-focused/) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 25 October 2019 about Andrea Swensson, Capri Theater  (place), Chris Jackson, Dan Piepenbring, I Feel For You (song), Joni Mitchell, memoir, Raspberry Beret (song), The Ballad Of Dorothy Parker (song), The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2019/10/25/princes-memoir-the-beautiful-ones-is-warm-funny-well-observed-eloquent-and-surprisingly-focused/))
+ - [**"Prince’s memoir ‘The Beautiful Ones’ is ‘warm, funny, well observed, eloquent and surprisingly focused’"**](https://www.twincities.com/2019/10/25/princes-memoir-the-beautiful-ones-is-warm-funny-well-observed-eloquent-and-surprisingly-focused/) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 25 October 2019 about Andrea Swensson, Capri Theater  (place), Chris Jackson, Dan Piepenbring, I Feel For You (song), Joni Mitchell, memoir, NPG Music Club (website), Raspberry Beret (song), The Ballad Of Dorothy Parker (song), The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2019/10/25/princes-memoir-the-beautiful-ones-is-warm-funny-well-observed-eloquent-and-surprisingly-focused/))
 
 ----
 
@@ -360,7 +360,7 @@
 
 ----
 
- - [**"The Beautiful Ones' Editor Reveals How Prince Tapped Him to Write His Memoir -- A month after Chris Jackson signed a deal to publish Prince’s memoir, Prince died. Here, Jackson opens up about the three-year journey to make The Purple One proud."**](https://www.oprahmag.com/entertainment/books/a29339794/prince-the-beautiful-ones-book-chris-jackson/) in [Oprah Magazine](https://www.oprahmag.com/) on 9 October 2019 about Chris Jackson, Dan Piepenbring, Esther Newberg, I Wanna Be Your Lover (song), Jehovah’s Witness, Larry Graham, memoir, motorcycle, The Beautiful Ones (book), When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.oprahmag.com/entertainment/books/a29339794/prince-the-beautiful-ones-book-chris-jackson/))
+ - [**"The Beautiful Ones' Editor Reveals How Prince Tapped Him to Write His Memoir -- A month after Chris Jackson signed a deal to publish Prince’s memoir, Prince died. Here, Jackson opens up about the three-year journey to make The Purple One proud."**](https://www.oprahmag.com/entertainment/books/a29339794/prince-the-beautiful-ones-book-chris-jackson/) in [Oprah Magazine](https://www.oprahmag.com/) on 9 October 2019 about Chris Jackson, Dan Piepenbring, Esther Newberg, fragrance, I Wanna Be Your Lover (song), Jehovah’s Witness, Larry Graham, memoir, motorcycle, The Beautiful Ones (book), When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.oprahmag.com/entertainment/books/a29339794/prince-the-beautiful-ones-book-chris-jackson/))
 
 ----
 
@@ -388,7 +388,7 @@
 
 ----
 
- - [**"The Book of Prince -- Prince had grand plans for his autobiography, but only a few months to live."**](https://www.newyorker.com/magazine/2019/09/09/the-book-of-prince) by Dan Piepenbring in [The New Yorker](https://www.newyorker.com/) on 2 September 2019 about airport, Alexander Nevermind, Apollonia Kotero, Atlanta (place), bootleg, Chanhassen Cinema, Chris Jackson, contract, Country Inn & Suites (place), Dan Piepenbring, Denise Matthews, DJ Kiss, fentanyl, I.C.M., Illinois (place), Jakissa Taylor Semple, Jamie Starr, Jehovah’s Witness, Joey Coco, John Lewis Nelson, Judith Hill, Kim Pratt, Kirk Johnson, Mattie Della Shaw Baker, memoir, Meron Bekure, Michael Jackson, Miles Davis, Moline, Illinois (place), Pam Warren, Penguin Random House, Peter Bravestrong, Phaedra Ellis-Lamkins, Purple Music (song), Purple Pam, Random House , Raspberry Beret (song), Spiegel & Grau, The Ballad Of Dorothy Parker (song), The Beautiful Ones (book), The Beautiful Ones (song), TMZ (website), Vanity, Vanity 6, vault, Vicodin, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.newyorker.com/magazine/2019/09/09/the-book-of-prince))
+ - [**"The Book of Prince -- Prince had grand plans for his autobiography, but only a few months to live."**](https://www.newyorker.com/magazine/2019/09/09/the-book-of-prince) by Dan Piepenbring in [The New Yorker](https://www.newyorker.com/) on 2 September 2019 about airport, Alexander Nevermind, Apollonia Kotero, Atlanta (place), bootleg, Chanhassen Cinema, Chris Jackson, contract, Country Inn & Suites (place), Dan Piepenbring, Denise Matthews, DJ Kiss, fentanyl, I.C.M., Illinois (place), Jakissa Taylor Semple, Jamie Starr, Jehovah’s Witness, Joey Coco, John Lewis Nelson, Judith Hill, Kim Pratt, Kirk Johnson, Mattie Della Shaw Baker, memoir, Meron Bekure, Michael Jackson, Miles Davis, Moline, Illinois (place), Pam Warren, Penguin Random House, perfume, Peter Bravestrong, Phaedra Ellis-Lamkins, Purple Music (song), Purple Pam, Random House , Raspberry Beret (song), Spiegel & Grau, The Ballad Of Dorothy Parker (song), The Beautiful Ones (book), The Beautiful Ones (song), TMZ (website), Vanity, Vanity 6, vault, Vicodin, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.newyorker.com/magazine/2019/09/09/the-book-of-prince))
 
 ----
 

@@ -8,7 +8,7 @@
 
 ----
 
- - [**"The Hold Steady, Neko Case and local supergroup Golden Smog booked for First Avenue’s 50th birthday weekend"**](https://www.twincities.com/2020/02/13/the-hold-steady-neko-case-and-local-supergroup-golden-smog-booked-for-first-avenues-50th-birthday-weekend/) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 13 February 2020 about Celebration, fentanyl, First Avenue (place), Madonna, Meshell Ndegeocello, Musicology: Real Music by Real Musicians (event), Sometimes It Snows In April (song) ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2020/02/13/the-hold-steady-neko-case-and-local-supergroup-golden-smog-booked-for-first-avenues-50th-birthday-weekend/))
+ - [**"The Hold Steady, Neko Case and local supergroup Golden Smog booked for First Avenue’s 50th birthday weekend"**](https://www.twincities.com/2020/02/13/the-hold-steady-neko-case-and-local-supergroup-golden-smog-booked-for-first-avenues-50th-birthday-weekend/) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 13 February 2020 about Celebration, Chastity Brown, fentanyl, First Avenue (place), Madonna, Meshell Ndegeocello, Musicology: Real Music by Real Musicians (event), Sometimes It Snows In April (song) ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2020/02/13/the-hold-steady-neko-case-and-local-supergroup-golden-smog-booked-for-first-avenues-50th-birthday-weekend/))
 
 ----
 
@@ -36,7 +36,7 @@
 
 ----
 
- - [**"Susan Rogers - 2016 Red Bull Music Academy lecture"**](https://www.redbullmusicacademy.com/lectures/susan-rogers-lecture) in [Red Bull Music Academy](https://www.redbullmusicacademy.com/) on 8 December 2016 about 17 Days (song), Academy Award, Anita Baker, Bernie Grundman, bootleg, Condition of the Heart (song), contract, First Avenue (place), Grammy Award, James Brown, Jesse Johnson, Jill Jones, Joni Mitchell, Kate Bush, Let’s Go Crazy (song), Lisa Coleman, Little Red Corvette (song), Michael Jackson, Nothing Compares 2 U (song), Pop Life (song), Sheila E., Sometimes It Snows In April (song), Stevie Wonder, Sunset Sound (place), Susan Rogers, Susannah Melvoin, The Ballad Of Dorothy Parker (song), The Revolution, Under the Cherry Moon (movie), University of Minnesota, Vanity 6, vault, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://www.redbullmusicacademy.com/lectures/susan-rogers-lecture))
+ - [**"Susan Rogers - 2016 Red Bull Music Academy lecture"**](https://www.redbullmusicacademy.com/lectures/susan-rogers-lecture) in [Red Bull Music Academy](https://www.redbullmusicacademy.com/) on 8 December 2016 about 17 Days (song), Academy Award, Anita Baker, Bernie Grundman, bootleg, Condition of the Heart (song), contract, First Avenue (place), Grammy Award, James Brown, Jesse Johnson, Jill Jones, Joni Mitchell, Kate Bush, Let’s Go Crazy (song), Lisa Coleman, Little Red Corvette (song), Michael Jackson, Nothing Compares 2 U (song), Pop Life (song), Sheila E., Sometimes It Snows In April (song), Stevie Wonder, Sunset Sound (place), Susan Rogers, Susannah Melvoin, Tevin Campbell, The Ballad Of Dorothy Parker (song), The Revolution, Under the Cherry Moon (movie), University of Minnesota, Vanity 6, vault, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://www.redbullmusicacademy.com/lectures/susan-rogers-lecture))
 
 ----
 

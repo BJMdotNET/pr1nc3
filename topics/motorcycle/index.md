@@ -16,7 +16,7 @@
 
 ----
 
- - [**"Go to Paisley Park While It's Still in Your Heart"**](https://www.houstonpress.com/music/a-trip-to-princes-paisley-park-11373725) in [www.houstonpress.com](https://www.houstonpress.com/) on 1 November 2019 about Academy Award, Aretha Franklin, Charlie Murphy, exhibit, First Avenue (place), Graceland, James Brown, Larry Graham, Lizzo, Minnesota Timberwolves, motorcycle, museum, Obama, Stevie Wonder, Timberwolves, Under the Cherry Moon (movie) ([mirror](https://web.archive.org/web/*/https://www.houstonpress.com/music/a-trip-to-princes-paisley-park-11373725))
+ - [**"Go to Paisley Park While It's Still in Your Heart"**](https://www.houstonpress.com/music/a-trip-to-princes-paisley-park-11373725) in [www.houstonpress.com](https://www.houstonpress.com/) on 1 November 2019 about Academy Award, Aretha Franklin, Charlie Murphy, exhibit, First Avenue (place), Graceland, James Brown, Larry Graham, Lizzo, Minnesota Timberwolves, motorcycle, museum, NPG Music Club (website), Obama, Stevie Wonder, Timberwolves, Under the Cherry Moon (movie) ([mirror](https://web.archive.org/web/*/https://www.houstonpress.com/music/a-trip-to-princes-paisley-park-11373725))
 
 ----
 
@@ -24,7 +24,7 @@
 
 ----
 
- - [**"The Beautiful Ones' Editor Reveals How Prince Tapped Him to Write His Memoir -- A month after Chris Jackson signed a deal to publish Prince’s memoir, Prince died. Here, Jackson opens up about the three-year journey to make The Purple One proud."**](https://www.oprahmag.com/entertainment/books/a29339794/prince-the-beautiful-ones-book-chris-jackson/) in [Oprah Magazine](https://www.oprahmag.com/) on 9 October 2019 about Chris Jackson, Dan Piepenbring, Esther Newberg, I Wanna Be Your Lover (song), Jehovah’s Witness, Larry Graham, memoir, motorcycle, The Beautiful Ones (book), When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.oprahmag.com/entertainment/books/a29339794/prince-the-beautiful-ones-book-chris-jackson/))
+ - [**"The Beautiful Ones' Editor Reveals How Prince Tapped Him to Write His Memoir -- A month after Chris Jackson signed a deal to publish Prince’s memoir, Prince died. Here, Jackson opens up about the three-year journey to make The Purple One proud."**](https://www.oprahmag.com/entertainment/books/a29339794/prince-the-beautiful-ones-book-chris-jackson/) in [Oprah Magazine](https://www.oprahmag.com/) on 9 October 2019 about Chris Jackson, Dan Piepenbring, Esther Newberg, fragrance, I Wanna Be Your Lover (song), Jehovah’s Witness, Larry Graham, memoir, motorcycle, The Beautiful Ones (book), When Doves Cry (song) ([mirror](https://web.archive.org/web/*/https://www.oprahmag.com/entertainment/books/a29339794/prince-the-beautiful-ones-book-chris-jackson/))
 
 ----
 
@@ -44,7 +44,7 @@
 
 ----
 
- - [**"Prince Estate: Paisley Park to open for daily paid public tours in fall"**](https://usatoday.com/story/life/2016/08/24/prince-estate-paisley-park-open-daily-paid-public-tours-fall/89298540/) in [USA Today](https://usatoday.com/) on 25 August 2016 about Bremer Trust, Caribbean, Denny Laufenburger, exhibit, exhibition, Graceland, motorcycle, museum, Prince Estate, Tyka Nelson ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/2016/08/24/prince-estate-paisley-park-open-daily-paid-public-tours-fall/89298540/))
+ - [**"Prince Estate: Paisley Park to open for daily paid public tours in fall"**](https://usatoday.com/story/life/2016/08/24/prince-estate-paisley-park-open-daily-paid-public-tours-fall/89298540/) in [USA Today](https://usatoday.com/) on 25 August 2016 about Bremer Trust, Caribbean, Denny Laufenburger, exhibit, exhibition, Graceland, motorcycle, museum, NPG Music Club (website), Prince Estate, Tyka Nelson ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/2016/08/24/prince-estate-paisley-park-open-daily-paid-public-tours-fall/89298540/))
 
 ----
 

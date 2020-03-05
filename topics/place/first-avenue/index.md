@@ -24,7 +24,7 @@
 
 ----
 
- - [**"The Hold Steady, Neko Case and local supergroup Golden Smog booked for First Avenue’s 50th birthday weekend"**](https://www.twincities.com/2020/02/13/the-hold-steady-neko-case-and-local-supergroup-golden-smog-booked-for-first-avenues-50th-birthday-weekend/) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 13 February 2020 about Celebration, fentanyl, First Avenue (place), Madonna, Meshell Ndegeocello, Musicology: Real Music by Real Musicians (event), Sometimes It Snows In April (song) ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2020/02/13/the-hold-steady-neko-case-and-local-supergroup-golden-smog-booked-for-first-avenues-50th-birthday-weekend/))
+ - [**"The Hold Steady, Neko Case and local supergroup Golden Smog booked for First Avenue’s 50th birthday weekend"**](https://www.twincities.com/2020/02/13/the-hold-steady-neko-case-and-local-supergroup-golden-smog-booked-for-first-avenues-50th-birthday-weekend/) in [TwinCities.com - Pioneer Press](https://www.twincities.com/) on 13 February 2020 about Celebration, Chastity Brown, fentanyl, First Avenue (place), Madonna, Meshell Ndegeocello, Musicology: Real Music by Real Musicians (event), Sometimes It Snows In April (song) ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2020/02/13/the-hold-steady-neko-case-and-local-supergroup-golden-smog-booked-for-first-avenues-50th-birthday-weekend/))
 
 ----
 
@@ -76,7 +76,7 @@
 
 ----
 
- - [**"Go to Paisley Park While It's Still in Your Heart"**](https://www.houstonpress.com/music/a-trip-to-princes-paisley-park-11373725) in [www.houstonpress.com](https://www.houstonpress.com/) on 1 November 2019 about Academy Award, Aretha Franklin, Charlie Murphy, exhibit, First Avenue (place), Graceland, James Brown, Larry Graham, Lizzo, Minnesota Timberwolves, motorcycle, museum, Obama, Stevie Wonder, Timberwolves, Under the Cherry Moon (movie) ([mirror](https://web.archive.org/web/*/https://www.houstonpress.com/music/a-trip-to-princes-paisley-park-11373725))
+ - [**"Go to Paisley Park While It's Still in Your Heart"**](https://www.houstonpress.com/music/a-trip-to-princes-paisley-park-11373725) in [www.houstonpress.com](https://www.houstonpress.com/) on 1 November 2019 about Academy Award, Aretha Franklin, Charlie Murphy, exhibit, First Avenue (place), Graceland, James Brown, Larry Graham, Lizzo, Minnesota Timberwolves, motorcycle, museum, NPG Music Club (website), Obama, Stevie Wonder, Timberwolves, Under the Cherry Moon (movie) ([mirror](https://web.archive.org/web/*/https://www.houstonpress.com/music/a-trip-to-princes-paisley-park-11373725))
 
 ----
 
@@ -228,7 +228,7 @@
 
 ----
 
- - [**"Minnesota's best albums of the year (so far): Chastity Brown, Romantica, Brother Ali, Lady Midnight -- This year's 10 albums includes several artists who saw their patience pay off."**](http://www.startribune.com/minnesota-s-best-albums-of-the-year-so-far-brother-ali-chastity-brown-romantica-prince/431623233/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 30 June 2017 about 17 Days (song), bootleg, First Avenue (place), Our Destiny (song), Possessed (song), Purple Rain (album), Roadhouse Garden (song), The Beautiful Ones (song), The Revolution, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/minnesota-s-best-albums-of-the-year-so-far-brother-ali-chastity-brown-romantica-prince/431623233/))
+ - [**"Minnesota's best albums of the year (so far): Chastity Brown, Romantica, Brother Ali, Lady Midnight -- This year's 10 albums includes several artists who saw their patience pay off."**](http://www.startribune.com/minnesota-s-best-albums-of-the-year-so-far-brother-ali-chastity-brown-romantica-prince/431623233/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 30 June 2017 about 17 Days (song), bootleg, Chastity Brown, First Avenue (place), Our Destiny (song), Possessed (song), Purple Rain (album), Roadhouse Garden (song), The Beautiful Ones (song), The Revolution, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/minnesota-s-best-albums-of-the-year-so-far-brother-ali-chastity-brown-romantica-prince/431623233/))
 
 ----
 
@@ -268,7 +268,7 @@
 
 ----
 
- - [**"Susan Rogers - 2016 Red Bull Music Academy lecture"**](https://www.redbullmusicacademy.com/lectures/susan-rogers-lecture) in [Red Bull Music Academy](https://www.redbullmusicacademy.com/) on 8 December 2016 about 17 Days (song), Academy Award, Anita Baker, Bernie Grundman, bootleg, Condition of the Heart (song), contract, First Avenue (place), Grammy Award, James Brown, Jesse Johnson, Jill Jones, Joni Mitchell, Kate Bush, Let’s Go Crazy (song), Lisa Coleman, Little Red Corvette (song), Michael Jackson, Nothing Compares 2 U (song), Pop Life (song), Sheila E., Sometimes It Snows In April (song), Stevie Wonder, Sunset Sound (place), Susan Rogers, Susannah Melvoin, The Ballad Of Dorothy Parker (song), The Revolution, Under the Cherry Moon (movie), University of Minnesota, Vanity 6, vault, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://www.redbullmusicacademy.com/lectures/susan-rogers-lecture))
+ - [**"Susan Rogers - 2016 Red Bull Music Academy lecture"**](https://www.redbullmusicacademy.com/lectures/susan-rogers-lecture) in [Red Bull Music Academy](https://www.redbullmusicacademy.com/) on 8 December 2016 about 17 Days (song), Academy Award, Anita Baker, Bernie Grundman, bootleg, Condition of the Heart (song), contract, First Avenue (place), Grammy Award, James Brown, Jesse Johnson, Jill Jones, Joni Mitchell, Kate Bush, Let’s Go Crazy (song), Lisa Coleman, Little Red Corvette (song), Michael Jackson, Nothing Compares 2 U (song), Pop Life (song), Sheila E., Sometimes It Snows In April (song), Stevie Wonder, Sunset Sound (place), Susan Rogers, Susannah Melvoin, Tevin Campbell, The Ballad Of Dorothy Parker (song), The Revolution, Under the Cherry Moon (movie), University of Minnesota, Vanity 6, vault, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://www.redbullmusicacademy.com/lectures/susan-rogers-lecture))
 
 ----
 
@@ -316,7 +316,7 @@
 
 ----
 
- - [**"Prince’s sister says musician had no known will"**](https://apnews.com/b7bcc90e42904f679c07158bf5e851a3) in [Associated Press News](https://apnews.com/) on 27 April 2016 about Bremer Trust, Carver County, First Avenue (place), Michael Jackson, probate court, Tyka Nelson, University of Minnesota ([mirror](https://web.archive.org/web/*/https://apnews.com/b7bcc90e42904f679c07158bf5e851a3))
+ - [**"Prince’s sister says musician had no known will"**](https://apnews.com/b7bcc90e42904f679c07158bf5e851a3) in [Associated Press News](https://apnews.com/) on 27 April 2016 about Bremer Trust, Carver County, First Avenue (place), Michael Jackson, perfume, probate court, Tyka Nelson, University of Minnesota ([mirror](https://web.archive.org/web/*/https://apnews.com/b7bcc90e42904f679c07158bf5e851a3))
 
 ----
 
@@ -336,7 +336,7 @@
 
 ----
 
- - [**"Prince celebrated with all-night dance party at First Avenue"**](http://www.fox9.com/entertainment/all-night-dance-party-at-first-avenue-to-honor-prince) in [Fox 9](http://www.fox9.com/) on 21 April 2016 about First Avenue (place), Lizzo ([mirror](https://web.archive.org/web/*/http://www.fox9.com/entertainment/all-night-dance-party-at-first-avenue-to-honor-prince))
+ - [**"Prince celebrated with all-night dance party at First Avenue"**](http://www.fox9.com/entertainment/all-night-dance-party-at-first-avenue-to-honor-prince) in [Fox 9](http://www.fox9.com/) on 21 April 2016 about Chastity Brown, First Avenue (place), Lizzo ([mirror](https://web.archive.org/web/*/http://www.fox9.com/entertainment/all-night-dance-party-at-first-avenue-to-honor-prince))
 
 ----
 
