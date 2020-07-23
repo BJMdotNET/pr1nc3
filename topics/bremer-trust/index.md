@@ -16,11 +16,11 @@
 
 ----
 
- - [**"Floodgates are about to open on Prince's career after death -- A year after he died, Prince's lucrative second career is taking off. The industry moguls he despised are calling the shots — and his wishes don't apply."**](http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 April 2017 about Bravado, Bremer Trust, Carver County, Charles Koppelman, Comerica, contract, Graceland, Graceland Holdings, hologram, merchandise, Michael Jackson, museum, Omarr Baker, Spotify, Susan Rogers, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/))
+ - [**"Floodgates are about to open on Prince's career after death -- A year after he died, Prince's lucrative second career is taking off. The industry moguls he despised are calling the shots — and his wishes don't apply."**](http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/) by Chris Riemenschneider in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 18 April 2017 about Bravado, Bremer Trust, Carver County, Charles Koppelman, Comerica, contract, Graceland, Graceland Holdings, hologram, merchandise, Michael Jackson, museum, Omarr Baker, Spotify, Susan Rogers, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/))
 
 ----
 
- - [**"'Rehabilitated' Paisley Park takes center stage for Prince anniversary -- Graceland firm remakes studio into a showplace."**](http://www.startribune.com/rehabilitated-paisley-park-takes-center-stage-for-prince-anniversary/419571163/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 17 April 2017 about Bremer Trust, Celebration, Denny Laufenburger, Graceland, Graceland Holdings, Joel Weinshanker, museum ([mirror](https://web.archive.org/web/*/http://www.startribune.com/rehabilitated-paisley-park-takes-center-stage-for-prince-anniversary/419571163/))
+ - [**"'Rehabilitated' Paisley Park takes center stage for Prince anniversary -- Graceland firm remakes studio into a showplace."**](http://www.startribune.com/rehabilitated-paisley-park-takes-center-stage-for-prince-anniversary/419571163/) by Chris Riemenschneider in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 17 April 2017 about Bremer Trust, Celebration, Denny Laufenburger, Graceland, Graceland Holdings, Joel Weinshanker, museum ([mirror](https://web.archive.org/web/*/http://www.startribune.com/rehabilitated-paisley-park-takes-center-stage-for-prince-anniversary/419571163/))
 
 ----
 
@@ -132,7 +132,7 @@
 
 ----
 
- - [**"Key Prince career executives retained for estate management"**](http://www.startribune.com/key-prince-career-executives-retained-for-estate-management/383370091/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 17 June 2016 about Bremer Trust, Charles Koppelman, contract, fentanyl, L. Londell McMilllan ([mirror](https://web.archive.org/web/*/http://www.startribune.com/key-prince-career-executives-retained-for-estate-management/383370091/))
+ - [**"Key Prince career executives retained for estate management"**](http://www.startribune.com/key-prince-career-executives-retained-for-estate-management/383370091/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 17 June 2016 about Bremer Trust, Charles Koppelman, contract, fentanyl, L. Londell McMilllan ([mirror](https://web.archive.org/web/*/http://www.startribune.com/key-prince-career-executives-retained-for-estate-management/383370091/))
 
 ----
 
@@ -140,7 +140,7 @@
 
 ----
 
- - [**"A Prince wish, Paisley Park eyed for museum like Graceland"**](http://www.startribune.com/a-prince-wish-paisley-park-eyed-for-museum-like-graceland/382529341/) by Steve Karnowski (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 June 2016 about Bremer Trust, Carver County, exhibit, exhibition, fentanyl, fentanyl overdose, Graceland, Jeremiah Freed, Michael Jackson, motorcycle, museum ([mirror](https://web.archive.org/web/*/http://www.startribune.com/a-prince-wish-paisley-park-eyed-for-museum-like-graceland/382529341/))
+ - [**"A Prince wish, Paisley Park eyed for museum like Graceland"**](http://www.startribune.com/a-prince-wish-paisley-park-eyed-for-museum-like-graceland/382529341/) by Steve Karnowski (Associated Press) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 10 June 2016 about Bremer Trust, Carver County, exhibit, exhibition, fentanyl, fentanyl overdose, Graceland, Jeremiah Freed, Michael Jackson, motorcycle, museum ([mirror](https://web.archive.org/web/*/http://www.startribune.com/a-prince-wish-paisley-park-eyed-for-museum-like-graceland/382529341/))
 
 ----
 
@@ -148,7 +148,7 @@
 
 ----
 
- - [**"Effort to lock down publicity rights for Prince heirs encounters controversy at Capitol -- Proposal for publicity rights is scaled back after debate on First Amendment."**](http://www.startribune.com/effort-to-lock-down-publicity-rights-for-prince-heirs-encounters-controversy-at-capitol/379884991/) by Patrick Condon in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 May 2016 about Bremer Trust, contract, exhibition ([mirror](https://web.archive.org/web/*/http://www.startribune.com/effort-to-lock-down-publicity-rights-for-prince-heirs-encounters-controversy-at-capitol/379884991/))
+ - [**"Effort to lock down publicity rights for Prince heirs encounters controversy at Capitol -- Proposal for publicity rights is scaled back after debate on First Amendment."**](http://www.startribune.com/effort-to-lock-down-publicity-rights-for-prince-heirs-encounters-controversy-at-capitol/379884991/) by Patrick Condon in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 18 May 2016 about Bremer Trust, contract, exhibition ([mirror](https://web.archive.org/web/*/http://www.startribune.com/effort-to-lock-down-publicity-rights-for-prince-heirs-encounters-controversy-at-capitol/379884991/))
 
 ----
 
@@ -168,7 +168,7 @@
 
 ----
 
- - [**"Judge authorizes DNA testing of Prince's blood for any heir claims"**](http://www.startribune.com/prince-creditors-have-four-months-to-file-claims/378449441/) by Dan Browning in [Minneapolis Star Tribune](http://www.startribune.com/) on 7 May 2016 about Atlanta (place), Bremer Trust, Carver County, Kevin Eide ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-creditors-have-four-months-to-file-claims/378449441/))
+ - [**"Judge authorizes DNA testing of Prince's blood for any heir claims"**](http://www.startribune.com/prince-creditors-have-four-months-to-file-claims/378449441/) by Dan Browning in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 7 May 2016 about Atlanta (place), Bremer Trust, Carver County, Kevin Eide ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-creditors-have-four-months-to-file-claims/378449441/))
 
 ----
 
@@ -176,11 +176,11 @@
 
 ----
 
- - [**"Mixed Blood is forced by Prince's estate to cancel gala at Paisley Park"**](http://www.startribune.com/mixed-blood-is-forced-by-prince-s-estate-to-cancel-gala-at-paisley-park/378494185/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 7 May 2016 about Bremer Trust, contract, Mixed Blood ([mirror](https://web.archive.org/web/*/http://www.startribune.com/mixed-blood-is-forced-by-prince-s-estate-to-cancel-gala-at-paisley-park/378494185/))
+ - [**"Mixed Blood is forced by Prince's estate to cancel gala at Paisley Park"**](http://www.startribune.com/mixed-blood-is-forced-by-prince-s-estate-to-cancel-gala-at-paisley-park/378494185/) by Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 7 May 2016 about Bremer Trust, contract, Mixed Blood ([mirror](https://web.archive.org/web/*/http://www.startribune.com/mixed-blood-is-forced-by-prince-s-estate-to-cancel-gala-at-paisley-park/378494185/))
 
 ----
 
- - [**"Paisley Park event cancellation distresses Mixed Blood ticket holders -- Court-appointed trustee is enforcing a ban on events at Prince's estate."**](http://www.startribune.com/paisley-park-event-cancellation-distresses-mixed-blood-ticket-holders/378527695/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 7 May 2016 about Bremer Trust, contract, Mixed Blood ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-event-cancellation-distresses-mixed-blood-ticket-holders/378527695/))
+ - [**"Paisley Park event cancellation distresses Mixed Blood ticket holders -- Court-appointed trustee is enforcing a ban on events at Prince's estate."**](http://www.startribune.com/paisley-park-event-cancellation-distresses-mixed-blood-ticket-holders/378527695/) by Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 7 May 2016 about Bremer Trust, contract, Mixed Blood ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-event-cancellation-distresses-mixed-blood-ticket-holders/378527695/))
 
 ----
 
@@ -188,7 +188,7 @@
 
 ----
 
- - [**"Judge confirms appointment of special administrator on Prince's estate -- Siblings say they're "all on the same page" even as a new alleged heir emerges."**](http://www.startribune.com/court-hearing-today-in-carver-county-on-prince-estate/377780821/) by Emma Nelson in [Minneapolis Star Tribune](http://www.startribune.com/) on 2 May 2016 about Alfred Jackson, Bremer Trust, Carver County, John Nelson, Kevin Eide, Norrine Nelson, Omarr Baker, Prince Estate, Sharon Nelson, The Prince Estate, Tyka Nelson, Van Jones ([mirror](https://web.archive.org/web/*/http://www.startribune.com/court-hearing-today-in-carver-county-on-prince-estate/377780821/))
+ - [**"Judge confirms appointment of special administrator on Prince's estate -- Siblings say they're "all on the same page" even as a new alleged heir emerges."**](http://www.startribune.com/court-hearing-today-in-carver-county-on-prince-estate/377780821/) by Emma Nelson in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 2 May 2016 about Alfred Jackson, Bremer Trust, Carver County, John Nelson, Kevin Eide, Norrine Nelson, Omarr Baker, Prince Estate, Sharon Nelson, The Prince Estate, Tyka Nelson, Van Jones ([mirror](https://web.archive.org/web/*/http://www.startribune.com/court-hearing-today-in-carver-county-on-prince-estate/377780821/))
 
 ----
 

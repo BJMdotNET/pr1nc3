@@ -1,5 +1,9 @@
 # Jimmy Jam
 
+ - [**"New Streaming Channels with Music's Legendary and Game-Changing Artists to Launch Today on SiriusXM -- The Prince Channel returns through August 13"**](https://www.prnewswire.com/news-releases/new-streaming-channels-with-musics-legendary-and-game-changing-artists-to-launch-today-on-siriusxm-301093865.html) in [PR Newswire](https://www.prnewswire.com/) on 15 July 2020 about Jerome Benton, Jimmy Jam, Maya Rudolph, Morris Day, SiriusXM, Terry Lewis, The Revolution, The Time ([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/new-streaming-channels-with-musics-legendary-and-game-changing-artists-to-launch-today-on-siriusxm-301093865.html))
+
+----
+
  - [**"Foo Fighters, Beck, H.E.R., Sheila E. Light Up ‘Grammy Salute to Prince’ Concert"**](https://www.yahoo.com/entertainment/foo-fighters-beck-h-e-233930375.html) in [Yahoo! Entertainment](https://www.yahoo.com/entertainment/) on 30 January 2020 about 1999 (song), Baby I’m a Star (song), Bangles, Beck, Chris Martin, Coldplay, Controversy (song), D’Angelo, Darling Nikki (song), Diamonds and Pearls (song), Earth, Wind & Fire, Foo Fighters, Fred Armisen, Gary Clark Jr., Gretchen Lieberum, H.E.R., Janelle Monae, Jerome Benton, Jimmy Jam, John Legend, Juanes, Jungle Love (song), Ken Ehrlich, Let’s Go Crazy (song), Lisa Coleman, Manic Monday (song), Mavis Staples, Maya Rudolph, Misty Copeland, Morris Day, Mountains (song), Nothing Compares 2 U (song), Pop Life (song), PRINCEss, Purple Rain (song), Raspberry Beret (song), Sheila E., St. Vincent, Stevie Wonder, Super Bowl, Terry Lewis, The Beautiful Ones (song), The Bird (song), The Glamorous Life (song), The Revolution, The Time, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://www.yahoo.com/entertainment/foo-fighters-beck-h-e-233930375.html))
 
 ----
@@ -28,7 +32,7 @@
 
 ----
 
- - [**"Grammys will honor Prince with an all-star concert broadcast on CBS"**](http://www.startribune.com/grammys-will-honor-prince-with-an-all-star-concert-broadcast-on-cbs/566849132/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 9 January 2020 about Alicia Keys, Aretha Franklin, Beck, Chris Martin, Coldplay, Earth, Wind & Fire, Foo Fighters, Gary Clark Jr., Grammy Award, H.E.R., Jimmy Jam, John Legend, Juanes, Let’s Go Crazy (song), Let's Go Crazy: The Grammy Salute to Prince (event), Los Angeles Convention Center (place), Mavis Staples, Morris Day, Morris Day & The Time, Morris Day and The Time, St. Vincent, Stevie Wonder, Susanna Hoffs, Terry Lewis, The Revolution, The Time, Usher ([mirror](https://web.archive.org/web/*/http://www.startribune.com/grammys-will-honor-prince-with-an-all-star-concert-broadcast-on-cbs/566849132/))
+ - [**"Grammys will honor Prince with an all-star concert broadcast on CBS"**](http://www.startribune.com/grammys-will-honor-prince-with-an-all-star-concert-broadcast-on-cbs/566849132/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 9 January 2020 about Alicia Keys, Aretha Franklin, Beck, Chris Martin, Coldplay, Earth, Wind & Fire, Foo Fighters, Gary Clark Jr., Grammy Award, H.E.R., Jimmy Jam, John Legend, Juanes, Let’s Go Crazy (song), Let's Go Crazy: The Grammy Salute to Prince (event), Los Angeles Convention Center (place), Mavis Staples, Morris Day, Morris Day & The Time, Morris Day and The Time, St. Vincent, Stevie Wonder, Susanna Hoffs, Terry Lewis, The Revolution, The Time, Usher ([mirror](https://web.archive.org/web/*/http://www.startribune.com/grammys-will-honor-prince-with-an-all-star-concert-broadcast-on-cbs/566849132/))
 
 ----
 
@@ -88,7 +92,7 @@
 
 ----
 
- - [**"To Janet Jackson, Minneapolis will always be her 'home away from home' -- Balancing motherhood and megahits, Janet Jackson talks about her return to Minnesota, where she recorded her breakthrough albums. "**](http://www.startribune.com/to-janet-jackson-minneapolis-will-always-be-her-home-away-from-home/560054982/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 11 September 2019 about Janelle Monae, Janet Jackson, Jimmy Jam, Michael Jackson, Stevie Nicks, Terry Lewis, The Time ([mirror](https://web.archive.org/web/*/http://www.startribune.com/to-janet-jackson-minneapolis-will-always-be-her-home-away-from-home/560054982/))
+ - [**"To Janet Jackson, Minneapolis will always be her 'home away from home' -- Balancing motherhood and megahits, Janet Jackson talks about her return to Minnesota, where she recorded her breakthrough albums. "**](http://www.startribune.com/to-janet-jackson-minneapolis-will-always-be-her-home-away-from-home/560054982/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 11 September 2019 about Janelle Monae, Janet Jackson, Jimmy Jam, Michael Jackson, Stevie Nicks, Terry Lewis, The Time ([mirror](https://web.archive.org/web/*/http://www.startribune.com/to-janet-jackson-minneapolis-will-always-be-her-home-away-from-home/560054982/))
 
 ----
 
@@ -112,7 +116,7 @@
 
 ----
 
- - [**"Re-live the 1980s heyday of Minnesota music and comedy in a new photo book -- Writer Martin Keller and photographer Greg Helgeson walked “the thin-grooved line between fandom and journalism,” as chronicled in “Hijinx and Hearsay.”"**](http://www.startribune.com/80s-scenesters-offer-snapshots-of-the-minneapolis-sound-in-new-photo-book/509385652/) by Tim Campbell in [Minneapolis Star Tribune](http://www.startribune.com/) on 7 May 2019 about Capri Theater  (place), Jimmy Jam, Mayte, Terry Lewis ([mirror](https://web.archive.org/web/*/http://www.startribune.com/80s-scenesters-offer-snapshots-of-the-minneapolis-sound-in-new-photo-book/509385652/))
+ - [**"Re-live the 1980s heyday of Minnesota music and comedy in a new photo book -- Writer Martin Keller and photographer Greg Helgeson walked “the thin-grooved line between fandom and journalism,” as chronicled in “Hijinx and Hearsay.”"**](http://www.startribune.com/80s-scenesters-offer-snapshots-of-the-minneapolis-sound-in-new-photo-book/509385652/) by Tim Campbell in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 7 May 2019 about Capri Theater  (place), Jimmy Jam, Mayte, Terry Lewis ([mirror](https://web.archive.org/web/*/http://www.startribune.com/80s-scenesters-offer-snapshots-of-the-minneapolis-sound-in-new-photo-book/509385652/))
 
 ----
 
@@ -144,7 +148,7 @@
 
 ----
 
- - [**"Hornheads jazz group creates unique sound -- The five-piece a cappella horn section records and plays all over the globe."**](http://www.startribune.com/hornheads-jazz-group-creates-unique-sound/302567351/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 May 2015 about Chaka Khan, Dave Jensen, Everything Blows (album), Hornheads, Jimmy Jam, Kathy Jensen, Kenni Holmen, Michael Nelson, New Power Generation, Steve Strand, Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/hornheads-jazz-group-creates-unique-sound/302567351/))
+ - [**"Hornheads jazz group creates unique sound -- The five-piece a cappella horn section records and plays all over the globe."**](http://www.startribune.com/hornheads-jazz-group-creates-unique-sound/302567351/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 5 May 2015 about Chaka Khan, Dave Jensen, Everything Blows (album), Hornheads, Jimmy Jam, Kathy Jensen, Kenni Holmen, Michael Nelson, New Power Generation, Steve Strand, Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/hornheads-jazz-group-creates-unique-sound/302567351/))
 
 ----
 

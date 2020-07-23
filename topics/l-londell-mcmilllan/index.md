@@ -8,7 +8,7 @@
 
 ----
 
- - [**"Key Prince career executives retained for estate management"**](http://www.startribune.com/key-prince-career-executives-retained-for-estate-management/383370091/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 17 June 2016 about Bremer Trust, Charles Koppelman, contract, fentanyl, L. Londell McMilllan ([mirror](https://web.archive.org/web/*/http://www.startribune.com/key-prince-career-executives-retained-for-estate-management/383370091/))
+ - [**"Key Prince career executives retained for estate management"**](http://www.startribune.com/key-prince-career-executives-retained-for-estate-management/383370091/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 17 June 2016 about Bremer Trust, Charles Koppelman, contract, fentanyl, L. Londell McMilllan ([mirror](https://web.archive.org/web/*/http://www.startribune.com/key-prince-career-executives-retained-for-estate-management/383370091/))
 
 ----
 

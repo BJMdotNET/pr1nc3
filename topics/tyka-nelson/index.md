@@ -4,7 +4,7 @@
 
 ----
 
- - [**"Death of Prince heir complicates estate settlement even more -- Nearly a third of Prince's estate could go to parties not related to him after two siblings signed agreements with Primary Wave."**](http://www.startribune.com/untimely-death-of-prince-heir-complicates-estate-settlement-even-more/568089142/) by Jon Bream, Mike Hughlett in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 February 2020 about Alfred Jackson, Carver County, Comerica, Dennis Patrick, fentanyl, fentanyl overdose, Fredrikson & Byron, hologram, John Nelson, L. Londell McMillan, Lawrence Mestel, Leonardo Starke, Michael Jackson, Mitchell Hamline Law Review, O.J. Simpson, Primary Wave, Prince Estate, probate court, Raffles Van Exel, Shawn Jackson, The Prince Estate, Troy Carter, Tyka Nelson, Whitney Houston, Xcel Energy Center (place), YouTube ([mirror](https://web.archive.org/web/*/http://www.startribune.com/untimely-death-of-prince-heir-complicates-estate-settlement-even-more/568089142/))
+ - [**"Death of Prince heir complicates estate settlement even more -- Nearly a third of Prince's estate could go to parties not related to him after two siblings signed agreements with Primary Wave."**](http://www.startribune.com/untimely-death-of-prince-heir-complicates-estate-settlement-even-more/568089142/) by Jon Bream, Mike Hughlett in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 22 February 2020 about Alfred Jackson, Carver County, Comerica, Dennis Patrick, fentanyl, fentanyl overdose, Fredrikson & Byron, hologram, John Nelson, L. Londell McMillan, Lawrence Mestel, Leonardo Starke, Michael Jackson, Mitchell Hamline Law Review, O.J. Simpson, Primary Wave, Prince Estate, probate court, Raffles Van Exel, Shawn Jackson, The Prince Estate, Troy Carter, Tyka Nelson, Whitney Houston, Xcel Energy Center (place), YouTube ([mirror](https://web.archive.org/web/*/http://www.startribune.com/untimely-death-of-prince-heir-complicates-estate-settlement-even-more/568089142/))
 
 ----
 
@@ -24,7 +24,7 @@
 
 ----
 
- - [**"Prince wrongful death case dismissed; estate case continues"**](http://www.startribune.com/prince-wrongful-death-case-dismissed-estate-case-continues/567136462/) by Amy Forliti (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 January 2020 about Alfred Jackson, fentanyl, fentanyl overdose, Howard Kornfeld, Illinois (place), John Nelson, Kirk Johnson, Michael Jackson, Michael Schulenberg, oxycodone, Primary Wave, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-wrongful-death-case-dismissed-estate-case-continues/567136462/))
+ - [**"Prince wrongful death case dismissed; estate case continues"**](http://www.startribune.com/prince-wrongful-death-case-dismissed-estate-case-continues/567136462/) by Amy Forliti (Associated Press) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 20 January 2020 about Alfred Jackson, fentanyl, fentanyl overdose, Howard Kornfeld, Illinois (place), John Nelson, Kirk Johnson, Michael Jackson, Michael Schulenberg, oxycodone, Primary Wave, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-wrongful-death-case-dismissed-estate-case-continues/567136462/))
 
 ----
 
@@ -52,11 +52,11 @@
 
 ----
 
- - [**"Prince exhibit coming to the Minnesota State Fair next year -- Superstar's estate is planning exhibit with artifacts, merchandise and performances. "**](http://www.startribune.com/prince-exhibit-coming-to-the-minnesota-state-fair-next-year/558970762/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 31 August 2019 about Comerica, exhibit, Kirk Johnson, merchandise, Minnesota State Fair, Omarr Baker, State Fair, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-exhibit-coming-to-the-minnesota-state-fair-next-year/558970762/))
+ - [**"Prince exhibit coming to the Minnesota State Fair next year -- Superstar's estate is planning exhibit with artifacts, merchandise and performances. "**](http://www.startribune.com/prince-exhibit-coming-to-the-minnesota-state-fair-next-year/558970762/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 31 August 2019 about Comerica, exhibit, Kirk Johnson, merchandise, Minnesota State Fair, Omarr Baker, State Fair, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-exhibit-coming-to-the-minnesota-state-fair-next-year/558970762/))
 
 ----
 
- - [**"One of Prince's heirs, Alfred Jackson, dies in Kansas City"**](http://www.startribune.com/one-of-prince-s-heirs-alfred-jackson-dies-in-kansas-city/558728862/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 29 August 2019 about Alfred Jackson, John L. Nelson, John R. Nelson, Omarr Baker, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/one-of-prince-s-heirs-alfred-jackson-dies-in-kansas-city/558728862/))
+ - [**"One of Prince's heirs, Alfred Jackson, dies in Kansas City"**](http://www.startribune.com/one-of-prince-s-heirs-alfred-jackson-dies-in-kansas-city/558728862/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 29 August 2019 about Alfred Jackson, John L. Nelson, John R. Nelson, Omarr Baker, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/one-of-prince-s-heirs-alfred-jackson-dies-in-kansas-city/558728862/))
 
 ----
 
@@ -128,7 +128,7 @@
 
 ----
 
- - [**"Floodgates are about to open on Prince's career after death -- A year after he died, Prince's lucrative second career is taking off. The industry moguls he despised are calling the shots — and his wishes don't apply."**](http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 April 2017 about Bravado, Bremer Trust, Carver County, Charles Koppelman, Comerica, contract, Graceland, Graceland Holdings, hologram, merchandise, Michael Jackson, museum, Omarr Baker, Spotify, Susan Rogers, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/))
+ - [**"Floodgates are about to open on Prince's career after death -- A year after he died, Prince's lucrative second career is taking off. The industry moguls he despised are calling the shots — and his wishes don't apply."**](http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/) by Chris Riemenschneider in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 18 April 2017 about Bravado, Bremer Trust, Carver County, Charles Koppelman, Comerica, contract, Graceland, Graceland Holdings, hologram, merchandise, Michael Jackson, museum, Omarr Baker, Spotify, Susan Rogers, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/))
 
 ----
 
@@ -160,7 +160,7 @@
 
 ----
 
- - [**"Paisley Park visitors will see Prince's studio and mementoes"**](http://www.startribune.com/paisley-park-visitors-will-see-prince-s-studio-and-mementoes/396025851/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 October 2016 about Alfred Jackson, Graceland, Graceland Holdings, museum, Norrine Nelson, NPG Music Club (website), Prince Estate, The Prince Estate, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-visitors-will-see-prince-s-studio-and-mementoes/396025851/))
+ - [**"Paisley Park visitors will see Prince's studio and mementoes"**](http://www.startribune.com/paisley-park-visitors-will-see-prince-s-studio-and-mementoes/396025851/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 5 October 2016 about Alfred Jackson, Graceland, Graceland Holdings, museum, Norrine Nelson, NPG Music Club (website), Prince Estate, The Prince Estate, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-visitors-will-see-prince-s-studio-and-mementoes/396025851/))
 
 ----
 
@@ -196,7 +196,7 @@
 
 ----
 
- - [**"Judge won't hear media request at Prince estate hearing"**](http://www.startribune.com/judge-won-t-hear-media-request-at-prince-estate-hearing/384399061/) by Amy Forliti (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 June 2016 about Carver County, fentanyl, Kevin Eide, Prince Estate, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/judge-won-t-hear-media-request-at-prince-estate-hearing/384399061/))
+ - [**"Judge won't hear media request at Prince estate hearing"**](http://www.startribune.com/judge-won-t-hear-media-request-at-prince-estate-hearing/384399061/) by Amy Forliti (Associated Press) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 25 June 2016 about Carver County, fentanyl, Kevin Eide, Prince Estate, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/judge-won-t-hear-media-request-at-prince-estate-hearing/384399061/))
 
 ----
 
@@ -224,7 +224,7 @@
 
 ----
 
- - [**"Colorado inmate claims Prince is his father, seeks DNA test"**](http://www.startribune.com/colorado-inmate-claims-prince-is-his-father-seeks-dna-test/378823301/) by Steve Karnowski (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 May 2016 about Carlin Q. Williams, Carver County, Carver County District Court, Marsha Henson, Michael Jackson, Patrick Cousins, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/colorado-inmate-claims-prince-is-his-father-seeks-dna-test/378823301/))
+ - [**"Colorado inmate claims Prince is his father, seeks DNA test"**](http://www.startribune.com/colorado-inmate-claims-prince-is-his-father-seeks-dna-test/378823301/) by Steve Karnowski (Associated Press) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 10 May 2016 about Carlin Q. Williams, Carver County, Carver County District Court, Marsha Henson, Michael Jackson, Patrick Cousins, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/colorado-inmate-claims-prince-is-his-father-seeks-dna-test/378823301/))
 
 ----
 
@@ -240,7 +240,7 @@
 
 ----
 
- - [**"Judge confirms appointment of special administrator on Prince's estate -- Siblings say they're "all on the same page" even as a new alleged heir emerges."**](http://www.startribune.com/court-hearing-today-in-carver-county-on-prince-estate/377780821/) by Emma Nelson in [Minneapolis Star Tribune](http://www.startribune.com/) on 2 May 2016 about Alfred Jackson, Bremer Trust, Carver County, John Nelson, Kevin Eide, Norrine Nelson, Omarr Baker, Prince Estate, Sharon Nelson, The Prince Estate, Tyka Nelson, Van Jones ([mirror](https://web.archive.org/web/*/http://www.startribune.com/court-hearing-today-in-carver-county-on-prince-estate/377780821/))
+ - [**"Judge confirms appointment of special administrator on Prince's estate -- Siblings say they're "all on the same page" even as a new alleged heir emerges."**](http://www.startribune.com/court-hearing-today-in-carver-county-on-prince-estate/377780821/) by Emma Nelson in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 2 May 2016 about Alfred Jackson, Bremer Trust, Carver County, John Nelson, Kevin Eide, Norrine Nelson, Omarr Baker, Prince Estate, Sharon Nelson, The Prince Estate, Tyka Nelson, Van Jones ([mirror](https://web.archive.org/web/*/http://www.startribune.com/court-hearing-today-in-carver-county-on-prince-estate/377780821/))
 
 ----
 
@@ -268,11 +268,11 @@
 
 ----
 
- - [**"Prince's sister says he had no known will -- Tyka Nelson seeks special administrator for a huge, complex estate."**](http://www.startribune.com/prince-s-sister-files-to-become-estate-executor/377139151/) by Dan Browning in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 April 2016 about Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-sister-files-to-become-estate-executor/377139151/))
+ - [**"Prince's sister says he had no known will -- Tyka Nelson seeks special administrator for a huge, complex estate."**](http://www.startribune.com/prince-s-sister-files-to-become-estate-executor/377139151/) by Dan Browning in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 26 April 2016 about Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-sister-files-to-become-estate-executor/377139151/))
 
 ----
 
- - [**"Sheila E.: Saying goodbye to Prince 'the hardest thing I've ever had to do' -- Sheila E., longtime friend, said she never knew Prince to take drugs."**](http://www.startribune.com/sheila-e-saying-goodbye-to-prince-the-hardest-thing-i-ve-ever-had-to-do/376906621/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 April 2016 about Celebration, Chaka Khan, Kirk Johnson, Larry Graham, Let’s Go Crazy (song), Lionel Richie, Omarr Baker, Sheila E., TMZ (website), Tyka Nelson, WCCO-TV ([mirror](https://web.archive.org/web/*/http://www.startribune.com/sheila-e-saying-goodbye-to-prince-the-hardest-thing-i-ve-ever-had-to-do/376906621/))
+ - [**"Sheila E.: Saying goodbye to Prince 'the hardest thing I've ever had to do' -- Sheila E., longtime friend, said she never knew Prince to take drugs."**](http://www.startribune.com/sheila-e-saying-goodbye-to-prince-the-hardest-thing-i-ve-ever-had-to-do/376906621/) by Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 25 April 2016 about Celebration, Chaka Khan, Kirk Johnson, Larry Graham, Let’s Go Crazy (song), Lionel Richie, Omarr Baker, Sheila E., TMZ (website), Tyka Nelson, WCCO-TV ([mirror](https://web.archive.org/web/*/http://www.startribune.com/sheila-e-saying-goodbye-to-prince-the-hardest-thing-i-ve-ever-had-to-do/376906621/))
 
 ----
 
@@ -280,7 +280,7 @@
 
 ----
 
- - [**"Obituary: Prince was a diminutive giant who revolutionized pop -- Though he was a puzzle at times, the rocker was a true Minnesotan who changed music more than once in a nearly 40-year career."**](http://www.startribune.com/jon-bream-prince-was-a-once-in-a-generation-artist-who-never-rested-on-his-laurels/376594221/) by Chris Riemenschneider, Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 April 2016 about André Cymone, First Avenue (place), Grammy Award, John Nelson, Let’s Go Crazy (song), Little Red Corvette (song), Mayte, Mayte Garcia, Obama, Super Bowl, Super Bowl XLI (event), Tyka Nelson, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/jon-bream-prince-was-a-once-in-a-generation-artist-who-never-rested-on-his-laurels/376594221/))
+ - [**"Obituary: Prince was a diminutive giant who revolutionized pop -- Though he was a puzzle at times, the rocker was a true Minnesotan who changed music more than once in a nearly 40-year career."**](http://www.startribune.com/jon-bream-prince-was-a-once-in-a-generation-artist-who-never-rested-on-his-laurels/376594221/) by Chris Riemenschneider, Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 22 April 2016 about André Cymone, First Avenue (place), Grammy Award, John Nelson, Let’s Go Crazy (song), Little Red Corvette (song), Mayte, Mayte Garcia, Obama, Super Bowl, Super Bowl XLI (event), Tyka Nelson, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/jon-bream-prince-was-a-once-in-a-generation-artist-who-never-rested-on-his-laurels/376594221/))
 
 ----
 

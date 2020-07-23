@@ -1,5 +1,17 @@
 # vault
 
+ - [**"The Prince Estate Drops Unreleased Track 'I Could Never Take the Place of Your Man (1979 Version)'"**](https://www.billboard.com/articles/columns/pop/9419861/prince-unreleased-track-i-could-never-take-the-place-of-your-man-1979-version) in [Billboard](https://www.billboard.com/) on 16 July 2020 about I Could Never Take The Place Of Your Man (song), Prince Estate, Sign O' The Times (album), The Prince Estate, vault ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/columns/pop/9419861/prince-unreleased-track-i-could-never-take-the-place-of-your-man-1979-version))
+
+----
+
+ - [**"Prince’s Classic ‘Sign O’ the Times’ Deluxe Reissue Coming in September, With 63 Bonus Tracks"**](https://variety.com/2020/music/news/prince-sign-o-the-times-deluxe-reissue-bonus-tracks-1234689805/) in [Variety](https://variety.com/) on 25 June 2020 about Andrea Swensson, bootleg, Daphne A. Brooks, Dave Chappelle, Dream Factory (album), Duane Tudahl, I Could Never Take The Place Of Your Man (song), Jeff Katz, Lenny Kravitz, Miles Davis, Susan Rogers, The Revolution, U Got the Look (song), vault, Witness 4 The Prosecution (song) ([mirror](https://web.archive.org/web/*/https://variety.com/2020/music/news/prince-sign-o-the-times-deluxe-reissue-bonus-tracks-1234689805/))
+
+----
+
+ - [**"Prince's epic 'Sign o' the Times' to get super deluxe reissue on Sept. 25"**](https://www.startribune.com/prince-s-epic-sign-o-the-times-to-get-super-deluxe-reissue-on-sept-25/571488832/) in [Minneapolis Star Tribune](https://www.startribune.com/) on 25 June 2020 about Dave Chappelle, Housequake (song), Jeff Katz, Lenny Kravitz, Love and Sex (song), Miles Davis, Prince Estate, Sign O' The Times (album), Starfish And Coffee (song), The Prince Estate, U Got the Look (song), vault ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-s-epic-sign-o-the-times-to-get-super-deluxe-reissue-on-sept-25/571488832/))
+
+----
+
  - [**"Engineering Prince: Working With The Purple One as a Creator, Drummer, and Electronic Drum Pioneer"**](https://drummagazine.com/engineering-prince-the-purple-one-as-a-creator-drummer-and-electronic-drum-pioneer/) in [drummagazine.com](https://drummagazine.com/) on 14 February 2020 about 3121 (album), Around The World In A Day (album), Controversy (album), Larrabee Sound (place), Linn LM-1, Lisa Chamblee, Peggy McCreary, PRN Alumni Foundation, Purple Rain (album), Romance 1600 (album), Sunset Sound (place), Susan Rogers, Sylvia Massy, U Got the Look (song), vault ([mirror](https://web.archive.org/web/*/https://drummagazine.com/engineering-prince-the-purple-one-as-a-creator-drummer-and-electronic-drum-pioneer/))
 
 ----
@@ -24,7 +36,7 @@
 
 ----
 
- - [**"Star Tribune's 2019 Artists of the Year -- Meet the Minnesotans at the heart of the year's most groundbreaking show."**](http://www.startribune.com/6-minnesotans-are-2019-artists-of-the-year/564924782/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 6 January 2020 about 1999 (album), ASCAP, Ava DuVernay, Bangles, Bob Dylan, Dakota (place), exhibit, exhibition, Kenny Rogers, Lizzo, memoir, Minneapolis Institute of Art, museum, Netflix, Originals (album), Rearrange (song), Sheila E., Smithsonian (place), The Beautiful Ones (book), University of Minnesota, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/6-minnesotans-are-2019-artists-of-the-year/564924782/))
+ - [**"Star Tribune's 2019 Artists of the Year -- Meet the Minnesotans at the heart of the year's most groundbreaking show."**](http://www.startribune.com/6-minnesotans-are-2019-artists-of-the-year/564924782/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 6 January 2020 about 1999 (album), ASCAP, Ava DuVernay, Bangles, Bob Dylan, Dakota (place), exhibit, exhibition, Kenny Rogers, Lizzo, memoir, Minneapolis Institute of Art, museum, Netflix, Originals (album), Rearrange (song), Sheila E., Smithsonian (place), The Beautiful Ones (book), University of Minnesota, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/6-minnesotans-are-2019-artists-of-the-year/564924782/))
 
 ----
 
@@ -112,7 +124,7 @@
 
 ----
 
- - [**"12 must-hear tunes unearthed from Prince's vault for '1999' reissue"**](http://www.startribune.com/12-must-hear-tunes-unearthed-from-prince-s-vault-for-1999-reissue/565432942/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 November 2019 about 1999 (album), 94 East, Can’t Stop This Feeling I Got (song), Colleen (song), Do Yourself a Favor (song), If It’ll Make U Happy (song), Jesse Johnson, Jill Jones, Morris Day, No Call U (song), Peggy McCreary, Pepe Willie, Purple Music (song), Sunset Sound (place), Vagina (song), Vanity, vault, Yah, You Know (song), You’re All I Want (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/12-must-hear-tunes-unearthed-from-prince-s-vault-for-1999-reissue/565432942/))
+ - [**"12 must-hear tunes unearthed from Prince's vault for '1999' reissue"**](http://www.startribune.com/12-must-hear-tunes-unearthed-from-prince-s-vault-for-1999-reissue/565432942/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 25 November 2019 about 1999 (album), 94 East, Can’t Stop This Feeling I Got (song), Colleen (song), Do Yourself a Favor (song), If It’ll Make U Happy (song), Jesse Johnson, Jill Jones, Morris Day, No Call U (song), Peggy McCreary, Pepe Willie, Purple Music (song), Sunset Sound (place), Vagina (song), Vanity, vault, Yah, You Know (song), You’re All I Want (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/12-must-hear-tunes-unearthed-from-prince-s-vault-for-1999-reissue/565432942/))
 
 ----
 
@@ -120,7 +132,7 @@
 
 ----
 
- - [**"How '1999' made Prince a star: 'This album was the turning point' -- An expanded reissue of Prince's breakthrough album shows how prolific he was in the early '80s."**](http://www.startribune.com/how-1999-made-prince-a-star-this-album-was-the-turning-point/565432932/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 November 2019 about 1999 (album), Bangles, Bobby Z., Dez Dickerson, James Brown, Kenny Rogers, Lisa Coleman, memoir, The Revolution, Vanity, Vanity 6, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/how-1999-made-prince-a-star-this-album-was-the-turning-point/565432932/))
+ - [**"How '1999' made Prince a star: 'This album was the turning point' -- An expanded reissue of Prince's breakthrough album shows how prolific he was in the early '80s."**](http://www.startribune.com/how-1999-made-prince-a-star-this-album-was-the-turning-point/565432932/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 25 November 2019 about 1999 (album), Bangles, Bobby Z., Dez Dickerson, James Brown, Kenny Rogers, Lisa Coleman, memoir, The Revolution, Vanity, Vanity 6, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/how-1999-made-prince-a-star-this-album-was-the-turning-point/565432932/))
 
 ----
 
@@ -216,11 +228,11 @@
 
 ----
 
- - [**"In their brief time together, Prince made co-author believe he could do the 'impossible' -- He'd never written a book before. But Dan Piepenbring carried on after Prince's death. "**](http://www.startribune.com/in-their-brief-time-together-prince-made-co-author-believe-he-could-do-the-impossible/563845862/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 October 2019 about contract, Dan Piepenbring, memoir, Spiegel & Grau, The Beautiful Ones (book), vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/in-their-brief-time-together-prince-made-co-author-believe-he-could-do-the-impossible/563845862/))
+ - [**"In their brief time together, Prince made co-author believe he could do the 'impossible' -- He'd never written a book before. But Dan Piepenbring carried on after Prince's death. "**](http://www.startribune.com/in-their-brief-time-together-prince-made-co-author-believe-he-could-do-the-impossible/563845862/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 26 October 2019 about contract, Dan Piepenbring, memoir, Spiegel & Grau, The Beautiful Ones (book), vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/in-their-brief-time-together-prince-made-co-author-believe-he-could-do-the-impossible/563845862/))
 
 ----
 
- - [**"Like Prince, his new memoir 'The Beautiful Ones' can't be pigeonholed -- Filled with ephemera, photos and philosophy, "The Beautiful Ones" is incomplete yet revealing. "**](http://www.startribune.com/like-prince-his-new-memoir-the-beautiful-ones-can-t-be-pigeonholed/563845812/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 October 2019 about Dan Piepenbring, fentanyl, fentanyl overdose, John L. Nelson, memoir, Super Bowl, The Beautiful Ones (book), vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/like-prince-his-new-memoir-the-beautiful-ones-can-t-be-pigeonholed/563845812/))
+ - [**"Like Prince, his new memoir 'The Beautiful Ones' can't be pigeonholed -- Filled with ephemera, photos and philosophy, "The Beautiful Ones" is incomplete yet revealing. "**](http://www.startribune.com/like-prince-his-new-memoir-the-beautiful-ones-can-t-be-pigeonholed/563845812/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 26 October 2019 about Dan Piepenbring, fentanyl, fentanyl overdose, John L. Nelson, memoir, Super Bowl, The Beautiful Ones (book), vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/like-prince-his-new-memoir-the-beautiful-ones-can-t-be-pigeonholed/563845812/))
 
 ----
 
@@ -228,7 +240,7 @@
 
 ----
 
- - [**"Prince's anticipated, posthumous memoir is ready for fans"**](http://www.startribune.com/prince-s-anticipated-posthumous-memoir-is-ready-for-fans/563912692/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 October 2019 about Dan Piepenbring, John L. Nelson, memoir, Spiegel & Grau, The Beautiful Ones (book), vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-anticipated-posthumous-memoir-is-ready-for-fans/563912692/))
+ - [**"Prince's anticipated, posthumous memoir is ready for fans"**](http://www.startribune.com/prince-s-anticipated-posthumous-memoir-is-ready-for-fans/563912692/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 26 October 2019 about Dan Piepenbring, John L. Nelson, memoir, Spiegel & Grau, The Beautiful Ones (book), vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-anticipated-posthumous-memoir-is-ready-for-fans/563912692/))
 
 ----
 
@@ -316,7 +328,7 @@
 
 ----
 
- - [**"Deluxe reissue of Prince's '1999' is set for Nov. 29 with three dozen new tracks"**](http://www.startribune.com/deluxe-reissue-of-prince-s-1999-is-set-for-nov-29-with-three-dozen-new-tracks/559971322/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 September 2019 about 1999 (album), Allen Beaulieu, Andrea Swensson, David Fricke, Duff McKagan, Little Red Corvette (song), Purple Music (song), Vagina (song), vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/deluxe-reissue-of-prince-s-1999-is-set-for-nov-29-with-three-dozen-new-tracks/559971322/))
+ - [**"Deluxe reissue of Prince's '1999' is set for Nov. 29 with three dozen new tracks"**](http://www.startribune.com/deluxe-reissue-of-prince-s-1999-is-set-for-nov-29-with-three-dozen-new-tracks/559971322/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 10 September 2019 about 1999 (album), Allen Beaulieu, Andrea Swensson, David Fricke, Duff McKagan, Little Red Corvette (song), Purple Music (song), Vagina (song), vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/deluxe-reissue-of-prince-s-1999-is-set-for-nov-29-with-three-dozen-new-tracks/559971322/))
 
 ----
 
@@ -364,7 +376,7 @@
 
 ----
 
- - [**"Prince's estate to assume management of Paisley Park -- Graceland Holdings will no longer run the Chanhassen museum as of Oct. 1."**](http://www.startribune.com/prince-s-estate-to-assume-management-of-paisley-park/558364602/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 August 2019 about Ava DuVernay, Bangles, Comerica, contract, Graceland, Graceland Holdings, Joel Weinshanker, Kirk Johnson, memoir, museum, Netflix, Sharon Nelson, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-estate-to-assume-management-of-paisley-park/558364602/))
+ - [**"Prince's estate to assume management of Paisley Park -- Graceland Holdings will no longer run the Chanhassen museum as of Oct. 1."**](http://www.startribune.com/prince-s-estate-to-assume-management-of-paisley-park/558364602/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 26 August 2019 about Ava DuVernay, Bangles, Comerica, contract, Graceland, Graceland Holdings, Joel Weinshanker, Kirk Johnson, memoir, museum, Netflix, Sharon Nelson, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-estate-to-assume-management-of-paisley-park/558364602/))
 
 ----
 
@@ -416,7 +428,7 @@
 
 ----
 
- - [**"Coming soon from the Prince vault: A new album called ‘Originals’ -- Prince’s estate is announcing the collection of his performances of songs he wrote for others."**](http://www.startribune.com/coming-soon-from-the-prince-vault-a-new-album-called-originals/509009862/) by Chris Riemenschneider, Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 April 2019 about Ani DiFranco, Apple Music, Bangles, Dan Piepenbring, First Avenue (place), Kenny Rogers, Larry Graham, Little Red Corvette (song), Manic Monday (song), Martika, Morris Day, Morris Day & The Time, Netflix, Nothing Compares 2 U (song), Originals (album), Prince Estate, Random House , Rave In2 the Joy Fantastic (album), Rave Un2 the Joy Fantastic (album), Rave Un2 the Year 2000 (video), Sex Shooter (song), The Beautiful Ones (book), The Family, The Glamorous Life (song), The Prince Estate, The Time, Ultimate Rave (album), Vanity 6, vault, Wendy Melvoin ([mirror](https://web.archive.org/web/*/http://www.startribune.com/coming-soon-from-the-prince-vault-a-new-album-called-originals/509009862/))
+ - [**"Coming soon from the Prince vault: A new album called ‘Originals’ -- Prince’s estate is announcing the collection of his performances of songs he wrote for others."**](http://www.startribune.com/coming-soon-from-the-prince-vault-a-new-album-called-originals/509009862/) by Chris Riemenschneider, Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 25 April 2019 about Ani DiFranco, Apple Music, Bangles, Dan Piepenbring, First Avenue (place), Kenny Rogers, Larry Graham, Little Red Corvette (song), Manic Monday (song), Martika, Morris Day, Morris Day & The Time, Netflix, Nothing Compares 2 U (song), Originals (album), Prince Estate, Random House , Rave In2 the Joy Fantastic (album), Rave Un2 the Joy Fantastic (album), Rave Un2 the Year 2000 (video), Sex Shooter (song), The Beautiful Ones (book), The Family, The Glamorous Life (song), The Prince Estate, The Time, Ultimate Rave (album), Vanity 6, vault, Wendy Melvoin ([mirror](https://web.archive.org/web/*/http://www.startribune.com/coming-soon-from-the-prince-vault-a-new-album-called-originals/509009862/))
 
 ----
 
@@ -428,7 +440,7 @@
 
 ----
 
- - [**"Prince insiders dish on first album released from storied Paisley Park vault -- The coveted 1983 recording features solo piano work and an embryonic "Purple Rain.""**](http://www.startribune.com/prince-insiders-dish-on-first-album-released-from-storied-paisley-park-vault/493845601/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 September 2018 about vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-insiders-dish-on-first-album-released-from-storied-paisley-park-vault/493845601/))
+ - [**"Prince insiders dish on first album released from storied Paisley Park vault -- The coveted 1983 recording features solo piano work and an embryonic "Purple Rain.""**](http://www.startribune.com/prince-insiders-dish-on-first-album-released-from-storied-paisley-park-vault/493845601/) by Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 20 September 2018 about vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-insiders-dish-on-first-album-released-from-storied-paisley-park-vault/493845601/))
 
 ----
 
@@ -440,7 +452,7 @@
 
 ----
 
- - [**"There are good things in Prince's musical vault, says former engineer who has heard songs -- Susan Rogers has heard the new music from Prince that the rest of us may soon hear."**](http://www.startribune.com/c-j-there-are-good-things-in-prince-s-musical-vault-says-former-engineer-who-has-heard-songs/487824511/) by C.J. (Cheryl Johnson) in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 July 2018 about Susan Rogers, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-there-are-good-things-in-prince-s-musical-vault-says-former-engineer-who-has-heard-songs/487824511/))
+ - [**"There are good things in Prince's musical vault, says former engineer who has heard songs -- Susan Rogers has heard the new music from Prince that the rest of us may soon hear."**](http://www.startribune.com/c-j-there-are-good-things-in-prince-s-musical-vault-says-former-engineer-who-has-heard-songs/487824511/) by C.J. (Cheryl Johnson) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 10 July 2018 about Susan Rogers, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-there-are-good-things-in-prince-s-musical-vault-says-former-engineer-who-has-heard-songs/487824511/))
 
 ----
 
@@ -456,7 +468,7 @@
 
 ----
 
- - [**"10 curious things we learned about Prince from the investigations -- He liked Häagen-Dazs ice cream, 5-Hour Energy drinks and MAC beauty products."**](http://www.startribune.com/10-curious-things-we-learned-about-prince-from-the-investigations/480364723/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 April 2018 about airport, Atlanta (place), Carver County, CeeLo Green, Chaka Khan, Esperanza Spalding, Illinois (place), Janelle Monae, Judith Hill, Kirk Johnson, Larry Graham, North Memorial Medical Center (place), Peter Vang, Phaedra Ellis Lamkin, Rita Ora, Sheila E., U Got the Look (song), vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/10-curious-things-we-learned-about-prince-from-the-investigations/480364723/))
+ - [**"10 curious things we learned about Prince from the investigations -- He liked Häagen-Dazs ice cream, 5-Hour Energy drinks and MAC beauty products."**](http://www.startribune.com/10-curious-things-we-learned-about-prince-from-the-investigations/480364723/) by Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 20 April 2018 about airport, Atlanta (place), Carver County, CeeLo Green, Chaka Khan, Esperanza Spalding, Illinois (place), Janelle Monae, Judith Hill, Kirk Johnson, Larry Graham, North Memorial Medical Center (place), Peter Vang, Phaedra Ellis Lamkin, Rita Ora, Sheila E., U Got the Look (song), vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/10-curious-things-we-learned-about-prince-from-the-investigations/480364723/))
 
 ----
 
@@ -464,7 +476,7 @@
 
 ----
 
- - [**"Minnesota's best albums of the year (so far): Chastity Brown, Romantica, Brother Ali, Lady Midnight -- This year's 10 albums includes several artists who saw their patience pay off."**](http://www.startribune.com/minnesota-s-best-albums-of-the-year-so-far-brother-ali-chastity-brown-romantica-prince/431623233/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 30 June 2017 about 17 Days (song), bootleg, Chastity Brown, First Avenue (place), Our Destiny (song), Possessed (song), Purple Rain (album), Roadhouse Garden (song), The Beautiful Ones (song), The Revolution, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/minnesota-s-best-albums-of-the-year-so-far-brother-ali-chastity-brown-romantica-prince/431623233/))
+ - [**"Minnesota's best albums of the year (so far): Chastity Brown, Romantica, Brother Ali, Lady Midnight -- This year's 10 albums includes several artists who saw their patience pay off."**](http://www.startribune.com/minnesota-s-best-albums-of-the-year-so-far-brother-ali-chastity-brown-romantica-prince/431623233/) by Chris Riemenschneider in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 30 June 2017 about 17 Days (song), bootleg, Chastity Brown, First Avenue (place), Our Destiny (song), Possessed (song), Purple Rain (album), Roadhouse Garden (song), The Beautiful Ones (song), The Revolution, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/minnesota-s-best-albums-of-the-year-so-far-brother-ali-chastity-brown-romantica-prince/431623233/))
 
 ----
 
@@ -472,7 +484,7 @@
 
 ----
 
- - [**"Details of Prince's expanded 'Purple Rain' reissue revealed, coming June 23"**](http://www.startribune.com/details-of-prince-s-expanded-purple-rain-reissue-revealed-coming-june-23/420722973/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 28 April 2017 about 17 Days (song), bootleg, Erotic City (song), First Avenue (place), Minnesota Dance Theatre, NPG Records, Our Destiny (song), Possessed (song), Purple Rain (album), Purple Rain (song), Roadhouse Garden (song), The Beautiful Ones (song), The Revolution, vault, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/details-of-prince-s-expanded-purple-rain-reissue-revealed-coming-june-23/420722973/))
+ - [**"Details of Prince's expanded 'Purple Rain' reissue revealed, coming June 23"**](http://www.startribune.com/details-of-prince-s-expanded-purple-rain-reissue-revealed-coming-june-23/420722973/) by Chris Riemenschneider in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 28 April 2017 about 17 Days (song), bootleg, Erotic City (song), First Avenue (place), Minnesota Dance Theatre, NPG Records, Our Destiny (song), Possessed (song), Purple Rain (album), Purple Rain (song), Roadhouse Garden (song), The Beautiful Ones (song), The Revolution, vault, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/details-of-prince-s-expanded-purple-rain-reissue-revealed-coming-june-23/420722973/))
 
 ----
 
@@ -536,7 +548,7 @@
 
 ----
 
- - [**"Fans' Holy Grail: unreleased songs in Prince's vault"**](http://www.startribune.com/fans-holy-grail-unreleased-songs-in-prince-s-vault/377485941/) by Christopher Weber (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 28 April 2016 about vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/fans-holy-grail-unreleased-songs-in-prince-s-vault/377485941/))
+ - [**"Fans' Holy Grail: unreleased songs in Prince's vault"**](http://www.startribune.com/fans-holy-grail-unreleased-songs-in-prince-s-vault/377485941/) by Christopher Weber (Associated Press) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 28 April 2016 about vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/fans-holy-grail-unreleased-songs-in-prince-s-vault/377485941/))
 
 ----
 

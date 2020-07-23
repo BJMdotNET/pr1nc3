@@ -1,5 +1,13 @@
 # U Got the Look (song)
 
+ - [**"Prince’s Classic ‘Sign O’ the Times’ Deluxe Reissue Coming in September, With 63 Bonus Tracks"**](https://variety.com/2020/music/news/prince-sign-o-the-times-deluxe-reissue-bonus-tracks-1234689805/) in [Variety](https://variety.com/) on 25 June 2020 about Andrea Swensson, bootleg, Daphne A. Brooks, Dave Chappelle, Dream Factory (album), Duane Tudahl, I Could Never Take The Place Of Your Man (song), Jeff Katz, Lenny Kravitz, Miles Davis, Susan Rogers, The Revolution, U Got the Look (song), vault, Witness 4 The Prosecution (song) ([mirror](https://web.archive.org/web/*/https://variety.com/2020/music/news/prince-sign-o-the-times-deluxe-reissue-bonus-tracks-1234689805/))
+
+----
+
+ - [**"Prince's epic 'Sign o' the Times' to get super deluxe reissue on Sept. 25"**](https://www.startribune.com/prince-s-epic-sign-o-the-times-to-get-super-deluxe-reissue-on-sept-25/571488832/) in [Minneapolis Star Tribune](https://www.startribune.com/) on 25 June 2020 about Dave Chappelle, Housequake (song), Jeff Katz, Lenny Kravitz, Love and Sex (song), Miles Davis, Prince Estate, Sign O' The Times (album), Starfish And Coffee (song), The Prince Estate, U Got the Look (song), vault ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-s-epic-sign-o-the-times-to-get-super-deluxe-reissue-on-sept-25/571488832/))
+
+----
+
  - [**"Engineering Prince: Working With The Purple One as a Creator, Drummer, and Electronic Drum Pioneer"**](https://drummagazine.com/engineering-prince-the-purple-one-as-a-creator-drummer-and-electronic-drum-pioneer/) in [drummagazine.com](https://drummagazine.com/) on 14 February 2020 about 3121 (album), Around The World In A Day (album), Controversy (album), Larrabee Sound (place), Linn LM-1, Lisa Chamblee, Peggy McCreary, PRN Alumni Foundation, Purple Rain (album), Romance 1600 (album), Sunset Sound (place), Susan Rogers, Sylvia Massy, U Got the Look (song), vault ([mirror](https://web.archive.org/web/*/https://drummagazine.com/engineering-prince-the-purple-one-as-a-creator-drummer-and-electronic-drum-pioneer/))
 
 ----
@@ -24,7 +32,7 @@
 
 ----
 
- - [**"10 curious things we learned about Prince from the investigations -- He liked Häagen-Dazs ice cream, 5-Hour Energy drinks and MAC beauty products."**](http://www.startribune.com/10-curious-things-we-learned-about-prince-from-the-investigations/480364723/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 April 2018 about airport, Atlanta (place), Carver County, CeeLo Green, Chaka Khan, Esperanza Spalding, Illinois (place), Janelle Monae, Judith Hill, Kirk Johnson, Larry Graham, North Memorial Medical Center (place), Peter Vang, Phaedra Ellis Lamkin, Rita Ora, Sheila E., U Got the Look (song), vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/10-curious-things-we-learned-about-prince-from-the-investigations/480364723/))
+ - [**"10 curious things we learned about Prince from the investigations -- He liked Häagen-Dazs ice cream, 5-Hour Energy drinks and MAC beauty products."**](http://www.startribune.com/10-curious-things-we-learned-about-prince-from-the-investigations/480364723/) by Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 20 April 2018 about airport, Atlanta (place), Carver County, CeeLo Green, Chaka Khan, Esperanza Spalding, Illinois (place), Janelle Monae, Judith Hill, Kirk Johnson, Larry Graham, North Memorial Medical Center (place), Peter Vang, Phaedra Ellis Lamkin, Rita Ora, Sheila E., U Got the Look (song), vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/10-curious-things-we-learned-about-prince-from-the-investigations/480364723/))
 
 ----
 

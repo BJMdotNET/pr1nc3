@@ -1,6 +1,6 @@
 # Howard Kornfeld
 
- - [**"Prince doctor sanctioned by Minnesota Board of Medical Practice -- Disciplinary action follows physician's settlement of a federal lawsuit. "**](http://www.startribune.com/prince-doctor-sanctioned-by-minnesota-board-of-medical-practice/567528322/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 3 February 2020 about Atlanta (place), fentanyl, Howard Kornfeld, Kirk Johnson, Michael Todd Schulenberg ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-doctor-sanctioned-by-minnesota-board-of-medical-practice/567528322/))
+ - [**"Prince doctor sanctioned by Minnesota Board of Medical Practice -- Disciplinary action follows physician's settlement of a federal lawsuit. "**](http://www.startribune.com/prince-doctor-sanctioned-by-minnesota-board-of-medical-practice/567528322/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 3 February 2020 about Atlanta (place), fentanyl, Howard Kornfeld, Kirk Johnson, Michael Todd Schulenberg ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-doctor-sanctioned-by-minnesota-board-of-medical-practice/567528322/))
 
 ----
 
@@ -20,7 +20,7 @@
 
 ----
 
- - [**"Prince wrongful death case dismissed; estate case continues"**](http://www.startribune.com/prince-wrongful-death-case-dismissed-estate-case-continues/567136462/) by Amy Forliti (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 January 2020 about Alfred Jackson, fentanyl, fentanyl overdose, Howard Kornfeld, Illinois (place), John Nelson, Kirk Johnson, Michael Jackson, Michael Schulenberg, oxycodone, Primary Wave, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-wrongful-death-case-dismissed-estate-case-continues/567136462/))
+ - [**"Prince wrongful death case dismissed; estate case continues"**](http://www.startribune.com/prince-wrongful-death-case-dismissed-estate-case-continues/567136462/) by Amy Forliti (Associated Press) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 20 January 2020 about Alfred Jackson, fentanyl, fentanyl overdose, Howard Kornfeld, Illinois (place), John Nelson, Kirk Johnson, Michael Jackson, Michael Schulenberg, oxycodone, Primary Wave, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-wrongful-death-case-dismissed-estate-case-continues/567136462/))
 
 ----
 
@@ -40,11 +40,11 @@
 
 ----
 
- - [**"As Prince's health waned, alarm grew in inner circle"**](http://www.startribune.com/as-prince-s-health-waned-alarm-grew-in-inner-circle/480336433/) by Amy Forliti (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 April 2018 about Andrew Kornfeld, Carver County, fentanyl, Howard Kornfeld, Illinois (place), Kirk Johnson, Mark Metz, Meron Bekure, Michael Todd Schulenberg, Moline, Illinois (place), oxycodone ([mirror](https://web.archive.org/web/*/http://www.startribune.com/as-prince-s-health-waned-alarm-grew-in-inner-circle/480336433/))
+ - [**"As Prince's health waned, alarm grew in inner circle"**](http://www.startribune.com/as-prince-s-health-waned-alarm-grew-in-inner-circle/480336433/) by Amy Forliti (Associated Press) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 20 April 2018 about Andrew Kornfeld, Carver County, fentanyl, Howard Kornfeld, Illinois (place), Kirk Johnson, Mark Metz, Meron Bekure, Michael Todd Schulenberg, Moline, Illinois (place), oxycodone ([mirror](https://web.archive.org/web/*/http://www.startribune.com/as-prince-s-health-waned-alarm-grew-in-inner-circle/480336433/))
 
 ----
 
- - [**"Documents: Airplane scare was beginning of the end of Prince's struggles with opioids -- Long-awaited investigative documents released Thursday give the clearest narrative yet of the singer's problems with opioid addiction in his final days."**](http://www.startribune.com/documents-airplane-scare-was-beginning-of-the-end-of-prince-s-struggles-with-opioids/480325903/) by Dan Browning, David Chanen in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 April 2018 about 3rdEyeGirl, Andrew Kornfeld, Atlanta (place), fentanyl, Howard Kornfeld, Judith Hill, Kirk Johnson, Manuela Testolini, Meron Bekure, Vicodin, Walgreens ([mirror](https://web.archive.org/web/*/http://www.startribune.com/documents-airplane-scare-was-beginning-of-the-end-of-prince-s-struggles-with-opioids/480325903/))
+ - [**"Documents: Airplane scare was beginning of the end of Prince's struggles with opioids -- Long-awaited investigative documents released Thursday give the clearest narrative yet of the singer's problems with opioid addiction in his final days."**](http://www.startribune.com/documents-airplane-scare-was-beginning-of-the-end-of-prince-s-struggles-with-opioids/480325903/) by Dan Browning, David Chanen in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 20 April 2018 about 3rdEyeGirl, Andrew Kornfeld, Atlanta (place), fentanyl, Howard Kornfeld, Judith Hill, Kirk Johnson, Manuela Testolini, Meron Bekure, Vicodin, Walgreens ([mirror](https://web.archive.org/web/*/http://www.startribune.com/documents-airplane-scare-was-beginning-of-the-end-of-prince-s-struggles-with-opioids/480325903/))
 
 ----
 

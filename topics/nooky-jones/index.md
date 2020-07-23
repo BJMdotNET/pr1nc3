@@ -1,6 +1,6 @@
 # Nooky Jones
 
- - [**"Celebration 2020 at Paisley Park will coincide with Prince's birth, not death"**](http://www.startribune.com/celebration-2020-at-paisley-park-will-coincide-with-prince-s-birth-not-death/566249302/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 16 December 2019 about 1999 Super Deluxe (album), Alan Seiffert, Celebration, Celebration 2020, contract, Donna Grantis, George Clinton, Graceland, Graceland Holdings, Judith Hill, Justin Timberlake, Liv Warfield, Morris Day, Morris Day & The Time, museum, Nooky Jones, Sometimes It Snows In April (song), Super Bowl, The Revolution ([mirror](https://web.archive.org/web/*/http://www.startribune.com/celebration-2020-at-paisley-park-will-coincide-with-prince-s-birth-not-death/566249302/))
+ - [**"Celebration 2020 at Paisley Park will coincide with Prince's birth, not death"**](http://www.startribune.com/celebration-2020-at-paisley-park-will-coincide-with-prince-s-birth-not-death/566249302/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 16 December 2019 about 1999 Super Deluxe (album), Alan Seiffert, Celebration, Celebration 2020, contract, Donna Grantis, George Clinton, Graceland, Graceland Holdings, Judith Hill, Justin Timberlake, Liv Warfield, Morris Day, Morris Day & The Time, museum, Nooky Jones, Sometimes It Snows In April (song), Super Bowl, The Revolution ([mirror](https://web.archive.org/web/*/http://www.startribune.com/celebration-2020-at-paisley-park-will-coincide-with-prince-s-birth-not-death/566249302/))
 
 ----
 

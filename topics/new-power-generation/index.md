@@ -64,7 +64,7 @@
 
 ----
 
- - [**"Imagine, if you will, a picture with John Travolta as the 'Purple Rain' kid"**](http://www.startribune.com/c-j-imagine-if-you-will-a-picture-with-john-travolta-as-the-purple-rain-kid/512260012/) by C.J. (Cheryl Johnson) in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 July 2019 about Alan Light, Albert Magnoli, John Travolta, Let’s Go Crazy (song), Morris Hayes, Neal Karlen, New Power Generation, Purple Rain (album), Purple Rain (movie), Purple Rain (song), The Revolution ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-imagine-if-you-will-a-picture-with-john-travolta-as-the-purple-rain-kid/512260012/))
+ - [**"Imagine, if you will, a picture with John Travolta as the 'Purple Rain' kid"**](http://www.startribune.com/c-j-imagine-if-you-will-a-picture-with-john-travolta-as-the-purple-rain-kid/512260012/) by C.J. (Cheryl Johnson) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 5 July 2019 about Alan Light, Albert Magnoli, John Travolta, Let’s Go Crazy (song), Morris Hayes, Neal Karlen, New Power Generation, Purple Rain (album), Purple Rain (movie), Purple Rain (song), SiriusXM, The Revolution ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-imagine-if-you-will-a-picture-with-john-travolta-as-the-purple-rain-kid/512260012/))
 
 ----
 
@@ -72,7 +72,7 @@
 
 ----
 
- - [**"C.J.: Prince protégée Ashley Támar Davis performed with pre-Destiny Beyoncé"**](http://www.startribune.com/c-j-the-fame-of-destiny-s-child-almost-broke-singer-ashley-tamar-davis/508902862/) by C.J. (Cheryl Johnson) in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 April 2019 about C.J., memoir, New Power Generation, Támar Davis ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-the-fame-of-destiny-s-child-almost-broke-singer-ashley-tamar-davis/508902862/))
+ - [**"C.J.: Prince protégée Ashley Támar Davis performed with pre-Destiny Beyoncé"**](http://www.startribune.com/c-j-the-fame-of-destiny-s-child-almost-broke-singer-ashley-tamar-davis/508902862/) by C.J. (Cheryl Johnson) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 22 April 2019 about C.J., memoir, New Power Generation, Támar Davis ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-the-fame-of-destiny-s-child-almost-broke-singer-ashley-tamar-davis/508902862/))
 
 ----
 
@@ -104,7 +104,7 @@
 
 ----
 
- - [**"Prince's drummer for more than a decade, John Blackwell Jr. dies at 43 -- John Blackwell, Jr., longtime drummer for Prince, died Tuesday after being diagnosed with a brain tumor one year ago. He was 43."**](http://www.startribune.com/prince-s-drummer-for-more-than-a-decade-john-blackwell-jr-dies-at-43/432674483/) by TheWrap in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 July 2017 about John Blackwell Jr., Justin Timberlake, Morris Day, New Power Generation ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-drummer-for-more-than-a-decade-john-blackwell-jr-dies-at-43/432674483/))
+ - [**"Prince's drummer for more than a decade, John Blackwell Jr. dies at 43 -- John Blackwell, Jr., longtime drummer for Prince, died Tuesday after being diagnosed with a brain tumor one year ago. He was 43."**](http://www.startribune.com/prince-s-drummer-for-more-than-a-decade-john-blackwell-jr-dies-at-43/432674483/) by TheWrap in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 5 July 2017 about John Blackwell Jr., Justin Timberlake, Morris Day, New Power Generation ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-drummer-for-more-than-a-decade-john-blackwell-jr-dies-at-43/432674483/))
 
 ----
 
@@ -152,7 +152,7 @@
 
 ----
 
- - [**"Hornheads jazz group creates unique sound -- The five-piece a cappella horn section records and plays all over the globe."**](http://www.startribune.com/hornheads-jazz-group-creates-unique-sound/302567351/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 May 2015 about Chaka Khan, Dave Jensen, Everything Blows (album), Hornheads, Jimmy Jam, Kathy Jensen, Kenni Holmen, Michael Nelson, New Power Generation, Steve Strand, Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/hornheads-jazz-group-creates-unique-sound/302567351/))
+ - [**"Hornheads jazz group creates unique sound -- The five-piece a cappella horn section records and plays all over the globe."**](http://www.startribune.com/hornheads-jazz-group-creates-unique-sound/302567351/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 5 May 2015 about Chaka Khan, Dave Jensen, Everything Blows (album), Hornheads, Jimmy Jam, Kathy Jensen, Kenni Holmen, Michael Nelson, New Power Generation, Steve Strand, Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/hornheads-jazz-group-creates-unique-sound/302567351/))
 
 ----
 

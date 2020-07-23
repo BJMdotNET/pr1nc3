@@ -8,7 +8,7 @@
 
 ----
 
- - [**"Paisley Park concert series kicks off with Ndegeocello reimagining Prince"**](http://www.startribune.com/paisley-park-concert-series-kicks-off-with-ndegeocello-reimagining-prince/567927442/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 16 February 2020 about Alan Seiffert, Lizzo, Meshell Ndegeocello, museum, Pop Life (song), Purple Rain (song), Sometimes It Snows In April (song), When Doves Cry (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-concert-series-kicks-off-with-ndegeocello-reimagining-prince/567927442/))
+ - [**"Paisley Park concert series kicks off with Ndegeocello reimagining Prince"**](http://www.startribune.com/paisley-park-concert-series-kicks-off-with-ndegeocello-reimagining-prince/567927442/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 16 February 2020 about Alan Seiffert, Lizzo, Meshell Ndegeocello, museum, Pop Life (song), Purple Rain (song), Sometimes It Snows In April (song), When Doves Cry (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-concert-series-kicks-off-with-ndegeocello-reimagining-prince/567927442/))
 
 ----
 

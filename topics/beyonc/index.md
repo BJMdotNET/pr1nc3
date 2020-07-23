@@ -16,7 +16,7 @@
 
 ----
 
- - [**"After 40 Years, Grammy show producer bows out his way"**](http://www.startribune.com/after-40-years-grammy-show-producer-bows-out-his-way/567226992/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 23 January 2020 about Aretha Franklin, Beyoncé, Ed Sheeran, Gary Clark Jr., John Legend, Ken Ehrlich, Misty Copeland, Obama, Stevie Wonder, White House (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/after-40-years-grammy-show-producer-bows-out-his-way/567226992/))
+ - [**"After 40 Years, Grammy show producer bows out his way"**](http://www.startribune.com/after-40-years-grammy-show-producer-bows-out-his-way/567226992/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 23 January 2020 about Aretha Franklin, Beyoncé, Ed Sheeran, Gary Clark Jr., John Legend, Ken Ehrlich, Misty Copeland, Obama, Stevie Wonder, White House (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/after-40-years-grammy-show-producer-bows-out-his-way/567226992/))
 
 ----
 
@@ -36,7 +36,7 @@
 
 ----
 
- - [**"Lifetime returns to R. Kelly with a new powerful series"**](http://www.startribune.com/lifetime-returns-to-r-kelly-with-a-new-powerful-series/566568672/) by Mark Kennedy (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 30 December 2019 about Beyoncé, Illinois (place), Michael Jackson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/lifetime-returns-to-r-kelly-with-a-new-powerful-series/566568672/))
+ - [**"Lifetime returns to R. Kelly with a new powerful series"**](http://www.startribune.com/lifetime-returns-to-r-kelly-with-a-new-powerful-series/566568672/) by Mark Kennedy (Associated Press) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 30 December 2019 about Beyoncé, Illinois (place), Michael Jackson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/lifetime-returns-to-r-kelly-with-a-new-powerful-series/566568672/))
 
 ----
 

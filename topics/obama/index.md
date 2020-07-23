@@ -8,7 +8,7 @@
 
 ----
 
- - [**"After 40 Years, Grammy show producer bows out his way"**](http://www.startribune.com/after-40-years-grammy-show-producer-bows-out-his-way/567226992/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 23 January 2020 about Aretha Franklin, Beyoncé, Ed Sheeran, Gary Clark Jr., John Legend, Ken Ehrlich, Misty Copeland, Obama, Stevie Wonder, White House (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/after-40-years-grammy-show-producer-bows-out-his-way/567226992/))
+ - [**"After 40 Years, Grammy show producer bows out his way"**](http://www.startribune.com/after-40-years-grammy-show-producer-bows-out-his-way/567226992/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 23 January 2020 about Aretha Franklin, Beyoncé, Ed Sheeran, Gary Clark Jr., John Legend, Ken Ehrlich, Misty Copeland, Obama, Stevie Wonder, White House (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/after-40-years-grammy-show-producer-bows-out-his-way/567226992/))
 
 ----
 
@@ -24,7 +24,7 @@
 
 ----
 
- - [**"From Ukraine to Jay-Z, a night with President Trump -- One journalist's notes from an exceptional happening in downtown Minneapolis. "**](http://www.startribune.com/from-ukraine-to-jay-z-a-night-with-president-trump/562832292/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 11 October 2019 about Obama, Purple Rain (song), Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/from-ukraine-to-jay-z-a-night-with-president-trump/562832292/))
+ - [**"From Ukraine to Jay-Z, a night with President Trump -- One journalist's notes from an exceptional happening in downtown Minneapolis. "**](http://www.startribune.com/from-ukraine-to-jay-z-a-night-with-president-trump/562832292/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 11 October 2019 about Obama, Purple Rain (song), Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/from-ukraine-to-jay-z-a-night-with-president-trump/562832292/))
 
 ----
 
@@ -64,7 +64,7 @@
 
 ----
 
- - [**"Obituary: Prince was a diminutive giant who revolutionized pop -- Though he was a puzzle at times, the rocker was a true Minnesotan who changed music more than once in a nearly 40-year career."**](http://www.startribune.com/jon-bream-prince-was-a-once-in-a-generation-artist-who-never-rested-on-his-laurels/376594221/) by Chris Riemenschneider, Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 April 2016 about André Cymone, First Avenue (place), Grammy Award, John Nelson, Let’s Go Crazy (song), Little Red Corvette (song), Mayte, Mayte Garcia, Obama, Super Bowl, Super Bowl XLI (event), Tyka Nelson, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/jon-bream-prince-was-a-once-in-a-generation-artist-who-never-rested-on-his-laurels/376594221/))
+ - [**"Obituary: Prince was a diminutive giant who revolutionized pop -- Though he was a puzzle at times, the rocker was a true Minnesotan who changed music more than once in a nearly 40-year career."**](http://www.startribune.com/jon-bream-prince-was-a-once-in-a-generation-artist-who-never-rested-on-his-laurels/376594221/) by Chris Riemenschneider, Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 22 April 2016 about André Cymone, First Avenue (place), Grammy Award, John Nelson, Let’s Go Crazy (song), Little Red Corvette (song), Mayte, Mayte Garcia, Obama, Super Bowl, Super Bowl XLI (event), Tyka Nelson, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/jon-bream-prince-was-a-once-in-a-generation-artist-who-never-rested-on-his-laurels/376594221/))
 
 ----
 

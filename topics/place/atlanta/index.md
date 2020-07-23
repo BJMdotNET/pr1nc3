@@ -1,10 +1,10 @@
 # Atlanta (place)
 
- - [**"Prince doctor sanctioned by Minnesota Board of Medical Practice -- Disciplinary action follows physician's settlement of a federal lawsuit. "**](http://www.startribune.com/prince-doctor-sanctioned-by-minnesota-board-of-medical-practice/567528322/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 3 February 2020 about Atlanta (place), fentanyl, Howard Kornfeld, Kirk Johnson, Michael Todd Schulenberg ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-doctor-sanctioned-by-minnesota-board-of-medical-practice/567528322/))
+ - [**"Prince doctor sanctioned by Minnesota Board of Medical Practice -- Disciplinary action follows physician's settlement of a federal lawsuit. "**](http://www.startribune.com/prince-doctor-sanctioned-by-minnesota-board-of-medical-practice/567528322/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 3 February 2020 about Atlanta (place), fentanyl, Howard Kornfeld, Kirk Johnson, Michael Todd Schulenberg ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-doctor-sanctioned-by-minnesota-board-of-medical-practice/567528322/))
 
 ----
 
- - [**"Prince's estate quietly dismisses wrongful-death claims -- Legal settlements likely in wrongful-death suits. "**](http://www.startribune.com/prince-wrongful-death-claims-dismissed/567141982/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 January 2020 about Atlanta (place), Carver County, Carver County District Court, Cecilie M. Loidolt, fentanyl, Illinois (place), John Goetz, Kirk Johnson, Michael Schulenberg, North Memorial Health Care, Paul C. Peterson, Percocet, Prince Estate, probate court, Recovery Without Walls, Rodger Hagen, The Prince Estate, Trinity Medical Center (place), Walgreens ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-wrongful-death-claims-dismissed/567141982/))
+ - [**"Prince's estate quietly dismisses wrongful-death claims -- Legal settlements likely in wrongful-death suits. "**](http://www.startribune.com/prince-wrongful-death-claims-dismissed/567141982/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 20 January 2020 about Atlanta (place), Carver County, Carver County District Court, Cecilie M. Loidolt, fentanyl, Illinois (place), John Goetz, Kirk Johnson, Michael Schulenberg, North Memorial Health Care, Paul C. Peterson, Percocet, Prince Estate, probate court, Recovery Without Walls, Rodger Hagen, The Prince Estate, Trinity Medical Center (place), Walgreens ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-wrongful-death-claims-dismissed/567141982/))
 
 ----
 
@@ -16,7 +16,7 @@
 
 ----
 
- - [**"Prince co-author details 'extremely unlikely' story behind new memoir in New Yorker article"**](http://www.startribune.com/prince-co-author-details-extremely-unlikely-story-behind-new-memoir-in-new-yorker-article/559478242/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 September 2019 about Atlanta (place), Chanhassen Cinema, Country Inn & Suites (place), Dan Piepenbring, John Nelson, memoir, Miles Davis, Random House , Raspberry Beret (song), Spiegel & Grau, The Ballad Of Dorothy Parker (song), The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-co-author-details-extremely-unlikely-story-behind-new-memoir-in-new-yorker-article/559478242/))
+ - [**"Prince co-author details 'extremely unlikely' story behind new memoir in New Yorker article"**](http://www.startribune.com/prince-co-author-details-extremely-unlikely-story-behind-new-memoir-in-new-yorker-article/559478242/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 5 September 2019 about Atlanta (place), Chanhassen Cinema, Country Inn & Suites (place), Dan Piepenbring, John Nelson, memoir, Miles Davis, Random House , Raspberry Beret (song), Spiegel & Grau, The Ballad Of Dorothy Parker (song), The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-co-author-details-extremely-unlikely-story-behind-new-memoir-in-new-yorker-article/559478242/))
 
 ----
 
@@ -44,11 +44,11 @@
 
 ----
 
- - [**"10 curious things we learned about Prince from the investigations -- He liked Häagen-Dazs ice cream, 5-Hour Energy drinks and MAC beauty products."**](http://www.startribune.com/10-curious-things-we-learned-about-prince-from-the-investigations/480364723/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 April 2018 about airport, Atlanta (place), Carver County, CeeLo Green, Chaka Khan, Esperanza Spalding, Illinois (place), Janelle Monae, Judith Hill, Kirk Johnson, Larry Graham, North Memorial Medical Center (place), Peter Vang, Phaedra Ellis Lamkin, Rita Ora, Sheila E., U Got the Look (song), vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/10-curious-things-we-learned-about-prince-from-the-investigations/480364723/))
+ - [**"10 curious things we learned about Prince from the investigations -- He liked Häagen-Dazs ice cream, 5-Hour Energy drinks and MAC beauty products."**](http://www.startribune.com/10-curious-things-we-learned-about-prince-from-the-investigations/480364723/) by Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 20 April 2018 about airport, Atlanta (place), Carver County, CeeLo Green, Chaka Khan, Esperanza Spalding, Illinois (place), Janelle Monae, Judith Hill, Kirk Johnson, Larry Graham, North Memorial Medical Center (place), Peter Vang, Phaedra Ellis Lamkin, Rita Ora, Sheila E., U Got the Look (song), vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/10-curious-things-we-learned-about-prince-from-the-investigations/480364723/))
 
 ----
 
- - [**"Documents: Airplane scare was beginning of the end of Prince's struggles with opioids -- Long-awaited investigative documents released Thursday give the clearest narrative yet of the singer's problems with opioid addiction in his final days."**](http://www.startribune.com/documents-airplane-scare-was-beginning-of-the-end-of-prince-s-struggles-with-opioids/480325903/) by Dan Browning, David Chanen in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 April 2018 about 3rdEyeGirl, Andrew Kornfeld, Atlanta (place), fentanyl, Howard Kornfeld, Judith Hill, Kirk Johnson, Manuela Testolini, Meron Bekure, Vicodin, Walgreens ([mirror](https://web.archive.org/web/*/http://www.startribune.com/documents-airplane-scare-was-beginning-of-the-end-of-prince-s-struggles-with-opioids/480325903/))
+ - [**"Documents: Airplane scare was beginning of the end of Prince's struggles with opioids -- Long-awaited investigative documents released Thursday give the clearest narrative yet of the singer's problems with opioid addiction in his final days."**](http://www.startribune.com/documents-airplane-scare-was-beginning-of-the-end-of-prince-s-struggles-with-opioids/480325903/) by Dan Browning, David Chanen in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 20 April 2018 about 3rdEyeGirl, Andrew Kornfeld, Atlanta (place), fentanyl, Howard Kornfeld, Judith Hill, Kirk Johnson, Manuela Testolini, Meron Bekure, Vicodin, Walgreens ([mirror](https://web.archive.org/web/*/http://www.startribune.com/documents-airplane-scare-was-beginning-of-the-end-of-prince-s-struggles-with-opioids/480325903/))
 
 ----
 
@@ -84,7 +84,7 @@
 
 ----
 
- - [**"Judge authorizes DNA testing of Prince's blood for any heir claims"**](http://www.startribune.com/prince-creditors-have-four-months-to-file-claims/378449441/) by Dan Browning in [Minneapolis Star Tribune](http://www.startribune.com/) on 7 May 2016 about Atlanta (place), Bremer Trust, Carver County, Kevin Eide ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-creditors-have-four-months-to-file-claims/378449441/))
+ - [**"Judge authorizes DNA testing of Prince's blood for any heir claims"**](http://www.startribune.com/prince-creditors-have-four-months-to-file-claims/378449441/) by Dan Browning in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 7 May 2016 about Atlanta (place), Bremer Trust, Carver County, Kevin Eide ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-creditors-have-four-months-to-file-claims/378449441/))
 
 ----
 
@@ -100,7 +100,7 @@
 
 ----
 
- - [**"Adored by millions, Prince was alone as he died"**](http://www.startribune.com/investigation-underway-into-prince-s-death/376741561/) by John Reinan in [Minneapolis Star Tribune](http://www.startribune.com/) on 23 April 2016 about airport, Atlanta (place), Carver County, Dakota (place), Illinois (place), Jim Olson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/investigation-underway-into-prince-s-death/376741561/))
+ - [**"Adored by millions, Prince was alone as he died"**](http://www.startribune.com/investigation-underway-into-prince-s-death/376741561/) by John Reinan in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 23 April 2016 about airport, Atlanta (place), Carver County, Dakota (place), Illinois (place), Jim Olson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/investigation-underway-into-prince-s-death/376741561/))
 
 ----
 

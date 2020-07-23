@@ -1,5 +1,11 @@
 # 2020
 
+## July 2020 (1)
+
+ - [**"The Prince Estate Drops Unreleased Track 'I Could Never Take the Place of Your Man (1979 Version)'"**](https://www.billboard.com/articles/columns/pop/9419861/prince-unreleased-track-i-could-never-take-the-place-of-your-man-1979-version) in [Billboard](https://www.billboard.com/) on 16 July 2020 about I Could Never Take The Place Of Your Man (song), Prince Estate, Sign O' The Times (album), The Prince Estate, vault ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/columns/pop/9419861/prince-unreleased-track-i-could-never-take-the-place-of-your-man-1979-version))
+
+----
+
 ## February 2020 (3)
 
  - [**"Juicy J Apologizes Following Columbia Records-Aimed Diss Track"**](https://www.billboard.com/articles/columns/hip-hop/9325996/juicy-j-columbia-records-diss-track) in [Billboard](https://www.billboard.com/) on 29 February 2020 about Juicy J, Soul Train Awards ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/columns/hip-hop/9325996/juicy-j-columbia-records-diss-track))

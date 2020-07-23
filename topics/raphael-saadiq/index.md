@@ -4,7 +4,7 @@
 
 ----
 
- - [**"Best of the Week (Feb. 16-23): Tove Lo, Joe Henry, 'Gotta Dance,' Raphael Saadiq, VocalEssence, winter fest, more"**](http://www.startribune.com/best-of-the-week-feb-16-23-tove-lo-joe-henry-gotta-dance-raphael-saadiq-vocalessence-winter-fest-more/567872132/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 14 February 2020 about Celebration, Dakota (place), First Avenue (place), Jon Bream, Raphael Saadiq ([mirror](https://web.archive.org/web/*/http://www.startribune.com/best-of-the-week-feb-16-23-tove-lo-joe-henry-gotta-dance-raphael-saadiq-vocalessence-winter-fest-more/567872132/))
+ - [**"Best of the Week (Feb. 16-23): Tove Lo, Joe Henry, 'Gotta Dance,' Raphael Saadiq, VocalEssence, winter fest, more"**](http://www.startribune.com/best-of-the-week-feb-16-23-tove-lo-joe-henry-gotta-dance-raphael-saadiq-vocalessence-winter-fest-more/567872132/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 14 February 2020 about Celebration, Dakota (place), First Avenue (place), Jon Bream, Raphael Saadiq ([mirror](https://web.archive.org/web/*/http://www.startribune.com/best-of-the-week-feb-16-23-tove-lo-joe-henry-gotta-dance-raphael-saadiq-vocalessence-winter-fest-more/567872132/))
 
 ----
 

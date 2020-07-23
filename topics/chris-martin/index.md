@@ -40,7 +40,7 @@
 
 ----
 
- - [**"Grammys will honor Prince with an all-star concert broadcast on CBS"**](http://www.startribune.com/grammys-will-honor-prince-with-an-all-star-concert-broadcast-on-cbs/566849132/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 9 January 2020 about Alicia Keys, Aretha Franklin, Beck, Chris Martin, Coldplay, Earth, Wind & Fire, Foo Fighters, Gary Clark Jr., Grammy Award, H.E.R., Jimmy Jam, John Legend, Juanes, Let’s Go Crazy (song), Let's Go Crazy: The Grammy Salute to Prince (event), Los Angeles Convention Center (place), Mavis Staples, Morris Day, Morris Day & The Time, Morris Day and The Time, St. Vincent, Stevie Wonder, Susanna Hoffs, Terry Lewis, The Revolution, The Time, Usher ([mirror](https://web.archive.org/web/*/http://www.startribune.com/grammys-will-honor-prince-with-an-all-star-concert-broadcast-on-cbs/566849132/))
+ - [**"Grammys will honor Prince with an all-star concert broadcast on CBS"**](http://www.startribune.com/grammys-will-honor-prince-with-an-all-star-concert-broadcast-on-cbs/566849132/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 9 January 2020 about Alicia Keys, Aretha Franklin, Beck, Chris Martin, Coldplay, Earth, Wind & Fire, Foo Fighters, Gary Clark Jr., Grammy Award, H.E.R., Jimmy Jam, John Legend, Juanes, Let’s Go Crazy (song), Let's Go Crazy: The Grammy Salute to Prince (event), Los Angeles Convention Center (place), Mavis Staples, Morris Day, Morris Day & The Time, Morris Day and The Time, St. Vincent, Stevie Wonder, Susanna Hoffs, Terry Lewis, The Revolution, The Time, Usher ([mirror](https://web.archive.org/web/*/http://www.startribune.com/grammys-will-honor-prince-with-an-all-star-concert-broadcast-on-cbs/566849132/))
 
 ----
 
@@ -48,7 +48,7 @@
 
 ----
 
- - [**"John Legend, H.E.R. to perform at Prince tribute concert"**](http://www.startribune.com/john-legend-h-e-r-to-perform-at-prince-tribute-concert/566845702/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 9 January 2020 about Alicia Keys, Beck, Chris Martin, Earth, Wind & Fire, Foo Fighters, Gary Clark Jr., Grammy Award, H.E.R., John Legend, Juanes, Let's Go Crazy: The Grammy Salute to Prince (event), Los Angeles Convention Center (place), Mavis Staples, Morris Day, Morris Day and The Time, Sheila E., St. Vincent, Susanna Hoffs, The Revolution, The Time, Usher ([mirror](https://web.archive.org/web/*/http://www.startribune.com/john-legend-h-e-r-to-perform-at-prince-tribute-concert/566845702/))
+ - [**"John Legend, H.E.R. to perform at Prince tribute concert"**](http://www.startribune.com/john-legend-h-e-r-to-perform-at-prince-tribute-concert/566845702/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 9 January 2020 about Alicia Keys, Beck, Chris Martin, Earth, Wind & Fire, Foo Fighters, Gary Clark Jr., Grammy Award, H.E.R., John Legend, Juanes, Let's Go Crazy: The Grammy Salute to Prince (event), Los Angeles Convention Center (place), Mavis Staples, Morris Day, Morris Day and The Time, Sheila E., St. Vincent, Susanna Hoffs, The Revolution, The Time, Usher ([mirror](https://web.archive.org/web/*/http://www.startribune.com/john-legend-h-e-r-to-perform-at-prince-tribute-concert/566845702/))
 
 ----
 

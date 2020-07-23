@@ -12,7 +12,7 @@
 
 ----
 
- - [**"12 must-hear tunes unearthed from Prince's vault for '1999' reissue"**](http://www.startribune.com/12-must-hear-tunes-unearthed-from-prince-s-vault-for-1999-reissue/565432942/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 November 2019 about 1999 (album), 94 East, Can’t Stop This Feeling I Got (song), Colleen (song), Do Yourself a Favor (song), If It’ll Make U Happy (song), Jesse Johnson, Jill Jones, Morris Day, No Call U (song), Peggy McCreary, Pepe Willie, Purple Music (song), Sunset Sound (place), Vagina (song), Vanity, vault, Yah, You Know (song), You’re All I Want (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/12-must-hear-tunes-unearthed-from-prince-s-vault-for-1999-reissue/565432942/))
+ - [**"12 must-hear tunes unearthed from Prince's vault for '1999' reissue"**](http://www.startribune.com/12-must-hear-tunes-unearthed-from-prince-s-vault-for-1999-reissue/565432942/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 25 November 2019 about 1999 (album), 94 East, Can’t Stop This Feeling I Got (song), Colleen (song), Do Yourself a Favor (song), If It’ll Make U Happy (song), Jesse Johnson, Jill Jones, Morris Day, No Call U (song), Peggy McCreary, Pepe Willie, Purple Music (song), Sunset Sound (place), Vagina (song), Vanity, vault, Yah, You Know (song), You’re All I Want (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/12-must-hear-tunes-unearthed-from-prince-s-vault-for-1999-reissue/565432942/))
 
 ----
 
@@ -32,11 +32,11 @@
 
 ----
 
- - [**"Third annual Prince commemoration at Paisley Park features emotional ups and downs -- For a third year, fans gather to celebrate and remember the artist."**](http://www.startribune.com/third-annual-prince-commemoration-at-paisley-park-features-emotional-ups-and-downs/509087732/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 April 2019 about Jesse Johnson, The Time ([mirror](https://web.archive.org/web/*/http://www.startribune.com/third-annual-prince-commemoration-at-paisley-park-features-emotional-ups-and-downs/509087732/))
+ - [**"Third annual Prince commemoration at Paisley Park features emotional ups and downs -- For a third year, fans gather to celebrate and remember the artist."**](http://www.startribune.com/third-annual-prince-commemoration-at-paisley-park-features-emotional-ups-and-downs/509087732/) by Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 25 April 2019 about Jesse Johnson, The Time ([mirror](https://web.archive.org/web/*/http://www.startribune.com/third-annual-prince-commemoration-at-paisley-park-features-emotional-ups-and-downs/509087732/))
 
 ----
 
- - [**"Prince Celebration 2019 to feature Jesse Johnson, manager Bob Cavallo and live/video concert"**](http://www.startribune.com/prince-celebration-2019-to-feature-jesse-johnson-manager-bob-cavallo-and-live-video-concert/505394312/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 February 2019 about Bob Cavallo, Celebration 2019, Jesse Johnson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-celebration-2019-to-feature-jesse-johnson-manager-bob-cavallo-and-live-video-concert/505394312/))
+ - [**"Prince Celebration 2019 to feature Jesse Johnson, manager Bob Cavallo and live/video concert"**](http://www.startribune.com/prince-celebration-2019-to-feature-jesse-johnson-manager-bob-cavallo-and-live-video-concert/505394312/) by Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 5 February 2019 about Bob Cavallo, Celebration 2019, Jesse Johnson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-celebration-2019-to-feature-jesse-johnson-manager-bob-cavallo-and-live-video-concert/505394312/))
 
 ----
 
@@ -52,11 +52,11 @@
 
 ----
 
- - [**"Jesse Johnson soars as guitar hero in power trio marathon at First Avenue"**](http://www.startribune.com/jesse-johnson-soars-as-guitar-hero-in-power-trio-marathon-at-first-avenue/404557246/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 4 December 2016 about First Avenue (place), Jesse Johnson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/jesse-johnson-soars-as-guitar-hero-in-power-trio-marathon-at-first-avenue/404557246/))
+ - [**"Jesse Johnson soars as guitar hero in power trio marathon at First Avenue"**](http://www.startribune.com/jesse-johnson-soars-as-guitar-hero-in-power-trio-marathon-at-first-avenue/404557246/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 4 December 2016 about First Avenue (place), Jesse Johnson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/jesse-johnson-soars-as-guitar-hero-in-power-trio-marathon-at-first-avenue/404557246/))
 
 ----
 
- - [**"Time guitarist Jesse Johnson returns to First Ave, a venue that 'always felt strange' -- After stints with the Time and D'Angelo, guitar ace Jesse Johnson returns to First Avenue fronting a power trio."**](http://www.startribune.com/guitarist-jesse-johnson-from-the-time-returns-to-first-ave-a-venue-that-always-felt-strange/403806736/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 30 November 2016 about First Avenue (place), Jesse Johnson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/guitarist-jesse-johnson-from-the-time-returns-to-first-ave-a-venue-that-always-felt-strange/403806736/))
+ - [**"Time guitarist Jesse Johnson returns to First Ave, a venue that 'always felt strange' -- After stints with the Time and D'Angelo, guitar ace Jesse Johnson returns to First Avenue fronting a power trio."**](http://www.startribune.com/guitarist-jesse-johnson-from-the-time-returns-to-first-ave-a-venue-that-always-felt-strange/403806736/) by Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 30 November 2016 about First Avenue (place), Jesse Johnson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/guitarist-jesse-johnson-from-the-time-returns-to-first-ave-a-venue-that-always-felt-strange/403806736/))
 
 ----
 
@@ -68,7 +68,7 @@
 
 ----
 
- - [**"Margaret's time: Singer Cox finally puts together first solo CD"**](http://www.startribune.com/stories/919/3798852.html) in [Minneapolis Star Tribune](http://www.startribune.com/) on 6 April 2003 about 1-800-NEW-FUNK (album), A&M Records, Bunkers (place), contract, Dr. Mambo's Combo, Everybody Dance (song), Jesse Johnson, Legendary Combo, Lipps, Inc., M.C. Flash, Margaret Cox, Margie Cox, Margie's Little Demo (album), Michael Bland, Paula Abdul, Standing at the Altar (song), TaMara, TaMara & the Seen ([mirror](https://web.archive.org/web/*/http://www.startribune.com/stories/919/3798852.html))
+ - [**"Margaret's time: Singer Cox finally puts together first solo CD"**](http://www.startribune.com/stories/919/3798852.html) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 6 April 2003 about 1-800-NEW-FUNK (album), A&M Records, Bunkers (place), contract, Dr. Mambo's Combo, Everybody Dance (song), Jesse Johnson, Legendary Combo, Lipps, Inc., M.C. Flash, Margaret Cox, Margie Cox, Margie's Little Demo (album), Michael Bland, Paula Abdul, Standing at the Altar (song), TaMara, TaMara & the Seen ([mirror](https://web.archive.org/web/*/http://www.startribune.com/stories/919/3798852.html))
 
 ----
 

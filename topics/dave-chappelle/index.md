@@ -1,5 +1,13 @@
 # Dave Chappelle
 
+ - [**"Prince’s Classic ‘Sign O’ the Times’ Deluxe Reissue Coming in September, With 63 Bonus Tracks"**](https://variety.com/2020/music/news/prince-sign-o-the-times-deluxe-reissue-bonus-tracks-1234689805/) in [Variety](https://variety.com/) on 25 June 2020 about Andrea Swensson, bootleg, Daphne A. Brooks, Dave Chappelle, Dream Factory (album), Duane Tudahl, I Could Never Take The Place Of Your Man (song), Jeff Katz, Lenny Kravitz, Miles Davis, Susan Rogers, The Revolution, U Got the Look (song), vault, Witness 4 The Prosecution (song) ([mirror](https://web.archive.org/web/*/https://variety.com/2020/music/news/prince-sign-o-the-times-deluxe-reissue-bonus-tracks-1234689805/))
+
+----
+
+ - [**"Prince's epic 'Sign o' the Times' to get super deluxe reissue on Sept. 25"**](https://www.startribune.com/prince-s-epic-sign-o-the-times-to-get-super-deluxe-reissue-on-sept-25/571488832/) in [Minneapolis Star Tribune](https://www.startribune.com/) on 25 June 2020 about Dave Chappelle, Housequake (song), Jeff Katz, Lenny Kravitz, Love and Sex (song), Miles Davis, Prince Estate, Sign O' The Times (album), Starfish And Coffee (song), The Prince Estate, U Got the Look (song), vault ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-s-epic-sign-o-the-times-to-get-super-deluxe-reissue-on-sept-25/571488832/))
+
+----
+
  - [**"Let’s get drunk at Prince’s house!"**](http://www.citypages.com/music/lets-get-drunk-at-princes-house/566877031) in [City Pages](http://www.citypages.com/) on 10 January 2020 about Amazing Grace (movie), Aretha Franklin, Dave Chappelle, Dave Chappelle’s Block Party (movie), Meshell Ndegeocello, Musicology: Real Music by Real Musicians (event), Paisley Park Cinema: Music on the Big Screen (event), Super Bowl, Thing Called Life: Prince Reimagined (tour) ([mirror](https://web.archive.org/web/*/http://www.citypages.com/music/lets-get-drunk-at-princes-house/566877031))
 
 ----
@@ -8,7 +16,7 @@
 
 ----
 
- - [**"Alcohol will be served as Paisley Park launches new live music series"**](http://www.startribune.com/live-music-series-at-prince-s-paisley-park-to-kick-off-feb-15-with-meshell-ndegeocello/566830752/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 9 January 2020 about Amazing Grace (movie), Andre Cymone, Aretha Franklin, Dave Chappelle, Dave Chappelle’s Block Party (movie), George Clinton, Judith Hill, Meshell Ndegeocello, Musicology: Real Music by Real Musicians (event), Paisley Park Cinema: Music on the Big Screen (event), Sometimes It Snows In April (song), Wattstax (movie) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/live-music-series-at-prince-s-paisley-park-to-kick-off-feb-15-with-meshell-ndegeocello/566830752/))
+ - [**"Alcohol will be served as Paisley Park launches new live music series"**](http://www.startribune.com/live-music-series-at-prince-s-paisley-park-to-kick-off-feb-15-with-meshell-ndegeocello/566830752/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 9 January 2020 about Amazing Grace (movie), Andre Cymone, Aretha Franklin, Dave Chappelle, Dave Chappelle’s Block Party (movie), George Clinton, Judith Hill, Meshell Ndegeocello, Musicology: Real Music by Real Musicians (event), Paisley Park Cinema: Music on the Big Screen (event), Sometimes It Snows In April (song), Wattstax (movie) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/live-music-series-at-prince-s-paisley-park-to-kick-off-feb-15-with-meshell-ndegeocello/566830752/))
 
 ----
 
@@ -24,7 +32,7 @@
 
 ----
 
- - [**"Paisley Park to host film series featuring Aretha, 'Wattstax' and 'Dave Chappelle's Block Party'"**](http://www.startribune.com/paisley-park-to-host-film-series-featuring-aretha-wattstax-and-dave-chappelle-s-block-party/566561102/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 30 December 2019 about Alan Seiffert, Amazing Grace (movie), Andre Cymone, Aretha Franklin, Dave Chappelle, Dave Chappelle’s Block Party (movie), Graceland, Graceland Holdings, Judith Hill, museum, Paisley Park Cinema: Music on the Big Screen (event), The Roots ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-to-host-film-series-featuring-aretha-wattstax-and-dave-chappelle-s-block-party/566561102/))
+ - [**"Paisley Park to host film series featuring Aretha, 'Wattstax' and 'Dave Chappelle's Block Party'"**](http://www.startribune.com/paisley-park-to-host-film-series-featuring-aretha-wattstax-and-dave-chappelle-s-block-party/566561102/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 30 December 2019 about Alan Seiffert, Amazing Grace (movie), Andre Cymone, Aretha Franklin, Dave Chappelle, Dave Chappelle’s Block Party (movie), Graceland, Graceland Holdings, Judith Hill, museum, Paisley Park Cinema: Music on the Big Screen (event), The Roots ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-to-host-film-series-featuring-aretha-wattstax-and-dave-chappelle-s-block-party/566561102/))
 
 ----
 
@@ -32,7 +40,7 @@
 
 ----
 
- - [**"In first night here, Dave Chappelle thanks Minnesota for sending 'wild' politicians to D.C. -- Review: Like Springsteen, the comedian worked hard and reached deep as he launched a four-night run."**](http://www.startribune.com/in-first-night-here-dave-chappelle-thanks-minnesota-for-sending-wild-politicians-to-d-c/508592742/) by Neal Justin in [Minneapolis Star Tribune](http://www.startribune.com/) on 15 April 2019 about 1999 (song), Dave Chappelle ([mirror](https://web.archive.org/web/*/http://www.startribune.com/in-first-night-here-dave-chappelle-thanks-minnesota-for-sending-wild-politicians-to-d-c/508592742/))
+ - [**"In first night here, Dave Chappelle thanks Minnesota for sending 'wild' politicians to D.C. -- Review: Like Springsteen, the comedian worked hard and reached deep as he launched a four-night run."**](http://www.startribune.com/in-first-night-here-dave-chappelle-thanks-minnesota-for-sending-wild-politicians-to-d-c/508592742/) by Neal Justin in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 15 April 2019 about 1999 (song), Dave Chappelle ([mirror](https://web.archive.org/web/*/http://www.startribune.com/in-first-night-here-dave-chappelle-thanks-minnesota-for-sending-wild-politicians-to-d-c/508592742/))
 
 ----
 
@@ -56,7 +64,7 @@
 
 ----
 
- - [**"Comic Dave Chappelle kicks off First Ave run by kicking at Cosby and Trump -- Review: The legendary stand-up veteran's 10-show run included a serious nod to Prince."**](http://www.startribune.com/comic-dave-chappelle-kicks-off-first-ave-run-by-kicking-at-cosby-and-trump/381471061/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 1 June 2016 about Dave Chappelle, First Avenue (place), Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/comic-dave-chappelle-kicks-off-first-ave-run-by-kicking-at-cosby-and-trump/381471061/))
+ - [**"Comic Dave Chappelle kicks off First Ave run by kicking at Cosby and Trump -- Review: The legendary stand-up veteran's 10-show run included a serious nod to Prince."**](http://www.startribune.com/comic-dave-chappelle-kicks-off-first-ave-run-by-kicking-at-cosby-and-trump/381471061/) by Chris Riemenschneider in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 1 June 2016 about Dave Chappelle, First Avenue (place), Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/comic-dave-chappelle-kicks-off-first-ave-run-by-kicking-at-cosby-and-trump/381471061/))
 
 ----
 

@@ -1,10 +1,10 @@
 # Omarr Baker
 
- - [**"Prince exhibit coming to the Minnesota State Fair next year -- Superstar's estate is planning exhibit with artifacts, merchandise and performances. "**](http://www.startribune.com/prince-exhibit-coming-to-the-minnesota-state-fair-next-year/558970762/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 31 August 2019 about Comerica, exhibit, Kirk Johnson, merchandise, Minnesota State Fair, Omarr Baker, State Fair, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-exhibit-coming-to-the-minnesota-state-fair-next-year/558970762/))
+ - [**"Prince exhibit coming to the Minnesota State Fair next year -- Superstar's estate is planning exhibit with artifacts, merchandise and performances. "**](http://www.startribune.com/prince-exhibit-coming-to-the-minnesota-state-fair-next-year/558970762/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 31 August 2019 about Comerica, exhibit, Kirk Johnson, merchandise, Minnesota State Fair, Omarr Baker, State Fair, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-exhibit-coming-to-the-minnesota-state-fair-next-year/558970762/))
 
 ----
 
- - [**"One of Prince's heirs, Alfred Jackson, dies in Kansas City"**](http://www.startribune.com/one-of-prince-s-heirs-alfred-jackson-dies-in-kansas-city/558728862/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 29 August 2019 about Alfred Jackson, John L. Nelson, John R. Nelson, Omarr Baker, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/one-of-prince-s-heirs-alfred-jackson-dies-in-kansas-city/558728862/))
+ - [**"One of Prince's heirs, Alfred Jackson, dies in Kansas City"**](http://www.startribune.com/one-of-prince-s-heirs-alfred-jackson-dies-in-kansas-city/558728862/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 29 August 2019 about Alfred Jackson, John L. Nelson, John R. Nelson, Omarr Baker, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/one-of-prince-s-heirs-alfred-jackson-dies-in-kansas-city/558728862/))
 
 ----
 
@@ -16,7 +16,7 @@
 
 ----
 
- - [**"Timberwolves show off Prince tribute uniforms at Paisley Park -- The Wolves will wear the uniforms eight times this year, including five times at home, and they go on sale to the public next week."**](http://www.startribune.com/timberwolves-show-off-prince-tribute-jerseys-at-paisley-park/499315791/) by Michael Rand in [Minneapolis Star Tribune](http://www.startribune.com/) on 1 November 2018 about Minnesota Timberwolves, motorcycle, Omarr Baker, Timberwolves ([mirror](https://web.archive.org/web/*/http://www.startribune.com/timberwolves-show-off-prince-tribute-jerseys-at-paisley-park/499315791/))
+ - [**"Timberwolves show off Prince tribute uniforms at Paisley Park -- The Wolves will wear the uniforms eight times this year, including five times at home, and they go on sale to the public next week."**](http://www.startribune.com/timberwolves-show-off-prince-tribute-jerseys-at-paisley-park/499315791/) by Michael Rand in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 1 November 2018 about Minnesota Timberwolves, motorcycle, Omarr Baker, Timberwolves ([mirror](https://web.archive.org/web/*/http://www.startribune.com/timberwolves-show-off-prince-tribute-jerseys-at-paisley-park/499315791/))
 
 ----
 
@@ -68,7 +68,7 @@
 
 ----
 
- - [**"Floodgates are about to open on Prince's career after death -- A year after he died, Prince's lucrative second career is taking off. The industry moguls he despised are calling the shots — and his wishes don't apply."**](http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 April 2017 about Bravado, Bremer Trust, Carver County, Charles Koppelman, Comerica, contract, Graceland, Graceland Holdings, hologram, merchandise, Michael Jackson, museum, Omarr Baker, Spotify, Susan Rogers, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/))
+ - [**"Floodgates are about to open on Prince's career after death -- A year after he died, Prince's lucrative second career is taking off. The industry moguls he despised are calling the shots — and his wishes don't apply."**](http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/) by Chris Riemenschneider in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 18 April 2017 about Bravado, Bremer Trust, Carver County, Charles Koppelman, Comerica, contract, Graceland, Graceland Holdings, hologram, merchandise, Michael Jackson, museum, Omarr Baker, Spotify, Susan Rogers, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/))
 
 ----
 
@@ -92,7 +92,7 @@
 
 ----
 
- - [**"Judge confirms appointment of special administrator on Prince's estate -- Siblings say they're "all on the same page" even as a new alleged heir emerges."**](http://www.startribune.com/court-hearing-today-in-carver-county-on-prince-estate/377780821/) by Emma Nelson in [Minneapolis Star Tribune](http://www.startribune.com/) on 2 May 2016 about Alfred Jackson, Bremer Trust, Carver County, John Nelson, Kevin Eide, Norrine Nelson, Omarr Baker, Prince Estate, Sharon Nelson, The Prince Estate, Tyka Nelson, Van Jones ([mirror](https://web.archive.org/web/*/http://www.startribune.com/court-hearing-today-in-carver-county-on-prince-estate/377780821/))
+ - [**"Judge confirms appointment of special administrator on Prince's estate -- Siblings say they're "all on the same page" even as a new alleged heir emerges."**](http://www.startribune.com/court-hearing-today-in-carver-county-on-prince-estate/377780821/) by Emma Nelson in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 2 May 2016 about Alfred Jackson, Bremer Trust, Carver County, John Nelson, Kevin Eide, Norrine Nelson, Omarr Baker, Prince Estate, Sharon Nelson, The Prince Estate, Tyka Nelson, Van Jones ([mirror](https://web.archive.org/web/*/http://www.startribune.com/court-hearing-today-in-carver-county-on-prince-estate/377780821/))
 
 ----
 
@@ -104,7 +104,7 @@
 
 ----
 
- - [**"Sheila E.: Saying goodbye to Prince 'the hardest thing I've ever had to do' -- Sheila E., longtime friend, said she never knew Prince to take drugs."**](http://www.startribune.com/sheila-e-saying-goodbye-to-prince-the-hardest-thing-i-ve-ever-had-to-do/376906621/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 April 2016 about Celebration, Chaka Khan, Kirk Johnson, Larry Graham, Let’s Go Crazy (song), Lionel Richie, Omarr Baker, Sheila E., TMZ (website), Tyka Nelson, WCCO-TV ([mirror](https://web.archive.org/web/*/http://www.startribune.com/sheila-e-saying-goodbye-to-prince-the-hardest-thing-i-ve-ever-had-to-do/376906621/))
+ - [**"Sheila E.: Saying goodbye to Prince 'the hardest thing I've ever had to do' -- Sheila E., longtime friend, said she never knew Prince to take drugs."**](http://www.startribune.com/sheila-e-saying-goodbye-to-prince-the-hardest-thing-i-ve-ever-had-to-do/376906621/) by Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 25 April 2016 about Celebration, Chaka Khan, Kirk Johnson, Larry Graham, Let’s Go Crazy (song), Lionel Richie, Omarr Baker, Sheila E., TMZ (website), Tyka Nelson, WCCO-TV ([mirror](https://web.archive.org/web/*/http://www.startribune.com/sheila-e-saying-goodbye-to-prince-the-hardest-thing-i-ve-ever-had-to-do/376906621/))
 
 ----
 

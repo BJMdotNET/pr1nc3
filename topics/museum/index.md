@@ -1,10 +1,14 @@
 # museum
 
+ - [**"Paisley Park gets a reboot: You can take cellphone pics, and even drink, too -- Four years after Prince's death, his Chanhassen studio has come alive again under a new director who's even allowing cellphones and alcohol."**](http://www.startribune.com/paisley-park-gets-a-reboot-you-can-take-cellphone-pics-and-even-drink-too/568554622/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 7 March 2020 about 1999 Super Deluxe (album), Alan Seiffert, Andrea Bruce, Angela Aycock, Beck, Celebration, Comerica, Comerica Trust, exhibit, Graceland Holdings, Joel Weinshanker, Justin Timberlake, Kirk Johnson, Lovesexy (tour), Meshell Ndegeocello, Mitch Maguire, museum, Super Bowl, Trevor Guy, Twin Cities (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-gets-a-reboot-you-can-take-cellphone-pics-and-even-drink-too/568554622/))
+
+----
+
  - [**"Prince estate fight gets even thornier with heir's death and will"**](https://www.bizjournals.com/twincities/news/2020/02/23/prince-estate-fight-gets-even-thornier-with-heirs.html) in [Minneapolis / St. Paul Business Journal](https://www.bizjournals.com/twincities/) on 23 February 2020 about Alfred Jackson, hologram, Michael Jackson, museum, Paisley Park Studios (place), Primary Wave, Prince Estate, Raffles Van Exel, Tyka Nelson, Whitney Houston ([mirror](https://web.archive.org/web/*/https://www.bizjournals.com/twincities/news/2020/02/23/prince-estate-fight-gets-even-thornier-with-heirs.html))
 
 ----
 
- - [**"Paisley Park concert series kicks off with Ndegeocello reimagining Prince"**](http://www.startribune.com/paisley-park-concert-series-kicks-off-with-ndegeocello-reimagining-prince/567927442/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 16 February 2020 about Alan Seiffert, Lizzo, Meshell Ndegeocello, museum, Pop Life (song), Purple Rain (song), Sometimes It Snows In April (song), When Doves Cry (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-concert-series-kicks-off-with-ndegeocello-reimagining-prince/567927442/))
+ - [**"Paisley Park concert series kicks off with Ndegeocello reimagining Prince"**](http://www.startribune.com/paisley-park-concert-series-kicks-off-with-ndegeocello-reimagining-prince/567927442/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 16 February 2020 about Alan Seiffert, Lizzo, Meshell Ndegeocello, museum, Pop Life (song), Purple Rain (song), Sometimes It Snows In April (song), When Doves Cry (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-concert-series-kicks-off-with-ndegeocello-reimagining-prince/567927442/))
 
 ----
 
@@ -16,7 +20,7 @@
 
 ----
 
- - [**"Local artist pays tribute to Prince with giant mural at MSP airport -- Rock Martinez's mural of the music legend arrived for a yearlong stay at MSP as part of the airport's traveling exhibits program."**](http://www.startribune.com/local-artist-pays-tribute-to-prince-with-msp-airport-mural/567357372/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 28 January 2020 about airport, Alan Seiffert, ARTS@MSP, Bob Dylan, exhibit, I Would Die 4 U (song), merchandise, Minneapolis-St. Paul International Airport (place), MSP (place), museum, Rock Martinez, The Revolution, University of Minnesota, Weisman Art Museum (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/local-artist-pays-tribute-to-prince-with-msp-airport-mural/567357372/))
+ - [**"Local artist pays tribute to Prince with giant mural at MSP airport -- Rock Martinez's mural of the music legend arrived for a yearlong stay at MSP as part of the airport's traveling exhibits program."**](http://www.startribune.com/local-artist-pays-tribute-to-prince-with-msp-airport-mural/567357372/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 28 January 2020 about airport, Alan Seiffert, ARTS@MSP, Bob Dylan, exhibit, I Would Die 4 U (song), merchandise, Minneapolis-St. Paul International Airport (place), MSP (place), museum, Rock Martinez, The Revolution, University of Minnesota, Weisman Art Museum (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/local-artist-pays-tribute-to-prince-with-msp-airport-mural/567357372/))
 
 ----
 
@@ -40,7 +44,7 @@
 
 ----
 
- - [**"Star Tribune's 2019 Artists of the Year -- Meet the Minnesotans at the heart of the year's most groundbreaking show."**](http://www.startribune.com/6-minnesotans-are-2019-artists-of-the-year/564924782/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 6 January 2020 about 1999 (album), ASCAP, Ava DuVernay, Bangles, Bob Dylan, Dakota (place), exhibit, exhibition, Kenny Rogers, Lizzo, memoir, Minneapolis Institute of Art, museum, Netflix, Originals (album), Rearrange (song), Sheila E., Smithsonian (place), The Beautiful Ones (book), University of Minnesota, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/6-minnesotans-are-2019-artists-of-the-year/564924782/))
+ - [**"Star Tribune's 2019 Artists of the Year -- Meet the Minnesotans at the heart of the year's most groundbreaking show."**](http://www.startribune.com/6-minnesotans-are-2019-artists-of-the-year/564924782/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 6 January 2020 about 1999 (album), ASCAP, Ava DuVernay, Bangles, Bob Dylan, Dakota (place), exhibit, exhibition, Kenny Rogers, Lizzo, memoir, Minneapolis Institute of Art, museum, Netflix, Originals (album), Rearrange (song), Sheila E., Smithsonian (place), The Beautiful Ones (book), University of Minnesota, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/6-minnesotans-are-2019-artists-of-the-year/564924782/))
 
 ----
 
@@ -48,11 +52,11 @@
 
 ----
 
- - [**"Paisley Park to host film series featuring Aretha, 'Wattstax' and 'Dave Chappelle's Block Party'"**](http://www.startribune.com/paisley-park-to-host-film-series-featuring-aretha-wattstax-and-dave-chappelle-s-block-party/566561102/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 30 December 2019 about Alan Seiffert, Amazing Grace (movie), Andre Cymone, Aretha Franklin, Dave Chappelle, Dave Chappelle’s Block Party (movie), Graceland, Graceland Holdings, Judith Hill, museum, Paisley Park Cinema: Music on the Big Screen (event), The Roots ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-to-host-film-series-featuring-aretha-wattstax-and-dave-chappelle-s-block-party/566561102/))
+ - [**"Paisley Park to host film series featuring Aretha, 'Wattstax' and 'Dave Chappelle's Block Party'"**](http://www.startribune.com/paisley-park-to-host-film-series-featuring-aretha-wattstax-and-dave-chappelle-s-block-party/566561102/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 30 December 2019 about Alan Seiffert, Amazing Grace (movie), Andre Cymone, Aretha Franklin, Dave Chappelle, Dave Chappelle’s Block Party (movie), Graceland, Graceland Holdings, Judith Hill, museum, Paisley Park Cinema: Music on the Big Screen (event), The Roots ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-to-host-film-series-featuring-aretha-wattstax-and-dave-chappelle-s-block-party/566561102/))
 
 ----
 
- - [**"Celebration 2020 at Paisley Park will coincide with Prince's birth, not death"**](http://www.startribune.com/celebration-2020-at-paisley-park-will-coincide-with-prince-s-birth-not-death/566249302/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 16 December 2019 about 1999 Super Deluxe (album), Alan Seiffert, Celebration, Celebration 2020, contract, Donna Grantis, George Clinton, Graceland, Graceland Holdings, Judith Hill, Justin Timberlake, Liv Warfield, Morris Day, Morris Day & The Time, museum, Nooky Jones, Sometimes It Snows In April (song), Super Bowl, The Revolution ([mirror](https://web.archive.org/web/*/http://www.startribune.com/celebration-2020-at-paisley-park-will-coincide-with-prince-s-birth-not-death/566249302/))
+ - [**"Celebration 2020 at Paisley Park will coincide with Prince's birth, not death"**](http://www.startribune.com/celebration-2020-at-paisley-park-will-coincide-with-prince-s-birth-not-death/566249302/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 16 December 2019 about 1999 Super Deluxe (album), Alan Seiffert, Celebration, Celebration 2020, contract, Donna Grantis, George Clinton, Graceland, Graceland Holdings, Judith Hill, Justin Timberlake, Liv Warfield, Morris Day, Morris Day & The Time, museum, Nooky Jones, Sometimes It Snows In April (song), Super Bowl, The Revolution ([mirror](https://web.archive.org/web/*/http://www.startribune.com/celebration-2020-at-paisley-park-will-coincide-with-prince-s-birth-not-death/566249302/))
 
 ----
 
@@ -68,7 +72,7 @@
 
 ----
 
- - [**"Don't overlook splashy coffee table books as holiday gifts"**](http://www.startribune.com/don-t-overlook-splashy-coffee-table-books-as-holiday-gifts/565099382/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 November 2019 about Andy Warhol, Celebration, exhibit, exhibition, Hachette Books, museum, Penguin Random House, Randee St. Nicholas, trademark ([mirror](https://web.archive.org/web/*/http://www.startribune.com/don-t-overlook-splashy-coffee-table-books-as-holiday-gifts/565099382/))
+ - [**"Don't overlook splashy coffee table books as holiday gifts"**](http://www.startribune.com/don-t-overlook-splashy-coffee-table-books-as-holiday-gifts/565099382/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 19 November 2019 about Andy Warhol, Celebration, exhibit, exhibition, Hachette Books, museum, Penguin Random House, Randee St. Nicholas, trademark ([mirror](https://web.archive.org/web/*/http://www.startribune.com/don-t-overlook-splashy-coffee-table-books-as-holiday-gifts/565099382/))
 
 ----
 
@@ -96,7 +100,7 @@
 
 ----
 
- - [**"Show-biz veteran named new executive director for Prince's Paisley Park"**](http://www.startribune.com/show-biz-veteran-named-new-executive-director-for-prince-s-paisley-park/561890092/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 1 October 2019 about Alan Seiffert, contract, Graceland, Joel Weinshanker, Midnight Blue Management, MR-ProFun, museum, Mycotoo ([mirror](https://web.archive.org/web/*/http://www.startribune.com/show-biz-veteran-named-new-executive-director-for-prince-s-paisley-park/561890092/))
+ - [**"Show-biz veteran named new executive director for Prince's Paisley Park"**](http://www.startribune.com/show-biz-veteran-named-new-executive-director-for-prince-s-paisley-park/561890092/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 1 October 2019 about Alan Seiffert, contract, Graceland, Joel Weinshanker, Midnight Blue Management, MR-ProFun, museum, Mycotoo ([mirror](https://web.archive.org/web/*/http://www.startribune.com/show-biz-veteran-named-new-executive-director-for-prince-s-paisley-park/561890092/))
 
 ----
 
@@ -132,15 +136,15 @@
 
 ----
 
- - [**"Prince's estate will operate studio complex Paisley Park"**](http://www.startribune.com/prince-s-estate-will-operate-studio-complex-paisley-park/558425072/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 27 August 2019 about Comerica, contract, Graceland, Graceland Holdings, museum, Sharon Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-estate-will-operate-studio-complex-paisley-park/558425072/))
+ - [**"Prince's estate will operate studio complex Paisley Park"**](http://www.startribune.com/prince-s-estate-will-operate-studio-complex-paisley-park/558425072/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 27 August 2019 about Comerica, contract, Graceland, Graceland Holdings, museum, Sharon Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-estate-will-operate-studio-complex-paisley-park/558425072/))
 
 ----
 
- - [**"Prince's estate to assume management of Paisley Park -- Graceland Holdings will no longer run the Chanhassen museum as of Oct. 1."**](http://www.startribune.com/prince-s-estate-to-assume-management-of-paisley-park/558364602/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 August 2019 about Ava DuVernay, Bangles, Comerica, contract, Graceland, Graceland Holdings, Joel Weinshanker, Kirk Johnson, memoir, museum, Netflix, Sharon Nelson, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-estate-to-assume-management-of-paisley-park/558364602/))
+ - [**"Prince's estate to assume management of Paisley Park -- Graceland Holdings will no longer run the Chanhassen museum as of Oct. 1."**](http://www.startribune.com/prince-s-estate-to-assume-management-of-paisley-park/558364602/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 26 August 2019 about Ava DuVernay, Bangles, Comerica, contract, Graceland, Graceland Holdings, Joel Weinshanker, Kirk Johnson, memoir, museum, Netflix, Sharon Nelson, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-estate-to-assume-management-of-paisley-park/558364602/))
 
 ----
 
- - [**"Prince store at MSP gives travelers a glimpse at superstar's Minnesota life -- Terminal shop organized around parts of Minnesota musician's life to lure fans."**](http://www.startribune.com/prince-store-at-msp-gives-travelers-a-glimpse-at-superstar-s-minnesota-life/556690022/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 August 2019 about airport, Bravado, DJ Dudley D, merchandise, Minneapolis-St. Paul International Airport (place), museum, Prince Estate, Super Bowl, The Prince Estate ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-store-at-msp-gives-travelers-a-glimpse-at-superstar-s-minnesota-life/556690022/))
+ - [**"Prince store at MSP gives travelers a glimpse at superstar's Minnesota life -- Terminal shop organized around parts of Minnesota musician's life to lure fans."**](http://www.startribune.com/prince-store-at-msp-gives-travelers-a-glimpse-at-superstar-s-minnesota-life/556690022/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 20 August 2019 about airport, Bravado, DJ Dudley D, merchandise, Minneapolis-St. Paul International Airport (place), museum, Prince Estate, Super Bowl, The Prince Estate ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-store-at-msp-gives-travelers-a-glimpse-at-superstar-s-minnesota-life/556690022/))
 
 ----
 
@@ -172,15 +176,15 @@
 
 ----
 
- - [**"Street names on Prince’s former Chanhassen property allude to the late star -- Street names to honor Prince in development on land once owned by late star"**](http://www.startribune.com/street-names-for-chanhassen-development-on-prince-s-former-property-allude-to-the-late-star/511245822/) by Katy Read in [Minneapolis Star Tribune](http://www.startribune.com/) on 13 June 2019 about Galpin Blvd. (place), museum ([mirror](https://web.archive.org/web/*/http://www.startribune.com/street-names-for-chanhassen-development-on-prince-s-former-property-allude-to-the-late-star/511245822/))
+ - [**"Street names on Prince’s former Chanhassen property allude to the late star -- Street names to honor Prince in development on land once owned by late star"**](http://www.startribune.com/street-names-for-chanhassen-development-on-prince-s-former-property-allude-to-the-late-star/511245822/) by Katy Read in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 13 June 2019 about Galpin Blvd. (place), museum ([mirror](https://web.archive.org/web/*/http://www.startribune.com/street-names-for-chanhassen-development-on-prince-s-former-property-allude-to-the-late-star/511245822/))
 
 ----
 
- - [**"10 things you’ll learn about First Avenue in new Minnesota History Center show -- First Avenue is getting the museum treatment. Here are 10 things you’ll learn about Minnesota’s most fabled nightclub."**](http://www.startribune.com/10-things-you-ll-learn-about-first-avenue-in-new-minnesota-history-center-show/509374312/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 3 May 2019 about David Brewster, Erotic City (song), First Avenue (place), Jehovah’s Witness, Minnesota History Center, museum, Purple Rain (movie), Sam’s (place), Uncle Sam’s (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/10-things-you-ll-learn-about-first-avenue-in-new-minnesota-history-center-show/509374312/))
+ - [**"10 things you’ll learn about First Avenue in new Minnesota History Center show -- First Avenue is getting the museum treatment. Here are 10 things you’ll learn about Minnesota’s most fabled nightclub."**](http://www.startribune.com/10-things-you-ll-learn-about-first-avenue-in-new-minnesota-history-center-show/509374312/) by Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 3 May 2019 about David Brewster, Erotic City (song), First Avenue (place), Jehovah’s Witness, Minnesota History Center, museum, Purple Rain (movie), Sam’s (place), Uncle Sam’s (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/10-things-you-ll-learn-about-first-avenue-in-new-minnesota-history-center-show/509374312/))
 
 ----
 
- - [**"Paisley Park tours draw celebs, including Katy Perry, Bruno Mars and Shania Twain -- Green Day’s frontman brought his family. And Katy Perry made a return visit incognito, just like any other fan."**](http://www.startribune.com/paisley-park-tours-draw-celebs-including-katy-perry-bruno-mars-and-shania-twain/509009942/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 24 April 2019 about Grammy Award, Katy Perry, museum, Rearrange (song), Xcel Energy Center (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-tours-draw-celebs-including-katy-perry-bruno-mars-and-shania-twain/509009942/))
+ - [**"Paisley Park tours draw celebs, including Katy Perry, Bruno Mars and Shania Twain -- Green Day’s frontman brought his family. And Katy Perry made a return visit incognito, just like any other fan."**](http://www.startribune.com/paisley-park-tours-draw-celebs-including-katy-perry-bruno-mars-and-shania-twain/509009942/) by Chris Riemenschneider in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 24 April 2019 about Grammy Award, Katy Perry, museum, Rearrange (song), Xcel Energy Center (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-tours-draw-celebs-including-katy-perry-bruno-mars-and-shania-twain/509009942/))
 
 ----
 
@@ -196,11 +200,11 @@
 
 ----
 
- - [**"Herb Ritts photos of Bowie, Madonna, more to be exhibited"**](http://www.startribune.com/herb-ritts-photos-of-bowie-madonna-more-to-be-exhibited/507913581/) by The Associated Press in [Minneapolis Star Tribune](http://www.startribune.com/) on 31 March 2019 about Herb Ritts, museum ([mirror](https://web.archive.org/web/*/http://www.startribune.com/herb-ritts-photos-of-bowie-madonna-more-to-be-exhibited/507913581/))
+ - [**"Herb Ritts photos of Bowie, Madonna, more to be exhibited"**](http://www.startribune.com/herb-ritts-photos-of-bowie-madonna-more-to-be-exhibited/507913581/) by The Associated Press in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 31 March 2019 about Herb Ritts, museum ([mirror](https://web.archive.org/web/*/http://www.startribune.com/herb-ritts-photos-of-bowie-madonna-more-to-be-exhibited/507913581/))
 
 ----
 
- - [**"Urn with Prince's ashes still in the building, 'just not on display' at Paisley Park"**](http://www.startribune.com/urn-with-prince-s-ashes-still-in-the-building-just-not-on-display-at-paisley-park/507434942/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 March 2019 about museum ([mirror](https://web.archive.org/web/*/http://www.startribune.com/urn-with-prince-s-ashes-still-in-the-building-just-not-on-display-at-paisley-park/507434942/))
+ - [**"Urn with Prince's ashes still in the building, 'just not on display' at Paisley Park"**](http://www.startribune.com/urn-with-prince-s-ashes-still-in-the-building-just-not-on-display-at-paisley-park/507434942/) by Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 20 March 2019 about museum ([mirror](https://web.archive.org/web/*/http://www.startribune.com/urn-with-prince-s-ashes-still-in-the-building-just-not-on-display-at-paisley-park/507434942/))
 
 ----
 
@@ -268,7 +272,7 @@
 
 ----
 
- - [**"For $160, you get to hold Prince's guitar on 3-hour 'Ultimate' Paisley Park tour -- Is the new "Ultimate Experience" at Prince's museum worth $160?"**](http://www.startribune.com/for-160-you-get-to-hold-prince-s-guitar-on-3-hour-ultimate-paisley-park-tour/441644933/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 24 August 2017 about museum ([mirror](https://web.archive.org/web/*/http://www.startribune.com/for-160-you-get-to-hold-prince-s-guitar-on-3-hour-ultimate-paisley-park-tour/441644933/))
+ - [**"For $160, you get to hold Prince's guitar on 3-hour 'Ultimate' Paisley Park tour -- Is the new "Ultimate Experience" at Prince's museum worth $160?"**](http://www.startribune.com/for-160-you-get-to-hold-prince-s-guitar-on-3-hour-ultimate-paisley-park-tour/441644933/) by Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 24 August 2017 about museum ([mirror](https://web.archive.org/web/*/http://www.startribune.com/for-160-you-get-to-hold-prince-s-guitar-on-3-hour-ultimate-paisley-park-tour/441644933/))
 
 ----
 
@@ -292,7 +296,7 @@
 
 ----
 
- - [**"Floodgates are about to open on Prince's career after death -- A year after he died, Prince's lucrative second career is taking off. The industry moguls he despised are calling the shots — and his wishes don't apply."**](http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 April 2017 about Bravado, Bremer Trust, Carver County, Charles Koppelman, Comerica, contract, Graceland, Graceland Holdings, hologram, merchandise, Michael Jackson, museum, Omarr Baker, Spotify, Susan Rogers, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/))
+ - [**"Floodgates are about to open on Prince's career after death -- A year after he died, Prince's lucrative second career is taking off. The industry moguls he despised are calling the shots — and his wishes don't apply."**](http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/) by Chris Riemenschneider in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 18 April 2017 about Bravado, Bremer Trust, Carver County, Charles Koppelman, Comerica, contract, Graceland, Graceland Holdings, hologram, merchandise, Michael Jackson, museum, Omarr Baker, Spotify, Susan Rogers, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/))
 
 ----
 
@@ -300,7 +304,7 @@
 
 ----
 
- - [**"'Rehabilitated' Paisley Park takes center stage for Prince anniversary -- Graceland firm remakes studio into a showplace."**](http://www.startribune.com/rehabilitated-paisley-park-takes-center-stage-for-prince-anniversary/419571163/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 17 April 2017 about Bremer Trust, Celebration, Denny Laufenburger, Graceland, Graceland Holdings, Joel Weinshanker, museum ([mirror](https://web.archive.org/web/*/http://www.startribune.com/rehabilitated-paisley-park-takes-center-stage-for-prince-anniversary/419571163/))
+ - [**"'Rehabilitated' Paisley Park takes center stage for Prince anniversary -- Graceland firm remakes studio into a showplace."**](http://www.startribune.com/rehabilitated-paisley-park-takes-center-stage-for-prince-anniversary/419571163/) by Chris Riemenschneider in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 17 April 2017 about Bremer Trust, Celebration, Denny Laufenburger, Graceland, Graceland Holdings, Joel Weinshanker, museum ([mirror](https://web.archive.org/web/*/http://www.startribune.com/rehabilitated-paisley-park-takes-center-stage-for-prince-anniversary/419571163/))
 
 ----
 
@@ -312,7 +316,7 @@
 
 ----
 
- - [**"Paisley Park museum opens new room dedicated to Prince's 'Lovesexy'"**](http://www.startribune.com/paisley-park-museum-opens-new-room-dedicated-to-prince-s-lovesexy/417745653/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 31 March 2017 about museum ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-museum-opens-new-room-dedicated-to-prince-s-lovesexy/417745653/))
+ - [**"Paisley Park museum opens new room dedicated to Prince's 'Lovesexy'"**](http://www.startribune.com/paisley-park-museum-opens-new-room-dedicated-to-prince-s-lovesexy/417745653/) by Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 31 March 2017 about museum ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-museum-opens-new-room-dedicated-to-prince-s-lovesexy/417745653/))
 
 ----
 
@@ -336,11 +340,11 @@
 
 ----
 
- - [**"Paisley Park museum finally gets go-ahead from Chanhassen -- After weeks of hesitation, Chanhassen signs off on zoning permits."**](http://www.startribune.com/paisley-park-museum-finally-gets-go-ahead-from-chanhassen/398282691/) by Erin Adler in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 October 2016 about museum ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-museum-finally-gets-go-ahead-from-chanhassen/398282691/))
+ - [**"Paisley Park museum finally gets go-ahead from Chanhassen -- After weeks of hesitation, Chanhassen signs off on zoning permits."**](http://www.startribune.com/paisley-park-museum-finally-gets-go-ahead-from-chanhassen/398282691/) by Erin Adler in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 25 October 2016 about museum ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-museum-finally-gets-go-ahead-from-chanhassen/398282691/))
 
 ----
 
- - [**"What should Prince's estate do to keep his music alive? -- The tribute concert is over, and the museum is open. Here's how Prince's family should handle other posthumous projects."**](http://www.startribune.com/what-should-prince-s-estate-do-to-keep-his-music-alive/397828981/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 21 October 2016 about museum ([mirror](https://web.archive.org/web/*/http://www.startribune.com/what-should-prince-s-estate-do-to-keep-his-music-alive/397828981/))
+ - [**"What should Prince's estate do to keep his music alive? -- The tribute concert is over, and the museum is open. Here's how Prince's family should handle other posthumous projects."**](http://www.startribune.com/what-should-prince-s-estate-do-to-keep-his-music-alive/397828981/) by Chris Riemenschneider in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 21 October 2016 about museum ([mirror](https://web.archive.org/web/*/http://www.startribune.com/what-should-prince-s-estate-do-to-keep-his-music-alive/397828981/))
 
 ----
 
@@ -360,11 +364,11 @@
 
 ----
 
- - [**"Paisley Park visitors will see Prince's studio and mementoes"**](http://www.startribune.com/paisley-park-visitors-will-see-prince-s-studio-and-mementoes/396025851/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 October 2016 about Alfred Jackson, Graceland, Graceland Holdings, museum, Norrine Nelson, NPG Music Club (website), Prince Estate, The Prince Estate, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-visitors-will-see-prince-s-studio-and-mementoes/396025851/))
+ - [**"Paisley Park visitors will see Prince's studio and mementoes"**](http://www.startribune.com/paisley-park-visitors-will-see-prince-s-studio-and-mementoes/396025851/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 5 October 2016 about Alfred Jackson, Graceland, Graceland Holdings, museum, Norrine Nelson, NPG Music Club (website), Prince Estate, The Prince Estate, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-visitors-will-see-prince-s-studio-and-mementoes/396025851/))
 
 ----
 
- - [**"Prince-inspired fashions on display at Minneapolis Institute of Art -- The purple pop star inspired this fashionable assemblage in the museum's lobby."**](http://www.startribune.com/prince-inspired-fashions-on-display-at-minneapolis-institute-of-art/396029361/) by Sue Campbell in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 October 2016 about Minneapolis Institute of Art, museum, Toronto ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-inspired-fashions-on-display-at-minneapolis-institute-of-art/396029361/))
+ - [**"Prince-inspired fashions on display at Minneapolis Institute of Art -- The purple pop star inspired this fashionable assemblage in the museum's lobby."**](http://www.startribune.com/prince-inspired-fashions-on-display-at-minneapolis-institute-of-art/396029361/) by Sue Campbell in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 5 October 2016 about Minneapolis Institute of Art, museum, Toronto ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-inspired-fashions-on-display-at-minneapolis-institute-of-art/396029361/))
 
 ----
 
@@ -376,11 +380,11 @@
 
 ----
 
- - [**"Still no will, but work to settle Prince estate forges ahead"**](http://www.startribune.com/still-no-will-but-work-to-settle-prince-estate-forges-ahead/394729181/) by Steve Karnowski (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 September 2016 about Carver County, Morris Day, museum, Prince Estate ([mirror](https://web.archive.org/web/*/http://www.startribune.com/still-no-will-but-work-to-settle-prince-estate-forges-ahead/394729181/))
+ - [**"Still no will, but work to settle Prince estate forges ahead"**](http://www.startribune.com/still-no-will-but-work-to-settle-prince-estate-forges-ahead/394729181/) by Steve Karnowski (Associated Press) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 25 September 2016 about Carver County, Morris Day, museum, Prince Estate ([mirror](https://web.archive.org/web/*/http://www.startribune.com/still-no-will-but-work-to-settle-prince-estate-forges-ahead/394729181/))
 
 ----
 
- - [**"Princely jobs available: Paisley Park holds job fair this week -- New museum opens Oct. 6 in Chanhassen."**](http://www.startribune.com/princely-jobs-available-paisley-park-holds-job-fair-this-week/392460791/) by Liz Sawyer in [Minneapolis Star Tribune](http://www.startribune.com/) on 6 September 2016 about museum ([mirror](https://web.archive.org/web/*/http://www.startribune.com/princely-jobs-available-paisley-park-holds-job-fair-this-week/392460791/))
+ - [**"Princely jobs available: Paisley Park holds job fair this week -- New museum opens Oct. 6 in Chanhassen."**](http://www.startribune.com/princely-jobs-available-paisley-park-holds-job-fair-this-week/392460791/) by Liz Sawyer in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 6 September 2016 about museum ([mirror](https://web.archive.org/web/*/http://www.startribune.com/princely-jobs-available-paisley-park-holds-job-fair-this-week/392460791/))
 
 ----
 
@@ -392,7 +396,7 @@
 
 ----
 
- - [**"Prince Online Museum goes live"**](http://www.startribune.com/prince-online-museum-goes-live/385492131/) by Serge F. Kovaleski (The New York Times) in [Minneapolis Star Tribune](http://www.startribune.com/) on 4 July 2016 about museum, Prince Online Museum (website) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-online-museum-goes-live/385492131/))
+ - [**"Prince Online Museum goes live"**](http://www.startribune.com/prince-online-museum-goes-live/385492131/) by Serge F. Kovaleski (The New York Times) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 4 July 2016 about museum, Prince Online Museum (website) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-online-museum-goes-live/385492131/))
 
 ----
 
@@ -404,7 +408,7 @@
 
 ----
 
- - [**"A Prince wish, Paisley Park eyed for museum like Graceland"**](http://www.startribune.com/a-prince-wish-paisley-park-eyed-for-museum-like-graceland/382529341/) by Steve Karnowski (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 June 2016 about Bremer Trust, Carver County, exhibit, exhibition, fentanyl, fentanyl overdose, Graceland, Jeremiah Freed, Michael Jackson, motorcycle, museum ([mirror](https://web.archive.org/web/*/http://www.startribune.com/a-prince-wish-paisley-park-eyed-for-museum-like-graceland/382529341/))
+ - [**"A Prince wish, Paisley Park eyed for museum like Graceland"**](http://www.startribune.com/a-prince-wish-paisley-park-eyed-for-museum-like-graceland/382529341/) by Steve Karnowski (Associated Press) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 10 June 2016 about Bremer Trust, Carver County, exhibit, exhibition, fentanyl, fentanyl overdose, Graceland, Jeremiah Freed, Michael Jackson, motorcycle, museum ([mirror](https://web.archive.org/web/*/http://www.startribune.com/a-prince-wish-paisley-park-eyed-for-museum-like-graceland/382529341/))
 
 ----
 
@@ -428,11 +432,11 @@
 
 ----
 
- - [**"C.J.: Prince's memoir will be a beauty if he gives his take on my questions"**](http://www.startribune.com/c-j-prince-s-memoir-will-be-a-beauty-if-he-gives-his-take-on-my-questions/373295271/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 23 March 2016 about C.J., Carver County, memoir, museum, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-prince-s-memoir-will-be-a-beauty-if-he-gives-his-take-on-my-questions/373295271/))
+ - [**"C.J.: Prince's memoir will be a beauty if he gives his take on my questions"**](http://www.startribune.com/c-j-prince-s-memoir-will-be-a-beauty-if-he-gives-his-take-on-my-questions/373295271/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 23 March 2016 about C.J., Carver County, memoir, museum, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-prince-s-memoir-will-be-a-beauty-if-he-gives-his-take-on-my-questions/373295271/))
 
 ----
 
- - [**"13,000 at writers conference having best, versed of times in Minneapolis"**](http://www.startribune.com/13-000-at-writers-conference-having-best-versed-of-times/299262081/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 April 2015 about airport, exhibition, First Avenue (place), museum, Patricia Smith ([mirror](https://web.archive.org/web/*/http://www.startribune.com/13-000-at-writers-conference-having-best-versed-of-times/299262081/))
+ - [**"13,000 at writers conference having best, versed of times in Minneapolis"**](http://www.startribune.com/13-000-at-writers-conference-having-best-versed-of-times/299262081/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 10 April 2015 about airport, exhibition, First Avenue (place), museum, Patricia Smith ([mirror](https://web.archive.org/web/*/http://www.startribune.com/13-000-at-writers-conference-having-best-versed-of-times/299262081/))
 
 ----
 

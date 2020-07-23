@@ -1,5 +1,9 @@
 # Super Bowl
 
+ - [**"Paisley Park gets a reboot: You can take cellphone pics, and even drink, too -- Four years after Prince's death, his Chanhassen studio has come alive again under a new director who's even allowing cellphones and alcohol."**](http://www.startribune.com/paisley-park-gets-a-reboot-you-can-take-cellphone-pics-and-even-drink-too/568554622/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 7 March 2020 about 1999 Super Deluxe (album), Alan Seiffert, Andrea Bruce, Angela Aycock, Beck, Celebration, Comerica, Comerica Trust, exhibit, Graceland Holdings, Joel Weinshanker, Justin Timberlake, Kirk Johnson, Lovesexy (tour), Meshell Ndegeocello, Mitch Maguire, museum, Super Bowl, Trevor Guy, Twin Cities (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-gets-a-reboot-you-can-take-cellphone-pics-and-even-drink-too/568554622/))
+
+----
+
  - [**"Sports Gumbo Recipe #8: Prince and Pelicans and Protest Bowls"**](https://www.myneworleans.com/sports-gumbo-recipe-8-prince-and-pelicans-and-protest-bowls/) in [www.myneworleans.com](https://www.myneworleans.com/) on 3 February 2020 about Purple Rain (song), Super Bowl, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/https://www.myneworleans.com/sports-gumbo-recipe-8-prince-and-pelicans-and-protest-bowls/))
 
 ----
@@ -52,7 +56,7 @@
 
 ----
 
- - [**"Celebration 2020 at Paisley Park will coincide with Prince's birth, not death"**](http://www.startribune.com/celebration-2020-at-paisley-park-will-coincide-with-prince-s-birth-not-death/566249302/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 16 December 2019 about 1999 Super Deluxe (album), Alan Seiffert, Celebration, Celebration 2020, contract, Donna Grantis, George Clinton, Graceland, Graceland Holdings, Judith Hill, Justin Timberlake, Liv Warfield, Morris Day, Morris Day & The Time, museum, Nooky Jones, Sometimes It Snows In April (song), Super Bowl, The Revolution ([mirror](https://web.archive.org/web/*/http://www.startribune.com/celebration-2020-at-paisley-park-will-coincide-with-prince-s-birth-not-death/566249302/))
+ - [**"Celebration 2020 at Paisley Park will coincide with Prince's birth, not death"**](http://www.startribune.com/celebration-2020-at-paisley-park-will-coincide-with-prince-s-birth-not-death/566249302/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 16 December 2019 about 1999 Super Deluxe (album), Alan Seiffert, Celebration, Celebration 2020, contract, Donna Grantis, George Clinton, Graceland, Graceland Holdings, Judith Hill, Justin Timberlake, Liv Warfield, Morris Day, Morris Day & The Time, museum, Nooky Jones, Sometimes It Snows In April (song), Super Bowl, The Revolution ([mirror](https://web.archive.org/web/*/http://www.startribune.com/celebration-2020-at-paisley-park-will-coincide-with-prince-s-birth-not-death/566249302/))
 
 ----
 
@@ -76,7 +80,7 @@
 
 ----
 
- - [**"Like Prince, his new memoir 'The Beautiful Ones' can't be pigeonholed -- Filled with ephemera, photos and philosophy, "The Beautiful Ones" is incomplete yet revealing. "**](http://www.startribune.com/like-prince-his-new-memoir-the-beautiful-ones-can-t-be-pigeonholed/563845812/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 October 2019 about Dan Piepenbring, fentanyl, fentanyl overdose, John L. Nelson, memoir, Super Bowl, The Beautiful Ones (book), vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/like-prince-his-new-memoir-the-beautiful-ones-can-t-be-pigeonholed/563845812/))
+ - [**"Like Prince, his new memoir 'The Beautiful Ones' can't be pigeonholed -- Filled with ephemera, photos and philosophy, "The Beautiful Ones" is incomplete yet revealing. "**](http://www.startribune.com/like-prince-his-new-memoir-the-beautiful-ones-can-t-be-pigeonholed/563845812/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 26 October 2019 about Dan Piepenbring, fentanyl, fentanyl overdose, John L. Nelson, memoir, Super Bowl, The Beautiful Ones (book), vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/like-prince-his-new-memoir-the-beautiful-ones-can-t-be-pigeonholed/563845812/))
 
 ----
 
@@ -84,11 +88,11 @@
 
 ----
 
- - [**"Prince store at MSP gives travelers a glimpse at superstar's Minnesota life -- Terminal shop organized around parts of Minnesota musician's life to lure fans."**](http://www.startribune.com/prince-store-at-msp-gives-travelers-a-glimpse-at-superstar-s-minnesota-life/556690022/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 August 2019 about airport, Bravado, DJ Dudley D, merchandise, Minneapolis-St. Paul International Airport (place), museum, Prince Estate, Super Bowl, The Prince Estate ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-store-at-msp-gives-travelers-a-glimpse-at-superstar-s-minnesota-life/556690022/))
+ - [**"Prince store at MSP gives travelers a glimpse at superstar's Minnesota life -- Terminal shop organized around parts of Minnesota musician's life to lure fans."**](http://www.startribune.com/prince-store-at-msp-gives-travelers-a-glimpse-at-superstar-s-minnesota-life/556690022/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 20 August 2019 about airport, Bravado, DJ Dudley D, merchandise, Minneapolis-St. Paul International Airport (place), museum, Prince Estate, Super Bowl, The Prince Estate ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-store-at-msp-gives-travelers-a-glimpse-at-superstar-s-minnesota-life/556690022/))
 
 ----
 
- - [**"Rapper Cardi B delivered a sharp but too-short show, with plenty of wisecracks -- The Bronx native became the first female rapper to fill a local arena at Target Center, and her performance convincingly showed why."**](http://www.startribune.com/rapper-cardi-b-s-short-minneapolis-set-still-a-big-deal-on-several-fronts/513303462/) by Nicole Neri in [Minneapolis Star Tribune](http://www.startribune.com/) on 27 July 2019 about I Would Die 4 U (song), Lizzo, Super Bowl ([mirror](https://web.archive.org/web/*/http://www.startribune.com/rapper-cardi-b-s-short-minneapolis-set-still-a-big-deal-on-several-fronts/513303462/))
+ - [**"Rapper Cardi B delivered a sharp but too-short show, with plenty of wisecracks -- The Bronx native became the first female rapper to fill a local arena at Target Center, and her performance convincingly showed why."**](http://www.startribune.com/rapper-cardi-b-s-short-minneapolis-set-still-a-big-deal-on-several-fronts/513303462/) by Nicole Neri in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 27 July 2019 about I Would Die 4 U (song), Lizzo, Super Bowl ([mirror](https://web.archive.org/web/*/http://www.startribune.com/rapper-cardi-b-s-short-minneapolis-set-still-a-big-deal-on-several-fronts/513303462/))
 
 ----
 
@@ -132,7 +136,7 @@
 
 ----
 
- - [**"Super-sized Prince party rocks Nicollet Mall -- Three acts closely associated with the Minnesota rock legend — none of whom had played together since his 2016 death — showed their singular dedication by performing his songs outside in single-digit temperatures for the Super Bowl Live concert series."**](http://www.startribune.com/super-sized-prince-party-rocks-nicollet-mall/471712573/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 29 January 2018 about Super Bowl ([mirror](https://web.archive.org/web/*/http://www.startribune.com/super-sized-prince-party-rocks-nicollet-mall/471712573/))
+ - [**"Super-sized Prince party rocks Nicollet Mall -- Three acts closely associated with the Minnesota rock legend — none of whom had played together since his 2016 death — showed their singular dedication by performing his songs outside in single-digit temperatures for the Super Bowl Live concert series."**](http://www.startribune.com/super-sized-prince-party-rocks-nicollet-mall/471712573/) by Chris Riemenschneider in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 29 January 2018 about Super Bowl ([mirror](https://web.archive.org/web/*/http://www.startribune.com/super-sized-prince-party-rocks-nicollet-mall/471712573/))
 
 ----
 
@@ -168,7 +172,7 @@
 
 ----
 
- - [**"Coldplay pulls for the color purple at U.S. Bank Stadium -- The British band put on a colorful spectacle with shout-outs to the Vikings and Prince at U.S. Bank Stadium."**](http://www.startribune.com/coldplay-pulls-for-the-color-purple-at-u-s-bank-stadium/440125493/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 13 August 2017 about First Avenue (place), London (place), Super Bowl ([mirror](https://web.archive.org/web/*/http://www.startribune.com/coldplay-pulls-for-the-color-purple-at-u-s-bank-stadium/440125493/))
+ - [**"Coldplay pulls for the color purple at U.S. Bank Stadium -- The British band put on a colorful spectacle with shout-outs to the Vikings and Prince at U.S. Bank Stadium."**](http://www.startribune.com/coldplay-pulls-for-the-color-purple-at-u-s-bank-stadium/440125493/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 13 August 2017 about First Avenue (place), London (place), Super Bowl ([mirror](https://web.archive.org/web/*/http://www.startribune.com/coldplay-pulls-for-the-color-purple-at-u-s-bank-stadium/440125493/))
 
 ----
 
@@ -200,7 +204,7 @@
 
 ----
 
- - [**"Obituary: Prince was a diminutive giant who revolutionized pop -- Though he was a puzzle at times, the rocker was a true Minnesotan who changed music more than once in a nearly 40-year career."**](http://www.startribune.com/jon-bream-prince-was-a-once-in-a-generation-artist-who-never-rested-on-his-laurels/376594221/) by Chris Riemenschneider, Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 April 2016 about André Cymone, First Avenue (place), Grammy Award, John Nelson, Let’s Go Crazy (song), Little Red Corvette (song), Mayte, Mayte Garcia, Obama, Super Bowl, Super Bowl XLI (event), Tyka Nelson, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/jon-bream-prince-was-a-once-in-a-generation-artist-who-never-rested-on-his-laurels/376594221/))
+ - [**"Obituary: Prince was a diminutive giant who revolutionized pop -- Though he was a puzzle at times, the rocker was a true Minnesotan who changed music more than once in a nearly 40-year career."**](http://www.startribune.com/jon-bream-prince-was-a-once-in-a-generation-artist-who-never-rested-on-his-laurels/376594221/) by Chris Riemenschneider, Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 22 April 2016 about André Cymone, First Avenue (place), Grammy Award, John Nelson, Let’s Go Crazy (song), Little Red Corvette (song), Mayte, Mayte Garcia, Obama, Super Bowl, Super Bowl XLI (event), Tyka Nelson, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/jon-bream-prince-was-a-once-in-a-generation-artist-who-never-rested-on-his-laurels/376594221/))
 
 ----
 
@@ -228,7 +232,7 @@
 
 ----
 
- - [**"YouTube 'dancing baby' video with Prince music births a legal battle that won't go away"**](http://www.startribune.com/youtube-dancing-baby-video-births-a-legal-battle-that-won-t-go-away/367109661/) by James Eli Shiffer in [Minneapolis Star Tribune](http://www.startribune.com/) on 30 January 2016 about Super Bowl, YouTube ([mirror](https://web.archive.org/web/*/http://www.startribune.com/youtube-dancing-baby-video-births-a-legal-battle-that-won-t-go-away/367109661/))
+ - [**"YouTube 'dancing baby' video with Prince music births a legal battle that won't go away"**](http://www.startribune.com/youtube-dancing-baby-video-births-a-legal-battle-that-won-t-go-away/367109661/) by James Eli Shiffer in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 30 January 2016 about Super Bowl, YouTube ([mirror](https://web.archive.org/web/*/http://www.startribune.com/youtube-dancing-baby-video-births-a-legal-battle-that-won-t-go-away/367109661/))
 
 ----
 

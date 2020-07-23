@@ -80,7 +80,7 @@
 
 ----
 
- - [**"Foundation of Prince's second wife to honor him at gala"**](http://www.startribune.com/foundation-of-prince-s-second-wife-to-honor-him-at-gala/506568702/) by Leanne Italie (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 1 March 2019 about Apollonia Kotero, Chaka Khan, In a Perfect World, Manuela Testolini ([mirror](https://web.archive.org/web/*/http://www.startribune.com/foundation-of-prince-s-second-wife-to-honor-him-at-gala/506568702/))
+ - [**"Foundation of Prince's second wife to honor him at gala"**](http://www.startribune.com/foundation-of-prince-s-second-wife-to-honor-him-at-gala/506568702/) by Leanne Italie (Associated Press) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 1 March 2019 about Apollonia Kotero, Chaka Khan, In a Perfect World, Manuela Testolini ([mirror](https://web.archive.org/web/*/http://www.startribune.com/foundation-of-prince-s-second-wife-to-honor-him-at-gala/506568702/))
 
 ----
 
@@ -120,7 +120,7 @@
 
 ----
 
- - [**"10 curious things we learned about Prince from the investigations -- He liked Häagen-Dazs ice cream, 5-Hour Energy drinks and MAC beauty products."**](http://www.startribune.com/10-curious-things-we-learned-about-prince-from-the-investigations/480364723/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 April 2018 about airport, Atlanta (place), Carver County, CeeLo Green, Chaka Khan, Esperanza Spalding, Illinois (place), Janelle Monae, Judith Hill, Kirk Johnson, Larry Graham, North Memorial Medical Center (place), Peter Vang, Phaedra Ellis Lamkin, Rita Ora, Sheila E., U Got the Look (song), vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/10-curious-things-we-learned-about-prince-from-the-investigations/480364723/))
+ - [**"10 curious things we learned about Prince from the investigations -- He liked Häagen-Dazs ice cream, 5-Hour Energy drinks and MAC beauty products."**](http://www.startribune.com/10-curious-things-we-learned-about-prince-from-the-investigations/480364723/) by Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 20 April 2018 about airport, Atlanta (place), Carver County, CeeLo Green, Chaka Khan, Esperanza Spalding, Illinois (place), Janelle Monae, Judith Hill, Kirk Johnson, Larry Graham, North Memorial Medical Center (place), Peter Vang, Phaedra Ellis Lamkin, Rita Ora, Sheila E., U Got the Look (song), vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/10-curious-things-we-learned-about-prince-from-the-investigations/480364723/))
 
 ----
 
@@ -164,7 +164,7 @@
 
 ----
 
- - [**"Chaka Khan and sister enter rehab over prescription drugs"**](http://www.startribune.com/chaka-khan-and-sister-enter-rehab-over-prescription-drugs/386205921/) by Nekesa Mumbi Moody (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 July 2016 about Chaka Khan ([mirror](https://web.archive.org/web/*/http://www.startribune.com/chaka-khan-and-sister-enter-rehab-over-prescription-drugs/386205921/))
+ - [**"Chaka Khan and sister enter rehab over prescription drugs"**](http://www.startribune.com/chaka-khan-and-sister-enter-rehab-over-prescription-drugs/386205921/) by Nekesa Mumbi Moody (Associated Press) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 10 July 2016 about Chaka Khan ([mirror](https://web.archive.org/web/*/http://www.startribune.com/chaka-khan-and-sister-enter-rehab-over-prescription-drugs/386205921/))
 
 ----
 
@@ -180,7 +180,7 @@
 
 ----
 
- - [**"Sheila E.: Saying goodbye to Prince 'the hardest thing I've ever had to do' -- Sheila E., longtime friend, said she never knew Prince to take drugs."**](http://www.startribune.com/sheila-e-saying-goodbye-to-prince-the-hardest-thing-i-ve-ever-had-to-do/376906621/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 April 2016 about Celebration, Chaka Khan, Kirk Johnson, Larry Graham, Let’s Go Crazy (song), Lionel Richie, Omarr Baker, Sheila E., TMZ (website), Tyka Nelson, WCCO-TV ([mirror](https://web.archive.org/web/*/http://www.startribune.com/sheila-e-saying-goodbye-to-prince-the-hardest-thing-i-ve-ever-had-to-do/376906621/))
+ - [**"Sheila E.: Saying goodbye to Prince 'the hardest thing I've ever had to do' -- Sheila E., longtime friend, said she never knew Prince to take drugs."**](http://www.startribune.com/sheila-e-saying-goodbye-to-prince-the-hardest-thing-i-ve-ever-had-to-do/376906621/) by Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 25 April 2016 about Celebration, Chaka Khan, Kirk Johnson, Larry Graham, Let’s Go Crazy (song), Lionel Richie, Omarr Baker, Sheila E., TMZ (website), Tyka Nelson, WCCO-TV ([mirror](https://web.archive.org/web/*/http://www.startribune.com/sheila-e-saying-goodbye-to-prince-the-hardest-thing-i-ve-ever-had-to-do/376906621/))
 
 ----
 
@@ -192,7 +192,7 @@
 
 ----
 
- - [**"Hornheads jazz group creates unique sound -- The five-piece a cappella horn section records and plays all over the globe."**](http://www.startribune.com/hornheads-jazz-group-creates-unique-sound/302567351/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 May 2015 about Chaka Khan, Dave Jensen, Everything Blows (album), Hornheads, Jimmy Jam, Kathy Jensen, Kenni Holmen, Michael Nelson, New Power Generation, Steve Strand, Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/hornheads-jazz-group-creates-unique-sound/302567351/))
+ - [**"Hornheads jazz group creates unique sound -- The five-piece a cappella horn section records and plays all over the globe."**](http://www.startribune.com/hornheads-jazz-group-creates-unique-sound/302567351/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 5 May 2015 about Chaka Khan, Dave Jensen, Everything Blows (album), Hornheads, Jimmy Jam, Kathy Jensen, Kenni Holmen, Michael Nelson, New Power Generation, Steve Strand, Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/hornheads-jazz-group-creates-unique-sound/302567351/))
 
 ----
 

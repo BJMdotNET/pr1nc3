@@ -1,10 +1,26 @@
 # Prince Estate
 
+ - [**"The Prince Estate Drops Unreleased Track 'I Could Never Take the Place of Your Man (1979 Version)'"**](https://www.billboard.com/articles/columns/pop/9419861/prince-unreleased-track-i-could-never-take-the-place-of-your-man-1979-version) in [Billboard](https://www.billboard.com/) on 16 July 2020 about I Could Never Take The Place Of Your Man (song), Prince Estate, Sign O' The Times (album), The Prince Estate, vault ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/columns/pop/9419861/prince-unreleased-track-i-could-never-take-the-place-of-your-man-1979-version))
+
+----
+
+ - [**"With TikTok, music fans can now legally lip sync to all of Prince's songs"**](https://www.startribune.com/with-tiktok-music-fans-can-now-legally-lip-sync-to-all-of-prince-s-songs/571529892/) in [Minneapolis Star Tribune](https://www.startribune.com/) on 28 June 2020 about Let’s Go Crazy (song), Lizzo, Prince Estate, Spotify, The Prince Estate, TikTok, Troy Carter, YouTube ([mirror](https://web.archive.org/web/*/https://www.startribune.com/with-tiktok-music-fans-can-now-legally-lip-sync-to-all-of-prince-s-songs/571529892/))
+
+----
+
+ - [**"TikTok App Adds Prince’s Entire Music Catalog"**](https://variety.com/2020/digital/news/tiktok-princes-music-catalog-1234691489/) in [Variety](https://variety.com/) on 26 June 2020 about 1999 (album), 1999 (song), Controversy (album), Controversy (song), Let’s Go Crazy (song), Mitch Maguire, Prince Estate, Purple Rain (album), Purple Rain (song), The Prince Estate, TikTok, Troy Carter ([mirror](https://web.archive.org/web/*/https://variety.com/2020/digital/news/tiktok-princes-music-catalog-1234691489/))
+
+----
+
+ - [**"Prince's epic 'Sign o' the Times' to get super deluxe reissue on Sept. 25"**](https://www.startribune.com/prince-s-epic-sign-o-the-times-to-get-super-deluxe-reissue-on-sept-25/571488832/) in [Minneapolis Star Tribune](https://www.startribune.com/) on 25 June 2020 about Dave Chappelle, Housequake (song), Jeff Katz, Lenny Kravitz, Love and Sex (song), Miles Davis, Prince Estate, Sign O' The Times (album), Starfish And Coffee (song), The Prince Estate, U Got the Look (song), vault ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-s-epic-sign-o-the-times-to-get-super-deluxe-reissue-on-sept-25/571488832/))
+
+----
+
  - [**"Prince estate fight gets even thornier with heir's death and will"**](https://www.bizjournals.com/twincities/news/2020/02/23/prince-estate-fight-gets-even-thornier-with-heirs.html) in [Minneapolis / St. Paul Business Journal](https://www.bizjournals.com/twincities/) on 23 February 2020 about Alfred Jackson, hologram, Michael Jackson, museum, Paisley Park Studios (place), Primary Wave, Prince Estate, Raffles Van Exel, Tyka Nelson, Whitney Houston ([mirror](https://web.archive.org/web/*/https://www.bizjournals.com/twincities/news/2020/02/23/prince-estate-fight-gets-even-thornier-with-heirs.html))
 
 ----
 
- - [**"Death of Prince heir complicates estate settlement even more -- Nearly a third of Prince's estate could go to parties not related to him after two siblings signed agreements with Primary Wave."**](http://www.startribune.com/untimely-death-of-prince-heir-complicates-estate-settlement-even-more/568089142/) by Jon Bream, Mike Hughlett in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 February 2020 about Alfred Jackson, Carver County, Comerica, Dennis Patrick, fentanyl, fentanyl overdose, Fredrikson & Byron, hologram, John Nelson, L. Londell McMillan, Lawrence Mestel, Leonardo Starke, Michael Jackson, Mitchell Hamline Law Review, O.J. Simpson, Primary Wave, Prince Estate, probate court, Raffles Van Exel, Shawn Jackson, The Prince Estate, Troy Carter, Tyka Nelson, Whitney Houston, Xcel Energy Center (place), YouTube ([mirror](https://web.archive.org/web/*/http://www.startribune.com/untimely-death-of-prince-heir-complicates-estate-settlement-even-more/568089142/))
+ - [**"Death of Prince heir complicates estate settlement even more -- Nearly a third of Prince's estate could go to parties not related to him after two siblings signed agreements with Primary Wave."**](http://www.startribune.com/untimely-death-of-prince-heir-complicates-estate-settlement-even-more/568089142/) by Jon Bream, Mike Hughlett in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 22 February 2020 about Alfred Jackson, Carver County, Comerica, Dennis Patrick, fentanyl, fentanyl overdose, Fredrikson & Byron, hologram, John Nelson, L. Londell McMillan, Lawrence Mestel, Leonardo Starke, Michael Jackson, Mitchell Hamline Law Review, O.J. Simpson, Primary Wave, Prince Estate, probate court, Raffles Van Exel, Shawn Jackson, The Prince Estate, Troy Carter, Tyka Nelson, Whitney Houston, Xcel Energy Center (place), YouTube ([mirror](https://web.archive.org/web/*/http://www.startribune.com/untimely-death-of-prince-heir-complicates-estate-settlement-even-more/568089142/))
 
 ----
 
@@ -32,7 +48,7 @@
 
 ----
 
- - [**"Prince's estate quietly dismisses wrongful-death claims -- Legal settlements likely in wrongful-death suits. "**](http://www.startribune.com/prince-wrongful-death-claims-dismissed/567141982/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 January 2020 about Atlanta (place), Carver County, Carver County District Court, Cecilie M. Loidolt, fentanyl, Illinois (place), John Goetz, Kirk Johnson, Michael Schulenberg, North Memorial Health Care, Paul C. Peterson, Percocet, Prince Estate, probate court, Recovery Without Walls, Rodger Hagen, The Prince Estate, Trinity Medical Center (place), Walgreens ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-wrongful-death-claims-dismissed/567141982/))
+ - [**"Prince's estate quietly dismisses wrongful-death claims -- Legal settlements likely in wrongful-death suits. "**](http://www.startribune.com/prince-wrongful-death-claims-dismissed/567141982/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 20 January 2020 about Atlanta (place), Carver County, Carver County District Court, Cecilie M. Loidolt, fentanyl, Illinois (place), John Goetz, Kirk Johnson, Michael Schulenberg, North Memorial Health Care, Paul C. Peterson, Percocet, Prince Estate, probate court, Recovery Without Walls, Rodger Hagen, The Prince Estate, Trinity Medical Center (place), Walgreens ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-wrongful-death-claims-dismissed/567141982/))
 
 ----
 
@@ -132,7 +148,7 @@
 
 ----
 
- - [**"Prince estate: Trump violated promise not to play 'Purple Rain' -- The campaign played the song at the president's Target Center appearance after it promised a year ago to stop playing Prince's music at rallies, the estate said. "**](http://www.startribune.com/prince-estate-says-playing-purple-rain-at-trump-rally-was-unauthorized/562782832/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 11 October 2019 about Donald Trump, First Avenue (place), Prince Estate, Purple Rain (song), The Prince Estate, Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-estate-says-playing-purple-rain-at-trump-rally-was-unauthorized/562782832/))
+ - [**"Prince estate: Trump violated promise not to play 'Purple Rain' -- The campaign played the song at the president's Target Center appearance after it promised a year ago to stop playing Prince's music at rallies, the estate said. "**](http://www.startribune.com/prince-estate-says-playing-purple-rain-at-trump-rally-was-unauthorized/562782832/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 11 October 2019 about Donald Trump, First Avenue (place), Prince Estate, Purple Rain (song), The Prince Estate, Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-estate-says-playing-purple-rain-at-trump-rally-was-unauthorized/562782832/))
 
 ----
 
@@ -228,7 +244,7 @@
 
 ----
 
- - [**"Prince store at MSP gives travelers a glimpse at superstar's Minnesota life -- Terminal shop organized around parts of Minnesota musician's life to lure fans."**](http://www.startribune.com/prince-store-at-msp-gives-travelers-a-glimpse-at-superstar-s-minnesota-life/556690022/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 August 2019 about airport, Bravado, DJ Dudley D, merchandise, Minneapolis-St. Paul International Airport (place), museum, Prince Estate, Super Bowl, The Prince Estate ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-store-at-msp-gives-travelers-a-glimpse-at-superstar-s-minnesota-life/556690022/))
+ - [**"Prince store at MSP gives travelers a glimpse at superstar's Minnesota life -- Terminal shop organized around parts of Minnesota musician's life to lure fans."**](http://www.startribune.com/prince-store-at-msp-gives-travelers-a-glimpse-at-superstar-s-minnesota-life/556690022/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 20 August 2019 about airport, Bravado, DJ Dudley D, merchandise, Minneapolis-St. Paul International Airport (place), museum, Prince Estate, Super Bowl, The Prince Estate ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-store-at-msp-gives-travelers-a-glimpse-at-superstar-s-minnesota-life/556690022/))
 
 ----
 
@@ -268,7 +284,7 @@
 
 ----
 
- - [**"New Prince store at MSP airport reels in fandom"**](http://www.startribune.com/new-prince-store-at-msp-airport-reels-in-fandom/511212802/) by Jackie Crosby in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 June 2019 about airport, Bravado, merchandise, Minneapolis-St. Paul International Airport (place), Prince Estate, The Prince Estate ([mirror](https://web.archive.org/web/*/http://www.startribune.com/new-prince-store-at-msp-airport-reels-in-fandom/511212802/))
+ - [**"New Prince store at MSP airport reels in fandom"**](http://www.startribune.com/new-prince-store-at-msp-airport-reels-in-fandom/511212802/) by Jackie Crosby in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 12 June 2019 about airport, Bravado, merchandise, Minneapolis-St. Paul International Airport (place), Prince Estate, The Prince Estate ([mirror](https://web.archive.org/web/*/http://www.startribune.com/new-prince-store-at-msp-airport-reels-in-fandom/511212802/))
 
 ----
 
@@ -284,7 +300,7 @@
 
 ----
 
- - [**"Coming soon from the Prince vault: A new album called ‘Originals’ -- Prince’s estate is announcing the collection of his performances of songs he wrote for others."**](http://www.startribune.com/coming-soon-from-the-prince-vault-a-new-album-called-originals/509009862/) by Chris Riemenschneider, Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 April 2019 about Ani DiFranco, Apple Music, Bangles, Dan Piepenbring, First Avenue (place), Kenny Rogers, Larry Graham, Little Red Corvette (song), Manic Monday (song), Martika, Morris Day, Morris Day & The Time, Netflix, Nothing Compares 2 U (song), Originals (album), Prince Estate, Random House , Rave In2 the Joy Fantastic (album), Rave Un2 the Joy Fantastic (album), Rave Un2 the Year 2000 (video), Sex Shooter (song), The Beautiful Ones (book), The Family, The Glamorous Life (song), The Prince Estate, The Time, Ultimate Rave (album), Vanity 6, vault, Wendy Melvoin ([mirror](https://web.archive.org/web/*/http://www.startribune.com/coming-soon-from-the-prince-vault-a-new-album-called-originals/509009862/))
+ - [**"Coming soon from the Prince vault: A new album called ‘Originals’ -- Prince’s estate is announcing the collection of his performances of songs he wrote for others."**](http://www.startribune.com/coming-soon-from-the-prince-vault-a-new-album-called-originals/509009862/) by Chris Riemenschneider, Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 25 April 2019 about Ani DiFranco, Apple Music, Bangles, Dan Piepenbring, First Avenue (place), Kenny Rogers, Larry Graham, Little Red Corvette (song), Manic Monday (song), Martika, Morris Day, Morris Day & The Time, Netflix, Nothing Compares 2 U (song), Originals (album), Prince Estate, Random House , Rave In2 the Joy Fantastic (album), Rave Un2 the Joy Fantastic (album), Rave Un2 the Year 2000 (video), Sex Shooter (song), The Beautiful Ones (book), The Family, The Glamorous Life (song), The Prince Estate, The Time, Ultimate Rave (album), Vanity 6, vault, Wendy Melvoin ([mirror](https://web.archive.org/web/*/http://www.startribune.com/coming-soon-from-the-prince-vault-a-new-album-called-originals/509009862/))
 
 ----
 
@@ -332,7 +348,7 @@
 
 ----
 
- - [**"Prince estate issues rare (and goofy!) music videos from the '90s with Sony"**](http://www.startribune.com/prince-estate-issues-rare-and-goofy-music-videos-from-the-90s-with-sony/499690051/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 November 2018 about Prince Estate ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-estate-issues-rare-and-goofy-music-videos-from-the-90s-with-sony/499690051/))
+ - [**"Prince estate issues rare (and goofy!) music videos from the '90s with Sony"**](http://www.startribune.com/prince-estate-issues-rare-and-goofy-music-videos-from-the-90s-with-sony/499690051/) by Chris Riemenschneider in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 5 November 2018 about Prince Estate ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-estate-issues-rare-and-goofy-music-videos-from-the-90s-with-sony/499690051/))
 
 ----
 
@@ -360,7 +376,7 @@
 
 ----
 
- - [**"Prince estate to Trump: Stop using music at rallies"**](http://www.startribune.com/prince-estate-to-trump-stop-using-music-at-rallies/497248101/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 October 2018 about Prince Estate, Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-estate-to-trump-stop-using-music-at-rallies/497248101/))
+ - [**"Prince estate to Trump: Stop using music at rallies"**](http://www.startribune.com/prince-estate-to-trump-stop-using-music-at-rallies/497248101/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 12 October 2018 about Prince Estate, Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-estate-to-trump-stop-using-music-at-rallies/497248101/))
 
 ----
 
@@ -372,7 +388,7 @@
 
 ----
 
- - [**"Prince estate sues 'brazen bootlegger,' others selling CDs of his last show, trove of other music -- Suit seeks many millions in compensation; sales over internet have been going on since 2016, the year Prince died."**](http://www.startribune.com/prince-estate-sues-brazen-bootlegger-others-selling-cds-of-his-last-show-trove-of-other-music/492422931/) by Paul Walsh in [Minneapolis Star Tribune](http://www.startribune.com/) on 4 September 2018 about bootleg, Prince Estate ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-estate-sues-brazen-bootlegger-others-selling-cds-of-his-last-show-trove-of-other-music/492422931/))
+ - [**"Prince estate sues 'brazen bootlegger,' others selling CDs of his last show, trove of other music -- Suit seeks many millions in compensation; sales over internet have been going on since 2016, the year Prince died."**](http://www.startribune.com/prince-estate-sues-brazen-bootlegger-others-selling-cds-of-his-last-show-trove-of-other-music/492422931/) by Paul Walsh in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 4 September 2018 about bootleg, Prince Estate ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-estate-sues-brazen-bootlegger-others-selling-cds-of-his-last-show-trove-of-other-music/492422931/))
 
 ----
 
@@ -416,21 +432,21 @@
 
 ----
 
- - [**"Prince estate alleges Roc Nation used a fraudulent contract to stream the artist's songs"**](http://www.startribune.com/prince-estate-alleges-roc-nation-used-a-fraudulent-contract-to-stream-the-artist-s-songs/456728283/) by David Chanen in [Minneapolis Star Tribune](http://www.startribune.com/) on 11 November 2017 about contract, Prince Estate ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-estate-alleges-roc-nation-used-a-fraudulent-contract-to-stream-the-artist-s-songs/456728283/))
+ - [**"Prince estate alleges Roc Nation used a fraudulent contract to stream the artist's songs"**](http://www.startribune.com/prince-estate-alleges-roc-nation-used-a-fraudulent-contract-to-stream-the-artist-s-songs/456728283/) by David Chanen in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 11 November 2017 about contract, Prince Estate ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-estate-alleges-roc-nation-used-a-fraudulent-contract-to-stream-the-artist-s-songs/456728283/))
 
 ----
 
  - [**"
                                             Minnesota judge cancels Universal deal with Prince estate
-                                    "**](http://www.startribune.com/minnesota-judge-cancels-universal-deal-with-prince-estate/434374993/) by Jeff Baenen (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 14 July 2017 about Prince Estate ([mirror](https://web.archive.org/web/*/http://www.startribune.com/minnesota-judge-cancels-universal-deal-with-prince-estate/434374993/))
+                                    "**](http://www.startribune.com/minnesota-judge-cancels-universal-deal-with-prince-estate/434374993/) by Jeff Baenen (Associated Press) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 14 July 2017 about Prince Estate ([mirror](https://web.archive.org/web/*/http://www.startribune.com/minnesota-judge-cancels-universal-deal-with-prince-estate/434374993/))
 
 ----
 
- - [**"Universal presses bid to void music deal with Prince estate"**](http://www.startribune.com/universal-presses-bid-to-void-music-deal-with-prince-estate/431156123/) by Steve Karnowski (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 27 June 2017 about Prince Estate ([mirror](https://web.archive.org/web/*/http://www.startribune.com/universal-presses-bid-to-void-music-deal-with-prince-estate/431156123/))
+ - [**"Universal presses bid to void music deal with Prince estate"**](http://www.startribune.com/universal-presses-bid-to-void-music-deal-with-prince-estate/431156123/) by Steve Karnowski (Associated Press) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 27 June 2017 about Prince Estate ([mirror](https://web.archive.org/web/*/http://www.startribune.com/universal-presses-bid-to-void-music-deal-with-prince-estate/431156123/))
 
 ----
 
- - [**"Battle over Prince estate plays on -- Move would start clock ticking on when others can still make claims."**](http://www.startribune.com/battle-over-prince-estate-plays-on/421893663/) by David Chanen in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 May 2017 about Prince Estate ([mirror](https://web.archive.org/web/*/http://www.startribune.com/battle-over-prince-estate-plays-on/421893663/))
+ - [**"Battle over Prince estate plays on -- Move would start clock ticking on when others can still make claims."**](http://www.startribune.com/battle-over-prince-estate-plays-on/421893663/) by David Chanen in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 10 May 2017 about Prince Estate ([mirror](https://web.archive.org/web/*/http://www.startribune.com/battle-over-prince-estate-plays-on/421893663/))
 
 ----
 
@@ -462,7 +478,7 @@
 
 ----
 
- - [**"Special administrator: Not all law firms seeking $1.2 million in payment benefited Prince estate -- Special administrator's filing says that some assets squandered by legal teams."**](http://www.startribune.com/special-administrator-not-all-law-firms-seeking-1-2-million-in-payment-benefitted-prince-estate/410134635/) by Rochelle Olson in [Minneapolis Star Tribune](http://www.startribune.com/) on 9 January 2017 about Prince Estate ([mirror](https://web.archive.org/web/*/http://www.startribune.com/special-administrator-not-all-law-firms-seeking-1-2-million-in-payment-benefitted-prince-estate/410134635/))
+ - [**"Special administrator: Not all law firms seeking $1.2 million in payment benefited Prince estate -- Special administrator's filing says that some assets squandered by legal teams."**](http://www.startribune.com/special-administrator-not-all-law-firms-seeking-1-2-million-in-payment-benefitted-prince-estate/410134635/) by Rochelle Olson in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 9 January 2017 about Prince Estate ([mirror](https://web.archive.org/web/*/http://www.startribune.com/special-administrator-not-all-law-firms-seeking-1-2-million-in-payment-benefitted-prince-estate/410134635/))
 
 ----
 
@@ -474,7 +490,7 @@
 
 ----
 
- - [**"Paisley Park visitors will see Prince's studio and mementoes"**](http://www.startribune.com/paisley-park-visitors-will-see-prince-s-studio-and-mementoes/396025851/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 October 2016 about Alfred Jackson, Graceland, Graceland Holdings, museum, Norrine Nelson, NPG Music Club (website), Prince Estate, The Prince Estate, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-visitors-will-see-prince-s-studio-and-mementoes/396025851/))
+ - [**"Paisley Park visitors will see Prince's studio and mementoes"**](http://www.startribune.com/paisley-park-visitors-will-see-prince-s-studio-and-mementoes/396025851/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 5 October 2016 about Alfred Jackson, Graceland, Graceland Holdings, museum, Norrine Nelson, NPG Music Club (website), Prince Estate, The Prince Estate, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-visitors-will-see-prince-s-studio-and-mementoes/396025851/))
 
 ----
 
@@ -486,15 +502,15 @@
 
 ----
 
- - [**"Still no will, but work to settle Prince estate forges ahead"**](http://www.startribune.com/still-no-will-but-work-to-settle-prince-estate-forges-ahead/394729181/) by Steve Karnowski (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 September 2016 about Carver County, Morris Day, museum, Prince Estate ([mirror](https://web.archive.org/web/*/http://www.startribune.com/still-no-will-but-work-to-settle-prince-estate-forges-ahead/394729181/))
+ - [**"Still no will, but work to settle Prince estate forges ahead"**](http://www.startribune.com/still-no-will-but-work-to-settle-prince-estate-forges-ahead/394729181/) by Steve Karnowski (Associated Press) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 25 September 2016 about Carver County, Morris Day, museum, Prince Estate ([mirror](https://web.archive.org/web/*/http://www.startribune.com/still-no-will-but-work-to-settle-prince-estate-forges-ahead/394729181/))
 
 ----
 
- - [**"Judge sets date for closed hearing in Prince estate case"**](http://www.startribune.com/judge-sets-date-for-closed-hearing-in-prince-estate-case/394446251/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 September 2016 about Prince Estate ([mirror](https://web.archive.org/web/*/http://www.startribune.com/judge-sets-date-for-closed-hearing-in-prince-estate-case/394446251/))
+ - [**"Judge sets date for closed hearing in Prince estate case"**](http://www.startribune.com/judge-sets-date-for-closed-hearing-in-prince-estate-case/394446251/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 22 September 2016 about Prince Estate ([mirror](https://web.archive.org/web/*/http://www.startribune.com/judge-sets-date-for-closed-hearing-in-prince-estate-case/394446251/))
 
 ----
 
- - [**"Would-be heirs raise constitutional challenge over Prince estate -- Attorneys say the protocol for these would-be heirs is unconstitutional."**](http://www.startribune.com/constitutional-challenge-raised-in-prince-estate/392918011/) by Dan Browning in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 September 2016 about Prince Estate ([mirror](https://web.archive.org/web/*/http://www.startribune.com/constitutional-challenge-raised-in-prince-estate/392918011/))
+ - [**"Would-be heirs raise constitutional challenge over Prince estate -- Attorneys say the protocol for these would-be heirs is unconstitutional."**](http://www.startribune.com/constitutional-challenge-raised-in-prince-estate/392918011/) by Dan Browning in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 10 September 2016 about Prince Estate ([mirror](https://web.archive.org/web/*/http://www.startribune.com/constitutional-challenge-raised-in-prince-estate/392918011/))
 
 ----
 
@@ -510,7 +526,7 @@
 
 ----
 
- - [**"Who's family? Sibling question at heart of Prince estate case -- Genetic testing to settle issue of whether Prince and his half-brother Duane shared a father."**](http://www.startribune.com/who-s-family-sibling-question-at-heart-of-prince-estate-case/389316281/) by Dan Browning, Emma Nelson in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 August 2016 about Prince Estate ([mirror](https://web.archive.org/web/*/http://www.startribune.com/who-s-family-sibling-question-at-heart-of-prince-estate-case/389316281/))
+ - [**"Who's family? Sibling question at heart of Prince estate case -- Genetic testing to settle issue of whether Prince and his half-brother Duane shared a father."**](http://www.startribune.com/who-s-family-sibling-question-at-heart-of-prince-estate-case/389316281/) by Dan Browning, Emma Nelson in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 5 August 2016 about Prince Estate ([mirror](https://web.archive.org/web/*/http://www.startribune.com/who-s-family-sibling-question-at-heart-of-prince-estate-case/389316281/))
 
 ----
 
@@ -530,7 +546,7 @@
 
 ----
 
- - [**"Judge won't hear media request at Prince estate hearing"**](http://www.startribune.com/judge-won-t-hear-media-request-at-prince-estate-hearing/384399061/) by Amy Forliti (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 June 2016 about Carver County, fentanyl, Kevin Eide, Prince Estate, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/judge-won-t-hear-media-request-at-prince-estate-hearing/384399061/))
+ - [**"Judge won't hear media request at Prince estate hearing"**](http://www.startribune.com/judge-won-t-hear-media-request-at-prince-estate-hearing/384399061/) by Amy Forliti (Associated Press) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 25 June 2016 about Carver County, fentanyl, Kevin Eide, Prince Estate, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/judge-won-t-hear-media-request-at-prince-estate-hearing/384399061/))
 
 ----
 
@@ -546,7 +562,7 @@
 
 ----
 
- - [**"Judge confirms appointment of special administrator on Prince's estate -- Siblings say they're "all on the same page" even as a new alleged heir emerges."**](http://www.startribune.com/court-hearing-today-in-carver-county-on-prince-estate/377780821/) by Emma Nelson in [Minneapolis Star Tribune](http://www.startribune.com/) on 2 May 2016 about Alfred Jackson, Bremer Trust, Carver County, John Nelson, Kevin Eide, Norrine Nelson, Omarr Baker, Prince Estate, Sharon Nelson, The Prince Estate, Tyka Nelson, Van Jones ([mirror](https://web.archive.org/web/*/http://www.startribune.com/court-hearing-today-in-carver-county-on-prince-estate/377780821/))
+ - [**"Judge confirms appointment of special administrator on Prince's estate -- Siblings say they're "all on the same page" even as a new alleged heir emerges."**](http://www.startribune.com/court-hearing-today-in-carver-county-on-prince-estate/377780821/) by Emma Nelson in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 2 May 2016 about Alfred Jackson, Bremer Trust, Carver County, John Nelson, Kevin Eide, Norrine Nelson, Omarr Baker, Prince Estate, Sharon Nelson, The Prince Estate, Tyka Nelson, Van Jones ([mirror](https://web.archive.org/web/*/http://www.startribune.com/court-hearing-today-in-carver-county-on-prince-estate/377780821/))
 
 ----
 

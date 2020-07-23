@@ -8,11 +8,11 @@
 
 ----
 
- - [**"In a Twin Cities living room, the Steeles cook up their 35th annual Christmas show -- The Steeles' annual Christmas show is a family affair, brewed up in a Golden Valley living room. "**](http://www.startribune.com/in-a-twin-cities-living-room-the-steeles-cook-up-their-35th-annual-christmas-show/566344542/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 December 2019 about Alexander O’Neal, contract, Janet Jackson, Justin Timberlake, Kenni Holmen, Sonny Thompson, Tommy Barbarella ([mirror](https://web.archive.org/web/*/http://www.startribune.com/in-a-twin-cities-living-room-the-steeles-cook-up-their-35th-annual-christmas-show/566344542/))
+ - [**"In a Twin Cities living room, the Steeles cook up their 35th annual Christmas show -- The Steeles' annual Christmas show is a family affair, brewed up in a Golden Valley living room. "**](http://www.startribune.com/in-a-twin-cities-living-room-the-steeles-cook-up-their-35th-annual-christmas-show/566344542/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 19 December 2019 about Alexander O’Neal, contract, Janet Jackson, Justin Timberlake, Kenni Holmen, Sonny Thompson, Tommy Barbarella ([mirror](https://web.archive.org/web/*/http://www.startribune.com/in-a-twin-cities-living-room-the-steeles-cook-up-their-35th-annual-christmas-show/566344542/))
 
 ----
 
- - [**"Celebration 2020 at Paisley Park will coincide with Prince's birth, not death"**](http://www.startribune.com/celebration-2020-at-paisley-park-will-coincide-with-prince-s-birth-not-death/566249302/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 16 December 2019 about 1999 Super Deluxe (album), Alan Seiffert, Celebration, Celebration 2020, contract, Donna Grantis, George Clinton, Graceland, Graceland Holdings, Judith Hill, Justin Timberlake, Liv Warfield, Morris Day, Morris Day & The Time, museum, Nooky Jones, Sometimes It Snows In April (song), Super Bowl, The Revolution ([mirror](https://web.archive.org/web/*/http://www.startribune.com/celebration-2020-at-paisley-park-will-coincide-with-prince-s-birth-not-death/566249302/))
+ - [**"Celebration 2020 at Paisley Park will coincide with Prince's birth, not death"**](http://www.startribune.com/celebration-2020-at-paisley-park-will-coincide-with-prince-s-birth-not-death/566249302/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 16 December 2019 about 1999 Super Deluxe (album), Alan Seiffert, Celebration, Celebration 2020, contract, Donna Grantis, George Clinton, Graceland, Graceland Holdings, Judith Hill, Justin Timberlake, Liv Warfield, Morris Day, Morris Day & The Time, museum, Nooky Jones, Sometimes It Snows In April (song), Super Bowl, The Revolution ([mirror](https://web.archive.org/web/*/http://www.startribune.com/celebration-2020-at-paisley-park-will-coincide-with-prince-s-birth-not-death/566249302/))
 
 ----
 
@@ -48,7 +48,7 @@
 
 ----
 
- - [**"In their brief time together, Prince made co-author believe he could do the 'impossible' -- He'd never written a book before. But Dan Piepenbring carried on after Prince's death. "**](http://www.startribune.com/in-their-brief-time-together-prince-made-co-author-believe-he-could-do-the-impossible/563845862/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 October 2019 about contract, Dan Piepenbring, memoir, Spiegel & Grau, The Beautiful Ones (book), vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/in-their-brief-time-together-prince-made-co-author-believe-he-could-do-the-impossible/563845862/))
+ - [**"In their brief time together, Prince made co-author believe he could do the 'impossible' -- He'd never written a book before. But Dan Piepenbring carried on after Prince's death. "**](http://www.startribune.com/in-their-brief-time-together-prince-made-co-author-believe-he-could-do-the-impossible/563845862/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 26 October 2019 about contract, Dan Piepenbring, memoir, Spiegel & Grau, The Beautiful Ones (book), vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/in-their-brief-time-together-prince-made-co-author-believe-he-could-do-the-impossible/563845862/))
 
 ----
 
@@ -56,7 +56,7 @@
 
 ----
 
- - [**"Show-biz veteran named new executive director for Prince's Paisley Park"**](http://www.startribune.com/show-biz-veteran-named-new-executive-director-for-prince-s-paisley-park/561890092/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 1 October 2019 about Alan Seiffert, contract, Graceland, Joel Weinshanker, Midnight Blue Management, MR-ProFun, museum, Mycotoo ([mirror](https://web.archive.org/web/*/http://www.startribune.com/show-biz-veteran-named-new-executive-director-for-prince-s-paisley-park/561890092/))
+ - [**"Show-biz veteran named new executive director for Prince's Paisley Park"**](http://www.startribune.com/show-biz-veteran-named-new-executive-director-for-prince-s-paisley-park/561890092/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 1 October 2019 about Alan Seiffert, contract, Graceland, Joel Weinshanker, Midnight Blue Management, MR-ProFun, museum, Mycotoo ([mirror](https://web.archive.org/web/*/http://www.startribune.com/show-biz-veteran-named-new-executive-director-for-prince-s-paisley-park/561890092/))
 
 ----
 
@@ -96,11 +96,11 @@
 
 ----
 
- - [**"Prince's estate will operate studio complex Paisley Park"**](http://www.startribune.com/prince-s-estate-will-operate-studio-complex-paisley-park/558425072/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 27 August 2019 about Comerica, contract, Graceland, Graceland Holdings, museum, Sharon Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-estate-will-operate-studio-complex-paisley-park/558425072/))
+ - [**"Prince's estate will operate studio complex Paisley Park"**](http://www.startribune.com/prince-s-estate-will-operate-studio-complex-paisley-park/558425072/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 27 August 2019 about Comerica, contract, Graceland, Graceland Holdings, museum, Sharon Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-estate-will-operate-studio-complex-paisley-park/558425072/))
 
 ----
 
- - [**"Prince's estate to assume management of Paisley Park -- Graceland Holdings will no longer run the Chanhassen museum as of Oct. 1."**](http://www.startribune.com/prince-s-estate-to-assume-management-of-paisley-park/558364602/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 August 2019 about Ava DuVernay, Bangles, Comerica, contract, Graceland, Graceland Holdings, Joel Weinshanker, Kirk Johnson, memoir, museum, Netflix, Sharon Nelson, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-estate-to-assume-management-of-paisley-park/558364602/))
+ - [**"Prince's estate to assume management of Paisley Park -- Graceland Holdings will no longer run the Chanhassen museum as of Oct. 1."**](http://www.startribune.com/prince-s-estate-to-assume-management-of-paisley-park/558364602/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 26 August 2019 about Ava DuVernay, Bangles, Comerica, contract, Graceland, Graceland Holdings, Joel Weinshanker, Kirk Johnson, memoir, museum, Netflix, Sharon Nelson, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-estate-to-assume-management-of-paisley-park/558364602/))
 
 ----
 
@@ -164,7 +164,7 @@
 
 ----
 
- - [**"Prince estate alleges Roc Nation used a fraudulent contract to stream the artist's songs"**](http://www.startribune.com/prince-estate-alleges-roc-nation-used-a-fraudulent-contract-to-stream-the-artist-s-songs/456728283/) by David Chanen in [Minneapolis Star Tribune](http://www.startribune.com/) on 11 November 2017 about contract, Prince Estate ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-estate-alleges-roc-nation-used-a-fraudulent-contract-to-stream-the-artist-s-songs/456728283/))
+ - [**"Prince estate alleges Roc Nation used a fraudulent contract to stream the artist's songs"**](http://www.startribune.com/prince-estate-alleges-roc-nation-used-a-fraudulent-contract-to-stream-the-artist-s-songs/456728283/) by David Chanen in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 11 November 2017 about contract, Prince Estate ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-estate-alleges-roc-nation-used-a-fraudulent-contract-to-stream-the-artist-s-songs/456728283/))
 
 ----
 
@@ -180,7 +180,7 @@
 
 ----
 
- - [**"Floodgates are about to open on Prince's career after death -- A year after he died, Prince's lucrative second career is taking off. The industry moguls he despised are calling the shots — and his wishes don't apply."**](http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 April 2017 about Bravado, Bremer Trust, Carver County, Charles Koppelman, Comerica, contract, Graceland, Graceland Holdings, hologram, merchandise, Michael Jackson, museum, Omarr Baker, Spotify, Susan Rogers, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/))
+ - [**"Floodgates are about to open on Prince's career after death -- A year after he died, Prince's lucrative second career is taking off. The industry moguls he despised are calling the shots — and his wishes don't apply."**](http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/) by Chris Riemenschneider in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 18 April 2017 about Bravado, Bremer Trust, Carver County, Charles Koppelman, Comerica, contract, Graceland, Graceland Holdings, hologram, merchandise, Michael Jackson, museum, Omarr Baker, Spotify, Susan Rogers, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/))
 
 ----
 
@@ -216,7 +216,7 @@
 
 ----
 
- - [**"Key Prince career executives retained for estate management"**](http://www.startribune.com/key-prince-career-executives-retained-for-estate-management/383370091/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 17 June 2016 about Bremer Trust, Charles Koppelman, contract, fentanyl, L. Londell McMilllan ([mirror](https://web.archive.org/web/*/http://www.startribune.com/key-prince-career-executives-retained-for-estate-management/383370091/))
+ - [**"Key Prince career executives retained for estate management"**](http://www.startribune.com/key-prince-career-executives-retained-for-estate-management/383370091/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 17 June 2016 about Bremer Trust, Charles Koppelman, contract, fentanyl, L. Londell McMilllan ([mirror](https://web.archive.org/web/*/http://www.startribune.com/key-prince-career-executives-retained-for-estate-management/383370091/))
 
 ----
 
@@ -224,7 +224,7 @@
 
 ----
 
- - [**"Effort to lock down publicity rights for Prince heirs encounters controversy at Capitol -- Proposal for publicity rights is scaled back after debate on First Amendment."**](http://www.startribune.com/effort-to-lock-down-publicity-rights-for-prince-heirs-encounters-controversy-at-capitol/379884991/) by Patrick Condon in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 May 2016 about Bremer Trust, contract, exhibition ([mirror](https://web.archive.org/web/*/http://www.startribune.com/effort-to-lock-down-publicity-rights-for-prince-heirs-encounters-controversy-at-capitol/379884991/))
+ - [**"Effort to lock down publicity rights for Prince heirs encounters controversy at Capitol -- Proposal for publicity rights is scaled back after debate on First Amendment."**](http://www.startribune.com/effort-to-lock-down-publicity-rights-for-prince-heirs-encounters-controversy-at-capitol/379884991/) by Patrick Condon in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 18 May 2016 about Bremer Trust, contract, exhibition ([mirror](https://web.archive.org/web/*/http://www.startribune.com/effort-to-lock-down-publicity-rights-for-prince-heirs-encounters-controversy-at-capitol/379884991/))
 
 ----
 
@@ -236,11 +236,11 @@
 
 ----
 
- - [**"Mixed Blood is forced by Prince's estate to cancel gala at Paisley Park"**](http://www.startribune.com/mixed-blood-is-forced-by-prince-s-estate-to-cancel-gala-at-paisley-park/378494185/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 7 May 2016 about Bremer Trust, contract, Mixed Blood ([mirror](https://web.archive.org/web/*/http://www.startribune.com/mixed-blood-is-forced-by-prince-s-estate-to-cancel-gala-at-paisley-park/378494185/))
+ - [**"Mixed Blood is forced by Prince's estate to cancel gala at Paisley Park"**](http://www.startribune.com/mixed-blood-is-forced-by-prince-s-estate-to-cancel-gala-at-paisley-park/378494185/) by Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 7 May 2016 about Bremer Trust, contract, Mixed Blood ([mirror](https://web.archive.org/web/*/http://www.startribune.com/mixed-blood-is-forced-by-prince-s-estate-to-cancel-gala-at-paisley-park/378494185/))
 
 ----
 
- - [**"Paisley Park event cancellation distresses Mixed Blood ticket holders -- Court-appointed trustee is enforcing a ban on events at Prince's estate."**](http://www.startribune.com/paisley-park-event-cancellation-distresses-mixed-blood-ticket-holders/378527695/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 7 May 2016 about Bremer Trust, contract, Mixed Blood ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-event-cancellation-distresses-mixed-blood-ticket-holders/378527695/))
+ - [**"Paisley Park event cancellation distresses Mixed Blood ticket holders -- Court-appointed trustee is enforcing a ban on events at Prince's estate."**](http://www.startribune.com/paisley-park-event-cancellation-distresses-mixed-blood-ticket-holders/378527695/) by Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 7 May 2016 about Bremer Trust, contract, Mixed Blood ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-event-cancellation-distresses-mixed-blood-ticket-holders/378527695/))
 
 ----
 
@@ -312,7 +312,7 @@
 
 ----
 
- - [**"Margaret's time: Singer Cox finally puts together first solo CD"**](http://www.startribune.com/stories/919/3798852.html) in [Minneapolis Star Tribune](http://www.startribune.com/) on 6 April 2003 about 1-800-NEW-FUNK (album), A&M Records, Bunkers (place), contract, Dr. Mambo's Combo, Everybody Dance (song), Jesse Johnson, Legendary Combo, Lipps, Inc., M.C. Flash, Margaret Cox, Margie Cox, Margie's Little Demo (album), Michael Bland, Paula Abdul, Standing at the Altar (song), TaMara, TaMara & the Seen ([mirror](https://web.archive.org/web/*/http://www.startribune.com/stories/919/3798852.html))
+ - [**"Margaret's time: Singer Cox finally puts together first solo CD"**](http://www.startribune.com/stories/919/3798852.html) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 6 April 2003 about 1-800-NEW-FUNK (album), A&M Records, Bunkers (place), contract, Dr. Mambo's Combo, Everybody Dance (song), Jesse Johnson, Legendary Combo, Lipps, Inc., M.C. Flash, Margaret Cox, Margie Cox, Margie's Little Demo (album), Michael Bland, Paula Abdul, Standing at the Altar (song), TaMara, TaMara & the Seen ([mirror](https://web.archive.org/web/*/http://www.startribune.com/stories/919/3798852.html))
 
 ----
 

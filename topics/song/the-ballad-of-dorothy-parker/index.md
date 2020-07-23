@@ -8,7 +8,7 @@
 
 ----
 
- - [**"Prince co-author details 'extremely unlikely' story behind new memoir in New Yorker article"**](http://www.startribune.com/prince-co-author-details-extremely-unlikely-story-behind-new-memoir-in-new-yorker-article/559478242/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 September 2019 about Atlanta (place), Chanhassen Cinema, Country Inn & Suites (place), Dan Piepenbring, John Nelson, memoir, Miles Davis, Random House , Raspberry Beret (song), Spiegel & Grau, The Ballad Of Dorothy Parker (song), The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-co-author-details-extremely-unlikely-story-behind-new-memoir-in-new-yorker-article/559478242/))
+ - [**"Prince co-author details 'extremely unlikely' story behind new memoir in New Yorker article"**](http://www.startribune.com/prince-co-author-details-extremely-unlikely-story-behind-new-memoir-in-new-yorker-article/559478242/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 5 September 2019 about Atlanta (place), Chanhassen Cinema, Country Inn & Suites (place), Dan Piepenbring, John Nelson, memoir, Miles Davis, Random House , Raspberry Beret (song), Spiegel & Grau, The Ballad Of Dorothy Parker (song), The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-co-author-details-extremely-unlikely-story-behind-new-memoir-in-new-yorker-article/559478242/))
 
 ----
 

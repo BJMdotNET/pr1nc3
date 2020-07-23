@@ -1,6 +1,6 @@
 # Xcel Energy Center (place)
 
- - [**"Death of Prince heir complicates estate settlement even more -- Nearly a third of Prince's estate could go to parties not related to him after two siblings signed agreements with Primary Wave."**](http://www.startribune.com/untimely-death-of-prince-heir-complicates-estate-settlement-even-more/568089142/) by Jon Bream, Mike Hughlett in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 February 2020 about Alfred Jackson, Carver County, Comerica, Dennis Patrick, fentanyl, fentanyl overdose, Fredrikson & Byron, hologram, John Nelson, L. Londell McMillan, Lawrence Mestel, Leonardo Starke, Michael Jackson, Mitchell Hamline Law Review, O.J. Simpson, Primary Wave, Prince Estate, probate court, Raffles Van Exel, Shawn Jackson, The Prince Estate, Troy Carter, Tyka Nelson, Whitney Houston, Xcel Energy Center (place), YouTube ([mirror](https://web.archive.org/web/*/http://www.startribune.com/untimely-death-of-prince-heir-complicates-estate-settlement-even-more/568089142/))
+ - [**"Death of Prince heir complicates estate settlement even more -- Nearly a third of Prince's estate could go to parties not related to him after two siblings signed agreements with Primary Wave."**](http://www.startribune.com/untimely-death-of-prince-heir-complicates-estate-settlement-even-more/568089142/) by Jon Bream, Mike Hughlett in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 22 February 2020 about Alfred Jackson, Carver County, Comerica, Dennis Patrick, fentanyl, fentanyl overdose, Fredrikson & Byron, hologram, John Nelson, L. Londell McMillan, Lawrence Mestel, Leonardo Starke, Michael Jackson, Mitchell Hamline Law Review, O.J. Simpson, Primary Wave, Prince Estate, probate court, Raffles Van Exel, Shawn Jackson, The Prince Estate, Troy Carter, Tyka Nelson, Whitney Houston, Xcel Energy Center (place), YouTube ([mirror](https://web.archive.org/web/*/http://www.startribune.com/untimely-death-of-prince-heir-complicates-estate-settlement-even-more/568089142/))
 
 ----
 
@@ -8,11 +8,11 @@
 
 ----
 
- - [**"Twin Cities rockers Hairball go viral after singer's hair catches fire mid-song"**](http://www.startribune.com/twin-cities-rockers-hairball-go-viral-after-singer-s-hair-catches-fire-mid-song/567974442/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 February 2020 about Detroit (place), Xcel Energy Center (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/twin-cities-rockers-hairball-go-viral-after-singer-s-hair-catches-fire-mid-song/567974442/))
+ - [**"Twin Cities rockers Hairball go viral after singer's hair catches fire mid-song"**](http://www.startribune.com/twin-cities-rockers-hairball-go-viral-after-singer-s-hair-catches-fire-mid-song/567974442/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 18 February 2020 about Detroit (place), Xcel Energy Center (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/twin-cities-rockers-hairball-go-viral-after-singer-s-hair-catches-fire-mid-song/567974442/))
 
 ----
 
- - [**"6 cool things in music this week including Neil Peart, Billie Eilish, Paisley Park Cinema and Keith Richards"**](http://www.startribune.com/6-cool-things-in-music-this-week-including-neil-peart-billie-eilish-paisley-park-cinema-and-keith-richards/567079992/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 17 January 2020 about Amazing Grace (movie), Aretha Franklin, Jon Bream, Richard Pryor, Wattstax (movie), Xcel Energy Center (place), YouTube ([mirror](https://web.archive.org/web/*/http://www.startribune.com/6-cool-things-in-music-this-week-including-neil-peart-billie-eilish-paisley-park-cinema-and-keith-richards/567079992/))
+ - [**"6 cool things in music this week including Neil Peart, Billie Eilish, Paisley Park Cinema and Keith Richards"**](http://www.startribune.com/6-cool-things-in-music-this-week-including-neil-peart-billie-eilish-paisley-park-cinema-and-keith-richards/567079992/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 17 January 2020 about Amazing Grace (movie), Aretha Franklin, Jon Bream, Richard Pryor, Wattstax (movie), Xcel Energy Center (place), YouTube ([mirror](https://web.archive.org/web/*/http://www.startribune.com/6-cool-things-in-music-this-week-including-neil-peart-billie-eilish-paisley-park-cinema-and-keith-richards/567079992/))
 
 ----
 
@@ -24,7 +24,7 @@
 
 ----
 
- - [**"Paisley Park tours draw celebs, including Katy Perry, Bruno Mars and Shania Twain -- Green Day’s frontman brought his family. And Katy Perry made a return visit incognito, just like any other fan."**](http://www.startribune.com/paisley-park-tours-draw-celebs-including-katy-perry-bruno-mars-and-shania-twain/509009942/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 24 April 2019 about Grammy Award, Katy Perry, museum, Rearrange (song), Xcel Energy Center (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-tours-draw-celebs-including-katy-perry-bruno-mars-and-shania-twain/509009942/))
+ - [**"Paisley Park tours draw celebs, including Katy Perry, Bruno Mars and Shania Twain -- Green Day’s frontman brought his family. And Katy Perry made a return visit incognito, just like any other fan."**](http://www.startribune.com/paisley-park-tours-draw-celebs-including-katy-perry-bruno-mars-and-shania-twain/509009942/) by Chris Riemenschneider in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 24 April 2019 about Grammy Award, Katy Perry, museum, Rearrange (song), Xcel Energy Center (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-tours-draw-celebs-including-katy-perry-bruno-mars-and-shania-twain/509009942/))
 
 ----
 
@@ -68,7 +68,7 @@
 
 ----
 
- - [**"Boy George dishes on Prince and promises 'gorgeousness' at Twin Cities show -- Boy George speaks his mind, chatting about Prince, Trump and Culture Club's Twin Cities concert this weekend."**](http://www.startribune.com/boy-george-dishes-on-prince-and-promises-gorgeousness-at-twin-cities-show/387819481/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 July 2016 about Donald Trump, First Avenue (place), London (place), The Revolution, Trump, Xcel Energy Center (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/boy-george-dishes-on-prince-and-promises-gorgeousness-at-twin-cities-show/387819481/))
+ - [**"Boy George dishes on Prince and promises 'gorgeousness' at Twin Cities show -- Boy George speaks his mind, chatting about Prince, Trump and Culture Club's Twin Cities concert this weekend."**](http://www.startribune.com/boy-george-dishes-on-prince-and-promises-gorgeousness-at-twin-cities-show/387819481/) by Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 22 July 2016 about Donald Trump, First Avenue (place), London (place), The Revolution, Trump, Xcel Energy Center (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/boy-george-dishes-on-prince-and-promises-gorgeousness-at-twin-cities-show/387819481/))
 
 ----
 

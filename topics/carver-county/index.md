@@ -1,10 +1,10 @@
 # Carver County
 
- - [**"Death of Prince heir complicates estate settlement even more -- Nearly a third of Prince's estate could go to parties not related to him after two siblings signed agreements with Primary Wave."**](http://www.startribune.com/untimely-death-of-prince-heir-complicates-estate-settlement-even-more/568089142/) by Jon Bream, Mike Hughlett in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 February 2020 about Alfred Jackson, Carver County, Comerica, Dennis Patrick, fentanyl, fentanyl overdose, Fredrikson & Byron, hologram, John Nelson, L. Londell McMillan, Lawrence Mestel, Leonardo Starke, Michael Jackson, Mitchell Hamline Law Review, O.J. Simpson, Primary Wave, Prince Estate, probate court, Raffles Van Exel, Shawn Jackson, The Prince Estate, Troy Carter, Tyka Nelson, Whitney Houston, Xcel Energy Center (place), YouTube ([mirror](https://web.archive.org/web/*/http://www.startribune.com/untimely-death-of-prince-heir-complicates-estate-settlement-even-more/568089142/))
+ - [**"Death of Prince heir complicates estate settlement even more -- Nearly a third of Prince's estate could go to parties not related to him after two siblings signed agreements with Primary Wave."**](http://www.startribune.com/untimely-death-of-prince-heir-complicates-estate-settlement-even-more/568089142/) by Jon Bream, Mike Hughlett in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 22 February 2020 about Alfred Jackson, Carver County, Comerica, Dennis Patrick, fentanyl, fentanyl overdose, Fredrikson & Byron, hologram, John Nelson, L. Londell McMillan, Lawrence Mestel, Leonardo Starke, Michael Jackson, Mitchell Hamline Law Review, O.J. Simpson, Primary Wave, Prince Estate, probate court, Raffles Van Exel, Shawn Jackson, The Prince Estate, Troy Carter, Tyka Nelson, Whitney Houston, Xcel Energy Center (place), YouTube ([mirror](https://web.archive.org/web/*/http://www.startribune.com/untimely-death-of-prince-heir-complicates-estate-settlement-even-more/568089142/))
 
 ----
 
- - [**"Prince's estate quietly dismisses wrongful-death claims -- Legal settlements likely in wrongful-death suits. "**](http://www.startribune.com/prince-wrongful-death-claims-dismissed/567141982/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 January 2020 about Atlanta (place), Carver County, Carver County District Court, Cecilie M. Loidolt, fentanyl, Illinois (place), John Goetz, Kirk Johnson, Michael Schulenberg, North Memorial Health Care, Paul C. Peterson, Percocet, Prince Estate, probate court, Recovery Without Walls, Rodger Hagen, The Prince Estate, Trinity Medical Center (place), Walgreens ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-wrongful-death-claims-dismissed/567141982/))
+ - [**"Prince's estate quietly dismisses wrongful-death claims -- Legal settlements likely in wrongful-death suits. "**](http://www.startribune.com/prince-wrongful-death-claims-dismissed/567141982/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 20 January 2020 about Atlanta (place), Carver County, Carver County District Court, Cecilie M. Loidolt, fentanyl, Illinois (place), John Goetz, Kirk Johnson, Michael Schulenberg, North Memorial Health Care, Paul C. Peterson, Percocet, Prince Estate, probate court, Recovery Without Walls, Rodger Hagen, The Prince Estate, Trinity Medical Center (place), Walgreens ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-wrongful-death-claims-dismissed/567141982/))
 
 ----
 
@@ -48,7 +48,7 @@
 
 ----
 
- - [**"10 curious things we learned about Prince from the investigations -- He liked Häagen-Dazs ice cream, 5-Hour Energy drinks and MAC beauty products."**](http://www.startribune.com/10-curious-things-we-learned-about-prince-from-the-investigations/480364723/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 April 2018 about airport, Atlanta (place), Carver County, CeeLo Green, Chaka Khan, Esperanza Spalding, Illinois (place), Janelle Monae, Judith Hill, Kirk Johnson, Larry Graham, North Memorial Medical Center (place), Peter Vang, Phaedra Ellis Lamkin, Rita Ora, Sheila E., U Got the Look (song), vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/10-curious-things-we-learned-about-prince-from-the-investigations/480364723/))
+ - [**"10 curious things we learned about Prince from the investigations -- He liked Häagen-Dazs ice cream, 5-Hour Energy drinks and MAC beauty products."**](http://www.startribune.com/10-curious-things-we-learned-about-prince-from-the-investigations/480364723/) by Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 20 April 2018 about airport, Atlanta (place), Carver County, CeeLo Green, Chaka Khan, Esperanza Spalding, Illinois (place), Janelle Monae, Judith Hill, Kirk Johnson, Larry Graham, North Memorial Medical Center (place), Peter Vang, Phaedra Ellis Lamkin, Rita Ora, Sheila E., U Got the Look (song), vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/10-curious-things-we-learned-about-prince-from-the-investigations/480364723/))
 
 ----
 
@@ -56,11 +56,11 @@
 
 ----
 
- - [**"As Prince's health waned, alarm grew in inner circle"**](http://www.startribune.com/as-prince-s-health-waned-alarm-grew-in-inner-circle/480336433/) by Amy Forliti (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 April 2018 about Andrew Kornfeld, Carver County, fentanyl, Howard Kornfeld, Illinois (place), Kirk Johnson, Mark Metz, Meron Bekure, Michael Todd Schulenberg, Moline, Illinois (place), oxycodone ([mirror](https://web.archive.org/web/*/http://www.startribune.com/as-prince-s-health-waned-alarm-grew-in-inner-circle/480336433/))
+ - [**"As Prince's health waned, alarm grew in inner circle"**](http://www.startribune.com/as-prince-s-health-waned-alarm-grew-in-inner-circle/480336433/) by Amy Forliti (Associated Press) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 20 April 2018 about Andrew Kornfeld, Carver County, fentanyl, Howard Kornfeld, Illinois (place), Kirk Johnson, Mark Metz, Meron Bekure, Michael Todd Schulenberg, Moline, Illinois (place), oxycodone ([mirror](https://web.archive.org/web/*/http://www.startribune.com/as-prince-s-health-waned-alarm-grew-in-inner-circle/480336433/))
 
 ----
 
- - [**"Carver County closes Prince death investigation with no criminal charges -- After 2-year probe, supplier of fatal drug eludes investigators"**](http://www.startribune.com/no-charges-in-prince-death-investigation/480252103/) by Stephen Montemayor in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 April 2018 about Carver County ([mirror](https://web.archive.org/web/*/http://www.startribune.com/no-charges-in-prince-death-investigation/480252103/))
+ - [**"Carver County closes Prince death investigation with no criminal charges -- After 2-year probe, supplier of fatal drug eludes investigators"**](http://www.startribune.com/no-charges-in-prince-death-investigation/480252103/) by Stephen Montemayor in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 20 April 2018 about Carver County ([mirror](https://web.archive.org/web/*/http://www.startribune.com/no-charges-in-prince-death-investigation/480252103/))
 
 ----
 
@@ -84,15 +84,15 @@
 
 ----
 
- - [**"A timeline of Prince's final days"**](http://www.startribune.com/a-timeline-of-prince-s-final-days/480321973/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 April 2018 about Carver County, Dakota (place), fentanyl, Kirk Johnson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/a-timeline-of-prince-s-final-days/480321973/))
+ - [**"A timeline of Prince's final days"**](http://www.startribune.com/a-timeline-of-prince-s-final-days/480321973/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 19 April 2018 about Carver County, Dakota (place), fentanyl, Kirk Johnson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/a-timeline-of-prince-s-final-days/480321973/))
 
 ----
 
- - [**"Prince death investigation complete press conference -- Carver County Attorney Mark Metz announced Thursday that he was closing the two-year investigation into the death of Prince without issuing any criminal charges."**](http://video.startribune.com/prince-death-investigation-complete-press-conference/480279253/) by Mark Vancleave in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 April 2018 about Carver County, Mark Metz ([mirror](https://web.archive.org/web/*/http://video.startribune.com/prince-death-investigation-complete-press-conference/480279253/))
+ - [**"Prince death investigation complete press conference -- Carver County Attorney Mark Metz announced Thursday that he was closing the two-year investigation into the death of Prince without issuing any criminal charges."**](http://video.startribune.com/prince-death-investigation-complete-press-conference/480279253/) by Mark Vancleave in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 19 April 2018 about Carver County, Mark Metz ([mirror](https://web.archive.org/web/*/http://video.startribune.com/prince-death-investigation-complete-press-conference/480279253/))
 
 ----
 
- - [**"Prince investigation video shows scene of death -- This video was taken by Carver County investigators the morning Prince was found dead inside Paisley Park. The Star Tribune has obscured images of Prince's body."**](http://video.startribune.com/prince-investigation-video-shows-scene-of-death/480306623/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 April 2018 about Carver County ([mirror](https://web.archive.org/web/*/http://video.startribune.com/prince-investigation-video-shows-scene-of-death/480306623/))
+ - [**"Prince investigation video shows scene of death -- This video was taken by Carver County investigators the morning Prince was found dead inside Paisley Park. The Star Tribune has obscured images of Prince's body."**](http://video.startribune.com/prince-investigation-video-shows-scene-of-death/480306623/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 19 April 2018 about Carver County ([mirror](https://web.archive.org/web/*/http://video.startribune.com/prince-investigation-video-shows-scene-of-death/480306623/))
 
 ----
 
@@ -112,7 +112,7 @@
 
 ----
 
- - [**"Carver County to turn over Prince investigative files to family"**](http://www.startribune.com/officials-to-turn-over-prince-investigative-files-to-family/477563043/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 21 March 2018 about Carver County ([mirror](https://web.archive.org/web/*/http://www.startribune.com/officials-to-turn-over-prince-investigative-files-to-family/477563043/))
+ - [**"Carver County to turn over Prince investigative files to family"**](http://www.startribune.com/officials-to-turn-over-prince-investigative-files-to-family/477563043/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 21 March 2018 about Carver County ([mirror](https://web.archive.org/web/*/http://www.startribune.com/officials-to-turn-over-prince-investigative-files-to-family/477563043/))
 
 ----
 
@@ -124,7 +124,7 @@
 
 ----
 
- - [**"Carver County Historical Society scores trove of Paisley Park photos -- The photos, taken by a friend, capture Prince's home at a time when no pictures were allowed."**](http://www.startribune.com/carver-county-historical-society-scores-trove-of-paisley-park-photos/426764851/) by Erin Adler in [Minneapolis Star Tribune](http://www.startribune.com/) on 6 June 2017 about Carver County ([mirror](https://web.archive.org/web/*/http://www.startribune.com/carver-county-historical-society-scores-trove-of-paisley-park-photos/426764851/))
+ - [**"Carver County Historical Society scores trove of Paisley Park photos -- The photos, taken by a friend, capture Prince's home at a time when no pictures were allowed."**](http://www.startribune.com/carver-county-historical-society-scores-trove-of-paisley-park-photos/426764851/) by Erin Adler in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 6 June 2017 about Carver County ([mirror](https://web.archive.org/web/*/http://www.startribune.com/carver-county-historical-society-scores-trove-of-paisley-park-photos/426764851/))
 
 ----
 
@@ -144,11 +144,11 @@
 
 ----
 
- - [**"Floodgates are about to open on Prince's career after death -- A year after he died, Prince's lucrative second career is taking off. The industry moguls he despised are calling the shots — and his wishes don't apply."**](http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 April 2017 about Bravado, Bremer Trust, Carver County, Charles Koppelman, Comerica, contract, Graceland, Graceland Holdings, hologram, merchandise, Michael Jackson, museum, Omarr Baker, Spotify, Susan Rogers, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/))
+ - [**"Floodgates are about to open on Prince's career after death -- A year after he died, Prince's lucrative second career is taking off. The industry moguls he despised are calling the shots — and his wishes don't apply."**](http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/) by Chris Riemenschneider in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 18 April 2017 about Bravado, Bremer Trust, Carver County, Charles Koppelman, Comerica, contract, Graceland, Graceland Holdings, hologram, merchandise, Michael Jackson, museum, Omarr Baker, Spotify, Susan Rogers, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/))
 
 ----
 
- - [**"Carver County plans to unseal search warrants into Prince's death next week -- State and federal investigation is ongoing a year after his death from an accidental drug overdose."**](http://www.startribune.com/carver-county-plans-to-unseal-search-warrants-into-prince-s-death-next-week/419481643/) by David Chanen in [Minneapolis Star Tribune](http://www.startribune.com/) on 14 April 2017 about Carver County ([mirror](https://web.archive.org/web/*/http://www.startribune.com/carver-county-plans-to-unseal-search-warrants-into-prince-s-death-next-week/419481643/))
+ - [**"Carver County plans to unseal search warrants into Prince's death next week -- State and federal investigation is ongoing a year after his death from an accidental drug overdose."**](http://www.startribune.com/carver-county-plans-to-unseal-search-warrants-into-prince-s-death-next-week/419481643/) by David Chanen in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 14 April 2017 about Carver County ([mirror](https://web.archive.org/web/*/http://www.startribune.com/carver-county-plans-to-unseal-search-warrants-into-prince-s-death-next-week/419481643/))
 
 ----
 
@@ -164,11 +164,11 @@
 
 ----
 
- - [**"Carver County judge decides not to appoint a co-executor for Prince's estate -- Comerica Bank & Trust will solely manage the multimillion estate."**](http://www.startribune.com/carver-county-judge-decides-not-to-appoint-a-co-executor-for-prince-s-estate/411678576/) by Mary Lynn Smith in [Minneapolis Star Tribune](http://www.startribune.com/) on 24 January 2017 about Carver County, Comerica, Comerica Bank & Trust ([mirror](https://web.archive.org/web/*/http://www.startribune.com/carver-county-judge-decides-not-to-appoint-a-co-executor-for-prince-s-estate/411678576/))
+ - [**"Carver County judge decides not to appoint a co-executor for Prince's estate -- Comerica Bank & Trust will solely manage the multimillion estate."**](http://www.startribune.com/carver-county-judge-decides-not-to-appoint-a-co-executor-for-prince-s-estate/411678576/) by Mary Lynn Smith in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 24 January 2017 about Carver County, Comerica, Comerica Bank & Trust ([mirror](https://web.archive.org/web/*/http://www.startribune.com/carver-county-judge-decides-not-to-appoint-a-co-executor-for-prince-s-estate/411678576/))
 
 ----
 
- - [**"Court holds off determining Prince's legal heirs, picks firm to oversee estate -- Filings in Carver County District Court raised questions of conflicts of interest in the management of the estate."**](http://www.startribune.com/challenges-raised-in-hand-off-of-prince-estate/410513285/) by Dan Browning, David Chanen in [Minneapolis Star Tribune](http://www.startribune.com/) on 13 January 2017 about Carver County ([mirror](https://web.archive.org/web/*/http://www.startribune.com/challenges-raised-in-hand-off-of-prince-estate/410513285/))
+ - [**"Court holds off determining Prince's legal heirs, picks firm to oversee estate -- Filings in Carver County District Court raised questions of conflicts of interest in the management of the estate."**](http://www.startribune.com/challenges-raised-in-hand-off-of-prince-estate/410513285/) by Dan Browning, David Chanen in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 13 January 2017 about Carver County ([mirror](https://web.archive.org/web/*/http://www.startribune.com/challenges-raised-in-hand-off-of-prince-estate/410513285/))
 
 ----
 
@@ -204,7 +204,7 @@
 
 ----
 
- - [**"Still no will, but work to settle Prince estate forges ahead"**](http://www.startribune.com/still-no-will-but-work-to-settle-prince-estate-forges-ahead/394729181/) by Steve Karnowski (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 September 2016 about Carver County, Morris Day, museum, Prince Estate ([mirror](https://web.archive.org/web/*/http://www.startribune.com/still-no-will-but-work-to-settle-prince-estate-forges-ahead/394729181/))
+ - [**"Still no will, but work to settle Prince estate forges ahead"**](http://www.startribune.com/still-no-will-but-work-to-settle-prince-estate-forges-ahead/394729181/) by Steve Karnowski (Associated Press) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 25 September 2016 about Carver County, Morris Day, museum, Prince Estate ([mirror](https://web.archive.org/web/*/http://www.startribune.com/still-no-will-but-work-to-settle-prince-estate-forges-ahead/394729181/))
 
 ----
 
@@ -244,7 +244,7 @@
 
 ----
 
- - [**"Judge won't hear media request at Prince estate hearing"**](http://www.startribune.com/judge-won-t-hear-media-request-at-prince-estate-hearing/384399061/) by Amy Forliti (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 June 2016 about Carver County, fentanyl, Kevin Eide, Prince Estate, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/judge-won-t-hear-media-request-at-prince-estate-hearing/384399061/))
+ - [**"Judge won't hear media request at Prince estate hearing"**](http://www.startribune.com/judge-won-t-hear-media-request-at-prince-estate-hearing/384399061/) by Amy Forliti (Associated Press) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 25 June 2016 about Carver County, fentanyl, Kevin Eide, Prince Estate, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/judge-won-t-hear-media-request-at-prince-estate-hearing/384399061/))
 
 ----
 
@@ -256,7 +256,7 @@
 
 ----
 
- - [**"A Prince wish, Paisley Park eyed for museum like Graceland"**](http://www.startribune.com/a-prince-wish-paisley-park-eyed-for-museum-like-graceland/382529341/) by Steve Karnowski (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 June 2016 about Bremer Trust, Carver County, exhibit, exhibition, fentanyl, fentanyl overdose, Graceland, Jeremiah Freed, Michael Jackson, motorcycle, museum ([mirror](https://web.archive.org/web/*/http://www.startribune.com/a-prince-wish-paisley-park-eyed-for-museum-like-graceland/382529341/))
+ - [**"A Prince wish, Paisley Park eyed for museum like Graceland"**](http://www.startribune.com/a-prince-wish-paisley-park-eyed-for-museum-like-graceland/382529341/) by Steve Karnowski (Associated Press) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 10 June 2016 about Bremer Trust, Carver County, exhibit, exhibition, fentanyl, fentanyl overdose, Graceland, Jeremiah Freed, Michael Jackson, motorcycle, museum ([mirror](https://web.archive.org/web/*/http://www.startribune.com/a-prince-wish-paisley-park-eyed-for-museum-like-graceland/382529341/))
 
 ----
 
@@ -292,11 +292,11 @@
 
 ----
 
- - [**"Colorado inmate claims Prince is his father, seeks DNA test"**](http://www.startribune.com/colorado-inmate-claims-prince-is-his-father-seeks-dna-test/378823301/) by Steve Karnowski (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 May 2016 about Carlin Q. Williams, Carver County, Carver County District Court, Marsha Henson, Michael Jackson, Patrick Cousins, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/colorado-inmate-claims-prince-is-his-father-seeks-dna-test/378823301/))
+ - [**"Colorado inmate claims Prince is his father, seeks DNA test"**](http://www.startribune.com/colorado-inmate-claims-prince-is-his-father-seeks-dna-test/378823301/) by Steve Karnowski (Associated Press) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 10 May 2016 about Carlin Q. Williams, Carver County, Carver County District Court, Marsha Henson, Michael Jackson, Patrick Cousins, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/colorado-inmate-claims-prince-is-his-father-seeks-dna-test/378823301/))
 
 ----
 
- - [**"Judge authorizes DNA testing of Prince's blood for any heir claims"**](http://www.startribune.com/prince-creditors-have-four-months-to-file-claims/378449441/) by Dan Browning in [Minneapolis Star Tribune](http://www.startribune.com/) on 7 May 2016 about Atlanta (place), Bremer Trust, Carver County, Kevin Eide ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-creditors-have-four-months-to-file-claims/378449441/))
+ - [**"Judge authorizes DNA testing of Prince's blood for any heir claims"**](http://www.startribune.com/prince-creditors-have-four-months-to-file-claims/378449441/) by Dan Browning in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 7 May 2016 about Atlanta (place), Bremer Trust, Carver County, Kevin Eide ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-creditors-have-four-months-to-file-claims/378449441/))
 
 ----
 
@@ -320,7 +320,7 @@
 
 ----
 
- - [**"Judge confirms appointment of special administrator on Prince's estate -- Siblings say they're "all on the same page" even as a new alleged heir emerges."**](http://www.startribune.com/court-hearing-today-in-carver-county-on-prince-estate/377780821/) by Emma Nelson in [Minneapolis Star Tribune](http://www.startribune.com/) on 2 May 2016 about Alfred Jackson, Bremer Trust, Carver County, John Nelson, Kevin Eide, Norrine Nelson, Omarr Baker, Prince Estate, Sharon Nelson, The Prince Estate, Tyka Nelson, Van Jones ([mirror](https://web.archive.org/web/*/http://www.startribune.com/court-hearing-today-in-carver-county-on-prince-estate/377780821/))
+ - [**"Judge confirms appointment of special administrator on Prince's estate -- Siblings say they're "all on the same page" even as a new alleged heir emerges."**](http://www.startribune.com/court-hearing-today-in-carver-county-on-prince-estate/377780821/) by Emma Nelson in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 2 May 2016 about Alfred Jackson, Bremer Trust, Carver County, John Nelson, Kevin Eide, Norrine Nelson, Omarr Baker, Prince Estate, Sharon Nelson, The Prince Estate, Tyka Nelson, Van Jones ([mirror](https://web.archive.org/web/*/http://www.startribune.com/court-hearing-today-in-carver-county-on-prince-estate/377780821/))
 
 ----
 
@@ -332,7 +332,7 @@
 
 ----
 
- - [**"Investigation into Prince's death now is a criminal probe -- The Carver County Sheriff's Office cited an exception to Minnesota public records laws allowing the suppression of information relating to preparing a case "for the commission of a crime.""**](http://www.startribune.com/carver-county-judge-seals-search-warrants-in-prince-death-investigation/377456111/) by David Chanen in [Minneapolis Star Tribune](http://www.startribune.com/) on 29 April 2016 about Carver County, Jim Olson, Mark Metz, The Time ([mirror](https://web.archive.org/web/*/http://www.startribune.com/carver-county-judge-seals-search-warrants-in-prince-death-investigation/377456111/))
+ - [**"Investigation into Prince's death now is a criminal probe -- The Carver County Sheriff's Office cited an exception to Minnesota public records laws allowing the suppression of information relating to preparing a case "for the commission of a crime.""**](http://www.startribune.com/carver-county-judge-seals-search-warrants-in-prince-death-investigation/377456111/) by David Chanen in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 29 April 2016 about Carver County, Jim Olson, Mark Metz, The Time ([mirror](https://web.archive.org/web/*/http://www.startribune.com/carver-county-judge-seals-search-warrants-in-prince-death-investigation/377456111/))
 
 ----
 
@@ -360,7 +360,7 @@
 
 ----
 
- - [**"Adored by millions, Prince was alone as he died"**](http://www.startribune.com/investigation-underway-into-prince-s-death/376741561/) by John Reinan in [Minneapolis Star Tribune](http://www.startribune.com/) on 23 April 2016 about airport, Atlanta (place), Carver County, Dakota (place), Illinois (place), Jim Olson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/investigation-underway-into-prince-s-death/376741561/))
+ - [**"Adored by millions, Prince was alone as he died"**](http://www.startribune.com/investigation-underway-into-prince-s-death/376741561/) by John Reinan in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 23 April 2016 about airport, Atlanta (place), Carver County, Dakota (place), Illinois (place), Jim Olson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/investigation-underway-into-prince-s-death/376741561/))
 
 ----
 
@@ -388,7 +388,7 @@
 
 ----
 
- - [**"C.J.: Prince's memoir will be a beauty if he gives his take on my questions"**](http://www.startribune.com/c-j-prince-s-memoir-will-be-a-beauty-if-he-gives-his-take-on-my-questions/373295271/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 23 March 2016 about C.J., Carver County, memoir, museum, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-prince-s-memoir-will-be-a-beauty-if-he-gives-his-take-on-my-questions/373295271/))
+ - [**"C.J.: Prince's memoir will be a beauty if he gives his take on my questions"**](http://www.startribune.com/c-j-prince-s-memoir-will-be-a-beauty-if-he-gives-his-take-on-my-questions/373295271/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 23 March 2016 about C.J., Carver County, memoir, museum, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-prince-s-memoir-will-be-a-beauty-if-he-gives-his-take-on-my-questions/373295271/))
 
 ----
 

@@ -1,5 +1,9 @@
 # Andrea Swensson
 
+ - [**"Prince’s Classic ‘Sign O’ the Times’ Deluxe Reissue Coming in September, With 63 Bonus Tracks"**](https://variety.com/2020/music/news/prince-sign-o-the-times-deluxe-reissue-bonus-tracks-1234689805/) in [Variety](https://variety.com/) on 25 June 2020 about Andrea Swensson, bootleg, Daphne A. Brooks, Dave Chappelle, Dream Factory (album), Duane Tudahl, I Could Never Take The Place Of Your Man (song), Jeff Katz, Lenny Kravitz, Miles Davis, Susan Rogers, The Revolution, U Got the Look (song), vault, Witness 4 The Prosecution (song) ([mirror](https://web.archive.org/web/*/https://variety.com/2020/music/news/prince-sign-o-the-times-deluxe-reissue-bonus-tracks-1234689805/))
+
+----
+
  - [**"Heart Bones serve 'Hot Dish' in The Current studio"**](https://www.thecurrent.org/feature/2020/02/18/heart-bones-current-studio) in [The Current](https://www.thecurrent.org/) on 18 February 2020 about Andrea Swensson, Celebration, First Avenue (place) ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2020/02/18/heart-bones-current-studio))
 
 ----
@@ -128,7 +132,7 @@
 
 ----
 
- - [**"Deluxe reissue of Prince's '1999' is set for Nov. 29 with three dozen new tracks"**](http://www.startribune.com/deluxe-reissue-of-prince-s-1999-is-set-for-nov-29-with-three-dozen-new-tracks/559971322/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 September 2019 about 1999 (album), Allen Beaulieu, Andrea Swensson, David Fricke, Duff McKagan, Little Red Corvette (song), Purple Music (song), Vagina (song), vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/deluxe-reissue-of-prince-s-1999-is-set-for-nov-29-with-three-dozen-new-tracks/559971322/))
+ - [**"Deluxe reissue of Prince's '1999' is set for Nov. 29 with three dozen new tracks"**](http://www.startribune.com/deluxe-reissue-of-prince-s-1999-is-set-for-nov-29-with-three-dozen-new-tracks/559971322/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 10 September 2019 about 1999 (album), Allen Beaulieu, Andrea Swensson, David Fricke, Duff McKagan, Little Red Corvette (song), Purple Music (song), Vagina (song), vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/deluxe-reissue-of-prince-s-1999-is-set-for-nov-29-with-three-dozen-new-tracks/559971322/))
 
 ----
 

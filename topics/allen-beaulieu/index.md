@@ -40,7 +40,7 @@
 
 ----
 
- - [**"Deluxe reissue of Prince's '1999' is set for Nov. 29 with three dozen new tracks"**](http://www.startribune.com/deluxe-reissue-of-prince-s-1999-is-set-for-nov-29-with-three-dozen-new-tracks/559971322/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 September 2019 about 1999 (album), Allen Beaulieu, Andrea Swensson, David Fricke, Duff McKagan, Little Red Corvette (song), Purple Music (song), Vagina (song), vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/deluxe-reissue-of-prince-s-1999-is-set-for-nov-29-with-three-dozen-new-tracks/559971322/))
+ - [**"Deluxe reissue of Prince's '1999' is set for Nov. 29 with three dozen new tracks"**](http://www.startribune.com/deluxe-reissue-of-prince-s-1999-is-set-for-nov-29-with-three-dozen-new-tracks/559971322/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 10 September 2019 about 1999 (album), Allen Beaulieu, Andrea Swensson, David Fricke, Duff McKagan, Little Red Corvette (song), Purple Music (song), Vagina (song), vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/deluxe-reissue-of-prince-s-1999-is-set-for-nov-29-with-three-dozen-new-tracks/559971322/))
 
 ----
 

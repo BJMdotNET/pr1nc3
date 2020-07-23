@@ -20,7 +20,7 @@
 
 ----
 
- - [**"Prince's estate approves three more '90s reissues via Sony Legacy for September"**](http://www.startribune.com/prince-s-estate-approves-three-more-90s-reissues-via-sony-legacy-for-september/513494212/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 1 August 2019 about Chaos and Disorder (album), Emancipation (album), Mayte, Mayte Garcia, The Versace Experience (Prelude 2 Gold) (album), Trump, Warner Bros. Records ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-estate-approves-three-more-90s-reissues-via-sony-legacy-for-september/513494212/))
+ - [**"Prince's estate approves three more '90s reissues via Sony Legacy for September"**](http://www.startribune.com/prince-s-estate-approves-three-more-90s-reissues-via-sony-legacy-for-september/513494212/) by Chris Riemenschneider in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 1 August 2019 about Chaos and Disorder (album), Emancipation (album), Mayte, Mayte Garcia, The Versace Experience (Prelude 2 Gold) (album), Trump, Warner Bros. Records ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-estate-approves-three-more-90s-reissues-via-sony-legacy-for-september/513494212/))
 
 ----
 
@@ -28,7 +28,7 @@
 
 ----
 
- - [**"Re-live the 1980s heyday of Minnesota music and comedy in a new photo book -- Writer Martin Keller and photographer Greg Helgeson walked “the thin-grooved line between fandom and journalism,” as chronicled in “Hijinx and Hearsay.”"**](http://www.startribune.com/80s-scenesters-offer-snapshots-of-the-minneapolis-sound-in-new-photo-book/509385652/) by Tim Campbell in [Minneapolis Star Tribune](http://www.startribune.com/) on 7 May 2019 about Capri Theater  (place), Jimmy Jam, Mayte, Terry Lewis ([mirror](https://web.archive.org/web/*/http://www.startribune.com/80s-scenesters-offer-snapshots-of-the-minneapolis-sound-in-new-photo-book/509385652/))
+ - [**"Re-live the 1980s heyday of Minnesota music and comedy in a new photo book -- Writer Martin Keller and photographer Greg Helgeson walked “the thin-grooved line between fandom and journalism,” as chronicled in “Hijinx and Hearsay.”"**](http://www.startribune.com/80s-scenesters-offer-snapshots-of-the-minneapolis-sound-in-new-photo-book/509385652/) by Tim Campbell in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 7 May 2019 about Capri Theater  (place), Jimmy Jam, Mayte, Terry Lewis ([mirror](https://web.archive.org/web/*/http://www.startribune.com/80s-scenesters-offer-snapshots-of-the-minneapolis-sound-in-new-photo-book/509385652/))
 
 ----
 
@@ -100,7 +100,7 @@
 
 ----
 
- - [**"Prince's ex-wife opens up about 1996 death of couple's baby"**](http://www.startribune.com/prince-s-ex-wife-opens-up-about-1996-death-of-couple-s-baby/416246944/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 15 March 2017 about Mayte, Mayte Garcia ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-ex-wife-opens-up-about-1996-death-of-couple-s-baby/416246944/))
+ - [**"Prince's ex-wife opens up about 1996 death of couple's baby"**](http://www.startribune.com/prince-s-ex-wife-opens-up-about-1996-death-of-couple-s-baby/416246944/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 15 March 2017 about Mayte, Mayte Garcia ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-ex-wife-opens-up-about-1996-death-of-couple-s-baby/416246944/))
 
 ----
 
@@ -152,7 +152,7 @@
 
 ----
 
- - [**"Prince's ex-wife opens up about baby's death"**](http://www.startribune.com/celebrity-news/378697731/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 May 2016 about Mayte, Mayte Garcia ([mirror](https://web.archive.org/web/*/http://www.startribune.com/celebrity-news/378697731/))
+ - [**"Prince's ex-wife opens up about baby's death"**](http://www.startribune.com/celebrity-news/378697731/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 10 May 2016 about Mayte, Mayte Garcia ([mirror](https://web.archive.org/web/*/http://www.startribune.com/celebrity-news/378697731/))
 
 ----
 
@@ -160,7 +160,7 @@
 
 ----
 
- - [**"Letters from Prince: A Minneapolis writer remembers his relationship with a lost star -- Minnesota native Neal Karlen was 25 years old when he landed the first of two in-depth interviews with Prince for Rolling Stone. What followed were 31 years of handwritten notes, late-night calls and an unlikely friendship."**](http://www.startribune.com/letters-from-prince-a-minneapolis-writer-remembers-his-relationship-with-a-lost-star/377555951/) by Neal Karlen in [Minneapolis Star Tribune](http://www.startribune.com/) on 29 April 2016 about Mayte, Neal Karlen ([mirror](https://web.archive.org/web/*/http://www.startribune.com/letters-from-prince-a-minneapolis-writer-remembers-his-relationship-with-a-lost-star/377555951/))
+ - [**"Letters from Prince: A Minneapolis writer remembers his relationship with a lost star -- Minnesota native Neal Karlen was 25 years old when he landed the first of two in-depth interviews with Prince for Rolling Stone. What followed were 31 years of handwritten notes, late-night calls and an unlikely friendship."**](http://www.startribune.com/letters-from-prince-a-minneapolis-writer-remembers-his-relationship-with-a-lost-star/377555951/) by Neal Karlen in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 29 April 2016 about Mayte, Neal Karlen ([mirror](https://web.archive.org/web/*/http://www.startribune.com/letters-from-prince-a-minneapolis-writer-remembers-his-relationship-with-a-lost-star/377555951/))
 
 ----
 
@@ -172,7 +172,7 @@
 
 ----
 
- - [**"Obituary: Prince was a diminutive giant who revolutionized pop -- Though he was a puzzle at times, the rocker was a true Minnesotan who changed music more than once in a nearly 40-year career."**](http://www.startribune.com/jon-bream-prince-was-a-once-in-a-generation-artist-who-never-rested-on-his-laurels/376594221/) by Chris Riemenschneider, Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 April 2016 about André Cymone, First Avenue (place), Grammy Award, John Nelson, Let’s Go Crazy (song), Little Red Corvette (song), Mayte, Mayte Garcia, Obama, Super Bowl, Super Bowl XLI (event), Tyka Nelson, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/jon-bream-prince-was-a-once-in-a-generation-artist-who-never-rested-on-his-laurels/376594221/))
+ - [**"Obituary: Prince was a diminutive giant who revolutionized pop -- Though he was a puzzle at times, the rocker was a true Minnesotan who changed music more than once in a nearly 40-year career."**](http://www.startribune.com/jon-bream-prince-was-a-once-in-a-generation-artist-who-never-rested-on-his-laurels/376594221/) by Chris Riemenschneider, Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 22 April 2016 about André Cymone, First Avenue (place), Grammy Award, John Nelson, Let’s Go Crazy (song), Little Red Corvette (song), Mayte, Mayte Garcia, Obama, Super Bowl, Super Bowl XLI (event), Tyka Nelson, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/jon-bream-prince-was-a-once-in-a-generation-artist-who-never-rested-on-his-laurels/376594221/))
 
 ----
 

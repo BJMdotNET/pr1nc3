@@ -1,14 +1,18 @@
 # Celebration
 
+ - [**"Paisley Park gets a reboot: You can take cellphone pics, and even drink, too -- Four years after Prince's death, his Chanhassen studio has come alive again under a new director who's even allowing cellphones and alcohol."**](http://www.startribune.com/paisley-park-gets-a-reboot-you-can-take-cellphone-pics-and-even-drink-too/568554622/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 7 March 2020 about 1999 Super Deluxe (album), Alan Seiffert, Andrea Bruce, Angela Aycock, Beck, Celebration, Comerica, Comerica Trust, exhibit, Graceland Holdings, Joel Weinshanker, Justin Timberlake, Kirk Johnson, Lovesexy (tour), Meshell Ndegeocello, Mitch Maguire, museum, Super Bowl, Trevor Guy, Twin Cities (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-gets-a-reboot-you-can-take-cellphone-pics-and-even-drink-too/568554622/))
+
+----
+
  - [**"Heart Bones serve 'Hot Dish' in The Current studio"**](https://www.thecurrent.org/feature/2020/02/18/heart-bones-current-studio) in [The Current](https://www.thecurrent.org/) on 18 February 2020 about Andrea Swensson, Celebration, First Avenue (place) ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2020/02/18/heart-bones-current-studio))
 
 ----
 
- - [**"Best of the Week (Feb. 16-23): Tove Lo, Joe Henry, 'Gotta Dance,' Raphael Saadiq, VocalEssence, winter fest, more"**](http://www.startribune.com/best-of-the-week-feb-16-23-tove-lo-joe-henry-gotta-dance-raphael-saadiq-vocalessence-winter-fest-more/567872132/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 14 February 2020 about Celebration, Dakota (place), First Avenue (place), Jon Bream, Raphael Saadiq ([mirror](https://web.archive.org/web/*/http://www.startribune.com/best-of-the-week-feb-16-23-tove-lo-joe-henry-gotta-dance-raphael-saadiq-vocalessence-winter-fest-more/567872132/))
+ - [**"Best of the Week (Feb. 16-23): Tove Lo, Joe Henry, 'Gotta Dance,' Raphael Saadiq, VocalEssence, winter fest, more"**](http://www.startribune.com/best-of-the-week-feb-16-23-tove-lo-joe-henry-gotta-dance-raphael-saadiq-vocalessence-winter-fest-more/567872132/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 14 February 2020 about Celebration, Dakota (place), First Avenue (place), Jon Bream, Raphael Saadiq ([mirror](https://web.archive.org/web/*/http://www.startribune.com/best-of-the-week-feb-16-23-tove-lo-joe-henry-gotta-dance-raphael-saadiq-vocalessence-winter-fest-more/567872132/))
 
 ----
 
- - [**"Twin Cities concerts of the week: Iron & Wine with Calexico, Sudaka Fest, Heart Bones and the Suburbs -- This big gigs for Feb. 14-20, also including Tove Lo, Ellis Delaney's release party, memorials for Ed Ackerson and Lexii Alijai, Rosanne Cash, a Louisiana twofer and a Paisley Park party with Meshell Ndegeocello. "**](http://www.startribune.com/twin-cities-concerts-of-the-week-iron-amp-wine-with-calexico-sudaka-fest-heart-bones-and-the-suburbs/567843822/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 14 February 2020 about Celebration, Dakota (place), Darling Nikki (song), First Avenue (place), Garrison Keillor, Meshell Ndegeocello, Paul Peterson, Sometimes It Snows In April (song), St. Paul Peterson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/twin-cities-concerts-of-the-week-iron-amp-wine-with-calexico-sudaka-fest-heart-bones-and-the-suburbs/567843822/))
+ - [**"Twin Cities concerts of the week: Iron & Wine with Calexico, Sudaka Fest, Heart Bones and the Suburbs -- This big gigs for Feb. 14-20, also including Tove Lo, Ellis Delaney's release party, memorials for Ed Ackerson and Lexii Alijai, Rosanne Cash, a Louisiana twofer and a Paisley Park party with Meshell Ndegeocello. "**](http://www.startribune.com/twin-cities-concerts-of-the-week-iron-amp-wine-with-calexico-sudaka-fest-heart-bones-and-the-suburbs/567843822/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 14 February 2020 about Celebration, Dakota (place), Darling Nikki (song), First Avenue (place), Garrison Keillor, Meshell Ndegeocello, Paul Peterson, Sometimes It Snows In April (song), St. Paul Peterson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/twin-cities-concerts-of-the-week-iron-amp-wine-with-calexico-sudaka-fest-heart-bones-and-the-suburbs/567843822/))
 
 ----
 
@@ -20,7 +24,7 @@
 
 ----
 
- - [**"Minnesota is often overlooked on a worldwide scale, but we have an amazing medical scene -- Images of 3M masks are widespread, which got me thinking. "**](http://www.startribune.com/minnesota-is-often-overlooked-on-a-worldwide-scale-but-we-have-an-amazing-medical-scene/567438732/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 30 January 2020 about Celebration, Lizzo, University of Minnesota ([mirror](https://web.archive.org/web/*/http://www.startribune.com/minnesota-is-often-overlooked-on-a-worldwide-scale-but-we-have-an-amazing-medical-scene/567438732/))
+ - [**"Minnesota is often overlooked on a worldwide scale, but we have an amazing medical scene -- Images of 3M masks are widespread, which got me thinking. "**](http://www.startribune.com/minnesota-is-often-overlooked-on-a-worldwide-scale-but-we-have-an-amazing-medical-scene/567438732/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 30 January 2020 about Celebration, Lizzo, University of Minnesota ([mirror](https://web.archive.org/web/*/http://www.startribune.com/minnesota-is-often-overlooked-on-a-worldwide-scale-but-we-have-an-amazing-medical-scene/567438732/))
 
 ----
 
@@ -32,7 +36,7 @@
 
 ----
 
- - [**"Celebration 2020 at Paisley Park will coincide with Prince's birth, not death"**](http://www.startribune.com/celebration-2020-at-paisley-park-will-coincide-with-prince-s-birth-not-death/566249302/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 16 December 2019 about 1999 Super Deluxe (album), Alan Seiffert, Celebration, Celebration 2020, contract, Donna Grantis, George Clinton, Graceland, Graceland Holdings, Judith Hill, Justin Timberlake, Liv Warfield, Morris Day, Morris Day & The Time, museum, Nooky Jones, Sometimes It Snows In April (song), Super Bowl, The Revolution ([mirror](https://web.archive.org/web/*/http://www.startribune.com/celebration-2020-at-paisley-park-will-coincide-with-prince-s-birth-not-death/566249302/))
+ - [**"Celebration 2020 at Paisley Park will coincide with Prince's birth, not death"**](http://www.startribune.com/celebration-2020-at-paisley-park-will-coincide-with-prince-s-birth-not-death/566249302/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 16 December 2019 about 1999 Super Deluxe (album), Alan Seiffert, Celebration, Celebration 2020, contract, Donna Grantis, George Clinton, Graceland, Graceland Holdings, Judith Hill, Justin Timberlake, Liv Warfield, Morris Day, Morris Day & The Time, museum, Nooky Jones, Sometimes It Snows In April (song), Super Bowl, The Revolution ([mirror](https://web.archive.org/web/*/http://www.startribune.com/celebration-2020-at-paisley-park-will-coincide-with-prince-s-birth-not-death/566249302/))
 
 ----
 
@@ -48,7 +52,7 @@
 
 ----
 
- - [**"Don't overlook splashy coffee table books as holiday gifts"**](http://www.startribune.com/don-t-overlook-splashy-coffee-table-books-as-holiday-gifts/565099382/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 November 2019 about Andy Warhol, Celebration, exhibit, exhibition, Hachette Books, museum, Penguin Random House, Randee St. Nicholas, trademark ([mirror](https://web.archive.org/web/*/http://www.startribune.com/don-t-overlook-splashy-coffee-table-books-as-holiday-gifts/565099382/))
+ - [**"Don't overlook splashy coffee table books as holiday gifts"**](http://www.startribune.com/don-t-overlook-splashy-coffee-table-books-as-holiday-gifts/565099382/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 19 November 2019 about Andy Warhol, Celebration, exhibit, exhibition, Hachette Books, museum, Penguin Random House, Randee St. Nicholas, trademark ([mirror](https://web.archive.org/web/*/http://www.startribune.com/don-t-overlook-splashy-coffee-table-books-as-holiday-gifts/565099382/))
 
 ----
 
@@ -92,7 +96,7 @@
 
 ----
 
- - [**"'Rehabilitated' Paisley Park takes center stage for Prince anniversary -- Graceland firm remakes studio into a showplace."**](http://www.startribune.com/rehabilitated-paisley-park-takes-center-stage-for-prince-anniversary/419571163/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 17 April 2017 about Bremer Trust, Celebration, Denny Laufenburger, Graceland, Graceland Holdings, Joel Weinshanker, museum ([mirror](https://web.archive.org/web/*/http://www.startribune.com/rehabilitated-paisley-park-takes-center-stage-for-prince-anniversary/419571163/))
+ - [**"'Rehabilitated' Paisley Park takes center stage for Prince anniversary -- Graceland firm remakes studio into a showplace."**](http://www.startribune.com/rehabilitated-paisley-park-takes-center-stage-for-prince-anniversary/419571163/) by Chris Riemenschneider in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 17 April 2017 about Bremer Trust, Celebration, Denny Laufenburger, Graceland, Graceland Holdings, Joel Weinshanker, museum ([mirror](https://web.archive.org/web/*/http://www.startribune.com/rehabilitated-paisley-park-takes-center-stage-for-prince-anniversary/419571163/))
 
 ----
 
@@ -100,7 +104,7 @@
 
 ----
 
- - [**"Three official Prince books due at 'Celebration' at Paisley Park"**](http://www.startribune.com/three-official-prince-books-due-at-celebration-at-paisley-park/417539473/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 29 March 2017 about Celebration ([mirror](https://web.archive.org/web/*/http://www.startribune.com/three-official-prince-books-due-at-celebration-at-paisley-park/417539473/))
+ - [**"Three official Prince books due at 'Celebration' at Paisley Park"**](http://www.startribune.com/three-official-prince-books-due-at-celebration-at-paisley-park/417539473/) by Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 29 March 2017 about Celebration ([mirror](https://web.archive.org/web/*/http://www.startribune.com/three-official-prince-books-due-at-celebration-at-paisley-park/417539473/))
 
 ----
 
@@ -108,7 +112,7 @@
 
 ----
 
- - [**"State Fair to celebrate Prince with "Unite in Purple" Day Aug. 26 -- "Unite in Purple" Day will offer tributes to the late rock icon on Aug. 26."**](http://www.startribune.com/state-fair-to-celebrate-prince-with-unite-in-purple-day/389514481/) by Tim Harlow in [Minneapolis Star Tribune](http://www.startribune.com/) on 8 August 2016 about Celebration, State Fair ([mirror](https://web.archive.org/web/*/http://www.startribune.com/state-fair-to-celebrate-prince-with-unite-in-purple-day/389514481/))
+ - [**"State Fair to celebrate Prince with "Unite in Purple" Day Aug. 26 -- "Unite in Purple" Day will offer tributes to the late rock icon on Aug. 26."**](http://www.startribune.com/state-fair-to-celebrate-prince-with-unite-in-purple-day/389514481/) by Tim Harlow in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 8 August 2016 about Celebration, State Fair ([mirror](https://web.archive.org/web/*/http://www.startribune.com/state-fair-to-celebrate-prince-with-unite-in-purple-day/389514481/))
 
 ----
 
@@ -120,7 +124,7 @@
 
 ----
 
- - [**"Sheila E.: Saying goodbye to Prince 'the hardest thing I've ever had to do' -- Sheila E., longtime friend, said she never knew Prince to take drugs."**](http://www.startribune.com/sheila-e-saying-goodbye-to-prince-the-hardest-thing-i-ve-ever-had-to-do/376906621/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 April 2016 about Celebration, Chaka Khan, Kirk Johnson, Larry Graham, Let’s Go Crazy (song), Lionel Richie, Omarr Baker, Sheila E., TMZ (website), Tyka Nelson, WCCO-TV ([mirror](https://web.archive.org/web/*/http://www.startribune.com/sheila-e-saying-goodbye-to-prince-the-hardest-thing-i-ve-ever-had-to-do/376906621/))
+ - [**"Sheila E.: Saying goodbye to Prince 'the hardest thing I've ever had to do' -- Sheila E., longtime friend, said she never knew Prince to take drugs."**](http://www.startribune.com/sheila-e-saying-goodbye-to-prince-the-hardest-thing-i-ve-ever-had-to-do/376906621/) by Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 25 April 2016 about Celebration, Chaka Khan, Kirk Johnson, Larry Graham, Let’s Go Crazy (song), Lionel Richie, Omarr Baker, Sheila E., TMZ (website), Tyka Nelson, WCCO-TV ([mirror](https://web.archive.org/web/*/http://www.startribune.com/sheila-e-saying-goodbye-to-prince-the-hardest-thing-i-ve-ever-had-to-do/376906621/))
 
 ----
 

@@ -20,7 +20,7 @@
 
 ----
 
- - [**"Tamron Hall talks Prince at TV critics meeting"**](http://www.startribune.com/tamron-hall-talks-prince-at-tv-critics-meeting/521726761/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 August 2019 about Charlie Rose, PBS, Tamron Hall ([mirror](https://web.archive.org/web/*/http://www.startribune.com/tamron-hall-talks-prince-at-tv-critics-meeting/521726761/))
+ - [**"Tamron Hall talks Prince at TV critics meeting"**](http://www.startribune.com/tamron-hall-talks-prince-at-tv-critics-meeting/521726761/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 5 August 2019 about Charlie Rose, PBS, Tamron Hall ([mirror](https://web.archive.org/web/*/http://www.startribune.com/tamron-hall-talks-prince-at-tv-critics-meeting/521726761/))
 
 ----
 

@@ -1,5 +1,13 @@
 # Lenny Kravitz
 
+ - [**"Prince’s Classic ‘Sign O’ the Times’ Deluxe Reissue Coming in September, With 63 Bonus Tracks"**](https://variety.com/2020/music/news/prince-sign-o-the-times-deluxe-reissue-bonus-tracks-1234689805/) in [Variety](https://variety.com/) on 25 June 2020 about Andrea Swensson, bootleg, Daphne A. Brooks, Dave Chappelle, Dream Factory (album), Duane Tudahl, I Could Never Take The Place Of Your Man (song), Jeff Katz, Lenny Kravitz, Miles Davis, Susan Rogers, The Revolution, U Got the Look (song), vault, Witness 4 The Prosecution (song) ([mirror](https://web.archive.org/web/*/https://variety.com/2020/music/news/prince-sign-o-the-times-deluxe-reissue-bonus-tracks-1234689805/))
+
+----
+
+ - [**"Prince's epic 'Sign o' the Times' to get super deluxe reissue on Sept. 25"**](https://www.startribune.com/prince-s-epic-sign-o-the-times-to-get-super-deluxe-reissue-on-sept-25/571488832/) in [Minneapolis Star Tribune](https://www.startribune.com/) on 25 June 2020 about Dave Chappelle, Housequake (song), Jeff Katz, Lenny Kravitz, Love and Sex (song), Miles Davis, Prince Estate, Sign O' The Times (album), Starfish And Coffee (song), The Prince Estate, U Got the Look (song), vault ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-s-epic-sign-o-the-times-to-get-super-deluxe-reissue-on-sept-25/571488832/))
+
+----
+
  - [**"All of Prince’s Spiciest Pop-Culture Hot Takes From His New Book, The Beautiful Ones"**](https://www.vulture.com/2019/10/prince-memoir-pop-culture-hot-takes.html) in [Vulture](https://www.vulture.com/) on 31 October 2019 about Chaka Khan, Dan Piepenbring, Ed Sheeran, Katy Perry, Lenny Kravitz, memoir, Meron Bekure, Michael Jackson, Miles Davis, Purple Pam, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/https://www.vulture.com/2019/10/prince-memoir-pop-culture-hot-takes.html))
 
 ----

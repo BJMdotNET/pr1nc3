@@ -36,7 +36,7 @@
 
 ----
 
- - [**"Star Tribune's 2019 Artists of the Year -- Meet the Minnesotans at the heart of the year's most groundbreaking show."**](http://www.startribune.com/6-minnesotans-are-2019-artists-of-the-year/564924782/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 6 January 2020 about 1999 (album), ASCAP, Ava DuVernay, Bangles, Bob Dylan, Dakota (place), exhibit, exhibition, Kenny Rogers, Lizzo, memoir, Minneapolis Institute of Art, museum, Netflix, Originals (album), Rearrange (song), Sheila E., Smithsonian (place), The Beautiful Ones (book), University of Minnesota, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/6-minnesotans-are-2019-artists-of-the-year/564924782/))
+ - [**"Star Tribune's 2019 Artists of the Year -- Meet the Minnesotans at the heart of the year's most groundbreaking show."**](http://www.startribune.com/6-minnesotans-are-2019-artists-of-the-year/564924782/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 6 January 2020 about 1999 (album), ASCAP, Ava DuVernay, Bangles, Bob Dylan, Dakota (place), exhibit, exhibition, Kenny Rogers, Lizzo, memoir, Minneapolis Institute of Art, museum, Netflix, Originals (album), Rearrange (song), Sheila E., Smithsonian (place), The Beautiful Ones (book), University of Minnesota, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/6-minnesotans-are-2019-artists-of-the-year/564924782/))
 
 ----
 
@@ -44,7 +44,7 @@
 
 ----
 
- - [**"How '1999' made Prince a star: 'This album was the turning point' -- An expanded reissue of Prince's breakthrough album shows how prolific he was in the early '80s."**](http://www.startribune.com/how-1999-made-prince-a-star-this-album-was-the-turning-point/565432932/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 November 2019 about 1999 (album), Bangles, Bobby Z., Dez Dickerson, James Brown, Kenny Rogers, Lisa Coleman, memoir, The Revolution, Vanity, Vanity 6, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/how-1999-made-prince-a-star-this-album-was-the-turning-point/565432932/))
+ - [**"How '1999' made Prince a star: 'This album was the turning point' -- An expanded reissue of Prince's breakthrough album shows how prolific he was in the early '80s."**](http://www.startribune.com/how-1999-made-prince-a-star-this-album-was-the-turning-point/565432932/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 25 November 2019 about 1999 (album), Bangles, Bobby Z., Dez Dickerson, James Brown, Kenny Rogers, Lisa Coleman, memoir, The Revolution, Vanity, Vanity 6, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/how-1999-made-prince-a-star-this-album-was-the-turning-point/565432932/))
 
 ----
 
@@ -56,7 +56,7 @@
 
 ----
 
- - [**"Prince's estate to assume management of Paisley Park -- Graceland Holdings will no longer run the Chanhassen museum as of Oct. 1."**](http://www.startribune.com/prince-s-estate-to-assume-management-of-paisley-park/558364602/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 August 2019 about Ava DuVernay, Bangles, Comerica, contract, Graceland, Graceland Holdings, Joel Weinshanker, Kirk Johnson, memoir, museum, Netflix, Sharon Nelson, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-estate-to-assume-management-of-paisley-park/558364602/))
+ - [**"Prince's estate to assume management of Paisley Park -- Graceland Holdings will no longer run the Chanhassen museum as of Oct. 1."**](http://www.startribune.com/prince-s-estate-to-assume-management-of-paisley-park/558364602/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 26 August 2019 about Ava DuVernay, Bangles, Comerica, contract, Graceland, Graceland Holdings, Joel Weinshanker, Kirk Johnson, memoir, museum, Netflix, Sharon Nelson, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-estate-to-assume-management-of-paisley-park/558364602/))
 
 ----
 
@@ -68,7 +68,7 @@
 
 ----
 
- - [**"Minnesota's 10 best albums of 2019 so far, from J.S. Ondara to Nur-D -- The Cactus Blossoms, Dizzy Fae, Sass, Sam Cassidy and — never mind the 30-plus-year wait — Prince all produced gems in the first half of 2019."**](http://www.startribune.com/minnesota-s-10-best-albums-of-2019-so-far-from-j-s-ondara-to-nur-d/512181452/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 3 July 2019 about Bangles, Originals (album) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/minnesota-s-10-best-albums-of-2019-so-far-from-j-s-ondara-to-nur-d/512181452/))
+ - [**"Minnesota's 10 best albums of 2019 so far, from J.S. Ondara to Nur-D -- The Cactus Blossoms, Dizzy Fae, Sass, Sam Cassidy and — never mind the 30-plus-year wait — Prince all produced gems in the first half of 2019."**](http://www.startribune.com/minnesota-s-10-best-albums-of-2019-so-far-from-j-s-ondara-to-nur-d/512181452/) by Chris Riemenschneider in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 3 July 2019 about Bangles, Originals (album) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/minnesota-s-10-best-albums-of-2019-so-far-from-j-s-ondara-to-nur-d/512181452/))
 
 ----
 
@@ -164,7 +164,7 @@
 
 ----
 
- - [**"Remembering when Prince wrote that song for you"**](http://www.startribune.com/remembering-when-prince-wrote-that-song-for-you/510818462/) by Mesfin Fekadu (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 4 June 2019 about Apollonia Kotero, Bangles, Originals (album), Susannah Melvoin ([mirror](https://web.archive.org/web/*/http://www.startribune.com/remembering-when-prince-wrote-that-song-for-you/510818462/))
+ - [**"Remembering when Prince wrote that song for you"**](http://www.startribune.com/remembering-when-prince-wrote-that-song-for-you/510818462/) by Mesfin Fekadu (Associated Press) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 4 June 2019 about Apollonia Kotero, Bangles, Originals (album), Susannah Melvoin ([mirror](https://web.archive.org/web/*/http://www.startribune.com/remembering-when-prince-wrote-that-song-for-you/510818462/))
 
 ----
 
@@ -172,7 +172,7 @@
 
 ----
 
- - [**"Coming soon from the Prince vault: A new album called ‘Originals’ -- Prince’s estate is announcing the collection of his performances of songs he wrote for others."**](http://www.startribune.com/coming-soon-from-the-prince-vault-a-new-album-called-originals/509009862/) by Chris Riemenschneider, Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 April 2019 about Ani DiFranco, Apple Music, Bangles, Dan Piepenbring, First Avenue (place), Kenny Rogers, Larry Graham, Little Red Corvette (song), Manic Monday (song), Martika, Morris Day, Morris Day & The Time, Netflix, Nothing Compares 2 U (song), Originals (album), Prince Estate, Random House , Rave In2 the Joy Fantastic (album), Rave Un2 the Joy Fantastic (album), Rave Un2 the Year 2000 (video), Sex Shooter (song), The Beautiful Ones (book), The Family, The Glamorous Life (song), The Prince Estate, The Time, Ultimate Rave (album), Vanity 6, vault, Wendy Melvoin ([mirror](https://web.archive.org/web/*/http://www.startribune.com/coming-soon-from-the-prince-vault-a-new-album-called-originals/509009862/))
+ - [**"Coming soon from the Prince vault: A new album called ‘Originals’ -- Prince’s estate is announcing the collection of his performances of songs he wrote for others."**](http://www.startribune.com/coming-soon-from-the-prince-vault-a-new-album-called-originals/509009862/) by Chris Riemenschneider, Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 25 April 2019 about Ani DiFranco, Apple Music, Bangles, Dan Piepenbring, First Avenue (place), Kenny Rogers, Larry Graham, Little Red Corvette (song), Manic Monday (song), Martika, Morris Day, Morris Day & The Time, Netflix, Nothing Compares 2 U (song), Originals (album), Prince Estate, Random House , Rave In2 the Joy Fantastic (album), Rave Un2 the Joy Fantastic (album), Rave Un2 the Year 2000 (video), Sex Shooter (song), The Beautiful Ones (book), The Family, The Glamorous Life (song), The Prince Estate, The Time, Ultimate Rave (album), Vanity 6, vault, Wendy Melvoin ([mirror](https://web.archive.org/web/*/http://www.startribune.com/coming-soon-from-the-prince-vault-a-new-album-called-originals/509009862/))
 
 ----
 

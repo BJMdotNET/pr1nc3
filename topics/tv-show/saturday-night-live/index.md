@@ -44,7 +44,7 @@
 
 ----
 
- - [**"'Saturday Night Live' airs Prince tribute show"**](http://www.startribune.com/saturday-night-live-devotes-entire-show-to-prince-tribute/376876471/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 24 April 2016 about Saturday Night Live (TV show) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/saturday-night-live-devotes-entire-show-to-prince-tribute/376876471/))
+ - [**"'Saturday Night Live' airs Prince tribute show"**](http://www.startribune.com/saturday-night-live-devotes-entire-show-to-prince-tribute/376876471/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 24 April 2016 about Saturday Night Live (TV show) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/saturday-night-live-devotes-entire-show-to-prince-tribute/376876471/))
 
 ----
 

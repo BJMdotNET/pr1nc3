@@ -32,11 +32,11 @@
 
 ----
 
- - [**"On a night honoring Prince, Twins fans show they’re delirious once again -- Remember those small crowds at Target Field in April and May? They were a distant memory Friday night."**](http://www.startribune.com/on-a-night-honoring-prince-twins-fans-show-they-re-delirious-once-again/511338901/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 15 June 2019 about Minnesota Twins, Toronto ([mirror](https://web.archive.org/web/*/http://www.startribune.com/on-a-night-honoring-prince-twins-fans-show-they-re-delirious-once-again/511338901/))
+ - [**"On a night honoring Prince, Twins fans show they’re delirious once again -- Remember those small crowds at Target Field in April and May? They were a distant memory Friday night."**](http://www.startribune.com/on-a-night-honoring-prince-twins-fans-show-they-re-delirious-once-again/511338901/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 15 June 2019 about Minnesota Twins, Toronto ([mirror](https://web.archive.org/web/*/http://www.startribune.com/on-a-night-honoring-prince-twins-fans-show-they-re-delirious-once-again/511338901/))
 
 ----
 
- - [**"Former Prince guitarist Donna Grantis celebrates new jazz-rock album at the Dakota -- 3rdEyeGirl guitarist Donna Grantis will celebrate her new jazz-rock fusion album in Minneapolis."**](http://www.startribune.com/former-prince-guitarist-donna-grantis-celebrates-new-jazz-rock-album-at-the-dakota/507678332/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 March 2019 about 3rdEyeGirl, Aretha Franklin, Dakota (place), Donna Grantis, Hannah Welton, Toronto, YouTube ([mirror](https://web.archive.org/web/*/http://www.startribune.com/former-prince-guitarist-donna-grantis-celebrates-new-jazz-rock-album-at-the-dakota/507678332/))
+ - [**"Former Prince guitarist Donna Grantis celebrates new jazz-rock album at the Dakota -- 3rdEyeGirl guitarist Donna Grantis will celebrate her new jazz-rock fusion album in Minneapolis."**](http://www.startribune.com/former-prince-guitarist-donna-grantis-celebrates-new-jazz-rock-album-at-the-dakota/507678332/) by Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 26 March 2019 about 3rdEyeGirl, Aretha Franklin, Dakota (place), Donna Grantis, Hannah Welton, Toronto, YouTube ([mirror](https://web.archive.org/web/*/http://www.startribune.com/former-prince-guitarist-donna-grantis-celebrates-new-jazz-rock-album-at-the-dakota/507678332/))
 
 ----
 
@@ -44,7 +44,7 @@
 
 ----
 
- - [**"Prince-inspired fashions on display at Minneapolis Institute of Art -- The purple pop star inspired this fashionable assemblage in the museum's lobby."**](http://www.startribune.com/prince-inspired-fashions-on-display-at-minneapolis-institute-of-art/396029361/) by Sue Campbell in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 October 2016 about Minneapolis Institute of Art, museum, Toronto ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-inspired-fashions-on-display-at-minneapolis-institute-of-art/396029361/))
+ - [**"Prince-inspired fashions on display at Minneapolis Institute of Art -- The purple pop star inspired this fashionable assemblage in the museum's lobby."**](http://www.startribune.com/prince-inspired-fashions-on-display-at-minneapolis-institute-of-art/396029361/) by Sue Campbell in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 5 October 2016 about Minneapolis Institute of Art, museum, Toronto ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-inspired-fashions-on-display-at-minneapolis-institute-of-art/396029361/))
 
 ----
 

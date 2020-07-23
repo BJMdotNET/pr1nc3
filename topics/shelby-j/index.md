@@ -8,7 +8,7 @@
 
 ----
 
- - [**"Paisley Park rocks again with four of Prince's female protégées in concert"**](http://www.startribune.com/paisley-park-rocks-again-with-four-of-prince-s-female-protegees-in-concert/507037812/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 March 2019 about 3rdEyeGirl, Donna Grantis, Judith Hill, Liv Warfield, Sheila E., Shelby J. ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-rocks-again-with-four-of-prince-s-female-protegees-in-concert/507037812/))
+ - [**"Paisley Park rocks again with four of Prince's female protégées in concert"**](http://www.startribune.com/paisley-park-rocks-again-with-four-of-prince-s-female-protegees-in-concert/507037812/) by Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 12 March 2019 about 3rdEyeGirl, Donna Grantis, Judith Hill, Liv Warfield, Sheila E., Shelby J. ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-rocks-again-with-four-of-prince-s-female-protegees-in-concert/507037812/))
 
 ----
 

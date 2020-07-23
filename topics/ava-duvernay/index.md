@@ -1,6 +1,6 @@
 # Ava DuVernay
 
- - [**"Billie Eilish sweeps Lizzo in a historic Grammy battle of the newcomers -- Lizzo seized her Grammy moment, but 18-year-old Billie Eilish pulled off a historic sweep of the top prizes. "**](http://www.startribune.com/with-fierce-emotion-lizzo-seizes-her-grammy-moment-i-m-crying-cuz-i-love-you/567316152/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 27 January 2020 about Ava DuVernay, Gary Clark Jr., Grammy Award, John Legend, Lizzo, Madonna, Michael Jackson, Plectrum Electrum (album), The Roots, Usher ([mirror](https://web.archive.org/web/*/http://www.startribune.com/with-fierce-emotion-lizzo-seizes-her-grammy-moment-i-m-crying-cuz-i-love-you/567316152/))
+ - [**"Billie Eilish sweeps Lizzo in a historic Grammy battle of the newcomers -- Lizzo seized her Grammy moment, but 18-year-old Billie Eilish pulled off a historic sweep of the top prizes. "**](http://www.startribune.com/with-fierce-emotion-lizzo-seizes-her-grammy-moment-i-m-crying-cuz-i-love-you/567316152/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 27 January 2020 about Ava DuVernay, Gary Clark Jr., Grammy Award, John Legend, Lizzo, Madonna, Michael Jackson, Plectrum Electrum (album), The Roots, Usher ([mirror](https://web.archive.org/web/*/http://www.startribune.com/with-fierce-emotion-lizzo-seizes-her-grammy-moment-i-m-crying-cuz-i-love-you/567316152/))
 
 ----
 
@@ -20,7 +20,7 @@
 
 ----
 
- - [**"Star Tribune's 2019 Artists of the Year -- Meet the Minnesotans at the heart of the year's most groundbreaking show."**](http://www.startribune.com/6-minnesotans-are-2019-artists-of-the-year/564924782/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 6 January 2020 about 1999 (album), ASCAP, Ava DuVernay, Bangles, Bob Dylan, Dakota (place), exhibit, exhibition, Kenny Rogers, Lizzo, memoir, Minneapolis Institute of Art, museum, Netflix, Originals (album), Rearrange (song), Sheila E., Smithsonian (place), The Beautiful Ones (book), University of Minnesota, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/6-minnesotans-are-2019-artists-of-the-year/564924782/))
+ - [**"Star Tribune's 2019 Artists of the Year -- Meet the Minnesotans at the heart of the year's most groundbreaking show."**](http://www.startribune.com/6-minnesotans-are-2019-artists-of-the-year/564924782/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 6 January 2020 about 1999 (album), ASCAP, Ava DuVernay, Bangles, Bob Dylan, Dakota (place), exhibit, exhibition, Kenny Rogers, Lizzo, memoir, Minneapolis Institute of Art, museum, Netflix, Originals (album), Rearrange (song), Sheila E., Smithsonian (place), The Beautiful Ones (book), University of Minnesota, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/6-minnesotans-are-2019-artists-of-the-year/564924782/))
 
 ----
 
@@ -40,11 +40,11 @@
 
 ----
 
- - [**"Prince's estate to assume management of Paisley Park -- Graceland Holdings will no longer run the Chanhassen museum as of Oct. 1."**](http://www.startribune.com/prince-s-estate-to-assume-management-of-paisley-park/558364602/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 August 2019 about Ava DuVernay, Bangles, Comerica, contract, Graceland, Graceland Holdings, Joel Weinshanker, Kirk Johnson, memoir, museum, Netflix, Sharon Nelson, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-estate-to-assume-management-of-paisley-park/558364602/))
+ - [**"Prince's estate to assume management of Paisley Park -- Graceland Holdings will no longer run the Chanhassen museum as of Oct. 1."**](http://www.startribune.com/prince-s-estate-to-assume-management-of-paisley-park/558364602/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 26 August 2019 about Ava DuVernay, Bangles, Comerica, contract, Graceland, Graceland Holdings, Joel Weinshanker, Kirk Johnson, memoir, museum, Netflix, Sharon Nelson, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-estate-to-assume-management-of-paisley-park/558364602/))
 
 ----
 
- - [**"Ava DuVernay quits as director of Netflix's authorized Prince documentary"**](http://www.startribune.com/ava-duvernay-quits-as-director-of-netflix-s-authorized-prince-documentary/557885482/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 August 2019 about Ava DuVernay, Netflix ([mirror](https://web.archive.org/web/*/http://www.startribune.com/ava-duvernay-quits-as-director-of-netflix-s-authorized-prince-documentary/557885482/))
+ - [**"Ava DuVernay quits as director of Netflix's authorized Prince documentary"**](http://www.startribune.com/ava-duvernay-quits-as-director-of-netflix-s-authorized-prince-documentary/557885482/) by Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 22 August 2019 about Ava DuVernay, Netflix ([mirror](https://web.archive.org/web/*/http://www.startribune.com/ava-duvernay-quits-as-director-of-netflix-s-authorized-prince-documentary/557885482/))
 
 ----
 
@@ -56,7 +56,7 @@
 
 ----
 
- - [**"'A Wrinkle in Time' director Ava DuVernay to make Prince documentary for Netflix -- The filmmaker has the support of the late Minnesota musician's estate."**](http://www.startribune.com/ava-duvernay-to-make-prince-documentary-for-netflix/499015301/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 31 October 2018 about Ava DuVernay, Netflix ([mirror](https://web.archive.org/web/*/http://www.startribune.com/ava-duvernay-to-make-prince-documentary-for-netflix/499015301/))
+ - [**"'A Wrinkle in Time' director Ava DuVernay to make Prince documentary for Netflix -- The filmmaker has the support of the late Minnesota musician's estate."**](http://www.startribune.com/ava-duvernay-to-make-prince-documentary-for-netflix/499015301/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 31 October 2018 about Ava DuVernay, Netflix ([mirror](https://web.archive.org/web/*/http://www.startribune.com/ava-duvernay-to-make-prince-documentary-for-netflix/499015301/))
 
 ----
 

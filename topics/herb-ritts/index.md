@@ -4,7 +4,7 @@
 
 ----
 
- - [**"Herb Ritts photos of Bowie, Madonna, more to be exhibited"**](http://www.startribune.com/herb-ritts-photos-of-bowie-madonna-more-to-be-exhibited/507913581/) by The Associated Press in [Minneapolis Star Tribune](http://www.startribune.com/) on 31 March 2019 about Herb Ritts, museum ([mirror](https://web.archive.org/web/*/http://www.startribune.com/herb-ritts-photos-of-bowie-madonna-more-to-be-exhibited/507913581/))
+ - [**"Herb Ritts photos of Bowie, Madonna, more to be exhibited"**](http://www.startribune.com/herb-ritts-photos-of-bowie-madonna-more-to-be-exhibited/507913581/) by The Associated Press in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 31 March 2019 about Herb Ritts, museum ([mirror](https://web.archive.org/web/*/http://www.startribune.com/herb-ritts-photos-of-bowie-madonna-more-to-be-exhibited/507913581/))
 
 ----
 

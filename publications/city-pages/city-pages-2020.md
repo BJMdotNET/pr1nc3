@@ -1,5 +1,21 @@
 # 2020
 
+## July 2020 (1)
+
+ - [**"Klobuchar bill would cough up $10 billion for struggling music venues"**](http://www.citypages.com/music/klobuchar-bill-would-cough-up-10-billion-for-struggling-music-venues/571865291) in [City Pages](http://www.citypages.com/) on 22 July 2020 about Dakota (place), First Avenue (place) ([mirror](https://web.archive.org/web/*/http://www.citypages.com/music/klobuchar-bill-would-cough-up-10-billion-for-struggling-music-venues/571865291))
+
+----
+
+## June 2020 (2)
+
+ - [**"How a stay in Minneapolis helped Naeem finish 'Startisha' and set aside his Spank Rock persona"**](http://www.citypages.com/music/how-a-stay-in-minneapolis-helped-naeem-finish-startisha-and-set-aside-his-spank-rock-persona/571461571) in [City Pages](http://www.citypages.com/) on 24 June 2020 ([mirror](https://web.archive.org/web/*/http://www.citypages.com/music/how-a-stay-in-minneapolis-helped-naeem-finish-startisha-and-set-aside-his-spank-rock-persona/571461571))
+
+----
+
+ - [**"Paisley Park’s reopening… but there are rules. (Aren’t there always?)"**](http://www.citypages.com/music/paisley-parks-reopening-but-there-are-rules-arent-there-always/571464341) in [City Pages](http://www.citypages.com/) on 24 June 2020 ([mirror](https://web.archive.org/web/*/http://www.citypages.com/music/paisley-parks-reopening-but-there-are-rules-arent-there-always/571464341))
+
+----
+
 ## February 2020 (4)
 
  - [**"From Tony Toni Toné’ through 'Jimmy Lee,' Raphael Saadiq has crafted a unique career"**](http://www.citypages.com/music/from-tony-toni-tone-through-jimmy-lee-raphael-saadiq-has-crafted-a-unique-career/568004321) in [City Pages](http://www.citypages.com/) on 20 February 2020 about D’Angelo, First Avenue (place), Raphael Saadiq, Sheila E. ([mirror](https://web.archive.org/web/*/http://www.citypages.com/music/from-tony-toni-tone-through-jimmy-lee-raphael-saadiq-has-crafted-a-unique-career/568004321))

@@ -1,6 +1,6 @@
 # Bob Dylan
 
- - [**"Local artist pays tribute to Prince with giant mural at MSP airport -- Rock Martinez's mural of the music legend arrived for a yearlong stay at MSP as part of the airport's traveling exhibits program."**](http://www.startribune.com/local-artist-pays-tribute-to-prince-with-msp-airport-mural/567357372/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 28 January 2020 about airport, Alan Seiffert, ARTS@MSP, Bob Dylan, exhibit, I Would Die 4 U (song), merchandise, Minneapolis-St. Paul International Airport (place), MSP (place), museum, Rock Martinez, The Revolution, University of Minnesota, Weisman Art Museum (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/local-artist-pays-tribute-to-prince-with-msp-airport-mural/567357372/))
+ - [**"Local artist pays tribute to Prince with giant mural at MSP airport -- Rock Martinez's mural of the music legend arrived for a yearlong stay at MSP as part of the airport's traveling exhibits program."**](http://www.startribune.com/local-artist-pays-tribute-to-prince-with-msp-airport-mural/567357372/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 28 January 2020 about airport, Alan Seiffert, ARTS@MSP, Bob Dylan, exhibit, I Would Die 4 U (song), merchandise, Minneapolis-St. Paul International Airport (place), MSP (place), museum, Rock Martinez, The Revolution, University of Minnesota, Weisman Art Museum (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/local-artist-pays-tribute-to-prince-with-msp-airport-mural/567357372/))
 
 ----
 
@@ -8,7 +8,7 @@
 
 ----
 
- - [**"Star Tribune's 2019 Artists of the Year -- Meet the Minnesotans at the heart of the year's most groundbreaking show."**](http://www.startribune.com/6-minnesotans-are-2019-artists-of-the-year/564924782/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 6 January 2020 about 1999 (album), ASCAP, Ava DuVernay, Bangles, Bob Dylan, Dakota (place), exhibit, exhibition, Kenny Rogers, Lizzo, memoir, Minneapolis Institute of Art, museum, Netflix, Originals (album), Rearrange (song), Sheila E., Smithsonian (place), The Beautiful Ones (book), University of Minnesota, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/6-minnesotans-are-2019-artists-of-the-year/564924782/))
+ - [**"Star Tribune's 2019 Artists of the Year -- Meet the Minnesotans at the heart of the year's most groundbreaking show."**](http://www.startribune.com/6-minnesotans-are-2019-artists-of-the-year/564924782/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 6 January 2020 about 1999 (album), ASCAP, Ava DuVernay, Bangles, Bob Dylan, Dakota (place), exhibit, exhibition, Kenny Rogers, Lizzo, memoir, Minneapolis Institute of Art, museum, Netflix, Originals (album), Rearrange (song), Sheila E., Smithsonian (place), The Beautiful Ones (book), University of Minnesota, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/6-minnesotans-are-2019-artists-of-the-year/564924782/))
 
 ----
 
@@ -24,7 +24,7 @@
 
 ----
 
- - [**"20 gift ideas for the music lovers on your holiday list -- Twenty ideas for the music lovers on your holiday list. "**](http://www.startribune.com/20-gift-ideas-for-the-music-lovers-on-your-holiday-list/566181501/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 16 December 2019 about 1999 Super Deluxe (album), Bob Dylan, bootleg, Lizzo, memoir, Miles Davis, Morris Day, My Name Is Prince: 25 Inspired Years (book), On Time: A Princely Life in Funk (book), Randee St. Nicholas, Spiegel & Grau, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/20-gift-ideas-for-the-music-lovers-on-your-holiday-list/566181501/))
+ - [**"20 gift ideas for the music lovers on your holiday list -- Twenty ideas for the music lovers on your holiday list. "**](http://www.startribune.com/20-gift-ideas-for-the-music-lovers-on-your-holiday-list/566181501/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 16 December 2019 about 1999 Super Deluxe (album), Bob Dylan, bootleg, Lizzo, memoir, Miles Davis, Morris Day, My Name Is Prince: 25 Inspired Years (book), On Time: A Princely Life in Funk (book), Randee St. Nicholas, Spiegel & Grau, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/20-gift-ideas-for-the-music-lovers-on-your-holiday-list/566181501/))
 
 ----
 
@@ -36,7 +36,7 @@
 
 ----
 
- - [**"Garrison Keillor rips Bob Dylan in his latest book"**](http://www.startribune.com/garrison-keillor-rips-bob-dylan-in-his-latest-book/565146932/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 November 2019 about Bob Dylan, Garrison Keillor ([mirror](https://web.archive.org/web/*/http://www.startribune.com/garrison-keillor-rips-bob-dylan-in-his-latest-book/565146932/))
+ - [**"Garrison Keillor rips Bob Dylan in his latest book"**](http://www.startribune.com/garrison-keillor-rips-bob-dylan-in-his-latest-book/565146932/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 19 November 2019 about Bob Dylan, Garrison Keillor ([mirror](https://web.archive.org/web/*/http://www.startribune.com/garrison-keillor-rips-bob-dylan-in-his-latest-book/565146932/))
 
 ----
 

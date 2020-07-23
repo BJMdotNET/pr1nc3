@@ -20,7 +20,7 @@
 
 ----
 
- - [**"Prince estate: Trump violated promise not to play 'Purple Rain' -- The campaign played the song at the president's Target Center appearance after it promised a year ago to stop playing Prince's music at rallies, the estate said. "**](http://www.startribune.com/prince-estate-says-playing-purple-rain-at-trump-rally-was-unauthorized/562782832/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 11 October 2019 about Donald Trump, First Avenue (place), Prince Estate, Purple Rain (song), The Prince Estate, Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-estate-says-playing-purple-rain-at-trump-rally-was-unauthorized/562782832/))
+ - [**"Prince estate: Trump violated promise not to play 'Purple Rain' -- The campaign played the song at the president's Target Center appearance after it promised a year ago to stop playing Prince's music at rallies, the estate said. "**](http://www.startribune.com/prince-estate-says-playing-purple-rain-at-trump-rally-was-unauthorized/562782832/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 11 October 2019 about Donald Trump, First Avenue (place), Prince Estate, Purple Rain (song), The Prince Estate, Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-estate-says-playing-purple-rain-at-trump-rally-was-unauthorized/562782832/))
 
 ----
 
@@ -32,7 +32,7 @@
 
 ----
 
- - [**"Prince haunts Morris Day's new memoir: 'I still hear his voice in my head' -- "Purple Rain" co-star and Time leader Morris Day details his long friendship with Prince in a memoir that brings him home to the Twin Cities this week. "**](http://www.startribune.com/prince-haunts-morris-day-s-new-memoir-i-still-hear-his-voice-in-my-head/562430972/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 8 October 2019 about Aretha Franklin, Donald Trump, Jamie Starr, Janet Jackson, memoir, Morris Day, On Time: A Princely Life in Funk (book), Pandemonium (album), Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-haunts-morris-day-s-new-memoir-i-still-hear-his-voice-in-my-head/562430972/))
+ - [**"Prince haunts Morris Day's new memoir: 'I still hear his voice in my head' -- "Purple Rain" co-star and Time leader Morris Day details his long friendship with Prince in a memoir that brings him home to the Twin Cities this week. "**](http://www.startribune.com/prince-haunts-morris-day-s-new-memoir-i-still-hear-his-voice-in-my-head/562430972/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 8 October 2019 about Aretha Franklin, Donald Trump, Jamie Starr, Janet Jackson, memoir, Morris Day, On Time: A Princely Life in Funk (book), Pandemonium (album), Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-haunts-morris-day-s-new-memoir-i-still-hear-his-voice-in-my-head/562430972/))
 
 ----
 
@@ -72,7 +72,7 @@
 
 ----
 
- - [**"Boy George dishes on Prince and promises 'gorgeousness' at Twin Cities show -- Boy George speaks his mind, chatting about Prince, Trump and Culture Club's Twin Cities concert this weekend."**](http://www.startribune.com/boy-george-dishes-on-prince-and-promises-gorgeousness-at-twin-cities-show/387819481/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 July 2016 about Donald Trump, First Avenue (place), London (place), The Revolution, Trump, Xcel Energy Center (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/boy-george-dishes-on-prince-and-promises-gorgeousness-at-twin-cities-show/387819481/))
+ - [**"Boy George dishes on Prince and promises 'gorgeousness' at Twin Cities show -- Boy George speaks his mind, chatting about Prince, Trump and Culture Club's Twin Cities concert this weekend."**](http://www.startribune.com/boy-george-dishes-on-prince-and-promises-gorgeousness-at-twin-cities-show/387819481/) by Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 22 July 2016 about Donald Trump, First Avenue (place), London (place), The Revolution, Trump, Xcel Energy Center (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/boy-george-dishes-on-prince-and-promises-gorgeousness-at-twin-cities-show/387819481/))
 
 ----
 
@@ -80,7 +80,7 @@
 
 ----
 
- - [**"C.J.: James Corden is not vague about examining Prince's facial hair"**](http://www.startribune.com/c-j-james-corden-is-not-vague-about-examining-prince-s-facial-hair/370042781/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 February 2016 about C.J., Donald Trump, Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-james-corden-is-not-vague-about-examining-prince-s-facial-hair/370042781/))
+ - [**"C.J.: James Corden is not vague about examining Prince's facial hair"**](http://www.startribune.com/c-j-james-corden-is-not-vague-about-examining-prince-s-facial-hair/370042781/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 25 February 2016 about C.J., Donald Trump, Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-james-corden-is-not-vague-about-examining-prince-s-facial-hair/370042781/))
 
 ----
 

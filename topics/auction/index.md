@@ -24,7 +24,7 @@
 
 ----
 
- - [**"Prince guitar fetches record $700K in auction"**](http://www.startribune.com/prince-guitar-fetches-record-700k-in-auction/455397973/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 6 November 2017 about auction ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-guitar-fetches-record-700k-in-auction/455397973/))
+ - [**"Prince guitar fetches record $700K in auction"**](http://www.startribune.com/prince-guitar-fetches-record-700k-in-auction/455397973/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 6 November 2017 about auction ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-guitar-fetches-record-700k-in-auction/455397973/))
 
 ----
 
@@ -48,11 +48,11 @@
 
 ----
 
- - [**"Handwritten letter from Paul McCartney to Prince sells for nearly $15K at auction -- The 2-page letter was requesting a donation to a performing arts school he was establishing."**](http://www.startribune.com/handwritten-letter-from-paul-mccartney-to-prince-sells-for-nearly-15k-at-auction/387473981/) by Paul Walsh in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 July 2016 about auction ([mirror](https://web.archive.org/web/*/http://www.startribune.com/handwritten-letter-from-paul-mccartney-to-prince-sells-for-nearly-15k-at-auction/387473981/))
+ - [**"Handwritten letter from Paul McCartney to Prince sells for nearly $15K at auction -- The 2-page letter was requesting a donation to a performing arts school he was establishing."**](http://www.startribune.com/handwritten-letter-from-paul-mccartney-to-prince-sells-for-nearly-15k-at-auction/387473981/) by Paul Walsh in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 19 July 2016 about auction ([mirror](https://web.archive.org/web/*/http://www.startribune.com/handwritten-letter-from-paul-mccartney-to-prince-sells-for-nearly-15k-at-auction/387473981/))
 
 ----
 
- - [**"Bloomington guitar-maker's link to Prince passes to Colts owner -- Jim Irsay, owner of the Indianapolis Colts, collects famous guitars. Last week, he paid $137,500 in an auction to buy a guitar that at least looks a lot like the yellow version of Prince's "Cloud" guitar."**](http://www.startribune.com/bloomington-guitar-maker-s-link-to-prince-passes-to-colts-owner/385127861/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 30 June 2016 about auction, BET Awards, Cloud guitar, First Avenue (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/bloomington-guitar-maker-s-link-to-prince-passes-to-colts-owner/385127861/))
+ - [**"Bloomington guitar-maker's link to Prince passes to Colts owner -- Jim Irsay, owner of the Indianapolis Colts, collects famous guitars. Last week, he paid $137,500 in an auction to buy a guitar that at least looks a lot like the yellow version of Prince's "Cloud" guitar."**](http://www.startribune.com/bloomington-guitar-maker-s-link-to-prince-passes-to-colts-owner/385127861/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 30 June 2016 about auction, BET Awards, Cloud guitar, First Avenue (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/bloomington-guitar-maker-s-link-to-prince-passes-to-colts-owner/385127861/))
 
 ----
 
@@ -60,11 +60,11 @@
 
 ----
 
- - [**"Indianapolis Colts owner buys Prince's Yellow Cloud guitar"**](http://www.startribune.com/indianapolis-colts-owner-buys-prince-s-yellow-cloud-guitar/384401501/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 June 2016 about auction, Cloud guitar, Heritage Auctions ([mirror](https://web.archive.org/web/*/http://www.startribune.com/indianapolis-colts-owner-buys-prince-s-yellow-cloud-guitar/384401501/))
+ - [**"Indianapolis Colts owner buys Prince's Yellow Cloud guitar"**](http://www.startribune.com/indianapolis-colts-owner-buys-prince-s-yellow-cloud-guitar/384401501/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 25 June 2016 about auction, Cloud guitar, Heritage Auctions ([mirror](https://web.archive.org/web/*/http://www.startribune.com/indianapolis-colts-owner-buys-prince-s-yellow-cloud-guitar/384401501/))
 
 ----
 
- - [**"MCAD will auction early Prince photo by Robert Whitman Friday"**](http://www.startribune.com/mcad-will-auction-early-prince-photo-by-robert-whitman-friday/379940691/) by John Ewoldt in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 May 2016 about auction, Robert Whitman ([mirror](https://web.archive.org/web/*/http://www.startribune.com/mcad-will-auction-early-prince-photo-by-robert-whitman-friday/379940691/))
+ - [**"MCAD will auction early Prince photo by Robert Whitman Friday"**](http://www.startribune.com/mcad-will-auction-early-prince-photo-by-robert-whitman-friday/379940691/) by John Ewoldt in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 18 May 2016 about auction, Robert Whitman ([mirror](https://web.archive.org/web/*/http://www.startribune.com/mcad-will-auction-early-prince-photo-by-robert-whitman-friday/379940691/))
 
 ----
 
@@ -76,11 +76,11 @@
 
 ----
 
- - [**"Prince guitar to be auctioned in Beverly Hills"**](http://www.startribune.com/prince-guitar-to-be-auctioned-in-beverly-hills/379533661/) by Derrik J. Lang (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 14 May 2016 about auction ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-guitar-to-be-auctioned-in-beverly-hills/379533661/))
+ - [**"Prince guitar to be auctioned in Beverly Hills"**](http://www.startribune.com/prince-guitar-to-be-auctioned-in-beverly-hills/379533661/) by Derrik J. Lang (Associated Press) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 14 May 2016 about auction ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-guitar-to-be-auctioned-in-beverly-hills/379533661/))
 
 ----
 
- - [**"Putting a price on Prince collectibles: Don't be fooled by rip-offs -- The musician's sudden death boosts demand for related memorabilia. But be wary of rip-offs."**](http://www.startribune.com/putting-a-price-on-prince/379398971/) by Kim Palmer in [Minneapolis Star Tribune](http://www.startribune.com/) on 13 May 2016 about auction, Michael Jackson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/putting-a-price-on-prince/379398971/))
+ - [**"Putting a price on Prince collectibles: Don't be fooled by rip-offs -- The musician's sudden death boosts demand for related memorabilia. But be wary of rip-offs."**](http://www.startribune.com/putting-a-price-on-prince/379398971/) by Kim Palmer in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 13 May 2016 about auction, Michael Jackson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/putting-a-price-on-prince/379398971/))
 
 ----
 
@@ -88,7 +88,7 @@
 
 ----
 
- - [**"Prince's 'Purple Rain' coat is up for auction"**](http://www.startribune.com/ap-exclusive-prince-s-purple-rain-coat-is-up-for-auction/377542161/) by Nicole Evatt (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 29 April 2016 about Apollonia Kotero, auction, Katy Perry, Michael Jackson, motorcycle ([mirror](https://web.archive.org/web/*/http://www.startribune.com/ap-exclusive-prince-s-purple-rain-coat-is-up-for-auction/377542161/))
+ - [**"Prince's 'Purple Rain' coat is up for auction"**](http://www.startribune.com/ap-exclusive-prince-s-purple-rain-coat-is-up-for-auction/377542161/) by Nicole Evatt (Associated Press) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 29 April 2016 about Apollonia Kotero, auction, Katy Perry, Michael Jackson, motorcycle ([mirror](https://web.archive.org/web/*/http://www.startribune.com/ap-exclusive-prince-s-purple-rain-coat-is-up-for-auction/377542161/))
 
 ----
 
@@ -96,7 +96,7 @@
 
 ----
 
- - [**"Auction offers never-released Prince recordings, guitar, ex's wedding dress -- Never-released recordings, her engagement ring and wedding ring among the items, as well as a guitar Prince used early in his career."**](http://www.startribune.com/prince-s-ex-wife-first-manager-putting-prized-memorabilia-up-for-auction/371654961/) by Paul Walsh in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 March 2016 about auction ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-ex-wife-first-manager-putting-prized-memorabilia-up-for-auction/371654961/))
+ - [**"Auction offers never-released Prince recordings, guitar, ex's wedding dress -- Never-released recordings, her engagement ring and wedding ring among the items, as well as a guitar Prince used early in his career."**](http://www.startribune.com/prince-s-ex-wife-first-manager-putting-prized-memorabilia-up-for-auction/371654961/) by Paul Walsh in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 10 March 2016 about auction ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-ex-wife-first-manager-putting-prized-memorabilia-up-for-auction/371654961/))
 
 ----
 

@@ -1,6 +1,6 @@
 # Minnesota History Center
 
- - [**"6 cool things in music this week include Brandi Carlile, Billie Eilish, Common, Rosanne Cash and Justin Bieber"**](http://www.startribune.com/6-cool-things-in-music-this-week-include-brandi-carlile-billie-eilish-common-rosanne-cash-and-justin-bieber/568081192/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 21 February 2020 about exhibit, Fillmore Minneapolis (place), First Avenue (place), Jon Bream, Minnesota History Center, Prince: Before the Rain ([mirror](https://web.archive.org/web/*/http://www.startribune.com/6-cool-things-in-music-this-week-include-brandi-carlile-billie-eilish-common-rosanne-cash-and-justin-bieber/568081192/))
+ - [**"6 cool things in music this week include Brandi Carlile, Billie Eilish, Common, Rosanne Cash and Justin Bieber"**](http://www.startribune.com/6-cool-things-in-music-this-week-include-brandi-carlile-billie-eilish-common-rosanne-cash-and-justin-bieber/568081192/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 21 February 2020 about exhibit, Fillmore Minneapolis (place), First Avenue (place), Jon Bream, Minnesota History Center, Prince: Before the Rain ([mirror](https://web.archive.org/web/*/http://www.startribune.com/6-cool-things-in-music-this-week-include-brandi-carlile-billie-eilish-common-rosanne-cash-and-justin-bieber/568081192/))
 
 ----
 
@@ -16,11 +16,11 @@
 
 ----
 
- - [**"10 things you’ll learn about First Avenue in new Minnesota History Center show -- First Avenue is getting the museum treatment. Here are 10 things you’ll learn about Minnesota’s most fabled nightclub."**](http://www.startribune.com/10-things-you-ll-learn-about-first-avenue-in-new-minnesota-history-center-show/509374312/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 3 May 2019 about David Brewster, Erotic City (song), First Avenue (place), Jehovah’s Witness, Minnesota History Center, museum, Purple Rain (movie), Sam’s (place), Uncle Sam’s (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/10-things-you-ll-learn-about-first-avenue-in-new-minnesota-history-center-show/509374312/))
+ - [**"10 things you’ll learn about First Avenue in new Minnesota History Center show -- First Avenue is getting the museum treatment. Here are 10 things you’ll learn about Minnesota’s most fabled nightclub."**](http://www.startribune.com/10-things-you-ll-learn-about-first-avenue-in-new-minnesota-history-center-show/509374312/) by Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 3 May 2019 about David Brewster, Erotic City (song), First Avenue (place), Jehovah’s Witness, Minnesota History Center, museum, Purple Rain (movie), Sam’s (place), Uncle Sam’s (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/10-things-you-ll-learn-about-first-avenue-in-new-minnesota-history-center-show/509374312/))
 
 ----
 
- - [**"First Avenue comes alive at the Minnesota History Center -- The Minnesota History Center is opening a First Avenue exhibit that captures nearly 50 years of Minnesota music history."**](http://www.startribune.com/first-avenue-comes-alive-at-the-minnesota-history-center/509269541/) by Leila Navidi in [Minneapolis Star Tribune](http://www.startribune.com/) on 2 May 2019 about First Avenue (place), Minnesota History Center ([mirror](https://web.archive.org/web/*/http://www.startribune.com/first-avenue-comes-alive-at-the-minnesota-history-center/509269541/))
+ - [**"First Avenue comes alive at the Minnesota History Center -- The Minnesota History Center is opening a First Avenue exhibit that captures nearly 50 years of Minnesota music history."**](http://www.startribune.com/first-avenue-comes-alive-at-the-minnesota-history-center/509269541/) by Leila Navidi in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 2 May 2019 about First Avenue (place), Minnesota History Center ([mirror](https://web.archive.org/web/*/http://www.startribune.com/first-avenue-comes-alive-at-the-minnesota-history-center/509269541/))
 
 ----
 
@@ -32,7 +32,7 @@
 
 ----
 
- - [**"'Purple Rain' suit worn by Prince in movie on display in St. Paul -- The suit and other items can be viewed free of charge at the Minnesota History Center in St. Paul."**](http://www.startribune.com/purple-rain-suit-worn-by-prince-in-movie-goes-on-display-starting-today/419713513/) by Paul Walsh in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 April 2017 about Minnesota History Center ([mirror](https://web.archive.org/web/*/http://www.startribune.com/purple-rain-suit-worn-by-prince-in-movie-goes-on-display-starting-today/419713513/))
+ - [**"'Purple Rain' suit worn by Prince in movie on display in St. Paul -- The suit and other items can be viewed free of charge at the Minnesota History Center in St. Paul."**](http://www.startribune.com/purple-rain-suit-worn-by-prince-in-movie-goes-on-display-starting-today/419713513/) by Paul Walsh in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 18 April 2017 about Minnesota History Center ([mirror](https://web.archive.org/web/*/http://www.startribune.com/purple-rain-suit-worn-by-prince-in-movie-goes-on-display-starting-today/419713513/))
 
 ----
 

@@ -16,7 +16,7 @@
 
 ----
 
- - [**"Billie Eilish sweeps Lizzo in a historic Grammy battle of the newcomers -- Lizzo seized her Grammy moment, but 18-year-old Billie Eilish pulled off a historic sweep of the top prizes. "**](http://www.startribune.com/with-fierce-emotion-lizzo-seizes-her-grammy-moment-i-m-crying-cuz-i-love-you/567316152/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 27 January 2020 about Ava DuVernay, Gary Clark Jr., Grammy Award, John Legend, Lizzo, Madonna, Michael Jackson, Plectrum Electrum (album), The Roots, Usher ([mirror](https://web.archive.org/web/*/http://www.startribune.com/with-fierce-emotion-lizzo-seizes-her-grammy-moment-i-m-crying-cuz-i-love-you/567316152/))
+ - [**"Billie Eilish sweeps Lizzo in a historic Grammy battle of the newcomers -- Lizzo seized her Grammy moment, but 18-year-old Billie Eilish pulled off a historic sweep of the top prizes. "**](http://www.startribune.com/with-fierce-emotion-lizzo-seizes-her-grammy-moment-i-m-crying-cuz-i-love-you/567316152/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 27 January 2020 about Ava DuVernay, Gary Clark Jr., Grammy Award, John Legend, Lizzo, Madonna, Michael Jackson, Plectrum Electrum (album), The Roots, Usher ([mirror](https://web.archive.org/web/*/http://www.startribune.com/with-fierce-emotion-lizzo-seizes-her-grammy-moment-i-m-crying-cuz-i-love-you/567316152/))
 
 ----
 
@@ -68,7 +68,7 @@
 
 ----
 
- - [**"Lizzo reveals even more in overdue Rolling Stone cover story ahead of Grammys"**](http://www.startribune.com/lizzo-reveals-even-more-in-overdue-rolling-stone-cover-story-ahead-of-grammys/567201112/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 January 2020 about Grammy Award, Lizzo, Plectrum Electrum (album) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/lizzo-reveals-even-more-in-overdue-rolling-stone-cover-story-ahead-of-grammys/567201112/))
+ - [**"Lizzo reveals even more in overdue Rolling Stone cover story ahead of Grammys"**](http://www.startribune.com/lizzo-reveals-even-more-in-overdue-rolling-stone-cover-story-ahead-of-grammys/567201112/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 22 January 2020 about Grammy Award, Lizzo, Plectrum Electrum (album) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/lizzo-reveals-even-more-in-overdue-rolling-stone-cover-story-ahead-of-grammys/567201112/))
 
 ----
 
@@ -80,7 +80,7 @@
 
 ----
 
- - [**"Grammys will honor Prince with an all-star concert broadcast on CBS"**](http://www.startribune.com/grammys-will-honor-prince-with-an-all-star-concert-broadcast-on-cbs/566849132/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 9 January 2020 about Alicia Keys, Aretha Franklin, Beck, Chris Martin, Coldplay, Earth, Wind & Fire, Foo Fighters, Gary Clark Jr., Grammy Award, H.E.R., Jimmy Jam, John Legend, Juanes, Let’s Go Crazy (song), Let's Go Crazy: The Grammy Salute to Prince (event), Los Angeles Convention Center (place), Mavis Staples, Morris Day, Morris Day & The Time, Morris Day and The Time, St. Vincent, Stevie Wonder, Susanna Hoffs, Terry Lewis, The Revolution, The Time, Usher ([mirror](https://web.archive.org/web/*/http://www.startribune.com/grammys-will-honor-prince-with-an-all-star-concert-broadcast-on-cbs/566849132/))
+ - [**"Grammys will honor Prince with an all-star concert broadcast on CBS"**](http://www.startribune.com/grammys-will-honor-prince-with-an-all-star-concert-broadcast-on-cbs/566849132/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 9 January 2020 about Alicia Keys, Aretha Franklin, Beck, Chris Martin, Coldplay, Earth, Wind & Fire, Foo Fighters, Gary Clark Jr., Grammy Award, H.E.R., Jimmy Jam, John Legend, Juanes, Let’s Go Crazy (song), Let's Go Crazy: The Grammy Salute to Prince (event), Los Angeles Convention Center (place), Mavis Staples, Morris Day, Morris Day & The Time, Morris Day and The Time, St. Vincent, Stevie Wonder, Susanna Hoffs, Terry Lewis, The Revolution, The Time, Usher ([mirror](https://web.archive.org/web/*/http://www.startribune.com/grammys-will-honor-prince-with-an-all-star-concert-broadcast-on-cbs/566849132/))
 
 ----
 
@@ -88,7 +88,7 @@
 
 ----
 
- - [**"John Legend, H.E.R. to perform at Prince tribute concert"**](http://www.startribune.com/john-legend-h-e-r-to-perform-at-prince-tribute-concert/566845702/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 9 January 2020 about Alicia Keys, Beck, Chris Martin, Earth, Wind & Fire, Foo Fighters, Gary Clark Jr., Grammy Award, H.E.R., John Legend, Juanes, Let's Go Crazy: The Grammy Salute to Prince (event), Los Angeles Convention Center (place), Mavis Staples, Morris Day, Morris Day and The Time, Sheila E., St. Vincent, Susanna Hoffs, The Revolution, The Time, Usher ([mirror](https://web.archive.org/web/*/http://www.startribune.com/john-legend-h-e-r-to-perform-at-prince-tribute-concert/566845702/))
+ - [**"John Legend, H.E.R. to perform at Prince tribute concert"**](http://www.startribune.com/john-legend-h-e-r-to-perform-at-prince-tribute-concert/566845702/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 9 January 2020 about Alicia Keys, Beck, Chris Martin, Earth, Wind & Fire, Foo Fighters, Gary Clark Jr., Grammy Award, H.E.R., John Legend, Juanes, Let's Go Crazy: The Grammy Salute to Prince (event), Los Angeles Convention Center (place), Mavis Staples, Morris Day, Morris Day and The Time, Sheila E., St. Vincent, Susanna Hoffs, The Revolution, The Time, Usher ([mirror](https://web.archive.org/web/*/http://www.startribune.com/john-legend-h-e-r-to-perform-at-prince-tribute-concert/566845702/))
 
 ----
 
@@ -128,7 +128,7 @@
 
 ----
 
- - [**"Two plays opening this week add to the legend of Minnesota's own, Judy Garland -- Judy Garland is everywhere, including four versions of her at St. Paul's History Theatre."**](http://www.startribune.com/two-plays-opening-this-week-add-to-the-legend-of-minnesota-s-own-judy-garland/564933682/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 14 November 2019 about Grammy Award ([mirror](https://web.archive.org/web/*/http://www.startribune.com/two-plays-opening-this-week-add-to-the-legend-of-minnesota-s-own-judy-garland/564933682/))
+ - [**"Two plays opening this week add to the legend of Minnesota's own, Judy Garland -- Judy Garland is everywhere, including four versions of her at St. Paul's History Theatre."**](http://www.startribune.com/two-plays-opening-this-week-add-to-the-legend-of-minnesota-s-own-judy-garland/564933682/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 14 November 2019 about Grammy Award ([mirror](https://web.archive.org/web/*/http://www.startribune.com/two-plays-opening-this-week-add-to-the-legend-of-minnesota-s-own-judy-garland/564933682/))
 
 ----
 
@@ -172,11 +172,11 @@
 
 ----
 
- - [**"Paisley Park tours draw celebs, including Katy Perry, Bruno Mars and Shania Twain -- Green Day’s frontman brought his family. And Katy Perry made a return visit incognito, just like any other fan."**](http://www.startribune.com/paisley-park-tours-draw-celebs-including-katy-perry-bruno-mars-and-shania-twain/509009942/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 24 April 2019 about Grammy Award, Katy Perry, museum, Rearrange (song), Xcel Energy Center (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-tours-draw-celebs-including-katy-perry-bruno-mars-and-shania-twain/509009942/))
+ - [**"Paisley Park tours draw celebs, including Katy Perry, Bruno Mars and Shania Twain -- Green Day’s frontman brought his family. And Katy Perry made a return visit incognito, just like any other fan."**](http://www.startribune.com/paisley-park-tours-draw-celebs-including-katy-perry-bruno-mars-and-shania-twain/509009942/) by Chris Riemenschneider in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 24 April 2019 about Grammy Award, Katy Perry, museum, Rearrange (song), Xcel Energy Center (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-tours-draw-celebs-including-katy-perry-bruno-mars-and-shania-twain/509009942/))
 
 ----
 
- - [**"Gospel of Prince preached at Minnesota seminary"**](http://www.startribune.com/gospel-of-prince-preached-at-minnesota-seminary/508503562/) by Jean Hopfensperger in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 April 2019 about Grammy Award ([mirror](https://web.archive.org/web/*/http://www.startribune.com/gospel-of-prince-preached-at-minnesota-seminary/508503562/))
+ - [**"Gospel of Prince preached at Minnesota seminary"**](http://www.startribune.com/gospel-of-prince-preached-at-minnesota-seminary/508503562/) by Jean Hopfensperger in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 12 April 2019 about Grammy Award ([mirror](https://web.archive.org/web/*/http://www.startribune.com/gospel-of-prince-preached-at-minnesota-seminary/508503562/))
 
 ----
 
@@ -232,7 +232,7 @@
 
 ----
 
- - [**"Obituary: Prince was a diminutive giant who revolutionized pop -- Though he was a puzzle at times, the rocker was a true Minnesotan who changed music more than once in a nearly 40-year career."**](http://www.startribune.com/jon-bream-prince-was-a-once-in-a-generation-artist-who-never-rested-on-his-laurels/376594221/) by Chris Riemenschneider, Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 April 2016 about André Cymone, First Avenue (place), Grammy Award, John Nelson, Let’s Go Crazy (song), Little Red Corvette (song), Mayte, Mayte Garcia, Obama, Super Bowl, Super Bowl XLI (event), Tyka Nelson, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/jon-bream-prince-was-a-once-in-a-generation-artist-who-never-rested-on-his-laurels/376594221/))
+ - [**"Obituary: Prince was a diminutive giant who revolutionized pop -- Though he was a puzzle at times, the rocker was a true Minnesotan who changed music more than once in a nearly 40-year career."**](http://www.startribune.com/jon-bream-prince-was-a-once-in-a-generation-artist-who-never-rested-on-his-laurels/376594221/) by Chris Riemenschneider, Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 22 April 2016 about André Cymone, First Avenue (place), Grammy Award, John Nelson, Let’s Go Crazy (song), Little Red Corvette (song), Mayte, Mayte Garcia, Obama, Super Bowl, Super Bowl XLI (event), Tyka Nelson, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/jon-bream-prince-was-a-once-in-a-generation-artist-who-never-rested-on-his-laurels/376594221/))
 
 ----
 

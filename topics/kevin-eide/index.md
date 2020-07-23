@@ -72,7 +72,7 @@
 
 ----
 
- - [**"List of potential Prince heirs is narrowed -- In a 19-page ruling Friday, District Judge Kevin Eide partly untangled the complicated issues surrounding the question of who stands to inherit Prince's bounty."**](http://www.startribune.com/carver-county-judge-narrows-list-of-potential-prince-heirs/388696721/) by Mary Lynn Smith in [Minneapolis Star Tribune](http://www.startribune.com/) on 29 July 2016 about Kevin Eide ([mirror](https://web.archive.org/web/*/http://www.startribune.com/carver-county-judge-narrows-list-of-potential-prince-heirs/388696721/))
+ - [**"List of potential Prince heirs is narrowed -- In a 19-page ruling Friday, District Judge Kevin Eide partly untangled the complicated issues surrounding the question of who stands to inherit Prince's bounty."**](http://www.startribune.com/carver-county-judge-narrows-list-of-potential-prince-heirs/388696721/) by Mary Lynn Smith in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 29 July 2016 about Kevin Eide ([mirror](https://web.archive.org/web/*/http://www.startribune.com/carver-county-judge-narrows-list-of-potential-prince-heirs/388696721/))
 
 ----
 
@@ -92,7 +92,7 @@
 
 ----
 
- - [**"Judge won't hear media request at Prince estate hearing"**](http://www.startribune.com/judge-won-t-hear-media-request-at-prince-estate-hearing/384399061/) by Amy Forliti (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 June 2016 about Carver County, fentanyl, Kevin Eide, Prince Estate, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/judge-won-t-hear-media-request-at-prince-estate-hearing/384399061/))
+ - [**"Judge won't hear media request at Prince estate hearing"**](http://www.startribune.com/judge-won-t-hear-media-request-at-prince-estate-hearing/384399061/) by Amy Forliti (Associated Press) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 25 June 2016 about Carver County, fentanyl, Kevin Eide, Prince Estate, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/judge-won-t-hear-media-request-at-prince-estate-hearing/384399061/))
 
 ----
 
@@ -104,7 +104,7 @@
 
 ----
 
- - [**"Judge authorizes DNA testing of Prince's blood for any heir claims"**](http://www.startribune.com/prince-creditors-have-four-months-to-file-claims/378449441/) by Dan Browning in [Minneapolis Star Tribune](http://www.startribune.com/) on 7 May 2016 about Atlanta (place), Bremer Trust, Carver County, Kevin Eide ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-creditors-have-four-months-to-file-claims/378449441/))
+ - [**"Judge authorizes DNA testing of Prince's blood for any heir claims"**](http://www.startribune.com/prince-creditors-have-four-months-to-file-claims/378449441/) by Dan Browning in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 7 May 2016 about Atlanta (place), Bremer Trust, Carver County, Kevin Eide ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-creditors-have-four-months-to-file-claims/378449441/))
 
 ----
 
@@ -112,7 +112,7 @@
 
 ----
 
- - [**"Judge confirms appointment of special administrator on Prince's estate -- Siblings say they're "all on the same page" even as a new alleged heir emerges."**](http://www.startribune.com/court-hearing-today-in-carver-county-on-prince-estate/377780821/) by Emma Nelson in [Minneapolis Star Tribune](http://www.startribune.com/) on 2 May 2016 about Alfred Jackson, Bremer Trust, Carver County, John Nelson, Kevin Eide, Norrine Nelson, Omarr Baker, Prince Estate, Sharon Nelson, The Prince Estate, Tyka Nelson, Van Jones ([mirror](https://web.archive.org/web/*/http://www.startribune.com/court-hearing-today-in-carver-county-on-prince-estate/377780821/))
+ - [**"Judge confirms appointment of special administrator on Prince's estate -- Siblings say they're "all on the same page" even as a new alleged heir emerges."**](http://www.startribune.com/court-hearing-today-in-carver-county-on-prince-estate/377780821/) by Emma Nelson in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 2 May 2016 about Alfred Jackson, Bremer Trust, Carver County, John Nelson, Kevin Eide, Norrine Nelson, Omarr Baker, Prince Estate, Sharon Nelson, The Prince Estate, Tyka Nelson, Van Jones ([mirror](https://web.archive.org/web/*/http://www.startribune.com/court-hearing-today-in-carver-county-on-prince-estate/377780821/))
 
 ----
 

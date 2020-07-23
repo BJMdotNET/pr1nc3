@@ -1,5 +1,13 @@
 # 1999 (song)
 
+ - [**"Tween Pop Rock Sensations Hello Sister Launch Pilot Episode of Their Own TV Show, 'Pop Through The Decades,' Featuring Prince's "1999" -- Pilot episode shot in Nashville and Orlando follows the up-and-coming sister band as they recreate Prince's iconic party hit "1999""**](https://www.prnewswire.com/news-releases/tween-pop-rock-sensations-hello-sister-launch-pilot-episode-of-their-own-tv-show-pop-through-the-decades-featuring-princes-1999-301084989.html) in [PR Newswire](https://www.prnewswire.com/) on 29 June 2020 about 1999 (song), Dez Dickerson ([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/tween-pop-rock-sensations-hello-sister-launch-pilot-episode-of-their-own-tv-show-pop-through-the-decades-featuring-princes-1999-301084989.html))
+
+----
+
+ - [**"TikTok App Adds Prince’s Entire Music Catalog"**](https://variety.com/2020/digital/news/tiktok-princes-music-catalog-1234691489/) in [Variety](https://variety.com/) on 26 June 2020 about 1999 (album), 1999 (song), Controversy (album), Controversy (song), Let’s Go Crazy (song), Mitch Maguire, Prince Estate, Purple Rain (album), Purple Rain (song), The Prince Estate, TikTok, Troy Carter ([mirror](https://web.archive.org/web/*/https://variety.com/2020/digital/news/tiktok-princes-music-catalog-1234691489/))
+
+----
+
  - [**"Foo Fighters, Beck, H.E.R., Sheila E. Light Up ‘Grammy Salute to Prince’ Concert"**](https://www.yahoo.com/entertainment/foo-fighters-beck-h-e-233930375.html) in [Yahoo! Entertainment](https://www.yahoo.com/entertainment/) on 30 January 2020 about 1999 (song), Baby I’m a Star (song), Bangles, Beck, Chris Martin, Coldplay, Controversy (song), D’Angelo, Darling Nikki (song), Diamonds and Pearls (song), Earth, Wind & Fire, Foo Fighters, Fred Armisen, Gary Clark Jr., Gretchen Lieberum, H.E.R., Janelle Monae, Jerome Benton, Jimmy Jam, John Legend, Juanes, Jungle Love (song), Ken Ehrlich, Let’s Go Crazy (song), Lisa Coleman, Manic Monday (song), Mavis Staples, Maya Rudolph, Misty Copeland, Morris Day, Mountains (song), Nothing Compares 2 U (song), Pop Life (song), PRINCEss, Purple Rain (song), Raspberry Beret (song), Sheila E., St. Vincent, Stevie Wonder, Super Bowl, Terry Lewis, The Beautiful Ones (song), The Bird (song), The Glamorous Life (song), The Revolution, The Time, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://www.yahoo.com/entertainment/foo-fighters-beck-h-e-233930375.html))
 
 ----
@@ -120,7 +128,7 @@
 
 ----
 
- - [**"In first night here, Dave Chappelle thanks Minnesota for sending 'wild' politicians to D.C. -- Review: Like Springsteen, the comedian worked hard and reached deep as he launched a four-night run."**](http://www.startribune.com/in-first-night-here-dave-chappelle-thanks-minnesota-for-sending-wild-politicians-to-d-c/508592742/) by Neal Justin in [Minneapolis Star Tribune](http://www.startribune.com/) on 15 April 2019 about 1999 (song), Dave Chappelle ([mirror](https://web.archive.org/web/*/http://www.startribune.com/in-first-night-here-dave-chappelle-thanks-minnesota-for-sending-wild-politicians-to-d-c/508592742/))
+ - [**"In first night here, Dave Chappelle thanks Minnesota for sending 'wild' politicians to D.C. -- Review: Like Springsteen, the comedian worked hard and reached deep as he launched a four-night run."**](http://www.startribune.com/in-first-night-here-dave-chappelle-thanks-minnesota-for-sending-wild-politicians-to-d-c/508592742/) by Neal Justin in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 15 April 2019 about 1999 (song), Dave Chappelle ([mirror](https://web.archive.org/web/*/http://www.startribune.com/in-first-night-here-dave-chappelle-thanks-minnesota-for-sending-wild-politicians-to-d-c/508592742/))
 
 ----
 

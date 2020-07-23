@@ -4,7 +4,7 @@
 
 ----
 
- - [**"Foundation of Prince's second wife to honor him at gala"**](http://www.startribune.com/foundation-of-prince-s-second-wife-to-honor-him-at-gala/506568702/) by Leanne Italie (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 1 March 2019 about Apollonia Kotero, Chaka Khan, In a Perfect World, Manuela Testolini ([mirror](https://web.archive.org/web/*/http://www.startribune.com/foundation-of-prince-s-second-wife-to-honor-him-at-gala/506568702/))
+ - [**"Foundation of Prince's second wife to honor him at gala"**](http://www.startribune.com/foundation-of-prince-s-second-wife-to-honor-him-at-gala/506568702/) by Leanne Italie (Associated Press) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 1 March 2019 about Apollonia Kotero, Chaka Khan, In a Perfect World, Manuela Testolini ([mirror](https://web.archive.org/web/*/http://www.startribune.com/foundation-of-prince-s-second-wife-to-honor-him-at-gala/506568702/))
 
 ----
 

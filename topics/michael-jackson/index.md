@@ -4,7 +4,7 @@
 
 ----
 
- - [**"Death of Prince heir complicates estate settlement even more -- Nearly a third of Prince's estate could go to parties not related to him after two siblings signed agreements with Primary Wave."**](http://www.startribune.com/untimely-death-of-prince-heir-complicates-estate-settlement-even-more/568089142/) by Jon Bream, Mike Hughlett in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 February 2020 about Alfred Jackson, Carver County, Comerica, Dennis Patrick, fentanyl, fentanyl overdose, Fredrikson & Byron, hologram, John Nelson, L. Londell McMillan, Lawrence Mestel, Leonardo Starke, Michael Jackson, Mitchell Hamline Law Review, O.J. Simpson, Primary Wave, Prince Estate, probate court, Raffles Van Exel, Shawn Jackson, The Prince Estate, Troy Carter, Tyka Nelson, Whitney Houston, Xcel Energy Center (place), YouTube ([mirror](https://web.archive.org/web/*/http://www.startribune.com/untimely-death-of-prince-heir-complicates-estate-settlement-even-more/568089142/))
+ - [**"Death of Prince heir complicates estate settlement even more -- Nearly a third of Prince's estate could go to parties not related to him after two siblings signed agreements with Primary Wave."**](http://www.startribune.com/untimely-death-of-prince-heir-complicates-estate-settlement-even-more/568089142/) by Jon Bream, Mike Hughlett in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 22 February 2020 about Alfred Jackson, Carver County, Comerica, Dennis Patrick, fentanyl, fentanyl overdose, Fredrikson & Byron, hologram, John Nelson, L. Londell McMillan, Lawrence Mestel, Leonardo Starke, Michael Jackson, Mitchell Hamline Law Review, O.J. Simpson, Primary Wave, Prince Estate, probate court, Raffles Van Exel, Shawn Jackson, The Prince Estate, Troy Carter, Tyka Nelson, Whitney Houston, Xcel Energy Center (place), YouTube ([mirror](https://web.archive.org/web/*/http://www.startribune.com/untimely-death-of-prince-heir-complicates-estate-settlement-even-more/568089142/))
 
 ----
 
@@ -24,7 +24,7 @@
 
 ----
 
- - [**"Billie Eilish sweeps Lizzo in a historic Grammy battle of the newcomers -- Lizzo seized her Grammy moment, but 18-year-old Billie Eilish pulled off a historic sweep of the top prizes. "**](http://www.startribune.com/with-fierce-emotion-lizzo-seizes-her-grammy-moment-i-m-crying-cuz-i-love-you/567316152/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 27 January 2020 about Ava DuVernay, Gary Clark Jr., Grammy Award, John Legend, Lizzo, Madonna, Michael Jackson, Plectrum Electrum (album), The Roots, Usher ([mirror](https://web.archive.org/web/*/http://www.startribune.com/with-fierce-emotion-lizzo-seizes-her-grammy-moment-i-m-crying-cuz-i-love-you/567316152/))
+ - [**"Billie Eilish sweeps Lizzo in a historic Grammy battle of the newcomers -- Lizzo seized her Grammy moment, but 18-year-old Billie Eilish pulled off a historic sweep of the top prizes. "**](http://www.startribune.com/with-fierce-emotion-lizzo-seizes-her-grammy-moment-i-m-crying-cuz-i-love-you/567316152/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 27 January 2020 about Ava DuVernay, Gary Clark Jr., Grammy Award, John Legend, Lizzo, Madonna, Michael Jackson, Plectrum Electrum (album), The Roots, Usher ([mirror](https://web.archive.org/web/*/http://www.startribune.com/with-fierce-emotion-lizzo-seizes-her-grammy-moment-i-m-crying-cuz-i-love-you/567316152/))
 
 ----
 
@@ -40,7 +40,7 @@
 
 ----
 
- - [**"Prince wrongful death case dismissed; estate case continues"**](http://www.startribune.com/prince-wrongful-death-case-dismissed-estate-case-continues/567136462/) by Amy Forliti (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 January 2020 about Alfred Jackson, fentanyl, fentanyl overdose, Howard Kornfeld, Illinois (place), John Nelson, Kirk Johnson, Michael Jackson, Michael Schulenberg, oxycodone, Primary Wave, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-wrongful-death-case-dismissed-estate-case-continues/567136462/))
+ - [**"Prince wrongful death case dismissed; estate case continues"**](http://www.startribune.com/prince-wrongful-death-case-dismissed-estate-case-continues/567136462/) by Amy Forliti (Associated Press) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 20 January 2020 about Alfred Jackson, fentanyl, fentanyl overdose, Howard Kornfeld, Illinois (place), John Nelson, Kirk Johnson, Michael Jackson, Michael Schulenberg, oxycodone, Primary Wave, Trinity Medical Center (place), Tyka Nelson, Walgreens ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-wrongful-death-case-dismissed-estate-case-continues/567136462/))
 
 ----
 
@@ -60,7 +60,7 @@
 
 ----
 
- - [**"Lifetime returns to R. Kelly with a new powerful series"**](http://www.startribune.com/lifetime-returns-to-r-kelly-with-a-new-powerful-series/566568672/) by Mark Kennedy (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 30 December 2019 about Beyoncé, Illinois (place), Michael Jackson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/lifetime-returns-to-r-kelly-with-a-new-powerful-series/566568672/))
+ - [**"Lifetime returns to R. Kelly with a new powerful series"**](http://www.startribune.com/lifetime-returns-to-r-kelly-with-a-new-powerful-series/566568672/) by Mark Kennedy (Associated Press) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 30 December 2019 about Beyoncé, Illinois (place), Michael Jackson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/lifetime-returns-to-r-kelly-with-a-new-powerful-series/566568672/))
 
 ----
 
@@ -156,7 +156,7 @@
 
 ----
 
- - [**"Buddy Holly and Roy Orbison in Minnesota? Hologram tours of old stars are the hot new concert trend -- Buddy Holly is coming to town with Roy Orbison? Yes, rock 'n' roll holograms are here to stay."**](http://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 October 2019 about Aretha Franklin, Ed Sheeran, Frank Zappa, hologram, Lizzo, Michael Jackson, Morris Day, perfume ([mirror](https://web.archive.org/web/*/http://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/))
+ - [**"Buddy Holly and Roy Orbison in Minnesota? Hologram tours of old stars are the hot new concert trend -- Buddy Holly is coming to town with Roy Orbison? Yes, rock 'n' roll holograms are here to stay."**](http://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 12 October 2019 about Aretha Franklin, Ed Sheeran, Frank Zappa, hologram, Lizzo, Michael Jackson, Morris Day, perfume ([mirror](https://web.archive.org/web/*/http://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/))
 
 ----
 
@@ -164,7 +164,7 @@
 
 ----
 
- - [**"To Janet Jackson, Minneapolis will always be her 'home away from home' -- Balancing motherhood and megahits, Janet Jackson talks about her return to Minnesota, where she recorded her breakthrough albums. "**](http://www.startribune.com/to-janet-jackson-minneapolis-will-always-be-her-home-away-from-home/560054982/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 11 September 2019 about Janelle Monae, Janet Jackson, Jimmy Jam, Michael Jackson, Stevie Nicks, Terry Lewis, The Time ([mirror](https://web.archive.org/web/*/http://www.startribune.com/to-janet-jackson-minneapolis-will-always-be-her-home-away-from-home/560054982/))
+ - [**"To Janet Jackson, Minneapolis will always be her 'home away from home' -- Balancing motherhood and megahits, Janet Jackson talks about her return to Minnesota, where she recorded her breakthrough albums. "**](http://www.startribune.com/to-janet-jackson-minneapolis-will-always-be-her-home-away-from-home/560054982/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 11 September 2019 about Janelle Monae, Janet Jackson, Jimmy Jam, Michael Jackson, Stevie Nicks, Terry Lewis, The Time ([mirror](https://web.archive.org/web/*/http://www.startribune.com/to-janet-jackson-minneapolis-will-always-be-her-home-away-from-home/560054982/))
 
 ----
 
@@ -180,7 +180,7 @@
 
 ----
 
- - [**"Lionel Richie is ham on a shtick at the Minnesota State Fair -- He was chatty and comical in a sold-out hits-filled concert."**](http://www.startribune.com/lionel-richie-is-ham-on-a-shtick-at-the-minnesota-state-fair/558897292/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 31 August 2019 about Lionel Richie, Michael Jackson, Minnesota State Fair, State Fair, We Are the World (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/lionel-richie-is-ham-on-a-shtick-at-the-minnesota-state-fair/558897292/))
+ - [**"Lionel Richie is ham on a shtick at the Minnesota State Fair -- He was chatty and comical in a sold-out hits-filled concert."**](http://www.startribune.com/lionel-richie-is-ham-on-a-shtick-at-the-minnesota-state-fair/558897292/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 31 August 2019 about Lionel Richie, Michael Jackson, Minnesota State Fair, State Fair, We Are the World (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/lionel-richie-is-ham-on-a-shtick-at-the-minnesota-state-fair/558897292/))
 
 ----
 
@@ -188,7 +188,7 @@
 
 ----
 
- - [**"No, seriously: Weird Al and his fans explain why he's so big at the Minnesota State Fair -- Weird Al Yankovic is headed to the Minnesota State Fair's grandstand. We talked to fans of the clever parodist. "**](http://www.startribune.com/no-seriously-weird-al-and-his-fans-explain-why-he-s-so-big-at-the-minnesota-state-fair/557878752/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 August 2019 about First Avenue (place), Frank Zappa, Let’s Go Crazy (song), Michael Jackson, Minnesota State Fair, State Fair, Weird Al Yankovic ([mirror](https://web.archive.org/web/*/http://www.startribune.com/no-seriously-weird-al-and-his-fans-explain-why-he-s-so-big-at-the-minnesota-state-fair/557878752/))
+ - [**"No, seriously: Weird Al and his fans explain why he's so big at the Minnesota State Fair -- Weird Al Yankovic is headed to the Minnesota State Fair's grandstand. We talked to fans of the clever parodist. "**](http://www.startribune.com/no-seriously-weird-al-and-his-fans-explain-why-he-s-so-big-at-the-minnesota-state-fair/557878752/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 22 August 2019 about First Avenue (place), Frank Zappa, Let’s Go Crazy (song), Michael Jackson, Minnesota State Fair, State Fair, Weird Al Yankovic ([mirror](https://web.archive.org/web/*/http://www.startribune.com/no-seriously-weird-al-and-his-fans-explain-why-he-s-so-big-at-the-minnesota-state-fair/557878752/))
 
 ----
 
@@ -228,7 +228,7 @@
 
 ----
 
- - [**"TV picks for April 20-21: 'Ramy,' Prince, 'Motown 60: A Grammy Celebration'"**](http://www.startribune.com/tv-picks-for-april-20-21-ramy-prince-motown-60-a-grammy-celebration/508806472/) by Neal Justin in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 April 2019 about Michael Jackson, Slave Trade: How Prince Re-Made the Music Business (documentary) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/tv-picks-for-april-20-21-ramy-prince-motown-60-a-grammy-celebration/508806472/))
+ - [**"TV picks for April 20-21: 'Ramy,' Prince, 'Motown 60: A Grammy Celebration'"**](http://www.startribune.com/tv-picks-for-april-20-21-ramy-prince-motown-60-a-grammy-celebration/508806472/) by Neal Justin in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 19 April 2019 about Michael Jackson, Slave Trade: How Prince Re-Made the Music Business (documentary) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/tv-picks-for-april-20-21-ramy-prince-motown-60-a-grammy-celebration/508806472/))
 
 ----
 
@@ -256,7 +256,7 @@
 
 ----
 
- - [**"Floodgates are about to open on Prince's career after death -- A year after he died, Prince's lucrative second career is taking off. The industry moguls he despised are calling the shots — and his wishes don't apply."**](http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 April 2017 about Bravado, Bremer Trust, Carver County, Charles Koppelman, Comerica, contract, Graceland, Graceland Holdings, hologram, merchandise, Michael Jackson, museum, Omarr Baker, Spotify, Susan Rogers, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/))
+ - [**"Floodgates are about to open on Prince's career after death -- A year after he died, Prince's lucrative second career is taking off. The industry moguls he despised are calling the shots — and his wishes don't apply."**](http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/) by Chris Riemenschneider in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 18 April 2017 about Bravado, Bremer Trust, Carver County, Charles Koppelman, Comerica, contract, Graceland, Graceland Holdings, hologram, merchandise, Michael Jackson, museum, Omarr Baker, Spotify, Susan Rogers, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/))
 
 ----
 
@@ -308,7 +308,7 @@
 
 ----
 
- - [**"A Prince wish, Paisley Park eyed for museum like Graceland"**](http://www.startribune.com/a-prince-wish-paisley-park-eyed-for-museum-like-graceland/382529341/) by Steve Karnowski (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 June 2016 about Bremer Trust, Carver County, exhibit, exhibition, fentanyl, fentanyl overdose, Graceland, Jeremiah Freed, Michael Jackson, motorcycle, museum ([mirror](https://web.archive.org/web/*/http://www.startribune.com/a-prince-wish-paisley-park-eyed-for-museum-like-graceland/382529341/))
+ - [**"A Prince wish, Paisley Park eyed for museum like Graceland"**](http://www.startribune.com/a-prince-wish-paisley-park-eyed-for-museum-like-graceland/382529341/) by Steve Karnowski (Associated Press) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 10 June 2016 about Bremer Trust, Carver County, exhibit, exhibition, fentanyl, fentanyl overdose, Graceland, Jeremiah Freed, Michael Jackson, motorcycle, museum ([mirror](https://web.archive.org/web/*/http://www.startribune.com/a-prince-wish-paisley-park-eyed-for-museum-like-graceland/382529341/))
 
 ----
 
@@ -320,7 +320,7 @@
 
 ----
 
- - [**"Putting a price on Prince collectibles: Don't be fooled by rip-offs -- The musician's sudden death boosts demand for related memorabilia. But be wary of rip-offs."**](http://www.startribune.com/putting-a-price-on-prince/379398971/) by Kim Palmer in [Minneapolis Star Tribune](http://www.startribune.com/) on 13 May 2016 about auction, Michael Jackson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/putting-a-price-on-prince/379398971/))
+ - [**"Putting a price on Prince collectibles: Don't be fooled by rip-offs -- The musician's sudden death boosts demand for related memorabilia. But be wary of rip-offs."**](http://www.startribune.com/putting-a-price-on-prince/379398971/) by Kim Palmer in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 13 May 2016 about auction, Michael Jackson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/putting-a-price-on-prince/379398971/))
 
 ----
 
@@ -328,7 +328,7 @@
 
 ----
 
- - [**"Colorado inmate claims Prince is his father, seeks DNA test"**](http://www.startribune.com/colorado-inmate-claims-prince-is-his-father-seeks-dna-test/378823301/) by Steve Karnowski (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 May 2016 about Carlin Q. Williams, Carver County, Carver County District Court, Marsha Henson, Michael Jackson, Patrick Cousins, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/colorado-inmate-claims-prince-is-his-father-seeks-dna-test/378823301/))
+ - [**"Colorado inmate claims Prince is his father, seeks DNA test"**](http://www.startribune.com/colorado-inmate-claims-prince-is-his-father-seeks-dna-test/378823301/) by Steve Karnowski (Associated Press) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 10 May 2016 about Carlin Q. Williams, Carver County, Carver County District Court, Marsha Henson, Michael Jackson, Patrick Cousins, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/colorado-inmate-claims-prince-is-his-father-seeks-dna-test/378823301/))
 
 ----
 
@@ -352,7 +352,7 @@
 
 ----
 
- - [**"Prince's 'Purple Rain' coat is up for auction"**](http://www.startribune.com/ap-exclusive-prince-s-purple-rain-coat-is-up-for-auction/377542161/) by Nicole Evatt (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 29 April 2016 about Apollonia Kotero, auction, Katy Perry, Michael Jackson, motorcycle ([mirror](https://web.archive.org/web/*/http://www.startribune.com/ap-exclusive-prince-s-purple-rain-coat-is-up-for-auction/377542161/))
+ - [**"Prince's 'Purple Rain' coat is up for auction"**](http://www.startribune.com/ap-exclusive-prince-s-purple-rain-coat-is-up-for-auction/377542161/) by Nicole Evatt (Associated Press) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 29 April 2016 about Apollonia Kotero, auction, Katy Perry, Michael Jackson, motorcycle ([mirror](https://web.archive.org/web/*/http://www.startribune.com/ap-exclusive-prince-s-purple-rain-coat-is-up-for-auction/377542161/))
 
 ----
 

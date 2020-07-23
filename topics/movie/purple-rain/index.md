@@ -72,11 +72,11 @@
 
 ----
 
- - [**"Morris Day shows off his comedic chops in new Prince mockumentary"**](http://www.startribune.com/morris-day-shows-off-his-comedic-chops-in-new-prince-mockumentary/523094741/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 6 August 2019 about Computer Blue (song), Jungle Love (song), Morris Day, Purple Rain (movie), Quincy Jones, Sherman's Showcase (TV show), The Bird (song), Vicki, is the Water Warm Enough (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/morris-day-shows-off-his-comedic-chops-in-new-prince-mockumentary/523094741/))
+ - [**"Morris Day shows off his comedic chops in new Prince mockumentary"**](http://www.startribune.com/morris-day-shows-off-his-comedic-chops-in-new-prince-mockumentary/523094741/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 6 August 2019 about Computer Blue (song), Jungle Love (song), Morris Day, Purple Rain (movie), Quincy Jones, Sherman's Showcase (TV show), The Bird (song), Vicki, is the Water Warm Enough (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/morris-day-shows-off-his-comedic-chops-in-new-prince-mockumentary/523094741/))
 
 ----
 
- - [**"TV picks for Aug. 7: '90210' gang reunites plus 'Bulletproof' and Morris Day on 'Sherman's Showcase' -- Much of the original cast of "Beverly Hills, 90210" is back playing versions of themselves. "**](http://www.startribune.com/tv-picks-for-aug-7-90210-gang-reunites-plus-bulletproof-and-morris-day-on-sherman-s-showcase/523234941/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 6 August 2019 about Jungle Love (song), Morris Day, Purple Rain (movie), Sherman's Showcase (TV show) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/tv-picks-for-aug-7-90210-gang-reunites-plus-bulletproof-and-morris-day-on-sherman-s-showcase/523234941/))
+ - [**"TV picks for Aug. 7: '90210' gang reunites plus 'Bulletproof' and Morris Day on 'Sherman's Showcase' -- Much of the original cast of "Beverly Hills, 90210" is back playing versions of themselves. "**](http://www.startribune.com/tv-picks-for-aug-7-90210-gang-reunites-plus-bulletproof-and-morris-day-on-sherman-s-showcase/523234941/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 6 August 2019 about Jungle Love (song), Morris Day, Purple Rain (movie), Sherman's Showcase (TV show) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/tv-picks-for-aug-7-90210-gang-reunites-plus-bulletproof-and-morris-day-on-sherman-s-showcase/523234941/))
 
 ----
 
@@ -116,7 +116,7 @@
 
 ----
 
- - [**"Imagine, if you will, a picture with John Travolta as the 'Purple Rain' kid"**](http://www.startribune.com/c-j-imagine-if-you-will-a-picture-with-john-travolta-as-the-purple-rain-kid/512260012/) by C.J. (Cheryl Johnson) in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 July 2019 about Alan Light, Albert Magnoli, John Travolta, Let’s Go Crazy (song), Morris Hayes, Neal Karlen, New Power Generation, Purple Rain (album), Purple Rain (movie), Purple Rain (song), The Revolution ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-imagine-if-you-will-a-picture-with-john-travolta-as-the-purple-rain-kid/512260012/))
+ - [**"Imagine, if you will, a picture with John Travolta as the 'Purple Rain' kid"**](http://www.startribune.com/c-j-imagine-if-you-will-a-picture-with-john-travolta-as-the-purple-rain-kid/512260012/) by C.J. (Cheryl Johnson) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 5 July 2019 about Alan Light, Albert Magnoli, John Travolta, Let’s Go Crazy (song), Morris Hayes, Neal Karlen, New Power Generation, Purple Rain (album), Purple Rain (movie), Purple Rain (song), SiriusXM, The Revolution ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-imagine-if-you-will-a-picture-with-john-travolta-as-the-purple-rain-kid/512260012/))
 
 ----
 
@@ -144,11 +144,11 @@
 
 ----
 
- - [**"10 things you’ll learn about First Avenue in new Minnesota History Center show -- First Avenue is getting the museum treatment. Here are 10 things you’ll learn about Minnesota’s most fabled nightclub."**](http://www.startribune.com/10-things-you-ll-learn-about-first-avenue-in-new-minnesota-history-center-show/509374312/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 3 May 2019 about David Brewster, Erotic City (song), First Avenue (place), Jehovah’s Witness, Minnesota History Center, museum, Purple Rain (movie), Sam’s (place), Uncle Sam’s (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/10-things-you-ll-learn-about-first-avenue-in-new-minnesota-history-center-show/509374312/))
+ - [**"10 things you’ll learn about First Avenue in new Minnesota History Center show -- First Avenue is getting the museum treatment. Here are 10 things you’ll learn about Minnesota’s most fabled nightclub."**](http://www.startribune.com/10-things-you-ll-learn-about-first-avenue-in-new-minnesota-history-center-show/509374312/) by Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 3 May 2019 about David Brewster, Erotic City (song), First Avenue (place), Jehovah’s Witness, Minnesota History Center, museum, Purple Rain (movie), Sam’s (place), Uncle Sam’s (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/10-things-you-ll-learn-about-first-avenue-in-new-minnesota-history-center-show/509374312/))
 
 ----
 
- - [**"David Bourn, projectionist who lit up the skies and put Prince in the spotlight, dies at 77"**](http://www.startribune.com/david-bourn-projectionist-who-lit-up-the-skies-and-put-prince-in-the-spotlight-dies-at-77/508966712/) by Richard Chin in [Minneapolis Star Tribune](http://www.startribune.com/) on 23 April 2019 about First Avenue (place), Purple Rain (movie) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/david-bourn-projectionist-who-lit-up-the-skies-and-put-prince-in-the-spotlight-dies-at-77/508966712/))
+ - [**"David Bourn, projectionist who lit up the skies and put Prince in the spotlight, dies at 77"**](http://www.startribune.com/david-bourn-projectionist-who-lit-up-the-skies-and-put-prince-in-the-spotlight-dies-at-77/508966712/) by Richard Chin in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 23 April 2019 about First Avenue (place), Purple Rain (movie) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/david-bourn-projectionist-who-lit-up-the-skies-and-put-prince-in-the-spotlight-dies-at-77/508966712/))
 
 ----
 
@@ -156,7 +156,7 @@
 
 ----
 
- - [**"Prince's greatest talent? Self-confidence, says the manager who landed 'Purple Rain' -- Bob Cavallo recounts some of the tales he'll tell at Paisley Park for the third annual Celebration."**](http://www.startribune.com/prince-s-greatest-talent-self-confidence-says-the-manager-who-landed-purple-rain/508774052/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 April 2019 about Bob Cavallo, Graffiti Bridge (movie), Purple Rain (movie) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-greatest-talent-self-confidence-says-the-manager-who-landed-purple-rain/508774052/))
+ - [**"Prince's greatest talent? Self-confidence, says the manager who landed 'Purple Rain' -- Bob Cavallo recounts some of the tales he'll tell at Paisley Park for the third annual Celebration."**](http://www.startribune.com/prince-s-greatest-talent-self-confidence-says-the-manager-who-landed-purple-rain/508774052/) by Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 20 April 2019 about Bob Cavallo, Graffiti Bridge (movie), Purple Rain (movie) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-greatest-talent-self-confidence-says-the-manager-who-landed-purple-rain/508774052/))
 
 ----
 

@@ -1,5 +1,21 @@
 # 2020
 
+## July 2020 (1)
+
+ - [**"Prince Estate Drops Previously Unreleased 1979 Version of ‘I Could Never Take the Place of Your Man’ (Listen)"**](https://variety.com/2020/music/news/prince-unreleased-i-could-never-take-the-place-listen-1234708369/) in [Variety](https://variety.com/) on 16 July 2020 about Witness 4 The Prosecution (song) ([mirror](https://web.archive.org/web/*/https://variety.com/2020/music/news/prince-unreleased-i-could-never-take-the-place-listen-1234708369/))
+
+----
+
+## June 2020 (2)
+
+ - [**"TikTok App Adds Prince’s Entire Music Catalog"**](https://variety.com/2020/digital/news/tiktok-princes-music-catalog-1234691489/) in [Variety](https://variety.com/) on 26 June 2020 about 1999 (album), 1999 (song), Controversy (album), Controversy (song), Let’s Go Crazy (song), Mitch Maguire, Prince Estate, Purple Rain (album), Purple Rain (song), The Prince Estate, TikTok, Troy Carter ([mirror](https://web.archive.org/web/*/https://variety.com/2020/digital/news/tiktok-princes-music-catalog-1234691489/))
+
+----
+
+ - [**"Prince’s Classic ‘Sign O’ the Times’ Deluxe Reissue Coming in September, With 63 Bonus Tracks"**](https://variety.com/2020/music/news/prince-sign-o-the-times-deluxe-reissue-bonus-tracks-1234689805/) in [Variety](https://variety.com/) on 25 June 2020 about Andrea Swensson, bootleg, Daphne A. Brooks, Dave Chappelle, Dream Factory (album), Duane Tudahl, I Could Never Take The Place Of Your Man (song), Jeff Katz, Lenny Kravitz, Miles Davis, Susan Rogers, The Revolution, U Got the Look (song), vault, Witness 4 The Prosecution (song) ([mirror](https://web.archive.org/web/*/https://variety.com/2020/music/news/prince-sign-o-the-times-deluxe-reissue-bonus-tracks-1234689805/))
+
+----
+
 ## February 2020 (1)
 
  - [**"Juicy J Slams His Record Company in New Song, Then Backs Down"**](https://variety.com/2020/biz/news/juicy-j-slams-columbia-records-sony-music-1203519947/) in [Variety](https://variety.com/) on 29 February 2020 about Juicy J, Soul Train Awards ([mirror](https://web.archive.org/web/*/https://variety.com/2020/biz/news/juicy-j-slams-columbia-records-sony-music-1203519947/))

@@ -1,5 +1,9 @@
 # Spotify
 
+ - [**"With TikTok, music fans can now legally lip sync to all of Prince's songs"**](https://www.startribune.com/with-tiktok-music-fans-can-now-legally-lip-sync-to-all-of-prince-s-songs/571529892/) in [Minneapolis Star Tribune](https://www.startribune.com/) on 28 June 2020 about Let’s Go Crazy (song), Lizzo, Prince Estate, Spotify, The Prince Estate, TikTok, Troy Carter, YouTube ([mirror](https://web.archive.org/web/*/https://www.startribune.com/with-tiktok-music-fans-can-now-legally-lip-sync-to-all-of-prince-s-songs/571529892/))
+
+----
+
  - [**"A Minnesota Geek’s Experience with Retro Audio"**](http://twincitiesgeek.com/2020/02/a-minnesota-geeks-experience-with-retro-audio/) in [twincitiesgeek.com](http://twincitiesgeek.com/) on 15 February 2020 about Electric Fetus (place), Spotify, YouTube ([mirror](https://web.archive.org/web/*/http://twincitiesgeek.com/2020/02/a-minnesota-geeks-experience-with-retro-audio/))
 
 ----
@@ -28,11 +32,11 @@
 
 ----
 
- - [**"They're one of Minnesota's most-streamed music acts – and you probably haven't heard of them -- Straight out of New Prague, piano duo the O'Neill Brothers have rolled with the times to become unlikely stars of digital streaming."**](http://www.startribune.com/they-re-one-of-minnesota-s-most-streamed-music-acts-and-you-probably-haven-t-heard-of-them/564655012/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 9 November 2019 about Apple Music, Spotify ([mirror](https://web.archive.org/web/*/http://www.startribune.com/they-re-one-of-minnesota-s-most-streamed-music-acts-and-you-probably-haven-t-heard-of-them/564655012/))
+ - [**"They're one of Minnesota's most-streamed music acts – and you probably haven't heard of them -- Straight out of New Prague, piano duo the O'Neill Brothers have rolled with the times to become unlikely stars of digital streaming."**](http://www.startribune.com/they-re-one-of-minnesota-s-most-streamed-music-acts-and-you-probably-haven-t-heard-of-them/564655012/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 9 November 2019 about Apple Music, Spotify ([mirror](https://web.archive.org/web/*/http://www.startribune.com/they-re-one-of-minnesota-s-most-streamed-music-acts-and-you-probably-haven-t-heard-of-them/564655012/))
 
 ----
 
- - [**"3 secrets to the O'Neill Brothers' streaming success -- How the piano-playing siblings have racked up big numbers via Spotify and other digital music sites."**](http://www.startribune.com/tips-for-success-on-streaming-media/564657862/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 8 November 2019 about Spotify ([mirror](https://web.archive.org/web/*/http://www.startribune.com/tips-for-success-on-streaming-media/564657862/))
+ - [**"3 secrets to the O'Neill Brothers' streaming success -- How the piano-playing siblings have racked up big numbers via Spotify and other digital music sites."**](http://www.startribune.com/tips-for-success-on-streaming-media/564657862/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 8 November 2019 about Spotify ([mirror](https://web.archive.org/web/*/http://www.startribune.com/tips-for-success-on-streaming-media/564657862/))
 
 ----
 
@@ -96,7 +100,7 @@
 
 ----
 
- - [**"Floodgates are about to open on Prince's career after death -- A year after he died, Prince's lucrative second career is taking off. The industry moguls he despised are calling the shots — and his wishes don't apply."**](http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 April 2017 about Bravado, Bremer Trust, Carver County, Charles Koppelman, Comerica, contract, Graceland, Graceland Holdings, hologram, merchandise, Michael Jackson, museum, Omarr Baker, Spotify, Susan Rogers, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/))
+ - [**"Floodgates are about to open on Prince's career after death -- A year after he died, Prince's lucrative second career is taking off. The industry moguls he despised are calling the shots — and his wishes don't apply."**](http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/) by Chris Riemenschneider in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 18 April 2017 about Bravado, Bremer Trust, Carver County, Charles Koppelman, Comerica, contract, Graceland, Graceland Holdings, hologram, merchandise, Michael Jackson, museum, Omarr Baker, Spotify, Susan Rogers, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/))
 
 ----
 
@@ -144,7 +148,7 @@
 
 ----
 
- - [**"Want to hear Prince music? Radio stations fill online void in wake of his death -- Fans can't hear his music on Spotify and other online music sites, but 89.3 the Current and First Avenue are going all out."**](http://www.startribune.com/want-to-hear-prince-music-radio-stations-fill-online-void-in-wake-of-his-death/376744351/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 April 2016 about Spotify ([mirror](https://web.archive.org/web/*/http://www.startribune.com/want-to-hear-prince-music-radio-stations-fill-online-void-in-wake-of-his-death/376744351/))
+ - [**"Want to hear Prince music? Radio stations fill online void in wake of his death -- Fans can't hear his music on Spotify and other online music sites, but 89.3 the Current and First Avenue are going all out."**](http://www.startribune.com/want-to-hear-prince-music-radio-stations-fill-online-void-in-wake-of-his-death/376744351/) by Chris Riemenschneider in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 22 April 2016 about Spotify ([mirror](https://web.archive.org/web/*/http://www.startribune.com/want-to-hear-prince-music-radio-stations-fill-online-void-in-wake-of-his-death/376744351/))
 
 ----
 

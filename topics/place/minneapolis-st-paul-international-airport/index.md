@@ -4,7 +4,7 @@
 
 ----
 
- - [**"Local artist pays tribute to Prince with giant mural at MSP airport -- Rock Martinez's mural of the music legend arrived for a yearlong stay at MSP as part of the airport's traveling exhibits program."**](http://www.startribune.com/local-artist-pays-tribute-to-prince-with-msp-airport-mural/567357372/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 28 January 2020 about airport, Alan Seiffert, ARTS@MSP, Bob Dylan, exhibit, I Would Die 4 U (song), merchandise, Minneapolis-St. Paul International Airport (place), MSP (place), museum, Rock Martinez, The Revolution, University of Minnesota, Weisman Art Museum (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/local-artist-pays-tribute-to-prince-with-msp-airport-mural/567357372/))
+ - [**"Local artist pays tribute to Prince with giant mural at MSP airport -- Rock Martinez's mural of the music legend arrived for a yearlong stay at MSP as part of the airport's traveling exhibits program."**](http://www.startribune.com/local-artist-pays-tribute-to-prince-with-msp-airport-mural/567357372/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 28 January 2020 about airport, Alan Seiffert, ARTS@MSP, Bob Dylan, exhibit, I Would Die 4 U (song), merchandise, Minneapolis-St. Paul International Airport (place), MSP (place), museum, Rock Martinez, The Revolution, University of Minnesota, Weisman Art Museum (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/local-artist-pays-tribute-to-prince-with-msp-airport-mural/567357372/))
 
 ----
 
@@ -16,11 +16,11 @@
 
 ----
 
- - [**"Prince store at MSP gives travelers a glimpse at superstar's Minnesota life -- Terminal shop organized around parts of Minnesota musician's life to lure fans."**](http://www.startribune.com/prince-store-at-msp-gives-travelers-a-glimpse-at-superstar-s-minnesota-life/556690022/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 August 2019 about airport, Bravado, DJ Dudley D, merchandise, Minneapolis-St. Paul International Airport (place), museum, Prince Estate, Super Bowl, The Prince Estate ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-store-at-msp-gives-travelers-a-glimpse-at-superstar-s-minnesota-life/556690022/))
+ - [**"Prince store at MSP gives travelers a glimpse at superstar's Minnesota life -- Terminal shop organized around parts of Minnesota musician's life to lure fans."**](http://www.startribune.com/prince-store-at-msp-gives-travelers-a-glimpse-at-superstar-s-minnesota-life/556690022/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 20 August 2019 about airport, Bravado, DJ Dudley D, merchandise, Minneapolis-St. Paul International Airport (place), museum, Prince Estate, Super Bowl, The Prince Estate ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-store-at-msp-gives-travelers-a-glimpse-at-superstar-s-minnesota-life/556690022/))
 
 ----
 
- - [**"New Prince store at MSP airport reels in fandom"**](http://www.startribune.com/new-prince-store-at-msp-airport-reels-in-fandom/511212802/) by Jackie Crosby in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 June 2019 about airport, Bravado, merchandise, Minneapolis-St. Paul International Airport (place), Prince Estate, The Prince Estate ([mirror](https://web.archive.org/web/*/http://www.startribune.com/new-prince-store-at-msp-airport-reels-in-fandom/511212802/))
+ - [**"New Prince store at MSP airport reels in fandom"**](http://www.startribune.com/new-prince-store-at-msp-airport-reels-in-fandom/511212802/) by Jackie Crosby in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 12 June 2019 about airport, Bravado, merchandise, Minneapolis-St. Paul International Airport (place), Prince Estate, The Prince Estate ([mirror](https://web.archive.org/web/*/http://www.startribune.com/new-prince-store-at-msp-airport-reels-in-fandom/511212802/))
 
 ----
 

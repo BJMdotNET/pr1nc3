@@ -1,6 +1,6 @@
 # exhibition
 
- - [**"Star Tribune's 2019 Artists of the Year -- Meet the Minnesotans at the heart of the year's most groundbreaking show."**](http://www.startribune.com/6-minnesotans-are-2019-artists-of-the-year/564924782/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 6 January 2020 about 1999 (album), ASCAP, Ava DuVernay, Bangles, Bob Dylan, Dakota (place), exhibit, exhibition, Kenny Rogers, Lizzo, memoir, Minneapolis Institute of Art, museum, Netflix, Originals (album), Rearrange (song), Sheila E., Smithsonian (place), The Beautiful Ones (book), University of Minnesota, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/6-minnesotans-are-2019-artists-of-the-year/564924782/))
+ - [**"Star Tribune's 2019 Artists of the Year -- Meet the Minnesotans at the heart of the year's most groundbreaking show."**](http://www.startribune.com/6-minnesotans-are-2019-artists-of-the-year/564924782/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 6 January 2020 about 1999 (album), ASCAP, Ava DuVernay, Bangles, Bob Dylan, Dakota (place), exhibit, exhibition, Kenny Rogers, Lizzo, memoir, Minneapolis Institute of Art, museum, Netflix, Originals (album), Rearrange (song), Sheila E., Smithsonian (place), The Beautiful Ones (book), University of Minnesota, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/6-minnesotans-are-2019-artists-of-the-year/564924782/))
 
 ----
 
@@ -16,7 +16,7 @@
 
 ----
 
- - [**"Don't overlook splashy coffee table books as holiday gifts"**](http://www.startribune.com/don-t-overlook-splashy-coffee-table-books-as-holiday-gifts/565099382/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 November 2019 about Andy Warhol, Celebration, exhibit, exhibition, Hachette Books, museum, Penguin Random House, Randee St. Nicholas, trademark ([mirror](https://web.archive.org/web/*/http://www.startribune.com/don-t-overlook-splashy-coffee-table-books-as-holiday-gifts/565099382/))
+ - [**"Don't overlook splashy coffee table books as holiday gifts"**](http://www.startribune.com/don-t-overlook-splashy-coffee-table-books-as-holiday-gifts/565099382/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 19 November 2019 about Andy Warhol, Celebration, exhibit, exhibition, Hachette Books, museum, Penguin Random House, Randee St. Nicholas, trademark ([mirror](https://web.archive.org/web/*/http://www.startribune.com/don-t-overlook-splashy-coffee-table-books-as-holiday-gifts/565099382/))
 
 ----
 
@@ -60,15 +60,15 @@
 
 ----
 
- - [**"A Prince wish, Paisley Park eyed for museum like Graceland"**](http://www.startribune.com/a-prince-wish-paisley-park-eyed-for-museum-like-graceland/382529341/) by Steve Karnowski (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 June 2016 about Bremer Trust, Carver County, exhibit, exhibition, fentanyl, fentanyl overdose, Graceland, Jeremiah Freed, Michael Jackson, motorcycle, museum ([mirror](https://web.archive.org/web/*/http://www.startribune.com/a-prince-wish-paisley-park-eyed-for-museum-like-graceland/382529341/))
+ - [**"A Prince wish, Paisley Park eyed for museum like Graceland"**](http://www.startribune.com/a-prince-wish-paisley-park-eyed-for-museum-like-graceland/382529341/) by Steve Karnowski (Associated Press) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 10 June 2016 about Bremer Trust, Carver County, exhibit, exhibition, fentanyl, fentanyl overdose, Graceland, Jeremiah Freed, Michael Jackson, motorcycle, museum ([mirror](https://web.archive.org/web/*/http://www.startribune.com/a-prince-wish-paisley-park-eyed-for-museum-like-graceland/382529341/))
 
 ----
 
- - [**"Effort to lock down publicity rights for Prince heirs encounters controversy at Capitol -- Proposal for publicity rights is scaled back after debate on First Amendment."**](http://www.startribune.com/effort-to-lock-down-publicity-rights-for-prince-heirs-encounters-controversy-at-capitol/379884991/) by Patrick Condon in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 May 2016 about Bremer Trust, contract, exhibition ([mirror](https://web.archive.org/web/*/http://www.startribune.com/effort-to-lock-down-publicity-rights-for-prince-heirs-encounters-controversy-at-capitol/379884991/))
+ - [**"Effort to lock down publicity rights for Prince heirs encounters controversy at Capitol -- Proposal for publicity rights is scaled back after debate on First Amendment."**](http://www.startribune.com/effort-to-lock-down-publicity-rights-for-prince-heirs-encounters-controversy-at-capitol/379884991/) by Patrick Condon in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 18 May 2016 about Bremer Trust, contract, exhibition ([mirror](https://web.archive.org/web/*/http://www.startribune.com/effort-to-lock-down-publicity-rights-for-prince-heirs-encounters-controversy-at-capitol/379884991/))
 
 ----
 
- - [**"13,000 at writers conference having best, versed of times in Minneapolis"**](http://www.startribune.com/13-000-at-writers-conference-having-best-versed-of-times/299262081/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 April 2015 about airport, exhibition, First Avenue (place), museum, Patricia Smith ([mirror](https://web.archive.org/web/*/http://www.startribune.com/13-000-at-writers-conference-having-best-versed-of-times/299262081/))
+ - [**"13,000 at writers conference having best, versed of times in Minneapolis"**](http://www.startribune.com/13-000-at-writers-conference-having-best-versed-of-times/299262081/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 10 April 2015 about airport, exhibition, First Avenue (place), museum, Patricia Smith ([mirror](https://web.archive.org/web/*/http://www.startribune.com/13-000-at-writers-conference-having-best-versed-of-times/299262081/))
 
 ----
 

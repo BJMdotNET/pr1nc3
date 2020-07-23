@@ -1,6 +1,10 @@
 # Purple Rain (song)
 
- - [**"Paisley Park concert series kicks off with Ndegeocello reimagining Prince"**](http://www.startribune.com/paisley-park-concert-series-kicks-off-with-ndegeocello-reimagining-prince/567927442/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 16 February 2020 about Alan Seiffert, Lizzo, Meshell Ndegeocello, museum, Pop Life (song), Purple Rain (song), Sometimes It Snows In April (song), When Doves Cry (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-concert-series-kicks-off-with-ndegeocello-reimagining-prince/567927442/))
+ - [**"TikTok App Adds Prince’s Entire Music Catalog"**](https://variety.com/2020/digital/news/tiktok-princes-music-catalog-1234691489/) in [Variety](https://variety.com/) on 26 June 2020 about 1999 (album), 1999 (song), Controversy (album), Controversy (song), Let’s Go Crazy (song), Mitch Maguire, Prince Estate, Purple Rain (album), Purple Rain (song), The Prince Estate, TikTok, Troy Carter ([mirror](https://web.archive.org/web/*/https://variety.com/2020/digital/news/tiktok-princes-music-catalog-1234691489/))
+
+----
+
+ - [**"Paisley Park concert series kicks off with Ndegeocello reimagining Prince"**](http://www.startribune.com/paisley-park-concert-series-kicks-off-with-ndegeocello-reimagining-prince/567927442/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 16 February 2020 about Alan Seiffert, Lizzo, Meshell Ndegeocello, museum, Pop Life (song), Purple Rain (song), Sometimes It Snows In April (song), When Doves Cry (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-concert-series-kicks-off-with-ndegeocello-reimagining-prince/567927442/))
 
 ----
 
@@ -60,7 +64,7 @@
 
 ----
 
- - [**"Trisha Yearwood salutes Prince, St. Cloud in overdue Minneapolis concert"**](http://www.startribune.com/trisha-yearwood-salutes-prince-st-cloud-in-overdue-minneapolis-concert/564728422/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 November 2019 about Purple Rain (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/trisha-yearwood-salutes-prince-st-cloud-in-overdue-minneapolis-concert/564728422/))
+ - [**"Trisha Yearwood salutes Prince, St. Cloud in overdue Minneapolis concert"**](http://www.startribune.com/trisha-yearwood-salutes-prince-st-cloud-in-overdue-minneapolis-concert/564728422/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 10 November 2019 about Purple Rain (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/trisha-yearwood-salutes-prince-st-cloud-in-overdue-minneapolis-concert/564728422/))
 
 ----
 
@@ -72,7 +76,7 @@
 
 ----
 
- - [**"From Ukraine to Jay-Z, a night with President Trump -- One journalist's notes from an exceptional happening in downtown Minneapolis. "**](http://www.startribune.com/from-ukraine-to-jay-z-a-night-with-president-trump/562832292/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 11 October 2019 about Obama, Purple Rain (song), Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/from-ukraine-to-jay-z-a-night-with-president-trump/562832292/))
+ - [**"From Ukraine to Jay-Z, a night with President Trump -- One journalist's notes from an exceptional happening in downtown Minneapolis. "**](http://www.startribune.com/from-ukraine-to-jay-z-a-night-with-president-trump/562832292/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 11 October 2019 about Obama, Purple Rain (song), Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/from-ukraine-to-jay-z-a-night-with-president-trump/562832292/))
 
 ----
 
@@ -84,7 +88,7 @@
 
 ----
 
- - [**"Prince estate: Trump violated promise not to play 'Purple Rain' -- The campaign played the song at the president's Target Center appearance after it promised a year ago to stop playing Prince's music at rallies, the estate said. "**](http://www.startribune.com/prince-estate-says-playing-purple-rain-at-trump-rally-was-unauthorized/562782832/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 11 October 2019 about Donald Trump, First Avenue (place), Prince Estate, Purple Rain (song), The Prince Estate, Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-estate-says-playing-purple-rain-at-trump-rally-was-unauthorized/562782832/))
+ - [**"Prince estate: Trump violated promise not to play 'Purple Rain' -- The campaign played the song at the president's Target Center appearance after it promised a year ago to stop playing Prince's music at rallies, the estate said. "**](http://www.startribune.com/prince-estate-says-playing-purple-rain-at-trump-rally-was-unauthorized/562782832/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 11 October 2019 about Donald Trump, First Avenue (place), Prince Estate, Purple Rain (song), The Prince Estate, Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-estate-says-playing-purple-rain-at-trump-rally-was-unauthorized/562782832/))
 
 ----
 
@@ -120,7 +124,7 @@
 
 ----
 
- - [**"Imagine, if you will, a picture with John Travolta as the 'Purple Rain' kid"**](http://www.startribune.com/c-j-imagine-if-you-will-a-picture-with-john-travolta-as-the-purple-rain-kid/512260012/) by C.J. (Cheryl Johnson) in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 July 2019 about Alan Light, Albert Magnoli, John Travolta, Let’s Go Crazy (song), Morris Hayes, Neal Karlen, New Power Generation, Purple Rain (album), Purple Rain (movie), Purple Rain (song), The Revolution ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-imagine-if-you-will-a-picture-with-john-travolta-as-the-purple-rain-kid/512260012/))
+ - [**"Imagine, if you will, a picture with John Travolta as the 'Purple Rain' kid"**](http://www.startribune.com/c-j-imagine-if-you-will-a-picture-with-john-travolta-as-the-purple-rain-kid/512260012/) by C.J. (Cheryl Johnson) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 5 July 2019 about Alan Light, Albert Magnoli, John Travolta, Let’s Go Crazy (song), Morris Hayes, Neal Karlen, New Power Generation, Purple Rain (album), Purple Rain (movie), Purple Rain (song), SiriusXM, The Revolution ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-imagine-if-you-will-a-picture-with-john-travolta-as-the-purple-rain-kid/512260012/))
 
 ----
 
@@ -164,7 +168,7 @@
 
 ----
 
- - [**"Details of Prince's expanded 'Purple Rain' reissue revealed, coming June 23"**](http://www.startribune.com/details-of-prince-s-expanded-purple-rain-reissue-revealed-coming-june-23/420722973/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 28 April 2017 about 17 Days (song), bootleg, Erotic City (song), First Avenue (place), Minnesota Dance Theatre, NPG Records, Our Destiny (song), Possessed (song), Purple Rain (album), Purple Rain (song), Roadhouse Garden (song), The Beautiful Ones (song), The Revolution, vault, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/details-of-prince-s-expanded-purple-rain-reissue-revealed-coming-june-23/420722973/))
+ - [**"Details of Prince's expanded 'Purple Rain' reissue revealed, coming June 23"**](http://www.startribune.com/details-of-prince-s-expanded-purple-rain-reissue-revealed-coming-june-23/420722973/) by Chris Riemenschneider in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 28 April 2017 about 17 Days (song), bootleg, Erotic City (song), First Avenue (place), Minnesota Dance Theatre, NPG Records, Our Destiny (song), Possessed (song), Purple Rain (album), Purple Rain (song), Roadhouse Garden (song), The Beautiful Ones (song), The Revolution, vault, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/details-of-prince-s-expanded-purple-rain-reissue-revealed-coming-june-23/420722973/))
 
 ----
 
@@ -176,7 +180,7 @@
 
 ----
 
- - [**"Prince's Revolution turns the party up in its second First Ave tribute show"**](http://www.startribune.com/prince-s-revolution-turns-the-party-up-in-its-second-first-ave-tribute-show/392244021/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 3 September 2016 about Baby I'm a Star (song), Computer Blue (song), Dez Dickerson, First Avenue (place), Lisa Coleman, Purple Rain (song), Questlove, Sometimes It Snows In April (song), The Revolution, Wendy Melvoin ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-revolution-turns-the-party-up-in-its-second-first-ave-tribute-show/392244021/))
+ - [**"Prince's Revolution turns the party up in its second First Ave tribute show"**](http://www.startribune.com/prince-s-revolution-turns-the-party-up-in-its-second-first-ave-tribute-show/392244021/) by Chris Riemenschneider in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 3 September 2016 about Baby I'm a Star (song), Computer Blue (song), Dez Dickerson, First Avenue (place), Lisa Coleman, Purple Rain (song), Questlove, Sometimes It Snows In April (song), The Revolution, Wendy Melvoin ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-revolution-turns-the-party-up-in-its-second-first-ave-tribute-show/392244021/))
 
 ----
 

@@ -1,5 +1,9 @@
 # Morris Day
 
+ - [**"New Streaming Channels with Music's Legendary and Game-Changing Artists to Launch Today on SiriusXM -- The Prince Channel returns through August 13"**](https://www.prnewswire.com/news-releases/new-streaming-channels-with-musics-legendary-and-game-changing-artists-to-launch-today-on-siriusxm-301093865.html) in [PR Newswire](https://www.prnewswire.com/) on 15 July 2020 about Jerome Benton, Jimmy Jam, Maya Rudolph, Morris Day, SiriusXM, Terry Lewis, The Revolution, The Time ([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/new-streaming-channels-with-musics-legendary-and-game-changing-artists-to-launch-today-on-siriusxm-301093865.html))
+
+----
+
  - [**"Foo Fighters, Beck, H.E.R., Sheila E. Light Up ‘Grammy Salute to Prince’ Concert"**](https://www.yahoo.com/entertainment/foo-fighters-beck-h-e-233930375.html) in [Yahoo! Entertainment](https://www.yahoo.com/entertainment/) on 30 January 2020 about 1999 (song), Baby I’m a Star (song), Bangles, Beck, Chris Martin, Coldplay, Controversy (song), D’Angelo, Darling Nikki (song), Diamonds and Pearls (song), Earth, Wind & Fire, Foo Fighters, Fred Armisen, Gary Clark Jr., Gretchen Lieberum, H.E.R., Janelle Monae, Jerome Benton, Jimmy Jam, John Legend, Juanes, Jungle Love (song), Ken Ehrlich, Let’s Go Crazy (song), Lisa Coleman, Manic Monday (song), Mavis Staples, Maya Rudolph, Misty Copeland, Morris Day, Mountains (song), Nothing Compares 2 U (song), Pop Life (song), PRINCEss, Purple Rain (song), Raspberry Beret (song), Sheila E., St. Vincent, Stevie Wonder, Super Bowl, Terry Lewis, The Beautiful Ones (song), The Bird (song), The Glamorous Life (song), The Revolution, The Time, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://www.yahoo.com/entertainment/foo-fighters-beck-h-e-233930375.html))
 
 ----
@@ -32,7 +36,7 @@
 
 ----
 
- - [**"Grammys will honor Prince with an all-star concert broadcast on CBS"**](http://www.startribune.com/grammys-will-honor-prince-with-an-all-star-concert-broadcast-on-cbs/566849132/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 9 January 2020 about Alicia Keys, Aretha Franklin, Beck, Chris Martin, Coldplay, Earth, Wind & Fire, Foo Fighters, Gary Clark Jr., Grammy Award, H.E.R., Jimmy Jam, John Legend, Juanes, Let’s Go Crazy (song), Let's Go Crazy: The Grammy Salute to Prince (event), Los Angeles Convention Center (place), Mavis Staples, Morris Day, Morris Day & The Time, Morris Day and The Time, St. Vincent, Stevie Wonder, Susanna Hoffs, Terry Lewis, The Revolution, The Time, Usher ([mirror](https://web.archive.org/web/*/http://www.startribune.com/grammys-will-honor-prince-with-an-all-star-concert-broadcast-on-cbs/566849132/))
+ - [**"Grammys will honor Prince with an all-star concert broadcast on CBS"**](http://www.startribune.com/grammys-will-honor-prince-with-an-all-star-concert-broadcast-on-cbs/566849132/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 9 January 2020 about Alicia Keys, Aretha Franklin, Beck, Chris Martin, Coldplay, Earth, Wind & Fire, Foo Fighters, Gary Clark Jr., Grammy Award, H.E.R., Jimmy Jam, John Legend, Juanes, Let’s Go Crazy (song), Let's Go Crazy: The Grammy Salute to Prince (event), Los Angeles Convention Center (place), Mavis Staples, Morris Day, Morris Day & The Time, Morris Day and The Time, St. Vincent, Stevie Wonder, Susanna Hoffs, Terry Lewis, The Revolution, The Time, Usher ([mirror](https://web.archive.org/web/*/http://www.startribune.com/grammys-will-honor-prince-with-an-all-star-concert-broadcast-on-cbs/566849132/))
 
 ----
 
@@ -40,7 +44,7 @@
 
 ----
 
- - [**"John Legend, H.E.R. to perform at Prince tribute concert"**](http://www.startribune.com/john-legend-h-e-r-to-perform-at-prince-tribute-concert/566845702/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 9 January 2020 about Alicia Keys, Beck, Chris Martin, Earth, Wind & Fire, Foo Fighters, Gary Clark Jr., Grammy Award, H.E.R., John Legend, Juanes, Let's Go Crazy: The Grammy Salute to Prince (event), Los Angeles Convention Center (place), Mavis Staples, Morris Day, Morris Day and The Time, Sheila E., St. Vincent, Susanna Hoffs, The Revolution, The Time, Usher ([mirror](https://web.archive.org/web/*/http://www.startribune.com/john-legend-h-e-r-to-perform-at-prince-tribute-concert/566845702/))
+ - [**"John Legend, H.E.R. to perform at Prince tribute concert"**](http://www.startribune.com/john-legend-h-e-r-to-perform-at-prince-tribute-concert/566845702/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 9 January 2020 about Alicia Keys, Beck, Chris Martin, Earth, Wind & Fire, Foo Fighters, Gary Clark Jr., Grammy Award, H.E.R., John Legend, Juanes, Let's Go Crazy: The Grammy Salute to Prince (event), Los Angeles Convention Center (place), Mavis Staples, Morris Day, Morris Day and The Time, Sheila E., St. Vincent, Susanna Hoffs, The Revolution, The Time, Usher ([mirror](https://web.archive.org/web/*/http://www.startribune.com/john-legend-h-e-r-to-perform-at-prince-tribute-concert/566845702/))
 
 ----
 
@@ -64,11 +68,11 @@
 
 ----
 
- - [**"20 gift ideas for the music lovers on your holiday list -- Twenty ideas for the music lovers on your holiday list. "**](http://www.startribune.com/20-gift-ideas-for-the-music-lovers-on-your-holiday-list/566181501/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 16 December 2019 about 1999 Super Deluxe (album), Bob Dylan, bootleg, Lizzo, memoir, Miles Davis, Morris Day, My Name Is Prince: 25 Inspired Years (book), On Time: A Princely Life in Funk (book), Randee St. Nicholas, Spiegel & Grau, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/20-gift-ideas-for-the-music-lovers-on-your-holiday-list/566181501/))
+ - [**"20 gift ideas for the music lovers on your holiday list -- Twenty ideas for the music lovers on your holiday list. "**](http://www.startribune.com/20-gift-ideas-for-the-music-lovers-on-your-holiday-list/566181501/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 16 December 2019 about 1999 Super Deluxe (album), Bob Dylan, bootleg, Lizzo, memoir, Miles Davis, Morris Day, My Name Is Prince: 25 Inspired Years (book), On Time: A Princely Life in Funk (book), Randee St. Nicholas, Spiegel & Grau, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/20-gift-ideas-for-the-music-lovers-on-your-holiday-list/566181501/))
 
 ----
 
- - [**"Celebration 2020 at Paisley Park will coincide with Prince's birth, not death"**](http://www.startribune.com/celebration-2020-at-paisley-park-will-coincide-with-prince-s-birth-not-death/566249302/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 16 December 2019 about 1999 Super Deluxe (album), Alan Seiffert, Celebration, Celebration 2020, contract, Donna Grantis, George Clinton, Graceland, Graceland Holdings, Judith Hill, Justin Timberlake, Liv Warfield, Morris Day, Morris Day & The Time, museum, Nooky Jones, Sometimes It Snows In April (song), Super Bowl, The Revolution ([mirror](https://web.archive.org/web/*/http://www.startribune.com/celebration-2020-at-paisley-park-will-coincide-with-prince-s-birth-not-death/566249302/))
+ - [**"Celebration 2020 at Paisley Park will coincide with Prince's birth, not death"**](http://www.startribune.com/celebration-2020-at-paisley-park-will-coincide-with-prince-s-birth-not-death/566249302/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 16 December 2019 about 1999 Super Deluxe (album), Alan Seiffert, Celebration, Celebration 2020, contract, Donna Grantis, George Clinton, Graceland, Graceland Holdings, Judith Hill, Justin Timberlake, Liv Warfield, Morris Day, Morris Day & The Time, museum, Nooky Jones, Sometimes It Snows In April (song), Super Bowl, The Revolution ([mirror](https://web.archive.org/web/*/http://www.startribune.com/celebration-2020-at-paisley-park-will-coincide-with-prince-s-birth-not-death/566249302/))
 
 ----
 
@@ -100,7 +104,7 @@
 
 ----
 
- - [**"12 must-hear tunes unearthed from Prince's vault for '1999' reissue"**](http://www.startribune.com/12-must-hear-tunes-unearthed-from-prince-s-vault-for-1999-reissue/565432942/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 November 2019 about 1999 (album), 94 East, Can’t Stop This Feeling I Got (song), Colleen (song), Do Yourself a Favor (song), If It’ll Make U Happy (song), Jesse Johnson, Jill Jones, Morris Day, No Call U (song), Peggy McCreary, Pepe Willie, Purple Music (song), Sunset Sound (place), Vagina (song), Vanity, vault, Yah, You Know (song), You’re All I Want (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/12-must-hear-tunes-unearthed-from-prince-s-vault-for-1999-reissue/565432942/))
+ - [**"12 must-hear tunes unearthed from Prince's vault for '1999' reissue"**](http://www.startribune.com/12-must-hear-tunes-unearthed-from-prince-s-vault-for-1999-reissue/565432942/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 25 November 2019 about 1999 (album), 94 East, Can’t Stop This Feeling I Got (song), Colleen (song), Do Yourself a Favor (song), If It’ll Make U Happy (song), Jesse Johnson, Jill Jones, Morris Day, No Call U (song), Peggy McCreary, Pepe Willie, Purple Music (song), Sunset Sound (place), Vagina (song), Vanity, vault, Yah, You Know (song), You’re All I Want (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/12-must-hear-tunes-unearthed-from-prince-s-vault-for-1999-reissue/565432942/))
 
 ----
 
@@ -168,7 +172,7 @@
 
 ----
 
- - [**"Buddy Holly and Roy Orbison in Minnesota? Hologram tours of old stars are the hot new concert trend -- Buddy Holly is coming to town with Roy Orbison? Yes, rock 'n' roll holograms are here to stay."**](http://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 October 2019 about Aretha Franklin, Ed Sheeran, Frank Zappa, hologram, Lizzo, Michael Jackson, Morris Day, perfume ([mirror](https://web.archive.org/web/*/http://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/))
+ - [**"Buddy Holly and Roy Orbison in Minnesota? Hologram tours of old stars are the hot new concert trend -- Buddy Holly is coming to town with Roy Orbison? Yes, rock 'n' roll holograms are here to stay."**](http://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 12 October 2019 about Aretha Franklin, Ed Sheeran, Frank Zappa, hologram, Lizzo, Michael Jackson, Morris Day, perfume ([mirror](https://web.archive.org/web/*/http://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/))
 
 ----
 
@@ -184,11 +188,11 @@
 
 ----
 
- - [**"Prince haunts Morris Day's new memoir: 'I still hear his voice in my head' -- "Purple Rain" co-star and Time leader Morris Day details his long friendship with Prince in a memoir that brings him home to the Twin Cities this week. "**](http://www.startribune.com/prince-haunts-morris-day-s-new-memoir-i-still-hear-his-voice-in-my-head/562430972/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 8 October 2019 about Aretha Franklin, Donald Trump, Jamie Starr, Janet Jackson, memoir, Morris Day, On Time: A Princely Life in Funk (book), Pandemonium (album), Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-haunts-morris-day-s-new-memoir-i-still-hear-his-voice-in-my-head/562430972/))
+ - [**"Prince haunts Morris Day's new memoir: 'I still hear his voice in my head' -- "Purple Rain" co-star and Time leader Morris Day details his long friendship with Prince in a memoir that brings him home to the Twin Cities this week. "**](http://www.startribune.com/prince-haunts-morris-day-s-new-memoir-i-still-hear-his-voice-in-my-head/562430972/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 8 October 2019 about Aretha Franklin, Donald Trump, Jamie Starr, Janet Jackson, memoir, Morris Day, On Time: A Princely Life in Funk (book), Pandemonium (album), Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-haunts-morris-day-s-new-memoir-i-still-hear-his-voice-in-my-head/562430972/))
 
 ----
 
- - [**"Excerpt of a 'dialogue' between Prince and Morris Day from the book 'On Time'"**](http://www.startribune.com/excerpt-of-a-dialogue-between-prince-and-morris-day-from-the-book-on-time/562430982/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 7 October 2019 about Morris Day, On Time: A Princely Life in Funk (book), The Time ([mirror](https://web.archive.org/web/*/http://www.startribune.com/excerpt-of-a-dialogue-between-prince-and-morris-day-from-the-book-on-time/562430982/))
+ - [**"Excerpt of a 'dialogue' between Prince and Morris Day from the book 'On Time'"**](http://www.startribune.com/excerpt-of-a-dialogue-between-prince-and-morris-day-from-the-book-on-time/562430982/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 7 October 2019 about Morris Day, On Time: A Princely Life in Funk (book), The Time ([mirror](https://web.archive.org/web/*/http://www.startribune.com/excerpt-of-a-dialogue-between-prince-and-morris-day-from-the-book-on-time/562430982/))
 
 ----
 
@@ -224,11 +228,11 @@
 
 ----
 
- - [**"Morris Day shows off his comedic chops in new Prince mockumentary"**](http://www.startribune.com/morris-day-shows-off-his-comedic-chops-in-new-prince-mockumentary/523094741/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 6 August 2019 about Computer Blue (song), Jungle Love (song), Morris Day, Purple Rain (movie), Quincy Jones, Sherman's Showcase (TV show), The Bird (song), Vicki, is the Water Warm Enough (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/morris-day-shows-off-his-comedic-chops-in-new-prince-mockumentary/523094741/))
+ - [**"Morris Day shows off his comedic chops in new Prince mockumentary"**](http://www.startribune.com/morris-day-shows-off-his-comedic-chops-in-new-prince-mockumentary/523094741/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 6 August 2019 about Computer Blue (song), Jungle Love (song), Morris Day, Purple Rain (movie), Quincy Jones, Sherman's Showcase (TV show), The Bird (song), Vicki, is the Water Warm Enough (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/morris-day-shows-off-his-comedic-chops-in-new-prince-mockumentary/523094741/))
 
 ----
 
- - [**"TV picks for Aug. 7: '90210' gang reunites plus 'Bulletproof' and Morris Day on 'Sherman's Showcase' -- Much of the original cast of "Beverly Hills, 90210" is back playing versions of themselves. "**](http://www.startribune.com/tv-picks-for-aug-7-90210-gang-reunites-plus-bulletproof-and-morris-day-on-sherman-s-showcase/523234941/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 6 August 2019 about Jungle Love (song), Morris Day, Purple Rain (movie), Sherman's Showcase (TV show) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/tv-picks-for-aug-7-90210-gang-reunites-plus-bulletproof-and-morris-day-on-sherman-s-showcase/523234941/))
+ - [**"TV picks for Aug. 7: '90210' gang reunites plus 'Bulletproof' and Morris Day on 'Sherman's Showcase' -- Much of the original cast of "Beverly Hills, 90210" is back playing versions of themselves. "**](http://www.startribune.com/tv-picks-for-aug-7-90210-gang-reunites-plus-bulletproof-and-morris-day-on-sherman-s-showcase/523234941/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 6 August 2019 about Jungle Love (song), Morris Day, Purple Rain (movie), Sherman's Showcase (TV show) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/tv-picks-for-aug-7-90210-gang-reunites-plus-bulletproof-and-morris-day-on-sherman-s-showcase/523234941/))
 
 ----
 
@@ -276,7 +280,7 @@
 
 ----
 
- - [**"Coming soon from the Prince vault: A new album called ‘Originals’ -- Prince’s estate is announcing the collection of his performances of songs he wrote for others."**](http://www.startribune.com/coming-soon-from-the-prince-vault-a-new-album-called-originals/509009862/) by Chris Riemenschneider, Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 April 2019 about Ani DiFranco, Apple Music, Bangles, Dan Piepenbring, First Avenue (place), Kenny Rogers, Larry Graham, Little Red Corvette (song), Manic Monday (song), Martika, Morris Day, Morris Day & The Time, Netflix, Nothing Compares 2 U (song), Originals (album), Prince Estate, Random House , Rave In2 the Joy Fantastic (album), Rave Un2 the Joy Fantastic (album), Rave Un2 the Year 2000 (video), Sex Shooter (song), The Beautiful Ones (book), The Family, The Glamorous Life (song), The Prince Estate, The Time, Ultimate Rave (album), Vanity 6, vault, Wendy Melvoin ([mirror](https://web.archive.org/web/*/http://www.startribune.com/coming-soon-from-the-prince-vault-a-new-album-called-originals/509009862/))
+ - [**"Coming soon from the Prince vault: A new album called ‘Originals’ -- Prince’s estate is announcing the collection of his performances of songs he wrote for others."**](http://www.startribune.com/coming-soon-from-the-prince-vault-a-new-album-called-originals/509009862/) by Chris Riemenschneider, Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 25 April 2019 about Ani DiFranco, Apple Music, Bangles, Dan Piepenbring, First Avenue (place), Kenny Rogers, Larry Graham, Little Red Corvette (song), Manic Monday (song), Martika, Morris Day, Morris Day & The Time, Netflix, Nothing Compares 2 U (song), Originals (album), Prince Estate, Random House , Rave In2 the Joy Fantastic (album), Rave Un2 the Joy Fantastic (album), Rave Un2 the Year 2000 (video), Sex Shooter (song), The Beautiful Ones (book), The Family, The Glamorous Life (song), The Prince Estate, The Time, Ultimate Rave (album), Vanity 6, vault, Wendy Melvoin ([mirror](https://web.archive.org/web/*/http://www.startribune.com/coming-soon-from-the-prince-vault-a-new-album-called-originals/509009862/))
 
 ----
 
@@ -284,7 +288,7 @@
 
 ----
 
- - [**"Morris Day's misadventures in Minneapolis get animated for Mike Judge's TV series"**](http://www.startribune.com/morris-day-s-misadventures-in-minneapolis-get-animated-for-mike-judge-s-tv-series/502781422/) by Neal Justin in [Minneapolis Star Tribune](http://www.startribune.com/) on 14 December 2018 about Morris Day ([mirror](https://web.archive.org/web/*/http://www.startribune.com/morris-day-s-misadventures-in-minneapolis-get-animated-for-mike-judge-s-tv-series/502781422/))
+ - [**"Morris Day's misadventures in Minneapolis get animated for Mike Judge's TV series"**](http://www.startribune.com/morris-day-s-misadventures-in-minneapolis-get-animated-for-mike-judge-s-tv-series/502781422/) by Neal Justin in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 14 December 2018 about Morris Day ([mirror](https://web.archive.org/web/*/http://www.startribune.com/morris-day-s-misadventures-in-minneapolis-get-animated-for-mike-judge-s-tv-series/502781422/))
 
 ----
 
@@ -328,7 +332,7 @@
 
 ----
 
- - [**"Prince's drummer for more than a decade, John Blackwell Jr. dies at 43 -- John Blackwell, Jr., longtime drummer for Prince, died Tuesday after being diagnosed with a brain tumor one year ago. He was 43."**](http://www.startribune.com/prince-s-drummer-for-more-than-a-decade-john-blackwell-jr-dies-at-43/432674483/) by TheWrap in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 July 2017 about John Blackwell Jr., Justin Timberlake, Morris Day, New Power Generation ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-drummer-for-more-than-a-decade-john-blackwell-jr-dies-at-43/432674483/))
+ - [**"Prince's drummer for more than a decade, John Blackwell Jr. dies at 43 -- John Blackwell, Jr., longtime drummer for Prince, died Tuesday after being diagnosed with a brain tumor one year ago. He was 43."**](http://www.startribune.com/prince-s-drummer-for-more-than-a-decade-john-blackwell-jr-dies-at-43/432674483/) by TheWrap in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 5 July 2017 about John Blackwell Jr., Justin Timberlake, Morris Day, New Power Generation ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-drummer-for-more-than-a-decade-john-blackwell-jr-dies-at-43/432674483/))
 
 ----
 
@@ -372,7 +376,7 @@
 
 ----
 
- - [**"Still no will, but work to settle Prince estate forges ahead"**](http://www.startribune.com/still-no-will-but-work-to-settle-prince-estate-forges-ahead/394729181/) by Steve Karnowski (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 September 2016 about Carver County, Morris Day, museum, Prince Estate ([mirror](https://web.archive.org/web/*/http://www.startribune.com/still-no-will-but-work-to-settle-prince-estate-forges-ahead/394729181/))
+ - [**"Still no will, but work to settle Prince estate forges ahead"**](http://www.startribune.com/still-no-will-but-work-to-settle-prince-estate-forges-ahead/394729181/) by Steve Karnowski (Associated Press) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 25 September 2016 about Carver County, Morris Day, museum, Prince Estate ([mirror](https://web.archive.org/web/*/http://www.startribune.com/still-no-will-but-work-to-settle-prince-estate-forges-ahead/394729181/))
 
 ----
 
@@ -384,7 +388,7 @@
 
 ----
 
- - [**"Morris Day and the Time perform with Purple pride at the Minnesota Zoo"**](http://www.startribune.com/morris-day-and-the-time-perform-with-purple-pride-at-the-minnesota-zoo/385161471/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 1 July 2016 about Morris Day, The Time ([mirror](https://web.archive.org/web/*/http://www.startribune.com/morris-day-and-the-time-perform-with-purple-pride-at-the-minnesota-zoo/385161471/))
+ - [**"Morris Day and the Time perform with Purple pride at the Minnesota Zoo"**](http://www.startribune.com/morris-day-and-the-time-perform-with-purple-pride-at-the-minnesota-zoo/385161471/) by Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 1 July 2016 about Morris Day, The Time ([mirror](https://web.archive.org/web/*/http://www.startribune.com/morris-day-and-the-time-perform-with-purple-pride-at-the-minnesota-zoo/385161471/))
 
 ----
 
@@ -428,7 +432,7 @@
 
 ----
 
- - [**"Time to party at Paisley: Morris Day to play Prince's place Friday"**](http://www.startribune.com/it-s-party-time-at-paisley-morris-day-to-play-prince-s-place-friday/366612721/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 January 2016 about Morris Day ([mirror](https://web.archive.org/web/*/http://www.startribune.com/it-s-party-time-at-paisley-morris-day-to-play-prince-s-place-friday/366612721/))
+ - [**"Time to party at Paisley: Morris Day to play Prince's place Friday"**](http://www.startribune.com/it-s-party-time-at-paisley-morris-day-to-play-prince-s-place-friday/366612721/) by Chris Riemenschneider in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 26 January 2016 about Morris Day ([mirror](https://web.archive.org/web/*/http://www.startribune.com/it-s-party-time-at-paisley-morris-day-to-play-prince-s-place-friday/366612721/))
 
 ----
 

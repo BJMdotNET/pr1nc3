@@ -8,7 +8,7 @@
 
 ----
 
- - [**"20 gift ideas for the music lovers on your holiday list -- Twenty ideas for the music lovers on your holiday list. "**](http://www.startribune.com/20-gift-ideas-for-the-music-lovers-on-your-holiday-list/566181501/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 16 December 2019 about 1999 Super Deluxe (album), Bob Dylan, bootleg, Lizzo, memoir, Miles Davis, Morris Day, My Name Is Prince: 25 Inspired Years (book), On Time: A Princely Life in Funk (book), Randee St. Nicholas, Spiegel & Grau, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/20-gift-ideas-for-the-music-lovers-on-your-holiday-list/566181501/))
+ - [**"20 gift ideas for the music lovers on your holiday list -- Twenty ideas for the music lovers on your holiday list. "**](http://www.startribune.com/20-gift-ideas-for-the-music-lovers-on-your-holiday-list/566181501/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 16 December 2019 about 1999 Super Deluxe (album), Bob Dylan, bootleg, Lizzo, memoir, Miles Davis, Morris Day, My Name Is Prince: 25 Inspired Years (book), On Time: A Princely Life in Funk (book), Randee St. Nicholas, Spiegel & Grau, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/20-gift-ideas-for-the-music-lovers-on-your-holiday-list/566181501/))
 
 ----
 
@@ -44,11 +44,11 @@
 
 ----
 
- - [**"Prince haunts Morris Day's new memoir: 'I still hear his voice in my head' -- "Purple Rain" co-star and Time leader Morris Day details his long friendship with Prince in a memoir that brings him home to the Twin Cities this week. "**](http://www.startribune.com/prince-haunts-morris-day-s-new-memoir-i-still-hear-his-voice-in-my-head/562430972/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 8 October 2019 about Aretha Franklin, Donald Trump, Jamie Starr, Janet Jackson, memoir, Morris Day, On Time: A Princely Life in Funk (book), Pandemonium (album), Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-haunts-morris-day-s-new-memoir-i-still-hear-his-voice-in-my-head/562430972/))
+ - [**"Prince haunts Morris Day's new memoir: 'I still hear his voice in my head' -- "Purple Rain" co-star and Time leader Morris Day details his long friendship with Prince in a memoir that brings him home to the Twin Cities this week. "**](http://www.startribune.com/prince-haunts-morris-day-s-new-memoir-i-still-hear-his-voice-in-my-head/562430972/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 8 October 2019 about Aretha Franklin, Donald Trump, Jamie Starr, Janet Jackson, memoir, Morris Day, On Time: A Princely Life in Funk (book), Pandemonium (album), Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-haunts-morris-day-s-new-memoir-i-still-hear-his-voice-in-my-head/562430972/))
 
 ----
 
- - [**"Excerpt of a 'dialogue' between Prince and Morris Day from the book 'On Time'"**](http://www.startribune.com/excerpt-of-a-dialogue-between-prince-and-morris-day-from-the-book-on-time/562430982/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 7 October 2019 about Morris Day, On Time: A Princely Life in Funk (book), The Time ([mirror](https://web.archive.org/web/*/http://www.startribune.com/excerpt-of-a-dialogue-between-prince-and-morris-day-from-the-book-on-time/562430982/))
+ - [**"Excerpt of a 'dialogue' between Prince and Morris Day from the book 'On Time'"**](http://www.startribune.com/excerpt-of-a-dialogue-between-prince-and-morris-day-from-the-book-on-time/562430982/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 7 October 2019 about Morris Day, On Time: A Princely Life in Funk (book), The Time ([mirror](https://web.archive.org/web/*/http://www.startribune.com/excerpt-of-a-dialogue-between-prince-and-morris-day-from-the-book-on-time/562430982/))
 
 ----
 

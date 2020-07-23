@@ -4,7 +4,7 @@
 
 ----
 
- - [**"Twin Cities concerts of the week: Snoop Dogg, Chris Koza, VocalEssence does Dylan, Prince tributes -- This week’s big gigs for April 26-May 2, also including Neko Case, Kodak Black, Arturo Sandoval, Foals and more."**](http://www.startribune.com/twin-cities-concerts-of-the-week-snoop-dogg-chris-koza-vocalessence-does-dylan-prince-tributes/509061512/) by Chris Riemenschneider, Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 April 2019 about Eric Leeds, LP Music, Michael Bland, Ricky Peterson, Sonny Thompson, St. Paul Peterson, Tommy Barbarella ([mirror](https://web.archive.org/web/*/http://www.startribune.com/twin-cities-concerts-of-the-week-snoop-dogg-chris-koza-vocalessence-does-dylan-prince-tributes/509061512/))
+ - [**"Twin Cities concerts of the week: Snoop Dogg, Chris Koza, VocalEssence does Dylan, Prince tributes -- This week’s big gigs for April 26-May 2, also including Neko Case, Kodak Black, Arturo Sandoval, Foals and more."**](http://www.startribune.com/twin-cities-concerts-of-the-week-snoop-dogg-chris-koza-vocalessence-does-dylan-prince-tributes/509061512/) by Chris Riemenschneider, Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 25 April 2019 about Eric Leeds, LP Music, Michael Bland, Ricky Peterson, Sonny Thompson, St. Paul Peterson, Tommy Barbarella ([mirror](https://web.archive.org/web/*/http://www.startribune.com/twin-cities-concerts-of-the-week-snoop-dogg-chris-koza-vocalessence-does-dylan-prince-tributes/509061512/))
 
 ----
 
@@ -16,7 +16,7 @@
 
 ----
 
- - [**"Margaret's time: Singer Cox finally puts together first solo CD"**](http://www.startribune.com/stories/919/3798852.html) in [Minneapolis Star Tribune](http://www.startribune.com/) on 6 April 2003 about 1-800-NEW-FUNK (album), A&M Records, Bunkers (place), contract, Dr. Mambo's Combo, Everybody Dance (song), Jesse Johnson, Legendary Combo, Lipps, Inc., M.C. Flash, Margaret Cox, Margie Cox, Margie's Little Demo (album), Michael Bland, Paula Abdul, Standing at the Altar (song), TaMara, TaMara & the Seen ([mirror](https://web.archive.org/web/*/http://www.startribune.com/stories/919/3798852.html))
+ - [**"Margaret's time: Singer Cox finally puts together first solo CD"**](http://www.startribune.com/stories/919/3798852.html) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 6 April 2003 about 1-800-NEW-FUNK (album), A&M Records, Bunkers (place), contract, Dr. Mambo's Combo, Everybody Dance (song), Jesse Johnson, Legendary Combo, Lipps, Inc., M.C. Flash, Margaret Cox, Margie Cox, Margie's Little Demo (album), Michael Bland, Paula Abdul, Standing at the Altar (song), TaMara, TaMara & the Seen ([mirror](https://web.archive.org/web/*/http://www.startribune.com/stories/919/3798852.html))
 
 ----
 

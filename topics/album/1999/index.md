@@ -1,6 +1,10 @@
 # 1999 (album)
 
- - [**"Star Tribune's 2019 Artists of the Year -- Meet the Minnesotans at the heart of the year's most groundbreaking show."**](http://www.startribune.com/6-minnesotans-are-2019-artists-of-the-year/564924782/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 6 January 2020 about 1999 (album), ASCAP, Ava DuVernay, Bangles, Bob Dylan, Dakota (place), exhibit, exhibition, Kenny Rogers, Lizzo, memoir, Minneapolis Institute of Art, museum, Netflix, Originals (album), Rearrange (song), Sheila E., Smithsonian (place), The Beautiful Ones (book), University of Minnesota, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/6-minnesotans-are-2019-artists-of-the-year/564924782/))
+ - [**"TikTok App Adds Prince’s Entire Music Catalog"**](https://variety.com/2020/digital/news/tiktok-princes-music-catalog-1234691489/) in [Variety](https://variety.com/) on 26 June 2020 about 1999 (album), 1999 (song), Controversy (album), Controversy (song), Let’s Go Crazy (song), Mitch Maguire, Prince Estate, Purple Rain (album), Purple Rain (song), The Prince Estate, TikTok, Troy Carter ([mirror](https://web.archive.org/web/*/https://variety.com/2020/digital/news/tiktok-princes-music-catalog-1234691489/))
+
+----
+
+ - [**"Star Tribune's 2019 Artists of the Year -- Meet the Minnesotans at the heart of the year's most groundbreaking show."**](http://www.startribune.com/6-minnesotans-are-2019-artists-of-the-year/564924782/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 6 January 2020 about 1999 (album), ASCAP, Ava DuVernay, Bangles, Bob Dylan, Dakota (place), exhibit, exhibition, Kenny Rogers, Lizzo, memoir, Minneapolis Institute of Art, museum, Netflix, Originals (album), Rearrange (song), Sheila E., Smithsonian (place), The Beautiful Ones (book), University of Minnesota, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/6-minnesotans-are-2019-artists-of-the-year/564924782/))
 
 ----
 
@@ -132,7 +136,7 @@
 
 ----
 
- - [**"12 must-hear tunes unearthed from Prince's vault for '1999' reissue"**](http://www.startribune.com/12-must-hear-tunes-unearthed-from-prince-s-vault-for-1999-reissue/565432942/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 November 2019 about 1999 (album), 94 East, Can’t Stop This Feeling I Got (song), Colleen (song), Do Yourself a Favor (song), If It’ll Make U Happy (song), Jesse Johnson, Jill Jones, Morris Day, No Call U (song), Peggy McCreary, Pepe Willie, Purple Music (song), Sunset Sound (place), Vagina (song), Vanity, vault, Yah, You Know (song), You’re All I Want (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/12-must-hear-tunes-unearthed-from-prince-s-vault-for-1999-reissue/565432942/))
+ - [**"12 must-hear tunes unearthed from Prince's vault for '1999' reissue"**](http://www.startribune.com/12-must-hear-tunes-unearthed-from-prince-s-vault-for-1999-reissue/565432942/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 25 November 2019 about 1999 (album), 94 East, Can’t Stop This Feeling I Got (song), Colleen (song), Do Yourself a Favor (song), If It’ll Make U Happy (song), Jesse Johnson, Jill Jones, Morris Day, No Call U (song), Peggy McCreary, Pepe Willie, Purple Music (song), Sunset Sound (place), Vagina (song), Vanity, vault, Yah, You Know (song), You’re All I Want (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/12-must-hear-tunes-unearthed-from-prince-s-vault-for-1999-reissue/565432942/))
 
 ----
 
@@ -140,7 +144,7 @@
 
 ----
 
- - [**"How '1999' made Prince a star: 'This album was the turning point' -- An expanded reissue of Prince's breakthrough album shows how prolific he was in the early '80s."**](http://www.startribune.com/how-1999-made-prince-a-star-this-album-was-the-turning-point/565432932/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 November 2019 about 1999 (album), Bangles, Bobby Z., Dez Dickerson, James Brown, Kenny Rogers, Lisa Coleman, memoir, The Revolution, Vanity, Vanity 6, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/how-1999-made-prince-a-star-this-album-was-the-turning-point/565432932/))
+ - [**"How '1999' made Prince a star: 'This album was the turning point' -- An expanded reissue of Prince's breakthrough album shows how prolific he was in the early '80s."**](http://www.startribune.com/how-1999-made-prince-a-star-this-album-was-the-turning-point/565432932/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 25 November 2019 about 1999 (album), Bangles, Bobby Z., Dez Dickerson, James Brown, Kenny Rogers, Lisa Coleman, memoir, The Revolution, Vanity, Vanity 6, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/how-1999-made-prince-a-star-this-album-was-the-turning-point/565432932/))
 
 ----
 
@@ -240,7 +244,7 @@
 
 ----
 
- - [**"Deluxe reissue of Prince's '1999' is set for Nov. 29 with three dozen new tracks"**](http://www.startribune.com/deluxe-reissue-of-prince-s-1999-is-set-for-nov-29-with-three-dozen-new-tracks/559971322/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 September 2019 about 1999 (album), Allen Beaulieu, Andrea Swensson, David Fricke, Duff McKagan, Little Red Corvette (song), Purple Music (song), Vagina (song), vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/deluxe-reissue-of-prince-s-1999-is-set-for-nov-29-with-three-dozen-new-tracks/559971322/))
+ - [**"Deluxe reissue of Prince's '1999' is set for Nov. 29 with three dozen new tracks"**](http://www.startribune.com/deluxe-reissue-of-prince-s-1999-is-set-for-nov-29-with-three-dozen-new-tracks/559971322/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 10 September 2019 about 1999 (album), Allen Beaulieu, Andrea Swensson, David Fricke, Duff McKagan, Little Red Corvette (song), Purple Music (song), Vagina (song), vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/deluxe-reissue-of-prince-s-1999-is-set-for-nov-29-with-three-dozen-new-tracks/559971322/))
 
 ----
 

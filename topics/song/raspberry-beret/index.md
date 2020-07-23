@@ -60,7 +60,7 @@
 
 ----
 
- - [**"Beck surprises fans with 'Paisley Park Sessions' EP recorded in Chanhassen"**](http://www.startribune.com/beck-surprises-fans-with-paisley-park-sessions-ep-recorded-in-chanhassen/564759282/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 11 November 2019 about Raspberry Beret (song), When Doves Cry (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/beck-surprises-fans-with-paisley-park-sessions-ep-recorded-in-chanhassen/564759282/))
+ - [**"Beck surprises fans with 'Paisley Park Sessions' EP recorded in Chanhassen"**](http://www.startribune.com/beck-surprises-fans-with-paisley-park-sessions-ep-recorded-in-chanhassen/564759282/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 11 November 2019 about Raspberry Beret (song), When Doves Cry (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/beck-surprises-fans-with-paisley-park-sessions-ep-recorded-in-chanhassen/564759282/))
 
 ----
 
@@ -72,7 +72,7 @@
 
 ----
 
- - [**"Prince co-author details 'extremely unlikely' story behind new memoir in New Yorker article"**](http://www.startribune.com/prince-co-author-details-extremely-unlikely-story-behind-new-memoir-in-new-yorker-article/559478242/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 September 2019 about Atlanta (place), Chanhassen Cinema, Country Inn & Suites (place), Dan Piepenbring, John Nelson, memoir, Miles Davis, Random House , Raspberry Beret (song), Spiegel & Grau, The Ballad Of Dorothy Parker (song), The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-co-author-details-extremely-unlikely-story-behind-new-memoir-in-new-yorker-article/559478242/))
+ - [**"Prince co-author details 'extremely unlikely' story behind new memoir in New Yorker article"**](http://www.startribune.com/prince-co-author-details-extremely-unlikely-story-behind-new-memoir-in-new-yorker-article/559478242/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 5 September 2019 about Atlanta (place), Chanhassen Cinema, Country Inn & Suites (place), Dan Piepenbring, John Nelson, memoir, Miles Davis, Random House , Raspberry Beret (song), Spiegel & Grau, The Ballad Of Dorothy Parker (song), The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-co-author-details-extremely-unlikely-story-behind-new-memoir-in-new-yorker-article/559478242/))
 
 ----
 
@@ -84,7 +84,7 @@
 
 ----
 
- - [**"Audra McDonald tries on Prince's 'Raspberry Beret' in upcoming season of 'The Good Fight'"**](http://www.startribune.com/audra-mcdonald-tries-on-prince-s-raspberry-beret-in-upcoming-season-of-the-good-fight/505294632/) by Neal Justin in [Minneapolis Star Tribune](http://www.startribune.com/) on 4 February 2019 about Raspberry Beret (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/audra-mcdonald-tries-on-prince-s-raspberry-beret-in-upcoming-season-of-the-good-fight/505294632/))
+ - [**"Audra McDonald tries on Prince's 'Raspberry Beret' in upcoming season of 'The Good Fight'"**](http://www.startribune.com/audra-mcdonald-tries-on-prince-s-raspberry-beret-in-upcoming-season-of-the-good-fight/505294632/) by Neal Justin in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 4 February 2019 about Raspberry Beret (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/audra-mcdonald-tries-on-prince-s-raspberry-beret-in-upcoming-season-of-the-good-fight/505294632/))
 
 ----
 

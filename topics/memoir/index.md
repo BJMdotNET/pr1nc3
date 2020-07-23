@@ -32,7 +32,7 @@
 
 ----
 
- - [**"Star Tribune's 2019 Artists of the Year -- Meet the Minnesotans at the heart of the year's most groundbreaking show."**](http://www.startribune.com/6-minnesotans-are-2019-artists-of-the-year/564924782/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 6 January 2020 about 1999 (album), ASCAP, Ava DuVernay, Bangles, Bob Dylan, Dakota (place), exhibit, exhibition, Kenny Rogers, Lizzo, memoir, Minneapolis Institute of Art, museum, Netflix, Originals (album), Rearrange (song), Sheila E., Smithsonian (place), The Beautiful Ones (book), University of Minnesota, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/6-minnesotans-are-2019-artists-of-the-year/564924782/))
+ - [**"Star Tribune's 2019 Artists of the Year -- Meet the Minnesotans at the heart of the year's most groundbreaking show."**](http://www.startribune.com/6-minnesotans-are-2019-artists-of-the-year/564924782/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 6 January 2020 about 1999 (album), ASCAP, Ava DuVernay, Bangles, Bob Dylan, Dakota (place), exhibit, exhibition, Kenny Rogers, Lizzo, memoir, Minneapolis Institute of Art, museum, Netflix, Originals (album), Rearrange (song), Sheila E., Smithsonian (place), The Beautiful Ones (book), University of Minnesota, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/6-minnesotans-are-2019-artists-of-the-year/564924782/))
 
 ----
 
@@ -56,7 +56,7 @@
 
 ----
 
- - [**"20 gift ideas for the music lovers on your holiday list -- Twenty ideas for the music lovers on your holiday list. "**](http://www.startribune.com/20-gift-ideas-for-the-music-lovers-on-your-holiday-list/566181501/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 16 December 2019 about 1999 Super Deluxe (album), Bob Dylan, bootleg, Lizzo, memoir, Miles Davis, Morris Day, My Name Is Prince: 25 Inspired Years (book), On Time: A Princely Life in Funk (book), Randee St. Nicholas, Spiegel & Grau, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/20-gift-ideas-for-the-music-lovers-on-your-holiday-list/566181501/))
+ - [**"20 gift ideas for the music lovers on your holiday list -- Twenty ideas for the music lovers on your holiday list. "**](http://www.startribune.com/20-gift-ideas-for-the-music-lovers-on-your-holiday-list/566181501/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 16 December 2019 about 1999 Super Deluxe (album), Bob Dylan, bootleg, Lizzo, memoir, Miles Davis, Morris Day, My Name Is Prince: 25 Inspired Years (book), On Time: A Princely Life in Funk (book), Randee St. Nicholas, Spiegel & Grau, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/20-gift-ideas-for-the-music-lovers-on-your-holiday-list/566181501/))
 
 ----
 
@@ -92,7 +92,7 @@
 
 ----
 
- - [**"How '1999' made Prince a star: 'This album was the turning point' -- An expanded reissue of Prince's breakthrough album shows how prolific he was in the early '80s."**](http://www.startribune.com/how-1999-made-prince-a-star-this-album-was-the-turning-point/565432932/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 November 2019 about 1999 (album), Bangles, Bobby Z., Dez Dickerson, James Brown, Kenny Rogers, Lisa Coleman, memoir, The Revolution, Vanity, Vanity 6, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/how-1999-made-prince-a-star-this-album-was-the-turning-point/565432932/))
+ - [**"How '1999' made Prince a star: 'This album was the turning point' -- An expanded reissue of Prince's breakthrough album shows how prolific he was in the early '80s."**](http://www.startribune.com/how-1999-made-prince-a-star-this-album-was-the-turning-point/565432932/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 25 November 2019 about 1999 (album), Bangles, Bobby Z., Dez Dickerson, James Brown, Kenny Rogers, Lisa Coleman, memoir, The Revolution, Vanity, Vanity 6, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/how-1999-made-prince-a-star-this-album-was-the-turning-point/565432932/))
 
 ----
 
@@ -128,7 +128,7 @@
 
 ----
 
- - [**"6 cool things in music include Prince, CMA Awards, Apollo Theater doc, Tyler Childers"**](http://www.startribune.com/6-cool-things-in-music-include-prince-cma-awards-apollo-theater-doc-tyler-childers/564975732/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 15 November 2019 about First Avenue (place), Jon Bream, memoir, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/6-cool-things-in-music-include-prince-cma-awards-apollo-theater-doc-tyler-childers/564975732/))
+ - [**"6 cool things in music include Prince, CMA Awards, Apollo Theater doc, Tyler Childers"**](http://www.startribune.com/6-cool-things-in-music-include-prince-cma-awards-apollo-theater-doc-tyler-childers/564975732/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 15 November 2019 about First Avenue (place), Jon Bream, memoir, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/6-cool-things-in-music-include-prince-cma-awards-apollo-theater-doc-tyler-childers/564975732/))
 
 ----
 
@@ -160,7 +160,7 @@
 
 ----
 
- - [**"6 cool things in music including Prince's memoir, Lady Gaga, Kanye West, Lewis Capaldi, Tom Morello"**](http://www.startribune.com/6-cool-things-in-music-including-prince-s-memoir-lady-gaga-kanye-west-lewis-capaldi-tom-morello/564218342/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 2 November 2019 about First Avenue (place), Jon Bream, memoir, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/6-cool-things-in-music-including-prince-s-memoir-lady-gaga-kanye-west-lewis-capaldi-tom-morello/564218342/))
+ - [**"6 cool things in music including Prince's memoir, Lady Gaga, Kanye West, Lewis Capaldi, Tom Morello"**](http://www.startribune.com/6-cool-things-in-music-including-prince-s-memoir-lady-gaga-kanye-west-lewis-capaldi-tom-morello/564218342/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 2 November 2019 about First Avenue (place), Jon Bream, memoir, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/6-cool-things-in-music-including-prince-s-memoir-lady-gaga-kanye-west-lewis-capaldi-tom-morello/564218342/))
 
 ----
 
@@ -348,11 +348,11 @@
 
 ----
 
- - [**"In their brief time together, Prince made co-author believe he could do the 'impossible' -- He'd never written a book before. But Dan Piepenbring carried on after Prince's death. "**](http://www.startribune.com/in-their-brief-time-together-prince-made-co-author-believe-he-could-do-the-impossible/563845862/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 October 2019 about contract, Dan Piepenbring, memoir, Spiegel & Grau, The Beautiful Ones (book), vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/in-their-brief-time-together-prince-made-co-author-believe-he-could-do-the-impossible/563845862/))
+ - [**"In their brief time together, Prince made co-author believe he could do the 'impossible' -- He'd never written a book before. But Dan Piepenbring carried on after Prince's death. "**](http://www.startribune.com/in-their-brief-time-together-prince-made-co-author-believe-he-could-do-the-impossible/563845862/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 26 October 2019 about contract, Dan Piepenbring, memoir, Spiegel & Grau, The Beautiful Ones (book), vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/in-their-brief-time-together-prince-made-co-author-believe-he-could-do-the-impossible/563845862/))
 
 ----
 
- - [**"Like Prince, his new memoir 'The Beautiful Ones' can't be pigeonholed -- Filled with ephemera, photos and philosophy, "The Beautiful Ones" is incomplete yet revealing. "**](http://www.startribune.com/like-prince-his-new-memoir-the-beautiful-ones-can-t-be-pigeonholed/563845812/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 October 2019 about Dan Piepenbring, fentanyl, fentanyl overdose, John L. Nelson, memoir, Super Bowl, The Beautiful Ones (book), vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/like-prince-his-new-memoir-the-beautiful-ones-can-t-be-pigeonholed/563845812/))
+ - [**"Like Prince, his new memoir 'The Beautiful Ones' can't be pigeonholed -- Filled with ephemera, photos and philosophy, "The Beautiful Ones" is incomplete yet revealing. "**](http://www.startribune.com/like-prince-his-new-memoir-the-beautiful-ones-can-t-be-pigeonholed/563845812/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 26 October 2019 about Dan Piepenbring, fentanyl, fentanyl overdose, John L. Nelson, memoir, Super Bowl, The Beautiful Ones (book), vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/like-prince-his-new-memoir-the-beautiful-ones-can-t-be-pigeonholed/563845812/))
 
 ----
 
@@ -360,7 +360,7 @@
 
 ----
 
- - [**"Prince's anticipated, posthumous memoir is ready for fans"**](http://www.startribune.com/prince-s-anticipated-posthumous-memoir-is-ready-for-fans/563912692/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 October 2019 about Dan Piepenbring, John L. Nelson, memoir, Spiegel & Grau, The Beautiful Ones (book), vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-anticipated-posthumous-memoir-is-ready-for-fans/563912692/))
+ - [**"Prince's anticipated, posthumous memoir is ready for fans"**](http://www.startribune.com/prince-s-anticipated-posthumous-memoir-is-ready-for-fans/563912692/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 26 October 2019 about Dan Piepenbring, John L. Nelson, memoir, Spiegel & Grau, The Beautiful Ones (book), vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-anticipated-posthumous-memoir-is-ready-for-fans/563912692/))
 
 ----
 
@@ -412,7 +412,7 @@
 
 ----
 
- - [**"Prince haunts Morris Day's new memoir: 'I still hear his voice in my head' -- "Purple Rain" co-star and Time leader Morris Day details his long friendship with Prince in a memoir that brings him home to the Twin Cities this week. "**](http://www.startribune.com/prince-haunts-morris-day-s-new-memoir-i-still-hear-his-voice-in-my-head/562430972/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 8 October 2019 about Aretha Franklin, Donald Trump, Jamie Starr, Janet Jackson, memoir, Morris Day, On Time: A Princely Life in Funk (book), Pandemonium (album), Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-haunts-morris-day-s-new-memoir-i-still-hear-his-voice-in-my-head/562430972/))
+ - [**"Prince haunts Morris Day's new memoir: 'I still hear his voice in my head' -- "Purple Rain" co-star and Time leader Morris Day details his long friendship with Prince in a memoir that brings him home to the Twin Cities this week. "**](http://www.startribune.com/prince-haunts-morris-day-s-new-memoir-i-still-hear-his-voice-in-my-head/562430972/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 8 October 2019 about Aretha Franklin, Donald Trump, Jamie Starr, Janet Jackson, memoir, Morris Day, On Time: A Princely Life in Funk (book), Pandemonium (album), Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-haunts-morris-day-s-new-memoir-i-still-hear-his-voice-in-my-head/562430972/))
 
 ----
 
@@ -444,7 +444,7 @@
 
 ----
 
- - [**"Prince co-author details 'extremely unlikely' story behind new memoir in New Yorker article"**](http://www.startribune.com/prince-co-author-details-extremely-unlikely-story-behind-new-memoir-in-new-yorker-article/559478242/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 September 2019 about Atlanta (place), Chanhassen Cinema, Country Inn & Suites (place), Dan Piepenbring, John Nelson, memoir, Miles Davis, Random House , Raspberry Beret (song), Spiegel & Grau, The Ballad Of Dorothy Parker (song), The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-co-author-details-extremely-unlikely-story-behind-new-memoir-in-new-yorker-article/559478242/))
+ - [**"Prince co-author details 'extremely unlikely' story behind new memoir in New Yorker article"**](http://www.startribune.com/prince-co-author-details-extremely-unlikely-story-behind-new-memoir-in-new-yorker-article/559478242/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 5 September 2019 about Atlanta (place), Chanhassen Cinema, Country Inn & Suites (place), Dan Piepenbring, John Nelson, memoir, Miles Davis, Random House , Raspberry Beret (song), Spiegel & Grau, The Ballad Of Dorothy Parker (song), The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-co-author-details-extremely-unlikely-story-behind-new-memoir-in-new-yorker-article/559478242/))
 
 ----
 
@@ -472,7 +472,7 @@
 
 ----
 
- - [**"Prince's estate to assume management of Paisley Park -- Graceland Holdings will no longer run the Chanhassen museum as of Oct. 1."**](http://www.startribune.com/prince-s-estate-to-assume-management-of-paisley-park/558364602/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 August 2019 about Ava DuVernay, Bangles, Comerica, contract, Graceland, Graceland Holdings, Joel Weinshanker, Kirk Johnson, memoir, museum, Netflix, Sharon Nelson, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-estate-to-assume-management-of-paisley-park/558364602/))
+ - [**"Prince's estate to assume management of Paisley Park -- Graceland Holdings will no longer run the Chanhassen museum as of Oct. 1."**](http://www.startribune.com/prince-s-estate-to-assume-management-of-paisley-park/558364602/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 26 August 2019 about Ava DuVernay, Bangles, Comerica, contract, Graceland, Graceland Holdings, Joel Weinshanker, Kirk Johnson, memoir, museum, Netflix, Sharon Nelson, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-estate-to-assume-management-of-paisley-park/558364602/))
 
 ----
 
@@ -500,7 +500,7 @@
 
 ----
 
- - [**"C.J.: Prince protégée Ashley Támar Davis performed with pre-Destiny Beyoncé"**](http://www.startribune.com/c-j-the-fame-of-destiny-s-child-almost-broke-singer-ashley-tamar-davis/508902862/) by C.J. (Cheryl Johnson) in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 April 2019 about C.J., memoir, New Power Generation, Támar Davis ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-the-fame-of-destiny-s-child-almost-broke-singer-ashley-tamar-davis/508902862/))
+ - [**"C.J.: Prince protégée Ashley Támar Davis performed with pre-Destiny Beyoncé"**](http://www.startribune.com/c-j-the-fame-of-destiny-s-child-almost-broke-singer-ashley-tamar-davis/508902862/) by C.J. (Cheryl Johnson) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 22 April 2019 about C.J., memoir, New Power Generation, Támar Davis ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-the-fame-of-destiny-s-child-almost-broke-singer-ashley-tamar-davis/508902862/))
 
 ----
 
@@ -512,15 +512,15 @@
 
 ----
 
- - [**"Prince memoir 'The Beautiful Ones' coming out in the fall"**](http://www.startribune.com/prince-memoir-the-beautiful-ones-coming-out-in-the-fall/508886482/) by Hillel Italie (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 April 2019 about Dan Piepenbring, memoir, Random House , The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-memoir-the-beautiful-ones-coming-out-in-the-fall/508886482/))
+ - [**"Prince memoir 'The Beautiful Ones' coming out in the fall"**](http://www.startribune.com/prince-memoir-the-beautiful-ones-coming-out-in-the-fall/508886482/) by Hillel Italie (Associated Press) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 22 April 2019 about Dan Piepenbring, memoir, Random House , The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-memoir-the-beautiful-ones-coming-out-in-the-fall/508886482/))
 
 ----
 
- - [**"Prince's memoir 'The Beautiful Ones' will finally be published this fall"**](http://www.startribune.com/prince-s-memoir-the-beautiful-ones-will-finally-be-published-this-fall/508894482/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 April 2019 about Dan Piepenbring, Esther Newberg, memoir, Random House , The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-memoir-the-beautiful-ones-will-finally-be-published-this-fall/508894482/))
+ - [**"Prince's memoir 'The Beautiful Ones' will finally be published this fall"**](http://www.startribune.com/prince-s-memoir-the-beautiful-ones-will-finally-be-published-this-fall/508894482/) by Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 22 April 2019 about Dan Piepenbring, Esther Newberg, memoir, Random House , The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-memoir-the-beautiful-ones-will-finally-be-published-this-fall/508894482/))
 
 ----
 
- - [**"From Prince to Ph.D., Prof. Susan Rogers knows music -- Busy with teaching, the former recording engineer has no memoir is in the works yet."**](http://www.startribune.com/from-prince-to-ph-d-professor-susan-rogers-knows-music/486626941/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 June 2018 about memoir, Susan Rogers ([mirror](https://web.archive.org/web/*/http://www.startribune.com/from-prince-to-ph-d-professor-susan-rogers-knows-music/486626941/))
+ - [**"From Prince to Ph.D., Prof. Susan Rogers knows music -- Busy with teaching, the former recording engineer has no memoir is in the works yet."**](http://www.startribune.com/from-prince-to-ph-d-professor-susan-rogers-knows-music/486626941/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 26 June 2018 about memoir, Susan Rogers ([mirror](https://web.archive.org/web/*/http://www.startribune.com/from-prince-to-ph-d-professor-susan-rogers-knows-music/486626941/))
 
 ----
 
@@ -540,7 +540,7 @@
 
 ----
 
- - [**"Jazz legend Herbie Hancock talks music, recovery and partying with Prince                                     -- Jazz giant Herbie Hancock is working on an album with Snoop and Pharrell; he'll preview it at the Minnesota Zoo. "**](http://www.startribune.com/jazz-legend-herbie-hancock-talks-music-recovery-and-partying-with-prince/439675873/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 August 2017 about Joni Mitchell, memoir, Miles Davis, Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/jazz-legend-herbie-hancock-talks-music-recovery-and-partying-with-prince/439675873/))
+ - [**"Jazz legend Herbie Hancock talks music, recovery and partying with Prince                                     -- Jazz giant Herbie Hancock is working on an album with Snoop and Pharrell; he'll preview it at the Minnesota Zoo. "**](http://www.startribune.com/jazz-legend-herbie-hancock-talks-music-recovery-and-partying-with-prince/439675873/) by Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 10 August 2017 about Joni Mitchell, memoir, Miles Davis, Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/jazz-legend-herbie-hancock-talks-music-recovery-and-partying-with-prince/439675873/))
 
 ----
 
@@ -580,19 +580,19 @@
 
 ----
 
- - [**"C.J.: Writing a book with Prince 'would be a nightmare job,' Neal Karlen says"**](http://www.startribune.com/c-j-writing-a-book-with-prince-would-be-a-nightmare-job-says-neal-karlen-who-loves-the-purple-guy/375907901/) by C.J. (Cheryl Johnson) in [Minneapolis Star Tribune](http://www.startribune.com/) on 15 April 2016 about airport, C.J., memoir, Neal Karlen ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-writing-a-book-with-prince-would-be-a-nightmare-job-says-neal-karlen-who-loves-the-purple-guy/375907901/))
+ - [**"C.J.: Writing a book with Prince 'would be a nightmare job,' Neal Karlen says"**](http://www.startribune.com/c-j-writing-a-book-with-prince-would-be-a-nightmare-job-says-neal-karlen-who-loves-the-purple-guy/375907901/) by C.J. (Cheryl Johnson) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 15 April 2016 about airport, C.J., memoir, Neal Karlen ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-writing-a-book-with-prince-would-be-a-nightmare-job-says-neal-karlen-who-loves-the-purple-guy/375907901/))
 
 ----
 
- - [**"C.J.: Prince's memoir will be a beauty if he gives his take on my questions"**](http://www.startribune.com/c-j-prince-s-memoir-will-be-a-beauty-if-he-gives-his-take-on-my-questions/373295271/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 23 March 2016 about C.J., Carver County, memoir, museum, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-prince-s-memoir-will-be-a-beauty-if-he-gives-his-take-on-my-questions/373295271/))
+ - [**"C.J.: Prince's memoir will be a beauty if he gives his take on my questions"**](http://www.startribune.com/c-j-prince-s-memoir-will-be-a-beauty-if-he-gives-his-take-on-my-questions/373295271/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 23 March 2016 about C.J., Carver County, memoir, museum, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-prince-s-memoir-will-be-a-beauty-if-he-gives-his-take-on-my-questions/373295271/))
 
 ----
 
- - [**"Questions and thoughts about Prince's memoir due in 2017"**](http://www.startribune.com/questions-and-thoughts-about-prince-s-memoir-due-in-2017/372901571/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 21 March 2016 about memoir, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/questions-and-thoughts-about-prince-s-memoir-due-in-2017/372901571/))
+ - [**"Questions and thoughts about Prince's memoir due in 2017"**](http://www.startribune.com/questions-and-thoughts-about-prince-s-memoir-due-in-2017/372901571/) by Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 21 March 2016 about memoir, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/questions-and-thoughts-about-prince-s-memoir-due-in-2017/372901571/))
 
 ----
 
- - [**"Prince is penning a memoir, expected out in fall 2017"**](http://www.startribune.com/prince-is-penning-a-memoir-expected-out-in-2017/372624071/) by Vince Tuss in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 March 2016 about memoir, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-is-penning-a-memoir-expected-out-in-2017/372624071/))
+ - [**"Prince is penning a memoir, expected out in fall 2017"**](http://www.startribune.com/prince-is-penning-a-memoir-expected-out-in-2017/372624071/) by Vince Tuss in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 19 March 2016 about memoir, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-is-penning-a-memoir-expected-out-in-2017/372624071/))
 
 ----
 
@@ -600,7 +600,7 @@
 
 ----
 
- - [**"Prince says he's writing a memoir, performs for NYC audience"**](http://www.startribune.com/pop-star-prince-writing-a-memoir-to-be-released-next-year/372627011/) by Mesfin Fekadu (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 March 2016 about memoir, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/pop-star-prince-writing-a-memoir-to-be-released-next-year/372627011/))
+ - [**"Prince says he's writing a memoir, performs for NYC audience"**](http://www.startribune.com/pop-star-prince-writing-a-memoir-to-be-released-next-year/372627011/) by Mesfin Fekadu (Associated Press) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 19 March 2016 about memoir, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/pop-star-prince-writing-a-memoir-to-be-released-next-year/372627011/))
 
 ----
 

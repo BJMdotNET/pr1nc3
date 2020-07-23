@@ -1,6 +1,10 @@
 # exhibit
 
- - [**"6 cool things in music this week include Brandi Carlile, Billie Eilish, Common, Rosanne Cash and Justin Bieber"**](http://www.startribune.com/6-cool-things-in-music-this-week-include-brandi-carlile-billie-eilish-common-rosanne-cash-and-justin-bieber/568081192/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 21 February 2020 about exhibit, Fillmore Minneapolis (place), First Avenue (place), Jon Bream, Minnesota History Center, Prince: Before the Rain ([mirror](https://web.archive.org/web/*/http://www.startribune.com/6-cool-things-in-music-this-week-include-brandi-carlile-billie-eilish-common-rosanne-cash-and-justin-bieber/568081192/))
+ - [**"Paisley Park gets a reboot: You can take cellphone pics, and even drink, too -- Four years after Prince's death, his Chanhassen studio has come alive again under a new director who's even allowing cellphones and alcohol."**](http://www.startribune.com/paisley-park-gets-a-reboot-you-can-take-cellphone-pics-and-even-drink-too/568554622/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 7 March 2020 about 1999 Super Deluxe (album), Alan Seiffert, Andrea Bruce, Angela Aycock, Beck, Celebration, Comerica, Comerica Trust, exhibit, Graceland Holdings, Joel Weinshanker, Justin Timberlake, Kirk Johnson, Lovesexy (tour), Meshell Ndegeocello, Mitch Maguire, museum, Super Bowl, Trevor Guy, Twin Cities (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-gets-a-reboot-you-can-take-cellphone-pics-and-even-drink-too/568554622/))
+
+----
+
+ - [**"6 cool things in music this week include Brandi Carlile, Billie Eilish, Common, Rosanne Cash and Justin Bieber"**](http://www.startribune.com/6-cool-things-in-music-this-week-include-brandi-carlile-billie-eilish-common-rosanne-cash-and-justin-bieber/568081192/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 21 February 2020 about exhibit, Fillmore Minneapolis (place), First Avenue (place), Jon Bream, Minnesota History Center, Prince: Before the Rain ([mirror](https://web.archive.org/web/*/http://www.startribune.com/6-cool-things-in-music-this-week-include-brandi-carlile-billie-eilish-common-rosanne-cash-and-justin-bieber/568081192/))
 
 ----
 
@@ -8,7 +12,7 @@
 
 ----
 
- - [**"Local artist pays tribute to Prince with giant mural at MSP airport -- Rock Martinez's mural of the music legend arrived for a yearlong stay at MSP as part of the airport's traveling exhibits program."**](http://www.startribune.com/local-artist-pays-tribute-to-prince-with-msp-airport-mural/567357372/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 28 January 2020 about airport, Alan Seiffert, ARTS@MSP, Bob Dylan, exhibit, I Would Die 4 U (song), merchandise, Minneapolis-St. Paul International Airport (place), MSP (place), museum, Rock Martinez, The Revolution, University of Minnesota, Weisman Art Museum (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/local-artist-pays-tribute-to-prince-with-msp-airport-mural/567357372/))
+ - [**"Local artist pays tribute to Prince with giant mural at MSP airport -- Rock Martinez's mural of the music legend arrived for a yearlong stay at MSP as part of the airport's traveling exhibits program."**](http://www.startribune.com/local-artist-pays-tribute-to-prince-with-msp-airport-mural/567357372/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 28 January 2020 about airport, Alan Seiffert, ARTS@MSP, Bob Dylan, exhibit, I Would Die 4 U (song), merchandise, Minneapolis-St. Paul International Airport (place), MSP (place), museum, Rock Martinez, The Revolution, University of Minnesota, Weisman Art Museum (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/local-artist-pays-tribute-to-prince-with-msp-airport-mural/567357372/))
 
 ----
 
@@ -16,7 +20,7 @@
 
 ----
 
- - [**"Star Tribune's 2019 Artists of the Year -- Meet the Minnesotans at the heart of the year's most groundbreaking show."**](http://www.startribune.com/6-minnesotans-are-2019-artists-of-the-year/564924782/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 6 January 2020 about 1999 (album), ASCAP, Ava DuVernay, Bangles, Bob Dylan, Dakota (place), exhibit, exhibition, Kenny Rogers, Lizzo, memoir, Minneapolis Institute of Art, museum, Netflix, Originals (album), Rearrange (song), Sheila E., Smithsonian (place), The Beautiful Ones (book), University of Minnesota, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/6-minnesotans-are-2019-artists-of-the-year/564924782/))
+ - [**"Star Tribune's 2019 Artists of the Year -- Meet the Minnesotans at the heart of the year's most groundbreaking show."**](http://www.startribune.com/6-minnesotans-are-2019-artists-of-the-year/564924782/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 6 January 2020 about 1999 (album), ASCAP, Ava DuVernay, Bangles, Bob Dylan, Dakota (place), exhibit, exhibition, Kenny Rogers, Lizzo, memoir, Minneapolis Institute of Art, museum, Netflix, Originals (album), Rearrange (song), Sheila E., Smithsonian (place), The Beautiful Ones (book), University of Minnesota, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/6-minnesotans-are-2019-artists-of-the-year/564924782/))
 
 ----
 
@@ -36,7 +40,7 @@
 
 ----
 
- - [**"Don't overlook splashy coffee table books as holiday gifts"**](http://www.startribune.com/don-t-overlook-splashy-coffee-table-books-as-holiday-gifts/565099382/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 November 2019 about Andy Warhol, Celebration, exhibit, exhibition, Hachette Books, museum, Penguin Random House, Randee St. Nicholas, trademark ([mirror](https://web.archive.org/web/*/http://www.startribune.com/don-t-overlook-splashy-coffee-table-books-as-holiday-gifts/565099382/))
+ - [**"Don't overlook splashy coffee table books as holiday gifts"**](http://www.startribune.com/don-t-overlook-splashy-coffee-table-books-as-holiday-gifts/565099382/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 19 November 2019 about Andy Warhol, Celebration, exhibit, exhibition, Hachette Books, museum, Penguin Random House, Randee St. Nicholas, trademark ([mirror](https://web.archive.org/web/*/http://www.startribune.com/don-t-overlook-splashy-coffee-table-books-as-holiday-gifts/565099382/))
 
 ----
 
@@ -52,7 +56,7 @@
 
 ----
 
- - [**"Prince exhibit coming to the Minnesota State Fair next year -- Superstar's estate is planning exhibit with artifacts, merchandise and performances. "**](http://www.startribune.com/prince-exhibit-coming-to-the-minnesota-state-fair-next-year/558970762/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 31 August 2019 about Comerica, exhibit, Kirk Johnson, merchandise, Minnesota State Fair, Omarr Baker, State Fair, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-exhibit-coming-to-the-minnesota-state-fair-next-year/558970762/))
+ - [**"Prince exhibit coming to the Minnesota State Fair next year -- Superstar's estate is planning exhibit with artifacts, merchandise and performances. "**](http://www.startribune.com/prince-exhibit-coming-to-the-minnesota-state-fair-next-year/558970762/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 31 August 2019 about Comerica, exhibit, Kirk Johnson, merchandise, Minnesota State Fair, Omarr Baker, State Fair, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-exhibit-coming-to-the-minnesota-state-fair-next-year/558970762/))
 
 ----
 
@@ -92,7 +96,7 @@
 
 ----
 
- - [**"A Prince wish, Paisley Park eyed for museum like Graceland"**](http://www.startribune.com/a-prince-wish-paisley-park-eyed-for-museum-like-graceland/382529341/) by Steve Karnowski (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 June 2016 about Bremer Trust, Carver County, exhibit, exhibition, fentanyl, fentanyl overdose, Graceland, Jeremiah Freed, Michael Jackson, motorcycle, museum ([mirror](https://web.archive.org/web/*/http://www.startribune.com/a-prince-wish-paisley-park-eyed-for-museum-like-graceland/382529341/))
+ - [**"A Prince wish, Paisley Park eyed for museum like Graceland"**](http://www.startribune.com/a-prince-wish-paisley-park-eyed-for-museum-like-graceland/382529341/) by Steve Karnowski (Associated Press) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 10 June 2016 about Bremer Trust, Carver County, exhibit, exhibition, fentanyl, fentanyl overdose, Graceland, Jeremiah Freed, Michael Jackson, motorcycle, museum ([mirror](https://web.archive.org/web/*/http://www.startribune.com/a-prince-wish-paisley-park-eyed-for-museum-like-graceland/382529341/))
 
 ----
 

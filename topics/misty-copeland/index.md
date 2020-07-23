@@ -20,7 +20,7 @@
 
 ----
 
- - [**"After 40 Years, Grammy show producer bows out his way"**](http://www.startribune.com/after-40-years-grammy-show-producer-bows-out-his-way/567226992/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 23 January 2020 about Aretha Franklin, Beyoncé, Ed Sheeran, Gary Clark Jr., John Legend, Ken Ehrlich, Misty Copeland, Obama, Stevie Wonder, White House (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/after-40-years-grammy-show-producer-bows-out-his-way/567226992/))
+ - [**"After 40 Years, Grammy show producer bows out his way"**](http://www.startribune.com/after-40-years-grammy-show-producer-bows-out-his-way/567226992/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 23 January 2020 about Aretha Franklin, Beyoncé, Ed Sheeran, Gary Clark Jr., John Legend, Ken Ehrlich, Misty Copeland, Obama, Stevie Wonder, White House (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/after-40-years-grammy-show-producer-bows-out-his-way/567226992/))
 
 ----
 
@@ -28,7 +28,7 @@
 
 ----
 
- - [**"Not just arabesques: Misty Copeland imparts her life lessons"**](http://www.startribune.com/not-just-arabesques-misty-copeland-imparts-her-life-lessons/565682042/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 2 December 2019 about Misty Copeland ([mirror](https://web.archive.org/web/*/http://www.startribune.com/not-just-arabesques-misty-copeland-imparts-her-life-lessons/565682042/))
+ - [**"Not just arabesques: Misty Copeland imparts her life lessons"**](http://www.startribune.com/not-just-arabesques-misty-copeland-imparts-her-life-lessons/565682042/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 2 December 2019 about Misty Copeland ([mirror](https://web.archive.org/web/*/http://www.startribune.com/not-just-arabesques-misty-copeland-imparts-her-life-lessons/565682042/))
 
 ----
 

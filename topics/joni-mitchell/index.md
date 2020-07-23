@@ -28,7 +28,7 @@
 
 ----
 
- - [**"C.J.: Music stars can learn more about themselves by acquiescing to media interviews"**](http://www.startribune.com/c-j-music-stars-can-learn-more-about-themselves-by-acquiescing-to-media-interviews/512421852/) by C.J. (Cheryl Johnson) in [Minneapolis Star Tribune](http://www.startribune.com/) on 8 July 2019 about Alan Light, C.J., Joni Mitchell ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-music-stars-can-learn-more-about-themselves-by-acquiescing-to-media-interviews/512421852/))
+ - [**"C.J.: Music stars can learn more about themselves by acquiescing to media interviews"**](http://www.startribune.com/c-j-music-stars-can-learn-more-about-themselves-by-acquiescing-to-media-interviews/512421852/) by C.J. (Cheryl Johnson) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 8 July 2019 about Alan Light, C.J., Joni Mitchell ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-music-stars-can-learn-more-about-themselves-by-acquiescing-to-media-interviews/512421852/))
 
 ----
 
@@ -84,7 +84,7 @@
 
 ----
 
- - [**"Jazz legend Herbie Hancock talks music, recovery and partying with Prince                                     -- Jazz giant Herbie Hancock is working on an album with Snoop and Pharrell; he'll preview it at the Minnesota Zoo. "**](http://www.startribune.com/jazz-legend-herbie-hancock-talks-music-recovery-and-partying-with-prince/439675873/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 August 2017 about Joni Mitchell, memoir, Miles Davis, Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/jazz-legend-herbie-hancock-talks-music-recovery-and-partying-with-prince/439675873/))
+ - [**"Jazz legend Herbie Hancock talks music, recovery and partying with Prince                                     -- Jazz giant Herbie Hancock is working on an album with Snoop and Pharrell; he'll preview it at the Minnesota Zoo. "**](http://www.startribune.com/jazz-legend-herbie-hancock-talks-music-recovery-and-partying-with-prince/439675873/) by Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 10 August 2017 about Joni Mitchell, memoir, Miles Davis, Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/jazz-legend-herbie-hancock-talks-music-recovery-and-partying-with-prince/439675873/))
 
 ----
 

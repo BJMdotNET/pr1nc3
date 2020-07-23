@@ -1,6 +1,10 @@
 # YouTube
 
- - [**"Death of Prince heir complicates estate settlement even more -- Nearly a third of Prince's estate could go to parties not related to him after two siblings signed agreements with Primary Wave."**](http://www.startribune.com/untimely-death-of-prince-heir-complicates-estate-settlement-even-more/568089142/) by Jon Bream, Mike Hughlett in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 February 2020 about Alfred Jackson, Carver County, Comerica, Dennis Patrick, fentanyl, fentanyl overdose, Fredrikson & Byron, hologram, John Nelson, L. Londell McMillan, Lawrence Mestel, Leonardo Starke, Michael Jackson, Mitchell Hamline Law Review, O.J. Simpson, Primary Wave, Prince Estate, probate court, Raffles Van Exel, Shawn Jackson, The Prince Estate, Troy Carter, Tyka Nelson, Whitney Houston, Xcel Energy Center (place), YouTube ([mirror](https://web.archive.org/web/*/http://www.startribune.com/untimely-death-of-prince-heir-complicates-estate-settlement-even-more/568089142/))
+ - [**"With TikTok, music fans can now legally lip sync to all of Prince's songs"**](https://www.startribune.com/with-tiktok-music-fans-can-now-legally-lip-sync-to-all-of-prince-s-songs/571529892/) in [Minneapolis Star Tribune](https://www.startribune.com/) on 28 June 2020 about Let’s Go Crazy (song), Lizzo, Prince Estate, Spotify, The Prince Estate, TikTok, Troy Carter, YouTube ([mirror](https://web.archive.org/web/*/https://www.startribune.com/with-tiktok-music-fans-can-now-legally-lip-sync-to-all-of-prince-s-songs/571529892/))
+
+----
+
+ - [**"Death of Prince heir complicates estate settlement even more -- Nearly a third of Prince's estate could go to parties not related to him after two siblings signed agreements with Primary Wave."**](http://www.startribune.com/untimely-death-of-prince-heir-complicates-estate-settlement-even-more/568089142/) by Jon Bream, Mike Hughlett in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 22 February 2020 about Alfred Jackson, Carver County, Comerica, Dennis Patrick, fentanyl, fentanyl overdose, Fredrikson & Byron, hologram, John Nelson, L. Londell McMillan, Lawrence Mestel, Leonardo Starke, Michael Jackson, Mitchell Hamline Law Review, O.J. Simpson, Primary Wave, Prince Estate, probate court, Raffles Van Exel, Shawn Jackson, The Prince Estate, Troy Carter, Tyka Nelson, Whitney Houston, Xcel Energy Center (place), YouTube ([mirror](https://web.archive.org/web/*/http://www.startribune.com/untimely-death-of-prince-heir-complicates-estate-settlement-even-more/568089142/))
 
 ----
 
@@ -16,11 +20,11 @@
 
 ----
 
- - [**"6 cool things in music this week including Neil Peart, Billie Eilish, Paisley Park Cinema and Keith Richards"**](http://www.startribune.com/6-cool-things-in-music-this-week-including-neil-peart-billie-eilish-paisley-park-cinema-and-keith-richards/567079992/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 17 January 2020 about Amazing Grace (movie), Aretha Franklin, Jon Bream, Richard Pryor, Wattstax (movie), Xcel Energy Center (place), YouTube ([mirror](https://web.archive.org/web/*/http://www.startribune.com/6-cool-things-in-music-this-week-including-neil-peart-billie-eilish-paisley-park-cinema-and-keith-richards/567079992/))
+ - [**"6 cool things in music this week including Neil Peart, Billie Eilish, Paisley Park Cinema and Keith Richards"**](http://www.startribune.com/6-cool-things-in-music-this-week-including-neil-peart-billie-eilish-paisley-park-cinema-and-keith-richards/567079992/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 17 January 2020 about Amazing Grace (movie), Aretha Franklin, Jon Bream, Richard Pryor, Wattstax (movie), Xcel Energy Center (place), YouTube ([mirror](https://web.archive.org/web/*/http://www.startribune.com/6-cool-things-in-music-this-week-including-neil-peart-billie-eilish-paisley-park-cinema-and-keith-richards/567079992/))
 
 ----
 
- - [**"Black Pumas talk busking, Grammys and Prince ahead of the Current birthday bash -- The soul-rock duo is up for a best new artist Grammy but hardly inexperienced (see: Prince). "**](http://www.startribune.com/black-pumas-talk-busking-grammys-and-prince-ahead-of-the-current-birthday-bash/567044352/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 17 January 2020 about 3121 (album), First Avenue (place), Lizzo, PBS, YouTube ([mirror](https://web.archive.org/web/*/http://www.startribune.com/black-pumas-talk-busking-grammys-and-prince-ahead-of-the-current-birthday-bash/567044352/))
+ - [**"Black Pumas talk busking, Grammys and Prince ahead of the Current birthday bash -- The soul-rock duo is up for a best new artist Grammy but hardly inexperienced (see: Prince). "**](http://www.startribune.com/black-pumas-talk-busking-grammys-and-prince-ahead-of-the-current-birthday-bash/567044352/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 17 January 2020 about 3121 (album), First Avenue (place), Lizzo, PBS, YouTube ([mirror](https://web.archive.org/web/*/http://www.startribune.com/black-pumas-talk-busking-grammys-and-prince-ahead-of-the-current-birthday-bash/567044352/))
 
 ----
 
@@ -56,7 +60,7 @@
 
 ----
 
- - [**"Former Prince guitarist Donna Grantis celebrates new jazz-rock album at the Dakota -- 3rdEyeGirl guitarist Donna Grantis will celebrate her new jazz-rock fusion album in Minneapolis."**](http://www.startribune.com/former-prince-guitarist-donna-grantis-celebrates-new-jazz-rock-album-at-the-dakota/507678332/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 March 2019 about 3rdEyeGirl, Aretha Franklin, Dakota (place), Donna Grantis, Hannah Welton, Toronto, YouTube ([mirror](https://web.archive.org/web/*/http://www.startribune.com/former-prince-guitarist-donna-grantis-celebrates-new-jazz-rock-album-at-the-dakota/507678332/))
+ - [**"Former Prince guitarist Donna Grantis celebrates new jazz-rock album at the Dakota -- 3rdEyeGirl guitarist Donna Grantis will celebrate her new jazz-rock fusion album in Minneapolis."**](http://www.startribune.com/former-prince-guitarist-donna-grantis-celebrates-new-jazz-rock-album-at-the-dakota/507678332/) by Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 26 March 2019 about 3rdEyeGirl, Aretha Franklin, Dakota (place), Donna Grantis, Hannah Welton, Toronto, YouTube ([mirror](https://web.archive.org/web/*/http://www.startribune.com/former-prince-guitarist-donna-grantis-celebrates-new-jazz-rock-album-at-the-dakota/507678332/))
 
 ----
 
@@ -104,7 +108,7 @@
 
 ----
 
- - [**"YouTube 'dancing baby' video with Prince music births a legal battle that won't go away"**](http://www.startribune.com/youtube-dancing-baby-video-births-a-legal-battle-that-won-t-go-away/367109661/) by James Eli Shiffer in [Minneapolis Star Tribune](http://www.startribune.com/) on 30 January 2016 about Super Bowl, YouTube ([mirror](https://web.archive.org/web/*/http://www.startribune.com/youtube-dancing-baby-video-births-a-legal-battle-that-won-t-go-away/367109661/))
+ - [**"YouTube 'dancing baby' video with Prince music births a legal battle that won't go away"**](http://www.startribune.com/youtube-dancing-baby-video-births-a-legal-battle-that-won-t-go-away/367109661/) by James Eli Shiffer in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 30 January 2016 about Super Bowl, YouTube ([mirror](https://web.archive.org/web/*/http://www.startribune.com/youtube-dancing-baby-video-births-a-legal-battle-that-won-t-go-away/367109661/))
 
 ----
 

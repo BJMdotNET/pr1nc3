@@ -100,7 +100,7 @@
 
 ----
 
- - [**"John Legend, H.E.R. to perform at Prince tribute concert"**](http://www.startribune.com/john-legend-h-e-r-to-perform-at-prince-tribute-concert/566845702/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 9 January 2020 about Alicia Keys, Beck, Chris Martin, Earth, Wind & Fire, Foo Fighters, Gary Clark Jr., Grammy Award, H.E.R., John Legend, Juanes, Let's Go Crazy: The Grammy Salute to Prince (event), Los Angeles Convention Center (place), Mavis Staples, Morris Day, Morris Day and The Time, Sheila E., St. Vincent, Susanna Hoffs, The Revolution, The Time, Usher ([mirror](https://web.archive.org/web/*/http://www.startribune.com/john-legend-h-e-r-to-perform-at-prince-tribute-concert/566845702/))
+ - [**"John Legend, H.E.R. to perform at Prince tribute concert"**](http://www.startribune.com/john-legend-h-e-r-to-perform-at-prince-tribute-concert/566845702/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 9 January 2020 about Alicia Keys, Beck, Chris Martin, Earth, Wind & Fire, Foo Fighters, Gary Clark Jr., Grammy Award, H.E.R., John Legend, Juanes, Let's Go Crazy: The Grammy Salute to Prince (event), Los Angeles Convention Center (place), Mavis Staples, Morris Day, Morris Day and The Time, Sheila E., St. Vincent, Susanna Hoffs, The Revolution, The Time, Usher ([mirror](https://web.archive.org/web/*/http://www.startribune.com/john-legend-h-e-r-to-perform-at-prince-tribute-concert/566845702/))
 
 ----
 
@@ -120,7 +120,7 @@
 
 ----
 
- - [**"Star Tribune's 2019 Artists of the Year -- Meet the Minnesotans at the heart of the year's most groundbreaking show."**](http://www.startribune.com/6-minnesotans-are-2019-artists-of-the-year/564924782/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 6 January 2020 about 1999 (album), ASCAP, Ava DuVernay, Bangles, Bob Dylan, Dakota (place), exhibit, exhibition, Kenny Rogers, Lizzo, memoir, Minneapolis Institute of Art, museum, Netflix, Originals (album), Rearrange (song), Sheila E., Smithsonian (place), The Beautiful Ones (book), University of Minnesota, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/6-minnesotans-are-2019-artists-of-the-year/564924782/))
+ - [**"Star Tribune's 2019 Artists of the Year -- Meet the Minnesotans at the heart of the year's most groundbreaking show."**](http://www.startribune.com/6-minnesotans-are-2019-artists-of-the-year/564924782/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 6 January 2020 about 1999 (album), ASCAP, Ava DuVernay, Bangles, Bob Dylan, Dakota (place), exhibit, exhibition, Kenny Rogers, Lizzo, memoir, Minneapolis Institute of Art, museum, Netflix, Originals (album), Rearrange (song), Sheila E., Smithsonian (place), The Beautiful Ones (book), University of Minnesota, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/6-minnesotans-are-2019-artists-of-the-year/564924782/))
 
 ----
 
@@ -204,7 +204,7 @@
 
 ----
 
- - [**"New Prince album featuring unreleased demos out in June"**](http://www.startribune.com/new-prince-album-featuring-unreleased-demos-out-in-june/509058902/) by The Associated Press in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 April 2019 about Joey Coco, Kenny Rogers, Originals (album), Sheila E. ([mirror](https://web.archive.org/web/*/http://www.startribune.com/new-prince-album-featuring-unreleased-demos-out-in-june/509058902/))
+ - [**"New Prince album featuring unreleased demos out in June"**](http://www.startribune.com/new-prince-album-featuring-unreleased-demos-out-in-june/509058902/) by The Associated Press in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 25 April 2019 about Joey Coco, Kenny Rogers, Originals (album), Sheila E. ([mirror](https://web.archive.org/web/*/http://www.startribune.com/new-prince-album-featuring-unreleased-demos-out-in-june/509058902/))
 
 ----
 
@@ -224,11 +224,11 @@
 
 ----
 
- - [**"Pick Six: Praise for Lil Nas X, Bob Mould, Zedd, 'Jay's Longhorn' and more -- Pick Six is a half-dozen cool things in music, from two points of view."**](http://www.startribune.com/pick-six-praise-for-lil-nas-x-bob-mould-zedd-jay-s-longhorn-and-more/508453002/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 April 2019 about Central High, Sheila E. ([mirror](https://web.archive.org/web/*/http://www.startribune.com/pick-six-praise-for-lil-nas-x-bob-mould-zedd-jay-s-longhorn-and-more/508453002/))
+ - [**"Pick Six: Praise for Lil Nas X, Bob Mould, Zedd, 'Jay's Longhorn' and more -- Pick Six is a half-dozen cool things in music, from two points of view."**](http://www.startribune.com/pick-six-praise-for-lil-nas-x-bob-mould-zedd-jay-s-longhorn-and-more/508453002/) by Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 12 April 2019 about Central High, Sheila E. ([mirror](https://web.archive.org/web/*/http://www.startribune.com/pick-six-praise-for-lil-nas-x-bob-mould-zedd-jay-s-longhorn-and-more/508453002/))
 
 ----
 
- - [**"Paisley Park rocks again with four of Prince's female protégées in concert"**](http://www.startribune.com/paisley-park-rocks-again-with-four-of-prince-s-female-protegees-in-concert/507037812/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 March 2019 about 3rdEyeGirl, Donna Grantis, Judith Hill, Liv Warfield, Sheila E., Shelby J. ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-rocks-again-with-four-of-prince-s-female-protegees-in-concert/507037812/))
+ - [**"Paisley Park rocks again with four of Prince's female protégées in concert"**](http://www.startribune.com/paisley-park-rocks-again-with-four-of-prince-s-female-protegees-in-concert/507037812/) by Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 12 March 2019 about 3rdEyeGirl, Donna Grantis, Judith Hill, Liv Warfield, Sheila E., Shelby J. ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-rocks-again-with-four-of-prince-s-female-protegees-in-concert/507037812/))
 
 ----
 
@@ -240,7 +240,7 @@
 
 ----
 
- - [**"Sheila E. to perform at Timberwolves halftime Feb. 13"**](http://www.startribune.com/sheila-e-to-perform-at-timberwolves-halftime-feb-13/505512282/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 7 February 2019 about Minnesota Timberwolves, Sheila E., Timberwolves ([mirror](https://web.archive.org/web/*/http://www.startribune.com/sheila-e-to-perform-at-timberwolves-halftime-feb-13/505512282/))
+ - [**"Sheila E. to perform at Timberwolves halftime Feb. 13"**](http://www.startribune.com/sheila-e-to-perform-at-timberwolves-halftime-feb-13/505512282/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 7 February 2019 about Minnesota Timberwolves, Sheila E., Timberwolves ([mirror](https://web.archive.org/web/*/http://www.startribune.com/sheila-e-to-perform-at-timberwolves-halftime-feb-13/505512282/))
 
 ----
 
@@ -248,11 +248,11 @@
 
 ----
 
- - [**"10 curious things we learned about Prince from the investigations -- He liked Häagen-Dazs ice cream, 5-Hour Energy drinks and MAC beauty products."**](http://www.startribune.com/10-curious-things-we-learned-about-prince-from-the-investigations/480364723/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 April 2018 about airport, Atlanta (place), Carver County, CeeLo Green, Chaka Khan, Esperanza Spalding, Illinois (place), Janelle Monae, Judith Hill, Kirk Johnson, Larry Graham, North Memorial Medical Center (place), Peter Vang, Phaedra Ellis Lamkin, Rita Ora, Sheila E., U Got the Look (song), vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/10-curious-things-we-learned-about-prince-from-the-investigations/480364723/))
+ - [**"10 curious things we learned about Prince from the investigations -- He liked Häagen-Dazs ice cream, 5-Hour Energy drinks and MAC beauty products."**](http://www.startribune.com/10-curious-things-we-learned-about-prince-from-the-investigations/480364723/) by Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 20 April 2018 about airport, Atlanta (place), Carver County, CeeLo Green, Chaka Khan, Esperanza Spalding, Illinois (place), Janelle Monae, Judith Hill, Kirk Johnson, Larry Graham, North Memorial Medical Center (place), Peter Vang, Phaedra Ellis Lamkin, Rita Ora, Sheila E., U Got the Look (song), vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/10-curious-things-we-learned-about-prince-from-the-investigations/480364723/))
 
 ----
 
- - [**"Prince fans converge on Paisley Park for a more celebratory Celebration -- Paisley Park's second annual fan gathering kicked off with a (mostly) upbeat set by Sheila E."**](http://www.startribune.com/prince-fans-converge-on-paisley-park-for-a-more-celebratory-celebration/480314653/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 April 2018 about Sheila E. ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-fans-converge-on-paisley-park-for-a-more-celebratory-celebration/480314653/))
+ - [**"Prince fans converge on Paisley Park for a more celebratory Celebration -- Paisley Park's second annual fan gathering kicked off with a (mostly) upbeat set by Sheila E."**](http://www.startribune.com/prince-fans-converge-on-paisley-park-for-a-more-celebratory-celebration/480314653/) by Chris Riemenschneider in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 20 April 2018 about Sheila E. ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-fans-converge-on-paisley-park-for-a-more-celebratory-celebration/480314653/))
 
 ----
 
@@ -268,7 +268,7 @@
 
 ----
 
- - [**"Second annual Celebration at Prince's Paisley Park to feature Sheila E., fDeluxe, NPG"**](http://www.startribune.com/second-annual-celebration-at-prince-s-paisley-park-to-feature-sheila-e-fdeluxe-npg/474975113/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 23 February 2018 about fDeluxe, Sheila E. ([mirror](https://web.archive.org/web/*/http://www.startribune.com/second-annual-celebration-at-prince-s-paisley-park-to-feature-sheila-e-fdeluxe-npg/474975113/))
+ - [**"Second annual Celebration at Prince's Paisley Park to feature Sheila E., fDeluxe, NPG"**](http://www.startribune.com/second-annual-celebration-at-prince-s-paisley-park-to-feature-sheila-e-fdeluxe-npg/474975113/) by Chris Riemenschneider in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 23 February 2018 about fDeluxe, Sheila E. ([mirror](https://web.archive.org/web/*/http://www.startribune.com/second-annual-celebration-at-prince-s-paisley-park-to-feature-sheila-e-fdeluxe-npg/474975113/))
 
 ----
 
@@ -340,7 +340,7 @@
 
 ----
 
- - [**"Record crowd on hand as St. Paul Saints play Purple Game to remember Prince -- The St. Paul Saints gave Prince a final farewell — complete with a lot of purple, and some red Corvettes."**](http://www.startribune.com/record-crowd-on-hand-as-st-paul-saints-play-purple-game-to-remember-prince/381305401/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 30 May 2016 about Sheila E. ([mirror](https://web.archive.org/web/*/http://www.startribune.com/record-crowd-on-hand-as-st-paul-saints-play-purple-game-to-remember-prince/381305401/))
+ - [**"Record crowd on hand as St. Paul Saints play Purple Game to remember Prince -- The St. Paul Saints gave Prince a final farewell — complete with a lot of purple, and some red Corvettes."**](http://www.startribune.com/record-crowd-on-hand-as-st-paul-saints-play-purple-game-to-remember-prince/381305401/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 30 May 2016 about Sheila E. ([mirror](https://web.archive.org/web/*/http://www.startribune.com/record-crowd-on-hand-as-st-paul-saints-play-purple-game-to-remember-prince/381305401/))
 
 ----
 
@@ -376,7 +376,7 @@
 
 ----
 
- - [**"Sheila E.: Saying goodbye to Prince 'the hardest thing I've ever had to do' -- Sheila E., longtime friend, said she never knew Prince to take drugs."**](http://www.startribune.com/sheila-e-saying-goodbye-to-prince-the-hardest-thing-i-ve-ever-had-to-do/376906621/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 April 2016 about Celebration, Chaka Khan, Kirk Johnson, Larry Graham, Let’s Go Crazy (song), Lionel Richie, Omarr Baker, Sheila E., TMZ (website), Tyka Nelson, WCCO-TV ([mirror](https://web.archive.org/web/*/http://www.startribune.com/sheila-e-saying-goodbye-to-prince-the-hardest-thing-i-ve-ever-had-to-do/376906621/))
+ - [**"Sheila E.: Saying goodbye to Prince 'the hardest thing I've ever had to do' -- Sheila E., longtime friend, said she never knew Prince to take drugs."**](http://www.startribune.com/sheila-e-saying-goodbye-to-prince-the-hardest-thing-i-ve-ever-had-to-do/376906621/) by Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 25 April 2016 about Celebration, Chaka Khan, Kirk Johnson, Larry Graham, Let’s Go Crazy (song), Lionel Richie, Omarr Baker, Sheila E., TMZ (website), Tyka Nelson, WCCO-TV ([mirror](https://web.archive.org/web/*/http://www.startribune.com/sheila-e-saying-goodbye-to-prince-the-hardest-thing-i-ve-ever-had-to-do/376906621/))
 
 ----
 

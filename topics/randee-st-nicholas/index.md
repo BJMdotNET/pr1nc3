@@ -12,7 +12,7 @@
 
 ----
 
- - [**"20 gift ideas for the music lovers on your holiday list -- Twenty ideas for the music lovers on your holiday list. "**](http://www.startribune.com/20-gift-ideas-for-the-music-lovers-on-your-holiday-list/566181501/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 16 December 2019 about 1999 Super Deluxe (album), Bob Dylan, bootleg, Lizzo, memoir, Miles Davis, Morris Day, My Name Is Prince: 25 Inspired Years (book), On Time: A Princely Life in Funk (book), Randee St. Nicholas, Spiegel & Grau, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/20-gift-ideas-for-the-music-lovers-on-your-holiday-list/566181501/))
+ - [**"20 gift ideas for the music lovers on your holiday list -- Twenty ideas for the music lovers on your holiday list. "**](http://www.startribune.com/20-gift-ideas-for-the-music-lovers-on-your-holiday-list/566181501/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 16 December 2019 about 1999 Super Deluxe (album), Bob Dylan, bootleg, Lizzo, memoir, Miles Davis, Morris Day, My Name Is Prince: 25 Inspired Years (book), On Time: A Princely Life in Funk (book), Randee St. Nicholas, Spiegel & Grau, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/20-gift-ideas-for-the-music-lovers-on-your-holiday-list/566181501/))
 
 ----
 
@@ -52,7 +52,7 @@
 
 ----
 
- - [**"Don't overlook splashy coffee table books as holiday gifts"**](http://www.startribune.com/don-t-overlook-splashy-coffee-table-books-as-holiday-gifts/565099382/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 November 2019 about Andy Warhol, Celebration, exhibit, exhibition, Hachette Books, museum, Penguin Random House, Randee St. Nicholas, trademark ([mirror](https://web.archive.org/web/*/http://www.startribune.com/don-t-overlook-splashy-coffee-table-books-as-holiday-gifts/565099382/))
+ - [**"Don't overlook splashy coffee table books as holiday gifts"**](http://www.startribune.com/don-t-overlook-splashy-coffee-table-books-as-holiday-gifts/565099382/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 19 November 2019 about Andy Warhol, Celebration, exhibit, exhibition, Hachette Books, museum, Penguin Random House, Randee St. Nicholas, trademark ([mirror](https://web.archive.org/web/*/http://www.startribune.com/don-t-overlook-splashy-coffee-table-books-as-holiday-gifts/565099382/))
 
 ----
 

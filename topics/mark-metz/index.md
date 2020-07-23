@@ -8,7 +8,7 @@
 
 ----
 
- - [**"As Prince's health waned, alarm grew in inner circle"**](http://www.startribune.com/as-prince-s-health-waned-alarm-grew-in-inner-circle/480336433/) by Amy Forliti (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 April 2018 about Andrew Kornfeld, Carver County, fentanyl, Howard Kornfeld, Illinois (place), Kirk Johnson, Mark Metz, Meron Bekure, Michael Todd Schulenberg, Moline, Illinois (place), oxycodone ([mirror](https://web.archive.org/web/*/http://www.startribune.com/as-prince-s-health-waned-alarm-grew-in-inner-circle/480336433/))
+ - [**"As Prince's health waned, alarm grew in inner circle"**](http://www.startribune.com/as-prince-s-health-waned-alarm-grew-in-inner-circle/480336433/) by Amy Forliti (Associated Press) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 20 April 2018 about Andrew Kornfeld, Carver County, fentanyl, Howard Kornfeld, Illinois (place), Kirk Johnson, Mark Metz, Meron Bekure, Michael Todd Schulenberg, Moline, Illinois (place), oxycodone ([mirror](https://web.archive.org/web/*/http://www.startribune.com/as-prince-s-health-waned-alarm-grew-in-inner-circle/480336433/))
 
 ----
 
@@ -28,7 +28,7 @@
 
 ----
 
- - [**"Prince death investigation complete press conference -- Carver County Attorney Mark Metz announced Thursday that he was closing the two-year investigation into the death of Prince without issuing any criminal charges."**](http://video.startribune.com/prince-death-investigation-complete-press-conference/480279253/) by Mark Vancleave in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 April 2018 about Carver County, Mark Metz ([mirror](https://web.archive.org/web/*/http://video.startribune.com/prince-death-investigation-complete-press-conference/480279253/))
+ - [**"Prince death investigation complete press conference -- Carver County Attorney Mark Metz announced Thursday that he was closing the two-year investigation into the death of Prince without issuing any criminal charges."**](http://video.startribune.com/prince-death-investigation-complete-press-conference/480279253/) by Mark Vancleave in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 19 April 2018 about Carver County, Mark Metz ([mirror](https://web.archive.org/web/*/http://video.startribune.com/prince-death-investigation-complete-press-conference/480279253/))
 
 ----
 
@@ -48,7 +48,7 @@
 
 ----
 
- - [**"Investigation into Prince's death now is a criminal probe -- The Carver County Sheriff's Office cited an exception to Minnesota public records laws allowing the suppression of information relating to preparing a case "for the commission of a crime.""**](http://www.startribune.com/carver-county-judge-seals-search-warrants-in-prince-death-investigation/377456111/) by David Chanen in [Minneapolis Star Tribune](http://www.startribune.com/) on 29 April 2016 about Carver County, Jim Olson, Mark Metz, The Time ([mirror](https://web.archive.org/web/*/http://www.startribune.com/carver-county-judge-seals-search-warrants-in-prince-death-investigation/377456111/))
+ - [**"Investigation into Prince's death now is a criminal probe -- The Carver County Sheriff's Office cited an exception to Minnesota public records laws allowing the suppression of information relating to preparing a case "for the commission of a crime.""**](http://www.startribune.com/carver-county-judge-seals-search-warrants-in-prince-death-investigation/377456111/) by David Chanen in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 29 April 2016 about Carver County, Jim Olson, Mark Metz, The Time ([mirror](https://web.archive.org/web/*/http://www.startribune.com/carver-county-judge-seals-search-warrants-in-prince-death-investigation/377456111/))
 
 ----
 

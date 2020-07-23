@@ -8,7 +8,7 @@
 
 ----
 
- - [**"$12.5 million Capri Theater renovation pinned as linchpin to north Minneapolis revitalization -- A $12.5 million expansion of the Capri Theater promises to help with the revitalization of north Minneapolis."**](http://www.startribune.com/12-5-million-capri-theater-renovation-pinned-as-linchpin-to-north-minneapolis-revitalization/563569292/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 October 2019 about Capri Theater  (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/12-5-million-capri-theater-renovation-pinned-as-linchpin-to-north-minneapolis-revitalization/563569292/))
+ - [**"$12.5 million Capri Theater renovation pinned as linchpin to north Minneapolis revitalization -- A $12.5 million expansion of the Capri Theater promises to help with the revitalization of north Minneapolis."**](http://www.startribune.com/12-5-million-capri-theater-renovation-pinned-as-linchpin-to-north-minneapolis-revitalization/563569292/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 22 October 2019 about Capri Theater  (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/12-5-million-capri-theater-renovation-pinned-as-linchpin-to-north-minneapolis-revitalization/563569292/))
 
 ----
 
@@ -20,7 +20,7 @@
 
 ----
 
- - [**"Re-live the 1980s heyday of Minnesota music and comedy in a new photo book -- Writer Martin Keller and photographer Greg Helgeson walked “the thin-grooved line between fandom and journalism,” as chronicled in “Hijinx and Hearsay.”"**](http://www.startribune.com/80s-scenesters-offer-snapshots-of-the-minneapolis-sound-in-new-photo-book/509385652/) by Tim Campbell in [Minneapolis Star Tribune](http://www.startribune.com/) on 7 May 2019 about Capri Theater  (place), Jimmy Jam, Mayte, Terry Lewis ([mirror](https://web.archive.org/web/*/http://www.startribune.com/80s-scenesters-offer-snapshots-of-the-minneapolis-sound-in-new-photo-book/509385652/))
+ - [**"Re-live the 1980s heyday of Minnesota music and comedy in a new photo book -- Writer Martin Keller and photographer Greg Helgeson walked “the thin-grooved line between fandom and journalism,” as chronicled in “Hijinx and Hearsay.”"**](http://www.startribune.com/80s-scenesters-offer-snapshots-of-the-minneapolis-sound-in-new-photo-book/509385652/) by Tim Campbell in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 7 May 2019 about Capri Theater  (place), Jimmy Jam, Mayte, Terry Lewis ([mirror](https://web.archive.org/web/*/http://www.startribune.com/80s-scenesters-offer-snapshots-of-the-minneapolis-sound-in-new-photo-book/509385652/))
 
 ----
 

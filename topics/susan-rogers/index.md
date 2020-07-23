@@ -1,5 +1,9 @@
 # Susan Rogers
 
+ - [**"Prince’s Classic ‘Sign O’ the Times’ Deluxe Reissue Coming in September, With 63 Bonus Tracks"**](https://variety.com/2020/music/news/prince-sign-o-the-times-deluxe-reissue-bonus-tracks-1234689805/) in [Variety](https://variety.com/) on 25 June 2020 about Andrea Swensson, bootleg, Daphne A. Brooks, Dave Chappelle, Dream Factory (album), Duane Tudahl, I Could Never Take The Place Of Your Man (song), Jeff Katz, Lenny Kravitz, Miles Davis, Susan Rogers, The Revolution, U Got the Look (song), vault, Witness 4 The Prosecution (song) ([mirror](https://web.archive.org/web/*/https://variety.com/2020/music/news/prince-sign-o-the-times-deluxe-reissue-bonus-tracks-1234689805/))
+
+----
+
  - [**"Engineering Prince: Working With The Purple One as a Creator, Drummer, and Electronic Drum Pioneer"**](https://drummagazine.com/engineering-prince-the-purple-one-as-a-creator-drummer-and-electronic-drum-pioneer/) in [drummagazine.com](https://drummagazine.com/) on 14 February 2020 about 3121 (album), Around The World In A Day (album), Controversy (album), Larrabee Sound (place), Linn LM-1, Lisa Chamblee, Peggy McCreary, PRN Alumni Foundation, Purple Rain (album), Romance 1600 (album), Sunset Sound (place), Susan Rogers, Sylvia Massy, U Got the Look (song), vault ([mirror](https://web.archive.org/web/*/https://drummagazine.com/engineering-prince-the-purple-one-as-a-creator-drummer-and-electronic-drum-pioneer/))
 
 ----
@@ -76,11 +80,11 @@
 
 ----
 
- - [**"There are good things in Prince's musical vault, says former engineer who has heard songs -- Susan Rogers has heard the new music from Prince that the rest of us may soon hear."**](http://www.startribune.com/c-j-there-are-good-things-in-prince-s-musical-vault-says-former-engineer-who-has-heard-songs/487824511/) by C.J. (Cheryl Johnson) in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 July 2018 about Susan Rogers, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-there-are-good-things-in-prince-s-musical-vault-says-former-engineer-who-has-heard-songs/487824511/))
+ - [**"There are good things in Prince's musical vault, says former engineer who has heard songs -- Susan Rogers has heard the new music from Prince that the rest of us may soon hear."**](http://www.startribune.com/c-j-there-are-good-things-in-prince-s-musical-vault-says-former-engineer-who-has-heard-songs/487824511/) by C.J. (Cheryl Johnson) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 10 July 2018 about Susan Rogers, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-there-are-good-things-in-prince-s-musical-vault-says-former-engineer-who-has-heard-songs/487824511/))
 
 ----
 
- - [**"From Prince to Ph.D., Prof. Susan Rogers knows music -- Busy with teaching, the former recording engineer has no memoir is in the works yet."**](http://www.startribune.com/from-prince-to-ph-d-professor-susan-rogers-knows-music/486626941/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 June 2018 about memoir, Susan Rogers ([mirror](https://web.archive.org/web/*/http://www.startribune.com/from-prince-to-ph-d-professor-susan-rogers-knows-music/486626941/))
+ - [**"From Prince to Ph.D., Prof. Susan Rogers knows music -- Busy with teaching, the former recording engineer has no memoir is in the works yet."**](http://www.startribune.com/from-prince-to-ph-d-professor-susan-rogers-knows-music/486626941/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 26 June 2018 about memoir, Susan Rogers ([mirror](https://web.archive.org/web/*/http://www.startribune.com/from-prince-to-ph-d-professor-susan-rogers-knows-music/486626941/))
 
 ----
 
@@ -96,7 +100,7 @@
 
 ----
 
- - [**"Floodgates are about to open on Prince's career after death -- A year after he died, Prince's lucrative second career is taking off. The industry moguls he despised are calling the shots — and his wishes don't apply."**](http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 April 2017 about Bravado, Bremer Trust, Carver County, Charles Koppelman, Comerica, contract, Graceland, Graceland Holdings, hologram, merchandise, Michael Jackson, museum, Omarr Baker, Spotify, Susan Rogers, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/))
+ - [**"Floodgates are about to open on Prince's career after death -- A year after he died, Prince's lucrative second career is taking off. The industry moguls he despised are calling the shots — and his wishes don't apply."**](http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/) by Chris Riemenschneider in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 18 April 2017 about Bravado, Bremer Trust, Carver County, Charles Koppelman, Comerica, contract, Graceland, Graceland Holdings, hologram, merchandise, Michael Jackson, museum, Omarr Baker, Spotify, Susan Rogers, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/))
 
 ----
 

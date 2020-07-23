@@ -1,6 +1,6 @@
 # John R. Nelson
 
- - [**"One of Prince's heirs, Alfred Jackson, dies in Kansas City"**](http://www.startribune.com/one-of-prince-s-heirs-alfred-jackson-dies-in-kansas-city/558728862/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 29 August 2019 about Alfred Jackson, John L. Nelson, John R. Nelson, Omarr Baker, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/one-of-prince-s-heirs-alfred-jackson-dies-in-kansas-city/558728862/))
+ - [**"One of Prince's heirs, Alfred Jackson, dies in Kansas City"**](http://www.startribune.com/one-of-prince-s-heirs-alfred-jackson-dies-in-kansas-city/558728862/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 29 August 2019 about Alfred Jackson, John L. Nelson, John R. Nelson, Omarr Baker, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/one-of-prince-s-heirs-alfred-jackson-dies-in-kansas-city/558728862/))
 
 ----
 

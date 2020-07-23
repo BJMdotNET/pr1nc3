@@ -8,7 +8,7 @@
 
 ----
 
- - [**"Like Prince, his new memoir 'The Beautiful Ones' can't be pigeonholed -- Filled with ephemera, photos and philosophy, "The Beautiful Ones" is incomplete yet revealing. "**](http://www.startribune.com/like-prince-his-new-memoir-the-beautiful-ones-can-t-be-pigeonholed/563845812/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 October 2019 about Dan Piepenbring, fentanyl, fentanyl overdose, John L. Nelson, memoir, Super Bowl, The Beautiful Ones (book), vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/like-prince-his-new-memoir-the-beautiful-ones-can-t-be-pigeonholed/563845812/))
+ - [**"Like Prince, his new memoir 'The Beautiful Ones' can't be pigeonholed -- Filled with ephemera, photos and philosophy, "The Beautiful Ones" is incomplete yet revealing. "**](http://www.startribune.com/like-prince-his-new-memoir-the-beautiful-ones-can-t-be-pigeonholed/563845812/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 26 October 2019 about Dan Piepenbring, fentanyl, fentanyl overdose, John L. Nelson, memoir, Super Bowl, The Beautiful Ones (book), vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/like-prince-his-new-memoir-the-beautiful-ones-can-t-be-pigeonholed/563845812/))
 
 ----
 
@@ -16,7 +16,7 @@
 
 ----
 
- - [**"Prince's anticipated, posthumous memoir is ready for fans"**](http://www.startribune.com/prince-s-anticipated-posthumous-memoir-is-ready-for-fans/563912692/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 October 2019 about Dan Piepenbring, John L. Nelson, memoir, Spiegel & Grau, The Beautiful Ones (book), vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-anticipated-posthumous-memoir-is-ready-for-fans/563912692/))
+ - [**"Prince's anticipated, posthumous memoir is ready for fans"**](http://www.startribune.com/prince-s-anticipated-posthumous-memoir-is-ready-for-fans/563912692/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 26 October 2019 about Dan Piepenbring, John L. Nelson, memoir, Spiegel & Grau, The Beautiful Ones (book), vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-anticipated-posthumous-memoir-is-ready-for-fans/563912692/))
 
 ----
 
@@ -28,7 +28,7 @@
 
 ----
 
- - [**"One of Prince's heirs, Alfred Jackson, dies in Kansas City"**](http://www.startribune.com/one-of-prince-s-heirs-alfred-jackson-dies-in-kansas-city/558728862/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 29 August 2019 about Alfred Jackson, John L. Nelson, John R. Nelson, Omarr Baker, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/one-of-prince-s-heirs-alfred-jackson-dies-in-kansas-city/558728862/))
+ - [**"One of Prince's heirs, Alfred Jackson, dies in Kansas City"**](http://www.startribune.com/one-of-prince-s-heirs-alfred-jackson-dies-in-kansas-city/558728862/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 29 August 2019 about Alfred Jackson, John L. Nelson, John R. Nelson, Omarr Baker, Tyka Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/one-of-prince-s-heirs-alfred-jackson-dies-in-kansas-city/558728862/))
 
 ----
 
@@ -56,7 +56,7 @@
 
 ----
 
- - [**"Review: John L. Nelson Project records jazz by Prince's dad"**](http://www.startribune.com/review-john-l-nelson-project-records-jazz-by-prince-s-dad/476151463/) by Pablo Gorondi (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 7 March 2018 about John L. Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/review-john-l-nelson-project-records-jazz-by-prince-s-dad/476151463/))
+ - [**"Review: John L. Nelson Project records jazz by Prince's dad"**](http://www.startribune.com/review-john-l-nelson-project-records-jazz-by-prince-s-dad/476151463/) by Pablo Gorondi (Associated Press) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 7 March 2018 about John L. Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/review-john-l-nelson-project-records-jazz-by-prince-s-dad/476151463/))
 
 ----
 
@@ -64,7 +64,7 @@
 
 ----
 
- - [**"Recording of jazz compositions by Prince's father released"**](http://www.startribune.com/recording-of-jazz-compositions-by-prince-s-father-released/475668083/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 2 March 2018 about John L. Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/recording-of-jazz-compositions-by-prince-s-father-released/475668083/))
+ - [**"Recording of jazz compositions by Prince's father released"**](http://www.startribune.com/recording-of-jazz-compositions-by-prince-s-father-released/475668083/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 2 March 2018 about John L. Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/recording-of-jazz-compositions-by-prince-s-father-released/475668083/))
 
 ----
 
@@ -72,7 +72,7 @@
 
 ----
 
- - [**"Song from Prince's father being released on his 101st b'day"**](http://www.startribune.com/song-from-prince-s-father-being-released-on-his-101th-b-day/431373963/) by Mesfin Fekadu (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 28 June 2017 about John L. Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/song-from-prince-s-father-being-released-on-his-101th-b-day/431373963/))
+ - [**"Song from Prince's father being released on his 101st b'day"**](http://www.startribune.com/song-from-prince-s-father-being-released-on-his-101th-b-day/431373963/) by Mesfin Fekadu (Associated Press) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 28 June 2017 about John L. Nelson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/song-from-prince-s-father-being-released-on-his-101th-b-day/431373963/))
 
 ----
 

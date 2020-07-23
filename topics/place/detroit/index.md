@@ -1,6 +1,6 @@
 # Detroit (place)
 
- - [**"Twin Cities rockers Hairball go viral after singer's hair catches fire mid-song"**](http://www.startribune.com/twin-cities-rockers-hairball-go-viral-after-singer-s-hair-catches-fire-mid-song/567974442/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 February 2020 about Detroit (place), Xcel Energy Center (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/twin-cities-rockers-hairball-go-viral-after-singer-s-hair-catches-fire-mid-song/567974442/))
+ - [**"Twin Cities rockers Hairball go viral after singer's hair catches fire mid-song"**](http://www.startribune.com/twin-cities-rockers-hairball-go-viral-after-singer-s-hair-catches-fire-mid-song/567974442/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 18 February 2020 about Detroit (place), Xcel Energy Center (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/twin-cities-rockers-hairball-go-viral-after-singer-s-hair-catches-fire-mid-song/567974442/))
 
 ----
 

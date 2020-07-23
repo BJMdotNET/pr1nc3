@@ -16,7 +16,7 @@
 
 ----
 
- - [**"Prince rules collector site Discogs’ ‘100 Most Expensive Records’ list"**](http://www.startribune.com/prince-rules-collector-site-discogs-100-most-expensive-records-list/511122062/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 11 June 2019 about bootleg, The Black Album (album), The Gold Experience (album) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-rules-collector-site-discogs-100-most-expensive-records-list/511122062/))
+ - [**"Prince rules collector site Discogs’ ‘100 Most Expensive Records’ list"**](http://www.startribune.com/prince-rules-collector-site-discogs-100-most-expensive-records-list/511122062/) by Chris Riemenschneider in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 11 June 2019 about bootleg, The Black Album (album), The Gold Experience (album) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-rules-collector-site-discogs-100-most-expensive-records-list/511122062/))
 
 ----
 

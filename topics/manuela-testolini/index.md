@@ -8,7 +8,7 @@
 
 ----
 
- - [**"Foundation of Prince's second wife to honor him at gala"**](http://www.startribune.com/foundation-of-prince-s-second-wife-to-honor-him-at-gala/506568702/) by Leanne Italie (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 1 March 2019 about Apollonia Kotero, Chaka Khan, In a Perfect World, Manuela Testolini ([mirror](https://web.archive.org/web/*/http://www.startribune.com/foundation-of-prince-s-second-wife-to-honor-him-at-gala/506568702/))
+ - [**"Foundation of Prince's second wife to honor him at gala"**](http://www.startribune.com/foundation-of-prince-s-second-wife-to-honor-him-at-gala/506568702/) by Leanne Italie (Associated Press) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 1 March 2019 about Apollonia Kotero, Chaka Khan, In a Perfect World, Manuela Testolini ([mirror](https://web.archive.org/web/*/http://www.startribune.com/foundation-of-prince-s-second-wife-to-honor-him-at-gala/506568702/))
 
 ----
 
@@ -20,7 +20,7 @@
 
 ----
 
- - [**"Documents: Airplane scare was beginning of the end of Prince's struggles with opioids -- Long-awaited investigative documents released Thursday give the clearest narrative yet of the singer's problems with opioid addiction in his final days."**](http://www.startribune.com/documents-airplane-scare-was-beginning-of-the-end-of-prince-s-struggles-with-opioids/480325903/) by Dan Browning, David Chanen in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 April 2018 about 3rdEyeGirl, Andrew Kornfeld, Atlanta (place), fentanyl, Howard Kornfeld, Judith Hill, Kirk Johnson, Manuela Testolini, Meron Bekure, Vicodin, Walgreens ([mirror](https://web.archive.org/web/*/http://www.startribune.com/documents-airplane-scare-was-beginning-of-the-end-of-prince-s-struggles-with-opioids/480325903/))
+ - [**"Documents: Airplane scare was beginning of the end of Prince's struggles with opioids -- Long-awaited investigative documents released Thursday give the clearest narrative yet of the singer's problems with opioid addiction in his final days."**](http://www.startribune.com/documents-airplane-scare-was-beginning-of-the-end-of-prince-s-struggles-with-opioids/480325903/) by Dan Browning, David Chanen in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 20 April 2018 about 3rdEyeGirl, Andrew Kornfeld, Atlanta (place), fentanyl, Howard Kornfeld, Judith Hill, Kirk Johnson, Manuela Testolini, Meron Bekure, Vicodin, Walgreens ([mirror](https://web.archive.org/web/*/http://www.startribune.com/documents-airplane-scare-was-beginning-of-the-end-of-prince-s-struggles-with-opioids/480325903/))
 
 ----
 
@@ -48,7 +48,7 @@
 
 ----
 
- - [**"Judge rules to unseal Prince's divorce records -- Ex-wife Manuela Testolini has 30 days to object to certain documents being made public."**](http://www.startribune.com/judge-rules-to-unseal-prince-s-divorce-records/390211731/) by Emma Nelson in [Minneapolis Star Tribune](http://www.startribune.com/) on 15 August 2016 about Manuela Testolini ([mirror](https://web.archive.org/web/*/http://www.startribune.com/judge-rules-to-unseal-prince-s-divorce-records/390211731/))
+ - [**"Judge rules to unseal Prince's divorce records -- Ex-wife Manuela Testolini has 30 days to object to certain documents being made public."**](http://www.startribune.com/judge-rules-to-unseal-prince-s-divorce-records/390211731/) by Emma Nelson in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 15 August 2016 about Manuela Testolini ([mirror](https://web.archive.org/web/*/http://www.startribune.com/judge-rules-to-unseal-prince-s-divorce-records/390211731/))
 
 ----
 
@@ -56,7 +56,7 @@
 
 ----
 
- - [**"Prince's ex attends Minneapolis court hearing over newspaper's bid to unseal divorce file -- Attorneys for his second wife argued that details should remain private."**](http://www.startribune.com/prince-s-ex-attends-minneapolis-court-hearing-over-media-bid-to-unseal-divorce-file/389206661/) by Matt McKinney in [Minneapolis Star Tribune](http://www.startribune.com/) on 4 August 2016 about Manuela Testolini ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-ex-attends-minneapolis-court-hearing-over-media-bid-to-unseal-divorce-file/389206661/))
+ - [**"Prince's ex attends Minneapolis court hearing over newspaper's bid to unseal divorce file -- Attorneys for his second wife argued that details should remain private."**](http://www.startribune.com/prince-s-ex-attends-minneapolis-court-hearing-over-media-bid-to-unseal-divorce-file/389206661/) by Matt McKinney in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 4 August 2016 about Manuela Testolini ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-ex-attends-minneapolis-court-hearing-over-media-bid-to-unseal-divorce-file/389206661/))
 
 ----
 

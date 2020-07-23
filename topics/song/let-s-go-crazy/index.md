@@ -1,5 +1,13 @@
 # Let’s Go Crazy (song)
 
+ - [**"With TikTok, music fans can now legally lip sync to all of Prince's songs"**](https://www.startribune.com/with-tiktok-music-fans-can-now-legally-lip-sync-to-all-of-prince-s-songs/571529892/) in [Minneapolis Star Tribune](https://www.startribune.com/) on 28 June 2020 about Let’s Go Crazy (song), Lizzo, Prince Estate, Spotify, The Prince Estate, TikTok, Troy Carter, YouTube ([mirror](https://web.archive.org/web/*/https://www.startribune.com/with-tiktok-music-fans-can-now-legally-lip-sync-to-all-of-prince-s-songs/571529892/))
+
+----
+
+ - [**"TikTok App Adds Prince’s Entire Music Catalog"**](https://variety.com/2020/digital/news/tiktok-princes-music-catalog-1234691489/) in [Variety](https://variety.com/) on 26 June 2020 about 1999 (album), 1999 (song), Controversy (album), Controversy (song), Let’s Go Crazy (song), Mitch Maguire, Prince Estate, Purple Rain (album), Purple Rain (song), The Prince Estate, TikTok, Troy Carter ([mirror](https://web.archive.org/web/*/https://variety.com/2020/digital/news/tiktok-princes-music-catalog-1234691489/))
+
+----
+
  - [**"Foo Fighters, Beck, H.E.R., Sheila E. Light Up ‘Grammy Salute to Prince’ Concert"**](https://www.yahoo.com/entertainment/foo-fighters-beck-h-e-233930375.html) in [Yahoo! Entertainment](https://www.yahoo.com/entertainment/) on 30 January 2020 about 1999 (song), Baby I’m a Star (song), Bangles, Beck, Chris Martin, Coldplay, Controversy (song), D’Angelo, Darling Nikki (song), Diamonds and Pearls (song), Earth, Wind & Fire, Foo Fighters, Fred Armisen, Gary Clark Jr., Gretchen Lieberum, H.E.R., Janelle Monae, Jerome Benton, Jimmy Jam, John Legend, Juanes, Jungle Love (song), Ken Ehrlich, Let’s Go Crazy (song), Lisa Coleman, Manic Monday (song), Mavis Staples, Maya Rudolph, Misty Copeland, Morris Day, Mountains (song), Nothing Compares 2 U (song), Pop Life (song), PRINCEss, Purple Rain (song), Raspberry Beret (song), Sheila E., St. Vincent, Stevie Wonder, Super Bowl, Terry Lewis, The Beautiful Ones (song), The Bird (song), The Glamorous Life (song), The Revolution, The Time, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://www.yahoo.com/entertainment/foo-fighters-beck-h-e-233930375.html))
 
 ----
@@ -40,7 +48,7 @@
 
 ----
 
- - [**"Grammys will honor Prince with an all-star concert broadcast on CBS"**](http://www.startribune.com/grammys-will-honor-prince-with-an-all-star-concert-broadcast-on-cbs/566849132/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 9 January 2020 about Alicia Keys, Aretha Franklin, Beck, Chris Martin, Coldplay, Earth, Wind & Fire, Foo Fighters, Gary Clark Jr., Grammy Award, H.E.R., Jimmy Jam, John Legend, Juanes, Let’s Go Crazy (song), Let's Go Crazy: The Grammy Salute to Prince (event), Los Angeles Convention Center (place), Mavis Staples, Morris Day, Morris Day & The Time, Morris Day and The Time, St. Vincent, Stevie Wonder, Susanna Hoffs, Terry Lewis, The Revolution, The Time, Usher ([mirror](https://web.archive.org/web/*/http://www.startribune.com/grammys-will-honor-prince-with-an-all-star-concert-broadcast-on-cbs/566849132/))
+ - [**"Grammys will honor Prince with an all-star concert broadcast on CBS"**](http://www.startribune.com/grammys-will-honor-prince-with-an-all-star-concert-broadcast-on-cbs/566849132/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 9 January 2020 about Alicia Keys, Aretha Franklin, Beck, Chris Martin, Coldplay, Earth, Wind & Fire, Foo Fighters, Gary Clark Jr., Grammy Award, H.E.R., Jimmy Jam, John Legend, Juanes, Let’s Go Crazy (song), Let's Go Crazy: The Grammy Salute to Prince (event), Los Angeles Convention Center (place), Mavis Staples, Morris Day, Morris Day & The Time, Morris Day and The Time, St. Vincent, Stevie Wonder, Susanna Hoffs, Terry Lewis, The Revolution, The Time, Usher ([mirror](https://web.archive.org/web/*/http://www.startribune.com/grammys-will-honor-prince-with-an-all-star-concert-broadcast-on-cbs/566849132/))
 
 ----
 
@@ -68,7 +76,7 @@
 
 ----
 
- - [**"No, seriously: Weird Al and his fans explain why he's so big at the Minnesota State Fair -- Weird Al Yankovic is headed to the Minnesota State Fair's grandstand. We talked to fans of the clever parodist. "**](http://www.startribune.com/no-seriously-weird-al-and-his-fans-explain-why-he-s-so-big-at-the-minnesota-state-fair/557878752/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 August 2019 about First Avenue (place), Frank Zappa, Let’s Go Crazy (song), Michael Jackson, Minnesota State Fair, State Fair, Weird Al Yankovic ([mirror](https://web.archive.org/web/*/http://www.startribune.com/no-seriously-weird-al-and-his-fans-explain-why-he-s-so-big-at-the-minnesota-state-fair/557878752/))
+ - [**"No, seriously: Weird Al and his fans explain why he's so big at the Minnesota State Fair -- Weird Al Yankovic is headed to the Minnesota State Fair's grandstand. We talked to fans of the clever parodist. "**](http://www.startribune.com/no-seriously-weird-al-and-his-fans-explain-why-he-s-so-big-at-the-minnesota-state-fair/557878752/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 22 August 2019 about First Avenue (place), Frank Zappa, Let’s Go Crazy (song), Michael Jackson, Minnesota State Fair, State Fair, Weird Al Yankovic ([mirror](https://web.archive.org/web/*/http://www.startribune.com/no-seriously-weird-al-and-his-fans-explain-why-he-s-so-big-at-the-minnesota-state-fair/557878752/))
 
 ----
 
@@ -76,7 +84,7 @@
 
 ----
 
- - [**"Why Weird Al Yankovic never parodied Prince"**](http://www.startribune.com/why-weird-al-yankovic-never-parodied-prince/557878822/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 August 2019 about Let’s Go Crazy (song), Weird Al Yankovic ([mirror](https://web.archive.org/web/*/http://www.startribune.com/why-weird-al-yankovic-never-parodied-prince/557878822/))
+ - [**"Why Weird Al Yankovic never parodied Prince"**](http://www.startribune.com/why-weird-al-yankovic-never-parodied-prince/557878822/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 22 August 2019 about Let’s Go Crazy (song), Weird Al Yankovic ([mirror](https://web.archive.org/web/*/http://www.startribune.com/why-weird-al-yankovic-never-parodied-prince/557878822/))
 
 ----
 
@@ -92,7 +100,7 @@
 
 ----
 
- - [**"Imagine, if you will, a picture with John Travolta as the 'Purple Rain' kid"**](http://www.startribune.com/c-j-imagine-if-you-will-a-picture-with-john-travolta-as-the-purple-rain-kid/512260012/) by C.J. (Cheryl Johnson) in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 July 2019 about Alan Light, Albert Magnoli, John Travolta, Let’s Go Crazy (song), Morris Hayes, Neal Karlen, New Power Generation, Purple Rain (album), Purple Rain (movie), Purple Rain (song), The Revolution ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-imagine-if-you-will-a-picture-with-john-travolta-as-the-purple-rain-kid/512260012/))
+ - [**"Imagine, if you will, a picture with John Travolta as the 'Purple Rain' kid"**](http://www.startribune.com/c-j-imagine-if-you-will-a-picture-with-john-travolta-as-the-purple-rain-kid/512260012/) by C.J. (Cheryl Johnson) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 5 July 2019 about Alan Light, Albert Magnoli, John Travolta, Let’s Go Crazy (song), Morris Hayes, Neal Karlen, New Power Generation, Purple Rain (album), Purple Rain (movie), Purple Rain (song), SiriusXM, The Revolution ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-imagine-if-you-will-a-picture-with-john-travolta-as-the-purple-rain-kid/512260012/))
 
 ----
 
@@ -100,7 +108,7 @@
 
 ----
 
- - [**"TV picks for June 1-2: Prince, ‘Perpetual Grace LTD,’ ‘The Weekly’"**](http://www.startribune.com/tv-picks-for-june-1-2-prince-perpetual-grace-ltd-the-weekly/510669062/) by Neal Justin in [Minneapolis Star Tribune](http://www.startribune.com/) on 4 June 2019 about Let’s Go Crazy (song), Nothing Compares 2 U (song), Rave Un2 the Year 2000 (video) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/tv-picks-for-june-1-2-prince-perpetual-grace-ltd-the-weekly/510669062/))
+ - [**"TV picks for June 1-2: Prince, ‘Perpetual Grace LTD,’ ‘The Weekly’"**](http://www.startribune.com/tv-picks-for-june-1-2-prince-perpetual-grace-ltd-the-weekly/510669062/) by Neal Justin in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 4 June 2019 about Let’s Go Crazy (song), Nothing Compares 2 U (song), Rave Un2 the Year 2000 (video) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/tv-picks-for-june-1-2-prince-perpetual-grace-ltd-the-weekly/510669062/))
 
 ----
 
@@ -108,7 +116,7 @@
 
 ----
 
- - [**"Expect Prince-themed Wolves jerseys to be unveiled Thursday at Paisley Park -- A partial look at the new uniform — which honor the Minnesota music legend who died in 2016 — was leaked on social media last week."**](http://www.startribune.com/expect-prince-themed-wolves-jerseys-to-be-unveiled-thursday-at-paisley-park/499015121/) by Michael Rand in [Minneapolis Star Tribune](http://www.startribune.com/) on 30 October 2018 about Let’s Go Crazy (song), Minnesota Timberwolves, Timberwolves ([mirror](https://web.archive.org/web/*/http://www.startribune.com/expect-prince-themed-wolves-jerseys-to-be-unveiled-thursday-at-paisley-park/499015121/))
+ - [**"Expect Prince-themed Wolves jerseys to be unveiled Thursday at Paisley Park -- A partial look at the new uniform — which honor the Minnesota music legend who died in 2016 — was leaked on social media last week."**](http://www.startribune.com/expect-prince-themed-wolves-jerseys-to-be-unveiled-thursday-at-paisley-park/499015121/) by Michael Rand in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 30 October 2018 about Let’s Go Crazy (song), Minnesota Timberwolves, Timberwolves ([mirror](https://web.archive.org/web/*/http://www.startribune.com/expect-prince-themed-wolves-jerseys-to-be-unveiled-thursday-at-paisley-park/499015121/))
 
 ----
 
@@ -116,7 +124,7 @@
 
 ----
 
- - [**"After two years and a team record for goals, Wild is ditching 'Let's Go Crazy' -- There appeared to be a strange unease among the Wild faithful with having “Let’s Go Crazy” as the goal song"**](http://www.startribune.com/after-two-years-and-a-team-record-for-goals-wild-is-ditching-lets-go-crazy/494917391/) by Michael Rand in [Minneapolis Star Tribune](http://www.startribune.com/) on 2 October 2018 about Let’s Go Crazy (song), Minnesota Wild, trademark ([mirror](https://web.archive.org/web/*/http://www.startribune.com/after-two-years-and-a-team-record-for-goals-wild-is-ditching-lets-go-crazy/494917391/))
+ - [**"After two years and a team record for goals, Wild is ditching 'Let's Go Crazy' -- There appeared to be a strange unease among the Wild faithful with having “Let’s Go Crazy” as the goal song"**](http://www.startribune.com/after-two-years-and-a-team-record-for-goals-wild-is-ditching-lets-go-crazy/494917391/) by Michael Rand in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 2 October 2018 about Let’s Go Crazy (song), Minnesota Wild, trademark ([mirror](https://web.archive.org/web/*/http://www.startribune.com/after-two-years-and-a-team-record-for-goals-wild-is-ditching-lets-go-crazy/494917391/))
 
 ----
 
@@ -164,7 +172,7 @@
 
 ----
 
- - [**"Wild asks fans: Change goal song to Prince's 'Lets' Go Crazy?' -- The Wild traditionally has used Joe Satriani’s “Crowd Chant” as the song played after the home team scores a goal. Should that change?"**](http://www.startribune.com/wild-asks-fans-change-goal-song-to-princes-lets-go-crazy/388459791/) by Michael Rand in [Minneapolis Star Tribune](http://www.startribune.com/) on 27 July 2016 about Let’s Go Crazy (song), Minnesota Wild ([mirror](https://web.archive.org/web/*/http://www.startribune.com/wild-asks-fans-change-goal-song-to-princes-lets-go-crazy/388459791/))
+ - [**"Wild asks fans: Change goal song to Prince's 'Lets' Go Crazy?' -- The Wild traditionally has used Joe Satriani’s “Crowd Chant” as the song played after the home team scores a goal. Should that change?"**](http://www.startribune.com/wild-asks-fans-change-goal-song-to-princes-lets-go-crazy/388459791/) by Michael Rand in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 27 July 2016 about Let’s Go Crazy (song), Minnesota Wild ([mirror](https://web.archive.org/web/*/http://www.startribune.com/wild-asks-fans-change-goal-song-to-princes-lets-go-crazy/388459791/))
 
 ----
 
@@ -176,11 +184,11 @@
 
 ----
 
- - [**"Sheila E.: Saying goodbye to Prince 'the hardest thing I've ever had to do' -- Sheila E., longtime friend, said she never knew Prince to take drugs."**](http://www.startribune.com/sheila-e-saying-goodbye-to-prince-the-hardest-thing-i-ve-ever-had-to-do/376906621/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 April 2016 about Celebration, Chaka Khan, Kirk Johnson, Larry Graham, Let’s Go Crazy (song), Lionel Richie, Omarr Baker, Sheila E., TMZ (website), Tyka Nelson, WCCO-TV ([mirror](https://web.archive.org/web/*/http://www.startribune.com/sheila-e-saying-goodbye-to-prince-the-hardest-thing-i-ve-ever-had-to-do/376906621/))
+ - [**"Sheila E.: Saying goodbye to Prince 'the hardest thing I've ever had to do' -- Sheila E., longtime friend, said she never knew Prince to take drugs."**](http://www.startribune.com/sheila-e-saying-goodbye-to-prince-the-hardest-thing-i-ve-ever-had-to-do/376906621/) by Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 25 April 2016 about Celebration, Chaka Khan, Kirk Johnson, Larry Graham, Let’s Go Crazy (song), Lionel Richie, Omarr Baker, Sheila E., TMZ (website), Tyka Nelson, WCCO-TV ([mirror](https://web.archive.org/web/*/http://www.startribune.com/sheila-e-saying-goodbye-to-prince-the-hardest-thing-i-ve-ever-had-to-do/376906621/))
 
 ----
 
- - [**"Obituary: Prince was a diminutive giant who revolutionized pop -- Though he was a puzzle at times, the rocker was a true Minnesotan who changed music more than once in a nearly 40-year career."**](http://www.startribune.com/jon-bream-prince-was-a-once-in-a-generation-artist-who-never-rested-on-his-laurels/376594221/) by Chris Riemenschneider, Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 April 2016 about André Cymone, First Avenue (place), Grammy Award, John Nelson, Let’s Go Crazy (song), Little Red Corvette (song), Mayte, Mayte Garcia, Obama, Super Bowl, Super Bowl XLI (event), Tyka Nelson, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/jon-bream-prince-was-a-once-in-a-generation-artist-who-never-rested-on-his-laurels/376594221/))
+ - [**"Obituary: Prince was a diminutive giant who revolutionized pop -- Though he was a puzzle at times, the rocker was a true Minnesotan who changed music more than once in a nearly 40-year career."**](http://www.startribune.com/jon-bream-prince-was-a-once-in-a-generation-artist-who-never-rested-on-his-laurels/376594221/) by Chris Riemenschneider, Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 22 April 2016 about André Cymone, First Avenue (place), Grammy Award, John Nelson, Let’s Go Crazy (song), Little Red Corvette (song), Mayte, Mayte Garcia, Obama, Super Bowl, Super Bowl XLI (event), Tyka Nelson, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/jon-bream-prince-was-a-once-in-a-generation-artist-who-never-rested-on-his-laurels/376594221/))
 
 ----
 

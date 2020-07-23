@@ -12,11 +12,11 @@
 
 ----
 
- - [**"A purple-tie affair?"**](http://www.startribune.com/a-purple-tie-affair/372125381/) by Rohan Preston in [Minneapolis Star Tribune](http://www.startribune.com/) on 15 March 2016 about Chanhassen Dinner Theatres, Mixed Blood, Paisley Park Studios (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/a-purple-tie-affair/372125381/))
+ - [**"A purple-tie affair?"**](http://www.startribune.com/a-purple-tie-affair/372125381/) by Rohan Preston in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 15 March 2016 about Chanhassen Dinner Theatres, Mixed Blood, Paisley Park Studios (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/a-purple-tie-affair/372125381/))
 
 ----
 
- - [**"Prince gives surprise (brief) performance at Chanhassen Dinner Theatres"**](http://www.startribune.com/prince-gives-surprise-brief-performance-at-chanhassen-dinner-theatres/371944961/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 14 March 2016 about Chanhassen Dinner Theatres ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-gives-surprise-brief-performance-at-chanhassen-dinner-theatres/371944961/))
+ - [**"Prince gives surprise (brief) performance at Chanhassen Dinner Theatres"**](http://www.startribune.com/prince-gives-surprise-brief-performance-at-chanhassen-dinner-theatres/371944961/) by Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 14 March 2016 about Chanhassen Dinner Theatres ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-gives-surprise-brief-performance-at-chanhassen-dinner-theatres/371944961/))
 
 ----
 

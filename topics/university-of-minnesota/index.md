@@ -4,15 +4,15 @@
 
 ----
 
- - [**"Minnesota is often overlooked on a worldwide scale, but we have an amazing medical scene -- Images of 3M masks are widespread, which got me thinking."**](http://www.startribune.com/minnesota-is-often-overlooked-on-a-worldwide-scale-but-we-have-an-amazing-medical-scene/567438732/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 30 January 2020 about Lizzo, University of Minnesota ([mirror](https://web.archive.org/web/*/http://www.startribune.com/minnesota-is-often-overlooked-on-a-worldwide-scale-but-we-have-an-amazing-medical-scene/567438732/))
+ - [**"Minnesota is often overlooked on a worldwide scale, but we have an amazing medical scene -- Images of 3M masks are widespread, which got me thinking."**](http://www.startribune.com/minnesota-is-often-overlooked-on-a-worldwide-scale-but-we-have-an-amazing-medical-scene/567438732/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 30 January 2020 about Lizzo, University of Minnesota ([mirror](https://web.archive.org/web/*/http://www.startribune.com/minnesota-is-often-overlooked-on-a-worldwide-scale-but-we-have-an-amazing-medical-scene/567438732/))
 
 ----
 
- - [**"Minnesota is often overlooked on a worldwide scale, but we have an amazing medical scene -- Images of 3M masks are widespread, which got me thinking. "**](http://www.startribune.com/minnesota-is-often-overlooked-on-a-worldwide-scale-but-we-have-an-amazing-medical-scene/567438732/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 30 January 2020 about Celebration, Lizzo, University of Minnesota ([mirror](https://web.archive.org/web/*/http://www.startribune.com/minnesota-is-often-overlooked-on-a-worldwide-scale-but-we-have-an-amazing-medical-scene/567438732/))
+ - [**"Minnesota is often overlooked on a worldwide scale, but we have an amazing medical scene -- Images of 3M masks are widespread, which got me thinking. "**](http://www.startribune.com/minnesota-is-often-overlooked-on-a-worldwide-scale-but-we-have-an-amazing-medical-scene/567438732/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 30 January 2020 about Celebration, Lizzo, University of Minnesota ([mirror](https://web.archive.org/web/*/http://www.startribune.com/minnesota-is-often-overlooked-on-a-worldwide-scale-but-we-have-an-amazing-medical-scene/567438732/))
 
 ----
 
- - [**"Local artist pays tribute to Prince with giant mural at MSP airport -- Rock Martinez's mural of the music legend arrived for a yearlong stay at MSP as part of the airport's traveling exhibits program."**](http://www.startribune.com/local-artist-pays-tribute-to-prince-with-msp-airport-mural/567357372/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 28 January 2020 about airport, Alan Seiffert, ARTS@MSP, Bob Dylan, exhibit, I Would Die 4 U (song), merchandise, Minneapolis-St. Paul International Airport (place), MSP (place), museum, Rock Martinez, The Revolution, University of Minnesota, Weisman Art Museum (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/local-artist-pays-tribute-to-prince-with-msp-airport-mural/567357372/))
+ - [**"Local artist pays tribute to Prince with giant mural at MSP airport -- Rock Martinez's mural of the music legend arrived for a yearlong stay at MSP as part of the airport's traveling exhibits program."**](http://www.startribune.com/local-artist-pays-tribute-to-prince-with-msp-airport-mural/567357372/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 28 January 2020 about airport, Alan Seiffert, ARTS@MSP, Bob Dylan, exhibit, I Would Die 4 U (song), merchandise, Minneapolis-St. Paul International Airport (place), MSP (place), museum, Rock Martinez, The Revolution, University of Minnesota, Weisman Art Museum (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/local-artist-pays-tribute-to-prince-with-msp-airport-mural/567357372/))
 
 ----
 
@@ -24,7 +24,7 @@
 
 ----
 
- - [**"Star Tribune's 2019 Artists of the Year -- Meet the Minnesotans at the heart of the year's most groundbreaking show."**](http://www.startribune.com/6-minnesotans-are-2019-artists-of-the-year/564924782/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 6 January 2020 about 1999 (album), ASCAP, Ava DuVernay, Bangles, Bob Dylan, Dakota (place), exhibit, exhibition, Kenny Rogers, Lizzo, memoir, Minneapolis Institute of Art, museum, Netflix, Originals (album), Rearrange (song), Sheila E., Smithsonian (place), The Beautiful Ones (book), University of Minnesota, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/6-minnesotans-are-2019-artists-of-the-year/564924782/))
+ - [**"Star Tribune's 2019 Artists of the Year -- Meet the Minnesotans at the heart of the year's most groundbreaking show."**](http://www.startribune.com/6-minnesotans-are-2019-artists-of-the-year/564924782/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 6 January 2020 about 1999 (album), ASCAP, Ava DuVernay, Bangles, Bob Dylan, Dakota (place), exhibit, exhibition, Kenny Rogers, Lizzo, memoir, Minneapolis Institute of Art, museum, Netflix, Originals (album), Rearrange (song), Sheila E., Smithsonian (place), The Beautiful Ones (book), University of Minnesota, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/6-minnesotans-are-2019-artists-of-the-year/564924782/))
 
 ----
 
@@ -48,23 +48,23 @@
 
 ----
 
- - [**"Prince receives honorary degree from University of Minnesota -- Prince received an honorary degree from the University of Minnesota's school of music on Wednesday, Sept 26, 2018 at the Ted Mann Concert Hall in Minneapolis, Minn."**](http://www.startribune.com/prince-receives-honorary-degree-from-university-of-minnesota/494452521/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 September 2018 about honorary degree, University of Minnesota ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-receives-honorary-degree-from-university-of-minnesota/494452521/))
+ - [**"Prince receives honorary degree from University of Minnesota -- Prince received an honorary degree from the University of Minnesota's school of music on Wednesday, Sept 26, 2018 at the Ted Mann Concert Hall in Minneapolis, Minn."**](http://www.startribune.com/prince-receives-honorary-degree-from-university-of-minnesota/494452521/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 26 September 2018 about honorary degree, University of Minnesota ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-receives-honorary-degree-from-university-of-minnesota/494452521/))
 
 ----
 
- - [**"Thanks to a University of Minnesota degree, his name is 'Dr. Prince' now"**](http://www.startribune.com/thanks-to-a-university-of-minnesota-degree-his-name-is-dr-prince-now/494454901/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 September 2018 about University of Minnesota ([mirror](https://web.archive.org/web/*/http://www.startribune.com/thanks-to-a-university-of-minnesota-degree-his-name-is-dr-prince-now/494454901/))
+ - [**"Thanks to a University of Minnesota degree, his name is 'Dr. Prince' now"**](http://www.startribune.com/thanks-to-a-university-of-minnesota-degree-his-name-is-dr-prince-now/494454901/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 26 September 2018 about University of Minnesota ([mirror](https://web.archive.org/web/*/http://www.startribune.com/thanks-to-a-university-of-minnesota-degree-his-name-is-dr-prince-now/494454901/))
 
 ----
 
- - [**"University of Minnesota awards honorary degree to Prince"**](http://www.startribune.com/university-of-minnesota-awarding-honorary-degree-to-prince/494377981/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 September 2018 about honorary degree, University of Minnesota ([mirror](https://web.archive.org/web/*/http://www.startribune.com/university-of-minnesota-awarding-honorary-degree-to-prince/494377981/))
+ - [**"University of Minnesota awards honorary degree to Prince"**](http://www.startribune.com/university-of-minnesota-awarding-honorary-degree-to-prince/494377981/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 26 September 2018 about honorary degree, University of Minnesota ([mirror](https://web.archive.org/web/*/http://www.startribune.com/university-of-minnesota-awarding-honorary-degree-to-prince/494377981/))
 
 ----
 
- - [**"University of Minnesota confers honorary degree to Prince"**](http://video.startribune.com/university-of-minnesota-confers-honorary-degree-to-prince/494449581/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 September 2018 about honorary degree, University of Minnesota ([mirror](https://web.archive.org/web/*/http://video.startribune.com/university-of-minnesota-confers-honorary-degree-to-prince/494449581/))
+ - [**"University of Minnesota confers honorary degree to Prince"**](http://video.startribune.com/university-of-minnesota-confers-honorary-degree-to-prince/494449581/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 26 September 2018 about honorary degree, University of Minnesota ([mirror](https://web.archive.org/web/*/http://video.startribune.com/university-of-minnesota-confers-honorary-degree-to-prince/494449581/))
 
 ----
 
- - [**"Prince to receive honorary degree from University of Minnesota"**](http://www.startribune.com/prince-to-receive-honorary-degree-from-university-of-minnesota-on-sept-26/490762631/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 13 August 2018 about honorary degree, University of Minnesota ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-to-receive-honorary-degree-from-university-of-minnesota-on-sept-26/490762631/))
+ - [**"Prince to receive honorary degree from University of Minnesota"**](http://www.startribune.com/prince-to-receive-honorary-degree-from-university-of-minnesota-on-sept-26/490762631/) by Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 13 August 2018 about honorary degree, University of Minnesota ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-to-receive-honorary-degree-from-university-of-minnesota-on-sept-26/490762631/))
 
 ----
 
@@ -76,7 +76,7 @@
 
 ----
 
- - [**"'We lost a spiritual brother' in Prince -- A low-profile member in life, the star draws attention to Jehovah's Witnesses after death."**](http://www.startribune.com/prince-s-death-puts-spotlight-on-jehovah-s-witnesses/377972981/) by Jean Hopfensperger in [Minneapolis Star Tribune](http://www.startribune.com/) on 4 May 2016 about Jehovah’s Witness, Larry Graham, St. Louis Park (place), University of Minnesota ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-death-puts-spotlight-on-jehovah-s-witnesses/377972981/))
+ - [**"'We lost a spiritual brother' in Prince -- A low-profile member in life, the star draws attention to Jehovah's Witnesses after death."**](http://www.startribune.com/prince-s-death-puts-spotlight-on-jehovah-s-witnesses/377972981/) by Jean Hopfensperger in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 4 May 2016 about Jehovah’s Witness, Larry Graham, St. Louis Park (place), University of Minnesota ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-death-puts-spotlight-on-jehovah-s-witnesses/377972981/))
 
 ----
 

@@ -1,6 +1,6 @@
 # Donna Grantis
 
- - [**"Celebration 2020 at Paisley Park will coincide with Prince's birth, not death"**](http://www.startribune.com/celebration-2020-at-paisley-park-will-coincide-with-prince-s-birth-not-death/566249302/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 16 December 2019 about 1999 Super Deluxe (album), Alan Seiffert, Celebration, Celebration 2020, contract, Donna Grantis, George Clinton, Graceland, Graceland Holdings, Judith Hill, Justin Timberlake, Liv Warfield, Morris Day, Morris Day & The Time, museum, Nooky Jones, Sometimes It Snows In April (song), Super Bowl, The Revolution ([mirror](https://web.archive.org/web/*/http://www.startribune.com/celebration-2020-at-paisley-park-will-coincide-with-prince-s-birth-not-death/566249302/))
+ - [**"Celebration 2020 at Paisley Park will coincide with Prince's birth, not death"**](http://www.startribune.com/celebration-2020-at-paisley-park-will-coincide-with-prince-s-birth-not-death/566249302/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 16 December 2019 about 1999 Super Deluxe (album), Alan Seiffert, Celebration, Celebration 2020, contract, Donna Grantis, George Clinton, Graceland, Graceland Holdings, Judith Hill, Justin Timberlake, Liv Warfield, Morris Day, Morris Day & The Time, museum, Nooky Jones, Sometimes It Snows In April (song), Super Bowl, The Revolution ([mirror](https://web.archive.org/web/*/http://www.startribune.com/celebration-2020-at-paisley-park-will-coincide-with-prince-s-birth-not-death/566249302/))
 
 ----
 
@@ -8,11 +8,11 @@
 
 ----
 
- - [**"Former Prince guitarist Donna Grantis celebrates new jazz-rock album at the Dakota -- 3rdEyeGirl guitarist Donna Grantis will celebrate her new jazz-rock fusion album in Minneapolis."**](http://www.startribune.com/former-prince-guitarist-donna-grantis-celebrates-new-jazz-rock-album-at-the-dakota/507678332/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 March 2019 about 3rdEyeGirl, Aretha Franklin, Dakota (place), Donna Grantis, Hannah Welton, Toronto, YouTube ([mirror](https://web.archive.org/web/*/http://www.startribune.com/former-prince-guitarist-donna-grantis-celebrates-new-jazz-rock-album-at-the-dakota/507678332/))
+ - [**"Former Prince guitarist Donna Grantis celebrates new jazz-rock album at the Dakota -- 3rdEyeGirl guitarist Donna Grantis will celebrate her new jazz-rock fusion album in Minneapolis."**](http://www.startribune.com/former-prince-guitarist-donna-grantis-celebrates-new-jazz-rock-album-at-the-dakota/507678332/) by Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 26 March 2019 about 3rdEyeGirl, Aretha Franklin, Dakota (place), Donna Grantis, Hannah Welton, Toronto, YouTube ([mirror](https://web.archive.org/web/*/http://www.startribune.com/former-prince-guitarist-donna-grantis-celebrates-new-jazz-rock-album-at-the-dakota/507678332/))
 
 ----
 
- - [**"Prince protégée Donna Grantis elaborates on the titles for new 'Diamonds & Dynamite' album"**](http://www.startribune.com/prince-protge-donna-grantis-elaborates-on-the-titles-for-new-diamonds-amp-dynamite-album/507678302/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 March 2019 about Donna Grantis ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-protge-donna-grantis-elaborates-on-the-titles-for-new-diamonds-amp-dynamite-album/507678302/))
+ - [**"Prince protégée Donna Grantis elaborates on the titles for new 'Diamonds & Dynamite' album"**](http://www.startribune.com/prince-protge-donna-grantis-elaborates-on-the-titles-for-new-diamonds-amp-dynamite-album/507678302/) by Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 26 March 2019 about Donna Grantis ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-protge-donna-grantis-elaborates-on-the-titles-for-new-diamonds-amp-dynamite-album/507678302/))
 
 ----
 
@@ -20,23 +20,23 @@
 
 ----
 
- - [**"Review: Ex-Prince guitarist Donna Grantis explores fusion"**](http://www.startribune.com/review-ex-prince-guitarist-donna-grantis-explores-fusion/507416972/) by Pablo Gorondi (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 March 2019 about Donna Grantis ([mirror](https://web.archive.org/web/*/http://www.startribune.com/review-ex-prince-guitarist-donna-grantis-explores-fusion/507416972/))
+ - [**"Review: Ex-Prince guitarist Donna Grantis explores fusion"**](http://www.startribune.com/review-ex-prince-guitarist-donna-grantis-explores-fusion/507416972/) by Pablo Gorondi (Associated Press) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 20 March 2019 about Donna Grantis ([mirror](https://web.archive.org/web/*/http://www.startribune.com/review-ex-prince-guitarist-donna-grantis-explores-fusion/507416972/))
 
 ----
 
- - [**"Paisley Park rocks again with four of Prince's female protégées in concert"**](http://www.startribune.com/paisley-park-rocks-again-with-four-of-prince-s-female-protegees-in-concert/507037812/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 March 2019 about 3rdEyeGirl, Donna Grantis, Judith Hill, Liv Warfield, Sheila E., Shelby J. ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-rocks-again-with-four-of-prince-s-female-protegees-in-concert/507037812/))
+ - [**"Paisley Park rocks again with four of Prince's female protégées in concert"**](http://www.startribune.com/paisley-park-rocks-again-with-four-of-prince-s-female-protegees-in-concert/507037812/) by Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 12 March 2019 about 3rdEyeGirl, Donna Grantis, Judith Hill, Liv Warfield, Sheila E., Shelby J. ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-rocks-again-with-four-of-prince-s-female-protegees-in-concert/507037812/))
 
 ----
 
- - [**"Prince's former musician Donna Grantis plays guitar hero at the Dakota"**](http://www.startribune.com/prince-s-former-musician-donna-grantis-plays-guitar-hero-at-the-dakota/480212673/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 April 2018 about Dakota (place), Donna Grantis ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-former-musician-donna-grantis-plays-guitar-hero-at-the-dakota/480212673/))
+ - [**"Prince's former musician Donna Grantis plays guitar hero at the Dakota"**](http://www.startribune.com/prince-s-former-musician-donna-grantis-plays-guitar-hero-at-the-dakota/480212673/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 19 April 2018 about Dakota (place), Donna Grantis ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-former-musician-donna-grantis-plays-guitar-hero-at-the-dakota/480212673/))
 
 ----
 
- - [**"Ex-Prince guitarist Donna Grantis creates big fun with jazz-rock fusion group"**](http://www.startribune.com/ex-prince-guitarist-donna-grantis-creates-big-fun-with-jazz-rock-fusion-group/438738623/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 August 2017 about Donna Grantis ([mirror](https://web.archive.org/web/*/http://www.startribune.com/ex-prince-guitarist-donna-grantis-creates-big-fun-with-jazz-rock-fusion-group/438738623/))
+ - [**"Ex-Prince guitarist Donna Grantis creates big fun with jazz-rock fusion group"**](http://www.startribune.com/ex-prince-guitarist-donna-grantis-creates-big-fun-with-jazz-rock-fusion-group/438738623/) by Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 5 August 2017 about Donna Grantis ([mirror](https://web.archive.org/web/*/http://www.startribune.com/ex-prince-guitarist-donna-grantis-creates-big-fun-with-jazz-rock-fusion-group/438738623/))
 
 ----
 
- - [**"Former Prince guitarist Donna Grantis debuts genre-bending band in Minneapolis -- Former Prince guitarist Donna Grantis will debut her new instrumental project on Friday."**](http://www.startribune.com/former-prince-guitarist-donna-grantis-debuts-genre-bending-band-in-minneapolis/437048403/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 29 July 2017 about Donna Grantis ([mirror](https://web.archive.org/web/*/http://www.startribune.com/former-prince-guitarist-donna-grantis-debuts-genre-bending-band-in-minneapolis/437048403/))
+ - [**"Former Prince guitarist Donna Grantis debuts genre-bending band in Minneapolis -- Former Prince guitarist Donna Grantis will debut her new instrumental project on Friday."**](http://www.startribune.com/former-prince-guitarist-donna-grantis-debuts-genre-bending-band-in-minneapolis/437048403/) by Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 29 July 2017 about Donna Grantis ([mirror](https://web.archive.org/web/*/http://www.startribune.com/former-prince-guitarist-donna-grantis-debuts-genre-bending-band-in-minneapolis/437048403/))
 
 ----
 
@@ -56,7 +56,7 @@
 
 ----
 
- - [**"Prince's Rocktober continues with another lengthy jam at Paisley Park -- He cut loose and went long at his Chanhassen complex Saturday, this time with Judith Hill playing along."**](http://www.startribune.com/prince-s-rocktober-continues-with-another-lengthy-jam-at-paisley-park/336882621/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 October 2015 about 3rdEyeGirl, Donna Grantis, Judith Hill, Kirk Johnson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-rocktober-continues-with-another-lengthy-jam-at-paisley-park/336882621/))
+ - [**"Prince's Rocktober continues with another lengthy jam at Paisley Park -- He cut loose and went long at his Chanhassen complex Saturday, this time with Judith Hill playing along."**](http://www.startribune.com/prince-s-rocktober-continues-with-another-lengthy-jam-at-paisley-park/336882621/) by Chris Riemenschneider in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 25 October 2015 about 3rdEyeGirl, Donna Grantis, Judith Hill, Kirk Johnson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-rocktober-continues-with-another-lengthy-jam-at-paisley-park/336882621/))
 
 ----
 

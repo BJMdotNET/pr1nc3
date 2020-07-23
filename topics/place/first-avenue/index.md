@@ -1,6 +1,10 @@
 # First Avenue (place)
 
- - [**"6 cool things in music this week include Brandi Carlile, Billie Eilish, Common, Rosanne Cash and Justin Bieber"**](http://www.startribune.com/6-cool-things-in-music-this-week-include-brandi-carlile-billie-eilish-common-rosanne-cash-and-justin-bieber/568081192/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 21 February 2020 about exhibit, Fillmore Minneapolis (place), First Avenue (place), Jon Bream, Minnesota History Center, Prince: Before the Rain ([mirror](https://web.archive.org/web/*/http://www.startribune.com/6-cool-things-in-music-this-week-include-brandi-carlile-billie-eilish-common-rosanne-cash-and-justin-bieber/568081192/))
+ - [**"Klobuchar bill would cough up $10 billion for struggling music venues"**](http://www.citypages.com/music/klobuchar-bill-would-cough-up-10-billion-for-struggling-music-venues/571865291) in [City Pages](http://www.citypages.com/) on 22 July 2020 about Dakota (place), First Avenue (place) ([mirror](https://web.archive.org/web/*/http://www.citypages.com/music/klobuchar-bill-would-cough-up-10-billion-for-struggling-music-venues/571865291))
+
+----
+
+ - [**"6 cool things in music this week include Brandi Carlile, Billie Eilish, Common, Rosanne Cash and Justin Bieber"**](http://www.startribune.com/6-cool-things-in-music-this-week-include-brandi-carlile-billie-eilish-common-rosanne-cash-and-justin-bieber/568081192/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 21 February 2020 about exhibit, Fillmore Minneapolis (place), First Avenue (place), Jon Bream, Minnesota History Center, Prince: Before the Rain ([mirror](https://web.archive.org/web/*/http://www.startribune.com/6-cool-things-in-music-this-week-include-brandi-carlile-billie-eilish-common-rosanne-cash-and-justin-bieber/568081192/))
 
 ----
 
@@ -16,11 +20,11 @@
 
 ----
 
- - [**"Best of the Week (Feb. 16-23): Tove Lo, Joe Henry, 'Gotta Dance,' Raphael Saadiq, VocalEssence, winter fest, more"**](http://www.startribune.com/best-of-the-week-feb-16-23-tove-lo-joe-henry-gotta-dance-raphael-saadiq-vocalessence-winter-fest-more/567872132/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 14 February 2020 about Celebration, Dakota (place), First Avenue (place), Jon Bream, Raphael Saadiq ([mirror](https://web.archive.org/web/*/http://www.startribune.com/best-of-the-week-feb-16-23-tove-lo-joe-henry-gotta-dance-raphael-saadiq-vocalessence-winter-fest-more/567872132/))
+ - [**"Best of the Week (Feb. 16-23): Tove Lo, Joe Henry, 'Gotta Dance,' Raphael Saadiq, VocalEssence, winter fest, more"**](http://www.startribune.com/best-of-the-week-feb-16-23-tove-lo-joe-henry-gotta-dance-raphael-saadiq-vocalessence-winter-fest-more/567872132/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 14 February 2020 about Celebration, Dakota (place), First Avenue (place), Jon Bream, Raphael Saadiq ([mirror](https://web.archive.org/web/*/http://www.startribune.com/best-of-the-week-feb-16-23-tove-lo-joe-henry-gotta-dance-raphael-saadiq-vocalessence-winter-fest-more/567872132/))
 
 ----
 
- - [**"Twin Cities concerts of the week: Iron & Wine with Calexico, Sudaka Fest, Heart Bones and the Suburbs -- This big gigs for Feb. 14-20, also including Tove Lo, Ellis Delaney's release party, memorials for Ed Ackerson and Lexii Alijai, Rosanne Cash, a Louisiana twofer and a Paisley Park party with Meshell Ndegeocello. "**](http://www.startribune.com/twin-cities-concerts-of-the-week-iron-amp-wine-with-calexico-sudaka-fest-heart-bones-and-the-suburbs/567843822/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 14 February 2020 about Celebration, Dakota (place), Darling Nikki (song), First Avenue (place), Garrison Keillor, Meshell Ndegeocello, Paul Peterson, Sometimes It Snows In April (song), St. Paul Peterson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/twin-cities-concerts-of-the-week-iron-amp-wine-with-calexico-sudaka-fest-heart-bones-and-the-suburbs/567843822/))
+ - [**"Twin Cities concerts of the week: Iron & Wine with Calexico, Sudaka Fest, Heart Bones and the Suburbs -- This big gigs for Feb. 14-20, also including Tove Lo, Ellis Delaney's release party, memorials for Ed Ackerson and Lexii Alijai, Rosanne Cash, a Louisiana twofer and a Paisley Park party with Meshell Ndegeocello. "**](http://www.startribune.com/twin-cities-concerts-of-the-week-iron-amp-wine-with-calexico-sudaka-fest-heart-bones-and-the-suburbs/567843822/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 14 February 2020 about Celebration, Dakota (place), Darling Nikki (song), First Avenue (place), Garrison Keillor, Meshell Ndegeocello, Paul Peterson, Sometimes It Snows In April (song), St. Paul Peterson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/twin-cities-concerts-of-the-week-iron-amp-wine-with-calexico-sudaka-fest-heart-bones-and-the-suburbs/567843822/))
 
 ----
 
@@ -32,7 +36,7 @@
 
 ----
 
- - [**"Black Pumas talk busking, Grammys and Prince ahead of the Current birthday bash -- The soul-rock duo is up for a best new artist Grammy but hardly inexperienced (see: Prince). "**](http://www.startribune.com/black-pumas-talk-busking-grammys-and-prince-ahead-of-the-current-birthday-bash/567044352/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 17 January 2020 about 3121 (album), First Avenue (place), Lizzo, PBS, YouTube ([mirror](https://web.archive.org/web/*/http://www.startribune.com/black-pumas-talk-busking-grammys-and-prince-ahead-of-the-current-birthday-bash/567044352/))
+ - [**"Black Pumas talk busking, Grammys and Prince ahead of the Current birthday bash -- The soul-rock duo is up for a best new artist Grammy but hardly inexperienced (see: Prince). "**](http://www.startribune.com/black-pumas-talk-busking-grammys-and-prince-ahead-of-the-current-birthday-bash/567044352/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 17 January 2020 about 3121 (album), First Avenue (place), Lizzo, PBS, YouTube ([mirror](https://web.archive.org/web/*/http://www.startribune.com/black-pumas-talk-busking-grammys-and-prince-ahead-of-the-current-birthday-bash/567044352/))
 
 ----
 
@@ -44,7 +48,7 @@
 
 ----
 
- - [**"6 cool things in music include Beyoncé's Elle interview, J.S. Ondara, David Byrne & Nachito Herrera"**](http://www.startribune.com/6-cool-things-in-music-include-beyonce-s-elle-interview-j-s-ondara-david-byrne-amp-nachito-herrera/566170311/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 13 December 2019 about Dakota (place), First Avenue (place), Jon Bream, St. Louis Park (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/6-cool-things-in-music-include-beyonce-s-elle-interview-j-s-ondara-david-byrne-amp-nachito-herrera/566170311/))
+ - [**"6 cool things in music include Beyoncé's Elle interview, J.S. Ondara, David Byrne & Nachito Herrera"**](http://www.startribune.com/6-cool-things-in-music-include-beyonce-s-elle-interview-j-s-ondara-david-byrne-amp-nachito-herrera/566170311/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 13 December 2019 about Dakota (place), First Avenue (place), Jon Bream, St. Louis Park (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/6-cool-things-in-music-include-beyonce-s-elle-interview-j-s-ondara-david-byrne-amp-nachito-herrera/566170311/))
 
 ----
 
@@ -64,7 +68,7 @@
 
 ----
 
- - [**"6 cool things in music include Prince, CMA Awards, Apollo Theater doc, Tyler Childers"**](http://www.startribune.com/6-cool-things-in-music-include-prince-cma-awards-apollo-theater-doc-tyler-childers/564975732/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 15 November 2019 about First Avenue (place), Jon Bream, memoir, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/6-cool-things-in-music-include-prince-cma-awards-apollo-theater-doc-tyler-childers/564975732/))
+ - [**"6 cool things in music include Prince, CMA Awards, Apollo Theater doc, Tyler Childers"**](http://www.startribune.com/6-cool-things-in-music-include-prince-cma-awards-apollo-theater-doc-tyler-childers/564975732/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 15 November 2019 about First Avenue (place), Jon Bream, memoir, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/6-cool-things-in-music-include-prince-cma-awards-apollo-theater-doc-tyler-childers/564975732/))
 
 ----
 
@@ -72,7 +76,7 @@
 
 ----
 
- - [**"6 cool things in music including Prince's memoir, Lady Gaga, Kanye West, Lewis Capaldi, Tom Morello"**](http://www.startribune.com/6-cool-things-in-music-including-prince-s-memoir-lady-gaga-kanye-west-lewis-capaldi-tom-morello/564218342/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 2 November 2019 about First Avenue (place), Jon Bream, memoir, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/6-cool-things-in-music-including-prince-s-memoir-lady-gaga-kanye-west-lewis-capaldi-tom-morello/564218342/))
+ - [**"6 cool things in music including Prince's memoir, Lady Gaga, Kanye West, Lewis Capaldi, Tom Morello"**](http://www.startribune.com/6-cool-things-in-music-including-prince-s-memoir-lady-gaga-kanye-west-lewis-capaldi-tom-morello/564218342/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 2 November 2019 about First Avenue (place), Jon Bream, memoir, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/6-cool-things-in-music-including-prince-s-memoir-lady-gaga-kanye-west-lewis-capaldi-tom-morello/564218342/))
 
 ----
 
@@ -88,7 +92,7 @@
 
 ----
 
- - [**"Prince estate: Trump violated promise not to play 'Purple Rain' -- The campaign played the song at the president's Target Center appearance after it promised a year ago to stop playing Prince's music at rallies, the estate said. "**](http://www.startribune.com/prince-estate-says-playing-purple-rain-at-trump-rally-was-unauthorized/562782832/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 11 October 2019 about Donald Trump, First Avenue (place), Prince Estate, Purple Rain (song), The Prince Estate, Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-estate-says-playing-purple-rain-at-trump-rally-was-unauthorized/562782832/))
+ - [**"Prince estate: Trump violated promise not to play 'Purple Rain' -- The campaign played the song at the president's Target Center appearance after it promised a year ago to stop playing Prince's music at rallies, the estate said. "**](http://www.startribune.com/prince-estate-says-playing-purple-rain-at-trump-rally-was-unauthorized/562782832/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 11 October 2019 about Donald Trump, First Avenue (place), Prince Estate, Purple Rain (song), The Prince Estate, Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-estate-says-playing-purple-rain-at-trump-rally-was-unauthorized/562782832/))
 
 ----
 
@@ -112,7 +116,7 @@
 
 ----
 
- - [**"No, seriously: Weird Al and his fans explain why he's so big at the Minnesota State Fair -- Weird Al Yankovic is headed to the Minnesota State Fair's grandstand. We talked to fans of the clever parodist. "**](http://www.startribune.com/no-seriously-weird-al-and-his-fans-explain-why-he-s-so-big-at-the-minnesota-state-fair/557878752/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 August 2019 about First Avenue (place), Frank Zappa, Let’s Go Crazy (song), Michael Jackson, Minnesota State Fair, State Fair, Weird Al Yankovic ([mirror](https://web.archive.org/web/*/http://www.startribune.com/no-seriously-weird-al-and-his-fans-explain-why-he-s-so-big-at-the-minnesota-state-fair/557878752/))
+ - [**"No, seriously: Weird Al and his fans explain why he's so big at the Minnesota State Fair -- Weird Al Yankovic is headed to the Minnesota State Fair's grandstand. We talked to fans of the clever parodist. "**](http://www.startribune.com/no-seriously-weird-al-and-his-fans-explain-why-he-s-so-big-at-the-minnesota-state-fair/557878752/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 22 August 2019 about First Avenue (place), Frank Zappa, Let’s Go Crazy (song), Michael Jackson, Minnesota State Fair, State Fair, Weird Al Yankovic ([mirror](https://web.archive.org/web/*/http://www.startribune.com/no-seriously-weird-al-and-his-fans-explain-why-he-s-so-big-at-the-minnesota-state-fair/557878752/))
 
 ----
 
@@ -156,27 +160,27 @@
 
 ----
 
- - [**"Nerdy comic-musician Fred Armisen salutes Prince, Grant Hart at First Avenue"**](http://www.startribune.com/nerdy-comic-musician-fred-armisen-salutes-prince-grant-hart-at-first-avenue/510055762/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 17 May 2019 about First Avenue (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/nerdy-comic-musician-fred-armisen-salutes-prince-grant-hart-at-first-avenue/510055762/))
+ - [**"Nerdy comic-musician Fred Armisen salutes Prince, Grant Hart at First Avenue"**](http://www.startribune.com/nerdy-comic-musician-fred-armisen-salutes-prince-grant-hart-at-first-avenue/510055762/) by Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 17 May 2019 about First Avenue (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/nerdy-comic-musician-fred-armisen-salutes-prince-grant-hart-at-first-avenue/510055762/))
 
 ----
 
- - [**"10 things you’ll learn about First Avenue in new Minnesota History Center show -- First Avenue is getting the museum treatment. Here are 10 things you’ll learn about Minnesota’s most fabled nightclub."**](http://www.startribune.com/10-things-you-ll-learn-about-first-avenue-in-new-minnesota-history-center-show/509374312/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 3 May 2019 about David Brewster, Erotic City (song), First Avenue (place), Jehovah’s Witness, Minnesota History Center, museum, Purple Rain (movie), Sam’s (place), Uncle Sam’s (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/10-things-you-ll-learn-about-first-avenue-in-new-minnesota-history-center-show/509374312/))
+ - [**"10 things you’ll learn about First Avenue in new Minnesota History Center show -- First Avenue is getting the museum treatment. Here are 10 things you’ll learn about Minnesota’s most fabled nightclub."**](http://www.startribune.com/10-things-you-ll-learn-about-first-avenue-in-new-minnesota-history-center-show/509374312/) by Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 3 May 2019 about David Brewster, Erotic City (song), First Avenue (place), Jehovah’s Witness, Minnesota History Center, museum, Purple Rain (movie), Sam’s (place), Uncle Sam’s (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/10-things-you-ll-learn-about-first-avenue-in-new-minnesota-history-center-show/509374312/))
 
 ----
 
- - [**"First Avenue comes alive at the Minnesota History Center -- The Minnesota History Center is opening a First Avenue exhibit that captures nearly 50 years of Minnesota music history."**](http://www.startribune.com/first-avenue-comes-alive-at-the-minnesota-history-center/509269541/) by Leila Navidi in [Minneapolis Star Tribune](http://www.startribune.com/) on 2 May 2019 about First Avenue (place), Minnesota History Center ([mirror](https://web.archive.org/web/*/http://www.startribune.com/first-avenue-comes-alive-at-the-minnesota-history-center/509269541/))
+ - [**"First Avenue comes alive at the Minnesota History Center -- The Minnesota History Center is opening a First Avenue exhibit that captures nearly 50 years of Minnesota music history."**](http://www.startribune.com/first-avenue-comes-alive-at-the-minnesota-history-center/509269541/) by Leila Navidi in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 2 May 2019 about First Avenue (place), Minnesota History Center ([mirror](https://web.archive.org/web/*/http://www.startribune.com/first-avenue-comes-alive-at-the-minnesota-history-center/509269541/))
 
 ----
 
- - [**"Two veteran Minnesota bands earn their First Avenue stars (one a do-over)"**](http://www.startribune.com/two-veteran-minnesota-bands-earn-their-first-avenue-stars-one-a-do-over/509260572/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 30 April 2019 about First Avenue (place), Lisa Coleman, Matt Fink, Sam’s (place), The Revolution, Uncle Sam’s (place), Wendy Melvoin ([mirror](https://web.archive.org/web/*/http://www.startribune.com/two-veteran-minnesota-bands-earn-their-first-avenue-stars-one-a-do-over/509260572/))
+ - [**"Two veteran Minnesota bands earn their First Avenue stars (one a do-over)"**](http://www.startribune.com/two-veteran-minnesota-bands-earn-their-first-avenue-stars-one-a-do-over/509260572/) by Chris Riemenschneider in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 30 April 2019 about First Avenue (place), Lisa Coleman, Matt Fink, Sam’s (place), The Revolution, Uncle Sam’s (place), Wendy Melvoin ([mirror](https://web.archive.org/web/*/http://www.startribune.com/two-veteran-minnesota-bands-earn-their-first-avenue-stars-one-a-do-over/509260572/))
 
 ----
 
- - [**"Coming soon from the Prince vault: A new album called ‘Originals’ -- Prince’s estate is announcing the collection of his performances of songs he wrote for others."**](http://www.startribune.com/coming-soon-from-the-prince-vault-a-new-album-called-originals/509009862/) by Chris Riemenschneider, Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 April 2019 about Ani DiFranco, Apple Music, Bangles, Dan Piepenbring, First Avenue (place), Kenny Rogers, Larry Graham, Little Red Corvette (song), Manic Monday (song), Martika, Morris Day, Morris Day & The Time, Netflix, Nothing Compares 2 U (song), Originals (album), Prince Estate, Random House , Rave In2 the Joy Fantastic (album), Rave Un2 the Joy Fantastic (album), Rave Un2 the Year 2000 (video), Sex Shooter (song), The Beautiful Ones (book), The Family, The Glamorous Life (song), The Prince Estate, The Time, Ultimate Rave (album), Vanity 6, vault, Wendy Melvoin ([mirror](https://web.archive.org/web/*/http://www.startribune.com/coming-soon-from-the-prince-vault-a-new-album-called-originals/509009862/))
+ - [**"Coming soon from the Prince vault: A new album called ‘Originals’ -- Prince’s estate is announcing the collection of his performances of songs he wrote for others."**](http://www.startribune.com/coming-soon-from-the-prince-vault-a-new-album-called-originals/509009862/) by Chris Riemenschneider, Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 25 April 2019 about Ani DiFranco, Apple Music, Bangles, Dan Piepenbring, First Avenue (place), Kenny Rogers, Larry Graham, Little Red Corvette (song), Manic Monday (song), Martika, Morris Day, Morris Day & The Time, Netflix, Nothing Compares 2 U (song), Originals (album), Prince Estate, Random House , Rave In2 the Joy Fantastic (album), Rave Un2 the Joy Fantastic (album), Rave Un2 the Year 2000 (video), Sex Shooter (song), The Beautiful Ones (book), The Family, The Glamorous Life (song), The Prince Estate, The Time, Ultimate Rave (album), Vanity 6, vault, Wendy Melvoin ([mirror](https://web.archive.org/web/*/http://www.startribune.com/coming-soon-from-the-prince-vault-a-new-album-called-originals/509009862/))
 
 ----
 
- - [**"David Bourn, projectionist who lit up the skies and put Prince in the spotlight, dies at 77"**](http://www.startribune.com/david-bourn-projectionist-who-lit-up-the-skies-and-put-prince-in-the-spotlight-dies-at-77/508966712/) by Richard Chin in [Minneapolis Star Tribune](http://www.startribune.com/) on 23 April 2019 about First Avenue (place), Purple Rain (movie) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/david-bourn-projectionist-who-lit-up-the-skies-and-put-prince-in-the-spotlight-dies-at-77/508966712/))
+ - [**"David Bourn, projectionist who lit up the skies and put Prince in the spotlight, dies at 77"**](http://www.startribune.com/david-bourn-projectionist-who-lit-up-the-skies-and-put-prince-in-the-spotlight-dies-at-77/508966712/) by Richard Chin in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 23 April 2019 about First Avenue (place), Purple Rain (movie) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/david-bourn-projectionist-who-lit-up-the-skies-and-put-prince-in-the-spotlight-dies-at-77/508966712/))
 
 ----
 
@@ -184,7 +188,7 @@
 
 ----
 
- - [**"First Ave, Electric Fetus named best in U.S. again by Rolling Stone"**](http://www.startribune.com/first-ave-electric-fetus-named-best-in-u-s-again-by-rolling-stone/502770432/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 14 December 2018 about Electric Fetus (place), First Avenue (place), Lizzo ([mirror](https://web.archive.org/web/*/http://www.startribune.com/first-ave-electric-fetus-named-best-in-u-s-again-by-rolling-stone/502770432/))
+ - [**"First Ave, Electric Fetus named best in U.S. again by Rolling Stone"**](http://www.startribune.com/first-ave-electric-fetus-named-best-in-u-s-again-by-rolling-stone/502770432/) by Chris Riemenschneider in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 14 December 2018 about Electric Fetus (place), First Avenue (place), Lizzo ([mirror](https://web.archive.org/web/*/http://www.startribune.com/first-ave-electric-fetus-named-best-in-u-s-again-by-rolling-stone/502770432/))
 
 ----
 
@@ -224,11 +228,11 @@
 
 ----
 
- - [**"Coldplay pulls for the color purple at U.S. Bank Stadium -- The British band put on a colorful spectacle with shout-outs to the Vikings and Prince at U.S. Bank Stadium."**](http://www.startribune.com/coldplay-pulls-for-the-color-purple-at-u-s-bank-stadium/440125493/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 13 August 2017 about First Avenue (place), London (place), Super Bowl ([mirror](https://web.archive.org/web/*/http://www.startribune.com/coldplay-pulls-for-the-color-purple-at-u-s-bank-stadium/440125493/))
+ - [**"Coldplay pulls for the color purple at U.S. Bank Stadium -- The British band put on a colorful spectacle with shout-outs to the Vikings and Prince at U.S. Bank Stadium."**](http://www.startribune.com/coldplay-pulls-for-the-color-purple-at-u-s-bank-stadium/440125493/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 13 August 2017 about First Avenue (place), London (place), Super Bowl ([mirror](https://web.archive.org/web/*/http://www.startribune.com/coldplay-pulls-for-the-color-purple-at-u-s-bank-stadium/440125493/))
 
 ----
 
- - [**"Minnesota's best albums of the year (so far): Chastity Brown, Romantica, Brother Ali, Lady Midnight -- This year's 10 albums includes several artists who saw their patience pay off."**](http://www.startribune.com/minnesota-s-best-albums-of-the-year-so-far-brother-ali-chastity-brown-romantica-prince/431623233/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 30 June 2017 about 17 Days (song), bootleg, Chastity Brown, First Avenue (place), Our Destiny (song), Possessed (song), Purple Rain (album), Roadhouse Garden (song), The Beautiful Ones (song), The Revolution, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/minnesota-s-best-albums-of-the-year-so-far-brother-ali-chastity-brown-romantica-prince/431623233/))
+ - [**"Minnesota's best albums of the year (so far): Chastity Brown, Romantica, Brother Ali, Lady Midnight -- This year's 10 albums includes several artists who saw their patience pay off."**](http://www.startribune.com/minnesota-s-best-albums-of-the-year-so-far-brother-ali-chastity-brown-romantica-prince/431623233/) by Chris Riemenschneider in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 30 June 2017 about 17 Days (song), bootleg, Chastity Brown, First Avenue (place), Our Destiny (song), Possessed (song), Purple Rain (album), Roadhouse Garden (song), The Beautiful Ones (song), The Revolution, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/minnesota-s-best-albums-of-the-year-so-far-brother-ali-chastity-brown-romantica-prince/431623233/))
 
 ----
 
@@ -236,7 +240,7 @@
 
 ----
 
- - [**"Details of Prince's expanded 'Purple Rain' reissue revealed, coming June 23"**](http://www.startribune.com/details-of-prince-s-expanded-purple-rain-reissue-revealed-coming-june-23/420722973/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 28 April 2017 about 17 Days (song), bootleg, Erotic City (song), First Avenue (place), Minnesota Dance Theatre, NPG Records, Our Destiny (song), Possessed (song), Purple Rain (album), Purple Rain (song), Roadhouse Garden (song), The Beautiful Ones (song), The Revolution, vault, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/details-of-prince-s-expanded-purple-rain-reissue-revealed-coming-june-23/420722973/))
+ - [**"Details of Prince's expanded 'Purple Rain' reissue revealed, coming June 23"**](http://www.startribune.com/details-of-prince-s-expanded-purple-rain-reissue-revealed-coming-june-23/420722973/) by Chris Riemenschneider in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 28 April 2017 about 17 Days (song), bootleg, Erotic City (song), First Avenue (place), Minnesota Dance Theatre, NPG Records, Our Destiny (song), Possessed (song), Purple Rain (album), Purple Rain (song), Roadhouse Garden (song), The Beautiful Ones (song), The Revolution, vault, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/details-of-prince-s-expanded-purple-rain-reissue-revealed-coming-june-23/420722973/))
 
 ----
 
@@ -272,11 +276,11 @@
 
 ----
 
- - [**"Jesse Johnson soars as guitar hero in power trio marathon at First Avenue"**](http://www.startribune.com/jesse-johnson-soars-as-guitar-hero-in-power-trio-marathon-at-first-avenue/404557246/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 4 December 2016 about First Avenue (place), Jesse Johnson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/jesse-johnson-soars-as-guitar-hero-in-power-trio-marathon-at-first-avenue/404557246/))
+ - [**"Jesse Johnson soars as guitar hero in power trio marathon at First Avenue"**](http://www.startribune.com/jesse-johnson-soars-as-guitar-hero-in-power-trio-marathon-at-first-avenue/404557246/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 4 December 2016 about First Avenue (place), Jesse Johnson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/jesse-johnson-soars-as-guitar-hero-in-power-trio-marathon-at-first-avenue/404557246/))
 
 ----
 
- - [**"Time guitarist Jesse Johnson returns to First Ave, a venue that 'always felt strange' -- After stints with the Time and D'Angelo, guitar ace Jesse Johnson returns to First Avenue fronting a power trio."**](http://www.startribune.com/guitarist-jesse-johnson-from-the-time-returns-to-first-ave-a-venue-that-always-felt-strange/403806736/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 30 November 2016 about First Avenue (place), Jesse Johnson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/guitarist-jesse-johnson-from-the-time-returns-to-first-ave-a-venue-that-always-felt-strange/403806736/))
+ - [**"Time guitarist Jesse Johnson returns to First Ave, a venue that 'always felt strange' -- After stints with the Time and D'Angelo, guitar ace Jesse Johnson returns to First Avenue fronting a power trio."**](http://www.startribune.com/guitarist-jesse-johnson-from-the-time-returns-to-first-ave-a-venue-that-always-felt-strange/403806736/) by Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 30 November 2016 about First Avenue (place), Jesse Johnson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/guitarist-jesse-johnson-from-the-time-returns-to-first-ave-a-venue-that-always-felt-strange/403806736/))
 
 ----
 
@@ -284,11 +288,11 @@
 
 ----
 
- - [**"Prince's Revolution turns the party up in its second First Ave tribute show"**](http://www.startribune.com/prince-s-revolution-turns-the-party-up-in-its-second-first-ave-tribute-show/392244021/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 3 September 2016 about Baby I'm a Star (song), Computer Blue (song), Dez Dickerson, First Avenue (place), Lisa Coleman, Purple Rain (song), Questlove, Sometimes It Snows In April (song), The Revolution, Wendy Melvoin ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-revolution-turns-the-party-up-in-its-second-first-ave-tribute-show/392244021/))
+ - [**"Prince's Revolution turns the party up in its second First Ave tribute show"**](http://www.startribune.com/prince-s-revolution-turns-the-party-up-in-its-second-first-ave-tribute-show/392244021/) by Chris Riemenschneider in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 3 September 2016 about Baby I'm a Star (song), Computer Blue (song), Dez Dickerson, First Avenue (place), Lisa Coleman, Purple Rain (song), Questlove, Sometimes It Snows In April (song), The Revolution, Wendy Melvoin ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-revolution-turns-the-party-up-in-its-second-first-ave-tribute-show/392244021/))
 
 ----
 
- - [**"Boy George dishes on Prince and promises 'gorgeousness' at Twin Cities show -- Boy George speaks his mind, chatting about Prince, Trump and Culture Club's Twin Cities concert this weekend."**](http://www.startribune.com/boy-george-dishes-on-prince-and-promises-gorgeousness-at-twin-cities-show/387819481/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 July 2016 about Donald Trump, First Avenue (place), London (place), The Revolution, Trump, Xcel Energy Center (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/boy-george-dishes-on-prince-and-promises-gorgeousness-at-twin-cities-show/387819481/))
+ - [**"Boy George dishes on Prince and promises 'gorgeousness' at Twin Cities show -- Boy George speaks his mind, chatting about Prince, Trump and Culture Club's Twin Cities concert this weekend."**](http://www.startribune.com/boy-george-dishes-on-prince-and-promises-gorgeousness-at-twin-cities-show/387819481/) by Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 22 July 2016 about Donald Trump, First Avenue (place), London (place), The Revolution, Trump, Xcel Energy Center (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/boy-george-dishes-on-prince-and-promises-gorgeousness-at-twin-cities-show/387819481/))
 
 ----
 
@@ -296,7 +300,7 @@
 
 ----
 
- - [**"Bloomington guitar-maker's link to Prince passes to Colts owner -- Jim Irsay, owner of the Indianapolis Colts, collects famous guitars. Last week, he paid $137,500 in an auction to buy a guitar that at least looks a lot like the yellow version of Prince's "Cloud" guitar."**](http://www.startribune.com/bloomington-guitar-maker-s-link-to-prince-passes-to-colts-owner/385127861/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 30 June 2016 about auction, BET Awards, Cloud guitar, First Avenue (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/bloomington-guitar-maker-s-link-to-prince-passes-to-colts-owner/385127861/))
+ - [**"Bloomington guitar-maker's link to Prince passes to Colts owner -- Jim Irsay, owner of the Indianapolis Colts, collects famous guitars. Last week, he paid $137,500 in an auction to buy a guitar that at least looks a lot like the yellow version of Prince's "Cloud" guitar."**](http://www.startribune.com/bloomington-guitar-maker-s-link-to-prince-passes-to-colts-owner/385127861/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 30 June 2016 about auction, BET Awards, Cloud guitar, First Avenue (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/bloomington-guitar-maker-s-link-to-prince-passes-to-colts-owner/385127861/))
 
 ----
 
@@ -304,7 +308,7 @@
 
 ----
 
- - [**"Comic Dave Chappelle kicks off First Ave run by kicking at Cosby and Trump -- Review: The legendary stand-up veteran's 10-show run included a serious nod to Prince."**](http://www.startribune.com/comic-dave-chappelle-kicks-off-first-ave-run-by-kicking-at-cosby-and-trump/381471061/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 1 June 2016 about Dave Chappelle, First Avenue (place), Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/comic-dave-chappelle-kicks-off-first-ave-run-by-kicking-at-cosby-and-trump/381471061/))
+ - [**"Comic Dave Chappelle kicks off First Ave run by kicking at Cosby and Trump -- Review: The legendary stand-up veteran's 10-show run included a serious nod to Prince."**](http://www.startribune.com/comic-dave-chappelle-kicks-off-first-ave-run-by-kicking-at-cosby-and-trump/381471061/) by Chris Riemenschneider in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 1 June 2016 about Dave Chappelle, First Avenue (place), Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/comic-dave-chappelle-kicks-off-first-ave-run-by-kicking-at-cosby-and-trump/381471061/))
 
 ----
 
@@ -328,7 +332,7 @@
 
 ----
 
- - [**"Obituary: Prince was a diminutive giant who revolutionized pop -- Though he was a puzzle at times, the rocker was a true Minnesotan who changed music more than once in a nearly 40-year career."**](http://www.startribune.com/jon-bream-prince-was-a-once-in-a-generation-artist-who-never-rested-on-his-laurels/376594221/) by Chris Riemenschneider, Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 April 2016 about André Cymone, First Avenue (place), Grammy Award, John Nelson, Let’s Go Crazy (song), Little Red Corvette (song), Mayte, Mayte Garcia, Obama, Super Bowl, Super Bowl XLI (event), Tyka Nelson, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/jon-bream-prince-was-a-once-in-a-generation-artist-who-never-rested-on-his-laurels/376594221/))
+ - [**"Obituary: Prince was a diminutive giant who revolutionized pop -- Though he was a puzzle at times, the rocker was a true Minnesotan who changed music more than once in a nearly 40-year career."**](http://www.startribune.com/jon-bream-prince-was-a-once-in-a-generation-artist-who-never-rested-on-his-laurels/376594221/) by Chris Riemenschneider, Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 22 April 2016 about André Cymone, First Avenue (place), Grammy Award, John Nelson, Let’s Go Crazy (song), Little Red Corvette (song), Mayte, Mayte Garcia, Obama, Super Bowl, Super Bowl XLI (event), Tyka Nelson, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/jon-bream-prince-was-a-once-in-a-generation-artist-who-never-rested-on-his-laurels/376594221/))
 
 ----
 
@@ -348,7 +352,7 @@
 
 ----
 
- - [**"13,000 at writers conference having best, versed of times in Minneapolis"**](http://www.startribune.com/13-000-at-writers-conference-having-best-versed-of-times/299262081/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 April 2015 about airport, exhibition, First Avenue (place), museum, Patricia Smith ([mirror](https://web.archive.org/web/*/http://www.startribune.com/13-000-at-writers-conference-having-best-versed-of-times/299262081/))
+ - [**"13,000 at writers conference having best, versed of times in Minneapolis"**](http://www.startribune.com/13-000-at-writers-conference-having-best-versed-of-times/299262081/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 10 April 2015 about airport, exhibition, First Avenue (place), museum, Patricia Smith ([mirror](https://web.archive.org/web/*/http://www.startribune.com/13-000-at-writers-conference-having-best-versed-of-times/299262081/))
 
 ----
 

@@ -16,7 +16,7 @@
 
 ----
 
- - [**"Prince's estate approves three more '90s reissues via Sony Legacy for September"**](http://www.startribune.com/prince-s-estate-approves-three-more-90s-reissues-via-sony-legacy-for-september/513494212/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 1 August 2019 about Chaos and Disorder (album), Emancipation (album), Mayte, Mayte Garcia, The Versace Experience (Prelude 2 Gold) (album), Trump, Warner Bros. Records ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-estate-approves-three-more-90s-reissues-via-sony-legacy-for-september/513494212/))
+ - [**"Prince's estate approves three more '90s reissues via Sony Legacy for September"**](http://www.startribune.com/prince-s-estate-approves-three-more-90s-reissues-via-sony-legacy-for-september/513494212/) by Chris Riemenschneider in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 1 August 2019 about Chaos and Disorder (album), Emancipation (album), Mayte, Mayte Garcia, The Versace Experience (Prelude 2 Gold) (album), Trump, Warner Bros. Records ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-estate-approves-three-more-90s-reissues-via-sony-legacy-for-september/513494212/))
 
 ----
 

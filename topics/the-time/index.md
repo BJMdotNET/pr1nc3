@@ -1,5 +1,9 @@
 # The Time
 
+ - [**"New Streaming Channels with Music's Legendary and Game-Changing Artists to Launch Today on SiriusXM -- The Prince Channel returns through August 13"**](https://www.prnewswire.com/news-releases/new-streaming-channels-with-musics-legendary-and-game-changing-artists-to-launch-today-on-siriusxm-301093865.html) in [PR Newswire](https://www.prnewswire.com/) on 15 July 2020 about Jerome Benton, Jimmy Jam, Maya Rudolph, Morris Day, SiriusXM, Terry Lewis, The Revolution, The Time ([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/new-streaming-channels-with-musics-legendary-and-game-changing-artists-to-launch-today-on-siriusxm-301093865.html))
+
+----
+
  - [**"Foo Fighters, Beck, H.E.R., Sheila E. Light Up ‘Grammy Salute to Prince’ Concert"**](https://www.yahoo.com/entertainment/foo-fighters-beck-h-e-233930375.html) in [Yahoo! Entertainment](https://www.yahoo.com/entertainment/) on 30 January 2020 about 1999 (song), Baby I’m a Star (song), Bangles, Beck, Chris Martin, Coldplay, Controversy (song), D’Angelo, Darling Nikki (song), Diamonds and Pearls (song), Earth, Wind & Fire, Foo Fighters, Fred Armisen, Gary Clark Jr., Gretchen Lieberum, H.E.R., Janelle Monae, Jerome Benton, Jimmy Jam, John Legend, Juanes, Jungle Love (song), Ken Ehrlich, Let’s Go Crazy (song), Lisa Coleman, Manic Monday (song), Mavis Staples, Maya Rudolph, Misty Copeland, Morris Day, Mountains (song), Nothing Compares 2 U (song), Pop Life (song), PRINCEss, Purple Rain (song), Raspberry Beret (song), Sheila E., St. Vincent, Stevie Wonder, Super Bowl, Terry Lewis, The Beautiful Ones (song), The Bird (song), The Glamorous Life (song), The Revolution, The Time, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://www.yahoo.com/entertainment/foo-fighters-beck-h-e-233930375.html))
 
 ----
@@ -40,7 +44,7 @@
 
 ----
 
- - [**"Grammys will honor Prince with an all-star concert broadcast on CBS"**](http://www.startribune.com/grammys-will-honor-prince-with-an-all-star-concert-broadcast-on-cbs/566849132/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 9 January 2020 about Alicia Keys, Aretha Franklin, Beck, Chris Martin, Coldplay, Earth, Wind & Fire, Foo Fighters, Gary Clark Jr., Grammy Award, H.E.R., Jimmy Jam, John Legend, Juanes, Let’s Go Crazy (song), Let's Go Crazy: The Grammy Salute to Prince (event), Los Angeles Convention Center (place), Mavis Staples, Morris Day, Morris Day & The Time, Morris Day and The Time, St. Vincent, Stevie Wonder, Susanna Hoffs, Terry Lewis, The Revolution, The Time, Usher ([mirror](https://web.archive.org/web/*/http://www.startribune.com/grammys-will-honor-prince-with-an-all-star-concert-broadcast-on-cbs/566849132/))
+ - [**"Grammys will honor Prince with an all-star concert broadcast on CBS"**](http://www.startribune.com/grammys-will-honor-prince-with-an-all-star-concert-broadcast-on-cbs/566849132/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 9 January 2020 about Alicia Keys, Aretha Franklin, Beck, Chris Martin, Coldplay, Earth, Wind & Fire, Foo Fighters, Gary Clark Jr., Grammy Award, H.E.R., Jimmy Jam, John Legend, Juanes, Let’s Go Crazy (song), Let's Go Crazy: The Grammy Salute to Prince (event), Los Angeles Convention Center (place), Mavis Staples, Morris Day, Morris Day & The Time, Morris Day and The Time, St. Vincent, Stevie Wonder, Susanna Hoffs, Terry Lewis, The Revolution, The Time, Usher ([mirror](https://web.archive.org/web/*/http://www.startribune.com/grammys-will-honor-prince-with-an-all-star-concert-broadcast-on-cbs/566849132/))
 
 ----
 
@@ -48,7 +52,7 @@
 
 ----
 
- - [**"John Legend, H.E.R. to perform at Prince tribute concert"**](http://www.startribune.com/john-legend-h-e-r-to-perform-at-prince-tribute-concert/566845702/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 9 January 2020 about Alicia Keys, Beck, Chris Martin, Earth, Wind & Fire, Foo Fighters, Gary Clark Jr., Grammy Award, H.E.R., John Legend, Juanes, Let's Go Crazy: The Grammy Salute to Prince (event), Los Angeles Convention Center (place), Mavis Staples, Morris Day, Morris Day and The Time, Sheila E., St. Vincent, Susanna Hoffs, The Revolution, The Time, Usher ([mirror](https://web.archive.org/web/*/http://www.startribune.com/john-legend-h-e-r-to-perform-at-prince-tribute-concert/566845702/))
+ - [**"John Legend, H.E.R. to perform at Prince tribute concert"**](http://www.startribune.com/john-legend-h-e-r-to-perform-at-prince-tribute-concert/566845702/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 9 January 2020 about Alicia Keys, Beck, Chris Martin, Earth, Wind & Fire, Foo Fighters, Gary Clark Jr., Grammy Award, H.E.R., John Legend, Juanes, Let's Go Crazy: The Grammy Salute to Prince (event), Los Angeles Convention Center (place), Mavis Staples, Morris Day, Morris Day and The Time, Sheila E., St. Vincent, Susanna Hoffs, The Revolution, The Time, Usher ([mirror](https://web.archive.org/web/*/http://www.startribune.com/john-legend-h-e-r-to-perform-at-prince-tribute-concert/566845702/))
 
 ----
 
@@ -128,7 +132,7 @@
 
 ----
 
- - [**"Excerpt of a 'dialogue' between Prince and Morris Day from the book 'On Time'"**](http://www.startribune.com/excerpt-of-a-dialogue-between-prince-and-morris-day-from-the-book-on-time/562430982/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 7 October 2019 about Morris Day, On Time: A Princely Life in Funk (book), The Time ([mirror](https://web.archive.org/web/*/http://www.startribune.com/excerpt-of-a-dialogue-between-prince-and-morris-day-from-the-book-on-time/562430982/))
+ - [**"Excerpt of a 'dialogue' between Prince and Morris Day from the book 'On Time'"**](http://www.startribune.com/excerpt-of-a-dialogue-between-prince-and-morris-day-from-the-book-on-time/562430982/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 7 October 2019 about Morris Day, On Time: A Princely Life in Funk (book), The Time ([mirror](https://web.archive.org/web/*/http://www.startribune.com/excerpt-of-a-dialogue-between-prince-and-morris-day-from-the-book-on-time/562430982/))
 
 ----
 
@@ -140,7 +144,7 @@
 
 ----
 
- - [**"To Janet Jackson, Minneapolis will always be her 'home away from home' -- Balancing motherhood and megahits, Janet Jackson talks about her return to Minnesota, where she recorded her breakthrough albums. "**](http://www.startribune.com/to-janet-jackson-minneapolis-will-always-be-her-home-away-from-home/560054982/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 11 September 2019 about Janelle Monae, Janet Jackson, Jimmy Jam, Michael Jackson, Stevie Nicks, Terry Lewis, The Time ([mirror](https://web.archive.org/web/*/http://www.startribune.com/to-janet-jackson-minneapolis-will-always-be-her-home-away-from-home/560054982/))
+ - [**"To Janet Jackson, Minneapolis will always be her 'home away from home' -- Balancing motherhood and megahits, Janet Jackson talks about her return to Minnesota, where she recorded her breakthrough albums. "**](http://www.startribune.com/to-janet-jackson-minneapolis-will-always-be-her-home-away-from-home/560054982/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 11 September 2019 about Janelle Monae, Janet Jackson, Jimmy Jam, Michael Jackson, Stevie Nicks, Terry Lewis, The Time ([mirror](https://web.archive.org/web/*/http://www.startribune.com/to-janet-jackson-minneapolis-will-always-be-her-home-away-from-home/560054982/))
 
 ----
 
@@ -212,7 +216,7 @@
 
 ----
 
- - [**"Coming soon from the Prince vault: A new album called ‘Originals’ -- Prince’s estate is announcing the collection of his performances of songs he wrote for others."**](http://www.startribune.com/coming-soon-from-the-prince-vault-a-new-album-called-originals/509009862/) by Chris Riemenschneider, Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 April 2019 about Ani DiFranco, Apple Music, Bangles, Dan Piepenbring, First Avenue (place), Kenny Rogers, Larry Graham, Little Red Corvette (song), Manic Monday (song), Martika, Morris Day, Morris Day & The Time, Netflix, Nothing Compares 2 U (song), Originals (album), Prince Estate, Random House , Rave In2 the Joy Fantastic (album), Rave Un2 the Joy Fantastic (album), Rave Un2 the Year 2000 (video), Sex Shooter (song), The Beautiful Ones (book), The Family, The Glamorous Life (song), The Prince Estate, The Time, Ultimate Rave (album), Vanity 6, vault, Wendy Melvoin ([mirror](https://web.archive.org/web/*/http://www.startribune.com/coming-soon-from-the-prince-vault-a-new-album-called-originals/509009862/))
+ - [**"Coming soon from the Prince vault: A new album called ‘Originals’ -- Prince’s estate is announcing the collection of his performances of songs he wrote for others."**](http://www.startribune.com/coming-soon-from-the-prince-vault-a-new-album-called-originals/509009862/) by Chris Riemenschneider, Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 25 April 2019 about Ani DiFranco, Apple Music, Bangles, Dan Piepenbring, First Avenue (place), Kenny Rogers, Larry Graham, Little Red Corvette (song), Manic Monday (song), Martika, Morris Day, Morris Day & The Time, Netflix, Nothing Compares 2 U (song), Originals (album), Prince Estate, Random House , Rave In2 the Joy Fantastic (album), Rave Un2 the Joy Fantastic (album), Rave Un2 the Year 2000 (video), Sex Shooter (song), The Beautiful Ones (book), The Family, The Glamorous Life (song), The Prince Estate, The Time, Ultimate Rave (album), Vanity 6, vault, Wendy Melvoin ([mirror](https://web.archive.org/web/*/http://www.startribune.com/coming-soon-from-the-prince-vault-a-new-album-called-originals/509009862/))
 
 ----
 
@@ -224,7 +228,7 @@
 
 ----
 
- - [**"Third annual Prince commemoration at Paisley Park features emotional ups and downs -- For a third year, fans gather to celebrate and remember the artist."**](http://www.startribune.com/third-annual-prince-commemoration-at-paisley-park-features-emotional-ups-and-downs/509087732/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 April 2019 about Jesse Johnson, The Time ([mirror](https://web.archive.org/web/*/http://www.startribune.com/third-annual-prince-commemoration-at-paisley-park-features-emotional-ups-and-downs/509087732/))
+ - [**"Third annual Prince commemoration at Paisley Park features emotional ups and downs -- For a third year, fans gather to celebrate and remember the artist."**](http://www.startribune.com/third-annual-prince-commemoration-at-paisley-park-features-emotional-ups-and-downs/509087732/) by Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 25 April 2019 about Jesse Johnson, The Time ([mirror](https://web.archive.org/web/*/http://www.startribune.com/third-annual-prince-commemoration-at-paisley-park-features-emotional-ups-and-downs/509087732/))
 
 ----
 
@@ -272,7 +276,7 @@
 
 ----
 
- - [**"Morris Day and the Time perform with Purple pride at the Minnesota Zoo"**](http://www.startribune.com/morris-day-and-the-time-perform-with-purple-pride-at-the-minnesota-zoo/385161471/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 1 July 2016 about Morris Day, The Time ([mirror](https://web.archive.org/web/*/http://www.startribune.com/morris-day-and-the-time-perform-with-purple-pride-at-the-minnesota-zoo/385161471/))
+ - [**"Morris Day and the Time perform with Purple pride at the Minnesota Zoo"**](http://www.startribune.com/morris-day-and-the-time-perform-with-purple-pride-at-the-minnesota-zoo/385161471/) by Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 1 July 2016 about Morris Day, The Time ([mirror](https://web.archive.org/web/*/http://www.startribune.com/morris-day-and-the-time-perform-with-purple-pride-at-the-minnesota-zoo/385161471/))
 
 ----
 
@@ -280,7 +284,7 @@
 
 ----
 
- - [**"Investigation into Prince's death now is a criminal probe -- The Carver County Sheriff's Office cited an exception to Minnesota public records laws allowing the suppression of information relating to preparing a case "for the commission of a crime.""**](http://www.startribune.com/carver-county-judge-seals-search-warrants-in-prince-death-investigation/377456111/) by David Chanen in [Minneapolis Star Tribune](http://www.startribune.com/) on 29 April 2016 about Carver County, Jim Olson, Mark Metz, The Time ([mirror](https://web.archive.org/web/*/http://www.startribune.com/carver-county-judge-seals-search-warrants-in-prince-death-investigation/377456111/))
+ - [**"Investigation into Prince's death now is a criminal probe -- The Carver County Sheriff's Office cited an exception to Minnesota public records laws allowing the suppression of information relating to preparing a case "for the commission of a crime.""**](http://www.startribune.com/carver-county-judge-seals-search-warrants-in-prince-death-investigation/377456111/) by David Chanen in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 29 April 2016 about Carver County, Jim Olson, Mark Metz, The Time ([mirror](https://web.archive.org/web/*/http://www.startribune.com/carver-county-judge-seals-search-warrants-in-prince-death-investigation/377456111/))
 
 ----
 

@@ -28,7 +28,7 @@
 
 ----
 
- - [**"After 40 Years, Grammy show producer bows out his way"**](http://www.startribune.com/after-40-years-grammy-show-producer-bows-out-his-way/567226992/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 23 January 2020 about Aretha Franklin, Beyoncé, Ed Sheeran, Gary Clark Jr., John Legend, Ken Ehrlich, Misty Copeland, Obama, Stevie Wonder, White House (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/after-40-years-grammy-show-producer-bows-out-his-way/567226992/))
+ - [**"After 40 Years, Grammy show producer bows out his way"**](http://www.startribune.com/after-40-years-grammy-show-producer-bows-out-his-way/567226992/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 23 January 2020 about Aretha Franklin, Beyoncé, Ed Sheeran, Gary Clark Jr., John Legend, Ken Ehrlich, Misty Copeland, Obama, Stevie Wonder, White House (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/after-40-years-grammy-show-producer-bows-out-his-way/567226992/))
 
 ----
 
@@ -40,7 +40,7 @@
 
 ----
 
- - [**"Grammys will honor Prince with an all-star concert broadcast on CBS"**](http://www.startribune.com/grammys-will-honor-prince-with-an-all-star-concert-broadcast-on-cbs/566849132/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 9 January 2020 about Alicia Keys, Aretha Franklin, Beck, Chris Martin, Coldplay, Earth, Wind & Fire, Foo Fighters, Gary Clark Jr., Grammy Award, H.E.R., Jimmy Jam, John Legend, Juanes, Let’s Go Crazy (song), Let's Go Crazy: The Grammy Salute to Prince (event), Los Angeles Convention Center (place), Mavis Staples, Morris Day, Morris Day & The Time, Morris Day and The Time, St. Vincent, Stevie Wonder, Susanna Hoffs, Terry Lewis, The Revolution, The Time, Usher ([mirror](https://web.archive.org/web/*/http://www.startribune.com/grammys-will-honor-prince-with-an-all-star-concert-broadcast-on-cbs/566849132/))
+ - [**"Grammys will honor Prince with an all-star concert broadcast on CBS"**](http://www.startribune.com/grammys-will-honor-prince-with-an-all-star-concert-broadcast-on-cbs/566849132/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 9 January 2020 about Alicia Keys, Aretha Franklin, Beck, Chris Martin, Coldplay, Earth, Wind & Fire, Foo Fighters, Gary Clark Jr., Grammy Award, H.E.R., Jimmy Jam, John Legend, Juanes, Let’s Go Crazy (song), Let's Go Crazy: The Grammy Salute to Prince (event), Los Angeles Convention Center (place), Mavis Staples, Morris Day, Morris Day & The Time, Morris Day and The Time, St. Vincent, Stevie Wonder, Susanna Hoffs, Terry Lewis, The Revolution, The Time, Usher ([mirror](https://web.archive.org/web/*/http://www.startribune.com/grammys-will-honor-prince-with-an-all-star-concert-broadcast-on-cbs/566849132/))
 
 ----
 
@@ -168,7 +168,7 @@
 
 ----
 
- - [**"Prince, Stevie Wonder jam at White House, D.C. concerts"**](http://www.startribune.com/prince-stevie-wonder-jam-at-white-house-at-d-c-concerts/307329581/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 15 June 2015 about Stevie Wonder ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-stevie-wonder-jam-at-white-house-at-d-c-concerts/307329581/))
+ - [**"Prince, Stevie Wonder jam at White House, D.C. concerts"**](http://www.startribune.com/prince-stevie-wonder-jam-at-white-house-at-d-c-concerts/307329581/) by Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 15 June 2015 about Stevie Wonder ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-stevie-wonder-jam-at-white-house-at-d-c-concerts/307329581/))
 
 ----
 

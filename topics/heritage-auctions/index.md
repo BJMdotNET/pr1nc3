@@ -4,7 +4,7 @@
 
 ----
 
- - [**"Indianapolis Colts owner buys Prince's Yellow Cloud guitar"**](http://www.startribune.com/indianapolis-colts-owner-buys-prince-s-yellow-cloud-guitar/384401501/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 June 2016 about auction, Cloud guitar, Heritage Auctions ([mirror](https://web.archive.org/web/*/http://www.startribune.com/indianapolis-colts-owner-buys-prince-s-yellow-cloud-guitar/384401501/))
+ - [**"Indianapolis Colts owner buys Prince's Yellow Cloud guitar"**](http://www.startribune.com/indianapolis-colts-owner-buys-prince-s-yellow-cloud-guitar/384401501/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 25 June 2016 about auction, Cloud guitar, Heritage Auctions ([mirror](https://web.archive.org/web/*/http://www.startribune.com/indianapolis-colts-owner-buys-prince-s-yellow-cloud-guitar/384401501/))
 
 ----
 

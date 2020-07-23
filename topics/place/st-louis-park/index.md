@@ -4,7 +4,7 @@
 
 ----
 
- - [**"6 cool things in music include Beyoncé's Elle interview, J.S. Ondara, David Byrne & Nachito Herrera"**](http://www.startribune.com/6-cool-things-in-music-include-beyonce-s-elle-interview-j-s-ondara-david-byrne-amp-nachito-herrera/566170311/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 13 December 2019 about Dakota (place), First Avenue (place), Jon Bream, St. Louis Park (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/6-cool-things-in-music-include-beyonce-s-elle-interview-j-s-ondara-david-byrne-amp-nachito-herrera/566170311/))
+ - [**"6 cool things in music include Beyoncé's Elle interview, J.S. Ondara, David Byrne & Nachito Herrera"**](http://www.startribune.com/6-cool-things-in-music-include-beyonce-s-elle-interview-j-s-ondara-david-byrne-amp-nachito-herrera/566170311/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 13 December 2019 about Dakota (place), First Avenue (place), Jon Bream, St. Louis Park (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/6-cool-things-in-music-include-beyonce-s-elle-interview-j-s-ondara-david-byrne-amp-nachito-herrera/566170311/))
 
 ----
 
@@ -28,7 +28,7 @@
 
 ----
 
- - [**"'We lost a spiritual brother' in Prince -- A low-profile member in life, the star draws attention to Jehovah's Witnesses after death."**](http://www.startribune.com/prince-s-death-puts-spotlight-on-jehovah-s-witnesses/377972981/) by Jean Hopfensperger in [Minneapolis Star Tribune](http://www.startribune.com/) on 4 May 2016 about Jehovah’s Witness, Larry Graham, St. Louis Park (place), University of Minnesota ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-death-puts-spotlight-on-jehovah-s-witnesses/377972981/))
+ - [**"'We lost a spiritual brother' in Prince -- A low-profile member in life, the star draws attention to Jehovah's Witnesses after death."**](http://www.startribune.com/prince-s-death-puts-spotlight-on-jehovah-s-witnesses/377972981/) by Jean Hopfensperger in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 4 May 2016 about Jehovah’s Witness, Larry Graham, St. Louis Park (place), University of Minnesota ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-death-puts-spotlight-on-jehovah-s-witnesses/377972981/))
 
 ----
 

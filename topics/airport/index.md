@@ -8,7 +8,7 @@
 
 ----
 
- - [**"Local artist pays tribute to Prince with giant mural at MSP airport -- Rock Martinez's mural of the music legend arrived for a yearlong stay at MSP as part of the airport's traveling exhibits program."**](http://www.startribune.com/local-artist-pays-tribute-to-prince-with-msp-airport-mural/567357372/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 28 January 2020 about airport, Alan Seiffert, ARTS@MSP, Bob Dylan, exhibit, I Would Die 4 U (song), merchandise, Minneapolis-St. Paul International Airport (place), MSP (place), museum, Rock Martinez, The Revolution, University of Minnesota, Weisman Art Museum (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/local-artist-pays-tribute-to-prince-with-msp-airport-mural/567357372/))
+ - [**"Local artist pays tribute to Prince with giant mural at MSP airport -- Rock Martinez's mural of the music legend arrived for a yearlong stay at MSP as part of the airport's traveling exhibits program."**](http://www.startribune.com/local-artist-pays-tribute-to-prince-with-msp-airport-mural/567357372/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 28 January 2020 about airport, Alan Seiffert, ARTS@MSP, Bob Dylan, exhibit, I Would Die 4 U (song), merchandise, Minneapolis-St. Paul International Airport (place), MSP (place), museum, Rock Martinez, The Revolution, University of Minnesota, Weisman Art Museum (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/local-artist-pays-tribute-to-prince-with-msp-airport-mural/567357372/))
 
 ----
 
@@ -20,7 +20,7 @@
 
 ----
 
- - [**"Art at the airport: 10 great spots to catch a flight of fancy"**](http://www.startribune.com/art-at-the-airport-10-great-spots-to-catch-a-flight-of-fancy/566170451/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 17 December 2019 about airport ([mirror](https://web.archive.org/web/*/http://www.startribune.com/art-at-the-airport-10-great-spots-to-catch-a-flight-of-fancy/566170451/))
+ - [**"Art at the airport: 10 great spots to catch a flight of fancy"**](http://www.startribune.com/art-at-the-airport-10-great-spots-to-catch-a-flight-of-fancy/566170451/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 17 December 2019 about airport ([mirror](https://web.archive.org/web/*/http://www.startribune.com/art-at-the-airport-10-great-spots-to-catch-a-flight-of-fancy/566170451/))
 
 ----
 
@@ -44,11 +44,11 @@
 
 ----
 
- - [**"Prince store at MSP gives travelers a glimpse at superstar's Minnesota life -- Terminal shop organized around parts of Minnesota musician's life to lure fans."**](http://www.startribune.com/prince-store-at-msp-gives-travelers-a-glimpse-at-superstar-s-minnesota-life/556690022/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 August 2019 about airport, Bravado, DJ Dudley D, merchandise, Minneapolis-St. Paul International Airport (place), museum, Prince Estate, Super Bowl, The Prince Estate ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-store-at-msp-gives-travelers-a-glimpse-at-superstar-s-minnesota-life/556690022/))
+ - [**"Prince store at MSP gives travelers a glimpse at superstar's Minnesota life -- Terminal shop organized around parts of Minnesota musician's life to lure fans."**](http://www.startribune.com/prince-store-at-msp-gives-travelers-a-glimpse-at-superstar-s-minnesota-life/556690022/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 20 August 2019 about airport, Bravado, DJ Dudley D, merchandise, Minneapolis-St. Paul International Airport (place), museum, Prince Estate, Super Bowl, The Prince Estate ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-store-at-msp-gives-travelers-a-glimpse-at-superstar-s-minnesota-life/556690022/))
 
 ----
 
- - [**"New Prince store at MSP airport reels in fandom"**](http://www.startribune.com/new-prince-store-at-msp-airport-reels-in-fandom/511212802/) by Jackie Crosby in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 June 2019 about airport, Bravado, merchandise, Minneapolis-St. Paul International Airport (place), Prince Estate, The Prince Estate ([mirror](https://web.archive.org/web/*/http://www.startribune.com/new-prince-store-at-msp-airport-reels-in-fandom/511212802/))
+ - [**"New Prince store at MSP airport reels in fandom"**](http://www.startribune.com/new-prince-store-at-msp-airport-reels-in-fandom/511212802/) by Jackie Crosby in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 12 June 2019 about airport, Bravado, merchandise, Minneapolis-St. Paul International Airport (place), Prince Estate, The Prince Estate ([mirror](https://web.archive.org/web/*/http://www.startribune.com/new-prince-store-at-msp-airport-reels-in-fandom/511212802/))
 
 ----
 
@@ -56,7 +56,7 @@
 
 ----
 
- - [**"10 curious things we learned about Prince from the investigations -- He liked Häagen-Dazs ice cream, 5-Hour Energy drinks and MAC beauty products."**](http://www.startribune.com/10-curious-things-we-learned-about-prince-from-the-investigations/480364723/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 April 2018 about airport, Atlanta (place), Carver County, CeeLo Green, Chaka Khan, Esperanza Spalding, Illinois (place), Janelle Monae, Judith Hill, Kirk Johnson, Larry Graham, North Memorial Medical Center (place), Peter Vang, Phaedra Ellis Lamkin, Rita Ora, Sheila E., U Got the Look (song), vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/10-curious-things-we-learned-about-prince-from-the-investigations/480364723/))
+ - [**"10 curious things we learned about Prince from the investigations -- He liked Häagen-Dazs ice cream, 5-Hour Energy drinks and MAC beauty products."**](http://www.startribune.com/10-curious-things-we-learned-about-prince-from-the-investigations/480364723/) by Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 20 April 2018 about airport, Atlanta (place), Carver County, CeeLo Green, Chaka Khan, Esperanza Spalding, Illinois (place), Janelle Monae, Judith Hill, Kirk Johnson, Larry Graham, North Memorial Medical Center (place), Peter Vang, Phaedra Ellis Lamkin, Rita Ora, Sheila E., U Got the Look (song), vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/10-curious-things-we-learned-about-prince-from-the-investigations/480364723/))
 
 ----
 
@@ -76,7 +76,7 @@
 
 ----
 
- - [**"Adored by millions, Prince was alone as he died"**](http://www.startribune.com/investigation-underway-into-prince-s-death/376741561/) by John Reinan in [Minneapolis Star Tribune](http://www.startribune.com/) on 23 April 2016 about airport, Atlanta (place), Carver County, Dakota (place), Illinois (place), Jim Olson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/investigation-underway-into-prince-s-death/376741561/))
+ - [**"Adored by millions, Prince was alone as he died"**](http://www.startribune.com/investigation-underway-into-prince-s-death/376741561/) by John Reinan in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 23 April 2016 about airport, Atlanta (place), Carver County, Dakota (place), Illinois (place), Jim Olson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/investigation-underway-into-prince-s-death/376741561/))
 
 ----
 
@@ -84,11 +84,11 @@
 
 ----
 
- - [**"C.J.: Writing a book with Prince 'would be a nightmare job,' Neal Karlen says"**](http://www.startribune.com/c-j-writing-a-book-with-prince-would-be-a-nightmare-job-says-neal-karlen-who-loves-the-purple-guy/375907901/) by C.J. (Cheryl Johnson) in [Minneapolis Star Tribune](http://www.startribune.com/) on 15 April 2016 about airport, C.J., memoir, Neal Karlen ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-writing-a-book-with-prince-would-be-a-nightmare-job-says-neal-karlen-who-loves-the-purple-guy/375907901/))
+ - [**"C.J.: Writing a book with Prince 'would be a nightmare job,' Neal Karlen says"**](http://www.startribune.com/c-j-writing-a-book-with-prince-would-be-a-nightmare-job-says-neal-karlen-who-loves-the-purple-guy/375907901/) by C.J. (Cheryl Johnson) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 15 April 2016 about airport, C.J., memoir, Neal Karlen ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-writing-a-book-with-prince-would-be-a-nightmare-job-says-neal-karlen-who-loves-the-purple-guy/375907901/))
 
 ----
 
- - [**"13,000 at writers conference having best, versed of times in Minneapolis"**](http://www.startribune.com/13-000-at-writers-conference-having-best-versed-of-times/299262081/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 April 2015 about airport, exhibition, First Avenue (place), museum, Patricia Smith ([mirror](https://web.archive.org/web/*/http://www.startribune.com/13-000-at-writers-conference-having-best-versed-of-times/299262081/))
+ - [**"13,000 at writers conference having best, versed of times in Minneapolis"**](http://www.startribune.com/13-000-at-writers-conference-having-best-versed-of-times/299262081/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 10 April 2015 about airport, exhibition, First Avenue (place), museum, Patricia Smith ([mirror](https://web.archive.org/web/*/http://www.startribune.com/13-000-at-writers-conference-having-best-versed-of-times/299262081/))
 
 ----
 

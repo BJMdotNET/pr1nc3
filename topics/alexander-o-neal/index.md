@@ -1,6 +1,6 @@
 # Alexander O’Neal
 
- - [**"In a Twin Cities living room, the Steeles cook up their 35th annual Christmas show -- The Steeles' annual Christmas show is a family affair, brewed up in a Golden Valley living room. "**](http://www.startribune.com/in-a-twin-cities-living-room-the-steeles-cook-up-their-35th-annual-christmas-show/566344542/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 December 2019 about Alexander O’Neal, contract, Janet Jackson, Justin Timberlake, Kenni Holmen, Sonny Thompson, Tommy Barbarella ([mirror](https://web.archive.org/web/*/http://www.startribune.com/in-a-twin-cities-living-room-the-steeles-cook-up-their-35th-annual-christmas-show/566344542/))
+ - [**"In a Twin Cities living room, the Steeles cook up their 35th annual Christmas show -- The Steeles' annual Christmas show is a family affair, brewed up in a Golden Valley living room. "**](http://www.startribune.com/in-a-twin-cities-living-room-the-steeles-cook-up-their-35th-annual-christmas-show/566344542/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 19 December 2019 about Alexander O’Neal, contract, Janet Jackson, Justin Timberlake, Kenni Holmen, Sonny Thompson, Tommy Barbarella ([mirror](https://web.archive.org/web/*/http://www.startribune.com/in-a-twin-cities-living-room-the-steeles-cook-up-their-35th-annual-christmas-show/566344542/))
 
 ----
 

@@ -1,6 +1,6 @@
 # The Roots
 
- - [**"Billie Eilish sweeps Lizzo in a historic Grammy battle of the newcomers -- Lizzo seized her Grammy moment, but 18-year-old Billie Eilish pulled off a historic sweep of the top prizes. "**](http://www.startribune.com/with-fierce-emotion-lizzo-seizes-her-grammy-moment-i-m-crying-cuz-i-love-you/567316152/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 27 January 2020 about Ava DuVernay, Gary Clark Jr., Grammy Award, John Legend, Lizzo, Madonna, Michael Jackson, Plectrum Electrum (album), The Roots, Usher ([mirror](https://web.archive.org/web/*/http://www.startribune.com/with-fierce-emotion-lizzo-seizes-her-grammy-moment-i-m-crying-cuz-i-love-you/567316152/))
+ - [**"Billie Eilish sweeps Lizzo in a historic Grammy battle of the newcomers -- Lizzo seized her Grammy moment, but 18-year-old Billie Eilish pulled off a historic sweep of the top prizes. "**](http://www.startribune.com/with-fierce-emotion-lizzo-seizes-her-grammy-moment-i-m-crying-cuz-i-love-you/567316152/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 27 January 2020 about Ava DuVernay, Gary Clark Jr., Grammy Award, John Legend, Lizzo, Madonna, Michael Jackson, Plectrum Electrum (album), The Roots, Usher ([mirror](https://web.archive.org/web/*/http://www.startribune.com/with-fierce-emotion-lizzo-seizes-her-grammy-moment-i-m-crying-cuz-i-love-you/567316152/))
 
 ----
 
@@ -20,7 +20,7 @@
 
 ----
 
- - [**"Paisley Park to host film series featuring Aretha, 'Wattstax' and 'Dave Chappelle's Block Party'"**](http://www.startribune.com/paisley-park-to-host-film-series-featuring-aretha-wattstax-and-dave-chappelle-s-block-party/566561102/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 30 December 2019 about Alan Seiffert, Amazing Grace (movie), Andre Cymone, Aretha Franklin, Dave Chappelle, Dave Chappelle’s Block Party (movie), Graceland, Graceland Holdings, Judith Hill, museum, Paisley Park Cinema: Music on the Big Screen (event), The Roots ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-to-host-film-series-featuring-aretha-wattstax-and-dave-chappelle-s-block-party/566561102/))
+ - [**"Paisley Park to host film series featuring Aretha, 'Wattstax' and 'Dave Chappelle's Block Party'"**](http://www.startribune.com/paisley-park-to-host-film-series-featuring-aretha-wattstax-and-dave-chappelle-s-block-party/566561102/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 30 December 2019 about Alan Seiffert, Amazing Grace (movie), Andre Cymone, Aretha Franklin, Dave Chappelle, Dave Chappelle’s Block Party (movie), Graceland, Graceland Holdings, Judith Hill, museum, Paisley Park Cinema: Music on the Big Screen (event), The Roots ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-to-host-film-series-featuring-aretha-wattstax-and-dave-chappelle-s-block-party/566561102/))
 
 ----
 
@@ -28,7 +28,7 @@
 
 ----
 
- - [**"From Neil to J. Lo: The 10 greatest Twin Cities concerts of 2019 (so far) -- Here are the performers who thrilled us."**](http://www.startribune.com/from-neil-to-j-lo-the-10-greatest-twin-cities-concerts-of-2019-so-far/512907922/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 July 2019 about The Roots ([mirror](https://web.archive.org/web/*/http://www.startribune.com/from-neil-to-j-lo-the-10-greatest-twin-cities-concerts-of-2019-so-far/512907922/))
+ - [**"From Neil to J. Lo: The 10 greatest Twin Cities concerts of 2019 (so far) -- Here are the performers who thrilled us."**](http://www.startribune.com/from-neil-to-j-lo-the-10-greatest-twin-cities-concerts-of-2019-so-far/512907922/) by Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 19 July 2019 about The Roots ([mirror](https://web.archive.org/web/*/http://www.startribune.com/from-neil-to-j-lo-the-10-greatest-twin-cities-concerts-of-2019-so-far/512907922/))
 
 ----
 

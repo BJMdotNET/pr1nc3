@@ -1,5 +1,9 @@
 # Dez Dickerson
 
+ - [**"Tween Pop Rock Sensations Hello Sister Launch Pilot Episode of Their Own TV Show, 'Pop Through The Decades,' Featuring Prince's "1999" -- Pilot episode shot in Nashville and Orlando follows the up-and-coming sister band as they recreate Prince's iconic party hit "1999""**](https://www.prnewswire.com/news-releases/tween-pop-rock-sensations-hello-sister-launch-pilot-episode-of-their-own-tv-show-pop-through-the-decades-featuring-princes-1999-301084989.html) in [PR Newswire](https://www.prnewswire.com/) on 29 June 2020 about 1999 (song), Dez Dickerson ([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/tween-pop-rock-sensations-hello-sister-launch-pilot-episode-of-their-own-tv-show-pop-through-the-decades-featuring-princes-1999-301084989.html))
+
+----
+
  - [**"Prince: The Story of 1999 bonus feature: Jellybean Johnson, 'Prince knew we had something special here in Minneapolis'"**](https://www.thecurrent.org/feature/2020/01/02/prince-the-story-of-1999-bonus-feature-jellybean-johnson-the-time-interview) in [The Current](https://www.thecurrent.org/) on 2 January 2020 about 1999 (album), Andrea Swensson, Dez Dickerson, fDeluxe, Jellybean Johnson, Michael Jackson, Prince: The Story of 1999, The Family, The Revolution, The Time, Vanity, Vanity 6 ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2020/01/02/prince-the-story-of-1999-bonus-feature-jellybean-johnson-the-time-interview))
 
 ----
@@ -32,7 +36,7 @@
 
 ----
 
- - [**"How '1999' made Prince a star: 'This album was the turning point' -- An expanded reissue of Prince's breakthrough album shows how prolific he was in the early '80s."**](http://www.startribune.com/how-1999-made-prince-a-star-this-album-was-the-turning-point/565432932/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 November 2019 about 1999 (album), Bangles, Bobby Z., Dez Dickerson, James Brown, Kenny Rogers, Lisa Coleman, memoir, The Revolution, Vanity, Vanity 6, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/how-1999-made-prince-a-star-this-album-was-the-turning-point/565432932/))
+ - [**"How '1999' made Prince a star: 'This album was the turning point' -- An expanded reissue of Prince's breakthrough album shows how prolific he was in the early '80s."**](http://www.startribune.com/how-1999-made-prince-a-star-this-album-was-the-turning-point/565432932/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 25 November 2019 about 1999 (album), Bangles, Bobby Z., Dez Dickerson, James Brown, Kenny Rogers, Lisa Coleman, memoir, The Revolution, Vanity, Vanity 6, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/how-1999-made-prince-a-star-this-album-was-the-turning-point/565432932/))
 
 ----
 
@@ -80,7 +84,7 @@
 
 ----
 
- - [**"Prince's Revolution turns the party up in its second First Ave tribute show"**](http://www.startribune.com/prince-s-revolution-turns-the-party-up-in-its-second-first-ave-tribute-show/392244021/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 3 September 2016 about Baby I'm a Star (song), Computer Blue (song), Dez Dickerson, First Avenue (place), Lisa Coleman, Purple Rain (song), Questlove, Sometimes It Snows In April (song), The Revolution, Wendy Melvoin ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-revolution-turns-the-party-up-in-its-second-first-ave-tribute-show/392244021/))
+ - [**"Prince's Revolution turns the party up in its second First Ave tribute show"**](http://www.startribune.com/prince-s-revolution-turns-the-party-up-in-its-second-first-ave-tribute-show/392244021/) by Chris Riemenschneider in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 3 September 2016 about Baby I'm a Star (song), Computer Blue (song), Dez Dickerson, First Avenue (place), Lisa Coleman, Purple Rain (song), Questlove, Sometimes It Snows In April (song), The Revolution, Wendy Melvoin ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-revolution-turns-the-party-up-in-its-second-first-ave-tribute-show/392244021/))
 
 ----
 

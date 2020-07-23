@@ -1,6 +1,6 @@
 # The Associated Press
 
- - [**"New Prince album featuring unreleased demos out in June"**](http://www.startribune.com/new-prince-album-featuring-unreleased-demos-out-in-june/509058902/) by The Associated Press in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 April 2019 about Joey Coco, Kenny Rogers, Originals (album), Sheila E. ([mirror](https://web.archive.org/web/*/http://www.startribune.com/new-prince-album-featuring-unreleased-demos-out-in-june/509058902/))
+ - [**"New Prince album featuring unreleased demos out in June"**](http://www.startribune.com/new-prince-album-featuring-unreleased-demos-out-in-june/509058902/) by The Associated Press in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 25 April 2019 about Joey Coco, Kenny Rogers, Originals (album), Sheila E. ([mirror](https://web.archive.org/web/*/http://www.startribune.com/new-prince-album-featuring-unreleased-demos-out-in-june/509058902/))
 
 ----
 
@@ -12,7 +12,7 @@
 
 ----
 
- - [**"Herb Ritts photos of Bowie, Madonna, more to be exhibited"**](http://www.startribune.com/herb-ritts-photos-of-bowie-madonna-more-to-be-exhibited/507913581/) by The Associated Press in [Minneapolis Star Tribune](http://www.startribune.com/) on 31 March 2019 about Herb Ritts, museum ([mirror](https://web.archive.org/web/*/http://www.startribune.com/herb-ritts-photos-of-bowie-madonna-more-to-be-exhibited/507913581/))
+ - [**"Herb Ritts photos of Bowie, Madonna, more to be exhibited"**](http://www.startribune.com/herb-ritts-photos-of-bowie-madonna-more-to-be-exhibited/507913581/) by The Associated Press in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 31 March 2019 about Herb Ritts, museum ([mirror](https://web.archive.org/web/*/http://www.startribune.com/herb-ritts-photos-of-bowie-madonna-more-to-be-exhibited/507913581/))
 
 ----
 
@@ -20,7 +20,7 @@
 
 ----
 
- - [**"The Latest: Klobuchar points to Prince in talking drug issue"**](http://www.startribune.com/the-latest-klobuchar-points-to-prince-in-talking-drug-issue/506023432/) by The Associated Press in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 February 2019 about fentanyl, fentanyl overdose ([mirror](https://web.archive.org/web/*/http://www.startribune.com/the-latest-klobuchar-points-to-prince-in-talking-drug-issue/506023432/))
+ - [**"The Latest: Klobuchar points to Prince in talking drug issue"**](http://www.startribune.com/the-latest-klobuchar-points-to-prince-in-talking-drug-issue/506023432/) by The Associated Press in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 18 February 2019 about fentanyl, fentanyl overdose ([mirror](https://web.archive.org/web/*/http://www.startribune.com/the-latest-klobuchar-points-to-prince-in-talking-drug-issue/506023432/))
 
 ----
 
@@ -38,7 +38,7 @@
 
  - [**"
                                             Pantone creates 'Purple Rain' hue to honor Prince
-                                    "**](http://www.startribune.com/pantone-creates-shade-of-purple-named-for-prince-symbol/440365233/) by The Associated Press in [Minneapolis Star Tribune](http://www.startribune.com/) on 14 August 2017 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/pantone-creates-shade-of-purple-named-for-prince-symbol/440365233/))
+                                    "**](http://www.startribune.com/pantone-creates-shade-of-purple-named-for-prince-symbol/440365233/) by The Associated Press in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 14 August 2017 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/pantone-creates-shade-of-purple-named-for-prince-symbol/440365233/))
 
 ----
 
@@ -54,11 +54,11 @@
 
 ----
 
- - [**"Prince's Paisley Park, other properties could go on sale"**](http://www.startribune.com/prince-s-paisley-park-other-properties-could-go-on-sale/389333051/) by The Associated Press in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 August 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-paisley-park-other-properties-could-go-on-sale/389333051/))
+ - [**"Prince's Paisley Park, other properties could go on sale"**](http://www.startribune.com/prince-s-paisley-park-other-properties-could-go-on-sale/389333051/) by The Associated Press in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 5 August 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-paisley-park-other-properties-could-go-on-sale/389333051/))
 
 ----
 
- - [**"Madonna responds to critics of her Prince tribute"**](http://www.startribune.com/madonna-responds-to-critics-of-her-prince-tribute/380555791/) by The Associated Press in [Minneapolis Star Tribune](http://www.startribune.com/) on 23 May 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/madonna-responds-to-critics-of-her-prince-tribute/380555791/))
+ - [**"Madonna responds to critics of her Prince tribute"**](http://www.startribune.com/madonna-responds-to-critics-of-her-prince-tribute/380555791/) by The Associated Press in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 23 May 2016 ([mirror](https://web.archive.org/web/*/http://www.startribune.com/madonna-responds-to-critics-of-her-prince-tribute/380555791/))
 
 ----
 

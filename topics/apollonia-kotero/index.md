@@ -20,7 +20,7 @@
 
 ----
 
- - [**"Remembering when Prince wrote that song for you"**](http://www.startribune.com/remembering-when-prince-wrote-that-song-for-you/510818462/) by Mesfin Fekadu (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 4 June 2019 about Apollonia Kotero, Bangles, Originals (album), Susannah Melvoin ([mirror](https://web.archive.org/web/*/http://www.startribune.com/remembering-when-prince-wrote-that-song-for-you/510818462/))
+ - [**"Remembering when Prince wrote that song for you"**](http://www.startribune.com/remembering-when-prince-wrote-that-song-for-you/510818462/) by Mesfin Fekadu (Associated Press) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 4 June 2019 about Apollonia Kotero, Bangles, Originals (album), Susannah Melvoin ([mirror](https://web.archive.org/web/*/http://www.startribune.com/remembering-when-prince-wrote-that-song-for-you/510818462/))
 
 ----
 
@@ -32,7 +32,7 @@
 
 ----
 
- - [**"Foundation of Prince's second wife to honor him at gala"**](http://www.startribune.com/foundation-of-prince-s-second-wife-to-honor-him-at-gala/506568702/) by Leanne Italie (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 1 March 2019 about Apollonia Kotero, Chaka Khan, In a Perfect World, Manuela Testolini ([mirror](https://web.archive.org/web/*/http://www.startribune.com/foundation-of-prince-s-second-wife-to-honor-him-at-gala/506568702/))
+ - [**"Foundation of Prince's second wife to honor him at gala"**](http://www.startribune.com/foundation-of-prince-s-second-wife-to-honor-him-at-gala/506568702/) by Leanne Italie (Associated Press) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 1 March 2019 about Apollonia Kotero, Chaka Khan, In a Perfect World, Manuela Testolini ([mirror](https://web.archive.org/web/*/http://www.startribune.com/foundation-of-prince-s-second-wife-to-honor-him-at-gala/506568702/))
 
 ----
 
@@ -48,7 +48,7 @@
 
 ----
 
- - [**"Prince's 'Purple Rain' coat is up for auction"**](http://www.startribune.com/ap-exclusive-prince-s-purple-rain-coat-is-up-for-auction/377542161/) by Nicole Evatt (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 29 April 2016 about Apollonia Kotero, auction, Katy Perry, Michael Jackson, motorcycle ([mirror](https://web.archive.org/web/*/http://www.startribune.com/ap-exclusive-prince-s-purple-rain-coat-is-up-for-auction/377542161/))
+ - [**"Prince's 'Purple Rain' coat is up for auction"**](http://www.startribune.com/ap-exclusive-prince-s-purple-rain-coat-is-up-for-auction/377542161/) by Nicole Evatt (Associated Press) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 29 April 2016 about Apollonia Kotero, auction, Katy Perry, Michael Jackson, motorcycle ([mirror](https://web.archive.org/web/*/http://www.startribune.com/ap-exclusive-prince-s-purple-rain-coat-is-up-for-auction/377542161/))
 
 ----
 
@@ -56,7 +56,7 @@
 
 ----
 
- - [**"Apollonia: Vanity was and 'inspiration'"**](http://www.startribune.com/apollonia-vanity-was-and-inspiration/369204001/) by Jesse J. Holland (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 17 February 2016 about Apollonia Kotero, Vanity ([mirror](https://web.archive.org/web/*/http://www.startribune.com/apollonia-vanity-was-and-inspiration/369204001/))
+ - [**"Apollonia: Vanity was and 'inspiration'"**](http://www.startribune.com/apollonia-vanity-was-and-inspiration/369204001/) by Jesse J. Holland (Associated Press) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 17 February 2016 about Apollonia Kotero, Vanity ([mirror](https://web.archive.org/web/*/http://www.startribune.com/apollonia-vanity-was-and-inspiration/369204001/))
 
 ----
 

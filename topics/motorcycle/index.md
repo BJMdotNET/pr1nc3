@@ -28,7 +28,7 @@
 
 ----
 
- - [**"Timberwolves show off Prince tribute uniforms at Paisley Park -- The Wolves will wear the uniforms eight times this year, including five times at home, and they go on sale to the public next week."**](http://www.startribune.com/timberwolves-show-off-prince-tribute-jerseys-at-paisley-park/499315791/) by Michael Rand in [Minneapolis Star Tribune](http://www.startribune.com/) on 1 November 2018 about Minnesota Timberwolves, motorcycle, Omarr Baker, Timberwolves ([mirror](https://web.archive.org/web/*/http://www.startribune.com/timberwolves-show-off-prince-tribute-jerseys-at-paisley-park/499315791/))
+ - [**"Timberwolves show off Prince tribute uniforms at Paisley Park -- The Wolves will wear the uniforms eight times this year, including five times at home, and they go on sale to the public next week."**](http://www.startribune.com/timberwolves-show-off-prince-tribute-jerseys-at-paisley-park/499315791/) by Michael Rand in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 1 November 2018 about Minnesota Timberwolves, motorcycle, Omarr Baker, Timberwolves ([mirror](https://web.archive.org/web/*/http://www.startribune.com/timberwolves-show-off-prince-tribute-jerseys-at-paisley-park/499315791/))
 
 ----
 
@@ -52,7 +52,7 @@
 
 ----
 
- - [**"A Prince wish, Paisley Park eyed for museum like Graceland"**](http://www.startribune.com/a-prince-wish-paisley-park-eyed-for-museum-like-graceland/382529341/) by Steve Karnowski (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 June 2016 about Bremer Trust, Carver County, exhibit, exhibition, fentanyl, fentanyl overdose, Graceland, Jeremiah Freed, Michael Jackson, motorcycle, museum ([mirror](https://web.archive.org/web/*/http://www.startribune.com/a-prince-wish-paisley-park-eyed-for-museum-like-graceland/382529341/))
+ - [**"A Prince wish, Paisley Park eyed for museum like Graceland"**](http://www.startribune.com/a-prince-wish-paisley-park-eyed-for-museum-like-graceland/382529341/) by Steve Karnowski (Associated Press) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 10 June 2016 about Bremer Trust, Carver County, exhibit, exhibition, fentanyl, fentanyl overdose, Graceland, Jeremiah Freed, Michael Jackson, motorcycle, museum ([mirror](https://web.archive.org/web/*/http://www.startribune.com/a-prince-wish-paisley-park-eyed-for-museum-like-graceland/382529341/))
 
 ----
 
@@ -60,7 +60,7 @@
 
 ----
 
- - [**"Prince's 'Purple Rain' coat is up for auction"**](http://www.startribune.com/ap-exclusive-prince-s-purple-rain-coat-is-up-for-auction/377542161/) by Nicole Evatt (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 29 April 2016 about Apollonia Kotero, auction, Katy Perry, Michael Jackson, motorcycle ([mirror](https://web.archive.org/web/*/http://www.startribune.com/ap-exclusive-prince-s-purple-rain-coat-is-up-for-auction/377542161/))
+ - [**"Prince's 'Purple Rain' coat is up for auction"**](http://www.startribune.com/ap-exclusive-prince-s-purple-rain-coat-is-up-for-auction/377542161/) by Nicole Evatt (Associated Press) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 29 April 2016 about Apollonia Kotero, auction, Katy Perry, Michael Jackson, motorcycle ([mirror](https://web.archive.org/web/*/http://www.startribune.com/ap-exclusive-prince-s-purple-rain-coat-is-up-for-auction/377542161/))
 
 ----
 

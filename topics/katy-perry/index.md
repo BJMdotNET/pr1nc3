@@ -56,11 +56,11 @@
 
 ----
 
- - [**"John Mayer barely comes alive in post-Dead, two-set Xcel Center gig -- The bluesy pop hitmaker hit St. Paul fresh off a tour with his older pals. "**](http://www.startribune.com/john-mayer-barely-comes-alive-in-post-dead-two-set-xcel-center-gig/522130881/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 6 August 2019 about John Mayer, Katy Perry, The Beautiful Ones (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/john-mayer-barely-comes-alive-in-post-dead-two-set-xcel-center-gig/522130881/))
+ - [**"John Mayer barely comes alive in post-Dead, two-set Xcel Center gig -- The bluesy pop hitmaker hit St. Paul fresh off a tour with his older pals. "**](http://www.startribune.com/john-mayer-barely-comes-alive-in-post-dead-two-set-xcel-center-gig/522130881/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 6 August 2019 about John Mayer, Katy Perry, The Beautiful Ones (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/john-mayer-barely-comes-alive-in-post-dead-two-set-xcel-center-gig/522130881/))
 
 ----
 
- - [**"Paisley Park tours draw celebs, including Katy Perry, Bruno Mars and Shania Twain -- Green Day’s frontman brought his family. And Katy Perry made a return visit incognito, just like any other fan."**](http://www.startribune.com/paisley-park-tours-draw-celebs-including-katy-perry-bruno-mars-and-shania-twain/509009942/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 24 April 2019 about Grammy Award, Katy Perry, museum, Rearrange (song), Xcel Energy Center (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-tours-draw-celebs-including-katy-perry-bruno-mars-and-shania-twain/509009942/))
+ - [**"Paisley Park tours draw celebs, including Katy Perry, Bruno Mars and Shania Twain -- Green Day’s frontman brought his family. And Katy Perry made a return visit incognito, just like any other fan."**](http://www.startribune.com/paisley-park-tours-draw-celebs-including-katy-perry-bruno-mars-and-shania-twain/509009942/) by Chris Riemenschneider in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 24 April 2019 about Grammy Award, Katy Perry, museum, Rearrange (song), Xcel Energy Center (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-tours-draw-celebs-including-katy-perry-bruno-mars-and-shania-twain/509009942/))
 
 ----
 
@@ -72,7 +72,7 @@
 
 ----
 
- - [**"Prince's 'Purple Rain' coat is up for auction"**](http://www.startribune.com/ap-exclusive-prince-s-purple-rain-coat-is-up-for-auction/377542161/) by Nicole Evatt (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 29 April 2016 about Apollonia Kotero, auction, Katy Perry, Michael Jackson, motorcycle ([mirror](https://web.archive.org/web/*/http://www.startribune.com/ap-exclusive-prince-s-purple-rain-coat-is-up-for-auction/377542161/))
+ - [**"Prince's 'Purple Rain' coat is up for auction"**](http://www.startribune.com/ap-exclusive-prince-s-purple-rain-coat-is-up-for-auction/377542161/) by Nicole Evatt (Associated Press) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 29 April 2016 about Apollonia Kotero, auction, Katy Perry, Michael Jackson, motorcycle ([mirror](https://web.archive.org/web/*/http://www.startribune.com/ap-exclusive-prince-s-purple-rain-coat-is-up-for-auction/377542161/))
 
 ----
 

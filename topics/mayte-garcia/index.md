@@ -8,7 +8,7 @@
 
 ----
 
- - [**"Prince's estate approves three more '90s reissues via Sony Legacy for September"**](http://www.startribune.com/prince-s-estate-approves-three-more-90s-reissues-via-sony-legacy-for-september/513494212/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 1 August 2019 about Chaos and Disorder (album), Emancipation (album), Mayte, Mayte Garcia, The Versace Experience (Prelude 2 Gold) (album), Trump, Warner Bros. Records ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-estate-approves-three-more-90s-reissues-via-sony-legacy-for-september/513494212/))
+ - [**"Prince's estate approves three more '90s reissues via Sony Legacy for September"**](http://www.startribune.com/prince-s-estate-approves-three-more-90s-reissues-via-sony-legacy-for-september/513494212/) by Chris Riemenschneider in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 1 August 2019 about Chaos and Disorder (album), Emancipation (album), Mayte, Mayte Garcia, The Versace Experience (Prelude 2 Gold) (album), Trump, Warner Bros. Records ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-estate-approves-three-more-90s-reissues-via-sony-legacy-for-september/513494212/))
 
 ----
 
@@ -68,7 +68,7 @@
 
 ----
 
- - [**"Prince's ex-wife opens up about 1996 death of couple's baby"**](http://www.startribune.com/prince-s-ex-wife-opens-up-about-1996-death-of-couple-s-baby/416246944/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 15 March 2017 about Mayte, Mayte Garcia ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-ex-wife-opens-up-about-1996-death-of-couple-s-baby/416246944/))
+ - [**"Prince's ex-wife opens up about 1996 death of couple's baby"**](http://www.startribune.com/prince-s-ex-wife-opens-up-about-1996-death-of-couple-s-baby/416246944/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 15 March 2017 about Mayte, Mayte Garcia ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-ex-wife-opens-up-about-1996-death-of-couple-s-baby/416246944/))
 
 ----
 
@@ -112,7 +112,7 @@
 
 ----
 
- - [**"Prince's ex-wife opens up about baby's death"**](http://www.startribune.com/celebrity-news/378697731/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 May 2016 about Mayte, Mayte Garcia ([mirror](https://web.archive.org/web/*/http://www.startribune.com/celebrity-news/378697731/))
+ - [**"Prince's ex-wife opens up about baby's death"**](http://www.startribune.com/celebrity-news/378697731/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 10 May 2016 about Mayte, Mayte Garcia ([mirror](https://web.archive.org/web/*/http://www.startribune.com/celebrity-news/378697731/))
 
 ----
 
@@ -128,7 +128,7 @@
 
 ----
 
- - [**"Obituary: Prince was a diminutive giant who revolutionized pop -- Though he was a puzzle at times, the rocker was a true Minnesotan who changed music more than once in a nearly 40-year career."**](http://www.startribune.com/jon-bream-prince-was-a-once-in-a-generation-artist-who-never-rested-on-his-laurels/376594221/) by Chris Riemenschneider, Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 April 2016 about André Cymone, First Avenue (place), Grammy Award, John Nelson, Let’s Go Crazy (song), Little Red Corvette (song), Mayte, Mayte Garcia, Obama, Super Bowl, Super Bowl XLI (event), Tyka Nelson, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/jon-bream-prince-was-a-once-in-a-generation-artist-who-never-rested-on-his-laurels/376594221/))
+ - [**"Obituary: Prince was a diminutive giant who revolutionized pop -- Though he was a puzzle at times, the rocker was a true Minnesotan who changed music more than once in a nearly 40-year career."**](http://www.startribune.com/jon-bream-prince-was-a-once-in-a-generation-artist-who-never-rested-on-his-laurels/376594221/) by Chris Riemenschneider, Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 22 April 2016 about André Cymone, First Avenue (place), Grammy Award, John Nelson, Let’s Go Crazy (song), Little Red Corvette (song), Mayte, Mayte Garcia, Obama, Super Bowl, Super Bowl XLI (event), Tyka Nelson, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/jon-bream-prince-was-a-once-in-a-generation-artist-who-never-rested-on-his-laurels/376594221/))
 
 ----
 

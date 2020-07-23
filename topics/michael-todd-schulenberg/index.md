@@ -1,6 +1,6 @@
 # Michael Todd Schulenberg
 
- - [**"Prince doctor sanctioned by Minnesota Board of Medical Practice -- Disciplinary action follows physician's settlement of a federal lawsuit. "**](http://www.startribune.com/prince-doctor-sanctioned-by-minnesota-board-of-medical-practice/567528322/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 3 February 2020 about Atlanta (place), fentanyl, Howard Kornfeld, Kirk Johnson, Michael Todd Schulenberg ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-doctor-sanctioned-by-minnesota-board-of-medical-practice/567528322/))
+ - [**"Prince doctor sanctioned by Minnesota Board of Medical Practice -- Disciplinary action follows physician's settlement of a federal lawsuit. "**](http://www.startribune.com/prince-doctor-sanctioned-by-minnesota-board-of-medical-practice/567528322/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 3 February 2020 about Atlanta (place), fentanyl, Howard Kornfeld, Kirk Johnson, Michael Todd Schulenberg ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-doctor-sanctioned-by-minnesota-board-of-medical-practice/567528322/))
 
 ----
 
@@ -16,7 +16,7 @@
 
 ----
 
- - [**"As Prince's health waned, alarm grew in inner circle"**](http://www.startribune.com/as-prince-s-health-waned-alarm-grew-in-inner-circle/480336433/) by Amy Forliti (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 April 2018 about Andrew Kornfeld, Carver County, fentanyl, Howard Kornfeld, Illinois (place), Kirk Johnson, Mark Metz, Meron Bekure, Michael Todd Schulenberg, Moline, Illinois (place), oxycodone ([mirror](https://web.archive.org/web/*/http://www.startribune.com/as-prince-s-health-waned-alarm-grew-in-inner-circle/480336433/))
+ - [**"As Prince's health waned, alarm grew in inner circle"**](http://www.startribune.com/as-prince-s-health-waned-alarm-grew-in-inner-circle/480336433/) by Amy Forliti (Associated Press) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 20 April 2018 about Andrew Kornfeld, Carver County, fentanyl, Howard Kornfeld, Illinois (place), Kirk Johnson, Mark Metz, Meron Bekure, Michael Todd Schulenberg, Moline, Illinois (place), oxycodone ([mirror](https://web.archive.org/web/*/http://www.startribune.com/as-prince-s-health-waned-alarm-grew-in-inner-circle/480336433/))
 
 ----
 
@@ -80,7 +80,7 @@
 
 ----
 
- - [**"Prince's local doctor identified in search warrant -- Dr. Michael Todd Schulenberg, a family practitioner, had seen Prince twice before his body was found April 21, according to the warrant left unsealed."**](http://www.startribune.com/prince-s-md-identified-in-search-warrant/378880371/) by Dan Browning, Jeremy Olson in [Minneapolis Star Tribune](http://www.startribune.com/) on 11 May 2016 about Michael Todd Schulenberg ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-md-identified-in-search-warrant/378880371/))
+ - [**"Prince's local doctor identified in search warrant -- Dr. Michael Todd Schulenberg, a family practitioner, had seen Prince twice before his body was found April 21, according to the warrant left unsealed."**](http://www.startribune.com/prince-s-md-identified-in-search-warrant/378880371/) by Dan Browning, Jeremy Olson in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 11 May 2016 about Michael Todd Schulenberg ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-md-identified-in-search-warrant/378880371/))
 
 ----
 

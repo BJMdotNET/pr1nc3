@@ -1,6 +1,6 @@
 # Prince Day
 
- - [**"Prince Day celebration brings fans to Rock Hall of Fame"**](http://www.startribune.com/prince-day-celebration-brings-fans-to-rock-hall-of-fame/427257111/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 8 June 2017 about Prince Day ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-day-celebration-brings-fans-to-rock-hall-of-fame/427257111/))
+ - [**"Prince Day celebration brings fans to Rock Hall of Fame"**](http://www.startribune.com/prince-day-celebration-brings-fans-to-rock-hall-of-fame/427257111/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 8 June 2017 about Prince Day ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-day-celebration-brings-fans-to-rock-hall-of-fame/427257111/))
 
 ----
 

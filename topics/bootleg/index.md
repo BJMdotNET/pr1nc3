@@ -1,5 +1,9 @@
 # bootleg
 
+ - [**"Prince’s Classic ‘Sign O’ the Times’ Deluxe Reissue Coming in September, With 63 Bonus Tracks"**](https://variety.com/2020/music/news/prince-sign-o-the-times-deluxe-reissue-bonus-tracks-1234689805/) in [Variety](https://variety.com/) on 25 June 2020 about Andrea Swensson, bootleg, Daphne A. Brooks, Dave Chappelle, Dream Factory (album), Duane Tudahl, I Could Never Take The Place Of Your Man (song), Jeff Katz, Lenny Kravitz, Miles Davis, Susan Rogers, The Revolution, U Got the Look (song), vault, Witness 4 The Prosecution (song) ([mirror](https://web.archive.org/web/*/https://variety.com/2020/music/news/prince-sign-o-the-times-deluxe-reissue-bonus-tracks-1234689805/))
+
+----
+
  - [**"Foo Fighters, Beck, H.E.R., Sheila E. Light Up ‘Grammy Salute to Prince’ Concert"**](https://variety.com/2020/music/news/prince-tribute-concert-foo-fighters-her-beck-1203485036/) in [Variety](https://variety.com/) on 29 January 2020 about 1999 (song), Baby I’m a Star (song), Bangles, Beck, bootleg, Chris Martin, Coldplay, Controversy (song), D’Angelo, Darling Nikki (song), Diamonds and Pearls (song), Earth, Wind & Fire, Foo Fighters, Fred Armisen, Gary Clark Jr., Gretchen Lieberum, H.E.R., Janelle Monae, Jerome Benton, Jimmy Jam, John Legend, Juanes, Jungle Love (song), Ken Ehrlich, Let’s Go Crazy (song), Lisa Coleman, Manic Monday (song), Mavis Staples, Maya Rudolph, Misty Copeland, Morris Day, Mountains (song), Nothing Compares 2 U (song), Pop Life (song), PRINCEss, Purple Rain (song), Raspberry Beret (song), Sheila E., St. Vincent, Stevie Wonder, Super Bowl, Terry Lewis, The Beautiful Ones (song), The Bird (song), The Glamorous Life (song), The Revolution, The Time, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://variety.com/2020/music/news/prince-tribute-concert-foo-fighters-her-beck-1203485036/))
 
 ----
@@ -12,7 +16,7 @@
 
 ----
 
- - [**"20 gift ideas for the music lovers on your holiday list -- Twenty ideas for the music lovers on your holiday list. "**](http://www.startribune.com/20-gift-ideas-for-the-music-lovers-on-your-holiday-list/566181501/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 16 December 2019 about 1999 Super Deluxe (album), Bob Dylan, bootleg, Lizzo, memoir, Miles Davis, Morris Day, My Name Is Prince: 25 Inspired Years (book), On Time: A Princely Life in Funk (book), Randee St. Nicholas, Spiegel & Grau, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/20-gift-ideas-for-the-music-lovers-on-your-holiday-list/566181501/))
+ - [**"20 gift ideas for the music lovers on your holiday list -- Twenty ideas for the music lovers on your holiday list. "**](http://www.startribune.com/20-gift-ideas-for-the-music-lovers-on-your-holiday-list/566181501/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 16 December 2019 about 1999 Super Deluxe (album), Bob Dylan, bootleg, Lizzo, memoir, Miles Davis, Morris Day, My Name Is Prince: 25 Inspired Years (book), On Time: A Princely Life in Funk (book), Randee St. Nicholas, Spiegel & Grau, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/20-gift-ideas-for-the-music-lovers-on-your-holiday-list/566181501/))
 
 ----
 
@@ -88,7 +92,7 @@
 
 ----
 
- - [**"Prince rules collector site Discogs’ ‘100 Most Expensive Records’ list"**](http://www.startribune.com/prince-rules-collector-site-discogs-100-most-expensive-records-list/511122062/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 11 June 2019 about bootleg, The Black Album (album), The Gold Experience (album) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-rules-collector-site-discogs-100-most-expensive-records-list/511122062/))
+ - [**"Prince rules collector site Discogs’ ‘100 Most Expensive Records’ list"**](http://www.startribune.com/prince-rules-collector-site-discogs-100-most-expensive-records-list/511122062/) by Chris Riemenschneider in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 11 June 2019 about bootleg, The Black Album (album), The Gold Experience (album) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-rules-collector-site-discogs-100-most-expensive-records-list/511122062/))
 
 ----
 
@@ -112,15 +116,15 @@
 
 ----
 
- - [**"Prince estate sues 'brazen bootlegger,' others selling CDs of his last show, trove of other music -- Suit seeks many millions in compensation; sales over internet have been going on since 2016, the year Prince died."**](http://www.startribune.com/prince-estate-sues-brazen-bootlegger-others-selling-cds-of-his-last-show-trove-of-other-music/492422931/) by Paul Walsh in [Minneapolis Star Tribune](http://www.startribune.com/) on 4 September 2018 about bootleg, Prince Estate ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-estate-sues-brazen-bootlegger-others-selling-cds-of-his-last-show-trove-of-other-music/492422931/))
+ - [**"Prince estate sues 'brazen bootlegger,' others selling CDs of his last show, trove of other music -- Suit seeks many millions in compensation; sales over internet have been going on since 2016, the year Prince died."**](http://www.startribune.com/prince-estate-sues-brazen-bootlegger-others-selling-cds-of-his-last-show-trove-of-other-music/492422931/) by Paul Walsh in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 4 September 2018 about bootleg, Prince Estate ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-estate-sues-brazen-bootlegger-others-selling-cds-of-his-last-show-trove-of-other-music/492422931/))
 
 ----
 
- - [**"Minnesota's best albums of the year (so far): Chastity Brown, Romantica, Brother Ali, Lady Midnight -- This year's 10 albums includes several artists who saw their patience pay off."**](http://www.startribune.com/minnesota-s-best-albums-of-the-year-so-far-brother-ali-chastity-brown-romantica-prince/431623233/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 30 June 2017 about 17 Days (song), bootleg, Chastity Brown, First Avenue (place), Our Destiny (song), Possessed (song), Purple Rain (album), Roadhouse Garden (song), The Beautiful Ones (song), The Revolution, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/minnesota-s-best-albums-of-the-year-so-far-brother-ali-chastity-brown-romantica-prince/431623233/))
+ - [**"Minnesota's best albums of the year (so far): Chastity Brown, Romantica, Brother Ali, Lady Midnight -- This year's 10 albums includes several artists who saw their patience pay off."**](http://www.startribune.com/minnesota-s-best-albums-of-the-year-so-far-brother-ali-chastity-brown-romantica-prince/431623233/) by Chris Riemenschneider in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 30 June 2017 about 17 Days (song), bootleg, Chastity Brown, First Avenue (place), Our Destiny (song), Possessed (song), Purple Rain (album), Roadhouse Garden (song), The Beautiful Ones (song), The Revolution, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/minnesota-s-best-albums-of-the-year-so-far-brother-ali-chastity-brown-romantica-prince/431623233/))
 
 ----
 
- - [**"Details of Prince's expanded 'Purple Rain' reissue revealed, coming June 23"**](http://www.startribune.com/details-of-prince-s-expanded-purple-rain-reissue-revealed-coming-june-23/420722973/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 28 April 2017 about 17 Days (song), bootleg, Erotic City (song), First Avenue (place), Minnesota Dance Theatre, NPG Records, Our Destiny (song), Possessed (song), Purple Rain (album), Purple Rain (song), Roadhouse Garden (song), The Beautiful Ones (song), The Revolution, vault, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/details-of-prince-s-expanded-purple-rain-reissue-revealed-coming-june-23/420722973/))
+ - [**"Details of Prince's expanded 'Purple Rain' reissue revealed, coming June 23"**](http://www.startribune.com/details-of-prince-s-expanded-purple-rain-reissue-revealed-coming-june-23/420722973/) by Chris Riemenschneider in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 28 April 2017 about 17 Days (song), bootleg, Erotic City (song), First Avenue (place), Minnesota Dance Theatre, NPG Records, Our Destiny (song), Possessed (song), Purple Rain (album), Purple Rain (song), Roadhouse Garden (song), The Beautiful Ones (song), The Revolution, vault, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/details-of-prince-s-expanded-purple-rain-reissue-revealed-coming-june-23/420722973/))
 
 ----
 

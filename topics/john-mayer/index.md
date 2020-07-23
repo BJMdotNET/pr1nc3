@@ -4,7 +4,7 @@
 
 ----
 
- - [**"John Mayer barely comes alive in post-Dead, two-set Xcel Center gig -- The bluesy pop hitmaker hit St. Paul fresh off a tour with his older pals. "**](http://www.startribune.com/john-mayer-barely-comes-alive-in-post-dead-two-set-xcel-center-gig/522130881/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 6 August 2019 about John Mayer, Katy Perry, The Beautiful Ones (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/john-mayer-barely-comes-alive-in-post-dead-two-set-xcel-center-gig/522130881/))
+ - [**"John Mayer barely comes alive in post-Dead, two-set Xcel Center gig -- The bluesy pop hitmaker hit St. Paul fresh off a tour with his older pals. "**](http://www.startribune.com/john-mayer-barely-comes-alive-in-post-dead-two-set-xcel-center-gig/522130881/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 6 August 2019 about John Mayer, Katy Perry, The Beautiful Ones (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/john-mayer-barely-comes-alive-in-post-dead-two-set-xcel-center-gig/522130881/))
 
 ----
 

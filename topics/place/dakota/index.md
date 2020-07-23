@@ -1,18 +1,22 @@
 # Dakota (place)
 
- - [**"Best of the Week (Feb. 16-23): Tove Lo, Joe Henry, 'Gotta Dance,' Raphael Saadiq, VocalEssence, winter fest, more"**](http://www.startribune.com/best-of-the-week-feb-16-23-tove-lo-joe-henry-gotta-dance-raphael-saadiq-vocalessence-winter-fest-more/567872132/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 14 February 2020 about Celebration, Dakota (place), First Avenue (place), Jon Bream, Raphael Saadiq ([mirror](https://web.archive.org/web/*/http://www.startribune.com/best-of-the-week-feb-16-23-tove-lo-joe-henry-gotta-dance-raphael-saadiq-vocalessence-winter-fest-more/567872132/))
+ - [**"Klobuchar bill would cough up $10 billion for struggling music venues"**](http://www.citypages.com/music/klobuchar-bill-would-cough-up-10-billion-for-struggling-music-venues/571865291) in [City Pages](http://www.citypages.com/) on 22 July 2020 about Dakota (place), First Avenue (place) ([mirror](https://web.archive.org/web/*/http://www.citypages.com/music/klobuchar-bill-would-cough-up-10-billion-for-struggling-music-venues/571865291))
 
 ----
 
- - [**"Twin Cities concerts of the week: Iron & Wine with Calexico, Sudaka Fest, Heart Bones and the Suburbs -- This big gigs for Feb. 14-20, also including Tove Lo, Ellis Delaney's release party, memorials for Ed Ackerson and Lexii Alijai, Rosanne Cash, a Louisiana twofer and a Paisley Park party with Meshell Ndegeocello. "**](http://www.startribune.com/twin-cities-concerts-of-the-week-iron-amp-wine-with-calexico-sudaka-fest-heart-bones-and-the-suburbs/567843822/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 14 February 2020 about Celebration, Dakota (place), Darling Nikki (song), First Avenue (place), Garrison Keillor, Meshell Ndegeocello, Paul Peterson, Sometimes It Snows In April (song), St. Paul Peterson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/twin-cities-concerts-of-the-week-iron-amp-wine-with-calexico-sudaka-fest-heart-bones-and-the-suburbs/567843822/))
+ - [**"Best of the Week (Feb. 16-23): Tove Lo, Joe Henry, 'Gotta Dance,' Raphael Saadiq, VocalEssence, winter fest, more"**](http://www.startribune.com/best-of-the-week-feb-16-23-tove-lo-joe-henry-gotta-dance-raphael-saadiq-vocalessence-winter-fest-more/567872132/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 14 February 2020 about Celebration, Dakota (place), First Avenue (place), Jon Bream, Raphael Saadiq ([mirror](https://web.archive.org/web/*/http://www.startribune.com/best-of-the-week-feb-16-23-tove-lo-joe-henry-gotta-dance-raphael-saadiq-vocalessence-winter-fest-more/567872132/))
 
 ----
 
- - [**"Star Tribune's 2019 Artists of the Year -- Meet the Minnesotans at the heart of the year's most groundbreaking show."**](http://www.startribune.com/6-minnesotans-are-2019-artists-of-the-year/564924782/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 6 January 2020 about 1999 (album), ASCAP, Ava DuVernay, Bangles, Bob Dylan, Dakota (place), exhibit, exhibition, Kenny Rogers, Lizzo, memoir, Minneapolis Institute of Art, museum, Netflix, Originals (album), Rearrange (song), Sheila E., Smithsonian (place), The Beautiful Ones (book), University of Minnesota, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/6-minnesotans-are-2019-artists-of-the-year/564924782/))
+ - [**"Twin Cities concerts of the week: Iron & Wine with Calexico, Sudaka Fest, Heart Bones and the Suburbs -- This big gigs for Feb. 14-20, also including Tove Lo, Ellis Delaney's release party, memorials for Ed Ackerson and Lexii Alijai, Rosanne Cash, a Louisiana twofer and a Paisley Park party with Meshell Ndegeocello. "**](http://www.startribune.com/twin-cities-concerts-of-the-week-iron-amp-wine-with-calexico-sudaka-fest-heart-bones-and-the-suburbs/567843822/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 14 February 2020 about Celebration, Dakota (place), Darling Nikki (song), First Avenue (place), Garrison Keillor, Meshell Ndegeocello, Paul Peterson, Sometimes It Snows In April (song), St. Paul Peterson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/twin-cities-concerts-of-the-week-iron-amp-wine-with-calexico-sudaka-fest-heart-bones-and-the-suburbs/567843822/))
 
 ----
 
- - [**"6 cool things in music include Beyoncé's Elle interview, J.S. Ondara, David Byrne & Nachito Herrera"**](http://www.startribune.com/6-cool-things-in-music-include-beyonce-s-elle-interview-j-s-ondara-david-byrne-amp-nachito-herrera/566170311/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 13 December 2019 about Dakota (place), First Avenue (place), Jon Bream, St. Louis Park (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/6-cool-things-in-music-include-beyonce-s-elle-interview-j-s-ondara-david-byrne-amp-nachito-herrera/566170311/))
+ - [**"Star Tribune's 2019 Artists of the Year -- Meet the Minnesotans at the heart of the year's most groundbreaking show."**](http://www.startribune.com/6-minnesotans-are-2019-artists-of-the-year/564924782/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 6 January 2020 about 1999 (album), ASCAP, Ava DuVernay, Bangles, Bob Dylan, Dakota (place), exhibit, exhibition, Kenny Rogers, Lizzo, memoir, Minneapolis Institute of Art, museum, Netflix, Originals (album), Rearrange (song), Sheila E., Smithsonian (place), The Beautiful Ones (book), University of Minnesota, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/6-minnesotans-are-2019-artists-of-the-year/564924782/))
+
+----
+
+ - [**"6 cool things in music include Beyoncé's Elle interview, J.S. Ondara, David Byrne & Nachito Herrera"**](http://www.startribune.com/6-cool-things-in-music-include-beyonce-s-elle-interview-j-s-ondara-david-byrne-amp-nachito-herrera/566170311/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 13 December 2019 about Dakota (place), First Avenue (place), Jon Bream, St. Louis Park (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/6-cool-things-in-music-include-beyonce-s-elle-interview-j-s-ondara-david-byrne-amp-nachito-herrera/566170311/))
 
 ----
 
@@ -20,11 +24,11 @@
 
 ----
 
- - [**"Lizz Wright shakes her soulful Prince tambourine at the Dakota"**](http://www.startribune.com/lizz-wright-shakes-her-soulful-prince-tambourine-at-the-dakota/510019492/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 16 May 2019 about Dakota (place), Lizz Wright ([mirror](https://web.archive.org/web/*/http://www.startribune.com/lizz-wright-shakes-her-soulful-prince-tambourine-at-the-dakota/510019492/))
+ - [**"Lizz Wright shakes her soulful Prince tambourine at the Dakota"**](http://www.startribune.com/lizz-wright-shakes-her-soulful-prince-tambourine-at-the-dakota/510019492/) by Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 16 May 2019 about Dakota (place), Lizz Wright ([mirror](https://web.archive.org/web/*/http://www.startribune.com/lizz-wright-shakes-her-soulful-prince-tambourine-at-the-dakota/510019492/))
 
 ----
 
- - [**"Former Prince guitarist Donna Grantis celebrates new jazz-rock album at the Dakota -- 3rdEyeGirl guitarist Donna Grantis will celebrate her new jazz-rock fusion album in Minneapolis."**](http://www.startribune.com/former-prince-guitarist-donna-grantis-celebrates-new-jazz-rock-album-at-the-dakota/507678332/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 March 2019 about 3rdEyeGirl, Aretha Franklin, Dakota (place), Donna Grantis, Hannah Welton, Toronto, YouTube ([mirror](https://web.archive.org/web/*/http://www.startribune.com/former-prince-guitarist-donna-grantis-celebrates-new-jazz-rock-album-at-the-dakota/507678332/))
+ - [**"Former Prince guitarist Donna Grantis celebrates new jazz-rock album at the Dakota -- 3rdEyeGirl guitarist Donna Grantis will celebrate her new jazz-rock fusion album in Minneapolis."**](http://www.startribune.com/former-prince-guitarist-donna-grantis-celebrates-new-jazz-rock-album-at-the-dakota/507678332/) by Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 26 March 2019 about 3rdEyeGirl, Aretha Franklin, Dakota (place), Donna Grantis, Hannah Welton, Toronto, YouTube ([mirror](https://web.archive.org/web/*/http://www.startribune.com/former-prince-guitarist-donna-grantis-celebrates-new-jazz-rock-album-at-the-dakota/507678332/))
 
 ----
 
@@ -32,11 +36,11 @@
 
 ----
 
- - [**"A timeline of Prince's final days"**](http://www.startribune.com/a-timeline-of-prince-s-final-days/480321973/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 April 2018 about Carver County, Dakota (place), fentanyl, Kirk Johnson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/a-timeline-of-prince-s-final-days/480321973/))
+ - [**"A timeline of Prince's final days"**](http://www.startribune.com/a-timeline-of-prince-s-final-days/480321973/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 19 April 2018 about Carver County, Dakota (place), fentanyl, Kirk Johnson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/a-timeline-of-prince-s-final-days/480321973/))
 
 ----
 
- - [**"Prince's former musician Donna Grantis plays guitar hero at the Dakota"**](http://www.startribune.com/prince-s-former-musician-donna-grantis-plays-guitar-hero-at-the-dakota/480212673/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 April 2018 about Dakota (place), Donna Grantis ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-former-musician-donna-grantis-plays-guitar-hero-at-the-dakota/480212673/))
+ - [**"Prince's former musician Donna Grantis plays guitar hero at the Dakota"**](http://www.startribune.com/prince-s-former-musician-donna-grantis-plays-guitar-hero-at-the-dakota/480212673/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 19 April 2018 about Dakota (place), Donna Grantis ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-former-musician-donna-grantis-plays-guitar-hero-at-the-dakota/480212673/))
 
 ----
 
@@ -44,7 +48,7 @@
 
 ----
 
- - [**"Adored by millions, Prince was alone as he died"**](http://www.startribune.com/investigation-underway-into-prince-s-death/376741561/) by John Reinan in [Minneapolis Star Tribune](http://www.startribune.com/) on 23 April 2016 about airport, Atlanta (place), Carver County, Dakota (place), Illinois (place), Jim Olson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/investigation-underway-into-prince-s-death/376741561/))
+ - [**"Adored by millions, Prince was alone as he died"**](http://www.startribune.com/investigation-underway-into-prince-s-death/376741561/) by John Reinan in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 23 April 2016 about airport, Atlanta (place), Carver County, Dakota (place), Illinois (place), Jim Olson ([mirror](https://web.archive.org/web/*/http://www.startribune.com/investigation-underway-into-prince-s-death/376741561/))
 
 ----
 

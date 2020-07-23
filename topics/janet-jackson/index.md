@@ -8,7 +8,7 @@
 
 ----
 
- - [**"In a Twin Cities living room, the Steeles cook up their 35th annual Christmas show -- The Steeles' annual Christmas show is a family affair, brewed up in a Golden Valley living room. "**](http://www.startribune.com/in-a-twin-cities-living-room-the-steeles-cook-up-their-35th-annual-christmas-show/566344542/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 December 2019 about Alexander O’Neal, contract, Janet Jackson, Justin Timberlake, Kenni Holmen, Sonny Thompson, Tommy Barbarella ([mirror](https://web.archive.org/web/*/http://www.startribune.com/in-a-twin-cities-living-room-the-steeles-cook-up-their-35th-annual-christmas-show/566344542/))
+ - [**"In a Twin Cities living room, the Steeles cook up their 35th annual Christmas show -- The Steeles' annual Christmas show is a family affair, brewed up in a Golden Valley living room. "**](http://www.startribune.com/in-a-twin-cities-living-room-the-steeles-cook-up-their-35th-annual-christmas-show/566344542/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 19 December 2019 about Alexander O’Neal, contract, Janet Jackson, Justin Timberlake, Kenni Holmen, Sonny Thompson, Tommy Barbarella ([mirror](https://web.archive.org/web/*/http://www.startribune.com/in-a-twin-cities-living-room-the-steeles-cook-up-their-35th-annual-christmas-show/566344542/))
 
 ----
 
@@ -28,7 +28,7 @@
 
 ----
 
- - [**"Prince haunts Morris Day's new memoir: 'I still hear his voice in my head' -- "Purple Rain" co-star and Time leader Morris Day details his long friendship with Prince in a memoir that brings him home to the Twin Cities this week. "**](http://www.startribune.com/prince-haunts-morris-day-s-new-memoir-i-still-hear-his-voice-in-my-head/562430972/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 8 October 2019 about Aretha Franklin, Donald Trump, Jamie Starr, Janet Jackson, memoir, Morris Day, On Time: A Princely Life in Funk (book), Pandemonium (album), Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-haunts-morris-day-s-new-memoir-i-still-hear-his-voice-in-my-head/562430972/))
+ - [**"Prince haunts Morris Day's new memoir: 'I still hear his voice in my head' -- "Purple Rain" co-star and Time leader Morris Day details his long friendship with Prince in a memoir that brings him home to the Twin Cities this week. "**](http://www.startribune.com/prince-haunts-morris-day-s-new-memoir-i-still-hear-his-voice-in-my-head/562430972/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 8 October 2019 about Aretha Franklin, Donald Trump, Jamie Starr, Janet Jackson, memoir, Morris Day, On Time: A Princely Life in Funk (book), Pandemonium (album), Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-haunts-morris-day-s-new-memoir-i-still-hear-his-voice-in-my-head/562430972/))
 
 ----
 
@@ -36,7 +36,7 @@
 
 ----
 
- - [**"To Janet Jackson, Minneapolis will always be her 'home away from home' -- Balancing motherhood and megahits, Janet Jackson talks about her return to Minnesota, where she recorded her breakthrough albums. "**](http://www.startribune.com/to-janet-jackson-minneapolis-will-always-be-her-home-away-from-home/560054982/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 11 September 2019 about Janelle Monae, Janet Jackson, Jimmy Jam, Michael Jackson, Stevie Nicks, Terry Lewis, The Time ([mirror](https://web.archive.org/web/*/http://www.startribune.com/to-janet-jackson-minneapolis-will-always-be-her-home-away-from-home/560054982/))
+ - [**"To Janet Jackson, Minneapolis will always be her 'home away from home' -- Balancing motherhood and megahits, Janet Jackson talks about her return to Minnesota, where she recorded her breakthrough albums. "**](http://www.startribune.com/to-janet-jackson-minneapolis-will-always-be-her-home-away-from-home/560054982/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 11 September 2019 about Janelle Monae, Janet Jackson, Jimmy Jam, Michael Jackson, Stevie Nicks, Terry Lewis, The Time ([mirror](https://web.archive.org/web/*/http://www.startribune.com/to-janet-jackson-minneapolis-will-always-be-her-home-away-from-home/560054982/))
 
 ----
 

@@ -20,7 +20,7 @@
 
 ----
 
- - [**"From Ukraine to Jay-Z, a night with President Trump -- One journalist's notes from an exceptional happening in downtown Minneapolis. "**](http://www.startribune.com/from-ukraine-to-jay-z-a-night-with-president-trump/562832292/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 11 October 2019 about Obama, Purple Rain (song), Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/from-ukraine-to-jay-z-a-night-with-president-trump/562832292/))
+ - [**"From Ukraine to Jay-Z, a night with President Trump -- One journalist's notes from an exceptional happening in downtown Minneapolis. "**](http://www.startribune.com/from-ukraine-to-jay-z-a-night-with-president-trump/562832292/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 11 October 2019 about Obama, Purple Rain (song), Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/from-ukraine-to-jay-z-a-night-with-president-trump/562832292/))
 
 ----
 
@@ -32,7 +32,7 @@
 
 ----
 
- - [**"Prince estate: Trump violated promise not to play 'Purple Rain' -- The campaign played the song at the president's Target Center appearance after it promised a year ago to stop playing Prince's music at rallies, the estate said. "**](http://www.startribune.com/prince-estate-says-playing-purple-rain-at-trump-rally-was-unauthorized/562782832/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 11 October 2019 about Donald Trump, First Avenue (place), Prince Estate, Purple Rain (song), The Prince Estate, Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-estate-says-playing-purple-rain-at-trump-rally-was-unauthorized/562782832/))
+ - [**"Prince estate: Trump violated promise not to play 'Purple Rain' -- The campaign played the song at the president's Target Center appearance after it promised a year ago to stop playing Prince's music at rallies, the estate said. "**](http://www.startribune.com/prince-estate-says-playing-purple-rain-at-trump-rally-was-unauthorized/562782832/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 11 October 2019 about Donald Trump, First Avenue (place), Prince Estate, Purple Rain (song), The Prince Estate, Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-estate-says-playing-purple-rain-at-trump-rally-was-unauthorized/562782832/))
 
 ----
 
@@ -44,7 +44,7 @@
 
 ----
 
- - [**"Prince haunts Morris Day's new memoir: 'I still hear his voice in my head' -- "Purple Rain" co-star and Time leader Morris Day details his long friendship with Prince in a memoir that brings him home to the Twin Cities this week. "**](http://www.startribune.com/prince-haunts-morris-day-s-new-memoir-i-still-hear-his-voice-in-my-head/562430972/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 8 October 2019 about Aretha Franklin, Donald Trump, Jamie Starr, Janet Jackson, memoir, Morris Day, On Time: A Princely Life in Funk (book), Pandemonium (album), Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-haunts-morris-day-s-new-memoir-i-still-hear-his-voice-in-my-head/562430972/))
+ - [**"Prince haunts Morris Day's new memoir: 'I still hear his voice in my head' -- "Purple Rain" co-star and Time leader Morris Day details his long friendship with Prince in a memoir that brings him home to the Twin Cities this week. "**](http://www.startribune.com/prince-haunts-morris-day-s-new-memoir-i-still-hear-his-voice-in-my-head/562430972/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 8 October 2019 about Aretha Franklin, Donald Trump, Jamie Starr, Janet Jackson, memoir, Morris Day, On Time: A Princely Life in Funk (book), Pandemonium (album), Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-haunts-morris-day-s-new-memoir-i-still-hear-his-voice-in-my-head/562430972/))
 
 ----
 
@@ -64,7 +64,7 @@
 
 ----
 
- - [**"Prince's estate approves three more '90s reissues via Sony Legacy for September"**](http://www.startribune.com/prince-s-estate-approves-three-more-90s-reissues-via-sony-legacy-for-september/513494212/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 1 August 2019 about Chaos and Disorder (album), Emancipation (album), Mayte, Mayte Garcia, The Versace Experience (Prelude 2 Gold) (album), Trump, Warner Bros. Records ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-estate-approves-three-more-90s-reissues-via-sony-legacy-for-september/513494212/))
+ - [**"Prince's estate approves three more '90s reissues via Sony Legacy for September"**](http://www.startribune.com/prince-s-estate-approves-three-more-90s-reissues-via-sony-legacy-for-september/513494212/) by Chris Riemenschneider in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 1 August 2019 about Chaos and Disorder (album), Emancipation (album), Mayte, Mayte Garcia, The Versace Experience (Prelude 2 Gold) (album), Trump, Warner Bros. Records ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-estate-approves-three-more-90s-reissues-via-sony-legacy-for-september/513494212/))
 
 ----
 
@@ -80,7 +80,7 @@
 
 ----
 
- - [**"Questlove and the Roots give a Prince-like epic performance at Mystic Lake"**](http://www.startribune.com/questlove-and-the-roots-give-a-prince-like-epic-performance-at-mystic-lake/512044012/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 1 July 2019 about Questlove, Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/questlove-and-the-roots-give-a-prince-like-epic-performance-at-mystic-lake/512044012/))
+ - [**"Questlove and the Roots give a Prince-like epic performance at Mystic Lake"**](http://www.startribune.com/questlove-and-the-roots-give-a-prince-like-epic-performance-at-mystic-lake/512044012/) by Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 1 July 2019 about Questlove, Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/questlove-and-the-roots-give-a-prince-like-epic-performance-at-mystic-lake/512044012/))
 
 ----
 
@@ -88,7 +88,7 @@
 
 ----
 
- - [**"Members of Prince's estate ask President Trump to not use his music at rallies"**](http://www.startribune.com/members-of-prince-s-estate-ask-president-trump-to-not-use-his-music-at-rallies/497193471/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 October 2018 about Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/members-of-prince-s-estate-ask-president-trump-to-not-use-his-music-at-rallies/497193471/))
+ - [**"Members of Prince's estate ask President Trump to not use his music at rallies"**](http://www.startribune.com/members-of-prince-s-estate-ask-president-trump-to-not-use-his-music-at-rallies/497193471/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 12 October 2018 about Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/members-of-prince-s-estate-ask-president-trump-to-not-use-his-music-at-rallies/497193471/))
 
 ----
 
@@ -96,7 +96,7 @@
 
 ----
 
- - [**"Prince estate to Trump: Stop using music at rallies"**](http://www.startribune.com/prince-estate-to-trump-stop-using-music-at-rallies/497248101/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 October 2018 about Prince Estate, Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-estate-to-trump-stop-using-music-at-rallies/497248101/))
+ - [**"Prince estate to Trump: Stop using music at rallies"**](http://www.startribune.com/prince-estate-to-trump-stop-using-music-at-rallies/497248101/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 12 October 2018 about Prince Estate, Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-estate-to-trump-stop-using-music-at-rallies/497248101/))
 
 ----
 
@@ -116,7 +116,7 @@
 
 ----
 
- - [**"Jazz legend Herbie Hancock talks music, recovery and partying with Prince                                     -- Jazz giant Herbie Hancock is working on an album with Snoop and Pharrell; he'll preview it at the Minnesota Zoo. "**](http://www.startribune.com/jazz-legend-herbie-hancock-talks-music-recovery-and-partying-with-prince/439675873/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 10 August 2017 about Joni Mitchell, memoir, Miles Davis, Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/jazz-legend-herbie-hancock-talks-music-recovery-and-partying-with-prince/439675873/))
+ - [**"Jazz legend Herbie Hancock talks music, recovery and partying with Prince                                     -- Jazz giant Herbie Hancock is working on an album with Snoop and Pharrell; he'll preview it at the Minnesota Zoo. "**](http://www.startribune.com/jazz-legend-herbie-hancock-talks-music-recovery-and-partying-with-prince/439675873/) by Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 10 August 2017 about Joni Mitchell, memoir, Miles Davis, Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/jazz-legend-herbie-hancock-talks-music-recovery-and-partying-with-prince/439675873/))
 
 ----
 
@@ -124,7 +124,7 @@
 
 ----
 
- - [**"Austin's SXSW turns purple on St. Paddy's Day with Prince tributes -- Music megafest featured outdoor concert and two panels in his memory."**](http://www.startribune.com/austin-s-sxsw-turns-purple-on-st-patty-s-day-with-prince-tributes/416509783/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 March 2017 about Owen Husney, Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/austin-s-sxsw-turns-purple-on-st-patty-s-day-with-prince-tributes/416509783/))
+ - [**"Austin's SXSW turns purple on St. Paddy's Day with Prince tributes -- Music megafest featured outdoor concert and two panels in his memory."**](http://www.startribune.com/austin-s-sxsw-turns-purple-on-st-patty-s-day-with-prince-tributes/416509783/) by Chris Riemenschneider in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 18 March 2017 about Owen Husney, Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/austin-s-sxsw-turns-purple-on-st-patty-s-day-with-prince-tributes/416509783/))
 
 ----
 
@@ -140,7 +140,7 @@
 
 ----
 
- - [**"Boy George dishes on Prince and promises 'gorgeousness' at Twin Cities show -- Boy George speaks his mind, chatting about Prince, Trump and Culture Club's Twin Cities concert this weekend."**](http://www.startribune.com/boy-george-dishes-on-prince-and-promises-gorgeousness-at-twin-cities-show/387819481/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 July 2016 about Donald Trump, First Avenue (place), London (place), The Revolution, Trump, Xcel Energy Center (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/boy-george-dishes-on-prince-and-promises-gorgeousness-at-twin-cities-show/387819481/))
+ - [**"Boy George dishes on Prince and promises 'gorgeousness' at Twin Cities show -- Boy George speaks his mind, chatting about Prince, Trump and Culture Club's Twin Cities concert this weekend."**](http://www.startribune.com/boy-george-dishes-on-prince-and-promises-gorgeousness-at-twin-cities-show/387819481/) by Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 22 July 2016 about Donald Trump, First Avenue (place), London (place), The Revolution, Trump, Xcel Energy Center (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/boy-george-dishes-on-prince-and-promises-gorgeousness-at-twin-cities-show/387819481/))
 
 ----
 
@@ -148,15 +148,15 @@
 
 ----
 
- - [**"Comic Dave Chappelle kicks off First Ave run by kicking at Cosby and Trump -- Review: The legendary stand-up veteran's 10-show run included a serious nod to Prince."**](http://www.startribune.com/comic-dave-chappelle-kicks-off-first-ave-run-by-kicking-at-cosby-and-trump/381471061/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 1 June 2016 about Dave Chappelle, First Avenue (place), Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/comic-dave-chappelle-kicks-off-first-ave-run-by-kicking-at-cosby-and-trump/381471061/))
+ - [**"Comic Dave Chappelle kicks off First Ave run by kicking at Cosby and Trump -- Review: The legendary stand-up veteran's 10-show run included a serious nod to Prince."**](http://www.startribune.com/comic-dave-chappelle-kicks-off-first-ave-run-by-kicking-at-cosby-and-trump/381471061/) by Chris Riemenschneider in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 1 June 2016 about Dave Chappelle, First Avenue (place), Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/comic-dave-chappelle-kicks-off-first-ave-run-by-kicking-at-cosby-and-trump/381471061/))
 
 ----
 
- - [**"C.J.: James Corden is not vague about examining Prince's facial hair"**](http://www.startribune.com/c-j-james-corden-is-not-vague-about-examining-prince-s-facial-hair/370042781/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 February 2016 about C.J., Donald Trump, Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-james-corden-is-not-vague-about-examining-prince-s-facial-hair/370042781/))
+ - [**"C.J.: James Corden is not vague about examining Prince's facial hair"**](http://www.startribune.com/c-j-james-corden-is-not-vague-about-examining-prince-s-facial-hair/370042781/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 25 February 2016 about C.J., Donald Trump, Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/c-j-james-corden-is-not-vague-about-examining-prince-s-facial-hair/370042781/))
 
 ----
 
- - [**"Hornheads jazz group creates unique sound -- The five-piece a cappella horn section records and plays all over the globe."**](http://www.startribune.com/hornheads-jazz-group-creates-unique-sound/302567351/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 May 2015 about Chaka Khan, Dave Jensen, Everything Blows (album), Hornheads, Jimmy Jam, Kathy Jensen, Kenni Holmen, Michael Nelson, New Power Generation, Steve Strand, Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/hornheads-jazz-group-creates-unique-sound/302567351/))
+ - [**"Hornheads jazz group creates unique sound -- The five-piece a cappella horn section records and plays all over the globe."**](http://www.startribune.com/hornheads-jazz-group-creates-unique-sound/302567351/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 5 May 2015 about Chaka Khan, Dave Jensen, Everything Blows (album), Hornheads, Jimmy Jam, Kathy Jensen, Kenni Holmen, Michael Nelson, New Power Generation, Steve Strand, Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/hornheads-jazz-group-creates-unique-sound/302567351/))
 
 ----
 

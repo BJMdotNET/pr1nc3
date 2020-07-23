@@ -1,6 +1,6 @@
 # City Pages
 
-  * [2020](./city-pages-2020.md/) (8)
+  * [2020](./city-pages-2020.md/) (11)
   * [2019](./city-pages-2019.md/) (3)
   * [2018](./city-pages-2018.md/) (1)
   * [2016](./city-pages-2016.md/) (3)

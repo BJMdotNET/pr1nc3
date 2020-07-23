@@ -1,18 +1,22 @@
 # Lizzo
 
- - [**"Paisley Park concert series kicks off with Ndegeocello reimagining Prince"**](http://www.startribune.com/paisley-park-concert-series-kicks-off-with-ndegeocello-reimagining-prince/567927442/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 16 February 2020 about Alan Seiffert, Lizzo, Meshell Ndegeocello, museum, Pop Life (song), Purple Rain (song), Sometimes It Snows In April (song), When Doves Cry (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-concert-series-kicks-off-with-ndegeocello-reimagining-prince/567927442/))
+ - [**"With TikTok, music fans can now legally lip sync to all of Prince's songs"**](https://www.startribune.com/with-tiktok-music-fans-can-now-legally-lip-sync-to-all-of-prince-s-songs/571529892/) in [Minneapolis Star Tribune](https://www.startribune.com/) on 28 June 2020 about Let’s Go Crazy (song), Lizzo, Prince Estate, Spotify, The Prince Estate, TikTok, Troy Carter, YouTube ([mirror](https://web.archive.org/web/*/https://www.startribune.com/with-tiktok-music-fans-can-now-legally-lip-sync-to-all-of-prince-s-songs/571529892/))
 
 ----
 
- - [**"Minnesota is often overlooked on a worldwide scale, but we have an amazing medical scene -- Images of 3M masks are widespread, which got me thinking."**](http://www.startribune.com/minnesota-is-often-overlooked-on-a-worldwide-scale-but-we-have-an-amazing-medical-scene/567438732/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 30 January 2020 about Lizzo, University of Minnesota ([mirror](https://web.archive.org/web/*/http://www.startribune.com/minnesota-is-often-overlooked-on-a-worldwide-scale-but-we-have-an-amazing-medical-scene/567438732/))
+ - [**"Paisley Park concert series kicks off with Ndegeocello reimagining Prince"**](http://www.startribune.com/paisley-park-concert-series-kicks-off-with-ndegeocello-reimagining-prince/567927442/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 16 February 2020 about Alan Seiffert, Lizzo, Meshell Ndegeocello, museum, Pop Life (song), Purple Rain (song), Sometimes It Snows In April (song), When Doves Cry (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-concert-series-kicks-off-with-ndegeocello-reimagining-prince/567927442/))
 
 ----
 
- - [**"Minnesota is often overlooked on a worldwide scale, but we have an amazing medical scene -- Images of 3M masks are widespread, which got me thinking. "**](http://www.startribune.com/minnesota-is-often-overlooked-on-a-worldwide-scale-but-we-have-an-amazing-medical-scene/567438732/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 30 January 2020 about Celebration, Lizzo, University of Minnesota ([mirror](https://web.archive.org/web/*/http://www.startribune.com/minnesota-is-often-overlooked-on-a-worldwide-scale-but-we-have-an-amazing-medical-scene/567438732/))
+ - [**"Minnesota is often overlooked on a worldwide scale, but we have an amazing medical scene -- Images of 3M masks are widespread, which got me thinking."**](http://www.startribune.com/minnesota-is-often-overlooked-on-a-worldwide-scale-but-we-have-an-amazing-medical-scene/567438732/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 30 January 2020 about Lizzo, University of Minnesota ([mirror](https://web.archive.org/web/*/http://www.startribune.com/minnesota-is-often-overlooked-on-a-worldwide-scale-but-we-have-an-amazing-medical-scene/567438732/))
 
 ----
 
- - [**"Billie Eilish sweeps Lizzo in a historic Grammy battle of the newcomers -- Lizzo seized her Grammy moment, but 18-year-old Billie Eilish pulled off a historic sweep of the top prizes. "**](http://www.startribune.com/with-fierce-emotion-lizzo-seizes-her-grammy-moment-i-m-crying-cuz-i-love-you/567316152/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 27 January 2020 about Ava DuVernay, Gary Clark Jr., Grammy Award, John Legend, Lizzo, Madonna, Michael Jackson, Plectrum Electrum (album), The Roots, Usher ([mirror](https://web.archive.org/web/*/http://www.startribune.com/with-fierce-emotion-lizzo-seizes-her-grammy-moment-i-m-crying-cuz-i-love-you/567316152/))
+ - [**"Minnesota is often overlooked on a worldwide scale, but we have an amazing medical scene -- Images of 3M masks are widespread, which got me thinking. "**](http://www.startribune.com/minnesota-is-often-overlooked-on-a-worldwide-scale-but-we-have-an-amazing-medical-scene/567438732/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 30 January 2020 about Celebration, Lizzo, University of Minnesota ([mirror](https://web.archive.org/web/*/http://www.startribune.com/minnesota-is-often-overlooked-on-a-worldwide-scale-but-we-have-an-amazing-medical-scene/567438732/))
+
+----
+
+ - [**"Billie Eilish sweeps Lizzo in a historic Grammy battle of the newcomers -- Lizzo seized her Grammy moment, but 18-year-old Billie Eilish pulled off a historic sweep of the top prizes. "**](http://www.startribune.com/with-fierce-emotion-lizzo-seizes-her-grammy-moment-i-m-crying-cuz-i-love-you/567316152/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 27 January 2020 about Ava DuVernay, Gary Clark Jr., Grammy Award, John Legend, Lizzo, Madonna, Michael Jackson, Plectrum Electrum (album), The Roots, Usher ([mirror](https://web.archive.org/web/*/http://www.startribune.com/with-fierce-emotion-lizzo-seizes-her-grammy-moment-i-m-crying-cuz-i-love-you/567316152/))
 
 ----
 
@@ -44,7 +48,7 @@
 
 ----
 
- - [**"Lizzo reveals even more in overdue Rolling Stone cover story ahead of Grammys"**](http://www.startribune.com/lizzo-reveals-even-more-in-overdue-rolling-stone-cover-story-ahead-of-grammys/567201112/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 January 2020 about Grammy Award, Lizzo, Plectrum Electrum (album) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/lizzo-reveals-even-more-in-overdue-rolling-stone-cover-story-ahead-of-grammys/567201112/))
+ - [**"Lizzo reveals even more in overdue Rolling Stone cover story ahead of Grammys"**](http://www.startribune.com/lizzo-reveals-even-more-in-overdue-rolling-stone-cover-story-ahead-of-grammys/567201112/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 22 January 2020 about Grammy Award, Lizzo, Plectrum Electrum (album) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/lizzo-reveals-even-more-in-overdue-rolling-stone-cover-story-ahead-of-grammys/567201112/))
 
 ----
 
@@ -60,7 +64,7 @@
 
 ----
 
- - [**"Black Pumas talk busking, Grammys and Prince ahead of the Current birthday bash -- The soul-rock duo is up for a best new artist Grammy but hardly inexperienced (see: Prince). "**](http://www.startribune.com/black-pumas-talk-busking-grammys-and-prince-ahead-of-the-current-birthday-bash/567044352/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 17 January 2020 about 3121 (album), First Avenue (place), Lizzo, PBS, YouTube ([mirror](https://web.archive.org/web/*/http://www.startribune.com/black-pumas-talk-busking-grammys-and-prince-ahead-of-the-current-birthday-bash/567044352/))
+ - [**"Black Pumas talk busking, Grammys and Prince ahead of the Current birthday bash -- The soul-rock duo is up for a best new artist Grammy but hardly inexperienced (see: Prince). "**](http://www.startribune.com/black-pumas-talk-busking-grammys-and-prince-ahead-of-the-current-birthday-bash/567044352/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 17 January 2020 about 3121 (album), First Avenue (place), Lizzo, PBS, YouTube ([mirror](https://web.archive.org/web/*/http://www.startribune.com/black-pumas-talk-busking-grammys-and-prince-ahead-of-the-current-birthday-bash/567044352/))
 
 ----
 
@@ -84,11 +88,11 @@
 
 ----
 
- - [**"Star Tribune's 2019 Artists of the Year -- Meet the Minnesotans at the heart of the year's most groundbreaking show."**](http://www.startribune.com/6-minnesotans-are-2019-artists-of-the-year/564924782/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 6 January 2020 about 1999 (album), ASCAP, Ava DuVernay, Bangles, Bob Dylan, Dakota (place), exhibit, exhibition, Kenny Rogers, Lizzo, memoir, Minneapolis Institute of Art, museum, Netflix, Originals (album), Rearrange (song), Sheila E., Smithsonian (place), The Beautiful Ones (book), University of Minnesota, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/6-minnesotans-are-2019-artists-of-the-year/564924782/))
+ - [**"Star Tribune's 2019 Artists of the Year -- Meet the Minnesotans at the heart of the year's most groundbreaking show."**](http://www.startribune.com/6-minnesotans-are-2019-artists-of-the-year/564924782/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 6 January 2020 about 1999 (album), ASCAP, Ava DuVernay, Bangles, Bob Dylan, Dakota (place), exhibit, exhibition, Kenny Rogers, Lizzo, memoir, Minneapolis Institute of Art, museum, Netflix, Originals (album), Rearrange (song), Sheila E., Smithsonian (place), The Beautiful Ones (book), University of Minnesota, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/6-minnesotans-are-2019-artists-of-the-year/564924782/))
 
 ----
 
- - [**"20 gift ideas for the music lovers on your holiday list -- Twenty ideas for the music lovers on your holiday list. "**](http://www.startribune.com/20-gift-ideas-for-the-music-lovers-on-your-holiday-list/566181501/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 16 December 2019 about 1999 Super Deluxe (album), Bob Dylan, bootleg, Lizzo, memoir, Miles Davis, Morris Day, My Name Is Prince: 25 Inspired Years (book), On Time: A Princely Life in Funk (book), Randee St. Nicholas, Spiegel & Grau, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/20-gift-ideas-for-the-music-lovers-on-your-holiday-list/566181501/))
+ - [**"20 gift ideas for the music lovers on your holiday list -- Twenty ideas for the music lovers on your holiday list. "**](http://www.startribune.com/20-gift-ideas-for-the-music-lovers-on-your-holiday-list/566181501/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 16 December 2019 about 1999 Super Deluxe (album), Bob Dylan, bootleg, Lizzo, memoir, Miles Davis, Morris Day, My Name Is Prince: 25 Inspired Years (book), On Time: A Princely Life in Funk (book), Randee St. Nicholas, Spiegel & Grau, The Beautiful Ones (book) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/20-gift-ideas-for-the-music-lovers-on-your-holiday-list/566181501/))
 
 ----
 
@@ -96,7 +100,7 @@
 
 ----
 
- - [**"Buddy Holly and Roy Orbison in Minnesota? Hologram tours of old stars are the hot new concert trend -- Buddy Holly is coming to town with Roy Orbison? Yes, rock 'n' roll holograms are here to stay."**](http://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 October 2019 about Aretha Franklin, Ed Sheeran, Frank Zappa, hologram, Lizzo, Michael Jackson, Morris Day, perfume ([mirror](https://web.archive.org/web/*/http://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/))
+ - [**"Buddy Holly and Roy Orbison in Minnesota? Hologram tours of old stars are the hot new concert trend -- Buddy Holly is coming to town with Roy Orbison? Yes, rock 'n' roll holograms are here to stay."**](http://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 12 October 2019 about Aretha Franklin, Ed Sheeran, Frank Zappa, hologram, Lizzo, Michael Jackson, Morris Day, perfume ([mirror](https://web.archive.org/web/*/http://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/))
 
 ----
 
@@ -116,7 +120,7 @@
 
 ----
 
- - [**"Rapper Cardi B delivered a sharp but too-short show, with plenty of wisecracks -- The Bronx native became the first female rapper to fill a local arena at Target Center, and her performance convincingly showed why."**](http://www.startribune.com/rapper-cardi-b-s-short-minneapolis-set-still-a-big-deal-on-several-fronts/513303462/) by Nicole Neri in [Minneapolis Star Tribune](http://www.startribune.com/) on 27 July 2019 about I Would Die 4 U (song), Lizzo, Super Bowl ([mirror](https://web.archive.org/web/*/http://www.startribune.com/rapper-cardi-b-s-short-minneapolis-set-still-a-big-deal-on-several-fronts/513303462/))
+ - [**"Rapper Cardi B delivered a sharp but too-short show, with plenty of wisecracks -- The Bronx native became the first female rapper to fill a local arena at Target Center, and her performance convincingly showed why."**](http://www.startribune.com/rapper-cardi-b-s-short-minneapolis-set-still-a-big-deal-on-several-fronts/513303462/) by Nicole Neri in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 27 July 2019 about I Would Die 4 U (song), Lizzo, Super Bowl ([mirror](https://web.archive.org/web/*/http://www.startribune.com/rapper-cardi-b-s-short-minneapolis-set-still-a-big-deal-on-several-fronts/513303462/))
 
 ----
 
@@ -124,11 +128,11 @@
 
 ----
 
- - [**"First Ave, Electric Fetus named best in U.S. again by Rolling Stone"**](http://www.startribune.com/first-ave-electric-fetus-named-best-in-u-s-again-by-rolling-stone/502770432/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 14 December 2018 about Electric Fetus (place), First Avenue (place), Lizzo ([mirror](https://web.archive.org/web/*/http://www.startribune.com/first-ave-electric-fetus-named-best-in-u-s-again-by-rolling-stone/502770432/))
+ - [**"First Ave, Electric Fetus named best in U.S. again by Rolling Stone"**](http://www.startribune.com/first-ave-electric-fetus-named-best-in-u-s-again-by-rolling-stone/502770432/) by Chris Riemenschneider in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 14 December 2018 about Electric Fetus (place), First Avenue (place), Lizzo ([mirror](https://web.archive.org/web/*/http://www.startribune.com/first-ave-electric-fetus-named-best-in-u-s-again-by-rolling-stone/502770432/))
 
 ----
 
- - [**"Lizzo earns a big nod as Rolling Stone's 'Artist You Need to Know'"**](http://www.startribune.com/lizzo-earns-a-big-nod-as-rolling-stone-s-artist-you-need-to-know/489627651/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 31 July 2018 about Lizzo ([mirror](https://web.archive.org/web/*/http://www.startribune.com/lizzo-earns-a-big-nod-as-rolling-stone-s-artist-you-need-to-know/489627651/))
+ - [**"Lizzo earns a big nod as Rolling Stone's 'Artist You Need to Know'"**](http://www.startribune.com/lizzo-earns-a-big-nod-as-rolling-stone-s-artist-you-need-to-know/489627651/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 31 July 2018 about Lizzo ([mirror](https://web.archive.org/web/*/http://www.startribune.com/lizzo-earns-a-big-nod-as-rolling-stone-s-artist-you-need-to-know/489627651/))
 
 ----
 

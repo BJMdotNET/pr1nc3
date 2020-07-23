@@ -88,7 +88,7 @@
 
 ----
 
- - [**"12 must-hear tunes unearthed from Prince's vault for '1999' reissue"**](http://www.startribune.com/12-must-hear-tunes-unearthed-from-prince-s-vault-for-1999-reissue/565432942/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 November 2019 about 1999 (album), 94 East, Can’t Stop This Feeling I Got (song), Colleen (song), Do Yourself a Favor (song), If It’ll Make U Happy (song), Jesse Johnson, Jill Jones, Morris Day, No Call U (song), Peggy McCreary, Pepe Willie, Purple Music (song), Sunset Sound (place), Vagina (song), Vanity, vault, Yah, You Know (song), You’re All I Want (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/12-must-hear-tunes-unearthed-from-prince-s-vault-for-1999-reissue/565432942/))
+ - [**"12 must-hear tunes unearthed from Prince's vault for '1999' reissue"**](http://www.startribune.com/12-must-hear-tunes-unearthed-from-prince-s-vault-for-1999-reissue/565432942/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 25 November 2019 about 1999 (album), 94 East, Can’t Stop This Feeling I Got (song), Colleen (song), Do Yourself a Favor (song), If It’ll Make U Happy (song), Jesse Johnson, Jill Jones, Morris Day, No Call U (song), Peggy McCreary, Pepe Willie, Purple Music (song), Sunset Sound (place), Vagina (song), Vanity, vault, Yah, You Know (song), You’re All I Want (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/12-must-hear-tunes-unearthed-from-prince-s-vault-for-1999-reissue/565432942/))
 
 ----
 
@@ -96,7 +96,7 @@
 
 ----
 
- - [**"How '1999' made Prince a star: 'This album was the turning point' -- An expanded reissue of Prince's breakthrough album shows how prolific he was in the early '80s."**](http://www.startribune.com/how-1999-made-prince-a-star-this-album-was-the-turning-point/565432932/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 November 2019 about 1999 (album), Bangles, Bobby Z., Dez Dickerson, James Brown, Kenny Rogers, Lisa Coleman, memoir, The Revolution, Vanity, Vanity 6, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/how-1999-made-prince-a-star-this-album-was-the-turning-point/565432932/))
+ - [**"How '1999' made Prince a star: 'This album was the turning point' -- An expanded reissue of Prince's breakthrough album shows how prolific he was in the early '80s."**](http://www.startribune.com/how-1999-made-prince-a-star-this-album-was-the-turning-point/565432932/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 25 November 2019 about 1999 (album), Bangles, Bobby Z., Dez Dickerson, James Brown, Kenny Rogers, Lisa Coleman, memoir, The Revolution, Vanity, Vanity 6, vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/how-1999-made-prince-a-star-this-album-was-the-turning-point/565432932/))
 
 ----
 
@@ -196,15 +196,15 @@
 
 ----
 
- - [**"Apollonia: Vanity was and 'inspiration'"**](http://www.startribune.com/apollonia-vanity-was-and-inspiration/369204001/) by Jesse J. Holland (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 17 February 2016 about Apollonia Kotero, Vanity ([mirror](https://web.archive.org/web/*/http://www.startribune.com/apollonia-vanity-was-and-inspiration/369204001/))
+ - [**"Apollonia: Vanity was and 'inspiration'"**](http://www.startribune.com/apollonia-vanity-was-and-inspiration/369204001/) by Jesse J. Holland (Associated Press) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 17 February 2016 about Apollonia Kotero, Vanity ([mirror](https://web.archive.org/web/*/http://www.startribune.com/apollonia-vanity-was-and-inspiration/369204001/))
 
 ----
 
- - [**"Singer, actress Denise Matthews, known as Vanity, dies"**](http://www.startribune.com/singer-actress-denise-matthews-known-as-vanity-dies/369004441/) by Jesse J. Holland (Associated Press) in [Minneapolis Star Tribune](http://www.startribune.com/) on 16 February 2016 about Vanity ([mirror](https://web.archive.org/web/*/http://www.startribune.com/singer-actress-denise-matthews-known-as-vanity-dies/369004441/))
+ - [**"Singer, actress Denise Matthews, known as Vanity, dies"**](http://www.startribune.com/singer-actress-denise-matthews-known-as-vanity-dies/369004441/) by Jesse J. Holland (Associated Press) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 16 February 2016 about Vanity ([mirror](https://web.archive.org/web/*/http://www.startribune.com/singer-actress-denise-matthews-known-as-vanity-dies/369004441/))
 
 ----
 
- - [**"Prince's "Nasty Girl" protégé Vanity reported dead at age 57"**](http://www.startribune.com/prince-s-nasty-girl-protege-vanity-reported-dead-at-age-57/368900551/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 15 February 2016 about Vanity ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-nasty-girl-protege-vanity-reported-dead-at-age-57/368900551/))
+ - [**"Prince's "Nasty Girl" protégé Vanity reported dead at age 57"**](http://www.startribune.com/prince-s-nasty-girl-protege-vanity-reported-dead-at-age-57/368900551/) by Chris Riemenschneider in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 15 February 2016 about Vanity ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-nasty-girl-protege-vanity-reported-dead-at-age-57/368900551/))
 
 ----
 

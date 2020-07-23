@@ -16,7 +16,7 @@
 
 ----
 
- - [**"New Prince album featuring unreleased demos out in June"**](http://www.startribune.com/new-prince-album-featuring-unreleased-demos-out-in-june/509058902/) by The Associated Press in [Minneapolis Star Tribune](http://www.startribune.com/) on 25 April 2019 about Joey Coco, Kenny Rogers, Originals (album), Sheila E. ([mirror](https://web.archive.org/web/*/http://www.startribune.com/new-prince-album-featuring-unreleased-demos-out-in-june/509058902/))
+ - [**"New Prince album featuring unreleased demos out in June"**](http://www.startribune.com/new-prince-album-featuring-unreleased-demos-out-in-june/509058902/) by The Associated Press in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 25 April 2019 about Joey Coco, Kenny Rogers, Originals (album), Sheila E. ([mirror](https://web.archive.org/web/*/http://www.startribune.com/new-prince-album-featuring-unreleased-demos-out-in-june/509058902/))
 
 ----
 

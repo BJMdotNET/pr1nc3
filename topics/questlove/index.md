@@ -8,7 +8,7 @@
 
 ----
 
- - [**"Questlove and the Roots give a Prince-like epic performance at Mystic Lake"**](http://www.startribune.com/questlove-and-the-roots-give-a-prince-like-epic-performance-at-mystic-lake/512044012/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 1 July 2019 about Questlove, Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/questlove-and-the-roots-give-a-prince-like-epic-performance-at-mystic-lake/512044012/))
+ - [**"Questlove and the Roots give a Prince-like epic performance at Mystic Lake"**](http://www.startribune.com/questlove-and-the-roots-give-a-prince-like-epic-performance-at-mystic-lake/512044012/) by Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 1 July 2019 about Questlove, Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/questlove-and-the-roots-give-a-prince-like-epic-performance-at-mystic-lake/512044012/))
 
 ----
 
@@ -28,7 +28,7 @@
 
 ----
 
- - [**"Prince's Revolution turns the party up in its second First Ave tribute show"**](http://www.startribune.com/prince-s-revolution-turns-the-party-up-in-its-second-first-ave-tribute-show/392244021/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 3 September 2016 about Baby I'm a Star (song), Computer Blue (song), Dez Dickerson, First Avenue (place), Lisa Coleman, Purple Rain (song), Questlove, Sometimes It Snows In April (song), The Revolution, Wendy Melvoin ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-revolution-turns-the-party-up-in-its-second-first-ave-tribute-show/392244021/))
+ - [**"Prince's Revolution turns the party up in its second First Ave tribute show"**](http://www.startribune.com/prince-s-revolution-turns-the-party-up-in-its-second-first-ave-tribute-show/392244021/) by Chris Riemenschneider in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 3 September 2016 about Baby I'm a Star (song), Computer Blue (song), Dez Dickerson, First Avenue (place), Lisa Coleman, Purple Rain (song), Questlove, Sometimes It Snows In April (song), The Revolution, Wendy Melvoin ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-revolution-turns-the-party-up-in-its-second-first-ave-tribute-show/392244021/))
 
 ----
 

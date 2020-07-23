@@ -12,7 +12,7 @@
 
 ## November 2019 (2)
 
- - [**"Beck talks ‘Hyperspace’ journey, from Zankou Chicken to Paisley Park"**](https://www.yahoo.com/entertainment/beck-talks-hyperspace-journey-from-zankou-chicken-to-paisley-park-222822065.html) in [Yahoo! Entertainment](https://www.yahoo.com/entertainment/) on 17 November 2019 about Beck, Weezer ([mirror](https://web.archive.org/web/*/https://www.yahoo.com/entertainment/beck-talks-hyperspace-journey-from-zankou-chicken-to-paisley-park-222822065.html))
+ - [**"Beck talks ‘Hyperspace’ journey, from Zankou Chicken to Paisley Park"**](https://www.yahoo.com/entertainment/beck-talks-hyperspace-journey-from-zankou-chicken-to-paisley-park-222822065.html) in [Yahoo! Entertainment](https://www.yahoo.com/entertainment/) on 17 November 2019 about Beck, SiriusXM, Weezer ([mirror](https://web.archive.org/web/*/https://www.yahoo.com/entertainment/beck-talks-hyperspace-journey-from-zankou-chicken-to-paisley-park-222822065.html))
 
 ----
 

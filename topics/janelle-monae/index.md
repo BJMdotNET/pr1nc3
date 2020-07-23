@@ -8,7 +8,7 @@
 
 ----
 
- - [**"To Janet Jackson, Minneapolis will always be her 'home away from home' -- Balancing motherhood and megahits, Janet Jackson talks about her return to Minnesota, where she recorded her breakthrough albums. "**](http://www.startribune.com/to-janet-jackson-minneapolis-will-always-be-her-home-away-from-home/560054982/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 11 September 2019 about Janelle Monae, Janet Jackson, Jimmy Jam, Michael Jackson, Stevie Nicks, Terry Lewis, The Time ([mirror](https://web.archive.org/web/*/http://www.startribune.com/to-janet-jackson-minneapolis-will-always-be-her-home-away-from-home/560054982/))
+ - [**"To Janet Jackson, Minneapolis will always be her 'home away from home' -- Balancing motherhood and megahits, Janet Jackson talks about her return to Minnesota, where she recorded her breakthrough albums. "**](http://www.startribune.com/to-janet-jackson-minneapolis-will-always-be-her-home-away-from-home/560054982/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 11 September 2019 about Janelle Monae, Janet Jackson, Jimmy Jam, Michael Jackson, Stevie Nicks, Terry Lewis, The Time ([mirror](https://web.archive.org/web/*/http://www.startribune.com/to-janet-jackson-minneapolis-will-always-be-her-home-away-from-home/560054982/))
 
 ----
 
@@ -16,15 +16,15 @@
 
 ----
 
- - [**"Janelle Monáe gives galvanizing Prince-inspired performance at sold-out State Theatre -- Review: It was obvious from the reaction of the celebratory and worshipful crowd that the visionary singer has gone from cult hero to cultural hero."**](http://www.startribune.com/janelle-monae-fights-for-the-right-to-funk/487297841/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 4 July 2018 about Janelle Monae ([mirror](https://web.archive.org/web/*/http://www.startribune.com/janelle-monae-fights-for-the-right-to-funk/487297841/))
+ - [**"Janelle Monáe gives galvanizing Prince-inspired performance at sold-out State Theatre -- Review: It was obvious from the reaction of the celebratory and worshipful crowd that the visionary singer has gone from cult hero to cultural hero."**](http://www.startribune.com/janelle-monae-fights-for-the-right-to-funk/487297841/) by Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 4 July 2018 about Janelle Monae ([mirror](https://web.archive.org/web/*/http://www.startribune.com/janelle-monae-fights-for-the-right-to-funk/487297841/))
 
 ----
 
- - [**"Janelle Monáe to tout her new Prince-infused album July 3 at the State"**](http://www.startribune.com/janelle-monae-to-tout-her-new-prince-infused-album-july-3-at-the-state/480567481/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 23 April 2018 about Janelle Monae ([mirror](https://web.archive.org/web/*/http://www.startribune.com/janelle-monae-to-tout-her-new-prince-infused-album-july-3-at-the-state/480567481/))
+ - [**"Janelle Monáe to tout her new Prince-infused album July 3 at the State"**](http://www.startribune.com/janelle-monae-to-tout-her-new-prince-infused-album-july-3-at-the-state/480567481/) by Chris Riemenschneider in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 23 April 2018 about Janelle Monae ([mirror](https://web.archive.org/web/*/http://www.startribune.com/janelle-monae-to-tout-her-new-prince-infused-album-july-3-at-the-state/480567481/))
 
 ----
 
- - [**"10 curious things we learned about Prince from the investigations -- He liked Häagen-Dazs ice cream, 5-Hour Energy drinks and MAC beauty products."**](http://www.startribune.com/10-curious-things-we-learned-about-prince-from-the-investigations/480364723/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 20 April 2018 about airport, Atlanta (place), Carver County, CeeLo Green, Chaka Khan, Esperanza Spalding, Illinois (place), Janelle Monae, Judith Hill, Kirk Johnson, Larry Graham, North Memorial Medical Center (place), Peter Vang, Phaedra Ellis Lamkin, Rita Ora, Sheila E., U Got the Look (song), vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/10-curious-things-we-learned-about-prince-from-the-investigations/480364723/))
+ - [**"10 curious things we learned about Prince from the investigations -- He liked Häagen-Dazs ice cream, 5-Hour Energy drinks and MAC beauty products."**](http://www.startribune.com/10-curious-things-we-learned-about-prince-from-the-investigations/480364723/) by Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 20 April 2018 about airport, Atlanta (place), Carver County, CeeLo Green, Chaka Khan, Esperanza Spalding, Illinois (place), Janelle Monae, Judith Hill, Kirk Johnson, Larry Graham, North Memorial Medical Center (place), Peter Vang, Phaedra Ellis Lamkin, Rita Ora, Sheila E., U Got the Look (song), vault ([mirror](https://web.archive.org/web/*/http://www.startribune.com/10-curious-things-we-learned-about-prince-from-the-investigations/480364723/))
 
 ----
 

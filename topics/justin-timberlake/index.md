@@ -1,5 +1,9 @@
 # Justin Timberlake
 
+ - [**"Paisley Park gets a reboot: You can take cellphone pics, and even drink, too -- Four years after Prince's death, his Chanhassen studio has come alive again under a new director who's even allowing cellphones and alcohol."**](http://www.startribune.com/paisley-park-gets-a-reboot-you-can-take-cellphone-pics-and-even-drink-too/568554622/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 7 March 2020 about 1999 Super Deluxe (album), Alan Seiffert, Andrea Bruce, Angela Aycock, Beck, Celebration, Comerica, Comerica Trust, exhibit, Graceland Holdings, Joel Weinshanker, Justin Timberlake, Kirk Johnson, Lovesexy (tour), Meshell Ndegeocello, Mitch Maguire, museum, Super Bowl, Trevor Guy, Twin Cities (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-gets-a-reboot-you-can-take-cellphone-pics-and-even-drink-too/568554622/))
+
+----
+
  - [**"10 Best Super Bowl Halftime Shows"**](https://www.billboard.com/articles/list/513793/super-bowl-halftime-shows-10-best) in [Billboard](https://www.billboard.com/) on 31 January 2020 about Beck, Beyoncé, Bruce Springsteen, CeeLo Green, Coldplay, Janet Jackson, Justin Timberlake, Madonna, Michael Jackson, Purple Rain (song), Super Bowl, We Are the World (song) ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/list/513793/super-bowl-halftime-shows-10-best))
 
 ----
@@ -8,11 +12,11 @@
 
 ----
 
- - [**"In a Twin Cities living room, the Steeles cook up their 35th annual Christmas show -- The Steeles' annual Christmas show is a family affair, brewed up in a Golden Valley living room. "**](http://www.startribune.com/in-a-twin-cities-living-room-the-steeles-cook-up-their-35th-annual-christmas-show/566344542/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 December 2019 about Alexander O’Neal, contract, Janet Jackson, Justin Timberlake, Kenni Holmen, Sonny Thompson, Tommy Barbarella ([mirror](https://web.archive.org/web/*/http://www.startribune.com/in-a-twin-cities-living-room-the-steeles-cook-up-their-35th-annual-christmas-show/566344542/))
+ - [**"In a Twin Cities living room, the Steeles cook up their 35th annual Christmas show -- The Steeles' annual Christmas show is a family affair, brewed up in a Golden Valley living room. "**](http://www.startribune.com/in-a-twin-cities-living-room-the-steeles-cook-up-their-35th-annual-christmas-show/566344542/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 19 December 2019 about Alexander O’Neal, contract, Janet Jackson, Justin Timberlake, Kenni Holmen, Sonny Thompson, Tommy Barbarella ([mirror](https://web.archive.org/web/*/http://www.startribune.com/in-a-twin-cities-living-room-the-steeles-cook-up-their-35th-annual-christmas-show/566344542/))
 
 ----
 
- - [**"Celebration 2020 at Paisley Park will coincide with Prince's birth, not death"**](http://www.startribune.com/celebration-2020-at-paisley-park-will-coincide-with-prince-s-birth-not-death/566249302/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 16 December 2019 about 1999 Super Deluxe (album), Alan Seiffert, Celebration, Celebration 2020, contract, Donna Grantis, George Clinton, Graceland, Graceland Holdings, Judith Hill, Justin Timberlake, Liv Warfield, Morris Day, Morris Day & The Time, museum, Nooky Jones, Sometimes It Snows In April (song), Super Bowl, The Revolution ([mirror](https://web.archive.org/web/*/http://www.startribune.com/celebration-2020-at-paisley-park-will-coincide-with-prince-s-birth-not-death/566249302/))
+ - [**"Celebration 2020 at Paisley Park will coincide with Prince's birth, not death"**](http://www.startribune.com/celebration-2020-at-paisley-park-will-coincide-with-prince-s-birth-not-death/566249302/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 16 December 2019 about 1999 Super Deluxe (album), Alan Seiffert, Celebration, Celebration 2020, contract, Donna Grantis, George Clinton, Graceland, Graceland Holdings, Judith Hill, Justin Timberlake, Liv Warfield, Morris Day, Morris Day & The Time, museum, Nooky Jones, Sometimes It Snows In April (song), Super Bowl, The Revolution ([mirror](https://web.archive.org/web/*/http://www.startribune.com/celebration-2020-at-paisley-park-will-coincide-with-prince-s-birth-not-death/566249302/))
 
 ----
 
@@ -44,7 +48,7 @@
 
 ----
 
- - [**"Prince's drummer for more than a decade, John Blackwell Jr. dies at 43 -- John Blackwell, Jr., longtime drummer for Prince, died Tuesday after being diagnosed with a brain tumor one year ago. He was 43."**](http://www.startribune.com/prince-s-drummer-for-more-than-a-decade-john-blackwell-jr-dies-at-43/432674483/) by TheWrap in [Minneapolis Star Tribune](http://www.startribune.com/) on 5 July 2017 about John Blackwell Jr., Justin Timberlake, Morris Day, New Power Generation ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-drummer-for-more-than-a-decade-john-blackwell-jr-dies-at-43/432674483/))
+ - [**"Prince's drummer for more than a decade, John Blackwell Jr. dies at 43 -- John Blackwell, Jr., longtime drummer for Prince, died Tuesday after being diagnosed with a brain tumor one year ago. He was 43."**](http://www.startribune.com/prince-s-drummer-for-more-than-a-decade-john-blackwell-jr-dies-at-43/432674483/) by TheWrap in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 5 July 2017 about John Blackwell Jr., Justin Timberlake, Morris Day, New Power Generation ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-s-drummer-for-more-than-a-decade-john-blackwell-jr-dies-at-43/432674483/))
 
 ----
 

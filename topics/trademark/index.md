@@ -20,7 +20,7 @@
 
 ----
 
- - [**"Don't overlook splashy coffee table books as holiday gifts"**](http://www.startribune.com/don-t-overlook-splashy-coffee-table-books-as-holiday-gifts/565099382/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 19 November 2019 about Andy Warhol, Celebration, exhibit, exhibition, Hachette Books, museum, Penguin Random House, Randee St. Nicholas, trademark ([mirror](https://web.archive.org/web/*/http://www.startribune.com/don-t-overlook-splashy-coffee-table-books-as-holiday-gifts/565099382/))
+ - [**"Don't overlook splashy coffee table books as holiday gifts"**](http://www.startribune.com/don-t-overlook-splashy-coffee-table-books-as-holiday-gifts/565099382/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 19 November 2019 about Andy Warhol, Celebration, exhibit, exhibition, Hachette Books, museum, Penguin Random House, Randee St. Nicholas, trademark ([mirror](https://web.archive.org/web/*/http://www.startribune.com/don-t-overlook-splashy-coffee-table-books-as-holiday-gifts/565099382/))
 
 ----
 
@@ -112,7 +112,7 @@
 
 ----
 
- - [**"After two years and a team record for goals, Wild is ditching 'Let's Go Crazy' -- There appeared to be a strange unease among the Wild faithful with having “Let’s Go Crazy” as the goal song"**](http://www.startribune.com/after-two-years-and-a-team-record-for-goals-wild-is-ditching-lets-go-crazy/494917391/) by Michael Rand in [Minneapolis Star Tribune](http://www.startribune.com/) on 2 October 2018 about Let’s Go Crazy (song), Minnesota Wild, trademark ([mirror](https://web.archive.org/web/*/http://www.startribune.com/after-two-years-and-a-team-record-for-goals-wild-is-ditching-lets-go-crazy/494917391/))
+ - [**"After two years and a team record for goals, Wild is ditching 'Let's Go Crazy' -- There appeared to be a strange unease among the Wild faithful with having “Let’s Go Crazy” as the goal song"**](http://www.startribune.com/after-two-years-and-a-team-record-for-goals-wild-is-ditching-lets-go-crazy/494917391/) by Michael Rand in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 2 October 2018 about Let’s Go Crazy (song), Minnesota Wild, trademark ([mirror](https://web.archive.org/web/*/http://www.startribune.com/after-two-years-and-a-team-record-for-goals-wild-is-ditching-lets-go-crazy/494917391/))
 
 ----
 

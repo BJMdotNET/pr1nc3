@@ -1,5 +1,9 @@
 # Dream Factory (album)
 
+ - [**"Prince’s Classic ‘Sign O’ the Times’ Deluxe Reissue Coming in September, With 63 Bonus Tracks"**](https://variety.com/2020/music/news/prince-sign-o-the-times-deluxe-reissue-bonus-tracks-1234689805/) in [Variety](https://variety.com/) on 25 June 2020 about Andrea Swensson, bootleg, Daphne A. Brooks, Dave Chappelle, Dream Factory (album), Duane Tudahl, I Could Never Take The Place Of Your Man (song), Jeff Katz, Lenny Kravitz, Miles Davis, Susan Rogers, The Revolution, U Got the Look (song), vault, Witness 4 The Prosecution (song) ([mirror](https://web.archive.org/web/*/https://variety.com/2020/music/news/prince-sign-o-the-times-deluxe-reissue-bonus-tracks-1234689805/))
+
+----
+
  - [**"Prince Originals: exclusive interview with muse and collaborator Susannah Melvoin -- As Prince rarities finally become available on the Originals album, we speak to the woman who inspired Nothing Compares 2 U."**](https://www.officialcharts.com/chart-news/prince-originals-exclusive-interview-with-muse-and-collaborator-susannah-melvoin__26670/) by Martin Talbot in [Official Charts](https://www.officialcharts.com/) on 24 June 2019 about Aretha Franklin, Bangles, Crystal Ball (album), Cynthia Rose, David Geffen, Dream Factory (album), Jill Jones, Kenny Rogers, Little Red Corvette (song), Manic Monday (song), Martika, Nothing Compares 2 U (song), Originals (album), Quincy Jones, Sunset Sound (place), Susannah Melvoin, The Black Album (album), The Family, vault, Wally (song), Wendy & Lisa ([mirror](https://web.archive.org/web/*/https://www.officialcharts.com/chart-news/prince-originals-exclusive-interview-with-muse-and-collaborator-susannah-melvoin__26670/))
 
 ----

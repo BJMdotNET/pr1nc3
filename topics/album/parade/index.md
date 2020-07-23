@@ -28,7 +28,7 @@
 
 ----
 
- - [**"Eric Church doubles down at Target Center -- Country superstar saved his best for second half."**](http://www.startribune.com/eric-church-doubles-down-at-target-center/505603292/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 8 February 2019 about Jon Bream, Parade (album) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/eric-church-doubles-down-at-target-center/505603292/))
+ - [**"Eric Church doubles down at Target Center -- Country superstar saved his best for second half."**](http://www.startribune.com/eric-church-doubles-down-at-target-center/505603292/) by Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 8 February 2019 about Jon Bream, Parade (album) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/eric-church-doubles-down-at-target-center/505603292/))
 
 ----
 

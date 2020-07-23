@@ -1,6 +1,6 @@
 # When Doves Cry (song)
 
- - [**"Paisley Park concert series kicks off with Ndegeocello reimagining Prince"**](http://www.startribune.com/paisley-park-concert-series-kicks-off-with-ndegeocello-reimagining-prince/567927442/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 16 February 2020 about Alan Seiffert, Lizzo, Meshell Ndegeocello, museum, Pop Life (song), Purple Rain (song), Sometimes It Snows In April (song), When Doves Cry (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-concert-series-kicks-off-with-ndegeocello-reimagining-prince/567927442/))
+ - [**"Paisley Park concert series kicks off with Ndegeocello reimagining Prince"**](http://www.startribune.com/paisley-park-concert-series-kicks-off-with-ndegeocello-reimagining-prince/567927442/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 16 February 2020 about Alan Seiffert, Lizzo, Meshell Ndegeocello, museum, Pop Life (song), Purple Rain (song), Sometimes It Snows In April (song), When Doves Cry (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-concert-series-kicks-off-with-ndegeocello-reimagining-prince/567927442/))
 
 ----
 
@@ -92,7 +92,7 @@
 
 ----
 
- - [**"Beck surprises fans with 'Paisley Park Sessions' EP recorded in Chanhassen"**](http://www.startribune.com/beck-surprises-fans-with-paisley-park-sessions-ep-recorded-in-chanhassen/564759282/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 11 November 2019 about Raspberry Beret (song), When Doves Cry (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/beck-surprises-fans-with-paisley-park-sessions-ep-recorded-in-chanhassen/564759282/))
+ - [**"Beck surprises fans with 'Paisley Park Sessions' EP recorded in Chanhassen"**](http://www.startribune.com/beck-surprises-fans-with-paisley-park-sessions-ep-recorded-in-chanhassen/564759282/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 11 November 2019 about Raspberry Beret (song), When Doves Cry (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/beck-surprises-fans-with-paisley-park-sessions-ep-recorded-in-chanhassen/564759282/))
 
 ----
 
@@ -232,7 +232,7 @@
 
 ----
 
- - [**"Details of Prince's expanded 'Purple Rain' reissue revealed, coming June 23"**](http://www.startribune.com/details-of-prince-s-expanded-purple-rain-reissue-revealed-coming-june-23/420722973/) by Chris Riemenschneider in [Minneapolis Star Tribune](http://www.startribune.com/) on 28 April 2017 about 17 Days (song), bootleg, Erotic City (song), First Avenue (place), Minnesota Dance Theatre, NPG Records, Our Destiny (song), Possessed (song), Purple Rain (album), Purple Rain (song), Roadhouse Garden (song), The Beautiful Ones (song), The Revolution, vault, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/details-of-prince-s-expanded-purple-rain-reissue-revealed-coming-june-23/420722973/))
+ - [**"Details of Prince's expanded 'Purple Rain' reissue revealed, coming June 23"**](http://www.startribune.com/details-of-prince-s-expanded-purple-rain-reissue-revealed-coming-june-23/420722973/) by Chris Riemenschneider in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 28 April 2017 about 17 Days (song), bootleg, Erotic City (song), First Avenue (place), Minnesota Dance Theatre, NPG Records, Our Destiny (song), Possessed (song), Purple Rain (album), Purple Rain (song), Roadhouse Garden (song), The Beautiful Ones (song), The Revolution, vault, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/details-of-prince-s-expanded-purple-rain-reissue-revealed-coming-june-23/420722973/))
 
 ----
 
@@ -272,7 +272,7 @@
 
 ----
 
- - [**"Obituary: Prince was a diminutive giant who revolutionized pop -- Though he was a puzzle at times, the rocker was a true Minnesotan who changed music more than once in a nearly 40-year career."**](http://www.startribune.com/jon-bream-prince-was-a-once-in-a-generation-artist-who-never-rested-on-his-laurels/376594221/) by Chris Riemenschneider, Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 22 April 2016 about André Cymone, First Avenue (place), Grammy Award, John Nelson, Let’s Go Crazy (song), Little Red Corvette (song), Mayte, Mayte Garcia, Obama, Super Bowl, Super Bowl XLI (event), Tyka Nelson, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/jon-bream-prince-was-a-once-in-a-generation-artist-who-never-rested-on-his-laurels/376594221/))
+ - [**"Obituary: Prince was a diminutive giant who revolutionized pop -- Though he was a puzzle at times, the rocker was a true Minnesotan who changed music more than once in a nearly 40-year career."**](http://www.startribune.com/jon-bream-prince-was-a-once-in-a-generation-artist-who-never-rested-on-his-laurels/376594221/) by Chris Riemenschneider, Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 22 April 2016 about André Cymone, First Avenue (place), Grammy Award, John Nelson, Let’s Go Crazy (song), Little Red Corvette (song), Mayte, Mayte Garcia, Obama, Super Bowl, Super Bowl XLI (event), Tyka Nelson, When Doves Cry (song) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/jon-bream-prince-was-a-once-in-a-generation-artist-who-never-rested-on-his-laurels/376594221/))
 
 ----
 

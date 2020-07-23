@@ -8,7 +8,7 @@
 
 ----
 
- - [**"After 40 Years, Grammy show producer bows out his way"**](http://www.startribune.com/after-40-years-grammy-show-producer-bows-out-his-way/567226992/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 23 January 2020 about Aretha Franklin, Beyoncé, Ed Sheeran, Gary Clark Jr., John Legend, Ken Ehrlich, Misty Copeland, Obama, Stevie Wonder, White House (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/after-40-years-grammy-show-producer-bows-out-his-way/567226992/))
+ - [**"After 40 Years, Grammy show producer bows out his way"**](http://www.startribune.com/after-40-years-grammy-show-producer-bows-out-his-way/567226992/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 23 January 2020 about Aretha Franklin, Beyoncé, Ed Sheeran, Gary Clark Jr., John Legend, Ken Ehrlich, Misty Copeland, Obama, Stevie Wonder, White House (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/after-40-years-grammy-show-producer-bows-out-his-way/567226992/))
 
 ----
 
@@ -24,7 +24,7 @@
 
 ----
 
- - [**"6 cool things in music this week including Neil Peart, Billie Eilish, Paisley Park Cinema and Keith Richards"**](http://www.startribune.com/6-cool-things-in-music-this-week-including-neil-peart-billie-eilish-paisley-park-cinema-and-keith-richards/567079992/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 17 January 2020 about Amazing Grace (movie), Aretha Franklin, Jon Bream, Richard Pryor, Wattstax (movie), Xcel Energy Center (place), YouTube ([mirror](https://web.archive.org/web/*/http://www.startribune.com/6-cool-things-in-music-this-week-including-neil-peart-billie-eilish-paisley-park-cinema-and-keith-richards/567079992/))
+ - [**"6 cool things in music this week including Neil Peart, Billie Eilish, Paisley Park Cinema and Keith Richards"**](http://www.startribune.com/6-cool-things-in-music-this-week-including-neil-peart-billie-eilish-paisley-park-cinema-and-keith-richards/567079992/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 17 January 2020 about Amazing Grace (movie), Aretha Franklin, Jon Bream, Richard Pryor, Wattstax (movie), Xcel Energy Center (place), YouTube ([mirror](https://web.archive.org/web/*/http://www.startribune.com/6-cool-things-in-music-this-week-including-neil-peart-billie-eilish-paisley-park-cinema-and-keith-richards/567079992/))
 
 ----
 
@@ -32,7 +32,7 @@
 
 ----
 
- - [**"Alcohol will be served as Paisley Park launches new live music series"**](http://www.startribune.com/live-music-series-at-prince-s-paisley-park-to-kick-off-feb-15-with-meshell-ndegeocello/566830752/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 9 January 2020 about Amazing Grace (movie), Andre Cymone, Aretha Franklin, Dave Chappelle, Dave Chappelle’s Block Party (movie), George Clinton, Judith Hill, Meshell Ndegeocello, Musicology: Real Music by Real Musicians (event), Paisley Park Cinema: Music on the Big Screen (event), Sometimes It Snows In April (song), Wattstax (movie) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/live-music-series-at-prince-s-paisley-park-to-kick-off-feb-15-with-meshell-ndegeocello/566830752/))
+ - [**"Alcohol will be served as Paisley Park launches new live music series"**](http://www.startribune.com/live-music-series-at-prince-s-paisley-park-to-kick-off-feb-15-with-meshell-ndegeocello/566830752/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 9 January 2020 about Amazing Grace (movie), Andre Cymone, Aretha Franklin, Dave Chappelle, Dave Chappelle’s Block Party (movie), George Clinton, Judith Hill, Meshell Ndegeocello, Musicology: Real Music by Real Musicians (event), Paisley Park Cinema: Music on the Big Screen (event), Sometimes It Snows In April (song), Wattstax (movie) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/live-music-series-at-prince-s-paisley-park-to-kick-off-feb-15-with-meshell-ndegeocello/566830752/))
 
 ----
 
@@ -44,7 +44,7 @@
 
 ----
 
- - [**"Grammys will honor Prince with an all-star concert broadcast on CBS"**](http://www.startribune.com/grammys-will-honor-prince-with-an-all-star-concert-broadcast-on-cbs/566849132/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 9 January 2020 about Alicia Keys, Aretha Franklin, Beck, Chris Martin, Coldplay, Earth, Wind & Fire, Foo Fighters, Gary Clark Jr., Grammy Award, H.E.R., Jimmy Jam, John Legend, Juanes, Let’s Go Crazy (song), Let's Go Crazy: The Grammy Salute to Prince (event), Los Angeles Convention Center (place), Mavis Staples, Morris Day, Morris Day & The Time, Morris Day and The Time, St. Vincent, Stevie Wonder, Susanna Hoffs, Terry Lewis, The Revolution, The Time, Usher ([mirror](https://web.archive.org/web/*/http://www.startribune.com/grammys-will-honor-prince-with-an-all-star-concert-broadcast-on-cbs/566849132/))
+ - [**"Grammys will honor Prince with an all-star concert broadcast on CBS"**](http://www.startribune.com/grammys-will-honor-prince-with-an-all-star-concert-broadcast-on-cbs/566849132/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 9 January 2020 about Alicia Keys, Aretha Franklin, Beck, Chris Martin, Coldplay, Earth, Wind & Fire, Foo Fighters, Gary Clark Jr., Grammy Award, H.E.R., Jimmy Jam, John Legend, Juanes, Let’s Go Crazy (song), Let's Go Crazy: The Grammy Salute to Prince (event), Los Angeles Convention Center (place), Mavis Staples, Morris Day, Morris Day & The Time, Morris Day and The Time, St. Vincent, Stevie Wonder, Susanna Hoffs, Terry Lewis, The Revolution, The Time, Usher ([mirror](https://web.archive.org/web/*/http://www.startribune.com/grammys-will-honor-prince-with-an-all-star-concert-broadcast-on-cbs/566849132/))
 
 ----
 
@@ -56,7 +56,7 @@
 
 ----
 
- - [**"Paisley Park to host film series featuring Aretha, 'Wattstax' and 'Dave Chappelle's Block Party'"**](http://www.startribune.com/paisley-park-to-host-film-series-featuring-aretha-wattstax-and-dave-chappelle-s-block-party/566561102/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 30 December 2019 about Alan Seiffert, Amazing Grace (movie), Andre Cymone, Aretha Franklin, Dave Chappelle, Dave Chappelle’s Block Party (movie), Graceland, Graceland Holdings, Judith Hill, museum, Paisley Park Cinema: Music on the Big Screen (event), The Roots ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-to-host-film-series-featuring-aretha-wattstax-and-dave-chappelle-s-block-party/566561102/))
+ - [**"Paisley Park to host film series featuring Aretha, 'Wattstax' and 'Dave Chappelle's Block Party'"**](http://www.startribune.com/paisley-park-to-host-film-series-featuring-aretha-wattstax-and-dave-chappelle-s-block-party/566561102/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 30 December 2019 about Alan Seiffert, Amazing Grace (movie), Andre Cymone, Aretha Franklin, Dave Chappelle, Dave Chappelle’s Block Party (movie), Graceland, Graceland Holdings, Judith Hill, museum, Paisley Park Cinema: Music on the Big Screen (event), The Roots ([mirror](https://web.archive.org/web/*/http://www.startribune.com/paisley-park-to-host-film-series-featuring-aretha-wattstax-and-dave-chappelle-s-block-party/566561102/))
 
 ----
 
@@ -84,11 +84,11 @@
 
 ----
 
- - [**"Buddy Holly and Roy Orbison in Minnesota? Hologram tours of old stars are the hot new concert trend -- Buddy Holly is coming to town with Roy Orbison? Yes, rock 'n' roll holograms are here to stay."**](http://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 12 October 2019 about Aretha Franklin, Ed Sheeran, Frank Zappa, hologram, Lizzo, Michael Jackson, Morris Day, perfume ([mirror](https://web.archive.org/web/*/http://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/))
+ - [**"Buddy Holly and Roy Orbison in Minnesota? Hologram tours of old stars are the hot new concert trend -- Buddy Holly is coming to town with Roy Orbison? Yes, rock 'n' roll holograms are here to stay."**](http://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 12 October 2019 about Aretha Franklin, Ed Sheeran, Frank Zappa, hologram, Lizzo, Michael Jackson, Morris Day, perfume ([mirror](https://web.archive.org/web/*/http://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/))
 
 ----
 
- - [**"Prince haunts Morris Day's new memoir: 'I still hear his voice in my head' -- "Purple Rain" co-star and Time leader Morris Day details his long friendship with Prince in a memoir that brings him home to the Twin Cities this week. "**](http://www.startribune.com/prince-haunts-morris-day-s-new-memoir-i-still-hear-his-voice-in-my-head/562430972/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 8 October 2019 about Aretha Franklin, Donald Trump, Jamie Starr, Janet Jackson, memoir, Morris Day, On Time: A Princely Life in Funk (book), Pandemonium (album), Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-haunts-morris-day-s-new-memoir-i-still-hear-his-voice-in-my-head/562430972/))
+ - [**"Prince haunts Morris Day's new memoir: 'I still hear his voice in my head' -- "Purple Rain" co-star and Time leader Morris Day details his long friendship with Prince in a memoir that brings him home to the Twin Cities this week. "**](http://www.startribune.com/prince-haunts-morris-day-s-new-memoir-i-still-hear-his-voice-in-my-head/562430972/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 8 October 2019 about Aretha Franklin, Donald Trump, Jamie Starr, Janet Jackson, memoir, Morris Day, On Time: A Princely Life in Funk (book), Pandemonium (album), Trump ([mirror](https://web.archive.org/web/*/http://www.startribune.com/prince-haunts-morris-day-s-new-memoir-i-still-hear-his-voice-in-my-head/562430972/))
 
 ----
 
@@ -100,7 +100,7 @@
 
 ----
 
- - [**"Former Prince guitarist Donna Grantis celebrates new jazz-rock album at the Dakota -- 3rdEyeGirl guitarist Donna Grantis will celebrate her new jazz-rock fusion album in Minneapolis."**](http://www.startribune.com/former-prince-guitarist-donna-grantis-celebrates-new-jazz-rock-album-at-the-dakota/507678332/) by Jon Bream in [Minneapolis Star Tribune](http://www.startribune.com/) on 26 March 2019 about 3rdEyeGirl, Aretha Franklin, Dakota (place), Donna Grantis, Hannah Welton, Toronto, YouTube ([mirror](https://web.archive.org/web/*/http://www.startribune.com/former-prince-guitarist-donna-grantis-celebrates-new-jazz-rock-album-at-the-dakota/507678332/))
+ - [**"Former Prince guitarist Donna Grantis celebrates new jazz-rock album at the Dakota -- 3rdEyeGirl guitarist Donna Grantis will celebrate her new jazz-rock fusion album in Minneapolis."**](http://www.startribune.com/former-prince-guitarist-donna-grantis-celebrates-new-jazz-rock-album-at-the-dakota/507678332/) by Jon Bream in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 26 March 2019 about 3rdEyeGirl, Aretha Franklin, Dakota (place), Donna Grantis, Hannah Welton, Toronto, YouTube ([mirror](https://web.archive.org/web/*/http://www.startribune.com/former-prince-guitarist-donna-grantis-celebrates-new-jazz-rock-album-at-the-dakota/507678332/))
 
 ----
 

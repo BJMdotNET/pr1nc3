@@ -4,7 +4,7 @@
 
 ----
 
- - [**"Rosanne Cash and John Leventhal delight with amazing grace and marital humor at Guthrie"**](http://www.startribune.com/rosanne-cash-and-john-leventhal-delight-with-amazing-grace-and-marital-humor-at-guthrie/567973352/) in [Minneapolis Star Tribune](http://www.startribune.com/) on 18 February 2020 about Bruce Springsteen ([mirror](https://web.archive.org/web/*/http://www.startribune.com/rosanne-cash-and-john-leventhal-delight-with-amazing-grace-and-marital-humor-at-guthrie/567973352/))
+ - [**"Rosanne Cash and John Leventhal delight with amazing grace and marital humor at Guthrie"**](http://www.startribune.com/rosanne-cash-and-john-leventhal-delight-with-amazing-grace-and-marital-humor-at-guthrie/567973352/) in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 18 February 2020 about Bruce Springsteen ([mirror](https://web.archive.org/web/*/http://www.startribune.com/rosanne-cash-and-john-leventhal-delight-with-amazing-grace-and-marital-humor-at-guthrie/567973352/))
 
 ----
 

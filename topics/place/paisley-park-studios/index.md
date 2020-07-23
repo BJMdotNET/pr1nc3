@@ -24,7 +24,7 @@
 
 ----
 
- - [**"A purple-tie affair?"**](http://www.startribune.com/a-purple-tie-affair/372125381/) by Rohan Preston in [Minneapolis Star Tribune](http://www.startribune.com/) on 15 March 2016 about Chanhassen Dinner Theatres, Mixed Blood, Paisley Park Studios (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/a-purple-tie-affair/372125381/))
+ - [**"A purple-tie affair?"**](http://www.startribune.com/a-purple-tie-affair/372125381/) by Rohan Preston in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 15 March 2016 about Chanhassen Dinner Theatres, Mixed Blood, Paisley Park Studios (place) ([mirror](https://web.archive.org/web/*/http://www.startribune.com/a-purple-tie-affair/372125381/))
 
 ----
 
