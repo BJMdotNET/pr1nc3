@@ -3,6 +3,7 @@
 
 ## An experiment in news delivery
 
+  * [latest](./news.md)
   * [publications](./publications/)
   * [authors](./authors/)
   * [dates](./dates/)
