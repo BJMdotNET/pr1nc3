@@ -3,8 +3,6 @@
 
 ## An experiment in news delivery
 
-----
-
 [http://www.huntercomplex.com/press/review-prince-sign-o-the-times-super-deluxe-the-vault-tracks/](http://www.huntercomplex.com/press/review-prince-sign-o-the-times-super-deluxe-the-vault-tracks/)
 
  * review: prince – sign o’ the times super deluxe – the vault tracks
@@ -15,7 +13,7 @@
 
  * Hanging With Joni Mitchell, Jamming With Bruce, Sting And Miles: What It Was Like To Work With Prince In The ‘80s
 
-[https://twitter.com/SBaltin/status/1309148594050605069](https://twitter.com/SBaltin/status/1309148594050605069)
+ * [https://twitter.com/SBaltin/status/1309148594050605069](https://twitter.com/SBaltin/status/1309148594050605069)
 
 ----
 
@@ -24,11 +22,11 @@
  * Massive reissue of Prince's best album shows he had 'no time for self-pity' in 1987
    * The super-deluxe reissue of "Sign o' the Times" shows the masterwork still holds up — and then some. 
 
-[https://twitter.com/entertain_mn/status/1309202943791583232](https://twitter.com/entertain_mn/status/1309202943791583232)
+ * [https://twitter.com/entertain_mn/status/1309202943791583232](https://twitter.com/entertain_mn/status/1309202943791583232)
 
-[https://twitter.com/jonbream/status/1309199895576928256](https://twitter.com/jonbream/status/1309199895576928256)
+ * [https://twitter.com/jonbream/status/1309199895576928256](https://twitter.com/jonbream/status/1309199895576928256)
 
-[https://twitter.com/StarTribune/status/1309188029555314688](https://twitter.com/StarTribune/status/1309188029555314688)
+ * [https://twitter.com/StarTribune/status/1309188029555314688](https://twitter.com/StarTribune/status/1309188029555314688)
 
 ----
 
@@ -37,7 +35,7 @@
  * Prince’s Vault Reveals a Brilliant Trove With ‘Sign O’ the Times’
    * The reissue of his 1987 masterpiece unveils dozens of unheard songs.
 
-[https://twitter.com/nytimesarts/status/1309201147899580418](https://twitter.com/nytimesarts/status/1309201147899580418)
+ * [https://twitter.com/nytimesarts/status/1309201147899580418](https://twitter.com/nytimesarts/status/1309201147899580418)
 
 ----
 
@@ -45,7 +43,7 @@
 
  * Celebrate Prince’s ‘Sign O’ The Times’ deluxe box set with an exclusive VOLUME special
 
-[https://twitter.com/siriusxmvolume/status/1309209690220507138](https://twitter.com/siriusxmvolume/status/1309209690220507138)
+ * [https://twitter.com/siriusxmvolume/status/1309209690220507138](https://twitter.com/siriusxmvolume/status/1309209690220507138)
 
 ----
 
@@ -53,9 +51,9 @@
 
  * Susan Rogers On Prince “Sign O’ The Times”
 
-[https://twitter.com/hifiwaypopchron/status/1307182138802884608](https://twitter.com/hifiwaypopchron/status/1307182138802884608)
+ * [https://twitter.com/hifiwaypopchron/status/1307182138802884608](https://twitter.com/hifiwaypopchron/status/1307182138802884608)
 
-[https://twitter.com/stash019/status/1307433715375599617](https://twitter.com/stash019/status/1307433715375599617)
+ * [https://twitter.com/stash019/status/1307433715375599617](https://twitter.com/stash019/status/1307433715375599617)
 
 ----
 
@@ -63,7 +61,7 @@
 
  * Prince’s Path to ‘Sign O’ the Times,’ Told by His Musicians, His Fiancee and His Longtime Engineer
 
-[https://twitter.com/Variety/status/1309134128017801218](https://twitter.com/Variety/status/1309134128017801218)
+ * [https://twitter.com/Variety/status/1309134128017801218](https://twitter.com/Variety/status/1309134128017801218)
 
 ----
 
@@ -71,7 +69,7 @@
 
  * Prince: The Story of Sign O' The Times, Episode 5: It Be's Like That Sometimes
 
-[https://twitter.com/TheCurrent/status/1309115366891614208](https://twitter.com/TheCurrent/status/1309115366891614208)
+ * [https://twitter.com/TheCurrent/status/1309115366891614208](https://twitter.com/TheCurrent/status/1309115366891614208)
 
 ----
 
@@ -80,7 +78,7 @@
  * Prince’s ‘Sign ‘o’ the Times’ Box Set Offers a Rich Image of the Pop Master at His Absolute Peak
    * With nearly four hours of previously unreleased material, the collection captures the scope of the artist’s boundless genius
 
-[https://twitter.com/RollingStone/status/1309168738516840448](https://twitter.com/RollingStone/status/1309168738516840448)
+ * [https://twitter.com/RollingStone/status/1309168738516840448](https://twitter.com/RollingStone/status/1309168738516840448)
 
 ----
 
@@ -88,7 +86,7 @@
 
  * PRINCE’S SIGN O’ THE TIMES: THE REMASTERED SUPER DELUXE EDITION IS HERE
 
-[https://twitter.com/afropunk/status/1309158356389691399](https://twitter.com/afropunk/status/1309158356389691399)
+ * [https://twitter.com/afropunk/status/1309158356389691399](https://twitter.com/afropunk/status/1309158356389691399)
 
 ----
 
@@ -96,7 +94,7 @@
 
  * Prince keyboardist remembers the times of masterpiece "Sign o' the Times"
 
-[https://twitter.com/MPMorningSun/status/1308980130136690690](https://twitter.com/MPMorningSun/status/1308980130136690690)
+ * [https://twitter.com/MPMorningSun/status/1308980130136690690](https://twitter.com/MPMorningSun/status/1308980130136690690)
 
 ----
 
@@ -104,7 +102,7 @@
 
  * Is Prince’s Sign O’ The Times the greatest album of all time?
 
-[https://twitter.com/Mobeen_Azhar/status/1309031033153761281](https://twitter.com/Mobeen_Azhar/status/1309031033153761281)
+ * [https://twitter.com/Mobeen_Azhar/status/1309031033153761281](https://twitter.com/Mobeen_Azhar/status/1309031033153761281)
 
 ----
 
@@ -112,7 +110,7 @@
 
  * Prince - Sign O' The Times - Super Deluxe Edition 13 LP + DVD Box Set Unboxing
 
-[https://twitter.com/Housequake/status/1309070840789700609](https://twitter.com/Housequake/status/1309070840789700609)
+ * [https://twitter.com/Housequake/status/1309070840789700609](https://twitter.com/Housequake/status/1309070840789700609)
 
 ----
 
@@ -122,7 +120,7 @@ https://www.vulture.com/2020/09/prince-sign-o-the-times-reissuedave-chappelle-li
 
  * Dave Chappelle on Prince’s Legacy: ‘He Literally Was a Sign of the Times’
 
-[https://twitter.com/NYMag/status/1308531392259731457](https://twitter.com/NYMag/status/1308531392259731457)
+ * [https://twitter.com/NYMag/status/1308531392259731457](https://twitter.com/NYMag/status/1308531392259731457)
 
 ----
 
@@ -130,7 +128,7 @@ https://www.vulture.com/2020/09/prince-sign-o-the-times-reissuedave-chappelle-li
 
  * BrownMark Talks Race and the Revolution in New Book: Exclusive
 
-[https://twitter.com/Miss_EThompson/status/1308459374650720256](https://twitter.com/Miss_EThompson/status/1308459374650720256)
+ * [https://twitter.com/Miss_EThompson/status/1308459374650720256](https://twitter.com/Miss_EThompson/status/1308459374650720256)
 
 ----
 
