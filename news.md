@@ -3,6 +3,43 @@
 
 ## An experiment in news delivery
 
+https://www.launchpaddm.com/episode/Prince-inside-secrets-and-heartfelt-words
+
+PRINCE: INSIDE SECRETS AND HEARTFELT WORDS: EXCLUSIVE RAW AUDIO CLIPS OF PRINCE AND PERSONAL INTERVIEW WITH NEAL KARLEN
+
+Have you ever wondered what Prince's private conversations were like? In this episode, Eden Sustin and Kim Somers Egelsee are joined by Prince's personal journalist and close friend, Neal Karlen. This episode features never before heard rare and exclusive audio clips of the legendary music artist Prince talking vulnerably and full of immense wisdom. We also talk to Neal about their relationship, where Prince's will may be hidden, their dying wish pact, Neal's new book and audiobook "This Thing Called Life", and how he got to know the man behind the curtain. Plus one of Prince's designers, Michelle Kasimor Streite, tells us about what it was like working in his design department. Listen now for a one of a kind episode with audio clips you won't hear anywhere else!
+
+----
+
+https://variety.com/2020/music/news/stevie-nicks-24-karat-gold-concert-film-interview-1234815282/
+
+Stevie Nicks on Her New Concert Film, the ‘Crazy’ Resurgence of ‘Dreams’ and Staying in Touch With the Spirits of Prince and Tom Petty
+In a wide-ranging Q&A, the singer discusses everything from a life-changing moment seeing the "Woodstock" movie at a drive-in to having her own new "24 Karat Gold: The Concert" film play at outdoor and indoor theaters.
+
+https://twitter.com/Variety/status/1320484068899901440
+
+----
+
+https://www.startribune.com/how-george-floyd-s-death-reframed-the-life-of-the-minneapolis-artist-who-painted-prince-s-gold-star/572740231/
+
+https://twitter.com/StarTribune/status/1323280752801390592
+
+https://twitter.com/StarTribune/status/1322603744991870977
+
+----
+
+https://www.billboard.com/articles/news/9477545/kylie-minogue-nearly-recorded-prince/
+
+https://twitter.com/billboard/status/1323930503448244225
+
+----
+
+https://www.thecurrent.org/feature/2020/10/28/today-in-music-history-prince-and-the-revolution-debut
+
+https://twitter.com/TheCurrent/status/1323984594027335680
+
+----
+
 https://www.thecurrent.org/feature/2020/10/19/prince-the-story-of-sign-o-the-times-the-complete-series
 
 Prince: The Story of Sign O' The Times, the complete series
