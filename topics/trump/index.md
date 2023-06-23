@@ -8,7 +8,7 @@
 
 ----
 
- - [**"Ani DiFranco’s “To the Teeth,” Twenty Years Later -- A look back at the folk song about gun violence that is, unfortunately, timelier than ever. "**](http://floodmagazine.com/71430/ani-difrancos-to-the-teeth-twenty-years-later/)<ul><li>in [floodmagazine.com](http://floodmagazine.com/)</li><li>on 15 December 2019</li><li>about [Ani DiFranco](../../topics/ani-difranco/index.md), [Maceo Parker](../../topics/maceo-parker/index.md), [Trump](../../topics/trump/index.md)</li><li>([mirror](https://web.archive.org/web/*/http://floodmagazine.com/71430/ani-difrancos-to-the-teeth-twenty-years-later/))</li><ul>
+ - [**"Ani DiFranco’s “To the Teeth,” Twenty Years Later -- A look back at the folk song about gun violence that is, unfortunately, timelier than ever."**](http://floodmagazine.com/71430/ani-difrancos-to-the-teeth-twenty-years-later/)<ul><li>in [floodmagazine.com](http://floodmagazine.com/)</li><li>on 15 December 2019</li><li>about [Ani DiFranco](../../topics/ani-difranco/index.md), [Maceo Parker](../../topics/maceo-parker/index.md), [Trump](../../topics/trump/index.md)</li><li>([mirror](https://web.archive.org/web/*/http://floodmagazine.com/71430/ani-difrancos-to-the-teeth-twenty-years-later/))</li><ul>
 
 ----
 
@@ -20,7 +20,7 @@
 
 ----
 
- - [**"From Ukraine to Jay-Z, a night with President Trump -- One journalist's notes from an exceptional happening in downtown Minneapolis. "**](https://www.startribune.com/from-ukraine-to-jay-z-a-night-with-president-trump/562832292/)<ul><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 11 October 2019</li><li>about [Obama](../../topics/obama/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Trump](../../topics/trump/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/from-ukraine-to-jay-z-a-night-with-president-trump/562832292/))</li><ul>
+ - [**"From Ukraine to Jay-Z, a night with President Trump -- One journalist's notes from an exceptional happening in downtown Minneapolis."**](https://www.startribune.com/from-ukraine-to-jay-z-a-night-with-president-trump/562832292/)<ul><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 11 October 2019</li><li>about [Obama](../../topics/obama/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Trump](../../topics/trump/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/from-ukraine-to-jay-z-a-night-with-president-trump/562832292/))</li><ul>
 
 ----
 
@@ -32,7 +32,7 @@
 
 ----
 
- - [**"Prince estate: Trump violated promise not to play 'Purple Rain' -- The campaign played the song at the president's Target Center appearance after it promised a year ago to stop playing Prince's music at rallies, the estate said. "**](https://www.startribune.com/prince-estate-says-playing-purple-rain-at-trump-rally-was-unauthorized/562782832/)<ul><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 11 October 2019</li><li>about [Donald Trump](../../topics/donald-trump/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Trump](../../topics/trump/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-estate-says-playing-purple-rain-at-trump-rally-was-unauthorized/562782832/))</li><ul>
+ - [**"Prince estate: Trump violated promise not to play 'Purple Rain' -- The campaign played the song at the president's Target Center appearance after it promised a year ago to stop playing Prince's music at rallies, the estate said."**](https://www.startribune.com/prince-estate-says-playing-purple-rain-at-trump-rally-was-unauthorized/562782832/)<ul><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 11 October 2019</li><li>about [Donald Trump](../../topics/donald-trump/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Trump](../../topics/trump/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-estate-says-playing-purple-rain-at-trump-rally-was-unauthorized/562782832/))</li><ul>
 
 ----
 
@@ -44,7 +44,7 @@
 
 ----
 
- - [**"Prince haunts Morris Day's new memoir: 'I still hear his voice in my head' -- "Purple Rain" co-star and Time leader Morris Day details his long friendship with Prince in a memoir that brings him home to the Twin Cities this week. "**](https://www.startribune.com/prince-haunts-morris-day-s-new-memoir-i-still-hear-his-voice-in-my-head/562430972/)<ul><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 8 October 2019</li><li>about [Aretha Franklin](../../topics/aretha-franklin/index.md), [Donald Trump](../../topics/donald-trump/index.md), [Jamie Starr](../../topics/jamie-starr/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [Pandemonium (album)](../../topics/album/pandemonium/index.md), [Trump](../../topics/trump/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-haunts-morris-day-s-new-memoir-i-still-hear-his-voice-in-my-head/562430972/))</li><ul>
+ - [**"Prince haunts Morris Day's new memoir: 'I still hear his voice in my head' -- "Purple Rain" co-star and Time leader Morris Day details his long friendship with Prince in a memoir that brings him home to the Twin Cities this week."**](https://www.startribune.com/prince-haunts-morris-day-s-new-memoir-i-still-hear-his-voice-in-my-head/562430972/)<ul><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 8 October 2019</li><li>about [Aretha Franklin](../../topics/aretha-franklin/index.md), [Donald Trump](../../topics/donald-trump/index.md), [Jamie Starr](../../topics/jamie-starr/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [Pandemonium (album)](../../topics/album/pandemonium/index.md), [Trump](../../topics/trump/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-haunts-morris-day-s-new-memoir-i-still-hear-his-voice-in-my-head/562430972/))</li><ul>
 
 ----
 
@@ -116,7 +116,7 @@
 
 ----
 
- - [**"Jazz legend Herbie Hancock talks music, recovery and partying with Prince                                     -- Jazz giant Herbie Hancock is working on an album with Snoop and Pharrell; he'll preview it at the Minnesota Zoo. "**](https://www.startribune.com/jazz-legend-herbie-hancock-talks-music-recovery-and-partying-with-prince/439675873/)<ul><li>by Jon Bream</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 10 August 2017</li><li>about [Joni Mitchell](../../topics/joni-mitchell/index.md), [memoir](../../topics/memoir/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Trump](../../topics/trump/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/jazz-legend-herbie-hancock-talks-music-recovery-and-partying-with-prince/439675873/))</li><ul>
+ - [**"Jazz legend Herbie Hancock talks music, recovery and partying with Prince                                   -- Jazz giant Herbie Hancock is working on an album with Snoop and Pharrell; he'll preview it at the Minnesota Zoo."**](https://www.startribune.com/jazz-legend-herbie-hancock-talks-music-recovery-and-partying-with-prince/439675873/)<ul><li>by Jon Bream</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 10 August 2017</li><li>about [Joni Mitchell](../../topics/joni-mitchell/index.md), [memoir](../../topics/memoir/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Trump](../../topics/trump/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/jazz-legend-herbie-hancock-talks-music-recovery-and-partying-with-prince/439675873/))</li><ul>
 
 ----
 

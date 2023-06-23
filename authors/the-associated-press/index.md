@@ -38,7 +38,7 @@
 
  - [**"
                                             Pantone creates 'Purple Rain' hue to honor Prince
-                                    "**](https://www.startribune.com/pantone-creates-shade-of-purple-named-for-prince-symbol/440365233/)<ul><li>by The Associated Press</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 14 August 2017</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/pantone-creates-shade-of-purple-named-for-prince-symbol/440365233/))</li><ul>
+                                  "**](https://www.startribune.com/pantone-creates-shade-of-purple-named-for-prince-symbol/440365233/)<ul><li>by The Associated Press</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 14 August 2017</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/pantone-creates-shade-of-purple-named-for-prince-symbol/440365233/))</li><ul>
 
 ----
 

@@ -68,6 +68,9 @@ items:
 - name: Blitz
   href: blitz/index.md
   homepage: blitz/index.md
+- name: blog.discmakers.com
+  href: blog-discmakers-com/index.md
+  homepage: blog-discmakers-com/index.md
 - name: blog.discogs.com
   href: blog-discogs-com/index.md
   homepage: blog-discogs-com/index.md
@@ -407,6 +410,9 @@ items:
 - name: OUT In Perth
   href: out-in-perth/index.md
   homepage: out-in-perth/index.md
+- name: Ovrld
+  href: ovrld/index.md
+  homepage: ovrld/index.md
 - name: Paste Magazine
   href: paste-magazine/index.md
   homepage: paste-magazine/index.md
@@ -659,6 +665,9 @@ items:
 - name: uDiscover Music
   href: udiscover-music/index.md
   homepage: udiscover-music/index.md
+- name: Uncut
+  href: uncut/index.md
+  homepage: uncut/index.md
 - name: Under the Radar
   href: under-the-radar/index.md
   homepage: under-the-radar/index.md
@@ -674,6 +683,9 @@ items:
 - name: USA Today
   href: usa-today/index.md
   homepage: usa-today/index.md
+- name: Vanity Fair
+  href: vanity-fair/index.md
+  homepage: vanity-fair/index.md
 - name: Variety
   href: variety/index.md
   homepage: variety/index.md
@@ -704,6 +716,9 @@ items:
 - name: Washington Times
   href: washington-times/index.md
   homepage: washington-times/index.md
+- name: Wax Poetics
+  href: wax-poetics/index.md
+  homepage: wax-poetics/index.md
 - name: wbbm780.radio.com
   href: wbbm780-radio-com/index.md
   homepage: wbbm780-radio-com/index.md
@@ -749,9 +764,15 @@ items:
 - name: www.columbian.com
   href: www-columbian-com/index.md
   homepage: www-columbian-com/index.md
+- name: www.contactmusic.com
+  href: www-contactmusic-com/index.md
+  homepage: www-contactmusic-com/index.md
 - name: www.crooner.fr
   href: www-crooner-fr/index.md
   homepage: www-crooner-fr/index.md
+- name: www.deseret.com
+  href: www-deseret-com/index.md
+  homepage: www-deseret-com/index.md
 - name: www.diyphotography.net
   href: www-diyphotography-net/index.md
   homepage: www-diyphotography-net/index.md
@@ -761,6 +782,9 @@ items:
 - name: www.ebony.com
   href: www-ebony-com/index.md
   homepage: www-ebony-com/index.md
+- name: www.findlaw.com
+  href: www-findlaw-com/index.md
+  homepage: www-findlaw-com/index.md
 - name: www.france24.com
   href: www-france24-com/index.md
   homepage: www-france24-com/index.md
@@ -842,6 +866,9 @@ items:
 - name: www.noise11.com
   href: www-noise11-com/index.md
   homepage: www-noise11-com/index.md
+- name: www.orlandosentinel.com
+  href: www-orlandosentinel-com/index.md
+  homepage: www-orlandosentinel-com/index.md
 - name: www.pcccourier.com
   href: www-pcccourier-com/index.md
   homepage: www-pcccourier-com/index.md

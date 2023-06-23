@@ -48,6 +48,18 @@
 
 ----
 
+ - [**"Prince Sued by Former Attorney for Unpaid Fees"**](https://www.findlaw.com/legalblogs/celebrity-justice/prince-sued-by-former-attorney-for-unpaid-fees/)<ul><li>in [www.findlaw.com](https://www.findlaw.com/)</li><li>on 9 August 2010</li><li>about [Ed McPherson](../../topics/ed-mcpherson/index.md), [NPG Records](../../topics/npg-records/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [TMZ (website)](../../topics/website/tmz/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.findlaw.com/legalblogs/celebrity-justice/prince-sued-by-former-attorney-for-unpaid-fees/))</li><ul>
+
+----
+
+ - [**"Prince Sued by Former Lawyer; Attorney Ed McPherson Wants $50,000"**](https://www.cbsnews.com/news/prince-sued-by-former-lawyer-attorney-ed-mcpherson-wants-50000/)<ul><li>in [CBS News](https://www.cbsnews.com/)</li><li>on 5 August 2010</li><li>about [Ed McPherson](../../topics/ed-mcpherson/index.md), [Los Angeles (place)](../../topics/place/los-angeles/index.md), [NPG Records](../../topics/npg-records/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [TMZ (website)](../../topics/website/tmz/index.md), [Vigliano Associates, LTD](../../topics/vigliano-associates-ltd/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/news/prince-sued-by-former-lawyer-attorney-ed-mcpherson-wants-50000/))</li><ul>
+
+----
+
+ - [**"Prince Being Sued By Former Attorney"**](https://radaronline.com/exclusives/2010/08/prince-being-sued-former-attorney/)<ul><li>in [Radar Online](https://radaronline.com/)</li><li>on 3 August 2010</li><li>about [Ed McPherson](../../topics/ed-mcpherson/index.md), [NPG Records](../../topics/npg-records/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [Vigliano Associates, LTD](../../topics/vigliano-associates-ltd/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://radaronline.com/exclusives/2010/08/prince-being-sued-former-attorney/))</li><ul>
+
+----
+
  - [**"Prince Co. Suing Internet Site"**](https://apnews.com/06d02aeedba29e311e8d336c7b71a2b8)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 28 September 2002</li><li>about [bootleg](../../topics/bootleg/index.md), [Matthew Lankford](../../topics/matthew-lankford/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/06d02aeedba29e311e8d336c7b71a2b8))</li><ul>
 
 ----
@@ -56,7 +68,11 @@
 
 ----
 
- - [**"People in the News"**](https://apnews.com/df4748de657e2a79a5ec74214a26f279)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 22 December 1991</li><li>about [contract](../../topics/contract/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [Sheena Easton](../../topics/sheena-easton/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/df4748de657e2a79a5ec74214a26f279))</li><ul>
+ - [**"PRINCE EX-MANAGER SUES, SAYS ‘JUGHEAD’ ABOUT HIM"**](https://www.orlandosentinel.com/1991/12/24/prince-ex-manager-sues-says-jughead-about-him/)<ul><li>in [www.orlandosentinel.com](https://www.orlandosentinel.com/)</li><li>on 24 December 1991</li><li>about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Diamonds and Pearls (song)](../../topics/song/diamonds-and-pearls/index.md), [Jill Willis](../../topics/jill-willis/index.md), [Jughead (song)](../../topics/song/jughead/index.md), [Los Angeles (place)](../../topics/place/los-angeles/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [Steve Fargnoli](../../topics/steve-fargnoli/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.orlandosentinel.com/1991/12/24/prince-ex-manager-sues-says-jughead-about-him/))</li><ul>
+
+----
+
+ - [**"People in the News"**](https://apnews.com/df4748de657e2a79a5ec74214a26f279)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 22 December 1991</li><li>about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [contract](../../topics/contract/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [Sheena Easton](../../topics/sheena-easton/index.md), [Steve Fargnoli](../../topics/steve-fargnoli/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/df4748de657e2a79a5ec74214a26f279))</li><ul>
 
 ----
 

@@ -72,6 +72,18 @@
 
 ----
 
+ - [**"Prince Sued by Former Attorney for Unpaid Fees"**](https://www.findlaw.com/legalblogs/celebrity-justice/prince-sued-by-former-attorney-for-unpaid-fees/)<ul><li>in [www.findlaw.com](https://www.findlaw.com/)</li><li>on 9 August 2010</li><li>about [Ed McPherson](../../topics/ed-mcpherson/index.md), [NPG Records](../../topics/npg-records/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [TMZ (website)](../../topics/website/tmz/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.findlaw.com/legalblogs/celebrity-justice/prince-sued-by-former-attorney-for-unpaid-fees/))</li><ul>
+
+----
+
+ - [**"Prince Sued by Former Lawyer; Attorney Ed McPherson Wants $50,000"**](https://www.cbsnews.com/news/prince-sued-by-former-lawyer-attorney-ed-mcpherson-wants-50000/)<ul><li>in [CBS News](https://www.cbsnews.com/)</li><li>on 5 August 2010</li><li>about [Ed McPherson](../../topics/ed-mcpherson/index.md), [Los Angeles (place)](../../topics/place/los-angeles/index.md), [NPG Records](../../topics/npg-records/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [TMZ (website)](../../topics/website/tmz/index.md), [Vigliano Associates, LTD](../../topics/vigliano-associates-ltd/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/news/prince-sued-by-former-lawyer-attorney-ed-mcpherson-wants-50000/))</li><ul>
+
+----
+
+ - [**"Prince Being Sued By Former Attorney"**](https://radaronline.com/exclusives/2010/08/prince-being-sued-former-attorney/)<ul><li>in [Radar Online](https://radaronline.com/)</li><li>on 3 August 2010</li><li>about [Ed McPherson](../../topics/ed-mcpherson/index.md), [NPG Records](../../topics/npg-records/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [Vigliano Associates, LTD](../../topics/vigliano-associates-ltd/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://radaronline.com/exclusives/2010/08/prince-being-sued-former-attorney/))</li><ul>
+
+----
+
  - [**"Arista to release Prince disc -- 'Rave' among WB vault revivals"**](https://variety.com/1999/music/news/arista-to-release-prince-disc-1117755083/)<ul><li>in [Variety](https://variety.com/)</li><li>on 26 August 1999</li><li>about [Arista Records](../../topics/arista-records/index.md), [Chuck D.](../../topics/chuck-d/index.md), [Clive Davis](../../topics/clive-davis/index.md), [Gwen Stefani](../../topics/gwen-stefani/index.md), [NPG Records](../../topics/npg-records/index.md), [Rave Un2 the Joy Fantastic (album)](../../topics/album/rave-un2-the-joy-fantastic/index.md), [Sheryl Crow](../../topics/sheryl-crow/index.md), [The Greatest Romance Ever Sold (song)](../../topics/song/the-greatest-romance-ever-sold/index.md), [vault](../../topics/vault/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://variety.com/1999/music/news/arista-to-release-prince-disc-1117755083/))</li><ul>
 
 ----

@@ -12,7 +12,7 @@
 
 ## September 2019 (1)
 
- - [**"Prince wanted his memoir “to be the biggest music book of all time” -- An abridged version of The Beautiful Ones will see release in October"**](https://consequenceofsound.net/2019/09/prince-memoir-backstory/)<ul><li>in [Consequence of Sound](https://consequenceofsound.net/)</li><li>on 9 September 2019</li><li>about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Random House ](../../topics/random-house/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://consequenceofsound.net/2019/09/prince-memoir-backstory/))</li><ul>
+ - [**"Prince wanted his memoir “to be the biggest music book of all time” -- An abridged version of The Beautiful Ones will see release in October"**](https://consequenceofsound.net/2019/09/prince-memoir-backstory/)<ul><li>in [Consequence of Sound](https://consequenceofsound.net/)</li><li>on 9 September 2019</li><li>about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Random House](../../topics/random-house/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://consequenceofsound.net/2019/09/prince-memoir-backstory/))</li><ul>
 
 ----
 

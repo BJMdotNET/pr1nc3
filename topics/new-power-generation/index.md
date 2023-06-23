@@ -1,6 +1,6 @@
 # New Power Generation
 
- - [**"Unreleased Prince Music to Feature at Paisley Park’s ‘Celebration 2023’ -- D-Nice, Doug E. Fresh, Sounds of Blackness set to perform at June event."**](https://www.billboard.com/music/rb-hip-hop/prince-unreleased-music-paisley-park-celebration-2023-1235321771/)<ul><li>by Gil Kaufman </li><li>in [Billboard](https://www.billboard.com/)</li><li>on 4 May 2023</li><li>about [Celebration (event)](../../topics/event/celebration/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Doug E. Fresh](../../topics/doug-e-fresh/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [vault](../../topics/vault/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.billboard.com/music/rb-hip-hop/prince-unreleased-music-paisley-park-celebration-2023-1235321771/))</li><ul>
+ - [**"Unreleased Prince Music to Feature at Paisley Park’s ‘Celebration 2023’ -- D-Nice, Doug E. Fresh, Sounds of Blackness set to perform at June event."**](https://www.billboard.com/music/rb-hip-hop/prince-unreleased-music-paisley-park-celebration-2023-1235321771/)<ul><li>by Gil Kaufman</li><li>in [Billboard](https://www.billboard.com/)</li><li>on 4 May 2023</li><li>about [Celebration (event)](../../topics/event/celebration/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Doug E. Fresh](../../topics/doug-e-fresh/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [vault](../../topics/vault/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.billboard.com/music/rb-hip-hop/prince-unreleased-music-paisley-park-celebration-2023-1235321771/))</li><ul>
 
 ----
 
@@ -68,7 +68,7 @@
 
 ----
 
- - [**"DC Once Turned Prince Into A Batman-Style Superhero"**](https://screenrant.com/prince-comic-book-dc-alter-ego/)<ul><li>by Padraig Cotter</li><li>in [ScreenRant](https://screenrant.com/)</li><li>on 16 July 2019</li><li>about [Graffiti Bridge (movie)](../../topics/movie/graffiti-bridge/index.md), [museum](../../topics/museum/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Prince: Alter Ego](../../topics/prince-alter-ego/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://screenrant.com/prince-comic-book-dc-alter-ego/))</li><ul>
+ - [**"DC Once Turned Prince Into A Batman-Style Superhero"**](https://screenrant.com/prince-comic-book-dc-alter-ego/)<ul><li>by Padraig Cotter</li><li>in [ScreenRant](https://screenrant.com/)</li><li>on 16 July 2019</li><li>about [Batman (album)](../../topics/album/batman/index.md), [Danny Elfman](../../topics/danny-elfman/index.md), [Graffiti Bridge (movie)](../../topics/movie/graffiti-bridge/index.md), [museum](../../topics/museum/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Partyman (song)](../../topics/song/partyman/index.md), [Prince: Alter Ego](../../topics/prince-alter-ego/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Tim Burton](../../topics/tim-burton/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://screenrant.com/prince-comic-book-dc-alter-ego/))</li><ul>
 
 ----
 

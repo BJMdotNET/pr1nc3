@@ -24,7 +24,7 @@
 
 ----
 
- - [**"From Ukraine to Jay-Z, a night with President Trump -- One journalist's notes from an exceptional happening in downtown Minneapolis. "**](https://www.startribune.com/from-ukraine-to-jay-z-a-night-with-president-trump/562832292/)<ul><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 11 October 2019</li><li>about [Obama](../../topics/obama/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Trump](../../topics/trump/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/from-ukraine-to-jay-z-a-night-with-president-trump/562832292/))</li><ul>
+ - [**"From Ukraine to Jay-Z, a night with President Trump -- One journalist's notes from an exceptional happening in downtown Minneapolis."**](https://www.startribune.com/from-ukraine-to-jay-z-a-night-with-president-trump/562832292/)<ul><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 11 October 2019</li><li>about [Obama](../../topics/obama/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Trump](../../topics/trump/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/from-ukraine-to-jay-z-a-night-with-president-trump/562832292/))</li><ul>
 
 ----
 

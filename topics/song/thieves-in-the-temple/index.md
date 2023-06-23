@@ -24,4 +24,8 @@
 
 ----
 
+ - [**"Album Review: Prince’s ‘Originals’"**](https://variety.com/2019/music/reviews/album-review-princes-originals-1203249946/)<ul><li>by Jem Aswad</li><li>in [Variety](https://variety.com/)</li><li>on 21 June 2019</li><li>about [Apollonia 6](../../../topics/apollonia-6/index.md), [Bangles](../../../topics/bangles/index.md), [Holly Rock (song)](../../../topics/song/holly-rock/index.md), [Jill Jones](../../../topics/jill-jones/index.md), [Jungle Love (song)](../../../topics/song/jungle-love/index.md), [Kenny Rogers](../../../topics/kenny-rogers/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Michael Jackson](../../../topics/michael-jackson/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Originals (album review)](../../../topics/album-review/originals/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Sex Shooter (song)](../../../topics/song/sex-shooter/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md), [The Family](../../../topics/the-family/index.md), [The Time](../../../topics/the-time/index.md), [Thieves in the Temple (song)](../../../topics/song/thieves-in-the-temple/index.md), [Warner Bros. Records](../../../topics/warner-bros-records/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/reviews/album-review-princes-originals-1203249946/))</li><ul>
+
+----
+
 [Home](../index.md)

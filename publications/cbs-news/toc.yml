@@ -1,4 +1,7 @@
 items:
+- name: 2010
+  href: cbs-news-2010.md
+  homepage: cbs-news-2010.md
 - name: 2016
   href: cbs-news-2016.md
   homepage: cbs-news-2016.md

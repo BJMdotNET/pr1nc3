@@ -1,6 +1,6 @@
 # Letitgo (song)
 
- - [**"Prince’s ‘Come’ Turns 25 -- Anniversary Retrospective -- Happy 25th Anniversary to Prince’s fifteenth studio album Come, originally released August 16, 1994. "**](https://www.albumism.com/features/prince-come-turns-25-anniversary-retrospective)<ul><li>in [Albumism](https://www.albumism.com/)</li><li>on 14 August 2019</li><li>about [contract](../../../topics/contract/index.md), [Letitgo (song)](../../../topics/song/letitgo/index.md), [The Gold Experience (album)](../../../topics/album/the-gold-experience/index.md), [Undisputed (song)](../../../topics/song/undisputed/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.albumism.com/features/prince-come-turns-25-anniversary-retrospective))</li><ul>
+ - [**"Prince’s ‘Come’ Turns 25 -- Anniversary Retrospective -- Happy 25th Anniversary to Prince’s fifteenth studio album Come, originally released August 16, 1994."**](https://www.albumism.com/features/prince-come-turns-25-anniversary-retrospective)<ul><li>in [Albumism](https://www.albumism.com/)</li><li>on 14 August 2019</li><li>about [contract](../../../topics/contract/index.md), [Letitgo (song)](../../../topics/song/letitgo/index.md), [The Gold Experience (album)](../../../topics/album/the-gold-experience/index.md), [Undisputed (song)](../../../topics/song/undisputed/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.albumism.com/features/prince-come-turns-25-anniversary-retrospective))</li><ul>
 
 ----
 

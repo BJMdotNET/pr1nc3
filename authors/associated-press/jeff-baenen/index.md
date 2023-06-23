@@ -14,7 +14,7 @@
 
  - [**"
                                             Minnesota judge cancels Universal deal with Prince estate
-                                    "**](https://www.startribune.com/minnesota-judge-cancels-universal-deal-with-prince-estate/434374993/)<ul><li>by Jeff Baenen (Associated Press)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 14 July 2017</li><li>about [Prince Estate](../../../topics/prince-estate/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/minnesota-judge-cancels-universal-deal-with-prince-estate/434374993/))</li><ul>
+                                  "**](https://www.startribune.com/minnesota-judge-cancels-universal-deal-with-prince-estate/434374993/)<ul><li>by Jeff Baenen (Associated Press)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 14 July 2017</li><li>about [Prince Estate](../../../topics/prince-estate/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/minnesota-judge-cancels-universal-deal-with-prince-estate/434374993/))</li><ul>
 
 ----
 

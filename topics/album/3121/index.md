@@ -4,7 +4,7 @@
 
 ----
 
- - [**"Black Pumas talk busking, Grammys and Prince ahead of the Current birthday bash -- The soul-rock duo is up for a best new artist Grammy but hardly inexperienced (see: Prince). "**](https://www.startribune.com/black-pumas-talk-busking-grammys-and-prince-ahead-of-the-current-birthday-bash/567044352/)<ul><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 17 January 2020</li><li>about [3121 (album)](../../../topics/album/3121/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Lizzo](../../../topics/lizzo/index.md), [PBS](../../../topics/pbs/index.md), [YouTube](../../../topics/youtube/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/black-pumas-talk-busking-grammys-and-prince-ahead-of-the-current-birthday-bash/567044352/))</li><ul>
+ - [**"Black Pumas talk busking, Grammys and Prince ahead of the Current birthday bash -- The soul-rock duo is up for a best new artist Grammy but hardly inexperienced (see: Prince)."**](https://www.startribune.com/black-pumas-talk-busking-grammys-and-prince-ahead-of-the-current-birthday-bash/567044352/)<ul><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 17 January 2020</li><li>about [3121 (album)](../../../topics/album/3121/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Lizzo](../../../topics/lizzo/index.md), [PBS](../../../topics/pbs/index.md), [YouTube](../../../topics/youtube/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/black-pumas-talk-busking-grammys-and-prince-ahead-of-the-current-birthday-bash/567044352/))</li><ul>
 
 ----
 

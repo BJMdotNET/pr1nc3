@@ -8,6 +8,7 @@
   * [Essence Fest (event)](../event/essence-fest/index.md) (6)
   * [Essence Festival (event)](../event/essence-festival/index.md) (6)
   * [Let's Go Crazy: The Grammy Salute to Prince (event)](../event/let-s-go-crazy-the-grammy-salute-to-prince/index.md) (7)
+  * [Montreux Jazz Festival (event)](../event/montreux-jazz-festival/index.md) (1)
   * [Musicology: Real Music by Real Musicians (event)](../event/musicology-real-music-by-real-musicians/index.md) (3)
   * [Paisley Park Cinema: Music on the Big Screen (event)](../event/paisley-park-cinema-music-on-the-big-screen/index.md) (5)
   * [Prince: In Concert On The Big Screen (event)](../event/prince-in-concert-on-the-big-screen/index.md) (3)

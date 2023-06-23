@@ -48,7 +48,7 @@
 
 ----
 
- - [**"Hear Prince’s Acoustic Demo of ‘I Feel for You’"**](https://variety.com/2019/music/news/prince-i-feel-for-you-acoustic-demo-listen-1203375320/)<ul><li>in [Variety](https://variety.com/)</li><li>on 18 October 2019</li><li>about [Capri Theater  (place)](../../topics/place/capri-theater/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [For You (album)](../../topics/album/for-you/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Michael Howe](../../topics/michael-howe/index.md), [vault](../../topics/vault/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/news/prince-i-feel-for-you-acoustic-demo-listen-1203375320/))</li><ul>
+ - [**"Hear Prince’s Acoustic Demo of ‘I Feel for You’"**](https://variety.com/2019/music/news/prince-i-feel-for-you-acoustic-demo-listen-1203375320/)<ul><li>in [Variety](https://variety.com/)</li><li>on 18 October 2019</li><li>about [Capri Theater (place)](../../topics/place/capri-theater/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [For You (album)](../../topics/album/for-you/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Michael Howe](../../topics/michael-howe/index.md), [vault](../../topics/vault/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/news/prince-i-feel-for-you-acoustic-demo-listen-1203375320/))</li><ul>
 
 ----
 

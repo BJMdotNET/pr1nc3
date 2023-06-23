@@ -10,7 +10,7 @@
 
 ----
 
- - [**"Listen to Prince's previously unheard acoustic demo of 'I Feel For You'"**](https://usatoday.com/story/entertainment/music/2019/10/18/prince-acoustic-demo-i-feel-for-you-released/4025966002/)<ul><li>in [USA Today](https://usatoday.com/)</li><li>on 18 October 2019</li><li>about [Capri Theater  (place)](../../topics/place/capri-theater/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [For You (album)](../../topics/album/for-you/index.md), [Grammy Award](../../topics/grammy-award/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [vault](../../topics/vault/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://usatoday.com/story/entertainment/music/2019/10/18/prince-acoustic-demo-i-feel-for-you-released/4025966002/))</li><ul>
+ - [**"Listen to Prince's previously unheard acoustic demo of 'I Feel For You'"**](https://usatoday.com/story/entertainment/music/2019/10/18/prince-acoustic-demo-i-feel-for-you-released/4025966002/)<ul><li>in [USA Today](https://usatoday.com/)</li><li>on 18 October 2019</li><li>about [Capri Theater (place)](../../topics/place/capri-theater/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [For You (album)](../../topics/album/for-you/index.md), [Grammy Award](../../topics/grammy-award/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [vault](../../topics/vault/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://usatoday.com/story/entertainment/music/2019/10/18/prince-acoustic-demo-i-feel-for-you-released/4025966002/))</li><ul>
 
 ----
 
@@ -38,7 +38,7 @@
 
 ## April 2019 (2)
 
- - [**"Prince memoir ‘The Beautiful Ones’ to combine manuscript with rare photos, lyrics"**](https://usatoday.com/story/life/books/2019/04/22/princes-deeply-personal-memoir-the-beautiful-ones-due-fall/3536956002/)<ul><li>in [USA Today](https://usatoday.com/)</li><li>on 22 April 2019</li><li>about [Chris Jackson](../../topics/chris-jackson/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Esther Newberg](../../topics/esther-newberg/index.md), [memoir](../../topics/memoir/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Random House ](../../topics/random-house/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/books/2019/04/22/princes-deeply-personal-memoir-the-beautiful-ones-due-fall/3536956002/))</li><ul>
+ - [**"Prince memoir ‘The Beautiful Ones’ to combine manuscript with rare photos, lyrics"**](https://usatoday.com/story/life/books/2019/04/22/princes-deeply-personal-memoir-the-beautiful-ones-due-fall/3536956002/)<ul><li>in [USA Today](https://usatoday.com/)</li><li>on 22 April 2019</li><li>about [Chris Jackson](../../topics/chris-jackson/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Esther Newberg](../../topics/esther-newberg/index.md), [memoir](../../topics/memoir/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Random House](../../topics/random-house/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/books/2019/04/22/princes-deeply-personal-memoir-the-beautiful-ones-due-fall/3536956002/))</li><ul>
 
 ----
 

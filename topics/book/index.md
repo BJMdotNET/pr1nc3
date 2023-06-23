@@ -8,6 +8,7 @@
   * [On Time: A Princely Life in Funk (book)](../book/on-time-a-princely-life-in-funk/index.md) (17)
   * [Prince And The Purple Rain Era Studio Sessions 1983-1984 (book)](../book/prince-and-the-purple-rain-era-studio-sessions-1983-1984/index.md) (1)
   * [Prince Pre Fame (book)](../book/prince-pre-fame/index.md) (3)
+  * [Prince: Chaos, Disorder, and Revolution (book)](../book/prince-chaos-disorder-and-revolution/index.md) (1)
   * [The Beautiful Ones (book)](../book/the-beautiful-ones/index.md) (126)
   * [The Most Beautiful (book)](../book/the-most-beautiful/index.md) (6)
   * [Wally, Where’d You Get Those Glasses? (book)](../book/wally-where-d-you-get-those-glasses/index.md) (1)

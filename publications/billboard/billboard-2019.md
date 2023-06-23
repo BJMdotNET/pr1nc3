@@ -34,7 +34,7 @@
 
 ----
 
- - [**"Prince's Book Agent Reveals an Unconventional Path to 'Beautiful Ones'"**](https://www.billboard.com/articles/columns/rock/8541301/prince-book-agent-talks-beautiful-ones-memoir)<ul><li>in [Billboard](https://www.billboard.com/)</li><li>on 29 October 2019</li><li>about [contract](../../topics/contract/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Esther Newberg](../../topics/esther-newberg/index.md), [memoir](../../topics/memoir/index.md), [Random House ](../../topics/random-house/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/columns/rock/8541301/prince-book-agent-talks-beautiful-ones-memoir))</li><ul>
+ - [**"Prince's Book Agent Reveals an Unconventional Path to 'Beautiful Ones'"**](https://www.billboard.com/articles/columns/rock/8541301/prince-book-agent-talks-beautiful-ones-memoir)<ul><li>in [Billboard](https://www.billboard.com/)</li><li>on 29 October 2019</li><li>about [contract](../../topics/contract/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Esther Newberg](../../topics/esther-newberg/index.md), [memoir](../../topics/memoir/index.md), [Random House](../../topics/random-house/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/columns/rock/8541301/prince-book-agent-talks-beautiful-ones-memoir))</li><ul>
 
 ----
 

@@ -26,7 +26,7 @@
 
  - [**"
                                             Three Prince heirs demand a new administrator for the artist's massive estate
-                                    "**](https://www.startribune.com/several-prince-heirs-demand-a-new-administrator-for-the-artist-s-massive-estate/454144553/)<ul><li>by David Chanen</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 30 October 2017</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/several-prince-heirs-demand-a-new-administrator-for-the-artist-s-massive-estate/454144553/))</li><ul>
+                                  "**](https://www.startribune.com/several-prince-heirs-demand-a-new-administrator-for-the-artist-s-massive-estate/454144553/)<ul><li>by David Chanen</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 30 October 2017</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/several-prince-heirs-demand-a-new-administrator-for-the-artist-s-massive-estate/454144553/))</li><ul>
 
 ----
 

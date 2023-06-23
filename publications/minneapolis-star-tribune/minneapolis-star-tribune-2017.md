@@ -22,7 +22,7 @@
 
  - [**"
                                             Three Prince heirs demand a new administrator for the artist's massive estate
-                                    "**](https://www.startribune.com/several-prince-heirs-demand-a-new-administrator-for-the-artist-s-massive-estate/454144553/)<ul><li>by David Chanen</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 30 October 2017</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/several-prince-heirs-demand-a-new-administrator-for-the-artist-s-massive-estate/454144553/))</li><ul>
+                                  "**](https://www.startribune.com/several-prince-heirs-demand-a-new-administrator-for-the-artist-s-massive-estate/454144553/)<ul><li>by David Chanen</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 30 October 2017</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/several-prince-heirs-demand-a-new-administrator-for-the-artist-s-massive-estate/454144553/))</li><ul>
 
 ----
 
@@ -56,7 +56,7 @@
 
  - [**"
                                             Pantone creates 'Purple Rain' hue to honor Prince
-                                    "**](https://www.startribune.com/pantone-creates-shade-of-purple-named-for-prince-symbol/440365233/)<ul><li>by The Associated Press</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 14 August 2017</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/pantone-creates-shade-of-purple-named-for-prince-symbol/440365233/))</li><ul>
+                                  "**](https://www.startribune.com/pantone-creates-shade-of-purple-named-for-prince-symbol/440365233/)<ul><li>by The Associated Press</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 14 August 2017</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/pantone-creates-shade-of-purple-named-for-prince-symbol/440365233/))</li><ul>
 
 ----
 
@@ -68,7 +68,7 @@
 
 ----
 
- - [**"Jazz legend Herbie Hancock talks music, recovery and partying with Prince                                     -- Jazz giant Herbie Hancock is working on an album with Snoop and Pharrell; he'll preview it at the Minnesota Zoo. "**](https://www.startribune.com/jazz-legend-herbie-hancock-talks-music-recovery-and-partying-with-prince/439675873/)<ul><li>by Jon Bream</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 10 August 2017</li><li>about [Joni Mitchell](../../topics/joni-mitchell/index.md), [memoir](../../topics/memoir/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Trump](../../topics/trump/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/jazz-legend-herbie-hancock-talks-music-recovery-and-partying-with-prince/439675873/))</li><ul>
+ - [**"Jazz legend Herbie Hancock talks music, recovery and partying with Prince                                   -- Jazz giant Herbie Hancock is working on an album with Snoop and Pharrell; he'll preview it at the Minnesota Zoo."**](https://www.startribune.com/jazz-legend-herbie-hancock-talks-music-recovery-and-partying-with-prince/439675873/)<ul><li>by Jon Bream</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 10 August 2017</li><li>about [Joni Mitchell](../../topics/joni-mitchell/index.md), [memoir](../../topics/memoir/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Trump](../../topics/trump/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/jazz-legend-herbie-hancock-talks-music-recovery-and-partying-with-prince/439675873/))</li><ul>
 
 ----
 
@@ -90,7 +90,7 @@
 
  - [**"
                                             Bruno Mars has it all in St. Paul — except originality
-                                    "**](https://www.startribune.com/bruno-mars-has-it-all-in-st-paul-show-except-originality/438815383/)<ul><li>by Jon Bream</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 6 August 2017</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/bruno-mars-has-it-all-in-st-paul-show-except-originality/438815383/))</li><ul>
+                                  "**](https://www.startribune.com/bruno-mars-has-it-all-in-st-paul-show-except-originality/438815383/)<ul><li>by Jon Bream</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 6 August 2017</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/bruno-mars-has-it-all-in-st-paul-show-except-originality/438815383/))</li><ul>
 
 ----
 
@@ -100,7 +100,7 @@
 
  - [**"
                                             Twin Cities concerts of the week: Bryan Ferry, Shawn Mendes, HazelFest
-                                    "**](https://www.startribune.com/twin-cities-concerts-of-the-week-bryan-ferry-shawn-mendes-hazelfest/438320523/)<ul><li>by Chris Riemenschneider, Jon Bream</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 3 August 2017</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/twin-cities-concerts-of-the-week-bryan-ferry-shawn-mendes-hazelfest/438320523/))</li><ul>
+                                  "**](https://www.startribune.com/twin-cities-concerts-of-the-week-bryan-ferry-shawn-mendes-hazelfest/438320523/)<ul><li>by Chris Riemenschneider, Jon Bream</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 3 August 2017</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/twin-cities-concerts-of-the-week-bryan-ferry-shawn-mendes-hazelfest/438320523/))</li><ul>
 
 ----
 
@@ -124,7 +124,7 @@
 
  - [**"
                                             Minnesota judge cancels Universal deal with Prince estate
-                                    "**](https://www.startribune.com/minnesota-judge-cancels-universal-deal-with-prince-estate/434374993/)<ul><li>by Jeff Baenen (Associated Press)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 14 July 2017</li><li>about [Prince Estate](../../topics/prince-estate/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/minnesota-judge-cancels-universal-deal-with-prince-estate/434374993/))</li><ul>
+                                  "**](https://www.startribune.com/minnesota-judge-cancels-universal-deal-with-prince-estate/434374993/)<ul><li>by Jeff Baenen (Associated Press)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 14 July 2017</li><li>about [Prince Estate](../../topics/prince-estate/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/minnesota-judge-cancels-universal-deal-with-prince-estate/434374993/))</li><ul>
 
 ----
 
