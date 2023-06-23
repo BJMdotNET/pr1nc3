@@ -1,7 +1,7 @@
 # Chanhassen Villager
 
-  * [2020](./chanhassen-villager-2020.md/) (1)
+  * [2020](./chanhassen-villager-2020.md) (1)
 
 ----
 
-[Home](../)
+[Home](../index.md)

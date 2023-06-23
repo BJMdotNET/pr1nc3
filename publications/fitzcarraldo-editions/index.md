@@ -1,7 +1,7 @@
 # Fitzcarraldo Editions
 
-  * [2019](./fitzcarraldo-editions-2019.md/) (1)
+  * [2019](./fitzcarraldo-editions-2019.md) (1)
 
 ----
 
-[Home](../)
+[Home](../index.md)

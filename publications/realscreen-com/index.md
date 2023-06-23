@@ -1,7 +1,7 @@
 # realscreen.com
 
-  * [2018](./realscreen-com-2018.md/) (1)
+  * [2018](./realscreen-com-2018.md) (1)
 
 ----
 
-[Home](../)
+[Home](../index.md)

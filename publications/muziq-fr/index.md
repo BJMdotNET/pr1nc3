@@ -1,7 +1,7 @@
 # muziq.fr
 
-  * [2019](./muziq-fr-2019.md/) (3)
+  * [2019](./muziq-fr-2019.md) (3)
 
 ----
 
-[Home](../)
+[Home](../index.md)

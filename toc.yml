@@ -1,0 +1,13 @@
+items:
+- name: publications
+  href: publications/
+  homepage: publications/index.md
+- name: authors
+  href: authors/
+  homepage: authors/index.md
+- name: dates
+  href: dates/
+  homepage: dates/index.md
+- name: topics
+  href: topics/
+  homepage: topics/index.md

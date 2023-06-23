@@ -1,7 +1,7 @@
 # Colin Stutz
 
- - [**"Suzanne Vega Shares Handwritten Letter From Prince"**](https://www.billboard.com/articles/news/7341897/suzanne-vega-prince-handwritten-letter-luka) by Colin Stutz in [Billboard](https://www.billboard.com/) on 25 April 2016 about Luka (song), Suzanne Vega ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/7341897/suzanne-vega-prince-handwritten-letter-luka))
+ - [**"Suzanne Vega Shares Handwritten Letter From Prince"**](https://www.billboard.com/articles/news/7341897/suzanne-vega-prince-handwritten-letter-luka)<ul><li>by Colin Stutz</li><li>in [Billboard](https://www.billboard.com/)</li><li>on 25 April 2016</li><li>about [Luka (song)](../../topics/song/luka/index.md), [Suzanne Vega](../../topics/suzanne-vega/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/7341897/suzanne-vega-prince-handwritten-letter-luka))</li><ul>
 
 ----
 
-[Home](../)
+[Home](../index.md)

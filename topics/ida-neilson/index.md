@@ -1,7 +1,7 @@
 # Ida Neilson
 
- - [**"Hannah Ford: The Princess Ride"**](https://drummagazine.com/hannah-ford-the-princess-ride/) in [drummagazine.com](https://drummagazine.com/) on 14 October 2013 about Donna Grantis, Hannah Ford, Ida Neilson, Live Out Loud (tour), New Power Generation, Plectrum Electrum (album), Screwdriver (song), She’s Always In My Hair (song), Sheila E., The Family, The Revolution, YouTube ([mirror](https://web.archive.org/web/*/https://drummagazine.com/hannah-ford-the-princess-ride/))
+ - [**"Hannah Ford: The Princess Ride"**](https://drummagazine.com/hannah-ford-the-princess-ride/)<ul><li>in [drummagazine.com](https://drummagazine.com/)</li><li>on 14 October 2013</li><li>about [Donna Grantis](../../topics/donna-grantis/index.md), [Hannah Ford](../../topics/hannah-ford/index.md), [Ida Neilson](../../topics/ida-neilson/index.md), [Live Out Loud (tour)](../../topics/tour/live-out-loud/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Plectrum Electrum (album)](../../topics/album/plectrum-electrum/index.md), [Screwdriver (song)](../../topics/song/screwdriver/index.md), [She’s Always In My Hair (song)](../../topics/song/she-s-always-in-my-hair/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Family](../../topics/the-family/index.md), [The Revolution](../../topics/the-revolution/index.md), [YouTube](../../topics/youtube/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://drummagazine.com/hannah-ford-the-princess-ride/))</li><ul>
 
 ----
 
-[Home](../)
+[Home](../index.md)

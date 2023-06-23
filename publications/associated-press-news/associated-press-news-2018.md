@@ -2,278 +2,290 @@
 
 ## December 2018 (3)
 
- - [**"After a decade of dormancy, Chaka Khan blooms again"**](https://apnews.com/bcd4b582e5504891b1a983d6e69cb61f) in [Associated Press News](https://apnews.com/) on 29 December 2018 about Chaka Khan, I Feel For You (song) ([mirror](https://web.archive.org/web/*/https://apnews.com/bcd4b582e5504891b1a983d6e69cb61f))
+ - [**"After a decade of dormancy, Chaka Khan blooms again"**](https://apnews.com/bcd4b582e5504891b1a983d6e69cb61f)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 29 December 2018</li><li>about [Chaka Khan](../../topics/chaka-khan/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/bcd4b582e5504891b1a983d6e69cb61f))</li><ul>
 
 ----
 
- - [**"After a decade of dormancy, Chaka Khan blooms again"**](https://apnews.com/57ecf87aba0f47ec9b908585757d2933) in [Associated Press News](https://apnews.com/) on 28 December 2018 about Chaka Khan, I Feel For You (song), Parade (album) ([mirror](https://web.archive.org/web/*/https://apnews.com/57ecf87aba0f47ec9b908585757d2933))
+ - [**"After a decade of dormancy, Chaka Khan blooms again"**](https://apnews.com/57ecf87aba0f47ec9b908585757d2933)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 28 December 2018</li><li>about [Chaka Khan](../../topics/chaka-khan/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Parade (album)](../../topics/album/parade/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/57ecf87aba0f47ec9b908585757d2933))</li><ul>
 
 ----
 
- - [**"The Must List: Grupo Fantasma, the Tontons and more"**](https://apnews.com/803b6fa073d54282b88a954ab802c337) in [Associated Press News](https://apnews.com/) on 26 December 2018 about Brown Mark, Matt Fink, The Revolution ([mirror](https://web.archive.org/web/*/https://apnews.com/803b6fa073d54282b88a954ab802c337))
+ - [**"The Must List: Grupo Fantasma, the Tontons and more"**](https://apnews.com/803b6fa073d54282b88a954ab802c337)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 26 December 2018</li><li>about [Brown Mark](../../topics/brown-mark/index.md), [Matt Fink](../../topics/matt-fink/index.md), [The Revolution](../../topics/the-revolution/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/803b6fa073d54282b88a954ab802c337))</li><ul>
 
 ----
 
 ## November 2018 (3)
 
- - [**"‘Black-ish’ throws TV’s best-ever Prince party in its 100th episode"**](https://apnews.com/bd6c6bba1c8f4d5d83707d6d24c8fdf2) in [Associated Press News](https://apnews.com/) on 11 November 2018 about Black-ish (TV show), Celebration, Erotic City (song), Spotify, When Doves Cry (song), Yara Shahidi ([mirror](https://web.archive.org/web/*/https://apnews.com/bd6c6bba1c8f4d5d83707d6d24c8fdf2))
+ - [**"‘Black-ish’ throws TV’s best-ever Prince party in its 100th episode"**](https://apnews.com/bd6c6bba1c8f4d5d83707d6d24c8fdf2)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 11 November 2018</li><li>about [Black-ish (TV show)](../../topics/tv-show/black-ish/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [Erotic City (song)](../../topics/song/erotic-city/index.md), [Spotify](../../topics/spotify/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md), [Yara Shahidi](../../topics/yara-shahidi/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/bd6c6bba1c8f4d5d83707d6d24c8fdf2))</li><ul>
 
 ----
 
- - [**"AM Prep-Music -- PRINCE ESTATE RELEASES RARE VIDEOS"**](https://apnews.com/2e0089aedae94022a3e3e7a830f9611e) in [Associated Press News](https://apnews.com/) on 6 November 2018 about Chaos and Disorder (album), Prince Estate, The Prince Estate ([mirror](https://web.archive.org/web/*/https://apnews.com/2e0089aedae94022a3e3e7a830f9611e))
+ - [**"AM Prep-Music -- PRINCE ESTATE RELEASES RARE VIDEOS"**](https://apnews.com/2e0089aedae94022a3e3e7a830f9611e)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 6 November 2018</li><li>about [Chaos and Disorder (album)](../../topics/album/chaos-and-disorder/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/2e0089aedae94022a3e3e7a830f9611e))</li><ul>
 
 ----
 
- - [**"Minnesota Timberwolves unveil Prince-inspired uniform"**](https://apnews.com/6dfaaf1b249646a3852f2e00d9626255) in [Associated Press News](https://apnews.com/) on 1 November 2018 about Minnesota Timberwolves, Prince Estate, The Prince Estate, Timberwolves ([mirror](https://web.archive.org/web/*/https://apnews.com/6dfaaf1b249646a3852f2e00d9626255))
+ - [**"Minnesota Timberwolves unveil Prince-inspired uniform"**](https://apnews.com/6dfaaf1b249646a3852f2e00d9626255)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 1 November 2018</li><li>about [Minnesota Timberwolves](../../topics/minnesota-timberwolves/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Timberwolves](../../topics/timberwolves/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/6dfaaf1b249646a3852f2e00d9626255))</li><ul>
 
 ----
 
 ## October 2018 (4)
 
- - [**"AM Prep-Music -- Ava DuVernay IS WORKING ON PRINCE DOCUMENTARY"**](https://apnews.com/b802f49e738248588639de5b2811b4da) in [Associated Press News](https://apnews.com/) on 31 October 2018 about Ava DuVernay, Netflix ([mirror](https://web.archive.org/web/*/https://apnews.com/b802f49e738248588639de5b2811b4da))
+ - [**"AM Prep-Music -- Ava DuVernay IS WORKING ON PRINCE DOCUMENTARY"**](https://apnews.com/b802f49e738248588639de5b2811b4da)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 31 October 2018</li><li>about [Ava DuVernay](../../topics/ava-duvernay/index.md), [Netflix](../../topics/netflix/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/b802f49e738248588639de5b2811b4da))</li><ul>
 
 ----
 
- - [**"KEW MEDIA DISTRIBUTION Assembles Massive Slate of New Projects Ahead of AFM"**](https://apnews.com/BusinessWire/418ba9bb1ee245ee9c3fb0cb4202aa3d) in [Associated Press News](https://apnews.com/) on 31 October 2018 about American Film Market, Chaka Khan, Daniel D’or, Grammy Award, Kew Media Distribution, Macy Gray, Michael J. Kirk, Mr. Nelson: On the North Side (documentary), Spike Moss ([mirror](https://web.archive.org/web/*/https://apnews.com/BusinessWire/418ba9bb1ee245ee9c3fb0cb4202aa3d))
+ - [**"KEW MEDIA DISTRIBUTION Assembles Massive Slate of New Projects Ahead of AFM"**](https://apnews.com/BusinessWire/418ba9bb1ee245ee9c3fb0cb4202aa3d)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 31 October 2018</li><li>about [American Film Market](../../topics/american-film-market/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Daniel D’or](../../topics/daniel-d-or/index.md), [Grammy Award](../../topics/grammy-award/index.md), [Kew Media Distribution](../../topics/kew-media-distribution/index.md), [Macy Gray](../../topics/macy-gray/index.md), [Michael J. Kirk](../../topics/michael-j-kirk/index.md), [Mr. Nelson: On the North Side (documentary)](../../topics/documentary/mr-nelson-on-the-north-side/index.md), [Spike Moss](../../topics/spike-moss/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/BusinessWire/418ba9bb1ee245ee9c3fb0cb4202aa3d))</li><ul>
 
 ----
 
- - [**"Prince estate tells Donald Trump to stop playing ‘Purple Rain’ at campaign rallies"**](https://apnews.com/c4bbf717114ff1f40a142ae260f5afd1) by Andrew Blake (The Washington Times) in [Associated Press News](https://apnews.com/) on 13 October 2018 about Donald Trump, Let’s Go Crazy (song), Omarr Baker, Prince Estate, The Prince Estate, Trump, White House (place), YouTube ([mirror](https://web.archive.org/web/*/https://apnews.com/c4bbf717114ff1f40a142ae260f5afd1))
+ - [**"Prince estate tells Donald Trump to stop playing ‘Purple Rain’ at campaign rallies"**](https://apnews.com/c4bbf717114ff1f40a142ae260f5afd1)<ul><li>by Andrew Blake (The Washington Times)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 13 October 2018</li><li>about [Donald Trump](../../topics/donald-trump/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Trump](../../topics/trump/index.md), [White House (place)](../../topics/place/white-house/index.md), [YouTube](../../topics/youtube/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/c4bbf717114ff1f40a142ae260f5afd1))</li><ul>
 
 ----
 
- - [**"Prince estate to Trump: Stop using music at rallies"**](https://apnews.com/af0a5a4fc34d48ffb9f29da4c5ef9771) by The Associated Press in [Associated Press News](https://apnews.com/) on 12 October 2018 about Donald Trump, fentanyl overdose, Omarr Baker, Prince Estate, Trump, White House (place) ([mirror](https://web.archive.org/web/*/https://apnews.com/af0a5a4fc34d48ffb9f29da4c5ef9771))
+ - [**"Prince estate to Trump: Stop using music at rallies"**](https://apnews.com/af0a5a4fc34d48ffb9f29da4c5ef9771)<ul><li>by The Associated Press</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 12 October 2018</li><li>about [Donald Trump](../../topics/donald-trump/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Trump](../../topics/trump/index.md), [White House (place)](../../topics/place/white-house/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/af0a5a4fc34d48ffb9f29da4c5ef9771))</li><ul>
 
 ----
 
 ## September 2018 (5)
 
- - [**"Minnesota Historical Society obtains more Prince items"**](https://apnews.com/7e26d95348014ce48fc8987eff0d14fc) in [Associated Press News](https://apnews.com/) on 30 September 2018 about Capri Theatre (place), Jehovah’s Witness, Minnesota Historical Society, Sondra Reierson ([mirror](https://web.archive.org/web/*/https://apnews.com/7e26d95348014ce48fc8987eff0d14fc))
+ - [**"Minnesota Historical Society obtains more Prince items"**](https://apnews.com/7e26d95348014ce48fc8987eff0d14fc)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 30 September 2018</li><li>about [Capri Theatre (place)](../../topics/place/capri-theatre/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [Minnesota Historical Society](../../topics/minnesota-historical-society/index.md), [Sondra Reierson](../../topics/sondra-reierson/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/7e26d95348014ce48fc8987eff0d14fc))</li><ul>
 
 ----
 
- - [**"Thanks to a University of Minnesota degree, his name is ‘Dr. Prince’ now"**](https://apnews.com/38a03f35b393465ba72fa83d6841b3a3) in [Associated Press News](https://apnews.com/) on 27 September 2018 about Central High, Cloud guitar, Jellybean Johnson, museum, Nothing Compares 2 U (song), Omarr Baker, Paul Peterson, St. Paul Peterson, Tommy Barbarella, Tyka Nelson, University of Minnesota ([mirror](https://web.archive.org/web/*/https://apnews.com/38a03f35b393465ba72fa83d6841b3a3))
+ - [**"Thanks to a University of Minnesota degree, his name is ‘Dr. Prince’ now"**](https://apnews.com/38a03f35b393465ba72fa83d6841b3a3)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 27 September 2018</li><li>about [Central High](../../topics/central-high/index.md), [Cloud guitar](../../topics/cloud-guitar/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [museum](../../topics/museum/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Paul Peterson](../../topics/paul-peterson/index.md), [St. Paul Peterson](../../topics/st-paul-peterson/index.md), [Tommy Barbarella](../../topics/tommy-barbarella/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/38a03f35b393465ba72fa83d6841b3a3))</li><ul>
 
 ----
 
- - [**"AM Prep-Music -- PRINCE’S HOME JAM SESSION WILL BE RELEASED FRIDAY"**](https://apnews.com/d1f539d7cbc541b8ba4d82c1539d9ba6) in [Associated Press News](https://apnews.com/) on 19 September 2018 about Lisa Coleman, Piano and a Microphone 1983 (album), The Revolution ([mirror](https://web.archive.org/web/*/https://apnews.com/d1f539d7cbc541b8ba4d82c1539d9ba6))
+ - [**"AM Prep-Music -- PRINCE’S HOME JAM SESSION WILL BE RELEASED FRIDAY"**](https://apnews.com/d1f539d7cbc541b8ba4d82c1539d9ba6)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 19 September 2018</li><li>about [Lisa Coleman](../../topics/lisa-coleman/index.md), [Piano and a Microphone 1983 (album)](../../topics/album/piano-and-a-microphone-1983/index.md), [The Revolution](../../topics/the-revolution/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/d1f539d7cbc541b8ba4d82c1539d9ba6))</li><ul>
 
 ----
 
- - [**"Prince’s new basement tape: Just him singing, playing piano"**](https://apnews.com/e0a9e78a662c40d3adee133110bc8489) by Jeff Baenen (Associated Press) in [Associated Press News](https://apnews.com/) on 18 September 2018 about 17 Days (song), Aretha Franklin, Cold Coffee & Cocaine (song), fentanyl, fentanyl overdose, Joni Mitchell, Lisa Coleman, Michael Howe, NPG Records, Piano and a Microphone 1983 (album), Purple Rain (song), Troy Carter, Warner Bros. Records, Why The Butterflies (song) ([mirror](https://web.archive.org/web/*/https://apnews.com/e0a9e78a662c40d3adee133110bc8489))
+ - [**"Prince’s new basement tape: Just him singing, playing piano"**](https://apnews.com/e0a9e78a662c40d3adee133110bc8489)<ul><li>by Jeff Baenen (Associated Press)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 18 September 2018</li><li>about [17 Days (song)](../../topics/song/17-days/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Cold Coffee & Cocaine (song)](../../topics/song/cold-coffee-cocaine/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Michael Howe](../../topics/michael-howe/index.md), [NPG Records](../../topics/npg-records/index.md), [Piano and a Microphone 1983 (album)](../../topics/album/piano-and-a-microphone-1983/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Troy Carter](../../topics/troy-carter/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md), [Why The Butterflies (song)](../../topics/song/why-the-butterflies/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/e0a9e78a662c40d3adee133110bc8489))</li><ul>
 
 ----
 
- - [**"Prince’s estate sues alleged European piracy network"**](https://apnews.com/7175907b6f0247e79365312718c0b1b6) by The Associated Press in [Associated Press News](https://apnews.com/) on 15 September 2018 about bootleg, fentanyl overdose, piracy ([mirror](https://web.archive.org/web/*/https://apnews.com/7175907b6f0247e79365312718c0b1b6))
+ - [**"Prince’s estate sues alleged European piracy network"**](https://apnews.com/7175907b6f0247e79365312718c0b1b6)<ul><li>by The Associated Press</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 15 September 2018</li><li>about [bootleg](../../topics/bootleg/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [piracy](../../topics/piracy/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/7175907b6f0247e79365312718c0b1b6))</li><ul>
 
 ----
 
-## August 2018 (1)
+## August 2018 (2)
 
- - [**"The days the music died: A look at funerals of the greats"**](https://apnews.com/7d546ab5dbec4e5ba4ebd0eddd1064e8) in [Associated Press News](https://apnews.com/) on 29 August 2018 about Aretha Franklin, fentanyl overdose, Graceland, James Brown, Larry Graham, Michael Jackson, museum, Sheila E., Stevie Wonder, trademark ([mirror](https://web.archive.org/web/*/https://apnews.com/7d546ab5dbec4e5ba4ebd0eddd1064e8))
+ - [**"De Cooke a Houston: funerales de los grandes de la música"**](https://apnews.com/article/192fabd3f7a544828a8f6233b72aa3e5)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 29 August 2018</li><li>about [Alicia Keys](../../topics/alicia-keys/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Sheila E.](../../topics/sheila-e/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/192fabd3f7a544828a8f6233b72aa3e5))</li><ul>
+
+----
+
+ - [**"The days the music died: A look at funerals of the greats"**](https://apnews.com/7d546ab5dbec4e5ba4ebd0eddd1064e8)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 29 August 2018</li><li>about [Aretha Franklin](../../topics/aretha-franklin/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Graceland](../../topics/graceland/index.md), [James Brown](../../topics/james-brown/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [museum](../../topics/museum/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [trademark](../../topics/trademark/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/7d546ab5dbec4e5ba4ebd0eddd1064e8))</li><ul>
 
 ----
 
 ## July 2018 (1)
 
- - [**"Prince copyright questioned after video of thousands singing ‘Purple Rain’ disappears from Twitter"**](https://apnews.com/c52f351aaba2d3209d673f7d64873d04) in [Associated Press News](https://apnews.com/) on 27 July 2018 about First Avenue (place), Universal Music Publishing Group ([mirror](https://web.archive.org/web/*/https://apnews.com/c52f351aaba2d3209d673f7d64873d04))
+ - [**"Prince copyright questioned after video of thousands singing ‘Purple Rain’ disappears from Twitter"**](https://apnews.com/c52f351aaba2d3209d673f7d64873d04)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 27 July 2018</li><li>about [First Avenue (place)](../../topics/place/first-avenue/index.md), [Universal Music Publishing Group](../../topics/universal-music-publishing-group/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/c52f351aaba2d3209d673f7d64873d04))</li><ul>
 
 ----
 
 ## June 2018 (8)
 
- - [**"Prince estate, Sony ink distribution deal for 35 albums"**](https://apnews.com/3f346190027d4601a34fa81f7cf165a2) by The Associated Press in [Associated Press News](https://apnews.com/) on 27 June 2018 about 3121 (album), Emancipation (album), fentanyl overdose, Legacy Recordings, Prince Estate, Sony Music Entertainment, The Gold Experience (album), The Prince Estate, Troy Carter ([mirror](https://web.archive.org/web/*/https://apnews.com/3f346190027d4601a34fa81f7cf165a2))
+ - [**"Prince estate, Sony ink distribution deal for 35 albums"**](https://apnews.com/3f346190027d4601a34fa81f7cf165a2)<ul><li>by The Associated Press</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 27 June 2018</li><li>about [3121 (album)](../../topics/album/3121/index.md), [Emancipation (album)](../../topics/album/emancipation/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Legacy Recordings](../../topics/legacy-recordings/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Sony Music Entertainment](../../topics/sony-music-entertainment/index.md), [The Gold Experience (album)](../../topics/album/the-gold-experience/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Troy Carter](../../topics/troy-carter/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/3f346190027d4601a34fa81f7cf165a2))</li><ul>
 
 ----
 
- - [**"AM Prep-Music -- FILM ACADEMY INVITES ETHERIDGE, LAMAR TO JOIN"**](https://apnews.com/755479884aae40f38493176035af1f3e) in [Associated Press News](https://apnews.com/) on 26 June 2018 about Questlove, The Revolution, Wendy Melvoin ([mirror](https://web.archive.org/web/*/https://apnews.com/755479884aae40f38493176035af1f3e))
+ - [**"AM Prep-Music -- FILM ACADEMY INVITES ETHERIDGE, LAMAR TO JOIN"**](https://apnews.com/755479884aae40f38493176035af1f3e)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 26 June 2018</li><li>about [Questlove](../../topics/questlove/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/755479884aae40f38493176035af1f3e))</li><ul>
 
 ----
 
- - [**"AM Prep-Music -- MUSIC ROOM DEDICATED IN PRINCE’S HONOR AT MIDDLE SCHOOL"**](https://apnews.com/f55dd3fb59454f2e9a49c6bfd436eb0c) in [Associated Press News](https://apnews.com/) on 12 June 2018 about Anwatin Middle School, In a Perfect World, In A Perfect World Foundation, Manuela Testolini, WCCO-TV ([mirror](https://web.archive.org/web/*/https://apnews.com/f55dd3fb59454f2e9a49c6bfd436eb0c))
+ - [**"AM Prep-Music -- MUSIC ROOM DEDICATED IN PRINCE’S HONOR AT MIDDLE SCHOOL"**](https://apnews.com/f55dd3fb59454f2e9a49c6bfd436eb0c)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 12 June 2018</li><li>about [Anwatin Middle School](../../topics/anwatin-middle-school/index.md), [In a Perfect World](../../topics/in-a-perfect-world/index.md), [In A Perfect World Foundation](../../topics/in-a-perfect-world-foundation/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [WCCO-TV](../../topics/wcco-tv/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/f55dd3fb59454f2e9a49c6bfd436eb0c))</li><ul>
 
 ----
 
- - [**"Minnesota school gets music classroom in Prince’s honor"**](https://apnews.com/fe46b7e749314c719a83b9b6c8279700) in [Associated Press News](https://apnews.com/) on 10 June 2018 about Anwatin Middle School, In a Perfect World, In A Perfect World Foundation, Manuela Testolini, WCCO-TV ([mirror](https://web.archive.org/web/*/https://apnews.com/fe46b7e749314c719a83b9b6c8279700))
+ - [**"Minnesota school gets music classroom in Prince’s honor"**](https://apnews.com/fe46b7e749314c719a83b9b6c8279700)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 10 June 2018</li><li>about [Anwatin Middle School](../../topics/anwatin-middle-school/index.md), [In a Perfect World](../../topics/in-a-perfect-world/index.md), [In A Perfect World Foundation](../../topics/in-a-perfect-world-foundation/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [WCCO-TV](../../topics/wcco-tv/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/fe46b7e749314c719a83b9b6c8279700))</li><ul>
 
 ----
 
- - [**"Warner Bros. to release new Prince album in September"**](https://apnews.com/542e9ad6962e46e8882badfd663b1921) in [Associated Press News](https://apnews.com/) on 7 June 2018 about 17 Days (song), fentanyl overdose, Joni Mitchell, vault, Warner Bros. Records ([mirror](https://web.archive.org/web/*/https://apnews.com/542e9ad6962e46e8882badfd663b1921))
+ - [**"Warner Bros. to release new Prince album in September"**](https://apnews.com/542e9ad6962e46e8882badfd663b1921)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 7 June 2018</li><li>about [17 Days (song)](../../topics/song/17-days/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [vault](../../topics/vault/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/542e9ad6962e46e8882badfd663b1921))</li><ul>
 
 ----
 
- - [**"AM Prep-Music -- PRINCE ESTATE SUES OVER VANITY 6 VIDEOS"**](https://apnews.com/c5d22deac09648a79db2114b7d03edd7) in [Associated Press News](https://apnews.com/) on 4 June 2018 about Prince Estate, TuneCore, Vanity 6 ([mirror](https://web.archive.org/web/*/https://apnews.com/c5d22deac09648a79db2114b7d03edd7))
+ - [**"AM Prep-Music -- PRINCE ESTATE SUES OVER VANITY 6 VIDEOS"**](https://apnews.com/c5d22deac09648a79db2114b7d03edd7)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 4 June 2018</li><li>about [Prince Estate](../../topics/prince-estate/index.md), [TuneCore](../../topics/tunecore/index.md), [Vanity 6](../../topics/vanity-6/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/c5d22deac09648a79db2114b7d03edd7))</li><ul>
 
 ----
 
- - [**"Prince fans to celebrate musician with festival in Minnesota"**](https://apnews.com/7d216df29d83433a90f27e58788546ea) in [Associated Press News](https://apnews.com/) on 2 June 2018 about Celebration, Little Red Corvette (song) ([mirror](https://web.archive.org/web/*/https://apnews.com/7d216df29d83433a90f27e58788546ea))
+ - [**"Prince fans to celebrate musician with festival in Minnesota"**](https://apnews.com/7d216df29d83433a90f27e58788546ea)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 2 June 2018</li><li>about [Celebration (event)](../../topics/event/celebration/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/7d216df29d83433a90f27e58788546ea))</li><ul>
 
 ----
 
- - [**"Prince’s estate sues Oklahoma man over posted music videos"**](https://apnews.com/159bd401de3f409695bf84487aeb18e8) in [Associated Press News](https://apnews.com/) on 1 June 2018 about TuneCore, Vanity, Vanity 6 ([mirror](https://web.archive.org/web/*/https://apnews.com/159bd401de3f409695bf84487aeb18e8))
+ - [**"Prince’s estate sues Oklahoma man over posted music videos"**](https://apnews.com/159bd401de3f409695bf84487aeb18e8)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 1 June 2018</li><li>about [TuneCore](../../topics/tunecore/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/159bd401de3f409695bf84487aeb18e8))</li><ul>
 
 ----
 
 ## May 2018 (3)
 
- - [**"As Prince heirs stew, bankers and lawyers cash in on estate"**](https://apnews.com/d9847863113d4ff8bd70850dd6a6cd2e) by Steve Karnowski (Associated Press) in [Associated Press News](https://apnews.com/) on 18 May 2018 about Alfred Jackson, Carver County, Comerica, John L. Nelson, John R. Nelson, Kevin Eide, Norrine Nelson, Omarr Baker, Sharon Nelson, Spotify, Tidal, Troy Carter, Tyka Nelson, Universal Music Group ([mirror](https://web.archive.org/web/*/https://apnews.com/d9847863113d4ff8bd70850dd6a6cd2e))
+ - [**"As Prince heirs stew, bankers and lawyers cash in on estate"**](https://apnews.com/d9847863113d4ff8bd70850dd6a6cd2e)<ul><li>by Steve Karnowski (Associated Press)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 18 May 2018</li><li>about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Carver County](../../topics/carver-county/index.md), [Comerica](../../topics/comerica/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Spotify](../../topics/spotify/index.md), [Tidal](../../topics/tidal/index.md), [Troy Carter](../../topics/troy-carter/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Universal Music Group](../../topics/universal-music-group/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/d9847863113d4ff8bd70850dd6a6cd2e))</li><ul>
 
 ----
 
- - [**"AM Prep-Cyber Corner -- ON THE WEB: PRINCE MUSIC ON TIDAL"**](https://apnews.com/1f93d18c9ccd486c9e08f8239d47218a) in [Associated Press News](https://apnews.com/) on 14 May 2018 about Prince Estate, The Prince Estate, Tidal, vault ([mirror](https://web.archive.org/web/*/https://apnews.com/1f93d18c9ccd486c9e08f8239d47218a))
+ - [**"AM Prep-Cyber Corner -- ON THE WEB: PRINCE MUSIC ON TIDAL"**](https://apnews.com/1f93d18c9ccd486c9e08f8239d47218a)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 14 May 2018</li><li>about [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Tidal](../../topics/tidal/index.md), [vault](../../topics/vault/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/1f93d18c9ccd486c9e08f8239d47218a))</li><ul>
 
 ----
 
- - [**"Unreleased Prince music to be streamed on Tidal in 2019"**](https://apnews.com/feda2c28fd88407aa211aa7a46f6f943) by Amy Forliti (Associated Press) in [Associated Press News](https://apnews.com/) on 12 May 2018 about NPG Records, Troy Carter ([mirror](https://web.archive.org/web/*/https://apnews.com/feda2c28fd88407aa211aa7a46f6f943))
+ - [**"Unreleased Prince music to be streamed on Tidal in 2019"**](https://apnews.com/feda2c28fd88407aa211aa7a46f6f943)<ul><li>by Amy Forliti (Associated Press)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 12 May 2018</li><li>about [NPG Records](../../topics/npg-records/index.md), [Troy Carter](../../topics/troy-carter/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/feda2c28fd88407aa211aa7a46f6f943))</li><ul>
 
 ----
 
-## April 2018 (13)
+## April 2018 (14)
 
- - [**"Prince heirs sue Illinois hospital over care during overdose"**](https://apnews.com/83447f08715c4c7e92cd9427168b418d) in [Associated Press News](https://apnews.com/) on 24 April 2018 about Atlanta (place), fentanyl, George Loucas, Illinois (place), John Goetz, Kirk Johnson, Michael Todd Schulenberg, Moline, Illinois (place), oxycodone, Trinity Medical Center (place), Vicodin, Walgreens ([mirror](https://web.archive.org/web/*/https://apnews.com/83447f08715c4c7e92cd9427168b418d))
-
-----
-
- - [**"Unfinished requiem: Enigmatic in life, Prince leaves mystery in death"**](https://apnews.com/48227e49f5384fe7b343b7ccdeb00e6f) in [Associated Press News](https://apnews.com/) on 22 April 2018 about Alfred Jackson, Atlanta (place), Carver County, fentanyl, John L. Nelson, Kirk Johnson, Larry Graham, museum, Omarr Baker, Owen Husney, Sharon Nelson, Tyka Nelson ([mirror](https://web.archive.org/web/*/https://apnews.com/48227e49f5384fe7b343b7ccdeb00e6f))
+ - [**"Prince heirs sue Illinois hospital over care during overdose"**](https://apnews.com/83447f08715c4c7e92cd9427168b418d)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 24 April 2018</li><li>about [Atlanta (place)](../../topics/place/atlanta/index.md), [fentanyl](../../topics/fentanyl/index.md), [George Loucas](../../topics/george-loucas/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [John Goetz](../../topics/john-goetz/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [oxycodone](../../topics/oxycodone/index.md), [Trinity Medical Center (place)](../../topics/place/trinity-medical-center/index.md), [Vicodin](../../topics/vicodin/index.md), [Walgreens](../../topics/walgreens/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/83447f08715c4c7e92cd9427168b418d))</li><ul>
 
 ----
 
- - [**"A virtual Prince gets plenty of love in concert"**](https://apnews.com/cd016874af1c4126b63062f6ff4188ec) in [Associated Press News](https://apnews.com/) on 21 April 2018 about Graceland, Joel Weinshanker, Michael Jackson, museum ([mirror](https://web.archive.org/web/*/https://apnews.com/cd016874af1c4126b63062f6ff4188ec))
+ - [**"Unfinished requiem: Enigmatic in life, Prince leaves mystery in death"**](https://apnews.com/48227e49f5384fe7b343b7ccdeb00e6f)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 22 April 2018</li><li>about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Larry Graham](../../topics/larry-graham/index.md), [museum](../../topics/museum/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Owen Husney](../../topics/owen-husney/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/48227e49f5384fe7b343b7ccdeb00e6f))</li><ul>
 
 ----
 
- - [**"AP PHOTOS: Prince file shows extravagant but isolated life"**](https://apnews.com/873c94e63a994cb8b920e0f022d86f19) in [Associated Press News](https://apnews.com/) on 21 April 2018 about Carver County, fentanyl, museum ([mirror](https://web.archive.org/web/*/https://apnews.com/873c94e63a994cb8b920e0f022d86f19))
+ - [**"A virtual Prince gets plenty of love in concert"**](https://apnews.com/cd016874af1c4126b63062f6ff4188ec)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 21 April 2018</li><li>about [Graceland](../../topics/graceland/index.md), [Joel Weinshanker](../../topics/joel-weinshanker/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [museum](../../topics/museum/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/cd016874af1c4126b63062f6ff4188ec))</li><ul>
 
 ----
 
- - [**"Investigation says Prince was isolated, addicted and in pain"**](https://apnews.com/94806d16569541d98032ce2b2f82aa6a) by Amy Forliti (Associated Press) in [Associated Press News](https://apnews.com/) on 21 April 2018 about 3rdEyeGirl, Andrew Kornfeld, Atlanta (place), Carver County, fentanyl, Hannah Welton, Howard Kornfeld, Illinois (place), Joshua Welton, Judith Hill, Kirk Johnson, Mark Metz, Meron Bekure, Michael Todd Schulenberg, Moline, Illinois (place), oxycodone, Tyka Nelson, Vicodin ([mirror](https://web.archive.org/web/*/https://apnews.com/94806d16569541d98032ce2b2f82aa6a))
+ - [**"AP PHOTOS: Prince file shows extravagant but isolated life"**](https://apnews.com/873c94e63a994cb8b920e0f022d86f19)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 21 April 2018</li><li>about [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [museum](../../topics/museum/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/873c94e63a994cb8b920e0f022d86f19))</li><ul>
 
 ----
 
- - [**"AM Prep-Music -- PRINCE’S BODYGUARD IS HAPPY THERE ARE NO CHARGES"**](https://apnews.com/a46d9d30047e4a92b2fef45f4d7d7744) in [Associated Press News](https://apnews.com/) on 20 April 2018 about Carver County, fentanyl, Kirk Johnson, Mark Metz, Michael Todd Schulenberg, oxycodone ([mirror](https://web.archive.org/web/*/https://apnews.com/a46d9d30047e4a92b2fef45f4d7d7744))
+ - [**"Investigation says Prince was isolated, addicted and in pain"**](https://apnews.com/94806d16569541d98032ce2b2f82aa6a)<ul><li>by Amy Forliti (Associated Press)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 21 April 2018</li><li>about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [Hannah Welton](../../topics/hannah-welton/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Joshua Welton](../../topics/joshua-welton/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Mark Metz](../../topics/mark-metz/index.md), [Meron Bekure](../../topics/meron-bekure/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [oxycodone](../../topics/oxycodone/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Vicodin](../../topics/vicodin/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/94806d16569541d98032ce2b2f82aa6a))</li><ul>
 
 ----
 
- - [**"Files show rising alarm in Prince’s circle as health failed"**](https://apnews.com/01ab0aaba1ab4e719af50e79319afdfb) by Amy Forliti (Associated Press) in [Associated Press News](https://apnews.com/) on 20 April 2018 about Andrew Kornfeld, Atlanta (place), Carver County, fentanyl, Howard Kornfeld, Illinois (place), Kirk Johnson, Mark Metz, Meron Bekure, Michael Todd Schulenberg, Moline, Illinois (place), oxycodone, toxicology report ([mirror](https://web.archive.org/web/*/https://apnews.com/01ab0aaba1ab4e719af50e79319afdfb))
+ - [**"AM Prep-Music -- PRINCE’S BODYGUARD IS HAPPY THERE ARE NO CHARGES"**](https://apnews.com/a46d9d30047e4a92b2fef45f4d7d7744)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 20 April 2018</li><li>about [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Mark Metz](../../topics/mark-metz/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [oxycodone](../../topics/oxycodone/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/a46d9d30047e4a92b2fef45f4d7d7744))</li><ul>
 
 ----
 
- - [**"The Latest: Doctor said Prince ‘doesn’t look really well’"**](https://apnews.com/acdea18b521b4b7d886de7b06c2d302a) in [Associated Press News](https://apnews.com/) on 20 April 2018 about Carver County, fentanyl, fentanyl overdose, Kirk Johnson, Mark Metz, Meron Bekure, Michael Todd Schulenberg, oxycodone, Vicodin ([mirror](https://web.archive.org/web/*/https://apnews.com/acdea18b521b4b7d886de7b06c2d302a))
+ - [**"Files show rising alarm in Prince’s circle as health failed"**](https://apnews.com/01ab0aaba1ab4e719af50e79319afdfb)<ul><li>by Amy Forliti (Associated Press)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 20 April 2018</li><li>about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Mark Metz](../../topics/mark-metz/index.md), [Meron Bekure](../../topics/meron-bekure/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [oxycodone](../../topics/oxycodone/index.md), [toxicology report](../../topics/toxicology-report/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/01ab0aaba1ab4e719af50e79319afdfb))</li><ul>
 
 ----
 
- - [**"The Latest: Prince’s sister troubled by death investigation"**](https://apnews.com/86c8143c68534f938b13dfea97e2315e) in [Associated Press News](https://apnews.com/) on 20 April 2018 about Carver County, fentanyl, fentanyl overdose, Mark Metz ([mirror](https://web.archive.org/web/*/https://apnews.com/86c8143c68534f938b13dfea97e2315e))
+ - [**"The Latest: Doctor said Prince ‘doesn’t look really well’"**](https://apnews.com/acdea18b521b4b7d886de7b06c2d302a)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 20 April 2018</li><li>about [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Mark Metz](../../topics/mark-metz/index.md), [Meron Bekure](../../topics/meron-bekure/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [oxycodone](../../topics/oxycodone/index.md), [Vicodin](../../topics/vicodin/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/acdea18b521b4b7d886de7b06c2d302a))</li><ul>
 
 ----
 
- - [**"Prince’s death: Key players in investigation and aftermath"**](https://apnews.com/221f45fbd6e4440d944b38c34cffed15) in [Associated Press News](https://apnews.com/) on 19 April 2018 about Andrew Kornfeld, Carver County, fentanyl, Greg Brooker, Howard Kornfeld, Illinois (place), Jim Olson, Kirk Johnson, Mark Metz, Michael Todd Schulenberg, Moline, Illinois (place), oxycodone ([mirror](https://web.archive.org/web/*/https://apnews.com/221f45fbd6e4440d944b38c34cffed15))
+ - [**"The Latest: Prince’s sister troubled by death investigation"**](https://apnews.com/86c8143c68534f938b13dfea97e2315e)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 20 April 2018</li><li>about [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Mark Metz](../../topics/mark-metz/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/86c8143c68534f938b13dfea97e2315e))</li><ul>
 
 ----
 
- - [**"Minnesota prosecutors plan announcement on Prince death"**](https://apnews.com/abc25c93e0d14b1bab5b300fc6ef8735) in [Associated Press News](https://apnews.com/) on 18 April 2018 about Andrew Kornfeld, Carver County, fentanyl, fentanyl overdose, Howard Kornfeld, Illinois (place), Kirk Johnson, Mark Metz, Michael Todd Schulenberg, Moline, Illinois (place), oxycodone, toxicology report ([mirror](https://web.archive.org/web/*/https://apnews.com/abc25c93e0d14b1bab5b300fc6ef8735))
+ - [**"Prince’s death: Key players in investigation and aftermath"**](https://apnews.com/221f45fbd6e4440d944b38c34cffed15)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 19 April 2018</li><li>about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [Greg Brooker](../../topics/greg-brooker/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Jim Olson](../../topics/jim-olson/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Mark Metz](../../topics/mark-metz/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [oxycodone](../../topics/oxycodone/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/221f45fbd6e4440d944b38c34cffed15))</li><ul>
 
 ----
 
- - [**"The scholarly Prince: U symposium explores musical icon’s link to Minneapolis"**](https://apnews.com/6a20afbf0eeb41c9a728cbaaa1c2af71) by Jon Bream in [Associated Press News](https://apnews.com/) on 17 April 2018 about Joni Mitchell, Mayte, Mayte Garcia ([mirror](https://web.archive.org/web/*/https://apnews.com/6a20afbf0eeb41c9a728cbaaa1c2af71))
+ - [**"Minnesota prosecutors plan announcement on Prince death"**](https://apnews.com/abc25c93e0d14b1bab5b300fc6ef8735)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 18 April 2018</li><li>about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Mark Metz](../../topics/mark-metz/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [oxycodone](../../topics/oxycodone/index.md), [toxicology report](../../topics/toxicology-report/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/abc25c93e0d14b1bab5b300fc6ef8735))</li><ul>
 
 ----
 
- - [**"Minnesota music mogul writes about his life with Elvis, Jimi, Janis and Prince"**](https://apnews.com/40d0b497f55245a88a7b38c926003e4f) in [Associated Press News](https://apnews.com/) on 7 April 2018 about Central High, Chris Moon, contract, Jesse Johnson, memoir, Owen Husney, St. Louis Park (place), Warner Bros. Records ([mirror](https://web.archive.org/web/*/https://apnews.com/40d0b497f55245a88a7b38c926003e4f))
+ - [**"Timeline of key events in investigation into Prince’s death"**](https://apnews.com/article/c6322559d0574b51a99f43da1d26f8d0)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 18 April 2018</li><li>about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [California (place)](../../topics/place/california/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Mark Metz](../../topics/mark-metz/index.md), [Michael Schulenberg](../../topics/michael-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [oxycodone](../../topics/oxycodone/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Percocet](../../topics/percocet/index.md), [toxicology report](../../topics/toxicology-report/index.md), [U-47700](../../topics/u-47700/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/c6322559d0574b51a99f43da1d26f8d0))</li><ul>
+
+----
+
+ - [**"The scholarly Prince: U symposium explores musical icon’s link to Minneapolis"**](https://apnews.com/6a20afbf0eeb41c9a728cbaaa1c2af71)<ul><li>by Jon Bream</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 17 April 2018</li><li>about [Joni Mitchell](../../topics/joni-mitchell/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/6a20afbf0eeb41c9a728cbaaa1c2af71))</li><ul>
+
+----
+
+ - [**"Minnesota music mogul writes about his life with Elvis, Jimi, Janis and Prince"**](https://apnews.com/40d0b497f55245a88a7b38c926003e4f)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 7 April 2018</li><li>about [Central High](../../topics/central-high/index.md), [Chris Moon](../../topics/chris-moon/index.md), [contract](../../topics/contract/index.md), [Jesse Johnson](../../topics/jesse-johnson/index.md), [memoir](../../topics/memoir/index.md), [Owen Husney](../../topics/owen-husney/index.md), [St. Louis Park (place)](../../topics/place/st-louis-park/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/40d0b497f55245a88a7b38c926003e4f))</li><ul>
 
 ----
 
 ## March 2018 (11)
 
- - [**"Prince family lawyers to view data for potential lawsuit"**](https://apnews.com/72fbe461381a43a096ebd1c15fae80bf) in [Associated Press News](https://apnews.com/) on 28 March 2018 about Carver County, Illinois (place), Mark Metz, Moline, Illinois (place) ([mirror](https://web.archive.org/web/*/https://apnews.com/72fbe461381a43a096ebd1c15fae80bf))
+ - [**"Prince family lawyers to view data for potential lawsuit"**](https://apnews.com/72fbe461381a43a096ebd1c15fae80bf)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 28 March 2018</li><li>about [Carver County](../../topics/carver-county/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Mark Metz](../../topics/mark-metz/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/72fbe461381a43a096ebd1c15fae80bf))</li><ul>
 
 ----
 
- - [**"AM Prep-Music -- PRINCE CELEBRATION PLANNED FOR NEXT MONTH / PRINCE - TOXICOLOGY"**](https://apnews.com/c62930a448b849a785758cf9f450f418) in [Associated Press News](https://apnews.com/) on 27 March 2018 about Dez Dickerson, fentanyl, fentanyl overdose, Matt Fink, Sheila E., The Revolution, toxicology report, tribute fence ([mirror](https://web.archive.org/web/*/https://apnews.com/c62930a448b849a785758cf9f450f418))
+ - [**"AM Prep-Music -- PRINCE CELEBRATION PLANNED FOR NEXT MONTH / PRINCE - TOXICOLOGY"**](https://apnews.com/c62930a448b849a785758cf9f450f418)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 27 March 2018</li><li>about [Dez Dickerson](../../topics/dez-dickerson/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Matt Fink](../../topics/matt-fink/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Revolution](../../topics/the-revolution/index.md), [toxicology report](../../topics/toxicology-report/index.md), [tribute fence](../../topics/tribute-fence/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/c62930a448b849a785758cf9f450f418))</li><ul>
 
 ----
 
- - [**"Experts: Prince toxicology report shows very high drug level"**](https://apnews.com/f80bf6952ecf4d02a675b9fac69d7dc6) by Amy Forliti (Associated Press) in [Associated Press News](https://apnews.com/) on 27 March 2018 about fentanyl, toxicology report ([mirror](https://web.archive.org/web/*/https://apnews.com/f80bf6952ecf4d02a675b9fac69d7dc6))
+ - [**"Experts: Prince toxicology report shows very high drug level"**](https://apnews.com/f80bf6952ecf4d02a675b9fac69d7dc6)<ul><li>by Amy Forliti (Associated Press)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 27 March 2018</li><li>about [fentanyl](../../topics/fentanyl/index.md), [toxicology report](../../topics/toxicology-report/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/f80bf6952ecf4d02a675b9fac69d7dc6))</li><ul>
 
 ----
 
- - [**"PM Prep-Segue -- PRINCE - TRIBUTE FENCE"**](https://apnews.com/49cbd4fa93574d6eb98f78ca9bdc6b65) in [Associated Press News](https://apnews.com/) on 26 March 2018 about tribute fence ([mirror](https://web.archive.org/web/*/https://apnews.com/49cbd4fa93574d6eb98f78ca9bdc6b65))
+ - [**"PM Prep-Segue -- PRINCE - TRIBUTE FENCE"**](https://apnews.com/49cbd4fa93574d6eb98f78ca9bdc6b65)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 26 March 2018</li><li>about [tribute fence](../../topics/tribute-fence/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/49cbd4fa93574d6eb98f78ca9bdc6b65))</li><ul>
 
 ----
 
- - [**"The Latest: Fentanyl in Prince’s body was exceedingly high"**](https://apnews.com/72d21087451948ed872cce0815f0e426) in [Associated Press News](https://apnews.com/) on 26 March 2018 about Celebration 2018, Dez Dickerson, fentanyl, fentanyl overdose, Matt Fink, The Revolution, toxicology report, tribute fence ([mirror](https://web.archive.org/web/*/https://apnews.com/72d21087451948ed872cce0815f0e426))
+ - [**"The Latest: Fentanyl in Prince’s body was exceedingly high"**](https://apnews.com/72d21087451948ed872cce0815f0e426)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 26 March 2018</li><li>about [Celebration 2018 (event)](../../topics/event/celebration-2018/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Matt Fink](../../topics/matt-fink/index.md), [The Revolution](../../topics/the-revolution/index.md), [toxicology report](../../topics/toxicology-report/index.md), [tribute fence](../../topics/tribute-fence/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/72d21087451948ed872cce0815f0e426))</li><ul>
 
 ----
 
- - [**"Officials to turn over Prince investigative files to family"**](https://apnews.com/d839a494ad2a4dc0908321c824244b0d) in [Associated Press News](https://apnews.com/) on 22 March 2018 about Carver County, fentanyl, John Goetz, Mark Metz ([mirror](https://web.archive.org/web/*/https://apnews.com/d839a494ad2a4dc0908321c824244b0d))
+ - [**"Officials to turn over Prince investigative files to family"**](https://apnews.com/d839a494ad2a4dc0908321c824244b0d)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 22 March 2018</li><li>about [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [John Goetz](../../topics/john-goetz/index.md), [Mark Metz](../../topics/mark-metz/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/d839a494ad2a4dc0908321c824244b0d))</li><ul>
 
 ----
 
- - [**"Music by Prince’s father featured on new album, tracking ‘that DNA thing’"**](https://apnews.com/869e0302972c4e36aa99981332602cd0) in [Associated Press News](https://apnews.com/) on 9 March 2018 about John L. Nelson, museum, Owen Husney, Sharon Nelson, Trump ([mirror](https://web.archive.org/web/*/https://apnews.com/869e0302972c4e36aa99981332602cd0))
+ - [**"Music by Prince’s father featured on new album, tracking ‘that DNA thing’"**](https://apnews.com/869e0302972c4e36aa99981332602cd0)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 9 March 2018</li><li>about [John L. Nelson](../../topics/john-l-nelson/index.md), [museum](../../topics/museum/index.md), [Owen Husney](../../topics/owen-husney/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Trump](../../topics/trump/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/869e0302972c4e36aa99981332602cd0))</li><ul>
 
 ----
 
- - [**"Paper: Solicitor’s records show $932 island hotel spending"**](https://apnews.com/9079400c8e7745559ed13953e9a658ef) in [Associated Press News](https://apnews.com/) on 9 March 2018 about Minnesota Twins ([mirror](https://web.archive.org/web/*/https://apnews.com/9079400c8e7745559ed13953e9a658ef))
+ - [**"Paper: Solicitor’s records show $932 island hotel spending"**](https://apnews.com/9079400c8e7745559ed13953e9a658ef)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 9 March 2018</li><li>about [Minnesota Twins](../../topics/minnesota-twins/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/9079400c8e7745559ed13953e9a658ef))</li><ul>
 
 ----
 
- - [**"Review: John L. Nelson Project records jazz by Prince’s dad"**](https://apnews.com/5dc00ec90459479b8a584f9ab9969188) in [Associated Press News](https://apnews.com/) on 7 March 2018 about John L. Nelson, Trump ([mirror](https://web.archive.org/web/*/https://apnews.com/5dc00ec90459479b8a584f9ab9969188))
+ - [**"Review: John L. Nelson Project records jazz by Prince’s dad"**](https://apnews.com/5dc00ec90459479b8a584f9ab9969188)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 7 March 2018</li><li>about [John L. Nelson](../../topics/john-l-nelson/index.md), [Trump](../../topics/trump/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/5dc00ec90459479b8a584f9ab9969188))</li><ul>
 
 ----
 
- - [**"Prince heirs claim excessive lawyer’s fees will leave ‘little … to pass on’"**](https://apnews.com/e000dd12d3744e9aa2de9951b129a0a0) in [Associated Press News](https://apnews.com/) on 3 March 2018 about Alfred Jackson, Comerica, fentanyl, John Nelson, Kevin Eide, Omarr Baker, Tyka Nelson ([mirror](https://web.archive.org/web/*/https://apnews.com/e000dd12d3744e9aa2de9951b129a0a0))
+ - [**"Prince heirs claim excessive lawyer’s fees will leave ‘little … to pass on’"**](https://apnews.com/e000dd12d3744e9aa2de9951b129a0a0)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 3 March 2018</li><li>about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Comerica](../../topics/comerica/index.md), [fentanyl](../../topics/fentanyl/index.md), [John Nelson](../../topics/john-nelson/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/e000dd12d3744e9aa2de9951b129a0a0))</li><ul>
 
 ----
 
- - [**"Recording of jazz compositions by Prince’s father released"**](https://apnews.com/266d5d7ee9454715a6f8c4cfddb7bf77) in [Associated Press News](https://apnews.com/) on 2 March 2018 about John L. Nelson, John Nelson, Sharon Nelson ([mirror](https://web.archive.org/web/*/https://apnews.com/266d5d7ee9454715a6f8c4cfddb7bf77))
+ - [**"Recording of jazz compositions by Prince’s father released"**](https://apnews.com/266d5d7ee9454715a6f8c4cfddb7bf77)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 2 March 2018</li><li>about [John L. Nelson](../../topics/john-l-nelson/index.md), [John Nelson](../../topics/john-nelson/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/266d5d7ee9454715a6f8c4cfddb7bf77))</li><ul>
 
 ----
 
-## February 2018 (6)
+## February 2018 (7)
 
- - [**"AM Prep-Music -- PRINCE ITEMS WILL BE AUCTIONED"**](https://apnews.com/6eccc3589f584e66a710c875b24a7078) in [Associated Press News](https://apnews.com/) on 6 February 2018 about auction, Mayte ([mirror](https://web.archive.org/web/*/https://apnews.com/6eccc3589f584e66a710c875b24a7078))
-
-----
-
- - [**"AP-MN--Minnesota News Digest 6 pm, MN -- PRINCE-MEMORABILIA AUCTION"**](https://apnews.com/bbbec319d2d045f991f836f93397b890) in [Associated Press News](https://apnews.com/) on 6 February 2018 about auction ([mirror](https://web.archive.org/web/*/https://apnews.com/bbbec319d2d045f991f836f93397b890))
+ - [**"Janelle Monae misses mentor Prince"**](https://apnews.com/article/575925d0a2a94eb2be4c07c7bfe15b56)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 23 February 2018</li><li>about [Dirty Computer (album)](../../topics/album/dirty-computer/index.md), [Janelle Monae](../../topics/janelle-monae/index.md), [St Bart’s (place)](../../topics/place/st-bart-s/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [The ArchAndroid (album)](../../topics/album/the-archandroid/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/575925d0a2a94eb2be4c07c7bfe15b56))</li><ul>
 
 ----
 
- - [**"Prince white Cloud guitar among items set for auction"**](https://apnews.com/585874d2a9a74663ac38ebc688d75a5d) in [Associated Press News](https://apnews.com/) on 5 February 2018 about auction, Cloud guitar, Dave Rusan, Purple Rain (movie) ([mirror](https://web.archive.org/web/*/https://apnews.com/585874d2a9a74663ac38ebc688d75a5d))
+ - [**"AM Prep-Music -- PRINCE ITEMS WILL BE AUCTIONED"**](https://apnews.com/6eccc3589f584e66a710c875b24a7078)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 6 February 2018</li><li>about [auction](../../topics/auction/index.md), [Mayte](../../topics/mayte/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/6eccc3589f584e66a710c875b24a7078))</li><ul>
 
 ----
 
- - [**"Justin Timberlake previews Super Bowl halftime show: No Janet Jackson"**](https://apnews.com/7c4321049c904c9fa912ac8290000f23) in [Associated Press News](https://apnews.com/) on 2 February 2018 about Janet Jackson, Justin Timberlake, Super Bowl ([mirror](https://web.archive.org/web/*/https://apnews.com/7c4321049c904c9fa912ac8290000f23))
+ - [**"AP-MN--Minnesota News Digest 6 pm, MN -- PRINCE-MEMORABILIA AUCTION"**](https://apnews.com/bbbec319d2d045f991f836f93397b890)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 6 February 2018</li><li>about [auction](../../topics/auction/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/bbbec319d2d045f991f836f93397b890))</li><ul>
 
 ----
 
- - [**"Prince is gone, but his spirit lives at Minnesota Super Bowl"**](https://apnews.com/760ec69e7a2e430a9879834f5f2eae63) in [Associated Press News](https://apnews.com/) on 2 February 2018 about First Avenue (place), hologram, Jimmy Jam, Minnesota Vikings, Morris Day, Morris Hayes, museum, New Power Generation, Sheila E., Super Bowl, Terry Lewis, The Revolution ([mirror](https://web.archive.org/web/*/https://apnews.com/760ec69e7a2e430a9879834f5f2eae63))
+ - [**"Prince white Cloud guitar among items set for auction"**](https://apnews.com/585874d2a9a74663ac38ebc688d75a5d)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 5 February 2018</li><li>about [auction](../../topics/auction/index.md), [Cloud guitar](../../topics/cloud-guitar/index.md), [Dave Rusan](../../topics/dave-rusan/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/585874d2a9a74663ac38ebc688d75a5d))</li><ul>
 
 ----
 
- - [**"Timberlake rules out ’N Sync reunion at Super Bowl show"**](https://apnews.com/d0f93adfdc504dc48fb737f7af717b4d) in [Associated Press News](https://apnews.com/) on 1 February 2018 about Justin Timberlake, Super Bowl ([mirror](https://web.archive.org/web/*/https://apnews.com/d0f93adfdc504dc48fb737f7af717b4d))
+ - [**"Justin Timberlake previews Super Bowl halftime show: No Janet Jackson"**](https://apnews.com/7c4321049c904c9fa912ac8290000f23)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 2 February 2018</li><li>about [Janet Jackson](../../topics/janet-jackson/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [Super Bowl](../../topics/super-bowl/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/7c4321049c904c9fa912ac8290000f23))</li><ul>
+
+----
+
+ - [**"Prince is gone, but his spirit lives at Minnesota Super Bowl"**](https://apnews.com/760ec69e7a2e430a9879834f5f2eae63)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 2 February 2018</li><li>about [First Avenue (place)](../../topics/place/first-avenue/index.md), [hologram](../../topics/hologram/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Minnesota Vikings](../../topics/minnesota-vikings/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Hayes](../../topics/morris-hayes/index.md), [museum](../../topics/museum/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Revolution](../../topics/the-revolution/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/760ec69e7a2e430a9879834f5f2eae63))</li><ul>
+
+----
+
+ - [**"Timberlake rules out ’N Sync reunion at Super Bowl show"**](https://apnews.com/d0f93adfdc504dc48fb737f7af717b4d)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 1 February 2018</li><li>about [Justin Timberlake](../../topics/justin-timberlake/index.md), [Super Bowl](../../topics/super-bowl/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/d0f93adfdc504dc48fb737f7af717b4d))</li><ul>
 
 ----
 
 ## January 2018 (5)
 
- - [**"Justin Timberlake Super Bowl bash upsets some Prince fans"**](https://apnews.com/06f3c57285d142b4968a920090c3afe8) in [Associated Press News](https://apnews.com/) on 30 January 2018 about Jeremiah Freed, Justin Timberlake, museum, Super Bowl ([mirror](https://web.archive.org/web/*/https://apnews.com/06f3c57285d142b4968a920090c3afe8))
+ - [**"Justin Timberlake Super Bowl bash upsets some Prince fans"**](https://apnews.com/06f3c57285d142b4968a920090c3afe8)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 30 January 2018</li><li>about [Jeremiah Freed](../../topics/jeremiah-freed/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [museum](../../topics/museum/index.md), [Super Bowl](../../topics/super-bowl/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/06f3c57285d142b4968a920090c3afe8))</li><ul>
 
 ----
 
- - [**"5 Minneapolis Super Bowl concerts worth the splurge, plus 5 cheaper alternatives"**](https://apnews.com/b5354fb801f94674abaf28203dd6eec2) in [Associated Press News](https://apnews.com/) on 25 January 2018 about André Cymone, Brother Jules, Dakota (place), fDeluxe, First Avenue (place), Gwen Stefani, Morris Day, New Power Generation, Sheila E., Super Bowl, The Family, The Revolution, Xcel Energy Center (place) ([mirror](https://web.archive.org/web/*/https://apnews.com/b5354fb801f94674abaf28203dd6eec2))
+ - [**"5 Minneapolis Super Bowl concerts worth the splurge, plus 5 cheaper alternatives"**](https://apnews.com/b5354fb801f94674abaf28203dd6eec2)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 25 January 2018</li><li>about [André Cymone](../../topics/andr-cymone/index.md), [Brother Jules](../../topics/brother-jules/index.md), [Dakota (place)](../../topics/place/dakota/index.md), [fDeluxe](../../topics/fdeluxe/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Gwen Stefani](../../topics/gwen-stefani/index.md), [Morris Day](../../topics/morris-day/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Nooky Jones](../../topics/nooky-jones/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Soul Asylum](../../topics/soul-asylum/index.md), [Super Bowl](../../topics/super-bowl/index.md), [The Family](../../topics/the-family/index.md), [The Revolution](../../topics/the-revolution/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/b5354fb801f94674abaf28203dd6eec2))</li><ul>
 
 ----
 
- - [**"Super Bowl Live free concerts schedule revealed with new Minnesota all-stars"**](https://apnews.com/359610d132dc4676a00e9e4da420ecaf) in [Associated Press News](https://apnews.com/) on 19 January 2018 about fDeluxe, Jimmy Jam, Morris Day, New Power Generation, Sheila E., Super Bowl, Terry Lewis, The Revolution ([mirror](https://web.archive.org/web/*/https://apnews.com/359610d132dc4676a00e9e4da420ecaf))
+ - [**"Super Bowl Live free concerts schedule revealed with new Minnesota all-stars"**](https://apnews.com/359610d132dc4676a00e9e4da420ecaf)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 19 January 2018</li><li>about [Andre Cymone](../../topics/andre-cymone/index.md), [Brother Jules](../../topics/brother-jules/index.md), [DJ Dudley D](../../topics/dj-dudley-d/index.md), [fDeluxe](../../topics/fdeluxe/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Soul Asylum](../../topics/soul-asylum/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Revolution](../../topics/the-revolution/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/359610d132dc4676a00e9e4da420ecaf))</li><ul>
 
 ----
 
- - [**"Embrace the Bold North in Minneapolis for Super Bowl"**](https://apnews.com/5ddc01f147644c79820a62b065eb5efb) in [Associated Press News](https://apnews.com/) on 17 January 2018 about airport, First Avenue (place), Jimmy Jam, museum, Super Bowl, Terry Lewis, Xcel Energy Center (place) ([mirror](https://web.archive.org/web/*/https://apnews.com/5ddc01f147644c79820a62b065eb5efb))
+ - [**"Embrace the Bold North in Minneapolis for Super Bowl"**](https://apnews.com/5ddc01f147644c79820a62b065eb5efb)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 17 January 2018</li><li>about [airport](../../topics/airport/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [museum](../../topics/museum/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/5ddc01f147644c79820a62b065eb5efb))</li><ul>
 
 ----
 
- - [**"Prince photographer Afshin Shahidi shares his intimate trove"**](https://apnews.com/01f587107e664a8c8c2287ac84f65358) in [Associated Press News](https://apnews.com/) on 16 January 2018 about Afshin Shahidi, airport, trademark ([mirror](https://web.archive.org/web/*/https://apnews.com/01f587107e664a8c8c2287ac84f65358))
+ - [**"Prince photographer Afshin Shahidi shares his intimate trove"**](https://apnews.com/01f587107e664a8c8c2287ac84f65358)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 16 January 2018</li><li>about [Afshin Shahidi](../../topics/afshin-shahidi/index.md), [airport](../../topics/airport/index.md), [trademark](../../topics/trademark/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/01f587107e664a8c8c2287ac84f65358))</li><ul>
 
 ----
 
-[Home](../)
+[Home](../index.md)

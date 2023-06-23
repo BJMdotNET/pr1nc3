@@ -1,0 +1,13 @@
+items:
+- name: 2017
+  href: the-current-2017.md
+  homepage: the-current-2017.md
+- name: 2018
+  href: the-current-2018.md
+  homepage: the-current-2018.md
+- name: 2019
+  href: the-current-2019.md
+  homepage: the-current-2019.md
+- name: 2020
+  href: the-current-2020.md
+  homepage: the-current-2020.md

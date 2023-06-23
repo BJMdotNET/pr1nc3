@@ -1,7 +1,7 @@
 # www.soundonsound.com
 
-  * [2012](./www-soundonsound-com-2012.md/) (1)
+  * [2012](./www-soundonsound-com-2012.md) (1)
 
 ----
 
-[Home](../)
+[Home](../index.md)

@@ -1,7 +1,7 @@
 # Reading Eagle
 
-  * [2019](./reading-eagle-2019.md/) (1)
+  * [2019](./reading-eagle-2019.md) (1)
 
 ----
 
-[Home](../)
+[Home](../index.md)

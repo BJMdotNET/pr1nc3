@@ -2,8 +2,8 @@
 
 ## April 2019 (1)
 
- - [**"LATEST NEWS 25.4.19"**](https://recordcollectormag.com/latest-news-25-4-19) in [Record Collector](https://recordcollectormag.com/) on 25 April 2019 about Billy Gibbons, Chaka Khan, Macy Gray, Michael Kirk, Netflix, Orianthi, Randy Bachman, Robby Krieger, ZZ Top ([mirror](https://web.archive.org/web/*/https://recordcollectormag.com/latest-news-25-4-19))
+ - [**"LATEST NEWS 25.4.19"**](https://recordcollectormag.com/latest-news-25-4-19)<ul><li>in [Record Collector](https://recordcollectormag.com/)</li><li>on 25 April 2019</li><li>about [Billy Gibbons](../../topics/billy-gibbons/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Macy Gray](../../topics/macy-gray/index.md), [Michael Kirk](../../topics/michael-kirk/index.md), [Netflix](../../topics/netflix/index.md), [Orianthi](../../topics/orianthi/index.md), [Randy Bachman](../../topics/randy-bachman/index.md), [Robby Krieger](../../topics/robby-krieger/index.md), [ZZ Top](../../topics/zz-top/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://recordcollectormag.com/latest-news-25-4-19))</li><ul>
 
 ----
 
-[Home](../)
+[Home](../index.md)

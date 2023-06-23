@@ -1,0 +1,49 @@
+{
+  "build": {
+    "globalMetadata": {
+      "_appTitle": "PR1NC3 n3wz",
+      "_appName": "PR1NC3",
+      "_appFooter": "PR1NC3",
+      "_copyrightFooter": "PR1NC3",
+      "_lang": "en",
+      "_enableSearch": true,
+      "_disableSideFilter": false,
+      "_enableNewTab": true,
+      "_disableContribution": true,
+      "_disableBreadcrumb": false
+    },
+    "content": [
+      {
+        "files": [
+"toc.yml",
+"*.md",
+"publications/**/toc.yml",
+"publications/**.md",
+"authors/**/toc.yml",
+"authors/**.md",
+"dates/**/toc.yml",
+"dates/**.md",
+"topics/**/toc.yml",
+"topics/**.md"
+        ]
+      }
+    ],
+    "resource": [
+      {
+        "files": [
+
+        ]
+      }
+    ],
+    "dest": "_site",
+    "globalMetadataFiles": [],
+    "fileMetadataFiles": [],
+    "template": [
+      "default",
+      "modern"
+    ],
+    "postProcessors": [],
+    "keepFileLink": false,
+    "disableGitFeatures": false
+  }
+}

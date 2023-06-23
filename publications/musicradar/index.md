@@ -1,7 +1,7 @@
 # MusicRadar
 
-  * [2019](./musicradar-2019.md/) (2)
+  * [2019](./musicradar-2019.md) (2)
 
 ----
 
-[Home](../)
+[Home](../index.md)

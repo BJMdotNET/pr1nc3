@@ -1,7 +1,7 @@
 # Afropunk
 
-  * [2018](./afropunk-2018.md/) (1)
+  * [2018](./afropunk-2018.md) (1)
 
 ----
 
-[Home](../)
+[Home](../index.md)

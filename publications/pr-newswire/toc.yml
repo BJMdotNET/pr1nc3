@@ -1,0 +1,16 @@
+items:
+- name: 2016
+  href: pr-newswire-2016.md
+  homepage: pr-newswire-2016.md
+- name: 2017
+  href: pr-newswire-2017.md
+  homepage: pr-newswire-2017.md
+- name: 2018
+  href: pr-newswire-2018.md
+  homepage: pr-newswire-2018.md
+- name: 2019
+  href: pr-newswire-2019.md
+  homepage: pr-newswire-2019.md
+- name: 2020
+  href: pr-newswire-2020.md
+  homepage: pr-newswire-2020.md

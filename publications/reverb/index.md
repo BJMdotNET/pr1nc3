@@ -1,7 +1,7 @@
 # Reverb
 
-  * [2019](./reverb-2019.md/) (1)
+  * [2019](./reverb-2019.md) (1)
 
 ----
 
-[Home](../)
+[Home](../index.md)

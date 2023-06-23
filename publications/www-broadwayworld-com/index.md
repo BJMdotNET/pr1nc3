@@ -1,7 +1,7 @@
 # www.broadwayworld.com
 
-  * [2020](./www-broadwayworld-com-2020.md/) (1)
+  * [2020](./www-broadwayworld-com-2020.md) (1)
 
 ----
 
-[Home](../)
+[Home](../index.md)

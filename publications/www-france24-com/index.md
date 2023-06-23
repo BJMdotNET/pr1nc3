@@ -1,7 +1,7 @@
 # www.france24.com
 
-  * [2019](./www-france24-com-2019.md/) (1)
+  * [2019](./www-france24-com-2019.md) (1)
 
 ----
 
-[Home](../)
+[Home](../index.md)

@@ -1,0 +1,13 @@
+items:
+- name: 2016
+  href: vulture-2016.md
+  homepage: vulture-2016.md
+- name: 2018
+  href: vulture-2018.md
+  homepage: vulture-2018.md
+- name: 2019
+  href: vulture-2019.md
+  homepage: vulture-2019.md
+- name: 2020
+  href: vulture-2020.md
+  homepage: vulture-2020.md

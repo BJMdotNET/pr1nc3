@@ -1,7 +1,7 @@
 # www.iheart.com
 
-  * [2019](./www-iheart-com-2019.md/) (1)
+  * [2019](./www-iheart-com-2019.md) (1)
 
 ----
 
-[Home](../)
+[Home](../index.md)

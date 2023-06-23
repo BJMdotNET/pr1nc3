@@ -1,0 +1,10 @@
+items:
+- name: 2018
+  href: legacy-recordings-2018.md
+  homepage: legacy-recordings-2018.md
+- name: 2019
+  href: legacy-recordings-2019.md
+  homepage: legacy-recordings-2019.md
+- name: 2020
+  href: legacy-recordings-2020.md
+  homepage: legacy-recordings-2020.md

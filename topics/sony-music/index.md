@@ -1,0 +1,7 @@
+# Sony Music
+
+ - [**"What were the specifics of Prince's “$100 million contract” with Warner Bros. Records in 1992?"**](https://musicfans.stackexchange.com/a/89/129)<ul><li>in [Music Fans Stack Exchange](https://musicfans.stackexchange.com/)</li><li>on 15 February 2015</li><li>about [advance](../../topics/advance/index.md), [contract](../../topics/contract/index.md), [Controversy Music](../../topics/controversy-music/index.md), [Diamonds & Pearls (album)](../../topics/album/diamonds-pearls/index.md), [Gary Stiffelman](../../topics/gary-stiffelman/index.md), [Gilbert Davidson](../../topics/gilbert-davidson/index.md), [Jill Wills](../../topics/jill-wills/index.md), [Jon Bream](../../topics/jon-bream/index.md), [Lovesexy (album)](../../topics/album/lovesexy/index.md), [Madonna](../../topics/madonna/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [Paisley Park Records](../../topics/paisley-park-records/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [royalties](../../topics/royalties/index.md), [Sony Music](../../topics/sony-music/index.md), [Time Warner](../../topics/time-warner/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md), [Warner/Chappell Music](../../topics/warner-chappell-music/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://musicfans.stackexchange.com/a/89/129))</li><ul>
+
+----
+
+[Home](../index.md)

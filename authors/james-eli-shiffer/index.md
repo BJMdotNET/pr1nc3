@@ -1,7 +1,7 @@
 # James Eli Shiffer
 
- - [**"YouTube 'dancing baby' video with Prince music births a legal battle that won't go away"**](http://www.startribune.com/youtube-dancing-baby-video-births-a-legal-battle-that-won-t-go-away/367109661/) by James Eli Shiffer in [Minneapolis Star Tribune (HTTP)](http://www.startribune.com/) on 30 January 2016 about Super Bowl, YouTube ([mirror](https://web.archive.org/web/*/http://www.startribune.com/youtube-dancing-baby-video-births-a-legal-battle-that-won-t-go-away/367109661/))
+ - [**"YouTube 'dancing baby' video with Prince music births a legal battle that won't go away"**](https://www.startribune.com/youtube-dancing-baby-video-births-a-legal-battle-that-won-t-go-away/367109661/)<ul><li>by James Eli Shiffer</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 30 January 2016</li><li>about [Super Bowl](../../topics/super-bowl/index.md), [YouTube](../../topics/youtube/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/youtube-dancing-baby-video-births-a-legal-battle-that-won-t-go-away/367109661/))</li><ul>
 
 ----
 
-[Home](../)
+[Home](../index.md)

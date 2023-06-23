@@ -1,11 +1,7 @@
 # Witness 4 The Prosecution (song)
 
- - [**"Prince Estate Drops Previously Unreleased 1979 Version of ‘I Could Never Take the Place of Your Man’ (Listen)"**](https://variety.com/2020/music/news/prince-unreleased-i-could-never-take-the-place-listen-1234708369/) in [Variety](https://variety.com/) on 16 July 2020 about Witness 4 The Prosecution (song) ([mirror](https://web.archive.org/web/*/https://variety.com/2020/music/news/prince-unreleased-i-could-never-take-the-place-listen-1234708369/))
+ - [**"Prince’s Classic ‘Sign O’ the Times’ Deluxe Reissue Coming in September, With 63 Bonus Tracks"**](https://variety.com/2020/music/news/prince-sign-o-the-times-deluxe-reissue-bonus-tracks-1234689805/)<ul><li>in [Variety](https://variety.com/)</li><li>on 25 June 2020</li><li>about [Andrea Swensson](../../../topics/andrea-swensson/index.md), [bootleg](../../../topics/bootleg/index.md), [Daphne A. Brooks](../../../topics/daphne-a-brooks/index.md), [Dave Chappelle](../../../topics/dave-chappelle/index.md), [Dream Factory (album)](../../../topics/album/dream-factory/index.md), [Duane Tudahl](../../../topics/duane-tudahl/index.md), [I Could Never Take The Place Of Your Man (song)](../../../topics/song/i-could-never-take-the-place-of-your-man/index.md), [Jeff Katz](../../../topics/jeff-katz/index.md), [Lenny Kravitz](../../../topics/lenny-kravitz/index.md), [Miles Davis](../../../topics/miles-davis/index.md), [Susan Rogers](../../../topics/susan-rogers/index.md), [The Revolution](../../../topics/the-revolution/index.md), [U Got the Look (song)](../../../topics/song/u-got-the-look/index.md), [vault](../../../topics/vault/index.md), [Witness 4 The Prosecution (song)](../../../topics/song/witness-4-the-prosecution/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://variety.com/2020/music/news/prince-sign-o-the-times-deluxe-reissue-bonus-tracks-1234689805/))</li><ul>
 
 ----
 
- - [**"Prince’s Classic ‘Sign O’ the Times’ Deluxe Reissue Coming in September, With 63 Bonus Tracks"**](https://variety.com/2020/music/news/prince-sign-o-the-times-deluxe-reissue-bonus-tracks-1234689805/) in [Variety](https://variety.com/) on 25 June 2020 about Andrea Swensson, bootleg, Daphne A. Brooks, Dave Chappelle, Dream Factory (album), Duane Tudahl, I Could Never Take The Place Of Your Man (song), Jeff Katz, Lenny Kravitz, Miles Davis, Susan Rogers, The Revolution, U Got the Look (song), vault, Witness 4 The Prosecution (song) ([mirror](https://web.archive.org/web/*/https://variety.com/2020/music/news/prince-sign-o-the-times-deluxe-reissue-bonus-tracks-1234689805/))
-
-----
-
-[Home](../)
+[Home](../index.md)

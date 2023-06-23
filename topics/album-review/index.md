@@ -1,7 +1,7 @@
 # album review
 
-  * [Originals (album review)](./album-review/originals/) (9)
+  * [Originals (album review)](../album-review/originals/index.md) (9)
 
 ----
 
-[Home](../)
+[Home](../index.md)

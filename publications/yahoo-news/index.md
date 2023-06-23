@@ -1,7 +1,7 @@
 # Yahoo! News
 
-  * [2019](./yahoo-news-2019.md/) (2)
+  * [2019](./yahoo-news-2019.md) (2)
 
 ----
 
-[Home](../)
+[Home](../index.md)
