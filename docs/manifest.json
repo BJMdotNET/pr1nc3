@@ -1586,6 +1586,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "dates/1988/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "dates/1988/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "dates/1989/index.md",
       "output": {
         ".html": {
@@ -2335,6 +2345,26 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "publications/associated-press-news/associated-press-news-1987.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/associated-press-news/associated-press-news-1987.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/associated-press-news/associated-press-news-1988.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/associated-press-news/associated-press-news-1988.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "publications/associated-press-news/associated-press-news-1991.md",
       "output": {
         ".html": {
@@ -2369,6 +2399,16 @@
       "output": {
         ".html": {
           "relative_path": "publications/associated-press-news/associated-press-news-2002.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/associated-press-news/associated-press-news-2003.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/associated-press-news/associated-press-news-2003.html"
         }
       },
       "version": ""
@@ -8588,6 +8628,39 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "publications/sony-music/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/sony-music/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/sony-music/sony-music-2018.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/sony-music/sony-music-2018.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "publications/sony-music/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "publications/sony-music/toc.html"
+        },
+        ".json": {
+          "relative_path": "publications/sony-music/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "publications/soultracks/index.md",
       "output": {
         ".html": {
@@ -14418,6 +14491,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/album/last-call/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/album/last-call/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/album/lotus-flower/index.md",
       "output": {
         ".html": {
@@ -14462,6 +14545,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/album/mplsound/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/album/musicology/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/album/musicology/index.html"
         }
       },
       "version": ""
@@ -14802,6 +14895,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/american-bandstand/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/american-civil-liberties-union/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/american-civil-liberties-union/index.html"
         }
       },
       "version": ""
@@ -15258,6 +15361,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/big-daddy-kane/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/big-daddy-kane/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/billy-gibbons/index.md",
       "output": {
         ".html": {
@@ -15372,6 +15485,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/book/biographic-prince/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/book/dickens-and-prince/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/book/dickens-and-prince/index.html"
         }
       },
       "version": ""
@@ -15858,6 +15981,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/charles-dickens/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/charles-dickens/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/charles-koppelman/index.md",
       "output": {
         ".html": {
@@ -15928,6 +16061,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/chris-gero/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/chris-gero/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/chris-jackson/index.md",
       "output": {
         ".html": {
@@ -15952,6 +16095,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/chris-moon/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/chris-rock/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/chris-rock/index.html"
         }
       },
       "version": ""
@@ -16928,6 +17081,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/event/london-fashion-week/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/event/london-fashion-week/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/event/montreux-jazz-festival/index.md",
       "output": {
         ".html": {
@@ -16952,6 +17115,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/event/paisley-park-cinema-music-on-the-big-screen/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/event/paris-fashion-week/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/event/paris-fashion-week/index.html"
         }
       },
       "version": ""
@@ -17072,6 +17245,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/fdeluxe/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/federal-communications-commission/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/federal-communications-commission/index.html"
         }
       },
       "version": ""
@@ -17548,6 +17731,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/hello-sister/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/hello-sister/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/henson-efron/index.md",
       "output": {
         ".html": {
@@ -17812,6 +18005,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/jacqui-thompson/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/jada-pinkett-smith/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/jada-pinkett-smith/index.html"
         }
       },
       "version": ""
@@ -18362,6 +18565,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/katy-perry/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/keisha-castle-hughes/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/keisha-castle-hughes/index.html"
         }
       },
       "version": ""
@@ -19048,6 +19261,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/mariah-brown/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/mariah-brown/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/mark-canton/index.md",
       "output": {
         ".html": {
@@ -19172,6 +19395,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/mattie-della-shaw-baker/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/maurice-phillips/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/maurice-phillips/index.html"
         }
       },
       "version": ""
@@ -19858,10 +20091,30 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/newspaper/the-mail-on-sunday/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/newspaper/the-mail-on-sunday/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/nichole-nordeman/index.md",
       "output": {
         ".html": {
           "relative_path": "topics/nichole-nordeman/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/nick-hornby/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/nick-hornby/index.html"
         }
       },
       "version": ""
@@ -20002,6 +20255,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/omarr-baker/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/opioid/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/opioid/index.html"
         }
       },
       "version": ""
@@ -20162,6 +20425,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/paul-c-peterson/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/paul-grein/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/paul-grein/index.html"
         }
       },
       "version": ""
@@ -20658,6 +20931,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/place/fox-theatre/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/place/fox-theatre/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/place/france-av-s/index.md",
       "output": {
         ".html": {
@@ -20938,6 +21221,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/place/nicollet-mall/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/place/nicollet-mall/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/place/north-arm-drive/index.md",
       "output": {
         ".html": {
@@ -20962,6 +21255,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/place/north-memorial-medical-center/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/place/o2-arena/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/place/o2-arena/index.html"
         }
       },
       "version": ""
@@ -21058,6 +21361,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/place/rock-roll-hall-of-fame/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/place/rock-roll-hall-of-fame/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/place/roxy/index.md",
       "output": {
         ".html": {
@@ -21112,6 +21425,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/place/st-louis-park/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/place/st-louis/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/place/st-louis/index.html"
         }
       },
       "version": ""
@@ -21968,6 +22291,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/selma-hayak/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/selma-hayak/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/shania-twain/index.md",
       "output": {
         ".html": {
@@ -22168,6 +22501,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/song/777-9311/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/song/777-9311/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/song/alphabet-st/index.md",
       "output": {
         ".html": {
@@ -22248,10 +22591,50 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/song/call-my-name/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/song/call-my-name/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/song/can-t-stop-this-feeling-i-got/index.md",
       "output": {
         ".html": {
           "relative_path": "topics/song/can-t-stop-this-feeling-i-got/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/song/chaos-and-disorder/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/song/chaos-and-disorder/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/song/chelsea-rogers/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/song/chelsea-rogers/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/song/cinnamon-girl/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/song/cinnamon-girl/index.html"
         }
       },
       "version": ""
@@ -23208,6 +23591,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/song/te-amo-coraz-n/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/song/te-amo-coraz-n/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/song/telepathy/index.md",
       "output": {
         ".html": {
@@ -23328,6 +23721,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/song/too-much-girl-4-me/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/song/too-much-girl-4-me/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/song/u-got-the-look/index.md",
       "output": {
         ".html": {
@@ -23342,6 +23745,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/song/undisputed/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/song/use-to-be-the-playa/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/song/use-to-be-the-playa/index.html"
         }
       },
       "version": ""
@@ -24271,6 +24684,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/tour/musicology-live-2004ever/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/tour/musicology-live-2004ever/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/tour/piano-and-a-microphone/index.md",
       "output": {
         ".html": {
@@ -24451,6 +24874,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/tv-show/goodnight-sweet-prince/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/tv-show/goodnight-sweet-prince/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/tv-show/index.md",
       "output": {
         ".html": {
@@ -24465,6 +24898,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/tv-show/new-girl/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/tv-show/pop-through-the-decades/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/tv-show/pop-through-the-decades/index.html"
         }
       },
       "version": ""
@@ -24671,6 +25114,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/video/prince-in-concert-rave-un2-the-year-2000/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/video/prince-in-concert-rave-un2-the-year-2000/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/video/rave-un2-the-year-2000/index.md",
       "output": {
         ".html": {
@@ -24861,6 +25314,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/will-smith/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/will-smith/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/william-blinn/index.md",
       "output": {
         ".html": {
@@ -24891,6 +25354,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/yamaha-entertainment-group/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/yamaha-entertainment-group/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/yara-shahidi/index.md",
       "output": {
         ".html": {
@@ -24915,6 +25388,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/youtube/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/yvette-noel-schure/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/yvette-noel-schure/index.html"
         }
       },
       "version": ""
