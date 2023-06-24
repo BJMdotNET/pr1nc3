@@ -36,6 +36,10 @@
 
 ----
 
+ - [**"Libro de memorias de Prince se publicará en octubre"**](https://apnews.com/article/42cdd445998240f2b2421291e6732f78)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 22 April 2019</li><li>about [Chris Jackson](../../topics/chris-jackson/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Esther Newberg](../../topics/esther-newberg/index.md), [Random House](../../topics/random-house/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/42cdd445998240f2b2421291e6732f78))</li><ul>
+
+----
+
  - [**"Prince memoir ‘The Beautiful Ones’ coming out in the fall"**](https://apnews.com/0c8b1deaae3b4329905d848b284f044b)<ul><li>by Hillel Italie (Associated Press)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 22 April 2019</li><li>about [Chris Jackson](../../topics/chris-jackson/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Esther Newberg](../../topics/esther-newberg/index.md), [fentanyl](../../topics/fentanyl/index.md), [memoir](../../topics/memoir/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Random House](../../topics/random-house/index.md), [Super Bowl](../../topics/super-bowl/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/0c8b1deaae3b4329905d848b284f044b))</li><ul>
 
 ----

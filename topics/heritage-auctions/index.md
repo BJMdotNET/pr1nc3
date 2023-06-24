@@ -16,4 +16,8 @@
 
 ----
 
+ - [**"Guitarra de Prince será subastada en Beverly Hills"**](https://apnews.com/article/archive-882fcf7bb9174d71915dcb9c630dd03d)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 14 May 2016</li><li>about [auction](../../topics/auction/index.md), [Heritage Auctions](../../topics/heritage-auctions/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/archive-882fcf7bb9174d71915dcb9c630dd03d))</li><ul>
+
+----
+
 [Home](../index.md)

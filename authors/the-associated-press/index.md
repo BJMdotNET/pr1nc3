@@ -16,7 +16,7 @@
 
 ----
 
- - [**"The Latest: Klobuchar points to Prince in talking drug issue"**](https://apnews.com/a1facc441faa45c08d75963d0e49a9dc)<ul><li>by The Associated Press</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 19 February 2019</li><li>about [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/a1facc441faa45c08d75963d0e49a9dc))</li><ul>
+ - [**"The Latest: Klobuchar points to Prince in talking drug issue"**](https://apnews.com/a1facc441faa45c08d75963d0e49a9dc)<ul><li>by The Associated Press</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 19 February 2019</li><li>about [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [opioid](../../topics/opioid/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/a1facc441faa45c08d75963d0e49a9dc))</li><ul>
 
 ----
 

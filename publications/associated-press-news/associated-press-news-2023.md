@@ -1,12 +1,8 @@
 # 2023
 
-## June 2023 (2)
+## June 2023 (1)
 
  - [**"Judge: Prince’s ‘U Got The Look’ Doesn’t Look Like Half Sister’s Song"**](https://apnews.com/article/f011132eb9aae1e55d300a263254b7bb)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 22 June 2023</li><li>about [John L. Nelson](../../topics/john-l-nelson/index.md), [U Got the Look (song)](../../topics/song/u-got-the-look/index.md), [What’s Cooking in This Book (song)](../../topics/song/what-s-cooking-in-this-book/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/f011132eb9aae1e55d300a263254b7bb))</li><ul>
-
-----
-
- - [**"Paisley Park, home of Prince, opens for public tours Oct. 6"**](https://apnews.com/article/fe17adc4f32441bd85d0176a50d3cd0b)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 22 June 2023</li><li>about [Bremer Trust](../../topics/bremer-trust/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Denny Laufenburger](../../topics/denny-laufenburger/index.md), [divorce](../../topics/divorce/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [motorcycle](../../topics/motorcycle/index.md), [museum](../../topics/museum/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/fe17adc4f32441bd85d0176a50d3cd0b))</li><ul>
 
 ----
 
@@ -16,7 +12,7 @@
 
 ----
 
- - [**"Signed in purple ink, Minnesota dedicates highway to Prince"**](https://apnews.com/article/prince-minnesota-highway-renamed-45220b9307ba1dee12512c84c71063c1)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 10 May 2023</li><li>about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [museum](../../topics/museum/index.md), [Paisley Park Studios (place)](../../topics/place/paisley-park-studios/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/prince-minnesota-highway-renamed-45220b9307ba1dee12512c84c71063c1))</li><ul>
+ - [**"Signed in purple ink, Minnesota dedicates highway to Prince"**](https://apnews.com/article/prince-minnesota-highway-renamed-45220b9307ba1dee12512c84c71063c1)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 9 May 2023</li><li>about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [museum](../../topics/museum/index.md), [Paisley Park Studios (place)](../../topics/place/paisley-park-studios/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/prince-minnesota-highway-renamed-45220b9307ba1dee12512c84c71063c1))</li><ul>
 
 ----
 

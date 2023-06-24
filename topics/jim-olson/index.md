@@ -12,7 +12,23 @@
 
 ----
 
+ - [**"‘Most beloved’ of Prince family, friends bid farewell"**](https://apnews.com/article/-----4b95289e0fa948359cd177da7ee7e03c)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 24 April 2016</li><li>about [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Fox Theatre (place)](../../topics/place/fox-theatre/index.md), [Jim Olson](../../topics/jim-olson/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Maurice Phillips](../../topics/maurice-phillips/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Sheila E.](../../topics/sheila-e/index.md), [St. Louis (place)](../../topics/place/st-louis/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Yvette Noel-Schure](../../topics/yvette-noel-schure/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/-----4b95289e0fa948359cd177da7ee7e03c))</li><ul>
+
+----
+
+ - [**"Prince es incinerado y conmemorado en ceremonia privada"**](https://apnews.com/article/e27398e3a15d4dfdb3292350888ee482)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 24 April 2016</li><li>about [Atlanta (place)](../../topics/place/atlanta/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Jim Olson](../../topics/jim-olson/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Maurice Phillips](../../topics/maurice-phillips/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Percocet](../../topics/percocet/index.md), [Sheila E.](../../topics/sheila-e/index.md), [TMZ (website)](../../topics/website/tmz/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Yvette Noel-Schure](../../topics/yvette-noel-schure/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/e27398e3a15d4dfdb3292350888ee482))</li><ul>
+
+----
+
  - [**"Adored by millions, Prince was alone as he died"**](https://www.startribune.com/investigation-underway-into-prince-s-death/376741561/)<ul><li>by John Reinan</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 23 April 2016</li><li>about [airport](../../topics/airport/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Dakota (place)](../../topics/place/dakota/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Jim Olson](../../topics/jim-olson/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/investigation-underway-into-prince-s-death/376741561/))</li><ul>
+
+----
+
+ - [**"Más interrogantes de si Prince ocultaba problemas de salud"**](https://apnews.com/article/81d16b3992844f72a514e64cdae77c30)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 23 April 2016</li><li>about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Jim Olson](../../topics/jim-olson/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Sheila E.](../../topics/sheila-e/index.md), [TMZ (website)](../../topics/website/tmz/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/81d16b3992844f72a514e64cdae77c30))</li><ul>
+
+----
+
+ - [**"Prince’s death raises numerous questions about prior health"**](https://apnews.com/article/0ad5478b8b1c4c95997ad31f40b80d94)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 23 April 2016</li><li>about [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Fox Theatre (place)](../../topics/place/fox-theatre/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [Jim Olson](../../topics/jim-olson/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Percocet](../../topics/percocet/index.md), [Sheila E.](../../topics/sheila-e/index.md), [St. Louis (place)](../../topics/place/st-louis/index.md), [TMZ (website)](../../topics/website/tmz/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/0ad5478b8b1c4c95997ad31f40b80d94))</li><ul>
 
 ----
 

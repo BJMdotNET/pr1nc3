@@ -518,6 +518,9 @@ items:
 - name: Smithsonian Magazine
   href: smithsonian-magazine/index.md
   homepage: smithsonian-magazine/index.md
+- name: Sony Music
+  href: sony-music/index.md
+  homepage: sony-music/index.md
 - name: SoulTracks
   href: soultracks/index.md
   homepage: soultracks/index.md

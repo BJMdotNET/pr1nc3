@@ -640,7 +640,7 @@
 
 ----
 
-## October 2019 (120)
+## October 2019 (122)
 
  - [**"All of Prince’s Spiciest Pop-Culture Hot Takes From His New Book, The Beautiful Ones"**](https://www.vulture.com/2019/10/prince-memoir-pop-culture-hot-takes.html)<ul><li>in [Vulture](https://www.vulture.com/)</li><li>on 31 October 2019</li><li>about [Chaka Khan](../../topics/chaka-khan/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Ed Sheeran](../../topics/ed-sheeran/index.md), [Katy Perry](../../topics/katy-perry/index.md), [Lenny Kravitz](../../topics/lenny-kravitz/index.md), [memoir](../../topics/memoir/index.md), [Meron Bekure](../../topics/meron-bekure/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Purple Pam](../../topics/purple-pam/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.vulture.com/2019/10/prince-memoir-pop-culture-hot-takes.html))</li><ul>
 
@@ -879,6 +879,14 @@
 ----
 
  - [**"Like Prince, his new memoir 'The Beautiful Ones' can't be pigeonholed -- Filled with ephemera, photos and philosophy, "The Beautiful Ones" is incomplete yet revealing."**](https://www.startribune.com/like-prince-his-new-memoir-the-beautiful-ones-can-t-be-pigeonholed/563845812/)<ul><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 26 October 2019</li><li>about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [memoir](../../topics/memoir/index.md), [Super Bowl](../../topics/super-bowl/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [vault](../../topics/vault/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/like-prince-his-new-memoir-the-beautiful-ones-can-t-be-pigeonholed/563845812/))</li><ul>
+
+----
+
+ - [**"Para deleite de fans, sale la esperada biografía de Prince"**](https://apnews.com/article/9a1c4a38f0254df58b27b1511e6a1137)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 26 October 2019</li><li>about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/9a1c4a38f0254df58b27b1511e6a1137))</li><ul>
+
+----
+
+ - [**"Prince’s anticipated, posthumous memoir is ready for fans"**](https://apnews.com/article/----f2c7b5160ad6464d9cc5722259c29c7f)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 26 October 2019</li><li>about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/----f2c7b5160ad6464d9cc5722259c29c7f))</li><ul>
 
 ----
 
@@ -1344,7 +1352,7 @@
 
 ----
 
- - [**"Feds: Man sold rapper Mac Miller drugs before overdose death"**](https://apnews.com/ad75f002ba304577ad1e1a09720d2a31)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 5 September 2019</li><li>about [fentanyl](../../topics/fentanyl/index.md), [oxycodone](../../topics/oxycodone/index.md), [Percocet](../../topics/percocet/index.md), [Vicodin](../../topics/vicodin/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/ad75f002ba304577ad1e1a09720d2a31))</li><ul>
+ - [**"Feds: Man sold rapper Mac Miller drugs before overdose death"**](https://apnews.com/ad75f002ba304577ad1e1a09720d2a31)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 5 September 2019</li><li>about [fentanyl](../../topics/fentanyl/index.md), [opioid](../../topics/opioid/index.md), [oxycodone](../../topics/oxycodone/index.md), [Percocet](../../topics/percocet/index.md), [Vicodin](../../topics/vicodin/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/ad75f002ba304577ad1e1a09720d2a31))</li><ul>
 
 ----
 
@@ -1422,7 +1430,7 @@
 
 ----
 
- - [**"Alfred Jackson, half-brother of late rock star Prince, dies"**](https://apnews.com/6b52dd65a9254e2c8f273bedc80902b6)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 30 August 2019</li><li>about [Alfred Jackson](../../topics/alfred-jackson/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/6b52dd65a9254e2c8f273bedc80902b6))</li><ul>
+ - [**"Alfred Jackson, half-brother of late rock star Prince, dies"**](https://apnews.com/6b52dd65a9254e2c8f273bedc80902b6)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 30 August 2019</li><li>about [Alfred Jackson](../../topics/alfred-jackson/index.md), [opioid](../../topics/opioid/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/6b52dd65a9254e2c8f273bedc80902b6))</li><ul>
 
 ----
 
@@ -1646,7 +1654,7 @@
 
 ----
 
- - [**"The Prince Estate in Partnership with Legacy Recordings Announces Next Wave of Titles in Definitive Prince Reissue Project Coming Friday, September 13"**](https://www.legacyrecordings.com/2019/08/01/the-prince-estate-in-partnership-with-legacy-recordings-announces-next-wave-of-titles-in-definitive-prince-reissue-project-coming-friday-september-13/)<ul><li>in [Legacy Recordings](https://www.legacyrecordings.com/)</li><li>on 1 August 2019</li><li>about [Emancipation (album)](../../topics/album/emancipation/index.md), [Legacy Recordings](../../topics/legacy-recordings/index.md), [NPG Records](../../topics/npg-records/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Sony Music Entertainment](../../topics/sony-music-entertainment/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [The Versace Experience (Prelude 2 Gold) (album)](../../topics/album/the-versace-experience-prelude-2-gold/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.legacyrecordings.com/2019/08/01/the-prince-estate-in-partnership-with-legacy-recordings-announces-next-wave-of-titles-in-definitive-prince-reissue-project-coming-friday-september-13/))</li><ul>
+ - [**"The Prince Estate in Partnership with Legacy Recordings Announces Next Wave of Titles in Definitive Prince Reissue Project Coming Friday, September 13"**](https://www.legacyrecordings.com/2019/08/01/the-prince-estate-in-partnership-with-legacy-recordings-announces-next-wave-of-titles-in-definitive-prince-reissue-project-coming-friday-september-13/)<ul><li>in [Legacy Recordings](https://www.legacyrecordings.com/)</li><li>on 1 August 2019</li><li>about [Chaos and Disorder (album)](../../topics/album/chaos-and-disorder/index.md), [Emancipation (album)](../../topics/album/emancipation/index.md), [Legacy Recordings](../../topics/legacy-recordings/index.md), [NPG Records](../../topics/npg-records/index.md), [Paris Fashion Week (event)](../../topics/event/paris-fashion-week/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Sony Music](../../topics/sony-music/index.md), [Sony Music Entertainment](../../topics/sony-music-entertainment/index.md), [Spike Lee](../../topics/spike-lee/index.md), [The Gold Experience (album)](../../topics/album/the-gold-experience/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [The Versace Experience (Prelude 2 Gold) (album)](../../topics/album/the-versace-experience-prelude-2-gold/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.legacyrecordings.com/2019/08/01/the-prince-estate-in-partnership-with-legacy-recordings-announces-next-wave-of-titles-in-definitive-prince-reissue-project-coming-friday-september-13/))</li><ul>
 
 ----
 
@@ -2048,7 +2056,7 @@
 
 ## May 2019 (14)
 
- - [**"Prince’s bodyguard deposed in wrongful death lawsuit"**](https://apnews.com/8e68cf25ceb245319425b5952c5d1be8)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 30 May 2019</li><li>about [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Clayton Tyler](../../topics/clayton-tyler/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Michael Schulenberg](../../topics/michael-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [North Memorial Health Care](../../topics/north-memorial-health-care/index.md), [oxycodone](../../topics/oxycodone/index.md), [Walgreens](../../topics/walgreens/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/8e68cf25ceb245319425b5952c5d1be8))</li><ul>
+ - [**"Prince’s bodyguard deposed in wrongful death lawsuit"**](https://apnews.com/8e68cf25ceb245319425b5952c5d1be8)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 30 May 2019</li><li>about [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Clayton Tyler](../../topics/clayton-tyler/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Michael Schulenberg](../../topics/michael-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [North Memorial Health Care](../../topics/north-memorial-health-care/index.md), [opioid](../../topics/opioid/index.md), [oxycodone](../../topics/oxycodone/index.md), [Walgreens](../../topics/walgreens/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/8e68cf25ceb245319425b5952c5d1be8))</li><ul>
 
 ----
 
@@ -2104,7 +2112,7 @@
 
 ----
 
-## April 2019 (34)
+## April 2019 (36)
 
  - [**"Two veteran Minnesota bands earn their First Avenue stars (one a do-over)"**](https://www.startribune.com/two-veteran-minnesota-bands-earn-their-first-avenue-stars-one-a-do-over/509260572/)<ul><li>by Chris Riemenschneider</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 30 April 2019</li><li>about [First Avenue (place)](../../topics/place/first-avenue/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Matt Fink](../../topics/matt-fink/index.md), [Sam’s (place)](../../topics/place/sam-s/index.md), [The Revolution](../../topics/the-revolution/index.md), [Uncle Sam’s (place)](../../topics/place/uncle-sam-s/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/two-veteran-minnesota-bands-earn-their-first-avenue-stars-one-a-do-over/509260572/))</li><ul>
 
@@ -2178,6 +2186,10 @@
 
 ----
 
+ - [**"Libro de memorias de Prince se publicará en octubre"**](https://apnews.com/article/42cdd445998240f2b2421291e6732f78)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 22 April 2019</li><li>about [Chris Jackson](../../topics/chris-jackson/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Esther Newberg](../../topics/esther-newberg/index.md), [Random House](../../topics/random-house/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/42cdd445998240f2b2421291e6732f78))</li><ul>
+
+----
+
  - [**"Prince memoir ‘The Beautiful Ones’ coming out in the fall"**](https://apnews.com/0c8b1deaae3b4329905d848b284f044b)<ul><li>by Hillel Italie (Associated Press)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 22 April 2019</li><li>about [Chris Jackson](../../topics/chris-jackson/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Esther Newberg](../../topics/esther-newberg/index.md), [fentanyl](../../topics/fentanyl/index.md), [memoir](../../topics/memoir/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Random House](../../topics/random-house/index.md), [Super Bowl](../../topics/super-bowl/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/0c8b1deaae3b4329905d848b284f044b))</li><ul>
 
 ----
@@ -2242,7 +2254,11 @@
 
 ----
 
-## March 2019 (19)
+ - [**"Albert Lea-raised costume designer recollects 30-year career"**](https://apnews.com/article/66c715dfb28a45dcaeb04e19c52c8722)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 1 April 2019</li><li>about [Paisley Park (place)](../../topics/place/paisley-park/index.md), [PRN Alumni Foundation](../../topics/prn-alumni-foundation/index.md), [Stacia Lang](../../topics/stacia-lang/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/66c715dfb28a45dcaeb04e19c52c8722))</li><ul>
+
+----
+
+## March 2019 (20)
 
  - [**"Herb Ritts photos of Bowie, Madonna, more to be exhibited"**](https://apnews.com/1c8308821f394c988d91e49742dbd17e)<ul><li>by The Associated Press</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 31 March 2019</li><li>about [Herb Ritts](../../topics/herb-ritts/index.md), [museum](../../topics/museum/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/1c8308821f394c988d91e49742dbd17e))</li><ul>
 
@@ -2257,6 +2273,10 @@
 ----
 
  - [**"Prince protégée Donna Grantis elaborates on the titles for new 'Diamonds & Dynamite' album"**](https://www.startribune.com/prince-protge-donna-grantis-elaborates-on-the-titles-for-new-diamonds-amp-dynamite-album/507678302/)<ul><li>by Jon Bream</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 26 March 2019</li><li>about [Donna Grantis](../../topics/donna-grantis/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-protge-donna-grantis-elaborates-on-the-titles-for-new-diamonds-amp-dynamite-album/507678302/))</li><ul>
+
+----
+
+ - [**"AM Prep-Music -- TIMBERWOLVES WILL GIVE AWAY PRINCE 7-INCH SINGLE"**](https://apnews.com/article/c06f9630f85740c59c3c6e9235c77141)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 22 March 2019</li><li>about [Minnesota Timberwolves](../../topics/minnesota-timberwolves/index.md), [Morris Day](../../topics/morris-day/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Timberwolves](../../topics/timberwolves/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/c06f9630f85740c59c3c6e9235c77141))</li><ul>
 
 ----
 
@@ -2320,9 +2340,13 @@
 
 ----
 
-## February 2019 (15)
+## February 2019 (16)
 
- - [**"The Prince Estate in Partnership with Legacy Recordings Announce Next Wave of Physical Titles in Definitive Catalog Rerelease Project with Prince’s Ultimate Rave on Friday, April 26, 2019"**](https://www.legacyrecordings.com/2019/02/22/the-prince-estate-in-partnership-with-legacy-recordings-announce-next-wave-of-physical-titles-cd-dvd-vinyl-in-definitive-catalog-rerelease-project-with-princes-ultimate-rave-on-friday-april-26-2/)<ul><li>in [Legacy Recordings](https://www.legacyrecordings.com/)</li><li>on 22 February 2019</li><li>about [Ani DiFranco](../../topics/ani-difranco/index.md), [Baby Knows (song)](../../topics/song/baby-knows/index.md), [Legacy Recordings](../../topics/legacy-recordings/index.md), [Morris Day](../../topics/morris-day/index.md), [NPG Music Club (website)](../../topics/website/npg-music-club/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Rave In2 the Joy Fantastic (album)](../../topics/album/rave-in2-the-joy-fantastic/index.md), [She’s Always In My Hair (song)](../../topics/song/she-s-always-in-my-hair/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.legacyrecordings.com/2019/02/22/the-prince-estate-in-partnership-with-legacy-recordings-announce-next-wave-of-physical-titles-cd-dvd-vinyl-in-definitive-catalog-rerelease-project-with-princes-ultimate-rave-on-friday-april-26-2/))</li><ul>
+ - [**"AM Prep-Music -- ESSENCE FESTIVAL ANNOUNCES LINEUP"**](https://apnews.com/article/b62a45b382974fa5929d6ff8422b19ff)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 26 February 2019</li><li>about [Essence Fest (event)](../../topics/event/essence-fest/index.md), [Essence Festival (event)](../../topics/event/essence-festival/index.md), [H.E.R.](../../topics/h-e-r/index.md), [John Legend](../../topics/john-legend/index.md), [Morris Day](../../topics/morris-day/index.md), [New Orleans (place)](../../topics/place/new-orleans/index.md), [Sheila E.](../../topics/sheila-e/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/b62a45b382974fa5929d6ff8422b19ff))</li><ul>
+
+----
+
+ - [**"The Prince Estate in Partnership with Legacy Recordings Announce Next Wave of Physical Titles in Definitive Catalog Rerelease Project with Prince’s Ultimate Rave on Friday, April 26, 2019"**](https://www.legacyrecordings.com/2019/02/22/the-prince-estate-in-partnership-with-legacy-recordings-announce-next-wave-of-physical-titles-cd-dvd-vinyl-in-definitive-catalog-rerelease-project-with-princes-ultimate-rave-on-friday-april-26-2/)<ul><li>in [Legacy Recordings](https://www.legacyrecordings.com/)</li><li>on 22 February 2019</li><li>about [Ani DiFranco](../../topics/ani-difranco/index.md), [Baby Knows (song)](../../topics/song/baby-knows/index.md), [Bobby Z](../../topics/bobby-z/index.md), [BrownMark](../../topics/brownmark/index.md), [Celebration 2019 (event)](../../topics/event/celebration-2019/index.md), [George Clinton](../../topics/george-clinton/index.md), [Gwen Stefani](../../topics/gwen-stefani/index.md), [Jesse Johnson](../../topics/jesse-johnson/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Legacy Recordings](../../topics/legacy-recordings/index.md), [Lenny Kravitz](../../topics/lenny-kravitz/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Maceo Parker](../../topics/maceo-parker/index.md), [Matt Fink](../../topics/matt-fink/index.md), [Minnesota Timberwolves](../../topics/minnesota-timberwolves/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [NPG Music Club (website)](../../topics/website/npg-music-club/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Prince In Concert: Rave Un2 the Year 2000 (video)](../../topics/video/prince-in-concert-rave-un2-the-year-2000/index.md), [Raspberry Beret (song)](../../topics/song/raspberry-beret/index.md), [Rave In2 the Joy Fantastic (album)](../../topics/album/rave-in2-the-joy-fantastic/index.md), [Rave Un2 the Joy Fantastic (album)](../../topics/album/rave-un2-the-joy-fantastic/index.md), [Rave Un2 the Year 2000 (video)](../../topics/video/rave-un2-the-year-2000/index.md), [She’s Always In My Hair (song)](../../topics/song/she-s-always-in-my-hair/index.md), [Sheryl Crow](../../topics/sheryl-crow/index.md), [Sony Music](../../topics/sony-music/index.md), [Sony Music Entertainment](../../topics/sony-music-entertainment/index.md), [Target Center (place)](../../topics/place/target-center/index.md), [The Greatest Romance Ever Sold (song)](../../topics/song/the-greatest-romance-ever-sold/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Timberwolves](../../topics/timberwolves/index.md), [U Got the Look (song)](../../topics/song/u-got-the-look/index.md), [Ultimate Rave (album)](../../topics/album/ultimate-rave/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.legacyrecordings.com/2019/02/22/the-prince-estate-in-partnership-with-legacy-recordings-announce-next-wave-of-physical-titles-cd-dvd-vinyl-in-definitive-catalog-rerelease-project-with-princes-ultimate-rave-on-friday-april-26-2/))</li><ul>
 
 ----
 
@@ -2334,7 +2358,7 @@
 
 ----
 
- - [**"The Latest: Klobuchar points to Prince in talking drug issue"**](https://apnews.com/a1facc441faa45c08d75963d0e49a9dc)<ul><li>by The Associated Press</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 19 February 2019</li><li>about [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/a1facc441faa45c08d75963d0e49a9dc))</li><ul>
+ - [**"The Latest: Klobuchar points to Prince in talking drug issue"**](https://apnews.com/a1facc441faa45c08d75963d0e49a9dc)<ul><li>by The Associated Press</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 19 February 2019</li><li>about [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [opioid](../../topics/opioid/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/a1facc441faa45c08d75963d0e49a9dc))</li><ul>
 
 ----
 

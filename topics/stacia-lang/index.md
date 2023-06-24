@@ -4,6 +4,10 @@
 
 ----
 
+ - [**"Albert Lea-raised costume designer recollects 30-year career"**](https://apnews.com/article/66c715dfb28a45dcaeb04e19c52c8722)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 1 April 2019</li><li>about [Paisley Park (place)](../../topics/place/paisley-park/index.md), [PRN Alumni Foundation](../../topics/prn-alumni-foundation/index.md), [Stacia Lang](../../topics/stacia-lang/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/66c715dfb28a45dcaeb04e19c52c8722))</li><ul>
+
+----
+
  - [**"Designing for a superstar"**](http://www.albertleatribune.com/2016/05/designing-for-a-superstar/)<ul><li>in [Albert Lea Tribune](http://www.albertleatribune.com/)</li><li>on 1 May 2016</li><li>about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Fashion Institute of Technology](../../topics/fashion-institute-of-technology/index.md), [Helen Hiatt](../../topics/helen-hiatt/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Paisley Park Studios (place)](../../topics/place/paisley-park-studios/index.md), [Stacia Lang](../../topics/stacia-lang/index.md)</li><li>([mirror](https://web.archive.org/web/*/http://www.albertleatribune.com/2016/05/designing-for-a-superstar/))</li><ul>
 
 ----

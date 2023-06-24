@@ -1,14 +1,18 @@
 # Denny Laufenburger
 
- - [**"Paisley Park, home of Prince, opens for public tours Oct. 6"**](https://apnews.com/article/fe17adc4f32441bd85d0176a50d3cd0b)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 22 June 2023</li><li>about [Bremer Trust](../../topics/bremer-trust/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Denny Laufenburger](../../topics/denny-laufenburger/index.md), [divorce](../../topics/divorce/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [motorcycle](../../topics/motorcycle/index.md), [museum](../../topics/museum/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/fe17adc4f32441bd85d0176a50d3cd0b))</li><ul>
-
-----
-
  - [**"Former Prince Property to be Developed into Residential Neighborhood"**](https://kstp.com/news/prince-property-chanhassen-developed-residential-neighborhood-/4969812/)<ul><li>in [KSTP](https://kstp.com/)</li><li>on 29 June 2018</li><li>about [Carver County](../../topics/carver-county/index.md), [Denny Laufenburger](../../topics/denny-laufenburger/index.md), [Galpin Boulevard (place)](../../topics/place/galpin-boulevard/index.md), [Lennar Homes](../../topics/lennar-homes/index.md), [trademark](../../topics/trademark/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://kstp.com/news/prince-property-chanhassen-developed-residential-neighborhood-/4969812/))</li><ul>
 
 ----
 
  - [**"'Rehabilitated' Paisley Park takes center stage for Prince anniversary -- Graceland firm remakes studio into a showplace."**](https://www.startribune.com/rehabilitated-paisley-park-takes-center-stage-for-prince-anniversary/419571163/)<ul><li>by Chris Riemenschneider</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 17 April 2017</li><li>about [Bremer Trust](../../topics/bremer-trust/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [Denny Laufenburger](../../topics/denny-laufenburger/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [Joel Weinshanker](../../topics/joel-weinshanker/index.md), [museum](../../topics/museum/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/rehabilitated-paisley-park-takes-center-stage-for-prince-anniversary/419571163/))</li><ul>
+
+----
+
+ - [**"Rezoning decision means Paisley Park can open permanently"**](https://apnews.com/article/3d3261f07e9b4edb879832ea78bf1280)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 25 October 2016</li><li>about [ashes](../../topics/ashes/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Denny Laufenburger](../../topics/denny-laufenburger/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [Joel Weinshanker](../../topics/joel-weinshanker/index.md), [motorcycle](../../topics/motorcycle/index.md), [museum](../../topics/museum/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [St. Paul (place)](../../topics/place/st-paul/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md), [urn](../../topics/urn/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/3d3261f07e9b4edb879832ea78bf1280))</li><ul>
+
+----
+
+ - [**"Paisley Park, home of Prince, opens for public tours Oct. 6"**](https://apnews.com/article/fe17adc4f32441bd85d0176a50d3cd0b)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 25 August 2016</li><li>about [Bremer Trust](../../topics/bremer-trust/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Denny Laufenburger](../../topics/denny-laufenburger/index.md), [divorce](../../topics/divorce/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [motorcycle](../../topics/motorcycle/index.md), [museum](../../topics/museum/index.md), [opioid](../../topics/opioid/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/fe17adc4f32441bd85d0176a50d3cd0b))</li><ul>
 
 ----
 

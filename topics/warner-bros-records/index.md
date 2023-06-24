@@ -72,6 +72,10 @@
 
 ----
 
+ - [**"Nuevo álbum de Prince: solo él cantando al piano en su casa"**](https://apnews.com/article/cdd2248d6c1a4c2b829a3235ee7f3fb5)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 18 September 2018</li><li>about [17 Days (song)](../../topics/song/17-days/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Spike Lee](../../topics/spike-lee/index.md), [Troy Carter](../../topics/troy-carter/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md), [Why The Butterflies (song)](../../topics/song/why-the-butterflies/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/cdd2248d6c1a4c2b829a3235ee7f3fb5))</li><ul>
+
+----
+
  - [**"Prince’s new basement tape: Just him singing, playing piano"**](https://apnews.com/e0a9e78a662c40d3adee133110bc8489)<ul><li>by Jeff Baenen (Associated Press)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 18 September 2018</li><li>about [17 Days (song)](../../topics/song/17-days/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Cold Coffee & Cocaine (song)](../../topics/song/cold-coffee-cocaine/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Michael Howe](../../topics/michael-howe/index.md), [NPG Records](../../topics/npg-records/index.md), [Piano and a Microphone 1983 (album)](../../topics/album/piano-and-a-microphone-1983/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Troy Carter](../../topics/troy-carter/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md), [Why The Butterflies (song)](../../topics/song/why-the-butterflies/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/e0a9e78a662c40d3adee133110bc8489))</li><ul>
 
 ----
@@ -84,11 +88,19 @@
 
 ----
 
+ - [**"More Prince News"**](https://apnews.com/article/2b8d7c72d37c4572b9713c76aceb04e3)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 8 June 2018</li><li>about [17 Days (song)](../../topics/song/17-days/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/2b8d7c72d37c4572b9713c76aceb04e3))</li><ul>
+
+----
+
  - [**"Prince Estate Releasing Unheard 'Piano & A Microphone 1983' Album -- Record captured at singer's home studio is due out Sept. 21."**](https://www.billboard.com/articles/columns/rock/8459820/prince-estate-releasing-unheard-piano-a-microphone-1983-album)<ul><li>in [Billboard](https://www.billboard.com/)</li><li>on 7 June 2018</li><li>about [Allen Beaulieu](../../topics/allen-beaulieu/index.md), [Cold Coffee & Cocaine (song)](../../topics/song/cold-coffee-cocaine/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Piano and a Microphone 1983 (album)](../../topics/album/piano-and-a-microphone-1983/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Troy Carter](../../topics/troy-carter/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md), [Why The Butterflies (song)](../../topics/song/why-the-butterflies/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/columns/rock/8459820/prince-estate-releasing-unheard-piano-a-microphone-1983-album))</li><ul>
 
 ----
 
  - [**"Warner Bros. to release new Prince album in September"**](https://apnews.com/542e9ad6962e46e8882badfd663b1921)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 7 June 2018</li><li>about [17 Days (song)](../../topics/song/17-days/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [vault](../../topics/vault/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/542e9ad6962e46e8882badfd663b1921))</li><ul>
+
+----
+
+ - [**"Warner Bros. to release new Prince album in September"**](https://apnews.com/article/98c649c8c304481290ca95e1d64dd837)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 7 June 2018</li><li>about [17 Days (song)](../../topics/song/17-days/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [vault](../../topics/vault/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/98c649c8c304481290ca95e1d64dd837))</li><ul>
 
 ----
 
@@ -161,6 +173,10 @@
 ----
 
  - [**"Prince Fires Management, Legal Teams"**](https://www.latimes.com/archives/la-xpm-1989-01-07-ca-127-story.html)<ul><li>in [Los Angeles Times](https://www.latimes.com/)</li><li>on 7 January 1989</li><li>about [Alan Leeds](../../topics/alan-leeds/index.md), [Albert Magnoli](../../topics/albert-magnoli/index.md), [Bob Merlis](../../topics/bob-merlis/index.md), [Breslauer, Jacobson, Rutman & Sherman](../../topics/breslauer-jacobson-rutman-sherman/index.md), [Cavallo, Ruffalo & Fargnoli](../../topics/cavallo-ruffalo-fargnoli/index.md), [Fred Moulterie](../../topics/fred-moulterie/index.md), [John Branca](../../topics/john-branca/index.md), [Lee Phillips](../../topics/lee-phillips/index.md), [Lovesexy (album)](../../topics/album/lovesexy/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Paisley Park Records](../../topics/paisley-park-records/index.md), [PRN Productions](../../topics/prn-productions/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Skip Brittenham](../../topics/skip-brittenham/index.md), [Steve Fargnoli](../../topics/steve-fargnoli/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md), [Ziffren, Brittenham and Branca](../../topics/ziffren-brittenham-and-branca/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.latimes.com/archives/la-xpm-1989-01-07-ca-127-story.html))</li><ul>
+
+----
+
+ - [**"TODAY’S FOCUS: Sexually Explicit Lyrics Steam Airwaves, Anger Parents EDITORS: Portions of"**](https://apnews.com/article/22e8662fd8875c8f2aee3d897cd09b67)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 27 May 1985</li><li>about [American Bandstand](../../topics/american-bandstand/index.md), [American Civil Liberties Union](../../topics/american-civil-liberties-union/index.md), [Erotic City (song)](../../topics/song/erotic-city/index.md), [Federal Communications Commission](../../topics/federal-communications-commission/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Paul Grein](../../topics/paul-grein/index.md), [Sheena Easton](../../topics/sheena-easton/index.md), [Sugar Walls (song)](../../topics/song/sugar-walls/index.md), [Supreme Court](../../topics/supreme-court/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/22e8662fd8875c8f2aee3d897cd09b67))</li><ul>
 
 ----
 

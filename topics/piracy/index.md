@@ -8,7 +8,7 @@
 
 ----
 
- - [**"Counterfeit pain pills likely came to Prince illegally"**](https://apnews.com/f617a02222324bf3a06a0c7cbe15e3fd)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 23 August 2016</li><li>about [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [piracy](../../topics/piracy/index.md), [Vicodin](../../topics/vicodin/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/f617a02222324bf3a06a0c7cbe15e3fd))</li><ul>
+ - [**"Counterfeit pain pills likely came to Prince illegally"**](https://apnews.com/f617a02222324bf3a06a0c7cbe15e3fd)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 23 August 2016</li><li>about [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [opioid](../../topics/opioid/index.md), [piracy](../../topics/piracy/index.md), [Vicodin](../../topics/vicodin/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/f617a02222324bf3a06a0c7cbe15e3fd))</li><ul>
 
 ----
 

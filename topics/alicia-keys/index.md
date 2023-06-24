@@ -1,5 +1,9 @@
 # Alicia Keys
 
+ - [**"Adele wins top Grammys, but pays tribute to Beyonce"**](https://apnews.com/article/music-music-industry-chance-the-rapper-bruno-mars-ca-state-wire-4d1ad7e831a04e55bf623d62a7332390)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 26 April 2021</li><li>about [Alicia Keys](../../topics/alicia-keys/index.md), [Grammy Award](../../topics/grammy-award/index.md), [Grammys](../../topics/grammys/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Morris Day](../../topics/morris-day/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/music-music-industry-chance-the-rapper-bruno-mars-ca-state-wire-4d1ad7e831a04e55bf623d62a7332390))</li><ul>
+
+----
+
  - [**"FKA Twigs: I Wasn’t Asked to Sing During Prince Tribute at Grammys"**](https://variety.com/2020/music/news/fka-twigs-grammys-prince-usher-sheila-e-1203481545/)<ul><li>in [Variety](https://variety.com/)</li><li>on 26 January 2020</li><li>about [Alicia Keys](../../topics/alicia-keys/index.md), [Coldplay](../../topics/coldplay/index.md), [FKA twigs](../../topics/fka-twigs/index.md), [Foo Fighters](../../topics/foo-fighters/index.md), [Grammy Award](../../topics/grammy-award/index.md), [John Legend](../../topics/john-legend/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Usher](../../topics/usher/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://variety.com/2020/music/news/fka-twigs-grammys-prince-usher-sheila-e-1203481545/))</li><ul>
 
 ----
@@ -81,6 +85,10 @@
 ----
 
  - [**"De Cooke a Houston: funerales de los grandes de la música"**](https://apnews.com/article/192fabd3f7a544828a8f6233b72aa3e5)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 29 August 2018</li><li>about [Alicia Keys](../../topics/alicia-keys/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Sheila E.](../../topics/sheila-e/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/192fabd3f7a544828a8f6233b72aa3e5))</li><ul>
+
+----
+
+ - [**"The Estate Of Prince Rogers Nelson Selects Universal Music Publishing Group To Serve As Worldwide Publisher For Prince's Iconic Catalog Of Songs"**](https://www.prnewswire.com/news-releases/the-estate-of-prince-rogers-nelson-selects-universal-music-publishing-group-to-serve-as-worldwide-publisher-for-princes-iconic-catalog-of-songs-300356320.html)<ul><li>in [PR Newswire](https://www.prnewswire.com/)</li><li>on 2 November 2016</li><li>about [Alabama Shakes](../../topics/alabama-shakes/index.md), [Alicia Keys](../../topics/alicia-keys/index.md), [Bangles](../../topics/bangles/index.md), [Bremer Trust](../../topics/bremer-trust/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [Danny Elfman](../../topics/danny-elfman/index.md), [Elton John](../../topics/elton-john/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [L. Londell McMillan](../../topics/l-londell-mcmillan/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Universal Music Group](../../topics/universal-music-group/index.md), [Universal Music Publishing Group](../../topics/universal-music-publishing-group/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/the-estate-of-prince-rogers-nelson-selects-universal-music-publishing-group-to-serve-as-worldwide-publisher-for-princes-iconic-catalog-of-songs-300356320.html))</li><ul>
 
 ----
 

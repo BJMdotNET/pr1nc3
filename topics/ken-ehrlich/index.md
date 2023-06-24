@@ -44,4 +44,8 @@
 
 ----
 
+ - [**"Prince, un hombre orquesta y un amigo para muchos"**](https://apnews.com/article/archive-0cd78570b8f24969999622976c4cf547)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 25 April 2016</li><li>about [Bangles](../../topics/bangles/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Esperanza Spalding](../../topics/esperanza-spalding/index.md), [Fleetwood Mac](../../topics/fleetwood-mac/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Kandace Springs](../../topics/kandace-springs/index.md), [Ken Ehrlich](../../topics/ken-ehrlich/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Rita Ora](../../topics/rita-ora/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stand Back (song)](../../topics/song/stand-back/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/archive-0cd78570b8f24969999622976c4cf547))</li><ul>
+
+----
+
 [Home](../index.md)

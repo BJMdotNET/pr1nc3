@@ -28,6 +28,10 @@
 
 ----
 
+ - [**"Creepy or comforting? Prince ‘Live on the Big Screen’ tribute raises questions"**](https://apnews.com/article/55a1b2a0cea44f2a97829aa08f8ad8c1)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 12 April 2018</li><li>about [First Avenue (place)](../../topics/place/first-avenue/index.md), [hologram](../../topics/hologram/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Minnesota State Fair](../../topics/minnesota-state-fair/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [State Fair](../../topics/state-fair/index.md), [Target Center (place)](../../topics/place/target-center/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/55a1b2a0cea44f2a97829aa08f8ad8c1))</li><ul>
+
+----
+
  - [**"Photos: Minnesota State Fair celebrates Prince"**](https://blog.thecurrent.org/2016/08/photos-minnesota-state-fair-celebrates-prince/)<ul><li>in [The Current - Local Current Blog](https://blog.thecurrent.org/)</li><li>on 27 August 2016</li><li>about [Celebration (event)](../../topics/event/celebration/index.md), [DJ Dudley D](../../topics/dj-dudley-d/index.md), [Minnesota State Fair](../../topics/minnesota-state-fair/index.md), [State Fair](../../topics/state-fair/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2016/08/photos-minnesota-state-fair-celebrates-prince/))</li><ul>
 
 ----

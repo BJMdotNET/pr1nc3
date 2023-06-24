@@ -48,7 +48,7 @@
 
 ----
 
- - [**"Spike Lee throws dance party ahead of Prince’s 58th birthday"**](https://apnews.com/780ae6981b534a27be2f65bf10470f6e)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 5 June 2016</li><li>about [Celebration (event)](../../../topics/event/celebration/index.md), [Erotic City (song)](../../../topics/song/erotic-city/index.md), [fentanyl](../../../topics/fentanyl/index.md), [Michael Jackson](../../../topics/michael-jackson/index.md), [Spike Lee](../../../topics/spike-lee/index.md), [Starfish And Coffee (song)](../../../topics/song/starfish-and-coffee/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/780ae6981b534a27be2f65bf10470f6e))</li><ul>
+ - [**"Spike Lee throws dance party ahead of Prince’s 58th birthday"**](https://apnews.com/780ae6981b534a27be2f65bf10470f6e)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 5 June 2016</li><li>about [Celebration (event)](../../../topics/event/celebration/index.md), [Erotic City (song)](../../../topics/song/erotic-city/index.md), [fentanyl](../../../topics/fentanyl/index.md), [Michael Jackson](../../../topics/michael-jackson/index.md), [opioid](../../../topics/opioid/index.md), [Spike Lee](../../../topics/spike-lee/index.md), [Starfish And Coffee (song)](../../../topics/song/starfish-and-coffee/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/780ae6981b534a27be2f65bf10470f6e))</li><ul>
 
 ----
 
@@ -57,6 +57,10 @@
 ----
 
  - [**"One step back, two steps forward -- Many an artist owes their career to Raphael Saadiq's pioneering work, but now he wants urban music to embrace its heritage, as rock'n'roll so often does. Angus Batey meets him"**](https://www.theguardian.com/music/2009/apr/24/raphael-saadiq-interview)<ul><li>in [The Guardian](https://www.theguardian.com/)</li><li>on 24 April 2009</li><li>about [Erotic City (song)](../../../topics/song/erotic-city/index.md), [Raphael Saadiq](../../../topics/raphael-saadiq/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.theguardian.com/music/2009/apr/24/raphael-saadiq-interview))</li><ul>
+
+----
+
+ - [**"TODAY’S FOCUS: Sexually Explicit Lyrics Steam Airwaves, Anger Parents EDITORS: Portions of"**](https://apnews.com/article/22e8662fd8875c8f2aee3d897cd09b67)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 27 May 1985</li><li>about [American Bandstand](../../../topics/american-bandstand/index.md), [American Civil Liberties Union](../../../topics/american-civil-liberties-union/index.md), [Erotic City (song)](../../../topics/song/erotic-city/index.md), [Federal Communications Commission](../../../topics/federal-communications-commission/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Paul Grein](../../../topics/paul-grein/index.md), [Sheena Easton](../../../topics/sheena-easton/index.md), [Sugar Walls (song)](../../../topics/song/sugar-walls/index.md), [Supreme Court](../../../topics/supreme-court/index.md), [Warner Bros. Records](../../../topics/warner-bros-records/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/22e8662fd8875c8f2aee3d897cd09b67))</li><ul>
 
 ----
 

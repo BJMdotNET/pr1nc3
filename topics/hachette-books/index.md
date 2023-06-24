@@ -12,6 +12,10 @@
 
 ----
 
+ - [**"Primera esposa de Prince publicará sus memorias"**](https://apnews.com/article/71820ff37d3a49e09d13503ea83ab59a)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 13 September 2016</li><li>about [Hachette Books](../../topics/hachette-books/index.md), [Mayte](../../topics/mayte/index.md), [The Most Beautiful (book)](../../topics/book/the-most-beautiful/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/71820ff37d3a49e09d13503ea83ab59a))</li><ul>
+
+----
+
  - [**"Prince’s first wife, Mayte Garcia, writing “intimate memoir”"**](https://apnews.com/04ae6c305ab44db084323913d9a96af7)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 13 September 2016</li><li>about [Hachette Books](../../topics/hachette-books/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [memoir](../../topics/memoir/index.md), [The Most Beautiful (book)](../../topics/book/the-most-beautiful/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/04ae6c305ab44db084323913d9a96af7))</li><ul>
 
 ----

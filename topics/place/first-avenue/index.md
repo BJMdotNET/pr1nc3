@@ -224,6 +224,10 @@
 
 ----
 
+ - [**"Creepy or comforting? Prince ‘Live on the Big Screen’ tribute raises questions"**](https://apnews.com/article/55a1b2a0cea44f2a97829aa08f8ad8c1)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 12 April 2018</li><li>about [First Avenue (place)](../../../topics/place/first-avenue/index.md), [hologram](../../../topics/hologram/index.md), [Jimmy Jam](../../../topics/jimmy-jam/index.md), [Justin Timberlake](../../../topics/justin-timberlake/index.md), [Michael Jackson](../../../topics/michael-jackson/index.md), [Minnesota State Fair](../../../topics/minnesota-state-fair/index.md), [Sharon Nelson](../../../topics/sharon-nelson/index.md), [State Fair](../../../topics/state-fair/index.md), [Target Center (place)](../../../topics/place/target-center/index.md), [Twin Cities (place)](../../../topics/place/twin-cities/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/55a1b2a0cea44f2a97829aa08f8ad8c1))</li><ul>
+
+----
+
  - [**"Prince is gone, but his spirit lives at Minnesota Super Bowl"**](https://apnews.com/760ec69e7a2e430a9879834f5f2eae63)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 2 February 2018</li><li>about [First Avenue (place)](../../../topics/place/first-avenue/index.md), [hologram](../../../topics/hologram/index.md), [Jimmy Jam](../../../topics/jimmy-jam/index.md), [Minnesota Vikings](../../../topics/minnesota-vikings/index.md), [Morris Day](../../../topics/morris-day/index.md), [Morris Hayes](../../../topics/morris-hayes/index.md), [museum](../../../topics/museum/index.md), [New Power Generation](../../../topics/new-power-generation/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [Super Bowl](../../../topics/super-bowl/index.md), [Terry Lewis](../../../topics/terry-lewis/index.md), [The Revolution](../../../topics/the-revolution/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/760ec69e7a2e430a9879834f5f2eae63))</li><ul>
 
 ----
@@ -233,6 +237,10 @@
 ----
 
  - [**"Embrace the Bold North in Minneapolis for Super Bowl"**](https://apnews.com/5ddc01f147644c79820a62b065eb5efb)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 17 January 2018</li><li>about [airport](../../../topics/airport/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Jimmy Jam](../../../topics/jimmy-jam/index.md), [museum](../../../topics/museum/index.md), [Super Bowl](../../../topics/super-bowl/index.md), [Terry Lewis](../../../topics/terry-lewis/index.md), [Xcel Energy Center (place)](../../../topics/place/xcel-energy-center/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/5ddc01f147644c79820a62b065eb5efb))</li><ul>
+
+----
+
+ - [**"Minnesota music scene’s best moments and 10 best albums in 2017"**](https://apnews.com/article/music-archive-minnesota-9d3750a2a4344a248e305eb73abfed69)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 28 December 2017</li><li>about [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/music-archive-minnesota-9d3750a2a4344a248e305eb73abfed69))</li><ul>
 
 ----
 
@@ -304,6 +312,10 @@
 
 ----
 
+ - [**"Official Prince tribute concert set for October at U.S. Bank Stadium"**](https://www.startribune.com/apnewsbreak-official-prince-tribute-concert-set-for-october/388585801/)<ul><li>by Mesfin Fekadu (Associated Press)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 28 July 2016</li><li>about [3rdEyeGirl](../../../topics/3rdeyegirl/index.md), [BET Awards](../../../topics/bet-awards/index.md), [Beyoncé](../../../topics/beyonc/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Janelle Monae](../../../topics/janelle-monae/index.md), [Judith Hill](../../../topics/judith-hill/index.md), [Mayte](../../../topics/mayte/index.md), [Mayte Garcia](../../../topics/mayte-garcia/index.md), [Morris Day](../../../topics/morris-day/index.md), [Morris Day and The Time](../../../topics/morris-day-and-the-time/index.md), [New Power Generation](../../../topics/new-power-generation/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [Stevie Wonder](../../../topics/stevie-wonder/index.md), [The Revolution](../../../topics/the-revolution/index.md), [The Roots](../../../topics/the-roots/index.md), [The Time](../../../topics/the-time/index.md), [Tori Kelly](../../../topics/tori-kelly/index.md), [Tyka Nelson](../../../topics/tyka-nelson/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/apnewsbreak-official-prince-tribute-concert-set-for-october/388585801/))</li><ul>
+
+----
+
  - [**"Boy George dishes on Prince and promises 'gorgeousness' at Twin Cities show -- Boy George speaks his mind, chatting about Prince, Trump and Culture Club's Twin Cities concert this weekend."**](https://www.startribune.com/boy-george-dishes-on-prince-and-promises-gorgeousness-at-twin-cities-show/387819481/)<ul><li>by Jon Bream</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 22 July 2016</li><li>about [Donald Trump](../../../topics/donald-trump/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [London (place)](../../../topics/place/london/index.md), [The Revolution](../../../topics/the-revolution/index.md), [Trump](../../../topics/trump/index.md), [Xcel Energy Center (place)](../../../topics/place/xcel-energy-center/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/boy-george-dishes-on-prince-and-promises-gorgeousness-at-twin-cities-show/387819481/))</li><ul>
 
 ----
@@ -336,6 +348,10 @@
 
 ----
 
+ - [**"Hermana de Prince: hasta donde se sabe, no dejó testamento"**](https://apnews.com/article/77e7b911f1d3465ab9f52e7aae95aa9c)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 26 April 2016</li><li>about [Bremer Trust](../../../topics/bremer-trust/index.md), [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [L. Londell McMillan](../../../topics/l-londell-mcmillan/index.md), [Lake Ann (place)](../../../topics/place/lake-ann/index.md), [Manuela Testolini](../../../topics/manuela-testolini/index.md), [Michael Jackson](../../../topics/michael-jackson/index.md), [Omarr Baker](../../../topics/omarr-baker/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Tyka Nelson](../../../topics/tyka-nelson/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/77e7b911f1d3465ab9f52e7aae95aa9c))</li><ul>
+
+----
+
  - [**"‘He was family’: Music star Prince stayed home in Minnesota"**](https://apnews.com/00078308adec4acdbf4aa8e5fe8f8729)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 24 April 2016</li><li>about [Carver County](../../../topics/carver-county/index.md), [Chris Coleman](../../../topics/chris-coleman/index.md), [Electric Fetus (place)](../../../topics/place/electric-fetus/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/00078308adec4acdbf4aa8e5fe8f8729))</li><ul>
 
 ----
@@ -344,7 +360,19 @@
 
 ----
 
+ - [**"Minneapolis block party for Prince goes all night"**](https://apnews.com/article/133c7e54f80d472f8a04767d89b4a261)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 22 April 2016</li><li>about [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/133c7e54f80d472f8a04767d89b4a261))</li><ul>
+
+----
+
+ - [**"Minneapolis despide a Prince con enorme fiesta callejera"**](https://apnews.com/article/archive-e13d6438c0c449369aae7b130287fb56)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 22 April 2016</li><li>about [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/archive-e13d6438c0c449369aae7b130287fb56))</li><ul>
+
+----
+
  - [**"Obituary: Prince was a diminutive giant who revolutionized pop -- Though he was a puzzle at times, the rocker was a true Minnesotan who changed music more than once in a nearly 40-year career."**](https://www.startribune.com/jon-bream-prince-was-a-once-in-a-generation-artist-who-never-rested-on-his-laurels/376594221/)<ul><li>by Chris Riemenschneider, Jon Bream</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 22 April 2016</li><li>about [André Cymone](../../../topics/andr-cymone/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Grammy Award](../../../topics/grammy-award/index.md), [John Nelson](../../../topics/john-nelson/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Mayte](../../../topics/mayte/index.md), [Mayte Garcia](../../../topics/mayte-garcia/index.md), [Obama](../../../topics/obama/index.md), [Super Bowl](../../../topics/super-bowl/index.md), [Super Bowl XLI (event)](../../../topics/event/super-bowl-xli/index.md), [Tyka Nelson](../../../topics/tyka-nelson/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/jon-bream-prince-was-a-once-in-a-generation-artist-who-never-rested-on-his-laurels/376594221/))</li><ul>
+
+----
+
+ - [**"Prince “reescribió las reglas” de la música"**](https://apnews.com/article/dbe5c9245d024a89bca2376ee8b631c0)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 22 April 2016</li><li>about [Bangles](../../../topics/bangles/index.md), [Black Album (album)](../../../topics/album/black-album/index.md), [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Darling Nikki (song)](../../../topics/song/darling-nikki/index.md), [Eden Prairie (place)](../../../topics/place/eden-prairie/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Frank Zappa](../../../topics/frank-zappa/index.md), [James Brown](../../../topics/james-brown/index.md), [Judith Hill](../../../topics/judith-hill/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Morris Day](../../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Parents Music Resource Center](../../../topics/parents-music-resource-center/index.md), [Roger Ebert](../../../topics/roger-ebert/index.md), [The Black Album (album)](../../../topics/album/the-black-album/index.md), [Tidal](../../../topics/tidal/index.md), [Tipper Gore](../../../topics/tipper-gore/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md), [Yvette Noel-Schure](../../../topics/yvette-noel-schure/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/dbe5c9245d024a89bca2376ee8b631c0))</li><ul>
 
 ----
 

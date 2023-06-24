@@ -2,7 +2,7 @@
 
 ## December 2016 (12)
 
- - [**"2016: The Year in Entertainment"**](https://apnews.com/0980c1b2845f4c41b234f5e4ed0cd57a)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 30 December 2016</li><li>about [Academy Award](../../topics/academy-award/index.md), [fentanyl](../../topics/fentanyl/index.md), [Grammy Award](../../topics/grammy-award/index.md), [Katy Perry](../../topics/katy-perry/index.md), [Questlove](../../topics/questlove/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/0980c1b2845f4c41b234f5e4ed0cd57a))</li><ul>
+ - [**"2016: The Year in Entertainment"**](https://apnews.com/0980c1b2845f4c41b234f5e4ed0cd57a)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 30 December 2016</li><li>about [Academy Award](../../topics/academy-award/index.md), [fentanyl](../../topics/fentanyl/index.md), [Grammy Award](../../topics/grammy-award/index.md), [Katy Perry](../../topics/katy-perry/index.md), [opioid](../../topics/opioid/index.md), [Questlove](../../topics/questlove/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/0980c1b2845f4c41b234f5e4ed0cd57a))</li><ul>
 
 ----
 
@@ -96,7 +96,7 @@
 
 ----
 
- - [**"Tests confirm Utah teens overdosed on new synthetic drug"**](https://apnews.com/9ff5f1b2797343a19cf7fe7676667554)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 3 November 2016</li><li>about [fentanyl](../../topics/fentanyl/index.md), [U-47700](../../topics/u-47700/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/9ff5f1b2797343a19cf7fe7676667554))</li><ul>
+ - [**"Tests confirm Utah teens overdosed on new synthetic drug"**](https://apnews.com/9ff5f1b2797343a19cf7fe7676667554)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 3 November 2016</li><li>about [fentanyl](../../topics/fentanyl/index.md), [opioid](../../topics/opioid/index.md), [U-47700](../../topics/u-47700/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/9ff5f1b2797343a19cf7fe7676667554))</li><ul>
 
 ----
 
@@ -104,11 +104,11 @@
 
 ----
 
- - [**"The Estate Of Prince Rogers Nelson Selects Universal Music Publishing Group To Serve As Worldwide Publisher For Prince's Iconic Catalog Of Songs"**](https://www.prnewswire.com/news-releases/the-estate-of-prince-rogers-nelson-selects-universal-music-publishing-group-to-serve-as-worldwide-publisher-for-princes-iconic-catalog-of-songs-300356320.html)<ul><li>in [PR Newswire](https://www.prnewswire.com/)</li><li>on 2 November 2016</li><li>about [Bangles](../../topics/bangles/index.md), [Bremer Trust](../../topics/bremer-trust/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [Danny Elfman](../../topics/danny-elfman/index.md), [Universal Music Group](../../topics/universal-music-group/index.md), [Universal Music Publishing Group](../../topics/universal-music-publishing-group/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/the-estate-of-prince-rogers-nelson-selects-universal-music-publishing-group-to-serve-as-worldwide-publisher-for-princes-iconic-catalog-of-songs-300356320.html))</li><ul>
+ - [**"The Estate Of Prince Rogers Nelson Selects Universal Music Publishing Group To Serve As Worldwide Publisher For Prince's Iconic Catalog Of Songs"**](https://www.prnewswire.com/news-releases/the-estate-of-prince-rogers-nelson-selects-universal-music-publishing-group-to-serve-as-worldwide-publisher-for-princes-iconic-catalog-of-songs-300356320.html)<ul><li>in [PR Newswire](https://www.prnewswire.com/)</li><li>on 2 November 2016</li><li>about [Alabama Shakes](../../topics/alabama-shakes/index.md), [Alicia Keys](../../topics/alicia-keys/index.md), [Bangles](../../topics/bangles/index.md), [Bremer Trust](../../topics/bremer-trust/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [Danny Elfman](../../topics/danny-elfman/index.md), [Elton John](../../topics/elton-john/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [L. Londell McMillan](../../topics/l-londell-mcmillan/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Universal Music Group](../../topics/universal-music-group/index.md), [Universal Music Publishing Group](../../topics/universal-music-publishing-group/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/the-estate-of-prince-rogers-nelson-selects-universal-music-publishing-group-to-serve-as-worldwide-publisher-for-princes-iconic-catalog-of-songs-300356320.html))</li><ul>
 
 ----
 
-## October 2016 (24)
+## October 2016 (25)
 
  - [**"Judge rejects claim to Prince estate from woman and girl"**](https://apnews.com/26dcb05f3dc549dd8d6f415e3b6f2602)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 27 October 2016</li><li>about [Brianna Nelson](../../topics/brianna-nelson/index.md), [Carver County](../../topics/carver-county/index.md), [Duane Nelson](../../topics/duane-nelson/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Victoria Nelson](../../topics/victoria-nelson/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/26dcb05f3dc549dd8d6f415e3b6f2602))</li><ul>
 
@@ -119,6 +119,10 @@
 ----
 
  - [**"Paisley Park museum finally gets go-ahead from Chanhassen -- After weeks of hesitation, Chanhassen signs off on zoning permits."**](https://www.startribune.com/paisley-park-museum-finally-gets-go-ahead-from-chanhassen/398282691/)<ul><li>by Erin Adler</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 25 October 2016</li><li>about [museum](../../topics/museum/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/paisley-park-museum-finally-gets-go-ahead-from-chanhassen/398282691/))</li><ul>
+
+----
+
+ - [**"Rezoning decision means Paisley Park can open permanently"**](https://apnews.com/article/3d3261f07e9b4edb879832ea78bf1280)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 25 October 2016</li><li>about [ashes](../../topics/ashes/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Denny Laufenburger](../../topics/denny-laufenburger/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [Joel Weinshanker](../../topics/joel-weinshanker/index.md), [motorcycle](../../topics/motorcycle/index.md), [museum](../../topics/museum/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [St. Paul (place)](../../topics/place/st-paul/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md), [urn](../../topics/urn/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/3d3261f07e9b4edb879832ea78bf1280))</li><ul>
 
 ----
 
@@ -194,7 +198,7 @@
 
 ----
 
- - [**"Could drug checking have prevented Prince’s overdose death?"**](https://apnews.com/df36569d11294d918572d3edf5428cbe)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 4 October 2016</li><li>about [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [oxycodone](../../topics/oxycodone/index.md), [Vicodin](../../topics/vicodin/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/df36569d11294d918572d3edf5428cbe))</li><ul>
+ - [**"Could drug checking have prevented Prince’s overdose death?"**](https://apnews.com/df36569d11294d918572d3edf5428cbe)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 4 October 2016</li><li>about [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [opioid](../../topics/opioid/index.md), [oxycodone](../../topics/oxycodone/index.md), [Vicodin](../../topics/vicodin/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/df36569d11294d918572d3edf5428cbe))</li><ul>
 
 ----
 
@@ -206,7 +210,7 @@
 
 ----
 
-## September 2016 (20)
+## September 2016 (23)
 
  - [**"Let's go crazy: Prince's family announces after-parties tied to Xcel tribute concert"**](https://www.startribune.com/ain-t-no-party-like-a-prince-family-after-party-oct-12-13-14-at-muse/394771091/)<ul><li>by Jon Bream</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 26 September 2016</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/ain-t-no-party-like-a-prince-family-after-party-oct-12-13-14-at-muse/394771091/))</li><ul>
 
@@ -228,6 +232,10 @@
 
 ----
 
+ - [**"Fans snap up tickets for Prince tribute concert in St. Paul"**](https://apnews.com/article/8ed76d49abe146a5908c81522c31af78)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 19 September 2016</li><li>about [Chaka Khan](../../topics/chaka-khan/index.md), [Christina Aguilera](../../topics/christina-aguilera/index.md), [John Mayer](../../topics/john-mayer/index.md), [St. Paul (place)](../../topics/place/st-paul/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Tori Kelly](../../topics/tori-kelly/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/8ed76d49abe146a5908c81522c31af78))</li><ul>
+
+----
+
  - [**"Mixed Blood is suing Prince's estate for $348,358 -- Last week, West Bank theater Mixed Blood filed a $350,000 lawsuit against Prince's estate after being forced to cancel its benefit gala at Paisley Park."**](http://www.citypages.com/arts/mixed-blood-is-suing-princes-estate-for-348358/393265501)<ul><li>in [City Pages](http://www.citypages.com/)</li><li>on 19 September 2016</li><li>about [Bremer Trust](../../topics/bremer-trust/index.md), [contract](../../topics/contract/index.md), [Mixed Blood](../../topics/mixed-blood/index.md)</li><li>([mirror](https://web.archive.org/web/*/http://www.citypages.com/arts/mixed-blood-is-suing-princes-estate-for-348358/393265501))</li><ul>
 
 ----
@@ -240,7 +248,15 @@
 
 ----
 
+ - [**"The Latest: Stevie Wonder tops Prince tribute show lineup"**](https://apnews.com/article/-----c39cbbf9dd5b4a90a221d40688a61b69)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 15 September 2016</li><li>about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Anita Baker](../../topics/anita-baker/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Christina Aguilera](../../topics/christina-aguilera/index.md), [Doug E. Fresh](../../topics/doug-e-fresh/index.md), [John Mayer](../../topics/john-mayer/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Morris Hayes](../../topics/morris-hayes/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [St. Paul (place)](../../topics/place/st-paul/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [The Time](../../topics/the-time/index.md), [Tori Kelly](../../topics/tori-kelly/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/-----c39cbbf9dd5b4a90a221d40688a61b69))</li><ul>
+
+----
+
  - [**"Mixed Blood Theatre Files Claim Against Late Musician Prince’s Estate -- The Minneapolis theatre company’s gala was canceled following Prince’s unexpected death."**](http://www.playbill.com/article/mixed-blood-theatre-files-claim-against-late-musician-princes-estate)<ul><li>in [Playbill](http://www.playbill.com/)</li><li>on 13 September 2016</li><li>about [auction](../../topics/auction/index.md), [Bremer Trust](../../topics/bremer-trust/index.md), [Mixed Blood](../../topics/mixed-blood/index.md)</li><li>([mirror](https://web.archive.org/web/*/http://www.playbill.com/article/mixed-blood-theatre-files-claim-against-late-musician-princes-estate))</li><ul>
+
+----
+
+ - [**"Primera esposa de Prince publicará sus memorias"**](https://apnews.com/article/71820ff37d3a49e09d13503ea83ab59a)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 13 September 2016</li><li>about [Hachette Books](../../topics/hachette-books/index.md), [Mayte](../../topics/mayte/index.md), [The Most Beautiful (book)](../../topics/book/the-most-beautiful/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/71820ff37d3a49e09d13503ea83ab59a))</li><ul>
 
 ----
 
@@ -288,7 +304,7 @@
 
 ----
 
-## August 2016 (32)
+## August 2016 (34)
 
  - [**"Musicians close to Prince reportedly in the mix for tribute"**](https://apnews.com/5c33d9f6e9654074898b04452f17c598)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 31 August 2016</li><li>about [Morris Day](../../topics/morris-day/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Revolution](../../topics/the-revolution/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/5c33d9f6e9654074898b04452f17c598))</li><ul>
 
@@ -302,7 +318,11 @@
 
 ----
 
- - [**"Paisley Park, home of Prince, opens for public tours Oct. 6"**](https://apnews.com/0d8c41adcd8946dfb5182d55d077cc09)<ul><li>by Steve Karnowski (Associated Press)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 25 August 2016</li><li>about [Bremer Trust](../../topics/bremer-trust/index.md), [fentanyl](../../topics/fentanyl/index.md), [Graceland](../../topics/graceland/index.md), [museum](../../topics/museum/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/0d8c41adcd8946dfb5182d55d077cc09))</li><ul>
+ - [**"Paisley Park, home of Prince, opens for public tours Oct. 6"**](https://apnews.com/0d8c41adcd8946dfb5182d55d077cc09)<ul><li>by Steve Karnowski (Associated Press)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 25 August 2016</li><li>about [Bremer Trust](../../topics/bremer-trust/index.md), [fentanyl](../../topics/fentanyl/index.md), [Graceland](../../topics/graceland/index.md), [museum](../../topics/museum/index.md), [opioid](../../topics/opioid/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/0d8c41adcd8946dfb5182d55d077cc09))</li><ul>
+
+----
+
+ - [**"Paisley Park, home of Prince, opens for public tours Oct. 6"**](https://apnews.com/article/fe17adc4f32441bd85d0176a50d3cd0b)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 25 August 2016</li><li>about [Bremer Trust](../../topics/bremer-trust/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Denny Laufenburger](../../topics/denny-laufenburger/index.md), [divorce](../../topics/divorce/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [motorcycle](../../topics/motorcycle/index.md), [museum](../../topics/museum/index.md), [opioid](../../topics/opioid/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/fe17adc4f32441bd85d0176a50d3cd0b))</li><ul>
 
 ----
 
@@ -310,7 +330,7 @@
 
 ----
 
- - [**"Counterfeit pain pills likely came to Prince illegally"**](https://apnews.com/f617a02222324bf3a06a0c7cbe15e3fd)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 23 August 2016</li><li>about [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [piracy](../../topics/piracy/index.md), [Vicodin](../../topics/vicodin/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/f617a02222324bf3a06a0c7cbe15e3fd))</li><ul>
+ - [**"Counterfeit pain pills likely came to Prince illegally"**](https://apnews.com/f617a02222324bf3a06a0c7cbe15e3fd)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 23 August 2016</li><li>about [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [opioid](../../topics/opioid/index.md), [piracy](../../topics/piracy/index.md), [Vicodin](../../topics/vicodin/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/f617a02222324bf3a06a0c7cbe15e3fd))</li><ul>
 
 ----
 
@@ -318,11 +338,11 @@
 
 ----
 
- - [**"Correction: Prince Death story"**](https://apnews.com/6ea0a330a6fa442990b24ec0c5153b27)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 22 August 2016</li><li>about [Amy Conners](../../topics/amy-conners/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [oxycodone](../../topics/oxycodone/index.md), [U-47700](../../topics/u-47700/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/6ea0a330a6fa442990b24ec0c5153b27))</li><ul>
+ - [**"Correction: Prince Death story"**](https://apnews.com/6ea0a330a6fa442990b24ec0c5153b27)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 22 August 2016</li><li>about [Amy Conners](../../topics/amy-conners/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [opioid](../../topics/opioid/index.md), [oxycodone](../../topics/oxycodone/index.md), [U-47700](../../topics/u-47700/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/6ea0a330a6fa442990b24ec0c5153b27))</li><ul>
 
 ----
 
- - [**"Official: Pills found at Prince’s estate contained fentanyl"**](https://apnews.com/f2cb614f0e79404692d5582509874869)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 22 August 2016</li><li>about [Atlanta (place)](../../topics/place/atlanta/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [oxycodone](../../topics/oxycodone/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/f2cb614f0e79404692d5582509874869))</li><ul>
+ - [**"Official: Pills found at Prince’s estate contained fentanyl"**](https://apnews.com/f2cb614f0e79404692d5582509874869)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 22 August 2016</li><li>about [Atlanta (place)](../../topics/place/atlanta/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [opioid](../../topics/opioid/index.md), [oxycodone](../../topics/oxycodone/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/f2cb614f0e79404692d5582509874869))</li><ul>
 
 ----
 
@@ -371,6 +391,10 @@
 ----
 
  - [**"Prince estate administrator denies plan to sell Paisley Park"**](https://www.startribune.com/prince-estate-administrator-denies-plan-to-sell-paisley-park/389389021/)<ul><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 6 August 2016</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-estate-administrator-denies-plan-to-sell-paisley-park/389389021/))</li><ul>
+
+----
+
+ - [**"Prince’s Paisley Park, other properties could go on sale"**](https://apnews.com/article/archive-minneapolis-prince-a1518da531b4470b9f29721d82a6e6b5)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 5 August 2016</li><li>about [Bremer Trust](../../topics/bremer-trust/index.md), [museum](../../topics/museum/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/archive-minneapolis-prince-a1518da531b4470b9f29721d82a6e6b5))</li><ul>
 
 ----
 
@@ -432,7 +456,7 @@
 
 ----
 
- - [**"APNewsBreak: Official Prince tribute concert set for October"**](https://apnews.com/08568057d51c46f8a3daf99e36db5e38)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 28 July 2016</li><li>about [Janelle Monae](../../topics/janelle-monae/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [The Roots](../../topics/the-roots/index.md), [Tori Kelly](../../topics/tori-kelly/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/08568057d51c46f8a3daf99e36db5e38))</li><ul>
+ - [**"APNewsBreak: Official Prince tribute concert set for October"**](https://apnews.com/08568057d51c46f8a3daf99e36db5e38)<ul><li>by Mesfin Fekadu (Associated Press)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 28 July 2016</li><li>about [Janelle Monae](../../topics/janelle-monae/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [The Roots](../../topics/the-roots/index.md), [Tori Kelly](../../topics/tori-kelly/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/08568057d51c46f8a3daf99e36db5e38))</li><ul>
 
 ----
 
@@ -452,7 +476,7 @@
 
 ----
 
- - [**"Official Prince tribute concert set for October at U.S. Bank Stadium"**](https://www.startribune.com/apnewsbreak-official-prince-tribute-concert-set-for-october/388585801/)<ul><li>by Mesfin Fekadu (Associated Press)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 28 July 2016</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/apnewsbreak-official-prince-tribute-concert-set-for-october/388585801/))</li><ul>
+ - [**"Official Prince tribute concert set for October at U.S. Bank Stadium"**](https://www.startribune.com/apnewsbreak-official-prince-tribute-concert-set-for-october/388585801/)<ul><li>by Mesfin Fekadu (Associated Press)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 28 July 2016</li><li>about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [BET Awards](../../topics/bet-awards/index.md), [Beyoncé](../../topics/beyonc/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Janelle Monae](../../topics/janelle-monae/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Roots](../../topics/the-roots/index.md), [The Time](../../topics/the-time/index.md), [Tori Kelly](../../topics/tori-kelly/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/apnewsbreak-official-prince-tribute-concert-set-for-october/388585801/))</li><ul>
 
 ----
 
@@ -536,7 +560,7 @@
 
 ----
 
-## June 2016 (71)
+## June 2016 (72)
 
  - [**"Bloomington guitar-maker's link to Prince passes to Colts owner -- Jim Irsay, owner of the Indianapolis Colts, collects famous guitars. Last week, he paid $137,500 in an auction to buy a guitar that at least looks a lot like the yellow version of Prince's "Cloud" guitar."**](https://www.startribune.com/bloomington-guitar-maker-s-link-to-prince-passes-to-colts-owner/385127861/)<ul><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 30 June 2016</li><li>about [auction](../../topics/auction/index.md), [BET Awards](../../topics/bet-awards/index.md), [Cloud guitar](../../topics/cloud-guitar/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/bloomington-guitar-maker-s-link-to-prince-passes-to-colts-owner/385127861/))</li><ul>
 
@@ -746,7 +770,7 @@
 
 ----
 
- - [**"Spike Lee throws dance party ahead of Prince’s 58th birthday"**](https://apnews.com/780ae6981b534a27be2f65bf10470f6e)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 5 June 2016</li><li>about [Celebration (event)](../../topics/event/celebration/index.md), [Erotic City (song)](../../topics/song/erotic-city/index.md), [fentanyl](../../topics/fentanyl/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Spike Lee](../../topics/spike-lee/index.md), [Starfish And Coffee (song)](../../topics/song/starfish-and-coffee/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/780ae6981b534a27be2f65bf10470f6e))</li><ul>
+ - [**"Spike Lee throws dance party ahead of Prince’s 58th birthday"**](https://apnews.com/780ae6981b534a27be2f65bf10470f6e)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 5 June 2016</li><li>about [Celebration (event)](../../topics/event/celebration/index.md), [Erotic City (song)](../../topics/song/erotic-city/index.md), [fentanyl](../../topics/fentanyl/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [opioid](../../topics/opioid/index.md), [Spike Lee](../../topics/spike-lee/index.md), [Starfish And Coffee (song)](../../topics/song/starfish-and-coffee/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/780ae6981b534a27be2f65bf10470f6e))</li><ul>
 
 ----
 
@@ -754,7 +778,7 @@
 
 ----
 
- - [**"News Guide: Prince died of overdose, but questions linger"**](https://apnews.com/e31c398f2bc142d2ae9a05023cebbe7d)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 4 June 2016</li><li>about [Amy Conners](../../topics/amy-conners/index.md), [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [probate court](../../topics/probate-court/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [vault](../../topics/vault/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/e31c398f2bc142d2ae9a05023cebbe7d))</li><ul>
+ - [**"News Guide: Prince died of overdose, but questions linger"**](https://apnews.com/e31c398f2bc142d2ae9a05023cebbe7d)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 4 June 2016</li><li>about [Amy Conners](../../topics/amy-conners/index.md), [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [opioid](../../topics/opioid/index.md), [probate court](../../topics/probate-court/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [vault](../../topics/vault/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/e31c398f2bc142d2ae9a05023cebbe7d))</li><ul>
 
 ----
 
@@ -782,11 +806,15 @@
 
 ----
 
- - [**"Prince joins a list of stars dead from drug overdoses"**](https://apnews.com/953c320120ba4054bc682ff06dceba99)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 3 June 2016</li><li>about [fentanyl](../../topics/fentanyl/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [oxycodone](../../topics/oxycodone/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/953c320120ba4054bc682ff06dceba99))</li><ul>
+ - [**"Prince joins a list of stars dead from drug overdoses"**](https://apnews.com/953c320120ba4054bc682ff06dceba99)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 3 June 2016</li><li>about [fentanyl](../../topics/fentanyl/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [opioid](../../topics/opioid/index.md), [oxycodone](../../topics/oxycodone/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/953c320120ba4054bc682ff06dceba99))</li><ul>
 
 ----
 
  - [**"Prince’s death: Key players in investigation and aftermath"**](https://apnews.com/3394aecaa5df4b4a9b7eb5198876c0f7)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 3 June 2016</li><li>about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Bremer Trust](../../topics/bremer-trust/index.md), [Carlin Q. Williams](../../topics/carlin-q-williams/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/3394aecaa5df4b4a9b7eb5198876c0f7))</li><ul>
+
+----
+
+ - [**"The Latest: Lawyer: Addiction doctor didn’t give Prince meds"**](https://apnews.com/article/915b78fdf29f4c358ccb6d0a7b5f6614)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 3 June 2016</li><li>about [opioid](../../topics/opioid/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/915b78fdf29f4c358ccb6d0a7b5f6614))</li><ul>
 
 ----
 
@@ -822,7 +850,7 @@
 
 ----
 
-## May 2016 (88)
+## May 2016 (92)
 
  - [**"Record crowd on hand as St. Paul Saints play Purple Game to remember Prince -- The St. Paul Saints gave Prince a final farewell — complete with a lot of purple, and some red Corvettes."**](https://www.startribune.com/record-crowd-on-hand-as-st-paul-saints-play-purple-game-to-remember-prince/381305401/)<ul><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 30 May 2016</li><li>about [Sheila E.](../../topics/sheila-e/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/record-crowd-on-hand-as-st-paul-saints-play-purple-game-to-remember-prince/381305401/))</li><ul>
 
@@ -924,6 +952,10 @@
 
 ----
 
+ - [**"Guitarra de Prince será subastada en Beverly Hills"**](https://apnews.com/article/archive-882fcf7bb9174d71915dcb9c630dd03d)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 14 May 2016</li><li>about [auction](../../topics/auction/index.md), [Heritage Auctions](../../topics/heritage-auctions/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/archive-882fcf7bb9174d71915dcb9c630dd03d))</li><ul>
+
+----
+
  - [**"My Surreal Time Planning Prince’s Iconic Super Bowl Performance -- As Head of Programming for the NFL, it was my job to plan Prince’s rain-soaked Super Bowl halftime show on February 4, 2007. And what a time it was."**](https://www.thedailybeast.com/my-surreal-time-planning-princes-iconic-super-bowl-performance)<ul><li>in [www.thedailybeast.com](https://www.thedailybeast.com/)</li><li>on 14 May 2016</li><li>about [1999 (song)](../../topics/song/1999/index.md), [Foo Fighters](../../topics/foo-fighters/index.md), [James Brown](../../topics/james-brown/index.md), [Lenny Kravitz](../../topics/lenny-kravitz/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Raspberry Beret (song)](../../topics/song/raspberry-beret/index.md), [Super Bowl](../../topics/super-bowl/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.thedailybeast.com/my-surreal-time-planning-princes-iconic-super-bowl-performance))</li><ul>
 
 ----
@@ -952,7 +984,7 @@
 
 ----
 
- - [**"Questions linger about Prince’s choice of local doctor"**](https://apnews.com/270a7bd6fd104e909002bc2f6af592e2)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 12 May 2016</li><li>about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Carver County](../../topics/carver-county/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [North Memorial Medical Center (place)](../../topics/place/north-memorial-medical-center/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/270a7bd6fd104e909002bc2f6af592e2))</li><ul>
+ - [**"Questions linger about Prince’s choice of local doctor"**](https://apnews.com/270a7bd6fd104e909002bc2f6af592e2)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 12 May 2016</li><li>about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Carver County](../../topics/carver-county/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [North Memorial Medical Center (place)](../../topics/place/north-memorial-medical-center/index.md), [opioid](../../topics/opioid/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/270a7bd6fd104e909002bc2f6af592e2))</li><ul>
 
 ----
 
@@ -972,15 +1004,23 @@
 
 ----
 
+ - [**"Timeline of key events in last 2 weeks of Prince’s life"**](https://apnews.com/article/d8ac67ca8eeb454e91a88c22254a15e0)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 11 May 2016</li><li>about [opioid](../../topics/opioid/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/d8ac67ca8eeb454e91a88c22254a15e0))</li><ul>
+
+----
+
+ - [**"Un médico vio a Prince y recetó fármacos, según documentos"**](https://apnews.com/article/archive-a2ac92f8fe6c4aaf991dfbcde3b83d04)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 11 May 2016</li><li>about [opioid](../../topics/opioid/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/archive-a2ac92f8fe6c4aaf991dfbcde3b83d04))</li><ul>
+
+----
+
  - [**"Warrant: Doctor prescribed drugs for Prince -- A Minnesota doctor saw Prince twice in the month before his death - including the day before he died - and prescribed him medication, according to a search warrant. Authorities returned to Prince's estate outside Minneapolis on Tuesday."**](http://video.startribune.com/warrant-doctor-prescribed-drugs-for-prince/378949141/)<ul><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 11 May 2016</li><li>([mirror](https://web.archive.org/web/*/http://video.startribune.com/warrant-doctor-prescribed-drugs-for-prince/378949141/))</li><ul>
 
 ----
 
- - [**"Warrant: Minnesota doctor saw Prince, prescribed drugs"**](https://apnews.com/21140409ac784faf88f88ce5c400bbe3)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 11 May 2016</li><li>about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [North Memorial Medical Center (place)](../../topics/place/north-memorial-medical-center/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/21140409ac784faf88f88ce5c400bbe3))</li><ul>
+ - [**"Warrant: Minnesota doctor saw Prince, prescribed drugs"**](https://apnews.com/21140409ac784faf88f88ce5c400bbe3)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 11 May 2016</li><li>about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [North Memorial Medical Center (place)](../../topics/place/north-memorial-medical-center/index.md), [opioid](../../topics/opioid/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/21140409ac784faf88f88ce5c400bbe3))</li><ul>
 
 ----
 
- - [**"Warrant: Minnesota doctor saw Prince, prescribed drugs"**](https://apnews.com/53b7f73993c649aebb7165d234092956)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 11 May 2016</li><li>about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [North Memorial Medical Center (place)](../../topics/place/north-memorial-medical-center/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/53b7f73993c649aebb7165d234092956))</li><ul>
+ - [**"Warrant: Minnesota doctor saw Prince, prescribed drugs"**](https://apnews.com/53b7f73993c649aebb7165d234092956)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 11 May 2016</li><li>about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [North Memorial Medical Center (place)](../../topics/place/north-memorial-medical-center/index.md), [opioid](../../topics/opioid/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/53b7f73993c649aebb7165d234092956))</li><ul>
 
 ----
 
@@ -1052,7 +1092,7 @@
 
 ----
 
- - [**"Prince ‘lifesaving mission’ turned tragic for doctor’s son"**](https://apnews.com/61eb334d2707436b985834c397431932)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 7 May 2016</li><li>about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/61eb334d2707436b985834c397431932))</li><ul>
+ - [**"Prince ‘lifesaving mission’ turned tragic for doctor’s son"**](https://apnews.com/61eb334d2707436b985834c397431932)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 7 May 2016</li><li>about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [opioid](../../topics/opioid/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/61eb334d2707436b985834c397431932))</li><ul>
 
 ----
 
@@ -1096,7 +1136,7 @@
 
 ----
 
- - [**"Questions: Did Prince’s call for help get right response?"**](https://apnews.com/cd138135a4da439f8a24e443d2f4d445)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 5 May 2016</li><li>about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/cd138135a4da439f8a24e443d2f4d445))</li><ul>
+ - [**"Questions: Did Prince’s call for help get right response?"**](https://apnews.com/cd138135a4da439f8a24e443d2f4d445)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 5 May 2016</li><li>about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [opioid](../../topics/opioid/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/cd138135a4da439f8a24e443d2f4d445))</li><ul>
 
 ----
 
@@ -1112,11 +1152,15 @@
 
 ----
 
+ - [**"Former Prince assistant says he was healthy, energetic"**](https://apnews.com/article/-----2e1a16d654e9425bbe862f673c1e0de7)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 4 May 2016</li><li>about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Mariah Brown](../../topics/mariah-brown/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [toxicology report](../../topics/toxicology-report/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/-----2e1a16d654e9425bbe862f673c1e0de7))</li><ul>
+
+----
+
  - [**"Prince died amid frantic plans for drug addiction treatment -- California doctor specializing in opioid addiction had been called to help with a 'grave medical emergency.'"**](https://www.startribune.com/addiction-doctor-was-to-have-seen-prince-just-before-his-death/378051471/)<ul><li>by David Chanen</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 4 May 2016</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/addiction-doctor-was-to-have-seen-prince-just-before-his-death/378051471/))</li><ul>
 
 ----
 
- - [**"Prince’s death: The view from front lines of drug epidemic"**](https://apnews.com/0796ee79840b4047a3b16d3f4dbebe8f)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 4 May 2016</li><li>about [fentanyl](../../topics/fentanyl/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/0796ee79840b4047a3b16d3f4dbebe8f))</li><ul>
+ - [**"Prince’s death: The view from front lines of drug epidemic"**](https://apnews.com/0796ee79840b4047a3b16d3f4dbebe8f)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 4 May 2016</li><li>about [fentanyl](../../topics/fentanyl/index.md), [opioid](../../topics/opioid/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/0796ee79840b4047a3b16d3f4dbebe8f))</li><ul>
 
 ----
 
@@ -1176,17 +1220,17 @@
 
 ----
 
-## April 2016 (118)
+## April 2016 (134)
 
  - [**"AP Exclusive: Prince’s ‘Purple Rain’ coat is up for auction"**](https://apnews.com/8110dcbaa6714d75a12db043ff989975)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 29 April 2016</li><li>about [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [auction](../../topics/auction/index.md), [Katy Perry](../../topics/katy-perry/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [motorcycle](../../topics/motorcycle/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/8110dcbaa6714d75a12db043ff989975))</li><ul>
 
 ----
 
- - [**"APNewsBreak: Investigators look at overdose in Prince death"**](https://www.startribune.com/apnewsbreak-investigators-look-at-overdose-in-prince-death/377540691/)<ul><li>by Amy Forliti (Associated Press)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 29 April 2016</li><li>about [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Percocet](../../topics/percocet/index.md), [TMZ (website)](../../topics/website/tmz/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/apnewsbreak-investigators-look-at-overdose-in-prince-death/377540691/))</li><ul>
+ - [**"APNewsBreak: Investigators look at overdose in Prince death"**](https://www.startribune.com/apnewsbreak-investigators-look-at-overdose-in-prince-death/377540691/)<ul><li>by Amy Forliti (Associated Press)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 29 April 2016</li><li>about [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [opioid](../../topics/opioid/index.md), [Percocet](../../topics/percocet/index.md), [TMZ (website)](../../topics/website/tmz/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/apnewsbreak-investigators-look-at-overdose-in-prince-death/377540691/))</li><ul>
 
 ----
 
- - [**"APNewsBreak: Investigators look at overdose in Prince death"**](https://apnews.com/744a34089a8241df95a836b358741ace)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 29 April 2016</li><li>about [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Percocet](../../topics/percocet/index.md), [Sheila E.](../../topics/sheila-e/index.md), [TMZ (website)](../../topics/website/tmz/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/744a34089a8241df95a836b358741ace))</li><ul>
+ - [**"APNewsBreak: Investigators look at overdose in Prince death"**](https://apnews.com/744a34089a8241df95a836b358741ace)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 29 April 2016</li><li>about [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [opioid](../../topics/opioid/index.md), [Percocet](../../topics/percocet/index.md), [Sheila E.](../../topics/sheila-e/index.md), [TMZ (website)](../../topics/website/tmz/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/744a34089a8241df95a836b358741ace))</li><ul>
 
 ----
 
@@ -1210,7 +1254,7 @@
 
 ----
 
- - [**"Prince death investigation focuses on flight, drugs, doctor"**](https://apnews.com/175b0bd7f6f641b1b9b90b268bb3375e)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 29 April 2016</li><li>about [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [Sheila E.](../../topics/sheila-e/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/175b0bd7f6f641b1b9b90b268bb3375e))</li><ul>
+ - [**"Prince death investigation focuses on flight, drugs, doctor"**](https://apnews.com/175b0bd7f6f641b1b9b90b268bb3375e)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 29 April 2016</li><li>about [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [opioid](../../topics/opioid/index.md), [Sheila E.](../../topics/sheila-e/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/175b0bd7f6f641b1b9b90b268bb3375e))</li><ul>
 
 ----
 
@@ -1223,6 +1267,10 @@
 ----
 
  - [**"‘I’m Going to Personify Sex in Every Way’: Prince’s Defining ‘Dirty Mind’ Album -- A refusal to be labeled R&B, a rivalry with Rick James and a very dirty song called 'Head': the groundbreaking arrival of 1980's 'Dirty Mind.'"**](https://www.billboard.com/music/features/prince-dirty-mind-retrospective-7348526/)<ul><li>in [Billboard](https://www.billboard.com/)</li><li>on 28 April 2016</li><li>about [American Bandstand](../../topics/american-bandstand/index.md), [André Cymone](../../topics/andr-cymone/index.md), [Andy Warhol](../../topics/andy-warhol/index.md), [Bobby Z](../../topics/bobby-z/index.md), [Denver (place)](../../topics/place/denver/index.md), [Detroit (place)](../../topics/place/detroit/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [Dick Clark](../../topics/dick-clark/index.md), [Dirty Mind (album)](../../topics/album/dirty-mind/index.md), [Dirty Mind (tour)](../../topics/tour/dirty-mind/index.md), [Gayle Chapman](../../topics/gayle-chapman/index.md), [Head (song)](../../topics/song/head/index.md), [I Wanna Be Your Lover (song)](../../topics/song/i-wanna-be-your-lover/index.md), [Ken Tucker](../../topics/ken-tucker/index.md), [Lake Minnetonka (place)](../../topics/place/lake-minnetonka/index.md), [Lenny Waronker](../../topics/lenny-waronker/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Los Angeles (place)](../../topics/place/los-angeles/index.md), [memoir](../../topics/memoir/index.md), [Mo Ostin](../../topics/mo-ostin/index.md), [Rick James](../../topics/rick-james/index.md), [Rolling Stone (magazine)](../../topics/magazine/rolling-stone/index.md), [Roxy (place)](../../topics/place/roxy/index.md), [Russ Thyret](../../topics/russ-thyret/index.md), [Sam’s (place)](../../topics/place/sam-s/index.md), [Steve Fargnoli](../../topics/steve-fargnoli/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Ted Cohen](../../topics/ted-cohen/index.md), [The Rainbow (place)](../../topics/place/the-rainbow/index.md), [The Ritz (place)](../../topics/place/the-ritz/index.md), [The Village Voice (magazine)](../../topics/magazine/the-village-voice/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md), [Wayzata (place)](../../topics/place/wayzata/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.billboard.com/music/features/prince-dirty-mind-retrospective-7348526/))</li><ul>
+
+----
+
+ - [**"Admiradores piden música de bóveda de Prince"**](https://apnews.com/article/2fd8bfebd0284a1b893a84abbc165d03)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 28 April 2016</li><li>about [Bangles](../../topics/bangles/index.md), [Bob Dylan](../../topics/bob-dylan/index.md), [Bremer Trust](../../topics/bremer-trust/index.md), [California (place)](../../topics/place/california/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Touré](../../topics/tour/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/2fd8bfebd0284a1b893a84abbc165d03))</li><ul>
 
 ----
 
@@ -1306,6 +1354,10 @@
 
 ----
 
+ - [**"Hermana de Prince: hasta donde se sabe, no dejó testamento"**](https://apnews.com/article/77e7b911f1d3465ab9f52e7aae95aa9c)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 26 April 2016</li><li>about [Bremer Trust](../../topics/bremer-trust/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [L. Londell McMillan](../../topics/l-londell-mcmillan/index.md), [Lake Ann (place)](../../topics/place/lake-ann/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/77e7b911f1d3465ab9f52e7aae95aa9c))</li><ul>
+
+----
+
  - [**"I found my letter from #Prince"**](https://twitter.com/suzyv/status/724728422006554624)<ul><li>by Suzanne Vega</li><li>in [Suzanne Vega on Twitter](https://twitter.com/suzyv/)</li><li>on 26 April 2016</li><li>about [Suzanne Vega](../../topics/suzanne-vega/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://twitter.com/suzyv/status/724728422006554624))</li><ul>
 
 ----
@@ -1334,6 +1386,10 @@
 
 ----
 
+ - [**"Prince, un hombre orquesta y un amigo para muchos"**](https://apnews.com/article/archive-0cd78570b8f24969999622976c4cf547)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 25 April 2016</li><li>about [Bangles](../../topics/bangles/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Esperanza Spalding](../../topics/esperanza-spalding/index.md), [Fleetwood Mac](../../topics/fleetwood-mac/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Kandace Springs](../../topics/kandace-springs/index.md), [Ken Ehrlich](../../topics/ken-ehrlich/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Rita Ora](../../topics/rita-ora/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stand Back (song)](../../topics/song/stand-back/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/archive-0cd78570b8f24969999622976c4cf547))</li><ul>
+
+----
+
  - [**"Sheila E.: Saying goodbye to Prince 'the hardest thing I've ever had to do' -- Sheila E., longtime friend, said she never knew Prince to take drugs."**](https://www.startribune.com/sheila-e-saying-goodbye-to-prince-the-hardest-thing-i-ve-ever-had-to-do/376906621/)<ul><li>by Jon Bream</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 25 April 2016</li><li>about [Celebration (event)](../../topics/event/celebration/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Lionel Richie](../../topics/lionel-richie/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Sheila E.](../../topics/sheila-e/index.md), [TMZ (website)](../../topics/website/tmz/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [WCCO-TV](../../topics/wcco-tv/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/sheila-e-saying-goodbye-to-prince-the-hardest-thing-i-ve-ever-had-to-do/376906621/))</li><ul>
 
 ----
@@ -1346,6 +1402,18 @@
 
 ----
 
+ - [**"‘Most beloved’ of Prince family, friends bid farewell"**](https://apnews.com/article/-----4b95289e0fa948359cd177da7ee7e03c)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 24 April 2016</li><li>about [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Fox Theatre (place)](../../topics/place/fox-theatre/index.md), [Jim Olson](../../topics/jim-olson/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Maurice Phillips](../../topics/maurice-phillips/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Sheila E.](../../topics/sheila-e/index.md), [St. Louis (place)](../../topics/place/st-louis/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Yvette Noel-Schure](../../topics/yvette-noel-schure/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/-----4b95289e0fa948359cd177da7ee7e03c))</li><ul>
+
+----
+
+ - [**"‘Saturday Night Live’ airs Prince tribute show"**](https://apnews.com/article/0380c2d217ed4cbfa3a999ad86fdd2c2)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 24 April 2016</li><li>about [Chris Rock](../../topics/chris-rock/index.md), [Fred Armisen](../../topics/fred-armisen/index.md), [Goodnight Sweet Prince (TV show)](../../topics/tv-show/goodnight-sweet-prince/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Maya Rudolph](../../topics/maya-rudolph/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [SNL (TV show)](../../topics/tv-show/snl/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/0380c2d217ed4cbfa3a999ad86fdd2c2))</li><ul>
+
+----
+
+ - [**"Beyond music, Prince’s legacy includes black activism"**](https://apnews.com/article/d34f4d7fe3f44c518cfe5a29e07c2b84)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 24 April 2016</li><li>about [Grammys](../../topics/grammys/index.md), [Van Jones](../../topics/van-jones/index.md), [YesWeCode](../../topics/yeswecode/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/d34f4d7fe3f44c518cfe5a29e07c2b84))</li><ul>
+
+----
+
  - [**"Latest: Publicist: SNL devotes show to Prince tribute"**](https://apnews.com/b57342f2b68447639ef7589c0caa9ee8)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 24 April 2016</li><li>about [3121 (album)](../../topics/album/3121/index.md), [Carver County](../../topics/carver-county/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Minnesota Historical Society](../../topics/minnesota-historical-society/index.md), [Minnesota History Center](../../topics/minnesota-history-center/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [Sheila E.](../../topics/sheila-e/index.md), [SNL (TV show)](../../topics/tv-show/snl/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/b57342f2b68447639ef7589c0caa9ee8))</li><ul>
 
 ----
@@ -1354,7 +1422,19 @@
 
 ----
 
+ - [**"LO ULTIMO: Creman los restos de Prince"**](https://apnews.com/article/archive-ed60139f778a4039a7f8f26f25288bb5)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 24 April 2016</li><li>about [Yvette Noel-Schure](../../topics/yvette-noel-schure/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/archive-ed60139f778a4039a7f8f26f25288bb5))</li><ul>
+
+----
+
+ - [**"Prince es incinerado y conmemorado en ceremonia privada"**](https://apnews.com/article/e27398e3a15d4dfdb3292350888ee482)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 24 April 2016</li><li>about [Atlanta (place)](../../topics/place/atlanta/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Jim Olson](../../topics/jim-olson/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Maurice Phillips](../../topics/maurice-phillips/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Percocet](../../topics/percocet/index.md), [Sheila E.](../../topics/sheila-e/index.md), [TMZ (website)](../../topics/website/tmz/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Yvette Noel-Schure](../../topics/yvette-noel-schure/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/e27398e3a15d4dfdb3292350888ee482))</li><ul>
+
+----
+
  - [**"Prince: An appreciation"**](https://www.cbsnews.com/news/prince-an-appreciation/)<ul><li>in [CBS News](https://www.cbsnews.com/)</li><li>on 24 April 2016</li><li>about [Bangles](../../topics/bangles/index.md), [George Clinton](../../topics/george-clinton/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Raspberry Beret (song)](../../topics/song/raspberry-beret/index.md), [U Got the Look (song)](../../topics/song/u-got-the-look/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/news/prince-an-appreciation/))</li><ul>
+
+----
+
+ - [**"Prince’s custom-made purple piano was to go on tour with him"**](https://apnews.com/article/4c8a40da6f114d688b414ab7305b9e8f)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 24 April 2016</li><li>about [Chris Gero](../../topics/chris-gero/index.md), [Piano and a Microphone (tour)](../../topics/tour/piano-and-a-microphone/index.md), [Yamaha Entertainment Group](../../topics/yamaha-entertainment-group/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/4c8a40da6f114d688b414ab7305b9e8f))</li><ul>
 
 ----
 
@@ -1386,6 +1466,10 @@
 
 ----
 
+ - [**"Más interrogantes de si Prince ocultaba problemas de salud"**](https://apnews.com/article/81d16b3992844f72a514e64cdae77c30)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 23 April 2016</li><li>about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Jim Olson](../../topics/jim-olson/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Sheila E.](../../topics/sheila-e/index.md), [TMZ (website)](../../topics/website/tmz/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/81d16b3992844f72a514e64cdae77c30))</li><ul>
+
+----
+
  - [**"New Prince mural in Uptown: ‘A present to Minneapolis’"**](https://blog.thecurrent.org/2016/04/new-prince-mural-in-uptown-a-present-to-minneapolis/)<ul><li>in [The Current - Local Current Blog](https://blog.thecurrent.org/)</li><li>on 23 April 2016</li><li>about [Rock “Cyfi” Martinez](../../topics/rock-cyfi-martinez/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2016/04/new-prince-mural-in-uptown-a-present-to-minneapolis/))</li><ul>
 
 ----
@@ -1394,11 +1478,19 @@
 
 ----
 
+ - [**"Prince iba a salir de gira con piano morado personalizado"**](https://apnews.com/article/archive-1f4284758f1c4fac9244e5ccdbadfadb)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 23 April 2016</li><li>about [Chris Gero](../../topics/chris-gero/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Piano and a Microphone (tour)](../../topics/tour/piano-and-a-microphone/index.md), [Yamaha Entertainment Group](../../topics/yamaha-entertainment-group/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/archive-1f4284758f1c4fac9244e5ccdbadfadb))</li><ul>
+
+----
+
  - [**"Prince sells 1M songs, 231K albums posthumously"**](https://usatoday.com/story/life/music/2016/04/22/prince-sales-death/83376684/)<ul><li>in [USA Today](https://usatoday.com/)</li><li>on 23 April 2016</li><li>about [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Spotify](../../topics/spotify/index.md), [Tidal](../../topics/tidal/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2016/04/22/prince-sales-death/83376684/))</li><ul>
 
 ----
 
  - [**"Prince: global rock star, musical genius, cultural icon — and a good neighbor -- An anonymous note left outside Paisley Park is showing another side of the legend."**](https://www.startribune.com/prince-global-rock-star-musical-genius-cultural-icon-and-a-good-neighbor/376848181/)<ul><li>by Colleen Kelly</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 23 April 2016</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-global-rock-star-musical-genius-cultural-icon-and-a-good-neighbor/376848181/))</li><ul>
+
+----
+
+ - [**"Prince’s death raises numerous questions about prior health"**](https://apnews.com/article/0ad5478b8b1c4c95997ad31f40b80d94)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 23 April 2016</li><li>about [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Fox Theatre (place)](../../topics/place/fox-theatre/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [Jim Olson](../../topics/jim-olson/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Percocet](../../topics/percocet/index.md), [Sheila E.](../../topics/sheila-e/index.md), [St. Louis (place)](../../topics/place/st-louis/index.md), [TMZ (website)](../../topics/website/tmz/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/0ad5478b8b1c4c95997ad31f40b80d94))</li><ul>
 
 ----
 
@@ -1454,6 +1546,14 @@
 
 ----
 
+ - [**"Minneapolis block party for Prince goes all night"**](https://apnews.com/article/133c7e54f80d472f8a04767d89b4a261)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 22 April 2016</li><li>about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/133c7e54f80d472f8a04767d89b4a261))</li><ul>
+
+----
+
+ - [**"Minneapolis despide a Prince con enorme fiesta callejera"**](https://apnews.com/article/archive-e13d6438c0c449369aae7b130287fb56)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 22 April 2016</li><li>about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/archive-e13d6438c0c449369aae7b130287fb56))</li><ul>
+
+----
+
  - [**"Nashville mourns a Prince"**](https://eu.tennessean.com/story/entertainment/music/2016/04/21/nashville-musicians-remember-prince/83340932/)<ul><li>in [Tennessean](https://tennessean.com/)</li><li>on 22 April 2016</li><li>about [Laura LiPuma](../../topics/laura-lipuma/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [museum](../../topics/museum/index.md), [Super Bowl](../../topics/super-bowl/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://eu.tennessean.com/story/entertainment/music/2016/04/21/nashville-musicians-remember-prince/83340932/))</li><ul>
 
 ----
@@ -1470,7 +1570,15 @@
 
 ----
 
+ - [**"Prince “reescribió las reglas” de la música"**](https://apnews.com/article/dbe5c9245d024a89bca2376ee8b631c0)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 22 April 2016</li><li>about [Bangles](../../topics/bangles/index.md), [Black Album (album)](../../topics/album/black-album/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [Eden Prairie (place)](../../topics/place/eden-prairie/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Frank Zappa](../../topics/frank-zappa/index.md), [James Brown](../../topics/james-brown/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Morris Day](../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Parents Music Resource Center](../../topics/parents-music-resource-center/index.md), [Roger Ebert](../../topics/roger-ebert/index.md), [The Black Album (album)](../../topics/album/the-black-album/index.md), [Tidal](../../topics/tidal/index.md), [Tipper Gore](../../topics/tipper-gore/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md), [Yvette Noel-Schure](../../topics/yvette-noel-schure/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/dbe5c9245d024a89bca2376ee8b631c0))</li><ul>
+
+----
+
  - [**"Prince 911 call: Read the transcript"**](https://usatoday.com/story/life/people/2016/04/21/transcript-of-911-call-to-princes-compound/83368052/)<ul><li>in [USA Today](https://usatoday.com/)</li><li>on 22 April 2016</li><li>about [Audubon Road](../../topics/audubon-road/index.md), [Carver County](../../topics/carver-county/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/people/2016/04/21/transcript-of-911-call-to-princes-compound/83368052/))</li><ul>
+
+----
+
+ - [**"Prince and sports: Music in blood, basketball in his heart"**](https://apnews.com/article/6e2e2f449641404596505f08bf84bb3a)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 22 April 2016</li><li>about [Central High](../../topics/central-high/index.md), [Central High School (place)](../../topics/place/central-high-school/index.md), [Duane Nelson](../../topics/duane-nelson/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Minnesota Twins](../../topics/minnesota-twins/index.md), [Purple and Gold (song)](../../topics/song/purple-and-gold/index.md), [St. Paul (place)](../../topics/place/st-paul/index.md), [Super Bowl](../../topics/super-bowl/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/6e2e2f449641404596505f08bf84bb3a))</li><ul>
 
 ----
 
@@ -1526,7 +1634,7 @@
 
 ----
 
- - [**"AXS TV Celebrates The Life And Legacy Of Music Icon Prince With A Special Programming Lineup On Saturday, April 23 -- The Tribute Features the Prince Edition of ROCK LEGENDS at 1 P.M. ET/10 A.M. PT, and the Television Premiere of the Acclaimed Documentary SLAVE TRADE: HOW PRINCE RE-MADE THE MUSIC BUSINESS at 2 P.M. ET/11 A.M. PT"**](https://www.prnewswire.com/news-releases/axs-tv-celebrates-the-life-and-legacy-of-music-icon-prince-with-a-special-programming-lineup-on-saturday-april-23-300255801.html)<ul><li>in [PR Newswire](https://www.prnewswire.com/)</li><li>on 21 April 2016</li><li>about [Michael Jackson](../../topics/michael-jackson/index.md), [Slave Trade: How Prince Re-Made the Music Business (documentary)](../../topics/documentary/slave-trade-how-prince-re-made-the-music-business/index.md), [Super Bowl](../../topics/super-bowl/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/axs-tv-celebrates-the-life-and-legacy-of-music-icon-prince-with-a-special-programming-lineup-on-saturday-april-23-300255801.html))</li><ul>
+ - [**"AXS TV Celebrates The Life And Legacy Of Music Icon Prince With A Special Programming Lineup On Saturday, April 23 -- The Tribute Features the Prince Edition of ROCK LEGENDS at 1 P.M. ET/10 A.M. PT, and the Television Premiere of the Acclaimed Documentary SLAVE TRADE: HOW PRINCE RE-MADE THE MUSIC BUSINESS at 2 P.M. ET/11 A.M. PT"**](https://www.prnewswire.com/news-releases/axs-tv-celebrates-the-life-and-legacy-of-music-icon-prince-with-a-special-programming-lineup-on-saturday-april-23-300255801.html)<ul><li>in [PR Newswire](https://www.prnewswire.com/)</li><li>on 21 April 2016</li><li>about [AXS TV](../../topics/axs-tv/index.md), [Creative Artists Agency](../../topics/creative-artists-agency/index.md), [Dan Rather](../../topics/dan-rather/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Slave Trade: How Prince Re-Made the Music Business (documentary)](../../topics/documentary/slave-trade-how-prince-re-made-the-music-business/index.md), [Super Bowl](../../topics/super-bowl/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/axs-tv-celebrates-the-life-and-legacy-of-music-icon-prince-with-a-special-programming-lineup-on-saturday-april-23-300255801.html))</li><ul>
 
 ----
 
@@ -1574,7 +1682,7 @@
 
 ----
 
- - [**"Prince: More Important Than POTUS"**](https://www.prnewswire.com/news-releases/prince-more-important-than-potus-300255767.html)<ul><li>in [PR Newswire](https://www.prnewswire.com/)</li><li>on 21 April 2016</li><li>about [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/prince-more-important-than-potus-300255767.html))</li><ul>
+ - [**"Prince: More Important Than POTUS"**](https://www.prnewswire.com/news-releases/prince-more-important-than-potus-300255767.html)<ul><li>in [PR Newswire](https://www.prnewswire.com/)</li><li>on 21 April 2016</li><li>about [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Raspberry Beret (song)](../../topics/song/raspberry-beret/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/prince-more-important-than-potus-300255767.html))</li><ul>
 
 ----
 

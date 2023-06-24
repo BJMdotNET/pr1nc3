@@ -92,6 +92,10 @@
 
 ----
 
+ - [**"Prince estate to Trump: Stop using music at rallies"**](https://apnews.com/article/f7b05b613fac4cee92a2bffb81d00abe)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 12 October 2018</li><li>about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Donald Trump](../../topics/donald-trump/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Trump](../../topics/trump/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/f7b05b613fac4cee92a2bffb81d00abe))</li><ul>
+
+----
+
  - [**"Prince estate to Trump: Stop using music at rallies"**](https://apnews.com/af0a5a4fc34d48ffb9f29da4c5ef9771)<ul><li>by The Associated Press</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 12 October 2018</li><li>about [Donald Trump](../../topics/donald-trump/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Trump](../../topics/trump/index.md), [White House (place)](../../topics/place/white-house/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/af0a5a4fc34d48ffb9f29da4c5ef9771))</li><ul>
 
 ----
@@ -100,7 +104,7 @@
 
 ----
 
- - [**"Music by Prince’s father featured on new album, tracking ‘that DNA thing’"**](https://apnews.com/869e0302972c4e36aa99981332602cd0)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 9 March 2018</li><li>about [John L. Nelson](../../topics/john-l-nelson/index.md), [museum](../../topics/museum/index.md), [Owen Husney](../../topics/owen-husney/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Trump](../../topics/trump/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/869e0302972c4e36aa99981332602cd0))</li><ul>
+ - [**"Music by Prince’s father featured on new album, tracking ‘that DNA thing’"**](https://apnews.com/869e0302972c4e36aa99981332602cd0)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 8 March 2018</li><li>about [John L. Nelson](../../topics/john-l-nelson/index.md), [museum](../../topics/museum/index.md), [Owen Husney](../../topics/owen-husney/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Trump](../../topics/trump/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/869e0302972c4e36aa99981332602cd0))</li><ul>
 
 ----
 

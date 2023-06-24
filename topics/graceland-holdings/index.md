@@ -1,9 +1,5 @@
 # Graceland Holdings
 
- - [**"Paisley Park, home of Prince, opens for public tours Oct. 6"**](https://apnews.com/article/fe17adc4f32441bd85d0176a50d3cd0b)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 22 June 2023</li><li>about [Bremer Trust](../../topics/bremer-trust/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Denny Laufenburger](../../topics/denny-laufenburger/index.md), [divorce](../../topics/divorce/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [motorcycle](../../topics/motorcycle/index.md), [museum](../../topics/museum/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/fe17adc4f32441bd85d0176a50d3cd0b))</li><ul>
-
-----
-
  - [**"Paisley Park gets a reboot: You can take cellphone pics, and even drink, too -- Four years after Prince's death, his Chanhassen studio has come alive again under a new director who's even allowing cellphones and alcohol."**](https://www.startribune.com/paisley-park-gets-a-reboot-you-can-take-cellphone-pics-and-even-drink-too/568554622/)<ul><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 7 March 2020</li><li>about [1999 Super Deluxe (album)](../../topics/album/1999-super-deluxe/index.md), [Alan Seiffert](../../topics/alan-seiffert/index.md), [Andrea Bruce](../../topics/andrea-bruce/index.md), [Angela Aycock](../../topics/angela-aycock/index.md), [Beck](../../topics/beck/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [Comerica](../../topics/comerica/index.md), [Comerica Trust](../../topics/comerica-trust/index.md), [exhibit](../../topics/exhibit/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [Joel Weinshanker](../../topics/joel-weinshanker/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Lovesexy (tour)](../../topics/tour/lovesexy/index.md), [Meshell Ndegeocello](../../topics/meshell-ndegeocello/index.md), [Mitch Maguire](../../topics/mitch-maguire/index.md), [museum](../../topics/museum/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Trevor Guy](../../topics/trevor-guy/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/paisley-park-gets-a-reboot-you-can-take-cellphone-pics-and-even-drink-too/568554622/))</li><ul>
 
 ----
@@ -76,11 +72,19 @@
 
 ----
 
+ - [**"Rezoning decision means Paisley Park can open permanently"**](https://apnews.com/article/3d3261f07e9b4edb879832ea78bf1280)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 25 October 2016</li><li>about [ashes](../../topics/ashes/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Denny Laufenburger](../../topics/denny-laufenburger/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [Joel Weinshanker](../../topics/joel-weinshanker/index.md), [motorcycle](../../topics/motorcycle/index.md), [museum](../../topics/museum/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [St. Paul (place)](../../topics/place/st-paul/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md), [urn](../../topics/urn/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/3d3261f07e9b4edb879832ea78bf1280))</li><ul>
+
+----
+
  - [**"Paisley Park visitors will see Prince's studio and mementoes"**](https://www.startribune.com/paisley-park-visitors-will-see-prince-s-studio-and-mementoes/396025851/)<ul><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 5 October 2016</li><li>about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [museum](../../topics/museum/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [NPG Music Club (website)](../../topics/website/npg-music-club/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/paisley-park-visitors-will-see-prince-s-studio-and-mementoes/396025851/))</li><ul>
 
 ----
 
  - [**"Wanted: Tour guides, security for Prince’s Paisley Park"**](https://apnews.com/abcfffe116284e97b83ea2b6fd43818b)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 6 September 2016</li><li>about [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/abcfffe116284e97b83ea2b6fd43818b))</li><ul>
+
+----
+
+ - [**"Paisley Park, home of Prince, opens for public tours Oct. 6"**](https://apnews.com/article/fe17adc4f32441bd85d0176a50d3cd0b)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 25 August 2016</li><li>about [Bremer Trust](../../topics/bremer-trust/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Denny Laufenburger](../../topics/denny-laufenburger/index.md), [divorce](../../topics/divorce/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [motorcycle](../../topics/motorcycle/index.md), [museum](../../topics/museum/index.md), [opioid](../../topics/opioid/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/fe17adc4f32441bd85d0176a50d3cd0b))</li><ul>
 
 ----
 

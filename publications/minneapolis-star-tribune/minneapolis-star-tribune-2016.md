@@ -180,7 +180,7 @@
 
 ----
 
- - [**"Official Prince tribute concert set for October at U.S. Bank Stadium"**](https://www.startribune.com/apnewsbreak-official-prince-tribute-concert-set-for-october/388585801/)<ul><li>by Mesfin Fekadu (Associated Press)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 28 July 2016</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/apnewsbreak-official-prince-tribute-concert-set-for-october/388585801/))</li><ul>
+ - [**"Official Prince tribute concert set for October at U.S. Bank Stadium"**](https://www.startribune.com/apnewsbreak-official-prince-tribute-concert-set-for-october/388585801/)<ul><li>by Mesfin Fekadu (Associated Press)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 28 July 2016</li><li>about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [BET Awards](../../topics/bet-awards/index.md), [Beyoncé](../../topics/beyonc/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Janelle Monae](../../topics/janelle-monae/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Roots](../../topics/the-roots/index.md), [The Time](../../topics/the-time/index.md), [Tori Kelly](../../topics/tori-kelly/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/apnewsbreak-official-prince-tribute-concert-set-for-october/388585801/))</li><ul>
 
 ----
 
@@ -686,7 +686,7 @@
 
 ## April 2016 (41)
 
- - [**"APNewsBreak: Investigators look at overdose in Prince death"**](https://www.startribune.com/apnewsbreak-investigators-look-at-overdose-in-prince-death/377540691/)<ul><li>by Amy Forliti (Associated Press)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 29 April 2016</li><li>about [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Percocet](../../topics/percocet/index.md), [TMZ (website)](../../topics/website/tmz/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/apnewsbreak-investigators-look-at-overdose-in-prince-death/377540691/))</li><ul>
+ - [**"APNewsBreak: Investigators look at overdose in Prince death"**](https://www.startribune.com/apnewsbreak-investigators-look-at-overdose-in-prince-death/377540691/)<ul><li>by Amy Forliti (Associated Press)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 29 April 2016</li><li>about [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [opioid](../../topics/opioid/index.md), [Percocet](../../topics/percocet/index.md), [TMZ (website)](../../topics/website/tmz/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/apnewsbreak-investigators-look-at-overdose-in-prince-death/377540691/))</li><ul>
 
 ----
 

@@ -22,9 +22,9 @@
 
 ----
 
-## June 2020 (7)
+## June 2020 (8)
 
- - [**"Tween Pop Rock Sensations Hello Sister Launch Pilot Episode of Their Own TV Show, 'Pop Through The Decades,' Featuring Prince's "1999" -- Pilot episode shot in Nashville and Orlando follows the up-and-coming sister band as they recreate Prince's iconic party hit "1999""**](https://www.prnewswire.com/news-releases/tween-pop-rock-sensations-hello-sister-launch-pilot-episode-of-their-own-tv-show-pop-through-the-decades-featuring-princes-1999-301084989.html)<ul><li>in [PR Newswire](https://www.prnewswire.com/)</li><li>on 29 June 2020</li><li>about [1999 (song)](../../topics/song/1999/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/tween-pop-rock-sensations-hello-sister-launch-pilot-episode-of-their-own-tv-show-pop-through-the-decades-featuring-princes-1999-301084989.html))</li><ul>
+ - [**"Tween Pop Rock Sensations Hello Sister Launch Pilot Episode of Their Own TV Show, 'Pop Through The Decades,' Featuring Prince's "1999" -- Pilot episode shot in Nashville and Orlando follows the up-and-coming sister band as they recreate Prince's iconic party hit "1999""**](https://www.prnewswire.com/news-releases/tween-pop-rock-sensations-hello-sister-launch-pilot-episode-of-their-own-tv-show-pop-through-the-decades-featuring-princes-1999-301084989.html)<ul><li>in [PR Newswire](https://www.prnewswire.com/)</li><li>on 29 June 2020</li><li>about [1999 (song)](../../topics/song/1999/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [Hello Sister](../../topics/hello-sister/index.md), [Pop Through The Decades (TV show)](../../topics/tv-show/pop-through-the-decades/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/tween-pop-rock-sensations-hello-sister-launch-pilot-episode-of-their-own-tv-show-pop-through-the-decades-featuring-princes-1999-301084989.html))</li><ul>
 
 ----
 
@@ -49,6 +49,16 @@
 ----
 
  - [**"Paisley Park’s reopening… but there are rules. (Aren’t there always?)"**](http://www.citypages.com/music/paisley-parks-reopening-but-there-are-rules-arent-there-always/571464341)<ul><li>in [City Pages](http://www.citypages.com/)</li><li>on 24 June 2020</li><li>([mirror](https://web.archive.org/web/*/http://www.citypages.com/music/paisley-parks-reopening-but-there-are-rules-arent-there-always/571464341))</li><ul>
+
+----
+
+ - [**"Guitarra de Prince es subastada por más de 560.000 dólares"**](https://apnews.com/article/2ad05c50c8d859c3b81f834077f7cee6)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 20 June 2020</li><li>about [auction](../../topics/auction/index.md), [Madonna](../../topics/madonna/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/2ad05c50c8d859c3b81f834077f7cee6))</li><ul>
+
+----
+
+## April 2020 (1)
+
+ - [**"Say hello to ‘Trolls,’ farewell to ‘Modern Family’ this week"**](https://apnews.com/article/virus-outbreak-music-entertainment-joe-satriani-christopher-guest-4fe08b5eeab02cdcacba7caba22f66cc)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 7 April 2020</li><li>about [Lisa Coleman](../../topics/lisa-coleman/index.md), [The Revolution](../../topics/the-revolution/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/virus-outbreak-music-entertainment-joe-satriani-christopher-guest-4fe08b5eeab02cdcacba7caba22f66cc))</li><ul>
 
 ----
 
@@ -196,7 +206,7 @@
 
 ----
 
- - [**"Prince doctor to pay $4K civil penalty for prescription"**](https://apnews.com/58492fc402a996c118253c33f6fd5703)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 3 February 2020</li><li>about [Amy Conners](../../topics/amy-conners/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Michael Schulenberg](../../topics/michael-schulenberg/index.md), [oxycodone](../../topics/oxycodone/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/58492fc402a996c118253c33f6fd5703))</li><ul>
+ - [**"Prince doctor to pay $4K civil penalty for prescription"**](https://apnews.com/58492fc402a996c118253c33f6fd5703)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 3 February 2020</li><li>about [Amy Conners](../../topics/amy-conners/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Michael Schulenberg](../../topics/michael-schulenberg/index.md), [opioid](../../topics/opioid/index.md), [oxycodone](../../topics/oxycodone/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/58492fc402a996c118253c33f6fd5703))</li><ul>
 
 ----
 
@@ -442,7 +452,7 @@
 
 ----
 
- - [**"Prince wrongful death case dismissed; estate case continues"**](https://apnews.com/720413e6c7ff85e224936f008554f2a0)<ul><li>by Amy Forliti (Associated Press)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 20 January 2020</li><li>about [Alfred Jackson](../../topics/alfred-jackson/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [John Nelson](../../topics/john-nelson/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Michael Schulenberg](../../topics/michael-schulenberg/index.md), [oxycodone](../../topics/oxycodone/index.md), [Primary Wave](../../topics/primary-wave/index.md), [Trinity Medical Center (place)](../../topics/place/trinity-medical-center/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Walgreens](../../topics/walgreens/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/720413e6c7ff85e224936f008554f2a0))</li><ul>
+ - [**"Prince wrongful death case dismissed; estate case continues"**](https://apnews.com/720413e6c7ff85e224936f008554f2a0)<ul><li>by Amy Forliti (Associated Press)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 20 January 2020</li><li>about [Alfred Jackson](../../topics/alfred-jackson/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [John Nelson](../../topics/john-nelson/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Michael Schulenberg](../../topics/michael-schulenberg/index.md), [opioid](../../topics/opioid/index.md), [oxycodone](../../topics/oxycodone/index.md), [Primary Wave](../../topics/primary-wave/index.md), [Trinity Medical Center (place)](../../topics/place/trinity-medical-center/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Walgreens](../../topics/walgreens/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/720413e6c7ff85e224936f008554f2a0))</li><ul>
 
 ----
 

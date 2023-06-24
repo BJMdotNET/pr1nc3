@@ -8,4 +8,8 @@
 
 ----
 
+ - [**"Rezoning decision means Paisley Park can open permanently"**](https://apnews.com/article/3d3261f07e9b4edb879832ea78bf1280)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 25 October 2016</li><li>about [ashes](../../topics/ashes/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Denny Laufenburger](../../topics/denny-laufenburger/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [Joel Weinshanker](../../topics/joel-weinshanker/index.md), [motorcycle](../../topics/motorcycle/index.md), [museum](../../topics/museum/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [St. Paul (place)](../../topics/place/st-paul/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md), [urn](../../topics/urn/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/3d3261f07e9b4edb879832ea78bf1280))</li><ul>
+
+----
+
 [Home](../index.md)

@@ -1,5 +1,9 @@
 # Madonna
 
+ - [**"Guitarra de Prince es subastada por más de 560.000 dólares"**](https://apnews.com/article/2ad05c50c8d859c3b81f834077f7cee6)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 20 June 2020</li><li>about [auction](../../topics/auction/index.md), [Madonna](../../topics/madonna/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/2ad05c50c8d859c3b81f834077f7cee6))</li><ul>
+
+----
+
  - [**"The Hold Steady, Neko Case and local supergroup Golden Smog booked for First Avenue’s 50th birthday weekend"**](https://www.twincities.com/2020/02/13/the-hold-steady-neko-case-and-local-supergroup-golden-smog-booked-for-first-avenues-50th-birthday-weekend/)<ul><li>in [TwinCities.com - Pioneer Press](https://www.twincities.com/)</li><li>on 13 February 2020</li><li>about [Celebration (event)](../../topics/event/celebration/index.md), [Chastity Brown](../../topics/chastity-brown/index.md), [fentanyl](../../topics/fentanyl/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Madonna](../../topics/madonna/index.md), [Meshell Ndegeocello](../../topics/meshell-ndegeocello/index.md), [Musicology: Real Music by Real Musicians (event)](../../topics/event/musicology-real-music-by-real-musicians/index.md), [Sometimes It Snows In April (song)](../../topics/song/sometimes-it-snows-in-april/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.twincities.com/2020/02/13/the-hold-steady-neko-case-and-local-supergroup-golden-smog-booked-for-first-avenues-50th-birthday-weekend/))</li><ul>
 
 ----

@@ -1,6 +1,14 @@
 # 2017
 
-## December 2017 (4)
+## December 2017 (6)
+
+ - [**"Minnesota music scene’s best moments and 10 best albums in 2017"**](https://apnews.com/article/music-archive-minnesota-9d3750a2a4344a248e305eb73abfed69)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 28 December 2017</li><li>about [First Avenue (place)](../../topics/place/first-avenue/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/music-archive-minnesota-9d3750a2a4344a248e305eb73abfed69))</li><ul>
+
+----
+
+ - [**"Minneapolis will be alive with activity during the Super Bowl"**](https://apnews.com/article/archive-minneapolis-06bbdc75a3da466cbe90d890fe362c72)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 24 December 2017</li><li>about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [motorcycle](../../topics/motorcycle/index.md), [museum](../../topics/museum/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/archive-minneapolis-06bbdc75a3da466cbe90d890fe362c72))</li><ul>
+
+----
 
  - [**"Franken, Keillor, Damond, Castile top Minnesota news in 2017"**](https://apnews.com/80ae6c0e800c49ba95447bb986d2dd78)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 22 December 2017</li><li>about [contract](../../topics/contract/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Obama](../../topics/obama/index.md), [Trump](../../topics/trump/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/80ae6c0e800c49ba95447bb986d2dd78))</li><ul>
 
@@ -70,7 +78,7 @@
 
 ----
 
- - [**"APNewsBreak: Prince tapes moved to California; 2 heirs angry"**](https://apnews.com/7fc066b10aa546e2977a0a85fc8ecb3b)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 12 October 2017</li><li>about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Carver County](../../topics/carver-county/index.md), [Comerica](../../topics/comerica/index.md), [Comerica Bank & Trust](../../topics/comerica-bank-trust/index.md), [Iron Mountain](../../topics/iron-mountain/index.md), [Iron Mountain Entertainment Services](../../topics/iron-mountain-entertainment-services/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [museum](../../topics/museum/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/7fc066b10aa546e2977a0a85fc8ecb3b))</li><ul>
+ - [**"APNewsBreak: Prince tapes moved to California; 2 heirs angry"**](https://apnews.com/7fc066b10aa546e2977a0a85fc8ecb3b)<ul><li>by Steve Karnowski (Associated Press)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 12 October 2017</li><li>about [Alfred Jackson](../../topics/alfred-jackson/index.md), [California (place)](../../topics/place/california/index.md), [Carver County](../../topics/carver-county/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Comerica](../../topics/comerica/index.md), [Comerica Bank & Trust](../../topics/comerica-bank-trust/index.md), [Iron Mountain](../../topics/iron-mountain/index.md), [Iron Mountain Entertainment Services](../../topics/iron-mountain-entertainment-services/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Los Angeles (place)](../../topics/place/los-angeles/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [vault](../../topics/vault/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/7fc066b10aa546e2977a0a85fc8ecb3b))</li><ul>
 
 ----
 
@@ -102,17 +110,17 @@
 
 ----
 
- - [**"China bans more synthetic opioids blamed for US drug deaths"**](https://apnews.com/421285a512ab4793ad1428f586e7e05a)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 19 June 2017</li><li>about [fentanyl](../../topics/fentanyl/index.md), [U-47700](../../topics/u-47700/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/421285a512ab4793ad1428f586e7e05a))</li><ul>
+ - [**"China bans more synthetic opioids blamed for US drug deaths"**](https://apnews.com/421285a512ab4793ad1428f586e7e05a)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 19 June 2017</li><li>about [fentanyl](../../topics/fentanyl/index.md), [opioid](../../topics/opioid/index.md), [U-47700](../../topics/u-47700/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/421285a512ab4793ad1428f586e7e05a))</li><ul>
 
 ----
 
 ## May 2017 (2)
 
- - [**"Judge: Sound engineer can’t publish unreleased Prince tracks"**](https://apnews.com/28f8d4317b3b43219621f58a3252addb)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 23 May 2017</li><li>about [Deliverance (EP)](../../topics/ep/deliverance/index.md), [Deliverance (song)](../../topics/song/deliverance/index.md), [George Ian Boxill](../../topics/george-ian-boxill/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [trademark](../../topics/trademark/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/28f8d4317b3b43219621f58a3252addb))</li><ul>
+ - [**"Judge: Sound engineer can’t publish unreleased Prince tracks"**](https://apnews.com/28f8d4317b3b43219621f58a3252addb)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 23 May 2017</li><li>about [Deliverance (EP)](../../topics/ep/deliverance/index.md), [Deliverance (song)](../../topics/song/deliverance/index.md), [George Ian Boxill](../../topics/george-ian-boxill/index.md), [opioid](../../topics/opioid/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [trademark](../../topics/trademark/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/28f8d4317b3b43219621f58a3252addb))</li><ul>
 
 ----
 
- - [**"Judge confirms Prince’s 6 siblings as heirs to his estate"**](https://apnews.com/19eec2a40a864efcb3eae84206dfd5c9)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 19 May 2017</li><li>about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [museum](../../topics/museum/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/19eec2a40a864efcb3eae84206dfd5c9))</li><ul>
+ - [**"Judge confirms Prince’s 6 siblings as heirs to his estate"**](https://apnews.com/19eec2a40a864efcb3eae84206dfd5c9)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 19 May 2017</li><li>about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [museum](../../topics/museum/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [opioid](../../topics/opioid/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/19eec2a40a864efcb3eae84206dfd5c9))</li><ul>
 
 ----
 
@@ -123,10 +131,6 @@
 ----
 
  - [**"Prince’s ex-wife Mayte Garcia pays tribute to late star"**](https://apnews.com/f7d92f7f16cd4330912e7a1674f4c8e7)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 22 April 2017</li><li>about [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [perfume](../../topics/perfume/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/f7d92f7f16cd4330912e7a1674f4c8e7))</li><ul>
-
-----
-
- - [**"Mayte Garcia on the Prince you didn’t know"**](https://apnews.com/a4115faebefc463a8aad4433e14f5d2b)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 21 April 2017</li><li>about [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [The Most Beautiful (book)](../../topics/book/the-most-beautiful/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/a4115faebefc463a8aad4433e14f5d2b))</li><ul>
 
 ----
 
@@ -154,11 +158,15 @@
 
 ----
 
- - [**"Affidavit: Doc prescribed Prince opioids under friend’s name"**](https://apnews.com/af6ad628c59f4c7fb7351908c72f4c23)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 18 April 2017</li><li>about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [oxycodone](../../topics/oxycodone/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/af6ad628c59f4c7fb7351908c72f4c23))</li><ul>
+ - [**"Mayte Garcia on the Prince you didn’t know"**](https://apnews.com/a4115faebefc463a8aad4433e14f5d2b)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 19 April 2017</li><li>about [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [The Most Beautiful (book)](../../topics/book/the-most-beautiful/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/a4115faebefc463a8aad4433e14f5d2b))</li><ul>
 
 ----
 
- - [**"Documents highlight Prince’s struggle with opioid addiction"**](https://apnews.com/6309636fb0d84b968b1bfe720c289961)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 18 April 2017</li><li>about [fentanyl](../../topics/fentanyl/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [oxycodone](../../topics/oxycodone/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/6309636fb0d84b968b1bfe720c289961))</li><ul>
+ - [**"Affidavit: Doc prescribed Prince opioids under friend’s name"**](https://apnews.com/af6ad628c59f4c7fb7351908c72f4c23)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 18 April 2017</li><li>about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [opioid](../../topics/opioid/index.md), [oxycodone](../../topics/oxycodone/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/af6ad628c59f4c7fb7351908c72f4c23))</li><ul>
+
+----
+
+ - [**"Documents highlight Prince’s struggle with opioid addiction"**](https://apnews.com/6309636fb0d84b968b1bfe720c289961)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 18 April 2017</li><li>about [fentanyl](../../topics/fentanyl/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [opioid](../../topics/opioid/index.md), [oxycodone](../../topics/oxycodone/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/6309636fb0d84b968b1bfe720c289961))</li><ul>
 
 ----
 
@@ -166,7 +174,7 @@
 
 ----
 
- - [**"The Latest: Doctor disputes prescribing opioids for Prince"**](https://apnews.com/d72d2ba9032e45debb8ac8700dc24e84)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 17 April 2017</li><li>about [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/d72d2ba9032e45debb8ac8700dc24e84))</li><ul>
+ - [**"The Latest: Doctor disputes prescribing opioids for Prince"**](https://apnews.com/d72d2ba9032e45debb8ac8700dc24e84)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 17 April 2017</li><li>about [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [opioid](../../topics/opioid/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/d72d2ba9032e45debb8ac8700dc24e84))</li><ul>
 
 ----
 
@@ -202,7 +210,7 @@
 
 ----
 
- - [**"No ‘tell-all,’ but Prince’s ex details their life in memoir"**](https://apnews.com/0c93c63651ef4f15adde78e51b38c197)<ul><li>by Leanne Italie (Associated Press)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 10 April 2017</li><li>about [Manuela Testolini](../../topics/manuela-testolini/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [memoir](../../topics/memoir/index.md), [The Most Beautiful (book)](../../topics/book/the-most-beautiful/index.md), [Vicodin](../../topics/vicodin/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/0c93c63651ef4f15adde78e51b38c197))</li><ul>
+ - [**"No ‘tell-all,’ but Prince’s ex details their life in memoir"**](https://apnews.com/0c93c63651ef4f15adde78e51b38c197)<ul><li>by Leanne Italie (Associated Press)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 10 April 2017</li><li>about [Manuela Testolini](../../topics/manuela-testolini/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [memoir](../../topics/memoir/index.md), [opioid](../../topics/opioid/index.md), [The Most Beautiful (book)](../../topics/book/the-most-beautiful/index.md), [Vicodin](../../topics/vicodin/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/0c93c63651ef4f15adde78e51b38c197))</li><ul>
 
 ----
 

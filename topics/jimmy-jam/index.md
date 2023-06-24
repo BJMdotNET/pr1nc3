@@ -4,6 +4,10 @@
 
 ----
 
+ - [**"Jam & Lewis are back for the first time with ‘Volume One’"**](https://apnews.com/article/entertainment-business-music-arts-and-entertainment-hip-hop-and-rap-2474c3f5a5d3aa311320a74321bb9cde)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 31 August 2021</li><li>about [Chaka Khan](../../topics/chaka-khan/index.md), [Grammys](../../topics/grammys/index.md), [H.E.R.](../../topics/h-e-r/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Time](../../topics/the-time/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/entertainment-business-music-arts-and-entertainment-hip-hop-and-rap-2474c3f5a5d3aa311320a74321bb9cde))</li><ul>
+
+----
+
  - [**"New Streaming Channels with Music's Legendary and Game-Changing Artists to Launch Today on SiriusXM -- The Prince Channel returns through August 13"**](https://www.prnewswire.com/news-releases/new-streaming-channels-with-musics-legendary-and-game-changing-artists-to-launch-today-on-siriusxm-301093865.html)<ul><li>in [PR Newswire](https://www.prnewswire.com/)</li><li>on 15 July 2020</li><li>about [Jerome Benton](../../topics/jerome-benton/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Maya Rudolph](../../topics/maya-rudolph/index.md), [Morris Day](../../topics/morris-day/index.md), [SiriusXM](../../topics/siriusxm/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/new-streaming-channels-with-musics-legendary-and-game-changing-artists-to-launch-today-on-siriusxm-301093865.html))</li><ul>
 
 ----
@@ -128,7 +132,15 @@
 
 ----
 
+ - [**"Creepy or comforting? Prince ‘Live on the Big Screen’ tribute raises questions"**](https://apnews.com/article/55a1b2a0cea44f2a97829aa08f8ad8c1)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 12 April 2018</li><li>about [First Avenue (place)](../../topics/place/first-avenue/index.md), [hologram](../../topics/hologram/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Minnesota State Fair](../../topics/minnesota-state-fair/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [State Fair](../../topics/state-fair/index.md), [Target Center (place)](../../topics/place/target-center/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/55a1b2a0cea44f2a97829aa08f8ad8c1))</li><ul>
+
+----
+
  - [**"Prince is gone, but his spirit lives at Minnesota Super Bowl"**](https://apnews.com/760ec69e7a2e430a9879834f5f2eae63)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 2 February 2018</li><li>about [First Avenue (place)](../../topics/place/first-avenue/index.md), [hologram](../../topics/hologram/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Minnesota Vikings](../../topics/minnesota-vikings/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Hayes](../../topics/morris-hayes/index.md), [museum](../../topics/museum/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Revolution](../../topics/the-revolution/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/760ec69e7a2e430a9879834f5f2eae63))</li><ul>
+
+----
+
+ - [**"Super-sized Prince party rocks Nicollet Mall"**](https://apnews.com/article/football-prince-archive-minnesota-334367853c7e479fb18e178463c02063)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 29 January 2018</li><li>about [D.M.S.R. (song)](../../topics/song/d-m-s-r/index.md), [fDeluxe](../../topics/fdeluxe/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Nicollet Mall (place)](../../topics/place/nicollet-mall/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Soul Asylum](../../topics/soul-asylum/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Bird (song)](../../topics/song/the-bird/index.md), [The Family](../../topics/the-family/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/football-prince-archive-minnesota-334367853c7e479fb18e178463c02063))</li><ul>
 
 ----
 
@@ -161,6 +173,10 @@
 ----
 
  - [**""The Pleasure Principle" by Monte Moir / performed by Janet Jackson"**](http://www.oneradsong.com/2012/06/pleasure-principle-by-monte.html)<ul><li>in [One Rad Song](http://www.oneradsong.com/)</li><li>on 6 June 2012</li><li>about [Alexander O’Neal](../../topics/alexander-o-neal/index.md), [Flyte Tyme Productions](../../topics/flyte-tyme-productions/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Monte Moir](../../topics/monte-moir/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Time](../../topics/the-time/index.md)</li><li>([mirror](https://web.archive.org/web/*/http://www.oneradsong.com/2012/06/pleasure-principle-by-monte.html))</li><ul>
+
+----
+
+ - [**"Mineapolis Producers Make String Of Top-Selling Records"**](https://apnews.com/article/672e2df1974cb03ccd2d105f1a736d9e)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 11 February 1987</li><li>about [Atlanta (place)](../../topics/place/atlanta/index.md), [Flyte Tyme Productions](../../topics/flyte-tyme-productions/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Lionel Richie](../../topics/lionel-richie/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Time](../../topics/the-time/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/672e2df1974cb03ccd2d105f1a736d9e))</li><ul>
 
 ----
 

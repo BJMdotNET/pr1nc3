@@ -1,5 +1,9 @@
 # Mr. Nelson: On the North Side (documentary)
 
+ - [**"KEW MEDIA DISTRIBUTION Assembles Massive Slate of New Projects Ahead of AFM"**](https://apnews.com/article/entertainment-business-music-media-canada-b1f9fbe540b4417d8832dc5e769cf45e)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 27 December 2021</li><li>about [American Film Market](../../../topics/american-film-market/index.md), [Chaka Khan](../../../topics/chaka-khan/index.md), [Daniel D’or](../../../topics/daniel-d-or/index.md), [Kew Media Distribution](../../../topics/kew-media-distribution/index.md), [Macy Gray](../../../topics/macy-gray/index.md), [Michael J. Kirk](../../../topics/michael-j-kirk/index.md), [Mr. Nelson: On the North Side (documentary)](../../../topics/documentary/mr-nelson-on-the-north-side/index.md), [Spike Moss](../../../topics/spike-moss/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/entertainment-business-music-media-canada-b1f9fbe540b4417d8832dc5e769cf45e))</li><ul>
+
+----
+
  - [**"Santa Fe Art Institute and “the Art of Change:” a Night of Film, Music and Art Celebrating Catalytic Artists That Change the World -- Exclusive screening of Prince documentary “Mr. Nelson: On the North Side” performance by Brian Hardgroove, and support from Sennheiser"**](https://www.webwire.com/ViewPressRel.asp?aId=247590)<ul><li>in [WebWire](https://www.webwire.com/)</li><li>on 26 September 2019</li><li>about [Belling The Cat](../../../topics/belling-the-cat/index.md), [Brian Hardgroove](../../../topics/brian-hardgroove/index.md), [Kirk Fera](../../../topics/kirk-fera/index.md), [Mr. Nelson: On the North Side (documentary)](../../../topics/documentary/mr-nelson-on-the-north-side/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.webwire.com/ViewPressRel.asp?aId=247590))</li><ul>
 
 ----

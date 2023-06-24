@@ -28,6 +28,10 @@
 
 ----
 
+ - [**"5 facts about Prince"**](https://apnews.com/article/91dfa9f9e7b2415699b90f64b3166aa2)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 25 April 2018</li><li>about [Bangles](../../topics/bangles/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Sheena Easton](../../topics/sheena-easton/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md), [U Got the Look (song)](../../topics/song/u-got-the-look/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/91dfa9f9e7b2415699b90f64b3166aa2))</li><ul>
+
+----
+
  - [**"Rewinding the Charts: In 1985, Sheena Easton Sexed Up Pop With 'Sugar Walls'"**](https://www.billboard.com/articles/columns/chart-beat/6480268/sheena-easton-sugar-walls-prince-rewinding-charts)<ul><li>in [Billboard](https://www.billboard.com/)</li><li>on 23 February 2018</li><li>about [Frank Zappa](../../topics/frank-zappa/index.md), [Parental Advisory](../../topics/parental-advisory/index.md), [Parents Music Resource Center](../../topics/parents-music-resource-center/index.md), [PMRC](../../topics/pmrc/index.md), [Sheena Easton](../../topics/sheena-easton/index.md), [Sugar Walls (song)](../../topics/song/sugar-walls/index.md), [Tipper Gore](../../topics/tipper-gore/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/columns/chart-beat/6480268/sheena-easton-sugar-walls-prince-rewinding-charts))</li><ul>
 
 ----
@@ -61,6 +65,10 @@
 ----
 
  - [**"People in the News"**](https://apnews.com/df4748de657e2a79a5ec74214a26f279)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 22 December 1991</li><li>about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [contract](../../topics/contract/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [Sheena Easton](../../topics/sheena-easton/index.md), [Steve Fargnoli](../../topics/steve-fargnoli/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/df4748de657e2a79a5ec74214a26f279))</li><ul>
+
+----
+
+ - [**"TODAY’S FOCUS: Sexually Explicit Lyrics Steam Airwaves, Anger Parents EDITORS: Portions of"**](https://apnews.com/article/22e8662fd8875c8f2aee3d897cd09b67)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 27 May 1985</li><li>about [American Bandstand](../../topics/american-bandstand/index.md), [American Civil Liberties Union](../../topics/american-civil-liberties-union/index.md), [Erotic City (song)](../../topics/song/erotic-city/index.md), [Federal Communications Commission](../../topics/federal-communications-commission/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Paul Grein](../../topics/paul-grein/index.md), [Sheena Easton](../../topics/sheena-easton/index.md), [Sugar Walls (song)](../../topics/song/sugar-walls/index.md), [Supreme Court](../../topics/supreme-court/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/22e8662fd8875c8f2aee3d897cd09b67))</li><ul>
 
 ----
 

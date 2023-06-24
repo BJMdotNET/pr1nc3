@@ -16,7 +16,7 @@
 
 ----
 
- - [**"Spike Lee throws dance party ahead of Prince’s 58th birthday"**](https://apnews.com/780ae6981b534a27be2f65bf10470f6e)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 5 June 2016</li><li>about [Celebration (event)](../../../topics/event/celebration/index.md), [Erotic City (song)](../../../topics/song/erotic-city/index.md), [fentanyl](../../../topics/fentanyl/index.md), [Michael Jackson](../../../topics/michael-jackson/index.md), [Spike Lee](../../../topics/spike-lee/index.md), [Starfish And Coffee (song)](../../../topics/song/starfish-and-coffee/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/780ae6981b534a27be2f65bf10470f6e))</li><ul>
+ - [**"Spike Lee throws dance party ahead of Prince’s 58th birthday"**](https://apnews.com/780ae6981b534a27be2f65bf10470f6e)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 5 June 2016</li><li>about [Celebration (event)](../../../topics/event/celebration/index.md), [Erotic City (song)](../../../topics/song/erotic-city/index.md), [fentanyl](../../../topics/fentanyl/index.md), [Michael Jackson](../../../topics/michael-jackson/index.md), [opioid](../../../topics/opioid/index.md), [Spike Lee](../../../topics/spike-lee/index.md), [Starfish And Coffee (song)](../../../topics/song/starfish-and-coffee/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/780ae6981b534a27be2f65bf10470f6e))</li><ul>
 
 ----
 

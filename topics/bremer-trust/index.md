@@ -1,9 +1,5 @@
 # Bremer Trust
 
- - [**"Paisley Park, home of Prince, opens for public tours Oct. 6"**](https://apnews.com/article/fe17adc4f32441bd85d0176a50d3cd0b)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 22 June 2023</li><li>about [Bremer Trust](../../topics/bremer-trust/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Denny Laufenburger](../../topics/denny-laufenburger/index.md), [divorce](../../topics/divorce/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [motorcycle](../../topics/motorcycle/index.md), [museum](../../topics/museum/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/fe17adc4f32441bd85d0176a50d3cd0b))</li><ul>
-
-----
-
  - [**"Prince’s Memoir Isn’t Really Prince’s Memoir -- That doesn’t mean it’s not worth reading."**](https://slate.com/culture/2019/10/prince-memoir-book-review-the-beautiful-ones.html)<ul><li>in [slate.com](https://slate.com/)</li><li>on 30 October 2019</li><li>about [Bremer Trust](../../topics/bremer-trust/index.md), [contract](../../topics/contract/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [John Nelson](../../topics/john-nelson/index.md), [memoir](../../topics/memoir/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [Thieves in the Temple (song)](../../topics/song/thieves-in-the-temple/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://slate.com/culture/2019/10/prince-memoir-book-review-the-beautiful-ones.html))</li><ul>
 
 ----
@@ -56,7 +52,7 @@
 
 ----
 
- - [**"The Estate Of Prince Rogers Nelson Selects Universal Music Publishing Group To Serve As Worldwide Publisher For Prince's Iconic Catalog Of Songs"**](https://www.prnewswire.com/news-releases/the-estate-of-prince-rogers-nelson-selects-universal-music-publishing-group-to-serve-as-worldwide-publisher-for-princes-iconic-catalog-of-songs-300356320.html)<ul><li>in [PR Newswire](https://www.prnewswire.com/)</li><li>on 2 November 2016</li><li>about [Bangles](../../topics/bangles/index.md), [Bremer Trust](../../topics/bremer-trust/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [Danny Elfman](../../topics/danny-elfman/index.md), [Universal Music Group](../../topics/universal-music-group/index.md), [Universal Music Publishing Group](../../topics/universal-music-publishing-group/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/the-estate-of-prince-rogers-nelson-selects-universal-music-publishing-group-to-serve-as-worldwide-publisher-for-princes-iconic-catalog-of-songs-300356320.html))</li><ul>
+ - [**"The Estate Of Prince Rogers Nelson Selects Universal Music Publishing Group To Serve As Worldwide Publisher For Prince's Iconic Catalog Of Songs"**](https://www.prnewswire.com/news-releases/the-estate-of-prince-rogers-nelson-selects-universal-music-publishing-group-to-serve-as-worldwide-publisher-for-princes-iconic-catalog-of-songs-300356320.html)<ul><li>in [PR Newswire](https://www.prnewswire.com/)</li><li>on 2 November 2016</li><li>about [Alabama Shakes](../../topics/alabama-shakes/index.md), [Alicia Keys](../../topics/alicia-keys/index.md), [Bangles](../../topics/bangles/index.md), [Bremer Trust](../../topics/bremer-trust/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [Danny Elfman](../../topics/danny-elfman/index.md), [Elton John](../../topics/elton-john/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [L. Londell McMillan](../../topics/l-londell-mcmillan/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Universal Music Group](../../topics/universal-music-group/index.md), [Universal Music Publishing Group](../../topics/universal-music-publishing-group/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/the-estate-of-prince-rogers-nelson-selects-universal-music-publishing-group-to-serve-as-worldwide-publisher-for-princes-iconic-catalog-of-songs-300356320.html))</li><ul>
 
 ----
 
@@ -92,7 +88,11 @@
 
 ----
 
- - [**"Paisley Park, home of Prince, opens for public tours Oct. 6"**](https://apnews.com/0d8c41adcd8946dfb5182d55d077cc09)<ul><li>by Steve Karnowski (Associated Press)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 25 August 2016</li><li>about [Bremer Trust](../../topics/bremer-trust/index.md), [fentanyl](../../topics/fentanyl/index.md), [Graceland](../../topics/graceland/index.md), [museum](../../topics/museum/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/0d8c41adcd8946dfb5182d55d077cc09))</li><ul>
+ - [**"Paisley Park, home of Prince, opens for public tours Oct. 6"**](https://apnews.com/0d8c41adcd8946dfb5182d55d077cc09)<ul><li>by Steve Karnowski (Associated Press)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 25 August 2016</li><li>about [Bremer Trust](../../topics/bremer-trust/index.md), [fentanyl](../../topics/fentanyl/index.md), [Graceland](../../topics/graceland/index.md), [museum](../../topics/museum/index.md), [opioid](../../topics/opioid/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/0d8c41adcd8946dfb5182d55d077cc09))</li><ul>
+
+----
+
+ - [**"Paisley Park, home of Prince, opens for public tours Oct. 6"**](https://apnews.com/article/fe17adc4f32441bd85d0176a50d3cd0b)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 25 August 2016</li><li>about [Bremer Trust](../../topics/bremer-trust/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Denny Laufenburger](../../topics/denny-laufenburger/index.md), [divorce](../../topics/divorce/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [motorcycle](../../topics/motorcycle/index.md), [museum](../../topics/museum/index.md), [opioid](../../topics/opioid/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/fe17adc4f32441bd85d0176a50d3cd0b))</li><ul>
 
 ----
 
@@ -105,6 +105,10 @@
 ----
 
  - [**"Prince estate administrator denies plan to sell Paisley Park"**](https://usatoday.com/story/life/people/2016/08/07/prince-estate-administrator-denies-plan-to-sell-paisley-park/88374400/)<ul><li>in [USA Today](https://usatoday.com/)</li><li>on 7 August 2016</li><li>about [Bremer Trust](../../topics/bremer-trust/index.md), [Prince Estate](../../topics/prince-estate/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/people/2016/08/07/prince-estate-administrator-denies-plan-to-sell-paisley-park/88374400/))</li><ul>
+
+----
+
+ - [**"Prince’s Paisley Park, other properties could go on sale"**](https://apnews.com/article/archive-minneapolis-prince-a1518da531b4470b9f29721d82a6e6b5)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 5 August 2016</li><li>about [Bremer Trust](../../topics/bremer-trust/index.md), [museum](../../topics/museum/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/archive-minneapolis-prince-a1518da531b4470b9f29721d82a6e6b5))</li><ul>
 
 ----
 
@@ -204,11 +208,19 @@
 
 ----
 
+ - [**"Admiradores piden música de bóveda de Prince"**](https://apnews.com/article/2fd8bfebd0284a1b893a84abbc165d03)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 28 April 2016</li><li>about [Bangles](../../topics/bangles/index.md), [Bob Dylan](../../topics/bob-dylan/index.md), [Bremer Trust](../../topics/bremer-trust/index.md), [California (place)](../../topics/place/california/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Touré](../../topics/tour/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/2fd8bfebd0284a1b893a84abbc165d03))</li><ul>
+
+----
+
  - [**"Prince’s estate to be temporarily managed by trust company"**](https://apnews.com/606153a12f3041b8b76186c824538183)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 28 April 2016</li><li>about [Bremer Trust](../../topics/bremer-trust/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/606153a12f3041b8b76186c824538183))</li><ul>
 
 ----
 
  - [**"Prince’s sister says musician had no known will"**](https://apnews.com/b7bcc90e42904f679c07158bf5e851a3)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 27 April 2016</li><li>about [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [perfume](../../topics/perfume/index.md), [probate court](../../topics/probate-court/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/b7bcc90e42904f679c07158bf5e851a3))</li><ul>
+
+----
+
+ - [**"Hermana de Prince: hasta donde se sabe, no dejó testamento"**](https://apnews.com/article/77e7b911f1d3465ab9f52e7aae95aa9c)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 26 April 2016</li><li>about [Bremer Trust](../../topics/bremer-trust/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [L. Londell McMillan](../../topics/l-londell-mcmillan/index.md), [Lake Ann (place)](../../topics/place/lake-ann/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/77e7b911f1d3465ab9f52e7aae95aa9c))</li><ul>
 
 ----
 

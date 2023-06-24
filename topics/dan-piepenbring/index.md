@@ -1,5 +1,9 @@
 # Dan Piepenbring
 
+ - [**"Prince’s posthumous book released as fans continue to mourn"**](https://apnews.com/article/dan-piepenbring-us-news-music-prince-entertainment-7d2379f3184b4447ba4c1be55a1afbe1)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 30 April 2021</li><li>about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/dan-piepenbring-us-news-music-prince-entertainment-7d2379f3184b4447ba4c1be55a1afbe1))</li><ul>
+
+----
+
  - [**"Pure Magic: The Oral History of Prince’s Super Bowl XLI Halftime Show -- As the heavens opened up and rain poured down, the Purple One ran through a handful of covers and some of his own songs, delivering an iconic set on the biggest stage possible and only expanding his legend"**](https://www.theringer.com/music/2020/1/29/21112539/prince-halftime-show-oral-history-super-bowl-xli)<ul><li>in [www.theringer.com](https://www.theringer.com/)</li><li>on 29 January 2020</li><li>about [1999 (song)](../../topics/song/1999/index.md), [airport](../../topics/airport/index.md), [Baby I’m a Star (song)](../../topics/song/baby-i-m-a-star/index.md), [contract](../../topics/contract/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [Foo Fighters](../../topics/foo-fighters/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [memoir](../../topics/memoir/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Morris Hayes](../../topics/morris-hayes/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Raspberry Beret (song)](../../topics/song/raspberry-beret/index.md), [Shelby J.](../../topics/shelby-j/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Super Bowl XLI (event)](../../topics/event/super-bowl-xli/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.theringer.com/music/2020/1/29/21112539/prince-halftime-show-oral-history-super-bowl-xli))</li><ul>
 
 ----
@@ -336,6 +340,14 @@
 
 ----
 
+ - [**"Para deleite de fans, sale la esperada biografía de Prince"**](https://apnews.com/article/9a1c4a38f0254df58b27b1511e6a1137)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 26 October 2019</li><li>about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/9a1c4a38f0254df58b27b1511e6a1137))</li><ul>
+
+----
+
+ - [**"Prince’s anticipated, posthumous memoir is ready for fans"**](https://apnews.com/article/----f2c7b5160ad6464d9cc5722259c29c7f)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 26 October 2019</li><li>about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/----f2c7b5160ad6464d9cc5722259c29c7f))</li><ul>
+
+----
+
  - [**"Prince’s anticipated, posthumous memoir is ready for fans"**](https://apnews.com/3b915e466906421c90d0d42fcbbaef47)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 26 October 2019</li><li>about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [memoir](../../topics/memoir/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [vault](../../topics/vault/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/3b915e466906421c90d0d42fcbbaef47))</li><ul>
 
 ----
@@ -409,6 +421,10 @@
 ----
 
  - [**"Coming soon from the Prince vault: A new album called ‘Originals’ -- Prince’s estate is announcing the collection of his performances of songs he wrote for others."**](https://www.startribune.com/coming-soon-from-the-prince-vault-a-new-album-called-originals/509009862/)<ul><li>by Chris Riemenschneider, Jon Bream</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 25 April 2019</li><li>about [Ani DiFranco](../../topics/ani-difranco/index.md), [Apple Music](../../topics/apple-music/index.md), [Bangles](../../topics/bangles/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Martika](../../topics/martika/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Netflix](../../topics/netflix/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../topics/album/originals/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Random House](../../topics/random-house/index.md), [Rave In2 the Joy Fantastic (album)](../../topics/album/rave-in2-the-joy-fantastic/index.md), [Rave Un2 the Joy Fantastic (album)](../../topics/album/rave-un2-the-joy-fantastic/index.md), [Rave Un2 the Year 2000 (video)](../../topics/video/rave-un2-the-year-2000/index.md), [Sex Shooter (song)](../../topics/song/sex-shooter/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [The Family](../../topics/the-family/index.md), [The Glamorous Life (song)](../../topics/song/the-glamorous-life/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [The Time](../../topics/the-time/index.md), [Ultimate Rave (album)](../../topics/album/ultimate-rave/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/coming-soon-from-the-prince-vault-a-new-album-called-originals/509009862/))</li><ul>
+
+----
+
+ - [**"Libro de memorias de Prince se publicará en octubre"**](https://apnews.com/article/42cdd445998240f2b2421291e6732f78)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 22 April 2019</li><li>about [Chris Jackson](../../topics/chris-jackson/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Esther Newberg](../../topics/esther-newberg/index.md), [Random House](../../topics/random-house/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/42cdd445998240f2b2421291e6732f78))</li><ul>
 
 ----
 

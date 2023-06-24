@@ -1,14 +1,10 @@
 # museum
 
- - [**"Paisley Park, home of Prince, opens for public tours Oct. 6"**](https://apnews.com/article/fe17adc4f32441bd85d0176a50d3cd0b)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 22 June 2023</li><li>about [Bremer Trust](../../topics/bremer-trust/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Denny Laufenburger](../../topics/denny-laufenburger/index.md), [divorce](../../topics/divorce/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [motorcycle](../../topics/motorcycle/index.md), [museum](../../topics/museum/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/fe17adc4f32441bd85d0176a50d3cd0b))</li><ul>
-
-----
-
  - [**"Prince Paisley Park Celebration 2023: Photos From the Event -- The seventh annual event featured unreleased music from the Prince vault, as well as performances and special appearances."**](https://www.billboard.com/photos/prince-paisley-park-celebration-2023-photos-1235355324/)<ul><li>by Jenny Regan</li><li>in [Billboard](https://www.billboard.com/)</li><li>on 15 June 2023</li><li>about [Celebration (event)](../../topics/event/celebration/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Doug E. Fresh](../../topics/doug-e-fresh/index.md), [L. Londell McMillan](../../topics/l-londell-mcmillan/index.md), [Levi Seacer](../../topics/levi-seacer/index.md), [museum](../../topics/museum/index.md), [Paisley Park Studios (place)](../../topics/place/paisley-park-studios/index.md), [vault](../../topics/vault/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.billboard.com/photos/prince-paisley-park-celebration-2023-photos-1235355324/))</li><ul>
 
 ----
 
- - [**"Signed in purple ink, Minnesota dedicates highway to Prince"**](https://apnews.com/article/prince-minnesota-highway-renamed-45220b9307ba1dee12512c84c71063c1)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 10 May 2023</li><li>about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [museum](../../topics/museum/index.md), [Paisley Park Studios (place)](../../topics/place/paisley-park-studios/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/prince-minnesota-highway-renamed-45220b9307ba1dee12512c84c71063c1))</li><ul>
+ - [**"Signed in purple ink, Minnesota dedicates highway to Prince"**](https://apnews.com/article/prince-minnesota-highway-renamed-45220b9307ba1dee12512c84c71063c1)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 9 May 2023</li><li>about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [museum](../../topics/museum/index.md), [Paisley Park Studios (place)](../../topics/place/paisley-park-studios/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/prince-minnesota-highway-renamed-45220b9307ba1dee12512c84c71063c1))</li><ul>
 
 ----
 
@@ -244,7 +240,7 @@
 
 ----
 
- - [**"Thanks to a University of Minnesota degree, his name is ‘Dr. Prince’ now"**](https://apnews.com/38a03f35b393465ba72fa83d6841b3a3)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 27 September 2018</li><li>about [Central High](../../topics/central-high/index.md), [Cloud guitar](../../topics/cloud-guitar/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [museum](../../topics/museum/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Paul Peterson](../../topics/paul-peterson/index.md), [St. Paul Peterson](../../topics/st-paul-peterson/index.md), [Tommy Barbarella](../../topics/tommy-barbarella/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/38a03f35b393465ba72fa83d6841b3a3))</li><ul>
+ - [**"Thanks to a University of Minnesota degree, his name is ‘Dr. Prince’ now"**](https://apnews.com/38a03f35b393465ba72fa83d6841b3a3)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 26 September 2018</li><li>about [Central High](../../topics/central-high/index.md), [Cloud guitar](../../topics/cloud-guitar/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [museum](../../topics/museum/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Paul Peterson](../../topics/paul-peterson/index.md), [St. Paul Peterson](../../topics/st-paul-peterson/index.md), [Tommy Barbarella](../../topics/tommy-barbarella/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/38a03f35b393465ba72fa83d6841b3a3))</li><ul>
 
 ----
 
@@ -260,7 +256,7 @@
 
 ----
 
- - [**"Unfinished requiem: Enigmatic in life, Prince leaves mystery in death"**](https://apnews.com/48227e49f5384fe7b343b7ccdeb00e6f)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 22 April 2018</li><li>about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Larry Graham](../../topics/larry-graham/index.md), [museum](../../topics/museum/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Owen Husney](../../topics/owen-husney/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/48227e49f5384fe7b343b7ccdeb00e6f))</li><ul>
+ - [**"Unfinished requiem: Enigmatic in life, Prince leaves mystery in death"**](https://apnews.com/48227e49f5384fe7b343b7ccdeb00e6f)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 22 April 2018</li><li>about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Larry Graham](../../topics/larry-graham/index.md), [museum](../../topics/museum/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [opioid](../../topics/opioid/index.md), [Owen Husney](../../topics/owen-husney/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/48227e49f5384fe7b343b7ccdeb00e6f))</li><ul>
 
 ----
 
@@ -272,7 +268,7 @@
 
 ----
 
- - [**"Music by Prince’s father featured on new album, tracking ‘that DNA thing’"**](https://apnews.com/869e0302972c4e36aa99981332602cd0)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 9 March 2018</li><li>about [John L. Nelson](../../topics/john-l-nelson/index.md), [museum](../../topics/museum/index.md), [Owen Husney](../../topics/owen-husney/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Trump](../../topics/trump/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/869e0302972c4e36aa99981332602cd0))</li><ul>
+ - [**"Music by Prince’s father featured on new album, tracking ‘that DNA thing’"**](https://apnews.com/869e0302972c4e36aa99981332602cd0)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 8 March 2018</li><li>about [John L. Nelson](../../topics/john-l-nelson/index.md), [museum](../../topics/museum/index.md), [Owen Husney](../../topics/owen-husney/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Trump](../../topics/trump/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/869e0302972c4e36aa99981332602cd0))</li><ul>
 
 ----
 
@@ -288,6 +284,10 @@
 
 ----
 
+ - [**"Minneapolis will be alive with activity during the Super Bowl"**](https://apnews.com/article/archive-minneapolis-06bbdc75a3da466cbe90d890fe362c72)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 24 December 2017</li><li>about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [motorcycle](../../topics/motorcycle/index.md), [museum](../../topics/museum/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/archive-minneapolis-06bbdc75a3da466cbe90d890fe362c72))</li><ul>
+
+----
+
  - [**"Alcohol permit sought for events at Prince’s Paisley Park"**](https://apnews.com/cd4a980b1fcb4c82aeb268b53dba06dc)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 29 November 2017</li><li>about [museum](../../topics/museum/index.md), [Super Bowl](../../topics/super-bowl/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/cd4a980b1fcb4c82aeb268b53dba06dc))</li><ul>
 
 ----
@@ -296,15 +296,11 @@
 
 ----
 
- - [**"APNewsBreak: Prince tapes moved to California; 2 heirs angry"**](https://apnews.com/7fc066b10aa546e2977a0a85fc8ecb3b)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 12 October 2017</li><li>about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Carver County](../../topics/carver-county/index.md), [Comerica](../../topics/comerica/index.md), [Comerica Bank & Trust](../../topics/comerica-bank-trust/index.md), [Iron Mountain](../../topics/iron-mountain/index.md), [Iron Mountain Entertainment Services](../../topics/iron-mountain-entertainment-services/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [museum](../../topics/museum/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/7fc066b10aa546e2977a0a85fc8ecb3b))</li><ul>
-
-----
-
  - [**"For $160, you get to hold Prince's guitar on 3-hour 'Ultimate' Paisley Park tour -- Is the new "Ultimate Experience" at Prince's museum worth $160?"**](https://www.startribune.com/for-160-you-get-to-hold-prince-s-guitar-on-3-hour-ultimate-paisley-park-tour/441644933/)<ul><li>by Jon Bream</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 24 August 2017</li><li>about [museum](../../topics/museum/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/for-160-you-get-to-hold-prince-s-guitar-on-3-hour-ultimate-paisley-park-tour/441644933/))</li><ul>
 
 ----
 
- - [**"Judge confirms Prince’s 6 siblings as heirs to his estate"**](https://apnews.com/19eec2a40a864efcb3eae84206dfd5c9)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 19 May 2017</li><li>about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [museum](../../topics/museum/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/19eec2a40a864efcb3eae84206dfd5c9))</li><ul>
+ - [**"Judge confirms Prince’s 6 siblings as heirs to his estate"**](https://apnews.com/19eec2a40a864efcb3eae84206dfd5c9)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 19 May 2017</li><li>about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [museum](../../topics/museum/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [opioid](../../topics/opioid/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/19eec2a40a864efcb3eae84206dfd5c9))</li><ul>
 
 ----
 
@@ -372,6 +368,10 @@
 
 ----
 
+ - [**"Rezoning decision means Paisley Park can open permanently"**](https://apnews.com/article/3d3261f07e9b4edb879832ea78bf1280)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 25 October 2016</li><li>about [ashes](../../topics/ashes/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Denny Laufenburger](../../topics/denny-laufenburger/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [Joel Weinshanker](../../topics/joel-weinshanker/index.md), [motorcycle](../../topics/motorcycle/index.md), [museum](../../topics/museum/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [St. Paul (place)](../../topics/place/st-paul/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md), [urn](../../topics/urn/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/3d3261f07e9b4edb879832ea78bf1280))</li><ul>
+
+----
+
  - [**"What should Prince's estate do to keep his music alive? -- The tribute concert is over, and the museum is open. Here's how Prince's family should handle other posthumous projects."**](https://www.startribune.com/what-should-prince-s-estate-do-to-keep-his-music-alive/397828981/)<ul><li>by Chris Riemenschneider</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 21 October 2016</li><li>about [museum](../../topics/museum/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/what-should-prince-s-estate-do-to-keep-his-music-alive/397828981/))</li><ul>
 
 ----
@@ -416,11 +416,19 @@
 
 ----
 
- - [**"Paisley Park, home of Prince, opens for public tours Oct. 6"**](https://apnews.com/0d8c41adcd8946dfb5182d55d077cc09)<ul><li>by Steve Karnowski (Associated Press)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 25 August 2016</li><li>about [Bremer Trust](../../topics/bremer-trust/index.md), [fentanyl](../../topics/fentanyl/index.md), [Graceland](../../topics/graceland/index.md), [museum](../../topics/museum/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/0d8c41adcd8946dfb5182d55d077cc09))</li><ul>
+ - [**"Paisley Park, home of Prince, opens for public tours Oct. 6"**](https://apnews.com/0d8c41adcd8946dfb5182d55d077cc09)<ul><li>by Steve Karnowski (Associated Press)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 25 August 2016</li><li>about [Bremer Trust](../../topics/bremer-trust/index.md), [fentanyl](../../topics/fentanyl/index.md), [Graceland](../../topics/graceland/index.md), [museum](../../topics/museum/index.md), [opioid](../../topics/opioid/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/0d8c41adcd8946dfb5182d55d077cc09))</li><ul>
+
+----
+
+ - [**"Paisley Park, home of Prince, opens for public tours Oct. 6"**](https://apnews.com/article/fe17adc4f32441bd85d0176a50d3cd0b)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 25 August 2016</li><li>about [Bremer Trust](../../topics/bremer-trust/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Denny Laufenburger](../../topics/denny-laufenburger/index.md), [divorce](../../topics/divorce/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [motorcycle](../../topics/motorcycle/index.md), [museum](../../topics/museum/index.md), [opioid](../../topics/opioid/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/fe17adc4f32441bd85d0176a50d3cd0b))</li><ul>
 
 ----
 
  - [**"Prince Estate: Paisley Park to open for daily paid public tours in fall"**](https://usatoday.com/story/life/2016/08/24/prince-estate-paisley-park-open-daily-paid-public-tours-fall/89298540/)<ul><li>in [USA Today](https://usatoday.com/)</li><li>on 25 August 2016</li><li>about [Bremer Trust](../../topics/bremer-trust/index.md), [Caribbean](../../topics/caribbean/index.md), [Denny Laufenburger](../../topics/denny-laufenburger/index.md), [exhibit](../../topics/exhibit/index.md), [exhibition](../../topics/exhibition/index.md), [Graceland](../../topics/graceland/index.md), [motorcycle](../../topics/motorcycle/index.md), [museum](../../topics/museum/index.md), [NPG Music Club (website)](../../topics/website/npg-music-club/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/2016/08/24/prince-estate-paisley-park-open-daily-paid-public-tours-fall/89298540/))</li><ul>
+
+----
+
+ - [**"Prince’s Paisley Park, other properties could go on sale"**](https://apnews.com/article/archive-minneapolis-prince-a1518da531b4470b9f29721d82a6e6b5)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 5 August 2016</li><li>about [Bremer Trust](../../topics/bremer-trust/index.md), [museum](../../topics/museum/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/archive-minneapolis-prince-a1518da531b4470b9f29721d82a6e6b5))</li><ul>
 
 ----
 

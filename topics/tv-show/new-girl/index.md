@@ -4,4 +4,8 @@
 
 ----
 
+ - [**"Morris Day in NBC Comedy; HBO Live from Montreal Comedy Fest"**](https://apnews.com/article/28483f67af719f1c73649a5673b53a7a)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 20 July 1988</li><li>about [Morris Day](../../../topics/morris-day/index.md), [New Girl (TV show)](../../../topics/tv-show/new-girl/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/28483f67af719f1c73649a5673b53a7a))</li><ul>
+
+----
+
 [Home](../index.md)

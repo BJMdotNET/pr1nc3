@@ -1,5 +1,9 @@
 # Paisley Park Enterprises
 
+ - [**"Around the state: Prosecution asks appeals court not to move officer’s tria"**](https://apnews.com/article/shootings-minnesota-st-paul-state-courts-philando-castile-c00b71de75e4430680d5bc65937fb380)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 19 December 2021</li><li>about [Deliverance (EP)](../../topics/ep/deliverance/index.md), [Deliverance (song)](../../topics/song/deliverance/index.md), [George Ian Boxill](../../topics/george-ian-boxill/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/shootings-minnesota-st-paul-state-courts-philando-castile-c00b71de75e4430680d5bc65937fb380))</li><ul>
+
+----
+
  - [**"Paisley Park Aims to Register Prince's Signature Purple as a Trademark for Use on Buildings"**](https://www.thefashionlaw.com/home/princes-estate-in-the-midst-of-fight-to-register-the-color-purple-for-use-on-buildings)<ul><li>in [The Fashion Law](https://www.thefashionlaw.com/)</li><li>on 27 January 2020</li><li>about [Cloud guitar](../../topics/cloud-guitar/index.md), [Grammy Award](../../topics/grammy-award/index.md), [hologram](../../topics/hologram/index.md), [Jamie Starr](../../topics/jamie-starr/index.md), [museum](../../topics/museum/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [trademark](../../topics/trademark/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.thefashionlaw.com/home/princes-estate-in-the-midst-of-fight-to-register-the-color-purple-for-use-on-buildings))</li><ul>
 
 ----
@@ -20,11 +24,15 @@
 
 ----
 
+ - [**"Prince estate sues ‘brazen bootlegger,’ others selling CDs of his last show, trove of other music"**](https://apnews.com/article/aea54e8d89f44d22a67324c5d77b4a95)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 4 September 2018</li><li>about [bootleg](../../topics/bootleg/index.md), [Eye Records](../../topics/eye-records/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [Prince Estate](../../topics/prince-estate/index.md), [U Got the Look (song)](../../topics/song/u-got-the-look/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/aea54e8d89f44d22a67324c5d77b4a95))</li><ul>
+
+----
+
  - [**"JAAB Records, in Association with Glendale Arts, Presents JACOB ARMEN LIVE: A CELEBRATION OF RHYTHM – “WHEN DRUMS CONDUCT” ALBUM RELEASE EVENT"**](http://glendalearts.org/event/jaab-records-in-association-with-glendale-arts-presents-jacob-armen-live-a-celebration-of-rhythm-when-drums-conduct-album-release-event/)<ul><li>in [glendalearts.org](http://glendalearts.org/)</li><li>on 9 May 2018</li><li>about [Grammy Award](../../topics/grammy-award/index.md), [Jacob Armen](../../topics/jacob-armen/index.md), [NPG Records](../../topics/npg-records/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md)</li><li>([mirror](https://web.archive.org/web/*/http://glendalearts.org/event/jaab-records-in-association-with-glendale-arts-presents-jacob-armen-live-a-celebration-of-rhythm-when-drums-conduct-album-release-event/))</li><ul>
 
 ----
 
- - [**"Judge: Sound engineer can’t publish unreleased Prince tracks"**](https://apnews.com/28f8d4317b3b43219621f58a3252addb)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 23 May 2017</li><li>about [Deliverance (EP)](../../topics/ep/deliverance/index.md), [Deliverance (song)](../../topics/song/deliverance/index.md), [George Ian Boxill](../../topics/george-ian-boxill/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [trademark](../../topics/trademark/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/28f8d4317b3b43219621f58a3252addb))</li><ul>
+ - [**"Judge: Sound engineer can’t publish unreleased Prince tracks"**](https://apnews.com/28f8d4317b3b43219621f58a3252addb)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 23 May 2017</li><li>about [Deliverance (EP)](../../topics/ep/deliverance/index.md), [Deliverance (song)](../../topics/song/deliverance/index.md), [George Ian Boxill](../../topics/george-ian-boxill/index.md), [opioid](../../topics/opioid/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [trademark](../../topics/trademark/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/28f8d4317b3b43219621f58a3252addb))</li><ul>
 
 ----
 

@@ -1,5 +1,9 @@
 # Macy Gray
 
+ - [**"KEW MEDIA DISTRIBUTION Assembles Massive Slate of New Projects Ahead of AFM"**](https://apnews.com/article/entertainment-business-music-media-canada-b1f9fbe540b4417d8832dc5e769cf45e)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 27 December 2021</li><li>about [American Film Market](../../topics/american-film-market/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Daniel D’or](../../topics/daniel-d-or/index.md), [Kew Media Distribution](../../topics/kew-media-distribution/index.md), [Macy Gray](../../topics/macy-gray/index.md), [Michael J. Kirk](../../topics/michael-j-kirk/index.md), [Mr. Nelson: On the North Side (documentary)](../../topics/documentary/mr-nelson-on-the-north-side/index.md), [Spike Moss](../../topics/spike-moss/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/entertainment-business-music-media-canada-b1f9fbe540b4417d8832dc5e769cf45e))</li><ul>
+
+----
+
  - [**"LATEST NEWS 25.4.19"**](https://recordcollectormag.com/latest-news-25-4-19)<ul><li>in [Record Collector](https://recordcollectormag.com/)</li><li>on 25 April 2019</li><li>about [Billy Gibbons](../../topics/billy-gibbons/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Macy Gray](../../topics/macy-gray/index.md), [Michael Kirk](../../topics/michael-kirk/index.md), [Netflix](../../topics/netflix/index.md), [Orianthi](../../topics/orianthi/index.md), [Randy Bachman](../../topics/randy-bachman/index.md), [Robby Krieger](../../topics/robby-krieger/index.md), [ZZ Top](../../topics/zz-top/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://recordcollectormag.com/latest-news-25-4-19))</li><ul>
 
 ----

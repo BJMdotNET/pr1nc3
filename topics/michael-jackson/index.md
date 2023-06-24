@@ -36,7 +36,7 @@
 
 ----
 
- - [**"Prince wrongful death case dismissed; estate case continues"**](https://apnews.com/720413e6c7ff85e224936f008554f2a0)<ul><li>by Amy Forliti (Associated Press)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 20 January 2020</li><li>about [Alfred Jackson](../../topics/alfred-jackson/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [John Nelson](../../topics/john-nelson/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Michael Schulenberg](../../topics/michael-schulenberg/index.md), [oxycodone](../../topics/oxycodone/index.md), [Primary Wave](../../topics/primary-wave/index.md), [Trinity Medical Center (place)](../../topics/place/trinity-medical-center/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Walgreens](../../topics/walgreens/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/720413e6c7ff85e224936f008554f2a0))</li><ul>
+ - [**"Prince wrongful death case dismissed; estate case continues"**](https://apnews.com/720413e6c7ff85e224936f008554f2a0)<ul><li>by Amy Forliti (Associated Press)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 20 January 2020</li><li>about [Alfred Jackson](../../topics/alfred-jackson/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [John Nelson](../../topics/john-nelson/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Michael Schulenberg](../../topics/michael-schulenberg/index.md), [opioid](../../topics/opioid/index.md), [oxycodone](../../topics/oxycodone/index.md), [Primary Wave](../../topics/primary-wave/index.md), [Trinity Medical Center (place)](../../topics/place/trinity-medical-center/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Walgreens](../../topics/walgreens/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/720413e6c7ff85e224936f008554f2a0))</li><ul>
 
 ----
 
@@ -252,6 +252,10 @@
 
 ----
 
+ - [**"Creepy or comforting? Prince ‘Live on the Big Screen’ tribute raises questions"**](https://apnews.com/article/55a1b2a0cea44f2a97829aa08f8ad8c1)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 12 April 2018</li><li>about [First Avenue (place)](../../topics/place/first-avenue/index.md), [hologram](../../topics/hologram/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Minnesota State Fair](../../topics/minnesota-state-fair/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [State Fair](../../topics/state-fair/index.md), [Target Center (place)](../../topics/place/target-center/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/55a1b2a0cea44f2a97829aa08f8ad8c1))</li><ul>
+
+----
+
  - [**"Prince's sound engineer, Susan Rogers: 'He needed to be the alpha male to get things done' -- One of a tiny number of female recording engineers, Rogers was there at birth of some of pop’s classics, including When Doves Cry. She recalls the man she knew – and shares her theory about why he loved working with women"**](https://www.theguardian.com/music/2017/nov/09/princes-sound-engineer-susan-rogers-he-needed-to-be-the-alpha-male-to-get-things-done)<ul><li>in [The Guardian](https://www.theguardian.com/)</li><li>on 9 November 2017</li><li>about [Eric Clapton](../../topics/eric-clapton/index.md), [exhibit](../../topics/exhibit/index.md), [exhibition](../../topics/exhibition/index.md), [James Brown](../../topics/james-brown/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [perfume](../../topics/perfume/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.theguardian.com/music/2017/nov/09/princes-sound-engineer-susan-rogers-he-needed-to-be-the-alpha-male-to-get-things-done))</li><ul>
 
 ----
@@ -320,11 +324,11 @@
 
 ----
 
- - [**"Spike Lee throws dance party ahead of Prince’s 58th birthday"**](https://apnews.com/780ae6981b534a27be2f65bf10470f6e)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 5 June 2016</li><li>about [Celebration (event)](../../topics/event/celebration/index.md), [Erotic City (song)](../../topics/song/erotic-city/index.md), [fentanyl](../../topics/fentanyl/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Spike Lee](../../topics/spike-lee/index.md), [Starfish And Coffee (song)](../../topics/song/starfish-and-coffee/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/780ae6981b534a27be2f65bf10470f6e))</li><ul>
+ - [**"Spike Lee throws dance party ahead of Prince’s 58th birthday"**](https://apnews.com/780ae6981b534a27be2f65bf10470f6e)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 5 June 2016</li><li>about [Celebration (event)](../../topics/event/celebration/index.md), [Erotic City (song)](../../topics/song/erotic-city/index.md), [fentanyl](../../topics/fentanyl/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [opioid](../../topics/opioid/index.md), [Spike Lee](../../topics/spike-lee/index.md), [Starfish And Coffee (song)](../../topics/song/starfish-and-coffee/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/780ae6981b534a27be2f65bf10470f6e))</li><ul>
 
 ----
 
- - [**"Prince joins a list of stars dead from drug overdoses"**](https://apnews.com/953c320120ba4054bc682ff06dceba99)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 3 June 2016</li><li>about [fentanyl](../../topics/fentanyl/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [oxycodone](../../topics/oxycodone/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/953c320120ba4054bc682ff06dceba99))</li><ul>
+ - [**"Prince joins a list of stars dead from drug overdoses"**](https://apnews.com/953c320120ba4054bc682ff06dceba99)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 3 June 2016</li><li>about [fentanyl](../../topics/fentanyl/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [opioid](../../topics/opioid/index.md), [oxycodone](../../topics/oxycodone/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/953c320120ba4054bc682ff06dceba99))</li><ul>
 
 ----
 
@@ -348,7 +352,7 @@
 
 ----
 
- - [**"APNewsBreak: Investigators look at overdose in Prince death"**](https://apnews.com/744a34089a8241df95a836b358741ace)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 29 April 2016</li><li>about [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Percocet](../../topics/percocet/index.md), [Sheila E.](../../topics/sheila-e/index.md), [TMZ (website)](../../topics/website/tmz/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/744a34089a8241df95a836b358741ace))</li><ul>
+ - [**"APNewsBreak: Investigators look at overdose in Prince death"**](https://apnews.com/744a34089a8241df95a836b358741ace)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 29 April 2016</li><li>about [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [opioid](../../topics/opioid/index.md), [Percocet](../../topics/percocet/index.md), [Sheila E.](../../topics/sheila-e/index.md), [TMZ (website)](../../topics/website/tmz/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/744a34089a8241df95a836b358741ace))</li><ul>
 
 ----
 
@@ -356,11 +360,15 @@
 
 ----
 
- - [**"Prince death investigation focuses on flight, drugs, doctor"**](https://apnews.com/175b0bd7f6f641b1b9b90b268bb3375e)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 29 April 2016</li><li>about [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [Sheila E.](../../topics/sheila-e/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/175b0bd7f6f641b1b9b90b268bb3375e))</li><ul>
+ - [**"Prince death investigation focuses on flight, drugs, doctor"**](https://apnews.com/175b0bd7f6f641b1b9b90b268bb3375e)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 29 April 2016</li><li>about [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [opioid](../../topics/opioid/index.md), [Sheila E.](../../topics/sheila-e/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/175b0bd7f6f641b1b9b90b268bb3375e))</li><ul>
 
 ----
 
  - [**"Prince's 'Purple Rain' coat is up for auction"**](https://www.startribune.com/ap-exclusive-prince-s-purple-rain-coat-is-up-for-auction/377542161/)<ul><li>by Nicole Evatt (Associated Press)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 29 April 2016</li><li>about [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [auction](../../topics/auction/index.md), [Katy Perry](../../topics/katy-perry/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [motorcycle](../../topics/motorcycle/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/ap-exclusive-prince-s-purple-rain-coat-is-up-for-auction/377542161/))</li><ul>
+
+----
+
+ - [**"Admiradores piden música de bóveda de Prince"**](https://apnews.com/article/2fd8bfebd0284a1b893a84abbc165d03)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 28 April 2016</li><li>about [Bangles](../../topics/bangles/index.md), [Bob Dylan](../../topics/bob-dylan/index.md), [Bremer Trust](../../topics/bremer-trust/index.md), [California (place)](../../topics/place/california/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Touré](../../topics/tour/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/2fd8bfebd0284a1b893a84abbc165d03))</li><ul>
 
 ----
 
@@ -373,6 +381,10 @@
 ----
 
  - [**"Prince’s sister says musician had no known will"**](https://apnews.com/b7bcc90e42904f679c07158bf5e851a3)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 27 April 2016</li><li>about [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [perfume](../../topics/perfume/index.md), [probate court](../../topics/probate-court/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/b7bcc90e42904f679c07158bf5e851a3))</li><ul>
+
+----
+
+ - [**"Hermana de Prince: hasta donde se sabe, no dejó testamento"**](https://apnews.com/article/77e7b911f1d3465ab9f52e7aae95aa9c)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 26 April 2016</li><li>about [Bremer Trust](../../topics/bremer-trust/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [L. Londell McMillan](../../topics/l-londell-mcmillan/index.md), [Lake Ann (place)](../../topics/place/lake-ann/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/77e7b911f1d3465ab9f52e7aae95aa9c))</li><ul>
 
 ----
 
@@ -396,7 +408,7 @@
 
 ----
 
- - [**"AXS TV Celebrates The Life And Legacy Of Music Icon Prince With A Special Programming Lineup On Saturday, April 23 -- The Tribute Features the Prince Edition of ROCK LEGENDS at 1 P.M. ET/10 A.M. PT, and the Television Premiere of the Acclaimed Documentary SLAVE TRADE: HOW PRINCE RE-MADE THE MUSIC BUSINESS at 2 P.M. ET/11 A.M. PT"**](https://www.prnewswire.com/news-releases/axs-tv-celebrates-the-life-and-legacy-of-music-icon-prince-with-a-special-programming-lineup-on-saturday-april-23-300255801.html)<ul><li>in [PR Newswire](https://www.prnewswire.com/)</li><li>on 21 April 2016</li><li>about [Michael Jackson](../../topics/michael-jackson/index.md), [Slave Trade: How Prince Re-Made the Music Business (documentary)](../../topics/documentary/slave-trade-how-prince-re-made-the-music-business/index.md), [Super Bowl](../../topics/super-bowl/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/axs-tv-celebrates-the-life-and-legacy-of-music-icon-prince-with-a-special-programming-lineup-on-saturday-april-23-300255801.html))</li><ul>
+ - [**"AXS TV Celebrates The Life And Legacy Of Music Icon Prince With A Special Programming Lineup On Saturday, April 23 -- The Tribute Features the Prince Edition of ROCK LEGENDS at 1 P.M. ET/10 A.M. PT, and the Television Premiere of the Acclaimed Documentary SLAVE TRADE: HOW PRINCE RE-MADE THE MUSIC BUSINESS at 2 P.M. ET/11 A.M. PT"**](https://www.prnewswire.com/news-releases/axs-tv-celebrates-the-life-and-legacy-of-music-icon-prince-with-a-special-programming-lineup-on-saturday-april-23-300255801.html)<ul><li>in [PR Newswire](https://www.prnewswire.com/)</li><li>on 21 April 2016</li><li>about [AXS TV](../../topics/axs-tv/index.md), [Creative Artists Agency](../../topics/creative-artists-agency/index.md), [Dan Rather](../../topics/dan-rather/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Slave Trade: How Prince Re-Made the Music Business (documentary)](../../topics/documentary/slave-trade-how-prince-re-made-the-music-business/index.md), [Super Bowl](../../topics/super-bowl/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/axs-tv-celebrates-the-life-and-legacy-of-music-icon-prince-with-a-special-programming-lineup-on-saturday-april-23-300255801.html))</li><ul>
 
 ----
 

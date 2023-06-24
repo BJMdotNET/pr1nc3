@@ -1,5 +1,13 @@
 # auction
 
+ - [**"Cobain ‘MTV Unplugged’ guitar sells for sky-high $6 million"**](https://apnews.com/article/music-us-news-ap-top-news-prince-ca-state-wire-607ae61870d8cccdc6a73d4fe309c996)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 20 April 2021</li><li>about [auction](../../topics/auction/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/music-us-news-ap-top-news-prince-ca-state-wire-607ae61870d8cccdc6a73d4fe309c996))</li><ul>
+
+----
+
+ - [**"Guitarra de Prince es subastada por más de 560.000 dólares"**](https://apnews.com/article/2ad05c50c8d859c3b81f834077f7cee6)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 20 June 2020</li><li>about [auction](../../topics/auction/index.md), [Madonna](../../topics/madonna/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/2ad05c50c8d859c3b81f834077f7cee6))</li><ul>
+
+----
+
  - [**"Prince died three years ago, his estate is still unsettled: Here's why"**](https://usatoday.com/story/life/2019/04/18/prince-died-3-years-ago-his-estate-still-unsettled-heres-why/3344038002/)<ul><li>in [USA Today](https://usatoday.com/)</li><li>on 21 April 2019</li><li>about [Alfred Jackson](../../topics/alfred-jackson/index.md), [auction](../../topics/auction/index.md), [Bremer Trust](../../topics/bremer-trust/index.md), [Caribbean](../../topics/caribbean/index.md), [Carver County](../../topics/carver-county/index.md), [Celebration 2019 (event)](../../topics/event/celebration-2019/index.md), [Comerica](../../topics/comerica/index.md), [Comerica Bank & Trust](../../topics/comerica-bank-trust/index.md), [exhibition](../../topics/exhibition/index.md), [fentanyl](../../topics/fentanyl/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [Joel Weinshanker](../../topics/joel-weinshanker/index.md), [John Nelson](../../topics/john-nelson/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Legacy Recordings](../../topics/legacy-recordings/index.md), [merchandise](../../topics/merchandise/index.md), [museum](../../topics/museum/index.md), [My Name Is Prince (exhibition)](../../topics/exhibition/my-name-is-prince/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Prince Anthology: 1995-2010 (album)](../../topics/album/prince-anthology-1995-2010/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Prince: In Concert On The Big Screen (event)](../../topics/event/prince-in-concert-on-the-big-screen/index.md), [probate court](../../topics/probate-court/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Turks and Caicos](../../topics/turks-and-caicos/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/2019/04/18/prince-died-3-years-ago-his-estate-still-unsettled-heres-why/3344038002/))</li><ul>
 
 ----
@@ -73,6 +81,10 @@
 ----
 
  - [**"Prince guitar to be auctioned in Beverly Hills"**](https://apnews.com/fefc1b6dc9cd4e1fa08dffe5e3834299)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 15 May 2016</li><li>about [auction](../../topics/auction/index.md), [Heritage Auctions](../../topics/heritage-auctions/index.md), [museum](../../topics/museum/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/fefc1b6dc9cd4e1fa08dffe5e3834299))</li><ul>
+
+----
+
+ - [**"Guitarra de Prince será subastada en Beverly Hills"**](https://apnews.com/article/archive-882fcf7bb9174d71915dcb9c630dd03d)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 14 May 2016</li><li>about [auction](../../topics/auction/index.md), [Heritage Auctions](../../topics/heritage-auctions/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/archive-882fcf7bb9174d71915dcb9c630dd03d))</li><ul>
 
 ----
 

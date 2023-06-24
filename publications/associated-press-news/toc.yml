@@ -5,6 +5,12 @@ items:
 - name: 1986
   href: associated-press-news-1986.md
   homepage: associated-press-news-1986.md
+- name: 1987
+  href: associated-press-news-1987.md
+  homepage: associated-press-news-1987.md
+- name: 1988
+  href: associated-press-news-1988.md
+  homepage: associated-press-news-1988.md
 - name: 1991
   href: associated-press-news-1991.md
   homepage: associated-press-news-1991.md
@@ -17,6 +23,9 @@ items:
 - name: 2002
   href: associated-press-news-2002.md
   homepage: associated-press-news-2002.md
+- name: 2003
+  href: associated-press-news-2003.md
+  homepage: associated-press-news-2003.md
 - name: 2004
   href: associated-press-news-2004.md
   homepage: associated-press-news-2004.md

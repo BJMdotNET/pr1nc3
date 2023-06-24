@@ -4,6 +4,14 @@
 
 ----
 
+ - [**"Prince’s posthumous book released as fans continue to mourn"**](https://apnews.com/article/dan-piepenbring-us-news-music-prince-entertainment-7d2379f3184b4447ba4c1be55a1afbe1)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 30 April 2021</li><li>about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/dan-piepenbring-us-news-music-prince-entertainment-7d2379f3184b4447ba4c1be55a1afbe1))</li><ul>
+
+----
+
+ - [**"For Apollonia Kotero, Prince was a king"**](https://apnews.com/article/prince-apollonia-music-entertainment-mn-state-wire-9a9cbf083a15413eaf4055acbcb4492d)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 28 April 2021</li><li>about [Apollonia](../../topics/apollonia/index.md), [Apollonia 6](../../topics/apollonia-6/index.md), [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/prince-apollonia-music-entertainment-mn-state-wire-9a9cbf083a15413eaf4055acbcb4492d))</li><ul>
+
+----
+
  - [**"Pure Magic: The Oral History of Prince’s Super Bowl XLI Halftime Show -- As the heavens opened up and rain poured down, the Purple One ran through a handful of covers and some of his own songs, delivering an iconic set on the biggest stage possible and only expanding his legend"**](https://www.theringer.com/music/2020/1/29/21112539/prince-halftime-show-oral-history-super-bowl-xli)<ul><li>in [www.theringer.com](https://www.theringer.com/)</li><li>on 29 January 2020</li><li>about [1999 (song)](../../topics/song/1999/index.md), [airport](../../topics/airport/index.md), [Baby I’m a Star (song)](../../topics/song/baby-i-m-a-star/index.md), [contract](../../topics/contract/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [Foo Fighters](../../topics/foo-fighters/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [memoir](../../topics/memoir/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Morris Hayes](../../topics/morris-hayes/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Raspberry Beret (song)](../../topics/song/raspberry-beret/index.md), [Shelby J.](../../topics/shelby-j/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Super Bowl XLI (event)](../../topics/event/super-bowl-xli/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.theringer.com/music/2020/1/29/21112539/prince-halftime-show-oral-history-super-bowl-xli))</li><ul>
 
 ----
@@ -364,6 +372,10 @@
 
 ----
 
+ - [**"Prince’s anticipated, posthumous memoir is ready for fans"**](https://apnews.com/article/----f2c7b5160ad6464d9cc5722259c29c7f)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 26 October 2019</li><li>about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/----f2c7b5160ad6464d9cc5722259c29c7f))</li><ul>
+
+----
+
  - [**"Prince’s anticipated, posthumous memoir is ready for fans"**](https://apnews.com/3b915e466906421c90d0d42fcbbaef47)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 26 October 2019</li><li>about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [memoir](../../topics/memoir/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [vault](../../topics/vault/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/3b915e466906421c90d0d42fcbbaef47))</li><ul>
 
 ----
@@ -564,7 +576,7 @@
 
 ----
 
- - [**"No ‘tell-all,’ but Prince’s ex details their life in memoir"**](https://apnews.com/0c93c63651ef4f15adde78e51b38c197)<ul><li>by Leanne Italie (Associated Press)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 10 April 2017</li><li>about [Manuela Testolini](../../topics/manuela-testolini/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [memoir](../../topics/memoir/index.md), [The Most Beautiful (book)](../../topics/book/the-most-beautiful/index.md), [Vicodin](../../topics/vicodin/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/0c93c63651ef4f15adde78e51b38c197))</li><ul>
+ - [**"No ‘tell-all,’ but Prince’s ex details their life in memoir"**](https://apnews.com/0c93c63651ef4f15adde78e51b38c197)<ul><li>by Leanne Italie (Associated Press)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 10 April 2017</li><li>about [Manuela Testolini](../../topics/manuela-testolini/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [memoir](../../topics/memoir/index.md), [opioid](../../topics/opioid/index.md), [The Most Beautiful (book)](../../topics/book/the-most-beautiful/index.md), [Vicodin](../../topics/vicodin/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/0c93c63651ef4f15adde78e51b38c197))</li><ul>
 
 ----
 

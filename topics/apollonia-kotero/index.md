@@ -1,5 +1,9 @@
 # Apollonia Kotero
 
+ - [**"For Apollonia Kotero, Prince was a king"**](https://apnews.com/article/prince-apollonia-music-entertainment-mn-state-wire-9a9cbf083a15413eaf4055acbcb4492d)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 28 April 2021</li><li>about [Apollonia](../../topics/apollonia/index.md), [Apollonia 6](../../topics/apollonia-6/index.md), [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/prince-apollonia-music-entertainment-mn-state-wire-9a9cbf083a15413eaf4055acbcb4492d))</li><ul>
+
+----
+
  - [**"‘Purple Rain’ added to National Film Registry"**](https://blog.thecurrent.org/2019/12/purple-rain-added-to-national-film-registry/)<ul><li>in [The Current - Local Current Blog](https://blog.thecurrent.org/)</li><li>on 11 December 2019</li><li>about [Albert Magnoli](../../topics/albert-magnoli/index.md), [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Bob Dylan](../../topics/bob-dylan/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2019/12/purple-rain-added-to-national-film-registry/))</li><ul>
 
 ----

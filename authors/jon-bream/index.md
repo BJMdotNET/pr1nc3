@@ -148,7 +148,7 @@
 
 ----
 
- - [**"The scholarly Prince: U symposium explores musical icon’s link to Minneapolis"**](https://apnews.com/6a20afbf0eeb41c9a728cbaaa1c2af71)<ul><li>by Jon Bream</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 17 April 2018</li><li>about [Joni Mitchell](../../topics/joni-mitchell/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/6a20afbf0eeb41c9a728cbaaa1c2af71))</li><ul>
+ - [**"The scholarly Prince: U symposium explores musical icon’s link to Minneapolis"**](https://apnews.com/6a20afbf0eeb41c9a728cbaaa1c2af71)<ul><li>by Jon Bream</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 16 April 2018</li><li>about [Joni Mitchell](../../topics/joni-mitchell/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/6a20afbf0eeb41c9a728cbaaa1c2af71))</li><ul>
 
 ----
 

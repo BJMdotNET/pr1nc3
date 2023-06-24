@@ -4,6 +4,10 @@
 
 ----
 
+ - [**"Prince mantuvo una relación tensa con internet"**](https://apnews.com/article/c8ef74b6f5be4376a608ff85be08eb71)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 16 August 2021</li><li>about [20Ten (album)](../../topics/album/20ten/index.md), [FKA twigs](../../topics/fka-twigs/index.md), [James Brown](../../topics/james-brown/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Spotify](../../topics/spotify/index.md), [Tidal](../../topics/tidal/index.md), [YouTube](../../topics/youtube/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/c8ef74b6f5be4376a608ff85be08eb71))</li><ul>
+
+----
+
  - [**"Get Ready For More Prince Rarities: Estate Will Reissue 'The Rainbow Children' and 'One Nite Alone' Albums"**](https://www.billboard.com/articles/columns/rock/8551497/prince-estate-reissuing-live-early-2000s-studio-album)<ul><li>in [Billboard](https://www.billboard.com/)</li><li>on 20 February 2020</li><li>about [Candy Dulfer](../../topics/candy-dulfer/index.md), [Eric Leeds](../../topics/eric-leeds/index.md), [George Clinton](../../topics/george-clinton/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Legacy Recordings](../../topics/legacy-recordings/index.md), [Maceo Parker](../../topics/maceo-parker/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [NPG Music Club (website)](../../topics/website/npg-music-club/index.md), [NPG Records](../../topics/npg-records/index.md), [One Nite Alone (album)](../../topics/album/one-nite-alone/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Raspberry Beret (song)](../../topics/song/raspberry-beret/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [The Rainbow Children (album)](../../topics/album/the-rainbow-children/index.md), [Up All Nite with Prince: The One Nite Alone Collection (album)](../../topics/album/up-all-nite-with-prince-the-one-nite-alone-collection/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/columns/rock/8551497/prince-estate-reissuing-live-early-2000s-studio-album))</li><ul>
 
 ----
@@ -56,6 +60,10 @@
 
 ----
 
+ - [**"Nuevo álbum de Prince: solo él cantando al piano en su casa"**](https://apnews.com/article/cdd2248d6c1a4c2b829a3235ee7f3fb5)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 18 September 2018</li><li>about [17 Days (song)](../../topics/song/17-days/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Spike Lee](../../topics/spike-lee/index.md), [Troy Carter](../../topics/troy-carter/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md), [Why The Butterflies (song)](../../topics/song/why-the-butterflies/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/cdd2248d6c1a4c2b829a3235ee7f3fb5))</li><ul>
+
+----
+
  - [**"Prince’s new basement tape: Just him singing, playing piano"**](https://apnews.com/e0a9e78a662c40d3adee133110bc8489)<ul><li>by Jeff Baenen (Associated Press)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 18 September 2018</li><li>about [17 Days (song)](../../topics/song/17-days/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Cold Coffee & Cocaine (song)](../../topics/song/cold-coffee-cocaine/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Michael Howe](../../topics/michael-howe/index.md), [NPG Records](../../topics/npg-records/index.md), [Piano and a Microphone 1983 (album)](../../topics/album/piano-and-a-microphone-1983/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Troy Carter](../../topics/troy-carter/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md), [Why The Butterflies (song)](../../topics/song/why-the-butterflies/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/e0a9e78a662c40d3adee133110bc8489))</li><ul>
 
 ----
@@ -72,6 +80,10 @@
 
 ----
 
+ - [**"More Prince News"**](https://apnews.com/article/2b8d7c72d37c4572b9713c76aceb04e3)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 8 June 2018</li><li>about [17 Days (song)](../../topics/song/17-days/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/2b8d7c72d37c4572b9713c76aceb04e3))</li><ul>
+
+----
+
  - [**"Prince Estate Releasing Unheard 'Piano & A Microphone 1983' Album -- Record captured at singer's home studio is due out Sept. 21."**](https://www.billboard.com/articles/columns/rock/8459820/prince-estate-releasing-unheard-piano-a-microphone-1983-album)<ul><li>in [Billboard](https://www.billboard.com/)</li><li>on 7 June 2018</li><li>about [Allen Beaulieu](../../topics/allen-beaulieu/index.md), [Cold Coffee & Cocaine (song)](../../topics/song/cold-coffee-cocaine/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Piano and a Microphone 1983 (album)](../../topics/album/piano-and-a-microphone-1983/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Troy Carter](../../topics/troy-carter/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md), [Why The Butterflies (song)](../../topics/song/why-the-butterflies/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/columns/rock/8459820/prince-estate-releasing-unheard-piano-a-microphone-1983-album))</li><ul>
 
 ----
@@ -80,7 +92,7 @@
 
 ----
 
- - [**"The scholarly Prince: U symposium explores musical icon’s link to Minneapolis"**](https://apnews.com/6a20afbf0eeb41c9a728cbaaa1c2af71)<ul><li>by Jon Bream</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 17 April 2018</li><li>about [Joni Mitchell](../../topics/joni-mitchell/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/6a20afbf0eeb41c9a728cbaaa1c2af71))</li><ul>
+ - [**"The scholarly Prince: U symposium explores musical icon’s link to Minneapolis"**](https://apnews.com/6a20afbf0eeb41c9a728cbaaa1c2af71)<ul><li>by Jon Bream</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 16 April 2018</li><li>about [Joni Mitchell](../../topics/joni-mitchell/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/6a20afbf0eeb41c9a728cbaaa1c2af71))</li><ul>
 
 ----
 

@@ -32,6 +32,10 @@
 
 ----
 
+ - [**"Creepy or comforting? Prince ‘Live on the Big Screen’ tribute raises questions"**](https://apnews.com/article/55a1b2a0cea44f2a97829aa08f8ad8c1)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 12 April 2018</li><li>about [First Avenue (place)](../../topics/place/first-avenue/index.md), [hologram](../../topics/hologram/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Minnesota State Fair](../../topics/minnesota-state-fair/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [State Fair](../../topics/state-fair/index.md), [Target Center (place)](../../topics/place/target-center/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/55a1b2a0cea44f2a97829aa08f8ad8c1))</li><ul>
+
+----
+
  - [**"The Power — and Piousness — and Frustration — and Sorrow — of One -- How Cheryl Johnson became C.J., the most infamous journalist in Minnesota"**](https://www.minnesotamonthly.com/lifestyle/the-power-and-piousness-and-frustration-and-sorrow-of-one/)<ul><li>in [Minnesota Monthly](https://www.minnesotamonthly.com/)</li><li>on 8 September 2016</li><li>about [auction](../../topics/auction/index.md), [C.J.](../../topics/c-j/index.md), [Colleen (song)](../../topics/song/colleen/index.md), [contract](../../topics/contract/index.md), [exhibit](../../topics/exhibit/index.md), [Minnesota Timberwolves](../../topics/minnesota-timberwolves/index.md), [Obama](../../topics/obama/index.md), [State Fair](../../topics/state-fair/index.md), [Timberwolves](../../topics/timberwolves/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.minnesotamonthly.com/lifestyle/the-power-and-piousness-and-frustration-and-sorrow-of-one/))</li><ul>
 
 ----

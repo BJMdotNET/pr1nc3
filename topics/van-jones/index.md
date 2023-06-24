@@ -36,6 +36,10 @@
 
 ----
 
+ - [**"Beyond music, Prince’s legacy includes black activism"**](https://apnews.com/article/d34f4d7fe3f44c518cfe5a29e07c2b84)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 24 April 2016</li><li>about [Grammys](../../topics/grammys/index.md), [Van Jones](../../topics/van-jones/index.md), [YesWeCode](../../topics/yeswecode/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/d34f4d7fe3f44c518cfe5a29e07c2b84))</li><ul>
+
+----
+
  - [**"Prince Interview -- The Purple Yoda dispenses wisdom via e-mail."**](https://www.timeout.com/chicago/music/prince-interview)<ul><li>in [www.timeout.com](https://www.timeout.com/)</li><li>on 18 September 2012</li><li>about [Chaka Khan](../../topics/chaka-khan/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Van Jones](../../topics/van-jones/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.timeout.com/chicago/music/prince-interview))</li><ul>
 
 ----

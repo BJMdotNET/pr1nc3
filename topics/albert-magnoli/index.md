@@ -72,4 +72,8 @@
 
 ----
 
+ - [**"The Inventor of the Gaylord Flip Takes to the Screen"**](https://apnews.com/article/0a24253f8ec929fc11fc8cce8c222f13)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 23 June 1986</li><li>about [Albert Magnoli](../../topics/albert-magnoli/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/0a24253f8ec929fc11fc8cce8c222f13))</li><ul>
+
+----
+
 [Home](../index.md)

@@ -12,4 +12,8 @@
 
 ----
 
+ - [**"Prince estate sues ‘brazen bootlegger,’ others selling CDs of his last show, trove of other music"**](https://apnews.com/article/aea54e8d89f44d22a67324c5d77b4a95)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 4 September 2018</li><li>about [bootleg](../../topics/bootleg/index.md), [Eye Records](../../topics/eye-records/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [Prince Estate](../../topics/prince-estate/index.md), [U Got the Look (song)](../../topics/song/u-got-the-look/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/aea54e8d89f44d22a67324c5d77b4a95))</li><ul>
+
+----
+
 [Home](../index.md)

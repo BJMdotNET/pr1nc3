@@ -1,6 +1,14 @@
 # 2017
 
-## December 2017 (6)
+## December 2017 (8)
+
+ - [**"Minnesota music scene’s best moments and 10 best albums in 2017"**](https://apnews.com/article/music-archive-minnesota-9d3750a2a4344a248e305eb73abfed69)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 28 December 2017</li><li>about [First Avenue (place)](../../topics/place/first-avenue/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/music-archive-minnesota-9d3750a2a4344a248e305eb73abfed69))</li><ul>
+
+----
+
+ - [**"Minneapolis will be alive with activity during the Super Bowl"**](https://apnews.com/article/archive-minneapolis-06bbdc75a3da466cbe90d890fe362c72)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 24 December 2017</li><li>about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [motorcycle](../../topics/motorcycle/index.md), [museum](../../topics/museum/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/archive-minneapolis-06bbdc75a3da466cbe90d890fe362c72))</li><ul>
+
+----
 
  - [**"Franken, Keillor, Damond, Castile top Minnesota news in 2017"**](https://apnews.com/80ae6c0e800c49ba95447bb986d2dd78)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 22 December 2017</li><li>about [contract](../../topics/contract/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Obama](../../topics/obama/index.md), [Trump](../../topics/trump/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/80ae6c0e800c49ba95447bb986d2dd78))</li><ul>
 
@@ -116,11 +124,11 @@
 
 ----
 
- - [**"APNewsBreak: Prince tapes moved to California; 2 heirs angry"**](https://apnews.com/7fc066b10aa546e2977a0a85fc8ecb3b)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 12 October 2017</li><li>about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Carver County](../../topics/carver-county/index.md), [Comerica](../../topics/comerica/index.md), [Comerica Bank & Trust](../../topics/comerica-bank-trust/index.md), [Iron Mountain](../../topics/iron-mountain/index.md), [Iron Mountain Entertainment Services](../../topics/iron-mountain-entertainment-services/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [museum](../../topics/museum/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/7fc066b10aa546e2977a0a85fc8ecb3b))</li><ul>
+ - [**"APNewsBreak: Prince tapes moved to California; 2 heirs angry"**](https://apnews.com/7fc066b10aa546e2977a0a85fc8ecb3b)<ul><li>by Steve Karnowski (Associated Press)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 12 October 2017</li><li>about [Alfred Jackson](../../topics/alfred-jackson/index.md), [California (place)](../../topics/place/california/index.md), [Carver County](../../topics/carver-county/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Comerica](../../topics/comerica/index.md), [Comerica Bank & Trust](../../topics/comerica-bank-trust/index.md), [Iron Mountain](../../topics/iron-mountain/index.md), [Iron Mountain Entertainment Services](../../topics/iron-mountain-entertainment-services/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Los Angeles (place)](../../topics/place/los-angeles/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [vault](../../topics/vault/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/7fc066b10aa546e2977a0a85fc8ecb3b))</li><ul>
 
 ----
 
- - [**"Prince tapes moved to California; 2 heirs angry"**](https://www.startribune.com/apnewsbreak-prince-tapes-moved-to-california-heirs-miffed/450496873/)<ul><li>by Steve Karnowski (Associated Press)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 12 October 2017</li><li>about [Iron Mountain](../../topics/iron-mountain/index.md), [Iron Mountain Entertainment Services](../../topics/iron-mountain-entertainment-services/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/apnewsbreak-prince-tapes-moved-to-california-heirs-miffed/450496873/))</li><ul>
+ - [**"Prince tapes moved to California; 2 heirs angry"**](https://www.startribune.com/apnewsbreak-prince-tapes-moved-to-california-heirs-miffed/450496873/)<ul><li>by Steve Karnowski (Associated Press)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 12 October 2017</li><li>about [Alfred Jackson](../../topics/alfred-jackson/index.md), [California (place)](../../topics/place/california/index.md), [Carver County](../../topics/carver-county/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Comerica](../../topics/comerica/index.md), [Comerica Bank & Trust](../../topics/comerica-bank-trust/index.md), [Iron Mountain](../../topics/iron-mountain/index.md), [Iron Mountain Entertainment Services](../../topics/iron-mountain-entertainment-services/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Los Angeles (place)](../../topics/place/los-angeles/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [vault](../../topics/vault/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/apnewsbreak-prince-tapes-moved-to-california-heirs-miffed/450496873/))</li><ul>
 
 ----
 
@@ -300,7 +308,7 @@
 
 ----
 
- - [**"China bans more synthetic opioids blamed for US drug deaths"**](https://apnews.com/421285a512ab4793ad1428f586e7e05a)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 19 June 2017</li><li>about [fentanyl](../../topics/fentanyl/index.md), [U-47700](../../topics/u-47700/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/421285a512ab4793ad1428f586e7e05a))</li><ul>
+ - [**"China bans more synthetic opioids blamed for US drug deaths"**](https://apnews.com/421285a512ab4793ad1428f586e7e05a)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 19 June 2017</li><li>about [fentanyl](../../topics/fentanyl/index.md), [opioid](../../topics/opioid/index.md), [U-47700](../../topics/u-47700/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/421285a512ab4793ad1428f586e7e05a))</li><ul>
 
 ----
 
@@ -330,7 +338,7 @@
 
 ## May 2017 (10)
 
- - [**"Judge: Sound engineer can’t publish unreleased Prince tracks"**](https://apnews.com/28f8d4317b3b43219621f58a3252addb)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 23 May 2017</li><li>about [Deliverance (EP)](../../topics/ep/deliverance/index.md), [Deliverance (song)](../../topics/song/deliverance/index.md), [George Ian Boxill](../../topics/george-ian-boxill/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [trademark](../../topics/trademark/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/28f8d4317b3b43219621f58a3252addb))</li><ul>
+ - [**"Judge: Sound engineer can’t publish unreleased Prince tracks"**](https://apnews.com/28f8d4317b3b43219621f58a3252addb)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 23 May 2017</li><li>about [Deliverance (EP)](../../topics/ep/deliverance/index.md), [Deliverance (song)](../../topics/song/deliverance/index.md), [George Ian Boxill](../../topics/george-ian-boxill/index.md), [opioid](../../topics/opioid/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [trademark](../../topics/trademark/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/28f8d4317b3b43219621f58a3252addb))</li><ul>
 
 ----
 
@@ -346,7 +354,7 @@
 
 ----
 
- - [**"Judge confirms Prince’s 6 siblings as heirs to his estate"**](https://apnews.com/19eec2a40a864efcb3eae84206dfd5c9)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 19 May 2017</li><li>about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [museum](../../topics/museum/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/19eec2a40a864efcb3eae84206dfd5c9))</li><ul>
+ - [**"Judge confirms Prince’s 6 siblings as heirs to his estate"**](https://apnews.com/19eec2a40a864efcb3eae84206dfd5c9)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 19 May 2017</li><li>about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [museum](../../topics/museum/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [opioid](../../topics/opioid/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/19eec2a40a864efcb3eae84206dfd5c9))</li><ul>
 
 ----
 
@@ -393,10 +401,6 @@
 ----
 
  - [**"George Clinton gets Paisley Park's Prince celebration off to a funky start"**](https://usatoday.com/story/life/music/2017/04/21/george-clinton-gets-paisley-parks-prince-celebration-off-funky-start/100736612/)<ul><li>in [USA Today](https://usatoday.com/)</li><li>on 21 April 2017</li><li>about [Celebration (event)](../../topics/event/celebration/index.md), [Celebration 2017 (event)](../../topics/event/celebration-2017/index.md), [Dave Chappelle](../../topics/dave-chappelle/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [George Clinton](../../topics/george-clinton/index.md), [Jungle Love (song)](../../topics/song/jungle-love/index.md), [Morris Hayes](../../topics/morris-hayes/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [The Revolution](../../topics/the-revolution/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2017/04/21/george-clinton-gets-paisley-parks-prince-celebration-off-funky-start/100736612/))</li><ul>
-
-----
-
- - [**"Mayte Garcia on the Prince you didn’t know"**](https://apnews.com/a4115faebefc463a8aad4433e14f5d2b)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 21 April 2017</li><li>about [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [The Most Beautiful (book)](../../topics/book/the-most-beautiful/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/a4115faebefc463a8aad4433e14f5d2b))</li><ul>
 
 ----
 
@@ -448,11 +452,15 @@
 
 ----
 
+ - [**"Mayte Garcia on the Prince you didn’t know"**](https://apnews.com/a4115faebefc463a8aad4433e14f5d2b)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 19 April 2017</li><li>about [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [The Most Beautiful (book)](../../topics/book/the-most-beautiful/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/a4115faebefc463a8aad4433e14f5d2b))</li><ul>
+
+----
+
  - [**"Tracklist for Prince’s ‘Purple Rain’ Deluxe Edition Leaks — Unreleased Tracks Revealed"**](https://variety.com/2017/music/news/prince-purple-rain-deluxe-tracklist-leaks-1202390479/)<ul><li>by Jem Aswad</li><li>in [Variety](https://variety.com/)</li><li>on 19 April 2017</li><li>about [17 Days (song)](../../topics/song/17-days/index.md), [Baby I’m a Star (song)](../../topics/song/baby-i-m-a-star/index.md), [Computer Blue (song)](../../topics/song/computer-blue/index.md), [Erotic City (song)](../../topics/song/erotic-city/index.md), [George Clinton](../../topics/george-clinton/index.md), [Graffiti Bridge (album)](../../topics/album/graffiti-bridge/index.md), [I Would Die 4 U (song)](../../topics/song/i-would-die-4-u/index.md), [James Brown](../../topics/james-brown/index.md), [Katrina’s Paper Dolls (song)](../../topics/song/katrina-s-paper-dolls/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Love and Sex (song)](../../topics/song/love-and-sex/index.md), [Our Destiny (song)](../../topics/song/our-destiny/index.md), [Possessed (song)](../../topics/song/possessed/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Roadhouse Garden (song)](../../topics/song/roadhouse-garden/index.md), [Take Me with U (song)](../../topics/song/take-me-with-u/index.md), [The Beautiful Ones (song)](../../topics/song/the-beautiful-ones/index.md), [The Dance Electric (song)](../../topics/song/the-dance-electric/index.md), [The Revolution](../../topics/the-revolution/index.md), [Velvet Kitty Cat (song)](../../topics/song/velvet-kitty-cat/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://variety.com/2017/music/news/prince-purple-rain-deluxe-tracklist-leaks-1202390479/))</li><ul>
 
 ----
 
- - [**"Affidavit: Doc prescribed Prince opioids under friend’s name"**](https://apnews.com/af6ad628c59f4c7fb7351908c72f4c23)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 18 April 2017</li><li>about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [oxycodone](../../topics/oxycodone/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/af6ad628c59f4c7fb7351908c72f4c23))</li><ul>
+ - [**"Affidavit: Doc prescribed Prince opioids under friend’s name"**](https://apnews.com/af6ad628c59f4c7fb7351908c72f4c23)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 18 April 2017</li><li>about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [opioid](../../topics/opioid/index.md), [oxycodone](../../topics/oxycodone/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/af6ad628c59f4c7fb7351908c72f4c23))</li><ul>
 
 ----
 
@@ -460,7 +468,7 @@
 
 ----
 
- - [**"Documents highlight Prince’s struggle with opioid addiction"**](https://apnews.com/6309636fb0d84b968b1bfe720c289961)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 18 April 2017</li><li>about [fentanyl](../../topics/fentanyl/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [oxycodone](../../topics/oxycodone/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/6309636fb0d84b968b1bfe720c289961))</li><ul>
+ - [**"Documents highlight Prince’s struggle with opioid addiction"**](https://apnews.com/6309636fb0d84b968b1bfe720c289961)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 18 April 2017</li><li>about [fentanyl](../../topics/fentanyl/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [opioid](../../topics/opioid/index.md), [oxycodone](../../topics/oxycodone/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/6309636fb0d84b968b1bfe720c289961))</li><ul>
 
 ----
 
@@ -468,7 +476,7 @@
 
 ----
 
- - [**"New Undiscovered Prince Recordings To Be Released This Friday With "DELIVERANCE" EP -- THE TITLE TRACK, "DELIVERANCE," IS AVAILABLE NOW ON ITUNES AND APPLE MUSIC"**](https://www.prnewswire.com/news-releases/new-undiscovered-prince-recordings-to-be-released-this-friday-with-deliverance-ep-300441519.html)<ul><li>in [PR Newswire](https://www.prnewswire.com/)</li><li>on 18 April 2017</li><li>about [contract](../../topics/contract/index.md), [Deliverance (EP)](../../topics/ep/deliverance/index.md), [Deliverance (song)](../../topics/song/deliverance/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/new-undiscovered-prince-recordings-to-be-released-this-friday-with-deliverance-ep-300441519.html))</li><ul>
+ - [**"New Undiscovered Prince Recordings To Be Released This Friday With "DELIVERANCE" EP -- THE TITLE TRACK, "DELIVERANCE," IS AVAILABLE NOW ON ITUNES AND APPLE MUSIC"**](https://www.prnewswire.com/news-releases/new-undiscovered-prince-recordings-to-be-released-this-friday-with-deliverance-ep-300441519.html)<ul><li>in [PR Newswire](https://www.prnewswire.com/)</li><li>on 18 April 2017</li><li>about [Apple Music](../../topics/apple-music/index.md), [ASCAP](../../topics/ascap/index.md), [contract](../../topics/contract/index.md), [David Staley](../../topics/david-staley/index.md), [Deliverance (EP)](../../topics/ep/deliverance/index.md), [Deliverance (song)](../../topics/song/deliverance/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/new-undiscovered-prince-recordings-to-be-released-this-friday-with-deliverance-ep-300441519.html))</li><ul>
 
 ----
 
@@ -492,7 +500,7 @@
 
 ----
 
- - [**"The Latest: Doctor disputes prescribing opioids for Prince"**](https://apnews.com/d72d2ba9032e45debb8ac8700dc24e84)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 17 April 2017</li><li>about [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/d72d2ba9032e45debb8ac8700dc24e84))</li><ul>
+ - [**"The Latest: Doctor disputes prescribing opioids for Prince"**](https://apnews.com/d72d2ba9032e45debb8ac8700dc24e84)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 17 April 2017</li><li>about [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [opioid](../../topics/opioid/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/d72d2ba9032e45debb8ac8700dc24e84))</li><ul>
 
 ----
 
@@ -540,7 +548,7 @@
 
 ----
 
- - [**"No ‘tell-all,’ but Prince’s ex details their life in memoir"**](https://apnews.com/0c93c63651ef4f15adde78e51b38c197)<ul><li>by Leanne Italie (Associated Press)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 10 April 2017</li><li>about [Manuela Testolini](../../topics/manuela-testolini/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [memoir](../../topics/memoir/index.md), [The Most Beautiful (book)](../../topics/book/the-most-beautiful/index.md), [Vicodin](../../topics/vicodin/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/0c93c63651ef4f15adde78e51b38c197))</li><ul>
+ - [**"No ‘tell-all,’ but Prince’s ex details their life in memoir"**](https://apnews.com/0c93c63651ef4f15adde78e51b38c197)<ul><li>by Leanne Italie (Associated Press)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 10 April 2017</li><li>about [Manuela Testolini](../../topics/manuela-testolini/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [memoir](../../topics/memoir/index.md), [opioid](../../topics/opioid/index.md), [The Most Beautiful (book)](../../topics/book/the-most-beautiful/index.md), [Vicodin](../../topics/vicodin/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/0c93c63651ef4f15adde78e51b38c197))</li><ul>
 
 ----
 
@@ -652,7 +660,7 @@
 
 ----
 
- - [**"The Estate Of Prince Rogers Nelson Selects Universal Music Group To Manage Iconic Artist's Recordings -- Deal Encompasses Prince's Grammy-Winning NPG Records, Hits from Earlier Catalogs and Vast Collection of Unreleased Works"**](https://www.prnewswire.com/news-releases/the-estate-of-prince-rogers-nelson-selects-universal-music-group-to-manage-iconic-artists-recordings-300404797.html)<ul><li>in [PR Newswire](https://www.prnewswire.com/)</li><li>on 9 February 2017</li><li>about [3121 (album)](../../topics/album/3121/index.md), [Bravado](../../topics/bravado/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [merchandise](../../topics/merchandise/index.md), [NPG Records](../../topics/npg-records/index.md), [Universal Music Group](../../topics/universal-music-group/index.md), [vault](../../topics/vault/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/the-estate-of-prince-rogers-nelson-selects-universal-music-group-to-manage-iconic-artists-recordings-300404797.html))</li><ul>
+ - [**"The Estate Of Prince Rogers Nelson Selects Universal Music Group To Manage Iconic Artist's Recordings -- Deal Encompasses Prince's Grammy-Winning NPG Records, Hits from Earlier Catalogs and Vast Collection of Unreleased Works"**](https://www.prnewswire.com/news-releases/the-estate-of-prince-rogers-nelson-selects-universal-music-group-to-manage-iconic-artists-recordings-300404797.html)<ul><li>in [PR Newswire](https://www.prnewswire.com/)</li><li>on 9 February 2017</li><li>about [3121 (album)](../../topics/album/3121/index.md), [Bravado](../../topics/bravado/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [L. Londell McMillan](../../topics/l-londell-mcmillan/index.md), [merchandise](../../topics/merchandise/index.md), [NPG Records](../../topics/npg-records/index.md), [Rock & Roll Hall of Fame (place)](../../topics/place/rock-roll-hall-of-fame/index.md), [Universal Music Group](../../topics/universal-music-group/index.md), [vault](../../topics/vault/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/the-estate-of-prince-rogers-nelson-selects-universal-music-group-to-manage-iconic-artists-recordings-300404797.html))</li><ul>
 
 ----
 
@@ -714,7 +722,7 @@
 
 ----
 
- - [**"The Estate Of Prince Rogers Nelson Signs Exclusive Worldwide Merchandise Agreement With Universal Music Group's Bravado"**](https://www.prnewswire.com/news-releases/the-estate-of-prince-rogers-nelson-signs-exclusive-worldwide-merchandise-agreement-with-universal-music-groups-bravado-300388893.html)<ul><li>in [PR Newswire](https://www.prnewswire.com/)</li><li>on 10 January 2017</li><li>about [Bravado](../../topics/bravado/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [merchandise](../../topics/merchandise/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Universal Music Group](../../topics/universal-music-group/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/the-estate-of-prince-rogers-nelson-signs-exclusive-worldwide-merchandise-agreement-with-universal-music-groups-bravado-300388893.html))</li><ul>
+ - [**"The Estate Of Prince Rogers Nelson Signs Exclusive Worldwide Merchandise Agreement With Universal Music Group's Bravado"**](https://www.prnewswire.com/news-releases/the-estate-of-prince-rogers-nelson-signs-exclusive-worldwide-merchandise-agreement-with-universal-music-groups-bravado-300388893.html)<ul><li>in [PR Newswire](https://www.prnewswire.com/)</li><li>on 10 January 2017</li><li>about [Bravado](../../topics/bravado/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [L. Londell McMillan](../../topics/l-londell-mcmillan/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [merchandise](../../topics/merchandise/index.md), [Raspberry Beret (song)](../../topics/song/raspberry-beret/index.md), [Super Bowl](../../topics/super-bowl/index.md), [U Got the Look (song)](../../topics/song/u-got-the-look/index.md), [Universal Music Group](../../topics/universal-music-group/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/the-estate-of-prince-rogers-nelson-signs-exclusive-worldwide-merchandise-agreement-with-universal-music-groups-bravado-300388893.html))</li><ul>
 
 ----
 

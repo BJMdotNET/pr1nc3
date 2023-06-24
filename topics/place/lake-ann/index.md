@@ -4,4 +4,8 @@
 
 ----
 
+ - [**"Hermana de Prince: hasta donde se sabe, no dejó testamento"**](https://apnews.com/article/77e7b911f1d3465ab9f52e7aae95aa9c)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 26 April 2016</li><li>about [Bremer Trust](../../../topics/bremer-trust/index.md), [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [L. Londell McMillan](../../../topics/l-londell-mcmillan/index.md), [Lake Ann (place)](../../../topics/place/lake-ann/index.md), [Manuela Testolini](../../../topics/manuela-testolini/index.md), [Michael Jackson](../../../topics/michael-jackson/index.md), [Omarr Baker](../../../topics/omarr-baker/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Tyka Nelson](../../../topics/tyka-nelson/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/77e7b911f1d3465ab9f52e7aae95aa9c))</li><ul>
+
+----
+
 [Home](../index.md)

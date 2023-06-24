@@ -5,7 +5,7 @@
   * [Ghostbusters (movie)](../movie/ghostbusters/index.md) (1)
   * [Graffiti Bridge (movie)](../movie/graffiti-bridge/index.md) (9)
   * [Krush Groove (movie)](../movie/krush-groove/index.md) (3)
-  * [Purple Rain (movie)](../movie/purple-rain/index.md) (65)
+  * [Purple Rain (movie)](../movie/purple-rain/index.md) (67)
   * [The Dawn (movie)](../movie/the-dawn/index.md) (1)
   * [Under the Cherry Moon (movie)](../movie/under-the-cherry-moon/index.md) (18)
   * [Wattstax (movie)](../movie/wattstax/index.md) (3)

@@ -52,7 +52,7 @@
 
 ----
 
- - [**"The scholarly Prince: U symposium explores musical icon’s link to Minneapolis"**](https://apnews.com/6a20afbf0eeb41c9a728cbaaa1c2af71)<ul><li>by Jon Bream</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 17 April 2018</li><li>about [Joni Mitchell](../../topics/joni-mitchell/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/6a20afbf0eeb41c9a728cbaaa1c2af71))</li><ul>
+ - [**"The scholarly Prince: U symposium explores musical icon’s link to Minneapolis"**](https://apnews.com/6a20afbf0eeb41c9a728cbaaa1c2af71)<ul><li>by Jon Bream</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 16 April 2018</li><li>about [Joni Mitchell](../../topics/joni-mitchell/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/6a20afbf0eeb41c9a728cbaaa1c2af71))</li><ul>
 
 ----
 
@@ -76,7 +76,7 @@
 
 ----
 
- - [**"Mayte Garcia on the Prince you didn’t know"**](https://apnews.com/a4115faebefc463a8aad4433e14f5d2b)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 21 April 2017</li><li>about [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [The Most Beautiful (book)](../../topics/book/the-most-beautiful/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/a4115faebefc463a8aad4433e14f5d2b))</li><ul>
+ - [**"Mayte Garcia on the Prince you didn’t know"**](https://apnews.com/a4115faebefc463a8aad4433e14f5d2b)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 19 April 2017</li><li>about [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [The Most Beautiful (book)](../../topics/book/the-most-beautiful/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/a4115faebefc463a8aad4433e14f5d2b))</li><ul>
 
 ----
 
@@ -88,7 +88,7 @@
 
 ----
 
- - [**"No ‘tell-all,’ but Prince’s ex details their life in memoir"**](https://apnews.com/0c93c63651ef4f15adde78e51b38c197)<ul><li>by Leanne Italie (Associated Press)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 10 April 2017</li><li>about [Manuela Testolini](../../topics/manuela-testolini/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [memoir](../../topics/memoir/index.md), [The Most Beautiful (book)](../../topics/book/the-most-beautiful/index.md), [Vicodin](../../topics/vicodin/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/0c93c63651ef4f15adde78e51b38c197))</li><ul>
+ - [**"No ‘tell-all,’ but Prince’s ex details their life in memoir"**](https://apnews.com/0c93c63651ef4f15adde78e51b38c197)<ul><li>by Leanne Italie (Associated Press)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 10 April 2017</li><li>about [Manuela Testolini](../../topics/manuela-testolini/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [memoir](../../topics/memoir/index.md), [opioid](../../topics/opioid/index.md), [The Most Beautiful (book)](../../topics/book/the-most-beautiful/index.md), [Vicodin](../../topics/vicodin/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/0c93c63651ef4f15adde78e51b38c197))</li><ul>
 
 ----
 
@@ -140,11 +140,19 @@
 
 ----
 
+ - [**"Primera esposa de Prince publicará sus memorias"**](https://apnews.com/article/71820ff37d3a49e09d13503ea83ab59a)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 13 September 2016</li><li>about [Hachette Books](../../topics/hachette-books/index.md), [Mayte](../../topics/mayte/index.md), [The Most Beautiful (book)](../../topics/book/the-most-beautiful/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/71820ff37d3a49e09d13503ea83ab59a))</li><ul>
+
+----
+
  - [**"Prince’s first wife, Mayte Garcia, writing “intimate memoir”"**](https://apnews.com/04ae6c305ab44db084323913d9a96af7)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 13 September 2016</li><li>about [Hachette Books](../../topics/hachette-books/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [memoir](../../topics/memoir/index.md), [The Most Beautiful (book)](../../topics/book/the-most-beautiful/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/04ae6c305ab44db084323913d9a96af7))</li><ul>
 
 ----
 
- - [**"APNewsBreak: Official Prince tribute concert set for October"**](https://apnews.com/08568057d51c46f8a3daf99e36db5e38)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 28 July 2016</li><li>about [Janelle Monae](../../topics/janelle-monae/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [The Roots](../../topics/the-roots/index.md), [Tori Kelly](../../topics/tori-kelly/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/08568057d51c46f8a3daf99e36db5e38))</li><ul>
+ - [**"APNewsBreak: Official Prince tribute concert set for October"**](https://apnews.com/08568057d51c46f8a3daf99e36db5e38)<ul><li>by Mesfin Fekadu (Associated Press)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 28 July 2016</li><li>about [Janelle Monae](../../topics/janelle-monae/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [The Roots](../../topics/the-roots/index.md), [Tori Kelly](../../topics/tori-kelly/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/08568057d51c46f8a3daf99e36db5e38))</li><ul>
+
+----
+
+ - [**"Official Prince tribute concert set for October at U.S. Bank Stadium"**](https://www.startribune.com/apnewsbreak-official-prince-tribute-concert-set-for-october/388585801/)<ul><li>by Mesfin Fekadu (Associated Press)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 28 July 2016</li><li>about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [BET Awards](../../topics/bet-awards/index.md), [Beyoncé](../../topics/beyonc/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Janelle Monae](../../topics/janelle-monae/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Roots](../../topics/the-roots/index.md), [The Time](../../topics/the-time/index.md), [Tori Kelly](../../topics/tori-kelly/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/apnewsbreak-official-prince-tribute-concert-set-for-october/388585801/))</li><ul>
 
 ----
 
@@ -181,6 +189,10 @@
 ----
 
  - [**"Why Prince Became a Symbol. (Literally.) -- Revisiting his 1995 cover story in a special edition of Esquire."**](https://www.esquire.com/entertainment/music/a44218/prince-1995-esquire-gentleman/)<ul><li>in [Esquire](https://www.esquire.com/)</li><li>on 21 April 2016</li><li>about [contract](../../topics/contract/index.md), [Emancipation (album)](../../topics/album/emancipation/index.md), [Mayte](../../topics/mayte/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.esquire.com/entertainment/music/a44218/prince-1995-esquire-gentleman/))</li><ul>
+
+----
+
+ - [**"‘Atlanta Exes’ members create own lane to fame"**](https://apnews.com/article/8d3f02ce829d44488e59c41f5fd69ac5)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 16 August 2014</li><li>about [Atlanta (place)](../../topics/place/atlanta/index.md), [divorce](../../topics/divorce/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/8d3f02ce829d44488e59c41f5fd69ac5))</li><ul>
 
 ----
 

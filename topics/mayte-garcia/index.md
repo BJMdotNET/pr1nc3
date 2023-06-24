@@ -32,7 +32,7 @@
 
 ----
 
- - [**"The scholarly Prince: U symposium explores musical icon’s link to Minneapolis"**](https://apnews.com/6a20afbf0eeb41c9a728cbaaa1c2af71)<ul><li>by Jon Bream</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 17 April 2018</li><li>about [Joni Mitchell](../../topics/joni-mitchell/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/6a20afbf0eeb41c9a728cbaaa1c2af71))</li><ul>
+ - [**"The scholarly Prince: U symposium explores musical icon’s link to Minneapolis"**](https://apnews.com/6a20afbf0eeb41c9a728cbaaa1c2af71)<ul><li>by Jon Bream</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 16 April 2018</li><li>about [Joni Mitchell](../../topics/joni-mitchell/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/6a20afbf0eeb41c9a728cbaaa1c2af71))</li><ul>
 
 ----
 
@@ -48,7 +48,7 @@
 
 ----
 
- - [**"Mayte Garcia on the Prince you didn’t know"**](https://apnews.com/a4115faebefc463a8aad4433e14f5d2b)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 21 April 2017</li><li>about [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [The Most Beautiful (book)](../../topics/book/the-most-beautiful/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/a4115faebefc463a8aad4433e14f5d2b))</li><ul>
+ - [**"Mayte Garcia on the Prince you didn’t know"**](https://apnews.com/a4115faebefc463a8aad4433e14f5d2b)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 19 April 2017</li><li>about [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [The Most Beautiful (book)](../../topics/book/the-most-beautiful/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/a4115faebefc463a8aad4433e14f5d2b))</li><ul>
 
 ----
 
@@ -60,7 +60,7 @@
 
 ----
 
- - [**"No ‘tell-all,’ but Prince’s ex details their life in memoir"**](https://apnews.com/0c93c63651ef4f15adde78e51b38c197)<ul><li>by Leanne Italie (Associated Press)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 10 April 2017</li><li>about [Manuela Testolini](../../topics/manuela-testolini/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [memoir](../../topics/memoir/index.md), [The Most Beautiful (book)](../../topics/book/the-most-beautiful/index.md), [Vicodin](../../topics/vicodin/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/0c93c63651ef4f15adde78e51b38c197))</li><ul>
+ - [**"No ‘tell-all,’ but Prince’s ex details their life in memoir"**](https://apnews.com/0c93c63651ef4f15adde78e51b38c197)<ul><li>by Leanne Italie (Associated Press)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 10 April 2017</li><li>about [Manuela Testolini](../../topics/manuela-testolini/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [memoir](../../topics/memoir/index.md), [opioid](../../topics/opioid/index.md), [The Most Beautiful (book)](../../topics/book/the-most-beautiful/index.md), [Vicodin](../../topics/vicodin/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/0c93c63651ef4f15adde78e51b38c197))</li><ul>
 
 ----
 
@@ -104,7 +104,11 @@
 
 ----
 
- - [**"APNewsBreak: Official Prince tribute concert set for October"**](https://apnews.com/08568057d51c46f8a3daf99e36db5e38)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 28 July 2016</li><li>about [Janelle Monae](../../topics/janelle-monae/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [The Roots](../../topics/the-roots/index.md), [Tori Kelly](../../topics/tori-kelly/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/08568057d51c46f8a3daf99e36db5e38))</li><ul>
+ - [**"APNewsBreak: Official Prince tribute concert set for October"**](https://apnews.com/08568057d51c46f8a3daf99e36db5e38)<ul><li>by Mesfin Fekadu (Associated Press)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 28 July 2016</li><li>about [Janelle Monae](../../topics/janelle-monae/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [The Roots](../../topics/the-roots/index.md), [Tori Kelly](../../topics/tori-kelly/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/08568057d51c46f8a3daf99e36db5e38))</li><ul>
+
+----
+
+ - [**"Official Prince tribute concert set for October at U.S. Bank Stadium"**](https://www.startribune.com/apnewsbreak-official-prince-tribute-concert-set-for-october/388585801/)<ul><li>by Mesfin Fekadu (Associated Press)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 28 July 2016</li><li>about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [BET Awards](../../topics/bet-awards/index.md), [Beyoncé](../../topics/beyonc/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Janelle Monae](../../topics/janelle-monae/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Roots](../../topics/the-roots/index.md), [The Time](../../topics/the-time/index.md), [Tori Kelly](../../topics/tori-kelly/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/apnewsbreak-official-prince-tribute-concert-set-for-october/388585801/))</li><ul>
 
 ----
 
@@ -133,6 +137,10 @@
 ----
 
  - [**"Obituary: Prince was a diminutive giant who revolutionized pop -- Though he was a puzzle at times, the rocker was a true Minnesotan who changed music more than once in a nearly 40-year career."**](https://www.startribune.com/jon-bream-prince-was-a-once-in-a-generation-artist-who-never-rested-on-his-laurels/376594221/)<ul><li>by Chris Riemenschneider, Jon Bream</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 22 April 2016</li><li>about [André Cymone](../../topics/andr-cymone/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Grammy Award](../../topics/grammy-award/index.md), [John Nelson](../../topics/john-nelson/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Obama](../../topics/obama/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Super Bowl XLI (event)](../../topics/event/super-bowl-xli/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/jon-bream-prince-was-a-once-in-a-generation-artist-who-never-rested-on-his-laurels/376594221/))</li><ul>
+
+----
+
+ - [**"‘Atlanta Exes’ members create own lane to fame"**](https://apnews.com/article/8d3f02ce829d44488e59c41f5fd69ac5)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 16 August 2014</li><li>about [Atlanta (place)](../../topics/place/atlanta/index.md), [divorce](../../topics/divorce/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/8d3f02ce829d44488e59c41f5fd69ac5))</li><ul>
 
 ----
 

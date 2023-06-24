@@ -48,11 +48,11 @@
 
 ----
 
- - [**"Thanks to a University of Minnesota degree, his name is ‘Dr. Prince’ now"**](https://apnews.com/38a03f35b393465ba72fa83d6841b3a3)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 27 September 2018</li><li>about [Central High](../../topics/central-high/index.md), [Cloud guitar](../../topics/cloud-guitar/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [museum](../../topics/museum/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Paul Peterson](../../topics/paul-peterson/index.md), [St. Paul Peterson](../../topics/st-paul-peterson/index.md), [Tommy Barbarella](../../topics/tommy-barbarella/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/38a03f35b393465ba72fa83d6841b3a3))</li><ul>
+ - [**"Prince receives honorary degree from University of Minnesota -- Prince received an honorary degree from the University of Minnesota's school of music on Wednesday, Sept 26, 2018 at the Ted Mann Concert Hall in Minneapolis, Minn."**](https://www.startribune.com/prince-receives-honorary-degree-from-university-of-minnesota/494452521/)<ul><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 26 September 2018</li><li>about [honorary degree](../../topics/honorary-degree/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-receives-honorary-degree-from-university-of-minnesota/494452521/))</li><ul>
 
 ----
 
- - [**"Prince receives honorary degree from University of Minnesota -- Prince received an honorary degree from the University of Minnesota's school of music on Wednesday, Sept 26, 2018 at the Ted Mann Concert Hall in Minneapolis, Minn."**](https://www.startribune.com/prince-receives-honorary-degree-from-university-of-minnesota/494452521/)<ul><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 26 September 2018</li><li>about [honorary degree](../../topics/honorary-degree/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-receives-honorary-degree-from-university-of-minnesota/494452521/))</li><ul>
+ - [**"Thanks to a University of Minnesota degree, his name is ‘Dr. Prince’ now"**](https://apnews.com/38a03f35b393465ba72fa83d6841b3a3)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 26 September 2018</li><li>about [Central High](../../topics/central-high/index.md), [Cloud guitar](../../topics/cloud-guitar/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [museum](../../topics/museum/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Paul Peterson](../../topics/paul-peterson/index.md), [St. Paul Peterson](../../topics/st-paul-peterson/index.md), [Tommy Barbarella](../../topics/tommy-barbarella/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/38a03f35b393465ba72fa83d6841b3a3))</li><ul>
 
 ----
 
@@ -69,6 +69,10 @@
 ----
 
  - [**"Prince to receive honorary degree from University of Minnesota"**](https://www.startribune.com/prince-to-receive-honorary-degree-from-university-of-minnesota-on-sept-26/490762631/)<ul><li>by Jon Bream</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 13 August 2018</li><li>about [honorary degree](../../topics/honorary-degree/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-to-receive-honorary-degree-from-university-of-minnesota-on-sept-26/490762631/))</li><ul>
+
+----
+
+ - [**"Minneapolis will be alive with activity during the Super Bowl"**](https://apnews.com/article/archive-minneapolis-06bbdc75a3da466cbe90d890fe362c72)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 24 December 2017</li><li>about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [motorcycle](../../topics/motorcycle/index.md), [museum](../../topics/museum/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/archive-minneapolis-06bbdc75a3da466cbe90d890fe362c72))</li><ul>
 
 ----
 

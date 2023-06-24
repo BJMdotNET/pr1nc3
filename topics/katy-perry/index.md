@@ -1,5 +1,9 @@
 # Katy Perry
 
+ - [**"Katy Perry just wants to have fun in arena spectacle at Xcel Energy Center"**](https://apnews.com/article/entertainment-music-concerts-lady-gaga-katy-perry-74dd6597f0d741e2b8310b3dc29c1518)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 12 December 2021</li><li>about [Janet Jackson](../../topics/janet-jackson/index.md), [Katy Perry](../../topics/katy-perry/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/entertainment-music-concerts-lady-gaga-katy-perry-74dd6597f0d741e2b8310b3dc29c1518))</li><ul>
+
+----
+
  - [**"8 unforgettable Super Bowl halftime show moments"**](https://www.msn.com/en-us/entertainment/news/8-unforgettable-super-bowl-halftime-show-moments/vi-BBZuigg)<ul><li>in [msn entertainment](https://www.msn.com/en-us/entertainment)</li><li>on 30 January 2020</li><li>about [Katy Perry](../../topics/katy-perry/index.md), [Super Bowl](../../topics/super-bowl/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.msn.com/en-us/entertainment/news/8-unforgettable-super-bowl-halftime-show-moments/vi-BBZuigg))</li><ul>
 
 ----
@@ -64,7 +68,7 @@
 
 ----
 
- - [**"2016: The Year in Entertainment"**](https://apnews.com/0980c1b2845f4c41b234f5e4ed0cd57a)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 30 December 2016</li><li>about [Academy Award](../../topics/academy-award/index.md), [fentanyl](../../topics/fentanyl/index.md), [Grammy Award](../../topics/grammy-award/index.md), [Katy Perry](../../topics/katy-perry/index.md), [Questlove](../../topics/questlove/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/0980c1b2845f4c41b234f5e4ed0cd57a))</li><ul>
+ - [**"2016: The Year in Entertainment"**](https://apnews.com/0980c1b2845f4c41b234f5e4ed0cd57a)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 30 December 2016</li><li>about [Academy Award](../../topics/academy-award/index.md), [fentanyl](../../topics/fentanyl/index.md), [Grammy Award](../../topics/grammy-award/index.md), [Katy Perry](../../topics/katy-perry/index.md), [opioid](../../topics/opioid/index.md), [Questlove](../../topics/questlove/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/0980c1b2845f4c41b234f5e4ed0cd57a))</li><ul>
 
 ----
 

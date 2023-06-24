@@ -16,7 +16,15 @@
 
 ----
 
-## October 2019 (2)
+## October 2019 (4)
+
+ - [**"Para deleite de fans, sale la esperada biografía de Prince"**](https://apnews.com/article/9a1c4a38f0254df58b27b1511e6a1137)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 26 October 2019</li><li>about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/9a1c4a38f0254df58b27b1511e6a1137))</li><ul>
+
+----
+
+ - [**"Prince’s anticipated, posthumous memoir is ready for fans"**](https://apnews.com/article/----f2c7b5160ad6464d9cc5722259c29c7f)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 26 October 2019</li><li>about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/----f2c7b5160ad6464d9cc5722259c29c7f))</li><ul>
+
+----
 
  - [**"Prince’s anticipated, posthumous memoir is ready for fans"**](https://apnews.com/3b915e466906421c90d0d42fcbbaef47)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 26 October 2019</li><li>about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [memoir](../../topics/memoir/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [vault](../../topics/vault/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/3b915e466906421c90d0d42fcbbaef47))</li><ul>
 
@@ -32,13 +40,13 @@
 
 ----
 
- - [**"Feds: Man sold rapper Mac Miller drugs before overdose death"**](https://apnews.com/ad75f002ba304577ad1e1a09720d2a31)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 5 September 2019</li><li>about [fentanyl](../../topics/fentanyl/index.md), [oxycodone](../../topics/oxycodone/index.md), [Percocet](../../topics/percocet/index.md), [Vicodin](../../topics/vicodin/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/ad75f002ba304577ad1e1a09720d2a31))</li><ul>
+ - [**"Feds: Man sold rapper Mac Miller drugs before overdose death"**](https://apnews.com/ad75f002ba304577ad1e1a09720d2a31)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 5 September 2019</li><li>about [fentanyl](../../topics/fentanyl/index.md), [opioid](../../topics/opioid/index.md), [oxycodone](../../topics/oxycodone/index.md), [Percocet](../../topics/percocet/index.md), [Vicodin](../../topics/vicodin/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/ad75f002ba304577ad1e1a09720d2a31))</li><ul>
 
 ----
 
 ## August 2019 (5)
 
- - [**"Alfred Jackson, half-brother of late rock star Prince, dies"**](https://apnews.com/6b52dd65a9254e2c8f273bedc80902b6)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 30 August 2019</li><li>about [Alfred Jackson](../../topics/alfred-jackson/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/6b52dd65a9254e2c8f273bedc80902b6))</li><ul>
+ - [**"Alfred Jackson, half-brother of late rock star Prince, dies"**](https://apnews.com/6b52dd65a9254e2c8f273bedc80902b6)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 30 August 2019</li><li>about [Alfred Jackson](../../topics/alfred-jackson/index.md), [opioid](../../topics/opioid/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/6b52dd65a9254e2c8f273bedc80902b6))</li><ul>
 
 ----
 
@@ -76,7 +84,7 @@
 
 ## May 2019 (2)
 
- - [**"Prince’s bodyguard deposed in wrongful death lawsuit"**](https://apnews.com/8e68cf25ceb245319425b5952c5d1be8)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 30 May 2019</li><li>about [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Clayton Tyler](../../topics/clayton-tyler/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Michael Schulenberg](../../topics/michael-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [North Memorial Health Care](../../topics/north-memorial-health-care/index.md), [oxycodone](../../topics/oxycodone/index.md), [Walgreens](../../topics/walgreens/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/8e68cf25ceb245319425b5952c5d1be8))</li><ul>
+ - [**"Prince’s bodyguard deposed in wrongful death lawsuit"**](https://apnews.com/8e68cf25ceb245319425b5952c5d1be8)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 30 May 2019</li><li>about [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Clayton Tyler](../../topics/clayton-tyler/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Michael Schulenberg](../../topics/michael-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [North Memorial Health Care](../../topics/north-memorial-health-care/index.md), [opioid](../../topics/opioid/index.md), [oxycodone](../../topics/oxycodone/index.md), [Walgreens](../../topics/walgreens/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/8e68cf25ceb245319425b5952c5d1be8))</li><ul>
 
 ----
 
@@ -84,9 +92,13 @@
 
 ----
 
-## April 2019 (2)
+## April 2019 (4)
 
  - [**"New Prince album featuring unreleased demos out in June"**](https://apnews.com/f60b62d07cd74a92aec4ceb6d9c338f1)<ul><li>by The Associated Press</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 25 April 2019</li><li>about [Apple Music](../../topics/apple-music/index.md), [Bangles](../../topics/bangles/index.md), [Joey Coco](../../topics/joey-coco/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../topics/album/originals/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Spotify](../../topics/spotify/index.md), [The Time](../../topics/the-time/index.md), [Tidal](../../topics/tidal/index.md), [Troy Carter](../../topics/troy-carter/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/f60b62d07cd74a92aec4ceb6d9c338f1))</li><ul>
+
+----
+
+ - [**"Libro de memorias de Prince se publicará en octubre"**](https://apnews.com/article/42cdd445998240f2b2421291e6732f78)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 22 April 2019</li><li>about [Chris Jackson](../../topics/chris-jackson/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Esther Newberg](../../topics/esther-newberg/index.md), [Random House](../../topics/random-house/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/42cdd445998240f2b2421291e6732f78))</li><ul>
 
 ----
 
@@ -94,9 +106,17 @@
 
 ----
 
-## March 2019 (4)
+ - [**"Albert Lea-raised costume designer recollects 30-year career"**](https://apnews.com/article/66c715dfb28a45dcaeb04e19c52c8722)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 1 April 2019</li><li>about [Paisley Park (place)](../../topics/place/paisley-park/index.md), [PRN Alumni Foundation](../../topics/prn-alumni-foundation/index.md), [Stacia Lang](../../topics/stacia-lang/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/66c715dfb28a45dcaeb04e19c52c8722))</li><ul>
+
+----
+
+## March 2019 (5)
 
  - [**"Herb Ritts photos of Bowie, Madonna, more to be exhibited"**](https://apnews.com/1c8308821f394c988d91e49742dbd17e)<ul><li>by The Associated Press</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 31 March 2019</li><li>about [Herb Ritts](../../topics/herb-ritts/index.md), [museum](../../topics/museum/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/1c8308821f394c988d91e49742dbd17e))</li><ul>
+
+----
+
+ - [**"AM Prep-Music -- TIMBERWOLVES WILL GIVE AWAY PRINCE 7-INCH SINGLE"**](https://apnews.com/article/c06f9630f85740c59c3c6e9235c77141)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 22 March 2019</li><li>about [Minnesota Timberwolves](../../topics/minnesota-timberwolves/index.md), [Morris Day](../../topics/morris-day/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Timberwolves](../../topics/timberwolves/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/c06f9630f85740c59c3c6e9235c77141))</li><ul>
 
 ----
 
@@ -112,9 +132,13 @@
 
 ----
 
-## February 2019 (4)
+## February 2019 (5)
 
- - [**"The Latest: Klobuchar points to Prince in talking drug issue"**](https://apnews.com/a1facc441faa45c08d75963d0e49a9dc)<ul><li>by The Associated Press</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 19 February 2019</li><li>about [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/a1facc441faa45c08d75963d0e49a9dc))</li><ul>
+ - [**"AM Prep-Music -- ESSENCE FESTIVAL ANNOUNCES LINEUP"**](https://apnews.com/article/b62a45b382974fa5929d6ff8422b19ff)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 26 February 2019</li><li>about [Essence Fest (event)](../../topics/event/essence-fest/index.md), [Essence Festival (event)](../../topics/event/essence-festival/index.md), [H.E.R.](../../topics/h-e-r/index.md), [John Legend](../../topics/john-legend/index.md), [Morris Day](../../topics/morris-day/index.md), [New Orleans (place)](../../topics/place/new-orleans/index.md), [Sheila E.](../../topics/sheila-e/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/b62a45b382974fa5929d6ff8422b19ff))</li><ul>
+
+----
+
+ - [**"The Latest: Klobuchar points to Prince in talking drug issue"**](https://apnews.com/a1facc441faa45c08d75963d0e49a9dc)<ul><li>by The Associated Press</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 19 February 2019</li><li>about [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [opioid](../../topics/opioid/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/a1facc441faa45c08d75963d0e49a9dc))</li><ul>
 
 ----
 

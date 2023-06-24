@@ -8,6 +8,10 @@
 
 ----
 
+ - [**"Admiradores piden música de bóveda de Prince"**](https://apnews.com/article/2fd8bfebd0284a1b893a84abbc165d03)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 28 April 2016</li><li>about [Bangles](../../topics/bangles/index.md), [Bob Dylan](../../topics/bob-dylan/index.md), [Bremer Trust](../../topics/bremer-trust/index.md), [California (place)](../../topics/place/california/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Touré](../../topics/tour/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/2fd8bfebd0284a1b893a84abbc165d03))</li><ul>
+
+----
+
  - [**"Revisit Prince's iconic first 'Purple Rain' performance"**](https://usatoday.com/story/life/entertainthis/2016/04/21/prince-first-performance-purple-rain-video/83346434/)<ul><li>by Maeve McDermott</li><li>in [USA Today](https://usatoday.com/)</li><li>on 21 April 2016</li><li>about [First Avenue (place)](../../topics/place/first-avenue/index.md), [I Would Die 4 U (book)](../../topics/book/i-would-die-4-u/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Touré](../../topics/tour/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/entertainthis/2016/04/21/prince-first-performance-purple-rain-video/83346434/))</li><ul>
 
 ----

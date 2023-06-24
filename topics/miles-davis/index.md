@@ -84,6 +84,10 @@
 
 ----
 
+ - [**"Nuevo álbum de Prince: solo él cantando al piano en su casa"**](https://apnews.com/article/cdd2248d6c1a4c2b829a3235ee7f3fb5)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 18 September 2018</li><li>about [17 Days (song)](../../topics/song/17-days/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Spike Lee](../../topics/spike-lee/index.md), [Troy Carter](../../topics/troy-carter/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md), [Why The Butterflies (song)](../../topics/song/why-the-butterflies/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/cdd2248d6c1a4c2b829a3235ee7f3fb5))</li><ul>
+
+----
+
  - [**"Jazz legend Herbie Hancock talks music, recovery and partying with Prince                                   -- Jazz giant Herbie Hancock is working on an album with Snoop and Pharrell; he'll preview it at the Minnesota Zoo."**](https://www.startribune.com/jazz-legend-herbie-hancock-talks-music-recovery-and-partying-with-prince/439675873/)<ul><li>by Jon Bream</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 10 August 2017</li><li>about [Joni Mitchell](../../topics/joni-mitchell/index.md), [memoir](../../topics/memoir/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Trump](../../topics/trump/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/jazz-legend-herbie-hancock-talks-music-recovery-and-partying-with-prince/439675873/))</li><ul>
 
 ----
@@ -93,6 +97,10 @@
 ----
 
  - [**"Fans’ Holy Grail: unreleased songs in Prince’s vault"**](https://apnews.com/73b9ba74daa4423bb36ac62d4655a71b)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 29 April 2016</li><li>about [Bangles](../../topics/bangles/index.md), [Bremer Trust](../../topics/bremer-trust/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Miles Davis](../../topics/miles-davis/index.md), [probate court](../../topics/probate-court/index.md), [Spotify](../../topics/spotify/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [vault](../../topics/vault/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/73b9ba74daa4423bb36ac62d4655a71b))</li><ul>
+
+----
+
+ - [**"Admiradores piden música de bóveda de Prince"**](https://apnews.com/article/2fd8bfebd0284a1b893a84abbc165d03)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 28 April 2016</li><li>about [Bangles](../../topics/bangles/index.md), [Bob Dylan](../../topics/bob-dylan/index.md), [Bremer Trust](../../topics/bremer-trust/index.md), [California (place)](../../topics/place/california/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Touré](../../topics/tour/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/2fd8bfebd0284a1b893a84abbc165d03))</li><ul>
 
 ----
 

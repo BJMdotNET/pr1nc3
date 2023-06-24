@@ -17,13 +17,13 @@
   * [Leanne Italie (Associated Press)](../associated-press/leanne-italie/index.md) (3)
   * [Lynne O'Donnell (Associated Press)](../associated-press/lynne-o-donnell/index.md) (1)
   * [Mark Kennedy (Associated Press)](../associated-press/mark-kennedy/index.md) (2)
-  * [Mesfin Fekadu (Associated Press)](../associated-press/mesfin-fekadu/index.md) (7)
+  * [Mesfin Fekadu (Associated Press)](../associated-press/mesfin-fekadu/index.md) (8)
   * [Michael Tarm (Associated Press)](../associated-press/michael-tarm/index.md) (1)
   * [Nekesa Mumbi Moody (Associated Press)](../associated-press/nekesa-mumbi-moody/index.md) (6)
   * [Nicole Evatt (Associated Press)](../associated-press/nicole-evatt/index.md) (1)
   * [Pablo Gorondi (Associated Press)](../associated-press/pablo-gorondi/index.md) (5)
   * [Ryan Nakashima (Associated Press)](../associated-press/ryan-nakashima/index.md) (1)
-  * [Steve Karnowski (Associated Press)](../associated-press/steve-karnowski/index.md) (15)
+  * [Steve Karnowski (Associated Press)](../associated-press/steve-karnowski/index.md) (16)
 
 ----
 

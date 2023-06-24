@@ -4,6 +4,14 @@
 
 ----
 
+ - [**"Katy Perry just wants to have fun in arena spectacle at Xcel Energy Center"**](https://apnews.com/article/entertainment-music-concerts-lady-gaga-katy-perry-74dd6597f0d741e2b8310b3dc29c1518)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 12 December 2021</li><li>about [Janet Jackson](../../topics/janet-jackson/index.md), [Katy Perry](../../topics/katy-perry/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/entertainment-music-concerts-lady-gaga-katy-perry-74dd6597f0d741e2b8310b3dc29c1518))</li><ul>
+
+----
+
+ - [**"Jam & Lewis are back for the first time with ‘Volume One’"**](https://apnews.com/article/entertainment-business-music-arts-and-entertainment-hip-hop-and-rap-2474c3f5a5d3aa311320a74321bb9cde)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 31 August 2021</li><li>about [Chaka Khan](../../topics/chaka-khan/index.md), [Grammys](../../topics/grammys/index.md), [H.E.R.](../../topics/h-e-r/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Time](../../topics/the-time/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/entertainment-business-music-arts-and-entertainment-hip-hop-and-rap-2474c3f5a5d3aa311320a74321bb9cde))</li><ul>
+
+----
+
  - [**"10 Best Super Bowl Halftime Shows"**](https://www.billboard.com/articles/list/513793/super-bowl-halftime-shows-10-best)<ul><li>in [Billboard](https://www.billboard.com/)</li><li>on 31 January 2020</li><li>about [Beck](../../topics/beck/index.md), [Beyoncé](../../topics/beyonc/index.md), [Bruce Springsteen](../../topics/bruce-springsteen/index.md), [CeeLo Green](../../topics/ceelo-green/index.md), [Coldplay](../../topics/coldplay/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [Madonna](../../topics/madonna/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Super Bowl](../../topics/super-bowl/index.md), [We Are the World (song)](../../topics/song/we-are-the-world/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/list/513793/super-bowl-halftime-shows-10-best))</li><ul>
 
 ----
@@ -61,6 +69,10 @@
 ----
 
  - [**""The Pleasure Principle" by Monte Moir / performed by Janet Jackson"**](http://www.oneradsong.com/2012/06/pleasure-principle-by-monte.html)<ul><li>in [One Rad Song](http://www.oneradsong.com/)</li><li>on 6 June 2012</li><li>about [Alexander O’Neal](../../topics/alexander-o-neal/index.md), [Flyte Tyme Productions](../../topics/flyte-tyme-productions/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Monte Moir](../../topics/monte-moir/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Time](../../topics/the-time/index.md)</li><li>([mirror](https://web.archive.org/web/*/http://www.oneradsong.com/2012/06/pleasure-principle-by-monte.html))</li><ul>
+
+----
+
+ - [**"Mineapolis Producers Make String Of Top-Selling Records"**](https://apnews.com/article/672e2df1974cb03ccd2d105f1a736d9e)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 11 February 1987</li><li>about [Atlanta (place)](../../topics/place/atlanta/index.md), [Flyte Tyme Productions](../../topics/flyte-tyme-productions/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Lionel Richie](../../topics/lionel-richie/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Time](../../topics/the-time/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/672e2df1974cb03ccd2d105f1a736d9e))</li><ul>
 
 ----
 

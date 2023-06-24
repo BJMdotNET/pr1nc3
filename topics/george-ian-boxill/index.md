@@ -1,5 +1,9 @@
 # George Ian Boxill
 
+ - [**"Around the state: Prosecution asks appeals court not to move officer’s tria"**](https://apnews.com/article/shootings-minnesota-st-paul-state-courts-philando-castile-c00b71de75e4430680d5bc65937fb380)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 19 December 2021</li><li>about [Deliverance (EP)](../../topics/ep/deliverance/index.md), [Deliverance (song)](../../topics/song/deliverance/index.md), [George Ian Boxill](../../topics/george-ian-boxill/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/shootings-minnesota-st-paul-state-courts-philando-castile-c00b71de75e4430680d5bc65937fb380))</li><ul>
+
+----
+
  - [**"Court Sanctions Defendant for Failure to Preserve Text Messages in Copyright Infringement Suit Brought by Prince’s Estate"**](https://www.lexology.com/library/detail.aspx?g=ff9d02bd-b6be-485d-b249-e3ecc172bb1f)<ul><li>in [www.lexology.com](https://www.lexology.com/)</li><li>on 19 November 2019</li><li>about [David Staley](../../topics/david-staley/index.md), [Deliverance (EP)](../../topics/ep/deliverance/index.md), [Deliverance (song)](../../topics/song/deliverance/index.md), [Gabriel Solomon Wilson](../../topics/gabriel-solomon-wilson/index.md), [George Ian Boxill](../../topics/george-ian-boxill/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.lexology.com/library/detail.aspx?g=ff9d02bd-b6be-485d-b249-e3ecc172bb1f))</li><ul>
 
 ----
@@ -8,7 +12,7 @@
 
 ----
 
- - [**"Judge: Sound engineer can’t publish unreleased Prince tracks"**](https://apnews.com/28f8d4317b3b43219621f58a3252addb)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 23 May 2017</li><li>about [Deliverance (EP)](../../topics/ep/deliverance/index.md), [Deliverance (song)](../../topics/song/deliverance/index.md), [George Ian Boxill](../../topics/george-ian-boxill/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [trademark](../../topics/trademark/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/28f8d4317b3b43219621f58a3252addb))</li><ul>
+ - [**"Judge: Sound engineer can’t publish unreleased Prince tracks"**](https://apnews.com/28f8d4317b3b43219621f58a3252addb)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 23 May 2017</li><li>about [Deliverance (EP)](../../topics/ep/deliverance/index.md), [Deliverance (song)](../../topics/song/deliverance/index.md), [George Ian Boxill](../../topics/george-ian-boxill/index.md), [opioid](../../topics/opioid/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [trademark](../../topics/trademark/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/28f8d4317b3b43219621f58a3252addb))</li><ul>
 
 ----
 

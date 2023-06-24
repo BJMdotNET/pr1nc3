@@ -476,6 +476,10 @@
 
 ----
 
+ - [**"Warner Bros. to release new Prince album in September"**](https://apnews.com/article/98c649c8c304481290ca95e1d64dd837)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 7 June 2018</li><li>about [17 Days (song)](../../topics/song/17-days/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [vault](../../topics/vault/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/98c649c8c304481290ca95e1d64dd837))</li><ul>
+
+----
+
  - [**"AM Prep-Cyber Corner -- ON THE WEB: PRINCE MUSIC ON TIDAL"**](https://apnews.com/1f93d18c9ccd486c9e08f8239d47218a)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 14 May 2018</li><li>about [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Tidal](../../topics/tidal/index.md), [vault](../../topics/vault/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/1f93d18c9ccd486c9e08f8239d47218a))</li><ul>
 
 ----
@@ -485,6 +489,14 @@
 ----
 
  - [**"AM Prep-Segue -- PRINCE HEIRS COMPLAIN ABOUT EXECUTOR"**](https://apnews.com/1a747d45ed414fbe9752c5b2c7e2063f)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 31 October 2017</li><li>about [Comerica](../../topics/comerica/index.md), [Comerica Bank & Trust](../../topics/comerica-bank-trust/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [vault](../../topics/vault/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/1a747d45ed414fbe9752c5b2c7e2063f))</li><ul>
+
+----
+
+ - [**"APNewsBreak: Prince tapes moved to California; 2 heirs angry"**](https://apnews.com/7fc066b10aa546e2977a0a85fc8ecb3b)<ul><li>by Steve Karnowski (Associated Press)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 12 October 2017</li><li>about [Alfred Jackson](../../topics/alfred-jackson/index.md), [California (place)](../../topics/place/california/index.md), [Carver County](../../topics/carver-county/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Comerica](../../topics/comerica/index.md), [Comerica Bank & Trust](../../topics/comerica-bank-trust/index.md), [Iron Mountain](../../topics/iron-mountain/index.md), [Iron Mountain Entertainment Services](../../topics/iron-mountain-entertainment-services/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Los Angeles (place)](../../topics/place/los-angeles/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [vault](../../topics/vault/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/7fc066b10aa546e2977a0a85fc8ecb3b))</li><ul>
+
+----
+
+ - [**"Prince tapes moved to California; 2 heirs angry"**](https://www.startribune.com/apnewsbreak-prince-tapes-moved-to-california-heirs-miffed/450496873/)<ul><li>by Steve Karnowski (Associated Press)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 12 October 2017</li><li>about [Alfred Jackson](../../topics/alfred-jackson/index.md), [California (place)](../../topics/place/california/index.md), [Carver County](../../topics/carver-county/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Comerica](../../topics/comerica/index.md), [Comerica Bank & Trust](../../topics/comerica-bank-trust/index.md), [Iron Mountain](../../topics/iron-mountain/index.md), [Iron Mountain Entertainment Services](../../topics/iron-mountain-entertainment-services/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Los Angeles (place)](../../topics/place/los-angeles/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [vault](../../topics/vault/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/apnewsbreak-prince-tapes-moved-to-california-heirs-miffed/450496873/))</li><ul>
 
 ----
 
@@ -520,7 +532,7 @@
 
 ----
 
- - [**"The Estate Of Prince Rogers Nelson Selects Universal Music Group To Manage Iconic Artist's Recordings -- Deal Encompasses Prince's Grammy-Winning NPG Records, Hits from Earlier Catalogs and Vast Collection of Unreleased Works"**](https://www.prnewswire.com/news-releases/the-estate-of-prince-rogers-nelson-selects-universal-music-group-to-manage-iconic-artists-recordings-300404797.html)<ul><li>in [PR Newswire](https://www.prnewswire.com/)</li><li>on 9 February 2017</li><li>about [3121 (album)](../../topics/album/3121/index.md), [Bravado](../../topics/bravado/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [merchandise](../../topics/merchandise/index.md), [NPG Records](../../topics/npg-records/index.md), [Universal Music Group](../../topics/universal-music-group/index.md), [vault](../../topics/vault/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/the-estate-of-prince-rogers-nelson-selects-universal-music-group-to-manage-iconic-artists-recordings-300404797.html))</li><ul>
+ - [**"The Estate Of Prince Rogers Nelson Selects Universal Music Group To Manage Iconic Artist's Recordings -- Deal Encompasses Prince's Grammy-Winning NPG Records, Hits from Earlier Catalogs and Vast Collection of Unreleased Works"**](https://www.prnewswire.com/news-releases/the-estate-of-prince-rogers-nelson-selects-universal-music-group-to-manage-iconic-artists-recordings-300404797.html)<ul><li>in [PR Newswire](https://www.prnewswire.com/)</li><li>on 9 February 2017</li><li>about [3121 (album)](../../topics/album/3121/index.md), [Bravado](../../topics/bravado/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [L. Londell McMillan](../../topics/l-londell-mcmillan/index.md), [merchandise](../../topics/merchandise/index.md), [NPG Records](../../topics/npg-records/index.md), [Rock & Roll Hall of Fame (place)](../../topics/place/rock-roll-hall-of-fame/index.md), [Universal Music Group](../../topics/universal-music-group/index.md), [vault](../../topics/vault/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/the-estate-of-prince-rogers-nelson-selects-universal-music-group-to-manage-iconic-artists-recordings-300404797.html))</li><ul>
 
 ----
 
@@ -552,7 +564,7 @@
 
 ----
 
- - [**"News Guide: Prince died of overdose, but questions linger"**](https://apnews.com/e31c398f2bc142d2ae9a05023cebbe7d)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 4 June 2016</li><li>about [Amy Conners](../../topics/amy-conners/index.md), [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [probate court](../../topics/probate-court/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [vault](../../topics/vault/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/e31c398f2bc142d2ae9a05023cebbe7d))</li><ul>
+ - [**"News Guide: Prince died of overdose, but questions linger"**](https://apnews.com/e31c398f2bc142d2ae9a05023cebbe7d)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 4 June 2016</li><li>about [Amy Conners](../../topics/amy-conners/index.md), [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [opioid](../../topics/opioid/index.md), [probate court](../../topics/probate-court/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [vault](../../topics/vault/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/e31c398f2bc142d2ae9a05023cebbe7d))</li><ul>
 
 ----
 

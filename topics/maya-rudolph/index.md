@@ -28,6 +28,10 @@
 
 ----
 
+ - [**"‘Saturday Night Live’ airs Prince tribute show"**](https://apnews.com/article/0380c2d217ed4cbfa3a999ad86fdd2c2)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 24 April 2016</li><li>about [Chris Rock](../../topics/chris-rock/index.md), [Fred Armisen](../../topics/fred-armisen/index.md), [Goodnight Sweet Prince (TV show)](../../topics/tv-show/goodnight-sweet-prince/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Maya Rudolph](../../topics/maya-rudolph/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [SNL (TV show)](../../topics/tv-show/snl/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/0380c2d217ed4cbfa3a999ad86fdd2c2))</li><ul>
+
+----
+
  - [**"Costello, D’Angelo, more perform at Prince tribute"**](https://apnews.com/f78be2e8ad1b4b7ebeb0c45b96f32081)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 8 March 2013</li><li>about [D’Angelo](../../topics/d-angelo/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [Eric Leeds](../../topics/eric-leeds/index.md), [Fred Armisen](../../topics/fred-armisen/index.md), [Gretchen Lieberum](../../topics/gretchen-lieberum/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Maya Rudolph](../../topics/maya-rudolph/index.md), [Paul Peterson](../../topics/paul-peterson/index.md), [Pop Life (song)](../../topics/song/pop-life/index.md), [PRINCEss](../../topics/princess/index.md), [Questlove](../../topics/questlove/index.md), [St. Paul Peterson](../../topics/st-paul-peterson/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [The Beautiful Ones (song)](../../topics/song/the-beautiful-ones/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Roots](../../topics/the-roots/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/f78be2e8ad1b4b7ebeb0c45b96f32081))</li><ul>
 
 ----

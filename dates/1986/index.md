@@ -20,7 +20,11 @@
 
 ----
 
-## June 1986 (2)
+## June 1986 (3)
+
+ - [**"The Inventor of the Gaylord Flip Takes to the Screen"**](https://apnews.com/article/0a24253f8ec929fc11fc8cce8c222f13)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 23 June 1986</li><li>about [Albert Magnoli](../../topics/albert-magnoli/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/0a24253f8ec929fc11fc8cce8c222f13))</li><ul>
+
+----
 
  - [**"People In The News"**](https://apnews.com/0ecc3924d3a449d0a5ac81fc40705530)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 5 June 1986</li><li>about [Parade (album)](../../topics/album/parade/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/0ecc3924d3a449d0a5ac81fc40705530))</li><ul>
 

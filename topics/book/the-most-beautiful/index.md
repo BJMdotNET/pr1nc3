@@ -1,6 +1,6 @@
 # The Most Beautiful (book)
 
- - [**"Mayte Garcia on the Prince you didn’t know"**](https://apnews.com/a4115faebefc463a8aad4433e14f5d2b)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 21 April 2017</li><li>about [Mayte](../../../topics/mayte/index.md), [Mayte Garcia](../../../topics/mayte-garcia/index.md), [The Most Beautiful (book)](../../../topics/book/the-most-beautiful/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/a4115faebefc463a8aad4433e14f5d2b))</li><ul>
+ - [**"Mayte Garcia on the Prince you didn’t know"**](https://apnews.com/a4115faebefc463a8aad4433e14f5d2b)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 19 April 2017</li><li>about [Mayte](../../../topics/mayte/index.md), [Mayte Garcia](../../../topics/mayte-garcia/index.md), [The Most Beautiful (book)](../../../topics/book/the-most-beautiful/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/a4115faebefc463a8aad4433e14f5d2b))</li><ul>
 
 ----
 
@@ -8,7 +8,7 @@
 
 ----
 
- - [**"No ‘tell-all,’ but Prince’s ex details their life in memoir"**](https://apnews.com/0c93c63651ef4f15adde78e51b38c197)<ul><li>by Leanne Italie (Associated Press)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 10 April 2017</li><li>about [Manuela Testolini](../../../topics/manuela-testolini/index.md), [Mayte](../../../topics/mayte/index.md), [Mayte Garcia](../../../topics/mayte-garcia/index.md), [memoir](../../../topics/memoir/index.md), [The Most Beautiful (book)](../../../topics/book/the-most-beautiful/index.md), [Vicodin](../../../topics/vicodin/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/0c93c63651ef4f15adde78e51b38c197))</li><ul>
+ - [**"No ‘tell-all,’ but Prince’s ex details their life in memoir"**](https://apnews.com/0c93c63651ef4f15adde78e51b38c197)<ul><li>by Leanne Italie (Associated Press)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 10 April 2017</li><li>about [Manuela Testolini](../../../topics/manuela-testolini/index.md), [Mayte](../../../topics/mayte/index.md), [Mayte Garcia](../../../topics/mayte-garcia/index.md), [memoir](../../../topics/memoir/index.md), [opioid](../../../topics/opioid/index.md), [The Most Beautiful (book)](../../../topics/book/the-most-beautiful/index.md), [Vicodin](../../../topics/vicodin/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/0c93c63651ef4f15adde78e51b38c197))</li><ul>
 
 ----
 
@@ -17,6 +17,10 @@
 ----
 
  - [**"AM Prep-Music -- PRINCE’S EX OPENS UP ABOUT THE DEATH OF THEIR SON"**](https://apnews.com/00a854bad6dc4bea836dcf16182e0978)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 16 March 2017</li><li>about [Mayte](../../../topics/mayte/index.md), [Pfeiffer syndrome type 2](../../../topics/pfeiffer-syndrome-type-2/index.md), [The Most Beautiful (book)](../../../topics/book/the-most-beautiful/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/00a854bad6dc4bea836dcf16182e0978))</li><ul>
+
+----
+
+ - [**"Primera esposa de Prince publicará sus memorias"**](https://apnews.com/article/71820ff37d3a49e09d13503ea83ab59a)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 13 September 2016</li><li>about [Hachette Books](../../../topics/hachette-books/index.md), [Mayte](../../../topics/mayte/index.md), [The Most Beautiful (book)](../../../topics/book/the-most-beautiful/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/71820ff37d3a49e09d13503ea83ab59a))</li><ul>
 
 ----
 

@@ -4,11 +4,23 @@
 
 ----
 
+ - [**"Nuevo álbum de Prince: solo él cantando al piano en su casa"**](https://apnews.com/article/cdd2248d6c1a4c2b829a3235ee7f3fb5)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 18 September 2018</li><li>about [17 Days (song)](../../../topics/song/17-days/index.md), [Aretha Franklin](../../../topics/aretha-franklin/index.md), [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Joni Mitchell](../../../topics/joni-mitchell/index.md), [Miles Davis](../../../topics/miles-davis/index.md), [Spike Lee](../../../topics/spike-lee/index.md), [Troy Carter](../../../topics/troy-carter/index.md), [Warner Bros. Records](../../../topics/warner-bros-records/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md), [Why The Butterflies (song)](../../../topics/song/why-the-butterflies/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/cdd2248d6c1a4c2b829a3235ee7f3fb5))</li><ul>
+
+----
+
  - [**"Prince’s new basement tape: Just him singing, playing piano"**](https://apnews.com/e0a9e78a662c40d3adee133110bc8489)<ul><li>by Jeff Baenen (Associated Press)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 18 September 2018</li><li>about [17 Days (song)](../../../topics/song/17-days/index.md), [Aretha Franklin](../../../topics/aretha-franklin/index.md), [Cold Coffee & Cocaine (song)](../../../topics/song/cold-coffee-cocaine/index.md), [fentanyl](../../../topics/fentanyl/index.md), [fentanyl overdose](../../../topics/fentanyl-overdose/index.md), [Joni Mitchell](../../../topics/joni-mitchell/index.md), [Lisa Coleman](../../../topics/lisa-coleman/index.md), [Michael Howe](../../../topics/michael-howe/index.md), [NPG Records](../../../topics/npg-records/index.md), [Piano and a Microphone 1983 (album)](../../../topics/album/piano-and-a-microphone-1983/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Troy Carter](../../../topics/troy-carter/index.md), [Warner Bros. Records](../../../topics/warner-bros-records/index.md), [Why The Butterflies (song)](../../../topics/song/why-the-butterflies/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/e0a9e78a662c40d3adee133110bc8489))</li><ul>
 
 ----
 
+ - [**"More Prince News"**](https://apnews.com/article/2b8d7c72d37c4572b9713c76aceb04e3)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 8 June 2018</li><li>about [17 Days (song)](../../../topics/song/17-days/index.md), [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Joni Mitchell](../../../topics/joni-mitchell/index.md), [Warner Bros. Records](../../../topics/warner-bros-records/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/2b8d7c72d37c4572b9713c76aceb04e3))</li><ul>
+
+----
+
  - [**"Warner Bros. to release new Prince album in September"**](https://apnews.com/542e9ad6962e46e8882badfd663b1921)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 7 June 2018</li><li>about [17 Days (song)](../../../topics/song/17-days/index.md), [fentanyl overdose](../../../topics/fentanyl-overdose/index.md), [Joni Mitchell](../../../topics/joni-mitchell/index.md), [vault](../../../topics/vault/index.md), [Warner Bros. Records](../../../topics/warner-bros-records/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/542e9ad6962e46e8882badfd663b1921))</li><ul>
+
+----
+
+ - [**"Warner Bros. to release new Prince album in September"**](https://apnews.com/article/98c649c8c304481290ca95e1d64dd837)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 7 June 2018</li><li>about [17 Days (song)](../../../topics/song/17-days/index.md), [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [vault](../../../topics/vault/index.md), [Warner Bros. Records](../../../topics/warner-bros-records/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/98c649c8c304481290ca95e1d64dd837))</li><ul>
 
 ----
 

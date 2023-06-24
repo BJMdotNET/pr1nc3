@@ -8,6 +8,9 @@ items:
 - name: 1987
   href: 1987/index.md
   homepage: 1987/index.md
+- name: 1988
+  href: 1988/index.md
+  homepage: 1988/index.md
 - name: 1989
   href: 1989/index.md
   homepage: 1989/index.md

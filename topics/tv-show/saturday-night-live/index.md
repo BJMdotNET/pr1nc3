@@ -40,6 +40,10 @@
 
 ----
 
+ - [**"‘Saturday Night Live’ airs Prince tribute show"**](https://apnews.com/article/0380c2d217ed4cbfa3a999ad86fdd2c2)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 24 April 2016</li><li>about [Chris Rock](../../../topics/chris-rock/index.md), [Fred Armisen](../../../topics/fred-armisen/index.md), [Goodnight Sweet Prince (TV show)](../../../topics/tv-show/goodnight-sweet-prince/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Maya Rudolph](../../../topics/maya-rudolph/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [SNL (TV show)](../../../topics/tv-show/snl/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/0380c2d217ed4cbfa3a999ad86fdd2c2))</li><ul>
+
+----
+
  - [**"Latest: Publicist: SNL devotes show to Prince tribute"**](https://apnews.com/b57342f2b68447639ef7589c0caa9ee8)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 24 April 2016</li><li>about [3121 (album)](../../../topics/album/3121/index.md), [Carver County](../../../topics/carver-county/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Larry Graham](../../../topics/larry-graham/index.md), [Minnesota Historical Society](../../../topics/minnesota-historical-society/index.md), [Minnesota History Center](../../../topics/minnesota-history-center/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [SNL (TV show)](../../../topics/tv-show/snl/index.md), [Tyka Nelson](../../../topics/tyka-nelson/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/b57342f2b68447639ef7589c0caa9ee8))</li><ul>
 
 ----

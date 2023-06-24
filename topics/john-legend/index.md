@@ -108,4 +108,8 @@
 
 ----
 
+ - [**"AM Prep-Music -- ESSENCE FESTIVAL ANNOUNCES LINEUP"**](https://apnews.com/article/b62a45b382974fa5929d6ff8422b19ff)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 26 February 2019</li><li>about [Essence Fest (event)](../../topics/event/essence-fest/index.md), [Essence Festival (event)](../../topics/event/essence-festival/index.md), [H.E.R.](../../topics/h-e-r/index.md), [John Legend](../../topics/john-legend/index.md), [Morris Day](../../topics/morris-day/index.md), [New Orleans (place)](../../topics/place/new-orleans/index.md), [Sheila E.](../../topics/sheila-e/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/b62a45b382974fa5929d6ff8422b19ff))</li><ul>
+
+----
+
 [Home](../index.md)

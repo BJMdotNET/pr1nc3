@@ -4,4 +4,8 @@
 
 ----
 
+ - [**"Walz win, Omar to Congress, Mauer retires top Minnesota news"**](https://apnews.com/article/-----16a9bac8b1e9475a8d869c3dd5893c4d)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 22 December 2018</li><li>about [Carver County](../../topics/carver-county/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [Mark Metz](../../topics/mark-metz/index.md), [Minnesota Twins](../../topics/minnesota-twins/index.md), [Minnesota Vikings](../../topics/minnesota-vikings/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [St. Paul (place)](../../topics/place/st-paul/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Tim Walz](../../topics/tim-walz/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/-----16a9bac8b1e9475a8d869c3dd5893c4d))</li><ul>
+
+----
+
 [Home](../index.md)

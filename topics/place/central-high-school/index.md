@@ -4,4 +4,8 @@
 
 ----
 
+ - [**"Prince and sports: Music in blood, basketball in his heart"**](https://apnews.com/article/6e2e2f449641404596505f08bf84bb3a)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 22 April 2016</li><li>about [Central High](../../../topics/central-high/index.md), [Central High School (place)](../../../topics/place/central-high-school/index.md), [Duane Nelson](../../../topics/duane-nelson/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Minnesota Twins](../../../topics/minnesota-twins/index.md), [Purple and Gold (song)](../../../topics/song/purple-and-gold/index.md), [St. Paul (place)](../../../topics/place/st-paul/index.md), [Super Bowl](../../../topics/super-bowl/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/6e2e2f449641404596505f08bf84bb3a))</li><ul>
+
+----
+
 [Home](../index.md)
