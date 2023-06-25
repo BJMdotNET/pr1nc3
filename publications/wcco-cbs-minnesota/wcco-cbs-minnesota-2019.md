@@ -14,7 +14,7 @@
 
 ## August 2019 (1)
 
- - [**"‘One Of The Highlights Of My Life’: Paisley Park Estate Challenges Man For ‘Purple Rain’ Guitar Trademark"**](https://minnesota.cbslocal.com/2019/08/28/one-of-the-highlights-of-my-life-paisley-park-estate-challenges-trademark-for-purple-rain-guitar/)<ul><li>in [WCCO - CBS Minnesota](https://minnesota.cbslocal.com/)</li><li>on 28 August 2019</li><li>about [Cloud guitar](../../topics/cloud-guitar/index.md), [Dave Rusan](../../topics/dave-rusan/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [trademark](../../topics/trademark/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://minnesota.cbslocal.com/2019/08/28/one-of-the-highlights-of-my-life-paisley-park-estate-challenges-trademark-for-purple-rain-guitar/))</li><ul>
+ - [**"‘One Of The Highlights Of My Life’: Paisley Park Estate Challenges Man For ‘Purple Rain’ Guitar Trademark"**](https://minnesota.cbslocal.com/2019/08/28/one-of-the-highlights-of-my-life-paisley-park-estate-challenges-trademark-for-purple-rain-guitar/)<ul><li>in [WCCO - CBS Minnesota](https://minnesota.cbslocal.com/)</li><li>on 28 August 2019</li><li>about [Cloud guitar (instrument)](../../topics/instrument/cloud-guitar/index.md), [Dave Rusan](../../topics/dave-rusan/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [trademark](../../topics/trademark/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://minnesota.cbslocal.com/2019/08/28/one-of-the-highlights-of-my-life-paisley-park-estate-challenges-trademark-for-purple-rain-guitar/))</li><ul>
 
 ----
 

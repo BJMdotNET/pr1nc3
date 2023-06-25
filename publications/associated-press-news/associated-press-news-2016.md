@@ -18,7 +18,7 @@
 
 ----
 
- - [**"Documents: Jay Z’s company wanted to manage Prince’s music"**](https://apnews.com/20b81c0084f9422c9022841d87c0c4d8)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 6 December 2016</li><li>about [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [probate court](../../topics/probate-court/index.md), [Tidal](../../topics/tidal/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/20b81c0084f9422c9022841d87c0c4d8))</li><ul>
+ - [**"Documents: Jay Z’s company wanted to manage Prince’s music"**](https://apnews.com/20b81c0084f9422c9022841d87c0c4d8)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 6 December 2016</li><li>about [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [lawsuit](../../topics/lawsuit/index.md), [probate court](../../topics/probate-court/index.md), [Tidal](../../topics/tidal/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/20b81c0084f9422c9022841d87c0c4d8))</li><ul>
 
 ----
 
@@ -58,7 +58,7 @@
 
 ----
 
- - [**"Rezoning decision means Paisley Park can open permanently"**](https://apnews.com/article/3d3261f07e9b4edb879832ea78bf1280)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 25 October 2016</li><li>about [ashes](../../topics/ashes/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Denny Laufenburger](../../topics/denny-laufenburger/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [Joel Weinshanker](../../topics/joel-weinshanker/index.md), [motorcycle](../../topics/motorcycle/index.md), [museum](../../topics/museum/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [St. Paul (place)](../../topics/place/st-paul/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md), [urn](../../topics/urn/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/3d3261f07e9b4edb879832ea78bf1280))</li><ul>
+ - [**"Rezoning decision means Paisley Park can open permanently"**](https://apnews.com/article/3d3261f07e9b4edb879832ea78bf1280)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 25 October 2016</li><li>about [ashes](../../topics/ashes/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Denny Laufenburger](../../topics/denny-laufenburger/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [Joel Weinshanker](../../topics/joel-weinshanker/index.md), [motorcycle](../../topics/motorcycle/index.md), [museum](../../topics/museum/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [St. Paul (place)](../../topics/place/st-paul/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/3d3261f07e9b4edb879832ea78bf1280))</li><ul>
 
 ----
 
@@ -106,7 +106,7 @@
 
 ----
 
- - [**"Correction: Prince-Estate story"**](https://apnews.com/1ec7cdd50cfb4cfe849755ee17f32aba)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 3 October 2016</li><li>about [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [John Nelson](../../topics/john-nelson/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Robert Strauss](../../topics/robert-strauss/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/1ec7cdd50cfb4cfe849755ee17f32aba))</li><ul>
+ - [**"Correction: Prince-Estate story"**](https://apnews.com/1ec7cdd50cfb4cfe849755ee17f32aba)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 3 October 2016</li><li>about [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [John Nelson](../../topics/john-nelson/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Robert Strauss](../../topics/robert-strauss/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Victoria Nelson](../../topics/victoria-nelson/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/1ec7cdd50cfb4cfe849755ee17f32aba))</li><ul>
 
 ----
 
@@ -150,7 +150,7 @@
 
 ----
 
- - [**"Paisley Park, home of Prince, opens for public tours Oct. 6"**](https://apnews.com/0d8c41adcd8946dfb5182d55d077cc09)<ul><li>by Steve Karnowski (Associated Press)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 25 August 2016</li><li>about [Bremer Trust](../../topics/bremer-trust/index.md), [fentanyl](../../topics/fentanyl/index.md), [Graceland](../../topics/graceland/index.md), [museum](../../topics/museum/index.md), [opioid](../../topics/opioid/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/0d8c41adcd8946dfb5182d55d077cc09))</li><ul>
+ - [**"Paisley Park, home of Prince, opens for public tours Oct. 6"**](https://apnews.com/0d8c41adcd8946dfb5182d55d077cc09)<ul><li>by [Steve Karnowski (Associated Press)](../../authors/associated-press/steve-karnowski/index.md)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 25 August 2016</li><li>about [Bremer Trust](../../topics/bremer-trust/index.md), [fentanyl](../../topics/fentanyl/index.md), [Graceland](../../topics/graceland/index.md), [museum](../../topics/museum/index.md), [opioid](../../topics/opioid/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/0d8c41adcd8946dfb5182d55d077cc09))</li><ul>
 
 ----
 
@@ -200,7 +200,7 @@
 
 ----
 
- - [**"APNewsBreak: Official Prince tribute concert set for October"**](https://apnews.com/08568057d51c46f8a3daf99e36db5e38)<ul><li>by Mesfin Fekadu (Associated Press)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 28 July 2016</li><li>about [Janelle Monae](../../topics/janelle-monae/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [The Roots](../../topics/the-roots/index.md), [Tori Kelly](../../topics/tori-kelly/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/08568057d51c46f8a3daf99e36db5e38))</li><ul>
+ - [**"APNewsBreak: Official Prince tribute concert set for October"**](https://apnews.com/08568057d51c46f8a3daf99e36db5e38)<ul><li>by [Mesfin Fekadu (Associated Press)](../../authors/associated-press/mesfin-fekadu/index.md)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 28 July 2016</li><li>about [Janelle Monae](../../topics/janelle-monae/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [The Roots](../../topics/the-roots/index.md), [Tori Kelly](../../topics/tori-kelly/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/08568057d51c46f8a3daf99e36db5e38))</li><ul>
 
 ----
 
@@ -238,7 +238,7 @@
 
 ----
 
- - [**"Indianapolis Colts owner buys Prince’s Yellow Cloud guitar"**](https://apnews.com/c4ba9354d4934e29a41a0a0777210daa)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 26 June 2016</li><li>about [auction](../../topics/auction/index.md), [Cloud guitar](../../topics/cloud-guitar/index.md), [Heritage Auctions](../../topics/heritage-auctions/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/c4ba9354d4934e29a41a0a0777210daa))</li><ul>
+ - [**"Indianapolis Colts owner buys Prince’s Yellow Cloud guitar"**](https://apnews.com/c4ba9354d4934e29a41a0a0777210daa)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 26 June 2016</li><li>about [auction](../../topics/auction/index.md), [Cloud guitar (instrument)](../../topics/instrument/cloud-guitar/index.md), [Heritage Auctions](../../topics/heritage-auctions/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/c4ba9354d4934e29a41a0a0777210daa))</li><ul>
 
 ----
 
@@ -246,7 +246,7 @@
 
 ----
 
- - [**"Minnesota judge to hold 2nd hearing in Prince estate case"**](https://apnews.com/a82cb099c3514ab59577e03533ea5898)<ul><li>by Steve Karnowski (Associated Press)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 26 June 2016</li><li>about [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [museum](../../topics/museum/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/a82cb099c3514ab59577e03533ea5898))</li><ul>
+ - [**"Minnesota judge to hold 2nd hearing in Prince estate case"**](https://apnews.com/a82cb099c3514ab59577e03533ea5898)<ul><li>by [Steve Karnowski (Associated Press)](../../authors/associated-press/steve-karnowski/index.md)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 26 June 2016</li><li>about [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [museum](../../topics/museum/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/a82cb099c3514ab59577e03533ea5898))</li><ul>
 
 ----
 
@@ -286,9 +286,13 @@
 
 ----
 
-## May 2016 (21)
+## May 2016 (22)
 
  - [**"Dan Rather to host program on fallen musicians"**](https://apnews.com/b8b0092e3f024fa5ae25a2c97bd1b6ff)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 23 May 2016</li><li>about [AXS-TV](../../topics/axs-tv/index.md), [Dan Rather](../../topics/dan-rather/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/b8b0092e3f024fa5ae25a2c97bd1b6ff))</li><ul>
+
+----
+
+ - [**"Claim Prince as father? Be ready to give some blood"**](https://apnews.com/article/e3f131b92de54d0293aadbe5d4192917)<ul><li>by [Kevin Burbach (Associated Press)](../../authors/associated-press/kevin-burbach/index.md)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 19 May 2016</li><li>about [Bremer Trust](../../topics/bremer-trust/index.md), [Carlin Q. Williams](../../topics/carlin-q-williams/index.md), [Carver County](../../topics/carver-county/index.md), [Duane Nelson](../../topics/duane-nelson/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Marsha Henson](../../topics/marsha-henson/index.md), [probate court](../../topics/probate-court/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/e3f131b92de54d0293aadbe5d4192917))</li><ul>
 
 ----
 
@@ -300,7 +304,7 @@
 
 ----
 
- - [**"Prince guitar to be auctioned in Beverly Hills"**](https://apnews.com/fefc1b6dc9cd4e1fa08dffe5e3834299)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 15 May 2016</li><li>about [auction](../../topics/auction/index.md), [Heritage Auctions](../../topics/heritage-auctions/index.md), [museum](../../topics/museum/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/fefc1b6dc9cd4e1fa08dffe5e3834299))</li><ul>
+ - [**"Prince guitar to be auctioned in Beverly Hills"**](https://apnews.com/fefc1b6dc9cd4e1fa08dffe5e3834299)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 15 May 2016</li><li>about [auction](../../topics/auction/index.md), [demo tape](../../topics/demo-tape/index.md), [Heritage Auctions](../../topics/heritage-auctions/index.md), [museum](../../topics/museum/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/fefc1b6dc9cd4e1fa08dffe5e3834299))</li><ul>
 
 ----
 
@@ -328,7 +332,7 @@
 
 ----
 
- - [**"Colorado inmate claims Prince is his father, seeks DNA test"**](https://apnews.com/13fdcc29391d427bab6b4b5584316da8)<ul><li>by Steve Karnowski (Associated Press)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 10 May 2016</li><li>about [Carlin Q. Williams](../../topics/carlin-q-williams/index.md), [Carver County](../../topics/carver-county/index.md), [Carver County District Court](../../topics/carver-county-district-court/index.md), [Marsha Henson](../../topics/marsha-henson/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Patrick Cousins](../../topics/patrick-cousins/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/13fdcc29391d427bab6b4b5584316da8))</li><ul>
+ - [**"Colorado inmate claims Prince is his father, seeks DNA test"**](https://apnews.com/13fdcc29391d427bab6b4b5584316da8)<ul><li>by [Steve Karnowski (Associated Press)](../../authors/associated-press/steve-karnowski/index.md)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 10 May 2016</li><li>about [Carlin Q. Williams](../../topics/carlin-q-williams/index.md), [Carver County](../../topics/carver-county/index.md), [Carver County District Court](../../topics/carver-county-district-court/index.md), [Marsha Henson](../../topics/marsha-henson/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Patrick Cousins](../../topics/patrick-cousins/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/13fdcc29391d427bab6b4b5584316da8))</li><ul>
 
 ----
 
@@ -406,7 +410,7 @@
 
 ----
 
- - [**"Prince’s sister says musician had no known will"**](https://apnews.com/b7bcc90e42904f679c07158bf5e851a3)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 27 April 2016</li><li>about [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [perfume](../../topics/perfume/index.md), [probate court](../../topics/probate-court/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/b7bcc90e42904f679c07158bf5e851a3))</li><ul>
+ - [**"Prince’s sister says musician had no known will"**](https://apnews.com/b7bcc90e42904f679c07158bf5e851a3)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 27 April 2016</li><li>about [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [lawsuit](../../topics/lawsuit/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [perfume](../../topics/perfume/index.md), [probate court](../../topics/probate-court/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/b7bcc90e42904f679c07158bf5e851a3))</li><ul>
 
 ----
 
@@ -414,7 +418,7 @@
 
 ----
 
- - [**"Prince’s lawyer: Death a shock; singer led clean lifestyle"**](https://apnews.com/18fe9c0f0a124d55a91156e8c1865ab6)<ul><li>by Nekesa Mumbi Moody (Associated Press)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 26 April 2016</li><li>about [Illinois (place)](../../topics/place/illinois/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/18fe9c0f0a124d55a91156e8c1865ab6))</li><ul>
+ - [**"Prince’s lawyer: Death a shock; singer led clean lifestyle"**](https://apnews.com/18fe9c0f0a124d55a91156e8c1865ab6)<ul><li>by [Nekesa Mumbi Moody (Associated Press)](../../authors/associated-press/nekesa-mumbi-moody/index.md)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 26 April 2016</li><li>about [Illinois (place)](../../topics/place/illinois/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/18fe9c0f0a124d55a91156e8c1865ab6))</li><ul>
 
 ----
 
@@ -422,11 +426,11 @@
 
 ----
 
- - [**"Prince was a one-man band and a friend to many others"**](https://apnews.com/508256962cd942f3bc61e1cc034900ad)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 25 April 2016</li><li>about [Bangles](../../topics/bangles/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Esperanza Spalding](../../topics/esperanza-spalding/index.md), [Grammy Award](../../topics/grammy-award/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Kandace Springs](../../topics/kandace-springs/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Rita Ora](../../topics/rita-ora/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stand Back (song)](../../topics/song/stand-back/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [YouTube](../../topics/youtube/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/508256962cd942f3bc61e1cc034900ad))</li><ul>
+ - [**"Prince was a one-man band and a friend to many others"**](https://apnews.com/508256962cd942f3bc61e1cc034900ad)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 25 April 2016</li><li>about [Bangles](../../topics/bangles/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Cyndi Lauper](../../topics/cyndi-lauper/index.md), [Esperanza Spalding](../../topics/esperanza-spalding/index.md), [Grammy Award](../../topics/grammy-award/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Kandace Springs](../../topics/kandace-springs/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Rita Ora](../../topics/rita-ora/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stand Back (song)](../../topics/song/stand-back/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [YouTube](../../topics/youtube/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/508256962cd942f3bc61e1cc034900ad))</li><ul>
 
 ----
 
- - [**"Prince, un hombre orquesta y un amigo para muchos"**](https://apnews.com/article/archive-0cd78570b8f24969999622976c4cf547)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 25 April 2016</li><li>about [Bangles](../../topics/bangles/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Esperanza Spalding](../../topics/esperanza-spalding/index.md), [Fleetwood Mac](../../topics/fleetwood-mac/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Kandace Springs](../../topics/kandace-springs/index.md), [Ken Ehrlich](../../topics/ken-ehrlich/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Rita Ora](../../topics/rita-ora/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stand Back (song)](../../topics/song/stand-back/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/archive-0cd78570b8f24969999622976c4cf547))</li><ul>
+ - [**"Prince, un hombre orquesta y un amigo para muchos"**](https://apnews.com/article/archive-0cd78570b8f24969999622976c4cf547)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 25 April 2016</li><li>about [Bangles](../../topics/bangles/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Cyndi Lauper](../../topics/cyndi-lauper/index.md), [Esperanza Spalding](../../topics/esperanza-spalding/index.md), [Fleetwood Mac](../../topics/fleetwood-mac/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Kandace Springs](../../topics/kandace-springs/index.md), [Ken Ehrlich](../../topics/ken-ehrlich/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Rita Ora](../../topics/rita-ora/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stand Back (song)](../../topics/song/stand-back/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/archive-0cd78570b8f24969999622976c4cf547))</li><ul>
 
 ----
 
@@ -482,7 +486,7 @@
 
 ----
 
- - [**"Prince’s former wives issue messages of grief"**](https://apnews.com/e1248c7300a445e0a07e438cf492a4c4)<ul><li>by The Associated Press</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 23 April 2016</li><li>about [In a Perfect World](../../topics/in-a-perfect-world/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/e1248c7300a445e0a07e438cf492a4c4))</li><ul>
+ - [**"Prince’s former wives issue messages of grief"**](https://apnews.com/e1248c7300a445e0a07e438cf492a4c4)<ul><li>by [The Associated Press](../../authors/the-associated-press/index.md)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 23 April 2016</li><li>about [In a Perfect World](../../topics/in-a-perfect-world/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/e1248c7300a445e0a07e438cf492a4c4))</li><ul>
 
 ----
 
@@ -494,7 +498,7 @@
 
 ----
 
- - [**"A day with Prince at Paisley Park"**](https://apnews.com/948911d73f9941fd938df975a3dc5f6f)<ul><li>by Nekesa Mumbi Moody (Associated Press)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 22 April 2016</li><li>about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [contract](../../topics/contract/index.md), [Donna Grantis](../../topics/donna-grantis/index.md), [FKA twigs](../../topics/fka-twigs/index.md), [James Brown](../../topics/james-brown/index.md), [Joshua Welton](../../topics/joshua-welton/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Rita Ora](../../topics/rita-ora/index.md), [Spotify](../../topics/spotify/index.md), [YouTube](../../topics/youtube/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/948911d73f9941fd938df975a3dc5f6f))</li><ul>
+ - [**"A day with Prince at Paisley Park"**](https://apnews.com/948911d73f9941fd938df975a3dc5f6f)<ul><li>by [Nekesa Mumbi Moody (Associated Press)](../../authors/associated-press/nekesa-mumbi-moody/index.md)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 22 April 2016</li><li>about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [contract](../../topics/contract/index.md), [Donna Grantis](../../topics/donna-grantis/index.md), [FKA twigs](../../topics/fka-twigs/index.md), [James Brown](../../topics/james-brown/index.md), [Joshua Welton](../../topics/joshua-welton/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Rita Ora](../../topics/rita-ora/index.md), [Spotify](../../topics/spotify/index.md), [YouTube](../../topics/youtube/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/948911d73f9941fd938df975a3dc5f6f))</li><ul>
 
 ----
 
@@ -502,7 +506,7 @@
 
 ----
 
- - [**"A synthesizer of sounds, Prince ‘rewrote the rulebook’"**](https://apnews.com/c07d6a9a2752405fa8ed91e8d949806a)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 22 April 2016</li><li>about [Bangles](../../topics/bangles/index.md), [contract](../../topics/contract/index.md), [Frank Zappa](../../topics/frank-zappa/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Obama](../../topics/obama/index.md), [Parents Music Resource Center](../../topics/parents-music-resource-center/index.md), [Roger Ebert](../../topics/roger-ebert/index.md), [The Time](../../topics/the-time/index.md), [White House (place)](../../topics/place/white-house/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/c07d6a9a2752405fa8ed91e8d949806a))</li><ul>
+ - [**"A synthesizer of sounds, Prince ‘rewrote the rulebook’"**](https://apnews.com/c07d6a9a2752405fa8ed91e8d949806a)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 22 April 2016</li><li>about [Bangles](../../topics/bangles/index.md), [contract](../../topics/contract/index.md), [Cyndi Lauper](../../topics/cyndi-lauper/index.md), [Frank Zappa](../../topics/frank-zappa/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Obama](../../topics/obama/index.md), [Parents Music Resource Center](../../topics/parents-music-resource-center/index.md), [Roger Ebert](../../topics/roger-ebert/index.md), [The Time](../../topics/the-time/index.md), [White House (place)](../../topics/place/white-house/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/c07d6a9a2752405fa8ed91e8d949806a))</li><ul>
 
 ----
 
@@ -518,11 +522,11 @@
 
 ----
 
- - [**"Pop superstar Prince dies at his Minnesota home at age 57"**](https://apnews.com/b9e3df0421a04344835cd4fac7680c24)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 22 April 2016</li><li>about [Bangles](../../topics/bangles/index.md), [contract](../../topics/contract/index.md), [Frank Zappa](../../topics/frank-zappa/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Obama](../../topics/obama/index.md), [Parents Music Resource Center](../../topics/parents-music-resource-center/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md), [White House (place)](../../topics/place/white-house/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/b9e3df0421a04344835cd4fac7680c24))</li><ul>
+ - [**"Pop superstar Prince dies at his Minnesota home at age 57"**](https://apnews.com/b9e3df0421a04344835cd4fac7680c24)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 22 April 2016</li><li>about [Bangles](../../topics/bangles/index.md), [contract](../../topics/contract/index.md), [Cyndi Lauper](../../topics/cyndi-lauper/index.md), [Frank Zappa](../../topics/frank-zappa/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Obama](../../topics/obama/index.md), [Parents Music Resource Center](../../topics/parents-music-resource-center/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md), [White House (place)](../../topics/place/white-house/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/b9e3df0421a04344835cd4fac7680c24))</li><ul>
 
 ----
 
- - [**"Prince “reescribió las reglas” de la música"**](https://apnews.com/article/dbe5c9245d024a89bca2376ee8b631c0)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 22 April 2016</li><li>about [Bangles](../../topics/bangles/index.md), [Black Album (album)](../../topics/album/black-album/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [Eden Prairie (place)](../../topics/place/eden-prairie/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Frank Zappa](../../topics/frank-zappa/index.md), [James Brown](../../topics/james-brown/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Morris Day](../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Parents Music Resource Center](../../topics/parents-music-resource-center/index.md), [Roger Ebert](../../topics/roger-ebert/index.md), [The Black Album (album)](../../topics/album/the-black-album/index.md), [Tidal](../../topics/tidal/index.md), [Tipper Gore](../../topics/tipper-gore/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md), [Yvette Noel-Schure](../../topics/yvette-noel-schure/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/dbe5c9245d024a89bca2376ee8b631c0))</li><ul>
+ - [**"Prince “reescribió las reglas” de la música"**](https://apnews.com/article/dbe5c9245d024a89bca2376ee8b631c0)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 22 April 2016</li><li>about [Bangles](../../topics/bangles/index.md), [Black Album (album)](../../topics/album/black-album/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Cyndi Lauper](../../topics/cyndi-lauper/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [Eden Prairie (place)](../../topics/place/eden-prairie/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Frank Zappa](../../topics/frank-zappa/index.md), [James Brown](../../topics/james-brown/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Morris Day](../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Parents Music Resource Center](../../topics/parents-music-resource-center/index.md), [Roger Ebert](../../topics/roger-ebert/index.md), [The Black Album (album)](../../topics/album/the-black-album/index.md), [Tidal](../../topics/tidal/index.md), [Tipper Gore](../../topics/tipper-gore/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md), [Yvette Noel-Schure](../../topics/yvette-noel-schure/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/dbe5c9245d024a89bca2376ee8b631c0))</li><ul>
 
 ----
 
@@ -534,7 +538,7 @@
 
 ----
 
- - [**"Prince, hugely inventive, influential musician, dead at 57"**](https://apnews.com/988e107cf6964494b58ad2ca9bcd0985)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 22 April 2016</li><li>about [Academy Award](../../topics/academy-award/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Bangles](../../topics/bangles/index.md), [contract](../../topics/contract/index.md), [Frank Zappa](../../topics/frank-zappa/index.md), [I Wanna Be Your Lover (song)](../../topics/song/i-wanna-be-your-lover/index.md), [James Brown](../../topics/james-brown/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Obama](../../topics/obama/index.md), [Parents Music Resource Center](../../topics/parents-music-resource-center/index.md), [Roger Ebert](../../topics/roger-ebert/index.md), [Tidal](../../topics/tidal/index.md), [Vanity](../../topics/vanity/index.md), [White House (place)](../../topics/place/white-house/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/988e107cf6964494b58ad2ca9bcd0985))</li><ul>
+ - [**"Prince, hugely inventive, influential musician, dead at 57"**](https://apnews.com/988e107cf6964494b58ad2ca9bcd0985)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 22 April 2016</li><li>about [Academy Award](../../topics/academy-award/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Bangles](../../topics/bangles/index.md), [contract](../../topics/contract/index.md), [Cyndi Lauper](../../topics/cyndi-lauper/index.md), [Frank Zappa](../../topics/frank-zappa/index.md), [I Wanna Be Your Lover (song)](../../topics/song/i-wanna-be-your-lover/index.md), [James Brown](../../topics/james-brown/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Obama](../../topics/obama/index.md), [Parents Music Resource Center](../../topics/parents-music-resource-center/index.md), [Roger Ebert](../../topics/roger-ebert/index.md), [Tidal](../../topics/tidal/index.md), [Vanity](../../topics/vanity/index.md), [White House (place)](../../topics/place/white-house/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/988e107cf6964494b58ad2ca9bcd0985))</li><ul>
 
 ----
 
@@ -542,7 +546,7 @@
 
 ----
 
- - [**"Transcript of 911 call to Prince’s compound"**](https://apnews.com/2d6f0997c28e41d1902762d889e8bf19)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 22 April 2016</li><li>about [Audubon Road](../../topics/audubon-road/index.md), [Carver County](../../topics/carver-county/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/2d6f0997c28e41d1902762d889e8bf19))</li><ul>
+ - [**"Transcript of 911 call to Prince’s compound"**](https://apnews.com/2d6f0997c28e41d1902762d889e8bf19)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 22 April 2016</li><li>about [Audubon Road (place)](../../topics/place/audubon-road/index.md), [Carver County](../../topics/carver-county/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/2d6f0997c28e41d1902762d889e8bf19))</li><ul>
 
 ----
 
@@ -554,7 +558,7 @@
 
 ## February 2016 (1)
 
- - [**"Apollonia: Vanity was and ‘inspiration’"**](https://apnews.com/849a2025be574b07b857e30d16295024)<ul><li>by Jesse J. Holland (Associated Press)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 18 February 2016</li><li>about [Apollonia 6](../../topics/apollonia-6/index.md), [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Denise Matthews](../../topics/denise-matthews/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Sex Shooter (song)](../../topics/song/sex-shooter/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/849a2025be574b07b857e30d16295024))</li><ul>
+ - [**"Apollonia: Vanity was and ‘inspiration’"**](https://apnews.com/849a2025be574b07b857e30d16295024)<ul><li>by [Jesse J. Holland (Associated Press)](../../authors/associated-press/jesse-j-holland/index.md)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 18 February 2016</li><li>about [Apollonia 6](../../topics/apollonia-6/index.md), [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Denise Matthews](../../topics/denise-matthews/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Sex Shooter (song)](../../topics/song/sex-shooter/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/849a2025be574b07b857e30d16295024))</li><ul>
 
 ----
 

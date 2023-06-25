@@ -2,13 +2,13 @@
 
 ## October 2015 (1)
 
- - [**"Prince invites fans to party with him at Paisley Park"**](https://apnews.com/93c56737c5344b9597794d00449d08e3)<ul><li>by Jeff Baenen (Associated Press)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 27 October 2015</li><li>about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Donna Grantis](../../topics/donna-grantis/index.md), [James Brown](../../topics/james-brown/index.md), [Judith Hill](../../topics/judith-hill/index.md), [merchandise](../../topics/merchandise/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/93c56737c5344b9597794d00449d08e3))</li><ul>
+ - [**"Prince invites fans to party with him at Paisley Park"**](https://apnews.com/93c56737c5344b9597794d00449d08e3)<ul><li>by [Jeff Baenen (Associated Press)](../../authors/associated-press/jeff-baenen/index.md)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 27 October 2015</li><li>about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Donna Grantis](../../topics/donna-grantis/index.md), [James Brown](../../topics/james-brown/index.md), [Judith Hill](../../topics/judith-hill/index.md), [merchandise](../../topics/merchandise/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/93c56737c5344b9597794d00449d08e3))</li><ul>
 
 ----
 
 ## April 2015 (1)
 
- - [**"A new album -- and lawsuit -- puts Prince protege in spotlight"**](https://apnews.com/491d81d7a2324c25b8b874ac6da01062)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 7 April 2015</li><li>about [contract](../../topics/contract/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Michael Jackson](../../topics/michael-jackson/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/491d81d7a2324c25b8b874ac6da01062))</li><ul>
+ - [**"A new album -- and lawsuit -- puts Prince protege in spotlight"**](https://apnews.com/491d81d7a2324c25b8b874ac6da01062)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 7 April 2015</li><li>about [As Trains Go By (song)](../../topics/song/as-trains-go-by/index.md), [Back in Time (album)](../../topics/album/back-in-time/index.md), [contract](../../topics/contract/index.md), [Jolene Cherry](../../topics/jolene-cherry/index.md), [Judith Hill](../../topics/judith-hill/index.md), [lawsuit](../../topics/lawsuit/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Paisley Park Studios (place)](../../topics/place/paisley-park-studios/index.md), [Peter Haviland](../../topics/peter-haviland/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/491d81d7a2324c25b8b874ac6da01062))</li><ul>
 
 ----
 

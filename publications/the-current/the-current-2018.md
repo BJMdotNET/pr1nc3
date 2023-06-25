@@ -14,7 +14,7 @@
 
 ## February 2018 (1)
 
- - [**"Meet Dave Rusan, builder of Prince's iconic Cloud Guitar"**](https://www.thecurrent.org/feature/2018/02/15/meet-dave-rusan-builder-of-princes-iconic-cloud-guitar)<ul><li>in [The Current](https://www.thecurrent.org/)</li><li>on 15 February 2018</li><li>about [Cloud guitar](../../topics/cloud-guitar/index.md), [Dave Rusan](../../topics/dave-rusan/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2018/02/15/meet-dave-rusan-builder-of-princes-iconic-cloud-guitar))</li><ul>
+ - [**"Meet Dave Rusan, builder of Prince's iconic Cloud Guitar"**](https://www.thecurrent.org/feature/2018/02/15/meet-dave-rusan-builder-of-princes-iconic-cloud-guitar)<ul><li>in [The Current](https://www.thecurrent.org/)</li><li>on 15 February 2018</li><li>about [Cloud guitar (instrument)](../../topics/instrument/cloud-guitar/index.md), [Dave Rusan](../../topics/dave-rusan/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2018/02/15/meet-dave-rusan-builder-of-princes-iconic-cloud-guitar))</li><ul>
 
 ----
 

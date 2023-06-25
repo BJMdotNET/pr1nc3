@@ -2,7 +2,7 @@
 
 ## December 2019 (2)
 
- - [**"Lifetime returns to R. Kelly with a new powerful series"**](https://apnews.com/76d4ff162e58196357641dbdbb5cbf07)<ul><li>by Mark Kennedy (Associated Press)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 30 December 2019</li><li>about [Beyoncé](../../topics/beyonc/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Michael Jackson](../../topics/michael-jackson/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/76d4ff162e58196357641dbdbb5cbf07))</li><ul>
+ - [**"Lifetime returns to R. Kelly with a new powerful series"**](https://apnews.com/76d4ff162e58196357641dbdbb5cbf07)<ul><li>by [Mark Kennedy (Associated Press)](../../authors/associated-press/mark-kennedy/index.md)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 30 December 2019</li><li>about [Beyoncé](../../topics/beyonc/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Michael Jackson](../../topics/michael-jackson/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/76d4ff162e58196357641dbdbb5cbf07))</li><ul>
 
 ----
 
@@ -68,7 +68,7 @@
 
 ## July 2019 (1)
 
- - [**"Judge: Andy Warhol didn’t violate Prince picture copyright"**](https://apnews.com/d14de100e0454e658238546e0e036fc2)<ul><li>by Larry Neumeister (Associated Press)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 2 July 2019</li><li>about [Andy Warhol](../../topics/andy-warhol/index.md), [Andy Warhol Foundation](../../topics/andy-warhol-foundation/index.md), [fair use](../../topics/fair-use/index.md), [Lynn Goldsmith](../../topics/lynn-goldsmith/index.md), [Prince Series](../../topics/prince-series/index.md), [Purple Fame](../../topics/purple-fame/index.md), [Vanity Fair (magazine)](../../topics/magazine/vanity-fair/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/d14de100e0454e658238546e0e036fc2))</li><ul>
+ - [**"Judge: Andy Warhol didn’t violate Prince picture copyright"**](https://apnews.com/d14de100e0454e658238546e0e036fc2)<ul><li>by [Larry Neumeister (Associated Press)](../../authors/associated-press/larry-neumeister/index.md)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 2 July 2019</li><li>about [Andy Warhol](../../topics/andy-warhol/index.md), [Andy Warhol Foundation](../../topics/andy-warhol-foundation/index.md), [fair use](../../topics/fair-use/index.md), [Lynn Goldsmith](../../topics/lynn-goldsmith/index.md), [Prince Series](../../topics/prince-series/index.md), [Purple Fame](../../topics/purple-fame/index.md), [Vanity Fair (magazine)](../../topics/magazine/vanity-fair/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/d14de100e0454e658238546e0e036fc2))</li><ul>
 
 ----
 
@@ -78,13 +78,13 @@
 
 ----
 
- - [**"Remembering when Prince wrote that song for you"**](https://apnews.com/9946e6f68e354265a15047187b217b56)<ul><li>by Mesfin Fekadu (Associated Press)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 4 June 2019</li><li>about [Apollonia 6](../../topics/apollonia-6/index.md), [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Bangles](../../topics/bangles/index.md), [Denise Matthews](../../topics/denise-matthews/index.md), [Joey Coco](../../topics/joey-coco/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Nile Rodgers](../../topics/nile-rodgers/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../topics/album/originals/index.md), [Paisley Park Records](../../topics/paisley-park-records/index.md), [Sex Shooter (song)](../../topics/song/sex-shooter/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [The Family](../../topics/the-family/index.md), [The Glamorous Life (song)](../../topics/song/the-glamorous-life/index.md), [The Time](../../topics/the-time/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/9946e6f68e354265a15047187b217b56))</li><ul>
+ - [**"Remembering when Prince wrote that song for you"**](https://apnews.com/9946e6f68e354265a15047187b217b56)<ul><li>by [Mesfin Fekadu (Associated Press)](../../authors/associated-press/mesfin-fekadu/index.md)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 4 June 2019</li><li>about [Apollonia 6](../../topics/apollonia-6/index.md), [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Bangles](../../topics/bangles/index.md), [Denise Matthews](../../topics/denise-matthews/index.md), [Joey Coco](../../topics/joey-coco/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Nile Rodgers](../../topics/nile-rodgers/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../topics/album/originals/index.md), [Paisley Park Records](../../topics/paisley-park-records/index.md), [Sex Shooter (song)](../../topics/song/sex-shooter/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [The Family](../../topics/the-family/index.md), [The Glamorous Life (song)](../../topics/song/the-glamorous-life/index.md), [The Time](../../topics/the-time/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/9946e6f68e354265a15047187b217b56))</li><ul>
 
 ----
 
 ## May 2019 (2)
 
- - [**"Prince’s bodyguard deposed in wrongful death lawsuit"**](https://apnews.com/8e68cf25ceb245319425b5952c5d1be8)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 30 May 2019</li><li>about [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Clayton Tyler](../../topics/clayton-tyler/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Michael Schulenberg](../../topics/michael-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [North Memorial Health Care](../../topics/north-memorial-health-care/index.md), [opioid](../../topics/opioid/index.md), [oxycodone](../../topics/oxycodone/index.md), [Walgreens](../../topics/walgreens/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/8e68cf25ceb245319425b5952c5d1be8))</li><ul>
+ - [**"Prince’s bodyguard deposed in wrongful death lawsuit"**](https://apnews.com/8e68cf25ceb245319425b5952c5d1be8)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 30 May 2019</li><li>about [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Clayton Tyler](../../topics/clayton-tyler/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [lawsuit](../../topics/lawsuit/index.md), [Michael Schulenberg](../../topics/michael-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [North Memorial Health Care](../../topics/north-memorial-health-care/index.md), [opioid](../../topics/opioid/index.md), [oxycodone](../../topics/oxycodone/index.md), [Walgreens](../../topics/walgreens/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/8e68cf25ceb245319425b5952c5d1be8))</li><ul>
 
 ----
 
@@ -94,7 +94,7 @@
 
 ## April 2019 (4)
 
- - [**"New Prince album featuring unreleased demos out in June"**](https://apnews.com/f60b62d07cd74a92aec4ceb6d9c338f1)<ul><li>by The Associated Press</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 25 April 2019</li><li>about [Apple Music](../../topics/apple-music/index.md), [Bangles](../../topics/bangles/index.md), [Joey Coco](../../topics/joey-coco/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../topics/album/originals/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Spotify](../../topics/spotify/index.md), [The Time](../../topics/the-time/index.md), [Tidal](../../topics/tidal/index.md), [Troy Carter](../../topics/troy-carter/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/f60b62d07cd74a92aec4ceb6d9c338f1))</li><ul>
+ - [**"New Prince album featuring unreleased demos out in June"**](https://apnews.com/f60b62d07cd74a92aec4ceb6d9c338f1)<ul><li>by [The Associated Press](../../authors/the-associated-press/index.md)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 25 April 2019</li><li>about [Apple Music](../../topics/apple-music/index.md), [Bangles](../../topics/bangles/index.md), [Joey Coco](../../topics/joey-coco/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../topics/album/originals/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Spotify](../../topics/spotify/index.md), [The Time](../../topics/the-time/index.md), [Tidal](../../topics/tidal/index.md), [Troy Carter](../../topics/troy-carter/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/f60b62d07cd74a92aec4ceb6d9c338f1))</li><ul>
 
 ----
 
@@ -102,7 +102,7 @@
 
 ----
 
- - [**"Prince memoir ‘The Beautiful Ones’ coming out in the fall"**](https://apnews.com/0c8b1deaae3b4329905d848b284f044b)<ul><li>by Hillel Italie (Associated Press)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 22 April 2019</li><li>about [Chris Jackson](../../topics/chris-jackson/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Esther Newberg](../../topics/esther-newberg/index.md), [fentanyl](../../topics/fentanyl/index.md), [memoir](../../topics/memoir/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Random House](../../topics/random-house/index.md), [Super Bowl](../../topics/super-bowl/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/0c8b1deaae3b4329905d848b284f044b))</li><ul>
+ - [**"Prince memoir ‘The Beautiful Ones’ coming out in the fall"**](https://apnews.com/0c8b1deaae3b4329905d848b284f044b)<ul><li>by [Hillel Italie (Associated Press)](../../authors/associated-press/hillel-italie/index.md)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 22 April 2019</li><li>about [Chris Jackson](../../topics/chris-jackson/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Esther Newberg](../../topics/esther-newberg/index.md), [fentanyl](../../topics/fentanyl/index.md), [memoir](../../topics/memoir/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Random House](../../topics/random-house/index.md), [Super Bowl](../../topics/super-bowl/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/0c8b1deaae3b4329905d848b284f044b))</li><ul>
 
 ----
 
@@ -112,7 +112,7 @@
 
 ## March 2019 (5)
 
- - [**"Herb Ritts photos of Bowie, Madonna, more to be exhibited"**](https://apnews.com/1c8308821f394c988d91e49742dbd17e)<ul><li>by The Associated Press</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 31 March 2019</li><li>about [Herb Ritts](../../topics/herb-ritts/index.md), [museum](../../topics/museum/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/1c8308821f394c988d91e49742dbd17e))</li><ul>
+ - [**"Herb Ritts photos of Bowie, Madonna, more to be exhibited"**](https://apnews.com/1c8308821f394c988d91e49742dbd17e)<ul><li>by [The Associated Press](../../authors/the-associated-press/index.md)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 31 March 2019</li><li>about [Herb Ritts](../../topics/herb-ritts/index.md), [museum](../../topics/museum/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/1c8308821f394c988d91e49742dbd17e))</li><ul>
 
 ----
 
@@ -120,15 +120,15 @@
 
 ----
 
- - [**"Review: Ex-Prince guitarist Donna Grantis explores fusion"**](https://apnews.com/2e76989232854df4b0ec89f1a3bb99a5)<ul><li>by Pablo Gorondi (Associated Press)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 20 March 2019</li><li>about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Donna Grantis](../../topics/donna-grantis/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/2e76989232854df4b0ec89f1a3bb99a5))</li><ul>
+ - [**"Review: Ex-Prince guitarist Donna Grantis explores fusion"**](https://apnews.com/2e76989232854df4b0ec89f1a3bb99a5)<ul><li>by [Pablo Gorondi (Associated Press)](../../authors/associated-press/pablo-gorondi/index.md)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 20 March 2019</li><li>about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Donna Grantis](../../topics/donna-grantis/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/2e76989232854df4b0ec89f1a3bb99a5))</li><ul>
 
 ----
 
- - [**"Review: Weezer’s ‘Black Album’ mocks, shocks and knocks"**](https://apnews.com/933880fd912f49c9872ddeac800504d2)<ul><li>by Pablo Gorondi (Associated Press)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 5 March 2019</li><li>about [Weezer](../../topics/weezer/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/933880fd912f49c9872ddeac800504d2))</li><ul>
+ - [**"Review: Weezer’s ‘Black Album’ mocks, shocks and knocks"**](https://apnews.com/933880fd912f49c9872ddeac800504d2)<ul><li>by [Pablo Gorondi (Associated Press)](../../authors/associated-press/pablo-gorondi/index.md)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 5 March 2019</li><li>about [Weezer](../../topics/weezer/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/933880fd912f49c9872ddeac800504d2))</li><ul>
 
 ----
 
- - [**"Foundation of Prince’s second wife to honor him at gala"**](https://apnews.com/16e91a0add574df1b24e5df54dfbc087)<ul><li>by Leanne Italie (Associated Press)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 1 March 2019</li><li>about [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [In a Perfect World](../../topics/in-a-perfect-world/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Quincy Jones](../../topics/quincy-jones/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/16e91a0add574df1b24e5df54dfbc087))</li><ul>
+ - [**"Foundation of Prince’s second wife to honor him at gala"**](https://apnews.com/16e91a0add574df1b24e5df54dfbc087)<ul><li>by [Leanne Italie (Associated Press)](../../authors/associated-press/leanne-italie/index.md)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 1 March 2019</li><li>about [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [In a Perfect World](../../topics/in-a-perfect-world/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Quincy Jones](../../topics/quincy-jones/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/16e91a0add574df1b24e5df54dfbc087))</li><ul>
 
 ----
 
@@ -138,7 +138,7 @@
 
 ----
 
- - [**"The Latest: Klobuchar points to Prince in talking drug issue"**](https://apnews.com/a1facc441faa45c08d75963d0e49a9dc)<ul><li>by The Associated Press</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 19 February 2019</li><li>about [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [opioid](../../topics/opioid/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/a1facc441faa45c08d75963d0e49a9dc))</li><ul>
+ - [**"The Latest: Klobuchar points to Prince in talking drug issue"**](https://apnews.com/a1facc441faa45c08d75963d0e49a9dc)<ul><li>by [The Associated Press](../../authors/the-associated-press/index.md)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 19 February 2019</li><li>about [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [opioid](../../topics/opioid/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/a1facc441faa45c08d75963d0e49a9dc))</li><ul>
 
 ----
 

@@ -62,7 +62,7 @@
 
 ----
 
- - [**"Prince 911 call: Read the transcript"**](https://usatoday.com/story/life/people/2016/04/21/transcript-of-911-call-to-princes-compound/83368052/)<ul><li>in [USA Today](https://usatoday.com/)</li><li>on 22 April 2016</li><li>about [Audubon Road](../../topics/audubon-road/index.md), [Carver County](../../topics/carver-county/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/people/2016/04/21/transcript-of-911-call-to-princes-compound/83368052/))</li><ul>
+ - [**"Prince 911 call: Read the transcript"**](https://usatoday.com/story/life/people/2016/04/21/transcript-of-911-call-to-princes-compound/83368052/)<ul><li>in [USA Today](https://usatoday.com/)</li><li>on 22 April 2016</li><li>about [Audubon Road (place)](../../topics/place/audubon-road/index.md), [Carver County](../../topics/carver-county/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/people/2016/04/21/transcript-of-911-call-to-princes-compound/83368052/))</li><ul>
 
 ----
 
@@ -74,7 +74,7 @@
 
 ----
 
- - [**"Revisit Prince's iconic first 'Purple Rain' performance"**](https://usatoday.com/story/life/entertainthis/2016/04/21/prince-first-performance-purple-rain-video/83346434/)<ul><li>by Maeve McDermott</li><li>in [USA Today](https://usatoday.com/)</li><li>on 21 April 2016</li><li>about [First Avenue (place)](../../topics/place/first-avenue/index.md), [I Would Die 4 U (book)](../../topics/book/i-would-die-4-u/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Touré](../../topics/tour/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/entertainthis/2016/04/21/prince-first-performance-purple-rain-video/83346434/))</li><ul>
+ - [**"Revisit Prince's iconic first 'Purple Rain' performance"**](https://usatoday.com/story/life/entertainthis/2016/04/21/prince-first-performance-purple-rain-video/83346434/)<ul><li>by [Maeve McDermott](../../authors/maeve-mcdermott/index.md)</li><li>in [USA Today](https://usatoday.com/)</li><li>on 21 April 2016</li><li>about [First Avenue (place)](../../topics/place/first-avenue/index.md), [I Would Die 4 U (book)](../../topics/book/i-would-die-4-u/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Touré](../../topics/tour/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/entertainthis/2016/04/21/prince-first-performance-purple-rain-video/83346434/))</li><ul>
 
 ----
 

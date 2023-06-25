@@ -380,6 +380,9 @@ items:
 - name: news.bloomberglaw.com
   href: news-bloomberglaw-com/index.md
   homepage: news-bloomberglaw-com/index.md
+- name: news.sky.com
+  href: news-sky-com/index.md
+  homepage: news-sky-com/index.md
 - name: Newsarama
   href: newsarama/index.md
   homepage: newsarama/index.md
