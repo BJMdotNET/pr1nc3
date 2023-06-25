@@ -2,7 +2,7 @@
 
 ## December 2018 (23)
 
- - [**"The Cloud Bass"**](https://madcatsandclouds.com/2018/12/30/the-cloud-bass/)<ul><li>in [Madcats & Clouds](https://madcatsandclouds.com/)</li><li>on 30 December 2018</li><li>about [Cloud bass](../../topics/cloud-bass/index.md), [Cloud guitar](../../topics/cloud-guitar/index.md), [exhibit](../../topics/exhibit/index.md), [exhibition](../../topics/exhibition/index.md), [For You (album)](../../topics/album/for-you/index.md), [Jeffrey Levin](../../topics/jeffrey-levin/index.md), [Knut-Koupée Music](../../topics/knut-koup-e-music/index.md), [Matt Umanov](../../topics/matt-umanov/index.md), [Matt Umanov Guitars](../../topics/matt-umanov-guitars/index.md), [museum](../../topics/museum/index.md), [My Name Is Prince (exhibition)](../../topics/exhibition/my-name-is-prince/index.md), [Owen Husney](../../topics/owen-husney/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Record Plant](../../topics/record-plant/index.md), [Sardonyx](../../topics/sardonyx/index.md), [Sausalito (place)](../../topics/place/sausalito/index.md), [Smithsonian (place)](../../topics/place/smithsonian/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://madcatsandclouds.com/2018/12/30/the-cloud-bass/))</li><ul>
+ - [**"The Cloud Bass"**](https://madcatsandclouds.com/2018/12/30/the-cloud-bass/)<ul><li>in [Madcats & Clouds](https://madcatsandclouds.com/)</li><li>on 30 December 2018</li><li>about [Cloud bass](../../topics/cloud-bass/index.md), [Cloud guitar (instrument)](../../topics/instrument/cloud-guitar/index.md), [exhibit](../../topics/exhibit/index.md), [exhibition](../../topics/exhibition/index.md), [For You (album)](../../topics/album/for-you/index.md), [Jeffrey Levin](../../topics/jeffrey-levin/index.md), [Knut-Koupée Music](../../topics/knut-koup-e-music/index.md), [Matt Umanov](../../topics/matt-umanov/index.md), [Matt Umanov Guitars](../../topics/matt-umanov-guitars/index.md), [museum](../../topics/museum/index.md), [My Name Is Prince (exhibition)](../../topics/exhibition/my-name-is-prince/index.md), [Owen Husney](../../topics/owen-husney/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Record Plant](../../topics/record-plant/index.md), [Sardonyx](../../topics/sardonyx/index.md), [Sausalito (place)](../../topics/place/sausalito/index.md), [Smithsonian (place)](../../topics/place/smithsonian/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://madcatsandclouds.com/2018/12/30/the-cloud-bass/))</li><ul>
 
 ----
 
@@ -18,7 +18,7 @@
 
 ----
 
- - [**"Barack Obama names Prince song among his musical favorites of 2018"**](https://www.startribune.com/barack-obama-names-prince-song-among-his-musical-favorites-of-2018/503626142/)<ul><li>by Jon Bream</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 28 December 2018</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/barack-obama-names-prince-song-among-his-musical-favorites-of-2018/503626142/))</li><ul>
+ - [**"Barack Obama names Prince song among his musical favorites of 2018"**](https://www.startribune.com/barack-obama-names-prince-song-among-his-musical-favorites-of-2018/503626142/)<ul><li>by [Jon Bream](../../authors/jon-bream/index.md)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 28 December 2018</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/barack-obama-names-prince-song-among-his-musical-favorites-of-2018/503626142/))</li><ul>
 
 ----
 
@@ -30,7 +30,7 @@
 
 ----
 
- - [**"Walz win, Omar to Congress, Mauer retires top Minnesota news"**](https://www.startribune.com/walz-win-omar-to-congress-mauer-retires-top-minnesota-news/503383762/)<ul><li>by Jeff Baenen (Associated Press)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 22 December 2018</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/walz-win-omar-to-congress-mauer-retires-top-minnesota-news/503383762/))</li><ul>
+ - [**"Walz win, Omar to Congress, Mauer retires top Minnesota news"**](https://www.startribune.com/walz-win-omar-to-congress-mauer-retires-top-minnesota-news/503383762/)<ul><li>by [Jeff Baenen (Associated Press)](../../authors/associated-press/jeff-baenen/index.md)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 22 December 2018</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/walz-win-omar-to-congress-mauer-retires-top-minnesota-news/503383762/))</li><ul>
 
 ----
 
@@ -38,15 +38,15 @@
 
 ----
 
- - [**"First Ave, Electric Fetus named best in U.S. again by Rolling Stone"**](https://www.startribune.com/first-ave-electric-fetus-named-best-in-u-s-again-by-rolling-stone/502770432/)<ul><li>by Chris Riemenschneider</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 14 December 2018</li><li>about [Electric Fetus (place)](../../topics/place/electric-fetus/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Lizzo](../../topics/lizzo/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/first-ave-electric-fetus-named-best-in-u-s-again-by-rolling-stone/502770432/))</li><ul>
+ - [**"First Ave, Electric Fetus named best in U.S. again by Rolling Stone"**](https://www.startribune.com/first-ave-electric-fetus-named-best-in-u-s-again-by-rolling-stone/502770432/)<ul><li>by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 14 December 2018</li><li>about [Electric Fetus (place)](../../topics/place/electric-fetus/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Lizzo](../../topics/lizzo/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/first-ave-electric-fetus-named-best-in-u-s-again-by-rolling-stone/502770432/))</li><ul>
 
 ----
 
- - [**"Morris Day's misadventures in Minneapolis get animated for Mike Judge's TV series"**](https://www.startribune.com/morris-day-s-misadventures-in-minneapolis-get-animated-for-mike-judge-s-tv-series/502781422/)<ul><li>by Neal Justin</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 14 December 2018</li><li>about [Morris Day](../../topics/morris-day/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/morris-day-s-misadventures-in-minneapolis-get-animated-for-mike-judge-s-tv-series/502781422/))</li><ul>
+ - [**"Morris Day's misadventures in Minneapolis get animated for Mike Judge's TV series"**](https://www.startribune.com/morris-day-s-misadventures-in-minneapolis-get-animated-for-mike-judge-s-tv-series/502781422/)<ul><li>by [Neal Justin](../../authors/neal-justin/index.md)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 14 December 2018</li><li>about [Morris Day](../../topics/morris-day/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/morris-day-s-misadventures-in-minneapolis-get-animated-for-mike-judge-s-tv-series/502781422/))</li><ul>
 
 ----
 
- - [**"Two new sculptures installed in north Minneapolis parks -- One of the pieces was created to honor Prince."**](https://www.startribune.com/two-new-sculptures-installed-in-north-minneapolis-parks/502826701/)<ul><li>by Karen Zamora</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 14 December 2018</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/two-new-sculptures-installed-in-north-minneapolis-parks/502826701/))</li><ul>
+ - [**"Two new sculptures installed in north Minneapolis parks -- One of the pieces was created to honor Prince."**](https://www.startribune.com/two-new-sculptures-installed-in-north-minneapolis-parks/502826701/)<ul><li>by [Karen Zamora](../../authors/karen-zamora/index.md)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 14 December 2018</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/two-new-sculptures-installed-in-north-minneapolis-parks/502826701/))</li><ul>
 
 ----
 
@@ -66,27 +66,27 @@
 
 ----
 
- - [**"Prince estate sues maker of famous 'cloud guitar'"**](https://abc13.com/entertainment/prince-estate-sues-maker-of-famous-cloud-guitar/4848492/)<ul><li>in [abc13 News -- KTRK  Houston and Southeast Texas News](https://abc13.com/)</li><li>on 7 December 2018</li><li>about [Cloud guitar](../../topics/cloud-guitar/index.md), [Dave Rusan](../../topics/dave-rusan/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [trademark](../../topics/trademark/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://abc13.com/entertainment/prince-estate-sues-maker-of-famous-cloud-guitar/4848492/))</li><ul>
+ - [**"Prince estate sues maker of famous 'cloud guitar'"**](https://abc13.com/entertainment/prince-estate-sues-maker-of-famous-cloud-guitar/4848492/)<ul><li>in [abc13 News -- KTRK  Houston and Southeast Texas News](https://abc13.com/)</li><li>on 7 December 2018</li><li>about [Cloud guitar (instrument)](../../topics/instrument/cloud-guitar/index.md), [Dave Rusan](../../topics/dave-rusan/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [trademark](../../topics/trademark/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://abc13.com/entertainment/prince-estate-sues-maker-of-famous-cloud-guitar/4848492/))</li><ul>
 
 ----
 
- - [**"Prince estate goes after Cloud guitar designer -- Sooner or later, we all hear from Prince’s lawyers."**](http://www.citypages.com/music/prince-estate-goes-after-cloud-guitar-designer/502027422)<ul><li>in [City Pages](http://www.citypages.com/)</li><li>on 6 December 2018</li><li>about [André Cymone](../../topics/andr-cymone/index.md), [Cloud guitar](../../topics/cloud-guitar/index.md), [Comerica](../../topics/comerica/index.md), [Comerica Bank & Trust](../../topics/comerica-bank-trust/index.md), [Dave Rusan](../../topics/dave-rusan/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Smithsonian (place)](../../topics/place/smithsonian/index.md), [trademark](../../topics/trademark/index.md)</li><li>([mirror](https://web.archive.org/web/*/http://www.citypages.com/music/prince-estate-goes-after-cloud-guitar-designer/502027422))</li><ul>
+ - [**"Prince estate goes after Cloud guitar designer -- Sooner or later, we all hear from Prince’s lawyers."**](http://www.citypages.com/music/prince-estate-goes-after-cloud-guitar-designer/502027422)<ul><li>in [City Pages](http://www.citypages.com/)</li><li>on 6 December 2018</li><li>about [André Cymone](../../topics/andr-cymone/index.md), [Cloud guitar (instrument)](../../topics/instrument/cloud-guitar/index.md), [Comerica](../../topics/comerica/index.md), [Comerica Bank & Trust](../../topics/comerica-bank-trust/index.md), [Dave Rusan](../../topics/dave-rusan/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Smithsonian (place)](../../topics/place/smithsonian/index.md), [trademark](../../topics/trademark/index.md)</li><li>([mirror](https://web.archive.org/web/*/http://www.citypages.com/music/prince-estate-goes-after-cloud-guitar-designer/502027422))</li><ul>
 
 ----
 
- - [**"‘It’s Like My Legacy’: Prince’s Estate Threatens Designer Of Iconic ‘Cloud Guitar’"**](https://minnesota.cbslocal.com/2018/12/05/its-like-my-legacy-princes-estate-threatens-designer-of-iconic-cloud-guitar/)<ul><li>in [WCCO - CBS Minnesota](https://minnesota.cbslocal.com/)</li><li>on 5 December 2018</li><li>about [Cloud guitar](../../topics/cloud-guitar/index.md), [Dave Rusan](../../topics/dave-rusan/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [trademark](../../topics/trademark/index.md), [WCCO-TV](../../topics/wcco-tv/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://minnesota.cbslocal.com/2018/12/05/its-like-my-legacy-princes-estate-threatens-designer-of-iconic-cloud-guitar/))</li><ul>
+ - [**"‘It’s Like My Legacy’: Prince’s Estate Threatens Designer Of Iconic ‘Cloud Guitar’"**](https://minnesota.cbslocal.com/2018/12/05/its-like-my-legacy-princes-estate-threatens-designer-of-iconic-cloud-guitar/)<ul><li>in [WCCO - CBS Minnesota](https://minnesota.cbslocal.com/)</li><li>on 5 December 2018</li><li>about [Cloud guitar (instrument)](../../topics/instrument/cloud-guitar/index.md), [Dave Rusan](../../topics/dave-rusan/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [trademark](../../topics/trademark/index.md), [WCCO-TV](../../topics/wcco-tv/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://minnesota.cbslocal.com/2018/12/05/its-like-my-legacy-princes-estate-threatens-designer-of-iconic-cloud-guitar/))</li><ul>
 
 ----
 
- - [**"Let's go crazy! Songs by Prince will be the star of a new movie musical"**](https://usatoday.com/story/life/movies/2018/12/03/prince-inspired-movie-musical-make-artists-songs-film-star/2196507002/)<ul><li>by Bryan Alexander</li><li>in [USA Today](https://usatoday.com/)</li><li>on 4 December 2018</li><li>about [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Universal Pictures](../../topics/universal-pictures/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/movies/2018/12/03/prince-inspired-movie-musical-make-artists-songs-film-star/2196507002/))</li><ul>
+ - [**"Let's go crazy! Songs by Prince will be the star of a new movie musical"**](https://usatoday.com/story/life/movies/2018/12/03/prince-inspired-movie-musical-make-artists-songs-film-star/2196507002/)<ul><li>by [Bryan Alexander](../../authors/bryan-alexander/index.md)</li><li>in [USA Today](https://usatoday.com/)</li><li>on 4 December 2018</li><li>about [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Universal Pictures](../../topics/universal-pictures/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/movies/2018/12/03/prince-inspired-movie-musical-make-artists-songs-film-star/2196507002/))</li><ul>
 
 ----
 
- - [**"Prince estate asks Bloomington man to stop selling iconic Cloud guitar replicas"**](https://kstp.com/news/prince-estate-asks-bloomington-man-to-stop-selling-iconic-cloud-guitar-replicas/5167255/)<ul><li>in [KSTP](https://kstp.com/)</li><li>on 4 December 2018</li><li>about [Cloud guitar](../../topics/cloud-guitar/index.md), [Dave Rusan](../../topics/dave-rusan/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [trademark](../../topics/trademark/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://kstp.com/news/prince-estate-asks-bloomington-man-to-stop-selling-iconic-cloud-guitar-replicas/5167255/))</li><ul>
+ - [**"Prince estate asks Bloomington man to stop selling iconic Cloud guitar replicas"**](https://kstp.com/news/prince-estate-asks-bloomington-man-to-stop-selling-iconic-cloud-guitar-replicas/5167255/)<ul><li>in [KSTP](https://kstp.com/)</li><li>on 4 December 2018</li><li>about [Cloud guitar (instrument)](../../topics/instrument/cloud-guitar/index.md), [Dave Rusan](../../topics/dave-rusan/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [trademark](../../topics/trademark/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://kstp.com/news/prince-estate-asks-bloomington-man-to-stop-selling-iconic-cloud-guitar-replicas/5167255/))</li><ul>
 
 ----
 
- - [**"Universal plans authorized fictitious film based on Prince's songs"**](https://www.startribune.com/universal-plans-authorized-fictitious-film-based-on-prince-s-songs/501912161/)<ul><li>by Jon Bream</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 4 December 2018</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/universal-plans-authorized-fictitious-film-based-on-prince-s-songs/501912161/))</li><ul>
+ - [**"Universal plans authorized fictitious film based on Prince's songs"**](https://www.startribune.com/universal-plans-authorized-fictitious-film-based-on-prince-s-songs/501912161/)<ul><li>by [Jon Bream](../../authors/jon-bream/index.md)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 4 December 2018</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/universal-plans-authorized-fictitious-film-based-on-prince-s-songs/501912161/))</li><ul>
 
 ----
 
@@ -96,15 +96,15 @@
 
 ## November 2018 (14)
 
- - [**"12 great gifts for the musichead on your holiday shopping list -- Want to impress the music lover on your shopping list? Try these books and deluxe reissues."**](https://www.startribune.com/12-great-gifts-for-the-musichead-on-your-holiday-shopping-list/501582472/)<ul><li>by Chris Riemenschneider, Jon Bream</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 30 November 2018</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/12-great-gifts-for-the-musichead-on-your-holiday-shopping-list/501582472/))</li><ul>
+ - [**"12 great gifts for the musichead on your holiday shopping list -- Want to impress the music lover on your shopping list? Try these books and deluxe reissues."**](https://www.startribune.com/12-great-gifts-for-the-musichead-on-your-holiday-shopping-list/501582472/)<ul><li>by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md), [Jon Bream](../../authors/jon-bream/index.md)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 30 November 2018</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/12-great-gifts-for-the-musichead-on-your-holiday-shopping-list/501582472/))</li><ul>
 
 ----
 
- - [**"Acclaimed Minnesota cartoonist redesigns beloved 'Oh, You Turkey': 'It's iconic' -- Artist Kevin Cannon ditches Mary Tyler Moore for pumpkin pie in illustration."**](https://www.startribune.com/acclaimed-minnesota-cartoonist-redesigns-beloved-oh-you-turkey-it-s-iconic/501016911/)<ul><li>by Connie Nelson</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 21 November 2018</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/acclaimed-minnesota-cartoonist-redesigns-beloved-oh-you-turkey-it-s-iconic/501016911/))</li><ul>
+ - [**"Acclaimed Minnesota cartoonist redesigns beloved 'Oh, You Turkey': 'It's iconic' -- Artist Kevin Cannon ditches Mary Tyler Moore for pumpkin pie in illustration."**](https://www.startribune.com/acclaimed-minnesota-cartoonist-redesigns-beloved-oh-you-turkey-it-s-iconic/501016911/)<ul><li>by [Connie Nelson](../../authors/connie-nelson/index.md)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 21 November 2018</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/acclaimed-minnesota-cartoonist-redesigns-beloved-oh-you-turkey-it-s-iconic/501016911/))</li><ul>
 
 ----
 
- - [**"Prince's Paisley Park starts program with Minneapolis Public Schools"**](https://www.startribune.com/prince-s-paisley-park-starts-program-with-minneapolis-public-schools/500851022/)<ul><li>by Jon Bream</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 19 November 2018</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-s-paisley-park-starts-program-with-minneapolis-public-schools/500851022/))</li><ul>
+ - [**"Prince's Paisley Park starts program with Minneapolis Public Schools"**](https://www.startribune.com/prince-s-paisley-park-starts-program-with-minneapolis-public-schools/500851022/)<ul><li>by [Jon Bream](../../authors/jon-bream/index.md)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 19 November 2018</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-s-paisley-park-starts-program-with-minneapolis-public-schools/500851022/))</li><ul>
 
 ----
 
@@ -112,11 +112,11 @@
 
 ----
 
- - [**"'Black-ish' star Anthony Anderson pays tribute to his friend Prince: 'I was so lucky' -- The cast of "Black-ish" goes crazy for Prince in a landmark episode this week."**](https://www.startribune.com/black-ish-star-anthony-anderson-pays-tribute-to-his-friend-prince-i-was-so-lucky/500170031/)<ul><li>by Neal Justin</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 11 November 2018</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/black-ish-star-anthony-anderson-pays-tribute-to-his-friend-prince-i-was-so-lucky/500170031/))</li><ul>
+ - [**"'Black-ish' star Anthony Anderson pays tribute to his friend Prince: 'I was so lucky' -- The cast of "Black-ish" goes crazy for Prince in a landmark episode this week."**](https://www.startribune.com/black-ish-star-anthony-anderson-pays-tribute-to-his-friend-prince-i-was-so-lucky/500170031/)<ul><li>by [Neal Justin](../../authors/neal-justin/index.md)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 11 November 2018</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/black-ish-star-anthony-anderson-pays-tribute-to-his-friend-prince-i-was-so-lucky/500170031/))</li><ul>
 
 ----
 
- - [**"'Black-ish' throws TV's best-ever Prince party in its 100th episode -- REVIEW: "Black-ish" cast goes all out to pay tribute to Prince."**](https://www.startribune.com/black-ish-throws-tv-s-best-ever-prince-party-in-its-100th-episode/500170101/)<ul><li>by Neal Justin</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 11 November 2018</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/black-ish-throws-tv-s-best-ever-prince-party-in-its-100th-episode/500170101/))</li><ul>
+ - [**"'Black-ish' throws TV's best-ever Prince party in its 100th episode -- REVIEW: "Black-ish" cast goes all out to pay tribute to Prince."**](https://www.startribune.com/black-ish-throws-tv-s-best-ever-prince-party-in-its-100th-episode/500170101/)<ul><li>by [Neal Justin](../../authors/neal-justin/index.md)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 11 November 2018</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/black-ish-throws-tv-s-best-ever-prince-party-in-its-100th-episode/500170101/))</li><ul>
 
 ----
 
@@ -124,7 +124,7 @@
 
 ----
 
- - [**"Prince estate issues rare (and goofy!) music videos from the '90s with Sony"**](https://www.startribune.com/prince-estate-issues-rare-and-goofy-music-videos-from-the-90s-with-sony/499690051/)<ul><li>by Chris Riemenschneider</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 5 November 2018</li><li>about [Prince Estate](../../topics/prince-estate/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-estate-issues-rare-and-goofy-music-videos-from-the-90s-with-sony/499690051/))</li><ul>
+ - [**"Prince estate issues rare (and goofy!) music videos from the '90s with Sony"**](https://www.startribune.com/prince-estate-issues-rare-and-goofy-music-videos-from-the-90s-with-sony/499690051/)<ul><li>by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 5 November 2018</li><li>about [Prince Estate](../../topics/prince-estate/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-estate-issues-rare-and-goofy-music-videos-from-the-90s-with-sony/499690051/))</li><ul>
 
 ----
 
@@ -148,7 +148,7 @@
 
 ----
 
- - [**"Timberwolves show off Prince tribute uniforms at Paisley Park -- The Wolves will wear the uniforms eight times this year, including five times at home, and they go on sale to the public next week."**](https://www.startribune.com/timberwolves-show-off-prince-tribute-jerseys-at-paisley-park/499315791/)<ul><li>by Michael Rand</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 1 November 2018</li><li>about [Minnesota Timberwolves](../../topics/minnesota-timberwolves/index.md), [motorcycle](../../topics/motorcycle/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Timberwolves](../../topics/timberwolves/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/timberwolves-show-off-prince-tribute-jerseys-at-paisley-park/499315791/))</li><ul>
+ - [**"Timberwolves show off Prince tribute uniforms at Paisley Park -- The Wolves will wear the uniforms eight times this year, including five times at home, and they go on sale to the public next week."**](https://www.startribune.com/timberwolves-show-off-prince-tribute-jerseys-at-paisley-park/499315791/)<ul><li>by [Michael Rand](../../authors/michael-rand/index.md)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 1 November 2018</li><li>about [Minnesota Timberwolves](../../topics/minnesota-timberwolves/index.md), [motorcycle](../../topics/motorcycle/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Timberwolves](../../topics/timberwolves/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/timberwolves-show-off-prince-tribute-jerseys-at-paisley-park/499315791/))</li><ul>
 
 ----
 
@@ -178,11 +178,11 @@
 
 ----
 
- - [**"Expect Prince-themed Wolves jerseys to be unveiled Thursday at Paisley Park -- A partial look at the new uniform — which honor the Minnesota music legend who died in 2016 — was leaked on social media last week."**](https://www.startribune.com/expect-prince-themed-wolves-jerseys-to-be-unveiled-thursday-at-paisley-park/499015121/)<ul><li>by Michael Rand</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 30 October 2018</li><li>about [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Minnesota Timberwolves](../../topics/minnesota-timberwolves/index.md), [Timberwolves](../../topics/timberwolves/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/expect-prince-themed-wolves-jerseys-to-be-unveiled-thursday-at-paisley-park/499015121/))</li><ul>
+ - [**"Expect Prince-themed Wolves jerseys to be unveiled Thursday at Paisley Park -- A partial look at the new uniform — which honor the Minnesota music legend who died in 2016 — was leaked on social media last week."**](https://www.startribune.com/expect-prince-themed-wolves-jerseys-to-be-unveiled-thursday-at-paisley-park/499015121/)<ul><li>by [Michael Rand](../../authors/michael-rand/index.md)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 30 October 2018</li><li>about [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Minnesota Timberwolves](../../topics/minnesota-timberwolves/index.md), [Timberwolves](../../topics/timberwolves/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/expect-prince-themed-wolves-jerseys-to-be-unveiled-thursday-at-paisley-park/499015121/))</li><ul>
 
 ----
 
- - [**"Must-have new book features pre-"Purple Rain" photos of Prince"**](https://www.startribune.com/must-have-new-book-features-pre-purple-rain-photos-of-prince/499037341/)<ul><li>by Jon Bream</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 30 October 2018</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/must-have-new-book-features-pre-purple-rain-photos-of-prince/499037341/))</li><ul>
+ - [**"Must-have new book features pre-"Purple Rain" photos of Prince"**](https://www.startribune.com/must-have-new-book-features-pre-purple-rain-photos-of-prince/499037341/)<ul><li>by [Jon Bream](../../authors/jon-bream/index.md)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 30 October 2018</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/must-have-new-book-features-pre-purple-rain-photos-of-prince/499037341/))</li><ul>
 
 ----
 
@@ -210,7 +210,7 @@
 
 ----
 
- - [**"Warner Bros. radio representative Steve Fingerett dies at 67 -- His job was procuring radio airplay for musicians ranging from Christopher Cross to Van Halen, and he delivered for 22 years."**](https://www.startribune.com/warner-bros-radio-representative-steve-fingerett-dies-at-67/498793531/)<ul><li>by Jeffrey Meitrodt</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 27 October 2018</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/warner-bros-radio-representative-steve-fingerett-dies-at-67/498793531/))</li><ul>
+ - [**"Warner Bros. radio representative Steve Fingerett dies at 67 -- His job was procuring radio airplay for musicians ranging from Christopher Cross to Van Halen, and he delivered for 22 years."**](https://www.startribune.com/warner-bros-radio-representative-steve-fingerett-dies-at-67/498793531/)<ul><li>by [Jeffrey Meitrodt](../../authors/jeffrey-meitrodt/index.md)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 27 October 2018</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/warner-bros-radio-representative-steve-fingerett-dies-at-67/498793531/))</li><ul>
 
 ----
 
@@ -218,11 +218,11 @@
 
 ----
 
- - [**"Twin Cities keyboardist 'having a ball' touring with Fleetwood Mac -- Ricky Peterson joins Fleetwood Mac in St. Paul on Monday."**](https://www.startribune.com/twin-cities-keyboardist-having-a-ball-touring-with-fleetwood-mac/497968671/)<ul><li>by Jon Bream</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 18 October 2018</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/twin-cities-keyboardist-having-a-ball-touring-with-fleetwood-mac/497968671/))</li><ul>
+ - [**"Twin Cities keyboardist 'having a ball' touring with Fleetwood Mac -- Ricky Peterson joins Fleetwood Mac in St. Paul on Monday."**](https://www.startribune.com/twin-cities-keyboardist-having-a-ball-touring-with-fleetwood-mac/497968671/)<ul><li>by [Jon Bream](../../authors/jon-bream/index.md)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 18 October 2018</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/twin-cities-keyboardist-having-a-ball-touring-with-fleetwood-mac/497968671/))</li><ul>
 
 ----
 
- - [**"Prince estate tells Donald Trump to stop playing ‘Purple Rain’ at campaign rallies"**](https://apnews.com/c4bbf717114ff1f40a142ae260f5afd1)<ul><li>by Andrew Blake (The Washington Times)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 13 October 2018</li><li>about [Donald Trump](../../topics/donald-trump/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Trump](../../topics/trump/index.md), [White House (place)](../../topics/place/white-house/index.md), [YouTube](../../topics/youtube/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/c4bbf717114ff1f40a142ae260f5afd1))</li><ul>
+ - [**"Prince estate tells Donald Trump to stop playing ‘Purple Rain’ at campaign rallies"**](https://apnews.com/c4bbf717114ff1f40a142ae260f5afd1)<ul><li>by [Andrew Blake (The Washington Times)](../../authors/the-washington-times/andrew-blake/index.md)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 13 October 2018</li><li>about [Donald Trump](../../topics/donald-trump/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Trump](../../topics/trump/index.md), [White House (place)](../../topics/place/white-house/index.md), [YouTube](../../topics/youtube/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/c4bbf717114ff1f40a142ae260f5afd1))</li><ul>
 
 ----
 
@@ -238,7 +238,7 @@
 
 ----
 
- - [**"Prince estate to Trump: Stop using music at rallies"**](https://apnews.com/af0a5a4fc34d48ffb9f29da4c5ef9771)<ul><li>by The Associated Press</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 12 October 2018</li><li>about [Donald Trump](../../topics/donald-trump/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Trump](../../topics/trump/index.md), [White House (place)](../../topics/place/white-house/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/af0a5a4fc34d48ffb9f29da4c5ef9771))</li><ul>
+ - [**"Prince estate to Trump: Stop using music at rallies"**](https://apnews.com/af0a5a4fc34d48ffb9f29da4c5ef9771)<ul><li>by [The Associated Press](../../authors/the-associated-press/index.md)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 12 October 2018</li><li>about [Donald Trump](../../topics/donald-trump/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Trump](../../topics/trump/index.md), [White House (place)](../../topics/place/white-house/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/af0a5a4fc34d48ffb9f29da4c5ef9771))</li><ul>
 
 ----
 
@@ -246,7 +246,7 @@
 
 ----
 
- - [**"After two years and a team record for goals, Wild is ditching 'Let's Go Crazy' -- There appeared to be a strange unease among the Wild faithful with having “Let’s Go Crazy” as the goal song"**](https://www.startribune.com/after-two-years-and-a-team-record-for-goals-wild-is-ditching-lets-go-crazy/494917391/)<ul><li>by Michael Rand</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 2 October 2018</li><li>about [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Minnesota Wild](../../topics/minnesota-wild/index.md), [trademark](../../topics/trademark/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/after-two-years-and-a-team-record-for-goals-wild-is-ditching-lets-go-crazy/494917391/))</li><ul>
+ - [**"After two years and a team record for goals, Wild is ditching 'Let's Go Crazy' -- There appeared to be a strange unease among the Wild faithful with having “Let’s Go Crazy” as the goal song"**](https://www.startribune.com/after-two-years-and-a-team-record-for-goals-wild-is-ditching-lets-go-crazy/494917391/)<ul><li>by [Michael Rand](../../authors/michael-rand/index.md)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 2 October 2018</li><li>about [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Minnesota Wild](../../topics/minnesota-wild/index.md), [trademark](../../topics/trademark/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/after-two-years-and-a-team-record-for-goals-wild-is-ditching-lets-go-crazy/494917391/))</li><ul>
 
 ----
 
@@ -260,7 +260,7 @@
 
 ----
 
- - [**"New video series is a 'love letter to black Minneapolis'"**](https://www.startribune.com/new-video-series-is-a-love-letter-to-black-minneapolis/494308901/)<ul><li>by Sheila Regan</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 27 September 2018</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/new-video-series-is-a-love-letter-to-black-minneapolis/494308901/))</li><ul>
+ - [**"New video series is a 'love letter to black Minneapolis'"**](https://www.startribune.com/new-video-series-is-a-love-letter-to-black-minneapolis/494308901/)<ul><li>by [Sheila Regan](../../authors/sheila-regan/index.md)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 27 September 2018</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/new-video-series-is-a-love-letter-to-black-minneapolis/494308901/))</li><ul>
 
 ----
 
@@ -268,7 +268,7 @@
 
 ----
 
- - [**"Thanks to a University of Minnesota degree, his name is ‘Dr. Prince’ now"**](https://apnews.com/38a03f35b393465ba72fa83d6841b3a3)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 26 September 2018</li><li>about [Central High](../../topics/central-high/index.md), [Cloud guitar](../../topics/cloud-guitar/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [museum](../../topics/museum/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Paul Peterson](../../topics/paul-peterson/index.md), [St. Paul Peterson](../../topics/st-paul-peterson/index.md), [Tommy Barbarella](../../topics/tommy-barbarella/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/38a03f35b393465ba72fa83d6841b3a3))</li><ul>
+ - [**"Thanks to a University of Minnesota degree, his name is ‘Dr. Prince’ now"**](https://apnews.com/38a03f35b393465ba72fa83d6841b3a3)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 26 September 2018</li><li>about [Central High](../../topics/central-high/index.md), [Cloud guitar (instrument)](../../topics/instrument/cloud-guitar/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [museum](../../topics/museum/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Paul Peterson](../../topics/paul-peterson/index.md), [St. Paul Peterson](../../topics/st-paul-peterson/index.md), [Tommy Barbarella](../../topics/tommy-barbarella/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/38a03f35b393465ba72fa83d6841b3a3))</li><ul>
 
 ----
 
@@ -292,7 +292,7 @@
 
 ----
 
- - [**"Prince insiders dish on first album released from storied Paisley Park vault -- The coveted 1983 recording features solo piano work and an embryonic "Purple Rain.""**](https://www.startribune.com/prince-insiders-dish-on-first-album-released-from-storied-paisley-park-vault/493845601/)<ul><li>by Jon Bream</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 20 September 2018</li><li>about [vault](../../topics/vault/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-insiders-dish-on-first-album-released-from-storied-paisley-park-vault/493845601/))</li><ul>
+ - [**"Prince insiders dish on first album released from storied Paisley Park vault -- The coveted 1983 recording features solo piano work and an embryonic "Purple Rain.""**](https://www.startribune.com/prince-insiders-dish-on-first-album-released-from-storied-paisley-park-vault/493845601/)<ul><li>by [Jon Bream](../../authors/jon-bream/index.md)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 20 September 2018</li><li>about [vault](../../topics/vault/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-insiders-dish-on-first-album-released-from-storied-paisley-park-vault/493845601/))</li><ul>
 
 ----
 
@@ -332,15 +332,15 @@
 
 ----
 
- - [**"Prince fans go crazy over Capital One commercial during Emmys"**](https://www.startribune.com/prince-fans-go-crazy-over-capitol-one-commercial-during-emmys/493585251/)<ul><li>by Chris Riemenschneider</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 18 September 2018</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-fans-go-crazy-over-capitol-one-commercial-during-emmys/493585251/))</li><ul>
+ - [**"Prince fans go crazy over Capital One commercial during Emmys"**](https://www.startribune.com/prince-fans-go-crazy-over-capitol-one-commercial-during-emmys/493585251/)<ul><li>by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 18 September 2018</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-fans-go-crazy-over-capitol-one-commercial-during-emmys/493585251/))</li><ul>
 
 ----
 
- - [**"Prince’s new basement tape: Just him singing, playing piano"**](https://apnews.com/e0a9e78a662c40d3adee133110bc8489)<ul><li>by Jeff Baenen (Associated Press)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 18 September 2018</li><li>about [17 Days (song)](../../topics/song/17-days/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Cold Coffee & Cocaine (song)](../../topics/song/cold-coffee-cocaine/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Michael Howe](../../topics/michael-howe/index.md), [NPG Records](../../topics/npg-records/index.md), [Piano and a Microphone 1983 (album)](../../topics/album/piano-and-a-microphone-1983/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Troy Carter](../../topics/troy-carter/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md), [Why The Butterflies (song)](../../topics/song/why-the-butterflies/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/e0a9e78a662c40d3adee133110bc8489))</li><ul>
+ - [**"Prince’s new basement tape: Just him singing, playing piano"**](https://apnews.com/e0a9e78a662c40d3adee133110bc8489)<ul><li>by [Jeff Baenen (Associated Press)](../../authors/associated-press/jeff-baenen/index.md)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 18 September 2018</li><li>about [17 Days (song)](../../topics/song/17-days/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Cold Coffee & Cocaine (song)](../../topics/song/cold-coffee-cocaine/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Michael Howe](../../topics/michael-howe/index.md), [NPG Records](../../topics/npg-records/index.md), [Piano and a Microphone 1983 (album)](../../topics/album/piano-and-a-microphone-1983/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Troy Carter](../../topics/troy-carter/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md), [Why The Butterflies (song)](../../topics/song/why-the-butterflies/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/e0a9e78a662c40d3adee133110bc8489))</li><ul>
 
 ----
 
- - [**"Prince's new basement tape: Just him singing, playing piano"**](https://www.startribune.com/prince-s-new-basement-tape-just-him-singing-playing-piano/493611431/)<ul><li>by Jeff Baenen (Associated Press)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 18 September 2018</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-s-new-basement-tape-just-him-singing-playing-piano/493611431/))</li><ul>
+ - [**"Prince's new basement tape: Just him singing, playing piano"**](https://www.startribune.com/prince-s-new-basement-tape-just-him-singing-playing-piano/493611431/)<ul><li>by [Jeff Baenen (Associated Press)](../../authors/associated-press/jeff-baenen/index.md)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 18 September 2018</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-s-new-basement-tape-just-him-singing-playing-piano/493611431/))</li><ul>
 
 ----
 
@@ -348,11 +348,11 @@
 
 ----
 
- - [**"Minneapolis activist, educator and designer Rosa Bogar dies at 77"**](https://www.startribune.com/minneapolis-activist-educator-and-designer-rosa-bogar-dies-at-77/493539581/)<ul><li>by Kim Palmer</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 17 September 2018</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/minneapolis-activist-educator-and-designer-rosa-bogar-dies-at-77/493539581/))</li><ul>
+ - [**"Minneapolis activist, educator and designer Rosa Bogar dies at 77"**](https://www.startribune.com/minneapolis-activist-educator-and-designer-rosa-bogar-dies-at-77/493539581/)<ul><li>by [Kim Palmer](../../authors/kim-palmer/index.md)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 17 September 2018</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/minneapolis-activist-educator-and-designer-rosa-bogar-dies-at-77/493539581/))</li><ul>
 
 ----
 
- - [**"Paisley Park to re-open 'After Dark' to celebrate new Prince album Friday"**](https://www.startribune.com/paisley-park-to-re-open-after-dark-to-celebrate-new-prince-album-friday/493515811/)<ul><li>by Chris Riemenschneider</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 17 September 2018</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/paisley-park-to-re-open-after-dark-to-celebrate-new-prince-album-friday/493515811/))</li><ul>
+ - [**"Paisley Park to re-open 'After Dark' to celebrate new Prince album Friday"**](https://www.startribune.com/paisley-park-to-re-open-after-dark-to-celebrate-new-prince-album-friday/493515811/)<ul><li>by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 17 September 2018</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/paisley-park-to-re-open-after-dark-to-celebrate-new-prince-album-friday/493515811/))</li><ul>
 
 ----
 
@@ -360,7 +360,7 @@
 
 ----
 
- - [**"Prince’s estate sues alleged European piracy network"**](https://apnews.com/7175907b6f0247e79365312718c0b1b6)<ul><li>by The Associated Press</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 15 September 2018</li><li>about [bootleg](../../topics/bootleg/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [piracy](../../topics/piracy/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/7175907b6f0247e79365312718c0b1b6))</li><ul>
+ - [**"Prince’s estate sues alleged European piracy network"**](https://apnews.com/7175907b6f0247e79365312718c0b1b6)<ul><li>by [The Associated Press](../../authors/the-associated-press/index.md)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 15 September 2018</li><li>about [bootleg](../../topics/bootleg/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [lawsuit](../../topics/lawsuit/index.md), [piracy](../../topics/piracy/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/7175907b6f0247e79365312718c0b1b6))</li><ul>
 
 ----
 
@@ -372,11 +372,11 @@
 
 ----
 
- - [**"Prince estate sues ‘brazen bootlegger,’ others selling CDs of his last show, trove of other music"**](https://apnews.com/article/aea54e8d89f44d22a67324c5d77b4a95)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 4 September 2018</li><li>about [bootleg](../../topics/bootleg/index.md), [Eye Records](../../topics/eye-records/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [Prince Estate](../../topics/prince-estate/index.md), [U Got the Look (song)](../../topics/song/u-got-the-look/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/aea54e8d89f44d22a67324c5d77b4a95))</li><ul>
+ - [**"Prince estate sues ‘brazen bootlegger,’ others selling CDs of his last show, trove of other music"**](https://apnews.com/article/aea54e8d89f44d22a67324c5d77b4a95)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 4 September 2018</li><li>about [bootleg](../../topics/bootleg/index.md), [Eye Records](../../topics/eye-records/index.md), [lawsuit](../../topics/lawsuit/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [Prince Estate](../../topics/prince-estate/index.md), [U Got the Look (song)](../../topics/song/u-got-the-look/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/aea54e8d89f44d22a67324c5d77b4a95))</li><ul>
 
 ----
 
- - [**"Prince estate sues 'brazen bootlegger,' others selling CDs of his last show, trove of other music -- Suit seeks many millions in compensation; sales over internet have been going on since 2016, the year Prince died."**](https://www.startribune.com/prince-estate-sues-brazen-bootlegger-others-selling-cds-of-his-last-show-trove-of-other-music/492422931/)<ul><li>by Paul Walsh</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 4 September 2018</li><li>about [bootleg](../../topics/bootleg/index.md), [Prince Estate](../../topics/prince-estate/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-estate-sues-brazen-bootlegger-others-selling-cds-of-his-last-show-trove-of-other-music/492422931/))</li><ul>
+ - [**"Prince estate sues 'brazen bootlegger,' others selling CDs of his last show, trove of other music -- Suit seeks many millions in compensation; sales over internet have been going on since 2016, the year Prince died."**](https://www.startribune.com/prince-estate-sues-brazen-bootlegger-others-selling-cds-of-his-last-show-trove-of-other-music/492422931/)<ul><li>by [Paul Walsh](../../authors/paul-walsh/index.md)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 4 September 2018</li><li>about [bootleg](../../topics/bootleg/index.md), [Prince Estate](../../topics/prince-estate/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-estate-sues-brazen-bootlegger-others-selling-cds-of-his-last-show-trove-of-other-music/492422931/))</li><ul>
 
 ----
 
@@ -394,7 +394,7 @@
 
 ----
 
- - [**"Prince's family sues doctor who prescribed him pain pills"**](https://www.startribune.com/prince-s-family-sues-doctor-who-prescribed-him-pain-pills/491668831/)<ul><li>by Steve Karnowski (Associated Press)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 24 August 2018</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-s-family-sues-doctor-who-prescribed-him-pain-pills/491668831/))</li><ul>
+ - [**"Prince's family sues doctor who prescribed him pain pills"**](https://www.startribune.com/prince-s-family-sues-doctor-who-prescribed-him-pain-pills/491668831/)<ul><li>by [Steve Karnowski (Associated Press)](../../authors/associated-press/steve-karnowski/index.md)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 24 August 2018</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-s-family-sues-doctor-who-prescribed-him-pain-pills/491668831/))</li><ul>
 
 ----
 
@@ -410,7 +410,7 @@
 
 ----
 
- - [**"Prince to receive honorary degree from University of Minnesota"**](https://www.startribune.com/prince-to-receive-honorary-degree-from-university-of-minnesota-on-sept-26/490762631/)<ul><li>by Jon Bream</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 13 August 2018</li><li>about [honorary degree](../../topics/honorary-degree/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-to-receive-honorary-degree-from-university-of-minnesota-on-sept-26/490762631/))</li><ul>
+ - [**"Prince to receive honorary degree from University of Minnesota"**](https://www.startribune.com/prince-to-receive-honorary-degree-from-university-of-minnesota-on-sept-26/490762631/)<ul><li>by [Jon Bream](../../authors/jon-bream/index.md)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 13 August 2018</li><li>about [honorary degree](../../topics/honorary-degree/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-to-receive-honorary-degree-from-university-of-minnesota-on-sept-26/490762631/))</li><ul>
 
 ----
 
@@ -428,7 +428,7 @@
 
 ----
 
- - [**"Spike Lee uses unreleased Prince recording in his new movie"**](https://www.startribune.com/spike-lee-uses-unreleased-prince-recording-in-his-new-movie/489662811/)<ul><li>by Jon Bream</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 31 July 2018</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/spike-lee-uses-unreleased-prince-recording-in-his-new-movie/489662811/))</li><ul>
+ - [**"Spike Lee uses unreleased Prince recording in his new movie"**](https://www.startribune.com/spike-lee-uses-unreleased-prince-recording-in-his-new-movie/489662811/)<ul><li>by [Jon Bream](../../authors/jon-bream/index.md)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 31 July 2018</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/spike-lee-uses-unreleased-prince-recording-in-his-new-movie/489662811/))</li><ul>
 
 ----
 
@@ -436,7 +436,7 @@
 
 ----
 
- - [**"'Purple Rain' singalong video outside First Ave nightclub banned, then reinstated on Twitter -- Photographer's clip from 2016 Prince memorial was blocked by rights holder."**](https://www.startribune.com/purple-rain-singalong-video-outside-first-ave-nightclub-banned-then-reinstated-on-twitter/489369791/)<ul><li>by Chris Riemenschneider</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 27 July 2018</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/purple-rain-singalong-video-outside-first-ave-nightclub-banned-then-reinstated-on-twitter/489369791/))</li><ul>
+ - [**"'Purple Rain' singalong video outside First Ave nightclub banned, then reinstated on Twitter -- Photographer's clip from 2016 Prince memorial was blocked by rights holder."**](https://www.startribune.com/purple-rain-singalong-video-outside-first-ave-nightclub-banned-then-reinstated-on-twitter/489369791/)<ul><li>by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 27 July 2018</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/purple-rain-singalong-video-outside-first-ave-nightclub-banned-then-reinstated-on-twitter/489369791/))</li><ul>
 
 ----
 
@@ -448,11 +448,11 @@
 
 ----
 
- - [**"There are good things in Prince's musical vault, says former engineer who has heard songs -- Susan Rogers has heard the new music from Prince that the rest of us may soon hear."**](https://www.startribune.com/c-j-there-are-good-things-in-prince-s-musical-vault-says-former-engineer-who-has-heard-songs/487824511/)<ul><li>by C.J. (Cheryl Johnson)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 10 July 2018</li><li>about [Susan Rogers](../../topics/susan-rogers/index.md), [vault](../../topics/vault/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/c-j-there-are-good-things-in-prince-s-musical-vault-says-former-engineer-who-has-heard-songs/487824511/))</li><ul>
+ - [**"There are good things in Prince's musical vault, says former engineer who has heard songs -- Susan Rogers has heard the new music from Prince that the rest of us may soon hear."**](https://www.startribune.com/c-j-there-are-good-things-in-prince-s-musical-vault-says-former-engineer-who-has-heard-songs/487824511/)<ul><li>by [C.J. (Cheryl Johnson)](../../authors/c-j-cheryl-johnson/index.md)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 10 July 2018</li><li>about [Susan Rogers](../../topics/susan-rogers/index.md), [vault](../../topics/vault/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/c-j-there-are-good-things-in-prince-s-musical-vault-says-former-engineer-who-has-heard-songs/487824511/))</li><ul>
 
 ----
 
- - [**"Janelle Monáe gives galvanizing Prince-inspired performance at sold-out State Theatre -- Review: It was obvious from the reaction of the celebratory and worshipful crowd that the visionary singer has gone from cult hero to cultural hero."**](https://www.startribune.com/janelle-monae-fights-for-the-right-to-funk/487297841/)<ul><li>by Jon Bream</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 4 July 2018</li><li>about [Janelle Monae](../../topics/janelle-monae/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/janelle-monae-fights-for-the-right-to-funk/487297841/))</li><ul>
+ - [**"Janelle Monáe gives galvanizing Prince-inspired performance at sold-out State Theatre -- Review: It was obvious from the reaction of the celebratory and worshipful crowd that the visionary singer has gone from cult hero to cultural hero."**](https://www.startribune.com/janelle-monae-fights-for-the-right-to-funk/487297841/)<ul><li>by [Jon Bream](../../authors/jon-bream/index.md)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 4 July 2018</li><li>about [Janelle Monae](../../topics/janelle-monae/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/janelle-monae-fights-for-the-right-to-funk/487297841/))</li><ul>
 
 ----
 
@@ -466,7 +466,7 @@
 
 ----
 
- - [**"Prince estate, Sony ink distribution deal for 35 albums"**](https://apnews.com/3f346190027d4601a34fa81f7cf165a2)<ul><li>by The Associated Press</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 27 June 2018</li><li>about [3121 (album)](../../topics/album/3121/index.md), [Emancipation (album)](../../topics/album/emancipation/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Legacy Recordings](../../topics/legacy-recordings/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Sony Music Entertainment](../../topics/sony-music-entertainment/index.md), [The Gold Experience (album)](../../topics/album/the-gold-experience/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Troy Carter](../../topics/troy-carter/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/3f346190027d4601a34fa81f7cf165a2))</li><ul>
+ - [**"Prince estate, Sony ink distribution deal for 35 albums"**](https://apnews.com/3f346190027d4601a34fa81f7cf165a2)<ul><li>by [The Associated Press](../../authors/the-associated-press/index.md)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 27 June 2018</li><li>about [3121 (album)](../../topics/album/3121/index.md), [Emancipation (album)](../../topics/album/emancipation/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Legacy Recordings](../../topics/legacy-recordings/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Sony Music Entertainment](../../topics/sony-music-entertainment/index.md), [The Gold Experience (album)](../../topics/album/the-gold-experience/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Troy Carter](../../topics/troy-carter/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/3f346190027d4601a34fa81f7cf165a2))</li><ul>
 
 ----
 
@@ -522,7 +522,7 @@
 
 ----
 
- - [**"AM Prep-Music -- PRINCE ESTATE SUES OVER VANITY 6 VIDEOS"**](https://apnews.com/c5d22deac09648a79db2114b7d03edd7)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 4 June 2018</li><li>about [Prince Estate](../../topics/prince-estate/index.md), [TuneCore](../../topics/tunecore/index.md), [Vanity 6](../../topics/vanity-6/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/c5d22deac09648a79db2114b7d03edd7))</li><ul>
+ - [**"AM Prep-Music -- PRINCE ESTATE SUES OVER VANITY 6 VIDEOS"**](https://apnews.com/c5d22deac09648a79db2114b7d03edd7)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 4 June 2018</li><li>about [lawsuit](../../topics/lawsuit/index.md), [Prince Estate](../../topics/prince-estate/index.md), [TuneCore](../../topics/tunecore/index.md), [Vanity 6](../../topics/vanity-6/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/c5d22deac09648a79db2114b7d03edd7))</li><ul>
 
 ----
 
@@ -530,7 +530,7 @@
 
 ----
 
- - [**"Prince’s estate sues Oklahoma man over posted music videos"**](https://apnews.com/159bd401de3f409695bf84487aeb18e8)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 1 June 2018</li><li>about [TuneCore](../../topics/tunecore/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/159bd401de3f409695bf84487aeb18e8))</li><ul>
+ - [**"Prince’s estate sues Oklahoma man over posted music videos"**](https://apnews.com/159bd401de3f409695bf84487aeb18e8)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 1 June 2018</li><li>about [lawsuit](../../topics/lawsuit/index.md), [TuneCore](../../topics/tunecore/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/159bd401de3f409695bf84487aeb18e8))</li><ul>
 
 ----
 
@@ -540,7 +540,7 @@
 
 ----
 
- - [**"As Prince heirs stew, bankers and lawyers cash in on estate"**](https://apnews.com/d9847863113d4ff8bd70850dd6a6cd2e)<ul><li>by Steve Karnowski (Associated Press)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 18 May 2018</li><li>about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Carver County](../../topics/carver-county/index.md), [Comerica](../../topics/comerica/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [opioid](../../topics/opioid/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Spotify](../../topics/spotify/index.md), [Tidal](../../topics/tidal/index.md), [Troy Carter](../../topics/troy-carter/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Universal Music Group](../../topics/universal-music-group/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/d9847863113d4ff8bd70850dd6a6cd2e))</li><ul>
+ - [**"As Prince heirs stew, bankers and lawyers cash in on estate"**](https://apnews.com/d9847863113d4ff8bd70850dd6a6cd2e)<ul><li>by [Steve Karnowski (Associated Press)](../../authors/associated-press/steve-karnowski/index.md)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 18 May 2018</li><li>about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Carver County](../../topics/carver-county/index.md), [Comerica](../../topics/comerica/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [lawsuit](../../topics/lawsuit/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [opioid](../../topics/opioid/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Spotify](../../topics/spotify/index.md), [Tidal](../../topics/tidal/index.md), [Troy Carter](../../topics/troy-carter/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Universal Music Group](../../topics/universal-music-group/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/d9847863113d4ff8bd70850dd6a6cd2e))</li><ul>
 
 ----
 
@@ -548,7 +548,7 @@
 
 ----
 
- - [**"Unreleased Prince music to be streamed on Tidal in 2019"**](https://apnews.com/feda2c28fd88407aa211aa7a46f6f943)<ul><li>by Amy Forliti (Associated Press)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 12 May 2018</li><li>about [NPG Records](../../topics/npg-records/index.md), [Troy Carter](../../topics/troy-carter/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/feda2c28fd88407aa211aa7a46f6f943))</li><ul>
+ - [**"Unreleased Prince music to be streamed on Tidal in 2019"**](https://apnews.com/feda2c28fd88407aa211aa7a46f6f943)<ul><li>by [Amy Forliti (Associated Press)](../../authors/associated-press/amy-forliti/index.md)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 12 May 2018</li><li>about [lawsuit](../../topics/lawsuit/index.md), [NPG Records](../../topics/npg-records/index.md), [Troy Carter](../../topics/troy-carter/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/feda2c28fd88407aa211aa7a46f6f943))</li><ul>
 
 ----
 
@@ -566,19 +566,19 @@
 
 ----
 
- - [**"Prince heirs sue Illinois hospital over care during overdose"**](https://apnews.com/83447f08715c4c7e92cd9427168b418d)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 24 April 2018</li><li>about [Atlanta (place)](../../topics/place/atlanta/index.md), [fentanyl](../../topics/fentanyl/index.md), [George Loucas](../../topics/george-loucas/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [John Goetz](../../topics/john-goetz/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [opioid](../../topics/opioid/index.md), [oxycodone](../../topics/oxycodone/index.md), [Trinity Medical Center (place)](../../topics/place/trinity-medical-center/index.md), [Vicodin](../../topics/vicodin/index.md), [Walgreens](../../topics/walgreens/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/83447f08715c4c7e92cd9427168b418d))</li><ul>
+ - [**"Prince heirs sue Illinois hospital over care during overdose"**](https://apnews.com/83447f08715c4c7e92cd9427168b418d)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 24 April 2018</li><li>about [Atlanta (place)](../../topics/place/atlanta/index.md), [fentanyl](../../topics/fentanyl/index.md), [George Loucas](../../topics/george-loucas/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [John Goetz](../../topics/john-goetz/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [lawsuit](../../topics/lawsuit/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [opioid](../../topics/opioid/index.md), [oxycodone](../../topics/oxycodone/index.md), [Trinity Medical Center (place)](../../topics/place/trinity-medical-center/index.md), [Vicodin](../../topics/vicodin/index.md), [Walgreens](../../topics/walgreens/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/83447f08715c4c7e92cd9427168b418d))</li><ul>
 
 ----
 
- - [**"Prince heirs sue Illinois hospital over care during overdose"**](https://apnews.com/article/1a8956d4c4504f87b482029863e730f8)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 24 April 2018</li><li>about [fentanyl](../../topics/fentanyl/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [opioid](../../topics/opioid/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Trinity Medical Center (place)](../../topics/place/trinity-medical-center/index.md), [Walgreens](../../topics/walgreens/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/1a8956d4c4504f87b482029863e730f8))</li><ul>
+ - [**"Prince heirs sue Illinois hospital over care during overdose"**](https://apnews.com/article/1a8956d4c4504f87b482029863e730f8)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 24 April 2018</li><li>about [fentanyl](../../topics/fentanyl/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [lawsuit](../../topics/lawsuit/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [opioid](../../topics/opioid/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Trinity Medical Center (place)](../../topics/place/trinity-medical-center/index.md), [Walgreens](../../topics/walgreens/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/1a8956d4c4504f87b482029863e730f8))</li><ul>
 
 ----
 
- - [**"Janelle Monáe to tout her new Prince-infused album July 3 at the State"**](https://www.startribune.com/janelle-monae-to-tout-her-new-prince-infused-album-july-3-at-the-state/480567481/)<ul><li>by Chris Riemenschneider</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 23 April 2018</li><li>about [Janelle Monae](../../topics/janelle-monae/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/janelle-monae-to-tout-her-new-prince-infused-album-july-3-at-the-state/480567481/))</li><ul>
+ - [**"Janelle Monáe to tout her new Prince-infused album July 3 at the State"**](https://www.startribune.com/janelle-monae-to-tout-her-new-prince-infused-album-july-3-at-the-state/480567481/)<ul><li>by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 23 April 2018</li><li>about [Janelle Monae](../../topics/janelle-monae/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/janelle-monae-to-tout-her-new-prince-infused-album-july-3-at-the-state/480567481/))</li><ul>
 
 ----
 
- - [**"Rediscovered Prince photos capture a playful rising star"**](https://www.startribune.com/rediscovered-prince-photos-capture-rising-star/480030753/)<ul><li>by Jon Bream</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 23 April 2018</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/rediscovered-prince-photos-capture-rising-star/480030753/))</li><ul>
+ - [**"Rediscovered Prince photos capture a playful rising star"**](https://www.startribune.com/rediscovered-prince-photos-capture-rising-star/480030753/)<ul><li>by [Jon Bream](../../authors/jon-bream/index.md)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 23 April 2018</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/rediscovered-prince-photos-capture-rising-star/480030753/))</li><ul>
 
 ----
 
@@ -602,7 +602,7 @@
 
 ----
 
- - [**"Investigation says Prince was isolated, addicted and in pain"**](https://apnews.com/94806d16569541d98032ce2b2f82aa6a)<ul><li>by Amy Forliti (Associated Press)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 21 April 2018</li><li>about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [Hannah Welton](../../topics/hannah-welton/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Joshua Welton](../../topics/joshua-welton/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Mark Metz](../../topics/mark-metz/index.md), [Meron Bekure](../../topics/meron-bekure/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [opioid](../../topics/opioid/index.md), [oxycodone](../../topics/oxycodone/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Vicodin](../../topics/vicodin/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/94806d16569541d98032ce2b2f82aa6a))</li><ul>
+ - [**"Investigation says Prince was isolated, addicted and in pain"**](https://apnews.com/94806d16569541d98032ce2b2f82aa6a)<ul><li>by [Amy Forliti (Associated Press)](../../authors/associated-press/amy-forliti/index.md)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 21 April 2018</li><li>about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [Hannah Welton](../../topics/hannah-welton/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Joshua Welton](../../topics/joshua-welton/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Mark Metz](../../topics/mark-metz/index.md), [Meron Bekure](../../topics/meron-bekure/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [opioid](../../topics/opioid/index.md), [oxycodone](../../topics/oxycodone/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Vicodin](../../topics/vicodin/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/94806d16569541d98032ce2b2f82aa6a))</li><ul>
 
 ----
 
@@ -614,7 +614,7 @@
 
 ----
 
- - [**"10 curious things we learned about Prince from the investigations -- He liked Häagen-Dazs ice cream, 5-Hour Energy drinks and MAC beauty products."**](https://www.startribune.com/10-curious-things-we-learned-about-prince-from-the-investigations/480364723/)<ul><li>by Jon Bream</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 20 April 2018</li><li>about [airport](../../topics/airport/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [CeeLo Green](../../topics/ceelo-green/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Esperanza Spalding](../../topics/esperanza-spalding/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Janelle Monae](../../topics/janelle-monae/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Larry Graham](../../topics/larry-graham/index.md), [North Memorial Medical Center (place)](../../topics/place/north-memorial-medical-center/index.md), [Peter Vang](../../topics/peter-vang/index.md), [Phaedra Ellis Lamkin](../../topics/phaedra-ellis-lamkin/index.md), [Rita Ora](../../topics/rita-ora/index.md), [Sheila E.](../../topics/sheila-e/index.md), [U Got the Look (song)](../../topics/song/u-got-the-look/index.md), [vault](../../topics/vault/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/10-curious-things-we-learned-about-prince-from-the-investigations/480364723/))</li><ul>
+ - [**"10 curious things we learned about Prince from the investigations -- He liked Häagen-Dazs ice cream, 5-Hour Energy drinks and MAC beauty products."**](https://www.startribune.com/10-curious-things-we-learned-about-prince-from-the-investigations/480364723/)<ul><li>by [Jon Bream](../../authors/jon-bream/index.md)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 20 April 2018</li><li>about [airport](../../topics/airport/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [CeeLo Green](../../topics/ceelo-green/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Esperanza Spalding](../../topics/esperanza-spalding/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Janelle Monae](../../topics/janelle-monae/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Larry Graham](../../topics/larry-graham/index.md), [North Memorial Medical Center (place)](../../topics/place/north-memorial-medical-center/index.md), [Peter Vang](../../topics/peter-vang/index.md), [Phaedra Ellis Lamkin](../../topics/phaedra-ellis-lamkin/index.md), [Rita Ora](../../topics/rita-ora/index.md), [Sheila E.](../../topics/sheila-e/index.md), [U Got the Look (song)](../../topics/song/u-got-the-look/index.md), [vault](../../topics/vault/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/10-curious-things-we-learned-about-prince-from-the-investigations/480364723/))</li><ul>
 
 ----
 
@@ -622,11 +622,11 @@
 
 ----
 
- - [**"As Prince's health waned, alarm grew in inner circle"**](https://www.startribune.com/as-prince-s-health-waned-alarm-grew-in-inner-circle/480336433/)<ul><li>by Amy Forliti (Associated Press)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 20 April 2018</li><li>about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Mark Metz](../../topics/mark-metz/index.md), [Meron Bekure](../../topics/meron-bekure/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [oxycodone](../../topics/oxycodone/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/as-prince-s-health-waned-alarm-grew-in-inner-circle/480336433/))</li><ul>
+ - [**"As Prince's health waned, alarm grew in inner circle"**](https://www.startribune.com/as-prince-s-health-waned-alarm-grew-in-inner-circle/480336433/)<ul><li>by [Amy Forliti (Associated Press)](../../authors/associated-press/amy-forliti/index.md)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 20 April 2018</li><li>about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Mark Metz](../../topics/mark-metz/index.md), [Meron Bekure](../../topics/meron-bekure/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [oxycodone](../../topics/oxycodone/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/as-prince-s-health-waned-alarm-grew-in-inner-circle/480336433/))</li><ul>
 
 ----
 
- - [**"Carver County closes Prince death investigation with no criminal charges -- After 2-year probe, supplier of fatal drug eludes investigators"**](https://www.startribune.com/no-charges-in-prince-death-investigation/480252103/)<ul><li>by Stephen Montemayor</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 20 April 2018</li><li>about [Carver County](../../topics/carver-county/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/no-charges-in-prince-death-investigation/480252103/))</li><ul>
+ - [**"Carver County closes Prince death investigation with no criminal charges -- After 2-year probe, supplier of fatal drug eludes investigators"**](https://www.startribune.com/no-charges-in-prince-death-investigation/480252103/)<ul><li>by [Stephen Montemayor](../../authors/stephen-montemayor/index.md)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 20 April 2018</li><li>about [Carver County](../../topics/carver-county/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/no-charges-in-prince-death-investigation/480252103/))</li><ul>
 
 ----
 
@@ -634,15 +634,15 @@
 
 ----
 
- - [**"Documents: Airplane scare was beginning of the end of Prince's struggles with opioids -- Long-awaited investigative documents released Thursday give the clearest narrative yet of the singer's problems with opioid addiction in his final days."**](https://www.startribune.com/documents-airplane-scare-was-beginning-of-the-end-of-prince-s-struggles-with-opioids/480325903/)<ul><li>by Dan Browning, David Chanen</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 20 April 2018</li><li>about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [fentanyl](../../topics/fentanyl/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Meron Bekure](../../topics/meron-bekure/index.md), [Vicodin](../../topics/vicodin/index.md), [Walgreens](../../topics/walgreens/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/documents-airplane-scare-was-beginning-of-the-end-of-prince-s-struggles-with-opioids/480325903/))</li><ul>
+ - [**"Documents: Airplane scare was beginning of the end of Prince's struggles with opioids -- Long-awaited investigative documents released Thursday give the clearest narrative yet of the singer's problems with opioid addiction in his final days."**](https://www.startribune.com/documents-airplane-scare-was-beginning-of-the-end-of-prince-s-struggles-with-opioids/480325903/)<ul><li>by [Dan Browning](../../authors/dan-browning/index.md), [David Chanen](../../authors/david-chanen/index.md)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 20 April 2018</li><li>about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [fentanyl](../../topics/fentanyl/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Meron Bekure](../../topics/meron-bekure/index.md), [Vicodin](../../topics/vicodin/index.md), [Walgreens](../../topics/walgreens/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/documents-airplane-scare-was-beginning-of-the-end-of-prince-s-struggles-with-opioids/480325903/))</li><ul>
 
 ----
 
- - [**"Files show rising alarm in Prince’s circle as health failed"**](https://apnews.com/01ab0aaba1ab4e719af50e79319afdfb)<ul><li>by Amy Forliti (Associated Press)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 20 April 2018</li><li>about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Mark Metz](../../topics/mark-metz/index.md), [Meron Bekure](../../topics/meron-bekure/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [opioid](../../topics/opioid/index.md), [oxycodone](../../topics/oxycodone/index.md), [toxicology report](../../topics/toxicology-report/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/01ab0aaba1ab4e719af50e79319afdfb))</li><ul>
+ - [**"Files show rising alarm in Prince’s circle as health failed"**](https://apnews.com/01ab0aaba1ab4e719af50e79319afdfb)<ul><li>by [Amy Forliti (Associated Press)](../../authors/associated-press/amy-forliti/index.md)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 20 April 2018</li><li>about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Mark Metz](../../topics/mark-metz/index.md), [Meron Bekure](../../topics/meron-bekure/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [opioid](../../topics/opioid/index.md), [oxycodone](../../topics/oxycodone/index.md), [toxicology report](../../topics/toxicology-report/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/01ab0aaba1ab4e719af50e79319afdfb))</li><ul>
 
 ----
 
- - [**"Prince fans converge on Paisley Park for a more celebratory Celebration -- Paisley Park's second annual fan gathering kicked off with a (mostly) upbeat set by Sheila E."**](https://www.startribune.com/prince-fans-converge-on-paisley-park-for-a-more-celebratory-celebration/480314653/)<ul><li>by Chris Riemenschneider</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 20 April 2018</li><li>about [Sheila E.](../../topics/sheila-e/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-fans-converge-on-paisley-park-for-a-more-celebratory-celebration/480314653/))</li><ul>
+ - [**"Prince fans converge on Paisley Park for a more celebratory Celebration -- Paisley Park's second annual fan gathering kicked off with a (mostly) upbeat set by Sheila E."**](https://www.startribune.com/prince-fans-converge-on-paisley-park-for-a-more-celebratory-celebration/480314653/)<ul><li>by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 20 April 2018</li><li>about [Sheila E.](../../topics/sheila-e/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-fans-converge-on-paisley-park-for-a-more-celebratory-celebration/480314653/))</li><ul>
 
 ----
 
@@ -690,7 +690,7 @@
 
 ----
 
- - [**"Prince death investigation complete press conference -- Carver County Attorney Mark Metz announced Thursday that he was closing the two-year investigation into the death of Prince without issuing any criminal charges."**](http://video.startribune.com/prince-death-investigation-complete-press-conference/480279253/)<ul><li>by Mark Vancleave</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 19 April 2018</li><li>about [Carver County](../../topics/carver-county/index.md), [Mark Metz](../../topics/mark-metz/index.md)</li><li>([mirror](https://web.archive.org/web/*/http://video.startribune.com/prince-death-investigation-complete-press-conference/480279253/))</li><ul>
+ - [**"Prince death investigation complete press conference -- Carver County Attorney Mark Metz announced Thursday that he was closing the two-year investigation into the death of Prince without issuing any criminal charges."**](http://video.startribune.com/prince-death-investigation-complete-press-conference/480279253/)<ul><li>by [Mark Vancleave](../../authors/mark-vancleave/index.md)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 19 April 2018</li><li>about [Carver County](../../topics/carver-county/index.md), [Mark Metz](../../topics/mark-metz/index.md)</li><li>([mirror](https://web.archive.org/web/*/http://video.startribune.com/prince-death-investigation-complete-press-conference/480279253/))</li><ul>
 
 ----
 
@@ -698,7 +698,7 @@
 
 ----
 
- - [**"Prince was a high-profile casualty to fentanyl-laced pill scourge -- The megastar unknowingly took counterfeit Vicodin painkillers that actually contained fentanyl. In so doing, he appears to have become another casualty to a worrying trend."**](https://www.startribune.com/prince-was-a-high-profile-casualty-to-fentanyl-laced-pill-scourge/480297873/)<ul><li>by Stephen Montemayor</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 19 April 2018</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-was-a-high-profile-casualty-to-fentanyl-laced-pill-scourge/480297873/))</li><ul>
+ - [**"Prince was a high-profile casualty to fentanyl-laced pill scourge -- The megastar unknowingly took counterfeit Vicodin painkillers that actually contained fentanyl. In so doing, he appears to have become another casualty to a worrying trend."**](https://www.startribune.com/prince-was-a-high-profile-casualty-to-fentanyl-laced-pill-scourge/480297873/)<ul><li>by [Stephen Montemayor](../../authors/stephen-montemayor/index.md)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 19 April 2018</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-was-a-high-profile-casualty-to-fentanyl-laced-pill-scourge/480297873/))</li><ul>
 
 ----
 
@@ -722,7 +722,7 @@
 
 ----
 
- - [**"Everything was cool once keyboardist Morris Hayes figured out which Prince had arrived"**](https://www.startribune.com/c-j-everything-was-cool-once-keyboardist-morris-hayes-figured-out-which-prince-had-arrived/480052643/)<ul><li>by C.J. (Cheryl Johnson)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 18 April 2018</li><li>about [Morris Hayes](../../topics/morris-hayes/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/c-j-everything-was-cool-once-keyboardist-morris-hayes-figured-out-which-prince-had-arrived/480052643/))</li><ul>
+ - [**"Everything was cool once keyboardist Morris Hayes figured out which Prince had arrived"**](https://www.startribune.com/c-j-everything-was-cool-once-keyboardist-morris-hayes-figured-out-which-prince-had-arrived/480052643/)<ul><li>by [C.J. (Cheryl Johnson)](../../authors/c-j-cheryl-johnson/index.md)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 18 April 2018</li><li>about [Morris Hayes](../../topics/morris-hayes/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/c-j-everything-was-cool-once-keyboardist-morris-hayes-figured-out-which-prince-had-arrived/480052643/))</li><ul>
 
 ----
 
@@ -738,11 +738,11 @@
 
 ----
 
- - [**"Prince had his hair done before bed, and other 'alumni' stories at U symposium"**](https://www.startribune.com/prince-had-his-hair-done-before-bed-and-other-alumni-stories-at-u-symposium/480170433/)<ul><li>by Chris Riemenschneider</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 18 April 2018</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-had-his-hair-done-before-bed-and-other-alumni-stories-at-u-symposium/480170433/))</li><ul>
+ - [**"Prince had his hair done before bed, and other 'alumni' stories at U symposium"**](https://www.startribune.com/prince-had-his-hair-done-before-bed-and-other-alumni-stories-at-u-symposium/480170433/)<ul><li>by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 18 April 2018</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-had-his-hair-done-before-bed-and-other-alumni-stories-at-u-symposium/480170433/))</li><ul>
 
 ----
 
- - [**"Prosecutor to announce Thursday whether charges will be filed in Prince's death -- To date, no one has been charged or publicly implicated in the musician's death."**](https://www.startribune.com/investigation-into-prince-s-death-wraps-up/480141583/)<ul><li>by David Chanen</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 18 April 2018</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/investigation-into-prince-s-death-wraps-up/480141583/))</li><ul>
+ - [**"Prosecutor to announce Thursday whether charges will be filed in Prince's death -- To date, no one has been charged or publicly implicated in the musician's death."**](https://www.startribune.com/investigation-into-prince-s-death-wraps-up/480141583/)<ul><li>by [David Chanen](../../authors/david-chanen/index.md)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 18 April 2018</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/investigation-into-prince-s-death-wraps-up/480141583/))</li><ul>
 
 ----
 
@@ -750,7 +750,7 @@
 
 ----
 
- - [**"Timeline of key events in investigation into Prince’s death"**](https://apnews.com/article/c6322559d0574b51a99f43da1d26f8d0)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 18 April 2018</li><li>about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [California (place)](../../topics/place/california/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Mark Metz](../../topics/mark-metz/index.md), [Michael Schulenberg](../../topics/michael-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [opioid](../../topics/opioid/index.md), [oxycodone](../../topics/oxycodone/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Percocet](../../topics/percocet/index.md), [toxicology report](../../topics/toxicology-report/index.md), [U-47700](../../topics/u-47700/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/c6322559d0574b51a99f43da1d26f8d0))</li><ul>
+ - [**"Timeline of key events in investigation into Prince’s death"**](https://apnews.com/article/c6322559d0574b51a99f43da1d26f8d0)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 18 April 2018</li><li>about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [California (place)](../../topics/place/california/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [lawsuit](../../topics/lawsuit/index.md), [Mark Metz](../../topics/mark-metz/index.md), [Michael Schulenberg](../../topics/michael-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [opioid](../../topics/opioid/index.md), [oxycodone](../../topics/oxycodone/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Percocet](../../topics/percocet/index.md), [toxicology report](../../topics/toxicology-report/index.md), [U-47700](../../topics/u-47700/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/c6322559d0574b51a99f43da1d26f8d0))</li><ul>
 
 ----
 
@@ -758,11 +758,11 @@
 
 ----
 
- - [**"Owen Husney reflects on meeting a teenage Prince: ‘He was not an icon then. He was a brilliant human being who was living in a basement’"**](https://blog.thecurrent.org/2018/04/owen-husney-reflects-on-meeting-a-teenage-prince-he-was-not-an-icon-then-he-was-a-brilliant-human-being-who-was-living-in-a-basement/)<ul><li>in [The Current - Local Current Blog](https://blog.thecurrent.org/)</li><li>on 17 April 2018</li><li>about [André Cymone](../../topics/andr-cymone/index.md), [Bobby Z.](../../topics/bobby-z/index.md), [Chris Moon](../../topics/chris-moon/index.md), [Cloud bass](../../topics/cloud-bass/index.md), [Cloud guitar](../../topics/cloud-guitar/index.md), [contract](../../topics/contract/index.md), [Dave Rusan](../../topics/dave-rusan/index.md), [For You (album)](../../topics/album/for-you/index.md), [James Brown](../../topics/james-brown/index.md), [memoir](../../topics/memoir/index.md), [Owen Husney](../../topics/owen-husney/index.md), [Record Plant](../../topics/record-plant/index.md), [Sausalito (place)](../../topics/place/sausalito/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2018/04/owen-husney-reflects-on-meeting-a-teenage-prince-he-was-not-an-icon-then-he-was-a-brilliant-human-being-who-was-living-in-a-basement/))</li><ul>
+ - [**"Owen Husney reflects on meeting a teenage Prince: ‘He was not an icon then. He was a brilliant human being who was living in a basement’"**](https://blog.thecurrent.org/2018/04/owen-husney-reflects-on-meeting-a-teenage-prince-he-was-not-an-icon-then-he-was-a-brilliant-human-being-who-was-living-in-a-basement/)<ul><li>in [The Current - Local Current Blog](https://blog.thecurrent.org/)</li><li>on 17 April 2018</li><li>about [André Cymone](../../topics/andr-cymone/index.md), [Bobby Z.](../../topics/bobby-z/index.md), [Chris Moon](../../topics/chris-moon/index.md), [Cloud bass](../../topics/cloud-bass/index.md), [Cloud guitar (instrument)](../../topics/instrument/cloud-guitar/index.md), [contract](../../topics/contract/index.md), [Dave Rusan](../../topics/dave-rusan/index.md), [For You (album)](../../topics/album/for-you/index.md), [James Brown](../../topics/james-brown/index.md), [memoir](../../topics/memoir/index.md), [Owen Husney](../../topics/owen-husney/index.md), [Record Plant](../../topics/record-plant/index.md), [Sausalito (place)](../../topics/place/sausalito/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2018/04/owen-husney-reflects-on-meeting-a-teenage-prince-he-was-not-an-icon-then-he-was-a-brilliant-human-being-who-was-living-in-a-basement/))</li><ul>
 
 ----
 
- - [**"The scholarly Prince: U symposium explores musical icon’s link to Minneapolis"**](https://apnews.com/6a20afbf0eeb41c9a728cbaaa1c2af71)<ul><li>by Jon Bream</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 16 April 2018</li><li>about [Joni Mitchell](../../topics/joni-mitchell/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/6a20afbf0eeb41c9a728cbaaa1c2af71))</li><ul>
+ - [**"The scholarly Prince: U symposium explores musical icon’s link to Minneapolis"**](https://apnews.com/6a20afbf0eeb41c9a728cbaaa1c2af71)<ul><li>by [Jon Bream](../../authors/jon-bream/index.md)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 16 April 2018</li><li>about [Joni Mitchell](../../topics/joni-mitchell/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/6a20afbf0eeb41c9a728cbaaa1c2af71))</li><ul>
 
 ----
 
@@ -770,11 +770,7 @@
 
 ----
 
- - [**"In Minneapolis, Portuguese star Ana Moura offers world premiere of song she wrote with Prince"**](https://www.startribune.com/in-minneapolis-portuguese-star-ana-moura-offers-world-premiere-of-song-she-wrote-with-prince/479234123/)<ul><li>by Jon Bream</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 10 April 2018</li><li>about [Ana Moura](../../topics/ana-moura/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/in-minneapolis-portuguese-star-ana-moura-offers-world-premiere-of-song-she-wrote-with-prince/479234123/))</li><ul>
-
-----
-
- - [**"Minnesota music mogul writes about his life with Elvis, Jimi, Janis and Prince"**](https://apnews.com/40d0b497f55245a88a7b38c926003e4f)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 7 April 2018</li><li>about [Central High](../../topics/central-high/index.md), [Chris Moon](../../topics/chris-moon/index.md), [contract](../../topics/contract/index.md), [Jesse Johnson](../../topics/jesse-johnson/index.md), [memoir](../../topics/memoir/index.md), [Owen Husney](../../topics/owen-husney/index.md), [St. Louis Park (place)](../../topics/place/st-louis-park/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/40d0b497f55245a88a7b38c926003e4f))</li><ul>
+ - [**"In Minneapolis, Portuguese star Ana Moura offers world premiere of song she wrote with Prince"**](https://www.startribune.com/in-minneapolis-portuguese-star-ana-moura-offers-world-premiere-of-song-she-wrote-with-prince/479234123/)<ul><li>by [Jon Bream](../../authors/jon-bream/index.md)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 10 April 2018</li><li>about [Ana Moura](../../topics/ana-moura/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/in-minneapolis-portuguese-star-ana-moura-offers-world-premiere-of-song-she-wrote-with-prince/479234123/))</li><ul>
 
 ----
 
@@ -782,13 +778,17 @@
 
 ----
 
- - [**"Academics take aim at Prince in symposium April 16-18 at U of M"**](https://www.startribune.com/academics-take-aim-at-prince-in-symposium-april-16-18-at-u-of-m/478678993/)<ul><li>by Jon Bream</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 3 April 2018</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/academics-take-aim-at-prince-in-symposium-april-16-18-at-u-of-m/478678993/))</li><ul>
+ - [**"Minnesota music mogul writes about his life with Elvis, Jimi, Janis and Prince"**](https://apnews.com/40d0b497f55245a88a7b38c926003e4f)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 6 April 2018</li><li>about [Central High](../../topics/central-high/index.md), [Chris Moon](../../topics/chris-moon/index.md), [contract](../../topics/contract/index.md), [demo tape](../../topics/demo-tape/index.md), [Jesse Johnson](../../topics/jesse-johnson/index.md), [memoir](../../topics/memoir/index.md), [Owen Husney](../../topics/owen-husney/index.md), [St. Louis Park (place)](../../topics/place/st-louis-park/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/40d0b497f55245a88a7b38c926003e4f))</li><ul>
 
 ----
 
-## March 2018 (18)
+ - [**"Academics take aim at Prince in symposium April 16-18 at U of M"**](https://www.startribune.com/academics-take-aim-at-prince-in-symposium-april-16-18-at-u-of-m/478678993/)<ul><li>by [Jon Bream](../../authors/jon-bream/index.md)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 3 April 2018</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/academics-take-aim-at-prince-in-symposium-april-16-18-at-u-of-m/478678993/))</li><ul>
 
- - [**"Prince family lawyers to view data for potential lawsuit"**](https://apnews.com/72fbe461381a43a096ebd1c15fae80bf)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 28 March 2018</li><li>about [Carver County](../../topics/carver-county/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Mark Metz](../../topics/mark-metz/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/72fbe461381a43a096ebd1c15fae80bf))</li><ul>
+----
+
+## March 2018 (19)
+
+ - [**"Prince family lawyers to view data for potential lawsuit"**](https://apnews.com/72fbe461381a43a096ebd1c15fae80bf)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 28 March 2018</li><li>about [Carver County](../../topics/carver-county/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [lawsuit](../../topics/lawsuit/index.md), [Mark Metz](../../topics/mark-metz/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/72fbe461381a43a096ebd1c15fae80bf))</li><ul>
 
 ----
 
@@ -796,7 +796,7 @@
 
 ----
 
- - [**"Experts: Prince toxicology report shows very high drug level"**](https://apnews.com/f80bf6952ecf4d02a675b9fac69d7dc6)<ul><li>by Amy Forliti (Associated Press)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 27 March 2018</li><li>about [fentanyl](../../topics/fentanyl/index.md), [opioid](../../topics/opioid/index.md), [toxicology report](../../topics/toxicology-report/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/f80bf6952ecf4d02a675b9fac69d7dc6))</li><ul>
+ - [**"Experts: Prince toxicology report shows very high drug level"**](https://apnews.com/f80bf6952ecf4d02a675b9fac69d7dc6)<ul><li>by [Amy Forliti (Associated Press)](../../authors/associated-press/amy-forliti/index.md)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 27 March 2018</li><li>about [fentanyl](../../topics/fentanyl/index.md), [opioid](../../topics/opioid/index.md), [toxicology report](../../topics/toxicology-report/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/f80bf6952ecf4d02a675b9fac69d7dc6))</li><ul>
 
 ----
 
@@ -816,7 +816,7 @@
 
 ----
 
- - [**"Officials to turn over Prince investigative files to family"**](https://apnews.com/d839a494ad2a4dc0908321c824244b0d)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 22 March 2018</li><li>about [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [John Goetz](../../topics/john-goetz/index.md), [Mark Metz](../../topics/mark-metz/index.md), [opioid](../../topics/opioid/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/d839a494ad2a4dc0908321c824244b0d))</li><ul>
+ - [**"Officials to turn over Prince investigative files to family"**](https://apnews.com/d839a494ad2a4dc0908321c824244b0d)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 22 March 2018</li><li>about [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [John Goetz](../../topics/john-goetz/index.md), [lawsuit](../../topics/lawsuit/index.md), [Mark Metz](../../topics/mark-metz/index.md), [opioid](../../topics/opioid/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/d839a494ad2a4dc0908321c824244b0d))</li><ul>
 
 ----
 
@@ -828,11 +828,15 @@
 
 ----
 
+ - [**"Music by Prince's father featured on new album, tracking 'that DNA thing' -- John L. Nelson's daughter has produced a CD of his tunes played by jazz all-stars."**](https://www.startribune.com/music-by-prince-s-father-featured-on-new-album-tracking-that-dna-thing/476308573/)<ul><li>by [Jon Bream](../../authors/jon-bream/index.md)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 10 March 2018</li><li>about [Adi Yeshaya](../../topics/adi-yeshaya/index.md), [Cannonball Legacy Band](../../topics/cannonball-legacy-band/index.md), [Don’t Play With Love (album)](../../topics/album/don-t-play-with-love/index.md), [Don’t Play With Love (song)](../../topics/song/don-t-play-with-love/index.md), [Duke Ellington](../../topics/duke-ellington/index.md), [Father’s Song (album)](../../topics/album/father-s-song/index.md), [Father’s Song (song)](../../topics/song/father-s-song/index.md), [Honeywell (place)](../../topics/place/honeywell/index.md), [Jeremy Pelt](../../topics/jeremy-pelt/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [John L. Nelson Project](../../topics/john-l-nelson-project/index.md), [Louis Hayes](../../topics/louis-hayes/index.md), [Owen Husney](../../topics/owen-husney/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Rick Germanson](../../topics/rick-germanson/index.md), [Scandalous (song)](../../topics/song/scandalous/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Soft and Wet (song)](../../topics/song/soft-and-wet/index.md), [Vincent Herring](../../topics/vincent-herring/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/music-by-prince-s-father-featured-on-new-album-tracking-that-dna-thing/476308573/))</li><ul>
+
+----
+
  - [**"Paper: Solicitor’s records show $932 island hotel spending"**](https://apnews.com/9079400c8e7745559ed13953e9a658ef)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 9 March 2018</li><li>about [Minnesota Twins](../../topics/minnesota-twins/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/9079400c8e7745559ed13953e9a658ef))</li><ul>
 
 ----
 
- - [**"Music by Prince’s father featured on new album, tracking ‘that DNA thing’"**](https://apnews.com/869e0302972c4e36aa99981332602cd0)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 8 March 2018</li><li>about [John L. Nelson](../../topics/john-l-nelson/index.md), [museum](../../topics/museum/index.md), [Owen Husney](../../topics/owen-husney/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Trump](../../topics/trump/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/869e0302972c4e36aa99981332602cd0))</li><ul>
+ - [**"Music by Prince’s father featured on new album, tracking ‘that DNA thing’"**](https://apnews.com/869e0302972c4e36aa99981332602cd0)<ul><li>by [Jon Bream](../../authors/jon-bream/index.md)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 8 March 2018</li><li>about [Adi Yeshaya](../../topics/adi-yeshaya/index.md), [Cannonball Legacy Band](../../topics/cannonball-legacy-band/index.md), [Don’t Play With Love (album)](../../topics/album/don-t-play-with-love/index.md), [Don’t Play With Love (song)](../../topics/song/don-t-play-with-love/index.md), [Duke Ellington](../../topics/duke-ellington/index.md), [Father’s Song (album)](../../topics/album/father-s-song/index.md), [Father’s Song (song)](../../topics/song/father-s-song/index.md), [Honeywell (place)](../../topics/place/honeywell/index.md), [Jeremy Pelt](../../topics/jeremy-pelt/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [John L. Nelson Project](../../topics/john-l-nelson-project/index.md), [Louis Hayes](../../topics/louis-hayes/index.md), [Owen Husney](../../topics/owen-husney/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Rick Germanson](../../topics/rick-germanson/index.md), [Scandalous (song)](../../topics/song/scandalous/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Soft and Wet (song)](../../topics/song/soft-and-wet/index.md), [Vincent Herring](../../topics/vincent-herring/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/869e0302972c4e36aa99981332602cd0))</li><ul>
 
 ----
 
@@ -840,7 +844,7 @@
 
 ----
 
- - [**"Review: John L. Nelson Project records jazz by Prince's dad"**](https://www.startribune.com/review-john-l-nelson-project-records-jazz-by-prince-s-dad/476151463/)<ul><li>by Pablo Gorondi (Associated Press)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 7 March 2018</li><li>about [John L. Nelson](../../topics/john-l-nelson/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/review-john-l-nelson-project-records-jazz-by-prince-s-dad/476151463/))</li><ul>
+ - [**"Review: John L. Nelson Project records jazz by Prince's dad"**](https://www.startribune.com/review-john-l-nelson-project-records-jazz-by-prince-s-dad/476151463/)<ul><li>by [Pablo Gorondi (Associated Press)](../../authors/associated-press/pablo-gorondi/index.md)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 7 March 2018</li><li>about [John L. Nelson](../../topics/john-l-nelson/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/review-john-l-nelson-project-records-jazz-by-prince-s-dad/476151463/))</li><ul>
 
 ----
 
@@ -848,15 +852,15 @@
 
 ----
 
- - [**"Prince heirs claim excessive lawyer's fees will leave 'little … to pass on' -- Estate has been estimated to be worth $100 million to $300 million before tax."**](https://www.startribune.com/prince-heirs-claim-excessive-lawyer-s-fees-will-leave-nothing-for-inheritance/475689933/)<ul><li>by David Chanen</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 2 March 2018</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-heirs-claim-excessive-lawyer-s-fees-will-leave-nothing-for-inheritance/475689933/))</li><ul>
+ - [**"Prince heirs claim excessive lawyer's fees will leave 'little … to pass on' -- Estate has been estimated to be worth $100 million to $300 million before tax."**](https://www.startribune.com/prince-heirs-claim-excessive-lawyer-s-fees-will-leave-nothing-for-inheritance/475689933/)<ul><li>by [David Chanen](../../authors/david-chanen/index.md)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 2 March 2018</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-heirs-claim-excessive-lawyer-s-fees-will-leave-nothing-for-inheritance/475689933/))</li><ul>
 
 ----
 
- - [**"Recording of jazz compositions by Prince’s father released"**](https://apnews.com/266d5d7ee9454715a6f8c4cfddb7bf77)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 2 March 2018</li><li>about [John L. Nelson](../../topics/john-l-nelson/index.md), [John Nelson](../../topics/john-nelson/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/266d5d7ee9454715a6f8c4cfddb7bf77))</li><ul>
+ - [**"Recording of jazz compositions by Prince’s father released"**](https://apnews.com/266d5d7ee9454715a6f8c4cfddb7bf77)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 2 March 2018</li><li>about [Don’t Play With Love (album)](../../topics/album/don-t-play-with-love/index.md), [Don’t Play With Love (song)](../../topics/song/don-t-play-with-love/index.md), [Jeremy Pelt](../../topics/jeremy-pelt/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [John L. Nelson Project](../../topics/john-l-nelson-project/index.md), [John Nelson](../../topics/john-nelson/index.md), [Louis Hayes](../../topics/louis-hayes/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Paisley Park Studios (place)](../../topics/place/paisley-park-studios/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Vincent Herring](../../topics/vincent-herring/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/266d5d7ee9454715a6f8c4cfddb7bf77))</li><ul>
 
 ----
 
- - [**"Recording of jazz compositions by Prince's father released"**](https://www.startribune.com/recording-of-jazz-compositions-by-prince-s-father-released/475668083/)<ul><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 2 March 2018</li><li>about [John L. Nelson](../../topics/john-l-nelson/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/recording-of-jazz-compositions-by-prince-s-father-released/475668083/))</li><ul>
+ - [**"Recording of jazz compositions by Prince's father released"**](https://www.startribune.com/recording-of-jazz-compositions-by-prince-s-father-released/475668083/)<ul><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 2 March 2018</li><li>about [Don't Play With Love (album)](../../topics/album/don-t-play-with-love/index.md), [Don't Play With Love (song)](../../topics/song/don-t-play-with-love/index.md), [Jeremy Pelt](../../topics/jeremy-pelt/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [John L. Nelson Project](../../topics/john-l-nelson-project/index.md), [John Nelson](../../topics/john-nelson/index.md), [Louis Hayes](../../topics/louis-hayes/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Sharon L. Nelson](../../topics/sharon-l-nelson/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Vincent Herring](../../topics/vincent-herring/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/recording-of-jazz-compositions-by-prince-s-father-released/475668083/))</li><ul>
 
 ----
 
@@ -878,15 +882,15 @@
 
 ----
 
- - [**"Second annual Celebration at Prince's Paisley Park to feature Sheila E., fDeluxe, NPG"**](https://www.startribune.com/second-annual-celebration-at-prince-s-paisley-park-to-feature-sheila-e-fdeluxe-npg/474975113/)<ul><li>by Chris Riemenschneider</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 23 February 2018</li><li>about [fDeluxe](../../topics/fdeluxe/index.md), [Sheila E.](../../topics/sheila-e/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/second-annual-celebration-at-prince-s-paisley-park-to-feature-sheila-e-fdeluxe-npg/474975113/))</li><ul>
+ - [**"Second annual Celebration at Prince's Paisley Park to feature Sheila E., fDeluxe, NPG"**](https://www.startribune.com/second-annual-celebration-at-prince-s-paisley-park-to-feature-sheila-e-fdeluxe-npg/474975113/)<ul><li>by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 23 February 2018</li><li>about [fDeluxe](../../topics/fdeluxe/index.md), [Sheila E.](../../topics/sheila-e/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/second-annual-celebration-at-prince-s-paisley-park-to-feature-sheila-e-fdeluxe-npg/474975113/))</li><ul>
 
 ----
 
- - [**"Meet Dave Rusan, builder of Prince's iconic Cloud Guitar"**](https://www.thecurrent.org/feature/2018/02/15/meet-dave-rusan-builder-of-princes-iconic-cloud-guitar)<ul><li>in [The Current](https://www.thecurrent.org/)</li><li>on 15 February 2018</li><li>about [Cloud guitar](../../topics/cloud-guitar/index.md), [Dave Rusan](../../topics/dave-rusan/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2018/02/15/meet-dave-rusan-builder-of-princes-iconic-cloud-guitar))</li><ul>
+ - [**"Meet Dave Rusan, builder of Prince's iconic Cloud Guitar"**](https://www.thecurrent.org/feature/2018/02/15/meet-dave-rusan-builder-of-princes-iconic-cloud-guitar)<ul><li>in [The Current](https://www.thecurrent.org/)</li><li>on 15 February 2018</li><li>about [Cloud guitar (instrument)](../../topics/instrument/cloud-guitar/index.md), [Dave Rusan](../../topics/dave-rusan/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2018/02/15/meet-dave-rusan-builder-of-princes-iconic-cloud-guitar))</li><ul>
 
 ----
 
- - [**"Prince’s siblings seek release of records related to singer’s death"**](https://apnews.com/article/107709159cae04ce00e3ce016a7523ab)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 8 February 2018</li><li>about [opioid](../../topics/opioid/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/107709159cae04ce00e3ce016a7523ab))</li><ul>
+ - [**"Prince’s siblings seek release of records related to singer’s death"**](https://apnews.com/article/107709159cae04ce00e3ce016a7523ab)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 8 February 2018</li><li>about [lawsuit](../../topics/lawsuit/index.md), [opioid](../../topics/opioid/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/107709159cae04ce00e3ce016a7523ab))</li><ul>
 
 ----
 
@@ -898,7 +902,7 @@
 
 ----
 
- - [**"Prince white Cloud guitar among items set for auction"**](https://apnews.com/585874d2a9a74663ac38ebc688d75a5d)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 5 February 2018</li><li>about [auction](../../topics/auction/index.md), [Cloud guitar](../../topics/cloud-guitar/index.md), [Dave Rusan](../../topics/dave-rusan/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/585874d2a9a74663ac38ebc688d75a5d))</li><ul>
+ - [**"Prince white Cloud guitar among items set for auction"**](https://apnews.com/585874d2a9a74663ac38ebc688d75a5d)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 5 February 2018</li><li>about [auction](../../topics/auction/index.md), [Cloud guitar (instrument)](../../topics/instrument/cloud-guitar/index.md), [Dave Rusan](../../topics/dave-rusan/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/585874d2a9a74663ac38ebc688d75a5d))</li><ul>
 
 ----
 
@@ -928,7 +932,7 @@
 
 ----
 
- - [**"Super-sized Prince party rocks Nicollet Mall -- Three acts closely associated with the Minnesota rock legend — none of whom had played together since his 2016 death — showed their singular dedication by performing his songs outside in single-digit temperatures for the Super Bowl Live concert series."**](https://www.startribune.com/super-sized-prince-party-rocks-nicollet-mall/471712573/)<ul><li>by Chris Riemenschneider</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 29 January 2018</li><li>about [Super Bowl](../../topics/super-bowl/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/super-sized-prince-party-rocks-nicollet-mall/471712573/))</li><ul>
+ - [**"Super-sized Prince party rocks Nicollet Mall -- Three acts closely associated with the Minnesota rock legend — none of whom had played together since his 2016 death — showed their singular dedication by performing his songs outside in single-digit temperatures for the Super Bowl Live concert series."**](https://www.startribune.com/super-sized-prince-party-rocks-nicollet-mall/471712573/)<ul><li>by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 29 January 2018</li><li>about [Super Bowl](../../topics/super-bowl/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/super-sized-prince-party-rocks-nicollet-mall/471712573/))</li><ul>
 
 ----
 
