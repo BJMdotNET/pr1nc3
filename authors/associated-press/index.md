@@ -10,7 +10,7 @@
   * [Jeff Baenen (Associated Press)](../associated-press/jeff-baenen/index.md) (7)
   * [Jesse J. Holland (Associated Press)](../associated-press/jesse-j-holland/index.md) (3)
   * [Jill Lawless (Associated Press)](../associated-press/jill-lawless/index.md) (1)
-  * [Kevin Burbach (Associated Press)](../associated-press/kevin-burbach/index.md) (4)
+  * [Kevin Burbach (Associated Press)](../associated-press/kevin-burbach/index.md) (5)
   * [Kristin M. Hall (Associated Press)](../associated-press/kristin-m-hall/index.md) (1)
   * [Kyle Potter (Associated Press)](../associated-press/kyle-potter/index.md) (2)
   * [Larry Neumeister (Associated Press)](../associated-press/larry-neumeister/index.md) (2)
