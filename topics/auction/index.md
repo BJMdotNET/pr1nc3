@@ -20,7 +20,7 @@
 
 ----
 
- - [**"Prince white Cloud guitar among items set for auction"**](https://apnews.com/585874d2a9a74663ac38ebc688d75a5d)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 5 February 2018</li><li>about [auction](../../topics/auction/index.md), [Cloud guitar](../../topics/cloud-guitar/index.md), [Dave Rusan](../../topics/dave-rusan/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/585874d2a9a74663ac38ebc688d75a5d))</li><ul>
+ - [**"Prince white Cloud guitar among items set for auction"**](https://apnews.com/585874d2a9a74663ac38ebc688d75a5d)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 5 February 2018</li><li>about [auction](../../topics/auction/index.md), [Cloud guitar (instrument)](../../topics/instrument/cloud-guitar/index.md), [Dave Rusan](../../topics/dave-rusan/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/585874d2a9a74663ac38ebc688d75a5d))</li><ul>
 
 ----
 
@@ -28,7 +28,7 @@
 
 ----
 
- - [**"Prince guitar auctioned for $700,000"**](https://apnews.com/3305278f51e8419a9c56fe24013761db)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 6 November 2017</li><li>about [auction](../../topics/auction/index.md), [Cloud guitar](../../topics/cloud-guitar/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/3305278f51e8419a9c56fe24013761db))</li><ul>
+ - [**"Prince guitar auctioned for $700,000"**](https://apnews.com/3305278f51e8419a9c56fe24013761db)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 6 November 2017</li><li>about [auction](../../topics/auction/index.md), [Cloud guitar (instrument)](../../topics/instrument/cloud-guitar/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/3305278f51e8419a9c56fe24013761db))</li><ul>
 
 ----
 
@@ -36,11 +36,11 @@
 
 ----
 
- - [**"Prince’s teal blue Cloud guitar auctioned for $700K"**](https://apnews.com/7b24e181a75149e88cad384d6d289b74)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 6 November 2017</li><li>about [auction](../../topics/auction/index.md), [Cloud guitar](../../topics/cloud-guitar/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/7b24e181a75149e88cad384d6d289b74))</li><ul>
+ - [**"Prince’s teal blue Cloud guitar auctioned for $700K"**](https://apnews.com/7b24e181a75149e88cad384d6d289b74)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 6 November 2017</li><li>about [auction](../../topics/auction/index.md), [Cloud guitar (instrument)](../../topics/instrument/cloud-guitar/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/7b24e181a75149e88cad384d6d289b74))</li><ul>
 
 ----
 
- - [**"Auction offers never-released Prince recordings, guitar, ex’s wedding dress"**](https://apnews.com/a37b4dffd41e4f0aa89ed41ee05e4185)<ul><li>by Paul Walsh</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 5 November 2017</li><li>about [auction](../../topics/auction/index.md), [contract](../../topics/contract/index.md), [Got a Broken Heart Again (song)](../../topics/song/got-a-broken-heart-again/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Michael Kirk](../../topics/michael-kirk/index.md), [Owen Husney](../../topics/owen-husney/index.md), [Rave Un2 the Joy Fantastic (album)](../../topics/album/rave-un2-the-joy-fantastic/index.md), [Sometimes It Snows In April (song)](../../topics/song/sometimes-it-snows-in-april/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/a37b4dffd41e4f0aa89ed41ee05e4185))</li><ul>
+ - [**"Auction offers never-released Prince recordings, guitar, ex’s wedding dress"**](https://apnews.com/a37b4dffd41e4f0aa89ed41ee05e4185)<ul><li>by [Paul Walsh](../../authors/paul-walsh/index.md)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 5 November 2017</li><li>about [1959 Gibson (instrument)](../../topics/instrument/1959-gibson/index.md), [auction](../../topics/auction/index.md), [contract](../../topics/contract/index.md), [demo tape](../../topics/demo-tape/index.md), [divorce](../../topics/divorce/index.md), [engagement ring](../../topics/engagement-ring/index.md), [Got a Broken Heart Again (song)](../../topics/song/got-a-broken-heart-again/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Michael Kirk](../../topics/michael-kirk/index.md), [Nate D. Sanders Auctions](../../topics/nate-d-sanders-auctions/index.md), [Owen Husney](../../topics/owen-husney/index.md), [Park Avenue United Methodist Church (place)](../../topics/place/park-avenue-united-methodist-church/index.md), [Rave Un2 the Joy Fantastic (album)](../../topics/album/rave-un2-the-joy-fantastic/index.md), [So Blue (song)](../../topics/song/so-blue/index.md), [Sometimes It Snows In April (song)](../../topics/song/sometimes-it-snows-in-april/index.md), [The Most Beautiful Girl In The World (song)](../../topics/song/the-most-beautiful-girl-in-the-world/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/a37b4dffd41e4f0aa89ed41ee05e4185))</li><ul>
 
 ----
 
@@ -56,23 +56,23 @@
 
 ----
 
- - [**"Handwritten letter from Paul McCartney to Prince sells for nearly $15K at auction -- The 2-page letter was requesting a donation to a performing arts school he was establishing."**](https://www.startribune.com/handwritten-letter-from-paul-mccartney-to-prince-sells-for-nearly-15k-at-auction/387473981/)<ul><li>by Paul Walsh</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 19 July 2016</li><li>about [auction](../../topics/auction/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/handwritten-letter-from-paul-mccartney-to-prince-sells-for-nearly-15k-at-auction/387473981/))</li><ul>
+ - [**"Handwritten letter from Paul McCartney to Prince sells for nearly $15K at auction -- The 2-page letter was requesting a donation to a performing arts school he was establishing."**](https://www.startribune.com/handwritten-letter-from-paul-mccartney-to-prince-sells-for-nearly-15k-at-auction/387473981/)<ul><li>by [Paul Walsh](../../authors/paul-walsh/index.md)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 19 July 2016</li><li>about [auction](../../topics/auction/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/handwritten-letter-from-paul-mccartney-to-prince-sells-for-nearly-15k-at-auction/387473981/))</li><ul>
 
 ----
 
- - [**"Bloomington guitar-maker's link to Prince passes to Colts owner -- Jim Irsay, owner of the Indianapolis Colts, collects famous guitars. Last week, he paid $137,500 in an auction to buy a guitar that at least looks a lot like the yellow version of Prince's "Cloud" guitar."**](https://www.startribune.com/bloomington-guitar-maker-s-link-to-prince-passes-to-colts-owner/385127861/)<ul><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 30 June 2016</li><li>about [auction](../../topics/auction/index.md), [BET Awards](../../topics/bet-awards/index.md), [Cloud guitar](../../topics/cloud-guitar/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/bloomington-guitar-maker-s-link-to-prince-passes-to-colts-owner/385127861/))</li><ul>
+ - [**"Bloomington guitar-maker's link to Prince passes to Colts owner -- Jim Irsay, owner of the Indianapolis Colts, collects famous guitars. Last week, he paid $137,500 in an auction to buy a guitar that at least looks a lot like the yellow version of Prince's "Cloud" guitar."**](https://www.startribune.com/bloomington-guitar-maker-s-link-to-prince-passes-to-colts-owner/385127861/)<ul><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 30 June 2016</li><li>about [auction](../../topics/auction/index.md), [BET Awards](../../topics/bet-awards/index.md), [Cloud guitar (instrument)](../../topics/instrument/cloud-guitar/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/bloomington-guitar-maker-s-link-to-prince-passes-to-colts-owner/385127861/))</li><ul>
 
 ----
 
- - [**"Indianapolis Colts owner buys Prince’s Yellow Cloud guitar"**](https://apnews.com/c4ba9354d4934e29a41a0a0777210daa)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 26 June 2016</li><li>about [auction](../../topics/auction/index.md), [Cloud guitar](../../topics/cloud-guitar/index.md), [Heritage Auctions](../../topics/heritage-auctions/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/c4ba9354d4934e29a41a0a0777210daa))</li><ul>
+ - [**"Indianapolis Colts owner buys Prince’s Yellow Cloud guitar"**](https://apnews.com/c4ba9354d4934e29a41a0a0777210daa)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 26 June 2016</li><li>about [auction](../../topics/auction/index.md), [Cloud guitar (instrument)](../../topics/instrument/cloud-guitar/index.md), [Heritage Auctions](../../topics/heritage-auctions/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/c4ba9354d4934e29a41a0a0777210daa))</li><ul>
 
 ----
 
- - [**"Indianapolis Colts owner buys Prince's Yellow Cloud guitar"**](https://www.startribune.com/indianapolis-colts-owner-buys-prince-s-yellow-cloud-guitar/384401501/)<ul><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 25 June 2016</li><li>about [auction](../../topics/auction/index.md), [Cloud guitar](../../topics/cloud-guitar/index.md), [Heritage Auctions](../../topics/heritage-auctions/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/indianapolis-colts-owner-buys-prince-s-yellow-cloud-guitar/384401501/))</li><ul>
+ - [**"Indianapolis Colts owner buys Prince's Yellow Cloud guitar"**](https://www.startribune.com/indianapolis-colts-owner-buys-prince-s-yellow-cloud-guitar/384401501/)<ul><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 25 June 2016</li><li>about [auction](../../topics/auction/index.md), [Cloud guitar (instrument)](../../topics/instrument/cloud-guitar/index.md), [Heritage Auctions](../../topics/heritage-auctions/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/indianapolis-colts-owner-buys-prince-s-yellow-cloud-guitar/384401501/))</li><ul>
 
 ----
 
- - [**"MCAD will auction early Prince photo by Robert Whitman Friday"**](https://www.startribune.com/mcad-will-auction-early-prince-photo-by-robert-whitman-friday/379940691/)<ul><li>by John Ewoldt</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 18 May 2016</li><li>about [auction](../../topics/auction/index.md), [Robert Whitman](../../topics/robert-whitman/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/mcad-will-auction-early-prince-photo-by-robert-whitman-friday/379940691/))</li><ul>
+ - [**"MCAD will auction early Prince photo by Robert Whitman Friday"**](https://www.startribune.com/mcad-will-auction-early-prince-photo-by-robert-whitman-friday/379940691/)<ul><li>by [John Ewoldt](../../authors/john-ewoldt/index.md)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 18 May 2016</li><li>about [auction](../../topics/auction/index.md), [Robert Whitman](../../topics/robert-whitman/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/mcad-will-auction-early-prince-photo-by-robert-whitman-friday/379940691/))</li><ul>
 
 ----
 
@@ -80,7 +80,7 @@
 
 ----
 
- - [**"Prince guitar to be auctioned in Beverly Hills"**](https://apnews.com/fefc1b6dc9cd4e1fa08dffe5e3834299)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 15 May 2016</li><li>about [auction](../../topics/auction/index.md), [Heritage Auctions](../../topics/heritage-auctions/index.md), [museum](../../topics/museum/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/fefc1b6dc9cd4e1fa08dffe5e3834299))</li><ul>
+ - [**"Prince guitar to be auctioned in Beverly Hills"**](https://apnews.com/fefc1b6dc9cd4e1fa08dffe5e3834299)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 15 May 2016</li><li>about [auction](../../topics/auction/index.md), [demo tape](../../topics/demo-tape/index.md), [Heritage Auctions](../../topics/heritage-auctions/index.md), [museum](../../topics/museum/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/fefc1b6dc9cd4e1fa08dffe5e3834299))</li><ul>
 
 ----
 
@@ -88,11 +88,11 @@
 
 ----
 
- - [**"Prince guitar to be auctioned in Beverly Hills"**](https://www.startribune.com/prince-guitar-to-be-auctioned-in-beverly-hills/379533661/)<ul><li>by Derrik J. Lang (Associated Press)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 14 May 2016</li><li>about [auction](../../topics/auction/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-guitar-to-be-auctioned-in-beverly-hills/379533661/))</li><ul>
+ - [**"Prince guitar to be auctioned in Beverly Hills"**](https://www.startribune.com/prince-guitar-to-be-auctioned-in-beverly-hills/379533661/)<ul><li>by [Derrik J. Lang (Associated Press)](../../authors/associated-press/derrik-j-lang/index.md)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 14 May 2016</li><li>about [auction](../../topics/auction/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-guitar-to-be-auctioned-in-beverly-hills/379533661/))</li><ul>
 
 ----
 
- - [**"Putting a price on Prince collectibles: Don't be fooled by rip-offs -- The musician's sudden death boosts demand for related memorabilia. But be wary of rip-offs."**](https://www.startribune.com/putting-a-price-on-prince/379398971/)<ul><li>by Kim Palmer</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 13 May 2016</li><li>about [auction](../../topics/auction/index.md), [Michael Jackson](../../topics/michael-jackson/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/putting-a-price-on-prince/379398971/))</li><ul>
+ - [**"Putting a price on Prince collectibles: Don't be fooled by rip-offs -- The musician's sudden death boosts demand for related memorabilia. But be wary of rip-offs."**](https://www.startribune.com/putting-a-price-on-prince/379398971/)<ul><li>by [Kim Palmer](../../authors/kim-palmer/index.md)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 13 May 2016</li><li>about [auction](../../topics/auction/index.md), [Michael Jackson](../../topics/michael-jackson/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/putting-a-price-on-prince/379398971/))</li><ul>
 
 ----
 
@@ -100,7 +100,7 @@
 
 ----
 
- - [**"Prince's 'Purple Rain' coat is up for auction"**](https://www.startribune.com/ap-exclusive-prince-s-purple-rain-coat-is-up-for-auction/377542161/)<ul><li>by Nicole Evatt (Associated Press)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 29 April 2016</li><li>about [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [auction](../../topics/auction/index.md), [Katy Perry](../../topics/katy-perry/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [motorcycle](../../topics/motorcycle/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/ap-exclusive-prince-s-purple-rain-coat-is-up-for-auction/377542161/))</li><ul>
+ - [**"Prince's 'Purple Rain' coat is up for auction"**](https://www.startribune.com/ap-exclusive-prince-s-purple-rain-coat-is-up-for-auction/377542161/)<ul><li>by [Nicole Evatt (Associated Press)](../../authors/associated-press/nicole-evatt/index.md)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 29 April 2016</li><li>about [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [auction](../../topics/auction/index.md), [Katy Perry](../../topics/katy-perry/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [motorcycle](../../topics/motorcycle/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/ap-exclusive-prince-s-purple-rain-coat-is-up-for-auction/377542161/))</li><ul>
 
 ----
 
@@ -108,7 +108,7 @@
 
 ----
 
- - [**"Auction offers never-released Prince recordings, guitar, ex's wedding dress -- Never-released recordings, her engagement ring and wedding ring among the items, as well as a guitar Prince used early in his career."**](https://www.startribune.com/prince-s-ex-wife-first-manager-putting-prized-memorabilia-up-for-auction/371654961/)<ul><li>by Paul Walsh</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 10 March 2016</li><li>about [auction](../../topics/auction/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-s-ex-wife-first-manager-putting-prized-memorabilia-up-for-auction/371654961/))</li><ul>
+ - [**"Auction offers never-released Prince recordings, guitar, ex's wedding dress -- Never-released recordings, her engagement ring and wedding ring among the items, as well as a guitar Prince used early in his career."**](https://www.startribune.com/prince-s-ex-wife-first-manager-putting-prized-memorabilia-up-for-auction/371654961/)<ul><li>by [Paul Walsh](../../authors/paul-walsh/index.md)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 10 March 2016</li><li>about [auction](../../topics/auction/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-s-ex-wife-first-manager-putting-prized-memorabilia-up-for-auction/371654961/))</li><ul>
 
 ----
 

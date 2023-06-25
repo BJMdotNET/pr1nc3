@@ -44,7 +44,7 @@
 
 ----
 
- - [**"State Fair to celebrate Prince with "Unite in Purple" Day Aug. 26 -- "Unite in Purple" Day will offer tributes to the late rock icon on Aug. 26."**](https://www.startribune.com/state-fair-to-celebrate-prince-with-unite-in-purple-day/389514481/)<ul><li>by Tim Harlow</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 8 August 2016</li><li>about [Celebration (event)](../../topics/event/celebration/index.md), [State Fair](../../topics/state-fair/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/state-fair-to-celebrate-prince-with-unite-in-purple-day/389514481/))</li><ul>
+ - [**"State Fair to celebrate Prince with "Unite in Purple" Day Aug. 26 -- "Unite in Purple" Day will offer tributes to the late rock icon on Aug. 26."**](https://www.startribune.com/state-fair-to-celebrate-prince-with-unite-in-purple-day/389514481/)<ul><li>by [Tim Harlow](../../authors/tim-harlow/index.md)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 8 August 2016</li><li>about [Celebration (event)](../../topics/event/celebration/index.md), [State Fair](../../topics/state-fair/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/state-fair-to-celebrate-prince-with-unite-in-purple-day/389514481/))</li><ul>
 
 ----
 

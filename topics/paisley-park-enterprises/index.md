@@ -1,10 +1,10 @@
 # Paisley Park Enterprises
 
- - [**"Around the state: Prosecution asks appeals court not to move officer’s tria"**](https://apnews.com/article/shootings-minnesota-st-paul-state-courts-philando-castile-c00b71de75e4430680d5bc65937fb380)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 19 December 2021</li><li>about [Deliverance (EP)](../../topics/ep/deliverance/index.md), [Deliverance (song)](../../topics/song/deliverance/index.md), [George Ian Boxill](../../topics/george-ian-boxill/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/shootings-minnesota-st-paul-state-courts-philando-castile-c00b71de75e4430680d5bc65937fb380))</li><ul>
+ - [**"Around the state: Prosecution asks appeals court not to move officer’s tria"**](https://apnews.com/article/shootings-minnesota-st-paul-state-courts-philando-castile-c00b71de75e4430680d5bc65937fb380)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 19 December 2021</li><li>about [Deliverance (EP)](../../topics/ep/deliverance/index.md), [Deliverance (song)](../../topics/song/deliverance/index.md), [George Ian Boxill](../../topics/george-ian-boxill/index.md), [lawsuit](../../topics/lawsuit/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/shootings-minnesota-st-paul-state-courts-philando-castile-c00b71de75e4430680d5bc65937fb380))</li><ul>
 
 ----
 
- - [**"Paisley Park Aims to Register Prince's Signature Purple as a Trademark for Use on Buildings"**](https://www.thefashionlaw.com/home/princes-estate-in-the-midst-of-fight-to-register-the-color-purple-for-use-on-buildings)<ul><li>in [The Fashion Law](https://www.thefashionlaw.com/)</li><li>on 27 January 2020</li><li>about [Cloud guitar](../../topics/cloud-guitar/index.md), [Grammy Award](../../topics/grammy-award/index.md), [hologram](../../topics/hologram/index.md), [Jamie Starr](../../topics/jamie-starr/index.md), [museum](../../topics/museum/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [trademark](../../topics/trademark/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.thefashionlaw.com/home/princes-estate-in-the-midst-of-fight-to-register-the-color-purple-for-use-on-buildings))</li><ul>
+ - [**"Paisley Park Aims to Register Prince's Signature Purple as a Trademark for Use on Buildings"**](https://www.thefashionlaw.com/home/princes-estate-in-the-midst-of-fight-to-register-the-color-purple-for-use-on-buildings)<ul><li>in [The Fashion Law](https://www.thefashionlaw.com/)</li><li>on 27 January 2020</li><li>about [Cloud guitar (instrument)](../../topics/instrument/cloud-guitar/index.md), [Grammy Award](../../topics/grammy-award/index.md), [hologram](../../topics/hologram/index.md), [Jamie Starr](../../topics/jamie-starr/index.md), [museum](../../topics/museum/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [trademark](../../topics/trademark/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.thefashionlaw.com/home/princes-estate-in-the-midst-of-fight-to-register-the-color-purple-for-use-on-buildings))</li><ul>
 
 ----
 
@@ -12,7 +12,7 @@
 
 ----
 
- - [**"PRINCE'S ICONIC CLOUD GUITAR INVOLVED IN TRADEMARK DISPUTE -- When Doves File Trademark Disputes"**](http://www.mixdownmag.com.au/princes-iconic-cloud-guitar-involved-trademark-dispute)<ul><li>in [Mixdown](http://www.mixdownmag.com.au/)</li><li>on 5 September 2019</li><li>about [Cloud guitar](../../topics/cloud-guitar/index.md), [Dave Rusan](../../topics/dave-rusan/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [trademark](../../topics/trademark/index.md), [Troy Carter](../../topics/troy-carter/index.md)</li><li>([mirror](https://web.archive.org/web/*/http://www.mixdownmag.com.au/princes-iconic-cloud-guitar-involved-trademark-dispute))</li><ul>
+ - [**"PRINCE'S ICONIC CLOUD GUITAR INVOLVED IN TRADEMARK DISPUTE -- When Doves File Trademark Disputes"**](http://www.mixdownmag.com.au/princes-iconic-cloud-guitar-involved-trademark-dispute)<ul><li>in [Mixdown](http://www.mixdownmag.com.au/)</li><li>on 5 September 2019</li><li>about [Cloud guitar (instrument)](../../topics/instrument/cloud-guitar/index.md), [Dave Rusan](../../topics/dave-rusan/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [trademark](../../topics/trademark/index.md), [Troy Carter](../../topics/troy-carter/index.md)</li><li>([mirror](https://web.archive.org/web/*/http://www.mixdownmag.com.au/princes-iconic-cloud-guitar-involved-trademark-dispute))</li><ul>
 
 ----
 
@@ -24,7 +24,7 @@
 
 ----
 
- - [**"Prince estate sues ‘brazen bootlegger,’ others selling CDs of his last show, trove of other music"**](https://apnews.com/article/aea54e8d89f44d22a67324c5d77b4a95)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 4 September 2018</li><li>about [bootleg](../../topics/bootleg/index.md), [Eye Records](../../topics/eye-records/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [Prince Estate](../../topics/prince-estate/index.md), [U Got the Look (song)](../../topics/song/u-got-the-look/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/aea54e8d89f44d22a67324c5d77b4a95))</li><ul>
+ - [**"Prince estate sues ‘brazen bootlegger,’ others selling CDs of his last show, trove of other music"**](https://apnews.com/article/aea54e8d89f44d22a67324c5d77b4a95)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 4 September 2018</li><li>about [bootleg](../../topics/bootleg/index.md), [Eye Records](../../topics/eye-records/index.md), [lawsuit](../../topics/lawsuit/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [Prince Estate](../../topics/prince-estate/index.md), [U Got the Look (song)](../../topics/song/u-got-the-look/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/aea54e8d89f44d22a67324c5d77b4a95))</li><ul>
 
 ----
 
@@ -32,7 +32,7 @@
 
 ----
 
- - [**"Judge: Sound engineer can’t publish unreleased Prince tracks"**](https://apnews.com/28f8d4317b3b43219621f58a3252addb)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 23 May 2017</li><li>about [Deliverance (EP)](../../topics/ep/deliverance/index.md), [Deliverance (song)](../../topics/song/deliverance/index.md), [George Ian Boxill](../../topics/george-ian-boxill/index.md), [opioid](../../topics/opioid/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [trademark](../../topics/trademark/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/28f8d4317b3b43219621f58a3252addb))</li><ul>
+ - [**"Judge: Sound engineer can’t publish unreleased Prince tracks"**](https://apnews.com/28f8d4317b3b43219621f58a3252addb)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 23 May 2017</li><li>about [Deliverance (EP)](../../topics/ep/deliverance/index.md), [Deliverance (song)](../../topics/song/deliverance/index.md), [George Ian Boxill](../../topics/george-ian-boxill/index.md), [lawsuit](../../topics/lawsuit/index.md), [opioid](../../topics/opioid/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [trademark](../../topics/trademark/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/28f8d4317b3b43219621f58a3252addb))</li><ul>
 
 ----
 
@@ -40,7 +40,7 @@
 
 ----
 
- - [**"Judge blocks sound engineer’s release of Prince EP"**](https://apnews.com/194582ccc441427d9c3b8b644ac5dcc0)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 20 April 2017</li><li>about [Deliverance (EP)](../../topics/ep/deliverance/index.md), [Deliverance (song)](../../topics/song/deliverance/index.md), [George Ian Boxill](../../topics/george-ian-boxill/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/194582ccc441427d9c3b8b644ac5dcc0))</li><ul>
+ - [**"Judge blocks sound engineer’s release of Prince EP"**](https://apnews.com/194582ccc441427d9c3b8b644ac5dcc0)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 20 April 2017</li><li>about [Deliverance (EP)](../../topics/ep/deliverance/index.md), [Deliverance (song)](../../topics/song/deliverance/index.md), [George Ian Boxill](../../topics/george-ian-boxill/index.md), [lawsuit](../../topics/lawsuit/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/194582ccc441427d9c3b8b644ac5dcc0))</li><ul>
 
 ----
 
@@ -68,7 +68,7 @@
 
 ----
 
- - [**"Prince Co. Suing Internet Site"**](https://apnews.com/06d02aeedba29e311e8d336c7b71a2b8)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 28 September 2002</li><li>about [bootleg](../../topics/bootleg/index.md), [Matthew Lankford](../../topics/matthew-lankford/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/06d02aeedba29e311e8d336c7b71a2b8))</li><ul>
+ - [**"Prince Co. Suing Internet Site"**](https://apnews.com/06d02aeedba29e311e8d336c7b71a2b8)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 28 September 2002</li><li>about [bootleg](../../topics/bootleg/index.md), [lawsuit](../../topics/lawsuit/index.md), [Matthew Lankford](../../topics/matthew-lankford/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/06d02aeedba29e311e8d336c7b71a2b8))</li><ul>
 
 ----
 
@@ -80,7 +80,7 @@
 
 ----
 
- - [**"People in the News"**](https://apnews.com/df4748de657e2a79a5ec74214a26f279)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 22 December 1991</li><li>about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [contract](../../topics/contract/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [Sheena Easton](../../topics/sheena-easton/index.md), [Steve Fargnoli](../../topics/steve-fargnoli/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/df4748de657e2a79a5ec74214a26f279))</li><ul>
+ - [**"People in the News"**](https://apnews.com/df4748de657e2a79a5ec74214a26f279)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 22 December 1991</li><li>about [breach of contract](../../topics/breach-of-contract/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [contract](../../topics/contract/index.md), [defamation ](../../topics/defamation/index.md), [Diamonds and Pearls (album)](../../topics/album/diamonds-and-pearls/index.md), [Jill Willis](../../topics/jill-willis/index.md), [Jughead (song)](../../topics/song/jughead/index.md), [lawsuit](../../topics/lawsuit/index.md), [Money Don’t Matter 2 Night (song)](../../topics/song/money-don-t-matter-2-night/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [Sheena Easton](../../topics/sheena-easton/index.md), [Steve Fargnoli](../../topics/steve-fargnoli/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/df4748de657e2a79a5ec74214a26f279))</li><ul>
 
 ----
 

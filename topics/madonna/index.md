@@ -32,7 +32,7 @@
 
 ----
 
- - [**"Swedish pop star Robyn displays a royal flair in sold-out Palace show -- The dance-pop singer shined in shades of silver, white and especially purple in St. Paul."**](https://www.startribune.com/swedish-pop-star-robyn-displays-a-royal-flair-in-sold-out-palace-show/506763742/)<ul><li>by Chris Riemenschneider</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 6 March 2019</li><li>about [Madonna](../../topics/madonna/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/swedish-pop-star-robyn-displays-a-royal-flair-in-sold-out-palace-show/506763742/))</li><ul>
+ - [**"Swedish pop star Robyn displays a royal flair in sold-out Palace show -- The dance-pop singer shined in shades of silver, white and especially purple in St. Paul."**](https://www.startribune.com/swedish-pop-star-robyn-displays-a-royal-flair-in-sold-out-palace-show/506763742/)<ul><li>by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 6 March 2019</li><li>about [Madonna](../../topics/madonna/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/swedish-pop-star-robyn-displays-a-royal-flair-in-sold-out-palace-show/506763742/))</li><ul>
 
 ----
 

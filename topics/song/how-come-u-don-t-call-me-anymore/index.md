@@ -12,7 +12,7 @@
 
 ----
 
- - [**"Colbert's bandleader Jon Batiste honors Prince in final 'Live From Here' St. Paul show of the season"**](https://www.startribune.com/colbert-s-bandleader-jon-batiste-honors-prince-in-live-from-here-s-last-st-paul-show-of-the-season/507271362/)<ul><li>by Neal Justin</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 18 March 2019</li><li>about [Dirty Mind (album)](../../../topics/album/dirty-mind/index.md), [How Come U Don't Call Me Anymore (song)](../../../topics/song/how-come-u-don-t-call-me-anymore/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/colbert-s-bandleader-jon-batiste-honors-prince-in-live-from-here-s-last-st-paul-show-of-the-season/507271362/))</li><ul>
+ - [**"Colbert's bandleader Jon Batiste honors Prince in final 'Live From Here' St. Paul show of the season"**](https://www.startribune.com/colbert-s-bandleader-jon-batiste-honors-prince-in-live-from-here-s-last-st-paul-show-of-the-season/507271362/)<ul><li>by [Neal Justin](../../../authors/neal-justin/index.md)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 18 March 2019</li><li>about [Dirty Mind (album)](../../../topics/album/dirty-mind/index.md), [How Come U Don't Call Me Anymore (song)](../../../topics/song/how-come-u-don-t-call-me-anymore/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/colbert-s-bandleader-jon-batiste-honors-prince-in-live-from-here-s-last-st-paul-show-of-the-season/507271362/))</li><ul>
 
 ----
 

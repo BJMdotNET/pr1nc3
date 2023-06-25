@@ -1,6 +1,6 @@
 # Ana Moura
 
- - [**"In Minneapolis, Portuguese star Ana Moura offers world premiere of song she wrote with Prince"**](https://www.startribune.com/in-minneapolis-portuguese-star-ana-moura-offers-world-premiere-of-song-she-wrote-with-prince/479234123/)<ul><li>by Jon Bream</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 10 April 2018</li><li>about [Ana Moura](../../topics/ana-moura/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/in-minneapolis-portuguese-star-ana-moura-offers-world-premiere-of-song-she-wrote-with-prince/479234123/))</li><ul>
+ - [**"In Minneapolis, Portuguese star Ana Moura offers world premiere of song she wrote with Prince"**](https://www.startribune.com/in-minneapolis-portuguese-star-ana-moura-offers-world-premiere-of-song-she-wrote-with-prince/479234123/)<ul><li>by [Jon Bream](../../authors/jon-bream/index.md)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 10 April 2018</li><li>about [Ana Moura](../../topics/ana-moura/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/in-minneapolis-portuguese-star-ana-moura-offers-world-premiere-of-song-she-wrote-with-prince/479234123/))</li><ul>
 
 ----
 

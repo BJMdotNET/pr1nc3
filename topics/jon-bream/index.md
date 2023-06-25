@@ -32,7 +32,7 @@
 
 ----
 
- - [**"Eric Church doubles down at Target Center -- Country superstar saved his best for second half."**](https://www.startribune.com/eric-church-doubles-down-at-target-center/505603292/)<ul><li>by Jon Bream</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 8 February 2019</li><li>about [Jon Bream](../../topics/jon-bream/index.md), [Parade (album)](../../topics/album/parade/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/eric-church-doubles-down-at-target-center/505603292/))</li><ul>
+ - [**"Eric Church doubles down at Target Center -- Country superstar saved his best for second half."**](https://www.startribune.com/eric-church-doubles-down-at-target-center/505603292/)<ul><li>by [Jon Bream](../../authors/jon-bream/index.md)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 8 February 2019</li><li>about [Jon Bream](../../topics/jon-bream/index.md), [Parade (album)](../../topics/album/parade/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/eric-church-doubles-down-at-target-center/505603292/))</li><ul>
 
 ----
 
@@ -40,11 +40,11 @@
 
 ----
 
- - [**"A Princess Remembers Prince -- “I was invited to have dinner after a show at five A.M. Prince opened the door of his suite wearing pink silk pajamas.”"**](https://www.vanityfair.com/style/2016/04/princess-gloria-von-thurn-und-taxis-remembers-prince)<ul><li>by Gloria von Thurn und Taxis</li><li>in [Vanity Fair](https://www.vanityfair.com/)</li><li>on 27 April 2016</li><li>about [David Furnish](../../topics/david-furnish/index.md), [Elton John](../../topics/elton-john/index.md), [George Gershwin](../../topics/george-gershwin/index.md), [Gloria von Thurn und Taxis](../../topics/gloria-von-thurn-und-taxis/index.md), [Jerry Auerswald](../../topics/jerry-auerswald/index.md), [John Nelson](../../topics/john-nelson/index.md), [Jon Bream](../../topics/jon-bream/index.md), [Steve Fargnoli](../../topics/steve-fargnoli/index.md), [The Wind, the Trees and the Leaves (song)](../../topics/song/the-wind-the-trees-and-the-leaves/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.vanityfair.com/style/2016/04/princess-gloria-von-thurn-und-taxis-remembers-prince))</li><ul>
+ - [**"A Princess Remembers Prince -- “I was invited to have dinner after a show at five A.M. Prince opened the door of his suite wearing pink silk pajamas.”"**](https://www.vanityfair.com/style/2016/04/princess-gloria-von-thurn-und-taxis-remembers-prince)<ul><li>by [Gloria von Thurn und Taxis](../../authors/gloria-von-thurn-und-taxis/index.md)</li><li>in [Vanity Fair](https://www.vanityfair.com/)</li><li>on 27 April 2016</li><li>about [David Furnish](../../topics/david-furnish/index.md), [Elton John](../../topics/elton-john/index.md), [George Gershwin](../../topics/george-gershwin/index.md), [Gloria von Thurn und Taxis](../../topics/gloria-von-thurn-und-taxis/index.md), [Jerry Auerswald](../../topics/jerry-auerswald/index.md), [John Nelson](../../topics/john-nelson/index.md), [Jon Bream](../../topics/jon-bream/index.md), [Steve Fargnoli](../../topics/steve-fargnoli/index.md), [The Wind, the Trees and the Leaves (song)](../../topics/song/the-wind-the-trees-and-the-leaves/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.vanityfair.com/style/2016/04/princess-gloria-von-thurn-und-taxis-remembers-prince))</li><ul>
 
 ----
 
- - [**"How Prince and critic Jon Bream learned to see eye to eye"**](https://www.startribune.com/how-prince-and-critic-jon-bream-learned-to-see-eye-to-eye/376645531/)<ul><li>by Jon Bream</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 21 April 2016</li><li>about [Jon Bream](../../topics/jon-bream/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/how-prince-and-critic-jon-bream-learned-to-see-eye-to-eye/376645531/))</li><ul>
+ - [**"How Prince and critic Jon Bream learned to see eye to eye"**](https://www.startribune.com/how-prince-and-critic-jon-bream-learned-to-see-eye-to-eye/376645531/)<ul><li>by [Jon Bream](../../authors/jon-bream/index.md)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 21 April 2016</li><li>about [Jon Bream](../../topics/jon-bream/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/how-prince-and-critic-jon-bream-learned-to-see-eye-to-eye/376645531/))</li><ul>
 
 ----
 

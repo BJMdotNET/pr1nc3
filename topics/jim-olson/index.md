@@ -8,7 +8,7 @@
 
 ----
 
- - [**"Investigation into Prince's death now is a criminal probe -- The Carver County Sheriff's Office cited an exception to Minnesota public records laws allowing the suppression of information relating to preparing a case "for the commission of a crime.""**](https://www.startribune.com/carver-county-judge-seals-search-warrants-in-prince-death-investigation/377456111/)<ul><li>by David Chanen</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 29 April 2016</li><li>about [Carver County](../../topics/carver-county/index.md), [Jim Olson](../../topics/jim-olson/index.md), [Mark Metz](../../topics/mark-metz/index.md), [The Time](../../topics/the-time/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/carver-county-judge-seals-search-warrants-in-prince-death-investigation/377456111/))</li><ul>
+ - [**"Investigation into Prince's death now is a criminal probe -- The Carver County Sheriff's Office cited an exception to Minnesota public records laws allowing the suppression of information relating to preparing a case "for the commission of a crime.""**](https://www.startribune.com/carver-county-judge-seals-search-warrants-in-prince-death-investigation/377456111/)<ul><li>by [David Chanen](../../authors/david-chanen/index.md)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 29 April 2016</li><li>about [Carver County](../../topics/carver-county/index.md), [Jim Olson](../../topics/jim-olson/index.md), [Mark Metz](../../topics/mark-metz/index.md), [The Time](../../topics/the-time/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/carver-county-judge-seals-search-warrants-in-prince-death-investigation/377456111/))</li><ul>
 
 ----
 
@@ -20,7 +20,7 @@
 
 ----
 
- - [**"Adored by millions, Prince was alone as he died"**](https://www.startribune.com/investigation-underway-into-prince-s-death/376741561/)<ul><li>by John Reinan</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 23 April 2016</li><li>about [airport](../../topics/airport/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Dakota (place)](../../topics/place/dakota/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Jim Olson](../../topics/jim-olson/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/investigation-underway-into-prince-s-death/376741561/))</li><ul>
+ - [**"Adored by millions, Prince was alone as he died"**](https://www.startribune.com/investigation-underway-into-prince-s-death/376741561/)<ul><li>by [John Reinan](../../authors/john-reinan/index.md)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 23 April 2016</li><li>about [airport](../../topics/airport/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Dakota (place)](../../topics/place/dakota/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Jim Olson](../../topics/jim-olson/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/investigation-underway-into-prince-s-death/376741561/))</li><ul>
 
 ----
 

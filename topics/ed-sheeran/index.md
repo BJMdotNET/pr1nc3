@@ -1,6 +1,6 @@
 # Ed Sheeran
 
- - [**"After 40 Years, Grammy show producer bows out his way"**](https://apnews.com/20a0fbeb977981d1d1d6f393423ca1db)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 23 January 2020</li><li>about [Aretha Franklin](../../topics/aretha-franklin/index.md), [Beyoncé](../../topics/beyonc/index.md), [Ed Sheeran](../../topics/ed-sheeran/index.md), [Gary Clark Jr.](../../topics/gary-clark-jr/index.md), [John Legend](../../topics/john-legend/index.md), [Ken Ehrlich](../../topics/ken-ehrlich/index.md), [Misty Copeland](../../topics/misty-copeland/index.md), [Obama](../../topics/obama/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [White House (place)](../../topics/place/white-house/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/20a0fbeb977981d1d1d6f393423ca1db))</li><ul>
+ - [**"After 40 Years, Grammy show producer bows out his way"**](https://apnews.com/20a0fbeb977981d1d1d6f393423ca1db)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 23 January 2020</li><li>about [Aretha Franklin](../../topics/aretha-franklin/index.md), [Beyoncé](../../topics/beyonc/index.md), [Cyndi Lauper](../../topics/cyndi-lauper/index.md), [Ed Sheeran](../../topics/ed-sheeran/index.md), [Gary Clark Jr.](../../topics/gary-clark-jr/index.md), [John Legend](../../topics/john-legend/index.md), [Ken Ehrlich](../../topics/ken-ehrlich/index.md), [lawsuit](../../topics/lawsuit/index.md), [Misty Copeland](../../topics/misty-copeland/index.md), [Obama](../../topics/obama/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [White House (place)](../../topics/place/white-house/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/20a0fbeb977981d1d1d6f393423ca1db))</li><ul>
 
 ----
 
@@ -64,7 +64,7 @@
 
 ----
 
- - [**"A Father Surprises At Son’s 25th Anniversary Celebration"**](https://instinctmagazine.com/a-father-surprises-at-sons-25th-anniversary-celebration/)<ul><li>in [instinctmagazine.com](https://instinctmagazine.com/)</li><li>on 21 October 2019</li><li>about [Ed Sheeran](../../topics/ed-sheeran/index.md), [Paisley Park Studios (place)](../../topics/place/paisley-park-studios/index.md), [Toronto (place)](../../topics/place/toronto/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://instinctmagazine.com/a-father-surprises-at-sons-25th-anniversary-celebration/))</li><ul>
+ - [**"A Father Surprises At Son’s 25th Anniversary Celebration"**](https://instinctmagazine.com/a-father-surprises-at-sons-25th-anniversary-celebration/)<ul><li>by [Randy Slovacek](../../authors/randy-slovacek/index.md)</li><li>in [instinctmagazine.com](https://instinctmagazine.com/)</li><li>on 21 October 2019</li><li>about [Ed Sheeran](../../topics/ed-sheeran/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Paisley Park Studios (place)](../../topics/place/paisley-park-studios/index.md), [Toronto (place)](../../topics/place/toronto/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://instinctmagazine.com/a-father-surprises-at-sons-25th-anniversary-celebration/))</li><ul>
 
 ----
 

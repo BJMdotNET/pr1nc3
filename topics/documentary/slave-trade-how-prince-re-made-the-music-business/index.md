@@ -1,6 +1,6 @@
 # Slave Trade: How Prince Re-Made the Music Business (documentary)
 
- - [**"TV picks for April 20-21: 'Ramy,' Prince, 'Motown 60: A Grammy Celebration'"**](https://www.startribune.com/tv-picks-for-april-20-21-ramy-prince-motown-60-a-grammy-celebration/508806472/)<ul><li>by Neal Justin</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 19 April 2019</li><li>about [Michael Jackson](../../../topics/michael-jackson/index.md), [Slave Trade: How Prince Re-Made the Music Business (documentary)](../../../topics/documentary/slave-trade-how-prince-re-made-the-music-business/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/tv-picks-for-april-20-21-ramy-prince-motown-60-a-grammy-celebration/508806472/))</li><ul>
+ - [**"TV picks for April 20-21: 'Ramy,' Prince, 'Motown 60: A Grammy Celebration'"**](https://www.startribune.com/tv-picks-for-april-20-21-ramy-prince-motown-60-a-grammy-celebration/508806472/)<ul><li>by [Neal Justin](../../../authors/neal-justin/index.md)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 19 April 2019</li><li>about [Michael Jackson](../../../topics/michael-jackson/index.md), [Slave Trade: How Prince Re-Made the Music Business (documentary)](../../../topics/documentary/slave-trade-how-prince-re-made-the-music-business/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/tv-picks-for-april-20-21-ramy-prince-motown-60-a-grammy-celebration/508806472/))</li><ul>
 
 ----
 

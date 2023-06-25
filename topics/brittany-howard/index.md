@@ -20,7 +20,7 @@
 
 ----
 
- - [**"Lisa Fischer & Brittany Howard: Two extraordinary voices in concert Monday"**](https://www.startribune.com/lisa-fischer-brittany-howard-two-extraordinary-voices-in-concert-monday/305794671/)<ul><li>by Jon Bream</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 2 June 2015</li><li>about [Brittany Howard](../../topics/brittany-howard/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/lisa-fischer-brittany-howard-two-extraordinary-voices-in-concert-monday/305794671/))</li><ul>
+ - [**"Lisa Fischer & Brittany Howard: Two extraordinary voices in concert Monday"**](https://www.startribune.com/lisa-fischer-brittany-howard-two-extraordinary-voices-in-concert-monday/305794671/)<ul><li>by [Jon Bream](../../authors/jon-bream/index.md)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 2 June 2015</li><li>about [Brittany Howard](../../topics/brittany-howard/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/lisa-fischer-brittany-howard-two-extraordinary-voices-in-concert-monday/305794671/))</li><ul>
 
 ----
 

@@ -1,6 +1,6 @@
 # Katy Perry
 
- - [**"Katy Perry just wants to have fun in arena spectacle at Xcel Energy Center"**](https://apnews.com/article/entertainment-music-concerts-lady-gaga-katy-perry-74dd6597f0d741e2b8310b3dc29c1518)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 12 December 2021</li><li>about [Janet Jackson](../../topics/janet-jackson/index.md), [Katy Perry](../../topics/katy-perry/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/entertainment-music-concerts-lady-gaga-katy-perry-74dd6597f0d741e2b8310b3dc29c1518))</li><ul>
+ - [**"Katy Perry just wants to have fun in arena spectacle at Xcel Energy Center"**](https://apnews.com/article/entertainment-music-concerts-lady-gaga-katy-perry-74dd6597f0d741e2b8310b3dc29c1518)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 12 December 2021</li><li>about [Cyndi Lauper](../../topics/cyndi-lauper/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Katy Perry](../../topics/katy-perry/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/entertainment-music-concerts-lady-gaga-katy-perry-74dd6597f0d741e2b8310b3dc29c1518))</li><ul>
 
 ----
 
@@ -64,7 +64,7 @@
 
 ----
 
- - [**"Paisley Park tours draw celebs, including Katy Perry, Bruno Mars and Shania Twain -- Green Day’s frontman brought his family. And Katy Perry made a return visit incognito, just like any other fan."**](https://www.startribune.com/paisley-park-tours-draw-celebs-including-katy-perry-bruno-mars-and-shania-twain/509009942/)<ul><li>by Chris Riemenschneider</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 24 April 2019</li><li>about [Grammy Award](../../topics/grammy-award/index.md), [Katy Perry](../../topics/katy-perry/index.md), [museum](../../topics/museum/index.md), [Rearrange (song)](../../topics/song/rearrange/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/paisley-park-tours-draw-celebs-including-katy-perry-bruno-mars-and-shania-twain/509009942/))</li><ul>
+ - [**"Paisley Park tours draw celebs, including Katy Perry, Bruno Mars and Shania Twain -- Green Day’s frontman brought his family. And Katy Perry made a return visit incognito, just like any other fan."**](https://www.startribune.com/paisley-park-tours-draw-celebs-including-katy-perry-bruno-mars-and-shania-twain/509009942/)<ul><li>by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 24 April 2019</li><li>about [Grammy Award](../../topics/grammy-award/index.md), [Katy Perry](../../topics/katy-perry/index.md), [museum](../../topics/museum/index.md), [Rearrange (song)](../../topics/song/rearrange/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/paisley-park-tours-draw-celebs-including-katy-perry-bruno-mars-and-shania-twain/509009942/))</li><ul>
 
 ----
 
@@ -76,7 +76,7 @@
 
 ----
 
- - [**"Prince's 'Purple Rain' coat is up for auction"**](https://www.startribune.com/ap-exclusive-prince-s-purple-rain-coat-is-up-for-auction/377542161/)<ul><li>by Nicole Evatt (Associated Press)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 29 April 2016</li><li>about [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [auction](../../topics/auction/index.md), [Katy Perry](../../topics/katy-perry/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [motorcycle](../../topics/motorcycle/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/ap-exclusive-prince-s-purple-rain-coat-is-up-for-auction/377542161/))</li><ul>
+ - [**"Prince's 'Purple Rain' coat is up for auction"**](https://www.startribune.com/ap-exclusive-prince-s-purple-rain-coat-is-up-for-auction/377542161/)<ul><li>by [Nicole Evatt (Associated Press)](../../authors/associated-press/nicole-evatt/index.md)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 29 April 2016</li><li>about [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [auction](../../topics/auction/index.md), [Katy Perry](../../topics/katy-perry/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [motorcycle](../../topics/motorcycle/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/ap-exclusive-prince-s-purple-rain-coat-is-up-for-auction/377542161/))</li><ul>
 
 ----
 
@@ -84,7 +84,7 @@
 
 ----
 
- - [**"Memorable moments from Paisley Park"**](https://apnews.com/d341d2b22be74bf7843f3c485d527b18)<ul><li>by Nekesa Mumbi Moody (Associated Press)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 29 September 2014</li><li>about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Donna Grantis](../../topics/donna-grantis/index.md), [FKA twigs](../../topics/fka-twigs/index.md), [James Brown](../../topics/james-brown/index.md), [Katy Perry](../../topics/katy-perry/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Rita Ora](../../topics/rita-ora/index.md), [YouTube](../../topics/youtube/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/d341d2b22be74bf7843f3c485d527b18))</li><ul>
+ - [**"Memorable moments from Paisley Park"**](https://apnews.com/d341d2b22be74bf7843f3c485d527b18)<ul><li>by [Nekesa Mumbi Moody (Associated Press)](../../authors/associated-press/nekesa-mumbi-moody/index.md)</li><li>in [Associated Press News](https://apnews.com/)</li><li>on 29 September 2014</li><li>about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Donna Grantis](../../topics/donna-grantis/index.md), [FKA twigs](../../topics/fka-twigs/index.md), [James Brown](../../topics/james-brown/index.md), [Katy Perry](../../topics/katy-perry/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Rita Ora](../../topics/rita-ora/index.md), [YouTube](../../topics/youtube/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/d341d2b22be74bf7843f3c485d527b18))</li><ul>
 
 ----
 

@@ -1,6 +1,6 @@
 # Támar Davis
 
- - [**"C.J.: Prince protégée Ashley Támar Davis performed with pre-Destiny Beyoncé"**](https://www.startribune.com/c-j-the-fame-of-destiny-s-child-almost-broke-singer-ashley-tamar-davis/508902862/)<ul><li>by C.J. (Cheryl Johnson)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 22 April 2019</li><li>about [C.J.](../../topics/c-j/index.md), [memoir](../../topics/memoir/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Támar Davis](../../topics/t-mar-davis/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/c-j-the-fame-of-destiny-s-child-almost-broke-singer-ashley-tamar-davis/508902862/))</li><ul>
+ - [**"C.J.: Prince protégée Ashley Támar Davis performed with pre-Destiny Beyoncé"**](https://www.startribune.com/c-j-the-fame-of-destiny-s-child-almost-broke-singer-ashley-tamar-davis/508902862/)<ul><li>by [C.J. (Cheryl Johnson)](../../authors/c-j-cheryl-johnson/index.md)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 22 April 2019</li><li>about [C.J.](../../topics/c-j/index.md), [memoir](../../topics/memoir/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Támar Davis](../../topics/t-mar-davis/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/c-j-the-fame-of-destiny-s-child-almost-broke-singer-ashley-tamar-davis/508902862/))</li><ul>
 
 ----
 

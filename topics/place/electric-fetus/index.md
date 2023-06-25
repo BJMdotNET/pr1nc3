@@ -8,7 +8,7 @@
 
 ----
 
- - [**"First Ave, Electric Fetus named best in U.S. again by Rolling Stone"**](https://www.startribune.com/first-ave-electric-fetus-named-best-in-u-s-again-by-rolling-stone/502770432/)<ul><li>by Chris Riemenschneider</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 14 December 2018</li><li>about [Electric Fetus (place)](../../../topics/place/electric-fetus/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Lizzo](../../../topics/lizzo/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/first-ave-electric-fetus-named-best-in-u-s-again-by-rolling-stone/502770432/))</li><ul>
+ - [**"First Ave, Electric Fetus named best in U.S. again by Rolling Stone"**](https://www.startribune.com/first-ave-electric-fetus-named-best-in-u-s-again-by-rolling-stone/502770432/)<ul><li>by [Chris Riemenschneider](../../../authors/chris-riemenschneider/index.md)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 14 December 2018</li><li>about [Electric Fetus (place)](../../../topics/place/electric-fetus/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Lizzo](../../../topics/lizzo/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/first-ave-electric-fetus-named-best-in-u-s-again-by-rolling-stone/502770432/))</li><ul>
 
 ----
 

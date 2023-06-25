@@ -4,7 +4,7 @@
 
 ----
 
- - [**"Lizz Wright shakes her soulful Prince tambourine at the Dakota"**](https://www.startribune.com/lizz-wright-shakes-her-soulful-prince-tambourine-at-the-dakota/510019492/)<ul><li>by Jon Bream</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 16 May 2019</li><li>about [Dakota (place)](../../topics/place/dakota/index.md), [Lizz Wright](../../topics/lizz-wright/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/lizz-wright-shakes-her-soulful-prince-tambourine-at-the-dakota/510019492/))</li><ul>
+ - [**"Lizz Wright shakes her soulful Prince tambourine at the Dakota"**](https://www.startribune.com/lizz-wright-shakes-her-soulful-prince-tambourine-at-the-dakota/510019492/)<ul><li>by [Jon Bream](../../authors/jon-bream/index.md)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 16 May 2019</li><li>about [Dakota (place)](../../topics/place/dakota/index.md), [Lizz Wright](../../topics/lizz-wright/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/lizz-wright-shakes-her-soulful-prince-tambourine-at-the-dakota/510019492/))</li><ul>
 
 ----
 

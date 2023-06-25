@@ -28,11 +28,11 @@
 
 ----
 
- - [**"Mixed Blood is forced by Prince's estate to cancel gala at Paisley Park"**](https://www.startribune.com/mixed-blood-is-forced-by-prince-s-estate-to-cancel-gala-at-paisley-park/378494185/)<ul><li>by Jon Bream</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 7 May 2016</li><li>about [Bremer Trust](../../topics/bremer-trust/index.md), [contract](../../topics/contract/index.md), [Mixed Blood](../../topics/mixed-blood/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/mixed-blood-is-forced-by-prince-s-estate-to-cancel-gala-at-paisley-park/378494185/))</li><ul>
+ - [**"Mixed Blood is forced by Prince's estate to cancel gala at Paisley Park"**](https://www.startribune.com/mixed-blood-is-forced-by-prince-s-estate-to-cancel-gala-at-paisley-park/378494185/)<ul><li>by [Jon Bream](../../authors/jon-bream/index.md)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 7 May 2016</li><li>about [Bremer Trust](../../topics/bremer-trust/index.md), [contract](../../topics/contract/index.md), [Mixed Blood](../../topics/mixed-blood/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/mixed-blood-is-forced-by-prince-s-estate-to-cancel-gala-at-paisley-park/378494185/))</li><ul>
 
 ----
 
- - [**"Paisley Park event cancellation distresses Mixed Blood ticket holders -- Court-appointed trustee is enforcing a ban on events at Prince's estate."**](https://www.startribune.com/paisley-park-event-cancellation-distresses-mixed-blood-ticket-holders/378527695/)<ul><li>by Jon Bream</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 7 May 2016</li><li>about [Bremer Trust](../../topics/bremer-trust/index.md), [contract](../../topics/contract/index.md), [Mixed Blood](../../topics/mixed-blood/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/paisley-park-event-cancellation-distresses-mixed-blood-ticket-holders/378527695/))</li><ul>
+ - [**"Paisley Park event cancellation distresses Mixed Blood ticket holders -- Court-appointed trustee is enforcing a ban on events at Prince's estate."**](https://www.startribune.com/paisley-park-event-cancellation-distresses-mixed-blood-ticket-holders/378527695/)<ul><li>by [Jon Bream](../../authors/jon-bream/index.md)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 7 May 2016</li><li>about [Bremer Trust](../../topics/bremer-trust/index.md), [contract](../../topics/contract/index.md), [Mixed Blood](../../topics/mixed-blood/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/paisley-park-event-cancellation-distresses-mixed-blood-ticket-holders/378527695/))</li><ul>
 
 ----
 
@@ -48,7 +48,7 @@
 
 ----
 
- - [**"A purple-tie affair?"**](https://www.startribune.com/a-purple-tie-affair/372125381/)<ul><li>by Rohan Preston</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 15 March 2016</li><li>about [Chanhassen Dinner Theatres](../../topics/chanhassen-dinner-theatres/index.md), [Mixed Blood](../../topics/mixed-blood/index.md), [Paisley Park Studios (place)](../../topics/place/paisley-park-studios/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/a-purple-tie-affair/372125381/))</li><ul>
+ - [**"A purple-tie affair?"**](https://www.startribune.com/a-purple-tie-affair/372125381/)<ul><li>by [Rohan Preston](../../authors/rohan-preston/index.md)</li><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 15 March 2016</li><li>about [Chanhassen Dinner Theatres](../../topics/chanhassen-dinner-theatres/index.md), [Mixed Blood](../../topics/mixed-blood/index.md), [Paisley Park Studios (place)](../../topics/place/paisley-park-studios/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/a-purple-tie-affair/372125381/))</li><ul>
 
 ----
 
