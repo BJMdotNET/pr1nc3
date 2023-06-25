@@ -1,4 +1,7 @@
 items:
+- name: home
+  href: /
+  homepage: index.md
 - name: publications
   href: publications/
   homepage: publications/index.md
