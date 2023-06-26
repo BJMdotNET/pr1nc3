@@ -1,5 +1,9 @@
 # PlectrumElectrum (album)
 
+## 2016 (1)
+
+### 2016 April (1)
+
  - [**"24 Outrageous Prince Stories"**](https://www.vulture.com/2014/09/24-outrageous-prince-stories.html)
     - by [David Marchese](../../../authors/david-marchese/index.md)
     - in [Vulture](https://www.vulture.com/)

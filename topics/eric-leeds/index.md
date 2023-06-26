@@ -1,16 +1,18 @@
 # Eric Leeds
 
- - [**"Get Ready For More Prince Rarities: Estate Will Reissue 'The Rainbow Children' and 'One Nite Alone' Albums"**](https://www.billboard.com/articles/columns/rock/8551497/prince-estate-reissuing-live-early-2000s-studio-album)
+## 2020 (2)
 
+### 2020 February (2)
+
+ - [**"Get Ready For More Prince Rarities: Estate Will Reissue 'The Rainbow Children' and 'One Nite Alone' Albums"**](https://www.billboard.com/articles/columns/rock/8551497/prince-estate-reissuing-live-early-2000s-studio-album)
     - in [Billboard](https://www.billboard.com/)
     - on 20 February 2020
     - about [Candy Dulfer](../../topics/candy-dulfer/index.md), [Eric Leeds](../../topics/eric-leeds/index.md), [George Clinton](../../topics/george-clinton/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Legacy Recordings](../../topics/legacy-recordings/index.md), [Maceo Parker](../../topics/maceo-parker/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [NPG Music Club (website)](../../topics/website/npg-music-club/index.md), [NPG Records](../../topics/npg-records/index.md), [One Nite Alone (album)](../../topics/album/one-nite-alone/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Raspberry Beret (song)](../../topics/song/raspberry-beret/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [The Rainbow Children (album)](../../topics/album/the-rainbow-children/index.md), [Up All Nite with Prince: The One Nite Alone Collection (album)](../../topics/album/up-all-nite-with-prince-the-one-nite-alone-collection/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/columns/rock/8551497/prince-estate-reissuing-live-early-2000s-studio-album))
 
-----
+<br />
 
  - [**"The Prince Estate in Partnership with Legacy Recordings Announce Next Wave of Physical Titles in Definitive Prince Catalog Reissue Project arriving Friday, April 17"**](https://www.legacyrecordings.com/2020/02/20/the-prince-estate-in-partnership-with-legacy-recordings-announce-next-wave-of-physical-titles-in-definitive-prince-catalog-reissue-project-arriving-friday-april-17/)
-
     - in [Legacy Recordings](https://www.legacyrecordings.com/)
     - on 20 February 2020
     - about [Around The World In A Day (song)](../../topics/song/around-the-world-in-a-day/index.md), [Candy Dulfer](../../topics/candy-dulfer/index.md), [Eric Leeds](../../topics/eric-leeds/index.md), [George Clinton](../../topics/george-clinton/index.md), [James Brown](../../topics/james-brown/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Legacy Recordings](../../topics/legacy-recordings/index.md), [Live at The Aladdin Las Vegas (DVD)](../../topics/dvd/live-at-the-aladdin-las-vegas/index.md), [Maceo Parker](../../topics/maceo-parker/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [NPG Music Club (website)](../../topics/website/npg-music-club/index.md), [NPG Records](../../topics/npg-records/index.md), [One Nite Alone (album)](../../topics/album/one-nite-alone/index.md), [One Nite Alone: The Aftershow…It Ain’t Over! (album)](../../topics/album/one-nite-alone-the-aftershow-it-ain-t-over/index.md), [One Nite Alone… (album)](../../topics/album/one-nite-alone/index.md), [One Nite Alone… The Aftershow: It Ain’t Over! (album)](../../topics/album/one-nite-alone-the-aftershow-it-ain-t-over/index.md), [One Nite Alone…Live! (album)](../../topics/album/one-nite-alone-live/index.md), [Pop Life (song)](../../topics/song/pop-life/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Prince Live at The Aladdin Las Vegas (DVD)](../../topics/dvd/prince-live-at-the-aladdin-las-vegas/index.md), [Raspberry Beret (song)](../../topics/song/raspberry-beret/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Sony Music](../../topics/sony-music/index.md), [Sony Music Entertainment](../../topics/sony-music-entertainment/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [The Rainbow Children (album)](../../topics/album/the-rainbow-children/index.md), [Up All Nite with Prince: The One Nite Alone Collection (album)](../../topics/album/up-all-nite-with-prince-the-one-nite-alone-collection/index.md)
@@ -18,23 +20,27 @@
 
 ----
 
- - [**"IRRESISTIBLE BOOK: PRINCE’S MEMOIR “THE BEAUTIFUL ONES”"**](https://scottwoodsmakeslists.wordpress.com/2019/10/27/irresistible-book-princes-memoir-the-beautiful-ones/)
+## 2019 (5)
 
+### 2019 October (2)
+
+ - [**"IRRESISTIBLE BOOK: PRINCE’S MEMOIR “THE BEAUTIFUL ONES”"**](https://scottwoodsmakeslists.wordpress.com/2019/10/27/irresistible-book-princes-memoir-the-beautiful-ones/)
     - in [scottwoodsmakeslists.wordpress.com](https://scottwoodsmakeslists.wordpress.com/)
     - on 28 October 2019
     - about [Aretha Franklin](../../topics/aretha-franklin/index.md), [Brittany Howard](../../topics/brittany-howard/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Ed Sheeran](../../topics/ed-sheeran/index.md), [Eric Leeds](../../topics/eric-leeds/index.md), [James Brown](../../topics/james-brown/index.md), [Katy Perry](../../topics/katy-perry/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [vault](../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://scottwoodsmakeslists.wordpress.com/2019/10/27/irresistible-book-princes-memoir-the-beautiful-ones/))
 
-----
+<br />
 
  - [**""A REMARKABLE MAN!” -- Susan Rogers Reflects upon her Lifelong Journey in Music, What it was Like to Watch a ‘Genius at Work,’ and Her Personal Vow to lift up Prince’s Legacy at Every Turn -- Spotlight: Susan Rogers"**](http://prnalumni.org/members/spotlight/spotlight-susan-rogers/)
-
     - in [prnalumni.org](http://prnalumni.org/)
     - on 11 October 2019
     - about [André Cymone](../../topics/andr-cymone/index.md), [ASCAP](../../topics/ascap/index.md), [Bruce Springsteen](../../topics/bruce-springsteen/index.md), [Candy Dulfer](../../topics/candy-dulfer/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Computer Blue (song)](../../topics/song/computer-blue/index.md), [Detroit (place)](../../topics/place/detroit/index.md), [Eric Leeds](../../topics/eric-leeds/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Forum (place)](../../topics/place/forum/index.md), [Inglewood, California (place)](../../topics/place/inglewood-california/index.md), [Jesse Johnson](../../topics/jesse-johnson/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Joe Louis Arena (place)](../../topics/place/joe-louis-arena/index.md), [Kiowa Trail](../../topics/kiowa-trail/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Madonna](../../topics/madonna/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [PRN Alumni Foundation](../../topics/prn-alumni-foundation/index.md), [Sheena Easton](../../topics/sheena-easton/index.md), [Sheila E.](../../topics/sheila-e/index.md), [St. Louis Park (place)](../../topics/place/st-louis-park/index.md), [Steve Fargnoli](../../topics/steve-fargnoli/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [Tevin Campbell](../../topics/tevin-campbell/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md)
     - ([mirror](https://web.archive.org/web/*/http://prnalumni.org/members/spotlight/spotlight-susan-rogers/))
 
 ----
+
+### 2019 July (1)
 
  - [**"The Family’s Paul Peterson returns with a pair of new solo songs that sound a lot like Prince"**](https://www.twincities.com/2019/07/18/the-familys-paul-peterson-returns-with-a-pair-of-new-solo-songs-that-sound-a-lot-like-prince/)
     - by [Ross Raihala](../../authors/ross-raihala/index.md)
@@ -45,6 +51,8 @@
 
 ----
 
+### 2019 April (1)
+
  - [**"Twin Cities concerts of the week: Snoop Dogg, Chris Koza, VocalEssence does Dylan, Prince tributes -- This week’s big gigs for April 26-May 2, also including Neko Case, Kodak Black, Arturo Sandoval, Foals and more."**](https://www.startribune.com/twin-cities-concerts-of-the-week-snoop-dogg-chris-koza-vocalessence-does-dylan-prince-tributes/509061512/)
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md), [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
@@ -54,8 +62,9 @@
 
 ----
 
- - [**"SPILL FEATURE: WHEN DRUMS CONDUCT – A CONVERSATION WITH JACOB ARMEN"**](http://spillmagazine.com/spill-feature-when-drums-conduct-a-conversation-with-jacob-armen/)
+### 2019 January (1)
 
+ - [**"SPILL FEATURE: WHEN DRUMS CONDUCT – A CONVERSATION WITH JACOB ARMEN"**](http://spillmagazine.com/spill-feature-when-drums-conduct-a-conversation-with-jacob-armen/)
     - in [The Spill Magazine](http://spillmagazine.com/)
     - on 10 January 2019
     - about [Eric Leeds](../../topics/eric-leeds/index.md), [Jacob Armen](../../topics/jacob-armen/index.md), [Paisley Park Records](../../topics/paisley-park-records/index.md)
@@ -63,8 +72,11 @@
 
 ----
 
- - [**"Prince's Sign O' The Times, 30 years on"**](https://www.bbc.com/news/entertainment-arts-39441461)
+## 2017 (1)
 
+### 2017 March (1)
+
+ - [**"Prince's Sign O' The Times, 30 years on"**](https://www.bbc.com/news/entertainment-arts-39441461)
     - in [BBC News](https://www.bbc.com/news/)
     - on 31 March 2017
     - about [Bangles](../../topics/bangles/index.md), [Dream Factory (album)](../../topics/album/dream-factory/index.md), [Eric Leeds](../../topics/eric-leeds/index.md), [George Clinton](../../topics/george-clinton/index.md), [Housequake (song)](../../topics/song/housequake/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Matt Fink](../../topics/matt-fink/index.md), [Obama](../../topics/obama/index.md), [Questlove](../../topics/questlove/index.md), [Sheena Easton](../../topics/sheena-easton/index.md), [Starfish And Coffee (song)](../../topics/song/starfish-and-coffee/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [The Ballad Of Dorothy Parker (song)](../../topics/song/the-ballad-of-dorothy-parker/index.md), [The Revolution](../../topics/the-revolution/index.md), [U Got the Look (song)](../../topics/song/u-got-the-look/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md), [Van Jones](../../topics/van-jones/index.md), [vault](../../topics/vault/index.md)
@@ -72,8 +84,11 @@
 
 ----
 
- - [**"Remembering Prince: Engineer “Cubby” Colby"**](https://www.prosoundnetwork.com/business/remembering-prince-engineer-cubby-colby)
+## 2016 (1)
 
+### 2016 April (1)
+
+ - [**"Remembering Prince: Engineer “Cubby” Colby"**](https://www.prosoundnetwork.com/business/remembering-prince-engineer-cubby-colby)
     - in [ProSound](https://www.prosoundnetwork.com/)
     - on 28 April 2016
     - about [Brown Mark](../../topics/brown-mark/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [Eric Leeds](../../topics/eric-leeds/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [James Brown](../../topics/james-brown/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [LeRoy Bennett](../../topics/leroy-bennett/index.md), [Matt Fink](../../topics/matt-fink/index.md), [Michael Bland](../../topics/michael-bland/index.md), [Robert “Cubby” Colby](../../topics/robert-cubby-colby/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [The Revolution](../../topics/the-revolution/index.md)
@@ -81,8 +96,11 @@
 
 ----
 
- - [**"Hunting for Prince's vault"**](https://www.bbc.com/news/magazine-31962180)
+## 2015 (1)
 
+### 2015 March (1)
+
+ - [**"Hunting for Prince's vault"**](https://www.bbc.com/news/magazine-31962180)
     - in [BBC News](https://www.bbc.com/news/)
     - on 20 March 2015
     - about [Alan Leeds](../../topics/alan-leeds/index.md), [Donna Grantis](../../topics/donna-grantis/index.md), [Dream Factory (album)](../../topics/album/dream-factory/index.md), [Eric Leeds](../../topics/eric-leeds/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [vault](../../topics/vault/index.md), [Wally (song)](../../topics/song/wally/index.md), [YouTube](../../topics/youtube/index.md)
@@ -90,8 +108,11 @@
 
 ----
 
- - [**"Costello, D’Angelo, more perform at Prince tribute"**](https://apnews.com/f78be2e8ad1b4b7ebeb0c45b96f32081)
+## 2013 (1)
 
+### 2013 March (1)
+
+ - [**"Costello, D’Angelo, more perform at Prince tribute"**](https://apnews.com/f78be2e8ad1b4b7ebeb0c45b96f32081)
     - in [Associated Press News](https://apnews.com/)
     - on 8 March 2013
     - about [D’Angelo](../../topics/d-angelo/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [Eric Leeds](../../topics/eric-leeds/index.md), [Fred Armisen](../../topics/fred-armisen/index.md), [Gretchen Lieberum](../../topics/gretchen-lieberum/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Maya Rudolph](../../topics/maya-rudolph/index.md), [Paul Peterson](../../topics/paul-peterson/index.md), [Pop Life (song)](../../topics/song/pop-life/index.md), [PRINCEss](../../topics/princess/index.md), [Questlove](../../topics/questlove/index.md), [St. Paul Peterson](../../topics/st-paul-peterson/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [The Beautiful Ones (song)](../../topics/song/the-beautiful-ones/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Roots](../../topics/the-roots/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)

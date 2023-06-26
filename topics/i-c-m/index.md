@@ -1,5 +1,9 @@
 # I.C.M.
 
+## 2019 (1)
+
+### 2019 September (1)
+
  - [**"The Book of Prince -- Prince had grand plans for his autobiography, but only a few months to live."**](https://www.newyorker.com/magazine/2019/09/09/the-book-of-prince)
     - by [Dan Piepenbring](../../authors/dan-piepenbring/index.md)
     - in [The New Yorker](https://www.newyorker.com/)

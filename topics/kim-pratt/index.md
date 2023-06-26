@@ -1,7 +1,10 @@
 # Kim Pratt
 
- - [**"Prince Wanted To 'Break The Mold Of The Memoir,' Says His Co-Writer"**](https://www.npr.org/2019/11/28/782929000/prince-wanted-to-break-the-mold-of-the-memoir-says-his-co-writer)
+## 2019 (3)
 
+### 2019 November (1)
+
+ - [**"Prince Wanted To 'Break The Mold Of The Memoir,' Says His Co-Writer"**](https://www.npr.org/2019/11/28/782929000/prince-wanted-to-break-the-mold-of-the-memoir-says-his-co-writer)
     - in [National Public Radio](https://www.npr.org/)
     - on 28 November 2019
     - about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [fentanyl](../../topics/fentanyl/index.md), [fragrance](../../topics/fragrance/index.md), [Kim Pratt](../../topics/kim-pratt/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [memoir](../../topics/memoir/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [perfume](../../topics/perfume/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [vault](../../topics/vault/index.md), [Vicodin](../../topics/vicodin/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
@@ -9,14 +12,17 @@
 
 ----
 
- - [**"Book excerpt: Prince's memoir, "The Beautiful Ones""**](https://www.cbsnews.com/news/book-excerpt-prince-memoir-the-beautiful-ones/)
+### 2019 October (1)
 
+ - [**"Book excerpt: Prince's memoir, "The Beautiful Ones""**](https://www.cbsnews.com/news/book-excerpt-prince-memoir-the-beautiful-ones/)
     - in [CBS News](https://www.cbsnews.com/)
     - on 26 October 2019
     - about [airport](../../topics/airport/index.md), [Chris Jackson](../../topics/chris-jackson/index.md), [Country Inn & Suites (place)](../../topics/place/country-inn-suites/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Kim Pratt](../../topics/kim-pratt/index.md), [memoir](../../topics/memoir/index.md), [Penguin Random House](../../topics/penguin-random-house/index.md), [Random House](../../topics/random-house/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/news/book-excerpt-prince-memoir-the-beautiful-ones/))
 
 ----
+
+### 2019 September (1)
 
  - [**"The Book of Prince -- Prince had grand plans for his autobiography, but only a few months to live."**](https://www.newyorker.com/magazine/2019/09/09/the-book-of-prince)
     - by [Dan Piepenbring](../../authors/dan-piepenbring/index.md)

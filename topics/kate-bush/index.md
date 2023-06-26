@@ -1,7 +1,10 @@
 # Kate Bush
 
- - [**"Books of the month: From Dave Eggers’ The Captain and the Glory to Hayley Nolan’s corrective history of Anne Boleyn -- Martin Chilton reviews five of December’s best books for our monthly book column"**](https://www.independent.co.uk/arts-entertainment/books/features/december-book-dave-eggers-the-captain-teen-idol-leif-garrett-anne-boleyn-a9220196.html)
+## 2019 (1)
 
+### 2019 December (1)
+
+ - [**"Books of the month: From Dave Eggers’ The Captain and the Glory to Hayley Nolan’s corrective history of Anne Boleyn -- Martin Chilton reviews five of December’s best books for our monthly book column"**](https://www.independent.co.uk/arts-entertainment/books/features/december-book-dave-eggers-the-captain-teen-idol-leif-garrett-anne-boleyn-a9220196.html)
     - in [www.independent.co.uk](https://www.independent.co.uk/)
     - on 1 December 2019
     - about [Kate Bush](../../topics/kate-bush/index.md), [memoir](../../topics/memoir/index.md), [Michael Jackson](../../topics/michael-jackson/index.md)
@@ -9,8 +12,11 @@
 
 ----
 
- - [**"‘Prince’s Last Year’ Will Explore the Music Icon’s Final Twelve Months"**](https://variety.com/2017/tv/news/princes-last-year-documentary-1202626889/)
+## 2017 (1)
 
+### 2017 November (1)
+
+ - [**"‘Prince’s Last Year’ Will Explore the Music Icon’s Final Twelve Months"**](https://variety.com/2017/tv/news/princes-last-year-documentary-1202626889/)
     - in [Variety](https://variety.com/)
     - on 30 November 2017
     - about [Adrian Sibley](../../topics/adrian-sibley/index.md), [Andy Allo](../../topics/andy-allo/index.md), [CeeLo Green](../../topics/ceelo-green/index.md), [Channel 4](../../topics/channel-4/index.md), [Dan Goldsack](../../topics/dan-goldsack/index.md), [Eryn Allen Kane](../../topics/eryn-allen-kane/index.md), [George Clinton](../../topics/george-clinton/index.md), [Kate Bush](../../topics/kate-bush/index.md), [Lincoln Square Prods.](../../topics/lincoln-square-prods/index.md), [Michael Kirk](../../topics/michael-kirk/index.md), [Prince: R U Listening? (documentary)](../../topics/documentary/prince-r-u-listening/index.md), [Prince’s Last Year (documentary)](../../topics/documentary/prince-s-last-year/index.md), [Sheldon Lazarus](../../topics/sheldon-lazarus/index.md), [Van Jones](../../topics/van-jones/index.md)
@@ -18,8 +24,11 @@
 
 ----
 
- - [**"Susan Rogers - 2016 Red Bull Music Academy lecture"**](https://www.redbullmusicacademy.com/lectures/susan-rogers-lecture)
+## 2016 (4)
 
+### 2016 December (1)
+
+ - [**"Susan Rogers - 2016 Red Bull Music Academy lecture"**](https://www.redbullmusicacademy.com/lectures/susan-rogers-lecture)
     - in [Red Bull Music Academy](https://www.redbullmusicacademy.com/)
     - on 8 December 2016
     - about [17 Days (song)](../../topics/song/17-days/index.md), [Academy Award](../../topics/academy-award/index.md), [Anita Baker](../../topics/anita-baker/index.md), [Bernie Grundman](../../topics/bernie-grundman/index.md), [bootleg](../../topics/bootleg/index.md), [Condition of the Heart (song)](../../topics/song/condition-of-the-heart/index.md), [contract](../../topics/contract/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Grammy Award](../../topics/grammy-award/index.md), [James Brown](../../topics/james-brown/index.md), [Jesse Johnson](../../topics/jesse-johnson/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Kate Bush](../../topics/kate-bush/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Pop Life (song)](../../topics/song/pop-life/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Sly Stone](../../topics/sly-stone/index.md), [Sometimes It Snows In April (song)](../../topics/song/sometimes-it-snows-in-april/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [Tevin Campbell](../../topics/tevin-campbell/index.md), [The Ballad Of Dorothy Parker (song)](../../topics/song/the-ballad-of-dorothy-parker/index.md), [The Revolution](../../topics/the-revolution/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
@@ -27,8 +36,9 @@
 
 ----
 
- - [**"Kate Bush discusses the material she recorded with Prince"**](https://www.nme.com/news/music/kate-bush-discusses-material-recorded-prince-1860552)
+### 2016 November (1)
 
+ - [**"Kate Bush discusses the material she recorded with Prince"**](https://www.nme.com/news/music/kate-bush-discusses-material-recorded-prince-1860552)
     - in [NME (New Musical Express)](https://www.nme.com/)
     - on 17 November 2016
     - about [Kate Bush](../../topics/kate-bush/index.md), [The Red Shoes (album)](../../topics/album/the-red-shoes/index.md)
@@ -36,17 +46,17 @@
 
 ----
 
- - [**"Lenny Henry on Prince: 'I almost passed out. This was my hero talking to me' -- The actor and comedian remembers a rooftop meeting and how he couldn’t believe his luck when he found out Prince was playing guitar for an album he was singing on for Kate Bush"**](https://www.theguardian.com/music/2016/apr/24/the-time-i-sang-with-prince-and-kate-bush-by-lenny-henry)
+### 2016 April (2)
 
+ - [**"Lenny Henry on Prince: 'I almost passed out. This was my hero talking to me' -- The actor and comedian remembers a rooftop meeting and how he couldn’t believe his luck when he found out Prince was playing guitar for an album he was singing on for Kate Bush"**](https://www.theguardian.com/music/2016/apr/24/the-time-i-sang-with-prince-and-kate-bush-by-lenny-henry)
     - in [The Guardian](https://www.theguardian.com/)
     - on 24 April 2016
     - about [Chaka Khan](../../topics/chaka-khan/index.md), [Eric Clapton](../../topics/eric-clapton/index.md), [Kate Bush](../../topics/kate-bush/index.md), [Lenny Henry](../../topics/lenny-henry/index.md), [Sometimes It Snows In April (song)](../../topics/song/sometimes-it-snows-in-april/index.md), [The Red Shoes (album)](../../topics/album/the-red-shoes/index.md), [Why Should I Love You? (song)](../../topics/song/why-should-i-love-you/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/music/2016/apr/24/the-time-i-sang-with-prince-and-kate-bush-by-lenny-henry))
 
-----
+<br />
 
  - [**"The Man Who Would Be Prince -- In the fall of 1991, set to drop double-platinum Diamonds and Pearls, Prince sat down with writer Chris Heath for a rare interview. A crazy-rare interview: The singer had answered questions publicly just four times between 1984’s Purple Rain and that year. Go inside Paisley Park, where Heath lived for six days."**](https://www.gq.com/story/prince-interview-inside-paisley-park)
-
     - in [GQ](https://www.gq.com/)
     - on 21 April 2016
     - about [contract](../../topics/contract/index.md), [Glam Slam (place)](../../topics/place/glam-slam/index.md), [Ingrid Chavez](../../topics/ingrid-chavez/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Kate Bush](../../topics/kate-bush/index.md), [Martika](../../topics/martika/index.md), [New Girl (TV show)](../../topics/tv-show/new-girl/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [Paula Abdul](../../topics/paula-abdul/index.md), [royalties](../../topics/royalties/index.md), [Spike Lee](../../topics/spike-lee/index.md), [Standing at the Altar (song)](../../topics/song/standing-at-the-altar/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [The Black Album (album)](../../topics/album/the-black-album/index.md), [Wednesday (song)](../../topics/song/wednesday/index.md)

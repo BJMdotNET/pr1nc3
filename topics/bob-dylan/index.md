@@ -1,5 +1,9 @@
 # Bob Dylan
 
+## 2023 (1)
+
+### 2023 May (1)
+
  - [**"Supreme Court Rules Against Andy Warhol In Big Copyright Case Over Prince Images -- Music companies feared that a decision for Warhol could have disrupted industry practices for sampling or emboldened AI companies to use copyrighted songs."**](https://www.billboard.com/pro/andy-warhol-prince-supreme-court-copyright-case-ruling/)
     - by [Bill Donahue](../../authors/bill-donahue/index.md)
     - in [Billboard](https://www.billboard.com/)
@@ -9,26 +13,27 @@
 
 ----
 
- - [**"Local artist pays tribute to Prince with giant mural at MSP airport -- Rock Martinez's mural of the music legend arrived for a yearlong stay at MSP as part of the airport's traveling exhibits program."**](https://www.startribune.com/local-artist-pays-tribute-to-prince-with-msp-airport-mural/567357372/)
+## 2020 (3)
 
+### 2020 January (3)
+
+ - [**"Local artist pays tribute to Prince with giant mural at MSP airport -- Rock Martinez's mural of the music legend arrived for a yearlong stay at MSP as part of the airport's traveling exhibits program."**](https://www.startribune.com/local-artist-pays-tribute-to-prince-with-msp-airport-mural/567357372/)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 28 January 2020
     - about [airport](../../topics/airport/index.md), [Alan Seiffert](../../topics/alan-seiffert/index.md), [ARTS@MSP](../../topics/arts-msp/index.md), [Bob Dylan](../../topics/bob-dylan/index.md), [exhibit](../../topics/exhibit/index.md), [I Would Die 4 U (song)](../../topics/song/i-would-die-4-u/index.md), [merchandise](../../topics/merchandise/index.md), [Minneapolis-St. Paul International Airport (place)](../../topics/place/minneapolis-st-paul-international-airport/index.md), [MSP (place)](../../topics/place/msp/index.md), [museum](../../topics/museum/index.md), [Rock Martinez](../../topics/rock-martinez/index.md), [The Revolution](../../topics/the-revolution/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md), [Weisman Art Museum (place)](../../topics/place/weisman-art-museum/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/local-artist-pays-tribute-to-prince-with-msp-airport-mural/567357372/))
 
-----
+<br />
 
  - [**""To have him trust me to be the first reader of his memoir pages...that was special" – Dan Piepenbring on Prince's unfinished memoir"**](https://www.hotpress.com/music/trust-first-reader-memoir-pages-special-dan-piepenbring-princes-unfinished-memoir-22801383)
-
     - in [Hot Press](https://www.hotpress.com/)
     - on 23 January 2020
     - about [Bob Dylan](../../topics/bob-dylan/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [John Lewis Nelson](../../topics/john-lewis-nelson/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.hotpress.com/music/trust-first-reader-memoir-pages-special-dan-piepenbring-princes-unfinished-memoir-22801383))
 
-----
+<br />
 
  - [**"Star Tribune's 2019 Artists of the Year -- Meet the Minnesotans at the heart of the year's most groundbreaking show."**](https://www.startribune.com/6-minnesotans-are-2019-artists-of-the-year/564924782/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 6 January 2020
     - about [1999 (album)](../../topics/album/1999/index.md), [ASCAP](../../topics/ascap/index.md), [Ava DuVernay](../../topics/ava-duvernay/index.md), [Bangles](../../topics/bangles/index.md), [Bob Dylan](../../topics/bob-dylan/index.md), [Dakota (place)](../../topics/place/dakota/index.md), [exhibit](../../topics/exhibit/index.md), [exhibition](../../topics/exhibition/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [lawsuit](../../topics/lawsuit/index.md), [Lizzo](../../topics/lizzo/index.md), [memoir](../../topics/memoir/index.md), [Minneapolis Institute of Art](../../topics/minneapolis-institute-of-art/index.md), [museum](../../topics/museum/index.md), [Netflix](../../topics/netflix/index.md), [Originals (album)](../../topics/album/originals/index.md), [Rearrange (song)](../../topics/song/rearrange/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Smithsonian (place)](../../topics/place/smithsonian/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md), [vault](../../topics/vault/index.md)
@@ -36,53 +41,51 @@
 
 ----
 
- - [**"Henderson (‘That ain’t Lake Minnetonka’), Minnesota to unveil Prince statue"**](https://blog.thecurrent.org/2019/12/henderson-that-aint-lake-minnetonka-minnesota-to-unveil-prince-statue/)
+## 2019 (10)
 
+### 2019 December (6)
+
+ - [**"Henderson (‘That ain’t Lake Minnetonka’), Minnesota to unveil Prince statue"**](https://blog.thecurrent.org/2019/12/henderson-that-aint-lake-minnetonka-minnesota-to-unveil-prince-statue/)
     - in [The Current - Local Current Blog](https://blog.thecurrent.org/)
     - on 27 December 2019
     - about [Allen Beaulieu](../../topics/allen-beaulieu/index.md), [Andrea Swensson](../../topics/andrea-swensson/index.md), [Bob Dylan](../../topics/bob-dylan/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [Cloud guitar (instrument)](../../topics/instrument/cloud-guitar/index.md), [Lake Minnetonka (place)](../../topics/place/lake-minnetonka/index.md)
     - ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2019/12/henderson-that-aint-lake-minnetonka-minnesota-to-unveil-prince-statue/))
 
-----
+<br />
 
  - [**"The Best Music Boxed Sets of 2019 -- The Beatles, Prince, Bob Dylan, Nat King Cole, the Replacements and the Band all got commemorated — along with Woodstock, Bakersfield, Motown and East L.A."**](https://variety.com/2019/music/reviews/best-music-boxed-sets-2019-1203451459/)
-
     - in [Variety](https://variety.com/)
     - on 23 December 2019
     - about [1999 (album)](../../topics/album/1999/index.md), [Bob Dylan](../../topics/bob-dylan/index.md), [bootleg](../../topics/bootleg/index.md), [David Fricke](../../topics/david-fricke/index.md), [Eric Clapton](../../topics/eric-clapton/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Mountains (song)](../../topics/song/mountains/index.md), [New Power Generation (song)](../../topics/song/new-power-generation/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [The Revolution](../../topics/the-revolution/index.md), [vault](../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/reviews/best-music-boxed-sets-2019-1203451459/))
 
-----
+<br />
 
  - [**"Prince: The Story of 1999 bonus feature: Lisa Coleman, 'Prince and I just connected musically'"**](https://www.thecurrent.org/feature/2019/12/17/the-revolution-lisa-coleman-prince-was-an-amazing-spirit-guide)
-
     - in [The Current](https://www.thecurrent.org/)
     - on 17 December 2019
     - about [1999 (album)](../../topics/album/1999/index.md), [Andrea Swensson](../../topics/andrea-swensson/index.md), [Bob Dylan](../../topics/bob-dylan/index.md), [BrownMark](../../topics/brownmark/index.md), [I Wanna Be Your Lover (song)](../../topics/song/i-wanna-be-your-lover/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Kiowa Trail](../../topics/kiowa-trail/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Matt Fink](../../topics/matt-fink/index.md), [Prince: The Story of 1999](../../topics/prince-the-story-of-1999/index.md), [Sly Stone](../../topics/sly-stone/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [The Revolution](../../topics/the-revolution/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md), [Yah, You Know (song)](../../topics/song/yah-you-know/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/12/17/the-revolution-lisa-coleman-prince-was-an-amazing-spirit-guide))
 
-----
+<br />
 
  - [**"20 gift ideas for the music lovers on your holiday list -- Twenty ideas for the music lovers on your holiday list."**](https://www.startribune.com/20-gift-ideas-for-the-music-lovers-on-your-holiday-list/566181501/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 16 December 2019
     - about [1999 Super Deluxe (album)](../../topics/album/1999-super-deluxe/index.md), [Bob Dylan](../../topics/bob-dylan/index.md), [bootleg](../../topics/bootleg/index.md), [Lizzo](../../topics/lizzo/index.md), [memoir](../../topics/memoir/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Morris Day](../../topics/morris-day/index.md), [My Name Is Prince: 25 Inspired Years (book)](../../topics/book/my-name-is-prince-25-inspired-years/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/20-gift-ideas-for-the-music-lovers-on-your-holiday-list/566181501/))
 
-----
+<br />
 
  - [**"From Prince to Dessa to Dylan, here are five homegrown musical gift ideas"**](https://www.twincities.com/2019/12/12/from-prince-to-dessa-to-dylan-here-are-five-homegrown-musical-gift-ideas/)
-
     - in [TwinCities.com - Pioneer Press](https://www.twincities.com/)
     - on 12 December 2019
     - about [Andrea Swensson](../../topics/andrea-swensson/index.md), [Bob Dylan](../../topics/bob-dylan/index.md), [bootleg](../../topics/bootleg/index.md), [Chanhassen Dinner Theatres](../../topics/chanhassen-dinner-theatres/index.md), [David Fricke](../../topics/david-fricke/index.md), [Duane Tudahl](../../topics/duane-tudahl/index.md), [Duff McKagan](../../topics/duff-mckagan/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Minnesota Historical Society](../../topics/minnesota-historical-society/index.md), [motorcycle](../../topics/motorcycle/index.md), [Pop Life (song)](../../topics/song/pop-life/index.md), [The Revolution](../../topics/the-revolution/index.md), [vault](../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2019/12/12/from-prince-to-dessa-to-dylan-here-are-five-homegrown-musical-gift-ideas/))
 
-----
+<br />
 
  - [**"‘Purple Rain’ added to National Film Registry"**](https://blog.thecurrent.org/2019/12/purple-rain-added-to-national-film-registry/)
-
     - in [The Current - Local Current Blog](https://blog.thecurrent.org/)
     - on 11 December 2019
     - about [Albert Magnoli](../../topics/albert-magnoli/index.md), [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Bob Dylan](../../topics/bob-dylan/index.md)
@@ -90,8 +93,9 @@
 
 ----
 
- - [**"Garrison Keillor rips Bob Dylan in his latest book"**](https://www.startribune.com/garrison-keillor-rips-bob-dylan-in-his-latest-book/565146932/)
+### 2019 November (1)
 
+ - [**"Garrison Keillor rips Bob Dylan in his latest book"**](https://www.startribune.com/garrison-keillor-rips-bob-dylan-in-his-latest-book/565146932/)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 19 November 2019
     - about [Bob Dylan](../../topics/bob-dylan/index.md), [Garrison Keillor](../../topics/garrison-keillor/index.md)
@@ -99,14 +103,17 @@
 
 ----
 
- - [**"Rock and Roll Book Club: Ani DiFranco's 'No Walls and the Recurring Dream'"**](https://www.thecurrent.org/feature/2019/08/20/ani-difranco-no-walls)
+### 2019 August (1)
 
+ - [**"Rock and Roll Book Club: Ani DiFranco's 'No Walls and the Recurring Dream'"**](https://www.thecurrent.org/feature/2019/08/20/ani-difranco-no-walls)
     - in [The Current](https://www.thecurrent.org/)
     - on 21 August 2019
     - about [Ani DiFranco](../../topics/ani-difranco/index.md), [Bob Dylan](../../topics/bob-dylan/index.md), [Maceo Parker](../../topics/maceo-parker/index.md), [memoir](../../topics/memoir/index.md), [Rave Un2 the Joy Fantastic (album)](../../topics/album/rave-un2-the-joy-fantastic/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/08/20/ani-difranco-no-walls))
 
 ----
+
+### 2019 July (1)
 
  - [**"‘Purple Rain’ Director Gets Deep About Working With Prince: ‘How Is It You Just Told My Life Story?’"**](https://www.yahoo.com/entertainment/purple-rain-director-gets-deep-125505865.html)
     - by [Todd Gilchrist](../../authors/todd-gilchrist/index.md)
@@ -117,8 +124,9 @@
 
 ----
 
- - [**"Ani DiFranco on Touring With Bob Dylan and Why Prince Was a ‘Queer F-ckin’ Hero’ -- Always unapologetic, the folk singer details her decades of survival in her new memoir, No Walls and the Recurring Dream"**](https://www.rollingstone.com/music/music-features/ani-difranco-new-memoir-bob-dylan-prince-tour-831543/)
+### 2019 May (1)
 
+ - [**"Ani DiFranco on Touring With Bob Dylan and Why Prince Was a ‘Queer F-ckin’ Hero’ -- Always unapologetic, the folk singer details her decades of survival in her new memoir, No Walls and the Recurring Dream"**](https://www.rollingstone.com/music/music-features/ani-difranco-new-memoir-bob-dylan-prince-tour-831543/)
     - in [Rolling Stone](https://www.rollingstone.com/)
     - on 6 May 2019
     - about [Ani DiFranco](../../topics/ani-difranco/index.md), [Bob Dylan](../../topics/bob-dylan/index.md), [Maceo Parker](../../topics/maceo-parker/index.md), [memoir](../../topics/memoir/index.md)
@@ -126,8 +134,11 @@
 
 ----
 
- - [**"Robyne Robinson remembers Prince's Vikings song, playful side"**](https://www.thecurrent.org/feature/2017/11/30/robyne-robinson-remembers-princes-vikings-song-playful-side)
+## 2017 (1)
 
+### 2017 November (1)
+
+ - [**"Robyne Robinson remembers Prince's Vikings song, playful side"**](https://www.thecurrent.org/feature/2017/11/30/robyne-robinson-remembers-princes-vikings-song-playful-side)
     - in [The Current](https://www.thecurrent.org/)
     - on 30 November 2017
     - about [airport](../../topics/airport/index.md), [Bob Dylan](../../topics/bob-dylan/index.md), [Dave Chappelle](../../topics/dave-chappelle/index.md), [Mayte](../../topics/mayte/index.md), [Minneapolis-St. Paul International Airport (place)](../../topics/place/minneapolis-st-paul-international-airport/index.md), [Purple and Gold (song)](../../topics/song/purple-and-gold/index.md), [Robyne Robinson](../../topics/robyne-robinson/index.md), [Super Bowl](../../topics/super-bowl/index.md)
@@ -135,17 +146,19 @@
 
 ----
 
- - [**"Admiradores piden música de bóveda de Prince"**](https://apnews.com/article/2fd8bfebd0284a1b893a84abbc165d03)
+## 2016 (2)
 
+### 2016 April (2)
+
+ - [**"Admiradores piden música de bóveda de Prince"**](https://apnews.com/article/2fd8bfebd0284a1b893a84abbc165d03)
     - in [Associated Press News](https://apnews.com/)
     - on 28 April 2016
     - about [Bangles](../../topics/bangles/index.md), [Bob Dylan](../../topics/bob-dylan/index.md), [Bremer Trust](../../topics/bremer-trust/index.md), [California (place)](../../topics/place/california/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Touré](../../topics/tour/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/2fd8bfebd0284a1b893a84abbc165d03))
 
-----
+<br />
 
  - [**"Prince’s Former Mentor Pepe Willie Recalls the Star's Early Days"**](https://www.yahoo.com/entertainment/princes-former-mentor-pepe-willie-recalls-the-215708376.html)
-
     - in [Yahoo! Entertainment](https://www.yahoo.com/entertainment/)
     - on 28 April 2016
     - about [3121 (album)](../../topics/album/3121/index.md), [94 East](../../topics/94-east/index.md), [André Cymone](../../topics/andr-cymone/index.md), [Bob Cavallo](../../topics/bob-cavallo/index.md), [Bob Dylan](../../topics/bob-dylan/index.md), [Chris Moon](../../topics/chris-moon/index.md), [Do Yourself a Favor (song)](../../topics/song/do-yourself-a-favor/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Jesse Johnson](../../topics/jesse-johnson/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Minnesota Vikings](../../topics/minnesota-vikings/index.md), [Morris Day](../../topics/morris-day/index.md), [Owen Husney](../../topics/owen-husney/index.md), [Pepe Willie](../../topics/pepe-willie/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md)

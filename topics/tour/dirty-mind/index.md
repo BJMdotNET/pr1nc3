@@ -1,7 +1,10 @@
 # Dirty Mind (tour)
 
- - [**"Prince’s Longtime Pianist and Archivist Talk ‘Piano & a Microphone 1983’ and the ‘Vault’ -- "It’s a look at somebody who shared himself with the public taking moments for himself, to make himself better," the Revolution's Lisa Coleman says"**](https://variety.com/2018/biz/news/princes-longtime-pianist-and-archivist-talk-piano-a-microphone-1983-and-the-vault-1202952085/)
+## 2018 (1)
 
+### 2018 September (1)
+
+ - [**"Prince’s Longtime Pianist and Archivist Talk ‘Piano & a Microphone 1983’ and the ‘Vault’ -- "It’s a look at somebody who shared himself with the public taking moments for himself, to make himself better," the Revolution's Lisa Coleman says"**](https://variety.com/2018/biz/news/princes-longtime-pianist-and-archivist-talk-piano-a-microphone-1983-and-the-vault-1202952085/)
     - in [Variety](https://variety.com/)
     - on 21 September 2018
     - about [1999 (album)](../../../topics/album/1999/index.md), [Baby I’m a Star (song)](../../../topics/song/baby-i-m-a-star/index.md), [Bob Cavallo](../../../topics/bob-cavallo/index.md), [bootleg](../../../topics/bootleg/index.md), [Dirty Mind (tour)](../../../topics/tour/dirty-mind/index.md), [Do It All Night (song)](../../../topics/song/do-it-all-night/index.md), [Do Me Baby (song)](../../../topics/song/do-me-baby/index.md), [I Wanna Be Your Lover (song)](../../../topics/song/i-wanna-be-your-lover/index.md), [Lisa Coleman](../../../topics/lisa-coleman/index.md), [Michael Howe](../../../topics/michael-howe/index.md), [museum](../../../topics/museum/index.md), [Pop Life (song)](../../../topics/song/pop-life/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [The Revolution](../../../topics/the-revolution/index.md), [vault](../../../topics/vault/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md)
@@ -9,8 +12,11 @@
 
 ----
 
- - [**"‘I’m Going to Personify Sex in Every Way’: Prince’s Defining ‘Dirty Mind’ Album -- A refusal to be labeled R&B, a rivalry with Rick James and a very dirty song called 'Head': the groundbreaking arrival of 1980's 'Dirty Mind.'"**](https://www.billboard.com/music/features/prince-dirty-mind-retrospective-7348526/)
+## 2016 (1)
 
+### 2016 April (1)
+
+ - [**"‘I’m Going to Personify Sex in Every Way’: Prince’s Defining ‘Dirty Mind’ Album -- A refusal to be labeled R&B, a rivalry with Rick James and a very dirty song called 'Head': the groundbreaking arrival of 1980's 'Dirty Mind.'"**](https://www.billboard.com/music/features/prince-dirty-mind-retrospective-7348526/)
     - in [Billboard](https://www.billboard.com/)
     - on 28 April 2016
     - about [American Bandstand](../../../topics/american-bandstand/index.md), [André Cymone](../../../topics/andr-cymone/index.md), [Andy Warhol](../../../topics/andy-warhol/index.md), [Bobby Z](../../../topics/bobby-z/index.md), [Denver (place)](../../../topics/place/denver/index.md), [Detroit (place)](../../../topics/place/detroit/index.md), [Dez Dickerson](../../../topics/dez-dickerson/index.md), [Dick Clark](../../../topics/dick-clark/index.md), [Dirty Mind (album)](../../../topics/album/dirty-mind/index.md), [Dirty Mind (tour)](../../../topics/tour/dirty-mind/index.md), [Gayle Chapman](../../../topics/gayle-chapman/index.md), [Head (song)](../../../topics/song/head/index.md), [I Wanna Be Your Lover (song)](../../../topics/song/i-wanna-be-your-lover/index.md), [Ken Tucker](../../../topics/ken-tucker/index.md), [Lake Minnetonka (place)](../../../topics/place/lake-minnetonka/index.md), [Lenny Waronker](../../../topics/lenny-waronker/index.md), [Lisa Coleman](../../../topics/lisa-coleman/index.md), [Los Angeles (place)](../../../topics/place/los-angeles/index.md), [memoir](../../../topics/memoir/index.md), [Mo Ostin](../../../topics/mo-ostin/index.md), [Rick James](../../../topics/rick-james/index.md), [Rolling Stone (magazine)](../../../topics/magazine/rolling-stone/index.md), [Roxy (place)](../../../topics/place/roxy/index.md), [Russ Thyret](../../../topics/russ-thyret/index.md), [Sam’s (place)](../../../topics/place/sam-s/index.md), [Steve Fargnoli](../../../topics/steve-fargnoli/index.md), [Stevie Wonder](../../../topics/stevie-wonder/index.md), [Ted Cohen](../../../topics/ted-cohen/index.md), [The Rainbow (place)](../../../topics/place/the-rainbow/index.md), [The Ritz (place)](../../../topics/place/the-ritz/index.md), [The Village Voice (magazine)](../../../topics/magazine/the-village-voice/index.md), [Twin Cities (place)](../../../topics/place/twin-cities/index.md), [Wayzata (place)](../../../topics/place/wayzata/index.md)

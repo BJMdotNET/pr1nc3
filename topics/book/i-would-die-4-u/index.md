@@ -1,5 +1,9 @@
 # I Would Die 4 U (book)
 
+## 2016 (1)
+
+### 2016 April (1)
+
  - [**"Revisit Prince's iconic first 'Purple Rain' performance"**](https://usatoday.com/story/life/entertainthis/2016/04/21/prince-first-performance-purple-rain-video/83346434/)
     - by [Maeve McDermott](../../../authors/maeve-mcdermott/index.md)
     - in [USA Today](https://usatoday.com/)

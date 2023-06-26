@@ -1,5 +1,9 @@
 # Earth, Wind & Fire
 
+## 2023 (1)
+
+### 2023 June (1)
+
  - [**"Why did Prince decide to live in Chanhassen? -- The Minneapolis native's legacy will forever be linked to his state-of-the-art suburban playground, Paisley Park."**](https://www.startribune.com/prince-minneapolis-chanhassen-paisley-park-andre-cymone-morris-day-bobby-z/600281369/)
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
@@ -9,8 +13,11 @@
 
 ----
 
- - [**"The Rock Hall of Fame opens to Jimmy Jam and Terry Lewis"**](https://apnews.com/article/britney-spears-entertainment-travel-music-8ee900272c36979c2d64e4fa79bd12b4)
+## 2022 (1)
 
+### 2022 November (1)
+
+ - [**"The Rock Hall of Fame opens to Jimmy Jam and Terry Lewis"**](https://apnews.com/article/britney-spears-entertainment-travel-music-8ee900272c36979c2d64e4fa79bd12b4)
     - in [Associated Press News](https://apnews.com/)
     - on 1 November 2022
     - about [Earth, Wind & Fire](../../topics/earth-wind-fire/index.md), [Grammys](../../topics/grammys/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Lionel Richie](../../topics/lionel-richie/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Q-Tip](../../topics/q-tip/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Time](../../topics/the-time/index.md)
@@ -18,134 +25,123 @@
 
 ----
 
- - [**"Foo Fighters, Beck, H.E.R., Sheila E. Light Up ‘Grammy Salute to Prince’ Concert"**](https://www.yahoo.com/entertainment/foo-fighters-beck-h-e-233930375.html)
+## 2020 (15)
 
+### 2020 January (15)
+
+ - [**"Foo Fighters, Beck, H.E.R., Sheila E. Light Up ‘Grammy Salute to Prince’ Concert"**](https://www.yahoo.com/entertainment/foo-fighters-beck-h-e-233930375.html)
     - in [Yahoo! Entertainment](https://www.yahoo.com/entertainment/)
     - on 30 January 2020
     - about [1999 (song)](../../topics/song/1999/index.md), [Baby I’m a Star (song)](../../topics/song/baby-i-m-a-star/index.md), [Bangles](../../topics/bangles/index.md), [Beck](../../topics/beck/index.md), [Chris Martin](../../topics/chris-martin/index.md), [Coldplay](../../topics/coldplay/index.md), [Controversy (song)](../../topics/song/controversy/index.md), [D’Angelo](../../topics/d-angelo/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [Diamonds and Pearls (song)](../../topics/song/diamonds-and-pearls/index.md), [Earth, Wind & Fire](../../topics/earth-wind-fire/index.md), [Foo Fighters](../../topics/foo-fighters/index.md), [Fred Armisen](../../topics/fred-armisen/index.md), [Gary Clark Jr.](../../topics/gary-clark-jr/index.md), [Gretchen Lieberum](../../topics/gretchen-lieberum/index.md), [H.E.R.](../../topics/h-e-r/index.md), [Janelle Monae](../../topics/janelle-monae/index.md), [Jerome Benton](../../topics/jerome-benton/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [John Legend](../../topics/john-legend/index.md), [Juanes](../../topics/juanes/index.md), [Jungle Love (song)](../../topics/song/jungle-love/index.md), [Ken Ehrlich](../../topics/ken-ehrlich/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Maya Rudolph](../../topics/maya-rudolph/index.md), [Misty Copeland](../../topics/misty-copeland/index.md), [Morris Day](../../topics/morris-day/index.md), [Mountains (song)](../../topics/song/mountains/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Pop Life (song)](../../topics/song/pop-life/index.md), [PRINCEss](../../topics/princess/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Raspberry Beret (song)](../../topics/song/raspberry-beret/index.md), [Sheila E.](../../topics/sheila-e/index.md), [St. Vincent](../../topics/st-vincent/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Beautiful Ones (song)](../../topics/song/the-beautiful-ones/index.md), [The Bird (song)](../../topics/song/the-bird/index.md), [The Glamorous Life (song)](../../topics/song/the-glamorous-life/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.yahoo.com/entertainment/foo-fighters-beck-h-e-233930375.html))
 
-----
+<br />
 
  - [**"At Prince’s Grammy Tribute Concert, Old Friends Meet Rock and Soul Superstars -- Foo Fighters, Beck, John Legend, Gary Clark Jr, St. Vincent and Mavis Staples join the Revolution and Sheila E. to honor musician at the Recording Academy’s latest Grammy Salute show"**](https://www.rollingstone.com/music/music-news/prince-grammy-salute-show-recap-944767/)
-
     - in [Rolling Stone](https://www.rollingstone.com/)
     - on 29 January 2020
     - about [Bangles](../../topics/bangles/index.md), [Beck](../../topics/beck/index.md), [Chris Martin](../../topics/chris-martin/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [Earth, Wind & Fire](../../topics/earth-wind-fire/index.md), [FKA twigs](../../topics/fka-twigs/index.md), [Foo Fighters](../../topics/foo-fighters/index.md), [Gary Clark Jr.](../../topics/gary-clark-jr/index.md), [Grammy Award](../../topics/grammy-award/index.md), [Gretchen Lieberum](../../topics/gretchen-lieberum/index.md), [H.E.R.](../../topics/h-e-r/index.md), [John Legend](../../topics/john-legend/index.md), [Juanes](../../topics/juanes/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Los Angeles Convention Center (place)](../../topics/place/los-angeles-convention-center/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Maya Rudolph](../../topics/maya-rudolph/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Paisley Park Records](../../topics/paisley-park-records/index.md), [PRINCEss](../../topics/princess/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Raspberry Beret (song)](../../topics/song/raspberry-beret/index.md), [Sheila E.](../../topics/sheila-e/index.md), [St. Vincent](../../topics/st-vincent/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [The Revolution](../../topics/the-revolution/index.md), [Usher](../../topics/usher/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-news/prince-grammy-salute-show-recap-944767/))
 
-----
+<br />
 
  - [**"Deep cuts and idiosyncratic visions highlight Grammy tribute concert to Prince"**](https://www.latimes.com/entertainment-arts/music/story/2020-01-29/prince-tribute-grammys-foo-fighters-beck-john-legend)
-
     - in [Los Angeles Times](https://www.latimes.com/)
     - on 29 January 2020
     - about [Aretha Franklin](../../topics/aretha-franklin/index.md), [Baby I’m a Star (song)](../../topics/song/baby-i-m-a-star/index.md), [Bangles](../../topics/bangles/index.md), [Beck](../../topics/beck/index.md), [Chris Martin](../../topics/chris-martin/index.md), [Coldplay](../../topics/coldplay/index.md), [Controversy (song)](../../topics/song/controversy/index.md), [Earth, Wind & Fire](../../topics/earth-wind-fire/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Foo Fighters](../../topics/foo-fighters/index.md), [Fred Armisen](../../topics/fred-armisen/index.md), [Gary Clark Jr.](../../topics/gary-clark-jr/index.md), [Grammy Award](../../topics/grammy-award/index.md), [H.E.R.](../../topics/h-e-r/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [John Legend](../../topics/john-legend/index.md), [Jungle Love (song)](../../topics/song/jungle-love/index.md), [Ken Ehrlich](../../topics/ken-ehrlich/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Los Angeles Convention Center (place)](../../topics/place/los-angeles-convention-center/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Mountains (song)](../../topics/song/mountains/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Pop Life (song)](../../topics/song/pop-life/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Sheila E.](../../topics/sheila-e/index.md), [St. Vincent](../../topics/st-vincent/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Super Bowl XLI (event)](../../topics/event/super-bowl-xli/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Beautiful Ones (song)](../../topics/song/the-beautiful-ones/index.md), [The Glamorous Life (song)](../../topics/song/the-glamorous-life/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.latimes.com/entertainment-arts/music/story/2020-01-29/prince-tribute-grammys-foo-fighters-beck-john-legend))
 
-----
+<br />
 
  - [**"Foo Fighters, Beck, H.E.R., Sheila E. Light Up ‘Grammy Salute to Prince’ Concert"**](https://variety.com/2020/music/news/prince-tribute-concert-foo-fighters-her-beck-1203485036/)
-
     - in [Variety](https://variety.com/)
     - on 29 January 2020
     - about [1999 (song)](../../topics/song/1999/index.md), [Baby I’m a Star (song)](../../topics/song/baby-i-m-a-star/index.md), [Bangles](../../topics/bangles/index.md), [Beck](../../topics/beck/index.md), [bootleg](../../topics/bootleg/index.md), [Chris Martin](../../topics/chris-martin/index.md), [Coldplay](../../topics/coldplay/index.md), [Controversy (song)](../../topics/song/controversy/index.md), [D’Angelo](../../topics/d-angelo/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [Diamonds and Pearls (song)](../../topics/song/diamonds-and-pearls/index.md), [Earth, Wind & Fire](../../topics/earth-wind-fire/index.md), [Foo Fighters](../../topics/foo-fighters/index.md), [Fred Armisen](../../topics/fred-armisen/index.md), [Gary Clark Jr.](../../topics/gary-clark-jr/index.md), [Gretchen Lieberum](../../topics/gretchen-lieberum/index.md), [H.E.R.](../../topics/h-e-r/index.md), [Janelle Monae](../../topics/janelle-monae/index.md), [Jerome Benton](../../topics/jerome-benton/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [John Legend](../../topics/john-legend/index.md), [Juanes](../../topics/juanes/index.md), [Jungle Love (song)](../../topics/song/jungle-love/index.md), [Ken Ehrlich](../../topics/ken-ehrlich/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Maya Rudolph](../../topics/maya-rudolph/index.md), [Misty Copeland](../../topics/misty-copeland/index.md), [Morris Day](../../topics/morris-day/index.md), [Mountains (song)](../../topics/song/mountains/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Pop Life (song)](../../topics/song/pop-life/index.md), [PRINCEss](../../topics/princess/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Raspberry Beret (song)](../../topics/song/raspberry-beret/index.md), [Sheila E.](../../topics/sheila-e/index.md), [St. Vincent](../../topics/st-vincent/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Beautiful Ones (song)](../../topics/song/the-beautiful-ones/index.md), [The Bird (song)](../../topics/song/the-bird/index.md), [The Glamorous Life (song)](../../topics/song/the-glamorous-life/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
     - ([mirror](https://web.archive.org/web/*/https://variety.com/2020/music/news/prince-tribute-concert-foo-fighters-her-beck-1203485036/))
 
-----
+<br />
 
  - [**"H.E.R., Gary Clark Jr., Dave Grohl and More Go Crazy For 'The Grammy Salute to Prince'"**](https://www.billboard.com/articles/news/television/8549551/grammy-salute-prince-taping-recap)
-
     - in [Billboard](https://www.billboard.com/)
     - on 29 January 2020
     - about [1999 (song)](../../topics/song/1999/index.md), [Baby I’m a Star (song)](../../topics/song/baby-i-m-a-star/index.md), [Bangles](../../topics/bangles/index.md), [Beck](../../topics/beck/index.md), [Chris Martin](../../topics/chris-martin/index.md), [Coldplay](../../topics/coldplay/index.md), [Controversy (song)](../../topics/song/controversy/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [Earth, Wind & Fire](../../topics/earth-wind-fire/index.md), [Foo Fighters](../../topics/foo-fighters/index.md), [Gary Clark Jr.](../../topics/gary-clark-jr/index.md), [Grammy Award](../../topics/grammy-award/index.md), [H.E.R.](../../topics/h-e-r/index.md), [I Would Die 4 U (song)](../../topics/song/i-would-die-4-u/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jerome Benton](../../topics/jerome-benton/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [John Legend](../../topics/john-legend/index.md), [Juanes](../../topics/juanes/index.md), [Jungle Love (song)](../../topics/song/jungle-love/index.md), [Ken Ehrlich](../../topics/ken-ehrlich/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Los Angeles Convention Center (place)](../../topics/place/los-angeles-convention-center/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Maya Rudolph](../../topics/maya-rudolph/index.md), [Misty Copeland](../../topics/misty-copeland/index.md), [Morris Day](../../topics/morris-day/index.md), [Mountains (song)](../../topics/song/mountains/index.md), [Pop Life (song)](../../topics/song/pop-life/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Raspberry Beret (song)](../../topics/song/raspberry-beret/index.md), [Sheila E.](../../topics/sheila-e/index.md), [St. Vincent](../../topics/st-vincent/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Beautiful Ones (song)](../../topics/song/the-beautiful-ones/index.md), [The Bird (song)](../../topics/song/the-bird/index.md), [The Glamorous Life (song)](../../topics/song/the-glamorous-life/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/television/8549551/grammy-salute-prince-taping-recap))
 
-----
+<br />
 
  - [**"Grammys 2020: Usher, Sheila E., & FKA Twigs Perform Prince Tribute"**](https://www.stereogum.com/2071237/grammys-2020-usher-sheila-e-fka-twigs-perform-prince-tribute/video/)
-
     - in [Stereogum](https://www.stereogum.com/)
     - on 26 January 2020
     - about [Alicia Keys](../../topics/alicia-keys/index.md), [Beck](../../topics/beck/index.md), [Chris Martin](../../topics/chris-martin/index.md), [Earth, Wind & Fire](../../topics/earth-wind-fire/index.md), [FKA twigs](../../topics/fka-twigs/index.md), [Foo Fighters](../../topics/foo-fighters/index.md), [Gary Clark Jr.](../../topics/gary-clark-jr/index.md), [H.E.R.](../../topics/h-e-r/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Sheila E.](../../topics/sheila-e/index.md), [St. Vincent](../../topics/st-vincent/index.md), [Usher](../../topics/usher/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.stereogum.com/2071237/grammys-2020-usher-sheila-e-fka-twigs-perform-prince-tribute/video/))
 
-----
+<br />
 
  - [**""Let's Go Crazy: The GRAMMY® Salute to Prince" Available Internationally Thanks to Exclusive Television Distribution Rights Secured by Alfred Haber, Inc. -- All-Star Lineup Set to Perform Songs from Prince's Remarkable Catalog During Live Concert Taping on Jan. 28 -- Available at NATPE for the first time"**](https://www.prnewswire.com/news-releases/lets-go-crazy-the-grammy-salute-to-prince-available-internationally-thanks-to-exclusive-television-distribution-rights-secured-by-alfred-haber-inc-300989367.html)
-
     - in [PR Newswire](https://www.prnewswire.com/)
     - on 20 January 2020
     - about [Bangles](../../topics/bangles/index.md), [Beck](../../topics/beck/index.md), [Chris Martin](../../topics/chris-martin/index.md), [Coldplay](../../topics/coldplay/index.md), [Earth, Wind & Fire](../../topics/earth-wind-fire/index.md), [Foo Fighters](../../topics/foo-fighters/index.md), [Gary Clark Jr.](../../topics/gary-clark-jr/index.md), [Grammy Award](../../topics/grammy-award/index.md), [H.E.R.](../../topics/h-e-r/index.md), [John Legend](../../topics/john-legend/index.md), [Juanes](../../topics/juanes/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [museum](../../topics/museum/index.md), [Sheila E.](../../topics/sheila-e/index.md), [St. Vincent](../../topics/st-vincent/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md), [Usher](../../topics/usher/index.md), [YouTube](../../topics/youtube/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/lets-go-crazy-the-grammy-salute-to-prince-available-internationally-thanks-to-exclusive-television-distribution-rights-secured-by-alfred-haber-inc-300989367.html))
 
-----
+<br />
 
  - [**"Grammys announce all-star Prince tribute concert"**](http://www.citypages.com/music/grammys-announce-all-star-prince-tribute-concert/566840941)
-
     - in [City Pages](http://www.citypages.com/)
     - on 9 January 2020
     - about [Alicia Keys](../../topics/alicia-keys/index.md), [Beck](../../topics/beck/index.md), [Chris Martin](../../topics/chris-martin/index.md), [Earth, Wind & Fire](../../topics/earth-wind-fire/index.md), [Foo Fighters](../../topics/foo-fighters/index.md), [H.E.R.](../../topics/h-e-r/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [John Legend](../../topics/john-legend/index.md), [Juanes](../../topics/juanes/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [Sheila E.](../../topics/sheila-e/index.md), [St. Vincent](../../topics/st-vincent/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md), [Usher](../../topics/usher/index.md)
     - ([mirror](https://web.archive.org/web/*/http://www.citypages.com/music/grammys-announce-all-star-prince-tribute-concert/566840941))
 
-----
+<br />
 
  - [**"Grammys will honor Prince with an all-star concert broadcast on CBS"**](https://www.startribune.com/grammys-will-honor-prince-with-an-all-star-concert-broadcast-on-cbs/566849132/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 9 January 2020
     - about [Alicia Keys](../../topics/alicia-keys/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Beck](../../topics/beck/index.md), [Chris Martin](../../topics/chris-martin/index.md), [Coldplay](../../topics/coldplay/index.md), [Earth, Wind & Fire](../../topics/earth-wind-fire/index.md), [Foo Fighters](../../topics/foo-fighters/index.md), [Gary Clark Jr.](../../topics/gary-clark-jr/index.md), [Grammy Award](../../topics/grammy-award/index.md), [H.E.R.](../../topics/h-e-r/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [John Legend](../../topics/john-legend/index.md), [Juanes](../../topics/juanes/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Let's Go Crazy: The Grammy Salute to Prince (event)](../../topics/event/let-s-go-crazy-the-grammy-salute-to-prince/index.md), [Los Angeles Convention Center (place)](../../topics/place/los-angeles-convention-center/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [St. Vincent](../../topics/st-vincent/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md), [Usher](../../topics/usher/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/grammys-will-honor-prince-with-an-all-star-concert-broadcast-on-cbs/566849132/))
 
-----
+<br />
 
  - [**"John Legend, Alicia Keys & More Will Pay Tribute to Prince in Grammy Special -- 'Let's Go Crazy: The Grammy Salute to Prince' will tape in Los Angeles two days after the 2020 Grammys."**](https://www.billboard.com/articles/columns/pop/8547655/prince-grammy-special-tribute)
-
     - in [Billboard](https://www.billboard.com/)
     - on 9 January 2020
     - about [Alicia Keys](../../topics/alicia-keys/index.md), [Bangles](../../topics/bangles/index.md), [Beck](../../topics/beck/index.md), [Chris Martin](../../topics/chris-martin/index.md), [Coldplay](../../topics/coldplay/index.md), [Earth, Wind & Fire](../../topics/earth-wind-fire/index.md), [Foo Fighters](../../topics/foo-fighters/index.md), [Gary Clark Jr.](../../topics/gary-clark-jr/index.md), [Grammy Award](../../topics/grammy-award/index.md), [H.E.R.](../../topics/h-e-r/index.md), [John Legend](../../topics/john-legend/index.md), [Juanes](../../topics/juanes/index.md), [Ken Ehrlich](../../topics/ken-ehrlich/index.md), [Let's Go Crazy: The Grammy Salute to Prince (event)](../../topics/event/let-s-go-crazy-the-grammy-salute-to-prince/index.md), [Los Angeles Convention Center (place)](../../topics/place/los-angeles-convention-center/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [Sheila E.](../../topics/sheila-e/index.md), [St. Vincent](../../topics/st-vincent/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md), [Usher](../../topics/usher/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/columns/pop/8547655/prince-grammy-special-tribute))
 
-----
+<br />
 
  - [**"John Legend, H.E.R. to perform at Prince tribute concert"**](https://www.startribune.com/john-legend-h-e-r-to-perform-at-prince-tribute-concert/566845702/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 9 January 2020
     - about [Alicia Keys](../../topics/alicia-keys/index.md), [Beck](../../topics/beck/index.md), [Chris Martin](../../topics/chris-martin/index.md), [Earth, Wind & Fire](../../topics/earth-wind-fire/index.md), [Foo Fighters](../../topics/foo-fighters/index.md), [Gary Clark Jr.](../../topics/gary-clark-jr/index.md), [Grammy Award](../../topics/grammy-award/index.md), [H.E.R.](../../topics/h-e-r/index.md), [John Legend](../../topics/john-legend/index.md), [Juanes](../../topics/juanes/index.md), [Let's Go Crazy: The Grammy Salute to Prince (event)](../../topics/event/let-s-go-crazy-the-grammy-salute-to-prince/index.md), [Los Angeles Convention Center (place)](../../topics/place/los-angeles-convention-center/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [Sheila E.](../../topics/sheila-e/index.md), [St. Vincent](../../topics/st-vincent/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md), [Usher](../../topics/usher/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/john-legend-h-e-r-to-perform-at-prince-tribute-concert/566845702/))
 
-----
+<br />
 
  - [**"John Legend, H.E.R. to perform at Prince tribute concert"**](https://apnews.com/e672f9a779c8cef910eefb7b8cff753f)
-
     - in [Associated Press News](https://apnews.com/)
     - on 9 January 2020
     - about [Alicia Keys](../../topics/alicia-keys/index.md), [Beck](../../topics/beck/index.md), [Chris Martin](../../topics/chris-martin/index.md), [Earth, Wind & Fire](../../topics/earth-wind-fire/index.md), [Foo Fighters](../../topics/foo-fighters/index.md), [Gary Clark Jr.](../../topics/gary-clark-jr/index.md), [Grammy Award](../../topics/grammy-award/index.md), [H.E.R.](../../topics/h-e-r/index.md), [John Legend](../../topics/john-legend/index.md), [Juanes](../../topics/juanes/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Los Angeles Convention Center (place)](../../topics/place/los-angeles-convention-center/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [Sheila E.](../../topics/sheila-e/index.md), [St. Vincent](../../topics/st-vincent/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md), [Usher](../../topics/usher/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/e672f9a779c8cef910eefb7b8cff753f))
 
-----
+<br />
 
  - [**"Prince Is Getting an All-Star Grammy Tribute Concert -- Alicia Keys, John Legend, Usher, Foo Fighters, Beck set to perform with musical director Sheila E."**](https://www.rollingstone.com/music/music-news/prince-grammys-tribute-concert-934548/)
-
     - in [Rolling Stone](https://www.rollingstone.com/)
     - on 9 January 2020
     - about [Alicia Keys](../../topics/alicia-keys/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Bangles](../../topics/bangles/index.md), [Beck](../../topics/beck/index.md), [Bobby Z.](../../topics/bobby-z/index.md), [Chris Martin](../../topics/chris-martin/index.md), [Earth, Wind & Fire](../../topics/earth-wind-fire/index.md), [Foo Fighters](../../topics/foo-fighters/index.md), [Grammy Award](../../topics/grammy-award/index.md), [H.E.R.](../../topics/h-e-r/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [John Legend](../../topics/john-legend/index.md), [Juanes](../../topics/juanes/index.md), [Ken Ehrlich](../../topics/ken-ehrlich/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Los Angeles Convention Center (place)](../../topics/place/los-angeles-convention-center/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [Sheila E.](../../topics/sheila-e/index.md), [St. Vincent](../../topics/st-vincent/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Glamorous Life (song)](../../topics/song/the-glamorous-life/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md), [Usher](../../topics/usher/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-news/prince-grammys-tribute-concert-934548/))
 
-----
+<br />
 
  - [**"Prince To Receive All-Star GRAMMY Tribute Concert Featuring Beck, Alicia Keys, John Legend And More -- The Recording Academy is honoring the legacy of the seven-time GRAMMY winner with a special celebration featuring some of music's biggest stars and Prince's most celebrated friends and collaborators"**](https://www.grammy.com/grammys/news/prince-receive-all-star-grammy-tribute-concert-featuring-beck-alicia-keys-john-legend)
-
     - in [The GRAMMYs](https://www.grammy.com/)
     - on 9 January 2020
     - about [Alicia Keys](../../topics/alicia-keys/index.md), [Beck](../../topics/beck/index.md), [Chris Martin](../../topics/chris-martin/index.md), [Coldplay](../../topics/coldplay/index.md), [Earth, Wind & Fire](../../topics/earth-wind-fire/index.md), [Foo Fighters](../../topics/foo-fighters/index.md), [Gary Clark Jr.](../../topics/gary-clark-jr/index.md), [Grammy Award](../../topics/grammy-award/index.md), [H.E.R.](../../topics/h-e-r/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [John Legend](../../topics/john-legend/index.md), [Juanes](../../topics/juanes/index.md), [Los Angeles Convention Center (place)](../../topics/place/los-angeles-convention-center/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [Sheila E.](../../topics/sheila-e/index.md), [St. Vincent](../../topics/st-vincent/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md), [Usher](../../topics/usher/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.grammy.com/grammys/news/prince-receive-all-star-grammy-tribute-concert-featuring-beck-alicia-keys-john-legend))
 
-----
+<br />
 
  - [**"Prince to Receive All-Star Grammy Tribute Starring Alicia Keys, Beck, Foo Fighters, Sheila E."**](https://variety.com/2020/music/news/prince-all-star-grammy-tribute-alicia-keys-beck-sheila-e-the-time-1203461660/)
-
     - in [Variety](https://variety.com/)
     - on 9 January 2020
     - about [Alicia Keys](../../topics/alicia-keys/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Beck](../../topics/beck/index.md), [Chris Martin](../../topics/chris-martin/index.md), [Earth, Wind & Fire](../../topics/earth-wind-fire/index.md), [Foo Fighters](../../topics/foo-fighters/index.md), [Grammy Award](../../topics/grammy-award/index.md), [H.E.R.](../../topics/h-e-r/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [John Legend](../../topics/john-legend/index.md), [Juanes](../../topics/juanes/index.md), [Let's Go Crazy: The Grammy Salute to Prince (event)](../../topics/event/let-s-go-crazy-the-grammy-salute-to-prince/index.md), [Los Angeles Convention Center (place)](../../topics/place/los-angeles-convention-center/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Sheila E.](../../topics/sheila-e/index.md), [St. Vincent](../../topics/st-vincent/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md), [Usher](../../topics/usher/index.md)
@@ -153,8 +149,11 @@
 
 ----
 
- - [**"Former Bodyguard for Prince and Other Stars Gets Real in New Memoir -- How one man moved from behind the scenes to center stage and trusted friend of the megatalented Grammy and Oscar winner."**](https://www.ebony.com/news/former-bodyguard-for-prince-and-other-stars-gets-real-in-new-memoir/)
+## 2019 (1)
 
+### 2019 November (1)
+
+ - [**"Former Bodyguard for Prince and Other Stars Gets Real in New Memoir -- How one man moved from behind the scenes to center stage and trusted friend of the megatalented Grammy and Oscar winner."**](https://www.ebony.com/news/former-bodyguard-for-prince-and-other-stars-gets-real-in-new-memoir/)
     - in [www.ebony.com](https://www.ebony.com/)
     - on 25 November 2019
     - about [Billy Sparks](../../topics/billy-sparks/index.md), [Earth, Wind & Fire](../../topics/earth-wind-fire/index.md), [George Clinton](../../topics/george-clinton/index.md), [Grammy Award](../../topics/grammy-award/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Margena A. Christian](../../topics/margena-a-christian/index.md), [memoir](../../topics/memoir/index.md), [Muhammad Ali](../../topics/muhammad-ali/index.md), [Purple Gang](../../topics/purple-gang/index.md), [Wallace Safford](../../topics/wallace-safford/index.md), [Wally, Where’d You Get Those Glasses? (book)](../../topics/book/wally-where-d-you-get-those-glasses/index.md)
@@ -162,8 +161,11 @@
 
 ----
 
- - [**"Prince before the Revolution -- An inside look at the artist formerly known as Prince before the Revolution and before he was pop royalty and had delivered the albums that brought him to worldwide acclaim."**](https://blog.discmakers.com/2011/06/prince-before-the-revolution/)
+## 2011 (1)
 
+### 2011 June (1)
+
+ - [**"Prince before the Revolution -- An inside look at the artist formerly known as Prince before the Revolution and before he was pop royalty and had delivered the albums that brought him to worldwide acclaim."**](https://blog.discmakers.com/2011/06/prince-before-the-revolution/)
     - in [blog.discmakers.com](https://blog.discmakers.com/)
     - on 6 June 2011
     - about [American Bandstand](../../topics/american-bandstand/index.md), [André Cymone](../../topics/andr-cymone/index.md), [Backbeat Books](../../topics/backbeat-books/index.md), [Black Album (album)](../../topics/album/black-album/index.md), [Bobby Z](../../topics/bobby-z/index.md), [Capri Theater (place)](../../topics/place/capri-theater/index.md), [Cavallo, Ruffalo & Fargnoli](../../topics/cavallo-ruffalo-fargnoli/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Chris Moon](../../topics/chris-moon/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [Earth, Wind & Fire](../../topics/earth-wind-fire/index.md), [Edina (place)](../../topics/place/edina/index.md), [France Avenue (place)](../../topics/place/france-avenue/index.md), [Hal Leonard](../../topics/hal-leonard/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [I Wanna Be Your Lover (song)](../../topics/song/i-wanna-be-your-lover/index.md), [Jason Draper](../../topics/jason-draper/index.md), [Los Angeles (place)](../../topics/place/los-angeles/index.md), [Matt Fink](../../topics/matt-fink/index.md), [Moonsound Studios (place)](../../topics/place/moonsound-studios/index.md), [Nile Rodgers](../../topics/nile-rodgers/index.md), [Owen Husney](../../topics/owen-husney/index.md), [Pepé Willie](../../topics/pep-willie/index.md), [Prince: Chaos, Disorder, and Revolution (book)](../../topics/book/prince-chaos-disorder-and-revolution/index.md), [St. Paul (place)](../../topics/place/st-paul/index.md), [Steve Fargnoli](../../topics/steve-fargnoli/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Super Bowl](../../topics/super-bowl/index.md), [The Revolution](../../topics/the-revolution/index.md)

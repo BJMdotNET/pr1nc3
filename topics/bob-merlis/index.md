@@ -1,5 +1,9 @@
 # Bob Merlis
 
+## 2021 (1)
+
+### 2021 October (1)
+
  - [**"1999: Why Prince’s Visionary Album Still Sounds Like The Future -- With his '1999' album, Prince perfected the ‘Minneapolis sound’: a futuristic pop-funk concoction the world has yet to catch up with."**](https://www.thisisdig.com/feature/1999-album-prince/)
     - by [Jason Draper](../../authors/jason-draper/index.md)
     - in [Dig!](https://www.thisisdig.com/)
@@ -9,8 +13,11 @@
 
 ----
 
- - [**"Prince Fires Management, Legal Teams"**](https://www.latimes.com/archives/la-xpm-1989-01-07-ca-127-story.html)
+## 1989 (1)
 
+### 1989 January (1)
+
+ - [**"Prince Fires Management, Legal Teams"**](https://www.latimes.com/archives/la-xpm-1989-01-07-ca-127-story.html)
     - in [Los Angeles Times](https://www.latimes.com/)
     - on 7 January 1989
     - about [Alan Leeds](../../topics/alan-leeds/index.md), [Albert Magnoli](../../topics/albert-magnoli/index.md), [Bob Merlis](../../topics/bob-merlis/index.md), [Breslauer, Jacobson, Rutman & Sherman](../../topics/breslauer-jacobson-rutman-sherman/index.md), [Cavallo, Ruffalo & Fargnoli](../../topics/cavallo-ruffalo-fargnoli/index.md), [Fred Moulterie](../../topics/fred-moulterie/index.md), [John Branca](../../topics/john-branca/index.md), [Lee Phillips](../../topics/lee-phillips/index.md), [Lovesexy (album)](../../topics/album/lovesexy/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Paisley Park Records](../../topics/paisley-park-records/index.md), [PRN Productions](../../topics/prn-productions/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Skip Brittenham](../../topics/skip-brittenham/index.md), [Steve Fargnoli](../../topics/steve-fargnoli/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md), [Ziffren, Brittenham and Branca](../../topics/ziffren-brittenham-and-branca/index.md)

@@ -1,5 +1,9 @@
 # Lake Ann (place)
 
+## 2023 (1)
+
+### 2023 June (1)
+
  - [**"Why did Prince decide to live in Chanhassen? -- The Minneapolis native's legacy will forever be linked to his state-of-the-art suburban playground, Paisley Park."**](https://www.startribune.com/prince-minneapolis-chanhassen-paisley-park-andre-cymone-morris-day-bobby-z/600281369/)
     - by [Jon Bream](../../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
@@ -9,8 +13,11 @@
 
 ----
 
- - [**"Hermana de Prince: hasta donde se sabe, no dejó testamento"**](https://apnews.com/article/77e7b911f1d3465ab9f52e7aae95aa9c)
+## 2016 (1)
 
+### 2016 April (1)
+
+ - [**"Hermana de Prince: hasta donde se sabe, no dejó testamento"**](https://apnews.com/article/77e7b911f1d3465ab9f52e7aae95aa9c)
     - in [Associated Press News](https://apnews.com/)
     - on 26 April 2016
     - about [Bremer Trust](../../../topics/bremer-trust/index.md), [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [L. Londell McMillan](../../../topics/l-londell-mcmillan/index.md), [Lake Ann (place)](../../../topics/place/lake-ann/index.md), [Manuela Testolini](../../../topics/manuela-testolini/index.md), [Michael Jackson](../../../topics/michael-jackson/index.md), [Omarr Baker](../../../topics/omarr-baker/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Tyka Nelson](../../../topics/tyka-nelson/index.md)

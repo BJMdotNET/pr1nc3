@@ -1,13 +1,20 @@
 # divorce
 
- - [**"Around the state: Judge rejects claims by Prince divorce lawyer for $600,000 / Musicians from Prince bands to speak at anniversary event"**](https://apnews.com/article/technology-entertainment-music-minneapolis-st-paul-95716b4f4bd946e5ac0a843329ef9f87)
+## 2022 (1)
 
+### 2022 January (1)
+
+ - [**"Around the state: Judge rejects claims by Prince divorce lawyer for $600,000 / Musicians from Prince bands to speak at anniversary event"**](https://apnews.com/article/technology-entertainment-music-minneapolis-st-paul-95716b4f4bd946e5ac0a843329ef9f87)
     - in [Associated Press News](https://apnews.com/)
     - on 2 January 2022
     - about [BrownMark](../../topics/brownmark/index.md), [Carver County](../../topics/carver-county/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [Celebration 2017 (event)](../../topics/event/celebration-2017/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [divorce](../../topics/divorce/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Levi Seacer](../../topics/levi-seacer/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Matt Fink](../../topics/matt-fink/index.md), [Morris Hayes](../../topics/morris-hayes/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Patrick Cousins](../../topics/patrick-cousins/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Shelby J.](../../topics/shelby-j/index.md), [Stacia Lang](../../topics/stacia-lang/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/technology-entertainment-music-minneapolis-st-paul-95716b4f4bd946e5ac0a843329ef9f87))
 
 ----
+
+## 2017 (2)
+
+### 2017 November (1)
 
  - [**"Auction offers never-released Prince recordings, guitar, ex’s wedding dress"**](https://apnews.com/a37b4dffd41e4f0aa89ed41ee05e4185)
     - by [Paul Walsh](../../authors/paul-walsh/index.md)
@@ -18,6 +25,8 @@
 
 ----
 
+### 2017 January (1)
+
  - [**"Unsealed Prince divorce file shows luxe lifestyle, dispute over videos, jewels and photos -- The Star Tribune moved to unseal the files after questioning whether they would shed light on why Prince was taking painkillers, any potential heirs, or the value of his estate."**](https://www.startribune.com/unsealed-prince-divorce-file-shows-luxe-lifestyle-dispute-over-videos-jewels-and-photos/410652845/)
     - by [David Chanen](../../authors/david-chanen/index.md), [Rochelle Olson](../../authors/rochelle-olson/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
@@ -27,8 +36,11 @@
 
 ----
 
- - [**"Paisley Park, home of Prince, opens for public tours Oct. 6"**](https://apnews.com/article/fe17adc4f32441bd85d0176a50d3cd0b)
+## 2016 (1)
 
+### 2016 August (1)
+
+ - [**"Paisley Park, home of Prince, opens for public tours Oct. 6"**](https://apnews.com/article/fe17adc4f32441bd85d0176a50d3cd0b)
     - in [Associated Press News](https://apnews.com/)
     - on 25 August 2016
     - about [Bremer Trust](../../topics/bremer-trust/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Denny Laufenburger](../../topics/denny-laufenburger/index.md), [divorce](../../topics/divorce/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [motorcycle](../../topics/motorcycle/index.md), [museum](../../topics/museum/index.md), [opioid](../../topics/opioid/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)
@@ -36,8 +48,11 @@
 
 ----
 
- - [**"‘Atlanta Exes’ members create own lane to fame"**](https://apnews.com/article/8d3f02ce829d44488e59c41f5fd69ac5)
+## 2014 (1)
 
+### 2014 August (1)
+
+ - [**"‘Atlanta Exes’ members create own lane to fame"**](https://apnews.com/article/8d3f02ce829d44488e59c41f5fd69ac5)
     - in [Associated Press News](https://apnews.com/)
     - on 16 August 2014
     - about [Atlanta (place)](../../topics/place/atlanta/index.md), [divorce](../../topics/divorce/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md)
@@ -45,8 +60,11 @@
 
 ----
 
- - [**"Prince’s Second Wife Seeks Divorce"**](https://apnews.com/c1fedc72849a886a891899e38f3a6ad2)
+## 2006 (1)
 
+### 2006 July (1)
+
+ - [**"Prince’s Second Wife Seeks Divorce"**](https://apnews.com/c1fedc72849a886a891899e38f3a6ad2)
     - in [Associated Press News](https://apnews.com/)
     - on 27 July 2006
     - about [divorce](../../topics/divorce/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [NPG Music Club (website)](../../topics/website/npg-music-club/index.md), [Patrick Cousins](../../topics/patrick-cousins/index.md)

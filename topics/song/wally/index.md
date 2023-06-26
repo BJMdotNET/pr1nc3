@@ -1,5 +1,9 @@
 # Wally (song)
 
+## 2019 (1)
+
+### 2019 June (1)
+
  - [**"Prince Originals: exclusive interview with muse and collaborator Susannah Melvoin -- As Prince rarities finally become available on the Originals album, we speak to the woman who inspired Nothing Compares 2 U."**](https://www.officialcharts.com/chart-news/prince-originals-exclusive-interview-with-muse-and-collaborator-susannah-melvoin__26670/)
     - by [Martin Talbot](../../../authors/martin-talbot/index.md)
     - in [Official Charts](https://www.officialcharts.com/)
@@ -9,8 +13,11 @@
 
 ----
 
- - [**"Hunting for Prince's vault"**](https://www.bbc.com/news/magazine-31962180)
+## 2015 (1)
 
+### 2015 March (1)
+
+ - [**"Hunting for Prince's vault"**](https://www.bbc.com/news/magazine-31962180)
     - in [BBC News](https://www.bbc.com/news/)
     - on 20 March 2015
     - about [Alan Leeds](../../../topics/alan-leeds/index.md), [Donna Grantis](../../../topics/donna-grantis/index.md), [Dream Factory (album)](../../../topics/album/dream-factory/index.md), [Eric Leeds](../../../topics/eric-leeds/index.md), [Susan Rogers](../../../topics/susan-rogers/index.md), [vault](../../../topics/vault/index.md), [Wally (song)](../../../topics/song/wally/index.md), [YouTube](../../../topics/youtube/index.md)

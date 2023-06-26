@@ -1,5 +1,9 @@
 # Barney Hoskyns
 
+## 2016 (1)
+
+### 2016 April (1)
+
  - [**"These Fabulous Photos Capture Prince’s Singular Essence -- No matter what the occasion, Prince could be counted on to look fabulous."**](https://news.artnet.com/art-world/photos-of-musician-prince-478703)
     - by [Sarah Cascone](../../authors/sarah-cascone/index.md)
     - in [artnet news](https://news.artnet.com/)

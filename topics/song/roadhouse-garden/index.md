@@ -1,5 +1,9 @@
 # Roadhouse Garden (song)
 
+## 2017 (6)
+
+### 2017 June (3)
+
  - [**"Minnesota's best albums of the year (so far): Chastity Brown, Romantica, Brother Ali, Lady Midnight -- This year's 10 albums includes several artists who saw their patience pay off."**](https://www.startribune.com/minnesota-s-best-albums-of-the-year-so-far-brother-ali-chastity-brown-romantica-prince/431623233/)
     - by [Chris Riemenschneider](../../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
@@ -7,16 +11,15 @@
     - about [17 Days (song)](../../../topics/song/17-days/index.md), [bootleg](../../../topics/bootleg/index.md), [Chastity Brown](../../../topics/chastity-brown/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Our Destiny (song)](../../../topics/song/our-destiny/index.md), [Possessed (song)](../../../topics/song/possessed/index.md), [Purple Rain (album)](../../../topics/album/purple-rain/index.md), [Roadhouse Garden (song)](../../../topics/song/roadhouse-garden/index.md), [The Beautiful Ones (song)](../../../topics/song/the-beautiful-ones/index.md), [The Revolution](../../../topics/the-revolution/index.md), [vault](../../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/minnesota-s-best-albums-of-the-year-so-far-brother-ali-chastity-brown-romantica-prince/431623233/))
 
-----
+<br />
 
  - [**"Prince’s Purple Downpour: A Review of the Expanded “Purple Rain”"**](https://www.newyorker.com/culture/culture-desk/princes-purple-downpour-a-review-of-the-expanded-purple-rain)
-
     - in [The New Yorker](https://www.newyorker.com/)
     - on 25 June 2017
     - about [17 Days (song)](../../../topics/song/17-days/index.md), [André Cymone](../../../topics/andr-cymone/index.md), [Andy Allo](../../../topics/andy-allo/index.md), [Baby I’m a Star (song)](../../../topics/song/baby-i-m-a-star/index.md), [Computer Blue (song)](../../../topics/song/computer-blue/index.md), [Darling Nikki (song)](../../../topics/song/darling-nikki/index.md), [Erotic City (song)](../../../topics/song/erotic-city/index.md), [George Clinton](../../../topics/george-clinton/index.md), [Horny Toad (song)](../../../topics/song/horny-toad/index.md), [How Come U Don’t Call Me Anymore? (song)](../../../topics/song/how-come-u-don-t-call-me-anymore/index.md), [I Would Die 4 U (song)](../../../topics/song/i-would-die-4-u/index.md), [Irresistible Bitch (song)](../../../topics/song/irresistible-bitch/index.md), [Jill Jones](../../../topics/jill-jones/index.md), [Katrina’s Paper Dolls (song)](../../../topics/song/katrina-s-paper-dolls/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Lisa Coleman](../../../topics/lisa-coleman/index.md), [Love and Sex (song)](../../../topics/song/love-and-sex/index.md), [Miles Davis](../../../topics/miles-davis/index.md), [motorcycle](../../../topics/motorcycle/index.md), [Our Destiny (song)](../../../topics/song/our-destiny/index.md), [Possessed (song)](../../../topics/song/possessed/index.md), [Purple Rain (album)](../../../topics/album/purple-rain/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Roadhouse Garden (song)](../../../topics/song/roadhouse-garden/index.md), [The Beautiful Ones (song)](../../../topics/song/the-beautiful-ones/index.md), [The Dance Electric (song)](../../../topics/song/the-dance-electric/index.md), [The Revolution](../../../topics/the-revolution/index.md), [vault](../../../topics/vault/index.md), [Velvet Kitty Cat (song)](../../../topics/song/velvet-kitty-cat/index.md), [Wednesday (song)](../../../topics/song/wednesday/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md), [Wonderful Ass (song)](../../../topics/song/wonderful-ass/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.newyorker.com/culture/culture-desk/princes-purple-downpour-a-review-of-the-expanded-purple-rain))
 
-----
+<br />
 
  - [**"Exclusive Preview: Prince’s ‘Purple Rain’ Deluxe Edition, With Previously Unreleased Tracks"**](https://variety.com/2017/film/news/prince-purple-rain-deluxe-edition-exclusive-preview-1202463200/)
     - by [Jem Aswad](../../../authors/jem-aswad/index.md)
@@ -27,14 +30,17 @@
 
 ----
 
- - [**"Another Track Drops From Prince’s ‘Purple Rain’ Deluxe Edition: ‘Our Destiny’/’Roadhouse Garden’"**](https://variety.com/2017/music/news/prince-purple-rain-deluxe-new-song-our-destiny-roadhouse-garden-1202424644/)
+### 2017 May (1)
 
+ - [**"Another Track Drops From Prince’s ‘Purple Rain’ Deluxe Edition: ‘Our Destiny’/’Roadhouse Garden’"**](https://variety.com/2017/music/news/prince-purple-rain-deluxe-new-song-our-destiny-roadhouse-garden-1202424644/)
     - in [Variety](https://variety.com/)
     - on 12 May 2017
     - about [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Lisa Coleman](../../../topics/lisa-coleman/index.md), [Our Destiny (song)](../../../topics/song/our-destiny/index.md), [Purple Rain (album)](../../../topics/album/purple-rain/index.md), [Roadhouse Garden (song)](../../../topics/song/roadhouse-garden/index.md), [The Revolution](../../../topics/the-revolution/index.md)
     - ([mirror](https://web.archive.org/web/*/https://variety.com/2017/music/news/prince-purple-rain-deluxe-new-song-our-destiny-roadhouse-garden-1202424644/))
 
 ----
+
+### 2017 April (2)
 
  - [**"Details of Prince's expanded 'Purple Rain' reissue revealed, coming June 23"**](https://www.startribune.com/details-of-prince-s-expanded-purple-rain-reissue-revealed-coming-june-23/420722973/)
     - by [Chris Riemenschneider](../../../authors/chris-riemenschneider/index.md)
@@ -43,7 +49,7 @@
     - about [17 Days (song)](../../../topics/song/17-days/index.md), [bootleg](../../../topics/bootleg/index.md), [Erotic City (song)](../../../topics/song/erotic-city/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Minnesota Dance Theatre](../../../topics/minnesota-dance-theatre/index.md), [NPG Records](../../../topics/npg-records/index.md), [Our Destiny (song)](../../../topics/song/our-destiny/index.md), [Possessed (song)](../../../topics/song/possessed/index.md), [Purple Rain (album)](../../../topics/album/purple-rain/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Roadhouse Garden (song)](../../../topics/song/roadhouse-garden/index.md), [The Beautiful Ones (song)](../../../topics/song/the-beautiful-ones/index.md), [The Revolution](../../../topics/the-revolution/index.md), [vault](../../../topics/vault/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/details-of-prince-s-expanded-purple-rain-reissue-revealed-coming-june-23/420722973/))
 
-----
+<br />
 
  - [**"Tracklist for Prince’s ‘Purple Rain’ Deluxe Edition Leaks — Unreleased Tracks Revealed"**](https://variety.com/2017/music/news/prince-purple-rain-deluxe-tracklist-leaks-1202390479/)
     - by [Jem Aswad](../../../authors/jem-aswad/index.md)

@@ -1,5 +1,9 @@
 # Fleetwood Mac
 
+## 2023 (1)
+
+### 2023 February (1)
+
  - [**"Shania Twain Recalls How She Missed Out on the Chance to Collaborate With Prince -- "I didn't give up on it or anything, but then he died," the country queen said."**](https://www.billboard.com/music/music-news/shania-twain-prince-collaboration-missed-out-1235209511/)
     - by [Glenn Rowley](../../authors/glenn-rowley/index.md)
     - in [Billboard](https://www.billboard.com/)
@@ -8,6 +12,10 @@
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/music/music-news/shania-twain-prince-collaboration-missed-out-1235209511/))
 
 ----
+
+## 2022 (1)
+
+### 2022 June (1)
 
  - [**"Purple Rain: The Story Behind Prince’s Career-Defining Song -- The song most associated with Prince, Purple Rain is an epic power ballad that embodied its creator’s search for transcendence through music."**](https://www.thisisdig.com/feature/purple-rain-prince-song-story/)
     - by [Jason Draper](../../authors/jason-draper/index.md)
@@ -18,8 +26,11 @@
 
 ----
 
- - [**"Celebrating 30th birthday, Target Center offering prize to one lucky person -- The arena wants people to submit their memories from Target Center."**](https://bringmethenews.com/minnesota-lifestyle/celebrating-30th-birthday-target-center-offering-prize-to-one-lucky-person)
+## 2020 (1)
 
+### 2020 January (1)
+
+ - [**"Celebrating 30th birthday, Target Center offering prize to one lucky person -- The arena wants people to submit their memories from Target Center."**](https://bringmethenews.com/minnesota-lifestyle/celebrating-30th-birthday-target-center-offering-prize-to-one-lucky-person)
     - in [Bring Me The News](https://bringmethenews.com/)
     - on 27 January 2020
     - about [Fleetwood Mac](../../topics/fleetwood-mac/index.md), [Timberwolves](../../topics/timberwolves/index.md)
@@ -27,8 +38,11 @@
 
 ----
 
- - [**"4 Generations Of Minnesota’s Peterson Family: A Hall Of Fame Musical Legacy"**](https://minnesota.cbslocal.com/2019/10/27/4-generations-of-minnesotas-peterson-family-a-hall-of-fame-musical-legacy/)
+## 2019 (1)
 
+### 2019 October (1)
+
+ - [**"4 Generations Of Minnesota’s Peterson Family: A Hall Of Fame Musical Legacy"**](https://minnesota.cbslocal.com/2019/10/27/4-generations-of-minnesotas-peterson-family-a-hall-of-fame-musical-legacy/)
     - in [WCCO - CBS Minnesota](https://minnesota.cbslocal.com/)
     - on 27 October 2019
     - about [Fleetwood Mac](../../topics/fleetwood-mac/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [The Family](../../topics/the-family/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md)
@@ -36,8 +50,11 @@
 
 ----
 
- - [**"Driving to Utopia in a ’74 Pinto: Reflecting on Prince with The Revolution’s Bobby Z"**](https://ovrld.com/interviews/bobby-z-prince-revolution/)
+## 2018 (1)
 
+### 2018 December (1)
+
+ - [**"Driving to Utopia in a ’74 Pinto: Reflecting on Prince with The Revolution’s Bobby Z"**](https://ovrld.com/interviews/bobby-z-prince-revolution/)
     - in [Ovrld](https://ovrld.com/)
     - on 28 December 2018
     - about [1999 (album)](../../topics/album/1999/index.md), [1999 (song)](../../topics/song/1999/index.md), [Austin (place)](../../topics/place/austin/index.md), [Bay Area (place)](../../topics/place/bay-area/index.md), [Bobby Z](../../topics/bobby-z/index.md), [Controversy (album)](../../topics/album/controversy/index.md), [Controversy (song)](../../topics/song/controversy/index.md), [Fleetwood Mac](../../topics/fleetwood-mac/index.md), [James Brown](../../topics/james-brown/index.md), [Linn LM-1](../../topics/linn-lm-1/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [London (place)](../../topics/place/london/index.md), [My Purple Heart](../../topics/my-purple-heart/index.md), [O2 (place)](../../topics/place/o2/index.md), [Our Destiny (song)](../../topics/song/our-destiny/index.md), [Owen Husney](../../topics/owen-husney/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Paradiso (place)](../../topics/place/paradiso/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [River Run Dry (song)](../../topics/song/river-run-dry/index.md), [Rolling Stones](../../topics/rolling-stones/index.md), [Simmons](../../topics/simmons/index.md), [Steve Fargnoli](../../topics/steve-fargnoli/index.md), [Texas (place)](../../topics/place/texas/index.md), [The Coliseum (place)](../../topics/place/the-coliseum/index.md), [The Revolution](../../topics/the-revolution/index.md)
@@ -45,8 +62,11 @@
 
 ----
 
- - [**"Prince, un hombre orquesta y un amigo para muchos"**](https://apnews.com/article/archive-0cd78570b8f24969999622976c4cf547)
+## 2016 (1)
 
+### 2016 April (1)
+
+ - [**"Prince, un hombre orquesta y un amigo para muchos"**](https://apnews.com/article/archive-0cd78570b8f24969999622976c4cf547)
     - in [Associated Press News](https://apnews.com/)
     - on 25 April 2016
     - about [Bangles](../../topics/bangles/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Cyndi Lauper](../../topics/cyndi-lauper/index.md), [Esperanza Spalding](../../topics/esperanza-spalding/index.md), [Fleetwood Mac](../../topics/fleetwood-mac/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Kandace Springs](../../topics/kandace-springs/index.md), [Ken Ehrlich](../../topics/ken-ehrlich/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Rita Ora](../../topics/rita-ora/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stand Back (song)](../../topics/song/stand-back/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md)

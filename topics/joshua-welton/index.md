@@ -1,5 +1,9 @@
 # Joshua Welton
 
+## 2018 (1)
+
+### 2018 April (1)
+
  - [**"Investigation says Prince was isolated, addicted and in pain"**](https://apnews.com/94806d16569541d98032ce2b2f82aa6a)
     - by [Amy Forliti (Associated Press)](../../authors/associated-press/amy-forliti/index.md)
     - in [Associated Press News](https://apnews.com/)
@@ -9,8 +13,11 @@
 
 ----
 
- - [**"Prince & The Vault: The 10 Things That Should and Shouldn’t Happen"**](https://medium.com/cuepoint/prince-the-vault-the-10-things-that-should-and-shouldnt-happen-ad96cc58999f)
+## 2016 (3)
 
+### 2016 November (1)
+
+ - [**"Prince & The Vault: The 10 Things That Should and Shouldn’t Happen"**](https://medium.com/cuepoint/prince-the-vault-the-10-things-that-should-and-shouldnt-happen-ad96cc58999f)
     - in [Cuepoint](https://medium.com/cuepoint/)
     - on 19 November 2016
     - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Alan Leeds](../../topics/alan-leeds/index.md), [Apollonia 6](../../topics/apollonia-6/index.md), [Art Official Age (album)](../../topics/album/art-official-age/index.md), [Batdance (song)](../../topics/song/batdance/index.md), [Big Daddy Kane](../../topics/big-daddy-kane/index.md), [Donna Grantis](../../topics/donna-grantis/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [George Clinton](../../topics/george-clinton/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [Ingrid Chavez](../../topics/ingrid-chavez/index.md), [James Brown](../../topics/james-brown/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Jon Bream](../../topics/jon-bream/index.md), [Joshua Welton](../../topics/joshua-welton/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [LotusFlow3r (album)](../../topics/album/lotusflow3r/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Mayte](../../topics/mayte/index.md), [museum](../../topics/museum/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [One Nite Alone (album)](../../topics/album/one-nite-alone/index.md), [Purple Music (song)](../../topics/song/purple-music/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [The Ballad Of Dorothy Parker (song)](../../topics/song/the-ballad-of-dorothy-parker/index.md), [The Gold Experience (album)](../../topics/album/the-gold-experience/index.md), [vault](../../topics/vault/index.md)
@@ -18,14 +25,15 @@
 
 ----
 
- - [**"Magic memories: Prince’s warmth and wit shone in private"**](https://apnews.com/cf2e87db1753473eb63165d807bd45c2)
+### 2016 April (2)
 
+ - [**"Magic memories: Prince’s warmth and wit shone in private"**](https://apnews.com/cf2e87db1753473eb63165d807bd45c2)
     - in [Associated Press News](https://apnews.com/)
     - on 23 April 2016
     - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Art Official Age (album)](../../topics/album/art-official-age/index.md), [James Brown](../../topics/james-brown/index.md), [Joshua Welton](../../topics/joshua-welton/index.md), [Larry Graham](../../topics/larry-graham/index.md), [memoir](../../topics/memoir/index.md), [NPG Records](../../topics/npg-records/index.md), [piracy](../../topics/piracy/index.md), [Spotify](../../topics/spotify/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md), [YouTube](../../topics/youtube/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/cf2e87db1753473eb63165d807bd45c2))
 
-----
+<br />
 
  - [**"A day with Prince at Paisley Park"**](https://apnews.com/948911d73f9941fd938df975a3dc5f6f)
     - by [Nekesa Mumbi Moody (Associated Press)](../../authors/associated-press/nekesa-mumbi-moody/index.md)
@@ -36,8 +44,11 @@
 
 ----
 
- - [**"Meet the man behind Prince's new sound"**](https://usatoday.com/story/life/music/2015/09/03/meet-man-behind-princes-new-sound/71600344/)
+## 2015 (1)
 
+### 2015 September (1)
+
+ - [**"Meet the man behind Prince's new sound"**](https://usatoday.com/story/life/music/2015/09/03/meet-man-behind-princes-new-sound/71600344/)
     - in [USA Today](https://usatoday.com/)
     - on 4 September 2015
     - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Art Official Age (album)](../../topics/album/art-official-age/index.md), [Joshua Welton](../../topics/joshua-welton/index.md), [New Power Generation](../../topics/new-power-generation/index.md)

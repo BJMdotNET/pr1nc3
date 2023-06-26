@@ -1,5 +1,9 @@
 # Jack Owoc
 
+## 2022 (1)
+
+### 2022 August (1)
+
  - [**"Prince Estate Shuts Down ‘Purple Rain’ Energy Drink Brand -- Bang Energy wanted a "Purple Rain" trademark, but a federal agency says the name "uniquely and unmistakably" points to the late rock star."**](https://www.billboard.com/pro/prince-estate-purple-rain-bang-energy-drink-ruling/)
     - by [Bill Donahue](../../authors/bill-donahue/index.md)
     - in [Billboard](https://www.billboard.com/)

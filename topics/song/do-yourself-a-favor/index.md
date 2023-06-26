@@ -1,16 +1,18 @@
 # Do Yourself a Favor (song)
 
- - [**"What are the best Prince tracks released since 2016?"**](https://blog.thecurrent.org/2020/01/what-are-the-best-prince-tracks-released-since-2016/)
+## 2020 (2)
 
+### 2020 January (2)
+
+ - [**"What are the best Prince tracks released since 2016?"**](https://blog.thecurrent.org/2020/01/what-are-the-best-prince-tracks-released-since-2016/)
     - in [The Current - Local Current Blog](https://blog.thecurrent.org/)
     - on 21 January 2020
     - about [1999 Deluxe (album)](../../../topics/album/1999-deluxe/index.md), [Amazing Grace (movie)](../../../topics/movie/amazing-grace/index.md), [Andrea Swensson](../../../topics/andrea-swensson/index.md), [Apollonia](../../../topics/apollonia/index.md), [Apollonia 6](../../../topics/apollonia-6/index.md), [Aretha Franklin](../../../topics/aretha-franklin/index.md), [Bold Generation (song)](../../../topics/song/bold-generation/index.md), [bootleg](../../../topics/bootleg/index.md), [Celebration 2020 (event)](../../../topics/event/celebration-2020/index.md), [Deliverance (EP)](../../../topics/ep/deliverance/index.md), [Deliverance (song)](../../../topics/song/deliverance/index.md), [Do Yourself a Favor (song)](../../../topics/song/do-yourself-a-favor/index.md), [George Clinton](../../../topics/george-clinton/index.md), [I Feel For You (song)](../../../topics/song/i-feel-for-you/index.md), [Irresistible Bitch (song)](../../../topics/song/irresistible-bitch/index.md), [Jill Jones](../../../topics/jill-jones/index.md), [Lisa Coleman](../../../topics/lisa-coleman/index.md), [Love and Sex (song)](../../../topics/song/love-and-sex/index.md), [Niko Bolas](../../../topics/niko-bolas/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Peggy McCreary](../../../topics/peggy-mccreary/index.md), [Piano and a Microphone 1983 (album)](../../../topics/album/piano-and-a-microphone-1983/index.md), [Purple Music (song)](../../../topics/song/purple-music/index.md), [Rearrange (song)](../../../topics/song/rearrange/index.md), [Spike Lee](../../../topics/spike-lee/index.md), [Sunset Sound (place)](../../../topics/place/sunset-sound/index.md), [The Glamorous Life (song)](../../../topics/song/the-glamorous-life/index.md), [University of Minnesota](../../../topics/university-of-minnesota/index.md), [Vagina (song)](../../../topics/song/vagina/index.md), [Vanity](../../../topics/vanity/index.md), [Vanity 6](../../../topics/vanity-6/index.md), [vault](../../../topics/vault/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md), [Yah, You Know (song)](../../../topics/song/yah-you-know/index.md)
     - ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2020/01/what-are-the-best-prince-tracks-released-since-2016/))
 
-----
+<br />
 
  - [**"Prince: The Story of 1999 bonus feature: Dr. Fink, 'When Prince sang live, he was just impeccable'"**](https://www.thecurrent.org/feature/2020/01/03/prince-the-story-of-1999-bonus-feature-matt-dr-fink-interview)
-
     - in [The Current](https://www.thecurrent.org/)
     - on 3 January 2020
     - about [1999 (album)](../../../topics/album/1999/index.md), [Andrea Swensson](../../../topics/andrea-swensson/index.md), [Do Yourself a Favor (song)](../../../topics/song/do-yourself-a-favor/index.md), [Frank Zappa](../../../topics/frank-zappa/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Matt Fink](../../../topics/matt-fink/index.md), [Pepe Willie](../../../topics/pepe-willie/index.md), [Possessed (song)](../../../topics/song/possessed/index.md), [Prince: The Story of 1999](../../../topics/prince-the-story-of-1999/index.md), [Purple Music (song)](../../../topics/song/purple-music/index.md), [The Revolution](../../../topics/the-revolution/index.md), [vault](../../../topics/vault/index.md)
@@ -18,26 +20,27 @@
 
 ----
 
- - [**"Former Prince mentor Pepé Willie shares memories of the late legend"**](https://spokesman-recorder.com/2019/12/14/former-prince-mentor-pepe-willie-shares-storied-history-of-do-yourself-a-favor-if-you-see-me/)
+## 2019 (6)
 
+### 2019 December (3)
+
+ - [**"Former Prince mentor Pepé Willie shares memories of the late legend"**](https://spokesman-recorder.com/2019/12/14/former-prince-mentor-pepe-willie-shares-storied-history-of-do-yourself-a-favor-if-you-see-me/)
     - in [Minnesota Spokesman-Recorder](https://spokesman-recorder.com/)
     - on 14 December 2019
     - about [1999 Super Deluxe (album)](../../../topics/album/1999-super-deluxe/index.md), [94 East](../../../topics/94-east/index.md), [André Cymone](../../../topics/andr-cymone/index.md), [Bob Cavallo](../../../topics/bob-cavallo/index.md), [bootleg](../../../topics/bootleg/index.md), [Detroit (place)](../../../topics/place/detroit/index.md), [Dez Dickerson](../../../topics/dez-dickerson/index.md), [Do Yourself a Favor (song)](../../../topics/song/do-yourself-a-favor/index.md), [Little Anthony and The Imperials](../../../topics/little-anthony-and-the-imperials/index.md), [Morris Day](../../../topics/morris-day/index.md), [No Call U (song)](../../../topics/song/no-call-u/index.md), [North Carolina (place)](../../../topics/place/north-carolina/index.md), [Owen Husney](../../../topics/owen-husney/index.md), [Pepé Willie](../../../topics/pep-willie/index.md), [Purple Music (song)](../../../topics/song/purple-music/index.md), [The Revolution](../../../topics/the-revolution/index.md), [vault](../../../topics/vault/index.md), [Warner Bros. Records](../../../topics/warner-bros-records/index.md)
     - ([mirror](https://web.archive.org/web/*/https://spokesman-recorder.com/2019/12/14/former-prince-mentor-pepe-willie-shares-storied-history-of-do-yourself-a-favor-if-you-see-me/))
 
-----
+<br />
 
  - [**"Prince: The Story of 1999 bonus feature: Dez Dickerson: 'Put an explosion over it'"**](https://www.thecurrent.org/feature/2019/12/05/prince-the-story-of-1999-bonus-dez-dickerson-prince-guitarist-interview)
-
     - in [The Current](https://www.thecurrent.org/)
     - on 5 December 2019
     - about [1999 (album)](../../../topics/album/1999/index.md), [94 East](../../../topics/94-east/index.md), [Allen Beaulieu](../../../topics/allen-beaulieu/index.md), [Andrea Swensson](../../../topics/andrea-swensson/index.md), [Dez Dickerson](../../../topics/dez-dickerson/index.md), [Do Yourself a Favor (song)](../../../topics/song/do-yourself-a-favor/index.md), [Eric Clapton](../../../topics/eric-clapton/index.md), [exhibit](../../../topics/exhibit/index.md), [George Clinton](../../../topics/george-clinton/index.md), [I Wanna Be Your Lover (song)](../../../topics/song/i-wanna-be-your-lover/index.md), [Jamie Starr](../../../topics/jamie-starr/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Morris Day](../../../topics/morris-day/index.md), [orange](../../../topics/orange/index.md), [Peggy McCreary](../../../topics/peggy-mccreary/index.md), [Prince: The Story of 1999](../../../topics/prince-the-story-of-1999/index.md), [SNL (TV show)](../../../topics/tv-show/snl/index.md), [Sunset Sound (place)](../../../topics/place/sunset-sound/index.md), [The Time](../../../topics/the-time/index.md), [Vanity](../../../topics/vanity/index.md), [Vanity 6](../../../topics/vanity-6/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/12/05/prince-the-story-of-1999-bonus-dez-dickerson-prince-guitarist-interview))
 
-----
+<br />
 
  - [**"Prince’s ‘1999’: How the Artist Leveled Up on His Breakthrough LP -- With the release of a new box set devoted to the album and its era, Prince’s guitarist Dez Dickerson and engineer Peggy McCreary look back on the Purple One’s revolutionary genius"**](https://www.rollingstone.com/music/music-features/prince-1999-interview-915663/)
-
     - in [Rolling Stone](https://www.rollingstone.com/)
     - on 2 December 2019
     - about [1999 (album)](../../../topics/album/1999/index.md), [94 East](../../../topics/94-east/index.md), [Bold Generation (song)](../../../topics/song/bold-generation/index.md), [Dez Dickerson](../../../topics/dez-dickerson/index.md), [Do Yourself a Favor (song)](../../../topics/song/do-yourself-a-favor/index.md), [How Come U Don’t Call Me Anymore? (song)](../../../topics/song/how-come-u-don-t-call-me-anymore/index.md), [I Wanna Be Your Lover (song)](../../../topics/song/i-wanna-be-your-lover/index.md), [James Brown](../../../topics/james-brown/index.md), [Jill Jones](../../../topics/jill-jones/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Michael Howe](../../../topics/michael-howe/index.md), [Michael Jackson](../../../topics/michael-jackson/index.md), [motorcycle](../../../topics/motorcycle/index.md), [New Power Generation (song)](../../../topics/song/new-power-generation/index.md), [Peggy McCreary](../../../topics/peggy-mccreary/index.md), [Pop Life (song)](../../../topics/song/pop-life/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [Quincy Jones](../../../topics/quincy-jones/index.md), [Susan Rogers](../../../topics/susan-rogers/index.md), [The Revolution](../../../topics/the-revolution/index.md), [trademark](../../../topics/trademark/index.md), [Vanity](../../../topics/vanity/index.md), [Vanity 6](../../../topics/vanity-6/index.md), [vault](../../../topics/vault/index.md)
@@ -45,23 +48,23 @@
 
 ----
 
- - [**"Prince's '1999': 10 Best Bonus Songs on the Super Deluxe Edition"**](https://www.billboard.com/articles/news/8544912/prince-1999-reissue-best-moments)
+### 2019 November (3)
 
+ - [**"Prince's '1999': 10 Best Bonus Songs on the Super Deluxe Edition"**](https://www.billboard.com/articles/news/8544912/prince-1999-reissue-best-moments)
     - in [Billboard](https://www.billboard.com/)
     - on 27 November 2019
     - about [1999 (album)](../../../topics/album/1999/index.md), [Bold Generation (song)](../../../topics/song/bold-generation/index.md), [Can’t Stop This Feeling I Got (song)](../../../topics/song/can-t-stop-this-feeling-i-got/index.md), [Do Yourself a Favor (song)](../../../topics/song/do-yourself-a-favor/index.md), [Graffiti Bridge (album)](../../../topics/album/graffiti-bridge/index.md), [How Come U Don’t Call Me Anymore? (song)](../../../topics/song/how-come-u-don-t-call-me-anymore/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [New Power Generation (song)](../../../topics/song/new-power-generation/index.md), [Purple Music (song)](../../../topics/song/purple-music/index.md), [Rearrange (song)](../../../topics/song/rearrange/index.md), [Vagina (song)](../../../topics/song/vagina/index.md), [vault](../../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8544912/prince-1999-reissue-best-moments))
 
-----
+<br />
 
  - [**"12 must-hear tunes unearthed from Prince's vault for '1999' reissue"**](https://www.startribune.com/12-must-hear-tunes-unearthed-from-prince-s-vault-for-1999-reissue/565432942/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 25 November 2019
     - about [1999 (album)](../../../topics/album/1999/index.md), [94 East](../../../topics/94-east/index.md), [Can’t Stop This Feeling I Got (song)](../../../topics/song/can-t-stop-this-feeling-i-got/index.md), [Colleen (song)](../../../topics/song/colleen/index.md), [Do Yourself a Favor (song)](../../../topics/song/do-yourself-a-favor/index.md), [If It’ll Make U Happy (song)](../../../topics/song/if-it-ll-make-u-happy/index.md), [Jesse Johnson](../../../topics/jesse-johnson/index.md), [Jill Jones](../../../topics/jill-jones/index.md), [Morris Day](../../../topics/morris-day/index.md), [No Call U (song)](../../../topics/song/no-call-u/index.md), [Peggy McCreary](../../../topics/peggy-mccreary/index.md), [Pepe Willie](../../../topics/pepe-willie/index.md), [Purple Music (song)](../../../topics/song/purple-music/index.md), [Sunset Sound (place)](../../../topics/place/sunset-sound/index.md), [Vagina (song)](../../../topics/song/vagina/index.md), [Vanity](../../../topics/vanity/index.md), [vault](../../../topics/vault/index.md), [Yah, You Know (song)](../../../topics/song/yah-you-know/index.md), [You’re All I Want (song)](../../../topics/song/you-re-all-i-want/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/12-must-hear-tunes-unearthed-from-prince-s-vault-for-1999-reissue/565432942/))
 
-----
+<br />
 
  - [**"Album review: Prince’s ’1999′ keeps on giving in 2019"**](https://www.chicagotribune.com/entertainment/music/greg-kot/ct-ent-prince-1999-box-set-review-20191119-qa756i52jbacfdye5jyro4w47u-story.html)
     - by [Greg Kot](../../../authors/greg-kot/index.md)
@@ -72,8 +75,11 @@
 
 ----
 
- - [**"Prince’s Former Mentor Pepe Willie Recalls the Star's Early Days"**](https://www.yahoo.com/entertainment/princes-former-mentor-pepe-willie-recalls-the-215708376.html)
+## 2016 (1)
 
+### 2016 April (1)
+
+ - [**"Prince’s Former Mentor Pepe Willie Recalls the Star's Early Days"**](https://www.yahoo.com/entertainment/princes-former-mentor-pepe-willie-recalls-the-215708376.html)
     - in [Yahoo! Entertainment](https://www.yahoo.com/entertainment/)
     - on 28 April 2016
     - about [3121 (album)](../../../topics/album/3121/index.md), [94 East](../../../topics/94-east/index.md), [André Cymone](../../../topics/andr-cymone/index.md), [Bob Cavallo](../../../topics/bob-cavallo/index.md), [Bob Dylan](../../../topics/bob-dylan/index.md), [Chris Moon](../../../topics/chris-moon/index.md), [Do Yourself a Favor (song)](../../../topics/song/do-yourself-a-favor/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Jesse Johnson](../../../topics/jesse-johnson/index.md), [Kenny Rogers](../../../topics/kenny-rogers/index.md), [Minnesota Vikings](../../../topics/minnesota-vikings/index.md), [Morris Day](../../../topics/morris-day/index.md), [Owen Husney](../../../topics/owen-husney/index.md), [Pepe Willie](../../../topics/pepe-willie/index.md), [Stevie Wonder](../../../topics/stevie-wonder/index.md)

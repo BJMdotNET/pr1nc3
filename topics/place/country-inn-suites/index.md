@@ -1,7 +1,10 @@
 # Country Inn & Suites (place)
 
- - [**"Book excerpt: Prince's memoir, "The Beautiful Ones""**](https://www.cbsnews.com/news/book-excerpt-prince-memoir-the-beautiful-ones/)
+## 2019 (3)
 
+### 2019 October (1)
+
+ - [**"Book excerpt: Prince's memoir, "The Beautiful Ones""**](https://www.cbsnews.com/news/book-excerpt-prince-memoir-the-beautiful-ones/)
     - in [CBS News](https://www.cbsnews.com/)
     - on 26 October 2019
     - about [airport](../../../topics/airport/index.md), [Chris Jackson](../../../topics/chris-jackson/index.md), [Country Inn & Suites (place)](../../../topics/place/country-inn-suites/index.md), [Dan Piepenbring](../../../topics/dan-piepenbring/index.md), [Kim Pratt](../../../topics/kim-pratt/index.md), [memoir](../../../topics/memoir/index.md), [Penguin Random House](../../../topics/penguin-random-house/index.md), [Random House](../../../topics/random-house/index.md), [Spiegel & Grau](../../../topics/spiegel-grau/index.md), [The Beautiful Ones (book)](../../../topics/book/the-beautiful-ones/index.md)
@@ -9,14 +12,15 @@
 
 ----
 
- - [**"Prince co-author details 'extremely unlikely' story behind new memoir in New Yorker article"**](https://www.startribune.com/prince-co-author-details-extremely-unlikely-story-behind-new-memoir-in-new-yorker-article/559478242/)
+### 2019 September (2)
 
+ - [**"Prince co-author details 'extremely unlikely' story behind new memoir in New Yorker article"**](https://www.startribune.com/prince-co-author-details-extremely-unlikely-story-behind-new-memoir-in-new-yorker-article/559478242/)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 5 September 2019
     - about [Atlanta (place)](../../../topics/place/atlanta/index.md), [Chanhassen Cinema](../../../topics/chanhassen-cinema/index.md), [Country Inn & Suites (place)](../../../topics/place/country-inn-suites/index.md), [Dan Piepenbring](../../../topics/dan-piepenbring/index.md), [John Nelson](../../../topics/john-nelson/index.md), [memoir](../../../topics/memoir/index.md), [Miles Davis](../../../topics/miles-davis/index.md), [Random House](../../../topics/random-house/index.md), [Raspberry Beret (song)](../../../topics/song/raspberry-beret/index.md), [Spiegel & Grau](../../../topics/spiegel-grau/index.md), [The Ballad Of Dorothy Parker (song)](../../../topics/song/the-ballad-of-dorothy-parker/index.md), [The Beautiful Ones (book)](../../../topics/book/the-beautiful-ones/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-co-author-details-extremely-unlikely-story-behind-new-memoir-in-new-yorker-article/559478242/))
 
-----
+<br />
 
  - [**"The Book of Prince -- Prince had grand plans for his autobiography, but only a few months to live."**](https://www.newyorker.com/magazine/2019/09/09/the-book-of-prince)
     - by [Dan Piepenbring](../../../authors/dan-piepenbring/index.md)

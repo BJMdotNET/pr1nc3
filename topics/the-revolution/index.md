@@ -1,5 +1,9 @@
 # The Revolution
 
+## 2023 (1)
+
+### 2023 June (1)
+
  - [**"Joni Mitchell Returns to the Stage, Golden, Glorious and in Control -- The singer-songwriter’s first announced concert in more than 20 years was a nearly three-hour reimagining of her catalog that showcased her evolving, rich voice and her ever-sharp wit."**](https://www.nytimes.com/2023/06/11/arts/music/joni-mitchell-gorge-concert.html)
     - by [Lindsay Zoladz](../../authors/lindsay-zoladz/index.md)
     - in [New York Times](https://www.nytimes.com/)
@@ -8,6 +12,10 @@
     - ([mirror](https://web.archive.org/web/*/https://www.nytimes.com/2023/06/11/arts/music/joni-mitchell-gorge-concert.html))
 
 ----
+
+## 2022 (4)
+
+### 2022 June (1)
 
  - [**"Purple Rain: The Story Behind Prince’s Career-Defining Song -- The song most associated with Prince, Purple Rain is an epic power ballad that embodied its creator’s search for transcendence through music."**](https://www.thisisdig.com/feature/purple-rain-prince-song-story/)
     - by [Jason Draper](../../authors/jason-draper/index.md)
@@ -18,17 +26,17 @@
 
 ----
 
- - [**"Concierto de Prince de 1985 encuentra una nueva vida"**](https://apnews.com/article/espectaculos-23bc732247c86fe6560620d986328d6d)
+### 2022 May (2)
 
+ - [**"Concierto de Prince de 1985 encuentra una nueva vida"**](https://apnews.com/article/espectaculos-23bc732247c86fe6560620d986328d6d)
     - in [Associated Press News](https://apnews.com/)
     - on 23 May 2022
     - about [1999 (song)](../../topics/song/1999/index.md), [Bobby Z.](../../topics/bobby-z/index.md), [Carrier Dome (place)](../../topics/place/carrier-dome/index.md), [Computer Blue (song)](../../topics/song/computer-blue/index.md), [Delirious (song)](../../topics/song/delirious/index.md), [I Would Die 4 U (song)](../../topics/song/i-would-die-4-u/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Let’s Pretend We’re Married (song)](../../topics/song/let-s-pretend-we-re-married/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Prince and The Revolution](../../topics/prince-and-the-revolution/index.md), [Prince and The Revolution: Live (album)](../../topics/album/prince-and-the-revolution-live/index.md), [Prince and The Revolution: Live (Blu-ray)](../../topics/blu-ray/prince-and-the-revolution-live/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Purple Rain (tour)](../../topics/tour/purple-rain/index.md), [Syracuse (place)](../../topics/place/syracuse/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/espectaculos-23bc732247c86fe6560620d986328d6d))
 
-----
+<br />
 
  - [**"When purple reigned: A 1985 Prince concert finds a new life"**](https://apnews.com/article/prince-music-remastered-Syracuse-1985-concert-6a3c60a89ffbc3e5625b87a5c00f1f63)
-
     - in [Associated Press News](https://apnews.com/)
     - on 23 May 2022
     - about [1999 (song)](../../topics/song/1999/index.md), [Bobby Z.](../../topics/bobby-z/index.md), [bootleg](../../topics/bootleg/index.md), [Carrier Dome (place)](../../topics/place/carrier-dome/index.md), [Computer Blue (song)](../../topics/song/computer-blue/index.md), [Delirious (song)](../../topics/song/delirious/index.md), [Grammy Award](../../topics/grammy-award/index.md), [I Would Die 4 U (song)](../../topics/song/i-would-die-4-u/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Let’s Pretend We’re Married (song)](../../topics/song/let-s-pretend-we-re-married/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Prince & The Revolution](../../topics/prince-the-revolution/index.md), [Prince and The Revolution](../../topics/prince-and-the-revolution/index.md), [Prince and The Revolution: Live (album)](../../topics/album/prince-and-the-revolution-live/index.md), [Prince and The Revolution: Live (Blu-ray)](../../topics/blu-ray/prince-and-the-revolution-live/index.md), [Prince: The Immersive Experience (exhibition)](../../topics/exhibition/prince-the-immersive-experience/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Purple Rain (tour)](../../topics/tour/purple-rain/index.md), [Syracuse (place)](../../topics/place/syracuse/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
@@ -36,8 +44,9 @@
 
 ----
 
- - [**"Around the state: Judge rejects claims by Prince divorce lawyer for $600,000 / Musicians from Prince bands to speak at anniversary event"**](https://apnews.com/article/technology-entertainment-music-minneapolis-st-paul-95716b4f4bd946e5ac0a843329ef9f87)
+### 2022 January (1)
 
+ - [**"Around the state: Judge rejects claims by Prince divorce lawyer for $600,000 / Musicians from Prince bands to speak at anniversary event"**](https://apnews.com/article/technology-entertainment-music-minneapolis-st-paul-95716b4f4bd946e5ac0a843329ef9f87)
     - in [Associated Press News](https://apnews.com/)
     - on 2 January 2022
     - about [BrownMark](../../topics/brownmark/index.md), [Carver County](../../topics/carver-county/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [Celebration 2017 (event)](../../topics/event/celebration-2017/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [divorce](../../topics/divorce/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Levi Seacer](../../topics/levi-seacer/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Matt Fink](../../topics/matt-fink/index.md), [Morris Hayes](../../topics/morris-hayes/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Patrick Cousins](../../topics/patrick-cousins/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Shelby J.](../../topics/shelby-j/index.md), [Stacia Lang](../../topics/stacia-lang/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
@@ -45,14 +54,19 @@
 
 ----
 
- - [**"Paisley Park Announces Performers & Special Guests Joining CELEBRATION 2019"**](https://apnews.com/article/entertainment-music-minnesota-minneapolis-prince-5dab29ebae754a008ff8dc0d3bdc5469)
+## 2021 (2)
 
+### 2021 December (1)
+
+ - [**"Paisley Park Announces Performers & Special Guests Joining CELEBRATION 2019"**](https://apnews.com/article/entertainment-music-minnesota-minneapolis-prince-5dab29ebae754a008ff8dc0d3bdc5469)
     - in [Associated Press News](https://apnews.com/)
     - on 22 December 2021
     - about [Audubon Road (place)](../../topics/place/audubon-road/index.md), [Bob Cavallo](../../topics/bob-cavallo/index.md), [Bobby Z](../../topics/bobby-z/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [Celebration 2019 (event)](../../topics/event/celebration-2019/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [DJ Kiss](../../topics/dj-kiss/index.md), [Ida Nielsen](../../topics/ida-nielsen/index.md), [Ingrid Chavez](../../topics/ingrid-chavez/index.md), [Jeff Katz](../../topics/jeff-katz/index.md), [Jesse Johnson](../../topics/jesse-johnson/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Matt Fink](../../topics/matt-fink/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Prince: In Concert On The Big Screen (event)](../../topics/event/prince-in-concert-on-the-big-screen/index.md), [Renato Neto](../../topics/renato-neto/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/entertainment-music-minnesota-minneapolis-prince-5dab29ebae754a008ff8dc0d3bdc5469))
 
 ----
+
+### 2021 June (1)
 
  - [**"Purple Rain: How Prince Stormed His Way To Superstardom -- Creating the zeitgeist, Prince’s ‘Purple Rain’ era raised the bars for music, cinema and live performance. No one has come close since."**](https://www.thisisdig.com/feature/prince-purple-rain-album/)
     - by [Jason Draper](../../authors/jason-draper/index.md)
@@ -63,8 +77,11 @@
 
 ----
 
- - [**"New Streaming Channels with Music's Legendary and Game-Changing Artists to Launch Today on SiriusXM -- The Prince Channel returns through August 13"**](https://www.prnewswire.com/news-releases/new-streaming-channels-with-musics-legendary-and-game-changing-artists-to-launch-today-on-siriusxm-301093865.html)
+## 2020 (25)
 
+### 2020 July (1)
+
+ - [**"New Streaming Channels with Music's Legendary and Game-Changing Artists to Launch Today on SiriusXM -- The Prince Channel returns through August 13"**](https://www.prnewswire.com/news-releases/new-streaming-channels-with-musics-legendary-and-game-changing-artists-to-launch-today-on-siriusxm-301093865.html)
     - in [PR Newswire](https://www.prnewswire.com/)
     - on 15 July 2020
     - about [Jerome Benton](../../topics/jerome-benton/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Maya Rudolph](../../topics/maya-rudolph/index.md), [Morris Day](../../topics/morris-day/index.md), [SiriusXM](../../topics/siriusxm/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md)
@@ -72,8 +89,9 @@
 
 ----
 
- - [**"Prince’s Classic ‘Sign O’ the Times’ Deluxe Reissue Coming in September, With 63 Bonus Tracks"**](https://variety.com/2020/music/news/prince-sign-o-the-times-deluxe-reissue-bonus-tracks-1234689805/)
+### 2020 June (1)
 
+ - [**"Prince’s Classic ‘Sign O’ the Times’ Deluxe Reissue Coming in September, With 63 Bonus Tracks"**](https://variety.com/2020/music/news/prince-sign-o-the-times-deluxe-reissue-bonus-tracks-1234689805/)
     - in [Variety](https://variety.com/)
     - on 25 June 2020
     - about [Andrea Swensson](../../topics/andrea-swensson/index.md), [bootleg](../../topics/bootleg/index.md), [Daphne A. Brooks](../../topics/daphne-a-brooks/index.md), [Dave Chappelle](../../topics/dave-chappelle/index.md), [Dream Factory (album)](../../topics/album/dream-factory/index.md), [Duane Tudahl](../../topics/duane-tudahl/index.md), [I Could Never Take The Place Of Your Man (song)](../../topics/song/i-could-never-take-the-place-of-your-man/index.md), [Jeff Katz](../../topics/jeff-katz/index.md), [Lenny Kravitz](../../topics/lenny-kravitz/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [The Revolution](../../topics/the-revolution/index.md), [U Got the Look (song)](../../topics/song/u-got-the-look/index.md), [vault](../../topics/vault/index.md), [Witness 4 The Prosecution (song)](../../topics/song/witness-4-the-prosecution/index.md)
@@ -81,8 +99,9 @@
 
 ----
 
- - [**"Say hello to ‘Trolls,’ farewell to ‘Modern Family’ this week"**](https://apnews.com/article/virus-outbreak-music-entertainment-joe-satriani-christopher-guest-4fe08b5eeab02cdcacba7caba22f66cc)
+### 2020 April (1)
 
+ - [**"Say hello to ‘Trolls,’ farewell to ‘Modern Family’ this week"**](https://apnews.com/article/virus-outbreak-music-entertainment-joe-satriani-christopher-guest-4fe08b5eeab02cdcacba7caba22f66cc)
     - in [Associated Press News](https://apnews.com/)
     - on 7 April 2020
     - about [Lisa Coleman](../../topics/lisa-coleman/index.md), [The Revolution](../../topics/the-revolution/index.md)
@@ -90,197 +109,177 @@
 
 ----
 
- - [**"Foo Fighters, Beck, H.E.R., Sheila E. Light Up ‘Grammy Salute to Prince’ Concert"**](https://www.yahoo.com/entertainment/foo-fighters-beck-h-e-233930375.html)
+### 2020 January (22)
 
+ - [**"Foo Fighters, Beck, H.E.R., Sheila E. Light Up ‘Grammy Salute to Prince’ Concert"**](https://www.yahoo.com/entertainment/foo-fighters-beck-h-e-233930375.html)
     - in [Yahoo! Entertainment](https://www.yahoo.com/entertainment/)
     - on 30 January 2020
     - about [1999 (song)](../../topics/song/1999/index.md), [Baby I’m a Star (song)](../../topics/song/baby-i-m-a-star/index.md), [Bangles](../../topics/bangles/index.md), [Beck](../../topics/beck/index.md), [Chris Martin](../../topics/chris-martin/index.md), [Coldplay](../../topics/coldplay/index.md), [Controversy (song)](../../topics/song/controversy/index.md), [D’Angelo](../../topics/d-angelo/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [Diamonds and Pearls (song)](../../topics/song/diamonds-and-pearls/index.md), [Earth, Wind & Fire](../../topics/earth-wind-fire/index.md), [Foo Fighters](../../topics/foo-fighters/index.md), [Fred Armisen](../../topics/fred-armisen/index.md), [Gary Clark Jr.](../../topics/gary-clark-jr/index.md), [Gretchen Lieberum](../../topics/gretchen-lieberum/index.md), [H.E.R.](../../topics/h-e-r/index.md), [Janelle Monae](../../topics/janelle-monae/index.md), [Jerome Benton](../../topics/jerome-benton/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [John Legend](../../topics/john-legend/index.md), [Juanes](../../topics/juanes/index.md), [Jungle Love (song)](../../topics/song/jungle-love/index.md), [Ken Ehrlich](../../topics/ken-ehrlich/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Maya Rudolph](../../topics/maya-rudolph/index.md), [Misty Copeland](../../topics/misty-copeland/index.md), [Morris Day](../../topics/morris-day/index.md), [Mountains (song)](../../topics/song/mountains/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Pop Life (song)](../../topics/song/pop-life/index.md), [PRINCEss](../../topics/princess/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Raspberry Beret (song)](../../topics/song/raspberry-beret/index.md), [Sheila E.](../../topics/sheila-e/index.md), [St. Vincent](../../topics/st-vincent/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Beautiful Ones (song)](../../topics/song/the-beautiful-ones/index.md), [The Bird (song)](../../topics/song/the-bird/index.md), [The Glamorous Life (song)](../../topics/song/the-glamorous-life/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.yahoo.com/entertainment/foo-fighters-beck-h-e-233930375.html))
 
-----
+<br />
 
  - [**"At Prince’s Grammy Tribute Concert, Old Friends Meet Rock and Soul Superstars -- Foo Fighters, Beck, John Legend, Gary Clark Jr, St. Vincent and Mavis Staples join the Revolution and Sheila E. to honor musician at the Recording Academy’s latest Grammy Salute show"**](https://www.rollingstone.com/music/music-news/prince-grammy-salute-show-recap-944767/)
-
     - in [Rolling Stone](https://www.rollingstone.com/)
     - on 29 January 2020
     - about [Bangles](../../topics/bangles/index.md), [Beck](../../topics/beck/index.md), [Chris Martin](../../topics/chris-martin/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [Earth, Wind & Fire](../../topics/earth-wind-fire/index.md), [FKA twigs](../../topics/fka-twigs/index.md), [Foo Fighters](../../topics/foo-fighters/index.md), [Gary Clark Jr.](../../topics/gary-clark-jr/index.md), [Grammy Award](../../topics/grammy-award/index.md), [Gretchen Lieberum](../../topics/gretchen-lieberum/index.md), [H.E.R.](../../topics/h-e-r/index.md), [John Legend](../../topics/john-legend/index.md), [Juanes](../../topics/juanes/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Los Angeles Convention Center (place)](../../topics/place/los-angeles-convention-center/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Maya Rudolph](../../topics/maya-rudolph/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Paisley Park Records](../../topics/paisley-park-records/index.md), [PRINCEss](../../topics/princess/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Raspberry Beret (song)](../../topics/song/raspberry-beret/index.md), [Sheila E.](../../topics/sheila-e/index.md), [St. Vincent](../../topics/st-vincent/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [The Revolution](../../topics/the-revolution/index.md), [Usher](../../topics/usher/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-news/prince-grammy-salute-show-recap-944767/))
 
-----
+<br />
 
  - [**"Deep cuts and idiosyncratic visions highlight Grammy tribute concert to Prince"**](https://www.latimes.com/entertainment-arts/music/story/2020-01-29/prince-tribute-grammys-foo-fighters-beck-john-legend)
-
     - in [Los Angeles Times](https://www.latimes.com/)
     - on 29 January 2020
     - about [Aretha Franklin](../../topics/aretha-franklin/index.md), [Baby I’m a Star (song)](../../topics/song/baby-i-m-a-star/index.md), [Bangles](../../topics/bangles/index.md), [Beck](../../topics/beck/index.md), [Chris Martin](../../topics/chris-martin/index.md), [Coldplay](../../topics/coldplay/index.md), [Controversy (song)](../../topics/song/controversy/index.md), [Earth, Wind & Fire](../../topics/earth-wind-fire/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Foo Fighters](../../topics/foo-fighters/index.md), [Fred Armisen](../../topics/fred-armisen/index.md), [Gary Clark Jr.](../../topics/gary-clark-jr/index.md), [Grammy Award](../../topics/grammy-award/index.md), [H.E.R.](../../topics/h-e-r/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [John Legend](../../topics/john-legend/index.md), [Jungle Love (song)](../../topics/song/jungle-love/index.md), [Ken Ehrlich](../../topics/ken-ehrlich/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Los Angeles Convention Center (place)](../../topics/place/los-angeles-convention-center/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Mountains (song)](../../topics/song/mountains/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Pop Life (song)](../../topics/song/pop-life/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Sheila E.](../../topics/sheila-e/index.md), [St. Vincent](../../topics/st-vincent/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Super Bowl XLI (event)](../../topics/event/super-bowl-xli/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Beautiful Ones (song)](../../topics/song/the-beautiful-ones/index.md), [The Glamorous Life (song)](../../topics/song/the-glamorous-life/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.latimes.com/entertainment-arts/music/story/2020-01-29/prince-tribute-grammys-foo-fighters-beck-john-legend))
 
-----
+<br />
 
  - [**"Foo Fighters, Beck, H.E.R., Sheila E. Light Up ‘Grammy Salute to Prince’ Concert"**](https://variety.com/2020/music/news/prince-tribute-concert-foo-fighters-her-beck-1203485036/)
-
     - in [Variety](https://variety.com/)
     - on 29 January 2020
     - about [1999 (song)](../../topics/song/1999/index.md), [Baby I’m a Star (song)](../../topics/song/baby-i-m-a-star/index.md), [Bangles](../../topics/bangles/index.md), [Beck](../../topics/beck/index.md), [bootleg](../../topics/bootleg/index.md), [Chris Martin](../../topics/chris-martin/index.md), [Coldplay](../../topics/coldplay/index.md), [Controversy (song)](../../topics/song/controversy/index.md), [D’Angelo](../../topics/d-angelo/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [Diamonds and Pearls (song)](../../topics/song/diamonds-and-pearls/index.md), [Earth, Wind & Fire](../../topics/earth-wind-fire/index.md), [Foo Fighters](../../topics/foo-fighters/index.md), [Fred Armisen](../../topics/fred-armisen/index.md), [Gary Clark Jr.](../../topics/gary-clark-jr/index.md), [Gretchen Lieberum](../../topics/gretchen-lieberum/index.md), [H.E.R.](../../topics/h-e-r/index.md), [Janelle Monae](../../topics/janelle-monae/index.md), [Jerome Benton](../../topics/jerome-benton/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [John Legend](../../topics/john-legend/index.md), [Juanes](../../topics/juanes/index.md), [Jungle Love (song)](../../topics/song/jungle-love/index.md), [Ken Ehrlich](../../topics/ken-ehrlich/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Maya Rudolph](../../topics/maya-rudolph/index.md), [Misty Copeland](../../topics/misty-copeland/index.md), [Morris Day](../../topics/morris-day/index.md), [Mountains (song)](../../topics/song/mountains/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Pop Life (song)](../../topics/song/pop-life/index.md), [PRINCEss](../../topics/princess/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Raspberry Beret (song)](../../topics/song/raspberry-beret/index.md), [Sheila E.](../../topics/sheila-e/index.md), [St. Vincent](../../topics/st-vincent/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Beautiful Ones (song)](../../topics/song/the-beautiful-ones/index.md), [The Bird (song)](../../topics/song/the-bird/index.md), [The Glamorous Life (song)](../../topics/song/the-glamorous-life/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
     - ([mirror](https://web.archive.org/web/*/https://variety.com/2020/music/news/prince-tribute-concert-foo-fighters-her-beck-1203485036/))
 
-----
+<br />
 
  - [**"Grammy’s Prince “Tribute” is Everything But"**](https://vocal.media/beat/let-s-go-insane-a9c30s63)
-
     - in [vocal.media](https://vocal.media/)
     - on 29 January 2020
     - about [Grammy Award](../../topics/grammy-award/index.md), [Juanes](../../topics/juanes/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Let's Go Crazy: The Grammy Salute to Prince (event)](../../topics/event/let-s-go-crazy-the-grammy-salute-to-prince/index.md), [Los Angeles Convention Center (place)](../../topics/place/los-angeles-convention-center/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [The Revolution](../../topics/the-revolution/index.md), [Trump](../../topics/trump/index.md), [Usher](../../topics/usher/index.md)
     - ([mirror](https://web.archive.org/web/*/https://vocal.media/beat/let-s-go-insane-a9c30s63))
 
-----
+<br />
 
  - [**"H.E.R., Gary Clark Jr., Dave Grohl and More Go Crazy For 'The Grammy Salute to Prince'"**](https://www.billboard.com/articles/news/television/8549551/grammy-salute-prince-taping-recap)
-
     - in [Billboard](https://www.billboard.com/)
     - on 29 January 2020
     - about [1999 (song)](../../topics/song/1999/index.md), [Baby I’m a Star (song)](../../topics/song/baby-i-m-a-star/index.md), [Bangles](../../topics/bangles/index.md), [Beck](../../topics/beck/index.md), [Chris Martin](../../topics/chris-martin/index.md), [Coldplay](../../topics/coldplay/index.md), [Controversy (song)](../../topics/song/controversy/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [Earth, Wind & Fire](../../topics/earth-wind-fire/index.md), [Foo Fighters](../../topics/foo-fighters/index.md), [Gary Clark Jr.](../../topics/gary-clark-jr/index.md), [Grammy Award](../../topics/grammy-award/index.md), [H.E.R.](../../topics/h-e-r/index.md), [I Would Die 4 U (song)](../../topics/song/i-would-die-4-u/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jerome Benton](../../topics/jerome-benton/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [John Legend](../../topics/john-legend/index.md), [Juanes](../../topics/juanes/index.md), [Jungle Love (song)](../../topics/song/jungle-love/index.md), [Ken Ehrlich](../../topics/ken-ehrlich/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Los Angeles Convention Center (place)](../../topics/place/los-angeles-convention-center/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Maya Rudolph](../../topics/maya-rudolph/index.md), [Misty Copeland](../../topics/misty-copeland/index.md), [Morris Day](../../topics/morris-day/index.md), [Mountains (song)](../../topics/song/mountains/index.md), [Pop Life (song)](../../topics/song/pop-life/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Raspberry Beret (song)](../../topics/song/raspberry-beret/index.md), [Sheila E.](../../topics/sheila-e/index.md), [St. Vincent](../../topics/st-vincent/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Beautiful Ones (song)](../../topics/song/the-beautiful-ones/index.md), [The Bird (song)](../../topics/song/the-bird/index.md), [The Glamorous Life (song)](../../topics/song/the-glamorous-life/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/television/8549551/grammy-salute-prince-taping-recap))
 
-----
+<br />
 
  - [**"Local artist pays tribute to Prince with giant mural at MSP airport -- Rock Martinez's mural of the music legend arrived for a yearlong stay at MSP as part of the airport's traveling exhibits program."**](https://www.startribune.com/local-artist-pays-tribute-to-prince-with-msp-airport-mural/567357372/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 28 January 2020
     - about [airport](../../topics/airport/index.md), [Alan Seiffert](../../topics/alan-seiffert/index.md), [ARTS@MSP](../../topics/arts-msp/index.md), [Bob Dylan](../../topics/bob-dylan/index.md), [exhibit](../../topics/exhibit/index.md), [I Would Die 4 U (song)](../../topics/song/i-would-die-4-u/index.md), [merchandise](../../topics/merchandise/index.md), [Minneapolis-St. Paul International Airport (place)](../../topics/place/minneapolis-st-paul-international-airport/index.md), [MSP (place)](../../topics/place/msp/index.md), [museum](../../topics/museum/index.md), [Rock Martinez](../../topics/rock-martinez/index.md), [The Revolution](../../topics/the-revolution/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md), [Weisman Art Museum (place)](../../topics/place/weisman-art-museum/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/local-artist-pays-tribute-to-prince-with-msp-airport-mural/567357372/))
 
-----
+<br />
 
  - [**""Let's Go Crazy: The GRAMMY® Salute to Prince" Available Internationally Thanks to Exclusive Television Distribution Rights Secured by Alfred Haber, Inc. -- All-Star Lineup Set to Perform Songs from Prince's Remarkable Catalog During Live Concert Taping on Jan. 28 -- Available at NATPE for the first time"**](https://www.prnewswire.com/news-releases/lets-go-crazy-the-grammy-salute-to-prince-available-internationally-thanks-to-exclusive-television-distribution-rights-secured-by-alfred-haber-inc-300989367.html)
-
     - in [PR Newswire](https://www.prnewswire.com/)
     - on 20 January 2020
     - about [Bangles](../../topics/bangles/index.md), [Beck](../../topics/beck/index.md), [Chris Martin](../../topics/chris-martin/index.md), [Coldplay](../../topics/coldplay/index.md), [Earth, Wind & Fire](../../topics/earth-wind-fire/index.md), [Foo Fighters](../../topics/foo-fighters/index.md), [Gary Clark Jr.](../../topics/gary-clark-jr/index.md), [Grammy Award](../../topics/grammy-award/index.md), [H.E.R.](../../topics/h-e-r/index.md), [John Legend](../../topics/john-legend/index.md), [Juanes](../../topics/juanes/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [museum](../../topics/museum/index.md), [Sheila E.](../../topics/sheila-e/index.md), [St. Vincent](../../topics/st-vincent/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md), [Usher](../../topics/usher/index.md), [YouTube](../../topics/youtube/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/lets-go-crazy-the-grammy-salute-to-prince-available-internationally-thanks-to-exclusive-television-distribution-rights-secured-by-alfred-haber-inc-300989367.html))
 
-----
+<br />
 
  - [**"Humanoids to Publish ‘MPLS Sound’ Music Graphic Novel in 2020"**](https://www.publishersweekly.com/pw/newsbrief/index.html?record=2573)
-
     - in [Publishers Weekly](https://www.publishersweekly.com/)
     - on 19 January 2020
     - about [The Revolution](../../topics/the-revolution/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.publishersweekly.com/pw/newsbrief/index.html?record=2573))
 
-----
+<br />
 
  - [**"Grammys announce all-star Prince tribute concert"**](http://www.citypages.com/music/grammys-announce-all-star-prince-tribute-concert/566840941)
-
     - in [City Pages](http://www.citypages.com/)
     - on 9 January 2020
     - about [Alicia Keys](../../topics/alicia-keys/index.md), [Beck](../../topics/beck/index.md), [Chris Martin](../../topics/chris-martin/index.md), [Earth, Wind & Fire](../../topics/earth-wind-fire/index.md), [Foo Fighters](../../topics/foo-fighters/index.md), [H.E.R.](../../topics/h-e-r/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [John Legend](../../topics/john-legend/index.md), [Juanes](../../topics/juanes/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [Sheila E.](../../topics/sheila-e/index.md), [St. Vincent](../../topics/st-vincent/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md), [Usher](../../topics/usher/index.md)
     - ([mirror](https://web.archive.org/web/*/http://www.citypages.com/music/grammys-announce-all-star-prince-tribute-concert/566840941))
 
-----
+<br />
 
  - [**"Grammys to host all-star Prince tribute concert run by Sheila E., Jimmy Jam, and Terry Lewis"**](https://blog.thecurrent.org/2020/01/grammys-to-host-all-star-prince-tribute-concert-run-by-sheila-e-jimmy-jam-and-terry-lewis/)
-
     - in [The Current - Local Current Blog](https://blog.thecurrent.org/)
     - on 9 January 2020
     - about [Alicia Keys](../../topics/alicia-keys/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Bangles](../../topics/bangles/index.md), [Beck](../../topics/beck/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Chris Martin](../../topics/chris-martin/index.md), [Coldplay](../../topics/coldplay/index.md), [Gary Clark Jr.](../../topics/gary-clark-jr/index.md), [H.E.R.](../../topics/h-e-r/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [John Legend](../../topics/john-legend/index.md), [Juanes](../../topics/juanes/index.md), [Ken Ehrlich](../../topics/ken-ehrlich/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Lizzo](../../topics/lizzo/index.md), [Los Angeles Convention Center (place)](../../topics/place/los-angeles-convention-center/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [Nasty Girl (song)](../../topics/song/nasty-girl/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md), [Usher](../../topics/usher/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md)
     - ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2020/01/grammys-to-host-all-star-prince-tribute-concert-run-by-sheila-e-jimmy-jam-and-terry-lewis/))
 
-----
+<br />
 
  - [**"Grammys will honor Prince with an all-star concert broadcast on CBS"**](https://www.startribune.com/grammys-will-honor-prince-with-an-all-star-concert-broadcast-on-cbs/566849132/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 9 January 2020
     - about [Alicia Keys](../../topics/alicia-keys/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Beck](../../topics/beck/index.md), [Chris Martin](../../topics/chris-martin/index.md), [Coldplay](../../topics/coldplay/index.md), [Earth, Wind & Fire](../../topics/earth-wind-fire/index.md), [Foo Fighters](../../topics/foo-fighters/index.md), [Gary Clark Jr.](../../topics/gary-clark-jr/index.md), [Grammy Award](../../topics/grammy-award/index.md), [H.E.R.](../../topics/h-e-r/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [John Legend](../../topics/john-legend/index.md), [Juanes](../../topics/juanes/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Let's Go Crazy: The Grammy Salute to Prince (event)](../../topics/event/let-s-go-crazy-the-grammy-salute-to-prince/index.md), [Los Angeles Convention Center (place)](../../topics/place/los-angeles-convention-center/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [St. Vincent](../../topics/st-vincent/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md), [Usher](../../topics/usher/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/grammys-will-honor-prince-with-an-all-star-concert-broadcast-on-cbs/566849132/))
 
-----
+<br />
 
  - [**"John Legend, Alicia Keys & More Will Pay Tribute to Prince in Grammy Special -- 'Let's Go Crazy: The Grammy Salute to Prince' will tape in Los Angeles two days after the 2020 Grammys."**](https://www.billboard.com/articles/columns/pop/8547655/prince-grammy-special-tribute)
-
     - in [Billboard](https://www.billboard.com/)
     - on 9 January 2020
     - about [Alicia Keys](../../topics/alicia-keys/index.md), [Bangles](../../topics/bangles/index.md), [Beck](../../topics/beck/index.md), [Chris Martin](../../topics/chris-martin/index.md), [Coldplay](../../topics/coldplay/index.md), [Earth, Wind & Fire](../../topics/earth-wind-fire/index.md), [Foo Fighters](../../topics/foo-fighters/index.md), [Gary Clark Jr.](../../topics/gary-clark-jr/index.md), [Grammy Award](../../topics/grammy-award/index.md), [H.E.R.](../../topics/h-e-r/index.md), [John Legend](../../topics/john-legend/index.md), [Juanes](../../topics/juanes/index.md), [Ken Ehrlich](../../topics/ken-ehrlich/index.md), [Let's Go Crazy: The Grammy Salute to Prince (event)](../../topics/event/let-s-go-crazy-the-grammy-salute-to-prince/index.md), [Los Angeles Convention Center (place)](../../topics/place/los-angeles-convention-center/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [Sheila E.](../../topics/sheila-e/index.md), [St. Vincent](../../topics/st-vincent/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md), [Usher](../../topics/usher/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/columns/pop/8547655/prince-grammy-special-tribute))
 
-----
+<br />
 
  - [**"John Legend, H.E.R. to perform at Prince tribute concert"**](https://www.startribune.com/john-legend-h-e-r-to-perform-at-prince-tribute-concert/566845702/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 9 January 2020
     - about [Alicia Keys](../../topics/alicia-keys/index.md), [Beck](../../topics/beck/index.md), [Chris Martin](../../topics/chris-martin/index.md), [Earth, Wind & Fire](../../topics/earth-wind-fire/index.md), [Foo Fighters](../../topics/foo-fighters/index.md), [Gary Clark Jr.](../../topics/gary-clark-jr/index.md), [Grammy Award](../../topics/grammy-award/index.md), [H.E.R.](../../topics/h-e-r/index.md), [John Legend](../../topics/john-legend/index.md), [Juanes](../../topics/juanes/index.md), [Let's Go Crazy: The Grammy Salute to Prince (event)](../../topics/event/let-s-go-crazy-the-grammy-salute-to-prince/index.md), [Los Angeles Convention Center (place)](../../topics/place/los-angeles-convention-center/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [Sheila E.](../../topics/sheila-e/index.md), [St. Vincent](../../topics/st-vincent/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md), [Usher](../../topics/usher/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/john-legend-h-e-r-to-perform-at-prince-tribute-concert/566845702/))
 
-----
+<br />
 
  - [**"John Legend, H.E.R. to perform at Prince tribute concert"**](https://apnews.com/e672f9a779c8cef910eefb7b8cff753f)
-
     - in [Associated Press News](https://apnews.com/)
     - on 9 January 2020
     - about [Alicia Keys](../../topics/alicia-keys/index.md), [Beck](../../topics/beck/index.md), [Chris Martin](../../topics/chris-martin/index.md), [Earth, Wind & Fire](../../topics/earth-wind-fire/index.md), [Foo Fighters](../../topics/foo-fighters/index.md), [Gary Clark Jr.](../../topics/gary-clark-jr/index.md), [Grammy Award](../../topics/grammy-award/index.md), [H.E.R.](../../topics/h-e-r/index.md), [John Legend](../../topics/john-legend/index.md), [Juanes](../../topics/juanes/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Los Angeles Convention Center (place)](../../topics/place/los-angeles-convention-center/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [Sheila E.](../../topics/sheila-e/index.md), [St. Vincent](../../topics/st-vincent/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md), [Usher](../../topics/usher/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/e672f9a779c8cef910eefb7b8cff753f))
 
-----
+<br />
 
  - [**"Prince Is Getting an All-Star Grammy Tribute Concert -- Alicia Keys, John Legend, Usher, Foo Fighters, Beck set to perform with musical director Sheila E."**](https://www.rollingstone.com/music/music-news/prince-grammys-tribute-concert-934548/)
-
     - in [Rolling Stone](https://www.rollingstone.com/)
     - on 9 January 2020
     - about [Alicia Keys](../../topics/alicia-keys/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Bangles](../../topics/bangles/index.md), [Beck](../../topics/beck/index.md), [Bobby Z.](../../topics/bobby-z/index.md), [Chris Martin](../../topics/chris-martin/index.md), [Earth, Wind & Fire](../../topics/earth-wind-fire/index.md), [Foo Fighters](../../topics/foo-fighters/index.md), [Grammy Award](../../topics/grammy-award/index.md), [H.E.R.](../../topics/h-e-r/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [John Legend](../../topics/john-legend/index.md), [Juanes](../../topics/juanes/index.md), [Ken Ehrlich](../../topics/ken-ehrlich/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Los Angeles Convention Center (place)](../../topics/place/los-angeles-convention-center/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [Sheila E.](../../topics/sheila-e/index.md), [St. Vincent](../../topics/st-vincent/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Glamorous Life (song)](../../topics/song/the-glamorous-life/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md), [Usher](../../topics/usher/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-news/prince-grammys-tribute-concert-934548/))
 
-----
+<br />
 
  - [**"Prince To Receive All-Star GRAMMY Tribute Concert Featuring Beck, Alicia Keys, John Legend And More -- The Recording Academy is honoring the legacy of the seven-time GRAMMY winner with a special celebration featuring some of music's biggest stars and Prince's most celebrated friends and collaborators"**](https://www.grammy.com/grammys/news/prince-receive-all-star-grammy-tribute-concert-featuring-beck-alicia-keys-john-legend)
-
     - in [The GRAMMYs](https://www.grammy.com/)
     - on 9 January 2020
     - about [Alicia Keys](../../topics/alicia-keys/index.md), [Beck](../../topics/beck/index.md), [Chris Martin](../../topics/chris-martin/index.md), [Coldplay](../../topics/coldplay/index.md), [Earth, Wind & Fire](../../topics/earth-wind-fire/index.md), [Foo Fighters](../../topics/foo-fighters/index.md), [Gary Clark Jr.](../../topics/gary-clark-jr/index.md), [Grammy Award](../../topics/grammy-award/index.md), [H.E.R.](../../topics/h-e-r/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [John Legend](../../topics/john-legend/index.md), [Juanes](../../topics/juanes/index.md), [Los Angeles Convention Center (place)](../../topics/place/los-angeles-convention-center/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [Sheila E.](../../topics/sheila-e/index.md), [St. Vincent](../../topics/st-vincent/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md), [Usher](../../topics/usher/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.grammy.com/grammys/news/prince-receive-all-star-grammy-tribute-concert-featuring-beck-alicia-keys-john-legend))
 
-----
+<br />
 
  - [**"Prince to Receive All-Star Grammy Tribute Starring Alicia Keys, Beck, Foo Fighters, Sheila E."**](https://variety.com/2020/music/news/prince-all-star-grammy-tribute-alicia-keys-beck-sheila-e-the-time-1203461660/)
-
     - in [Variety](https://variety.com/)
     - on 9 January 2020
     - about [Alicia Keys](../../topics/alicia-keys/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Beck](../../topics/beck/index.md), [Chris Martin](../../topics/chris-martin/index.md), [Earth, Wind & Fire](../../topics/earth-wind-fire/index.md), [Foo Fighters](../../topics/foo-fighters/index.md), [Grammy Award](../../topics/grammy-award/index.md), [H.E.R.](../../topics/h-e-r/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [John Legend](../../topics/john-legend/index.md), [Juanes](../../topics/juanes/index.md), [Let's Go Crazy: The Grammy Salute to Prince (event)](../../topics/event/let-s-go-crazy-the-grammy-salute-to-prince/index.md), [Los Angeles Convention Center (place)](../../topics/place/los-angeles-convention-center/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Sheila E.](../../topics/sheila-e/index.md), [St. Vincent](../../topics/st-vincent/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md), [Usher](../../topics/usher/index.md)
     - ([mirror](https://web.archive.org/web/*/https://variety.com/2020/music/news/prince-all-star-grammy-tribute-alicia-keys-beck-sheila-e-the-time-1203461660/))
 
-----
+<br />
 
  - [**"Bonus download: Prince Remembered from The Current"**](https://www.thecurrent.org/feature/2020/01/04/bonus-download-prince-remembered-from-the-current)
-
     - in [The Current](https://www.thecurrent.org/)
     - on 4 January 2020
     - about [Andrea Swensson](../../topics/andrea-swensson/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [The Revolution](../../topics/the-revolution/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2020/01/04/bonus-download-prince-remembered-from-the-current))
 
-----
+<br />
 
  - [**"Prince: The Story of 1999 bonus feature: Dr. Fink, 'When Prince sang live, he was just impeccable'"**](https://www.thecurrent.org/feature/2020/01/03/prince-the-story-of-1999-bonus-feature-matt-dr-fink-interview)
-
     - in [The Current](https://www.thecurrent.org/)
     - on 3 January 2020
     - about [1999 (album)](../../topics/album/1999/index.md), [Andrea Swensson](../../topics/andrea-swensson/index.md), [Do Yourself a Favor (song)](../../topics/song/do-yourself-a-favor/index.md), [Frank Zappa](../../topics/frank-zappa/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Matt Fink](../../topics/matt-fink/index.md), [Pepe Willie](../../topics/pepe-willie/index.md), [Possessed (song)](../../topics/song/possessed/index.md), [Prince: The Story of 1999](../../topics/prince-the-story-of-1999/index.md), [Purple Music (song)](../../topics/song/purple-music/index.md), [The Revolution](../../topics/the-revolution/index.md), [vault](../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2020/01/03/prince-the-story-of-1999-bonus-feature-matt-dr-fink-interview))
 
-----
+<br />
 
  - [**"Prince: The Story of 1999 bonus feature: Jellybean Johnson, 'Prince knew we had something special here in Minneapolis'"**](https://www.thecurrent.org/feature/2020/01/02/prince-the-story-of-1999-bonus-feature-jellybean-johnson-the-time-interview)
-
     - in [The Current](https://www.thecurrent.org/)
     - on 2 January 2020
     - about [1999 (album)](../../topics/album/1999/index.md), [Andrea Swensson](../../topics/andrea-swensson/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [fDeluxe](../../topics/fdeluxe/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Prince: The Story of 1999](../../topics/prince-the-story-of-1999/index.md), [The Family](../../topics/the-family/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2020/01/02/prince-the-story-of-1999-bonus-feature-jellybean-johnson-the-time-interview))
 
-----
+<br />
 
  - [**"Prince: The Story of 1999 bonus feature: LeRoy Bennett, 'Prince was beyond anybody'"**](https://www.thecurrent.org/feature/2020/01/02/prince-the-story-of-1999-leroy-bennett-prince-was-beyond-anybody)
-
     - in [The Current](https://www.thecurrent.org/)
     - on 2 January 2020
     - about [1999 (album)](../../topics/album/1999/index.md), [Andrea Swensson](../../topics/andrea-swensson/index.md), [Grammy Award](../../topics/grammy-award/index.md), [Jesse Johnson](../../topics/jesse-johnson/index.md), [Jill Jones](../../topics/jill-jones/index.md), [LeRoy Bennett](../../topics/leroy-bennett/index.md), [Prince: The Story of 1999](../../topics/prince-the-story-of-1999/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [The Revolution](../../topics/the-revolution/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md)
@@ -288,125 +287,115 @@
 
 ----
 
- - [**"The Best Music Boxed Sets of 2019 -- The Beatles, Prince, Bob Dylan, Nat King Cole, the Replacements and the Band all got commemorated — along with Woodstock, Bakersfield, Motown and East L.A."**](https://variety.com/2019/music/reviews/best-music-boxed-sets-2019-1203451459/)
+## 2019 (55)
 
+### 2019 December (14)
+
+ - [**"The Best Music Boxed Sets of 2019 -- The Beatles, Prince, Bob Dylan, Nat King Cole, the Replacements and the Band all got commemorated — along with Woodstock, Bakersfield, Motown and East L.A."**](https://variety.com/2019/music/reviews/best-music-boxed-sets-2019-1203451459/)
     - in [Variety](https://variety.com/)
     - on 23 December 2019
     - about [1999 (album)](../../topics/album/1999/index.md), [Bob Dylan](../../topics/bob-dylan/index.md), [bootleg](../../topics/bootleg/index.md), [David Fricke](../../topics/david-fricke/index.md), [Eric Clapton](../../topics/eric-clapton/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Mountains (song)](../../topics/song/mountains/index.md), [New Power Generation (song)](../../topics/song/new-power-generation/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [The Revolution](../../topics/the-revolution/index.md), [vault](../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/reviews/best-music-boxed-sets-2019-1203451459/))
 
-----
+<br />
 
  - [**"Prince: The Story of 1999 bonus feature: Bobby Z, 'Prince went from a caterpillar to a butterfly in that one purple trench coat'"**](https://www.thecurrent.org/feature/2019/12/20/prince-drummer-bobby-z-the-revolution-interview)
-
     - in [The Current](https://www.thecurrent.org/)
     - on 20 December 2019
     - about [1999 (album)](../../topics/album/1999/index.md), [1999 Deluxe (album)](../../topics/album/1999-deluxe/index.md), [Andrea Swensson](../../topics/andrea-swensson/index.md), [Andy Warhol](../../topics/andy-warhol/index.md), [Armory (place)](../../topics/place/armory/index.md), [Bobby Z.](../../topics/bobby-z/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [D.M.S.R. (song)](../../topics/song/d-m-s-r/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [Detroit (place)](../../topics/place/detroit/index.md), [Do It All Night (song)](../../topics/song/do-it-all-night/index.md), [Earth, Wind and Fire](../../topics/earth-wind-and-fire/index.md), [Lake Minnetonka (place)](../../topics/place/lake-minnetonka/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [London (place)](../../topics/place/london/index.md), [Matt Fink](../../topics/matt-fink/index.md), [Paradiso (place)](../../topics/place/paradiso/index.md), [Prince: The Story of 1999](../../topics/prince-the-story-of-1999/index.md), [Purple Music (song)](../../topics/song/purple-music/index.md), [Rick James](../../topics/rick-james/index.md), [Rolling Stones](../../topics/rolling-stones/index.md), [Sausalito (place)](../../topics/place/sausalito/index.md), [St. Louis Park (place)](../../topics/place/st-louis-park/index.md), [Steve Fargnoli](../../topics/steve-fargnoli/index.md), [The Coliseum (place)](../../topics/place/the-coliseum/index.md), [The Revolution](../../topics/the-revolution/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/12/20/prince-drummer-bobby-z-the-revolution-interview))
 
-----
+<br />
 
  - [**"Prince: The Story of 1999 bonus feature: Lisa Coleman, 'Prince and I just connected musically'"**](https://www.thecurrent.org/feature/2019/12/17/the-revolution-lisa-coleman-prince-was-an-amazing-spirit-guide)
-
     - in [The Current](https://www.thecurrent.org/)
     - on 17 December 2019
     - about [1999 (album)](../../topics/album/1999/index.md), [Andrea Swensson](../../topics/andrea-swensson/index.md), [Bob Dylan](../../topics/bob-dylan/index.md), [BrownMark](../../topics/brownmark/index.md), [I Wanna Be Your Lover (song)](../../topics/song/i-wanna-be-your-lover/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Kiowa Trail](../../topics/kiowa-trail/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Matt Fink](../../topics/matt-fink/index.md), [Prince: The Story of 1999](../../topics/prince-the-story-of-1999/index.md), [Sly Stone](../../topics/sly-stone/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [The Revolution](../../topics/the-revolution/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md), [Yah, You Know (song)](../../topics/song/yah-you-know/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/12/17/the-revolution-lisa-coleman-prince-was-an-amazing-spirit-guide))
 
-----
+<br />
 
  - [**"The Rhino Podcast - Episode 43: Prince 1999 Part 2 - Dez Dickerson talks"**](https://www.rhino.com/podcast/prince-1999-part-2-dez-dickerson-talks)
-
     - in [Rhino](https://www.rhino.com/)
     - on 17 December 2019
     - about [1999 (album)](../../topics/album/1999/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Rhino Podcast](../../topics/the-rhino-podcast/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.rhino.com/podcast/prince-1999-part-2-dez-dickerson-talks))
 
-----
+<br />
 
  - [**"Celebration 2020 at Paisley Park will coincide with Prince's birth, not death"**](https://www.startribune.com/celebration-2020-at-paisley-park-will-coincide-with-prince-s-birth-not-death/566249302/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 16 December 2019
     - about [1999 Super Deluxe (album)](../../topics/album/1999-super-deluxe/index.md), [Alan Seiffert](../../topics/alan-seiffert/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [Celebration 2020 (event)](../../topics/event/celebration-2020/index.md), [contract](../../topics/contract/index.md), [Donna Grantis](../../topics/donna-grantis/index.md), [George Clinton](../../topics/george-clinton/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [museum](../../topics/museum/index.md), [Nooky Jones](../../topics/nooky-jones/index.md), [Sometimes It Snows In April (song)](../../topics/song/sometimes-it-snows-in-april/index.md), [Super Bowl](../../topics/super-bowl/index.md), [The Revolution](../../topics/the-revolution/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/celebration-2020-at-paisley-park-will-coincide-with-prince-s-birth-not-death/566249302/))
 
-----
+<br />
 
  - [**"Paisley Park announces Celebration 2020 dates, moving from April to June"**](https://blog.thecurrent.org/2019/12/paisley-park-announces-celebration-2020-dates-moving-from-april-to-june/)
-
     - in [The Current - Local Current Blog](https://blog.thecurrent.org/)
     - on 16 December 2019
     - about [Andrea Swensson](../../topics/andrea-swensson/index.md), [Bob Cavallo](../../topics/bob-cavallo/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [Celebration 2020 (event)](../../topics/event/celebration-2020/index.md), [Jesse Johnson](../../topics/jesse-johnson/index.md), [museum](../../topics/museum/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [The Revolution](../../topics/the-revolution/index.md)
     - ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2019/12/paisley-park-announces-celebration-2020-dates-moving-from-april-to-june/))
 
-----
+<br />
 
  - [**"Former Prince mentor Pepé Willie shares memories of the late legend"**](https://spokesman-recorder.com/2019/12/14/former-prince-mentor-pepe-willie-shares-storied-history-of-do-yourself-a-favor-if-you-see-me/)
-
     - in [Minnesota Spokesman-Recorder](https://spokesman-recorder.com/)
     - on 14 December 2019
     - about [1999 Super Deluxe (album)](../../topics/album/1999-super-deluxe/index.md), [94 East](../../topics/94-east/index.md), [André Cymone](../../topics/andr-cymone/index.md), [Bob Cavallo](../../topics/bob-cavallo/index.md), [bootleg](../../topics/bootleg/index.md), [Detroit (place)](../../topics/place/detroit/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [Do Yourself a Favor (song)](../../topics/song/do-yourself-a-favor/index.md), [Little Anthony and The Imperials](../../topics/little-anthony-and-the-imperials/index.md), [Morris Day](../../topics/morris-day/index.md), [No Call U (song)](../../topics/song/no-call-u/index.md), [North Carolina (place)](../../topics/place/north-carolina/index.md), [Owen Husney](../../topics/owen-husney/index.md), [Pepé Willie](../../topics/pep-willie/index.md), [Purple Music (song)](../../topics/song/purple-music/index.md), [The Revolution](../../topics/the-revolution/index.md), [vault](../../topics/vault/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md)
     - ([mirror](https://web.archive.org/web/*/https://spokesman-recorder.com/2019/12/14/former-prince-mentor-pepe-willie-shares-storied-history-of-do-yourself-a-favor-if-you-see-me/))
 
-----
+<br />
 
  - [**"From Prince to Dessa to Dylan, here are five homegrown musical gift ideas"**](https://www.twincities.com/2019/12/12/from-prince-to-dessa-to-dylan-here-are-five-homegrown-musical-gift-ideas/)
-
     - in [TwinCities.com - Pioneer Press](https://www.twincities.com/)
     - on 12 December 2019
     - about [Andrea Swensson](../../topics/andrea-swensson/index.md), [Bob Dylan](../../topics/bob-dylan/index.md), [bootleg](../../topics/bootleg/index.md), [Chanhassen Dinner Theatres](../../topics/chanhassen-dinner-theatres/index.md), [David Fricke](../../topics/david-fricke/index.md), [Duane Tudahl](../../topics/duane-tudahl/index.md), [Duff McKagan](../../topics/duff-mckagan/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Minnesota Historical Society](../../topics/minnesota-historical-society/index.md), [motorcycle](../../topics/motorcycle/index.md), [Pop Life (song)](../../topics/song/pop-life/index.md), [The Revolution](../../topics/the-revolution/index.md), [vault](../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2019/12/12/from-prince-to-dessa-to-dylan-here-are-five-homegrown-musical-gift-ideas/))
 
-----
+<br />
 
  - [**"Prince: The Story of 1999, Episode 4: Let's Work"**](https://www.thecurrent.org/feature/2019/12/10/prince-the-story-of-1999-episode-4-lets-work-swensson)
-
     - in [The Current](https://www.thecurrent.org/)
     - on 10 December 2019
     - about [1999 (album)](../../topics/album/1999/index.md), [1999 Super Deluxe (album)](../../topics/album/1999-super-deluxe/index.md), [Alabama Shakes](../../topics/alabama-shakes/index.md), [Andrea Swensson](../../topics/andrea-swensson/index.md), [Brittany Howard](../../topics/brittany-howard/index.md), [Detroit (place)](../../topics/place/detroit/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [Essence Fest (event)](../../topics/event/essence-fest/index.md), [Essence Festival (event)](../../topics/event/essence-festival/index.md), [Fred Armisen](../../topics/fred-armisen/index.md), [Grammys](../../topics/grammys/index.md), [How Come U Don't Call Me Anymore (song)](../../topics/song/how-come-u-don-t-call-me-anymore/index.md), [I Wanna Be Your Lover (song)](../../topics/song/i-wanna-be-your-lover/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [LeRoy Bennett](../../topics/leroy-bennett/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Matt Fink](../../topics/matt-fink/index.md), [Maya Rudolph](../../topics/maya-rudolph/index.md), [Michael Howe](../../topics/michael-howe/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Nile Rodgers](../../topics/nile-rodgers/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Parade (album)](../../topics/album/parade/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Prince: The Story of 1999](../../topics/prince-the-story-of-1999/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [Spotify](../../topics/spotify/index.md), [Super Bowl](../../topics/super-bowl/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [The Revolution](../../topics/the-revolution/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/12/10/prince-the-story-of-1999-episode-4-lets-work-swensson))
 
-----
+<br />
 
  - [**"A Review Of Prince’s 1999 Super Deluxe Edition"**](https://www.sobrosnetwork.com/2019/12/09/a-review-of-princes-1999-super-deluxe-edition/)
-
     - in [www.sobrosnetwork.com](https://www.sobrosnetwork.com/)
     - on 9 December 2019
     - about [1999 (album)](../../topics/album/1999/index.md), [1999 Super Deluxe (album)](../../topics/album/1999-super-deluxe/index.md), [Andrea Swensson](../../topics/andrea-swensson/index.md), [Bold Generation (song)](../../topics/song/bold-generation/index.md), [Colleen (song)](../../topics/song/colleen/index.md), [Feel U Up (song)](../../topics/song/feel-u-up/index.md), [Graffiti Bridge (album)](../../topics/album/graffiti-bridge/index.md), [How Come U Don’t Call Me Anymore? (song)](../../topics/song/how-come-u-don-t-call-me-anymore/index.md), [If It’ll Make U Happy (song)](../../topics/song/if-it-ll-make-u-happy/index.md), [Irresistible Bitch (song)](../../topics/song/irresistible-bitch/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Morris Day](../../topics/morris-day/index.md), [New Power Generation (song)](../../topics/song/new-power-generation/index.md), [No Call U (song)](../../topics/song/no-call-u/index.md), [Peggy McCreary](../../topics/peggy-mccreary/index.md), [Possessed (song)](../../topics/song/possessed/index.md), [Prince: The Story of 1999](../../topics/prince-the-story-of-1999/index.md), [Purple Music (song)](../../topics/song/purple-music/index.md), [Rearrange (song)](../../topics/song/rearrange/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [The Revolution](../../topics/the-revolution/index.md), [Vagina (song)](../../topics/song/vagina/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md), [Yah, You Know (song)](../../topics/song/yah-you-know/index.md), [You’re All I Want (song)](../../topics/song/you-re-all-i-want/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.sobrosnetwork.com/2019/12/09/a-review-of-princes-1999-super-deluxe-edition/))
 
-----
+<br />
 
  - [**"Prince Archivist Michael Howe Runs Us Through The ‘1999’ Box Set -- Michael Howe is Prince’s archivist. His job is to mine The Vault, the complete masters of Prince recordings, and extract what becomes the expanded reissues of the Prince catalogue."**](http://www.noise11.com/news/prince-archivist-michael-howe-runs-us-through-the-1999-box-set-20191205)
-
     - in [www.noise11.com](http://www.noise11.com/)
     - on 5 December 2019
     - about [Michael Howe](../../topics/michael-howe/index.md), [Stand Back (song)](../../topics/song/stand-back/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md), [The Revolution](../../topics/the-revolution/index.md), [vault](../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/http://www.noise11.com/news/prince-archivist-michael-howe-runs-us-through-the-1999-box-set-20191205))
 
-----
+<br />
 
  - [**"Prince's Personal Photographer on What It Was Like to Work Closely with Him -- Randee St. Nicholas's new book, My Name Is Prince, collects and unpacks photographs and memories of the icon."**](https://www.gq.com/story/prince-photographer-randee-st-nicholas-interview)
-
     - in [GQ](https://www.gq.com/)
     - on 4 December 2019
     - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Elisa Fiorillo](../../topics/elisa-fiorillo/index.md), [Erotic City (song)](../../topics/song/erotic-city/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md), [The Revolution](../../topics/the-revolution/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.gq.com/story/prince-photographer-randee-st-nicholas-interview))
 
-----
+<br />
 
  - [**"Prince: The Story of 1999, Episode 3: The Idolmaker"**](https://www.thecurrent.org/feature/2019/12/03/prince-the-story-of-1999-episode-3-the-idolmaker-swensson)
-
     - in [The Current](https://www.thecurrent.org/)
     - on 3 December 2019
     - about [1999 (album)](../../topics/album/1999/index.md), [1999 Super Deluxe (album)](../../topics/album/1999-super-deluxe/index.md), [Allen Beaulieu](../../topics/allen-beaulieu/index.md), [Andrea Swensson](../../topics/andrea-swensson/index.md), [Apollonia 6](../../topics/apollonia-6/index.md), [Bold Generation (song)](../../topics/song/bold-generation/index.md), [Chanhassen Cinema](../../topics/chanhassen-cinema/index.md), [Denise Matthews](../../topics/denise-matthews/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [Don't Let Him Fool Ya (song)](../../topics/song/don-t-let-him-fool-ya/index.md), [Duane Tudahl](../../topics/duane-tudahl/index.md), [George Clinton](../../topics/george-clinton/index.md), [Jamie Starr](../../topics/jamie-starr/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [memoir](../../topics/memoir/index.md), [Michael Howe](../../topics/michael-howe/index.md), [Morris Day](../../topics/morris-day/index.md), [Nasty Girl (song)](../../topics/song/nasty-girl/index.md), [New Power Generation (song)](../../topics/song/new-power-generation/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Prince: The Story of 1999](../../topics/prince-the-story-of-1999/index.md), [Sly Stone](../../topics/sly-stone/index.md), [Spotify](../../topics/spotify/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Starr Company](../../topics/the-starr-company/index.md), [Vagina (song)](../../topics/song/vagina/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/12/03/prince-the-story-of-1999-episode-3-the-idolmaker-swensson))
 
-----
+<br />
 
  - [**"Prince’s ‘1999’: How the Artist Leveled Up on His Breakthrough LP -- With the release of a new box set devoted to the album and its era, Prince’s guitarist Dez Dickerson and engineer Peggy McCreary look back on the Purple One’s revolutionary genius"**](https://www.rollingstone.com/music/music-features/prince-1999-interview-915663/)
-
     - in [Rolling Stone](https://www.rollingstone.com/)
     - on 2 December 2019
     - about [1999 (album)](../../topics/album/1999/index.md), [94 East](../../topics/94-east/index.md), [Bold Generation (song)](../../topics/song/bold-generation/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [Do Yourself a Favor (song)](../../topics/song/do-yourself-a-favor/index.md), [How Come U Don’t Call Me Anymore? (song)](../../topics/song/how-come-u-don-t-call-me-anymore/index.md), [I Wanna Be Your Lover (song)](../../topics/song/i-wanna-be-your-lover/index.md), [James Brown](../../topics/james-brown/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Michael Howe](../../topics/michael-howe/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [motorcycle](../../topics/motorcycle/index.md), [New Power Generation (song)](../../topics/song/new-power-generation/index.md), [Peggy McCreary](../../topics/peggy-mccreary/index.md), [Pop Life (song)](../../topics/song/pop-life/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Quincy Jones](../../topics/quincy-jones/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [The Revolution](../../topics/the-revolution/index.md), [trademark](../../topics/trademark/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md)
@@ -414,59 +403,55 @@
 
 ----
 
- - [**"The real story behind Prince's Little Red Corvette"**](https://www.bbc.com/news/entertainment-arts-50556922)
+### 2019 November (10)
 
+ - [**"The real story behind Prince's Little Red Corvette"**](https://www.bbc.com/news/entertainment-arts-50556922)
     - in [BBC News](https://www.bbc.com/news/)
     - on 27 November 2019
     - about [1999 (album)](../../topics/album/1999/index.md), [Around The World In A Day (album)](../../topics/album/around-the-world-in-a-day/index.md), [bootleg](../../topics/bootleg/index.md), [D.M.S.R. (song)](../../topics/song/d-m-s-r/index.md), [Denise Matthews](../../topics/denise-matthews/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Maya Rudolph](../../topics/maya-rudolph/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Raspberry Beret (song)](../../topics/song/raspberry-beret/index.md), [Sometimes It Snows In April (song)](../../topics/song/sometimes-it-snows-in-april/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [The Revolution](../../topics/the-revolution/index.md), [Vanity](../../topics/vanity/index.md), [Wendy & Lisa](../../topics/wendy-lisa/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.bbc.com/news/entertainment-arts-50556922))
 
-----
+<br />
 
  - [**"Prince: The Story of 1999, Episode 2: Rearrange"**](https://www.thecurrent.org/feature/2019/11/26/prince-the-story-of-1999-episode-2-rearrange-andrea-swensson)
-
     - in [The Current](https://www.thecurrent.org/)
     - on 26 November 2019
     - about [1999 (album)](../../topics/album/1999/index.md), [1999 SuperDeluxe (album)](../../topics/album/1999-superdeluxe/index.md), [Andrea Swensson](../../topics/andrea-swensson/index.md), [Bobby Z.](../../topics/bobby-z/index.md), [Colleen (song)](../../topics/song/colleen/index.md), [Denise Matthews](../../topics/denise-matthews/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [Do Me Baby (song)](../../topics/song/do-me-baby/index.md), [Duane Tudahl](../../topics/duane-tudahl/index.md), [I Wanna Be Your Lover (song)](../../topics/song/i-wanna-be-your-lover/index.md), [Kiowa Trail](../../topics/kiowa-trail/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Michael Howe](../../topics/michael-howe/index.md), [Money Don't Grow On Trees (song)](../../topics/song/money-don-t-grow-on-trees/index.md), [Peggy McCreary](../../topics/peggy-mccreary/index.md), [Possessed (song)](../../topics/song/possessed/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Prince: The Story of 1999](../../topics/prince-the-story-of-1999/index.md), [Rearrange (song)](../../topics/song/rearrange/index.md), [Spotify](../../topics/spotify/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [The Revolution](../../topics/the-revolution/index.md), [Vagina (song)](../../topics/song/vagina/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md), [Yah, You Know (song)](../../topics/song/yah-you-know/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/11/26/prince-the-story-of-1999-episode-2-rearrange-andrea-swensson))
 
-----
+<br />
 
  - [**"Album Preview: Prince’s Sprawling, Six-Disc ‘1999’ Deluxe Reissue"**](https://variety.com/2019/music/news/album-preview-princes-sprawling-six-disc-1999-deluxe-reissue-1203415514/)
-
     - in [Variety](https://variety.com/)
     - on 25 November 2019
     - about [1999 (album)](../../topics/album/1999/index.md), [Bold Generation (song)](../../topics/song/bold-generation/index.md), [bootleg](../../topics/bootleg/index.md), [Can’t Stop This Feeling I Got (song)](../../topics/song/can-t-stop-this-feeling-i-got/index.md), [Feel U Up (song)](../../topics/song/feel-u-up/index.md), [Graffiti Bridge (album)](../../topics/album/graffiti-bridge/index.md), [Horny Toad (song)](../../topics/song/horny-toad/index.md), [If It’ll Make U Happy (song)](../../topics/song/if-it-ll-make-u-happy/index.md), [Irresistible Bitch (song)](../../topics/song/irresistible-bitch/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Matt Fink](../../topics/matt-fink/index.md), [No Call U (song)](../../topics/song/no-call-u/index.md), [Purple Music (song)](../../topics/song/purple-music/index.md), [Rearrange (song)](../../topics/song/rearrange/index.md), [The Revolution](../../topics/the-revolution/index.md), [Vagina (song)](../../topics/song/vagina/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md), [Yah, You Know (song)](../../topics/song/yah-you-know/index.md), [You’re All I Want (song)](../../topics/song/you-re-all-i-want/index.md)
     - ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/news/album-preview-princes-sprawling-six-disc-1999-deluxe-reissue-1203415514/))
 
-----
+<br />
 
  - [**"How '1999' made Prince a star: 'This album was the turning point' -- An expanded reissue of Prince's breakthrough album shows how prolific he was in the early '80s."**](https://www.startribune.com/how-1999-made-prince-a-star-this-album-was-the-turning-point/565432932/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 25 November 2019
     - about [1999 (album)](../../topics/album/1999/index.md), [Bangles](../../topics/bangles/index.md), [Bobby Z.](../../topics/bobby-z/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [James Brown](../../topics/james-brown/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Kiowa Trail](../../topics/kiowa-trail/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [memoir](../../topics/memoir/index.md), [Sly Stone](../../topics/sly-stone/index.md), [The Revolution](../../topics/the-revolution/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/how-1999-made-prince-a-star-this-album-was-the-turning-point/565432932/))
 
-----
+<br />
 
  - [**"Prince, Nostradamus et les Beatles : "1999" raconté par Bobby Z."**](http://muziq.fr/prince-nostradamus-beatles-1999-raconte-bobby-z/)
-
     - in [muziq.fr](http://muziq.fr/)
     - on 21 November 2019
     - about [1999 (album)](../../topics/album/1999/index.md), [Bobby Z.](../../topics/bobby-z/index.md), [Bold Generation (song)](../../topics/song/bold-generation/index.md), [Can’t Stop This Feeling I Got (song)](../../topics/song/can-t-stop-this-feeling-i-got/index.md), [Do Me Baby (song)](../../topics/song/do-me-baby/index.md), [Irresistible Bitch (song)](../../topics/song/irresistible-bitch/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [New Power Generation (song)](../../topics/song/new-power-generation/index.md), [Purple Music (song)](../../topics/song/purple-music/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md), [Touré](../../topics/tour/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/http://muziq.fr/prince-nostradamus-beatles-1999-raconte-bobby-z/))
 
-----
+<br />
 
  - [**"Life was just a party: Prince’s 1999 and Chicago house music -- The Purple One could hardly have avoided influencing a genre whose earliest, most ardent fans were queer Black and Brown kids."**](https://www.chicagoreader.com/chicago/prince-1999-house-saunders-traxx-linn-influence-reissue/Content?oid=75725330)
-
     - in [www.chicagoreader.com](https://www.chicagoreader.com/)
     - on 20 November 2019
     - about [1999 (album)](../../topics/album/1999/index.md), [1999 (song)](../../topics/song/1999/index.md), [bootleg](../../topics/bootleg/index.md), [Cat Glover](../../topics/cat-glover/index.md), [contract](../../topics/contract/index.md), [I Wanna Be Your Lover (song)](../../topics/song/i-wanna-be-your-lover/index.md), [Jamie Starr](../../topics/jamie-starr/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Linn LM-1](../../topics/linn-lm-1/index.md), [Miles Davis](../../topics/miles-davis/index.md), [royalties](../../topics/royalties/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Black Album (album)](../../topics/album/the-black-album/index.md), [The Revolution](../../topics/the-revolution/index.md), [vault](../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.chicagoreader.com/chicago/prince-1999-house-saunders-traxx-linn-influence-reissue/Content?oid=75725330))
 
-----
+<br />
 
  - [**"Album review: Prince’s ’1999′ keeps on giving in 2019"**](https://www.chicagotribune.com/entertainment/music/greg-kot/ct-ent-prince-1999-box-set-review-20191119-qa756i52jbacfdye5jyro4w47u-story.html)
     - by [Greg Kot](../../authors/greg-kot/index.md)
@@ -475,28 +460,25 @@
     - about [1999 (album)](../../topics/album/1999/index.md), [1999 (song)](../../topics/song/1999/index.md), [1999 (tour)](../../topics/tour/1999/index.md), [1999 Super Deluxe (album)](../../topics/album/1999-super-deluxe/index.md), [Andre Cymone](../../topics/andre-cymone/index.md), [Can’t Stop This Feeling I Got (song)](../../topics/song/can-t-stop-this-feeling-i-got/index.md), [cough drops](../../topics/cough-drops/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [Do Yourself a Favor (song)](../../topics/song/do-yourself-a-favor/index.md), [Feel U Up (song)](../../topics/song/feel-u-up/index.md), [If It’ll Make U Happy (song)](../../topics/song/if-it-ll-make-u-happy/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Peggy McCreary](../../topics/peggy-mccreary/index.md), [Purple Music (song)](../../topics/song/purple-music/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Rearrange (song)](../../topics/song/rearrange/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [The Revolution](../../topics/the-revolution/index.md), [Vagina (song)](../../topics/song/vagina/index.md), [Yah, You Know (song)](../../topics/song/yah-you-know/index.md), [You’re All I Want (song)](../../topics/song/you-re-all-i-want/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.chicagotribune.com/entertainment/music/greg-kot/ct-ent-prince-1999-box-set-review-20191119-qa756i52jbacfdye5jyro4w47u-story.html))
 
-----
+<br />
 
  - [**"Prince: The Story of 1999, Episode 1: My Mind Says Prepare to Fight"**](https://www.thecurrent.org/feature/2019/11/15/prince-story-1999-episode-one)
-
     - in [The Current](https://www.thecurrent.org/)
     - on 19 November 2019
     - about [1999 (album)](../../topics/album/1999/index.md), [airport](../../topics/airport/index.md), [Andrea Swensson](../../topics/andrea-swensson/index.md), [Colleen (song)](../../topics/song/colleen/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [Duane Tudahl](../../topics/duane-tudahl/index.md), [Feel U Up (song)](../../topics/song/feel-u-up/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Irresistible Bitch (song)](../../topics/song/irresistible-bitch/index.md), [Jamie Starr](../../topics/jamie-starr/index.md), [Linn LM-1](../../topics/linn-lm-1/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Matt Fink](../../topics/matt-fink/index.md), [Michael Howe](../../topics/michael-howe/index.md), [Peggy McCreary](../../topics/peggy-mccreary/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Prince: The Story of 1999](../../topics/prince-the-story-of-1999/index.md), [Purple Music (song)](../../topics/song/purple-music/index.md), [Spotify](../../topics/spotify/index.md), [St. Louis Park (place)](../../topics/place/st-louis-park/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [The Revolution](../../topics/the-revolution/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/11/15/prince-story-1999-episode-one))
 
-----
+<br />
 
  - [**"Today in Music History: Prince and the Revolution debut"**](https://www.thecurrent.org/feature/2019/10/28/today-in-music-history-prince-and-the-revolution-debut)
-
     - in [The Current](https://www.thecurrent.org/)
     - on 4 November 2019
     - about [Grammy Award](../../topics/grammy-award/index.md), [Purple Rain (tour)](../../topics/tour/purple-rain/index.md), [The Revolution](../../topics/the-revolution/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/10/28/today-in-music-history-prince-and-the-revolution-debut))
 
-----
+<br />
 
  - [**"Prince : tous les bonus de “1999 Super Deluxe” titre par titre"**](http://www.funku.fr/2019/prince-tous-les-bonus-de-1999-super-deluxe-titre-par-titre/)
-
     - in [Funk-U](http://www.funku.fr/)
     - on 3 November 2019
     - about [1999 (album)](../../topics/album/1999/index.md), [94 East](../../topics/94-east/index.md), [Bobby Z.](../../topics/bobby-z/index.md), [Bold Generation (song)](../../topics/song/bold-generation/index.md), [bootleg](../../topics/bootleg/index.md), [Colleen (song)](../../topics/song/colleen/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [Feel U Up (song)](../../topics/song/feel-u-up/index.md), [Graffiti Bridge (album)](../../topics/album/graffiti-bridge/index.md), [How Come U Don’t Call Me Anymore? (song)](../../topics/song/how-come-u-don-t-call-me-anymore/index.md), [Irresistible Bitch (song)](../../topics/song/irresistible-bitch/index.md), [James Brown](../../topics/james-brown/index.md), [Kiowa Trail](../../topics/kiowa-trail/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Michael Howe](../../topics/michael-howe/index.md), [Morris Day](../../topics/morris-day/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [No Call U (song)](../../topics/song/no-call-u/index.md), [One Nite Alone (album)](../../topics/album/one-nite-alone/index.md), [Peggy McCreary](../../topics/peggy-mccreary/index.md), [Pepé Willie](../../topics/pep-willie/index.md), [Possessed (song)](../../topics/song/possessed/index.md), [Purple Music (song)](../../topics/song/purple-music/index.md), [Rearrange (song)](../../topics/song/rearrange/index.md), [The Revolution](../../topics/the-revolution/index.md), [Vagina (song)](../../topics/song/vagina/index.md), [vault](../../topics/vault/index.md), [Yah, You Know (song)](../../topics/song/yah-you-know/index.md)
@@ -504,53 +486,49 @@
 
 ----
 
- - [**"Trois ans après sa mort, des mémoires éclairent la personnalité du grand Prince -- Maître du funk, génie musical, visionnaire, tous ces descriptifs viennent à la bouche en parlant de Prince."**](https://www.crooner.fr/2019/10/31/trois-ans-apres-sa-mort-des-memoires-eclairent-la-personnalite-du-grand-prince/)
+### 2019 October (6)
 
+ - [**"Trois ans après sa mort, des mémoires éclairent la personnalité du grand Prince -- Maître du funk, génie musical, visionnaire, tous ces descriptifs viennent à la bouche en parlant de Prince."**](https://www.crooner.fr/2019/10/31/trois-ans-apres-sa-mort-des-memoires-eclairent-la-personnalite-du-grand-prince/)
     - in [www.crooner.fr](https://www.crooner.fr/)
     - on 31 October 2019
     - about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Grammy Award](../../topics/grammy-award/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [The Revolution](../../topics/the-revolution/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.crooner.fr/2019/10/31/trois-ans-apres-sa-mort-des-memoires-eclairent-la-personnalite-du-grand-prince/))
 
-----
+<br />
 
  - [**"Les mémoires inachevées de Prince : on vous dévoile les bonnes feuilles de "The Beautiful Ones" -- SOUVENIRS - Plus de 3 ans après sa disparition, le chanteur Prince revient à ses fans à travers une autobiographie inachevée "The Beautiful Ones" publiée ce jeudi aux éditions Robet Laffont. Retour sur les bonnes feuilles des mémoires inédits écrits de la main de cet artiste planétaire peu avant sa mort."**](https://www.lci.fr/sorties/les-memoires-inachevees-de-prince-on-vous-devoile-les-bonnes-feuilles-de-the-beautiful-ones-2136218.html)
-
     - in [LCI](https://www.lci.fr/)
     - on 29 October 2019
     - about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [The Revolution](../../topics/the-revolution/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.lci.fr/sorties/les-memoires-inachevees-de-prince-on-vous-devoile-les-bonnes-feuilles-de-the-beautiful-ones-2136218.html))
 
-----
+<br />
 
  - [**"Morris Day On His Life With Prince: From ‘Purple Rain’ To A Godly Ultimatum"**](https://www.forbes.com/sites/derekscancarelli/2019/10/29/morris-day-on-his-life-with-prince-from-purple-rain-to-a-godly-ultimatum/)
-
     - in [Forbes](https://www.forbes.com/)
     - on 29 October 2019
     - about [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [Prince Estate](../../topics/prince-estate/index.md), [royalties](../../topics/royalties/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.forbes.com/sites/derekscancarelli/2019/10/29/morris-day-on-his-life-with-prince-from-purple-rain-to-a-godly-ultimatum/))
 
-----
+<br />
 
  - [**"Book Review: Prince’s Autobiography ‘The Beautiful Ones’"**](https://variety.com/2019/music/news/prince-autobiography-beautiful-ones-book-review-1203383683/)
-
     - in [Variety](https://variety.com/)
     - on 27 October 2019
     - about [Andre Cymone](../../topics/andre-cymone/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [James Brown](../../topics/james-brown/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [The Revolution](../../topics/the-revolution/index.md), [trademark](../../topics/trademark/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md)
     - ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/news/prince-autobiography-beautiful-ones-book-review-1203383683/))
 
-----
+<br />
 
  - [**"The life of Prince, revealed in "The Beautiful Ones""**](https://www.cbsnews.com/news/the-life-of-prince-revealed-in-the-beautiful-ones/)
-
     - in [CBS News](https://www.cbsnews.com/)
     - on 27 October 2019
     - about [Academy Award](../../topics/academy-award/index.md), [Bobby Z.](../../topics/bobby-z/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Jill Jones](../../topics/jill-jones/index.md), [memoir](../../topics/memoir/index.md), [Moon Sound Studio (place)](../../topics/place/moon-sound-studio/index.md), [Super Bowl](../../topics/super-bowl/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [The Revolution](../../topics/the-revolution/index.md), [Troy Carter](../../topics/troy-carter/index.md), [vault](../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/news/the-life-of-prince-revealed-in-the-beautiful-ones/))
 
-----
+<br />
 
  - [**"Mike Judge’s Silicon Valley take on power continues in Tales from the Tour Bus -- The Morris Day and Prince episode is another strong exploration of insider / outsider dynamics"**](https://www.theverge.com/2019/10/25/20932300/silicon-valley-season-6-mike-judge-tales-from-the-tour-bus-prince-morris-day-cinemax-streaming)
-
     - in [The Verge](https://www.theverge.com/)
     - on 25 October 2019
     - about [James Brown](../../topics/james-brown/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md)
@@ -558,44 +536,41 @@
 
 ----
 
- - [**"Interview mit Prince-Tänzerin Cat: „Ich las ihm ‚Der Kleine Prinz‘ beim Einschlafen vor“"**](https://www.rollingstone.de/prince-interview-mit-cat-sign-o-the-times-1761999/)
+### 2019 September (5)
 
+ - [**"Interview mit Prince-Tänzerin Cat: „Ich las ihm ‚Der Kleine Prinz‘ beim Einschlafen vor“"**](https://www.rollingstone.de/prince-interview-mit-cat-sign-o-the-times-1761999/)
     - in [Rolling Stone (Germany)](https://www.rollingstone.de/)
     - on 13 September 2019
     - about [Albert Magnoli](../../topics/albert-magnoli/index.md), [Housequake (song)](../../topics/song/housequake/index.md), [LeRoy Bennett](../../topics/leroy-bennett/index.md), [Lovesexy (album)](../../topics/album/lovesexy/index.md), [Lovesexy (tour)](../../topics/tour/lovesexy/index.md), [museum](../../topics/museum/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [The Revolution](../../topics/the-revolution/index.md), [U Got the Look (song)](../../topics/song/u-got-the-look/index.md), [vault](../../topics/vault/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.rollingstone.de/prince-interview-mit-cat-sign-o-the-times-1761999/))
 
-----
+<br />
 
  - [**"Prince ‘1999’ Remaster Features 35 Previously Unreleased Tracks"**](https://www.jambase.com/article/prince-1999-remaster)
-
     - in [Jambase](https://www.jambase.com/)
     - on 10 September 2019
     - about [1999 (album)](../../topics/album/1999/index.md), [1999 (song)](../../topics/song/1999/index.md), [Allen Beaulieu](../../topics/allen-beaulieu/index.md), [Andrea Swensson](../../topics/andrea-swensson/index.md), [David Fricke](../../topics/david-fricke/index.md), [Duane Tudahl](../../topics/duane-tudahl/index.md), [Duff McKagan](../../topics/duff-mckagan/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [The Revolution](../../topics/the-revolution/index.md), [vault](../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.jambase.com/article/prince-1999-remaster))
 
-----
+<br />
 
  - [**"Prince’s ‘1999’ Album to Get Deluxe Reissue Treatment: Six-Disc Set Due in November"**](https://variety.com/2019/music/news/prince-1999-album-deluxe-reissue-november-1203331220/)
-
     - in [Variety](https://variety.com/)
     - on 10 September 2019
     - about [1999 (album)](../../topics/album/1999/index.md), [1999 (song)](../../topics/song/1999/index.md), [Feel U Up (song)](../../topics/song/feel-u-up/index.md), [Horny Toad (song)](../../topics/song/horny-toad/index.md), [Irresistible Bitch (song)](../../topics/song/irresistible-bitch/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [The Revolution](../../topics/the-revolution/index.md), [vault](../../topics/vault/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
     - ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/news/prince-1999-album-deluxe-reissue-november-1203331220/))
 
-----
+<br />
 
  - [**"Rhino Plans Delirious 5CD/DVD Expansion of Prince’s ‘1999’"**](https://theseconddisc.com/2019/09/rhino-plans-delirious-5cd-dvd-expansion-of-princes-1999/)
-
     - in [theseconddisc.com](https://theseconddisc.com/)
     - on 10 September 2019
     - about [1999 (album)](../../topics/album/1999/index.md), [Allen Beaulieu](../../topics/allen-beaulieu/index.md), [Andrea Swensson](../../topics/andrea-swensson/index.md), [David Fricke](../../topics/david-fricke/index.md), [Duane Tudahl](../../topics/duane-tudahl/index.md), [Duff McKagan](../../topics/duff-mckagan/index.md), [Houston Summit (place)](../../topics/place/houston-summit/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [The Revolution](../../topics/the-revolution/index.md)
     - ([mirror](https://web.archive.org/web/*/https://theseconddisc.com/2019/09/rhino-plans-delirious-5cd-dvd-expansion-of-princes-1999/))
 
-----
+<br />
 
  - [**"Upcoming ‘1999’ reissue includes 23 unheard Prince songs from his vault and two full concerts"**](https://www.twincities.com/2019/09/10/upcoming-1999-reissue-includes-23-unheard-prince-songs-from-his-vault-and-two-full-concerts/)
-
     - in [TwinCities.com - Pioneer Press](https://www.twincities.com/)
     - on 10 September 2019
     - about [1999 (album)](../../topics/album/1999/index.md), [1999 (song)](../../topics/song/1999/index.md), [Andrea Swensson](../../topics/andrea-swensson/index.md), [Bold Generation (song)](../../topics/song/bold-generation/index.md), [David Fricke](../../topics/david-fricke/index.md), [Duane Tudahl](../../topics/duane-tudahl/index.md), [Duff McKagan](../../topics/duff-mckagan/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Morris Day](../../topics/morris-day/index.md), [The Revolution](../../topics/the-revolution/index.md), [Vagina (song)](../../topics/song/vagina/index.md), [vault](../../topics/vault/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md)
@@ -603,14 +578,17 @@
 
 ----
 
- - [**"The Revolution, Prince's backing band during the 'Purple Rain' days, continues Reading's Downtown Alive series -- The group will play a free concert on Wednesday evening in the 500 block of Penn Street."**](https://www.readingeagle.com/weekend/article/readings-downtown-alive-series-says-welcome-to-the-revolution)
+### 2019 August (1)
 
+ - [**"The Revolution, Prince's backing band during the 'Purple Rain' days, continues Reading's Downtown Alive series -- The group will play a free concert on Wednesday evening in the 500 block of Penn Street."**](https://www.readingeagle.com/weekend/article/readings-downtown-alive-series-says-welcome-to-the-revolution)
     - in [Reading Eagle](https://www.readingeagle.com/)
     - on 7 August 2019
     - about [1999 (album)](../../topics/album/1999/index.md), [Around The World In A Day (album)](../../topics/album/around-the-world-in-a-day/index.md), [Bobby Z.](../../topics/bobby-z/index.md), [Brown Mark](../../topics/brown-mark/index.md), [BrownMark](../../topics/brownmark/index.md), [BrownMark Nation](../../topics/brownmark-nation/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Matt Fink](../../topics/matt-fink/index.md), [Mazarati](../../topics/mazarati/index.md), [Parade (album)](../../topics/album/parade/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.readingeagle.com/weekend/article/readings-downtown-alive-series-says-welcome-to-the-revolution))
 
 ----
+
+### 2019 July (8)
 
  - [**"‘Purple Rain’ Director Gets Deep About Working With Prince: ‘How Is It You Just Told My Life Story?’"**](https://variety.com/2019/film/news/prince-purple-rain-anniversary-director-gets-deep-1203274953/)
     - by [Todd Gilchrist](../../authors/todd-gilchrist/index.md)
@@ -619,7 +597,7 @@
     - about [Albert Magnoli](../../topics/albert-magnoli/index.md), [Apollonia](../../topics/apollonia/index.md), [Bob Cavallo](../../topics/bob-cavallo/index.md), [Bob Daly](../../topics/bob-daly/index.md), [Bob Fosse](../../topics/bob-fosse/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [Edward Rosenthal](../../topics/edward-rosenthal/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [James Foley](../../topics/james-foley/index.md), [John Travolta](../../topics/john-travolta/index.md), [Lake Minnetonka (place)](../../topics/place/lake-minnetonka/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Mark Canton](../../topics/mark-canton/index.md), [Morris Day](../../topics/morris-day/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Steve Fargnoli](../../topics/steve-fargnoli/index.md), [Terry Semel](../../topics/terry-semel/index.md), [The Revolution](../../topics/the-revolution/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md), [William Blinn](../../topics/william-blinn/index.md)
     - ([mirror](https://web.archive.org/web/*/https://variety.com/2019/film/news/prince-purple-rain-anniversary-director-gets-deep-1203274953/))
 
-----
+<br />
 
  - [**"‘Purple Rain’ Director Gets Deep About Working With Prince: ‘How Is It You Just Told My Life Story?’"**](https://www.yahoo.com/entertainment/purple-rain-director-gets-deep-125505865.html)
     - by [Todd Gilchrist](../../authors/todd-gilchrist/index.md)
@@ -628,7 +606,7 @@
     - about [Albert Magnoli](../../topics/albert-magnoli/index.md), [Apollonia](../../topics/apollonia/index.md), [Bob Cavallo](../../topics/bob-cavallo/index.md), [Bob Daly](../../topics/bob-daly/index.md), [Bob Dylan](../../topics/bob-dylan/index.md), [Bob Fosse](../../topics/bob-fosse/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [Edward Rosenthal](../../topics/edward-rosenthal/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [James Foley](../../topics/james-foley/index.md), [John Travolta](../../topics/john-travolta/index.md), [Lake Minnetonka (place)](../../topics/place/lake-minnetonka/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Mark Canton](../../topics/mark-canton/index.md), [Morris Day](../../topics/morris-day/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Steve Fargnoli](../../topics/steve-fargnoli/index.md), [Terry Semel](../../topics/terry-semel/index.md), [The Revolution](../../topics/the-revolution/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md), [William Blinn](../../topics/william-blinn/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.yahoo.com/entertainment/purple-rain-director-gets-deep-125505865.html))
 
-----
+<br />
 
  - [**"Prince Never Acted Before 'Purple Rain.' Then He Became a Household Name -- The movie and album would come to help define the 1980s and catapult the performer to global fame."**](https://www.biography.com/news/prince-purple-rain-album-movie)
     - by [Colin Bertram](../../authors/colin-bertram/index.md)
@@ -637,7 +615,7 @@
     - about [Academy Award](../../topics/academy-award/index.md), [Alan Light](../../topics/alan-light/index.md), [Albert Magnoli](../../topics/albert-magnoli/index.md), [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [I Would Die 4 U (song)](../../topics/song/i-would-die-4-u/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Morris Day](../../topics/morris-day/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md), [Vanity](../../topics/vanity/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.biography.com/news/prince-purple-rain-album-movie))
 
-----
+<br />
 
  - [**"'Purple Rain' 35th anniversary: We dive into the Prince cult classic for the first time"**](https://usatoday.com/story/entertainment/movies/2019/07/25/purple-rain-35th-anniversary-does-prince-cult-film-hold-up/1817029001/)
     - by [Brian Truitt](../../authors/brian-truitt/index.md), [Patrick Ryan](../../authors/patrick-ryan/index.md)
@@ -646,16 +624,15 @@
     - about [Apollonia 6](../../topics/apollonia-6/index.md), [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Morris Day](../../topics/morris-day/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Spotify](../../topics/spotify/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/entertainment/movies/2019/07/25/purple-rain-35th-anniversary-does-prince-cult-film-hold-up/1817029001/))
 
-----
+<br />
 
  - [**"A TALE OF TWO GUITARS: THE STORY OF PRINCE'S CLOUD AND PURPLE SPECIAL GUITARS -- The History Of The Iconic Purple Rain Instrument And His Last Ever Guitar"**](http://www.mixdownmag.com.au/tale-two-guitars-story-princes-cloud-and-purple-special-guitars)
-
     - in [Mixdown](http://www.mixdownmag.com.au/)
     - on 21 July 2019
     - about [André Cymone](../../topics/andr-cymone/index.md), [Cloud guitar (instrument)](../../topics/instrument/cloud-guitar/index.md), [Dave Rusan](../../topics/dave-rusan/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [museum](../../topics/museum/index.md), [The Revolution](../../topics/the-revolution/index.md)
     - ([mirror](https://web.archive.org/web/*/http://www.mixdownmag.com.au/tale-two-guitars-story-princes-cloud-and-purple-special-guitars))
 
-----
+<br />
 
  - [**"Prince And The Revolution’s Lisa Coleman On Her New Solo LP And ‘Purple Rain’ Turning 35"**](https://www.forbes.com/sites/davidchiu/2019/07/09/prince-and-the-revolutions-lisa-coleman-on-her-new-solo-lp-and-purple-rain-turning-35/)
     - by [David Chiu](../../authors/david-chiu/index.md)
@@ -664,7 +641,7 @@
     - about [First Avenue (place)](../../topics/place/first-avenue/index.md), [I Would Die 4 U (song)](../../topics/song/i-would-die-4-u/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.forbes.com/sites/davidchiu/2019/07/09/prince-and-the-revolutions-lisa-coleman-on-her-new-solo-lp-and-purple-rain-turning-35/))
 
-----
+<br />
 
  - [**"Imagine, if you will, a picture with John Travolta as the 'Purple Rain' kid"**](https://www.startribune.com/c-j-imagine-if-you-will-a-picture-with-john-travolta-as-the-purple-rain-kid/512260012/)
     - by [C.J. (Cheryl Johnson)](../../authors/c-j-cheryl-johnson/index.md)
@@ -673,16 +650,17 @@
     - about [Alan Light](../../topics/alan-light/index.md), [Albert Magnoli](../../topics/albert-magnoli/index.md), [John Travolta](../../topics/john-travolta/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Morris Hayes](../../topics/morris-hayes/index.md), [Neal Karlen](../../topics/neal-karlen/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [The Revolution](../../topics/the-revolution/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/c-j-imagine-if-you-will-a-picture-with-john-travolta-as-the-purple-rain-kid/512260012/))
 
-----
+<br />
 
  - [**"Prince Fast Facts"**](https://kxlf.com/cnn-national/2019/07/02/prince-fast-facts/)
-
     - in [KXLF.com](https://kxlf.com)
     - on 3 July 2019
     - about [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [contract](../../topics/contract/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [fentanyl](../../topics/fentanyl/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [John Nelson](../../topics/john-nelson/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [lawsuit](../../topics/lawsuit/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Michael Schulenberg](../../topics/michael-schulenberg/index.md), [Minnesota Vikings](../../topics/minnesota-vikings/index.md), [museum](../../topics/museum/index.md), [Parents Music Resource Center](../../topics/parents-music-resource-center/index.md), [Percocet](../../topics/percocet/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Super Bowl](../../topics/super-bowl/index.md), [The Revolution](../../topics/the-revolution/index.md), [Tim Burton](../../topics/tim-burton/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md), [Walgreens](../../topics/walgreens/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://kxlf.com/cnn-national/2019/07/02/prince-fast-facts/))
 
 ----
+
+### 2019 June (8)
 
  - [**"New Story About Prince’s “Purple Rain” Comes to the Surface"**](https://www.tvovermind.com/new-story-about-princes-purple-rain-comes-to-the-surface/)
     - by [Tom Foster](../../authors/tom-foster/index.md)
@@ -691,43 +669,39 @@
     - about [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [The Revolution](../../topics/the-revolution/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.tvovermind.com/new-story-about-princes-purple-rain-comes-to-the-surface/))
 
-----
+<br />
 
  - [**"Prince Collaborators Share Stories About the Songs He Gave to Others on 'Originals'"**](https://www.billboard.com/articles/news/8517755/prince-collaborators-originals)
-
     - in [Billboard](https://www.billboard.com/)
     - on 26 June 2019
     - about [Andy Warhol](../../topics/andy-warhol/index.md), [Bangles](../../topics/bangles/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Martika](../../topics/martika/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../topics/album/originals/index.md), [Peggy McCreary](../../topics/peggy-mccreary/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [The Family](../../topics/the-family/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8517755/prince-collaborators-originals))
 
-----
+<br />
 
  - [**"Prince's 'Originals' Album: Comparing Each Demo With Its Well-Known Cover Version"**](https://www.billboard.com/articles/news/8517576/prince-originals-album-covers)
-
     - in [Billboard](https://www.billboard.com/)
     - on 25 June 2019
     - about [Alan Light](../../topics/alan-light/index.md), [Apollonia 6](../../topics/apollonia-6/index.md), [Bangles](../../topics/bangles/index.md), [BrownMark](../../topics/brownmark/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Morris Day](../../topics/morris-day/index.md), [Nile Rodgers](../../topics/nile-rodgers/index.md), [Originals (album)](../../topics/album/originals/index.md), [Romance 1600 (album)](../../topics/album/romance-1600/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Super Bowl XLI (event)](../../topics/event/super-bowl-xli/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [The Revolution](../../topics/the-revolution/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8517576/prince-originals-album-covers))
 
-----
+<br />
 
  - [**"The Revolution recalls making Prince’s ‘Purple Rain’: ‘He was frantically telling us we were making history’"**](https://www.yahoo.com/entertainment/the-revolution-recalls-making-princes-purple-rain-he-was-frantically-telling-us-we-were-making-history-035500076.html)
-
     - in [Yahoo! Entertainment](https://www.yahoo.com/entertainment/)
     - on 25 June 2019
     - about [Albert Magnoli](../../topics/albert-magnoli/index.md), [Bobby Z.](../../topics/bobby-z/index.md), [BrownMark](../../topics/brownmark/index.md), [Computer Blue (song)](../../topics/song/computer-blue/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [The Revolution](../../topics/the-revolution/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.yahoo.com/entertainment/the-revolution-recalls-making-princes-purple-rain-he-was-frantically-telling-us-we-were-making-history-035500076.html))
 
-----
+<br />
 
  - [**"Prince's Drum Machine: How His Use of the Linn LM-1 Heralded a New Age of Pop Rhythm Creation"**](https://reverb.com/news/prince-and-the-linn-lm-1)
-
     - in [Reverb](https://reverb.com/)
     - on 24 June 2019
     - about [Linn LM-1](../../topics/linn-lm-1/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Roger Linn](../../topics/roger-linn/index.md), [Sly Stone](../../topics/sly-stone/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [The Ballad Of Dorothy Parker (song)](../../topics/song/the-ballad-of-dorothy-parker/index.md), [The Revolution](../../topics/the-revolution/index.md)
     - ([mirror](https://web.archive.org/web/*/https://reverb.com/news/prince-and-the-linn-lm-1))
 
-----
+<br />
 
  - [**"Prince and The Revolution’s ‘Purple Rain’ Turns 35: Anniversary Retrospective -- Happy 35th Anniversary to Prince’s sixth studio album (and soundtrack to the film) Purple Rain, originally released June 25, 1984."**](https://www.albumism.com/features/prince-and-the-revolution-purple-rain-turns-35-anniversary-retrospective)
     - by [Andy Healy](../../authors/andy-healy/index.md)
@@ -736,25 +710,25 @@
     - about [Apollonia 6](../../topics/apollonia-6/index.md), [Baby I’m a Star (song)](../../topics/song/baby-i-m-a-star/index.md), [Computer Blue (song)](../../topics/song/computer-blue/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Grammy Award](../../topics/grammy-award/index.md), [I Would Die 4 U (song)](../../topics/song/i-would-die-4-u/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Linn LM-1](../../topics/linn-lm-1/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Parental Advisory](../../topics/parental-advisory/index.md), [Parents Music Resource Center](../../topics/parents-music-resource-center/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Take Me with U (song)](../../topics/song/take-me-with-u/index.md), [The Beautiful Ones (song)](../../topics/song/the-beautiful-ones/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md), [Undisputed (song)](../../topics/song/undisputed/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.albumism.com/features/prince-and-the-revolution-purple-rain-turns-35-anniversary-retrospective))
 
-----
+<br />
 
  - [**"10 deep nuggets of info we learned at the playback of Prince’s new album, ‘Originals’"**](https://www.nme.com/blogs/11-things-we-learned-at-playback-new-prince-album-2506506)
-
     - in [NME (New Musical Express)](https://www.nme.com/)
     - on 10 June 2019
     - about [Apollonia 6](../../topics/apollonia-6/index.md), [Baby I’m a Star (song)](../../topics/song/baby-i-m-a-star/index.md), [Bangles](../../topics/bangles/index.md), [hologram](../../topics/hologram/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Michael Howe](../../topics/michael-howe/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Morris Day](../../topics/morris-day/index.md), [Originals (album)](../../topics/album/originals/index.md), [Peggy McCreary](../../topics/peggy-mccreary/index.md), [The Revolution](../../topics/the-revolution/index.md), [Troy Carter](../../topics/troy-carter/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.nme.com/blogs/11-things-we-learned-at-playback-new-prince-album-2506506))
 
-----
+<br />
 
  - [**"UB Special Feature: The Album Eras of Prince"**](https://urbanbridgez.com/2019/06/07/ub-special-feature-the-album-eras-of-prince/)
-
     - in [UrbanBridgez.com](https://urbanbridgez.com/)
     - on 7 June 2019
     - about [1999 (album)](../../topics/album/1999/index.md), [Academy Award](../../topics/academy-award/index.md), [Alicia Keys](../../topics/alicia-keys/index.md), [Bangles](../../topics/bangles/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Controversy (album)](../../topics/album/controversy/index.md), [Dirty Mind (album)](../../topics/album/dirty-mind/index.md), [For You (album)](../../topics/album/for-you/index.md), [Grammy Award](../../topics/grammy-award/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [I Wanna Be Your Lover (song)](../../topics/song/i-wanna-be-your-lover/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [The Revolution](../../topics/the-revolution/index.md), [Vanity](../../topics/vanity/index.md), [Vanity Fair (magazine)](../../topics/magazine/vanity-fair/index.md), [vault](../../topics/vault/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md)
     - ([mirror](https://web.archive.org/web/*/https://urbanbridgez.com/2019/06/07/ub-special-feature-the-album-eras-of-prince/))
 
 ----
+
+### 2019 April (2)
 
  - [**"Two veteran Minnesota bands earn their First Avenue stars (one a do-over)"**](https://www.startribune.com/two-veteran-minnesota-bands-earn-their-first-avenue-stars-one-a-do-over/509260572/)
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
@@ -763,10 +737,9 @@
     - about [First Avenue (place)](../../topics/place/first-avenue/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Matt Fink](../../topics/matt-fink/index.md), [Sam’s (place)](../../topics/place/sam-s/index.md), [The Revolution](../../topics/the-revolution/index.md), [Uncle Sam’s (place)](../../topics/place/uncle-sam-s/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/two-veteran-minnesota-bands-earn-their-first-avenue-stars-one-a-do-over/509260572/))
 
-----
+<br />
 
  - [**"Sunday Sounds: Celebrating The Phenomenal Drummers Of Prince"**](https://drummagazine.com/sunday-sounds-prince-drummers-sheila-e-bobby-z-john-blackwell-michael-bland-hannah-ford/)
-
     - in [drummagazine.com](https://drummagazine.com/)
     - on 21 April 2019
     - about [3121 (album)](../../topics/album/3121/index.md), [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Around The World In A Day (album)](../../topics/album/around-the-world-in-a-day/index.md), [Hannah Welton](../../topics/hannah-welton/index.md), [Michael Bland](../../topics/michael-bland/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Parade (album)](../../topics/album/parade/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Revolution](../../topics/the-revolution/index.md), [U Got the Look (song)](../../topics/song/u-got-the-look/index.md), [YouTube](../../topics/youtube/index.md)
@@ -774,8 +747,9 @@
 
 ----
 
- - [**"Single Stories: Prince and the Revolution, “Kiss”"**](https://www.rhino.com/article/single-stories-prince-and-the-revolution-kiss)
+### 2019 February (1)
 
+ - [**"Single Stories: Prince and the Revolution, “Kiss”"**](https://www.rhino.com/article/single-stories-prince-and-the-revolution-kiss)
     - in [Rhino](https://www.rhino.com/)
     - on 14 February 2019
     - about [Mazarati](../../topics/mazarati/index.md), [Paisley Park Records](../../topics/paisley-park-records/index.md), [Parade (album)](../../topics/album/parade/index.md), [The Revolution](../../topics/the-revolution/index.md)
@@ -783,17 +757,19 @@
 
 ----
 
- - [**"Driving to Utopia in a ’74 Pinto: Reflecting on Prince with The Revolution’s Bobby Z"**](https://ovrld.com/interviews/bobby-z-prince-revolution/)
+## 2018 (18)
 
+### 2018 December (2)
+
+ - [**"Driving to Utopia in a ’74 Pinto: Reflecting on Prince with The Revolution’s Bobby Z"**](https://ovrld.com/interviews/bobby-z-prince-revolution/)
     - in [Ovrld](https://ovrld.com/)
     - on 28 December 2018
     - about [1999 (album)](../../topics/album/1999/index.md), [1999 (song)](../../topics/song/1999/index.md), [Austin (place)](../../topics/place/austin/index.md), [Bay Area (place)](../../topics/place/bay-area/index.md), [Bobby Z](../../topics/bobby-z/index.md), [Controversy (album)](../../topics/album/controversy/index.md), [Controversy (song)](../../topics/song/controversy/index.md), [Fleetwood Mac](../../topics/fleetwood-mac/index.md), [James Brown](../../topics/james-brown/index.md), [Linn LM-1](../../topics/linn-lm-1/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [London (place)](../../topics/place/london/index.md), [My Purple Heart](../../topics/my-purple-heart/index.md), [O2 (place)](../../topics/place/o2/index.md), [Our Destiny (song)](../../topics/song/our-destiny/index.md), [Owen Husney](../../topics/owen-husney/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Paradiso (place)](../../topics/place/paradiso/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [River Run Dry (song)](../../topics/song/river-run-dry/index.md), [Rolling Stones](../../topics/rolling-stones/index.md), [Simmons](../../topics/simmons/index.md), [Steve Fargnoli](../../topics/steve-fargnoli/index.md), [Texas (place)](../../topics/place/texas/index.md), [The Coliseum (place)](../../topics/place/the-coliseum/index.md), [The Revolution](../../topics/the-revolution/index.md)
     - ([mirror](https://web.archive.org/web/*/https://ovrld.com/interviews/bobby-z-prince-revolution/))
 
-----
+<br />
 
  - [**"The Must List: Grupo Fantasma, the Tontons and more"**](https://apnews.com/803b6fa073d54282b88a954ab802c337)
-
     - in [Associated Press News](https://apnews.com/)
     - on 26 December 2018
     - about [Brown Mark](../../topics/brown-mark/index.md), [Matt Fink](../../topics/matt-fink/index.md), [The Revolution](../../topics/the-revolution/index.md)
@@ -801,17 +777,17 @@
 
 ----
 
- - [**"Ava DuVernay Working on Prince Documentary for Netflix (EXCLUSIVE)"**](https://variety.com/2018/music/news/ava-duvernay-prince-documentary-for-netflix-1203011709/)
+### 2018 October (2)
 
+ - [**"Ava DuVernay Working on Prince Documentary for Netflix (EXCLUSIVE)"**](https://variety.com/2018/music/news/ava-duvernay-prince-documentary-for-netflix-1203011709/)
     - in [Variety](https://variety.com/)
     - on 29 October 2018
     - about [Apple Music](../../topics/apple-music/index.md), [Ava DuVernay](../../topics/ava-duvernay/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Netflix](../../topics/netflix/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
     - ([mirror](https://web.archive.org/web/*/https://variety.com/2018/music/news/ava-duvernay-prince-documentary-for-netflix-1203011709/))
 
-----
+<br />
 
  - [**"Musicheads Essentials: Prince - 1999"**](https://www.thecurrent.org/feature/2018/10/27/musicheads-essentials-prince-1999)
-
     - in [The Current](https://www.thecurrent.org/)
     - on 27 October 2018
     - about [1999 (album)](../../topics/album/1999/index.md), [André Cymone](../../topics/andr-cymone/index.md), [Armory (place)](../../topics/place/armory/index.md), [Computer Blue (song)](../../topics/song/computer-blue/index.md), [Delirious (song)](../../topics/song/delirious/index.md), [James Brown](../../topics/james-brown/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [St. Louis Park (place)](../../topics/place/st-louis-park/index.md), [Steve Fargnoli](../../topics/steve-fargnoli/index.md), [The Revolution](../../topics/the-revolution/index.md)
@@ -819,35 +795,33 @@
 
 ----
 
- - [**"Prince’s Longtime Pianist and Archivist Talk ‘Piano & a Microphone 1983’ and the ‘Vault’ -- "It’s a look at somebody who shared himself with the public taking moments for himself, to make himself better," the Revolution's Lisa Coleman says"**](https://variety.com/2018/biz/news/princes-longtime-pianist-and-archivist-talk-piano-a-microphone-1983-and-the-vault-1202952085/)
+### 2018 September (4)
 
+ - [**"Prince’s Longtime Pianist and Archivist Talk ‘Piano & a Microphone 1983’ and the ‘Vault’ -- "It’s a look at somebody who shared himself with the public taking moments for himself, to make himself better," the Revolution's Lisa Coleman says"**](https://variety.com/2018/biz/news/princes-longtime-pianist-and-archivist-talk-piano-a-microphone-1983-and-the-vault-1202952085/)
     - in [Variety](https://variety.com/)
     - on 21 September 2018
     - about [1999 (album)](../../topics/album/1999/index.md), [Baby I’m a Star (song)](../../topics/song/baby-i-m-a-star/index.md), [Bob Cavallo](../../topics/bob-cavallo/index.md), [bootleg](../../topics/bootleg/index.md), [Dirty Mind (tour)](../../topics/tour/dirty-mind/index.md), [Do It All Night (song)](../../topics/song/do-it-all-night/index.md), [Do Me Baby (song)](../../topics/song/do-me-baby/index.md), [I Wanna Be Your Lover (song)](../../topics/song/i-wanna-be-your-lover/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Michael Howe](../../topics/michael-howe/index.md), [museum](../../topics/museum/index.md), [Pop Life (song)](../../topics/song/pop-life/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Revolution](../../topics/the-revolution/index.md), [vault](../../topics/vault/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
     - ([mirror](https://web.archive.org/web/*/https://variety.com/2018/biz/news/princes-longtime-pianist-and-archivist-talk-piano-a-microphone-1983-and-the-vault-1202952085/))
 
-----
+<br />
 
  - [**"The Revolution's Lisa Coleman Talks 'Piano & A Microphone 1983,' Jamming With Prince and Unreleased Gems"**](https://www.billboard.com/articles/news/8476040/the-revolution-lisa-coleman-piano-a-microphone-1983-prince-ice-cream)
-
     - in [Billboard](https://www.billboard.com/)
     - on 20 September 2018
     - about [Lisa Coleman](../../topics/lisa-coleman/index.md), [Piano and a Microphone 1983 (album)](../../topics/album/piano-and-a-microphone-1983/index.md), [The Revolution](../../topics/the-revolution/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8476040/the-revolution-lisa-coleman-piano-a-microphone-1983-prince-ice-cream))
 
-----
+<br />
 
  - [**"AM Prep-Music -- PRINCE’S HOME JAM SESSION WILL BE RELEASED FRIDAY"**](https://apnews.com/d1f539d7cbc541b8ba4d82c1539d9ba6)
-
     - in [Associated Press News](https://apnews.com/)
     - on 19 September 2018
     - about [Lisa Coleman](../../topics/lisa-coleman/index.md), [Piano and a Microphone 1983 (album)](../../topics/album/piano-and-a-microphone-1983/index.md), [The Revolution](../../topics/the-revolution/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/d1f539d7cbc541b8ba4d82c1539d9ba6))
 
-----
+<br />
 
  - [**"'It's Prince, thinking aloud on the piano'"**](https://www.bbc.com/news/entertainment-arts-45510532)
-
     - in [BBC News](https://www.bbc.com/news/)
     - on 15 September 2018
     - about [Cold Coffee & Cocaine (song)](../../topics/song/cold-coffee-cocaine/index.md), [Jamie Starr](../../topics/jamie-starr/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Michael Howe](../../topics/michael-howe/index.md), [Morris Day](../../topics/morris-day/index.md), [Piano and a Microphone 1983 (album)](../../topics/album/piano-and-a-microphone-1983/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wednesday (song)](../../topics/song/wednesday/index.md), [Why The Butterflies (song)](../../topics/song/why-the-butterflies/index.md)
@@ -855,8 +829,9 @@
 
 ----
 
- - [**"Prince in concert: an experience like no other"**](https://spokesman-recorder.com/2018/08/26/prince-in-concert-an-experience-like-no-other/)
+### 2018 August (1)
 
+ - [**"Prince in concert: an experience like no other"**](https://spokesman-recorder.com/2018/08/26/prince-in-concert-an-experience-like-no-other/)
     - in [Minnesota Spokesman-Recorder](https://spokesman-recorder.com/)
     - on 26 August 2018
     - about [Greg Tate](../../topics/greg-tate/index.md), [James Brown](../../topics/james-brown/index.md), [Lovesexy (tour)](../../topics/tour/lovesexy/index.md), [The Revolution](../../topics/the-revolution/index.md)
@@ -864,8 +839,9 @@
 
 ----
 
- - [**"AM Prep-Music -- FILM ACADEMY INVITES ETHERIDGE, LAMAR TO JOIN"**](https://apnews.com/755479884aae40f38493176035af1f3e)
+### 2018 June (1)
 
+ - [**"AM Prep-Music -- FILM ACADEMY INVITES ETHERIDGE, LAMAR TO JOIN"**](https://apnews.com/755479884aae40f38493176035af1f3e)
     - in [Associated Press News](https://apnews.com/)
     - on 26 June 2018
     - about [Questlove](../../topics/questlove/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
@@ -873,17 +849,17 @@
 
 ----
 
- - [**"Susan Rogers on working with Prince in the studio: ‘The man I knew was so human’"**](https://blog.thecurrent.org/2018/04/susan-rogers-on-working-with-prince-in-the-studio-the-man-i-knew-was-so-human/)
+### 2018 April (2)
 
+ - [**"Susan Rogers on working with Prince in the studio: ‘The man I knew was so human’"**](https://blog.thecurrent.org/2018/04/susan-rogers-on-working-with-prince-in-the-studio-the-man-i-knew-was-so-human/)
     - in [The Current - Local Current Blog](https://blog.thecurrent.org/)
     - on 20 April 2018
     - about [Andre Cymone](../../topics/andre-cymone/index.md), [Andrea Swensson](../../topics/andrea-swensson/index.md), [Apollonia 6](../../topics/apollonia-6/index.md), [Bobby Z.](../../topics/bobby-z/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [Duane Tudahl](../../topics/duane-tudahl/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Mazarati](../../topics/mazarati/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [The Revolution](../../topics/the-revolution/index.md)
     - ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2018/04/susan-rogers-on-working-with-prince-in-the-studio-the-man-i-knew-was-so-human/))
 
-----
+<br />
 
  - [**"Rock and Roll Book Club: Two Prince associates share their memories"**](https://www.thecurrent.org/feature/2018/04/17/prince-books)
-
     - in [The Current](https://www.thecurrent.org/)
     - on 18 April 2018
     - about [André Cymone](../../topics/andr-cymone/index.md), [Andrea Swensson](../../topics/andrea-swensson/index.md), [Chris Moon](../../topics/chris-moon/index.md), [contract](../../topics/contract/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Lisa Barber](../../topics/lisa-barber/index.md), [memoir](../../topics/memoir/index.md), [Owen Husney](../../topics/owen-husney/index.md), [Robert Whitman](../../topics/robert-whitman/index.md), [St. Louis Park (place)](../../topics/place/st-louis-park/index.md), [The Revolution](../../topics/the-revolution/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md)
@@ -891,17 +867,17 @@
 
 ----
 
- - [**"AM Prep-Music -- PRINCE CELEBRATION PLANNED FOR NEXT MONTH / PRINCE - TOXICOLOGY"**](https://apnews.com/c62930a448b849a785758cf9f450f418)
+### 2018 March (2)
 
+ - [**"AM Prep-Music -- PRINCE CELEBRATION PLANNED FOR NEXT MONTH / PRINCE - TOXICOLOGY"**](https://apnews.com/c62930a448b849a785758cf9f450f418)
     - in [Associated Press News](https://apnews.com/)
     - on 27 March 2018
     - about [Dez Dickerson](../../topics/dez-dickerson/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Matt Fink](../../topics/matt-fink/index.md), [opioid](../../topics/opioid/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Revolution](../../topics/the-revolution/index.md), [toxicology report](../../topics/toxicology-report/index.md), [tribute fence](../../topics/tribute-fence/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/c62930a448b849a785758cf9f450f418))
 
-----
+<br />
 
  - [**"The Latest: Fentanyl in Prince’s body was exceedingly high"**](https://apnews.com/72d21087451948ed872cce0815f0e426)
-
     - in [Associated Press News](https://apnews.com/)
     - on 26 March 2018
     - about [Celebration 2018 (event)](../../topics/event/celebration-2018/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Matt Fink](../../topics/matt-fink/index.md), [opioid](../../topics/opioid/index.md), [The Revolution](../../topics/the-revolution/index.md), [toxicology report](../../topics/toxicology-report/index.md), [tribute fence](../../topics/tribute-fence/index.md)
@@ -909,8 +885,9 @@
 
 ----
 
- - [**"Prince is gone, but his spirit lives at Minnesota Super Bowl"**](https://apnews.com/760ec69e7a2e430a9879834f5f2eae63)
+### 2018 February (1)
 
+ - [**"Prince is gone, but his spirit lives at Minnesota Super Bowl"**](https://apnews.com/760ec69e7a2e430a9879834f5f2eae63)
     - in [Associated Press News](https://apnews.com/)
     - on 2 February 2018
     - about [First Avenue (place)](../../topics/place/first-avenue/index.md), [hologram](../../topics/hologram/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Minnesota Vikings](../../topics/minnesota-vikings/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Hayes](../../topics/morris-hayes/index.md), [museum](../../topics/museum/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Revolution](../../topics/the-revolution/index.md)
@@ -918,26 +895,25 @@
 
 ----
 
- - [**"Super-sized Prince party rocks Nicollet Mall"**](https://apnews.com/article/football-prince-archive-minnesota-334367853c7e479fb18e178463c02063)
+### 2018 January (3)
 
+ - [**"Super-sized Prince party rocks Nicollet Mall"**](https://apnews.com/article/football-prince-archive-minnesota-334367853c7e479fb18e178463c02063)
     - in [Associated Press News](https://apnews.com/)
     - on 29 January 2018
     - about [D.M.S.R. (song)](../../topics/song/d-m-s-r/index.md), [fDeluxe](../../topics/fdeluxe/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Nicollet Mall (place)](../../topics/place/nicollet-mall/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Soul Asylum](../../topics/soul-asylum/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Bird (song)](../../topics/song/the-bird/index.md), [The Family](../../topics/the-family/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/football-prince-archive-minnesota-334367853c7e479fb18e178463c02063))
 
-----
+<br />
 
  - [**"5 Minneapolis Super Bowl concerts worth the splurge, plus 5 cheaper alternatives"**](https://apnews.com/b5354fb801f94674abaf28203dd6eec2)
-
     - in [Associated Press News](https://apnews.com/)
     - on 25 January 2018
     - about [André Cymone](../../topics/andr-cymone/index.md), [Brother Jules](../../topics/brother-jules/index.md), [Dakota (place)](../../topics/place/dakota/index.md), [fDeluxe](../../topics/fdeluxe/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Gwen Stefani](../../topics/gwen-stefani/index.md), [Morris Day](../../topics/morris-day/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Nooky Jones](../../topics/nooky-jones/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Soul Asylum](../../topics/soul-asylum/index.md), [Super Bowl](../../topics/super-bowl/index.md), [The Family](../../topics/the-family/index.md), [The Revolution](../../topics/the-revolution/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/b5354fb801f94674abaf28203dd6eec2))
 
-----
+<br />
 
  - [**"Super Bowl Live free concerts schedule revealed with new Minnesota all-stars"**](https://apnews.com/359610d132dc4676a00e9e4da420ecaf)
-
     - in [Associated Press News](https://apnews.com/)
     - on 19 January 2018
     - about [Andre Cymone](../../topics/andre-cymone/index.md), [Brother Jules](../../topics/brother-jules/index.md), [DJ Dudley D](../../topics/dj-dudley-d/index.md), [fDeluxe](../../topics/fdeluxe/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Soul Asylum](../../topics/soul-asylum/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Revolution](../../topics/the-revolution/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md)
@@ -945,26 +921,27 @@
 
 ----
 
- - [**"Singer Gwen Stefani to wrap up Super Bowl week performances"**](https://apnews.com/80ec55b99dd74c77b9d3fbcd79adf7c1)
+## 2017 (20)
 
+### 2017 December (3)
+
+ - [**"Singer Gwen Stefani to wrap up Super Bowl week performances"**](https://apnews.com/80ec55b99dd74c77b9d3fbcd79adf7c1)
     - in [Associated Press News](https://apnews.com/)
     - on 12 December 2017
     - about [Gwen Stefani](../../topics/gwen-stefani/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Super Bowl](../../topics/super-bowl/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/80ec55b99dd74c77b9d3fbcd79adf7c1))
 
-----
+<br />
 
  - [**"Ellie Goulding, DJ Kygo to perform during Super Bowl week"**](https://apnews.com/283071a69cd5493380935bf78796d91c)
-
     - in [Associated Press News](https://apnews.com/)
     - on 6 December 2017
     - about [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Super Bowl](../../topics/super-bowl/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/283071a69cd5493380935bf78796d91c))
 
-----
+<br />
 
  - [**"Super Bowl Live concert series will include Prince tribute"**](https://apnews.com/30711cb14b744f1aa016784116c806cc)
-
     - in [Associated Press News](https://apnews.com/)
     - on 1 December 2017
     - about [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md)
@@ -972,17 +949,17 @@
 
 ----
 
- - [**"Showtime to air rare Prince music film, ‘Sign O’ the Times’"**](https://apnews.com/b4bf1e11d2ea4d0d81d744c92dffaaee)
+### 2017 August (2)
 
+ - [**"Showtime to air rare Prince music film, ‘Sign O’ the Times’"**](https://apnews.com/b4bf1e11d2ea4d0d81d744c92dffaaee)
     - in [Associated Press News](https://apnews.com/)
     - on 23 August 2017
     - about [The Revolution](../../topics/the-revolution/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/b4bf1e11d2ea4d0d81d744c92dffaaee))
 
-----
+<br />
 
  - [**"Prince’s band, The Revolution, pays tribute to him at Mohegan Sun’s Wolf Den"**](https://apnews.com/adb446ee03a044f8a94e407e19646fdd)
-
     - in [Associated Press News](https://apnews.com/)
     - on 5 August 2017
     - about [1999 (album)](../../topics/album/1999/index.md), [Bobby Z.](../../topics/bobby-z/index.md), [BrownMark](../../topics/brownmark/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Parade (album)](../../topics/album/parade/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [The Revolution](../../topics/the-revolution/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
@@ -990,14 +967,17 @@
 
 ----
 
- - [**"'Purple Rain': THR's 1984 Review"**](https://www.hollywoodreporter.com/review/purple-rain-review-1984-movie-1024852)
+### 2017 July (1)
 
+ - [**"'Purple Rain': THR's 1984 Review"**](https://www.hollywoodreporter.com/review/purple-rain-review-1984-movie-1024852)
     - in [The Hollywood Reporter](https://www.hollywoodreporter.com/)
     - on 27 July 2017
     - about [Albert Magnoli](../../topics/albert-magnoli/index.md), [Anne McCulley](../../topics/anne-mcculley/index.md), [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Donald L. Thorin](../../topics/donald-l-thorin/index.md), [Jerome Benton](../../topics/jerome-benton/index.md), [Ken Robinson](../../topics/ken-robinson/index.md), [Morris Day](../../topics/morris-day/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md), [William Blinn](../../topics/william-blinn/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.hollywoodreporter.com/review/purple-rain-review-1984-movie-1024852))
 
 ----
+
+### 2017 June (2)
 
  - [**"Minnesota's best albums of the year (so far): Chastity Brown, Romantica, Brother Ali, Lady Midnight -- This year's 10 albums includes several artists who saw their patience pay off."**](https://www.startribune.com/minnesota-s-best-albums-of-the-year-so-far-brother-ali-chastity-brown-romantica-prince/431623233/)
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
@@ -1006,10 +986,9 @@
     - about [17 Days (song)](../../topics/song/17-days/index.md), [bootleg](../../topics/bootleg/index.md), [Chastity Brown](../../topics/chastity-brown/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Our Destiny (song)](../../topics/song/our-destiny/index.md), [Possessed (song)](../../topics/song/possessed/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Roadhouse Garden (song)](../../topics/song/roadhouse-garden/index.md), [The Beautiful Ones (song)](../../topics/song/the-beautiful-ones/index.md), [The Revolution](../../topics/the-revolution/index.md), [vault](../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/minnesota-s-best-albums-of-the-year-so-far-brother-ali-chastity-brown-romantica-prince/431623233/))
 
-----
+<br />
 
  - [**"Prince’s Purple Downpour: A Review of the Expanded “Purple Rain”"**](https://www.newyorker.com/culture/culture-desk/princes-purple-downpour-a-review-of-the-expanded-purple-rain)
-
     - in [The New Yorker](https://www.newyorker.com/)
     - on 25 June 2017
     - about [17 Days (song)](../../topics/song/17-days/index.md), [André Cymone](../../topics/andr-cymone/index.md), [Andy Allo](../../topics/andy-allo/index.md), [Baby I’m a Star (song)](../../topics/song/baby-i-m-a-star/index.md), [Computer Blue (song)](../../topics/song/computer-blue/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [Erotic City (song)](../../topics/song/erotic-city/index.md), [George Clinton](../../topics/george-clinton/index.md), [Horny Toad (song)](../../topics/song/horny-toad/index.md), [How Come U Don’t Call Me Anymore? (song)](../../topics/song/how-come-u-don-t-call-me-anymore/index.md), [I Would Die 4 U (song)](../../topics/song/i-would-die-4-u/index.md), [Irresistible Bitch (song)](../../topics/song/irresistible-bitch/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Katrina’s Paper Dolls (song)](../../topics/song/katrina-s-paper-dolls/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Love and Sex (song)](../../topics/song/love-and-sex/index.md), [Miles Davis](../../topics/miles-davis/index.md), [motorcycle](../../topics/motorcycle/index.md), [Our Destiny (song)](../../topics/song/our-destiny/index.md), [Possessed (song)](../../topics/song/possessed/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Roadhouse Garden (song)](../../topics/song/roadhouse-garden/index.md), [The Beautiful Ones (song)](../../topics/song/the-beautiful-ones/index.md), [The Dance Electric (song)](../../topics/song/the-dance-electric/index.md), [The Revolution](../../topics/the-revolution/index.md), [vault](../../topics/vault/index.md), [Velvet Kitty Cat (song)](../../topics/song/velvet-kitty-cat/index.md), [Wednesday (song)](../../topics/song/wednesday/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md), [Wonderful Ass (song)](../../topics/song/wonderful-ass/index.md)
@@ -1017,8 +996,9 @@
 
 ----
 
- - [**"Another Track Drops From Prince’s ‘Purple Rain’ Deluxe Edition: ‘Our Destiny’/’Roadhouse Garden’"**](https://variety.com/2017/music/news/prince-purple-rain-deluxe-new-song-our-destiny-roadhouse-garden-1202424644/)
+### 2017 May (1)
 
+ - [**"Another Track Drops From Prince’s ‘Purple Rain’ Deluxe Edition: ‘Our Destiny’/’Roadhouse Garden’"**](https://variety.com/2017/music/news/prince-purple-rain-deluxe-new-song-our-destiny-roadhouse-garden-1202424644/)
     - in [Variety](https://variety.com/)
     - on 12 May 2017
     - about [First Avenue (place)](../../topics/place/first-avenue/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Our Destiny (song)](../../topics/song/our-destiny/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Roadhouse Garden (song)](../../topics/song/roadhouse-garden/index.md), [The Revolution](../../topics/the-revolution/index.md)
@@ -1026,14 +1006,15 @@
 
 ----
 
- - [**"‘Purple Rain’ re-issue to feature unreleased Prince songs"**](https://apnews.com/495f034e59ad4375a854c5476852d886)
+### 2017 April (9)
 
+ - [**"‘Purple Rain’ re-issue to feature unreleased Prince songs"**](https://apnews.com/495f034e59ad4375a854c5476852d886)
     - in [Associated Press News](https://apnews.com/)
     - on 28 April 2017
     - about [NPG Records](../../topics/npg-records/index.md), [The Revolution](../../topics/the-revolution/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/495f034e59ad4375a854c5476852d886))
 
-----
+<br />
 
  - [**"Details of Prince's expanded 'Purple Rain' reissue revealed, coming June 23"**](https://www.startribune.com/details-of-prince-s-expanded-purple-rain-reissue-revealed-coming-june-23/420722973/)
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
@@ -1042,61 +1023,55 @@
     - about [17 Days (song)](../../topics/song/17-days/index.md), [bootleg](../../topics/bootleg/index.md), [Erotic City (song)](../../topics/song/erotic-city/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Minnesota Dance Theatre](../../topics/minnesota-dance-theatre/index.md), [NPG Records](../../topics/npg-records/index.md), [Our Destiny (song)](../../topics/song/our-destiny/index.md), [Possessed (song)](../../topics/song/possessed/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Roadhouse Garden (song)](../../topics/song/roadhouse-garden/index.md), [The Beautiful Ones (song)](../../topics/song/the-beautiful-ones/index.md), [The Revolution](../../topics/the-revolution/index.md), [vault](../../topics/vault/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/details-of-prince-s-expanded-purple-rain-reissue-revealed-coming-june-23/420722973/))
 
-----
+<br />
 
  - [**"George Clinton gets Paisley Park's Prince celebration off to a funky start"**](https://usatoday.com/story/life/music/2017/04/21/george-clinton-gets-paisley-parks-prince-celebration-off-funky-start/100736612/)
-
     - in [USA Today](https://usatoday.com/)
     - on 21 April 2017
     - about [American Bandstand](../../topics/american-bandstand/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [Celebration 2017 (event)](../../topics/event/celebration-2017/index.md), [Dave Chappelle](../../topics/dave-chappelle/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [George Clinton](../../topics/george-clinton/index.md), [Jungle Love (song)](../../topics/song/jungle-love/index.md), [Morris Hayes](../../topics/morris-hayes/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [The Revolution](../../topics/the-revolution/index.md)
     - ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2017/04/21/george-clinton-gets-paisley-parks-prince-celebration-off-funky-start/100736612/))
 
-----
+<br />
 
  - [**"One Year After Prince's Death, Wendy and Lisa Are Ready to Mourn Through Song -- Two of Prince's proteges are back to pay tribute to the beloved rock icon."**](https://www.esquire.com/entertainment/music/a54634/wendy-and-lisa-interview-prince/)
-
     - in [Esquire](https://www.esquire.com/)
     - on 21 April 2017
     - about [Brown Mark](../../topics/brown-mark/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Matt Fink](../../topics/matt-fink/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.esquire.com/entertainment/music/a54634/wendy-and-lisa-interview-prince/))
 
-----
+<br />
 
  - [**"1 year after Prince’s death, another turn for The Revolution"**](https://apnews.com/98e9d09300534ac8a7ae5b7b82e9567f)
-
     - in [Associated Press News](https://apnews.com/)
     - on 20 April 2017
     - about [Bobby Z.](../../topics/bobby-z/index.md), [BrownMark](../../topics/brownmark/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Matt Fink](../../topics/matt-fink/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/98e9d09300534ac8a7ae5b7b82e9567f))
 
-----
+<br />
 
  - [**"Prince home state marks death anniversary with celebrations"**](https://apnews.com/683330f22682410896e82d5734a2a060)
-
     - in [Associated Press News](https://apnews.com/)
     - on 20 April 2017
     - about [Andre Cymone](../../topics/andre-cymone/index.md), [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Minnesota History Center](../../topics/minnesota-history-center/index.md), [Morris Day](../../topics/morris-day/index.md), [museum](../../topics/museum/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [The Revolution](../../topics/the-revolution/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/683330f22682410896e82d5734a2a060))
 
-----
+<br />
 
  - [**"Prince’s 1980s band hits the road for memorial tour"**](https://apnews.com/696a75af9362451891d58cef723d4114)
-
     - in [Associated Press News](https://apnews.com/)
     - on 20 April 2017
     - about [Bobby Z.](../../topics/bobby-z/index.md), [BrownMark](../../topics/brownmark/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Matt Fink](../../topics/matt-fink/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/696a75af9362451891d58cef723d4114))
 
-----
+<br />
 
  - [**"Album of the Day: Parade (Music from the Motion Picture Under the Cherry Moon) by Prince and The Revolution"**](https://www.rhino.com/aod/parade-music-from-the-motion-picture-under-the-cherry-moon-prince-and-the-revolution)
-
     - in [Rhino](https://www.rhino.com/)
     - on 19 April 2017
     - about [Parade (album)](../../topics/album/parade/index.md), [The Revolution](../../topics/the-revolution/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.rhino.com/aod/parade-music-from-the-motion-picture-under-the-cherry-moon-prince-and-the-revolution))
 
-----
+<br />
 
  - [**"Tracklist for Prince’s ‘Purple Rain’ Deluxe Edition Leaks — Unreleased Tracks Revealed"**](https://variety.com/2017/music/news/prince-purple-rain-deluxe-tracklist-leaks-1202390479/)
     - by [Jem Aswad](../../authors/jem-aswad/index.md)
@@ -1107,14 +1082,15 @@
 
 ----
 
- - [**"Prince's Sign O' The Times, 30 years on"**](https://www.bbc.com/news/entertainment-arts-39441461)
+### 2017 March (2)
 
+ - [**"Prince's Sign O' The Times, 30 years on"**](https://www.bbc.com/news/entertainment-arts-39441461)
     - in [BBC News](https://www.bbc.com/news/)
     - on 31 March 2017
     - about [Bangles](../../topics/bangles/index.md), [Dream Factory (album)](../../topics/album/dream-factory/index.md), [Eric Leeds](../../topics/eric-leeds/index.md), [George Clinton](../../topics/george-clinton/index.md), [Housequake (song)](../../topics/song/housequake/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Matt Fink](../../topics/matt-fink/index.md), [Obama](../../topics/obama/index.md), [Questlove](../../topics/questlove/index.md), [Sheena Easton](../../topics/sheena-easton/index.md), [Starfish And Coffee (song)](../../topics/song/starfish-and-coffee/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [The Ballad Of Dorothy Parker (song)](../../topics/song/the-ballad-of-dorothy-parker/index.md), [The Revolution](../../topics/the-revolution/index.md), [U Got the Look (song)](../../topics/song/u-got-the-look/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md), [Van Jones](../../topics/van-jones/index.md), [vault](../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.bbc.com/news/entertainment-arts-39441461))
 
-----
+<br />
 
  - [**"Members of the Revolution Share Their 5 Favorite Prince Stories"**](https://www.vulture.com/2017/03/prince-revolution-best-stories.html)
     - by [David Marchese](../../authors/david-marchese/index.md)
@@ -1125,17 +1101,19 @@
 
 ----
 
- - [**"Prince’s Closest Friends Share Their Best Prince Stories -- From Van Jones to Carmen Electra, publicists to Paisley Park members, those close to Prince Rogers Nelson tell tales—ordinary and out there—of the late legend."**](https://www.gq.com/story/prince-stories)
+## 2016 (19)
 
+### 2016 December (2)
+
+ - [**"Prince’s Closest Friends Share Their Best Prince Stories -- From Van Jones to Carmen Electra, publicists to Paisley Park members, those close to Prince Rogers Nelson tell tales—ordinary and out there—of the late legend."**](https://www.gq.com/story/prince-stories)
     - in [GQ](https://www.gq.com/)
     - on 8 December 2016
     - about [Albert Magnoli](../../topics/albert-magnoli/index.md), [American Bandstand](../../topics/american-bandstand/index.md), [André Cymone](../../topics/andr-cymone/index.md), [Audubon Road (place)](../../topics/place/audubon-road/index.md), [Bangles](../../topics/bangles/index.md), [Cat Glover](../../topics/cat-glover/index.md), [Central High](../../topics/central-high/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Chappelle's Show (TV show)](../../topics/tv-show/chappelle-s-show/index.md), [Charlie Murphy](../../topics/charlie-murphy/index.md), [Corey Tollefson](../../topics/corey-tollefson/index.md), [Dave Chappelle](../../topics/dave-chappelle/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [Gwen Stefani](../../topics/gwen-stefani/index.md), [Jeremiah Freed](../../topics/jeremiah-freed/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Kandace Springs](../../topics/kandace-springs/index.md), [Lake Minnetonka (place)](../../topics/place/lake-minnetonka/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Mayte](../../topics/mayte/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Micki Free](../../topics/micki-free/index.md), [Misty Copeland](../../topics/misty-copeland/index.md), [Morris Hayes](../../topics/morris-hayes/index.md), [Neal Karlen](../../topics/neal-karlen/index.md), [Netflix](../../topics/netflix/index.md), [NPG Records](../../topics/npg-records/index.md), [Obama](../../topics/obama/index.md), [Owen Husney](../../topics/owen-husney/index.md), [piracy](../../topics/piracy/index.md), [St. Louis Park (place)](../../topics/place/st-louis-park/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [The Gold Experience (album)](../../topics/album/the-gold-experience/index.md), [The Revolution](../../topics/the-revolution/index.md), [Van Jones](../../topics/van-jones/index.md), [Vanity](../../topics/vanity/index.md), [vault](../../topics/vault/index.md), [White House (place)](../../topics/place/white-house/index.md), [YouTube](../../topics/youtube/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.gq.com/story/prince-stories))
 
-----
+<br />
 
  - [**"Susan Rogers - 2016 Red Bull Music Academy lecture"**](https://www.redbullmusicacademy.com/lectures/susan-rogers-lecture)
-
     - in [Red Bull Music Academy](https://www.redbullmusicacademy.com/)
     - on 8 December 2016
     - about [17 Days (song)](../../topics/song/17-days/index.md), [Academy Award](../../topics/academy-award/index.md), [Anita Baker](../../topics/anita-baker/index.md), [Bernie Grundman](../../topics/bernie-grundman/index.md), [bootleg](../../topics/bootleg/index.md), [Condition of the Heart (song)](../../topics/song/condition-of-the-heart/index.md), [contract](../../topics/contract/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Grammy Award](../../topics/grammy-award/index.md), [James Brown](../../topics/james-brown/index.md), [Jesse Johnson](../../topics/jesse-johnson/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Kate Bush](../../topics/kate-bush/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Pop Life (song)](../../topics/song/pop-life/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Sly Stone](../../topics/sly-stone/index.md), [Sometimes It Snows In April (song)](../../topics/song/sometimes-it-snows-in-april/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [Tevin Campbell](../../topics/tevin-campbell/index.md), [The Ballad Of Dorothy Parker (song)](../../topics/song/the-ballad-of-dorothy-parker/index.md), [The Revolution](../../topics/the-revolution/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
@@ -1143,23 +1121,25 @@
 
 ----
 
- - [**"Around the state: Paisley Park to host Prince celebration"**](https://apnews.com/61839c62b9d94fec885fbf304d279168)
+### 2016 November (2)
 
+ - [**"Around the state: Paisley Park to host Prince celebration"**](https://apnews.com/61839c62b9d94fec885fbf304d279168)
     - in [Associated Press News](https://apnews.com/)
     - on 30 November 2016
     - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Carver County](../../topics/carver-county/index.md), [Celebration 2017 (event)](../../topics/event/celebration-2017/index.md), [contract](../../topics/contract/index.md), [Morris Day](../../topics/morris-day/index.md), [museum](../../topics/museum/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [The Revolution](../../topics/the-revolution/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/61839c62b9d94fec885fbf304d279168))
 
-----
+<br />
 
  - [**"Paisley Park to host 2017 celebration of Prince’s life"**](https://apnews.com/f5878da287eb4498ab600a0f313d602d)
-
     - in [Associated Press News](https://apnews.com/)
     - on 28 November 2016
     - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Celebration 2017 (event)](../../topics/event/celebration-2017/index.md), [Morris Day](../../topics/morris-day/index.md), [museum](../../topics/museum/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/f5878da287eb4498ab600a0f313d602d))
 
 ----
+
+### 2016 September (1)
 
  - [**"Prince's Revolution turns the party up in its second First Ave tribute show"**](https://www.startribune.com/prince-s-revolution-turns-the-party-up-in-its-second-first-ave-tribute-show/392244021/)
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
@@ -1170,14 +1150,17 @@
 
 ----
 
- - [**"Musicians close to Prince reportedly in the mix for tribute"**](https://apnews.com/5c33d9f6e9654074898b04452f17c598)
+### 2016 August (1)
 
+ - [**"Musicians close to Prince reportedly in the mix for tribute"**](https://apnews.com/5c33d9f6e9654074898b04452f17c598)
     - in [Associated Press News](https://apnews.com/)
     - on 31 August 2016
     - about [Morris Day](../../topics/morris-day/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Revolution](../../topics/the-revolution/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/5c33d9f6e9654074898b04452f17c598))
 
 ----
+
+### 2016 July (3)
 
  - [**"Official Prince tribute concert set for October at U.S. Bank Stadium"**](https://www.startribune.com/apnewsbreak-official-prince-tribute-concert-set-for-october/388585801/)
     - by [Mesfin Fekadu (Associated Press)](../../authors/associated-press/mesfin-fekadu/index.md)
@@ -1186,7 +1169,7 @@
     - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [BET Awards](../../topics/bet-awards/index.md), [Beyoncé](../../topics/beyonc/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Janelle Monae](../../topics/janelle-monae/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Roots](../../topics/the-roots/index.md), [The Time](../../topics/the-time/index.md), [Tori Kelly](../../topics/tori-kelly/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/apnewsbreak-official-prince-tribute-concert-set-for-october/388585801/))
 
-----
+<br />
 
  - [**"Boy George dishes on Prince and promises 'gorgeousness' at Twin Cities show -- Boy George speaks his mind, chatting about Prince, Trump and Culture Club's Twin Cities concert this weekend."**](https://www.startribune.com/boy-george-dishes-on-prince-and-promises-gorgeousness-at-twin-cities-show/387819481/)
     - by [Jon Bream](../../authors/jon-bream/index.md)
@@ -1195,10 +1178,9 @@
     - about [Donald Trump](../../topics/donald-trump/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [London (place)](../../topics/place/london/index.md), [The Revolution](../../topics/the-revolution/index.md), [Trump](../../topics/trump/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/boy-george-dishes-on-prince-and-promises-gorgeousness-at-twin-cities-show/387819481/))
 
-----
+<br />
 
  - [**"Prince backup band The Revolution to reunite for 2 shows"**](https://apnews.com/f222d2e94e2c414bb74a9d7bde1de068)
-
     - in [Associated Press News](https://apnews.com/)
     - on 13 July 2016
     - about [Andre Cymone](../../topics/andre-cymone/index.md), [BrownMark](../../topics/brownmark/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
@@ -1206,8 +1188,9 @@
 
 ----
 
- - [**"Dave Rusan: Building Prince’s Cloud Guitar"**](https://www.premierguitar.com/articles/24199-dave-rusan-building-princes-cloud-guitar)
+### 2016 June (1)
 
+ - [**"Dave Rusan: Building Prince’s Cloud Guitar"**](https://www.premierguitar.com/articles/24199-dave-rusan-building-princes-cloud-guitar)
     - in [Premier Guitar](https://www.premierguitar.com/)
     - on 10 June 2016
     - about [André Cymone](../../topics/andr-cymone/index.md), [Bobby Z.](../../topics/bobby-z/index.md), [Cloud guitar (instrument)](../../topics/instrument/cloud-guitar/index.md), [contract](../../topics/contract/index.md), [Dave Rusan](../../topics/dave-rusan/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Knut-Koupée Music](../../topics/knut-koup-e-music/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Matt Fink](../../topics/matt-fink/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [Prince and The Revolution](../../topics/prince-and-the-revolution/index.md), [Raspberry Beret (song)](../../topics/song/raspberry-beret/index.md), [Sardonyx](../../topics/sardonyx/index.md), [Sausalito (place)](../../topics/place/sausalito/index.md), [Smithsonian (place)](../../topics/place/smithsonian/index.md), [The Revolution](../../topics/the-revolution/index.md)
@@ -1215,71 +1198,65 @@
 
 ----
 
- - [**"Remembering Prince: Engineer “Cubby” Colby"**](https://www.prosoundnetwork.com/business/remembering-prince-engineer-cubby-colby)
+### 2016 April (8)
 
+ - [**"Remembering Prince: Engineer “Cubby” Colby"**](https://www.prosoundnetwork.com/business/remembering-prince-engineer-cubby-colby)
     - in [ProSound](https://www.prosoundnetwork.com/)
     - on 28 April 2016
     - about [Brown Mark](../../topics/brown-mark/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [Eric Leeds](../../topics/eric-leeds/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [James Brown](../../topics/james-brown/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [LeRoy Bennett](../../topics/leroy-bennett/index.md), [Matt Fink](../../topics/matt-fink/index.md), [Michael Bland](../../topics/michael-bland/index.md), [Robert “Cubby” Colby](../../topics/robert-cubby-colby/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [The Revolution](../../topics/the-revolution/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.prosoundnetwork.com/business/remembering-prince-engineer-cubby-colby))
 
-----
+<br />
 
  - [**"The Women in Prince’s World: His Muses and Collaborators From Sheila E. to Kim Basinger"**](https://www.billboard.com/photos/7348470/prince-female-muses-collaborators-lovers-sheila-e-kim-basinger-more)
-
     - in [Billboard](https://www.billboard.com/)
     - on 28 April 2016
     - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Apollonia 6](../../topics/apollonia-6/index.md), [Bangles](../../topics/bangles/index.md), [Boy Gregory](../../topics/boy-gregory/index.md), [Bria Valente](../../topics/bria-valente/index.md), [Cat Glover](../../topics/cat-glover/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [contract](../../topics/contract/index.md), [Denise Matthews](../../topics/denise-matthews/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [Donna Grantis](../../topics/donna-grantis/index.md), [Hannah Welton](../../topics/hannah-welton/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [I Wanna Be Your Lover (song)](../../topics/song/i-wanna-be-your-lover/index.md), [Ingrid Chavez](../../topics/ingrid-chavez/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Martika](../../topics/martika/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Misty Copeland](../../topics/misty-copeland/index.md), [Nasty Girl (song)](../../topics/song/nasty-girl/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Paisley Park Records](../../topics/paisley-park-records/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [Sheena Easton](../../topics/sheena-easton/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stand Back (song)](../../topics/song/stand-back/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md), [Sugar Walls (song)](../../topics/song/sugar-walls/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [The Revolution](../../topics/the-revolution/index.md), [U Got the Look (song)](../../topics/song/u-got-the-look/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [Wendy & Lisa](../../topics/wendy-lisa/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/photos/7348470/prince-female-muses-collaborators-lovers-sheila-e-kim-basinger-more))
 
-----
+<br />
 
  - [**"Prince’s old band plans to reunite for ‘some shows’"**](https://apnews.com/ade0aa56238f4568922b2146927df0bd)
-
     - in [Associated Press News](https://apnews.com/)
     - on 27 April 2016
     - about [The Revolution](../../topics/the-revolution/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/ade0aa56238f4568922b2146927df0bd))
 
-----
+<br />
 
  - [**"Hiding in plain sight – why I spent a lifetime chasing Prince"**](https://www.telegraph.co.uk/music/what-to-listen-to/hiding-in-plain-sight--why-i-spent-a-lifetime-chasing-prince/)
-
     - in [The Telegraph](https://www.telegraph.co.uk/)
     - on 22 April 2016
     - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Andy Warhol](../../topics/andy-warhol/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [bootleg](../../topics/bootleg/index.md), [Chris Moon](../../topics/chris-moon/index.md), [Denise Matthews](../../topics/denise-matthews/index.md), [Gilbert Davidson](../../topics/gilbert-davidson/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [Matt Fink](../../topics/matt-fink/index.md), [The Revolution](../../topics/the-revolution/index.md), [vault](../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.telegraph.co.uk/music/what-to-listen-to/hiding-in-plain-sight--why-i-spent-a-lifetime-chasing-prince/))
 
-----
+<br />
 
  - [**"Oprah, Mick Jagger among celebs to react to Prince’s death"**](https://apnews.com/ad3076cbbe69473495debc13e52669c5)
-
     - in [Associated Press News](https://apnews.com/)
     - on 22 April 2016
     - about [Albert Magnoli](../../topics/albert-magnoli/index.md), [Grammy Award](../../topics/grammy-award/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Obama](../../topics/obama/index.md), [Rita Ora](../../topics/rita-ora/index.md), [Sony Music](../../topics/sony-music/index.md), [Spike Lee](../../topics/spike-lee/index.md), [Super Bowl](../../topics/super-bowl/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/ad3076cbbe69473495debc13e52669c5))
 
-----
+<br />
 
  - [**"Prince’s Purple Rain – the inside story -- The full tale of the greatest triumph of one of rock’s true superstars"**](https://www.uncut.co.uk/features/princes-purple-rain-inside-story-73861/)
-
     - in [Uncut](https://www.uncut.co.uk/)
     - on 22 April 2016
     - about [Alan Leeds](../../topics/alan-leeds/index.md), [Albert Magnoli](../../topics/albert-magnoli/index.md), [Apollonia](../../topics/apollonia/index.md), [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Baby I’m a Star (song)](../../topics/song/baby-i-m-a-star/index.md), [Bob Cavallo](../../topics/bob-cavallo/index.md), [Bobby Z](../../topics/bobby-z/index.md), [David Leonard](../../topics/david-leonard/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [Eddie Murphy](../../topics/eddie-murphy/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Golden Raspberry Awards](../../topics/golden-raspberry-awards/index.md), [I Would Die 4 U (song)](../../topics/song/i-would-die-4-u/index.md), [Jerome Benton](../../topics/jerome-benton/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Lionel Richie](../../topics/lionel-richie/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Mann’s Chinese Theatre (place)](../../topics/place/mann-s-chinese-theatre/index.md), [Matt Fink](../../topics/matt-fink/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Mo Ostin](../../topics/mo-ostin/index.md), [Morris Day](../../topics/morris-day/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Steve Fargnoli](../../topics/steve-fargnoli/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Terry Semel](../../topics/terry-semel/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md), [William Blinn](../../topics/william-blinn/index.md), [Worst Film](../../topics/worst-film/index.md), [ZZ Top](../../topics/zz-top/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.uncut.co.uk/features/princes-purple-rain-inside-story-73861/))
 
-----
+<br />
 
  - [**"Prince Dies at 57: Iconic Musical Genius Found Dead in Paisley Park"**](https://www.billboard.com/articles/news/7341522/prince-dead)
-
     - in [Billboard](https://www.billboard.com/)
     - on 21 April 2016
     - about [1999 (album)](../../topics/album/1999/index.md), [Around The World In A Day (album)](../../topics/album/around-the-world-in-a-day/index.md), [Batdance (song)](../../topics/song/batdance/index.md), [Carver County](../../topics/carver-county/index.md), [Chaos and Disorder (album)](../../topics/album/chaos-and-disorder/index.md), [contract](../../topics/contract/index.md), [For You (album)](../../topics/album/for-you/index.md), [Grammy Award](../../topics/grammy-award/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [The Revolution](../../topics/the-revolution/index.md), [TMZ (website)](../../topics/website/tmz/index.md), [vault](../../topics/vault/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/7341522/prince-dead))
 
-----
+<br />
 
  - [**"PRINCE AND THE REVOLUTION: BEHIND THE PURPLE ROPE -- Having established his heavyweight status as James Brown’s tour manager, Alan Leeds was brought on midway through Prince’s 1999 tour as a freelance replacement. After finding his niche within the sometimes peculiar Prince entourage, Alan and his wife Gwen moved to Minneapolis to work for the artist full time. Little did they know, they were about to witness some of the greatest years in the history of popular music, as Prince and the Revolution busted out with the groundbreaking album and film Purple Rain."**](https://www.waxpoetics.com/connections/prince/article/prince-and-the-revolution/)
-
     - in [Wax Poetics](https://www.waxpoetics.com/)
     - on 19 April 2016
     - about [Alan Leeds](../../topics/alan-leeds/index.md), [Bobby Z](../../topics/bobby-z/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Chick Huntsberry](../../topics/chick-huntsberry/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [Detroit (place)](../../topics/place/detroit/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Gwen Leeds](../../topics/gwen-leeds/index.md), [James Brown](../../topics/james-brown/index.md), [Jerome Benton](../../topics/jerome-benton/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [John Nelson](../../topics/john-nelson/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Morris Day](../../topics/morris-day/index.md), [New Orleans (place)](../../topics/place/new-orleans/index.md), [Paisley Park Records](../../topics/paisley-park-records/index.md), [Prince and The Revolution](../../topics/prince-and-the-revolution/index.md), [Steve Fargnoli](../../topics/steve-fargnoli/index.md), [Superdome (place)](../../topics/place/superdome/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
@@ -1287,8 +1264,9 @@
 
 ----
 
- - [**"Paean to Prince: 15 Fascinating Facts About His Purple Majesty -- Juicy secrets from a legendary music career, collected by an infatuated fan"**](https://medium.com/cuepoint/paean-to-prince-15-fascinating-facts-about-his-purple-majesty-6aa627d1d17e)
+### 2016 February (1)
 
+ - [**"Paean to Prince: 15 Fascinating Facts About His Purple Majesty -- Juicy secrets from a legendary music career, collected by an infatuated fan"**](https://medium.com/cuepoint/paean-to-prince-15-fascinating-facts-about-his-purple-majesty-6aa627d1d17e)
     - in [Cuepoint](https://medium.com/cuepoint/)
     - on 10 February 2016
     - about [Alan Light](../../topics/alan-light/index.md), [Albert Magnoli](../../topics/albert-magnoli/index.md), [Apollonia 6](../../topics/apollonia-6/index.md), [Dave Chappelle](../../topics/dave-chappelle/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [Jesse Johnson](../../topics/jesse-johnson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Matt Fink](../../topics/matt-fink/index.md), [memoir](../../topics/memoir/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Morris Day](../../topics/morris-day/index.md), [One Nite Alone (album)](../../topics/album/one-nite-alone/index.md), [Questlove](../../topics/questlove/index.md), [Quincy Jones](../../topics/quincy-jones/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stand Back (song)](../../topics/song/stand-back/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Revolution](../../topics/the-revolution/index.md), [Vagina (song)](../../topics/song/vagina/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md)
@@ -1296,8 +1274,11 @@
 
 ----
 
- - [**"Rhino Historic Tours: Prince Kicks Off the Purple Rain Tour"**](https://www.rhino.com/article/rhino-historic-tours-prince-kicks-off-the-purple-rain-tour)
+## 2014 (1)
 
+### 2014 November (1)
+
+ - [**"Rhino Historic Tours: Prince Kicks Off the Purple Rain Tour"**](https://www.rhino.com/article/rhino-historic-tours-prince-kicks-off-the-purple-rain-tour)
     - in [Rhino](https://www.rhino.com/)
     - on 4 November 2014
     - about [Baby I’m a Star (song)](../../topics/song/baby-i-m-a-star/index.md), [Bruce Springsteen](../../topics/bruce-springsteen/index.md), [Dave Marsh](../../topics/dave-marsh/index.md), [Detroit (place)](../../topics/place/detroit/index.md), [Detroit, Michigan (place)](../../topics/place/detroit-michigan/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [Inglewood, California (place)](../../topics/place/inglewood-california/index.md), [Joe Louis Arena (place)](../../topics/place/joe-louis-arena/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Madonna](../../topics/madonna/index.md), [Parade (album)](../../topics/album/parade/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Purple Rain (tour)](../../topics/tour/purple-rain/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wendy & Lisa](../../topics/wendy-lisa/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
@@ -1305,8 +1286,11 @@
 
 ----
 
- - [**"Hannah Ford: The Princess Ride"**](https://drummagazine.com/hannah-ford-the-princess-ride/)
+## 2013 (2)
 
+### 2013 October (1)
+
+ - [**"Hannah Ford: The Princess Ride"**](https://drummagazine.com/hannah-ford-the-princess-ride/)
     - in [drummagazine.com](https://drummagazine.com/)
     - on 14 October 2013
     - about [Donna Grantis](../../topics/donna-grantis/index.md), [Hannah Ford](../../topics/hannah-ford/index.md), [Ida Neilson](../../topics/ida-neilson/index.md), [Live Out Loud (tour)](../../topics/tour/live-out-loud/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Plectrum Electrum (album)](../../topics/album/plectrum-electrum/index.md), [Screwdriver (song)](../../topics/song/screwdriver/index.md), [She’s Always In My Hair (song)](../../topics/song/she-s-always-in-my-hair/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Family](../../topics/the-family/index.md), [The Revolution](../../topics/the-revolution/index.md), [YouTube](../../topics/youtube/index.md)
@@ -1314,8 +1298,9 @@
 
 ----
 
- - [**"Costello, D’Angelo, more perform at Prince tribute"**](https://apnews.com/f78be2e8ad1b4b7ebeb0c45b96f32081)
+### 2013 March (1)
 
+ - [**"Costello, D’Angelo, more perform at Prince tribute"**](https://apnews.com/f78be2e8ad1b4b7ebeb0c45b96f32081)
     - in [Associated Press News](https://apnews.com/)
     - on 8 March 2013
     - about [D’Angelo](../../topics/d-angelo/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [Eric Leeds](../../topics/eric-leeds/index.md), [Fred Armisen](../../topics/fred-armisen/index.md), [Gretchen Lieberum](../../topics/gretchen-lieberum/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Maya Rudolph](../../topics/maya-rudolph/index.md), [Paul Peterson](../../topics/paul-peterson/index.md), [Pop Life (song)](../../topics/song/pop-life/index.md), [PRINCEss](../../topics/princess/index.md), [Questlove](../../topics/questlove/index.md), [St. Paul Peterson](../../topics/st-paul-peterson/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [The Beautiful Ones (song)](../../topics/song/the-beautiful-ones/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Roots](../../topics/the-roots/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
@@ -1323,14 +1308,21 @@
 
 ----
 
- - [**"Prince before the Revolution -- An inside look at the artist formerly known as Prince before the Revolution and before he was pop royalty and had delivered the albums that brought him to worldwide acclaim."**](https://blog.discmakers.com/2011/06/prince-before-the-revolution/)
+## 2011 (1)
 
+### 2011 June (1)
+
+ - [**"Prince before the Revolution -- An inside look at the artist formerly known as Prince before the Revolution and before he was pop royalty and had delivered the albums that brought him to worldwide acclaim."**](https://blog.discmakers.com/2011/06/prince-before-the-revolution/)
     - in [blog.discmakers.com](https://blog.discmakers.com/)
     - on 6 June 2011
     - about [American Bandstand](../../topics/american-bandstand/index.md), [André Cymone](../../topics/andr-cymone/index.md), [Backbeat Books](../../topics/backbeat-books/index.md), [Black Album (album)](../../topics/album/black-album/index.md), [Bobby Z](../../topics/bobby-z/index.md), [Capri Theater (place)](../../topics/place/capri-theater/index.md), [Cavallo, Ruffalo & Fargnoli](../../topics/cavallo-ruffalo-fargnoli/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Chris Moon](../../topics/chris-moon/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [Earth, Wind & Fire](../../topics/earth-wind-fire/index.md), [Edina (place)](../../topics/place/edina/index.md), [France Avenue (place)](../../topics/place/france-avenue/index.md), [Hal Leonard](../../topics/hal-leonard/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [I Wanna Be Your Lover (song)](../../topics/song/i-wanna-be-your-lover/index.md), [Jason Draper](../../topics/jason-draper/index.md), [Los Angeles (place)](../../topics/place/los-angeles/index.md), [Matt Fink](../../topics/matt-fink/index.md), [Moonsound Studios (place)](../../topics/place/moonsound-studios/index.md), [Nile Rodgers](../../topics/nile-rodgers/index.md), [Owen Husney](../../topics/owen-husney/index.md), [Pepé Willie](../../topics/pep-willie/index.md), [Prince: Chaos, Disorder, and Revolution (book)](../../topics/book/prince-chaos-disorder-and-revolution/index.md), [St. Paul (place)](../../topics/place/st-paul/index.md), [Steve Fargnoli](../../topics/steve-fargnoli/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Super Bowl](../../topics/super-bowl/index.md), [The Revolution](../../topics/the-revolution/index.md)
     - ([mirror](https://web.archive.org/web/*/https://blog.discmakers.com/2011/06/prince-before-the-revolution/))
 
 ----
+
+## 2009 (1)
+
+### 2009 July (1)
 
  - [**"Purple’ afterglow: 25 years ago, film and soundtrack turned Prince into a megastar"**](https://www.bostonherald.com/2009/07/31/purple-afterglow-25-years-ago-film-and-soundtrack-turned-prince-into-a-megastar/)
     - by [Jon Bream](../../authors/jon-bream/index.md)
@@ -1341,8 +1333,11 @@
 
 ----
 
- - [**"People In The News"**](https://apnews.com/68d6ee2a071cbb3c83fc9defc5343edb)
+## 1986 (1)
 
+### 1986 October (1)
+
+ - [**"People In The News"**](https://apnews.com/68d6ee2a071cbb3c83fc9defc5343edb)
     - in [Associated Press News](https://apnews.com/)
     - on 17 October 1986
     - about [Dakota (place)](../../topics/place/dakota/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [PRINCEss](../../topics/princess/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
@@ -1350,17 +1345,19 @@
 
 ----
 
- - [**"Despite Success, Rock Star Prince Remains a Mystery"**](https://apnews.com/428fd09c0ece8239d5813dc73835d4fc)
+## 1985 (3)
 
+### 1985 February (2)
+
+ - [**"Despite Success, Rock Star Prince Remains a Mystery"**](https://apnews.com/428fd09c0ece8239d5813dc73835d4fc)
     - in [Associated Press News](https://apnews.com/)
     - on 25 February 1985
     - about [Central High](../../topics/central-high/index.md), [Chris Moon](../../topics/chris-moon/index.md), [Moon Sound Studio (place)](../../topics/place/moon-sound-studio/index.md), [Prince Day](../../topics/prince-day/index.md), [Richard Robinson](../../topics/richard-robinson/index.md), [The Revolution](../../topics/the-revolution/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/428fd09c0ece8239d5813dc73835d4fc))
 
-----
+<br />
 
  - [**"27th Annual Grammy Awards Show to Offer Stellar Performances Tuesday"**](https://apnews.com/f0321a7f0a1984fca521fee8571d39e8)
-
     - in [Associated Press News](https://apnews.com/)
     - on 23 February 1985
     - about [Baby I’m a Star (song)](../../topics/song/baby-i-m-a-star/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Cyndi Lauper](../../topics/cyndi-lauper/index.md), [Grammy Award](../../topics/grammy-award/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [PRINCEss](../../topics/princess/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [The Revolution](../../topics/the-revolution/index.md)
@@ -1368,8 +1365,9 @@
 
 ----
 
- - [**"David Foster Edges Cyndi Lauper, Tina Turner and Prince With BC-Grammys-List"**](https://apnews.com/78bd652204e400aeb604e68f1e12f43b)
+### 1985 January (1)
 
+ - [**"David Foster Edges Cyndi Lauper, Tina Turner and Prince With BC-Grammys-List"**](https://apnews.com/78bd652204e400aeb604e68f1e12f43b)
     - in [Associated Press News](https://apnews.com/)
     - on 10 January 1985
     - about [Chaka Khan](../../topics/chaka-khan/index.md), [Cyndi Lauper](../../topics/cyndi-lauper/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [The Revolution](../../topics/the-revolution/index.md)

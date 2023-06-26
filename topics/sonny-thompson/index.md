@@ -1,16 +1,18 @@
 # Sonny Thompson
 
- - [**"Prince: requiem for a bass hero -- The bassists that played with the late legend share their stories"**](https://www.guitarworld.com/features/prince-requiem-for-a-bass-hero)
+## 2020 (2)
 
+### 2020 January (2)
+
+ - [**"Prince: requiem for a bass hero -- The bassists that played with the late legend share their stories"**](https://www.guitarworld.com/features/prince-requiem-for-a-bass-hero)
     - in [GuitarWorld](https://www.guitarworld.com/)
     - on 8 January 2020
     - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Alex Al](../../topics/alex-al/index.md), [André Cymone](../../topics/andr-cymone/index.md), [BrownMark](../../topics/brownmark/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Pop Life (song)](../../topics/song/pop-life/index.md), [She’s Always In My Hair (song)](../../topics/song/she-s-always-in-my-hair/index.md), [Sonny Thompson](../../topics/sonny-thompson/index.md), [Tal Wilkenfeld](../../topics/tal-wilkenfeld/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md), [YouTube](../../topics/youtube/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.guitarworld.com/features/prince-requiem-for-a-bass-hero))
 
-----
+<br />
 
  - [**"Prince: The Story of 1999 bonus feature: Fred Armisen, 'I could talk about Prince endlessly'"**](https://www.thecurrent.org/feature/2020/01/03/prince-the-story-of-1999-bonus-feature-fred-armisen-interview)
-
     - in [The Current](https://www.thecurrent.org/)
     - on 3 January 2020
     - about [1999 (album)](../../topics/album/1999/index.md), [Andrea Swensson](../../topics/andrea-swensson/index.md), [Bobby Z.](../../topics/bobby-z/index.md), [Dr. Mambo's Combo](../../topics/dr-mambo-s-combo/index.md), [Fred Armisen](../../topics/fred-armisen/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Michael Bland](../../topics/michael-bland/index.md), [Parade (album)](../../topics/album/parade/index.md), [Prince: The Story of 1999](../../topics/prince-the-story-of-1999/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [SNL (TV show)](../../topics/tv-show/snl/index.md), [Sonny Thompson](../../topics/sonny-thompson/index.md)
@@ -18,8 +20,11 @@
 
 ----
 
- - [**"In a Twin Cities living room, the Steeles cook up their 35th annual Christmas show -- The Steeles' annual Christmas show is a family affair, brewed up in a Golden Valley living room."**](https://www.startribune.com/in-a-twin-cities-living-room-the-steeles-cook-up-their-35th-annual-christmas-show/566344542/)
+## 2019 (3)
 
+### 2019 December (1)
+
+ - [**"In a Twin Cities living room, the Steeles cook up their 35th annual Christmas show -- The Steeles' annual Christmas show is a family affair, brewed up in a Golden Valley living room."**](https://www.startribune.com/in-a-twin-cities-living-room-the-steeles-cook-up-their-35th-annual-christmas-show/566344542/)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 19 December 2019
     - about [Alexander O’Neal](../../topics/alexander-o-neal/index.md), [contract](../../topics/contract/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [Kenni Holmen](../../topics/kenni-holmen/index.md), [Sonny Thompson](../../topics/sonny-thompson/index.md), [Tommy Barbarella](../../topics/tommy-barbarella/index.md)
@@ -27,14 +32,17 @@
 
 ----
 
- - [**"INTERVIEW: New Power Generation remember their leader, Prince, at NYC concert"**](https://www.hollywoodsoapbox.com/interview-new-power-generation-remember-their-leader-prince-at-nyc-concert/)
+### 2019 November (1)
 
+ - [**"INTERVIEW: New Power Generation remember their leader, Prince, at NYC concert"**](https://www.hollywoodsoapbox.com/interview-new-power-generation-remember-their-leader-prince-at-nyc-concert/)
     - in [www.hollywoodsoapbox.com](https://www.hollywoodsoapbox.com/)
     - on 17 November 2019
     - about [Chris Jackson](../../topics/chris-jackson/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [Morris Hayes](../../topics/morris-hayes/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Sonny Thompson](../../topics/sonny-thompson/index.md), [Spike Lee](../../topics/spike-lee/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.hollywoodsoapbox.com/interview-new-power-generation-remember-their-leader-prince-at-nyc-concert/))
 
 ----
+
+### 2019 April (1)
 
  - [**"Twin Cities concerts of the week: Snoop Dogg, Chris Koza, VocalEssence does Dylan, Prince tributes -- This week’s big gigs for April 26-May 2, also including Neko Case, Kodak Black, Arturo Sandoval, Foals and more."**](https://www.startribune.com/twin-cities-concerts-of-the-week-snoop-dogg-chris-koza-vocalessence-does-dylan-prince-tributes/509061512/)
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md), [Jon Bream](../../authors/jon-bream/index.md)

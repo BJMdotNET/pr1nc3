@@ -1,5 +1,9 @@
 # Sex Shooter (song)
 
+## 2019 (5)
+
+### 2019 June (4)
+
  - [**"Prince’s Unearthed ‘Originals’: Collaborators Look Back on the Hits He Passed Along -- As demos of future classics like “Manic Monday” and Nothing Compares 2 U” finally see official release, Apollonia, the Bangles’ Susanna Hoffs, and others recall the artist’s “otherworldly” songwriting talents"**](https://www.rollingstone.com/music/music-features/prince-originals-interview-842940/)
     - by [Kory Grow](../../../authors/kory-grow/index.md)
     - in [Rolling Stone](https://www.rollingstone.com/)
@@ -7,7 +11,7 @@
     - about [Apollonia 6](../../../topics/apollonia-6/index.md), [Apollonia Kotero](../../../topics/apollonia-kotero/index.md), [Bangles](../../../topics/bangles/index.md), [contract](../../../topics/contract/index.md), [fentanyl overdose](../../../topics/fentanyl-overdose/index.md), [George Clinton](../../../topics/george-clinton/index.md), [Jill Jones](../../../topics/jill-jones/index.md), [Jungle Love (song)](../../../topics/song/jungle-love/index.md), [Kenny Rogers](../../../topics/kenny-rogers/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Martika](../../../topics/martika/index.md), [Mazarati](../../../topics/mazarati/index.md), [Nasty Girl (song)](../../../topics/song/nasty-girl/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Peggy McCreary](../../../topics/peggy-mccreary/index.md), [perfume](../../../topics/perfume/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [Sex Shooter (song)](../../../topics/song/sex-shooter/index.md), [Sheena Easton](../../../topics/sheena-easton/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [Sugar Walls (song)](../../../topics/song/sugar-walls/index.md), [Sunset Sound (place)](../../../topics/place/sunset-sound/index.md), [Susan Rogers](../../../topics/susan-rogers/index.md), [Susanna Hoffs](../../../topics/susanna-hoffs/index.md), [Susannah Melvoin](../../../topics/susannah-melvoin/index.md), [Tevin Campbell](../../../topics/tevin-campbell/index.md), [The Family](../../../topics/the-family/index.md), [The Prince Estate](../../../topics/the-prince-estate/index.md), [The Time](../../../topics/the-time/index.md), [Troy Carter](../../../topics/troy-carter/index.md), [Vanity 6](../../../topics/vanity-6/index.md), [vault](../../../topics/vault/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/prince-originals-interview-842940/))
 
-----
+<br />
 
  - [**"Album Review: Prince’s ‘Originals’"**](https://variety.com/2019/music/reviews/album-review-princes-originals-1203249946/)
     - by [Jem Aswad](../../../authors/jem-aswad/index.md)
@@ -16,16 +20,15 @@
     - about [Apollonia 6](../../../topics/apollonia-6/index.md), [Bangles](../../../topics/bangles/index.md), [Holly Rock (song)](../../../topics/song/holly-rock/index.md), [Jill Jones](../../../topics/jill-jones/index.md), [Jungle Love (song)](../../../topics/song/jungle-love/index.md), [Kenny Rogers](../../../topics/kenny-rogers/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Michael Jackson](../../../topics/michael-jackson/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Originals (album review)](../../../topics/album-review/originals/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Sex Shooter (song)](../../../topics/song/sex-shooter/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md), [The Family](../../../topics/the-family/index.md), [The Time](../../../topics/the-time/index.md), [Thieves in the Temple (song)](../../../topics/song/thieves-in-the-temple/index.md), [Warner Bros. Records](../../../topics/warner-bros-records/index.md)
     - ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/reviews/album-review-princes-originals-1203249946/))
 
-----
+<br />
 
  - [**"Artistas recuerdan cuando Prince les regaló una canción"**](https://apnews.com/article/0ce82e34396a4aafbe0317a16d51fb38)
-
     - in [Associated Press News](https://apnews.com/)
     - on 5 June 2019
     - about [Apollonia 6](../../../topics/apollonia-6/index.md), [Apollonia Kotero](../../../topics/apollonia-kotero/index.md), [Bangles](../../../topics/bangles/index.md), [Denise Matthews](../../../topics/denise-matthews/index.md), [Joey Coco](../../../topics/joey-coco/index.md), [Kenny Rogers](../../../topics/kenny-rogers/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Sex Shooter (song)](../../../topics/song/sex-shooter/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [Susanna Hoffs](../../../topics/susanna-hoffs/index.md), [Susannah Melvoin](../../../topics/susannah-melvoin/index.md), [The Family](../../../topics/the-family/index.md), [The Glamorous Life (song)](../../../topics/song/the-glamorous-life/index.md), [Tidal](../../../topics/tidal/index.md), [Vanity 6](../../../topics/vanity-6/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/0ce82e34396a4aafbe0317a16d51fb38))
 
-----
+<br />
 
  - [**"Remembering when Prince wrote that song for you"**](https://apnews.com/9946e6f68e354265a15047187b217b56)
     - by [Mesfin Fekadu (Associated Press)](../../../authors/associated-press/mesfin-fekadu/index.md)
@@ -36,6 +39,8 @@
 
 ----
 
+### 2019 April (1)
+
  - [**"Coming soon from the Prince vault: A new album called ‘Originals’ -- Prince’s estate is announcing the collection of his performances of songs he wrote for others."**](https://www.startribune.com/coming-soon-from-the-prince-vault-a-new-album-called-originals/509009862/)
     - by [Chris Riemenschneider](../../../authors/chris-riemenschneider/index.md), [Jon Bream](../../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
@@ -44,6 +49,10 @@
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/coming-soon-from-the-prince-vault-a-new-album-called-originals/509009862/))
 
 ----
+
+## 2016 (1)
+
+### 2016 February (1)
 
  - [**"Apollonia: Vanity was and ‘inspiration’"**](https://apnews.com/849a2025be574b07b857e30d16295024)
     - by [Jesse J. Holland (Associated Press)](../../../authors/associated-press/jesse-j-holland/index.md)

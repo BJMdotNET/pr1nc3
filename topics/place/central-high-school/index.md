@@ -1,5 +1,9 @@
 # Central High School (place)
 
+## 2023 (1)
+
+### 2023 June (1)
+
  - [**"Why did Prince decide to live in Chanhassen? -- The Minneapolis native's legacy will forever be linked to his state-of-the-art suburban playground, Paisley Park."**](https://www.startribune.com/prince-minneapolis-chanhassen-paisley-park-andre-cymone-morris-day-bobby-z/600281369/)
     - by [Jon Bream](../../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
@@ -9,8 +13,11 @@
 
 ----
 
- - [**"Prince and sports: Music in blood, basketball in his heart"**](https://apnews.com/article/6e2e2f449641404596505f08bf84bb3a)
+## 2016 (1)
 
+### 2016 April (1)
+
+ - [**"Prince and sports: Music in blood, basketball in his heart"**](https://apnews.com/article/6e2e2f449641404596505f08bf84bb3a)
     - in [Associated Press News](https://apnews.com/)
     - on 22 April 2016
     - about [Central High](../../../topics/central-high/index.md), [Central High School (place)](../../../topics/place/central-high-school/index.md), [Duane Nelson](../../../topics/duane-nelson/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Minnesota Twins](../../../topics/minnesota-twins/index.md), [Purple and Gold (song)](../../../topics/song/purple-and-gold/index.md), [St. Paul (place)](../../../topics/place/st-paul/index.md), [Super Bowl](../../../topics/super-bowl/index.md)

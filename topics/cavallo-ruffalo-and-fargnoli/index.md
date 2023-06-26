@@ -1,5 +1,9 @@
 # Cavallo, Ruffalo, and Fargnoli
 
+## 2019 (1)
+
+### 2019 July (1)
+
  - [**"‘Purple Rain’ turns 35 – how Prince’s cult classic broke barriers"**](https://spokesman-recorder.com/2019/07/26/purple-rain-turns-35-how-princes-cult-classic-broke-barriers/)
     - by [Tony Kiene](../../authors/tony-kiene/index.md)
     - in [Minnesota Spokesman-Recorder](https://spokesman-recorder.com/)
@@ -8,6 +12,10 @@
     - ([mirror](https://web.archive.org/web/*/https://spokesman-recorder.com/2019/07/26/purple-rain-turns-35-how-princes-cult-classic-broke-barriers/))
 
 ----
+
+## 2014 (1)
+
+### 2014 July (1)
 
  - [**"Apollonia shares her near-death experience on the set of Purple Rain"**](https://blog.thecurrent.org/2014/07/apollonia-shares-her-near-death-experience-on-the-set-of-purple-rain/)
     - by [Andrea Swensson](../../authors/andrea-swensson/index.md)

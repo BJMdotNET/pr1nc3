@@ -1,5 +1,9 @@
 # Free Urself (song)
 
+## 2015 (1)
+
+### 2015 September (1)
+
  - [**"Prince releases new single, "Free Urself," on Tidal"**](https://www.startribune.com/prince-releases-new-single-free-urself-on-tidal/329887771/)
     - by [Jon Bream](../../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)

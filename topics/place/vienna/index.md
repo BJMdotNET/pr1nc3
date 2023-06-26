@@ -1,5 +1,9 @@
 # Vienna (place)
 
+## 2015 (1)
+
+### 2015 November (1)
+
  - [**"Because of the Paris attacks, Prince postpones his solo piano tour of Europe"**](https://www.startribune.com/because-of-the-paris-attacks-prince-postpones-his-solo-piano-tour-of-europe/350921721/)
     - by [Jon Bream](../../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)

@@ -1,5 +1,9 @@
 # Jack Nicholson
 
+## 2019 (1)
+
+### 2019 June (1)
+
  - [**"Prince’s ‘Batman’ at 30: How the Film Saved His Career From ‘Horrible’ Financial Straits"**](https://variety.com/2019/film/news/prince-batman-at-30-how-film-saved-his-career-1203251356/)
     - by [Todd Gilchrist](../../authors/todd-gilchrist/index.md)
     - in [Variety](https://variety.com/)

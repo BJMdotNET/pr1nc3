@@ -1,5 +1,9 @@
 # Los Angeles (place)
 
+## 2023 (1)
+
+### 2023 June (1)
+
  - [**"Why did Prince decide to live in Chanhassen? -- The Minneapolis native's legacy will forever be linked to his state-of-the-art suburban playground, Paisley Park."**](https://www.startribune.com/prince-minneapolis-chanhassen-paisley-park-andre-cymone-morris-day-bobby-z/600281369/)
     - by [Jon Bream](../../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
@@ -8,6 +12,10 @@
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-minneapolis-chanhassen-paisley-park-andre-cymone-morris-day-bobby-z/600281369/))
 
 ----
+
+## 2022 (1)
+
+### 2022 June (1)
 
  - [**"Purple Rain: The Story Behind Prince’s Career-Defining Song -- The song most associated with Prince, Purple Rain is an epic power ballad that embodied its creator’s search for transcendence through music."**](https://www.thisisdig.com/feature/purple-rain-prince-song-story/)
     - by [Jason Draper](../../../authors/jason-draper/index.md)
@@ -18,6 +26,10 @@
 
 ----
 
+## 2021 (1)
+
+### 2021 October (1)
+
  - [**"1999: Why Prince’s Visionary Album Still Sounds Like The Future -- With his '1999' album, Prince perfected the ‘Minneapolis sound’: a futuristic pop-funk concoction the world has yet to catch up with."**](https://www.thisisdig.com/feature/1999-album-prince/)
     - by [Jason Draper](../../../authors/jason-draper/index.md)
     - in [Dig!](https://www.thisisdig.com/)
@@ -27,14 +39,21 @@
 
 ----
 
- - [**"Will Smith hired Prince"**](https://apnews.com/article/dbd252153d974a53ae80d01bc98afc7f)
+## 2018 (1)
 
+### 2018 April (1)
+
+ - [**"Will Smith hired Prince"**](https://apnews.com/article/dbd252153d974a53ae80d01bc98afc7f)
     - in [Associated Press News](https://apnews.com/)
     - on 23 April 2018
     - about [Jada Pinkett Smith](../../../topics/jada-pinkett-smith/index.md), [Los Angeles (place)](../../../topics/place/los-angeles/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Will Smith](../../../topics/will-smith/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/dbd252153d974a53ae80d01bc98afc7f))
 
 ----
+
+## 2017 (2)
+
+### 2017 October (2)
 
  - [**"APNewsBreak: Prince tapes moved to California; 2 heirs angry"**](https://apnews.com/7fc066b10aa546e2977a0a85fc8ecb3b)
     - by [Steve Karnowski (Associated Press)](../../../authors/associated-press/steve-karnowski/index.md)
@@ -43,7 +62,7 @@
     - about [Alfred Jackson](../../../topics/alfred-jackson/index.md), [California (place)](../../../topics/place/california/index.md), [Carver County](../../../topics/carver-county/index.md), [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Comerica](../../../topics/comerica/index.md), [Comerica Bank & Trust](../../../topics/comerica-bank-trust/index.md), [Iron Mountain](../../../topics/iron-mountain/index.md), [Iron Mountain Entertainment Services](../../../topics/iron-mountain-entertainment-services/index.md), [John R. Nelson](../../../topics/john-r-nelson/index.md), [Kevin Eide](../../../topics/kevin-eide/index.md), [Los Angeles (place)](../../../topics/place/los-angeles/index.md), [Norrine Nelson](../../../topics/norrine-nelson/index.md), [Omarr Baker](../../../topics/omarr-baker/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Sharon Nelson](../../../topics/sharon-nelson/index.md), [Tyka Nelson](../../../topics/tyka-nelson/index.md), [vault](../../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/7fc066b10aa546e2977a0a85fc8ecb3b))
 
-----
+<br />
 
  - [**"Prince tapes moved to California; 2 heirs angry"**](https://www.startribune.com/apnewsbreak-prince-tapes-moved-to-california-heirs-miffed/450496873/)
     - by [Steve Karnowski (Associated Press)](../../../authors/associated-press/steve-karnowski/index.md)
@@ -54,8 +73,11 @@
 
 ----
 
- - [**"‘I’m Going to Personify Sex in Every Way’: Prince’s Defining ‘Dirty Mind’ Album -- A refusal to be labeled R&B, a rivalry with Rick James and a very dirty song called 'Head': the groundbreaking arrival of 1980's 'Dirty Mind.'"**](https://www.billboard.com/music/features/prince-dirty-mind-retrospective-7348526/)
+## 2016 (1)
 
+### 2016 April (1)
+
+ - [**"‘I’m Going to Personify Sex in Every Way’: Prince’s Defining ‘Dirty Mind’ Album -- A refusal to be labeled R&B, a rivalry with Rick James and a very dirty song called 'Head': the groundbreaking arrival of 1980's 'Dirty Mind.'"**](https://www.billboard.com/music/features/prince-dirty-mind-retrospective-7348526/)
     - in [Billboard](https://www.billboard.com/)
     - on 28 April 2016
     - about [American Bandstand](../../../topics/american-bandstand/index.md), [André Cymone](../../../topics/andr-cymone/index.md), [Andy Warhol](../../../topics/andy-warhol/index.md), [Bobby Z](../../../topics/bobby-z/index.md), [Denver (place)](../../../topics/place/denver/index.md), [Detroit (place)](../../../topics/place/detroit/index.md), [Dez Dickerson](../../../topics/dez-dickerson/index.md), [Dick Clark](../../../topics/dick-clark/index.md), [Dirty Mind (album)](../../../topics/album/dirty-mind/index.md), [Dirty Mind (tour)](../../../topics/tour/dirty-mind/index.md), [Gayle Chapman](../../../topics/gayle-chapman/index.md), [Head (song)](../../../topics/song/head/index.md), [I Wanna Be Your Lover (song)](../../../topics/song/i-wanna-be-your-lover/index.md), [Ken Tucker](../../../topics/ken-tucker/index.md), [Lake Minnetonka (place)](../../../topics/place/lake-minnetonka/index.md), [Lenny Waronker](../../../topics/lenny-waronker/index.md), [Lisa Coleman](../../../topics/lisa-coleman/index.md), [Los Angeles (place)](../../../topics/place/los-angeles/index.md), [memoir](../../../topics/memoir/index.md), [Mo Ostin](../../../topics/mo-ostin/index.md), [Rick James](../../../topics/rick-james/index.md), [Rolling Stone (magazine)](../../../topics/magazine/rolling-stone/index.md), [Roxy (place)](../../../topics/place/roxy/index.md), [Russ Thyret](../../../topics/russ-thyret/index.md), [Sam’s (place)](../../../topics/place/sam-s/index.md), [Steve Fargnoli](../../../topics/steve-fargnoli/index.md), [Stevie Wonder](../../../topics/stevie-wonder/index.md), [Ted Cohen](../../../topics/ted-cohen/index.md), [The Rainbow (place)](../../../topics/place/the-rainbow/index.md), [The Ritz (place)](../../../topics/place/the-ritz/index.md), [The Village Voice (magazine)](../../../topics/magazine/the-village-voice/index.md), [Twin Cities (place)](../../../topics/place/twin-cities/index.md), [Wayzata (place)](../../../topics/place/wayzata/index.md)
@@ -63,8 +85,11 @@
 
 ----
 
- - [**"Prince before the Revolution -- An inside look at the artist formerly known as Prince before the Revolution and before he was pop royalty and had delivered the albums that brought him to worldwide acclaim."**](https://blog.discmakers.com/2011/06/prince-before-the-revolution/)
+## 2011 (1)
 
+### 2011 June (1)
+
+ - [**"Prince before the Revolution -- An inside look at the artist formerly known as Prince before the Revolution and before he was pop royalty and had delivered the albums that brought him to worldwide acclaim."**](https://blog.discmakers.com/2011/06/prince-before-the-revolution/)
     - in [blog.discmakers.com](https://blog.discmakers.com/)
     - on 6 June 2011
     - about [American Bandstand](../../../topics/american-bandstand/index.md), [André Cymone](../../../topics/andr-cymone/index.md), [Backbeat Books](../../../topics/backbeat-books/index.md), [Black Album (album)](../../../topics/album/black-album/index.md), [Bobby Z](../../../topics/bobby-z/index.md), [Capri Theater (place)](../../../topics/place/capri-theater/index.md), [Cavallo, Ruffalo & Fargnoli](../../../topics/cavallo-ruffalo-fargnoli/index.md), [Chaka Khan](../../../topics/chaka-khan/index.md), [Chris Moon](../../../topics/chris-moon/index.md), [Dez Dickerson](../../../topics/dez-dickerson/index.md), [Earth, Wind & Fire](../../../topics/earth-wind-fire/index.md), [Edina (place)](../../../topics/place/edina/index.md), [France Avenue (place)](../../../topics/place/france-avenue/index.md), [Hal Leonard](../../../topics/hal-leonard/index.md), [I Feel For You (song)](../../../topics/song/i-feel-for-you/index.md), [I Wanna Be Your Lover (song)](../../../topics/song/i-wanna-be-your-lover/index.md), [Jason Draper](../../../topics/jason-draper/index.md), [Los Angeles (place)](../../../topics/place/los-angeles/index.md), [Matt Fink](../../../topics/matt-fink/index.md), [Moonsound Studios (place)](../../../topics/place/moonsound-studios/index.md), [Nile Rodgers](../../../topics/nile-rodgers/index.md), [Owen Husney](../../../topics/owen-husney/index.md), [Pepé Willie](../../../topics/pep-willie/index.md), [Prince: Chaos, Disorder, and Revolution (book)](../../../topics/book/prince-chaos-disorder-and-revolution/index.md), [St. Paul (place)](../../../topics/place/st-paul/index.md), [Steve Fargnoli](../../../topics/steve-fargnoli/index.md), [Stevie Wonder](../../../topics/stevie-wonder/index.md), [Super Bowl](../../../topics/super-bowl/index.md), [The Revolution](../../../topics/the-revolution/index.md)
@@ -72,8 +97,11 @@
 
 ----
 
- - [**"Prince Sued by Former Lawyer; Attorney Ed McPherson Wants $50,000"**](https://www.cbsnews.com/news/prince-sued-by-former-lawyer-attorney-ed-mcpherson-wants-50000/)
+## 2010 (1)
 
+### 2010 August (1)
+
+ - [**"Prince Sued by Former Lawyer; Attorney Ed McPherson Wants $50,000"**](https://www.cbsnews.com/news/prince-sued-by-former-lawyer-attorney-ed-mcpherson-wants-50000/)
     - in [CBS News](https://www.cbsnews.com/)
     - on 5 August 2010
     - about [Ed McPherson](../../../topics/ed-mcpherson/index.md), [lawsuit](../../../topics/lawsuit/index.md), [Los Angeles (place)](../../../topics/place/los-angeles/index.md), [NPG Records](../../../topics/npg-records/index.md), [Paisley Park Enterprises](../../../topics/paisley-park-enterprises/index.md), [TMZ (website)](../../../topics/website/tmz/index.md), [Vigliano Associates, LTD](../../../topics/vigliano-associates-ltd/index.md)
@@ -81,8 +109,11 @@
 
 ----
 
- - [**"Prince’s ex-manager sues law firm for $5 mil"**](https://variety.com/1992/biz/news/prince-s-ex-manager-sues-law-firm-for-5-mil-100482/)
+## 1992 (1)
 
+### 1992 November (1)
+
+ - [**"Prince’s ex-manager sues law firm for $5 mil"**](https://variety.com/1992/biz/news/prince-s-ex-manager-sues-law-firm-for-5-mil-100482/)
     - in [Variety](https://variety.com/)
     - on 10 November 1992
     - about [Creative Artists Agency](../../../topics/creative-artists-agency/index.md), [Gary Stiffelman](../../../topics/gary-stiffelman/index.md), [John Branca](../../../topics/john-branca/index.md), [Los Angeles (place)](../../../topics/place/los-angeles/index.md), [Manatt, Phelps, Rothenber & Phillips](../../../topics/manatt-phelps-rothenber-phillips/index.md), [Skip Brittenham](../../../topics/skip-brittenham/index.md), [Steve Fargnoli](../../../topics/steve-fargnoli/index.md), [Ziffren, Brittenham & Branca](../../../topics/ziffren-brittenham-branca/index.md)
@@ -90,8 +121,11 @@
 
 ----
 
- - [**"PRINCE EX-MANAGER SUES, SAYS ‘JUGHEAD’ ABOUT HIM"**](https://www.orlandosentinel.com/1991/12/24/prince-ex-manager-sues-says-jughead-about-him/)
+## 1991 (1)
 
+### 1991 December (1)
+
+ - [**"PRINCE EX-MANAGER SUES, SAYS ‘JUGHEAD’ ABOUT HIM"**](https://www.orlandosentinel.com/1991/12/24/prince-ex-manager-sues-says-jughead-about-him/)
     - in [www.orlandosentinel.com](https://www.orlandosentinel.com/)
     - on 24 December 1991
     - about [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Diamonds and Pearls (song)](../../../topics/song/diamonds-and-pearls/index.md), [Jill Willis](../../../topics/jill-willis/index.md), [Jughead (song)](../../../topics/song/jughead/index.md), [lawsuit](../../../topics/lawsuit/index.md), [Los Angeles (place)](../../../topics/place/los-angeles/index.md), [Paisley Park Enterprises](../../../topics/paisley-park-enterprises/index.md), [Steve Fargnoli](../../../topics/steve-fargnoli/index.md)

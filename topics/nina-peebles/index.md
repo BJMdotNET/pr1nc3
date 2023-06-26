@@ -1,5 +1,9 @@
 # Nina Peebles
 
+## 2014 (1)
+
+### 2014 July (1)
+
  - [**"Apollonia shares her near-death experience on the set of Purple Rain"**](https://blog.thecurrent.org/2014/07/apollonia-shares-her-near-death-experience-on-the-set-of-purple-rain/)
     - by [Andrea Swensson](../../authors/andrea-swensson/index.md)
     - in [The Current - Local Current Blog](https://blog.thecurrent.org/)

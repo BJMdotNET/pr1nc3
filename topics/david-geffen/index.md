@@ -1,5 +1,9 @@
 # David Geffen
 
+## 2019 (1)
+
+### 2019 June (1)
+
  - [**"Prince Originals: exclusive interview with muse and collaborator Susannah Melvoin -- As Prince rarities finally become available on the Originals album, we speak to the woman who inspired Nothing Compares 2 U."**](https://www.officialcharts.com/chart-news/prince-originals-exclusive-interview-with-muse-and-collaborator-susannah-melvoin__26670/)
     - by [Martin Talbot](../../authors/martin-talbot/index.md)
     - in [Official Charts](https://www.officialcharts.com/)

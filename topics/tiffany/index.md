@@ -1,5 +1,9 @@
 # Tiffany
 
+## 2017 (1)
+
+### 2017 January (1)
+
  - [**"Unsealed Prince divorce file shows luxe lifestyle, dispute over videos, jewels and photos -- The Star Tribune moved to unseal the files after questioning whether they would shed light on why Prince was taking painkillers, any potential heirs, or the value of his estate."**](https://www.startribune.com/unsealed-prince-divorce-file-shows-luxe-lifestyle-dispute-over-videos-jewels-and-photos/410652845/)
     - by [David Chanen](../../authors/david-chanen/index.md), [Rochelle Olson](../../authors/rochelle-olson/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)

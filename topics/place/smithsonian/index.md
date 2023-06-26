@@ -1,16 +1,18 @@
 # Smithsonian (place)
 
- - [**"First steps made in Congress to honor pop superstar Prince"**](https://apnews.com/article/entertainment-music-arts-and-entertainment-minnesota-prince-6a73615b938784bc1208dbf0c175ac9d)
+## 2021 (2)
 
+### 2021 October (2)
+
+ - [**"First steps made in Congress to honor pop superstar Prince"**](https://apnews.com/article/entertainment-music-arts-and-entertainment-minnesota-prince-6a73615b938784bc1208dbf0c175ac9d)
     - in [Associated Press News](https://apnews.com/)
     - on 25 October 2021
     - about [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Smithsonian (place)](../../../topics/place/smithsonian/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/entertainment-music-arts-and-entertainment-minnesota-prince-6a73615b938784bc1208dbf0c175ac9d))
 
-----
+<br />
 
  - [**"Minnesota: Legisladores piden a Congreso medalla para Prince"**](https://apnews.com/article/espectaculos-8e60df3c9df2d7a38992e6e5b001e46d)
-
     - in [Associated Press News](https://apnews.com/)
     - on 25 October 2021
     - about [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Smithsonian (place)](../../../topics/place/smithsonian/index.md), [The Black Album (album)](../../../topics/album/the-black-album/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
@@ -18,14 +20,21 @@
 
 ----
 
- - [**"Star Tribune's 2019 Artists of the Year -- Meet the Minnesotans at the heart of the year's most groundbreaking show."**](https://www.startribune.com/6-minnesotans-are-2019-artists-of-the-year/564924782/)
+## 2020 (1)
 
+### 2020 January (1)
+
+ - [**"Star Tribune's 2019 Artists of the Year -- Meet the Minnesotans at the heart of the year's most groundbreaking show."**](https://www.startribune.com/6-minnesotans-are-2019-artists-of-the-year/564924782/)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 6 January 2020
     - about [1999 (album)](../../../topics/album/1999/index.md), [ASCAP](../../../topics/ascap/index.md), [Ava DuVernay](../../../topics/ava-duvernay/index.md), [Bangles](../../../topics/bangles/index.md), [Bob Dylan](../../../topics/bob-dylan/index.md), [Dakota (place)](../../../topics/place/dakota/index.md), [exhibit](../../../topics/exhibit/index.md), [exhibition](../../../topics/exhibition/index.md), [Kenny Rogers](../../../topics/kenny-rogers/index.md), [lawsuit](../../../topics/lawsuit/index.md), [Lizzo](../../../topics/lizzo/index.md), [memoir](../../../topics/memoir/index.md), [Minneapolis Institute of Art](../../../topics/minneapolis-institute-of-art/index.md), [museum](../../../topics/museum/index.md), [Netflix](../../../topics/netflix/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Rearrange (song)](../../../topics/song/rearrange/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [Smithsonian (place)](../../../topics/place/smithsonian/index.md), [The Beautiful Ones (book)](../../../topics/book/the-beautiful-ones/index.md), [University of Minnesota](../../../topics/university-of-minnesota/index.md), [vault](../../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/6-minnesotans-are-2019-artists-of-the-year/564924782/))
 
 ----
+
+## 2019 (1)
+
+### 2019 July (1)
 
  - [**"14 things to do in the D.C. area this week"**](https://www.washingtonpost.com/dc-md-va/2019/07/22/things-do-dc-area-this-week/)
     - by [Going Out Guide staff](../../../authors/going-out-guide-staff/index.md)
@@ -36,17 +45,19 @@
 
 ----
 
- - [**"The Cloud Bass"**](https://madcatsandclouds.com/2018/12/30/the-cloud-bass/)
+## 2018 (2)
 
+### 2018 December (2)
+
+ - [**"The Cloud Bass"**](https://madcatsandclouds.com/2018/12/30/the-cloud-bass/)
     - in [Madcats & Clouds](https://madcatsandclouds.com/)
     - on 30 December 2018
     - about [Andre Cymone](../../../topics/andre-cymone/index.md), [Andrea Swensson](../../../topics/andrea-swensson/index.md), [Cloud bass](../../../topics/cloud-bass/index.md), [Cloud guitar (instrument)](../../../topics/instrument/cloud-guitar/index.md), [exhibit](../../../topics/exhibit/index.md), [exhibition](../../../topics/exhibition/index.md), [For You (album)](../../../topics/album/for-you/index.md), [Jeffrey Levin](../../../topics/jeffrey-levin/index.md), [Knut-Koupée Music](../../../topics/knut-koup-e-music/index.md), [Matt Umanov](../../../topics/matt-umanov/index.md), [Matt Umanov Guitars](../../../topics/matt-umanov-guitars/index.md), [museum](../../../topics/museum/index.md), [My Name Is Prince (exhibition)](../../../topics/exhibition/my-name-is-prince/index.md), [Owen Husney](../../../topics/owen-husney/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md), [Record Plant](../../../topics/record-plant/index.md), [Sardonyx](../../../topics/sardonyx/index.md), [Sausalito (place)](../../../topics/place/sausalito/index.md), [Smithsonian (place)](../../../topics/place/smithsonian/index.md)
     - ([mirror](https://web.archive.org/web/*/https://madcatsandclouds.com/2018/12/30/the-cloud-bass/))
 
-----
+<br />
 
  - [**"Prince estate goes after Cloud guitar designer -- Sooner or later, we all hear from Prince’s lawyers."**](http://www.citypages.com/music/prince-estate-goes-after-cloud-guitar-designer/502027422)
-
     - in [City Pages](http://www.citypages.com/)
     - on 6 December 2018
     - about [André Cymone](../../../topics/andr-cymone/index.md), [Cloud guitar (instrument)](../../../topics/instrument/cloud-guitar/index.md), [Comerica](../../../topics/comerica/index.md), [Comerica Bank & Trust](../../../topics/comerica-bank-trust/index.md), [Dave Rusan](../../../topics/dave-rusan/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [Smithsonian (place)](../../../topics/place/smithsonian/index.md), [trademark](../../../topics/trademark/index.md)
@@ -54,8 +65,11 @@
 
 ----
 
- - [**"Dave Rusan: Building Prince’s Cloud Guitar"**](https://www.premierguitar.com/articles/24199-dave-rusan-building-princes-cloud-guitar)
+## 2016 (2)
 
+### 2016 June (1)
+
+ - [**"Dave Rusan: Building Prince’s Cloud Guitar"**](https://www.premierguitar.com/articles/24199-dave-rusan-building-princes-cloud-guitar)
     - in [Premier Guitar](https://www.premierguitar.com/)
     - on 10 June 2016
     - about [André Cymone](../../../topics/andr-cymone/index.md), [Bobby Z.](../../../topics/bobby-z/index.md), [Cloud guitar (instrument)](../../../topics/instrument/cloud-guitar/index.md), [contract](../../../topics/contract/index.md), [Dave Rusan](../../../topics/dave-rusan/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Knut-Koupée Music](../../../topics/knut-koup-e-music/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Matt Fink](../../../topics/matt-fink/index.md), [Morris Day](../../../topics/morris-day/index.md), [Morris Day and The Time](../../../topics/morris-day-and-the-time/index.md), [Prince and The Revolution](../../../topics/prince-and-the-revolution/index.md), [Raspberry Beret (song)](../../../topics/song/raspberry-beret/index.md), [Sardonyx](../../../topics/sardonyx/index.md), [Sausalito (place)](../../../topics/place/sausalito/index.md), [Smithsonian (place)](../../../topics/place/smithsonian/index.md), [The Revolution](../../../topics/the-revolution/index.md)
@@ -63,8 +77,9 @@
 
 ----
 
- - [**"Dave Rusan: The Story Behind Prince’s Infamous Purple Rain Guitar -- Featuring The Guy Who Made It, Dave Rusan"**](https://artistwaves.com/dave-rusan-the-story-behind-princes-infamous-purple-rain-guitar/)
+### 2016 April (1)
 
+ - [**"Dave Rusan: The Story Behind Prince’s Infamous Purple Rain Guitar -- Featuring The Guy Who Made It, Dave Rusan"**](https://artistwaves.com/dave-rusan-the-story-behind-princes-infamous-purple-rain-guitar/)
     - in [Artist Waves](https://artistwaves.com/)
     - on 27 April 2016
     - about [Cloud guitar (instrument)](../../../topics/instrument/cloud-guitar/index.md), [museum](../../../topics/museum/index.md), [Smithsonian (place)](../../../topics/place/smithsonian/index.md)

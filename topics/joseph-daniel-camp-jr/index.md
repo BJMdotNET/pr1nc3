@@ -1,5 +1,9 @@
 # Joseph Daniel Camp Jr.
 
+## 2016 (1)
+
+### 2016 August (1)
+
  - [**"Who's family? Sibling question at heart of Prince estate case -- Genetic testing to settle issue of whether Prince and his half-brother Duane shared a father."**](https://www.startribune.com/who-s-family-sibling-question-at-heart-of-prince-estate-case/389316281/)
     - by [Dan Browning](../../authors/dan-browning/index.md), [Emma Nelson](../../authors/emma-nelson/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)

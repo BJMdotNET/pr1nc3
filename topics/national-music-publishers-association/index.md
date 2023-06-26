@@ -1,5 +1,9 @@
 # National Music Publishers’ Association
 
+## 2023 (1)
+
+### 2023 May (1)
+
  - [**"Supreme Court Rules Against Andy Warhol In Big Copyright Case Over Prince Images -- Music companies feared that a decision for Warhol could have disrupted industry practices for sampling or emboldened AI companies to use copyrighted songs."**](https://www.billboard.com/pro/andy-warhol-prince-supreme-court-copyright-case-ruling/)
     - by [Bill Donahue](../../authors/bill-donahue/index.md)
     - in [Billboard](https://www.billboard.com/)

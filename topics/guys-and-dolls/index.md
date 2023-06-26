@@ -1,5 +1,9 @@
 # Guys and Dolls
 
+## 2019 (1)
+
+### 2019 July (1)
+
  - [**"Designer Laura LiPuma Nash talks directing Prince’s iconic album packages from ‘Purple Rain’ to ‘Lovesexy’"**](https://blog.thecurrent.org/2019/07/designer-laura-lipuma-nash-talks-directing-princes-iconic-album-packages-from-purple-rain-to-lovesexy/)
     - by [Lydia Moran](../../authors/lydia-moran/index.md)
     - in [The Current - Local Current Blog](https://blog.thecurrent.org/)

@@ -1,7 +1,10 @@
 # Piano and a Microphone (tour)
 
- - [**"10 curious things we learned about Prince from the investigations"**](https://apnews.com/article/91169244809e4c47868a02ad4e6e9e7d)
+## 2018 (1)
 
+### 2018 April (1)
+
+ - [**"10 curious things we learned about Prince from the investigations"**](https://apnews.com/article/91169244809e4c47868a02ad4e6e9e7d)
     - in [Associated Press News](https://apnews.com/)
     - on 20 April 2018
     - about [Atlanta (place)](../../../topics/place/atlanta/index.md), [Carver County](../../../topics/carver-county/index.md), [CeeLo Green](../../../topics/ceelo-green/index.md), [Chaka Khan](../../../topics/chaka-khan/index.md), [Esperanza Spalding](../../../topics/esperanza-spalding/index.md), [Fox Theatre (place)](../../../topics/place/fox-theatre/index.md), [Illinois (place)](../../../topics/place/illinois/index.md), [Janelle Monae](../../../topics/janelle-monae/index.md), [Judith Hill](../../../topics/judith-hill/index.md), [Kirk Johnson](../../../topics/kirk-johnson/index.md), [Larry Graham](../../../topics/larry-graham/index.md), [North Memorial Medical Center (place)](../../../topics/place/north-memorial-medical-center/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Peter Vang](../../../topics/peter-vang/index.md), [Phaedra Ellis Lamkin](../../../topics/phaedra-ellis-lamkin/index.md), [Piano and a Microphone (tour)](../../../topics/tour/piano-and-a-microphone/index.md), [Rita Ora](../../../topics/rita-ora/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [U Got the Look (song)](../../../topics/song/u-got-the-look/index.md)
@@ -9,32 +12,33 @@
 
 ----
 
- - [**"Prince’s custom-made purple piano was to go on tour with him"**](https://apnews.com/article/4c8a40da6f114d688b414ab7305b9e8f)
+## 2016 (4)
 
+### 2016 April (4)
+
+ - [**"Prince’s custom-made purple piano was to go on tour with him"**](https://apnews.com/article/4c8a40da6f114d688b414ab7305b9e8f)
     - in [Associated Press News](https://apnews.com/)
     - on 24 April 2016
     - about [Chris Gero](../../../topics/chris-gero/index.md), [Piano and a Microphone (tour)](../../../topics/tour/piano-and-a-microphone/index.md), [Yamaha Entertainment Group](../../../topics/yamaha-entertainment-group/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/4c8a40da6f114d688b414ab7305b9e8f))
 
-----
+<br />
 
  - [**"Prince iba a salir de gira con piano morado personalizado"**](https://apnews.com/article/archive-1f4284758f1c4fac9244e5ccdbadfadb)
-
     - in [Associated Press News](https://apnews.com/)
     - on 23 April 2016
     - about [Chris Gero](../../../topics/chris-gero/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Piano and a Microphone (tour)](../../../topics/tour/piano-and-a-microphone/index.md), [Yamaha Entertainment Group](../../../topics/yamaha-entertainment-group/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/archive-1f4284758f1c4fac9244e5ccdbadfadb))
 
-----
+<br />
 
  - [**"The rearview mirror rehinged: how Prince's early years formed his legend -- Prince preferred not to talk about his past but vignettes of his past – from his father playing the piano in a strip club to his producer introducing him to the double entendre – undeniably shaped the innate talent that led to great success"**](https://www.theguardian.com/music/2016/apr/23/prince-death-early-years-formed-music-legend)
-
     - in [The Guardian](https://www.theguardian.com/)
     - on 23 April 2016
     - about [94 East](../../../topics/94-east/index.md), [Andre Cymone](../../../topics/andre-cymone/index.md), [Chris Moon](../../../topics/chris-moon/index.md), [Jimmy Jam](../../../topics/jimmy-jam/index.md), [Kenny Rogers](../../../topics/kenny-rogers/index.md), [Morris Day](../../../topics/morris-day/index.md), [Pepe Willie](../../../topics/pepe-willie/index.md), [performing rights](../../../topics/performing-rights/index.md), [Piano and a Microphone (tour)](../../../topics/tour/piano-and-a-microphone/index.md), [Soft and Wet (song)](../../../topics/song/soft-and-wet/index.md), [Terry Lewis](../../../topics/terry-lewis/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/music/2016/apr/23/prince-death-early-years-formed-music-legend))
 
-----
+<br />
 
  - [**"These Fabulous Photos Capture Prince’s Singular Essence -- No matter what the occasion, Prince could be counted on to look fabulous."**](https://news.artnet.com/art-world/photos-of-musician-prince-478703)
     - by [Sarah Cascone](../../../authors/sarah-cascone/index.md)
@@ -44,6 +48,10 @@
     - ([mirror](https://web.archive.org/web/*/https://news.artnet.com/art-world/photos-of-musician-prince-478703))
 
 ----
+
+## 2015 (1)
+
+### 2015 November (1)
 
  - [**"Because of the Paris attacks, Prince postpones his solo piano tour of Europe"**](https://www.startribune.com/because-of-the-paris-attacks-prince-postpones-his-solo-piano-tour-of-europe/350921721/)
     - by [Jon Bream](../../../authors/jon-bream/index.md)

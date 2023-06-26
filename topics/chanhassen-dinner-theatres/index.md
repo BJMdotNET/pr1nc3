@@ -1,5 +1,9 @@
 # Chanhassen Dinner Theatres
 
+## 2023 (1)
+
+### 2023 June (1)
+
  - [**"Why did Prince decide to live in Chanhassen? -- The Minneapolis native's legacy will forever be linked to his state-of-the-art suburban playground, Paisley Park."**](https://www.startribune.com/prince-minneapolis-chanhassen-paisley-park-andre-cymone-morris-day-bobby-z/600281369/)
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
@@ -9,8 +13,11 @@
 
 ----
 
- - [**"Sister act: Minneapolis actors return from New York to play siblings in dark comedy ‘Peerless’"**](https://www.twincities.com/2020/01/31/sister-act-minneapolis-actors-return-from-new-york-to-play-siblings-in-dark-comedy-peerless/)
+## 2020 (1)
 
+### 2020 January (1)
+
+ - [**"Sister act: Minneapolis actors return from New York to play siblings in dark comedy ‘Peerless’"**](https://www.twincities.com/2020/01/31/sister-act-minneapolis-actors-return-from-new-york-to-play-siblings-in-dark-comedy-peerless/)
     - in [TwinCities.com - Pioneer Press](https://www.twincities.com/)
     - on 31 January 2020
     - about [Chanhassen Dinner Theatres](../../topics/chanhassen-dinner-theatres/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md)
@@ -18,14 +25,19 @@
 
 ----
 
- - [**"From Prince to Dessa to Dylan, here are five homegrown musical gift ideas"**](https://www.twincities.com/2019/12/12/from-prince-to-dessa-to-dylan-here-are-five-homegrown-musical-gift-ideas/)
+## 2019 (2)
 
+### 2019 December (1)
+
+ - [**"From Prince to Dessa to Dylan, here are five homegrown musical gift ideas"**](https://www.twincities.com/2019/12/12/from-prince-to-dessa-to-dylan-here-are-five-homegrown-musical-gift-ideas/)
     - in [TwinCities.com - Pioneer Press](https://www.twincities.com/)
     - on 12 December 2019
     - about [Andrea Swensson](../../topics/andrea-swensson/index.md), [Bob Dylan](../../topics/bob-dylan/index.md), [bootleg](../../topics/bootleg/index.md), [Chanhassen Dinner Theatres](../../topics/chanhassen-dinner-theatres/index.md), [David Fricke](../../topics/david-fricke/index.md), [Duane Tudahl](../../topics/duane-tudahl/index.md), [Duff McKagan](../../topics/duff-mckagan/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Minnesota Historical Society](../../topics/minnesota-historical-society/index.md), [motorcycle](../../topics/motorcycle/index.md), [Pop Life (song)](../../topics/song/pop-life/index.md), [The Revolution](../../topics/the-revolution/index.md), [vault](../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2019/12/12/from-prince-to-dessa-to-dylan-here-are-five-homegrown-musical-gift-ideas/))
 
 ----
+
+### 2019 July (1)
 
  - [**"Designer Laura LiPuma Nash talks directing Prince’s iconic album packages from ‘Purple Rain’ to ‘Lovesexy’"**](https://blog.thecurrent.org/2019/07/designer-laura-lipuma-nash-talks-directing-princes-iconic-album-packages-from-purple-rain-to-lovesexy/)
     - by [Lydia Moran](../../authors/lydia-moran/index.md)
@@ -36,6 +48,10 @@
 
 ----
 
+## 2016 (2)
+
+### 2016 March (2)
+
  - [**"A purple-tie affair?"**](https://www.startribune.com/a-purple-tie-affair/372125381/)
     - by [Rohan Preston](../../authors/rohan-preston/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
@@ -43,7 +59,7 @@
     - about [Chanhassen Dinner Theatres](../../topics/chanhassen-dinner-theatres/index.md), [Mixed Blood](../../topics/mixed-blood/index.md), [Paisley Park Studios (place)](../../topics/place/paisley-park-studios/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/a-purple-tie-affair/372125381/))
 
-----
+<br />
 
  - [**"Prince gives surprise (brief) performance at Chanhassen Dinner Theatres"**](https://www.startribune.com/prince-gives-surprise-brief-performance-at-chanhassen-dinner-theatres/371944961/)
     - by [Jon Bream](../../authors/jon-bream/index.md)

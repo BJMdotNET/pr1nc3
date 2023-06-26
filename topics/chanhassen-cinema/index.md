@@ -1,7 +1,10 @@
 # Chanhassen Cinema
 
- - [**"Prince: The Story of 1999, Episode 3: The Idolmaker"**](https://www.thecurrent.org/feature/2019/12/03/prince-the-story-of-1999-episode-3-the-idolmaker-swensson)
+## 2019 (3)
 
+### 2019 December (1)
+
+ - [**"Prince: The Story of 1999, Episode 3: The Idolmaker"**](https://www.thecurrent.org/feature/2019/12/03/prince-the-story-of-1999-episode-3-the-idolmaker-swensson)
     - in [The Current](https://www.thecurrent.org/)
     - on 3 December 2019
     - about [1999 (album)](../../topics/album/1999/index.md), [1999 Super Deluxe (album)](../../topics/album/1999-super-deluxe/index.md), [Allen Beaulieu](../../topics/allen-beaulieu/index.md), [Andrea Swensson](../../topics/andrea-swensson/index.md), [Apollonia 6](../../topics/apollonia-6/index.md), [Bold Generation (song)](../../topics/song/bold-generation/index.md), [Chanhassen Cinema](../../topics/chanhassen-cinema/index.md), [Denise Matthews](../../topics/denise-matthews/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [Don't Let Him Fool Ya (song)](../../topics/song/don-t-let-him-fool-ya/index.md), [Duane Tudahl](../../topics/duane-tudahl/index.md), [George Clinton](../../topics/george-clinton/index.md), [Jamie Starr](../../topics/jamie-starr/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [memoir](../../topics/memoir/index.md), [Michael Howe](../../topics/michael-howe/index.md), [Morris Day](../../topics/morris-day/index.md), [Nasty Girl (song)](../../topics/song/nasty-girl/index.md), [New Power Generation (song)](../../topics/song/new-power-generation/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Prince: The Story of 1999](../../topics/prince-the-story-of-1999/index.md), [Sly Stone](../../topics/sly-stone/index.md), [Spotify](../../topics/spotify/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Starr Company](../../topics/the-starr-company/index.md), [Vagina (song)](../../topics/song/vagina/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md)
@@ -9,14 +12,15 @@
 
 ----
 
- - [**"Prince co-author details 'extremely unlikely' story behind new memoir in New Yorker article"**](https://www.startribune.com/prince-co-author-details-extremely-unlikely-story-behind-new-memoir-in-new-yorker-article/559478242/)
+### 2019 September (2)
 
+ - [**"Prince co-author details 'extremely unlikely' story behind new memoir in New Yorker article"**](https://www.startribune.com/prince-co-author-details-extremely-unlikely-story-behind-new-memoir-in-new-yorker-article/559478242/)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 5 September 2019
     - about [Atlanta (place)](../../topics/place/atlanta/index.md), [Chanhassen Cinema](../../topics/chanhassen-cinema/index.md), [Country Inn & Suites (place)](../../topics/place/country-inn-suites/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [John Nelson](../../topics/john-nelson/index.md), [memoir](../../topics/memoir/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Random House](../../topics/random-house/index.md), [Raspberry Beret (song)](../../topics/song/raspberry-beret/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Ballad Of Dorothy Parker (song)](../../topics/song/the-ballad-of-dorothy-parker/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-co-author-details-extremely-unlikely-story-behind-new-memoir-in-new-yorker-article/559478242/))
 
-----
+<br />
 
  - [**"The Book of Prince -- Prince had grand plans for his autobiography, but only a few months to live."**](https://www.newyorker.com/magazine/2019/09/09/the-book-of-prince)
     - by [Dan Piepenbring](../../authors/dan-piepenbring/index.md)

@@ -1,5 +1,9 @@
 # Sign O' The Times (album)
 
+## 2023 (1)
+
+### 2023 June (1)
+
  - [**"Why did Prince decide to live in Chanhassen? -- The Minneapolis native's legacy will forever be linked to his state-of-the-art suburban playground, Paisley Park."**](https://www.startribune.com/prince-minneapolis-chanhassen-paisley-park-andre-cymone-morris-day-bobby-z/600281369/)
     - by [Jon Bream](../../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
@@ -9,8 +13,11 @@
 
 ----
 
- - [**"The Prince Estate Drops Unreleased Track 'I Could Never Take the Place of Your Man (1979 Version)'"**](https://www.billboard.com/articles/columns/pop/9419861/prince-unreleased-track-i-could-never-take-the-place-of-your-man-1979-version)
+## 2020 (2)
 
+### 2020 July (1)
+
+ - [**"The Prince Estate Drops Unreleased Track 'I Could Never Take the Place of Your Man (1979 Version)'"**](https://www.billboard.com/articles/columns/pop/9419861/prince-unreleased-track-i-could-never-take-the-place-of-your-man-1979-version)
     - in [Billboard](https://www.billboard.com/)
     - on 16 July 2020
     - about [I Could Never Take The Place Of Your Man (song)](../../../topics/song/i-could-never-take-the-place-of-your-man/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [Sign O' The Times (album)](../../../topics/album/sign-o-the-times/index.md), [The Prince Estate](../../../topics/the-prince-estate/index.md), [vault](../../../topics/vault/index.md)
@@ -18,14 +25,19 @@
 
 ----
 
- - [**"Prince's epic 'Sign o' the Times' to get super deluxe reissue on Sept. 25"**](https://www.startribune.com/prince-s-epic-sign-o-the-times-to-get-super-deluxe-reissue-on-sept-25/571488832/)
+### 2020 June (1)
 
+ - [**"Prince's epic 'Sign o' the Times' to get super deluxe reissue on Sept. 25"**](https://www.startribune.com/prince-s-epic-sign-o-the-times-to-get-super-deluxe-reissue-on-sept-25/571488832/)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 25 June 2020
     - about [Dave Chappelle](../../../topics/dave-chappelle/index.md), [Housequake (song)](../../../topics/song/housequake/index.md), [Jeff Katz](../../../topics/jeff-katz/index.md), [Lenny Kravitz](../../../topics/lenny-kravitz/index.md), [Love and Sex (song)](../../../topics/song/love-and-sex/index.md), [Miles Davis](../../../topics/miles-davis/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [Sign O' The Times (album)](../../../topics/album/sign-o-the-times/index.md), [Starfish And Coffee (song)](../../../topics/song/starfish-and-coffee/index.md), [The Prince Estate](../../../topics/the-prince-estate/index.md), [U Got the Look (song)](../../../topics/song/u-got-the-look/index.md), [vault](../../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-s-epic-sign-o-the-times-to-get-super-deluxe-reissue-on-sept-25/571488832/))
 
 ----
+
+## 2019 (1)
+
+### 2019 July (1)
 
  - [**"Designer Laura LiPuma Nash talks directing Prince’s iconic album packages from ‘Purple Rain’ to ‘Lovesexy’"**](https://blog.thecurrent.org/2019/07/designer-laura-lipuma-nash-talks-directing-princes-iconic-album-packages-from-purple-rain-to-lovesexy/)
     - by [Lydia Moran](../../../authors/lydia-moran/index.md)
@@ -36,8 +48,11 @@
 
 ----
 
- - [**"List of Grammy Award Nominees With PM-Grammy Awards"**](https://apnews.com/article/befe23b57930a9944343b1dc739a96b5)
+## 1988 (1)
 
+### 1988 January (1)
+
+ - [**"List of Grammy Award Nominees With PM-Grammy Awards"**](https://apnews.com/article/befe23b57930a9944343b1dc739a96b5)
     - in [Associated Press News](https://apnews.com/)
     - on 15 January 1988
     - about [Cyndi Lauper](../../../topics/cyndi-lauper/index.md), [Sign O' The Times (album)](../../../topics/album/sign-o-the-times/index.md)

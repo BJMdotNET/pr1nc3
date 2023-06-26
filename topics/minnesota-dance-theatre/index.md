@@ -1,5 +1,9 @@
 # Minnesota Dance Theatre
 
+## 2017 (1)
+
+### 2017 April (1)
+
  - [**"Details of Prince's expanded 'Purple Rain' reissue revealed, coming June 23"**](https://www.startribune.com/details-of-prince-s-expanded-purple-rain-reissue-revealed-coming-june-23/420722973/)
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
@@ -8,6 +12,10 @@
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/details-of-prince-s-expanded-purple-rain-reissue-revealed-coming-june-23/420722973/))
 
 ----
+
+## 2009 (1)
+
+### 2009 July (1)
 
  - [**"Purple’ afterglow: 25 years ago, film and soundtrack turned Prince into a megastar"**](https://www.bostonherald.com/2009/07/31/purple-afterglow-25-years-ago-film-and-soundtrack-turned-prince-into-a-megastar/)
     - by [Jon Bream](../../authors/jon-bream/index.md)

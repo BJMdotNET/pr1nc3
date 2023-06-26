@@ -1,5 +1,9 @@
 # Raffles Van Exel
 
+## 2020 (2)
+
+### 2020 February (2)
+
  - [**"Prince estate fight gets even thornier with heir's death and will"**](https://www.bizjournals.com/twincities/news/2020/02/23/prince-estate-fight-gets-even-thornier-with-heirs.html)
     - by [Mark Reilly](../../authors/mark-reilly/index.md)
     - in [Minneapolis / St. Paul Business Journal](https://www.bizjournals.com/twincities/)
@@ -7,7 +11,7 @@
     - about [Alfred Jackson](../../topics/alfred-jackson/index.md), [hologram](../../topics/hologram/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [museum](../../topics/museum/index.md), [Paisley Park Studios (place)](../../topics/place/paisley-park-studios/index.md), [Primary Wave](../../topics/primary-wave/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Raffles Van Exel](../../topics/raffles-van-exel/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Whitney Houston](../../topics/whitney-houston/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.bizjournals.com/twincities/news/2020/02/23/prince-estate-fight-gets-even-thornier-with-heirs.html))
 
-----
+<br />
 
  - [**"Death of Prince heir complicates estate settlement even more -- Nearly a third of Prince's estate could go to parties not related to him after two siblings signed agreements with Primary Wave."**](https://www.startribune.com/untimely-death-of-prince-heir-complicates-estate-settlement-even-more/568089142/)
     - by [Jon Bream](../../authors/jon-bream/index.md), [Mike Hughlett](../../authors/mike-hughlett/index.md)

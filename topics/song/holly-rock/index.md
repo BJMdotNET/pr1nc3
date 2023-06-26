@@ -1,13 +1,18 @@
 # Holly Rock (song)
 
- - [**"Prince and his lost comic book past get animated for a posthumous promo"**](https://www.digitalartsonline.co.uk/features/motion-graphics/prince-his-lost-comic-book-past-get-animated-for-posthumous-promo/)
+## 2019 (8)
 
+### 2019 September (1)
+
+ - [**"Prince and his lost comic book past get animated for a posthumous promo"**](https://www.digitalartsonline.co.uk/features/motion-graphics/prince-his-lost-comic-book-past-get-animated-for-posthumous-promo/)
     - in [Digital Arts](https://www.digitalartsonline.co.uk/)
     - on 27 September 2019
     - about [Electric Light Studios](../../../topics/electric-light-studios/index.md), [Holly Rock (song)](../../../topics/song/holly-rock/index.md), [Krush Groove (movie)](../../../topics/movie/krush-groove/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Prince: Alter Ego](../../../topics/prince-alter-ego/index.md), [Sheila E.](../../../topics/sheila-e/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.digitalartsonline.co.uk/features/motion-graphics/prince-his-lost-comic-book-past-get-animated-for-posthumous-promo/))
 
 ----
+
+### 2019 July (4)
 
  - [**"Fan-favourite ‘lost’ Prince song ‘Holly Rock’ is released as a single, with a brand-new video"**](https://www.nme.com/news/music/listen-new-prince-single-holly-rock-new-video-2532592)
     - by [Elizabeth Aubrey](../../../authors/elizabeth-aubrey/index.md)
@@ -16,34 +21,33 @@
     - about [Eye Records](../../../topics/eye-records/index.md), [Holly Rock (song)](../../../topics/song/holly-rock/index.md), [lawsuit](../../../topics/lawsuit/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Peggy McCreary](../../../topics/peggy-mccreary/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [Sunset Sound (place)](../../../topics/place/sunset-sound/index.md), [Susannah Melvoin](../../../topics/susannah-melvoin/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.nme.com/news/music/listen-new-prince-single-holly-rock-new-video-2532592))
 
-----
+<br />
 
  - [**"Watch: Music Video Released for Prince Single 'Holly Rock' -- Recorded in 1985 in LA, the song features on the Originals album which has been recently released by The Prince Estate."**](https://www.hotpress.com/music/watch-music-video-prince-single-holly-rock-22782924)
-
     - in [Hot Press](https://www.hotpress.com/)
     - on 26 July 2019
     - about [Holly Rock (song)](../../../topics/song/holly-rock/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [The Prince Estate](../../../topics/the-prince-estate/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.hotpress.com/music/watch-music-video-prince-single-holly-rock-22782924))
 
-----
+<br />
 
  - [**"New Single From Prince Released Off His Originals Album (Listen) -- The basic tracking for “Holly Rock” took place at Sunset Sound studios in Los Angeles at the end of April 1985"**](https://bassmagazine.com/artists/new-single-from-prince-released-off-his-originals-album)
-
     - in [Bass Magazine](https://bassmagazine.com/)
     - on 25 July 2019
     - about [Electric Light Studios](../../../topics/electric-light-studios/index.md), [Holly Rock (song)](../../../topics/song/holly-rock/index.md), [Jill Jones](../../../topics/jill-jones/index.md), [Krush Groove (movie)](../../../topics/movie/krush-groove/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [Sunset Sound (place)](../../../topics/place/sunset-sound/index.md), [The Prince Estate](../../../topics/the-prince-estate/index.md)
     - ([mirror](https://web.archive.org/web/*/https://bassmagazine.com/artists/new-single-from-prince-released-off-his-originals-album))
 
-----
+<br />
 
  - [**"Prince, nothing compares to the original"**](https://www.miradorarts.com/prince-nothing-compares-to-the-original/)
-
     - in [Mirador de les Arts](https://www.miradorarts.com/)
     - on 3 July 2019
     - about [Bangles](../../../topics/bangles/index.md), [Holly Rock (song)](../../../topics/song/holly-rock/index.md), [Jill Jones](../../../topics/jill-jones/index.md), [Kenny Rogers](../../../topics/kenny-rogers/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Martika](../../../topics/martika/index.md), [Michael Howe](../../../topics/michael-howe/index.md), [Originals (album review)](../../../topics/album-review/originals/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [The Family](../../../topics/the-family/index.md), [The Glamorous Life (song)](../../../topics/song/the-glamorous-life/index.md), [Vanity 6](../../../topics/vanity-6/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.miradorarts.com/prince-nothing-compares-to-the-original/))
 
 ----
+
+### 2019 June (3)
 
  - [**"Meet the man in charge of releasing Prince’s unheard songs from his private vault"**](https://thewest.com.au/entertainment/meet-the-man-in-charge-of-releasing-princes-unheard-songs-from-his-private-vault-ng-5844d5d8a68b1a7ddac6c4893ef8083f)
     - by [Cameron Adams](../../../authors/cameron-adams/index.md)
@@ -52,7 +56,7 @@
     - about [Bangles](../../../topics/bangles/index.md), [bootleg](../../../topics/bootleg/index.md), [Holly Rock (song)](../../../topics/song/holly-rock/index.md), [Jill Jones](../../../topics/jill-jones/index.md), [Joey Coco](../../../topics/joey-coco/index.md), [Jungle Love (song)](../../../topics/song/jungle-love/index.md), [Kenny Rogers](../../../topics/kenny-rogers/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Martika](../../../topics/martika/index.md), [Michael Howe](../../../topics/michael-howe/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Sheena Easton](../../../topics/sheena-easton/index.md), [The Family](../../../topics/the-family/index.md), [The Glamorous Life (song)](../../../topics/song/the-glamorous-life/index.md), [The Time](../../../topics/the-time/index.md), [vault](../../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://thewest.com.au/entertainment/meet-the-man-in-charge-of-releasing-princes-unheard-songs-from-his-private-vault-ng-5844d5d8a68b1a7ddac6c4893ef8083f))
 
-----
+<br />
 
  - [**"Prince songs: What is left in the secret vault after the singer’s death?"**](https://www.heraldsun.com.au/entertainment/meet-the-man-in-charge-of-releasing-princes-unheard-songs-from-his-private-vault/news-story/5844d5d8a68b1a7ddac6c4893ef8083f)
     - by [Cameron Adams](../../../authors/cameron-adams/index.md)
@@ -61,7 +65,7 @@
     - about [Bangles](../../../topics/bangles/index.md), [bootleg](../../../topics/bootleg/index.md), [Holly Rock (song)](../../../topics/song/holly-rock/index.md), [Jill Jones](../../../topics/jill-jones/index.md), [Joey Coco](../../../topics/joey-coco/index.md), [Jungle Love (song)](../../../topics/song/jungle-love/index.md), [Kenny Rogers](../../../topics/kenny-rogers/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Martika](../../../topics/martika/index.md), [Michael Howe](../../../topics/michael-howe/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Sheena Easton](../../../topics/sheena-easton/index.md), [The Family](../../../topics/the-family/index.md), [The Glamorous Life (song)](../../../topics/song/the-glamorous-life/index.md), [The Time](../../../topics/the-time/index.md), [vault](../../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.heraldsun.com.au/entertainment/meet-the-man-in-charge-of-releasing-princes-unheard-songs-from-his-private-vault/news-story/5844d5d8a68b1a7ddac6c4893ef8083f))
 
-----
+<br />
 
  - [**"Album Review: Prince’s ‘Originals’"**](https://variety.com/2019/music/reviews/album-review-princes-originals-1203249946/)
     - by [Jem Aswad](../../../authors/jem-aswad/index.md)

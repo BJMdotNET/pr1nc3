@@ -1,5 +1,9 @@
 # 1999 (tour)
 
+## 2019 (1)
+
+### 2019 November (1)
+
  - [**"Album review: Prince’s ’1999′ keeps on giving in 2019"**](https://www.chicagotribune.com/entertainment/music/greg-kot/ct-ent-prince-1999-box-set-review-20191119-qa756i52jbacfdye5jyro4w47u-story.html)
     - by [Greg Kot](../../../authors/greg-kot/index.md)
     - in [Chicago Tribune](https://www.chicagotribune.com/)

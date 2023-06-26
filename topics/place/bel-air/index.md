@@ -1,5 +1,9 @@
 # Bel Air (place)
 
+## 2019 (1)
+
+### 2019 July (1)
+
  - [**"$50 million LA mega-home where Prince once lived has its own subterranean entertainment complex and spa — look inside"**](https://www.cnbc.com/2019/07/12/photos-inside-multimillion-dollar-la-mansion-where-prince-once-lived.html)
     - by [Christopher DiLella](../../../authors/christopher-dilella/index.md)
     - in [CNBC](https://www.cnbc.com/)

@@ -1,5 +1,9 @@
 # California (place)
 
+## 2023 (1)
+
+### 2023 June (1)
+
  - [**"Why did Prince decide to live in Chanhassen? -- The Minneapolis native's legacy will forever be linked to his state-of-the-art suburban playground, Paisley Park."**](https://www.startribune.com/prince-minneapolis-chanhassen-paisley-park-andre-cymone-morris-day-bobby-z/600281369/)
     - by [Jon Bream](../../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
@@ -9,14 +13,21 @@
 
 ----
 
- - [**"Timeline of key events in investigation into Prince’s death"**](https://apnews.com/article/c6322559d0574b51a99f43da1d26f8d0)
+## 2018 (1)
 
+### 2018 April (1)
+
+ - [**"Timeline of key events in investigation into Prince’s death"**](https://apnews.com/article/c6322559d0574b51a99f43da1d26f8d0)
     - in [Associated Press News](https://apnews.com/)
     - on 18 April 2018
     - about [Andrew Kornfeld](../../../topics/andrew-kornfeld/index.md), [Atlanta (place)](../../../topics/place/atlanta/index.md), [California (place)](../../../topics/place/california/index.md), [Carver County](../../../topics/carver-county/index.md), [fentanyl](../../../topics/fentanyl/index.md), [Howard Kornfeld](../../../topics/howard-kornfeld/index.md), [Illinois (place)](../../../topics/place/illinois/index.md), [Kirk Johnson](../../../topics/kirk-johnson/index.md), [lawsuit](../../../topics/lawsuit/index.md), [Mark Metz](../../../topics/mark-metz/index.md), [Michael Schulenberg](../../../topics/michael-schulenberg/index.md), [Moline, Illinois (place)](../../../topics/place/moline-illinois/index.md), [opioid](../../../topics/opioid/index.md), [oxycodone](../../../topics/oxycodone/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Percocet](../../../topics/percocet/index.md), [toxicology report](../../../topics/toxicology-report/index.md), [U-47700](../../../topics/u-47700/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/c6322559d0574b51a99f43da1d26f8d0))
 
 ----
+
+## 2017 (3)
+
+### 2017 October (2)
 
  - [**"APNewsBreak: Prince tapes moved to California; 2 heirs angry"**](https://apnews.com/7fc066b10aa546e2977a0a85fc8ecb3b)
     - by [Steve Karnowski (Associated Press)](../../../authors/associated-press/steve-karnowski/index.md)
@@ -25,7 +36,7 @@
     - about [Alfred Jackson](../../../topics/alfred-jackson/index.md), [California (place)](../../../topics/place/california/index.md), [Carver County](../../../topics/carver-county/index.md), [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Comerica](../../../topics/comerica/index.md), [Comerica Bank & Trust](../../../topics/comerica-bank-trust/index.md), [Iron Mountain](../../../topics/iron-mountain/index.md), [Iron Mountain Entertainment Services](../../../topics/iron-mountain-entertainment-services/index.md), [John R. Nelson](../../../topics/john-r-nelson/index.md), [Kevin Eide](../../../topics/kevin-eide/index.md), [Los Angeles (place)](../../../topics/place/los-angeles/index.md), [Norrine Nelson](../../../topics/norrine-nelson/index.md), [Omarr Baker](../../../topics/omarr-baker/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Sharon Nelson](../../../topics/sharon-nelson/index.md), [Tyka Nelson](../../../topics/tyka-nelson/index.md), [vault](../../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/7fc066b10aa546e2977a0a85fc8ecb3b))
 
-----
+<br />
 
  - [**"Prince tapes moved to California; 2 heirs angry"**](https://www.startribune.com/apnewsbreak-prince-tapes-moved-to-california-heirs-miffed/450496873/)
     - by [Steve Karnowski (Associated Press)](../../../authors/associated-press/steve-karnowski/index.md)
@@ -36,6 +47,8 @@
 
 ----
 
+### 2017 January (1)
+
  - [**"Unsealed Prince divorce file shows luxe lifestyle, dispute over videos, jewels and photos -- The Star Tribune moved to unseal the files after questioning whether they would shed light on why Prince was taking painkillers, any potential heirs, or the value of his estate."**](https://www.startribune.com/unsealed-prince-divorce-file-shows-luxe-lifestyle-dispute-over-videos-jewels-and-photos/410652845/)
     - by [David Chanen](../../../authors/david-chanen/index.md), [Rochelle Olson](../../../authors/rochelle-olson/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
@@ -45,8 +58,11 @@
 
 ----
 
- - [**"Admiradores piden música de bóveda de Prince"**](https://apnews.com/article/2fd8bfebd0284a1b893a84abbc165d03)
+## 2016 (1)
 
+### 2016 April (1)
+
+ - [**"Admiradores piden música de bóveda de Prince"**](https://apnews.com/article/2fd8bfebd0284a1b893a84abbc165d03)
     - in [Associated Press News](https://apnews.com/)
     - on 28 April 2016
     - about [Bangles](../../../topics/bangles/index.md), [Bob Dylan](../../../topics/bob-dylan/index.md), [Bremer Trust](../../../topics/bremer-trust/index.md), [California (place)](../../../topics/place/california/index.md), [Mavis Staples](../../../topics/mavis-staples/index.md), [Michael Jackson](../../../topics/michael-jackson/index.md), [Miles Davis](../../../topics/miles-davis/index.md), [Touré](../../../topics/tour/index.md), [Tyka Nelson](../../../topics/tyka-nelson/index.md)

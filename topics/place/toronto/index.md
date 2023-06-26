@@ -1,5 +1,9 @@
 # Toronto (place)
 
+## 2023 (1)
+
+### 2023 June (1)
+
  - [**"Why did Prince decide to live in Chanhassen? -- The Minneapolis native's legacy will forever be linked to his state-of-the-art suburban playground, Paisley Park."**](https://www.startribune.com/prince-minneapolis-chanhassen-paisley-park-andre-cymone-morris-day-bobby-z/600281369/)
     - by [Jon Bream](../../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
@@ -9,17 +13,19 @@
 
 ----
 
- - [**"The Joy of Lizzo -- She has become a new kind of pop superstar, full of relentless positivity. But it took a long time and a lot of heartache"**](https://www.rollingstone.com/music/music-features/lizzo-cover-story-interview-truth-hurts-grammys-937009/)
+## 2020 (2)
 
+### 2020 January (2)
+
+ - [**"The Joy of Lizzo -- She has become a new kind of pop superstar, full of relentless positivity. But it took a long time and a lot of heartache"**](https://www.rollingstone.com/music/music-features/lizzo-cover-story-interview-truth-hurts-grammys-937009/)
     - in [Rolling Stone](https://www.rollingstone.com/)
     - on 22 January 2020
     - about [3rdEyeGirl](../../../topics/3rdeyegirl/index.md), [BET Awards](../../../topics/bet-awards/index.md), [Beyoncé](../../../topics/beyonc/index.md), [Detroit (place)](../../../topics/place/detroit/index.md), [lawsuit](../../../topics/lawsuit/index.md), [Lizzo](../../../topics/lizzo/index.md), [Netflix](../../../topics/netflix/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Toronto (place)](../../../topics/place/toronto/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/lizzo-cover-story-interview-truth-hurts-grammys-937009/))
 
-----
+<br />
 
  - [**"Purple Galore: Prince’s Former Designers Release a New Line That’s Inspired by the Late Singer"**](https://atlantablackstar.com/2020/01/06/purple-galore-princes-former-designers-release-a-new-line-thats-inspired-by-the-late-singer/)
-
     - in [Atlanta Black Star](https://atlantablackstar.com/)
     - on 6 January 2020
     - about [Call & Response](../../../topics/call-response/index.md), [Cathy Robinson](../../../topics/cathy-robinson/index.md), [Lori Marcuz](../../../topics/lori-marcuz/index.md), [Toronto (place)](../../../topics/place/toronto/index.md)
@@ -27,41 +33,43 @@
 
 ----
 
- - [**"Prince fans can now wear clothes made by his favorite designers"**](https://nypost.com/2019/12/31/prince-fans-can-now-wear-clothes-made-by-his-favorite-designers/)
+## 2019 (8)
 
+### 2019 December (4)
+
+ - [**"Prince fans can now wear clothes made by his favorite designers"**](https://nypost.com/2019/12/31/prince-fans-can-now-wear-clothes-made-by-his-favorite-designers/)
     - in [New York Post](https://nypost.com/)
     - on 31 December 2019
     - about [1999 (album)](../../../topics/album/1999/index.md), [Call & Response](../../../topics/call-response/index.md), [Cathy Robinson](../../../topics/cathy-robinson/index.md), [Lori Marcuz](../../../topics/lori-marcuz/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [The Prince Estate](../../../topics/the-prince-estate/index.md), [Toronto (place)](../../../topics/place/toronto/index.md)
     - ([mirror](https://web.archive.org/web/*/https://nypost.com/2019/12/31/prince-fans-can-now-wear-clothes-made-by-his-favorite-designers/))
 
-----
+<br />
 
  - [**"Prince’s Personal Designers Are Releasing A Made-To-Order Line"**](https://www.refinery29.com/en-us/2019/12/9088095/prince-1999-clothing-collection)
-
     - in [www.refinery29.com](https://www.refinery29.com/)
     - on 28 December 2019
     - about [Call & Response](../../../topics/call-response/index.md), [Cathy Robinson](../../../topics/cathy-robinson/index.md), [Lori Marcuz](../../../topics/lori-marcuz/index.md), [Toronto (place)](../../../topics/place/toronto/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.refinery29.com/en-us/2019/12/9088095/prince-1999-clothing-collection))
 
-----
+<br />
 
  - [**"Prince's Toronto mansion is for sale"**](https://www.yahoo.com/entertainment/prince-toronto-mansion-for-sale-160410502.html)
-
     - in [Yahoo! Entertainment](https://www.yahoo.com/entertainment/)
     - on 3 December 2019
     - about [Toronto (place)](../../../topics/place/toronto/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.yahoo.com/entertainment/prince-toronto-mansion-for-sale-160410502.html))
 
-----
+<br />
 
  - [**"The Prince Estate Announces Unique 1999-Inspired Fashion Line Created By Prince’s Trusted Designers"**](https://musicmayhemmagazine.com/the-prince-estate-announces-unique-1999-inspired-fashion-line-created-by-princes-trusted-designers/)
-
     - in [musicmayhemmagazine.com](https://musicmayhemmagazine.com/)
     - on 3 December 2019
     - about [3rdEyeGirl](../../../topics/3rdeyegirl/index.md), [Andy Allo](../../../topics/andy-allo/index.md), [Call & Response](../../../topics/call-response/index.md), [Cathy Robinson](../../../topics/cathy-robinson/index.md), [Judith Hill](../../../topics/judith-hill/index.md), [Liv Warfield](../../../topics/liv-warfield/index.md), [Lori Marcuz](../../../topics/lori-marcuz/index.md), [NPG Records](../../../topics/npg-records/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [Prince: The Story of 1999](../../../topics/prince-the-story-of-1999/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [The Prince Estate](../../../topics/the-prince-estate/index.md), [Toronto (place)](../../../topics/place/toronto/index.md), [trademark](../../../topics/trademark/index.md)
     - ([mirror](https://web.archive.org/web/*/https://musicmayhemmagazine.com/the-prince-estate-announces-unique-1999-inspired-fashion-line-created-by-princes-trusted-designers/))
 
 ----
+
+### 2019 October (1)
 
  - [**"A Father Surprises At Son’s 25th Anniversary Celebration"**](https://instinctmagazine.com/a-father-surprises-at-sons-25th-anniversary-celebration/)
     - by [Randy Slovacek](../../../authors/randy-slovacek/index.md)
@@ -72,8 +80,9 @@
 
 ----
 
- - [**"PREVIEW: Donna Grantis At The Dakota Jazz Club, 9/24"**](https://twincitiesarts.com/2019/09/17/preview-donna-gratis-dakota-jazz-club/)
+### 2019 September (1)
 
+ - [**"PREVIEW: Donna Grantis At The Dakota Jazz Club, 9/24"**](https://twincitiesarts.com/2019/09/17/preview-donna-gratis-dakota-jazz-club/)
     - in [twincitiesarts.com](https://twincitiesarts.com/)
     - on 17 September 2019
     - about [3rdEyeGirl](../../../topics/3rdeyegirl/index.md), [Dakota (place)](../../../topics/place/dakota/index.md), [Donna Grantis](../../../topics/donna-grantis/index.md), [Hannah Welton](../../../topics/hannah-welton/index.md), [Miles Davis](../../../topics/miles-davis/index.md), [New Power Generation](../../../topics/new-power-generation/index.md), [Toronto (place)](../../../topics/place/toronto/index.md)
@@ -81,14 +90,17 @@
 
 ----
 
- - [**"On a night honoring Prince, Twins fans show they’re delirious once again -- Remember those small crowds at Target Field in April and May? They were a distant memory Friday night."**](https://www.startribune.com/on-a-night-honoring-prince-twins-fans-show-they-re-delirious-once-again/511338901/)
+### 2019 June (1)
 
+ - [**"On a night honoring Prince, Twins fans show they’re delirious once again -- Remember those small crowds at Target Field in April and May? They were a distant memory Friday night."**](https://www.startribune.com/on-a-night-honoring-prince-twins-fans-show-they-re-delirious-once-again/511338901/)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 15 June 2019
     - about [Minnesota Twins](../../../topics/minnesota-twins/index.md), [Toronto (place)](../../../topics/place/toronto/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/on-a-night-honoring-prince-twins-fans-show-they-re-delirious-once-again/511338901/))
 
 ----
+
+### 2019 March (1)
 
  - [**"Former Prince guitarist Donna Grantis celebrates new jazz-rock album at the Dakota -- 3rdEyeGirl guitarist Donna Grantis will celebrate her new jazz-rock fusion album in Minneapolis."**](https://www.startribune.com/former-prince-guitarist-donna-grantis-celebrates-new-jazz-rock-album-at-the-dakota/507678332/)
     - by [Jon Bream](../../../authors/jon-bream/index.md)
@@ -99,14 +111,17 @@
 
 ----
 
- - [**"Divorce file: Prince, 2nd wife lived luxurious lifestyle"**](https://apnews.com/d52610515904420ca116e820411aa344)
+## 2017 (2)
 
+### 2017 January (2)
+
+ - [**"Divorce file: Prince, 2nd wife lived luxurious lifestyle"**](https://apnews.com/d52610515904420ca116e820411aa344)
     - in [Associated Press News](https://apnews.com/)
     - on 13 January 2017
     - about [Manuela Testolini](../../../topics/manuela-testolini/index.md), [Mayte](../../../topics/mayte/index.md), [Mayte Garcia](../../../topics/mayte-garcia/index.md), [Toronto (place)](../../../topics/place/toronto/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/d52610515904420ca116e820411aa344))
 
-----
+<br />
 
  - [**"Unsealed Prince divorce file shows luxe lifestyle, dispute over videos, jewels and photos -- The Star Tribune moved to unseal the files after questioning whether they would shed light on why Prince was taking painkillers, any potential heirs, or the value of his estate."**](https://www.startribune.com/unsealed-prince-divorce-file-shows-luxe-lifestyle-dispute-over-videos-jewels-and-photos/410652845/)
     - by [David Chanen](../../../authors/david-chanen/index.md), [Rochelle Olson](../../../authors/rochelle-olson/index.md)
@@ -117,6 +132,10 @@
 
 ----
 
+## 2016 (1)
+
+### 2016 October (1)
+
  - [**"Prince-inspired fashions on display at Minneapolis Institute of Art -- The purple pop star inspired this fashionable assemblage in the museum's lobby."**](https://www.startribune.com/prince-inspired-fashions-on-display-at-minneapolis-institute-of-art/396029361/)
     - by [Sue Campbell](../../../authors/sue-campbell/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
@@ -126,8 +145,11 @@
 
 ----
 
- - [**"Classic Tracks: Sinéad O’Connor ‘Nothing Compares 2 U’ -- Recording Sinéad O'Connor's breakthrough hit was easy in some ways, but difficult in others — for example, all compression was forbidden..."**](https://www.soundonsound.com/people/sinead-oconnor-nothing-compares-2-u)
+## 2012 (1)
 
+### 2012 February (1)
+
+ - [**"Classic Tracks: Sinéad O’Connor ‘Nothing Compares 2 U’ -- Recording Sinéad O'Connor's breakthrough hit was easy in some ways, but difficult in others — for example, all compression was forbidden..."**](https://www.soundonsound.com/people/sinead-oconnor-nothing-compares-2-u)
     - in [www.soundonsound.com](https://www.soundonsound.com/)
     - on 1 February 2012
     - about [contract](../../../topics/contract/index.md), [Grammy Award](../../../topics/grammy-award/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [royalties](../../../topics/royalties/index.md), [Sinéad O'Connor](../../../topics/sin-ad-o-connor/index.md), [The Family](../../../topics/the-family/index.md), [Toronto (place)](../../../topics/place/toronto/index.md)

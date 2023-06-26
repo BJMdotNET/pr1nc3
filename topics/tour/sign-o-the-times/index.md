@@ -1,5 +1,9 @@
 # Sign O' The Times (tour)
 
+## 2019 (1)
+
+### 2019 July (1)
+
  - [**"Prince Like You’ve Never Seen Him Before: The Star’s Longtime Photographer Shares Rare Photos and Private Memories -- For more than a decade, Jeff Katz photographed the late music icon as he moved through different eras of his career"**](https://people.com/music/prince-rare-photos-jeff-katz-exclusive/)
     - by [Brianne Tracy](../../../authors/brianne-tracy/index.md)
     - in [People](https://people.com/)

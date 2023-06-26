@@ -1,5 +1,9 @@
 # Bob Seger
 
+## 2022 (1)
+
+### 2022 June (1)
+
  - [**"Purple Rain: The Story Behind Prince’s Career-Defining Song -- The song most associated with Prince, Purple Rain is an epic power ballad that embodied its creator’s search for transcendence through music."**](https://www.thisisdig.com/feature/purple-rain-prince-song-story/)
     - by [Jason Draper](../../authors/jason-draper/index.md)
     - in [Dig!](https://www.thisisdig.com/)

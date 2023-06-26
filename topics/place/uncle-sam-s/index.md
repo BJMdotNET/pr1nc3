@@ -1,5 +1,9 @@
 # Uncle Sam’s (place)
 
+## 2019 (2)
+
+### 2019 May (1)
+
  - [**"10 things you’ll learn about First Avenue in new Minnesota History Center show -- First Avenue is getting the museum treatment. Here are 10 things you’ll learn about Minnesota’s most fabled nightclub."**](https://www.startribune.com/10-things-you-ll-learn-about-first-avenue-in-new-minnesota-history-center-show/509374312/)
     - by [Jon Bream](../../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
@@ -8,6 +12,8 @@
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/10-things-you-ll-learn-about-first-avenue-in-new-minnesota-history-center-show/509374312/))
 
 ----
+
+### 2019 April (1)
 
  - [**"Two veteran Minnesota bands earn their First Avenue stars (one a do-over)"**](https://www.startribune.com/two-veteran-minnesota-bands-earn-their-first-avenue-stars-one-a-do-over/509260572/)
     - by [Chris Riemenschneider](../../../authors/chris-riemenschneider/index.md)

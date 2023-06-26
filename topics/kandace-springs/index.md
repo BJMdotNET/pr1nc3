@@ -1,7 +1,10 @@
 # Kandace Springs
 
- - [**"Kandace Springs Debuts Evening of Jazz at Segerstrom Center"**](https://www.newportbeachindy.com/kandace-springs-debuts-evening-of-jazz-at-segerstrom-center/)
+## 2020 (2)
 
+### 2020 February (1)
+
+ - [**"Kandace Springs Debuts Evening of Jazz at Segerstrom Center"**](https://www.newportbeachindy.com/kandace-springs-debuts-evening-of-jazz-at-segerstrom-center/)
     - in [www.newportbeachindy.com](https://www.newportbeachindy.com/)
     - on 15 February 2020
     - about [Kandace Springs](../../topics/kandace-springs/index.md)
@@ -9,8 +12,9 @@
 
 ----
 
- - [**"Segerstrom Center Announces Kandace Springs To Headline Jazz Series In February"**](https://www.broadwayworld.com/costa-mesa/article/Segerstrom-Center-Announces-Kandace-Springs-To-Headline-Jazz-Series-In-February-20200115)
+### 2020 January (1)
 
+ - [**"Segerstrom Center Announces Kandace Springs To Headline Jazz Series In February"**](https://www.broadwayworld.com/costa-mesa/article/Segerstrom-Center-Announces-Kandace-Springs-To-Headline-Jazz-Series-In-February-20200115)
     - in [www.broadwayworld.com](https://www.broadwayworld.com/)
     - on 15 January 2020
     - about [Joni Mitchell](../../topics/joni-mitchell/index.md), [Kandace Springs](../../topics/kandace-springs/index.md), [Lizz Wright](../../topics/lizz-wright/index.md)
@@ -18,8 +22,11 @@
 
 ----
 
- - [**"Prince’s Closest Friends Share Their Best Prince Stories -- From Van Jones to Carmen Electra, publicists to Paisley Park members, those close to Prince Rogers Nelson tell tales—ordinary and out there—of the late legend."**](https://www.gq.com/story/prince-stories)
+## 2016 (3)
 
+### 2016 December (1)
+
+ - [**"Prince’s Closest Friends Share Their Best Prince Stories -- From Van Jones to Carmen Electra, publicists to Paisley Park members, those close to Prince Rogers Nelson tell tales—ordinary and out there—of the late legend."**](https://www.gq.com/story/prince-stories)
     - in [GQ](https://www.gq.com/)
     - on 8 December 2016
     - about [Albert Magnoli](../../topics/albert-magnoli/index.md), [American Bandstand](../../topics/american-bandstand/index.md), [André Cymone](../../topics/andr-cymone/index.md), [Audubon Road (place)](../../topics/place/audubon-road/index.md), [Bangles](../../topics/bangles/index.md), [Cat Glover](../../topics/cat-glover/index.md), [Central High](../../topics/central-high/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Chappelle's Show (TV show)](../../topics/tv-show/chappelle-s-show/index.md), [Charlie Murphy](../../topics/charlie-murphy/index.md), [Corey Tollefson](../../topics/corey-tollefson/index.md), [Dave Chappelle](../../topics/dave-chappelle/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [Gwen Stefani](../../topics/gwen-stefani/index.md), [Jeremiah Freed](../../topics/jeremiah-freed/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Kandace Springs](../../topics/kandace-springs/index.md), [Lake Minnetonka (place)](../../topics/place/lake-minnetonka/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Mayte](../../topics/mayte/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Micki Free](../../topics/micki-free/index.md), [Misty Copeland](../../topics/misty-copeland/index.md), [Morris Hayes](../../topics/morris-hayes/index.md), [Neal Karlen](../../topics/neal-karlen/index.md), [Netflix](../../topics/netflix/index.md), [NPG Records](../../topics/npg-records/index.md), [Obama](../../topics/obama/index.md), [Owen Husney](../../topics/owen-husney/index.md), [piracy](../../topics/piracy/index.md), [St. Louis Park (place)](../../topics/place/st-louis-park/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [The Gold Experience (album)](../../topics/album/the-gold-experience/index.md), [The Revolution](../../topics/the-revolution/index.md), [Van Jones](../../topics/van-jones/index.md), [Vanity](../../topics/vanity/index.md), [vault](../../topics/vault/index.md), [White House (place)](../../topics/place/white-house/index.md), [YouTube](../../topics/youtube/index.md)
@@ -27,17 +34,17 @@
 
 ----
 
- - [**"Prince was a one-man band and a friend to many others"**](https://apnews.com/508256962cd942f3bc61e1cc034900ad)
+### 2016 April (2)
 
+ - [**"Prince was a one-man band and a friend to many others"**](https://apnews.com/508256962cd942f3bc61e1cc034900ad)
     - in [Associated Press News](https://apnews.com/)
     - on 25 April 2016
     - about [Bangles](../../topics/bangles/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Cyndi Lauper](../../topics/cyndi-lauper/index.md), [Esperanza Spalding](../../topics/esperanza-spalding/index.md), [Grammy Award](../../topics/grammy-award/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Kandace Springs](../../topics/kandace-springs/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Rita Ora](../../topics/rita-ora/index.md), [royalties](../../topics/royalties/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stand Back (song)](../../topics/song/stand-back/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [YouTube](../../topics/youtube/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/508256962cd942f3bc61e1cc034900ad))
 
-----
+<br />
 
  - [**"Prince, un hombre orquesta y un amigo para muchos"**](https://apnews.com/article/archive-0cd78570b8f24969999622976c4cf547)
-
     - in [Associated Press News](https://apnews.com/)
     - on 25 April 2016
     - about [Bangles](../../topics/bangles/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Cyndi Lauper](../../topics/cyndi-lauper/index.md), [Esperanza Spalding](../../topics/esperanza-spalding/index.md), [Fleetwood Mac](../../topics/fleetwood-mac/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Kandace Springs](../../topics/kandace-springs/index.md), [Ken Ehrlich](../../topics/ken-ehrlich/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Rita Ora](../../topics/rita-ora/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stand Back (song)](../../topics/song/stand-back/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md)

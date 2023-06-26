@@ -1,5 +1,9 @@
 # St. Paul and the Minneapolis Funk All-Stars
 
+## 2019 (1)
+
+### 2019 July (1)
+
  - [**"The Family’s Paul Peterson returns with a pair of new solo songs that sound a lot like Prince"**](https://www.twincities.com/2019/07/18/the-familys-paul-peterson-returns-with-a-pair-of-new-solo-songs-that-sound-a-lot-like-prince/)
     - by [Ross Raihala](../../authors/ross-raihala/index.md)
     - in [TwinCities.com - Pioneer Press](https://www.twincities.com/)

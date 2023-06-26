@@ -1,7 +1,10 @@
 # perfume
 
- - [**"Prince Wanted To 'Break The Mold Of The Memoir,' Says His Co-Writer"**](https://www.npr.org/2019/11/28/782929000/prince-wanted-to-break-the-mold-of-the-memoir-says-his-co-writer)
+## 2019 (5)
 
+### 2019 November (1)
+
+ - [**"Prince Wanted To 'Break The Mold Of The Memoir,' Says His Co-Writer"**](https://www.npr.org/2019/11/28/782929000/prince-wanted-to-break-the-mold-of-the-memoir-says-his-co-writer)
     - in [National Public Radio](https://www.npr.org/)
     - on 28 November 2019
     - about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [fentanyl](../../topics/fentanyl/index.md), [fragrance](../../topics/fragrance/index.md), [Kim Pratt](../../topics/kim-pratt/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [memoir](../../topics/memoir/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [perfume](../../topics/perfume/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [vault](../../topics/vault/index.md), [Vicodin](../../topics/vicodin/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
@@ -9,23 +12,25 @@
 
 ----
 
- - [**"Prince Wanted To 'Break The Mold Of The Memoir,' Says His Co-Writer"**](https://www.npr.org/2019/10/28/773398141/prince-wanted-to-break-the-mold-of-the-memoir-says-his-co-writer)
+### 2019 October (2)
 
+ - [**"Prince Wanted To 'Break The Mold Of The Memoir,' Says His Co-Writer"**](https://www.npr.org/2019/10/28/773398141/prince-wanted-to-break-the-mold-of-the-memoir-says-his-co-writer)
     - in [National Public Radio](https://www.npr.org/)
     - on 28 October 2019
     - about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [fentanyl](../../topics/fentanyl/index.md), [fragrance](../../topics/fragrance/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [memoir](../../topics/memoir/index.md), [perfume](../../topics/perfume/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [vault](../../topics/vault/index.md), [Vicodin](../../topics/vicodin/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.npr.org/2019/10/28/773398141/prince-wanted-to-break-the-mold-of-the-memoir-says-his-co-writer))
 
-----
+<br />
 
  - [**"Buddy Holly and Roy Orbison in Minnesota? Hologram tours of old stars are the hot new concert trend -- Buddy Holly is coming to town with Roy Orbison? Yes, rock 'n' roll holograms are here to stay."**](https://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 12 October 2019
     - about [Aretha Franklin](../../topics/aretha-franklin/index.md), [Ed Sheeran](../../topics/ed-sheeran/index.md), [Frank Zappa](../../topics/frank-zappa/index.md), [hologram](../../topics/hologram/index.md), [Lizzo](../../topics/lizzo/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Morris Day](../../topics/morris-day/index.md), [perfume](../../topics/perfume/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/))
 
 ----
+
+### 2019 September (1)
 
  - [**"The Book of Prince -- Prince had grand plans for his autobiography, but only a few months to live."**](https://www.newyorker.com/magazine/2019/09/09/the-book-of-prince)
     - by [Dan Piepenbring](../../authors/dan-piepenbring/index.md)
@@ -36,6 +41,8 @@
 
 ----
 
+### 2019 June (1)
+
  - [**"Prince’s Unearthed ‘Originals’: Collaborators Look Back on the Hits He Passed Along -- As demos of future classics like “Manic Monday” and Nothing Compares 2 U” finally see official release, Apollonia, the Bangles’ Susanna Hoffs, and others recall the artist’s “otherworldly” songwriting talents"**](https://www.rollingstone.com/music/music-features/prince-originals-interview-842940/)
     - by [Kory Grow](../../authors/kory-grow/index.md)
     - in [Rolling Stone](https://www.rollingstone.com/)
@@ -45,8 +52,11 @@
 
 ----
 
- - [**"Prince's sound engineer, Susan Rogers: 'He needed to be the alpha male to get things done' -- One of a tiny number of female recording engineers, Rogers was there at birth of some of pop’s classics, including When Doves Cry. She recalls the man she knew – and shares her theory about why he loved working with women"**](https://www.theguardian.com/music/2017/nov/09/princes-sound-engineer-susan-rogers-he-needed-to-be-the-alpha-male-to-get-things-done)
+## 2017 (2)
 
+### 2017 November (1)
+
+ - [**"Prince's sound engineer, Susan Rogers: 'He needed to be the alpha male to get things done' -- One of a tiny number of female recording engineers, Rogers was there at birth of some of pop’s classics, including When Doves Cry. She recalls the man she knew – and shares her theory about why he loved working with women"**](https://www.theguardian.com/music/2017/nov/09/princes-sound-engineer-susan-rogers-he-needed-to-be-the-alpha-male-to-get-things-done)
     - in [The Guardian](https://www.theguardian.com/)
     - on 9 November 2017
     - about [Eric Clapton](../../topics/eric-clapton/index.md), [exhibit](../../topics/exhibit/index.md), [exhibition](../../topics/exhibition/index.md), [James Brown](../../topics/james-brown/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [perfume](../../topics/perfume/index.md), [Raspberry Beret (song)](../../topics/song/raspberry-beret/index.md), [royalties](../../topics/royalties/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
@@ -54,8 +64,9 @@
 
 ----
 
- - [**"Prince’s ex-wife Mayte Garcia pays tribute to late star"**](https://apnews.com/f7d92f7f16cd4330912e7a1674f4c8e7)
+### 2017 April (1)
 
+ - [**"Prince’s ex-wife Mayte Garcia pays tribute to late star"**](https://apnews.com/f7d92f7f16cd4330912e7a1674f4c8e7)
     - in [Associated Press News](https://apnews.com/)
     - on 22 April 2017
     - about [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [perfume](../../topics/perfume/index.md)
@@ -63,8 +74,11 @@
 
 ----
 
- - [**"Prince’s sister says musician had no known will"**](https://apnews.com/b7bcc90e42904f679c07158bf5e851a3)
+## 2016 (1)
 
+### 2016 April (1)
+
+ - [**"Prince’s sister says musician had no known will"**](https://apnews.com/b7bcc90e42904f679c07158bf5e851a3)
     - in [Associated Press News](https://apnews.com/)
     - on 27 April 2016
     - about [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [lawsuit](../../topics/lawsuit/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [perfume](../../topics/perfume/index.md), [probate court](../../topics/probate-court/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md)
@@ -72,8 +86,11 @@
 
 ----
 
- - [**"Prince Sued Over Perfume Deal"**](https://www.billboard.com/articles/business/266253/prince-sued-over-perfume-deal)
+## 2008 (1)
 
+### 2008 November (1)
+
+ - [**"Prince Sued Over Perfume Deal"**](https://www.billboard.com/articles/business/266253/prince-sued-over-perfume-deal)
     - in [Billboard](https://www.billboard.com/)
     - on 18 November 2008
     - about [3121 (album)](../../topics/album/3121/index.md), [contract](../../topics/contract/index.md), [fragrance](../../topics/fragrance/index.md), [lawsuit](../../topics/lawsuit/index.md), [New York State Supreme Court](../../topics/new-york-state-supreme-court/index.md), [perfume](../../topics/perfume/index.md), [Revelations](../../topics/revelations/index.md), [Universal Music Publishing Group](../../topics/universal-music-publishing-group/index.md)

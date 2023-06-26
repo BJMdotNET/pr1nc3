@@ -1,7 +1,10 @@
 # Spotify
 
- - [**"Prince mantuvo una relación tensa con internet"**](https://apnews.com/article/c8ef74b6f5be4376a608ff85be08eb71)
+## 2021 (1)
 
+### 2021 August (1)
+
+ - [**"Prince mantuvo una relación tensa con internet"**](https://apnews.com/article/c8ef74b6f5be4376a608ff85be08eb71)
     - in [Associated Press News](https://apnews.com/)
     - on 16 August 2021
     - about [20Ten (album)](../../topics/album/20ten/index.md), [FKA twigs](../../topics/fka-twigs/index.md), [James Brown](../../topics/james-brown/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Spotify](../../topics/spotify/index.md), [Tidal](../../topics/tidal/index.md), [YouTube](../../topics/youtube/index.md)
@@ -9,8 +12,11 @@
 
 ----
 
- - [**"With TikTok, music fans can now legally lip sync to all of Prince's songs"**](https://www.startribune.com/with-tiktok-music-fans-can-now-legally-lip-sync-to-all-of-prince-s-songs/571529892/)
+## 2020 (2)
 
+### 2020 June (1)
+
+ - [**"With TikTok, music fans can now legally lip sync to all of Prince's songs"**](https://www.startribune.com/with-tiktok-music-fans-can-now-legally-lip-sync-to-all-of-prince-s-songs/571529892/)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 28 June 2020
     - about [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Lizzo](../../topics/lizzo/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Spotify](../../topics/spotify/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [TikTok](../../topics/tiktok/index.md), [Troy Carter](../../topics/troy-carter/index.md), [YouTube](../../topics/youtube/index.md)
@@ -18,8 +24,9 @@
 
 ----
 
- - [**"A Minnesota Geek’s Experience with Retro Audio"**](http://twincitiesgeek.com/2020/02/a-minnesota-geeks-experience-with-retro-audio/)
+### 2020 February (1)
 
+ - [**"A Minnesota Geek’s Experience with Retro Audio"**](http://twincitiesgeek.com/2020/02/a-minnesota-geeks-experience-with-retro-audio/)
     - in [twincitiesgeek.com](http://twincitiesgeek.com/)
     - on 15 February 2020
     - about [Electric Fetus (place)](../../topics/place/electric-fetus/index.md), [Spotify](../../topics/spotify/index.md), [YouTube](../../topics/youtube/index.md)
@@ -27,35 +34,35 @@
 
 ----
 
- - [**"Prince: The Story of 1999 bonus feature: Nile Rodgers, 'Prince made such an impression on the world'"**](https://www.thecurrent.org/feature/2019/12/13/prince-the-story-of-1999-bonus-feature-nile-rodgers-interview)
+## 2019 (17)
 
+### 2019 December (4)
+
+ - [**"Prince: The Story of 1999 bonus feature: Nile Rodgers, 'Prince made such an impression on the world'"**](https://www.thecurrent.org/feature/2019/12/13/prince-the-story-of-1999-bonus-feature-nile-rodgers-interview)
     - in [The Current](https://www.thecurrent.org/)
     - on 13 December 2019
     - about [1999 (album)](../../topics/album/1999/index.md), [Andrea Swensson](../../topics/andrea-swensson/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Essence Fest (event)](../../topics/event/essence-fest/index.md), [Essence Festival (event)](../../topics/event/essence-festival/index.md), [Grammys](../../topics/grammys/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Morris Day](../../topics/morris-day/index.md), [New Orleans (place)](../../topics/place/new-orleans/index.md), [Nile Rodgers](../../topics/nile-rodgers/index.md), [Prince: The Story of 1999](../../topics/prince-the-story-of-1999/index.md), [Spotify](../../topics/spotify/index.md), [Turks and Caicos](../../topics/turks-and-caicos/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md), [YouTube](../../topics/youtube/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/12/13/prince-the-story-of-1999-bonus-feature-nile-rodgers-interview))
 
-----
+<br />
 
  - [**"Prince: The Story of 1999, Episode 4: Let's Work"**](https://www.thecurrent.org/feature/2019/12/10/prince-the-story-of-1999-episode-4-lets-work-swensson)
-
     - in [The Current](https://www.thecurrent.org/)
     - on 10 December 2019
     - about [1999 (album)](../../topics/album/1999/index.md), [1999 Super Deluxe (album)](../../topics/album/1999-super-deluxe/index.md), [Alabama Shakes](../../topics/alabama-shakes/index.md), [Andrea Swensson](../../topics/andrea-swensson/index.md), [Brittany Howard](../../topics/brittany-howard/index.md), [Detroit (place)](../../topics/place/detroit/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [Essence Fest (event)](../../topics/event/essence-fest/index.md), [Essence Festival (event)](../../topics/event/essence-festival/index.md), [Fred Armisen](../../topics/fred-armisen/index.md), [Grammys](../../topics/grammys/index.md), [How Come U Don't Call Me Anymore (song)](../../topics/song/how-come-u-don-t-call-me-anymore/index.md), [I Wanna Be Your Lover (song)](../../topics/song/i-wanna-be-your-lover/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [LeRoy Bennett](../../topics/leroy-bennett/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Matt Fink](../../topics/matt-fink/index.md), [Maya Rudolph](../../topics/maya-rudolph/index.md), [Michael Howe](../../topics/michael-howe/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Nile Rodgers](../../topics/nile-rodgers/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Parade (album)](../../topics/album/parade/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Prince: The Story of 1999](../../topics/prince-the-story-of-1999/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [Spotify](../../topics/spotify/index.md), [Super Bowl](../../topics/super-bowl/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [The Revolution](../../topics/the-revolution/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/12/10/prince-the-story-of-1999-episode-4-lets-work-swensson))
 
-----
+<br />
 
  - [**"Women Who Man the Boards: Five Engineers Powering Today’s Hitmakers Sessions"**](https://variety.com/2019/music/news/female-engineers-recording-studio-1203421600/)
-
     - in [Variety](https://variety.com/)
     - on 6 December 2019
     - about [Grammy Award](../../topics/grammy-award/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [Spotify](../../topics/spotify/index.md), [Susan Rogers](../../topics/susan-rogers/index.md)
     - ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/news/female-engineers-recording-studio-1203421600/))
 
-----
+<br />
 
  - [**"Prince: The Story of 1999, Episode 3: The Idolmaker"**](https://www.thecurrent.org/feature/2019/12/03/prince-the-story-of-1999-episode-3-the-idolmaker-swensson)
-
     - in [The Current](https://www.thecurrent.org/)
     - on 3 December 2019
     - about [1999 (album)](../../topics/album/1999/index.md), [1999 Super Deluxe (album)](../../topics/album/1999-super-deluxe/index.md), [Allen Beaulieu](../../topics/allen-beaulieu/index.md), [Andrea Swensson](../../topics/andrea-swensson/index.md), [Apollonia 6](../../topics/apollonia-6/index.md), [Bold Generation (song)](../../topics/song/bold-generation/index.md), [Chanhassen Cinema](../../topics/chanhassen-cinema/index.md), [Denise Matthews](../../topics/denise-matthews/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [Don't Let Him Fool Ya (song)](../../topics/song/don-t-let-him-fool-ya/index.md), [Duane Tudahl](../../topics/duane-tudahl/index.md), [George Clinton](../../topics/george-clinton/index.md), [Jamie Starr](../../topics/jamie-starr/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [memoir](../../topics/memoir/index.md), [Michael Howe](../../topics/michael-howe/index.md), [Morris Day](../../topics/morris-day/index.md), [Nasty Girl (song)](../../topics/song/nasty-girl/index.md), [New Power Generation (song)](../../topics/song/new-power-generation/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Prince: The Story of 1999](../../topics/prince-the-story-of-1999/index.md), [Sly Stone](../../topics/sly-stone/index.md), [Spotify](../../topics/spotify/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Starr Company](../../topics/the-starr-company/index.md), [Vagina (song)](../../topics/song/vagina/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md)
@@ -63,35 +70,33 @@
 
 ----
 
- - [**"Prince: The Story of 1999, Episode 2: Rearrange"**](https://www.thecurrent.org/feature/2019/11/26/prince-the-story-of-1999-episode-2-rearrange-andrea-swensson)
+### 2019 November (4)
 
+ - [**"Prince: The Story of 1999, Episode 2: Rearrange"**](https://www.thecurrent.org/feature/2019/11/26/prince-the-story-of-1999-episode-2-rearrange-andrea-swensson)
     - in [The Current](https://www.thecurrent.org/)
     - on 26 November 2019
     - about [1999 (album)](../../topics/album/1999/index.md), [1999 SuperDeluxe (album)](../../topics/album/1999-superdeluxe/index.md), [Andrea Swensson](../../topics/andrea-swensson/index.md), [Bobby Z.](../../topics/bobby-z/index.md), [Colleen (song)](../../topics/song/colleen/index.md), [Denise Matthews](../../topics/denise-matthews/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [Do Me Baby (song)](../../topics/song/do-me-baby/index.md), [Duane Tudahl](../../topics/duane-tudahl/index.md), [I Wanna Be Your Lover (song)](../../topics/song/i-wanna-be-your-lover/index.md), [Kiowa Trail](../../topics/kiowa-trail/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Michael Howe](../../topics/michael-howe/index.md), [Money Don't Grow On Trees (song)](../../topics/song/money-don-t-grow-on-trees/index.md), [Peggy McCreary](../../topics/peggy-mccreary/index.md), [Possessed (song)](../../topics/song/possessed/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Prince: The Story of 1999](../../topics/prince-the-story-of-1999/index.md), [Rearrange (song)](../../topics/song/rearrange/index.md), [Spotify](../../topics/spotify/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [The Revolution](../../topics/the-revolution/index.md), [Vagina (song)](../../topics/song/vagina/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md), [Yah, You Know (song)](../../topics/song/yah-you-know/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/11/26/prince-the-story-of-1999-episode-2-rearrange-andrea-swensson))
 
-----
+<br />
 
  - [**"Prince: The Story of 1999, Episode 1: My Mind Says Prepare to Fight"**](https://www.thecurrent.org/feature/2019/11/15/prince-story-1999-episode-one)
-
     - in [The Current](https://www.thecurrent.org/)
     - on 19 November 2019
     - about [1999 (album)](../../topics/album/1999/index.md), [airport](../../topics/airport/index.md), [Andrea Swensson](../../topics/andrea-swensson/index.md), [Colleen (song)](../../topics/song/colleen/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [Duane Tudahl](../../topics/duane-tudahl/index.md), [Feel U Up (song)](../../topics/song/feel-u-up/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Irresistible Bitch (song)](../../topics/song/irresistible-bitch/index.md), [Jamie Starr](../../topics/jamie-starr/index.md), [Linn LM-1](../../topics/linn-lm-1/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Matt Fink](../../topics/matt-fink/index.md), [Michael Howe](../../topics/michael-howe/index.md), [Peggy McCreary](../../topics/peggy-mccreary/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Prince: The Story of 1999](../../topics/prince-the-story-of-1999/index.md), [Purple Music (song)](../../topics/song/purple-music/index.md), [Spotify](../../topics/spotify/index.md), [St. Louis Park (place)](../../topics/place/st-louis-park/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [The Revolution](../../topics/the-revolution/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/11/15/prince-story-1999-episode-one))
 
-----
+<br />
 
  - [**"They're one of Minnesota's most-streamed music acts – and you probably haven't heard of them -- Straight out of New Prague, piano duo the O'Neill Brothers have rolled with the times to become unlikely stars of digital streaming."**](https://www.startribune.com/they-re-one-of-minnesota-s-most-streamed-music-acts-and-you-probably-haven-t-heard-of-them/564655012/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 9 November 2019
     - about [Apple Music](../../topics/apple-music/index.md), [Spotify](../../topics/spotify/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/they-re-one-of-minnesota-s-most-streamed-music-acts-and-you-probably-haven-t-heard-of-them/564655012/))
 
-----
+<br />
 
  - [**"3 secrets to the O'Neill Brothers' streaming success -- How the piano-playing siblings have racked up big numbers via Spotify and other digital music sites."**](https://www.startribune.com/tips-for-success-on-streaming-media/564657862/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 8 November 2019
     - about [Spotify](../../topics/spotify/index.md)
@@ -99,26 +104,25 @@
 
 ----
 
- - [**"Interview: Director Albert Magnoli describes working with Prince and making 'Purple Rain'"**](https://www.thecurrent.org/feature/2019/10/24/interview-director-albert-magnoli-describes-working-with-prince-purple-rain)
+### 2019 October (3)
 
+ - [**"Interview: Director Albert Magnoli describes working with Prince and making 'Purple Rain'"**](https://www.thecurrent.org/feature/2019/10/24/interview-director-albert-magnoli-describes-working-with-prince-purple-rain)
     - in [The Current](https://www.thecurrent.org/)
     - on 24 October 2019
     - about [Albert Magnoli](../../topics/albert-magnoli/index.md), [Chick Huntsberry](../../topics/chick-huntsberry/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Lake Minnetonka (place)](../../topics/place/lake-minnetonka/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [motorcycle](../../topics/motorcycle/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Spotify](../../topics/spotify/index.md), [Steve Fargnoli](../../topics/steve-fargnoli/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/10/24/interview-director-albert-magnoli-describes-working-with-prince-purple-rain))
 
-----
+<br />
 
  - [**"Reckoning With The Ethics of The Ever-Unfurling Prince Vault -- The demos, b-sides and rarities keep coming. How should we feel about listening?"**](https://www.pastemagazine.com/articles/2019/10/prince-estate-ethics.html)
-
     - in [Paste Magazine](https://www.pastemagazine.com/)
     - on 23 October 2019
     - about [1999 (album)](../../topics/album/1999/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [contract](../../topics/contract/index.md), [D’Angelo](../../topics/d-angelo/index.md), [exhibit](../../topics/exhibit/index.md), [For You (album)](../../topics/album/for-you/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Spotify](../../topics/spotify/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [trademark](../../topics/trademark/index.md), [vault](../../topics/vault/index.md), [YouTube](../../topics/youtube/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.pastemagazine.com/articles/2019/10/prince-estate-ethics.html))
 
-----
+<br />
 
  - [**"Once and Future Prince"**](https://www.newyorker.com/magazine/2019/10/21/once-and-future-prince/)
-
     - in [The New Yorker](https://www.newyorker.com/)
     - on 14 October 2019
     - about [Grammy Award](../../topics/grammy-award/index.md), [hologram](../../topics/hologram/index.md), [Spotify](../../topics/spotify/index.md), [Super Bowl](../../topics/super-bowl/index.md), [vault](../../topics/vault/index.md)
@@ -126,32 +130,33 @@
 
 ----
 
- - [**"Exclusive: Prince's estate sued for $3 million"**](https://au.lifestyle.yahoo.com/princes-estate-sued-for-3-million-053919372.html)
+### 2019 September (3)
 
+ - [**"Exclusive: Prince's estate sued for $3 million"**](https://au.lifestyle.yahoo.com/princes-estate-sued-for-3-million-053919372.html)
     - in [Yahoo! Lifestyle Australia](https://au.lifestyle.yahoo.com/)
     - on 24 September 2019
     - about [Bruno Bergonzi](../../topics/bruno-bergonzi/index.md), [contract](../../topics/contract/index.md), [Jay Rolandi](../../topics/jay-rolandi/index.md), [lawsuit](../../topics/lawsuit/index.md), [Michele Vicino](../../topics/michele-vicino/index.md), [royalties](../../topics/royalties/index.md), [Spotify](../../topics/spotify/index.md), [Takin Me To Paradise (song)](../../topics/song/takin-me-to-paradise/index.md), [The Most Beautiful Girl In The World (song)](../../topics/song/the-most-beautiful-girl-in-the-world/index.md), [Warner Chappell Music](../../topics/warner-chappell-music/index.md)
     - ([mirror](https://web.archive.org/web/*/https://au.lifestyle.yahoo.com/princes-estate-sued-for-3-million-053919372.html))
 
-----
+<br />
 
  - [**"11 anticipated music books this fall"**](https://www.latimes.com/entertainment-arts/books/story/2019-09-13/la-ca-jc-music-books-fall-2019)
-
     - in [Los Angeles Times](https://www.latimes.com/)
     - on 13 September 2019
     - about [Fred Armisen](../../topics/fred-armisen/index.md), [memoir](../../topics/memoir/index.md), [Questlove](../../topics/questlove/index.md), [Spotify](../../topics/spotify/index.md), [The Roots](../../topics/the-roots/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.latimes.com/entertainment-arts/books/story/2019-09-13/la-ca-jc-music-books-fall-2019))
 
-----
+<br />
 
  - [**"COMPOSER STARR PARODI TEAMS WITH FORMER TEMPTATIONS LEAD SINGER LOUIS PRICE ON PRINCE RENDITION!"**](https://eurweb.com/2019/09/09/composer-starr-parodi-teams-with-former-temptations-lead-singer-louis-price-on-prince-rendition/)
-
     - in [EURweb](https://eurweb.com/)
     - on 9 September 2019
     - about [Spotify](../../topics/spotify/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://eurweb.com/2019/09/09/composer-starr-parodi-teams-with-former-temptations-lead-singer-louis-price-on-prince-rendition/))
 
 ----
+
+### 2019 July (2)
 
  - [**"'Purple Rain' 35th anniversary: We dive into the Prince cult classic for the first time"**](https://usatoday.com/story/entertainment/movies/2019/07/25/purple-rain-35th-anniversary-does-prince-cult-film-hold-up/1817029001/)
     - by [Brian Truitt](../../authors/brian-truitt/index.md), [Patrick Ryan](../../authors/patrick-ryan/index.md)
@@ -160,7 +165,7 @@
     - about [Apollonia 6](../../topics/apollonia-6/index.md), [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Morris Day](../../topics/morris-day/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Spotify](../../topics/spotify/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/entertainment/movies/2019/07/25/purple-rain-35th-anniversary-does-prince-cult-film-hold-up/1817029001/))
 
-----
+<br />
 
  - [**"How Long Does It Take to Make a Classic Album? -- From D’Angelo’s infamously slow creative pace to Frank Sinatra’s rapid-fire release schedule, our expectations of artists’ output have always been in flux."**](https://pitchfork.com/features/article/how-long-does-it-take-to-make-a-classic-album/)
     - by [Ann-Derrick Gaillot](../../authors/ann-derrick-gaillot/index.md)
@@ -171,6 +176,8 @@
 
 ----
 
+### 2019 April (1)
+
  - [**"New Prince album featuring unreleased demos out in June"**](https://apnews.com/f60b62d07cd74a92aec4ceb6d9c338f1)
     - by [The Associated Press](../../authors/the-associated-press/index.md)
     - in [Associated Press News](https://apnews.com/)
@@ -180,8 +187,11 @@
 
 ----
 
- - [**"‘Black-ish’ throws TV’s best-ever Prince party in its 100th episode"**](https://apnews.com/bd6c6bba1c8f4d5d83707d6d24c8fdf2)
+## 2018 (4)
 
+### 2018 November (1)
+
+ - [**"‘Black-ish’ throws TV’s best-ever Prince party in its 100th episode"**](https://apnews.com/bd6c6bba1c8f4d5d83707d6d24c8fdf2)
     - in [Associated Press News](https://apnews.com/)
     - on 11 November 2018
     - about [Black-ish (TV show)](../../topics/tv-show/black-ish/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [Erotic City (song)](../../topics/song/erotic-city/index.md), [Spotify](../../topics/spotify/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md), [Yara Shahidi](../../topics/yara-shahidi/index.md)
@@ -189,8 +199,9 @@
 
 ----
 
- - [**"The Prince Estate’s Big Plans: Inside the Upcoming Purple Reign -- The late singer’s estate is currently exploring licensing, future releases and even a hotel – all while trying to consider what Prince would have wanted"**](https://www.rollingstone.com/music/music-features/prince-estate-big-plans-upcoming-purple-reign-698529/)
+### 2018 July (1)
 
+ - [**"The Prince Estate’s Big Plans: Inside the Upcoming Purple Reign -- The late singer’s estate is currently exploring licensing, future releases and even a hotel – all while trying to consider what Prince would have wanted"**](https://www.rollingstone.com/music/music-features/prince-estate-big-plans-upcoming-purple-reign-698529/)
     - in [Rolling Stone](https://www.rollingstone.com/)
     - on 13 July 2018
     - about [Bravado](../../topics/bravado/index.md), [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [Comerica](../../topics/comerica/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Graceland](../../topics/graceland/index.md), [hologram](../../topics/hologram/index.md), [John Nelson](../../topics/john-nelson/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [merchandise](../../topics/merchandise/index.md), [Michael Howe](../../topics/michael-howe/index.md), [Minnesota Twins](../../topics/minnesota-twins/index.md), [museum](../../topics/museum/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Piano and a Microphone 1983 (album)](../../topics/album/piano-and-a-microphone-1983/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Questlove](../../topics/questlove/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Spotify](../../topics/spotify/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Troy Carter](../../topics/troy-carter/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md)
@@ -198,14 +209,17 @@
 
 ----
 
- - [**"Prince’s Vault"**](https://lefsetz.com/wordpress/2018/06/14/princes-vault/)
+### 2018 June (1)
 
+ - [**"Prince’s Vault"**](https://lefsetz.com/wordpress/2018/06/14/princes-vault/)
     - in [The Lefsetz Letter](https://lefsetz.com/)
     - on 14 June 2018
     - about [Michael Howe](../../topics/michael-howe/index.md), [Spotify](../../topics/spotify/index.md), [vault](../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://lefsetz.com/wordpress/2018/06/14/princes-vault/))
 
 ----
+
+### 2018 May (1)
 
  - [**"As Prince heirs stew, bankers and lawyers cash in on estate"**](https://apnews.com/d9847863113d4ff8bd70850dd6a6cd2e)
     - by [Steve Karnowski (Associated Press)](../../authors/associated-press/steve-karnowski/index.md)
@@ -216,6 +230,10 @@
 
 ----
 
+## 2017 (8)
+
+### 2017 May (1)
+
  - [**"It’s Official: Prince’s Estate Manager and Universal Music Group Move to Nullify Recorded-Music Deal"**](https://variety.com/2017/music/news/its-official-princes-estate-manager-and-universal-music-group-move-to-nullify-recorded-music-deal-1202436842/)
     - by [Jem Aswad](../../authors/jem-aswad/index.md)
     - in [Variety](https://variety.com/)
@@ -225,14 +243,15 @@
 
 ----
 
- - [**"A year after Prince's death, these questions remain unanswered"**](https://usatoday.com/story/life/music/2017/04/20/death-prince-one-year-later-what-do-we-know/100180398/)
+### 2017 April (5)
 
+ - [**"A year after Prince's death, these questions remain unanswered"**](https://usatoday.com/story/life/music/2017/04/20/death-prince-one-year-later-what-do-we-know/100180398/)
     - in [USA Today](https://usatoday.com/)
     - on 21 April 2017
     - about [Amy Conners](../../topics/amy-conners/index.md), [Apple Music](../../topics/apple-music/index.md), [bootleg](../../topics/bootleg/index.md), [Carver County](../../topics/carver-county/index.md), [Comerica](../../topics/comerica/index.md), [fentanyl](../../topics/fentanyl/index.md), [George Ian Boxill](../../topics/george-ian-boxill/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [memoir](../../topics/memoir/index.md), [Michael Schulenberg](../../topics/michael-schulenberg/index.md), [museum](../../topics/museum/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [Patrick Cousins](../../topics/patrick-cousins/index.md), [probate court](../../topics/probate-court/index.md), [Spotify](../../topics/spotify/index.md), [Tidal](../../topics/tidal/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Universal Music Group](../../topics/universal-music-group/index.md), [vault](../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2017/04/20/death-prince-one-year-later-what-do-we-know/100180398/))
 
-----
+<br />
 
  - [**"Floodgates are about to open on Prince's career after death -- A year after he died, Prince's lucrative second career is taking off. The industry moguls he despised are calling the shots — and his wishes don't apply."**](https://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/)
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
@@ -241,16 +260,15 @@
     - about [Bravado](../../topics/bravado/index.md), [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [Comerica](../../topics/comerica/index.md), [contract](../../topics/contract/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [hologram](../../topics/hologram/index.md), [merchandise](../../topics/merchandise/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [museum](../../topics/museum/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Spotify](../../topics/spotify/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/))
 
-----
+<br />
 
  - [**"Deals ensure cash keeps flowing to unsettled Prince estate"**](https://apnews.com/ea32a54490474eccad7364653ab698f8)
-
     - in [Associated Press News](https://apnews.com/)
     - on 16 April 2017
     - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Alfred Jackson](../../topics/alfred-jackson/index.md), [Celebration 2017 (event)](../../topics/event/celebration-2017/index.md), [Comerica](../../topics/comerica/index.md), [Comerica Bank & Trust](../../topics/comerica-bank-trust/index.md), [Graceland](../../topics/graceland/index.md), [Joel Weinshanker](../../topics/joel-weinshanker/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [lawsuit](../../topics/lawsuit/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Morris Day](../../topics/morris-day/index.md), [museum](../../topics/museum/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Shelby J.](../../topics/shelby-j/index.md), [Spotify](../../topics/spotify/index.md), [The Time](../../topics/the-time/index.md), [Tidal](../../topics/tidal/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Universal Music Group](../../topics/universal-music-group/index.md), [Van Jones](../../topics/van-jones/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/ea32a54490474eccad7364653ab698f8))
 
-----
+<br />
 
  - [**"AM Prep-Music -- PRINCE’S SIBLINGS WANT TO BE DECLARED HIS HEIRS / TROY CARTER NAMED ENTERTAINMENT ADVISER FOR PRINCE ESTATE"**](https://apnews.com/63ffae131dda46bcb6a431332d0a5efc)
     - by [The Associated Press](../../authors/the-associated-press/index.md)
@@ -259,7 +277,7 @@
     - about [Carver County](../../topics/carver-county/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [L. Londell McMilllan](../../topics/l-londell-mcmilllan/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Spotify](../../topics/spotify/index.md), [Troy Carter](../../topics/troy-carter/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/63ffae131dda46bcb6a431332d0a5efc))
 
-----
+<br />
 
  - [**"Lady Gaga ex-manager Troy Carter named Prince estate adviser"**](https://apnews.com/727501ec378a400184818701510f73ea)
     - by [The Associated Press](../../authors/the-associated-press/index.md)
@@ -270,17 +288,17 @@
 
 ----
 
- - [**"An Announcement of Royal Proportions: Prince’s Warner Bros. Catalog is Streaming Again"**](https://www.rhino.com/article/an-announcement-of-royal-proportions-princes-warner-bros-catalog-is-streaming-again)
+### 2017 February (2)
 
+ - [**"An Announcement of Royal Proportions: Prince’s Warner Bros. Catalog is Streaming Again"**](https://www.rhino.com/article/an-announcement-of-royal-proportions-princes-warner-bros-catalog-is-streaming-again)
     - in [Rhino](https://www.rhino.com/)
     - on 13 February 2017
     - about [1999 (album)](../../topics/album/1999/index.md), [Around The World In A Day (album)](../../topics/album/around-the-world-in-a-day/index.md), [Art Official Age (album)](../../topics/album/art-official-age/index.md), [Batman (album)](../../topics/album/batman/index.md), [Controversy (album)](../../topics/album/controversy/index.md), [Dirty Mind (album)](../../topics/album/dirty-mind/index.md), [For You (album)](../../topics/album/for-you/index.md), [Grammy Award](../../topics/grammy-award/index.md), [Lovesexy (album)](../../topics/album/lovesexy/index.md), [Parade (album)](../../topics/album/parade/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Spotify](../../topics/spotify/index.md), [vault](../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.rhino.com/article/an-announcement-of-royal-proportions-princes-warner-bros-catalog-is-streaming-again))
 
-----
+<br />
 
  - [**"What's in Prince's 'vault'? It's still secret but maybe not for long"**](https://usatoday.com/story/life/music/2017/02/10/whats-princes-vault-s-still-secret-but-maybe-not-long/97744394/)
-
     - in [USA Today](https://usatoday.com/)
     - on 10 February 2017
     - about [merchandise](../../topics/merchandise/index.md), [NPG Records](../../topics/npg-records/index.md), [Spotify](../../topics/spotify/index.md), [Tidal](../../topics/tidal/index.md), [Universal Music Group](../../topics/universal-music-group/index.md), [vault](../../topics/vault/index.md)
@@ -288,41 +306,41 @@
 
 ----
 
- - [**"Fans’ Holy Grail: unreleased songs in Prince’s vault"**](https://apnews.com/73b9ba74daa4423bb36ac62d4655a71b)
+## 2016 (7)
 
+### 2016 April (7)
+
+ - [**"Fans’ Holy Grail: unreleased songs in Prince’s vault"**](https://apnews.com/73b9ba74daa4423bb36ac62d4655a71b)
     - in [Associated Press News](https://apnews.com/)
     - on 29 April 2016
     - about [Bangles](../../topics/bangles/index.md), [Bremer Trust](../../topics/bremer-trust/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Miles Davis](../../topics/miles-davis/index.md), [probate court](../../topics/probate-court/index.md), [Spotify](../../topics/spotify/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [vault](../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/73b9ba74daa4423bb36ac62d4655a71b))
 
-----
+<br />
 
  - [**"Magic memories: Prince’s warmth and wit shone in private"**](https://apnews.com/cf2e87db1753473eb63165d807bd45c2)
-
     - in [Associated Press News](https://apnews.com/)
     - on 23 April 2016
     - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Art Official Age (album)](../../topics/album/art-official-age/index.md), [James Brown](../../topics/james-brown/index.md), [Joshua Welton](../../topics/joshua-welton/index.md), [Larry Graham](../../topics/larry-graham/index.md), [memoir](../../topics/memoir/index.md), [NPG Records](../../topics/npg-records/index.md), [piracy](../../topics/piracy/index.md), [Spotify](../../topics/spotify/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md), [YouTube](../../topics/youtube/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/cf2e87db1753473eb63165d807bd45c2))
 
-----
+<br />
 
  - [**"Prince sells 1M songs, 231K albums posthumously"**](https://usatoday.com/story/life/music/2016/04/22/prince-sales-death/83376684/)
-
     - in [USA Today](https://usatoday.com/)
     - on 23 April 2016
     - about [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Spotify](../../topics/spotify/index.md), [Tidal](../../topics/tidal/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2016/04/22/prince-sales-death/83376684/))
 
-----
+<br />
 
  - [**"5 ways Prince slammed high tech in music"**](https://apnews.com/f4cdf36615b446d6bf994eab8ab22379)
-
     - in [Associated Press News](https://apnews.com/)
     - on 22 April 2016
     - about [FKA twigs](../../topics/fka-twigs/index.md), [James Brown](../../topics/james-brown/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Spotify](../../topics/spotify/index.md), [Tidal](../../topics/tidal/index.md), [YouTube](../../topics/youtube/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/f4cdf36615b446d6bf994eab8ab22379))
 
-----
+<br />
 
  - [**"A day with Prince at Paisley Park"**](https://apnews.com/948911d73f9941fd938df975a3dc5f6f)
     - by [Nekesa Mumbi Moody (Associated Press)](../../authors/associated-press/nekesa-mumbi-moody/index.md)
@@ -331,16 +349,15 @@
     - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [contract](../../topics/contract/index.md), [Donna Grantis](../../topics/donna-grantis/index.md), [FKA twigs](../../topics/fka-twigs/index.md), [James Brown](../../topics/james-brown/index.md), [Joshua Welton](../../topics/joshua-welton/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Rita Ora](../../topics/rita-ora/index.md), [Spotify](../../topics/spotify/index.md), [YouTube](../../topics/youtube/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/948911d73f9941fd938df975a3dc5f6f))
 
-----
+<br />
 
  - [**"The Latest: Tributes to Prince spring up across the US"**](https://apnews.com/debddfb333364e4091f0989c39458119)
-
     - in [Associated Press News](https://apnews.com/)
     - on 22 April 2016
     - about [Carver County](../../topics/carver-county/index.md), [contract](../../topics/contract/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Obama](../../topics/obama/index.md), [Spotify](../../topics/spotify/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/debddfb333364e4091f0989c39458119))
 
-----
+<br />
 
  - [**"Want to hear Prince music? Radio stations fill online void in wake of his death -- Fans can't hear his music on Spotify and other online music sites, but 89.3 the Current and First Avenue are going all out."**](https://www.startribune.com/want-to-hear-prince-music-radio-stations-fill-online-void-in-wake-of-his-death/376744351/)
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)

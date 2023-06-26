@@ -1,7 +1,10 @@
 # Charlie Murphy
 
- - [**"Prince’s Longtime Photographer Reflects On Working With The Singer: ‘You Could Just Go Wild’"**](https://www.littlethings.com/prince-photographer/)
+## 2019 (2)
 
+### 2019 December (1)
+
+ - [**"Prince’s Longtime Photographer Reflects On Working With The Singer: ‘You Could Just Go Wild’"**](https://www.littlethings.com/prince-photographer/)
     - in [www.littlethings.com](https://www.littlethings.com/)
     - on 9 December 2019
     - about [Charlie Murphy](../../topics/charlie-murphy/index.md), [Dave Chappelle](../../topics/dave-chappelle/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md)
@@ -9,8 +12,9 @@
 
 ----
 
- - [**"Go to Paisley Park While It's Still in Your Heart"**](https://www.houstonpress.com/music/a-trip-to-princes-paisley-park-11373725)
+### 2019 November (1)
 
+ - [**"Go to Paisley Park While It's Still in Your Heart"**](https://www.houstonpress.com/music/a-trip-to-princes-paisley-park-11373725)
     - in [www.houstonpress.com](https://www.houstonpress.com/)
     - on 1 November 2019
     - about [Academy Award](../../topics/academy-award/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Charlie Murphy](../../topics/charlie-murphy/index.md), [exhibit](../../topics/exhibit/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Graceland](../../topics/graceland/index.md), [James Brown](../../topics/james-brown/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Lizzo](../../topics/lizzo/index.md), [Minnesota Timberwolves](../../topics/minnesota-timberwolves/index.md), [motorcycle](../../topics/motorcycle/index.md), [museum](../../topics/museum/index.md), [NPG Music Club (website)](../../topics/website/npg-music-club/index.md), [Obama](../../topics/obama/index.md), [Sly Stone](../../topics/sly-stone/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Timberwolves](../../topics/timberwolves/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md)
@@ -18,26 +22,27 @@
 
 ----
 
- - [**"The True Story Behind Prince's Famous Basketball Game With Charlie Murphy -- Micki Free remembers The Purple One's perfect jump shot."**](https://www.esquire.com/entertainment/music/a54667/prince-basketball-game-charlie-murphy-micki-free/)
+## 2017 (3)
 
+### 2017 April (3)
+
+ - [**"The True Story Behind Prince's Famous Basketball Game With Charlie Murphy -- Micki Free remembers The Purple One's perfect jump shot."**](https://www.esquire.com/entertainment/music/a54667/prince-basketball-game-charlie-murphy-micki-free/)
     - in [Esquire](https://www.esquire.com/)
     - on 21 April 2017
     - about [Andre Cymone](../../topics/andre-cymone/index.md), [Charlie Murphy](../../topics/charlie-murphy/index.md), [Micki Free](../../topics/micki-free/index.md), [Morris Day](../../topics/morris-day/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.esquire.com/entertainment/music/a54667/prince-basketball-game-charlie-murphy-micki-free/))
 
-----
+<br />
 
  - [**"Comedian Charlie Murphy, brother of Eddie, dies at 57"**](https://apnews.com/15803935af9247c192707d1b81400809)
-
     - in [Associated Press News](https://apnews.com/)
     - on 12 April 2017
     - about [Charlie Murphy](../../topics/charlie-murphy/index.md), [Dave Chappelle](../../topics/dave-chappelle/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/15803935af9247c192707d1b81400809))
 
-----
+<br />
 
  - [**"Prince's Strange Relationship with Parody (and Weird Al) Detailed in Excerpt From Ben Greenman's 'Dig If U Will The Picture' [Exclusive]"**](https://www.okayplayer.com/news/prince-weird-al-exclusive-excerpt-ben-greenman-interview.html)
-
     - in [Okayplayer](https://www.okayplayer.com/)
     - on 6 April 2017
     - about [Charlie Murphy](../../topics/charlie-murphy/index.md), [Dave Chappelle](../../topics/dave-chappelle/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Questlove](../../topics/questlove/index.md), [Weird Al Yankovic](../../topics/weird-al-yankovic/index.md)
@@ -45,14 +50,19 @@
 
 ----
 
- - [**"Prince’s Closest Friends Share Their Best Prince Stories -- From Van Jones to Carmen Electra, publicists to Paisley Park members, those close to Prince Rogers Nelson tell tales—ordinary and out there—of the late legend."**](https://www.gq.com/story/prince-stories)
+## 2016 (2)
 
+### 2016 December (1)
+
+ - [**"Prince’s Closest Friends Share Their Best Prince Stories -- From Van Jones to Carmen Electra, publicists to Paisley Park members, those close to Prince Rogers Nelson tell tales—ordinary and out there—of the late legend."**](https://www.gq.com/story/prince-stories)
     - in [GQ](https://www.gq.com/)
     - on 8 December 2016
     - about [Albert Magnoli](../../topics/albert-magnoli/index.md), [American Bandstand](../../topics/american-bandstand/index.md), [André Cymone](../../topics/andr-cymone/index.md), [Audubon Road (place)](../../topics/place/audubon-road/index.md), [Bangles](../../topics/bangles/index.md), [Cat Glover](../../topics/cat-glover/index.md), [Central High](../../topics/central-high/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Chappelle's Show (TV show)](../../topics/tv-show/chappelle-s-show/index.md), [Charlie Murphy](../../topics/charlie-murphy/index.md), [Corey Tollefson](../../topics/corey-tollefson/index.md), [Dave Chappelle](../../topics/dave-chappelle/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [Gwen Stefani](../../topics/gwen-stefani/index.md), [Jeremiah Freed](../../topics/jeremiah-freed/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Kandace Springs](../../topics/kandace-springs/index.md), [Lake Minnetonka (place)](../../topics/place/lake-minnetonka/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Mayte](../../topics/mayte/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Micki Free](../../topics/micki-free/index.md), [Misty Copeland](../../topics/misty-copeland/index.md), [Morris Hayes](../../topics/morris-hayes/index.md), [Neal Karlen](../../topics/neal-karlen/index.md), [Netflix](../../topics/netflix/index.md), [NPG Records](../../topics/npg-records/index.md), [Obama](../../topics/obama/index.md), [Owen Husney](../../topics/owen-husney/index.md), [piracy](../../topics/piracy/index.md), [St. Louis Park (place)](../../topics/place/st-louis-park/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [The Gold Experience (album)](../../topics/album/the-gold-experience/index.md), [The Revolution](../../topics/the-revolution/index.md), [Van Jones](../../topics/van-jones/index.md), [Vanity](../../topics/vanity/index.md), [vault](../../topics/vault/index.md), [White House (place)](../../topics/place/white-house/index.md), [YouTube](../../topics/youtube/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.gq.com/story/prince-stories))
 
 ----
+
+### 2016 April (1)
 
  - [**"24 Outrageous Prince Stories"**](https://www.vulture.com/2014/09/24-outrageous-prince-stories.html)
     - by [David Marchese](../../authors/david-marchese/index.md)

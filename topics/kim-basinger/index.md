@@ -1,5 +1,9 @@
 # Kim Basinger
 
+## 2020 (1)
+
+### 2020 February (1)
+
  - [**"A White Wedding Just Means It's Snowing -- Quick, which Kardashian married a Golden Gopher? Catch up on the history of famous MN couples."**](http://mspmag.com/arts-and-culture/famous-mn-couples/)
     - by [Steve Marsh](../../authors/steve-marsh/index.md)
     - in [Mpls.St.Paul Magazine](http://mspmag.com/)
@@ -8,6 +12,10 @@
     - ([mirror](https://web.archive.org/web/*/http://mspmag.com/arts-and-culture/famous-mn-couples/))
 
 ----
+
+## 2016 (1)
+
+### 2016 April (1)
 
  - [**"24 Outrageous Prince Stories"**](https://www.vulture.com/2014/09/24-outrageous-prince-stories.html)
     - by [David Marchese](../../authors/david-marchese/index.md)

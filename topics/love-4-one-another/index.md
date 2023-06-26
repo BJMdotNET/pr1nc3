@@ -1,5 +1,9 @@
 # Love 4 One Another
 
+## 2022 (1)
+
+### 2022 March (1)
+
  - [**"Prince ‘Despised Alcohol,’ Says Winery In ‘Purple Rain’ Name Dispute -- The Ohio winemaker says there's no confusion because Prince — who famously didn't drink — would never have endorsed booze."**](https://www.billboard.com/pro/prince-estate-battles-winery-purple-rain/)
     - by [Bill Donahue](../../authors/bill-donahue/index.md)
     - in [Billboard](https://www.billboard.com/)
@@ -8,6 +12,10 @@
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/pro/prince-estate-battles-winery-purple-rain/))
 
 ----
+
+## 2017 (1)
+
+### 2017 January (1)
 
  - [**"Unsealed Prince divorce file shows luxe lifestyle, dispute over videos, jewels and photos -- The Star Tribune moved to unseal the files after questioning whether they would shed light on why Prince was taking painkillers, any potential heirs, or the value of his estate."**](https://www.startribune.com/unsealed-prince-divorce-file-shows-luxe-lifestyle-dispute-over-videos-jewels-and-photos/410652845/)
     - by [David Chanen](../../authors/david-chanen/index.md), [Rochelle Olson](../../authors/rochelle-olson/index.md)

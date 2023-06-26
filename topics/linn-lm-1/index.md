@@ -1,7 +1,10 @@
 # Linn LM-1
 
- - [**"Engineering Prince: Working With The Purple One as a Creator, Drummer, and Electronic Drum Pioneer"**](https://drummagazine.com/engineering-prince-the-purple-one-as-a-creator-drummer-and-electronic-drum-pioneer/)
+## 2020 (1)
 
+### 2020 February (1)
+
+ - [**"Engineering Prince: Working With The Purple One as a Creator, Drummer, and Electronic Drum Pioneer"**](https://drummagazine.com/engineering-prince-the-purple-one-as-a-creator-drummer-and-electronic-drum-pioneer/)
     - in [drummagazine.com](https://drummagazine.com/)
     - on 14 February 2020
     - about [3121 (album)](../../topics/album/3121/index.md), [Around The World In A Day (album)](../../topics/album/around-the-world-in-a-day/index.md), [Controversy (album)](../../topics/album/controversy/index.md), [Larrabee Sound (place)](../../topics/place/larrabee-sound/index.md), [Linn LM-1](../../topics/linn-lm-1/index.md), [Lisa Chamblee](../../topics/lisa-chamblee/index.md), [Peggy McCreary](../../topics/peggy-mccreary/index.md), [PRN Alumni Foundation](../../topics/prn-alumni-foundation/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Romance 1600 (album)](../../topics/album/romance-1600/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [Sylvia Massy](../../topics/sylvia-massy/index.md), [U Got the Look (song)](../../topics/song/u-got-the-look/index.md), [vault](../../topics/vault/index.md)
@@ -9,26 +12,27 @@
 
 ----
 
- - [**"More Prince, More Pleasure: The Joys of the Expanded ‘1999’ -- Prince’s fifth album, rereleased on its 37th anniversary with a wealth of material from his vault, captures the moment he broke down barriers and became a rock star."**](https://www.nytimes.com/2019/11/27/arts/music/prince-1999-review.html)
+## 2019 (5)
 
+### 2019 November (3)
+
+ - [**"More Prince, More Pleasure: The Joys of the Expanded ‘1999’ -- Prince’s fifth album, rereleased on its 37th anniversary with a wealth of material from his vault, captures the moment he broke down barriers and became a rock star."**](https://www.nytimes.com/2019/11/27/arts/music/prince-1999-review.html)
     - in [New York Times](https://www.nytimes.com/)
     - on 27 November 2019
     - about [1999 (album)](../../topics/album/1999/index.md), [Bold Generation (song)](../../topics/song/bold-generation/index.md), [Feel U Up (song)](../../topics/song/feel-u-up/index.md), [I Wanna Be Your Lover (song)](../../topics/song/i-wanna-be-your-lover/index.md), [Irresistible Bitch (song)](../../topics/song/irresistible-bitch/index.md), [Linn LM-1](../../topics/linn-lm-1/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [New Power Generation (song)](../../topics/song/new-power-generation/index.md), [No Call U (song)](../../topics/song/no-call-u/index.md), [Possessed (song)](../../topics/song/possessed/index.md), [Purple Music (song)](../../topics/song/purple-music/index.md), [Rearrange (song)](../../topics/song/rearrange/index.md), [Vagina (song)](../../topics/song/vagina/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.nytimes.com/2019/11/27/arts/music/prince-1999-review.html))
 
-----
+<br />
 
  - [**"Life was just a party: Prince’s 1999 and Chicago house music -- The Purple One could hardly have avoided influencing a genre whose earliest, most ardent fans were queer Black and Brown kids."**](https://www.chicagoreader.com/chicago/prince-1999-house-saunders-traxx-linn-influence-reissue/Content?oid=75725330)
-
     - in [www.chicagoreader.com](https://www.chicagoreader.com/)
     - on 20 November 2019
     - about [1999 (album)](../../topics/album/1999/index.md), [1999 (song)](../../topics/song/1999/index.md), [bootleg](../../topics/bootleg/index.md), [Cat Glover](../../topics/cat-glover/index.md), [contract](../../topics/contract/index.md), [I Wanna Be Your Lover (song)](../../topics/song/i-wanna-be-your-lover/index.md), [Jamie Starr](../../topics/jamie-starr/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Linn LM-1](../../topics/linn-lm-1/index.md), [Miles Davis](../../topics/miles-davis/index.md), [royalties](../../topics/royalties/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Black Album (album)](../../topics/album/the-black-album/index.md), [The Revolution](../../topics/the-revolution/index.md), [vault](../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.chicagoreader.com/chicago/prince-1999-house-saunders-traxx-linn-influence-reissue/Content?oid=75725330))
 
-----
+<br />
 
  - [**"Prince: The Story of 1999, Episode 1: My Mind Says Prepare to Fight"**](https://www.thecurrent.org/feature/2019/11/15/prince-story-1999-episode-one)
-
     - in [The Current](https://www.thecurrent.org/)
     - on 19 November 2019
     - about [1999 (album)](../../topics/album/1999/index.md), [airport](../../topics/airport/index.md), [Andrea Swensson](../../topics/andrea-swensson/index.md), [Colleen (song)](../../topics/song/colleen/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [Duane Tudahl](../../topics/duane-tudahl/index.md), [Feel U Up (song)](../../topics/song/feel-u-up/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Irresistible Bitch (song)](../../topics/song/irresistible-bitch/index.md), [Jamie Starr](../../topics/jamie-starr/index.md), [Linn LM-1](../../topics/linn-lm-1/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Matt Fink](../../topics/matt-fink/index.md), [Michael Howe](../../topics/michael-howe/index.md), [Peggy McCreary](../../topics/peggy-mccreary/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Prince: The Story of 1999](../../topics/prince-the-story-of-1999/index.md), [Purple Music (song)](../../topics/song/purple-music/index.md), [Spotify](../../topics/spotify/index.md), [St. Louis Park (place)](../../topics/place/st-louis-park/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [The Revolution](../../topics/the-revolution/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md)
@@ -36,14 +40,15 @@
 
 ----
 
- - [**"Prince's Drum Machine: How His Use of the Linn LM-1 Heralded a New Age of Pop Rhythm Creation"**](https://reverb.com/news/prince-and-the-linn-lm-1)
+### 2019 June (2)
 
+ - [**"Prince's Drum Machine: How His Use of the Linn LM-1 Heralded a New Age of Pop Rhythm Creation"**](https://reverb.com/news/prince-and-the-linn-lm-1)
     - in [Reverb](https://reverb.com/)
     - on 24 June 2019
     - about [Linn LM-1](../../topics/linn-lm-1/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Roger Linn](../../topics/roger-linn/index.md), [Sly Stone](../../topics/sly-stone/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [The Ballad Of Dorothy Parker (song)](../../topics/song/the-ballad-of-dorothy-parker/index.md), [The Revolution](../../topics/the-revolution/index.md)
     - ([mirror](https://web.archive.org/web/*/https://reverb.com/news/prince-and-the-linn-lm-1))
 
-----
+<br />
 
  - [**"Prince and The Revolution’s ‘Purple Rain’ Turns 35: Anniversary Retrospective -- Happy 35th Anniversary to Prince’s sixth studio album (and soundtrack to the film) Purple Rain, originally released June 25, 1984."**](https://www.albumism.com/features/prince-and-the-revolution-purple-rain-turns-35-anniversary-retrospective)
     - by [Andy Healy](../../authors/andy-healy/index.md)
@@ -54,8 +59,11 @@
 
 ----
 
- - [**"Driving to Utopia in a ’74 Pinto: Reflecting on Prince with The Revolution’s Bobby Z"**](https://ovrld.com/interviews/bobby-z-prince-revolution/)
+## 2018 (1)
 
+### 2018 December (1)
+
+ - [**"Driving to Utopia in a ’74 Pinto: Reflecting on Prince with The Revolution’s Bobby Z"**](https://ovrld.com/interviews/bobby-z-prince-revolution/)
     - in [Ovrld](https://ovrld.com/)
     - on 28 December 2018
     - about [1999 (album)](../../topics/album/1999/index.md), [1999 (song)](../../topics/song/1999/index.md), [Austin (place)](../../topics/place/austin/index.md), [Bay Area (place)](../../topics/place/bay-area/index.md), [Bobby Z](../../topics/bobby-z/index.md), [Controversy (album)](../../topics/album/controversy/index.md), [Controversy (song)](../../topics/song/controversy/index.md), [Fleetwood Mac](../../topics/fleetwood-mac/index.md), [James Brown](../../topics/james-brown/index.md), [Linn LM-1](../../topics/linn-lm-1/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [London (place)](../../topics/place/london/index.md), [My Purple Heart](../../topics/my-purple-heart/index.md), [O2 (place)](../../topics/place/o2/index.md), [Our Destiny (song)](../../topics/song/our-destiny/index.md), [Owen Husney](../../topics/owen-husney/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Paradiso (place)](../../topics/place/paradiso/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [River Run Dry (song)](../../topics/song/river-run-dry/index.md), [Rolling Stones](../../topics/rolling-stones/index.md), [Simmons](../../topics/simmons/index.md), [Steve Fargnoli](../../topics/steve-fargnoli/index.md), [Texas (place)](../../topics/place/texas/index.md), [The Coliseum (place)](../../topics/place/the-coliseum/index.md), [The Revolution](../../topics/the-revolution/index.md)

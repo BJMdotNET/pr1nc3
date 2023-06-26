@@ -1,5 +1,9 @@
 # U.S. Patent and Trademark Office
 
+## 2022 (2)
+
+### 2022 August (1)
+
  - [**"Prince Estate Shuts Down ‘Purple Rain’ Energy Drink Brand -- Bang Energy wanted a "Purple Rain" trademark, but a federal agency says the name "uniquely and unmistakably" points to the late rock star."**](https://www.billboard.com/pro/prince-estate-purple-rain-bang-energy-drink-ruling/)
     - by [Bill Donahue](../../authors/bill-donahue/index.md)
     - in [Billboard](https://www.billboard.com/)
@@ -8,6 +12,8 @@
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/pro/prince-estate-purple-rain-bang-energy-drink-ruling/))
 
 ----
+
+### 2022 March (1)
 
  - [**"Prince ‘Despised Alcohol,’ Says Winery In ‘Purple Rain’ Name Dispute -- The Ohio winemaker says there's no confusion because Prince — who famously didn't drink — would never have endorsed booze."**](https://www.billboard.com/pro/prince-estate-battles-winery-purple-rain/)
     - by [Bill Donahue](../../authors/bill-donahue/index.md)

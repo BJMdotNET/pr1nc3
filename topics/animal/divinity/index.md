@@ -1,13 +1,20 @@
 # Divinity (animal)
 
- - [**"White dove that connected Prince to his fans dies at age 28"**](https://apnews.com/article/minnesota-prince-1bd0d87e74ffa9087ef13d12b2de4fa7)
+## 2021 (1)
 
+### 2021 February (1)
+
+ - [**"White dove that connected Prince to his fans dies at age 28"**](https://apnews.com/article/minnesota-prince-1bd0d87e74ffa9087ef13d12b2de4fa7)
     - in [Associated Press News](https://apnews.com/)
     - on 4 February 2021
     - about [Alan Seiffert](../../../topics/alan-seiffert/index.md), [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Divinity (animal)](../../../topics/animal/divinity/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/minnesota-prince-1bd0d87e74ffa9087ef13d12b2de4fa7))
 
 ----
+
+## 2016 (1)
+
+### 2016 April (1)
 
  - [**"24 Outrageous Prince Stories"**](https://www.vulture.com/2014/09/24-outrageous-prince-stories.html)
     - by [David Marchese](../../../authors/david-marchese/index.md)

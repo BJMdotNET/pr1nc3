@@ -1,13 +1,20 @@
 # Richard Pryor
 
- - [**"6 cool things in music this week including Neil Peart, Billie Eilish, Paisley Park Cinema and Keith Richards"**](https://www.startribune.com/6-cool-things-in-music-this-week-including-neil-peart-billie-eilish-paisley-park-cinema-and-keith-richards/567079992/)
+## 2020 (1)
 
+### 2020 January (1)
+
+ - [**"6 cool things in music this week including Neil Peart, Billie Eilish, Paisley Park Cinema and Keith Richards"**](https://www.startribune.com/6-cool-things-in-music-this-week-including-neil-peart-billie-eilish-paisley-park-cinema-and-keith-richards/567079992/)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 17 January 2020
     - about [Amazing Grace (movie)](../../topics/movie/amazing-grace/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Jon Bream](../../topics/jon-bream/index.md), [Richard Pryor](../../topics/richard-pryor/index.md), [Wattstax (movie)](../../topics/movie/wattstax/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md), [YouTube](../../topics/youtube/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/6-cool-things-in-music-this-week-including-neil-peart-billie-eilish-paisley-park-cinema-and-keith-richards/567079992/))
 
 ----
+
+## 2019 (1)
+
+### 2019 July (1)
 
  - [**"‘Purple Rain’ turns 35 – how Prince’s cult classic broke barriers"**](https://spokesman-recorder.com/2019/07/26/purple-rain-turns-35-how-princes-cult-classic-broke-barriers/)
     - by [Tony Kiene](../../authors/tony-kiene/index.md)

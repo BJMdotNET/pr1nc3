@@ -1,13 +1,18 @@
 # Suzanne Vega
 
- - [**"5 QUESTIONS TO … SUZANNE VEGA"**](http://www.boxinasuitcase.com/en/books-en/5-questions-to-suzanne-vega-405048/)
+## 2016 (5)
 
+### 2016 November (1)
+
+ - [**"5 QUESTIONS TO … SUZANNE VEGA"**](http://www.boxinasuitcase.com/en/books-en/5-questions-to-suzanne-vega-405048/)
     - in [Box In A Suitcase](http://www.boxinasuitcase.com/)
     - on 12 November 2016
     - about [Luka (song)](../../topics/song/luka/index.md), [Suzanne Vega](../../topics/suzanne-vega/index.md)
     - ([mirror](https://web.archive.org/web/*/http://www.boxinasuitcase.com/en/books-en/5-questions-to-suzanne-vega-405048/))
 
 ----
+
+### 2016 April (4)
 
  - [**"Suzanne Vega On That Note From Prince: 'I Always Felt That Connection'"**](https://www.billboard.com/articles/news/7350157/suzanne-vega-prince-interview)
     - by [Melinda Newman](../../authors/melinda-newman/index.md)
@@ -16,7 +21,7 @@
     - about [Luka (song)](../../topics/song/luka/index.md), [Suzanne Vega](../../topics/suzanne-vega/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/7350157/suzanne-vega-prince-interview))
 
-----
+<br />
 
  - [**"Suzanne Vega: Prince Wrote Me a ‘Moving’ Thank You Letter for My Song ‘Luka’"**](https://www.usmagazine.com/celebrity-news/news/prince-sent-suzanne-vega-a-moving-thank-you-note-for-a-song-w204545/)
     - by [Esther Lee](../../authors/esther-lee/index.md)
@@ -25,7 +30,7 @@
     - about [Luka (song)](../../topics/song/luka/index.md), [Suzanne Vega](../../topics/suzanne-vega/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.usmagazine.com/celebrity-news/news/prince-sent-suzanne-vega-a-moving-thank-you-note-for-a-song-w204545/))
 
-----
+<br />
 
  - [**"I found my letter from #Prince"**](https://twitter.com/suzyv/status/724728422006554624)
     - by [Suzanne Vega](../../authors/suzanne-vega/index.md)
@@ -34,7 +39,7 @@
     - about [Suzanne Vega](../../topics/suzanne-vega/index.md)
     - ([mirror](https://web.archive.org/web/*/https://twitter.com/suzyv/status/724728422006554624))
 
-----
+<br />
 
  - [**"Suzanne Vega Shares Handwritten Letter From Prince"**](https://www.billboard.com/articles/news/7341897/suzanne-vega-prince-handwritten-letter-luka)
     - by [Colin Stutz](../../authors/colin-stutz/index.md)
@@ -44,6 +49,10 @@
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/7341897/suzanne-vega-prince-handwritten-letter-luka))
 
 ----
+
+## 2014 (1)
+
+### 2014 December (1)
 
  - [**"Tales From Suzanne Vega -- GRAMMY-winning singer/songwriter discusses the making of her new album, Tales From The Realm Of The Queen Of Pentacles, and being years ahead of "Game Of Thrones""**](https://www.grammy.com/grammys/news/tales-suzanne-vega)
     - by [Steve Baltin](../../authors/steve-baltin/index.md)

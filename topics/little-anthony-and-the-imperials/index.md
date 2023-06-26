@@ -1,13 +1,18 @@
 # Little Anthony and The Imperials
 
- - [**"Former Prince mentor Pepé Willie shares memories of the late legend"**](https://spokesman-recorder.com/2019/12/14/former-prince-mentor-pepe-willie-shares-storied-history-of-do-yourself-a-favor-if-you-see-me/)
+## 2019 (2)
 
+### 2019 December (1)
+
+ - [**"Former Prince mentor Pepé Willie shares memories of the late legend"**](https://spokesman-recorder.com/2019/12/14/former-prince-mentor-pepe-willie-shares-storied-history-of-do-yourself-a-favor-if-you-see-me/)
     - in [Minnesota Spokesman-Recorder](https://spokesman-recorder.com/)
     - on 14 December 2019
     - about [1999 Super Deluxe (album)](../../topics/album/1999-super-deluxe/index.md), [94 East](../../topics/94-east/index.md), [André Cymone](../../topics/andr-cymone/index.md), [Bob Cavallo](../../topics/bob-cavallo/index.md), [bootleg](../../topics/bootleg/index.md), [Detroit (place)](../../topics/place/detroit/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [Do Yourself a Favor (song)](../../topics/song/do-yourself-a-favor/index.md), [Little Anthony and The Imperials](../../topics/little-anthony-and-the-imperials/index.md), [Morris Day](../../topics/morris-day/index.md), [No Call U (song)](../../topics/song/no-call-u/index.md), [North Carolina (place)](../../topics/place/north-carolina/index.md), [Owen Husney](../../topics/owen-husney/index.md), [Pepé Willie](../../topics/pep-willie/index.md), [Purple Music (song)](../../topics/song/purple-music/index.md), [The Revolution](../../topics/the-revolution/index.md), [vault](../../topics/vault/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md)
     - ([mirror](https://web.archive.org/web/*/https://spokesman-recorder.com/2019/12/14/former-prince-mentor-pepe-willie-shares-storied-history-of-do-yourself-a-favor-if-you-see-me/))
 
 ----
+
+### 2019 July (1)
 
  - [**"‘Purple Rain’ turns 35 – how Prince’s cult classic broke barriers"**](https://spokesman-recorder.com/2019/07/26/purple-rain-turns-35-how-princes-cult-classic-broke-barriers/)
     - by [Tony Kiene](../../authors/tony-kiene/index.md)
@@ -18,8 +23,11 @@
 
 ----
 
- - [**"Early Prince Mentor Still Struggles with Star's Death"**](https://kstp.com/news/early-prince-mentor-pepe-willie-struggles-with-princes-death-/4460798/)
+## 2017 (1)
 
+### 2017 April (1)
+
+ - [**"Early Prince Mentor Still Struggles with Star's Death"**](https://kstp.com/news/early-prince-mentor-pepe-willie-struggles-with-princes-death-/4460798/)
     - in [KSTP](https://kstp.com/)
     - on 21 April 2017
     - about [94 East](../../topics/94-east/index.md), [Little Anthony and The Imperials](../../topics/little-anthony-and-the-imperials/index.md), [Pepe Willie](../../topics/pepe-willie/index.md)

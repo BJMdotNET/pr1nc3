@@ -1,5 +1,9 @@
 # Fredrikson & Byron
 
+## 2022 (1)
+
+### 2022 March (1)
+
  - [**"Prince Estate Told Morris Day He Could Not Use ‘Time’ Band Name, Docs Show -- Day says the Prince estate is trying to "rewrite history" by "taking my name away from me.""**](https://www.billboard.com/business/legal/prince-estate-morris-day-the-time-response-1235039415/)
     - by [Bill Donahue](../../authors/bill-donahue/index.md)
     - in [Billboard](https://www.billboard.com/)
@@ -8,6 +12,10 @@
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/business/legal/prince-estate-morris-day-the-time-response-1235039415/))
 
 ----
+
+## 2020 (1)
+
+### 2020 February (1)
 
  - [**"Death of Prince heir complicates estate settlement even more -- Nearly a third of Prince's estate could go to parties not related to him after two siblings signed agreements with Primary Wave."**](https://www.startribune.com/untimely-death-of-prince-heir-complicates-estate-settlement-even-more/568089142/)
     - by [Jon Bream](../../authors/jon-bream/index.md), [Mike Hughlett](../../authors/mike-hughlett/index.md)

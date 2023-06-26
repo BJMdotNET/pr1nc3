@@ -1,7 +1,10 @@
 # Detroit (place)
 
- - [**"Twin Cities rockers Hairball go viral after singer's hair catches fire mid-song"**](https://www.startribune.com/twin-cities-rockers-hairball-go-viral-after-singer-s-hair-catches-fire-mid-song/567974442/)
+## 2020 (2)
 
+### 2020 February (1)
+
+ - [**"Twin Cities rockers Hairball go viral after singer's hair catches fire mid-song"**](https://www.startribune.com/twin-cities-rockers-hairball-go-viral-after-singer-s-hair-catches-fire-mid-song/567974442/)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 18 February 2020
     - about [Detroit (place)](../../../topics/place/detroit/index.md), [Xcel Energy Center (place)](../../../topics/place/xcel-energy-center/index.md)
@@ -9,8 +12,9 @@
 
 ----
 
- - [**"The Joy of Lizzo -- She has become a new kind of pop superstar, full of relentless positivity. But it took a long time and a lot of heartache"**](https://www.rollingstone.com/music/music-features/lizzo-cover-story-interview-truth-hurts-grammys-937009/)
+### 2020 January (1)
 
+ - [**"The Joy of Lizzo -- She has become a new kind of pop superstar, full of relentless positivity. But it took a long time and a lot of heartache"**](https://www.rollingstone.com/music/music-features/lizzo-cover-story-interview-truth-hurts-grammys-937009/)
     - in [Rolling Stone](https://www.rollingstone.com/)
     - on 22 January 2020
     - about [3rdEyeGirl](../../../topics/3rdeyegirl/index.md), [BET Awards](../../../topics/bet-awards/index.md), [Beyoncé](../../../topics/beyonc/index.md), [Detroit (place)](../../../topics/place/detroit/index.md), [lawsuit](../../../topics/lawsuit/index.md), [Lizzo](../../../topics/lizzo/index.md), [Netflix](../../../topics/netflix/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Toronto (place)](../../../topics/place/toronto/index.md)
@@ -18,26 +22,27 @@
 
 ----
 
- - [**"Prince: The Story of 1999 bonus feature: Bobby Z, 'Prince went from a caterpillar to a butterfly in that one purple trench coat'"**](https://www.thecurrent.org/feature/2019/12/20/prince-drummer-bobby-z-the-revolution-interview)
+## 2019 (5)
 
+### 2019 December (3)
+
+ - [**"Prince: The Story of 1999 bonus feature: Bobby Z, 'Prince went from a caterpillar to a butterfly in that one purple trench coat'"**](https://www.thecurrent.org/feature/2019/12/20/prince-drummer-bobby-z-the-revolution-interview)
     - in [The Current](https://www.thecurrent.org/)
     - on 20 December 2019
     - about [1999 (album)](../../../topics/album/1999/index.md), [1999 Deluxe (album)](../../../topics/album/1999-deluxe/index.md), [Andrea Swensson](../../../topics/andrea-swensson/index.md), [Andy Warhol](../../../topics/andy-warhol/index.md), [Armory (place)](../../../topics/place/armory/index.md), [Bobby Z.](../../../topics/bobby-z/index.md), [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [D.M.S.R. (song)](../../../topics/song/d-m-s-r/index.md), [Darling Nikki (song)](../../../topics/song/darling-nikki/index.md), [Detroit (place)](../../../topics/place/detroit/index.md), [Do It All Night (song)](../../../topics/song/do-it-all-night/index.md), [Earth, Wind and Fire](../../../topics/earth-wind-and-fire/index.md), [Lake Minnetonka (place)](../../../topics/place/lake-minnetonka/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [London (place)](../../../topics/place/london/index.md), [Matt Fink](../../../topics/matt-fink/index.md), [Paradiso (place)](../../../topics/place/paradiso/index.md), [Prince: The Story of 1999](../../../topics/prince-the-story-of-1999/index.md), [Purple Music (song)](../../../topics/song/purple-music/index.md), [Rick James](../../../topics/rick-james/index.md), [Rolling Stones](../../../topics/rolling-stones/index.md), [Sausalito (place)](../../../topics/place/sausalito/index.md), [St. Louis Park (place)](../../../topics/place/st-louis-park/index.md), [Steve Fargnoli](../../../topics/steve-fargnoli/index.md), [The Coliseum (place)](../../../topics/place/the-coliseum/index.md), [The Revolution](../../../topics/the-revolution/index.md), [Vanity](../../../topics/vanity/index.md), [Vanity 6](../../../topics/vanity-6/index.md), [Warner Bros. Records](../../../topics/warner-bros-records/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/12/20/prince-drummer-bobby-z-the-revolution-interview))
 
-----
+<br />
 
  - [**"Former Prince mentor Pepé Willie shares memories of the late legend"**](https://spokesman-recorder.com/2019/12/14/former-prince-mentor-pepe-willie-shares-storied-history-of-do-yourself-a-favor-if-you-see-me/)
-
     - in [Minnesota Spokesman-Recorder](https://spokesman-recorder.com/)
     - on 14 December 2019
     - about [1999 Super Deluxe (album)](../../../topics/album/1999-super-deluxe/index.md), [94 East](../../../topics/94-east/index.md), [André Cymone](../../../topics/andr-cymone/index.md), [Bob Cavallo](../../../topics/bob-cavallo/index.md), [bootleg](../../../topics/bootleg/index.md), [Detroit (place)](../../../topics/place/detroit/index.md), [Dez Dickerson](../../../topics/dez-dickerson/index.md), [Do Yourself a Favor (song)](../../../topics/song/do-yourself-a-favor/index.md), [Little Anthony and The Imperials](../../../topics/little-anthony-and-the-imperials/index.md), [Morris Day](../../../topics/morris-day/index.md), [No Call U (song)](../../../topics/song/no-call-u/index.md), [North Carolina (place)](../../../topics/place/north-carolina/index.md), [Owen Husney](../../../topics/owen-husney/index.md), [Pepé Willie](../../../topics/pep-willie/index.md), [Purple Music (song)](../../../topics/song/purple-music/index.md), [The Revolution](../../../topics/the-revolution/index.md), [vault](../../../topics/vault/index.md), [Warner Bros. Records](../../../topics/warner-bros-records/index.md)
     - ([mirror](https://web.archive.org/web/*/https://spokesman-recorder.com/2019/12/14/former-prince-mentor-pepe-willie-shares-storied-history-of-do-yourself-a-favor-if-you-see-me/))
 
-----
+<br />
 
  - [**"Prince: The Story of 1999, Episode 4: Let's Work"**](https://www.thecurrent.org/feature/2019/12/10/prince-the-story-of-1999-episode-4-lets-work-swensson)
-
     - in [The Current](https://www.thecurrent.org/)
     - on 10 December 2019
     - about [1999 (album)](../../../topics/album/1999/index.md), [1999 Super Deluxe (album)](../../../topics/album/1999-super-deluxe/index.md), [Alabama Shakes](../../../topics/alabama-shakes/index.md), [Andrea Swensson](../../../topics/andrea-swensson/index.md), [Brittany Howard](../../../topics/brittany-howard/index.md), [Detroit (place)](../../../topics/place/detroit/index.md), [Dez Dickerson](../../../topics/dez-dickerson/index.md), [Essence Fest (event)](../../../topics/event/essence-fest/index.md), [Essence Festival (event)](../../../topics/event/essence-festival/index.md), [Fred Armisen](../../../topics/fred-armisen/index.md), [Grammys](../../../topics/grammys/index.md), [How Come U Don't Call Me Anymore (song)](../../../topics/song/how-come-u-don-t-call-me-anymore/index.md), [I Wanna Be Your Lover (song)](../../../topics/song/i-wanna-be-your-lover/index.md), [Jellybean Johnson](../../../topics/jellybean-johnson/index.md), [LeRoy Bennett](../../../topics/leroy-bennett/index.md), [Lisa Coleman](../../../topics/lisa-coleman/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Matt Fink](../../../topics/matt-fink/index.md), [Maya Rudolph](../../../topics/maya-rudolph/index.md), [Michael Howe](../../../topics/michael-howe/index.md), [Michael Jackson](../../../topics/michael-jackson/index.md), [Nile Rodgers](../../../topics/nile-rodgers/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Parade (album)](../../../topics/album/parade/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [Prince: The Story of 1999](../../../topics/prince-the-story-of-1999/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Spotify](../../../topics/spotify/index.md), [Super Bowl](../../../topics/super-bowl/index.md), [The Prince Estate](../../../topics/the-prince-estate/index.md), [The Revolution](../../../topics/the-revolution/index.md), [Vanity](../../../topics/vanity/index.md), [Vanity 6](../../../topics/vanity-6/index.md), [vault](../../../topics/vault/index.md)
@@ -45,14 +50,17 @@
 
 ----
 
- - [**""A REMARKABLE MAN!” -- Susan Rogers Reflects upon her Lifelong Journey in Music, What it was Like to Watch a ‘Genius at Work,’ and Her Personal Vow to lift up Prince’s Legacy at Every Turn -- Spotlight: Susan Rogers"**](http://prnalumni.org/members/spotlight/spotlight-susan-rogers/)
+### 2019 October (1)
 
+ - [**""A REMARKABLE MAN!” -- Susan Rogers Reflects upon her Lifelong Journey in Music, What it was Like to Watch a ‘Genius at Work,’ and Her Personal Vow to lift up Prince’s Legacy at Every Turn -- Spotlight: Susan Rogers"**](http://prnalumni.org/members/spotlight/spotlight-susan-rogers/)
     - in [prnalumni.org](http://prnalumni.org/)
     - on 11 October 2019
     - about [André Cymone](../../../topics/andr-cymone/index.md), [ASCAP](../../../topics/ascap/index.md), [Bruce Springsteen](../../../topics/bruce-springsteen/index.md), [Candy Dulfer](../../../topics/candy-dulfer/index.md), [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Computer Blue (song)](../../../topics/song/computer-blue/index.md), [Detroit (place)](../../../topics/place/detroit/index.md), [Eric Leeds](../../../topics/eric-leeds/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Forum (place)](../../../topics/place/forum/index.md), [Inglewood, California (place)](../../../topics/place/inglewood-california/index.md), [Jesse Johnson](../../../topics/jesse-johnson/index.md), [Jill Jones](../../../topics/jill-jones/index.md), [Joe Louis Arena (place)](../../../topics/place/joe-louis-arena/index.md), [Kiowa Trail](../../../topics/kiowa-trail/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Madonna](../../../topics/madonna/index.md), [Mavis Staples](../../../topics/mavis-staples/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [PRN Alumni Foundation](../../../topics/prn-alumni-foundation/index.md), [Sheena Easton](../../../topics/sheena-easton/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [St. Louis Park (place)](../../../topics/place/st-louis-park/index.md), [Steve Fargnoli](../../../topics/steve-fargnoli/index.md), [Susan Rogers](../../../topics/susan-rogers/index.md), [Tevin Campbell](../../../topics/tevin-campbell/index.md), [Twin Cities (place)](../../../topics/place/twin-cities/index.md), [University of Minnesota](../../../topics/university-of-minnesota/index.md), [Warner Bros. Records](../../../topics/warner-bros-records/index.md)
     - ([mirror](https://web.archive.org/web/*/http://prnalumni.org/members/spotlight/spotlight-susan-rogers/))
 
 ----
+
+### 2019 July (1)
 
  - [**"‘Purple Rain’ turns 35 – how Prince’s cult classic broke barriers"**](https://spokesman-recorder.com/2019/07/26/purple-rain-turns-35-how-princes-cult-classic-broke-barriers/)
     - by [Tony Kiene](../../../authors/tony-kiene/index.md)
@@ -63,17 +71,19 @@
 
 ----
 
- - [**"‘I’m Going to Personify Sex in Every Way’: Prince’s Defining ‘Dirty Mind’ Album -- A refusal to be labeled R&B, a rivalry with Rick James and a very dirty song called 'Head': the groundbreaking arrival of 1980's 'Dirty Mind.'"**](https://www.billboard.com/music/features/prince-dirty-mind-retrospective-7348526/)
+## 2016 (2)
 
+### 2016 April (2)
+
+ - [**"‘I’m Going to Personify Sex in Every Way’: Prince’s Defining ‘Dirty Mind’ Album -- A refusal to be labeled R&B, a rivalry with Rick James and a very dirty song called 'Head': the groundbreaking arrival of 1980's 'Dirty Mind.'"**](https://www.billboard.com/music/features/prince-dirty-mind-retrospective-7348526/)
     - in [Billboard](https://www.billboard.com/)
     - on 28 April 2016
     - about [American Bandstand](../../../topics/american-bandstand/index.md), [André Cymone](../../../topics/andr-cymone/index.md), [Andy Warhol](../../../topics/andy-warhol/index.md), [Bobby Z](../../../topics/bobby-z/index.md), [Denver (place)](../../../topics/place/denver/index.md), [Detroit (place)](../../../topics/place/detroit/index.md), [Dez Dickerson](../../../topics/dez-dickerson/index.md), [Dick Clark](../../../topics/dick-clark/index.md), [Dirty Mind (album)](../../../topics/album/dirty-mind/index.md), [Dirty Mind (tour)](../../../topics/tour/dirty-mind/index.md), [Gayle Chapman](../../../topics/gayle-chapman/index.md), [Head (song)](../../../topics/song/head/index.md), [I Wanna Be Your Lover (song)](../../../topics/song/i-wanna-be-your-lover/index.md), [Ken Tucker](../../../topics/ken-tucker/index.md), [Lake Minnetonka (place)](../../../topics/place/lake-minnetonka/index.md), [Lenny Waronker](../../../topics/lenny-waronker/index.md), [Lisa Coleman](../../../topics/lisa-coleman/index.md), [Los Angeles (place)](../../../topics/place/los-angeles/index.md), [memoir](../../../topics/memoir/index.md), [Mo Ostin](../../../topics/mo-ostin/index.md), [Rick James](../../../topics/rick-james/index.md), [Rolling Stone (magazine)](../../../topics/magazine/rolling-stone/index.md), [Roxy (place)](../../../topics/place/roxy/index.md), [Russ Thyret](../../../topics/russ-thyret/index.md), [Sam’s (place)](../../../topics/place/sam-s/index.md), [Steve Fargnoli](../../../topics/steve-fargnoli/index.md), [Stevie Wonder](../../../topics/stevie-wonder/index.md), [Ted Cohen](../../../topics/ted-cohen/index.md), [The Rainbow (place)](../../../topics/place/the-rainbow/index.md), [The Ritz (place)](../../../topics/place/the-ritz/index.md), [The Village Voice (magazine)](../../../topics/magazine/the-village-voice/index.md), [Twin Cities (place)](../../../topics/place/twin-cities/index.md), [Wayzata (place)](../../../topics/place/wayzata/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/music/features/prince-dirty-mind-retrospective-7348526/))
 
-----
+<br />
 
  - [**"PRINCE AND THE REVOLUTION: BEHIND THE PURPLE ROPE -- Having established his heavyweight status as James Brown’s tour manager, Alan Leeds was brought on midway through Prince’s 1999 tour as a freelance replacement. After finding his niche within the sometimes peculiar Prince entourage, Alan and his wife Gwen moved to Minneapolis to work for the artist full time. Little did they know, they were about to witness some of the greatest years in the history of popular music, as Prince and the Revolution busted out with the groundbreaking album and film Purple Rain."**](https://www.waxpoetics.com/connections/prince/article/prince-and-the-revolution/)
-
     - in [Wax Poetics](https://www.waxpoetics.com/)
     - on 19 April 2016
     - about [Alan Leeds](../../../topics/alan-leeds/index.md), [Bobby Z](../../../topics/bobby-z/index.md), [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Chick Huntsberry](../../../topics/chick-huntsberry/index.md), [Darling Nikki (song)](../../../topics/song/darling-nikki/index.md), [Detroit (place)](../../../topics/place/detroit/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Gwen Leeds](../../../topics/gwen-leeds/index.md), [James Brown](../../../topics/james-brown/index.md), [Jerome Benton](../../../topics/jerome-benton/index.md), [Jill Jones](../../../topics/jill-jones/index.md), [Jimmy Jam](../../../topics/jimmy-jam/index.md), [John Nelson](../../../topics/john-nelson/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Lisa Coleman](../../../topics/lisa-coleman/index.md), [Morris Day](../../../topics/morris-day/index.md), [New Orleans (place)](../../../topics/place/new-orleans/index.md), [Paisley Park Records](../../../topics/paisley-park-records/index.md), [Prince and The Revolution](../../../topics/prince-and-the-revolution/index.md), [Steve Fargnoli](../../../topics/steve-fargnoli/index.md), [Superdome (place)](../../../topics/place/superdome/index.md), [Terry Lewis](../../../topics/terry-lewis/index.md), [The Revolution](../../../topics/the-revolution/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md)
@@ -81,14 +91,21 @@
 
 ----
 
- - [**"Rhino Historic Tours: Prince Kicks Off the Purple Rain Tour"**](https://www.rhino.com/article/rhino-historic-tours-prince-kicks-off-the-purple-rain-tour)
+## 2014 (1)
 
+### 2014 November (1)
+
+ - [**"Rhino Historic Tours: Prince Kicks Off the Purple Rain Tour"**](https://www.rhino.com/article/rhino-historic-tours-prince-kicks-off-the-purple-rain-tour)
     - in [Rhino](https://www.rhino.com/)
     - on 4 November 2014
     - about [Baby I’m a Star (song)](../../../topics/song/baby-i-m-a-star/index.md), [Bruce Springsteen](../../../topics/bruce-springsteen/index.md), [Dave Marsh](../../../topics/dave-marsh/index.md), [Detroit (place)](../../../topics/place/detroit/index.md), [Detroit, Michigan (place)](../../../topics/place/detroit-michigan/index.md), [Dez Dickerson](../../../topics/dez-dickerson/index.md), [Inglewood, California (place)](../../../topics/place/inglewood-california/index.md), [Joe Louis Arena (place)](../../../topics/place/joe-louis-arena/index.md), [Lisa Coleman](../../../topics/lisa-coleman/index.md), [Madonna](../../../topics/madonna/index.md), [Parade (album)](../../../topics/album/parade/index.md), [Purple Rain (album)](../../../topics/album/purple-rain/index.md), [Purple Rain (tour)](../../../topics/tour/purple-rain/index.md), [The Revolution](../../../topics/the-revolution/index.md), [Wendy & Lisa](../../../topics/wendy-lisa/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.rhino.com/article/rhino-historic-tours-prince-kicks-off-the-purple-rain-tour))
 
 ----
+
+## 2009 (1)
+
+### 2009 July (1)
 
  - [**"Purple’ afterglow: 25 years ago, film and soundtrack turned Prince into a megastar"**](https://www.bostonherald.com/2009/07/31/purple-afterglow-25-years-ago-film-and-soundtrack-turned-prince-into-a-megastar/)
     - by [Jon Bream](../../../authors/jon-bream/index.md)

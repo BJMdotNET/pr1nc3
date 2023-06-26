@@ -1,5 +1,9 @@
 # Galpin Boulevard (place)
 
+## 2023 (1)
+
+### 2023 June (1)
+
  - [**"Why did Prince decide to live in Chanhassen? -- The Minneapolis native's legacy will forever be linked to his state-of-the-art suburban playground, Paisley Park."**](https://www.startribune.com/prince-minneapolis-chanhassen-paisley-park-andre-cymone-morris-day-bobby-z/600281369/)
     - by [Jon Bream](../../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
@@ -9,8 +13,11 @@
 
 ----
 
- - [**"Streets of housing development built on Prince property pay homage to Minnesota icon"**](https://kstp.com/news/streets-of-housing-development-built-on-prince-property-pay-homage-to-minnesota-icon-december-13-2019-/5578475/)
+## 2019 (3)
 
+### 2019 December (1)
+
+ - [**"Streets of housing development built on Prince property pay homage to Minnesota icon"**](https://kstp.com/news/streets-of-housing-development-built-on-prince-property-pay-homage-to-minnesota-icon-december-13-2019-/5578475/)
     - in [KSTP](https://kstp.com/)
     - on 13 December 2019
     - about [Galpin Boulevard (place)](../../../topics/place/galpin-boulevard/index.md), [Minnesota Vikings](../../../topics/minnesota-vikings/index.md)
@@ -18,14 +25,17 @@
 
 ----
 
- - [**"From 'Raspberry Road' to 'Dove Court,' development planned on land owned by Prince could honor singer"**](https://kstp.com/news/lennar-homes-housing-development-land-formerly-owned-prince-chanhassen/5370959/)
+### 2019 May (1)
 
+ - [**"From 'Raspberry Road' to 'Dove Court,' development planned on land owned by Prince could honor singer"**](https://kstp.com/news/lennar-homes-housing-development-land-formerly-owned-prince-chanhassen/5370959/)
     - in [KSTP](https://kstp.com/)
     - on 29 May 2019
     - about [Galpin Boulevard (place)](../../../topics/place/galpin-boulevard/index.md), [Lennar Homes](../../../topics/lennar-homes/index.md), [Raspberry Beret (song)](../../../topics/song/raspberry-beret/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://kstp.com/news/lennar-homes-housing-development-land-formerly-owned-prince-chanhassen/5370959/))
 
 ----
+
+### 2019 March (1)
 
  - [**"Chanhassen City Council approves housing and park plan on former Prince property"**](https://www.startribune.com/chanhassen-council-approves-housing-and-park-plan-on-former-prince-property/507037042/))
     - by [David Chanen](../../../authors/david-chanen/index.md), [Katy Read](../../../authors/katy-read/index.md)
@@ -36,8 +46,11 @@
 
 ----
 
- - [**"Former Prince Property to be Developed into Residential Neighborhood"**](https://kstp.com/news/prince-property-chanhassen-developed-residential-neighborhood-/4969812/)
+## 2018 (1)
 
+### 2018 June (1)
+
+ - [**"Former Prince Property to be Developed into Residential Neighborhood"**](https://kstp.com/news/prince-property-chanhassen-developed-residential-neighborhood-/4969812/)
     - in [KSTP](https://kstp.com/)
     - on 29 June 2018
     - about [Carver County](../../../topics/carver-county/index.md), [Denny Laufenburger](../../../topics/denny-laufenburger/index.md), [Galpin Boulevard (place)](../../../topics/place/galpin-boulevard/index.md), [Lennar Homes](../../../topics/lennar-homes/index.md), [trademark](../../../topics/trademark/index.md)

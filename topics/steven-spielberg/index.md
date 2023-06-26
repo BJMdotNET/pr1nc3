@@ -1,5 +1,9 @@
 # Steven Spielberg
 
+## 2009 (1)
+
+### 2009 July (1)
+
  - [**"Purple’ afterglow: 25 years ago, film and soundtrack turned Prince into a megastar"**](https://www.bostonherald.com/2009/07/31/purple-afterglow-25-years-ago-film-and-soundtrack-turned-prince-into-a-megastar/)
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Boston Herald](https://www.bostonherald.com/)

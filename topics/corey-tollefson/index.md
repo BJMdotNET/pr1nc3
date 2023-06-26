@@ -1,7 +1,10 @@
 # Corey Tollefson
 
- - [**"Prince’s Network Of Activism Lives On And Is Creating Access To Tech Jobs -- #YesWeCode and its partnership with Infor are creating a path for people of color to rise in the tech industry"**](https://www.essence.com/news/prince-activism-yeswecode/)
+## 2019 (1)
 
+### 2019 June (1)
+
+ - [**"Prince’s Network Of Activism Lives On And Is Creating Access To Tech Jobs -- #YesWeCode and its partnership with Infor are creating a path for people of color to rise in the tech industry"**](https://www.essence.com/news/prince-activism-yeswecode/)
     - in [Essence](https://www.essence.com/)
     - on 21 June 2019
     - about [Corey Tollefson](../../topics/corey-tollefson/index.md), [Eddie Harmon](../../topics/eddie-harmon/index.md), [Educational Alliance Program](../../topics/educational-alliance-program/index.md), [GenOne](../../topics/genone/index.md), [Jonathan Meeks](../../topics/jonathan-meeks/index.md), [Martine Cadet](../../topics/martine-cadet/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Van Jones](../../topics/van-jones/index.md), [YesWeCode](../../topics/yeswecode/index.md)
@@ -9,8 +12,11 @@
 
 ----
 
- - [**"Prince’s Closest Friends Share Their Best Prince Stories -- From Van Jones to Carmen Electra, publicists to Paisley Park members, those close to Prince Rogers Nelson tell tales—ordinary and out there—of the late legend."**](https://www.gq.com/story/prince-stories)
+## 2016 (1)
 
+### 2016 December (1)
+
+ - [**"Prince’s Closest Friends Share Their Best Prince Stories -- From Van Jones to Carmen Electra, publicists to Paisley Park members, those close to Prince Rogers Nelson tell tales—ordinary and out there—of the late legend."**](https://www.gq.com/story/prince-stories)
     - in [GQ](https://www.gq.com/)
     - on 8 December 2016
     - about [Albert Magnoli](../../topics/albert-magnoli/index.md), [American Bandstand](../../topics/american-bandstand/index.md), [André Cymone](../../topics/andr-cymone/index.md), [Audubon Road (place)](../../topics/place/audubon-road/index.md), [Bangles](../../topics/bangles/index.md), [Cat Glover](../../topics/cat-glover/index.md), [Central High](../../topics/central-high/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Chappelle's Show (TV show)](../../topics/tv-show/chappelle-s-show/index.md), [Charlie Murphy](../../topics/charlie-murphy/index.md), [Corey Tollefson](../../topics/corey-tollefson/index.md), [Dave Chappelle](../../topics/dave-chappelle/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [Gwen Stefani](../../topics/gwen-stefani/index.md), [Jeremiah Freed](../../topics/jeremiah-freed/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Kandace Springs](../../topics/kandace-springs/index.md), [Lake Minnetonka (place)](../../topics/place/lake-minnetonka/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Mayte](../../topics/mayte/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Micki Free](../../topics/micki-free/index.md), [Misty Copeland](../../topics/misty-copeland/index.md), [Morris Hayes](../../topics/morris-hayes/index.md), [Neal Karlen](../../topics/neal-karlen/index.md), [Netflix](../../topics/netflix/index.md), [NPG Records](../../topics/npg-records/index.md), [Obama](../../topics/obama/index.md), [Owen Husney](../../topics/owen-husney/index.md), [piracy](../../topics/piracy/index.md), [St. Louis Park (place)](../../topics/place/st-louis-park/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [The Gold Experience (album)](../../topics/album/the-gold-experience/index.md), [The Revolution](../../topics/the-revolution/index.md), [Van Jones](../../topics/van-jones/index.md), [Vanity](../../topics/vanity/index.md), [vault](../../topics/vault/index.md), [White House (place)](../../topics/place/white-house/index.md), [YouTube](../../topics/youtube/index.md)

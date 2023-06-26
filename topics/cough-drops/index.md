@@ -1,5 +1,9 @@
 # cough drops
 
+## 2019 (2)
+
+### 2019 November (1)
+
  - [**"Album review: Prince’s ’1999′ keeps on giving in 2019"**](https://www.chicagotribune.com/entertainment/music/greg-kot/ct-ent-prince-1999-box-set-review-20191119-qa756i52jbacfdye5jyro4w47u-story.html)
     - by [Greg Kot](../../authors/greg-kot/index.md)
     - in [Chicago Tribune](https://www.chicagotribune.com/)
@@ -9,8 +13,9 @@
 
 ----
 
- - [**"Inside The Recording Of Prince's Originals Album"**](https://www.ilikeyouroldstuff.com/news/inside-the-recording-of-prince-originals-album-peggy-mccreary)
+### 2019 June (1)
 
+ - [**"Inside The Recording Of Prince's Originals Album"**](https://www.ilikeyouroldstuff.com/news/inside-the-recording-of-prince-originals-album-peggy-mccreary)
     - in [I Like Your Old Stuff](https://www.ilikeyouroldstuff.com/)
     - on 21 June 2019
     - about [Alan Leeds](../../topics/alan-leeds/index.md), [Apollonia 6](../../topics/apollonia-6/index.md), [Bangles](../../topics/bangles/index.md), [cough drops](../../topics/cough-drops/index.md), [Martika](../../topics/martika/index.md), [Originals (album)](../../topics/album/originals/index.md), [Peggy McCreary](../../topics/peggy-mccreary/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [The Family](../../topics/the-family/index.md), [The Time](../../topics/the-time/index.md)

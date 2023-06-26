@@ -1,13 +1,18 @@
 # Danny Elfman
 
- - [**"'Batman' composer Danny Elfman says turning down Prince was 'biggest, most stressful gamble' of his career"**](https://www.yahoo.com/entertainment/batman-composer-danny-elfman-says-turning-down-prince-was-biggest-most-stressful-gamble-of-his-career-192951834.html)
+## 2019 (3)
 
+### 2019 November (1)
+
+ - [**"'Batman' composer Danny Elfman says turning down Prince was 'biggest, most stressful gamble' of his career"**](https://www.yahoo.com/entertainment/batman-composer-danny-elfman-says-turning-down-prince-was-biggest-most-stressful-gamble-of-his-career-192951834.html)
     - in [Yahoo! Entertainment](https://www.yahoo.com/entertainment/)
     - on 12 November 2019
     - about [Batman (album)](../../topics/album/batman/index.md), [Danny Elfman](../../topics/danny-elfman/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Tim Burton](../../topics/tim-burton/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.yahoo.com/entertainment/batman-composer-danny-elfman-says-turning-down-prince-was-biggest-most-stressful-gamble-of-his-career-192951834.html))
 
 ----
+
+### 2019 July (1)
 
  - [**"DC Once Turned Prince Into A Batman-Style Superhero"**](https://screenrant.com/prince-comic-book-dc-alter-ego/)
     - by [Padraig Cotter](../../authors/padraig-cotter/index.md)
@@ -18,6 +23,8 @@
 
 ----
 
+### 2019 June (1)
+
  - [**"Prince’s ‘Batman’ at 30: How the Film Saved His Career From ‘Horrible’ Financial Straits"**](https://variety.com/2019/film/news/prince-batman-at-30-how-film-saved-his-career-1203251356/)
     - by [Todd Gilchrist](../../authors/todd-gilchrist/index.md)
     - in [Variety](https://variety.com/)
@@ -27,8 +34,11 @@
 
 ----
 
- - [**"The Estate Of Prince Rogers Nelson Selects Universal Music Publishing Group To Serve As Worldwide Publisher For Prince's Iconic Catalog Of Songs"**](https://www.prnewswire.com/news-releases/the-estate-of-prince-rogers-nelson-selects-universal-music-publishing-group-to-serve-as-worldwide-publisher-for-princes-iconic-catalog-of-songs-300356320.html)
+## 2016 (1)
 
+### 2016 November (1)
+
+ - [**"The Estate Of Prince Rogers Nelson Selects Universal Music Publishing Group To Serve As Worldwide Publisher For Prince's Iconic Catalog Of Songs"**](https://www.prnewswire.com/news-releases/the-estate-of-prince-rogers-nelson-selects-universal-music-publishing-group-to-serve-as-worldwide-publisher-for-princes-iconic-catalog-of-songs-300356320.html)
     - in [PR Newswire](https://www.prnewswire.com/)
     - on 2 November 2016
     - about [Alabama Shakes](../../topics/alabama-shakes/index.md), [Alicia Keys](../../topics/alicia-keys/index.md), [Bangles](../../topics/bangles/index.md), [Bremer Trust](../../topics/bremer-trust/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [Danny Elfman](../../topics/danny-elfman/index.md), [Elton John](../../topics/elton-john/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [L. Londell McMillan](../../topics/l-londell-mcmillan/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Universal Music Group](../../topics/universal-music-group/index.md), [Universal Music Publishing Group](../../topics/universal-music-publishing-group/index.md)

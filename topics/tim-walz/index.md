@@ -1,5 +1,9 @@
 # Tim Walz
 
+## 2023 (1)
+
+### 2023 June (1)
+
  - [**"Why did Prince decide to live in Chanhassen? -- The Minneapolis native's legacy will forever be linked to his state-of-the-art suburban playground, Paisley Park."**](https://www.startribune.com/prince-minneapolis-chanhassen-paisley-park-andre-cymone-morris-day-bobby-z/600281369/)
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
@@ -9,8 +13,11 @@
 
 ----
 
- - [**"Walz win, Omar to Congress, Mauer retires top Minnesota news"**](https://apnews.com/article/-----16a9bac8b1e9475a8d869c3dd5893c4d)
+## 2018 (1)
 
+### 2018 December (1)
+
+ - [**"Walz win, Omar to Congress, Mauer retires top Minnesota news"**](https://apnews.com/article/-----16a9bac8b1e9475a8d869c3dd5893c4d)
     - in [Associated Press News](https://apnews.com/)
     - on 22 December 2018
     - about [Carver County](../../topics/carver-county/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [Mark Metz](../../topics/mark-metz/index.md), [Minnesota Twins](../../topics/minnesota-twins/index.md), [Minnesota Vikings](../../topics/minnesota-vikings/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [St. Paul (place)](../../topics/place/st-paul/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Tim Walz](../../topics/tim-walz/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md)

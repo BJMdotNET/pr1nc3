@@ -1,13 +1,18 @@
 # Tim Burton
 
- - [**"'Batman' composer Danny Elfman says turning down Prince was 'biggest, most stressful gamble' of his career"**](https://www.yahoo.com/entertainment/batman-composer-danny-elfman-says-turning-down-prince-was-biggest-most-stressful-gamble-of-his-career-192951834.html)
+## 2019 (4)
 
+### 2019 November (1)
+
+ - [**"'Batman' composer Danny Elfman says turning down Prince was 'biggest, most stressful gamble' of his career"**](https://www.yahoo.com/entertainment/batman-composer-danny-elfman-says-turning-down-prince-was-biggest-most-stressful-gamble-of-his-career-192951834.html)
     - in [Yahoo! Entertainment](https://www.yahoo.com/entertainment/)
     - on 12 November 2019
     - about [Batman (album)](../../topics/album/batman/index.md), [Danny Elfman](../../topics/danny-elfman/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Tim Burton](../../topics/tim-burton/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.yahoo.com/entertainment/batman-composer-danny-elfman-says-turning-down-prince-was-biggest-most-stressful-gamble-of-his-career-192951834.html))
 
 ----
+
+### 2019 July (2)
 
  - [**"DC Once Turned Prince Into A Batman-Style Superhero"**](https://screenrant.com/prince-comic-book-dc-alter-ego/)
     - by [Padraig Cotter](../../authors/padraig-cotter/index.md)
@@ -16,16 +21,17 @@
     - about [Batman (album)](../../topics/album/batman/index.md), [Danny Elfman](../../topics/danny-elfman/index.md), [Graffiti Bridge (movie)](../../topics/movie/graffiti-bridge/index.md), [museum](../../topics/museum/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Partyman (song)](../../topics/song/partyman/index.md), [Prince: Alter Ego](../../topics/prince-alter-ego/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Tim Burton](../../topics/tim-burton/index.md)
     - ([mirror](https://web.archive.org/web/*/https://screenrant.com/prince-comic-book-dc-alter-ego/))
 
-----
+<br />
 
  - [**"Prince Fast Facts"**](https://kxlf.com/cnn-national/2019/07/02/prince-fast-facts/)
-
     - in [KXLF.com](https://kxlf.com)
     - on 3 July 2019
     - about [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [contract](../../topics/contract/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [fentanyl](../../topics/fentanyl/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [John Nelson](../../topics/john-nelson/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [lawsuit](../../topics/lawsuit/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Michael Schulenberg](../../topics/michael-schulenberg/index.md), [Minnesota Vikings](../../topics/minnesota-vikings/index.md), [museum](../../topics/museum/index.md), [Parents Music Resource Center](../../topics/parents-music-resource-center/index.md), [Percocet](../../topics/percocet/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Super Bowl](../../topics/super-bowl/index.md), [The Revolution](../../topics/the-revolution/index.md), [Tim Burton](../../topics/tim-burton/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md), [Walgreens](../../topics/walgreens/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://kxlf.com/cnn-national/2019/07/02/prince-fast-facts/))
 
 ----
+
+### 2019 June (1)
 
  - [**"Prince’s ‘Batman’ at 30: How the Film Saved His Career From ‘Horrible’ Financial Straits"**](https://variety.com/2019/film/news/prince-batman-at-30-how-film-saved-his-career-1203251356/)
     - by [Todd Gilchrist](../../authors/todd-gilchrist/index.md)

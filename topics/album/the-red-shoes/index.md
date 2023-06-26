@@ -1,7 +1,10 @@
 # The Red Shoes (album)
 
- - [**"Kate Bush discusses the material she recorded with Prince"**](https://www.nme.com/news/music/kate-bush-discusses-material-recorded-prince-1860552)
+## 2016 (2)
 
+### 2016 November (1)
+
+ - [**"Kate Bush discusses the material she recorded with Prince"**](https://www.nme.com/news/music/kate-bush-discusses-material-recorded-prince-1860552)
     - in [NME (New Musical Express)](https://www.nme.com/)
     - on 17 November 2016
     - about [Kate Bush](../../../topics/kate-bush/index.md), [The Red Shoes (album)](../../../topics/album/the-red-shoes/index.md)
@@ -9,8 +12,9 @@
 
 ----
 
- - [**"Lenny Henry on Prince: 'I almost passed out. This was my hero talking to me' -- The actor and comedian remembers a rooftop meeting and how he couldn’t believe his luck when he found out Prince was playing guitar for an album he was singing on for Kate Bush"**](https://www.theguardian.com/music/2016/apr/24/the-time-i-sang-with-prince-and-kate-bush-by-lenny-henry)
+### 2016 April (1)
 
+ - [**"Lenny Henry on Prince: 'I almost passed out. This was my hero talking to me' -- The actor and comedian remembers a rooftop meeting and how he couldn’t believe his luck when he found out Prince was playing guitar for an album he was singing on for Kate Bush"**](https://www.theguardian.com/music/2016/apr/24/the-time-i-sang-with-prince-and-kate-bush-by-lenny-henry)
     - in [The Guardian](https://www.theguardian.com/)
     - on 24 April 2016
     - about [Chaka Khan](../../../topics/chaka-khan/index.md), [Eric Clapton](../../../topics/eric-clapton/index.md), [Kate Bush](../../../topics/kate-bush/index.md), [Lenny Henry](../../../topics/lenny-henry/index.md), [Sometimes It Snows In April (song)](../../../topics/song/sometimes-it-snows-in-april/index.md), [The Red Shoes (album)](../../../topics/album/the-red-shoes/index.md), [Why Should I Love You? (song)](../../../topics/song/why-should-i-love-you/index.md)

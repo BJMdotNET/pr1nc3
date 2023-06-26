@@ -1,5 +1,9 @@
 # Lake Minnetonka (place)
 
+## 2023 (1)
+
+### 2023 June (1)
+
  - [**"Why did Prince decide to live in Chanhassen? -- The Minneapolis native's legacy will forever be linked to his state-of-the-art suburban playground, Paisley Park."**](https://www.startribune.com/prince-minneapolis-chanhassen-paisley-park-andre-cymone-morris-day-bobby-z/600281369/)
     - by [Jon Bream](../../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
@@ -9,26 +13,27 @@
 
 ----
 
- - [**"Henderson (‘That ain’t Lake Minnetonka’), Minnesota to unveil Prince statue"**](https://blog.thecurrent.org/2019/12/henderson-that-aint-lake-minnetonka-minnesota-to-unveil-prince-statue/)
+## 2019 (7)
 
+### 2019 December (3)
+
+ - [**"Henderson (‘That ain’t Lake Minnetonka’), Minnesota to unveil Prince statue"**](https://blog.thecurrent.org/2019/12/henderson-that-aint-lake-minnetonka-minnesota-to-unveil-prince-statue/)
     - in [The Current - Local Current Blog](https://blog.thecurrent.org/)
     - on 27 December 2019
     - about [Allen Beaulieu](../../../topics/allen-beaulieu/index.md), [Andrea Swensson](../../../topics/andrea-swensson/index.md), [Bob Dylan](../../../topics/bob-dylan/index.md), [Celebration (event)](../../../topics/event/celebration/index.md), [Cloud guitar (instrument)](../../../topics/instrument/cloud-guitar/index.md), [Lake Minnetonka (place)](../../../topics/place/lake-minnetonka/index.md)
     - ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2019/12/henderson-that-aint-lake-minnetonka-minnesota-to-unveil-prince-statue/))
 
-----
+<br />
 
  - [**"Prince: The Story of 1999 bonus feature: Bobby Z, 'Prince went from a caterpillar to a butterfly in that one purple trench coat'"**](https://www.thecurrent.org/feature/2019/12/20/prince-drummer-bobby-z-the-revolution-interview)
-
     - in [The Current](https://www.thecurrent.org/)
     - on 20 December 2019
     - about [1999 (album)](../../../topics/album/1999/index.md), [1999 Deluxe (album)](../../../topics/album/1999-deluxe/index.md), [Andrea Swensson](../../../topics/andrea-swensson/index.md), [Andy Warhol](../../../topics/andy-warhol/index.md), [Armory (place)](../../../topics/place/armory/index.md), [Bobby Z.](../../../topics/bobby-z/index.md), [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [D.M.S.R. (song)](../../../topics/song/d-m-s-r/index.md), [Darling Nikki (song)](../../../topics/song/darling-nikki/index.md), [Detroit (place)](../../../topics/place/detroit/index.md), [Do It All Night (song)](../../../topics/song/do-it-all-night/index.md), [Earth, Wind and Fire](../../../topics/earth-wind-and-fire/index.md), [Lake Minnetonka (place)](../../../topics/place/lake-minnetonka/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [London (place)](../../../topics/place/london/index.md), [Matt Fink](../../../topics/matt-fink/index.md), [Paradiso (place)](../../../topics/place/paradiso/index.md), [Prince: The Story of 1999](../../../topics/prince-the-story-of-1999/index.md), [Purple Music (song)](../../../topics/song/purple-music/index.md), [Rick James](../../../topics/rick-james/index.md), [Rolling Stones](../../../topics/rolling-stones/index.md), [Sausalito (place)](../../../topics/place/sausalito/index.md), [St. Louis Park (place)](../../../topics/place/st-louis-park/index.md), [Steve Fargnoli](../../../topics/steve-fargnoli/index.md), [The Coliseum (place)](../../../topics/place/the-coliseum/index.md), [The Revolution](../../../topics/the-revolution/index.md), [Vanity](../../../topics/vanity/index.md), [Vanity 6](../../../topics/vanity-6/index.md), [Warner Bros. Records](../../../topics/warner-bros-records/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/12/20/prince-drummer-bobby-z-the-revolution-interview))
 
-----
+<br />
 
  - [**"AVEC "1999", PRINCE SE HISSE AU SOMMET DE SON ART -- Avec la réédition deluxe de 1999 de Prince, Warner Music nous donne l’occasion de revenir aux racines d’un album qui marque la période la plus créative du Kid de Minneapolis."**](http://www.magicrpm.com/1999-prince-au-sommet-de-son-art/)
-
     - in [www.magicrpm.com](http://www.magicrpm.com/)
     - on 3 December 2019
     - about [1999 (album)](../../../topics/album/1999/index.md), [Bold Generation (song)](../../../topics/song/bold-generation/index.md), [Colleen (song)](../../../topics/song/colleen/index.md), [Feel U Up (song)](../../../topics/song/feel-u-up/index.md), [Irresistible Bitch (song)](../../../topics/song/irresistible-bitch/index.md), [Lake Minnetonka (place)](../../../topics/place/lake-minnetonka/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Michael Jackson](../../../topics/michael-jackson/index.md), [New Power Generation (song)](../../../topics/song/new-power-generation/index.md), [Peggy McCreary](../../../topics/peggy-mccreary/index.md), [Purple Music (song)](../../../topics/song/purple-music/index.md), [Quincy Jones](../../../topics/quincy-jones/index.md), [Raspberry Beret (song)](../../../topics/song/raspberry-beret/index.md), [Rearrange (song)](../../../topics/song/rearrange/index.md), [Roger Linn](../../../topics/roger-linn/index.md), [Sunset Sound (place)](../../../topics/place/sunset-sound/index.md), [Vanity](../../../topics/vanity/index.md), [Vanity 6](../../../topics/vanity-6/index.md)
@@ -36,8 +41,9 @@
 
 ----
 
- - [**"Interview: Director Albert Magnoli describes working with Prince and making 'Purple Rain'"**](https://www.thecurrent.org/feature/2019/10/24/interview-director-albert-magnoli-describes-working-with-prince-purple-rain)
+### 2019 October (1)
 
+ - [**"Interview: Director Albert Magnoli describes working with Prince and making 'Purple Rain'"**](https://www.thecurrent.org/feature/2019/10/24/interview-director-albert-magnoli-describes-working-with-prince-purple-rain)
     - in [The Current](https://www.thecurrent.org/)
     - on 24 October 2019
     - about [Albert Magnoli](../../../topics/albert-magnoli/index.md), [Chick Huntsberry](../../../topics/chick-huntsberry/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Lake Minnetonka (place)](../../../topics/place/lake-minnetonka/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [motorcycle](../../../topics/motorcycle/index.md), [Purple Rain (album)](../../../topics/album/purple-rain/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Spotify](../../../topics/spotify/index.md), [Steve Fargnoli](../../../topics/steve-fargnoli/index.md), [Twin Cities (place)](../../../topics/place/twin-cities/index.md)
@@ -45,14 +51,17 @@
 
 ----
 
- - [**"Where did that Prince mural on the Midtown Greenway come from?"**](https://blog.thecurrent.org/2019/09/where-did-that-prince-mural-on-the-midtown-greenway-come-from/)
+### 2019 September (1)
 
+ - [**"Where did that Prince mural on the Midtown Greenway come from?"**](https://blog.thecurrent.org/2019/09/where-did-that-prince-mural-on-the-midtown-greenway-come-from/)
     - in [The Current - Local Current Blog](https://blog.thecurrent.org/)
     - on 19 September 2019
     - about [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Lake Minnetonka (place)](../../../topics/place/lake-minnetonka/index.md)
     - ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2019/09/where-did-that-prince-mural-on-the-midtown-greenway-come-from/))
 
 ----
+
+### 2019 July (2)
 
  - [**"‘Purple Rain’ Director Gets Deep About Working With Prince: ‘How Is It You Just Told My Life Story?’"**](https://variety.com/2019/film/news/prince-purple-rain-anniversary-director-gets-deep-1203274953/)
     - by [Todd Gilchrist](../../../authors/todd-gilchrist/index.md)
@@ -61,7 +70,7 @@
     - about [Albert Magnoli](../../../topics/albert-magnoli/index.md), [Apollonia](../../../topics/apollonia/index.md), [Bob Cavallo](../../../topics/bob-cavallo/index.md), [Bob Daly](../../../topics/bob-daly/index.md), [Bob Fosse](../../../topics/bob-fosse/index.md), [Darling Nikki (song)](../../../topics/song/darling-nikki/index.md), [Edward Rosenthal](../../../topics/edward-rosenthal/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [James Foley](../../../topics/james-foley/index.md), [John Travolta](../../../topics/john-travolta/index.md), [Lake Minnetonka (place)](../../../topics/place/lake-minnetonka/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Mark Canton](../../../topics/mark-canton/index.md), [Morris Day](../../../topics/morris-day/index.md), [Purple Rain (album)](../../../topics/album/purple-rain/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Steve Fargnoli](../../../topics/steve-fargnoli/index.md), [Terry Semel](../../../topics/terry-semel/index.md), [The Revolution](../../../topics/the-revolution/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md), [William Blinn](../../../topics/william-blinn/index.md)
     - ([mirror](https://web.archive.org/web/*/https://variety.com/2019/film/news/prince-purple-rain-anniversary-director-gets-deep-1203274953/))
 
-----
+<br />
 
  - [**"‘Purple Rain’ Director Gets Deep About Working With Prince: ‘How Is It You Just Told My Life Story?’"**](https://www.yahoo.com/entertainment/purple-rain-director-gets-deep-125505865.html)
     - by [Todd Gilchrist](../../../authors/todd-gilchrist/index.md)
@@ -72,8 +81,11 @@
 
 ----
 
- - [**"Prince’s Closest Friends Share Their Best Prince Stories -- From Van Jones to Carmen Electra, publicists to Paisley Park members, those close to Prince Rogers Nelson tell tales—ordinary and out there—of the late legend."**](https://www.gq.com/story/prince-stories)
+## 2016 (2)
 
+### 2016 December (1)
+
+ - [**"Prince’s Closest Friends Share Their Best Prince Stories -- From Van Jones to Carmen Electra, publicists to Paisley Park members, those close to Prince Rogers Nelson tell tales—ordinary and out there—of the late legend."**](https://www.gq.com/story/prince-stories)
     - in [GQ](https://www.gq.com/)
     - on 8 December 2016
     - about [Albert Magnoli](../../../topics/albert-magnoli/index.md), [American Bandstand](../../../topics/american-bandstand/index.md), [André Cymone](../../../topics/andr-cymone/index.md), [Audubon Road (place)](../../../topics/place/audubon-road/index.md), [Bangles](../../../topics/bangles/index.md), [Cat Glover](../../../topics/cat-glover/index.md), [Central High](../../../topics/central-high/index.md), [Chaka Khan](../../../topics/chaka-khan/index.md), [Chappelle's Show (TV show)](../../../topics/tv-show/chappelle-s-show/index.md), [Charlie Murphy](../../../topics/charlie-murphy/index.md), [Corey Tollefson](../../../topics/corey-tollefson/index.md), [Dave Chappelle](../../../topics/dave-chappelle/index.md), [Dez Dickerson](../../../topics/dez-dickerson/index.md), [Gwen Stefani](../../../topics/gwen-stefani/index.md), [Jeremiah Freed](../../../topics/jeremiah-freed/index.md), [Jill Jones](../../../topics/jill-jones/index.md), [Kandace Springs](../../../topics/kandace-springs/index.md), [Lake Minnetonka (place)](../../../topics/place/lake-minnetonka/index.md), [Larry Graham](../../../topics/larry-graham/index.md), [Manuela Testolini](../../../topics/manuela-testolini/index.md), [Mayte](../../../topics/mayte/index.md), [Michael Jackson](../../../topics/michael-jackson/index.md), [Micki Free](../../../topics/micki-free/index.md), [Misty Copeland](../../../topics/misty-copeland/index.md), [Morris Hayes](../../../topics/morris-hayes/index.md), [Neal Karlen](../../../topics/neal-karlen/index.md), [Netflix](../../../topics/netflix/index.md), [NPG Records](../../../topics/npg-records/index.md), [Obama](../../../topics/obama/index.md), [Owen Husney](../../../topics/owen-husney/index.md), [piracy](../../../topics/piracy/index.md), [St. Louis Park (place)](../../../topics/place/st-louis-park/index.md), [Susanna Hoffs](../../../topics/susanna-hoffs/index.md), [The Gold Experience (album)](../../../topics/album/the-gold-experience/index.md), [The Revolution](../../../topics/the-revolution/index.md), [Van Jones](../../../topics/van-jones/index.md), [Vanity](../../../topics/vanity/index.md), [vault](../../../topics/vault/index.md), [White House (place)](../../../topics/place/white-house/index.md), [YouTube](../../../topics/youtube/index.md)
@@ -81,8 +93,9 @@
 
 ----
 
- - [**"‘I’m Going to Personify Sex in Every Way’: Prince’s Defining ‘Dirty Mind’ Album -- A refusal to be labeled R&B, a rivalry with Rick James and a very dirty song called 'Head': the groundbreaking arrival of 1980's 'Dirty Mind.'"**](https://www.billboard.com/music/features/prince-dirty-mind-retrospective-7348526/)
+### 2016 April (1)
 
+ - [**"‘I’m Going to Personify Sex in Every Way’: Prince’s Defining ‘Dirty Mind’ Album -- A refusal to be labeled R&B, a rivalry with Rick James and a very dirty song called 'Head': the groundbreaking arrival of 1980's 'Dirty Mind.'"**](https://www.billboard.com/music/features/prince-dirty-mind-retrospective-7348526/)
     - in [Billboard](https://www.billboard.com/)
     - on 28 April 2016
     - about [American Bandstand](../../../topics/american-bandstand/index.md), [André Cymone](../../../topics/andr-cymone/index.md), [Andy Warhol](../../../topics/andy-warhol/index.md), [Bobby Z](../../../topics/bobby-z/index.md), [Denver (place)](../../../topics/place/denver/index.md), [Detroit (place)](../../../topics/place/detroit/index.md), [Dez Dickerson](../../../topics/dez-dickerson/index.md), [Dick Clark](../../../topics/dick-clark/index.md), [Dirty Mind (album)](../../../topics/album/dirty-mind/index.md), [Dirty Mind (tour)](../../../topics/tour/dirty-mind/index.md), [Gayle Chapman](../../../topics/gayle-chapman/index.md), [Head (song)](../../../topics/song/head/index.md), [I Wanna Be Your Lover (song)](../../../topics/song/i-wanna-be-your-lover/index.md), [Ken Tucker](../../../topics/ken-tucker/index.md), [Lake Minnetonka (place)](../../../topics/place/lake-minnetonka/index.md), [Lenny Waronker](../../../topics/lenny-waronker/index.md), [Lisa Coleman](../../../topics/lisa-coleman/index.md), [Los Angeles (place)](../../../topics/place/los-angeles/index.md), [memoir](../../../topics/memoir/index.md), [Mo Ostin](../../../topics/mo-ostin/index.md), [Rick James](../../../topics/rick-james/index.md), [Rolling Stone (magazine)](../../../topics/magazine/rolling-stone/index.md), [Roxy (place)](../../../topics/place/roxy/index.md), [Russ Thyret](../../../topics/russ-thyret/index.md), [Sam’s (place)](../../../topics/place/sam-s/index.md), [Steve Fargnoli](../../../topics/steve-fargnoli/index.md), [Stevie Wonder](../../../topics/stevie-wonder/index.md), [Ted Cohen](../../../topics/ted-cohen/index.md), [The Rainbow (place)](../../../topics/place/the-rainbow/index.md), [The Ritz (place)](../../../topics/place/the-ritz/index.md), [The Village Voice (magazine)](../../../topics/magazine/the-village-voice/index.md), [Twin Cities (place)](../../../topics/place/twin-cities/index.md), [Wayzata (place)](../../../topics/place/wayzata/index.md)

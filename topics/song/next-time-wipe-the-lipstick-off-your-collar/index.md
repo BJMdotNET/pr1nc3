@@ -1,5 +1,9 @@
 # Next Time Wipe The Lipstick Off Your Collar (song)
 
+## 2019 (1)
+
+### 2019 June (1)
+
  - [**"Sheila E.’s Debut Album ‘The Glamorous Life’ Turns 35: Anniversary Retrospective -- Happy 35th Anniversary to Sheila E.’s debut album The Glamorous Life, originally released June 4, 1984."**](https://www.albumism.com/features/sheila-e-debut-album-the-glamorous-life-turns-35-anniversary-retrospective)
     - by [Andy Healy](../../../authors/andy-healy/index.md)
     - in [Albumism](https://www.albumism.com/)

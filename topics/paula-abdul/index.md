@@ -1,7 +1,10 @@
 # Paula Abdul
 
- - [**"The Man Who Would Be Prince -- In the fall of 1991, set to drop double-platinum Diamonds and Pearls, Prince sat down with writer Chris Heath for a rare interview. A crazy-rare interview: The singer had answered questions publicly just four times between 1984’s Purple Rain and that year. Go inside Paisley Park, where Heath lived for six days."**](https://www.gq.com/story/prince-interview-inside-paisley-park)
+## 2016 (1)
 
+### 2016 April (1)
+
+ - [**"The Man Who Would Be Prince -- In the fall of 1991, set to drop double-platinum Diamonds and Pearls, Prince sat down with writer Chris Heath for a rare interview. A crazy-rare interview: The singer had answered questions publicly just four times between 1984’s Purple Rain and that year. Go inside Paisley Park, where Heath lived for six days."**](https://www.gq.com/story/prince-interview-inside-paisley-park)
     - in [GQ](https://www.gq.com/)
     - on 21 April 2016
     - about [contract](../../topics/contract/index.md), [Glam Slam (place)](../../topics/place/glam-slam/index.md), [Ingrid Chavez](../../topics/ingrid-chavez/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Kate Bush](../../topics/kate-bush/index.md), [Martika](../../topics/martika/index.md), [New Girl (TV show)](../../topics/tv-show/new-girl/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [Paula Abdul](../../topics/paula-abdul/index.md), [royalties](../../topics/royalties/index.md), [Spike Lee](../../topics/spike-lee/index.md), [Standing at the Altar (song)](../../topics/song/standing-at-the-altar/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [The Black Album (album)](../../topics/album/the-black-album/index.md), [Wednesday (song)](../../topics/song/wednesday/index.md)
@@ -9,8 +12,11 @@
 
 ----
 
- - [**"Margaret's time: Singer Cox finally puts together first solo CD"**](https://www.startribune.com/stories/919/3798852.html)
+## 2003 (1)
 
+### 2003 April (1)
+
+ - [**"Margaret's time: Singer Cox finally puts together first solo CD"**](https://www.startribune.com/stories/919/3798852.html)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 6 April 2003
     - about [1-800-NEW-FUNK (album)](../../topics/album/1-800-new-funk/index.md), [A&M Records](../../topics/a-m-records/index.md), [Bunkers (place)](../../topics/place/bunkers/index.md), [contract](../../topics/contract/index.md), [Dr. Mambo's Combo](../../topics/dr-mambo-s-combo/index.md), [Everybody Dance (song)](../../topics/song/everybody-dance/index.md), [Jesse Johnson](../../topics/jesse-johnson/index.md), [Legendary Combo](../../topics/legendary-combo/index.md), [Lipps, Inc.](../../topics/lipps-inc/index.md), [M.C. Flash](../../topics/m-c-flash/index.md), [Margaret Cox](../../topics/margaret-cox/index.md), [Margie Cox](../../topics/margie-cox/index.md), [Margie's Little Demo (album)](../../topics/album/margie-s-little-demo/index.md), [Michael Bland](../../topics/michael-bland/index.md), [Paula Abdul](../../topics/paula-abdul/index.md), [royalties](../../topics/royalties/index.md), [Standing at the Altar (song)](../../topics/song/standing-at-the-altar/index.md), [TaMara](../../topics/tamara/index.md), [TaMara & the Seen](../../topics/tamara-the-seen/index.md)

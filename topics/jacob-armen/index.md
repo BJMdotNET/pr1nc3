@@ -1,7 +1,10 @@
 # Jacob Armen
 
- - [**"SPILL FEATURE: WHEN DRUMS CONDUCT – A CONVERSATION WITH JACOB ARMEN"**](http://spillmagazine.com/spill-feature-when-drums-conduct-a-conversation-with-jacob-armen/)
+## 2019 (1)
 
+### 2019 January (1)
+
+ - [**"SPILL FEATURE: WHEN DRUMS CONDUCT – A CONVERSATION WITH JACOB ARMEN"**](http://spillmagazine.com/spill-feature-when-drums-conduct-a-conversation-with-jacob-armen/)
     - in [The Spill Magazine](http://spillmagazine.com/)
     - on 10 January 2019
     - about [Eric Leeds](../../topics/eric-leeds/index.md), [Jacob Armen](../../topics/jacob-armen/index.md), [Paisley Park Records](../../topics/paisley-park-records/index.md)
@@ -9,8 +12,11 @@
 
 ----
 
- - [**"‘The most frightening drummer’ Prince has heard"**](https://www.pcccourier.com/lifestyle/press-play/jacob-armen-a-celebration-of-life-music-and-rhythm.html)
+## 2018 (3)
 
+### 2018 September (1)
+
+ - [**"‘The most frightening drummer’ Prince has heard"**](https://www.pcccourier.com/lifestyle/press-play/jacob-armen-a-celebration-of-life-music-and-rhythm.html)
     - in [www.pcccourier.com](https://www.pcccourier.com/)
     - on 6 September 2018
     - about [Jacob Armen](../../topics/jacob-armen/index.md), [YouTube](../../topics/youtube/index.md)
@@ -18,8 +24,9 @@
 
 ----
 
- - [**"Drum Prodigy Jacob Armen Announces Album Release Date and Live Show"**](http://asbarez.com/173309/drum-prodigy-jacob-armen-announces-album-release-date-and-live-show/)
+### 2018 July (1)
 
+ - [**"Drum Prodigy Jacob Armen Announces Album Release Date and Live Show"**](http://asbarez.com/173309/drum-prodigy-jacob-armen-announces-album-release-date-and-live-show/)
     - in [asbarez.com](http://asbarez.com/)
     - on 2 July 2018
     - about [Grammy Award](../../topics/grammy-award/index.md), [Jacob Armen](../../topics/jacob-armen/index.md), [NPG Records](../../topics/npg-records/index.md)
@@ -27,8 +34,9 @@
 
 ----
 
- - [**"JAAB Records, in Association with Glendale Arts, Presents JACOB ARMEN LIVE: A CELEBRATION OF RHYTHM – “WHEN DRUMS CONDUCT” ALBUM RELEASE EVENT"**](http://glendalearts.org/event/jaab-records-in-association-with-glendale-arts-presents-jacob-armen-live-a-celebration-of-rhythm-when-drums-conduct-album-release-event/)
+### 2018 May (1)
 
+ - [**"JAAB Records, in Association with Glendale Arts, Presents JACOB ARMEN LIVE: A CELEBRATION OF RHYTHM – “WHEN DRUMS CONDUCT” ALBUM RELEASE EVENT"**](http://glendalearts.org/event/jaab-records-in-association-with-glendale-arts-presents-jacob-armen-live-a-celebration-of-rhythm-when-drums-conduct-album-release-event/)
     - in [glendalearts.org](http://glendalearts.org/)
     - on 9 May 2018
     - about [Grammy Award](../../topics/grammy-award/index.md), [Jacob Armen](../../topics/jacob-armen/index.md), [NPG Records](../../topics/npg-records/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md)

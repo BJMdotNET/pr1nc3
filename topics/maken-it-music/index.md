@@ -1,5 +1,9 @@
 # Maken It Music
 
+## 2017 (1)
+
+### 2017 June (1)
+
  - [**"Song from Prince’s father being released on his 101st b’day"**](https://apnews.com/229ffc268c5e4b1ca1eef644539b5247)
     - by [Mesfin Fekadu (Associated Press)](../../authors/associated-press/mesfin-fekadu/index.md)
     - in [Associated Press News](https://apnews.com/)

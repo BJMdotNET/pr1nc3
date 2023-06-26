@@ -1,61 +1,58 @@
 # Let's Go Crazy: The Grammy Salute to Prince (event)
 
- - [**"Grammy’s Prince “Tribute” is Everything But"**](https://vocal.media/beat/let-s-go-insane-a9c30s63)
+## 2020 (7)
 
+### 2020 January (7)
+
+ - [**"Grammy’s Prince “Tribute” is Everything But"**](https://vocal.media/beat/let-s-go-insane-a9c30s63)
     - in [vocal.media](https://vocal.media/)
     - on 29 January 2020
     - about [Grammy Award](../../../topics/grammy-award/index.md), [Juanes](../../../topics/juanes/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Let's Go Crazy: The Grammy Salute to Prince (event)](../../../topics/event/let-s-go-crazy-the-grammy-salute-to-prince/index.md), [Los Angeles Convention Center (place)](../../../topics/place/los-angeles-convention-center/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [The Revolution](../../../topics/the-revolution/index.md), [Trump](../../../topics/trump/index.md), [Usher](../../../topics/usher/index.md)
     - ([mirror](https://web.archive.org/web/*/https://vocal.media/beat/let-s-go-insane-a9c30s63))
 
-----
+<br />
 
  - [**"Usher & FKA Twigs Go Crazy With Prince Tribute at 2020 Grammys"**](https://www.billboard.com/articles/news/awards/8549200/usher-fka-twigs-prince-grammy-2020)
-
     - in [Billboard](https://www.billboard.com/)
     - on 26 January 2020
     - about [FKA twigs](../../../topics/fka-twigs/index.md), [Let's Go Crazy: The Grammy Salute to Prince (event)](../../../topics/event/let-s-go-crazy-the-grammy-salute-to-prince/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Usher](../../../topics/usher/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/awards/8549200/usher-fka-twigs-prince-grammy-2020))
 
-----
+<br />
 
  - [**"Usher and Sheila E. Will Perform Special Prince Tribute at 2020 Grammy Awards"**](https://www.billboard.com/articles/news/awards/8548944/2020-grammys-usher-sheila-e-prince-tribute)
-
     - in [Billboard](https://www.billboard.com/)
     - on 24 January 2020
     - about [Alicia Keys](../../../topics/alicia-keys/index.md), [Beck](../../../topics/beck/index.md), [Chris Martin](../../../topics/chris-martin/index.md), [Gary Clark Jr.](../../../topics/gary-clark-jr/index.md), [Grammy Award](../../../topics/grammy-award/index.md), [Gwen Stefani](../../../topics/gwen-stefani/index.md), [H.E.R.](../../../topics/h-e-r/index.md), [John Legend](../../../topics/john-legend/index.md), [Juanes](../../../topics/juanes/index.md), [Let's Go Crazy: The Grammy Salute to Prince (event)](../../../topics/event/let-s-go-crazy-the-grammy-salute-to-prince/index.md), [Lizzo](../../../topics/lizzo/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [The Roots](../../../topics/the-roots/index.md), [Usher](../../../topics/usher/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/awards/8548944/2020-grammys-usher-sheila-e-prince-tribute))
 
-----
+<br />
 
  - [**"Grammys will honor Prince with an all-star concert broadcast on CBS"**](https://www.startribune.com/grammys-will-honor-prince-with-an-all-star-concert-broadcast-on-cbs/566849132/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 9 January 2020
     - about [Alicia Keys](../../../topics/alicia-keys/index.md), [Aretha Franklin](../../../topics/aretha-franklin/index.md), [Beck](../../../topics/beck/index.md), [Chris Martin](../../../topics/chris-martin/index.md), [Coldplay](../../../topics/coldplay/index.md), [Earth, Wind & Fire](../../../topics/earth-wind-fire/index.md), [Foo Fighters](../../../topics/foo-fighters/index.md), [Gary Clark Jr.](../../../topics/gary-clark-jr/index.md), [Grammy Award](../../../topics/grammy-award/index.md), [H.E.R.](../../../topics/h-e-r/index.md), [Jimmy Jam](../../../topics/jimmy-jam/index.md), [John Legend](../../../topics/john-legend/index.md), [Juanes](../../../topics/juanes/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Let's Go Crazy: The Grammy Salute to Prince (event)](../../../topics/event/let-s-go-crazy-the-grammy-salute-to-prince/index.md), [Los Angeles Convention Center (place)](../../../topics/place/los-angeles-convention-center/index.md), [Mavis Staples](../../../topics/mavis-staples/index.md), [Morris Day](../../../topics/morris-day/index.md), [Morris Day & The Time](../../../topics/morris-day-the-time/index.md), [Morris Day and The Time](../../../topics/morris-day-and-the-time/index.md), [St. Vincent](../../../topics/st-vincent/index.md), [Stevie Wonder](../../../topics/stevie-wonder/index.md), [Susanna Hoffs](../../../topics/susanna-hoffs/index.md), [Terry Lewis](../../../topics/terry-lewis/index.md), [The Revolution](../../../topics/the-revolution/index.md), [The Time](../../../topics/the-time/index.md), [Usher](../../../topics/usher/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/grammys-will-honor-prince-with-an-all-star-concert-broadcast-on-cbs/566849132/))
 
-----
+<br />
 
  - [**"John Legend, Alicia Keys & More Will Pay Tribute to Prince in Grammy Special -- 'Let's Go Crazy: The Grammy Salute to Prince' will tape in Los Angeles two days after the 2020 Grammys."**](https://www.billboard.com/articles/columns/pop/8547655/prince-grammy-special-tribute)
-
     - in [Billboard](https://www.billboard.com/)
     - on 9 January 2020
     - about [Alicia Keys](../../../topics/alicia-keys/index.md), [Bangles](../../../topics/bangles/index.md), [Beck](../../../topics/beck/index.md), [Chris Martin](../../../topics/chris-martin/index.md), [Coldplay](../../../topics/coldplay/index.md), [Earth, Wind & Fire](../../../topics/earth-wind-fire/index.md), [Foo Fighters](../../../topics/foo-fighters/index.md), [Gary Clark Jr.](../../../topics/gary-clark-jr/index.md), [Grammy Award](../../../topics/grammy-award/index.md), [H.E.R.](../../../topics/h-e-r/index.md), [John Legend](../../../topics/john-legend/index.md), [Juanes](../../../topics/juanes/index.md), [Ken Ehrlich](../../../topics/ken-ehrlich/index.md), [Let's Go Crazy: The Grammy Salute to Prince (event)](../../../topics/event/let-s-go-crazy-the-grammy-salute-to-prince/index.md), [Los Angeles Convention Center (place)](../../../topics/place/los-angeles-convention-center/index.md), [Mavis Staples](../../../topics/mavis-staples/index.md), [Morris Day](../../../topics/morris-day/index.md), [Morris Day and The Time](../../../topics/morris-day-and-the-time/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [St. Vincent](../../../topics/st-vincent/index.md), [Susanna Hoffs](../../../topics/susanna-hoffs/index.md), [The Revolution](../../../topics/the-revolution/index.md), [The Time](../../../topics/the-time/index.md), [Usher](../../../topics/usher/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/columns/pop/8547655/prince-grammy-special-tribute))
 
-----
+<br />
 
  - [**"John Legend, H.E.R. to perform at Prince tribute concert"**](https://www.startribune.com/john-legend-h-e-r-to-perform-at-prince-tribute-concert/566845702/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 9 January 2020
     - about [Alicia Keys](../../../topics/alicia-keys/index.md), [Beck](../../../topics/beck/index.md), [Chris Martin](../../../topics/chris-martin/index.md), [Earth, Wind & Fire](../../../topics/earth-wind-fire/index.md), [Foo Fighters](../../../topics/foo-fighters/index.md), [Gary Clark Jr.](../../../topics/gary-clark-jr/index.md), [Grammy Award](../../../topics/grammy-award/index.md), [H.E.R.](../../../topics/h-e-r/index.md), [John Legend](../../../topics/john-legend/index.md), [Juanes](../../../topics/juanes/index.md), [Let's Go Crazy: The Grammy Salute to Prince (event)](../../../topics/event/let-s-go-crazy-the-grammy-salute-to-prince/index.md), [Los Angeles Convention Center (place)](../../../topics/place/los-angeles-convention-center/index.md), [Mavis Staples](../../../topics/mavis-staples/index.md), [Morris Day](../../../topics/morris-day/index.md), [Morris Day and The Time](../../../topics/morris-day-and-the-time/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [St. Vincent](../../../topics/st-vincent/index.md), [Susanna Hoffs](../../../topics/susanna-hoffs/index.md), [The Revolution](../../../topics/the-revolution/index.md), [The Time](../../../topics/the-time/index.md), [Usher](../../../topics/usher/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/john-legend-h-e-r-to-perform-at-prince-tribute-concert/566845702/))
 
-----
+<br />
 
  - [**"Prince to Receive All-Star Grammy Tribute Starring Alicia Keys, Beck, Foo Fighters, Sheila E."**](https://variety.com/2020/music/news/prince-all-star-grammy-tribute-alicia-keys-beck-sheila-e-the-time-1203461660/)
-
     - in [Variety](https://variety.com/)
     - on 9 January 2020
     - about [Alicia Keys](../../../topics/alicia-keys/index.md), [Aretha Franklin](../../../topics/aretha-franklin/index.md), [Beck](../../../topics/beck/index.md), [Chris Martin](../../../topics/chris-martin/index.md), [Earth, Wind & Fire](../../../topics/earth-wind-fire/index.md), [Foo Fighters](../../../topics/foo-fighters/index.md), [Grammy Award](../../../topics/grammy-award/index.md), [H.E.R.](../../../topics/h-e-r/index.md), [Jimmy Jam](../../../topics/jimmy-jam/index.md), [John Legend](../../../topics/john-legend/index.md), [Juanes](../../../topics/juanes/index.md), [Let's Go Crazy: The Grammy Salute to Prince (event)](../../../topics/event/let-s-go-crazy-the-grammy-salute-to-prince/index.md), [Los Angeles Convention Center (place)](../../../topics/place/los-angeles-convention-center/index.md), [Mavis Staples](../../../topics/mavis-staples/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [St. Vincent](../../../topics/st-vincent/index.md), [Stevie Wonder](../../../topics/stevie-wonder/index.md), [Terry Lewis](../../../topics/terry-lewis/index.md), [The Revolution](../../../topics/the-revolution/index.md), [The Time](../../../topics/the-time/index.md), [Usher](../../../topics/usher/index.md)

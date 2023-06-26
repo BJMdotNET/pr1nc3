@@ -1,13 +1,20 @@
 # DJ Kiss
 
- - [**"Paisley Park Announces Performers & Special Guests Joining CELEBRATION 2019"**](https://apnews.com/article/entertainment-music-minnesota-minneapolis-prince-5dab29ebae754a008ff8dc0d3bdc5469)
+## 2021 (1)
 
+### 2021 December (1)
+
+ - [**"Paisley Park Announces Performers & Special Guests Joining CELEBRATION 2019"**](https://apnews.com/article/entertainment-music-minnesota-minneapolis-prince-5dab29ebae754a008ff8dc0d3bdc5469)
     - in [Associated Press News](https://apnews.com/)
     - on 22 December 2021
     - about [Audubon Road (place)](../../topics/place/audubon-road/index.md), [Bob Cavallo](../../topics/bob-cavallo/index.md), [Bobby Z](../../topics/bobby-z/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [Celebration 2019 (event)](../../topics/event/celebration-2019/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [DJ Kiss](../../topics/dj-kiss/index.md), [Ida Nielsen](../../topics/ida-nielsen/index.md), [Ingrid Chavez](../../topics/ingrid-chavez/index.md), [Jeff Katz](../../topics/jeff-katz/index.md), [Jesse Johnson](../../topics/jesse-johnson/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Matt Fink](../../topics/matt-fink/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Prince: In Concert On The Big Screen (event)](../../topics/event/prince-in-concert-on-the-big-screen/index.md), [Renato Neto](../../topics/renato-neto/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/entertainment-music-minnesota-minneapolis-prince-5dab29ebae754a008ff8dc0d3bdc5469))
 
 ----
+
+## 2019 (1)
+
+### 2019 September (1)
 
  - [**"The Book of Prince -- Prince had grand plans for his autobiography, but only a few months to live."**](https://www.newyorker.com/magazine/2019/09/09/the-book-of-prince)
     - by [Dan Piepenbring](../../authors/dan-piepenbring/index.md)

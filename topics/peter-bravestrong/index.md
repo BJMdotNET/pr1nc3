@@ -1,31 +1,34 @@
 # Peter Bravestrong
 
- - [**"Comment Rogers Nelson est devenu Prince -- Dans « The beautiful Ones », sorte d'autobiographie posthume et inachevée, plane le fantôme d'un artiste solitaire qui voulait écrire l'histoire de sa vie."**](https://www.lepoint.fr/culture/comment-rogers-nelson-est-devenu-prince-30-10-2019-2344489_3.php)
+## 2019 (4)
 
+### 2019 October (3)
+
+ - [**"Comment Rogers Nelson est devenu Prince -- Dans « The beautiful Ones », sorte d'autobiographie posthume et inachevée, plane le fantôme d'un artiste solitaire qui voulait écrire l'histoire de sa vie."**](https://www.lepoint.fr/culture/comment-rogers-nelson-est-devenu-prince-30-10-2019-2344489_3.php)
     - in [www.lepoint.fr](https://www.lepoint.fr/)
     - on 30 October 2019
     - about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Denise Matthews](../../topics/denise-matthews/index.md), [James Brown](../../topics/james-brown/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Peter Bravestrong](../../topics/peter-bravestrong/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.lepoint.fr/culture/comment-rogers-nelson-est-devenu-prince-30-10-2019-2344489_3.php))
 
-----
+<br />
 
  - [**"Schön, aber Fragment: Prince-Autobiografie "The Beautiful Ones""**](https://www.br.de/nachrichten/kultur/kritik-prince-autobiographie-the-beautiful-ones,RgHARQ1)
-
     - in [Bayerischer Rundfunk (BR)](https://www.br.de/)
     - on 29 October 2019
     - about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Peter Bravestrong](../../topics/peter-bravestrong/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.br.de/nachrichten/kultur/kritik-prince-autobiographie-the-beautiful-ones,RgHARQ1))
 
-----
+<br />
 
  - [**"Comic strips, goofy snaps and mirror selfies: inside Prince’s private archive -- When Prince died, he was three months into work on a deeply personal memoir. Co-writer Dan Piepenbring talks about bringing his idol’s project to completion"**](https://www.theguardian.com/music/2019/oct/26/prince-private-archive-memoir-comic-strips-snaps-selfies)
-
     - in [The Guardian](https://www.theguardian.com/)
     - on 26 October 2019
     - about [Carver County](../../topics/carver-county/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Ed Sheeran](../../topics/ed-sheeran/index.md), [fentanyl](../../topics/fentanyl/index.md), [Katy Perry](../../topics/katy-perry/index.md), [Mayte](../../topics/mayte/index.md), [memoir](../../topics/memoir/index.md), [museum](../../topics/museum/index.md), [Peter Bravestrong](../../topics/peter-bravestrong/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [Vanity](../../topics/vanity/index.md), [vault](../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/music/2019/oct/26/prince-private-archive-memoir-comic-strips-snaps-selfies))
 
 ----
+
+### 2019 September (1)
 
  - [**"The Book of Prince -- Prince had grand plans for his autobiography, but only a few months to live."**](https://www.newyorker.com/magazine/2019/09/09/the-book-of-prince)
     - by [Dan Piepenbring](../../authors/dan-piepenbring/index.md)

@@ -1,5 +1,9 @@
 # Target
 
+## 2009 (2)
+
+### 2009 July (1)
+
  - [**"Purple’ afterglow: 25 years ago, film and soundtrack turned Prince into a megastar"**](https://www.bostonherald.com/2009/07/31/purple-afterglow-25-years-ago-film-and-soundtrack-turned-prince-into-a-megastar/)
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Boston Herald](https://www.bostonherald.com/)
@@ -9,8 +13,9 @@
 
 ----
 
- - [**"Prince's New 3 CD Set Gets Target Exclusive"**](https://www.billboard.com/articles//1273749/princes-new-3-cd-set-gets-target-exclusive)
+### 2009 March (1)
 
+ - [**"Prince's New 3 CD Set Gets Target Exclusive"**](https://www.billboard.com/articles//1273749/princes-new-3-cd-set-gets-target-exclusive)
     - in [Billboard](https://www.billboard.com/)
     - on 2 March 2009
     - about [21 Nights (book)](../../topics/book/21-nights/index.md), [Bria Valente](../../topics/bria-valente/index.md), [LotusFlow3r (album)](../../topics/album/lotusflow3r/index.md), [Mark Schindele](../../topics/mark-schindele/index.md), [MPLSoUND (album)](../../topics/album/mplsound/index.md), [Target](../../topics/target/index.md)

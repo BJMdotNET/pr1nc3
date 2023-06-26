@@ -1,5 +1,9 @@
 # Got a Broken Heart Again (song)
 
+## 2017 (1)
+
+### 2017 November (1)
+
  - [**"Auction offers never-released Prince recordings, guitar, ex’s wedding dress"**](https://apnews.com/a37b4dffd41e4f0aa89ed41ee05e4185)
     - by [Paul Walsh](../../../authors/paul-walsh/index.md)
     - in [Associated Press News](https://apnews.com/)

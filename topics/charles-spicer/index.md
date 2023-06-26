@@ -1,5 +1,9 @@
 # Charles Spicer
 
+## 2022 (1)
+
+### 2022 August (1)
+
  - [**"Prince Estate Court Battle Finally Ends, Six Years Later -- The legendary artist's vast holdings can now be handed out to his heirs and to Primary Wave. Both sides have vowed to "preserve Prince's legacy.""**](https://www.billboard.com/pro/prince-estate-court-battle-ends-six-years/)
     - by [Bill Donahue](../../authors/bill-donahue/index.md)
     - in [Billboard](https://www.billboard.com/)

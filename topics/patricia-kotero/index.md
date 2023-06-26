@@ -1,5 +1,9 @@
 # Patricia Kotero
 
+## 2021 (1)
+
+### 2021 June (1)
+
  - [**"Purple Rain: How Prince Stormed His Way To Superstardom -- Creating the zeitgeist, Prince’s ‘Purple Rain’ era raised the bars for music, cinema and live performance. No one has come close since."**](https://www.thisisdig.com/feature/prince-purple-rain-album/)
     - by [Jason Draper](../../authors/jason-draper/index.md)
     - in [Dig!](https://www.thisisdig.com/)
@@ -8,6 +12,10 @@
     - ([mirror](https://web.archive.org/web/*/https://www.thisisdig.com/feature/prince-purple-rain-album/))
 
 ----
+
+## 2009 (1)
+
+### 2009 July (1)
 
  - [**"Purple’ afterglow: 25 years ago, film and soundtrack turned Prince into a megastar"**](https://www.bostonherald.com/2009/07/31/purple-afterglow-25-years-ago-film-and-soundtrack-turned-prince-into-a-megastar/)
     - by [Jon Bream](../../authors/jon-bream/index.md)

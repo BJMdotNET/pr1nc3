@@ -1,5 +1,9 @@
 # Lawrence Mestel
 
+## 2020 (1)
+
+### 2020 February (1)
+
  - [**"Death of Prince heir complicates estate settlement even more -- Nearly a third of Prince's estate could go to parties not related to him after two siblings signed agreements with Primary Wave."**](https://www.startribune.com/untimely-death-of-prince-heir-complicates-estate-settlement-even-more/568089142/)
     - by [Jon Bream](../../authors/jon-bream/index.md), [Mike Hughlett](../../authors/mike-hughlett/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)

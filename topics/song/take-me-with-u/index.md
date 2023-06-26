@@ -1,5 +1,9 @@
 # Take Me with U (song)
 
+## 2019 (1)
+
+### 2019 June (1)
+
  - [**"Prince and The Revolution’s ‘Purple Rain’ Turns 35: Anniversary Retrospective -- Happy 35th Anniversary to Prince’s sixth studio album (and soundtrack to the film) Purple Rain, originally released June 25, 1984."**](https://www.albumism.com/features/prince-and-the-revolution-purple-rain-turns-35-anniversary-retrospective)
     - by [Andy Healy](../../../authors/andy-healy/index.md)
     - in [Albumism](https://www.albumism.com/)
@@ -8,6 +12,10 @@
     - ([mirror](https://web.archive.org/web/*/https://www.albumism.com/features/prince-and-the-revolution-purple-rain-turns-35-anniversary-retrospective))
 
 ----
+
+## 2017 (1)
+
+### 2017 April (1)
 
  - [**"Tracklist for Prince’s ‘Purple Rain’ Deluxe Edition Leaks — Unreleased Tracks Revealed"**](https://variety.com/2017/music/news/prince-purple-rain-deluxe-tracklist-leaks-1202390479/)
     - by [Jem Aswad](../../../authors/jem-aswad/index.md)
@@ -18,8 +26,11 @@
 
 ----
 
- - [**"Dan Bova: What a 9-year-old thinks of 'Purple Rain'"**](https://usatoday.com/story/life/2016/04/27/dan-bovas-prince-tribute/83599176/)
+## 2016 (1)
 
+### 2016 April (1)
+
+ - [**"Dan Bova: What a 9-year-old thinks of 'Purple Rain'"**](https://usatoday.com/story/life/2016/04/27/dan-bovas-prince-tribute/83599176/)
     - in [USA Today](https://usatoday.com/)
     - on 28 April 2016
     - about [Baby I’m a Star (song)](../../../topics/song/baby-i-m-a-star/index.md), [Computer Blue (song)](../../../topics/song/computer-blue/index.md), [Darling Nikki (song)](../../../topics/song/darling-nikki/index.md), [I Would Die 4 U (song)](../../../topics/song/i-would-die-4-u/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Purple Rain (album)](../../../topics/album/purple-rain/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Take Me with U (song)](../../../topics/song/take-me-with-u/index.md), [The Beautiful Ones (song)](../../../topics/song/the-beautiful-ones/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)

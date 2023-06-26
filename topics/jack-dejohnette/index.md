@@ -1,5 +1,9 @@
 # Jack DeJohnette
 
+## 2019 (1)
+
+### 2019 July (1)
+
  - [**"Interview: Tal Wilkenfeld on ‘Love Remains,’ Collaborating with Prince and More"**](https://relix.com/articles/detail/interview-tal-wilkenfeld-on-love-remains-collaborating-with-prince-and-more/)
     - by [Dean Budnick](../../authors/dean-budnick/index.md)
     - in [relix](https://relix.com/)

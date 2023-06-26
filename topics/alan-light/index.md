@@ -1,5 +1,9 @@
 # Alan Light
 
+## 2019 (4)
+
+### 2019 July (3)
+
  - [**"Prince Never Acted Before 'Purple Rain.' Then He Became a Household Name -- The movie and album would come to help define the 1980s and catapult the performer to global fame."**](https://www.biography.com/news/prince-purple-rain-album-movie)
     - by [Colin Bertram](../../authors/colin-bertram/index.md)
     - in [Biography](https://www.biography.com/)
@@ -7,7 +11,7 @@
     - about [Academy Award](../../topics/academy-award/index.md), [Alan Light](../../topics/alan-light/index.md), [Albert Magnoli](../../topics/albert-magnoli/index.md), [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [I Would Die 4 U (song)](../../topics/song/i-would-die-4-u/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Morris Day](../../topics/morris-day/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md), [Vanity](../../topics/vanity/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.biography.com/news/prince-purple-rain-album-movie))
 
-----
+<br />
 
  - [**"C.J.: Music stars can learn more about themselves by acquiescing to media interviews"**](https://www.startribune.com/c-j-music-stars-can-learn-more-about-themselves-by-acquiescing-to-media-interviews/512421852/)
     - by [C.J. (Cheryl Johnson)](../../authors/c-j-cheryl-johnson/index.md)
@@ -16,7 +20,7 @@
     - about [Alan Light](../../topics/alan-light/index.md), [C.J.](../../topics/c-j/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/c-j-music-stars-can-learn-more-about-themselves-by-acquiescing-to-media-interviews/512421852/))
 
-----
+<br />
 
  - [**"Imagine, if you will, a picture with John Travolta as the 'Purple Rain' kid"**](https://www.startribune.com/c-j-imagine-if-you-will-a-picture-with-john-travolta-as-the-purple-rain-kid/512260012/)
     - by [C.J. (Cheryl Johnson)](../../authors/c-j-cheryl-johnson/index.md)
@@ -27,8 +31,9 @@
 
 ----
 
- - [**"Prince's 'Originals' Album: Comparing Each Demo With Its Well-Known Cover Version"**](https://www.billboard.com/articles/news/8517576/prince-originals-album-covers)
+### 2019 June (1)
 
+ - [**"Prince's 'Originals' Album: Comparing Each Demo With Its Well-Known Cover Version"**](https://www.billboard.com/articles/news/8517576/prince-originals-album-covers)
     - in [Billboard](https://www.billboard.com/)
     - on 25 June 2019
     - about [Alan Light](../../topics/alan-light/index.md), [Apollonia 6](../../topics/apollonia-6/index.md), [Bangles](../../topics/bangles/index.md), [BrownMark](../../topics/brownmark/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Morris Day](../../topics/morris-day/index.md), [Nile Rodgers](../../topics/nile-rodgers/index.md), [Originals (album)](../../topics/album/originals/index.md), [Romance 1600 (album)](../../topics/album/romance-1600/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Super Bowl XLI (event)](../../topics/event/super-bowl-xli/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [The Revolution](../../topics/the-revolution/index.md)
@@ -36,8 +41,11 @@
 
 ----
 
- - [**"Prince offered a ticket to a forbidden world in his music"**](https://apnews.com/6c306c0a54cf48eea82ce15e437829fa)
+## 2016 (2)
 
+### 2016 April (1)
+
+ - [**"Prince offered a ticket to a forbidden world in his music"**](https://apnews.com/6c306c0a54cf48eea82ce15e437829fa)
     - in [Associated Press News](https://apnews.com/)
     - on 22 April 2016
     - about [Alan Light](../../topics/alan-light/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [Do It All Night (song)](../../topics/song/do-it-all-night/index.md), [Erotic City (song)](../../topics/song/erotic-city/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Parents Music Resource Center](../../topics/parents-music-resource-center/index.md)
@@ -45,8 +53,9 @@
 
 ----
 
- - [**"Paean to Prince: 15 Fascinating Facts About His Purple Majesty -- Juicy secrets from a legendary music career, collected by an infatuated fan"**](https://medium.com/cuepoint/paean-to-prince-15-fascinating-facts-about-his-purple-majesty-6aa627d1d17e)
+### 2016 February (1)
 
+ - [**"Paean to Prince: 15 Fascinating Facts About His Purple Majesty -- Juicy secrets from a legendary music career, collected by an infatuated fan"**](https://medium.com/cuepoint/paean-to-prince-15-fascinating-facts-about-his-purple-majesty-6aa627d1d17e)
     - in [Cuepoint](https://medium.com/cuepoint/)
     - on 10 February 2016
     - about [Alan Light](../../topics/alan-light/index.md), [Albert Magnoli](../../topics/albert-magnoli/index.md), [Apollonia 6](../../topics/apollonia-6/index.md), [Dave Chappelle](../../topics/dave-chappelle/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [Jesse Johnson](../../topics/jesse-johnson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Matt Fink](../../topics/matt-fink/index.md), [memoir](../../topics/memoir/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Morris Day](../../topics/morris-day/index.md), [One Nite Alone (album)](../../topics/album/one-nite-alone/index.md), [Questlove](../../topics/questlove/index.md), [Quincy Jones](../../topics/quincy-jones/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stand Back (song)](../../topics/song/stand-back/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Revolution](../../topics/the-revolution/index.md), [Vagina (song)](../../topics/song/vagina/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md)

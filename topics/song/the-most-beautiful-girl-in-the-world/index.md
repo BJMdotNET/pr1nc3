@@ -1,7 +1,10 @@
 # The Most Beautiful Girl In The World (song)
 
- - [**"Exclusive: Prince's estate sued for $3 million"**](https://au.lifestyle.yahoo.com/princes-estate-sued-for-3-million-053919372.html)
+## 2019 (2)
 
+### 2019 September (1)
+
+ - [**"Exclusive: Prince's estate sued for $3 million"**](https://au.lifestyle.yahoo.com/princes-estate-sued-for-3-million-053919372.html)
     - in [Yahoo! Lifestyle Australia](https://au.lifestyle.yahoo.com/)
     - on 24 September 2019
     - about [Bruno Bergonzi](../../../topics/bruno-bergonzi/index.md), [contract](../../../topics/contract/index.md), [Jay Rolandi](../../../topics/jay-rolandi/index.md), [lawsuit](../../../topics/lawsuit/index.md), [Michele Vicino](../../../topics/michele-vicino/index.md), [royalties](../../../topics/royalties/index.md), [Spotify](../../../topics/spotify/index.md), [Takin Me To Paradise (song)](../../../topics/song/takin-me-to-paradise/index.md), [The Most Beautiful Girl In The World (song)](../../../topics/song/the-most-beautiful-girl-in-the-world/index.md), [Warner Chappell Music](../../../topics/warner-chappell-music/index.md)
@@ -9,8 +12,9 @@
 
 ----
 
- - [**"Dance on: How Prince’s legacy of giving continues to thrive"**](https://spokesman-recorder.com/2019/04/20/dance-on-how-princes-legacy-of-giving-continues-to-thrive/)
+### 2019 April (1)
 
+ - [**"Dance on: How Prince’s legacy of giving continues to thrive"**](https://spokesman-recorder.com/2019/04/20/dance-on-how-princes-legacy-of-giving-continues-to-thrive/)
     - in [Minnesota Spokesman-Recorder](https://spokesman-recorder.com/)
     - on 20 April 2019
     - about [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Jacqui Thompson](../../../topics/jacqui-thompson/index.md), [NPG Records](../../../topics/npg-records/index.md), [PRN Alumni Foundation](../../../topics/prn-alumni-foundation/index.md), [The Most Beautiful Girl In The World (song)](../../../topics/song/the-most-beautiful-girl-in-the-world/index.md), [Van Jones](../../../topics/van-jones/index.md), [WCCO-TV](../../../topics/wcco-tv/index.md), [YesWeCode](../../../topics/yeswecode/index.md)
@@ -18,17 +22,19 @@
 
 ----
 
- - [**"Legacy Recordings and The Prince Estate Launch First Wave of Prince Catalog Digital Releases Today -- 23 Catalog Titles (including Rare and Out-of-Print Recordings) + Newly Curated 37-Track Prince Anthology: 1995-2010 Available Now on Streaming Services and DSPs"**](https://www.prnewswire.com/news-releases/legacy-recordings-and-the-prince-estate-launch-first-wave-of-prince-catalog-digital-releases-today-300698544.html)
+## 2018 (3)
 
+### 2018 August (2)
+
+ - [**"Legacy Recordings and The Prince Estate Launch First Wave of Prince Catalog Digital Releases Today -- 23 Catalog Titles (including Rare and Out-of-Print Recordings) + Newly Curated 37-Track Prince Anthology: 1995-2010 Available Now on Streaming Services and DSPs"**](https://www.prnewswire.com/news-releases/legacy-recordings-and-the-prince-estate-launch-first-wave-of-prince-catalog-digital-releases-today-300698544.html)
     - in [PR Newswire](https://www.prnewswire.com/)
     - on 17 August 2018
     - about [20Ten (album)](../../../topics/album/20ten/index.md), [3121 (album)](../../../topics/album/3121/index.md), [Call My Name (song)](../../../topics/song/call-my-name/index.md), [Crystal Ball (album)](../../../topics/album/crystal-ball/index.md), [Dreamer (song)](../../../topics/song/dreamer/index.md), [Emancipation (album)](../../../topics/album/emancipation/index.md), [Legacy Recordings](../../../topics/legacy-recordings/index.md), [LotusFlow3r (album)](../../../topics/album/lotusflow3r/index.md), [MPLSoUND (album)](../../../topics/album/mplsound/index.md), [Musicology (album)](../../../topics/album/musicology/index.md), [Musicology (song)](../../../topics/song/musicology/index.md), [NPG Music Club (website)](../../../topics/website/npg-music-club/index.md), [One Nite Alone (album)](../../../topics/album/one-nite-alone/index.md), [One Nite Alone… (album)](../../../topics/album/one-nite-alone/index.md), [One Nite Alone…Live! (album)](../../../topics/album/one-nite-alone-live/index.md), [Planet Earth (album)](../../../topics/album/planet-earth/index.md), [Prince Anthology: 1995-2010 (album)](../../../topics/album/prince-anthology-1995-2010/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [Rave In2 the Joy Fantastic (album)](../../../topics/album/rave-in2-the-joy-fantastic/index.md), [Rave Un2 the Joy Fantastic (album)](../../../topics/album/rave-un2-the-joy-fantastic/index.md), [Sony Music](../../../topics/sony-music/index.md), [Sony Music Entertainment](../../../topics/sony-music-entertainment/index.md), [The Gold Experience (album)](../../../topics/album/the-gold-experience/index.md), [The Greatest Romance Ever Sold (song)](../../../topics/song/the-greatest-romance-ever-sold/index.md), [The Most Beautiful Girl In The World (song)](../../../topics/song/the-most-beautiful-girl-in-the-world/index.md), [The Prince Estate](../../../topics/the-prince-estate/index.md), [The Rainbow Children (album)](../../../topics/album/the-rainbow-children/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/legacy-recordings-and-the-prince-estate-launch-first-wave-of-prince-catalog-digital-releases-today-300698544.html))
 
-----
+<br />
 
  - [**"Legacy Recordings and The Prince Estate Launch First Wave of Prince Catalog Digital Releases Today -- 23 Catalog Titles (including Rare and Out-of-Print Recordings) + Newly Curated 37-Track Prince Anthology: 1995-2010 Available Now on Streaming Services and DSPs"**](https://www.legacyrecordings.com/2018/08/17/legacy-recordings-and-the-prince-estate-launch-first-wave-of-prince-catalog-digital-releases-today/)
-
     - in [Legacy Recordings](https://www.legacyrecordings.com/)
     - on 17 August 2018
     - about [20Ten (album)](../../../topics/album/20ten/index.md), [3121 (album)](../../../topics/album/3121/index.md), [Call My Name (song)](../../../topics/song/call-my-name/index.md), [Crystal Ball (album)](../../../topics/album/crystal-ball/index.md), [Dreamer (song)](../../../topics/song/dreamer/index.md), [Emancipation (album)](../../../topics/album/emancipation/index.md), [Legacy Recordings](../../../topics/legacy-recordings/index.md), [LotusFlow3r (album)](../../../topics/album/lotusflow3r/index.md), [MPLSoUND (album)](../../../topics/album/mplsound/index.md), [Musicology (album)](../../../topics/album/musicology/index.md), [Musicology (song)](../../../topics/song/musicology/index.md), [NPG Music Club (website)](../../../topics/website/npg-music-club/index.md), [One Nite Alone (album)](../../../topics/album/one-nite-alone/index.md), [One Nite Alone… (album)](../../../topics/album/one-nite-alone/index.md), [One Nite Alone…Live! (album)](../../../topics/album/one-nite-alone-live/index.md), [Planet Earth (album)](../../../topics/album/planet-earth/index.md), [Prince Anthology: 1995-2010 (album)](../../../topics/album/prince-anthology-1995-2010/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [Rave In2 the Joy Fantastic (album)](../../../topics/album/rave-in2-the-joy-fantastic/index.md), [Rave Un2 the Joy Fantastic (album)](../../../topics/album/rave-un2-the-joy-fantastic/index.md), [Sony Music](../../../topics/sony-music/index.md), [Sony Music Entertainment](../../../topics/sony-music-entertainment/index.md), [The Gold Experience (album)](../../../topics/album/the-gold-experience/index.md), [The Greatest Romance Ever Sold (song)](../../../topics/song/the-greatest-romance-ever-sold/index.md), [The Most Beautiful Girl In The World (song)](../../../topics/song/the-most-beautiful-girl-in-the-world/index.md), [The Prince Estate](../../../topics/the-prince-estate/index.md), [The Rainbow Children (album)](../../../topics/album/the-rainbow-children/index.md)
@@ -36,14 +42,19 @@
 
 ----
 
- - [**"The 20 best Prince songs of all time by the NME office"**](https://www.nme.com/blogs/nme-blogs/best-prince-songs-9053)
+### 2018 June (1)
 
+ - [**"The 20 best Prince songs of all time by the NME office"**](https://www.nme.com/blogs/nme-blogs/best-prince-songs-9053)
     - in [NME (New Musical Express)](https://www.nme.com/)
     - on 7 June 2018
     - about [1999 (song)](../../../topics/song/1999/index.md), [Alphabet St. (song)](../../../topics/song/alphabet-st/index.md), [Around The World In A Day (song)](../../../topics/song/around-the-world-in-a-day/index.md), [Bambi (song)](../../../topics/song/bambi/index.md), [Controversy (song)](../../../topics/song/controversy/index.md), [Darling Nikki (song)](../../../topics/song/darling-nikki/index.md), [Diamonds and Pearls (song)](../../../topics/song/diamonds-and-pearls/index.md), [I Could Never Take The Place Of Your Man (song)](../../../topics/song/i-could-never-take-the-place-of-your-man/index.md), [I Wanna Be Your Lover (song)](../../../topics/song/i-wanna-be-your-lover/index.md), [I Would Die 4 U (song)](../../../topics/song/i-would-die-4-u/index.md), [Lisa Coleman](../../../topics/lisa-coleman/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Mayte](../../../topics/mayte/index.md), [Mayte Garcia](../../../topics/mayte-garcia/index.md), [Mazarati](../../../topics/mazarati/index.md), [memoir](../../../topics/memoir/index.md), [Michael Jackson](../../../topics/michael-jackson/index.md), [Money Don’t Matter 2 Night (song)](../../../topics/song/money-don-t-matter-2-night/index.md), [Parental Advisory](../../../topics/parental-advisory/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Raspberry Beret (song)](../../../topics/song/raspberry-beret/index.md), [Sheena Easton](../../../topics/sheena-easton/index.md), [Sometimes It Snows In April (song)](../../../topics/song/sometimes-it-snows-in-april/index.md), [Spiegel & Grau](../../../topics/spiegel-grau/index.md), [Sugar Walls (song)](../../../topics/song/sugar-walls/index.md), [The Most Beautiful Girl In The World (song)](../../../topics/song/the-most-beautiful-girl-in-the-world/index.md), [Tipper Gore](../../../topics/tipper-gore/index.md), [U Got the Look (song)](../../../topics/song/u-got-the-look/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.nme.com/blogs/nme-blogs/best-prince-songs-9053))
 
 ----
+
+## 2017 (1)
+
+### 2017 November (1)
 
  - [**"Auction offers never-released Prince recordings, guitar, ex’s wedding dress"**](https://apnews.com/a37b4dffd41e4f0aa89ed41ee05e4185)
     - by [Paul Walsh](../../../authors/paul-walsh/index.md)
@@ -54,6 +65,10 @@
 
 ----
 
+## 2016 (1)
+
+### 2016 April (1)
+
  - [**"24 Outrageous Prince Stories"**](https://www.vulture.com/2014/09/24-outrageous-prince-stories.html)
     - by [David Marchese](../../../authors/david-marchese/index.md)
     - in [Vulture](https://www.vulture.com/)
@@ -63,8 +78,11 @@
 
 ----
 
- - [**"Did Prince really plagiarize an Italian tune?"**](https://obergh.net/songoffire/2009/01/12/did-prince-really-plagiarize-an-italian-tune/)
+## 2009 (1)
 
+### 2009 January (1)
+
+ - [**"Did Prince really plagiarize an Italian tune?"**](https://obergh.net/songoffire/2009/01/12/did-prince-really-plagiarize-an-italian-tune/)
     - in [obergh.net](https://obergh.net/)
     - on 12 January 2009
     - about [Bruno Bergonzi](../../../topics/bruno-bergonzi/index.md), [Michele Vicino](../../../topics/michele-vicino/index.md), [royalties](../../../topics/royalties/index.md), [The Most Beautiful Girl In The World (song)](../../../topics/song/the-most-beautiful-girl-in-the-world/index.md)

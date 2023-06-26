@@ -1,5 +1,9 @@
 # Judson L. Jeffries
 
+## 2019 (1)
+
+### 2019 July (1)
+
  - [**"‘Purple Rain’ turns 35 – how Prince’s cult classic broke barriers"**](https://spokesman-recorder.com/2019/07/26/purple-rain-turns-35-how-princes-cult-classic-broke-barriers/)
     - by [Tony Kiene](../../authors/tony-kiene/index.md)
     - in [Minnesota Spokesman-Recorder](https://spokesman-recorder.com/)

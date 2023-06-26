@@ -1,5 +1,9 @@
 # David Furnish
 
+## 2016 (1)
+
+### 2016 April (1)
+
  - [**"A Princess Remembers Prince -- “I was invited to have dinner after a show at five A.M. Prince opened the door of his suite wearing pink silk pajamas.”"**](https://www.vanityfair.com/style/2016/04/princess-gloria-von-thurn-und-taxis-remembers-prince)
     - by [Gloria von Thurn und Taxis](../../authors/gloria-von-thurn-und-taxis/index.md)
     - in [Vanity Fair](https://www.vanityfair.com/)

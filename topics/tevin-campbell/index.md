@@ -1,13 +1,18 @@
 # Tevin Campbell
 
- - [**""A REMARKABLE MAN!” -- Susan Rogers Reflects upon her Lifelong Journey in Music, What it was Like to Watch a ‘Genius at Work,’ and Her Personal Vow to lift up Prince’s Legacy at Every Turn -- Spotlight: Susan Rogers"**](http://prnalumni.org/members/spotlight/spotlight-susan-rogers/)
+## 2019 (3)
 
+### 2019 October (1)
+
+ - [**""A REMARKABLE MAN!” -- Susan Rogers Reflects upon her Lifelong Journey in Music, What it was Like to Watch a ‘Genius at Work,’ and Her Personal Vow to lift up Prince’s Legacy at Every Turn -- Spotlight: Susan Rogers"**](http://prnalumni.org/members/spotlight/spotlight-susan-rogers/)
     - in [prnalumni.org](http://prnalumni.org/)
     - on 11 October 2019
     - about [André Cymone](../../topics/andr-cymone/index.md), [ASCAP](../../topics/ascap/index.md), [Bruce Springsteen](../../topics/bruce-springsteen/index.md), [Candy Dulfer](../../topics/candy-dulfer/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Computer Blue (song)](../../topics/song/computer-blue/index.md), [Detroit (place)](../../topics/place/detroit/index.md), [Eric Leeds](../../topics/eric-leeds/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Forum (place)](../../topics/place/forum/index.md), [Inglewood, California (place)](../../topics/place/inglewood-california/index.md), [Jesse Johnson](../../topics/jesse-johnson/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Joe Louis Arena (place)](../../topics/place/joe-louis-arena/index.md), [Kiowa Trail](../../topics/kiowa-trail/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Madonna](../../topics/madonna/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [PRN Alumni Foundation](../../topics/prn-alumni-foundation/index.md), [Sheena Easton](../../topics/sheena-easton/index.md), [Sheila E.](../../topics/sheila-e/index.md), [St. Louis Park (place)](../../topics/place/st-louis-park/index.md), [Steve Fargnoli](../../topics/steve-fargnoli/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [Tevin Campbell](../../topics/tevin-campbell/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md)
     - ([mirror](https://web.archive.org/web/*/http://prnalumni.org/members/spotlight/spotlight-susan-rogers/))
 
 ----
+
+### 2019 June (1)
 
  - [**"Prince’s Unearthed ‘Originals’: Collaborators Look Back on the Hits He Passed Along -- As demos of future classics like “Manic Monday” and Nothing Compares 2 U” finally see official release, Apollonia, the Bangles’ Susanna Hoffs, and others recall the artist’s “otherworldly” songwriting talents"**](https://www.rollingstone.com/music/music-features/prince-originals-interview-842940/)
     - by [Kory Grow](../../authors/kory-grow/index.md)
@@ -18,8 +23,9 @@
 
 ----
 
- - [**"The Curious Case of Tevin Campbell"**](https://www.thereckoningmag.com/the-reckoning-blog/the-curious-case-of-tevin-campbell)
+### 2019 May (1)
 
+ - [**"The Curious Case of Tevin Campbell"**](https://www.thereckoningmag.com/the-reckoning-blog/the-curious-case-of-tevin-campbell)
     - in [The Reckoning by The Counter Narrative Project](https://www.thereckoningmag.com/)
     - on 9 May 2019
     - about [Aretha Franklin](../../topics/aretha-franklin/index.md), [Ava DuVernay](../../topics/ava-duvernay/index.md), [Benny Medina](../../topics/benny-medina/index.md), [Beyoncé](../../topics/beyonc/index.md), [D’Angelo](../../topics/d-angelo/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Lenny Kravitz](../../topics/lenny-kravitz/index.md), [Quincy Jones](../../topics/quincy-jones/index.md), [Round and Round (song)](../../topics/song/round-and-round/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [Tevin Campbell](../../topics/tevin-campbell/index.md), [Usher](../../topics/usher/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md), [Whitney Houston](../../topics/whitney-houston/index.md)
@@ -27,8 +33,11 @@
 
 ----
 
- - [**"Susan Rogers - 2016 Red Bull Music Academy lecture"**](https://www.redbullmusicacademy.com/lectures/susan-rogers-lecture)
+## 2016 (1)
 
+### 2016 December (1)
+
+ - [**"Susan Rogers - 2016 Red Bull Music Academy lecture"**](https://www.redbullmusicacademy.com/lectures/susan-rogers-lecture)
     - in [Red Bull Music Academy](https://www.redbullmusicacademy.com/)
     - on 8 December 2016
     - about [17 Days (song)](../../topics/song/17-days/index.md), [Academy Award](../../topics/academy-award/index.md), [Anita Baker](../../topics/anita-baker/index.md), [Bernie Grundman](../../topics/bernie-grundman/index.md), [bootleg](../../topics/bootleg/index.md), [Condition of the Heart (song)](../../topics/song/condition-of-the-heart/index.md), [contract](../../topics/contract/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Grammy Award](../../topics/grammy-award/index.md), [James Brown](../../topics/james-brown/index.md), [Jesse Johnson](../../topics/jesse-johnson/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Kate Bush](../../topics/kate-bush/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Pop Life (song)](../../topics/song/pop-life/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Sly Stone](../../topics/sly-stone/index.md), [Sometimes It Snows In April (song)](../../topics/song/sometimes-it-snows-in-april/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [Tevin Campbell](../../topics/tevin-campbell/index.md), [The Ballad Of Dorothy Parker (song)](../../topics/song/the-ballad-of-dorothy-parker/index.md), [The Revolution](../../topics/the-revolution/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)

@@ -1,5 +1,9 @@
 # The New Yorker
 
+## 2022 (1)
+
+### 2022 March (1)
+
  - [**"Prince ‘Despised Alcohol,’ Says Winery In ‘Purple Rain’ Name Dispute -- The Ohio winemaker says there's no confusion because Prince — who famously didn't drink — would never have endorsed booze."**](https://www.billboard.com/pro/prince-estate-battles-winery-purple-rain/)
     - by [Bill Donahue](../../authors/bill-donahue/index.md)
     - in [Billboard](https://www.billboard.com/)
@@ -8,6 +12,10 @@
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/pro/prince-estate-battles-winery-purple-rain/))
 
 ----
+
+## 2016 (1)
+
+### 2016 April (1)
 
  - [**"24 Outrageous Prince Stories"**](https://www.vulture.com/2014/09/24-outrageous-prince-stories.html)
     - by [David Marchese](../../authors/david-marchese/index.md)
