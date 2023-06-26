@@ -3,7 +3,6 @@
 ## June 2023 (7)
 
  - [**"Lawyer to Prince: Show Me Your Symbol ... $$$"**](https://www.tmz.com/2010/08/03/prince-lawsuit-breach-of-contract-lawyer-ed-mcpherson/)
-
     - in [TMZ](https://www.tmz.com/)
     - on 23 June 2023
     - about [Ed McPherson](../../topics/ed-mcpherson/index.md), [lawsuit](../../topics/lawsuit/index.md)
@@ -24,7 +23,6 @@
     - by [Lindsay Zoladz](../../authors/lindsay-zoladz/index.md)
     - in [New York Times](https://www.nytimes.com/)
     - on 13 June 2023
-
     - ([mirror](https://web.archive.org/web/*/https://www.nytimes.com/2023/06/13/arts/music/amplifier-newsletter-joni-mitchell-jam.html))
 
 ----
@@ -57,10 +55,8 @@
 ----
 
  - [**"Welcome to Paisley Park: Prince fans love unreleased songs and concert footage -- Celebration 2023 honors the Purple One for four days this weekend."**](https://www.startribune.com/paisley-park-prince-chanhassen-revolution-john-nelson-yokohama-chaka-khan-chuck-d-stokley/600281268/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 8 June 2023
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/paisley-park-prince-chanhassen-revolution-john-nelson-yokohama-chaka-khan-chuck-d-stokley/600281268/))
 
 ----
@@ -77,7 +73,6 @@
 ----
 
  - [**"Supreme Court rules against Andy Warhol’s foundation in a case about a portrait he made of Prince"**](https://apnews.com/article/supreme-court-andy-warhol-prince-copyright-061a115f4ab137bcbe36fcc8fe0c921b)
-
     - in [Associated Press News](https://apnews.com/)
     - on 18 May 2023
     - about [Andy Warhol](../../topics/andy-warhol/index.md), [Andy Warhol Foundation](../../topics/andy-warhol-foundation/index.md), [fair use](../../topics/fair-use/index.md), [Joel Wachs](../../topics/joel-wachs/index.md), [Lynn Goldsmith](../../topics/lynn-goldsmith/index.md), [Prince Series](../../topics/prince-series/index.md), [Purple Fame](../../topics/purple-fame/index.md), [Supreme Court](../../topics/supreme-court/index.md), [Vanity Fair (magazine)](../../topics/magazine/vanity-fair/index.md)
@@ -86,7 +81,6 @@
 ----
 
  - [**"Signed in purple ink, Minnesota dedicates highway to Prince"**](https://apnews.com/article/prince-minnesota-highway-renamed-45220b9307ba1dee12512c84c71063c1)
-
     - in [Associated Press News](https://apnews.com/)
     - on 9 May 2023
     - about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [museum](../../topics/museum/index.md), [Paisley Park Studios (place)](../../topics/place/paisley-park-studios/index.md)
@@ -95,7 +89,6 @@
 ----
 
  - [**"Purple lanes: Minnesota highway signs to honor Prince"**](https://apnews.com/article/prince-highway-name-minnesota-a1ac515d07ce850f18f56e63eb8bcef1)
-
     - in [Associated Press News](https://apnews.com/)
     - on 4 May 2023
     - about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Internal Revenue Service](../../topics/internal-revenue-service/index.md), [IRS](../../topics/irs/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [museum](../../topics/museum/index.md), [Paisley Park Studios (place)](../../topics/place/paisley-park-studios/index.md), [Primary Wave](../../topics/primary-wave/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md)
