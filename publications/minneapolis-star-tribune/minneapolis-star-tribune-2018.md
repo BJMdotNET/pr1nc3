@@ -3,10 +3,8 @@
 ## December 2018 (8)
 
  - [**"After a decade of dormancy, Chaka Khan blooms again"**](https://www.startribune.com/after-a-decade-of-dormancy-chaka-khan-blooms-again/503608222/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 28 December 2018
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/after-a-decade-of-dormancy-chaka-khan-blooms-again/503608222/))
 
 ----
@@ -15,7 +13,6 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 28 December 2018
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/barack-obama-names-prince-song-among-his-musical-favorites-of-2018/503626142/))
 
 ----
@@ -24,7 +21,6 @@
     - by [Jeff Baenen (Associated Press)](../../authors/associated-press/jeff-baenen/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 22 December 2018
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/walz-win-omar-to-congress-mauer-retires-top-minnesota-news/503383762/))
 
 ----
@@ -51,16 +47,13 @@
     - by [Karen Zamora](../../authors/karen-zamora/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 14 December 2018
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/two-new-sculptures-installed-in-north-minneapolis-parks/502826701/))
 
 ----
 
  - [**"Three of Prince's '00s-era albums to be reissued by Sony in February"**](https://www.startribune.com/three-of-prince-s-00s-era-albums-to-be-reissued-by-sony-in-february/502372511/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 10 December 2018
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/three-of-prince-s-00s-era-albums-to-be-reissued-by-sony-in-february/502372511/))
 
 ----
@@ -69,7 +62,6 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 4 December 2018
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/universal-plans-authorized-fictitious-film-based-on-prince-s-songs/501912161/))
 
 ----
@@ -80,7 +72,6 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md), [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 30 November 2018
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/12-great-gifts-for-the-musichead-on-your-holiday-shopping-list/501582472/))
 
 ----
@@ -89,7 +80,6 @@
     - by [Connie Nelson](../../authors/connie-nelson/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 21 November 2018
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/acclaimed-minnesota-cartoonist-redesigns-beloved-oh-you-turkey-it-s-iconic/501016911/))
 
 ----
@@ -98,7 +88,6 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 19 November 2018
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-s-paisley-park-starts-program-with-minneapolis-public-schools/500851022/))
 
 ----
@@ -107,7 +96,6 @@
     - by [Neal Justin](../../authors/neal-justin/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 11 November 2018
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/black-ish-star-anthony-anderson-pays-tribute-to-his-friend-prince-i-was-so-lucky/500170031/))
 
 ----
@@ -116,7 +104,6 @@
     - by [Neal Justin](../../authors/neal-justin/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 11 November 2018
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/black-ish-throws-tv-s-best-ever-prince-party-in-its-100th-episode/500170101/))
 
 ----
@@ -131,16 +118,13 @@
 ----
 
  - [**"Pick Six: Praise for Eric Gales, Pistol Annies, Moe, more"**](https://www.startribune.com/pick-six-praise-for-eric-gales-pistol-annies-moe-more/499338101/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 2 November 2018
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/pick-six-praise-for-eric-gales-pistol-annies-moe-more/499338101/))
 
 ----
 
  - [**"Wolves unveil Prince tribute uniforms at Paisley Park -- The Wolves will wear the Prince uniforms eight times this year, including five times at home, and they go on sale to the public next week."**](http://video.startribune.com/wolves-unveil-prince-tribute-uniforms-at-paisley-park/499324871/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 2 November 2018
     - about [Minnesota Timberwolves](../../topics/minnesota-timberwolves/index.md), [Timberwolves](../../topics/timberwolves/index.md)
@@ -160,7 +144,6 @@
 ## October 2018 (10)
 
  - [**"'A Wrinkle in Time' director Ava DuVernay to make Prince documentary for Netflix -- The filmmaker has the support of the late Minnesota musician's estate."**](https://www.startribune.com/ava-duvernay-to-make-prince-documentary-for-netflix/499015301/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 31 October 2018
     - about [Ava DuVernay](../../topics/ava-duvernay/index.md), [Netflix](../../topics/netflix/index.md)
@@ -181,13 +164,11 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 30 October 2018
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/must-have-new-book-features-pre-purple-rain-photos-of-prince/499037341/))
 
 ----
 
  - [**"RandBall: New Wolves uniforms are tribute to Prince"**](https://www.startribune.com/randball-new-wolves-uniforms-are-tribute-to-prince/499079081/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 30 October 2018
     - about [Minnesota Timberwolves](../../topics/minnesota-timberwolves/index.md), [Timberwolves](../../topics/timberwolves/index.md)
@@ -199,7 +180,6 @@
     - by [Jeffrey Meitrodt](../../authors/jeffrey-meitrodt/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 27 October 2018
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/warner-bros-radio-representative-steve-fingerett-dies-at-67/498793531/))
 
 ----
@@ -208,22 +188,18 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 18 October 2018
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/twin-cities-keyboardist-having-a-ball-touring-with-fleetwood-mac/497968671/))
 
 ----
 
  - [**"Maceo Parker puts the funk in Funk 'n' Roll Weekend honoring Prince"**](https://www.startribune.com/maceo-parker-puts-the-funk-in-funk-n-roll-weekend-honoring-prince/497245411/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 12 October 2018
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/maceo-parker-puts-the-funk-in-funk-n-roll-weekend-honoring-prince/497245411/))
 
 ----
 
  - [**"Members of Prince's estate ask President Trump to not use his music at rallies"**](https://www.startribune.com/members-of-prince-s-estate-ask-president-trump-to-not-use-his-music-at-rallies/497193471/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 12 October 2018
     - about [Trump](../../topics/trump/index.md)
@@ -232,7 +208,6 @@
 ----
 
  - [**"Prince estate to Trump: Stop using music at rallies"**](https://www.startribune.com/prince-estate-to-trump-stop-using-music-at-rallies/497248101/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 12 October 2018
     - about [Prince Estate](../../topics/prince-estate/index.md), [Trump](../../topics/trump/index.md)
@@ -255,13 +230,11 @@
     - by [Sheila Regan](../../authors/sheila-regan/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 27 September 2018
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/new-video-series-is-a-love-letter-to-black-minneapolis/494308901/))
 
 ----
 
  - [**"Prince receives honorary degree from University of Minnesota -- Prince received an honorary degree from the University of Minnesota's school of music on Wednesday, Sept 26, 2018 at the Ted Mann Concert Hall in Minneapolis, Minn."**](https://www.startribune.com/prince-receives-honorary-degree-from-university-of-minnesota/494452521/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 26 September 2018
     - about [honorary degree](../../topics/honorary-degree/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md)
@@ -270,7 +243,6 @@
 ----
 
  - [**"Thanks to a University of Minnesota degree, his name is 'Dr. Prince' now"**](https://www.startribune.com/thanks-to-a-university-of-minnesota-degree-his-name-is-dr-prince-now/494454901/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 26 September 2018
     - about [University of Minnesota](../../topics/university-of-minnesota/index.md)
@@ -279,7 +251,6 @@
 ----
 
  - [**"University of Minnesota awards honorary degree to Prince"**](https://www.startribune.com/university-of-minnesota-awarding-honorary-degree-to-prince/494377981/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 26 September 2018
     - about [honorary degree](../../topics/honorary-degree/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md)
@@ -288,7 +259,6 @@
 ----
 
  - [**"University of Minnesota confers honorary degree to Prince"**](http://video.startribune.com/university-of-minnesota-confers-honorary-degree-to-prince/494449581/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 26 September 2018
     - about [honorary degree](../../topics/honorary-degree/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md)
@@ -306,28 +276,22 @@
 ----
 
  - [**"Top-notch brains take on 'Hamilton'"**](https://www.startribune.com/top-notch-brains-take-on-hamilton/493859651/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 20 September 2018
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/top-notch-brains-take-on-hamilton/493859651/))
 
 ----
 
  - [**"Thousands of fans request grand jury probe of Prince's death"**](https://www.startribune.com/thousands-of-fans-request-grand-jury-probe-of-prince-s-death/493702161/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 19 September 2018
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/thousands-of-fans-request-grand-jury-probe-of-prince-s-death/493702161/))
 
 ----
 
  - [**"Prince fans file petition demanding federal grand jury probe into the musician's death -- Group says drug supplier needs to be punished."**](https://www.startribune.com/prince-fans-file-petition-demanding-federal-grand-jury-probe-into-the-musician-s-death/493650821/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 18 September 2018
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-fans-file-petition-demanding-federal-grand-jury-probe-into-the-musician-s-death/493650821/))
 
 ----
@@ -336,7 +300,6 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 18 September 2018
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-fans-go-crazy-over-capitol-one-commercial-during-emmys/493585251/))
 
 ----
@@ -345,7 +308,6 @@
     - by [Jeff Baenen (Associated Press)](../../authors/associated-press/jeff-baenen/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 18 September 2018
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-s-new-basement-tape-just-him-singing-playing-piano/493611431/))
 
 ----
@@ -354,7 +316,6 @@
     - by [Kim Palmer](../../authors/kim-palmer/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 17 September 2018
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/minneapolis-activist-educator-and-designer-rosa-bogar-dies-at-77/493539581/))
 
 ----
@@ -363,16 +324,13 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 17 September 2018
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/paisley-park-to-re-open-after-dark-to-celebrate-new-prince-album-friday/493515811/))
 
 ----
 
  - [**"NPG doesn't live up to Princely standards at pay-per-view First Avenue show"**](https://www.startribune.com/npg-doesn-t-live-up-to-princely-standards-at-pay-per-view-first-avenue-show/493275871/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 14 September 2018
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/npg-doesn-t-live-up-to-princely-standards-at-pay-per-view-first-avenue-show/493275871/))
 
 ----
@@ -392,7 +350,6 @@
     - by [Steve Karnowski (Associated Press)](../../authors/associated-press/steve-karnowski/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 24 August 2018
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-s-family-sues-doctor-who-prescribed-him-pain-pills/491668831/))
 
 ----
@@ -409,7 +366,6 @@
 ## July 2018 (5)
 
  - [**"Lizzo earns a big nod as Rolling Stone's 'Artist You Need to Know'"**](https://www.startribune.com/lizzo-earns-a-big-nod-as-rolling-stone-s-artist-you-need-to-know/489627651/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 31 July 2018
     - about [Lizzo](../../topics/lizzo/index.md)
@@ -421,7 +377,6 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 31 July 2018
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/spike-lee-uses-unreleased-prince-recording-in-his-new-movie/489662811/))
 
 ----
@@ -430,7 +385,6 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 27 July 2018
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/purple-rain-singalong-video-outside-first-ave-nightclub-banned-then-reinstated-on-twitter/489369791/))
 
 ----
@@ -456,7 +410,6 @@
 ## June 2018 (1)
 
  - [**"From Prince to Ph.D., Prof. Susan Rogers knows music -- Busy with teaching, the former recording engineer has no memoir is in the works yet."**](https://www.startribune.com/from-prince-to-ph-d-professor-susan-rogers-knows-music/486626941/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 26 June 2018
     - about [memoir](../../topics/memoir/index.md), [Susan Rogers](../../topics/susan-rogers/index.md)
@@ -479,13 +432,11 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 23 April 2018
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/rediscovered-prince-photos-capture-rising-star/480030753/))
 
 ----
 
  - [**"C.J.: Music or basketball, Prince executed what was in his head, says NPG's Hayes"**](https://www.startribune.com/c-j-music-or-basketball-prince-executed-what-was-in-his-head-says-npg-s-hayes/480462451/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 21 April 2018
     - about [C.J.](../../topics/c-j/index.md)
@@ -539,25 +490,20 @@
 ----
 
  - [**"Surveillance video shows Prince the day before his death -- Prince met with Dr. Michael T. Schulenberg at his clinic after the artist reported feeling antsy and believed it might have been connected to not taking Tylenol that morning."**](http://video.startribune.com/surveillance-video-shows-prince-the-day-before-his-death/480316793/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 20 April 2018
-
     - ([mirror](https://web.archive.org/web/*/http://video.startribune.com/surveillance-video-shows-prince-the-day-before-his-death/480316793/))
 
 ----
 
  - [**"The Latest: Prince's sister troubled by death investigation"**](https://www.startribune.com/the-latest-prince-s-sister-troubled-by-death-investigation/480367773/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 20 April 2018
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/the-latest-prince-s-sister-troubled-by-death-investigation/480367773/))
 
 ----
 
  - [**"A timeline of Prince's final days"**](https://www.startribune.com/a-timeline-of-prince-s-final-days/480321973/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 19 April 2018
     - about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Carver County](../../topics/carver-county/index.md), [Dakota (place)](../../topics/place/dakota/index.md), [fentanyl](../../topics/fentanyl/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md)
@@ -566,7 +512,6 @@
 ----
 
  - [**"Celebration 2018 at Paisley Park for Prince -- Today is the first day of Celebration 2018 at Paisley Park where Prince fans from around the world gathered for tours, live music and panel discussions inside."**](https://www.startribune.com/celebration-2018-at-paisley-park-for-prince/480313663/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 19 April 2018
     - about [Celebration 2018 (event)](../../topics/event/celebration-2018/index.md)
@@ -575,7 +520,6 @@
 ----
 
  - [**"New Prince record released today: His version of 'Nothing Compares 2 U'"**](https://www.startribune.com/new-prince-record-released-today-his-version-of-nothing-compares-2-u/480265043/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 19 April 2018
     - about [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md)
@@ -593,7 +537,6 @@
 ----
 
  - [**"Prince investigation video shows scene of death -- This video was taken by Carver County investigators the morning Prince was found dead inside Paisley Park. The Star Tribune has obscured images of Prince's body."**](http://video.startribune.com/prince-investigation-video-shows-scene-of-death/480306623/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 19 April 2018
     - about [Carver County](../../topics/carver-county/index.md)
@@ -605,13 +548,11 @@
     - by [Stephen Montemayor](../../authors/stephen-montemayor/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 19 April 2018
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-was-a-high-profile-casualty-to-fentanyl-laced-pill-scourge/480297873/))
 
 ----
 
  - [**"Prince's former musician Donna Grantis plays guitar hero at the Dakota"**](https://www.startribune.com/prince-s-former-musician-donna-grantis-plays-guitar-hero-at-the-dakota/480212673/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 19 April 2018
     - about [Dakota (place)](../../topics/place/dakota/index.md), [Donna Grantis](../../topics/donna-grantis/index.md)
@@ -620,28 +561,22 @@
 ----
 
  - [**"The Latest: Doctor said Prince 'doesn't look really well'"**](https://www.startribune.com/the-latest-prince-s-doctor-fined-for-illegal-prescription/480259573/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 19 April 2018
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/the-latest-prince-s-doctor-fined-for-illegal-prescription/480259573/))
 
 ----
 
  - [**"The Latest: Prince's doctor fined for illegal prescription"**](https://www.startribune.com/the-latest-prince-s-doctor-fined-for-illegal-prescription/480259703/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 19 April 2018
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/the-latest-prince-s-doctor-fined-for-illegal-prescription/480259703/))
 
 ----
 
  - [**"The Latest: Prince's doctor fined for illegal prescription"**](https://www.startribune.com/the-latest-prince-s-doctor-fined-for-illegal-prescription/480259713/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 19 April 2018
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/the-latest-prince-s-doctor-fined-for-illegal-prescription/480259713/))
 
 ----
@@ -656,19 +591,15 @@
 ----
 
  - [**"Minnesota prosecutors plan announcement on Prince death"**](https://www.startribune.com/minnesota-prosecutors-plan-announcement-on-prince-death/480139453/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 18 April 2018
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/minnesota-prosecutors-plan-announcement-on-prince-death/480139453/))
 
 ----
 
  - [**"Prince fans hope to carry on his 'legacy of giving' via Purple Playground"**](https://www.startribune.com/prince-fans-hope-to-carry-on-his-legacy-of-giving-via-purple-playground/480147943/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 18 April 2018
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-fans-hope-to-carry-on-his-legacy-of-giving-via-purple-playground/480147943/))
 
 ----
@@ -677,7 +608,6 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 18 April 2018
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-had-his-hair-done-before-bed-and-other-alumni-stories-at-u-symposium/480170433/))
 
 ----
@@ -686,16 +616,13 @@
     - by [David Chanen](../../authors/david-chanen/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 18 April 2018
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/investigation-into-prince-s-death-wraps-up/480141583/))
 
 ----
 
  - [**"Timeline of key events in investigation into Prince's death"**](https://www.startribune.com/timeline-of-key-events-in-investigation-into-prince-s-death/480141913/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 18 April 2018
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/timeline-of-key-events-in-investigation-into-prince-s-death/480141913/))
 
 ----
@@ -713,7 +640,6 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 3 April 2018
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/academics-take-aim-at-prince-in-symposium-april-16-18-at-u-of-m/478678993/))
 
 ----
@@ -721,16 +647,13 @@
 ## March 2018 (7)
 
  - [**"Lorde salutes Prince at St. Paul show and gushes about His Royal Badness"**](https://www.startribune.com/lorde-salutes-his-royal-badness-in-st-paul-show/477811563/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 23 March 2018
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/lorde-salutes-his-royal-badness-in-st-paul-show/477811563/))
 
 ----
 
  - [**"Carver County to turn over Prince investigative files to family"**](https://www.startribune.com/officials-to-turn-over-prince-investigative-files-to-family/477563043/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 21 March 2018
     - about [Carver County](../../topics/carver-county/index.md)
@@ -739,10 +662,8 @@
 ----
 
  - [**"Klobuchar, Minnesota families speak out for $1B federal bill to help curb opioid epidemic"**](https://www.startribune.com/minnesota-families-speak-out-for-1b-federal-bill-to-help-curb-opioid-epidemic/477221753/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 18 March 2018
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/minnesota-families-speak-out-for-1b-federal-bill-to-help-curb-opioid-epidemic/477221753/))
 
 ----
@@ -769,13 +690,11 @@
     - by [David Chanen](../../authors/david-chanen/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 2 March 2018
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-heirs-claim-excessive-lawyer-s-fees-will-leave-nothing-for-inheritance/475689933/))
 
 ----
 
  - [**"Recording of jazz compositions by Prince's father released"**](https://www.startribune.com/recording-of-jazz-compositions-by-prince-s-father-released/475668083/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 2 March 2018
     - about [Don't Play With Love (album)](../../topics/album/don-t-play-with-love/index.md), [Don't Play With Love (song)](../../topics/song/don-t-play-with-love/index.md), [Jeremy Pelt](../../topics/jeremy-pelt/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [John L. Nelson Project](../../topics/john-l-nelson-project/index.md), [John Nelson](../../topics/john-nelson/index.md), [Louis Hayes](../../topics/louis-hayes/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Sharon L. Nelson](../../topics/sharon-l-nelson/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Vincent Herring](../../topics/vincent-herring/index.md)
@@ -786,7 +705,6 @@
 ## February 2018 (2)
 
  - [**"Minnesota Twins will funk it up with Prince branding deal, second night honoring the artist"**](https://www.startribune.com/minnesota-twins-bring-back-popular-prince-night-for-a-second-year/475168823/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 27 February 2018
     - about [Minnesota Twins](../../topics/minnesota-twins/index.md)

@@ -3,7 +3,6 @@
 ## October 2019 (1)
 
  - [**"Morris Day On His Life With Prince: From ‘Purple Rain’ To A Godly Ultimatum"**](https://www.forbes.com/sites/derekscancarelli/2019/10/29/morris-day-on-his-life-with-prince-from-purple-rain-to-a-godly-ultimatum/)
-
     - in [Forbes](https://www.forbes.com/)
     - on 29 October 2019
     - about [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [Prince Estate](../../topics/prince-estate/index.md), [royalties](../../topics/royalties/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md)

@@ -3,7 +3,6 @@
 ## December 2017 (6)
 
  - [**"Minnesota music scene’s best moments and 10 best albums in 2017"**](https://apnews.com/article/music-archive-minnesota-9d3750a2a4344a248e305eb73abfed69)
-
     - in [Associated Press News](https://apnews.com/)
     - on 28 December 2017
     - about [First Avenue (place)](../../topics/place/first-avenue/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md)
@@ -12,7 +11,6 @@
 ----
 
  - [**"Minneapolis will be alive with activity during the Super Bowl"**](https://apnews.com/article/archive-minneapolis-06bbdc75a3da466cbe90d890fe362c72)
-
     - in [Associated Press News](https://apnews.com/)
     - on 24 December 2017
     - about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [motorcycle](../../topics/motorcycle/index.md), [museum](../../topics/museum/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md)
@@ -21,7 +19,6 @@
 ----
 
  - [**"Franken, Keillor, Damond, Castile top Minnesota news in 2017"**](https://apnews.com/80ae6c0e800c49ba95447bb986d2dd78)
-
     - in [Associated Press News](https://apnews.com/)
     - on 22 December 2017
     - about [contract](../../topics/contract/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Obama](../../topics/obama/index.md), [Trump](../../topics/trump/index.md)
@@ -30,7 +27,6 @@
 ----
 
  - [**"Singer Gwen Stefani to wrap up Super Bowl week performances"**](https://apnews.com/80ec55b99dd74c77b9d3fbcd79adf7c1)
-
     - in [Associated Press News](https://apnews.com/)
     - on 12 December 2017
     - about [Gwen Stefani](../../topics/gwen-stefani/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Super Bowl](../../topics/super-bowl/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md)
@@ -39,7 +35,6 @@
 ----
 
  - [**"Ellie Goulding, DJ Kygo to perform during Super Bowl week"**](https://apnews.com/283071a69cd5493380935bf78796d91c)
-
     - in [Associated Press News](https://apnews.com/)
     - on 6 December 2017
     - about [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Super Bowl](../../topics/super-bowl/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md)
@@ -48,7 +43,6 @@
 ----
 
  - [**"Super Bowl Live concert series will include Prince tribute"**](https://apnews.com/30711cb14b744f1aa016784116c806cc)
-
     - in [Associated Press News](https://apnews.com/)
     - on 1 December 2017
     - about [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md)
@@ -59,7 +53,6 @@
 ## November 2017 (6)
 
  - [**"Alcohol permit sought for events at Prince’s Paisley Park"**](https://apnews.com/cd4a980b1fcb4c82aeb268b53dba06dc)
-
     - in [Associated Press News](https://apnews.com/)
     - on 29 November 2017
     - about [museum](../../topics/museum/index.md), [Super Bowl](../../topics/super-bowl/index.md)
@@ -68,7 +61,6 @@
 ----
 
  - [**"Minnesota Supreme Court rejects two Prince heirs"**](https://apnews.com/0ff4834801f741d5a5119c38e2286c02)
-
     - in [Associated Press News](https://apnews.com/)
     - on 29 November 2017
     - about [Alfred Jackson](../../topics/alfred-jackson/index.md), [fentanyl](../../topics/fentanyl/index.md), [John Nelson](../../topics/john-nelson/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)
@@ -77,7 +69,6 @@
 ----
 
  - [**"AM Prep-Kickers -- PRINCE GUITAR"**](https://apnews.com/8045c44b70334e33bdcda7511ed769ae)
-
     - in [Associated Press News](https://apnews.com/)
     - on 7 November 2017
     - about [auction](../../topics/auction/index.md)
@@ -86,7 +77,6 @@
 ----
 
  - [**"Prince guitar auctioned for $700,000"**](https://apnews.com/3305278f51e8419a9c56fe24013761db)
-
     - in [Associated Press News](https://apnews.com/)
     - on 6 November 2017
     - about [auction](../../topics/auction/index.md), [Cloud guitar (instrument)](../../topics/instrument/cloud-guitar/index.md)
@@ -95,7 +85,6 @@
 ----
 
  - [**"Prince’s teal blue Cloud guitar auctioned for $700K"**](https://apnews.com/7b24e181a75149e88cad384d6d289b74)
-
     - in [Associated Press News](https://apnews.com/)
     - on 6 November 2017
     - about [auction](../../topics/auction/index.md), [Cloud guitar (instrument)](../../topics/instrument/cloud-guitar/index.md)
@@ -115,7 +104,6 @@
 ## October 2017 (7)
 
  - [**"AM Prep-Segue -- PRINCE HEIRS COMPLAIN ABOUT EXECUTOR"**](https://apnews.com/1a747d45ed414fbe9752c5b2c7e2063f)
-
     - in [Associated Press News](https://apnews.com/)
     - on 31 October 2017
     - about [Comerica](../../topics/comerica/index.md), [Comerica Bank & Trust](../../topics/comerica-bank-trust/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [vault](../../topics/vault/index.md)
@@ -124,7 +112,6 @@
 ----
 
  - [**"3 Prince heirs ask judge to remove estate administrator"**](https://apnews.com/0ab4827f56ec45b6be9ace1fbceadd95)
-
     - in [Associated Press News](https://apnews.com/)
     - on 30 October 2017
     - about [Comerica](../../topics/comerica/index.md), [Comerica Bank & Trust](../../topics/comerica-bank-trust/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md)
@@ -133,7 +120,6 @@
 ----
 
  - [**"AM Prep-Music -- PRINCE’S PERSONAL ITEMS GO ON DISPLAY IN LONDON"**](https://apnews.com/28703b322bd34762b8d47ec043e9c98a)
-
     - in [Associated Press News](https://apnews.com/)
     - on 27 October 2017
     - about [London (place)](../../topics/place/london/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)
@@ -142,7 +128,6 @@
 ----
 
  - [**"PM Prep-Segue -- PRINCE - LONDON EXHIBIT"**](https://apnews.com/14ea8830aab74985b945aa5fe84d601b)
-
     - in [Associated Press News](https://apnews.com/)
     - on 26 October 2017
     - about [exhibition](../../topics/exhibition/index.md), [London (place)](../../topics/place/london/index.md)
@@ -151,7 +136,6 @@
 ----
 
  - [**"Prince exhibition in London dubbed ‘miniature Paisley Park’"**](https://apnews.com/addbfdacbdd04a7288d8aab8806575e2)
-
     - in [Associated Press News](https://apnews.com/)
     - on 26 October 2017
     - about [exhibition](../../topics/exhibition/index.md), [museum](../../topics/museum/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)
@@ -160,7 +144,6 @@
 ----
 
  - [**"Michael Jackson’s glove, Nirvana’s MTV moon man up for bid"**](https://apnews.com/2ce5075522554dca83f0b6b384c122eb)
-
     - in [Associated Press News](https://apnews.com/)
     - on 13 October 2017
     - about [auction](../../topics/auction/index.md), [Michael Jackson](../../topics/michael-jackson/index.md)
@@ -180,7 +163,6 @@
 ## September 2017 (1)
 
  - [**"Prince’s other sister: Purple was his color, not orange"**](https://apnews.com/4d22688b86214d839d01281d61cf3775)
-
     - in [Associated Press News](https://apnews.com/)
     - on 1 September 2017
     - about [Alfred Jackson](../../topics/alfred-jackson/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [London (place)](../../topics/place/london/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [orange](../../topics/orange/index.md), [Pantone Color Institute](../../topics/pantone-color-institute/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md)
@@ -191,7 +173,6 @@
 ## August 2017 (2)
 
  - [**"Showtime to air rare Prince music film, ‘Sign O’ the Times’"**](https://apnews.com/b4bf1e11d2ea4d0d81d744c92dffaaee)
-
     - in [Associated Press News](https://apnews.com/)
     - on 23 August 2017
     - about [The Revolution](../../topics/the-revolution/index.md)
@@ -200,7 +181,6 @@
 ----
 
  - [**"Prince’s band, The Revolution, pays tribute to him at Mohegan Sun’s Wolf Den"**](https://apnews.com/adb446ee03a044f8a94e407e19646fdd)
-
     - in [Associated Press News](https://apnews.com/)
     - on 5 August 2017
     - about [1999 (album)](../../topics/album/1999/index.md), [Bobby Z.](../../topics/bobby-z/index.md), [BrownMark](../../topics/brownmark/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Parade (album)](../../topics/album/parade/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [The Revolution](../../topics/the-revolution/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
@@ -211,7 +191,6 @@
 ## July 2017 (1)
 
  - [**"AM Prep-Music -- PRINCE - ESTATE"**](https://apnews.com/6ec81cc98f52428685fae3cfe951c6c0)
-
     - in [Associated Press News](https://apnews.com/)
     - on 14 July 2017
     - about [Carver County](../../topics/carver-county/index.md), [contract](../../topics/contract/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Universal Music Group](../../topics/universal-music-group/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md)
@@ -231,7 +210,6 @@
 ----
 
  - [**"China bans more synthetic opioids blamed for US drug deaths"**](https://apnews.com/421285a512ab4793ad1428f586e7e05a)
-
     - in [Associated Press News](https://apnews.com/)
     - on 19 June 2017
     - about [fentanyl](../../topics/fentanyl/index.md), [opioid](../../topics/opioid/index.md), [U-47700](../../topics/u-47700/index.md)
@@ -242,7 +220,6 @@
 ## May 2017 (2)
 
  - [**"Judge: Sound engineer can’t publish unreleased Prince tracks"**](https://apnews.com/28f8d4317b3b43219621f58a3252addb)
-
     - in [Associated Press News](https://apnews.com/)
     - on 23 May 2017
     - about [Deliverance (EP)](../../topics/ep/deliverance/index.md), [Deliverance (song)](../../topics/song/deliverance/index.md), [George Ian Boxill](../../topics/george-ian-boxill/index.md), [lawsuit](../../topics/lawsuit/index.md), [opioid](../../topics/opioid/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [trademark](../../topics/trademark/index.md)
@@ -251,7 +228,6 @@
 ----
 
  - [**"Judge confirms Prince’s 6 siblings as heirs to his estate"**](https://apnews.com/19eec2a40a864efcb3eae84206dfd5c9)
-
     - in [Associated Press News](https://apnews.com/)
     - on 19 May 2017
     - about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [museum](../../topics/museum/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [opioid](../../topics/opioid/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)
@@ -262,7 +238,6 @@
 ## April 2017 (22)
 
  - [**"‘Purple Rain’ re-issue to feature unreleased Prince songs"**](https://apnews.com/495f034e59ad4375a854c5476852d886)
-
     - in [Associated Press News](https://apnews.com/)
     - on 28 April 2017
     - about [NPG Records](../../topics/npg-records/index.md), [The Revolution](../../topics/the-revolution/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md)
@@ -271,7 +246,6 @@
 ----
 
  - [**"Prince’s ex-wife Mayte Garcia pays tribute to late star"**](https://apnews.com/f7d92f7f16cd4330912e7a1674f4c8e7)
-
     - in [Associated Press News](https://apnews.com/)
     - on 22 April 2017
     - about [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [perfume](../../topics/perfume/index.md)
@@ -280,7 +254,6 @@
 ----
 
  - [**"The Latest: Prince fans join ‘purple family’ at Paisley Park"**](https://apnews.com/26c3f25587514065a9f72fbfd1d96bab)
-
     - in [Associated Press News](https://apnews.com/)
     - on 21 April 2017
     - about [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [museum](../../topics/museum/index.md)
@@ -289,7 +262,6 @@
 ----
 
  - [**"With tears, tattoos, Prince fans remember him a year later"**](https://apnews.com/839811ae130242a3ade37017c6115208)
-
     - in [Associated Press News](https://apnews.com/)
     - on 21 April 2017
     - about [First Avenue (place)](../../topics/place/first-avenue/index.md), [Minnesota History Center](../../topics/minnesota-history-center/index.md), [museum](../../topics/museum/index.md)
@@ -298,7 +270,6 @@
 ----
 
  - [**"1 year after Prince’s death, another turn for The Revolution"**](https://apnews.com/98e9d09300534ac8a7ae5b7b82e9567f)
-
     - in [Associated Press News](https://apnews.com/)
     - on 20 April 2017
     - about [Bobby Z.](../../topics/bobby-z/index.md), [BrownMark](../../topics/brownmark/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Matt Fink](../../topics/matt-fink/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
@@ -307,7 +278,6 @@
 ----
 
  - [**"Judge blocks sound engineer’s release of Prince EP"**](https://apnews.com/194582ccc441427d9c3b8b644ac5dcc0)
-
     - in [Associated Press News](https://apnews.com/)
     - on 20 April 2017
     - about [Deliverance (EP)](../../topics/ep/deliverance/index.md), [Deliverance (song)](../../topics/song/deliverance/index.md), [George Ian Boxill](../../topics/george-ian-boxill/index.md), [lawsuit](../../topics/lawsuit/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md)
@@ -316,7 +286,6 @@
 ----
 
  - [**"Prince home state marks death anniversary with celebrations"**](https://apnews.com/683330f22682410896e82d5734a2a060)
-
     - in [Associated Press News](https://apnews.com/)
     - on 20 April 2017
     - about [Andre Cymone](../../topics/andre-cymone/index.md), [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Minnesota History Center](../../topics/minnesota-history-center/index.md), [Morris Day](../../topics/morris-day/index.md), [museum](../../topics/museum/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [The Revolution](../../topics/the-revolution/index.md)
@@ -325,7 +294,6 @@
 ----
 
  - [**"Prince’s 1980s band hits the road for memorial tour"**](https://apnews.com/696a75af9362451891d58cef723d4114)
-
     - in [Associated Press News](https://apnews.com/)
     - on 20 April 2017
     - about [Bobby Z.](../../topics/bobby-z/index.md), [BrownMark](../../topics/brownmark/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Matt Fink](../../topics/matt-fink/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
@@ -334,7 +302,6 @@
 ----
 
  - [**"Mayte Garcia on the Prince you didn’t know"**](https://apnews.com/a4115faebefc463a8aad4433e14f5d2b)
-
     - in [Associated Press News](https://apnews.com/)
     - on 19 April 2017
     - about [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [The Most Beautiful (book)](../../topics/book/the-most-beautiful/index.md)
@@ -343,7 +310,6 @@
 ----
 
  - [**"Affidavit: Doc prescribed Prince opioids under friend’s name"**](https://apnews.com/af6ad628c59f4c7fb7351908c72f4c23)
-
     - in [Associated Press News](https://apnews.com/)
     - on 18 April 2017
     - about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [opioid](../../topics/opioid/index.md), [oxycodone](../../topics/oxycodone/index.md)
@@ -352,7 +318,6 @@
 ----
 
  - [**"Documents highlight Prince’s struggle with opioid addiction"**](https://apnews.com/6309636fb0d84b968b1bfe720c289961)
-
     - in [Associated Press News](https://apnews.com/)
     - on 18 April 2017
     - about [fentanyl](../../topics/fentanyl/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [opioid](../../topics/opioid/index.md), [oxycodone](../../topics/oxycodone/index.md)
@@ -370,7 +335,6 @@
 ----
 
  - [**"The Latest: Doctor disputes prescribing opioids for Prince"**](https://apnews.com/d72d2ba9032e45debb8ac8700dc24e84)
-
     - in [Associated Press News](https://apnews.com/)
     - on 17 April 2017
     - about [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [opioid](../../topics/opioid/index.md)
@@ -379,7 +343,6 @@
 ----
 
  - [**"Deals ensure cash keeps flowing to unsettled Prince estate"**](https://apnews.com/ea32a54490474eccad7364653ab698f8)
-
     - in [Associated Press News](https://apnews.com/)
     - on 16 April 2017
     - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Alfred Jackson](../../topics/alfred-jackson/index.md), [Celebration 2017 (event)](../../topics/event/celebration-2017/index.md), [Comerica](../../topics/comerica/index.md), [Comerica Bank & Trust](../../topics/comerica-bank-trust/index.md), [Graceland](../../topics/graceland/index.md), [Joel Weinshanker](../../topics/joel-weinshanker/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [lawsuit](../../topics/lawsuit/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Morris Day](../../topics/morris-day/index.md), [museum](../../topics/museum/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Shelby J.](../../topics/shelby-j/index.md), [Spotify](../../topics/spotify/index.md), [The Time](../../topics/the-time/index.md), [Tidal](../../topics/tidal/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Universal Music Group](../../topics/universal-music-group/index.md), [Van Jones](../../topics/van-jones/index.md)
@@ -388,7 +351,6 @@
 ----
 
  - [**"A Minneapolis-area Prince pilgrimage a year after his death"**](https://apnews.com/c26c137efcb447af86f26bb41e8ac97f)
-
     - in [Associated Press News](https://apnews.com/)
     - on 15 April 2017
     - about [Electric Fetus (place)](../../topics/place/electric-fetus/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Minnesota History Center](../../topics/minnesota-history-center/index.md), [museum](../../topics/museum/index.md), [Sam’s (place)](../../topics/place/sam-s/index.md), [Schmitt Music Company](../../topics/schmitt-music-company/index.md)
@@ -406,7 +368,6 @@
 ----
 
  - [**"Comedian Charlie Murphy, brother of Eddie, dies at 57"**](https://apnews.com/15803935af9247c192707d1b81400809)
-
     - in [Associated Press News](https://apnews.com/)
     - on 12 April 2017
     - about [Charlie Murphy](../../topics/charlie-murphy/index.md), [Dave Chappelle](../../topics/dave-chappelle/index.md)
@@ -424,7 +385,6 @@
 ----
 
  - [**"AM Prep-Segue -- MAYTE GARCIA, PRINCE’S EX, WRITES BOOK"**](https://apnews.com/94705887ea764bd1b5d2381eb0622bb9)
-
     - in [Associated Press News](https://apnews.com/)
     - on 11 April 2017
     - about [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [The Most Beautiful (book)](../../topics/book/the-most-beautiful/index.md)
@@ -433,7 +393,6 @@
 ----
 
  - [**"Judge rejects claims by Prince divorce lawyer for $600,000"**](https://apnews.com/061fb04e9fcf448782e9b921b971eac9)
-
     - in [Associated Press News](https://apnews.com/)
     - on 11 April 2017
     - about [Carver County](../../topics/carver-county/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Patrick Cousins](../../topics/patrick-cousins/index.md)
@@ -442,7 +401,6 @@
 ----
 
  - [**"Mayte Garcia reflects on life with Prince"**](https://apnews.com/5a81cc1b557141e4b9cbdd3bbbf4a40d)
-
     - in [Associated Press News](https://apnews.com/)
     - on 10 April 2017
     - about [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md)
@@ -462,7 +420,6 @@
 ## March 2017 (2)
 
  - [**"AM Prep-Music -- PRINCE’S EX OPENS UP ABOUT THE DEATH OF THEIR SON"**](https://apnews.com/00a854bad6dc4bea836dcf16182e0978)
-
     - in [Associated Press News](https://apnews.com/)
     - on 16 March 2017
     - about [Mayte](../../topics/mayte/index.md), [Pfeiffer syndrome type 2](../../topics/pfeiffer-syndrome-type-2/index.md), [The Most Beautiful (book)](../../topics/book/the-most-beautiful/index.md)
@@ -482,7 +439,6 @@
 ## February 2017 (2)
 
  - [**"Prince’s estate to release ‘unreleased gems’ from back catalogue"**](https://apnews.com/e2aa16268e7b4d5e84f5158e895ea006)
-
     - in [Associated Press News](https://apnews.com/)
     - on 13 February 2017
     - about [Apple Music](../../topics/apple-music/index.md), [fentanyl](../../topics/fentanyl/index.md), [Grammy Award](../../topics/grammy-award/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Tidal](../../topics/tidal/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md)
@@ -491,7 +447,6 @@
 ----
 
  - [**"Prince’s Warner Bros. catalog goes to all streaming services"**](https://apnews.com/e19c5f6e61c54fdfbb1eb1b2ab18cd16)
-
     - in [Associated Press News](https://apnews.com/)
     - on 12 February 2017
     - about [Warner Bros. Records](../../topics/warner-bros-records/index.md)
@@ -511,7 +466,6 @@
 ----
 
  - [**"Divorce file: Prince, 2nd wife lived luxurious lifestyle"**](https://apnews.com/d52610515904420ca116e820411aa344)
-
     - in [Associated Press News](https://apnews.com/)
     - on 13 January 2017
     - about [Manuela Testolini](../../topics/manuela-testolini/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Toronto (place)](../../topics/place/toronto/index.md)
@@ -520,7 +474,6 @@
 ----
 
  - [**"Judge: Appeals holding up Prince estate determination"**](https://apnews.com/c26a8f91fcbc4e25b4138a17edc9c56e)
-
     - in [Associated Press News](https://apnews.com/)
     - on 12 January 2017
     - about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [Comerica](../../topics/comerica/index.md), [contract](../../topics/contract/index.md), [John Nelson](../../topics/john-nelson/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Van Jones](../../topics/van-jones/index.md)
@@ -529,7 +482,6 @@
 ----
 
  - [**"Azoff’s company signs Prince estate for performing rights"**](https://apnews.com/ff0777c8261d47d4842d12a9329141e8)
-
     - in [Associated Press News](https://apnews.com/)
     - on 11 January 2017
     - about [ASCAP](../../topics/ascap/index.md), [Global Music Rights](../../topics/global-music-rights/index.md), [Irving Azoff](../../topics/irving-azoff/index.md), [performing rights](../../topics/performing-rights/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Randy Grimmett](../../topics/randy-grimmett/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
@@ -538,7 +490,6 @@
 ----
 
  - [**"Prince estate signs merchandising deal with UMG’s Bravado"**](https://apnews.com/b45977db69d142faa7174d2c45ef9498)
-
     - in [Associated Press News](https://apnews.com/)
     - on 10 January 2017
     - about [Bravado](../../topics/bravado/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Universal Music Group](../../topics/universal-music-group/index.md)
@@ -547,7 +498,6 @@
 ----
 
  - [**"Inventory of Prince’s estate lists cash, property, gold bars"**](https://apnews.com/5ac8a5faa09440a4a8cc2cb43db35ee8)
-
     - in [Associated Press News](https://apnews.com/)
     - on 7 January 2017
     - about [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [LotusFlow3r (album)](../../topics/album/lotusflow3r/index.md), [NPG Records](../../topics/npg-records/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [probate court](../../topics/probate-court/index.md), [trademark](../../topics/trademark/index.md)

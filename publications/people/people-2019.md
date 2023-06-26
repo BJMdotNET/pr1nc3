@@ -3,7 +3,6 @@
 ## October 2019 (2)
 
  - [**"Prince Remembers His Parents’ ‘Soul-Crushing’ Fights in Posthumous Memoir The Beautiful Ones -- In his posthumous memoir, the music legend recalls his complicated relationship with his parents"**](https://people.com/music/prince-recalls-parents-fights-in-posthumous-memoir-the-beautiful-ones/)
-
     - in [People](https://people.com/)
     - on 29 October 2019
     - about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [John Nelson](../../topics/john-nelson/index.md), [memoir](../../topics/memoir/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
@@ -12,7 +11,6 @@
 ----
 
  - [**"Tamron Hall Opens Up About Selfie That Became Cover Art for Prince's 'If Eye Could Get Ur Attention' -- The talk show host also revealed an email that Prince sent her about the outfit"**](https://people.com/tv/tamron-hall-selfie-cover-art-prince-if-eye-could-get-ur-attention/)
-
     - in [People](https://people.com/)
     - on 29 October 2019
     - about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [Tamron Hall](../../topics/tamron-hall/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
@@ -23,7 +21,6 @@
 ## September 2019 (1)
 
  - [**"Prince's 1999 Getting November Reissue with 35 Unreleased Tracks -- The five-CD set will also feature remastered versions of the original album tracks, along with single edits, remixes, and B-sides"**](https://people.com/music/prince-1999-reissue-35-unreleased-tracks/)
-
     - in [People](https://people.com/)
     - on 11 September 2019
     - about [1999 (album)](../../topics/album/1999/index.md), [1999 (song)](../../topics/song/1999/index.md), [vault](../../topics/vault/index.md)

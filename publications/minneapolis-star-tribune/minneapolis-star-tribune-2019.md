@@ -12,7 +12,6 @@
 ----
 
  - [**"Paisley Park to host film series featuring Aretha, 'Wattstax' and 'Dave Chappelle's Block Party'"**](https://www.startribune.com/paisley-park-to-host-film-series-featuring-aretha-wattstax-and-dave-chappelle-s-block-party/566561102/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 30 December 2019
     - about [Alan Seiffert](../../topics/alan-seiffert/index.md), [Amazing Grace (movie)](../../topics/movie/amazing-grace/index.md), [Andre Cymone](../../topics/andre-cymone/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Dave Chappelle](../../topics/dave-chappelle/index.md), [Dave Chappelle’s Block Party (movie)](../../topics/movie/dave-chappelle-s-block-party/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [Judith Hill](../../topics/judith-hill/index.md), [museum](../../topics/museum/index.md), [Paisley Park Cinema: Music on the Big Screen (event)](../../topics/event/paisley-park-cinema-music-on-the-big-screen/index.md), [The Roots](../../topics/the-roots/index.md)
@@ -21,7 +20,6 @@
 ----
 
  - [**"In a Twin Cities living room, the Steeles cook up their 35th annual Christmas show -- The Steeles' annual Christmas show is a family affair, brewed up in a Golden Valley living room."**](https://www.startribune.com/in-a-twin-cities-living-room-the-steeles-cook-up-their-35th-annual-christmas-show/566344542/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 19 December 2019
     - about [Alexander O’Neal](../../topics/alexander-o-neal/index.md), [contract](../../topics/contract/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [Kenni Holmen](../../topics/kenni-holmen/index.md), [Sonny Thompson](../../topics/sonny-thompson/index.md), [Tommy Barbarella](../../topics/tommy-barbarella/index.md)
@@ -30,7 +28,6 @@
 ----
 
  - [**"Art at the airport: 10 great spots to catch a flight of fancy"**](https://www.startribune.com/art-at-the-airport-10-great-spots-to-catch-a-flight-of-fancy/566170451/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 17 December 2019
     - about [airport](../../topics/airport/index.md)
@@ -39,7 +36,6 @@
 ----
 
  - [**"20 gift ideas for the music lovers on your holiday list -- Twenty ideas for the music lovers on your holiday list."**](https://www.startribune.com/20-gift-ideas-for-the-music-lovers-on-your-holiday-list/566181501/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 16 December 2019
     - about [1999 Super Deluxe (album)](../../topics/album/1999-super-deluxe/index.md), [Bob Dylan](../../topics/bob-dylan/index.md), [bootleg](../../topics/bootleg/index.md), [Lizzo](../../topics/lizzo/index.md), [memoir](../../topics/memoir/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Morris Day](../../topics/morris-day/index.md), [My Name Is Prince: 25 Inspired Years (book)](../../topics/book/my-name-is-prince-25-inspired-years/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)
@@ -48,7 +44,6 @@
 ----
 
  - [**"Celebration 2020 at Paisley Park will coincide with Prince's birth, not death"**](https://www.startribune.com/celebration-2020-at-paisley-park-will-coincide-with-prince-s-birth-not-death/566249302/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 16 December 2019
     - about [1999 Super Deluxe (album)](../../topics/album/1999-super-deluxe/index.md), [Alan Seiffert](../../topics/alan-seiffert/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [Celebration 2020 (event)](../../topics/event/celebration-2020/index.md), [contract](../../topics/contract/index.md), [Donna Grantis](../../topics/donna-grantis/index.md), [George Clinton](../../topics/george-clinton/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [museum](../../topics/museum/index.md), [Nooky Jones](../../topics/nooky-jones/index.md), [Sometimes It Snows In April (song)](../../topics/song/sometimes-it-snows-in-april/index.md), [Super Bowl](../../topics/super-bowl/index.md), [The Revolution](../../topics/the-revolution/index.md)
@@ -57,7 +52,6 @@
 ----
 
  - [**"6 cool things in music include Beyoncé's Elle interview, J.S. Ondara, David Byrne & Nachito Herrera"**](https://www.startribune.com/6-cool-things-in-music-include-beyonce-s-elle-interview-j-s-ondara-david-byrne-amp-nachito-herrera/566170311/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 13 December 2019
     - about [Dakota (place)](../../topics/place/dakota/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Jon Bream](../../topics/jon-bream/index.md), [St. Louis Park (place)](../../topics/place/st-louis-park/index.md)
@@ -66,7 +60,6 @@
 ----
 
  - [**"Not just arabesques: Misty Copeland imparts her life lessons"**](https://www.startribune.com/not-just-arabesques-misty-copeland-imparts-her-life-lessons/565682042/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 2 December 2019
     - about [Misty Copeland](../../topics/misty-copeland/index.md)
@@ -77,7 +70,6 @@
 ## November 2019 (12)
 
  - [**"12 must-hear tunes unearthed from Prince's vault for '1999' reissue"**](https://www.startribune.com/12-must-hear-tunes-unearthed-from-prince-s-vault-for-1999-reissue/565432942/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 25 November 2019
     - about [1999 (album)](../../topics/album/1999/index.md), [94 East](../../topics/94-east/index.md), [Can’t Stop This Feeling I Got (song)](../../topics/song/can-t-stop-this-feeling-i-got/index.md), [Colleen (song)](../../topics/song/colleen/index.md), [Do Yourself a Favor (song)](../../topics/song/do-yourself-a-favor/index.md), [If It’ll Make U Happy (song)](../../topics/song/if-it-ll-make-u-happy/index.md), [Jesse Johnson](../../topics/jesse-johnson/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Morris Day](../../topics/morris-day/index.md), [No Call U (song)](../../topics/song/no-call-u/index.md), [Peggy McCreary](../../topics/peggy-mccreary/index.md), [Pepe Willie](../../topics/pepe-willie/index.md), [Purple Music (song)](../../topics/song/purple-music/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [Vagina (song)](../../topics/song/vagina/index.md), [Vanity](../../topics/vanity/index.md), [vault](../../topics/vault/index.md), [Yah, You Know (song)](../../topics/song/yah-you-know/index.md), [You’re All I Want (song)](../../topics/song/you-re-all-i-want/index.md)
@@ -86,7 +78,6 @@
 ----
 
  - [**"How '1999' made Prince a star: 'This album was the turning point' -- An expanded reissue of Prince's breakthrough album shows how prolific he was in the early '80s."**](https://www.startribune.com/how-1999-made-prince-a-star-this-album-was-the-turning-point/565432932/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 25 November 2019
     - about [1999 (album)](../../topics/album/1999/index.md), [Bangles](../../topics/bangles/index.md), [Bobby Z.](../../topics/bobby-z/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [James Brown](../../topics/james-brown/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Kiowa Trail](../../topics/kiowa-trail/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [memoir](../../topics/memoir/index.md), [Sly Stone](../../topics/sly-stone/index.md), [The Revolution](../../topics/the-revolution/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md)
@@ -95,7 +86,6 @@
 ----
 
  - [**"Don't overlook splashy coffee table books as holiday gifts"**](https://www.startribune.com/don-t-overlook-splashy-coffee-table-books-as-holiday-gifts/565099382/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 19 November 2019
     - about [Andy Warhol](../../topics/andy-warhol/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [exhibit](../../topics/exhibit/index.md), [exhibition](../../topics/exhibition/index.md), [Hachette Books](../../topics/hachette-books/index.md), [museum](../../topics/museum/index.md), [Penguin Random House](../../topics/penguin-random-house/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md), [trademark](../../topics/trademark/index.md)
@@ -104,7 +94,6 @@
 ----
 
  - [**"Garrison Keillor rips Bob Dylan in his latest book"**](https://www.startribune.com/garrison-keillor-rips-bob-dylan-in-his-latest-book/565146932/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 19 November 2019
     - about [Bob Dylan](../../topics/bob-dylan/index.md), [Garrison Keillor](../../topics/garrison-keillor/index.md)
@@ -113,7 +102,6 @@
 ----
 
  - [**"6 cool things in music include Prince, CMA Awards, Apollo Theater doc, Tyler Childers"**](https://www.startribune.com/6-cool-things-in-music-include-prince-cma-awards-apollo-theater-doc-tyler-childers/564975732/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 15 November 2019
     - about [First Avenue (place)](../../topics/place/first-avenue/index.md), [Jon Bream](../../topics/jon-bream/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)
@@ -122,7 +110,6 @@
 ----
 
  - [**"Two plays opening this week add to the legend of Minnesota's own, Judy Garland -- Judy Garland is everywhere, including four versions of her at St. Paul's History Theatre."**](https://www.startribune.com/two-plays-opening-this-week-add-to-the-legend-of-minnesota-s-own-judy-garland/564933682/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 14 November 2019
     - about [Grammy Award](../../topics/grammy-award/index.md)
@@ -131,7 +118,6 @@
 ----
 
  - [**"Long overdue: When will Kevin Garnett's No. 21 be retired by Wolves? -- The more time that passes without Garnett's jersey being retired, the stranger it seems. "It’s time for everyone to put grudges and grievances aside and do the right thing," RandBall writes."**](https://www.startribune.com/long-overdue-when-will-kevin-garnetts-no-21-be-retired-by-wolves/564861432/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 13 November 2019
     - about [Timberwolves](../../topics/timberwolves/index.md)
@@ -140,7 +126,6 @@
 ----
 
  - [**"Beck surprises fans with 'Paisley Park Sessions' EP recorded in Chanhassen"**](https://www.startribune.com/beck-surprises-fans-with-paisley-park-sessions-ep-recorded-in-chanhassen/564759282/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 11 November 2019
     - about [Raspberry Beret (song)](../../topics/song/raspberry-beret/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
@@ -149,7 +134,6 @@
 ----
 
  - [**"Trisha Yearwood salutes Prince, St. Cloud in overdue Minneapolis concert"**](https://www.startribune.com/trisha-yearwood-salutes-prince-st-cloud-in-overdue-minneapolis-concert/564728422/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 10 November 2019
     - about [Purple Rain (song)](../../topics/song/purple-rain/index.md)
@@ -158,7 +142,6 @@
 ----
 
  - [**"They're one of Minnesota's most-streamed music acts – and you probably haven't heard of them -- Straight out of New Prague, piano duo the O'Neill Brothers have rolled with the times to become unlikely stars of digital streaming."**](https://www.startribune.com/they-re-one-of-minnesota-s-most-streamed-music-acts-and-you-probably-haven-t-heard-of-them/564655012/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 9 November 2019
     - about [Apple Music](../../topics/apple-music/index.md), [Spotify](../../topics/spotify/index.md)
@@ -167,7 +150,6 @@
 ----
 
  - [**"3 secrets to the O'Neill Brothers' streaming success -- How the piano-playing siblings have racked up big numbers via Spotify and other digital music sites."**](https://www.startribune.com/tips-for-success-on-streaming-media/564657862/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 8 November 2019
     - about [Spotify](../../topics/spotify/index.md)
@@ -176,7 +158,6 @@
 ----
 
  - [**"6 cool things in music including Prince's memoir, Lady Gaga, Kanye West, Lewis Capaldi, Tom Morello"**](https://www.startribune.com/6-cool-things-in-music-including-prince-s-memoir-lady-gaga-kanye-west-lewis-capaldi-tom-morello/564218342/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 2 November 2019
     - about [First Avenue (place)](../../topics/place/first-avenue/index.md), [Jon Bream](../../topics/jon-bream/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)
@@ -187,16 +168,13 @@
 ## October 2019 (11)
 
  - [**"Adorable cuteness and spooktacular creativity: The winners of the Star Tribune Halloween Pet Costume Contest -- The winners in our Halloween Pet Costume Contest ranged from the elaborate to the adorably goofy."**](https://www.startribune.com/adorable-cuteness-and-spooktacular-creativity-the-winners-of-the-star-tribune-halloween-pet-costume-contest/563846062/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 27 October 2019
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/adorable-cuteness-and-spooktacular-creativity-the-winners-of-the-star-tribune-halloween-pet-costume-contest/563846062/))
 
 ----
 
  - [**"In their brief time together, Prince made co-author believe he could do the 'impossible' -- He'd never written a book before. But Dan Piepenbring carried on after Prince's death."**](https://www.startribune.com/in-their-brief-time-together-prince-made-co-author-believe-he-could-do-the-impossible/563845862/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 26 October 2019
     - about [contract](../../topics/contract/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [royalties](../../topics/royalties/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [vault](../../topics/vault/index.md)
@@ -205,7 +183,6 @@
 ----
 
  - [**"Like Prince, his new memoir 'The Beautiful Ones' can't be pigeonholed -- Filled with ephemera, photos and philosophy, "The Beautiful Ones" is incomplete yet revealing."**](https://www.startribune.com/like-prince-his-new-memoir-the-beautiful-ones-can-t-be-pigeonholed/563845812/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 26 October 2019
     - about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [memoir](../../topics/memoir/index.md), [Super Bowl](../../topics/super-bowl/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [vault](../../topics/vault/index.md)
@@ -214,7 +191,6 @@
 ----
 
  - [**"Prince's anticipated, posthumous memoir is ready for fans"**](https://www.startribune.com/prince-s-anticipated-posthumous-memoir-is-ready-for-fans/563912692/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 26 October 2019
     - about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [memoir](../../topics/memoir/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [vault](../../topics/vault/index.md)
@@ -223,7 +199,6 @@
 ----
 
  - [**"$12.5 million Capri Theater renovation pinned as linchpin to north Minneapolis revitalization -- A $12.5 million expansion of the Capri Theater promises to help with the revitalization of north Minneapolis."**](https://www.startribune.com/12-5-million-capri-theater-renovation-pinned-as-linchpin-to-north-minneapolis-revitalization/563569292/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 22 October 2019
     - about [Capri Theater (place)](../../topics/place/capri-theater/index.md)
@@ -232,7 +207,6 @@
 ----
 
  - [**"Buddy Holly and Roy Orbison in Minnesota? Hologram tours of old stars are the hot new concert trend -- Buddy Holly is coming to town with Roy Orbison? Yes, rock 'n' roll holograms are here to stay."**](https://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 12 October 2019
     - about [Aretha Franklin](../../topics/aretha-franklin/index.md), [Ed Sheeran](../../topics/ed-sheeran/index.md), [Frank Zappa](../../topics/frank-zappa/index.md), [hologram](../../topics/hologram/index.md), [Lizzo](../../topics/lizzo/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Morris Day](../../topics/morris-day/index.md), [perfume](../../topics/perfume/index.md)
@@ -241,7 +215,6 @@
 ----
 
  - [**"From Ukraine to Jay-Z, a night with President Trump -- One journalist's notes from an exceptional happening in downtown Minneapolis."**](https://www.startribune.com/from-ukraine-to-jay-z-a-night-with-president-trump/562832292/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 11 October 2019
     - about [Obama](../../topics/obama/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Trump](../../topics/trump/index.md)
@@ -250,7 +223,6 @@
 ----
 
  - [**"Prince estate: Trump violated promise not to play 'Purple Rain' -- The campaign played the song at the president's Target Center appearance after it promised a year ago to stop playing Prince's music at rallies, the estate said."**](https://www.startribune.com/prince-estate-says-playing-purple-rain-at-trump-rally-was-unauthorized/562782832/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 11 October 2019
     - about [Donald Trump](../../topics/donald-trump/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Trump](../../topics/trump/index.md)
@@ -259,7 +231,6 @@
 ----
 
  - [**"Prince haunts Morris Day's new memoir: 'I still hear his voice in my head' -- "Purple Rain" co-star and Time leader Morris Day details his long friendship with Prince in a memoir that brings him home to the Twin Cities this week."**](https://www.startribune.com/prince-haunts-morris-day-s-new-memoir-i-still-hear-his-voice-in-my-head/562430972/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 8 October 2019
     - about [Aretha Franklin](../../topics/aretha-franklin/index.md), [Donald Trump](../../topics/donald-trump/index.md), [Jamie Starr](../../topics/jamie-starr/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [Pandemonium (album)](../../topics/album/pandemonium/index.md), [Trump](../../topics/trump/index.md)
@@ -268,7 +239,6 @@
 ----
 
  - [**"Excerpt of a 'dialogue' between Prince and Morris Day from the book 'On Time'"**](https://www.startribune.com/excerpt-of-a-dialogue-between-prince-and-morris-day-from-the-book-on-time/562430982/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 7 October 2019
     - about [Morris Day](../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [The Time](../../topics/the-time/index.md)
@@ -277,7 +247,6 @@
 ----
 
  - [**"Show-biz veteran named new executive director for Prince's Paisley Park"**](https://www.startribune.com/show-biz-veteran-named-new-executive-director-for-prince-s-paisley-park/561890092/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 1 October 2019
     - about [Alan Seiffert](../../topics/alan-seiffert/index.md), [contract](../../topics/contract/index.md), [Graceland](../../topics/graceland/index.md), [Joel Weinshanker](../../topics/joel-weinshanker/index.md), [Midnight Blue Management](../../topics/midnight-blue-management/index.md), [MR-ProFun](../../topics/mr-profun/index.md), [museum](../../topics/museum/index.md), [Mycotoo](../../topics/mycotoo/index.md)
@@ -288,7 +257,6 @@
 ## September 2019 (4)
 
  - [**"To Janet Jackson, Minneapolis will always be her 'home away from home' -- Balancing motherhood and megahits, Janet Jackson talks about her return to Minnesota, where she recorded her breakthrough albums."**](https://www.startribune.com/to-janet-jackson-minneapolis-will-always-be-her-home-away-from-home/560054982/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 11 September 2019
     - about [Janelle Monae](../../topics/janelle-monae/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Time](../../topics/the-time/index.md)
@@ -297,7 +265,6 @@
 ----
 
  - [**"Deluxe reissue of Prince's '1999' is set for Nov. 29 with three dozen new tracks"**](https://www.startribune.com/deluxe-reissue-of-prince-s-1999-is-set-for-nov-29-with-three-dozen-new-tracks/559971322/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 10 September 2019
     - about [1999 (album)](../../topics/album/1999/index.md), [Allen Beaulieu](../../topics/allen-beaulieu/index.md), [Andrea Swensson](../../topics/andrea-swensson/index.md), [David Fricke](../../topics/david-fricke/index.md), [Duff McKagan](../../topics/duff-mckagan/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Purple Music (song)](../../topics/song/purple-music/index.md), [Vagina (song)](../../topics/song/vagina/index.md), [vault](../../topics/vault/index.md)
@@ -306,7 +273,6 @@
 ----
 
  - [**"Prince co-author details 'extremely unlikely' story behind new memoir in New Yorker article"**](https://www.startribune.com/prince-co-author-details-extremely-unlikely-story-behind-new-memoir-in-new-yorker-article/559478242/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 5 September 2019
     - about [Atlanta (place)](../../topics/place/atlanta/index.md), [Chanhassen Cinema](../../topics/chanhassen-cinema/index.md), [Country Inn & Suites (place)](../../topics/place/country-inn-suites/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [John Nelson](../../topics/john-nelson/index.md), [memoir](../../topics/memoir/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Random House](../../topics/random-house/index.md), [Raspberry Beret (song)](../../topics/song/raspberry-beret/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Ballad Of Dorothy Parker (song)](../../topics/song/the-ballad-of-dorothy-parker/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)
@@ -315,7 +281,6 @@
 ----
 
  - [**"Longtime Star Tribune columnist C.J. retires"**](https://www.startribune.com/c-j-longtime-star-tribune-columnist-retires/559204792/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 3 September 2019
     - about [C.J.](../../topics/c-j/index.md)
@@ -326,7 +291,6 @@
 ## August 2019 (18)
 
  - [**"Lionel Richie is ham on a shtick at the Minnesota State Fair -- He was chatty and comical in a sold-out hits-filled concert."**](https://www.startribune.com/lionel-richie-is-ham-on-a-shtick-at-the-minnesota-state-fair/558897292/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 31 August 2019
     - about [Lionel Richie](../../topics/lionel-richie/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Minnesota State Fair](../../topics/minnesota-state-fair/index.md), [State Fair](../../topics/state-fair/index.md), [We Are the World (song)](../../topics/song/we-are-the-world/index.md)
@@ -335,7 +299,6 @@
 ----
 
  - [**"Prince exhibit coming to the Minnesota State Fair next year -- Superstar's estate is planning exhibit with artifacts, merchandise and performances."**](https://www.startribune.com/prince-exhibit-coming-to-the-minnesota-state-fair-next-year/558970762/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 31 August 2019
     - about [Comerica](../../topics/comerica/index.md), [exhibit](../../topics/exhibit/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [merchandise](../../topics/merchandise/index.md), [Minnesota State Fair](../../topics/minnesota-state-fair/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [State Fair](../../topics/state-fair/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)
@@ -344,7 +307,6 @@
 ----
 
  - [**"Alfred Jackson, half-brother of late rock star Prince, dies"**](https://www.startribune.com/alfred-jackson-half-brother-of-late-rock-star-prince-dies/558837782/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 30 August 2019
     - about [Alfred Jackson](../../topics/alfred-jackson/index.md)
@@ -353,7 +315,6 @@
 ----
 
  - [**"One of Prince's heirs, Alfred Jackson, dies in Kansas City"**](https://www.startribune.com/one-of-prince-s-heirs-alfred-jackson-dies-in-kansas-city/558728862/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 29 August 2019
     - about [Alfred Jackson](../../topics/alfred-jackson/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)
@@ -362,7 +323,6 @@
 ----
 
  - [**"5 things to do Wednesday at the State Fair"**](https://www.startribune.com/5-things-to-do-at-the-fair-today/558447632/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 27 August 2019
     - about [State Fair](../../topics/state-fair/index.md)
@@ -371,7 +331,6 @@
 ----
 
  - [**"Prince's estate will operate studio complex Paisley Park"**](https://www.startribune.com/prince-s-estate-will-operate-studio-complex-paisley-park/558425072/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 27 August 2019
     - about [Comerica](../../topics/comerica/index.md), [contract](../../topics/contract/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [museum](../../topics/museum/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md)
@@ -380,7 +339,6 @@
 ----
 
  - [**"Prince's estate to assume management of Paisley Park -- Graceland Holdings will no longer run the Chanhassen museum as of Oct. 1."**](https://www.startribune.com/prince-s-estate-to-assume-management-of-paisley-park/558364602/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 26 August 2019
     - about [Ava DuVernay](../../topics/ava-duvernay/index.md), [Bangles](../../topics/bangles/index.md), [Comerica](../../topics/comerica/index.md), [contract](../../topics/contract/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [Joel Weinshanker](../../topics/joel-weinshanker/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [memoir](../../topics/memoir/index.md), [museum](../../topics/museum/index.md), [Netflix](../../topics/netflix/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [vault](../../topics/vault/index.md)
@@ -398,7 +356,6 @@
 ----
 
  - [**"No, seriously: Weird Al and his fans explain why he's so big at the Minnesota State Fair -- Weird Al Yankovic is headed to the Minnesota State Fair's grandstand. We talked to fans of the clever parodist."**](https://www.startribune.com/no-seriously-weird-al-and-his-fans-explain-why-he-s-so-big-at-the-minnesota-state-fair/557878752/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 22 August 2019
     - about [First Avenue (place)](../../topics/place/first-avenue/index.md), [Frank Zappa](../../topics/frank-zappa/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Minnesota State Fair](../../topics/minnesota-state-fair/index.md), [State Fair](../../topics/state-fair/index.md), [Weird Al Yankovic](../../topics/weird-al-yankovic/index.md)
@@ -407,7 +364,6 @@
 ----
 
  - [**"Why Weird Al Yankovic never parodied Prince"**](https://www.startribune.com/why-weird-al-yankovic-never-parodied-prince/557878822/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 22 August 2019
     - about [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Weird Al Yankovic](../../topics/weird-al-yankovic/index.md)
@@ -416,7 +372,6 @@
 ----
 
  - [**"Prince store at MSP gives travelers a glimpse at superstar's Minnesota life -- Terminal shop organized around parts of Minnesota musician's life to lure fans."**](https://www.startribune.com/prince-store-at-msp-gives-travelers-a-glimpse-at-superstar-s-minnesota-life/556690022/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 20 August 2019
     - about [airport](../../topics/airport/index.md), [Bravado](../../topics/bravado/index.md), [DJ Dudley D](../../topics/dj-dudley-d/index.md), [merchandise](../../topics/merchandise/index.md), [Minneapolis-St. Paul International Airport (place)](../../topics/place/minneapolis-st-paul-international-airport/index.md), [museum](../../topics/museum/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Super Bowl](../../topics/super-bowl/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md)
@@ -425,7 +380,6 @@
 ----
 
  - [**"34 years of Gittelson Jewelers customer service, including a 3 a.m. Prince appointment -- For the past eight years, Gene and his son Michael Gittelson have been sharing the 297-square-foot space with Molly Braun, the general manager, who sometimes witnesses familial squabbling."**](https://www.startribune.com/c-j-34-years-of-gittelson-jewelers-customer-service-including-a-3-a-m-prince-appointment/530363881/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 9 August 2019
     - about [merchandise](../../topics/merchandise/index.md)
@@ -434,7 +388,6 @@
 ----
 
  - [**"Loons, lace & Prince: Minnesota is celebrated in song at Minneapolis festival -- REVIEW: Composers from the state were celebrated at Source Song Festival kickoff."**](https://www.startribune.com/loons-lace-amp-prince-minnesota-is-celebrated-in-song-at-minneapolis-festival/525653951/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 7 August 2019
     - about [Source Song Festival](../../topics/source-song-festival/index.md)
@@ -443,7 +396,6 @@
 ----
 
  - [**"John Mayer barely comes alive in post-Dead, two-set Xcel Center gig -- The bluesy pop hitmaker hit St. Paul fresh off a tour with his older pals."**](https://www.startribune.com/john-mayer-barely-comes-alive-in-post-dead-two-set-xcel-center-gig/522130881/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 6 August 2019
     - about [John Mayer](../../topics/john-mayer/index.md), [Katy Perry](../../topics/katy-perry/index.md), [The Beautiful Ones (song)](../../topics/song/the-beautiful-ones/index.md)
@@ -452,7 +404,6 @@
 ----
 
  - [**"Morris Day shows off his comedic chops in new Prince mockumentary"**](https://www.startribune.com/morris-day-shows-off-his-comedic-chops-in-new-prince-mockumentary/523094741/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 6 August 2019
     - about [Computer Blue (song)](../../topics/song/computer-blue/index.md), [Jungle Love (song)](../../topics/song/jungle-love/index.md), [Morris Day](../../topics/morris-day/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Quincy Jones](../../topics/quincy-jones/index.md), [Sherman's Showcase (TV show)](../../topics/tv-show/sherman-s-showcase/index.md), [The Bird (song)](../../topics/song/the-bird/index.md), [Vicki, is the Water Warm Enough (song)](../../topics/song/vicki-is-the-water-warm-enough/index.md)
@@ -461,7 +412,6 @@
 ----
 
  - [**"TV picks for Aug. 7: '90210' gang reunites plus 'Bulletproof' and Morris Day on 'Sherman's Showcase' -- Much of the original cast of "Beverly Hills, 90210" is back playing versions of themselves."**](https://www.startribune.com/tv-picks-for-aug-7-90210-gang-reunites-plus-bulletproof-and-morris-day-on-sherman-s-showcase/523234941/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 6 August 2019
     - about [Jungle Love (song)](../../topics/song/jungle-love/index.md), [Morris Day](../../topics/morris-day/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Sherman's Showcase (TV show)](../../topics/tv-show/sherman-s-showcase/index.md)
@@ -470,7 +420,6 @@
 ----
 
  - [**"Tamron Hall talks Prince at TV critics meeting"**](https://www.startribune.com/tamron-hall-talks-prince-at-tv-critics-meeting/521726761/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 5 August 2019
     - about [Charlie Rose](../../topics/charlie-rose/index.md), [PBS](../../topics/pbs/index.md), [Tamron Hall](../../topics/tamron-hall/index.md)
@@ -555,7 +504,6 @@
 ## June 2019 (10)
 
  - [**"Prince's Caribbean estate sells for $10.8 million -- Beachfront home with purple driveway was bought by North Carolina businessman"**](https://www.startribune.com/prince-s-caribbean-estate-sells-for-10-8-million/511572552/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 20 June 2019
     - about [Caribbean](../../topics/caribbean/index.md)
@@ -564,7 +512,6 @@
 ----
 
  - [**"On a night honoring Prince, Twins fans show they’re delirious once again -- Remember those small crowds at Target Field in April and May? They were a distant memory Friday night."**](https://www.startribune.com/on-a-night-honoring-prince-twins-fans-show-they-re-delirious-once-again/511338901/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 15 June 2019
     - about [Minnesota Twins](../../topics/minnesota-twins/index.md), [Toronto (place)](../../topics/place/toronto/index.md)
@@ -603,7 +550,6 @@
     - by [John Reinan](../../authors/john-reinan/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 7 June 2019
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/why-won-t-anyone-take-the-last-piece-of-food/510139261/))
 
 ----
@@ -630,7 +576,6 @@
     - by [Lee Svitak Dean](../../authors/lee-svitak-dean/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 5 June 2019
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/celebrate-prince-s-birthday-with-a-dinner-in-his-honor-at-the-bird-in-minneapolis/510867202/))
 
 ----
@@ -706,7 +651,6 @@
     - by [La Velle E. Neal III](../../authors/la-velle-e-neal-iii/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 27 April 2019
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/reliever-matt-magill-back-with-twins/509115892/))
 
 ----
@@ -876,10 +820,8 @@
 ----
 
  - [**"Twin Cities concerts of the week: Oberst & Bridgers, Dan + Shay, Dessa & MN Orchestra"**](https://www.startribune.com/twin-cities-concerts-of-the-week-oberst-amp-bridgers-dan-shay-dessa-amp-mn-orch/507486252/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 22 March 2019
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/twin-cities-concerts-of-the-week-oberst-amp-bridgers-dan-shay-dessa-amp-mn-orch/507486252/))
 
 ----
@@ -921,10 +863,8 @@
 ----
 
  - [**"Chanhassen City Council approves housing and park plan on former Prince property"**](https://www.startribune.com/chanhassen-council-approves-housing-and-park-plan-on-former-prince-property/507037042/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 12 March 2019
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/chanhassen-council-approves-housing-and-park-plan-on-former-prince-property/507037042/))
 
 ----
@@ -942,7 +882,6 @@
     - by [Katy Read](../../authors/katy-read/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 6 March 2019
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/no-consensus-on-what-to-do-with-sprawling-188-acres-in-chanhassen-once-owned-by-prince/506771122/))
 
 ----
@@ -1004,7 +943,6 @@
 ----
 
  - [**"Sheila E. to perform at Timberwolves halftime Feb. 13"**](https://www.startribune.com/sheila-e-to-perform-at-timberwolves-halftime-feb-13/505512282/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 7 February 2019
     - about [Minnesota Timberwolves](../../topics/minnesota-timberwolves/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Timberwolves](../../topics/timberwolves/index.md)
@@ -1034,7 +972,6 @@
     - by [Sharyn Jackson](../../authors/sharyn-jackson/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 1 February 2019
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/st-paul-top-chef-contestant-makes-a-prince-inspired-dish-and-it-s-purple/505192802/))
 
 ----
@@ -1042,10 +979,8 @@
 ## January 2019 (3)
 
  - [**"'We're losing legends': Prince's cousin joins push for Minnesota opioid plan"**](https://www.startribune.com/we-re-losing-legends-prince-s-cousin-joins-push-for-minnesota-opioid-plan/505107802/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 30 January 2019
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/we-re-losing-legends-prince-s-cousin-joins-push-for-minnesota-opioid-plan/505107802/))
 
 ----
@@ -1054,13 +989,11 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 13 January 2019
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/remembering-willie-murphy-defiant-maverick-who-was-funky-to-the-bone/504295712/))
 
 ----
 
  - [**"Prince pal St. Paul Peterson drops funky new, Prince-inspired single"**](https://www.startribune.com/st-paul-peterson-drops-funky-new-prince-inspired-single-you-got-2-love/504059752/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 8 January 2019
     - about [Paul Peterson](../../topics/paul-peterson/index.md), [St. Paul Peterson](../../topics/st-paul-peterson/index.md)

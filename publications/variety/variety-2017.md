@@ -3,7 +3,6 @@
 ## November 2017 (1)
 
  - [**"‘Prince’s Last Year’ Will Explore the Music Icon’s Final Twelve Months"**](https://variety.com/2017/tv/news/princes-last-year-documentary-1202626889/)
-
     - in [Variety](https://variety.com/)
     - on 30 November 2017
     - about [Adrian Sibley](../../topics/adrian-sibley/index.md), [Andy Allo](../../topics/andy-allo/index.md), [CeeLo Green](../../topics/ceelo-green/index.md), [Channel 4](../../topics/channel-4/index.md), [Dan Goldsack](../../topics/dan-goldsack/index.md), [Eryn Allen Kane](../../topics/eryn-allen-kane/index.md), [George Clinton](../../topics/george-clinton/index.md), [Kate Bush](../../topics/kate-bush/index.md), [Lincoln Square Prods.](../../topics/lincoln-square-prods/index.md), [Michael Kirk](../../topics/michael-kirk/index.md), [Prince: R U Listening? (documentary)](../../topics/documentary/prince-r-u-listening/index.md), [Prince’s Last Year (documentary)](../../topics/documentary/prince-s-last-year/index.md), [Sheldon Lazarus](../../topics/sheldon-lazarus/index.md), [Van Jones](../../topics/van-jones/index.md)
@@ -34,7 +33,6 @@
 ----
 
  - [**"Another Track Drops From Prince’s ‘Purple Rain’ Deluxe Edition: ‘Our Destiny’/’Roadhouse Garden’"**](https://variety.com/2017/music/news/prince-purple-rain-deluxe-new-song-our-destiny-roadhouse-garden-1202424644/)
-
     - in [Variety](https://variety.com/)
     - on 12 May 2017
     - about [First Avenue (place)](../../topics/place/first-avenue/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Our Destiny (song)](../../topics/song/our-destiny/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Roadhouse Garden (song)](../../topics/song/roadhouse-garden/index.md), [The Revolution](../../topics/the-revolution/index.md)

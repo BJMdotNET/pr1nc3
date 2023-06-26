@@ -6,7 +6,6 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 30 December 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/artist-of-the-year-2016-prince-s-memorials-were-the-year-s-rock-stars/408655055/))
 
 ----
@@ -15,13 +14,11 @@
     - by [Emma Nelson](../../authors/emma-nelson/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 21 December 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/judge-orders-prince-s-divorce-records-unsealed/407814536/))
 
 ----
 
  - [**"Jesse Johnson soars as guitar hero in power trio marathon at First Avenue"**](https://www.startribune.com/jesse-johnson-soars-as-guitar-hero-in-power-trio-marathon-at-first-avenue/404557246/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 4 December 2016
     - about [First Avenue (place)](../../topics/place/first-avenue/index.md), [Jesse Johnson](../../topics/jesse-johnson/index.md)
@@ -30,10 +27,8 @@
 ----
 
  - [**"Prince properties in Chanhassen are hitting the market and going fast"**](https://www.startribune.com/prince-properties-in-chanhassen-are-hitting-the-market-and-going-fast/404372476/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 3 December 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-properties-in-chanhassen-are-hitting-the-market-and-going-fast/404372476/))
 
 ----
@@ -62,7 +57,6 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 10 November 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-s-paisley-park-adds-weekend-dance-parties-new-tours-to-its-mix/400763841/))
 
 ----
@@ -91,7 +85,6 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 14 October 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-tribute-shows-what-makes-us-miss-him/397048281/))
 
 ----
@@ -100,7 +93,6 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 13 October 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/how-thursday-s-prince-tribute-was-saved-concert-promoter-put-humpty-dumpty-back-together-again/396866631/))
 
 ----
@@ -109,22 +101,18 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 7 October 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/who-s-performing-at-prince-tribute-concert-in-st-paul/396229541/))
 
 ----
 
  - [**"Fans tour Paisley Park -- Some Prince fans got a look inside Paisley Park today. It was closed to the media."**](https://www.startribune.com/fans-tour-paisley-park/396168661/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 6 October 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/fans-tour-paisley-park/396168661/))
 
 ----
 
  - [**"Paisley Park visitors will see Prince's studio and mementoes"**](https://www.startribune.com/paisley-park-visitors-will-see-prince-s-studio-and-mementoes/396025851/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 5 October 2016
     - about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [museum](../../topics/museum/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [NPG Music Club (website)](../../topics/website/npg-music-club/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)
@@ -147,7 +135,6 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 26 September 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/ain-t-no-party-like-a-prince-family-after-party-oct-12-13-14-at-muse/394771091/))
 
 ----
@@ -162,16 +149,13 @@
 ----
 
  - [**"An emotional Sheila E. says her tribute show will honor Prince's 'quiet' philanthropy"**](https://www.startribune.com/an-emotional-sheila-e-says-her-tribute-show-will-honor-prince-s-quiet-philanthropy/394589921/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 23 September 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/an-emotional-sheila-e-says-her-tribute-show-will-honor-prince-s-quiet-philanthropy/394589921/))
 
 ----
 
  - [**"Judge sets date for closed hearing in Prince estate case"**](https://www.startribune.com/judge-sets-date-for-closed-hearing-in-prince-estate-case/394446251/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 22 September 2016
     - about [Prince Estate](../../topics/prince-estate/index.md)
@@ -183,7 +167,6 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 16 September 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-tribute-announced-for-oct-13-stevie-wonder-christina-aguilera-at-xcel-energy-center/393618071/))
 
 ----
@@ -210,7 +193,6 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 4 September 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/three-nights-of-revolution-reflecting-on-prince-tribute-concerts-at-first-avenue/392295351/))
 
 ----
@@ -236,10 +218,8 @@
 ----
 
  - [**"Details from Prince's 2006 divorce to be unsealed"**](https://www.startribune.com/details-from-prince-s-2006-divorce-to-be-unsealed/390225321/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 15 August 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/details-from-prince-s-2006-divorce-to-be-unsealed/390225321/))
 
 ----
@@ -257,7 +237,6 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 12 August 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/depositing-yourself-at-u-s-bank-stadium-tips-for-concertgoers/389925251/))
 
 ----
@@ -266,7 +245,6 @@
     - by [Lynne O'Donnell (Associated Press)](../../authors/associated-press/lynne-o-donnell/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 12 August 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/american-at-home-in-afghanistan-with-some-help-from-prince/389999081/))
 
 ----
@@ -275,7 +253,6 @@
     - by [Emma Nelson](../../authors/emma-nelson/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 11 August 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/seven-prince-properties-including-caribbean-villa-can-now-be-sold/389933291/))
 
 ----
@@ -290,10 +267,8 @@
 ----
 
  - [**"Prince estate administrator denies plan to sell Paisley Park"**](https://www.startribune.com/prince-estate-administrator-denies-plan-to-sell-paisley-park/389389021/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 6 August 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-estate-administrator-denies-plan-to-sell-paisley-park/389389021/))
 
 ----
@@ -302,7 +277,6 @@
     - by [The Associated Press](../../authors/the-associated-press/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 5 August 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-s-paisley-park-other-properties-could-go-on-sale/389333051/))
 
 ----
@@ -326,10 +300,8 @@
 ----
 
  - [**"Judge: Filings about Prince estate fees, property under seal"**](https://www.startribune.com/judge-filings-about-prince-estate-fees-property-under-seal/389076521/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 3 August 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/judge-filings-about-prince-estate-fees-property-under-seal/389076521/))
 
 ----
@@ -338,16 +310,13 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 3 August 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/lauryn-hill-returning-to-first-ave-the-night-after-the-revolution-s-run/389086441/))
 
 ----
 
  - [**"Legal tab for Prince estate is already at $2M and counting"**](https://www.startribune.com/legal-tab-for-prince-estate-2m-and-counting/388857201/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 1 August 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/legal-tab-for-prince-estate-2m-and-counting/388857201/))
 
 ----
@@ -367,7 +336,6 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 28 July 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-tribute-concert-to-be-held-oct-13-at-u-s-bank-stadium/388599631/))
 
 ----
@@ -376,7 +344,6 @@
     - by [Kyle Potter (Associated Press)](../../authors/associated-press/kyle-potter/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 28 July 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/media-groups-argue-for-access-in-prince-estate-case/388534361/))
 
 ----
@@ -385,7 +352,6 @@
     - by [Emma Nelson](../../authors/emma-nelson/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 28 July 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/carver-county-judge-to-decide-media-access-issue-in-prince-estate/388574611/))
 
 ----
@@ -403,7 +369,6 @@
     - by [John Reinan](../../authors/john-reinan/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 28 July 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/this-is-the-youngest-photo-of-prince-we-ve-seen-yet-and-it-s-adorable/388480722/))
 
 ----
@@ -421,7 +386,6 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 25 July 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/boy-george-and-culture-club-still-charm-with-dance-happy-pop-soul-at-myth/388137942/))
 
 ----
@@ -439,7 +403,6 @@
     - by [Rochelle Olson](../../authors/rochelle-olson/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 20 July 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-will-reign-over-club-area-at-u-s-bank-stadium/387655201/))
 
 ----
@@ -457,7 +420,6 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 19 July 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/nothing-to-kid-about-prince-bought-the-purple-rain-house-last-summer/387497501/))
 
 ----
@@ -466,7 +428,6 @@
     - by [Dan Browning](../../authors/dan-browning/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 13 July 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/judge-orders-prince-s-former-law-firm-to-share-its-confidential-files-with-estate-lawyers/386670591/))
 
 ----
@@ -475,7 +436,6 @@
     - by [Steve Karnowski (Associated Press)](../../authors/associated-press/steve-karnowski/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 13 July 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/lawyers-may-have-potentially-relevant-info-on-prince-heirs/386656491/))
 
 ----
@@ -499,10 +459,8 @@
 ----
 
  - [**"Prince backup band The Revolution to reunite for 2 shows"**](https://www.startribune.com/prince-backup-band-the-revolution-to-reunite-for-2-shows/385743961/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 6 July 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-backup-band-the-revolution-to-reunite-for-2-shows/385743961/))
 
 ----
@@ -511,7 +469,6 @@
     - by [Sharyn Jackson](../../authors/sharyn-jackson/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 4 July 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-fans-still-making-their-pilgrimage-to-paisley-park/385495541/))
 
 ----
@@ -537,7 +494,6 @@
 ## June 2016 (53)
 
  - [**"Bloomington guitar-maker's link to Prince passes to Colts owner -- Jim Irsay, owner of the Indianapolis Colts, collects famous guitars. Last week, he paid $137,500 in an auction to buy a guitar that at least looks a lot like the yellow version of Prince's "Cloud" guitar."**](https://www.startribune.com/bloomington-guitar-maker-s-link-to-prince-passes-to-colts-owner/385127861/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 30 June 2016
     - about [auction](../../topics/auction/index.md), [BET Awards](../../topics/bet-awards/index.md), [Cloud guitar (instrument)](../../topics/instrument/cloud-guitar/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md)
@@ -549,7 +505,6 @@
     - by [Chevel Johnson (Associated Press)](../../authors/associated-press/chevel-johnson/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 30 June 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/new-orleans-ready-to-party-with-a-purpose-at-essence-fest/384987441/))
 
 ----
@@ -558,7 +513,6 @@
     - by [Mesfin Fekadu (Associated Press)](../../authors/associated-press/mesfin-fekadu/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 27 June 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-s-legacy-to-be-honored-at-bet-awards/384438451/))
 
 ----
@@ -567,7 +521,6 @@
     - by [Dan Browning](../../authors/dan-browning/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 27 June 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-heirship-protocols-subject-of-carver-county-court-hearing/384503191/))
 
 ----
@@ -576,7 +529,6 @@
     - by [Kyle Potter (Associated Press)](../../authors/associated-press/kyle-potter/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 27 June 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-estate-case-heads-back-to-minnesota-courtroom/384482541/))
 
 ----
@@ -585,7 +537,6 @@
     - by [Kristin M. Hall (Associated Press)](../../authors/associated-press/kristin-m-hall/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 27 June 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/politically-charged-bet-awards-honor-prince-muhammad-ali/384492881/))
 
 ----
@@ -594,16 +545,13 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 27 June 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-tributes-take-over-sunday-s-bet-awards/384478721/))
 
 ----
 
  - [**"Indianapolis symphony to perform Prince's biggest hits"**](https://www.startribune.com/indianapolis-symphony-to-perform-prince-s-biggest-hits/384455631/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 26 June 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/indianapolis-symphony-to-perform-prince-s-biggest-hits/384455631/))
 
 ----
@@ -612,13 +560,11 @@
     - by [Steve Karnowski (Associated Press)](../../authors/associated-press/steve-karnowski/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 26 June 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/minnesota-judge-to-hold-2nd-hearing-in-prince-estate-case/384440841/))
 
 ----
 
  - [**"Indianapolis Colts owner buys Prince's Yellow Cloud guitar"**](https://www.startribune.com/indianapolis-colts-owner-buys-prince-s-yellow-cloud-guitar/384401501/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 25 June 2016
     - about [auction](../../topics/auction/index.md), [Cloud guitar (instrument)](../../topics/instrument/cloud-guitar/index.md), [Heritage Auctions](../../topics/heritage-auctions/index.md)
@@ -639,7 +585,6 @@
     - by [Dan Browning](../../authors/dan-browning/index.md), [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 24 June 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/the-attorneys-and-advisers-prince-avoided-in-life-oversee-his-estate/384359271/))
 
 ----
@@ -648,16 +593,13 @@
     - by [Steve Karnowski (Associated Press)](../../authors/associated-press/steve-karnowski/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 23 June 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/ap-source-dna-test-shows-colorado-inmate-not-prince-s-son/384065601/))
 
 ----
 
  - [**"Artcetera: A Time to remember Prince"**](https://www.startribune.com/artcetera-a-time-to-remember-prince/384133681/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 23 June 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/artcetera-a-time-to-remember-prince/384133681/))
 
 ----
@@ -672,10 +614,8 @@
 ----
 
  - [**"Stevie Wonder added to Prince tribute lineup at BET Awards"**](https://www.startribune.com/stevie-wonder-added-to-prince-tribute-lineup-at-bet-awards/384161941/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 23 June 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/stevie-wonder-added-to-prince-tribute-lineup-at-bet-awards/384161941/))
 
 ----
@@ -684,7 +624,6 @@
     - by [Dan Browning](../../authors/dan-browning/index.md), [Emma Nelson](../../authors/emma-nelson/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 22 June 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-estate-hearing-will-be-public-judge-rules/383978221/))
 
 ----
@@ -693,16 +632,13 @@
     - by [Melena Ryzik (The New York Times)](../../authors/the-new-york-times/melena-ryzik/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 22 June 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince/383879681/))
 
 ----
 
  - [**"Singer Judith Hill recalls Prince plane emergency landing"**](https://www.startribune.com/singer-judith-hill-recalls-prince-plane-emergency-landing/383914221/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 22 June 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/singer-judith-hill-recalls-prince-plane-emergency-landing/383914221/))
 
 ----
@@ -711,7 +647,6 @@
     - by [Dan Browning](../../authors/dan-browning/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 21 June 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/judge-seals-claims-of-potential-prince-heirs/383721701/))
 
 ----
@@ -720,34 +655,27 @@
     - by [Glen Stubbe](../../authors/glen-stubbe/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 21 June 2016
-
     - ([mirror](https://web.archive.org/web/*/http://video.startribune.com/massive-prince-mural-emerges-in-chanhassen/383891391/))
 
 ----
 
  - [**"Prince estate case judge seals documents from would-be heirs"**](https://www.startribune.com/prince-estate-case-judge-seals-documents-from-would-be-heirs/383794111/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 21 June 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-estate-case-judge-seals-documents-from-would-be-heirs/383794111/))
 
 ----
 
  - [**"Prince mural -- New Zealand mural artist Graham Hoete started painting a mural of Prince on the side of the Chanhassen Cinema on Saturday with its official unveiling on Wednesday."**](https://www.startribune.com/prince-mural/383857961/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 21 June 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-mural/383857961/))
 
 ----
 
  - [**"Chanhassen Prince mural in progress"**](https://www.startribune.com/chanhassen-prince-mural-in-progress/383702821/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 20 June 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/chanhassen-prince-mural-in-progress/383702821/))
 
 ----
@@ -756,22 +684,18 @@
     - by [Paul Walsh](../../authors/paul-walsh/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 19 June 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/manager-of-prince-s-mpls-nightspot-in-90s-is-found-dead-in-minnetonka-home/383550761/))
 
 ----
 
  - [**"Dolce&Gabbana jazz things up with fashion cacophony"**](https://www.startribune.com/dolce-gabbana-jazz-things-up-with-fashion-cacophony/383518191/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 18 June 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/dolce-gabbana-jazz-things-up-with-fashion-cacophony/383518191/))
 
 ----
 
  - [**"Key Prince career executives retained for estate management"**](https://www.startribune.com/key-prince-career-executives-retained-for-estate-management/383370091/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 17 June 2016
     - about [Bremer Trust](../../topics/bremer-trust/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [contract](../../topics/contract/index.md), [fentanyl](../../topics/fentanyl/index.md), [L. Londell McMilllan](../../topics/l-londell-mcmilllan/index.md)
@@ -783,7 +707,6 @@
     - by [Tim Campbell](../../authors/tim-campbell/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 17 June 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/this-weekend-is-the-last-chance-to-see-prince-s-purple-rain-coat/383455521/))
 
 ----
@@ -801,7 +724,6 @@
     - by [Carla K. Johnson (Associated Press)](../../authors/associated-press/carla-k-johnson/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 11 June 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/when-stars-seek-medical-care-risk-of-vip-syndrome-looms/382570941/))
 
 ----
@@ -828,7 +750,6 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 7 June 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/celebrate-prince-s-birthday-with-10-songs-he-gifted-to-other-singers/381866931/))
 
 ----
@@ -837,16 +758,13 @@
     - by [Dan Browning](../../authors/dan-browning/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 7 June 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/first-conflict-arises-in-prince-s-estate/382108581/))
 
 ----
 
  - [**"Sheila E., D'Angelo, The Roots to honor Prince at BET Awards"**](https://www.startribune.com/sheila-e-d-angelo-the-roots-to-honor-prince-at-bet-awards/382109321/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 7 June 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/sheila-e-d-angelo-the-roots-to-honor-prince-at-bet-awards/382109321/))
 
 ----
@@ -855,25 +773,20 @@
     - by [Sharyn Jackson](../../authors/sharyn-jackson/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 6 June 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/bus-tours-and-more-tourism-industry-markets-prince-s-ties-to-minnesota/382024071/))
 
 ----
 
  - [**"Judge approves aggressive timeline in Prince estate case"**](https://www.startribune.com/judge-approves-aggressive-timeline-in-prince-estate-case/382014381/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 6 June 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/judge-approves-aggressive-timeline-in-prince-estate-case/382014381/))
 
 ----
 
  - [**"Minnesota governor declares 'Prince Day' to mark birthday"**](https://www.startribune.com/minnesota-governor-declares-prince-day-to-mark-birthday/382019731/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 6 June 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/minnesota-governor-declares-prince-day-to-mark-birthday/382019731/))
 
 ----
@@ -882,16 +795,13 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 5 June 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/all-star-band-pays-tribute-to-prince/381904761/))
 
 ----
 
  - [**"Plaque will honor Prince's life as a student in Minneapolis"**](https://www.startribune.com/plaque-will-honor-prince-s-life-as-a-student-in-minneapolis/381924121/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 5 June 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/plaque-will-honor-prince-s-life-as-a-student-in-minneapolis/381924121/))
 
 ----
@@ -909,7 +819,6 @@
     - by [Nekesa Mumbi Moody (Associated Press)](../../authors/associated-press/nekesa-mumbi-moody/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 4 June 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/spike-lee-throws-dance-party-ahead-of-prince-s-58th-birthday/381871791/))
 
 ----
@@ -927,25 +836,20 @@
     - by [Amy Forliti (Associated Press)](../../authors/associated-press/amy-forliti/index.md), [Michael Tarm (Associated Press)](../../authors/associated-press/michael-tarm/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 3 June 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/finding-overdose-killed-prince-just-the-beginning-of-probe/381743311/))
 
 ----
 
  - [**"PETA offers pro-vegan Prince song as free download"**](https://www.startribune.com/peta-offers-pro-vegan-prince-song-as-free-download/381765851/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 3 June 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/peta-offers-pro-vegan-prince-song-as-free-download/381765851/))
 
 ----
 
  - [**"Prince joins a list of stars dead from drug overdoses"**](https://www.startribune.com/prince-joins-a-list-of-stars-dead-from-drug-overdoses/381744371/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 3 June 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-joins-a-list-of-stars-dead-from-drug-overdoses/381744371/))
 
 ----
@@ -954,7 +858,6 @@
     - by [David Chanen](../../authors/david-chanen/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 2 June 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-died-from-opioid-overdose/381663221/))
 
 ----
@@ -963,7 +866,6 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 2 June 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-s-npg-bandmates-to-remember-him-the-best-way-we-know-how/381662611/))
 
 ----
@@ -972,16 +874,13 @@
     - by [Dan Browning](../../authors/dan-browning/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 2 June 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/tight-deadlines-proposed-for-potential-heirs-to-prince-s-estate/381656281/))
 
 ----
 
  - [**"Timeline of Prince's final days"**](https://www.startribune.com/timeline-of-prince-s-final-days/381731991/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 2 June 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/timeline-of-prince-s-final-days/381731991/))
 
 ----
@@ -996,16 +895,13 @@
 ----
 
  - [**"Prince breaks Beatles' Billboard record more than a month after death"**](https://www.startribune.com/prince-breaks-billboard-record-over-a-month-after-death/381522071/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 1 June 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-breaks-billboard-record-over-a-month-after-death/381522071/))
 
 ----
 
  - [**"Prince smashes Billboard sales records following death"**](https://www.startribune.com/prince-smashes-billboard-sales-records-following-death/381544711/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 1 June 2016
     - about [1999 (album)](../../topics/album/1999/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md)
@@ -1016,7 +912,6 @@
 ## May 2016 (56)
 
  - [**"Record crowd on hand as St. Paul Saints play Purple Game to remember Prince -- The St. Paul Saints gave Prince a final farewell — complete with a lot of purple, and some red Corvettes."**](https://www.startribune.com/record-crowd-on-hand-as-st-paul-saints-play-purple-game-to-remember-prince/381305401/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 30 May 2016
     - about [Sheila E.](../../topics/sheila-e/index.md)
@@ -1034,10 +929,8 @@
 ----
 
  - [**"Two Prince estate claimants object to undergoing genetic testing"**](https://www.startribune.com/prince-estate-claimants-object-to-undergoing-genetic-testing/380673011/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 24 May 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-estate-claimants-object-to-undergoing-genetic-testing/380673011/))
 
 ----
@@ -1055,16 +948,13 @@
     - by [The Associated Press](../../authors/the-associated-press/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 23 May 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/madonna-responds-to-critics-of-her-prince-tribute/380555791/))
 
 ----
 
  - [**"2 claim share of Prince's estate through half brother"**](https://www.startribune.com/2-claim-share-of-prince-s-estate-through-half-brother/380020451/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 18 May 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/2-claim-share-of-prince-s-estate-through-half-brother/380020451/))
 
 ----
@@ -1073,7 +963,6 @@
     - by [Mesfin Fekadu (Associated Press)](../../authors/associated-press/mesfin-fekadu/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 18 May 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/billboard-producer-defends-choosing-madonna-to-honor-prince/379944281/))
 
 ----
@@ -1106,10 +995,8 @@
 ----
 
  - [**"Minnesota state lawmaker pulls Prince bill amid concerns"**](https://www.startribune.com/minnesota-state-lawmaker-pulls-prince-bill-amid-concerns/380040241/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 18 May 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/minnesota-state-lawmaker-pulls-prince-bill-amid-concerns/380040241/))
 
 ----
@@ -1127,7 +1014,6 @@
     - by [Dan Browning](../../authors/dan-browning/index.md), [David Chanen](../../authors/david-chanen/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 18 May 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/two-possible-heirs-file-claim-in-prince-estate/380037071/))
 
 ----
@@ -1136,7 +1022,6 @@
     - by [The Wrap](../../authors/the-wrap/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 16 May 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-death-update-possible-heirs-may-have-to-pay/379686021/))
 
 ----
@@ -1145,7 +1030,6 @@
     - by [Kevin Burbach (Associated Press)](../../authors/associated-press/kevin-burbach/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 16 May 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-s-death-key-players-in-investigation-and-aftermath/379669081/))
 
 ----
@@ -1154,16 +1038,13 @@
     - by [Anthony Lonetree](../../authors/anthony-lonetree/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 15 May 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-memorial-fills-jehovah-s-witnesses-hall-in-minnetonka/379592941/))
 
 ----
 
  - [**"Schafer: Legislature should protect Prince's right of publicity -- Do our state legislators have the good sense to make it easier for Prince's estate to legally protect the value of his image and likeness?"**](https://www.startribune.com/lee-schafer-legislature-should-protect-prince-s-right-of-publicity/379426821/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 15 May 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/lee-schafer-legislature-should-protect-prince-s-right-of-publicity/379426821/))
 
 ----
@@ -1172,7 +1053,6 @@
     - by [Emma Nelson](../../authors/emma-nelson/index.md), [Jon Bream](../../authors/jon-bream/index.md), [Pam Louwagie](../../authors/pam-louwagie/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 14 May 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/facing-questions-prince-s-confidantes-stay-loyal-to-boss/379538981/))
 
 ----
@@ -1187,10 +1067,8 @@
 ----
 
  - [**"Attorney: Grandchild of Prince's half brother could be heir"**](https://www.startribune.com/attorney-grandchild-of-prince-s-half-brother-could-be-heir/379459741/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 13 May 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/attorney-grandchild-of-prince-s-half-brother-could-be-heir/379459741/))
 
 ----
@@ -1199,7 +1077,6 @@
     - by [Rochelle Olson](../../authors/rochelle-olson/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 13 May 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/private-prince-service-planned-for-sunday-at-his-minnetonka-church/379413181/))
 
 ----
@@ -1217,7 +1094,6 @@
     - by [Rochelle Olson](../../authors/rochelle-olson/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 12 May 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-s-two-ex-wives-play-host-to-invite-only-los-angeles-memorial-for-the-late-star/379215501/))
 
 ----
@@ -1226,7 +1102,6 @@
     - by [Sarah Chandler](../../authors/sarah-chandler/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 11 May 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/all-over-the-world-prince-was-this-minnesotan-s-passport-to-cool/378952801/))
 
 ----
@@ -1235,7 +1110,6 @@
     - by [The Wrap](../../authors/the-wrap/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 11 May 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/gene-simmons-apologizes-for-calling-prince-s-death-pathetic/378995911/))
 
 ----
@@ -1253,16 +1127,13 @@
     - by [Kevin Burbach (Associated Press)](../../authors/associated-press/kevin-burbach/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 11 May 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-saw-longtime-experienced-family-care-physician/378980721/))
 
 ----
 
  - [**"Warrant: Doctor prescribed drugs for Prince -- A Minnesota doctor saw Prince twice in the month before his death - including the day before he died - and prescribed him medication, according to a search warrant. Authorities returned to Prince's estate outside Minneapolis on Tuesday."**](http://video.startribune.com/warrant-doctor-prescribed-drugs-for-prince/378949141/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 11 May 2016
-
     - ([mirror](https://web.archive.org/web/*/http://video.startribune.com/warrant-doctor-prescribed-drugs-for-prince/378949141/))
 
 ----
@@ -1280,13 +1151,11 @@
     - by [Rochelle Olson](../../authors/rochelle-olson/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 10 May 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-was-in-talks-for-an-aug-13-concert-at-u-s-bank-stadium/378822271/))
 
 ----
 
  - [**"Prince's ex-wife opens up about baby's death"**](https://www.startribune.com/celebrity-news/378697731/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 10 May 2016
     - about [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md)
@@ -1295,19 +1164,15 @@
 ----
 
  - [**"Prince's youth shown through his first photographer -- Robert Whitman shares his experience as Prince's first professional photographer. Prince merchandise is available at shop.startribune.com. Whitman's website is www.robertwhitman.com."**](http://video.startribune.com/prince-s-youth-shown-through-his-first-photographer/378871581/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 10 May 2016
-
     - ([mirror](https://web.archive.org/web/*/http://video.startribune.com/prince-s-youth-shown-through-his-first-photographer/378871581/))
 
 ----
 
  - [**"The Latest: Warrant reveals details on Prince investigation"**](https://www.startribune.com/the-latest-warrant-reveals-details-on-prince-investigation/378901211/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 10 May 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/the-latest-warrant-reveals-details-on-prince-investigation/378901211/))
 
 ----
@@ -1316,7 +1181,6 @@
     - by [Maya Rao](../../authors/maya-rao/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 9 May 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/law-would-protect-use-of-prince-s-likeness/378675041/))
 
 ----
@@ -1325,16 +1189,13 @@
     - by [Steve Karnowski (Associated Press)](../../authors/associated-press/steve-karnowski/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 8 May 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/behind-closed-doors-lawyers-dig-into-prince-s-estate/378551355/))
 
 ----
 
  - [**"Health Partners' costs, Augsburg's campus and Prince's estate are growing"**](https://www.startribune.com/health-partners-costs-augsburg-s-campus-and-prince-s-estate-are-growing/378349631/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 7 May 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/health-partners-costs-augsburg-s-campus-and-prince-s-estate-are-growing/378349631/))
 
 ----
@@ -1370,7 +1231,6 @@
     - by [Dan Browning](../../authors/dan-browning/index.md), [David Chanen](../../authors/david-chanen/index.md), [Jeremy Olson](../../authors/jeremy-olson/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 7 May 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-was-under-Minnesota-doctors-care-for-weeks-over-withdrawal-symptoms/378419741/))
 
 ----
@@ -1379,25 +1239,20 @@
     - by [Carla K. Johnson (Associated Press)](../../authors/associated-press/carla-k-johnson/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 7 May 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/before-finding-price-doctor-s-son-taught-drug-users-to-surf/378458101/))
 
 ----
 
  - [**"Prince's family planning memorial to late music superstar"**](https://www.startribune.com/prince-s-family-planning-memorial-to-late-music-superstar/378509445/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 7 May 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-s-family-planning-memorial-to-late-music-superstar/378509445/))
 
 ----
 
  - [**"Stevie Wonder, Eric Benet, more honor Prince in Los Angeles"**](https://www.startribune.com/stevie-wonder-eric-benet-more-honor-prince-in-los-angeles/378513605/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 7 May 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/stevie-wonder-eric-benet-more-honor-prince-in-los-angeles/378513605/))
 
 ----
@@ -1406,7 +1261,6 @@
     - by [Jeremy Olson](../../authors/jeremy-olson/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 6 May 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/med-ethics-questions-surface-over-prince-rescue-plan/378419741/))
 
 ----
@@ -1415,7 +1269,6 @@
     - by [Caroline Palmer](../../authors/caroline-palmer/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 5 May 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/dancers-recall-prince-as-a-hard-working-darling-in-tights-and-ballet-slippers/378179261/))
 
 ----
@@ -1424,7 +1277,6 @@
     - by [Ben Farniok](../../authors/ben-farniok/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 5 May 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-gets-a-gold-star-at-first-ave/378281421/))
 
 ----
@@ -1433,7 +1285,6 @@
     - by [David Chanen](../../authors/david-chanen/index.md), [Jeremy Olson](../../authors/jeremy-olson/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 5 May 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/federal-agents-to-join-prince-death-investigation/378168981/))
 
 ----
@@ -1451,7 +1302,6 @@
     - by [David Chanen](../../authors/david-chanen/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 4 May 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/addiction-doctor-was-to-have-seen-prince-just-before-his-death/378051471/))
 
 ----
@@ -1460,7 +1310,6 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 4 May 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-s-family-band-members-debut-new-version-of-nothing-compares-2-u/378178461/))
 
 ----
@@ -1478,7 +1327,6 @@
     - by [Aimee Blanchette](../../authors/aimee-blanchette/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 3 May 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/minnesota-sisters-third-eye-sunglasses-inspired-by-prince-are-now-for-sale/377862901/))
 
 ----
@@ -1487,7 +1335,6 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 3 May 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/warner-bros-plans-vinyl-reissues-of-prince-s-1985-1992-albums/377985801/))
 
 ----
@@ -1505,13 +1352,11 @@
     - by [Kevin Burbach (Associated Press)](../../authors/associated-press/kevin-burbach/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 2 May 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/longtime-chef-prince-fought-throat-stomach-pains-recently/377730681/))
 
 ----
 
  - [**"Prince commemorative covers -- Star Tribune remembers one of the Twin Cities' biggest homegrown celebrities with four tribute covers. Go to shop.startribune.com to purchase reprints of the commemorative section and special reproductions of the covers shown below."**](https://www.startribune.com/prince-commemorative-covers/377623101/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 1 May 2016
     - about [Twin Cities (place)](../../topics/place/twin-cities/index.md)
@@ -1567,10 +1412,8 @@
 ----
 
  - [**"The Latest: Investigators consider overdose in Prince death"**](https://www.startribune.com/the-latest-judge-seals-search-warrant-in-prince-case/377451731/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 28 April 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/the-latest-judge-seals-search-warrant-in-prince-case/377451731/))
 
 ----
@@ -1597,7 +1440,6 @@
     - by [Tim Harlow](../../authors/tim-harlow/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 27 April 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/red-wing-abuzz-after-city-paints-over-prince-mural-on-bluff/377335801/))
 
 ----
@@ -1606,7 +1448,6 @@
     - by [Jennifer Bjorhus](../../authors/jennifer-bjorhus/index.md), [Jeremy Olson](../../authors/jeremy-olson/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 27 April 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/details-emerge-from-prince-s-emergency-landing-in-moline-illinois/377302181/))
 
 ----
@@ -1615,7 +1456,6 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 26 April 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-s-revolution-bandmates-announce-reunion-plans/377179351/))
 
 ----
@@ -1639,7 +1479,6 @@
 ----
 
  - [**"'Saturday Night Live' airs Prince tribute show"**](https://www.startribune.com/saturday-night-live-devotes-entire-show-to-prince-tribute/376876471/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 24 April 2016
     - about [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md)
@@ -1651,16 +1490,13 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 24 April 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/until-the-end-an-enigmaflashes-of-frailty-stand-out-in-prince-s-vibrant-final-months/376860181/))
 
 ----
 
  - [**"A Prince parable: the rock star and waiter"**](https://www.startribune.com/a-prince-parable-the-rock-star-and-waiter/376634021/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 23 April 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/a-prince-parable-the-rock-star-and-waiter/376634021/))
 
 ----
@@ -1675,7 +1511,6 @@
 ----
 
  - [**"Eric Clapton recalls how Prince inspired 'Holy Mother'"**](https://www.startribune.com/eric-clapton-recalls-how-prince-inspired-holy-mother/376852721/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 23 April 2016
     - about [Eric Clapton](../../topics/eric-clapton/index.md), [Holy Mother (song)](../../topics/song/holy-mother/index.md)
@@ -1684,10 +1519,8 @@
 ----
 
  - [**"Oral history: Prince's life, as told by the people who knew him best"**](https://www.startribune.com/the-life-of-prince-as-told-by-the-people-who-knew-him/376586581/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 23 April 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/the-life-of-prince-as-told-by-the-people-who-knew-him/376586581/))
 
 ----
@@ -1696,7 +1529,6 @@
     - by [Colleen Kelly](../../authors/colleen-kelly/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 23 April 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-global-rock-star-musical-genius-cultural-icon-and-a-good-neighbor/376848181/))
 
 ----
@@ -1705,7 +1537,6 @@
     - by [Kim Palmer](../../authors/kim-palmer/index.md), [Sharyn Jackson](../../authors/sharyn-jackson/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 23 April 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-tributes-continue-in-minnesota-and-abroad/376809211/))
 
 ----
@@ -1714,13 +1545,11 @@
     - by [Emma Nelson](../../authors/emma-nelson/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 22 April 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/fans-flock-to-first-avenue-to-honor-prince/376665241/))
 
 ----
 
  - [**"C.J.: Prince was indelibly interesting"**](https://www.startribune.com/c-j-prince-was-indelibly-interesting/376786671/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 22 April 2016
     - about [C.J.](../../topics/c-j/index.md)
@@ -1732,7 +1561,6 @@
     - by [Patrick Condon](../../authors/patrick-condon/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 22 April 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/dayton-on-prince-we-owe-him-an-eternal-debt-of-gratitude/376733611/))
 
 ----
@@ -1741,7 +1569,6 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 22 April 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/how-prince-s-royal-touch-still-impacts-the-twin-cities-music-scene/376777121/))
 
 ----
@@ -1759,7 +1586,6 @@
     - by [David Bauder (Associated Press)](../../authors/associated-press/david-bauder/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 22 April 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-haggard-bowie-white-frey-lousy-year-for-music/376665661/))
 
 ----
@@ -1768,7 +1594,6 @@
     - by [Ryan Nakashima (Associated Press)](../../authors/associated-press/ryan-nakashima/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 22 April 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-s-own-words-describe-mixed-feelings-about-the-web/376673621/))
 
 ----
@@ -1777,7 +1602,6 @@
     - by [Chris Miller](../../authors/chris-miller/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 22 April 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/sid-to-prince-hey-prince-prince-to-sid-hello-mr-hartman/376752651/))
 
 ----
@@ -1786,7 +1610,6 @@
     - by [Nicole Norfleet](../../authors/nicole-norfleet/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 22 April 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/social-media-responses-to-prince-s-death-spark-debate-in-local-marketing-community/376789961/))
 
 ----
@@ -1810,19 +1633,15 @@
 ----
 
  - [**"Prince found dead at Paisley Park -- The Associated Press is reporting his death"**](https://www.startribune.com/authorities-investigating-death-at-prince-s-paisley-park/376578441/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 21 April 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/authorities-investigating-death-at-prince-s-paisley-park/376578441/))
 
 ----
 
  - [**"Prince's final days: Where he was, what he did"**](https://www.startribune.com/the-last-days-of-prince/376604461/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 21 April 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/the-last-days-of-prince/376604461/))
 
 ----
@@ -1831,7 +1650,6 @@
     - by [Hillel Italie (Associated Press)](../../authors/associated-press/hillel-italie/index.md), [Jeff Baenen (Associated Press)](../../authors/associated-press/jeff-baenen/index.md), [Nekesa Mumbi Moody (Associated Press)](../../authors/associated-press/nekesa-mumbi-moody/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 21 April 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/publicist-pop-superstar-prince-dies-at-his-minnesota-home/376584031/))
 
 ----
@@ -1840,7 +1658,6 @@
     - by [Matt DeLong](../../authors/matt-delong/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 21 April 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/watch-prince-s-greatest-live-music-videos/376595241/))
 
 ----
@@ -1849,7 +1666,6 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 17 April 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-offers-a-little-speech-and-even-less-piano-at-paisley-to-prove-he-s-fine/375981801/))
 
 ----
@@ -1858,7 +1674,6 @@
     - by [Tom Horgen](../../authors/tom-horgen/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 16 April 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/tmz-says-prince-hospitalized-in-illinois/375900161/))
 
 ----
@@ -1882,10 +1697,8 @@
 ----
 
  - [**"The 5 best 'American Idol' stars"**](https://www.startribune.com/the-5-best-american-idol-stars/374624161/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 5 April 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/the-5-best-american-idol-stars/374624161/))
 
 ----
@@ -1893,7 +1706,6 @@
 ## March 2016 (8)
 
  - [**"C.J.: Prince's memoir will be a beauty if he gives his take on my questions"**](https://www.startribune.com/c-j-prince-s-memoir-will-be-a-beauty-if-he-gives-his-take-on-my-questions/373295271/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 23 March 2016
     - about [C.J.](../../topics/c-j/index.md), [Carver County](../../topics/carver-county/index.md), [memoir](../../topics/memoir/index.md), [museum](../../topics/museum/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)
@@ -1967,7 +1779,6 @@
 ## February 2016 (5)
 
  - [**"C.J.: James Corden is not vague about examining Prince's facial hair"**](https://www.startribune.com/c-j-james-corden-is-not-vague-about-examining-prince-s-facial-hair/370042781/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 25 February 2016
     - about [C.J.](../../topics/c-j/index.md), [Donald Trump](../../topics/donald-trump/index.md), [Trump](../../topics/trump/index.md)
@@ -2003,10 +1814,8 @@
 ----
 
  - [**"Pick Six: Praise for Prince, Macklemore & Ryan Lewis, Babes in Toyland, James Corden with Chris Martin, Kanye West, more"**](https://www.startribune.com/pick-six-praise-for-prince-macklemore-ryan-lewis-babes-in-toyland-james-corden-with-chris-martin-kanye-west-more/367740431/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 6 February 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/pick-six-praise-for-prince-macklemore-ryan-lewis-babes-in-toyland-james-corden-with-chris-martin-kanye-west-more/367740431/))
 
 ----
@@ -2026,7 +1835,6 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 27 January 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/springsteen-and-prince-in-concert-a-fresh-look-at-two-of-the-best-ever/366665721/))
 
 ----
@@ -2041,10 +1849,8 @@
 ----
 
  - [**"Fans react to Prince's solo concerts at Paisley Park"**](https://www.startribune.com/fans-react-to-prince-s-solo-concerts-at-paisley-park/366179641/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 22 January 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/fans-react-to-prince-s-solo-concerts-at-paisley-park/366179641/))
 
 ----
@@ -2053,7 +1859,6 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 22 January 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-gets-personal-in-his-first-ever-solo-show/366176091/))
 
 ----
@@ -2071,7 +1876,6 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 16 January 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/tickets-for-prince-s-jan-21-solo-piano-shows-will-go-on-sale-at-2-p-m-today/365536281/))
 
 ----

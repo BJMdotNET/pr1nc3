@@ -3,7 +3,6 @@
 ## February 2020 (1)
 
  - [**"Michael Schulenberg, Doctor Who Prescribed Opioids To Prince Before Death, Punished By State Board"**](https://minnesota.cbslocal.com/2020/02/03/michael-schulenberg-doctor-who-prescribed-opioids-to-prince-before-death-punished-by-state-board/)
-
     - in [WCCO - CBS Minnesota](https://minnesota.cbslocal.com/)
     - on 3 February 2020
     - about [Michael Schulenberg](../../topics/michael-schulenberg/index.md)
@@ -14,7 +13,6 @@
 ## January 2020 (5)
 
  - [**"Finding Minnesota: First Avenue Celebrates 50 Years"**](https://minnesota.cbslocal.com/2020/01/26/finding-minnesota-first-avenue-celebrates-50-years/)
-
     - in [WCCO - CBS Minnesota](https://minnesota.cbslocal.com/)
     - on 26 January 2020
     - about [First Avenue (place)](../../topics/place/first-avenue/index.md)
@@ -23,7 +21,6 @@
 ----
 
  - [**"Massive Prince Mural Coming To MSP’s Terminal 1"**](https://minnesota.cbslocal.com/2020/01/24/massive-prince-mural-coming-to-msps-terminal-1/)
-
     - in [WCCO - CBS Minnesota](https://minnesota.cbslocal.com/)
     - on 24 January 2020
     - about [airport](../../topics/airport/index.md), [I Would Die 4 U (song)](../../topics/song/i-would-die-4-u/index.md), [Minneapolis-St. Paul International Airport (place)](../../topics/place/minneapolis-st-paul-international-airport/index.md), [museum](../../topics/museum/index.md), [Rock Martinez](../../topics/rock-martinez/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md)
@@ -32,7 +29,6 @@
 ----
 
  - [**"The Roots Among Final Round Of Performers Announced For The 62nd Annual GRAMMY Awards"**](https://minnesota.cbslocal.com/2020/01/24/the-roots-sheila-e-grammy-awards-performers/)
-
     - in [WCCO - CBS Minnesota](https://minnesota.cbslocal.com/)
     - on 24 January 2020
     - about [Alicia Keys](../../topics/alicia-keys/index.md), [Ava DuVernay](../../topics/ava-duvernay/index.md), [Gary Clark Jr.](../../topics/gary-clark-jr/index.md), [Grammy Award](../../topics/grammy-award/index.md), [Gwen Stefani](../../topics/gwen-stefani/index.md), [H.E.R.](../../topics/h-e-r/index.md), [John Legend](../../topics/john-legend/index.md), [Lizzo](../../topics/lizzo/index.md), [Misty Copeland](../../topics/misty-copeland/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [The Roots](../../topics/the-roots/index.md), [Usher](../../topics/usher/index.md)
@@ -41,7 +37,6 @@
 ----
 
  - [**"What Is The Minneapolis Sound? Good Question"**](https://minnesota.cbslocal.com/2020/01/23/what-is-the-minneapolis-sound-good-question/)
-
     - in [WCCO - CBS Minnesota](https://minnesota.cbslocal.com/)
     - on 23 January 2020
     - about [Andrea Swensson](../../topics/andrea-swensson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Lizzo](../../topics/lizzo/index.md), [Morris Day](../../topics/morris-day/index.md), [PBS](../../topics/pbs/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)

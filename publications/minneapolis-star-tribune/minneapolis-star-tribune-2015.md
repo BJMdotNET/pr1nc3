@@ -3,10 +3,8 @@
 ## November 2015 (4)
 
  - [**"Big Gigs for Nov. 20-26: El Vy, Odesza, Ike Reilly Assassination, Glen Hansard, Karrin Allyson, Jamey Johnson and more"**](https://www.startribune.com/the-big-gigs-for-nov-20-26-el-vy-odesza-ike-reilly-assassination-glen-hansard-karrin-allyson-jamey-johnson-and-more/351814661/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 19 November 2015
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/the-big-gigs-for-nov-20-26-el-vy-odesza-ike-reilly-assassination-glen-hansard-karrin-allyson-jamey-johnson-and-more/351814661/))
 
 ----
@@ -24,7 +22,6 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 6 November 2015
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-throwing-a-pair-of-pajama-parties-friday-and-saturday-at-paisley-park/341823141/))
 
 ----
@@ -53,7 +50,6 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 21 October 2015
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/the-fresh-prince-what-s-influenced-his-shift-to-a-more-engaging-public-persona/335082341/))
 
 ----
@@ -62,7 +58,6 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 16 October 2015
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/night-2-at-paisley-park-prince-s-rehearsal-offers-fans-a-look-behind-the-purple-curtain/333162901/))
 
 ----
@@ -71,7 +66,6 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 15 October 2015
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-throws-3-hour-concert-party-for-champion-lynx-at-paisley-park/333016441/))
 
 ----
@@ -91,7 +85,6 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 9 September 2015
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/review-prince-s-new-album-is-hit-and-miss/325974271/))
 
 ----
@@ -100,7 +93,6 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 5 September 2015
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/night-one-of-prince-s-paisley-park-marathon-nothing-but-a-grrrl-prty/324743321/))
 
 ----
@@ -109,13 +101,11 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 2 September 2015
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-announces-three-night-labor-day-weekend-party-at-paisley-park/323932531/))
 
 ----
 
  - [**"Music critic Jon Bream lists his faves from 40 years of concerts, interviews"**](https://www.startribune.com/music-critic-jon-bream-lists-his-faves-from-40-years-of-concerts-and-interviews/323509361/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 1 September 2015
     - about [Jon Bream](../../topics/jon-bream/index.md)
@@ -126,7 +116,6 @@
 ## August 2015 (2)
 
  - [**"C.J.: The bachelorette party was in the secure hands of CBS' Jeff Pegues"**](https://www.startribune.com/c-j-the-bachelorette-party-was-in-the-secure-hands-of-cbs-jeff-pegues/321326941/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 10 August 2015
     - about [C.J.](../../topics/c-j/index.md)
@@ -138,7 +127,6 @@
     - by [Rohan Preston](../../authors/rohan-preston/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 7 August 2015
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/here-s-a-first-prince-opens-paisley-park-to-a-horde-of-journalists/321074861/))
 
 ----
@@ -149,7 +137,6 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 27 July 2015
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/old-purple-rain-house-for-sale-as-new-prince-album-announced/318663971/))
 
 ----
@@ -166,10 +153,8 @@
 ----
 
  - [**"White House refuses to confirm Prince performance for Obama despite guests' tweets about party"**](https://www.startribune.com/white-house-won-t-confirm-prince-performed-for-obama/307405311/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 15 June 2015
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/white-house-won-t-confirm-prince-performed-for-obama/307405311/))
 
 ----
@@ -204,7 +189,6 @@
 ----
 
  - [**"Hornheads jazz group creates unique sound -- The five-piece a cappella horn section records and plays all over the globe."**](https://www.startribune.com/hornheads-jazz-group-creates-unique-sound/302567351/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 5 May 2015
     - about [Chaka Khan](../../topics/chaka-khan/index.md), [Dave Jensen](../../topics/dave-jensen/index.md), [Everything Blows (album)](../../topics/album/everything-blows/index.md), [Hornheads](../../topics/hornheads/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Kathy Jensen](../../topics/kathy-jensen/index.md), [Kenni Holmen](../../topics/kenni-holmen/index.md), [Michael Nelson](../../topics/michael-nelson/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Steve Strand](../../topics/steve-strand/index.md), [Trump](../../topics/trump/index.md)
@@ -215,7 +199,6 @@
 ## April 2015 (1)
 
  - [**"13,000 at writers conference having best, versed of times in Minneapolis"**](https://www.startribune.com/13-000-at-writers-conference-having-best-versed-of-times/299262081/)
-
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 10 April 2015
     - about [airport](../../topics/airport/index.md), [exhibition](../../topics/exhibition/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [museum](../../topics/museum/index.md), [Patricia Smith](../../topics/patricia-smith/index.md)

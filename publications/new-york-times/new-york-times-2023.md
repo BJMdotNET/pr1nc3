@@ -6,7 +6,6 @@
     - by [Lindsay Zoladz](../../authors/lindsay-zoladz/index.md)
     - in [New York Times](https://www.nytimes.com/)
     - on 13 June 2023
-
     - ([mirror](https://web.archive.org/web/*/https://www.nytimes.com/2023/06/13/arts/music/amplifier-newsletter-joni-mitchell-jam.html))
 
 ----
