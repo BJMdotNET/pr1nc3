@@ -20,6 +20,9 @@ items:
 - name: AnalogPlanet
   href: analogplanet/index.md
   homepage: analogplanet/index.md
+- name: antiMusic
+  href: antimusic/index.md
+  homepage: antimusic/index.md
 - name: Architectural Digest
   href: architectural-digest/index.md
   homepage: architectural-digest/index.md
@@ -125,6 +128,9 @@ items:
 - name: Consequence of Sound
   href: consequence-of-sound/index.md
   homepage: consequence-of-sound/index.md
+- name: ContactMusic.com
+  href: contactmusic-com/index.md
+  homepage: contactmusic-com/index.md
 - name: Courier-Gazette & Camden Herald
   href: courier-gazette-camden-herald/index.md
   homepage: courier-gazette-camden-herald/index.md
@@ -143,6 +149,9 @@ items:
 - name: Democracy Now
   href: democracy-now/index.md
   homepage: democracy-now/index.md
+- name: Dig!
+  href: dig/index.md
+  homepage: dig/index.md
 - name: Digital Arts
   href: digital-arts/index.md
   homepage: digital-arts/index.md
@@ -347,9 +356,9 @@ items:
 - name: Music In Minnesota
   href: music-in-minnesota/index.md
   homepage: music-in-minnesota/index.md
-- name: music.avclub.com
-  href: music-avclub-com/index.md
-  homepage: music-avclub-com/index.md
+- name: Music News
+  href: music-news/index.md
+  homepage: music-news/index.md
 - name: musicmayhemmagazine.com
   href: musicmayhemmagazine-com/index.md
   homepage: musicmayhemmagazine-com/index.md
@@ -548,6 +557,9 @@ items:
 - name: Tennessean
   href: tennessean/index.md
   homepage: tennessean/index.md
+- name: The A.V. Club - Music
+  href: the-a-v-club-music/index.md
+  homepage: the-a-v-club-music/index.md
 - name: The Arkansas Democrat-Gazette
   href: the-arkansas-democrat-gazette/index.md
   homepage: the-arkansas-democrat-gazette/index.md
@@ -635,7 +647,7 @@ items:
 - name: thegrio.com
   href: thegrio-com/index.md
   homepage: thegrio-com/index.md
-- name: themusic.com.au
+- name: theMusic.com.au
   href: themusic-com-au/index.md
   homepage: themusic-com-au/index.md
 - name: theriseofprince on Facebook
@@ -740,9 +752,9 @@ items:
 - name: WePresent
   href: wepresent/index.md
   homepage: wepresent/index.md
-- name: writteninmusic.com
-  href: writteninmusic-com/index.md
-  homepage: writteninmusic-com/index.md
+- name: Written in Music
+  href: written-in-music/index.md
+  homepage: written-in-music/index.md
 - name: WTOC-TV
   href: wtoc-tv/index.md
   homepage: wtoc-tv/index.md
@@ -755,9 +767,6 @@ items:
 - name: www.ammonitepress.com
   href: www-ammonitepress-com/index.md
   homepage: www-ammonitepress-com/index.md
-- name: www.antimusic.com
-  href: www-antimusic-com/index.md
-  homepage: www-antimusic-com/index.md
 - name: www.broadwayworld.com
   href: www-broadwayworld-com/index.md
   homepage: www-broadwayworld-com/index.md
@@ -770,9 +779,6 @@ items:
 - name: www.columbian.com
   href: www-columbian-com/index.md
   homepage: www-columbian-com/index.md
-- name: www.contactmusic.com
-  href: www-contactmusic-com/index.md
-  homepage: www-contactmusic-com/index.md
 - name: www.crooner.fr
   href: www-crooner-fr/index.md
   homepage: www-crooner-fr/index.md

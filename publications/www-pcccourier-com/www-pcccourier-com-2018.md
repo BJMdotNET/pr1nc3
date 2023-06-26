@@ -2,7 +2,12 @@
 
 ## September 2018 (1)
 
- - [**"‘The most frightening drummer’ Prince has heard"**](https://www.pcccourier.com/lifestyle/press-play/jacob-armen-a-celebration-of-life-music-and-rhythm.html)<ul><li>in [www.pcccourier.com](https://www.pcccourier.com/)</li><li>on 6 September 2018</li><li>about [Jacob Armen](../../topics/jacob-armen/index.md), [YouTube](../../topics/youtube/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.pcccourier.com/lifestyle/press-play/jacob-armen-a-celebration-of-life-music-and-rhythm.html))</li><ul>
+ - [**"‘The most frightening drummer’ Prince has heard"**](https://www.pcccourier.com/lifestyle/press-play/jacob-armen-a-celebration-of-life-music-and-rhythm.html)
+
+    - in [www.pcccourier.com](https://www.pcccourier.com/)
+    - on 6 September 2018
+    - about [Jacob Armen](../../topics/jacob-armen/index.md), [YouTube](../../topics/youtube/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.pcccourier.com/lifestyle/press-play/jacob-armen-a-celebration-of-life-music-and-rhythm.html))
 
 ----
 

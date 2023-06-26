@@ -1,6 +1,6 @@
 # Minneapolis Star Tribune
 
-  * [2023](./minneapolis-star-tribune-2023.md) (1)
+  * [2023](./minneapolis-star-tribune-2023.md) (2)
   * [2020](./minneapolis-star-tribune-2020.md) (26)
   * [2019](./minneapolis-star-tribune-2019.md) (116)
   * [2018](./minneapolis-star-tribune-2018.md) (88)
