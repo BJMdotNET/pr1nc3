@@ -1,14 +1,29 @@
 # Stacia Lang
 
- - [**"Around the state: Judge rejects claims by Prince divorce lawyer for $600,000 / Musicians from Prince bands to speak at anniversary event"**](https://apnews.com/article/technology-entertainment-music-minneapolis-st-paul-95716b4f4bd946e5ac0a843329ef9f87)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 2 January 2022</li><li>about [BrownMark](../../topics/brownmark/index.md), [Carver County](../../topics/carver-county/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [Celebration 2017 (event)](../../topics/event/celebration-2017/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [divorce](../../topics/divorce/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Levi Seacer](../../topics/levi-seacer/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Matt Fink](../../topics/matt-fink/index.md), [Morris Hayes](../../topics/morris-hayes/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Patrick Cousins](../../topics/patrick-cousins/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Shelby J.](../../topics/shelby-j/index.md), [Stacia Lang](../../topics/stacia-lang/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/technology-entertainment-music-minneapolis-st-paul-95716b4f4bd946e5ac0a843329ef9f87))</li><ul>
+ - [**"Around the state: Judge rejects claims by Prince divorce lawyer for $600,000 / Musicians from Prince bands to speak at anniversary event"**](https://apnews.com/article/technology-entertainment-music-minneapolis-st-paul-95716b4f4bd946e5ac0a843329ef9f87)
+
+    - in [Associated Press News](https://apnews.com/)
+    - on 2 January 2022
+    - about [BrownMark](../../topics/brownmark/index.md), [Carver County](../../topics/carver-county/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [Celebration 2017 (event)](../../topics/event/celebration-2017/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [divorce](../../topics/divorce/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Levi Seacer](../../topics/levi-seacer/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Matt Fink](../../topics/matt-fink/index.md), [Morris Hayes](../../topics/morris-hayes/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Patrick Cousins](../../topics/patrick-cousins/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Shelby J.](../../topics/shelby-j/index.md), [Stacia Lang](../../topics/stacia-lang/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/technology-entertainment-music-minneapolis-st-paul-95716b4f4bd946e5ac0a843329ef9f87))
 
 ----
 
- - [**"Albert Lea-raised costume designer recollects 30-year career"**](https://apnews.com/article/66c715dfb28a45dcaeb04e19c52c8722)<ul><li>in [Associated Press News](https://apnews.com/)</li><li>on 1 April 2019</li><li>about [Paisley Park (place)](../../topics/place/paisley-park/index.md), [PRN Alumni Foundation](../../topics/prn-alumni-foundation/index.md), [Stacia Lang](../../topics/stacia-lang/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://apnews.com/article/66c715dfb28a45dcaeb04e19c52c8722))</li><ul>
+ - [**"Albert Lea-raised costume designer recollects 30-year career"**](https://apnews.com/article/66c715dfb28a45dcaeb04e19c52c8722)
+
+    - in [Associated Press News](https://apnews.com/)
+    - on 1 April 2019
+    - about [Paisley Park (place)](../../topics/place/paisley-park/index.md), [PRN Alumni Foundation](../../topics/prn-alumni-foundation/index.md), [Stacia Lang](../../topics/stacia-lang/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/66c715dfb28a45dcaeb04e19c52c8722))
 
 ----
 
- - [**"Designing for a superstar"**](http://www.albertleatribune.com/2016/05/designing-for-a-superstar/)<ul><li>in [Albert Lea Tribune](http://www.albertleatribune.com/)</li><li>on 1 May 2016</li><li>about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Fashion Institute of Technology](../../topics/fashion-institute-of-technology/index.md), [Helen Hiatt](../../topics/helen-hiatt/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Paisley Park Studios (place)](../../topics/place/paisley-park-studios/index.md), [Stacia Lang](../../topics/stacia-lang/index.md)</li><li>([mirror](https://web.archive.org/web/*/http://www.albertleatribune.com/2016/05/designing-for-a-superstar/))</li><ul>
+ - [**"Designing for a superstar"**](http://www.albertleatribune.com/2016/05/designing-for-a-superstar/)
+
+    - in [Albert Lea Tribune](http://www.albertleatribune.com/)
+    - on 1 May 2016
+    - about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Fashion Institute of Technology](../../topics/fashion-institute-of-technology/index.md), [Helen Hiatt](../../topics/helen-hiatt/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Paisley Park Studios (place)](../../topics/place/paisley-park-studios/index.md), [Stacia Lang](../../topics/stacia-lang/index.md)
+    - ([mirror](https://web.archive.org/web/*/http://www.albertleatribune.com/2016/05/designing-for-a-superstar/))
 
 ----
 

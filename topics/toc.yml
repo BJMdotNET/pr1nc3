@@ -173,6 +173,9 @@ items:
 - name: Ani DiFranco
   href: ani-difranco/index.md
   homepage: ani-difranco/index.md
+- name: animal
+  href: animal/index.md
+  homepage: animal/index.md
 - name: Anita Baker
   href: anita-baker/index.md
   homepage: anita-baker/index.md
@@ -359,6 +362,9 @@ items:
 - name: Bob Merlis
   href: bob-merlis/index.md
   homepage: bob-merlis/index.md
+- name: Bob Seger
+  href: bob-seger/index.md
+  homepage: bob-seger/index.md
 - name: Bobby Z
   href: bobby-z/index.md
   homepage: bobby-z/index.md
@@ -473,9 +479,15 @@ items:
 - name: Carlin Q. Williams
   href: carlin-q-williams/index.md
   homepage: carlin-q-williams/index.md
+- name: Carlos Boozer
+  href: carlos-boozer/index.md
+  homepage: carlos-boozer/index.md
 - name: Carmen Denise Weatherall
   href: carmen-denise-weatherall/index.md
   homepage: carmen-denise-weatherall/index.md
+- name: Carmen Electra
+  href: carmen-electra/index.md
+  homepage: carmen-electra/index.md
 - name: Carrier Dome (place)
   href: place/carrier-dome/index.md
   homepage: place/carrier-dome/index.md
@@ -551,6 +563,9 @@ items:
 - name: Chaos and Disorder (song)
   href: song/chaos-and-disorder/index.md
   homepage: song/chaos-and-disorder/index.md
+- name: Chappelle’s Show (TV show)
+  href: tv-show/chappelle-s-show/index.md
+  homepage: tv-show/chappelle-s-show/index.md
 - name: Chappelle's Show (TV show)
   href: tv-show/chappelle-s-show/index.md
   homepage: tv-show/chappelle-s-show/index.md
@@ -707,6 +722,9 @@ items:
 - name: D’Angelo
   href: d-angelo/index.md
   homepage: d-angelo/index.md
+- name: Daily Mail (newspaper)
+  href: newspaper/daily-mail/index.md
+  homepage: newspaper/daily-mail/index.md
 - name: Dakota (place)
   href: place/dakota/index.md
   homepage: place/dakota/index.md
@@ -833,9 +851,9 @@ items:
 - name: Dirty Mind (tour)
   href: tour/dirty-mind/index.md
   homepage: tour/dirty-mind/index.md
-- name: Divinity
-  href: divinity/index.md
-  homepage: divinity/index.md
+- name: Divinity (animal)
+  href: animal/divinity/index.md
+  homepage: animal/divinity/index.md
 - name: divorce
   href: divorce/index.md
   homepage: divorce/index.md
@@ -1166,6 +1184,9 @@ items:
 - name: Glam Slam (place)
   href: place/glam-slam/index.md
   homepage: place/glam-slam/index.md
+- name: Glam Slam Ulysses
+  href: glam-slam-ulysses/index.md
+  homepage: glam-slam-ulysses/index.md
 - name: Global Music Rights
   href: global-music-rights/index.md
   homepage: global-music-rights/index.md
@@ -1442,6 +1463,9 @@ items:
 - name: Jay Rolandi
   href: jay-rolandi/index.md
   homepage: jay-rolandi/index.md
+- name: Jay Williams
+  href: jay-williams/index.md
+  homepage: jay-williams/index.md
 - name: Jeff Katz
   href: jeff-katz/index.md
   homepage: jeff-katz/index.md
@@ -1631,6 +1655,9 @@ items:
 - name: Kevin Harrison
   href: kevin-harrison/index.md
   homepage: kevin-harrison/index.md
+- name: Kevin Smith
+  href: kevin-smith/index.md
+  homepage: kevin-smith/index.md
 - name: Kew Media Distribution
   href: kew-media-distribution/index.md
   homepage: kew-media-distribution/index.md
@@ -1781,6 +1808,9 @@ items:
 - name: Live Out Loud (tour)
   href: tour/live-out-loud/index.md
   homepage: tour/live-out-loud/index.md
+- name: Lives Of The Musicians - Prince (book)
+  href: book/lives-of-the-musicians-prince/index.md
+  homepage: book/lives-of-the-musicians-prince/index.md
 - name: Liz Flavell
   href: liz-flavell/index.md
   homepage: liz-flavell/index.md
@@ -1865,6 +1895,9 @@ items:
 - name: Mail on Sunday (newspaper)
   href: newspaper/mail-on-sunday/index.md
   homepage: newspaper/mail-on-sunday/index.md
+- name: Majesty (animal)
+  href: animal/majesty/index.md
+  homepage: animal/majesty/index.md
 - name: Maken It Music
   href: maken-it-music/index.md
   homepage: maken-it-music/index.md
@@ -2066,6 +2099,9 @@ items:
 - name: Mo Ostin
   href: mo-ostin/index.md
   homepage: mo-ostin/index.md
+- name: Mo’ Meta Blues (book)
+  href: book/mo-meta-blues/index.md
+  homepage: book/mo-meta-blues/index.md
 - name: Moline, Illinois (place)
   href: place/moline-illinois/index.md
   homepage: place/moline-illinois/index.md
@@ -2252,6 +2288,12 @@ items:
 - name: Nothing Compares 2U (song)
   href: song/nothing-compares-2u/index.md
   homepage: song/nothing-compares-2u/index.md
+- name: Notorious (magazine)
+  href: magazine/notorious/index.md
+  homepage: magazine/notorious/index.md
+- name: Novi Novog
+  href: novi-novog/index.md
+  homepage: novi-novog/index.md
 - name: NPG Music Club (website)
   href: website/npg-music-club/index.md
   homepage: website/npg-music-club/index.md
@@ -2468,6 +2510,9 @@ items:
 - name: Piano and a Microphone 1983 (album)
   href: album/piano-and-a-microphone-1983/index.md
   homepage: album/piano-and-a-microphone-1983/index.md
+- name: ping-pong
+  href: ping-pong/index.md
+  homepage: ping-pong/index.md
 - name: piracy
   href: piracy/index.md
   homepage: piracy/index.md
@@ -2480,6 +2525,9 @@ items:
 - name: Plectrum Electrum (album)
   href: album/plectrum-electrum/index.md
   homepage: album/plectrum-electrum/index.md
+- name: PlectrumElectrum (album)
+  href: album/plectrumelectrum/index.md
+  homepage: album/plectrumelectrum/index.md
 - name: PMRC
   href: pmrc/index.md
   homepage: pmrc/index.md
@@ -2501,6 +2549,9 @@ items:
 - name: Prince & The Revolution
   href: prince-the-revolution/index.md
   homepage: prince-the-revolution/index.md
+- name: Prince And The Purple Rain Era Studio Sessions 1983 And 1984 (book)
+  href: book/prince-and-the-purple-rain-era-studio-sessions-1983-and-1984/index.md
+  homepage: book/prince-and-the-purple-rain-era-studio-sessions-1983-and-1984/index.md
 - name: Prince And The Purple Rain Era Studio Sessions 1983-1984 (book)
   href: book/prince-and-the-purple-rain-era-studio-sessions-1983-1984/index.md
   homepage: book/prince-and-the-purple-rain-era-studio-sessions-1983-1984/index.md
@@ -2750,6 +2801,9 @@ items:
 - name: Rogue Music Alliance, LLC
   href: rogue-music-alliance-llc/index.md
   homepage: rogue-music-alliance-llc/index.md
+- name: roller-skating
+  href: roller-skating/index.md
+  homepage: roller-skating/index.md
 - name: Rolling Stone (magazine)
   href: magazine/rolling-stone/index.md
   homepage: magazine/rolling-stone/index.md
@@ -3038,6 +3092,9 @@ items:
 - name: Suzanne Vega
   href: suzanne-vega/index.md
   homepage: suzanne-vega/index.md
+- name: Suzie Katayama
+  href: suzie-katayama/index.md
+  homepage: suzie-katayama/index.md
 - name: Switzerland (place)
   href: place/switzerland/index.md
   homepage: place/switzerland/index.md
@@ -3557,6 +3614,9 @@ items:
 - name: YesWeCode
   href: yeswecode/index.md
   homepage: yeswecode/index.md
+- name: Yom Kippur
+  href: yom-kippur/index.md
+  homepage: yom-kippur/index.md
 - name: You’re All I Want (song)
   href: song/you-re-all-i-want/index.md
   homepage: song/you-re-all-i-want/index.md

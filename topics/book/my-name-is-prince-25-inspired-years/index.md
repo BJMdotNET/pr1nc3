@@ -1,50 +1,110 @@
 # My Name Is Prince: 25 Inspired Years (book)
 
- - [**"The Iconic Moments of Prince"**](https://www.npr.org/2020/01/27/800304552/the-iconic-moments-of-prince)<ul><li>in [National Public Radio](https://www.npr.org/)</li><li>on 27 January 2020</li><li>about [My Name Is Prince: 25 Inspired Years (book)](../../../topics/book/my-name-is-prince-25-inspired-years/index.md), [Randee St. Nicholas](../../../topics/randee-st-nicholas/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.npr.org/2020/01/27/800304552/the-iconic-moments-of-prince))</li><ul>
+ - [**"The Iconic Moments of Prince"**](https://www.npr.org/2020/01/27/800304552/the-iconic-moments-of-prince)
+
+    - in [National Public Radio](https://www.npr.org/)
+    - on 27 January 2020
+    - about [My Name Is Prince: 25 Inspired Years (book)](../../../topics/book/my-name-is-prince-25-inspired-years/index.md), [Randee St. Nicholas](../../../topics/randee-st-nicholas/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.npr.org/2020/01/27/800304552/the-iconic-moments-of-prince))
 
 ----
 
- - [**"2020 NAACP Image Awards Nominations: The Full List"**](https://www.etonline.com/2020-naacp-image-awards-nominations-the-full-list-139199)<ul><li>in [Entertainment Tonight](https://www.etonline.com/)</li><li>on 9 January 2020</li><li>about [Alicia Keys](../../../topics/alicia-keys/index.md), [Ava DuVernay](../../../topics/ava-duvernay/index.md), [BET Awards](../../../topics/bet-awards/index.md), [Beyoncé](../../../topics/beyonc/index.md), [Black-ish (TV show)](../../../topics/tv-show/black-ish/index.md), [Dan Piepenbring](../../../topics/dan-piepenbring/index.md), [Dave Chappelle](../../../topics/dave-chappelle/index.md), [H.E.R.](../../../topics/h-e-r/index.md), [Janelle Monáe](../../../topics/janelle-mon-e/index.md), [Lizzo](../../../topics/lizzo/index.md), [memoir](../../../topics/memoir/index.md), [Miles Davis](../../../topics/miles-davis/index.md), [My Name Is Prince: 25 Inspired Years (book)](../../../topics/book/my-name-is-prince-25-inspired-years/index.md), [Randee St. Nicholas](../../../topics/randee-st-nicholas/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Tamron Hall](../../../topics/tamron-hall/index.md), [The Beautiful Ones (book)](../../../topics/book/the-beautiful-ones/index.md), [Yara Shahidi](../../../topics/yara-shahidi/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.etonline.com/2020-naacp-image-awards-nominations-the-full-list-139199))</li><ul>
+ - [**"2020 NAACP Image Awards Nominations: The Full List"**](https://www.etonline.com/2020-naacp-image-awards-nominations-the-full-list-139199)
+
+    - in [Entertainment Tonight](https://www.etonline.com/)
+    - on 9 January 2020
+    - about [Alicia Keys](../../../topics/alicia-keys/index.md), [Ava DuVernay](../../../topics/ava-duvernay/index.md), [BET Awards](../../../topics/bet-awards/index.md), [Beyoncé](../../../topics/beyonc/index.md), [Black-ish (TV show)](../../../topics/tv-show/black-ish/index.md), [Dan Piepenbring](../../../topics/dan-piepenbring/index.md), [Dave Chappelle](../../../topics/dave-chappelle/index.md), [H.E.R.](../../../topics/h-e-r/index.md), [Janelle Monáe](../../../topics/janelle-mon-e/index.md), [Lizzo](../../../topics/lizzo/index.md), [memoir](../../../topics/memoir/index.md), [Miles Davis](../../../topics/miles-davis/index.md), [My Name Is Prince: 25 Inspired Years (book)](../../../topics/book/my-name-is-prince-25-inspired-years/index.md), [Randee St. Nicholas](../../../topics/randee-st-nicholas/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Tamron Hall](../../../topics/tamron-hall/index.md), [The Beautiful Ones (book)](../../../topics/book/the-beautiful-ones/index.md), [Yara Shahidi](../../../topics/yara-shahidi/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.etonline.com/2020-naacp-image-awards-nominations-the-full-list-139199))
 
 ----
 
- - [**"NAACP Image Awards Nominees: ‘Harriet,’ ‘When They See Us’, Netflix Lead Way"**](https://deadline.com/2020/01/naacp-image-awards-nominees-list-2020-nominations-1202825419/)<ul><li>in [Deadline](https://deadline.com/)</li><li>on 9 January 2020</li><li>about [Alicia Keys](../../../topics/alicia-keys/index.md), [Ava DuVernay](../../../topics/ava-duvernay/index.md), [BET Awards](../../../topics/bet-awards/index.md), [Beyoncé](../../../topics/beyonc/index.md), [Dan Piepenbring](../../../topics/dan-piepenbring/index.md), [Dave Chappelle](../../../topics/dave-chappelle/index.md), [H.E.R.](../../../topics/h-e-r/index.md), [Janelle Monáe](../../../topics/janelle-mon-e/index.md), [Lizzo](../../../topics/lizzo/index.md), [memoir](../../../topics/memoir/index.md), [Miles Davis](../../../topics/miles-davis/index.md), [My Name Is Prince: 25 Inspired Years (book)](../../../topics/book/my-name-is-prince-25-inspired-years/index.md), [Netflix](../../../topics/netflix/index.md), [PBS](../../../topics/pbs/index.md), [Penguin Random House](../../../topics/penguin-random-house/index.md), [Randee St. Nicholas](../../../topics/randee-st-nicholas/index.md), [Ropeadope](../../../topics/ropeadope/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Tamron Hall](../../../topics/tamron-hall/index.md), [The Beautiful Ones (book)](../../../topics/book/the-beautiful-ones/index.md), [Universal Pictures](../../../topics/universal-pictures/index.md), [Yara Shahidi](../../../topics/yara-shahidi/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://deadline.com/2020/01/naacp-image-awards-nominees-list-2020-nominations-1202825419/))</li><ul>
+ - [**"NAACP Image Awards Nominees: ‘Harriet,’ ‘When They See Us’, Netflix Lead Way"**](https://deadline.com/2020/01/naacp-image-awards-nominees-list-2020-nominations-1202825419/)
+
+    - in [Deadline](https://deadline.com/)
+    - on 9 January 2020
+    - about [Alicia Keys](../../../topics/alicia-keys/index.md), [Ava DuVernay](../../../topics/ava-duvernay/index.md), [BET Awards](../../../topics/bet-awards/index.md), [Beyoncé](../../../topics/beyonc/index.md), [Dan Piepenbring](../../../topics/dan-piepenbring/index.md), [Dave Chappelle](../../../topics/dave-chappelle/index.md), [H.E.R.](../../../topics/h-e-r/index.md), [Janelle Monáe](../../../topics/janelle-mon-e/index.md), [Lizzo](../../../topics/lizzo/index.md), [memoir](../../../topics/memoir/index.md), [Miles Davis](../../../topics/miles-davis/index.md), [My Name Is Prince: 25 Inspired Years (book)](../../../topics/book/my-name-is-prince-25-inspired-years/index.md), [Netflix](../../../topics/netflix/index.md), [PBS](../../../topics/pbs/index.md), [Penguin Random House](../../../topics/penguin-random-house/index.md), [Randee St. Nicholas](../../../topics/randee-st-nicholas/index.md), [Ropeadope](../../../topics/ropeadope/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Tamron Hall](../../../topics/tamron-hall/index.md), [The Beautiful Ones (book)](../../../topics/book/the-beautiful-ones/index.md), [Universal Pictures](../../../topics/universal-pictures/index.md), [Yara Shahidi](../../../topics/yara-shahidi/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://deadline.com/2020/01/naacp-image-awards-nominees-list-2020-nominations-1202825419/))
 
 ----
 
- - [**"20 gift ideas for the music lovers on your holiday list -- Twenty ideas for the music lovers on your holiday list."**](https://www.startribune.com/20-gift-ideas-for-the-music-lovers-on-your-holiday-list/566181501/)<ul><li>in [Minneapolis Star Tribune](https://www.startribune.com/)</li><li>on 16 December 2019</li><li>about [1999 Super Deluxe (album)](../../../topics/album/1999-super-deluxe/index.md), [Bob Dylan](../../../topics/bob-dylan/index.md), [bootleg](../../../topics/bootleg/index.md), [Lizzo](../../../topics/lizzo/index.md), [memoir](../../../topics/memoir/index.md), [Miles Davis](../../../topics/miles-davis/index.md), [Morris Day](../../../topics/morris-day/index.md), [My Name Is Prince: 25 Inspired Years (book)](../../../topics/book/my-name-is-prince-25-inspired-years/index.md), [On Time: A Princely Life in Funk (book)](../../../topics/book/on-time-a-princely-life-in-funk/index.md), [Randee St. Nicholas](../../../topics/randee-st-nicholas/index.md), [Spiegel & Grau](../../../topics/spiegel-grau/index.md), [The Beautiful Ones (book)](../../../topics/book/the-beautiful-ones/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.startribune.com/20-gift-ideas-for-the-music-lovers-on-your-holiday-list/566181501/))</li><ul>
+ - [**"20 gift ideas for the music lovers on your holiday list -- Twenty ideas for the music lovers on your holiday list."**](https://www.startribune.com/20-gift-ideas-for-the-music-lovers-on-your-holiday-list/566181501/)
+
+    - in [Minneapolis Star Tribune](https://www.startribune.com/)
+    - on 16 December 2019
+    - about [1999 Super Deluxe (album)](../../../topics/album/1999-super-deluxe/index.md), [Bob Dylan](../../../topics/bob-dylan/index.md), [bootleg](../../../topics/bootleg/index.md), [Lizzo](../../../topics/lizzo/index.md), [memoir](../../../topics/memoir/index.md), [Miles Davis](../../../topics/miles-davis/index.md), [Morris Day](../../../topics/morris-day/index.md), [My Name Is Prince: 25 Inspired Years (book)](../../../topics/book/my-name-is-prince-25-inspired-years/index.md), [On Time: A Princely Life in Funk (book)](../../../topics/book/on-time-a-princely-life-in-funk/index.md), [Randee St. Nicholas](../../../topics/randee-st-nicholas/index.md), [Spiegel & Grau](../../../topics/spiegel-grau/index.md), [The Beautiful Ones (book)](../../../topics/book/the-beautiful-ones/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/20-gift-ideas-for-the-music-lovers-on-your-holiday-list/566181501/))
 
 ----
 
- - [**"'GMA' anchors share their favorite books of 2019"**](https://www.goodmorningamerica.com/culture/story/gma-anchors-share-favorite-books-2019-67598695)<ul><li>in [www.goodmorningamerica.com](https://www.goodmorningamerica.com/)</li><li>on 12 December 2019</li><li>about [Celebration (event)](../../../topics/event/celebration/index.md), [Donald Trump](../../../topics/donald-trump/index.md), [memoir](../../../topics/memoir/index.md), [My Name Is Prince: 25 Inspired Years (book)](../../../topics/book/my-name-is-prince-25-inspired-years/index.md), [Obama](../../../topics/obama/index.md), [Randee St. Nicholas](../../../topics/randee-st-nicholas/index.md), [Trump](../../../topics/trump/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.goodmorningamerica.com/culture/story/gma-anchors-share-favorite-books-2019-67598695))</li><ul>
+ - [**"'GMA' anchors share their favorite books of 2019"**](https://www.goodmorningamerica.com/culture/story/gma-anchors-share-favorite-books-2019-67598695)
+
+    - in [www.goodmorningamerica.com](https://www.goodmorningamerica.com/)
+    - on 12 December 2019
+    - about [Celebration (event)](../../../topics/event/celebration/index.md), [Donald Trump](../../../topics/donald-trump/index.md), [memoir](../../../topics/memoir/index.md), [My Name Is Prince: 25 Inspired Years (book)](../../../topics/book/my-name-is-prince-25-inspired-years/index.md), [Obama](../../../topics/obama/index.md), [Randee St. Nicholas](../../../topics/randee-st-nicholas/index.md), [Trump](../../../topics/trump/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.goodmorningamerica.com/culture/story/gma-anchors-share-favorite-books-2019-67598695))
 
 ----
 
- - [**""My Name Is Prince": A graceful, powerful photographic tribute to the Purple One -- Randee St. Nicholas' book of photographs taken over 25 years is a lavish look at an artful, inspired life"**](https://www.salon.com/2019/12/07/my-name-is-prince-a-graceful-powerful-photographic-tribute-to-the-purple-one/)<ul><li>in [www.salon.com](https://www.salon.com/)</li><li>on 7 December 2019</li><li>about [My Name Is Prince: 25 Inspired Years (book)](../../../topics/book/my-name-is-prince-25-inspired-years/index.md), [Randee St. Nicholas](../../../topics/randee-st-nicholas/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.salon.com/2019/12/07/my-name-is-prince-a-graceful-powerful-photographic-tribute-to-the-purple-one/))</li><ul>
+ - [**""My Name Is Prince": A graceful, powerful photographic tribute to the Purple One -- Randee St. Nicholas' book of photographs taken over 25 years is a lavish look at an artful, inspired life"**](https://www.salon.com/2019/12/07/my-name-is-prince-a-graceful-powerful-photographic-tribute-to-the-purple-one/)
+
+    - in [www.salon.com](https://www.salon.com/)
+    - on 7 December 2019
+    - about [My Name Is Prince: 25 Inspired Years (book)](../../../topics/book/my-name-is-prince-25-inspired-years/index.md), [Randee St. Nicholas](../../../topics/randee-st-nicholas/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.salon.com/2019/12/07/my-name-is-prince-a-graceful-powerful-photographic-tribute-to-the-purple-one/))
 
 ----
 
- - [**"Prince Photographer Randee St. Nicholas Shares 25 Years of Stories"**](https://www.rollingstone.com/music/music-pictures/prince-photographer-randee-st-nicholas-photo-book-914562/)<ul><li>in [Rolling Stone](https://www.rollingstone.com/)</li><li>on 20 November 2019</li><li>about [My Name Is Prince: 25 Inspired Years (book)](../../../topics/book/my-name-is-prince-25-inspired-years/index.md), [Randee St. Nicholas](../../../topics/randee-st-nicholas/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-pictures/prince-photographer-randee-st-nicholas-photo-book-914562/))</li><ul>
+ - [**"Prince Photographer Randee St. Nicholas Shares 25 Years of Stories"**](https://www.rollingstone.com/music/music-pictures/prince-photographer-randee-st-nicholas-photo-book-914562/)
+
+    - in [Rolling Stone](https://www.rollingstone.com/)
+    - on 20 November 2019
+    - about [My Name Is Prince: 25 Inspired Years (book)](../../../topics/book/my-name-is-prince-25-inspired-years/index.md), [Randee St. Nicholas](../../../topics/randee-st-nicholas/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-pictures/prince-photographer-randee-st-nicholas-photo-book-914562/))
 
 ----
 
- - [**"How The Massive New Prince Photo Book Came Together"**](https://www.billboard.com/articles/news/8541575/prince-photo-book-details-randee-st-nicholas-interview)<ul><li>in [Billboard](https://www.billboard.com/)</li><li>on 1 November 2019</li><li>about [memoir](../../../topics/memoir/index.md), [My Name Is Prince: 25 Inspired Years (book)](../../../topics/book/my-name-is-prince-25-inspired-years/index.md), [Randee St. Nicholas](../../../topics/randee-st-nicholas/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8541575/prince-photo-book-details-randee-st-nicholas-interview))</li><ul>
+ - [**"How The Massive New Prince Photo Book Came Together"**](https://www.billboard.com/articles/news/8541575/prince-photo-book-details-randee-st-nicholas-interview)
+
+    - in [Billboard](https://www.billboard.com/)
+    - on 1 November 2019
+    - about [memoir](../../../topics/memoir/index.md), [My Name Is Prince: 25 Inspired Years (book)](../../../topics/book/my-name-is-prince-25-inspired-years/index.md), [Randee St. Nicholas](../../../topics/randee-st-nicholas/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8541575/prince-photo-book-details-randee-st-nicholas-interview))
 
 ----
 
- - [**"PRINCE, IN PRIVATE AND PUBLIC"**](https://www.interviewmagazine.com/music/prince-private-randee-st-nicholas-book-my-name-is-prince)<ul><li>in [Interview Magazine](https://www.interviewmagazine.com/)</li><li>on 15 October 2019</li><li>about [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [My Name Is Prince: 25 Inspired Years (book)](../../../topics/book/my-name-is-prince-25-inspired-years/index.md), [Randee St. Nicholas](../../../topics/randee-st-nicholas/index.md), [Spike Lee](../../../topics/spike-lee/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.interviewmagazine.com/music/prince-private-randee-st-nicholas-book-my-name-is-prince))</li><ul>
+ - [**"PRINCE, IN PRIVATE AND PUBLIC"**](https://www.interviewmagazine.com/music/prince-private-randee-st-nicholas-book-my-name-is-prince)
+
+    - in [Interview Magazine](https://www.interviewmagazine.com/)
+    - on 15 October 2019
+    - about [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [My Name Is Prince: 25 Inspired Years (book)](../../../topics/book/my-name-is-prince-25-inspired-years/index.md), [Randee St. Nicholas](../../../topics/randee-st-nicholas/index.md), [Spike Lee](../../../topics/spike-lee/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.interviewmagazine.com/music/prince-private-randee-st-nicholas-book-my-name-is-prince))
 
 ----
 
- - [**"My Name Is Prince: 25 Inspired Years—1991 to 2016 -- Randee St. Nicholas. Amistad, $90 (384p) ISBN 978-0-06-293923-4"**](https://www.publishersweekly.com/978-0-06-293923-4)<ul><li>in [Publishers Weekly](https://www.publishersweekly.com/)</li><li>on 27 September 2019</li><li>about [Mayte](../../../topics/mayte/index.md), [My Name Is Prince: 25 Inspired Years (book)](../../../topics/book/my-name-is-prince-25-inspired-years/index.md), [Randee St. Nicholas](../../../topics/randee-st-nicholas/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.publishersweekly.com/978-0-06-293923-4))</li><ul>
+ - [**"My Name Is Prince: 25 Inspired Years—1991 to 2016 -- Randee St. Nicholas. Amistad, $90 (384p) ISBN 978-0-06-293923-4"**](https://www.publishersweekly.com/978-0-06-293923-4)
+
+    - in [Publishers Weekly](https://www.publishersweekly.com/)
+    - on 27 September 2019
+    - about [Mayte](../../../topics/mayte/index.md), [My Name Is Prince: 25 Inspired Years (book)](../../../topics/book/my-name-is-prince-25-inspired-years/index.md), [Randee St. Nicholas](../../../topics/randee-st-nicholas/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.publishersweekly.com/978-0-06-293923-4))
 
 ----
 
- - [**"KIRKUS REVIEW: MY NAME IS PRINCE by Randee St. Nicholas"**](https://www.kirkusreviews.com/book-reviews/randee-st-nicholas/my-name-is-prince/)<ul><li>in [Kirkus Reviews](https://www.kirkusreviews.com/)</li><li>on 28 July 2019</li><li>about [Mayte](../../../topics/mayte/index.md), [Mayte Garcia](../../../topics/mayte-garcia/index.md), [My Name Is Prince: 25 Inspired Years (book)](../../../topics/book/my-name-is-prince-25-inspired-years/index.md), [Randee St. Nicholas](../../../topics/randee-st-nicholas/index.md), [Rearrange (song)](../../../topics/song/rearrange/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.kirkusreviews.com/book-reviews/randee-st-nicholas/my-name-is-prince/))</li><ul>
+ - [**"KIRKUS REVIEW: MY NAME IS PRINCE by Randee St. Nicholas"**](https://www.kirkusreviews.com/book-reviews/randee-st-nicholas/my-name-is-prince/)
+
+    - in [Kirkus Reviews](https://www.kirkusreviews.com/)
+    - on 28 July 2019
+    - about [Mayte](../../../topics/mayte/index.md), [Mayte Garcia](../../../topics/mayte-garcia/index.md), [My Name Is Prince: 25 Inspired Years (book)](../../../topics/book/my-name-is-prince-25-inspired-years/index.md), [Randee St. Nicholas](../../../topics/randee-st-nicholas/index.md), [Rearrange (song)](../../../topics/song/rearrange/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.kirkusreviews.com/book-reviews/randee-st-nicholas/my-name-is-prince/))
 
 ----
 
- - [**"Prince: Unseen Images Unearthed for Randee St. Nicholas Photo Book -- Singer, photographer previously collaborated on 2008 book 21 Nights"**](https://www.rollingstone.com/music/music-news/prince-photo-book-randee-st-nicholas-833631/)<ul><li>in [Rolling Stone](https://www.rollingstone.com/)</li><li>on 10 May 2019</li><li>about [memoir](../../../topics/memoir/index.md), [My Name Is Prince: 25 Inspired Years (book)](../../../topics/book/my-name-is-prince-25-inspired-years/index.md), [Randee St. Nicholas](../../../topics/randee-st-nicholas/index.md)</li><li>([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-news/prince-photo-book-randee-st-nicholas-833631/))</li><ul>
+ - [**"Prince: Unseen Images Unearthed for Randee St. Nicholas Photo Book -- Singer, photographer previously collaborated on 2008 book 21 Nights"**](https://www.rollingstone.com/music/music-news/prince-photo-book-randee-st-nicholas-833631/)
+
+    - in [Rolling Stone](https://www.rollingstone.com/)
+    - on 10 May 2019
+    - about [memoir](../../../topics/memoir/index.md), [My Name Is Prince: 25 Inspired Years (book)](../../../topics/book/my-name-is-prince-25-inspired-years/index.md), [Randee St. Nicholas](../../../topics/randee-st-nicholas/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-news/prince-photo-book-randee-st-nicholas-833631/))
 
 ----
 
