@@ -1,5 +1,9 @@
 # David Marchese
 
+## 2017 (1)
+
+### 2017 March (1)
+
  - [**"Members of the Revolution Share Their 5 Favorite Prince Stories"**](https://www.vulture.com/2017/03/prince-revolution-best-stories.html)
     - by [David Marchese](../../authors/david-marchese/index.md)
     - in [Vulture](https://www.vulture.com/)
@@ -8,6 +12,10 @@
     - ([mirror](https://web.archive.org/web/*/https://www.vulture.com/2017/03/prince-revolution-best-stories.html))
 
 ----
+
+## 2016 (1)
+
+### 2016 April (1)
 
  - [**"24 Outrageous Prince Stories"**](https://www.vulture.com/2014/09/24-outrageous-prince-stories.html)
     - by [David Marchese](../../authors/david-marchese/index.md)

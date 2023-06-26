@@ -1,5 +1,9 @@
 # Elizabeth Aubrey
 
+## 2019 (1)
+
+### 2019 July (1)
+
  - [**"Fan-favourite ‘lost’ Prince song ‘Holly Rock’ is released as a single, with a brand-new video"**](https://www.nme.com/news/music/listen-new-prince-single-holly-rock-new-video-2532592)
     - by [Elizabeth Aubrey](../../authors/elizabeth-aubrey/index.md)
     - in [NME (New Musical Express)](https://www.nme.com/)

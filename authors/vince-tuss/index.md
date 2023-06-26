@@ -1,5 +1,9 @@
 # Vince Tuss
 
+## 2016 (1)
+
+### 2016 March (1)
+
  - [**"Prince is penning a memoir, expected out in fall 2017"**](https://www.startribune.com/prince-is-penning-a-memoir-expected-out-in-2017/372624071/)
     - by [Vince Tuss](../../authors/vince-tuss/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)

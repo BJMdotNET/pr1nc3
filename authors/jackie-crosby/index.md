@@ -1,5 +1,9 @@
 # Jackie Crosby
 
+## 2019 (1)
+
+### 2019 June (1)
+
  - [**"New Prince store at MSP airport reels in fandom"**](https://www.startribune.com/new-prince-store-at-msp-airport-reels-in-fandom/511212802/)
     - by [Jackie Crosby](../../authors/jackie-crosby/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)

@@ -1,5 +1,9 @@
 # Serge F. Kovaleski (The New York Times)
 
+## 2016 (1)
+
+### 2016 July (1)
+
  - [**"Prince Online Museum goes live"**](https://www.startribune.com/prince-online-museum-goes-live/385492131/)
     - by [Serge F. Kovaleski (The New York Times)](../../../authors/the-new-york-times/serge-f-kovaleski/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)

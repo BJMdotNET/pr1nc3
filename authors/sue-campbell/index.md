@@ -1,5 +1,9 @@
 # Sue Campbell
 
+## 2016 (1)
+
+### 2016 October (1)
+
  - [**"Prince-inspired fashions on display at Minneapolis Institute of Art -- The purple pop star inspired this fashionable assemblage in the museum's lobby."**](https://www.startribune.com/prince-inspired-fashions-on-display-at-minneapolis-institute-of-art/396029361/)
     - by [Sue Campbell](../../authors/sue-campbell/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)

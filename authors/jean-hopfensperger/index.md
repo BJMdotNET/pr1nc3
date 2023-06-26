@@ -1,5 +1,9 @@
 # Jean Hopfensperger
 
+## 2019 (1)
+
+### 2019 April (1)
+
  - [**"Gospel of Prince preached at Minnesota seminary"**](https://www.startribune.com/gospel-of-prince-preached-at-minnesota-seminary/508503562/)
     - by [Jean Hopfensperger](../../authors/jean-hopfensperger/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
@@ -8,6 +12,10 @@
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/gospel-of-prince-preached-at-minnesota-seminary/508503562/))
 
 ----
+
+## 2016 (1)
+
+### 2016 May (1)
 
  - [**"'We lost a spiritual brother' in Prince -- A low-profile member in life, the star draws attention to Jehovah's Witnesses after death."**](https://www.startribune.com/prince-s-death-puts-spotlight-on-jehovah-s-witnesses/377972981/)
     - by [Jean Hopfensperger](../../authors/jean-hopfensperger/index.md)

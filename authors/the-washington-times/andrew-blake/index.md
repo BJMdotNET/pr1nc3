@@ -1,5 +1,9 @@
 # Andrew Blake (The Washington Times)
 
+## 2018 (1)
+
+### 2018 October (1)
+
  - [**"Prince estate tells Donald Trump to stop playing ‘Purple Rain’ at campaign rallies"**](https://apnews.com/c4bbf717114ff1f40a142ae260f5afd1)
     - by [Andrew Blake (The Washington Times)](../../../authors/the-washington-times/andrew-blake/index.md)
     - in [Associated Press News](https://apnews.com/)

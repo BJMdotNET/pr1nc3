@@ -1,5 +1,9 @@
 # Tom Von Malder
 
+## 2019 (1)
+
+### 2019 July (1)
+
  - [**"Dylan’s Rolling Thunder Revue, unreleased Prince"**](https://knox.villagesoup.com/p/dylans-rolling-thunder-revue-unreleased-prince/1822785)
     - by [Tom Von Malder](../../authors/tom-von-malder/index.md)
     - in [Courier-Gazette & Camden Herald](https://knox.villagesoup.com/)

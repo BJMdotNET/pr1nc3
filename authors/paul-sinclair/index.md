@@ -1,5 +1,9 @@
 # Paul Sinclair
 
+## 2019 (1)
+
+### 2019 June (1)
+
  - [**"Interview: Prince’s vault archivist, Michael Howe, talks to SDE"**](https://www.superdeluxeedition.com/interview/princes-archivist-michael-howe-talks-to-sde/)
     - by [Paul Sinclair](../../authors/paul-sinclair/index.md)
     - in [SuperDeluxeEdition](https://www.superdeluxeedition.com/)

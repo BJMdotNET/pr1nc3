@@ -1,5 +1,9 @@
 # David Chiu
 
+## 2019 (1)
+
+### 2019 July (1)
+
  - [**"Prince And The Revolution’s Lisa Coleman On Her New Solo LP And ‘Purple Rain’ Turning 35"**](https://www.forbes.com/sites/davidchiu/2019/07/09/prince-and-the-revolutions-lisa-coleman-on-her-new-solo-lp-and-purple-rain-turning-35/)
     - by [David Chiu](../../authors/david-chiu/index.md)
     - in [Forbes](https://www.forbes.com/)

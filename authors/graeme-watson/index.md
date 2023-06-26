@@ -1,5 +1,9 @@
 # Graeme Watson
 
+## 2019 (1)
+
+### 2019 June (1)
+
  - [**"New record delves into Prince’s archive of tunes he gave to others"**](https://www.outinperth.com/new-record-delves-into-princes-archive-of-tunes-he-gave-to-others/)
     - by [Graeme Watson](../../authors/graeme-watson/index.md)
     - in [OUT In Perth](https://www.outinperth.com/)

@@ -1,5 +1,9 @@
 # Randy Slovacek
 
+## 2019 (1)
+
+### 2019 October (1)
+
  - [**"A Father Surprises At Son’s 25th Anniversary Celebration"**](https://instinctmagazine.com/a-father-surprises-at-sons-25th-anniversary-celebration/)
     - by [Randy Slovacek](../../authors/randy-slovacek/index.md)
     - in [instinctmagazine.com](https://instinctmagazine.com/)

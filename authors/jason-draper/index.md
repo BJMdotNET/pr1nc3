@@ -1,5 +1,9 @@
 # Jason Draper
 
+## 2022 (1)
+
+### 2022 June (1)
+
  - [**"Purple Rain: The Story Behind Prince’s Career-Defining Song -- The song most associated with Prince, Purple Rain is an epic power ballad that embodied its creator’s search for transcendence through music."**](https://www.thisisdig.com/feature/purple-rain-prince-song-story/)
     - by [Jason Draper](../../authors/jason-draper/index.md)
     - in [Dig!](https://www.thisisdig.com/)
@@ -9,6 +13,10 @@
 
 ----
 
+## 2021 (2)
+
+### 2021 October (1)
+
  - [**"1999: Why Prince’s Visionary Album Still Sounds Like The Future -- With his '1999' album, Prince perfected the ‘Minneapolis sound’: a futuristic pop-funk concoction the world has yet to catch up with."**](https://www.thisisdig.com/feature/1999-album-prince/)
     - by [Jason Draper](../../authors/jason-draper/index.md)
     - in [Dig!](https://www.thisisdig.com/)
@@ -17,6 +25,8 @@
     - ([mirror](https://web.archive.org/web/*/https://www.thisisdig.com/feature/1999-album-prince/))
 
 ----
+
+### 2021 June (1)
 
  - [**"Purple Rain: How Prince Stormed His Way To Superstardom -- Creating the zeitgeist, Prince’s ‘Purple Rain’ era raised the bars for music, cinema and live performance. No one has come close since."**](https://www.thisisdig.com/feature/prince-purple-rain-album/)
     - by [Jason Draper](../../authors/jason-draper/index.md)

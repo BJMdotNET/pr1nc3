@@ -1,5 +1,9 @@
 # Richard Chin
 
+## 2019 (1)
+
+### 2019 April (1)
+
  - [**"David Bourn, projectionist who lit up the skies and put Prince in the spotlight, dies at 77"**](https://www.startribune.com/david-bourn-projectionist-who-lit-up-the-skies-and-put-prince-in-the-spotlight-dies-at-77/508966712/)
     - by [Richard Chin](../../authors/richard-chin/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)

@@ -1,13 +1,18 @@
 # Jeff Baenen (Associated Press)
 
+## 2018 (3)
+
+### 2018 December (1)
+
  - [**"Walz win, Omar to Congress, Mauer retires top Minnesota news"**](https://www.startribune.com/walz-win-omar-to-congress-mauer-retires-top-minnesota-news/503383762/)
     - by [Jeff Baenen (Associated Press)](../../../authors/associated-press/jeff-baenen/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 22 December 2018
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/walz-win-omar-to-congress-mauer-retires-top-minnesota-news/503383762/))
 
 ----
+
+### 2018 September (2)
 
  - [**"Prince’s new basement tape: Just him singing, playing piano"**](https://apnews.com/e0a9e78a662c40d3adee133110bc8489)
     - by [Jeff Baenen (Associated Press)](../../../authors/associated-press/jeff-baenen/index.md)
@@ -16,16 +21,19 @@
     - about [17 Days (song)](../../../topics/song/17-days/index.md), [Aretha Franklin](../../../topics/aretha-franklin/index.md), [Cold Coffee & Cocaine (song)](../../../topics/song/cold-coffee-cocaine/index.md), [fentanyl](../../../topics/fentanyl/index.md), [fentanyl overdose](../../../topics/fentanyl-overdose/index.md), [Joni Mitchell](../../../topics/joni-mitchell/index.md), [Legacy Recordings](../../../topics/legacy-recordings/index.md), [Lisa Coleman](../../../topics/lisa-coleman/index.md), [Michael Howe](../../../topics/michael-howe/index.md), [NPG Records](../../../topics/npg-records/index.md), [Piano and a Microphone 1983 (album)](../../../topics/album/piano-and-a-microphone-1983/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Sony Music](../../../topics/sony-music/index.md), [Sony Music Entertainment](../../../topics/sony-music-entertainment/index.md), [Troy Carter](../../../topics/troy-carter/index.md), [Warner Bros. Records](../../../topics/warner-bros-records/index.md), [Why The Butterflies (song)](../../../topics/song/why-the-butterflies/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/e0a9e78a662c40d3adee133110bc8489))
 
-----
+<br />
 
  - [**"Prince's new basement tape: Just him singing, playing piano"**](https://www.startribune.com/prince-s-new-basement-tape-just-him-singing-playing-piano/493611431/)
     - by [Jeff Baenen (Associated Press)](../../../authors/associated-press/jeff-baenen/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 18 September 2018
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-s-new-basement-tape-just-him-singing-playing-piano/493611431/))
 
 ----
+
+## 2017 (2)
+
+### 2017 July (1)
 
  - [**"
                                             Minnesota judge cancels Universal deal with Prince estate
@@ -38,6 +46,8 @@
 
 ----
 
+### 2017 April (1)
+
  - [**"Prince left behind a treasure trove to see at Paisley Park"**](https://apnews.com/a5f775426be44b65a5cbe3d790774288)
     - by [Jeff Baenen (Associated Press)](../../../authors/associated-press/jeff-baenen/index.md)
     - in [Associated Press News](https://apnews.com/)
@@ -47,14 +57,21 @@
 
 ----
 
+## 2016 (1)
+
+### 2016 April (1)
+
  - [**"Publicist: Pop superstar Prince dies at his Minnesota home"**](https://www.startribune.com/publicist-pop-superstar-prince-dies-at-his-minnesota-home/376584031/)
     - by [Hillel Italie (Associated Press)](../../../authors/associated-press/hillel-italie/index.md), [Jeff Baenen (Associated Press)](../../../authors/associated-press/jeff-baenen/index.md), [Nekesa Mumbi Moody (Associated Press)](../../../authors/associated-press/nekesa-mumbi-moody/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 21 April 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/publicist-pop-superstar-prince-dies-at-his-minnesota-home/376584031/))
 
 ----
+
+## 2015 (1)
+
+### 2015 October (1)
 
  - [**"Prince invites fans to party with him at Paisley Park"**](https://apnews.com/93c56737c5344b9597794d00449d08e3)
     - by [Jeff Baenen (Associated Press)](../../../authors/associated-press/jeff-baenen/index.md)

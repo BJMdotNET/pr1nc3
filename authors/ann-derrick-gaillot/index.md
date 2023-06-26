@@ -1,5 +1,9 @@
 # Ann-Derrick Gaillot
 
+## 2019 (1)
+
+### 2019 July (1)
+
  - [**"How Long Does It Take to Make a Classic Album? -- From D’Angelo’s infamously slow creative pace to Frank Sinatra’s rapid-fire release schedule, our expectations of artists’ output have always been in flux."**](https://pitchfork.com/features/article/how-long-does-it-take-to-make-a-classic-album/)
     - by [Ann-Derrick Gaillot](../../authors/ann-derrick-gaillot/index.md)
     - in [Pitchfork](https://pitchfork.com/)

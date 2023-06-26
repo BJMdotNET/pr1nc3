@@ -1,5 +1,9 @@
 # Serge Simonart
 
+## 2019 (1)
+
+### 2019 July (1)
+
  - [**"Prince: Humo sprak met zijn manager en muze. 'Wij hadden een heerlijk seksleven, maar als er een song in z'n hoofd opdook, moest ik wijken'"**](https://www.humo.be/humo-archief/403403/prince-humo-sprak-met-zijn-manager-en-muze-wij-hadden-een-heerlijk-seksleven-maar-als-er-een-song-in-zn-hoofd-opdook-moest-ik-wijken)
     - by [Serge Simonart](../../authors/serge-simonart/index.md)
     - in [Humo](https://www.humo.be/)

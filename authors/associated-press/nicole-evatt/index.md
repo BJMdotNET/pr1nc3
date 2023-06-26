@@ -1,5 +1,9 @@
 # Nicole Evatt (Associated Press)
 
+## 2016 (1)
+
+### 2016 April (1)
+
  - [**"Prince's 'Purple Rain' coat is up for auction"**](https://www.startribune.com/ap-exclusive-prince-s-purple-rain-coat-is-up-for-auction/377542161/)
     - by [Nicole Evatt (Associated Press)](../../../authors/associated-press/nicole-evatt/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)

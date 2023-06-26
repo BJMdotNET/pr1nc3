@@ -1,13 +1,20 @@
 # Chevel Johnson (Associated Press)
 
+## 2016 (1)
+
+### 2016 June (1)
+
  - [**"New Orleans ready to 'party with a purpose' at Essence Fest"**](https://www.startribune.com/new-orleans-ready-to-party-with-a-purpose-at-essence-fest/384987441/)
     - by [Chevel Johnson (Associated Press)](../../../authors/associated-press/chevel-johnson/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 30 June 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/new-orleans-ready-to-party-with-a-purpose-at-essence-fest/384987441/))
 
 ----
+
+## 2014 (1)
+
+### 2014 July (1)
 
  - [**"Prince returns for Essence’s 20th celebration"**](https://apnews.com/article/archive-new-orleans-prince-a9a20eb9615b48c384ca2b6bf861b241)
     - by [Chevel Johnson (Associated Press)](../../../authors/associated-press/chevel-johnson/index.md)

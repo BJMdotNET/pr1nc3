@@ -1,5 +1,9 @@
 # Mary Lynn Smith
 
+## 2017 (1)
+
+### 2017 January (1)
+
  - [**"Carver County judge decides not to appoint a co-executor for Prince's estate -- Comerica Bank & Trust will solely manage the multimillion estate."**](https://www.startribune.com/carver-county-judge-decides-not-to-appoint-a-co-executor-for-prince-s-estate/411678576/)
     - by [Mary Lynn Smith](../../authors/mary-lynn-smith/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
@@ -8,6 +12,10 @@
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/carver-county-judge-decides-not-to-appoint-a-co-executor-for-prince-s-estate/411678576/))
 
 ----
+
+## 2016 (1)
+
+### 2016 July (1)
 
  - [**"List of potential Prince heirs is narrowed -- In a 19-page ruling Friday, District Judge Kevin Eide partly untangled the complicated issues surrounding the question of who stands to inherit Prince's bounty."**](https://www.startribune.com/carver-county-judge-narrows-list-of-potential-prince-heirs/388696721/)
     - by [Mary Lynn Smith](../../authors/mary-lynn-smith/index.md)

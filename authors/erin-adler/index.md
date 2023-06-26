@@ -1,5 +1,9 @@
 # Erin Adler
 
+## 2017 (1)
+
+### 2017 June (1)
+
  - [**"Carver County Historical Society scores trove of Paisley Park photos -- The photos, taken by a friend, capture Prince's home at a time when no pictures were allowed."**](https://www.startribune.com/carver-county-historical-society-scores-trove-of-paisley-park-photos/426764851/)
     - by [Erin Adler](../../authors/erin-adler/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
@@ -8,6 +12,10 @@
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/carver-county-historical-society-scores-trove-of-paisley-park-photos/426764851/))
 
 ----
+
+## 2016 (1)
+
+### 2016 October (1)
 
  - [**"Paisley Park museum finally gets go-ahead from Chanhassen -- After weeks of hesitation, Chanhassen signs off on zoning permits."**](https://www.startribune.com/paisley-park-museum-finally-gets-go-ahead-from-chanhassen/398282691/)
     - by [Erin Adler](../../authors/erin-adler/index.md)

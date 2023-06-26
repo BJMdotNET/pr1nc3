@@ -1,5 +1,9 @@
 # Jon Winkler
 
+## 2019 (1)
+
+### 2019 June (1)
+
  - [**"Album Review: Prince – “Originals”"**](https://www.theyoungfolks.com/review/133972/album-review-prince-originals/)
     - by [Jon Winkler](../../authors/jon-winkler/index.md)
     - in [The Young Folks](https://www.theyoungfolks.com/)

@@ -1,5 +1,9 @@
 # Jenn Pelly
 
+## 2023 (1)
+
+### 2023 June (1)
+
  - [**"The Awe and Promise of Joni Mitchell’s Live Return -- At her first headlining concert in more than two decades, the incomparable singer-songwriter led a star-studded affair, burnishing her legend."**](https://pitchfork.com/thepitch/the-awe-and-promise-of-joni-mitchells-live-return/)
     - by [Jenn Pelly](../../authors/jenn-pelly/index.md)
     - in [Pitchfork](https://pitchfork.com/)

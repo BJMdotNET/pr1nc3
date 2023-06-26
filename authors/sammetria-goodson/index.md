@@ -1,5 +1,9 @@
 # Sammetria Goodson
 
+## 2017 (1)
+
+### 2017 September (1)
+
  - [**"Transformative Use v. Derivative Use:  Will the Outcome of a Recent Lawsuit Test the Limits of Fair Use Doctrine, or Result in a Free-for-all?"**](https://www.asmp.org/legal/transformative-use-v-derivative-use-will-outcome-recent-lawsuit-test-limits-fair-use-doctrine-result-free/)
     - by [ASMP](../../authors/asmp/index.md), [Sammetria Goodson](../../authors/sammetria-goodson/index.md), [Thomas Maddrey](../../authors/thomas-maddrey/index.md)
     - in [ASMP -- American Society of Media Photographers](https://www.asmp.org/)

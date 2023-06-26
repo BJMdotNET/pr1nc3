@@ -1,5 +1,9 @@
 # Brian Truitt
 
+## 2019 (1)
+
+### 2019 July (1)
+
  - [**"'Purple Rain' 35th anniversary: We dive into the Prince cult classic for the first time"**](https://usatoday.com/story/entertainment/movies/2019/07/25/purple-rain-35th-anniversary-does-prince-cult-film-hold-up/1817029001/)
     - by [Brian Truitt](../../authors/brian-truitt/index.md), [Patrick Ryan](../../authors/patrick-ryan/index.md)
     - in [USA Today](https://usatoday.com/)

@@ -1,5 +1,9 @@
 # Going Out Guide staff
 
+## 2019 (1)
+
+### 2019 July (1)
+
  - [**"14 things to do in the D.C. area this week"**](https://www.washingtonpost.com/dc-md-va/2019/07/22/things-do-dc-area-this-week/)
     - by [Going Out Guide staff](../../authors/going-out-guide-staff/index.md)
     - in [Washington Post](https://www.washingtonpost.com/)

@@ -1,5 +1,9 @@
 # David Chanen
 
+## 2019 (1)
+
+### 2019 March (1)
+
  - [**"Chanhassen City Council approves housing and park plan on former Prince property"**](https://www.startribune.com/chanhassen-council-approves-housing-and-park-plan-on-former-prince-property/507037042/))
     - by [David Chanen](../../authors/david-chanen/index.md), [Katy Read](../../authors/katy-read/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
@@ -9,6 +13,10 @@
 
 ----
 
+## 2018 (3)
+
+### 2018 April (2)
+
  - [**"Documents: Airplane scare was beginning of the end of Prince's struggles with opioids -- Long-awaited investigative documents released Thursday give the clearest narrative yet of the singer's problems with opioid addiction in his final days."**](https://www.startribune.com/documents-airplane-scare-was-beginning-of-the-end-of-prince-s-struggles-with-opioids/480325903/)
     - by [Dan Browning](../../authors/dan-browning/index.md), [David Chanen](../../authors/david-chanen/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
@@ -16,34 +24,37 @@
     - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [fentanyl](../../topics/fentanyl/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Meron Bekure](../../topics/meron-bekure/index.md), [Vicodin](../../topics/vicodin/index.md), [Walgreens](../../topics/walgreens/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/documents-airplane-scare-was-beginning-of-the-end-of-prince-s-struggles-with-opioids/480325903/))
 
-----
+<br />
 
  - [**"Prosecutor to announce Thursday whether charges will be filed in Prince's death -- To date, no one has been charged or publicly implicated in the musician's death."**](https://www.startribune.com/investigation-into-prince-s-death-wraps-up/480141583/)
     - by [David Chanen](../../authors/david-chanen/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 18 April 2018
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/investigation-into-prince-s-death-wraps-up/480141583/))
 
 ----
+
+### 2018 March (1)
 
  - [**"Prince heirs claim excessive lawyer's fees will leave 'little … to pass on' -- Estate has been estimated to be worth $100 million to $300 million before tax."**](https://www.startribune.com/prince-heirs-claim-excessive-lawyer-s-fees-will-leave-nothing-for-inheritance/475689933/)
     - by [David Chanen](../../authors/david-chanen/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 2 March 2018
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-heirs-claim-excessive-lawyer-s-fees-will-leave-nothing-for-inheritance/475689933/))
 
 ----
+
+## 2017 (10)
+
+### 2017 November (2)
 
  - [**"Bank managing Prince's estate punches back against heirs -- Bank has filed documents countering claims by heirs that it has cost the estate millions."**](https://www.startribune.com/bank-managing-prince-s-estate-punches-back-against-heirs/457300243/)
     - by [David Chanen](../../authors/david-chanen/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 13 November 2017
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/bank-managing-prince-s-estate-punches-back-against-heirs/457300243/))
 
-----
+<br />
 
  - [**"Prince estate alleges Roc Nation used a fraudulent contract to stream the artist's songs"**](https://www.startribune.com/prince-estate-alleges-roc-nation-used-a-fraudulent-contract-to-stream-the-artist-s-songs/456728283/)
     - by [David Chanen](../../authors/david-chanen/index.md)
@@ -54,25 +65,27 @@
 
 ----
 
+### 2017 October (1)
+
  - [**"
                                             Three Prince heirs demand a new administrator for the artist's massive estate
 "**](https://www.startribune.com/several-prince-heirs-demand-a-new-administrator-for-the-artist-s-massive-estate/454144553/)
     - by [David Chanen](../../authors/david-chanen/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 30 October 2017
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/several-prince-heirs-demand-a-new-administrator-for-the-artist-s-massive-estate/454144553/))
 
 ----
+
+### 2017 May (2)
 
  - [**"Judge officially rules on heirs to Prince's fortune -- Sister and five half-siblings win ruling, but the legal wrangling over his estate is far from over."**](https://www.startribune.com/judge-officially-rules-on-heirs-to-prince-s-fortune/423173933/)
     - by [David Chanen](../../authors/david-chanen/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 19 May 2017
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/judge-officially-rules-on-heirs-to-prince-s-fortune/423173933/))
 
-----
+<br />
 
  - [**"Battle over Prince estate plays on -- Move would start clock ticking on when others can still make claims."**](https://www.startribune.com/battle-over-prince-estate-plays-on/421893663/)
     - by [David Chanen](../../authors/david-chanen/index.md)
@@ -83,14 +96,15 @@
 
 ----
 
+### 2017 April (3)
+
  - [**"Search warrants provide few clues into source of Prince's fatal overdose -- Court documents unsealed Monday reveal details of first searches of the late musician's Paisley Park estate."**](https://www.startribune.com/search-warrants-provide-few-clues-into-source-of-prince-s-fatal-overdose/419614143/)
     - by [David Chanen](../../authors/david-chanen/index.md), [Stephen Montemayor](../../authors/stephen-montemayor/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 17 April 2017
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/search-warrants-provide-few-clues-into-source-of-prince-s-fatal-overdose/419614143/))
 
-----
+<br />
 
  - [**"Carver County plans to unseal search warrants into Prince's death next week -- State and federal investigation is ongoing a year after his death from an accidental drug overdose."**](https://www.startribune.com/carver-county-plans-to-unseal-search-warrants-into-prince-s-death-next-week/419481643/)
     - by [David Chanen](../../authors/david-chanen/index.md)
@@ -99,16 +113,17 @@
     - about [Carver County](../../topics/carver-county/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/carver-county-plans-to-unseal-search-warrants-into-prince-s-death-next-week/419481643/))
 
-----
+<br />
 
  - [**"Prince divorce attorney seeking $600,000 unpaid bill -- Divorce attorney's $600,000 claim was rejected once, but he wants to challenge the decision."**](https://www.startribune.com/prince-divorce-attorney-seeking-600-000-unpaid-bill/418664073/)
     - by [David Chanen](../../authors/david-chanen/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 7 April 2017
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-divorce-attorney-seeking-600-000-unpaid-bill/418664073/))
 
 ----
+
+### 2017 January (2)
 
  - [**"Court holds off determining Prince's legal heirs, picks firm to oversee estate -- Filings in Carver County District Court raised questions of conflicts of interest in the management of the estate."**](https://www.startribune.com/challenges-raised-in-hand-off-of-prince-estate/410513285/)
     - by [Dan Browning](../../authors/dan-browning/index.md), [David Chanen](../../authors/david-chanen/index.md)
@@ -117,7 +132,7 @@
     - about [Carver County](../../topics/carver-county/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/challenges-raised-in-hand-off-of-prince-estate/410513285/))
 
-----
+<br />
 
  - [**"Unsealed Prince divorce file shows luxe lifestyle, dispute over videos, jewels and photos -- The Star Tribune moved to unseal the files after questioning whether they would shed light on why Prince was taking painkillers, any potential heirs, or the value of his estate."**](https://www.startribune.com/unsealed-prince-divorce-file-shows-luxe-lifestyle-dispute-over-videos-jewels-and-photos/410652845/)
     - by [David Chanen](../../authors/david-chanen/index.md), [Rochelle Olson](../../authors/rochelle-olson/index.md)
@@ -128,50 +143,53 @@
 
 ----
 
+## 2016 (6)
+
+### 2016 June (1)
+
  - [**"Prince died from opioid overdose -- Painkillers have long been the focus of the death investigation."**](https://www.startribune.com/prince-died-from-opioid-overdose/381663221/)
     - by [David Chanen](../../authors/david-chanen/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 2 June 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-died-from-opioid-overdose/381663221/))
 
 ----
+
+### 2016 May (4)
 
  - [**"Two possible heirs file claim in Prince estate -- A court motion was filed on behalf of family members identified as a niece and a great-niece."**](https://www.startribune.com/two-possible-heirs-file-claim-in-prince-estate/380037071/)
     - by [Dan Browning](../../authors/dan-browning/index.md), [David Chanen](../../authors/david-chanen/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 18 May 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/two-possible-heirs-file-claim-in-prince-estate/380037071/))
 
-----
+<br />
 
  - [**"Prince had been under a Minnesota doctor's care weeks before his death -- The local physician, who has not been publicly identified, saw the singer in the month before his death."**](https://www.startribune.com/prince-was-under-Minnesota-doctors-care-for-weeks-over-withdrawal-symptoms/378419741/)
     - by [Dan Browning](../../authors/dan-browning/index.md), [David Chanen](../../authors/david-chanen/index.md), [Jeremy Olson](../../authors/jeremy-olson/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 7 May 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-was-under-Minnesota-doctors-care-for-weeks-over-withdrawal-symptoms/378419741/))
 
-----
+<br />
 
  - [**"Source: Percocet was found in Prince's system -- Source says it's not yet clear if the opioid contributed to his death."**](https://www.startribune.com/federal-agents-to-join-prince-death-investigation/378168981/)
     - by [David Chanen](../../authors/david-chanen/index.md), [Jeremy Olson](../../authors/jeremy-olson/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 5 May 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/federal-agents-to-join-prince-death-investigation/378168981/))
 
-----
+<br />
 
  - [**"Prince died amid frantic plans for drug addiction treatment -- California doctor specializing in opioid addiction had been called to help with a 'grave medical emergency.'"**](https://www.startribune.com/addiction-doctor-was-to-have-seen-prince-just-before-his-death/378051471/)
     - by [David Chanen](../../authors/david-chanen/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 4 May 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/addiction-doctor-was-to-have-seen-prince-just-before-his-death/378051471/))
 
 ----
+
+### 2016 April (1)
 
  - [**"Investigation into Prince's death now is a criminal probe -- The Carver County Sheriff's Office cited an exception to Minnesota public records laws allowing the suppression of information relating to preparing a case "for the commission of a crime.""**](https://www.startribune.com/carver-county-judge-seals-search-warrants-in-prince-death-investigation/377456111/)
     - by [David Chanen](../../authors/david-chanen/index.md)

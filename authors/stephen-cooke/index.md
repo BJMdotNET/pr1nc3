@@ -1,5 +1,9 @@
 # Stephen Cooke
 
+## 2019 (1)
+
+### 2019 July (1)
+
  - [**"Sheila E. brings the glam to jazz fest"**](https://www.thechronicleherald.ca/living/sheila-e-brings-the-glam-to-jazz-fest-329717/)
     - by [Stephen Cooke](../../authors/stephen-cooke/index.md)
     - in [The Chronicle Herald](https://www.thechronicleherald.ca/)

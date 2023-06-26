@@ -1,5 +1,9 @@
 # Kory Grow
 
+## 2019 (1)
+
+### 2019 June (1)
+
  - [**"Prince’s Unearthed ‘Originals’: Collaborators Look Back on the Hits He Passed Along -- As demos of future classics like “Manic Monday” and Nothing Compares 2 U” finally see official release, Apollonia, the Bangles’ Susanna Hoffs, and others recall the artist’s “otherworldly” songwriting talents"**](https://www.rollingstone.com/music/music-features/prince-originals-interview-842940/)
     - by [Kory Grow](../../authors/kory-grow/index.md)
     - in [Rolling Stone](https://www.rollingstone.com/)

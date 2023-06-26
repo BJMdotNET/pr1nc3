@@ -1,5 +1,9 @@
 # Padraig Cotter
 
+## 2019 (1)
+
+### 2019 July (1)
+
  - [**"DC Once Turned Prince Into A Batman-Style Superhero"**](https://screenrant.com/prince-comic-book-dc-alter-ego/)
     - by [Padraig Cotter](../../authors/padraig-cotter/index.md)
     - in [ScreenRant](https://screenrant.com/)

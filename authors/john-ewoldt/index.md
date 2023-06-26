@@ -1,5 +1,9 @@
 # John Ewoldt
 
+## 2016 (1)
+
+### 2016 May (1)
+
  - [**"MCAD will auction early Prince photo by Robert Whitman Friday"**](https://www.startribune.com/mcad-will-auction-early-prince-photo-by-robert-whitman-friday/379940691/)
     - by [John Ewoldt](../../authors/john-ewoldt/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)

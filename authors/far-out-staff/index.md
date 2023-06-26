@@ -1,5 +1,9 @@
 # Far Out Staff
 
+## 2019 (1)
+
+### 2019 July (1)
+
  - [**"Prince’s often-hidden first performance of ‘Purple Rain’ from 1983 is amazing"**](https://faroutmagazine.co.uk/prince-rare-purple-rain-first-performance/)
     - by [Far Out Staff](../../authors/far-out-staff/index.md)
     - in [Far Out Magazine](https://faroutmagazine.co.uk/)

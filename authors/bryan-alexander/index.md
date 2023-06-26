@@ -1,5 +1,9 @@
 # Bryan Alexander
 
+## 2018 (1)
+
+### 2018 December (1)
+
  - [**"Let's go crazy! Songs by Prince will be the star of a new movie musical"**](https://usatoday.com/story/life/movies/2018/12/03/prince-inspired-movie-musical-make-artists-songs-film-star/2196507002/)
     - by [Bryan Alexander](../../authors/bryan-alexander/index.md)
     - in [USA Today](https://usatoday.com/)

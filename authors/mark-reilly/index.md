@@ -1,5 +1,9 @@
 # Mark Reilly
 
+## 2020 (1)
+
+### 2020 February (1)
+
  - [**"Prince estate fight gets even thornier with heir's death and will"**](https://www.bizjournals.com/twincities/news/2020/02/23/prince-estate-fight-gets-even-thornier-with-heirs.html)
     - by [Mark Reilly](../../authors/mark-reilly/index.md)
     - in [Minneapolis / St. Paul Business Journal](https://www.bizjournals.com/twincities/)

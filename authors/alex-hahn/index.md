@@ -1,5 +1,9 @@
 # Alex Hahn
 
+## 2020 (1)
+
+### 2020 January (1)
+
  - [**"Alex Hahn about the Prince documentary Netflix is working on"**](https://www.facebook.com/groups/theriseofprince/permalink/1071260089885116/)
     - by [Alex Hahn](../../authors/alex-hahn/index.md)
     - in [theriseofprince on Facebook](https://www.facebook.com/groups/theriseofprince/)

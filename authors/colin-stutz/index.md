@@ -1,5 +1,9 @@
 # Colin Stutz
 
+## 2016 (1)
+
+### 2016 April (1)
+
  - [**"Suzanne Vega Shares Handwritten Letter From Prince"**](https://www.billboard.com/articles/news/7341897/suzanne-vega-prince-handwritten-letter-luka)
     - by [Colin Stutz](../../authors/colin-stutz/index.md)
     - in [Billboard](https://www.billboard.com/)

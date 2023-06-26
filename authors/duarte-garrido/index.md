@@ -1,5 +1,9 @@
 # Duarte Garrido
 
+## 2017 (1)
+
+### 2017 June (1)
+
  - [**"Song by Prince's father John L Nelson released to mark 101st birthday -- John Nelson, AKA Prince Rogers, was a jazz pianist who co-wrote some of the late artist's songs, including Computer Blue."**](https://news.sky.com/story/song-by-princes-father-john-l-nelson-released-to-mark-101st-birthday-10930753)
     - by [Duarte Garrido](../../authors/duarte-garrido/index.md)
     - in [news.sky.com](https://news.sky.com/)

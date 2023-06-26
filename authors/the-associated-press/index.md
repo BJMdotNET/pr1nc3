@@ -1,5 +1,9 @@
 # The Associated Press
 
+## 2019 (6)
+
+### 2019 April (2)
+
  - [**"New Prince album featuring unreleased demos out in June"**](https://www.startribune.com/new-prince-album-featuring-unreleased-demos-out-in-june/509058902/)
     - by [The Associated Press](../../authors/the-associated-press/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
@@ -7,7 +11,7 @@
     - about [Joey Coco](../../topics/joey-coco/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Originals (album)](../../topics/album/originals/index.md), [Sheila E.](../../topics/sheila-e/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/new-prince-album-featuring-unreleased-demos-out-in-june/509058902/))
 
-----
+<br />
 
  - [**"New Prince album featuring unreleased demos out in June"**](https://apnews.com/f60b62d07cd74a92aec4ceb6d9c338f1)
     - by [The Associated Press](../../authors/the-associated-press/index.md)
@@ -18,6 +22,8 @@
 
 ----
 
+### 2019 March (2)
+
  - [**"Herb Ritts photos of Bowie, Madonna, more to be exhibited"**](https://apnews.com/1c8308821f394c988d91e49742dbd17e)
     - by [The Associated Press](../../authors/the-associated-press/index.md)
     - in [Associated Press News](https://apnews.com/)
@@ -25,7 +31,7 @@
     - about [Herb Ritts](../../topics/herb-ritts/index.md), [museum](../../topics/museum/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/1c8308821f394c988d91e49742dbd17e))
 
-----
+<br />
 
  - [**"Herb Ritts photos of Bowie, Madonna, more to be exhibited"**](https://www.startribune.com/herb-ritts-photos-of-bowie-madonna-more-to-be-exhibited/507913581/)
     - by [The Associated Press](../../authors/the-associated-press/index.md)
@@ -36,6 +42,8 @@
 
 ----
 
+### 2019 February (2)
+
  - [**"The Latest: Klobuchar points to Prince in talking drug issue"**](https://apnews.com/a1facc441faa45c08d75963d0e49a9dc)
     - by [The Associated Press](../../authors/the-associated-press/index.md)
     - in [Associated Press News](https://apnews.com/)
@@ -43,7 +51,7 @@
     - about [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [opioid](../../topics/opioid/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/a1facc441faa45c08d75963d0e49a9dc))
 
-----
+<br />
 
  - [**"The Latest: Klobuchar points to Prince in talking drug issue"**](https://www.startribune.com/the-latest-klobuchar-points-to-prince-in-talking-drug-issue/506023432/)
     - by [The Associated Press](../../authors/the-associated-press/index.md)
@@ -54,6 +62,10 @@
 
 ----
 
+## 2018 (3)
+
+### 2018 October (1)
+
  - [**"Prince estate to Trump: Stop using music at rallies"**](https://apnews.com/af0a5a4fc34d48ffb9f29da4c5ef9771)
     - by [The Associated Press](../../authors/the-associated-press/index.md)
     - in [Associated Press News](https://apnews.com/)
@@ -62,6 +74,8 @@
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/af0a5a4fc34d48ffb9f29da4c5ef9771))
 
 ----
+
+### 2018 September (1)
 
  - [**"Prince’s estate sues alleged European piracy network"**](https://apnews.com/7175907b6f0247e79365312718c0b1b6)
     - by [The Associated Press](../../authors/the-associated-press/index.md)
@@ -72,6 +86,8 @@
 
 ----
 
+### 2018 June (1)
+
  - [**"Prince estate, Sony ink distribution deal for 35 albums"**](https://apnews.com/3f346190027d4601a34fa81f7cf165a2)
     - by [The Associated Press](../../authors/the-associated-press/index.md)
     - in [Associated Press News](https://apnews.com/)
@@ -81,16 +97,21 @@
 
 ----
 
+## 2017 (4)
+
+### 2017 August (1)
+
  - [**"
                                             Pantone creates 'Purple Rain' hue to honor Prince
 "**](https://www.startribune.com/pantone-creates-shade-of-purple-named-for-prince-symbol/440365233/)
     - by [The Associated Press](../../authors/the-associated-press/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 14 August 2017
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/pantone-creates-shade-of-purple-named-for-prince-symbol/440365233/))
 
 ----
+
+### 2017 April (2)
 
  - [**"AM Prep-Music -- PRINCE’S SIBLINGS WANT TO BE DECLARED HIS HEIRS / TROY CARTER NAMED ENTERTAINMENT ADVISER FOR PRINCE ESTATE"**](https://apnews.com/63ffae131dda46bcb6a431332d0a5efc)
     - by [The Associated Press](../../authors/the-associated-press/index.md)
@@ -99,7 +120,7 @@
     - about [Carver County](../../topics/carver-county/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [L. Londell McMilllan](../../topics/l-londell-mcmilllan/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Spotify](../../topics/spotify/index.md), [Troy Carter](../../topics/troy-carter/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/63ffae131dda46bcb6a431332d0a5efc))
 
-----
+<br />
 
  - [**"Lady Gaga ex-manager Troy Carter named Prince estate adviser"**](https://apnews.com/727501ec378a400184818701510f73ea)
     - by [The Associated Press](../../authors/the-associated-press/index.md)
@@ -110,6 +131,8 @@
 
 ----
 
+### 2017 March (1)
+
  - [**"Prince’s ex-wife opens up about 1996 death of couple’s baby"**](https://apnews.com/4353bb4317364ba9b544c3363334fe4b)
     - by [The Associated Press](../../authors/the-associated-press/index.md)
     - in [Associated Press News](https://apnews.com/)
@@ -119,23 +142,29 @@
 
 ----
 
+## 2016 (3)
+
+### 2016 August (1)
+
  - [**"Prince's Paisley Park, other properties could go on sale"**](https://www.startribune.com/prince-s-paisley-park-other-properties-could-go-on-sale/389333051/)
     - by [The Associated Press](../../authors/the-associated-press/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 5 August 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-s-paisley-park-other-properties-could-go-on-sale/389333051/))
 
 ----
+
+### 2016 May (1)
 
  - [**"Madonna responds to critics of her Prince tribute"**](https://www.startribune.com/madonna-responds-to-critics-of-her-prince-tribute/380555791/)
     - by [The Associated Press](../../authors/the-associated-press/index.md)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 23 May 2016
-
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/madonna-responds-to-critics-of-her-prince-tribute/380555791/))
 
 ----
+
+### 2016 April (1)
 
  - [**"Prince’s former wives issue messages of grief"**](https://apnews.com/e1248c7300a445e0a07e438cf492a4c4)
     - by [The Associated Press](../../authors/the-associated-press/index.md)

@@ -1,5 +1,9 @@
 # Tom Foster
 
+## 2019 (1)
+
+### 2019 June (1)
+
  - [**"New Story About Prince’s “Purple Rain” Comes to the Surface"**](https://www.tvovermind.com/new-story-about-princes-purple-rain-comes-to-the-surface/)
     - by [Tom Foster](../../authors/tom-foster/index.md)
     - in [TVOvermind](https://www.tvovermind.com/)

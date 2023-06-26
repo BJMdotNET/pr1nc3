@@ -1,5 +1,9 @@
 # Colin Bertram
 
+## 2019 (1)
+
+### 2019 July (1)
+
  - [**"Prince Never Acted Before 'Purple Rain.' Then He Became a Household Name -- The movie and album would come to help define the 1980s and catapult the performer to global fame."**](https://www.biography.com/news/prince-purple-rain-album-movie)
     - by [Colin Bertram](../../authors/colin-bertram/index.md)
     - in [Biography](https://www.biography.com/)

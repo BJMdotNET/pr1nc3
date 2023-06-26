@@ -1,5 +1,9 @@
 # Timberwolves PR
 
+## 2019 (1)
+
+### 2019 July (1)
+
  - [**"Timberwolves Win ‘Event of the Year’ at NBA League Meetings in Las Vegas -- Prince-Inspired City Edition Event at Paisley Park takes home industry award"**](https://www.nba.com/timberwolves/news/timberwolves-win-event-year-nba-league-meetings-las-vegas)
     - by [Timberwolves PR](../../authors/timberwolves-pr/index.md)
     - in [NBA.com](https://www.nba.com/)
