@@ -553,6 +553,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "authors/david-marchese/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/david-marchese/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "authors/david-wiley/index.md",
       "output": {
         ".html": {
@@ -743,6 +753,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "authors/jason-draper/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/jason-draper/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "authors/jean-hopfensperger/index.md",
       "output": {
         ".html": {
@@ -777,6 +797,16 @@
       "output": {
         ".html": {
           "relative_path": "authors/jem-aswad/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "authors/jenn-pelly/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/jenn-pelly/index.html"
         }
       },
       "version": ""
@@ -937,6 +967,16 @@
       "output": {
         ".html": {
           "relative_path": "authors/leila-navidi/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "authors/lindsay-zoladz/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/lindsay-zoladz/index.html"
         }
       },
       "version": ""
@@ -2164,6 +2204,39 @@
         },
         ".json": {
           "relative_path": "publications/analogplanet/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/antimusic/antimusic-2020.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/antimusic/antimusic-2020.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/antimusic/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/antimusic/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "publications/antimusic/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "publications/antimusic/toc.html"
+        },
+        ".json": {
+          "relative_path": "publications/antimusic/toc.json"
         }
       },
       "version": ""
@@ -3765,6 +3838,39 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "publications/contactmusic-com/contactmusic-com-2010.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/contactmusic-com/contactmusic-com-2010.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/contactmusic-com/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/contactmusic-com/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "publications/contactmusic-com/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "publications/contactmusic-com/toc.html"
+        },
+        ".json": {
+          "relative_path": "publications/contactmusic-com/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "publications/courier-gazette-camden-herald/courier-gazette-camden-herald-2019.md",
       "output": {
         ".html": {
@@ -3967,6 +4073,49 @@
         },
         ".json": {
           "relative_path": "publications/democracy-now/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/dig/dig-2021.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/dig/dig-2021.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/dig/dig-2022.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/dig/dig-2022.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/dig/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/dig/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "publications/dig/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "publications/dig/toc.html"
+        },
+        ".json": {
+          "relative_path": "publications/dig/toc.json"
         }
       },
       "version": ""
@@ -6451,39 +6600,6 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "publications/music-avclub-com/index.md",
-      "output": {
-        ".html": {
-          "relative_path": "publications/music-avclub-com/index.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "publications/music-avclub-com/music-avclub-com-2011.md",
-      "output": {
-        ".html": {
-          "relative_path": "publications/music-avclub-com/music-avclub-com-2011.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Toc",
-      "source_relative_path": "publications/music-avclub-com/toc.yml",
-      "output": {
-        ".html": {
-          "relative_path": "publications/music-avclub-com/toc.html"
-        },
-        ".json": {
-          "relative_path": "publications/music-avclub-com/toc.json"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
       "source_relative_path": "publications/music-fans-stack-exchange/index.md",
       "output": {
         ".html": {
@@ -6544,6 +6660,39 @@
         },
         ".json": {
           "relative_path": "publications/music-in-minnesota/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/music-news/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/music-news/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/music-news/music-news-2019.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/music-news/music-news-2019.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "publications/music-news/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "publications/music-news/toc.html"
+        },
+        ".json": {
+          "relative_path": "publications/music-news/toc.json"
         }
       },
       "version": ""
@@ -6858,6 +7007,16 @@
       "output": {
         ".html": {
           "relative_path": "publications/new-york-times/new-york-times-2019.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/new-york-times/new-york-times-2023.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/new-york-times/new-york-times-2023.html"
         }
       },
       "version": ""
@@ -7456,6 +7615,16 @@
       "output": {
         ".html": {
           "relative_path": "publications/pitchfork/pitchfork-2020.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/pitchfork/pitchfork-2023.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/pitchfork/pitchfork-2023.html"
         }
       },
       "version": ""
@@ -8992,6 +9161,39 @@
         },
         ".json": {
           "relative_path": "publications/tennessean/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/the-a-v-club-music/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/the-a-v-club-music/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/the-a-v-club-music/the-a-v-club-music-2011.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/the-a-v-club-music/the-a-v-club-music-2011.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "publications/the-a-v-club-music/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "publications/the-a-v-club-music/toc.html"
+        },
+        ".json": {
+          "relative_path": "publications/the-a-v-club-music/toc.json"
         }
       },
       "version": ""
@@ -11226,6 +11428,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "publications/vulture/vulture-2017.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/vulture/vulture-2017.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "publications/vulture/vulture-2018.md",
       "output": {
         ".html": {
@@ -11550,33 +11762,33 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "publications/writteninmusic-com/index.md",
+      "source_relative_path": "publications/written-in-music/index.md",
       "output": {
         ".html": {
-          "relative_path": "publications/writteninmusic-com/index.html"
+          "relative_path": "publications/written-in-music/index.html"
         }
       },
       "version": ""
     },
     {
       "type": "Toc",
-      "source_relative_path": "publications/writteninmusic-com/toc.yml",
+      "source_relative_path": "publications/written-in-music/toc.yml",
       "output": {
         ".html": {
-          "relative_path": "publications/writteninmusic-com/toc.html"
+          "relative_path": "publications/written-in-music/toc.html"
         },
         ".json": {
-          "relative_path": "publications/writteninmusic-com/toc.json"
+          "relative_path": "publications/written-in-music/toc.json"
         }
       },
       "version": ""
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "publications/writteninmusic-com/writteninmusic-com-2019.md",
+      "source_relative_path": "publications/written-in-music/written-in-music-2019.md",
       "output": {
         ".html": {
-          "relative_path": "publications/writteninmusic-com/writteninmusic-com-2019.html"
+          "relative_path": "publications/written-in-music/written-in-music-2019.html"
         }
       },
       "version": ""
@@ -11715,39 +11927,6 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "publications/www-antimusic-com/index.md",
-      "output": {
-        ".html": {
-          "relative_path": "publications/www-antimusic-com/index.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Toc",
-      "source_relative_path": "publications/www-antimusic-com/toc.yml",
-      "output": {
-        ".html": {
-          "relative_path": "publications/www-antimusic-com/toc.html"
-        },
-        ".json": {
-          "relative_path": "publications/www-antimusic-com/toc.json"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "publications/www-antimusic-com/www-antimusic-com-2020.md",
-      "output": {
-        ".html": {
-          "relative_path": "publications/www-antimusic-com/www-antimusic-com-2020.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
       "source_relative_path": "publications/www-broadwayworld-com/index.md",
       "output": {
         ".html": {
@@ -11874,39 +12053,6 @@
       "output": {
         ".html": {
           "relative_path": "publications/www-columbian-com/www-columbian-com-2019.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "publications/www-contactmusic-com/index.md",
-      "output": {
-        ".html": {
-          "relative_path": "publications/www-contactmusic-com/index.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Toc",
-      "source_relative_path": "publications/www-contactmusic-com/toc.yml",
-      "output": {
-        ".html": {
-          "relative_path": "publications/www-contactmusic-com/toc.html"
-        },
-        ".json": {
-          "relative_path": "publications/www-contactmusic-com/toc.json"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "publications/www-contactmusic-com/www-contactmusic-com-2010.md",
-      "output": {
-        ".html": {
-          "relative_path": "publications/www-contactmusic-com/www-contactmusic-com-2010.html"
         }
       },
       "version": ""
@@ -14754,6 +14900,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/album/plectrumelectrum/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/album/plectrumelectrum/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/album/prince-and-the-revolution-live/index.md",
       "output": {
         ".html": {
@@ -15148,6 +15304,36 @@
       "output": {
         ".html": {
           "relative_path": "topics/ani-difranco/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/animal/divinity/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/animal/divinity/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/animal/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/animal/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/animal/majesty/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/animal/majesty/index.html"
         }
       },
       "version": ""
@@ -15554,6 +15740,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/bob-seger/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/bob-seger/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/bobby-z/index.md",
       "output": {
         ".html": {
@@ -15624,6 +15820,26 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/book/lives-of-the-musicians-prince/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/book/lives-of-the-musicians-prince/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/book/mo-meta-blues/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/book/mo-meta-blues/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/book/my-name-is-prince-25-inspired-years/index.md",
       "output": {
         ".html": {
@@ -15648,6 +15864,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/book/prince-and-the-purple-rain-era-studio-sessions-1983-1984/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/book/prince-and-the-purple-rain-era-studio-sessions-1983-and-1984/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/book/prince-and-the-purple-rain-era-studio-sessions-1983-and-1984/index.html"
         }
       },
       "version": ""
@@ -15954,10 +16180,30 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/carlos-boozer/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/carlos-boozer/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/carmen-denise-weatherall/index.md",
       "output": {
         ".html": {
           "relative_path": "topics/carmen-denise-weatherall/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/carmen-electra/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/carmen-electra/index.html"
         }
       },
       "version": ""
@@ -16708,16 +16954,6 @@
       "output": {
         ".html": {
           "relative_path": "topics/dick-clark/index.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "topics/divinity/index.md",
-      "output": {
-        ".html": {
-          "relative_path": "topics/divinity/index.html"
         }
       },
       "version": ""
@@ -17694,6 +17930,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/glam-slam-ulysses/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/glam-slam-ulysses/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/global-music-rights/index.md",
       "output": {
         ".html": {
@@ -18334,6 +18580,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/jay-williams/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/jay-williams/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/jeff-katz/index.md",
       "output": {
         ".html": {
@@ -18924,6 +19180,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/kevin-smith/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/kevin-smith/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/kew-media-distribution/index.md",
       "output": {
         ".html": {
@@ -19448,6 +19714,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/magazine/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/magazine/notorious/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/magazine/notorious/index.html"
         }
       },
       "version": ""
@@ -20404,6 +20680,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/newspaper/daily-mail/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/newspaper/daily-mail/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/newspaper/index.md",
       "output": {
         ".html": {
@@ -20538,6 +20824,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/nothing-compares-2-prince/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/novi-novog/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/novi-novog/index.html"
         }
       },
       "version": ""
@@ -20958,6 +21254,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/phish/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/ping-pong/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/ping-pong/index.html"
         }
       },
       "version": ""
@@ -22618,6 +22924,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/rogue-music-alliance-llc/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/roller-skating/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/roller-skating/index.html"
         }
       },
       "version": ""
@@ -24704,6 +25020,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/suzie-katayama/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/suzie-katayama/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/sylvia-massy/index.md",
       "output": {
         ".html": {
@@ -25891,6 +26217,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/yeswecode/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/yom-kippur/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/yom-kippur/index.html"
         }
       },
       "version": ""
