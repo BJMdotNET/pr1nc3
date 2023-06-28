@@ -1,6 +1,6 @@
 items:
 - name: home
-  href: /
+  href: ./
   homepage: index.md
 - name: publications
   href: publications/
