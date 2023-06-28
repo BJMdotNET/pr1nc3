@@ -4340,6 +4340,39 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "publications/dyes-got-the-answers-2-ur-s-the-beautiful-nights-blog/dyes-got-the-answers-2-ur-s-the-beautiful-nights-blog-2013.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/dyes-got-the-answers-2-ur-s-the-beautiful-nights-blog/dyes-got-the-answers-2-ur-s-the-beautiful-nights-blog-2013.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/dyes-got-the-answers-2-ur-s-the-beautiful-nights-blog/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/dyes-got-the-answers-2-ur-s-the-beautiful-nights-blog/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "publications/dyes-got-the-answers-2-ur-s-the-beautiful-nights-blog/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "publications/dyes-got-the-answers-2-ur-s-the-beautiful-nights-blog/toc.html"
+        },
+        ".json": {
+          "relative_path": "publications/dyes-got-the-answers-2-ur-s-the-beautiful-nights-blog/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "publications/e-online/e-online-2019.md",
       "output": {
         ".html": {
@@ -14640,6 +14673,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/album/blueberry-gossip/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/album/blueberry-gossip/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/album/chaos-and-disorder/index.md",
       "output": {
         ".html": {
@@ -15114,6 +15157,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/album/the-versace-experience-prelude-2-gold/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/album/tuff-girl/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/album/tuff-girl/index.html"
         }
       },
       "version": ""
@@ -16780,6 +16833,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/cynthia-jonson/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/cynthia-jonson/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/cynthia-rose/index.md",
       "output": {
         ".html": {
@@ -18044,6 +18107,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/george-loucas/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/gerry-hubbard/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/gerry-hubbard/index.html"
         }
       },
       "version": ""
@@ -20220,6 +20293,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/mc-flash/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/mc-flash/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/memoir/index.md",
       "output": {
         ".html": {
@@ -21180,6 +21263,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/patrice-rushen/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/patrice-rushen/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/patricia-kotero/index.md",
       "output": {
         ".html": {
@@ -21520,6 +21613,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/place/bunker-s-music-bar-and-grill/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/place/bunker-s-music-bar-and-grill/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/place/bunkers/index.md",
       "output": {
         ".html": {
@@ -21834,6 +21937,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/place/hawaii/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/place/hennepin-county/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/place/hennepin-county/index.html"
         }
       },
       "version": ""
@@ -23210,6 +23323,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/separation/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/separation/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/shania-twain/index.md",
       "output": {
         ".html": {
@@ -23564,6 +23687,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/song/chelsea-rogers/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/song/chopsticks/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/song/chopsticks/index.html"
         }
       },
       "version": ""
@@ -25250,6 +25383,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/sue-ann-carwell/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/sue-ann-carwell/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/super-bowl/index.md",
       "output": {
         ".html": {
@@ -25334,6 +25477,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/t-mar-davis/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/ta-mara-and-the-seen/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/ta-mara-and-the-seen/index.html"
         }
       },
       "version": ""
@@ -25484,6 +25637,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/the-family/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/the-legendary-combo/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/the-legendary-combo/index.html"
         }
       },
       "version": ""
