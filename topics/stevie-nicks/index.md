@@ -48,7 +48,7 @@
  - [**"Prince's 50 greatest singles – ranked!"**](https://www.theguardian.com/music/2019/sep/12/prince-50-greatest-singles-ranked)
     - in [The Guardian](https://www.theguardian.com/)
     - on 12 September 2019
-    - about [Batdance (song)](../../topics/song/batdance/index.md), [Cat Glover](../../topics/cat-glover/index.md), [Nile Rodgers](../../topics/nile-rodgers/index.md), [Screwdriver (song)](../../topics/song/screwdriver/index.md), [Sheena Easton](../../topics/sheena-easton/index.md), [Sly Stone](../../topics/sly-stone/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md), [Thieves in the Temple (song)](../../topics/song/thieves-in-the-temple/index.md)
+    - about [Batdance (song)](../../topics/song/batdance/index.md), [Cat Glover](../../topics/cat-glover/index.md), [Nile Rodgers](../../topics/nile-rodgers/index.md), [Screwdriver (song)](../../topics/song/screwdriver/index.md), [Sheena Easton](../../topics/sheena-easton/index.md), [Sly Stone](../../topics/sly-stone/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md), [The Arms of Orion (song)](../../topics/song/the-arms-of-orion/index.md), [Thieves in the Temple (song)](../../topics/song/thieves-in-the-temple/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/music/2019/sep/12/prince-50-greatest-singles-ranked))
 
 <br />
@@ -56,8 +56,20 @@
  - [**"To Janet Jackson, Minneapolis will always be her 'home away from home' -- Balancing motherhood and megahits, Janet Jackson talks about her return to Minnesota, where she recorded her breakthrough albums."**](https://www.startribune.com/to-janet-jackson-minneapolis-will-always-be-her-home-away-from-home/560054982/)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 11 September 2019
-    - about [Janelle Monae](../../topics/janelle-monae/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Time](../../topics/the-time/index.md)
+    - about [Janelle Monae](../../topics/janelle-monae/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Sounds of Blackness](../../topics/sounds-of-blackness/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Time](../../topics/the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/to-janet-jackson-minneapolis-will-always-be-her-home-away-from-home/560054982/))
+
+----
+
+## 2018 (1)
+
+### 2018 September (1)
+
+ - [**"Prince’s and Tom Petty’s Posthumous Careers Are Off to a Great Start -- For ‘Piano & a Microphone 1983’ and ‘An American Treasure,’ the estates of two beloved rock stars raid their respective vaults, tastefully"**](https://www.theringer.com/music/2018/9/26/17904480/prince-piano-microphone-1983-tom-petty-an-american-treasure-posthumous-album-box-set)
+    - in [The Ringer](https://www.theringer.com/)
+    - on 26 September 2018
+    - about [17 Days (song)](../../topics/song/17-days/index.md), [A Case of You (song)](../../topics/song/a-case-of-you/index.md), [Bob Dylan](../../topics/bob-dylan/index.md), [bootleg](../../topics/bootleg/index.md), [Cold Coffee & Cocaine (song)](../../topics/song/cold-coffee-cocaine/index.md), [International Lover (song)](../../topics/song/international-lover/index.md), [James Brown](../../topics/james-brown/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Mary Don’t You Weep (song)](../../topics/song/mary-don-t-you-weep/index.md), [Michael Howe](../../topics/michael-howe/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Piano & A Microphone 1983 (album review)](../../topics/album-review/piano-a-microphone-1983/index.md), [Piano & A Microphone 1983 (album)](../../topics/album/piano-a-microphone-1983/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md), [Strange Relationship (song)](../../topics/song/strange-relationship/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.theringer.com/music/2018/9/26/17904480/prince-piano-microphone-1983-tom-petty-an-american-treasure-posthumous-album-box-set))
 
 ----
 

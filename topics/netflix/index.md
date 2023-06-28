@@ -7,7 +7,7 @@
  - [**"The Joy of Lizzo -- She has become a new kind of pop superstar, full of relentless positivity. But it took a long time and a lot of heartache"**](https://www.rollingstone.com/music/music-features/lizzo-cover-story-interview-truth-hurts-grammys-937009/)
     - in [Rolling Stone](https://www.rollingstone.com/)
     - on 22 January 2020
-    - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [BET Awards](../../topics/bet-awards/index.md), [Beyoncé](../../topics/beyonc/index.md), [Detroit (place)](../../topics/place/detroit/index.md), [lawsuit](../../topics/lawsuit/index.md), [Lizzo](../../topics/lizzo/index.md), [Netflix](../../topics/netflix/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [Toronto (place)](../../topics/place/toronto/index.md)
+    - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [BET Awards](../../topics/bet-awards/index.md), [Beyoncé](../../topics/beyonc/index.md), [Detroit (place)](../../topics/place/detroit/index.md), [Gemini](../../topics/gemini/index.md), [lawsuit](../../topics/lawsuit/index.md), [Lizzo](../../topics/lizzo/index.md), [Netflix](../../topics/netflix/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [Toronto (place)](../../topics/place/toronto/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/lizzo-cover-story-interview-truth-hurts-grammys-937009/))
 
 <br />
@@ -73,7 +73,7 @@
  - [**"Prince’s Estate to Take Over Management of Paisley Park"**](https://variety.com/2019/music/news/prince-estate-take-over-paisley-park-1203316110/)
     - in [Variety](https://variety.com/)
     - on 27 August 2019
-    - about [Ava DuVernay](../../topics/ava-duvernay/index.md), [contract](../../topics/contract/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [Joel Weinshanker](../../topics/joel-weinshanker/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [memoir](../../topics/memoir/index.md), [museum](../../topics/museum/index.md), [Netflix](../../topics/netflix/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Sony Music](../../topics/sony-music/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)
+    - about [Ava DuVernay](../../topics/ava-duvernay/index.md), [contract](../../topics/contract/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [Joel Weinshanker](../../topics/joel-weinshanker/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [memoir](../../topics/memoir/index.md), [museum](../../topics/museum/index.md), [Netflix](../../topics/netflix/index.md), [Piano & A Microphone 1983 (album)](../../topics/album/piano-a-microphone-1983/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Sony Music](../../topics/sony-music/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)
     - ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/news/prince-estate-take-over-paisley-park-1203316110/))
 
 <br />
@@ -81,7 +81,7 @@
  - [**"Prince's estate to assume management of Paisley Park -- Graceland Holdings will no longer run the Chanhassen museum as of Oct. 1."**](https://www.startribune.com/prince-s-estate-to-assume-management-of-paisley-park/558364602/)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 26 August 2019
-    - about [Ava DuVernay](../../topics/ava-duvernay/index.md), [Bangles](../../topics/bangles/index.md), [Comerica](../../topics/comerica/index.md), [contract](../../topics/contract/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [Joel Weinshanker](../../topics/joel-weinshanker/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [memoir](../../topics/memoir/index.md), [museum](../../topics/museum/index.md), [Netflix](../../topics/netflix/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [vault](../../topics/vault/index.md)
+    - about [Ava DuVernay](../../topics/ava-duvernay/index.md), [Bangles](../../topics/bangles/index.md), [Comerica](../../topics/comerica/index.md), [contract](../../topics/contract/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [Joel Weinshanker](../../topics/joel-weinshanker/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [memoir](../../topics/memoir/index.md), [museum](../../topics/museum/index.md), [Netflix](../../topics/netflix/index.md), [Piano & A Microphone 1983 (album)](../../topics/album/piano-a-microphone-1983/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [vault](../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-s-estate-to-assume-management-of-paisley-park/558364602/))
 
 <br />
@@ -153,7 +153,7 @@
  - [**"Ava DuVernay to make Prince documentary for Netflix -- The director of Selma and A Wrinkle in Time, who has access to the late musician’s archive, says she will make the film ‘with love’"**](https://www.theguardian.com/music/2018/oct/30/ava-duvernay-prince-documentary-netflix)
     - in [The Guardian](https://www.theguardian.com/)
     - on 30 October 2018
-    - about [Ava DuVernay](../../topics/ava-duvernay/index.md), [Netflix](../../topics/netflix/index.md)
+    - about [A Case of You (song)](../../topics/song/a-case-of-you/index.md), [Ava DuVernay](../../topics/ava-duvernay/index.md), [Netflix](../../topics/netflix/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/music/2018/oct/30/ava-duvernay-prince-documentary-netflix))
 
 <br />

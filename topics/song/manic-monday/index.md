@@ -1,5 +1,17 @@
 # Manic Monday (song)
 
+## 2021 (1)
+
+### 2021 June (1)
+
+ - [**"‘60 Songs That Explain the ’90s’: How Sinéad O’Connor Turned a Prince Song Into Her Classic -- The Purple One wrote ‘Nothing Compares 2 U,’ but O’Connor managed to inhabit the song and make it fully her own"**](https://www.theringer.com/2021/6/2/22464082/sinead-oconnor-nothing-compares-2-u-prince)
+    - in [The Ringer](https://www.theringer.com/)
+    - on 2 June 2021
+    - about [Bangles](../../../topics/bangles/index.md), [Chaka Khan](../../../topics/chaka-khan/index.md), [Cyndi Lauper](../../../topics/cyndi-lauper/index.md), [I Feel For You (song)](../../../topics/song/i-feel-for-you/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md), [The Glamorous Life (song)](../../../topics/song/the-glamorous-life/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.theringer.com/2021/6/2/22464082/sinead-oconnor-nothing-compares-2-u-prince))
+
+----
+
 ## 2020 (7)
 
 ### 2020 January (7)
@@ -67,7 +79,7 @@
  - [**"Prince: The Story of 1999 bonus feature: The sound of Prince and Peggy McCreary"**](https://www.thecurrent.org/feature/2019/11/27/prince-the-story-of-1999-bonus-feature-the-sound-of-prince-and-peggy-mccreary)
     - in [The Current](https://www.thecurrent.org/)
     - on 27 November 2019
-    - about [1999 (album)](../../../topics/album/1999/index.md), [Alan Leeds](../../../topics/alan-leeds/index.md), [Andrea Swensson](../../../topics/andrea-swensson/index.md), [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Colleen (song)](../../../topics/song/colleen/index.md), [David Leonard](../../../topics/david-leonard/index.md), [Duane Tudahl](../../../topics/duane-tudahl/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Jesse Johnson](../../../topics/jesse-johnson/index.md), [Jill Jones](../../../topics/jill-jones/index.md), [Jimmy Jam](../../../topics/jimmy-jam/index.md), [Kiowa Trail](../../../topics/kiowa-trail/index.md), [Lisa Chamblee](../../../topics/lisa-chamblee/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [motorcycle](../../../topics/motorcycle/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Peggy McCreary](../../../topics/peggy-mccreary/index.md), [Prince: The Story of 1999](../../../topics/prince-the-story-of-1999/index.md), [Rearrange (song)](../../../topics/song/rearrange/index.md), [Sometimes It Snows In April (song)](../../../topics/song/sometimes-it-snows-in-april/index.md), [Steve Fargnoli](../../../topics/steve-fargnoli/index.md), [Sunset Sound (place)](../../../topics/place/sunset-sound/index.md), [Susan Rogers](../../../topics/susan-rogers/index.md), [Sylvia Massy](../../../topics/sylvia-massy/index.md), [Vanity](../../../topics/vanity/index.md), [Vanity 6](../../../topics/vanity-6/index.md), [vault](../../../topics/vault/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md), [YouTube](../../../topics/youtube/index.md)
+    - about [1999 (album)](../../../topics/album/1999/index.md), [Alan Leeds](../../../topics/alan-leeds/index.md), [Andrea Swensson](../../../topics/andrea-swensson/index.md), [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Colleen (song)](../../../topics/song/colleen/index.md), [David Leonard](../../../topics/david-leonard/index.md), [Duane Tudahl](../../../topics/duane-tudahl/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [International Lover (song)](../../../topics/song/international-lover/index.md), [Jesse Johnson](../../../topics/jesse-johnson/index.md), [Jill Jones](../../../topics/jill-jones/index.md), [Jimmy Jam](../../../topics/jimmy-jam/index.md), [Kiowa Trail](../../../topics/kiowa-trail/index.md), [Lisa Chamblee](../../../topics/lisa-chamblee/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [motorcycle](../../../topics/motorcycle/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Peggy McCreary](../../../topics/peggy-mccreary/index.md), [Prince: The Story of 1999](../../../topics/prince-the-story-of-1999/index.md), [Rearrange (song)](../../../topics/song/rearrange/index.md), [Sometimes It Snows In April (song)](../../../topics/song/sometimes-it-snows-in-april/index.md), [Steve Fargnoli](../../../topics/steve-fargnoli/index.md), [Sunset Sound (place)](../../../topics/place/sunset-sound/index.md), [Susan Rogers](../../../topics/susan-rogers/index.md), [Sylvia Massy](../../../topics/sylvia-massy/index.md), [Vanity](../../../topics/vanity/index.md), [Vanity 6](../../../topics/vanity-6/index.md), [vault](../../../topics/vault/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md), [YouTube](../../../topics/youtube/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/11/27/prince-the-story-of-1999-bonus-feature-the-sound-of-prince-and-peggy-mccreary))
 
 ----

@@ -7,7 +7,7 @@
  - [**"The Joy of Lizzo -- She has become a new kind of pop superstar, full of relentless positivity. But it took a long time and a lot of heartache"**](https://www.rollingstone.com/music/music-features/lizzo-cover-story-interview-truth-hurts-grammys-937009/)
     - in [Rolling Stone](https://www.rollingstone.com/)
     - on 22 January 2020
-    - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [BET Awards](../../topics/bet-awards/index.md), [Beyoncé](../../topics/beyonc/index.md), [Detroit (place)](../../topics/place/detroit/index.md), [lawsuit](../../topics/lawsuit/index.md), [Lizzo](../../topics/lizzo/index.md), [Netflix](../../topics/netflix/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [Toronto (place)](../../topics/place/toronto/index.md)
+    - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [BET Awards](../../topics/bet-awards/index.md), [Beyoncé](../../topics/beyonc/index.md), [Detroit (place)](../../topics/place/detroit/index.md), [Gemini](../../topics/gemini/index.md), [lawsuit](../../topics/lawsuit/index.md), [Lizzo](../../topics/lizzo/index.md), [Netflix](../../topics/netflix/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [Toronto (place)](../../topics/place/toronto/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/lizzo-cover-story-interview-truth-hurts-grammys-937009/))
 
 <br />
@@ -176,7 +176,7 @@
 
 ----
 
-## 2016 (12)
+## 2016 (13)
 
 ### 2016 November (3)
 
@@ -199,7 +199,7 @@
  - [**"Prince & The Vault: The 10 Things That Should and Shouldn’t Happen"**](https://medium.com/cuepoint/prince-the-vault-the-10-things-that-should-and-shouldnt-happen-ad96cc58999f)
     - in [Cuepoint](https://medium.com/cuepoint/)
     - on 19 November 2016
-    - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Alan Leeds](../../topics/alan-leeds/index.md), [Apollonia 6](../../topics/apollonia-6/index.md), [Art Official Age (album)](../../topics/album/art-official-age/index.md), [Batdance (song)](../../topics/song/batdance/index.md), [Big Daddy Kane](../../topics/big-daddy-kane/index.md), [Donna Grantis](../../topics/donna-grantis/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [George Clinton](../../topics/george-clinton/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [Ingrid Chavez](../../topics/ingrid-chavez/index.md), [James Brown](../../topics/james-brown/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Jon Bream](../../topics/jon-bream/index.md), [Joshua Welton](../../topics/joshua-welton/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [LotusFlow3r (album)](../../topics/album/lotusflow3r/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Mayte](../../topics/mayte/index.md), [museum](../../topics/museum/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [One Nite Alone (album)](../../topics/album/one-nite-alone/index.md), [Purple Music (song)](../../topics/song/purple-music/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [The Ballad Of Dorothy Parker (song)](../../topics/song/the-ballad-of-dorothy-parker/index.md), [The Gold Experience (album)](../../topics/album/the-gold-experience/index.md), [vault](../../topics/vault/index.md)
+    - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Alan Leeds](../../topics/alan-leeds/index.md), [Apollonia 6](../../topics/apollonia-6/index.md), [Art Official Age (album)](../../topics/album/art-official-age/index.md), [Batdance (song)](../../topics/song/batdance/index.md), [Big Daddy Kane](../../topics/big-daddy-kane/index.md), [Dance With the Devil (song)](../../topics/song/dance-with-the-devil/index.md), [Donna Grantis](../../topics/donna-grantis/index.md), [Electric Chair (song)](../../topics/song/electric-chair/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [George Clinton](../../topics/george-clinton/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [Ingrid Chavez](../../topics/ingrid-chavez/index.md), [James Brown](../../topics/james-brown/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Jon Bream](../../topics/jon-bream/index.md), [Joshua Welton](../../topics/joshua-welton/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [LotusFlow3r (album)](../../topics/album/lotusflow3r/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Mayte](../../topics/mayte/index.md), [museum](../../topics/museum/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [One Nite Alone (album)](../../topics/album/one-nite-alone/index.md), [Purple Music (song)](../../topics/song/purple-music/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [The Ballad Of Dorothy Parker (song)](../../topics/song/the-ballad-of-dorothy-parker/index.md), [The Gold Experience (album)](../../topics/album/the-gold-experience/index.md), [vault](../../topics/vault/index.md), [Vicki Waiting (song)](../../topics/song/vicki-waiting/index.md)
     - ([mirror](https://web.archive.org/web/*/https://medium.com/cuepoint/prince-the-vault-the-10-things-that-should-and-shouldnt-happen-ad96cc58999f))
 
 ----
@@ -233,7 +233,7 @@
 
 ----
 
-### 2016 April (6)
+### 2016 April (7)
 
  - [**"Prince Remembered by Childhood Best Friend and Bandmate André Cymone : 'There Was a Lot More to Him Than What People Saw'"**](https://www.billboard.com/articles/news/magazine-feature/7348518/prince-childhood-friend-bassist-andre-cymone-remembrance)
     - in [Billboard](https://www.billboard.com/)
@@ -256,6 +256,14 @@
     - on 23 April 2016
     - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Art Official Age (album)](../../topics/album/art-official-age/index.md), [James Brown](../../topics/james-brown/index.md), [Joshua Welton](../../topics/joshua-welton/index.md), [Larry Graham](../../topics/larry-graham/index.md), [memoir](../../topics/memoir/index.md), [NPG Records](../../topics/npg-records/index.md), [piracy](../../topics/piracy/index.md), [Spotify](../../topics/spotify/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md), [YouTube](../../topics/youtube/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/cf2e87db1753473eb63165d807bd45c2))
+
+<br />
+
+ - [**"@Prince, Secret Twitter Genius"**](https://www.theringer.com/2016/4/22/16041112/prince-secret-twitter-genius-42f3caac1127)
+    - in [The Ringer](https://www.theringer.com/)
+    - on 22 April 2016
+    - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Spotify](../../topics/spotify/index.md), [Tidal](../../topics/tidal/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.theringer.com/2016/4/22/16041112/prince-secret-twitter-genius-42f3caac1127))
 
 <br />
 

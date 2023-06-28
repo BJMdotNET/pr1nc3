@@ -151,7 +151,7 @@
  - [**"Prince & The Vault: The 10 Things That Should and Shouldn’t Happen"**](https://medium.com/cuepoint/prince-the-vault-the-10-things-that-should-and-shouldnt-happen-ad96cc58999f)
     - in [Cuepoint](https://medium.com/cuepoint/)
     - on 19 November 2016
-    - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Alan Leeds](../../topics/alan-leeds/index.md), [Apollonia 6](../../topics/apollonia-6/index.md), [Art Official Age (album)](../../topics/album/art-official-age/index.md), [Batdance (song)](../../topics/song/batdance/index.md), [Big Daddy Kane](../../topics/big-daddy-kane/index.md), [Donna Grantis](../../topics/donna-grantis/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [George Clinton](../../topics/george-clinton/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [Ingrid Chavez](../../topics/ingrid-chavez/index.md), [James Brown](../../topics/james-brown/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Jon Bream](../../topics/jon-bream/index.md), [Joshua Welton](../../topics/joshua-welton/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [LotusFlow3r (album)](../../topics/album/lotusflow3r/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Mayte](../../topics/mayte/index.md), [museum](../../topics/museum/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [One Nite Alone (album)](../../topics/album/one-nite-alone/index.md), [Purple Music (song)](../../topics/song/purple-music/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [The Ballad Of Dorothy Parker (song)](../../topics/song/the-ballad-of-dorothy-parker/index.md), [The Gold Experience (album)](../../topics/album/the-gold-experience/index.md), [vault](../../topics/vault/index.md)
+    - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Alan Leeds](../../topics/alan-leeds/index.md), [Apollonia 6](../../topics/apollonia-6/index.md), [Art Official Age (album)](../../topics/album/art-official-age/index.md), [Batdance (song)](../../topics/song/batdance/index.md), [Big Daddy Kane](../../topics/big-daddy-kane/index.md), [Dance With the Devil (song)](../../topics/song/dance-with-the-devil/index.md), [Donna Grantis](../../topics/donna-grantis/index.md), [Electric Chair (song)](../../topics/song/electric-chair/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [George Clinton](../../topics/george-clinton/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [Ingrid Chavez](../../topics/ingrid-chavez/index.md), [James Brown](../../topics/james-brown/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Jon Bream](../../topics/jon-bream/index.md), [Joshua Welton](../../topics/joshua-welton/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [LotusFlow3r (album)](../../topics/album/lotusflow3r/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Mayte](../../topics/mayte/index.md), [museum](../../topics/museum/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [One Nite Alone (album)](../../topics/album/one-nite-alone/index.md), [Purple Music (song)](../../topics/song/purple-music/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [The Ballad Of Dorothy Parker (song)](../../topics/song/the-ballad-of-dorothy-parker/index.md), [The Gold Experience (album)](../../topics/album/the-gold-experience/index.md), [vault](../../topics/vault/index.md), [Vicki Waiting (song)](../../topics/song/vicki-waiting/index.md)
     - ([mirror](https://web.archive.org/web/*/https://medium.com/cuepoint/prince-the-vault-the-10-things-that-should-and-shouldnt-happen-ad96cc58999f))
 
 ----
@@ -2449,7 +2449,7 @@
 
 ----
 
-## April 2016 (135)
+## April 2016 (138)
 
  - [**"AP Exclusive: Prince’s ‘Purple Rain’ coat is up for auction"**](https://apnews.com/8110dcbaa6714d75a12db043ff989975)
     - in [Associated Press News](https://apnews.com/)
@@ -3041,6 +3041,14 @@
 
 ----
 
+ - [**"@Prince, Secret Twitter Genius"**](https://www.theringer.com/2016/4/22/16041112/prince-secret-twitter-genius-42f3caac1127)
+    - in [The Ringer](https://www.theringer.com/)
+    - on 22 April 2016
+    - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Spotify](../../topics/spotify/index.md), [Tidal](../../topics/tidal/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.theringer.com/2016/4/22/16041112/prince-secret-twitter-genius-42f3caac1127))
+
+----
+
  - [**"5 ways Prince slammed high tech in music"**](https://apnews.com/f4cdf36615b446d6bf994eab8ab22379)
     - in [Associated Press News](https://apnews.com/)
     - on 22 April 2016
@@ -3111,6 +3119,14 @@
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 22 April 2016
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/how-prince-s-royal-touch-still-impacts-the-twin-cities-music-scene/376777121/))
+
+----
+
+ - [**"Live Forever: The Legend of Prince in Concert"**](https://www.theringer.com/2016/4/22/16038864/live-forever-the-legend-of-prince-in-concert-caa4a59b4bf6)
+    - in [The Ringer](https://www.theringer.com/)
+    - on 22 April 2016
+    - about [James Brown](../../topics/james-brown/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Miles Davis](../../topics/miles-davis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.theringer.com/2016/4/22/16038864/live-forever-the-legend-of-prince-in-concert-caa4a59b4bf6))
 
 ----
 
@@ -3208,6 +3224,14 @@
     - on 22 April 2016
     - about [Academy Award](../../topics/academy-award/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Bangles](../../topics/bangles/index.md), [contract](../../topics/contract/index.md), [Cyndi Lauper](../../topics/cyndi-lauper/index.md), [Frank Zappa](../../topics/frank-zappa/index.md), [I Wanna Be Your Lover (song)](../../topics/song/i-wanna-be-your-lover/index.md), [James Brown](../../topics/james-brown/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Obama](../../topics/obama/index.md), [Parents Music Resource Center](../../topics/parents-music-resource-center/index.md), [Roger Ebert](../../topics/roger-ebert/index.md), [Tidal](../../topics/tidal/index.md), [Vanity](../../topics/vanity/index.md), [White House (place)](../../topics/place/white-house/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/988e107cf6964494b58ad2ca9bcd0985))
+
+----
+
+ - [**"Prince: The Sexplorer"**](https://www.theringer.com/2016/4/22/16041540/prince-the-sexplorer-b8d443a88325)
+    - in [The Ringer](https://www.theringer.com/)
+    - on 22 April 2016
+    - about [Computer Blue (song)](../../topics/song/computer-blue/index.md), [Dirty Mind (song)](../../topics/song/dirty-mind/index.md), [Do Me Baby (song)](../../topics/song/do-me-baby/index.md), [International Lover (song)](../../topics/song/international-lover/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Scarlet Pussy (song)](../../topics/song/scarlet-pussy/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.theringer.com/2016/4/22/16041540/prince-the-sexplorer-b8d443a88325))
 
 ----
 
@@ -3530,7 +3554,7 @@
  - [**"Susan Rogers Interview -- Classic Album Sundays"**](https://classicalbumsundays.com/susan-rogers-interview/)
     - in [Classic Album Sundays](https://classicalbumsundays.com/)
     - on 15 April 2016
-    - about [Starfish And Coffee (song)](../../topics/song/starfish-and-coffee/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [The Ballad Of Dorothy Parker (song)](../../topics/song/the-ballad-of-dorothy-parker/index.md), [U Got the Look (song)](../../topics/song/u-got-the-look/index.md), [vault](../../topics/vault/index.md)
+    - about [Starfish And Coffee (song)](../../topics/song/starfish-and-coffee/index.md), [Strange Relationship (song)](../../topics/song/strange-relationship/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [The Ballad Of Dorothy Parker (song)](../../topics/song/the-ballad-of-dorothy-parker/index.md), [U Got the Look (song)](../../topics/song/u-got-the-look/index.md), [vault](../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://classicalbumsundays.com/susan-rogers-interview/))
 
 ----

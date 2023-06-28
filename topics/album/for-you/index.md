@@ -23,7 +23,7 @@
  - [**"Hear Prince’s Acoustic Demo of ‘I Feel for You’"**](https://variety.com/2019/music/news/prince-i-feel-for-you-acoustic-demo-listen-1203375320/)
     - in [Variety](https://variety.com/)
     - on 18 October 2019
-    - about [Capri Theater (place)](../../../topics/place/capri-theater/index.md), [Chaka Khan](../../../topics/chaka-khan/index.md), [For You (album)](../../../topics/album/for-you/index.md), [I Feel For You (song)](../../../topics/song/i-feel-for-you/index.md), [Michael Howe](../../../topics/michael-howe/index.md), [vault](../../../topics/vault/index.md)
+    - about [Capri Theater (place)](../../../topics/place/capri-theater/index.md), [Chaka Khan](../../../topics/chaka-khan/index.md), [For You (album)](../../../topics/album/for-you/index.md), [I Feel For You (song)](../../../topics/song/i-feel-for-you/index.md), [Michael Howe](../../../topics/michael-howe/index.md), [Piano & A Microphone 1983 (album)](../../../topics/album/piano-a-microphone-1983/index.md), [vault](../../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/news/prince-i-feel-for-you-acoustic-demo-listen-1203375320/))
 
 <br />
@@ -39,7 +39,7 @@
  - [**"Listen to Prince's previously unreleased demo for 'I Feel For You'"**](https://ew.com/music/2019/10/18/prince-i-feel-for-you-unreleased-demo/)
     - in [EW (Entertainment Weekly)](https://ew.com/)
     - on 18 October 2019
-    - about [Dan Piepenbring](../../../topics/dan-piepenbring/index.md), [For You (album)](../../../topics/album/for-you/index.md), [I Feel For You (song)](../../../topics/song/i-feel-for-you/index.md), [memoir](../../../topics/memoir/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [The Beautiful Ones (book)](../../../topics/book/the-beautiful-ones/index.md), [The Prince Estate](../../../topics/the-prince-estate/index.md)
+    - about [Dan Piepenbring](../../../topics/dan-piepenbring/index.md), [For You (album)](../../../topics/album/for-you/index.md), [I Feel For You (song)](../../../topics/song/i-feel-for-you/index.md), [memoir](../../../topics/memoir/index.md), [Piano & A Microphone 1983 (album)](../../../topics/album/piano-a-microphone-1983/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [The Beautiful Ones (book)](../../../topics/book/the-beautiful-ones/index.md), [The Prince Estate](../../../topics/the-prince-estate/index.md)
     - ([mirror](https://web.archive.org/web/*/https://ew.com/music/2019/10/18/prince-i-feel-for-you-unreleased-demo/))
 
 <br />
@@ -47,7 +47,7 @@
  - [**"Prince - Listen to His Previously Unreleased Original Demo of “Feel For You” -- Recorded in 1979 and Available on 7-Inch"**](http://www.undertheradarmag.com/news/prince_-_listen_to_his_previously_unreleased_original_demo_of_feel_for_you)
     - in [Under the Radar](http://www.undertheradarmag.com/)
     - on 18 October 2019
-    - about [Chaka Khan](../../../topics/chaka-khan/index.md), [For You (album)](../../../topics/album/for-you/index.md), [Kiowa Trail](../../../topics/kiowa-trail/index.md), [Michael Howe](../../../topics/michael-howe/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [The Prince Estate](../../../topics/the-prince-estate/index.md), [vault](../../../topics/vault/index.md)
+    - about [Chaka Khan](../../../topics/chaka-khan/index.md), [For You (album)](../../../topics/album/for-you/index.md), [Kiowa Trail](../../../topics/kiowa-trail/index.md), [Michael Howe](../../../topics/michael-howe/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Piano & A Microphone 1983 (album)](../../../topics/album/piano-a-microphone-1983/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [The Prince Estate](../../../topics/the-prince-estate/index.md), [vault](../../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/http://www.undertheradarmag.com/news/prince_-_listen_to_his_previously_unreleased_original_demo_of_feel_for_you))
 
 <br />

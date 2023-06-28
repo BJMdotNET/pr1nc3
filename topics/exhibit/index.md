@@ -27,7 +27,7 @@
  - [**"Prince Mural Installed at MSP Airport -- The bright and colorful 16-by-24 foot image will send off travelers over the course of this year."**](http://mspmag.com/arts-and-culture/new-prince-mural-installed-at-msp-airport/)
     - in [Mpls.St.Paul Magazine](http://mspmag.com/)
     - on 29 January 2020
-    - about [airport](../../topics/airport/index.md), [ARTS@MSP](../../topics/arts-msp/index.md), [exhibit](../../topics/exhibit/index.md), [I Would Die 4 U (song)](../../topics/song/i-would-die-4-u/index.md), [Minneapolis-St. Paul International Airport (place)](../../topics/place/minneapolis-st-paul-international-airport/index.md), [MSP (place)](../../topics/place/msp/index.md), [museum](../../topics/museum/index.md), [Rock 'Cyfi' Martinez](../../topics/rock-cyfi-martinez/index.md), [Weisman Art Museum (place)](../../topics/place/weisman-art-museum/index.md)
+    - about [airport](../../topics/airport/index.md), [ARTS@MSP](../../topics/arts-msp/index.md), [exhibit](../../topics/exhibit/index.md), [I Would Die 4 U (song)](../../topics/song/i-would-die-4-u/index.md), [International Lover (song)](../../topics/song/international-lover/index.md), [Minneapolis-St. Paul International Airport (place)](../../topics/place/minneapolis-st-paul-international-airport/index.md), [MSP (place)](../../topics/place/msp/index.md), [museum](../../topics/museum/index.md), [Rock 'Cyfi' Martinez](../../topics/rock-cyfi-martinez/index.md), [Weisman Art Museum (place)](../../topics/place/weisman-art-museum/index.md)
     - ([mirror](https://web.archive.org/web/*/http://mspmag.com/arts-and-culture/new-prince-mural-installed-at-msp-airport/))
 
 <br />
@@ -151,7 +151,7 @@
  - [**"‘Prince: Before the Rain’ photo exhibit coming to Minnesota History Center"**](https://blog.thecurrent.org/2019/08/prince-before-the-rain-photo-exhibit-coming-to-minnesota-history-center/)
     - in [The Current - Local Current Blog](https://blog.thecurrent.org/)
     - on 6 August 2019
-    - about [Allen Beaulieu](../../topics/allen-beaulieu/index.md), [André Cymone](../../topics/andr-cymone/index.md), [Andrea Swensson](../../topics/andrea-swensson/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [exhibit](../../topics/exhibit/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Minnesota History Center](../../topics/minnesota-history-center/index.md), [Morris Day](../../topics/morris-day/index.md), [Prince: Before the Rain](../../topics/prince-before-the-rain/index.md)
+    - about [Allen Beaulieu](../../topics/allen-beaulieu/index.md), [André Cymone](../../topics/andr-cymone/index.md), [Andrea Swensson](../../topics/andrea-swensson/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [exhibit](../../topics/exhibit/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Minnesota History Center](../../topics/minnesota-history-center/index.md), [Morris Day](../../topics/morris-day/index.md), [Piano & A Microphone 1983 (album)](../../topics/album/piano-a-microphone-1983/index.md), [Prince: Before the Rain](../../topics/prince-before-the-rain/index.md)
     - ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2019/08/prince-before-the-rain-photo-exhibit-coming-to-minnesota-history-center/))
 
 <br />

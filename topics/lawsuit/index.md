@@ -1,16 +1,6 @@
 # lawsuit
 
-## 2023 (2)
-
-### 2023 June (1)
-
- - [**"Lawyer to Prince: Show Me Your Symbol ... $$$"**](https://www.tmz.com/2010/08/03/prince-lawsuit-breach-of-contract-lawyer-ed-mcpherson/)
-    - in [TMZ](https://www.tmz.com/)
-    - on 23 June 2023
-    - about [Ed McPherson](../../topics/ed-mcpherson/index.md), [lawsuit](../../topics/lawsuit/index.md)
-    - ([mirror](https://web.archive.org/web/*/https://www.tmz.com/2010/08/03/prince-lawsuit-breach-of-contract-lawyer-ed-mcpherson/))
-
-----
+## 2023 (1)
 
 ### 2023 May (1)
 
@@ -136,7 +126,7 @@
  - [**"The Joy of Lizzo -- She has become a new kind of pop superstar, full of relentless positivity. But it took a long time and a lot of heartache"**](https://www.rollingstone.com/music/music-features/lizzo-cover-story-interview-truth-hurts-grammys-937009/)
     - in [Rolling Stone](https://www.rollingstone.com/)
     - on 22 January 2020
-    - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [BET Awards](../../topics/bet-awards/index.md), [Beyoncé](../../topics/beyonc/index.md), [Detroit (place)](../../topics/place/detroit/index.md), [lawsuit](../../topics/lawsuit/index.md), [Lizzo](../../topics/lizzo/index.md), [Netflix](../../topics/netflix/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [Toronto (place)](../../topics/place/toronto/index.md)
+    - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [BET Awards](../../topics/bet-awards/index.md), [Beyoncé](../../topics/beyonc/index.md), [Detroit (place)](../../topics/place/detroit/index.md), [Gemini](../../topics/gemini/index.md), [lawsuit](../../topics/lawsuit/index.md), [Lizzo](../../topics/lizzo/index.md), [Netflix](../../topics/netflix/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [Toronto (place)](../../topics/place/toronto/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/lizzo-cover-story-interview-truth-hurts-grammys-937009/))
 
 <br />
@@ -620,22 +610,22 @@
 
 ----
 
-## 2010 (4)
+## 2010 (5)
 
 ### 2010 September (1)
 
  - [**"Prince Settles Lawyer Case"**](https://www.contactmusic.com/prince/news/prince-settles-lawyer-case_1166911)
     - in [ContactMusic.com](https://www.contactmusic.com/)
     - on 17 September 2010
-    - about [lawsuit](../../topics/lawsuit/index.md)
+    - about [Ed McDonald](../../topics/ed-mcdonald/index.md), [lawsuit](../../topics/lawsuit/index.md), [TMZ (website)](../../topics/website/tmz/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.contactmusic.com/prince/news/prince-settles-lawyer-case_1166911))
 
 ----
 
-### 2010 August (3)
+### 2010 August (4)
 
  - [**"Prince Sued by Former Attorney for Unpaid Fees"**](https://www.findlaw.com/legalblogs/celebrity-justice/prince-sued-by-former-attorney-for-unpaid-fees/)
-    - in [www.findlaw.com](https://www.findlaw.com/)
+    - in [FindLaw](https://www.findlaw.com/)
     - on 9 August 2010
     - about [Ed McPherson](../../topics/ed-mcpherson/index.md), [lawsuit](../../topics/lawsuit/index.md), [NPG Records](../../topics/npg-records/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [TMZ (website)](../../topics/website/tmz/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.findlaw.com/legalblogs/celebrity-justice/prince-sued-by-former-attorney-for-unpaid-fees/))
@@ -650,10 +640,18 @@
 
 <br />
 
+ - [**"Lawyer to Prince: Show Me Your Symbol ... $$$"**](https://www.tmz.com/2010/08/03/prince-lawsuit-breach-of-contract-lawyer-ed-mcpherson/)
+    - in [TMZ](https://www.tmz.com/)
+    - on 3 August 2010
+    - about [Ed McPherson](../../topics/ed-mcpherson/index.md), [lawsuit](../../topics/lawsuit/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.tmz.com/2010/08/03/prince-lawsuit-breach-of-contract-lawyer-ed-mcpherson/))
+
+<br />
+
  - [**"Prince Being Sued By Former Attorney"**](https://radaronline.com/exclusives/2010/08/prince-being-sued-former-attorney/)
     - in [Radar Online](https://radaronline.com/)
     - on 3 August 2010
-    - about [Ed McPherson](../../topics/ed-mcpherson/index.md), [lawsuit](../../topics/lawsuit/index.md), [NPG Records](../../topics/npg-records/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [Vigliano Associates, LTD](../../topics/vigliano-associates-ltd/index.md)
+    - about [breach of contract](../../topics/breach-of-contract/index.md), [Ed McPherson](../../topics/ed-mcpherson/index.md), [lawsuit](../../topics/lawsuit/index.md), [NPG Records](../../topics/npg-records/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [Vigliano Associates, LTD](../../topics/vigliano-associates-ltd/index.md)
     - ([mirror](https://web.archive.org/web/*/https://radaronline.com/exclusives/2010/08/prince-being-sued-former-attorney/))
 
 ----
@@ -697,7 +695,7 @@
  - [**"People in the News"**](https://apnews.com/df4748de657e2a79a5ec74214a26f279)
     - in [Associated Press News](https://apnews.com/)
     - on 22 December 1991
-    - about [breach of contract](../../topics/breach-of-contract/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [contract](../../topics/contract/index.md), [defamation ](../../topics/defamation/index.md), [Diamonds and Pearls (album)](../../topics/album/diamonds-and-pearls/index.md), [Jill Willis](../../topics/jill-willis/index.md), [Jughead (song)](../../topics/song/jughead/index.md), [lawsuit](../../topics/lawsuit/index.md), [Money Don’t Matter 2 Night (song)](../../topics/song/money-don-t-matter-2-night/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [Sheena Easton](../../topics/sheena-easton/index.md), [Steve Fargnoli](../../topics/steve-fargnoli/index.md)
+    - about [breach of contract](../../topics/breach-of-contract/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [contract](../../topics/contract/index.md), [defamation](../../topics/defamation/index.md), [Diamonds and Pearls (album)](../../topics/album/diamonds-and-pearls/index.md), [Jill Willis](../../topics/jill-willis/index.md), [Jughead (song)](../../topics/song/jughead/index.md), [lawsuit](../../topics/lawsuit/index.md), [Money Don’t Matter 2 Night (song)](../../topics/song/money-don-t-matter-2-night/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [Sheena Easton](../../topics/sheena-easton/index.md), [Steve Fargnoli](../../topics/steve-fargnoli/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/df4748de657e2a79a5ec74214a26f279))
 
 ----

@@ -1,5 +1,17 @@
 # Tommy Barbarella
 
+## 2023 (1)
+
+### 2023 June (1)
+
+ - [**"‘60 Songs That Explain the ’90s’: The Filthy Brilliance of Prince in the ’90s -- Finding the joy in the repetition—and experimentation—of Prince’s most interesting decade"**](https://www.theringer.com/2023/6/14/23760185/prince-90s-gett-off-history)
+    - in [The Ringer](https://www.theringer.com/)
+    - on 14 June 2023
+    - about [Bangles](../../topics/bangles/index.md), [Batdance (song)](../../topics/song/batdance/index.md), [Batman (album)](../../topics/album/batman/index.md), [Black Album (album)](../../topics/album/black-album/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Cyndi Lauper](../../topics/cyndi-lauper/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Michael Bland](../../topics/michael-bland/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Round and Round (song)](../../topics/song/round-and-round/index.md), [Scandalous (song)](../../topics/song/scandalous/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [Tevin Campbell](../../topics/tevin-campbell/index.md), [The Black Album (album)](../../topics/album/the-black-album/index.md), [Tim Burton](../../topics/tim-burton/index.md), [Tommy Barbarella](../../topics/tommy-barbarella/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md), [Weird Al Yankovic](../../topics/weird-al-yankovic/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.theringer.com/2023/6/14/23760185/prince-90s-gett-off-history))
+
+----
+
 ## 2019 (2)
 
 ### 2019 December (1)
@@ -7,7 +19,7 @@
  - [**"In a Twin Cities living room, the Steeles cook up their 35th annual Christmas show -- The Steeles' annual Christmas show is a family affair, brewed up in a Golden Valley living room."**](https://www.startribune.com/in-a-twin-cities-living-room-the-steeles-cook-up-their-35th-annual-christmas-show/566344542/)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 19 December 2019
-    - about [Alexander O’Neal](../../topics/alexander-o-neal/index.md), [contract](../../topics/contract/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [Kenni Holmen](../../topics/kenni-holmen/index.md), [Sonny Thompson](../../topics/sonny-thompson/index.md), [Tommy Barbarella](../../topics/tommy-barbarella/index.md)
+    - about [Alexander O’Neal](../../topics/alexander-o-neal/index.md), [contract](../../topics/contract/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [Kenni Holmen](../../topics/kenni-holmen/index.md), [Sonny Thompson](../../topics/sonny-thompson/index.md), [Sounds of Blackness](../../topics/sounds-of-blackness/index.md), [Tommy Barbarella](../../topics/tommy-barbarella/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/in-a-twin-cities-living-room-the-steeles-cook-up-their-35th-annual-christmas-show/566344542/))
 
 ----

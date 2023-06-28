@@ -5,7 +5,7 @@
  - [**"INTERVIEW: PRINCE ARCHIVIST MICHAEL HOWE ON PRINCE'S FAMED VAULT"**](https://www.ilikeyouroldstuff.com/news/interview-prince-archivist-michael-howe-on-prince-vault)
     - in [I Like Your Old Stuff](https://www.ilikeyouroldstuff.com/)
     - on 25 November 2019
-    - about [1999 (album)](../../topics/album/1999/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Michael Howe](../../topics/michael-howe/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Purple Music (song)](../../topics/song/purple-music/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [vault](../../topics/vault/index.md)
+    - about [1999 (album)](../../topics/album/1999/index.md), [International Lover (song)](../../topics/song/international-lover/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Michael Howe](../../topics/michael-howe/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Purple Music (song)](../../topics/song/purple-music/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [vault](../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.ilikeyouroldstuff.com/news/interview-prince-archivist-michael-howe-on-prince-vault))
 
 ----

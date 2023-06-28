@@ -1,22 +1,14 @@
 # Super Bowl XLI (event)
 
-## 2020 (2)
+## 2020 (1)
 
-### 2020 January (2)
+### 2020 January (1)
 
  - [**"Deep cuts and idiosyncratic visions highlight Grammy tribute concert to Prince"**](https://www.latimes.com/entertainment-arts/music/story/2020-01-29/prince-tribute-grammys-foo-fighters-beck-john-legend)
     - in [Los Angeles Times](https://www.latimes.com/)
     - on 29 January 2020
     - about [Aretha Franklin](../../../topics/aretha-franklin/index.md), [Baby I’m a Star (song)](../../../topics/song/baby-i-m-a-star/index.md), [Bangles](../../../topics/bangles/index.md), [Beck](../../../topics/beck/index.md), [Chris Martin](../../../topics/chris-martin/index.md), [Coldplay](../../../topics/coldplay/index.md), [Controversy (song)](../../../topics/song/controversy/index.md), [Earth, Wind & Fire](../../../topics/earth-wind-fire/index.md), [fentanyl](../../../topics/fentanyl/index.md), [fentanyl overdose](../../../topics/fentanyl-overdose/index.md), [Foo Fighters](../../../topics/foo-fighters/index.md), [Fred Armisen](../../../topics/fred-armisen/index.md), [Gary Clark Jr.](../../../topics/gary-clark-jr/index.md), [Grammy Award](../../../topics/grammy-award/index.md), [H.E.R.](../../../topics/h-e-r/index.md), [Jimmy Jam](../../../topics/jimmy-jam/index.md), [John Legend](../../../topics/john-legend/index.md), [Jungle Love (song)](../../../topics/song/jungle-love/index.md), [Ken Ehrlich](../../../topics/ken-ehrlich/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Los Angeles Convention Center (place)](../../../topics/place/los-angeles-convention-center/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Mavis Staples](../../../topics/mavis-staples/index.md), [Mountains (song)](../../../topics/song/mountains/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Pop Life (song)](../../../topics/song/pop-life/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [St. Vincent](../../../topics/st-vincent/index.md), [Super Bowl](../../../topics/super-bowl/index.md), [Super Bowl XLI (event)](../../../topics/event/super-bowl-xli/index.md), [Susanna Hoffs](../../../topics/susanna-hoffs/index.md), [Terry Lewis](../../../topics/terry-lewis/index.md), [The Beautiful Ones (song)](../../../topics/song/the-beautiful-ones/index.md), [The Glamorous Life (song)](../../../topics/song/the-glamorous-life/index.md), [The Revolution](../../../topics/the-revolution/index.md), [The Time](../../../topics/the-time/index.md), [Under the Cherry Moon (movie)](../../../topics/movie/under-the-cherry-moon/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.latimes.com/entertainment-arts/music/story/2020-01-29/prince-tribute-grammys-foo-fighters-beck-john-legend))
-
-<br />
-
- - [**"Pure Magic: The Oral History of Prince’s Super Bowl XLI Halftime Show -- As the heavens opened up and rain poured down, the Purple One ran through a handful of covers and some of his own songs, delivering an iconic set on the biggest stage possible and only expanding his legend"**](https://www.theringer.com/music/2020/1/29/21112539/prince-halftime-show-oral-history-super-bowl-xli)
-    - in [www.theringer.com](https://www.theringer.com/)
-    - on 29 January 2020
-    - about [1999 (song)](../../../topics/song/1999/index.md), [airport](../../../topics/airport/index.md), [Baby I’m a Star (song)](../../../topics/song/baby-i-m-a-star/index.md), [contract](../../../topics/contract/index.md), [Dan Piepenbring](../../../topics/dan-piepenbring/index.md), [Darling Nikki (song)](../../../topics/song/darling-nikki/index.md), [Foo Fighters](../../../topics/foo-fighters/index.md), [Janet Jackson](../../../topics/janet-jackson/index.md), [Justin Timberlake](../../../topics/justin-timberlake/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [memoir](../../../topics/memoir/index.md), [Michael Jackson](../../../topics/michael-jackson/index.md), [Morris Hayes](../../../topics/morris-hayes/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Raspberry Beret (song)](../../../topics/song/raspberry-beret/index.md), [Shelby J.](../../../topics/shelby-j/index.md), [Super Bowl](../../../topics/super-bowl/index.md), [Super Bowl XLI (event)](../../../topics/event/super-bowl-xli/index.md)
-    - ([mirror](https://web.archive.org/web/*/https://www.theringer.com/music/2020/1/29/21112539/prince-halftime-show-oral-history-super-bowl-xli))
 
 ----
 

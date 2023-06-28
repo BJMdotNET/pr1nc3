@@ -56,6 +56,9 @@ items:
 - name: 94 East
   href: 94-east/index.md
   homepage: 94-east/index.md
+- name: A Case of You (song)
+  href: song/a-case-of-you/index.md
+  homepage: song/a-case-of-you/index.md
 - name: A&M Records
   href: a-m-records/index.md
   homepage: a-m-records/index.md
@@ -179,6 +182,9 @@ items:
 - name: Anita Baker
   href: anita-baker/index.md
   homepage: anita-baker/index.md
+- name: Anna “Fantastic” Garcia
+  href: anna-fantastic-garcia/index.md
+  homepage: anna-fantastic-garcia/index.md
 - name: Anne McCulley
   href: anne-mcculley/index.md
   homepage: anne-mcculley/index.md
@@ -329,6 +335,9 @@ items:
 - name: Big Daddy Kane
   href: big-daddy-kane/index.md
   homepage: big-daddy-kane/index.md
+- name: Bill Gerber
+  href: bill-gerber/index.md
+  homepage: bill-gerber/index.md
 - name: Billy Gibbons
   href: billy-gibbons/index.md
   homepage: billy-gibbons/index.md
@@ -623,6 +632,9 @@ items:
 - name: Chuck D.
   href: chuck-d/index.md
   homepage: chuck-d/index.md
+- name: Chuck Zwicky
+  href: chuck-zwicky/index.md
+  homepage: chuck-zwicky/index.md
 - name: Cinnamon Girl (song)
   href: song/cinnamon-girl/index.md
   homepage: song/cinnamon-girl/index.md
@@ -737,6 +749,9 @@ items:
 - name: Dan Rather
   href: dan-rather/index.md
   homepage: dan-rather/index.md
+- name: Dance With the Devil (song)
+  href: song/dance-with-the-devil/index.md
+  homepage: song/dance-with-the-devil/index.md
 - name: Daniel D’or
   href: daniel-d-or/index.md
   homepage: daniel-d-or/index.md
@@ -788,7 +803,7 @@ items:
 - name: Deborah Allen
   href: deborah-allen/index.md
   homepage: deborah-allen/index.md
-- name: defamation 
+- name: defamation
   href: defamation/index.md
   homepage: defamation/index.md
 - name: Delirious (song)
@@ -848,6 +863,9 @@ items:
 - name: Dirty Mind (album)
   href: album/dirty-mind/index.md
   homepage: album/dirty-mind/index.md
+- name: Dirty Mind (song)
+  href: song/dirty-mind/index.md
+  homepage: song/dirty-mind/index.md
 - name: Dirty Mind (tour)
   href: tour/dirty-mind/index.md
   homepage: tour/dirty-mind/index.md
@@ -935,6 +953,9 @@ items:
 - name: Earth, Wind and Fire
   href: earth-wind-and-fire/index.md
   homepage: earth-wind-and-fire/index.md
+- name: Ed McDonald
+  href: ed-mcdonald/index.md
+  homepage: ed-mcdonald/index.md
 - name: Ed McPherson
   href: ed-mcpherson/index.md
   homepage: ed-mcpherson/index.md
@@ -965,6 +986,9 @@ items:
 - name: Eileen Murton
   href: eileen-murton/index.md
   homepage: eileen-murton/index.md
+- name: Electric Chair (song)
+  href: song/electric-chair/index.md
+  homepage: song/electric-chair/index.md
 - name: Electric Fetus (place)
   href: place/electric-fetus/index.md
   homepage: place/electric-fetus/index.md
@@ -1148,6 +1172,12 @@ items:
 - name: Gary Clark Jr.
   href: gary-clark-jr/index.md
   homepage: gary-clark-jr/index.md
+- name: Gary Hines
+  href: gary-hines/index.md
+  homepage: gary-hines/index.md
+- name: Gary LeMel
+  href: gary-lemel/index.md
+  homepage: gary-lemel/index.md
 - name: Gary Stiffelman
   href: gary-stiffelman/index.md
   homepage: gary-stiffelman/index.md
@@ -1157,6 +1187,9 @@ items:
 - name: Geffen Film Company
   href: geffen-film-company/index.md
   homepage: geffen-film-company/index.md
+- name: Gemini
+  href: gemini/index.md
+  homepage: gemini/index.md
 - name: GenOne
   href: genone/index.md
   homepage: genone/index.md
@@ -1400,6 +1433,9 @@ items:
 - name: Internal Revenue Service
   href: internal-revenue-service/index.md
   homepage: internal-revenue-service/index.md
+- name: International Lover (song)
+  href: song/international-lover/index.md
+  homepage: song/international-lover/index.md
 - name: Iron Mountain
   href: iron-mountain/index.md
   homepage: iron-mountain/index.md
@@ -1730,6 +1766,9 @@ items:
 - name: Legendary Combo
   href: legendary-combo/index.md
   homepage: legendary-combo/index.md
+- name: Lemon Crush (song)
+  href: song/lemon-crush/index.md
+  homepage: song/lemon-crush/index.md
 - name: Lennar Homes
   href: lennar-homes/index.md
   homepage: lennar-homes/index.md
@@ -1958,9 +1997,18 @@ items:
 - name: Marva Collins
   href: marva-collins/index.md
   homepage: marva-collins/index.md
+- name: Mary Don’t You Weep (song)
+  href: song/mary-don-t-you-weep/index.md
+  homepage: song/mary-don-t-you-weep/index.md
+- name: Matt “Dr. Fink” Fink
+  href: matt-dr-fink-fink/index.md
+  homepage: matt-dr-fink-fink/index.md
 - name: Matt Fink
   href: matt-fink/index.md
   homepage: matt-fink/index.md
+- name: Matt Larson
+  href: matt-larson/index.md
+  homepage: matt-larson/index.md
 - name: Matt Umanov
   href: matt-umanov/index.md
   homepage: matt-umanov/index.md
@@ -2006,6 +2054,9 @@ items:
 - name: Meshell Ndegeocello
   href: meshell-ndegeocello/index.md
   homepage: meshell-ndegeocello/index.md
+- name: Miami (place)
+  href: place/miami/index.md
+  homepage: place/miami/index.md
 - name: Michael Bland
   href: michael-bland/index.md
   homepage: michael-bland/index.md
@@ -2504,6 +2555,12 @@ items:
 - name: Phish
   href: phish/index.md
   homepage: phish/index.md
+- name: Piano & A Microphone 1983 (album review)
+  href: album-review/piano-a-microphone-1983/index.md
+  homepage: album-review/piano-a-microphone-1983/index.md
+- name: Piano & A Microphone 1983 (album)
+  href: album/piano-a-microphone-1983/index.md
+  homepage: album/piano-a-microphone-1983/index.md
 - name: Piano and a Microphone (tour)
   href: tour/piano-and-a-microphone/index.md
   homepage: tour/piano-and-a-microphone/index.md
@@ -2852,6 +2909,9 @@ items:
 - name: Scandalous Sex Suite (EP)
   href: ep/scandalous-sex-suite/index.md
   homepage: ep/scandalous-sex-suite/index.md
+- name: Scarlet Pussy (song)
+  href: song/scarlet-pussy/index.md
+  homepage: song/scarlet-pussy/index.md
 - name: Schmitt Music Company
   href: schmitt-music-company/index.md
   homepage: schmitt-music-company/index.md
@@ -2978,6 +3038,9 @@ items:
 - name: Soul Train Awards
   href: soul-train-awards/index.md
   homepage: soul-train-awards/index.md
+- name: Sounds of Blackness
+  href: sounds-of-blackness/index.md
+  homepage: sounds-of-blackness/index.md
 - name: Source Song Festival
   href: source-song-festival/index.md
   homepage: source-song-festival/index.md
@@ -3062,6 +3125,9 @@ items:
 - name: Strange But True (song)
   href: song/strange-but-true/index.md
   homepage: song/strange-but-true/index.md
+- name: Strange Relationship (song)
+  href: song/strange-relationship/index.md
+  homepage: song/strange-relationship/index.md
 - name: Sugar Walls (song)
   href: song/sugar-walls/index.md
   homepage: song/sugar-walls/index.md
@@ -3170,6 +3236,9 @@ items:
 - name: The ArchAndroid (album)
   href: album/the-archandroid/index.md
   homepage: album/the-archandroid/index.md
+- name: The Arms of Orion (song)
+  href: song/the-arms-of-orion/index.md
+  homepage: song/the-arms-of-orion/index.md
 - name: The Ballad Of Dorothy Parker (song)
   href: song/the-ballad-of-dorothy-parker/index.md
   homepage: song/the-ballad-of-dorothy-parker/index.md
@@ -3458,6 +3527,9 @@ items:
 - name: Versace
   href: versace/index.md
   homepage: versace/index.md
+- name: Vicki Waiting (song)
+  href: song/vicki-waiting/index.md
+  homepage: song/vicki-waiting/index.md
 - name: Vicki, is the Water Warm Enough (song)
   href: song/vicki-is-the-water-warm-enough/index.md
   homepage: song/vicki-is-the-water-warm-enough/index.md

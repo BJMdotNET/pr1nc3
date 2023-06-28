@@ -2,20 +2,20 @@
 
 ## June 2023 (7)
 
- - [**"Lawyer to Prince: Show Me Your Symbol ... $$$"**](https://www.tmz.com/2010/08/03/prince-lawsuit-breach-of-contract-lawyer-ed-mcpherson/)
-    - in [TMZ](https://www.tmz.com/)
-    - on 23 June 2023
-    - about [Ed McPherson](../../topics/ed-mcpherson/index.md), [lawsuit](../../topics/lawsuit/index.md)
-    - ([mirror](https://web.archive.org/web/*/https://www.tmz.com/2010/08/03/prince-lawsuit-breach-of-contract-lawyer-ed-mcpherson/))
-
-----
-
  - [**"Prince Paisley Park Celebration 2023: Photos From the Event -- The seventh annual event featured unreleased music from the Prince vault, as well as performances and special appearances."**](https://www.billboard.com/photos/prince-paisley-park-celebration-2023-photos-1235355324/)
     - by [Jenny Regan](../../authors/jenny-regan/index.md)
     - in [Billboard](https://www.billboard.com/)
     - on 15 June 2023
-    - about [Celebration (event)](../../topics/event/celebration/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Doug E. Fresh](../../topics/doug-e-fresh/index.md), [L. Londell McMillan](../../topics/l-londell-mcmillan/index.md), [Levi Seacer](../../topics/levi-seacer/index.md), [museum](../../topics/museum/index.md), [Paisley Park Studios (place)](../../topics/place/paisley-park-studios/index.md), [vault](../../topics/vault/index.md)
+    - about [Celebration (event)](../../topics/event/celebration/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Doug E. Fresh](../../topics/doug-e-fresh/index.md), [L. Londell McMillan](../../topics/l-londell-mcmillan/index.md), [Levi Seacer](../../topics/levi-seacer/index.md), [museum](../../topics/museum/index.md), [Paisley Park Studios (place)](../../topics/place/paisley-park-studios/index.md), [Sounds of Blackness](../../topics/sounds-of-blackness/index.md), [vault](../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/photos/prince-paisley-park-celebration-2023-photos-1235355324/))
+
+----
+
+ - [**"‘60 Songs That Explain the ’90s’: The Filthy Brilliance of Prince in the ’90s -- Finding the joy in the repetition—and experimentation—of Prince’s most interesting decade"**](https://www.theringer.com/2023/6/14/23760185/prince-90s-gett-off-history)
+    - in [The Ringer](https://www.theringer.com/)
+    - on 14 June 2023
+    - about [Bangles](../../topics/bangles/index.md), [Batdance (song)](../../topics/song/batdance/index.md), [Batman (album)](../../topics/album/batman/index.md), [Black Album (album)](../../topics/album/black-album/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Cyndi Lauper](../../topics/cyndi-lauper/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Michael Bland](../../topics/michael-bland/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Round and Round (song)](../../topics/song/round-and-round/index.md), [Scandalous (song)](../../topics/song/scandalous/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [Tevin Campbell](../../topics/tevin-campbell/index.md), [The Black Album (album)](../../topics/album/the-black-album/index.md), [Tim Burton](../../topics/tim-burton/index.md), [Tommy Barbarella](../../topics/tommy-barbarella/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md), [Weird Al Yankovic](../../topics/weird-al-yankovic/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.theringer.com/2023/6/14/23760185/prince-90s-gett-off-history))
 
 ----
 
@@ -57,6 +57,7 @@
  - [**"Welcome to Paisley Park: Prince fans love unreleased songs and concert footage -- Celebration 2023 honors the Purple One for four days this weekend."**](https://www.startribune.com/paisley-park-prince-chanhassen-revolution-john-nelson-yokohama-chaka-khan-chuck-d-stokley/600281268/)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 8 June 2023
+    - about [Sounds of Blackness](../../topics/sounds-of-blackness/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/paisley-park-prince-chanhassen-revolution-john-nelson-yokohama-chaka-khan-chuck-d-stokley/600281268/))
 
 ----
@@ -100,7 +101,7 @@
     - by [Gil Kaufman](../../authors/gil-kaufman/index.md)
     - in [Billboard](https://www.billboard.com/)
     - on 4 May 2023
-    - about [Celebration (event)](../../topics/event/celebration/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Doug E. Fresh](../../topics/doug-e-fresh/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [vault](../../topics/vault/index.md)
+    - about [Celebration (event)](../../topics/event/celebration/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Doug E. Fresh](../../topics/doug-e-fresh/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Sounds of Blackness](../../topics/sounds-of-blackness/index.md), [vault](../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/music/rb-hip-hop/prince-unreleased-music-paisley-park-celebration-2023-1235321771/))
 
 ----

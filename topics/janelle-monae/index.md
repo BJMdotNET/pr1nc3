@@ -27,7 +27,7 @@
  - [**"To Janet Jackson, Minneapolis will always be her 'home away from home' -- Balancing motherhood and megahits, Janet Jackson talks about her return to Minnesota, where she recorded her breakthrough albums."**](https://www.startribune.com/to-janet-jackson-minneapolis-will-always-be-her-home-away-from-home/560054982/)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 11 September 2019
-    - about [Janelle Monae](../../topics/janelle-monae/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Time](../../topics/the-time/index.md)
+    - about [Janelle Monae](../../topics/janelle-monae/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Sounds of Blackness](../../topics/sounds-of-blackness/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Time](../../topics/the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/to-janet-jackson-minneapolis-will-always-be-her-home-away-from-home/560054982/))
 
 ----
@@ -37,7 +37,7 @@
  - [**"AM Prep-Music -- BARACK OBAMA NAMES JANELLE MONAE, ASHLEY McBRYDE, LORD HURON TO HIS 2018 FAVORITES LIST"**](https://apnews.com/d33c037b27094f43bce9125d8094fa1b)
     - in [Associated Press News](https://apnews.com/)
     - on 1 January 2019
-    - about [Janelle Monae](../../topics/janelle-monae/index.md), [Obama](../../topics/obama/index.md)
+    - about [Janelle Monae](../../topics/janelle-monae/index.md), [Mary Don’t You Weep (song)](../../topics/song/mary-don-t-you-weep/index.md), [Obama](../../topics/obama/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/d33c037b27094f43bce9125d8094fa1b))
 
 ----

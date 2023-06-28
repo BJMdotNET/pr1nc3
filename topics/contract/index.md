@@ -5,9 +5,9 @@
 ### 2020 January (2)
 
  - [**"Pure Magic: The Oral History of Prince’s Super Bowl XLI Halftime Show -- As the heavens opened up and rain poured down, the Purple One ran through a handful of covers and some of his own songs, delivering an iconic set on the biggest stage possible and only expanding his legend"**](https://www.theringer.com/music/2020/1/29/21112539/prince-halftime-show-oral-history-super-bowl-xli)
-    - in [www.theringer.com](https://www.theringer.com/)
+    - in [The Ringer](https://www.theringer.com/)
     - on 29 January 2020
-    - about [1999 (song)](../../topics/song/1999/index.md), [airport](../../topics/airport/index.md), [Baby I’m a Star (song)](../../topics/song/baby-i-m-a-star/index.md), [contract](../../topics/contract/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [Foo Fighters](../../topics/foo-fighters/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [memoir](../../topics/memoir/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Morris Hayes](../../topics/morris-hayes/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Raspberry Beret (song)](../../topics/song/raspberry-beret/index.md), [Shelby J.](../../topics/shelby-j/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Super Bowl XLI (event)](../../topics/event/super-bowl-xli/index.md)
+    - about [1999 (song)](../../topics/song/1999/index.md), [airport](../../topics/airport/index.md), [Baby I’m a Star (song)](../../topics/song/baby-i-m-a-star/index.md), [contract](../../topics/contract/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [Federal Communications Commission](../../topics/federal-communications-commission/index.md), [Foo Fighters](../../topics/foo-fighters/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [memoir](../../topics/memoir/index.md), [Miami (place)](../../topics/place/miami/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Morris Hayes](../../topics/morris-hayes/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Raspberry Beret (song)](../../topics/song/raspberry-beret/index.md), [Shelby J.](../../topics/shelby-j/index.md), [Super Bowl](../../topics/super-bowl/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.theringer.com/music/2020/1/29/21112539/prince-halftime-show-oral-history-super-bowl-xli))
 
 <br />
@@ -27,7 +27,7 @@
  - [**"In a Twin Cities living room, the Steeles cook up their 35th annual Christmas show -- The Steeles' annual Christmas show is a family affair, brewed up in a Golden Valley living room."**](https://www.startribune.com/in-a-twin-cities-living-room-the-steeles-cook-up-their-35th-annual-christmas-show/566344542/)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 19 December 2019
-    - about [Alexander O’Neal](../../topics/alexander-o-neal/index.md), [contract](../../topics/contract/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [Kenni Holmen](../../topics/kenni-holmen/index.md), [Sonny Thompson](../../topics/sonny-thompson/index.md), [Tommy Barbarella](../../topics/tommy-barbarella/index.md)
+    - about [Alexander O’Neal](../../topics/alexander-o-neal/index.md), [contract](../../topics/contract/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [Kenni Holmen](../../topics/kenni-holmen/index.md), [Sonny Thompson](../../topics/sonny-thompson/index.md), [Sounds of Blackness](../../topics/sounds-of-blackness/index.md), [Tommy Barbarella](../../topics/tommy-barbarella/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/in-a-twin-cities-living-room-the-steeles-cook-up-their-35th-annual-christmas-show/566344542/))
 
 <br />
@@ -196,7 +196,7 @@
  - [**"Prince’s Estate to Take Over Management of Paisley Park"**](https://variety.com/2019/music/news/prince-estate-take-over-paisley-park-1203316110/)
     - in [Variety](https://variety.com/)
     - on 27 August 2019
-    - about [Ava DuVernay](../../topics/ava-duvernay/index.md), [contract](../../topics/contract/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [Joel Weinshanker](../../topics/joel-weinshanker/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [memoir](../../topics/memoir/index.md), [museum](../../topics/museum/index.md), [Netflix](../../topics/netflix/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Sony Music](../../topics/sony-music/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)
+    - about [Ava DuVernay](../../topics/ava-duvernay/index.md), [contract](../../topics/contract/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [Joel Weinshanker](../../topics/joel-weinshanker/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [memoir](../../topics/memoir/index.md), [museum](../../topics/museum/index.md), [Netflix](../../topics/netflix/index.md), [Piano & A Microphone 1983 (album)](../../topics/album/piano-a-microphone-1983/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Sony Music](../../topics/sony-music/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)
     - ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/news/prince-estate-take-over-paisley-park-1203316110/))
 
 <br />
@@ -220,7 +220,7 @@
  - [**"Prince's estate to assume management of Paisley Park -- Graceland Holdings will no longer run the Chanhassen museum as of Oct. 1."**](https://www.startribune.com/prince-s-estate-to-assume-management-of-paisley-park/558364602/)
     - in [Minneapolis Star Tribune](https://www.startribune.com/)
     - on 26 August 2019
-    - about [Ava DuVernay](../../topics/ava-duvernay/index.md), [Bangles](../../topics/bangles/index.md), [Comerica](../../topics/comerica/index.md), [contract](../../topics/contract/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [Joel Weinshanker](../../topics/joel-weinshanker/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [memoir](../../topics/memoir/index.md), [museum](../../topics/museum/index.md), [Netflix](../../topics/netflix/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [vault](../../topics/vault/index.md)
+    - about [Ava DuVernay](../../topics/ava-duvernay/index.md), [Bangles](../../topics/bangles/index.md), [Comerica](../../topics/comerica/index.md), [contract](../../topics/contract/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [Joel Weinshanker](../../topics/joel-weinshanker/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [memoir](../../topics/memoir/index.md), [museum](../../topics/museum/index.md), [Netflix](../../topics/netflix/index.md), [Piano & A Microphone 1983 (album)](../../topics/album/piano-a-microphone-1983/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [vault](../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-s-estate-to-assume-management-of-paisley-park/558364602/))
 
 <br />
@@ -293,7 +293,7 @@
  - [**"MICHAEL HOWE, L’ARCHIVISTE DE PRINCE, NOUS PARLE DE « ORIGINALS »"**](https://www.schkopi.com/index.php/2019/06/news/michael-howe-larchiviste-de-prince-nous-parle-de-originals/)
     - in [Schkopi.com](https://www.schkopi.com/)
     - on 6 June 2019
-    - about [contract](../../topics/contract/index.md), [Michael Howe](../../topics/michael-howe/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../topics/album/originals/index.md), [Troy Carter](../../topics/troy-carter/index.md)
+    - about [contract](../../topics/contract/index.md), [International Lover (song)](../../topics/song/international-lover/index.md), [Michael Howe](../../topics/michael-howe/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../topics/album/originals/index.md), [Troy Carter](../../topics/troy-carter/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.schkopi.com/index.php/2019/06/news/michael-howe-larchiviste-de-prince-nous-parle-de-originals/))
 
 ----
@@ -748,7 +748,7 @@
  - [**"People in the News"**](https://apnews.com/df4748de657e2a79a5ec74214a26f279)
     - in [Associated Press News](https://apnews.com/)
     - on 22 December 1991
-    - about [breach of contract](../../topics/breach-of-contract/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [contract](../../topics/contract/index.md), [defamation ](../../topics/defamation/index.md), [Diamonds and Pearls (album)](../../topics/album/diamonds-and-pearls/index.md), [Jill Willis](../../topics/jill-willis/index.md), [Jughead (song)](../../topics/song/jughead/index.md), [lawsuit](../../topics/lawsuit/index.md), [Money Don’t Matter 2 Night (song)](../../topics/song/money-don-t-matter-2-night/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [Sheena Easton](../../topics/sheena-easton/index.md), [Steve Fargnoli](../../topics/steve-fargnoli/index.md)
+    - about [breach of contract](../../topics/breach-of-contract/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [contract](../../topics/contract/index.md), [defamation](../../topics/defamation/index.md), [Diamonds and Pearls (album)](../../topics/album/diamonds-and-pearls/index.md), [Jill Willis](../../topics/jill-willis/index.md), [Jughead (song)](../../topics/song/jughead/index.md), [lawsuit](../../topics/lawsuit/index.md), [Money Don’t Matter 2 Night (song)](../../topics/song/money-don-t-matter-2-night/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [Sheena Easton](../../topics/sheena-easton/index.md), [Steve Fargnoli](../../topics/steve-fargnoli/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/df4748de657e2a79a5ec74214a26f279))
 
 ----

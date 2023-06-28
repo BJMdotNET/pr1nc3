@@ -77,6 +77,9 @@ items:
 - name: blog.discogs.com
   href: blog-discogs-com/index.md
   homepage: blog-discogs-com/index.md
+- name: Bloomberg Law
+  href: bloomberg-law/index.md
+  homepage: bloomberg-law/index.md
 - name: bookriot.com
   href: bookriot-com/index.md
   homepage: bookriot-com/index.md
@@ -197,6 +200,9 @@ items:
 - name: Far Out Magazine
   href: far-out-magazine/index.md
   homepage: far-out-magazine/index.md
+- name: FindLaw
+  href: findlaw/index.md
+  homepage: findlaw/index.md
 - name: Fitzcarraldo Editions
   href: fitzcarraldo-editions/index.md
   homepage: fitzcarraldo-editions/index.md
@@ -386,9 +392,6 @@ items:
 - name: New York Times
   href: new-york-times/index.md
   homepage: new-york-times/index.md
-- name: news.bloomberglaw.com
-  href: news-bloomberglaw-com/index.md
-  homepage: news-bloomberglaw-com/index.md
 - name: news.sky.com
   href: news-sky-com/index.md
   homepage: news-sky-com/index.md
@@ -614,6 +617,9 @@ items:
 - name: The Reckoning by The Counter Narrative Project
   href: the-reckoning-by-the-counter-narrative-project/index.md
   homepage: the-reckoning-by-the-counter-narrative-project/index.md
+- name: The Ringer
+  href: the-ringer/index.md
+  homepage: the-ringer/index.md
 - name: The Root
   href: the-root/index.md
   homepage: the-root/index.md
@@ -794,9 +800,6 @@ items:
 - name: www.ebony.com
   href: www-ebony-com/index.md
   homepage: www-ebony-com/index.md
-- name: www.findlaw.com
-  href: www-findlaw-com/index.md
-  homepage: www-findlaw-com/index.md
 - name: www.france24.com
   href: www-france24-com/index.md
   homepage: www-france24-com/index.md
@@ -944,9 +947,6 @@ items:
 - name: www.theprospectordaily.com
   href: www-theprospectordaily-com/index.md
   homepage: www-theprospectordaily-com/index.md
-- name: www.theringer.com
-  href: www-theringer-com/index.md
-  homepage: www-theringer-com/index.md
 - name: www.thestar.com
   href: www-thestar-com/index.md
   homepage: www-thestar-com/index.md

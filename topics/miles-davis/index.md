@@ -8,7 +8,7 @@
     - by [Jason Draper](../../authors/jason-draper/index.md)
     - in [Dig!](https://www.thisisdig.com/)
     - on 27 October 2021
-    - about [1999 (album)](../../topics/album/1999/index.md), [1999 (song)](../../topics/song/1999/index.md), [Bob Merlis](../../topics/bob-merlis/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [D.M.S.R. (song)](../../topics/song/d-m-s-r/index.md), [Let’s Pretend We’re Married (song)](../../topics/song/let-s-pretend-we-re-married/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Lives Of The Musicians: Prince (book)](../../topics/book/lives-of-the-musicians-prince/index.md), [Los Angeles (place)](../../topics/place/los-angeles/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Morris Day](../../topics/morris-day/index.md), [Peggy McCreary](../../topics/peggy-mccreary/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md)
+    - about [1999 (album)](../../topics/album/1999/index.md), [1999 (song)](../../topics/song/1999/index.md), [Bob Merlis](../../topics/bob-merlis/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [D.M.S.R. (song)](../../topics/song/d-m-s-r/index.md), [International Lover (song)](../../topics/song/international-lover/index.md), [Let’s Pretend We’re Married (song)](../../topics/song/let-s-pretend-we-re-married/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Lives Of The Musicians: Prince (book)](../../topics/book/lives-of-the-musicians-prince/index.md), [Los Angeles (place)](../../topics/place/los-angeles/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Morris Day](../../topics/morris-day/index.md), [Peggy McCreary](../../topics/peggy-mccreary/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.thisisdig.com/feature/1999-album-prince/))
 
 ----
@@ -94,7 +94,7 @@
  - [**"INTERVIEW: PRINCE ARCHIVIST MICHAEL HOWE ON PRINCE'S FAMED VAULT"**](https://www.ilikeyouroldstuff.com/news/interview-prince-archivist-michael-howe-on-prince-vault)
     - in [I Like Your Old Stuff](https://www.ilikeyouroldstuff.com/)
     - on 25 November 2019
-    - about [1999 (album)](../../topics/album/1999/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Michael Howe](../../topics/michael-howe/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Purple Music (song)](../../topics/song/purple-music/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [vault](../../topics/vault/index.md)
+    - about [1999 (album)](../../topics/album/1999/index.md), [International Lover (song)](../../topics/song/international-lover/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Michael Howe](../../topics/michael-howe/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Purple Music (song)](../../topics/song/purple-music/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [vault](../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.ilikeyouroldstuff.com/news/interview-prince-archivist-michael-howe-on-prince-vault))
 
 <br />
@@ -184,7 +184,7 @@
  - [**"Falámos com o arquivista de Prince. “O cofre-forte de canções está atualmente num espaço de alta segurança, à prova de acidentes”"**](https://blitz.pt/principal/update/2019-06-16-Falamos-com-o-arquivista-de-Prince.-O-cofre-forte-de-cancoes-esta-atualmente-num-espaco-de-alta-seguranca-a-prova-de-acidentes)
     - in [Blitz](https://blitz.pt/)
     - on 16 June 2019
-    - about [Bangles](../../topics/bangles/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Michael Howe](../../topics/michael-howe/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../topics/album/originals/index.md), [Sinéad O'Connor](../../topics/sin-ad-o-connor/index.md), [The Time](../../topics/the-time/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md)
+    - about [Bangles](../../topics/bangles/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Michael Howe](../../topics/michael-howe/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../topics/album/originals/index.md), [Piano & A Microphone 1983 (album)](../../topics/album/piano-a-microphone-1983/index.md), [Sinéad O'Connor](../../topics/sin-ad-o-connor/index.md), [The Time](../../topics/the-time/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md)
     - ([mirror](https://web.archive.org/web/*/https://blitz.pt/principal/update/2019-06-16-Falamos-com-o-arquivista-de-Prince.-O-cofre-forte-de-cancoes-esta-atualmente-num-espaco-de-alta-seguranca-a-prova-de-acidentes))
 
 ----
@@ -214,7 +214,7 @@
  - [**"Nuevo álbum de Prince: solo él cantando al piano en su casa"**](https://apnews.com/article/cdd2248d6c1a4c2b829a3235ee7f3fb5)
     - in [Associated Press News](https://apnews.com/)
     - on 18 September 2018
-    - about [17 Days (song)](../../topics/song/17-days/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Spike Lee](../../topics/spike-lee/index.md), [Troy Carter](../../topics/troy-carter/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md), [Why The Butterflies (song)](../../topics/song/why-the-butterflies/index.md)
+    - about [17 Days (song)](../../topics/song/17-days/index.md), [A Case of You (song)](../../topics/song/a-case-of-you/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [International Lover (song)](../../topics/song/international-lover/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Mary Don’t You Weep (song)](../../topics/song/mary-don-t-you-weep/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Piano & A Microphone 1983 (album)](../../topics/album/piano-a-microphone-1983/index.md), [Spike Lee](../../topics/spike-lee/index.md), [Strange Relationship (song)](../../topics/song/strange-relationship/index.md), [Troy Carter](../../topics/troy-carter/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md), [Why The Butterflies (song)](../../topics/song/why-the-butterflies/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/cdd2248d6c1a4c2b829a3235ee7f3fb5))
 
 ----
@@ -248,14 +248,14 @@
     - by [David Marchese](../../authors/david-marchese/index.md)
     - in [Vulture](https://www.vulture.com/)
     - on 20 March 2017
-    - about [André Cymone](../../topics/andr-cymone/index.md), [Bobby Z](../../topics/bobby-z/index.md), [Bobby Z.](../../topics/bobby-z/index.md), [Brown Mark](../../topics/brown-mark/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Matt Fink](../../topics/matt-fink/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Rick James](../../topics/rick-james/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
+    - about [A Case of You (song)](../../topics/song/a-case-of-you/index.md), [André Cymone](../../topics/andr-cymone/index.md), [Bobby Z](../../topics/bobby-z/index.md), [Bobby Z.](../../topics/bobby-z/index.md), [Brown Mark](../../topics/brown-mark/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Matt Fink](../../topics/matt-fink/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Rick James](../../topics/rick-james/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.vulture.com/2017/03/prince-revolution-best-stories.html))
 
 ----
 
-## 2016 (3)
+## 2016 (4)
 
-### 2016 April (3)
+### 2016 April (4)
 
  - [**"Fans’ Holy Grail: unreleased songs in Prince’s vault"**](https://apnews.com/73b9ba74daa4423bb36ac62d4655a71b)
     - in [Associated Press News](https://apnews.com/)
@@ -270,6 +270,14 @@
     - on 28 April 2016
     - about [Bangles](../../topics/bangles/index.md), [Bob Dylan](../../topics/bob-dylan/index.md), [Bremer Trust](../../topics/bremer-trust/index.md), [California (place)](../../topics/place/california/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Touré](../../topics/tour/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/2fd8bfebd0284a1b893a84abbc165d03))
+
+<br />
+
+ - [**"Live Forever: The Legend of Prince in Concert"**](https://www.theringer.com/2016/4/22/16038864/live-forever-the-legend-of-prince-in-concert-caa4a59b4bf6)
+    - in [The Ringer](https://www.theringer.com/)
+    - on 22 April 2016
+    - about [James Brown](../../topics/james-brown/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Miles Davis](../../topics/miles-davis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.theringer.com/2016/4/22/16038864/live-forever-the-legend-of-prince-in-concert-caa4a59b4bf6))
 
 <br />
 

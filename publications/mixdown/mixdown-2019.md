@@ -5,7 +5,7 @@
  - [**"PRINCE'S '1999' TO BE REISSUED WITH 35 UNHEARD TRACKS -- New Prince Songs!"**](http://www.mixdownmag.com.au/princes-1999-be-reissued-35-unheard-tracks)
     - in [Mixdown](http://www.mixdownmag.com.au/)
     - on 13 September 2019
-    - about [1999 (album)](../../topics/album/1999/index.md), [1999 (song)](../../topics/song/1999/index.md), [Horny Toad (song)](../../topics/song/horny-toad/index.md), [How Come U Don't Call Me Anymore (song)](../../topics/song/how-come-u-don-t-call-me-anymore/index.md)
+    - about [1999 (album)](../../topics/album/1999/index.md), [1999 (song)](../../topics/song/1999/index.md), [Horny Toad (song)](../../topics/song/horny-toad/index.md), [How Come U Don't Call Me Anymore (song)](../../topics/song/how-come-u-don-t-call-me-anymore/index.md), [International Lover (song)](../../topics/song/international-lover/index.md)
     - ([mirror](https://web.archive.org/web/*/http://www.mixdownmag.com.au/princes-1999-be-reissued-35-unheard-tracks))
 
 ----

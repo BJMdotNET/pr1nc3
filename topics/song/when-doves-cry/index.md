@@ -1,5 +1,17 @@
 # When Doves Cry (song)
 
+## 2023 (1)
+
+### 2023 June (1)
+
+ - [**"‘60 Songs That Explain the ’90s’: The Filthy Brilliance of Prince in the ’90s -- Finding the joy in the repetition—and experimentation—of Prince’s most interesting decade"**](https://www.theringer.com/2023/6/14/23760185/prince-90s-gett-off-history)
+    - in [The Ringer](https://www.theringer.com/)
+    - on 14 June 2023
+    - about [Bangles](../../../topics/bangles/index.md), [Batdance (song)](../../../topics/song/batdance/index.md), [Batman (album)](../../../topics/album/batman/index.md), [Black Album (album)](../../../topics/album/black-album/index.md), [Chaka Khan](../../../topics/chaka-khan/index.md), [Cyndi Lauper](../../../topics/cyndi-lauper/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Mayte](../../../topics/mayte/index.md), [Mayte Garcia](../../../topics/mayte-garcia/index.md), [Michael Bland](../../../topics/michael-bland/index.md), [New Power Generation](../../../topics/new-power-generation/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Round and Round (song)](../../../topics/song/round-and-round/index.md), [Scandalous (song)](../../../topics/song/scandalous/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md), [Susannah Melvoin](../../../topics/susannah-melvoin/index.md), [Tevin Campbell](../../../topics/tevin-campbell/index.md), [The Black Album (album)](../../../topics/album/the-black-album/index.md), [Tim Burton](../../../topics/tim-burton/index.md), [Tommy Barbarella](../../../topics/tommy-barbarella/index.md), [Under the Cherry Moon (movie)](../../../topics/movie/under-the-cherry-moon/index.md), [Weird Al Yankovic](../../../topics/weird-al-yankovic/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.theringer.com/2023/6/14/23760185/prince-90s-gett-off-history))
+
+----
+
 ## 2022 (3)
 
 ### 2022 June (1)
@@ -216,7 +228,7 @@
  - [**"Prince: The Story of 1999 bonus feature: The sound of Prince and Peggy McCreary"**](https://www.thecurrent.org/feature/2019/11/27/prince-the-story-of-1999-bonus-feature-the-sound-of-prince-and-peggy-mccreary)
     - in [The Current](https://www.thecurrent.org/)
     - on 27 November 2019
-    - about [1999 (album)](../../../topics/album/1999/index.md), [Alan Leeds](../../../topics/alan-leeds/index.md), [Andrea Swensson](../../../topics/andrea-swensson/index.md), [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Colleen (song)](../../../topics/song/colleen/index.md), [David Leonard](../../../topics/david-leonard/index.md), [Duane Tudahl](../../../topics/duane-tudahl/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Jesse Johnson](../../../topics/jesse-johnson/index.md), [Jill Jones](../../../topics/jill-jones/index.md), [Jimmy Jam](../../../topics/jimmy-jam/index.md), [Kiowa Trail](../../../topics/kiowa-trail/index.md), [Lisa Chamblee](../../../topics/lisa-chamblee/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [motorcycle](../../../topics/motorcycle/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Peggy McCreary](../../../topics/peggy-mccreary/index.md), [Prince: The Story of 1999](../../../topics/prince-the-story-of-1999/index.md), [Rearrange (song)](../../../topics/song/rearrange/index.md), [Sometimes It Snows In April (song)](../../../topics/song/sometimes-it-snows-in-april/index.md), [Steve Fargnoli](../../../topics/steve-fargnoli/index.md), [Sunset Sound (place)](../../../topics/place/sunset-sound/index.md), [Susan Rogers](../../../topics/susan-rogers/index.md), [Sylvia Massy](../../../topics/sylvia-massy/index.md), [Vanity](../../../topics/vanity/index.md), [Vanity 6](../../../topics/vanity-6/index.md), [vault](../../../topics/vault/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md), [YouTube](../../../topics/youtube/index.md)
+    - about [1999 (album)](../../../topics/album/1999/index.md), [Alan Leeds](../../../topics/alan-leeds/index.md), [Andrea Swensson](../../../topics/andrea-swensson/index.md), [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Colleen (song)](../../../topics/song/colleen/index.md), [David Leonard](../../../topics/david-leonard/index.md), [Duane Tudahl](../../../topics/duane-tudahl/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [International Lover (song)](../../../topics/song/international-lover/index.md), [Jesse Johnson](../../../topics/jesse-johnson/index.md), [Jill Jones](../../../topics/jill-jones/index.md), [Jimmy Jam](../../../topics/jimmy-jam/index.md), [Kiowa Trail](../../../topics/kiowa-trail/index.md), [Lisa Chamblee](../../../topics/lisa-chamblee/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [motorcycle](../../../topics/motorcycle/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Peggy McCreary](../../../topics/peggy-mccreary/index.md), [Prince: The Story of 1999](../../../topics/prince-the-story-of-1999/index.md), [Rearrange (song)](../../../topics/song/rearrange/index.md), [Sometimes It Snows In April (song)](../../../topics/song/sometimes-it-snows-in-april/index.md), [Steve Fargnoli](../../../topics/steve-fargnoli/index.md), [Sunset Sound (place)](../../../topics/place/sunset-sound/index.md), [Susan Rogers](../../../topics/susan-rogers/index.md), [Sylvia Massy](../../../topics/sylvia-massy/index.md), [Vanity](../../../topics/vanity/index.md), [Vanity 6](../../../topics/vanity-6/index.md), [vault](../../../topics/vault/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md), [YouTube](../../../topics/youtube/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/11/27/prince-the-story-of-1999-bonus-feature-the-sound-of-prince-and-peggy-mccreary))
 
 <br />
@@ -530,7 +542,7 @@
 
 ----
 
-## 2018 (5)
+## 2018 (6)
 
 ### 2018 November (1)
 
@@ -542,12 +554,20 @@
 
 ----
 
-### 2018 September (2)
+### 2018 September (3)
+
+ - [**"Prince’s and Tom Petty’s Posthumous Careers Are Off to a Great Start -- For ‘Piano & a Microphone 1983’ and ‘An American Treasure,’ the estates of two beloved rock stars raid their respective vaults, tastefully"**](https://www.theringer.com/music/2018/9/26/17904480/prince-piano-microphone-1983-tom-petty-an-american-treasure-posthumous-album-box-set)
+    - in [The Ringer](https://www.theringer.com/)
+    - on 26 September 2018
+    - about [17 Days (song)](../../../topics/song/17-days/index.md), [A Case of You (song)](../../../topics/song/a-case-of-you/index.md), [Bob Dylan](../../../topics/bob-dylan/index.md), [bootleg](../../../topics/bootleg/index.md), [Cold Coffee & Cocaine (song)](../../../topics/song/cold-coffee-cocaine/index.md), [International Lover (song)](../../../topics/song/international-lover/index.md), [James Brown](../../../topics/james-brown/index.md), [Joni Mitchell](../../../topics/joni-mitchell/index.md), [Mary Don’t You Weep (song)](../../../topics/song/mary-don-t-you-weep/index.md), [Michael Howe](../../../topics/michael-howe/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Piano & A Microphone 1983 (album review)](../../../topics/album-review/piano-a-microphone-1983/index.md), [Piano & A Microphone 1983 (album)](../../../topics/album/piano-a-microphone-1983/index.md), [Stevie Nicks](../../../topics/stevie-nicks/index.md), [Strange Relationship (song)](../../../topics/song/strange-relationship/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.theringer.com/music/2018/9/26/17904480/prince-piano-microphone-1983-tom-petty-an-american-treasure-posthumous-album-box-set))
+
+<br />
 
  - [**"Nuevo álbum de Prince: solo él cantando al piano en su casa"**](https://apnews.com/article/cdd2248d6c1a4c2b829a3235ee7f3fb5)
     - in [Associated Press News](https://apnews.com/)
     - on 18 September 2018
-    - about [17 Days (song)](../../../topics/song/17-days/index.md), [Aretha Franklin](../../../topics/aretha-franklin/index.md), [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Joni Mitchell](../../../topics/joni-mitchell/index.md), [Miles Davis](../../../topics/miles-davis/index.md), [Spike Lee](../../../topics/spike-lee/index.md), [Troy Carter](../../../topics/troy-carter/index.md), [Warner Bros. Records](../../../topics/warner-bros-records/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md), [Why The Butterflies (song)](../../../topics/song/why-the-butterflies/index.md)
+    - about [17 Days (song)](../../../topics/song/17-days/index.md), [A Case of You (song)](../../../topics/song/a-case-of-you/index.md), [Aretha Franklin](../../../topics/aretha-franklin/index.md), [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [International Lover (song)](../../../topics/song/international-lover/index.md), [Joni Mitchell](../../../topics/joni-mitchell/index.md), [Mary Don’t You Weep (song)](../../../topics/song/mary-don-t-you-weep/index.md), [Miles Davis](../../../topics/miles-davis/index.md), [Piano & A Microphone 1983 (album)](../../../topics/album/piano-a-microphone-1983/index.md), [Spike Lee](../../../topics/spike-lee/index.md), [Strange Relationship (song)](../../../topics/song/strange-relationship/index.md), [Troy Carter](../../../topics/troy-carter/index.md), [Warner Bros. Records](../../../topics/warner-bros-records/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md), [Why The Butterflies (song)](../../../topics/song/why-the-butterflies/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/cdd2248d6c1a4c2b829a3235ee7f3fb5))
 
 <br />

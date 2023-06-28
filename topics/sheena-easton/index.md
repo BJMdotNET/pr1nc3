@@ -1,5 +1,17 @@
 # Sheena Easton
 
+## 2022 (1)
+
+### 2022 March (1)
+
+ - [**"When Prince Did the Batdance -- Batman is an eccentric hero with a cape, so when it came time to pick an artist to make the soundtrack for Tim Burton’s 1989 film, the choice was obvious"**](https://www.theringer.com/movies/2022/3/4/22960026/prince-batman-soundtrack-oral-history-batdance)
+    - in [The Ringer](https://www.theringer.com/)
+    - on 4 March 2022
+    - about [200 Balloons (song)](../../topics/song/200-balloons/index.md), [Albert Magnoli](../../topics/albert-magnoli/index.md), [Anna “Fantastic” Garcia](../../topics/anna-fantastic-garcia/index.md), [Baby I’m a Star (song)](../../topics/song/baby-i-m-a-star/index.md), [Batdance (song)](../../topics/song/batdance/index.md), [Batman (album)](../../topics/album/batman/index.md), [Bill Gerber](../../topics/bill-gerber/index.md), [Chuck Zwicky](../../topics/chuck-zwicky/index.md), [Dance With the Devil (song)](../../topics/song/dance-with-the-devil/index.md), [Danny Elfman](../../topics/danny-elfman/index.md), [Eddie Murphy](../../topics/eddie-murphy/index.md), [Electric Chair (song)](../../topics/song/electric-chair/index.md), [Eric Leeds](../../topics/eric-leeds/index.md), [Gary Hines](../../topics/gary-hines/index.md), [Gary LeMel](../../topics/gary-lemel/index.md), [Gemini](../../topics/gemini/index.md), [Jack Nicholson](../../topics/jack-nicholson/index.md), [Kim Basinger](../../topics/kim-basinger/index.md), [Lemon Crush (song)](../../topics/song/lemon-crush/index.md), [London (place)](../../topics/place/london/index.md), [Mark Canton](../../topics/mark-canton/index.md), [Matt “Dr. Fink” Fink](../../topics/matt-dr-fink-fink/index.md), [Matt Larson](../../topics/matt-larson/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Paisley Park Studios (place)](../../topics/place/paisley-park-studios/index.md), [Partyman (song)](../../topics/song/partyman/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [Scandalous (song)](../../topics/song/scandalous/index.md), [Sheena Easton](../../topics/sheena-easton/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Sounds of Blackness](../../topics/sounds-of-blackness/index.md), [The Arms of Orion (song)](../../topics/song/the-arms-of-orion/index.md), [Tim Burton](../../topics/tim-burton/index.md), [Vicki Waiting (song)](../../topics/song/vicki-waiting/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.theringer.com/movies/2022/3/4/22960026/prince-batman-soundtrack-oral-history-batdance))
+
+----
+
 ## 2021 (1)
 
 ### 2021 June (1)
@@ -30,7 +42,7 @@
  - [**"Prince's 50 greatest singles – ranked!"**](https://www.theguardian.com/music/2019/sep/12/prince-50-greatest-singles-ranked)
     - in [The Guardian](https://www.theguardian.com/)
     - on 12 September 2019
-    - about [Batdance (song)](../../topics/song/batdance/index.md), [Cat Glover](../../topics/cat-glover/index.md), [Nile Rodgers](../../topics/nile-rodgers/index.md), [Screwdriver (song)](../../topics/song/screwdriver/index.md), [Sheena Easton](../../topics/sheena-easton/index.md), [Sly Stone](../../topics/sly-stone/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md), [Thieves in the Temple (song)](../../topics/song/thieves-in-the-temple/index.md)
+    - about [Batdance (song)](../../topics/song/batdance/index.md), [Cat Glover](../../topics/cat-glover/index.md), [Nile Rodgers](../../topics/nile-rodgers/index.md), [Screwdriver (song)](../../topics/song/screwdriver/index.md), [Sheena Easton](../../topics/sheena-easton/index.md), [Sly Stone](../../topics/sly-stone/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md), [The Arms of Orion (song)](../../topics/song/the-arms-of-orion/index.md), [Thieves in the Temple (song)](../../topics/song/thieves-in-the-temple/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/music/2019/sep/12/prince-50-greatest-singles-ranked))
 
 ----
@@ -112,7 +124,7 @@
  - [**"Prince's Sign O' The Times, 30 years on"**](https://www.bbc.com/news/entertainment-arts-39441461)
     - in [BBC News](https://www.bbc.com/news/)
     - on 31 March 2017
-    - about [Bangles](../../topics/bangles/index.md), [Dream Factory (album)](../../topics/album/dream-factory/index.md), [Eric Leeds](../../topics/eric-leeds/index.md), [George Clinton](../../topics/george-clinton/index.md), [Housequake (song)](../../topics/song/housequake/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Matt Fink](../../topics/matt-fink/index.md), [Obama](../../topics/obama/index.md), [Questlove](../../topics/questlove/index.md), [Sheena Easton](../../topics/sheena-easton/index.md), [Starfish And Coffee (song)](../../topics/song/starfish-and-coffee/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [The Ballad Of Dorothy Parker (song)](../../topics/song/the-ballad-of-dorothy-parker/index.md), [The Revolution](../../topics/the-revolution/index.md), [U Got the Look (song)](../../topics/song/u-got-the-look/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md), [Van Jones](../../topics/van-jones/index.md), [vault](../../topics/vault/index.md)
+    - about [Bangles](../../topics/bangles/index.md), [Dream Factory (album)](../../topics/album/dream-factory/index.md), [Eric Leeds](../../topics/eric-leeds/index.md), [George Clinton](../../topics/george-clinton/index.md), [Housequake (song)](../../topics/song/housequake/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Matt Fink](../../topics/matt-fink/index.md), [Obama](../../topics/obama/index.md), [Questlove](../../topics/questlove/index.md), [Sheena Easton](../../topics/sheena-easton/index.md), [Starfish And Coffee (song)](../../topics/song/starfish-and-coffee/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Strange Relationship (song)](../../topics/song/strange-relationship/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [The Ballad Of Dorothy Parker (song)](../../topics/song/the-ballad-of-dorothy-parker/index.md), [The Revolution](../../topics/the-revolution/index.md), [U Got the Look (song)](../../topics/song/u-got-the-look/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md), [Van Jones](../../topics/van-jones/index.md), [vault](../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.bbc.com/news/entertainment-arts-39441461))
 
 ----
@@ -180,7 +192,7 @@
  - [**"People in the News"**](https://apnews.com/df4748de657e2a79a5ec74214a26f279)
     - in [Associated Press News](https://apnews.com/)
     - on 22 December 1991
-    - about [breach of contract](../../topics/breach-of-contract/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [contract](../../topics/contract/index.md), [defamation ](../../topics/defamation/index.md), [Diamonds and Pearls (album)](../../topics/album/diamonds-and-pearls/index.md), [Jill Willis](../../topics/jill-willis/index.md), [Jughead (song)](../../topics/song/jughead/index.md), [lawsuit](../../topics/lawsuit/index.md), [Money Don’t Matter 2 Night (song)](../../topics/song/money-don-t-matter-2-night/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [Sheena Easton](../../topics/sheena-easton/index.md), [Steve Fargnoli](../../topics/steve-fargnoli/index.md)
+    - about [breach of contract](../../topics/breach-of-contract/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [contract](../../topics/contract/index.md), [defamation](../../topics/defamation/index.md), [Diamonds and Pearls (album)](../../topics/album/diamonds-and-pearls/index.md), [Jill Willis](../../topics/jill-willis/index.md), [Jughead (song)](../../topics/song/jughead/index.md), [lawsuit](../../topics/lawsuit/index.md), [Money Don’t Matter 2 Night (song)](../../topics/song/money-don-t-matter-2-night/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [Sheena Easton](../../topics/sheena-easton/index.md), [Steve Fargnoli](../../topics/steve-fargnoli/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/df4748de657e2a79a5ec74214a26f279))
 
 ----

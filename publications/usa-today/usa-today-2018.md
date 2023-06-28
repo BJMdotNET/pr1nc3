@@ -16,7 +16,7 @@
  - [**"The story of Prince's lost album 'Piano & A Microphone 1983' – from the man who found it"**](https://usatoday.com/story/life/music/2018/09/18/prince-basement-tape-piano-microphone-1983/1346752002/)
     - in [USA Today](https://usatoday.com/)
     - on 20 September 2018
-    - about [bootleg](../../topics/bootleg/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Michael Howe](../../topics/michael-howe/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md), [Why The Butterflies (song)](../../topics/song/why-the-butterflies/index.md)
+    - about [A Case of You (song)](../../topics/song/a-case-of-you/index.md), [bootleg](../../topics/bootleg/index.md), [International Lover (song)](../../topics/song/international-lover/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Michael Howe](../../topics/michael-howe/index.md), [Piano & A Microphone 1983 (album)](../../topics/album/piano-a-microphone-1983/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Strange Relationship (song)](../../topics/song/strange-relationship/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md), [Why The Butterflies (song)](../../topics/song/why-the-butterflies/index.md)
     - ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2018/09/18/prince-basement-tape-piano-microphone-1983/1346752002/))
 
 ----

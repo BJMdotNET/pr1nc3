@@ -127,12 +127,22 @@
 
 ----
 
-## 2010 (2)
+## 2010 (3)
+
+### 2010 September (1)
+
+ - [**"Prince Settles Lawyer Case"**](https://www.contactmusic.com/prince/news/prince-settles-lawyer-case_1166911)
+    - in [ContactMusic.com](https://www.contactmusic.com/)
+    - on 17 September 2010
+    - about [Ed McDonald](../../../topics/ed-mcdonald/index.md), [lawsuit](../../../topics/lawsuit/index.md), [TMZ (website)](../../../topics/website/tmz/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.contactmusic.com/prince/news/prince-settles-lawyer-case_1166911))
+
+----
 
 ### 2010 August (2)
 
  - [**"Prince Sued by Former Attorney for Unpaid Fees"**](https://www.findlaw.com/legalblogs/celebrity-justice/prince-sued-by-former-attorney-for-unpaid-fees/)
-    - in [www.findlaw.com](https://www.findlaw.com/)
+    - in [FindLaw](https://www.findlaw.com/)
     - on 9 August 2010
     - about [Ed McPherson](../../../topics/ed-mcpherson/index.md), [lawsuit](../../../topics/lawsuit/index.md), [NPG Records](../../../topics/npg-records/index.md), [Paisley Park Enterprises](../../../topics/paisley-park-enterprises/index.md), [TMZ (website)](../../../topics/website/tmz/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.findlaw.com/legalblogs/celebrity-justice/prince-sued-by-former-attorney-for-unpaid-fees/))

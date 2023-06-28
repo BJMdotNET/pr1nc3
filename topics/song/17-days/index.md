@@ -1,13 +1,21 @@
 # 17 Days (song)
 
-## 2018 (6)
+## 2018 (7)
 
-### 2018 September (3)
+### 2018 September (4)
+
+ - [**"Prince’s and Tom Petty’s Posthumous Careers Are Off to a Great Start -- For ‘Piano & a Microphone 1983’ and ‘An American Treasure,’ the estates of two beloved rock stars raid their respective vaults, tastefully"**](https://www.theringer.com/music/2018/9/26/17904480/prince-piano-microphone-1983-tom-petty-an-american-treasure-posthumous-album-box-set)
+    - in [The Ringer](https://www.theringer.com/)
+    - on 26 September 2018
+    - about [17 Days (song)](../../../topics/song/17-days/index.md), [A Case of You (song)](../../../topics/song/a-case-of-you/index.md), [Bob Dylan](../../../topics/bob-dylan/index.md), [bootleg](../../../topics/bootleg/index.md), [Cold Coffee & Cocaine (song)](../../../topics/song/cold-coffee-cocaine/index.md), [International Lover (song)](../../../topics/song/international-lover/index.md), [James Brown](../../../topics/james-brown/index.md), [Joni Mitchell](../../../topics/joni-mitchell/index.md), [Mary Don’t You Weep (song)](../../../topics/song/mary-don-t-you-weep/index.md), [Michael Howe](../../../topics/michael-howe/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Piano & A Microphone 1983 (album review)](../../../topics/album-review/piano-a-microphone-1983/index.md), [Piano & A Microphone 1983 (album)](../../../topics/album/piano-a-microphone-1983/index.md), [Stevie Nicks](../../../topics/stevie-nicks/index.md), [Strange Relationship (song)](../../../topics/song/strange-relationship/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.theringer.com/music/2018/9/26/17904480/prince-piano-microphone-1983-tom-petty-an-american-treasure-posthumous-album-box-set))
+
+<br />
 
  - [**"Prince: Piano & a Microphone 1983 review – demo gems from the Paisley Park vaults"**](https://www.irishtimes.com/culture/music/prince-piano-a-microphone-1983-review-demo-gems-from-the-paisley-park-vaults-1.3632309)
     - in [www.irishtimes.com](https://www.irishtimes.com/)
     - on 20 September 2018
-    - about [17 Days (song)](../../../topics/song/17-days/index.md), [Joni Mitchell](../../../topics/joni-mitchell/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [vault](../../../topics/vault/index.md), [Why The Butterflies (song)](../../../topics/song/why-the-butterflies/index.md)
+    - about [17 Days (song)](../../../topics/song/17-days/index.md), [A Case of You (song)](../../../topics/song/a-case-of-you/index.md), [Joni Mitchell](../../../topics/joni-mitchell/index.md), [Mary Don’t You Weep (song)](../../../topics/song/mary-don-t-you-weep/index.md), [Piano & A Microphone 1983 (album)](../../../topics/album/piano-a-microphone-1983/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Strange Relationship (song)](../../../topics/song/strange-relationship/index.md), [vault](../../../topics/vault/index.md), [Why The Butterflies (song)](../../../topics/song/why-the-butterflies/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.irishtimes.com/culture/music/prince-piano-a-microphone-1983-review-demo-gems-from-the-paisley-park-vaults-1.3632309))
 
 <br />
@@ -15,7 +23,7 @@
  - [**"Nuevo álbum de Prince: solo él cantando al piano en su casa"**](https://apnews.com/article/cdd2248d6c1a4c2b829a3235ee7f3fb5)
     - in [Associated Press News](https://apnews.com/)
     - on 18 September 2018
-    - about [17 Days (song)](../../../topics/song/17-days/index.md), [Aretha Franklin](../../../topics/aretha-franklin/index.md), [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Joni Mitchell](../../../topics/joni-mitchell/index.md), [Miles Davis](../../../topics/miles-davis/index.md), [Spike Lee](../../../topics/spike-lee/index.md), [Troy Carter](../../../topics/troy-carter/index.md), [Warner Bros. Records](../../../topics/warner-bros-records/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md), [Why The Butterflies (song)](../../../topics/song/why-the-butterflies/index.md)
+    - about [17 Days (song)](../../../topics/song/17-days/index.md), [A Case of You (song)](../../../topics/song/a-case-of-you/index.md), [Aretha Franklin](../../../topics/aretha-franklin/index.md), [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [International Lover (song)](../../../topics/song/international-lover/index.md), [Joni Mitchell](../../../topics/joni-mitchell/index.md), [Mary Don’t You Weep (song)](../../../topics/song/mary-don-t-you-weep/index.md), [Miles Davis](../../../topics/miles-davis/index.md), [Piano & A Microphone 1983 (album)](../../../topics/album/piano-a-microphone-1983/index.md), [Spike Lee](../../../topics/spike-lee/index.md), [Strange Relationship (song)](../../../topics/song/strange-relationship/index.md), [Troy Carter](../../../topics/troy-carter/index.md), [Warner Bros. Records](../../../topics/warner-bros-records/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md), [Why The Butterflies (song)](../../../topics/song/why-the-butterflies/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/cdd2248d6c1a4c2b829a3235ee7f3fb5))
 
 <br />
@@ -24,7 +32,7 @@
     - by [Jeff Baenen (Associated Press)](../../../authors/associated-press/jeff-baenen/index.md)
     - in [Associated Press News](https://apnews.com/)
     - on 18 September 2018
-    - about [17 Days (song)](../../../topics/song/17-days/index.md), [Aretha Franklin](../../../topics/aretha-franklin/index.md), [Cold Coffee & Cocaine (song)](../../../topics/song/cold-coffee-cocaine/index.md), [fentanyl](../../../topics/fentanyl/index.md), [fentanyl overdose](../../../topics/fentanyl-overdose/index.md), [Joni Mitchell](../../../topics/joni-mitchell/index.md), [Legacy Recordings](../../../topics/legacy-recordings/index.md), [Lisa Coleman](../../../topics/lisa-coleman/index.md), [Michael Howe](../../../topics/michael-howe/index.md), [NPG Records](../../../topics/npg-records/index.md), [Piano and a Microphone 1983 (album)](../../../topics/album/piano-and-a-microphone-1983/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Sony Music](../../../topics/sony-music/index.md), [Sony Music Entertainment](../../../topics/sony-music-entertainment/index.md), [Troy Carter](../../../topics/troy-carter/index.md), [Warner Bros. Records](../../../topics/warner-bros-records/index.md), [Why The Butterflies (song)](../../../topics/song/why-the-butterflies/index.md)
+    - about [17 Days (song)](../../../topics/song/17-days/index.md), [A Case of You (song)](../../../topics/song/a-case-of-you/index.md), [Aretha Franklin](../../../topics/aretha-franklin/index.md), [Cold Coffee & Cocaine (song)](../../../topics/song/cold-coffee-cocaine/index.md), [fentanyl](../../../topics/fentanyl/index.md), [fentanyl overdose](../../../topics/fentanyl-overdose/index.md), [International Lover (song)](../../../topics/song/international-lover/index.md), [Joni Mitchell](../../../topics/joni-mitchell/index.md), [Legacy Recordings](../../../topics/legacy-recordings/index.md), [Lisa Coleman](../../../topics/lisa-coleman/index.md), [Mary Don’t You Weep (song)](../../../topics/song/mary-don-t-you-weep/index.md), [Michael Howe](../../../topics/michael-howe/index.md), [NPG Records](../../../topics/npg-records/index.md), [Piano & A Microphone 1983 (album)](../../../topics/album/piano-a-microphone-1983/index.md), [Piano and a Microphone 1983 (album)](../../../topics/album/piano-and-a-microphone-1983/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Sony Music](../../../topics/sony-music/index.md), [Sony Music Entertainment](../../../topics/sony-music-entertainment/index.md), [Strange Relationship (song)](../../../topics/song/strange-relationship/index.md), [Troy Carter](../../../topics/troy-carter/index.md), [Warner Bros. Records](../../../topics/warner-bros-records/index.md), [Why The Butterflies (song)](../../../topics/song/why-the-butterflies/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/e0a9e78a662c40d3adee133110bc8489))
 
 ----
@@ -34,7 +42,7 @@
  - [**"More Prince News"**](https://apnews.com/article/2b8d7c72d37c4572b9713c76aceb04e3)
     - in [Associated Press News](https://apnews.com/)
     - on 8 June 2018
-    - about [17 Days (song)](../../../topics/song/17-days/index.md), [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Joni Mitchell](../../../topics/joni-mitchell/index.md), [Warner Bros. Records](../../../topics/warner-bros-records/index.md)
+    - about [17 Days (song)](../../../topics/song/17-days/index.md), [A Case of You (song)](../../../topics/song/a-case-of-you/index.md), [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [International Lover (song)](../../../topics/song/international-lover/index.md), [Joni Mitchell](../../../topics/joni-mitchell/index.md), [Piano & A Microphone 1983 (album)](../../../topics/album/piano-a-microphone-1983/index.md), [Strange Relationship (song)](../../../topics/song/strange-relationship/index.md), [Warner Bros. Records](../../../topics/warner-bros-records/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/2b8d7c72d37c4572b9713c76aceb04e3))
 
 <br />
@@ -42,7 +50,7 @@
  - [**"Warner Bros. to release new Prince album in September"**](https://apnews.com/542e9ad6962e46e8882badfd663b1921)
     - in [Associated Press News](https://apnews.com/)
     - on 7 June 2018
-    - about [17 Days (song)](../../../topics/song/17-days/index.md), [fentanyl overdose](../../../topics/fentanyl-overdose/index.md), [Joni Mitchell](../../../topics/joni-mitchell/index.md), [vault](../../../topics/vault/index.md), [Warner Bros. Records](../../../topics/warner-bros-records/index.md)
+    - about [17 Days (song)](../../../topics/song/17-days/index.md), [A Case of You (song)](../../../topics/song/a-case-of-you/index.md), [fentanyl overdose](../../../topics/fentanyl-overdose/index.md), [International Lover (song)](../../../topics/song/international-lover/index.md), [Joni Mitchell](../../../topics/joni-mitchell/index.md), [Mary Don’t You Weep (song)](../../../topics/song/mary-don-t-you-weep/index.md), [Piano & A Microphone 1983 (album)](../../../topics/album/piano-a-microphone-1983/index.md), [Strange Relationship (song)](../../../topics/song/strange-relationship/index.md), [vault](../../../topics/vault/index.md), [Warner Bros. Records](../../../topics/warner-bros-records/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/542e9ad6962e46e8882badfd663b1921))
 
 <br />
@@ -50,7 +58,7 @@
  - [**"Warner Bros. to release new Prince album in September"**](https://apnews.com/article/98c649c8c304481290ca95e1d64dd837)
     - in [Associated Press News](https://apnews.com/)
     - on 7 June 2018
-    - about [17 Days (song)](../../../topics/song/17-days/index.md), [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [vault](../../../topics/vault/index.md), [Warner Bros. Records](../../../topics/warner-bros-records/index.md)
+    - about [17 Days (song)](../../../topics/song/17-days/index.md), [A Case of You (song)](../../../topics/song/a-case-of-you/index.md), [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [International Lover (song)](../../../topics/song/international-lover/index.md), [Mary Don’t You Weep (song)](../../../topics/song/mary-don-t-you-weep/index.md), [Piano & A Microphone 1983 (album)](../../../topics/album/piano-a-microphone-1983/index.md), [Strange Relationship (song)](../../../topics/song/strange-relationship/index.md), [vault](../../../topics/vault/index.md), [Warner Bros. Records](../../../topics/warner-bros-records/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/98c649c8c304481290ca95e1d64dd837))
 
 ----

@@ -166,7 +166,7 @@
 
 ----
 
-## 2016 (2)
+## 2016 (3)
 
 ### 2016 September (1)
 
@@ -179,13 +179,21 @@
 
 ----
 
-### 2016 April (1)
+### 2016 April (2)
 
  - [**"Dan Bova: What a 9-year-old thinks of 'Purple Rain'"**](https://usatoday.com/story/life/2016/04/27/dan-bovas-prince-tribute/83599176/)
     - in [USA Today](https://usatoday.com/)
     - on 28 April 2016
     - about [Baby I’m a Star (song)](../../../topics/song/baby-i-m-a-star/index.md), [Computer Blue (song)](../../../topics/song/computer-blue/index.md), [Darling Nikki (song)](../../../topics/song/darling-nikki/index.md), [I Would Die 4 U (song)](../../../topics/song/i-would-die-4-u/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Purple Rain (album)](../../../topics/album/purple-rain/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Take Me with U (song)](../../../topics/song/take-me-with-u/index.md), [The Beautiful Ones (song)](../../../topics/song/the-beautiful-ones/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/2016/04/27/dan-bovas-prince-tribute/83599176/))
+
+<br />
+
+ - [**"Prince: The Sexplorer"**](https://www.theringer.com/2016/4/22/16041540/prince-the-sexplorer-b8d443a88325)
+    - in [The Ringer](https://www.theringer.com/)
+    - on 22 April 2016
+    - about [Computer Blue (song)](../../../topics/song/computer-blue/index.md), [Dirty Mind (song)](../../../topics/song/dirty-mind/index.md), [Do Me Baby (song)](../../../topics/song/do-me-baby/index.md), [International Lover (song)](../../../topics/song/international-lover/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Scarlet Pussy (song)](../../../topics/song/scarlet-pussy/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.theringer.com/2016/4/22/16041540/prince-the-sexplorer-b8d443a88325))
 
 ----
 

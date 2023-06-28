@@ -133,7 +133,7 @@
  - [**"AM Prep-Music -- PRINCE’S HOME JAM SESSION WILL BE RELEASED FRIDAY"**](https://apnews.com/d1f539d7cbc541b8ba4d82c1539d9ba6)
     - in [Associated Press News](https://apnews.com/)
     - on 19 September 2018
-    - about [Lisa Coleman](../../topics/lisa-coleman/index.md), [Piano and a Microphone 1983 (album)](../../topics/album/piano-and-a-microphone-1983/index.md), [The Revolution](../../topics/the-revolution/index.md)
+    - about [Lisa Coleman](../../topics/lisa-coleman/index.md), [Piano and a Microphone 1983 (album)](../../topics/album/piano-and-a-microphone-1983/index.md), [Strange Relationship (song)](../../topics/song/strange-relationship/index.md), [The Revolution](../../topics/the-revolution/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/d1f539d7cbc541b8ba4d82c1539d9ba6))
 
 ----
@@ -141,7 +141,7 @@
  - [**"Nuevo álbum de Prince: solo él cantando al piano en su casa"**](https://apnews.com/article/cdd2248d6c1a4c2b829a3235ee7f3fb5)
     - in [Associated Press News](https://apnews.com/)
     - on 18 September 2018
-    - about [17 Days (song)](../../topics/song/17-days/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Spike Lee](../../topics/spike-lee/index.md), [Troy Carter](../../topics/troy-carter/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md), [Why The Butterflies (song)](../../topics/song/why-the-butterflies/index.md)
+    - about [17 Days (song)](../../topics/song/17-days/index.md), [A Case of You (song)](../../topics/song/a-case-of-you/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [International Lover (song)](../../topics/song/international-lover/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Mary Don’t You Weep (song)](../../topics/song/mary-don-t-you-weep/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Piano & A Microphone 1983 (album)](../../topics/album/piano-a-microphone-1983/index.md), [Spike Lee](../../topics/spike-lee/index.md), [Strange Relationship (song)](../../topics/song/strange-relationship/index.md), [Troy Carter](../../topics/troy-carter/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md), [Why The Butterflies (song)](../../topics/song/why-the-butterflies/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/cdd2248d6c1a4c2b829a3235ee7f3fb5))
 
 ----
@@ -150,7 +150,7 @@
     - by [Jeff Baenen (Associated Press)](../../authors/associated-press/jeff-baenen/index.md)
     - in [Associated Press News](https://apnews.com/)
     - on 18 September 2018
-    - about [17 Days (song)](../../topics/song/17-days/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Cold Coffee & Cocaine (song)](../../topics/song/cold-coffee-cocaine/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Legacy Recordings](../../topics/legacy-recordings/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Michael Howe](../../topics/michael-howe/index.md), [NPG Records](../../topics/npg-records/index.md), [Piano and a Microphone 1983 (album)](../../topics/album/piano-and-a-microphone-1983/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Sony Music](../../topics/sony-music/index.md), [Sony Music Entertainment](../../topics/sony-music-entertainment/index.md), [Troy Carter](../../topics/troy-carter/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md), [Why The Butterflies (song)](../../topics/song/why-the-butterflies/index.md)
+    - about [17 Days (song)](../../topics/song/17-days/index.md), [A Case of You (song)](../../topics/song/a-case-of-you/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Cold Coffee & Cocaine (song)](../../topics/song/cold-coffee-cocaine/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [International Lover (song)](../../topics/song/international-lover/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Legacy Recordings](../../topics/legacy-recordings/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Mary Don’t You Weep (song)](../../topics/song/mary-don-t-you-weep/index.md), [Michael Howe](../../topics/michael-howe/index.md), [NPG Records](../../topics/npg-records/index.md), [Piano & A Microphone 1983 (album)](../../topics/album/piano-a-microphone-1983/index.md), [Piano and a Microphone 1983 (album)](../../topics/album/piano-and-a-microphone-1983/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Sony Music](../../topics/sony-music/index.md), [Sony Music Entertainment](../../topics/sony-music-entertainment/index.md), [Strange Relationship (song)](../../topics/song/strange-relationship/index.md), [Troy Carter](../../topics/troy-carter/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md), [Why The Butterflies (song)](../../topics/song/why-the-butterflies/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/e0a9e78a662c40d3adee133110bc8489))
 
 ----
@@ -238,7 +238,7 @@
  - [**"More Prince News"**](https://apnews.com/article/2b8d7c72d37c4572b9713c76aceb04e3)
     - in [Associated Press News](https://apnews.com/)
     - on 8 June 2018
-    - about [17 Days (song)](../../topics/song/17-days/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md)
+    - about [17 Days (song)](../../topics/song/17-days/index.md), [A Case of You (song)](../../topics/song/a-case-of-you/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [International Lover (song)](../../topics/song/international-lover/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Piano & A Microphone 1983 (album)](../../topics/album/piano-a-microphone-1983/index.md), [Strange Relationship (song)](../../topics/song/strange-relationship/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/2b8d7c72d37c4572b9713c76aceb04e3))
 
 ----
@@ -246,7 +246,7 @@
  - [**"Warner Bros. to release new Prince album in September"**](https://apnews.com/542e9ad6962e46e8882badfd663b1921)
     - in [Associated Press News](https://apnews.com/)
     - on 7 June 2018
-    - about [17 Days (song)](../../topics/song/17-days/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [vault](../../topics/vault/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md)
+    - about [17 Days (song)](../../topics/song/17-days/index.md), [A Case of You (song)](../../topics/song/a-case-of-you/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [International Lover (song)](../../topics/song/international-lover/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Mary Don’t You Weep (song)](../../topics/song/mary-don-t-you-weep/index.md), [Piano & A Microphone 1983 (album)](../../topics/album/piano-a-microphone-1983/index.md), [Strange Relationship (song)](../../topics/song/strange-relationship/index.md), [vault](../../topics/vault/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/542e9ad6962e46e8882badfd663b1921))
 
 ----
@@ -254,7 +254,7 @@
  - [**"Warner Bros. to release new Prince album in September"**](https://apnews.com/article/98c649c8c304481290ca95e1d64dd837)
     - in [Associated Press News](https://apnews.com/)
     - on 7 June 2018
-    - about [17 Days (song)](../../topics/song/17-days/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [vault](../../topics/vault/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md)
+    - about [17 Days (song)](../../topics/song/17-days/index.md), [A Case of You (song)](../../topics/song/a-case-of-you/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [International Lover (song)](../../topics/song/international-lover/index.md), [Mary Don’t You Weep (song)](../../topics/song/mary-don-t-you-weep/index.md), [Piano & A Microphone 1983 (album)](../../topics/album/piano-a-microphone-1983/index.md), [Strange Relationship (song)](../../topics/song/strange-relationship/index.md), [vault](../../topics/vault/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/98c649c8c304481290ca95e1d64dd837))
 
 ----
@@ -671,7 +671,7 @@
  - [**"5 Minneapolis Super Bowl concerts worth the splurge, plus 5 cheaper alternatives"**](https://apnews.com/b5354fb801f94674abaf28203dd6eec2)
     - in [Associated Press News](https://apnews.com/)
     - on 25 January 2018
-    - about [André Cymone](../../topics/andr-cymone/index.md), [Brother Jules](../../topics/brother-jules/index.md), [Dakota (place)](../../topics/place/dakota/index.md), [fDeluxe](../../topics/fdeluxe/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Gwen Stefani](../../topics/gwen-stefani/index.md), [Morris Day](../../topics/morris-day/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Nooky Jones](../../topics/nooky-jones/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Soul Asylum](../../topics/soul-asylum/index.md), [Super Bowl](../../topics/super-bowl/index.md), [The Family](../../topics/the-family/index.md), [The Revolution](../../topics/the-revolution/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md)
+    - about [André Cymone](../../topics/andr-cymone/index.md), [Brother Jules](../../topics/brother-jules/index.md), [Dakota (place)](../../topics/place/dakota/index.md), [fDeluxe](../../topics/fdeluxe/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Gwen Stefani](../../topics/gwen-stefani/index.md), [Morris Day](../../topics/morris-day/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Nooky Jones](../../topics/nooky-jones/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Soul Asylum](../../topics/soul-asylum/index.md), [Sounds of Blackness](../../topics/sounds-of-blackness/index.md), [Super Bowl](../../topics/super-bowl/index.md), [The Family](../../topics/the-family/index.md), [The Revolution](../../topics/the-revolution/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/b5354fb801f94674abaf28203dd6eec2))
 
 ----
@@ -679,7 +679,7 @@
  - [**"Super Bowl Live free concerts schedule revealed with new Minnesota all-stars"**](https://apnews.com/359610d132dc4676a00e9e4da420ecaf)
     - in [Associated Press News](https://apnews.com/)
     - on 19 January 2018
-    - about [Andre Cymone](../../topics/andre-cymone/index.md), [Brother Jules](../../topics/brother-jules/index.md), [DJ Dudley D](../../topics/dj-dudley-d/index.md), [fDeluxe](../../topics/fdeluxe/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Soul Asylum](../../topics/soul-asylum/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Revolution](../../topics/the-revolution/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md)
+    - about [Andre Cymone](../../topics/andre-cymone/index.md), [Brother Jules](../../topics/brother-jules/index.md), [DJ Dudley D](../../topics/dj-dudley-d/index.md), [fDeluxe](../../topics/fdeluxe/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Soul Asylum](../../topics/soul-asylum/index.md), [Sounds of Blackness](../../topics/sounds-of-blackness/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Revolution](../../topics/the-revolution/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/359610d132dc4676a00e9e4da420ecaf))
 
 ----

@@ -15,7 +15,7 @@
   * [Paris Fashion Week (event)](../event/paris-fashion-week/index.md) (1)
   * [Prince: In Concert On The Big Screen (event)](../event/prince-in-concert-on-the-big-screen/index.md) (4)
   * [South By Southwest Music Festival (event)](../event/south-by-southwest-music-festival/index.md) (1)
-  * [Super Bowl XLI (event)](../event/super-bowl-xli/index.md) (6)
+  * [Super Bowl XLI (event)](../event/super-bowl-xli/index.md) (5)
 
 ----
 

@@ -139,7 +139,7 @@
 
 ----
 
-## 2016 (7)
+## 2016 (8)
 
 ### 2016 December (1)
 
@@ -161,13 +161,21 @@
 
 ----
 
-### 2016 April (5)
+### 2016 April (6)
 
  - [**"Prince sells 1M songs, 231K albums posthumously"**](https://usatoday.com/story/life/music/2016/04/22/prince-sales-death/83376684/)
     - in [USA Today](https://usatoday.com/)
     - on 23 April 2016
     - about [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Spotify](../../topics/spotify/index.md), [Tidal](../../topics/tidal/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2016/04/22/prince-sales-death/83376684/))
+
+<br />
+
+ - [**"@Prince, Secret Twitter Genius"**](https://www.theringer.com/2016/4/22/16041112/prince-secret-twitter-genius-42f3caac1127)
+    - in [The Ringer](https://www.theringer.com/)
+    - on 22 April 2016
+    - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Spotify](../../topics/spotify/index.md), [Tidal](../../topics/tidal/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.theringer.com/2016/4/22/16041112/prince-secret-twitter-genius-42f3caac1127))
 
 <br />
 

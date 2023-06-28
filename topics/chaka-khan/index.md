@@ -1,15 +1,23 @@
 # Chaka Khan
 
-## 2023 (2)
+## 2023 (3)
 
-### 2023 June (1)
+### 2023 June (2)
 
  - [**"Prince Paisley Park Celebration 2023: Photos From the Event -- The seventh annual event featured unreleased music from the Prince vault, as well as performances and special appearances."**](https://www.billboard.com/photos/prince-paisley-park-celebration-2023-photos-1235355324/)
     - by [Jenny Regan](../../authors/jenny-regan/index.md)
     - in [Billboard](https://www.billboard.com/)
     - on 15 June 2023
-    - about [Celebration (event)](../../topics/event/celebration/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Doug E. Fresh](../../topics/doug-e-fresh/index.md), [L. Londell McMillan](../../topics/l-londell-mcmillan/index.md), [Levi Seacer](../../topics/levi-seacer/index.md), [museum](../../topics/museum/index.md), [Paisley Park Studios (place)](../../topics/place/paisley-park-studios/index.md), [vault](../../topics/vault/index.md)
+    - about [Celebration (event)](../../topics/event/celebration/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Doug E. Fresh](../../topics/doug-e-fresh/index.md), [L. Londell McMillan](../../topics/l-londell-mcmillan/index.md), [Levi Seacer](../../topics/levi-seacer/index.md), [museum](../../topics/museum/index.md), [Paisley Park Studios (place)](../../topics/place/paisley-park-studios/index.md), [Sounds of Blackness](../../topics/sounds-of-blackness/index.md), [vault](../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/photos/prince-paisley-park-celebration-2023-photos-1235355324/))
+
+<br />
+
+ - [**"‘60 Songs That Explain the ’90s’: The Filthy Brilliance of Prince in the ’90s -- Finding the joy in the repetition—and experimentation—of Prince’s most interesting decade"**](https://www.theringer.com/2023/6/14/23760185/prince-90s-gett-off-history)
+    - in [The Ringer](https://www.theringer.com/)
+    - on 14 June 2023
+    - about [Bangles](../../topics/bangles/index.md), [Batdance (song)](../../topics/song/batdance/index.md), [Batman (album)](../../topics/album/batman/index.md), [Black Album (album)](../../topics/album/black-album/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Cyndi Lauper](../../topics/cyndi-lauper/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Michael Bland](../../topics/michael-bland/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Round and Round (song)](../../topics/song/round-and-round/index.md), [Scandalous (song)](../../topics/song/scandalous/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [Tevin Campbell](../../topics/tevin-campbell/index.md), [The Black Album (album)](../../topics/album/the-black-album/index.md), [Tim Burton](../../topics/tim-burton/index.md), [Tommy Barbarella](../../topics/tommy-barbarella/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md), [Weird Al Yankovic](../../topics/weird-al-yankovic/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.theringer.com/2023/6/14/23760185/prince-90s-gett-off-history))
 
 ----
 
@@ -19,12 +27,12 @@
     - by [Gil Kaufman](../../authors/gil-kaufman/index.md)
     - in [Billboard](https://www.billboard.com/)
     - on 4 May 2023
-    - about [Celebration (event)](../../topics/event/celebration/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Doug E. Fresh](../../topics/doug-e-fresh/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [vault](../../topics/vault/index.md)
+    - about [Celebration (event)](../../topics/event/celebration/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Doug E. Fresh](../../topics/doug-e-fresh/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Sounds of Blackness](../../topics/sounds-of-blackness/index.md), [vault](../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/music/rb-hip-hop/prince-unreleased-music-paisley-park-celebration-2023-1235321771/))
 
 ----
 
-## 2021 (2)
+## 2021 (3)
 
 ### 2021 December (1)
 
@@ -41,8 +49,18 @@
  - [**"Jam & Lewis are back for the first time with ‘Volume One’"**](https://apnews.com/article/entertainment-business-music-arts-and-entertainment-hip-hop-and-rap-2474c3f5a5d3aa311320a74321bb9cde)
     - in [Associated Press News](https://apnews.com/)
     - on 31 August 2021
-    - about [Chaka Khan](../../topics/chaka-khan/index.md), [Grammys](../../topics/grammys/index.md), [H.E.R.](../../topics/h-e-r/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Time](../../topics/the-time/index.md)
+    - about [Chaka Khan](../../topics/chaka-khan/index.md), [Grammys](../../topics/grammys/index.md), [H.E.R.](../../topics/h-e-r/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [Sounds of Blackness](../../topics/sounds-of-blackness/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Time](../../topics/the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/entertainment-business-music-arts-and-entertainment-hip-hop-and-rap-2474c3f5a5d3aa311320a74321bb9cde))
+
+----
+
+### 2021 June (1)
+
+ - [**"‘60 Songs That Explain the ’90s’: How Sinéad O’Connor Turned a Prince Song Into Her Classic -- The Purple One wrote ‘Nothing Compares 2 U,’ but O’Connor managed to inhabit the song and make it fully her own"**](https://www.theringer.com/2021/6/2/22464082/sinead-oconnor-nothing-compares-2-u-prince)
+    - in [The Ringer](https://www.theringer.com/)
+    - on 2 June 2021
+    - about [Bangles](../../topics/bangles/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Cyndi Lauper](../../topics/cyndi-lauper/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md), [The Glamorous Life (song)](../../topics/song/the-glamorous-life/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.theringer.com/2021/6/2/22464082/sinead-oconnor-nothing-compares-2-u-prince))
 
 ----
 
@@ -131,7 +149,7 @@
  - [**"Hear Prince’s Acoustic Demo of ‘I Feel for You’"**](https://variety.com/2019/music/news/prince-i-feel-for-you-acoustic-demo-listen-1203375320/)
     - in [Variety](https://variety.com/)
     - on 18 October 2019
-    - about [Capri Theater (place)](../../topics/place/capri-theater/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [For You (album)](../../topics/album/for-you/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Michael Howe](../../topics/michael-howe/index.md), [vault](../../topics/vault/index.md)
+    - about [Capri Theater (place)](../../topics/place/capri-theater/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [For You (album)](../../topics/album/for-you/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Michael Howe](../../topics/michael-howe/index.md), [Piano & A Microphone 1983 (album)](../../topics/album/piano-a-microphone-1983/index.md), [vault](../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/news/prince-i-feel-for-you-acoustic-demo-listen-1203375320/))
 
 <br />
@@ -147,7 +165,7 @@
  - [**"Prince - Listen to His Previously Unreleased Original Demo of “Feel For You” -- Recorded in 1979 and Available on 7-Inch"**](http://www.undertheradarmag.com/news/prince_-_listen_to_his_previously_unreleased_original_demo_of_feel_for_you)
     - in [Under the Radar](http://www.undertheradarmag.com/)
     - on 18 October 2019
-    - about [Chaka Khan](../../topics/chaka-khan/index.md), [For You (album)](../../topics/album/for-you/index.md), [Kiowa Trail](../../topics/kiowa-trail/index.md), [Michael Howe](../../topics/michael-howe/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [vault](../../topics/vault/index.md)
+    - about [Chaka Khan](../../topics/chaka-khan/index.md), [For You (album)](../../topics/album/for-you/index.md), [Kiowa Trail](../../topics/kiowa-trail/index.md), [Michael Howe](../../topics/michael-howe/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Piano & A Microphone 1983 (album)](../../topics/album/piano-a-microphone-1983/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [vault](../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/http://www.undertheradarmag.com/news/prince_-_listen_to_his_previously_unreleased_original_demo_of_feel_for_you))
 
 <br />
@@ -552,7 +570,7 @@
  - [**"Prince Interview -- The Purple Yoda dispenses wisdom via e-mail."**](https://www.timeout.com/chicago/music/prince-interview)
     - in [www.timeout.com](https://www.timeout.com/)
     - on 18 September 2012
-    - about [Chaka Khan](../../topics/chaka-khan/index.md), [Chicago  (place)](../../topics/place/chicago/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [Marva Collins](../../topics/marva-collins/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Park West (place)](../../topics/place/park-west/index.md), [Rebuild the Dream](../../topics/rebuild-the-dream/index.md), [Uptown Theatre (place)](../../topics/place/uptown-theatre/index.md), [Van Jones](../../topics/van-jones/index.md), [Westside Preparatory School](../../topics/westside-preparatory-school/index.md)
+    - about [Chaka Khan](../../topics/chaka-khan/index.md), [Chicago (place)](../../topics/place/chicago/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [Marva Collins](../../topics/marva-collins/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Park West (place)](../../topics/place/park-west/index.md), [Rebuild the Dream](../../topics/rebuild-the-dream/index.md), [Uptown Theatre (place)](../../topics/place/uptown-theatre/index.md), [Van Jones](../../topics/van-jones/index.md), [Westside Preparatory School](../../topics/westside-preparatory-school/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.timeout.com/chicago/music/prince-interview))
 
 ----
@@ -564,7 +582,7 @@
  - [**"Prince before the Revolution -- An inside look at the artist formerly known as Prince before the Revolution and before he was pop royalty and had delivered the albums that brought him to worldwide acclaim."**](https://blog.discmakers.com/2011/06/prince-before-the-revolution/)
     - in [blog.discmakers.com](https://blog.discmakers.com/)
     - on 6 June 2011
-    - about [American Bandstand](../../topics/american-bandstand/index.md), [André Cymone](../../topics/andr-cymone/index.md), [Backbeat Books](../../topics/backbeat-books/index.md), [Black Album (album)](../../topics/album/black-album/index.md), [Bobby Z](../../topics/bobby-z/index.md), [Capri Theater (place)](../../topics/place/capri-theater/index.md), [Cavallo, Ruffalo & Fargnoli](../../topics/cavallo-ruffalo-fargnoli/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Chris Moon](../../topics/chris-moon/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [Earth, Wind & Fire](../../topics/earth-wind-fire/index.md), [Edina (place)](../../topics/place/edina/index.md), [France Avenue (place)](../../topics/place/france-avenue/index.md), [Hal Leonard](../../topics/hal-leonard/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [I Wanna Be Your Lover (song)](../../topics/song/i-wanna-be-your-lover/index.md), [Jason Draper](../../topics/jason-draper/index.md), [Los Angeles (place)](../../topics/place/los-angeles/index.md), [Matt Fink](../../topics/matt-fink/index.md), [Moonsound Studios (place)](../../topics/place/moonsound-studios/index.md), [Nile Rodgers](../../topics/nile-rodgers/index.md), [Owen Husney](../../topics/owen-husney/index.md), [Pepé Willie](../../topics/pep-willie/index.md), [Prince: Chaos, Disorder, and Revolution (book)](../../topics/book/prince-chaos-disorder-and-revolution/index.md), [St. Paul (place)](../../topics/place/st-paul/index.md), [Steve Fargnoli](../../topics/steve-fargnoli/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Super Bowl](../../topics/super-bowl/index.md), [The Revolution](../../topics/the-revolution/index.md)
+    - about [American Bandstand](../../topics/american-bandstand/index.md), [André Cymone](../../topics/andr-cymone/index.md), [Backbeat Books](../../topics/backbeat-books/index.md), [Black Album (album)](../../topics/album/black-album/index.md), [Bobby Z](../../topics/bobby-z/index.md), [Capri Theater (place)](../../topics/place/capri-theater/index.md), [Cavallo, Ruffalo & Fargnoli](../../topics/cavallo-ruffalo-fargnoli/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Chris Moon](../../topics/chris-moon/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [Earth, Wind & Fire](../../topics/earth-wind-fire/index.md), [Edina (place)](../../topics/place/edina/index.md), [France Avenue (place)](../../topics/place/france-avenue/index.md), [Hal Leonard](../../topics/hal-leonard/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [I Wanna Be Your Lover (song)](../../topics/song/i-wanna-be-your-lover/index.md), [Jason Draper](../../topics/jason-draper/index.md), [Los Angeles (place)](../../topics/place/los-angeles/index.md), [Matt Fink](../../topics/matt-fink/index.md), [Miami (place)](../../topics/place/miami/index.md), [Moonsound Studios (place)](../../topics/place/moonsound-studios/index.md), [Nile Rodgers](../../topics/nile-rodgers/index.md), [Owen Husney](../../topics/owen-husney/index.md), [Pepé Willie](../../topics/pep-willie/index.md), [Prince: Chaos, Disorder, and Revolution (book)](../../topics/book/prince-chaos-disorder-and-revolution/index.md), [St. Paul (place)](../../topics/place/st-paul/index.md), [Steve Fargnoli](../../topics/steve-fargnoli/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Super Bowl](../../topics/super-bowl/index.md), [The Revolution](../../topics/the-revolution/index.md)
     - ([mirror](https://web.archive.org/web/*/https://blog.discmakers.com/2011/06/prince-before-the-revolution/))
 
 ----
