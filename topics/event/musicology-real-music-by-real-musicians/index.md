@@ -5,7 +5,7 @@
 ### 2020 February (1)
 
  - [**"The Hold Steady, Neko Case and local supergroup Golden Smog booked for First Avenue’s 50th birthday weekend"**](https://www.twincities.com/2020/02/13/the-hold-steady-neko-case-and-local-supergroup-golden-smog-booked-for-first-avenues-50th-birthday-weekend/)
-    - in [TwinCities.com - Pioneer Press](https://www.twincities.com/)
+    - in [TwinCities.com - Pioneer Press](../../../publications/twincities-com-pioneer-press/index.md)
     - on 13 February 2020
     - about [Celebration (event)](../../../topics/event/celebration/index.md), [Chastity Brown](../../../topics/chastity-brown/index.md), [fentanyl](../../../topics/fentanyl/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Madonna](../../../topics/madonna/index.md), [Meshell Ndegeocello](../../../topics/meshell-ndegeocello/index.md), [Musicology: Real Music by Real Musicians (event)](../../../topics/event/musicology-real-music-by-real-musicians/index.md), [Sometimes It Snows In April (song)](../../../topics/song/sometimes-it-snows-in-april/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2020/02/13/the-hold-steady-neko-case-and-local-supergroup-golden-smog-booked-for-first-avenues-50th-birthday-weekend/))
@@ -15,7 +15,7 @@
 ### 2020 January (2)
 
  - [**"Let’s get drunk at Prince’s house!"**](http://www.citypages.com/music/lets-get-drunk-at-princes-house/566877031)
-    - in [City Pages](http://www.citypages.com/)
+    - in [City Pages](../../../publications/city-pages/index.md)
     - on 10 January 2020
     - about [Amazing Grace (movie)](../../../topics/movie/amazing-grace/index.md), [Aretha Franklin](../../../topics/aretha-franklin/index.md), [Dave Chappelle](../../../topics/dave-chappelle/index.md), [Dave Chappelle’s Block Party (movie)](../../../topics/movie/dave-chappelle-s-block-party/index.md), [Meshell Ndegeocello](../../../topics/meshell-ndegeocello/index.md), [Musicology: Real Music by Real Musicians (event)](../../../topics/event/musicology-real-music-by-real-musicians/index.md), [Paisley Park Cinema: Music on the Big Screen (event)](../../../topics/event/paisley-park-cinema-music-on-the-big-screen/index.md), [Super Bowl](../../../topics/super-bowl/index.md), [Thing Called Life: Prince Reimagined (tour)](../../../topics/tour/thing-called-life-prince-reimagined/index.md)
     - ([mirror](https://web.archive.org/web/*/http://www.citypages.com/music/lets-get-drunk-at-princes-house/566877031))
@@ -23,7 +23,7 @@
 <br />
 
  - [**"Alcohol will be served as Paisley Park launches new live music series"**](https://www.startribune.com/live-music-series-at-prince-s-paisley-park-to-kick-off-feb-15-with-meshell-ndegeocello/566830752/)
-    - in [Minneapolis Star Tribune](https://www.startribune.com/)
+    - in [Minneapolis Star Tribune](../../../publications/minneapolis-star-tribune/index.md)
     - on 9 January 2020
     - about [Amazing Grace (movie)](../../../topics/movie/amazing-grace/index.md), [Andre Cymone](../../../topics/andre-cymone/index.md), [Aretha Franklin](../../../topics/aretha-franklin/index.md), [Dave Chappelle](../../../topics/dave-chappelle/index.md), [Dave Chappelle’s Block Party (movie)](../../../topics/movie/dave-chappelle-s-block-party/index.md), [George Clinton](../../../topics/george-clinton/index.md), [Judith Hill](../../../topics/judith-hill/index.md), [Meshell Ndegeocello](../../../topics/meshell-ndegeocello/index.md), [Musicology: Real Music by Real Musicians (event)](../../../topics/event/musicology-real-music-by-real-musicians/index.md), [Paisley Park Cinema: Music on the Big Screen (event)](../../../topics/event/paisley-park-cinema-music-on-the-big-screen/index.md), [Sometimes It Snows In April (song)](../../../topics/song/sometimes-it-snows-in-april/index.md), [Wattstax (movie)](../../../topics/movie/wattstax/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/live-music-series-at-prince-s-paisley-park-to-kick-off-feb-15-with-meshell-ndegeocello/566830752/))

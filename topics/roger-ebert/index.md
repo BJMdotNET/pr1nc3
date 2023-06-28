@@ -5,7 +5,7 @@
 ### 2016 April (4)
 
  - [**"A Prince on screen, from ‘Purple Rain’ to ‘Graffiti Bridge’"**](https://apnews.com/8082812e075544679812ad4cc742307f)
-    - in [Associated Press News](https://apnews.com/)
+    - in [Associated Press News](../../publications/associated-press-news/index.md)
     - on 22 April 2016
     - about [Academy Award](../../topics/academy-award/index.md), [Batdance (song)](../../topics/song/batdance/index.md), [Batman (album)](../../topics/album/batman/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Glam Slam (place)](../../topics/place/glam-slam/index.md), [Graffiti Bridge (movie)](../../topics/movie/graffiti-bridge/index.md), [Grammy Award](../../topics/grammy-award/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Krush Groove (movie)](../../topics/movie/krush-groove/index.md), [Morris Day](../../topics/morris-day/index.md), [Parade (album)](../../topics/album/parade/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Roger Ebert](../../topics/roger-ebert/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Time](../../topics/the-time/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/8082812e075544679812ad4cc742307f))
@@ -13,7 +13,7 @@
 <br />
 
  - [**"A synthesizer of sounds, Prince ‘rewrote the rulebook’"**](https://apnews.com/c07d6a9a2752405fa8ed91e8d949806a)
-    - in [Associated Press News](https://apnews.com/)
+    - in [Associated Press News](../../publications/associated-press-news/index.md)
     - on 22 April 2016
     - about [Bangles](../../topics/bangles/index.md), [contract](../../topics/contract/index.md), [Cyndi Lauper](../../topics/cyndi-lauper/index.md), [Frank Zappa](../../topics/frank-zappa/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Obama](../../topics/obama/index.md), [Parents Music Resource Center](../../topics/parents-music-resource-center/index.md), [Roger Ebert](../../topics/roger-ebert/index.md), [The Time](../../topics/the-time/index.md), [White House (place)](../../topics/place/white-house/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/c07d6a9a2752405fa8ed91e8d949806a))
@@ -21,7 +21,7 @@
 <br />
 
  - [**"Prince “reescribió las reglas” de la música"**](https://apnews.com/article/dbe5c9245d024a89bca2376ee8b631c0)
-    - in [Associated Press News](https://apnews.com/)
+    - in [Associated Press News](../../publications/associated-press-news/index.md)
     - on 22 April 2016
     - about [Bangles](../../topics/bangles/index.md), [Black Album (album)](../../topics/album/black-album/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Cyndi Lauper](../../topics/cyndi-lauper/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [Eden Prairie (place)](../../topics/place/eden-prairie/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Frank Zappa](../../topics/frank-zappa/index.md), [James Brown](../../topics/james-brown/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Morris Day](../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Parents Music Resource Center](../../topics/parents-music-resource-center/index.md), [Roger Ebert](../../topics/roger-ebert/index.md), [The Black Album (album)](../../topics/album/the-black-album/index.md), [Tidal](../../topics/tidal/index.md), [Tipper Gore](../../topics/tipper-gore/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md), [Yvette Noel-Schure](../../topics/yvette-noel-schure/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/dbe5c9245d024a89bca2376ee8b631c0))
@@ -29,7 +29,7 @@
 <br />
 
  - [**"Prince, hugely inventive, influential musician, dead at 57"**](https://apnews.com/988e107cf6964494b58ad2ca9bcd0985)
-    - in [Associated Press News](https://apnews.com/)
+    - in [Associated Press News](../../publications/associated-press-news/index.md)
     - on 22 April 2016
     - about [Academy Award](../../topics/academy-award/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Bangles](../../topics/bangles/index.md), [contract](../../topics/contract/index.md), [Cyndi Lauper](../../topics/cyndi-lauper/index.md), [Frank Zappa](../../topics/frank-zappa/index.md), [I Wanna Be Your Lover (song)](../../topics/song/i-wanna-be-your-lover/index.md), [James Brown](../../topics/james-brown/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Obama](../../topics/obama/index.md), [Parents Music Resource Center](../../topics/parents-music-resource-center/index.md), [Roger Ebert](../../topics/roger-ebert/index.md), [Tidal](../../topics/tidal/index.md), [Vanity](../../topics/vanity/index.md), [White House (place)](../../topics/place/white-house/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/988e107cf6964494b58ad2ca9bcd0985))

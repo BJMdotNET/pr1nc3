@@ -5,7 +5,7 @@
 ### 2019 May (1)
 
  - [**"Prince’s bodyguard deposed in wrongful death lawsuit"**](https://apnews.com/8e68cf25ceb245319425b5952c5d1be8)
-    - in [Associated Press News](https://apnews.com/)
+    - in [Associated Press News](../../publications/associated-press-news/index.md)
     - on 30 May 2019
     - about [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Clayton Tyler](../../topics/clayton-tyler/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [lawsuit](../../topics/lawsuit/index.md), [Michael Schulenberg](../../topics/michael-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [North Memorial Health Care](../../topics/north-memorial-health-care/index.md), [opioid](../../topics/opioid/index.md), [oxycodone](../../topics/oxycodone/index.md), [Walgreens](../../topics/walgreens/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/8e68cf25ceb245319425b5952c5d1be8))
@@ -17,7 +17,7 @@
 ### 2018 April (1)
 
  - [**"Those close to Prince worried about his use of painkillers for years"**](https://apnews.com/article/efa5edae3d5c4d1887e9058404f2ad35)
-    - in [Associated Press News](https://apnews.com/)
+    - in [Associated Press News](../../publications/associated-press-news/index.md)
     - on 20 April 2018
     - about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Carver County](../../topics/carver-county/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Clayton Tyler](../../topics/clayton-tyler/index.md), [Duane Nelson](../../topics/duane-nelson/index.md), [fentanyl](../../topics/fentanyl/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [opioid](../../topics/opioid/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Percocet](../../topics/percocet/index.md), [Phaedra Ellis-Lamkins](../../topics/phaedra-ellis-lamkins/index.md), [Recovery Without Walls](../../topics/recovery-without-walls/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md), [Vicodin](../../topics/vicodin/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/efa5edae3d5c4d1887e9058404f2ad35))

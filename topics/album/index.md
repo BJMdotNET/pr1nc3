@@ -1,6 +1,6 @@
 # album
 
-  * [1-800-NEW-FUNK (album)](../album/1-800-new-funk/index.md) (1)
+  * [1-800-NEW-FUNK (album)](../album/1-800-new-funk/index.md) (2)
   * [1999 (album)](../album/1999/index.md) (89)
   * [1999 Deluxe (album)](../album/1999-deluxe/index.md) (6)
   * [1999 Super Deluxe (album)](../album/1999-super-deluxe/index.md) (10)
@@ -12,6 +12,7 @@
   * [Back in Time (album)](../album/back-in-time/index.md) (1)
   * [Batman (album)](../album/batman/index.md) (9)
   * [Black Album (album)](../album/black-album/index.md) (5)
+  * [Blueberry Gossip (album)](../album/blueberry-gossip/index.md) (1)
   * [Chaos and Disorder (album)](../album/chaos-and-disorder/index.md) (8)
   * [Controversy (album)](../album/controversy/index.md) (6)
   * [Crystal Ball (album)](../album/crystal-ball/index.md) (4)
@@ -32,7 +33,7 @@
   * [Lotus Flower (album)](../album/lotus-flower/index.md) (1)
   * [LotusFlow3r (album)](../album/lotusflow3r/index.md) (7)
   * [Lovesexy (album)](../album/lovesexy/index.md) (9)
-  * [Margie's Little Demo (album)](../album/margie-s-little-demo/index.md) (1)
+  * [Margie's Little Demo (album)](../album/margie-s-little-demo/index.md) (2)
   * [MPLSoUND (album)](../album/mplsound/index.md) (4)
   * [Musicology (album)](../album/musicology/index.md) (6)
   * [One Nite Alone (album)](../album/one-nite-alone/index.md) (12)
@@ -62,6 +63,7 @@
   * [The Rainbow Children (album)](../album/the-rainbow-children/index.md) (8)
   * [The Red Shoes (album)](../album/the-red-shoes/index.md) (2)
   * [The Versace Experience (Prelude 2 Gold) (album)](../album/the-versace-experience-prelude-2-gold/index.md) (6)
+  * [Tuff Girl (album)](../album/tuff-girl/index.md) (1)
   * [Ultimate Rave (album)](../album/ultimate-rave/index.md) (2)
   * [Up All Nite with Prince: The One Nite Alone Collection (album)](../album/up-all-nite-with-prince-the-one-nite-alone-collection/index.md) (3)
   * [Vermillion (album)](../album/vermillion/index.md) (1)

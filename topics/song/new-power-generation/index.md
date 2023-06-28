@@ -5,7 +5,7 @@
 ### 2019 December (5)
 
  - [**"The Best Music Boxed Sets of 2019 -- The Beatles, Prince, Bob Dylan, Nat King Cole, the Replacements and the Band all got commemorated — along with Woodstock, Bakersfield, Motown and East L.A."**](https://variety.com/2019/music/reviews/best-music-boxed-sets-2019-1203451459/)
-    - in [Variety](https://variety.com/)
+    - in [Variety](../../../publications/variety/index.md)
     - on 23 December 2019
     - about [1999 (album)](../../../topics/album/1999/index.md), [Bob Dylan](../../../topics/bob-dylan/index.md), [bootleg](../../../topics/bootleg/index.md), [David Fricke](../../../topics/david-fricke/index.md), [Eric Clapton](../../../topics/eric-clapton/index.md), [Michael Jackson](../../../topics/michael-jackson/index.md), [Mountains (song)](../../../topics/song/mountains/index.md), [New Power Generation (song)](../../../topics/song/new-power-generation/index.md), [Stevie Wonder](../../../topics/stevie-wonder/index.md), [The Revolution](../../../topics/the-revolution/index.md), [vault](../../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/reviews/best-music-boxed-sets-2019-1203451459/))
@@ -13,7 +13,7 @@
 <br />
 
  - [**"A Review Of Prince’s 1999 Super Deluxe Edition"**](https://www.sobrosnetwork.com/2019/12/09/a-review-of-princes-1999-super-deluxe-edition/)
-    - in [www.sobrosnetwork.com](https://www.sobrosnetwork.com/)
+    - in [www.sobrosnetwork.com](../../../publications/www-sobrosnetwork-com/index.md)
     - on 9 December 2019
     - about [1999 (album)](../../../topics/album/1999/index.md), [1999 Super Deluxe (album)](../../../topics/album/1999-super-deluxe/index.md), [Andrea Swensson](../../../topics/andrea-swensson/index.md), [Bold Generation (song)](../../../topics/song/bold-generation/index.md), [Colleen (song)](../../../topics/song/colleen/index.md), [Feel U Up (song)](../../../topics/song/feel-u-up/index.md), [Graffiti Bridge (album)](../../../topics/album/graffiti-bridge/index.md), [How Come U Don’t Call Me Anymore? (song)](../../../topics/song/how-come-u-don-t-call-me-anymore/index.md), [If It’ll Make U Happy (song)](../../../topics/song/if-it-ll-make-u-happy/index.md), [Irresistible Bitch (song)](../../../topics/song/irresistible-bitch/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Morris Day](../../../topics/morris-day/index.md), [New Power Generation (song)](../../../topics/song/new-power-generation/index.md), [No Call U (song)](../../../topics/song/no-call-u/index.md), [Peggy McCreary](../../../topics/peggy-mccreary/index.md), [Possessed (song)](../../../topics/song/possessed/index.md), [Prince: The Story of 1999](../../../topics/prince-the-story-of-1999/index.md), [Purple Music (song)](../../../topics/song/purple-music/index.md), [Rearrange (song)](../../../topics/song/rearrange/index.md), [Sunset Sound (place)](../../../topics/place/sunset-sound/index.md), [The Revolution](../../../topics/the-revolution/index.md), [Vagina (song)](../../../topics/song/vagina/index.md), [Vanity](../../../topics/vanity/index.md), [Vanity 6](../../../topics/vanity-6/index.md), [vault](../../../topics/vault/index.md), [Yah, You Know (song)](../../../topics/song/yah-you-know/index.md), [You’re All I Want (song)](../../../topics/song/you-re-all-i-want/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.sobrosnetwork.com/2019/12/09/a-review-of-princes-1999-super-deluxe-edition/))
@@ -21,7 +21,7 @@
 <br />
 
  - [**"AVEC "1999", PRINCE SE HISSE AU SOMMET DE SON ART -- Avec la réédition deluxe de 1999 de Prince, Warner Music nous donne l’occasion de revenir aux racines d’un album qui marque la période la plus créative du Kid de Minneapolis."**](http://www.magicrpm.com/1999-prince-au-sommet-de-son-art/)
-    - in [www.magicrpm.com](http://www.magicrpm.com/)
+    - in [www.magicrpm.com](../../../publications/www-magicrpm-com/index.md)
     - on 3 December 2019
     - about [1999 (album)](../../../topics/album/1999/index.md), [Bold Generation (song)](../../../topics/song/bold-generation/index.md), [Colleen (song)](../../../topics/song/colleen/index.md), [Feel U Up (song)](../../../topics/song/feel-u-up/index.md), [Irresistible Bitch (song)](../../../topics/song/irresistible-bitch/index.md), [Lake Minnetonka (place)](../../../topics/place/lake-minnetonka/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Michael Jackson](../../../topics/michael-jackson/index.md), [New Power Generation (song)](../../../topics/song/new-power-generation/index.md), [Peggy McCreary](../../../topics/peggy-mccreary/index.md), [Purple Music (song)](../../../topics/song/purple-music/index.md), [Quincy Jones](../../../topics/quincy-jones/index.md), [Raspberry Beret (song)](../../../topics/song/raspberry-beret/index.md), [Rearrange (song)](../../../topics/song/rearrange/index.md), [Roger Linn](../../../topics/roger-linn/index.md), [Strange Relationship (song)](../../../topics/song/strange-relationship/index.md), [Sunset Sound (place)](../../../topics/place/sunset-sound/index.md), [Vanity](../../../topics/vanity/index.md), [Vanity 6](../../../topics/vanity-6/index.md)
     - ([mirror](https://web.archive.org/web/*/http://www.magicrpm.com/1999-prince-au-sommet-de-son-art/))
@@ -29,7 +29,7 @@
 <br />
 
  - [**"Prince: The Story of 1999, Episode 3: The Idolmaker"**](https://www.thecurrent.org/feature/2019/12/03/prince-the-story-of-1999-episode-3-the-idolmaker-swensson)
-    - in [The Current](https://www.thecurrent.org/)
+    - in [The Current](../../../publications/the-current/index.md)
     - on 3 December 2019
     - about [1999 (album)](../../../topics/album/1999/index.md), [1999 Super Deluxe (album)](../../../topics/album/1999-super-deluxe/index.md), [Allen Beaulieu](../../../topics/allen-beaulieu/index.md), [Andrea Swensson](../../../topics/andrea-swensson/index.md), [Apollonia 6](../../../topics/apollonia-6/index.md), [Bold Generation (song)](../../../topics/song/bold-generation/index.md), [Chanhassen Cinema](../../../topics/chanhassen-cinema/index.md), [Denise Matthews](../../../topics/denise-matthews/index.md), [Dez Dickerson](../../../topics/dez-dickerson/index.md), [Don't Let Him Fool Ya (song)](../../../topics/song/don-t-let-him-fool-ya/index.md), [Duane Tudahl](../../../topics/duane-tudahl/index.md), [George Clinton](../../../topics/george-clinton/index.md), [International Lover (song)](../../../topics/song/international-lover/index.md), [Jamie Starr](../../../topics/jamie-starr/index.md), [Jellybean Johnson](../../../topics/jellybean-johnson/index.md), [Jill Jones](../../../topics/jill-jones/index.md), [Lisa Coleman](../../../topics/lisa-coleman/index.md), [memoir](../../../topics/memoir/index.md), [Michael Howe](../../../topics/michael-howe/index.md), [Morris Day](../../../topics/morris-day/index.md), [Nasty Girl (song)](../../../topics/song/nasty-girl/index.md), [New Power Generation (song)](../../../topics/song/new-power-generation/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [Prince: The Story of 1999](../../../topics/prince-the-story-of-1999/index.md), [Sly Stone](../../../topics/sly-stone/index.md), [Spotify](../../../topics/spotify/index.md), [The Prince Estate](../../../topics/the-prince-estate/index.md), [The Revolution](../../../topics/the-revolution/index.md), [The Starr Company](../../../topics/the-starr-company/index.md), [Vagina (song)](../../../topics/song/vagina/index.md), [Vanity](../../../topics/vanity/index.md), [Vanity 6](../../../topics/vanity-6/index.md), [vault](../../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/12/03/prince-the-story-of-1999-episode-3-the-idolmaker-swensson))
@@ -37,7 +37,7 @@
 <br />
 
  - [**"Prince’s ‘1999’: How the Artist Leveled Up on His Breakthrough LP -- With the release of a new box set devoted to the album and its era, Prince’s guitarist Dez Dickerson and engineer Peggy McCreary look back on the Purple One’s revolutionary genius"**](https://www.rollingstone.com/music/music-features/prince-1999-interview-915663/)
-    - in [Rolling Stone](https://www.rollingstone.com/)
+    - in [Rolling Stone](../../../publications/rolling-stone/index.md)
     - on 2 December 2019
     - about [1999 (album)](../../../topics/album/1999/index.md), [94 East](../../../topics/94-east/index.md), [Bold Generation (song)](../../../topics/song/bold-generation/index.md), [Dez Dickerson](../../../topics/dez-dickerson/index.md), [Do Yourself a Favor (song)](../../../topics/song/do-yourself-a-favor/index.md), [How Come U Don’t Call Me Anymore? (song)](../../../topics/song/how-come-u-don-t-call-me-anymore/index.md), [I Wanna Be Your Lover (song)](../../../topics/song/i-wanna-be-your-lover/index.md), [International Lover (song)](../../../topics/song/international-lover/index.md), [James Brown](../../../topics/james-brown/index.md), [Jill Jones](../../../topics/jill-jones/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Michael Howe](../../../topics/michael-howe/index.md), [Michael Jackson](../../../topics/michael-jackson/index.md), [motorcycle](../../../topics/motorcycle/index.md), [New Power Generation (song)](../../../topics/song/new-power-generation/index.md), [Peggy McCreary](../../../topics/peggy-mccreary/index.md), [Pop Life (song)](../../../topics/song/pop-life/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [Quincy Jones](../../../topics/quincy-jones/index.md), [Susan Rogers](../../../topics/susan-rogers/index.md), [The Revolution](../../../topics/the-revolution/index.md), [trademark](../../../topics/trademark/index.md), [Vanity](../../../topics/vanity/index.md), [Vanity 6](../../../topics/vanity-6/index.md), [vault](../../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/prince-1999-interview-915663/))
@@ -47,7 +47,7 @@
 ### 2019 November (5)
 
  - [**"Dans les coulisses de 1999 Deluxe avec l’archiviste Michael Howe -- Dans le deuxième entretien dédié à la réédition Super Deluxe de 1999, Michael Howe, l’archiviste de Warner Bros et du Prince Estate, raconte par le menu l’élaboration de la plus généreuse réédition Princière parue à ce jour."**](http://www.funku.fr/2019/dans-les-coulisses-de-1999-deluxe-avec-larchiviste-michael-howe/)
-    - in [Funk-U](http://www.funku.fr/)
+    - in [Funk-U](../../../publications/funk-u/index.md)
     - on 28 November 2019
     - about [1999 (album)](../../../topics/album/1999/index.md), [1999 Deluxe (album)](../../../topics/album/1999-deluxe/index.md), [1999 Super Deluxe (album)](../../../topics/album/1999-super-deluxe/index.md), [Bernie Grundman](../../../topics/bernie-grundman/index.md), [Bold Generation (song)](../../../topics/song/bold-generation/index.md), [bootleg](../../../topics/bootleg/index.md), [International Lover (song)](../../../topics/song/international-lover/index.md), [Michael Howe](../../../topics/michael-howe/index.md), [Morris Day](../../../topics/morris-day/index.md), [New Power Generation (song)](../../../topics/song/new-power-generation/index.md), [Peggy McCreary](../../../topics/peggy-mccreary/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [Vagina (song)](../../../topics/song/vagina/index.md), [Vanity](../../../topics/vanity/index.md), [Vanity 6](../../../topics/vanity-6/index.md), [vault](../../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/http://www.funku.fr/2019/dans-les-coulisses-de-1999-deluxe-avec-larchiviste-michael-howe/))
@@ -55,7 +55,7 @@
 <br />
 
  - [**"Een superdeluxe Prince, Coldplay op zijn klefst en sterkst, en persoonlijke indiepop: dit zijn de platen van de week"**](https://www.demorgen.be/tv-cultuur/een-superdeluxe-prince-coldplay-op-zijn-klefst-en-sterkst-en-persoonlijke-indiepop-dit-zijn-de-platen-van-de-week~bd6fe98d/)
-    - in [De Morgen](https://www.demorgen.be/)
+    - in [De Morgen](../../../publications/de-morgen/index.md)
     - on 28 November 2019
     - about [1999 (album)](../../../topics/album/1999/index.md), [Beck](../../../topics/beck/index.md), [Bold Generation (song)](../../../topics/song/bold-generation/index.md), [Colleen (song)](../../../topics/song/colleen/index.md), [International Lover (song)](../../../topics/song/international-lover/index.md), [New Power Generation (song)](../../../topics/song/new-power-generation/index.md), [Possessed (song)](../../../topics/song/possessed/index.md), [Purple Music (song)](../../../topics/song/purple-music/index.md), [Rearrange (song)](../../../topics/song/rearrange/index.md), [Vagina (song)](../../../topics/song/vagina/index.md), [You’re All I Want (song)](../../../topics/song/you-re-all-i-want/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.demorgen.be/tv-cultuur/een-superdeluxe-prince-coldplay-op-zijn-klefst-en-sterkst-en-persoonlijke-indiepop-dit-zijn-de-platen-van-de-week~bd6fe98d/))
@@ -63,7 +63,7 @@
 <br />
 
  - [**"More Prince, More Pleasure: The Joys of the Expanded ‘1999’ -- Prince’s fifth album, rereleased on its 37th anniversary with a wealth of material from his vault, captures the moment he broke down barriers and became a rock star."**](https://www.nytimes.com/2019/11/27/arts/music/prince-1999-review.html)
-    - in [New York Times](https://www.nytimes.com/)
+    - in [New York Times](../../../publications/new-york-times/index.md)
     - on 27 November 2019
     - about [1999 (album)](../../../topics/album/1999/index.md), [Bold Generation (song)](../../../topics/song/bold-generation/index.md), [Feel U Up (song)](../../../topics/song/feel-u-up/index.md), [I Wanna Be Your Lover (song)](../../../topics/song/i-wanna-be-your-lover/index.md), [Irresistible Bitch (song)](../../../topics/song/irresistible-bitch/index.md), [Linn LM-1](../../../topics/linn-lm-1/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [New Power Generation (song)](../../../topics/song/new-power-generation/index.md), [No Call U (song)](../../../topics/song/no-call-u/index.md), [Possessed (song)](../../../topics/song/possessed/index.md), [Purple Music (song)](../../../topics/song/purple-music/index.md), [Rearrange (song)](../../../topics/song/rearrange/index.md), [Vagina (song)](../../../topics/song/vagina/index.md), [Vanity](../../../topics/vanity/index.md), [Vanity 6](../../../topics/vanity-6/index.md), [vault](../../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.nytimes.com/2019/11/27/arts/music/prince-1999-review.html))
@@ -71,7 +71,7 @@
 <br />
 
  - [**"Prince's '1999': 10 Best Bonus Songs on the Super Deluxe Edition"**](https://www.billboard.com/articles/news/8544912/prince-1999-reissue-best-moments)
-    - in [Billboard](https://www.billboard.com/)
+    - in [Billboard](../../../publications/billboard/index.md)
     - on 27 November 2019
     - about [1999 (album)](../../../topics/album/1999/index.md), [Bold Generation (song)](../../../topics/song/bold-generation/index.md), [Can’t Stop This Feeling I Got (song)](../../../topics/song/can-t-stop-this-feeling-i-got/index.md), [Do Yourself a Favor (song)](../../../topics/song/do-yourself-a-favor/index.md), [Graffiti Bridge (album)](../../../topics/album/graffiti-bridge/index.md), [How Come U Don’t Call Me Anymore? (song)](../../../topics/song/how-come-u-don-t-call-me-anymore/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [New Power Generation (song)](../../../topics/song/new-power-generation/index.md), [Purple Music (song)](../../../topics/song/purple-music/index.md), [Rearrange (song)](../../../topics/song/rearrange/index.md), [Vagina (song)](../../../topics/song/vagina/index.md), [vault](../../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8544912/prince-1999-reissue-best-moments))
@@ -79,7 +79,7 @@
 <br />
 
  - [**"Prince, Nostradamus et les Beatles : "1999" raconté par Bobby Z."**](http://muziq.fr/prince-nostradamus-beatles-1999-raconte-bobby-z/)
-    - in [muziq.fr](http://muziq.fr/)
+    - in [muziq.fr](../../../publications/muziq-fr/index.md)
     - on 21 November 2019
     - about [1999 (album)](../../../topics/album/1999/index.md), [Bobby Z.](../../../topics/bobby-z/index.md), [Bold Generation (song)](../../../topics/song/bold-generation/index.md), [Can’t Stop This Feeling I Got (song)](../../../topics/song/can-t-stop-this-feeling-i-got/index.md), [Do Me Baby (song)](../../../topics/song/do-me-baby/index.md), [Irresistible Bitch (song)](../../../topics/song/irresistible-bitch/index.md), [Jimmy Jam](../../../topics/jimmy-jam/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [New Power Generation (song)](../../../topics/song/new-power-generation/index.md), [Purple Music (song)](../../../topics/song/purple-music/index.md), [Sunset Sound (place)](../../../topics/place/sunset-sound/index.md), [Terry Lewis](../../../topics/terry-lewis/index.md), [The Revolution](../../../topics/the-revolution/index.md), [The Time](../../../topics/the-time/index.md), [Touré](../../../topics/tour/index.md), [Vanity](../../../topics/vanity/index.md), [Vanity 6](../../../topics/vanity-6/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/http://muziq.fr/prince-nostradamus-beatles-1999-raconte-bobby-z/))

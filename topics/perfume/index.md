@@ -5,9 +5,9 @@
 ### 2019 November (1)
 
  - [**"Prince Wanted To 'Break The Mold Of The Memoir,' Says His Co-Writer"**](https://www.npr.org/2019/11/28/782929000/prince-wanted-to-break-the-mold-of-the-memoir-says-his-co-writer)
-    - in [National Public Radio](https://www.npr.org/)
+    - in [National Public Radio](../../publications/national-public-radio/index.md)
     - on 28 November 2019
-    - about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [fentanyl](../../topics/fentanyl/index.md), [fragrance](../../topics/fragrance/index.md), [Kim Pratt](../../topics/kim-pratt/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [memoir](../../topics/memoir/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [perfume](../../topics/perfume/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [vault](../../topics/vault/index.md), [Vicodin](../../topics/vicodin/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
+    - about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [divorce](../../topics/divorce/index.md), [fentanyl](../../topics/fentanyl/index.md), [fragrance](../../topics/fragrance/index.md), [Kim Pratt](../../topics/kim-pratt/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [memoir](../../topics/memoir/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [perfume](../../topics/perfume/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [vault](../../topics/vault/index.md), [Vicodin](../../topics/vicodin/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.npr.org/2019/11/28/782929000/prince-wanted-to-break-the-mold-of-the-memoir-says-his-co-writer))
 
 ----
@@ -15,7 +15,7 @@
 ### 2019 October (2)
 
  - [**"Prince Wanted To 'Break The Mold Of The Memoir,' Says His Co-Writer"**](https://www.npr.org/2019/10/28/773398141/prince-wanted-to-break-the-mold-of-the-memoir-says-his-co-writer)
-    - in [National Public Radio](https://www.npr.org/)
+    - in [National Public Radio](../../publications/national-public-radio/index.md)
     - on 28 October 2019
     - about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [fentanyl](../../topics/fentanyl/index.md), [fragrance](../../topics/fragrance/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [memoir](../../topics/memoir/index.md), [perfume](../../topics/perfume/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [vault](../../topics/vault/index.md), [Vicodin](../../topics/vicodin/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.npr.org/2019/10/28/773398141/prince-wanted-to-break-the-mold-of-the-memoir-says-his-co-writer))
@@ -23,7 +23,7 @@
 <br />
 
  - [**"Buddy Holly and Roy Orbison in Minnesota? Hologram tours of old stars are the hot new concert trend -- Buddy Holly is coming to town with Roy Orbison? Yes, rock 'n' roll holograms are here to stay."**](https://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/)
-    - in [Minneapolis Star Tribune](https://www.startribune.com/)
+    - in [Minneapolis Star Tribune](../../publications/minneapolis-star-tribune/index.md)
     - on 12 October 2019
     - about [Aretha Franklin](../../topics/aretha-franklin/index.md), [Ed Sheeran](../../topics/ed-sheeran/index.md), [Frank Zappa](../../topics/frank-zappa/index.md), [hologram](../../topics/hologram/index.md), [Lizzo](../../topics/lizzo/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Morris Day](../../topics/morris-day/index.md), [perfume](../../topics/perfume/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/))
@@ -34,9 +34,9 @@
 
  - [**"The Book of Prince -- Prince had grand plans for his autobiography, but only a few months to live."**](https://www.newyorker.com/magazine/2019/09/09/the-book-of-prince)
     - by [Dan Piepenbring](../../authors/dan-piepenbring/index.md)
-    - in [The New Yorker](https://www.newyorker.com/)
+    - in [The New Yorker](../../publications/the-new-yorker/index.md)
     - on 2 September 2019
-    - about [airport](../../topics/airport/index.md), [Alexander Nevermind](../../topics/alexander-nevermind/index.md), [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [bootleg](../../topics/bootleg/index.md), [Chanhassen Cinema](../../topics/chanhassen-cinema/index.md), [Chris Jackson](../../topics/chris-jackson/index.md), [contract](../../topics/contract/index.md), [Country Inn & Suites (place)](../../topics/place/country-inn-suites/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Denise Matthews](../../topics/denise-matthews/index.md), [DJ Kiss](../../topics/dj-kiss/index.md), [fentanyl](../../topics/fentanyl/index.md), [I.C.M.](../../topics/i-c-m/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Jakissa Taylor Semple](../../topics/jakissa-taylor-semple/index.md), [Jamie Starr](../../topics/jamie-starr/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [Joey Coco](../../topics/joey-coco/index.md), [John Lewis Nelson](../../topics/john-lewis-nelson/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Kim Pratt](../../topics/kim-pratt/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Mattie Della Shaw Baker](../../topics/mattie-della-shaw-baker/index.md), [memoir](../../topics/memoir/index.md), [Meron Bekure](../../topics/meron-bekure/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [Pam Warren](../../topics/pam-warren/index.md), [Penguin Random House](../../topics/penguin-random-house/index.md), [perfume](../../topics/perfume/index.md), [Peter Bravestrong](../../topics/peter-bravestrong/index.md), [Phaedra Ellis-Lamkins](../../topics/phaedra-ellis-lamkins/index.md), [Purple Music (song)](../../topics/song/purple-music/index.md), [Purple Pam](../../topics/purple-pam/index.md), [Random House](../../topics/random-house/index.md), [Raspberry Beret (song)](../../topics/song/raspberry-beret/index.md), [royalties](../../topics/royalties/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Ballad Of Dorothy Parker (song)](../../topics/song/the-ballad-of-dorothy-parker/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [The Beautiful Ones (song)](../../topics/song/the-beautiful-ones/index.md), [TMZ (website)](../../topics/website/tmz/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md), [Vicodin](../../topics/vicodin/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
+    - about [airport](../../topics/airport/index.md), [Alexander Nevermind](../../topics/alexander-nevermind/index.md), [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [bootleg](../../topics/bootleg/index.md), [Chanhassen Cinema](../../topics/chanhassen-cinema/index.md), [Chris Jackson](../../topics/chris-jackson/index.md), [contract](../../topics/contract/index.md), [Country Inn & Suites (place)](../../topics/place/country-inn-suites/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Denise Matthews](../../topics/denise-matthews/index.md), [DJ Kiss](../../topics/dj-kiss/index.md), [fentanyl](../../topics/fentanyl/index.md), [I.C.M.](../../topics/i-c-m/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Jakissa Taylor Semple](../../topics/jakissa-taylor-semple/index.md), [Jamie Starr](../../topics/jamie-starr/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [Joey Coco](../../topics/joey-coco/index.md), [John Lewis Nelson](../../topics/john-lewis-nelson/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Kim Pratt](../../topics/kim-pratt/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Mattie Della Shaw Baker](../../topics/mattie-della-shaw-baker/index.md), [memoir](../../topics/memoir/index.md), [Meron Bekure](../../topics/meron-bekure/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [Pam Warren](../../topics/pam-warren/index.md), [Penguin Random House](../../topics/penguin-random-house/index.md), [perfume](../../topics/perfume/index.md), [Peter Bravestrong](../../topics/peter-bravestrong/index.md), [Phaedra Ellis-Lamkins](../../topics/phaedra-ellis-lamkins/index.md), [Purple Music (song)](../../topics/song/purple-music/index.md), [Purple Pam](../../topics/purple-pam/index.md), [Random House](../../topics/random-house/index.md), [Raspberry Beret (song)](../../topics/song/raspberry-beret/index.md), [royalties](../../topics/royalties/index.md), [separation](../../topics/separation/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Ballad Of Dorothy Parker (song)](../../topics/song/the-ballad-of-dorothy-parker/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [The Beautiful Ones (song)](../../topics/song/the-beautiful-ones/index.md), [TMZ (website)](../../topics/website/tmz/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md), [Vicodin](../../topics/vicodin/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.newyorker.com/magazine/2019/09/09/the-book-of-prince))
 
 ----
@@ -45,7 +45,7 @@
 
  - [**"Prince’s Unearthed ‘Originals’: Collaborators Look Back on the Hits He Passed Along -- As demos of future classics like “Manic Monday” and Nothing Compares 2 U” finally see official release, Apollonia, the Bangles’ Susanna Hoffs, and others recall the artist’s “otherworldly” songwriting talents"**](https://www.rollingstone.com/music/music-features/prince-originals-interview-842940/)
     - by [Kory Grow](../../authors/kory-grow/index.md)
-    - in [Rolling Stone](https://www.rollingstone.com/)
+    - in [Rolling Stone](../../publications/rolling-stone/index.md)
     - on 24 June 2019
     - about [Apollonia 6](../../topics/apollonia-6/index.md), [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Bangles](../../topics/bangles/index.md), [contract](../../topics/contract/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [George Clinton](../../topics/george-clinton/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Jungle Love (song)](../../topics/song/jungle-love/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Martika](../../topics/martika/index.md), [Mazarati](../../topics/mazarati/index.md), [Nasty Girl (song)](../../topics/song/nasty-girl/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../topics/album/originals/index.md), [Peggy McCreary](../../topics/peggy-mccreary/index.md), [perfume](../../topics/perfume/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Sex Shooter (song)](../../topics/song/sex-shooter/index.md), [Sheena Easton](../../topics/sheena-easton/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Sugar Walls (song)](../../topics/song/sugar-walls/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [Tevin Campbell](../../topics/tevin-campbell/index.md), [The Family](../../topics/the-family/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [The Time](../../topics/the-time/index.md), [Troy Carter](../../topics/troy-carter/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/prince-originals-interview-842940/))
@@ -57,9 +57,9 @@
 ### 2017 November (1)
 
  - [**"Prince's sound engineer, Susan Rogers: 'He needed to be the alpha male to get things done' -- One of a tiny number of female recording engineers, Rogers was there at birth of some of pop’s classics, including When Doves Cry. She recalls the man she knew – and shares her theory about why he loved working with women"**](https://www.theguardian.com/music/2017/nov/09/princes-sound-engineer-susan-rogers-he-needed-to-be-the-alpha-male-to-get-things-done)
-    - in [The Guardian](https://www.theguardian.com/)
+    - in [The Guardian](../../publications/the-guardian/index.md)
     - on 9 November 2017
-    - about [Eric Clapton](../../topics/eric-clapton/index.md), [exhibit](../../topics/exhibit/index.md), [exhibition](../../topics/exhibition/index.md), [James Brown](../../topics/james-brown/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [perfume](../../topics/perfume/index.md), [Raspberry Beret (song)](../../topics/song/raspberry-beret/index.md), [royalties](../../topics/royalties/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
+    - about [divorce](../../topics/divorce/index.md), [Eric Clapton](../../topics/eric-clapton/index.md), [exhibit](../../topics/exhibit/index.md), [exhibition](../../topics/exhibition/index.md), [James Brown](../../topics/james-brown/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [perfume](../../topics/perfume/index.md), [Raspberry Beret (song)](../../topics/song/raspberry-beret/index.md), [royalties](../../topics/royalties/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/music/2017/nov/09/princes-sound-engineer-susan-rogers-he-needed-to-be-the-alpha-male-to-get-things-done))
 
 ----
@@ -67,7 +67,7 @@
 ### 2017 April (1)
 
  - [**"Prince’s ex-wife Mayte Garcia pays tribute to late star"**](https://apnews.com/f7d92f7f16cd4330912e7a1674f4c8e7)
-    - in [Associated Press News](https://apnews.com/)
+    - in [Associated Press News](../../publications/associated-press-news/index.md)
     - on 22 April 2017
     - about [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [perfume](../../topics/perfume/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/f7d92f7f16cd4330912e7a1674f4c8e7))
@@ -79,7 +79,7 @@
 ### 2016 April (1)
 
  - [**"Prince’s sister says musician had no known will"**](https://apnews.com/b7bcc90e42904f679c07158bf5e851a3)
-    - in [Associated Press News](https://apnews.com/)
+    - in [Associated Press News](../../publications/associated-press-news/index.md)
     - on 27 April 2016
     - about [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [lawsuit](../../topics/lawsuit/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [perfume](../../topics/perfume/index.md), [probate court](../../topics/probate-court/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/b7bcc90e42904f679c07158bf5e851a3))
@@ -91,7 +91,7 @@
 ### 2008 November (1)
 
  - [**"Prince Sued Over Perfume Deal"**](https://www.billboard.com/articles/business/266253/prince-sued-over-perfume-deal)
-    - in [Billboard](https://www.billboard.com/)
+    - in [Billboard](../../publications/billboard/index.md)
     - on 18 November 2008
     - about [3121 (album)](../../topics/album/3121/index.md), [contract](../../topics/contract/index.md), [fragrance](../../topics/fragrance/index.md), [lawsuit](../../topics/lawsuit/index.md), [New York State Supreme Court](../../topics/new-york-state-supreme-court/index.md), [perfume](../../topics/perfume/index.md), [Revelations](../../topics/revelations/index.md), [Universal Music Publishing Group](../../topics/universal-music-publishing-group/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/business/266253/prince-sued-over-perfume-deal))

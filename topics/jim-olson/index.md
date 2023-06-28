@@ -5,7 +5,7 @@
 ### 2018 April (2)
 
  - [**"Prince's death: His laptop, diet, weight loss and distress highlight intriguing police docs"**](https://usatoday.com/story/life/2018/04/20/prince-death-his-body-laptop-diet-weight-distress-highlighted-police-docs/536626002/)
-    - in [USA Today](https://usatoday.com/)
+    - in [USA Today](../../publications/usa-today/index.md)
     - on 20 April 2018
     - about [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [Jim Olson](../../topics/jim-olson/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Meron Bekure](../../topics/meron-bekure/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [oxycodone](../../topics/oxycodone/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Vicodin](../../topics/vicodin/index.md)
     - ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/2018/04/20/prince-death-his-body-laptop-diet-weight-distress-highlighted-police-docs/536626002/))
@@ -13,7 +13,7 @@
 <br />
 
  - [**"Prince’s death: Key players in investigation and aftermath"**](https://apnews.com/221f45fbd6e4440d944b38c34cffed15)
-    - in [Associated Press News](https://apnews.com/)
+    - in [Associated Press News](../../publications/associated-press-news/index.md)
     - on 19 April 2018
     - about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [Greg Brooker](../../topics/greg-brooker/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Jim Olson](../../topics/jim-olson/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Mark Metz](../../topics/mark-metz/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [oxycodone](../../topics/oxycodone/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/221f45fbd6e4440d944b38c34cffed15))
@@ -26,7 +26,7 @@
 
  - [**"Investigation into Prince's death now is a criminal probe -- The Carver County Sheriff's Office cited an exception to Minnesota public records laws allowing the suppression of information relating to preparing a case "for the commission of a crime.""**](https://www.startribune.com/carver-county-judge-seals-search-warrants-in-prince-death-investigation/377456111/)
     - by [David Chanen](../../authors/david-chanen/index.md)
-    - in [Minneapolis Star Tribune](https://www.startribune.com/)
+    - in [Minneapolis Star Tribune](../../publications/minneapolis-star-tribune/index.md)
     - on 29 April 2016
     - about [Carver County](../../topics/carver-county/index.md), [Jim Olson](../../topics/jim-olson/index.md), [Mark Metz](../../topics/mark-metz/index.md), [The Time](../../topics/the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/carver-county-judge-seals-search-warrants-in-prince-death-investigation/377456111/))
@@ -34,7 +34,7 @@
 <br />
 
  - [**"‘Most beloved’ of Prince family, friends bid farewell"**](https://apnews.com/article/-----4b95289e0fa948359cd177da7ee7e03c)
-    - in [Associated Press News](https://apnews.com/)
+    - in [Associated Press News](../../publications/associated-press-news/index.md)
     - on 24 April 2016
     - about [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Fox Theatre (place)](../../topics/place/fox-theatre/index.md), [Jim Olson](../../topics/jim-olson/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Maurice Phillips](../../topics/maurice-phillips/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Sheila E.](../../topics/sheila-e/index.md), [St. Louis (place)](../../topics/place/st-louis/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Yvette Noel-Schure](../../topics/yvette-noel-schure/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/-----4b95289e0fa948359cd177da7ee7e03c))
@@ -42,7 +42,7 @@
 <br />
 
  - [**"Prince es incinerado y conmemorado en ceremonia privada"**](https://apnews.com/article/e27398e3a15d4dfdb3292350888ee482)
-    - in [Associated Press News](https://apnews.com/)
+    - in [Associated Press News](../../publications/associated-press-news/index.md)
     - on 24 April 2016
     - about [Atlanta (place)](../../topics/place/atlanta/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Jim Olson](../../topics/jim-olson/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Maurice Phillips](../../topics/maurice-phillips/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Percocet](../../topics/percocet/index.md), [Sheila E.](../../topics/sheila-e/index.md), [TMZ (website)](../../topics/website/tmz/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Yvette Noel-Schure](../../topics/yvette-noel-schure/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/e27398e3a15d4dfdb3292350888ee482))
@@ -51,7 +51,7 @@
 
  - [**"Adored by millions, Prince was alone as he died"**](https://www.startribune.com/investigation-underway-into-prince-s-death/376741561/)
     - by [John Reinan](../../authors/john-reinan/index.md)
-    - in [Minneapolis Star Tribune](https://www.startribune.com/)
+    - in [Minneapolis Star Tribune](../../publications/minneapolis-star-tribune/index.md)
     - on 23 April 2016
     - about [airport](../../topics/airport/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Dakota (place)](../../topics/place/dakota/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Jim Olson](../../topics/jim-olson/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/investigation-underway-into-prince-s-death/376741561/))
@@ -59,7 +59,7 @@
 <br />
 
  - [**"Más interrogantes de si Prince ocultaba problemas de salud"**](https://apnews.com/article/81d16b3992844f72a514e64cdae77c30)
-    - in [Associated Press News](https://apnews.com/)
+    - in [Associated Press News](../../publications/associated-press-news/index.md)
     - on 23 April 2016
     - about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Jim Olson](../../topics/jim-olson/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Sheila E.](../../topics/sheila-e/index.md), [TMZ (website)](../../topics/website/tmz/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/81d16b3992844f72a514e64cdae77c30))
@@ -67,7 +67,7 @@
 <br />
 
  - [**"Prince’s death raises numerous questions about prior health"**](https://apnews.com/article/0ad5478b8b1c4c95997ad31f40b80d94)
-    - in [Associated Press News](https://apnews.com/)
+    - in [Associated Press News](../../publications/associated-press-news/index.md)
     - on 23 April 2016
     - about [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Fox Theatre (place)](../../topics/place/fox-theatre/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [Jim Olson](../../topics/jim-olson/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Percocet](../../topics/percocet/index.md), [Sheila E.](../../topics/sheila-e/index.md), [St. Louis (place)](../../topics/place/st-louis/index.md), [TMZ (website)](../../topics/website/tmz/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/0ad5478b8b1c4c95997ad31f40b80d94))
@@ -75,7 +75,7 @@
 <br />
 
  - [**"Prince dead at Paisley Park estate in Minnesota"**](http://www.fox9.com/news/emergency-medical-response-at-paisley-park)
-    - in [Fox 9](http://www.fox9.com/)
+    - in [Fox 9](../../publications/fox-9/index.md)
     - on 21 April 2016
     - about [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Jim Olson](../../topics/jim-olson/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Minnesota Twins](../../topics/minnesota-twins/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [Obama](../../topics/obama/index.md), [Paisley Park Studios (place)](../../topics/place/paisley-park-studios/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Super Bowl XLI (event)](../../topics/event/super-bowl-xli/index.md), [TMZ (website)](../../topics/website/tmz/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/http://www.fox9.com/news/emergency-medical-response-at-paisley-park))
