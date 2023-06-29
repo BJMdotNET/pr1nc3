@@ -59,6 +59,7 @@
   * [Chao Xiong](./chao-xiong/index.md) (1)
   * [Chris Miller](./chris-miller/index.md) (1)
   * [Chris Riemenschneider](./chris-riemenschneider/index.md) (56)
+  * [Chris Williams](./chris-williams/index.md) (1)
   * [Christopher DiLella](./christopher-dilella/index.md) (1)
   * [Colin Bertram](./colin-bertram/index.md) (1)
   * [Colin Stutz](./colin-stutz/index.md) (1)
@@ -166,6 +167,7 @@
   * [Tom Moon](./tom-moon/index.md) (1)
   * [Tom Von Malder](./tom-von-malder/index.md) (1)
   * [Tony Kiene](./tony-kiene/index.md) (1)
+  * [Torsten Schmidt](./torsten-schmidt/index.md) (1)
   * [Vince Tuss](./vince-tuss/index.md) (1)
 
 ----

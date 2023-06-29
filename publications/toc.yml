@@ -527,6 +527,9 @@ items:
 - name: Seattle Times Newspaper
   href: seattle-times-newspaper/index.md
   homepage: seattle-times-newspaper/index.md
+- name: Shore Fire Media
+  href: shore-fire-media/index.md
+  homepage: shore-fire-media/index.md
 - name: Showbiz411
   href: showbiz411/index.md
   homepage: showbiz411/index.md

@@ -14,6 +14,7 @@
   * [Black Album (album)](../album/black-album/index.md) (5)
   * [Blueberry Gossip (album)](../album/blueberry-gossip/index.md) (1)
   * [Chaos and Disorder (album)](../album/chaos-and-disorder/index.md) (8)
+  * [Come 2 My House (album)](../album/come-2-my-house/index.md) (2)
   * [Controversy (album)](../album/controversy/index.md) (6)
   * [Crystal Ball (album)](../album/crystal-ball/index.md) (4)
   * [Diamonds & Pearls (album)](../album/diamonds-pearls/index.md) (1)

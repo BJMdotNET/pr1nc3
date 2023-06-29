@@ -1,8 +1,8 @@
 # Chanhassen (place)
 
-## 2023 (3)
+## 2023 (6)
 
-### 2023 June (1)
+### 2023 June (2)
 
  - [**"Why did Prince decide to live in Chanhassen? -- The Minneapolis native's legacy will forever be linked to his state-of-the-art suburban playground, Paisley Park."**](https://www.startribune.com/prince-minneapolis-chanhassen-paisley-park-andre-cymone-morris-day-bobby-z/600281369/)
     - by [Jon Bream](../../../authors/jon-bream/index.md)
@@ -11,9 +11,17 @@
     - about [Aldrich Av. S. (place)](../../../topics/place/aldrich-av-s/index.md), [André Cymone](../../../topics/andr-cymone/index.md), [Audubon Rd (place)](../../../topics/place/audubon-rd/index.md), [Black Album (album)](../../../topics/album/black-album/index.md), [Bobby Z](../../../topics/bobby-z/index.md), [Byerly's (place)](../../../topics/place/byerly-s/index.md), [California (place)](../../../topics/place/california/index.md), [Caribou (place)](../../../topics/place/caribou/index.md), [Central High](../../../topics/central-high/index.md), [Central High School (place)](../../../topics/place/central-high-school/index.md), [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Chanhassen Dinner Theatres](../../../topics/chanhassen-dinner-theatres/index.md), [Chanhassen Inn (place)](../../../topics/place/chanhassen-inn/index.md), [Chanhassen Villager](../../../topics/chanhassen-villager/index.md), [Earth, Wind & Fire](../../../topics/earth-wind-fire/index.md), [Eden Prairie (place)](../../../topics/place/eden-prairie/index.md), [Edina (place)](../../../topics/place/edina/index.md), [Flying Cloud Drive (place)](../../../topics/place/flying-cloud-drive/index.md), [France Av. S. (place)](../../../topics/place/france-av-s/index.md), [France Avenue (place)](../../../topics/place/france-avenue/index.md), [Galpin Blvd. (place)](../../../topics/place/galpin-blvd/index.md), [Galpin Boulevard (place)](../../../topics/place/galpin-boulevard/index.md), [Julia Coleman](../../../topics/julia-coleman/index.md), [Kiowa Trail](../../../topics/kiowa-trail/index.md), [Kris Mattson](../../../topics/kris-mattson/index.md), [Lake Ann (place)](../../../topics/place/lake-ann/index.md), [Lake Minnetonka (place)](../../../topics/place/lake-minnetonka/index.md), [Lake Riley (place)](../../../topics/place/lake-riley/index.md), [Los Angeles (place)](../../../topics/place/los-angeles/index.md), [Manuela Testolini](../../../topics/manuela-testolini/index.md), [Mayte](../../../topics/mayte/index.md), [Mayte Garcia](../../../topics/mayte-garcia/index.md), [Minnesota Landscape Arboretum (place)](../../../topics/place/minnesota-landscape-arboretum/index.md), [Morris Day](../../../topics/morris-day/index.md), [North Arm Drive (place)](../../../topics/place/north-arm-drive/index.md), [Orono (place)](../../../topics/place/orono/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Perry Jones](../../../topics/perry-jones/index.md), [Piano and a Microphone 1983 (album)](../../../topics/album/piano-and-a-microphone-1983/index.md), [Prince Rogers Nelson Memorial Highway (place)](../../../topics/place/prince-rogers-nelson-memorial-highway/index.md), [Sign O' The Times (album)](../../../topics/album/sign-o-the-times/index.md), [Solveig Huseth](../../../topics/solveig-huseth/index.md), [St. Louis Park (place)](../../../topics/place/st-louis-park/index.md), [Steve Fargnoli](../../../topics/steve-fargnoli/index.md), [The Complex (place)](../../../topics/place/the-complex/index.md), [Tim Walz](../../../topics/tim-walz/index.md), [Toronto (place)](../../../topics/place/toronto/index.md), [Twin Cities (place)](../../../topics/place/twin-cities/index.md), [Vanity 6](../../../topics/vanity-6/index.md), [Viper](../../../topics/viper/index.md), [Warner Bros. Records](../../../topics/warner-bros-records/index.md), [Washington Avenue (place)](../../../topics/place/washington-avenue/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-minneapolis-chanhassen-paisley-park-andre-cymone-morris-day-bobby-z/600281369/))
 
+<br />
+
+ - [**"Paisley Park Reveals Celebration 2023 Programming"**](https://shorefire.com/releases/entry/paisley-park-reveals-celebration-2023-programming)
+    - in [Shore Fire Media](../../../publications/shore-fire-media/index.md)
+    - on 5 June 2023
+    - about [Andy Beech](../../../topics/andy-beech/index.md), [Celebration (event)](../../../topics/event/celebration/index.md), [Celebration 2023 (event)](../../../topics/event/celebration-2023/index.md), [Chaka Khan](../../../topics/chaka-khan/index.md), [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Come 2 My House (album)](../../../topics/album/come-2-my-house/index.md), [De Angela Duff](../../../topics/de-angela-duff/index.md), [DJ D-Nice](../../../topics/dj-d-nice/index.md), [DJ Rashida](../../../topics/dj-rashida/index.md), [Doug E. Fresh](../../../topics/doug-e-fresh/index.md), [I Feel For You (song)](../../../topics/song/i-feel-for-you/index.md), [Juell Roberts](../../../topics/juell-roberts/index.md), [L. Londell McMillan](../../../topics/l-londell-mcmillan/index.md), [luthier](../../../topics/luthier/index.md), [Mint Condition](../../../topics/mint-condition/index.md), [New Power Generation](../../../topics/new-power-generation/index.md), [NPG Records](../../../topics/npg-records/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Rosie Gaines](../../../topics/rosie-gaines/index.md), [Sounds of Blackness](../../../topics/sounds-of-blackness/index.md), [Stokley](../../../topics/stokley/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://shorefire.com/releases/entry/paisley-park-reveals-celebration-2023-programming))
+
 ----
 
-### 2023 May (2)
+### 2023 May (4)
 
  - [**"Signed in purple ink, Minnesota dedicates highway to Prince"**](https://apnews.com/article/prince-minnesota-highway-renamed-45220b9307ba1dee12512c84c71063c1)
     - in [Associated Press News](../../../publications/associated-press-news/index.md)
@@ -28,6 +36,22 @@
     - on 4 May 2023
     - about [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Internal Revenue Service](../../../topics/internal-revenue-service/index.md), [IRS](../../../topics/irs/index.md), [Jehovah’s Witness](../../../topics/jehovah-s-witness/index.md), [museum](../../../topics/museum/index.md), [Paisley Park Studios (place)](../../../topics/place/paisley-park-studios/index.md), [Primary Wave](../../../topics/primary-wave/index.md), [Sharon Nelson](../../../topics/sharon-nelson/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/prince-highway-name-minnesota-a1ac515d07ce850f18f56e63eb8bcef1))
+
+<br />
+
+ - [**"Paisley Park’s Celebration 2023 To Feature New Unreleased Music By Prince & Performances By Stokley, Sounds Of Blackness, D-Nice, Shelby J, Members Of NPG, And More Honoring Prince’s Music, Legacy & Global Cultural Impact -- With Discussions With Chaka Khan, Chuck D, Doug E. Fresh, And D-Nice"**](https://shorefire.com/releases/entry/paisley-park-celebration-2023-to-feature-new-unreleased-music-by-prince)
+    - in [Shore Fire Media](../../../publications/shore-fire-media/index.md)
+    - on 3 May 2023
+    - about [Celebration (event)](../../../topics/event/celebration/index.md), [Celebration 2023 (event)](../../../topics/event/celebration-2023/index.md), [Chaka Khan](../../../topics/chaka-khan/index.md), [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [DJ Rashida](../../../topics/dj-rashida/index.md), [Doug E. Fresh](../../../topics/doug-e-fresh/index.md), [Mint Condition](../../../topics/mint-condition/index.md), [New Power Generation](../../../topics/new-power-generation/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Rosie Gaines](../../../topics/rosie-gaines/index.md), [Sounds of Blackness](../../../topics/sounds-of-blackness/index.md), [Stokley](../../../topics/stokley/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://shorefire.com/releases/entry/paisley-park-celebration-2023-to-feature-new-unreleased-music-by-prince))
+
+<br />
+
+ - [**"PAISLEY PARK'S CELEBRATION 2023 TO FEATURE NEW UNRELEASED MUSIC BY PRINCE & PERFORMANCES BY STOKLEY, SOUNDS OF BLACKNESS, D-NICE, SHELBY J, DOUG E. FRESH, MEMBERS OF NPG, AND MORE HONORING PRINCE'S MUSIC, LEGACY & GLOBAL CULTURAL IMPACT -- WITH DISCUSSIONS WITH CHAKA KHAN, CHUCK D, AND D-NICE / ANNUAL GATHERING RETURNS TO PAISLEY PARK JUNE 8-11, 2023"**](https://www.prnewswire.com/news-releases/paisley-parks-celebration-2023-to-feature-new-unreleased-music-by-prince--performances-by-stokley-sounds-of-blackness-d-nice-shelby-j-doug-e-fresh-members-of-npg-and-more-honoring-princes-music-legacy--global-cultural--301815036.html)
+    - in [PR Newswire](../../../publications/pr-newswire/index.md)
+    - on 3 May 2023
+    - about [Celebration (event)](../../../topics/event/celebration/index.md), [Celebration 2023 (event)](../../../topics/event/celebration-2023/index.md), [Chaka Khan](../../../topics/chaka-khan/index.md), [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [DJ Rashida](../../../topics/dj-rashida/index.md), [Doug E. Fresh](../../../topics/doug-e-fresh/index.md), [Mint Condition](../../../topics/mint-condition/index.md), [New Power Generation](../../../topics/new-power-generation/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Rosie Gaines](../../../topics/rosie-gaines/index.md), [Sounds of Blackness](../../../topics/sounds-of-blackness/index.md), [Stokley](../../../topics/stokley/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/paisley-parks-celebration-2023-to-feature-new-unreleased-music-by-prince--performances-by-stokley-sounds-of-blackness-d-nice-shelby-j-doug-e-fresh-members-of-npg-and-more-honoring-princes-music-legacy--global-cultural--301815036.html))
 
 ----
 

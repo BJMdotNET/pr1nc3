@@ -1,5 +1,17 @@
 # I Feel For You (song)
 
+## 2023 (1)
+
+### 2023 June (1)
+
+ - [**"Paisley Park Reveals Celebration 2023 Programming"**](https://shorefire.com/releases/entry/paisley-park-reveals-celebration-2023-programming)
+    - in [Shore Fire Media](../../../publications/shore-fire-media/index.md)
+    - on 5 June 2023
+    - about [Andy Beech](../../../topics/andy-beech/index.md), [Celebration (event)](../../../topics/event/celebration/index.md), [Celebration 2023 (event)](../../../topics/event/celebration-2023/index.md), [Chaka Khan](../../../topics/chaka-khan/index.md), [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Come 2 My House (album)](../../../topics/album/come-2-my-house/index.md), [De Angela Duff](../../../topics/de-angela-duff/index.md), [DJ D-Nice](../../../topics/dj-d-nice/index.md), [DJ Rashida](../../../topics/dj-rashida/index.md), [Doug E. Fresh](../../../topics/doug-e-fresh/index.md), [I Feel For You (song)](../../../topics/song/i-feel-for-you/index.md), [Juell Roberts](../../../topics/juell-roberts/index.md), [L. Londell McMillan](../../../topics/l-londell-mcmillan/index.md), [luthier](../../../topics/luthier/index.md), [Mint Condition](../../../topics/mint-condition/index.md), [New Power Generation](../../../topics/new-power-generation/index.md), [NPG Records](../../../topics/npg-records/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Rosie Gaines](../../../topics/rosie-gaines/index.md), [Sounds of Blackness](../../../topics/sounds-of-blackness/index.md), [Stokley](../../../topics/stokley/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://shorefire.com/releases/entry/paisley-park-reveals-celebration-2023-programming))
+
+----
+
 ## 2021 (1)
 
 ### 2021 June (1)

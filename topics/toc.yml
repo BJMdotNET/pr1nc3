@@ -50,6 +50,9 @@ items:
 - name: 3rdEyeGirl
   href: 3rdeyegirl/index.md
   homepage: 3rdeyegirl/index.md
+- name: 7 (E Flat Version) (song)
+  href: song/7-e-flat-version/index.md
+  homepage: song/7-e-flat-version/index.md
 - name: 777-9311 (song)
   href: song/777-9311/index.md
   homepage: song/777-9311/index.md
@@ -119,6 +122,9 @@ items:
 - name: Alicia Keys
   href: alicia-keys/index.md
   homepage: alicia-keys/index.md
+- name: All A Share Together Now (song)
+  href: song/all-a-share-together-now/index.md
+  homepage: song/all-a-share-together-now/index.md
 - name: Allen Beaulieu
   href: allen-beaulieu/index.md
   homepage: allen-beaulieu/index.md
@@ -161,6 +167,9 @@ items:
 - name: Andy Allo
   href: andy-allo/index.md
   homepage: andy-allo/index.md
+- name: Andy Beech
+  href: andy-beech/index.md
+  homepage: andy-beech/index.md
 - name: Andy Warhol
   href: andy-warhol/index.md
   homepage: andy-warhol/index.md
@@ -545,6 +554,9 @@ items:
 - name: Celebration 2020 (event)
   href: event/celebration-2020/index.md
   homepage: event/celebration-2020/index.md
+- name: Celebration 2023 (event)
+  href: event/celebration-2023/index.md
+  homepage: event/celebration-2023/index.md
 - name: Central High
   href: central-high/index.md
   homepage: central-high/index.md
@@ -677,6 +689,9 @@ items:
 - name: Columbia Records
   href: columbia-records/index.md
   homepage: columbia-records/index.md
+- name: Come 2 My House (album)
+  href: album/come-2-my-house/index.md
+  homepage: album/come-2-my-house/index.md
 - name: Comerica
   href: comerica/index.md
   homepage: comerica/index.md
@@ -752,6 +767,9 @@ items:
 - name: Dakota (place)
   href: place/dakota/index.md
   homepage: place/dakota/index.md
+- name: Damon Dickson
+  href: damon-dickson/index.md
+  homepage: damon-dickson/index.md
 - name: Dan Goldsack
   href: dan-goldsack/index.md
   homepage: dan-goldsack/index.md
@@ -812,6 +830,9 @@ items:
 - name: David Staley
   href: david-staley/index.md
   homepage: david-staley/index.md
+- name: De Angela Duff
+  href: de-angela-duff/index.md
+  homepage: de-angela-duff/index.md
 - name: Deborah Allen
   href: deborah-allen/index.md
   homepage: deborah-allen/index.md
@@ -887,12 +908,18 @@ items:
 - name: divorce
   href: divorce/index.md
   homepage: divorce/index.md
+- name: DJ D-Nice
+  href: dj-d-nice/index.md
+  homepage: dj-d-nice/index.md
 - name: DJ Dudley D
   href: dj-dudley-d/index.md
   homepage: dj-dudley-d/index.md
 - name: DJ Kiss
   href: dj-kiss/index.md
   homepage: dj-kiss/index.md
+- name: DJ Rashida
+  href: dj-rashida/index.md
+  homepage: dj-rashida/index.md
 - name: Do It All Night (song)
   href: song/do-it-all-night/index.md
   homepage: song/do-it-all-night/index.md
@@ -1223,6 +1250,9 @@ items:
 - name: Gerry Hubbard
   href: gerry-hubbard/index.md
   homepage: gerry-hubbard/index.md
+- name: Get It Up (song)
+  href: song/get-it-up/index.md
+  homepage: song/get-it-up/index.md
 - name: Ghostbusters (movie)
   href: movie/ghostbusters/index.md
   homepage: movie/ghostbusters/index.md
@@ -1496,6 +1526,9 @@ items:
 - name: Jakissa Taylor Semple
   href: jakissa-taylor-semple/index.md
   homepage: jakissa-taylor-semple/index.md
+- name: James “Jimmy Jam” Harris III
+  href: james-jimmy-jam-harris-iii/index.md
+  homepage: james-jimmy-jam-harris-iii/index.md
 - name: James Brown
   href: james-brown/index.md
   homepage: james-brown/index.md
@@ -1649,6 +1682,9 @@ items:
 - name: Judson L. Jeffries
   href: judson-l-jeffries/index.md
   homepage: judson-l-jeffries/index.md
+- name: Juell Roberts
+  href: juell-roberts/index.md
+  homepage: juell-roberts/index.md
 - name: Jughead (song)
   href: song/jughead/index.md
   homepage: song/jughead/index.md
@@ -1769,6 +1805,9 @@ items:
 - name: Last Call (album)
   href: album/last-call/index.md
   homepage: album/last-call/index.md
+- name: Latoya Gaines
+  href: latoya-gaines/index.md
+  homepage: latoya-gaines/index.md
 - name: Laura LiPuma
   href: laura-lipuma/index.md
   homepage: laura-lipuma/index.md
@@ -1823,6 +1862,9 @@ items:
 - name: Levi Seacer
   href: levi-seacer/index.md
   homepage: levi-seacer/index.md
+- name: Levi Seacer, Jr.
+  href: levi-seacer-jr/index.md
+  homepage: levi-seacer-jr/index.md
 - name: Lexus
   href: lexus/index.md
   homepage: lexus/index.md
@@ -1931,6 +1973,9 @@ items:
 - name: Luka (song)
   href: song/luka/index.md
   homepage: song/luka/index.md
+- name: luthier
+  href: luthier/index.md
+  homepage: luthier/index.md
 - name: Lynn Goldsmith
   href: lynn-goldsmith/index.md
   homepage: lynn-goldsmith/index.md
@@ -2096,6 +2141,9 @@ items:
 - name: Michael Kirk
   href: michael-kirk/index.md
   homepage: michael-kirk/index.md
+- name: Michael Koppelman
+  href: michael-koppelman/index.md
+  homepage: michael-koppelman/index.md
 - name: Michael Nelson
   href: michael-nelson/index.md
   homepage: michael-nelson/index.md
@@ -2159,6 +2207,9 @@ items:
 - name: Minnesota Wild
   href: minnesota-wild/index.md
   homepage: minnesota-wild/index.md
+- name: Mint Condition
+  href: mint-condition/index.md
+  homepage: mint-condition/index.md
 - name: Misty Copeland
   href: misty-copeland/index.md
   homepage: misty-copeland/index.md
@@ -2903,6 +2954,9 @@ items:
 - name: Ropeadope
   href: ropeadope/index.md
   homepage: ropeadope/index.md
+- name: Rosie Gaines
+  href: rosie-gaines/index.md
+  homepage: rosie-gaines/index.md
 - name: Round and Round (song)
   href: song/round-and-round/index.md
   homepage: song/round-and-round/index.md
@@ -3149,6 +3203,9 @@ items:
 - name: Sticky Wicked (song)
   href: song/sticky-wicked/index.md
   homepage: song/sticky-wicked/index.md
+- name: Stokley
+  href: stokley/index.md
+  homepage: stokley/index.md
 - name: Stone Temple Pilots
   href: stone-temple-pilots/index.md
   homepage: stone-temple-pilots/index.md
@@ -3368,6 +3425,9 @@ items:
 - name: The Starr Company
   href: the-starr-company/index.md
   homepage: the-starr-company/index.md
+- name: The Stick (song)
+  href: song/the-stick/index.md
+  homepage: song/the-stick/index.md
 - name: The Three O’Clock
   href: the-three-o-clock/index.md
   homepage: the-three-o-clock/index.md
