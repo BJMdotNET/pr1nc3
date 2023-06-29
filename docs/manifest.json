@@ -1,6 +1,6 @@
 {
   "homepages": [],
-  "source_base_path": "C:/_projects/_personal/news-maintainer/Website",
+  "source_base_path": "C:/_projects/_github/news-maintainer/Website",
   "xrefmap": "xrefmap.yml",
   "files": [
     {
@@ -457,6 +457,16 @@
       "output": {
         ".html": {
           "relative_path": "authors/chris-riemenschneider/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "authors/chris-williams/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/chris-williams/index.html"
         }
       },
       "version": ""
@@ -1600,6 +1610,16 @@
       "output": {
         ".html": {
           "relative_path": "authors/tony-kiene/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "authors/torsten-schmidt/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/torsten-schmidt/index.html"
         }
       },
       "version": ""
@@ -7835,6 +7855,16 @@
       "version": ""
     },
     {
+      "type": "Conceptual",
+      "source_relative_path": "publications/pr-newswire/pr-newswire-2023.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/pr-newswire/pr-newswire-2023.html"
+        }
+      },
+      "version": ""
+    },
+    {
       "type": "Toc",
       "source_relative_path": "publications/pr-newswire/toc.yml",
       "output": {
@@ -8811,6 +8841,39 @@
         },
         ".json": {
           "relative_path": "publications/seattle-times-newspaper/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/shore-fire-media/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/shore-fire-media/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/shore-fire-media/shore-fire-media-2023.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/shore-fire-media/shore-fire-media-2023.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "publications/shore-fire-media/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "publications/shore-fire-media/toc.html"
+        },
+        ".json": {
+          "relative_path": "publications/shore-fire-media/toc.json"
         }
       },
       "version": ""
@@ -14693,6 +14756,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/album/come-2-my-house/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/album/come-2-my-house/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/album/controversy/index.md",
       "output": {
         ".html": {
@@ -15377,6 +15450,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/andy-allo/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/andy-beech/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/andy-beech/index.html"
         }
       },
       "version": ""
@@ -16863,6 +16946,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/damon-dickson/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/damon-dickson/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/dan-goldsack/index.md",
       "output": {
         ".html": {
@@ -17033,6 +17126,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/de-angela-duff/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/de-angela-duff/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/deborah-allen/index.md",
       "output": {
         ".html": {
@@ -17133,6 +17236,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/dj-d-nice/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/dj-d-nice/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/dj-dudley-d/index.md",
       "output": {
         ".html": {
@@ -17147,6 +17260,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/dj-kiss/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/dj-rashida/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/dj-rashida/index.html"
         }
       },
       "version": ""
@@ -17617,6 +17740,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/event/celebration-2020/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/event/celebration-2023/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/event/celebration-2023/index.html"
         }
       },
       "version": ""
@@ -18733,6 +18866,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/james-jimmy-jam-harris-iii/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/james-jimmy-jam-harris-iii/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/jamie-starr/index.md",
       "output": {
         ".html": {
@@ -19213,6 +19356,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/juell-roberts/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/juell-roberts/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/juicy-j/index.md",
       "output": {
         ".html": {
@@ -19523,6 +19676,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/latoya-gaines/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/latoya-gaines/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/laura-lipuma/index.md",
       "output": {
         ".html": {
@@ -19637,6 +19800,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/leroy-bennett/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/levi-seacer-jr/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/levi-seacer-jr/index.html"
         }
       },
       "version": ""
@@ -19857,6 +20030,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/lp-music/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/luthier/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/luthier/index.html"
         }
       },
       "version": ""
@@ -20403,6 +20586,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/michael-koppelman/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/michael-koppelman/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/michael-nelson/index.md",
       "output": {
         ".html": {
@@ -20577,6 +20770,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/minnesota-wild/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/mint-condition/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/mint-condition/index.html"
         }
       },
       "version": ""
@@ -23253,6 +23456,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/rosie-gaines/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/rosie-gaines/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/royalties/index.md",
       "output": {
         ".html": {
@@ -23543,6 +23756,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/song/7-e-flat-version/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/song/7-e-flat-version/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/song/777-9311/index.md",
       "output": {
         ".html": {
@@ -23557,6 +23780,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/song/a-case-of-you/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/song/all-a-share-together-now/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/song/all-a-share-together-now/index.html"
         }
       },
       "version": ""
@@ -23987,6 +24220,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/song/gamillah/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/song/get-it-up/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/song/get-it-up/index.html"
         }
       },
       "version": ""
@@ -24903,6 +25146,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/song/the-stick/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/song/the-stick/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/song/the-wind-the-trees-and-the-leaves/index.md",
       "output": {
         ".html": {
@@ -25367,6 +25620,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/stevie-wonder/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/stokley/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/stokley/index.html"
         }
       },
       "version": ""
