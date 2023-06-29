@@ -1,9 +1,9 @@
 {
   "build": {
     "globalMetadata": {
-      "_appTitle": "PR1NC3 n3wz",
+      "_appTitle": "A Princely Library",
       "_appName": "PR1NC3",
-      "_appFooter": "PR1NC3",
+      "_appFooter": "PR1NC3 - A library fit for a Prince",
       "_copyrightFooter": "PR1NC3",
       "_appFaviconPath": "favicon.ico",
       "_appLogoPath": "logo.png",
@@ -46,6 +46,6 @@
     ],
     "postProcessors": [],
     "keepFileLink": false,
-    "disableGitFeatures": false
+    "disableGitFeatures": true
   }
 }
