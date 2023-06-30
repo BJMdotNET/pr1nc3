@@ -242,6 +242,9 @@ items:
 - name: guitar.com
   href: guitar-com/index.md
   homepage: guitar-com/index.md
+- name: GuitarPlayer
+  href: guitarplayer/index.md
+  homepage: guitarplayer/index.md
 - name: GuitarWorld
   href: guitarworld/index.md
   homepage: guitarworld/index.md
@@ -350,6 +353,9 @@ items:
 - name: Mixdown
   href: mixdown/index.md
   homepage: mixdown/index.md
+- name: Mpls.St.Paul Magazine
+  href: mpls-st-paul-magazine/index.md
+  homepage: mpls-st-paul-magazine/index.md
 - name: Mpls.St.Paul Magazine
   href: mpls-st-paul-magazine/index.md
   homepage: mpls-st-paul-magazine/index.md
@@ -491,6 +497,9 @@ items:
 - name: relix
   href: relix/index.md
   homepage: relix/index.md
+- name: RetroPop
+  href: retropop/index.md
+  homepage: retropop/index.md
 - name: Reverb
   href: reverb/index.md
   homepage: reverb/index.md
@@ -719,6 +728,9 @@ items:
 - name: Variety
   href: variety/index.md
   homepage: variety/index.md
+- name: VenuesNow
+  href: venuesnow/index.md
+  homepage: venuesnow/index.md
 - name: Vibe
   href: vibe/index.md
   homepage: vibe/index.md

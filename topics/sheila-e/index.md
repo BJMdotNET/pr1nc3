@@ -12,7 +12,7 @@
 
 ----
 
-## 2021 (3)
+## 2021 (4)
 
 ### 2021 December (1)
 
@@ -21,6 +21,17 @@
     - on 16 December 2021
     - about [Big Daddy Kane](../../topics/big-daddy-kane/index.md), [Doug E. Fresh](../../topics/doug-e-fresh/index.md), [Essence Communications Inc](../../topics/essence-communications-inc/index.md), [Essence Fest (event)](../../topics/event/essence-fest/index.md), [Essence Festival (event)](../../topics/event/essence-festival/index.md), [H.E.R.](../../topics/h-e-r/index.md), [Louisiana Superdome (place)](../../topics/place/louisiana-superdome/index.md), [Michelle Ebanks](../../topics/michelle-ebanks/index.md), [Morris Day](../../topics/morris-day/index.md), [New Orleans (place)](../../topics/place/new-orleans/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Superdome (place)](../../topics/place/superdome/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/entertainment-lifestyle-new-orleans-hip-hop-and-rap-cultures-3d67105919974b29aed0c02c2390f5a0))
+
+----
+
+### 2021 September (1)
+
+ - [**"The Legend of Prince: The Purple One's Guitar Players Share Untold Secrets and Tales from the Studio and Road -- Mike Scott, Dez Dickerson, Donna Grantis, and Kat Dyson tell all in these GP-exclusive interviews."**](https://www.guitarplayer.com/players/the-legend-of-prince-the-purple-ones-guitar-players-share-untold-secrets-and-tales-from-the-studio-and-road)
+    - by [Art Thompson](../../authors/art-thompson/index.md)
+    - in [GuitarPlayer](../../publications/guitarplayer/index.md)
+    - on 10 September 2021
+    - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Carlos Santana](../../topics/carlos-santana/index.md), [Cyndi Lauper](../../topics/cyndi-lauper/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [Donna Grantis](../../topics/donna-grantis/index.md), [Eric Leeds](../../topics/eric-leeds/index.md), [George Clinton](../../topics/george-clinton/index.md), [Hannah Welton](../../topics/hannah-welton/index.md), [He’s So Dull (song)](../../topics/song/he-s-so-dull/index.md), [Ida Nielsen](../../topics/ida-nielsen/index.md), [James Brown](../../topics/james-brown/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [ping-pong](../../topics/ping-pong/index.md), [PlectrumElectrum (album)](../../topics/album/plectrumelectrum/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.guitarplayer.com/players/the-legend-of-prince-the-purple-ones-guitar-players-share-untold-secrets-and-tales-from-the-studio-and-road))
 
 ----
 

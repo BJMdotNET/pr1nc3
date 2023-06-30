@@ -1,10 +1,28 @@
 # New Power Generation
 
-## 2023 (6)
+## 2023 (8)
 
-### 2023 June (3)
+### 2023 June (5)
+
+ - [**"“There’s Guitar Madness All Over This”: Prince Talks Gear, Recording and His Creative Process in This Essential Interview From the ‘Guitar Player’ Vault -- The Artist spoke to ‘GP’ from Paisley Park’s Studio A at a milestone moment in his guitar playing career"**](https://www.guitarplayer.com/players/prince-january-2000-interview-guitar-player)
+    - by [Art Thompson](../../authors/art-thompson/index.md), [Rod Brakes](../../authors/rod-brakes/index.md)
+    - in [GuitarPlayer](../../publications/guitarplayer/index.md)
+    - on 25 June 2023
+    - about [Ani DiFranco](../../topics/ani-difranco/index.md), [Animal Kingdom (song)](../../topics/song/animal-kingdom/index.md), [Auerswald (instrument)](../../topics/instrument/auerswald/index.md), [Baby Knows (song)](../../topics/song/baby-knows/index.md), [Boss Vibrato (instrument)](../../topics/instrument/boss-vibrato/index.md), [Carlos Santana](../../topics/carlos-santana/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Cloud guitar (instrument)](../../topics/instrument/cloud-guitar/index.md), [Cry Baby (instrument)](../../topics/instrument/cry-baby/index.md), [Crystal Ball (album)](../../topics/album/crystal-ball/index.md), [Da Bang (song)](../../topics/song/da-bang/index.md), [Dave Rusan](../../topics/dave-rusan/index.md), [David Rusan](../../topics/david-rusan/index.md), [EMI](../../topics/emi/index.md), [Everyday Is a Winding Road (song)](../../topics/song/everyday-is-a-winding-road/index.md), [Flanger (instrument)](../../topics/instrument/flanger/index.md), [Freddie Stone](../../topics/freddie-stone/index.md), [Gwen Stefani](../../topics/gwen-stefani/index.md), [I Love U, But I Don't Trust U Anymore (song)](../../topics/song/i-love-u-but-i-don-t-trust-u-anymore/index.md), [I Love You, But I Don’t Trust You Anymore (song)](../../topics/song/i-love-you-but-i-don-t-trust-you-anymore/index.md), [I Would Die 4 U (song)](../../topics/song/i-would-die-4-u/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Maceo Parker](../../topics/maceo-parker/index.md), [Man O’ War (song)](../../topics/song/man-o-war/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Newpower Soul (album)](../../topics/album/newpower-soul/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Rave Un2 the Joy Fantastic (album)](../../topics/album/rave-un2-the-joy-fantastic/index.md), [Rave Un2 the Joy Fantastic (song)](../../topics/song/rave-un2-the-joy-fantastic/index.md), [Rufus](../../topics/rufus/index.md), [Schecter (instrument)](../../topics/instrument/schecter/index.md), [Sheryl Crow](../../topics/sheryl-crow/index.md), [Sly Stone](../../topics/sly-stone/index.md), [So Far, So Pleased (song)](../../topics/song/so-far-so-pleased/index.md), [Sonny T.](../../topics/sonny-t/index.md), [Tangerine (song)](../../topics/song/tangerine/index.md), [The Truth (album)](../../topics/album/the-truth/index.md), [Tony Maiden](../../topics/tony-maiden/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md), [Zoom 9030 (instrument)](../../topics/instrument/zoom-9030/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.guitarplayer.com/players/prince-january-2000-interview-guitar-player))
+
+<br />
+
+ - [**"A Purple Pilgrimage At Paisley Park"**](https://venuesnow.com/a-purple-pilgrimage-at-paisley-park/)
+    - in [VenuesNow](../../publications/venuesnow/index.md)
+    - on 22 June 2023
+    - about [7 (E Flat Version) (song)](../../topics/song/7-e-flat-version/index.md), [All A Share Together Now (song)](../../topics/song/all-a-share-together-now/index.md), [Andy Beech](../../topics/andy-beech/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Come 2 My House (album)](../../topics/album/come-2-my-house/index.md), [DJ Rashida](../../topics/dj-rashida/index.md), [Doug E. Fresh](../../topics/doug-e-fresh/index.md), [L. Londell McMillan](../../topics/l-londell-mcmillan/index.md), [luthier](../../topics/luthier/index.md), [Mint Condition](../../topics/mint-condition/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [NPG Records](../../topics/npg-records/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Prince Legacy LLC](../../topics/prince-legacy-llc/index.md), [Rosie Gaines](../../topics/rosie-gaines/index.md), [Sounds of Blackness](../../topics/sounds-of-blackness/index.md), [Stokley](../../topics/stokley/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://venuesnow.com/a-purple-pilgrimage-at-paisley-park/))
+
+<br />
 
  - [**"‘60 Songs That Explain the ’90s’: The Filthy Brilliance of Prince in the ’90s -- Finding the joy in the repetition—and experimentation—of Prince’s most interesting decade"**](https://www.theringer.com/2023/6/14/23760185/prince-90s-gett-off-history)
+    - by [Rob Harvilla](../../authors/rob-harvilla/index.md)
     - in [The Ringer](../../publications/the-ringer/index.md)
     - on 14 June 2023
     - about [Bangles](../../topics/bangles/index.md), [Batdance (song)](../../topics/song/batdance/index.md), [Batman (album)](../../topics/album/batman/index.md), [Black Album (album)](../../topics/album/black-album/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Cyndi Lauper](../../topics/cyndi-lauper/index.md), [divorce](../../topics/divorce/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Michael Bland](../../topics/michael-bland/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Round and Round (song)](../../topics/song/round-and-round/index.md), [Scandalous (song)](../../topics/song/scandalous/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [Tevin Campbell](../../topics/tevin-campbell/index.md), [The Black Album (album)](../../topics/album/the-black-album/index.md), [Tim Burton](../../topics/tim-burton/index.md), [Tommy Barbarella](../../topics/tommy-barbarella/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md), [Weird Al Yankovic](../../topics/weird-al-yankovic/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
@@ -67,7 +85,7 @@
 
 ----
 
-## 2021 (2)
+## 2021 (3)
 
 ### 2021 December (2)
 
@@ -84,6 +102,17 @@
     - on 16 December 2021
     - about [Big Daddy Kane](../../topics/big-daddy-kane/index.md), [Doug E. Fresh](../../topics/doug-e-fresh/index.md), [Essence Communications Inc](../../topics/essence-communications-inc/index.md), [Essence Fest (event)](../../topics/event/essence-fest/index.md), [Essence Festival (event)](../../topics/event/essence-festival/index.md), [H.E.R.](../../topics/h-e-r/index.md), [Louisiana Superdome (place)](../../topics/place/louisiana-superdome/index.md), [Michelle Ebanks](../../topics/michelle-ebanks/index.md), [Morris Day](../../topics/morris-day/index.md), [New Orleans (place)](../../topics/place/new-orleans/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Superdome (place)](../../topics/place/superdome/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/entertainment-lifestyle-new-orleans-hip-hop-and-rap-cultures-3d67105919974b29aed0c02c2390f5a0))
+
+----
+
+### 2021 September (1)
+
+ - [**"The Legend of Prince: The Purple One's Guitar Players Share Untold Secrets and Tales from the Studio and Road -- Mike Scott, Dez Dickerson, Donna Grantis, and Kat Dyson tell all in these GP-exclusive interviews."**](https://www.guitarplayer.com/players/the-legend-of-prince-the-purple-ones-guitar-players-share-untold-secrets-and-tales-from-the-studio-and-road)
+    - by [Art Thompson](../../authors/art-thompson/index.md)
+    - in [GuitarPlayer](../../publications/guitarplayer/index.md)
+    - on 10 September 2021
+    - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Carlos Santana](../../topics/carlos-santana/index.md), [Cyndi Lauper](../../topics/cyndi-lauper/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [Donna Grantis](../../topics/donna-grantis/index.md), [Eric Leeds](../../topics/eric-leeds/index.md), [George Clinton](../../topics/george-clinton/index.md), [Hannah Welton](../../topics/hannah-welton/index.md), [He’s So Dull (song)](../../topics/song/he-s-so-dull/index.md), [Ida Nielsen](../../topics/ida-nielsen/index.md), [James Brown](../../topics/james-brown/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [ping-pong](../../topics/ping-pong/index.md), [PlectrumElectrum (album)](../../topics/album/plectrumelectrum/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.guitarplayer.com/players/the-legend-of-prince-the-purple-ones-guitar-players-share-untold-secrets-and-tales-from-the-studio-and-road))
 
 ----
 

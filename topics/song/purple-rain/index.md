@@ -53,9 +53,9 @@
 
 ----
 
-## 2021 (1)
+## 2021 (2)
 
-### 2021 June (1)
+### 2021 June (2)
 
  - [**"Purple Rain: How Prince Stormed His Way To Superstardom -- Creating the zeitgeist, Prince’s ‘Purple Rain’ era raised the bars for music, cinema and live performance. No one has come close since."**](https://www.thisisdig.com/feature/prince-purple-rain-album/)
     - by [Jason Draper](../../../authors/jason-draper/index.md)
@@ -63,6 +63,14 @@
     - on 25 June 2021
     - about [Alan Leeds](../../../topics/alan-leeds/index.md), [Albert Magnoli](../../../topics/albert-magnoli/index.md), [Apollonia](../../../topics/apollonia/index.md), [Apollonia 6](../../../topics/apollonia-6/index.md), [Baby I’m a Star (song)](../../../topics/song/baby-i-m-a-star/index.md), [BrownMark](../../../topics/brownmark/index.md), [Bruce Springsteen](../../../topics/bruce-springsteen/index.md), [Computer Blue (song)](../../../topics/song/computer-blue/index.md), [Darling Nikki (song)](../../../topics/song/darling-nikki/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [I Would Die 4 U (song)](../../../topics/song/i-would-die-4-u/index.md), [Jimmy Jam](../../../topics/jimmy-jam/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Lisa Coleman](../../../topics/lisa-coleman/index.md), [Lives Of The Musicians: Prince (book)](../../../topics/book/lives-of-the-musicians-prince/index.md), [Morris Day](../../../topics/morris-day/index.md), [Parental Advisory](../../../topics/parental-advisory/index.md), [Parents Music Resource Center](../../../topics/parents-music-resource-center/index.md), [Patricia Kotero](../../../topics/patricia-kotero/index.md), [Peggy McCreary](../../../topics/peggy-mccreary/index.md), [Prince and The Revolution](../../../topics/prince-and-the-revolution/index.md), [Purple Rain (album)](../../../topics/album/purple-rain/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Purple Rain (tour)](../../../topics/tour/purple-rain/index.md), [Sheena Easton](../../../topics/sheena-easton/index.md), [Steve Fargnoli](../../../topics/steve-fargnoli/index.md), [Sugar Walls (song)](../../../topics/song/sugar-walls/index.md), [Sunset Sound (place)](../../../topics/place/sunset-sound/index.md), [Susan Rogers](../../../topics/susan-rogers/index.md), [Terry Lewis](../../../topics/terry-lewis/index.md), [The Beautiful Ones (song)](../../../topics/song/the-beautiful-ones/index.md), [The Revolution](../../../topics/the-revolution/index.md), [The Time](../../../topics/the-time/index.md), [Vanity](../../../topics/vanity/index.md), [Vanity 6](../../../topics/vanity-6/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.thisisdig.com/feature/prince-purple-rain-album/))
+
+<br />
+
+ - [**"How Prince’s "Purple Rain" Mesa/Boogie Mark IIC+ Turned Up in a Minneapolis Music Store -- Tracing the history of a very special amp."**](https://www.guitarplayer.com/gear/how-princes-purple-rain-mesaboogie-mark-iic-turned-up-in-a-minneapolis-music-store)
+    - in [GuitarPlayer](../../../publications/guitarplayer/index.md)
+    - on 7 June 2021
+    - about [1999 (tour)](../../../topics/tour/1999/index.md), [Capitol Guitars (place)](../../../topics/place/capitol-guitars/index.md), [Don Batts](../../../topics/don-batts/index.md), [Encore Music (place)](../../../topics/place/encore-music/index.md), [Mark IIB (instrument)](../../../topics/instrument/mark-iib/index.md), [Mesa Mark III (instrument)](../../../topics/instrument/mesa-mark-iii/index.md), [Mike Bendinelli](../../../topics/mike-bendinelli/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [St. Paul (place)](../../../topics/place/st-paul/index.md), [St. Paul Civic Auditorium (place)](../../../topics/place/st-paul-civic-auditorium/index.md), [Twin Cities (place)](../../../topics/place/twin-cities/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.guitarplayer.com/gear/how-princes-purple-rain-mesaboogie-mark-iic-turned-up-in-a-minneapolis-music-store))
 
 ----
 

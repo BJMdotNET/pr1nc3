@@ -12,6 +12,7 @@
 ----
 
  - [**"Welcome to Paisley Park: Prince fans love unreleased songs and concert footage -- Celebration 2023 honors the Purple One for four days this weekend."**](https://www.startribune.com/paisley-park-prince-chanhassen-revolution-john-nelson-yokohama-chaka-khan-chuck-d-stokley/600281268/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/minneapolis-star-tribune/index.md)
     - on 8 June 2023
     - about [Sounds of Blackness](../../topics/sounds-of-blackness/index.md)

@@ -1,5 +1,18 @@
 # The Gold Experience (album)
 
+## 2021 (1)
+
+### 2021 October (1)
+
+ - [**"Engineer Hans-Martin Buff Recalls Life Working with Prince at Paisley Park -- “One of the reasons I got the gig with Prince is because I was young and I was hungry and I was kind of unformed...”"**](https://www.guitarplayer.com/players/engineer-hans-martin-buff-recalls-life-working-with-prince-at-paisley-park)
+    - by [Art Thompson](../../../authors/art-thompson/index.md)
+    - in [GuitarPlayer](../../../publications/guitarplayer/index.md)
+    - on 1 October 2021
+    - about [Kirk Johnson](../../../topics/kirk-johnson/index.md), [Larry Graham](../../../topics/larry-graham/index.md), [Lenny Kravitz](../../../topics/lenny-kravitz/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Rave Un2 the Joy Fantastic (album)](../../../topics/album/rave-un2-the-joy-fantastic/index.md), [The Gold Experience (album)](../../../topics/album/the-gold-experience/index.md), [The Truth (album)](../../../topics/album/the-truth/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.guitarplayer.com/players/engineer-hans-martin-buff-recalls-life-working-with-prince-at-paisley-park))
+
+----
+
 ## 2019 (4)
 
 ### 2019 October (1)

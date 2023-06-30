@@ -5,6 +5,7 @@
 ### 2023 June (1)
 
  - [**"‘60 Songs That Explain the ’90s’: The Filthy Brilliance of Prince in the ’90s -- Finding the joy in the repetition—and experimentation—of Prince’s most interesting decade"**](https://www.theringer.com/2023/6/14/23760185/prince-90s-gett-off-history)
+    - by [Rob Harvilla](../../authors/rob-harvilla/index.md)
     - in [The Ringer](../../publications/the-ringer/index.md)
     - on 14 June 2023
     - about [Bangles](../../topics/bangles/index.md), [Batdance (song)](../../topics/song/batdance/index.md), [Batman (album)](../../topics/album/batman/index.md), [Black Album (album)](../../topics/album/black-album/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Cyndi Lauper](../../topics/cyndi-lauper/index.md), [divorce](../../topics/divorce/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Michael Bland](../../topics/michael-bland/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Round and Round (song)](../../topics/song/round-and-round/index.md), [Scandalous (song)](../../topics/song/scandalous/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [Tevin Campbell](../../topics/tevin-campbell/index.md), [The Black Album (album)](../../topics/album/the-black-album/index.md), [Tim Burton](../../topics/tim-burton/index.md), [Tommy Barbarella](../../topics/tommy-barbarella/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md), [Weird Al Yankovic](../../topics/weird-al-yankovic/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
@@ -12,7 +13,7 @@
 
 ----
 
-## 2021 (2)
+## 2021 (3)
 
 ### 2021 December (1)
 
@@ -21,6 +22,17 @@
     - on 12 December 2021
     - about [Cyndi Lauper](../../topics/cyndi-lauper/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Katy Perry](../../topics/katy-perry/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/entertainment-music-concerts-lady-gaga-katy-perry-74dd6597f0d741e2b8310b3dc29c1518))
+
+----
+
+### 2021 September (1)
+
+ - [**"The Legend of Prince: The Purple One's Guitar Players Share Untold Secrets and Tales from the Studio and Road -- Mike Scott, Dez Dickerson, Donna Grantis, and Kat Dyson tell all in these GP-exclusive interviews."**](https://www.guitarplayer.com/players/the-legend-of-prince-the-purple-ones-guitar-players-share-untold-secrets-and-tales-from-the-studio-and-road)
+    - by [Art Thompson](../../authors/art-thompson/index.md)
+    - in [GuitarPlayer](../../publications/guitarplayer/index.md)
+    - on 10 September 2021
+    - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Carlos Santana](../../topics/carlos-santana/index.md), [Cyndi Lauper](../../topics/cyndi-lauper/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [Donna Grantis](../../topics/donna-grantis/index.md), [Eric Leeds](../../topics/eric-leeds/index.md), [George Clinton](../../topics/george-clinton/index.md), [Hannah Welton](../../topics/hannah-welton/index.md), [He’s So Dull (song)](../../topics/song/he-s-so-dull/index.md), [Ida Nielsen](../../topics/ida-nielsen/index.md), [James Brown](../../topics/james-brown/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [ping-pong](../../topics/ping-pong/index.md), [PlectrumElectrum (album)](../../topics/album/plectrumelectrum/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.guitarplayer.com/players/the-legend-of-prince-the-purple-ones-guitar-players-share-untold-secrets-and-tales-from-the-studio-and-road))
 
 ----
 

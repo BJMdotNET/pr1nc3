@@ -1,6 +1,6 @@
 # Ida Nielsen
 
-## 2021 (1)
+## 2021 (2)
 
 ### 2021 December (1)
 
@@ -9,6 +9,17 @@
     - on 22 December 2021
     - about [Audubon Road (place)](../../topics/place/audubon-road/index.md), [Bob Cavallo](../../topics/bob-cavallo/index.md), [Bobby Z](../../topics/bobby-z/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [Celebration 2019 (event)](../../topics/event/celebration-2019/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [DJ Kiss](../../topics/dj-kiss/index.md), [Ida Nielsen](../../topics/ida-nielsen/index.md), [Ingrid Chavez](../../topics/ingrid-chavez/index.md), [Jeff Katz](../../topics/jeff-katz/index.md), [Jesse Johnson](../../topics/jesse-johnson/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Matt Fink](../../topics/matt-fink/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Prince: In Concert On The Big Screen (event)](../../topics/event/prince-in-concert-on-the-big-screen/index.md), [Renato Neto](../../topics/renato-neto/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/entertainment-music-minnesota-minneapolis-prince-5dab29ebae754a008ff8dc0d3bdc5469))
+
+----
+
+### 2021 September (1)
+
+ - [**"The Legend of Prince: The Purple One's Guitar Players Share Untold Secrets and Tales from the Studio and Road -- Mike Scott, Dez Dickerson, Donna Grantis, and Kat Dyson tell all in these GP-exclusive interviews."**](https://www.guitarplayer.com/players/the-legend-of-prince-the-purple-ones-guitar-players-share-untold-secrets-and-tales-from-the-studio-and-road)
+    - by [Art Thompson](../../authors/art-thompson/index.md)
+    - in [GuitarPlayer](../../publications/guitarplayer/index.md)
+    - on 10 September 2021
+    - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Carlos Santana](../../topics/carlos-santana/index.md), [Cyndi Lauper](../../topics/cyndi-lauper/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [Donna Grantis](../../topics/donna-grantis/index.md), [Eric Leeds](../../topics/eric-leeds/index.md), [George Clinton](../../topics/george-clinton/index.md), [Hannah Welton](../../topics/hannah-welton/index.md), [He’s So Dull (song)](../../topics/song/he-s-so-dull/index.md), [Ida Nielsen](../../topics/ida-nielsen/index.md), [James Brown](../../topics/james-brown/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [ping-pong](../../topics/ping-pong/index.md), [PlectrumElectrum (album)](../../topics/album/plectrumelectrum/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.guitarplayer.com/players/the-legend-of-prince-the-purple-ones-guitar-players-share-untold-secrets-and-tales-from-the-studio-and-road))
 
 ----
 

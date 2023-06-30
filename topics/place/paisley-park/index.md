@@ -1,8 +1,25 @@
 # Paisley Park (place)
 
-## 2023 (5)
+## 2023 (10)
 
-### 2023 June (3)
+### 2023 June (6)
+
+ - [**"“There’s Guitar Madness All Over This”: Prince Talks Gear, Recording and His Creative Process in This Essential Interview From the ‘Guitar Player’ Vault -- The Artist spoke to ‘GP’ from Paisley Park’s Studio A at a milestone moment in his guitar playing career"**](https://www.guitarplayer.com/players/prince-january-2000-interview-guitar-player)
+    - by [Art Thompson](../../../authors/art-thompson/index.md), [Rod Brakes](../../../authors/rod-brakes/index.md)
+    - in [GuitarPlayer](../../../publications/guitarplayer/index.md)
+    - on 25 June 2023
+    - about [Ani DiFranco](../../../topics/ani-difranco/index.md), [Animal Kingdom (song)](../../../topics/song/animal-kingdom/index.md), [Auerswald (instrument)](../../../topics/instrument/auerswald/index.md), [Baby Knows (song)](../../../topics/song/baby-knows/index.md), [Boss Vibrato (instrument)](../../../topics/instrument/boss-vibrato/index.md), [Carlos Santana](../../../topics/carlos-santana/index.md), [Chaka Khan](../../../topics/chaka-khan/index.md), [Cloud guitar (instrument)](../../../topics/instrument/cloud-guitar/index.md), [Cry Baby (instrument)](../../../topics/instrument/cry-baby/index.md), [Crystal Ball (album)](../../../topics/album/crystal-ball/index.md), [Da Bang (song)](../../../topics/song/da-bang/index.md), [Dave Rusan](../../../topics/dave-rusan/index.md), [David Rusan](../../../topics/david-rusan/index.md), [EMI](../../../topics/emi/index.md), [Everyday Is a Winding Road (song)](../../../topics/song/everyday-is-a-winding-road/index.md), [Flanger (instrument)](../../../topics/instrument/flanger/index.md), [Freddie Stone](../../../topics/freddie-stone/index.md), [Gwen Stefani](../../../topics/gwen-stefani/index.md), [I Love U, But I Don't Trust U Anymore (song)](../../../topics/song/i-love-u-but-i-don-t-trust-u-anymore/index.md), [I Love You, But I Don’t Trust You Anymore (song)](../../../topics/song/i-love-you-but-i-don-t-trust-you-anymore/index.md), [I Would Die 4 U (song)](../../../topics/song/i-would-die-4-u/index.md), [Larry Graham](../../../topics/larry-graham/index.md), [Maceo Parker](../../../topics/maceo-parker/index.md), [Man O’ War (song)](../../../topics/song/man-o-war/index.md), [New Power Generation](../../../topics/new-power-generation/index.md), [Newpower Soul (album)](../../../topics/album/newpower-soul/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Rave Un2 the Joy Fantastic (album)](../../../topics/album/rave-un2-the-joy-fantastic/index.md), [Rave Un2 the Joy Fantastic (song)](../../../topics/song/rave-un2-the-joy-fantastic/index.md), [Rufus](../../../topics/rufus/index.md), [Schecter (instrument)](../../../topics/instrument/schecter/index.md), [Sheryl Crow](../../../topics/sheryl-crow/index.md), [Sly Stone](../../../topics/sly-stone/index.md), [So Far, So Pleased (song)](../../../topics/song/so-far-so-pleased/index.md), [Sonny T.](../../../topics/sonny-t/index.md), [Tangerine (song)](../../../topics/song/tangerine/index.md), [The Truth (album)](../../../topics/album/the-truth/index.md), [Tony Maiden](../../../topics/tony-maiden/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md), [Zoom 9030 (instrument)](../../../topics/instrument/zoom-9030/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.guitarplayer.com/players/prince-january-2000-interview-guitar-player))
+
+<br />
+
+ - [**"A Purple Pilgrimage At Paisley Park"**](https://venuesnow.com/a-purple-pilgrimage-at-paisley-park/)
+    - in [VenuesNow](../../../publications/venuesnow/index.md)
+    - on 22 June 2023
+    - about [7 (E Flat Version) (song)](../../../topics/song/7-e-flat-version/index.md), [All A Share Together Now (song)](../../../topics/song/all-a-share-together-now/index.md), [Andy Beech](../../../topics/andy-beech/index.md), [Celebration (event)](../../../topics/event/celebration/index.md), [Chaka Khan](../../../topics/chaka-khan/index.md), [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Come 2 My House (album)](../../../topics/album/come-2-my-house/index.md), [DJ Rashida](../../../topics/dj-rashida/index.md), [Doug E. Fresh](../../../topics/doug-e-fresh/index.md), [L. Londell McMillan](../../../topics/l-londell-mcmillan/index.md), [luthier](../../../topics/luthier/index.md), [Mint Condition](../../../topics/mint-condition/index.md), [New Power Generation](../../../topics/new-power-generation/index.md), [NPG Records](../../../topics/npg-records/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Prince Legacy LLC](../../../topics/prince-legacy-llc/index.md), [Rosie Gaines](../../../topics/rosie-gaines/index.md), [Sounds of Blackness](../../../topics/sounds-of-blackness/index.md), [Stokley](../../../topics/stokley/index.md), [Twin Cities (place)](../../../topics/place/twin-cities/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://venuesnow.com/a-purple-pilgrimage-at-paisley-park/))
+
+<br />
 
  - [**"Paisley Park Honored Prince’s Legacy At 7th Annual Celebration -- Star-Studded Event Featured Appearances By Chaka Khan, Stokley, Sounds Of Blackness, Doug E. Fresh, Chuck D, D-Nice, And More + Prince Legacy Announces That Two Unreleased Prince Songs Will Be Available On DSPS On 7/7"**](https://shorefire.com/releases/entry/paisley-park-honored-princes-legacy-at7th-annual-celebration)
     - in [Shore Fire Media](../../../publications/shore-fire-media/index.md)
@@ -21,6 +38,14 @@
 
 <br />
 
+ - [**"Celebration returns to Paisley Park this week"**](https://spokesman-recorder.com/2023/06/05/celebration-returns-to-paisley-park/)
+    - in [Minnesota Spokesman-Recorder](../../../publications/minnesota-spokesman-recorder/index.md)
+    - on 5 June 2023
+    - about [André Cymone](../../../topics/andr-cymone/index.md), [BrownMark](../../../topics/brownmark/index.md), [Celebration (event)](../../../topics/event/celebration/index.md), [Celebration 2017 (event)](../../../topics/event/celebration-2017/index.md), [Celebration 2023 (event)](../../../topics/event/celebration-2023/index.md), [Chaka Khan](../../../topics/chaka-khan/index.md), [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [DJ Rashida](../../../topics/dj-rashida/index.md), [Doug E. Fresh](../../../topics/doug-e-fresh/index.md), [exhibit](../../../topics/exhibit/index.md), [exhibition](../../../topics/exhibition/index.md), [fDeluxe](../../../topics/fdeluxe/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [George Clinton](../../../topics/george-clinton/index.md), [Jesse Johnson](../../../topics/jesse-johnson/index.md), [Mazarati](../../../topics/mazarati/index.md), [Mint Condition](../../../topics/mint-condition/index.md), [Morris Day](../../../topics/morris-day/index.md), [Morris Day and The Time](../../../topics/morris-day-and-the-time/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Prince Rogers Nelson Memorial Highway (place)](../../../topics/place/prince-rogers-nelson-memorial-highway/index.md), [Randee St. Nicholas](../../../topics/randee-st-nicholas/index.md), [Rosie Gaines](../../../topics/rosie-gaines/index.md), [Shelby J.](../../../topics/shelby-j/index.md), [Sounds of Blackness](../../../topics/sounds-of-blackness/index.md), [Stokley](../../../topics/stokley/index.md), [Twin Cities (place)](../../../topics/place/twin-cities/index.md), [Xcel Energy Center (place)](../../../topics/place/xcel-energy-center/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://spokesman-recorder.com/2023/06/05/celebration-returns-to-paisley-park/))
+
+<br />
+
  - [**"Paisley Park Reveals Celebration 2023 Programming"**](https://shorefire.com/releases/entry/paisley-park-reveals-celebration-2023-programming)
     - in [Shore Fire Media](../../../publications/shore-fire-media/index.md)
     - on 5 June 2023
@@ -29,7 +54,24 @@
 
 ----
 
-### 2023 May (2)
+### 2023 May (4)
+
+ - [**"Paisley Park's Annual Celebration Is Back, with Music from Prince's Vault -- Honoring seven years since the musician passed, Paisley Park is pulling out all the stops."**](https://mspmag.com/arts-and-culture/paisley-park-celebration-prince-vault/)
+    - by [Julia Schiff](../../../authors/julia-schiff/index.md)
+    - in [Mpls.St.Paul Magazine](../../../publications/mpls-st-paul-magazine/index.md)
+    - on 10 May 2023
+    - about [Celebration (event)](../../../topics/event/celebration/index.md), [Chaka Khan](../../../topics/chaka-khan/index.md), [Chuck D.](../../../topics/chuck-d/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Sounds of Blackness](../../../topics/sounds-of-blackness/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://mspmag.com/arts-and-culture/paisley-park-celebration-prince-vault/))
+
+<br />
+
+ - [**"New Prince material to be released as part of annual Paisley Park Celebration"**](https://retropopmagazine.com/new-prince-material-to-be-released-as-part-of-annual-paisley-park-celebration/)
+    - in [RetroPop](../../../publications/retropop/index.md)
+    - on 6 May 2023
+    - about [Celebration (event)](../../../topics/event/celebration/index.md), [Chaka Khan](../../../topics/chaka-khan/index.md), [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Doug E. Fresh](../../../topics/doug-e-fresh/index.md), [Mint Condition](../../../topics/mint-condition/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Stokley](../../../topics/stokley/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://retropopmagazine.com/new-prince-material-to-be-released-as-part-of-annual-paisley-park-celebration/))
+
+<br />
 
  - [**"Paisley Park’s Celebration 2023 To Feature New Unreleased Music By Prince & Performances By Stokley, Sounds Of Blackness, D-Nice, Shelby J, Members Of NPG, And More Honoring Prince’s Music, Legacy & Global Cultural Impact -- With Discussions With Chaka Khan, Chuck D, Doug E. Fresh, And D-Nice"**](https://shorefire.com/releases/entry/paisley-park-celebration-2023-to-feature-new-unreleased-music-by-prince)
     - in [Shore Fire Media](../../../publications/shore-fire-media/index.md)
@@ -69,7 +111,18 @@
 
 ----
 
-## 2021 (5)
+## 2021 (6)
+
+### 2021 October (1)
+
+ - [**"Engineer Hans-Martin Buff Recalls Life Working with Prince at Paisley Park -- “One of the reasons I got the gig with Prince is because I was young and I was hungry and I was kind of unformed...”"**](https://www.guitarplayer.com/players/engineer-hans-martin-buff-recalls-life-working-with-prince-at-paisley-park)
+    - by [Art Thompson](../../../authors/art-thompson/index.md)
+    - in [GuitarPlayer](../../../publications/guitarplayer/index.md)
+    - on 1 October 2021
+    - about [Kirk Johnson](../../../topics/kirk-johnson/index.md), [Larry Graham](../../../topics/larry-graham/index.md), [Lenny Kravitz](../../../topics/lenny-kravitz/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Rave Un2 the Joy Fantastic (album)](../../../topics/album/rave-un2-the-joy-fantastic/index.md), [The Gold Experience (album)](../../../topics/album/the-gold-experience/index.md), [The Truth (album)](../../../topics/album/the-truth/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.guitarplayer.com/players/engineer-hans-martin-buff-recalls-life-working-with-prince-at-paisley-park))
+
+----
 
 ### 2021 August (1)
 

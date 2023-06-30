@@ -14,6 +14,7 @@
 <br />
 
  - [**"Purple lanes: Minnesota highway signs to honor Prince"**](https://apnews.com/article/prince-highway-name-minnesota-a1ac515d07ce850f18f56e63eb8bcef1)
+    - by [Steve Karnowski (Associated Press)](../../authors/associated-press/steve-karnowski/index.md)
     - in [Associated Press News](../../publications/associated-press-news/index.md)
     - on 4 May 2023
     - about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Internal Revenue Service](../../topics/internal-revenue-service/index.md), [IRS](../../topics/irs/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [museum](../../topics/museum/index.md), [Paisley Park Studios (place)](../../topics/place/paisley-park-studios/index.md), [Primary Wave](../../topics/primary-wave/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md)

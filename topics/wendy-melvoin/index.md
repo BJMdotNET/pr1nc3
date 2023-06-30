@@ -1,8 +1,17 @@
 # Wendy Melvoin
 
-## 2023 (2)
+## 2023 (3)
 
-### 2023 June (2)
+### 2023 June (3)
+
+ - [**"Meet Joni Mitchell’s Joni Jam Crew -- A cast of musicians, led by Brandi Carlile, joined the 79-year-old singer and songwriter onstage at the Gorge in Washington on Saturday."**](https://www.nytimes.com/2023/06/13/arts/music/amplifier-newsletter-joni-mitchell-jam.html)
+    - by [Lindsay Zoladz](../../authors/lindsay-zoladz/index.md)
+    - in [New York Times](../../publications/new-york-times/index.md)
+    - on 13 June 2023
+    - about [Joni Mitchell](../../topics/joni-mitchell/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.nytimes.com/2023/06/13/arts/music/amplifier-newsletter-joni-mitchell-jam.html))
+
+<br />
 
  - [**"The Awe and Promise of Joni Mitchell’s Live Return -- At her first headlining concert in more than two decades, the incomparable singer-songwriter led a star-studded affair, burnishing her legend."**](https://pitchfork.com/thepitch/the-awe-and-promise-of-joni-mitchells-live-return/)
     - by [Jenn Pelly](../../authors/jenn-pelly/index.md)

@@ -24,7 +24,7 @@
      * [Nicole Evatt (Associated Press)](./associated-press/nicole-evatt/index.md) (1)
      * [Pablo Gorondi (Associated Press)](./associated-press/pablo-gorondi/index.md) (5)
      * [Ryan Nakashima (Associated Press)](./associated-press/ryan-nakashima/index.md) (1)
-     * [Steve Karnowski (Associated Press)](./associated-press/steve-karnowski/index.md) (16)
+     * [Steve Karnowski (Associated Press)](./associated-press/steve-karnowski/index.md) (17)
 
 ----
 
@@ -46,6 +46,7 @@
   * [Andy Healy](./andy-healy/index.md) (3)
   * [Ann-Derrick Gaillot](./ann-derrick-gaillot/index.md) (1)
   * [Anthony Lonetree](./anthony-lonetree/index.md) (1)
+  * [Art Thompson](./art-thompson/index.md) (3)
   * [ASMP](./asmp/index.md) (1)
   * [Ben Farniok](./ben-farniok/index.md) (1)
   * [Bill Donahue](./bill-donahue/index.md) (5)
@@ -98,10 +99,12 @@
   * [Jennifer Bjorhus](./jennifer-bjorhus/index.md) (1)
   * [Jenny Regan](./jenny-regan/index.md) (1)
   * [Jeremy Olson](./jeremy-olson/index.md) (6)
+  * [Jessica Gresko](./jessica-gresko/index.md) (1)
   * [John Ewoldt](./john-ewoldt/index.md) (1)
   * [John Reinan](./john-reinan/index.md) (3)
-  * [Jon Bream](./jon-bream/index.md) (101)
+  * [Jon Bream](./jon-bream/index.md) (102)
   * [Jon Winkler](./jon-winkler/index.md) (1)
+  * [Julia Schiff](./julia-schiff/index.md) (1)
   * [Karen Zamora](./karen-zamora/index.md) (2)
   * [Katy Read](./katy-read/index.md) (3)
   * [Kevyn Burger](./kevyn-burger/index.md) (1)
@@ -138,7 +141,9 @@
   * [Paul Walsh](./paul-walsh/index.md) (7)
   * [Randy Slovacek](./randy-slovacek/index.md) (1)
   * [Richard Chin](./richard-chin/index.md) (1)
+  * [Rob Harvilla](./rob-harvilla/index.md) (1)
   * [Rochelle Olson](./rochelle-olson/index.md) (6)
+  * [Rod Brakes](./rod-brakes/index.md) (1)
   * [Roger Friedman](./roger-friedman/index.md) (1)
   * [Rohan Preston](./rohan-preston/index.md) (2)
   * [Ross Raihala](./ross-raihala/index.md) (1)
@@ -168,6 +173,7 @@
   * [Tom Von Malder](./tom-von-malder/index.md) (1)
   * [Tony Kiene](./tony-kiene/index.md) (1)
   * [Torsten Schmidt](./torsten-schmidt/index.md) (1)
+  * [Trisha Ahmed](./trisha-ahmed/index.md) (1)
   * [Vince Tuss](./vince-tuss/index.md) (1)
 
 ----

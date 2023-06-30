@@ -8,6 +8,7 @@
     - by [Lindsay Zoladz](../../authors/lindsay-zoladz/index.md)
     - in [New York Times](../../publications/new-york-times/index.md)
     - on 13 June 2023
+    - about [Joni Mitchell](../../topics/joni-mitchell/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.nytimes.com/2023/06/13/arts/music/amplifier-newsletter-joni-mitchell-jam.html))
 
 <br />

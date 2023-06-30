@@ -1,8 +1,17 @@
 # Joni Mitchell
 
-## 2023 (2)
+## 2023 (3)
 
-### 2023 June (2)
+### 2023 June (3)
+
+ - [**"Meet Joni Mitchell’s Joni Jam Crew -- A cast of musicians, led by Brandi Carlile, joined the 79-year-old singer and songwriter onstage at the Gorge in Washington on Saturday."**](https://www.nytimes.com/2023/06/13/arts/music/amplifier-newsletter-joni-mitchell-jam.html)
+    - by [Lindsay Zoladz](../../authors/lindsay-zoladz/index.md)
+    - in [New York Times](../../publications/new-york-times/index.md)
+    - on 13 June 2023
+    - about [Joni Mitchell](../../topics/joni-mitchell/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.nytimes.com/2023/06/13/arts/music/amplifier-newsletter-joni-mitchell-jam.html))
+
+<br />
 
  - [**"The Awe and Promise of Joni Mitchell’s Live Return -- At her first headlining concert in more than two decades, the incomparable singer-songwriter led a star-studded affair, burnishing her legend."**](https://pitchfork.com/thepitch/the-awe-and-promise-of-joni-mitchells-live-return/)
     - by [Jenn Pelly](../../authors/jenn-pelly/index.md)
@@ -45,7 +54,18 @@
 
 ----
 
-## 2021 (1)
+## 2021 (2)
+
+### 2021 September (1)
+
+ - [**"The Legend of Prince: The Purple One's Guitar Players Share Untold Secrets and Tales from the Studio and Road -- Mike Scott, Dez Dickerson, Donna Grantis, and Kat Dyson tell all in these GP-exclusive interviews."**](https://www.guitarplayer.com/players/the-legend-of-prince-the-purple-ones-guitar-players-share-untold-secrets-and-tales-from-the-studio-and-road)
+    - by [Art Thompson](../../authors/art-thompson/index.md)
+    - in [GuitarPlayer](../../publications/guitarplayer/index.md)
+    - on 10 September 2021
+    - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Carlos Santana](../../topics/carlos-santana/index.md), [Cyndi Lauper](../../topics/cyndi-lauper/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [Donna Grantis](../../topics/donna-grantis/index.md), [Eric Leeds](../../topics/eric-leeds/index.md), [George Clinton](../../topics/george-clinton/index.md), [Hannah Welton](../../topics/hannah-welton/index.md), [He’s So Dull (song)](../../topics/song/he-s-so-dull/index.md), [Ida Nielsen](../../topics/ida-nielsen/index.md), [James Brown](../../topics/james-brown/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [ping-pong](../../topics/ping-pong/index.md), [PlectrumElectrum (album)](../../topics/album/plectrumelectrum/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.guitarplayer.com/players/the-legend-of-prince-the-purple-ones-guitar-players-share-untold-secrets-and-tales-from-the-studio-and-road))
+
+----
 
 ### 2021 August (1)
 

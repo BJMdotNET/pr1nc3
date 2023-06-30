@@ -188,6 +188,9 @@ items:
 - name: animal
   href: animal/index.md
   homepage: animal/index.md
+- name: Animal Kingdom (song)
+  href: song/animal-kingdom/index.md
+  homepage: song/animal-kingdom/index.md
 - name: Anita Baker
   href: anita-baker/index.md
   homepage: anita-baker/index.md
@@ -269,6 +272,9 @@ items:
 - name: Audubon Road (place)
   href: place/audubon-road/index.md
   homepage: place/audubon-road/index.md
+- name: Auerswald (instrument)
+  href: instrument/auerswald/index.md
+  homepage: instrument/auerswald/index.md
 - name: Austin (place)
   href: place/austin/index.md
   homepage: place/austin/index.md
@@ -401,6 +407,9 @@ items:
 - name: bootleg
   href: bootleg/index.md
   homepage: bootleg/index.md
+- name: Boss Vibrato (instrument)
+  href: instrument/boss-vibrato/index.md
+  homepage: instrument/boss-vibrato/index.md
 - name: Boy Gregory
   href: boy-gregory/index.md
   homepage: boy-gregory/index.md
@@ -488,6 +497,9 @@ items:
 - name: Capital Asset Protection
   href: capital-asset-protection/index.md
   homepage: capital-asset-protection/index.md
+- name: Capitol Guitars (place)
+  href: place/capitol-guitars/index.md
+  homepage: place/capitol-guitars/index.md
 - name: Capri Theater (place)
   href: place/capri-theater/index.md
   homepage: place/capri-theater/index.md
@@ -506,6 +518,9 @@ items:
 - name: Carlos Boozer
   href: carlos-boozer/index.md
   homepage: carlos-boozer/index.md
+- name: Carlos Santana
+  href: carlos-santana/index.md
+  homepage: carlos-santana/index.md
 - name: Carmen Denise Weatherall
   href: carmen-denise-weatherall/index.md
   homepage: carmen-denise-weatherall/index.md
@@ -743,6 +758,9 @@ items:
 - name: Crimson & Clover (song)
   href: song/crimson-clover/index.md
   homepage: song/crimson-clover/index.md
+- name: Cry Baby (instrument)
+  href: instrument/cry-baby/index.md
+  homepage: instrument/cry-baby/index.md
 - name: Crystal Ball (album)
   href: album/crystal-ball/index.md
   homepage: album/crystal-ball/index.md
@@ -761,6 +779,9 @@ items:
 - name: D’Angelo
   href: d-angelo/index.md
   homepage: d-angelo/index.md
+- name: Da Bang (song)
+  href: song/da-bang/index.md
+  homepage: song/da-bang/index.md
 - name: Daily Mail (newspaper)
   href: newspaper/daily-mail/index.md
   homepage: newspaper/daily-mail/index.md
@@ -827,6 +848,9 @@ items:
 - name: David Leonard
   href: david-leonard/index.md
   homepage: david-leonard/index.md
+- name: David Rusan
+  href: david-rusan/index.md
+  homepage: david-rusan/index.md
 - name: David Staley
   href: david-staley/index.md
   homepage: david-staley/index.md
@@ -932,6 +956,9 @@ items:
 - name: documentary
   href: documentary/index.md
   homepage: documentary/index.md
+- name: Don Batts
+  href: don-batts/index.md
+  homepage: don-batts/index.md
 - name: Don’t Play With Love (album)
   href: album/don-t-play-with-love/index.md
   homepage: album/don-t-play-with-love/index.md
@@ -1049,6 +1076,12 @@ items:
 - name: Emancipation (album)
   href: album/emancipation/index.md
   homepage: album/emancipation/index.md
+- name: EMI
+  href: emi/index.md
+  homepage: emi/index.md
+- name: Encore Music (place)
+  href: place/encore-music/index.md
+  homepage: place/encore-music/index.md
 - name: engagement ring
   href: engagement-ring/index.md
   homepage: engagement-ring/index.md
@@ -1091,6 +1124,9 @@ items:
 - name: Everybody Dance (song)
   href: song/everybody-dance/index.md
   homepage: song/everybody-dance/index.md
+- name: Everyday Is a Winding Road (song)
+  href: song/everyday-is-a-winding-road/index.md
+  homepage: song/everyday-is-a-winding-road/index.md
 - name: Everything Blows (album)
   href: album/everything-blows/index.md
   homepage: album/everything-blows/index.md
@@ -1145,6 +1181,9 @@ items:
 - name: FKA twigs
   href: fka-twigs/index.md
   homepage: fka-twigs/index.md
+- name: Flanger (instrument)
+  href: instrument/flanger/index.md
+  homepage: instrument/flanger/index.md
 - name: Fleetwood Mac
   href: fleetwood-mac/index.md
   homepage: fleetwood-mac/index.md
@@ -1184,6 +1223,9 @@ items:
 - name: Fred Moulterie
   href: fred-moulterie/index.md
   homepage: fred-moulterie/index.md
+- name: Freddie Stone
+  href: freddie-stone/index.md
+  homepage: freddie-stone/index.md
 - name: Fredrikson & Byron
   href: fredrikson-byron/index.md
   homepage: fredrikson-byron/index.md
@@ -1427,6 +1469,9 @@ items:
 - name: I Love U, But I Don't Trust U Anymore (song)
   href: song/i-love-u-but-i-don-t-trust-u-anymore/index.md
   homepage: song/i-love-u-but-i-don-t-trust-u-anymore/index.md
+- name: I Love You, But I Don’t Trust You Anymore (song)
+  href: song/i-love-you-but-i-don-t-trust-you-anymore/index.md
+  homepage: song/i-love-you-but-i-don-t-trust-you-anymore/index.md
 - name: I Wanna Be Your Lover (song)
   href: song/i-wanna-be-your-lover/index.md
   homepage: song/i-wanna-be-your-lover/index.md
@@ -2006,6 +2051,9 @@ items:
 - name: Maken It Music
   href: maken-it-music/index.md
   homepage: maken-it-music/index.md
+- name: Man O’ War (song)
+  href: song/man-o-war/index.md
+  homepage: song/man-o-war/index.md
 - name: Manatt, Phelps, Rothenber & Phillips
   href: manatt-phelps-rothenber-phillips/index.md
   homepage: manatt-phelps-rothenber-phillips/index.md
@@ -2039,6 +2087,9 @@ items:
 - name: Mark Canton
   href: mark-canton/index.md
   homepage: mark-canton/index.md
+- name: Mark IIB (instrument)
+  href: instrument/mark-iib/index.md
+  homepage: instrument/mark-iib/index.md
 - name: Mark Metz
   href: mark-metz/index.md
   homepage: mark-metz/index.md
@@ -2120,6 +2171,9 @@ items:
 - name: Meron Bekure
   href: meron-bekure/index.md
   homepage: meron-bekure/index.md
+- name: Mesa Mark III (instrument)
+  href: instrument/mesa-mark-iii/index.md
+  homepage: instrument/mesa-mark-iii/index.md
 - name: Meshell Ndegeocello
   href: meshell-ndegeocello/index.md
   homepage: meshell-ndegeocello/index.md
@@ -2168,6 +2222,9 @@ items:
 - name: Midnight Blue Management
   href: midnight-blue-management/index.md
   homepage: midnight-blue-management/index.md
+- name: Mike Bendinelli
+  href: mike-bendinelli/index.md
+  homepage: mike-bendinelli/index.md
 - name: Miles Davis
   href: miles-davis/index.md
   homepage: miles-davis/index.md
@@ -2351,6 +2408,9 @@ items:
 - name: New York State Supreme Court
   href: new-york-state-supreme-court/index.md
   homepage: new-york-state-supreme-court/index.md
+- name: Newpower Soul (album)
+  href: album/newpower-soul/index.md
+  homepage: album/newpower-soul/index.md
 - name: newspaper
   href: newspaper/index.md
   homepage: newspaper/index.md
@@ -2834,6 +2894,9 @@ items:
 - name: Rave Un2 the Joy Fantastic (album)
   href: album/rave-un2-the-joy-fantastic/index.md
   homepage: album/rave-un2-the-joy-fantastic/index.md
+- name: Rave Un2 the Joy Fantastic (song)
+  href: song/rave-un2-the-joy-fantastic/index.md
+  homepage: song/rave-un2-the-joy-fantastic/index.md
 - name: Rave Un2 the Year 2000 (video)
   href: video/rave-un2-the-year-2000/index.md
   homepage: video/rave-un2-the-year-2000/index.md
@@ -2966,6 +3029,9 @@ items:
 - name: royalties
   href: royalties/index.md
   homepage: royalties/index.md
+- name: Rufus
+  href: rufus/index.md
+  homepage: rufus/index.md
 - name: Russ Thyret
   href: russ-thyret/index.md
   homepage: russ-thyret/index.md
@@ -2993,6 +3059,9 @@ items:
 - name: Scarlet Pussy (song)
   href: song/scarlet-pussy/index.md
   homepage: song/scarlet-pussy/index.md
+- name: Schecter (instrument)
+  href: instrument/schecter/index.md
+  homepage: instrument/schecter/index.md
 - name: Schmitt Music Company
   href: schmitt-music-company/index.md
   homepage: schmitt-music-company/index.md
@@ -3107,6 +3176,9 @@ items:
 - name: song
   href: song/index.md
   homepage: song/index.md
+- name: Sonny T.
+  href: sonny-t/index.md
+  homepage: sonny-t/index.md
 - name: Sonny Thompson
   href: sonny-thompson/index.md
   homepage: sonny-thompson/index.md
@@ -3161,6 +3233,9 @@ items:
 - name: St. Paul and the Minneapolis Funk All-Stars
   href: st-paul-and-the-minneapolis-funk-all-stars/index.md
   homepage: st-paul-and-the-minneapolis-funk-all-stars/index.md
+- name: St. Paul Civic Auditorium (place)
+  href: place/st-paul-civic-auditorium/index.md
+  homepage: place/st-paul-civic-auditorium/index.md
 - name: St. Paul Peterson
   href: st-paul-peterson/index.md
   homepage: st-paul-peterson/index.md
@@ -3293,6 +3368,9 @@ items:
 - name: Tamron Hall
   href: tamron-hall/index.md
   homepage: tamron-hall/index.md
+- name: Tangerine (song)
+  href: song/tangerine/index.md
+  homepage: song/tangerine/index.md
 - name: Tanja Manrique
   href: tanja-manrique/index.md
   homepage: tanja-manrique/index.md
@@ -3434,6 +3512,9 @@ items:
 - name: The Time
   href: the-time/index.md
   homepage: the-time/index.md
+- name: The Truth (album)
+  href: album/the-truth/index.md
+  homepage: album/the-truth/index.md
 - name: The Versace Experience (Prelude 2 Gold) (album)
   href: album/the-versace-experience-prelude-2-gold/index.md
   homepage: album/the-versace-experience-prelude-2-gold/index.md
@@ -3488,12 +3569,18 @@ items:
 - name: Tom Moon
   href: tom-moon/index.md
   homepage: tom-moon/index.md
+- name: Tom Petty
+  href: tom-petty/index.md
+  homepage: tom-petty/index.md
 - name: Tommy Barbarella
   href: tommy-barbarella/index.md
   homepage: tommy-barbarella/index.md
 - name: Tommy James and the Shondells
   href: tommy-james-and-the-shondells/index.md
   homepage: tommy-james-and-the-shondells/index.md
+- name: Tony Maiden
+  href: tony-maiden/index.md
+  homepage: tony-maiden/index.md
 - name: Too Much Girl 4 Me (song)
   href: song/too-much-girl-4-me/index.md
   homepage: song/too-much-girl-4-me/index.md
@@ -3743,6 +3830,9 @@ items:
 - name: When Doves Cry (song)
   href: song/when-doves-cry/index.md
   homepage: song/when-doves-cry/index.md
+- name: While My Guitar Gently Weeps (song)
+  href: song/while-my-guitar-gently-weeps/index.md
+  homepage: song/while-my-guitar-gently-weeps/index.md
 - name: White House (place)
   href: place/white-house/index.md
   homepage: place/white-house/index.md
@@ -3809,6 +3899,9 @@ items:
 - name: Ziffren, Brittenham and Branca
   href: ziffren-brittenham-and-branca/index.md
   homepage: ziffren-brittenham-and-branca/index.md
+- name: Zoom 9030 (instrument)
+  href: instrument/zoom-9030/index.md
+  homepage: instrument/zoom-9030/index.md
 - name: ZZ Top
   href: zz-top/index.md
   homepage: zz-top/index.md
