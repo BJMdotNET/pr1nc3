@@ -1,6 +1,17 @@
 # Carrier Dome (place)
 
-## 2022 (2)
+## 2022 (3)
+
+### 2022 June (1)
+
+ - [**"Prince’s Night: The Revolution Remember the 1985 Syracuse Concert and the ‘Purple Rain’ Tour -- Biggest "**](https://variety.com/2022/music/news/prince-revolution-live-1985-syracuse-concert-purple-rain-1235286514/)
+    - by [Jem Aswad](../../../authors/jem-aswad/index.md)
+    - in [Variety](../../../publications/variety/index.md)
+    - on 7 June 2022
+    - about [Bobby Z](../../../topics/bobby-z/index.md), [Brown Mark](../../../topics/brown-mark/index.md), [Carrier Dome (place)](../../../topics/place/carrier-dome/index.md), [Lisa Coleman](../../../topics/lisa-coleman/index.md), [Matt Fink](../../../topics/matt-fink/index.md), [Prince and The Revolution](../../../topics/prince-and-the-revolution/index.md), [Prince and The Revolution: Live (album)](../../../topics/album/prince-and-the-revolution-live/index.md), [Prince and The Revolution: Live (Blu-ray)](../../../topics/blu-ray/prince-and-the-revolution-live/index.md), [Purple Rain (album)](../../../topics/album/purple-rain/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Purple Rain (tour)](../../../topics/tour/purple-rain/index.md), [Syracuse (place)](../../../topics/place/syracuse/index.md), [The Revolution](../../../topics/the-revolution/index.md), [Under the Cherry Moon (movie)](../../../topics/movie/under-the-cherry-moon/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://variety.com/2022/music/news/prince-revolution-live-1985-syracuse-concert-purple-rain-1235286514/))
+
+----
 
 ### 2022 May (2)
 

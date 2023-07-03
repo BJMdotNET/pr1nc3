@@ -22,7 +22,7 @@
 
 ----
 
-## 2020 (9)
+## 2020 (10)
 
 ### 2020 June (1)
 
@@ -34,7 +34,15 @@
 
 ----
 
-### 2020 February (2)
+### 2020 February (3)
+
+ - [**"Juicy J Slams His Record Company in New Song, Then Backs Down"**](https://variety.com/2020/biz/news/juicy-j-slams-columbia-records-sony-music-1203519947/)
+    - in [Variety](../../publications/variety/index.md)
+    - on 29 February 2020
+    - about [Juicy J](../../topics/juicy-j/index.md), [lawsuit](../../topics/lawsuit/index.md), [Sony Music](../../topics/sony-music/index.md), [Soul Train Awards](../../topics/soul-train-awards/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md), [YouTube](../../topics/youtube/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://variety.com/2020/biz/news/juicy-j-slams-columbia-records-sony-music-1203519947/))
+
+<br />
 
  - [**"Death of Prince heir complicates estate settlement even more -- Nearly a third of Prince's estate could go to parties not related to him after two siblings signed agreements with Primary Wave."**](https://www.startribune.com/untimely-death-of-prince-heir-complicates-estate-settlement-even-more/568089142/)
     - by [Jon Bream](../../authors/jon-bream/index.md), [Mike Hughlett](../../authors/mike-hughlett/index.md)
@@ -293,7 +301,17 @@
 
 ----
 
-## 2015 (1)
+## 2015 (2)
+
+### 2015 September (1)
+
+ - [**"‘Fair Use’ Should be Considered in Case of Homemade Prince Video, Says Appeals Court"**](https://variety.com/2015/biz/news/prince-video-universal-music-group-lets-go-crazy-youtube-1201593247/)
+    - in [Variety](../../publications/variety/index.md)
+    - on 14 September 2015
+    - about [fair use](../../topics/fair-use/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [YouTube](../../topics/youtube/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://variety.com/2015/biz/news/prince-video-universal-music-group-lets-go-crazy-youtube-1201593247/))
+
+----
 
 ### 2015 March (1)
 

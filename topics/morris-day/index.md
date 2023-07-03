@@ -762,7 +762,7 @@
 
 ----
 
-## 2018 (8)
+## 2018 (9)
 
 ### 2018 December (1)
 
@@ -792,6 +792,17 @@
     - on 15 September 2018
     - about [Cold Coffee & Cocaine (song)](../../topics/song/cold-coffee-cocaine/index.md), [Jamie Starr](../../topics/jamie-starr/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Michael Howe](../../topics/michael-howe/index.md), [Morris Day](../../topics/morris-day/index.md), [Piano and a Microphone 1983 (album)](../../topics/album/piano-and-a-microphone-1983/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wednesday (song)](../../topics/song/wednesday/index.md), [Why The Butterflies (song)](../../topics/song/why-the-butterflies/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.bbc.com/news/entertainment-arts-45510532))
+
+----
+
+### 2018 June (1)
+
+ - [**"Prince the Prankster: Marc Anthony, Bobby Z and More Remember His Humor (and an Epic Food Fight)"**](https://variety.com/2018/music/news/prince-birthday-prankster-marc-anthony-bobby-z-revolution-humor-1202835528/)
+    - by [Jem Aswad](../../authors/jem-aswad/index.md)
+    - in [Variety](../../publications/variety/index.md)
+    - on 7 June 2018
+    - about [Bobby Z](../../topics/bobby-z/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [Fred Armisen](../../topics/fred-armisen/index.md), [Jerome Benton](../../topics/jerome-benton/index.md), [Jesse Johnson](../../topics/jesse-johnson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Matt Fink](../../topics/matt-fink/index.md), [Morris Day](../../topics/morris-day/index.md), [Questlove](../../topics/questlove/index.md), [Raphael Saadiq](../../topics/raphael-saadiq/index.md), [Rebekah Alperin](../../topics/rebekah-alperin/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [Steve Fargnoli](../../topics/steve-fargnoli/index.md), [Ted Cohen](../../topics/ted-cohen/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [Vanity 6](../../topics/vanity-6/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://variety.com/2018/music/news/prince-birthday-prankster-marc-anthony-bobby-z-revolution-humor-1202835528/))
 
 ----
 
@@ -1162,9 +1173,9 @@
 
 ----
 
-## 2014 (3)
+## 2014 (4)
 
-### 2014 July (3)
+### 2014 July (4)
 
  - [**"Apollonia shares her near-death experience on the set of Purple Rain"**](https://blog.thecurrent.org/2014/07/apollonia-shares-her-near-death-experience-on-the-set-of-purple-rain/)
     - by [Andrea Swensson](../../authors/andrea-swensson/index.md)
@@ -1172,6 +1183,14 @@
     - on 28 July 2014
     - about [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Cavallo, Ruffalo, and Fargnoli](../../topics/cavallo-ruffalo-and-fargnoli/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Morris Day](../../topics/morris-day/index.md), [Nina Peebles](../../topics/nina-peebles/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [St. Louis Park (place)](../../topics/place/st-louis-park/index.md)
     - ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2014/07/apollonia-shares-her-near-death-experience-on-the-set-of-purple-rain/))
+
+<br />
+
+ - [**"‘Purple Rain’ at 30: Why It’s the Musical That Defined the ’80s"**](https://variety.com/2014/music/news/purple-rain-30th-anniversary-tribute-1201269036/)
+    - in [Variety](../../publications/variety/index.md)
+    - on 26 July 2014
+    - about [Albert Magnoli](../../topics/albert-magnoli/index.md), [Apollonia](../../topics/apollonia/index.md), [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [Detroit (place)](../../topics/place/detroit/index.md), [Detroit, Michigan (place)](../../topics/place/detroit-michigan/index.md), [Ghostbusters (movie)](../../topics/movie/ghostbusters/index.md), [Graffiti Bridge (movie)](../../topics/movie/graffiti-bridge/index.md), [Ingrid Chavez](../../topics/ingrid-chavez/index.md), [Jungle Love (song)](../../topics/song/jungle-love/index.md), [Kevin Smith](../../topics/kevin-smith/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Los Angeles (place)](../../topics/place/los-angeles/index.md), [Morris Day](../../topics/morris-day/index.md), [motorcycle](../../topics/motorcycle/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Purple Rain (tour)](../../topics/tour/purple-rain/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://variety.com/2014/music/news/purple-rain-30th-anniversary-tribute-1201269036/))
 
 <br />
 

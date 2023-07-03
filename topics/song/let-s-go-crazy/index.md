@@ -69,6 +69,7 @@
 <br />
 
  - [**"TikTok App Adds Prince’s Entire Music Catalog"**](https://variety.com/2020/digital/news/tiktok-princes-music-catalog-1234691489/)
+    - by [Todd Spangler](../../../authors/todd-spangler/index.md)
     - in [Variety](../../../publications/variety/index.md)
     - on 26 June 2020
     - about [1999 (album)](../../../topics/album/1999/index.md), [1999 (song)](../../../topics/song/1999/index.md), [Controversy (album)](../../../topics/album/controversy/index.md), [Controversy (song)](../../../topics/song/controversy/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Mitch Maguire](../../../topics/mitch-maguire/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [Purple Rain (album)](../../../topics/album/purple-rain/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [The Prince Estate](../../../topics/the-prince-estate/index.md), [TikTok](../../../topics/tiktok/index.md), [Troy Carter](../../../topics/troy-carter/index.md)
@@ -596,9 +597,29 @@
 
 ----
 
-## 2014 (1)
+## 2015 (1)
 
-### 2014 July (1)
+### 2015 September (1)
+
+ - [**"‘Fair Use’ Should be Considered in Case of Homemade Prince Video, Says Appeals Court"**](https://variety.com/2015/biz/news/prince-video-universal-music-group-lets-go-crazy-youtube-1201593247/)
+    - in [Variety](../../../publications/variety/index.md)
+    - on 14 September 2015
+    - about [fair use](../../../topics/fair-use/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [YouTube](../../../topics/youtube/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://variety.com/2015/biz/news/prince-video-universal-music-group-lets-go-crazy-youtube-1201593247/))
+
+----
+
+## 2014 (2)
+
+### 2014 July (2)
+
+ - [**"‘Purple Rain’ at 30: Why It’s the Musical That Defined the ’80s"**](https://variety.com/2014/music/news/purple-rain-30th-anniversary-tribute-1201269036/)
+    - in [Variety](../../../publications/variety/index.md)
+    - on 26 July 2014
+    - about [Albert Magnoli](../../../topics/albert-magnoli/index.md), [Apollonia](../../../topics/apollonia/index.md), [Apollonia Kotero](../../../topics/apollonia-kotero/index.md), [Darling Nikki (song)](../../../topics/song/darling-nikki/index.md), [Detroit (place)](../../../topics/place/detroit/index.md), [Detroit, Michigan (place)](../../../topics/place/detroit-michigan/index.md), [Ghostbusters (movie)](../../../topics/movie/ghostbusters/index.md), [Graffiti Bridge (movie)](../../../topics/movie/graffiti-bridge/index.md), [Ingrid Chavez](../../../topics/ingrid-chavez/index.md), [Jungle Love (song)](../../../topics/song/jungle-love/index.md), [Kevin Smith](../../../topics/kevin-smith/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Los Angeles (place)](../../../topics/place/los-angeles/index.md), [Morris Day](../../../topics/morris-day/index.md), [motorcycle](../../../topics/motorcycle/index.md), [Purple Rain (album)](../../../topics/album/purple-rain/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Purple Rain (tour)](../../../topics/tour/purple-rain/index.md), [Under the Cherry Moon (movie)](../../../topics/movie/under-the-cherry-moon/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://variety.com/2014/music/news/purple-rain-30th-anniversary-tribute-1201269036/))
+
+<br />
 
  - [**"Prince returns for Essence’s 20th celebration"**](https://apnews.com/2816a54a81a54d278d43121785573047)
     - in [Associated Press News](../../../publications/associated-press-news/index.md)

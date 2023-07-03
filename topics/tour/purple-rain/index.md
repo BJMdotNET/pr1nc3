@@ -22,7 +22,18 @@
 
 ----
 
-## 2022 (2)
+## 2022 (3)
+
+### 2022 June (1)
+
+ - [**"Prince’s Night: The Revolution Remember the 1985 Syracuse Concert and the ‘Purple Rain’ Tour -- Biggest "**](https://variety.com/2022/music/news/prince-revolution-live-1985-syracuse-concert-purple-rain-1235286514/)
+    - by [Jem Aswad](../../../authors/jem-aswad/index.md)
+    - in [Variety](../../../publications/variety/index.md)
+    - on 7 June 2022
+    - about [Bobby Z](../../../topics/bobby-z/index.md), [Brown Mark](../../../topics/brown-mark/index.md), [Carrier Dome (place)](../../../topics/place/carrier-dome/index.md), [Lisa Coleman](../../../topics/lisa-coleman/index.md), [Matt Fink](../../../topics/matt-fink/index.md), [Prince and The Revolution](../../../topics/prince-and-the-revolution/index.md), [Prince and The Revolution: Live (album)](../../../topics/album/prince-and-the-revolution-live/index.md), [Prince and The Revolution: Live (Blu-ray)](../../../topics/blu-ray/prince-and-the-revolution-live/index.md), [Purple Rain (album)](../../../topics/album/purple-rain/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Purple Rain (tour)](../../../topics/tour/purple-rain/index.md), [Syracuse (place)](../../../topics/place/syracuse/index.md), [The Revolution](../../../topics/the-revolution/index.md), [Under the Cherry Moon (movie)](../../../topics/movie/under-the-cherry-moon/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://variety.com/2022/music/news/prince-revolution-live-1985-syracuse-concert-purple-rain-1235286514/))
+
+----
 
 ### 2022 May (2)
 
@@ -91,7 +102,7 @@
 
 ----
 
-## 2014 (1)
+## 2014 (2)
 
 ### 2014 November (1)
 
@@ -100,6 +111,16 @@
     - on 4 November 2014
     - about [Baby I’m a Star (song)](../../../topics/song/baby-i-m-a-star/index.md), [Bruce Springsteen](../../../topics/bruce-springsteen/index.md), [Dave Marsh](../../../topics/dave-marsh/index.md), [Detroit (place)](../../../topics/place/detroit/index.md), [Detroit, Michigan (place)](../../../topics/place/detroit-michigan/index.md), [Dez Dickerson](../../../topics/dez-dickerson/index.md), [Inglewood, California (place)](../../../topics/place/inglewood-california/index.md), [Joe Louis Arena (place)](../../../topics/place/joe-louis-arena/index.md), [Lisa Coleman](../../../topics/lisa-coleman/index.md), [Madonna](../../../topics/madonna/index.md), [Parade (album)](../../../topics/album/parade/index.md), [Purple Rain (album)](../../../topics/album/purple-rain/index.md), [Purple Rain (tour)](../../../topics/tour/purple-rain/index.md), [The Revolution](../../../topics/the-revolution/index.md), [Wendy & Lisa](../../../topics/wendy-lisa/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.rhino.com/article/rhino-historic-tours-prince-kicks-off-the-purple-rain-tour))
+
+----
+
+### 2014 July (1)
+
+ - [**"‘Purple Rain’ at 30: Why It’s the Musical That Defined the ’80s"**](https://variety.com/2014/music/news/purple-rain-30th-anniversary-tribute-1201269036/)
+    - in [Variety](../../../publications/variety/index.md)
+    - on 26 July 2014
+    - about [Albert Magnoli](../../../topics/albert-magnoli/index.md), [Apollonia](../../../topics/apollonia/index.md), [Apollonia Kotero](../../../topics/apollonia-kotero/index.md), [Darling Nikki (song)](../../../topics/song/darling-nikki/index.md), [Detroit (place)](../../../topics/place/detroit/index.md), [Detroit, Michigan (place)](../../../topics/place/detroit-michigan/index.md), [Ghostbusters (movie)](../../../topics/movie/ghostbusters/index.md), [Graffiti Bridge (movie)](../../../topics/movie/graffiti-bridge/index.md), [Ingrid Chavez](../../../topics/ingrid-chavez/index.md), [Jungle Love (song)](../../../topics/song/jungle-love/index.md), [Kevin Smith](../../../topics/kevin-smith/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Los Angeles (place)](../../../topics/place/los-angeles/index.md), [Morris Day](../../../topics/morris-day/index.md), [motorcycle](../../../topics/motorcycle/index.md), [Purple Rain (album)](../../../topics/album/purple-rain/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Purple Rain (tour)](../../../topics/tour/purple-rain/index.md), [Under the Cherry Moon (movie)](../../../topics/movie/under-the-cherry-moon/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://variety.com/2014/music/news/purple-rain-30th-anniversary-tribute-1201269036/))
 
 ----
 

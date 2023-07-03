@@ -12,6 +12,18 @@
 
 ----
 
+## 2014 (1)
+
+### 2014 May (1)
+
+ - [**"‘New Girl’ Cast Talks Relationships in Season 4, Prince"**](https://variety.com/2014/scene/news/new-girl-cast-relationships-season-4-prince-1201176454/)
+    - in [Variety](../../../publications/variety/index.md)
+    - on 9 May 2014
+    - about [New Girl (TV show)](../../../topics/tv-show/new-girl/index.md), [ping-pong](../../../topics/ping-pong/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://variety.com/2014/scene/news/new-girl-cast-relationships-season-4-prince-1201176454/))
+
+----
+
 ## 1988 (1)
 
 ### 1988 July (1)

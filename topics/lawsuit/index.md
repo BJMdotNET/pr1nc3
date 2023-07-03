@@ -52,7 +52,7 @@
  - [**"Juicy J Slams His Record Company in New Song, Then Backs Down"**](https://variety.com/2020/biz/news/juicy-j-slams-columbia-records-sony-music-1203519947/)
     - in [Variety](../../publications/variety/index.md)
     - on 29 February 2020
-    - about [Juicy J](../../topics/juicy-j/index.md), [lawsuit](../../topics/lawsuit/index.md), [Sony Music](../../topics/sony-music/index.md), [Soul Train Awards](../../topics/soul-train-awards/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md)
+    - about [Juicy J](../../topics/juicy-j/index.md), [lawsuit](../../topics/lawsuit/index.md), [Sony Music](../../topics/sony-music/index.md), [Soul Train Awards](../../topics/soul-train-awards/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md), [YouTube](../../topics/youtube/index.md)
     - ([mirror](https://web.archive.org/web/*/https://variety.com/2020/biz/news/juicy-j-slams-columbia-records-sony-music-1203519947/))
 
 <br />

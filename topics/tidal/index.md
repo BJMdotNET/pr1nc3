@@ -211,9 +211,17 @@
 
 ----
 
-## 2015 (1)
+## 2015 (2)
 
-### 2015 September (1)
+### 2015 September (2)
+
+ - [**"Beyonce, Jay Z and Prince to Headline Tidal Charity Concert"**](https://variety.com/2015/music/news/beyonce-jay-z-prince-tidal-charity-concert-1201606351/)
+    - in [Variety](../../publications/variety/index.md)
+    - on 30 September 2015
+    - about [Beyoncé](../../topics/beyonc/index.md), [Tidal](../../topics/tidal/index.md), [Usher](../../topics/usher/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://variety.com/2015/music/news/beyonce-jay-z-prince-tidal-charity-concert-1201606351/))
+
+<br />
 
  - [**"Prince releases new single, "Free Urself," on Tidal"**](https://www.startribune.com/prince-releases-new-single-free-urself-on-tidal/329887771/)
     - by [Jon Bream](../../authors/jon-bream/index.md)

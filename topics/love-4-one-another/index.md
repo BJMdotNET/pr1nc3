@@ -13,6 +13,18 @@
 
 ----
 
+## 2020 (1)
+
+### 2020 June (1)
+
+ - [**"Prince Estate Shares Powerful Handwritten Pro-Tolerance Note on His Birthday"**](https://variety.com/2020/music/news/prince-birthday-note-tolerance-george-floyd-1234627253/)
+    - in [Variety](../../publications/variety/index.md)
+    - on 7 June 2020
+    - about [Detroit (place)](../../topics/place/detroit/index.md), [Love 4 One Another](../../topics/love-4-one-another/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Spike Lee](../../topics/spike-lee/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://variety.com/2020/music/news/prince-birthday-note-tolerance-george-floyd-1234627253/))
+
+----
+
 ## 2017 (1)
 
 ### 2017 January (1)

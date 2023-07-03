@@ -13,6 +13,19 @@
 
 ----
 
+## 2020 (1)
+
+### 2020 July (1)
+
+ - [**"Prince Estate Drops Previously Unreleased 1979 Version of ‘I Could Never Take the Place of Your Man’ (Listen)"**](https://variety.com/2020/music/news/prince-unreleased-i-could-never-take-the-place-listen-1234708369/)
+    - by [Jem Aswad](../../../authors/jem-aswad/index.md)
+    - in [Variety](../../../publications/variety/index.md)
+    - on 16 July 2020
+    - about [Crystal Ball (album)](../../../topics/album/crystal-ball/index.md), [Dream Factory (album)](../../../topics/album/dream-factory/index.md), [I Could Never Take The Place Of Your Man (song)](../../../topics/song/i-could-never-take-the-place-of-your-man/index.md), [Miles Davis](../../../topics/miles-davis/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [The Prince Estate](../../../topics/the-prince-estate/index.md), [vault](../../../topics/vault/index.md), [Witness 4 The Prosecution (song)](../../../topics/song/witness-4-the-prosecution/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://variety.com/2020/music/news/prince-unreleased-i-could-never-take-the-place-listen-1234708369/))
+
+----
+
 ## 2019 (1)
 
 ### 2019 June (1)

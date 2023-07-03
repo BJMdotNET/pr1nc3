@@ -43,9 +43,31 @@
 
 ----
 
-## 2020 (11)
+## 2021 (1)
 
-### 2020 July (1)
+### 2021 June (1)
+
+ - [**"‘Studio Sessions 1985-1986’ Is a Deep, Deep Dive on Prince’s Peak Years: Book Review"**](https://variety.com/2021/music/reviews/prince-parade-sign-times-studio-sessions-1985-1986-book-review-1234989823/)
+    - by [Jem Aswad](../../authors/jem-aswad/index.md)
+    - in [Variety](../../publications/variety/index.md)
+    - on 7 June 2021
+    - about [Chick Huntsberry](../../topics/chick-huntsberry/index.md), [Duane Tudahl](../../topics/duane-tudahl/index.md), [Housequake (song)](../../topics/song/housequake/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Parade (album)](../../topics/album/parade/index.md), [Prince & The Revolution](../../topics/prince-the-revolution/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [The Revolution](../../topics/the-revolution/index.md), [U Got the Look (song)](../../topics/song/u-got-the-look/index.md), [vault](../../topics/vault/index.md), [We Are the World (song)](../../topics/song/we-are-the-world/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://variety.com/2021/music/reviews/prince-parade-sign-times-studio-sessions-1985-1986-book-review-1234989823/))
+
+----
+
+## 2020 (12)
+
+### 2020 July (2)
+
+ - [**"Prince Estate Drops Previously Unreleased 1979 Version of ‘I Could Never Take the Place of Your Man’ (Listen)"**](https://variety.com/2020/music/news/prince-unreleased-i-could-never-take-the-place-listen-1234708369/)
+    - by [Jem Aswad](../../authors/jem-aswad/index.md)
+    - in [Variety](../../publications/variety/index.md)
+    - on 16 July 2020
+    - about [Crystal Ball (album)](../../topics/album/crystal-ball/index.md), [Dream Factory (album)](../../topics/album/dream-factory/index.md), [I Could Never Take The Place Of Your Man (song)](../../topics/song/i-could-never-take-the-place-of-your-man/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [vault](../../topics/vault/index.md), [Witness 4 The Prosecution (song)](../../topics/song/witness-4-the-prosecution/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://variety.com/2020/music/news/prince-unreleased-i-could-never-take-the-place-listen-1234708369/))
+
+<br />
 
  - [**"The Prince Estate Drops Unreleased Track 'I Could Never Take the Place of Your Man (1979 Version)'"**](https://www.billboard.com/articles/columns/pop/9419861/prince-unreleased-track-i-could-never-take-the-place-of-your-man-1979-version)
     - in [Billboard](../../publications/billboard/index.md)
@@ -66,6 +88,7 @@
 <br />
 
  - [**"TikTok App Adds Prince’s Entire Music Catalog"**](https://variety.com/2020/digital/news/tiktok-princes-music-catalog-1234691489/)
+    - by [Todd Spangler](../../authors/todd-spangler/index.md)
     - in [Variety](../../publications/variety/index.md)
     - on 26 June 2020
     - about [1999 (album)](../../topics/album/1999/index.md), [1999 (song)](../../topics/song/1999/index.md), [Controversy (album)](../../topics/album/controversy/index.md), [Controversy (song)](../../topics/song/controversy/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Mitch Maguire](../../topics/mitch-maguire/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [TikTok](../../topics/tiktok/index.md), [Troy Carter](../../topics/troy-carter/index.md)

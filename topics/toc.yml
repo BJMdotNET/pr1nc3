@@ -2,6 +2,9 @@ items:
 - name: Weird Al Yankovic
   href: -weird-al-yankovic/index.md
   homepage: -weird-al-yankovic/index.md
+- name: $100 million deal
+  href: -100-million-deal/index.md
+  homepage: -100-million-deal/index.md
 - name: 1000 Light Years From Here (song)
   href: song/1000-light-years-from-here/index.md
   homepage: song/1000-light-years-from-here/index.md
@@ -56,6 +59,9 @@ items:
 - name: 777-9311 (song)
   href: song/777-9311/index.md
   homepage: song/777-9311/index.md
+- name: 7H Entertainment
+  href: 7h-entertainment/index.md
+  homepage: 7h-entertainment/index.md
 - name: 94 East
   href: 94-east/index.md
   homepage: 94-east/index.md
@@ -689,6 +695,9 @@ items:
 - name: Cloud guitar (instrument)
   href: instrument/cloud-guitar/index.md
   homepage: instrument/cloud-guitar/index.md
+- name: Club Nokia (place)
+  href: place/club-nokia/index.md
+  homepage: place/club-nokia/index.md
 - name: Cold Coffee & Cocaine (song)
   href: song/cold-coffee-cocaine/index.md
   homepage: song/cold-coffee-cocaine/index.md
@@ -725,6 +734,9 @@ items:
 - name: Condition of the Heart (song)
   href: song/condition-of-the-heart/index.md
   homepage: song/condition-of-the-heart/index.md
+- name: Conga Room (place)
+  href: place/conga-room/index.md
+  homepage: place/conga-room/index.md
 - name: contract
   href: contract/index.md
   homepage: contract/index.md
@@ -806,6 +818,9 @@ items:
 - name: Daniel D’or
   href: daniel-d-or/index.md
   homepage: daniel-d-or/index.md
+- name: DaniLeigh
+  href: danileigh/index.md
+  homepage: danileigh/index.md
 - name: Danny Elfman
   href: danny-elfman/index.md
   homepage: danny-elfman/index.md
@@ -974,6 +989,9 @@ items:
 - name: Donald Trump
   href: donald-trump/index.md
   homepage: donald-trump/index.md
+- name: Donatella Versace
+  href: donatella-versace/index.md
+  homepage: donatella-versace/index.md
 - name: Donna Grantis
   href: donna-grantis/index.md
   homepage: donna-grantis/index.md
@@ -1304,6 +1322,15 @@ items:
 - name: Gilbert Davison
   href: gilbert-davison/index.md
   homepage: gilbert-davison/index.md
+- name: Girl 6 (album)
+  href: album/girl-6/index.md
+  homepage: album/girl-6/index.md
+- name: Girl 6 (movie)
+  href: movie/girl-6/index.md
+  homepage: movie/girl-6/index.md
+- name: Girl 6 (song)
+  href: song/girl-6/index.md
+  homepage: song/girl-6/index.md
 - name: Glam Slam (place)
   href: place/glam-slam/index.md
   homepage: place/glam-slam/index.md
@@ -1391,6 +1418,9 @@ items:
 - name: Hawaii (place)
   href: place/hawaii/index.md
   homepage: place/hawaii/index.md
+- name: HDMG
+  href: hdmg/index.md
+  homepage: hdmg/index.md
 - name: He’s So Dull (song)
   href: song/he-s-so-dull/index.md
   homepage: song/he-s-so-dull/index.md
@@ -1418,6 +1448,12 @@ items:
 - name: Heritage Auctions
   href: heritage-auctions/index.md
   homepage: heritage-auctions/index.md
+- name: Holly Don’t Care (song)
+  href: song/holly-don-t-care/index.md
+  homepage: song/holly-don-t-care/index.md
+- name: Holly Robinson Peete
+  href: holly-robinson-peete/index.md
+  homepage: holly-robinson-peete/index.md
 - name: Holly Rock (song)
   href: song/holly-rock/index.md
   homepage: song/holly-rock/index.md
@@ -1601,6 +1637,9 @@ items:
 - name: Jay Williams
   href: jay-williams/index.md
   homepage: jay-williams/index.md
+- name: Jeff Gold
+  href: jeff-gold/index.md
+  homepage: jeff-gold/index.md
 - name: Jeff Katz
   href: jeff-katz/index.md
   homepage: jeff-katz/index.md
@@ -1742,6 +1781,9 @@ items:
 - name: Jungle Love (song)
   href: song/jungle-love/index.md
   homepage: song/jungle-love/index.md
+- name: Justify My Love
+  href: justify-my-love/index.md
+  homepage: justify-my-love/index.md
 - name: Justin Timberlake
   href: justin-timberlake/index.md
   homepage: justin-timberlake/index.md
@@ -1820,9 +1862,15 @@ items:
 - name: Kris Mattson
   href: kris-mattson/index.md
   homepage: kris-mattson/index.md
+- name: Kristen Zschomler
+  href: kristen-zschomler/index.md
+  homepage: kristen-zschomler/index.md
 - name: Krush Groove (movie)
   href: movie/krush-groove/index.md
   homepage: movie/krush-groove/index.md
+- name: Kurt Loder
+  href: kurt-loder/index.md
+  homepage: kurt-loder/index.md
 - name: L. Londell McMillan
   href: l-londell-mcmillan/index.md
   homepage: l-londell-mcmillan/index.md
@@ -1847,6 +1895,9 @@ items:
 - name: Larry Graham
   href: larry-graham/index.md
   homepage: larry-graham/index.md
+- name: Larry King
+  href: larry-king/index.md
+  homepage: larry-king/index.md
 - name: Last Call (album)
   href: album/last-call/index.md
   homepage: album/last-call/index.md
@@ -1916,6 +1967,9 @@ items:
 - name: Lincoln Square Prods.
   href: lincoln-square-prods/index.md
   homepage: lincoln-square-prods/index.md
+- name: Linda Corradina
+  href: linda-corradina/index.md
+  homepage: linda-corradina/index.md
 - name: Lindsey Buckingham
   href: lindsey-buckingham/index.md
   homepage: lindsey-buckingham/index.md
@@ -2006,6 +2060,9 @@ items:
 - name: Love and Sex (song)
   href: song/love-and-sex/index.md
   homepage: song/love-and-sex/index.md
+- name: Love Symbol (album)
+  href: album/love-symbol/index.md
+  homepage: album/love-symbol/index.md
 - name: Lovesexy (album)
   href: album/lovesexy/index.md
   homepage: album/lovesexy/index.md
@@ -2084,6 +2141,9 @@ items:
 - name: Mariah Brown
   href: mariah-brown/index.md
   homepage: mariah-brown/index.md
+- name: Mariah Carey
+  href: mariah-carey/index.md
+  homepage: mariah-carey/index.md
 - name: Mark Canton
   href: mark-canton/index.md
   homepage: mark-canton/index.md
@@ -2126,6 +2186,9 @@ items:
 - name: Matt Larson
   href: matt-larson/index.md
   homepage: matt-larson/index.md
+- name: Matt Liddy
+  href: matt-liddy/index.md
+  homepage: matt-liddy/index.md
 - name: Matt Umanov
   href: matt-umanov/index.md
   homepage: matt-umanov/index.md
@@ -2201,6 +2264,12 @@ items:
 - name: Michael Nelson
   href: michael-nelson/index.md
   homepage: michael-nelson/index.md
+- name: Michael Ostin
+  href: michael-ostin/index.md
+  homepage: michael-ostin/index.md
+- name: Michael Pagnotta
+  href: michael-pagnotta/index.md
+  homepage: michael-pagnotta/index.md
 - name: Michael Schulenberg
   href: michael-schulenberg/index.md
   homepage: michael-schulenberg/index.md
@@ -2210,12 +2279,18 @@ items:
 - name: Michael Todd Schulenberg
   href: michael-todd-schulenberg/index.md
   homepage: michael-todd-schulenberg/index.md
+- name: Michael White
+  href: michael-white/index.md
+  homepage: michael-white/index.md
 - name: Michele Vicino
   href: michele-vicino/index.md
   homepage: michele-vicino/index.md
 - name: Michelle Ebanks
   href: michelle-ebanks/index.md
   homepage: michelle-ebanks/index.md
+- name: Mick Jagger
+  href: mick-jagger/index.md
+  homepage: mick-jagger/index.md
 - name: Micki Free
   href: micki-free/index.md
   homepage: micki-free/index.md
@@ -2294,6 +2369,9 @@ items:
 - name: Money Don't Grow On Trees (song)
   href: song/money-don-t-grow-on-trees/index.md
   homepage: song/money-don-t-grow-on-trees/index.md
+- name: Monte Lipman
+  href: monte-lipman/index.md
+  homepage: monte-lipman/index.md
 - name: Monte Moir
   href: monte-moir/index.md
   homepage: monte-moir/index.md
@@ -2384,6 +2462,9 @@ items:
 - name: National Music Publishers’ Association
   href: national-music-publishers-association/index.md
   homepage: national-music-publishers-association/index.md
+- name: NBC
+  href: nbc/index.md
+  homepage: nbc/index.md
 - name: Neal Karlen
   href: neal-karlen/index.md
   homepage: neal-karlen/index.md
@@ -2441,6 +2522,9 @@ items:
 - name: No Call U (song)
   href: song/no-call-u/index.md
   homepage: song/no-call-u/index.md
+- name: Nokia Theater (place)
+  href: place/nokia-theater/index.md
+  homepage: place/nokia-theater/index.md
 - name: Nooky Jones
   href: nooky-jones/index.md
   homepage: nooky-jones/index.md
@@ -2903,6 +2987,9 @@ items:
 - name: Rearrange (song)
   href: song/rearrange/index.md
   homepage: song/rearrange/index.md
+- name: Rebekah Alperin
+  href: rebekah-alperin/index.md
+  homepage: rebekah-alperin/index.md
 - name: Rebuild the Dream
   href: rebuild-the-dream/index.md
   homepage: rebuild-the-dream/index.md
@@ -2924,6 +3011,9 @@ items:
 - name: Revelations
   href: revelations/index.md
   homepage: revelations/index.md
+- name: Rhino Records
+  href: rhino-records/index.md
+  homepage: rhino-records/index.md
 - name: RIAA
   href: riaa/index.md
   homepage: riaa/index.md
@@ -2996,6 +3086,9 @@ items:
 - name: Roger Linn
   href: roger-linn/index.md
   homepage: roger-linn/index.md
+- name: Rogers and Cowan
+  href: rogers-and-cowan/index.md
+  homepage: rogers-and-cowan/index.md
 - name: Rogue Music Alliance, LLC
   href: rogue-music-alliance-llc/index.md
   homepage: rogue-music-alliance-llc/index.md
@@ -3014,6 +3107,9 @@ items:
 - name: Ron Scofield
   href: ron-scofield/index.md
   homepage: ron-scofield/index.md
+- name: Ronnie Kitchen
+  href: ronnie-kitchen/index.md
+  homepage: ronnie-kitchen/index.md
 - name: Ropeadope
   href: ropeadope/index.md
   homepage: ropeadope/index.md
@@ -3140,6 +3236,9 @@ items:
 - name: Skip Brittenham
   href: skip-brittenham/index.md
   homepage: skip-brittenham/index.md
+- name: Skipper
+  href: skipper/index.md
+  homepage: skipper/index.md
 - name: Slave Trade - How Prince Re-Made the Music Business (documentary)
   href: documentary/slave-trade-how-prince-re-made-the-music-business/index.md
   homepage: documentary/slave-trade-how-prince-re-made-the-music-business/index.md
@@ -3389,6 +3488,9 @@ items:
 - name: Telepathy (song)
   href: song/telepathy/index.md
   homepage: song/telepathy/index.md
+- name: Terrance Jackson
+  href: terrance-jackson/index.md
+  homepage: terrance-jackson/index.md
 - name: Terry Casey
   href: terry-casey/index.md
   homepage: terry-casey/index.md
@@ -3677,6 +3779,9 @@ items:
 - name: University of Minnesota
   href: university-of-minnesota/index.md
   homepage: university-of-minnesota/index.md
+- name: unpronounceable symbol
+  href: unpronounceable-symbol/index.md
+  homepage: unpronounceable-symbol/index.md
 - name: Up All Nite with Prince - The One Nite Alone Collection (album)
   href: album/up-all-nite-with-prince-the-one-nite-alone-collection/index.md
   homepage: album/up-all-nite-with-prince-the-one-nite-alone-collection/index.md
@@ -3779,6 +3884,9 @@ items:
 - name: Wayzata (place)
   href: place/wayzata/index.md
   homepage: place/wayzata/index.md
+- name: WCCO
+  href: wcco/index.md
+  homepage: wcco/index.md
 - name: WCCO-TV
   href: wcco-tv/index.md
   homepage: wcco-tv/index.md

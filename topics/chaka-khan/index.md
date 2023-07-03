@@ -347,7 +347,7 @@
 
 ----
 
-## 2018 (11)
+## 2018 (12)
 
 ### 2018 December (2)
 
@@ -408,6 +408,17 @@
     - on 3 August 2018
     - about [Chaka Khan](../../topics/chaka-khan/index.md), [Dakota (place)](../../topics/place/dakota/index.md), [Gwen Stefani](../../topics/gwen-stefani/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Mayte](../../topics/mayte/index.md), [Purple Music (song)](../../topics/song/purple-music/index.md), [Robyne Robinson](../../topics/robyne-robinson/index.md)
     - ([mirror](https://web.archive.org/web/*/https://spokesman-recorder.com/2018/08/03/the-interview-that-blessed-robyne-robinsons-career/))
+
+----
+
+### 2018 June (1)
+
+ - [**"Prince the Prankster: Marc Anthony, Bobby Z and More Remember His Humor (and an Epic Food Fight)"**](https://variety.com/2018/music/news/prince-birthday-prankster-marc-anthony-bobby-z-revolution-humor-1202835528/)
+    - by [Jem Aswad](../../authors/jem-aswad/index.md)
+    - in [Variety](../../publications/variety/index.md)
+    - on 7 June 2018
+    - about [Bobby Z](../../topics/bobby-z/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [Fred Armisen](../../topics/fred-armisen/index.md), [Jerome Benton](../../topics/jerome-benton/index.md), [Jesse Johnson](../../topics/jesse-johnson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Matt Fink](../../topics/matt-fink/index.md), [Morris Day](../../topics/morris-day/index.md), [Questlove](../../topics/questlove/index.md), [Raphael Saadiq](../../topics/raphael-saadiq/index.md), [Rebekah Alperin](../../topics/rebekah-alperin/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [Steve Fargnoli](../../topics/steve-fargnoli/index.md), [Ted Cohen](../../topics/ted-cohen/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [Vanity 6](../../topics/vanity-6/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://variety.com/2018/music/news/prince-birthday-prankster-marc-anthony-bobby-z-revolution-humor-1202835528/))
 
 ----
 
@@ -671,6 +682,18 @@
     - on 6 June 2011
     - about [American Bandstand](../../topics/american-bandstand/index.md), [André Cymone](../../topics/andr-cymone/index.md), [Backbeat Books](../../topics/backbeat-books/index.md), [Black Album (album)](../../topics/album/black-album/index.md), [Bobby Z](../../topics/bobby-z/index.md), [Capri Theater (place)](../../topics/place/capri-theater/index.md), [Cavallo, Ruffalo & Fargnoli](../../topics/cavallo-ruffalo-fargnoli/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Chris Moon](../../topics/chris-moon/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [Earth, Wind & Fire](../../topics/earth-wind-fire/index.md), [Edina (place)](../../topics/place/edina/index.md), [France Avenue (place)](../../topics/place/france-avenue/index.md), [Hal Leonard](../../topics/hal-leonard/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [I Wanna Be Your Lover (song)](../../topics/song/i-wanna-be-your-lover/index.md), [Jason Draper](../../topics/jason-draper/index.md), [Los Angeles (place)](../../topics/place/los-angeles/index.md), [Matt Fink](../../topics/matt-fink/index.md), [Miami (place)](../../topics/place/miami/index.md), [Moonsound Studios (place)](../../topics/place/moonsound-studios/index.md), [Nile Rodgers](../../topics/nile-rodgers/index.md), [Owen Husney](../../topics/owen-husney/index.md), [Pepé Willie](../../topics/pep-willie/index.md), [Prince: Chaos, Disorder, and Revolution (book)](../../topics/book/prince-chaos-disorder-and-revolution/index.md), [St. Paul (place)](../../topics/place/st-paul/index.md), [Steve Fargnoli](../../topics/steve-fargnoli/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Super Bowl](../../topics/super-bowl/index.md), [The Revolution](../../topics/the-revolution/index.md)
     - ([mirror](https://web.archive.org/web/*/https://blog.discmakers.com/2011/06/prince-before-the-revolution/))
+
+----
+
+## 2009 (1)
+
+### 2009 March (1)
+
+ - [**"Prince"**](https://variety.com/2009/music/markets-festivals/prince-4-1200473979/)
+    - in [Variety](../../publications/variety/index.md)
+    - on 29 March 2009
+    - about [Bria Valente](../../topics/bria-valente/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Club Nokia (place)](../../topics/place/club-nokia/index.md), [Colonized Mind (song)](../../topics/song/colonized-mind/index.md), [Conga Room (place)](../../topics/place/conga-room/index.md), [Dreamer (song)](../../topics/song/dreamer/index.md), [LotusFlow3r (album)](../../topics/album/lotusflow3r/index.md), [Michael Bland](../../topics/michael-bland/index.md), [MPLSoUND (album)](../../topics/album/mplsound/index.md), [Nokia Theater (place)](../../topics/place/nokia-theater/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Renato Neto](../../topics/renato-neto/index.md), [Sonny T.](../../topics/sonny-t/index.md), [The Beautiful Ones (song)](../../topics/song/the-beautiful-ones/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://variety.com/2009/music/markets-festivals/prince-4-1200473979/))
 
 ----
 

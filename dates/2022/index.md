@@ -1,6 +1,15 @@
 # 2022
 
-## December 2022 (1)
+## December 2022 (2)
+
+ - [**"DaniLeigh on Motherhood, Cancel Culture and Running Social Media for Prince"**](https://variety.com/2022/music/news/danileigh-motherhood-cancel-culture-dababy-prince-1235468626/)
+    - by [A.D. Amorosi](../../authors/a-d-amorosi/index.md), [Shirley Ju](../../authors/shirley-ju/index.md)
+    - in [Variety](../../publications/variety/index.md)
+    - on 22 December 2022
+    - about [DaniLeigh](../../topics/danileigh/index.md), [TikTok](../../topics/tiktok/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://variety.com/2022/music/news/danileigh-motherhood-cancel-culture-dababy-prince-1235468626/))
+
+----
 
  - [**"Janelle Monáe, the not-so-secret weapon of ‘Glass Onion’"**](https://apnews.com/article/janelle-monae-glass-onion-knives-out-movies-music-8f2eeed1fac2681d39dec254d83b7318)
     - in [Associated Press News](../../publications/associated-press-news/index.md)
@@ -46,13 +55,22 @@
 
 ----
 
-## September 2022 (1)
+## September 2022 (2)
 
  - [**"‘Crown,’ ‘Interview With the Vampire’ among TV highlights"**](https://apnews.com/article/fall-television-shows-to-watch-the-crown-andor-2649cc250edba973bc68e92f2dc4d917)
     - in [Associated Press News](../../publications/associated-press-news/index.md)
     - on 29 September 2022
     - about [Morris Day](../../topics/morris-day/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/fall-television-shows-to-watch-the-crown-andor-2649cc250edba973bc68e92f2dc4d917))
+
+----
+
+ - [**"Mariah Carey on the 25th Anniversary of ‘Butterfly,’ and Bonding With Meghan Markle and Prince"**](https://variety.com/2022/music/news/mariah-carey-butterfly-25-anniversary-meghan-markle-prince-1235373657/)
+    - by [A.D. Amorosi](../../authors/a-d-amorosi/index.md)
+    - in [Variety](../../publications/variety/index.md)
+    - on 15 September 2022
+    - about [Columbia Records](../../topics/columbia-records/index.md), [Mariah Carey](../../topics/mariah-carey/index.md), [The Beautiful Ones (song)](../../topics/song/the-beautiful-ones/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://variety.com/2022/music/news/mariah-carey-butterfly-25-anniversary-meghan-markle-prince-1235373657/))
 
 ----
 
@@ -76,7 +94,7 @@
 
 ----
 
-## June 2022 (1)
+## June 2022 (3)
 
  - [**"Purple Rain: The Story Behind Prince’s Career-Defining Song -- The song most associated with Prince, Purple Rain is an epic power ballad that embodied its creator’s search for transcendence through music."**](https://www.thisisdig.com/feature/purple-rain-prince-song-story/)
     - by [Jason Draper](../../authors/jason-draper/index.md)
@@ -84,6 +102,24 @@
     - on 25 June 2022
     - about [Albert Magnoli](../../topics/albert-magnoli/index.md), [Andrea Swensson](../../topics/andrea-swensson/index.md), [Baby I’m a Star (song)](../../topics/song/baby-i-m-a-star/index.md), [Bob Seger](../../topics/bob-seger/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [Duane Tudahl](../../topics/duane-tudahl/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Fleetwood Mac](../../topics/fleetwood-mac/index.md), [I Would Die 4 U (song)](../../topics/song/i-would-die-4-u/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Lives Of The Musicians: Prince (book)](../../topics/book/lives-of-the-musicians-prince/index.md), [Los Angeles (place)](../../topics/place/los-angeles/index.md), [Novi Novog](../../topics/novi-novog/index.md), [Prince And The Purple Rain Era Studio Sessions 1983 And 1984 (book)](../../topics/book/prince-and-the-purple-rain-era-studio-sessions-1983-and-1984/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [Suzie Katayama](../../topics/suzie-katayama/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.thisisdig.com/feature/purple-rain-prince-song-story/))
+
+----
+
+ - [**"From ‘Sesame Street’ to ‘Jump Street’: Holly Robinson Peete’s Career Comes Full-Circle"**](https://variety.com/2022/film/news/holly-robinson-peete-career-walk-of-fame-1235294542/)
+    - by [Amber Dowling](../../authors/amber-dowling/index.md)
+    - in [Variety](../../publications/variety/index.md)
+    - on 20 June 2022
+    - about [Holly Don’t Care (song)](../../topics/song/holly-don-t-care/index.md), [Holly Robinson Peete](../../topics/holly-robinson-peete/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Paisley Park Studios (place)](../../topics/place/paisley-park-studios/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://variety.com/2022/film/news/holly-robinson-peete-career-walk-of-fame-1235294542/))
+
+----
+
+ - [**"Prince’s Night: The Revolution Remember the 1985 Syracuse Concert and the ‘Purple Rain’ Tour -- Biggest "**](https://variety.com/2022/music/news/prince-revolution-live-1985-syracuse-concert-purple-rain-1235286514/)
+    - by [Jem Aswad](../../authors/jem-aswad/index.md)
+    - in [Variety](../../publications/variety/index.md)
+    - on 7 June 2022
+    - about [Bobby Z](../../topics/bobby-z/index.md), [Brown Mark](../../topics/brown-mark/index.md), [Carrier Dome (place)](../../topics/place/carrier-dome/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Matt Fink](../../topics/matt-fink/index.md), [Prince and The Revolution](../../topics/prince-and-the-revolution/index.md), [Prince and The Revolution: Live (album)](../../topics/album/prince-and-the-revolution-live/index.md), [Prince and The Revolution: Live (Blu-ray)](../../topics/blu-ray/prince-and-the-revolution-live/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Purple Rain (tour)](../../topics/tour/purple-rain/index.md), [Syracuse (place)](../../topics/place/syracuse/index.md), [The Revolution](../../topics/the-revolution/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://variety.com/2022/music/news/prince-revolution-live-1985-syracuse-concert-purple-rain-1235286514/))
 
 ----
 
@@ -105,7 +141,7 @@
 
 ----
 
-## April 2022 (2)
+## April 2022 (3)
 
  - [**"“The Best Plan Was to Make a Guitar I Would Enjoy Playing”: Dave Rusan Reveals the Magic Behind Prince’s Iconic Solidbody -- Nearly 40 years on, the Cloud electric guitar is a lasting presence in the gear world firmament."**](https://www.guitarplayer.com/gear/the-best-plan-was-to-make-a-guitar-i-would-enjoy-playing-dave-rusan-reveals-the-magic-behind-princes-iconic-solidbody)
     - in [GuitarPlayer](../../publications/guitarplayer/index.md)
@@ -120,6 +156,15 @@
     - on 10 April 2022
     - about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Grammy Award](../../topics/grammy-award/index.md), [museum](../../topics/museum/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/entertainment-prince-miami-florida-minneapolis-0e95e564f7228cdf0bfaa28140b674bc))
+
+----
+
+ - [**"Footage of Prince, Aged 11, Discovered in Minneapolis News Clip From 1970"**](https://variety.com/2022/music/news/prince-aged-11-minneapolis-news-film-1235224008/)
+    - by [Jem Aswad](../../authors/jem-aswad/index.md)
+    - in [Variety](../../publications/variety/index.md)
+    - on 4 April 2022
+    - about [Kristen Zschomler](../../topics/kristen-zschomler/index.md), [Matt Liddy](../../topics/matt-liddy/index.md), [Ronnie Kitchen](../../topics/ronnie-kitchen/index.md), [Skipper](../../topics/skipper/index.md), [Terrance Jackson](../../topics/terrance-jackson/index.md), [WCCO](../../topics/wcco/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://variety.com/2022/music/news/prince-aged-11-minneapolis-news-film-1235224008/))
 
 ----
 

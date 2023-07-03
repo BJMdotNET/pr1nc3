@@ -18,6 +18,7 @@
 ### 2020 June (1)
 
  - [**"TikTok App Adds Prince’s Entire Music Catalog"**](https://variety.com/2020/digital/news/tiktok-princes-music-catalog-1234691489/)
+    - by [Todd Spangler](../../../authors/todd-spangler/index.md)
     - in [Variety](../../../publications/variety/index.md)
     - on 26 June 2020
     - about [1999 (album)](../../../topics/album/1999/index.md), [1999 (song)](../../../topics/song/1999/index.md), [Controversy (album)](../../../topics/album/controversy/index.md), [Controversy (song)](../../../topics/song/controversy/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Mitch Maguire](../../../topics/mitch-maguire/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [Purple Rain (album)](../../../topics/album/purple-rain/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [The Prince Estate](../../../topics/the-prince-estate/index.md), [TikTok](../../../topics/tiktok/index.md), [Troy Carter](../../../topics/troy-carter/index.md)
@@ -306,6 +307,7 @@
 <br />
 
  - [**"Album Preview: Prince’s Sprawling, Six-Disc ‘1999’ Deluxe Reissue"**](https://variety.com/2019/music/news/album-preview-princes-sprawling-six-disc-1999-deluxe-reissue-1203415514/)
+    - by [Jem Aswad](../../../authors/jem-aswad/index.md)
     - in [Variety](../../../publications/variety/index.md)
     - on 25 November 2019
     - about [1999 (album)](../../../topics/album/1999/index.md), [Bold Generation (song)](../../../topics/song/bold-generation/index.md), [bootleg](../../../topics/bootleg/index.md), [Can’t Stop This Feeling I Got (song)](../../../topics/song/can-t-stop-this-feeling-i-got/index.md), [Feel U Up (song)](../../../topics/song/feel-u-up/index.md), [Graffiti Bridge (album)](../../../topics/album/graffiti-bridge/index.md), [Horny Toad (song)](../../../topics/song/horny-toad/index.md), [If It’ll Make U Happy (song)](../../../topics/song/if-it-ll-make-u-happy/index.md), [Irresistible Bitch (song)](../../../topics/song/irresistible-bitch/index.md), [Lisa Coleman](../../../topics/lisa-coleman/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Matt Fink](../../../topics/matt-fink/index.md), [No Call U (song)](../../../topics/song/no-call-u/index.md), [Piano & A Microphone 1983 (album)](../../../topics/album/piano-a-microphone-1983/index.md), [Purple Music (song)](../../../topics/song/purple-music/index.md), [Rearrange (song)](../../../topics/song/rearrange/index.md), [The Revolution](../../../topics/the-revolution/index.md), [Vagina (song)](../../../topics/song/vagina/index.md), [Vanity](../../../topics/vanity/index.md), [Vanity 6](../../../topics/vanity-6/index.md), [vault](../../../topics/vault/index.md), [Yah, You Know (song)](../../../topics/song/yah-you-know/index.md), [You’re All I Want (song)](../../../topics/song/you-re-all-i-want/index.md)

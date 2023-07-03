@@ -1,6 +1,13 @@
 # 2001
 
-## September 2001 (1)
+## September 2001 (2)
+
+ - [**"Nightspots -- Showbiz travel guide"**](https://variety.com/2001/scene/markets-festivals/nightspots-1117853277/)
+    - in [Variety](../../publications/variety/index.md)
+    - on 27 September 2001
+    - ([mirror](https://web.archive.org/web/*/https://variety.com/2001/scene/markets-festivals/nightspots-1117853277/))
+
+----
 
  - [**"Sinéad remembers Steve -- STEVE FARGNOLI, the artist manager who numbered SINÉAD O'CONNOR among his clients, lost his battle with cancer earlier this month. STEPHEN ROBINSON reports"**](https://www.hotpress.com/music/sineacutead-remembers-steve-1525753)
     - in [Hot Press](../../publications/hot-press/index.md)

@@ -10,7 +10,15 @@
 
 ----
 
-## June 2012 (1)
+## June 2012 (2)
+
+ - [**"Hollywood Exes -- Once you get past the title, these real (or not-so-real) ex-housewives don't have much to say or do, which leads to staged activities, like going for vaginal-rejuvenation treatment."**](https://variety.com/2012/tv/reviews/hollywood-exes-1117947822/)
+    - in [Variety](../../publications/variety/index.md)
+    - on 25 June 2012
+    - about [Eddie Murphy](../../topics/eddie-murphy/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://variety.com/2012/tv/reviews/hollywood-exes-1117947822/))
+
+----
 
  - [**""The Pleasure Principle" by Monte Moir / performed by Janet Jackson"**](http://www.oneradsong.com/2012/06/pleasure-principle-by-monte.html)
     - in [One Rad Song](../../publications/one-rad-song/index.md)
@@ -27,6 +35,16 @@
     - on 1 February 2012
     - about [contract](../../topics/contract/index.md), [divorce](../../topics/divorce/index.md), [Grammy Award](../../topics/grammy-award/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [royalties](../../topics/royalties/index.md), [Sinéad O'Connor](../../topics/sin-ad-o-connor/index.md), [The Family](../../topics/the-family/index.md), [Toronto (place)](../../topics/place/toronto/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.soundonsound.com/people/sinead-oconnor-nothing-compares-2-u))
+
+----
+
+## January 2012 (1)
+
+ - [**"Clare Fischer dies at 83 -- Grammy winner did arrangements for Prince, Jackson, McCartney"**](https://variety.com/2012/music/news/clare-fischer-dies-at-83-1118049427/)
+    - in [Variety](../../publications/variety/index.md)
+    - on 29 January 2012
+    - about [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://variety.com/2012/music/news/clare-fischer-dies-at-83-1118049427/))
 
 ----
 

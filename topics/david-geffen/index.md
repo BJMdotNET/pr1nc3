@@ -13,4 +13,16 @@
 
 ----
 
+## 2014 (1)
+
+### 2014 April (1)
+
+ - [**"Music Attorney Lee Phillips Deals With Fickle Personalities, Changing Technology -- Beverly Hills Bar Association's Enterteinment Lawyer of the YearStar lawyer has repped Barbra Streisand, Randy Jackson, Prince, Axl Rose and Michael Jackson"**](https://variety.com/2014/biz/awards/music-attorney-lee-phillips-deals-with-fickle-personalities-changing-technology-1201157806/)
+    - in [Variety](../../publications/variety/index.md)
+    - on 16 April 2014
+    - about [David Geffen](../../topics/david-geffen/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Lee Phillips](../../topics/lee-phillips/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://variety.com/2014/biz/awards/music-attorney-lee-phillips-deals-with-fickle-personalities-changing-technology-1201157806/))
+
+----
+
 [Home](../index.md)

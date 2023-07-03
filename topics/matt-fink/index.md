@@ -1,6 +1,17 @@
 # Matt Fink
 
-## 2022 (1)
+## 2022 (2)
+
+### 2022 June (1)
+
+ - [**"Prince’s Night: The Revolution Remember the 1985 Syracuse Concert and the ‘Purple Rain’ Tour -- Biggest "**](https://variety.com/2022/music/news/prince-revolution-live-1985-syracuse-concert-purple-rain-1235286514/)
+    - by [Jem Aswad](../../authors/jem-aswad/index.md)
+    - in [Variety](../../publications/variety/index.md)
+    - on 7 June 2022
+    - about [Bobby Z](../../topics/bobby-z/index.md), [Brown Mark](../../topics/brown-mark/index.md), [Carrier Dome (place)](../../topics/place/carrier-dome/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Matt Fink](../../topics/matt-fink/index.md), [Prince and The Revolution](../../topics/prince-and-the-revolution/index.md), [Prince and The Revolution: Live (album)](../../topics/album/prince-and-the-revolution-live/index.md), [Prince and The Revolution: Live (Blu-ray)](../../topics/blu-ray/prince-and-the-revolution-live/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Purple Rain (tour)](../../topics/tour/purple-rain/index.md), [Syracuse (place)](../../topics/place/syracuse/index.md), [The Revolution](../../topics/the-revolution/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://variety.com/2022/music/news/prince-revolution-live-1985-syracuse-concert-purple-rain-1235286514/))
+
+----
 
 ### 2022 January (1)
 
@@ -67,6 +78,7 @@
 ### 2019 November (2)
 
  - [**"Album Preview: Prince’s Sprawling, Six-Disc ‘1999’ Deluxe Reissue"**](https://variety.com/2019/music/news/album-preview-princes-sprawling-six-disc-1999-deluxe-reissue-1203415514/)
+    - by [Jem Aswad](../../authors/jem-aswad/index.md)
     - in [Variety](../../publications/variety/index.md)
     - on 25 November 2019
     - about [1999 (album)](../../topics/album/1999/index.md), [Bold Generation (song)](../../topics/song/bold-generation/index.md), [bootleg](../../topics/bootleg/index.md), [Can’t Stop This Feeling I Got (song)](../../topics/song/can-t-stop-this-feeling-i-got/index.md), [Feel U Up (song)](../../topics/song/feel-u-up/index.md), [Graffiti Bridge (album)](../../topics/album/graffiti-bridge/index.md), [Horny Toad (song)](../../topics/song/horny-toad/index.md), [If It’ll Make U Happy (song)](../../topics/song/if-it-ll-make-u-happy/index.md), [Irresistible Bitch (song)](../../topics/song/irresistible-bitch/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Matt Fink](../../topics/matt-fink/index.md), [No Call U (song)](../../topics/song/no-call-u/index.md), [Piano & A Microphone 1983 (album)](../../topics/album/piano-a-microphone-1983/index.md), [Purple Music (song)](../../topics/song/purple-music/index.md), [Rearrange (song)](../../topics/song/rearrange/index.md), [The Revolution](../../topics/the-revolution/index.md), [Vagina (song)](../../topics/song/vagina/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md), [Yah, You Know (song)](../../topics/song/yah-you-know/index.md), [You’re All I Want (song)](../../topics/song/you-re-all-i-want/index.md)
@@ -113,7 +125,7 @@
 
 ----
 
-## 2018 (3)
+## 2018 (4)
 
 ### 2018 December (1)
 
@@ -122,6 +134,17 @@
     - on 26 December 2018
     - about [Brown Mark](../../topics/brown-mark/index.md), [Matt Fink](../../topics/matt-fink/index.md), [The Revolution](../../topics/the-revolution/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/803b6fa073d54282b88a954ab802c337))
+
+----
+
+### 2018 June (1)
+
+ - [**"Prince the Prankster: Marc Anthony, Bobby Z and More Remember His Humor (and an Epic Food Fight)"**](https://variety.com/2018/music/news/prince-birthday-prankster-marc-anthony-bobby-z-revolution-humor-1202835528/)
+    - by [Jem Aswad](../../authors/jem-aswad/index.md)
+    - in [Variety](../../publications/variety/index.md)
+    - on 7 June 2018
+    - about [Bobby Z](../../topics/bobby-z/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [Fred Armisen](../../topics/fred-armisen/index.md), [Jerome Benton](../../topics/jerome-benton/index.md), [Jesse Johnson](../../topics/jesse-johnson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Matt Fink](../../topics/matt-fink/index.md), [Morris Day](../../topics/morris-day/index.md), [Questlove](../../topics/questlove/index.md), [Raphael Saadiq](../../topics/raphael-saadiq/index.md), [Rebekah Alperin](../../topics/rebekah-alperin/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [Steve Fargnoli](../../topics/steve-fargnoli/index.md), [Ted Cohen](../../topics/ted-cohen/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [Vanity 6](../../topics/vanity-6/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://variety.com/2018/music/news/prince-birthday-prankster-marc-anthony-bobby-z-revolution-humor-1202835528/))
 
 ----
 

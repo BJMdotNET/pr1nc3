@@ -13,9 +13,18 @@
 
 ----
 
-## 2021 (1)
+## 2021 (2)
 
-### 2021 June (1)
+### 2021 June (2)
+
+ - [**"‘Studio Sessions 1985-1986’ Is a Deep, Deep Dive on Prince’s Peak Years: Book Review"**](https://variety.com/2021/music/reviews/prince-parade-sign-times-studio-sessions-1985-1986-book-review-1234989823/)
+    - by [Jem Aswad](../../../authors/jem-aswad/index.md)
+    - in [Variety](../../../publications/variety/index.md)
+    - on 7 June 2021
+    - about [Chick Huntsberry](../../../topics/chick-huntsberry/index.md), [Duane Tudahl](../../../topics/duane-tudahl/index.md), [Housequake (song)](../../../topics/song/housequake/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Parade (album)](../../../topics/album/parade/index.md), [Prince & The Revolution](../../../topics/prince-the-revolution/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [Susan Rogers](../../../topics/susan-rogers/index.md), [The Prince Estate](../../../topics/the-prince-estate/index.md), [The Revolution](../../../topics/the-revolution/index.md), [U Got the Look (song)](../../../topics/song/u-got-the-look/index.md), [vault](../../../topics/vault/index.md), [We Are the World (song)](../../../topics/song/we-are-the-world/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://variety.com/2021/music/reviews/prince-parade-sign-times-studio-sessions-1985-1986-book-review-1234989823/))
+
+<br />
 
  - [**"‘60 Songs That Explain the ’90s’: How Sinéad O’Connor Turned a Prince Song Into Her Classic -- The Purple One wrote ‘Nothing Compares 2 U,’ but O’Connor managed to inhabit the song and make it fully her own"**](https://www.theringer.com/2021/6/2/22464082/sinead-oconnor-nothing-compares-2-u-prince)
     - in [The Ringer](../../../publications/the-ringer/index.md)
@@ -521,6 +530,18 @@
     - on 1 February 2012
     - about [contract](../../../topics/contract/index.md), [divorce](../../../topics/divorce/index.md), [Grammy Award](../../../topics/grammy-award/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [royalties](../../../topics/royalties/index.md), [Sinéad O'Connor](../../../topics/sin-ad-o-connor/index.md), [The Family](../../../topics/the-family/index.md), [Toronto (place)](../../../topics/place/toronto/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.soundonsound.com/people/sinead-oconnor-nothing-compares-2-u))
+
+----
+
+## 2009 (1)
+
+### 2009 March (1)
+
+ - [**"Prince"**](https://variety.com/2009/music/markets-festivals/prince-4-1200473979/)
+    - in [Variety](../../../publications/variety/index.md)
+    - on 29 March 2009
+    - about [Bria Valente](../../../topics/bria-valente/index.md), [Chaka Khan](../../../topics/chaka-khan/index.md), [Club Nokia (place)](../../../topics/place/club-nokia/index.md), [Colonized Mind (song)](../../../topics/song/colonized-mind/index.md), [Conga Room (place)](../../../topics/place/conga-room/index.md), [Dreamer (song)](../../../topics/song/dreamer/index.md), [LotusFlow3r (album)](../../../topics/album/lotusflow3r/index.md), [Michael Bland](../../../topics/michael-bland/index.md), [MPLSoUND (album)](../../../topics/album/mplsound/index.md), [Nokia Theater (place)](../../../topics/place/nokia-theater/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Renato Neto](../../../topics/renato-neto/index.md), [Sonny T.](../../../topics/sonny-t/index.md), [The Beautiful Ones (song)](../../../topics/song/the-beautiful-ones/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://variety.com/2009/music/markets-festivals/prince-4-1200473979/))
 
 ----
 

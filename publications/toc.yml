@@ -167,6 +167,9 @@ items:
 - name: digitaleditions.sheridan.com
   href: digitaleditions-sheridan-com/index.md
   homepage: digitaleditions-sheridan-com/index.md
+- name: DIRT
+  href: dirt/index.md
+  homepage: dirt/index.md
 - name: drummagazine.com
   href: drummagazine-com/index.md
   homepage: drummagazine-com/index.md

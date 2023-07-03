@@ -1,5 +1,18 @@
 # The Beautiful Ones (song)
 
+## 2022 (1)
+
+### 2022 September (1)
+
+ - [**"Mariah Carey on the 25th Anniversary of ‘Butterfly,’ and Bonding With Meghan Markle and Prince"**](https://variety.com/2022/music/news/mariah-carey-butterfly-25-anniversary-meghan-markle-prince-1235373657/)
+    - by [A.D. Amorosi](../../../authors/a-d-amorosi/index.md)
+    - in [Variety](../../../publications/variety/index.md)
+    - on 15 September 2022
+    - about [Columbia Records](../../../topics/columbia-records/index.md), [Mariah Carey](../../../topics/mariah-carey/index.md), [The Beautiful Ones (song)](../../../topics/song/the-beautiful-ones/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://variety.com/2022/music/news/mariah-carey-butterfly-25-anniversary-meghan-markle-prince-1235373657/))
+
+----
+
 ## 2021 (1)
 
 ### 2021 June (1)
@@ -206,6 +219,18 @@
     - on 8 March 2013
     - about [D’Angelo](../../../topics/d-angelo/index.md), [Darling Nikki (song)](../../../topics/song/darling-nikki/index.md), [Eric Leeds](../../../topics/eric-leeds/index.md), [Fred Armisen](../../../topics/fred-armisen/index.md), [Gretchen Lieberum](../../../topics/gretchen-lieberum/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Maya Rudolph](../../../topics/maya-rudolph/index.md), [Paul Peterson](../../../topics/paul-peterson/index.md), [Pop Life (song)](../../../topics/song/pop-life/index.md), [PRINCEss](../../../topics/princess/index.md), [Questlove](../../../topics/questlove/index.md), [St. Paul Peterson](../../../topics/st-paul-peterson/index.md), [Susannah Melvoin](../../../topics/susannah-melvoin/index.md), [The Beautiful Ones (song)](../../../topics/song/the-beautiful-ones/index.md), [The Revolution](../../../topics/the-revolution/index.md), [The Roots](../../../topics/the-roots/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/f78be2e8ad1b4b7ebeb0c45b96f32081))
+
+----
+
+## 2009 (1)
+
+### 2009 March (1)
+
+ - [**"Prince"**](https://variety.com/2009/music/markets-festivals/prince-4-1200473979/)
+    - in [Variety](../../../publications/variety/index.md)
+    - on 29 March 2009
+    - about [Bria Valente](../../../topics/bria-valente/index.md), [Chaka Khan](../../../topics/chaka-khan/index.md), [Club Nokia (place)](../../../topics/place/club-nokia/index.md), [Colonized Mind (song)](../../../topics/song/colonized-mind/index.md), [Conga Room (place)](../../../topics/place/conga-room/index.md), [Dreamer (song)](../../../topics/song/dreamer/index.md), [LotusFlow3r (album)](../../../topics/album/lotusflow3r/index.md), [Michael Bland](../../../topics/michael-bland/index.md), [MPLSoUND (album)](../../../topics/album/mplsound/index.md), [Nokia Theater (place)](../../../topics/place/nokia-theater/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Renato Neto](../../../topics/renato-neto/index.md), [Sonny T.](../../../topics/sonny-t/index.md), [The Beautiful Ones (song)](../../../topics/song/the-beautiful-ones/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://variety.com/2009/music/markets-festivals/prince-4-1200473979/))
 
 ----
 

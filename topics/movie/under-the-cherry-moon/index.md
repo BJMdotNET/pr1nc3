@@ -13,6 +13,19 @@
 
 ----
 
+## 2022 (1)
+
+### 2022 June (1)
+
+ - [**"Prince’s Night: The Revolution Remember the 1985 Syracuse Concert and the ‘Purple Rain’ Tour -- Biggest "**](https://variety.com/2022/music/news/prince-revolution-live-1985-syracuse-concert-purple-rain-1235286514/)
+    - by [Jem Aswad](../../../authors/jem-aswad/index.md)
+    - in [Variety](../../../publications/variety/index.md)
+    - on 7 June 2022
+    - about [Bobby Z](../../../topics/bobby-z/index.md), [Brown Mark](../../../topics/brown-mark/index.md), [Carrier Dome (place)](../../../topics/place/carrier-dome/index.md), [Lisa Coleman](../../../topics/lisa-coleman/index.md), [Matt Fink](../../../topics/matt-fink/index.md), [Prince and The Revolution](../../../topics/prince-and-the-revolution/index.md), [Prince and The Revolution: Live (album)](../../../topics/album/prince-and-the-revolution-live/index.md), [Prince and The Revolution: Live (Blu-ray)](../../../topics/blu-ray/prince-and-the-revolution-live/index.md), [Purple Rain (album)](../../../topics/album/purple-rain/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Purple Rain (tour)](../../../topics/tour/purple-rain/index.md), [Syracuse (place)](../../../topics/place/syracuse/index.md), [The Revolution](../../../topics/the-revolution/index.md), [Under the Cherry Moon (movie)](../../../topics/movie/under-the-cherry-moon/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://variety.com/2022/music/news/prince-revolution-live-1985-syracuse-concert-purple-rain-1235286514/))
+
+----
+
 ## 2020 (1)
 
 ### 2020 January (1)
@@ -163,6 +176,42 @@
     - on 21 April 2016
     - about [1999 (album)](../../../topics/album/1999/index.md), [3121 (album)](../../../topics/album/3121/index.md), [Around The World In A Day (album)](../../../topics/album/around-the-world-in-a-day/index.md), [Condition of the Heart (song)](../../../topics/song/condition-of-the-heart/index.md), [Graffiti Bridge (album)](../../../topics/album/graffiti-bridge/index.md), [Graffiti Bridge (movie)](../../../topics/movie/graffiti-bridge/index.md), [Parade (album)](../../../topics/album/parade/index.md), [Purple Rain (album)](../../../topics/album/purple-rain/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md), [The Black Album (album)](../../../topics/album/the-black-album/index.md), [Tidal](../../../topics/tidal/index.md), [Under the Cherry Moon (movie)](../../../topics/movie/under-the-cherry-moon/index.md), [vault](../../../topics/vault/index.md), [YouTube](../../../topics/youtube/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/7341543/prince-songs-deep-cuts))
+
+----
+
+## 2014 (1)
+
+### 2014 July (1)
+
+ - [**"‘Purple Rain’ at 30: Why It’s the Musical That Defined the ’80s"**](https://variety.com/2014/music/news/purple-rain-30th-anniversary-tribute-1201269036/)
+    - in [Variety](../../../publications/variety/index.md)
+    - on 26 July 2014
+    - about [Albert Magnoli](../../../topics/albert-magnoli/index.md), [Apollonia](../../../topics/apollonia/index.md), [Apollonia Kotero](../../../topics/apollonia-kotero/index.md), [Darling Nikki (song)](../../../topics/song/darling-nikki/index.md), [Detroit (place)](../../../topics/place/detroit/index.md), [Detroit, Michigan (place)](../../../topics/place/detroit-michigan/index.md), [Ghostbusters (movie)](../../../topics/movie/ghostbusters/index.md), [Graffiti Bridge (movie)](../../../topics/movie/graffiti-bridge/index.md), [Ingrid Chavez](../../../topics/ingrid-chavez/index.md), [Jungle Love (song)](../../../topics/song/jungle-love/index.md), [Kevin Smith](../../../topics/kevin-smith/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Los Angeles (place)](../../../topics/place/los-angeles/index.md), [Morris Day](../../../topics/morris-day/index.md), [motorcycle](../../../topics/motorcycle/index.md), [Purple Rain (album)](../../../topics/album/purple-rain/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Purple Rain (tour)](../../../topics/tour/purple-rain/index.md), [Under the Cherry Moon (movie)](../../../topics/movie/under-the-cherry-moon/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://variety.com/2014/music/news/purple-rain-30th-anniversary-tribute-1201269036/))
+
+----
+
+## 2013 (1)
+
+### 2013 July (1)
+
+ - [**"Cracked Actor: The Films of David Bowie To Unspool at Lincoln Center"**](https://variety.com/2013/film/news/cracked-actor-the-films-of-david-bowie-to-unspool-at-lincoln-center-1200504760/)
+    - in [Variety](../../../publications/variety/index.md)
+    - on 3 July 2013
+    - about [Under the Cherry Moon (movie)](../../../topics/movie/under-the-cherry-moon/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://variety.com/2013/film/news/cracked-actor-the-films-of-david-bowie-to-unspool-at-lincoln-center-1200504760/))
+
+----
+
+## 2012 (1)
+
+### 2012 January (1)
+
+ - [**"Clare Fischer dies at 83 -- Grammy winner did arrangements for Prince, Jackson, McCartney"**](https://variety.com/2012/music/news/clare-fischer-dies-at-83-1118049427/)
+    - in [Variety](../../../publications/variety/index.md)
+    - on 29 January 2012
+    - about [Under the Cherry Moon (movie)](../../../topics/movie/under-the-cherry-moon/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://variety.com/2012/music/news/clare-fischer-dies-at-83-1118049427/))
 
 ----
 

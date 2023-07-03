@@ -1,6 +1,14 @@
 # 2015
 
-## November 2015 (4)
+## November 2015 (5)
+
+ - [**"Cynthia Robinson, Sly and the Family Stone’s Trumpeter, Dies at 69"**](https://variety.com/2015/music/obituaries-people-news/cynthia-robinson-dead-sly-and-the-family-stone-1201648334/)
+    - in [Variety](../../publications/variety/index.md)
+    - on 24 November 2015
+    - about [George Clinton](../../topics/george-clinton/index.md), [Grammy Award](../../topics/grammy-award/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Sly Stone](../../topics/sly-stone/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://variety.com/2015/music/obituaries-people-news/cynthia-robinson-dead-sly-and-the-family-stone-1201648334/))
+
+----
 
  - [**"Big Gigs for Nov. 20-26: El Vy, Odesza, Ike Reilly Assassination, Glen Hansard, Karrin Allyson, Jamey Johnson and more"**](https://www.startribune.com/the-big-gigs-for-nov-20-26-el-vy-odesza-ike-reilly-assassination-glen-hansard-karrin-allyson-jamey-johnson-and-more/351814661/)
     - in [Minneapolis Star Tribune](../../publications/minneapolis-star-tribune/index.md)
@@ -79,7 +87,15 @@
 
 ----
 
-## September 2015 (6)
+## September 2015 (8)
+
+ - [**"Beyonce, Jay Z and Prince to Headline Tidal Charity Concert"**](https://variety.com/2015/music/news/beyonce-jay-z-prince-tidal-charity-concert-1201606351/)
+    - in [Variety](../../publications/variety/index.md)
+    - on 30 September 2015
+    - about [Beyoncé](../../topics/beyonc/index.md), [Tidal](../../topics/tidal/index.md), [Usher](../../topics/usher/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://variety.com/2015/music/news/beyonce-jay-z-prince-tidal-charity-concert-1201606351/))
+
+----
 
  - [**"Prince releases new single, "Free Urself," on Tidal"**](https://www.startribune.com/prince-releases-new-single-free-urself-on-tidal/329887771/)
     - by [Jon Bream](../../authors/jon-bream/index.md)
@@ -87,6 +103,14 @@
     - on 29 September 2015
     - about [Free Urself (song)](../../topics/song/free-urself/index.md), [Tidal](../../topics/tidal/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-releases-new-single-free-urself-on-tidal/329887771/))
+
+----
+
+ - [**"‘Fair Use’ Should be Considered in Case of Homemade Prince Video, Says Appeals Court"**](https://variety.com/2015/biz/news/prince-video-universal-music-group-lets-go-crazy-youtube-1201593247/)
+    - in [Variety](../../publications/variety/index.md)
+    - on 14 September 2015
+    - about [fair use](../../topics/fair-use/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [YouTube](../../topics/youtube/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://variety.com/2015/biz/news/prince-video-universal-music-group-lets-go-crazy-youtube-1201593247/))
 
 ----
 
@@ -231,7 +255,15 @@
 
 ----
 
-## March 2015 (2)
+## March 2015 (3)
+
+ - [**"Carmen Electra Flipping Out in Hollywood Hills"**](https://www.dirt.com/more-dirt/real-estate-listings/carmen-electra-flipping-out-in-hollywood-hills-1203534640/)
+    - in [DIRT](../../publications/dirt/index.md)
+    - on 25 March 2015
+    - about [Carmen Electra](../../topics/carmen-electra/index.md), [Los Angeles (place)](../../topics/place/los-angeles/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.dirt.com/more-dirt/real-estate-listings/carmen-electra-flipping-out-in-hollywood-hills-1203534640/))
+
+----
 
  - [**"Hunting for Prince's vault"**](https://www.bbc.com/news/magazine-31962180)
     - in [BBC News](../../publications/bbc-news/index.md)

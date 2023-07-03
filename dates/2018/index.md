@@ -924,7 +924,7 @@
 
 ----
 
-## June 2018 (18)
+## June 2018 (20)
 
  - [**"Former Prince Property to be Developed into Residential Neighborhood"**](https://kstp.com/news/prince-property-chanhassen-developed-residential-neighborhood-/4969812/)
     - in [KSTP](../../publications/kstp/index.md)
@@ -1012,6 +1012,24 @@
     - on 7 June 2018
     - about [A Case of You (song)](../../topics/song/a-case-of-you/index.md), [Allen Beaulieu](../../topics/allen-beaulieu/index.md), [Cold Coffee & Cocaine (song)](../../topics/song/cold-coffee-cocaine/index.md), [International Lover (song)](../../topics/song/international-lover/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Kiowa Trail](../../topics/kiowa-trail/index.md), [Mary Don’t You Weep (song)](../../topics/song/mary-don-t-you-weep/index.md), [Piano & A Microphone 1983 (album)](../../topics/album/piano-a-microphone-1983/index.md), [Piano and a Microphone 1983 (album)](../../topics/album/piano-and-a-microphone-1983/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Strange Relationship (song)](../../topics/song/strange-relationship/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Troy Carter](../../topics/troy-carter/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md), [Why The Butterflies (song)](../../topics/song/why-the-butterflies/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/columns/rock/8459820/prince-estate-releasing-unheard-piano-a-microphone-1983-album))
+
+----
+
+ - [**"Prince the Prankster, Part 2: Phone Gags, a Stuffed Penguin, and Sharing a Bathroom With Justin Timberlake"**](https://variety.com/2018/music/news/prince-the-prankster-part-2-phone-gags-a-stuffed-penguin-and-sharing-a-bathroom-with-justin-timberlake-1202835547/)
+    - by [Jem Aswad](../../authors/jem-aswad/index.md)
+    - in [Variety](../../publications/variety/index.md)
+    - on 7 June 2018
+    - about [777-9311 (song)](../../topics/song/777-9311/index.md), [Bobby Z](../../topics/bobby-z/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [Lionel Richie](../../topics/lionel-richie/index.md), [Morris Hayes](../../topics/morris-hayes/index.md), [NBC](../../topics/nbc/index.md), [Prince and The Revolution](../../topics/prince-and-the-revolution/index.md), [Raphael Saadiq](../../topics/raphael-saadiq/index.md), [Rebekah Alperin](../../topics/rebekah-alperin/index.md), [Romance 1600 (album)](../../topics/album/romance-1600/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [The Revolution](../../topics/the-revolution/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://variety.com/2018/music/news/prince-the-prankster-part-2-phone-gags-a-stuffed-penguin-and-sharing-a-bathroom-with-justin-timberlake-1202835547/))
+
+----
+
+ - [**"Prince the Prankster: Marc Anthony, Bobby Z and More Remember His Humor (and an Epic Food Fight)"**](https://variety.com/2018/music/news/prince-birthday-prankster-marc-anthony-bobby-z-revolution-humor-1202835528/)
+    - by [Jem Aswad](../../authors/jem-aswad/index.md)
+    - in [Variety](../../publications/variety/index.md)
+    - on 7 June 2018
+    - about [Bobby Z](../../topics/bobby-z/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [Fred Armisen](../../topics/fred-armisen/index.md), [Jerome Benton](../../topics/jerome-benton/index.md), [Jesse Johnson](../../topics/jesse-johnson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Matt Fink](../../topics/matt-fink/index.md), [Morris Day](../../topics/morris-day/index.md), [Questlove](../../topics/questlove/index.md), [Raphael Saadiq](../../topics/raphael-saadiq/index.md), [Rebekah Alperin](../../topics/rebekah-alperin/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [Steve Fargnoli](../../topics/steve-fargnoli/index.md), [Ted Cohen](../../topics/ted-cohen/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [Vanity 6](../../topics/vanity-6/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://variety.com/2018/music/news/prince-birthday-prankster-marc-anthony-bobby-z-revolution-humor-1202835528/))
 
 ----
 

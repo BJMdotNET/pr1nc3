@@ -1,5 +1,18 @@
 # Graffiti Bridge (movie)
 
+## 2023 (1)
+
+### 2023 June (1)
+
+ - [**"Why Prince Changed His Name to an Unpronounceable Symbol 30 Years Ago, and What Happened Next"**](https://variety.com/2023/music/news/prince-symbol-why-he-changed-his-name-1235635422/)
+    - by [Jem Aswad](../../../authors/jem-aswad/index.md)
+    - in [Variety](../../../publications/variety/index.md)
+    - on 7 June 2023
+    - about [$100 million deal](../../../topics/-100-million-deal/index.md), [A&M Records](../../../topics/a-m-records/index.md), [advance](../../../topics/advance/index.md), [Benny Medina](../../../topics/benny-medina/index.md), [contract](../../../topics/contract/index.md), [Diamonds and Pearls (album)](../../../topics/album/diamonds-and-pearls/index.md), [Eric Leeds](../../../topics/eric-leeds/index.md), [Graffiti Bridge (album)](../../../topics/album/graffiti-bridge/index.md), [Graffiti Bridge (movie)](../../../topics/movie/graffiti-bridge/index.md), [HDMG](../../../topics/hdmg/index.md), [hologram](../../../topics/hologram/index.md), [Ingrid Chavez](../../../topics/ingrid-chavez/index.md), [Jeff Gold](../../../topics/jeff-gold/index.md), [Jill Willis](../../../topics/jill-willis/index.md), [Justify My Love](../../../topics/justify-my-love/index.md), [Kurt Loder](../../../topics/kurt-loder/index.md), [Larry King](../../../topics/larry-king/index.md), [Lenny Kravitz](../../../topics/lenny-kravitz/index.md), [Lenny Waronker](../../../topics/lenny-waronker/index.md), [Linda Corradina](../../../topics/linda-corradina/index.md), [Love Symbol (album)](../../../topics/album/love-symbol/index.md), [Madonna](../../../topics/madonna/index.md), [Michael Ostin](../../../topics/michael-ostin/index.md), [Michael Pagnotta](../../../topics/michael-pagnotta/index.md), [Mo Ostin](../../../topics/mo-ostin/index.md), [Rogers and Cowan](../../../topics/rogers-and-cowan/index.md), [Suzanne Vega](../../../topics/suzanne-vega/index.md), [unpronounceable symbol](../../../topics/unpronounceable-symbol/index.md), [Warner Bros. Records](../../../topics/warner-bros-records/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://variety.com/2023/music/news/prince-symbol-why-he-changed-his-name-1235635422/))
+
+----
+
 ## 2019 (6)
 
 ### 2019 October (2)
@@ -80,6 +93,18 @@
     - on 21 April 2016
     - about [1999 (album)](../../../topics/album/1999/index.md), [3121 (album)](../../../topics/album/3121/index.md), [Around The World In A Day (album)](../../../topics/album/around-the-world-in-a-day/index.md), [Condition of the Heart (song)](../../../topics/song/condition-of-the-heart/index.md), [Graffiti Bridge (album)](../../../topics/album/graffiti-bridge/index.md), [Graffiti Bridge (movie)](../../../topics/movie/graffiti-bridge/index.md), [Parade (album)](../../../topics/album/parade/index.md), [Purple Rain (album)](../../../topics/album/purple-rain/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md), [The Black Album (album)](../../../topics/album/the-black-album/index.md), [Tidal](../../../topics/tidal/index.md), [Under the Cherry Moon (movie)](../../../topics/movie/under-the-cherry-moon/index.md), [vault](../../../topics/vault/index.md), [YouTube](../../../topics/youtube/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/7341543/prince-songs-deep-cuts))
+
+----
+
+## 2014 (1)
+
+### 2014 July (1)
+
+ - [**"‘Purple Rain’ at 30: Why It’s the Musical That Defined the ’80s"**](https://variety.com/2014/music/news/purple-rain-30th-anniversary-tribute-1201269036/)
+    - in [Variety](../../../publications/variety/index.md)
+    - on 26 July 2014
+    - about [Albert Magnoli](../../../topics/albert-magnoli/index.md), [Apollonia](../../../topics/apollonia/index.md), [Apollonia Kotero](../../../topics/apollonia-kotero/index.md), [Darling Nikki (song)](../../../topics/song/darling-nikki/index.md), [Detroit (place)](../../../topics/place/detroit/index.md), [Detroit, Michigan (place)](../../../topics/place/detroit-michigan/index.md), [Ghostbusters (movie)](../../../topics/movie/ghostbusters/index.md), [Graffiti Bridge (movie)](../../../topics/movie/graffiti-bridge/index.md), [Ingrid Chavez](../../../topics/ingrid-chavez/index.md), [Jungle Love (song)](../../../topics/song/jungle-love/index.md), [Kevin Smith](../../../topics/kevin-smith/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Los Angeles (place)](../../../topics/place/los-angeles/index.md), [Morris Day](../../../topics/morris-day/index.md), [motorcycle](../../../topics/motorcycle/index.md), [Purple Rain (album)](../../../topics/album/purple-rain/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Purple Rain (tour)](../../../topics/tour/purple-rain/index.md), [Under the Cherry Moon (movie)](../../../topics/movie/under-the-cherry-moon/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://variety.com/2014/music/news/purple-rain-30th-anniversary-tribute-1201269036/))
 
 ----
 

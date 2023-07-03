@@ -1,8 +1,8 @@
 # Warner Bros. Records
 
-## 2023 (1)
+## 2023 (2)
 
-### 2023 June (1)
+### 2023 June (2)
 
  - [**"Why did Prince decide to live in Chanhassen? -- The Minneapolis native's legacy will forever be linked to his state-of-the-art suburban playground, Paisley Park."**](https://www.startribune.com/prince-minneapolis-chanhassen-paisley-park-andre-cymone-morris-day-bobby-z/600281369/)
     - by [Jon Bream](../../authors/jon-bream/index.md)
@@ -10,6 +10,15 @@
     - on 9 June 2023
     - about [Aldrich Av. S. (place)](../../topics/place/aldrich-av-s/index.md), [André Cymone](../../topics/andr-cymone/index.md), [Audubon Rd (place)](../../topics/place/audubon-rd/index.md), [Black Album (album)](../../topics/album/black-album/index.md), [Bobby Z](../../topics/bobby-z/index.md), [Byerly's (place)](../../topics/place/byerly-s/index.md), [California (place)](../../topics/place/california/index.md), [Caribou (place)](../../topics/place/caribou/index.md), [Central High](../../topics/central-high/index.md), [Central High School (place)](../../topics/place/central-high-school/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Chanhassen Dinner Theatres](../../topics/chanhassen-dinner-theatres/index.md), [Chanhassen Inn (place)](../../topics/place/chanhassen-inn/index.md), [Chanhassen Villager](../../topics/chanhassen-villager/index.md), [Earth, Wind & Fire](../../topics/earth-wind-fire/index.md), [Eden Prairie (place)](../../topics/place/eden-prairie/index.md), [Edina (place)](../../topics/place/edina/index.md), [Flying Cloud Drive (place)](../../topics/place/flying-cloud-drive/index.md), [France Av. S. (place)](../../topics/place/france-av-s/index.md), [France Avenue (place)](../../topics/place/france-avenue/index.md), [Galpin Blvd. (place)](../../topics/place/galpin-blvd/index.md), [Galpin Boulevard (place)](../../topics/place/galpin-boulevard/index.md), [Julia Coleman](../../topics/julia-coleman/index.md), [Kiowa Trail](../../topics/kiowa-trail/index.md), [Kris Mattson](../../topics/kris-mattson/index.md), [Lake Ann (place)](../../topics/place/lake-ann/index.md), [Lake Minnetonka (place)](../../topics/place/lake-minnetonka/index.md), [Lake Riley (place)](../../topics/place/lake-riley/index.md), [Los Angeles (place)](../../topics/place/los-angeles/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Minnesota Landscape Arboretum (place)](../../topics/place/minnesota-landscape-arboretum/index.md), [Morris Day](../../topics/morris-day/index.md), [North Arm Drive (place)](../../topics/place/north-arm-drive/index.md), [Orono (place)](../../topics/place/orono/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Perry Jones](../../topics/perry-jones/index.md), [Piano and a Microphone 1983 (album)](../../topics/album/piano-and-a-microphone-1983/index.md), [Prince Rogers Nelson Memorial Highway (place)](../../topics/place/prince-rogers-nelson-memorial-highway/index.md), [Sign O' The Times (album)](../../topics/album/sign-o-the-times/index.md), [Solveig Huseth](../../topics/solveig-huseth/index.md), [St. Louis Park (place)](../../topics/place/st-louis-park/index.md), [Steve Fargnoli](../../topics/steve-fargnoli/index.md), [The Complex (place)](../../topics/place/the-complex/index.md), [Tim Walz](../../topics/tim-walz/index.md), [Toronto (place)](../../topics/place/toronto/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md), [Vanity 6](../../topics/vanity-6/index.md), [Viper](../../topics/viper/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md), [Washington Avenue (place)](../../topics/place/washington-avenue/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-minneapolis-chanhassen-paisley-park-andre-cymone-morris-day-bobby-z/600281369/))
+
+<br />
+
+ - [**"Why Prince Changed His Name to an Unpronounceable Symbol 30 Years Ago, and What Happened Next"**](https://variety.com/2023/music/news/prince-symbol-why-he-changed-his-name-1235635422/)
+    - by [Jem Aswad](../../authors/jem-aswad/index.md)
+    - in [Variety](../../publications/variety/index.md)
+    - on 7 June 2023
+    - about [$100 million deal](../../topics/-100-million-deal/index.md), [A&M Records](../../topics/a-m-records/index.md), [advance](../../topics/advance/index.md), [Benny Medina](../../topics/benny-medina/index.md), [contract](../../topics/contract/index.md), [Diamonds and Pearls (album)](../../topics/album/diamonds-and-pearls/index.md), [Eric Leeds](../../topics/eric-leeds/index.md), [Graffiti Bridge (album)](../../topics/album/graffiti-bridge/index.md), [Graffiti Bridge (movie)](../../topics/movie/graffiti-bridge/index.md), [HDMG](../../topics/hdmg/index.md), [hologram](../../topics/hologram/index.md), [Ingrid Chavez](../../topics/ingrid-chavez/index.md), [Jeff Gold](../../topics/jeff-gold/index.md), [Jill Willis](../../topics/jill-willis/index.md), [Justify My Love](../../topics/justify-my-love/index.md), [Kurt Loder](../../topics/kurt-loder/index.md), [Larry King](../../topics/larry-king/index.md), [Lenny Kravitz](../../topics/lenny-kravitz/index.md), [Lenny Waronker](../../topics/lenny-waronker/index.md), [Linda Corradina](../../topics/linda-corradina/index.md), [Love Symbol (album)](../../topics/album/love-symbol/index.md), [Madonna](../../topics/madonna/index.md), [Michael Ostin](../../topics/michael-ostin/index.md), [Michael Pagnotta](../../topics/michael-pagnotta/index.md), [Mo Ostin](../../topics/mo-ostin/index.md), [Rogers and Cowan](../../topics/rogers-and-cowan/index.md), [Suzanne Vega](../../topics/suzanne-vega/index.md), [unpronounceable symbol](../../topics/unpronounceable-symbol/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://variety.com/2023/music/news/prince-symbol-why-he-changed-his-name-1235635422/))
 
 ----
 
@@ -32,7 +41,7 @@
  - [**"Juicy J Slams His Record Company in New Song, Then Backs Down"**](https://variety.com/2020/biz/news/juicy-j-slams-columbia-records-sony-music-1203519947/)
     - in [Variety](../../publications/variety/index.md)
     - on 29 February 2020
-    - about [Juicy J](../../topics/juicy-j/index.md), [lawsuit](../../topics/lawsuit/index.md), [Sony Music](../../topics/sony-music/index.md), [Soul Train Awards](../../topics/soul-train-awards/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md)
+    - about [Juicy J](../../topics/juicy-j/index.md), [lawsuit](../../topics/lawsuit/index.md), [Sony Music](../../topics/sony-music/index.md), [Soul Train Awards](../../topics/soul-train-awards/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md), [YouTube](../../topics/youtube/index.md)
     - ([mirror](https://web.archive.org/web/*/https://variety.com/2020/biz/news/juicy-j-slams-columbia-records-sony-music-1203519947/))
 
 ----
@@ -452,6 +461,18 @@
     - on 25 August 2014
     - about [20Ten (album)](../../topics/album/20ten/index.md), [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Art Official Age (album)](../../topics/album/art-official-age/index.md), [Donna Grantis](../../topics/donna-grantis/index.md), [Hannah Ford](../../topics/hannah-ford/index.md), [Ida Nielsen](../../topics/ida-nielsen/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/entertainment-music-arts-and-entertainment-prince-14e082a14f724f6c999fb180c5000b2c))
+
+----
+
+## 1998 (1)
+
+### 1998 May (1)
+
+ - [**"Warner bags Rhino -- Deal took four years to orchestrate"**](https://variety.com/1998/music/news/warner-bags-rhino-1117470997/)
+    - in [Variety](../../publications/variety/index.md)
+    - on 19 May 1998
+    - about [Rhino Records](../../topics/rhino-records/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://variety.com/1998/music/news/warner-bags-rhino-1117470997/))
 
 ----
 

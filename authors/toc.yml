@@ -1,4 +1,7 @@
 items:
+- name: A.D. Amorosi
+  href: a-d-amorosi/index.md
+  homepage: a-d-amorosi/index.md
 - name: Aimee Blanchette
   href: aimee-blanchette/index.md
   homepage: aimee-blanchette/index.md
@@ -8,6 +11,9 @@ items:
 - name: Alex Johnson
   href: alex-johnson/index.md
   homepage: alex-johnson/index.md
+- name: Amber Dowling
+  href: amber-dowling/index.md
+  homepage: amber-dowling/index.md
 - name: Amy Forliti (Associated Press)
   href: associated-press/amy-forliti/index.md
   homepage: associated-press/amy-forliti/index.md
@@ -287,6 +293,9 @@ items:
 - name: Maeve McDermott
   href: maeve-mcdermott/index.md
   homepage: maeve-mcdermott/index.md
+- name: Marc Malkin
+  href: marc-malkin/index.md
+  homepage: marc-malkin/index.md
 - name: Mark Kennedy (Associated Press)
   href: associated-press/mark-kennedy/index.md
   homepage: associated-press/mark-kennedy/index.md
@@ -422,6 +431,9 @@ items:
 - name: Sheila Regan
   href: sheila-regan/index.md
   homepage: sheila-regan/index.md
+- name: Shirley Ju
+  href: shirley-ju/index.md
+  homepage: shirley-ju/index.md
 - name: Stephen Cooke
   href: stephen-cooke/index.md
   homepage: stephen-cooke/index.md
@@ -473,6 +485,12 @@ items:
 - name: Todd Gilchrist
   href: todd-gilchrist/index.md
   homepage: todd-gilchrist/index.md
+- name: Todd McCarthy
+  href: todd-mccarthy/index.md
+  homepage: todd-mccarthy/index.md
+- name: Todd Spangler
+  href: todd-spangler/index.md
+  homepage: todd-spangler/index.md
 - name: Tom Foster
   href: tom-foster/index.md
   homepage: tom-foster/index.md

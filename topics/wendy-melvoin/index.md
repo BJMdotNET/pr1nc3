@@ -31,9 +31,9 @@
 
 ----
 
-## 2022 (4)
+## 2022 (5)
 
-### 2022 June (1)
+### 2022 June (2)
 
  - [**"Purple Rain: The Story Behind Prince’s Career-Defining Song -- The song most associated with Prince, Purple Rain is an epic power ballad that embodied its creator’s search for transcendence through music."**](https://www.thisisdig.com/feature/purple-rain-prince-song-story/)
     - by [Jason Draper](../../authors/jason-draper/index.md)
@@ -41,6 +41,15 @@
     - on 25 June 2022
     - about [Albert Magnoli](../../topics/albert-magnoli/index.md), [Andrea Swensson](../../topics/andrea-swensson/index.md), [Baby I’m a Star (song)](../../topics/song/baby-i-m-a-star/index.md), [Bob Seger](../../topics/bob-seger/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [Duane Tudahl](../../topics/duane-tudahl/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Fleetwood Mac](../../topics/fleetwood-mac/index.md), [I Would Die 4 U (song)](../../topics/song/i-would-die-4-u/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Lives Of The Musicians: Prince (book)](../../topics/book/lives-of-the-musicians-prince/index.md), [Los Angeles (place)](../../topics/place/los-angeles/index.md), [Novi Novog](../../topics/novi-novog/index.md), [Prince And The Purple Rain Era Studio Sessions 1983 And 1984 (book)](../../topics/book/prince-and-the-purple-rain-era-studio-sessions-1983-and-1984/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [Suzie Katayama](../../topics/suzie-katayama/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.thisisdig.com/feature/purple-rain-prince-song-story/))
+
+<br />
+
+ - [**"Prince’s Night: The Revolution Remember the 1985 Syracuse Concert and the ‘Purple Rain’ Tour -- Biggest "**](https://variety.com/2022/music/news/prince-revolution-live-1985-syracuse-concert-purple-rain-1235286514/)
+    - by [Jem Aswad](../../authors/jem-aswad/index.md)
+    - in [Variety](../../publications/variety/index.md)
+    - on 7 June 2022
+    - about [Bobby Z](../../topics/bobby-z/index.md), [Brown Mark](../../topics/brown-mark/index.md), [Carrier Dome (place)](../../topics/place/carrier-dome/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Matt Fink](../../topics/matt-fink/index.md), [Prince and The Revolution](../../topics/prince-and-the-revolution/index.md), [Prince and The Revolution: Live (album)](../../topics/album/prince-and-the-revolution-live/index.md), [Prince and The Revolution: Live (Blu-ray)](../../topics/blu-ray/prince-and-the-revolution-live/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Purple Rain (tour)](../../topics/tour/purple-rain/index.md), [Syracuse (place)](../../topics/place/syracuse/index.md), [The Revolution](../../topics/the-revolution/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://variety.com/2022/music/news/prince-revolution-live-1985-syracuse-concert-purple-rain-1235286514/))
 
 ----
 

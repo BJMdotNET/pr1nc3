@@ -1,6 +1,13 @@
 # 2008
 
-## November 2008 (1)
+## November 2008 (2)
+
+ - [**"The Beige Bisno Behemoth in Beverly Park"**](https://www.dirt.com/more-dirt/real-estate-listings/the-beige-bisno-behemoth-in-beverly-park-1203475365/)
+    - in [DIRT](../../publications/dirt/index.md)
+    - on 26 November 2008
+    - ([mirror](https://web.archive.org/web/*/https://www.dirt.com/more-dirt/real-estate-listings/the-beige-bisno-behemoth-in-beverly-park-1203475365/))
+
+----
 
  - [**"Prince Sued Over Perfume Deal"**](https://www.billboard.com/articles/business/266253/prince-sued-over-perfume-deal)
     - in [Billboard](../../publications/billboard/index.md)

@@ -1,6 +1,16 @@
 # Spike Lee
 
-## 2020 (1)
+## 2020 (2)
+
+### 2020 June (1)
+
+ - [**"Prince Estate Shares Powerful Handwritten Pro-Tolerance Note on His Birthday"**](https://variety.com/2020/music/news/prince-birthday-note-tolerance-george-floyd-1234627253/)
+    - in [Variety](../../publications/variety/index.md)
+    - on 7 June 2020
+    - about [Detroit (place)](../../topics/place/detroit/index.md), [Love 4 One Another](../../topics/love-4-one-another/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Spike Lee](../../topics/spike-lee/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://variety.com/2020/music/news/prince-birthday-note-tolerance-george-floyd-1234627253/))
+
+----
 
 ### 2020 January (1)
 
@@ -141,6 +151,19 @@
     - on 21 April 2016
     - about [contract](../../topics/contract/index.md), [Glam Slam (place)](../../topics/place/glam-slam/index.md), [Ingrid Chavez](../../topics/ingrid-chavez/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Kate Bush](../../topics/kate-bush/index.md), [Martika](../../topics/martika/index.md), [New Girl (TV show)](../../topics/tv-show/new-girl/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [Paula Abdul](../../topics/paula-abdul/index.md), [royalties](../../topics/royalties/index.md), [Spike Lee](../../topics/spike-lee/index.md), [Standing at the Altar (song)](../../topics/song/standing-at-the-altar/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [The Black Album (album)](../../topics/album/the-black-album/index.md), [Wednesday (song)](../../topics/song/wednesday/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.gq.com/story/prince-interview-inside-paisley-park))
+
+----
+
+## 1996 (1)
+
+### 1996 March (1)
+
+ - [**"Girl 6"**](https://variety.com/1996/film/reviews/girl-6-2-1200445294/)
+    - by [Todd McCarthy](../../authors/todd-mccarthy/index.md)
+    - in [Variety](../../publications/variety/index.md)
+    - on 27 March 1996
+    - about [Girl 6 (album)](../../topics/album/girl-6/index.md), [Girl 6 (movie)](../../topics/movie/girl-6/index.md), [Girl 6 (song)](../../topics/song/girl-6/index.md), [Madonna](../../topics/madonna/index.md), [Spike Lee](../../topics/spike-lee/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://variety.com/1996/film/reviews/girl-6-2-1200445294/))
 
 ----
 

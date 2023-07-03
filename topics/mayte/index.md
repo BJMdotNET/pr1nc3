@@ -490,6 +490,18 @@
 
 ----
 
+## 2012 (1)
+
+### 2012 June (1)
+
+ - [**"Hollywood Exes -- Once you get past the title, these real (or not-so-real) ex-housewives don't have much to say or do, which leads to staged activities, like going for vaginal-rejuvenation treatment."**](https://variety.com/2012/tv/reviews/hollywood-exes-1117947822/)
+    - in [Variety](../../publications/variety/index.md)
+    - on 25 June 2012
+    - about [Eddie Murphy](../../topics/eddie-murphy/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://variety.com/2012/tv/reviews/hollywood-exes-1117947822/))
+
+----
+
 ## 2006 (1)
 
 ### 2006 July (1)

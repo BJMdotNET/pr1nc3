@@ -1,6 +1,16 @@
 # 2023
 
-## June 2023 (12)
+## July 2023 (1)
+
+ - [**"UMG Names Michele Anthony EVP of US Recorded Music"**](https://variety.com/2013/music/news/umg-names-michele-anthony-evp-of-us-recorded-music-1200670631/)
+    - in [Variety](../../publications/variety/index.md)
+    - on 3 July 2023
+    - about [7H Entertainment](../../topics/7h-entertainment/index.md), [Universal Music Group](../../topics/universal-music-group/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://variety.com/2013/music/news/umg-names-michele-anthony-evp-of-us-recorded-music-1200670631/))
+
+----
+
+## June 2023 (13)
 
  - [**"“There’s Guitar Madness All Over This”: Prince Talks Gear, Recording and His Creative Process in This Essential Interview From the ‘Guitar Player’ Vault -- The Artist spoke to ‘GP’ from Paisley Park’s Studio A at a milestone moment in his guitar playing career"**](https://www.guitarplayer.com/players/prince-january-2000-interview-guitar-player)
     - by [Art Thompson](../../authors/art-thompson/index.md), [Rod Brakes](../../authors/rod-brakes/index.md)
@@ -90,6 +100,15 @@
 
 ----
 
+ - [**"Why Prince Changed His Name to an Unpronounceable Symbol 30 Years Ago, and What Happened Next"**](https://variety.com/2023/music/news/prince-symbol-why-he-changed-his-name-1235635422/)
+    - by [Jem Aswad](../../authors/jem-aswad/index.md)
+    - in [Variety](../../publications/variety/index.md)
+    - on 7 June 2023
+    - about [$100 million deal](../../topics/-100-million-deal/index.md), [A&M Records](../../topics/a-m-records/index.md), [advance](../../topics/advance/index.md), [Benny Medina](../../topics/benny-medina/index.md), [contract](../../topics/contract/index.md), [Diamonds and Pearls (album)](../../topics/album/diamonds-and-pearls/index.md), [Eric Leeds](../../topics/eric-leeds/index.md), [Graffiti Bridge (album)](../../topics/album/graffiti-bridge/index.md), [Graffiti Bridge (movie)](../../topics/movie/graffiti-bridge/index.md), [HDMG](../../topics/hdmg/index.md), [hologram](../../topics/hologram/index.md), [Ingrid Chavez](../../topics/ingrid-chavez/index.md), [Jeff Gold](../../topics/jeff-gold/index.md), [Jill Willis](../../topics/jill-willis/index.md), [Justify My Love](../../topics/justify-my-love/index.md), [Kurt Loder](../../topics/kurt-loder/index.md), [Larry King](../../topics/larry-king/index.md), [Lenny Kravitz](../../topics/lenny-kravitz/index.md), [Lenny Waronker](../../topics/lenny-waronker/index.md), [Linda Corradina](../../topics/linda-corradina/index.md), [Love Symbol (album)](../../topics/album/love-symbol/index.md), [Madonna](../../topics/madonna/index.md), [Michael Ostin](../../topics/michael-ostin/index.md), [Michael Pagnotta](../../topics/michael-pagnotta/index.md), [Mo Ostin](../../topics/mo-ostin/index.md), [Rogers and Cowan](../../topics/rogers-and-cowan/index.md), [Suzanne Vega](../../topics/suzanne-vega/index.md), [unpronounceable symbol](../../topics/unpronounceable-symbol/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://variety.com/2023/music/news/prince-symbol-why-he-changed-his-name-1235635422/))
+
+----
+
  - [**"Celebration returns to Paisley Park this week"**](https://spokesman-recorder.com/2023/06/05/celebration-returns-to-paisley-park/)
     - in [Minnesota Spokesman-Recorder](../../publications/minnesota-spokesman-recorder/index.md)
     - on 5 June 2023
@@ -106,7 +125,16 @@
 
 ----
 
-## May 2023 (9)
+## May 2023 (10)
+
+ - [**"In Historic Decision, Supreme Court Rules Andy Warhol’s Images of Prince Violated Photographer’s Copyright"**](https://variety.com/2023/music/news/andy-warhol-prince-images-supreme-court-copyright-1235617622/)
+    - by [Jem Aswad](../../authors/jem-aswad/index.md)
+    - in [Variety](../../publications/variety/index.md)
+    - on 18 May 2023
+    - about [Andy Warhol](../../topics/andy-warhol/index.md), [fair use](../../topics/fair-use/index.md), [Lynn Goldsmith](../../topics/lynn-goldsmith/index.md), [NMPA](../../topics/nmpa/index.md), [Supreme Court](../../topics/supreme-court/index.md), [Vanity Fair (magazine)](../../topics/magazine/vanity-fair/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://variety.com/2023/music/news/andy-warhol-prince-images-supreme-court-copyright-1235617622/))
+
+----
 
  - [**"Supreme Court Rules Against Andy Warhol In Big Copyright Case Over Prince Images -- Music companies feared that a decision for Warhol could have disrupted industry practices for sampling or emboldened AI companies to use copyrighted songs."**](https://www.billboard.com/pro/andy-warhol-prince-supreme-court-copyright-case-ruling/)
     - by [Bill Donahue](../../authors/bill-donahue/index.md)
@@ -183,6 +211,17 @@
     - on 3 May 2023
     - about [Celebration (event)](../../topics/event/celebration/index.md), [Celebration 2023 (event)](../../topics/event/celebration-2023/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [DJ Rashida](../../topics/dj-rashida/index.md), [Doug E. Fresh](../../topics/doug-e-fresh/index.md), [Mint Condition](../../topics/mint-condition/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Rosie Gaines](../../topics/rosie-gaines/index.md), [Sounds of Blackness](../../topics/sounds-of-blackness/index.md), [Stokley](../../topics/stokley/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/paisley-parks-celebration-2023-to-feature-new-unreleased-music-by-prince--performances-by-stokley-sounds-of-blackness-d-nice-shelby-j-doug-e-fresh-members-of-npg-and-more-honoring-princes-music-legacy--global-cultural--301815036.html))
+
+----
+
+## March 2023 (1)
+
+ - [**"Donatella Versace Remembers Late Brother Gianni, Friendship  With Prince and a Supermodel Catfight"**](https://variety.com/2023/scene/news/donatella-versace-gianni-prince-1235544576/)
+    - by [Marc Malkin](../../authors/marc-malkin/index.md)
+    - in [Variety](../../publications/variety/index.md)
+    - on 6 March 2023
+    - about [Donatella Versace](../../topics/donatella-versace/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Versace](../../topics/versace/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://variety.com/2023/scene/news/donatella-versace-gianni-prince-1235544576/))
 
 ----
 

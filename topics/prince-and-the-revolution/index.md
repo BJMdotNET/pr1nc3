@@ -1,6 +1,17 @@
 # Prince and The Revolution
 
-## 2022 (2)
+## 2022 (3)
+
+### 2022 June (1)
+
+ - [**"Prince’s Night: The Revolution Remember the 1985 Syracuse Concert and the ‘Purple Rain’ Tour -- Biggest "**](https://variety.com/2022/music/news/prince-revolution-live-1985-syracuse-concert-purple-rain-1235286514/)
+    - by [Jem Aswad](../../authors/jem-aswad/index.md)
+    - in [Variety](../../publications/variety/index.md)
+    - on 7 June 2022
+    - about [Bobby Z](../../topics/bobby-z/index.md), [Brown Mark](../../topics/brown-mark/index.md), [Carrier Dome (place)](../../topics/place/carrier-dome/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Matt Fink](../../topics/matt-fink/index.md), [Prince and The Revolution](../../topics/prince-and-the-revolution/index.md), [Prince and The Revolution: Live (album)](../../topics/album/prince-and-the-revolution-live/index.md), [Prince and The Revolution: Live (Blu-ray)](../../topics/blu-ray/prince-and-the-revolution-live/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Purple Rain (tour)](../../topics/tour/purple-rain/index.md), [Syracuse (place)](../../topics/place/syracuse/index.md), [The Revolution](../../topics/the-revolution/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://variety.com/2022/music/news/prince-revolution-live-1985-syracuse-concert-purple-rain-1235286514/))
+
+----
 
 ### 2022 May (2)
 
@@ -30,6 +41,19 @@
     - on 25 June 2021
     - about [Alan Leeds](../../topics/alan-leeds/index.md), [Albert Magnoli](../../topics/albert-magnoli/index.md), [Apollonia](../../topics/apollonia/index.md), [Apollonia 6](../../topics/apollonia-6/index.md), [Baby I’m a Star (song)](../../topics/song/baby-i-m-a-star/index.md), [BrownMark](../../topics/brownmark/index.md), [Bruce Springsteen](../../topics/bruce-springsteen/index.md), [Computer Blue (song)](../../topics/song/computer-blue/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [I Would Die 4 U (song)](../../topics/song/i-would-die-4-u/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Lives Of The Musicians: Prince (book)](../../topics/book/lives-of-the-musicians-prince/index.md), [Morris Day](../../topics/morris-day/index.md), [Parental Advisory](../../topics/parental-advisory/index.md), [Parents Music Resource Center](../../topics/parents-music-resource-center/index.md), [Patricia Kotero](../../topics/patricia-kotero/index.md), [Peggy McCreary](../../topics/peggy-mccreary/index.md), [Prince and The Revolution](../../topics/prince-and-the-revolution/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Purple Rain (tour)](../../topics/tour/purple-rain/index.md), [Sheena Easton](../../topics/sheena-easton/index.md), [Steve Fargnoli](../../topics/steve-fargnoli/index.md), [Sugar Walls (song)](../../topics/song/sugar-walls/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Beautiful Ones (song)](../../topics/song/the-beautiful-ones/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.thisisdig.com/feature/prince-purple-rain-album/))
+
+----
+
+## 2018 (1)
+
+### 2018 June (1)
+
+ - [**"Prince the Prankster, Part 2: Phone Gags, a Stuffed Penguin, and Sharing a Bathroom With Justin Timberlake"**](https://variety.com/2018/music/news/prince-the-prankster-part-2-phone-gags-a-stuffed-penguin-and-sharing-a-bathroom-with-justin-timberlake-1202835547/)
+    - by [Jem Aswad](../../authors/jem-aswad/index.md)
+    - in [Variety](../../publications/variety/index.md)
+    - on 7 June 2018
+    - about [777-9311 (song)](../../topics/song/777-9311/index.md), [Bobby Z](../../topics/bobby-z/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [Lionel Richie](../../topics/lionel-richie/index.md), [Morris Hayes](../../topics/morris-hayes/index.md), [NBC](../../topics/nbc/index.md), [Prince and The Revolution](../../topics/prince-and-the-revolution/index.md), [Raphael Saadiq](../../topics/raphael-saadiq/index.md), [Rebekah Alperin](../../topics/rebekah-alperin/index.md), [Romance 1600 (album)](../../topics/album/romance-1600/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [The Revolution](../../topics/the-revolution/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://variety.com/2018/music/news/prince-the-prankster-part-2-phone-gags-a-stuffed-penguin-and-sharing-a-bathroom-with-justin-timberlake-1202835547/))
 
 ----
 

@@ -22,9 +22,9 @@
 
 ----
 
-## 2022 (4)
+## 2022 (5)
 
-### 2022 June (1)
+### 2022 June (2)
 
  - [**"Purple Rain: The Story Behind Prince’s Career-Defining Song -- The song most associated with Prince, Purple Rain is an epic power ballad that embodied its creator’s search for transcendence through music."**](https://www.thisisdig.com/feature/purple-rain-prince-song-story/)
     - by [Jason Draper](../../authors/jason-draper/index.md)
@@ -32,6 +32,15 @@
     - on 25 June 2022
     - about [Albert Magnoli](../../topics/albert-magnoli/index.md), [Andrea Swensson](../../topics/andrea-swensson/index.md), [Baby I’m a Star (song)](../../topics/song/baby-i-m-a-star/index.md), [Bob Seger](../../topics/bob-seger/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [Duane Tudahl](../../topics/duane-tudahl/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Fleetwood Mac](../../topics/fleetwood-mac/index.md), [I Would Die 4 U (song)](../../topics/song/i-would-die-4-u/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Lives Of The Musicians: Prince (book)](../../topics/book/lives-of-the-musicians-prince/index.md), [Los Angeles (place)](../../topics/place/los-angeles/index.md), [Novi Novog](../../topics/novi-novog/index.md), [Prince And The Purple Rain Era Studio Sessions 1983 And 1984 (book)](../../topics/book/prince-and-the-purple-rain-era-studio-sessions-1983-and-1984/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [Suzie Katayama](../../topics/suzie-katayama/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.thisisdig.com/feature/purple-rain-prince-song-story/))
+
+<br />
+
+ - [**"Prince’s Night: The Revolution Remember the 1985 Syracuse Concert and the ‘Purple Rain’ Tour -- Biggest "**](https://variety.com/2022/music/news/prince-revolution-live-1985-syracuse-concert-purple-rain-1235286514/)
+    - by [Jem Aswad](../../authors/jem-aswad/index.md)
+    - in [Variety](../../publications/variety/index.md)
+    - on 7 June 2022
+    - about [Bobby Z](../../topics/bobby-z/index.md), [Brown Mark](../../topics/brown-mark/index.md), [Carrier Dome (place)](../../topics/place/carrier-dome/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Matt Fink](../../topics/matt-fink/index.md), [Prince and The Revolution](../../topics/prince-and-the-revolution/index.md), [Prince and The Revolution: Live (album)](../../topics/album/prince-and-the-revolution-live/index.md), [Prince and The Revolution: Live (Blu-ray)](../../topics/blu-ray/prince-and-the-revolution-live/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Purple Rain (tour)](../../topics/tour/purple-rain/index.md), [Syracuse (place)](../../topics/place/syracuse/index.md), [The Revolution](../../topics/the-revolution/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://variety.com/2022/music/news/prince-revolution-live-1985-syracuse-concert-purple-rain-1235286514/))
 
 ----
 
@@ -63,7 +72,7 @@
 
 ----
 
-## 2021 (2)
+## 2021 (3)
 
 ### 2021 December (1)
 
@@ -75,7 +84,7 @@
 
 ----
 
-### 2021 June (1)
+### 2021 June (2)
 
  - [**"Purple Rain: How Prince Stormed His Way To Superstardom -- Creating the zeitgeist, Prince’s ‘Purple Rain’ era raised the bars for music, cinema and live performance. No one has come close since."**](https://www.thisisdig.com/feature/prince-purple-rain-album/)
     - by [Jason Draper](../../authors/jason-draper/index.md)
@@ -83,6 +92,15 @@
     - on 25 June 2021
     - about [Alan Leeds](../../topics/alan-leeds/index.md), [Albert Magnoli](../../topics/albert-magnoli/index.md), [Apollonia](../../topics/apollonia/index.md), [Apollonia 6](../../topics/apollonia-6/index.md), [Baby I’m a Star (song)](../../topics/song/baby-i-m-a-star/index.md), [BrownMark](../../topics/brownmark/index.md), [Bruce Springsteen](../../topics/bruce-springsteen/index.md), [Computer Blue (song)](../../topics/song/computer-blue/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [I Would Die 4 U (song)](../../topics/song/i-would-die-4-u/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Lives Of The Musicians: Prince (book)](../../topics/book/lives-of-the-musicians-prince/index.md), [Morris Day](../../topics/morris-day/index.md), [Parental Advisory](../../topics/parental-advisory/index.md), [Parents Music Resource Center](../../topics/parents-music-resource-center/index.md), [Patricia Kotero](../../topics/patricia-kotero/index.md), [Peggy McCreary](../../topics/peggy-mccreary/index.md), [Prince and The Revolution](../../topics/prince-and-the-revolution/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Purple Rain (tour)](../../topics/tour/purple-rain/index.md), [Sheena Easton](../../topics/sheena-easton/index.md), [Steve Fargnoli](../../topics/steve-fargnoli/index.md), [Sugar Walls (song)](../../topics/song/sugar-walls/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Beautiful Ones (song)](../../topics/song/the-beautiful-ones/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.thisisdig.com/feature/prince-purple-rain-album/))
+
+<br />
+
+ - [**"‘Studio Sessions 1985-1986’ Is a Deep, Deep Dive on Prince’s Peak Years: Book Review"**](https://variety.com/2021/music/reviews/prince-parade-sign-times-studio-sessions-1985-1986-book-review-1234989823/)
+    - by [Jem Aswad](../../authors/jem-aswad/index.md)
+    - in [Variety](../../publications/variety/index.md)
+    - on 7 June 2021
+    - about [Chick Huntsberry](../../topics/chick-huntsberry/index.md), [Duane Tudahl](../../topics/duane-tudahl/index.md), [Housequake (song)](../../topics/song/housequake/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Parade (album)](../../topics/album/parade/index.md), [Prince & The Revolution](../../topics/prince-the-revolution/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [The Revolution](../../topics/the-revolution/index.md), [U Got the Look (song)](../../topics/song/u-got-the-look/index.md), [vault](../../topics/vault/index.md), [We Are the World (song)](../../topics/song/we-are-the-world/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://variety.com/2021/music/reviews/prince-parade-sign-times-studio-sessions-1985-1986-book-review-1234989823/))
 
 ----
 
@@ -101,6 +119,7 @@
 ### 2020 June (1)
 
  - [**"Prince’s Classic ‘Sign O’ the Times’ Deluxe Reissue Coming in September, With 63 Bonus Tracks"**](https://variety.com/2020/music/news/prince-sign-o-the-times-deluxe-reissue-bonus-tracks-1234689805/)
+    - by [Jem Aswad](../../authors/jem-aswad/index.md)
     - in [Variety](../../publications/variety/index.md)
     - on 25 June 2020
     - about [Andrea Swensson](../../topics/andrea-swensson/index.md), [bootleg](../../topics/bootleg/index.md), [Daphne A. Brooks](../../topics/daphne-a-brooks/index.md), [Dave Chappelle](../../topics/dave-chappelle/index.md), [Dream Factory (album)](../../topics/album/dream-factory/index.md), [Duane Tudahl](../../topics/duane-tudahl/index.md), [I Could Never Take The Place Of Your Man (song)](../../topics/song/i-could-never-take-the-place-of-your-man/index.md), [Jeff Katz](../../topics/jeff-katz/index.md), [Lenny Kravitz](../../topics/lenny-kravitz/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [The Revolution](../../topics/the-revolution/index.md), [U Got the Look (song)](../../topics/song/u-got-the-look/index.md), [vault](../../topics/vault/index.md), [Witness 4 The Prosecution (song)](../../topics/song/witness-4-the-prosecution/index.md)
@@ -431,6 +450,7 @@
 <br />
 
  - [**"Album Preview: Prince’s Sprawling, Six-Disc ‘1999’ Deluxe Reissue"**](https://variety.com/2019/music/news/album-preview-princes-sprawling-six-disc-1999-deluxe-reissue-1203415514/)
+    - by [Jem Aswad](../../authors/jem-aswad/index.md)
     - in [Variety](../../publications/variety/index.md)
     - on 25 November 2019
     - about [1999 (album)](../../topics/album/1999/index.md), [Bold Generation (song)](../../topics/song/bold-generation/index.md), [bootleg](../../topics/bootleg/index.md), [Can’t Stop This Feeling I Got (song)](../../topics/song/can-t-stop-this-feeling-i-got/index.md), [Feel U Up (song)](../../topics/song/feel-u-up/index.md), [Graffiti Bridge (album)](../../topics/album/graffiti-bridge/index.md), [Horny Toad (song)](../../topics/song/horny-toad/index.md), [If It’ll Make U Happy (song)](../../topics/song/if-it-ll-make-u-happy/index.md), [Irresistible Bitch (song)](../../topics/song/irresistible-bitch/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Matt Fink](../../topics/matt-fink/index.md), [No Call U (song)](../../topics/song/no-call-u/index.md), [Piano & A Microphone 1983 (album)](../../topics/album/piano-a-microphone-1983/index.md), [Purple Music (song)](../../topics/song/purple-music/index.md), [Rearrange (song)](../../topics/song/rearrange/index.md), [The Revolution](../../topics/the-revolution/index.md), [Vagina (song)](../../topics/song/vagina/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md), [Yah, You Know (song)](../../topics/song/yah-you-know/index.md), [You’re All I Want (song)](../../topics/song/you-re-all-i-want/index.md)
@@ -766,7 +786,7 @@
 
 ----
 
-## 2018 (18)
+## 2018 (19)
 
 ### 2018 December (2)
 
@@ -848,13 +868,22 @@
 
 ----
 
-### 2018 June (1)
+### 2018 June (2)
 
  - [**"AM Prep-Music -- FILM ACADEMY INVITES ETHERIDGE, LAMAR TO JOIN"**](https://apnews.com/755479884aae40f38493176035af1f3e)
     - in [Associated Press News](../../publications/associated-press-news/index.md)
     - on 26 June 2018
     - about [Questlove](../../topics/questlove/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/755479884aae40f38493176035af1f3e))
+
+<br />
+
+ - [**"Prince the Prankster, Part 2: Phone Gags, a Stuffed Penguin, and Sharing a Bathroom With Justin Timberlake"**](https://variety.com/2018/music/news/prince-the-prankster-part-2-phone-gags-a-stuffed-penguin-and-sharing-a-bathroom-with-justin-timberlake-1202835547/)
+    - by [Jem Aswad](../../authors/jem-aswad/index.md)
+    - in [Variety](../../publications/variety/index.md)
+    - on 7 June 2018
+    - about [777-9311 (song)](../../topics/song/777-9311/index.md), [Bobby Z](../../topics/bobby-z/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [Lionel Richie](../../topics/lionel-richie/index.md), [Morris Hayes](../../topics/morris-hayes/index.md), [NBC](../../topics/nbc/index.md), [Prince and The Revolution](../../topics/prince-and-the-revolution/index.md), [Raphael Saadiq](../../topics/raphael-saadiq/index.md), [Rebekah Alperin](../../topics/rebekah-alperin/index.md), [Romance 1600 (album)](../../topics/album/romance-1600/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [The Revolution](../../topics/the-revolution/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://variety.com/2018/music/news/prince-the-prankster-part-2-phone-gags-a-stuffed-penguin-and-sharing-a-bathroom-with-justin-timberlake-1202835547/))
 
 ----
 

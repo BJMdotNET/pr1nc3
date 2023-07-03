@@ -1,8 +1,17 @@
 # Andy Warhol
 
-## 2023 (2)
+## 2023 (3)
 
-### 2023 May (2)
+### 2023 May (3)
+
+ - [**"In Historic Decision, Supreme Court Rules Andy Warhol’s Images of Prince Violated Photographer’s Copyright"**](https://variety.com/2023/music/news/andy-warhol-prince-images-supreme-court-copyright-1235617622/)
+    - by [Jem Aswad](../../authors/jem-aswad/index.md)
+    - in [Variety](../../publications/variety/index.md)
+    - on 18 May 2023
+    - about [Andy Warhol](../../topics/andy-warhol/index.md), [fair use](../../topics/fair-use/index.md), [Lynn Goldsmith](../../topics/lynn-goldsmith/index.md), [NMPA](../../topics/nmpa/index.md), [Supreme Court](../../topics/supreme-court/index.md), [Vanity Fair (magazine)](../../topics/magazine/vanity-fair/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://variety.com/2023/music/news/andy-warhol-prince-images-supreme-court-copyright-1235617622/))
+
+<br />
 
  - [**"Supreme Court Rules Against Andy Warhol In Big Copyright Case Over Prince Images -- Music companies feared that a decision for Warhol could have disrupted industry practices for sampling or emboldened AI companies to use copyrighted songs."**](https://www.billboard.com/pro/andy-warhol-prince-supreme-court-copyright-case-ruling/)
     - by [Bill Donahue](../../authors/bill-donahue/index.md)
