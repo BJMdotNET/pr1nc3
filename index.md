@@ -8,7 +8,7 @@
   * [topics](./topics/index.md)
 
 ## Notes:
-  * There are approximately 1808 links.
+  * There are approximately 1844 links.
   * Some links might be duplicates, e.g. some AP News articles are linked through multiple links.
   * Some articles might be duplicated, usually because for instance an AP News article is republished elsewhere.
      * I try to avoid including such republished articles, but likely I've missed some instances.
