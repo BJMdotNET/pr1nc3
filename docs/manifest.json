@@ -1223,6 +1223,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "authors/nick-dager/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/nick-dager/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "authors/nicole-neri/index.md",
       "output": {
         ".html": {
@@ -8162,6 +8172,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "publications/pr-newswire/pr-newswire-2022.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/pr-newswire/pr-newswire-2022.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "publications/pr-newswire/pr-newswire-2023.md",
       "output": {
         ".html": {
@@ -12843,6 +12863,39 @@
       "output": {
         ".html": {
           "relative_path": "publications/www-deseret-com/www-deseret-com-1991.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/www-digitalcinemareport-com/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/www-digitalcinemareport-com/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "publications/www-digitalcinemareport-com/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "publications/www-digitalcinemareport-com/toc.html"
+        },
+        ".json": {
+          "relative_path": "publications/www-digitalcinemareport-com/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/www-digitalcinemareport-com/www-digitalcinemareport-com-2022.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/www-digitalcinemareport-com/www-digitalcinemareport-com-2022.html"
         }
       },
       "version": ""
@@ -17818,10 +17871,30 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/dft/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/dft/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/dick-clark/index.md",
       "output": {
         ".html": {
           "relative_path": "topics/dick-clark/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/digitalfilm-tree/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/digitalfilm-tree/index.html"
         }
       },
       "version": ""
@@ -18062,6 +18135,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/dvd/prince-live-at-the-aladdin-las-vegas/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/dylan-chudzynski/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/dylan-chudzynski/index.html"
         }
       },
       "version": ""
@@ -19022,6 +19105,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/greg-brooker/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/greg-filkins/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/greg-filkins/index.html"
         }
       },
       "version": ""
@@ -22208,6 +22301,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/ntsc/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/ntsc/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/o-j-simpson/index.md",
       "output": {
         ".html": {
@@ -23322,6 +23425,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/place/new-orleans/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/place/new-york/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/place/new-york/index.html"
         }
       },
       "version": ""
@@ -27152,6 +27265,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/the-way-we-wore/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/thomas-galyon/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/thomas-galyon/index.html"
         }
       },
       "version": ""
