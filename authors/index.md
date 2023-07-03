@@ -134,6 +134,7 @@
   * [Mike Hughlett](./mike-hughlett/index.md) (1)
   * [Neal Justin](./neal-justin/index.md) (11)
   * [Neal Karlen](./neal-karlen/index.md) (1)
+  * [Nick Dager](./nick-dager/index.md) (1)
   * [Nicole Neri](./nicole-neri/index.md) (1)
   * [Nicole Norfleet](./nicole-norfleet/index.md) (1)
   * [Padraig Cotter](./padraig-cotter/index.md) (1)

@@ -812,6 +812,9 @@ items:
 - name: www.deseret.com
   href: www-deseret-com/index.md
   homepage: www-deseret-com/index.md
+- name: www.digitalcinemareport.com
+  href: www-digitalcinemareport-com/index.md
+  homepage: www-digitalcinemareport-com/index.md
 - name: www.diyphotography.net
   href: www-diyphotography-net/index.md
   homepage: www-diyphotography-net/index.md
