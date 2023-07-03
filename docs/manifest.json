@@ -13,6 +13,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "authors/a-d-amorosi/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/a-d-amorosi/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "authors/aimee-blanchette/index.md",
       "output": {
         ".html": {
@@ -37,6 +47,16 @@
       "output": {
         ".html": {
           "relative_path": "authors/alex-johnson/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "authors/amber-dowling/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/amber-dowling/index.html"
         }
       },
       "version": ""
@@ -1053,6 +1073,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "authors/marc-malkin/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/marc-malkin/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "authors/mark-reilly/index.md",
       "output": {
         ".html": {
@@ -1413,6 +1443,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "authors/shirley-ju/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/shirley-ju/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "authors/stephen-cooke/index.md",
       "output": {
         ".html": {
@@ -1616,6 +1656,26 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "authors/todd-mccarthy/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/todd-mccarthy/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "authors/todd-spangler/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/todd-spangler/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "authors/tom-foster/index.md",
       "output": {
         ".html": {
@@ -1766,6 +1826,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "dates/1993/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "dates/1993/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "dates/1994/index.md",
       "output": {
         ".html": {
@@ -1786,10 +1856,30 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "dates/1996/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "dates/1996/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "dates/1997/index.md",
       "output": {
         ".html": {
           "relative_path": "dates/1997/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dates/1998/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "dates/1998/index.html"
         }
       },
       "version": ""
@@ -1860,6 +1950,16 @@
       "output": {
         ".html": {
           "relative_path": "dates/2006/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dates/2007/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "dates/2007/index.html"
         }
       },
       "version": ""
@@ -4361,6 +4461,69 @@
         },
         ".json": {
           "relative_path": "publications/digitaleditions-sheridan-com/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/dirt/dirt-2007.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/dirt/dirt-2007.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/dirt/dirt-2008.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/dirt/dirt-2008.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/dirt/dirt-2009.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/dirt/dirt-2009.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/dirt/dirt-2015.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/dirt/dirt-2015.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/dirt/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/dirt/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "publications/dirt/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "publications/dirt/toc.html"
+        },
+        ".json": {
+          "relative_path": "publications/dirt/toc.json"
         }
       },
       "version": ""
@@ -11505,6 +11668,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "publications/variety/variety-1993.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/variety/variety-1993.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "publications/variety/variety-1994.md",
       "output": {
         ".html": {
@@ -11525,10 +11698,110 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "publications/variety/variety-1996.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/variety/variety-1996.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/variety/variety-1998.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/variety/variety-1998.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "publications/variety/variety-1999.md",
       "output": {
         ".html": {
           "relative_path": "publications/variety/variety-1999.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/variety/variety-2001.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/variety/variety-2001.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/variety/variety-2006.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/variety/variety-2006.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/variety/variety-2009.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/variety/variety-2009.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/variety/variety-2011.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/variety/variety-2011.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/variety/variety-2012.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/variety/variety-2012.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/variety/variety-2013.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/variety/variety-2013.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/variety/variety-2014.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/variety/variety-2014.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/variety/variety-2015.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/variety/variety-2015.html"
         }
       },
       "version": ""
@@ -11579,6 +11852,36 @@
       "output": {
         ".html": {
           "relative_path": "publications/variety/variety-2020.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/variety/variety-2021.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/variety/variety-2021.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/variety/variety-2022.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/variety/variety-2022.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/variety/variety-2023.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/variety/variety-2023.html"
         }
       },
       "version": ""
@@ -14645,6 +14948,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/-100-million-deal/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/-100-million-deal/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/-weird-al-yankovic/index.md",
       "output": {
         ".html": {
@@ -14659,6 +14972,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/3rdeyegirl/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/7h-entertainment/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/7h-entertainment/index.html"
         }
       },
       "version": ""
@@ -15105,6 +15428,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/album/girl-6/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/album/girl-6/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/album/graffiti-bridge/index.md",
       "output": {
         ".html": {
@@ -15149,6 +15482,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/album/lotusflow3r/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/album/love-symbol/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/album/love-symbol/index.html"
         }
       },
       "version": ""
@@ -17235,6 +17578,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/danileigh/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/danileigh/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/danny-elfman/index.md",
       "output": {
         ".html": {
@@ -17599,6 +17952,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/donald-trump/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/donatella-versace/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/donatella-versace/index.html"
         }
       },
       "version": ""
@@ -18785,6 +19148,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/hdmg/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/hdmg/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/helen-hiatt/index.md",
       "output": {
         ".html": {
@@ -18829,6 +19202,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/heritage-auctions/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/holly-robinson-peete/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/holly-robinson-peete/index.html"
         }
       },
       "version": ""
@@ -19305,6 +19688,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/jeff-gold/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/jeff-gold/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/jeff-katz/index.md",
       "output": {
         ".html": {
@@ -19745,6 +20138,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/justify-my-love/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/justify-my-love/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/justin-timberlake/index.md",
       "output": {
         ".html": {
@@ -19995,6 +20398,26 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/kristen-zschomler/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/kristen-zschomler/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/kurt-loder/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/kurt-loder/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/l-londell-mcmillan/index.md",
       "output": {
         ".html": {
@@ -20029,6 +20452,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/larry-graham/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/larry-king/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/larry-king/index.html"
         }
       },
       "version": ""
@@ -20199,6 +20632,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/lincoln-square-prods/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/linda-corradina/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/linda-corradina/index.html"
         }
       },
       "version": ""
@@ -20605,6 +21048,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/mariah-carey/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/mariah-carey/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/mark-canton/index.md",
       "output": {
         ".html": {
@@ -20719,6 +21172,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/matt-larson/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/matt-liddy/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/matt-liddy/index.html"
         }
       },
       "version": ""
@@ -20965,6 +21428,26 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/michael-ostin/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/michael-ostin/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/michael-pagnotta/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/michael-pagnotta/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/michael-schulenberg/index.md",
       "output": {
         ".html": {
@@ -20995,6 +21478,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/michael-white/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/michael-white/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/michele-vicino/index.md",
       "output": {
         ".html": {
@@ -21009,6 +21502,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/michelle-ebanks/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/mick-jagger/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/mick-jagger/index.html"
         }
       },
       "version": ""
@@ -21205,6 +21708,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/monte-lipman/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/monte-lipman/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/monte-moir/index.md",
       "output": {
         ".html": {
@@ -21299,6 +21812,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/movie/ghostbusters/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/movie/girl-6/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/movie/girl-6/index.html"
         }
       },
       "version": ""
@@ -21439,6 +21962,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/national-music-publishers-association/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/nbc/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/nbc/index.html"
         }
       },
       "version": ""
@@ -22325,6 +22858,26 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/place/club-nokia/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/place/club-nokia/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/place/conga-room/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/place/conga-room/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/place/country-inn-suites/index.md",
       "output": {
         ".html": {
@@ -22779,6 +23332,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/place/nicollet-mall/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/place/nokia-theater/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/place/nokia-theater/index.html"
         }
       },
       "version": ""
@@ -23535,6 +24098,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/rebekah-alperin/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/rebekah-alperin/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/rebuild-the-dream/index.md",
       "output": {
         ".html": {
@@ -23599,6 +24172,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/revelations/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/rhino-records/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/rhino-records/index.html"
         }
       },
       "version": ""
@@ -23805,6 +24388,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/rogers-and-cowan/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/rogers-and-cowan/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/rogue-music-alliance-llc/index.md",
       "output": {
         ".html": {
@@ -23839,6 +24432,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/ron-scofield/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/ronnie-kitchen/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/ronnie-kitchen/index.html"
         }
       },
       "version": ""
@@ -24089,6 +24692,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/skip-brittenham/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/skipper/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/skipper/index.html"
         }
       },
       "version": ""
@@ -24675,6 +25288,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/song/girl-6/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/song/girl-6/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/song/got-a-broken-heart-again/index.md",
       "output": {
         ".html": {
@@ -24709,6 +25332,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/song/heart-of-mine/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/song/holly-don-t-care/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/song/holly-don-t-care/index.html"
         }
       },
       "version": ""
@@ -26355,6 +26988,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/terrance-jackson/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/terrance-jackson/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/terry-casey/index.md",
       "output": {
         ".html": {
@@ -27068,6 +27711,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/unpronounceable-symbol/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/unpronounceable-symbol/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/usher/index.md",
       "output": {
         ".html": {
@@ -27262,6 +27915,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/wcco-tv/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/wcco/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/wcco/index.html"
         }
       },
       "version": ""
