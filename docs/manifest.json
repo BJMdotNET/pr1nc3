@@ -63,6 +63,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "authors/ana-monroy-yglesias/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/ana-monroy-yglesias/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "authors/andrea-swensson/index.md",
       "output": {
         ".html": {
@@ -573,6 +583,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "authors/daniel-griffiths/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/daniel-griffiths/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "authors/david-chanen/index.md",
       "output": {
         ".html": {
@@ -777,6 +797,16 @@
       "output": {
         ".html": {
           "relative_path": "authors/jackie-crosby/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "authors/jae-bryson/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/jae-bryson/index.html"
         }
       },
       "version": ""
@@ -5148,6 +5178,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "publications/fox-9/fox-9-2023.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/fox-9/fox-9-2023.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "publications/fox-9/index.md",
       "output": {
         ".html": {
@@ -6988,6 +7028,16 @@
       "version": ""
     },
     {
+      "type": "Conceptual",
+      "source_relative_path": "publications/mpr-news-minnesota-public-radio/mpr-news-minnesota-public-radio-2023.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/mpr-news-minnesota-public-radio/mpr-news-minnesota-public-radio-2023.html"
+        }
+      },
+      "version": ""
+    },
+    {
       "type": "Toc",
       "source_relative_path": "publications/mpr-news-minnesota-public-radio/toc.yml",
       "output": {
@@ -7181,6 +7231,26 @@
       "output": {
         ".html": {
           "relative_path": "publications/musicradar/musicradar-2019.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/musicradar/musicradar-2021.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/musicradar/musicradar-2021.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/musicradar/musicradar-2023.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/musicradar/musicradar-2023.html"
         }
       },
       "version": ""
@@ -10056,6 +10126,16 @@
       "output": {
         ".html": {
           "relative_path": "publications/the-grammys/the-grammys-2020.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/the-grammys/the-grammys-2021.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/the-grammys/the-grammys-2021.html"
         }
       },
       "version": ""
@@ -16521,6 +16601,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/black-music-project/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/black-music-project/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/blu-ray/index.md",
       "output": {
         ".html": {
@@ -17351,6 +17441,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/christopher-fuller/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/christopher-fuller/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/christopher-reeve/index.md",
       "output": {
         ".html": {
@@ -17545,6 +17645,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/cyndi-lauper/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/cynthia-johnson/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/cynthia-johnson/index.html"
         }
       },
       "version": ""
@@ -18005,6 +18115,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/don-batts/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/donald-byrd/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/donald-byrd/index.html"
         }
       },
       "version": ""
@@ -18745,6 +18865,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/flyte-tyme-productions/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/flyte-tyme/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/flyte-tyme/index.html"
         }
       },
       "version": ""
@@ -19681,6 +19811,26 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/jam-and-lewis/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/jam-and-lewis/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/jam-lewis/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/jam-lewis/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/james-brown/index.md",
       "output": {
         ".html": {
@@ -19795,6 +19945,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/jeff-katz/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/jeff-taylor/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/jeff-taylor/index.html"
         }
       },
       "version": ""
@@ -19925,6 +20085,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/jim-olson/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/jimmy-jam-harris/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/jimmy-jam-harris/index.html"
         }
       },
       "version": ""
@@ -21661,6 +21831,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/minneapolis-sound-museum/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/minneapolis-sound-museum/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/minnesota-dance-theatre/index.md",
       "output": {
         ".html": {
@@ -22175,6 +22355,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/nick-hornby/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/nicollet-avenue/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/nicollet-avenue/index.html"
         }
       },
       "version": ""
@@ -23095,6 +23285,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/place/flying-cloud-drive/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/place/flyte-tyme-studios/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/place/flyte-tyme-studios/index.html"
         }
       },
       "version": ""
@@ -25371,6 +25571,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/song/flight-time/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/song/flight-time/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/song/free-urself/index.md",
       "output": {
         ".html": {
@@ -26541,6 +26751,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/song/what-have-you-done-for-me-lately/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/song/what-have-you-done-for-me-lately/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/song/what-if/index.md",
       "output": {
         ".html": {
@@ -26865,6 +27085,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/stevie-wonder/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/stokely-williams/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/stokely-williams/index.html"
         }
       },
       "version": ""
