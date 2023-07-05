@@ -109,6 +109,18 @@
 
 ----
 
+## 2015 (1)
+
+### 2015 July (1)
+
+ - [**"Prince Announces Multiple London Shows -- (AP Archive)"**](https://www.youtube.com/watch?v=en7vN2tIm7c)
+    - in [YouTube](../../../publications/youtube/index.md)
+    - on 21 July 2015
+    - about [London (place)](../../../topics/place/london/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.youtube.com/watch?v=en7vN2tIm7c))
+
+----
+
 ## 2014 (2)
 
 ### 2014 February (2)

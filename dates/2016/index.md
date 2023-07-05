@@ -99,7 +99,7 @@
 
 ----
 
-## November 2016 (14)
+## November 2016 (15)
 
  - [**"Around the state: Paisley Park to host Prince celebration"**](https://apnews.com/61839c62b9d94fec885fbf304d279168)
     - in [Associated Press News](../../publications/associated-press-news/index.md)
@@ -155,6 +155,14 @@
     - on 19 November 2016
     - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Alan Leeds](../../topics/alan-leeds/index.md), [Apollonia 6](../../topics/apollonia-6/index.md), [Art Official Age (album)](../../topics/album/art-official-age/index.md), [Batdance (song)](../../topics/song/batdance/index.md), [Big Daddy Kane](../../topics/big-daddy-kane/index.md), [Dance With the Devil (song)](../../topics/song/dance-with-the-devil/index.md), [Donna Grantis](../../topics/donna-grantis/index.md), [Electric Chair (song)](../../topics/song/electric-chair/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [George Clinton](../../topics/george-clinton/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [Ingrid Chavez](../../topics/ingrid-chavez/index.md), [James Brown](../../topics/james-brown/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Jon Bream](../../topics/jon-bream/index.md), [Joshua Welton](../../topics/joshua-welton/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [LotusFlow3r (album)](../../topics/album/lotusflow3r/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Mayte](../../topics/mayte/index.md), [museum](../../topics/museum/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [One Nite Alone (album)](../../topics/album/one-nite-alone/index.md), [Purple Music (song)](../../topics/song/purple-music/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [The Ballad Of Dorothy Parker (song)](../../topics/song/the-ballad-of-dorothy-parker/index.md), [The Gold Experience (album)](../../topics/album/the-gold-experience/index.md), [vault](../../topics/vault/index.md), [Vicki Waiting (song)](../../topics/song/vicki-waiting/index.md)
     - ([mirror](https://web.archive.org/web/*/https://medium.com/cuepoint/prince-the-vault-the-10-things-that-should-and-shouldnt-happen-ad96cc58999f))
+
+----
+
+ - [**"Chaka Khan talks about the endurance of Prince's music backstage at the Prince tribute concert -- (AP Archive)"**](https://www.youtube.com/watch?v=Ek1zk8VmHkQ)
+    - in [YouTube](../../publications/youtube/index.md)
+    - on 17 November 2016
+    - about [Anita Baker](../../topics/anita-baker/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Christina Aguilera](../../topics/christina-aguilera/index.md), [Doug E. Fresh](../../topics/doug-e-fresh/index.md), [Jessie J](../../topics/jessie-j/index.md), [John Mayer](../../topics/john-mayer/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Tori Kelly](../../topics/tori-kelly/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.youtube.com/watch?v=Ek1zk8VmHkQ))
 
 ----
 

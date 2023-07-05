@@ -22,7 +22,17 @@
 
 ----
 
-## 2022 (7)
+## 2022 (8)
+
+### 2022 October (1)
+
+ - [**"Why Did Prince & The Revolution Split? Engineer Susan Rogers Shares. Sunset Sound Roundtable -- (Sunset Sound Recorders)"**](https://www.youtube.com/watch?v=z3U4hJP9gbc)
+    - in [YouTube](../../publications/youtube/index.md)
+    - on 21 October 2022
+    - about [Prince & The Revolution](../../topics/prince-the-revolution/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [The Revolution](../../topics/the-revolution/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.youtube.com/watch?v=z3U4hJP9gbc))
+
+----
 
 ### 2022 June (4)
 
@@ -976,7 +986,7 @@
 
 ----
 
-## 2017 (20)
+## 2017 (26)
 
 ### 2017 December (3)
 
@@ -1051,7 +1061,7 @@
 
 ----
 
-### 2017 May (1)
+### 2017 May (5)
 
  - [**"Another Track Drops From Prince’s ‘Purple Rain’ Deluxe Edition: ‘Our Destiny’/’Roadhouse Garden’"**](https://variety.com/2017/music/news/prince-purple-rain-deluxe-new-song-our-destiny-roadhouse-garden-1202424644/)
     - in [Variety](../../publications/variety/index.md)
@@ -1059,9 +1069,41 @@
     - about [First Avenue (place)](../../topics/place/first-avenue/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Our Destiny (song)](../../topics/song/our-destiny/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Roadhouse Garden (song)](../../topics/song/roadhouse-garden/index.md), [The Revolution](../../topics/the-revolution/index.md)
     - ([mirror](https://web.archive.org/web/*/https://variety.com/2017/music/news/prince-purple-rain-deluxe-new-song-our-destiny-roadhouse-garden-1202424644/))
 
+<br />
+
+ - [**"Backspin: The Revolution talk Prince's 'Purple Rain' -- (Yahoo)"**](https://www.youtube.com/watch?v=-yCWato9aZ8)
+    - in [YouTube](../../publications/youtube/index.md)
+    - on 4 May 2017
+    - about [Bobby Z](../../topics/bobby-z/index.md), [Bobby Z.](../../topics/bobby-z/index.md), [BrownMark](../../topics/brownmark/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [The Revolution](../../topics/the-revolution/index.md), [Tipper Gore](../../topics/tipper-gore/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.youtube.com/watch?v=-yCWato9aZ8))
+
+<br />
+
+ - [**"Backspin: The Revolution's early memories of Prince -- (Yahoo)"**](https://www.youtube.com/watch?v=XS4jSz9_seg)
+    - in [YouTube](../../publications/youtube/index.md)
+    - on 4 May 2017
+    - about [Bobby Z](../../topics/bobby-z/index.md), [Bobby Z.](../../topics/bobby-z/index.md), [BrownMark](../../topics/brownmark/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.youtube.com/watch?v=XS4jSz9_seg))
+
+<br />
+
+ - [**"Prince Hires Wendy Melvoin To Join The Revolution // VOLUME -- (SiriusXM)"**](https://www.youtube.com/watch?v=4dphs3xgnw0)
+    - in [YouTube](../../publications/youtube/index.md)
+    - on 3 May 2017
+    - about [SiriusXM](../../topics/siriusxm/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.youtube.com/watch?v=4dphs3xgnw0))
+
+<br />
+
+ - [**"Prince’s band from ‘Purple Rain,’ the Revolution, on 2017 tour to honor the icon in live interiew -- (ABC News)"**](https://www.youtube.com/watch?v=K6Izd1HMXuE)
+    - in [YouTube](../../publications/youtube/index.md)
+    - on 1 May 2017
+    - about [The Revolution](../../topics/the-revolution/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.youtube.com/watch?v=K6Izd1HMXuE))
+
 ----
 
-### 2017 April (9)
+### 2017 April (11)
 
  - [**"‘Purple Rain’ re-issue to feature unreleased Prince songs"**](https://apnews.com/495f034e59ad4375a854c5476852d886)
     - in [Associated Press News](../../publications/associated-press-news/index.md)
@@ -1077,6 +1119,14 @@
     - on 28 April 2017
     - about [17 Days (song)](../../topics/song/17-days/index.md), [bootleg](../../topics/bootleg/index.md), [Erotic City (song)](../../topics/song/erotic-city/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Minnesota Dance Theatre](../../topics/minnesota-dance-theatre/index.md), [NPG Records](../../topics/npg-records/index.md), [Our Destiny (song)](../../topics/song/our-destiny/index.md), [Possessed (song)](../../topics/song/possessed/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Roadhouse Garden (song)](../../topics/song/roadhouse-garden/index.md), [The Beautiful Ones (song)](../../topics/song/the-beautiful-ones/index.md), [The Revolution](../../topics/the-revolution/index.md), [vault](../../topics/vault/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/details-of-prince-s-expanded-purple-rain-reissue-revealed-coming-june-23/420722973/))
+
+<br />
+
+ - [**"Prince death spurs his 1980s band The Revolution to reunite for tour -- (AP Archive)"**](https://www.youtube.com/watch?v=ctldzKKp50k)
+    - in [YouTube](../../publications/youtube/index.md)
+    - on 25 April 2017
+    - about [Bobby Z](../../topics/bobby-z/index.md), [Bobby Z.](../../topics/bobby-z/index.md), [BrownMark](../../topics/brownmark/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Matt Fink](../../topics/matt-fink/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.youtube.com/watch?v=ctldzKKp50k))
 
 <br />
 
@@ -1101,6 +1151,14 @@
     - on 20 April 2017
     - about [Bobby Z.](../../topics/bobby-z/index.md), [BrownMark](../../topics/brownmark/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Matt Fink](../../topics/matt-fink/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/98e9d09300534ac8a7ae5b7b82e9567f))
+
+<br />
+
+ - [**"Members of The Revolution reflect on Prince’s death Capture -- (Atlanta Journal-Constitution)"**](https://www.youtube.com/watch?v=wGKsmnVzjK4)
+    - in [YouTube](../../publications/youtube/index.md)
+    - on 20 April 2017
+    - about ["Doctor" Matt Fink](../../topics/-doctor-matt-fink/index.md), [Mark Brown](../../topics/mark-brown/index.md), [Matt Fink](../../topics/matt-fink/index.md), [The Revolution](../../topics/the-revolution/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.youtube.com/watch?v=wGKsmnVzjK4))
 
 <br />
 

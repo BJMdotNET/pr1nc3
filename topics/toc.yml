@@ -1,4 +1,7 @@
 items:
+- name: Doctor Matt Fink
+  href: -doctor-matt-fink/index.md
+  homepage: -doctor-matt-fink/index.md
 - name: Weird Al Yankovic
   href: -weird-al-yankovic/index.md
   homepage: -weird-al-yankovic/index.md
@@ -2189,6 +2192,9 @@ items:
 - name: Mariah Carey
   href: mariah-carey/index.md
   homepage: mariah-carey/index.md
+- name: Mark Brown
+  href: mark-brown/index.md
+  homepage: mark-brown/index.md
 - name: Mark Canton
   href: mark-canton/index.md
   homepage: mark-canton/index.md

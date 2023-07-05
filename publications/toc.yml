@@ -1001,6 +1001,9 @@ items:
 - name: YourTango
   href: yourtango/index.md
   homepage: yourtango/index.md
+- name: YouTube
+  href: youtube/index.md
+  homepage: youtube/index.md
 - name: Zapproved
   href: zapproved/index.md
   homepage: zapproved/index.md

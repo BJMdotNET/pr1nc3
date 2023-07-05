@@ -12,4 +12,16 @@
 
 ----
 
+## 2017 (1)
+
+### 2017 May (1)
+
+ - [**"Prince Hires Wendy Melvoin To Join The Revolution // VOLUME -- (SiriusXM)"**](https://www.youtube.com/watch?v=4dphs3xgnw0)
+    - in [YouTube](../../publications/youtube/index.md)
+    - on 3 May 2017
+    - about [SiriusXM](../../topics/siriusxm/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.youtube.com/watch?v=4dphs3xgnw0))
+
+----
+
 [Home](../index.md)

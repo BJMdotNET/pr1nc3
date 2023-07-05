@@ -1,6 +1,6 @@
 # Anita Baker
 
-## 2016 (6)
+## 2016 (7)
 
 ### 2016 December (1)
 
@@ -9,6 +9,16 @@
     - on 8 December 2016
     - about [17 Days (song)](../../topics/song/17-days/index.md), [Academy Award](../../topics/academy-award/index.md), [Anita Baker](../../topics/anita-baker/index.md), [Bernie Grundman](../../topics/bernie-grundman/index.md), [bootleg](../../topics/bootleg/index.md), [Condition of the Heart (song)](../../topics/song/condition-of-the-heart/index.md), [contract](../../topics/contract/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Grammy Award](../../topics/grammy-award/index.md), [James Brown](../../topics/james-brown/index.md), [Jesse Johnson](../../topics/jesse-johnson/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Kate Bush](../../topics/kate-bush/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Pop Life (song)](../../topics/song/pop-life/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Sly Stone](../../topics/sly-stone/index.md), [Sometimes It Snows In April (song)](../../topics/song/sometimes-it-snows-in-april/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [Tevin Campbell](../../topics/tevin-campbell/index.md), [The Ballad Of Dorothy Parker (song)](../../topics/song/the-ballad-of-dorothy-parker/index.md), [The Revolution](../../topics/the-revolution/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.redbullmusicacademy.com/lectures/susan-rogers-lecture))
+
+----
+
+### 2016 November (1)
+
+ - [**"Chaka Khan talks about the endurance of Prince's music backstage at the Prince tribute concert -- (AP Archive)"**](https://www.youtube.com/watch?v=Ek1zk8VmHkQ)
+    - in [YouTube](../../publications/youtube/index.md)
+    - on 17 November 2016
+    - about [Anita Baker](../../topics/anita-baker/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Christina Aguilera](../../topics/christina-aguilera/index.md), [Doug E. Fresh](../../topics/doug-e-fresh/index.md), [Jessie J](../../topics/jessie-j/index.md), [John Mayer](../../topics/john-mayer/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Tori Kelly](../../topics/tori-kelly/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.youtube.com/watch?v=Ek1zk8VmHkQ))
 
 ----
 

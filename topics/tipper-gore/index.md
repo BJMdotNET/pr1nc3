@@ -22,6 +22,18 @@
 
 ----
 
+## 2017 (1)
+
+### 2017 May (1)
+
+ - [**"Backspin: The Revolution talk Prince's 'Purple Rain' -- (Yahoo)"**](https://www.youtube.com/watch?v=-yCWato9aZ8)
+    - in [YouTube](../../publications/youtube/index.md)
+    - on 4 May 2017
+    - about [Bobby Z](../../topics/bobby-z/index.md), [Bobby Z.](../../topics/bobby-z/index.md), [BrownMark](../../topics/brownmark/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [The Revolution](../../topics/the-revolution/index.md), [Tipper Gore](../../topics/tipper-gore/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.youtube.com/watch?v=-yCWato9aZ8))
+
+----
+
 ## 2016 (1)
 
 ### 2016 April (1)

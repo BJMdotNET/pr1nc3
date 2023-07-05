@@ -99,7 +99,7 @@
 
 ----
 
-## 2018 (27)
+## 2018 (28)
 
 ### 2018 December (1)
 
@@ -142,7 +142,15 @@
 
 ----
 
-### 2018 April (20)
+### 2018 April (21)
+
+ - [**"Investigation says Prince was isolated, addicted and in pain -- (AP Archive)"**](https://www.youtube.com/watch?v=iO7eX1j6n2E)
+    - in [YouTube](../../publications/youtube/index.md)
+    - on 26 April 2018
+    - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [Hannah Welton](../../topics/hannah-welton/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Joshua Welton](../../topics/joshua-welton/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Mark Metz](../../topics/mark-metz/index.md), [Meron Bekure](../../topics/meron-bekure/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [opioid](../../topics/opioid/index.md), [oxycodone](../../topics/oxycodone/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Vicodin](../../topics/vicodin/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.youtube.com/watch?v=iO7eX1j6n2E))
+
+<br />
 
  - [**"Unfinished requiem: Enigmatic in life, Prince leaves mystery in death"**](https://apnews.com/48227e49f5384fe7b343b7ccdeb00e6f)
     - in [Associated Press News](../../publications/associated-press-news/index.md)
@@ -336,7 +344,7 @@
 
 ----
 
-## 2017 (18)
+## 2017 (19)
 
 ### 2017 October (2)
 
@@ -397,7 +405,15 @@
 
 ----
 
-### 2017 April (6)
+### 2017 April (7)
+
+ - [**"Prince Was Prescribed Opioids with Friend's Name -- (AP Archive)"**](https://www.youtube.com/watch?v=MulPSR7FWWA)
+    - in [YouTube](../../publications/youtube/index.md)
+    - on 23 April 2017
+    - about [Carver County](../../topics/carver-county/index.md), [Carver County District Court](../../topics/carver-county-district-court/index.md), [fentanyl](../../topics/fentanyl/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [opioid](../../topics/opioid/index.md), [oxycodone](../../topics/oxycodone/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.youtube.com/watch?v=MulPSR7FWWA))
+
+<br />
 
  - [**"A year after Prince's death, these questions remain unanswered"**](https://usatoday.com/story/life/music/2017/04/20/death-prince-one-year-later-what-do-we-know/100180398/)
     - in [USA Today](../../publications/usa-today/index.md)

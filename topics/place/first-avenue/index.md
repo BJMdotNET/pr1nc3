@@ -576,7 +576,7 @@
 
 ----
 
-## 2017 (12)
+## 2017 (13)
 
 ### 2017 December (2)
 
@@ -627,7 +627,7 @@
 
 ----
 
-### 2017 April (7)
+### 2017 April (8)
 
  - [**"Details of Prince's expanded 'Purple Rain' reissue revealed, coming June 23"**](https://www.startribune.com/details-of-prince-s-expanded-purple-rain-reissue-revealed-coming-june-23/420722973/)
     - by [Chris Riemenschneider](../../../authors/chris-riemenschneider/index.md)
@@ -635,6 +635,14 @@
     - on 28 April 2017
     - about [17 Days (song)](../../../topics/song/17-days/index.md), [bootleg](../../../topics/bootleg/index.md), [Erotic City (song)](../../../topics/song/erotic-city/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Minnesota Dance Theatre](../../../topics/minnesota-dance-theatre/index.md), [NPG Records](../../../topics/npg-records/index.md), [Our Destiny (song)](../../../topics/song/our-destiny/index.md), [Possessed (song)](../../../topics/song/possessed/index.md), [Purple Rain (album)](../../../topics/album/purple-rain/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Roadhouse Garden (song)](../../../topics/song/roadhouse-garden/index.md), [The Beautiful Ones (song)](../../../topics/song/the-beautiful-ones/index.md), [The Revolution](../../../topics/the-revolution/index.md), [vault](../../../topics/vault/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/details-of-prince-s-expanded-purple-rain-reissue-revealed-coming-june-23/420722973/))
+
+<br />
+
+ - [**"Prince death spurs his 1980s band The Revolution to reunite for tour -- (AP Archive)"**](https://www.youtube.com/watch?v=ctldzKKp50k)
+    - in [YouTube](../../../publications/youtube/index.md)
+    - on 25 April 2017
+    - about [Bobby Z](../../../topics/bobby-z/index.md), [Bobby Z.](../../../topics/bobby-z/index.md), [BrownMark](../../../topics/brownmark/index.md), [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Lisa Coleman](../../../topics/lisa-coleman/index.md), [Matt Fink](../../../topics/matt-fink/index.md), [The Revolution](../../../topics/the-revolution/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.youtube.com/watch?v=ctldzKKp50k))
 
 <br />
 

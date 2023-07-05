@@ -310,7 +310,7 @@
 
 ----
 
-## 2017 (5)
+## 2017 (6)
 
 ### 2017 December (1)
 
@@ -339,6 +339,16 @@
     - on 12 October 2017
     - about [Alfred Jackson](../../../topics/alfred-jackson/index.md), [California (place)](../../../topics/place/california/index.md), [Carver County](../../../topics/carver-county/index.md), [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Comerica](../../../topics/comerica/index.md), [Comerica Bank & Trust](../../../topics/comerica-bank-trust/index.md), [Iron Mountain](../../../topics/iron-mountain/index.md), [Iron Mountain Entertainment Services](../../../topics/iron-mountain-entertainment-services/index.md), [John R. Nelson](../../../topics/john-r-nelson/index.md), [Kevin Eide](../../../topics/kevin-eide/index.md), [Los Angeles (place)](../../../topics/place/los-angeles/index.md), [Norrine Nelson](../../../topics/norrine-nelson/index.md), [Omarr Baker](../../../topics/omarr-baker/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Sharon Nelson](../../../topics/sharon-nelson/index.md), [Tyka Nelson](../../../topics/tyka-nelson/index.md), [vault](../../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/apnewsbreak-prince-tapes-moved-to-california-heirs-miffed/450496873/))
+
+----
+
+### 2017 April (1)
+
+ - [**"Prince death spurs his 1980s band The Revolution to reunite for tour -- (AP Archive)"**](https://www.youtube.com/watch?v=ctldzKKp50k)
+    - in [YouTube](../../../publications/youtube/index.md)
+    - on 25 April 2017
+    - about [Bobby Z](../../../topics/bobby-z/index.md), [Bobby Z.](../../../topics/bobby-z/index.md), [BrownMark](../../../topics/brownmark/index.md), [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Lisa Coleman](../../../topics/lisa-coleman/index.md), [Matt Fink](../../../topics/matt-fink/index.md), [The Revolution](../../../topics/the-revolution/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.youtube.com/watch?v=ctldzKKp50k))
 
 ----
 

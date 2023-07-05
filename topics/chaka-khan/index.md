@@ -459,7 +459,7 @@
 
 ----
 
-## 2016 (20)
+## 2016 (21)
 
 ### 2016 December (2)
 
@@ -479,7 +479,15 @@
 
 ----
 
-### 2016 November (1)
+### 2016 November (2)
+
+ - [**"Chaka Khan talks about the endurance of Prince's music backstage at the Prince tribute concert -- (AP Archive)"**](https://www.youtube.com/watch?v=Ek1zk8VmHkQ)
+    - in [YouTube](../../publications/youtube/index.md)
+    - on 17 November 2016
+    - about [Anita Baker](../../topics/anita-baker/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Christina Aguilera](../../topics/christina-aguilera/index.md), [Doug E. Fresh](../../topics/doug-e-fresh/index.md), [Jessie J](../../topics/jessie-j/index.md), [John Mayer](../../topics/john-mayer/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Tori Kelly](../../topics/tori-kelly/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.youtube.com/watch?v=Ek1zk8VmHkQ))
+
+<br />
 
  - [**"The Estate Of Prince Rogers Nelson Selects Universal Music Publishing Group To Serve As Worldwide Publisher For Prince's Iconic Catalog Of Songs"**](https://www.prnewswire.com/news-releases/the-estate-of-prince-rogers-nelson-selects-universal-music-publishing-group-to-serve-as-worldwide-publisher-for-princes-iconic-catalog-of-songs-300356320.html)
     - in [PR Newswire](../../publications/pr-newswire/index.md)

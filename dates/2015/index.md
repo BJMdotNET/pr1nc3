@@ -172,13 +172,21 @@
 
 ----
 
-## July 2015 (1)
+## July 2015 (2)
 
  - [**"Old "Purple Rain" house for sale as new Prince album announced"**](https://www.startribune.com/old-purple-rain-house-for-sale-as-new-prince-album-announced/318663971/)
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](../../publications/minneapolis-star-tribune/index.md)
     - on 27 July 2015
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/old-purple-rain-house-for-sale-as-new-prince-album-announced/318663971/))
+
+----
+
+ - [**"Prince Announces Multiple London Shows -- (AP Archive)"**](https://www.youtube.com/watch?v=en7vN2tIm7c)
+    - in [YouTube](../../publications/youtube/index.md)
+    - on 21 July 2015
+    - about [London (place)](../../topics/place/london/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.youtube.com/watch?v=en7vN2tIm7c))
 
 ----
 

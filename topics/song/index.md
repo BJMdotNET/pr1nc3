@@ -35,7 +35,7 @@
   * [D.M.S.R. (song)](../song/d-m-s-r/index.md) (5)
   * [Da Bang (song)](../song/da-bang/index.md) (1)
   * [Dance With the Devil (song)](../song/dance-with-the-devil/index.md) (2)
-  * [Darling Nikki (song)](../song/darling-nikki/index.md) (25)
+  * [Darling Nikki (song)](../song/darling-nikki/index.md) (26)
   * [Delirious (song)](../song/delirious/index.md) (3)
   * [Deliverance (song)](../song/deliverance/index.md) (8)
   * [Diamonds and Pearls (song)](../song/diamonds-and-pearls/index.md) (5)

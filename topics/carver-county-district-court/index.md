@@ -12,6 +12,18 @@
 
 ----
 
+## 2017 (1)
+
+### 2017 April (1)
+
+ - [**"Prince Was Prescribed Opioids with Friend's Name -- (AP Archive)"**](https://www.youtube.com/watch?v=MulPSR7FWWA)
+    - in [YouTube](../../publications/youtube/index.md)
+    - on 23 April 2017
+    - about [Carver County](../../topics/carver-county/index.md), [Carver County District Court](../../topics/carver-county-district-court/index.md), [fentanyl](../../topics/fentanyl/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [opioid](../../topics/opioid/index.md), [oxycodone](../../topics/oxycodone/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.youtube.com/watch?v=MulPSR7FWWA))
+
+----
+
 ## 2016 (3)
 
 ### 2016 May (3)

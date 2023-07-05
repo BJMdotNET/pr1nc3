@@ -334,6 +334,7 @@
   * [Yahoo! News](./yahoo-news/index.md) (2)
   * [The Young Folks](./the-young-folks/index.md) (1)
   * [YourTango](./yourtango/index.md) (1)
+  * [YouTube](./youtube/index.md) (12)
   * [Zapproved](./zapproved/index.md) (1)
 
 ----

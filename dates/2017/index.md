@@ -661,7 +661,7 @@
 
 ----
 
-## May 2017 (10)
+## May 2017 (14)
 
  - [**"Judge: Sound engineer can’t publish unreleased Prince tracks"**](https://apnews.com/28f8d4317b3b43219621f58a3252addb)
     - in [Associated Press News](../../publications/associated-press-news/index.md)
@@ -745,7 +745,39 @@
 
 ----
 
-## April 2017 (48)
+ - [**"Backspin: The Revolution talk Prince's 'Purple Rain' -- (Yahoo)"**](https://www.youtube.com/watch?v=-yCWato9aZ8)
+    - in [YouTube](../../publications/youtube/index.md)
+    - on 4 May 2017
+    - about [Bobby Z](../../topics/bobby-z/index.md), [Bobby Z.](../../topics/bobby-z/index.md), [BrownMark](../../topics/brownmark/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [The Revolution](../../topics/the-revolution/index.md), [Tipper Gore](../../topics/tipper-gore/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.youtube.com/watch?v=-yCWato9aZ8))
+
+----
+
+ - [**"Backspin: The Revolution's early memories of Prince -- (Yahoo)"**](https://www.youtube.com/watch?v=XS4jSz9_seg)
+    - in [YouTube](../../publications/youtube/index.md)
+    - on 4 May 2017
+    - about [Bobby Z](../../topics/bobby-z/index.md), [Bobby Z.](../../topics/bobby-z/index.md), [BrownMark](../../topics/brownmark/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.youtube.com/watch?v=XS4jSz9_seg))
+
+----
+
+ - [**"Prince Hires Wendy Melvoin To Join The Revolution // VOLUME -- (SiriusXM)"**](https://www.youtube.com/watch?v=4dphs3xgnw0)
+    - in [YouTube](../../publications/youtube/index.md)
+    - on 3 May 2017
+    - about [SiriusXM](../../topics/siriusxm/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.youtube.com/watch?v=4dphs3xgnw0))
+
+----
+
+ - [**"Prince’s band from ‘Purple Rain,’ the Revolution, on 2017 tour to honor the icon in live interiew -- (ABC News)"**](https://www.youtube.com/watch?v=K6Izd1HMXuE)
+    - in [YouTube](../../publications/youtube/index.md)
+    - on 1 May 2017
+    - about [The Revolution](../../topics/the-revolution/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.youtube.com/watch?v=K6Izd1HMXuE))
+
+----
+
+## April 2017 (52)
 
  - [**"‘Purple Rain’ re-issue to feature unreleased Prince songs"**](https://apnews.com/495f034e59ad4375a854c5476852d886)
     - in [Associated Press News](../../publications/associated-press-news/index.md)
@@ -761,6 +793,22 @@
     - on 28 April 2017
     - about [17 Days (song)](../../topics/song/17-days/index.md), [bootleg](../../topics/bootleg/index.md), [Erotic City (song)](../../topics/song/erotic-city/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Minnesota Dance Theatre](../../topics/minnesota-dance-theatre/index.md), [NPG Records](../../topics/npg-records/index.md), [Our Destiny (song)](../../topics/song/our-destiny/index.md), [Possessed (song)](../../topics/song/possessed/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Roadhouse Garden (song)](../../topics/song/roadhouse-garden/index.md), [The Beautiful Ones (song)](../../topics/song/the-beautiful-ones/index.md), [The Revolution](../../topics/the-revolution/index.md), [vault](../../topics/vault/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/details-of-prince-s-expanded-purple-rain-reissue-revealed-coming-june-23/420722973/))
+
+----
+
+ - [**"Prince death spurs his 1980s band The Revolution to reunite for tour -- (AP Archive)"**](https://www.youtube.com/watch?v=ctldzKKp50k)
+    - in [YouTube](../../publications/youtube/index.md)
+    - on 25 April 2017
+    - about [Bobby Z](../../topics/bobby-z/index.md), [Bobby Z.](../../topics/bobby-z/index.md), [BrownMark](../../topics/brownmark/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Matt Fink](../../topics/matt-fink/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.youtube.com/watch?v=ctldzKKp50k))
+
+----
+
+ - [**"Prince Was Prescribed Opioids with Friend's Name -- (AP Archive)"**](https://www.youtube.com/watch?v=MulPSR7FWWA)
+    - in [YouTube](../../publications/youtube/index.md)
+    - on 23 April 2017
+    - about [Carver County](../../topics/carver-county/index.md), [Carver County District Court](../../topics/carver-county-district-court/index.md), [fentanyl](../../topics/fentanyl/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [opioid](../../topics/opioid/index.md), [oxycodone](../../topics/oxycodone/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.youtube.com/watch?v=MulPSR7FWWA))
 
 ----
 
@@ -857,6 +905,14 @@
     - on 20 April 2017
     - about [Deliverance (EP)](../../topics/ep/deliverance/index.md), [Deliverance (song)](../../topics/song/deliverance/index.md), [George Ian Boxill](../../topics/george-ian-boxill/index.md), [lawsuit](../../topics/lawsuit/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/194582ccc441427d9c3b8b644ac5dcc0))
+
+----
+
+ - [**"Members of The Revolution reflect on Prince’s death Capture -- (Atlanta Journal-Constitution)"**](https://www.youtube.com/watch?v=wGKsmnVzjK4)
+    - in [YouTube](../../publications/youtube/index.md)
+    - on 20 April 2017
+    - about ["Doctor" Matt Fink](../../topics/-doctor-matt-fink/index.md), [Mark Brown](../../topics/mark-brown/index.md), [Matt Fink](../../topics/matt-fink/index.md), [The Revolution](../../topics/the-revolution/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.youtube.com/watch?v=wGKsmnVzjK4))
 
 ----
 
@@ -1029,6 +1085,14 @@
     - on 15 April 2017
     - about [Electric Fetus (place)](../../topics/place/electric-fetus/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Minnesota History Center](../../topics/minnesota-history-center/index.md), [museum](../../topics/museum/index.md), [Sam’s (place)](../../topics/place/sam-s/index.md), [Schmitt Music Company](../../topics/schmitt-music-company/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/c26c137efcb447af86f26bb41e8ac97f))
+
+----
+
+ - [**"Mayte Garcia reflects on life with Prince -- (AP Archive)"**](https://www.youtube.com/watch?v=FYRkN9v0qoI)
+    - in [YouTube](../../publications/youtube/index.md)
+    - on 15 April 2017
+    - about [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.youtube.com/watch?v=FYRkN9v0qoI))
 
 ----
 

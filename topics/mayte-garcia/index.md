@@ -108,7 +108,7 @@
 
 ----
 
-## 2017 (11)
+## 2017 (12)
 
 ### 2017 November (1)
 
@@ -121,7 +121,7 @@
 
 ----
 
-### 2017 April (7)
+### 2017 April (8)
 
  - [**"Prince’s ex-wife Mayte Garcia pays tribute to late star"**](https://apnews.com/f7d92f7f16cd4330912e7a1674f4c8e7)
     - in [Associated Press News](../../publications/associated-press-news/index.md)
@@ -144,6 +144,14 @@
     - on 19 April 2017
     - about [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [The Most Beautiful (book)](../../topics/book/the-most-beautiful/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/a4115faebefc463a8aad4433e14f5d2b))
+
+<br />
+
+ - [**"Mayte Garcia reflects on life with Prince -- (AP Archive)"**](https://www.youtube.com/watch?v=FYRkN9v0qoI)
+    - in [YouTube](../../publications/youtube/index.md)
+    - on 15 April 2017
+    - about [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.youtube.com/watch?v=FYRkN9v0qoI))
 
 <br />
 

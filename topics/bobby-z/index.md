@@ -144,7 +144,7 @@
 
 ----
 
-## 2017 (4)
+## 2017 (7)
 
 ### 2017 August (1)
 
@@ -156,7 +156,33 @@
 
 ----
 
-### 2017 April (2)
+### 2017 May (2)
+
+ - [**"Backspin: The Revolution talk Prince's 'Purple Rain' -- (Yahoo)"**](https://www.youtube.com/watch?v=-yCWato9aZ8)
+    - in [YouTube](../../publications/youtube/index.md)
+    - on 4 May 2017
+    - about [Bobby Z](../../topics/bobby-z/index.md), [Bobby Z.](../../topics/bobby-z/index.md), [BrownMark](../../topics/brownmark/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [The Revolution](../../topics/the-revolution/index.md), [Tipper Gore](../../topics/tipper-gore/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.youtube.com/watch?v=-yCWato9aZ8))
+
+<br />
+
+ - [**"Backspin: The Revolution's early memories of Prince -- (Yahoo)"**](https://www.youtube.com/watch?v=XS4jSz9_seg)
+    - in [YouTube](../../publications/youtube/index.md)
+    - on 4 May 2017
+    - about [Bobby Z](../../topics/bobby-z/index.md), [Bobby Z.](../../topics/bobby-z/index.md), [BrownMark](../../topics/brownmark/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.youtube.com/watch?v=XS4jSz9_seg))
+
+----
+
+### 2017 April (3)
+
+ - [**"Prince death spurs his 1980s band The Revolution to reunite for tour -- (AP Archive)"**](https://www.youtube.com/watch?v=ctldzKKp50k)
+    - in [YouTube](../../publications/youtube/index.md)
+    - on 25 April 2017
+    - about [Bobby Z](../../topics/bobby-z/index.md), [Bobby Z.](../../topics/bobby-z/index.md), [BrownMark](../../topics/brownmark/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Matt Fink](../../topics/matt-fink/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.youtube.com/watch?v=ctldzKKp50k))
+
+<br />
 
  - [**"1 year after Prince’s death, another turn for The Revolution"**](https://apnews.com/98e9d09300534ac8a7ae5b7b82e9567f)
     - in [Associated Press News](../../publications/associated-press-news/index.md)
