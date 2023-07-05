@@ -1,5 +1,35 @@
 # The Time
 
+## 2023 (3)
+
+### 2023 June (3)
+
+ - [**"The influence of Black music: How 'Flyte Tyme' changed the world from a recording studio"**](https://www.mprnews.org/story/2023/06/29/the-influence-of-black-music-how-flyte-tyme-changed-the-world-from-a-booth-in-edina)
+    - by [Jae Bryson](../../authors/jae-bryson/index.md)
+    - in [MPR News (Minnesota Public Radio)](../../publications/mpr-news-minnesota-public-radio/index.md)
+    - on 30 June 2023
+    - about [Alexander O’Neal](../../topics/alexander-o-neal/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Black Music Project](../../topics/black-music-project/index.md), [Christopher Fuller](../../topics/christopher-fuller/index.md), [Cynthia Johnson](../../topics/cynthia-johnson/index.md), [Donald Byrd](../../topics/donald-byrd/index.md), [Edina (place)](../../topics/place/edina/index.md), [Flight Time (song)](../../topics/song/flight-time/index.md), [Flyte Tyme](../../topics/flyte-tyme/index.md), [Flyte Tyme Studios (place)](../../topics/place/flyte-tyme-studios/index.md), [Gary Hines](../../topics/gary-hines/index.md), [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jeff Taylor](../../topics/jeff-taylor/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jimmy “Jam” Harris](../../topics/jimmy-jam-harris/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Mint Condition](../../topics/mint-condition/index.md), [Morris Day](../../topics/morris-day/index.md), [Nicollet Avenue](../../topics/nicollet-avenue/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Sounds of Blackness](../../topics/sounds-of-blackness/index.md), [Stokely Williams](../../topics/stokely-williams/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Time](../../topics/the-time/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.mprnews.org/story/2023/06/29/the-influence-of-black-music-how-flyte-tyme-changed-the-world-from-a-booth-in-edina))
+
+<br />
+
+ - [**""The way that Control sounds is an accident because we didn’t know what we were doing": why Jam and Lewis recorded Janet Jackson’s breakthrough album ‘wrong’, and why it’s all Prince’s fault -- Because learning from the best beats reading manual, every time"**](https://www.musicradar.com/news/jam-and-lewis-janet-jackson-control-prince)
+    - by [Daniel Griffiths](../../authors/daniel-griffiths/index.md)
+    - in [MusicRadar](../../publications/musicradar/index.md)
+    - on 12 June 2023
+    - about [A&M Records](../../topics/a-m-records/index.md), [airport](../../topics/airport/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Flyte Tyme](../../topics/flyte-tyme/index.md), [Jam & Lewis](../../topics/jam-lewis/index.md), [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [The Time](../../topics/the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.musicradar.com/news/jam-and-lewis-janet-jackson-control-prince))
+
+<br />
+
+ - [**"Minneapolis Sound Museum honors local music legends"**](https://www.fox9.com/news/jellybean-johnson-on-the-minneapolis-sound)
+    - in [Fox 9](../../publications/fox-9/index.md)
+    - on 7 June 2023
+    - about [Capri Theater (place)](../../topics/place/capri-theater/index.md), [Flyte Tyme](../../topics/flyte-tyme/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Minneapolis Sound Museum](../../topics/minneapolis-sound-museum/index.md), [Morris Day](../../topics/morris-day/index.md), [museum](../../topics/museum/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Time](../../topics/the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.fox9.com/news/jellybean-johnson-on-the-minneapolis-sound))
+
+----
+
 ## 2022 (3)
 
 ### 2022 November (2)
@@ -15,7 +45,7 @@
  - [**"The Rock Hall of Fame opens to Jimmy Jam and Terry Lewis"**](https://apnews.com/article/britney-spears-entertainment-travel-music-8ee900272c36979c2d64e4fa79bd12b4)
     - in [Associated Press News](../../publications/associated-press-news/index.md)
     - on 1 November 2022
-    - about [Earth, Wind & Fire](../../topics/earth-wind-fire/index.md), [Grammys](../../topics/grammys/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Lionel Richie](../../topics/lionel-richie/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Q-Tip](../../topics/q-tip/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Time](../../topics/the-time/index.md)
+    - about [Earth, Wind & Fire](../../topics/earth-wind-fire/index.md), [Grammys](../../topics/grammys/index.md), [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Lionel Richie](../../topics/lionel-richie/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Q-Tip](../../topics/q-tip/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Time](../../topics/the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/britney-spears-entertainment-travel-music-8ee900272c36979c2d64e4fa79bd12b4))
 
 ----
@@ -48,7 +78,7 @@
  - [**"Jam & Lewis are back for the first time with ‘Volume One’"**](https://apnews.com/article/entertainment-business-music-arts-and-entertainment-hip-hop-and-rap-2474c3f5a5d3aa311320a74321bb9cde)
     - in [Associated Press News](../../publications/associated-press-news/index.md)
     - on 31 August 2021
-    - about [Chaka Khan](../../topics/chaka-khan/index.md), [Grammys](../../topics/grammys/index.md), [H.E.R.](../../topics/h-e-r/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [Sounds of Blackness](../../topics/sounds-of-blackness/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Time](../../topics/the-time/index.md)
+    - about [Chaka Khan](../../topics/chaka-khan/index.md), [Grammys](../../topics/grammys/index.md), [H.E.R.](../../topics/h-e-r/index.md), [Jam & Lewis](../../topics/jam-lewis/index.md), [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [Sounds of Blackness](../../topics/sounds-of-blackness/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Time](../../topics/the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/entertainment-business-music-arts-and-entertainment-hip-hop-and-rap-2474c3f5a5d3aa311320a74321bb9cde))
 
 ----
@@ -273,7 +303,7 @@
  - [**"Here's What Morris Day Thinks About the Posthumous Prince Releases -- Hot off his wildly entertaining memoir 'On Time,' the funk legend talks unreleased The Time music and Prince's Vaults."**](https://www.billboard.com/articles/news/8541347/morris-day-on-time-book-memoir-prince-funk)
     - in [Billboard](../../publications/billboard/index.md)
     - on 30 October 2019
-    - about [Atlanta (place)](../../topics/place/atlanta/index.md), [Graffiti Bridge (album)](../../topics/album/graffiti-bridge/index.md), [Graffiti Bridge (movie)](../../topics/movie/graffiti-bridge/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Jungle Love (song)](../../topics/song/jungle-love/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [Pandemonium (album)](../../topics/album/pandemonium/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Bird (song)](../../topics/song/the-bird/index.md), [The Time](../../topics/the-time/index.md), [vault](../../topics/vault/index.md)
+    - about [Atlanta (place)](../../topics/place/atlanta/index.md), [Graffiti Bridge (album)](../../topics/album/graffiti-bridge/index.md), [Graffiti Bridge (movie)](../../topics/movie/graffiti-bridge/index.md), [Jam & Lewis](../../topics/jam-lewis/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Jungle Love (song)](../../topics/song/jungle-love/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [Pandemonium (album)](../../topics/album/pandemonium/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Bird (song)](../../topics/song/the-bird/index.md), [The Time](../../topics/the-time/index.md), [vault](../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8541347/morris-day-on-time-book-memoir-prince-funk))
 
 <br />
@@ -337,7 +367,7 @@
  - [**"Looks Like We'll Be Seeing Velvet Negroni In Australia Next Year"**](https://themusic.com.au/features/og-flavas-velvet-negroni-cyclone/v8zb09LV1Nc/)
     - in [theMusic.com.au](../../publications/themusic-com-au/index.md)
     - on 10 October 2019
-    - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Lenny Kravitz](../../topics/lenny-kravitz/index.md), [Lizzo](../../topics/lizzo/index.md), [Paisley Park Records](../../topics/paisley-park-records/index.md), [Paul Peterson](../../topics/paul-peterson/index.md), [Quincy Jones](../../topics/quincy-jones/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Time](../../topics/the-time/index.md)
+    - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Jam & Lewis](../../topics/jam-lewis/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Lenny Kravitz](../../topics/lenny-kravitz/index.md), [Lizzo](../../topics/lizzo/index.md), [Paisley Park Records](../../topics/paisley-park-records/index.md), [Paul Peterson](../../topics/paul-peterson/index.md), [Quincy Jones](../../topics/quincy-jones/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Time](../../topics/the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://themusic.com.au/features/og-flavas-velvet-negroni-cyclone/v8zb09LV1Nc/))
 
 <br />
@@ -371,7 +401,7 @@
  - [**"To Janet Jackson, Minneapolis will always be her 'home away from home' -- Balancing motherhood and megahits, Janet Jackson talks about her return to Minnesota, where she recorded her breakthrough albums."**](https://www.startribune.com/to-janet-jackson-minneapolis-will-always-be-her-home-away-from-home/560054982/)
     - in [Minneapolis Star Tribune](../../publications/minneapolis-star-tribune/index.md)
     - on 11 September 2019
-    - about [Janelle Monae](../../topics/janelle-monae/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Sounds of Blackness](../../topics/sounds-of-blackness/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Time](../../topics/the-time/index.md)
+    - about [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Janelle Monae](../../topics/janelle-monae/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Sounds of Blackness](../../topics/sounds-of-blackness/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Time](../../topics/the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/to-janet-jackson-minneapolis-will-always-be-her-home-away-from-home/560054982/))
 
 ----
@@ -427,7 +457,7 @@
     - by [Michael Mitchell](../../authors/michael-mitchell/index.md)
     - in [RadioFacts](../../publications/radiofacts/index.md)
     - on 12 July 2019
-    - about [Alexander O’Neal](../../topics/alexander-o-neal/index.md), [Flyte Tyme Productions](../../topics/flyte-tyme-productions/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Tabu Records](../../topics/tabu-records/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Time](../../topics/the-time/index.md)
+    - about [Alexander O’Neal](../../topics/alexander-o-neal/index.md), [Flyte Tyme Productions](../../topics/flyte-tyme-productions/index.md), [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Tabu Records](../../topics/tabu-records/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Time](../../topics/the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.radiofacts.com/music-executive-dina-r-andrews-appears-in-netflixs-the-black-godfather/))
 
 <br />
@@ -591,7 +621,7 @@
  - [**"Super-sized Prince party rocks Nicollet Mall"**](https://apnews.com/article/football-prince-archive-minnesota-334367853c7e479fb18e178463c02063)
     - in [Associated Press News](../../publications/associated-press-news/index.md)
     - on 29 January 2018
-    - about [D.M.S.R. (song)](../../topics/song/d-m-s-r/index.md), [fDeluxe](../../topics/fdeluxe/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Nicollet Mall (place)](../../topics/place/nicollet-mall/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Soul Asylum](../../topics/soul-asylum/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Bird (song)](../../topics/song/the-bird/index.md), [The Family](../../topics/the-family/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md)
+    - about [D.M.S.R. (song)](../../topics/song/d-m-s-r/index.md), [fDeluxe](../../topics/fdeluxe/index.md), [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Nicollet Avenue](../../topics/nicollet-avenue/index.md), [Nicollet Mall (place)](../../topics/place/nicollet-mall/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Soul Asylum](../../topics/soul-asylum/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Bird (song)](../../topics/song/the-bird/index.md), [The Family](../../topics/the-family/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/football-prince-archive-minnesota-334367853c7e479fb18e178463c02063))
 
 ----
@@ -619,7 +649,7 @@
  - [**"Super Bowl Live concert series will include Prince tribute"**](https://apnews.com/30711cb14b744f1aa016784116c806cc)
     - in [Associated Press News](../../publications/associated-press-news/index.md)
     - on 1 December 2017
-    - about [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md)
+    - about [Jimmy “Jam” Harris](../../topics/jimmy-jam-harris/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/30711cb14b744f1aa016784116c806cc))
 
 ----
@@ -771,7 +801,7 @@
     - by [Chris Williams](../../authors/chris-williams/index.md)
     - in [Red Bull Music Academy Daily](../../publications/red-bull-music-academy-daily/index.md)
     - on 26 February 2016
-    - about [A&M Records](../../topics/a-m-records/index.md), [Alexander O’Neal](../../topics/alexander-o-neal/index.md), [contract](../../topics/contract/index.md), [Get It Up (song)](../../topics/song/get-it-up/index.md), [James “Jimmy Jam” Harris III](../../topics/james-jimmy-jam-harris-iii/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jesse Johnson](../../topics/jesse-johnson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Quincy Jones](../../topics/quincy-jones/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Stick (song)](../../topics/song/the-stick/index.md), [The Time](../../topics/the-time/index.md)
+    - about [A&M Records](../../topics/a-m-records/index.md), [Alexander O’Neal](../../topics/alexander-o-neal/index.md), [contract](../../topics/contract/index.md), [Get It Up (song)](../../topics/song/get-it-up/index.md), [James “Jimmy Jam” Harris III](../../topics/james-jimmy-jam-harris-iii/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jesse Johnson](../../topics/jesse-johnson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Quincy Jones](../../topics/quincy-jones/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Stick (song)](../../topics/song/the-stick/index.md), [The Time](../../topics/the-time/index.md), [What Have You Done For Me Lately (song)](../../topics/song/what-have-you-done-for-me-lately/index.md)
     - ([mirror](https://web.archive.org/web/*/https://daily.redbullmusicacademy.com/2016/02/key-tracks-janet-jackson-control))
 
 ----
@@ -829,7 +859,7 @@
  - [**"Mineapolis Producers Make String Of Top-Selling Records"**](https://apnews.com/article/672e2df1974cb03ccd2d105f1a736d9e)
     - in [Associated Press News](../../publications/associated-press-news/index.md)
     - on 11 February 1987
-    - about [Atlanta (place)](../../topics/place/atlanta/index.md), [Flyte Tyme Productions](../../topics/flyte-tyme-productions/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Lionel Richie](../../topics/lionel-richie/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Time](../../topics/the-time/index.md)
+    - about [Atlanta (place)](../../topics/place/atlanta/index.md), [Flyte Tyme](../../topics/flyte-tyme/index.md), [Flyte Tyme Productions](../../topics/flyte-tyme-productions/index.md), [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Lionel Richie](../../topics/lionel-richie/index.md), [Morris Day](../../topics/morris-day/index.md), [ping-pong](../../topics/ping-pong/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Time](../../topics/the-time/index.md), [What Have You Done For Me Lately (song)](../../topics/song/what-have-you-done-for-me-lately/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/672e2df1974cb03ccd2d105f1a736d9e))
 
 ----

@@ -233,7 +233,7 @@
  - [**"Prince haunts Morris Day's new memoir: 'I still hear his voice in my head' -- "Purple Rain" co-star and Time leader Morris Day details his long friendship with Prince in a memoir that brings him home to the Twin Cities this week."**](https://www.startribune.com/prince-haunts-morris-day-s-new-memoir-i-still-hear-his-voice-in-my-head/562430972/)
     - in [Minneapolis Star Tribune](../../publications/minneapolis-star-tribune/index.md)
     - on 8 October 2019
-    - about [Aretha Franklin](../../topics/aretha-franklin/index.md), [Donald Trump](../../topics/donald-trump/index.md), [Jamie Starr](../../topics/jamie-starr/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [Pandemonium (album)](../../topics/album/pandemonium/index.md), [Trump](../../topics/trump/index.md)
+    - about [Aretha Franklin](../../topics/aretha-franklin/index.md), [Donald Trump](../../topics/donald-trump/index.md), [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jamie Starr](../../topics/jamie-starr/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [Pandemonium (album)](../../topics/album/pandemonium/index.md), [Trump](../../topics/trump/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-haunts-morris-day-s-new-memoir-i-still-hear-his-voice-in-my-head/562430972/))
 
 ----
@@ -259,7 +259,7 @@
  - [**"To Janet Jackson, Minneapolis will always be her 'home away from home' -- Balancing motherhood and megahits, Janet Jackson talks about her return to Minnesota, where she recorded her breakthrough albums."**](https://www.startribune.com/to-janet-jackson-minneapolis-will-always-be-her-home-away-from-home/560054982/)
     - in [Minneapolis Star Tribune](../../publications/minneapolis-star-tribune/index.md)
     - on 11 September 2019
-    - about [Janelle Monae](../../topics/janelle-monae/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Sounds of Blackness](../../topics/sounds-of-blackness/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Time](../../topics/the-time/index.md)
+    - about [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Janelle Monae](../../topics/janelle-monae/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Sounds of Blackness](../../topics/sounds-of-blackness/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Time](../../topics/the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/to-janet-jackson-minneapolis-will-always-be-her-home-away-from-home/560054982/))
 
 ----

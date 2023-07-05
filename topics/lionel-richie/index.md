@@ -7,7 +7,7 @@
  - [**"The Rock Hall of Fame opens to Jimmy Jam and Terry Lewis"**](https://apnews.com/article/britney-spears-entertainment-travel-music-8ee900272c36979c2d64e4fa79bd12b4)
     - in [Associated Press News](../../publications/associated-press-news/index.md)
     - on 1 November 2022
-    - about [Earth, Wind & Fire](../../topics/earth-wind-fire/index.md), [Grammys](../../topics/grammys/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Lionel Richie](../../topics/lionel-richie/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Q-Tip](../../topics/q-tip/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Time](../../topics/the-time/index.md)
+    - about [Earth, Wind & Fire](../../topics/earth-wind-fire/index.md), [Grammys](../../topics/grammys/index.md), [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Lionel Richie](../../topics/lionel-richie/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Q-Tip](../../topics/q-tip/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Time](../../topics/the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/britney-spears-entertainment-travel-music-8ee900272c36979c2d64e4fa79bd12b4))
 
 ----
@@ -86,7 +86,7 @@
  - [**"Mineapolis Producers Make String Of Top-Selling Records"**](https://apnews.com/article/672e2df1974cb03ccd2d105f1a736d9e)
     - in [Associated Press News](../../publications/associated-press-news/index.md)
     - on 11 February 1987
-    - about [Atlanta (place)](../../topics/place/atlanta/index.md), [Flyte Tyme Productions](../../topics/flyte-tyme-productions/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Lionel Richie](../../topics/lionel-richie/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Time](../../topics/the-time/index.md)
+    - about [Atlanta (place)](../../topics/place/atlanta/index.md), [Flyte Tyme](../../topics/flyte-tyme/index.md), [Flyte Tyme Productions](../../topics/flyte-tyme-productions/index.md), [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Lionel Richie](../../topics/lionel-richie/index.md), [Morris Day](../../topics/morris-day/index.md), [ping-pong](../../topics/ping-pong/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Time](../../topics/the-time/index.md), [What Have You Done For Me Lately (song)](../../topics/song/what-have-you-done-for-me-lately/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/672e2df1974cb03ccd2d105f1a736d9e))
 
 ----

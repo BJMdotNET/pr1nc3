@@ -1,8 +1,8 @@
 # museum
 
-## 2023 (3)
+## 2023 (4)
 
-### 2023 June (1)
+### 2023 June (2)
 
  - [**"Prince Paisley Park Celebration 2023: Photos From the Event -- The seventh annual event featured unreleased music from the Prince vault, as well as performances and special appearances."**](https://www.billboard.com/photos/prince-paisley-park-celebration-2023-photos-1235355324/)
     - by [Jenny Regan](../../authors/jenny-regan/index.md)
@@ -10,6 +10,14 @@
     - on 15 June 2023
     - about [7 (E Flat Version) (song)](../../topics/song/7-e-flat-version/index.md), [All A Share Together Now (song)](../../topics/song/all-a-share-together-now/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Doug E. Fresh](../../topics/doug-e-fresh/index.md), [L. Londell McMillan](../../topics/l-londell-mcmillan/index.md), [Levi Seacer](../../topics/levi-seacer/index.md), [museum](../../topics/museum/index.md), [Paisley Park Studios (place)](../../topics/place/paisley-park-studios/index.md), [Sounds of Blackness](../../topics/sounds-of-blackness/index.md), [vault](../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/photos/prince-paisley-park-celebration-2023-photos-1235355324/))
+
+<br />
+
+ - [**"Minneapolis Sound Museum honors local music legends"**](https://www.fox9.com/news/jellybean-johnson-on-the-minneapolis-sound)
+    - in [Fox 9](../../publications/fox-9/index.md)
+    - on 7 June 2023
+    - about [Capri Theater (place)](../../topics/place/capri-theater/index.md), [Flyte Tyme](../../topics/flyte-tyme/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Minneapolis Sound Museum](../../topics/minneapolis-sound-museum/index.md), [Morris Day](../../topics/morris-day/index.md), [museum](../../topics/museum/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Time](../../topics/the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.fox9.com/news/jellybean-johnson-on-the-minneapolis-sound))
 
 ----
 
@@ -710,7 +718,7 @@
  - [**"With tears, tattoos, Prince fans remember him a year later"**](https://apnews.com/839811ae130242a3ade37017c6115208)
     - in [Associated Press News](../../publications/associated-press-news/index.md)
     - on 21 April 2017
-    - about [First Avenue (place)](../../topics/place/first-avenue/index.md), [Minnesota History Center](../../topics/minnesota-history-center/index.md), [museum](../../topics/museum/index.md)
+    - about [First Avenue (place)](../../topics/place/first-avenue/index.md), [Minnesota History Center](../../topics/minnesota-history-center/index.md), [museum](../../topics/museum/index.md), [ping-pong](../../topics/ping-pong/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/839811ae130242a3ade37017c6115208))
 
 <br />
@@ -1049,7 +1057,7 @@
  - [**"Nashville mourns a Prince"**](https://eu.tennessean.com/story/entertainment/music/2016/04/21/nashville-musicians-remember-prince/83340932/)
     - in [Tennessean](../../publications/tennessean/index.md)
     - on 22 April 2016
-    - about [Laura LiPuma](../../topics/laura-lipuma/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [museum](../../topics/museum/index.md), [Super Bowl](../../topics/super-bowl/index.md)
+    - about [Laura LiPuma](../../topics/laura-lipuma/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [museum](../../topics/museum/index.md), [ping-pong](../../topics/ping-pong/index.md), [Super Bowl](../../topics/super-bowl/index.md)
     - ([mirror](https://web.archive.org/web/*/https://eu.tennessean.com/story/entertainment/music/2016/04/21/nashville-musicians-remember-prince/83340932/))
 
 ----

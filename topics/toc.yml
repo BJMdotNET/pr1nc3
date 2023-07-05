@@ -371,6 +371,9 @@ items:
 - name: Black Album (album)
   href: album/black-album/index.md
   homepage: album/black-album/index.md
+- name: Black Music Project
+  href: black-music-project/index.md
+  homepage: black-music-project/index.md
 - name: Black-ish (TV show)
   href: tv-show/black-ish/index.md
   homepage: tv-show/black-ish/index.md
@@ -668,6 +671,9 @@ items:
 - name: Christina Aguilera
   href: christina-aguilera/index.md
   homepage: christina-aguilera/index.md
+- name: Christopher Fuller
+  href: christopher-fuller/index.md
+  homepage: christopher-fuller/index.md
 - name: Christopher Reeve
   href: christopher-reeve/index.md
   homepage: christopher-reeve/index.md
@@ -779,6 +785,9 @@ items:
 - name: Cyndi Lauper
   href: cyndi-lauper/index.md
   homepage: cyndi-lauper/index.md
+- name: Cynthia Johnson
+  href: cynthia-johnson/index.md
+  homepage: cynthia-johnson/index.md
 - name: Cynthia Jonson
   href: cynthia-jonson/index.md
   homepage: cynthia-jonson/index.md
@@ -989,6 +998,9 @@ items:
 - name: Don’t Stop ’Til You Get Enough (song)
   href: song/don-t-stop-til-you-get-enough/index.md
   homepage: song/don-t-stop-til-you-get-enough/index.md
+- name: Donald Byrd
+  href: donald-byrd/index.md
+  homepage: donald-byrd/index.md
 - name: Donald L. Thorin
   href: donald-l-thorin/index.md
   homepage: donald-l-thorin/index.md
@@ -1214,12 +1226,21 @@ items:
 - name: Fleetwood Mac
   href: fleetwood-mac/index.md
   homepage: fleetwood-mac/index.md
+- name: Flight Time (song)
+  href: song/flight-time/index.md
+  homepage: song/flight-time/index.md
 - name: Flying Cloud Drive (place)
   href: place/flying-cloud-drive/index.md
   homepage: place/flying-cloud-drive/index.md
+- name: Flyte Tyme
+  href: flyte-tyme/index.md
+  homepage: flyte-tyme/index.md
 - name: Flyte Tyme Productions
   href: flyte-tyme-productions/index.md
   homepage: flyte-tyme-productions/index.md
+- name: Flyte Tyme Studios (place)
+  href: place/flyte-tyme-studios/index.md
+  homepage: place/flyte-tyme-studios/index.md
 - name: Foo Fighters
   href: foo-fighters/index.md
   homepage: foo-fighters/index.md
@@ -1619,6 +1640,12 @@ items:
 - name: Jakissa Taylor Semple
   href: jakissa-taylor-semple/index.md
   homepage: jakissa-taylor-semple/index.md
+- name: Jam & Lewis
+  href: jam-lewis/index.md
+  homepage: jam-lewis/index.md
+- name: Jam and Lewis
+  href: jam-and-lewis/index.md
+  homepage: jam-and-lewis/index.md
 - name: James “Jimmy Jam” Harris III
   href: james-jimmy-jam-harris-iii/index.md
   homepage: james-jimmy-jam-harris-iii/index.md
@@ -1655,6 +1682,9 @@ items:
 - name: Jeff Katz
   href: jeff-katz/index.md
   homepage: jeff-katz/index.md
+- name: Jeff Taylor
+  href: jeff-taylor/index.md
+  homepage: jeff-taylor/index.md
 - name: Jeffrey Levin
   href: jeffrey-levin/index.md
   homepage: jeffrey-levin/index.md
@@ -1694,6 +1724,9 @@ items:
 - name: Jim Olson
   href: jim-olson/index.md
   homepage: jim-olson/index.md
+- name: Jimmy “Jam” Harris
+  href: jimmy-jam-harris/index.md
+  homepage: jimmy-jam-harris/index.md
 - name: Jimmy Jam
   href: jimmy-jam/index.md
   homepage: jimmy-jam/index.md
@@ -2321,6 +2354,9 @@ items:
 - name: Minneapolis Institute of Art
   href: minneapolis-institute-of-art/index.md
   homepage: minneapolis-institute-of-art/index.md
+- name: Minneapolis Sound Museum
+  href: minneapolis-sound-museum/index.md
+  homepage: minneapolis-sound-museum/index.md
 - name: Minneapolis-St. Paul International Airport (place)
   href: place/minneapolis-st-paul-international-airport/index.md
   homepage: place/minneapolis-st-paul-international-airport/index.md
@@ -2519,6 +2555,9 @@ items:
 - name: Nick Hornby
   href: nick-hornby/index.md
   homepage: nick-hornby/index.md
+- name: Nicollet Avenue
+  href: nicollet-avenue/index.md
+  homepage: nicollet-avenue/index.md
 - name: Nicollet Mall (place)
   href: place/nicollet-mall/index.md
   homepage: place/nicollet-mall/index.md
@@ -3395,6 +3434,9 @@ items:
 - name: Sticky Wicked (song)
   href: song/sticky-wicked/index.md
   homepage: song/sticky-wicked/index.md
+- name: Stokely Williams
+  href: stokely-williams/index.md
+  homepage: stokely-williams/index.md
 - name: Stokley
   href: stokley/index.md
   homepage: stokley/index.md
@@ -3950,6 +3992,9 @@ items:
 - name: Westside Preparatory School
   href: westside-preparatory-school/index.md
   homepage: westside-preparatory-school/index.md
+- name: What Have You Done For Me Lately (song)
+  href: song/what-have-you-done-for-me-lately/index.md
+  homepage: song/what-have-you-done-for-me-lately/index.md
 - name: What If (song)
   href: song/what-if/index.md
   homepage: song/what-if/index.md

@@ -203,7 +203,7 @@
  - [**"Susan Rogers on her four intense years working for Prince -- Susan Rogers was Prince's sound engineer on albums including Purple Rain and Sign o' the Times. It was four years of her life that left a huge impression, she tells Tony Stamp."**](https://www.rnz.co.nz/national/programmes/nat-music/audio/2018657684/susan-rogers-on-her-four-intense-years-working-for-prince)
     - in [RNZ](../../publications/rnz/index.md)
     - on 11 August 2018
-    - about [Owen Husney](../../topics/owen-husney/index.md), [Susan Rogers](../../topics/susan-rogers/index.md)
+    - about [Owen Husney](../../topics/owen-husney/index.md), [ping-pong](../../topics/ping-pong/index.md), [Susan Rogers](../../topics/susan-rogers/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.rnz.co.nz/national/programmes/nat-music/audio/2018657684/susan-rogers-on-her-four-intense-years-working-for-prince))
 
 ----

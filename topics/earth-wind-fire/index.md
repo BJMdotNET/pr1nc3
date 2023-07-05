@@ -20,7 +20,7 @@
  - [**"The Rock Hall of Fame opens to Jimmy Jam and Terry Lewis"**](https://apnews.com/article/britney-spears-entertainment-travel-music-8ee900272c36979c2d64e4fa79bd12b4)
     - in [Associated Press News](../../publications/associated-press-news/index.md)
     - on 1 November 2022
-    - about [Earth, Wind & Fire](../../topics/earth-wind-fire/index.md), [Grammys](../../topics/grammys/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Lionel Richie](../../topics/lionel-richie/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Q-Tip](../../topics/q-tip/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Time](../../topics/the-time/index.md)
+    - about [Earth, Wind & Fire](../../topics/earth-wind-fire/index.md), [Grammys](../../topics/grammys/index.md), [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Lionel Richie](../../topics/lionel-richie/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Q-Tip](../../topics/q-tip/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Time](../../topics/the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/britney-spears-entertainment-travel-music-8ee900272c36979c2d64e4fa79bd12b4))
 
 ----
@@ -158,6 +158,18 @@
     - on 25 November 2019
     - about [Billy Sparks](../../topics/billy-sparks/index.md), [Earth, Wind & Fire](../../topics/earth-wind-fire/index.md), [George Clinton](../../topics/george-clinton/index.md), [Grammy Award](../../topics/grammy-award/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Margena A. Christian](../../topics/margena-a-christian/index.md), [memoir](../../topics/memoir/index.md), [Muhammad Ali](../../topics/muhammad-ali/index.md), [Purple Gang](../../topics/purple-gang/index.md), [Wallace Safford](../../topics/wallace-safford/index.md), [Wally, Where’d You Get Those Glasses? (book)](../../topics/book/wally-where-d-you-get-those-glasses/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.ebony.com/news/former-bodyguard-for-prince-and-other-stars-gets-real-in-new-memoir/))
+
+----
+
+## 2016 (1)
+
+### 2016 April (1)
+
+ - [**"Prince Remembered by Childhood Best Friend and Bandmate André Cymone : 'There Was a Lot More to Him Than What People Saw'"**](https://www.billboard.com/articles/news/magazine-feature/7348518/prince-childhood-friend-bassist-andre-cymone-remembrance)
+    - in [Billboard](../../publications/billboard/index.md)
+    - on 28 April 2016
+    - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [André Cymone](../../topics/andr-cymone/index.md), [Bobby Z](../../topics/bobby-z/index.md), [Earth, Wind & Fire](../../topics/earth-wind-fire/index.md), [Flyte Tyme](../../topics/flyte-tyme/index.md), [Housequake (song)](../../topics/song/housequake/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Dance Electric (song)](../../topics/song/the-dance-electric/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/magazine-feature/7348518/prince-childhood-friend-bassist-andre-cymone-remembrance))
 
 ----
 

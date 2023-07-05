@@ -61,7 +61,7 @@
  - [**"Super Bowl Live concert series will include Prince tribute"**](https://apnews.com/30711cb14b744f1aa016784116c806cc)
     - in [Associated Press News](../../publications/associated-press-news/index.md)
     - on 1 December 2017
-    - about [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md)
+    - about [Jimmy “Jam” Harris](../../topics/jimmy-jam-harris/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/30711cb14b744f1aa016784116c806cc))
 
 ----
@@ -831,7 +831,7 @@
  - [**"With tears, tattoos, Prince fans remember him a year later"**](https://apnews.com/839811ae130242a3ade37017c6115208)
     - in [Associated Press News](../../publications/associated-press-news/index.md)
     - on 21 April 2017
-    - about [First Avenue (place)](../../topics/place/first-avenue/index.md), [Minnesota History Center](../../topics/minnesota-history-center/index.md), [museum](../../topics/museum/index.md)
+    - about [First Avenue (place)](../../topics/place/first-avenue/index.md), [Minnesota History Center](../../topics/minnesota-history-center/index.md), [museum](../../topics/museum/index.md), [ping-pong](../../topics/ping-pong/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/839811ae130242a3ade37017c6115208))
 
 ----

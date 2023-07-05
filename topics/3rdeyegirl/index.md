@@ -40,7 +40,7 @@
  - [**"Prince's Personal Photographer on What It Was Like to Work Closely with Him"**](https://www.yahoo.com/lifestyle/princes-personal-photographer-closely-him-140000320.html)
     - in [www.yahoo.com](../../publications/www-yahoo-com/index.md)
     - on 4 December 2019
-    - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Elisa Fiorillo](../../topics/elisa-fiorillo/index.md), [Erotic City (song)](../../topics/song/erotic-city/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md)
+    - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Elisa Fiorillo](../../topics/elisa-fiorillo/index.md), [Erotic City (song)](../../topics/song/erotic-city/index.md), [ping-pong](../../topics/ping-pong/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.yahoo.com/lifestyle/princes-personal-photographer-closely-him-140000320.html))
 
 <br />
@@ -48,7 +48,7 @@
  - [**"Prince's Personal Photographer on What It Was Like to Work Closely with Him -- Randee St. Nicholas's new book, My Name Is Prince, collects and unpacks photographs and memories of the icon."**](https://www.gq.com/story/prince-photographer-randee-st-nicholas-interview)
     - in [GQ](../../publications/gq/index.md)
     - on 4 December 2019
-    - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Elisa Fiorillo](../../topics/elisa-fiorillo/index.md), [Erotic City (song)](../../topics/song/erotic-city/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md), [The Revolution](../../topics/the-revolution/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md)
+    - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Elisa Fiorillo](../../topics/elisa-fiorillo/index.md), [Erotic City (song)](../../topics/song/erotic-city/index.md), [ping-pong](../../topics/ping-pong/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md), [The Revolution](../../topics/the-revolution/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.gq.com/story/prince-photographer-randee-st-nicholas-interview))
 
 <br />
@@ -74,7 +74,7 @@
  - [**"Looks Like We'll Be Seeing Velvet Negroni In Australia Next Year"**](https://themusic.com.au/features/og-flavas-velvet-negroni-cyclone/v8zb09LV1Nc/)
     - in [theMusic.com.au](../../publications/themusic-com-au/index.md)
     - on 10 October 2019
-    - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Lenny Kravitz](../../topics/lenny-kravitz/index.md), [Lizzo](../../topics/lizzo/index.md), [Paisley Park Records](../../topics/paisley-park-records/index.md), [Paul Peterson](../../topics/paul-peterson/index.md), [Quincy Jones](../../topics/quincy-jones/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Time](../../topics/the-time/index.md)
+    - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Jam & Lewis](../../topics/jam-lewis/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Lenny Kravitz](../../topics/lenny-kravitz/index.md), [Lizzo](../../topics/lizzo/index.md), [Paisley Park Records](../../topics/paisley-park-records/index.md), [Paul Peterson](../../topics/paul-peterson/index.md), [Quincy Jones](../../topics/quincy-jones/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Time](../../topics/the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://themusic.com.au/features/og-flavas-velvet-negroni-cyclone/v8zb09LV1Nc/))
 
 <br />
@@ -251,7 +251,7 @@
  - [**"Prince Remembered by Childhood Best Friend and Bandmate André Cymone : 'There Was a Lot More to Him Than What People Saw'"**](https://www.billboard.com/articles/news/magazine-feature/7348518/prince-childhood-friend-bassist-andre-cymone-remembrance)
     - in [Billboard](../../publications/billboard/index.md)
     - on 28 April 2016
-    - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [André Cymone](../../topics/andr-cymone/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Morris Day](../../topics/morris-day/index.md)
+    - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [André Cymone](../../topics/andr-cymone/index.md), [Bobby Z](../../topics/bobby-z/index.md), [Earth, Wind & Fire](../../topics/earth-wind-fire/index.md), [Flyte Tyme](../../topics/flyte-tyme/index.md), [Housequake (song)](../../topics/song/housequake/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Dance Electric (song)](../../topics/song/the-dance-electric/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/magazine-feature/7348518/prince-childhood-friend-bassist-andre-cymone-remembrance))
 
 <br />

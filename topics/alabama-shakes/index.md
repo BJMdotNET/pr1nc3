@@ -25,7 +25,7 @@
  - [**"Brittany Howard’s Solo Mission After critical acclaim with the Alabama Shakes, the fiery frontwoman goes it alone."**](https://www.vulture.com/2019/10/brittany-howard-profile-jamie-alabama-shakes.html)
     - in [Vulture](../../publications/vulture/index.md)
     - on 17 October 2019
-    - about [Alabama Shakes](../../topics/alabama-shakes/index.md), [Brittany Howard](../../topics/brittany-howard/index.md), [divorce](../../topics/divorce/index.md), [memoir](../../topics/memoir/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md)
+    - about [Alabama Shakes](../../topics/alabama-shakes/index.md), [Brittany Howard](../../topics/brittany-howard/index.md), [divorce](../../topics/divorce/index.md), [memoir](../../topics/memoir/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [ping-pong](../../topics/ping-pong/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.vulture.com/2019/10/brittany-howard-profile-jamie-alabama-shakes.html))
 
 ----

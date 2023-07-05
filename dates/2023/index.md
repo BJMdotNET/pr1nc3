@@ -10,7 +10,16 @@
 
 ----
 
-## June 2023 (13)
+## June 2023 (16)
+
+ - [**"The influence of Black music: How 'Flyte Tyme' changed the world from a recording studio"**](https://www.mprnews.org/story/2023/06/29/the-influence-of-black-music-how-flyte-tyme-changed-the-world-from-a-booth-in-edina)
+    - by [Jae Bryson](../../authors/jae-bryson/index.md)
+    - in [MPR News (Minnesota Public Radio)](../../publications/mpr-news-minnesota-public-radio/index.md)
+    - on 30 June 2023
+    - about [Alexander O’Neal](../../topics/alexander-o-neal/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Black Music Project](../../topics/black-music-project/index.md), [Christopher Fuller](../../topics/christopher-fuller/index.md), [Cynthia Johnson](../../topics/cynthia-johnson/index.md), [Donald Byrd](../../topics/donald-byrd/index.md), [Edina (place)](../../topics/place/edina/index.md), [Flight Time (song)](../../topics/song/flight-time/index.md), [Flyte Tyme](../../topics/flyte-tyme/index.md), [Flyte Tyme Studios (place)](../../topics/place/flyte-tyme-studios/index.md), [Gary Hines](../../topics/gary-hines/index.md), [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jeff Taylor](../../topics/jeff-taylor/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jimmy “Jam” Harris](../../topics/jimmy-jam-harris/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Mint Condition](../../topics/mint-condition/index.md), [Morris Day](../../topics/morris-day/index.md), [Nicollet Avenue](../../topics/nicollet-avenue/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Sounds of Blackness](../../topics/sounds-of-blackness/index.md), [Stokely Williams](../../topics/stokely-williams/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Time](../../topics/the-time/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.mprnews.org/story/2023/06/29/the-influence-of-black-music-how-flyte-tyme-changed-the-world-from-a-booth-in-edina))
+
+----
 
  - [**"“There’s Guitar Madness All Over This”: Prince Talks Gear, Recording and His Creative Process in This Essential Interview From the ‘Guitar Player’ Vault -- The Artist spoke to ‘GP’ from Paisley Park’s Studio A at a milestone moment in his guitar playing career"**](https://www.guitarplayer.com/players/prince-january-2000-interview-guitar-player)
     - by [Art Thompson](../../authors/art-thompson/index.md), [Rod Brakes](../../authors/rod-brakes/index.md)
@@ -53,6 +62,15 @@
     - on 13 June 2023
     - about [Joni Mitchell](../../topics/joni-mitchell/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.nytimes.com/2023/06/13/arts/music/amplifier-newsletter-joni-mitchell-jam.html))
+
+----
+
+ - [**""The way that Control sounds is an accident because we didn’t know what we were doing": why Jam and Lewis recorded Janet Jackson’s breakthrough album ‘wrong’, and why it’s all Prince’s fault -- Because learning from the best beats reading manual, every time"**](https://www.musicradar.com/news/jam-and-lewis-janet-jackson-control-prince)
+    - by [Daniel Griffiths](../../authors/daniel-griffiths/index.md)
+    - in [MusicRadar](../../publications/musicradar/index.md)
+    - on 12 June 2023
+    - about [A&M Records](../../topics/a-m-records/index.md), [airport](../../topics/airport/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Flyte Tyme](../../topics/flyte-tyme/index.md), [Jam & Lewis](../../topics/jam-lewis/index.md), [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [The Time](../../topics/the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.musicradar.com/news/jam-and-lewis-janet-jackson-control-prince))
 
 ----
 
@@ -100,6 +118,14 @@
 
 ----
 
+ - [**"Minneapolis Sound Museum honors local music legends"**](https://www.fox9.com/news/jellybean-johnson-on-the-minneapolis-sound)
+    - in [Fox 9](../../publications/fox-9/index.md)
+    - on 7 June 2023
+    - about [Capri Theater (place)](../../topics/place/capri-theater/index.md), [Flyte Tyme](../../topics/flyte-tyme/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Minneapolis Sound Museum](../../topics/minneapolis-sound-museum/index.md), [Morris Day](../../topics/morris-day/index.md), [museum](../../topics/museum/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Time](../../topics/the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.fox9.com/news/jellybean-johnson-on-the-minneapolis-sound))
+
+----
+
  - [**"Why Prince Changed His Name to an Unpronounceable Symbol 30 Years Ago, and What Happened Next"**](https://variety.com/2023/music/news/prince-symbol-why-he-changed-his-name-1235635422/)
     - by [Jem Aswad](../../authors/jem-aswad/index.md)
     - in [Variety](../../publications/variety/index.md)
@@ -112,7 +138,7 @@
  - [**"Celebration returns to Paisley Park this week"**](https://spokesman-recorder.com/2023/06/05/celebration-returns-to-paisley-park/)
     - in [Minnesota Spokesman-Recorder](../../publications/minnesota-spokesman-recorder/index.md)
     - on 5 June 2023
-    - about [André Cymone](../../topics/andr-cymone/index.md), [BrownMark](../../topics/brownmark/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [Celebration 2017 (event)](../../topics/event/celebration-2017/index.md), [Celebration 2023 (event)](../../topics/event/celebration-2023/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [DJ Rashida](../../topics/dj-rashida/index.md), [Doug E. Fresh](../../topics/doug-e-fresh/index.md), [exhibit](../../topics/exhibit/index.md), [exhibition](../../topics/exhibition/index.md), [fDeluxe](../../topics/fdeluxe/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [George Clinton](../../topics/george-clinton/index.md), [Jesse Johnson](../../topics/jesse-johnson/index.md), [Mazarati](../../topics/mazarati/index.md), [Mint Condition](../../topics/mint-condition/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Prince Rogers Nelson Memorial Highway (place)](../../topics/place/prince-rogers-nelson-memorial-highway/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md), [Rosie Gaines](../../topics/rosie-gaines/index.md), [Shelby J.](../../topics/shelby-j/index.md), [Sounds of Blackness](../../topics/sounds-of-blackness/index.md), [Stokley](../../topics/stokley/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md)
+    - about [André Cymone](../../topics/andr-cymone/index.md), [BrownMark](../../topics/brownmark/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [Celebration 2017 (event)](../../topics/event/celebration-2017/index.md), [Celebration 2023 (event)](../../topics/event/celebration-2023/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [DJ Rashida](../../topics/dj-rashida/index.md), [Doug E. Fresh](../../topics/doug-e-fresh/index.md), [exhibit](../../topics/exhibit/index.md), [exhibition](../../topics/exhibition/index.md), [fDeluxe](../../topics/fdeluxe/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [George Clinton](../../topics/george-clinton/index.md), [Jesse Johnson](../../topics/jesse-johnson/index.md), [Mazarati](../../topics/mazarati/index.md), [Mint Condition](../../topics/mint-condition/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Prince Rogers Nelson Memorial Highway (place)](../../topics/place/prince-rogers-nelson-memorial-highway/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md), [Rosie Gaines](../../topics/rosie-gaines/index.md), [Shelby J.](../../topics/shelby-j/index.md), [Sounds of Blackness](../../topics/sounds-of-blackness/index.md), [Stokely Williams](../../topics/stokely-williams/index.md), [Stokley](../../topics/stokley/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md)
     - ([mirror](https://web.archive.org/web/*/https://spokesman-recorder.com/2023/06/05/celebration-returns-to-paisley-park/))
 
 ----

@@ -53,7 +53,7 @@
  - [**"Katy Perry just wants to have fun in arena spectacle at Xcel Energy Center"**](https://apnews.com/article/entertainment-music-concerts-lady-gaga-katy-perry-74dd6597f0d741e2b8310b3dc29c1518)
     - in [Associated Press News](../../publications/associated-press-news/index.md)
     - on 12 December 2021
-    - about [Cyndi Lauper](../../topics/cyndi-lauper/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Katy Perry](../../topics/katy-perry/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md)
+    - about [Cyndi Lauper](../../topics/cyndi-lauper/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Katy Perry](../../topics/katy-perry/index.md), [What Have You Done For Me Lately (song)](../../topics/song/what-have-you-done-for-me-lately/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/entertainment-music-concerts-lady-gaga-katy-perry-74dd6597f0d741e2b8310b3dc29c1518))
 
 ----
@@ -89,7 +89,7 @@
  - [**"Jam & Lewis are back for the first time with ‘Volume One’"**](https://apnews.com/article/entertainment-business-music-arts-and-entertainment-hip-hop-and-rap-2474c3f5a5d3aa311320a74321bb9cde)
     - in [Associated Press News](../../publications/associated-press-news/index.md)
     - on 31 August 2021
-    - about [Chaka Khan](../../topics/chaka-khan/index.md), [Grammys](../../topics/grammys/index.md), [H.E.R.](../../topics/h-e-r/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [Sounds of Blackness](../../topics/sounds-of-blackness/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Time](../../topics/the-time/index.md)
+    - about [Chaka Khan](../../topics/chaka-khan/index.md), [Grammys](../../topics/grammys/index.md), [H.E.R.](../../topics/h-e-r/index.md), [Jam & Lewis](../../topics/jam-lewis/index.md), [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [Sounds of Blackness](../../topics/sounds-of-blackness/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Time](../../topics/the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/entertainment-business-music-arts-and-entertainment-hip-hop-and-rap-2474c3f5a5d3aa311320a74321bb9cde))
 
 ----

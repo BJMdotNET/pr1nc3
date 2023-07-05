@@ -53,7 +53,7 @@
  - [**"Katy Perry just wants to have fun in arena spectacle at Xcel Energy Center"**](https://apnews.com/article/entertainment-music-concerts-lady-gaga-katy-perry-74dd6597f0d741e2b8310b3dc29c1518)
     - in [Associated Press News](../../publications/associated-press-news/index.md)
     - on 12 December 2021
-    - about [Cyndi Lauper](../../topics/cyndi-lauper/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Katy Perry](../../topics/katy-perry/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md)
+    - about [Cyndi Lauper](../../topics/cyndi-lauper/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Katy Perry](../../topics/katy-perry/index.md), [What Have You Done For Me Lately (song)](../../topics/song/what-have-you-done-for-me-lately/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/entertainment-music-concerts-lady-gaga-katy-perry-74dd6597f0d741e2b8310b3dc29c1518))
 
 ----
@@ -102,7 +102,7 @@
 
 ----
 
-## September 2021 (1)
+## September 2021 (2)
 
  - [**"The Legend of Prince: The Purple One's Guitar Players Share Untold Secrets and Tales from the Studio and Road -- Mike Scott, Dez Dickerson, Donna Grantis, and Kat Dyson tell all in these GP-exclusive interviews."**](https://www.guitarplayer.com/players/the-legend-of-prince-the-purple-ones-guitar-players-share-untold-secrets-and-tales-from-the-studio-and-road)
     - by [Art Thompson](../../authors/art-thompson/index.md)
@@ -113,12 +113,21 @@
 
 ----
 
+ - [**"GRAMMY Rewind: Watch Jimmy Jam & Terry Lewis Win Their First GRAMMY With Swag In 1987 -- For the latest edition of GRAMMY Rewind, watch superproducer duo Jimmy Jam & Terry Lewis win their first GRAMMY Award, for Producer Of The Year (Non-Classical), at the 29th GRAMMY Awards in 1987 with swag, humor and grace—and full heads of hair"**](https://www.grammy.com/news/watch-jimmy-jam-terry-lewis-win-their-first-grammy-award-1987-grammy-rewind)
+    - by [Ana Monroy Yglesias](../../authors/ana-monroy-yglesias/index.md)
+    - in [The GRAMMYs](../../publications/the-grammys/index.md)
+    - on 4 September 2021
+    - about [Flyte Tyme](../../topics/flyte-tyme/index.md), [Flyte Tyme Studios (place)](../../topics/place/flyte-tyme-studios/index.md), [Grammy Award](../../topics/grammy-award/index.md), [Jam & Lewis](../../topics/jam-lewis/index.md), [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [What Have You Done For Me Lately (song)](../../topics/song/what-have-you-done-for-me-lately/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.grammy.com/news/watch-jimmy-jam-terry-lewis-win-their-first-grammy-award-1987-grammy-rewind))
+
+----
+
 ## August 2021 (4)
 
  - [**"Jam & Lewis are back for the first time with ‘Volume One’"**](https://apnews.com/article/entertainment-business-music-arts-and-entertainment-hip-hop-and-rap-2474c3f5a5d3aa311320a74321bb9cde)
     - in [Associated Press News](../../publications/associated-press-news/index.md)
     - on 31 August 2021
-    - about [Chaka Khan](../../topics/chaka-khan/index.md), [Grammys](../../topics/grammys/index.md), [H.E.R.](../../topics/h-e-r/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [Sounds of Blackness](../../topics/sounds-of-blackness/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Time](../../topics/the-time/index.md)
+    - about [Chaka Khan](../../topics/chaka-khan/index.md), [Grammys](../../topics/grammys/index.md), [H.E.R.](../../topics/h-e-r/index.md), [Jam & Lewis](../../topics/jam-lewis/index.md), [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [Sounds of Blackness](../../topics/sounds-of-blackness/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Time](../../topics/the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/entertainment-business-music-arts-and-entertainment-hip-hop-and-rap-2474c3f5a5d3aa311320a74321bb9cde))
 
 ----
@@ -147,13 +156,22 @@
 
 ----
 
-## July 2021 (1)
+## July 2021 (2)
 
  - [**"Music Review: Prince’s ‘America’ vault release stunning"**](https://apnews.com/article/entertainment-music-arts-and-entertainment-prince-207c2f0de99ff17f62e02a1e48c63b8c)
     - in [Associated Press News](../../publications/associated-press-news/index.md)
     - on 27 July 2021
     - about [1000 Light Years From Here (song)](../../topics/song/1000-light-years-from-here/index.md), [Hot Summer (song)](../../topics/song/hot-summer/index.md), [IRS](../../topics/irs/index.md), [Legacy Recordings](../../topics/legacy-recordings/index.md), [Soul Asylum](../../topics/soul-asylum/index.md), [Stand Up and B Strong (song)](../../topics/song/stand-up-and-b-strong/index.md), [vault](../../topics/vault/index.md), [Welcome 2 America (album)](../../topics/album/welcome-2-america/index.md), [Welcome 2 America (song)](../../topics/song/welcome-2-america/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/entertainment-music-arts-and-entertainment-prince-207c2f0de99ff17f62e02a1e48c63b8c))
+
+----
+
+ - [**"Jam & Lewis: “With Prince, we learned to use synthesizers in a very musical way” -- 35 years in the making, the incomparable songwriting and production duo have just released what is - unbelievably - their debut album..."**](https://www.musicradar.com/news/jam-and-lewis-prince-synths)
+    - by [Daniel Griffiths](../../authors/daniel-griffiths/index.md)
+    - in [MusicRadar](../../publications/musicradar/index.md)
+    - on 9 July 2021
+    - about [A&M Records](../../topics/a-m-records/index.md), [Jam & Lewis](../../topics/jam-lewis/index.md), [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Mariah Carey](../../topics/mariah-carey/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [What Have You Done For Me Lately (song)](../../topics/song/what-have-you-done-for-me-lately/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.musicradar.com/news/jam-and-lewis-prince-synths))
 
 ----
 

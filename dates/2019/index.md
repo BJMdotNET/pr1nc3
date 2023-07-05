@@ -183,7 +183,7 @@
  - [**"Former Prince mentor Pepé Willie shares memories of the late legend"**](https://spokesman-recorder.com/2019/12/14/former-prince-mentor-pepe-willie-shares-storied-history-of-do-yourself-a-favor-if-you-see-me/)
     - in [Minnesota Spokesman-Recorder](../../publications/minnesota-spokesman-recorder/index.md)
     - on 14 December 2019
-    - about [1999 Super Deluxe (album)](../../topics/album/1999-super-deluxe/index.md), [94 East](../../topics/94-east/index.md), [André Cymone](../../topics/andr-cymone/index.md), [Bob Cavallo](../../topics/bob-cavallo/index.md), [bootleg](../../topics/bootleg/index.md), [Detroit (place)](../../topics/place/detroit/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [Do Yourself a Favor (song)](../../topics/song/do-yourself-a-favor/index.md), [Little Anthony and The Imperials](../../topics/little-anthony-and-the-imperials/index.md), [Morris Day](../../topics/morris-day/index.md), [No Call U (song)](../../topics/song/no-call-u/index.md), [North Carolina (place)](../../topics/place/north-carolina/index.md), [Owen Husney](../../topics/owen-husney/index.md), [Pepé Willie](../../topics/pep-willie/index.md), [Purple Music (song)](../../topics/song/purple-music/index.md), [separation](../../topics/separation/index.md), [The Revolution](../../topics/the-revolution/index.md), [vault](../../topics/vault/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md)
+    - about [1999 Super Deluxe (album)](../../topics/album/1999-super-deluxe/index.md), [94 East](../../topics/94-east/index.md), [André Cymone](../../topics/andr-cymone/index.md), [Bob Cavallo](../../topics/bob-cavallo/index.md), [bootleg](../../topics/bootleg/index.md), [Detroit (place)](../../topics/place/detroit/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [Do Yourself a Favor (song)](../../topics/song/do-yourself-a-favor/index.md), [Little Anthony and The Imperials](../../topics/little-anthony-and-the-imperials/index.md), [Morris Day](../../topics/morris-day/index.md), [Nicollet Avenue](../../topics/nicollet-avenue/index.md), [No Call U (song)](../../topics/song/no-call-u/index.md), [North Carolina (place)](../../topics/place/north-carolina/index.md), [Owen Husney](../../topics/owen-husney/index.md), [Pepé Willie](../../topics/pep-willie/index.md), [Purple Music (song)](../../topics/song/purple-music/index.md), [separation](../../topics/separation/index.md), [The Revolution](../../topics/the-revolution/index.md), [vault](../../topics/vault/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md)
     - ([mirror](https://web.archive.org/web/*/https://spokesman-recorder.com/2019/12/14/former-prince-mentor-pepe-willie-shares-storied-history-of-do-yourself-a-favor-if-you-see-me/))
 
 ----
@@ -407,7 +407,7 @@
  - [**"Prince's Personal Photographer on What It Was Like to Work Closely with Him"**](https://www.yahoo.com/lifestyle/princes-personal-photographer-closely-him-140000320.html)
     - in [www.yahoo.com](../../publications/www-yahoo-com/index.md)
     - on 4 December 2019
-    - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Elisa Fiorillo](../../topics/elisa-fiorillo/index.md), [Erotic City (song)](../../topics/song/erotic-city/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md)
+    - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Elisa Fiorillo](../../topics/elisa-fiorillo/index.md), [Erotic City (song)](../../topics/song/erotic-city/index.md), [ping-pong](../../topics/ping-pong/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.yahoo.com/lifestyle/princes-personal-photographer-closely-him-140000320.html))
 
 ----
@@ -415,7 +415,7 @@
  - [**"Prince's Personal Photographer on What It Was Like to Work Closely with Him -- Randee St. Nicholas's new book, My Name Is Prince, collects and unpacks photographs and memories of the icon."**](https://www.gq.com/story/prince-photographer-randee-st-nicholas-interview)
     - in [GQ](../../publications/gq/index.md)
     - on 4 December 2019
-    - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Elisa Fiorillo](../../topics/elisa-fiorillo/index.md), [Erotic City (song)](../../topics/song/erotic-city/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md), [The Revolution](../../topics/the-revolution/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md)
+    - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Elisa Fiorillo](../../topics/elisa-fiorillo/index.md), [Erotic City (song)](../../topics/song/erotic-city/index.md), [ping-pong](../../topics/ping-pong/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md), [The Revolution](../../topics/the-revolution/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.gq.com/story/prince-photographer-randee-st-nicholas-interview))
 
 ----
@@ -1396,7 +1396,7 @@
  - [**"Here's What Morris Day Thinks About the Posthumous Prince Releases -- Hot off his wildly entertaining memoir 'On Time,' the funk legend talks unreleased The Time music and Prince's Vaults."**](https://www.billboard.com/articles/news/8541347/morris-day-on-time-book-memoir-prince-funk)
     - in [Billboard](../../publications/billboard/index.md)
     - on 30 October 2019
-    - about [Atlanta (place)](../../topics/place/atlanta/index.md), [Graffiti Bridge (album)](../../topics/album/graffiti-bridge/index.md), [Graffiti Bridge (movie)](../../topics/movie/graffiti-bridge/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Jungle Love (song)](../../topics/song/jungle-love/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [Pandemonium (album)](../../topics/album/pandemonium/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Bird (song)](../../topics/song/the-bird/index.md), [The Time](../../topics/the-time/index.md), [vault](../../topics/vault/index.md)
+    - about [Atlanta (place)](../../topics/place/atlanta/index.md), [Graffiti Bridge (album)](../../topics/album/graffiti-bridge/index.md), [Graffiti Bridge (movie)](../../topics/movie/graffiti-bridge/index.md), [Jam & Lewis](../../topics/jam-lewis/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Jungle Love (song)](../../topics/song/jungle-love/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [Pandemonium (album)](../../topics/album/pandemonium/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Bird (song)](../../topics/song/the-bird/index.md), [The Time](../../topics/the-time/index.md), [vault](../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8541347/morris-day-on-time-book-memoir-prince-funk))
 
 ----
@@ -1988,7 +1988,7 @@
  - [**"Brittany Howard’s Solo Mission After critical acclaim with the Alabama Shakes, the fiery frontwoman goes it alone."**](https://www.vulture.com/2019/10/brittany-howard-profile-jamie-alabama-shakes.html)
     - in [Vulture](../../publications/vulture/index.md)
     - on 17 October 2019
-    - about [Alabama Shakes](../../topics/alabama-shakes/index.md), [Brittany Howard](../../topics/brittany-howard/index.md), [divorce](../../topics/divorce/index.md), [memoir](../../topics/memoir/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md)
+    - about [Alabama Shakes](../../topics/alabama-shakes/index.md), [Brittany Howard](../../topics/brittany-howard/index.md), [divorce](../../topics/divorce/index.md), [memoir](../../topics/memoir/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [ping-pong](../../topics/ping-pong/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.vulture.com/2019/10/brittany-howard-profile-jamie-alabama-shakes.html))
 
 ----
@@ -2140,7 +2140,7 @@
  - [**"Looks Like We'll Be Seeing Velvet Negroni In Australia Next Year"**](https://themusic.com.au/features/og-flavas-velvet-negroni-cyclone/v8zb09LV1Nc/)
     - in [theMusic.com.au](../../publications/themusic-com-au/index.md)
     - on 10 October 2019
-    - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Lenny Kravitz](../../topics/lenny-kravitz/index.md), [Lizzo](../../topics/lizzo/index.md), [Paisley Park Records](../../topics/paisley-park-records/index.md), [Paul Peterson](../../topics/paul-peterson/index.md), [Quincy Jones](../../topics/quincy-jones/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Time](../../topics/the-time/index.md)
+    - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Jam & Lewis](../../topics/jam-lewis/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Lenny Kravitz](../../topics/lenny-kravitz/index.md), [Lizzo](../../topics/lizzo/index.md), [Paisley Park Records](../../topics/paisley-park-records/index.md), [Paul Peterson](../../topics/paul-peterson/index.md), [Quincy Jones](../../topics/quincy-jones/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Time](../../topics/the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://themusic.com.au/features/og-flavas-velvet-negroni-cyclone/v8zb09LV1Nc/))
 
 ----
@@ -2156,7 +2156,7 @@
  - [**"Rock and Roll Book Club: Morris Day is 'On Time'"**](https://www.thecurrent.org/feature/2019/10/08/morris-day-on-time)
     - in [The Current](../../publications/the-current/index.md)
     - on 9 October 2019
-    - about [André Cymone](../../topics/andr-cymone/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Kiowa Trail](../../topics/kiowa-trail/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Morris Day](../../topics/morris-day/index.md)
+    - about [André Cymone](../../topics/andr-cymone/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Kiowa Trail](../../topics/kiowa-trail/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/10/08/morris-day-on-time))
 
 ----
@@ -2180,7 +2180,7 @@
  - [**"Prince haunts Morris Day's new memoir: 'I still hear his voice in my head' -- "Purple Rain" co-star and Time leader Morris Day details his long friendship with Prince in a memoir that brings him home to the Twin Cities this week."**](https://www.startribune.com/prince-haunts-morris-day-s-new-memoir-i-still-hear-his-voice-in-my-head/562430972/)
     - in [Minneapolis Star Tribune](../../publications/minneapolis-star-tribune/index.md)
     - on 8 October 2019
-    - about [Aretha Franklin](../../topics/aretha-franklin/index.md), [Donald Trump](../../topics/donald-trump/index.md), [Jamie Starr](../../topics/jamie-starr/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [Pandemonium (album)](../../topics/album/pandemonium/index.md), [Trump](../../topics/trump/index.md)
+    - about [Aretha Franklin](../../topics/aretha-franklin/index.md), [Donald Trump](../../topics/donald-trump/index.md), [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jamie Starr](../../topics/jamie-starr/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [Pandemonium (album)](../../topics/album/pandemonium/index.md), [Trump](../../topics/trump/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-haunts-morris-day-s-new-memoir-i-still-hear-his-voice-in-my-head/562430972/))
 
 ----
@@ -2550,7 +2550,7 @@
  - [**"To Janet Jackson, Minneapolis will always be her 'home away from home' -- Balancing motherhood and megahits, Janet Jackson talks about her return to Minnesota, where she recorded her breakthrough albums."**](https://www.startribune.com/to-janet-jackson-minneapolis-will-always-be-her-home-away-from-home/560054982/)
     - in [Minneapolis Star Tribune](../../publications/minneapolis-star-tribune/index.md)
     - on 11 September 2019
-    - about [Janelle Monae](../../topics/janelle-monae/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Sounds of Blackness](../../topics/sounds-of-blackness/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Time](../../topics/the-time/index.md)
+    - about [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Janelle Monae](../../topics/janelle-monae/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Sounds of Blackness](../../topics/sounds-of-blackness/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Time](../../topics/the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/to-janet-jackson-minneapolis-will-always-be-her-home-away-from-home/560054982/))
 
 ----
@@ -3560,7 +3560,7 @@
     - by [Michael Mitchell](../../authors/michael-mitchell/index.md)
     - in [RadioFacts](../../publications/radiofacts/index.md)
     - on 12 July 2019
-    - about [Alexander O’Neal](../../topics/alexander-o-neal/index.md), [Flyte Tyme Productions](../../topics/flyte-tyme-productions/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Tabu Records](../../topics/tabu-records/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Time](../../topics/the-time/index.md)
+    - about [Alexander O’Neal](../../topics/alexander-o-neal/index.md), [Flyte Tyme Productions](../../topics/flyte-tyme-productions/index.md), [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Tabu Records](../../topics/tabu-records/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Time](../../topics/the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.radiofacts.com/music-executive-dina-r-andrews-appears-in-netflixs-the-black-godfather/))
 
 ----
@@ -4235,7 +4235,7 @@
  - [**"The Curious Case of Tevin Campbell"**](https://www.thereckoningmag.com/the-reckoning-blog/the-curious-case-of-tevin-campbell)
     - in [The Reckoning by The Counter Narrative Project](../../publications/the-reckoning-by-the-counter-narrative-project/index.md)
     - on 9 May 2019
-    - about [Aretha Franklin](../../topics/aretha-franklin/index.md), [Ava DuVernay](../../topics/ava-duvernay/index.md), [Benny Medina](../../topics/benny-medina/index.md), [Beyoncé](../../topics/beyonc/index.md), [D’Angelo](../../topics/d-angelo/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Lenny Kravitz](../../topics/lenny-kravitz/index.md), [Quincy Jones](../../topics/quincy-jones/index.md), [Round and Round (song)](../../topics/song/round-and-round/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [Tevin Campbell](../../topics/tevin-campbell/index.md), [Usher](../../topics/usher/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md), [Whitney Houston](../../topics/whitney-houston/index.md)
+    - about [Aretha Franklin](../../topics/aretha-franklin/index.md), [Ava DuVernay](../../topics/ava-duvernay/index.md), [Benny Medina](../../topics/benny-medina/index.md), [Beyoncé](../../topics/beyonc/index.md), [D’Angelo](../../topics/d-angelo/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Lenny Kravitz](../../topics/lenny-kravitz/index.md), [Quincy Jones](../../topics/quincy-jones/index.md), [Round and Round (song)](../../topics/song/round-and-round/index.md), [Stokely Williams](../../topics/stokely-williams/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [Tevin Campbell](../../topics/tevin-campbell/index.md), [Usher](../../topics/usher/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md), [Whitney Houston](../../topics/whitney-houston/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.thereckoningmag.com/the-reckoning-blog/the-curious-case-of-tevin-campbell))
 
 ----
