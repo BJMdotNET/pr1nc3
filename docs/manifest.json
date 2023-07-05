@@ -15035,6 +15035,79 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "publications/youtube/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/youtube/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "publications/youtube/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "publications/youtube/toc.html"
+        },
+        ".json": {
+          "relative_path": "publications/youtube/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/youtube/youtube-2015.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/youtube/youtube-2015.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/youtube/youtube-2016.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/youtube/youtube-2016.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/youtube/youtube-2017.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/youtube/youtube-2017.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/youtube/youtube-2018.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/youtube/youtube-2018.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/youtube/youtube-2022.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/youtube/youtube-2022.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "publications/zapproved/index.md",
       "output": {
         ".html": {
@@ -15085,6 +15158,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/-100-million-deal/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/-doctor-matt-fink/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/-doctor-matt-fink/index.html"
         }
       },
       "version": ""
@@ -21315,6 +21398,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/mariah-carey/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/mark-brown/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/mark-brown/index.html"
         }
       },
       "version": ""
