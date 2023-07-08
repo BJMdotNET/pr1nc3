@@ -53,6 +53,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "authors/alexandra-simon/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/alexandra-simon/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "authors/amber-dowling/index.md",
       "output": {
         ".html": {
@@ -653,6 +663,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "authors/eddie-fu/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/eddie-fu/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "authors/eileen-kinsella/index.md",
       "output": {
         ".html": {
@@ -833,6 +853,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "authors/jazz-monroe/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/jazz-monroe/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "authors/jean-hopfensperger/index.md",
       "output": {
         ".html": {
@@ -963,6 +993,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "authors/jon-pareles/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/jon-pareles/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "authors/jon-winkler/index.md",
       "output": {
         ".html": {
@@ -987,6 +1027,16 @@
       "output": {
         ".html": {
           "relative_path": "authors/karen-zamora/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "authors/kat-ramkumar/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/kat-ramkumar/index.html"
         }
       },
       "version": ""
@@ -1487,6 +1537,16 @@
       "output": {
         ".html": {
           "relative_path": "authors/shirley-ju/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "authors/spin-staff/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/spin-staff/index.html"
         }
       },
       "version": ""
@@ -4062,6 +4122,16 @@
       "output": {
         ".html": {
           "relative_path": "publications/consequence-of-sound/consequence-of-sound-2019.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/consequence-of-sound/consequence-of-sound-2023.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/consequence-of-sound/consequence-of-sound-2023.html"
         }
       },
       "version": ""
@@ -9031,6 +9101,16 @@
       "version": ""
     },
     {
+      "type": "Conceptual",
+      "source_relative_path": "publications/rolling-stone/rolling-stone-2023.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/rolling-stone/rolling-stone-2023.html"
+        }
+      },
+      "version": ""
+    },
+    {
       "type": "Toc",
       "source_relative_path": "publications/rolling-stone/toc.yml",
       "output": {
@@ -9342,6 +9422,39 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "publications/sidestagemagazine-com/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/sidestagemagazine-com/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/sidestagemagazine-com/sidestagemagazine-com-2023.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/sidestagemagazine-com/sidestagemagazine-com-2023.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "publications/sidestagemagazine-com/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "publications/sidestagemagazine-com/toc.html"
+        },
+        ".json": {
+          "relative_path": "publications/sidestagemagazine-com/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "publications/slate-com/index.md",
       "output": {
         ".html": {
@@ -9564,6 +9677,16 @@
       "output": {
         ".html": {
           "relative_path": "publications/spin/spin-2019.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/spin/spin-2023.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/spin/spin-2023.html"
         }
       },
       "version": ""
@@ -11504,6 +11627,16 @@
       "output": {
         ".html": {
           "relative_path": "publications/under-the-radar/under-the-radar-2019.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/under-the-radar/under-the-radar-2023.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/under-the-radar/under-the-radar-2023.html"
         }
       },
       "version": ""
@@ -13520,6 +13653,39 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "publications/www-kare11-com/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/www-kare11-com/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "publications/www-kare11-com/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "publications/www-kare11-com/toc.html"
+        },
+        ".json": {
+          "relative_path": "publications/www-kare11-com/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/www-kare11-com/www-kare11-com-2023.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/www-kare11-com/www-kare11-com-2023.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "publications/www-ktlo-com/index.md",
       "output": {
         ".html": {
@@ -14930,6 +15096,16 @@
       "output": {
         ".html": {
           "relative_path": "publications/yahoo-entertainment/yahoo-entertainment-2020.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/yahoo-entertainment/yahoo-entertainment-2023.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/yahoo-entertainment/yahoo-entertainment-2023.html"
         }
       },
       "version": ""
