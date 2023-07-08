@@ -843,6 +843,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "authors/james-rettig/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/james-rettig/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "authors/jason-draper/index.md",
       "output": {
         ".html": {
@@ -957,6 +967,16 @@
       "output": {
         ".html": {
           "relative_path": "authors/jessica-gresko/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "authors/joe-taysom/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/joe-taysom/index.html"
         }
       },
       "version": ""
@@ -1403,6 +1423,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "authors/reg-chapman/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/reg-chapman/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "authors/richard-chin/index.md",
       "output": {
         ".html": {
@@ -1517,6 +1547,16 @@
       "output": {
         ".html": {
           "relative_path": "authors/sharyn-jackson/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "authors/shawn-grant/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/shawn-grant/index.html"
         }
       },
       "version": ""
@@ -1850,6 +1890,16 @@
       "output": {
         ".html": {
           "relative_path": "authors/vince-tuss/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "authors/wendy-pearl/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/wendy-pearl/index.html"
         }
       },
       "version": ""
@@ -3619,6 +3669,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "publications/bring-me-the-news/bring-me-the-news-2023.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/bring-me-the-news/bring-me-the-news-2023.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "publications/bring-me-the-news/index.md",
       "output": {
         ".html": {
@@ -5067,6 +5127,16 @@
       "output": {
         ".html": {
           "relative_path": "publications/far-out-magazine/far-out-magazine-2019.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/far-out-magazine/far-out-magazine-2023.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/far-out-magazine/far-out-magazine-2023.html"
         }
       },
       "version": ""
@@ -9422,39 +9492,6 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "publications/sidestagemagazine-com/index.md",
-      "output": {
-        ".html": {
-          "relative_path": "publications/sidestagemagazine-com/index.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "publications/sidestagemagazine-com/sidestagemagazine-com-2023.md",
-      "output": {
-        ".html": {
-          "relative_path": "publications/sidestagemagazine-com/sidestagemagazine-com-2023.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Toc",
-      "source_relative_path": "publications/sidestagemagazine-com/toc.yml",
-      "output": {
-        ".html": {
-          "relative_path": "publications/sidestagemagazine-com/toc.html"
-        },
-        ".json": {
-          "relative_path": "publications/sidestagemagazine-com/toc.json"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
       "source_relative_path": "publications/slate-com/index.md",
       "output": {
         ".html": {
@@ -9730,6 +9767,16 @@
       "output": {
         ".html": {
           "relative_path": "publications/stereogum/stereogum-2020.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/stereogum/stereogum-2023.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/stereogum/stereogum-2023.html"
         }
       },
       "version": ""
@@ -11104,6 +11151,16 @@
       "version": ""
     },
     {
+      "type": "Conceptual",
+      "source_relative_path": "publications/thegrio-com/thegrio-com-2023.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/thegrio-com/thegrio-com-2023.html"
+        }
+      },
+      "version": ""
+    },
+    {
       "type": "Toc",
       "source_relative_path": "publications/thegrio-com/toc.yml",
       "output": {
@@ -11211,6 +11268,39 @@
         },
         ".json": {
           "relative_path": "publications/theseconddisc-com/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/thesource-com/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/thesource-com/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/thesource-com/thesource-com-2023.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/thesource-com/thesource-com-2023.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "publications/thesource-com/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "publications/thesource-com/toc.html"
+        },
+        ".json": {
+          "relative_path": "publications/thesource-com/toc.json"
         }
       },
       "version": ""
@@ -11419,6 +11509,16 @@
       "output": {
         ".html": {
           "relative_path": "publications/twincities-com-pioneer-press/twincities-com-pioneer-press-2020.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/twincities-com-pioneer-press/twincities-com-pioneer-press-2023.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/twincities-com-pioneer-press/twincities-com-pioneer-press-2023.html"
         }
       },
       "version": ""
@@ -12614,6 +12714,16 @@
       "output": {
         ".html": {
           "relative_path": "publications/wcco-cbs-minnesota/wcco-cbs-minnesota-2020.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/wcco-cbs-minnesota/wcco-cbs-minnesota-2023.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/wcco-cbs-minnesota/wcco-cbs-minnesota-2023.html"
         }
       },
       "version": ""
@@ -24504,6 +24614,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/prince-the-story-of-1999/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/prince-vault-series/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/prince-vault-series/index.html"
         }
       },
       "version": ""
