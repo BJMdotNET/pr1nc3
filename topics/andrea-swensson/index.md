@@ -41,7 +41,7 @@
  - [**"What Is The Minneapolis Sound? Good Question"**](https://minnesota.cbslocal.com/2020/01/23/what-is-the-minneapolis-sound-good-question/)
     - in [WCCO - CBS Minnesota](../../publications/wcco-cbs-minnesota/index.md)
     - on 23 January 2020
-    - about [Andrea Swensson](../../topics/andrea-swensson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Lizzo](../../topics/lizzo/index.md), [Morris Day](../../topics/morris-day/index.md), [PBS](../../topics/pbs/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - about [Andrea Swensson](../../topics/andrea-swensson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Lizzo](../../topics/lizzo/index.md), [Morris Day](../../topics/morris-day/index.md), [PBS](../../topics/pbs/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [WCCO](../../topics/wcco/index.md)
     - ([mirror](https://web.archive.org/web/*/https://minnesota.cbslocal.com/2020/01/23/what-is-the-minneapolis-sound-good-question/))
 
 <br />

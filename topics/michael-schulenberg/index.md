@@ -19,7 +19,7 @@
  - [**"Michael Schulenberg, Doctor Who Prescribed Opioids To Prince Before Death, Punished By State Board"**](https://minnesota.cbslocal.com/2020/02/03/michael-schulenberg-doctor-who-prescribed-opioids-to-prince-before-death-punished-by-state-board/)
     - in [WCCO - CBS Minnesota](../../publications/wcco-cbs-minnesota/index.md)
     - on 3 February 2020
-    - about [Michael Schulenberg](../../topics/michael-schulenberg/index.md)
+    - about [Michael Schulenberg](../../topics/michael-schulenberg/index.md), [opioid](../../topics/opioid/index.md), [WCCO](../../topics/wcco/index.md)
     - ([mirror](https://web.archive.org/web/*/https://minnesota.cbslocal.com/2020/02/03/michael-schulenberg-doctor-who-prescribed-opioids-to-prince-before-death-punished-by-state-board/))
 
 <br />

@@ -17,7 +17,7 @@
  - [**"Dance on: How Prince’s legacy of giving continues to thrive"**](https://spokesman-recorder.com/2019/04/20/dance-on-how-princes-legacy-of-giving-continues-to-thrive/)
     - in [Minnesota Spokesman-Recorder](../../../publications/minnesota-spokesman-recorder/index.md)
     - on 20 April 2019
-    - about [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Jacqui Thompson](../../../topics/jacqui-thompson/index.md), [NPG Records](../../../topics/npg-records/index.md), [PRN Alumni Foundation](../../../topics/prn-alumni-foundation/index.md), [The Most Beautiful Girl In The World (song)](../../../topics/song/the-most-beautiful-girl-in-the-world/index.md), [Van Jones](../../../topics/van-jones/index.md), [WCCO-TV](../../../topics/wcco-tv/index.md), [YesWeCode](../../../topics/yeswecode/index.md)
+    - about [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Jacqui Thompson](../../../topics/jacqui-thompson/index.md), [NPG Records](../../../topics/npg-records/index.md), [PRN Alumni Foundation](../../../topics/prn-alumni-foundation/index.md), [The Most Beautiful Girl In The World (song)](../../../topics/song/the-most-beautiful-girl-in-the-world/index.md), [Twin Cities (place)](../../../topics/place/twin-cities/index.md), [Van Jones](../../../topics/van-jones/index.md), [WCCO](../../../topics/wcco/index.md), [WCCO-TV](../../../topics/wcco-tv/index.md), [YesWeCode](../../../topics/yeswecode/index.md)
     - ([mirror](https://web.archive.org/web/*/https://spokesman-recorder.com/2019/04/20/dance-on-how-princes-legacy-of-giving-continues-to-thrive/))
 
 ----

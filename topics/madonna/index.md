@@ -102,6 +102,18 @@
 
 ----
 
+## 2016 (1)
+
+### 2016 April (1)
+
+ - [**"Prince "might be two or three of the greats""**](https://www.cbsnews.com/news/prince-dead-might-be-two-or-three-of-the-greats/)
+    - in [CBS News](../../publications/cbs-news/index.md)
+    - on 21 April 2016
+    - about [James Brown](../../topics/james-brown/index.md), [Little Richard](../../topics/little-richard/index.md), [Madonna](../../topics/madonna/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/news/prince-dead-might-be-two-or-three-of-the-greats/))
+
+----
+
 ## 2015 (1)
 
 ### 2015 February (1)

@@ -1083,7 +1083,7 @@
  - [**"A Minneapolis-area Prince pilgrimage a year after his death"**](https://apnews.com/c26c137efcb447af86f26bb41e8ac97f)
     - in [Associated Press News](../../publications/associated-press-news/index.md)
     - on 15 April 2017
-    - about [Electric Fetus (place)](../../topics/place/electric-fetus/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Minnesota History Center](../../topics/minnesota-history-center/index.md), [museum](../../topics/museum/index.md), [Sam’s (place)](../../topics/place/sam-s/index.md), [Schmitt Music Company](../../topics/schmitt-music-company/index.md)
+    - about [Electric Fetus (place)](../../topics/place/electric-fetus/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Minnesota History Center](../../topics/minnesota-history-center/index.md), [museum](../../topics/museum/index.md), [Sam’s (place)](../../topics/place/sam-s/index.md), [Schmitt Music Company](../../topics/schmitt-music-company/index.md), [WCCO](../../topics/wcco/index.md), [WCCO-TV](../../topics/wcco-tv/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/c26c137efcb447af86f26bb41e8ac97f))
 
 ----
@@ -1235,7 +1235,7 @@
  - [**"Drummer who discovered Prince dead in elevator talks legend's legacy"**](https://www.cbsnews.com/news/prince-confidant-drummer-kirk-johnson-paisley-park-tour-legacy/)
     - in [CBS News](../../publications/cbs-news/index.md)
     - on 29 March 2017
-    - about [Carver County](../../topics/carver-county/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [exhibit](../../topics/exhibit/index.md), [fentanyl](../../topics/fentanyl/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Super Bowl](../../topics/super-bowl/index.md), [vault](../../topics/vault/index.md)
+    - about [Carver County](../../topics/carver-county/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [exhibit](../../topics/exhibit/index.md), [fentanyl](../../topics/fentanyl/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [opioid](../../topics/opioid/index.md), [Super Bowl](../../topics/super-bowl/index.md), [vault](../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/news/prince-confidant-drummer-kirk-johnson-paisley-park-tour-legacy/))
 
 ----

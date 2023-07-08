@@ -84,7 +84,7 @@
  - [**"Maker of one of Prince’s most-iconic guitars fights to keep his design -- It’s the ‘Cloud Guitar’ from ‘Purple Rain.’"**](https://www.wtoc.com/2019/08/29/maker-one-princes-most-iconic-guitars-fights-keep-his-design/)
     - in [WTOC-TV](../../../publications/wtoc-tv/index.md)
     - on 29 August 2019
-    - about [Cloud guitar (instrument)](../../../topics/instrument/cloud-guitar/index.md), [Dave Rusan](../../../topics/dave-rusan/index.md), [trademark](../../../topics/trademark/index.md), [WCCO-TV](../../../topics/wcco-tv/index.md)
+    - about [Cloud guitar (instrument)](../../../topics/instrument/cloud-guitar/index.md), [Dave Rusan](../../../topics/dave-rusan/index.md), [trademark](../../../topics/trademark/index.md), [WCCO](../../../topics/wcco/index.md), [WCCO-TV](../../../topics/wcco-tv/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.wtoc.com/2019/08/29/maker-one-princes-most-iconic-guitars-fights-keep-his-design/))
 
 <br />
@@ -92,7 +92,7 @@
  - [**"Paisley Park files suit over Prince's guitar"**](https://www.kyma.com/news/paisley-park-files-suit-over-prince-s-guitar/1114623814)
     - in [KYMA](../../../publications/kyma/index.md)
     - on 29 August 2019
-    - about [Cloud guitar (instrument)](../../../topics/instrument/cloud-guitar/index.md), [Dave Rusan](../../../topics/dave-rusan/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md), [trademark](../../../topics/trademark/index.md), [WCCO-TV](../../../topics/wcco-tv/index.md)
+    - about [Cloud guitar (instrument)](../../../topics/instrument/cloud-guitar/index.md), [Dave Rusan](../../../topics/dave-rusan/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md), [trademark](../../../topics/trademark/index.md), [WCCO](../../../topics/wcco/index.md), [WCCO-TV](../../../topics/wcco-tv/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.kyma.com/news/paisley-park-files-suit-over-prince-s-guitar/1114623814))
 
 <br />
@@ -100,7 +100,7 @@
  - [**"‘One Of The Highlights Of My Life’: Paisley Park Estate Challenges Man For ‘Purple Rain’ Guitar Trademark"**](https://minnesota.cbslocal.com/2019/08/28/one-of-the-highlights-of-my-life-paisley-park-estate-challenges-trademark-for-purple-rain-guitar/)
     - in [WCCO - CBS Minnesota](../../../publications/wcco-cbs-minnesota/index.md)
     - on 28 August 2019
-    - about [Cloud guitar (instrument)](../../../topics/instrument/cloud-guitar/index.md), [Dave Rusan](../../../topics/dave-rusan/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md), [trademark](../../../topics/trademark/index.md)
+    - about [Cloud guitar (instrument)](../../../topics/instrument/cloud-guitar/index.md), [Dave Rusan](../../../topics/dave-rusan/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md), [trademark](../../../topics/trademark/index.md), [WCCO](../../../topics/wcco/index.md)
     - ([mirror](https://web.archive.org/web/*/https://minnesota.cbslocal.com/2019/08/28/one-of-the-highlights-of-my-life-paisley-park-estate-challenges-trademark-for-purple-rain-guitar/))
 
 <br />
@@ -173,7 +173,7 @@
  - [**"‘It’s Like My Legacy’: Prince’s Estate Threatens Designer Of Iconic ‘Cloud Guitar’"**](https://minnesota.cbslocal.com/2018/12/05/its-like-my-legacy-princes-estate-threatens-designer-of-iconic-cloud-guitar/)
     - in [WCCO - CBS Minnesota](../../../publications/wcco-cbs-minnesota/index.md)
     - on 5 December 2018
-    - about [Cloud guitar (instrument)](../../../topics/instrument/cloud-guitar/index.md), [Dave Rusan](../../../topics/dave-rusan/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md), [trademark](../../../topics/trademark/index.md), [WCCO-TV](../../../topics/wcco-tv/index.md)
+    - about [Cloud guitar (instrument)](../../../topics/instrument/cloud-guitar/index.md), [Dave Rusan](../../../topics/dave-rusan/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md), [trademark](../../../topics/trademark/index.md), [WCCO](../../../topics/wcco/index.md), [WCCO-TV](../../../topics/wcco-tv/index.md)
     - ([mirror](https://web.archive.org/web/*/https://minnesota.cbslocal.com/2018/12/05/its-like-my-legacy-princes-estate-threatens-designer-of-iconic-cloud-guitar/))
 
 <br />

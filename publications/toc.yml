@@ -554,9 +554,6 @@ items:
 - name: Showbiz411
   href: showbiz411/index.md
   homepage: showbiz411/index.md
-- name: sidestagemagazine.com
-  href: sidestagemagazine-com/index.md
-  homepage: sidestagemagazine-com/index.md
 - name: slate.com
   href: slate-com/index.md
   homepage: slate-com/index.md
@@ -692,6 +689,9 @@ items:
 - name: theseconddisc.com
   href: theseconddisc-com/index.md
   homepage: theseconddisc-com/index.md
+- name: thesource.com
+  href: thesource-com/index.md
+  homepage: thesource-com/index.md
 - name: TIME
   href: time/index.md
   homepage: time/index.md
@@ -782,6 +782,9 @@ items:
 - name: wbbm780.radio.com
   href: wbbm780-radio-com/index.md
   homepage: wbbm780-radio-com/index.md
+- name: WCCO - CBS Minnesota
+  href: wcco-cbs-minnesota/index.md
+  homepage: wcco-cbs-minnesota/index.md
 - name: WCCO - CBS Minnesota
   href: wcco-cbs-minnesota/index.md
   homepage: wcco-cbs-minnesota/index.md

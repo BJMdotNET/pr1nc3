@@ -20,7 +20,7 @@
  - [**"Longtime Star Tribune columnist C.J. retires"**](https://www.startribune.com/c-j-longtime-star-tribune-columnist-retires/559204792/)
     - in [Minneapolis Star Tribune](../../publications/minneapolis-star-tribune/index.md)
     - on 3 September 2019
-    - about [C.J.](../../topics/c-j/index.md)
+    - about [C.J.](../../topics/c-j/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md), [WCCO](../../topics/wcco/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/c-j-longtime-star-tribune-columnist-retires/559204792/))
 
 <br />
@@ -28,7 +28,7 @@
  - [**"Star Tribune gossip columnist C.J. leaving newspaper after more than 30 years -- Over her years writing about local celebrities, C.J. built up a large following."**](https://bringmethenews.com/minnesota-lifestyle/star-tribune-gossip-columnist-c-j-leaving-newspaper-after-almost-30-years)
     - in [Bring Me The News](../../publications/bring-me-the-news/index.md)
     - on 3 September 2019
-    - about [C.J.](../../topics/c-j/index.md)
+    - about [C.J.](../../topics/c-j/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md), [WCCO](../../topics/wcco/index.md)
     - ([mirror](https://web.archive.org/web/*/https://bringmethenews.com/minnesota-lifestyle/star-tribune-gossip-columnist-c-j-leaving-newspaper-after-almost-30-years))
 
 ----
@@ -85,7 +85,7 @@
  - [**"The Power — and Piousness — and Frustration — and Sorrow — of One -- How Cheryl Johnson became C.J., the most infamous journalist in Minnesota"**](https://www.minnesotamonthly.com/lifestyle/the-power-and-piousness-and-frustration-and-sorrow-of-one/)
     - in [Minnesota Monthly](../../publications/minnesota-monthly/index.md)
     - on 8 September 2016
-    - about [auction](../../topics/auction/index.md), [C.J.](../../topics/c-j/index.md), [Colleen (song)](../../topics/song/colleen/index.md), [contract](../../topics/contract/index.md), [divorce](../../topics/divorce/index.md), [exhibit](../../topics/exhibit/index.md), [Minnesota Timberwolves](../../topics/minnesota-timberwolves/index.md), [Obama](../../topics/obama/index.md), [State Fair](../../topics/state-fair/index.md), [Timberwolves](../../topics/timberwolves/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md)
+    - about [auction](../../topics/auction/index.md), [C.J.](../../topics/c-j/index.md), [Colleen (song)](../../topics/song/colleen/index.md), [contract](../../topics/contract/index.md), [divorce](../../topics/divorce/index.md), [exhibit](../../topics/exhibit/index.md), [Minnesota Timberwolves](../../topics/minnesota-timberwolves/index.md), [Obama](../../topics/obama/index.md), [State Fair](../../topics/state-fair/index.md), [Timberwolves](../../topics/timberwolves/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md), [WCCO](../../topics/wcco/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.minnesotamonthly.com/lifestyle/the-power-and-piousness-and-frustration-and-sorrow-of-one/))
 
 ----

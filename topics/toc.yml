@@ -2939,6 +2939,9 @@ items:
 - name: Prince Series
   href: prince-series/index.md
   homepage: prince-series/index.md
+- name: Prince Vault Series
+  href: prince-vault-series/index.md
+  homepage: prince-vault-series/index.md
 - name: Prince - Alter Ego
   href: prince-alter-ego/index.md
   homepage: prince-alter-ego/index.md

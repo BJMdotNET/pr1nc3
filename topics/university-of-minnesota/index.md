@@ -39,7 +39,7 @@
  - [**"Massive Prince Mural Coming To MSP’s Terminal 1"**](https://minnesota.cbslocal.com/2020/01/24/massive-prince-mural-coming-to-msps-terminal-1/)
     - in [WCCO - CBS Minnesota](../../publications/wcco-cbs-minnesota/index.md)
     - on 24 January 2020
-    - about [airport](../../topics/airport/index.md), [I Would Die 4 U (song)](../../topics/song/i-would-die-4-u/index.md), [Minneapolis-St. Paul International Airport (place)](../../topics/place/minneapolis-st-paul-international-airport/index.md), [museum](../../topics/museum/index.md), [Rock Martinez](../../topics/rock-martinez/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md)
+    - about [airport](../../topics/airport/index.md), [I Would Die 4 U (song)](../../topics/song/i-would-die-4-u/index.md), [Minneapolis-St. Paul International Airport (place)](../../topics/place/minneapolis-st-paul-international-airport/index.md), [museum](../../topics/museum/index.md), [Rock Martinez](../../topics/rock-martinez/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md), [WCCO](../../topics/wcco/index.md)
     - ([mirror](https://web.archive.org/web/*/https://minnesota.cbslocal.com/2020/01/24/massive-prince-mural-coming-to-msps-terminal-1/))
 
 <br />
@@ -67,7 +67,7 @@
  - [**"New Power Generation To Perform At Bernie Sanders’ Minneapolis Rally"**](https://minnesota.cbslocal.com/2019/11/01/new-power-generation-to-perform-at-bernie-sanders-minneapolis-rally/)
     - in [WCCO - CBS Minnesota](../../publications/wcco-cbs-minnesota/index.md)
     - on 1 November 2019
-    - about [New Power Generation](../../topics/new-power-generation/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md)
+    - about [New Power Generation](../../topics/new-power-generation/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md), [WCCO](../../topics/wcco/index.md)
     - ([mirror](https://web.archive.org/web/*/https://minnesota.cbslocal.com/2019/11/01/new-power-generation-to-perform-at-bernie-sanders-minneapolis-rally/))
 
 ----
@@ -77,7 +77,7 @@
  - [**"4 Generations Of Minnesota’s Peterson Family: A Hall Of Fame Musical Legacy"**](https://minnesota.cbslocal.com/2019/10/27/4-generations-of-minnesotas-peterson-family-a-hall-of-fame-musical-legacy/)
     - in [WCCO - CBS Minnesota](../../publications/wcco-cbs-minnesota/index.md)
     - on 27 October 2019
-    - about [Fleetwood Mac](../../topics/fleetwood-mac/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [The Family](../../topics/the-family/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md)
+    - about [Fleetwood Mac](../../topics/fleetwood-mac/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [The Family](../../topics/the-family/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md), [WCCO](../../topics/wcco/index.md)
     - ([mirror](https://web.archive.org/web/*/https://minnesota.cbslocal.com/2019/10/27/4-generations-of-minnesotas-peterson-family-a-hall-of-fame-musical-legacy/))
 
 <br />
@@ -194,7 +194,7 @@
  - [**"The Power — and Piousness — and Frustration — and Sorrow — of One -- How Cheryl Johnson became C.J., the most infamous journalist in Minnesota"**](https://www.minnesotamonthly.com/lifestyle/the-power-and-piousness-and-frustration-and-sorrow-of-one/)
     - in [Minnesota Monthly](../../publications/minnesota-monthly/index.md)
     - on 8 September 2016
-    - about [auction](../../topics/auction/index.md), [C.J.](../../topics/c-j/index.md), [Colleen (song)](../../topics/song/colleen/index.md), [contract](../../topics/contract/index.md), [divorce](../../topics/divorce/index.md), [exhibit](../../topics/exhibit/index.md), [Minnesota Timberwolves](../../topics/minnesota-timberwolves/index.md), [Obama](../../topics/obama/index.md), [State Fair](../../topics/state-fair/index.md), [Timberwolves](../../topics/timberwolves/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md)
+    - about [auction](../../topics/auction/index.md), [C.J.](../../topics/c-j/index.md), [Colleen (song)](../../topics/song/colleen/index.md), [contract](../../topics/contract/index.md), [divorce](../../topics/divorce/index.md), [exhibit](../../topics/exhibit/index.md), [Minnesota Timberwolves](../../topics/minnesota-timberwolves/index.md), [Obama](../../topics/obama/index.md), [State Fair](../../topics/state-fair/index.md), [Timberwolves](../../topics/timberwolves/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md), [WCCO](../../topics/wcco/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.minnesotamonthly.com/lifestyle/the-power-and-piousness-and-frustration-and-sorrow-of-one/))
 
 ----

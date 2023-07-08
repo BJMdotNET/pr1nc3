@@ -5,7 +5,7 @@
  - [**"Michael Schulenberg, Doctor Who Prescribed Opioids To Prince Before Death, Punished By State Board"**](https://minnesota.cbslocal.com/2020/02/03/michael-schulenberg-doctor-who-prescribed-opioids-to-prince-before-death-punished-by-state-board/)
     - in [WCCO - CBS Minnesota](../../publications/wcco-cbs-minnesota/index.md)
     - on 3 February 2020
-    - about [Michael Schulenberg](../../topics/michael-schulenberg/index.md)
+    - about [Michael Schulenberg](../../topics/michael-schulenberg/index.md), [opioid](../../topics/opioid/index.md), [WCCO](../../topics/wcco/index.md)
     - ([mirror](https://web.archive.org/web/*/https://minnesota.cbslocal.com/2020/02/03/michael-schulenberg-doctor-who-prescribed-opioids-to-prince-before-death-punished-by-state-board/))
 
 ----
@@ -15,7 +15,7 @@
  - [**"Finding Minnesota: First Avenue Celebrates 50 Years"**](https://minnesota.cbslocal.com/2020/01/26/finding-minnesota-first-avenue-celebrates-50-years/)
     - in [WCCO - CBS Minnesota](../../publications/wcco-cbs-minnesota/index.md)
     - on 26 January 2020
-    - about [First Avenue (place)](../../topics/place/first-avenue/index.md)
+    - about [First Avenue (place)](../../topics/place/first-avenue/index.md), [WCCO](../../topics/wcco/index.md)
     - ([mirror](https://web.archive.org/web/*/https://minnesota.cbslocal.com/2020/01/26/finding-minnesota-first-avenue-celebrates-50-years/))
 
 ----
@@ -23,7 +23,7 @@
  - [**"Massive Prince Mural Coming To MSP’s Terminal 1"**](https://minnesota.cbslocal.com/2020/01/24/massive-prince-mural-coming-to-msps-terminal-1/)
     - in [WCCO - CBS Minnesota](../../publications/wcco-cbs-minnesota/index.md)
     - on 24 January 2020
-    - about [airport](../../topics/airport/index.md), [I Would Die 4 U (song)](../../topics/song/i-would-die-4-u/index.md), [Minneapolis-St. Paul International Airport (place)](../../topics/place/minneapolis-st-paul-international-airport/index.md), [museum](../../topics/museum/index.md), [Rock Martinez](../../topics/rock-martinez/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md)
+    - about [airport](../../topics/airport/index.md), [I Would Die 4 U (song)](../../topics/song/i-would-die-4-u/index.md), [Minneapolis-St. Paul International Airport (place)](../../topics/place/minneapolis-st-paul-international-airport/index.md), [museum](../../topics/museum/index.md), [Rock Martinez](../../topics/rock-martinez/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md), [WCCO](../../topics/wcco/index.md)
     - ([mirror](https://web.archive.org/web/*/https://minnesota.cbslocal.com/2020/01/24/massive-prince-mural-coming-to-msps-terminal-1/))
 
 ----
@@ -39,7 +39,7 @@
  - [**"What Is The Minneapolis Sound? Good Question"**](https://minnesota.cbslocal.com/2020/01/23/what-is-the-minneapolis-sound-good-question/)
     - in [WCCO - CBS Minnesota](../../publications/wcco-cbs-minnesota/index.md)
     - on 23 January 2020
-    - about [Andrea Swensson](../../topics/andrea-swensson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Lizzo](../../topics/lizzo/index.md), [Morris Day](../../topics/morris-day/index.md), [PBS](../../topics/pbs/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - about [Andrea Swensson](../../topics/andrea-swensson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Lizzo](../../topics/lizzo/index.md), [Morris Day](../../topics/morris-day/index.md), [PBS](../../topics/pbs/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [WCCO](../../topics/wcco/index.md)
     - ([mirror](https://web.archive.org/web/*/https://minnesota.cbslocal.com/2020/01/23/what-is-the-minneapolis-sound-good-question/))
 
 ----

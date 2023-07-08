@@ -8,7 +8,7 @@
     - by [Jenny Regan](../../authors/jenny-regan/index.md)
     - in [Billboard](../../publications/billboard/index.md)
     - on 15 June 2023
-    - about [7 (E Flat Version) (song)](../../topics/song/7-e-flat-version/index.md), [All A Share Together Now (song)](../../topics/song/all-a-share-together-now/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Doug E. Fresh](../../topics/doug-e-fresh/index.md), [L. Londell McMillan](../../topics/l-londell-mcmillan/index.md), [Levi Seacer](../../topics/levi-seacer/index.md), [museum](../../topics/museum/index.md), [Paisley Park Studios (place)](../../topics/place/paisley-park-studios/index.md), [Sounds of Blackness](../../topics/sounds-of-blackness/index.md), [vault](../../topics/vault/index.md)
+    - about [7 (E Flat Version) (song)](../../topics/song/7-e-flat-version/index.md), [All A Share Together Now (song)](../../topics/song/all-a-share-together-now/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [Celebration 2023 (event)](../../topics/event/celebration-2023/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Doug E. Fresh](../../topics/doug-e-fresh/index.md), [L. Londell McMillan](../../topics/l-londell-mcmillan/index.md), [Levi Seacer](../../topics/levi-seacer/index.md), [museum](../../topics/museum/index.md), [Paisley Park Studios (place)](../../topics/place/paisley-park-studios/index.md), [Sounds of Blackness](../../topics/sounds-of-blackness/index.md), [vault](../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/photos/prince-paisley-park-celebration-2023-photos-1235355324/))
 
 <br />
@@ -141,7 +141,7 @@
  - [**"Massive Prince Mural Coming To MSP’s Terminal 1"**](https://minnesota.cbslocal.com/2020/01/24/massive-prince-mural-coming-to-msps-terminal-1/)
     - in [WCCO - CBS Minnesota](../../publications/wcco-cbs-minnesota/index.md)
     - on 24 January 2020
-    - about [airport](../../topics/airport/index.md), [I Would Die 4 U (song)](../../topics/song/i-would-die-4-u/index.md), [Minneapolis-St. Paul International Airport (place)](../../topics/place/minneapolis-st-paul-international-airport/index.md), [museum](../../topics/museum/index.md), [Rock Martinez](../../topics/rock-martinez/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md)
+    - about [airport](../../topics/airport/index.md), [I Would Die 4 U (song)](../../topics/song/i-would-die-4-u/index.md), [Minneapolis-St. Paul International Airport (place)](../../topics/place/minneapolis-st-paul-international-airport/index.md), [museum](../../topics/museum/index.md), [Rock Martinez](../../topics/rock-martinez/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md), [WCCO](../../topics/wcco/index.md)
     - ([mirror](https://web.archive.org/web/*/https://minnesota.cbslocal.com/2020/01/24/massive-prince-mural-coming-to-msps-terminal-1/))
 
 <br />
@@ -769,7 +769,7 @@
  - [**"A Minneapolis-area Prince pilgrimage a year after his death"**](https://apnews.com/c26c137efcb447af86f26bb41e8ac97f)
     - in [Associated Press News](../../publications/associated-press-news/index.md)
     - on 15 April 2017
-    - about [Electric Fetus (place)](../../topics/place/electric-fetus/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Minnesota History Center](../../topics/minnesota-history-center/index.md), [museum](../../topics/museum/index.md), [Sam’s (place)](../../topics/place/sam-s/index.md), [Schmitt Music Company](../../topics/schmitt-music-company/index.md)
+    - about [Electric Fetus (place)](../../topics/place/electric-fetus/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Minnesota History Center](../../topics/minnesota-history-center/index.md), [museum](../../topics/museum/index.md), [Sam’s (place)](../../topics/place/sam-s/index.md), [Schmitt Music Company](../../topics/schmitt-music-company/index.md), [WCCO](../../topics/wcco/index.md), [WCCO-TV](../../topics/wcco-tv/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/c26c137efcb447af86f26bb41e8ac97f))
 
 ----

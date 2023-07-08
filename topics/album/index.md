@@ -34,7 +34,7 @@
   * [Last Call (album)](../album/last-call/index.md) (1)
   * [Lotus Flower (album)](../album/lotus-flower/index.md) (1)
   * [LotusFlow3r (album)](../album/lotusflow3r/index.md) (8)
-  * [Love Symbol (album)](../album/love-symbol/index.md) (9)
+  * [Love Symbol (album)](../album/love-symbol/index.md) (12)
   * [Lovesexy (album)](../album/lovesexy/index.md) (9)
   * [Margie's Little Demo (album)](../album/margie-s-little-demo/index.md) (2)
   * [MPLSoUND (album)](../album/mplsound/index.md) (5)

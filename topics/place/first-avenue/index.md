@@ -123,7 +123,7 @@
  - [**"Finding Minnesota: First Avenue Celebrates 50 Years"**](https://minnesota.cbslocal.com/2020/01/26/finding-minnesota-first-avenue-celebrates-50-years/)
     - in [WCCO - CBS Minnesota](../../../publications/wcco-cbs-minnesota/index.md)
     - on 26 January 2020
-    - about [First Avenue (place)](../../../topics/place/first-avenue/index.md)
+    - about [First Avenue (place)](../../../topics/place/first-avenue/index.md), [WCCO](../../../topics/wcco/index.md)
     - ([mirror](https://web.archive.org/web/*/https://minnesota.cbslocal.com/2020/01/26/finding-minnesota-first-avenue-celebrates-50-years/))
 
 <br />
@@ -476,7 +476,7 @@
  - [**"Dance on: How Prince’s legacy of giving continues to thrive"**](https://spokesman-recorder.com/2019/04/20/dance-on-how-princes-legacy-of-giving-continues-to-thrive/)
     - in [Minnesota Spokesman-Recorder](../../../publications/minnesota-spokesman-recorder/index.md)
     - on 20 April 2019
-    - about [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Jacqui Thompson](../../../topics/jacqui-thompson/index.md), [NPG Records](../../../topics/npg-records/index.md), [PRN Alumni Foundation](../../../topics/prn-alumni-foundation/index.md), [The Most Beautiful Girl In The World (song)](../../../topics/song/the-most-beautiful-girl-in-the-world/index.md), [Van Jones](../../../topics/van-jones/index.md), [WCCO-TV](../../../topics/wcco-tv/index.md), [YesWeCode](../../../topics/yeswecode/index.md)
+    - about [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Jacqui Thompson](../../../topics/jacqui-thompson/index.md), [NPG Records](../../../topics/npg-records/index.md), [PRN Alumni Foundation](../../../topics/prn-alumni-foundation/index.md), [The Most Beautiful Girl In The World (song)](../../../topics/song/the-most-beautiful-girl-in-the-world/index.md), [Twin Cities (place)](../../../topics/place/twin-cities/index.md), [Van Jones](../../../topics/van-jones/index.md), [WCCO](../../../topics/wcco/index.md), [WCCO-TV](../../../topics/wcco-tv/index.md), [YesWeCode](../../../topics/yeswecode/index.md)
     - ([mirror](https://web.archive.org/web/*/https://spokesman-recorder.com/2019/04/20/dance-on-how-princes-legacy-of-giving-continues-to-thrive/))
 
 ----
@@ -689,7 +689,7 @@
  - [**"A Minneapolis-area Prince pilgrimage a year after his death"**](https://apnews.com/c26c137efcb447af86f26bb41e8ac97f)
     - in [Associated Press News](../../../publications/associated-press-news/index.md)
     - on 15 April 2017
-    - about [Electric Fetus (place)](../../../topics/place/electric-fetus/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Minnesota History Center](../../../topics/minnesota-history-center/index.md), [museum](../../../topics/museum/index.md), [Sam’s (place)](../../../topics/place/sam-s/index.md), [Schmitt Music Company](../../../topics/schmitt-music-company/index.md)
+    - about [Electric Fetus (place)](../../../topics/place/electric-fetus/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Minnesota History Center](../../../topics/minnesota-history-center/index.md), [museum](../../../topics/museum/index.md), [Sam’s (place)](../../../topics/place/sam-s/index.md), [Schmitt Music Company](../../../topics/schmitt-music-company/index.md), [WCCO](../../../topics/wcco/index.md), [WCCO-TV](../../../topics/wcco-tv/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/c26c137efcb447af86f26bb41e8ac97f))
 
 ----

@@ -1,5 +1,18 @@
 # Electric Fetus (place)
 
+## 2023 (1)
+
+### 2023 July (1)
+
+ - [**"Prince fans share their excitement for new songs released from Paisley Park vault"**](https://www.cbsnews.com/minnesota/news/prince-fans-share-their-excitement-for-new-songs-releases-from-paisley-park-vault/)
+    - by [Reg Chapman](../../../authors/reg-chapman/index.md)
+    - in [WCCO - CBS Minnesota](../../../publications/wcco-cbs-minnesota/index.md)
+    - on 8 July 2023
+    - about [7 (E Flat Version) (song)](../../../topics/song/7-e-flat-version/index.md), [All A Share Together Now (song)](../../../topics/song/all-a-share-together-now/index.md), [Electric Fetus (place)](../../../topics/place/electric-fetus/index.md), [NPG Records](../../../topics/npg-records/index.md), [Prince Vault Series](../../../topics/prince-vault-series/index.md), [vault](../../../topics/vault/index.md), [WCCO](../../../topics/wcco/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/prince-fans-share-their-excitement-for-new-songs-releases-from-paisley-park-vault/))
+
+----
+
 ## 2020 (1)
 
 ### 2020 February (1)
@@ -44,7 +57,7 @@
  - [**"A Minneapolis-area Prince pilgrimage a year after his death"**](https://apnews.com/c26c137efcb447af86f26bb41e8ac97f)
     - in [Associated Press News](../../../publications/associated-press-news/index.md)
     - on 15 April 2017
-    - about [Electric Fetus (place)](../../../topics/place/electric-fetus/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Minnesota History Center](../../../topics/minnesota-history-center/index.md), [museum](../../../topics/museum/index.md), [Sam’s (place)](../../../topics/place/sam-s/index.md), [Schmitt Music Company](../../../topics/schmitt-music-company/index.md)
+    - about [Electric Fetus (place)](../../../topics/place/electric-fetus/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Minnesota History Center](../../../topics/minnesota-history-center/index.md), [museum](../../../topics/museum/index.md), [Sam’s (place)](../../../topics/place/sam-s/index.md), [Schmitt Music Company](../../../topics/schmitt-music-company/index.md), [WCCO](../../../topics/wcco/index.md), [WCCO-TV](../../../topics/wcco-tv/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/c26c137efcb447af86f26bb41e8ac97f))
 
 ----

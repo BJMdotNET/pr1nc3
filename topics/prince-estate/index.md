@@ -1,8 +1,16 @@
 # Prince Estate
 
-## 2023 (1)
+## 2023 (3)
 
-### 2023 July (1)
+### 2023 July (3)
+
+ - [**"Prince estate releases two unreleased tracks -- Previously unreleased tracks "All A Share Together Now" and "7 (E Flat Version)" are available on streaming platforms worldwide."**](https://thegrio.com/2023/07/07/prince-estate-releases-two-unreleased-tracks/)
+    - in [thegrio.com](../../publications/thegrio-com/index.md)
+    - on 7 July 2023
+    - about [7 (E Flat Version) (song)](../../topics/song/7-e-flat-version/index.md), [All A Share Together Now (song)](../../topics/song/all-a-share-together-now/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [Celebration 2023 (event)](../../topics/event/celebration-2023/index.md), [Love Symbol (album)](../../topics/album/love-symbol/index.md), [NPG Records](../../topics/npg-records/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Prince Vault Series](../../topics/prince-vault-series/index.md), [vault](../../topics/vault/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://thegrio.com/2023/07/07/prince-estate-releases-two-unreleased-tracks/))
+
+<br />
 
  - [**"Two Archival Prince Songs Now Streaming: Listen -- “7 (E Flat Version),” from 1992, and “All a Share Together Now,” from 2006, are now widely available"**](https://pitchfork.com/news/two-archival-prince-songs-now-streaming-listen/)
     - by [Jazz Monroe](../../authors/jazz-monroe/index.md)
@@ -10,6 +18,15 @@
     - on 7 July 2023
     - about [7 (E Flat Version) (song)](../../topics/song/7-e-flat-version/index.md), [All A Share Together Now (song)](../../topics/song/all-a-share-together-now/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [Love Symbol (album)](../../topics/album/love-symbol/index.md), [Primary Wave](../../topics/primary-wave/index.md), [Prince Estate](../../topics/prince-estate/index.md), [vault](../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://pitchfork.com/news/two-archival-prince-songs-now-streaming-listen/))
+
+<br />
+
+ - [**"Two Previously Unreleased Prince Gems Have Left the Vault -- Artist's estate debuted "7 (E-Flat Version)" and "All a Share Together Now" at the Paisley Park Celebration last month"**](https://www.rollingstone.com/music/music-news/prince-7-e-flat-version-all-a-share-together-now-1234784358/)
+    - by [Kory Grow](../../authors/kory-grow/index.md)
+    - in [Rolling Stone](../../publications/rolling-stone/index.md)
+    - on 7 July 2023
+    - about [All A Share Together Now (song)](../../topics/song/all-a-share-together-now/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [Love Symbol (album)](../../topics/album/love-symbol/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [vault](../../topics/vault/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-news/prince-7-e-flat-version-all-a-share-together-now-1234784358/))
 
 ----
 

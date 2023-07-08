@@ -283,7 +283,7 @@
  - [**"Longtime Star Tribune columnist C.J. retires"**](https://www.startribune.com/c-j-longtime-star-tribune-columnist-retires/559204792/)
     - in [Minneapolis Star Tribune](../../publications/minneapolis-star-tribune/index.md)
     - on 3 September 2019
-    - about [C.J.](../../topics/c-j/index.md)
+    - about [C.J.](../../topics/c-j/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md), [WCCO](../../topics/wcco/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/c-j-longtime-star-tribune-columnist-retires/559204792/))
 
 ----
@@ -758,7 +758,7 @@
     - by [Neal Justin](../../authors/neal-justin/index.md)
     - in [Minneapolis Star Tribune](../../publications/minneapolis-star-tribune/index.md)
     - on 19 April 2019
-    - about [Michael Jackson](../../topics/michael-jackson/index.md), [Slave Trade: How Prince Re-Made the Music Business (documentary)](../../topics/documentary/slave-trade-how-prince-re-made-the-music-business/index.md)
+    - about [AXS TV](../../topics/axs-tv/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Slave Trade: How Prince Re-Made the Music Business (documentary)](../../topics/documentary/slave-trade-how-prince-re-made-the-music-business/index.md), [WCCO](../../topics/wcco/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/tv-picks-for-april-20-21-ramy-prince-motown-60-a-grammy-celebration/508806472/))
 
 ----

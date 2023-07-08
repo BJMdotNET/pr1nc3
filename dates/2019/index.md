@@ -1242,7 +1242,7 @@
  - [**"New Power Generation To Perform At Bernie Sanders’ Minneapolis Rally"**](https://minnesota.cbslocal.com/2019/11/01/new-power-generation-to-perform-at-bernie-sanders-minneapolis-rally/)
     - in [WCCO - CBS Minnesota](../../publications/wcco-cbs-minnesota/index.md)
     - on 1 November 2019
-    - about [New Power Generation](../../topics/new-power-generation/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md)
+    - about [New Power Generation](../../topics/new-power-generation/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md), [WCCO](../../topics/wcco/index.md)
     - ([mirror](https://web.archive.org/web/*/https://minnesota.cbslocal.com/2019/11/01/new-power-generation-to-perform-at-bernie-sanders-minneapolis-rally/))
 
 ----
@@ -1668,7 +1668,7 @@
  - [**"4 Generations Of Minnesota’s Peterson Family: A Hall Of Fame Musical Legacy"**](https://minnesota.cbslocal.com/2019/10/27/4-generations-of-minnesotas-peterson-family-a-hall-of-fame-musical-legacy/)
     - in [WCCO - CBS Minnesota](../../publications/wcco-cbs-minnesota/index.md)
     - on 27 October 2019
-    - about [Fleetwood Mac](../../topics/fleetwood-mac/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [The Family](../../topics/the-family/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md)
+    - about [Fleetwood Mac](../../topics/fleetwood-mac/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [The Family](../../topics/the-family/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md), [WCCO](../../topics/wcco/index.md)
     - ([mirror](https://web.archive.org/web/*/https://minnesota.cbslocal.com/2019/10/27/4-generations-of-minnesotas-peterson-family-a-hall-of-fame-musical-legacy/))
 
 ----
@@ -2790,7 +2790,7 @@
  - [**"Longtime Star Tribune columnist C.J. retires"**](https://www.startribune.com/c-j-longtime-star-tribune-columnist-retires/559204792/)
     - in [Minneapolis Star Tribune](../../publications/minneapolis-star-tribune/index.md)
     - on 3 September 2019
-    - about [C.J.](../../topics/c-j/index.md)
+    - about [C.J.](../../topics/c-j/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md), [WCCO](../../topics/wcco/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/c-j-longtime-star-tribune-columnist-retires/559204792/))
 
 ----
@@ -2806,7 +2806,7 @@
  - [**"Star Tribune gossip columnist C.J. leaving newspaper after more than 30 years -- Over her years writing about local celebrities, C.J. built up a large following."**](https://bringmethenews.com/minnesota-lifestyle/star-tribune-gossip-columnist-c-j-leaving-newspaper-after-almost-30-years)
     - in [Bring Me The News](../../publications/bring-me-the-news/index.md)
     - on 3 September 2019
-    - about [C.J.](../../topics/c-j/index.md)
+    - about [C.J.](../../topics/c-j/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md), [WCCO](../../topics/wcco/index.md)
     - ([mirror](https://web.archive.org/web/*/https://bringmethenews.com/minnesota-lifestyle/star-tribune-gossip-columnist-c-j-leaving-newspaper-after-almost-30-years))
 
 ----
@@ -2889,7 +2889,7 @@
  - [**"Maker of one of Prince’s most-iconic guitars fights to keep his design -- It’s the ‘Cloud Guitar’ from ‘Purple Rain.’"**](https://www.wtoc.com/2019/08/29/maker-one-princes-most-iconic-guitars-fights-keep-his-design/)
     - in [WTOC-TV](../../publications/wtoc-tv/index.md)
     - on 29 August 2019
-    - about [Cloud guitar (instrument)](../../topics/instrument/cloud-guitar/index.md), [Dave Rusan](../../topics/dave-rusan/index.md), [trademark](../../topics/trademark/index.md), [WCCO-TV](../../topics/wcco-tv/index.md)
+    - about [Cloud guitar (instrument)](../../topics/instrument/cloud-guitar/index.md), [Dave Rusan](../../topics/dave-rusan/index.md), [trademark](../../topics/trademark/index.md), [WCCO](../../topics/wcco/index.md), [WCCO-TV](../../topics/wcco-tv/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.wtoc.com/2019/08/29/maker-one-princes-most-iconic-guitars-fights-keep-his-design/))
 
 ----
@@ -2905,7 +2905,7 @@
  - [**"Paisley Park files suit over Prince's guitar"**](https://www.kyma.com/news/paisley-park-files-suit-over-prince-s-guitar/1114623814)
     - in [KYMA](../../publications/kyma/index.md)
     - on 29 August 2019
-    - about [Cloud guitar (instrument)](../../topics/instrument/cloud-guitar/index.md), [Dave Rusan](../../topics/dave-rusan/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [trademark](../../topics/trademark/index.md), [WCCO-TV](../../topics/wcco-tv/index.md)
+    - about [Cloud guitar (instrument)](../../topics/instrument/cloud-guitar/index.md), [Dave Rusan](../../topics/dave-rusan/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [trademark](../../topics/trademark/index.md), [WCCO](../../topics/wcco/index.md), [WCCO-TV](../../topics/wcco-tv/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.kyma.com/news/paisley-park-files-suit-over-prince-s-guitar/1114623814))
 
 ----
@@ -2929,7 +2929,7 @@
  - [**"‘One Of The Highlights Of My Life’: Paisley Park Estate Challenges Man For ‘Purple Rain’ Guitar Trademark"**](https://minnesota.cbslocal.com/2019/08/28/one-of-the-highlights-of-my-life-paisley-park-estate-challenges-trademark-for-purple-rain-guitar/)
     - in [WCCO - CBS Minnesota](../../publications/wcco-cbs-minnesota/index.md)
     - on 28 August 2019
-    - about [Cloud guitar (instrument)](../../topics/instrument/cloud-guitar/index.md), [Dave Rusan](../../topics/dave-rusan/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [trademark](../../topics/trademark/index.md)
+    - about [Cloud guitar (instrument)](../../topics/instrument/cloud-guitar/index.md), [Dave Rusan](../../topics/dave-rusan/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [trademark](../../topics/trademark/index.md), [WCCO](../../topics/wcco/index.md)
     - ([mirror](https://web.archive.org/web/*/https://minnesota.cbslocal.com/2019/08/28/one-of-the-highlights-of-my-life-paisley-park-estate-challenges-trademark-for-purple-rain-guitar/))
 
 ----
@@ -4502,7 +4502,7 @@
  - [**"Dance on: How Prince’s legacy of giving continues to thrive"**](https://spokesman-recorder.com/2019/04/20/dance-on-how-princes-legacy-of-giving-continues-to-thrive/)
     - in [Minnesota Spokesman-Recorder](../../publications/minnesota-spokesman-recorder/index.md)
     - on 20 April 2019
-    - about [First Avenue (place)](../../topics/place/first-avenue/index.md), [Jacqui Thompson](../../topics/jacqui-thompson/index.md), [NPG Records](../../topics/npg-records/index.md), [PRN Alumni Foundation](../../topics/prn-alumni-foundation/index.md), [The Most Beautiful Girl In The World (song)](../../topics/song/the-most-beautiful-girl-in-the-world/index.md), [Van Jones](../../topics/van-jones/index.md), [WCCO-TV](../../topics/wcco-tv/index.md), [YesWeCode](../../topics/yeswecode/index.md)
+    - about [First Avenue (place)](../../topics/place/first-avenue/index.md), [Jacqui Thompson](../../topics/jacqui-thompson/index.md), [NPG Records](../../topics/npg-records/index.md), [PRN Alumni Foundation](../../topics/prn-alumni-foundation/index.md), [The Most Beautiful Girl In The World (song)](../../topics/song/the-most-beautiful-girl-in-the-world/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md), [Van Jones](../../topics/van-jones/index.md), [WCCO](../../topics/wcco/index.md), [WCCO-TV](../../topics/wcco-tv/index.md), [YesWeCode](../../topics/yeswecode/index.md)
     - ([mirror](https://web.archive.org/web/*/https://spokesman-recorder.com/2019/04/20/dance-on-how-princes-legacy-of-giving-continues-to-thrive/))
 
 ----
@@ -4520,7 +4520,7 @@
     - by [Neal Justin](../../authors/neal-justin/index.md)
     - in [Minneapolis Star Tribune](../../publications/minneapolis-star-tribune/index.md)
     - on 19 April 2019
-    - about [Michael Jackson](../../topics/michael-jackson/index.md), [Slave Trade: How Prince Re-Made the Music Business (documentary)](../../topics/documentary/slave-trade-how-prince-re-made-the-music-business/index.md)
+    - about [AXS TV](../../topics/axs-tv/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Slave Trade: How Prince Re-Made the Music Business (documentary)](../../topics/documentary/slave-trade-how-prince-re-made-the-music-business/index.md), [WCCO](../../topics/wcco/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/tv-picks-for-april-20-21-ramy-prince-motown-60-a-grammy-celebration/508806472/))
 
 ----

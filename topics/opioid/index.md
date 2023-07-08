@@ -22,9 +22,17 @@
 
 ----
 
-## 2020 (2)
+## 2020 (3)
 
-### 2020 February (1)
+### 2020 February (2)
+
+ - [**"Michael Schulenberg, Doctor Who Prescribed Opioids To Prince Before Death, Punished By State Board"**](https://minnesota.cbslocal.com/2020/02/03/michael-schulenberg-doctor-who-prescribed-opioids-to-prince-before-death-punished-by-state-board/)
+    - in [WCCO - CBS Minnesota](../../publications/wcco-cbs-minnesota/index.md)
+    - on 3 February 2020
+    - about [Michael Schulenberg](../../topics/michael-schulenberg/index.md), [opioid](../../topics/opioid/index.md), [WCCO](../../topics/wcco/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://minnesota.cbslocal.com/2020/02/03/michael-schulenberg-doctor-who-prescribed-opioids-to-prince-before-death-punished-by-state-board/))
+
+<br />
 
  - [**"Prince doctor to pay $4K civil penalty for prescription"**](https://apnews.com/58492fc402a996c118253c33f6fd5703)
     - in [Associated Press News](../../publications/associated-press-news/index.md)
@@ -238,7 +246,7 @@
 
 ----
 
-## 2017 (8)
+## 2017 (9)
 
 ### 2017 June (1)
 
@@ -308,6 +316,16 @@
     - on 10 April 2017
     - about [divorce](../../topics/divorce/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [memoir](../../topics/memoir/index.md), [opioid](../../topics/opioid/index.md), [The Most Beautiful (book)](../../topics/book/the-most-beautiful/index.md), [Vicodin](../../topics/vicodin/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/0c93c63651ef4f15adde78e51b38c197))
+
+----
+
+### 2017 March (1)
+
+ - [**"Drummer who discovered Prince dead in elevator talks legend's legacy"**](https://www.cbsnews.com/news/prince-confidant-drummer-kirk-johnson-paisley-park-tour-legacy/)
+    - in [CBS News](../../publications/cbs-news/index.md)
+    - on 29 March 2017
+    - about [Carver County](../../topics/carver-county/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [exhibit](../../topics/exhibit/index.md), [fentanyl](../../topics/fentanyl/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [opioid](../../topics/opioid/index.md), [Super Bowl](../../topics/super-bowl/index.md), [vault](../../topics/vault/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/news/prince-confidant-drummer-kirk-johnson-paisley-park-tour-legacy/))
 
 ----
 

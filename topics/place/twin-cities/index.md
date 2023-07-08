@@ -14,9 +14,10 @@
 <br />
 
  - [**"A Purple Pilgrimage At Paisley Park"**](https://venuesnow.com/a-purple-pilgrimage-at-paisley-park/)
+    - by [Wendy Pearl](../../../authors/wendy-pearl/index.md)
     - in [VenuesNow](../../../publications/venuesnow/index.md)
     - on 22 June 2023
-    - about [7 (E Flat Version) (song)](../../../topics/song/7-e-flat-version/index.md), [All A Share Together Now (song)](../../../topics/song/all-a-share-together-now/index.md), [Andy Beech](../../../topics/andy-beech/index.md), [Celebration (event)](../../../topics/event/celebration/index.md), [Chaka Khan](../../../topics/chaka-khan/index.md), [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Come 2 My House (album)](../../../topics/album/come-2-my-house/index.md), [DJ Rashida](../../../topics/dj-rashida/index.md), [Doug E. Fresh](../../../topics/doug-e-fresh/index.md), [L. Londell McMillan](../../../topics/l-londell-mcmillan/index.md), [luthier](../../../topics/luthier/index.md), [Mint Condition](../../../topics/mint-condition/index.md), [New Power Generation](../../../topics/new-power-generation/index.md), [NPG Records](../../../topics/npg-records/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Prince Legacy LLC](../../../topics/prince-legacy-llc/index.md), [Rosie Gaines](../../../topics/rosie-gaines/index.md), [Sounds of Blackness](../../../topics/sounds-of-blackness/index.md), [Stokley](../../../topics/stokley/index.md), [Twin Cities (place)](../../../topics/place/twin-cities/index.md)
+    - about [7 (E Flat Version) (song)](../../../topics/song/7-e-flat-version/index.md), [All A Share Together Now (song)](../../../topics/song/all-a-share-together-now/index.md), [Andy Beech](../../../topics/andy-beech/index.md), [Celebration (event)](../../../topics/event/celebration/index.md), [Chaka Khan](../../../topics/chaka-khan/index.md), [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Come 2 My House (album)](../../../topics/album/come-2-my-house/index.md), [DJ Rashida](../../../topics/dj-rashida/index.md), [Doug E. Fresh](../../../topics/doug-e-fresh/index.md), [L. Londell McMillan](../../../topics/l-londell-mcmillan/index.md), [luthier](../../../topics/luthier/index.md), [Mint Condition](../../../topics/mint-condition/index.md), [New Power Generation](../../../topics/new-power-generation/index.md), [NPG Records](../../../topics/npg-records/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Prince Legacy LLC](../../../topics/prince-legacy-llc/index.md), [Rosie Gaines](../../../topics/rosie-gaines/index.md), [Sounds of Blackness](../../../topics/sounds-of-blackness/index.md), [Stokley](../../../topics/stokley/index.md), [Twin Cities (place)](../../../topics/place/twin-cities/index.md), [vault](../../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://venuesnow.com/a-purple-pilgrimage-at-paisley-park/))
 
 <br />
@@ -83,9 +84,17 @@
 
 ----
 
-## 2019 (3)
+## 2019 (7)
 
-### 2019 October (2)
+### 2019 October (3)
+
+ - [**"4 Generations Of Minnesota’s Peterson Family: A Hall Of Fame Musical Legacy"**](https://minnesota.cbslocal.com/2019/10/27/4-generations-of-minnesotas-peterson-family-a-hall-of-fame-musical-legacy/)
+    - in [WCCO - CBS Minnesota](../../../publications/wcco-cbs-minnesota/index.md)
+    - on 27 October 2019
+    - about [Fleetwood Mac](../../../topics/fleetwood-mac/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md), [The Family](../../../topics/the-family/index.md), [Twin Cities (place)](../../../topics/place/twin-cities/index.md), [University of Minnesota](../../../topics/university-of-minnesota/index.md), [WCCO](../../../topics/wcco/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://minnesota.cbslocal.com/2019/10/27/4-generations-of-minnesotas-peterson-family-a-hall-of-fame-musical-legacy/))
+
+<br />
 
  - [**"Interview: Director Albert Magnoli describes working with Prince and making 'Purple Rain'"**](https://www.thecurrent.org/feature/2019/10/24/interview-director-albert-magnoli-describes-working-with-prince-purple-rain)
     - in [The Current](../../../publications/the-current/index.md)
@@ -103,7 +112,25 @@
 
 ----
 
-### 2019 April (1)
+### 2019 September (2)
+
+ - [**"Longtime Star Tribune columnist C.J. retires"**](https://www.startribune.com/c-j-longtime-star-tribune-columnist-retires/559204792/)
+    - in [Minneapolis Star Tribune](../../../publications/minneapolis-star-tribune/index.md)
+    - on 3 September 2019
+    - about [C.J.](../../../topics/c-j/index.md), [Twin Cities (place)](../../../topics/place/twin-cities/index.md), [WCCO](../../../topics/wcco/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/c-j-longtime-star-tribune-columnist-retires/559204792/))
+
+<br />
+
+ - [**"Star Tribune gossip columnist C.J. leaving newspaper after more than 30 years -- Over her years writing about local celebrities, C.J. built up a large following."**](https://bringmethenews.com/minnesota-lifestyle/star-tribune-gossip-columnist-c-j-leaving-newspaper-after-almost-30-years)
+    - in [Bring Me The News](../../../publications/bring-me-the-news/index.md)
+    - on 3 September 2019
+    - about [C.J.](../../../topics/c-j/index.md), [Twin Cities (place)](../../../topics/place/twin-cities/index.md), [WCCO](../../../topics/wcco/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://bringmethenews.com/minnesota-lifestyle/star-tribune-gossip-columnist-c-j-leaving-newspaper-after-almost-30-years))
+
+----
+
+### 2019 April (2)
 
  - [**"Twin Cities concerts of the week: Snoop Dogg, Chris Koza, VocalEssence does Dylan, Prince tributes -- This week’s big gigs for April 26-May 2, also including Neko Case, Kodak Black, Arturo Sandoval, Foals and more."**](https://www.startribune.com/twin-cities-concerts-of-the-week-snoop-dogg-chris-koza-vocalessence-does-dylan-prince-tributes/509061512/)
     - by [Chris Riemenschneider](../../../authors/chris-riemenschneider/index.md), [Jon Bream](../../../authors/jon-bream/index.md)
@@ -111,6 +138,14 @@
     - on 25 April 2019
     - about [Eric Leeds](../../../topics/eric-leeds/index.md), [LP Music](../../../topics/lp-music/index.md), [Michael Bland](../../../topics/michael-bland/index.md), [Paul Peterson](../../../topics/paul-peterson/index.md), [Ricky Peterson](../../../topics/ricky-peterson/index.md), [Sonny Thompson](../../../topics/sonny-thompson/index.md), [St. Paul Peterson](../../../topics/st-paul-peterson/index.md), [The Family](../../../topics/the-family/index.md), [Tommy Barbarella](../../../topics/tommy-barbarella/index.md), [Twin Cities (place)](../../../topics/place/twin-cities/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/twin-cities-concerts-of-the-week-snoop-dogg-chris-koza-vocalessence-does-dylan-prince-tributes/509061512/))
+
+<br />
+
+ - [**"Dance on: How Prince’s legacy of giving continues to thrive"**](https://spokesman-recorder.com/2019/04/20/dance-on-how-princes-legacy-of-giving-continues-to-thrive/)
+    - in [Minnesota Spokesman-Recorder](../../../publications/minnesota-spokesman-recorder/index.md)
+    - on 20 April 2019
+    - about [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Jacqui Thompson](../../../topics/jacqui-thompson/index.md), [NPG Records](../../../topics/npg-records/index.md), [PRN Alumni Foundation](../../../topics/prn-alumni-foundation/index.md), [The Most Beautiful Girl In The World (song)](../../../topics/song/the-most-beautiful-girl-in-the-world/index.md), [Twin Cities (place)](../../../topics/place/twin-cities/index.md), [Van Jones](../../../topics/van-jones/index.md), [WCCO](../../../topics/wcco/index.md), [WCCO-TV](../../../topics/wcco-tv/index.md), [YesWeCode](../../../topics/yeswecode/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://spokesman-recorder.com/2019/04/20/dance-on-how-princes-legacy-of-giving-continues-to-thrive/))
 
 ----
 
@@ -174,7 +209,7 @@
 
 ----
 
-## 2016 (3)
+## 2016 (5)
 
 ### 2016 October (1)
 
@@ -183,6 +218,16 @@
     - on 25 October 2016
     - about [ashes](../../../topics/ashes/index.md), [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Denny Laufenburger](../../../topics/denny-laufenburger/index.md), [Graceland Holdings](../../../topics/graceland-holdings/index.md), [Joel Weinshanker](../../../topics/joel-weinshanker/index.md), [motorcycle](../../../topics/motorcycle/index.md), [museum](../../../topics/museum/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [St. Paul (place)](../../../topics/place/st-paul/index.md), [Twin Cities (place)](../../../topics/place/twin-cities/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/3d3261f07e9b4edb879832ea78bf1280))
+
+----
+
+### 2016 September (1)
+
+ - [**"The Power — and Piousness — and Frustration — and Sorrow — of One -- How Cheryl Johnson became C.J., the most infamous journalist in Minnesota"**](https://www.minnesotamonthly.com/lifestyle/the-power-and-piousness-and-frustration-and-sorrow-of-one/)
+    - in [Minnesota Monthly](../../../publications/minnesota-monthly/index.md)
+    - on 8 September 2016
+    - about [auction](../../../topics/auction/index.md), [C.J.](../../../topics/c-j/index.md), [Colleen (song)](../../../topics/song/colleen/index.md), [contract](../../../topics/contract/index.md), [divorce](../../../topics/divorce/index.md), [exhibit](../../../topics/exhibit/index.md), [Minnesota Timberwolves](../../../topics/minnesota-timberwolves/index.md), [Obama](../../../topics/obama/index.md), [State Fair](../../../topics/state-fair/index.md), [Timberwolves](../../../topics/timberwolves/index.md), [Twin Cities (place)](../../../topics/place/twin-cities/index.md), [University of Minnesota](../../../topics/university-of-minnesota/index.md), [WCCO](../../../topics/wcco/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.minnesotamonthly.com/lifestyle/the-power-and-piousness-and-frustration-and-sorrow-of-one/))
 
 ----
 
@@ -196,13 +241,22 @@
 
 ----
 
-### 2016 April (1)
+### 2016 April (2)
 
  - [**"‘I’m Going to Personify Sex in Every Way’: Prince’s Defining ‘Dirty Mind’ Album -- A refusal to be labeled R&B, a rivalry with Rick James and a very dirty song called 'Head': the groundbreaking arrival of 1980's 'Dirty Mind.'"**](https://www.billboard.com/music/features/prince-dirty-mind-retrospective-7348526/)
     - in [Billboard](../../../publications/billboard/index.md)
     - on 28 April 2016
     - about [American Bandstand](../../../topics/american-bandstand/index.md), [André Cymone](../../../topics/andr-cymone/index.md), [Andy Warhol](../../../topics/andy-warhol/index.md), [Bobby Z](../../../topics/bobby-z/index.md), [Denver (place)](../../../topics/place/denver/index.md), [Detroit (place)](../../../topics/place/detroit/index.md), [Dez Dickerson](../../../topics/dez-dickerson/index.md), [Dick Clark](../../../topics/dick-clark/index.md), [Dirty Mind (album)](../../../topics/album/dirty-mind/index.md), [Dirty Mind (tour)](../../../topics/tour/dirty-mind/index.md), [Gayle Chapman](../../../topics/gayle-chapman/index.md), [Head (song)](../../../topics/song/head/index.md), [I Wanna Be Your Lover (song)](../../../topics/song/i-wanna-be-your-lover/index.md), [Ken Tucker](../../../topics/ken-tucker/index.md), [Lake Minnetonka (place)](../../../topics/place/lake-minnetonka/index.md), [Lenny Waronker](../../../topics/lenny-waronker/index.md), [Lisa Coleman](../../../topics/lisa-coleman/index.md), [Los Angeles (place)](../../../topics/place/los-angeles/index.md), [memoir](../../../topics/memoir/index.md), [Mo Ostin](../../../topics/mo-ostin/index.md), [Rick James](../../../topics/rick-james/index.md), [Rolling Stone (magazine)](../../../topics/magazine/rolling-stone/index.md), [Roxy (place)](../../../topics/place/roxy/index.md), [Russ Thyret](../../../topics/russ-thyret/index.md), [Sam’s (place)](../../../topics/place/sam-s/index.md), [Steve Fargnoli](../../../topics/steve-fargnoli/index.md), [Stevie Wonder](../../../topics/stevie-wonder/index.md), [Ted Cohen](../../../topics/ted-cohen/index.md), [The Rainbow (place)](../../../topics/place/the-rainbow/index.md), [The Ritz (place)](../../../topics/place/the-ritz/index.md), [The Village Voice (magazine)](../../../topics/magazine/the-village-voice/index.md), [Twin Cities (place)](../../../topics/place/twin-cities/index.md), [Wayzata (place)](../../../topics/place/wayzata/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/music/features/prince-dirty-mind-retrospective-7348526/))
+
+<br />
+
+ - [**"Sheila E.: Saying goodbye to Prince 'the hardest thing I've ever had to do' -- Sheila E., longtime friend, said she never knew Prince to take drugs."**](https://www.startribune.com/sheila-e-saying-goodbye-to-prince-the-hardest-thing-i-ve-ever-had-to-do/376906621/)
+    - by [Jon Bream](../../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../../publications/minneapolis-star-tribune/index.md)
+    - on 25 April 2016
+    - about [Celebration (event)](../../../topics/event/celebration/index.md), [Chaka Khan](../../../topics/chaka-khan/index.md), [Kirk Johnson](../../../topics/kirk-johnson/index.md), [Larry Graham](../../../topics/larry-graham/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Lionel Richie](../../../topics/lionel-richie/index.md), [Omarr Baker](../../../topics/omarr-baker/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [TMZ (website)](../../../topics/website/tmz/index.md), [Twin Cities (place)](../../../topics/place/twin-cities/index.md), [Tyka Nelson](../../../topics/tyka-nelson/index.md), [WCCO](../../../topics/wcco/index.md), [WCCO-TV](../../../topics/wcco-tv/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/sheila-e-saying-goodbye-to-prince-the-hardest-thing-i-ve-ever-had-to-do/376906621/))
 
 ----
 
