@@ -1,6 +1,86 @@
 # 2023
 
-## July 2023 (1)
+## July 2023 (10)
+
+ - [**"2 new Prince songs released from the vault -- Two new songs are now available on streaming platforms worldwide: "7 (E Flat Version)" and "All A Share Together Now.""**](https://www.kare11.com/article/news/local/new-prince-music-released-from-the-vault/89-fa1efb96-d6d2-4be9-9254-49a2d92c7f71)
+    - by [Alexandra Simon](../../authors/alexandra-simon/index.md)
+    - in [www.kare11.com](../../publications/www-kare11-com/index.md)
+    - on 7 July 2023
+    - about [7 (E Flat Version) (song)](../../topics/song/7-e-flat-version/index.md), [All A Share Together Now (song)](../../topics/song/all-a-share-together-now/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [Celebration 2023 (event)](../../topics/event/celebration-2023/index.md), [Love Symbol (album)](../../topics/album/love-symbol/index.md), [NPG Records](../../topics/npg-records/index.md), [vault](../../topics/vault/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.kare11.com/article/news/local/new-prince-music-released-from-the-vault/89-fa1efb96-d6d2-4be9-9254-49a2d92c7f71))
+
+----
+
+ - [**"Listen To A Pair Of Previously Unreleased Prince Rarities -- Tracks were previously shared at last month’s Paisley Park Celebration "**](https://www.spin.com/2023/07/prince-rarities-7-all-a-share-together-now/)
+    - by [SPIN Staff](../../authors/spin-staff/index.md)
+    - in [Spin](../../publications/spin/index.md)
+    - on 7 July 2023
+    - about [7 (E Flat Version) (song)](../../topics/song/7-e-flat-version/index.md), [All A Share Together Now (song)](../../topics/song/all-a-share-together-now/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [Love Symbol (album)](../../topics/album/love-symbol/index.md), [vault](../../topics/vault/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.spin.com/2023/07/prince-rarities-7-all-a-share-together-now/))
+
+----
+
+ - [**"NPG Records Releases Prince Vault ﻿Series Singles “All A Share Together Now” and “7 (E Flat Version)”"**](https://sidestagemagazine.com/npg-records-releases-prince-vault-series-singles-all-a-share-together-now-and-7-e-flat-version/)
+    - in [sidestagemagazine.com](../../publications/sidestagemagazine-com/index.md)
+    - on 7 July 2023
+    - about [7 (E Flat Version) (song)](../../topics/song/7-e-flat-version/index.md), [All A Share Together Now (song)](../../topics/song/all-a-share-together-now/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [Celebration 2023 (event)](../../topics/event/celebration-2023/index.md), [Love Symbol (album)](../../topics/album/love-symbol/index.md), [NPG Records](../../topics/npg-records/index.md), [vault](../../topics/vault/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://sidestagemagazine.com/npg-records-releases-prince-vault-series-singles-all-a-share-together-now-and-7-e-flat-version/))
+
+----
+
+ - [**"Prince – Listen to Previously Unreleased Tracks “All A Share Together Now” and “7 (E Flat Version)” -- Vault Series Singles Officially Released Today via NPG"**](https://www.undertheradarmag.com/news/prince_listen_to_previously_unreleased_tracks_all_a_share_together_now_and)
+    - by [Kat Ramkumar](../../authors/kat-ramkumar/index.md)
+    - in [Under The Radar](../../publications/under-the-radar/index.md)
+    - on 7 July 2023
+    - about [7 (E Flat Version) (song)](../../topics/song/7-e-flat-version/index.md), [All A Share Together Now (song)](../../topics/song/all-a-share-together-now/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [Celebration 2023 (event)](../../topics/event/celebration-2023/index.md), [Love Symbol (album)](../../topics/album/love-symbol/index.md), [NPG Records](../../topics/npg-records/index.md), [vault](../../topics/vault/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.undertheradarmag.com/news/prince_listen_to_previously_unreleased_tracks_all_a_share_together_now_and))
+
+----
+
+ - [**"Prince’s Estate Unearths Singles “All a Share Together Now” and “7 (E Flat Version)”: Stream"**](https://www.yahoo.com/entertainment/prince-estate-unearths-singles-share-164059434.html)
+    - by [Eddie Fu](../../authors/eddie-fu/index.md)
+    - in [Yahoo! Entertainment](../../publications/yahoo-entertainment/index.md)
+    - on 7 July 2023
+    - about [7 (E Flat Version) (song)](../../topics/song/7-e-flat-version/index.md), [All A Share Together Now (song)](../../topics/song/all-a-share-together-now/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [Love Symbol (album)](../../topics/album/love-symbol/index.md), [Primary Wave](../../topics/primary-wave/index.md), [vault](../../topics/vault/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.yahoo.com/entertainment/prince-estate-unearths-singles-share-164059434.html))
+
+----
+
+ - [**"Prince’s Estate Unearths Singles “All a Share Together Now” and “7 (E Flat Version)”: Stream -- As part of an ongoing vault series"**](https://consequence.net/2023/07/prince-all-a-share-together-now-7-e-flat-version-stream/)
+    - by [Eddie Fu](../../authors/eddie-fu/index.md)
+    - in [Consequence of Sound](../../publications/consequence-of-sound/index.md)
+    - on 7 July 2023
+    - about [7 (E Flat Version) (song)](../../topics/song/7-e-flat-version/index.md), [All A Share Together Now (song)](../../topics/song/all-a-share-together-now/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [Love Symbol (album)](../../topics/album/love-symbol/index.md), [Primary Wave](../../topics/primary-wave/index.md), [vault](../../topics/vault/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://consequence.net/2023/07/prince-all-a-share-together-now-7-e-flat-version-stream/))
+
+----
+
+ - [**"Taylor Swift’s Revised ‘Revenge,’ and 10 More New Songs -- Hear tracks by Prince, Rauw Alejandro, First Aid Kit and others."**](https://www.nytimes.com/2023/07/07/arts/music/playlist-taylor-swift-speak-now-better-than-revenge.html)
+    - by [Jon Pareles](../../authors/jon-pareles/index.md)
+    - in [New York Times](../../publications/new-york-times/index.md)
+    - on 7 July 2023
+    - about [All A Share Together Now (song)](../../topics/song/all-a-share-together-now/index.md), [vault](../../topics/vault/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.nytimes.com/2023/07/07/arts/music/playlist-taylor-swift-speak-now-better-than-revenge.html))
+
+----
+
+ - [**"Two Archival Prince Songs Now Streaming: Listen -- “7 (E Flat Version),” from 1992, and “All a Share Together Now,” from 2006, are now widely available"**](https://pitchfork.com/news/two-archival-prince-songs-now-streaming-listen/)
+    - by [Jazz Monroe](../../authors/jazz-monroe/index.md)
+    - in [Pitchfork](../../publications/pitchfork/index.md)
+    - on 7 July 2023
+    - about [7 (E Flat Version) (song)](../../topics/song/7-e-flat-version/index.md), [All A Share Together Now (song)](../../topics/song/all-a-share-together-now/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [Love Symbol (album)](../../topics/album/love-symbol/index.md), [Primary Wave](../../topics/primary-wave/index.md), [Prince Estate](../../topics/prince-estate/index.md), [vault](../../topics/vault/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://pitchfork.com/news/two-archival-prince-songs-now-streaming-listen/))
+
+----
+
+ - [**"Two Previously Unreleased Prince Gems Have Left the Vault -- Artist's estate debuted "7 (E-Flat Version)" and "All a Share Together Now" at the Paisley Park Celebration last month"**](https://www.rollingstone.com/music/music-news/prince-7-e-flat-version-all-a-share-together-now-1234784358/)
+    - by [Kory Grow](../../authors/kory-grow/index.md)
+    - in [Rolling Stone](../../publications/rolling-stone/index.md)
+    - on 7 July 2023
+    - about [All A Share Together Now (song)](../../topics/song/all-a-share-together-now/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [Love Symbol (album)](../../topics/album/love-symbol/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [vault](../../topics/vault/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-news/prince-7-e-flat-version-all-a-share-together-now-1234784358/))
+
+----
 
  - [**"UMG Names Michele Anthony EVP of US Recorded Music"**](https://variety.com/2013/music/news/umg-names-michele-anthony-evp-of-us-recorded-music-1200670631/)
     - in [Variety](../../publications/variety/index.md)

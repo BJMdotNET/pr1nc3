@@ -1,11 +1,11 @@
 # event
 
-  * [Celebration (event)](../event/celebration/index.md) (47)
+  * [Celebration (event)](../event/celebration/index.md) (55)
   * [Celebration 2017 (event)](../event/celebration-2017/index.md) (6)
   * [Celebration 2018 (event)](../event/celebration-2018/index.md) (2)
   * [Celebration 2019 (event)](../event/celebration-2019/index.md) (5)
   * [Celebration 2020 (event)](../event/celebration-2020/index.md) (3)
-  * [Celebration 2023 (event)](../event/celebration-2023/index.md) (5)
+  * [Celebration 2023 (event)](../event/celebration-2023/index.md) (8)
   * [Essence Fest (event)](../event/essence-fest/index.md) (8)
   * [Essence Festival (event)](../event/essence-festival/index.md) (8)
   * [Let's Go Crazy: The Grammy Salute to Prince (event)](../event/let-s-go-crazy-the-grammy-salute-to-prince/index.md) (7)
