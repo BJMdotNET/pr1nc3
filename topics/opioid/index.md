@@ -329,7 +329,7 @@
 
 ----
 
-## 2016 (23)
+## 2016 (24)
 
 ### 2016 December (1)
 
@@ -438,7 +438,7 @@
 
 ----
 
-### 2016 May (8)
+### 2016 May (9)
 
  - [**"Questions linger about Prince’s choice of local doctor"**](https://apnews.com/270a7bd6fd104e909002bc2f6af592e2)
     - in [Associated Press News](../../publications/associated-press-news/index.md)
@@ -493,6 +493,14 @@
     - on 5 May 2016
     - about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [opioid](../../topics/opioid/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/cd138135a4da439f8a24e443d2f4d445))
+
+<br />
+
+ - [**"Exclusive: Pain doctor Prince sought help from speaks out"**](https://www.sfchronicle.com/health/article/Exclusive-Pain-doctor-Prince-sought-help-from-7394011.php)
+    - in [San Francisco Chronicle](../../publications/san-francisco-chronicle/index.md)
+    - on 4 May 2016
+    - about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Bay Area (place)](../../topics/place/bay-area/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [opioid](../../topics/opioid/index.md), [oxycodone](../../topics/oxycodone/index.md), [Percocet](../../topics/percocet/index.md), [Recovery Without Walls](../../topics/recovery-without-walls/index.md), [Vicodin](../../topics/vicodin/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.sfchronicle.com/health/article/Exclusive-Pain-doctor-Prince-sought-help-from-7394011.php))
 
 <br />
 

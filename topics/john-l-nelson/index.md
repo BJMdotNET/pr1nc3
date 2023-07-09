@@ -203,7 +203,7 @@
 
 ----
 
-## 2016 (7)
+## 2016 (8)
 
 ### 2016 October (2)
 
@@ -269,6 +269,17 @@
     - on 3 May 2016
     - about [Alfred Jackson](../../topics/alfred-jackson/index.md), [divorce](../../topics/divorce/index.md), [Duane Nelson](../../topics/duane-nelson/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Prince Estate](../../topics/prince-estate/index.md), [probate court](../../topics/probate-court/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [U Got the Look (song)](../../topics/song/u-got-the-look/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/e1c3f1ca7f2e4a2a9baa312560ea6379))
+
+----
+
+### 2016 April (1)
+
+ - [**"Prince, a singular, meticulous master of pop, dies at 57"**](https://www.sfchronicle.com/news/nation-world/nation/article/Prince-a-singular-meticulous-master-of-pop-7294913.php)
+    - by [Jon Pareles](../../authors/jon-pareles/index.md)
+    - in [San Francisco Chronicle](../../publications/san-francisco-chronicle/index.md)
+    - on 21 April 2016
+    - about [Albert Magnoli](../../topics/albert-magnoli/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [I Wanna Be Your Lover (song)](../../topics/song/i-wanna-be-your-lover/index.md), [I Would Die 4 U (song)](../../topics/song/i-would-die-4-u/index.md), [Jim Olson](../../topics/jim-olson/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Morris Day](../../topics/morris-day/index.md), [Raspberry Beret (song)](../../topics/song/raspberry-beret/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md), [While My Guitar Gently Weeps (song)](../../topics/song/while-my-guitar-gently-weeps/index.md), [Yvette Noel-Schure](../../topics/yvette-noel-schure/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.sfchronicle.com/news/nation-world/nation/article/Prince-a-singular-meticulous-master-of-pop-7294913.php))
 
 ----
 

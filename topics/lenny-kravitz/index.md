@@ -125,7 +125,7 @@
 
 ----
 
-## 2016 (1)
+## 2016 (2)
 
 ### 2016 May (1)
 
@@ -134,6 +134,16 @@
     - on 14 May 2016
     - about [1999 (song)](../../topics/song/1999/index.md), [Foo Fighters](../../topics/foo-fighters/index.md), [James Brown](../../topics/james-brown/index.md), [Lenny Kravitz](../../topics/lenny-kravitz/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Raspberry Beret (song)](../../topics/song/raspberry-beret/index.md), [Super Bowl](../../topics/super-bowl/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.thedailybeast.com/my-surreal-time-planning-princes-iconic-super-bowl-performance))
+
+----
+
+### 2016 April (1)
+
+ - [**"The 10 coolest things about Prince, the Purple One"**](https://www.chron.com/entertainment/article/The-10-coolest-things-about-Prince-the-Purple-One-7287775.php)
+    - in [The Houston Chronicle at Chron.com](../../publications/the-houston-chronicle-at-chron-com/index.md)
+    - on 21 April 2016
+    - about [Lenny Kravitz](../../topics/lenny-kravitz/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.chron.com/entertainment/article/The-10-coolest-things-about-Prince-the-Purple-One-7287775.php))
 
 ----
 

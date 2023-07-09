@@ -1,6 +1,6 @@
 # 2022
 
-## December 2022 (2)
+## December 2022 (3)
 
  - [**"DaniLeigh on Motherhood, Cancel Culture and Running Social Media for Prince"**](https://variety.com/2022/music/news/danileigh-motherhood-cancel-culture-dababy-prince-1235468626/)
     - by [A.D. Amorosi](../../authors/a-d-amorosi/index.md), [Shirley Ju](../../authors/shirley-ju/index.md)
@@ -19,13 +19,29 @@
 
 ----
 
-## November 2022 (3)
+ - [**"Prince Gave The Bangles ‘Manic Monday’ But He Originally Wrote It For Another Group -- Prince gave The Bangles "Manic Monday" even though he initially intended the song for a group connected to his movie 'Purple Rain.'"**](https://www.cheatsheet.com/entertainment/prince-gave-the-bangles-manic-monday-originally-wrote-another-group.html/)
+    - in [www.cheatsheet.com](../../publications/www-cheatsheet-com/index.md)
+    - on 2 December 2022
+    - about [Apollonia](../../topics/apollonia/index.md), [Apollonia 6](../../topics/apollonia-6/index.md), [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Bangles](../../topics/bangles/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.cheatsheet.com/entertainment/prince-gave-the-bangles-manic-monday-originally-wrote-another-group.html/))
+
+----
+
+## November 2022 (4)
 
  - [**"Review: Nick Hornby has affable romp in ‘Dickens and Prince’"**](https://apnews.com/article/entertainment-science-soccer-sports-reviews-7616c927a02b4d87478342f2c564197c)
     - in [Associated Press News](../../publications/associated-press-news/index.md)
     - on 15 November 2022
     - about [Charles Dickens](../../topics/charles-dickens/index.md), [Dickens and Prince (book)](../../topics/book/dickens-and-prince/index.md), [Nick Hornby](../../topics/nick-hornby/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/entertainment-science-soccer-sports-reviews-7616c927a02b4d87478342f2c564197c))
+
+----
+
+ - [**"Review: 2 fanboys send a kiss to Prince, music’s most prolific and mysterious artist"**](https://datebook.sfchronicle.com/books/review-2-fanboys-send-a-kiss-to-prince-musics-most-prolific-and-mysterious-artist)
+    - in [Datebook - San Francisco Arts & Entertainment Guide](../../publications/datebook-san-francisco-arts-entertainment-guide/index.md)
+    - on 7 November 2022
+    - about [Charles Dickens](../../topics/charles-dickens/index.md), [Dickens and Prince (book)](../../topics/book/dickens-and-prince/index.md), [Dickens and Prince: A Particular Kind of Genius (book)](../../topics/book/dickens-and-prince-a-particular-kind-of-genius/index.md), [Hilton Als](../../topics/hilton-als/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [memoir](../../topics/memoir/index.md), [My Pinup: A Paean to Prince (book)](../../topics/book/my-pinup-a-paean-to-prince/index.md), [Nick Hornby](../../topics/nick-hornby/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://datebook.sfchronicle.com/books/review-2-fanboys-send-a-kiss-to-prince-musics-most-prolific-and-mysterious-artist))
 
 ----
 
@@ -102,7 +118,7 @@
 
 ----
 
-## June 2022 (5)
+## June 2022 (6)
 
  - [**"Purple Rain: The Story Behind Prince’s Career-Defining Song -- The song most associated with Prince, Purple Rain is an epic power ballad that embodied its creator’s search for transcendence through music."**](https://www.thisisdig.com/feature/purple-rain-prince-song-story/)
     - by [Jason Draper](../../authors/jason-draper/index.md)
@@ -119,6 +135,14 @@
     - on 20 June 2022
     - about [Holly Don’t Care (song)](../../topics/song/holly-don-t-care/index.md), [Holly Robinson Peete](../../topics/holly-robinson-peete/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Paisley Park Studios (place)](../../topics/place/paisley-park-studios/index.md)
     - ([mirror](https://web.archive.org/web/*/https://variety.com/2022/film/news/holly-robinson-peete-career-walk-of-fame-1235294542/))
+
+----
+
+ - [**"Kristin Scott Thomas and Prince star in ‘Under the Cherry Moon’"**](https://datebook.sfchronicle.com/datebook-pick/kristin-scott-thomas-and-prince-star-in-under-the-cherry-moon)
+    - in [Datebook - San Francisco Arts & Entertainment Guide](../../publications/datebook-san-francisco-arts-entertainment-guide/index.md)
+    - on 17 June 2022
+    - about [Kristin Scott Thomas](../../topics/kristin-scott-thomas/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://datebook.sfchronicle.com/datebook-pick/kristin-scott-thomas-and-prince-star-in-under-the-cherry-moon))
 
 ----
 

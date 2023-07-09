@@ -25,4 +25,16 @@
 
 ----
 
+## 2016 (1)
+
+### 2016 April (1)
+
+ - [**"Prince, musical and social trailblazer, dies at 57"**](https://www.sfchronicle.com/music/article/Prince-musical-and-social-trailblazer-dies-at-57-7287717.php)
+    - in [San Francisco Chronicle](../../publications/san-francisco-chronicle/index.md)
+    - on 21 April 2016
+    - about [Atlanta (place)](../../topics/place/atlanta/index.md), [Bay Area (place)](../../topics/place/bay-area/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [John Lewis Nelson](../../topics/john-lewis-nelson/index.md), [Piano and a Microphone (tour)](../../topics/tour/piano-and-a-microphone/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md), [Yvette Noel-Schure](../../topics/yvette-noel-schure/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.sfchronicle.com/music/article/Prince-musical-and-social-trailblazer-dies-at-57-7287717.php))
+
+----
+
 [Home](../index.md)

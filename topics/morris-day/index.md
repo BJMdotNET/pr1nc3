@@ -719,7 +719,7 @@
  - [**"Prince's 'Originals' Album: Comparing Each Demo With Its Well-Known Cover Version"**](https://www.billboard.com/articles/news/8517576/prince-originals-album-covers)
     - in [Billboard](../../publications/billboard/index.md)
     - on 25 June 2019
-    - about [Alan Light](../../topics/alan-light/index.md), [Apollonia 6](../../topics/apollonia-6/index.md), [Bangles](../../topics/bangles/index.md), [BrownMark](../../topics/brownmark/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Morris Day](../../topics/morris-day/index.md), [Nile Rodgers](../../topics/nile-rodgers/index.md), [Originals (album)](../../topics/album/originals/index.md), [Romance 1600 (album)](../../topics/album/romance-1600/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Super Bowl XLI (event)](../../topics/event/super-bowl-xli/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [The Revolution](../../topics/the-revolution/index.md)
+    - about [Alan Light](../../topics/alan-light/index.md), [Apollonia 6](../../topics/apollonia-6/index.md), [Bangles](../../topics/bangles/index.md), [BrownMark](../../topics/brownmark/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Morris Day](../../topics/morris-day/index.md), [Nile Rodgers](../../topics/nile-rodgers/index.md), [Originals (album)](../../topics/album/originals/index.md), [Romance 1600 (album)](../../topics/album/romance-1600/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Super Bowl XLI (event)](../../topics/event/super-bowl-xli/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [The Revolution](../../topics/the-revolution/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8517576/prince-originals-album-covers))
 
 <br />
@@ -967,7 +967,7 @@
 
 ----
 
-## 2016 (26)
+## 2016 (27)
 
 ### 2016 November (2)
 
@@ -1088,7 +1088,7 @@
 
 ----
 
-### 2016 April (11)
+### 2016 April (12)
 
  - [**"Prince Remembered by Childhood Best Friend and Bandmate André Cymone : 'There Was a Lot More to Him Than What People Saw'"**](https://www.billboard.com/articles/news/magazine-feature/7348518/prince-childhood-friend-bassist-andre-cymone-remembrance)
     - in [Billboard](../../publications/billboard/index.md)
@@ -1162,6 +1162,15 @@
 
 <br />
 
+ - [**"Prince, a singular, meticulous master of pop, dies at 57"**](https://www.sfchronicle.com/news/nation-world/nation/article/Prince-a-singular-meticulous-master-of-pop-7294913.php)
+    - by [Jon Pareles](../../authors/jon-pareles/index.md)
+    - in [San Francisco Chronicle](../../publications/san-francisco-chronicle/index.md)
+    - on 21 April 2016
+    - about [Albert Magnoli](../../topics/albert-magnoli/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [I Wanna Be Your Lover (song)](../../topics/song/i-wanna-be-your-lover/index.md), [I Would Die 4 U (song)](../../topics/song/i-would-die-4-u/index.md), [Jim Olson](../../topics/jim-olson/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Morris Day](../../topics/morris-day/index.md), [Raspberry Beret (song)](../../topics/song/raspberry-beret/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md), [While My Guitar Gently Weeps (song)](../../topics/song/while-my-guitar-gently-weeps/index.md), [Yvette Noel-Schure](../../topics/yvette-noel-schure/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.sfchronicle.com/news/nation-world/nation/article/Prince-a-singular-meticulous-master-of-pop-7294913.php))
+
+<br />
+
  - [**"What Prince Taught Me About Love. And Sex. And Time. -- Thirty-five years ago, I heard Prince's voice. Eighteen years later, I was in his presence."**](https://www.esquire.com/entertainment/music/a44221/prince-a-remembrance-dave-holmes/)
     - in [Esquire](../../publications/esquire/index.md)
     - on 21 April 2016
@@ -1215,7 +1224,7 @@
  - [**"‘Purple Rain’ at 30: Why It’s the Musical That Defined the ’80s"**](https://variety.com/2014/music/news/purple-rain-30th-anniversary-tribute-1201269036/)
     - in [Variety](../../publications/variety/index.md)
     - on 26 July 2014
-    - about [Albert Magnoli](../../topics/albert-magnoli/index.md), [Apollonia](../../topics/apollonia/index.md), [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [Detroit (place)](../../topics/place/detroit/index.md), [Detroit, Michigan (place)](../../topics/place/detroit-michigan/index.md), [Ghostbusters (movie)](../../topics/movie/ghostbusters/index.md), [Graffiti Bridge (movie)](../../topics/movie/graffiti-bridge/index.md), [Ingrid Chavez](../../topics/ingrid-chavez/index.md), [Jungle Love (song)](../../topics/song/jungle-love/index.md), [Kevin Smith](../../topics/kevin-smith/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Los Angeles (place)](../../topics/place/los-angeles/index.md), [Morris Day](../../topics/morris-day/index.md), [motorcycle](../../topics/motorcycle/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Purple Rain (tour)](../../topics/tour/purple-rain/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md)
+    - about [Albert Magnoli](../../topics/albert-magnoli/index.md), [Apollonia](../../topics/apollonia/index.md), [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [Detroit (place)](../../topics/place/detroit/index.md), [Detroit, Michigan (place)](../../topics/place/detroit-michigan/index.md), [Ghostbusters (movie)](../../topics/movie/ghostbusters/index.md), [Graffiti Bridge (movie)](../../topics/movie/graffiti-bridge/index.md), [Ingrid Chavez](../../topics/ingrid-chavez/index.md), [Jungle Love (song)](../../topics/song/jungle-love/index.md), [Kevin Smith](../../topics/kevin-smith/index.md), [Kristin Scott Thomas](../../topics/kristin-scott-thomas/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Los Angeles (place)](../../topics/place/los-angeles/index.md), [Morris Day](../../topics/morris-day/index.md), [motorcycle](../../topics/motorcycle/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Purple Rain (tour)](../../topics/tour/purple-rain/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md)
     - ([mirror](https://web.archive.org/web/*/https://variety.com/2014/music/news/purple-rain-30th-anniversary-tribute-1201269036/))
 
 <br />

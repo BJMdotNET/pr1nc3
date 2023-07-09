@@ -1,5 +1,17 @@
 # Sunset Sound (place)
 
+## 2023 (1)
+
+### 2023 April (1)
+
+ - [**"Susanna Hoffs talks working with 'superhero' Prince and THAT Rock Hall performance -- Our latest guest on Tim's Listening Party "**](https://planetradio.co.uk/absolute-radio/music/news/susanna-hoffs-prince/)
+    - in [planetradio.co.uk](../../../publications/planetradio-co-uk/index.md)
+    - on 24 April 2023
+    - about [Bangles](../../../topics/bangles/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Sunset Sound (place)](../../../topics/place/sunset-sound/index.md), [Susanna Hoffs](../../../topics/susanna-hoffs/index.md), [Tom Petty](../../../topics/tom-petty/index.md), [While My Guitar Gently Weeps (song)](../../../topics/song/while-my-guitar-gently-weeps/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://planetradio.co.uk/absolute-radio/music/news/susanna-hoffs-prince/))
+
+----
+
 ## 2022 (2)
 
 ### 2022 October (1)
@@ -270,7 +282,7 @@
 
 ----
 
-## 2017 (1)
+## 2017 (2)
 
 ### 2017 April (1)
 
@@ -279,6 +291,16 @@
     - on 21 April 2017
     - about [Andre Cymone](../../../topics/andre-cymone/index.md), [Charlie Murphy](../../../topics/charlie-murphy/index.md), [Micki Free](../../../topics/micki-free/index.md), [Morris Day](../../../topics/morris-day/index.md), [Sunset Sound (place)](../../../topics/place/sunset-sound/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.esquire.com/entertainment/music/a54667/prince-basketball-game-charlie-murphy-micki-free/))
+
+----
+
+### 2017 March (1)
+
+ - [**"Prince Wrote “Manic Monday” For The Bangles"**](https://medium.com/micro-chop/prince-wrote-manic-monday-for-the-bangles-30955dd0ce9d)
+    - in [medium.com](../../../publications/medium-com/index.md)
+    - on 7 March 2017
+    - about [Apollonia](../../../topics/apollonia/index.md), [Apollonia 6](../../../topics/apollonia-6/index.md), [Bangles](../../../topics/bangles/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Paul Grein](../../../topics/paul-grein/index.md), [Sunset Sound (place)](../../../topics/place/sunset-sound/index.md), [Susanna Hoffs](../../../topics/susanna-hoffs/index.md), [Vanity](../../../topics/vanity/index.md), [Vanity 6](../../../topics/vanity-6/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://medium.com/micro-chop/prince-wrote-manic-monday-for-the-bangles-30955dd0ce9d))
 
 ----
 

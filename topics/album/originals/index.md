@@ -158,7 +158,7 @@
  - [**"Prince's 'Originals' Album: Comparing Each Demo With Its Well-Known Cover Version"**](https://www.billboard.com/articles/news/8517576/prince-originals-album-covers)
     - in [Billboard](../../../publications/billboard/index.md)
     - on 25 June 2019
-    - about [Alan Light](../../../topics/alan-light/index.md), [Apollonia 6](../../../topics/apollonia-6/index.md), [Bangles](../../../topics/bangles/index.md), [BrownMark](../../../topics/brownmark/index.md), [Jill Jones](../../../topics/jill-jones/index.md), [Morris Day](../../../topics/morris-day/index.md), [Nile Rodgers](../../../topics/nile-rodgers/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Romance 1600 (album)](../../../topics/album/romance-1600/index.md), [Super Bowl](../../../topics/super-bowl/index.md), [Super Bowl XLI (event)](../../../topics/event/super-bowl-xli/index.md), [Susanna Hoffs](../../../topics/susanna-hoffs/index.md), [The Revolution](../../../topics/the-revolution/index.md)
+    - about [Alan Light](../../../topics/alan-light/index.md), [Apollonia 6](../../../topics/apollonia-6/index.md), [Bangles](../../../topics/bangles/index.md), [BrownMark](../../../topics/brownmark/index.md), [Jill Jones](../../../topics/jill-jones/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Morris Day](../../../topics/morris-day/index.md), [Nile Rodgers](../../../topics/nile-rodgers/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Romance 1600 (album)](../../../topics/album/romance-1600/index.md), [Super Bowl](../../../topics/super-bowl/index.md), [Super Bowl XLI (event)](../../../topics/event/super-bowl-xli/index.md), [Susanna Hoffs](../../../topics/susanna-hoffs/index.md), [The Revolution](../../../topics/the-revolution/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8517576/prince-originals-album-covers))
 
 <br />
@@ -194,7 +194,7 @@
     - by [Graeme Watson](../../../authors/graeme-watson/index.md)
     - in [OUT In Perth](../../../publications/out-in-perth/index.md)
     - on 23 June 2019
-    - about [Apollonia 6](../../../topics/apollonia-6/index.md), [Bangles](../../../topics/bangles/index.md), [Jill Jones](../../../topics/jill-jones/index.md), [Originals (album review)](../../../topics/album-review/originals/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Purple Music (song)](../../../topics/song/purple-music/index.md)
+    - about [Apollonia 6](../../../topics/apollonia-6/index.md), [Bangles](../../../topics/bangles/index.md), [Jill Jones](../../../topics/jill-jones/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Originals (album review)](../../../topics/album-review/originals/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Purple Music (song)](../../../topics/song/purple-music/index.md), [Susanna Hoffs](../../../topics/susanna-hoffs/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.outinperth.com/new-record-delves-into-princes-archive-of-tunes-he-gave-to-others/))
 
 <br />

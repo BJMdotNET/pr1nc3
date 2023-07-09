@@ -194,7 +194,7 @@
 
 ----
 
-## 2016 (1)
+## 2016 (2)
 
 ### 2016 November (1)
 
@@ -203,6 +203,16 @@
     - on 2 November 2016
     - about [Alabama Shakes](../../topics/alabama-shakes/index.md), [Alicia Keys](../../topics/alicia-keys/index.md), [Bangles](../../topics/bangles/index.md), [Bremer Trust](../../topics/bremer-trust/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [Danny Elfman](../../topics/danny-elfman/index.md), [Elton John](../../topics/elton-john/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [L. Londell McMillan](../../topics/l-londell-mcmillan/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Universal Music Group](../../topics/universal-music-group/index.md), [Universal Music Publishing Group](../../topics/universal-music-publishing-group/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/the-estate-of-prince-rogers-nelson-selects-universal-music-publishing-group-to-serve-as-worldwide-publisher-for-princes-iconic-catalog-of-songs-300356320.html))
+
+----
+
+### 2016 April (1)
+
+ - [**"Remembering Prince's alien and human forms"**](https://www.sfchronicle.com/entertainment/music/article/Remembering-Prince-s-alien-and-human-forms-7294013.php)
+    - in [San Francisco Chronicle](../../publications/san-francisco-chronicle/index.md)
+    - on 21 April 2016
+    - about [Alicia Keys](../../topics/alicia-keys/index.md), [Batdance (song)](../../topics/song/batdance/index.md), [Compaq Center (place)](../../topics/place/compaq-center/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Tamar Davis](../../topics/tamar-davis/index.md), [The Arms of Orion (song)](../../topics/song/the-arms-of-orion/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.sfchronicle.com/entertainment/music/article/Remembering-Prince-s-alien-and-human-forms-7294013.php))
 
 ----
 

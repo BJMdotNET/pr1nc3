@@ -154,7 +154,7 @@
 
 ----
 
-## 2016 (5)
+## 2016 (6)
 
 ### 2016 December (1)
 
@@ -166,7 +166,7 @@
 
 ----
 
-### 2016 April (3)
+### 2016 April (4)
 
  - [**"Oprah, Mick Jagger among celebs to react to Prince’s death"**](https://apnews.com/ad3076cbbe69473495debc13e52669c5)
     - in [Associated Press News](../../publications/associated-press-news/index.md)
@@ -191,6 +191,15 @@
     - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Alan Leeds](../../topics/alan-leeds/index.md), [Albert Magnoli](../../topics/albert-magnoli/index.md), [Art Official Age (album)](../../topics/album/art-official-age/index.md), [Black Album (album)](../../topics/album/black-album/index.md), [bootleg](../../topics/bootleg/index.md), [Carlos Boozer](../../topics/carlos-boozer/index.md), [Carmen Electra](../../topics/carmen-electra/index.md), [Chappelle’s Show (TV show)](../../topics/tv-show/chappelle-s-show/index.md), [Charlie Murphy](../../topics/charlie-murphy/index.md), [Daily Mail (newspaper)](../../topics/newspaper/daily-mail/index.md), [Divinity (animal)](../../topics/animal/divinity/index.md), [Eden Prairie (place)](../../topics/place/eden-prairie/index.md), [Glam Slam Ulysses](../../topics/glam-slam-ulysses/index.md), [Jay Williams](../../topics/jay-williams/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [Kevin Smith](../../topics/kevin-smith/index.md), [Kim Basinger](../../topics/kim-basinger/index.md), [Larry Graham](../../topics/larry-graham/index.md), [lawsuit](../../topics/lawsuit/index.md), [Majesty (animal)](../../topics/animal/majesty/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Mo’ Meta Blues (book)](../../topics/book/mo-meta-blues/index.md), [Notorious (magazine)](../../topics/magazine/notorious/index.md), [One Nite Alone (album)](../../topics/album/one-nite-alone/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [ping-pong](../../topics/ping-pong/index.md), [PlectrumElectrum (album)](../../topics/album/plectrumelectrum/index.md), [Questlove](../../topics/questlove/index.md), [roller-skating](../../topics/roller-skating/index.md), [Scandalous (song)](../../topics/song/scandalous/index.md), [Scandalous Sex Suite (EP)](../../topics/ep/scandalous-sex-suite/index.md), [The Most Beautiful Girl In The World (song)](../../topics/song/the-most-beautiful-girl-in-the-world/index.md), [The New Yorker](../../topics/the-new-yorker/index.md), [vault](../../topics/vault/index.md), [Yom Kippur](../../topics/yom-kippur/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.vulture.com/2014/09/24-outrageous-prince-stories.html))
 
+<br />
+
+ - [**"Prince, a singular, meticulous master of pop, dies at 57"**](https://www.sfchronicle.com/news/nation-world/nation/article/Prince-a-singular-meticulous-master-of-pop-7294913.php)
+    - by [Jon Pareles](../../authors/jon-pareles/index.md)
+    - in [San Francisco Chronicle](../../publications/san-francisco-chronicle/index.md)
+    - on 21 April 2016
+    - about [Albert Magnoli](../../topics/albert-magnoli/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [I Wanna Be Your Lover (song)](../../topics/song/i-wanna-be-your-lover/index.md), [I Would Die 4 U (song)](../../topics/song/i-would-die-4-u/index.md), [Jim Olson](../../topics/jim-olson/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Morris Day](../../topics/morris-day/index.md), [Raspberry Beret (song)](../../topics/song/raspberry-beret/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md), [While My Guitar Gently Weeps (song)](../../topics/song/while-my-guitar-gently-weeps/index.md), [Yvette Noel-Schure](../../topics/yvette-noel-schure/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.sfchronicle.com/news/nation-world/nation/article/Prince-a-singular-meticulous-master-of-pop-7294913.php))
+
 ----
 
 ### 2016 February (1)
@@ -210,7 +219,7 @@
  - [**"‘Purple Rain’ at 30: Why It’s the Musical That Defined the ’80s"**](https://variety.com/2014/music/news/purple-rain-30th-anniversary-tribute-1201269036/)
     - in [Variety](../../publications/variety/index.md)
     - on 26 July 2014
-    - about [Albert Magnoli](../../topics/albert-magnoli/index.md), [Apollonia](../../topics/apollonia/index.md), [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [Detroit (place)](../../topics/place/detroit/index.md), [Detroit, Michigan (place)](../../topics/place/detroit-michigan/index.md), [Ghostbusters (movie)](../../topics/movie/ghostbusters/index.md), [Graffiti Bridge (movie)](../../topics/movie/graffiti-bridge/index.md), [Ingrid Chavez](../../topics/ingrid-chavez/index.md), [Jungle Love (song)](../../topics/song/jungle-love/index.md), [Kevin Smith](../../topics/kevin-smith/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Los Angeles (place)](../../topics/place/los-angeles/index.md), [Morris Day](../../topics/morris-day/index.md), [motorcycle](../../topics/motorcycle/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Purple Rain (tour)](../../topics/tour/purple-rain/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md)
+    - about [Albert Magnoli](../../topics/albert-magnoli/index.md), [Apollonia](../../topics/apollonia/index.md), [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [Detroit (place)](../../topics/place/detroit/index.md), [Detroit, Michigan (place)](../../topics/place/detroit-michigan/index.md), [Ghostbusters (movie)](../../topics/movie/ghostbusters/index.md), [Graffiti Bridge (movie)](../../topics/movie/graffiti-bridge/index.md), [Ingrid Chavez](../../topics/ingrid-chavez/index.md), [Jungle Love (song)](../../topics/song/jungle-love/index.md), [Kevin Smith](../../topics/kevin-smith/index.md), [Kristin Scott Thomas](../../topics/kristin-scott-thomas/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Los Angeles (place)](../../topics/place/los-angeles/index.md), [Morris Day](../../topics/morris-day/index.md), [motorcycle](../../topics/motorcycle/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Purple Rain (tour)](../../topics/tour/purple-rain/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md)
     - ([mirror](https://web.archive.org/web/*/https://variety.com/2014/music/news/purple-rain-30th-anniversary-tribute-1201269036/))
 
 ----

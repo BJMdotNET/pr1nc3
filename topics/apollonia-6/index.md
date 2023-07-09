@@ -1,6 +1,28 @@
 # Apollonia 6
 
-## 2022 (1)
+## 2023 (1)
+
+### 2023 March (1)
+
+ - [**"Prince’s Attempt To Win The Heart Of The Bangles’ Susanna Hoffs"**](https://rockcelebrities.net/princes-attempt-to-win-the-heart-of-the-bangles-susanna-hoffs/)
+    - in [rockcelebrities.net](../../publications/rockcelebrities-net/index.md)
+    - on 12 March 2023
+    - about [Apollonia](../../topics/apollonia/index.md), [Apollonia 6](../../topics/apollonia-6/index.md), [Bangles](../../topics/bangles/index.md), [Christopher](../../topics/christopher/index.md), [Los Angeles Times (newspaper)](../../topics/newspaper/los-angeles-times/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Patricia Kotero](../../topics/patricia-kotero/index.md), [Robert Hilburn](../../topics/robert-hilburn/index.md), [Rolling Stone (magazine)](../../topics/magazine/rolling-stone/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://rockcelebrities.net/princes-attempt-to-win-the-heart-of-the-bangles-susanna-hoffs/))
+
+----
+
+## 2022 (2)
+
+### 2022 December (1)
+
+ - [**"Prince Gave The Bangles ‘Manic Monday’ But He Originally Wrote It For Another Group -- Prince gave The Bangles "Manic Monday" even though he initially intended the song for a group connected to his movie 'Purple Rain.'"**](https://www.cheatsheet.com/entertainment/prince-gave-the-bangles-manic-monday-originally-wrote-another-group.html/)
+    - in [www.cheatsheet.com](../../publications/www-cheatsheet-com/index.md)
+    - on 2 December 2022
+    - about [Apollonia](../../topics/apollonia/index.md), [Apollonia 6](../../topics/apollonia-6/index.md), [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Bangles](../../topics/bangles/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.cheatsheet.com/entertainment/prince-gave-the-bangles-manic-monday-originally-wrote-another-group.html/))
+
+----
 
 ### 2022 March (1)
 
@@ -94,7 +116,7 @@
  - [**"Prince's 'Originals' Album: Comparing Each Demo With Its Well-Known Cover Version"**](https://www.billboard.com/articles/news/8517576/prince-originals-album-covers)
     - in [Billboard](../../publications/billboard/index.md)
     - on 25 June 2019
-    - about [Alan Light](../../topics/alan-light/index.md), [Apollonia 6](../../topics/apollonia-6/index.md), [Bangles](../../topics/bangles/index.md), [BrownMark](../../topics/brownmark/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Morris Day](../../topics/morris-day/index.md), [Nile Rodgers](../../topics/nile-rodgers/index.md), [Originals (album)](../../topics/album/originals/index.md), [Romance 1600 (album)](../../topics/album/romance-1600/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Super Bowl XLI (event)](../../topics/event/super-bowl-xli/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [The Revolution](../../topics/the-revolution/index.md)
+    - about [Alan Light](../../topics/alan-light/index.md), [Apollonia 6](../../topics/apollonia-6/index.md), [Bangles](../../topics/bangles/index.md), [BrownMark](../../topics/brownmark/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Morris Day](../../topics/morris-day/index.md), [Nile Rodgers](../../topics/nile-rodgers/index.md), [Originals (album)](../../topics/album/originals/index.md), [Romance 1600 (album)](../../topics/album/romance-1600/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Super Bowl XLI (event)](../../topics/event/super-bowl-xli/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [The Revolution](../../topics/the-revolution/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8517576/prince-originals-album-covers))
 
 <br />
@@ -120,7 +142,7 @@
  - [**"Single Stories: Prince, “Manic Monday”"**](https://www.rhino.com/article/single-stories-prince-manic-monday)
     - in [Rhino](../../publications/rhino/index.md)
     - on 24 June 2019
-    - about [Apollonia 6](../../topics/apollonia-6/index.md), [Bangles](../../topics/bangles/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md)
+    - about [Apollonia 6](../../topics/apollonia-6/index.md), [Bangles](../../topics/bangles/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.rhino.com/article/single-stories-prince-manic-monday))
 
 <br />
@@ -129,7 +151,7 @@
     - by [Graeme Watson](../../authors/graeme-watson/index.md)
     - in [OUT In Perth](../../publications/out-in-perth/index.md)
     - on 23 June 2019
-    - about [Apollonia 6](../../topics/apollonia-6/index.md), [Bangles](../../topics/bangles/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Originals (album review)](../../topics/album-review/originals/index.md), [Originals (album)](../../topics/album/originals/index.md), [Purple Music (song)](../../topics/song/purple-music/index.md)
+    - about [Apollonia 6](../../topics/apollonia-6/index.md), [Bangles](../../topics/bangles/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Originals (album review)](../../topics/album-review/originals/index.md), [Originals (album)](../../topics/album/originals/index.md), [Purple Music (song)](../../topics/song/purple-music/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.outinperth.com/new-record-delves-into-princes-archive-of-tunes-he-gave-to-others/))
 
 <br />
@@ -241,6 +263,18 @@
 
 ----
 
+## 2017 (1)
+
+### 2017 March (1)
+
+ - [**"Prince Wrote “Manic Monday” For The Bangles"**](https://medium.com/micro-chop/prince-wrote-manic-monday-for-the-bangles-30955dd0ce9d)
+    - in [medium.com](../../publications/medium-com/index.md)
+    - on 7 March 2017
+    - about [Apollonia](../../topics/apollonia/index.md), [Apollonia 6](../../topics/apollonia-6/index.md), [Bangles](../../topics/bangles/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Paul Grein](../../topics/paul-grein/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://medium.com/micro-chop/prince-wrote-manic-monday-for-the-bangles-30955dd0ce9d))
+
+----
+
 ## 2016 (4)
 
 ### 2016 November (1)
@@ -258,7 +292,7 @@
  - [**"The Women in Prince’s World: His Muses and Collaborators From Sheila E. to Kim Basinger"**](https://www.billboard.com/photos/7348470/prince-female-muses-collaborators-lovers-sheila-e-kim-basinger-more)
     - in [Billboard](../../publications/billboard/index.md)
     - on 28 April 2016
-    - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Apollonia 6](../../topics/apollonia-6/index.md), [Bangles](../../topics/bangles/index.md), [Boy Gregory](../../topics/boy-gregory/index.md), [Bria Valente](../../topics/bria-valente/index.md), [Cat Glover](../../topics/cat-glover/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [contract](../../topics/contract/index.md), [Denise Matthews](../../topics/denise-matthews/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [divorce](../../topics/divorce/index.md), [Donna Grantis](../../topics/donna-grantis/index.md), [Hannah Welton](../../topics/hannah-welton/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [I Wanna Be Your Lover (song)](../../topics/song/i-wanna-be-your-lover/index.md), [Ingrid Chavez](../../topics/ingrid-chavez/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Martika](../../topics/martika/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Misty Copeland](../../topics/misty-copeland/index.md), [Nasty Girl (song)](../../topics/song/nasty-girl/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Paisley Park Records](../../topics/paisley-park-records/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [Sheena Easton](../../topics/sheena-easton/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stand Back (song)](../../topics/song/stand-back/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md), [Sugar Walls (song)](../../topics/song/sugar-walls/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [The Revolution](../../topics/the-revolution/index.md), [U Got the Look (song)](../../topics/song/u-got-the-look/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [Wendy & Lisa](../../topics/wendy-lisa/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
+    - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Apollonia 6](../../topics/apollonia-6/index.md), [Bangles](../../topics/bangles/index.md), [Boy Gregory](../../topics/boy-gregory/index.md), [Bria Valente](../../topics/bria-valente/index.md), [Cat Glover](../../topics/cat-glover/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [contract](../../topics/contract/index.md), [Denise Matthews](../../topics/denise-matthews/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [divorce](../../topics/divorce/index.md), [Donna Grantis](../../topics/donna-grantis/index.md), [Hannah Welton](../../topics/hannah-welton/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [I Wanna Be Your Lover (song)](../../topics/song/i-wanna-be-your-lover/index.md), [Ingrid Chavez](../../topics/ingrid-chavez/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [Kristin Scott Thomas](../../topics/kristin-scott-thomas/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Martika](../../topics/martika/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Misty Copeland](../../topics/misty-copeland/index.md), [Nasty Girl (song)](../../topics/song/nasty-girl/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Paisley Park Records](../../topics/paisley-park-records/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [Sheena Easton](../../topics/sheena-easton/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stand Back (song)](../../topics/song/stand-back/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md), [Sugar Walls (song)](../../topics/song/sugar-walls/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [The Revolution](../../topics/the-revolution/index.md), [U Got the Look (song)](../../topics/song/u-got-the-look/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [Wendy & Lisa](../../topics/wendy-lisa/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/photos/7348470/prince-female-muses-collaborators-lovers-sheila-e-kim-basinger-more))
 
 ----
@@ -279,6 +313,19 @@
     - on 10 February 2016
     - about [Alan Light](../../topics/alan-light/index.md), [Albert Magnoli](../../topics/albert-magnoli/index.md), [Apollonia 6](../../topics/apollonia-6/index.md), [Dave Chappelle](../../topics/dave-chappelle/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [Jesse Johnson](../../topics/jesse-johnson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Matt Fink](../../topics/matt-fink/index.md), [memoir](../../topics/memoir/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Morris Day](../../topics/morris-day/index.md), [One Nite Alone (album)](../../topics/album/one-nite-alone/index.md), [Questlove](../../topics/questlove/index.md), [Quincy Jones](../../topics/quincy-jones/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stand Back (song)](../../topics/song/stand-back/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Revolution](../../topics/the-revolution/index.md), [Vagina (song)](../../topics/song/vagina/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md)
     - ([mirror](https://web.archive.org/web/*/https://medium.com/cuepoint/paean-to-prince-15-fascinating-facts-about-his-purple-majesty-6aa627d1d17e))
+
+----
+
+## 2015 (1)
+
+### 2015 January (1)
+
+ - [**"30 years ago: Prince holds court at the Summit"**](https://www.sfchronicle.com/local/bayou-city-history/article/30-years-ago-Prince-holds-court-at-the-Summit-6000026.php)
+    - by [J.R. Gonzales](../../authors/j-r-gonzales/index.md)
+    - in [San Francisco Chronicle](../../publications/san-francisco-chronicle/index.md)
+    - on 9 January 2015
+    - about [Apollonia](../../topics/apollonia/index.md), [Apollonia 6](../../topics/apollonia-6/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [Delirious (song)](../../topics/song/delirious/index.md), [I Would Die 4 U (song)](../../topics/song/i-would-die-4-u/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Prince and The Revolution](../../topics/prince-and-the-revolution/index.md), [Purple Rain (tour)](../../topics/tour/purple-rain/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Revolution](../../topics/the-revolution/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.sfchronicle.com/local/bayou-city-history/article/30-years-ago-Prince-holds-court-at-the-Summit-6000026.php))
 
 ----
 

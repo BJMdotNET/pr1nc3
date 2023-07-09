@@ -72,15 +72,23 @@
 
 ----
 
-## 2017 (5)
+## 2017 (6)
 
-### 2017 June (2)
+### 2017 June (3)
 
  - [**"Prince’s Purple Downpour: A Review of the Expanded “Purple Rain”"**](https://www.newyorker.com/culture/culture-desk/princes-purple-downpour-a-review-of-the-expanded-purple-rain)
     - in [The New Yorker](../../../publications/the-new-yorker/index.md)
     - on 25 June 2017
     - about [17 Days (song)](../../../topics/song/17-days/index.md), [André Cymone](../../../topics/andr-cymone/index.md), [Andy Allo](../../../topics/andy-allo/index.md), [Baby I’m a Star (song)](../../../topics/song/baby-i-m-a-star/index.md), [Computer Blue (song)](../../../topics/song/computer-blue/index.md), [Darling Nikki (song)](../../../topics/song/darling-nikki/index.md), [divorce](../../../topics/divorce/index.md), [Erotic City (song)](../../../topics/song/erotic-city/index.md), [George Clinton](../../../topics/george-clinton/index.md), [Horny Toad (song)](../../../topics/song/horny-toad/index.md), [How Come U Don’t Call Me Anymore? (song)](../../../topics/song/how-come-u-don-t-call-me-anymore/index.md), [I Would Die 4 U (song)](../../../topics/song/i-would-die-4-u/index.md), [Irresistible Bitch (song)](../../../topics/song/irresistible-bitch/index.md), [Jill Jones](../../../topics/jill-jones/index.md), [Katrina’s Paper Dolls (song)](../../../topics/song/katrina-s-paper-dolls/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Lisa Coleman](../../../topics/lisa-coleman/index.md), [Love and Sex (song)](../../../topics/song/love-and-sex/index.md), [Miles Davis](../../../topics/miles-davis/index.md), [motorcycle](../../../topics/motorcycle/index.md), [Our Destiny (song)](../../../topics/song/our-destiny/index.md), [Possessed (song)](../../../topics/song/possessed/index.md), [Purple Rain (album)](../../../topics/album/purple-rain/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Roadhouse Garden (song)](../../../topics/song/roadhouse-garden/index.md), [The Beautiful Ones (song)](../../../topics/song/the-beautiful-ones/index.md), [The Dance Electric (song)](../../../topics/song/the-dance-electric/index.md), [The Revolution](../../../topics/the-revolution/index.md), [vault](../../../topics/vault/index.md), [Velvet Kitty Cat (song)](../../../topics/song/velvet-kitty-cat/index.md), [Wednesday (song)](../../../topics/song/wednesday/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md), [Wonderful Ass (song)](../../../topics/song/wonderful-ass/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.newyorker.com/culture/culture-desk/princes-purple-downpour-a-review-of-the-expanded-purple-rain))
+
+<br />
+
+ - [**"The Revolution: A celebration of Prince, crowd noise be damned"**](https://www.sfchronicle.com/entertainment/music/article/The-Revolution-a-celebration-of-Prince-11224966.php)
+    - in [San Francisco Chronicle](../../../publications/san-francisco-chronicle/index.md)
+    - on 16 June 2017
+    - about [Baby I'm a Star (song)](../../../topics/song/baby-i-m-a-star/index.md), [Bobby Z](../../../topics/bobby-z/index.md), [Brown Mark](../../../topics/brown-mark/index.md), [Erotic City (song)](../../../topics/song/erotic-city/index.md), [Lisa Coleman](../../../topics/lisa-coleman/index.md), [Mark Brown](../../../topics/mark-brown/index.md), [Mountains (song)](../../../topics/song/mountains/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Sometimes It Snows In April (song)](../../../topics/song/sometimes-it-snows-in-april/index.md), [The Revolution](../../../topics/the-revolution/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.sfchronicle.com/entertainment/music/article/The-Revolution-a-celebration-of-Prince-11224966.php))
 
 <br />
 

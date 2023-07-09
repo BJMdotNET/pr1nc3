@@ -11,6 +11,9 @@ items:
 - name: 1000 Light Years From Here (song)
   href: song/1000-light-years-from-here/index.md
   homepage: song/1000-light-years-from-here/index.md
+- name: 1015 Folsom (place)
+  href: place/1015-folsom/index.md
+  homepage: place/1015-folsom/index.md
 - name: 17 Days (song)
   href: song/17-days/index.md
   homepage: song/17-days/index.md
@@ -71,6 +74,9 @@ items:
 - name: A Case of You (song)
   href: song/a-case-of-you/index.md
   homepage: song/a-case-of-you/index.md
+- name: A Celebration of Prince With Purple Pam
+  href: a-celebration-of-prince-with-purple-pam/index.md
+  homepage: a-celebration-of-prince-with-purple-pam/index.md
 - name: A&M Records
   href: a-m-records/index.md
   homepage: a-m-records/index.md
@@ -95,6 +101,9 @@ items:
 - name: Alabama Shakes
   href: alabama-shakes/index.md
   homepage: alabama-shakes/index.md
+- name: Alamodome (place)
+  href: place/alamodome/index.md
+  homepage: place/alamodome/index.md
 - name: Alan Leeds
   href: alan-leeds/index.md
   homepage: alan-leeds/index.md
@@ -287,6 +296,9 @@ items:
 - name: Austin (place)
   href: place/austin/index.md
   homepage: place/austin/index.md
+- name: Austin Highway (place)
+  href: place/austin-highway/index.md
+  homepage: place/austin-highway/index.md
 - name: Ava DuVernay
   href: ava-duvernay/index.md
   homepage: ava-duvernay/index.md
@@ -362,6 +374,9 @@ items:
 - name: Bill Gerber
   href: bill-gerber/index.md
   homepage: bill-gerber/index.md
+- name: Bill Graham
+  href: bill-graham/index.md
+  homepage: bill-graham/index.md
 - name: Billy Gibbons
   href: billy-gibbons/index.md
   homepage: billy-gibbons/index.md
@@ -674,6 +689,12 @@ items:
 - name: Christina Aguilera
   href: christina-aguilera/index.md
   homepage: christina-aguilera/index.md
+- name: Christine Stein
+  href: christine-stein/index.md
+  homepage: christine-stein/index.md
+- name: Christopher
+  href: christopher/index.md
+  homepage: christopher/index.md
 - name: Christopher Fuller
   href: christopher-fuller/index.md
   homepage: christopher-fuller/index.md
@@ -689,6 +710,9 @@ items:
 - name: Cinnamon Girl (song)
   href: song/cinnamon-girl/index.md
   homepage: song/cinnamon-girl/index.md
+- name: Citrus Heights (place)
+  href: place/citrus-heights/index.md
+  homepage: place/citrus-heights/index.md
 - name: Clarence Williams III
   href: clarence-williams-iii/index.md
   homepage: clarence-williams-iii/index.md
@@ -734,6 +758,9 @@ items:
 - name: Comerica Trust
   href: comerica-trust/index.md
   homepage: comerica-trust/index.md
+- name: Compaq Center (place)
+  href: place/compaq-center/index.md
+  homepage: place/compaq-center/index.md
 - name: Computer Blue (song)
   href: song/computer-blue/index.md
   homepage: song/computer-blue/index.md
@@ -773,6 +800,9 @@ items:
 - name: Country Inn & Suites (place)
   href: place/country-inn-suites/index.md
   homepage: place/country-inn-suites/index.md
+- name: Cow Palace (place)
+  href: place/cow-palace/index.md
+  homepage: place/cow-palace/index.md
 - name: Creative Artists Agency
   href: creative-artists-agency/index.md
   homepage: creative-artists-agency/index.md
@@ -812,9 +842,15 @@ items:
 - name: Dakota (place)
   href: place/dakota/index.md
   homepage: place/dakota/index.md
+- name: Daly City (place)
+  href: place/daly-city/index.md
+  homepage: place/daly-city/index.md
 - name: Damon Dickson
   href: damon-dickson/index.md
   homepage: damon-dickson/index.md
+- name: Dan Goddard
+  href: dan-goddard/index.md
+  homepage: dan-goddard/index.md
 - name: Dan Goldsack
   href: dan-goldsack/index.md
   homepage: dan-goldsack/index.md
@@ -944,6 +980,9 @@ items:
 - name: Dickens and Prince (book)
   href: book/dickens-and-prince/index.md
   homepage: book/dickens-and-prince/index.md
+- name: Dickens and Prince - A Particular Kind of Genius (book)
+  href: book/dickens-and-prince-a-particular-kind-of-genius/index.md
+  homepage: book/dickens-and-prince-a-particular-kind-of-genius/index.md
 - name: DigitalFilm Tree
   href: digitalfilm-tree/index.md
   homepage: digitalfilm-tree/index.md
@@ -1253,6 +1292,9 @@ items:
 - name: Forum (place)
   href: place/forum/index.md
   homepage: place/forum/index.md
+- name: Four Seasons Clift (place)
+  href: place/four-seasons-clift/index.md
+  homepage: place/four-seasons-clift/index.md
 - name: Fox Theatre (place)
   href: place/fox-theatre/index.md
   homepage: place/fox-theatre/index.md
@@ -1265,12 +1307,18 @@ items:
 - name: France Avenue (place)
   href: place/france-avenue/index.md
   homepage: place/france-avenue/index.md
+- name: Frank Erwin Center (place)
+  href: place/frank-erwin-center/index.md
+  homepage: place/frank-erwin-center/index.md
 - name: Frank Zappa
   href: frank-zappa/index.md
   homepage: frank-zappa/index.md
 - name: Fred Armisen
   href: fred-armisen/index.md
   homepage: fred-armisen/index.md
+- name: Fred Larson
+  href: fred-larson/index.md
+  homepage: fred-larson/index.md
 - name: Fred Moulterie
   href: fred-moulterie/index.md
   homepage: fred-moulterie/index.md
@@ -1406,6 +1454,9 @@ items:
 - name: Grammys
   href: grammys/index.md
   homepage: grammys/index.md
+- name: Great American Music Hall (place)
+  href: place/great-american-music-hall/index.md
+  homepage: place/great-american-music-hall/index.md
 - name: Greazy Meal
   href: greazy-meal/index.md
   homepage: greazy-meal/index.md
@@ -1472,18 +1523,27 @@ items:
 - name: Hello Sister
   href: hello-sister/index.md
   homepage: hello-sister/index.md
+- name: HemisFair Arena (place)
+  href: place/hemisfair-arena/index.md
+  homepage: place/hemisfair-arena/index.md
 - name: Hennepin County (place)
   href: place/hennepin-county/index.md
   homepage: place/hennepin-county/index.md
 - name: Henson & Efron
   href: henson-efron/index.md
   homepage: henson-efron/index.md
+- name: Herb Caen
+  href: herb-caen/index.md
+  homepage: herb-caen/index.md
 - name: Herb Ritts
   href: herb-ritts/index.md
   homepage: herb-ritts/index.md
 - name: Heritage Auctions
   href: heritage-auctions/index.md
   homepage: heritage-auctions/index.md
+- name: Hilton Als
+  href: hilton-als/index.md
+  homepage: hilton-als/index.md
 - name: Holly Don’t Care (song)
   href: song/holly-don-t-care/index.md
   homepage: song/holly-don-t-care/index.md
@@ -1493,6 +1553,9 @@ items:
 - name: Holly Rock (song)
   href: song/holly-rock/index.md
   homepage: song/holly-rock/index.md
+- name: Hollywood Cafe (place)
+  href: place/hollywood-cafe/index.md
+  homepage: place/hollywood-cafe/index.md
 - name: hologram
   href: hologram/index.md
   homepage: hologram/index.md
@@ -1736,6 +1799,9 @@ items:
 - name: Joe Louis Arena (place)
   href: place/joe-louis-arena/index.md
   homepage: place/joe-louis-arena/index.md
+- name: Joel Selvin
+  href: joel-selvin/index.md
+  homepage: joel-selvin/index.md
 - name: Joel Wachs
   href: joel-wachs/index.md
   homepage: joel-wachs/index.md
@@ -1913,6 +1979,9 @@ items:
 - name: Kristen Zschomler
   href: kristen-zschomler/index.md
   homepage: kristen-zschomler/index.md
+- name: Kristin Scott Thomas
+  href: kristin-scott-thomas/index.md
+  homepage: kristin-scott-thomas/index.md
 - name: Krush Groove (movie)
   href: movie/krush-groove/index.md
   homepage: movie/krush-groove/index.md
@@ -2087,6 +2156,9 @@ items:
 - name: Los Angeles Convention Center (place)
   href: place/los-angeles-convention-center/index.md
   homepage: place/los-angeles-convention-center/index.md
+- name: Los Angeles Times (newspaper)
+  href: newspaper/los-angeles-times/index.md
+  homepage: newspaper/los-angeles-times/index.md
 - name: Lotus Flower (album)
   href: album/lotus-flower/index.md
   homepage: album/lotus-flower/index.md
@@ -2150,6 +2222,9 @@ items:
 - name: Mail on Sunday (newspaper)
   href: newspaper/mail-on-sunday/index.md
   homepage: newspaper/mail-on-sunday/index.md
+- name: Majestic Theatre (place)
+  href: place/majestic-theatre/index.md
+  homepage: place/majestic-theatre/index.md
 - name: Majesty (animal)
   href: animal/majesty/index.md
   homepage: animal/majesty/index.md
@@ -2192,6 +2267,9 @@ items:
 - name: Mariah Carey
   href: mariah-carey/index.md
   homepage: mariah-carey/index.md
+- name: Mark Arias
+  href: mark-arias/index.md
+  homepage: mark-arias/index.md
 - name: Mark Brown
   href: mark-brown/index.md
   homepage: mark-brown/index.md
@@ -2207,6 +2285,9 @@ items:
 - name: Mark Schindele
   href: mark-schindele/index.md
   homepage: mark-schindele/index.md
+- name: Mark Z. Barabak
+  href: mark-z-barabak/index.md
+  homepage: mark-z-barabak/index.md
 - name: Marni Gustavson
   href: marni-gustavson/index.md
   homepage: marni-gustavson/index.md
@@ -2501,6 +2582,9 @@ items:
 - name: My Name Is Prince - 25 Inspired Years (book)
   href: book/my-name-is-prince-25-inspired-years/index.md
   homepage: book/my-name-is-prince-25-inspired-years/index.md
+- name: My Pinup - A Paean to Prince (book)
+  href: book/my-pinup-a-paean-to-prince/index.md
+  homepage: book/my-pinup-a-paean-to-prince/index.md
 - name: My Purple Heart
   href: my-purple-heart/index.md
   homepage: my-purple-heart/index.md
@@ -2708,6 +2792,9 @@ items:
 - name: Paisley Park (place)
   href: place/paisley-park/index.md
   homepage: place/paisley-park/index.md
+- name: Paisley Park After Dark
+  href: paisley-park-after-dark/index.md
+  homepage: paisley-park-after-dark/index.md
 - name: Paisley Park Cinema - Music on the Big Screen (event)
   href: event/paisley-park-cinema-music-on-the-big-screen/index.md
   homepage: event/paisley-park-cinema-music-on-the-big-screen/index.md
@@ -2726,6 +2813,9 @@ items:
 - name: Palais Garnier (place)
   href: place/palais-garnier/index.md
   homepage: place/palais-garnier/index.md
+- name: Pam the Funkstress
+  href: pam-the-funkstress/index.md
+  homepage: pam-the-funkstress/index.md
 - name: Pam Warren
   href: pam-warren/index.md
   homepage: pam-warren/index.md
@@ -3122,6 +3212,9 @@ items:
 - name: Robert Cavallo
   href: robert-cavallo/index.md
   homepage: robert-cavallo/index.md
+- name: Robert Hilburn
+  href: robert-hilburn/index.md
+  homepage: robert-hilburn/index.md
 - name: Robert Strauss
   href: robert-strauss/index.md
   homepage: robert-strauss/index.md
@@ -3143,6 +3236,9 @@ items:
 - name: Rock Martinez
   href: rock-martinez/index.md
   homepage: rock-martinez/index.md
+- name: Rocky’s nightclub (place)
+  href: place/rocky-s-nightclub/index.md
+  homepage: place/rocky-s-nightclub/index.md
 - name: Rodger Hagen
   href: rodger-hagen/index.md
   homepage: rodger-hagen/index.md
@@ -3173,6 +3269,9 @@ items:
 - name: Ron Scofield
   href: ron-scofield/index.md
   homepage: ron-scofield/index.md
+- name: Ron Young
+  href: ron-young/index.md
+  homepage: ron-young/index.md
 - name: Ronnie Kitchen
   href: ronnie-kitchen/index.md
   homepage: ronnie-kitchen/index.md
@@ -3212,6 +3311,9 @@ items:
 - name: Sausalito (place)
   href: place/sausalito/index.md
   homepage: place/sausalito/index.md
+- name: SBC Center (place)
+  href: place/sbc-center/index.md
+  homepage: place/sbc-center/index.md
 - name: Scandalous (song)
   href: song/scandalous/index.md
   homepage: song/scandalous/index.md
@@ -3677,6 +3779,9 @@ items:
 - name: The Stick (song)
   href: song/the-stick/index.md
   homepage: song/the-stick/index.md
+- name: The Stone (place)
+  href: place/the-stone/index.md
+  homepage: place/the-stone/index.md
 - name: The Three O’Clock
   href: the-three-o-clock/index.md
   homepage: the-three-o-clock/index.md

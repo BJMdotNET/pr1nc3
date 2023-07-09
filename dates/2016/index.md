@@ -1707,7 +1707,7 @@
 
 ----
 
-## May 2016 (93)
+## May 2016 (95)
 
  - [**"Record crowd on hand as St. Paul Saints play Purple Game to remember Prince -- The St. Paul Saints gave Prince a final farewell — complete with a lot of purple, and some red Corvettes."**](https://www.startribune.com/record-crowd-on-hand-as-st-paul-saints-play-purple-game-to-remember-prince/381305401/)
     - in [Minneapolis Star Tribune](../../publications/minneapolis-star-tribune/index.md)
@@ -2322,6 +2322,14 @@
 
 ----
 
+ - [**"Exclusive: Pain doctor Prince sought help from speaks out"**](https://www.sfchronicle.com/health/article/Exclusive-Pain-doctor-Prince-sought-help-from-7394011.php)
+    - in [San Francisco Chronicle](../../publications/san-francisco-chronicle/index.md)
+    - on 4 May 2016
+    - about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Bay Area (place)](../../topics/place/bay-area/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [opioid](../../topics/opioid/index.md), [oxycodone](../../topics/oxycodone/index.md), [Percocet](../../topics/percocet/index.md), [Recovery Without Walls](../../topics/recovery-without-walls/index.md), [Vicodin](../../topics/vicodin/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.sfchronicle.com/health/article/Exclusive-Pain-doctor-Prince-sought-help-from-7394011.php))
+
+----
+
  - [**"Former Prince assistant says he was healthy, energetic"**](https://apnews.com/article/-----2e1a16d654e9425bbe862f673c1e0de7)
     - in [Associated Press News](../../publications/associated-press-news/index.md)
     - on 4 May 2016
@@ -2384,6 +2392,14 @@
     - on 3 May 2016
     - about [Alfred Jackson](../../topics/alfred-jackson/index.md), [divorce](../../topics/divorce/index.md), [Duane Nelson](../../topics/duane-nelson/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Prince Estate](../../topics/prince-estate/index.md), [probate court](../../topics/probate-court/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [U Got the Look (song)](../../topics/song/u-got-the-look/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/e1c3f1ca7f2e4a2a9baa312560ea6379))
+
+----
+
+ - [**"Prince’s DJ ‘Purple Pam’ now leads celebration of his life"**](https://www.sfchronicle.com/music/article/Prince-s-DJ-Purple-Pam-now-leads-7391150.php)
+    - in [San Francisco Chronicle](../../publications/san-francisco-chronicle/index.md)
+    - on 3 May 2016
+    - about [1015 Folsom (place)](../../topics/place/1015-folsom/index.md), [A Celebration of Prince With Purple Pam](../../topics/a-celebration-of-prince-with-purple-pam/index.md), [Bay Area (place)](../../topics/place/bay-area/index.md), [Great American Music Hall (place)](../../topics/place/great-american-music-hall/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Paisley Park After Dark](../../topics/paisley-park-after-dark/index.md), [Pam the Funkstress](../../topics/pam-the-funkstress/index.md), [Pam Warren](../../topics/pam-warren/index.md), [Purple Pam](../../topics/purple-pam/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.sfchronicle.com/music/article/Prince-s-DJ-Purple-Pam-now-leads-7391150.php))
 
 ----
 
@@ -2460,7 +2476,7 @@
 
 ----
 
-## April 2016 (139)
+## April 2016 (150)
 
  - [**"AP Exclusive: Prince’s ‘Purple Rain’ coat is up for auction"**](https://apnews.com/8110dcbaa6714d75a12db043ff989975)
     - in [Associated Press News](../../publications/associated-press-news/index.md)
@@ -2655,7 +2671,7 @@
  - [**"The Women in Prince’s World: His Muses and Collaborators From Sheila E. to Kim Basinger"**](https://www.billboard.com/photos/7348470/prince-female-muses-collaborators-lovers-sheila-e-kim-basinger-more)
     - in [Billboard](../../publications/billboard/index.md)
     - on 28 April 2016
-    - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Apollonia 6](../../topics/apollonia-6/index.md), [Bangles](../../topics/bangles/index.md), [Boy Gregory](../../topics/boy-gregory/index.md), [Bria Valente](../../topics/bria-valente/index.md), [Cat Glover](../../topics/cat-glover/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [contract](../../topics/contract/index.md), [Denise Matthews](../../topics/denise-matthews/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [divorce](../../topics/divorce/index.md), [Donna Grantis](../../topics/donna-grantis/index.md), [Hannah Welton](../../topics/hannah-welton/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [I Wanna Be Your Lover (song)](../../topics/song/i-wanna-be-your-lover/index.md), [Ingrid Chavez](../../topics/ingrid-chavez/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Martika](../../topics/martika/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Misty Copeland](../../topics/misty-copeland/index.md), [Nasty Girl (song)](../../topics/song/nasty-girl/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Paisley Park Records](../../topics/paisley-park-records/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [Sheena Easton](../../topics/sheena-easton/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stand Back (song)](../../topics/song/stand-back/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md), [Sugar Walls (song)](../../topics/song/sugar-walls/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [The Revolution](../../topics/the-revolution/index.md), [U Got the Look (song)](../../topics/song/u-got-the-look/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [Wendy & Lisa](../../topics/wendy-lisa/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
+    - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Apollonia 6](../../topics/apollonia-6/index.md), [Bangles](../../topics/bangles/index.md), [Boy Gregory](../../topics/boy-gregory/index.md), [Bria Valente](../../topics/bria-valente/index.md), [Cat Glover](../../topics/cat-glover/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [contract](../../topics/contract/index.md), [Denise Matthews](../../topics/denise-matthews/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [divorce](../../topics/divorce/index.md), [Donna Grantis](../../topics/donna-grantis/index.md), [Hannah Welton](../../topics/hannah-welton/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [I Wanna Be Your Lover (song)](../../topics/song/i-wanna-be-your-lover/index.md), [Ingrid Chavez](../../topics/ingrid-chavez/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [Kristin Scott Thomas](../../topics/kristin-scott-thomas/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Martika](../../topics/martika/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Misty Copeland](../../topics/misty-copeland/index.md), [Nasty Girl (song)](../../topics/song/nasty-girl/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Paisley Park Records](../../topics/paisley-park-records/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [Sheena Easton](../../topics/sheena-easton/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stand Back (song)](../../topics/song/stand-back/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md), [Sugar Walls (song)](../../topics/song/sugar-walls/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [The Revolution](../../topics/the-revolution/index.md), [U Got the Look (song)](../../topics/song/u-got-the-look/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [Wendy & Lisa](../../topics/wendy-lisa/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/photos/7348470/prince-female-muses-collaborators-lovers-sheila-e-kim-basinger-more))
 
 ----
@@ -3360,11 +3376,27 @@
 
 ----
 
+ - [**"Celebrities react to death of music legend Prince"**](https://www.chron.com/entertainment/article/Celebrities-react-to-death-of-music-legend-Prince-7287746.php)
+    - in [The Houston Chronicle at Chron.com](../../publications/the-houston-chronicle-at-chron-com/index.md)
+    - on 21 April 2016
+    - about [Atlanta (place)](../../topics/place/atlanta/index.md), [Obama](../../topics/obama/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Spike Lee](../../topics/spike-lee/index.md), [Yvette Noel-Schure](../../topics/yvette-noel-schure/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.chron.com/entertainment/article/Celebrities-react-to-death-of-music-legend-Prince-7287746.php))
+
+----
+
  - [**"Deborah Allen Recalls Magical ‘Telepathy’ With Prince -- Singer tells incredible story about recruiting the late legend for a collaboration — and bonding over music, fashion and dance"**](https://www.rollingstone.com/music/music-country/deborah-allen-recalls-magical-telepathy-with-prince-174700/)
     - in [Rolling Stone](../../publications/rolling-stone/index.md)
     - on 21 April 2016
     - about [Deborah Allen](../../topics/deborah-allen/index.md), [Joey Coco](../../topics/joey-coco/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [Telepathy (song)](../../topics/song/telepathy/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-country/deborah-allen-recalls-magical-telepathy-with-prince-174700/))
+
+----
+
+ - [**"Fans recall when Prince came to play"**](https://www.sfchronicle.com/news/local/article/Fans-recall-when-Prince-came-to-play-7295039.php)
+    - in [San Francisco Chronicle](../../publications/san-francisco-chronicle/index.md)
+    - on 21 April 2016
+    - about [Alamodome (place)](../../topics/place/alamodome/index.md), [Austin Highway (place)](../../topics/place/austin-highway/index.md), [Dan Goddard](../../topics/dan-goddard/index.md), [Dave Marsh](../../topics/dave-marsh/index.md), [Dirty Mind (tour)](../../topics/tour/dirty-mind/index.md), [Frank Erwin Center (place)](../../topics/place/frank-erwin-center/index.md), [HemisFair Arena (place)](../../topics/place/hemisfair-arena/index.md), [Hollywood Cafe (place)](../../topics/place/hollywood-cafe/index.md), [Majestic Theatre (place)](../../topics/place/majestic-theatre/index.md), [Mark Arias](../../topics/mark-arias/index.md), [Purple Rain (tour)](../../topics/tour/purple-rain/index.md), [Rocky’s nightclub (place)](../../topics/place/rocky-s-nightclub/index.md), [Ron Young](../../topics/ron-young/index.md), [SBC Center (place)](../../topics/place/sbc-center/index.md), [Yvette Noel-Schure](../../topics/yvette-noel-schure/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.sfchronicle.com/news/local/article/Fans-recall-when-Prince-came-to-play-7295039.php))
 
 ----
 
@@ -3393,11 +3425,27 @@
 
 ----
 
+ - [**"My family's affair with Prince"**](https://www.sfchronicle.com/entertainment/music/article/My-family-s-affair-with-Prince-7293263.php)
+    - in [San Francisco Chronicle](../../publications/san-francisco-chronicle/index.md)
+    - on 21 April 2016
+    - about [Starfish And Coffee (song)](../../topics/song/starfish-and-coffee/index.md), [While My Guitar Gently Weeps (song)](../../topics/song/while-my-guitar-gently-weeps/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.sfchronicle.com/entertainment/music/article/My-family-s-affair-with-Prince-7293263.php))
+
+----
+
  - [**"Our horrible and stupid experience with Prince in 1981"**](https://www.presstelegram.com/2016/04/21/our-horrible-and-stupid-experience-with-prince-in-1981/)
     - in [www.presstelegram.com](../../publications/www-presstelegram-com/index.md)
     - on 21 April 2016
     - about [Baby I’m a Star (song)](../../topics/song/baby-i-m-a-star/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [I Would Die 4 U (song)](../../topics/song/i-would-die-4-u/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.presstelegram.com/2016/04/21/our-horrible-and-stupid-experience-with-prince-in-1981/))
+
+----
+
+ - [**"Pop superstar Prince dead at 57"**](https://www.chron.com/entertainment/celebrities/article/Reports-Prince-dead-at-57-7287598.php)
+    - in [The Houston Chronicle at Chron.com](../../publications/the-houston-chronicle-at-chron-com/index.md)
+    - on 21 April 2016
+    - about [Atlanta (place)](../../topics/place/atlanta/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Eden Prairie (place)](../../topics/place/eden-prairie/index.md), [Judith Hill](../../topics/judith-hill/index.md), [memoir](../../topics/memoir/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Piano and a Microphone (tour)](../../topics/tour/piano-and-a-microphone/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [Yvette Noel-Schure](../../topics/yvette-noel-schure/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.chron.com/entertainment/celebrities/article/Reports-Prince-dead-at-57-7287598.php))
 
 ----
 
@@ -3440,6 +3488,39 @@
 
 ----
 
+ - [**"Prince is mourned and celebrated by Bay Area fans"**](https://www.sfchronicle.com/music/article/Prince-is-mourned-and-celebrated-by-Bay-Area-fans-7294817.php)
+    - in [San Francisco Chronicle](../../publications/san-francisco-chronicle/index.md)
+    - on 21 April 2016
+    - about [Bay Area (place)](../../topics/place/bay-area/index.md), [Questlove](../../topics/questlove/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.sfchronicle.com/music/article/Prince-is-mourned-and-celebrated-by-Bay-Area-fans-7294817.php))
+
+----
+
+ - [**"Prince was a star known for his beautiful protégés"**](https://www.sfchronicle.com/entertainment/article/Prince-was-a-star-known-for-his-beautiful-7295987.php)
+    - in [San Francisco Chronicle](../../publications/san-francisco-chronicle/index.md)
+    - on 21 April 2016
+    - about [Carmen Electra](../../topics/carmen-electra/index.md), [Madonna](../../topics/madonna/index.md), [Sheena Easton](../../topics/sheena-easton/index.md), [Sheila E.](../../topics/sheila-e/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.sfchronicle.com/entertainment/article/Prince-was-a-star-known-for-his-beautiful-7295987.php))
+
+----
+
+ - [**"Prince, a singular, meticulous master of pop, dies at 57"**](https://www.sfchronicle.com/news/nation-world/nation/article/Prince-a-singular-meticulous-master-of-pop-7294913.php)
+    - by [Jon Pareles](../../authors/jon-pareles/index.md)
+    - in [San Francisco Chronicle](../../publications/san-francisco-chronicle/index.md)
+    - on 21 April 2016
+    - about [Albert Magnoli](../../topics/albert-magnoli/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [I Wanna Be Your Lover (song)](../../topics/song/i-wanna-be-your-lover/index.md), [I Would Die 4 U (song)](../../topics/song/i-would-die-4-u/index.md), [Jim Olson](../../topics/jim-olson/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Morris Day](../../topics/morris-day/index.md), [Raspberry Beret (song)](../../topics/song/raspberry-beret/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md), [While My Guitar Gently Weeps (song)](../../topics/song/while-my-guitar-gently-weeps/index.md), [Yvette Noel-Schure](../../topics/yvette-noel-schure/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.sfchronicle.com/news/nation-world/nation/article/Prince-a-singular-meticulous-master-of-pop-7294913.php))
+
+----
+
+ - [**"Prince, musical and social trailblazer, dies at 57"**](https://www.sfchronicle.com/music/article/Prince-musical-and-social-trailblazer-dies-at-57-7287717.php)
+    - in [San Francisco Chronicle](../../publications/san-francisco-chronicle/index.md)
+    - on 21 April 2016
+    - about [Atlanta (place)](../../topics/place/atlanta/index.md), [Bay Area (place)](../../topics/place/bay-area/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [John Lewis Nelson](../../topics/john-lewis-nelson/index.md), [Piano and a Microphone (tour)](../../topics/tour/piano-and-a-microphone/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md), [Yvette Noel-Schure](../../topics/yvette-noel-schure/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.sfchronicle.com/music/article/Prince-musical-and-social-trailblazer-dies-at-57-7287717.php))
+
+----
+
  - [**"Prince: More Important Than POTUS"**](https://www.prnewswire.com/news-releases/prince-more-important-than-potus-300255767.html)
     - in [PR Newswire](../../publications/pr-newswire/index.md)
     - on 21 April 2016
@@ -3471,6 +3552,14 @@
 
 ----
 
+ - [**"Remembering Prince's alien and human forms"**](https://www.sfchronicle.com/entertainment/music/article/Remembering-Prince-s-alien-and-human-forms-7294013.php)
+    - in [San Francisco Chronicle](../../publications/san-francisco-chronicle/index.md)
+    - on 21 April 2016
+    - about [Alicia Keys](../../topics/alicia-keys/index.md), [Batdance (song)](../../topics/song/batdance/index.md), [Compaq Center (place)](../../topics/place/compaq-center/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Tamar Davis](../../topics/tamar-davis/index.md), [The Arms of Orion (song)](../../topics/song/the-arms-of-orion/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.sfchronicle.com/entertainment/music/article/Remembering-Prince-s-alien-and-human-forms-7294013.php))
+
+----
+
  - [**"Revisit Prince's iconic first 'Purple Rain' performance"**](https://usatoday.com/story/life/entertainthis/2016/04/21/prince-first-performance-purple-rain-video/83346434/)
     - by [Maeve McDermott](../../authors/maeve-mcdermott/index.md)
     - in [USA Today](../../publications/usa-today/index.md)
@@ -3488,11 +3577,27 @@
 
 ----
 
+ - [**"The 10 coolest things about Prince, the Purple One"**](https://www.chron.com/entertainment/article/The-10-coolest-things-about-Prince-the-Purple-One-7287775.php)
+    - in [The Houston Chronicle at Chron.com](../../publications/the-houston-chronicle-at-chron-com/index.md)
+    - on 21 April 2016
+    - about [Lenny Kravitz](../../topics/lenny-kravitz/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.chron.com/entertainment/article/The-10-coolest-things-about-Prince-the-Purple-One-7287775.php))
+
+----
+
  - [**"The Man Who Would Be Prince -- In the fall of 1991, set to drop double-platinum Diamonds and Pearls, Prince sat down with writer Chris Heath for a rare interview. A crazy-rare interview: The singer had answered questions publicly just four times between 1984’s Purple Rain and that year. Go inside Paisley Park, where Heath lived for six days."**](https://www.gq.com/story/prince-interview-inside-paisley-park)
     - in [GQ](../../publications/gq/index.md)
     - on 21 April 2016
     - about [contract](../../topics/contract/index.md), [Glam Slam (place)](../../topics/place/glam-slam/index.md), [Ingrid Chavez](../../topics/ingrid-chavez/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Kate Bush](../../topics/kate-bush/index.md), [Martika](../../topics/martika/index.md), [New Girl (TV show)](../../topics/tv-show/new-girl/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [Paula Abdul](../../topics/paula-abdul/index.md), [royalties](../../topics/royalties/index.md), [Spike Lee](../../topics/spike-lee/index.md), [Standing at the Altar (song)](../../topics/song/standing-at-the-altar/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [The Black Album (album)](../../topics/album/the-black-album/index.md), [Wednesday (song)](../../topics/song/wednesday/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.gq.com/story/prince-interview-inside-paisley-park))
+
+----
+
+ - [**"The Warriors paid tribute to Prince during their shootaround"**](https://www.sfchronicle.com/warriors/article/Warriors-tribute-to-Prince-shootaround-7287844.php)
+    - in [San Francisco Chronicle](../../publications/san-francisco-chronicle/index.md)
+    - on 21 April 2016
+    - about [Bay Area (place)](../../topics/place/bay-area/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.sfchronicle.com/warriors/article/Warriors-tribute-to-Prince-shootaround-7287844.php))
 
 ----
 

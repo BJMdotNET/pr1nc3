@@ -12,9 +12,9 @@
 
 ----
 
-## 2016 (4)
+## 2016 (6)
 
-### 2016 April (4)
+### 2016 April (6)
 
  - [**"Prince’s custom-made purple piano was to go on tour with him"**](https://apnews.com/article/4c8a40da6f114d688b414ab7305b9e8f)
     - in [Associated Press News](../../../publications/associated-press-news/index.md)
@@ -37,6 +37,22 @@
     - on 23 April 2016
     - about [94 East](../../../topics/94-east/index.md), [Andre Cymone](../../../topics/andre-cymone/index.md), [Chris Moon](../../../topics/chris-moon/index.md), [Jimmy Jam](../../../topics/jimmy-jam/index.md), [Kenny Rogers](../../../topics/kenny-rogers/index.md), [Morris Day](../../../topics/morris-day/index.md), [Pepe Willie](../../../topics/pepe-willie/index.md), [performing rights](../../../topics/performing-rights/index.md), [Piano and a Microphone (tour)](../../../topics/tour/piano-and-a-microphone/index.md), [Soft and Wet (song)](../../../topics/song/soft-and-wet/index.md), [Terry Lewis](../../../topics/terry-lewis/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/music/2016/apr/23/prince-death-early-years-formed-music-legend))
+
+<br />
+
+ - [**"Pop superstar Prince dead at 57"**](https://www.chron.com/entertainment/celebrities/article/Reports-Prince-dead-at-57-7287598.php)
+    - in [The Houston Chronicle at Chron.com](../../../publications/the-houston-chronicle-at-chron-com/index.md)
+    - on 21 April 2016
+    - about [Atlanta (place)](../../../topics/place/atlanta/index.md), [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Eden Prairie (place)](../../../topics/place/eden-prairie/index.md), [Judith Hill](../../../topics/judith-hill/index.md), [memoir](../../../topics/memoir/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Piano and a Microphone (tour)](../../../topics/tour/piano-and-a-microphone/index.md), [Spiegel & Grau](../../../topics/spiegel-grau/index.md), [Yvette Noel-Schure](../../../topics/yvette-noel-schure/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.chron.com/entertainment/celebrities/article/Reports-Prince-dead-at-57-7287598.php))
+
+<br />
+
+ - [**"Prince, musical and social trailblazer, dies at 57"**](https://www.sfchronicle.com/music/article/Prince-musical-and-social-trailblazer-dies-at-57-7287717.php)
+    - in [San Francisco Chronicle](../../../publications/san-francisco-chronicle/index.md)
+    - on 21 April 2016
+    - about [Atlanta (place)](../../../topics/place/atlanta/index.md), [Bay Area (place)](../../../topics/place/bay-area/index.md), [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [John Lewis Nelson](../../../topics/john-lewis-nelson/index.md), [Piano and a Microphone (tour)](../../../topics/tour/piano-and-a-microphone/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md), [Yvette Noel-Schure](../../../topics/yvette-noel-schure/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.sfchronicle.com/music/article/Prince-musical-and-social-trailblazer-dies-at-57-7287717.php))
 
 <br />
 

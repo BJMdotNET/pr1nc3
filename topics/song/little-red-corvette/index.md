@@ -752,7 +752,7 @@
 
 ----
 
-## 2016 (25)
+## 2016 (27)
 
 ### 2016 December (1)
 
@@ -812,12 +812,12 @@
 
 ----
 
-### 2016 April (19)
+### 2016 April (21)
 
  - [**"The Women in Prince’s World: His Muses and Collaborators From Sheila E. to Kim Basinger"**](https://www.billboard.com/photos/7348470/prince-female-muses-collaborators-lovers-sheila-e-kim-basinger-more)
     - in [Billboard](../../../publications/billboard/index.md)
     - on 28 April 2016
-    - about [3rdEyeGirl](../../../topics/3rdeyegirl/index.md), [Apollonia 6](../../../topics/apollonia-6/index.md), [Bangles](../../../topics/bangles/index.md), [Boy Gregory](../../../topics/boy-gregory/index.md), [Bria Valente](../../../topics/bria-valente/index.md), [Cat Glover](../../../topics/cat-glover/index.md), [Chaka Khan](../../../topics/chaka-khan/index.md), [contract](../../../topics/contract/index.md), [Denise Matthews](../../../topics/denise-matthews/index.md), [Dez Dickerson](../../../topics/dez-dickerson/index.md), [divorce](../../../topics/divorce/index.md), [Donna Grantis](../../../topics/donna-grantis/index.md), [Hannah Welton](../../../topics/hannah-welton/index.md), [I Feel For You (song)](../../../topics/song/i-feel-for-you/index.md), [I Wanna Be Your Lover (song)](../../../topics/song/i-wanna-be-your-lover/index.md), [Ingrid Chavez](../../../topics/ingrid-chavez/index.md), [Jehovah’s Witness](../../../topics/jehovah-s-witness/index.md), [Lisa Coleman](../../../topics/lisa-coleman/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Manuela Testolini](../../../topics/manuela-testolini/index.md), [Martika](../../../topics/martika/index.md), [Mavis Staples](../../../topics/mavis-staples/index.md), [Mayte](../../../topics/mayte/index.md), [Mayte Garcia](../../../topics/mayte-garcia/index.md), [Misty Copeland](../../../topics/misty-copeland/index.md), [Nasty Girl (song)](../../../topics/song/nasty-girl/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Paisley Park Records](../../../topics/paisley-park-records/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Sheena Easton](../../../topics/sheena-easton/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [Stand Back (song)](../../../topics/song/stand-back/index.md), [Stevie Nicks](../../../topics/stevie-nicks/index.md), [Sugar Walls (song)](../../../topics/song/sugar-walls/index.md), [Susanna Hoffs](../../../topics/susanna-hoffs/index.md), [Susannah Melvoin](../../../topics/susannah-melvoin/index.md), [The Revolution](../../../topics/the-revolution/index.md), [U Got the Look (song)](../../../topics/song/u-got-the-look/index.md), [Under the Cherry Moon (movie)](../../../topics/movie/under-the-cherry-moon/index.md), [Vanity](../../../topics/vanity/index.md), [Vanity 6](../../../topics/vanity-6/index.md), [Wendy & Lisa](../../../topics/wendy-lisa/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
+    - about [3rdEyeGirl](../../../topics/3rdeyegirl/index.md), [Apollonia 6](../../../topics/apollonia-6/index.md), [Bangles](../../../topics/bangles/index.md), [Boy Gregory](../../../topics/boy-gregory/index.md), [Bria Valente](../../../topics/bria-valente/index.md), [Cat Glover](../../../topics/cat-glover/index.md), [Chaka Khan](../../../topics/chaka-khan/index.md), [contract](../../../topics/contract/index.md), [Denise Matthews](../../../topics/denise-matthews/index.md), [Dez Dickerson](../../../topics/dez-dickerson/index.md), [divorce](../../../topics/divorce/index.md), [Donna Grantis](../../../topics/donna-grantis/index.md), [Hannah Welton](../../../topics/hannah-welton/index.md), [I Feel For You (song)](../../../topics/song/i-feel-for-you/index.md), [I Wanna Be Your Lover (song)](../../../topics/song/i-wanna-be-your-lover/index.md), [Ingrid Chavez](../../../topics/ingrid-chavez/index.md), [Jehovah’s Witness](../../../topics/jehovah-s-witness/index.md), [Kristin Scott Thomas](../../../topics/kristin-scott-thomas/index.md), [Lisa Coleman](../../../topics/lisa-coleman/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Manuela Testolini](../../../topics/manuela-testolini/index.md), [Martika](../../../topics/martika/index.md), [Mavis Staples](../../../topics/mavis-staples/index.md), [Mayte](../../../topics/mayte/index.md), [Mayte Garcia](../../../topics/mayte-garcia/index.md), [Misty Copeland](../../../topics/misty-copeland/index.md), [Nasty Girl (song)](../../../topics/song/nasty-girl/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Paisley Park Records](../../../topics/paisley-park-records/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Sheena Easton](../../../topics/sheena-easton/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [Stand Back (song)](../../../topics/song/stand-back/index.md), [Stevie Nicks](../../../topics/stevie-nicks/index.md), [Sugar Walls (song)](../../../topics/song/sugar-walls/index.md), [Susanna Hoffs](../../../topics/susanna-hoffs/index.md), [Susannah Melvoin](../../../topics/susannah-melvoin/index.md), [The Revolution](../../../topics/the-revolution/index.md), [U Got the Look (song)](../../../topics/song/u-got-the-look/index.md), [Under the Cherry Moon (movie)](../../../topics/movie/under-the-cherry-moon/index.md), [Vanity](../../../topics/vanity/index.md), [Vanity 6](../../../topics/vanity-6/index.md), [Wendy & Lisa](../../../topics/wendy-lisa/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/photos/7348470/prince-female-muses-collaborators-lovers-sheila-e-kim-basinger-more))
 
 <br />
@@ -943,11 +943,28 @@
 
 <br />
 
+ - [**"Prince, a singular, meticulous master of pop, dies at 57"**](https://www.sfchronicle.com/news/nation-world/nation/article/Prince-a-singular-meticulous-master-of-pop-7294913.php)
+    - by [Jon Pareles](../../../authors/jon-pareles/index.md)
+    - in [San Francisco Chronicle](../../../publications/san-francisco-chronicle/index.md)
+    - on 21 April 2016
+    - about [Albert Magnoli](../../../topics/albert-magnoli/index.md), [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [I Feel For You (song)](../../../topics/song/i-feel-for-you/index.md), [I Wanna Be Your Lover (song)](../../../topics/song/i-wanna-be-your-lover/index.md), [I Would Die 4 U (song)](../../../topics/song/i-would-die-4-u/index.md), [Jim Olson](../../../topics/jim-olson/index.md), [John L. Nelson](../../../topics/john-l-nelson/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Morris Day](../../../topics/morris-day/index.md), [Raspberry Beret (song)](../../../topics/song/raspberry-beret/index.md), [Super Bowl](../../../topics/super-bowl/index.md), [Under the Cherry Moon (movie)](../../../topics/movie/under-the-cherry-moon/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md), [While My Guitar Gently Weeps (song)](../../../topics/song/while-my-guitar-gently-weeps/index.md), [Yvette Noel-Schure](../../../topics/yvette-noel-schure/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.sfchronicle.com/news/nation-world/nation/article/Prince-a-singular-meticulous-master-of-pop-7294913.php))
+
+<br />
+
  - [**"Prince: More Important Than POTUS"**](https://www.prnewswire.com/news-releases/prince-more-important-than-potus-300255767.html)
     - in [PR Newswire](../../../publications/pr-newswire/index.md)
     - on 21 April 2016
     - about [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Raspberry Beret (song)](../../../topics/song/raspberry-beret/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/prince-more-important-than-potus-300255767.html))
+
+<br />
+
+ - [**"Remembering Prince's alien and human forms"**](https://www.sfchronicle.com/entertainment/music/article/Remembering-Prince-s-alien-and-human-forms-7294013.php)
+    - in [San Francisco Chronicle](../../../publications/san-francisco-chronicle/index.md)
+    - on 21 April 2016
+    - about [Alicia Keys](../../../topics/alicia-keys/index.md), [Batdance (song)](../../../topics/song/batdance/index.md), [Compaq Center (place)](../../../topics/place/compaq-center/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Tamar Davis](../../../topics/tamar-davis/index.md), [The Arms of Orion (song)](../../../topics/song/the-arms-of-orion/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.sfchronicle.com/entertainment/music/article/Remembering-Prince-s-alien-and-human-forms-7294013.php))
 
 <br />
 
@@ -965,6 +982,19 @@
     - on 21 April 2016
     - about [Andy Warhol](../../../topics/andy-warhol/index.md), [Barney Hoskyns](../../../topics/barney-hoskyns/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Piano and a Microphone (tour)](../../../topics/tour/piano-and-a-microphone/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://news.artnet.com/art-world/photos-of-musician-prince-478703))
+
+----
+
+## 2015 (1)
+
+### 2015 January (1)
+
+ - [**"30 years ago: Prince holds court at the Summit"**](https://www.sfchronicle.com/local/bayou-city-history/article/30-years-ago-Prince-holds-court-at-the-Summit-6000026.php)
+    - by [J.R. Gonzales](../../../authors/j-r-gonzales/index.md)
+    - in [San Francisco Chronicle](../../../publications/san-francisco-chronicle/index.md)
+    - on 9 January 2015
+    - about [Apollonia](../../../topics/apollonia/index.md), [Apollonia 6](../../../topics/apollonia-6/index.md), [Darling Nikki (song)](../../../topics/song/darling-nikki/index.md), [Delirious (song)](../../../topics/song/delirious/index.md), [I Would Die 4 U (song)](../../../topics/song/i-would-die-4-u/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Prince and The Revolution](../../../topics/prince-and-the-revolution/index.md), [Purple Rain (tour)](../../../topics/tour/purple-rain/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [The Revolution](../../../topics/the-revolution/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.sfchronicle.com/local/bayou-city-history/article/30-years-ago-Prince-holds-court-at-the-Summit-6000026.php))
 
 ----
 

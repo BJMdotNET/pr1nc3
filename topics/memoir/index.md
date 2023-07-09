@@ -1,5 +1,17 @@
 # memoir
 
+## 2022 (1)
+
+### 2022 November (1)
+
+ - [**"Review: 2 fanboys send a kiss to Prince, music’s most prolific and mysterious artist"**](https://datebook.sfchronicle.com/books/review-2-fanboys-send-a-kiss-to-prince-musics-most-prolific-and-mysterious-artist)
+    - in [Datebook - San Francisco Arts & Entertainment Guide](../../publications/datebook-san-francisco-arts-entertainment-guide/index.md)
+    - on 7 November 2022
+    - about [Charles Dickens](../../topics/charles-dickens/index.md), [Dickens and Prince (book)](../../topics/book/dickens-and-prince/index.md), [Dickens and Prince: A Particular Kind of Genius (book)](../../topics/book/dickens-and-prince-a-particular-kind-of-genius/index.md), [Hilton Als](../../topics/hilton-als/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [memoir](../../topics/memoir/index.md), [My Pinup: A Paean to Prince (book)](../../topics/book/my-pinup-a-paean-to-prince/index.md), [Nick Hornby](../../topics/nick-hornby/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://datebook.sfchronicle.com/books/review-2-fanboys-send-a-kiss-to-prince-musics-most-prolific-and-mysterious-artist))
+
+----
+
 ## 2021 (3)
 
 ### 2021 May (1)
@@ -1226,7 +1238,7 @@
 
 ----
 
-## 2016 (13)
+## 2016 (14)
 
 ### 2016 September (1)
 
@@ -1238,7 +1250,7 @@
 
 ----
 
-### 2016 April (6)
+### 2016 April (7)
 
  - [**"‘I’m Going to Personify Sex in Every Way’: Prince’s Defining ‘Dirty Mind’ Album -- A refusal to be labeled R&B, a rivalry with Rick James and a very dirty song called 'Head': the groundbreaking arrival of 1980's 'Dirty Mind.'"**](https://www.billboard.com/music/features/prince-dirty-mind-retrospective-7348526/)
     - in [Billboard](../../publications/billboard/index.md)
@@ -1277,6 +1289,14 @@
     - on 22 April 2016
     - about [Academy Award](../../topics/academy-award/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Bangles](../../topics/bangles/index.md), [contract](../../topics/contract/index.md), [Cyndi Lauper](../../topics/cyndi-lauper/index.md), [Frank Zappa](../../topics/frank-zappa/index.md), [I Wanna Be Your Lover (song)](../../topics/song/i-wanna-be-your-lover/index.md), [James Brown](../../topics/james-brown/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Obama](../../topics/obama/index.md), [Parents Music Resource Center](../../topics/parents-music-resource-center/index.md), [Roger Ebert](../../topics/roger-ebert/index.md), [Tidal](../../topics/tidal/index.md), [Vanity](../../topics/vanity/index.md), [White House (place)](../../topics/place/white-house/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/988e107cf6964494b58ad2ca9bcd0985))
+
+<br />
+
+ - [**"Pop superstar Prince dead at 57"**](https://www.chron.com/entertainment/celebrities/article/Reports-Prince-dead-at-57-7287598.php)
+    - in [The Houston Chronicle at Chron.com](../../publications/the-houston-chronicle-at-chron-com/index.md)
+    - on 21 April 2016
+    - about [Atlanta (place)](../../topics/place/atlanta/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Eden Prairie (place)](../../topics/place/eden-prairie/index.md), [Judith Hill](../../topics/judith-hill/index.md), [memoir](../../topics/memoir/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Piano and a Microphone (tour)](../../topics/tour/piano-and-a-microphone/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [Yvette Noel-Schure](../../topics/yvette-noel-schure/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.chron.com/entertainment/celebrities/article/Reports-Prince-dead-at-57-7287598.php))
 
 <br />
 

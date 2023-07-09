@@ -1,6 +1,17 @@
 # Purple Rain (tour)
 
-## 2023 (2)
+## 2023 (3)
+
+### 2023 July (1)
+
+ - [**"Move over, Taylor Swift: This is the hottest ticket in Bay Area concert history"**](https://www.sfchronicle.com/oursf/article/prince-bay-area-show-18189287.php)
+    - by [Peter Hartlaub](../../../authors/peter-hartlaub/index.md)
+    - in [San Francisco Chronicle](../../../publications/san-francisco-chronicle/index.md)
+    - on 8 July 2023
+    - about [Bay Area (place)](../../../topics/place/bay-area/index.md), [Bill Graham](../../../topics/bill-graham/index.md), [California (place)](../../../topics/place/california/index.md), [Cow Palace (place)](../../../topics/place/cow-palace/index.md), [Daly City (place)](../../../topics/place/daly-city/index.md), [Four Seasons Clift (place)](../../../topics/place/four-seasons-clift/index.md), [Fred Larson](../../../topics/fred-larson/index.md), [Herb Caen](../../../topics/herb-caen/index.md), [Joel Selvin](../../../topics/joel-selvin/index.md), [Mark Z. Barabak](../../../topics/mark-z-barabak/index.md), [Purple Rain (tour)](../../../topics/tour/purple-rain/index.md), [The Revolution](../../../topics/the-revolution/index.md), [The Stone (place)](../../../topics/place/the-stone/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.sfchronicle.com/oursf/article/prince-bay-area-show-18189287.php))
+
+----
 
 ### 2023 June (2)
 
@@ -102,6 +113,31 @@
 
 ----
 
+## 2016 (1)
+
+### 2016 April (1)
+
+ - [**"Fans recall when Prince came to play"**](https://www.sfchronicle.com/news/local/article/Fans-recall-when-Prince-came-to-play-7295039.php)
+    - in [San Francisco Chronicle](../../../publications/san-francisco-chronicle/index.md)
+    - on 21 April 2016
+    - about [Alamodome (place)](../../../topics/place/alamodome/index.md), [Austin Highway (place)](../../../topics/place/austin-highway/index.md), [Dan Goddard](../../../topics/dan-goddard/index.md), [Dave Marsh](../../../topics/dave-marsh/index.md), [Dirty Mind (tour)](../../../topics/tour/dirty-mind/index.md), [Frank Erwin Center (place)](../../../topics/place/frank-erwin-center/index.md), [HemisFair Arena (place)](../../../topics/place/hemisfair-arena/index.md), [Hollywood Cafe (place)](../../../topics/place/hollywood-cafe/index.md), [Majestic Theatre (place)](../../../topics/place/majestic-theatre/index.md), [Mark Arias](../../../topics/mark-arias/index.md), [Purple Rain (tour)](../../../topics/tour/purple-rain/index.md), [Rocky’s nightclub (place)](../../../topics/place/rocky-s-nightclub/index.md), [Ron Young](../../../topics/ron-young/index.md), [SBC Center (place)](../../../topics/place/sbc-center/index.md), [Yvette Noel-Schure](../../../topics/yvette-noel-schure/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.sfchronicle.com/news/local/article/Fans-recall-when-Prince-came-to-play-7295039.php))
+
+----
+
+## 2015 (1)
+
+### 2015 January (1)
+
+ - [**"30 years ago: Prince holds court at the Summit"**](https://www.sfchronicle.com/local/bayou-city-history/article/30-years-ago-Prince-holds-court-at-the-Summit-6000026.php)
+    - by [J.R. Gonzales](../../../authors/j-r-gonzales/index.md)
+    - in [San Francisco Chronicle](../../../publications/san-francisco-chronicle/index.md)
+    - on 9 January 2015
+    - about [Apollonia](../../../topics/apollonia/index.md), [Apollonia 6](../../../topics/apollonia-6/index.md), [Darling Nikki (song)](../../../topics/song/darling-nikki/index.md), [Delirious (song)](../../../topics/song/delirious/index.md), [I Would Die 4 U (song)](../../../topics/song/i-would-die-4-u/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Prince and The Revolution](../../../topics/prince-and-the-revolution/index.md), [Purple Rain (tour)](../../../topics/tour/purple-rain/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [The Revolution](../../../topics/the-revolution/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.sfchronicle.com/local/bayou-city-history/article/30-years-ago-Prince-holds-court-at-the-Summit-6000026.php))
+
+----
+
 ## 2014 (2)
 
 ### 2014 November (1)
@@ -119,7 +155,7 @@
  - [**"‘Purple Rain’ at 30: Why It’s the Musical That Defined the ’80s"**](https://variety.com/2014/music/news/purple-rain-30th-anniversary-tribute-1201269036/)
     - in [Variety](../../../publications/variety/index.md)
     - on 26 July 2014
-    - about [Albert Magnoli](../../../topics/albert-magnoli/index.md), [Apollonia](../../../topics/apollonia/index.md), [Apollonia Kotero](../../../topics/apollonia-kotero/index.md), [Darling Nikki (song)](../../../topics/song/darling-nikki/index.md), [Detroit (place)](../../../topics/place/detroit/index.md), [Detroit, Michigan (place)](../../../topics/place/detroit-michigan/index.md), [Ghostbusters (movie)](../../../topics/movie/ghostbusters/index.md), [Graffiti Bridge (movie)](../../../topics/movie/graffiti-bridge/index.md), [Ingrid Chavez](../../../topics/ingrid-chavez/index.md), [Jungle Love (song)](../../../topics/song/jungle-love/index.md), [Kevin Smith](../../../topics/kevin-smith/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Los Angeles (place)](../../../topics/place/los-angeles/index.md), [Morris Day](../../../topics/morris-day/index.md), [motorcycle](../../../topics/motorcycle/index.md), [Purple Rain (album)](../../../topics/album/purple-rain/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Purple Rain (tour)](../../../topics/tour/purple-rain/index.md), [Under the Cherry Moon (movie)](../../../topics/movie/under-the-cherry-moon/index.md)
+    - about [Albert Magnoli](../../../topics/albert-magnoli/index.md), [Apollonia](../../../topics/apollonia/index.md), [Apollonia Kotero](../../../topics/apollonia-kotero/index.md), [Darling Nikki (song)](../../../topics/song/darling-nikki/index.md), [Detroit (place)](../../../topics/place/detroit/index.md), [Detroit, Michigan (place)](../../../topics/place/detroit-michigan/index.md), [Ghostbusters (movie)](../../../topics/movie/ghostbusters/index.md), [Graffiti Bridge (movie)](../../../topics/movie/graffiti-bridge/index.md), [Ingrid Chavez](../../../topics/ingrid-chavez/index.md), [Jungle Love (song)](../../../topics/song/jungle-love/index.md), [Kevin Smith](../../../topics/kevin-smith/index.md), [Kristin Scott Thomas](../../../topics/kristin-scott-thomas/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Los Angeles (place)](../../../topics/place/los-angeles/index.md), [Morris Day](../../../topics/morris-day/index.md), [motorcycle](../../../topics/motorcycle/index.md), [Purple Rain (album)](../../../topics/album/purple-rain/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Purple Rain (tour)](../../../topics/tour/purple-rain/index.md), [Under the Cherry Moon (movie)](../../../topics/movie/under-the-cherry-moon/index.md)
     - ([mirror](https://web.archive.org/web/*/https://variety.com/2014/music/news/purple-rain-30th-anniversary-tribute-1201269036/))
 
 ----

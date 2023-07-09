@@ -13,9 +13,9 @@
 
 ----
 
-## 2016 (2)
+## 2016 (3)
 
-### 2016 April (2)
+### 2016 April (3)
 
  - [**"Prince “reescribió las reglas” de la música"**](https://apnews.com/article/dbe5c9245d024a89bca2376ee8b631c0)
     - in [Associated Press News](../../../publications/associated-press-news/index.md)
@@ -31,6 +31,14 @@
     - on 21 April 2016
     - about [3rdEyeGirl](../../../topics/3rdeyegirl/index.md), [Alan Leeds](../../../topics/alan-leeds/index.md), [Albert Magnoli](../../../topics/albert-magnoli/index.md), [Art Official Age (album)](../../../topics/album/art-official-age/index.md), [Black Album (album)](../../../topics/album/black-album/index.md), [bootleg](../../../topics/bootleg/index.md), [Carlos Boozer](../../../topics/carlos-boozer/index.md), [Carmen Electra](../../../topics/carmen-electra/index.md), [Chappelle’s Show (TV show)](../../../topics/tv-show/chappelle-s-show/index.md), [Charlie Murphy](../../../topics/charlie-murphy/index.md), [Daily Mail (newspaper)](../../../topics/newspaper/daily-mail/index.md), [Divinity (animal)](../../../topics/animal/divinity/index.md), [Eden Prairie (place)](../../../topics/place/eden-prairie/index.md), [Glam Slam Ulysses](../../../topics/glam-slam-ulysses/index.md), [Jay Williams](../../../topics/jay-williams/index.md), [Jehovah’s Witness](../../../topics/jehovah-s-witness/index.md), [Kevin Smith](../../../topics/kevin-smith/index.md), [Kim Basinger](../../../topics/kim-basinger/index.md), [Larry Graham](../../../topics/larry-graham/index.md), [lawsuit](../../../topics/lawsuit/index.md), [Majesty (animal)](../../../topics/animal/majesty/index.md), [Mayte](../../../topics/mayte/index.md), [Mayte Garcia](../../../topics/mayte-garcia/index.md), [Michael Jackson](../../../topics/michael-jackson/index.md), [Mo’ Meta Blues (book)](../../../topics/book/mo-meta-blues/index.md), [Notorious (magazine)](../../../topics/magazine/notorious/index.md), [One Nite Alone (album)](../../../topics/album/one-nite-alone/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [ping-pong](../../../topics/ping-pong/index.md), [PlectrumElectrum (album)](../../../topics/album/plectrumelectrum/index.md), [Questlove](../../../topics/questlove/index.md), [roller-skating](../../../topics/roller-skating/index.md), [Scandalous (song)](../../../topics/song/scandalous/index.md), [Scandalous Sex Suite (EP)](../../../topics/ep/scandalous-sex-suite/index.md), [The Most Beautiful Girl In The World (song)](../../../topics/song/the-most-beautiful-girl-in-the-world/index.md), [The New Yorker](../../../topics/the-new-yorker/index.md), [vault](../../../topics/vault/index.md), [Yom Kippur](../../../topics/yom-kippur/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.vulture.com/2014/09/24-outrageous-prince-stories.html))
+
+<br />
+
+ - [**"Pop superstar Prince dead at 57"**](https://www.chron.com/entertainment/celebrities/article/Reports-Prince-dead-at-57-7287598.php)
+    - in [The Houston Chronicle at Chron.com](../../../publications/the-houston-chronicle-at-chron-com/index.md)
+    - on 21 April 2016
+    - about [Atlanta (place)](../../../topics/place/atlanta/index.md), [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Eden Prairie (place)](../../../topics/place/eden-prairie/index.md), [Judith Hill](../../../topics/judith-hill/index.md), [memoir](../../../topics/memoir/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Piano and a Microphone (tour)](../../../topics/tour/piano-and-a-microphone/index.md), [Spiegel & Grau](../../../topics/spiegel-grau/index.md), [Yvette Noel-Schure](../../../topics/yvette-noel-schure/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.chron.com/entertainment/celebrities/article/Reports-Prince-dead-at-57-7287598.php))
 
 ----
 

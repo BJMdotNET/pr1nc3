@@ -1,8 +1,16 @@
 # Los Angeles (place)
 
-## 2023 (1)
+## 2023 (2)
 
-### 2023 June (1)
+### 2023 June (2)
+
+ - [**"Susanna Hoffs on Prince, naked writing and her debut novel -- David Barnett chats to the Bangles lead singer about her new book – which happens to be brilliant"**](https://www.tortoisemedia.com/2023/06/09/why-dont-you-write-that-novel-youve-always-wanted-to-write/)
+    - in [www.tortoisemedia.com](../../../publications/www-tortoisemedia-com/index.md)
+    - on 9 June 2023
+    - about [Bangles](../../../topics/bangles/index.md), [Los Angeles (place)](../../../topics/place/los-angeles/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Susanna Hoffs](../../../topics/susanna-hoffs/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.tortoisemedia.com/2023/06/09/why-dont-you-write-that-novel-youve-always-wanted-to-write/))
+
+<br />
 
  - [**"Why did Prince decide to live in Chanhassen? -- The Minneapolis native's legacy will forever be linked to his state-of-the-art suburban playground, Paisley Park."**](https://www.startribune.com/prince-minneapolis-chanhassen-paisley-park-andre-cymone-morris-day-bobby-z/600281369/)
     - by [Jon Bream](../../../authors/jon-bream/index.md)
@@ -104,7 +112,7 @@
  - [**"‘Purple Rain’ at 30: Why It’s the Musical That Defined the ’80s"**](https://variety.com/2014/music/news/purple-rain-30th-anniversary-tribute-1201269036/)
     - in [Variety](../../../publications/variety/index.md)
     - on 26 July 2014
-    - about [Albert Magnoli](../../../topics/albert-magnoli/index.md), [Apollonia](../../../topics/apollonia/index.md), [Apollonia Kotero](../../../topics/apollonia-kotero/index.md), [Darling Nikki (song)](../../../topics/song/darling-nikki/index.md), [Detroit (place)](../../../topics/place/detroit/index.md), [Detroit, Michigan (place)](../../../topics/place/detroit-michigan/index.md), [Ghostbusters (movie)](../../../topics/movie/ghostbusters/index.md), [Graffiti Bridge (movie)](../../../topics/movie/graffiti-bridge/index.md), [Ingrid Chavez](../../../topics/ingrid-chavez/index.md), [Jungle Love (song)](../../../topics/song/jungle-love/index.md), [Kevin Smith](../../../topics/kevin-smith/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Los Angeles (place)](../../../topics/place/los-angeles/index.md), [Morris Day](../../../topics/morris-day/index.md), [motorcycle](../../../topics/motorcycle/index.md), [Purple Rain (album)](../../../topics/album/purple-rain/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Purple Rain (tour)](../../../topics/tour/purple-rain/index.md), [Under the Cherry Moon (movie)](../../../topics/movie/under-the-cherry-moon/index.md)
+    - about [Albert Magnoli](../../../topics/albert-magnoli/index.md), [Apollonia](../../../topics/apollonia/index.md), [Apollonia Kotero](../../../topics/apollonia-kotero/index.md), [Darling Nikki (song)](../../../topics/song/darling-nikki/index.md), [Detroit (place)](../../../topics/place/detroit/index.md), [Detroit, Michigan (place)](../../../topics/place/detroit-michigan/index.md), [Ghostbusters (movie)](../../../topics/movie/ghostbusters/index.md), [Graffiti Bridge (movie)](../../../topics/movie/graffiti-bridge/index.md), [Ingrid Chavez](../../../topics/ingrid-chavez/index.md), [Jungle Love (song)](../../../topics/song/jungle-love/index.md), [Kevin Smith](../../../topics/kevin-smith/index.md), [Kristin Scott Thomas](../../../topics/kristin-scott-thomas/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Los Angeles (place)](../../../topics/place/los-angeles/index.md), [Morris Day](../../../topics/morris-day/index.md), [motorcycle](../../../topics/motorcycle/index.md), [Purple Rain (album)](../../../topics/album/purple-rain/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Purple Rain (tour)](../../../topics/tour/purple-rain/index.md), [Under the Cherry Moon (movie)](../../../topics/movie/under-the-cherry-moon/index.md)
     - ([mirror](https://web.archive.org/web/*/https://variety.com/2014/music/news/purple-rain-30th-anniversary-tribute-1201269036/))
 
 ----

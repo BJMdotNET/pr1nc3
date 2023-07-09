@@ -302,7 +302,7 @@
 
 ----
 
-## October 2018 (24)
+## October 2018 (25)
 
  - [**"'A Wrinkle in Time' director Ava DuVernay to make Prince documentary for Netflix -- The filmmaker has the support of the late Minnesota musician's estate."**](https://www.startribune.com/ava-duvernay-to-make-prince-documentary-for-netflix/499015301/)
     - in [Minneapolis Star Tribune](../../publications/minneapolis-star-tribune/index.md)
@@ -487,6 +487,14 @@
     - on 12 October 2018
     - about [Prince Estate](../../topics/prince-estate/index.md), [Trump](../../topics/trump/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-estate-to-trump-stop-using-music-at-rallies/497248101/))
+
+----
+
+ - [**"Prince’s private recordings too intimate to bear on ‘Piano & a Microphone 1983’"**](https://datebook.sfchronicle.com/music/princes-private-recordings-too-intimate-to-bear-on-piano-and-a-microphone-1983)
+    - in [Datebook - San Francisco Arts & Entertainment Guide](../../publications/datebook-san-francisco-arts-entertainment-guide/index.md)
+    - on 3 October 2018
+    - about [A Case of You (song)](../../topics/song/a-case-of-you/index.md), [Cold Coffee & Cocaine (song)](../../topics/song/cold-coffee-cocaine/index.md), [International Lover (song)](../../topics/song/international-lover/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Mary Don’t You Weep (song)](../../topics/song/mary-don-t-you-weep/index.md), [Piano & A Microphone 1983 (album review)](../../topics/album-review/piano-a-microphone-1983/index.md), [Piano & A Microphone 1983 (album)](../../topics/album/piano-a-microphone-1983/index.md), [Strange Relationship (song)](../../topics/song/strange-relationship/index.md), [vault](../../topics/vault/index.md), [Why The Butterflies (song)](../../topics/song/why-the-butterflies/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://datebook.sfchronicle.com/music/princes-private-recordings-too-intimate-to-bear-on-piano-and-a-microphone-1983))
 
 ----
 
@@ -1089,7 +1097,7 @@
 
 ----
 
-## May 2018 (6)
+## May 2018 (7)
 
  - [**"PRINCE’S PRE-FAME YEARS ARE THE FOCUS OF THIS UPCOMING EXHIBITION!"**](https://afropunk.com/2018/05/this-upcoming-exhibition-offers-rare-glimpse-of-pre-fame-prince/)
     - in [Afropunk](../../publications/afropunk/index.md)
@@ -1141,7 +1149,15 @@
 
 ----
 
-## April 2018 (57)
+ - [**"Prince's Carribbean estate, complete with purple driveway, goes up for auction"**](https://www.sfchronicle.com/realestate/article/Prince-Carribbean-estate-auction-purple-driveway-12897506.php)
+    - in [San Francisco Chronicle](../../publications/san-francisco-chronicle/index.md)
+    - on 9 May 2018
+    - about [auction](../../topics/auction/index.md), [Turks and Caicos](../../topics/turks-and-caicos/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.sfchronicle.com/realestate/article/Prince-Carribbean-estate-auction-purple-driveway-12897506.php))
+
+----
+
+## April 2018 (58)
 
  - [**"Investigation says Prince was isolated, addicted and in pain -- (AP Archive)"**](https://www.youtube.com/watch?v=iO7eX1j6n2E)
     - in [YouTube](../../publications/youtube/index.md)
@@ -1567,6 +1583,14 @@
     - on 12 April 2018
     - about [First Avenue (place)](../../topics/place/first-avenue/index.md), [hologram](../../topics/hologram/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Minnesota State Fair](../../topics/minnesota-state-fair/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [State Fair](../../topics/state-fair/index.md), [Target Center (place)](../../topics/place/target-center/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/55a1b2a0cea44f2a97829aa08f8ad8c1))
+
+----
+
+ - [**"Prince tribute in Sacramento neighborhood drawing visitors from all over"**](https://www.sfgate.com/bayarea/article/Prince-tribute-tree-Sacramento-neighborhood-12829386.php)
+    - in [www.sfgate.com](../../publications/www-sfgate-com/index.md)
+    - on 12 April 2018
+    - about [Christine Stein](../../topics/christine-stein/index.md), [Citrus Heights (place)](../../topics/place/citrus-heights/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.sfgate.com/bayarea/article/Prince-tribute-tree-Sacramento-neighborhood-12829386.php))
 
 ----
 

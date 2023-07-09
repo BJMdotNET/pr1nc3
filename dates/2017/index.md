@@ -1,6 +1,6 @@
 # 2017
 
-## December 2017 (8)
+## December 2017 (9)
 
  - [**"Minnesota music scene’s best moments and 10 best albums in 2017"**](https://apnews.com/article/music-archive-minnesota-9d3750a2a4344a248e305eb73abfed69)
     - in [Associated Press News](../../publications/associated-press-news/index.md)
@@ -23,6 +23,14 @@
     - on 22 December 2017
     - about [contract](../../topics/contract/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Hennepin County (place)](../../topics/place/hennepin-county/index.md), [Obama](../../topics/obama/index.md), [separation](../../topics/separation/index.md), [Trump](../../topics/trump/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/80ae6c0e800c49ba95447bb986d2dd78))
+
+----
+
+ - [**"Pam the Funkstress, DJ for the Coup and Prince, dies of organ failure"**](https://www.sfchronicle.com/music/article/Pam-Warren-DJ-for-the-Coup-and-Prince-dies-of-12451852.php)
+    - in [San Francisco Chronicle](../../publications/san-francisco-chronicle/index.md)
+    - on 22 December 2017
+    - about [1015 Folsom (place)](../../topics/place/1015-folsom/index.md), [Bay Area (place)](../../topics/place/bay-area/index.md), [Pam the Funkstress](../../topics/pam-the-funkstress/index.md), [Pam Warren](../../topics/pam-warren/index.md), [Purple Pam](../../topics/purple-pam/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.sfchronicle.com/music/article/Pam-Warren-DJ-for-the-Coup-and-Prince-dies-of-12451852.php))
 
 ----
 
@@ -542,7 +550,7 @@
 
 ----
 
-## June 2017 (14)
+## June 2017 (15)
 
  - [**"Jay-Z calls Prince's handlers 'greedy bastards' in a fiery song on his '4:44' album"**](https://www.startribune.com/jay-z-calls-prince-s-handlers-greedy-bastards-in-a-fiery-song-on-his-new-album/431861023/)
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
@@ -617,6 +625,14 @@
     - in [Minneapolis Star Tribune](../../publications/minneapolis-star-tribune/index.md)
     - on 17 June 2017
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/revolution-keyboardist-shares-untold-stories-from-prince-s-soon-to-be-reissued-purple-rain/428738003/))
+
+----
+
+ - [**"The Revolution: A celebration of Prince, crowd noise be damned"**](https://www.sfchronicle.com/entertainment/music/article/The-Revolution-a-celebration-of-Prince-11224966.php)
+    - in [San Francisco Chronicle](../../publications/san-francisco-chronicle/index.md)
+    - on 16 June 2017
+    - about [Baby I'm a Star (song)](../../topics/song/baby-i-m-a-star/index.md), [Bobby Z](../../topics/bobby-z/index.md), [Brown Mark](../../topics/brown-mark/index.md), [Erotic City (song)](../../topics/song/erotic-city/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Mark Brown](../../topics/mark-brown/index.md), [Mountains (song)](../../topics/song/mountains/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Sometimes It Snows In April (song)](../../topics/song/sometimes-it-snows-in-april/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.sfchronicle.com/entertainment/music/article/The-Revolution-a-celebration-of-Prince-11224966.php))
 
 ----
 
@@ -1205,7 +1221,7 @@
 
 ----
 
-## March 2017 (17)
+## March 2017 (18)
 
  - [**"Paisley Park museum opens new room dedicated to Prince's 'Lovesexy'"**](https://www.startribune.com/paisley-park-museum-opens-new-room-dedicated-to-prince-s-lovesexy/417745653/)
     - by [Jon Bream](../../authors/jon-bream/index.md)
@@ -1345,6 +1361,14 @@
     - in [Minneapolis Star Tribune](../../publications/minneapolis-star-tribune/index.md)
     - on 10 March 2017
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-prot-xe9-g-xe9-e-liv-warfield-returns-to-minneapolis-to-perform-at-dakota/415818874/))
+
+----
+
+ - [**"Prince Wrote “Manic Monday” For The Bangles"**](https://medium.com/micro-chop/prince-wrote-manic-monday-for-the-bangles-30955dd0ce9d)
+    - in [medium.com](../../publications/medium-com/index.md)
+    - on 7 March 2017
+    - about [Apollonia](../../topics/apollonia/index.md), [Apollonia 6](../../topics/apollonia-6/index.md), [Bangles](../../topics/bangles/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Paul Grein](../../topics/paul-grein/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://medium.com/micro-chop/prince-wrote-manic-monday-for-the-bangles-30955dd0ce9d))
 
 ----
 

@@ -118,7 +118,7 @@
 
 ----
 
-## 2016 (12)
+## 2016 (13)
 
 ### 2016 December (1)
 
@@ -150,7 +150,7 @@
 
 ----
 
-### 2016 April (9)
+### 2016 April (10)
 
  - [**"A synthesizer of sounds, Prince ‘rewrote the rulebook’"**](https://apnews.com/c07d6a9a2752405fa8ed91e8d949806a)
     - in [Associated Press News](../../publications/associated-press-news/index.md)
@@ -198,6 +198,14 @@
     - on 22 April 2016
     - about [Carver County](../../topics/carver-county/index.md), [contract](../../topics/contract/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Obama](../../topics/obama/index.md), [Spotify](../../topics/spotify/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/debddfb333364e4091f0989c39458119))
+
+<br />
+
+ - [**"Celebrities react to death of music legend Prince"**](https://www.chron.com/entertainment/article/Celebrities-react-to-death-of-music-legend-Prince-7287746.php)
+    - in [The Houston Chronicle at Chron.com](../../publications/the-houston-chronicle-at-chron-com/index.md)
+    - on 21 April 2016
+    - about [Atlanta (place)](../../topics/place/atlanta/index.md), [Obama](../../topics/obama/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Spike Lee](../../topics/spike-lee/index.md), [Yvette Noel-Schure](../../topics/yvette-noel-schure/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.chron.com/entertainment/article/Celebrities-react-to-death-of-music-legend-Prince-7287746.php))
 
 <br />
 

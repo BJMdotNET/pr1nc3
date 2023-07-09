@@ -80,7 +80,7 @@
 
 ----
 
-## 2017 (1)
+## 2017 (2)
 
 ### 2017 November (1)
 
@@ -90,6 +90,16 @@
     - on 5 November 2017
     - about [1959 Gibson (instrument)](../../../topics/instrument/1959-gibson/index.md), [auction](../../../topics/auction/index.md), [contract](../../../topics/contract/index.md), [demo tape](../../../topics/demo-tape/index.md), [divorce](../../../topics/divorce/index.md), [engagement ring](../../../topics/engagement-ring/index.md), [Got a Broken Heart Again (song)](../../../topics/song/got-a-broken-heart-again/index.md), [Mayte](../../../topics/mayte/index.md), [Mayte Garcia](../../../topics/mayte-garcia/index.md), [Michael Kirk](../../../topics/michael-kirk/index.md), [Nate D. Sanders Auctions](../../../topics/nate-d-sanders-auctions/index.md), [Owen Husney](../../../topics/owen-husney/index.md), [Park Avenue United Methodist Church (place)](../../../topics/place/park-avenue-united-methodist-church/index.md), [Rave Un2 the Joy Fantastic (album)](../../../topics/album/rave-un2-the-joy-fantastic/index.md), [So Blue (song)](../../../topics/song/so-blue/index.md), [Sometimes It Snows In April (song)](../../../topics/song/sometimes-it-snows-in-april/index.md), [The Most Beautiful Girl In The World (song)](../../../topics/song/the-most-beautiful-girl-in-the-world/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/a37b4dffd41e4f0aa89ed41ee05e4185))
+
+----
+
+### 2017 June (1)
+
+ - [**"The Revolution: A celebration of Prince, crowd noise be damned"**](https://www.sfchronicle.com/entertainment/music/article/The-Revolution-a-celebration-of-Prince-11224966.php)
+    - in [San Francisco Chronicle](../../../publications/san-francisco-chronicle/index.md)
+    - on 16 June 2017
+    - about [Baby I'm a Star (song)](../../../topics/song/baby-i-m-a-star/index.md), [Bobby Z](../../../topics/bobby-z/index.md), [Brown Mark](../../../topics/brown-mark/index.md), [Erotic City (song)](../../../topics/song/erotic-city/index.md), [Lisa Coleman](../../../topics/lisa-coleman/index.md), [Mark Brown](../../../topics/mark-brown/index.md), [Mountains (song)](../../../topics/song/mountains/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Sometimes It Snows In April (song)](../../../topics/song/sometimes-it-snows-in-april/index.md), [The Revolution](../../../topics/the-revolution/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.sfchronicle.com/entertainment/music/article/The-Revolution-a-celebration-of-Prince-11224966.php))
 
 ----
 

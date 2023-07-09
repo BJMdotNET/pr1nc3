@@ -56,7 +56,7 @@
 
 ----
 
-## 2016 (5)
+## 2016 (6)
 
 ### 2016 November (2)
 
@@ -76,7 +76,7 @@
 
 ----
 
-### 2016 April (3)
+### 2016 April (4)
 
  - [**"A Prince on screen, from ‘Purple Rain’ to ‘Graffiti Bridge’"**](https://apnews.com/8082812e075544679812ad4cc742307f)
     - in [Associated Press News](../../../publications/associated-press-news/index.md)
@@ -91,6 +91,14 @@
     - on 21 April 2016
     - about [1999 (album)](../../../topics/album/1999/index.md), [Around The World In A Day (album)](../../../topics/album/around-the-world-in-a-day/index.md), [Batdance (song)](../../../topics/song/batdance/index.md), [Carver County](../../../topics/carver-county/index.md), [Chaos and Disorder (album)](../../../topics/album/chaos-and-disorder/index.md), [contract](../../../topics/contract/index.md), [For You (album)](../../../topics/album/for-you/index.md), [Grammy Award](../../../topics/grammy-award/index.md), [Michael Jackson](../../../topics/michael-jackson/index.md), [New Power Generation](../../../topics/new-power-generation/index.md), [Purple Rain (album)](../../../topics/album/purple-rain/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md), [The Revolution](../../../topics/the-revolution/index.md), [TMZ (website)](../../../topics/website/tmz/index.md), [vault](../../../topics/vault/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/7341522/prince-dead))
+
+<br />
+
+ - [**"Remembering Prince's alien and human forms"**](https://www.sfchronicle.com/entertainment/music/article/Remembering-Prince-s-alien-and-human-forms-7294013.php)
+    - in [San Francisco Chronicle](../../../publications/san-francisco-chronicle/index.md)
+    - on 21 April 2016
+    - about [Alicia Keys](../../../topics/alicia-keys/index.md), [Batdance (song)](../../../topics/song/batdance/index.md), [Compaq Center (place)](../../../topics/place/compaq-center/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Tamar Davis](../../../topics/tamar-davis/index.md), [The Arms of Orion (song)](../../../topics/song/the-arms-of-orion/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.sfchronicle.com/entertainment/music/article/Remembering-Prince-s-alien-and-human-forms-7294013.php))
 
 <br />
 

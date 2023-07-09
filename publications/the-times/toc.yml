@@ -2,3 +2,6 @@ items:
 - name: 2019
   href: the-times-2019.md
   homepage: the-times-2019.md
+- name: 2023
+  href: the-times-2023.md
+  homepage: the-times-2023.md

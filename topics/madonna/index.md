@@ -102,15 +102,23 @@
 
 ----
 
-## 2016 (1)
+## 2016 (2)
 
-### 2016 April (1)
+### 2016 April (2)
 
  - [**"Prince "might be two or three of the greats""**](https://www.cbsnews.com/news/prince-dead-might-be-two-or-three-of-the-greats/)
     - in [CBS News](../../publications/cbs-news/index.md)
     - on 21 April 2016
     - about [James Brown](../../topics/james-brown/index.md), [Little Richard](../../topics/little-richard/index.md), [Madonna](../../topics/madonna/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/news/prince-dead-might-be-two-or-three-of-the-greats/))
+
+<br />
+
+ - [**"Prince was a star known for his beautiful protégés"**](https://www.sfchronicle.com/entertainment/article/Prince-was-a-star-known-for-his-beautiful-7295987.php)
+    - in [San Francisco Chronicle](../../publications/san-francisco-chronicle/index.md)
+    - on 21 April 2016
+    - about [Carmen Electra](../../topics/carmen-electra/index.md), [Madonna](../../topics/madonna/index.md), [Sheena Easton](../../topics/sheena-easton/index.md), [Sheila E.](../../topics/sheila-e/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.sfchronicle.com/entertainment/article/Prince-was-a-star-known-for-his-beautiful-7295987.php))
 
 ----
 

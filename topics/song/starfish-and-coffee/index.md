@@ -48,7 +48,7 @@
 
 ----
 
-## 2016 (2)
+## 2016 (3)
 
 ### 2016 June (1)
 
@@ -60,7 +60,15 @@
 
 ----
 
-### 2016 April (1)
+### 2016 April (2)
+
+ - [**"My family's affair with Prince"**](https://www.sfchronicle.com/entertainment/music/article/My-family-s-affair-with-Prince-7293263.php)
+    - in [San Francisco Chronicle](../../../publications/san-francisco-chronicle/index.md)
+    - on 21 April 2016
+    - about [Starfish And Coffee (song)](../../../topics/song/starfish-and-coffee/index.md), [While My Guitar Gently Weeps (song)](../../../topics/song/while-my-guitar-gently-weeps/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.sfchronicle.com/entertainment/music/article/My-family-s-affair-with-Prince-7293263.php))
+
+<br />
 
  - [**"Susan Rogers Interview -- Classic Album Sundays"**](https://classicalbumsundays.com/susan-rogers-interview/)
     - in [Classic Album Sundays](../../../publications/classic-album-sundays/index.md)

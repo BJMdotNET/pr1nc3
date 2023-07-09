@@ -1,6 +1,15 @@
 # 2023
 
-## July 2023 (17)
+## July 2023 (20)
+
+ - [**"Move over, Taylor Swift: This is the hottest ticket in Bay Area concert history"**](https://www.sfchronicle.com/oursf/article/prince-bay-area-show-18189287.php)
+    - by [Peter Hartlaub](../../authors/peter-hartlaub/index.md)
+    - in [San Francisco Chronicle](../../publications/san-francisco-chronicle/index.md)
+    - on 8 July 2023
+    - about [Bay Area (place)](../../topics/place/bay-area/index.md), [Bill Graham](../../topics/bill-graham/index.md), [California (place)](../../topics/place/california/index.md), [Cow Palace (place)](../../topics/place/cow-palace/index.md), [Daly City (place)](../../topics/place/daly-city/index.md), [Four Seasons Clift (place)](../../topics/place/four-seasons-clift/index.md), [Fred Larson](../../topics/fred-larson/index.md), [Herb Caen](../../topics/herb-caen/index.md), [Joel Selvin](../../topics/joel-selvin/index.md), [Mark Z. Barabak](../../topics/mark-z-barabak/index.md), [Purple Rain (tour)](../../topics/tour/purple-rain/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Stone (place)](../../topics/place/the-stone/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.sfchronicle.com/oursf/article/prince-bay-area-show-18189287.php))
+
+----
 
  - [**"Prince fans share their excitement for new songs released from Paisley Park vault"**](https://www.cbsnews.com/minnesota/news/prince-fans-share-their-excitement-for-new-songs-releases-from-paisley-park-vault/)
     - by [Reg Chapman](../../authors/reg-chapman/index.md)
@@ -97,6 +106,22 @@
 
 ----
 
+ - [**"Singer Susanna Hoffs on her debut romance novel, The Bangles and a cassette from Prince"**](https://www.cbsnews.com/video/singer-susanna-hoffs-on-her-debut-romance-novel-the-bangles-and-a-cassette-from-prince/)
+    - in [CBS News](../../publications/cbs-news/index.md)
+    - on 7 July 2023
+    - about [Bangles](../../topics/bangles/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/video/singer-susanna-hoffs-on-her-debut-romance-novel-the-bangles-and-a-cassette-from-prince/))
+
+----
+
+ - [**"Singer Susanna Hoffs on her debut romance novel, The Bangles and a cassette from Prince -- CBS Mornings"**](https://www.youtube.com/watch?v=O5XhmGL5Dto)
+    - in [YouTube](../../publications/youtube/index.md)
+    - on 7 July 2023
+    - about [Bangles](../../topics/bangles/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.youtube.com/watch?v=O5XhmGL5Dto))
+
+----
+
  - [**"Taylor Swift’s Revised ‘Revenge,’ and 10 More New Songs -- Hear tracks by Prince, Rauw Alejandro, First Aid Kit and others."**](https://www.nytimes.com/2023/07/07/arts/music/playlist-taylor-swift-speak-now-better-than-revenge.html)
     - by [Jon Pareles](../../authors/jon-pareles/index.md)
     - in [New York Times](../../publications/new-york-times/index.md)
@@ -150,7 +175,7 @@
 
 ----
 
-## June 2023 (17)
+## June 2023 (18)
 
  - [**"The influence of Black music: How 'Flyte Tyme' changed the world from a recording studio"**](https://www.mprnews.org/story/2023/06/29/the-influence-of-black-music-how-flyte-tyme-changed-the-world-from-a-booth-in-edina)
     - by [Jae Bryson](../../authors/jae-bryson/index.md)
@@ -249,6 +274,14 @@
 
 ----
 
+ - [**"Susanna Hoffs on Prince, naked writing and her debut novel -- David Barnett chats to the Bangles lead singer about her new book – which happens to be brilliant"**](https://www.tortoisemedia.com/2023/06/09/why-dont-you-write-that-novel-youve-always-wanted-to-write/)
+    - in [www.tortoisemedia.com](../../publications/www-tortoisemedia-com/index.md)
+    - on 9 June 2023
+    - about [Bangles](../../topics/bangles/index.md), [Los Angeles (place)](../../topics/place/los-angeles/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.tortoisemedia.com/2023/06/09/why-dont-you-write-that-novel-youve-always-wanted-to-write/))
+
+----
+
  - [**"Why did Prince decide to live in Chanhassen? -- The Minneapolis native's legacy will forever be linked to his state-of-the-art suburban playground, Paisley Park."**](https://www.startribune.com/prince-minneapolis-chanhassen-paisley-park-andre-cymone-morris-day-bobby-z/600281369/)
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/minneapolis-star-tribune/index.md)
@@ -300,7 +333,15 @@
 
 ----
 
-## May 2023 (10)
+## May 2023 (12)
+
+ - [**"Exclusive: Bangles' classic Eternal Flame originally REJECTED by band leaving songwriter 'bereft' -- Susanna Hoff, one of the co-founders of The Bangles, recalled her bandmates didn't want the iconic love song on their third album back in the 1980s , leaving her devastated"**](https://www.mirror.co.uk/3am/celebrity-news/bangles-classic-eternal-flame-originally-30038013)
+    - in [www.mirror.co.uk](../../publications/www-mirror-co-uk/index.md)
+    - on 21 May 2023
+    - about [Bangles](../../topics/bangles/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.mirror.co.uk/3am/celebrity-news/bangles-classic-eternal-flame-originally-30038013))
+
+----
 
  - [**"In Historic Decision, Supreme Court Rules Andy Warhol’s Images of Prince Violated Photographer’s Copyright"**](https://variety.com/2023/music/news/andy-warhol-prince-images-supreme-court-copyright-1235617622/)
     - by [Jem Aswad](../../authors/jem-aswad/index.md)
@@ -389,7 +430,88 @@
 
 ----
 
-## March 2023 (1)
+ - [**"So who’s better, Mel Brooks or Woody Allen? Michael Jackson or Prince?"**](https://datebook.sfchronicle.com/movies-tv/woody-allen-prince-bow-robbie-preston-sturges-17914101)
+    - in [Datebook - San Francisco Arts & Entertainment Guide](../../publications/datebook-san-francisco-arts-entertainment-guide/index.md)
+    - on 1 May 2023
+    - ([mirror](https://web.archive.org/web/*/https://datebook.sfchronicle.com/movies-tv/woody-allen-prince-bow-robbie-preston-sturges-17914101))
+
+----
+
+## April 2023 (7)
+
+ - [**"Susanna Hoffs talks working with 'superhero' Prince and THAT Rock Hall performance -- Our latest guest on Tim's Listening Party "**](https://planetradio.co.uk/absolute-radio/music/news/susanna-hoffs-prince/)
+    - in [planetradio.co.uk](../../publications/planetradio-co-uk/index.md)
+    - on 24 April 2023
+    - about [Bangles](../../topics/bangles/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [Tom Petty](../../topics/tom-petty/index.md), [While My Guitar Gently Weeps (song)](../../topics/song/while-my-guitar-gently-weeps/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://planetradio.co.uk/absolute-radio/music/news/susanna-hoffs-prince/))
+
+----
+
+ - [**"Tim's Listening Party: The Bangles"**](https://planetradio.co.uk/podcasts/tims-listening-party/listen/2149590/)
+    - in [planetradio.co.uk](../../publications/planetradio-co-uk/index.md)
+    - on 23 April 2023
+    - about [Bangles](../../topics/bangles/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://planetradio.co.uk/podcasts/tims-listening-party/listen/2149590/))
+
+----
+
+ - [**"Susanna Hoffs: ‘Recording Eternal Flame nude was a funny dare’ -- The Bangles star talks to Ed Potton about publishing her first novel, being mentored by Prince — and how she was tricked into singing the band’s biggest hit naked"**](https://www.thetimes.co.uk/article/susanna-hoffs-the-bangles-interview-this-bird-has-flown-pg7x6pkdj)
+    - in [The Times](../../publications/the-times/index.md)
+    - on 15 April 2023
+    - about [Bangles](../../topics/bangles/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [Tom Petty](../../topics/tom-petty/index.md), [While My Guitar Gently Weeps (song)](../../topics/song/while-my-guitar-gently-weeps/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.thetimes.co.uk/article/susanna-hoffs-the-bangles-interview-this-bird-has-flown-pg7x6pkdj))
+
+----
+
+ - [**"Bangles cofounder Susanna Hoffs infused her debut novel with her love of music -- NPR's Andrew Limbong speaks with the Bangles cofounder Susanna Hoffs on her debut novel This Bird Has Flown and how she used her music career to create her main character, singer Jane Start."**](https://www.npr.org/2023/04/13/1169808268/bangles-cofounder-susanna-hoffs-infused-her-debut-novel-with-her-love-of-music)
+    - in [National Public Radio](../../publications/national-public-radio/index.md)
+    - on 13 April 2023
+    - about [Bangles](../../topics/bangles/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.npr.org/2023/04/13/1169808268/bangles-cofounder-susanna-hoffs-infused-her-debut-novel-with-her-love-of-music))
+
+----
+
+ - [**"At 64, Bangles singer Susanna Hoffs has a new book—and looks amazing "**](https://nypost.com/2023/04/08/bangles-singer-susanna-hoffs-reveals-how-her-past-inspired-novel/)
+    - in [New York Post](../../publications/new-york-post/index.md)
+    - on 8 April 2023
+    - about [Bangles](../../topics/bangles/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Rock & Roll Hall of Fame (place)](../../topics/place/rock-roll-hall-of-fame/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [Tom Petty](../../topics/tom-petty/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://nypost.com/2023/04/08/bangles-singer-susanna-hoffs-reveals-how-her-past-inspired-novel/))
+
+----
+
+ - [**"15 Minutes with Susanna Hoffs -- Lead singer of The Bangles talks to LAMag about her debut novel “This Bird Has Flown,” the legacy of the band, and the dark underbelly of L.A."**](https://www.lamag.com/culturefiles/15-minutes-with-susanna-hoffs/)
+    - in [www.lamag.com](../../publications/www-lamag-com/index.md)
+    - on 7 April 2023
+    - about [Bangles](../../topics/bangles/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.lamag.com/culturefiles/15-minutes-with-susanna-hoffs/))
+
+----
+
+ - [**"Susanna Hoffs: When I met Prince I felt like Cinderella. It was a cute little moment"**](https://www.sundaypost.com/fp/susanna-hoffs-interview/)
+    - in [www.sundaypost.com](../../publications/www-sundaypost-com/index.md)
+    - on 5 April 2023
+    - about [Bangles](../../topics/bangles/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.sundaypost.com/fp/susanna-hoffs-interview/))
+
+----
+
+## March 2023 (3)
+
+ - [**"Susanna Hoffs Proves It's Never Too Late to Fulfill a Lifelong Dream -- The singer/songwriter from The Bangles discusses the writing of her debut novel, 'This Bird Has Flown,' and shares musical memories of Prince and Burt Bacharach"**](https://www.nextavenue.org/susanna-hoffs-proves-its-never-too-late/)
+    - in [www.nextavenue.org](../../publications/www-nextavenue-org/index.md)
+    - on 28 March 2023
+    - about [Bangles](../../topics/bangles/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.nextavenue.org/susanna-hoffs-proves-its-never-too-late/))
+
+----
+
+ - [**"Prince’s Attempt To Win The Heart Of The Bangles’ Susanna Hoffs"**](https://rockcelebrities.net/princes-attempt-to-win-the-heart-of-the-bangles-susanna-hoffs/)
+    - in [rockcelebrities.net](../../publications/rockcelebrities-net/index.md)
+    - on 12 March 2023
+    - about [Apollonia](../../topics/apollonia/index.md), [Apollonia 6](../../topics/apollonia-6/index.md), [Bangles](../../topics/bangles/index.md), [Christopher](../../topics/christopher/index.md), [Los Angeles Times (newspaper)](../../topics/newspaper/los-angeles-times/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Patricia Kotero](../../topics/patricia-kotero/index.md), [Robert Hilburn](../../topics/robert-hilburn/index.md), [Rolling Stone (magazine)](../../topics/magazine/rolling-stone/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://rockcelebrities.net/princes-attempt-to-win-the-heart-of-the-bangles-susanna-hoffs/))
+
+----
 
  - [**"Donatella Versace Remembers Late Brother Gianni, Friendship  With Prince and a Supermodel Catfight"**](https://variety.com/2023/scene/news/donatella-versace-gianni-prince-1235544576/)
     - by [Marc Malkin](../../authors/marc-malkin/index.md)
@@ -400,7 +522,15 @@
 
 ----
 
-## February 2023 (1)
+## February 2023 (2)
+
+ - [**"Why did Prince give away 'Manic Monday'?"**](https://faroutmagazine.co.uk/why-prince-give-away-manic-monday/)
+    - in [Far Out Magazine](../../publications/far-out-magazine/index.md)
+    - on 16 February 2023
+    - about [Bangles](../../topics/bangles/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://faroutmagazine.co.uk/why-prince-give-away-manic-monday/))
+
+----
 
  - [**"Shania Twain Recalls How She Missed Out on the Chance to Collaborate With Prince -- "I didn't give up on it or anything, but then he died," the country queen said."**](https://www.billboard.com/music/music-news/shania-twain-prince-collaboration-missed-out-1235209511/)
     - by [Glenn Rowley](../../authors/glenn-rowley/index.md)
@@ -408,6 +538,16 @@
     - on 1 February 2023
     - about [Apple Music](../../topics/apple-music/index.md), [divorce](../../topics/divorce/index.md), [Fleetwood Mac](../../topics/fleetwood-mac/index.md), [Grammy Award](../../topics/grammy-award/index.md), [Paisley Park Studios (place)](../../topics/place/paisley-park-studios/index.md), [Shania Twain](../../topics/shania-twain/index.md), [Zane Lowe](../../topics/zane-lowe/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/music/music-news/shania-twain-prince-collaboration-missed-out-1235209511/))
+
+----
+
+## January 2023 (1)
+
+ - [**"Prince's original version of "Manic Monday," unheard until recently (video)"**](https://boingboing.net/2023/01/23/princes-original-version-of-manic-monday-unheard-until-recently-video.html)
+    - in [boingboing.net](../../publications/boingboing-net/index.md)
+    - on 23 January 2023
+    - about [Bangles](../../topics/bangles/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://boingboing.net/2023/01/23/princes-original-version-of-manic-monday-unheard-until-recently-video.html))
 
 ----
 

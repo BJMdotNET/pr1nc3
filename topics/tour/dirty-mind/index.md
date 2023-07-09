@@ -12,15 +12,23 @@
 
 ----
 
-## 2016 (1)
+## 2016 (2)
 
-### 2016 April (1)
+### 2016 April (2)
 
  - [**"‘I’m Going to Personify Sex in Every Way’: Prince’s Defining ‘Dirty Mind’ Album -- A refusal to be labeled R&B, a rivalry with Rick James and a very dirty song called 'Head': the groundbreaking arrival of 1980's 'Dirty Mind.'"**](https://www.billboard.com/music/features/prince-dirty-mind-retrospective-7348526/)
     - in [Billboard](../../../publications/billboard/index.md)
     - on 28 April 2016
     - about [American Bandstand](../../../topics/american-bandstand/index.md), [André Cymone](../../../topics/andr-cymone/index.md), [Andy Warhol](../../../topics/andy-warhol/index.md), [Bobby Z](../../../topics/bobby-z/index.md), [Denver (place)](../../../topics/place/denver/index.md), [Detroit (place)](../../../topics/place/detroit/index.md), [Dez Dickerson](../../../topics/dez-dickerson/index.md), [Dick Clark](../../../topics/dick-clark/index.md), [Dirty Mind (album)](../../../topics/album/dirty-mind/index.md), [Dirty Mind (tour)](../../../topics/tour/dirty-mind/index.md), [Gayle Chapman](../../../topics/gayle-chapman/index.md), [Head (song)](../../../topics/song/head/index.md), [I Wanna Be Your Lover (song)](../../../topics/song/i-wanna-be-your-lover/index.md), [Ken Tucker](../../../topics/ken-tucker/index.md), [Lake Minnetonka (place)](../../../topics/place/lake-minnetonka/index.md), [Lenny Waronker](../../../topics/lenny-waronker/index.md), [Lisa Coleman](../../../topics/lisa-coleman/index.md), [Los Angeles (place)](../../../topics/place/los-angeles/index.md), [memoir](../../../topics/memoir/index.md), [Mo Ostin](../../../topics/mo-ostin/index.md), [Rick James](../../../topics/rick-james/index.md), [Rolling Stone (magazine)](../../../topics/magazine/rolling-stone/index.md), [Roxy (place)](../../../topics/place/roxy/index.md), [Russ Thyret](../../../topics/russ-thyret/index.md), [Sam’s (place)](../../../topics/place/sam-s/index.md), [Steve Fargnoli](../../../topics/steve-fargnoli/index.md), [Stevie Wonder](../../../topics/stevie-wonder/index.md), [Ted Cohen](../../../topics/ted-cohen/index.md), [The Rainbow (place)](../../../topics/place/the-rainbow/index.md), [The Ritz (place)](../../../topics/place/the-ritz/index.md), [The Village Voice (magazine)](../../../topics/magazine/the-village-voice/index.md), [Twin Cities (place)](../../../topics/place/twin-cities/index.md), [Wayzata (place)](../../../topics/place/wayzata/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/music/features/prince-dirty-mind-retrospective-7348526/))
+
+<br />
+
+ - [**"Fans recall when Prince came to play"**](https://www.sfchronicle.com/news/local/article/Fans-recall-when-Prince-came-to-play-7295039.php)
+    - in [San Francisco Chronicle](../../../publications/san-francisco-chronicle/index.md)
+    - on 21 April 2016
+    - about [Alamodome (place)](../../../topics/place/alamodome/index.md), [Austin Highway (place)](../../../topics/place/austin-highway/index.md), [Dan Goddard](../../../topics/dan-goddard/index.md), [Dave Marsh](../../../topics/dave-marsh/index.md), [Dirty Mind (tour)](../../../topics/tour/dirty-mind/index.md), [Frank Erwin Center (place)](../../../topics/place/frank-erwin-center/index.md), [HemisFair Arena (place)](../../../topics/place/hemisfair-arena/index.md), [Hollywood Cafe (place)](../../../topics/place/hollywood-cafe/index.md), [Majestic Theatre (place)](../../../topics/place/majestic-theatre/index.md), [Mark Arias](../../../topics/mark-arias/index.md), [Purple Rain (tour)](../../../topics/tour/purple-rain/index.md), [Rocky’s nightclub (place)](../../../topics/place/rocky-s-nightclub/index.md), [Ron Young](../../../topics/ron-young/index.md), [SBC Center (place)](../../../topics/place/sbc-center/index.md), [Yvette Noel-Schure](../../../topics/yvette-noel-schure/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.sfchronicle.com/news/local/article/Fans-recall-when-Prince-came-to-play-7295039.php))
 
 ----
 

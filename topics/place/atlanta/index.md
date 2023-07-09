@@ -192,7 +192,7 @@
 
 ----
 
-## 2016 (20)
+## 2016 (23)
 
 ### 2016 October (1)
 
@@ -275,7 +275,7 @@
 
 ----
 
-### 2016 April (11)
+### 2016 April (14)
 
  - [**"APNewsBreak: Investigators look at overdose in Prince death"**](https://www.startribune.com/apnewsbreak-investigators-look-at-overdose-in-prince-death/377540691/)
     - by [Amy Forliti (Associated Press)](../../../authors/associated-press/amy-forliti/index.md)
@@ -359,11 +359,35 @@
 
 <br />
 
+ - [**"Celebrities react to death of music legend Prince"**](https://www.chron.com/entertainment/article/Celebrities-react-to-death-of-music-legend-Prince-7287746.php)
+    - in [The Houston Chronicle at Chron.com](../../../publications/the-houston-chronicle-at-chron-com/index.md)
+    - on 21 April 2016
+    - about [Atlanta (place)](../../../topics/place/atlanta/index.md), [Obama](../../../topics/obama/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Spike Lee](../../../topics/spike-lee/index.md), [Yvette Noel-Schure](../../../topics/yvette-noel-schure/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.chron.com/entertainment/article/Celebrities-react-to-death-of-music-legend-Prince-7287746.php))
+
+<br />
+
+ - [**"Pop superstar Prince dead at 57"**](https://www.chron.com/entertainment/celebrities/article/Reports-Prince-dead-at-57-7287598.php)
+    - in [The Houston Chronicle at Chron.com](../../../publications/the-houston-chronicle-at-chron-com/index.md)
+    - on 21 April 2016
+    - about [Atlanta (place)](../../../topics/place/atlanta/index.md), [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Eden Prairie (place)](../../../topics/place/eden-prairie/index.md), [Judith Hill](../../../topics/judith-hill/index.md), [memoir](../../../topics/memoir/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Piano and a Microphone (tour)](../../../topics/tour/piano-and-a-microphone/index.md), [Spiegel & Grau](../../../topics/spiegel-grau/index.md), [Yvette Noel-Schure](../../../topics/yvette-noel-schure/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.chron.com/entertainment/celebrities/article/Reports-Prince-dead-at-57-7287598.php))
+
+<br />
+
  - [**"Prince dead at Paisley Park estate in Minnesota"**](http://www.fox9.com/news/emergency-medical-response-at-paisley-park)
     - in [Fox 9](../../../publications/fox-9/index.md)
     - on 21 April 2016
     - about [Atlanta (place)](../../../topics/place/atlanta/index.md), [Carver County](../../../topics/carver-county/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Illinois (place)](../../../topics/place/illinois/index.md), [Jim Olson](../../../topics/jim-olson/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Minnesota Twins](../../../topics/minnesota-twins/index.md), [Moline, Illinois (place)](../../../topics/place/moline-illinois/index.md), [Obama](../../../topics/obama/index.md), [Paisley Park Studios (place)](../../../topics/place/paisley-park-studios/index.md), [Super Bowl](../../../topics/super-bowl/index.md), [Super Bowl XLI (event)](../../../topics/event/super-bowl-xli/index.md), [TMZ (website)](../../../topics/website/tmz/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/http://www.fox9.com/news/emergency-medical-response-at-paisley-park))
+
+<br />
+
+ - [**"Prince, musical and social trailblazer, dies at 57"**](https://www.sfchronicle.com/music/article/Prince-musical-and-social-trailblazer-dies-at-57-7287717.php)
+    - in [San Francisco Chronicle](../../../publications/san-francisco-chronicle/index.md)
+    - on 21 April 2016
+    - about [Atlanta (place)](../../../topics/place/atlanta/index.md), [Bay Area (place)](../../../topics/place/bay-area/index.md), [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [John Lewis Nelson](../../../topics/john-lewis-nelson/index.md), [Piano and a Microphone (tour)](../../../topics/tour/piano-and-a-microphone/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md), [Yvette Noel-Schure](../../../topics/yvette-noel-schure/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.sfchronicle.com/music/article/Prince-musical-and-social-trailblazer-dies-at-57-7287717.php))
 
 ----
 

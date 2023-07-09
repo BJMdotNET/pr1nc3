@@ -11,4 +11,14 @@
 
 ----
 
+## February 2023 (1)
+
+ - [**"Why did Prince give away 'Manic Monday'?"**](https://faroutmagazine.co.uk/why-prince-give-away-manic-monday/)
+    - in [Far Out Magazine](../../publications/far-out-magazine/index.md)
+    - on 16 February 2023
+    - about [Bangles](../../topics/bangles/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://faroutmagazine.co.uk/why-prince-give-away-manic-monday/))
+
+----
+
 [Home](../index.md)

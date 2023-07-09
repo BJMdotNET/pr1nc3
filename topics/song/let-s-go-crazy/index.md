@@ -13,7 +13,17 @@
 
 ----
 
-## 2022 (2)
+## 2022 (3)
+
+### 2022 November (1)
+
+ - [**"Review: 2 fanboys send a kiss to Prince, music’s most prolific and mysterious artist"**](https://datebook.sfchronicle.com/books/review-2-fanboys-send-a-kiss-to-prince-musics-most-prolific-and-mysterious-artist)
+    - in [Datebook - San Francisco Arts & Entertainment Guide](../../../publications/datebook-san-francisco-arts-entertainment-guide/index.md)
+    - on 7 November 2022
+    - about [Charles Dickens](../../../topics/charles-dickens/index.md), [Dickens and Prince (book)](../../../topics/book/dickens-and-prince/index.md), [Dickens and Prince: A Particular Kind of Genius (book)](../../../topics/book/dickens-and-prince-a-particular-kind-of-genius/index.md), [Hilton Als](../../../topics/hilton-als/index.md), [Jehovah’s Witness](../../../topics/jehovah-s-witness/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [memoir](../../../topics/memoir/index.md), [My Pinup: A Paean to Prince (book)](../../../topics/book/my-pinup-a-paean-to-prince/index.md), [Nick Hornby](../../../topics/nick-hornby/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://datebook.sfchronicle.com/books/review-2-fanboys-send-a-kiss-to-prince-musics-most-prolific-and-mysterious-artist))
+
+----
 
 ### 2022 May (2)
 
@@ -616,7 +626,7 @@
  - [**"‘Purple Rain’ at 30: Why It’s the Musical That Defined the ’80s"**](https://variety.com/2014/music/news/purple-rain-30th-anniversary-tribute-1201269036/)
     - in [Variety](../../../publications/variety/index.md)
     - on 26 July 2014
-    - about [Albert Magnoli](../../../topics/albert-magnoli/index.md), [Apollonia](../../../topics/apollonia/index.md), [Apollonia Kotero](../../../topics/apollonia-kotero/index.md), [Darling Nikki (song)](../../../topics/song/darling-nikki/index.md), [Detroit (place)](../../../topics/place/detroit/index.md), [Detroit, Michigan (place)](../../../topics/place/detroit-michigan/index.md), [Ghostbusters (movie)](../../../topics/movie/ghostbusters/index.md), [Graffiti Bridge (movie)](../../../topics/movie/graffiti-bridge/index.md), [Ingrid Chavez](../../../topics/ingrid-chavez/index.md), [Jungle Love (song)](../../../topics/song/jungle-love/index.md), [Kevin Smith](../../../topics/kevin-smith/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Los Angeles (place)](../../../topics/place/los-angeles/index.md), [Morris Day](../../../topics/morris-day/index.md), [motorcycle](../../../topics/motorcycle/index.md), [Purple Rain (album)](../../../topics/album/purple-rain/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Purple Rain (tour)](../../../topics/tour/purple-rain/index.md), [Under the Cherry Moon (movie)](../../../topics/movie/under-the-cherry-moon/index.md)
+    - about [Albert Magnoli](../../../topics/albert-magnoli/index.md), [Apollonia](../../../topics/apollonia/index.md), [Apollonia Kotero](../../../topics/apollonia-kotero/index.md), [Darling Nikki (song)](../../../topics/song/darling-nikki/index.md), [Detroit (place)](../../../topics/place/detroit/index.md), [Detroit, Michigan (place)](../../../topics/place/detroit-michigan/index.md), [Ghostbusters (movie)](../../../topics/movie/ghostbusters/index.md), [Graffiti Bridge (movie)](../../../topics/movie/graffiti-bridge/index.md), [Ingrid Chavez](../../../topics/ingrid-chavez/index.md), [Jungle Love (song)](../../../topics/song/jungle-love/index.md), [Kevin Smith](../../../topics/kevin-smith/index.md), [Kristin Scott Thomas](../../../topics/kristin-scott-thomas/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Los Angeles (place)](../../../topics/place/los-angeles/index.md), [Morris Day](../../../topics/morris-day/index.md), [motorcycle](../../../topics/motorcycle/index.md), [Purple Rain (album)](../../../topics/album/purple-rain/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Purple Rain (tour)](../../../topics/tour/purple-rain/index.md), [Under the Cherry Moon (movie)](../../../topics/movie/under-the-cherry-moon/index.md)
     - ([mirror](https://web.archive.org/web/*/https://variety.com/2014/music/news/purple-rain-30th-anniversary-tribute-1201269036/))
 
 <br />

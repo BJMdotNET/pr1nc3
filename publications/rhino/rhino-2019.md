@@ -45,7 +45,7 @@
  - [**"Single Stories: Prince, “Manic Monday”"**](https://www.rhino.com/article/single-stories-prince-manic-monday)
     - in [Rhino](../../publications/rhino/index.md)
     - on 24 June 2019
-    - about [Apollonia 6](../../topics/apollonia-6/index.md), [Bangles](../../topics/bangles/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md)
+    - about [Apollonia 6](../../topics/apollonia-6/index.md), [Bangles](../../topics/bangles/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.rhino.com/article/single-stories-prince-manic-monday))
 
 ----

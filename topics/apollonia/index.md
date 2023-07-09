@@ -1,5 +1,29 @@
 # Apollonia
 
+## 2023 (1)
+
+### 2023 March (1)
+
+ - [**"Prince’s Attempt To Win The Heart Of The Bangles’ Susanna Hoffs"**](https://rockcelebrities.net/princes-attempt-to-win-the-heart-of-the-bangles-susanna-hoffs/)
+    - in [rockcelebrities.net](../../publications/rockcelebrities-net/index.md)
+    - on 12 March 2023
+    - about [Apollonia](../../topics/apollonia/index.md), [Apollonia 6](../../topics/apollonia-6/index.md), [Bangles](../../topics/bangles/index.md), [Christopher](../../topics/christopher/index.md), [Los Angeles Times (newspaper)](../../topics/newspaper/los-angeles-times/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Patricia Kotero](../../topics/patricia-kotero/index.md), [Robert Hilburn](../../topics/robert-hilburn/index.md), [Rolling Stone (magazine)](../../topics/magazine/rolling-stone/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://rockcelebrities.net/princes-attempt-to-win-the-heart-of-the-bangles-susanna-hoffs/))
+
+----
+
+## 2022 (1)
+
+### 2022 December (1)
+
+ - [**"Prince Gave The Bangles ‘Manic Monday’ But He Originally Wrote It For Another Group -- Prince gave The Bangles "Manic Monday" even though he initially intended the song for a group connected to his movie 'Purple Rain.'"**](https://www.cheatsheet.com/entertainment/prince-gave-the-bangles-manic-monday-originally-wrote-another-group.html/)
+    - in [www.cheatsheet.com](../../publications/www-cheatsheet-com/index.md)
+    - on 2 December 2022
+    - about [Apollonia](../../topics/apollonia/index.md), [Apollonia 6](../../topics/apollonia-6/index.md), [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Bangles](../../topics/bangles/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.cheatsheet.com/entertainment/prince-gave-the-bangles-manic-monday-originally-wrote-another-group.html/))
+
+----
+
 ## 2021 (2)
 
 ### 2021 June (1)
@@ -65,6 +89,18 @@
 
 ----
 
+## 2017 (1)
+
+### 2017 March (1)
+
+ - [**"Prince Wrote “Manic Monday” For The Bangles"**](https://medium.com/micro-chop/prince-wrote-manic-monday-for-the-bangles-30955dd0ce9d)
+    - in [medium.com](../../publications/medium-com/index.md)
+    - on 7 March 2017
+    - about [Apollonia](../../topics/apollonia/index.md), [Apollonia 6](../../topics/apollonia-6/index.md), [Bangles](../../topics/bangles/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Paul Grein](../../topics/paul-grein/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://medium.com/micro-chop/prince-wrote-manic-monday-for-the-bangles-30955dd0ce9d))
+
+----
+
 ## 2016 (2)
 
 ### 2016 May (1)
@@ -87,6 +123,19 @@
 
 ----
 
+## 2015 (1)
+
+### 2015 January (1)
+
+ - [**"30 years ago: Prince holds court at the Summit"**](https://www.sfchronicle.com/local/bayou-city-history/article/30-years-ago-Prince-holds-court-at-the-Summit-6000026.php)
+    - by [J.R. Gonzales](../../authors/j-r-gonzales/index.md)
+    - in [San Francisco Chronicle](../../publications/san-francisco-chronicle/index.md)
+    - on 9 January 2015
+    - about [Apollonia](../../topics/apollonia/index.md), [Apollonia 6](../../topics/apollonia-6/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [Delirious (song)](../../topics/song/delirious/index.md), [I Would Die 4 U (song)](../../topics/song/i-would-die-4-u/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Prince and The Revolution](../../topics/prince-and-the-revolution/index.md), [Purple Rain (tour)](../../topics/tour/purple-rain/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Revolution](../../topics/the-revolution/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.sfchronicle.com/local/bayou-city-history/article/30-years-ago-Prince-holds-court-at-the-Summit-6000026.php))
+
+----
+
 ## 2014 (1)
 
 ### 2014 July (1)
@@ -94,7 +143,7 @@
  - [**"‘Purple Rain’ at 30: Why It’s the Musical That Defined the ’80s"**](https://variety.com/2014/music/news/purple-rain-30th-anniversary-tribute-1201269036/)
     - in [Variety](../../publications/variety/index.md)
     - on 26 July 2014
-    - about [Albert Magnoli](../../topics/albert-magnoli/index.md), [Apollonia](../../topics/apollonia/index.md), [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [Detroit (place)](../../topics/place/detroit/index.md), [Detroit, Michigan (place)](../../topics/place/detroit-michigan/index.md), [Ghostbusters (movie)](../../topics/movie/ghostbusters/index.md), [Graffiti Bridge (movie)](../../topics/movie/graffiti-bridge/index.md), [Ingrid Chavez](../../topics/ingrid-chavez/index.md), [Jungle Love (song)](../../topics/song/jungle-love/index.md), [Kevin Smith](../../topics/kevin-smith/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Los Angeles (place)](../../topics/place/los-angeles/index.md), [Morris Day](../../topics/morris-day/index.md), [motorcycle](../../topics/motorcycle/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Purple Rain (tour)](../../topics/tour/purple-rain/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md)
+    - about [Albert Magnoli](../../topics/albert-magnoli/index.md), [Apollonia](../../topics/apollonia/index.md), [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [Detroit (place)](../../topics/place/detroit/index.md), [Detroit, Michigan (place)](../../topics/place/detroit-michigan/index.md), [Ghostbusters (movie)](../../topics/movie/ghostbusters/index.md), [Graffiti Bridge (movie)](../../topics/movie/graffiti-bridge/index.md), [Ingrid Chavez](../../topics/ingrid-chavez/index.md), [Jungle Love (song)](../../topics/song/jungle-love/index.md), [Kevin Smith](../../topics/kevin-smith/index.md), [Kristin Scott Thomas](../../topics/kristin-scott-thomas/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Los Angeles (place)](../../topics/place/los-angeles/index.md), [Morris Day](../../topics/morris-day/index.md), [motorcycle](../../topics/motorcycle/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Purple Rain (tour)](../../topics/tour/purple-rain/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md)
     - ([mirror](https://web.archive.org/web/*/https://variety.com/2014/music/news/purple-rain-30th-anniversary-tribute-1201269036/))
 
 ----

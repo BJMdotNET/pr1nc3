@@ -84,7 +84,7 @@
 
 ----
 
-## 2016 (6)
+## 2016 (7)
 
 ### 2016 July (1)
 
@@ -96,7 +96,7 @@
 
 ----
 
-### 2016 May (1)
+### 2016 May (2)
 
  - [**"C.J.: A family history of addiction prompted attorney to tell authorities what he'd heard about Prince and Percocet"**](https://www.startribune.com/c-j-a-family-history-of-addiction-prompted-attorney-to-tell-authorities-what-he-d-heard-about-prince-and-percocet/378196251/)
     - by [C.J. (Cheryl Johnson)](../../authors/c-j-cheryl-johnson/index.md)
@@ -104,6 +104,14 @@
     - on 4 May 2016
     - about [C.J.](../../topics/c-j/index.md), [Percocet](../../topics/percocet/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/c-j-a-family-history-of-addiction-prompted-attorney-to-tell-authorities-what-he-d-heard-about-prince-and-percocet/378196251/))
+
+<br />
+
+ - [**"Exclusive: Pain doctor Prince sought help from speaks out"**](https://www.sfchronicle.com/health/article/Exclusive-Pain-doctor-Prince-sought-help-from-7394011.php)
+    - in [San Francisco Chronicle](../../publications/san-francisco-chronicle/index.md)
+    - on 4 May 2016
+    - about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Bay Area (place)](../../topics/place/bay-area/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [opioid](../../topics/opioid/index.md), [oxycodone](../../topics/oxycodone/index.md), [Percocet](../../topics/percocet/index.md), [Recovery Without Walls](../../topics/recovery-without-walls/index.md), [Vicodin](../../topics/vicodin/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.sfchronicle.com/health/article/Exclusive-Pain-doctor-Prince-sought-help-from-7394011.php))
 
 ----
 

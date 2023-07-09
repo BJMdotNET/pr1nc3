@@ -80,6 +80,9 @@ items:
 - name: Bloomberg Law
   href: bloomberg-law/index.md
   homepage: bloomberg-law/index.md
+- name: boingboing.net
+  href: boingboing-net/index.md
+  homepage: boingboing-net/index.md
 - name: bookriot.com
   href: bookriot-com/index.md
   homepage: bookriot-com/index.md
@@ -143,6 +146,9 @@ items:
 - name: Cuepoint
   href: cuepoint/index.md
   homepage: cuepoint/index.md
+- name: Datebook - San Francisco Arts & Entertainment Guide
+  href: datebook-san-francisco-arts-entertainment-guide/index.md
+  homepage: datebook-san-francisco-arts-entertainment-guide/index.md
 - name: De Morgen
   href: de-morgen/index.md
   homepage: de-morgen/index.md
@@ -338,6 +344,9 @@ items:
 - name: media.rhino.com
   href: media-rhino-com/index.md
   homepage: media-rhino-com/index.md
+- name: medium.com
+  href: medium-com/index.md
+  homepage: medium-com/index.md
 - name: metro.co.uk
   href: metro-co-uk/index.md
   homepage: metro-co-uk/index.md
@@ -455,6 +464,9 @@ items:
 - name: Pitchfork
   href: pitchfork/index.md
   homepage: pitchfork/index.md
+- name: planetradio.co.uk
+  href: planetradio-co-uk/index.md
+  homepage: planetradio-co-uk/index.md
 - name: Playbill
   href: playbill/index.md
   homepage: playbill/index.md
@@ -518,6 +530,9 @@ items:
 - name: RNZ
   href: rnz/index.md
   homepage: rnz/index.md
+- name: rockcelebrities.net
+  href: rockcelebrities-net/index.md
+  homepage: rockcelebrities-net/index.md
 - name: Rolling Stone
   href: rolling-stone/index.md
   homepage: rolling-stone/index.md
@@ -530,6 +545,9 @@ items:
 - name: rollingout.com
   href: rollingout-com/index.md
   homepage: rollingout-com/index.md
+- name: San Francisco Chronicle
+  href: san-francisco-chronicle/index.md
+  homepage: san-francisco-chronicle/index.md
 - name: Santa Cruz Sentinel
   href: santa-cruz-sentinel/index.md
   homepage: santa-cruz-sentinel/index.md
@@ -818,6 +836,9 @@ items:
 - name: www.chattanoogapulse.com
   href: www-chattanoogapulse-com/index.md
   homepage: www-chattanoogapulse-com/index.md
+- name: www.cheatsheet.com
+  href: www-cheatsheet-com/index.md
+  homepage: www-cheatsheet-com/index.md
 - name: www.chicagoreader.com
   href: www-chicagoreader-com/index.md
   homepage: www-chicagoreader-com/index.md
@@ -887,6 +908,9 @@ items:
 - name: www.ktlo.com
   href: www-ktlo-com/index.md
   homepage: www-ktlo-com/index.md
+- name: www.lamag.com
+  href: www-lamag-com/index.md
+  homepage: www-lamag-com/index.md
 - name: www.lepoint.fr
   href: www-lepoint-fr/index.md
   homepage: www-lepoint-fr/index.md
@@ -914,6 +938,9 @@ items:
 - name: www.metro.news
   href: www-metro-news/index.md
   homepage: www-metro-news/index.md
+- name: www.mirror.co.uk
+  href: www-mirror-co-uk/index.md
+  homepage: www-mirror-co-uk/index.md
 - name: www.morgenpost.de
   href: www-morgenpost-de/index.md
   homepage: www-morgenpost-de/index.md
@@ -923,6 +950,9 @@ items:
 - name: www.newportbeachindy.com
   href: www-newportbeachindy-com/index.md
   homepage: www-newportbeachindy-com/index.md
+- name: www.nextavenue.org
+  href: www-nextavenue-org/index.md
+  homepage: www-nextavenue-org/index.md
 - name: www.noise11.com
   href: www-noise11-com/index.md
   homepage: www-noise11-com/index.md
@@ -959,6 +989,9 @@ items:
 - name: www.seattletimes.com
   href: www-seattletimes-com/index.md
   homepage: www-seattletimes-com/index.md
+- name: www.sfgate.com
+  href: www-sfgate-com/index.md
+  homepage: www-sfgate-com/index.md
 - name: www.sheknows.com
   href: www-sheknows-com/index.md
   homepage: www-sheknows-com/index.md
@@ -980,6 +1013,9 @@ items:
 - name: www.spectator.co.uk
   href: www-spectator-co-uk/index.md
   homepage: www-spectator-co-uk/index.md
+- name: www.sundaypost.com
+  href: www-sundaypost-com/index.md
+  homepage: www-sundaypost-com/index.md
 - name: www.tcdailyplanet.net
   href: www-tcdailyplanet-net/index.md
   homepage: www-tcdailyplanet-net/index.md
@@ -998,6 +1034,9 @@ items:
 - name: www.timeout.com
   href: www-timeout-com/index.md
   homepage: www-timeout-com/index.md
+- name: www.tortoisemedia.com
+  href: www-tortoisemedia-com/index.md
+  homepage: www-tortoisemedia-com/index.md
 - name: www.vogue.com
   href: www-vogue-com/index.md
   homepage: www-vogue-com/index.md

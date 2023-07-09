@@ -238,7 +238,7 @@
  - [**"Prince's 'Originals' Album: Comparing Each Demo With Its Well-Known Cover Version"**](https://www.billboard.com/articles/news/8517576/prince-originals-album-covers)
     - in [Billboard](../../publications/billboard/index.md)
     - on 25 June 2019
-    - about [Alan Light](../../topics/alan-light/index.md), [Apollonia 6](../../topics/apollonia-6/index.md), [Bangles](../../topics/bangles/index.md), [BrownMark](../../topics/brownmark/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Morris Day](../../topics/morris-day/index.md), [Nile Rodgers](../../topics/nile-rodgers/index.md), [Originals (album)](../../topics/album/originals/index.md), [Romance 1600 (album)](../../topics/album/romance-1600/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Super Bowl XLI (event)](../../topics/event/super-bowl-xli/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [The Revolution](../../topics/the-revolution/index.md)
+    - about [Alan Light](../../topics/alan-light/index.md), [Apollonia 6](../../topics/apollonia-6/index.md), [Bangles](../../topics/bangles/index.md), [BrownMark](../../topics/brownmark/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Morris Day](../../topics/morris-day/index.md), [Nile Rodgers](../../topics/nile-rodgers/index.md), [Originals (album)](../../topics/album/originals/index.md), [Romance 1600 (album)](../../topics/album/romance-1600/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Super Bowl XLI (event)](../../topics/event/super-bowl-xli/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [The Revolution](../../topics/the-revolution/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8517576/prince-originals-album-covers))
 
 ----
@@ -474,7 +474,7 @@
 
 ----
 
-## 2016 (12)
+## 2016 (13)
 
 ### 2016 May (2)
 
@@ -494,7 +494,7 @@
 
 ----
 
-### 2016 April (8)
+### 2016 April (9)
 
  - [**"Nashville mourns a Prince"**](https://eu.tennessean.com/story/entertainment/music/2016/04/21/nashville-musicians-remember-prince/83340932/)
     - in [Tennessean](../../publications/tennessean/index.md)
@@ -550,6 +550,15 @@
     - on 21 April 2016
     - about [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Jim Olson](../../topics/jim-olson/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Minnesota Twins](../../topics/minnesota-twins/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [Obama](../../topics/obama/index.md), [Paisley Park Studios (place)](../../topics/place/paisley-park-studios/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Super Bowl XLI (event)](../../topics/event/super-bowl-xli/index.md), [TMZ (website)](../../topics/website/tmz/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/http://www.fox9.com/news/emergency-medical-response-at-paisley-park))
+
+<br />
+
+ - [**"Prince, a singular, meticulous master of pop, dies at 57"**](https://www.sfchronicle.com/news/nation-world/nation/article/Prince-a-singular-meticulous-master-of-pop-7294913.php)
+    - by [Jon Pareles](../../authors/jon-pareles/index.md)
+    - in [San Francisco Chronicle](../../publications/san-francisco-chronicle/index.md)
+    - on 21 April 2016
+    - about [Albert Magnoli](../../topics/albert-magnoli/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [I Wanna Be Your Lover (song)](../../topics/song/i-wanna-be-your-lover/index.md), [I Would Die 4 U (song)](../../topics/song/i-would-die-4-u/index.md), [Jim Olson](../../topics/jim-olson/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Morris Day](../../topics/morris-day/index.md), [Raspberry Beret (song)](../../topics/song/raspberry-beret/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md), [While My Guitar Gently Weeps (song)](../../topics/song/while-my-guitar-gently-weeps/index.md), [Yvette Noel-Schure](../../topics/yvette-noel-schure/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.sfchronicle.com/news/nation-world/nation/article/Prince-a-singular-meticulous-master-of-pop-7294913.php))
 
 <br />
 

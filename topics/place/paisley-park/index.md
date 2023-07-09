@@ -541,7 +541,7 @@
 
 ----
 
-## 2016 (14)
+## 2016 (17)
 
 ### 2016 October (1)
 
@@ -571,13 +571,21 @@
 
 ----
 
-### 2016 May (2)
+### 2016 May (3)
 
  - [**"Former Prince assistant says he was healthy, energetic"**](https://apnews.com/article/-----2e1a16d654e9425bbe862f673c1e0de7)
     - in [Associated Press News](../../../publications/associated-press-news/index.md)
     - on 4 May 2016
     - about [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Mariah Brown](../../../topics/mariah-brown/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [toxicology report](../../../topics/toxicology-report/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/-----2e1a16d654e9425bbe862f673c1e0de7))
+
+<br />
+
+ - [**"Prince’s DJ ‘Purple Pam’ now leads celebration of his life"**](https://www.sfchronicle.com/music/article/Prince-s-DJ-Purple-Pam-now-leads-7391150.php)
+    - in [San Francisco Chronicle](../../../publications/san-francisco-chronicle/index.md)
+    - on 3 May 2016
+    - about [1015 Folsom (place)](../../../topics/place/1015-folsom/index.md), [A Celebration of Prince With Purple Pam](../../../topics/a-celebration-of-prince-with-purple-pam/index.md), [Bay Area (place)](../../../topics/place/bay-area/index.md), [Great American Music Hall (place)](../../../topics/place/great-american-music-hall/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Paisley Park After Dark](../../../topics/paisley-park-after-dark/index.md), [Pam the Funkstress](../../../topics/pam-the-funkstress/index.md), [Pam Warren](../../../topics/pam-warren/index.md), [Purple Pam](../../../topics/purple-pam/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.sfchronicle.com/music/article/Prince-s-DJ-Purple-Pam-now-leads-7391150.php))
 
 <br />
 
@@ -589,7 +597,7 @@
 
 ----
 
-### 2016 April (9)
+### 2016 April (11)
 
  - [**"Hermana de Prince: hasta donde se sabe, no dejó testamento"**](https://apnews.com/article/77e7b911f1d3465ab9f52e7aae95aa9c)
     - in [Associated Press News](../../../publications/associated-press-news/index.md)
@@ -661,6 +669,22 @@
     - on 21 April 2016
     - about [3rdEyeGirl](../../../topics/3rdeyegirl/index.md), [Alan Leeds](../../../topics/alan-leeds/index.md), [Albert Magnoli](../../../topics/albert-magnoli/index.md), [Art Official Age (album)](../../../topics/album/art-official-age/index.md), [Black Album (album)](../../../topics/album/black-album/index.md), [bootleg](../../../topics/bootleg/index.md), [Carlos Boozer](../../../topics/carlos-boozer/index.md), [Carmen Electra](../../../topics/carmen-electra/index.md), [Chappelle’s Show (TV show)](../../../topics/tv-show/chappelle-s-show/index.md), [Charlie Murphy](../../../topics/charlie-murphy/index.md), [Daily Mail (newspaper)](../../../topics/newspaper/daily-mail/index.md), [Divinity (animal)](../../../topics/animal/divinity/index.md), [Eden Prairie (place)](../../../topics/place/eden-prairie/index.md), [Glam Slam Ulysses](../../../topics/glam-slam-ulysses/index.md), [Jay Williams](../../../topics/jay-williams/index.md), [Jehovah’s Witness](../../../topics/jehovah-s-witness/index.md), [Kevin Smith](../../../topics/kevin-smith/index.md), [Kim Basinger](../../../topics/kim-basinger/index.md), [Larry Graham](../../../topics/larry-graham/index.md), [lawsuit](../../../topics/lawsuit/index.md), [Majesty (animal)](../../../topics/animal/majesty/index.md), [Mayte](../../../topics/mayte/index.md), [Mayte Garcia](../../../topics/mayte-garcia/index.md), [Michael Jackson](../../../topics/michael-jackson/index.md), [Mo’ Meta Blues (book)](../../../topics/book/mo-meta-blues/index.md), [Notorious (magazine)](../../../topics/magazine/notorious/index.md), [One Nite Alone (album)](../../../topics/album/one-nite-alone/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [ping-pong](../../../topics/ping-pong/index.md), [PlectrumElectrum (album)](../../../topics/album/plectrumelectrum/index.md), [Questlove](../../../topics/questlove/index.md), [roller-skating](../../../topics/roller-skating/index.md), [Scandalous (song)](../../../topics/song/scandalous/index.md), [Scandalous Sex Suite (EP)](../../../topics/ep/scandalous-sex-suite/index.md), [The Most Beautiful Girl In The World (song)](../../../topics/song/the-most-beautiful-girl-in-the-world/index.md), [The New Yorker](../../../topics/the-new-yorker/index.md), [vault](../../../topics/vault/index.md), [Yom Kippur](../../../topics/yom-kippur/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.vulture.com/2014/09/24-outrageous-prince-stories.html))
+
+<br />
+
+ - [**"Celebrities react to death of music legend Prince"**](https://www.chron.com/entertainment/article/Celebrities-react-to-death-of-music-legend-Prince-7287746.php)
+    - in [The Houston Chronicle at Chron.com](../../../publications/the-houston-chronicle-at-chron-com/index.md)
+    - on 21 April 2016
+    - about [Atlanta (place)](../../../topics/place/atlanta/index.md), [Obama](../../../topics/obama/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Spike Lee](../../../topics/spike-lee/index.md), [Yvette Noel-Schure](../../../topics/yvette-noel-schure/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.chron.com/entertainment/article/Celebrities-react-to-death-of-music-legend-Prince-7287746.php))
+
+<br />
+
+ - [**"Pop superstar Prince dead at 57"**](https://www.chron.com/entertainment/celebrities/article/Reports-Prince-dead-at-57-7287598.php)
+    - in [The Houston Chronicle at Chron.com](../../../publications/the-houston-chronicle-at-chron-com/index.md)
+    - on 21 April 2016
+    - about [Atlanta (place)](../../../topics/place/atlanta/index.md), [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Eden Prairie (place)](../../../topics/place/eden-prairie/index.md), [Judith Hill](../../../topics/judith-hill/index.md), [memoir](../../../topics/memoir/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Piano and a Microphone (tour)](../../../topics/tour/piano-and-a-microphone/index.md), [Spiegel & Grau](../../../topics/spiegel-grau/index.md), [Yvette Noel-Schure](../../../topics/yvette-noel-schure/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.chron.com/entertainment/celebrities/article/Reports-Prince-dead-at-57-7287598.php))
 
 ----
 

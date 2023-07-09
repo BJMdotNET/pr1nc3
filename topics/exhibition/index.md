@@ -32,7 +32,7 @@
 
 ----
 
-## 2019 (5)
+## 2019 (6)
 
 ### 2019 November (3)
 
@@ -77,6 +77,16 @@
     - on 21 April 2019
     - about [Alfred Jackson](../../topics/alfred-jackson/index.md), [auction](../../topics/auction/index.md), [Bremer Trust](../../topics/bremer-trust/index.md), [Caribbean](../../topics/caribbean/index.md), [Carver County](../../topics/carver-county/index.md), [Celebration 2019 (event)](../../topics/event/celebration-2019/index.md), [Comerica](../../topics/comerica/index.md), [Comerica Bank & Trust](../../topics/comerica-bank-trust/index.md), [exhibition](../../topics/exhibition/index.md), [fentanyl](../../topics/fentanyl/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [Joel Weinshanker](../../topics/joel-weinshanker/index.md), [John Nelson](../../topics/john-nelson/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Legacy Recordings](../../topics/legacy-recordings/index.md), [merchandise](../../topics/merchandise/index.md), [museum](../../topics/museum/index.md), [My Name Is Prince (exhibition)](../../topics/exhibition/my-name-is-prince/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Piano & A Microphone 1983 (album)](../../topics/album/piano-a-microphone-1983/index.md), [Prince Anthology: 1995-2010 (album)](../../topics/album/prince-anthology-1995-2010/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Prince: In Concert On The Big Screen (event)](../../topics/event/prince-in-concert-on-the-big-screen/index.md), [probate court](../../topics/probate-court/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Turks and Caicos](../../topics/turks-and-caicos/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md)
     - ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/2019/04/18/prince-died-3-years-ago-his-estate-still-unsettled-heres-why/3344038002/))
+
+----
+
+### 2019 February (1)
+
+ - [**"Purple rain: Exhibition on Prince's image coming to MoPOP in April -- To get through this thing called life"**](https://www.sfchronicle.com/local/seattlenews/article/Purple-rain-Prince-MoPOP-exhibition-museum-Seattle-13623627.php)
+    - in [San Francisco Chronicle](../../publications/san-francisco-chronicle/index.md)
+    - on 17 February 2019
+    - about [Allen Beaulieu](../../topics/allen-beaulieu/index.md), [convention](../../topics/convention/index.md), [exhibit](../../topics/exhibit/index.md), [exhibition](../../topics/exhibition/index.md), [museum](../../topics/museum/index.md), [Robert Whitman](../../topics/robert-whitman/index.md), [Weisman Art Museum (place)](../../topics/place/weisman-art-museum/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.sfchronicle.com/local/seattlenews/article/Purple-rain-Prince-MoPOP-exhibition-museum-Seattle-13623627.php))
 
 ----
 

@@ -3791,7 +3791,7 @@
  - [**"Prince's 'Originals' Album: Comparing Each Demo With Its Well-Known Cover Version"**](https://www.billboard.com/articles/news/8517576/prince-originals-album-covers)
     - in [Billboard](../../publications/billboard/index.md)
     - on 25 June 2019
-    - about [Alan Light](../../topics/alan-light/index.md), [Apollonia 6](../../topics/apollonia-6/index.md), [Bangles](../../topics/bangles/index.md), [BrownMark](../../topics/brownmark/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Morris Day](../../topics/morris-day/index.md), [Nile Rodgers](../../topics/nile-rodgers/index.md), [Originals (album)](../../topics/album/originals/index.md), [Romance 1600 (album)](../../topics/album/romance-1600/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Super Bowl XLI (event)](../../topics/event/super-bowl-xli/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [The Revolution](../../topics/the-revolution/index.md)
+    - about [Alan Light](../../topics/alan-light/index.md), [Apollonia 6](../../topics/apollonia-6/index.md), [Bangles](../../topics/bangles/index.md), [BrownMark](../../topics/brownmark/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Morris Day](../../topics/morris-day/index.md), [Nile Rodgers](../../topics/nile-rodgers/index.md), [Originals (album)](../../topics/album/originals/index.md), [Romance 1600 (album)](../../topics/album/romance-1600/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Super Bowl XLI (event)](../../topics/event/super-bowl-xli/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [The Revolution](../../topics/the-revolution/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8517576/prince-originals-album-covers))
 
 ----
@@ -3851,7 +3851,7 @@
  - [**"Single Stories: Prince, “Manic Monday”"**](https://www.rhino.com/article/single-stories-prince-manic-monday)
     - in [Rhino](../../publications/rhino/index.md)
     - on 24 June 2019
-    - about [Apollonia 6](../../topics/apollonia-6/index.md), [Bangles](../../topics/bangles/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md)
+    - about [Apollonia 6](../../topics/apollonia-6/index.md), [Bangles](../../topics/bangles/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.rhino.com/article/single-stories-prince-manic-monday))
 
 ----
@@ -3868,7 +3868,7 @@
     - by [Graeme Watson](../../authors/graeme-watson/index.md)
     - in [OUT In Perth](../../publications/out-in-perth/index.md)
     - on 23 June 2019
-    - about [Apollonia 6](../../topics/apollonia-6/index.md), [Bangles](../../topics/bangles/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Originals (album review)](../../topics/album-review/originals/index.md), [Originals (album)](../../topics/album/originals/index.md), [Purple Music (song)](../../topics/song/purple-music/index.md)
+    - about [Apollonia 6](../../topics/apollonia-6/index.md), [Bangles](../../topics/bangles/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Originals (album review)](../../topics/album-review/originals/index.md), [Originals (album)](../../topics/album/originals/index.md), [Purple Music (song)](../../topics/song/purple-music/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.outinperth.com/new-record-delves-into-princes-archive-of-tunes-he-gave-to-others/))
 
 ----
@@ -4768,7 +4768,7 @@
 
 ----
 
-## February 2019 (16)
+## February 2019 (17)
 
  - [**"AM Prep-Music -- ESSENCE FESTIVAL ANNOUNCES LINEUP"**](https://apnews.com/article/b62a45b382974fa5929d6ff8422b19ff)
     - in [Associated Press News](../../publications/associated-press-news/index.md)
@@ -4818,6 +4818,14 @@
     - on 18 February 2019
     - about [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/the-latest-klobuchar-points-to-prince-in-talking-drug-issue/506023432/))
+
+----
+
+ - [**"Purple rain: Exhibition on Prince's image coming to MoPOP in April -- To get through this thing called life"**](https://www.sfchronicle.com/local/seattlenews/article/Purple-rain-Prince-MoPOP-exhibition-museum-Seattle-13623627.php)
+    - in [San Francisco Chronicle](../../publications/san-francisco-chronicle/index.md)
+    - on 17 February 2019
+    - about [Allen Beaulieu](../../topics/allen-beaulieu/index.md), [convention](../../topics/convention/index.md), [exhibit](../../topics/exhibit/index.md), [exhibition](../../topics/exhibition/index.md), [museum](../../topics/museum/index.md), [Robert Whitman](../../topics/robert-whitman/index.md), [Weisman Art Museum (place)](../../topics/place/weisman-art-museum/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.sfchronicle.com/local/seattlenews/article/Purple-rain-Prince-MoPOP-exhibition-museum-Seattle-13623627.php))
 
 ----
 

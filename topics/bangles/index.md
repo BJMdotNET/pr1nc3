@@ -1,8 +1,26 @@
 # Bangles
 
-## 2023 (1)
+## 2023 (16)
 
-### 2023 June (1)
+### 2023 July (2)
+
+ - [**"Singer Susanna Hoffs on her debut romance novel, The Bangles and a cassette from Prince"**](https://www.cbsnews.com/video/singer-susanna-hoffs-on-her-debut-romance-novel-the-bangles-and-a-cassette-from-prince/)
+    - in [CBS News](../../publications/cbs-news/index.md)
+    - on 7 July 2023
+    - about [Bangles](../../topics/bangles/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/video/singer-susanna-hoffs-on-her-debut-romance-novel-the-bangles-and-a-cassette-from-prince/))
+
+<br />
+
+ - [**"Singer Susanna Hoffs on her debut romance novel, The Bangles and a cassette from Prince -- CBS Mornings"**](https://www.youtube.com/watch?v=O5XhmGL5Dto)
+    - in [YouTube](../../publications/youtube/index.md)
+    - on 7 July 2023
+    - about [Bangles](../../topics/bangles/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.youtube.com/watch?v=O5XhmGL5Dto))
+
+----
+
+### 2023 June (2)
 
  - [**"‘60 Songs That Explain the ’90s’: The Filthy Brilliance of Prince in the ’90s -- Finding the joy in the repetition—and experimentation—of Prince’s most interesting decade"**](https://www.theringer.com/2023/6/14/23760185/prince-90s-gett-off-history)
     - by [Rob Harvilla](../../authors/rob-harvilla/index.md)
@@ -10,6 +28,132 @@
     - on 14 June 2023
     - about [Bangles](../../topics/bangles/index.md), [Batdance (song)](../../topics/song/batdance/index.md), [Batman (album)](../../topics/album/batman/index.md), [Black Album (album)](../../topics/album/black-album/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Cyndi Lauper](../../topics/cyndi-lauper/index.md), [divorce](../../topics/divorce/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Michael Bland](../../topics/michael-bland/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Round and Round (song)](../../topics/song/round-and-round/index.md), [Scandalous (song)](../../topics/song/scandalous/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [Tevin Campbell](../../topics/tevin-campbell/index.md), [The Black Album (album)](../../topics/album/the-black-album/index.md), [Tim Burton](../../topics/tim-burton/index.md), [Tommy Barbarella](../../topics/tommy-barbarella/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md), [Weird Al Yankovic](../../topics/weird-al-yankovic/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.theringer.com/2023/6/14/23760185/prince-90s-gett-off-history))
+
+<br />
+
+ - [**"Susanna Hoffs on Prince, naked writing and her debut novel -- David Barnett chats to the Bangles lead singer about her new book – which happens to be brilliant"**](https://www.tortoisemedia.com/2023/06/09/why-dont-you-write-that-novel-youve-always-wanted-to-write/)
+    - in [www.tortoisemedia.com](../../publications/www-tortoisemedia-com/index.md)
+    - on 9 June 2023
+    - about [Bangles](../../topics/bangles/index.md), [Los Angeles (place)](../../topics/place/los-angeles/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.tortoisemedia.com/2023/06/09/why-dont-you-write-that-novel-youve-always-wanted-to-write/))
+
+----
+
+### 2023 May (1)
+
+ - [**"Exclusive: Bangles' classic Eternal Flame originally REJECTED by band leaving songwriter 'bereft' -- Susanna Hoff, one of the co-founders of The Bangles, recalled her bandmates didn't want the iconic love song on their third album back in the 1980s , leaving her devastated"**](https://www.mirror.co.uk/3am/celebrity-news/bangles-classic-eternal-flame-originally-30038013)
+    - in [www.mirror.co.uk](../../publications/www-mirror-co-uk/index.md)
+    - on 21 May 2023
+    - about [Bangles](../../topics/bangles/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.mirror.co.uk/3am/celebrity-news/bangles-classic-eternal-flame-originally-30038013))
+
+----
+
+### 2023 April (7)
+
+ - [**"Susanna Hoffs talks working with 'superhero' Prince and THAT Rock Hall performance -- Our latest guest on Tim's Listening Party "**](https://planetradio.co.uk/absolute-radio/music/news/susanna-hoffs-prince/)
+    - in [planetradio.co.uk](../../publications/planetradio-co-uk/index.md)
+    - on 24 April 2023
+    - about [Bangles](../../topics/bangles/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [Tom Petty](../../topics/tom-petty/index.md), [While My Guitar Gently Weeps (song)](../../topics/song/while-my-guitar-gently-weeps/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://planetradio.co.uk/absolute-radio/music/news/susanna-hoffs-prince/))
+
+<br />
+
+ - [**"Tim's Listening Party: The Bangles"**](https://planetradio.co.uk/podcasts/tims-listening-party/listen/2149590/)
+    - in [planetradio.co.uk](../../publications/planetradio-co-uk/index.md)
+    - on 23 April 2023
+    - about [Bangles](../../topics/bangles/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://planetradio.co.uk/podcasts/tims-listening-party/listen/2149590/))
+
+<br />
+
+ - [**"Susanna Hoffs: ‘Recording Eternal Flame nude was a funny dare’ -- The Bangles star talks to Ed Potton about publishing her first novel, being mentored by Prince — and how she was tricked into singing the band’s biggest hit naked"**](https://www.thetimes.co.uk/article/susanna-hoffs-the-bangles-interview-this-bird-has-flown-pg7x6pkdj)
+    - in [The Times](../../publications/the-times/index.md)
+    - on 15 April 2023
+    - about [Bangles](../../topics/bangles/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [Tom Petty](../../topics/tom-petty/index.md), [While My Guitar Gently Weeps (song)](../../topics/song/while-my-guitar-gently-weeps/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.thetimes.co.uk/article/susanna-hoffs-the-bangles-interview-this-bird-has-flown-pg7x6pkdj))
+
+<br />
+
+ - [**"Bangles cofounder Susanna Hoffs infused her debut novel with her love of music -- NPR's Andrew Limbong speaks with the Bangles cofounder Susanna Hoffs on her debut novel This Bird Has Flown and how she used her music career to create her main character, singer Jane Start."**](https://www.npr.org/2023/04/13/1169808268/bangles-cofounder-susanna-hoffs-infused-her-debut-novel-with-her-love-of-music)
+    - in [National Public Radio](../../publications/national-public-radio/index.md)
+    - on 13 April 2023
+    - about [Bangles](../../topics/bangles/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.npr.org/2023/04/13/1169808268/bangles-cofounder-susanna-hoffs-infused-her-debut-novel-with-her-love-of-music))
+
+<br />
+
+ - [**"At 64, Bangles singer Susanna Hoffs has a new book—and looks amazing "**](https://nypost.com/2023/04/08/bangles-singer-susanna-hoffs-reveals-how-her-past-inspired-novel/)
+    - in [New York Post](../../publications/new-york-post/index.md)
+    - on 8 April 2023
+    - about [Bangles](../../topics/bangles/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Rock & Roll Hall of Fame (place)](../../topics/place/rock-roll-hall-of-fame/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [Tom Petty](../../topics/tom-petty/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://nypost.com/2023/04/08/bangles-singer-susanna-hoffs-reveals-how-her-past-inspired-novel/))
+
+<br />
+
+ - [**"15 Minutes with Susanna Hoffs -- Lead singer of The Bangles talks to LAMag about her debut novel “This Bird Has Flown,” the legacy of the band, and the dark underbelly of L.A."**](https://www.lamag.com/culturefiles/15-minutes-with-susanna-hoffs/)
+    - in [www.lamag.com](../../publications/www-lamag-com/index.md)
+    - on 7 April 2023
+    - about [Bangles](../../topics/bangles/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.lamag.com/culturefiles/15-minutes-with-susanna-hoffs/))
+
+<br />
+
+ - [**"Susanna Hoffs: When I met Prince I felt like Cinderella. It was a cute little moment"**](https://www.sundaypost.com/fp/susanna-hoffs-interview/)
+    - in [www.sundaypost.com](../../publications/www-sundaypost-com/index.md)
+    - on 5 April 2023
+    - about [Bangles](../../topics/bangles/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.sundaypost.com/fp/susanna-hoffs-interview/))
+
+----
+
+### 2023 March (2)
+
+ - [**"Susanna Hoffs Proves It's Never Too Late to Fulfill a Lifelong Dream -- The singer/songwriter from The Bangles discusses the writing of her debut novel, 'This Bird Has Flown,' and shares musical memories of Prince and Burt Bacharach"**](https://www.nextavenue.org/susanna-hoffs-proves-its-never-too-late/)
+    - in [www.nextavenue.org](../../publications/www-nextavenue-org/index.md)
+    - on 28 March 2023
+    - about [Bangles](../../topics/bangles/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.nextavenue.org/susanna-hoffs-proves-its-never-too-late/))
+
+<br />
+
+ - [**"Prince’s Attempt To Win The Heart Of The Bangles’ Susanna Hoffs"**](https://rockcelebrities.net/princes-attempt-to-win-the-heart-of-the-bangles-susanna-hoffs/)
+    - in [rockcelebrities.net](../../publications/rockcelebrities-net/index.md)
+    - on 12 March 2023
+    - about [Apollonia](../../topics/apollonia/index.md), [Apollonia 6](../../topics/apollonia-6/index.md), [Bangles](../../topics/bangles/index.md), [Christopher](../../topics/christopher/index.md), [Los Angeles Times (newspaper)](../../topics/newspaper/los-angeles-times/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Patricia Kotero](../../topics/patricia-kotero/index.md), [Robert Hilburn](../../topics/robert-hilburn/index.md), [Rolling Stone (magazine)](../../topics/magazine/rolling-stone/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://rockcelebrities.net/princes-attempt-to-win-the-heart-of-the-bangles-susanna-hoffs/))
+
+----
+
+### 2023 February (1)
+
+ - [**"Why did Prince give away 'Manic Monday'?"**](https://faroutmagazine.co.uk/why-prince-give-away-manic-monday/)
+    - in [Far Out Magazine](../../publications/far-out-magazine/index.md)
+    - on 16 February 2023
+    - about [Bangles](../../topics/bangles/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://faroutmagazine.co.uk/why-prince-give-away-manic-monday/))
+
+----
+
+### 2023 January (1)
+
+ - [**"Prince's original version of "Manic Monday," unheard until recently (video)"**](https://boingboing.net/2023/01/23/princes-original-version-of-manic-monday-unheard-until-recently-video.html)
+    - in [boingboing.net](../../publications/boingboing-net/index.md)
+    - on 23 January 2023
+    - about [Bangles](../../topics/bangles/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://boingboing.net/2023/01/23/princes-original-version-of-manic-monday-unheard-until-recently-video.html))
+
+----
+
+## 2022 (1)
+
+### 2022 December (1)
+
+ - [**"Prince Gave The Bangles ‘Manic Monday’ But He Originally Wrote It For Another Group -- Prince gave The Bangles "Manic Monday" even though he initially intended the song for a group connected to his movie 'Purple Rain.'"**](https://www.cheatsheet.com/entertainment/prince-gave-the-bangles-manic-monday-originally-wrote-another-group.html/)
+    - in [www.cheatsheet.com](../../publications/www-cheatsheet-com/index.md)
+    - on 2 December 2022
+    - about [Apollonia](../../topics/apollonia/index.md), [Apollonia 6](../../topics/apollonia-6/index.md), [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Bangles](../../topics/bangles/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.cheatsheet.com/entertainment/prince-gave-the-bangles-manic-monday-originally-wrote-another-group.html/))
 
 ----
 
@@ -234,7 +378,7 @@
  - [**"Prince's 'Originals' Album: Comparing Each Demo With Its Well-Known Cover Version"**](https://www.billboard.com/articles/news/8517576/prince-originals-album-covers)
     - in [Billboard](../../publications/billboard/index.md)
     - on 25 June 2019
-    - about [Alan Light](../../topics/alan-light/index.md), [Apollonia 6](../../topics/apollonia-6/index.md), [Bangles](../../topics/bangles/index.md), [BrownMark](../../topics/brownmark/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Morris Day](../../topics/morris-day/index.md), [Nile Rodgers](../../topics/nile-rodgers/index.md), [Originals (album)](../../topics/album/originals/index.md), [Romance 1600 (album)](../../topics/album/romance-1600/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Super Bowl XLI (event)](../../topics/event/super-bowl-xli/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [The Revolution](../../topics/the-revolution/index.md)
+    - about [Alan Light](../../topics/alan-light/index.md), [Apollonia 6](../../topics/apollonia-6/index.md), [Bangles](../../topics/bangles/index.md), [BrownMark](../../topics/brownmark/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Morris Day](../../topics/morris-day/index.md), [Nile Rodgers](../../topics/nile-rodgers/index.md), [Originals (album)](../../topics/album/originals/index.md), [Romance 1600 (album)](../../topics/album/romance-1600/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Super Bowl XLI (event)](../../topics/event/super-bowl-xli/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [The Revolution](../../topics/the-revolution/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8517576/prince-originals-album-covers))
 
 <br />
@@ -269,7 +413,7 @@
  - [**"Single Stories: Prince, “Manic Monday”"**](https://www.rhino.com/article/single-stories-prince-manic-monday)
     - in [Rhino](../../publications/rhino/index.md)
     - on 24 June 2019
-    - about [Apollonia 6](../../topics/apollonia-6/index.md), [Bangles](../../topics/bangles/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md)
+    - about [Apollonia 6](../../topics/apollonia-6/index.md), [Bangles](../../topics/bangles/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.rhino.com/article/single-stories-prince-manic-monday))
 
 <br />
@@ -286,7 +430,7 @@
     - by [Graeme Watson](../../authors/graeme-watson/index.md)
     - in [OUT In Perth](../../publications/out-in-perth/index.md)
     - on 23 June 2019
-    - about [Apollonia 6](../../topics/apollonia-6/index.md), [Bangles](../../topics/bangles/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Originals (album review)](../../topics/album-review/originals/index.md), [Originals (album)](../../topics/album/originals/index.md), [Purple Music (song)](../../topics/song/purple-music/index.md)
+    - about [Apollonia 6](../../topics/apollonia-6/index.md), [Bangles](../../topics/bangles/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Originals (album review)](../../topics/album-review/originals/index.md), [Originals (album)](../../topics/album/originals/index.md), [Purple Music (song)](../../topics/song/purple-music/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.outinperth.com/new-record-delves-into-princes-archive-of-tunes-he-gave-to-others/))
 
 <br />
@@ -446,15 +590,23 @@
 
 ----
 
-## 2017 (1)
+## 2017 (2)
 
-### 2017 March (1)
+### 2017 March (2)
 
  - [**"Prince's Sign O' The Times, 30 years on"**](https://www.bbc.com/news/entertainment-arts-39441461)
     - in [BBC News](../../publications/bbc-news/index.md)
     - on 31 March 2017
     - about [Bangles](../../topics/bangles/index.md), [Dream Factory (album)](../../topics/album/dream-factory/index.md), [Eric Leeds](../../topics/eric-leeds/index.md), [George Clinton](../../topics/george-clinton/index.md), [Housequake (song)](../../topics/song/housequake/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Matt Fink](../../topics/matt-fink/index.md), [Obama](../../topics/obama/index.md), [Questlove](../../topics/questlove/index.md), [Sheena Easton](../../topics/sheena-easton/index.md), [Starfish And Coffee (song)](../../topics/song/starfish-and-coffee/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Strange Relationship (song)](../../topics/song/strange-relationship/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [The Ballad Of Dorothy Parker (song)](../../topics/song/the-ballad-of-dorothy-parker/index.md), [The Revolution](../../topics/the-revolution/index.md), [U Got the Look (song)](../../topics/song/u-got-the-look/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md), [Van Jones](../../topics/van-jones/index.md), [vault](../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.bbc.com/news/entertainment-arts-39441461))
+
+<br />
+
+ - [**"Prince Wrote “Manic Monday” For The Bangles"**](https://medium.com/micro-chop/prince-wrote-manic-monday-for-the-bangles-30955dd0ce9d)
+    - in [medium.com](../../publications/medium-com/index.md)
+    - on 7 March 2017
+    - about [Apollonia](../../topics/apollonia/index.md), [Apollonia 6](../../topics/apollonia-6/index.md), [Bangles](../../topics/bangles/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Paul Grein](../../topics/paul-grein/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://medium.com/micro-chop/prince-wrote-manic-monday-for-the-bangles-30955dd0ce9d))
 
 ----
 
@@ -501,7 +653,7 @@
  - [**"The Women in Prince’s World: His Muses and Collaborators From Sheila E. to Kim Basinger"**](https://www.billboard.com/photos/7348470/prince-female-muses-collaborators-lovers-sheila-e-kim-basinger-more)
     - in [Billboard](../../publications/billboard/index.md)
     - on 28 April 2016
-    - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Apollonia 6](../../topics/apollonia-6/index.md), [Bangles](../../topics/bangles/index.md), [Boy Gregory](../../topics/boy-gregory/index.md), [Bria Valente](../../topics/bria-valente/index.md), [Cat Glover](../../topics/cat-glover/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [contract](../../topics/contract/index.md), [Denise Matthews](../../topics/denise-matthews/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [divorce](../../topics/divorce/index.md), [Donna Grantis](../../topics/donna-grantis/index.md), [Hannah Welton](../../topics/hannah-welton/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [I Wanna Be Your Lover (song)](../../topics/song/i-wanna-be-your-lover/index.md), [Ingrid Chavez](../../topics/ingrid-chavez/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Martika](../../topics/martika/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Misty Copeland](../../topics/misty-copeland/index.md), [Nasty Girl (song)](../../topics/song/nasty-girl/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Paisley Park Records](../../topics/paisley-park-records/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [Sheena Easton](../../topics/sheena-easton/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stand Back (song)](../../topics/song/stand-back/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md), [Sugar Walls (song)](../../topics/song/sugar-walls/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [The Revolution](../../topics/the-revolution/index.md), [U Got the Look (song)](../../topics/song/u-got-the-look/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [Wendy & Lisa](../../topics/wendy-lisa/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
+    - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Apollonia 6](../../topics/apollonia-6/index.md), [Bangles](../../topics/bangles/index.md), [Boy Gregory](../../topics/boy-gregory/index.md), [Bria Valente](../../topics/bria-valente/index.md), [Cat Glover](../../topics/cat-glover/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [contract](../../topics/contract/index.md), [Denise Matthews](../../topics/denise-matthews/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [divorce](../../topics/divorce/index.md), [Donna Grantis](../../topics/donna-grantis/index.md), [Hannah Welton](../../topics/hannah-welton/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [I Wanna Be Your Lover (song)](../../topics/song/i-wanna-be-your-lover/index.md), [Ingrid Chavez](../../topics/ingrid-chavez/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [Kristin Scott Thomas](../../topics/kristin-scott-thomas/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Martika](../../topics/martika/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Misty Copeland](../../topics/misty-copeland/index.md), [Nasty Girl (song)](../../topics/song/nasty-girl/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Paisley Park Records](../../topics/paisley-park-records/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [Sheena Easton](../../topics/sheena-easton/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stand Back (song)](../../topics/song/stand-back/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md), [Sugar Walls (song)](../../topics/song/sugar-walls/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [The Revolution](../../topics/the-revolution/index.md), [U Got the Look (song)](../../topics/song/u-got-the-look/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [Wendy & Lisa](../../topics/wendy-lisa/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/photos/7348470/prince-female-muses-collaborators-lovers-sheila-e-kim-basinger-more))
 
 <br />
@@ -585,7 +737,7 @@
  - [**"INTERVIEW: Susanna Hoffs of The Bangles"**](https://music.avclub.com/susanna-hoffs-of-the-bangles-1798228045)
     - in [The A.V. Club - Music](../../publications/the-a-v-club-music/index.md)
     - on 11 October 2011
-    - about [Bangles](../../topics/bangles/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md)
+    - about [Bangles](../../topics/bangles/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md)
     - ([mirror](https://web.archive.org/web/*/https://music.avclub.com/susanna-hoffs-of-the-bangles-1798228045))
 
 ----

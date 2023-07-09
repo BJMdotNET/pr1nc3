@@ -196,9 +196,9 @@
 
 ----
 
-## 2016 (4)
+## 2016 (5)
 
-### 2016 April (4)
+### 2016 April (5)
 
  - [**"Dan Bova: What a 9-year-old thinks of 'Purple Rain'"**](https://usatoday.com/story/life/2016/04/27/dan-bovas-prince-tribute/83599176/)
     - in [USA Today](../../../publications/usa-today/index.md)
@@ -224,11 +224,33 @@
 
 <br />
 
+ - [**"Prince, a singular, meticulous master of pop, dies at 57"**](https://www.sfchronicle.com/news/nation-world/nation/article/Prince-a-singular-meticulous-master-of-pop-7294913.php)
+    - by [Jon Pareles](../../../authors/jon-pareles/index.md)
+    - in [San Francisco Chronicle](../../../publications/san-francisco-chronicle/index.md)
+    - on 21 April 2016
+    - about [Albert Magnoli](../../../topics/albert-magnoli/index.md), [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [I Feel For You (song)](../../../topics/song/i-feel-for-you/index.md), [I Wanna Be Your Lover (song)](../../../topics/song/i-wanna-be-your-lover/index.md), [I Would Die 4 U (song)](../../../topics/song/i-would-die-4-u/index.md), [Jim Olson](../../../topics/jim-olson/index.md), [John L. Nelson](../../../topics/john-l-nelson/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Morris Day](../../../topics/morris-day/index.md), [Raspberry Beret (song)](../../../topics/song/raspberry-beret/index.md), [Super Bowl](../../../topics/super-bowl/index.md), [Under the Cherry Moon (movie)](../../../topics/movie/under-the-cherry-moon/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md), [While My Guitar Gently Weeps (song)](../../../topics/song/while-my-guitar-gently-weeps/index.md), [Yvette Noel-Schure](../../../topics/yvette-noel-schure/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.sfchronicle.com/news/nation-world/nation/article/Prince-a-singular-meticulous-master-of-pop-7294913.php))
+
+<br />
+
  - [**"What Prince Taught Me About Love. And Sex. And Time. -- Thirty-five years ago, I heard Prince's voice. Eighteen years later, I was in his presence."**](https://www.esquire.com/entertainment/music/a44221/prince-a-remembrance-dave-holmes/)
     - in [Esquire](../../../publications/esquire/index.md)
     - on 21 April 2016
     - about [Baby I'm a Star (song)](../../../topics/song/baby-i-m-a-star/index.md), [Batdance (song)](../../../topics/song/batdance/index.md), [Darling Nikki (song)](../../../topics/song/darling-nikki/index.md), [George Clinton](../../../topics/george-clinton/index.md), [I Would Die 4 U (song)](../../../topics/song/i-would-die-4-u/index.md), [Kenny Rogers](../../../topics/kenny-rogers/index.md), [Morris Day](../../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Sheena Easton](../../../topics/sheena-easton/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [Vanity 6](../../../topics/vanity-6/index.md), [YouTube](../../../topics/youtube/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.esquire.com/entertainment/music/a44221/prince-a-remembrance-dave-holmes/))
+
+----
+
+## 2015 (1)
+
+### 2015 January (1)
+
+ - [**"30 years ago: Prince holds court at the Summit"**](https://www.sfchronicle.com/local/bayou-city-history/article/30-years-ago-Prince-holds-court-at-the-Summit-6000026.php)
+    - by [J.R. Gonzales](../../../authors/j-r-gonzales/index.md)
+    - in [San Francisco Chronicle](../../../publications/san-francisco-chronicle/index.md)
+    - on 9 January 2015
+    - about [Apollonia](../../../topics/apollonia/index.md), [Apollonia 6](../../../topics/apollonia-6/index.md), [Darling Nikki (song)](../../../topics/song/darling-nikki/index.md), [Delirious (song)](../../../topics/song/delirious/index.md), [I Would Die 4 U (song)](../../../topics/song/i-would-die-4-u/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Prince and The Revolution](../../../topics/prince-and-the-revolution/index.md), [Purple Rain (tour)](../../../topics/tour/purple-rain/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [The Revolution](../../../topics/the-revolution/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.sfchronicle.com/local/bayou-city-history/article/30-years-ago-Prince-holds-court-at-the-Summit-6000026.php))
 
 ----
 

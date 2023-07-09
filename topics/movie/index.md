@@ -8,7 +8,7 @@
   * [Krush Groove (movie)](../movie/krush-groove/index.md) (3)
   * [Purple Rain (movie)](../movie/purple-rain/index.md) (70)
   * [The Dawn (movie)](../movie/the-dawn/index.md) (1)
-  * [Under the Cherry Moon (movie)](../movie/under-the-cherry-moon/index.md) (23)
+  * [Under the Cherry Moon (movie)](../movie/under-the-cherry-moon/index.md) (25)
   * [Wattstax (movie)](../movie/wattstax/index.md) (3)
 
 ----

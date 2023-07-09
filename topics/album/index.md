@@ -48,7 +48,7 @@
   * [Originals (album)](../album/originals/index.md) (45)
   * [Pandemonium (album)](../album/pandemonium/index.md) (2)
   * [Parade (album)](../album/parade/index.md) (18)
-  * [Piano & A Microphone 1983 (album)](../album/piano-a-microphone-1983/index.md) (32)
+  * [Piano & A Microphone 1983 (album)](../album/piano-a-microphone-1983/index.md) (33)
   * [Piano and a Microphone 1983 (album)](../album/piano-and-a-microphone-1983/index.md) (12)
   * [Planet Earth (album)](../album/planet-earth/index.md) (7)
   * [Plectrum Electrum (album)](../album/plectrum-electrum/index.md) (5)

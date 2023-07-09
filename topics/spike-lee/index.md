@@ -116,7 +116,7 @@
 
 ----
 
-## 2016 (4)
+## 2016 (5)
 
 ### 2016 June (1)
 
@@ -128,13 +128,21 @@
 
 ----
 
-### 2016 April (3)
+### 2016 April (4)
 
  - [**"Oprah, Mick Jagger among celebs to react to Prince’s death"**](https://apnews.com/ad3076cbbe69473495debc13e52669c5)
     - in [Associated Press News](../../publications/associated-press-news/index.md)
     - on 22 April 2016
     - about [Albert Magnoli](../../topics/albert-magnoli/index.md), [Grammy Award](../../topics/grammy-award/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Obama](../../topics/obama/index.md), [Rita Ora](../../topics/rita-ora/index.md), [Sony Music](../../topics/sony-music/index.md), [Spike Lee](../../topics/spike-lee/index.md), [Super Bowl](../../topics/super-bowl/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/ad3076cbbe69473495debc13e52669c5))
+
+<br />
+
+ - [**"Celebrities react to death of music legend Prince"**](https://www.chron.com/entertainment/article/Celebrities-react-to-death-of-music-legend-Prince-7287746.php)
+    - in [The Houston Chronicle at Chron.com](../../publications/the-houston-chronicle-at-chron-com/index.md)
+    - on 21 April 2016
+    - about [Atlanta (place)](../../topics/place/atlanta/index.md), [Obama](../../topics/obama/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Spike Lee](../../topics/spike-lee/index.md), [Yvette Noel-Schure](../../topics/yvette-noel-schure/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.chron.com/entertainment/article/Celebrities-react-to-death-of-music-legend-Prince-7287746.php))
 
 <br />
 
