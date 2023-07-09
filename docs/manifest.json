@@ -813,6 +813,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "authors/j-r-gonzales/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/j-r-gonzales/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "authors/jackie-crosby/index.md",
       "output": {
         ".html": {
@@ -1407,6 +1417,16 @@
       "output": {
         ".html": {
           "relative_path": "authors/paul-walsh/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "authors/peter-hartlaub/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/peter-hartlaub/index.html"
         }
       },
       "version": ""
@@ -3530,6 +3550,39 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "publications/boingboing-net/boingboing-net-2023.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/boingboing-net/boingboing-net-2023.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/boingboing-net/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/boingboing-net/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "publications/boingboing-net/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "publications/boingboing-net/toc.html"
+        },
+        ".json": {
+          "relative_path": "publications/boingboing-net/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "publications/bookriot-com/bookriot-com-2020.md",
       "output": {
         ".html": {
@@ -3802,6 +3855,16 @@
       "output": {
         ".html": {
           "relative_path": "publications/cbs-news/cbs-news-2019.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/cbs-news/cbs-news-2023.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/cbs-news/cbs-news-2023.html"
         }
       },
       "version": ""
@@ -4314,6 +4377,59 @@
         },
         ".json": {
           "relative_path": "publications/cuepoint/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/datebook-san-francisco-arts-entertainment-guide/datebook-san-francisco-arts-entertainment-guide-2018.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/datebook-san-francisco-arts-entertainment-guide/datebook-san-francisco-arts-entertainment-guide-2018.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/datebook-san-francisco-arts-entertainment-guide/datebook-san-francisco-arts-entertainment-guide-2022.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/datebook-san-francisco-arts-entertainment-guide/datebook-san-francisco-arts-entertainment-guide-2022.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/datebook-san-francisco-arts-entertainment-guide/datebook-san-francisco-arts-entertainment-guide-2023.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/datebook-san-francisco-arts-entertainment-guide/datebook-san-francisco-arts-entertainment-guide-2023.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/datebook-san-francisco-arts-entertainment-guide/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/datebook-san-francisco-arts-entertainment-guide/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "publications/datebook-san-francisco-arts-entertainment-guide/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "publications/datebook-san-francisco-arts-entertainment-guide/toc.html"
+        },
+        ".json": {
+          "relative_path": "publications/datebook-san-francisco-arts-entertainment-guide/toc.json"
         }
       },
       "version": ""
@@ -6732,6 +6848,39 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "publications/medium-com/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/medium-com/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/medium-com/medium-com-2017.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/medium-com/medium-com-2017.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "publications/medium-com/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "publications/medium-com/toc.html"
+        },
+        ".json": {
+          "relative_path": "publications/medium-com/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "publications/metro-co-uk/index.md",
       "output": {
         ".html": {
@@ -7472,6 +7621,16 @@
       "version": ""
     },
     {
+      "type": "Conceptual",
+      "source_relative_path": "publications/national-public-radio/national-public-radio-2023.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/national-public-radio/national-public-radio-2023.html"
+        }
+      },
+      "version": ""
+    },
+    {
       "type": "Toc",
       "source_relative_path": "publications/national-public-radio/toc.yml",
       "output": {
@@ -7619,6 +7778,16 @@
       "output": {
         ".html": {
           "relative_path": "publications/new-york-post/new-york-post-2021.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/new-york-post/new-york-post-2023.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/new-york-post/new-york-post-2023.html"
         }
       },
       "version": ""
@@ -8250,6 +8419,39 @@
         },
         ".json": {
           "relative_path": "publications/pitchfork/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/planetradio-co-uk/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/planetradio-co-uk/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/planetradio-co-uk/planetradio-co-uk-2023.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/planetradio-co-uk/planetradio-co-uk-2023.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "publications/planetradio-co-uk/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "publications/planetradio-co-uk/toc.html"
+        },
+        ".json": {
+          "relative_path": "publications/planetradio-co-uk/toc.json"
         }
       },
       "version": ""
@@ -9079,6 +9281,39 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "publications/rockcelebrities-net/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/rockcelebrities-net/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/rockcelebrities-net/rockcelebrities-net-2023.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/rockcelebrities-net/rockcelebrities-net-2023.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "publications/rockcelebrities-net/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "publications/rockcelebrities-net/toc.html"
+        },
+        ".json": {
+          "relative_path": "publications/rockcelebrities-net/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "publications/rolling-stone-germany/index.md",
       "output": {
         ".html": {
@@ -9222,6 +9457,89 @@
         },
         ".json": {
           "relative_path": "publications/rollingout-com/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/san-francisco-chronicle/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/san-francisco-chronicle/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/san-francisco-chronicle/san-francisco-chronicle-2015.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/san-francisco-chronicle/san-francisco-chronicle-2015.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/san-francisco-chronicle/san-francisco-chronicle-2016.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/san-francisco-chronicle/san-francisco-chronicle-2016.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/san-francisco-chronicle/san-francisco-chronicle-2017.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/san-francisco-chronicle/san-francisco-chronicle-2017.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/san-francisco-chronicle/san-francisco-chronicle-2018.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/san-francisco-chronicle/san-francisco-chronicle-2018.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/san-francisco-chronicle/san-francisco-chronicle-2019.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/san-francisco-chronicle/san-francisco-chronicle-2019.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/san-francisco-chronicle/san-francisco-chronicle-2023.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/san-francisco-chronicle/san-francisco-chronicle-2023.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "publications/san-francisco-chronicle/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "publications/san-francisco-chronicle/toc.html"
+        },
+        ".json": {
+          "relative_path": "publications/san-francisco-chronicle/toc.json"
         }
       },
       "version": ""
@@ -10494,6 +10812,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "publications/the-houston-chronicle-at-chron-com/the-houston-chronicle-at-chron-com-2016.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/the-houston-chronicle-at-chron-com/the-houston-chronicle-at-chron-com-2016.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "publications/the-houston-chronicle-at-chron-com/the-houston-chronicle-at-chron-com-2019.md",
       "output": {
         ".html": {
@@ -10908,6 +11236,16 @@
       "output": {
         ".html": {
           "relative_path": "publications/the-times/the-times-2019.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/the-times/the-times-2023.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/the-times/the-times-2023.html"
         }
       },
       "version": ""
@@ -13060,6 +13398,39 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "publications/www-cheatsheet-com/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/www-cheatsheet-com/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "publications/www-cheatsheet-com/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "publications/www-cheatsheet-com/toc.html"
+        },
+        ".json": {
+          "relative_path": "publications/www-cheatsheet-com/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/www-cheatsheet-com/www-cheatsheet-com-2022.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/www-cheatsheet-com/www-cheatsheet-com-2022.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "publications/www-chicagoreader-com/index.md",
       "output": {
         ".html": {
@@ -13829,6 +14200,39 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "publications/www-lamag-com/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/www-lamag-com/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "publications/www-lamag-com/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "publications/www-lamag-com/toc.html"
+        },
+        ".json": {
+          "relative_path": "publications/www-lamag-com/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/www-lamag-com/www-lamag-com-2023.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/www-lamag-com/www-lamag-com-2023.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "publications/www-lepoint-fr/index.md",
       "output": {
         ".html": {
@@ -14126,6 +14530,39 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "publications/www-mirror-co-uk/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/www-mirror-co-uk/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "publications/www-mirror-co-uk/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "publications/www-mirror-co-uk/toc.html"
+        },
+        ".json": {
+          "relative_path": "publications/www-mirror-co-uk/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/www-mirror-co-uk/www-mirror-co-uk-2023.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/www-mirror-co-uk/www-mirror-co-uk-2023.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "publications/www-morgenpost-de/index.md",
       "output": {
         ".html": {
@@ -14219,6 +14656,39 @@
       "output": {
         ".html": {
           "relative_path": "publications/www-newportbeachindy-com/www-newportbeachindy-com-2020.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/www-nextavenue-org/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/www-nextavenue-org/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "publications/www-nextavenue-org/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "publications/www-nextavenue-org/toc.html"
+        },
+        ".json": {
+          "relative_path": "publications/www-nextavenue-org/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/www-nextavenue-org/www-nextavenue-org-2023.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/www-nextavenue-org/www-nextavenue-org-2023.html"
         }
       },
       "version": ""
@@ -14621,6 +15091,39 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "publications/www-sfgate-com/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/www-sfgate-com/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "publications/www-sfgate-com/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "publications/www-sfgate-com/toc.html"
+        },
+        ".json": {
+          "relative_path": "publications/www-sfgate-com/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/www-sfgate-com/www-sfgate-com-2018.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/www-sfgate-com/www-sfgate-com-2018.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "publications/www-sheknows-com/index.md",
       "output": {
         ".html": {
@@ -14852,6 +15355,39 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "publications/www-sundaypost-com/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/www-sundaypost-com/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "publications/www-sundaypost-com/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "publications/www-sundaypost-com/toc.html"
+        },
+        ".json": {
+          "relative_path": "publications/www-sundaypost-com/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/www-sundaypost-com/www-sundaypost-com-2023.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/www-sundaypost-com/www-sundaypost-com-2023.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "publications/www-tcdailyplanet-net/index.md",
       "output": {
         ".html": {
@@ -15044,6 +15580,39 @@
       "output": {
         ".html": {
           "relative_path": "publications/www-timeout-com/www-timeout-com-2012.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/www-tortoisemedia-com/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/www-tortoisemedia-com/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "publications/www-tortoisemedia-com/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "publications/www-tortoisemedia-com/toc.html"
+        },
+        ".json": {
+          "relative_path": "publications/www-tortoisemedia-com/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/www-tortoisemedia-com/www-tortoisemedia-com-2023.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/www-tortoisemedia-com/www-tortoisemedia-com-2023.html"
         }
       },
       "version": ""
@@ -15394,6 +15963,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "publications/youtube/youtube-2023.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/youtube/youtube-2023.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "publications/zapproved/index.md",
       "output": {
         ".html": {
@@ -15494,6 +16073,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/94-east/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/a-celebration-of-prince-with-purple-pam/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/a-celebration-of-prince-with-purple-pam/index.html"
         }
       },
       "version": ""
@@ -16950,6 +17539,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/bill-graham/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/bill-graham/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/billy-gibbons/index.md",
       "output": {
         ".html": {
@@ -17090,6 +17689,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/book/dickens-and-prince-a-particular-kind-of-genius/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/book/dickens-and-prince-a-particular-kind-of-genius/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/book/dickens-and-prince/index.md",
       "output": {
         ".html": {
@@ -17154,6 +17763,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/book/my-name-is-prince-25-inspired-years/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/book/my-pinup-a-paean-to-prince/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/book/my-pinup-a-paean-to-prince/index.html"
         }
       },
       "version": ""
@@ -17810,6 +18429,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/christine-stein/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/christine-stein/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/christopher-fuller/index.md",
       "output": {
         ".html": {
@@ -17824,6 +18453,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/christopher-reeve/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/christopher/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/christopher/index.html"
         }
       },
       "version": ""
@@ -18064,6 +18703,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/damon-dickson/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/dan-goddard/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/dan-goddard/index.html"
         }
       },
       "version": ""
@@ -19290,6 +19939,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/fred-larson/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/fred-larson/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/fred-moulterie/index.md",
       "output": {
         ".html": {
@@ -19780,6 +20439,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/herb-caen/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/herb-caen/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/herb-ritts/index.md",
       "output": {
         ".html": {
@@ -19794,6 +20463,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/heritage-auctions/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/hilton-als/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/hilton-als/index.html"
         }
       },
       "version": ""
@@ -20480,6 +21159,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/joel-selvin/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/joel-selvin/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/joel-wachs/index.md",
       "output": {
         ".html": {
@@ -21034,6 +21723,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/kristen-zschomler/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/kristin-scott-thomas/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/kristin-scott-thomas/index.html"
         }
       },
       "version": ""
@@ -21690,6 +22389,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/mark-arias/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/mark-arias/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/mark-brown/index.md",
       "output": {
         ".html": {
@@ -21724,6 +22433,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/mark-schindele/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/mark-z-barabak/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/mark-z-barabak/index.html"
         }
       },
       "version": ""
@@ -22700,6 +23419,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/newspaper/los-angeles-times/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/newspaper/los-angeles-times/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/newspaper/mail-on-sunday/index.md",
       "output": {
         ".html": {
@@ -22970,6 +23699,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/paisley-park-after-dark/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/paisley-park-after-dark/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/paisley-park-enterprises/index.md",
       "output": {
         ".html": {
@@ -22984,6 +23723,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/paisley-park-records/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/pam-the-funkstress/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/pam-the-funkstress/index.html"
         }
       },
       "version": ""
@@ -23310,6 +24059,26 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/place/1015-folsom/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/place/1015-folsom/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/place/alamodome/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/place/alamodome/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/place/aldrich-av-s/index.md",
       "output": {
         ".html": {
@@ -23354,6 +24123,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/place/audubon-road/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/place/austin-highway/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/place/austin-highway/index.html"
         }
       },
       "version": ""
@@ -23530,10 +24309,30 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/place/citrus-heights/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/place/citrus-heights/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/place/club-nokia/index.md",
       "output": {
         ".html": {
           "relative_path": "topics/place/club-nokia/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/place/compaq-center/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/place/compaq-center/index.html"
         }
       },
       "version": ""
@@ -23560,10 +24359,30 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/place/cow-palace/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/place/cow-palace/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/place/dakota/index.md",
       "output": {
         ".html": {
           "relative_path": "topics/place/dakota/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/place/daly-city/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/place/daly-city/index.html"
         }
       },
       "version": ""
@@ -23690,6 +24509,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/place/four-seasons-clift/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/place/four-seasons-clift/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/place/fox-theatre/index.md",
       "output": {
         ".html": {
@@ -23714,6 +24543,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/place/france-avenue/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/place/frank-erwin-center/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/place/frank-erwin-center/index.html"
         }
       },
       "version": ""
@@ -23760,6 +24599,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/place/great-american-music-hall/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/place/great-american-music-hall/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/place/hawaii/index.md",
       "output": {
         ".html": {
@@ -23770,10 +24619,30 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/place/hemisfair-arena/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/place/hemisfair-arena/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/place/hennepin-county/index.md",
       "output": {
         ".html": {
           "relative_path": "topics/place/hennepin-county/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/place/hollywood-cafe/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/place/hollywood-cafe/index.html"
         }
       },
       "version": ""
@@ -23914,6 +24783,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/place/louisiana-superdome/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/place/majestic-theatre/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/place/majestic-theatre/index.html"
         }
       },
       "version": ""
@@ -24200,6 +25079,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/place/rocky-s-nightclub/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/place/rocky-s-nightclub/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/place/roxy/index.md",
       "output": {
         ".html": {
@@ -24224,6 +25113,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/place/sausalito/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/place/sbc-center/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/place/sbc-center/index.html"
         }
       },
       "version": ""
@@ -24384,6 +25283,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/place/the-ritz/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/place/the-stone/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/place/the-stone/index.html"
         }
       },
       "version": ""
@@ -25010,6 +25919,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/robert-hilburn/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/robert-hilburn/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/robert-strauss/index.md",
       "output": {
         ".html": {
@@ -25134,6 +26053,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/ron-scofield/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/ron-young/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/ron-young/index.html"
         }
       },
       "version": ""
