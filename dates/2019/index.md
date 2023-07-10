@@ -2380,6 +2380,7 @@
 ----
 
  - [**"PREVIEW: Donna Grantis At The Dakota Jazz Club, 9/24"**](https://twincitiesarts.com/2019/09/17/preview-donna-gratis-dakota-jazz-club/)
+    - by [Brian Bix](../../authors/brian-bix/index.md)
     - in [twincitiesarts.com](../../publications/twincitiesarts-com/index.md)
     - on 17 September 2019
     - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Dakota (place)](../../topics/place/dakota/index.md), [Donna Grantis](../../topics/donna-grantis/index.md), [Hannah Welton](../../topics/hannah-welton/index.md), [Miles Davis](../../topics/miles-davis/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Toronto (place)](../../topics/place/toronto/index.md)
@@ -4283,7 +4284,7 @@
 
 ----
 
-## April 2019 (36)
+## April 2019 (37)
 
  - [**"Two veteran Minnesota bands earn their First Avenue stars (one a do-over)"**](https://www.startribune.com/two-veteran-minnesota-bands-earn-their-first-avenue-stars-one-a-do-over/509260572/)
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
@@ -4522,6 +4523,15 @@
     - on 19 April 2019
     - about [AXS TV](../../topics/axs-tv/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Slave Trade: How Prince Re-Made the Music Business (documentary)](../../topics/documentary/slave-trade-how-prince-re-made-the-music-business/index.md), [WCCO](../../topics/wcco/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/tv-picks-for-april-20-21-ramy-prince-motown-60-a-grammy-celebration/508806472/))
+
+----
+
+ - [**"Kristin Scott Thomas: “You forget how much it hurts”"**](https://the-talks.com/interview/kristin-scott-thomas/)
+    - by [Kaleem Aftab](../../authors/kaleem-aftab/index.md)
+    - in [the-talks.com](../../publications/the-talks-com/index.md)
+    - on 18 April 2019
+    - about [Better With Time (song)](../../topics/song/better-with-time/index.md), [Kristin Scott Thomas](../../topics/kristin-scott-thomas/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://the-talks.com/interview/kristin-scott-thomas/))
 
 ----
 

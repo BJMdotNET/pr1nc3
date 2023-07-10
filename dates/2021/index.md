@@ -58,7 +58,7 @@
 
 ----
 
-## October 2021 (5)
+## October 2021 (6)
 
  - [**"1999: Why Prince’s Visionary Album Still Sounds Like The Future -- With his '1999' album, Prince perfected the ‘Minneapolis sound’: a futuristic pop-funk concoction the world has yet to catch up with."**](https://www.thisisdig.com/feature/1999-album-prince/)
     - by [Jason Draper](../../authors/jason-draper/index.md)
@@ -90,6 +90,15 @@
     - on 25 October 2021
     - about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Smithsonian (place)](../../topics/place/smithsonian/index.md), [The Black Album (album)](../../topics/album/the-black-album/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/espectaculos-8e60df3c9df2d7a38992e6e5b001e46d))
+
+----
+
+ - [**"How Kristin Scott Thomas inspired a classic Prince song"**](https://faroutmagazine.co.uk/how-kristin-scott-thomas-inspired-a-classic-prince-song/)
+    - by [Joe Taysom](../../authors/joe-taysom/index.md)
+    - in [Far Out Magazine](../../publications/far-out-magazine/index.md)
+    - on 7 October 2021
+    - about [Better With Time (song)](../../topics/song/better-with-time/index.md), [Golden Raspberry Awards](../../topics/golden-raspberry-awards/index.md), [Kristin Scott Thomas](../../topics/kristin-scott-thomas/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md), [Worst Director (award)](../../topics/award/worst-director/index.md), [Worst New Star (award)](../../topics/award/worst-new-star/index.md), [Worst Picture (award)](../../topics/award/worst-picture/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://faroutmagazine.co.uk/how-kristin-scott-thomas-inspired-a-classic-prince-song/))
 
 ----
 

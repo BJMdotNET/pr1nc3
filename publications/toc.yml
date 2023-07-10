@@ -311,6 +311,9 @@ items:
 - name: Las Vegas Review-Journal
   href: las-vegas-review-journal/index.md
   homepage: las-vegas-review-journal/index.md
+- name: latimesblogs.latimes.com
+  href: latimesblogs-latimes-com/index.md
+  homepage: latimesblogs-latimes-com/index.md
 - name: LCI
   href: lci/index.md
   homepage: lci/index.md
@@ -329,6 +332,9 @@ items:
 - name: Los Angeles Times
   href: los-angeles-times/index.md
   homepage: los-angeles-times/index.md
+- name: loudwire.com
+  href: loudwire-com/index.md
+  homepage: loudwire-com/index.md
 - name: Lynn Goldsmith on Facebook
   href: lynn-goldsmith-on-facebook/index.md
   homepage: lynn-goldsmith-on-facebook/index.md
@@ -431,6 +437,9 @@ items:
 - name: NME (New Musical Express)
   href: nme-new-musical-express/index.md
   homepage: nme-new-musical-express/index.md
+- name: Numéro
+  href: num-ro/index.md
+  homepage: num-ro/index.md
 - name: obergh.net
   href: obergh-net/index.md
   homepage: obergh-net/index.md
@@ -710,6 +719,9 @@ items:
 - name: thesource.com
   href: thesource-com/index.md
   homepage: thesource-com/index.md
+- name: the-talks.com
+  href: the-talks-com/index.md
+  homepage: the-talks-com/index.md
 - name: TIME
   href: time/index.md
   homepage: time/index.md
@@ -863,6 +875,9 @@ items:
 - name: www.ebony.com
   href: www-ebony-com/index.md
   homepage: www-ebony-com/index.md
+- name: www.europe1.fr
+  href: www-europe1-fr/index.md
+  homepage: www-europe1-fr/index.md
 - name: www.france24.com
   href: www-france24-com/index.md
   homepage: www-france24-com/index.md
@@ -911,6 +926,9 @@ items:
 - name: www.lamag.com
   href: www-lamag-com/index.md
   homepage: www-lamag-com/index.md
+- name: www.leparisien.fr
+  href: www-leparisien-fr/index.md
+  homepage: www-leparisien-fr/index.md
 - name: www.lepoint.fr
   href: www-lepoint-fr/index.md
   homepage: www-lepoint-fr/index.md
@@ -1031,6 +1049,9 @@ items:
 - name: www.thestar.com
   href: www-thestar-com/index.md
   homepage: www-thestar-com/index.md
+- name: www.thethings.com
+  href: www-thethings-com/index.md
+  homepage: www-thethings-com/index.md
 - name: www.timeout.com
   href: www-timeout-com/index.md
   homepage: www-timeout-com/index.md

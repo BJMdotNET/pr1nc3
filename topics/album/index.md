@@ -37,7 +37,7 @@
   * [Love Symbol (album)](../album/love-symbol/index.md) (12)
   * [Lovesexy (album)](../album/lovesexy/index.md) (9)
   * [Margie's Little Demo (album)](../album/margie-s-little-demo/index.md) (2)
-  * [MPLSoUND (album)](../album/mplsound/index.md) (5)
+  * [MPLSoUND (album)](../album/mplsound/index.md) (6)
   * [Musicology (album)](../album/musicology/index.md) (6)
   * [Newpower Soul (album)](../album/newpower-soul/index.md) (1)
   * [One Nite Alone (album)](../album/one-nite-alone/index.md) (12)

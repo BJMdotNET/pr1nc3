@@ -302,6 +302,9 @@ items:
 - name: Ava DuVernay
   href: ava-duvernay/index.md
   homepage: ava-duvernay/index.md
+- name: award
+  href: award/index.md
+  homepage: award/index.md
 - name: AXS TV
   href: axs-tv/index.md
   homepage: axs-tv/index.md
@@ -365,6 +368,9 @@ items:
 - name: BET Awards
   href: bet-awards/index.md
   homepage: bet-awards/index.md
+- name: Better With Time (song)
+  href: song/better-with-time/index.md
+  homepage: song/better-with-time/index.md
 - name: Beyoncé
   href: beyonc/index.md
   homepage: beyonc/index.md
@@ -1331,6 +1337,9 @@ items:
 - name: Free Urself (song)
   href: song/free-urself/index.md
   homepage: song/free-urself/index.md
+- name: French Riviera (place)
+  href: place/french-riviera/index.md
+  homepage: place/french-riviera/index.md
 - name: Gabriel Solomon Wilson
   href: gabriel-solomon-wilson/index.md
   homepage: gabriel-solomon-wilson/index.md
@@ -2309,6 +2318,12 @@ items:
 - name: Mary Don’t You Weep (song)
   href: song/mary-don-t-you-weep/index.md
   homepage: song/mary-don-t-you-weep/index.md
+- name: Mary Sharon
+  href: mary-sharon/index.md
+  homepage: mary-sharon/index.md
+- name: master recordings
+  href: master-recordings/index.md
+  homepage: master-recordings/index.md
 - name: Matt “Dr. Fink” Fink
   href: matt-dr-fink-fink/index.md
   homepage: matt-dr-fink-fink/index.md
@@ -2378,6 +2393,9 @@ items:
 - name: Michael Bland
   href: michael-bland/index.md
   homepage: michael-bland/index.md
+- name: Michael Fuchs
+  href: michael-fuchs/index.md
+  homepage: michael-fuchs/index.md
 - name: Michael Howe
   href: michael-howe/index.md
   homepage: michael-howe/index.md
@@ -2786,6 +2804,12 @@ items:
 - name: Owen Husney
   href: owen-husney/index.md
   homepage: owen-husney/index.md
+- name: ownership of the masters
+  href: ownership-of-the-masters/index.md
+  homepage: ownership-of-the-masters/index.md
+- name: ownership rights
+  href: ownership-rights/index.md
+  homepage: ownership-rights/index.md
 - name: oxycodone
   href: oxycodone/index.md
   homepage: oxycodone/index.md
@@ -3152,6 +3176,9 @@ items:
 - name: Record Plant
   href: record-plant/index.md
   homepage: record-plant/index.md
+- name: recording contract
+  href: recording-contract/index.md
+  homepage: recording-contract/index.md
 - name: Recording Industry Association of America
   href: recording-industry-association-of-america/index.md
   homepage: recording-industry-association-of-america/index.md
@@ -3290,6 +3317,9 @@ items:
 - name: royalties
   href: royalties/index.md
   homepage: royalties/index.md
+- name: royalty advance
+  href: royalty-advance/index.md
+  homepage: royalty-advance/index.md
 - name: Rufus
   href: rufus/index.md
   homepage: rufus/index.md
@@ -4148,9 +4178,21 @@ items:
 - name: World Party
   href: world-party/index.md
   homepage: world-party/index.md
-- name: Worst Film
-  href: worst-film/index.md
-  homepage: worst-film/index.md
+- name: Worst Actor (award)
+  href: award/worst-actor/index.md
+  homepage: award/worst-actor/index.md
+- name: Worst Director (award)
+  href: award/worst-director/index.md
+  homepage: award/worst-director/index.md
+- name: Worst Film (award)
+  href: award/worst-film/index.md
+  homepage: award/worst-film/index.md
+- name: Worst New Star (award)
+  href: award/worst-new-star/index.md
+  homepage: award/worst-new-star/index.md
+- name: Worst Picture (award)
+  href: award/worst-picture/index.md
+  homepage: award/worst-picture/index.md
 - name: Xcel Energy Center (place)
   href: place/xcel-energy-center/index.md
   homepage: place/xcel-energy-center/index.md
