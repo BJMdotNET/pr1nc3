@@ -33,6 +33,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "authors/alain-grasset/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/alain-grasset/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "authors/alex-hahn/index.md",
       "output": {
         ".html": {
@@ -107,6 +117,16 @@
       "output": {
         ".html": {
           "relative_path": "authors/ann-derrick-gaillot/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "authors/ann-powers/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/ann-powers/index.html"
         }
       },
       "version": ""
@@ -423,6 +443,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "authors/brian-bix/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/brian-bix/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "authors/brian-truitt/index.md",
       "output": {
         ".html": {
@@ -467,6 +497,16 @@
       "output": {
         ".html": {
           "relative_path": "authors/cameron-adams/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "authors/camille-dodero/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/camille-dodero/index.html"
         }
       },
       "version": ""
@@ -527,6 +567,16 @@
       "output": {
         ".html": {
           "relative_path": "authors/christopher-dilella/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "authors/chuck-philips/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/chuck-philips/index.html"
         }
       },
       "version": ""
@@ -597,6 +647,16 @@
       "output": {
         ".html": {
           "relative_path": "authors/daniel-griffiths/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "authors/david-cavanagh/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/david-cavanagh/index.html"
         }
       },
       "version": ""
@@ -787,6 +847,16 @@
       "output": {
         ".html": {
           "relative_path": "authors/graeme-watson/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "authors/graham-hartmann/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/graham-hartmann/index.html"
         }
       },
       "version": ""
@@ -1053,6 +1123,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "authors/kaleem-aftab/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/kaleem-aftab/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "authors/karen-zamora/index.md",
       "output": {
         ".html": {
@@ -1263,6 +1343,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "authors/matthew-chernov/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/matthew-chernov/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "authors/maya-rao/index.md",
       "output": {
         ".html": {
@@ -1297,6 +1387,16 @@
       "output": {
         ".html": {
           "relative_path": "authors/michael-rand/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "authors/mick-lasalle/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/mick-lasalle/index.html"
         }
       },
       "version": ""
@@ -1427,6 +1527,16 @@
       "output": {
         ".html": {
           "relative_path": "authors/peter-hartlaub/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "authors/philip-utz/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/philip-utz/index.html"
         }
       },
       "version": ""
@@ -1607,6 +1717,16 @@
       "output": {
         ".html": {
           "relative_path": "authors/spin-staff/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "authors/stefania-sarrubba/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/stefania-sarrubba/index.html"
         }
       },
       "version": ""
@@ -5249,6 +5369,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "publications/far-out-magazine/far-out-magazine-2021.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/far-out-magazine/far-out-magazine-2021.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "publications/far-out-magazine/far-out-magazine-2023.md",
       "output": {
         ".html": {
@@ -6435,6 +6565,39 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "publications/latimesblogs-latimes-com/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/latimesblogs-latimes-com/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/latimesblogs-latimes-com/latimesblogs-latimes-com-2009.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/latimesblogs-latimes-com/latimesblogs-latimes-com-2009.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "publications/latimesblogs-latimes-com/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "publications/latimesblogs-latimes-com/toc.html"
+        },
+        ".json": {
+          "relative_path": "publications/latimesblogs-latimes-com/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "publications/lci/index.md",
       "output": {
         ".html": {
@@ -6650,6 +6813,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "publications/los-angeles-times/los-angeles-times-1996.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/los-angeles-times/los-angeles-times-1996.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "publications/los-angeles-times/los-angeles-times-2019.md",
       "output": {
         ".html": {
@@ -6677,6 +6850,39 @@
         },
         ".json": {
           "relative_path": "publications/los-angeles-times/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/loudwire-com/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/loudwire-com/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/loudwire-com/loudwire-com-2012.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/loudwire-com/loudwire-com-2012.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "publications/loudwire-com/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "publications/loudwire-com/toc.html"
+        },
+        ".json": {
+          "relative_path": "publications/loudwire-com/toc.json"
         }
       },
       "version": ""
@@ -8026,6 +8232,39 @@
         },
         ".json": {
           "relative_path": "publications/nme-new-musical-express/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/num-ro/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/num-ro/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/num-ro/num-ro-2020.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/num-ro/num-ro-2020.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "publications/num-ro/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "publications/num-ro/toc.html"
+        },
+        ".json": {
+          "relative_path": "publications/num-ro/toc.json"
         }
       },
       "version": ""
@@ -11179,6 +11418,39 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "publications/the-talks-com/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/the-talks-com/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/the-talks-com/the-talks-com-2019.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/the-talks-com/the-talks-com-2019.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "publications/the-talks-com/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "publications/the-talks-com/toc.html"
+        },
+        ".json": {
+          "relative_path": "publications/the-talks-com/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "publications/the-telegraph/index.md",
       "output": {
         ".html": {
@@ -13695,6 +13967,39 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "publications/www-europe1-fr/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/www-europe1-fr/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "publications/www-europe1-fr/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "publications/www-europe1-fr/toc.html"
+        },
+        ".json": {
+          "relative_path": "publications/www-europe1-fr/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/www-europe1-fr/www-europe1-fr-2016.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/www-europe1-fr/www-europe1-fr-2016.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "publications/www-france24-com/index.md",
       "output": {
         ".html": {
@@ -14227,6 +14532,39 @@
       "output": {
         ".html": {
           "relative_path": "publications/www-lamag-com/www-lamag-com-2023.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/www-leparisien-fr/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/www-leparisien-fr/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "publications/www-leparisien-fr/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "publications/www-leparisien-fr/toc.html"
+        },
+        ".json": {
+          "relative_path": "publications/www-leparisien-fr/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/www-leparisien-fr/www-leparisien-fr-2016.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/www-leparisien-fr/www-leparisien-fr-2016.html"
         }
       },
       "version": ""
@@ -15547,6 +15885,39 @@
       "output": {
         ".html": {
           "relative_path": "publications/www-thestar-com/www-thestar-com-2019.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/www-thethings-com/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/www-thethings-com/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "publications/www-thethings-com/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "publications/www-thethings-com/toc.html"
+        },
+        ".json": {
+          "relative_path": "publications/www-thethings-com/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/www-thethings-com/www-thethings-com-2020.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/www-thethings-com/www-thethings-com-2020.html"
         }
       },
       "version": ""
@@ -17393,6 +17764,66 @@
       "output": {
         ".html": {
           "relative_path": "topics/ava-duvernay/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/award/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/award/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/award/worst-actor/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/award/worst-actor/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/award/worst-director/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/award/worst-director/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/award/worst-film/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/award/worst-film/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/award/worst-new-star/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/award/worst-new-star/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/award/worst-picture/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/award/worst-picture/index.html"
         }
       },
       "version": ""
@@ -22509,6 +22940,26 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/mary-sharon/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/mary-sharon/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/master-recordings/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/master-recordings/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/matt-dr-fink-fink/index.md",
       "output": {
         ".html": {
@@ -22723,6 +23174,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/michael-bland/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/michael-fuchs/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/michael-fuchs/index.html"
         }
       },
       "version": ""
@@ -23689,6 +24150,26 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/ownership-of-the-masters/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/ownership-of-the-masters/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/ownership-rights/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/ownership-rights/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/oxycodone/index.md",
       "output": {
         ".html": {
@@ -24553,6 +25034,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/place/frank-erwin-center/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/place/french-riviera/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/place/french-riviera/index.html"
         }
       },
       "version": ""
@@ -25739,6 +26230,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/recording-contract/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/recording-contract/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/recording-industry-association-of-america/index.md",
       "output": {
         ".html": {
@@ -26103,6 +26604,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/royalties/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/royalty-advance/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/royalty-advance/index.html"
         }
       },
       "version": ""
@@ -26533,6 +27044,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/song/batdance/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/song/better-with-time/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/song/better-with-time/index.html"
         }
       },
       "version": ""
@@ -29746,16 +30267,6 @@
       "output": {
         ".html": {
           "relative_path": "topics/world-party/index.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "topics/worst-film/index.md",
-      "output": {
-        ".html": {
-          "relative_path": "topics/worst-film/index.html"
         }
       },
       "version": ""
