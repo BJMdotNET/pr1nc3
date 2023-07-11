@@ -176,15 +176,23 @@
 
 ----
 
-## 2018 (13)
+## 2018 (14)
 
-### 2018 December (1)
+### 2018 December (2)
 
  - [**"Movie Inspired by Prince’s Music in the Works at Universal (EXCLUSIVE)"**](https://variety.com/2018/film/news/universal-original-movie-inspired-by-princes-music-1203067739/)
     - in [Variety](../../publications/variety/index.md)
     - on 3 December 2018
     - about [Academy Award](../../topics/academy-award/index.md), [Grammy Award](../../topics/grammy-award/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Troy Carter](../../topics/troy-carter/index.md), [Universal Music Publishing Group](../../topics/universal-music-publishing-group/index.md), [Universal Pictures](../../topics/universal-pictures/index.md)
     - ([mirror](https://web.archive.org/web/*/https://variety.com/2018/film/news/universal-original-movie-inspired-by-princes-music-1203067739/))
+
+<br />
+
+ - [**"Movie Musical With Prince Songs in the Works -- The film will not be a biopic, but will use songs from the Grammy winner's extensive songbook to drive the narrative."**](https://playbill.com/article/movie-musical-with-prince-songs-in-the-works)
+    - in [playbill.com](../../publications/playbill-com/index.md)
+    - on 3 December 2018
+    - about [Broadway (place)](../../topics/place/broadway/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [Henry David Hwang](../../topics/henry-david-hwang/index.md), [Jody Gerson](../../topics/jody-gerson/index.md), [L. Londell McMillan](../../topics/l-londell-mcmillan/index.md), [movie musical](../../topics/movie-musical/index.md), [musical](../../topics/musical/index.md), [Troy Carter](../../topics/troy-carter/index.md), [Universal Music Publishing Group](../../topics/universal-music-publishing-group/index.md), [Universal Pictures](../../topics/universal-pictures/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://playbill.com/article/movie-musical-with-prince-songs-in-the-works))
 
 ----
 

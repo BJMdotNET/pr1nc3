@@ -20,9 +20,9 @@
 
 ----
 
-## 2016 (8)
+## 2016 (9)
 
-### 2016 April (8)
+### 2016 April (9)
 
  - [**"Investigation into Prince's death now is a criminal probe -- The Carver County Sheriff's Office cited an exception to Minnesota public records laws allowing the suppression of information relating to preparing a case "for the commission of a crime.""**](https://www.startribune.com/carver-county-judge-seals-search-warrants-in-prince-death-investigation/377456111/)
     - by [David Chanen](../../authors/david-chanen/index.md)
@@ -63,6 +63,15 @@
     - on 23 April 2016
     - about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Jim Olson](../../topics/jim-olson/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Sheila E.](../../topics/sheila-e/index.md), [TMZ (website)](../../topics/website/tmz/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/81d16b3992844f72a514e64cdae77c30))
+
+<br />
+
+ - [**"Prince: global rock star, musical genius, cultural icon — and a good neighbor -- An anonymous note left outside Paisley Park is showing another side of the legend."**](https://www.startribune.com/prince-global-rock-star-musical-genius-cultural-icon-and-a-good-neighbor/376848181/)
+    - by [Colleen Kelly](../../authors/colleen-kelly/index.md)
+    - in [Minneapolis Star Tribune](../../publications/minneapolis-star-tribune/index.md)
+    - on 23 April 2016
+    - about [Carver County](../../topics/carver-county/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [Jim Olson](../../topics/jim-olson/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md), [Van Jones](../../topics/van-jones/index.md), [YesWeCode](../../topics/yeswecode/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-global-rock-star-musical-genius-cultural-icon-and-a-good-neighbor/376848181/))
 
 <br />
 

@@ -1136,7 +1136,7 @@
 
 ----
 
-## June 2016 (72)
+## June 2016 (74)
 
  - [**"Bloomington guitar-maker's link to Prince passes to Colts owner -- Jim Irsay, owner of the Indianapolis Colts, collects famous guitars. Last week, he paid $137,500 in an auction to buy a guitar that at least looks a lot like the yellow version of Prince's "Cloud" guitar."**](https://www.startribune.com/bloomington-guitar-maker-s-link-to-prince-passes-to-colts-owner/385127861/)
     - in [Minneapolis Star Tribune](../../publications/minneapolis-star-tribune/index.md)
@@ -1390,11 +1390,27 @@
 
 ----
 
+ - [**"Songs from Prince’s Catalogue May Form Score of Broadway Musical -- The late artist had supplied one song for the Broadway musical Uptown...It's Hot!"**](https://www.playbill.com/article/songs-from-princes-catalogue-may-form-score-of-broadway-musical)
+    - in [www.playbill.com](../../publications/www-playbill-com/index.md)
+    - on 20 June 2016
+    - about [Broadway (place)](../../topics/place/broadway/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [Henry David Hwang](../../topics/henry-david-hwang/index.md), [L. Londell McMillan](../../topics/l-londell-mcmillan/index.md), [movie musical](../../topics/movie-musical/index.md), [musical](../../topics/musical/index.md), [New York (place)](../../topics/place/new-york/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.playbill.com/article/songs-from-princes-catalogue-may-form-score-of-broadway-musical))
+
+----
+
  - [**"Manager of Prince's Mpls. nightspot in '90s is found dead in Minnetonka home -- Emergency dispatch traffic indicated that Paul Pudlitzke had been using illicit drugs the previous night."**](https://www.startribune.com/manager-of-prince-s-mpls-nightspot-in-90s-is-found-dead-in-minnetonka-home/383550761/)
     - by [Paul Walsh](../../authors/paul-walsh/index.md)
     - in [Minneapolis Star Tribune](../../publications/minneapolis-star-tribune/index.md)
     - on 19 June 2016
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/manager-of-prince-s-mpls-nightspot-in-90s-is-found-dead-in-minnetonka-home/383550761/))
+
+----
+
+ - [**"Prince’s ‘vaults of music’ may soon be released"**](https://pagesix.com/2016/06/19/princes-vaults-of-music-may-soon-be-released/)
+    - in [pagesix.com](../../publications/pagesix-com/index.md)
+    - on 19 June 2016
+    - about [Bremer Trust](../../topics/bremer-trust/index.md), [Broadway (place)](../../topics/place/broadway/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [L. Londell McMillan](../../topics/l-londell-mcmillan/index.md), [musical](../../topics/musical/index.md), [vault](../../topics/vault/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://pagesix.com/2016/06/19/princes-vaults-of-music-may-soon-be-released/))
 
 ----
 
@@ -3024,6 +3040,7 @@
     - by [Colleen Kelly](../../authors/colleen-kelly/index.md)
     - in [Minneapolis Star Tribune](../../publications/minneapolis-star-tribune/index.md)
     - on 23 April 2016
+    - about [Carver County](../../topics/carver-county/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [Jim Olson](../../topics/jim-olson/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md), [Van Jones](../../topics/van-jones/index.md), [YesWeCode](../../topics/yeswecode/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-global-rock-star-musical-genius-cultural-icon-and-a-good-neighbor/376848181/))
 
 ----

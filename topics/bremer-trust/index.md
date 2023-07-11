@@ -93,7 +93,7 @@
 
 ----
 
-## 2016 (55)
+## 2016 (56)
 
 ### 2016 December (2)
 
@@ -310,7 +310,7 @@
 
 ----
 
-### 2016 June (9)
+### 2016 June (10)
 
  - [**"Judge says no hurry in determining Prince claims"**](https://apnews.com/9aed6516c0bf48d28349462372cdec58)
     - in [Associated Press News](../../publications/associated-press-news/index.md)
@@ -334,6 +334,14 @@
     - on 21 June 2016
     - about [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/7e844fbac2e1494aba98260e58389710))
+
+<br />
+
+ - [**"Prince’s ‘vaults of music’ may soon be released"**](https://pagesix.com/2016/06/19/princes-vaults-of-music-may-soon-be-released/)
+    - in [pagesix.com](../../publications/pagesix-com/index.md)
+    - on 19 June 2016
+    - about [Bremer Trust](../../topics/bremer-trust/index.md), [Broadway (place)](../../topics/place/broadway/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [L. Londell McMillan](../../topics/l-londell-mcmillan/index.md), [musical](../../topics/musical/index.md), [vault](../../topics/vault/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://pagesix.com/2016/06/19/princes-vaults-of-music-may-soon-be-released/))
 
 <br />
 

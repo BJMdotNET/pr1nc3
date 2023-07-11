@@ -521,7 +521,7 @@
 
 ----
 
-## 2016 (59)
+## 2016 (60)
 
 ### 2016 December (1)
 
@@ -870,7 +870,7 @@
 
 ----
 
-### 2016 April (18)
+### 2016 April (19)
 
  - [**"APNewsBreak: Investigators look at overdose in Prince death"**](https://www.startribune.com/apnewsbreak-investigators-look-at-overdose-in-prince-death/377540691/)
     - by [Amy Forliti (Associated Press)](../../authors/associated-press/amy-forliti/index.md)
@@ -960,6 +960,15 @@
     - on 23 April 2016
     - about [airport](../../topics/airport/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Dakota (place)](../../topics/place/dakota/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Jim Olson](../../topics/jim-olson/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/investigation-underway-into-prince-s-death/376741561/))
+
+<br />
+
+ - [**"Prince: global rock star, musical genius, cultural icon — and a good neighbor -- An anonymous note left outside Paisley Park is showing another side of the legend."**](https://www.startribune.com/prince-global-rock-star-musical-genius-cultural-icon-and-a-good-neighbor/376848181/)
+    - by [Colleen Kelly](../../authors/colleen-kelly/index.md)
+    - in [Minneapolis Star Tribune](../../publications/minneapolis-star-tribune/index.md)
+    - on 23 April 2016
+    - about [Carver County](../../topics/carver-county/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [Jim Olson](../../topics/jim-olson/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md), [Van Jones](../../topics/van-jones/index.md), [YesWeCode](../../topics/yeswecode/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-global-rock-star-musical-genius-cultural-icon-and-a-good-neighbor/376848181/))
 
 <br />
 

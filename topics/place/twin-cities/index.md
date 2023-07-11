@@ -209,7 +209,7 @@
 
 ----
 
-## 2016 (5)
+## 2016 (6)
 
 ### 2016 October (1)
 
@@ -241,7 +241,7 @@
 
 ----
 
-### 2016 April (2)
+### 2016 April (3)
 
  - [**"‘I’m Going to Personify Sex in Every Way’: Prince’s Defining ‘Dirty Mind’ Album -- A refusal to be labeled R&B, a rivalry with Rick James and a very dirty song called 'Head': the groundbreaking arrival of 1980's 'Dirty Mind.'"**](https://www.billboard.com/music/features/prince-dirty-mind-retrospective-7348526/)
     - in [Billboard](../../../publications/billboard/index.md)
@@ -257,6 +257,15 @@
     - on 25 April 2016
     - about [Celebration (event)](../../../topics/event/celebration/index.md), [Chaka Khan](../../../topics/chaka-khan/index.md), [Kirk Johnson](../../../topics/kirk-johnson/index.md), [Larry Graham](../../../topics/larry-graham/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Lionel Richie](../../../topics/lionel-richie/index.md), [Omarr Baker](../../../topics/omarr-baker/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [TMZ (website)](../../../topics/website/tmz/index.md), [Twin Cities (place)](../../../topics/place/twin-cities/index.md), [Tyka Nelson](../../../topics/tyka-nelson/index.md), [WCCO](../../../topics/wcco/index.md), [WCCO-TV](../../../topics/wcco-tv/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/sheila-e-saying-goodbye-to-prince-the-hardest-thing-i-ve-ever-had-to-do/376906621/))
+
+<br />
+
+ - [**"Prince: global rock star, musical genius, cultural icon — and a good neighbor -- An anonymous note left outside Paisley Park is showing another side of the legend."**](https://www.startribune.com/prince-global-rock-star-musical-genius-cultural-icon-and-a-good-neighbor/376848181/)
+    - by [Colleen Kelly](../../../authors/colleen-kelly/index.md)
+    - in [Minneapolis Star Tribune](../../../publications/minneapolis-star-tribune/index.md)
+    - on 23 April 2016
+    - about [Carver County](../../../topics/carver-county/index.md), [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Jehovah’s Witness](../../../topics/jehovah-s-witness/index.md), [Jim Olson](../../../topics/jim-olson/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Twin Cities (place)](../../../topics/place/twin-cities/index.md), [Van Jones](../../../topics/van-jones/index.md), [YesWeCode](../../../topics/yeswecode/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-global-rock-star-musical-genius-cultural-icon-and-a-good-neighbor/376848181/))
 
 ----
 

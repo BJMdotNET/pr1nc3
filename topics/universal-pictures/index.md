@@ -45,9 +45,9 @@
 
 ----
 
-## 2018 (2)
+## 2018 (5)
 
-### 2018 December (2)
+### 2018 December (5)
 
  - [**"Let's go crazy! Songs by Prince will be the star of a new movie musical"**](https://usatoday.com/story/life/movies/2018/12/03/prince-inspired-movie-musical-make-artists-songs-film-star/2196507002/)
     - by [Bryan Alexander](../../authors/bryan-alexander/index.md)
@@ -58,11 +58,35 @@
 
 <br />
 
+ - [**"The Prince musical shows anything goes in Hollywood – bar original ideas -- Good luck to the execs tasked with making a jukebox singalong from songs laden with kink and taboo. But will cinema’s tedious mining of old material ever stop?"**](https://www.theguardian.com/film/2018/dec/04/prince-musical-hollywood)
+    - in [The Guardian](../../publications/the-guardian/index.md)
+    - on 4 December 2018
+    - about [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [fair use](../../topics/fair-use/index.md), [I Would Die 4 U (song)](../../topics/song/i-would-die-4-u/index.md), [musical](../../topics/musical/index.md), [Netflix](../../topics/netflix/index.md), [Raspberry Beret (song)](../../topics/song/raspberry-beret/index.md), [Universal Pictures](../../topics/universal-pictures/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/film/2018/dec/04/prince-musical-hollywood))
+
+<br />
+
+ - [**"Mamma Mia-style movie based on Prince's music in the works -- Universal acquired the rights to some of the artist’s most popular songs for a fictional musical in the style of the ABBA hit franchise"**](https://www.theguardian.com/music/2018/dec/03/mamma-mia-style-movie-based-on-princes-music-in-the-works)
+    - in [The Guardian](../../publications/the-guardian/index.md)
+    - on 3 December 2018
+    - about [Ava DuVernay](../../topics/ava-duvernay/index.md), [musical](../../topics/musical/index.md), [Netflix](../../topics/netflix/index.md), [Universal Pictures](../../topics/universal-pictures/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/music/2018/dec/03/mamma-mia-style-movie-based-on-princes-music-in-the-works))
+
+<br />
+
  - [**"Movie Inspired by Prince’s Music in the Works at Universal (EXCLUSIVE)"**](https://variety.com/2018/film/news/universal-original-movie-inspired-by-princes-music-1203067739/)
     - in [Variety](../../publications/variety/index.md)
     - on 3 December 2018
     - about [Academy Award](../../topics/academy-award/index.md), [Grammy Award](../../topics/grammy-award/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Troy Carter](../../topics/troy-carter/index.md), [Universal Music Publishing Group](../../topics/universal-music-publishing-group/index.md), [Universal Pictures](../../topics/universal-pictures/index.md)
     - ([mirror](https://web.archive.org/web/*/https://variety.com/2018/film/news/universal-original-movie-inspired-by-princes-music-1203067739/))
+
+<br />
+
+ - [**"Movie Musical With Prince Songs in the Works -- The film will not be a biopic, but will use songs from the Grammy winner's extensive songbook to drive the narrative."**](https://playbill.com/article/movie-musical-with-prince-songs-in-the-works)
+    - in [playbill.com](../../publications/playbill-com/index.md)
+    - on 3 December 2018
+    - about [Broadway (place)](../../topics/place/broadway/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [Henry David Hwang](../../topics/henry-david-hwang/index.md), [Jody Gerson](../../topics/jody-gerson/index.md), [L. Londell McMillan](../../topics/l-londell-mcmillan/index.md), [movie musical](../../topics/movie-musical/index.md), [musical](../../topics/musical/index.md), [Troy Carter](../../topics/troy-carter/index.md), [Universal Music Publishing Group](../../topics/universal-music-publishing-group/index.md), [Universal Pictures](../../topics/universal-pictures/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://playbill.com/article/movie-musical-with-prince-songs-in-the-works))
 
 ----
 

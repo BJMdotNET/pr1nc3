@@ -139,7 +139,17 @@
 
 ----
 
-## 2018 (6)
+## 2018 (7)
+
+### 2018 December (1)
+
+ - [**"Mamma Mia-style movie based on Prince's music in the works -- Universal acquired the rights to some of the artist’s most popular songs for a fictional musical in the style of the ABBA hit franchise"**](https://www.theguardian.com/music/2018/dec/03/mamma-mia-style-movie-based-on-princes-music-in-the-works)
+    - in [The Guardian](../../publications/the-guardian/index.md)
+    - on 3 December 2018
+    - about [Ava DuVernay](../../topics/ava-duvernay/index.md), [musical](../../topics/musical/index.md), [Netflix](../../topics/netflix/index.md), [Universal Pictures](../../topics/universal-pictures/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/music/2018/dec/03/mamma-mia-style-movie-based-on-princes-music-in-the-works))
+
+----
 
 ### 2018 October (6)
 

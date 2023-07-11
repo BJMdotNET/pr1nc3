@@ -206,7 +206,17 @@
 
 ----
 
-## 2018 (2)
+## 2018 (3)
+
+### 2018 December (1)
+
+ - [**"The Prince musical shows anything goes in Hollywood – bar original ideas -- Good luck to the execs tasked with making a jukebox singalong from songs laden with kink and taboo. But will cinema’s tedious mining of old material ever stop?"**](https://www.theguardian.com/film/2018/dec/04/prince-musical-hollywood)
+    - in [The Guardian](../../../publications/the-guardian/index.md)
+    - on 4 December 2018
+    - about [Darling Nikki (song)](../../../topics/song/darling-nikki/index.md), [fair use](../../../topics/fair-use/index.md), [I Would Die 4 U (song)](../../../topics/song/i-would-die-4-u/index.md), [musical](../../../topics/musical/index.md), [Netflix](../../../topics/netflix/index.md), [Raspberry Beret (song)](../../../topics/song/raspberry-beret/index.md), [Universal Pictures](../../../topics/universal-pictures/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/film/2018/dec/04/prince-musical-hollywood))
+
+----
 
 ### 2018 June (2)
 
@@ -226,7 +236,7 @@
 
 ----
 
-## 2017 (2)
+## 2017 (3)
 
 ### 2017 November (1)
 
@@ -235,6 +245,16 @@
     - on 9 November 2017
     - about [divorce](../../../topics/divorce/index.md), [Eric Clapton](../../../topics/eric-clapton/index.md), [exhibit](../../../topics/exhibit/index.md), [exhibition](../../../topics/exhibition/index.md), [James Brown](../../../topics/james-brown/index.md), [Joni Mitchell](../../../topics/joni-mitchell/index.md), [Lisa Coleman](../../../topics/lisa-coleman/index.md), [Michael Jackson](../../../topics/michael-jackson/index.md), [perfume](../../../topics/perfume/index.md), [Raspberry Beret (song)](../../../topics/song/raspberry-beret/index.md), [royalties](../../../topics/royalties/index.md), [Susan Rogers](../../../topics/susan-rogers/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/music/2017/nov/09/princes-sound-engineer-susan-rogers-he-needed-to-be-the-alpha-male-to-get-things-done))
+
+----
+
+### 2017 June (1)
+
+ - [**"Prince musical 'Purple Rain' will be touring the UK next year -- It's being produced by the makers of Thriller Live!"**](https://planetradio.co.uk/magic/entertainment/theatre/prince-musical-purple-rain-uk/)
+    - in [planetradio.co.uk](../../../publications/planetradio-co-uk/index.md)
+    - on 5 June 2017
+    - about [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [musical](../../../topics/musical/index.md), [Raspberry Beret (song)](../../../topics/song/raspberry-beret/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://planetradio.co.uk/magic/entertainment/theatre/prince-musical-purple-rain-uk/))
 
 ----
 

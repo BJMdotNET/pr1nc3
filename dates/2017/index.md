@@ -550,7 +550,7 @@
 
 ----
 
-## June 2017 (15)
+## June 2017 (16)
 
  - [**"Jay-Z calls Prince's handlers 'greedy bastards' in a fiery song on his '4:44' album"**](https://www.startribune.com/jay-z-calls-prince-s-handlers-greedy-bastards-in-a-fiery-song-on-his-new-album/431861023/)
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
@@ -674,6 +674,14 @@
     - on 6 June 2017
     - about [Carver County](../../topics/carver-county/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/carver-county-historical-society-scores-trove-of-paisley-park-photos/426764851/))
+
+----
+
+ - [**"Prince musical 'Purple Rain' will be touring the UK next year -- It's being produced by the makers of Thriller Live!"**](https://planetradio.co.uk/magic/entertainment/theatre/prince-musical-purple-rain-uk/)
+    - in [planetradio.co.uk](../../publications/planetradio-co-uk/index.md)
+    - on 5 June 2017
+    - about [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [musical](../../topics/musical/index.md), [Raspberry Beret (song)](../../topics/song/raspberry-beret/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://planetradio.co.uk/magic/entertainment/theatre/prince-musical-purple-rain-uk/))
 
 ----
 

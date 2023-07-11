@@ -473,6 +473,9 @@ items:
 - name: Brittany Howard
   href: brittany-howard/index.md
   homepage: brittany-howard/index.md
+- name: Broadway (place)
+  href: place/broadway/index.md
+  homepage: place/broadway/index.md
 - name: Brody Brown
   href: brody-brown/index.md
   homepage: brody-brown/index.md
@@ -560,6 +563,9 @@ items:
 - name: Carmen Electra
   href: carmen-electra/index.md
   homepage: carmen-electra/index.md
+- name: Carole King
+  href: carole-king/index.md
+  homepage: carole-king/index.md
 - name: Carrier Dome (place)
   href: place/carrier-dome/index.md
   homepage: place/carrier-dome/index.md
@@ -1046,6 +1052,9 @@ items:
 - name: Don’t Stop ’Til You Get Enough (song)
   href: song/don-t-stop-til-you-get-enough/index.md
   homepage: song/don-t-stop-til-you-get-enough/index.md
+- name: Don’t Talk 2 Strangers (song)
+  href: song/don-t-talk-2-strangers/index.md
+  homepage: song/don-t-talk-2-strangers/index.md
 - name: Donald Byrd
   href: donald-byrd/index.md
   homepage: donald-byrd/index.md
@@ -1538,6 +1547,9 @@ items:
 - name: Hennepin County (place)
   href: place/hennepin-county/index.md
   homepage: place/hennepin-county/index.md
+- name: Henry David Hwang
+  href: henry-david-hwang/index.md
+  homepage: henry-david-hwang/index.md
 - name: Henson & Efron
   href: henson-efron/index.md
   homepage: henson-efron/index.md
@@ -1604,6 +1616,9 @@ items:
 - name: Howard Kornfeld
   href: howard-kornfeld/index.md
   homepage: howard-kornfeld/index.md
+- name: I Can’t Love U Anymore (song)
+  href: song/i-can-t-love-u-anymore/index.md
+  homepage: song/i-can-t-love-u-anymore/index.md
 - name: I Could Never Take The Place Of Your Man (song)
   href: song/i-could-never-take-the-place-of-your-man/index.md
   homepage: song/i-could-never-take-the-place-of-your-man/index.md
@@ -1628,6 +1643,9 @@ items:
 - name: I.C.M.
   href: i-c-m/index.md
   homepage: i-c-m/index.md
+- name: I’ll Do Anything (movie)
+  href: movie/i-ll-do-anything/index.md
+  homepage: movie/i-ll-do-anything/index.md
 - name: Ian Penman
   href: ian-penman/index.md
   homepage: ian-penman/index.md
@@ -1730,6 +1748,9 @@ items:
 - name: James Foley
   href: james-foley/index.md
   homepage: james-foley/index.md
+- name: James L Brooks
+  href: james-l-brooks/index.md
+  homepage: james-l-brooks/index.md
 - name: Jamie Starr
   href: jamie-starr/index.md
   homepage: jamie-starr/index.md
@@ -1805,6 +1826,9 @@ items:
 - name: Jimmy Jam
   href: jimmy-jam/index.md
   homepage: jimmy-jam/index.md
+- name: Jody Gerson
+  href: jody-gerson/index.md
+  homepage: jody-gerson/index.md
 - name: Joe Louis Arena (place)
   href: place/joe-louis-arena/index.md
   homepage: place/joe-louis-arena/index.md
@@ -1901,6 +1925,9 @@ items:
 - name: Julia Coleman
   href: julia-coleman/index.md
   homepage: julia-coleman/index.md
+- name: Julie Kavner
+  href: julie-kavner/index.md
+  homepage: julie-kavner/index.md
 - name: Jungle Love (song)
   href: song/jungle-love/index.md
   homepage: song/jungle-love/index.md
@@ -1916,6 +1943,9 @@ items:
 - name: Karen White
   href: karen-white/index.md
   homepage: karen-white/index.md
+- name: Karina Longworth
+  href: karina-longworth/index.md
+  homepage: karina-longworth/index.md
 - name: Karl Wallinger
   href: karl-wallinger/index.md
   homepage: karl-wallinger/index.md
@@ -2561,6 +2591,9 @@ items:
 - name: movie
   href: movie/index.md
   homepage: movie/index.md
+- name: movie musical
+  href: movie-musical/index.md
+  homepage: movie-musical/index.md
 - name: MPLSoUND (album)
   href: album/mplsound/index.md
   homepage: album/mplsound/index.md
@@ -2582,6 +2615,9 @@ items:
 - name: Music Speaks Louder Than Words (song)
   href: song/music-speaks-louder-than-words/index.md
   homepage: song/music-speaks-louder-than-words/index.md
+- name: musical
+  href: musical/index.md
+  homepage: musical/index.md
 - name: Musicology (album)
   href: album/musicology/index.md
   homepage: album/musicology/index.md
@@ -2594,6 +2630,9 @@ items:
 - name: Musicology - Real Music by Real Musicians (event)
   href: event/musicology-real-music-by-real-musicians/index.md
   homepage: event/musicology-real-music-by-real-musicians/index.md
+- name: My Little Pill (song)
+  href: song/my-little-pill/index.md
+  homepage: song/my-little-pill/index.md
 - name: My Name Is Prince (exhibition)
   href: exhibition/my-name-is-prince/index.md
   homepage: exhibition/my-name-is-prince/index.md
@@ -2663,6 +2702,9 @@ items:
 - name: Nick Hornby
   href: nick-hornby/index.md
   homepage: nick-hornby/index.md
+- name: Nick Nolte
+  href: nick-nolte/index.md
+  homepage: nick-nolte/index.md
 - name: Nicollet Avenue
   href: nicollet-avenue/index.md
   homepage: nicollet-avenue/index.md
@@ -2987,6 +3029,12 @@ items:
 - name: PMRC
   href: pmrc/index.md
   homepage: pmrc/index.md
+- name: podcast
+  href: podcast/index.md
+  homepage: podcast/index.md
+- name: Polly Platt
+  href: polly-platt/index.md
+  homepage: polly-platt/index.md
 - name: Pop Life (song)
   href: song/pop-life/index.md
   homepage: song/pop-life/index.md
@@ -3422,6 +3470,9 @@ items:
 - name: Simmons
   href: simmons/index.md
   homepage: simmons/index.md
+- name: Sinead O’Connor
+  href: sinead-o-connor/index.md
+  homepage: sinead-o-connor/index.md
 - name: Sinéad O’Connor
   href: sin-ad-o-connor/index.md
   homepage: sin-ad-o-connor/index.md
@@ -3839,6 +3890,9 @@ items:
 - name: The X's Face (song)
   href: song/the-x-s-face/index.md
   homepage: song/the-x-s-face/index.md
+- name: There Is Lonely (song)
+  href: song/there-is-lonely/index.md
+  homepage: song/there-is-lonely/index.md
 - name: Thieves in the Temple (song)
   href: song/thieves-in-the-temple/index.md
   homepage: song/thieves-in-the-temple/index.md
@@ -3908,6 +3962,9 @@ items:
 - name: toxicology report
   href: toxicology-report/index.md
   homepage: toxicology-report/index.md
+- name: Tracey Ullman
+  href: tracey-ullman/index.md
+  homepage: tracey-ullman/index.md
 - name: trademark
   href: trademark/index.md
   homepage: trademark/index.md
@@ -4175,6 +4232,9 @@ items:
 - name: Wonderful Ass (song)
   href: song/wonderful-ass/index.md
   homepage: song/wonderful-ass/index.md
+- name: workprint
+  href: workprint/index.md
+  homepage: workprint/index.md
 - name: World Party
   href: world-party/index.md
   homepage: world-party/index.md
@@ -4193,6 +4253,9 @@ items:
 - name: Worst Picture (award)
   href: award/worst-picture/index.md
   homepage: award/worst-picture/index.md
+- name: Wow (song)
+  href: song/wow/index.md
+  homepage: song/wow/index.md
 - name: Xcel Energy Center (place)
   href: place/xcel-energy-center/index.md
   homepage: place/xcel-energy-center/index.md
@@ -4211,6 +4274,9 @@ items:
 - name: Yom Kippur
   href: yom-kippur/index.md
   homepage: yom-kippur/index.md
+- name: You Must Remember This (podcast)
+  href: podcast/you-must-remember-this/index.md
+  homepage: podcast/you-must-remember-this/index.md
 - name: You’re All I Want (song)
   href: song/you-re-all-i-want/index.md
   homepage: song/you-re-all-i-want/index.md

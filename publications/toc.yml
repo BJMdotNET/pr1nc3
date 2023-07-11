@@ -464,6 +464,9 @@ items:
 - name: Ovrld
   href: ovrld/index.md
   homepage: ovrld/index.md
+- name: pagesix.com
+  href: pagesix-com/index.md
+  homepage: pagesix-com/index.md
 - name: Paste Magazine
   href: paste-magazine/index.md
   homepage: paste-magazine/index.md
@@ -479,6 +482,9 @@ items:
 - name: Playbill
   href: playbill/index.md
   homepage: playbill/index.md
+- name: playbill.com
+  href: playbill-com/index.md
+  homepage: playbill-com/index.md
 - name: PopMatters
   href: popmatters/index.md
   homepage: popmatters/index.md
@@ -980,6 +986,9 @@ items:
 - name: www.pcccourier.com
   href: www-pcccourier-com/index.md
   homepage: www-pcccourier-com/index.md
+- name: www.playbill.com
+  href: www-playbill-com/index.md
+  homepage: www-playbill-com/index.md
 - name: www.pollstar.com
   href: www-pollstar-com/index.md
   homepage: www-pollstar-com/index.md
