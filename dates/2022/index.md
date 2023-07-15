@@ -98,7 +98,7 @@
 
 ----
 
-## August 2022 (2)
+## August 2022 (4)
 
  - [**"Prince Estate Shuts Down ‘Purple Rain’ Energy Drink Brand -- Bang Energy wanted a "Purple Rain" trademark, but a federal agency says the name "uniquely and unmistakably" points to the late rock star."**](https://www.billboard.com/pro/prince-estate-purple-rain-bang-energy-drink-ruling/)
     - by [Bill Donahue](../../authors/bill-donahue/index.md)
@@ -106,6 +106,22 @@
     - on 31 August 2022
     - about [Bang Energy](../../topics/bang-energy/index.md), [Jack Owoc](../../topics/jack-owoc/index.md), [Primary Wave](../../topics/primary-wave/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Sony Music](../../topics/sony-music/index.md), [Sony Music Entertainment](../../topics/sony-music-entertainment/index.md), [trademark](../../topics/trademark/index.md), [U.S. Patent and Trademark Office](../../topics/u-s-patent-and-trademark-office/index.md), [Universal Music Group](../../topics/universal-music-group/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/pro/prince-estate-purple-rain-bang-energy-drink-ruling/))
+
+----
+
+ - [**"Prince - The Rainbow Children -- by UNICEF UK in London, Greater London, United Kingdom"**](https://www.crowdfunder.co.uk/p/prince)
+    - in [www.crowdfunder.co.uk](../../publications/www-crowdfunder-co-uk/index.md)
+    - on 10 August 2022
+    - about [The Rainbow Children (album)](../../topics/album/the-rainbow-children/index.md), [UNICEF](../../topics/unicef/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.crowdfunder.co.uk/p/prince))
+
+----
+
+ - [**"Bob Dylan, Prince, Janis Joplin albums re-released for new UNICEF campaign -- The albums are all pressed on blue vinyl to match the organisation’s logo."**](https://thevinylfactory.com/news/bob-dylan-prince-janis-joplin-unicef-campaign-blue-vinyl/)
+    - in [The Vinyl Factory](../../publications/the-vinyl-factory/index.md)
+    - on 8 August 2022
+    - about [UNICEF](../../topics/unicef/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://thevinylfactory.com/news/bob-dylan-prince-janis-joplin-unicef-campaign-blue-vinyl/))
 
 ----
 

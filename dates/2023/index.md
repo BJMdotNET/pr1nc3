@@ -1,6 +1,14 @@
 # 2023
 
-## July 2023 (20)
+## July 2023 (21)
+
+ - [**"The records that made me: Jayda G on Gil Scott-Heron, Donna Summer and Prince -- Featuring Prince, Donald Byrd and Al Jarreau."**](https://thevinylfactory.com/features/records-that-made-me-jayda-g/)
+    - in [The Vinyl Factory](../../publications/the-vinyl-factory/index.md)
+    - on 13 July 2023
+    - about [Parade (album)](../../topics/album/parade/index.md), [Prince & The Revolution](../../topics/prince-the-revolution/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://thevinylfactory.com/features/records-that-made-me-jayda-g/))
+
+----
 
  - [**"Move over, Taylor Swift: This is the hottest ticket in Bay Area concert history"**](https://www.sfchronicle.com/oursf/article/prince-bay-area-show-18189287.php)
     - by [Peter Hartlaub](../../authors/peter-hartlaub/index.md)
@@ -235,7 +243,7 @@
     - by [Daniel Griffiths](../../authors/daniel-griffiths/index.md)
     - in [MusicRadar](../../publications/musicradar/index.md)
     - on 12 June 2023
-    - about [A&M Records](../../topics/a-m-records/index.md), [airport](../../topics/airport/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Flyte Tyme](../../topics/flyte-tyme/index.md), [Jam & Lewis](../../topics/jam-lewis/index.md), [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [The Time](../../topics/the-time/index.md)
+    - about [A&M Records](../../topics/a-m-records/index.md), [airport](../../topics/airport/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Flyte Tyme](../../topics/flyte-tyme/index.md), [Jam & Lewis](../../topics/jam-lewis/index.md), [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [LinnDrum (instrument)](../../topics/instrument/linndrum/index.md), [Morris Day](../../topics/morris-day/index.md), [The Time](../../topics/the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.musicradar.com/news/jam-and-lewis-janet-jackson-control-prince))
 
 ----

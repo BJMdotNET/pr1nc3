@@ -326,6 +326,9 @@ items:
 - name: liveforlivemusic.com
   href: liveforlivemusic-com/index.md
   homepage: liveforlivemusic-com/index.md
+- name: Long Live Vinyl
+  href: long-live-vinyl/index.md
+  homepage: long-live-vinyl/index.md
 - name: Los Angeles Daily News
   href: los-angeles-daily-news/index.md
   homepage: los-angeles-daily-news/index.md
@@ -560,6 +563,9 @@ items:
 - name: rollingout.com
   href: rollingout-com/index.md
   homepage: rollingout-com/index.md
+- name: RTBF
+  href: rtbf/index.md
+  homepage: rtbf/index.md
 - name: San Francisco Chronicle
   href: san-francisco-chronicle/index.md
   homepage: san-francisco-chronicle/index.md
@@ -698,6 +704,9 @@ items:
 - name: The Verge
   href: the-verge/index.md
   homepage: the-verge/index.md
+- name: The Vinyl Factory
+  href: the-vinyl-factory/index.md
+  homepage: the-vinyl-factory/index.md
 - name: The West Australian
   href: the-west-australian/index.md
   homepage: the-west-australian/index.md
@@ -797,6 +806,9 @@ items:
 - name: vocal.media
   href: vocal-media/index.md
   homepage: vocal-media/index.md
+- name: Vogue
+  href: vogue/index.md
+  homepage: vogue/index.md
 - name: Volkskrant
   href: volkskrant/index.md
   homepage: volkskrant/index.md
@@ -866,6 +878,9 @@ items:
 - name: www.crooner.fr
   href: www-crooner-fr/index.md
   homepage: www-crooner-fr/index.md
+- name: www.crowdfunder.co.uk
+  href: www-crowdfunder-co-uk/index.md
+  homepage: www-crowdfunder-co-uk/index.md
 - name: www.deseret.com
   href: www-deseret-com/index.md
   homepage: www-deseret-com/index.md
@@ -950,9 +965,6 @@ items:
 - name: www.littlethings.com
   href: www-littlethings-com/index.md
   homepage: www-littlethings-com/index.md
-- name: www.longlivevinyl.net
-  href: www-longlivevinyl-net/index.md
-  homepage: www-longlivevinyl-net/index.md
 - name: www.loudersound.com
   href: www-loudersound-com/index.md
   homepage: www-loudersound-com/index.md
@@ -1001,9 +1013,6 @@ items:
 - name: www.rocknfolk.com
   href: www-rocknfolk-com/index.md
   homepage: www-rocknfolk-com/index.md
-- name: www.rtbf.be
-  href: www-rtbf-be/index.md
-  homepage: www-rtbf-be/index.md
 - name: www.rttnews.com
   href: www-rttnews-com/index.md
   homepage: www-rttnews-com/index.md
@@ -1067,18 +1076,15 @@ items:
 - name: www.tortoisemedia.com
   href: www-tortoisemedia-com/index.md
   homepage: www-tortoisemedia-com/index.md
-- name: www.vogue.com
-  href: www-vogue-com/index.md
-  homepage: www-vogue-com/index.md
 - name: www.wbur.org
   href: www-wbur-org/index.md
   homepage: www-wbur-org/index.md
-- name: www.yahoo.com
-  href: www-yahoo-com/index.md
-  homepage: www-yahoo-com/index.md
 - name: Yahoo! Entertainment
   href: yahoo-entertainment/index.md
   homepage: yahoo-entertainment/index.md
+- name: Yahoo! Lifestyle
+  href: yahoo-lifestyle/index.md
+  homepage: yahoo-lifestyle/index.md
 - name: Yahoo! Lifestyle Australia
   href: yahoo-lifestyle-australia/index.md
   homepage: yahoo-lifestyle-australia/index.md

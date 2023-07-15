@@ -23,7 +23,7 @@
  - [**"Prince: The Story of 1999 bonus feature: Dez Dickerson: 'Put an explosion over it'"**](https://www.thecurrent.org/feature/2019/12/05/prince-the-story-of-1999-bonus-dez-dickerson-prince-guitarist-interview)
     - in [The Current](../../../publications/the-current/index.md)
     - on 5 December 2019
-    - about [1999 (album)](../../../topics/album/1999/index.md), [94 East](../../../topics/94-east/index.md), [Allen Beaulieu](../../../topics/allen-beaulieu/index.md), [Andrea Swensson](../../../topics/andrea-swensson/index.md), [Dez Dickerson](../../../topics/dez-dickerson/index.md), [Do Yourself a Favor (song)](../../../topics/song/do-yourself-a-favor/index.md), [Eric Clapton](../../../topics/eric-clapton/index.md), [exhibit](../../../topics/exhibit/index.md), [George Clinton](../../../topics/george-clinton/index.md), [I Wanna Be Your Lover (song)](../../../topics/song/i-wanna-be-your-lover/index.md), [Jamie Starr](../../../topics/jamie-starr/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Morris Day](../../../topics/morris-day/index.md), [orange](../../../topics/orange/index.md), [Peggy McCreary](../../../topics/peggy-mccreary/index.md), [Prince: The Story of 1999](../../../topics/prince-the-story-of-1999/index.md), [SNL (TV show)](../../../topics/tv-show/snl/index.md), [Sunset Sound (place)](../../../topics/place/sunset-sound/index.md), [The Time](../../../topics/the-time/index.md), [Vanity](../../../topics/vanity/index.md), [Vanity 6](../../../topics/vanity-6/index.md)
+    - about [1999 (album)](../../../topics/album/1999/index.md), [94 East](../../../topics/94-east/index.md), [Allen Beaulieu](../../../topics/allen-beaulieu/index.md), [Andrea Swensson](../../../topics/andrea-swensson/index.md), [Dez Dickerson](../../../topics/dez-dickerson/index.md), [Do Yourself a Favor (song)](../../../topics/song/do-yourself-a-favor/index.md), [Eric Clapton](../../../topics/eric-clapton/index.md), [exhibit](../../../topics/exhibit/index.md), [George Clinton](../../../topics/george-clinton/index.md), [I Wanna Be Your Lover (song)](../../../topics/song/i-wanna-be-your-lover/index.md), [Jamie Starr](../../../topics/jamie-starr/index.md), [LinnDrum (instrument)](../../../topics/instrument/linndrum/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Morris Day](../../../topics/morris-day/index.md), [orange](../../../topics/orange/index.md), [Peggy McCreary](../../../topics/peggy-mccreary/index.md), [Prince: The Story of 1999](../../../topics/prince-the-story-of-1999/index.md), [SNL (TV show)](../../../topics/tv-show/snl/index.md), [Sunset Sound (place)](../../../topics/place/sunset-sound/index.md), [The Time](../../../topics/the-time/index.md), [Vanity](../../../topics/vanity/index.md), [Vanity 6](../../../topics/vanity-6/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/12/05/prince-the-story-of-1999-bonus-dez-dickerson-prince-guitarist-interview))
 
 <br />
@@ -57,7 +57,7 @@
  - [**"Life was just a party: Prince’s 1999 and Chicago house music -- The Purple One could hardly have avoided influencing a genre whose earliest, most ardent fans were queer Black and Brown kids."**](https://www.chicagoreader.com/chicago/prince-1999-house-saunders-traxx-linn-influence-reissue/Content?oid=75725330)
     - in [www.chicagoreader.com](../../../publications/www-chicagoreader-com/index.md)
     - on 20 November 2019
-    - about [1999 (album)](../../../topics/album/1999/index.md), [1999 (song)](../../../topics/song/1999/index.md), [bootleg](../../../topics/bootleg/index.md), [Cat Glover](../../../topics/cat-glover/index.md), [contract](../../../topics/contract/index.md), [I Wanna Be Your Lover (song)](../../../topics/song/i-wanna-be-your-lover/index.md), [Jamie Starr](../../../topics/jamie-starr/index.md), [Jimmy Jam](../../../topics/jimmy-jam/index.md), [Linn LM-1](../../../topics/linn-lm-1/index.md), [Miles Davis](../../../topics/miles-davis/index.md), [royalties](../../../topics/royalties/index.md), [Terry Lewis](../../../topics/terry-lewis/index.md), [The Black Album (album)](../../../topics/album/the-black-album/index.md), [The Revolution](../../../topics/the-revolution/index.md), [vault](../../../topics/vault/index.md)
+    - about [1999 (album)](../../../topics/album/1999/index.md), [1999 (song)](../../../topics/song/1999/index.md), [bootleg](../../../topics/bootleg/index.md), [Cat Glover](../../../topics/cat-glover/index.md), [contract](../../../topics/contract/index.md), [I Wanna Be Your Lover (song)](../../../topics/song/i-wanna-be-your-lover/index.md), [Jamie Starr](../../../topics/jamie-starr/index.md), [Jimmy Jam](../../../topics/jimmy-jam/index.md), [Linn LM-1](../../../topics/linn-lm-1/index.md), [LinnDrum (instrument)](../../../topics/instrument/linndrum/index.md), [Miles Davis](../../../topics/miles-davis/index.md), [royalties](../../../topics/royalties/index.md), [Terry Lewis](../../../topics/terry-lewis/index.md), [The Black Album (album)](../../../topics/album/the-black-album/index.md), [The Revolution](../../../topics/the-revolution/index.md), [vault](../../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.chicagoreader.com/chicago/prince-1999-house-saunders-traxx-linn-influence-reissue/Content?oid=75725330))
 
 ----
@@ -128,9 +128,9 @@
 
 ----
 
-## 2016 (4)
+## 2016 (5)
 
-### 2016 April (4)
+### 2016 April (5)
 
  - [**"‘I’m Going to Personify Sex in Every Way’: Prince’s Defining ‘Dirty Mind’ Album -- A refusal to be labeled R&B, a rivalry with Rick James and a very dirty song called 'Head': the groundbreaking arrival of 1980's 'Dirty Mind.'"**](https://www.billboard.com/music/features/prince-dirty-mind-retrospective-7348526/)
     - in [Billboard](../../../publications/billboard/index.md)
@@ -154,6 +154,14 @@
     - on 22 April 2016
     - about [Academy Award](../../../topics/academy-award/index.md), [Atlanta (place)](../../../topics/place/atlanta/index.md), [Bangles](../../../topics/bangles/index.md), [contract](../../../topics/contract/index.md), [Cyndi Lauper](../../../topics/cyndi-lauper/index.md), [Frank Zappa](../../../topics/frank-zappa/index.md), [I Wanna Be Your Lover (song)](../../../topics/song/i-wanna-be-your-lover/index.md), [James Brown](../../../topics/james-brown/index.md), [Judith Hill](../../../topics/judith-hill/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [memoir](../../../topics/memoir/index.md), [Morris Day](../../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Obama](../../../topics/obama/index.md), [Parents Music Resource Center](../../../topics/parents-music-resource-center/index.md), [Roger Ebert](../../../topics/roger-ebert/index.md), [Tidal](../../../topics/tidal/index.md), [Vanity](../../../topics/vanity/index.md), [White House (place)](../../../topics/place/white-house/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/988e107cf6964494b58ad2ca9bcd0985))
+
+<br />
+
+ - [**"10 artists pick their favourite Prince records -- How many lives did Prince change? It’s probably impossible to say, but here are a few to start with. From Jill Scott to Seven Davis Jr., we asked ten artists to pick their favourite Prince records and tell us a little bit about why they mean so much to them."**](https://thevinylfactory.com/features/10-artists-pick-their-favourite-prince-records/)
+    - in [The Vinyl Factory](../../../publications/the-vinyl-factory/index.md)
+    - on 21 April 2016
+    - about [Batman (album)](../../../topics/album/batman/index.md), [Crystal Ball (album)](../../../topics/album/crystal-ball/index.md), [Dirty Mind (album)](../../../topics/album/dirty-mind/index.md), [Emancipation (album)](../../../topics/album/emancipation/index.md), [I Wanna Be Your Lover (song)](../../../topics/song/i-wanna-be-your-lover/index.md), [Mountains (song)](../../../topics/song/mountains/index.md), [Partyman (song)](../../../topics/song/partyman/index.md), [Purple Music (song)](../../../topics/song/purple-music/index.md), [Soft and Wet (song)](../../../topics/song/soft-and-wet/index.md), [The Ballad Of Dorothy Parker (song)](../../../topics/song/the-ballad-of-dorothy-parker/index.md), [Wonderful Ass (song)](../../../topics/song/wonderful-ass/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://thevinylfactory.com/features/10-artists-pick-their-favourite-prince-records/))
 
 <br />
 

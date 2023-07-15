@@ -6,6 +6,8 @@
   * [Cloud guitar (instrument)](../instrument/cloud-guitar/index.md) (31)
   * [Cry Baby (instrument)](../instrument/cry-baby/index.md) (1)
   * [Flanger (instrument)](../instrument/flanger/index.md) (1)
+  * [Linn 9000 (instrument)](../instrument/linn-9000/index.md) (2)
+  * [LinnDrum (instrument)](../instrument/linndrum/index.md) (11)
   * [Mark IIB (instrument)](../instrument/mark-iib/index.md) (1)
   * [Mesa Mark III (instrument)](../instrument/mesa-mark-iii/index.md) (1)
   * [Schecter (instrument)](../instrument/schecter/index.md) (1)

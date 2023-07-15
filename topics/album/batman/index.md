@@ -91,15 +91,23 @@
 
 ----
 
-## 2016 (1)
+## 2016 (2)
 
-### 2016 April (1)
+### 2016 April (2)
 
  - [**"A Prince on screen, from ‘Purple Rain’ to ‘Graffiti Bridge’"**](https://apnews.com/8082812e075544679812ad4cc742307f)
     - in [Associated Press News](../../../publications/associated-press-news/index.md)
     - on 22 April 2016
     - about [Academy Award](../../../topics/academy-award/index.md), [Batdance (song)](../../../topics/song/batdance/index.md), [Batman (album)](../../../topics/album/batman/index.md), [Chaka Khan](../../../topics/chaka-khan/index.md), [Glam Slam (place)](../../../topics/place/glam-slam/index.md), [Graffiti Bridge (movie)](../../../topics/movie/graffiti-bridge/index.md), [Grammy Award](../../../topics/grammy-award/index.md), [I Feel For You (song)](../../../topics/song/i-feel-for-you/index.md), [Krush Groove (movie)](../../../topics/movie/krush-groove/index.md), [Morris Day](../../../topics/morris-day/index.md), [Parade (album)](../../../topics/album/parade/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md), [Roger Ebert](../../../topics/roger-ebert/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [The Time](../../../topics/the-time/index.md), [Under the Cherry Moon (movie)](../../../topics/movie/under-the-cherry-moon/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/8082812e075544679812ad4cc742307f))
+
+<br />
+
+ - [**"10 artists pick their favourite Prince records -- How many lives did Prince change? It’s probably impossible to say, but here are a few to start with. From Jill Scott to Seven Davis Jr., we asked ten artists to pick their favourite Prince records and tell us a little bit about why they mean so much to them."**](https://thevinylfactory.com/features/10-artists-pick-their-favourite-prince-records/)
+    - in [The Vinyl Factory](../../../publications/the-vinyl-factory/index.md)
+    - on 21 April 2016
+    - about [Batman (album)](../../../topics/album/batman/index.md), [Crystal Ball (album)](../../../topics/album/crystal-ball/index.md), [Dirty Mind (album)](../../../topics/album/dirty-mind/index.md), [Emancipation (album)](../../../topics/album/emancipation/index.md), [I Wanna Be Your Lover (song)](../../../topics/song/i-wanna-be-your-lover/index.md), [Mountains (song)](../../../topics/song/mountains/index.md), [Partyman (song)](../../../topics/song/partyman/index.md), [Purple Music (song)](../../../topics/song/purple-music/index.md), [Soft and Wet (song)](../../../topics/song/soft-and-wet/index.md), [The Ballad Of Dorothy Parker (song)](../../../topics/song/the-ballad-of-dorothy-parker/index.md), [Wonderful Ass (song)](../../../topics/song/wonderful-ass/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://thevinylfactory.com/features/10-artists-pick-their-favourite-prince-records/))
 
 ----
 

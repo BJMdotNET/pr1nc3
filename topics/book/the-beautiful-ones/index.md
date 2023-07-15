@@ -257,7 +257,7 @@
 <br />
 
  - [**"25 Celebrity Memoirs That Are Actually Worth Reading"**](https://www.vogue.com/article/best-celebrity-memoirs)
-    - in [www.vogue.com](../../../publications/www-vogue-com/index.md)
+    - in [Vogue](../../../publications/vogue/index.md)
     - on 14 November 2019
     - about [Dan Piepenbring](../../../topics/dan-piepenbring/index.md), [memoir](../../../topics/memoir/index.md), [Netflix](../../../topics/netflix/index.md), [Obama](../../../topics/obama/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [The Beautiful Ones (book)](../../../topics/book/the-beautiful-ones/index.md), [trademark](../../../topics/trademark/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.vogue.com/article/best-celebrity-memoirs))
@@ -403,7 +403,7 @@
 <br />
 
  - [**"Les mémoires de Prince sortent 3 ans après sa mort"**](https://www.rtbf.be/classic21/article/detail_les-memoires-de-prince-sortent-3-ans-apres-sa-mort?id=10355075)
-    - in [www.rtbf.be](../../../publications/www-rtbf-be/index.md)
+    - in [RTBF](../../../publications/rtbf/index.md)
     - on 31 October 2019
     - about [Ava DuVernay](../../../topics/ava-duvernay/index.md), [Dan Piepenbring](../../../topics/dan-piepenbring/index.md), [Penguin Random House](../../../topics/penguin-random-house/index.md), [Random House](../../../topics/random-house/index.md), [The Beautiful Ones (book)](../../../topics/book/the-beautiful-ones/index.md), [Universal Pictures](../../../topics/universal-pictures/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.rtbf.be/classic21/article/detail_les-memoires-de-prince-sortent-3-ans-apres-sa-mort?id=10355075))

@@ -46,7 +46,7 @@
  - [**"Prince's Drum Machine: How His Use of the Linn LM-1 Heralded a New Age of Pop Rhythm Creation"**](https://reverb.com/news/prince-and-the-linn-lm-1)
     - in [Reverb](../../../publications/reverb/index.md)
     - on 24 June 2019
-    - about [Linn LM-1](../../../topics/linn-lm-1/index.md), [Michael Jackson](../../../topics/michael-jackson/index.md), [Roger Linn](../../../topics/roger-linn/index.md), [Sly Stone](../../../topics/sly-stone/index.md), [Susan Rogers](../../../topics/susan-rogers/index.md), [The Ballad Of Dorothy Parker (song)](../../../topics/song/the-ballad-of-dorothy-parker/index.md), [The Revolution](../../../topics/the-revolution/index.md)
+    - about [Linn 9000 (instrument)](../../../topics/instrument/linn-9000/index.md), [Linn LM-1](../../../topics/linn-lm-1/index.md), [LinnDrum (instrument)](../../../topics/instrument/linndrum/index.md), [Michael Jackson](../../../topics/michael-jackson/index.md), [Roger Linn](../../../topics/roger-linn/index.md), [Sly Stone](../../../topics/sly-stone/index.md), [Susan Rogers](../../../topics/susan-rogers/index.md), [The Ballad Of Dorothy Parker (song)](../../../topics/song/the-ballad-of-dorothy-parker/index.md), [The Revolution](../../../topics/the-revolution/index.md)
     - ([mirror](https://web.archive.org/web/*/https://reverb.com/news/prince-and-the-linn-lm-1))
 
 ----
@@ -63,14 +63,14 @@
 
 ----
 
-## 2016 (4)
+## 2016 (5)
 
 ### 2016 December (1)
 
  - [**"Susan Rogers - 2016 Red Bull Music Academy lecture"**](https://www.redbullmusicacademy.com/lectures/susan-rogers-lecture)
     - in [Red Bull Music Academy](../../../publications/red-bull-music-academy/index.md)
     - on 8 December 2016
-    - about [17 Days (song)](../../../topics/song/17-days/index.md), [Academy Award](../../../topics/academy-award/index.md), [Anita Baker](../../../topics/anita-baker/index.md), [Bernie Grundman](../../../topics/bernie-grundman/index.md), [bootleg](../../../topics/bootleg/index.md), [Condition of the Heart (song)](../../../topics/song/condition-of-the-heart/index.md), [contract](../../../topics/contract/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Grammy Award](../../../topics/grammy-award/index.md), [James Brown](../../../topics/james-brown/index.md), [Jesse Johnson](../../../topics/jesse-johnson/index.md), [Jill Jones](../../../topics/jill-jones/index.md), [Joni Mitchell](../../../topics/joni-mitchell/index.md), [Kate Bush](../../../topics/kate-bush/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Lisa Coleman](../../../topics/lisa-coleman/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Michael Jackson](../../../topics/michael-jackson/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Pop Life (song)](../../../topics/song/pop-life/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [Sly Stone](../../../topics/sly-stone/index.md), [Sometimes It Snows In April (song)](../../../topics/song/sometimes-it-snows-in-april/index.md), [Stevie Wonder](../../../topics/stevie-wonder/index.md), [Sunset Sound (place)](../../../topics/place/sunset-sound/index.md), [Susan Rogers](../../../topics/susan-rogers/index.md), [Susannah Melvoin](../../../topics/susannah-melvoin/index.md), [Tevin Campbell](../../../topics/tevin-campbell/index.md), [The Ballad Of Dorothy Parker (song)](../../../topics/song/the-ballad-of-dorothy-parker/index.md), [The Revolution](../../../topics/the-revolution/index.md), [Under the Cherry Moon (movie)](../../../topics/movie/under-the-cherry-moon/index.md), [University of Minnesota](../../../topics/university-of-minnesota/index.md), [Vanity 6](../../../topics/vanity-6/index.md), [vault](../../../topics/vault/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md)
+    - about [17 Days (song)](../../../topics/song/17-days/index.md), [Academy Award](../../../topics/academy-award/index.md), [Anita Baker](../../../topics/anita-baker/index.md), [Bernie Grundman](../../../topics/bernie-grundman/index.md), [bootleg](../../../topics/bootleg/index.md), [Condition of the Heart (song)](../../../topics/song/condition-of-the-heart/index.md), [contract](../../../topics/contract/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Grammy Award](../../../topics/grammy-award/index.md), [James Brown](../../../topics/james-brown/index.md), [Jesse Johnson](../../../topics/jesse-johnson/index.md), [Jill Jones](../../../topics/jill-jones/index.md), [Joni Mitchell](../../../topics/joni-mitchell/index.md), [Kate Bush](../../../topics/kate-bush/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [LinnDrum (instrument)](../../../topics/instrument/linndrum/index.md), [Lisa Coleman](../../../topics/lisa-coleman/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Michael Jackson](../../../topics/michael-jackson/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Pop Life (song)](../../../topics/song/pop-life/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [Sly Stone](../../../topics/sly-stone/index.md), [Sometimes It Snows In April (song)](../../../topics/song/sometimes-it-snows-in-april/index.md), [Stevie Wonder](../../../topics/stevie-wonder/index.md), [Sunset Sound (place)](../../../topics/place/sunset-sound/index.md), [Susan Rogers](../../../topics/susan-rogers/index.md), [Susannah Melvoin](../../../topics/susannah-melvoin/index.md), [Tevin Campbell](../../../topics/tevin-campbell/index.md), [The Ballad Of Dorothy Parker (song)](../../../topics/song/the-ballad-of-dorothy-parker/index.md), [The Revolution](../../../topics/the-revolution/index.md), [Under the Cherry Moon (movie)](../../../topics/movie/under-the-cherry-moon/index.md), [University of Minnesota](../../../topics/university-of-minnesota/index.md), [Vanity 6](../../../topics/vanity-6/index.md), [vault](../../../topics/vault/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.redbullmusicacademy.com/lectures/susan-rogers-lecture))
 
 ----
@@ -95,7 +95,15 @@
 
 ----
 
-### 2016 April (1)
+### 2016 April (2)
+
+ - [**"10 artists pick their favourite Prince records -- How many lives did Prince change? It’s probably impossible to say, but here are a few to start with. From Jill Scott to Seven Davis Jr., we asked ten artists to pick their favourite Prince records and tell us a little bit about why they mean so much to them."**](https://thevinylfactory.com/features/10-artists-pick-their-favourite-prince-records/)
+    - in [The Vinyl Factory](../../../publications/the-vinyl-factory/index.md)
+    - on 21 April 2016
+    - about [Batman (album)](../../../topics/album/batman/index.md), [Crystal Ball (album)](../../../topics/album/crystal-ball/index.md), [Dirty Mind (album)](../../../topics/album/dirty-mind/index.md), [Emancipation (album)](../../../topics/album/emancipation/index.md), [I Wanna Be Your Lover (song)](../../../topics/song/i-wanna-be-your-lover/index.md), [Mountains (song)](../../../topics/song/mountains/index.md), [Partyman (song)](../../../topics/song/partyman/index.md), [Purple Music (song)](../../../topics/song/purple-music/index.md), [Soft and Wet (song)](../../../topics/song/soft-and-wet/index.md), [The Ballad Of Dorothy Parker (song)](../../../topics/song/the-ballad-of-dorothy-parker/index.md), [Wonderful Ass (song)](../../../topics/song/wonderful-ass/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://thevinylfactory.com/features/10-artists-pick-their-favourite-prince-records/))
+
+<br />
 
  - [**"Susan Rogers Interview -- Classic Album Sundays"**](https://classicalbumsundays.com/susan-rogers-interview/)
     - in [Classic Album Sundays](../../../publications/classic-album-sundays/index.md)

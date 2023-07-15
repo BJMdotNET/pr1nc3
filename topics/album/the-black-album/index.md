@@ -25,14 +25,14 @@
 
 ----
 
-## 2019 (5)
+## 2019 (6)
 
 ### 2019 November (1)
 
  - [**"Life was just a party: Prince’s 1999 and Chicago house music -- The Purple One could hardly have avoided influencing a genre whose earliest, most ardent fans were queer Black and Brown kids."**](https://www.chicagoreader.com/chicago/prince-1999-house-saunders-traxx-linn-influence-reissue/Content?oid=75725330)
     - in [www.chicagoreader.com](../../../publications/www-chicagoreader-com/index.md)
     - on 20 November 2019
-    - about [1999 (album)](../../../topics/album/1999/index.md), [1999 (song)](../../../topics/song/1999/index.md), [bootleg](../../../topics/bootleg/index.md), [Cat Glover](../../../topics/cat-glover/index.md), [contract](../../../topics/contract/index.md), [I Wanna Be Your Lover (song)](../../../topics/song/i-wanna-be-your-lover/index.md), [Jamie Starr](../../../topics/jamie-starr/index.md), [Jimmy Jam](../../../topics/jimmy-jam/index.md), [Linn LM-1](../../../topics/linn-lm-1/index.md), [Miles Davis](../../../topics/miles-davis/index.md), [royalties](../../../topics/royalties/index.md), [Terry Lewis](../../../topics/terry-lewis/index.md), [The Black Album (album)](../../../topics/album/the-black-album/index.md), [The Revolution](../../../topics/the-revolution/index.md), [vault](../../../topics/vault/index.md)
+    - about [1999 (album)](../../../topics/album/1999/index.md), [1999 (song)](../../../topics/song/1999/index.md), [bootleg](../../../topics/bootleg/index.md), [Cat Glover](../../../topics/cat-glover/index.md), [contract](../../../topics/contract/index.md), [I Wanna Be Your Lover (song)](../../../topics/song/i-wanna-be-your-lover/index.md), [Jamie Starr](../../../topics/jamie-starr/index.md), [Jimmy Jam](../../../topics/jimmy-jam/index.md), [Linn LM-1](../../../topics/linn-lm-1/index.md), [LinnDrum (instrument)](../../../topics/instrument/linndrum/index.md), [Miles Davis](../../../topics/miles-davis/index.md), [royalties](../../../topics/royalties/index.md), [Terry Lewis](../../../topics/terry-lewis/index.md), [The Black Album (album)](../../../topics/album/the-black-album/index.md), [The Revolution](../../../topics/the-revolution/index.md), [vault](../../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.chicagoreader.com/chicago/prince-1999-house-saunders-traxx-linn-influence-reissue/Content?oid=75725330))
 
 ----
@@ -72,8 +72,30 @@
     - by [Chris Riemenschneider](../../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](../../../publications/minneapolis-star-tribune/index.md)
     - on 11 June 2019
-    - about [bootleg](../../../topics/bootleg/index.md), [Pepe Willie](../../../topics/pepe-willie/index.md), [The Black Album (album)](../../../topics/album/the-black-album/index.md), [The Gold Experience (album)](../../../topics/album/the-gold-experience/index.md)
+    - about [bootleg](../../../topics/bootleg/index.md), [Discogs](../../../topics/discogs/index.md), [Pepe Willie](../../../topics/pepe-willie/index.md), [The Black Album (album)](../../../topics/album/the-black-album/index.md), [The Gold Experience (album)](../../../topics/album/the-gold-experience/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-rules-collector-site-discogs-100-most-expensive-records-list/511122062/))
+
+----
+
+### 2019 March (1)
+
+ - [**"An introduction to the Linn LM-1 and 10 records it helped define -- From Herbie Hancock and Prince, to The Human League and aerobic work-outs."**](https://thevinylfactory.com/features/an-introduction-to-the-linn-lm-1-and-10-records-it-helped-define/)
+    - in [The Vinyl Factory](../../../publications/the-vinyl-factory/index.md)
+    - on 15 March 2019
+    - about [Black Album (album)](../../../topics/album/black-album/index.md), [Linn 9000 (instrument)](../../../topics/instrument/linn-9000/index.md), [Linn Electronics](../../../topics/linn-electronics/index.md), [Linn LM-1](../../../topics/linn-lm-1/index.md), [LinnDrum (instrument)](../../../topics/instrument/linndrum/index.md), [Roger Linn](../../../topics/roger-linn/index.md), [Superfunkycalifragisexy (song)](../../../topics/song/superfunkycalifragisexy/index.md), [Susan Rogers](../../../topics/susan-rogers/index.md), [The Black Album (album)](../../../topics/album/the-black-album/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://thevinylfactory.com/features/an-introduction-to-the-linn-lm-1-and-10-records-it-helped-define/))
+
+----
+
+## 2018 (1)
+
+### 2018 August (1)
+
+ - [**"Prince’s The Black Album becomes the most expensive record in the history of Discogs -- The only known Canadian copy was sold for $27,500."**](https://thevinylfactory.com/news/prince-the-black-album-discogs/)
+    - in [The Vinyl Factory](../../../publications/the-vinyl-factory/index.md)
+    - on 6 August 2018
+    - about [Black Album (album)](../../../topics/album/black-album/index.md), [Discogs](../../../topics/discogs/index.md), [The Black Album (album)](../../../topics/album/the-black-album/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://thevinylfactory.com/news/prince-the-black-album-discogs/))
 
 ----
 

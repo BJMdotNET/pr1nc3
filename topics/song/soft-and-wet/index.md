@@ -22,15 +22,23 @@
 
 ----
 
-## 2016 (1)
+## 2016 (2)
 
-### 2016 April (1)
+### 2016 April (2)
 
  - [**"The rearview mirror rehinged: how Prince's early years formed his legend -- Prince preferred not to talk about his past but vignettes of his past – from his father playing the piano in a strip club to his producer introducing him to the double entendre – undeniably shaped the innate talent that led to great success"**](https://www.theguardian.com/music/2016/apr/23/prince-death-early-years-formed-music-legend)
     - in [The Guardian](../../../publications/the-guardian/index.md)
     - on 23 April 2016
     - about [94 East](../../../topics/94-east/index.md), [Andre Cymone](../../../topics/andre-cymone/index.md), [Chris Moon](../../../topics/chris-moon/index.md), [Jimmy Jam](../../../topics/jimmy-jam/index.md), [Kenny Rogers](../../../topics/kenny-rogers/index.md), [Morris Day](../../../topics/morris-day/index.md), [Pepe Willie](../../../topics/pepe-willie/index.md), [performing rights](../../../topics/performing-rights/index.md), [Piano and a Microphone (tour)](../../../topics/tour/piano-and-a-microphone/index.md), [Soft and Wet (song)](../../../topics/song/soft-and-wet/index.md), [Terry Lewis](../../../topics/terry-lewis/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/music/2016/apr/23/prince-death-early-years-formed-music-legend))
+
+<br />
+
+ - [**"10 artists pick their favourite Prince records -- How many lives did Prince change? It’s probably impossible to say, but here are a few to start with. From Jill Scott to Seven Davis Jr., we asked ten artists to pick their favourite Prince records and tell us a little bit about why they mean so much to them."**](https://thevinylfactory.com/features/10-artists-pick-their-favourite-prince-records/)
+    - in [The Vinyl Factory](../../../publications/the-vinyl-factory/index.md)
+    - on 21 April 2016
+    - about [Batman (album)](../../../topics/album/batman/index.md), [Crystal Ball (album)](../../../topics/album/crystal-ball/index.md), [Dirty Mind (album)](../../../topics/album/dirty-mind/index.md), [Emancipation (album)](../../../topics/album/emancipation/index.md), [I Wanna Be Your Lover (song)](../../../topics/song/i-wanna-be-your-lover/index.md), [Mountains (song)](../../../topics/song/mountains/index.md), [Partyman (song)](../../../topics/song/partyman/index.md), [Purple Music (song)](../../../topics/song/purple-music/index.md), [Soft and Wet (song)](../../../topics/song/soft-and-wet/index.md), [The Ballad Of Dorothy Parker (song)](../../../topics/song/the-ballad-of-dorothy-parker/index.md), [Wonderful Ass (song)](../../../topics/song/wonderful-ass/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://thevinylfactory.com/features/10-artists-pick-their-favourite-prince-records/))
 
 ----
 
