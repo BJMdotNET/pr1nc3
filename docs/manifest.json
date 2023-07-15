@@ -6750,6 +6750,39 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "publications/long-live-vinyl/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/long-live-vinyl/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/long-live-vinyl/long-live-vinyl-2019.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/long-live-vinyl/long-live-vinyl-2019.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "publications/long-live-vinyl/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "publications/long-live-vinyl/toc.html"
+        },
+        ".json": {
+          "relative_path": "publications/long-live-vinyl/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "publications/los-angeles-daily-news/index.md",
       "output": {
         ".html": {
@@ -9778,6 +9811,39 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "publications/rtbf/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/rtbf/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/rtbf/rtbf-2019.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/rtbf/rtbf-2019.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "publications/rtbf/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "publications/rtbf/toc.html"
+        },
+        ".json": {
+          "relative_path": "publications/rtbf/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "publications/san-francisco-chronicle/index.md",
       "output": {
         ".html": {
@@ -11656,6 +11722,79 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "publications/the-vinyl-factory/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/the-vinyl-factory/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/the-vinyl-factory/the-vinyl-factory-2016.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/the-vinyl-factory/the-vinyl-factory-2016.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/the-vinyl-factory/the-vinyl-factory-2018.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/the-vinyl-factory/the-vinyl-factory-2018.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/the-vinyl-factory/the-vinyl-factory-2019.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/the-vinyl-factory/the-vinyl-factory-2019.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/the-vinyl-factory/the-vinyl-factory-2022.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/the-vinyl-factory/the-vinyl-factory-2022.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/the-vinyl-factory/the-vinyl-factory-2023.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/the-vinyl-factory/the-vinyl-factory-2023.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "publications/the-vinyl-factory/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "publications/the-vinyl-factory/toc.html"
+        },
+        ".json": {
+          "relative_path": "publications/the-vinyl-factory/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "publications/the-west-australian/index.md",
       "output": {
         ".html": {
@@ -13072,6 +13211,49 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "publications/vogue/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/vogue/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "publications/vogue/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "publications/vogue/toc.html"
+        },
+        ".json": {
+          "relative_path": "publications/vogue/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/vogue/vogue-2018.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/vogue/vogue-2018.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/vogue/vogue-2019.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/vogue/vogue-2019.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "publications/volkskrant/index.md",
       "output": {
         ".html": {
@@ -13872,6 +14054,39 @@
       "output": {
         ".html": {
           "relative_path": "publications/www-crooner-fr/www-crooner-fr-2019.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/www-crowdfunder-co-uk/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/www-crowdfunder-co-uk/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "publications/www-crowdfunder-co-uk/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "publications/www-crowdfunder-co-uk/toc.html"
+        },
+        ".json": {
+          "relative_path": "publications/www-crowdfunder-co-uk/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/www-crowdfunder-co-uk/www-crowdfunder-co-uk-2022.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/www-crowdfunder-co-uk/www-crowdfunder-co-uk-2022.html"
         }
       },
       "version": ""
@@ -14822,39 +15037,6 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "publications/www-longlivevinyl-net/index.md",
-      "output": {
-        ".html": {
-          "relative_path": "publications/www-longlivevinyl-net/index.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Toc",
-      "source_relative_path": "publications/www-longlivevinyl-net/toc.yml",
-      "output": {
-        ".html": {
-          "relative_path": "publications/www-longlivevinyl-net/toc.html"
-        },
-        ".json": {
-          "relative_path": "publications/www-longlivevinyl-net/toc.json"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "publications/www-longlivevinyl-net/www-longlivevinyl-net-2019.md",
-      "output": {
-        ".html": {
-          "relative_path": "publications/www-longlivevinyl-net/www-longlivevinyl-net-2019.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
       "source_relative_path": "publications/www-loudersound-com/index.md",
       "output": {
         ".html": {
@@ -15377,39 +15559,6 @@
       "output": {
         ".html": {
           "relative_path": "publications/www-rocknfolk-com/www-rocknfolk-com-2019.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "publications/www-rtbf-be/index.md",
-      "output": {
-        ".html": {
-          "relative_path": "publications/www-rtbf-be/index.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Toc",
-      "source_relative_path": "publications/www-rtbf-be/toc.yml",
-      "output": {
-        ".html": {
-          "relative_path": "publications/www-rtbf-be/toc.html"
-        },
-        ".json": {
-          "relative_path": "publications/www-rtbf-be/toc.json"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "publications/www-rtbf-be/www-rtbf-be-2019.md",
-      "output": {
-        ".html": {
-          "relative_path": "publications/www-rtbf-be/www-rtbf-be-2019.html"
         }
       },
       "version": ""
@@ -16109,49 +16258,6 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "publications/www-vogue-com/index.md",
-      "output": {
-        ".html": {
-          "relative_path": "publications/www-vogue-com/index.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Toc",
-      "source_relative_path": "publications/www-vogue-com/toc.yml",
-      "output": {
-        ".html": {
-          "relative_path": "publications/www-vogue-com/toc.html"
-        },
-        ".json": {
-          "relative_path": "publications/www-vogue-com/toc.json"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "publications/www-vogue-com/www-vogue-com-2018.md",
-      "output": {
-        ".html": {
-          "relative_path": "publications/www-vogue-com/www-vogue-com-2018.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "publications/www-vogue-com/www-vogue-com-2019.md",
-      "output": {
-        ".html": {
-          "relative_path": "publications/www-vogue-com/www-vogue-com-2019.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
       "source_relative_path": "publications/www-wbur-org/index.md",
       "output": {
         ".html": {
@@ -16179,39 +16285,6 @@
       "output": {
         ".html": {
           "relative_path": "publications/www-wbur-org/www-wbur-org-2019.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "publications/www-yahoo-com/index.md",
-      "output": {
-        ".html": {
-          "relative_path": "publications/www-yahoo-com/index.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Toc",
-      "source_relative_path": "publications/www-yahoo-com/toc.yml",
-      "output": {
-        ".html": {
-          "relative_path": "publications/www-yahoo-com/toc.html"
-        },
-        ".json": {
-          "relative_path": "publications/www-yahoo-com/toc.json"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "publications/www-yahoo-com/www-yahoo-com-2019.md",
-      "output": {
-        ".html": {
-          "relative_path": "publications/www-yahoo-com/www-yahoo-com-2019.html"
         }
       },
       "version": ""
@@ -16308,6 +16381,39 @@
       "output": {
         ".html": {
           "relative_path": "publications/yahoo-lifestyle-australia/yahoo-lifestyle-australia-2019.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/yahoo-lifestyle/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/yahoo-lifestyle/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "publications/yahoo-lifestyle/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "publications/yahoo-lifestyle/toc.html"
+        },
+        ".json": {
+          "relative_path": "publications/yahoo-lifestyle/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/yahoo-lifestyle/yahoo-lifestyle-2019.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/yahoo-lifestyle/yahoo-lifestyle-2019.html"
         }
       },
       "version": ""
@@ -19589,6 +19695,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/discogs/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/discogs/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/divorce/index.md",
       "output": {
         ".html": {
@@ -21269,6 +21385,26 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/instrument/linn-9000/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/instrument/linn-9000/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/instrument/linndrum/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/instrument/linndrum/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/instrument/mark-iib/index.md",
       "output": {
         ".html": {
@@ -22593,6 +22729,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/lindsey-buckingham/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/linn-electronics/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/linn-electronics/index.html"
         }
       },
       "version": ""
@@ -28579,6 +28725,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/song/superfunkycalifragisexy/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/song/superfunkycalifragisexy/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/song/take-me-with-u/index.md",
       "output": {
         ".html": {
@@ -30186,6 +30342,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/u-s-patent-and-trademark-office/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/unicef/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/unicef/index.html"
         }
       },
       "version": ""
