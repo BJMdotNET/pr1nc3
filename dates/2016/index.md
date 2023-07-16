@@ -1136,7 +1136,7 @@
 
 ----
 
-## June 2016 (74)
+## June 2016 (76)
 
  - [**"Bloomington guitar-maker's link to Prince passes to Colts owner -- Jim Irsay, owner of the Indianapolis Colts, collects famous guitars. Last week, he paid $137,500 in an auction to buy a guitar that at least looks a lot like the yellow version of Prince's "Cloud" guitar."**](https://www.startribune.com/bloomington-guitar-maker-s-link-to-prince-passes-to-colts-owner/385127861/)
     - in [Minneapolis Star Tribune](../../publications/minneapolis-star-tribune/index.md)
@@ -1597,6 +1597,22 @@
 
 ----
 
+ - [**"Autopsy: Prince Died From Accidental Fentanyl Overdose --  WCCO - CBS Minnesota"**](https://www.youtube.com/watch?v=FOHtukBvuOw)
+    - in [YouTube](../../publications/youtube/index.md)
+    - on 3 June 2016
+    - about [WCCO](../../topics/wcco/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.youtube.com/watch?v=FOHtukBvuOw))
+
+----
+
+ - [**"Autopsy: Prince Died Of Overdose Of Fentanyl -- WCCO - CBS Minnesota"**](https://www.youtube.com/watch?v=sV5szCUkNBA)
+    - in [YouTube](../../publications/youtube/index.md)
+    - on 3 June 2016
+    - about [WCCO](../../topics/wcco/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.youtube.com/watch?v=sV5szCUkNBA))
+
+----
+
  - [**"C.J.: Hal Sparks gets fired up about comedy, Prince and politics"**](https://www.startribune.com/c-j-hal-sparks-gets-fired-up-about-comedy-prince-and-politics/381818651/)
     - by [C.J. (Cheryl Johnson)](../../authors/c-j-cheryl-johnson/index.md)
     - in [Minneapolis Star Tribune](../../publications/minneapolis-star-tribune/index.md)
@@ -1723,7 +1739,7 @@
 
 ----
 
-## May 2016 (95)
+## May 2016 (96)
 
  - [**"Record crowd on hand as St. Paul Saints play Purple Game to remember Prince -- The St. Paul Saints gave Prince a final farewell — complete with a lot of purple, and some red Corvettes."**](https://www.startribune.com/record-crowd-on-hand-as-st-paul-saints-play-purple-game-to-remember-prince/381305401/)
     - in [Minneapolis Star Tribune](../../publications/minneapolis-star-tribune/index.md)
@@ -1902,6 +1918,14 @@
     - on 16 May 2016
     - about [auction](../../topics/auction/index.md), [contract](../../topics/contract/index.md), [Heritage Auctions](../../topics/heritage-auctions/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Meron Bekure](../../topics/meron-bekure/index.md), [Minnesota Vikings](../../topics/minnesota-vikings/index.md), [Paisley Park Records](../../topics/paisley-park-records/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)
     - ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/music/2016/05/15/princes-death-day-25--jehovahs-witness-memorial-guitar-auction/84412432/))
+
+----
+
+ - [**"Private Memorial Service Held At Prince's Place Of Worship -- WCCO - CBS Minnesota"**](https://www.youtube.com/watch?v=xf5q92gkHy0)
+    - in [YouTube](../../publications/youtube/index.md)
+    - on 16 May 2016
+    - about [WCCO](../../topics/wcco/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.youtube.com/watch?v=xf5q92gkHy0))
 
 ----
 
@@ -2492,7 +2516,7 @@
 
 ----
 
-## April 2016 (153)
+## April 2016 (161)
 
  - [**"AP Exclusive: Prince’s ‘Purple Rain’ coat is up for auction"**](https://apnews.com/8110dcbaa6714d75a12db043ff989975)
     - in [Associated Press News](../../publications/associated-press-news/index.md)
@@ -2635,6 +2659,14 @@
 
 ----
 
+ - [**"Prince’s 16 Minnesota Properties Valued At More Than $32M -- WCCO - CBS Minnesota"**](https://www.youtube.com/watch?v=kjGF35QOQlc)
+    - in [YouTube](../../publications/youtube/index.md)
+    - on 28 April 2016
+    - about [WCCO](../../topics/wcco/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.youtube.com/watch?v=kjGF35QOQlc))
+
+----
+
  - [**"Prince’s estate to be temporarily managed by trust company"**](https://apnews.com/606153a12f3041b8b76186c824538183)
     - in [Associated Press News](../../publications/associated-press-news/index.md)
     - on 28 April 2016
@@ -2693,6 +2725,14 @@
 
 ----
 
+ - [**"‘Hello My Love’: Young Prince Penned Song For Receptionist -- WCCO - CBS Minnesota"**](https://www.youtube.com/watch?v=uYgy_TD1D6A)
+    - in [YouTube](../../publications/youtube/index.md)
+    - on 27 April 2016
+    - about [Hello My Love (song)](../../topics/song/hello-my-love/index.md), [WCCO](../../topics/wcco/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.youtube.com/watch?v=uYgy_TD1D6A))
+
+----
+
  - [**"A Princess Remembers Prince -- “I was invited to have dinner after a show at five A.M. Prince opened the door of his suite wearing pink silk pajamas.”"**](https://www.vanityfair.com/style/2016/04/princess-gloria-von-thurn-und-taxis-remembers-prince)
     - by [Gloria von Thurn und Taxis](../../authors/gloria-von-thurn-und-taxis/index.md)
     - in [Vanity Fair](../../publications/vanity-fair/index.md)
@@ -2719,6 +2759,22 @@
 
 ----
 
+ - [**"Did Prince’s Religion Play A Role In His Death? -- WCCO - CBS Minnesota"**](https://www.youtube.com/watch?v=w0VoeGHj-qE)
+    - in [YouTube](../../publications/youtube/index.md)
+    - on 27 April 2016
+    - about [WCCO](../../topics/wcco/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.youtube.com/watch?v=w0VoeGHj-qE))
+
+----
+
+ - [**"Internal Battles In Prince’s Family Revealed In Court Documents -- WCCO - CBS Minnesota"**](https://www.youtube.com/watch?v=J6cDBEsX1o0)
+    - in [YouTube](../../publications/youtube/index.md)
+    - on 27 April 2016
+    - about [WCCO](../../topics/wcco/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.youtube.com/watch?v=J6cDBEsX1o0))
+
+----
+
  - [**"Judge orders Bremer Trust to handle Prince's estate -- The order followed an informal hearing via conference call."**](https://www.startribune.com/judge-orders-bremer-trust-to-handle-prince-s-estate/377313121/)
     - by [Emma Nelson](../../authors/emma-nelson/index.md)
     - in [Minneapolis Star Tribune](../../publications/minneapolis-star-tribune/index.md)
@@ -2741,6 +2797,14 @@
     - on 27 April 2016
     - about [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [lawsuit](../../topics/lawsuit/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [perfume](../../topics/perfume/index.md), [probate court](../../topics/probate-court/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/b7bcc90e42904f679c07158bf5e851a3))
+
+----
+
+ - [**"Prince's Sister Says He Didn’t Have A Will -- WCCO - CBS Minnesota"**](https://www.youtube.com/watch?v=Y9BKYfvAz_o)
+    - in [YouTube](../../publications/youtube/index.md)
+    - on 27 April 2016
+    - about [WCCO](../../topics/wcco/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.youtube.com/watch?v=Y9BKYfvAz_o))
 
 ----
 
@@ -3199,6 +3263,14 @@
 
 ----
 
+ - [**"Minnesota Musicians Pay Homage To Prince -- WCCO - CBS Minnesota"**](https://www.youtube.com/watch?v=EyspcVKkXc8)
+    - in [YouTube](../../publications/youtube/index.md)
+    - on 22 April 2016
+    - about [WCCO](../../topics/wcco/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.youtube.com/watch?v=EyspcVKkXc8))
+
+----
+
  - [**"Nashville mourns a Prince"**](https://eu.tennessean.com/story/entertainment/music/2016/04/21/nashville-musicians-remember-prince/83340932/)
     - in [Tennessean](../../publications/tennessean/index.md)
     - on 22 April 2016
@@ -3288,12 +3360,28 @@
 
 ----
 
+ - [**"Prince’s Lasting Legacy On The Minneapolis Music Scene -- WCCO - CBS Minnesota"**](https://www.youtube.com/watch?v=XLcH_ySTtV0)
+    - in [YouTube](../../publications/youtube/index.md)
+    - on 22 April 2016
+    - about [WCCO](../../topics/wcco/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.youtube.com/watch?v=XLcH_ySTtV0))
+
+----
+
  - [**"Prince’s Purple Rain – the inside story -- The full tale of the greatest triumph of one of rock’s true superstars"**](https://www.uncut.co.uk/features/princes-purple-rain-inside-story-73861/)
     - by [David Cavanagh](../../authors/david-cavanagh/index.md)
     - in [Uncut](../../publications/uncut/index.md)
     - on 22 April 2016
     - about [Alan Leeds](../../topics/alan-leeds/index.md), [Albert Magnoli](../../topics/albert-magnoli/index.md), [Apollonia](../../topics/apollonia/index.md), [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Baby I’m a Star (song)](../../topics/song/baby-i-m-a-star/index.md), [Bob Cavallo](../../topics/bob-cavallo/index.md), [Bobby Z](../../topics/bobby-z/index.md), [David Leonard](../../topics/david-leonard/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [Eddie Murphy](../../topics/eddie-murphy/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Golden Raspberry Awards](../../topics/golden-raspberry-awards/index.md), [I Would Die 4 U (song)](../../topics/song/i-would-die-4-u/index.md), [Jerome Benton](../../topics/jerome-benton/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Lionel Richie](../../topics/lionel-richie/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Mann’s Chinese Theatre (place)](../../topics/place/mann-s-chinese-theatre/index.md), [Matt Fink](../../topics/matt-fink/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Mo Ostin](../../topics/mo-ostin/index.md), [Morris Day](../../topics/morris-day/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Steve Fargnoli](../../topics/steve-fargnoli/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Terry Semel](../../topics/terry-semel/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md), [William Blinn](../../topics/william-blinn/index.md), [Worst Actor (award)](../../topics/award/worst-actor/index.md), [Worst Director (award)](../../topics/award/worst-director/index.md), [Worst Film (award)](../../topics/award/worst-film/index.md), [ZZ Top](../../topics/zz-top/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.uncut.co.uk/features/princes-purple-rain-inside-story-73861/))
+
+----
+
+ - [**"Prince’s Second Love In Minneapolis: Basketball -- WCCO - CBS Minnesota"**](https://www.youtube.com/watch?v=ktIWSOXFKFI)
+    - in [YouTube](../../publications/youtube/index.md)
+    - on 22 April 2016
+    - about [Al Nuness](../../topics/al-nuness/index.md), [WCCO](../../topics/wcco/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.youtube.com/watch?v=ktIWSOXFKFI))
 
 ----
 

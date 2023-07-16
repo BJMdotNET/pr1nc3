@@ -35,7 +35,7 @@
 
 ----
 
-## 2021 (2)
+## 2021 (3)
 
 ### 2021 December (1)
 
@@ -54,6 +54,16 @@
     - on 27 July 2021
     - about [1000 Light Years From Here (song)](../../topics/song/1000-light-years-from-here/index.md), [Hot Summer (song)](../../topics/song/hot-summer/index.md), [IRS](../../topics/irs/index.md), [Legacy Recordings](../../topics/legacy-recordings/index.md), [Soul Asylum](../../topics/soul-asylum/index.md), [Stand Up and B Strong (song)](../../topics/song/stand-up-and-b-strong/index.md), [vault](../../topics/vault/index.md), [Welcome 2 America (album)](../../topics/album/welcome-2-america/index.md), [Welcome 2 America (song)](../../topics/song/welcome-2-america/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/entertainment-music-arts-and-entertainment-prince-207c2f0de99ff17f62e02a1e48c63b8c))
+
+----
+
+### 2021 January (1)
+
+ - [**"IRS: Administrator Undervalued Paisley Park By Nearly 50%"**](https://www.cbsnews.com/minnesota/news/irs-administrator-undervalued-paisley-park-by-nearly-50/)
+    - in [WCCO - CBS Minnesota](../../publications/wcco-cbs-minnesota/index.md)
+    - on 4 January 2021
+    - about [Comerica](../../topics/comerica/index.md), [Comerica Bank & Trust](../../topics/comerica-bank-trust/index.md), [Dennis Patrick](../../topics/dennis-patrick/index.md), [Fredrikson & Byron](../../topics/fredrikson-byron/index.md), [Internal Revenue Service](../../topics/internal-revenue-service/index.md), [IRS](../../topics/irs/index.md), [probate court](../../topics/probate-court/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/irs-administrator-undervalued-paisley-park-by-nearly-50/))
 
 ----
 

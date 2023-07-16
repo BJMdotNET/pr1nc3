@@ -1,6 +1,23 @@
 # 2023
 
-## July 2023 (21)
+## July 2023 (23)
+
+ - [**"See spots that inspired Prince through a Minneapolis segway tour -- WCCO - CBS Minnesota"**](https://www.youtube.com/watch?v=jSJCuSZCq-4)
+    - in [YouTube](../../publications/youtube/index.md)
+    - on 15 July 2023
+    - about [Segway](../../topics/segway/index.md), [WCCO](../../topics/wcco/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.youtube.com/watch?v=jSJCuSZCq-4))
+
+----
+
+ - [**"Prince Segway tour gives fans unique Minneapolis perspective"**](https://www.cbsnews.com/minnesota/news/prince-segway-tour-gives-fans-unique-minneapolis-perspective/)
+    - by [Jason Rantala](../../authors/jason-rantala/index.md)
+    - in [WCCO - CBS Minnesota](../../publications/wcco-cbs-minnesota/index.md)
+    - on 14 July 2023
+    - about [First Avenue (place)](../../topics/place/first-avenue/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Segway](../../topics/segway/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/prince-segway-tour-gives-fans-unique-minneapolis-perspective/))
+
+----
 
  - [**"The records that made me: Jayda G on Gil Scott-Heron, Donna Summer and Prince -- Featuring Prince, Donald Byrd and Al Jarreau."**](https://thevinylfactory.com/features/records-that-made-me-jayda-g/)
     - in [The Vinyl Factory](../../publications/the-vinyl-factory/index.md)
@@ -64,6 +81,7 @@
 ----
 
  - [**"Listen: 2 newly released songs from Prince's vault include alternate version of "7""**](https://www.cbsnews.com/minnesota/news/listen-2-newly-released-songs-from-princes-vault-include-alternate-version-of-7/)
+    - by [WCCO Staff](../../authors/wcco-staff/index.md)
     - in [WCCO - CBS Minnesota](../../publications/wcco-cbs-minnesota/index.md)
     - on 7 July 2023
     - about [All A Share Together Now (song)](../../topics/song/all-a-share-together-now/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [Celebration 2023 (event)](../../topics/event/celebration-2023/index.md), [vault](../../topics/vault/index.md)
@@ -183,7 +201,7 @@
 
 ----
 
-## June 2023 (18)
+## June 2023 (19)
 
  - [**"The influence of Black music: How 'Flyte Tyme' changed the world from a recording studio"**](https://www.mprnews.org/story/2023/06/29/the-influence-of-black-music-how-flyte-tyme-changed-the-world-from-a-booth-in-edina)
     - by [Jae Bryson](../../authors/jae-bryson/index.md)
@@ -200,6 +218,15 @@
     - on 25 June 2023
     - about [Ani DiFranco](../../topics/ani-difranco/index.md), [Animal Kingdom (song)](../../topics/song/animal-kingdom/index.md), [Auerswald (instrument)](../../topics/instrument/auerswald/index.md), [Baby Knows (song)](../../topics/song/baby-knows/index.md), [Boss Vibrato (instrument)](../../topics/instrument/boss-vibrato/index.md), [Carlos Santana](../../topics/carlos-santana/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Cloud guitar (instrument)](../../topics/instrument/cloud-guitar/index.md), [Cry Baby (instrument)](../../topics/instrument/cry-baby/index.md), [Crystal Ball (album)](../../topics/album/crystal-ball/index.md), [Da Bang (song)](../../topics/song/da-bang/index.md), [Dave Rusan](../../topics/dave-rusan/index.md), [David Rusan](../../topics/david-rusan/index.md), [EMI](../../topics/emi/index.md), [Everyday Is a Winding Road (song)](../../topics/song/everyday-is-a-winding-road/index.md), [Flanger (instrument)](../../topics/instrument/flanger/index.md), [Freddie Stone](../../topics/freddie-stone/index.md), [Gwen Stefani](../../topics/gwen-stefani/index.md), [I Love U, But I Don't Trust U Anymore (song)](../../topics/song/i-love-u-but-i-don-t-trust-u-anymore/index.md), [I Love You, But I Don’t Trust You Anymore (song)](../../topics/song/i-love-you-but-i-don-t-trust-you-anymore/index.md), [I Would Die 4 U (song)](../../topics/song/i-would-die-4-u/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Maceo Parker](../../topics/maceo-parker/index.md), [Man O’ War (song)](../../topics/song/man-o-war/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Newpower Soul (album)](../../topics/album/newpower-soul/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Rave Un2 the Joy Fantastic (album)](../../topics/album/rave-un2-the-joy-fantastic/index.md), [Rave Un2 the Joy Fantastic (song)](../../topics/song/rave-un2-the-joy-fantastic/index.md), [Rufus](../../topics/rufus/index.md), [Schecter (instrument)](../../topics/instrument/schecter/index.md), [Sheryl Crow](../../topics/sheryl-crow/index.md), [Sly Stone](../../topics/sly-stone/index.md), [So Far, So Pleased (song)](../../topics/song/so-far-so-pleased/index.md), [Sonny T.](../../topics/sonny-t/index.md), [Tangerine (song)](../../topics/song/tangerine/index.md), [The Truth (album)](../../topics/album/the-truth/index.md), [Tony Maiden](../../topics/tony-maiden/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md), [Zoom 9030 (instrument)](../../topics/instrument/zoom-9030/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.guitarplayer.com/players/prince-january-2000-interview-guitar-player))
+
+----
+
+ - [**"Mychael Gabriel, Prince's godchild, releases debut album "Genesis""**](https://www.cbsnews.com/minnesota/news/mychael-gabriel-princes-godchild-releases-debut-album-genesis/)
+    - by [Derek James](../../authors/derek-james/index.md)
+    - in [WCCO - CBS Minnesota](../../publications/wcco-cbs-minnesota/index.md)
+    - on 23 June 2023
+    - about [Lake Minnetonka (place)](../../topics/place/lake-minnetonka/index.md), [Lenny Kravitz](../../topics/lenny-kravitz/index.md), [Mychael Gabriel](../../topics/mychael-gabriel/index.md), [Prince and The Revolution](../../topics/prince-and-the-revolution/index.md), [Purple Rain (tour)](../../topics/tour/purple-rain/index.md), [Sheila E.](../../topics/sheila-e/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/mychael-gabriel-princes-godchild-releases-debut-album-genesis/))
 
 ----
 
@@ -341,7 +368,7 @@
 
 ----
 
-## May 2023 (12)
+## May 2023 (15)
 
  - [**"Exclusive: Bangles' classic Eternal Flame originally REJECTED by band leaving songwriter 'bereft' -- Susanna Hoff, one of the co-founders of The Bangles, recalled her bandmates didn't want the iconic love song on their third album back in the 1980s , leaving her devastated"**](https://www.mirror.co.uk/3am/celebrity-news/bangles-classic-eternal-flame-originally-30038013)
     - in [www.mirror.co.uk](../../publications/www-mirror-co-uk/index.md)
@@ -369,6 +396,14 @@
 
 ----
 
+ - [**"Supreme Court rules against Andy Warhol in Prince portrait copyright dispute"**](https://www.cbsnews.com/minnesota/news/supreme-court-rules-against-andy-warhol-prince-copyright-dispute/)
+    - in [WCCO - CBS Minnesota](../../publications/wcco-cbs-minnesota/index.md)
+    - on 18 May 2023
+    - about [Andy Warhol](../../topics/andy-warhol/index.md), [Andy Warhol Foundation](../../topics/andy-warhol-foundation/index.md), [fair use](../../topics/fair-use/index.md), [Lynn Goldsmith](../../topics/lynn-goldsmith/index.md), [Supreme Court](../../topics/supreme-court/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/supreme-court-rules-against-andy-warhol-prince-copyright-dispute/))
+
+----
+
  - [**"Supreme Court rules against Andy Warhol’s foundation in a case about a portrait he made of Prince"**](https://apnews.com/article/supreme-court-andy-warhol-prince-copyright-061a115f4ab137bcbe36fcc8fe0c921b)
     - by [Jessica Gresko](../../authors/jessica-gresko/index.md)
     - in [Associated Press News](../../publications/associated-press-news/index.md)
@@ -387,6 +422,15 @@
 
 ----
 
+ - [**"It's official: Using purple ink, Gov. Walz signs bill that renames stretch of highway after Prince"**](https://www.cbsnews.com/minnesota/news/prince-rogers-nelson-memorial-highway-bill-signed-into-law-renaming-stretch-of-chanhassen-highway/)
+    - by [Reg Chapman](../../authors/reg-chapman/index.md), [WCCO Staff](../../authors/wcco-staff/index.md)
+    - in [WCCO - CBS Minnesota](../../publications/wcco-cbs-minnesota/index.md)
+    - on 9 May 2023
+    - about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Eden Prairie (place)](../../topics/place/eden-prairie/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Prince Rogers Nelson Memorial Highway (place)](../../topics/place/prince-rogers-nelson-memorial-highway/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [St. Paul (place)](../../topics/place/st-paul/index.md), [Tim Walz](../../topics/tim-walz/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/prince-rogers-nelson-memorial-highway-bill-signed-into-law-renaming-stretch-of-chanhassen-highway/))
+
+----
+
  - [**"Signed in purple ink, Minnesota dedicates highway to Prince"**](https://apnews.com/article/prince-minnesota-highway-renamed-45220b9307ba1dee12512c84c71063c1)
     - by [Trisha Ahmed](../../authors/trisha-ahmed/index.md)
     - in [Associated Press News](../../publications/associated-press-news/index.md)
@@ -401,6 +445,15 @@
     - on 6 May 2023
     - about [Celebration (event)](../../topics/event/celebration/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Doug E. Fresh](../../topics/doug-e-fresh/index.md), [Mint Condition](../../topics/mint-condition/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Stokley](../../topics/stokley/index.md)
     - ([mirror](https://web.archive.org/web/*/https://retropopmagazine.com/new-prince-material-to-be-released-as-part-of-annual-paisley-park-celebration/))
+
+----
+
+ - [**"Minnesota Senate approves renaming stretch of Highway 5 to honor Prince"**](https://www.cbsnews.com/minnesota/news/minnesota-senate-approves-prince-highway/)
+    - by [WCCO Staff](../../authors/wcco-staff/index.md)
+    - in [WCCO - CBS Minnesota](../../publications/wcco-cbs-minnesota/index.md)
+    - on 4 May 2023
+    - about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Julia Coleman](../../topics/julia-coleman/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Prince Rogers Nelson Memorial Highway (place)](../../topics/place/prince-rogers-nelson-memorial-highway/index.md), [Tim Walz](../../topics/tim-walz/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/minnesota-senate-approves-prince-highway/))
 
 ----
 
@@ -445,7 +498,7 @@
 
 ----
 
-## April 2023 (7)
+## April 2023 (8)
 
  - [**"Susanna Hoffs talks working with 'superhero' Prince and THAT Rock Hall performance -- Our latest guest on Tim's Listening Party "**](https://planetradio.co.uk/absolute-radio/music/news/susanna-hoffs-prince/)
     - in [planetradio.co.uk](../../publications/planetradio-co-uk/index.md)
@@ -460,6 +513,15 @@
     - on 23 April 2023
     - about [Bangles](../../topics/bangles/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md)
     - ([mirror](https://web.archive.org/web/*/https://planetradio.co.uk/podcasts/tims-listening-party/listen/2149590/))
+
+----
+
+ - [**"Minnesota House OKs bill to rename highway after Prince"**](https://www.cbsnews.com/minnesota/news/minnesota-house-oks-bill-to-rename-highway-after-prince/)
+    - by [WCCO Staff](../../authors/wcco-staff/index.md)
+    - in [WCCO - CBS Minnesota](../../publications/wcco-cbs-minnesota/index.md)
+    - on 21 April 2023
+    - about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Prince Rogers Nelson Memorial Highway (place)](../../topics/place/prince-rogers-nelson-memorial-highway/index.md), [Tim Walz](../../topics/tim-walz/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/minnesota-house-oks-bill-to-rename-highway-after-prince/))
 
 ----
 
@@ -503,7 +565,7 @@
 
 ----
 
-## March 2023 (3)
+## March 2023 (4)
 
  - [**"Susanna Hoffs Proves It's Never Too Late to Fulfill a Lifelong Dream -- The singer/songwriter from The Bangles discusses the writing of her debut novel, 'This Bird Has Flown,' and shares musical memories of Prince and Burt Bacharach"**](https://www.nextavenue.org/susanna-hoffs-proves-its-never-too-late/)
     - in [www.nextavenue.org](../../publications/www-nextavenue-org/index.md)
@@ -521,6 +583,15 @@
 
 ----
 
+ - [**"Bill to rename highway after Prince advances in committee"**](https://www.cbsnews.com/minnesota/news/bill-to-rename-highway-after-prince-advances-in-committee/)
+    - by [WCCO Staff](../../authors/wcco-staff/index.md)
+    - in [WCCO - CBS Minnesota](../../publications/wcco-cbs-minnesota/index.md)
+    - on 10 March 2023
+    - about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Prince Rogers Nelson Memorial Highway (place)](../../topics/place/prince-rogers-nelson-memorial-highway/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/bill-to-rename-highway-after-prince-advances-in-committee/))
+
+----
+
  - [**"Donatella Versace Remembers Late Brother Gianni, Friendship  With Prince and a Supermodel Catfight"**](https://variety.com/2023/scene/news/donatella-versace-gianni-prince-1235544576/)
     - by [Marc Malkin](../../authors/marc-malkin/index.md)
     - in [Variety](../../publications/variety/index.md)
@@ -530,13 +601,22 @@
 
 ----
 
-## February 2023 (2)
+## February 2023 (3)
 
  - [**"Why did Prince give away 'Manic Monday'?"**](https://faroutmagazine.co.uk/why-prince-give-away-manic-monday/)
     - in [Far Out Magazine](../../publications/far-out-magazine/index.md)
     - on 16 February 2023
     - about [Bangles](../../topics/bangles/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md)
     - ([mirror](https://web.archive.org/web/*/https://faroutmagazine.co.uk/why-prince-give-away-manic-monday/))
+
+----
+
+ - [**"Lawmaker aims to rename stretch of Chanhassen highway in honor of Prince"**](https://www.cbsnews.com/minnesota/news/lawmaker-aims-to-rename-stretch-of-chanhassen-highway-in-honor-of-prince/)
+    - by [WCCO Staff](../../authors/wcco-staff/index.md)
+    - in [WCCO - CBS Minnesota](../../publications/wcco-cbs-minnesota/index.md)
+    - on 6 February 2023
+    - about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Julia Coleman](../../topics/julia-coleman/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Prince Rogers Nelson Memorial Highway (place)](../../topics/place/prince-rogers-nelson-memorial-highway/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/lawmaker-aims-to-rename-stretch-of-chanhassen-highway-in-honor-of-prince/))
 
 ----
 

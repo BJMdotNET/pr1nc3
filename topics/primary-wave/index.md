@@ -42,7 +42,7 @@
 
 ----
 
-## 2022 (4)
+## 2022 (5)
 
 ### 2022 August (2)
 
@@ -61,6 +61,17 @@
     - on 1 August 2022
     - about [Charles Spicer](../../topics/charles-spicer/index.md), [Comerica](../../topics/comerica/index.md), [Comerica Bank & Trust](../../topics/comerica-bank-trust/index.md), [Internal Revenue Service](../../topics/internal-revenue-service/index.md), [IRS](../../topics/irs/index.md), [L. Londell McMillan](../../topics/l-londell-mcmillan/index.md), [NorthStar Group](../../topics/northstar-group/index.md), [Primary Wave](../../topics/primary-wave/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Prince Legacy LLC](../../topics/prince-legacy-llc/index.md), [Prince Oat Holdings LLC](../../topics/prince-oat-holdings-llc/index.md), [probate court](../../topics/probate-court/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/pro/prince-estate-court-battle-ends-six-years/))
+
+----
+
+### 2022 July (1)
+
+ - [**"Following 6 year legal dispute, family aims to bring Prince's original music back to Paisley Park"**](https://www.cbsnews.com/minnesota/news/following-six-year-legal-dispute-family-aims-to-bring-princes-original-music-back-to-paisley-park/)
+    - by [Reg Chapman](../../authors/reg-chapman/index.md)
+    - in [WCCO - CBS Minnesota](../../publications/wcco-cbs-minnesota/index.md)
+    - on 29 July 2022
+    - about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Carver County](../../topics/carver-county/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Primary Wave](../../topics/primary-wave/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [vault](../../topics/vault/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/following-six-year-legal-dispute-family-aims-to-bring-princes-original-music-back-to-paisley-park/))
 
 ----
 

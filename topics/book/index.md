@@ -16,7 +16,7 @@
   * [Prince Pre Fame (book)](../book/prince-pre-fame/index.md) (3)
   * [Prince: Chaos, Disorder, and Revolution (book)](../book/prince-chaos-disorder-and-revolution/index.md) (1)
   * [The Beautiful Ones (book)](../book/the-beautiful-ones/index.md) (131)
-  * [The Most Beautiful (book)](../book/the-most-beautiful/index.md) (7)
+  * [The Most Beautiful (book)](../book/the-most-beautiful/index.md) (8)
   * [Wally, Where’d You Get Those Glasses? (book)](../book/wally-where-d-you-get-those-glasses/index.md) (1)
 
 ----

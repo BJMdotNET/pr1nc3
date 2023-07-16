@@ -288,6 +288,16 @@
 
 ----
 
+## March 2021 (1)
+
+ - [**"New Prince Exhibits, Mementos On Display At Paisley Park -- WCCO - CBS Minnesota"**](https://www.youtube.com/watch?v=3zi6fhDKuow)
+    - in [YouTube](../../publications/youtube/index.md)
+    - on 15 March 2021
+    - about [WCCO](../../topics/wcco/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.youtube.com/watch?v=3zi6fhDKuow))
+
+----
+
 ## February 2021 (2)
 
  - [**"Grammy-nominated or not, No. 1 hits over the years"**](https://apnews.com/article/billboard-number-ones-since-1958-669399a1a931e8cbc4578572f2b5f48e)
@@ -304,6 +314,16 @@
     - on 4 February 2021
     - about [Alan Seiffert](../../topics/alan-seiffert/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Divinity (animal)](../../topics/animal/divinity/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/minnesota-prince-1bd0d87e74ffa9087ef13d12b2de4fa7))
+
+----
+
+## January 2021 (1)
+
+ - [**"IRS: Administrator Undervalued Paisley Park By Nearly 50%"**](https://www.cbsnews.com/minnesota/news/irs-administrator-undervalued-paisley-park-by-nearly-50/)
+    - in [WCCO - CBS Minnesota](../../publications/wcco-cbs-minnesota/index.md)
+    - on 4 January 2021
+    - about [Comerica](../../topics/comerica/index.md), [Comerica Bank & Trust](../../topics/comerica-bank-trust/index.md), [Dennis Patrick](../../topics/dennis-patrick/index.md), [Fredrikson & Byron](../../topics/fredrikson-byron/index.md), [Internal Revenue Service](../../topics/internal-revenue-service/index.md), [IRS](../../topics/irs/index.md), [probate court](../../topics/probate-court/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/irs-administrator-undervalued-paisley-park-by-nearly-50/))
 
 ----
 

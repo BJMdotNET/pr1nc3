@@ -1,5 +1,18 @@
 # St. Paul (place)
 
+## 2023 (1)
+
+### 2023 May (1)
+
+ - [**"It's official: Using purple ink, Gov. Walz signs bill that renames stretch of highway after Prince"**](https://www.cbsnews.com/minnesota/news/prince-rogers-nelson-memorial-highway-bill-signed-into-law-renaming-stretch-of-chanhassen-highway/)
+    - by [Reg Chapman](../../../authors/reg-chapman/index.md), [WCCO Staff](../../../authors/wcco-staff/index.md)
+    - in [WCCO - CBS Minnesota](../../../publications/wcco-cbs-minnesota/index.md)
+    - on 9 May 2023
+    - about [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Eden Prairie (place)](../../../topics/place/eden-prairie/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Prince Rogers Nelson Memorial Highway (place)](../../../topics/place/prince-rogers-nelson-memorial-highway/index.md), [Sharon Nelson](../../../topics/sharon-nelson/index.md), [St. Paul (place)](../../../topics/place/st-paul/index.md), [Tim Walz](../../../topics/tim-walz/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/prince-rogers-nelson-memorial-highway-bill-signed-into-law-renaming-stretch-of-chanhassen-highway/))
+
+----
+
 ## 2021 (1)
 
 ### 2021 June (1)

@@ -1,6 +1,17 @@
 # Twin Cities (place)
 
-## 2023 (4)
+## 2023 (5)
+
+### 2023 July (1)
+
+ - [**"Prince Segway tour gives fans unique Minneapolis perspective"**](https://www.cbsnews.com/minnesota/news/prince-segway-tour-gives-fans-unique-minneapolis-perspective/)
+    - by [Jason Rantala](../../../authors/jason-rantala/index.md)
+    - in [WCCO - CBS Minnesota](../../../publications/wcco-cbs-minnesota/index.md)
+    - on 14 July 2023
+    - about [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Segway](../../../topics/segway/index.md), [Twin Cities (place)](../../../topics/place/twin-cities/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/prince-segway-tour-gives-fans-unique-minneapolis-perspective/))
+
+----
 
 ### 2023 June (4)
 
@@ -36,6 +47,44 @@
     - on 5 June 2023
     - about [André Cymone](../../../topics/andr-cymone/index.md), [BrownMark](../../../topics/brownmark/index.md), [Celebration (event)](../../../topics/event/celebration/index.md), [Celebration 2017 (event)](../../../topics/event/celebration-2017/index.md), [Celebration 2023 (event)](../../../topics/event/celebration-2023/index.md), [Chaka Khan](../../../topics/chaka-khan/index.md), [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [DJ Rashida](../../../topics/dj-rashida/index.md), [Doug E. Fresh](../../../topics/doug-e-fresh/index.md), [exhibit](../../../topics/exhibit/index.md), [exhibition](../../../topics/exhibition/index.md), [fDeluxe](../../../topics/fdeluxe/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [George Clinton](../../../topics/george-clinton/index.md), [Jesse Johnson](../../../topics/jesse-johnson/index.md), [Mazarati](../../../topics/mazarati/index.md), [Mint Condition](../../../topics/mint-condition/index.md), [Morris Day](../../../topics/morris-day/index.md), [Morris Day and The Time](../../../topics/morris-day-and-the-time/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Prince Rogers Nelson Memorial Highway (place)](../../../topics/place/prince-rogers-nelson-memorial-highway/index.md), [Randee St. Nicholas](../../../topics/randee-st-nicholas/index.md), [Rosie Gaines](../../../topics/rosie-gaines/index.md), [Shelby J.](../../../topics/shelby-j/index.md), [Sounds of Blackness](../../../topics/sounds-of-blackness/index.md), [Stokely Williams](../../../topics/stokely-williams/index.md), [Stokley](../../../topics/stokley/index.md), [Twin Cities (place)](../../../topics/place/twin-cities/index.md), [Xcel Energy Center (place)](../../../topics/place/xcel-energy-center/index.md)
     - ([mirror](https://web.archive.org/web/*/https://spokesman-recorder.com/2023/06/05/celebration-returns-to-paisley-park/))
+
+----
+
+## 2022 (4)
+
+### 2022 June (1)
+
+ - [**"Prince Mural Unveiled In Downtown Minneapolis"**](https://www.cbsnews.com/minnesota/news/prince-mural-downtown-minneapolis/)
+    - in [WCCO - CBS Minnesota](../../../publications/wcco-cbs-minnesota/index.md)
+    - on 2 June 2022
+    - about [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Target Center (place)](../../../topics/place/target-center/index.md), [Twin Cities (place)](../../../topics/place/twin-cities/index.md), [WCCO](../../../topics/wcco/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/prince-mural-downtown-minneapolis/))
+
+----
+
+### 2022 April (3)
+
+ - [**"'Prince Was Not Scared Of Nobody': Childhood Friends Remember 'The Purple One'"**](https://www.cbsnews.com/minnesota/news/prince-friends/)
+    - in [WCCO - CBS Minnesota](../../../publications/wcco-cbs-minnesota/index.md)
+    - on 22 April 2022
+    - about [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Ronnie Kitchen](../../../topics/ronnie-kitchen/index.md), [Terrance Jackson](../../../topics/terrance-jackson/index.md), [Terry Lewis](../../../topics/terry-lewis/index.md), [Twin Cities (place)](../../../topics/place/twin-cities/index.md), [WCCO](../../../topics/wcco/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/prince-friends/))
+
+<br />
+
+ - [**"Film Of Prince At Age 11 Discovered In Archival Footage Of 1970 Mpls. Teachers Strike"**](https://www.cbsnews.com/minnesota/news/prince-rare-footage-1970/)
+    - in [WCCO - CBS Minnesota](../../../publications/wcco-cbs-minnesota/index.md)
+    - on 5 April 2022
+    - about [Kristen Zschomler](../../../topics/kristen-zschomler/index.md), [Matt Liddy](../../../topics/matt-liddy/index.md), [Minneapolis Public Schools](../../../topics/minneapolis-public-schools/index.md), [Ronnie Kitchen](../../../topics/ronnie-kitchen/index.md), [Skipper](../../../topics/skipper/index.md), [teachers strike](../../../topics/teachers-strike/index.md), [Terrance Jackson](../../../topics/terrance-jackson/index.md), [Twin Cities (place)](../../../topics/place/twin-cities/index.md), [WCCO](../../../topics/wcco/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/prince-rare-footage-1970/))
+
+<br />
+
+ - [**"Rare footage discovered of Prince, 11, at 1970 Minneapolis teachers’ strike -- CBS News affiliate WCCO uncovers archive material of school-age Prince being interviewed as teachers picket in the background"**](https://www.theguardian.com/us-news/2022/apr/05/prince-1970-footage-minnesota-teachers-strike)
+    - in [The Guardian](../../../publications/the-guardian/index.md)
+    - on 5 April 2022
+    - about [Kristen Zschomler](../../../topics/kristen-zschomler/index.md), [Matt Liddy](../../../topics/matt-liddy/index.md), [Ronnie Kitchen](../../../topics/ronnie-kitchen/index.md), [Skipper](../../../topics/skipper/index.md), [Terrance Jackson](../../../topics/terrance-jackson/index.md), [Twin Cities (place)](../../../topics/place/twin-cities/index.md), [WCCO](../../../topics/wcco/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/us-news/2022/apr/05/prince-1970-footage-minnesota-teachers-strike))
 
 ----
 

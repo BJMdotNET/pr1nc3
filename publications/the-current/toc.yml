@@ -11,3 +11,6 @@ items:
 - name: 2020
   href: the-current-2020.md
   homepage: the-current-2020.md
+- name: 2022
+  href: the-current-2022.md
+  homepage: the-current-2022.md

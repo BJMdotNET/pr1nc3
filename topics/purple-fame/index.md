@@ -22,6 +22,18 @@
 
 ----
 
+## 2022 (1)
+
+### 2022 October (1)
+
+ - [**"SCOTUS hears copyright arguments over Andy Warhol's silkscreens of Prince"**](https://www.cbsnews.com/minnesota/news/scotus-hears-copyright-arguments-over-andy-warhols-silkscreens-of-prince/)
+    - in [WCCO - CBS Minnesota](../../publications/wcco-cbs-minnesota/index.md)
+    - on 12 October 2022
+    - about [Andy Warhol](../../topics/andy-warhol/index.md), [Andy Warhol Foundation](../../topics/andy-warhol-foundation/index.md), [fair use](../../topics/fair-use/index.md), [Lynn Goldsmith](../../topics/lynn-goldsmith/index.md), [Prince Series](../../topics/prince-series/index.md), [Purple Fame](../../topics/purple-fame/index.md), [Supreme Court](../../topics/supreme-court/index.md), [Vanity Fair (magazine)](../../topics/magazine/vanity-fair/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/scotus-hears-copyright-arguments-over-andy-warhols-silkscreens-of-prince/))
+
+----
+
 ## 2019 (1)
 
 ### 2019 July (1)

@@ -21,6 +21,18 @@
 
 ----
 
+## 2022 (1)
+
+### 2022 March (1)
+
+ - [**"Morris Day Says Prince Estate Preventing Him From Using The Time's Band Name"**](https://www.cbsnews.com/minnesota/news/morris-day-says-prince-estate-preventing-him-from-using-the-times-band-name/)
+    - in [WCCO - CBS Minnesota](../../publications/wcco-cbs-minnesota/index.md)
+    - on 4 March 2022
+    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [The Time](../../topics/the-time/index.md), [WCCO](../../topics/wcco/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/morris-day-says-prince-estate-preventing-him-from-using-the-times-band-name/))
+
+----
+
 ## 2020 (2)
 
 ### 2020 January (2)

@@ -88,6 +88,7 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/minneapolis-star-tribune/index.md)
     - on 19 November 2018
+    - about [Minneapolis Public Schools](../../topics/minneapolis-public-schools/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-s-paisley-park-starts-program-with-minneapolis-public-schools/500851022/))
 
 ----

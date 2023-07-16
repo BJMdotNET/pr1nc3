@@ -1,6 +1,6 @@
 # Chanhassen (place)
 
-## 2023 (9)
+## 2023 (14)
 
 ### 2023 June (4)
 
@@ -38,7 +38,16 @@
 
 ----
 
-### 2023 May (5)
+### 2023 May (7)
+
+ - [**"It's official: Using purple ink, Gov. Walz signs bill that renames stretch of highway after Prince"**](https://www.cbsnews.com/minnesota/news/prince-rogers-nelson-memorial-highway-bill-signed-into-law-renaming-stretch-of-chanhassen-highway/)
+    - by [Reg Chapman](../../../authors/reg-chapman/index.md), [WCCO Staff](../../../authors/wcco-staff/index.md)
+    - in [WCCO - CBS Minnesota](../../../publications/wcco-cbs-minnesota/index.md)
+    - on 9 May 2023
+    - about [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Eden Prairie (place)](../../../topics/place/eden-prairie/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Prince Rogers Nelson Memorial Highway (place)](../../../topics/place/prince-rogers-nelson-memorial-highway/index.md), [Sharon Nelson](../../../topics/sharon-nelson/index.md), [St. Paul (place)](../../../topics/place/st-paul/index.md), [Tim Walz](../../../topics/tim-walz/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/prince-rogers-nelson-memorial-highway-bill-signed-into-law-renaming-stretch-of-chanhassen-highway/))
+
+<br />
 
  - [**"Signed in purple ink, Minnesota dedicates highway to Prince"**](https://apnews.com/article/prince-minnesota-highway-renamed-45220b9307ba1dee12512c84c71063c1)
     - by [Trisha Ahmed](../../../authors/trisha-ahmed/index.md)
@@ -54,6 +63,15 @@
     - on 6 May 2023
     - about [Celebration (event)](../../../topics/event/celebration/index.md), [Chaka Khan](../../../topics/chaka-khan/index.md), [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Doug E. Fresh](../../../topics/doug-e-fresh/index.md), [Mint Condition](../../../topics/mint-condition/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Stokley](../../../topics/stokley/index.md)
     - ([mirror](https://web.archive.org/web/*/https://retropopmagazine.com/new-prince-material-to-be-released-as-part-of-annual-paisley-park-celebration/))
+
+<br />
+
+ - [**"Minnesota Senate approves renaming stretch of Highway 5 to honor Prince"**](https://www.cbsnews.com/minnesota/news/minnesota-senate-approves-prince-highway/)
+    - by [WCCO Staff](../../../authors/wcco-staff/index.md)
+    - in [WCCO - CBS Minnesota](../../../publications/wcco-cbs-minnesota/index.md)
+    - on 4 May 2023
+    - about [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Julia Coleman](../../../topics/julia-coleman/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Prince Rogers Nelson Memorial Highway (place)](../../../topics/place/prince-rogers-nelson-memorial-highway/index.md), [Tim Walz](../../../topics/tim-walz/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/minnesota-senate-approves-prince-highway/))
 
 <br />
 
@@ -82,9 +100,50 @@
 
 ----
 
-## 2022 (2)
+### 2023 April (1)
 
-### 2022 April (1)
+ - [**"Minnesota House OKs bill to rename highway after Prince"**](https://www.cbsnews.com/minnesota/news/minnesota-house-oks-bill-to-rename-highway-after-prince/)
+    - by [WCCO Staff](../../../authors/wcco-staff/index.md)
+    - in [WCCO - CBS Minnesota](../../../publications/wcco-cbs-minnesota/index.md)
+    - on 21 April 2023
+    - about [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Prince Rogers Nelson Memorial Highway (place)](../../../topics/place/prince-rogers-nelson-memorial-highway/index.md), [Tim Walz](../../../topics/tim-walz/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/minnesota-house-oks-bill-to-rename-highway-after-prince/))
+
+----
+
+### 2023 March (1)
+
+ - [**"Bill to rename highway after Prince advances in committee"**](https://www.cbsnews.com/minnesota/news/bill-to-rename-highway-after-prince-advances-in-committee/)
+    - by [WCCO Staff](../../../authors/wcco-staff/index.md)
+    - in [WCCO - CBS Minnesota](../../../publications/wcco-cbs-minnesota/index.md)
+    - on 10 March 2023
+    - about [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Prince Rogers Nelson Memorial Highway (place)](../../../topics/place/prince-rogers-nelson-memorial-highway/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/bill-to-rename-highway-after-prince-advances-in-committee/))
+
+----
+
+### 2023 February (1)
+
+ - [**"Lawmaker aims to rename stretch of Chanhassen highway in honor of Prince"**](https://www.cbsnews.com/minnesota/news/lawmaker-aims-to-rename-stretch-of-chanhassen-highway-in-honor-of-prince/)
+    - by [WCCO Staff](../../../authors/wcco-staff/index.md)
+    - in [WCCO - CBS Minnesota](../../../publications/wcco-cbs-minnesota/index.md)
+    - on 6 February 2023
+    - about [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Julia Coleman](../../../topics/julia-coleman/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Prince Rogers Nelson Memorial Highway (place)](../../../topics/place/prince-rogers-nelson-memorial-highway/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/lawmaker-aims-to-rename-stretch-of-chanhassen-highway-in-honor-of-prince/))
+
+----
+
+## 2022 (3)
+
+### 2022 April (2)
+
+ - [**"'Prince Was Not Scared Of Nobody': Childhood Friends Remember 'The Purple One'"**](https://www.cbsnews.com/minnesota/news/prince-friends/)
+    - in [WCCO - CBS Minnesota](../../../publications/wcco-cbs-minnesota/index.md)
+    - on 22 April 2022
+    - about [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Ronnie Kitchen](../../../topics/ronnie-kitchen/index.md), [Terrance Jackson](../../../topics/terrance-jackson/index.md), [Terry Lewis](../../../topics/terry-lewis/index.md), [Twin Cities (place)](../../../topics/place/twin-cities/index.md), [WCCO](../../../topics/wcco/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/prince-friends/))
+
+<br />
 
  - [**"Minneapolis mural of pop icon Prince to be finished in June"**](https://apnews.com/article/entertainment-prince-miami-florida-minneapolis-0e95e564f7228cdf0bfaa28140b674bc)
     - in [Associated Press News](../../../publications/associated-press-news/index.md)

@@ -1,5 +1,27 @@
 # Minnesota Twins
 
+## 2022 (2)
+
+### 2022 June (2)
+
+ - [**"Twins celebrate Prince on what would've been his 64th birthday"**](https://www.cbsnews.com/minnesota/news/twins-celebrate-prince-on-what-wouldve-been-his-64th-birthday/)
+    - by [WCCO Staff](../../authors/wcco-staff/index.md)
+    - in [WCCO - CBS Minnesota](../../publications/wcco-cbs-minnesota/index.md)
+    - on 7 June 2022
+    - about [Minnesota Twins](../../topics/minnesota-twins/index.md), [WCCO](../../topics/wcco/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/twins-celebrate-prince-on-what-wouldve-been-his-64th-birthday/))
+
+<br />
+
+ - [**"Target Field to go purple for "Prince Night" Tuesday"**](https://www.cbsnews.com/minnesota/news/target-field-to-go-purple-for-prince-night-tuesday/)
+    - by [WCCO Staff](../../authors/wcco-staff/index.md)
+    - in [WCCO - CBS Minnesota](../../publications/wcco-cbs-minnesota/index.md)
+    - on 6 June 2022
+    - about [Minnesota Twins](../../topics/minnesota-twins/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/target-field-to-go-purple-for-prince-night-tuesday/))
+
+----
+
 ## 2019 (1)
 
 ### 2019 June (1)

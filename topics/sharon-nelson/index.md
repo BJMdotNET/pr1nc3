@@ -1,8 +1,17 @@
 # Sharon Nelson
 
-## 2023 (1)
+## 2023 (2)
 
-### 2023 May (1)
+### 2023 May (2)
+
+ - [**"It's official: Using purple ink, Gov. Walz signs bill that renames stretch of highway after Prince"**](https://www.cbsnews.com/minnesota/news/prince-rogers-nelson-memorial-highway-bill-signed-into-law-renaming-stretch-of-chanhassen-highway/)
+    - by [Reg Chapman](../../authors/reg-chapman/index.md), [WCCO Staff](../../authors/wcco-staff/index.md)
+    - in [WCCO - CBS Minnesota](../../publications/wcco-cbs-minnesota/index.md)
+    - on 9 May 2023
+    - about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Eden Prairie (place)](../../topics/place/eden-prairie/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Prince Rogers Nelson Memorial Highway (place)](../../topics/place/prince-rogers-nelson-memorial-highway/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [St. Paul (place)](../../topics/place/st-paul/index.md), [Tim Walz](../../topics/tim-walz/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/prince-rogers-nelson-memorial-highway-bill-signed-into-law-renaming-stretch-of-chanhassen-highway/))
+
+<br />
 
  - [**"Purple lanes: Minnesota highway signs to honor Prince"**](https://apnews.com/article/prince-highway-name-minnesota-a1ac515d07ce850f18f56e63eb8bcef1)
     - by [Steve Karnowski (Associated Press)](../../authors/associated-press/steve-karnowski/index.md)
@@ -10,6 +19,29 @@
     - on 4 May 2023
     - about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Internal Revenue Service](../../topics/internal-revenue-service/index.md), [IRS](../../topics/irs/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [museum](../../topics/museum/index.md), [Paisley Park Studios (place)](../../topics/place/paisley-park-studios/index.md), [Primary Wave](../../topics/primary-wave/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/prince-highway-name-minnesota-a1ac515d07ce850f18f56e63eb8bcef1))
+
+----
+
+## 2022 (2)
+
+### 2022 July (1)
+
+ - [**"Following 6 year legal dispute, family aims to bring Prince's original music back to Paisley Park"**](https://www.cbsnews.com/minnesota/news/following-six-year-legal-dispute-family-aims-to-bring-princes-original-music-back-to-paisley-park/)
+    - by [Reg Chapman](../../authors/reg-chapman/index.md)
+    - in [WCCO - CBS Minnesota](../../publications/wcco-cbs-minnesota/index.md)
+    - on 29 July 2022
+    - about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Carver County](../../topics/carver-county/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Primary Wave](../../topics/primary-wave/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [vault](../../topics/vault/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/following-six-year-legal-dispute-family-aims-to-bring-princes-original-music-back-to-paisley-park/))
+
+----
+
+### 2022 April (1)
+
+ - [**"'This Is Crazy': QuestLove, Internet Reacts To WCCO's Archive Footage Of Prince At Age 11"**](https://www.cbsnews.com/minnesota/news/this-is-crazy-questlove-internet-reacts-to-wccos-archive-footage-of-prince-at-age-11/)
+    - in [WCCO - CBS Minnesota](../../publications/wcco-cbs-minnesota/index.md)
+    - on 5 April 2022
+    - about [Minneapolis Public Schools](../../topics/minneapolis-public-schools/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Sometimes It Snows In April (song)](../../topics/song/sometimes-it-snows-in-april/index.md), [WCCO](../../topics/wcco/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/this-is-crazy-questlove-internet-reacts-to-wccos-archive-footage-of-prince-at-age-11/))
 
 ----
 

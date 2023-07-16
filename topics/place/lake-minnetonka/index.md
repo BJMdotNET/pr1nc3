@@ -1,8 +1,17 @@
 # Lake Minnetonka (place)
 
-## 2023 (1)
+## 2023 (2)
 
-### 2023 June (1)
+### 2023 June (2)
+
+ - [**"Mychael Gabriel, Prince's godchild, releases debut album "Genesis""**](https://www.cbsnews.com/minnesota/news/mychael-gabriel-princes-godchild-releases-debut-album-genesis/)
+    - by [Derek James](../../../authors/derek-james/index.md)
+    - in [WCCO - CBS Minnesota](../../../publications/wcco-cbs-minnesota/index.md)
+    - on 23 June 2023
+    - about [Lake Minnetonka (place)](../../../topics/place/lake-minnetonka/index.md), [Lenny Kravitz](../../../topics/lenny-kravitz/index.md), [Mychael Gabriel](../../../topics/mychael-gabriel/index.md), [Prince and The Revolution](../../../topics/prince-and-the-revolution/index.md), [Purple Rain (tour)](../../../topics/tour/purple-rain/index.md), [Sheila E.](../../../topics/sheila-e/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/mychael-gabriel-princes-godchild-releases-debut-album-genesis/))
+
+<br />
 
  - [**"Why did Prince decide to live in Chanhassen? -- The Minneapolis native's legacy will forever be linked to his state-of-the-art suburban playground, Paisley Park."**](https://www.startribune.com/prince-minneapolis-chanhassen-paisley-park-andre-cymone-morris-day-bobby-z/600281369/)
     - by [Jon Bream](../../../authors/jon-bream/index.md)

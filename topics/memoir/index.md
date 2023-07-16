@@ -1187,7 +1187,7 @@
 
 ----
 
-## 2017 (5)
+## 2017 (6)
 
 ### 2017 August (1)
 
@@ -1197,6 +1197,16 @@
     - on 10 August 2017
     - about [Joni Mitchell](../../topics/joni-mitchell/index.md), [memoir](../../topics/memoir/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Trump](../../topics/trump/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/jazz-legend-herbie-hancock-talks-music-recovery-and-partying-with-prince/439675873/))
+
+----
+
+### 2017 May (1)
+
+ - [**"Prince's First Wife, Mayte Garcia, Talks Memoir -- WCCO - CBS Minnesota"**](https://www.youtube.com/watch?v=MbH1fnq3YVg)
+    - in [YouTube](../../publications/youtube/index.md)
+    - on 10 May 2017
+    - about [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [memoir](../../topics/memoir/index.md), [The Most Beautiful (book)](../../topics/book/the-most-beautiful/index.md), [WCCO](../../topics/wcco/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.youtube.com/watch?v=MbH1fnq3YVg))
 
 ----
 

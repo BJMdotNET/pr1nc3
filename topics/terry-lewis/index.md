@@ -21,7 +21,7 @@
 
 ----
 
-## 2022 (1)
+## 2022 (2)
 
 ### 2022 November (1)
 
@@ -30,6 +30,16 @@
     - on 1 November 2022
     - about [Earth, Wind & Fire](../../topics/earth-wind-fire/index.md), [Grammys](../../topics/grammys/index.md), [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Lionel Richie](../../topics/lionel-richie/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Q-Tip](../../topics/q-tip/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Time](../../topics/the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/britney-spears-entertainment-travel-music-8ee900272c36979c2d64e4fa79bd12b4))
+
+----
+
+### 2022 April (1)
+
+ - [**"'Prince Was Not Scared Of Nobody': Childhood Friends Remember 'The Purple One'"**](https://www.cbsnews.com/minnesota/news/prince-friends/)
+    - in [WCCO - CBS Minnesota](../../publications/wcco-cbs-minnesota/index.md)
+    - on 22 April 2022
+    - about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Ronnie Kitchen](../../topics/ronnie-kitchen/index.md), [Terrance Jackson](../../topics/terrance-jackson/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md), [WCCO](../../topics/wcco/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/prince-friends/))
 
 ----
 

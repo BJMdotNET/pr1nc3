@@ -13,7 +13,7 @@
 
 ----
 
-## 2021 (1)
+## 2021 (2)
 
 ### 2021 December (1)
 
@@ -22,6 +22,16 @@
     - on 22 December 2021
     - about [Carver County](../../topics/carver-county/index.md), [Comerica](../../topics/comerica/index.md), [Comerica Bank & Trust](../../topics/comerica-bank-trust/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Internal Revenue Service](../../topics/internal-revenue-service/index.md), [IRS](../../topics/irs/index.md), [Primary Wave](../../topics/primary-wave/index.md), [probate court](../../topics/probate-court/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/entertainment-music-prince-internal-revenue-service-e143ea1dc6b68844d9d06f0345c46c10))
+
+----
+
+### 2021 January (1)
+
+ - [**"IRS: Administrator Undervalued Paisley Park By Nearly 50%"**](https://www.cbsnews.com/minnesota/news/irs-administrator-undervalued-paisley-park-by-nearly-50/)
+    - in [WCCO - CBS Minnesota](../../publications/wcco-cbs-minnesota/index.md)
+    - on 4 January 2021
+    - about [Comerica](../../topics/comerica/index.md), [Comerica Bank & Trust](../../topics/comerica-bank-trust/index.md), [Dennis Patrick](../../topics/dennis-patrick/index.md), [Fredrikson & Byron](../../topics/fredrikson-byron/index.md), [Internal Revenue Service](../../topics/internal-revenue-service/index.md), [IRS](../../topics/irs/index.md), [probate court](../../topics/probate-court/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/irs-administrator-undervalued-paisley-park-by-nearly-50/))
 
 ----
 

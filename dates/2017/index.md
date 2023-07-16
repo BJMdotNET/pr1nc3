@@ -685,7 +685,7 @@
 
 ----
 
-## May 2017 (14)
+## May 2017 (16)
 
  - [**"Judge: Sound engineer can’t publish unreleased Prince tracks"**](https://apnews.com/28f8d4317b3b43219621f58a3252addb)
     - in [Associated Press News](../../publications/associated-press-news/index.md)
@@ -760,12 +760,28 @@
 
 ----
 
+ - [**"Prince's 1st Wife, Mayte, Reflects On Life With Icon -- WCCO - CBS Minnesota"**](https://www.youtube.com/watch?v=oFha4EyVSRY)
+    - in [YouTube](../../publications/youtube/index.md)
+    - on 11 May 2017
+    - about [Mayte](../../topics/mayte/index.md), [WCCO](../../topics/wcco/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.youtube.com/watch?v=oFha4EyVSRY))
+
+----
+
  - [**"Battle over Prince estate plays on -- Move would start clock ticking on when others can still make claims."**](https://www.startribune.com/battle-over-prince-estate-plays-on/421893663/)
     - by [David Chanen](../../authors/david-chanen/index.md)
     - in [Minneapolis Star Tribune](../../publications/minneapolis-star-tribune/index.md)
     - on 10 May 2017
     - about [Prince Estate](../../topics/prince-estate/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/battle-over-prince-estate-plays-on/421893663/))
+
+----
+
+ - [**"Prince's First Wife, Mayte Garcia, Talks Memoir -- WCCO - CBS Minnesota"**](https://www.youtube.com/watch?v=MbH1fnq3YVg)
+    - in [YouTube](../../publications/youtube/index.md)
+    - on 10 May 2017
+    - about [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [memoir](../../topics/memoir/index.md), [The Most Beautiful (book)](../../topics/book/the-most-beautiful/index.md), [WCCO](../../topics/wcco/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.youtube.com/watch?v=MbH1fnq3YVg))
 
 ----
 
@@ -801,7 +817,7 @@
 
 ----
 
-## April 2017 (52)
+## April 2017 (55)
 
  - [**"‘Purple Rain’ re-issue to feature unreleased Prince songs"**](https://apnews.com/495f034e59ad4375a854c5476852d886)
     - in [Associated Press News](../../publications/associated-press-news/index.md)
@@ -913,6 +929,22 @@
     - on 20 April 2017
     - about [Bobby Z.](../../topics/bobby-z/index.md), [BrownMark](../../topics/brownmark/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Matt Fink](../../topics/matt-fink/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/98e9d09300534ac8a7ae5b7b82e9567f))
+
+----
+
+ - [**"A Look At Prince's Minnesota Legacy -- WCCO - CBS Minnesota"**](https://www.youtube.com/watch?v=M7S0eB5gOSA)
+    - in [YouTube](../../publications/youtube/index.md)
+    - on 20 April 2017
+    - about [WCCO](../../topics/wcco/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.youtube.com/watch?v=M7S0eB5gOSA))
+
+----
+
+ - [**"'He Needed Someone Real': Prince's Longtime Hair Stylist Shares Memories -- WCCO - CBS Minnesota"**](https://www.youtube.com/watch?v=CxAlnw8Zduo)
+    - in [YouTube](../../publications/youtube/index.md)
+    - on 20 April 2017
+    - about [WCCO](../../topics/wcco/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.youtube.com/watch?v=CxAlnw8Zduo))
 
 ----
 
@@ -1070,6 +1102,15 @@
     - in [Minneapolis Star Tribune](../../publications/minneapolis-star-tribune/index.md)
     - on 17 April 2017
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/search-warrants-provide-few-clues-into-source-of-prince-s-fatal-overdose/419614143/))
+
+----
+
+ - [**"The 25 best Prince songs of all time"**](https://www.cbsnews.com/minnesota/news/top-25-best-prince-songs-of-all-time/)
+    - by [Eric Henderson](../../authors/eric-henderson/index.md)
+    - in [WCCO - CBS Minnesota](../../publications/wcco-cbs-minnesota/index.md)
+    - on 17 April 2017
+    - about [17 Days (song)](../../topics/song/17-days/index.md), [4 the Tears in Your Eyes (song)](../../topics/song/4-the-tears-in-your-eyes/index.md), [Baby I'm a Star (song)](../../topics/song/baby-i-m-a-star/index.md), [Call My Name (song)](../../topics/song/call-my-name/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Erotic City (song)](../../topics/song/erotic-city/index.md), [Housequake (song)](../../topics/song/housequake/index.md), [How Come U Don't Call Me Anymore (song)](../../topics/song/how-come-u-don-t-call-me-anymore/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [I Wanna Be Your Lover (song)](../../topics/song/i-wanna-be-your-lover/index.md), [I Would Die 4 U (song)](../../topics/song/i-would-die-4-u/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Nasty Girl (song)](../../topics/song/nasty-girl/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Patrice Rushen](../../topics/patrice-rushen/index.md), [Pop Life (song)](../../topics/song/pop-life/index.md), [Raspberry Beret (song)](../../topics/song/raspberry-beret/index.md), [Round and Round (song)](../../topics/song/round-and-round/index.md), [Sex Shooter (song)](../../topics/song/sex-shooter/index.md), [Sometimes It Snows In April (song)](../../topics/song/sometimes-it-snows-in-april/index.md), [Starfish And Coffee (song)](../../topics/song/starfish-and-coffee/index.md), [Tevin Campbell](../../topics/tevin-campbell/index.md), [The Ballad Of Dorothy Parker (song)](../../topics/song/the-ballad-of-dorothy-parker/index.md), [WCCO](../../topics/wcco/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/top-25-best-prince-songs-of-all-time/))
 
 ----
 
@@ -1445,7 +1486,7 @@
 
 ----
 
-## January 2017 (16)
+## January 2017 (17)
 
  - [**"Carver County judge decides not to appoint a co-executor for Prince's estate -- Comerica Bank & Trust will solely manage the multimillion estate."**](https://www.startribune.com/carver-county-judge-decides-not-to-appoint-a-co-executor-for-prince-s-estate/411678576/)
     - by [Mary Lynn Smith](../../authors/mary-lynn-smith/index.md)
@@ -1486,6 +1527,14 @@
     - on 17 January 2017
     - about [Michael Jackson](../../topics/michael-jackson/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Robert Strauss](../../topics/robert-strauss/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/79450a727b23422e94e3ded9a5f9fcff))
+
+----
+
+ - [**"New Documents Shed Light On Prince's 2nd Marriage, Divorce -- WCCO - CBS Minnesota"**](https://www.youtube.com/watch?v=D3TBxrOjwD8)
+    - in [YouTube](../../publications/youtube/index.md)
+    - on 14 January 2017
+    - about [divorce](../../topics/divorce/index.md), [WCCO](../../topics/wcco/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.youtube.com/watch?v=D3TBxrOjwD8))
 
 ----
 

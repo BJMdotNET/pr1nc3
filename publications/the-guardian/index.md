@@ -1,5 +1,6 @@
 # The Guardian
 
+  * [2022](./the-guardian-2022.md) (1)
   * [2019](./the-guardian-2019.md) (3)
   * [2018](./the-guardian-2018.md) (3)
   * [2017](./the-guardian-2017.md) (1)

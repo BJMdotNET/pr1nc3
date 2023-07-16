@@ -278,7 +278,7 @@
 
 ----
 
-## 2017 (12)
+## 2017 (13)
 
 ### 2017 December (1)
 
@@ -375,7 +375,15 @@
 
 ----
 
-### 2017 January (2)
+### 2017 January (3)
+
+ - [**"New Documents Shed Light On Prince's 2nd Marriage, Divorce -- WCCO - CBS Minnesota"**](https://www.youtube.com/watch?v=D3TBxrOjwD8)
+    - in [YouTube](../../publications/youtube/index.md)
+    - on 14 January 2017
+    - about [divorce](../../topics/divorce/index.md), [WCCO](../../topics/wcco/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.youtube.com/watch?v=D3TBxrOjwD8))
+
+<br />
 
  - [**"Divorce file: Prince, 2nd wife lived luxurious lifestyle"**](https://apnews.com/d52610515904420ca116e820411aa344)
     - in [Associated Press News](../../publications/associated-press-news/index.md)

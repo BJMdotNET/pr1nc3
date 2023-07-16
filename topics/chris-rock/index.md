@@ -1,5 +1,17 @@
 # Chris Rock
 
+## 2022 (1)
+
+### 2022 November (1)
+
+ - [**"Chris Rock Interviews Prince in 1997 - MTV Rewind -- MTV Vault"**](https://www.youtube.com/watch?v=_6k13ZDRl7g)
+    - in [YouTube](../../publications/youtube/index.md)
+    - on 30 November 2022
+    - about [Chris Rock](../../topics/chris-rock/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.youtube.com/watch?v=_6k13ZDRl7g))
+
+----
+
 ## 2016 (1)
 
 ### 2016 April (1)

@@ -49,6 +49,7 @@
 <br />
 
  - [**"Listen: 2 newly released songs from Prince's vault include alternate version of "7""**](https://www.cbsnews.com/minnesota/news/listen-2-newly-released-songs-from-princes-vault-include-alternate-version-of-7/)
+    - by [WCCO Staff](../../authors/wcco-staff/index.md)
     - in [WCCO - CBS Minnesota](../../publications/wcco-cbs-minnesota/index.md)
     - on 7 July 2023
     - about [All A Share Together Now (song)](../../topics/song/all-a-share-together-now/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [Celebration 2023 (event)](../../topics/event/celebration-2023/index.md), [vault](../../topics/vault/index.md)
@@ -171,6 +172,19 @@
     - on 4 May 2023
     - about [Celebration (event)](../../topics/event/celebration/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Doug E. Fresh](../../topics/doug-e-fresh/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Sounds of Blackness](../../topics/sounds-of-blackness/index.md), [vault](../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/music/rb-hip-hop/prince-unreleased-music-paisley-park-celebration-2023-1235321771/))
+
+----
+
+## 2022 (1)
+
+### 2022 July (1)
+
+ - [**"Following 6 year legal dispute, family aims to bring Prince's original music back to Paisley Park"**](https://www.cbsnews.com/minnesota/news/following-six-year-legal-dispute-family-aims-to-bring-princes-original-music-back-to-paisley-park/)
+    - by [Reg Chapman](../../authors/reg-chapman/index.md)
+    - in [WCCO - CBS Minnesota](../../publications/wcco-cbs-minnesota/index.md)
+    - on 29 July 2022
+    - about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Carver County](../../topics/carver-county/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Primary Wave](../../topics/primary-wave/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [vault](../../topics/vault/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/following-six-year-legal-dispute-family-aims-to-bring-princes-original-music-back-to-paisley-park/))
 
 ----
 

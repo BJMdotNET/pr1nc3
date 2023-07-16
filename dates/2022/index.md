@@ -27,7 +27,15 @@
 
 ----
 
-## November 2022 (4)
+## November 2022 (5)
+
+ - [**"Chris Rock Interviews Prince in 1997 - MTV Rewind -- MTV Vault"**](https://www.youtube.com/watch?v=_6k13ZDRl7g)
+    - in [YouTube](../../publications/youtube/index.md)
+    - on 30 November 2022
+    - about [Chris Rock](../../topics/chris-rock/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.youtube.com/watch?v=_6k13ZDRl7g))
+
+----
 
  - [**"Review: Nick Hornby has affable romp in ‘Dickens and Prince’"**](https://apnews.com/article/entertainment-science-soccer-sports-reviews-7616c927a02b4d87478342f2c564197c)
     - in [Associated Press News](../../publications/associated-press-news/index.md)
@@ -61,7 +69,7 @@
 
 ----
 
-## October 2022 (2)
+## October 2022 (3)
 
  - [**"Why Did Prince & The Revolution Split? Engineer Susan Rogers Shares. Sunset Sound Roundtable -- (Sunset Sound Recorders)"**](https://www.youtube.com/watch?v=z3U4hJP9gbc)
     - in [YouTube](../../publications/youtube/index.md)
@@ -76,6 +84,14 @@
     - on 12 October 2022
     - about [Andy Warhol](../../topics/andy-warhol/index.md), [Andy Warhol Foundation](../../topics/andy-warhol-foundation/index.md), [fair use](../../topics/fair-use/index.md), [Lynn Goldsmith](../../topics/lynn-goldsmith/index.md), [Recording Industry Association of America](../../topics/recording-industry-association-of-america/index.md), [Supreme Court](../../topics/supreme-court/index.md), [Syracuse (place)](../../topics/place/syracuse/index.md), [Vanity Fair (magazine)](../../topics/magazine/vanity-fair/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/ketanji-brown-jackson-us-supreme-court-entertainment-music-b6b865d5fc4b616be5474221390ed725))
+
+----
+
+ - [**"SCOTUS hears copyright arguments over Andy Warhol's silkscreens of Prince"**](https://www.cbsnews.com/minnesota/news/scotus-hears-copyright-arguments-over-andy-warhols-silkscreens-of-prince/)
+    - in [WCCO - CBS Minnesota](../../publications/wcco-cbs-minnesota/index.md)
+    - on 12 October 2022
+    - about [Andy Warhol](../../topics/andy-warhol/index.md), [Andy Warhol Foundation](../../topics/andy-warhol-foundation/index.md), [fair use](../../topics/fair-use/index.md), [Lynn Goldsmith](../../topics/lynn-goldsmith/index.md), [Prince Series](../../topics/prince-series/index.md), [Purple Fame](../../topics/purple-fame/index.md), [Supreme Court](../../topics/supreme-court/index.md), [Vanity Fair (magazine)](../../topics/magazine/vanity-fair/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/scotus-hears-copyright-arguments-over-andy-warhols-silkscreens-of-prince/))
 
 ----
 
@@ -134,7 +150,18 @@
 
 ----
 
-## June 2022 (6)
+## July 2022 (1)
+
+ - [**"Following 6 year legal dispute, family aims to bring Prince's original music back to Paisley Park"**](https://www.cbsnews.com/minnesota/news/following-six-year-legal-dispute-family-aims-to-bring-princes-original-music-back-to-paisley-park/)
+    - by [Reg Chapman](../../authors/reg-chapman/index.md)
+    - in [WCCO - CBS Minnesota](../../publications/wcco-cbs-minnesota/index.md)
+    - on 29 July 2022
+    - about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Carver County](../../topics/carver-county/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Primary Wave](../../topics/primary-wave/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [vault](../../topics/vault/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/following-six-year-legal-dispute-family-aims-to-bring-princes-original-music-back-to-paisley-park/))
+
+----
+
+## June 2022 (10)
 
  - [**"Purple Rain: The Story Behind Prince’s Career-Defining Song -- The song most associated with Prince, Purple Rain is an epic power ballad that embodied its creator’s search for transcendence through music."**](https://www.thisisdig.com/feature/purple-rain-prince-song-story/)
     - by [Jason Draper](../../authors/jason-draper/index.md)
@@ -189,7 +216,49 @@
 
 ----
 
-## May 2022 (2)
+ - [**"Twins celebrate Prince on what would've been his 64th birthday"**](https://www.cbsnews.com/minnesota/news/twins-celebrate-prince-on-what-wouldve-been-his-64th-birthday/)
+    - by [WCCO Staff](../../authors/wcco-staff/index.md)
+    - in [WCCO - CBS Minnesota](../../publications/wcco-cbs-minnesota/index.md)
+    - on 7 June 2022
+    - about [Minnesota Twins](../../topics/minnesota-twins/index.md), [WCCO](../../topics/wcco/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/twins-celebrate-prince-on-what-wouldve-been-his-64th-birthday/))
+
+----
+
+ - [**"Target Field to go purple for "Prince Night" Tuesday"**](https://www.cbsnews.com/minnesota/news/target-field-to-go-purple-for-prince-night-tuesday/)
+    - by [WCCO Staff](../../authors/wcco-staff/index.md)
+    - in [WCCO - CBS Minnesota](../../publications/wcco-cbs-minnesota/index.md)
+    - on 6 June 2022
+    - about [Minnesota Twins](../../topics/minnesota-twins/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/target-field-to-go-purple-for-prince-night-tuesday/))
+
+----
+
+ - [**"Prince Mural Unveiled In Downtown Minneapolis"**](https://www.cbsnews.com/minnesota/news/prince-mural-downtown-minneapolis/)
+    - in [WCCO - CBS Minnesota](../../publications/wcco-cbs-minnesota/index.md)
+    - on 2 June 2022
+    - about [First Avenue (place)](../../topics/place/first-avenue/index.md), [Target Center (place)](../../topics/place/target-center/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md), [WCCO](../../topics/wcco/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/prince-mural-downtown-minneapolis/))
+
+----
+
+ - [**"Restored Prince And The Revolution Concert From 1985 Released Amid Birthday Celebration"**](https://www.cbsnews.com/minnesota/news/prince-revolution-concert-restored/)
+    - in [WCCO - CBS Minnesota](../../publications/wcco-cbs-minnesota/index.md)
+    - on 2 June 2022
+    - about [Bobby Z](../../topics/bobby-z/index.md), [Bobby Z.](../../topics/bobby-z/index.md), [Carrier Dome (place)](../../topics/place/carrier-dome/index.md), [mural](../../topics/mural/index.md), [Prince and The Revolution](../../topics/prince-and-the-revolution/index.md), [Purple Rain (tour)](../../topics/tour/purple-rain/index.md), [Syracuse (place)](../../topics/place/syracuse/index.md), [The Revolution](../../topics/the-revolution/index.md), [WCCO](../../topics/wcco/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/prince-revolution-concert-restored/))
+
+----
+
+## May 2022 (3)
+
+ - [**"Minneapolis Approves 'Prince Rogers Nelson Way' Commemorative Street Sign Outside First Avenue"**](https://www.cbsnews.com/minnesota/news/minneapolis-approves-prince-rogers-nelson-way-commemorative-street-sign-outside-first-avenue/)
+    - in [WCCO - CBS Minnesota](../../publications/wcco-cbs-minnesota/index.md)
+    - on 26 May 2022
+    - about [Crown Our Prince Mural](../../topics/crown-our-prince-mural/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Joan Vorderbruggen](../../topics/joan-vorderbruggen/index.md), [mural](../../topics/mural/index.md), [Prince Rogers Nelson Way (place)](../../topics/place/prince-rogers-nelson-way/index.md), [Sharon Smith-Akinsanya](../../topics/sharon-smith-akinsanya/index.md), [Timberwolves](../../topics/timberwolves/index.md), [WCCO](../../topics/wcco/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/minneapolis-approves-prince-rogers-nelson-way-commemorative-street-sign-outside-first-avenue/))
+
+----
 
  - [**"Concierto de Prince de 1985 encuentra una nueva vida"**](https://apnews.com/article/espectaculos-23bc732247c86fe6560620d986328d6d)
     - in [Associated Press News](../../publications/associated-press-news/index.md)
@@ -207,7 +276,7 @@
 
 ----
 
-## April 2022 (3)
+## April 2022 (21)
 
  - [**"“The Best Plan Was to Make a Guitar I Would Enjoy Playing”: Dave Rusan Reveals the Magic Behind Prince’s Iconic Solidbody -- Nearly 40 years on, the Cloud electric guitar is a lasting presence in the gear world firmament."**](https://www.guitarplayer.com/gear/the-best-plan-was-to-make-a-guitar-i-would-enjoy-playing-dave-rusan-reveals-the-magic-behind-princes-iconic-solidbody)
     - in [GuitarPlayer](../../publications/guitarplayer/index.md)
@@ -217,11 +286,116 @@
 
 ----
 
+ - [**"Minneapolis news accidentally discovers footage of little kid Prince, presents it 4 U to watch -- WCCO in Minneapolis came across footage of an 11-year-old Prince while researching a recent story"**](https://www.avclub.com/young-prince-interview-wcco-minneapolis-1848745364)
+    - in [www.avclub.com](../../publications/www-avclub-com/index.md)
+    - on 22 April 2022
+    - about [Jeff Wagner](../../topics/jeff-wagner/index.md), [Matt Liddy](../../topics/matt-liddy/index.md), [Skipper](../../topics/skipper/index.md), [WCCO](../../topics/wcco/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.avclub.com/young-prince-interview-wcco-minneapolis-1848745364))
+
+----
+
+ - [**"'Prince Was Not Scared Of Nobody': Childhood Friends Remember 'The Purple One'"**](https://www.cbsnews.com/minnesota/news/prince-friends/)
+    - in [WCCO - CBS Minnesota](../../publications/wcco-cbs-minnesota/index.md)
+    - on 22 April 2022
+    - about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Ronnie Kitchen](../../topics/ronnie-kitchen/index.md), [Terrance Jackson](../../topics/terrance-jackson/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md), [WCCO](../../topics/wcco/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/prince-friends/))
+
+----
+
+ - [**"Prince’s Childhood Friends Take Trip Down Memory Lane -- WCCO - CBS Minnesota"**](https://www.youtube.com/watch?v=XivWwz-dVUA)
+    - in [YouTube](../../publications/youtube/index.md)
+    - on 22 April 2022
+    - about [Jeff Wagner](../../topics/jeff-wagner/index.md), [WCCO](../../topics/wcco/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.youtube.com/watch?v=XivWwz-dVUA))
+
+----
+
  - [**"Minneapolis mural of pop icon Prince to be finished in June"**](https://apnews.com/article/entertainment-prince-miami-florida-minneapolis-0e95e564f7228cdf0bfaa28140b674bc)
     - in [Associated Press News](../../publications/associated-press-news/index.md)
     - on 10 April 2022
     - about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Grammy Award](../../topics/grammy-award/index.md), [museum](../../topics/museum/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/entertainment-prince-miami-florida-minneapolis-0e95e564f7228cdf0bfaa28140b674bc))
+
+----
+
+ - [**"Film at 11: How a Minnesota Station Found Old Footage of a Very Young Prince -- The 1970 clip is a “miraculous” find, a former editor at the local CBS station said. It shows an interview with Prince, 11, commenting on a teachers’ strike in Minneapolis."**](https://www.nytimes.com/2022/04/07/us/prince-1970-teachers-strike-wcco.html)
+    - by [Maria Cramer](../../authors/maria-cramer/index.md)
+    - in [New York Times](../../publications/new-york-times/index.md)
+    - on 7 April 2022
+    - about [Anil Dash](../../topics/anil-dash/index.md), [Bernadette Anderson](../../topics/bernadette-anderson/index.md), [Jeff Wagner](../../topics/jeff-wagner/index.md), [Mattie Shaw](../../topics/mattie-shaw/index.md), [Mattie Shaw Nelson Baker](../../topics/mattie-shaw-nelson-baker/index.md), [Quent Neufeld](../../topics/quent-neufeld/index.md), [Questlove](../../topics/questlove/index.md), [Skipper](../../topics/skipper/index.md), [Terrance Jackson](../../topics/terrance-jackson/index.md), [Tom Ziegler](../../topics/tom-ziegler/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md), [WCCO](../../topics/wcco/index.md), [WCCO-TV](../../topics/wcco-tv/index.md), [Zaheer Ali](../../topics/zaheer-ali/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.nytimes.com/2022/04/07/us/prince-1970-teachers-strike-wcco.html))
+
+----
+
+ - [**"How WCCO-TV found old footage of a very young Prince"**](https://www.twincities.com/2022/04/07/film-at-11-how-wcco-tv-found-old-footage-of-a-very-young-prince/)
+    - in [TwinCities.com - Pioneer Press](../../publications/twincities-com-pioneer-press/index.md)
+    - on 7 April 2022
+    - about [Anil Dash](../../topics/anil-dash/index.md), [Bernadette Anderson](../../topics/bernadette-anderson/index.md), [Elliott Powell](../../topics/elliott-powell/index.md), [Jeff Wagner](../../topics/jeff-wagner/index.md), [Mattie Shaw](../../topics/mattie-shaw/index.md), [Mattie Shaw Nelson Baker](../../topics/mattie-shaw-nelson-baker/index.md), [Quent Neufeld](../../topics/quent-neufeld/index.md), [Questlove](../../topics/questlove/index.md), [Skipper](../../topics/skipper/index.md), [Terrance Jackson](../../topics/terrance-jackson/index.md), [Tom Ziegler](../../topics/tom-ziegler/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md), [WCCO](../../topics/wcco/index.md), [WCCO-TV](../../topics/wcco-tv/index.md), [Zaheer Ali](../../topics/zaheer-ali/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2022/04/07/film-at-11-how-wcco-tv-found-old-footage-of-a-very-young-prince/))
+
+----
+
+ - [**"Film Of Prince At Age 11 Discovered In Archival Footage Of 1970 Mpls. Teachers Strike"**](https://www.cbsnews.com/minnesota/news/prince-rare-footage-1970/)
+    - in [WCCO - CBS Minnesota](../../publications/wcco-cbs-minnesota/index.md)
+    - on 5 April 2022
+    - about [Kristen Zschomler](../../topics/kristen-zschomler/index.md), [Matt Liddy](../../topics/matt-liddy/index.md), [Minneapolis Public Schools](../../topics/minneapolis-public-schools/index.md), [Ronnie Kitchen](../../topics/ronnie-kitchen/index.md), [Skipper](../../topics/skipper/index.md), [teachers strike](../../topics/teachers-strike/index.md), [Terrance Jackson](../../topics/terrance-jackson/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md), [WCCO](../../topics/wcco/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/prince-rare-footage-1970/))
+
+----
+
+ - [**"Footage of 11-year-old Prince speaking up on 1970 teacher's strike uncovered"**](https://www.mprnews.org/episode/2022/04/05/footage-of-11yearold-prince-speaking-up-on-1970-teachers-strike-uncovered)
+    - in [MPR News (Minnesota Public Radio)](../../publications/mpr-news-minnesota-public-radio/index.md)
+    - on 5 April 2022
+    - about [Matt Liddy](../../topics/matt-liddy/index.md), [teachers strike](../../topics/teachers-strike/index.md), [WCCO](../../topics/wcco/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.mprnews.org/episode/2022/04/05/footage-of-11yearold-prince-speaking-up-on-1970-teachers-strike-uncovered))
+
+----
+
+ - [**"Good Question: What Is Nostalgia? And How Is It Triggered?"**](https://www.cbsnews.com/minnesota/news/nostalgia-explained-prince/)
+    - in [WCCO - CBS Minnesota](../../publications/wcco-cbs-minnesota/index.md)
+    - on 5 April 2022
+    - about [WCCO](../../topics/wcco/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/nostalgia-explained-prince/))
+
+----
+
+ - [**"Prince Fans React To Rare Archival Footage -- WCCO - CBS Minnesota"**](https://www.youtube.com/watch?v=ohFjZzujP34)
+    - in [YouTube](../../publications/youtube/index.md)
+    - on 5 April 2022
+    - about [teachers strike](../../topics/teachers-strike/index.md), [WCCO](../../topics/wcco/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.youtube.com/watch?v=ohFjZzujP34))
+
+----
+
+ - [**"Rare footage discovered of Prince, 11, at 1970 Minneapolis teachers’ strike -- CBS News affiliate WCCO uncovers archive material of school-age Prince being interviewed as teachers picket in the background"**](https://www.theguardian.com/us-news/2022/apr/05/prince-1970-footage-minnesota-teachers-strike)
+    - in [The Guardian](../../publications/the-guardian/index.md)
+    - on 5 April 2022
+    - about [Kristen Zschomler](../../topics/kristen-zschomler/index.md), [Matt Liddy](../../topics/matt-liddy/index.md), [Ronnie Kitchen](../../topics/ronnie-kitchen/index.md), [Skipper](../../topics/skipper/index.md), [Terrance Jackson](../../topics/terrance-jackson/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md), [WCCO](../../topics/wcco/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/us-news/2022/apr/05/prince-1970-footage-minnesota-teachers-strike))
+
+----
+
+ - [**"'This Is Crazy': QuestLove, Internet Reacts To WCCO's Archive Footage Of Prince At Age 11"**](https://www.cbsnews.com/minnesota/news/this-is-crazy-questlove-internet-reacts-to-wccos-archive-footage-of-prince-at-age-11/)
+    - in [WCCO - CBS Minnesota](../../publications/wcco-cbs-minnesota/index.md)
+    - on 5 April 2022
+    - about [Minneapolis Public Schools](../../topics/minneapolis-public-schools/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Sometimes It Snows In April (song)](../../topics/song/sometimes-it-snows-in-april/index.md), [WCCO](../../topics/wcco/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/this-is-crazy-questlove-internet-reacts-to-wccos-archive-footage-of-prince-at-age-11/))
+
+----
+
+ - [**"Behind The Scenes: Uncovering Priceless Footage Of Prince At Age 11 -- WCCO - CBS Minnesota"**](https://www.youtube.com/watch?v=FdUsFuR2DbI)
+    - in [YouTube](../../publications/youtube/index.md)
+    - on 4 April 2022
+    - about [Jeff Wagner](../../topics/jeff-wagner/index.md), [Kristen Zschomler](../../topics/kristen-zschomler/index.md), [Matt Liddy](../../topics/matt-liddy/index.md), [teachers strike](../../topics/teachers-strike/index.md), [WCCO](../../topics/wcco/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.youtube.com/watch?v=FdUsFuR2DbI))
+
+----
+
+ - [**"Footage of Prince as an 11-year-old is unearthed by a Minnesota news station"**](https://edition.cnn.com/2022/04/04/entertainment/prince-childhood-footage-wcco-archives-cec/index.html)
+    - in [CNN International](../../publications/cnn-international/index.md)
+    - on 4 April 2022
+    - about [Jeff Wagner](../../topics/jeff-wagner/index.md), [Terrance Jackson](../../topics/terrance-jackson/index.md), [WCCO](../../topics/wcco/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://edition.cnn.com/2022/04/04/entertainment/prince-childhood-footage-wcco-archives-cec/index.html))
 
 ----
 
@@ -234,7 +408,47 @@
 
 ----
 
-## March 2022 (4)
+ - [**"Minneapolis TV station unearths film footage of 11-year-old Prince"**](https://www.thecurrent.org/feature/2022/04/04/minneapolis-tv-station-unearths-film-footage-of-11yearold-prince)
+    - in [The Current](../../publications/the-current/index.md)
+    - on 4 April 2022
+    - about [Matt Liddy](../../topics/matt-liddy/index.md), [WCCO](../../topics/wcco/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2022/04/04/minneapolis-tv-station-unearths-film-footage-of-11yearold-prince))
+
+----
+
+ - [**"Previously unknown footage of a preteen Prince surfaces in Minneapolis"**](https://www.latimes.com/entertainment-arts/music/story/2022-04-04/prince-at-11-footage)
+    - in [Los Angeles Times](../../publications/los-angeles-times/index.md)
+    - on 4 April 2022
+    - about [Jeff Wagner](../../topics/jeff-wagner/index.md), [Kristen Zschomler](../../topics/kristen-zschomler/index.md), [Matt Liddy](../../topics/matt-liddy/index.md), [Ronnie Kitchen](../../topics/ronnie-kitchen/index.md), [Skipper](../../topics/skipper/index.md), [WCCO](../../topics/wcco/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.latimes.com/entertainment-arts/music/story/2022-04-04/prince-at-11-footage))
+
+----
+
+ - [**"Prince Fans React To Rare Childhood Footage: 'It Made Him Kind Of Like Real'"**](https://www.cbsnews.com/minnesota/news/prince-fans-react-to-rare-footage/)
+    - in [WCCO - CBS Minnesota](../../publications/wcco-cbs-minnesota/index.md)
+    - on 4 April 2022
+    - about [teachers strike](../../topics/teachers-strike/index.md), [WCCO](../../topics/wcco/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/prince-fans-react-to-rare-footage/))
+
+----
+
+ - [**"The Little Prince: Footage Unearthed Of Superstar At Age 11 -- WCCO - CBS Minnesota"**](https://www.youtube.com/watch?v=EQe0EoVoGqU)
+    - in [YouTube](../../publications/youtube/index.md)
+    - on 4 April 2022
+    - about [WCCO](../../topics/wcco/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.youtube.com/watch?v=EQe0EoVoGqU))
+
+----
+
+ - [**"WCCO unearths incredibly rare footage of Prince as a young boy -- CBS Mornings"**](https://www.youtube.com/watch?v=xoUd3Mm8BpY)
+    - in [YouTube](../../publications/youtube/index.md)
+    - on 4 April 2022
+    - about [Jeff Wagner](../../topics/jeff-wagner/index.md), [WCCO](../../topics/wcco/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.youtube.com/watch?v=xoUd3Mm8BpY))
+
+----
+
+## March 2022 (5)
 
  - [**"High court to hear case about Andy Warhol art, Prince photo"**](https://apnews.com/article/us-supreme-court-entertainment-music-andy-warhol-prince-0c6ff0e1cb75bedcc54eaa03eaac11d7)
     - in [Associated Press News](../../publications/associated-press-news/index.md)
@@ -250,6 +464,14 @@
     - on 16 March 2022
     - about [Apollonia 6](../../topics/apollonia-6/index.md), [Comerica](../../topics/comerica/index.md), [L’uva Bella Winery](../../topics/l-uva-bella-winery/index.md), [Love 4 One Another](../../topics/love-4-one-another/index.md), [Morris Day](../../topics/morris-day/index.md), [Primary Wave](../../topics/primary-wave/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [The New Yorker](../../topics/the-new-yorker/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [trademark](../../topics/trademark/index.md), [Trademark Trial and Appeal Board](../../topics/trademark-trial-and-appeal-board/index.md), [U.S. Patent and Trademark Office](../../topics/u-s-patent-and-trademark-office/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/pro/prince-estate-battles-winery-purple-rain/))
+
+----
+
+ - [**"Morris Day Says Prince Estate Preventing Him From Using The Time's Band Name"**](https://www.cbsnews.com/minnesota/news/morris-day-says-prince-estate-preventing-him-from-using-the-times-band-name/)
+    - in [WCCO - CBS Minnesota](../../publications/wcco-cbs-minnesota/index.md)
+    - on 4 March 2022
+    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [The Time](../../topics/the-time/index.md), [WCCO](../../topics/wcco/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/morris-day-says-prince-estate-preventing-him-from-using-the-times-band-name/))
 
 ----
 

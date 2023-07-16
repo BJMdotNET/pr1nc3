@@ -11,6 +11,12 @@ items:
 - name: 2018
   href: youtube-2018.md
   homepage: youtube-2018.md
+- name: 2020
+  href: youtube-2020.md
+  homepage: youtube-2020.md
+- name: 2021
+  href: youtube-2021.md
+  homepage: youtube-2021.md
 - name: 2022
   href: youtube-2022.md
   homepage: youtube-2022.md

@@ -40,6 +40,7 @@
 <br />
 
  - [**"Listen: 2 newly released songs from Prince's vault include alternate version of "7""**](https://www.cbsnews.com/minnesota/news/listen-2-newly-released-songs-from-princes-vault-include-alternate-version-of-7/)
+    - by [WCCO Staff](../../../authors/wcco-staff/index.md)
     - in [WCCO - CBS Minnesota](../../../publications/wcco-cbs-minnesota/index.md)
     - on 7 July 2023
     - about [All A Share Together Now (song)](../../../topics/song/all-a-share-together-now/index.md), [Celebration (event)](../../../topics/event/celebration/index.md), [Celebration 2023 (event)](../../../topics/event/celebration-2023/index.md), [vault](../../../topics/vault/index.md)

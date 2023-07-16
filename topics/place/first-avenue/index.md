@@ -1,6 +1,17 @@
 # First Avenue (place)
 
-## 2023 (1)
+## 2023 (2)
+
+### 2023 July (1)
+
+ - [**"Prince Segway tour gives fans unique Minneapolis perspective"**](https://www.cbsnews.com/minnesota/news/prince-segway-tour-gives-fans-unique-minneapolis-perspective/)
+    - by [Jason Rantala](../../../authors/jason-rantala/index.md)
+    - in [WCCO - CBS Minnesota](../../../publications/wcco-cbs-minnesota/index.md)
+    - on 14 July 2023
+    - about [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Segway](../../../topics/segway/index.md), [Twin Cities (place)](../../../topics/place/twin-cities/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/prince-segway-tour-gives-fans-unique-minneapolis-perspective/))
+
+----
 
 ### 2023 June (1)
 
@@ -12,9 +23,9 @@
 
 ----
 
-## 2022 (2)
+## 2022 (4)
 
-### 2022 June (1)
+### 2022 June (2)
 
  - [**"Purple Rain: The Story Behind Prince’s Career-Defining Song -- The song most associated with Prince, Purple Rain is an epic power ballad that embodied its creator’s search for transcendence through music."**](https://www.thisisdig.com/feature/purple-rain-prince-song-story/)
     - by [Jason Draper](../../../authors/jason-draper/index.md)
@@ -22,6 +33,24 @@
     - on 25 June 2022
     - about [Albert Magnoli](../../../topics/albert-magnoli/index.md), [Andrea Swensson](../../../topics/andrea-swensson/index.md), [Baby I’m a Star (song)](../../../topics/song/baby-i-m-a-star/index.md), [Bob Seger](../../../topics/bob-seger/index.md), [Dez Dickerson](../../../topics/dez-dickerson/index.md), [Duane Tudahl](../../../topics/duane-tudahl/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Fleetwood Mac](../../../topics/fleetwood-mac/index.md), [I Would Die 4 U (song)](../../../topics/song/i-would-die-4-u/index.md), [Joni Mitchell](../../../topics/joni-mitchell/index.md), [Lisa Coleman](../../../topics/lisa-coleman/index.md), [Lives Of The Musicians: Prince (book)](../../../topics/book/lives-of-the-musicians-prince/index.md), [Los Angeles (place)](../../../topics/place/los-angeles/index.md), [Novi Novog](../../../topics/novi-novog/index.md), [Prince And The Purple Rain Era Studio Sessions 1983 And 1984 (book)](../../../topics/book/prince-and-the-purple-rain-era-studio-sessions-1983-and-1984/index.md), [Purple Rain (album)](../../../topics/album/purple-rain/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Stevie Nicks](../../../topics/stevie-nicks/index.md), [Sunset Sound (place)](../../../topics/place/sunset-sound/index.md), [Suzie Katayama](../../../topics/suzie-katayama/index.md), [The Revolution](../../../topics/the-revolution/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.thisisdig.com/feature/purple-rain-prince-song-story/))
+
+<br />
+
+ - [**"Prince Mural Unveiled In Downtown Minneapolis"**](https://www.cbsnews.com/minnesota/news/prince-mural-downtown-minneapolis/)
+    - in [WCCO - CBS Minnesota](../../../publications/wcco-cbs-minnesota/index.md)
+    - on 2 June 2022
+    - about [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Target Center (place)](../../../topics/place/target-center/index.md), [Twin Cities (place)](../../../topics/place/twin-cities/index.md), [WCCO](../../../topics/wcco/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/prince-mural-downtown-minneapolis/))
+
+----
+
+### 2022 May (1)
+
+ - [**"Minneapolis Approves 'Prince Rogers Nelson Way' Commemorative Street Sign Outside First Avenue"**](https://www.cbsnews.com/minnesota/news/minneapolis-approves-prince-rogers-nelson-way-commemorative-street-sign-outside-first-avenue/)
+    - in [WCCO - CBS Minnesota](../../../publications/wcco-cbs-minnesota/index.md)
+    - on 26 May 2022
+    - about [Crown Our Prince Mural](../../../topics/crown-our-prince-mural/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Joan Vorderbruggen](../../../topics/joan-vorderbruggen/index.md), [mural](../../../topics/mural/index.md), [Prince Rogers Nelson Way (place)](../../../topics/place/prince-rogers-nelson-way/index.md), [Sharon Smith-Akinsanya](../../../topics/sharon-smith-akinsanya/index.md), [Timberwolves](../../../topics/timberwolves/index.md), [WCCO](../../../topics/wcco/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/minneapolis-approves-prince-rogers-nelson-way-commemorative-street-sign-outside-first-avenue/))
 
 ----
 

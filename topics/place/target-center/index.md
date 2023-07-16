@@ -1,5 +1,17 @@
 # Target Center (place)
 
+## 2022 (1)
+
+### 2022 June (1)
+
+ - [**"Prince Mural Unveiled In Downtown Minneapolis"**](https://www.cbsnews.com/minnesota/news/prince-mural-downtown-minneapolis/)
+    - in [WCCO - CBS Minnesota](../../../publications/wcco-cbs-minnesota/index.md)
+    - on 2 June 2022
+    - about [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Target Center (place)](../../../topics/place/target-center/index.md), [Twin Cities (place)](../../../topics/place/twin-cities/index.md), [WCCO](../../../topics/wcco/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/prince-mural-downtown-minneapolis/))
+
+----
+
 ## 2019 (2)
 
 ### 2019 April (1)

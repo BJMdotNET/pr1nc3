@@ -1,8 +1,21 @@
 # Prince and The Revolution
 
-## 2022 (5)
+## 2023 (1)
 
-### 2022 June (3)
+### 2023 June (1)
+
+ - [**"Mychael Gabriel, Prince's godchild, releases debut album "Genesis""**](https://www.cbsnews.com/minnesota/news/mychael-gabriel-princes-godchild-releases-debut-album-genesis/)
+    - by [Derek James](../../authors/derek-james/index.md)
+    - in [WCCO - CBS Minnesota](../../publications/wcco-cbs-minnesota/index.md)
+    - on 23 June 2023
+    - about [Lake Minnetonka (place)](../../topics/place/lake-minnetonka/index.md), [Lenny Kravitz](../../topics/lenny-kravitz/index.md), [Mychael Gabriel](../../topics/mychael-gabriel/index.md), [Prince and The Revolution](../../topics/prince-and-the-revolution/index.md), [Purple Rain (tour)](../../topics/tour/purple-rain/index.md), [Sheila E.](../../topics/sheila-e/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/mychael-gabriel-princes-godchild-releases-debut-album-genesis/))
+
+----
+
+## 2022 (6)
+
+### 2022 June (4)
 
  - [**"DigiFilm Restores Prince Concert Footage"**](https://www.digitalcinemareport.com/news/digifilm-restores-prince-concert-footage)
     - by [Nick Dager](../../authors/nick-dager/index.md)
@@ -27,6 +40,14 @@
     - on 7 June 2022
     - about [Bobby Z](../../topics/bobby-z/index.md), [Brown Mark](../../topics/brown-mark/index.md), [Carrier Dome (place)](../../topics/place/carrier-dome/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Matt Fink](../../topics/matt-fink/index.md), [Prince and The Revolution](../../topics/prince-and-the-revolution/index.md), [Prince and The Revolution: Live (album)](../../topics/album/prince-and-the-revolution-live/index.md), [Prince and The Revolution: Live (Blu-ray)](../../topics/blu-ray/prince-and-the-revolution-live/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Purple Rain (tour)](../../topics/tour/purple-rain/index.md), [Syracuse (place)](../../topics/place/syracuse/index.md), [The Revolution](../../topics/the-revolution/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
     - ([mirror](https://web.archive.org/web/*/https://variety.com/2022/music/news/prince-revolution-live-1985-syracuse-concert-purple-rain-1235286514/))
+
+<br />
+
+ - [**"Restored Prince And The Revolution Concert From 1985 Released Amid Birthday Celebration"**](https://www.cbsnews.com/minnesota/news/prince-revolution-concert-restored/)
+    - in [WCCO - CBS Minnesota](../../publications/wcco-cbs-minnesota/index.md)
+    - on 2 June 2022
+    - about [Bobby Z](../../topics/bobby-z/index.md), [Bobby Z.](../../topics/bobby-z/index.md), [Carrier Dome (place)](../../topics/place/carrier-dome/index.md), [mural](../../topics/mural/index.md), [Prince and The Revolution](../../topics/prince-and-the-revolution/index.md), [Purple Rain (tour)](../../topics/tour/purple-rain/index.md), [Syracuse (place)](../../topics/place/syracuse/index.md), [The Revolution](../../topics/the-revolution/index.md), [WCCO](../../topics/wcco/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/prince-revolution-concert-restored/))
 
 ----
 
