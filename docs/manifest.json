@@ -713,6 +713,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "authors/derek-james/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/derek-james/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "authors/duarte-garrido/index.md",
       "output": {
         ".html": {
@@ -757,6 +767,16 @@
       "output": {
         ".html": {
           "relative_path": "authors/emma-nelson/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "authors/eric-henderson/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/eric-henderson/index.html"
         }
       },
       "version": ""
@@ -937,6 +957,16 @@
       "output": {
         ".html": {
           "relative_path": "authors/jason-draper/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "authors/jason-rantala/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/jason-rantala/index.html"
         }
       },
       "version": ""
@@ -1267,6 +1297,16 @@
       "output": {
         ".html": {
           "relative_path": "authors/marc-malkin/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "authors/maria-cramer/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/maria-cramer/index.html"
         }
       },
       "version": ""
@@ -2030,6 +2070,16 @@
       "output": {
         ".html": {
           "relative_path": "authors/vince-tuss/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "authors/wcco-staff/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/wcco-staff/index.html"
         }
       },
       "version": ""
@@ -4299,6 +4349,16 @@
       "output": {
         ".html": {
           "relative_path": "publications/cnn-international/cnn-international-2019.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/cnn-international/cnn-international-2022.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/cnn-international/cnn-international-2022.html"
         }
       },
       "version": ""
@@ -6875,6 +6935,16 @@
       "version": ""
     },
     {
+      "type": "Conceptual",
+      "source_relative_path": "publications/los-angeles-times/los-angeles-times-2022.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/los-angeles-times/los-angeles-times-2022.html"
+        }
+      },
+      "version": ""
+    },
+    {
       "type": "Toc",
       "source_relative_path": "publications/los-angeles-times/toc.yml",
       "output": {
@@ -7557,6 +7627,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "publications/mpr-news-minnesota-public-radio/mpr-news-minnesota-public-radio-2022.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/mpr-news-minnesota-public-radio/mpr-news-minnesota-public-radio-2022.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "publications/mpr-news-minnesota-public-radio/mpr-news-minnesota-public-radio-2023.md",
       "output": {
         ".html": {
@@ -8060,6 +8140,16 @@
       "output": {
         ".html": {
           "relative_path": "publications/new-york-times/new-york-times-2019.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/new-york-times/new-york-times-2022.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/new-york-times/new-york-times-2022.html"
         }
       },
       "version": ""
@@ -10881,6 +10971,16 @@
       "version": ""
     },
     {
+      "type": "Conceptual",
+      "source_relative_path": "publications/the-current/the-current-2022.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/the-current/the-current-2022.html"
+        }
+      },
+      "version": ""
+    },
+    {
       "type": "Toc",
       "source_relative_path": "publications/the-current/toc.yml",
       "output": {
@@ -11111,6 +11211,16 @@
       "output": {
         ".html": {
           "relative_path": "publications/the-guardian/the-guardian-2019.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/the-guardian/the-guardian-2022.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/the-guardian/the-guardian-2022.html"
         }
       },
       "version": ""
@@ -12340,6 +12450,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "publications/twincities-com-pioneer-press/twincities-com-pioneer-press-2022.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/twincities-com-pioneer-press/twincities-com-pioneer-press-2022.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "publications/twincities-com-pioneer-press/twincities-com-pioneer-press-2023.md",
       "output": {
         ".html": {
@@ -13558,6 +13678,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "publications/wcco-cbs-minnesota/wcco-cbs-minnesota-2017.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/wcco-cbs-minnesota/wcco-cbs-minnesota-2017.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "publications/wcco-cbs-minnesota/wcco-cbs-minnesota-2018.md",
       "output": {
         ".html": {
@@ -13582,6 +13712,26 @@
       "output": {
         ".html": {
           "relative_path": "publications/wcco-cbs-minnesota/wcco-cbs-minnesota-2020.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/wcco-cbs-minnesota/wcco-cbs-minnesota-2021.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/wcco-cbs-minnesota/wcco-cbs-minnesota-2021.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/wcco-cbs-minnesota/wcco-cbs-minnesota-2022.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/wcco-cbs-minnesota/wcco-cbs-minnesota-2022.html"
         }
       },
       "version": ""
@@ -13856,6 +14006,39 @@
       "output": {
         ".html": {
           "relative_path": "publications/www-ammonitepress-com/www-ammonitepress-com-2019.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/www-avclub-com/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/www-avclub-com/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "publications/www-avclub-com/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "publications/www-avclub-com/toc.html"
+        },
+        ".json": {
+          "relative_path": "publications/www-avclub-com/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/www-avclub-com/www-avclub-com-2022.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/www-avclub-com/www-avclub-com-2022.html"
         }
       },
       "version": ""
@@ -16549,6 +16732,26 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "publications/youtube/youtube-2020.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/youtube/youtube-2020.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/youtube/youtube-2021.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/youtube/youtube-2021.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "publications/youtube/youtube-2022.md",
       "output": {
         ".html": {
@@ -16749,6 +16952,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/airport/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/al-nuness/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/al-nuness/index.html"
         }
       },
       "version": ""
@@ -17775,6 +17988,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/anil-dash/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/anil-dash/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/animal/divinity/index.md",
       "output": {
         ".html": {
@@ -18129,6 +18352,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/benny-medina/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/bernadette-anderson/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/bernadette-anderson/index.html"
         }
       },
       "version": ""
@@ -19315,6 +19548,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/crown-our-prince-mural/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/crown-our-prince-mural/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/cyndi-lauper/index.md",
       "output": {
         ".html": {
@@ -20089,6 +20332,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/elisa-fiorillo/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/elliott-powell/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/elliott-powell/index.html"
         }
       },
       "version": ""
@@ -21725,6 +21978,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/jeff-wagner/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/jeff-wagner/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/jeffrey-levin/index.md",
       "output": {
         ".html": {
@@ -21869,6 +22132,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/jimmy-jam/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/joan-vorderbruggen/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/joan-vorderbruggen/index.html"
         }
       },
       "version": ""
@@ -23365,6 +23638,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/mattie-shaw-nelson-baker/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/mattie-shaw-nelson-baker/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/mattie-shaw/index.md",
       "output": {
         ".html": {
@@ -23709,6 +23992,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/minneapolis-institute-of-art/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/minneapolis-public-schools/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/minneapolis-public-schools/index.html"
         }
       },
       "version": ""
@@ -24095,6 +24388,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/mural/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/mural/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/museum/index.md",
       "output": {
         ".html": {
@@ -24119,6 +24422,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/my-purple-heart/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/mychael-gabriel/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/mychael-gabriel/index.html"
         }
       },
       "version": ""
@@ -25935,6 +26248,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/place/prince-rogers-nelson-way/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/place/prince-rogers-nelson-way/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/place/rock-roll-hall-of-fame/index.md",
       "output": {
         ".html": {
@@ -26515,6 +26838,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/quent-neufeld/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/quent-neufeld/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/questlove/index.md",
       "output": {
         ".html": {
@@ -27085,6 +27418,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/segway/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/segway/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/selma-hayak/index.md",
       "output": {
         ".html": {
@@ -27139,6 +27482,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/sharon-nelson/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/sharon-smith-akinsanya/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/sharon-smith-akinsanya/index.html"
         }
       },
       "version": ""
@@ -27329,6 +27682,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/song/200-balloons/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/song/4-the-tears-in-your-eyes/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/song/4-the-tears-in-your-eyes/index.html"
         }
       },
       "version": ""
@@ -27919,6 +28282,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/song/heart-of-mine/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/song/hello-my-love/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/song/hello-my-love/index.html"
         }
       },
       "version": ""
@@ -29635,6 +30008,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/teachers-strike/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/teachers-strike/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/ted-cohen/index.md",
       "output": {
         ".html": {
@@ -29932,6 +30315,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/tom-petty/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/tom-ziegler/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/tom-ziegler/index.html"
         }
       },
       "version": ""
@@ -30832,6 +31225,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/yvette-noel-schure/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/zaheer-ali/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/zaheer-ali/index.html"
         }
       },
       "version": ""
