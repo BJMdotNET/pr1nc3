@@ -5,7 +5,7 @@
 ### 2016 June (1)
 
  - [**"Source: DNA proves Colorado inmate not Prince's son"**](https://edition.cnn.com/2016/06/22/entertainment/carlin-williams-not-princes-son/index.html)
-    - in [CNN International](../../publications/cnn-international/index.md)
+    - in [CNN International](../../publications/a-e/cnn-international/index.md)
     - on 23 June 2016
     - about [Carlin Q. Williams](../../topics/carlin-q-williams/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Marsha Henson](../../topics/marsha-henson/index.md), [vault](../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://edition.cnn.com/2016/06/22/entertainment/carlin-williams-not-princes-son/index.html))
@@ -16,7 +16,7 @@
 
  - [**"Claim Prince as father? Be ready to give some blood"**](https://apnews.com/article/e3f131b92de54d0293aadbe5d4192917)
     - by [Kevin Burbach (Associated Press)](../../authors/associated-press/kevin-burbach/index.md)
-    - in [Associated Press News](../../publications/associated-press-news/index.md)
+    - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 19 May 2016
     - about [Bremer Trust](../../topics/bremer-trust/index.md), [Carlin Q. Williams](../../topics/carlin-q-williams/index.md), [Carver County](../../topics/carver-county/index.md), [Duane Nelson](../../topics/duane-nelson/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Marsha Henson](../../topics/marsha-henson/index.md), [probate court](../../topics/probate-court/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/e3f131b92de54d0293aadbe5d4192917))
@@ -25,7 +25,7 @@
 
  - [**"Claim Prince as father? Be ready to give some blood"**](https://www.startribune.com/claim-prince-as-father-be-ready-to-give-some-blood/379911591/)
     - by [Kevin Burbach (Associated Press)](../../authors/associated-press/kevin-burbach/index.md)
-    - in [Minneapolis Star Tribune](../../publications/minneapolis-star-tribune/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 18 May 2016
     - about [Bremer Trust](../../topics/bremer-trust/index.md), [Carlin Q. Williams](../../topics/carlin-q-williams/index.md), [Carver County](../../topics/carver-county/index.md), [Duane Nelson](../../topics/duane-nelson/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Marsha Henson](../../topics/marsha-henson/index.md), [probate court](../../topics/probate-court/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/claim-prince-as-father-be-ready-to-give-some-blood/379911591/))
@@ -34,7 +34,7 @@
 
  - [**"Colorado inmate claims Prince is his father, seeks DNA test"**](https://apnews.com/13fdcc29391d427bab6b4b5584316da8)
     - by [Steve Karnowski (Associated Press)](../../authors/associated-press/steve-karnowski/index.md)
-    - in [Associated Press News](../../publications/associated-press-news/index.md)
+    - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 10 May 2016
     - about [Carlin Q. Williams](../../topics/carlin-q-williams/index.md), [Carver County](../../topics/carver-county/index.md), [Carver County District Court](../../topics/carver-county-district-court/index.md), [Marsha Henson](../../topics/marsha-henson/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Patrick Cousins](../../topics/patrick-cousins/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/13fdcc29391d427bab6b4b5584316da8))
@@ -43,7 +43,7 @@
 
  - [**"Colorado inmate claims Prince is his father, seeks DNA test"**](https://www.startribune.com/colorado-inmate-claims-prince-is-his-father-seeks-dna-test/378823301/)
     - by [Steve Karnowski (Associated Press)](../../authors/associated-press/steve-karnowski/index.md)
-    - in [Minneapolis Star Tribune](../../publications/minneapolis-star-tribune/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 10 May 2016
     - about [Carlin Q. Williams](../../topics/carlin-q-williams/index.md), [Carver County](../../topics/carver-county/index.md), [Carver County District Court](../../topics/carver-county-district-court/index.md), [Marsha Henson](../../topics/marsha-henson/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Patrick Cousins](../../topics/patrick-cousins/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/colorado-inmate-claims-prince-is-his-father-seeks-dna-test/378823301/))

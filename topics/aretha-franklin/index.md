@@ -5,7 +5,7 @@
 ### 2020 January (14)
 
  - [**"Deep cuts and idiosyncratic visions highlight Grammy tribute concert to Prince"**](https://www.latimes.com/entertainment-arts/music/story/2020-01-29/prince-tribute-grammys-foo-fighters-beck-john-legend)
-    - in [Los Angeles Times](../../publications/los-angeles-times/index.md)
+    - in [Los Angeles Times](../../publications/k-o/los-angeles-times/index.md)
     - on 29 January 2020
     - about [Aretha Franklin](../../topics/aretha-franklin/index.md), [Baby I’m a Star (song)](../../topics/song/baby-i-m-a-star/index.md), [Bangles](../../topics/bangles/index.md), [Beck](../../topics/beck/index.md), [Chris Martin](../../topics/chris-martin/index.md), [Coldplay](../../topics/coldplay/index.md), [Controversy (song)](../../topics/song/controversy/index.md), [Earth, Wind & Fire](../../topics/earth-wind-fire/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Foo Fighters](../../topics/foo-fighters/index.md), [Fred Armisen](../../topics/fred-armisen/index.md), [Gary Clark Jr.](../../topics/gary-clark-jr/index.md), [Grammy Award](../../topics/grammy-award/index.md), [H.E.R.](../../topics/h-e-r/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [John Legend](../../topics/john-legend/index.md), [Jungle Love (song)](../../topics/song/jungle-love/index.md), [Ken Ehrlich](../../topics/ken-ehrlich/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Los Angeles Convention Center (place)](../../topics/place/los-angeles-convention-center/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Mountains (song)](../../topics/song/mountains/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Pop Life (song)](../../topics/song/pop-life/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Sheila E.](../../topics/sheila-e/index.md), [St. Vincent](../../topics/st-vincent/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Super Bowl XLI (event)](../../topics/event/super-bowl-xli/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Beautiful Ones (song)](../../topics/song/the-beautiful-ones/index.md), [The Glamorous Life (song)](../../topics/song/the-glamorous-life/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.latimes.com/entertainment-arts/music/story/2020-01-29/prince-tribute-grammys-foo-fighters-beck-john-legend))
@@ -13,7 +13,7 @@
 <br />
 
  - [**"After 40 Years, Grammy show producer bows out his way"**](https://apnews.com/20a0fbeb977981d1d1d6f393423ca1db)
-    - in [Associated Press News](../../publications/associated-press-news/index.md)
+    - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 23 January 2020
     - about [Aretha Franklin](../../topics/aretha-franklin/index.md), [Beyoncé](../../topics/beyonc/index.md), [Cyndi Lauper](../../topics/cyndi-lauper/index.md), [Ed Sheeran](../../topics/ed-sheeran/index.md), [Gary Clark Jr.](../../topics/gary-clark-jr/index.md), [John Legend](../../topics/john-legend/index.md), [Ken Ehrlich](../../topics/ken-ehrlich/index.md), [lawsuit](../../topics/lawsuit/index.md), [Misty Copeland](../../topics/misty-copeland/index.md), [Obama](../../topics/obama/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [White House (place)](../../topics/place/white-house/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/20a0fbeb977981d1d1d6f393423ca1db))
@@ -21,7 +21,7 @@
 <br />
 
  - [**"After 40 Years, Grammy show producer bows out his way"**](https://www.startribune.com/after-40-years-grammy-show-producer-bows-out-his-way/567226992/)
-    - in [Minneapolis Star Tribune](../../publications/minneapolis-star-tribune/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 23 January 2020
     - about [Aretha Franklin](../../topics/aretha-franklin/index.md), [Beyoncé](../../topics/beyonc/index.md), [Ed Sheeran](../../topics/ed-sheeran/index.md), [Gary Clark Jr.](../../topics/gary-clark-jr/index.md), [John Legend](../../topics/john-legend/index.md), [Ken Ehrlich](../../topics/ken-ehrlich/index.md), [lawsuit](../../topics/lawsuit/index.md), [Misty Copeland](../../topics/misty-copeland/index.md), [Obama](../../topics/obama/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [White House (place)](../../topics/place/white-house/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/after-40-years-grammy-show-producer-bows-out-his-way/567226992/))
@@ -29,7 +29,7 @@
 <br />
 
  - [**"Lizzo, Charli XCX, Billie Eilish and Lana Del Rey Among 2020 NME Awards Nominees -- Stormzy, The 1975, Yungblud, Foals and Stormzy are also nominated."**](https://www.billboard.com/articles/news/awards/8548499/2020-nme-awards-nominees-list)
-    - in [Billboard](../../publications/billboard/index.md)
+    - in [Billboard](../../publications/a-e/billboard/index.md)
     - on 21 January 2020
     - about [Amazing Grace (movie)](../../topics/movie/amazing-grace/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Beck](../../topics/beck/index.md), [FKA twigs](../../topics/fka-twigs/index.md), [Lizzo](../../topics/lizzo/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/awards/8548499/2020-nme-awards-nominees-list))
@@ -37,7 +37,7 @@
 <br />
 
  - [**"What are the best Prince tracks released since 2016?"**](https://blog.thecurrent.org/2020/01/what-are-the-best-prince-tracks-released-since-2016/)
-    - in [The Current - Local Current Blog](../../publications/the-current-local-current-blog/index.md)
+    - in [The Current - Local Current Blog](../../publications/a-e/the-current-local-current-blog/index.md)
     - on 21 January 2020
     - about [1999 Deluxe (album)](../../topics/album/1999-deluxe/index.md), [Amazing Grace (movie)](../../topics/movie/amazing-grace/index.md), [Andrea Swensson](../../topics/andrea-swensson/index.md), [Apollonia](../../topics/apollonia/index.md), [Apollonia 6](../../topics/apollonia-6/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Bold Generation (song)](../../topics/song/bold-generation/index.md), [bootleg](../../topics/bootleg/index.md), [Celebration 2020 (event)](../../topics/event/celebration-2020/index.md), [Deliverance (EP)](../../topics/ep/deliverance/index.md), [Deliverance (song)](../../topics/song/deliverance/index.md), [Do Yourself a Favor (song)](../../topics/song/do-yourself-a-favor/index.md), [George Clinton](../../topics/george-clinton/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [International Lover (song)](../../topics/song/international-lover/index.md), [Irresistible Bitch (song)](../../topics/song/irresistible-bitch/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Love and Sex (song)](../../topics/song/love-and-sex/index.md), [Mary Don’t You Weep (song)](../../topics/song/mary-don-t-you-weep/index.md), [Niko Bolas](../../topics/niko-bolas/index.md), [Originals (album)](../../topics/album/originals/index.md), [Peggy McCreary](../../topics/peggy-mccreary/index.md), [Piano & A Microphone 1983 (album)](../../topics/album/piano-a-microphone-1983/index.md), [Piano and a Microphone 1983 (album)](../../topics/album/piano-and-a-microphone-1983/index.md), [Purple Music (song)](../../topics/song/purple-music/index.md), [Rearrange (song)](../../topics/song/rearrange/index.md), [Spike Lee](../../topics/spike-lee/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [The Glamorous Life (song)](../../topics/song/the-glamorous-life/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md), [Vagina (song)](../../topics/song/vagina/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md), [Yah, You Know (song)](../../topics/song/yah-you-know/index.md)
     - ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2020/01/what-are-the-best-prince-tracks-released-since-2016/))
@@ -45,7 +45,7 @@
 <br />
 
  - [**"NME Awards 2020: Full list of nominations revealed -- The winners will be revealed at London's O2 Academy Brixton on February 12."**](https://www.nme.com/news/music/nme-awards-2020-nominations-2598499)
-    - in [NME (New Musical Express)](../../publications/nme-new-musical-express/index.md)
+    - in [NME (New Musical Express)](../../publications/k-o/nme-new-musical-express/index.md)
     - on 19 January 2020
     - about [Amazing Grace (movie)](../../topics/movie/amazing-grace/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Beck](../../topics/beck/index.md), [FKA twigs](../../topics/fka-twigs/index.md), [Lizzo](../../topics/lizzo/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.nme.com/news/music/nme-awards-2020-nominations-2598499))
@@ -53,7 +53,7 @@
 <br />
 
  - [**"6 cool things in music this week including Neil Peart, Billie Eilish, Paisley Park Cinema and Keith Richards"**](https://www.startribune.com/6-cool-things-in-music-this-week-including-neil-peart-billie-eilish-paisley-park-cinema-and-keith-richards/567079992/)
-    - in [Minneapolis Star Tribune](../../publications/minneapolis-star-tribune/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 17 January 2020
     - about [Amazing Grace (movie)](../../topics/movie/amazing-grace/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Jon Bream](../../topics/jon-bream/index.md), [Richard Pryor](../../topics/richard-pryor/index.md), [Wattstax (movie)](../../topics/movie/wattstax/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md), [YouTube](../../topics/youtube/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/6-cool-things-in-music-this-week-including-neil-peart-billie-eilish-paisley-park-cinema-and-keith-richards/567079992/))
@@ -61,7 +61,7 @@
 <br />
 
  - [**"Let’s get drunk at Prince’s house!"**](http://www.citypages.com/music/lets-get-drunk-at-princes-house/566877031)
-    - in [City Pages](../../publications/city-pages/index.md)
+    - in [City Pages](../../publications/a-e/city-pages/index.md)
     - on 10 January 2020
     - about [Amazing Grace (movie)](../../topics/movie/amazing-grace/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Dave Chappelle](../../topics/dave-chappelle/index.md), [Dave Chappelle’s Block Party (movie)](../../topics/movie/dave-chappelle-s-block-party/index.md), [Meshell Ndegeocello](../../topics/meshell-ndegeocello/index.md), [Musicology: Real Music by Real Musicians (event)](../../topics/event/musicology-real-music-by-real-musicians/index.md), [Paisley Park Cinema: Music on the Big Screen (event)](../../topics/event/paisley-park-cinema-music-on-the-big-screen/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Thing Called Life: Prince Reimagined (tour)](../../topics/tour/thing-called-life-prince-reimagined/index.md)
     - ([mirror](https://web.archive.org/web/*/http://www.citypages.com/music/lets-get-drunk-at-princes-house/566877031))
@@ -69,7 +69,7 @@
 <br />
 
  - [**"Alcohol will be served as Paisley Park launches new live music series"**](https://www.startribune.com/live-music-series-at-prince-s-paisley-park-to-kick-off-feb-15-with-meshell-ndegeocello/566830752/)
-    - in [Minneapolis Star Tribune](../../publications/minneapolis-star-tribune/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 9 January 2020
     - about [Amazing Grace (movie)](../../topics/movie/amazing-grace/index.md), [Andre Cymone](../../topics/andre-cymone/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Dave Chappelle](../../topics/dave-chappelle/index.md), [Dave Chappelle’s Block Party (movie)](../../topics/movie/dave-chappelle-s-block-party/index.md), [George Clinton](../../topics/george-clinton/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Meshell Ndegeocello](../../topics/meshell-ndegeocello/index.md), [Musicology: Real Music by Real Musicians (event)](../../topics/event/musicology-real-music-by-real-musicians/index.md), [Paisley Park Cinema: Music on the Big Screen (event)](../../topics/event/paisley-park-cinema-music-on-the-big-screen/index.md), [Sometimes It Snows In April (song)](../../topics/song/sometimes-it-snows-in-april/index.md), [Wattstax (movie)](../../topics/movie/wattstax/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/live-music-series-at-prince-s-paisley-park-to-kick-off-feb-15-with-meshell-ndegeocello/566830752/))
@@ -77,7 +77,7 @@
 <br />
 
  - [**"From films at Paisley Park to the new Fillmore, here are four musical events worth catching"**](https://www.twincities.com/2020/01/09/from-films-at-paisley-park-to-the-new-fillmore-here-are-four-musical-events-worth-catching/)
-    - in [TwinCities.com - Pioneer Press](../../publications/twincities-com-pioneer-press/index.md)
+    - in [TwinCities.com - Pioneer Press](../../publications/p-t/twincities-com-pioneer-press/index.md)
     - on 9 January 2020
     - about [Amazing Grace (movie)](../../topics/movie/amazing-grace/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Dave Chappelle](../../topics/dave-chappelle/index.md), [Dave Chappelle’s Block Party (movie)](../../topics/movie/dave-chappelle-s-block-party/index.md), [exhibit](../../topics/exhibit/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [John Legend](../../topics/john-legend/index.md), [Minnesota History Center](../../topics/minnesota-history-center/index.md), [museum](../../topics/museum/index.md), [Paisley Park Cinema: Music on the Big Screen (event)](../../topics/event/paisley-park-cinema-music-on-the-big-screen/index.md), [The Roots](../../topics/the-roots/index.md), [vault](../../topics/vault/index.md), [Wattstax (movie)](../../topics/movie/wattstax/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2020/01/09/from-films-at-paisley-park-to-the-new-fillmore-here-are-four-musical-events-worth-catching/))
@@ -85,7 +85,7 @@
 <br />
 
  - [**"Grammys to host all-star Prince tribute concert run by Sheila E., Jimmy Jam, and Terry Lewis"**](https://blog.thecurrent.org/2020/01/grammys-to-host-all-star-prince-tribute-concert-run-by-sheila-e-jimmy-jam-and-terry-lewis/)
-    - in [The Current - Local Current Blog](../../publications/the-current-local-current-blog/index.md)
+    - in [The Current - Local Current Blog](../../publications/a-e/the-current-local-current-blog/index.md)
     - on 9 January 2020
     - about [Alicia Keys](../../topics/alicia-keys/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Bangles](../../topics/bangles/index.md), [Beck](../../topics/beck/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Chris Martin](../../topics/chris-martin/index.md), [Coldplay](../../topics/coldplay/index.md), [Gary Clark Jr.](../../topics/gary-clark-jr/index.md), [H.E.R.](../../topics/h-e-r/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [John Legend](../../topics/john-legend/index.md), [Juanes](../../topics/juanes/index.md), [Ken Ehrlich](../../topics/ken-ehrlich/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Lizzo](../../topics/lizzo/index.md), [Los Angeles Convention Center (place)](../../topics/place/los-angeles-convention-center/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [Nasty Girl (song)](../../topics/song/nasty-girl/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md), [Usher](../../topics/usher/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md)
     - ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2020/01/grammys-to-host-all-star-prince-tribute-concert-run-by-sheila-e-jimmy-jam-and-terry-lewis/))
@@ -93,7 +93,7 @@
 <br />
 
  - [**"Grammys will honor Prince with an all-star concert broadcast on CBS"**](https://www.startribune.com/grammys-will-honor-prince-with-an-all-star-concert-broadcast-on-cbs/566849132/)
-    - in [Minneapolis Star Tribune](../../publications/minneapolis-star-tribune/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 9 January 2020
     - about [Alicia Keys](../../topics/alicia-keys/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Beck](../../topics/beck/index.md), [Chris Martin](../../topics/chris-martin/index.md), [Coldplay](../../topics/coldplay/index.md), [Earth, Wind & Fire](../../topics/earth-wind-fire/index.md), [Foo Fighters](../../topics/foo-fighters/index.md), [Gary Clark Jr.](../../topics/gary-clark-jr/index.md), [Grammy Award](../../topics/grammy-award/index.md), [H.E.R.](../../topics/h-e-r/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [John Legend](../../topics/john-legend/index.md), [Juanes](../../topics/juanes/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Let's Go Crazy: The Grammy Salute to Prince (event)](../../topics/event/let-s-go-crazy-the-grammy-salute-to-prince/index.md), [Los Angeles Convention Center (place)](../../topics/place/los-angeles-convention-center/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [St. Vincent](../../topics/st-vincent/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md), [Usher](../../topics/usher/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/grammys-will-honor-prince-with-an-all-star-concert-broadcast-on-cbs/566849132/))
@@ -101,7 +101,7 @@
 <br />
 
  - [**"Prince Is Getting an All-Star Grammy Tribute Concert -- Alicia Keys, John Legend, Usher, Foo Fighters, Beck set to perform with musical director Sheila E."**](https://www.rollingstone.com/music/music-news/prince-grammys-tribute-concert-934548/)
-    - in [Rolling Stone](../../publications/rolling-stone/index.md)
+    - in [Rolling Stone](../../publications/p-t/rolling-stone/index.md)
     - on 9 January 2020
     - about [Alicia Keys](../../topics/alicia-keys/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Bangles](../../topics/bangles/index.md), [Beck](../../topics/beck/index.md), [Bobby Z.](../../topics/bobby-z/index.md), [Chris Martin](../../topics/chris-martin/index.md), [Earth, Wind & Fire](../../topics/earth-wind-fire/index.md), [Foo Fighters](../../topics/foo-fighters/index.md), [Grammy Award](../../topics/grammy-award/index.md), [H.E.R.](../../topics/h-e-r/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [John Legend](../../topics/john-legend/index.md), [Juanes](../../topics/juanes/index.md), [Ken Ehrlich](../../topics/ken-ehrlich/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Los Angeles Convention Center (place)](../../topics/place/los-angeles-convention-center/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [Sheila E.](../../topics/sheila-e/index.md), [St. Vincent](../../topics/st-vincent/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Glamorous Life (song)](../../topics/song/the-glamorous-life/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md), [Usher](../../topics/usher/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-news/prince-grammys-tribute-concert-934548/))
@@ -109,7 +109,7 @@
 <br />
 
  - [**"Prince to Receive All-Star Grammy Tribute Starring Alicia Keys, Beck, Foo Fighters, Sheila E."**](https://variety.com/2020/music/news/prince-all-star-grammy-tribute-alicia-keys-beck-sheila-e-the-time-1203461660/)
-    - in [Variety](../../publications/variety/index.md)
+    - in [Variety](../../publications/u-z/variety/index.md)
     - on 9 January 2020
     - about [Alicia Keys](../../topics/alicia-keys/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Beck](../../topics/beck/index.md), [Chris Martin](../../topics/chris-martin/index.md), [Earth, Wind & Fire](../../topics/earth-wind-fire/index.md), [Foo Fighters](../../topics/foo-fighters/index.md), [Grammy Award](../../topics/grammy-award/index.md), [H.E.R.](../../topics/h-e-r/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [John Legend](../../topics/john-legend/index.md), [Juanes](../../topics/juanes/index.md), [Let's Go Crazy: The Grammy Salute to Prince (event)](../../topics/event/let-s-go-crazy-the-grammy-salute-to-prince/index.md), [Los Angeles Convention Center (place)](../../topics/place/los-angeles-convention-center/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Sheila E.](../../topics/sheila-e/index.md), [St. Vincent](../../topics/st-vincent/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md), [Usher](../../topics/usher/index.md)
     - ([mirror](https://web.archive.org/web/*/https://variety.com/2020/music/news/prince-all-star-grammy-tribute-alicia-keys-beck-sheila-e-the-time-1203461660/))
@@ -121,7 +121,7 @@
 ### 2019 December (1)
 
  - [**"Paisley Park to host film series featuring Aretha, 'Wattstax' and 'Dave Chappelle's Block Party'"**](https://www.startribune.com/paisley-park-to-host-film-series-featuring-aretha-wattstax-and-dave-chappelle-s-block-party/566561102/)
-    - in [Minneapolis Star Tribune](../../publications/minneapolis-star-tribune/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 30 December 2019
     - about [Alan Seiffert](../../topics/alan-seiffert/index.md), [Amazing Grace (movie)](../../topics/movie/amazing-grace/index.md), [Andre Cymone](../../topics/andre-cymone/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Dave Chappelle](../../topics/dave-chappelle/index.md), [Dave Chappelle’s Block Party (movie)](../../topics/movie/dave-chappelle-s-block-party/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [Judith Hill](../../topics/judith-hill/index.md), [museum](../../topics/museum/index.md), [Paisley Park Cinema: Music on the Big Screen (event)](../../topics/event/paisley-park-cinema-music-on-the-big-screen/index.md), [The Roots](../../topics/the-roots/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/paisley-park-to-host-film-series-featuring-aretha-wattstax-and-dave-chappelle-s-block-party/566561102/))
@@ -131,7 +131,7 @@
 ### 2019 November (1)
 
  - [**"Go to Paisley Park While It's Still in Your Heart"**](https://www.houstonpress.com/music/a-trip-to-princes-paisley-park-11373725)
-    - in [www.houstonpress.com](../../publications/www-houstonpress-com/index.md)
+    - in [houstonpress.com](../../publications/f-j/houstonpress-com/index.md)
     - on 1 November 2019
     - about [Academy Award](../../topics/academy-award/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Charlie Murphy](../../topics/charlie-murphy/index.md), [exhibit](../../topics/exhibit/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Graceland](../../topics/graceland/index.md), [James Brown](../../topics/james-brown/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Lizzo](../../topics/lizzo/index.md), [Minnesota Timberwolves](../../topics/minnesota-timberwolves/index.md), [motorcycle](../../topics/motorcycle/index.md), [museum](../../topics/museum/index.md), [NPG Music Club (website)](../../topics/website/npg-music-club/index.md), [Obama](../../topics/obama/index.md), [Sly Stone](../../topics/sly-stone/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Timberwolves](../../topics/timberwolves/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.houstonpress.com/music/a-trip-to-princes-paisley-park-11373725))
@@ -141,7 +141,7 @@
 ### 2019 October (7)
 
  - [**"QUAND PRINCE POUSSAIT UN COUP DE GUEULE CONTRE LES STARS DE LA POP"**](https://www.rocknfolk.com/news/quand-prince-poussait-un-coup-de-gueule-contre-les-stars-de-la-pop/39605)
-    - in [www.rocknfolk.com](../../publications/www-rocknfolk-com/index.md)
+    - in [rocknfolk.com](../../publications/p-t/rocknfolk-com/index.md)
     - on 30 October 2019
     - about [Aretha Franklin](../../topics/aretha-franklin/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Ed Sheeran](../../topics/ed-sheeran/index.md), [James Brown](../../topics/james-brown/index.md), [Katy Perry](../../topics/katy-perry/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.rocknfolk.com/news/quand-prince-poussait-un-coup-de-gueule-contre-les-stars-de-la-pop/39605))
@@ -149,7 +149,7 @@
 <br />
 
  - [**"Notes manuscrites, anecdotes sur son enfance : les mémoires inachevés de Prince sortent en librairie -- Dans "The Beautiful Ones", les fans pourront découvrir des croquis, des photos, mais surtout l'autobiographie qu'avait commencé à écrire le chanteur juste avant sa mort, en 2016. Le journaliste Dan Piepenbring y raconte également sa rencontre avec Prince à Paisley Park et l'ambition que celui-ci avait pour ce livre."**](https://www.franceinter.fr/notes-manuscrites-anecdotes-sur-son-enfance-les-memoires-inacheves-de-prince-sortent-en-librairie)
-    - in [France Inter](../../publications/france-inter/index.md)
+    - in [France Inter](../../publications/f-j/france-inter/index.md)
     - on 29 October 2019
     - about [Aretha Franklin](../../topics/aretha-franklin/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Ed Sheeran](../../topics/ed-sheeran/index.md), [James Brown](../../topics/james-brown/index.md), [Katy Perry](../../topics/katy-perry/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.franceinter.fr/notes-manuscrites-anecdotes-sur-son-enfance-les-memoires-inacheves-de-prince-sortent-en-librairie))
@@ -157,7 +157,7 @@
 <br />
 
  - [**"Prince: Autobiografie "The Beautiful Ones" -- Er wollte unbedingt ein Buch über sein Leben schreiben, denn von weißen Kritikern fühlte sich Prince unverstanden. Drei Jahre nach seinem Tod kommt jetzt seine Autobiografie "The Beautiful Ones" auf den Markt."**](https://www.dw.com/de/prince-autobiografie-the-beautiful-ones/a-51019175)
-    - in [www.dw.com](../../publications/www-dw-com/index.md)
+    - in [dw.com](../../publications/a-e/dw-com/index.md)
     - on 29 October 2019
     - about [Aretha Franklin](../../topics/aretha-franklin/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [James Brown](../../topics/james-brown/index.md), [merchandise](../../topics/merchandise/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.dw.com/de/prince-autobiografie-the-beautiful-ones/a-51019175))
@@ -165,7 +165,7 @@
 <br />
 
  - [**"IRRESISTIBLE BOOK: PRINCE’S MEMOIR “THE BEAUTIFUL ONES”"**](https://scottwoodsmakeslists.wordpress.com/2019/10/27/irresistible-book-princes-memoir-the-beautiful-ones/)
-    - in [scottwoodsmakeslists.wordpress.com](../../publications/scottwoodsmakeslists-wordpress-com/index.md)
+    - in [scottwoodsmakeslists.wordpress.com](../../publications/p-t/scottwoodsmakeslists-wordpress-com/index.md)
     - on 28 October 2019
     - about [Aretha Franklin](../../topics/aretha-franklin/index.md), [Brittany Howard](../../topics/brittany-howard/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Ed Sheeran](../../topics/ed-sheeran/index.md), [Eric Leeds](../../topics/eric-leeds/index.md), [James Brown](../../topics/james-brown/index.md), [Katy Perry](../../topics/katy-perry/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [vault](../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://scottwoodsmakeslists.wordpress.com/2019/10/27/irresistible-book-princes-memoir-the-beautiful-ones/))
@@ -173,7 +173,7 @@
 <br />
 
  - [**"Book Review: Prince’s Autobiography ‘The Beautiful Ones’"**](https://variety.com/2019/music/news/prince-autobiography-beautiful-ones-book-review-1203383683/)
-    - in [Variety](../../publications/variety/index.md)
+    - in [Variety](../../publications/u-z/variety/index.md)
     - on 27 October 2019
     - about [Andre Cymone](../../topics/andre-cymone/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [James Brown](../../topics/james-brown/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [The Revolution](../../topics/the-revolution/index.md), [trademark](../../topics/trademark/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md)
     - ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/news/prince-autobiography-beautiful-ones-book-review-1203383683/))
@@ -181,7 +181,7 @@
 <br />
 
  - [**"Buddy Holly and Roy Orbison in Minnesota? Hologram tours of old stars are the hot new concert trend -- Buddy Holly is coming to town with Roy Orbison? Yes, rock 'n' roll holograms are here to stay."**](https://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/)
-    - in [Minneapolis Star Tribune](../../publications/minneapolis-star-tribune/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 12 October 2019
     - about [Aretha Franklin](../../topics/aretha-franklin/index.md), [Ed Sheeran](../../topics/ed-sheeran/index.md), [Frank Zappa](../../topics/frank-zappa/index.md), [hologram](../../topics/hologram/index.md), [Lizzo](../../topics/lizzo/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Morris Day](../../topics/morris-day/index.md), [perfume](../../topics/perfume/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/))
@@ -189,7 +189,7 @@
 <br />
 
  - [**"Prince haunts Morris Day's new memoir: 'I still hear his voice in my head' -- "Purple Rain" co-star and Time leader Morris Day details his long friendship with Prince in a memoir that brings him home to the Twin Cities this week."**](https://www.startribune.com/prince-haunts-morris-day-s-new-memoir-i-still-hear-his-voice-in-my-head/562430972/)
-    - in [Minneapolis Star Tribune](../../publications/minneapolis-star-tribune/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 8 October 2019
     - about [Aretha Franklin](../../topics/aretha-franklin/index.md), [Donald Trump](../../topics/donald-trump/index.md), [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jamie Starr](../../topics/jamie-starr/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [Pandemonium (album)](../../topics/album/pandemonium/index.md), [Trump](../../topics/trump/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-haunts-morris-day-s-new-memoir-i-still-hear-his-voice-in-my-head/562430972/))
@@ -200,7 +200,7 @@
 
  - [**"Prince Originals: exclusive interview with muse and collaborator Susannah Melvoin -- As Prince rarities finally become available on the Originals album, we speak to the woman who inspired Nothing Compares 2 U."**](https://www.officialcharts.com/chart-news/prince-originals-exclusive-interview-with-muse-and-collaborator-susannah-melvoin__26670/)
     - by [Martin Talbot](../../authors/martin-talbot/index.md)
-    - in [Official Charts](../../publications/official-charts/index.md)
+    - in [Official Charts](../../publications/k-o/official-charts/index.md)
     - on 24 June 2019
     - about [Aretha Franklin](../../topics/aretha-franklin/index.md), [Bangles](../../topics/bangles/index.md), [Crystal Ball (album)](../../topics/album/crystal-ball/index.md), [Cynthia Rose](../../topics/cynthia-rose/index.md), [David Geffen](../../topics/david-geffen/index.md), [Dream Factory (album)](../../topics/album/dream-factory/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Martika](../../topics/martika/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../topics/album/originals/index.md), [Quincy Jones](../../topics/quincy-jones/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [The Black Album (album)](../../topics/album/the-black-album/index.md), [The Family](../../topics/the-family/index.md), [vault](../../topics/vault/index.md), [Wally (song)](../../topics/song/wally/index.md), [Wendy & Lisa](../../topics/wendy-lisa/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.officialcharts.com/chart-news/prince-originals-exclusive-interview-with-muse-and-collaborator-susannah-melvoin__26670/))
@@ -210,7 +210,7 @@
 ### 2019 May (1)
 
  - [**"The Curious Case of Tevin Campbell"**](https://www.thereckoningmag.com/the-reckoning-blog/the-curious-case-of-tevin-campbell)
-    - in [The Reckoning by The Counter Narrative Project](../../publications/the-reckoning-by-the-counter-narrative-project/index.md)
+    - in [The Reckoning by The Counter Narrative Project](../../publications/p-t/the-reckoning-by-the-counter-narrative-project/index.md)
     - on 9 May 2019
     - about [Aretha Franklin](../../topics/aretha-franklin/index.md), [Ava DuVernay](../../topics/ava-duvernay/index.md), [Benny Medina](../../topics/benny-medina/index.md), [Beyoncé](../../topics/beyonc/index.md), [D’Angelo](../../topics/d-angelo/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Lenny Kravitz](../../topics/lenny-kravitz/index.md), [Quincy Jones](../../topics/quincy-jones/index.md), [Round and Round (song)](../../topics/song/round-and-round/index.md), [Stokely Williams](../../topics/stokely-williams/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [Tevin Campbell](../../topics/tevin-campbell/index.md), [Usher](../../topics/usher/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md), [Whitney Houston](../../topics/whitney-houston/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.thereckoningmag.com/the-reckoning-blog/the-curious-case-of-tevin-campbell))
@@ -221,7 +221,7 @@
 
  - [**"Former Prince guitarist Donna Grantis celebrates new jazz-rock album at the Dakota -- 3rdEyeGirl guitarist Donna Grantis will celebrate her new jazz-rock fusion album in Minneapolis."**](https://www.startribune.com/former-prince-guitarist-donna-grantis-celebrates-new-jazz-rock-album-at-the-dakota/507678332/)
     - by [Jon Bream](../../authors/jon-bream/index.md)
-    - in [Minneapolis Star Tribune](../../publications/minneapolis-star-tribune/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 26 March 2019
     - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Dakota (place)](../../topics/place/dakota/index.md), [Donna Grantis](../../topics/donna-grantis/index.md), [Hannah Welton](../../topics/hannah-welton/index.md), [Toronto (place)](../../topics/place/toronto/index.md), [YouTube](../../topics/youtube/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/former-prince-guitarist-donna-grantis-celebrates-new-jazz-rock-album-at-the-dakota/507678332/))
@@ -231,7 +231,7 @@
 ### 2019 February (1)
 
  - [**"Chaka Khan On Why She Finally Released Her First Album In 12 Years"**](https://www.billboard.com/articles/news/8496614/chaka-khan-hello-happiness-interview)
-    - in [Billboard](../../publications/billboard/index.md)
+    - in [Billboard](../../publications/a-e/billboard/index.md)
     - on 8 February 2019
     - about [Aretha Franklin](../../topics/aretha-franklin/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Essence Fest (event)](../../topics/event/essence-fest/index.md), [Essence Festival (event)](../../topics/event/essence-festival/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Miles Davis](../../topics/miles-davis/index.md), [NPG Records](../../topics/npg-records/index.md), [Sticky Wicked (song)](../../topics/song/sticky-wicked/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8496614/chaka-khan-hello-happiness-interview))
@@ -243,7 +243,7 @@
 ### 2018 September (3)
 
  - [**"Nuevo álbum de Prince: solo él cantando al piano en su casa"**](https://apnews.com/article/cdd2248d6c1a4c2b829a3235ee7f3fb5)
-    - in [Associated Press News](../../publications/associated-press-news/index.md)
+    - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 18 September 2018
     - about [17 Days (song)](../../topics/song/17-days/index.md), [A Case of You (song)](../../topics/song/a-case-of-you/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [International Lover (song)](../../topics/song/international-lover/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Mary Don’t You Weep (song)](../../topics/song/mary-don-t-you-weep/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Piano & A Microphone 1983 (album)](../../topics/album/piano-a-microphone-1983/index.md), [Spike Lee](../../topics/spike-lee/index.md), [Strange Relationship (song)](../../topics/song/strange-relationship/index.md), [Troy Carter](../../topics/troy-carter/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md), [Why The Butterflies (song)](../../topics/song/why-the-butterflies/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/cdd2248d6c1a4c2b829a3235ee7f3fb5))
@@ -252,7 +252,7 @@
 
  - [**"Prince’s new basement tape: Just him singing, playing piano"**](https://apnews.com/e0a9e78a662c40d3adee133110bc8489)
     - by [Jeff Baenen (Associated Press)](../../authors/associated-press/jeff-baenen/index.md)
-    - in [Associated Press News](../../publications/associated-press-news/index.md)
+    - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 18 September 2018
     - about [17 Days (song)](../../topics/song/17-days/index.md), [A Case of You (song)](../../topics/song/a-case-of-you/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Cold Coffee & Cocaine (song)](../../topics/song/cold-coffee-cocaine/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [International Lover (song)](../../topics/song/international-lover/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Legacy Recordings](../../topics/legacy-recordings/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Mary Don’t You Weep (song)](../../topics/song/mary-don-t-you-weep/index.md), [Michael Howe](../../topics/michael-howe/index.md), [NPG Records](../../topics/npg-records/index.md), [Piano & A Microphone 1983 (album)](../../topics/album/piano-a-microphone-1983/index.md), [Piano and a Microphone 1983 (album)](../../topics/album/piano-and-a-microphone-1983/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Sony Music](../../topics/sony-music/index.md), [Sony Music Entertainment](../../topics/sony-music-entertainment/index.md), [Strange Relationship (song)](../../topics/song/strange-relationship/index.md), [Troy Carter](../../topics/troy-carter/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md), [Why The Butterflies (song)](../../topics/song/why-the-butterflies/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/e0a9e78a662c40d3adee133110bc8489))
@@ -260,7 +260,7 @@
 <br />
 
  - [**"Prince's New 'Piano & A Microphone 1983' Basement Tape Is as Simple as It Sounds"**](https://www.billboard.com/articles/news/8475824/prince-piano-and-a-microphone-1983-album)
-    - in [Billboard](../../publications/billboard/index.md)
+    - in [Billboard](../../publications/a-e/billboard/index.md)
     - on 18 September 2018
     - about [A Case of You (song)](../../topics/song/a-case-of-you/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [International Lover (song)](../../topics/song/international-lover/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Legacy Recordings](../../topics/legacy-recordings/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Mary Don’t You Weep (song)](../../topics/song/mary-don-t-you-weep/index.md), [Michael Howe](../../topics/michael-howe/index.md), [Piano & A Microphone 1983 (album)](../../topics/album/piano-a-microphone-1983/index.md), [Piano and a Microphone 1983 (album)](../../topics/album/piano-and-a-microphone-1983/index.md), [Sony Music](../../topics/sony-music/index.md), [Sony Music Entertainment](../../topics/sony-music-entertainment/index.md), [Strange Relationship (song)](../../topics/song/strange-relationship/index.md), [Troy Carter](../../topics/troy-carter/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8475824/prince-piano-and-a-microphone-1983-album))
@@ -270,7 +270,7 @@
 ### 2018 August (1)
 
  - [**"The days the music died: A look at funerals of the greats"**](https://apnews.com/7d546ab5dbec4e5ba4ebd0eddd1064e8)
-    - in [Associated Press News](../../publications/associated-press-news/index.md)
+    - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 29 August 2018
     - about [Aretha Franklin](../../topics/aretha-franklin/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Graceland](../../topics/graceland/index.md), [James Brown](../../topics/james-brown/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [museum](../../topics/museum/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [trademark](../../topics/trademark/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/7d546ab5dbec4e5ba4ebd0eddd1064e8))

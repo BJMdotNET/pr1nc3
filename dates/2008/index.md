@@ -3,14 +3,14 @@
 ## November 2008 (2)
 
  - [**"The Beige Bisno Behemoth in Beverly Park"**](https://www.dirt.com/more-dirt/real-estate-listings/the-beige-bisno-behemoth-in-beverly-park-1203475365/)
-    - in [DIRT](../../publications/dirt/index.md)
+    - in [DIRT](../../publications/a-e/dirt/index.md)
     - on 26 November 2008
     - ([mirror](https://web.archive.org/web/*/https://www.dirt.com/more-dirt/real-estate-listings/the-beige-bisno-behemoth-in-beverly-park-1203475365/))
 
 ----
 
  - [**"Prince Sued Over Perfume Deal"**](https://www.billboard.com/articles/business/266253/prince-sued-over-perfume-deal)
-    - in [Billboard](../../publications/billboard/index.md)
+    - in [Billboard](../../publications/a-e/billboard/index.md)
     - on 18 November 2008
     - about [3121 (album)](../../topics/album/3121/index.md), [contract](../../topics/contract/index.md), [fragrance](../../topics/fragrance/index.md), [lawsuit](../../topics/lawsuit/index.md), [New York State Supreme Court](../../topics/new-york-state-supreme-court/index.md), [perfume](../../topics/perfume/index.md), [Revelations](../../topics/revelations/index.md), [Universal Music Publishing Group](../../topics/universal-music-publishing-group/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/business/266253/prince-sued-over-perfume-deal))

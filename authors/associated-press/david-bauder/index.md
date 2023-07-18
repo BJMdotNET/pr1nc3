@@ -6,7 +6,7 @@
 
  - [**"Prince, Haggard, Bowie, White, Frey: Lousy year for music"**](https://www.startribune.com/prince-haggard-bowie-white-frey-lousy-year-for-music/376665661/)
     - by [David Bauder (Associated Press)](../../../authors/associated-press/david-bauder/index.md)
-    - in [Minneapolis Star Tribune](../../../publications/minneapolis-star-tribune/index.md)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 22 April 2016
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-haggard-bowie-white-frey-lousy-year-for-music/376665661/))
 

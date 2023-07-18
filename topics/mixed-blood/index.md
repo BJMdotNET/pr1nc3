@@ -5,7 +5,7 @@
 ### 2016 September (4)
 
  - [**"Mixed Blood is suing Prince's estate for $348,358 -- Last week, West Bank theater Mixed Blood filed a $350,000 lawsuit against Prince's estate after being forced to cancel its benefit gala at Paisley Park."**](http://www.citypages.com/arts/mixed-blood-is-suing-princes-estate-for-348358/393265501)
-    - in [City Pages](../../publications/city-pages/index.md)
+    - in [City Pages](../../publications/a-e/city-pages/index.md)
     - on 19 September 2016
     - about [Bremer Trust](../../topics/bremer-trust/index.md), [contract](../../topics/contract/index.md), [lawsuit](../../topics/lawsuit/index.md), [Mixed Blood](../../topics/mixed-blood/index.md)
     - ([mirror](https://web.archive.org/web/*/http://www.citypages.com/arts/mixed-blood-is-suing-princes-estate-for-348358/393265501))
@@ -13,7 +13,7 @@
 <br />
 
  - [**"Mixed Blood Theatre Files Claim Against Late Musician Prince’s Estate -- The Minneapolis theatre company’s gala was canceled following Prince’s unexpected death."**](http://www.playbill.com/article/mixed-blood-theatre-files-claim-against-late-musician-princes-estate)
-    - in [Playbill](../../publications/playbill/index.md)
+    - in [Playbill](../../publications/p-t/playbill/index.md)
     - on 13 September 2016
     - about [auction](../../topics/auction/index.md), [Bremer Trust](../../topics/bremer-trust/index.md), [Mixed Blood](../../topics/mixed-blood/index.md)
     - ([mirror](https://web.archive.org/web/*/http://www.playbill.com/article/mixed-blood-theatre-files-claim-against-late-musician-princes-estate))
@@ -21,7 +21,7 @@
 <br />
 
  - [**"Mixed Blood Files $350K Claim Against Prince’s Estate"**](https://minnesota.cbslocal.com/2016/09/12/mixed-blood-prince-estate/)
-    - in [WCCO - CBS Minnesota](../../publications/wcco-cbs-minnesota/index.md)
+    - in [WCCO - CBS Minnesota (old)](../../publications/u-z/wcco-cbs-minnesota-old/index.md)
     - on 12 September 2016
     - about [Bremer Trust](../../topics/bremer-trust/index.md), [Mixed Blood](../../topics/mixed-blood/index.md)
     - ([mirror](https://web.archive.org/web/*/https://minnesota.cbslocal.com/2016/09/12/mixed-blood-prince-estate/))
@@ -29,7 +29,7 @@
 <br />
 
  - [**"Prince’s Paisley Park sued for $350,000 after gala canceled"**](https://www.twincities.com/2016/09/12/prince-paisley-park-mixed-blood-theatre-350000-lawsuit-gala-canceled-minneapolis/)
-    - in [TwinCities.com - Pioneer Press](../../publications/twincities-com-pioneer-press/index.md)
+    - in [TwinCities.com - Pioneer Press](../../publications/p-t/twincities-com-pioneer-press/index.md)
     - on 12 September 2016
     - about [Bremer Trust](../../topics/bremer-trust/index.md), [Mixed Blood](../../topics/mixed-blood/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2016/09/12/prince-paisley-park-mixed-blood-theatre-350000-lawsuit-gala-canceled-minneapolis/))
@@ -39,7 +39,7 @@
 ### 2016 May (5)
 
  - [**"Mixed Blood benefit booted from Paisley Park"**](http://www.citypages.com/arts/mixed-blood-benefit-booted-from-paisley-park-8262958)
-    - in [City Pages](../../publications/city-pages/index.md)
+    - in [City Pages](../../publications/a-e/city-pages/index.md)
     - on 9 May 2016
     - about [Bremer Trust](../../topics/bremer-trust/index.md), [contract](../../topics/contract/index.md), [Mixed Blood](../../topics/mixed-blood/index.md)
     - ([mirror](https://web.archive.org/web/*/http://www.citypages.com/arts/mixed-blood-benefit-booted-from-paisley-park-8262958))
@@ -47,7 +47,7 @@
 <br />
 
  - [**"Prince's death, Day 18: Ex-wife speaks about loss of son"**](https://usatoday.com/story/life/people/2016/05/08/princes-death-day-18-ex-wife-speaks-loss-son/84109510/)
-    - in [USA Today](../../publications/usa-today/index.md)
+    - in [USA Today](../../publications/u-z/usa-today/index.md)
     - on 8 May 2016
     - about [Bremer Trust](../../topics/bremer-trust/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Mixed Blood](../../topics/mixed-blood/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md)
     - ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/people/2016/05/08/princes-death-day-18-ex-wife-speaks-loss-son/84109510/))
@@ -55,7 +55,7 @@
 <br />
 
  - [**"Mixed Blood forced to cancel party at Paisley Park"**](http://www.fox9.com/news/mixed-blood-forced-to-cancel-party-at-paisley-park)
-    - in [Fox 9](../../publications/fox-9/index.md)
+    - in [Fox 9](../../publications/f-j/fox-9/index.md)
     - on 7 May 2016
     - about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [John Nelson](../../topics/john-nelson/index.md), [Mixed Blood](../../topics/mixed-blood/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)
     - ([mirror](https://web.archive.org/web/*/http://www.fox9.com/news/mixed-blood-forced-to-cancel-party-at-paisley-park))
@@ -64,7 +64,7 @@
 
  - [**"Mixed Blood is forced by Prince's estate to cancel gala at Paisley Park"**](https://www.startribune.com/mixed-blood-is-forced-by-prince-s-estate-to-cancel-gala-at-paisley-park/378494185/)
     - by [Jon Bream](../../authors/jon-bream/index.md)
-    - in [Minneapolis Star Tribune](../../publications/minneapolis-star-tribune/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 7 May 2016
     - about [Bremer Trust](../../topics/bremer-trust/index.md), [contract](../../topics/contract/index.md), [Mixed Blood](../../topics/mixed-blood/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/mixed-blood-is-forced-by-prince-s-estate-to-cancel-gala-at-paisley-park/378494185/))
@@ -73,7 +73,7 @@
 
  - [**"Paisley Park event cancellation distresses Mixed Blood ticket holders -- Court-appointed trustee is enforcing a ban on events at Prince's estate."**](https://www.startribune.com/paisley-park-event-cancellation-distresses-mixed-blood-ticket-holders/378527695/)
     - by [Jon Bream](../../authors/jon-bream/index.md)
-    - in [Minneapolis Star Tribune](../../publications/minneapolis-star-tribune/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 7 May 2016
     - about [Bremer Trust](../../topics/bremer-trust/index.md), [contract](../../topics/contract/index.md), [Mixed Blood](../../topics/mixed-blood/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/paisley-park-event-cancellation-distresses-mixed-blood-ticket-holders/378527695/))
@@ -83,7 +83,7 @@
 ### 2016 April (3)
 
  - [**"Mixed Blood To Host 40th Anniversary Gala At Paisley Park"**](https://minnesota.cbslocal.com/2016/04/29/mixed-blood-anniversary-paisley-park/)
-    - in [WCCO - CBS Minnesota](../../publications/wcco-cbs-minnesota/index.md)
+    - in [WCCO - CBS Minnesota (old)](../../publications/u-z/wcco-cbs-minnesota-old/index.md)
     - on 29 April 2016
     - about [Mixed Blood](../../topics/mixed-blood/index.md)
     - ([mirror](https://web.archive.org/web/*/https://minnesota.cbslocal.com/2016/04/29/mixed-blood-anniversary-paisley-park/))
@@ -91,7 +91,7 @@
 <br />
 
  - [**"Party at Paisley Park still planned for May 14"**](http://www.fox9.com/entertainment/party-at-paisley-park-still-planned-for-may-14)
-    - in [Fox 9](../../publications/fox-9/index.md)
+    - in [Fox 9](../../publications/f-j/fox-9/index.md)
     - on 28 April 2016
     - about [Carver County](../../topics/carver-county/index.md), [Mixed Blood](../../topics/mixed-blood/index.md)
     - ([mirror](https://web.archive.org/web/*/http://www.fox9.com/entertainment/party-at-paisley-park-still-planned-for-may-14))
@@ -99,7 +99,7 @@
 <br />
 
  - [**"‘Prince wanted this event to happen’: Mixed Blood Theatre’s Paisley Park gala will go on as planned"**](https://blog.thecurrent.org/2016/04/prince-wanted-this-event-to-happen-mixed-blood-theatres-paisley-park-gala-will-go-on-as-planned/)
-    - in [The Current - Local Current Blog](../../publications/the-current-local-current-blog/index.md)
+    - in [The Current - Local Current Blog](../../publications/a-e/the-current-local-current-blog/index.md)
     - on 26 April 2016
     - about [auction](../../topics/auction/index.md), [Mixed Blood](../../topics/mixed-blood/index.md), [museum](../../topics/museum/index.md), [Sheila E.](../../topics/sheila-e/index.md)
     - ([mirror](https://web.archive.org/web/*/https://blog.thecurrent.org/2016/04/prince-wanted-this-event-to-happen-mixed-blood-theatres-paisley-park-gala-will-go-on-as-planned/))
@@ -110,7 +110,7 @@
 
  - [**"A purple-tie affair?"**](https://www.startribune.com/a-purple-tie-affair/372125381/)
     - by [Rohan Preston](../../authors/rohan-preston/index.md)
-    - in [Minneapolis Star Tribune](../../publications/minneapolis-star-tribune/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 15 March 2016
     - about [Chanhassen Dinner Theatres](../../topics/chanhassen-dinner-theatres/index.md), [Mixed Blood](../../topics/mixed-blood/index.md), [Paisley Park Studios (place)](../../topics/place/paisley-park-studios/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/a-purple-tie-affair/372125381/))

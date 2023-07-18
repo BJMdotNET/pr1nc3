@@ -6,7 +6,7 @@
 
  - [**"YouTube 'dancing baby' video with Prince music births a legal battle that won't go away"**](https://www.startribune.com/youtube-dancing-baby-video-births-a-legal-battle-that-won-t-go-away/367109661/)
     - by [James Eli Shiffer](../../authors/james-eli-shiffer/index.md)
-    - in [Minneapolis Star Tribune](../../publications/minneapolis-star-tribune/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 30 January 2016
     - about [lawsuit](../../topics/lawsuit/index.md), [royalties](../../topics/royalties/index.md), [Super Bowl](../../topics/super-bowl/index.md), [YouTube](../../topics/youtube/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/youtube-dancing-baby-video-births-a-legal-battle-that-won-t-go-away/367109661/))

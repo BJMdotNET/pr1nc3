@@ -5,7 +5,7 @@
 ### 2019 December (3)
 
  - [**"Rock and Roll Book Club: Best music books of 2019"**](https://www.thecurrent.org/feature/2019/12/11/best-music-books-2019)
-    - in [The Current](../../publications/the-current/index.md)
+    - in [The Current](../../publications/a-e/the-current/index.md)
     - on 18 December 2019
     - about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/12/11/best-music-books-2019))
@@ -13,7 +13,7 @@
 <br />
 
  - [**"20 gift ideas for the music lovers on your holiday list -- Twenty ideas for the music lovers on your holiday list."**](https://www.startribune.com/20-gift-ideas-for-the-music-lovers-on-your-holiday-list/566181501/)
-    - in [Minneapolis Star Tribune](../../publications/minneapolis-star-tribune/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 16 December 2019
     - about [1999 Super Deluxe (album)](../../topics/album/1999-super-deluxe/index.md), [Bob Dylan](../../topics/bob-dylan/index.md), [bootleg](../../topics/bootleg/index.md), [Lizzo](../../topics/lizzo/index.md), [memoir](../../topics/memoir/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Morris Day](../../topics/morris-day/index.md), [My Name Is Prince: 25 Inspired Years (book)](../../topics/book/my-name-is-prince-25-inspired-years/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/20-gift-ideas-for-the-music-lovers-on-your-holiday-list/566181501/))
@@ -21,7 +21,7 @@
 <br />
 
  - [**"Music bios should strike chord with Moorer, Prince, Elton fans"**](https://www.bostonherald.com/2019/12/03/music-bios-should-strike-chord-with-moorer-prince-elton-fans/)
-    - in [Boston Herald](../../publications/boston-herald/index.md)
+    - in [Boston Herald](../../publications/a-e/boston-herald/index.md)
     - on 3 December 2019
     - about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [merchandise](../../topics/merchandise/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.bostonherald.com/2019/12/03/music-bios-should-strike-chord-with-moorer-prince-elton-fans/))
@@ -31,7 +31,7 @@
 ### 2019 November (4)
 
  - [**"5 of the best new music books"**](https://www.latimes.com/entertainment-arts/books/story/2019-11-21/music-books-elton-john-flea-prince-allison-moorer-janis-joplin)
-    - in [Los Angeles Times](../../publications/los-angeles-times/index.md)
+    - in [Los Angeles Times](../../publications/k-o/los-angeles-times/index.md)
     - on 21 November 2019
     - about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [merchandise](../../topics/merchandise/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.latimes.com/entertainment-arts/books/story/2019-11-21/music-books-elton-john-flea-prince-allison-moorer-janis-joplin))
@@ -39,7 +39,7 @@
 <br />
 
  - [**"Songs of Survival and Rebellion"**](https://www.nytimes.com/2019/11/19/books/review/me-elton-john.html)
-    - in [New York Times](../../publications/new-york-times/index.md)
+    - in [New York Times](../../publications/k-o/new-york-times/index.md)
     - on 19 November 2019
     - about [Andy Warhol](../../topics/andy-warhol/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [demo tape](../../topics/demo-tape/index.md), [divorce](../../topics/divorce/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [trademark](../../topics/trademark/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.nytimes.com/2019/11/19/books/review/me-elton-john.html))
@@ -47,7 +47,7 @@
 <br />
 
  - [**"The afterlife of Prince, in words and music"**](https://www.inquirer.com/entertainment/prince-1999-beautiful-ones-music-book-tom-petty-david-bowie-20191115.html)
-    - in [www.inquirer.com](../../publications/www-inquirer-com/index.md)
+    - in [inquirer.com](../../publications/f-j/inquirer-com/index.md)
     - on 15 November 2019
     - about [bootleg](../../topics/bootleg/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [museum](../../topics/museum/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [Spike Lee](../../topics/spike-lee/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [Vagina (song)](../../topics/song/vagina/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.inquirer.com/entertainment/prince-1999-beautiful-ones-music-book-tom-petty-david-bowie-20191115.html))
@@ -55,7 +55,7 @@
 <br />
 
  - [**"Prince memoir ‘The Beautiful Ones’ finished, released posthumously"**](https://www.columbian.com/news/2019/nov/01/prince-memoir-the-beautiful-ones-finished-released-posthumously/)
-    - in [www.columbian.com](../../publications/www-columbian-com/index.md)
+    - in [columbian.com](../../publications/a-e/columbian-com/index.md)
     - on 1 November 2019
     - about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [divorce](../../topics/divorce/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [memoir](../../topics/memoir/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [vault](../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.columbian.com/news/2019/nov/01/prince-memoir-the-beautiful-ones-finished-released-posthumously/))
@@ -65,7 +65,7 @@
 ### 2019 October (12)
 
  - [**"Random House’s Chris Jackson on the Creation of Prince’s THE BEAUTIFUL ONES: “A Handbook for the Brilliant Community”"**](https://www.webwire.com/ViewPressRel.asp?aId=249276)
-    - in [WebWire](../../publications/webwire/index.md)
+    - in [WebWire](../../publications/u-z/webwire/index.md)
     - on 31 October 2019
     - about [Chris Jackson](../../topics/chris-jackson/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.webwire.com/ViewPressRel.asp?aId=249276))
@@ -73,7 +73,7 @@
 <br />
 
  - [**"Prince’s just-released posthumous book contains no bombshells"**](https://www.thestar.com/entertainment/books/2019/10/30/princes-just-released-posthumous-book-contains-no-bombshells.html)
-    - in [www.thestar.com](../../publications/www-thestar-com/index.md)
+    - in [thestar.com](../../publications/p-t/thestar-com/index.md)
     - on 30 October 2019
     - about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [memoir](../../topics/memoir/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [vault](../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.thestar.com/entertainment/books/2019/10/30/princes-just-released-posthumous-book-contains-no-bombshells.html))
@@ -81,7 +81,7 @@
 <br />
 
  - [**"Prince’s Memoir Isn’t Really Prince’s Memoir -- That doesn’t mean it’s not worth reading."**](https://slate.com/culture/2019/10/prince-memoir-book-review-the-beautiful-ones.html)
-    - in [slate.com](../../publications/slate-com/index.md)
+    - in [slate.com](../../publications/p-t/slate-com/index.md)
     - on 30 October 2019
     - about [Bremer Trust](../../topics/bremer-trust/index.md), [contract](../../topics/contract/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [divorce](../../topics/divorce/index.md), [John Nelson](../../topics/john-nelson/index.md), [memoir](../../topics/memoir/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [Thieves in the Temple (song)](../../topics/song/thieves-in-the-temple/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://slate.com/culture/2019/10/prince-memoir-book-review-the-beautiful-ones.html))
@@ -89,7 +89,7 @@
 <br />
 
  - [**"Prince Remembers His Parents’ ‘Soul-Crushing’ Fights in Posthumous Memoir The Beautiful Ones -- In his posthumous memoir, the music legend recalls his complicated relationship with his parents"**](https://people.com/music/prince-recalls-parents-fights-in-posthumous-memoir-the-beautiful-ones/)
-    - in [People](../../publications/people/index.md)
+    - in [People](../../publications/p-t/people/index.md)
     - on 29 October 2019
     - about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [divorce](../../topics/divorce/index.md), [John Nelson](../../topics/john-nelson/index.md), [memoir](../../topics/memoir/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://people.com/music/prince-recalls-parents-fights-in-posthumous-memoir-the-beautiful-ones/))
@@ -97,7 +97,7 @@
 <br />
 
  - [**"Prince's Book Agent Reveals an Unconventional Path to ‘Beautiful Ones’ -- ICM Partners' literary doyenne Esther  Newberg shepherded the rock legend’s book to its posthumous publication: "He just didn't want others writing any more about him. He wanted to set the story straight.""**](https://www.hollywoodreporter.com/news/princes-memoir-beautiful-took-an-unconventional-path-bookshelves-1250555)
-    - in [The Hollywood Reporter](../../publications/the-hollywood-reporter/index.md)
+    - in [The Hollywood Reporter](../../publications/f-j/the-hollywood-reporter/index.md)
     - on 29 October 2019
     - about [contract](../../topics/contract/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Esther Newberg](../../topics/esther-newberg/index.md), [memoir](../../topics/memoir/index.md), [Random House](../../topics/random-house/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.hollywoodreporter.com/news/princes-memoir-beautiful-took-an-unconventional-path-bookshelves-1250555))
@@ -105,7 +105,7 @@
 <br />
 
  - [**"Prince's Book Agent Reveals an Unconventional Path to 'Beautiful Ones'"**](https://www.billboard.com/articles/columns/rock/8541301/prince-book-agent-talks-beautiful-ones-memoir)
-    - in [Billboard](../../publications/billboard/index.md)
+    - in [Billboard](../../publications/a-e/billboard/index.md)
     - on 29 October 2019
     - about [contract](../../topics/contract/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Esther Newberg](../../topics/esther-newberg/index.md), [memoir](../../topics/memoir/index.md), [Random House](../../topics/random-house/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/columns/rock/8541301/prince-book-agent-talks-beautiful-ones-memoir))
@@ -113,7 +113,7 @@
 <br />
 
  - [**"Book excerpt: Prince's memoir, "The Beautiful Ones""**](https://www.cbsnews.com/news/book-excerpt-prince-memoir-the-beautiful-ones/)
-    - in [CBS News](../../publications/cbs-news/index.md)
+    - in [CBS News](../../publications/a-e/cbs-news/index.md)
     - on 26 October 2019
     - about [airport](../../topics/airport/index.md), [Chris Jackson](../../topics/chris-jackson/index.md), [Country Inn & Suites (place)](../../topics/place/country-inn-suites/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Kim Pratt](../../topics/kim-pratt/index.md), [memoir](../../topics/memoir/index.md), [Penguin Random House](../../topics/penguin-random-house/index.md), [Random House](../../topics/random-house/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/news/book-excerpt-prince-memoir-the-beautiful-ones/))
@@ -121,7 +121,7 @@
 <br />
 
  - [**"Five books not to miss: Prince memoir, Astro Poets, Mr. Rogers and Jack Reacher"**](https://usatoday.com/story/entertainment/books/2019/10/26/new-books-prince-memoir-astro-poets-mr-rogers-jack-reacher/2458082001/)
-    - in [USA Today](../../publications/usa-today/index.md)
+    - in [USA Today](../../publications/u-z/usa-today/index.md)
     - on 26 October 2019
     - about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)
     - ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/entertainment/books/2019/10/26/new-books-prince-memoir-astro-poets-mr-rogers-jack-reacher/2458082001/))
@@ -129,7 +129,7 @@
 <br />
 
  - [**"In their brief time together, Prince made co-author believe he could do the 'impossible' -- He'd never written a book before. But Dan Piepenbring carried on after Prince's death."**](https://www.startribune.com/in-their-brief-time-together-prince-made-co-author-believe-he-could-do-the-impossible/563845862/)
-    - in [Minneapolis Star Tribune](../../publications/minneapolis-star-tribune/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 26 October 2019
     - about [contract](../../topics/contract/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [royalties](../../topics/royalties/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [vault](../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/in-their-brief-time-together-prince-made-co-author-believe-he-could-do-the-impossible/563845862/))
@@ -137,7 +137,7 @@
 <br />
 
  - [**"Prince’s anticipated, posthumous memoir is ready for fans"**](https://apnews.com/3b915e466906421c90d0d42fcbbaef47)
-    - in [Associated Press News](../../publications/associated-press-news/index.md)
+    - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 26 October 2019
     - about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [divorce](../../topics/divorce/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [memoir](../../topics/memoir/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [vault](../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/3b915e466906421c90d0d42fcbbaef47))
@@ -145,7 +145,7 @@
 <br />
 
  - [**"Prince's anticipated, posthumous memoir is ready for fans"**](https://www.startribune.com/prince-s-anticipated-posthumous-memoir-is-ready-for-fans/563912692/)
-    - in [Minneapolis Star Tribune](../../publications/minneapolis-star-tribune/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 26 October 2019
     - about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [divorce](../../topics/divorce/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [memoir](../../topics/memoir/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [vault](../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-s-anticipated-posthumous-memoir-is-ready-for-fans/563912692/))
@@ -153,7 +153,7 @@
 <br />
 
  - [**"Prince's Posthumous Memoir 'The Beautiful Ones' Is Ready for Fans"**](https://www.billboard.com/articles/news/8540792/prince-posthumous-memoir-the-beautiful-ones-is-ready-for-fans)
-    - in [Billboard](../../publications/billboard/index.md)
+    - in [Billboard](../../publications/a-e/billboard/index.md)
     - on 26 October 2019
     - about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [divorce](../../topics/divorce/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [memoir](../../topics/memoir/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [vault](../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8540792/prince-posthumous-memoir-the-beautiful-ones-is-ready-for-fans))
@@ -163,7 +163,7 @@
 ### 2019 September (2)
 
  - [**"Prince co-author details 'extremely unlikely' story behind new memoir in New Yorker article"**](https://www.startribune.com/prince-co-author-details-extremely-unlikely-story-behind-new-memoir-in-new-yorker-article/559478242/)
-    - in [Minneapolis Star Tribune](../../publications/minneapolis-star-tribune/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 5 September 2019
     - about [Atlanta (place)](../../topics/place/atlanta/index.md), [Chanhassen Cinema](../../topics/chanhassen-cinema/index.md), [Country Inn & Suites (place)](../../topics/place/country-inn-suites/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [John Nelson](../../topics/john-nelson/index.md), [memoir](../../topics/memoir/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Random House](../../topics/random-house/index.md), [Raspberry Beret (song)](../../topics/song/raspberry-beret/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Ballad Of Dorothy Parker (song)](../../topics/song/the-ballad-of-dorothy-parker/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-co-author-details-extremely-unlikely-story-behind-new-memoir-in-new-yorker-article/559478242/))
@@ -172,7 +172,7 @@
 
  - [**"The Book of Prince -- Prince had grand plans for his autobiography, but only a few months to live."**](https://www.newyorker.com/magazine/2019/09/09/the-book-of-prince)
     - by [Dan Piepenbring](../../authors/dan-piepenbring/index.md)
-    - in [The New Yorker](../../publications/the-new-yorker/index.md)
+    - in [The New Yorker](../../publications/k-o/the-new-yorker/index.md)
     - on 2 September 2019
     - about [airport](../../topics/airport/index.md), [Alexander Nevermind](../../topics/alexander-nevermind/index.md), [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [bootleg](../../topics/bootleg/index.md), [Chanhassen Cinema](../../topics/chanhassen-cinema/index.md), [Chris Jackson](../../topics/chris-jackson/index.md), [contract](../../topics/contract/index.md), [Country Inn & Suites (place)](../../topics/place/country-inn-suites/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Denise Matthews](../../topics/denise-matthews/index.md), [DJ Kiss](../../topics/dj-kiss/index.md), [fentanyl](../../topics/fentanyl/index.md), [I.C.M.](../../topics/i-c-m/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Jakissa Taylor Semple](../../topics/jakissa-taylor-semple/index.md), [Jamie Starr](../../topics/jamie-starr/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [Joey Coco](../../topics/joey-coco/index.md), [John Lewis Nelson](../../topics/john-lewis-nelson/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Kim Pratt](../../topics/kim-pratt/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Mattie Della Shaw Baker](../../topics/mattie-della-shaw-baker/index.md), [memoir](../../topics/memoir/index.md), [Meron Bekure](../../topics/meron-bekure/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [Pam Warren](../../topics/pam-warren/index.md), [Penguin Random House](../../topics/penguin-random-house/index.md), [perfume](../../topics/perfume/index.md), [Peter Bravestrong](../../topics/peter-bravestrong/index.md), [Phaedra Ellis-Lamkins](../../topics/phaedra-ellis-lamkins/index.md), [Purple Music (song)](../../topics/song/purple-music/index.md), [Purple Pam](../../topics/purple-pam/index.md), [Random House](../../topics/random-house/index.md), [Raspberry Beret (song)](../../topics/song/raspberry-beret/index.md), [royalties](../../topics/royalties/index.md), [separation](../../topics/separation/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Ballad Of Dorothy Parker (song)](../../topics/song/the-ballad-of-dorothy-parker/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [The Beautiful Ones (song)](../../topics/song/the-beautiful-ones/index.md), [TMZ (website)](../../topics/website/tmz/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md), [Vicodin](../../topics/vicodin/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.newyorker.com/magazine/2019/09/09/the-book-of-prince))
@@ -184,7 +184,7 @@
 ### 2018 June (1)
 
  - [**"The 20 best Prince songs of all time by the NME office"**](https://www.nme.com/blogs/nme-blogs/best-prince-songs-9053)
-    - in [NME (New Musical Express)](../../publications/nme-new-musical-express/index.md)
+    - in [NME (New Musical Express)](../../publications/k-o/nme-new-musical-express/index.md)
     - on 7 June 2018
     - about [1999 (song)](../../topics/song/1999/index.md), [Alphabet St. (song)](../../topics/song/alphabet-st/index.md), [Around The World In A Day (song)](../../topics/song/around-the-world-in-a-day/index.md), [Bambi (song)](../../topics/song/bambi/index.md), [Controversy (song)](../../topics/song/controversy/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [Diamonds and Pearls (song)](../../topics/song/diamonds-and-pearls/index.md), [I Could Never Take The Place Of Your Man (song)](../../topics/song/i-could-never-take-the-place-of-your-man/index.md), [I Wanna Be Your Lover (song)](../../topics/song/i-wanna-be-your-lover/index.md), [I Would Die 4 U (song)](../../topics/song/i-would-die-4-u/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Mazarati](../../topics/mazarati/index.md), [memoir](../../topics/memoir/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Money Don’t Matter 2 Night (song)](../../topics/song/money-don-t-matter-2-night/index.md), [Parental Advisory](../../topics/parental-advisory/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Raspberry Beret (song)](../../topics/song/raspberry-beret/index.md), [Sheena Easton](../../topics/sheena-easton/index.md), [Sometimes It Snows In April (song)](../../topics/song/sometimes-it-snows-in-april/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [Sugar Walls (song)](../../topics/song/sugar-walls/index.md), [The Most Beautiful Girl In The World (song)](../../topics/song/the-most-beautiful-girl-in-the-world/index.md), [Tipper Gore](../../topics/tipper-gore/index.md), [U Got the Look (song)](../../topics/song/u-got-the-look/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.nme.com/blogs/nme-blogs/best-prince-songs-9053))
@@ -196,7 +196,7 @@
 ### 2016 April (1)
 
  - [**"Pop superstar Prince dead at 57"**](https://www.chron.com/entertainment/celebrities/article/Reports-Prince-dead-at-57-7287598.php)
-    - in [The Houston Chronicle at Chron.com](../../publications/the-houston-chronicle-at-chron-com/index.md)
+    - in [The Houston Chronicle at Chron.com](../../publications/f-j/the-houston-chronicle-at-chron-com/index.md)
     - on 21 April 2016
     - about [Atlanta (place)](../../topics/place/atlanta/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Eden Prairie (place)](../../topics/place/eden-prairie/index.md), [Judith Hill](../../topics/judith-hill/index.md), [memoir](../../topics/memoir/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Piano and a Microphone (tour)](../../topics/tour/piano-and-a-microphone/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [Yvette Noel-Schure](../../topics/yvette-noel-schure/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.chron.com/entertainment/celebrities/article/Reports-Prince-dead-at-57-7287598.php))
@@ -206,7 +206,7 @@
 ### 2016 March (1)
 
  - [**"Prince says he’s writing a memoir, performs for NYC audience"**](https://apnews.com/d3224f63097842a7a4a8c9e7705ede02)
-    - in [Associated Press News](../../publications/associated-press-news/index.md)
+    - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 19 March 2016
     - about [memoir](../../topics/memoir/index.md), [Penguin Random House](../../topics/penguin-random-house/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [Super Bowl](../../topics/super-bowl/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/d3224f63097842a7a4a8c9e7705ede02))

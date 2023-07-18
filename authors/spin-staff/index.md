@@ -6,7 +6,7 @@
 
  - [**"Listen To A Pair Of Previously Unreleased Prince Rarities -- Tracks were previously shared at last month’s Paisley Park Celebration "**](https://www.spin.com/2023/07/prince-rarities-7-all-a-share-together-now/)
     - by [SPIN Staff](../../authors/spin-staff/index.md)
-    - in [Spin](../../publications/spin/index.md)
+    - in [Spin](../../publications/p-t/spin/index.md)
     - on 7 July 2023
     - about [7 (E Flat Version) (song)](../../topics/song/7-e-flat-version/index.md), [All A Share Together Now (song)](../../topics/song/all-a-share-together-now/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [Love Symbol (album)](../../topics/album/love-symbol/index.md), [vault](../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.spin.com/2023/07/prince-rarities-7-all-a-share-together-now/))

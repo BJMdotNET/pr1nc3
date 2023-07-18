@@ -18,7 +18,7 @@
   * Articles are grouped by author, publication, date and topic.
      * Example: an article written by Jem Aswad for Variety about the announcement of *Originals* in 2019 can be found at:
         * author: [Jem Aswad](./authors/jem-aswad/index.md)
-        * publication: [Variety](./publications/variety/index.md)
+        * publication: [Variety](./publications/u-z/variety/index.md)
         * topic: [Originals (album)](./topics/album/originals/index.md)
         * date: [2019](./dates/2019/index.md)
   * The "global search" at the top can be useful, but it only searches the contents of this site (and even this is limited).
@@ -37,6 +37,12 @@
   * For some sites I have managed to automate the conversion from link -> html file -> database entry.
      * But even in those cases I need to check the result, which is time-consuming.
 	 
+## Publications
+
+  * Can be websites, magazines, podcasts, YouTube channels, Facebook groups,...
+  * Publications sometimes have "bad" names, basically their domain name.
+     * Converting this into a proper name is a manual and time-consuming job.
+	 
 ## Authors
 
   * Apologies to the authors who are not mentioned in an article's overview.
@@ -48,11 +54,6 @@
   * Topics might appear multiple times, for instance due to typographical differences.
   * Topics might be missing. 
      * I try to go through every article and look for topics not yet in the database, but this is time-consuming.
-	 
-## Publications
-
-  * Publications sometimes have "bad" names, basically their domain name.
-     * Converting this into a proper name is a manual and time-consuming job.
 	 
 ## Collaboration
 

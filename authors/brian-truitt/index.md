@@ -6,7 +6,7 @@
 
  - [**"'Purple Rain' 35th anniversary: We dive into the Prince cult classic for the first time"**](https://usatoday.com/story/entertainment/movies/2019/07/25/purple-rain-35th-anniversary-does-prince-cult-film-hold-up/1817029001/)
     - by [Brian Truitt](../../authors/brian-truitt/index.md), [Patrick Ryan](../../authors/patrick-ryan/index.md)
-    - in [USA Today](../../publications/usa-today/index.md)
+    - in [USA Today](../../publications/u-z/usa-today/index.md)
     - on 25 July 2019
     - about [Apollonia 6](../../topics/apollonia-6/index.md), [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Morris Day](../../topics/morris-day/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Spotify](../../topics/spotify/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/entertainment/movies/2019/07/25/purple-rain-35th-anniversary-does-prince-cult-film-hold-up/1817029001/))
