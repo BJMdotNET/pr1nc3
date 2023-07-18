@@ -2,6 +2,8 @@
 
   * [2019](./humo-2019.md) (3)
 
+[homepage](https://www.humo.be/)
+
 ----
 
 [Home](../index.md)

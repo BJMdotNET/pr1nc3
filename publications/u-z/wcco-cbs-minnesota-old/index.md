@@ -5,6 +5,8 @@
   * [2018](./wcco-cbs-minnesota-old-2018.md) (1)
   * [2016](./wcco-cbs-minnesota-old-2016.md) (2)
 
+[homepage](https://minnesota.cbslocal.com/)
+
 ----
 
 [Home](../index.md)

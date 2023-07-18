@@ -6,6 +6,8 @@
   * [2018](./the-vinyl-factory-2018.md) (1)
   * [2016](./the-vinyl-factory-2016.md) (1)
 
+[homepage](https://thevinylfactory.com/)
+
 ----
 
 [Home](../index.md)

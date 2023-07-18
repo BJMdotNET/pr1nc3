@@ -6,6 +6,8 @@
   * [2016](./the-current-local-current-blog-2016.md) (3)
   * [2014](./the-current-local-current-blog-2014.md) (1)
 
+[homepage](https://blog.thecurrent.org/)
+
 ----
 
 [Home](../index.md)

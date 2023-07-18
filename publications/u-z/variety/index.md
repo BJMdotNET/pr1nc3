@@ -24,6 +24,8 @@
   * [1993](./variety-1993.md) (1)
   * [1992](./variety-1992.md) (1)
 
+[homepage](https://variety.com/)
+
 ----
 
 [Home](../index.md)

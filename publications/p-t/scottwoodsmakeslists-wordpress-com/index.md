@@ -2,6 +2,8 @@
 
   * [2019](./scottwoodsmakeslists-wordpress-com-2019.md) (1)
 
+[homepage](https://scottwoodsmakeslists.wordpress.com/)
+
 ----
 
 [Home](../index.md)

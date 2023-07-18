@@ -5,6 +5,8 @@
   * [2021](./guitarplayer-2021.md) (3)
   * [2020](./guitarplayer-2020.md) (1)
 
+[homepage](https://www.guitarplayer.com/)
+
 ----
 
 [Home](../index.md)

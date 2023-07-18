@@ -2,6 +2,8 @@
 
   * [2019](./instinctmagazine-com-2019.md) (1)
 
+[homepage](https://instinctmagazine.com/)
+
 ----
 
 [Home](../index.md)

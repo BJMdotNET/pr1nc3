@@ -5,6 +5,8 @@
   * [2019](./yahoo-entertainment-2019.md) (6)
   * [2016](./yahoo-entertainment-2016.md) (1)
 
+[homepage](https://www.yahoo.com/entertainment/)
+
 ----
 
 [Home](../index.md)

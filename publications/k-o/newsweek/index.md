@@ -3,6 +3,8 @@
   * [2019](./newsweek-2019.md) (1)
   * [2018](./newsweek-2018.md) (1)
 
+[homepage](https://www.newsweek.com/)
+
 ----
 
 [Home](../index.md)

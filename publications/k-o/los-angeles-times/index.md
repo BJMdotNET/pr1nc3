@@ -7,6 +7,8 @@
   * [1989](./los-angeles-times-1989.md) (1)
   * [1987](./los-angeles-times-1987.md) (1)
 
+[homepage](https://www.latimes.com/)
+
 ----
 
 [Home](../index.md)

@@ -4,6 +4,8 @@
   * [2021](./far-out-magazine-2021.md) (1)
   * [2019](./far-out-magazine-2019.md) (2)
 
+[homepage](https://faroutmagazine.co.uk/)
+
 ----
 
 [Home](../index.md)
