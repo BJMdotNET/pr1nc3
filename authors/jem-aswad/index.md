@@ -61,7 +61,7 @@
 
 ----
 
-## 2020 (2)
+## 2020 (3)
 
 ### 2020 July (1)
 
@@ -82,6 +82,17 @@
     - on 25 June 2020
     - about [Andrea Swensson](../../topics/andrea-swensson/index.md), [bootleg](../../topics/bootleg/index.md), [Daphne A. Brooks](../../topics/daphne-a-brooks/index.md), [Dave Chappelle](../../topics/dave-chappelle/index.md), [Dream Factory (album)](../../topics/album/dream-factory/index.md), [Duane Tudahl](../../topics/duane-tudahl/index.md), [I Could Never Take The Place Of Your Man (song)](../../topics/song/i-could-never-take-the-place-of-your-man/index.md), [Jeff Katz](../../topics/jeff-katz/index.md), [Lenny Kravitz](../../topics/lenny-kravitz/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [The Revolution](../../topics/the-revolution/index.md), [U Got the Look (song)](../../topics/song/u-got-the-look/index.md), [vault](../../topics/vault/index.md), [Witness 4 The Prosecution (song)](../../topics/song/witness-4-the-prosecution/index.md)
     - ([mirror](https://web.archive.org/web/*/https://variety.com/2020/music/news/prince-sign-o-the-times-deluxe-reissue-bonus-tracks-1234689805/))
+
+----
+
+### 2020 January (1)
+
+ - [**"Foo Fighters, Beck, H.E.R., Sheila E. Light Up ‘Grammy Salute to Prince’ Concert"**](https://www.yahoo.com/entertainment/foo-fighters-beck-h-e-233930375.html)
+    - by [Jem Aswad](../../authors/jem-aswad/index.md)
+    - in [Yahoo! Entertainment](../../publications/u-z/yahoo-entertainment/index.md)
+    - on 30 January 2020
+    - about [1999 (song)](../../topics/song/1999/index.md), [Baby I’m a Star (song)](../../topics/song/baby-i-m-a-star/index.md), [Bangles](../../topics/bangles/index.md), [Beck](../../topics/beck/index.md), [Chris Martin](../../topics/chris-martin/index.md), [Coldplay](../../topics/coldplay/index.md), [Controversy (song)](../../topics/song/controversy/index.md), [D’Angelo](../../topics/d-angelo/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [Diamonds and Pearls (song)](../../topics/song/diamonds-and-pearls/index.md), [Earth, Wind & Fire](../../topics/earth-wind-fire/index.md), [Foo Fighters](../../topics/foo-fighters/index.md), [Fred Armisen](../../topics/fred-armisen/index.md), [Gary Clark Jr.](../../topics/gary-clark-jr/index.md), [Gretchen Lieberum](../../topics/gretchen-lieberum/index.md), [H.E.R.](../../topics/h-e-r/index.md), [Janelle Monae](../../topics/janelle-monae/index.md), [Jerome Benton](../../topics/jerome-benton/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [John Legend](../../topics/john-legend/index.md), [Juanes](../../topics/juanes/index.md), [Jungle Love (song)](../../topics/song/jungle-love/index.md), [Ken Ehrlich](../../topics/ken-ehrlich/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Maya Rudolph](../../topics/maya-rudolph/index.md), [Misty Copeland](../../topics/misty-copeland/index.md), [Morris Day](../../topics/morris-day/index.md), [Mountains (song)](../../topics/song/mountains/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Pop Life (song)](../../topics/song/pop-life/index.md), [PRINCEss](../../topics/princess/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Raspberry Beret (song)](../../topics/song/raspberry-beret/index.md), [Sheila E.](../../topics/sheila-e/index.md), [St. Vincent](../../topics/st-vincent/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Beautiful Ones (song)](../../topics/song/the-beautiful-ones/index.md), [The Bird (song)](../../topics/song/the-bird/index.md), [The Glamorous Life (song)](../../topics/song/the-glamorous-life/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.yahoo.com/entertainment/foo-fighters-beck-h-e-233930375.html))
 
 ----
 
