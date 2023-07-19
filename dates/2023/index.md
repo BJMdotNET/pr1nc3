@@ -1,6 +1,6 @@
 # 2023
 
-## July 2023 (23)
+## July 2023 (25)
 
  - [**"See spots that inspired Prince through a Minneapolis segway tour -- WCCO - CBS Minnesota"**](https://www.youtube.com/watch?v=jSJCuSZCq-4)
     - in [YouTube](../../publications/u-z/youtube/index.md)
@@ -24,6 +24,24 @@
     - on 13 July 2023
     - about [Parade (album)](../../topics/album/parade/index.md), [Prince & The Revolution](../../topics/prince-the-revolution/index.md)
     - ([mirror](https://web.archive.org/web/*/https://thevinylfactory.com/features/records-that-made-me-jayda-g/))
+
+----
+
+ - [**"Expensive court fight over Aretha Franklin’s will provides cautionary tale"**](https://apnews.com/article/aretha-franklin-will-estate-prince-0a8a4cf581f28077a54234d1bec178a6)
+    - by [Steve Karnowski (Associated Press)](../../authors/associated-press/steve-karnowski/index.md)
+    - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
+    - on 12 July 2023
+    - about [Aretha Franklin](../../topics/aretha-franklin/index.md), [probate court](../../topics/probate-court/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/aretha-franklin-will-estate-prince-0a8a4cf581f28077a54234d1bec178a6))
+
+----
+
+ - [**"Paisley Park Opens the Vault for Two Prince Songs -- The Prince estate shared two new tracks from the legendary artist's vault."**](https://mspmag.com/arts-and-culture/paisley-parks-opens-the-vault-for-two-new-prince-songs/)
+    - by [Paige Schuller](../../authors/paige-schuller/index.md)
+    - in [Mpls.St.Paul Magazine](../../publications/k-o/mpls-st-paul-magazine/index.md)
+    - on 12 July 2023
+    - about [All A Share Together Now (song)](../../topics/song/all-a-share-together-now/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://mspmag.com/arts-and-culture/paisley-parks-opens-the-vault-for-two-new-prince-songs/))
 
 ----
 
@@ -201,7 +219,7 @@
 
 ----
 
-## June 2023 (19)
+## June 2023 (20)
 
  - [**"The influence of Black music: How 'Flyte Tyme' changed the world from a recording studio"**](https://www.mprnews.org/story/2023/06/29/the-influence-of-black-music-how-flyte-tyme-changed-the-world-from-a-booth-in-edina)
     - by [Jae Bryson](../../authors/jae-bryson/index.md)
@@ -236,6 +254,15 @@
     - on 22 June 2023
     - about [7 (E Flat Version) (song)](../../topics/song/7-e-flat-version/index.md), [All A Share Together Now (song)](../../topics/song/all-a-share-together-now/index.md), [Andy Beech](../../topics/andy-beech/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Come 2 My House (album)](../../topics/album/come-2-my-house/index.md), [DJ Rashida](../../topics/dj-rashida/index.md), [Doug E. Fresh](../../topics/doug-e-fresh/index.md), [L. Londell McMillan](../../topics/l-londell-mcmillan/index.md), [luthier](../../topics/luthier/index.md), [Mint Condition](../../topics/mint-condition/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [NPG Records](../../topics/npg-records/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Prince Legacy LLC](../../topics/prince-legacy-llc/index.md), [Rosie Gaines](../../topics/rosie-gaines/index.md), [Sounds of Blackness](../../topics/sounds-of-blackness/index.md), [Stokley](../../topics/stokley/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md), [vault](../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://venuesnow.com/a-purple-pilgrimage-at-paisley-park/))
+
+----
+
+ - [**"In 1988, Debbie Gibson’s ‘Foolish Beat’ Hit No. 1 on the Hot 100: Chart Rewind -- "I wanted to write my own haunting breakup ballad," Gibson recalls. "I drew on experiences from my older sisters and my limited puppy love experiences.""**](https://www.billboard.com/lists/debbie-gibson-foolish-beat-number-one-1988-chart-rewind/alphabet-street-prince/)
+    - by [Debbie Gibson](../../authors/debbie-gibson/index.md)
+    - in [Billboard](../../publications/a-e/billboard/index.md)
+    - on 22 June 2023
+    - about [Alphabet Street (song)](../../topics/song/alphabet-street/index.md), [Debbie Gibson](../../topics/debbie-gibson/index.md), [Martika](../../topics/martika/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/lists/debbie-gibson-foolish-beat-number-one-1988-chart-rewind/alphabet-street-prince/))
 
 ----
 

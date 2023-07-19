@@ -1,6 +1,6 @@
 # 2019
 
-## December 2019 (65)
+## December 2019 (66)
 
  - [**"Prince fans can now wear clothes made by his favorite designers"**](https://nypost.com/2019/12/31/prince-fans-can-now-wear-clothes-made-by-his-favorite-designers/)
     - in [New York Post](../../publications/k-o/new-york-post/index.md)
@@ -236,6 +236,15 @@
 
 ----
 
+ - [**"Q&A: Andrea Swensson on Becoming a Prince Expert -- The Current radio host talks about how she got involved in writing the liner notes for the super deluxe reissue of Prince's 1999 album."**](https://mspmag.com/arts-and-culture/qa-andrea-swensson-prince-expert/)
+    - by [Steve Marsh](../../authors/steve-marsh/index.md)
+    - in [Mpls.St.Paul Magazine](../../publications/k-o/mpls-st-paul-magazine/index.md)
+    - on 12 December 2019
+    - about [Andrea Swensson](../../topics/andrea-swensson/index.md), [Prince: The Story of 1999](../../topics/prince-the-story-of-1999/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://mspmag.com/arts-and-culture/qa-andrea-swensson-prince-expert/))
+
+----
+
  - [**"Sheila E. Dishes On How Prince Proposed To Her!"**](https://www.iheart.com/content/2018-01-05-sheila-e-dishes-on-how-prince-proposed-to-her/)
     - in [iheart.com](../../publications/f-j/iheart-com/index.md)
     - on 12 December 2019
@@ -405,6 +414,7 @@
 ----
 
  - [**"Prince's Personal Photographer on What It Was Like to Work Closely with Him"**](https://www.yahoo.com/lifestyle/princes-personal-photographer-closely-him-140000320.html)
+    - by [Brianna Holt](../../authors/brianna-holt/index.md)
     - in [Yahoo! Lifestyle](../../publications/u-z/yahoo-lifestyle/index.md)
     - on 4 December 2019
     - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Elisa Fiorillo](../../topics/elisa-fiorillo/index.md), [Erotic City (song)](../../topics/song/erotic-city/index.md), [ping-pong](../../topics/ping-pong/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md)
@@ -453,6 +463,7 @@
 ----
 
  - [**"Prince's Toronto mansion is for sale"**](https://www.yahoo.com/entertainment/prince-toronto-mansion-for-sale-160410502.html)
+    - by [Jessy Bains](../../authors/jessy-bains/index.md)
     - in [Yahoo! Entertainment](../../publications/u-z/yahoo-entertainment/index.md)
     - on 3 December 2019
     - about [Toronto (place)](../../topics/place/toronto/index.md)
@@ -921,6 +932,7 @@
 ----
 
  - [**"Beck talks ‘Hyperspace’ journey, from Zankou Chicken to Paisley Park"**](https://www.yahoo.com/entertainment/beck-talks-hyperspace-journey-from-zankou-chicken-to-paisley-park-222822065.html)
+    - by [Lyndsey Parker](../../authors/lyndsey-parker/index.md)
     - in [Yahoo! Entertainment](../../publications/u-z/yahoo-entertainment/index.md)
     - on 17 November 2019
     - about [Beck](../../topics/beck/index.md), [Weezer](../../topics/weezer/index.md)
@@ -1008,6 +1020,7 @@
 ----
 
  - [**"Here’s what happened when Beck went to Paisley Park to cover Prince -- Star headed to Minneapolis to record a medley of Prince hits"**](https://www.musicradar.com/news/heres-what-happened-when-beck-went-to-paisley-park-to-cover-prince)
+    - by [Ben Rogerson](../../authors/ben-rogerson/index.md)
     - in [MusicRadar](../../publications/k-o/musicradar/index.md)
     - on 13 November 2019
     - about [Beck](../../topics/beck/index.md), [Raspberry Beret (song)](../../topics/song/raspberry-beret/index.md), [The Paisley Park Sessions (EP)](../../topics/ep/the-paisley-park-sessions/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
@@ -1048,6 +1061,7 @@
 ----
 
  - [**"'Batman' composer Danny Elfman says turning down Prince was 'biggest, most stressful gamble' of his career"**](https://www.yahoo.com/entertainment/batman-composer-danny-elfman-says-turning-down-prince-was-biggest-most-stressful-gamble-of-his-career-192951834.html)
+    - by [Lyndsey Parker](../../authors/lyndsey-parker/index.md)
     - in [Yahoo! Entertainment](../../publications/u-z/yahoo-entertainment/index.md)
     - on 12 November 2019
     - about [Batman (album)](../../topics/album/batman/index.md), [Danny Elfman](../../topics/danny-elfman/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Tim Burton](../../topics/tim-burton/index.md)
@@ -1287,7 +1301,7 @@
 
 ----
 
-## October 2019 (122)
+## October 2019 (123)
 
  - [**"All of Prince’s Spiciest Pop-Culture Hot Takes From His New Book, The Beautiful Ones"**](https://www.vulture.com/2019/10/prince-memoir-pop-culture-hot-takes.html)
     - in [Vulture](../../publications/u-z/vulture/index.md)
@@ -1856,6 +1870,15 @@
 
 ----
 
+ - [**"Purple Rain, 35 Years Later -- For the 35th anniversary of Prince's landmark film, the Twin Cities Film Festival held a screening with director Albert Magnoli."**](https://mspmag.com/arts-and-culture/the-morning-after/purple-rain-35-years-later/)
+    - by [Rob Perez](../../authors/rob-perez/index.md)
+    - in [Mpls.St.Paul Magazine](../../publications/k-o/mpls-st-paul-magazine/index.md)
+    - on 24 October 2019
+    - about [Academy Award](../../topics/academy-award/index.md), [Albert Magnoli](../../topics/albert-magnoli/index.md), [Bobby Z](../../topics/bobby-z/index.md), [Bobby Z.](../../topics/bobby-z/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [Lake Minnetonka (place)](../../topics/place/lake-minnetonka/index.md), [Morris Day](../../topics/morris-day/index.md), [motorcycle](../../topics/motorcycle/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [The Revolution](../../topics/the-revolution/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://mspmag.com/arts-and-culture/the-morning-after/purple-rain-35-years-later/))
+
+----
+
  - [**"This week on "Sunday Morning" (October 27)"**](https://www.cbsnews.com/news/this-week-on-sunday-morning-october-27-2019/)
     - in [CBS News](../../publications/a-e/cbs-news/index.md)
     - on 24 October 2019
@@ -2074,7 +2097,7 @@
 ----
 
  - [**""A REMARKABLE MAN!” -- Susan Rogers Reflects upon her Lifelong Journey in Music, What it was Like to Watch a ‘Genius at Work,’ and Her Personal Vow to lift up Prince’s Legacy at Every Turn -- Spotlight: Susan Rogers"**](http://prnalumni.org/members/spotlight/spotlight-susan-rogers/)
-    - in [prnalumni.org](../../publications/p-t/prnalumni-org/index.md)
+    - in [PRN Alumni](../../publications/p-t/prn-alumni/index.md)
     - on 11 October 2019
     - about [André Cymone](../../topics/andr-cymone/index.md), [ASCAP](../../topics/ascap/index.md), [Bruce Springsteen](../../topics/bruce-springsteen/index.md), [Candy Dulfer](../../topics/candy-dulfer/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Computer Blue (song)](../../topics/song/computer-blue/index.md), [Detroit (place)](../../topics/place/detroit/index.md), [Eric Leeds](../../topics/eric-leeds/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Forum (place)](../../topics/place/forum/index.md), [Inglewood, California (place)](../../topics/place/inglewood-california/index.md), [Jesse Johnson](../../topics/jesse-johnson/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Joe Louis Arena (place)](../../topics/place/joe-louis-arena/index.md), [Kiowa Trail](../../topics/kiowa-trail/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Madonna](../../topics/madonna/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [PRN Alumni Foundation](../../topics/prn-alumni-foundation/index.md), [Sheena Easton](../../topics/sheena-easton/index.md), [Sheila E.](../../topics/sheila-e/index.md), [St. Louis Park (place)](../../topics/place/st-louis-park/index.md), [Steve Fargnoli](../../topics/steve-fargnoli/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [Tevin Campbell](../../topics/tevin-campbell/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md)
     - ([mirror](https://web.archive.org/web/*/http://prnalumni.org/members/spotlight/spotlight-susan-rogers/))
@@ -2202,6 +2225,7 @@
 ----
 
  - [**"Prince's Sister's Lawyer Files Lien Against Her Portion of Singer's Fortune"**](https://news.yahoo.com/princes-sisters-lawyer-files-lien-210645118.html)
+    - by [Mike Walters](../../authors/mike-walters/index.md)
     - in [Yahoo! News](../../publications/u-z/yahoo-news/index.md)
     - on 7 October 2019
     - about [Tyka Nelson](../../topics/tyka-nelson/index.md)
@@ -2757,6 +2781,7 @@
 ----
 
  - [**"The builder of Prince’s Cloud guitar speaks out on the trademark dispute with the late pop icon’s estate -- Paisley Park ordered Dave Rusan to give up his trademark for the guitar’s design"**](https://www.musicradar.com/news/the-builder-of-princes-cloud-guitar-speaks-out-on-the-trademark-dispute-with-the-late-pop-icons-estate)
+    - by [Jonathan Horsley](../../authors/jonathan-horsley/index.md)
     - in [MusicRadar](../../publications/k-o/musicradar/index.md)
     - on 4 September 2019
     - about [André Cymone](../../topics/andr-cymone/index.md), [Cloud guitar (instrument)](../../topics/instrument/cloud-guitar/index.md), [Dave Rusan](../../topics/dave-rusan/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Sardonyx](../../topics/sardonyx/index.md), [trademark](../../topics/trademark/index.md)
@@ -3798,6 +3823,7 @@
 ----
 
  - [**"The Revolution recalls making Prince’s ‘Purple Rain’: ‘He was frantically telling us we were making history’"**](https://www.yahoo.com/entertainment/the-revolution-recalls-making-princes-purple-rain-he-was-frantically-telling-us-we-were-making-history-035500076.html)
+    - by [Lyndsey Parker](../../authors/lyndsey-parker/index.md)
     - in [Yahoo! Entertainment](../../publications/u-z/yahoo-entertainment/index.md)
     - on 25 June 2019
     - about [Albert Magnoli](../../topics/albert-magnoli/index.md), [Bobby Z.](../../topics/bobby-z/index.md), [BrownMark](../../topics/brownmark/index.md), [Computer Blue (song)](../../topics/song/computer-blue/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [The Revolution](../../topics/the-revolution/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
@@ -4493,7 +4519,7 @@
 ----
 
  - [**"Sunday Sounds: Celebrating The Phenomenal Drummers Of Prince"**](https://drummagazine.com/sunday-sounds-prince-drummers-sheila-e-bobby-z-john-blackwell-michael-bland-hannah-ford/)
-    - in [drummagazine.com](../../publications/a-e/drummagazine-com/index.md)
+    - in [DRUM Magazine](../../publications/a-e/drum-magazine/index.md)
     - on 21 April 2019
     - about [3121 (album)](../../topics/album/3121/index.md), [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Around The World In A Day (album)](../../topics/album/around-the-world-in-a-day/index.md), [Hannah Welton](../../topics/hannah-welton/index.md), [Michael Bland](../../topics/michael-bland/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Parade (album)](../../topics/album/parade/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Revolution](../../topics/the-revolution/index.md), [U Got the Look (song)](../../topics/song/u-got-the-look/index.md), [YouTube](../../topics/youtube/index.md)
     - ([mirror](https://web.archive.org/web/*/https://drummagazine.com/sunday-sounds-prince-drummers-sheila-e-bobby-z-john-blackwell-michael-bland-hannah-ford/))

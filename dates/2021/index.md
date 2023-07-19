@@ -111,7 +111,7 @@
 
 ----
 
-## September 2021 (2)
+## September 2021 (3)
 
  - [**"The Legend of Prince: The Purple One's Guitar Players Share Untold Secrets and Tales from the Studio and Road -- Mike Scott, Dez Dickerson, Donna Grantis, and Kat Dyson tell all in these GP-exclusive interviews."**](https://www.guitarplayer.com/players/the-legend-of-prince-the-purple-ones-guitar-players-share-untold-secrets-and-tales-from-the-studio-and-road)
     - by [Art Thompson](../../authors/art-thompson/index.md)
@@ -119,6 +119,15 @@
     - on 10 September 2021
     - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Carlos Santana](../../topics/carlos-santana/index.md), [Cyndi Lauper](../../topics/cyndi-lauper/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [Donna Grantis](../../topics/donna-grantis/index.md), [Eric Leeds](../../topics/eric-leeds/index.md), [George Clinton](../../topics/george-clinton/index.md), [Hannah Welton](../../topics/hannah-welton/index.md), [He’s So Dull (song)](../../topics/song/he-s-so-dull/index.md), [Ida Nielsen](../../topics/ida-nielsen/index.md), [James Brown](../../topics/james-brown/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [ping-pong](../../topics/ping-pong/index.md), [PlectrumElectrum (album)](../../topics/album/plectrumelectrum/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.guitarplayer.com/players/the-legend-of-prince-the-purple-ones-guitar-players-share-untold-secrets-and-tales-from-the-studio-and-road))
+
+----
+
+ - [**"Super Producers Jimmy Jam and Terry Lewis Finally Release Their Own Album -- The most successful music production duo of all time finally give themselves top billing on their new album, Jam & Lewis, Vol. 1."**](https://mspmag.com/arts-and-culture/jimmy-jam-terry-lewis-new-album/)
+    - by [Steve Marsh](../../authors/steve-marsh/index.md)
+    - in [Mpls.St.Paul Magazine](../../publications/k-o/mpls-st-paul-magazine/index.md)
+    - on 5 September 2021
+    - about [First Avenue (place)](../../topics/place/first-avenue/index.md), [Flyte Tyme](../../topics/flyte-tyme/index.md), [Flyte Tyme Studios (place)](../../topics/place/flyte-tyme-studios/index.md), [Jam & Lewis](../../topics/jam-lewis/index.md), [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jimmy “Jam” Harris](../../topics/jimmy-jam-harris/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Sounds of Blackness](../../topics/sounds-of-blackness/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Time](../../topics/the-time/index.md), [Touré](../../topics/tour/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://mspmag.com/arts-and-culture/jimmy-jam-terry-lewis-new-album/))
 
 ----
 
@@ -220,7 +229,7 @@
 
 ----
 
-## May 2021 (1)
+## May 2021 (2)
 
  - [**"Sinéad O’Connor: How I survived hellish night with ‘devil’ Prince"**](https://nypost.com/2021/05/28/sinead-oconnor-my-hellish-night-with-devil-prince/)
     - in [New York Post](../../publications/k-o/new-york-post/index.md)
@@ -230,7 +239,16 @@
 
 ----
 
-## April 2021 (7)
+ - [**"Paisley Park Exhibit Highlights Over 300 Pairs of Prince's Shoes -- The installation will be the largest ever display of Prince’s footwear, coming this July."**](https://mspmag.com/arts-and-culture/paisley-park-prince-shoes-exhibit/)
+    - by [Peter Diamond](../../authors/peter-diamond/index.md)
+    - in [Mpls.St.Paul Magazine](../../publications/k-o/mpls-st-paul-magazine/index.md)
+    - on 19 May 2021
+    - about [exhibit](../../topics/exhibit/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://mspmag.com/arts-and-culture/paisley-park-prince-shoes-exhibit/))
+
+----
+
+## April 2021 (9)
 
  - [**"Prince’s posthumous book released as fans continue to mourn"**](https://apnews.com/article/dan-piepenbring-us-news-music-prince-entertainment-7d2379f3184b4447ba4c1be55a1afbe1)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
@@ -264,6 +282,15 @@
 
 ----
 
+ - [**"Graphic Novel MPLS Sound Is an Ode to Prince’s Legacy -- The graphic novel from the publisher Humanoids follows the career of a fictitious Minneapolis funk band, and arrives in stores this month."**](https://mspmag.com/arts-and-culture/graphic-novel-mpls-sound-is-an-ode-to-prince-legacy/)
+    - by [Justine Jones](../../authors/justine-jones/index.md)
+    - in [Mpls.St.Paul Magazine](../../publications/k-o/mpls-st-paul-magazine/index.md)
+    - on 21 April 2021
+    - about [First Avenue (place)](../../topics/place/first-avenue/index.md), [graphic novel (book)](../../topics/book/graphic-novel/index.md), [Hannibal Tabu](../../topics/hannibal-tabu/index.md), [Jen Bartel](../../topics/jen-bartel/index.md), [Joseph Illidge](../../topics/joseph-illidge/index.md), [Meredith Laxton](../../topics/meredith-laxton/index.md), [MPLS Sound (book)](../../topics/book/mpls-sound/index.md), [Prince: Alter Ego](../../topics/prince-alter-ego/index.md), [Sam’s (place)](../../topics/place/sam-s/index.md), [Tan Shu](../../topics/tan-shu/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://mspmag.com/arts-and-culture/graphic-novel-mpls-sound-is-an-ode-to-prince-legacy/))
+
+----
+
  - [**"Prince fans pay respects at Paisley Park 5 years after death"**](https://apnews.com/article/prince-fans-pay-respects-paisley-park-5-years-after-death-0862a1a2f9f857ec2e0bcf5572447938)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 21 April 2021
@@ -285,6 +312,15 @@
     - on 20 April 2021
     - about [Alan Seiffert](../../topics/alan-seiffert/index.md), [ashes](../../topics/ashes/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [museum](../../topics/museum/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/prince-ashes-displayed-paisley-park-aa5b4dd9ba66d79f9fbca7b83804874e))
+
+----
+
+ - [**"MPLS Sound: New Graphic Novel Celebrates the Musical Legacy of Prince -- Celebrate the Purple One's musical and cultural legacy."**](https://www.ign.com/articles/mpls-sound-graphic-novel-preview-prince-music)
+    - by [Jesse Schedeen](../../authors/jesse-schedeen/index.md)
+    - in [www.ign.com](../../publications/u-z/www-ign-com/index.md)
+    - on 6 April 2021
+    - about [graphic novel (book)](../../topics/book/graphic-novel/index.md), [Hannibal Tabu](../../topics/hannibal-tabu/index.md), [Jen Bartel](../../topics/jen-bartel/index.md), [Joseph Illidge](../../topics/joseph-illidge/index.md), [Meredith Laxton](../../topics/meredith-laxton/index.md), [MPLS Sound (book)](../../topics/book/mpls-sound/index.md), [Tan Shu](../../topics/tan-shu/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.ign.com/articles/mpls-sound-graphic-novel-preview-prince-music))
 
 ----
 
