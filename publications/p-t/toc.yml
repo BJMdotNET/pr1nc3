@@ -44,9 +44,9 @@ items:
 - name: Prince George Citizen
   href: prince-george-citizen/index.md
   homepage: prince-george-citizen/index.md
-- name: prnalumni.org
-  href: prnalumni-org/index.md
-  homepage: prnalumni-org/index.md
+- name: PRN Alumni
+  href: prn-alumni/index.md
+  homepage: prn-alumni/index.md
 - name: ProSound
   href: prosound/index.md
   homepage: prosound/index.md

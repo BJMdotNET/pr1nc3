@@ -15,7 +15,7 @@
   * [Premier Guitar](./premier-guitar/index.md) (1)
   * [presstelegram.com](./presstelegram-com/index.md) (1)
   * [Prince George Citizen](./prince-george-citizen/index.md) (1)
-  * [prnalumni.org](./prnalumni-org/index.md) (1)
+  * [PRN Alumni](./prn-alumni/index.md) (1)
   * [ProSound](./prosound/index.md) (2)
   * [Publishers Weekly](./publishers-weekly/index.md) (2)
   * [The Quietus](./the-quietus/index.md) (4)

@@ -104,6 +104,9 @@ items:
 - name: WTOC-TV
   href: wtoc-tv/index.md
   homepage: wtoc-tv/index.md
+- name: www.ign.com
+  href: www-ign-com/index.md
+  homepage: www-ign-com/index.md
 - name: Yahoo! Entertainment
   href: yahoo-entertainment/index.md
   homepage: yahoo-entertainment/index.md

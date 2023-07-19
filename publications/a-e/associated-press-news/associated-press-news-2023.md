@@ -1,5 +1,16 @@
 # 2023
 
+## July 2023 (1)
+
+ - [**"Expensive court fight over Aretha Franklin’s will provides cautionary tale"**](https://apnews.com/article/aretha-franklin-will-estate-prince-0a8a4cf581f28077a54234d1bec178a6)
+    - by [Steve Karnowski (Associated Press)](../../../authors/associated-press/steve-karnowski/index.md)
+    - in [Associated Press News](../../../publications/a-e/associated-press-news/index.md)
+    - on 12 July 2023
+    - about [Aretha Franklin](../../../topics/aretha-franklin/index.md), [probate court](../../../topics/probate-court/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/aretha-franklin-will-estate-prince-0a8a4cf581f28077a54234d1bec178a6))
+
+----
+
 ## May 2023 (3)
 
  - [**"Supreme Court rules against Andy Warhol’s foundation in a case about a portrait he made of Prince"**](https://apnews.com/article/supreme-court-andy-warhol-prince-copyright-061a115f4ab137bcbe36fcc8fe0c921b)

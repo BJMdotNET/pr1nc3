@@ -34,6 +34,7 @@
   * [The West Australian](./the-west-australian/index.md) (1)
   * [Written in Music](./written-in-music/index.md) (1)
   * [WTOC-TV](./wtoc-tv/index.md) (1)
+  * [www.ign.com](./www-ign-com/index.md) (1)
   * [Yahoo! Entertainment](./yahoo-entertainment/index.md) (10)
   * [Yahoo! Lifestyle](./yahoo-lifestyle/index.md) (1)
   * [Yahoo! Lifestyle Australia](./yahoo-lifestyle-australia/index.md) (1)

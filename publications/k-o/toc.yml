@@ -128,9 +128,9 @@ items:
 - name: Mpls.St.Paul Magazine
   href: mpls-st-paul-magazine/index.md
   homepage: mpls-st-paul-magazine/index.md
-- name: Mpls.St.Paul Magazine
-  href: mpls-st-paul-magazine/index.md
-  homepage: mpls-st-paul-magazine/index.md
+- name: Mpls.St.Paul Magazine (HTTP)
+  href: mpls-st-paul-magazine-http/index.md
+  homepage: mpls-st-paul-magazine-http/index.md
 - name: MPR News (Minnesota Public Radio)
   href: mpr-news-minnesota-public-radio/index.md
   homepage: mpr-news-minnesota-public-radio/index.md
