@@ -54,6 +54,7 @@
 <br />
 
  - [**"Prince's Toronto mansion is for sale"**](https://www.yahoo.com/entertainment/prince-toronto-mansion-for-sale-160410502.html)
+    - by [Jessy Bains](../../../authors/jessy-bains/index.md)
     - in [Yahoo! Entertainment](../../../publications/u-z/yahoo-entertainment/index.md)
     - on 3 December 2019
     - about [Toronto (place)](../../../topics/place/toronto/index.md)

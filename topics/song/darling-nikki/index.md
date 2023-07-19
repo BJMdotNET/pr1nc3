@@ -28,6 +28,7 @@
 ### 2020 January (5)
 
  - [**"Foo Fighters, Beck, H.E.R., Sheila E. Light Up ‘Grammy Salute to Prince’ Concert"**](https://www.yahoo.com/entertainment/foo-fighters-beck-h-e-233930375.html)
+    - by [Jem Aswad](../../../authors/jem-aswad/index.md)
     - in [Yahoo! Entertainment](../../../publications/u-z/yahoo-entertainment/index.md)
     - on 30 January 2020
     - about [1999 (song)](../../../topics/song/1999/index.md), [Baby I’m a Star (song)](../../../topics/song/baby-i-m-a-star/index.md), [Bangles](../../../topics/bangles/index.md), [Beck](../../../topics/beck/index.md), [Chris Martin](../../../topics/chris-martin/index.md), [Coldplay](../../../topics/coldplay/index.md), [Controversy (song)](../../../topics/song/controversy/index.md), [D’Angelo](../../../topics/d-angelo/index.md), [Darling Nikki (song)](../../../topics/song/darling-nikki/index.md), [Diamonds and Pearls (song)](../../../topics/song/diamonds-and-pearls/index.md), [Earth, Wind & Fire](../../../topics/earth-wind-fire/index.md), [Foo Fighters](../../../topics/foo-fighters/index.md), [Fred Armisen](../../../topics/fred-armisen/index.md), [Gary Clark Jr.](../../../topics/gary-clark-jr/index.md), [Gretchen Lieberum](../../../topics/gretchen-lieberum/index.md), [H.E.R.](../../../topics/h-e-r/index.md), [Janelle Monae](../../../topics/janelle-monae/index.md), [Jerome Benton](../../../topics/jerome-benton/index.md), [Jimmy Jam](../../../topics/jimmy-jam/index.md), [John Legend](../../../topics/john-legend/index.md), [Juanes](../../../topics/juanes/index.md), [Jungle Love (song)](../../../topics/song/jungle-love/index.md), [Ken Ehrlich](../../../topics/ken-ehrlich/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Lisa Coleman](../../../topics/lisa-coleman/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Mavis Staples](../../../topics/mavis-staples/index.md), [Maya Rudolph](../../../topics/maya-rudolph/index.md), [Misty Copeland](../../../topics/misty-copeland/index.md), [Morris Day](../../../topics/morris-day/index.md), [Mountains (song)](../../../topics/song/mountains/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Pop Life (song)](../../../topics/song/pop-life/index.md), [PRINCEss](../../../topics/princess/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Raspberry Beret (song)](../../../topics/song/raspberry-beret/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [St. Vincent](../../../topics/st-vincent/index.md), [Stevie Wonder](../../../topics/stevie-wonder/index.md), [Super Bowl](../../../topics/super-bowl/index.md), [Terry Lewis](../../../topics/terry-lewis/index.md), [The Beautiful Ones (song)](../../../topics/song/the-beautiful-ones/index.md), [The Bird (song)](../../../topics/song/the-bird/index.md), [The Glamorous Life (song)](../../../topics/song/the-glamorous-life/index.md), [The Revolution](../../../topics/the-revolution/index.md), [The Time](../../../topics/the-time/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md)
@@ -67,7 +68,7 @@
 
 ----
 
-## 2019 (7)
+## 2019 (8)
 
 ### 2019 December (1)
 
@@ -79,7 +80,7 @@
 
 ----
 
-### 2019 October (2)
+### 2019 October (3)
 
  - [**"Early Lyrics to ‘Purple Rain’ and Other Musical Details From Prince’s New Book"**](https://www.vulture.com/2019/10/prince-book-purple-rain-lyrics-music-details.html)
     - in [Vulture](../../../publications/u-z/vulture/index.md)
@@ -94,6 +95,15 @@
     - on 28 October 2019
     - about [Dan Piepenbring](../../../topics/dan-piepenbring/index.md), [Darling Nikki (song)](../../../topics/song/darling-nikki/index.md), [Ed Sheeran](../../../topics/ed-sheeran/index.md), [Katy Perry](../../../topics/katy-perry/index.md), [memoir](../../../topics/memoir/index.md), [The Beautiful Ones (book)](../../../topics/book/the-beautiful-ones/index.md), [trademark](../../../topics/trademark/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.bbc.com/news/entertainment-arts-50174377))
+
+<br />
+
+ - [**"Purple Rain, 35 Years Later -- For the 35th anniversary of Prince's landmark film, the Twin Cities Film Festival held a screening with director Albert Magnoli."**](https://mspmag.com/arts-and-culture/the-morning-after/purple-rain-35-years-later/)
+    - by [Rob Perez](../../../authors/rob-perez/index.md)
+    - in [Mpls.St.Paul Magazine](../../../publications/k-o/mpls-st-paul-magazine/index.md)
+    - on 24 October 2019
+    - about [Academy Award](../../../topics/academy-award/index.md), [Albert Magnoli](../../../topics/albert-magnoli/index.md), [Bobby Z](../../../topics/bobby-z/index.md), [Bobby Z.](../../../topics/bobby-z/index.md), [Darling Nikki (song)](../../../topics/song/darling-nikki/index.md), [Lake Minnetonka (place)](../../../topics/place/lake-minnetonka/index.md), [Morris Day](../../../topics/morris-day/index.md), [motorcycle](../../../topics/motorcycle/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md), [The Revolution](../../../topics/the-revolution/index.md), [Twin Cities (place)](../../../topics/place/twin-cities/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://mspmag.com/arts-and-culture/the-morning-after/purple-rain-35-years-later/))
 
 ----
 

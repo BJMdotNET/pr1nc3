@@ -94,9 +94,9 @@
 
 ----
 
-## 2019 (37)
+## 2019 (38)
 
-### 2019 December (11)
+### 2019 December (12)
 
  - [**"Henderson (‘That ain’t Lake Minnetonka’), Minnesota to unveil Prince statue"**](https://blog.thecurrent.org/2019/12/henderson-that-aint-lake-minnetonka-minnesota-to-unveil-prince-statue/)
     - in [The Current - Local Current Blog](../../publications/a-e/the-current-local-current-blog/index.md)
@@ -143,6 +143,15 @@
     - on 12 December 2019
     - about [Andrea Swensson](../../topics/andrea-swensson/index.md), [Bob Dylan](../../topics/bob-dylan/index.md), [bootleg](../../topics/bootleg/index.md), [Chanhassen Dinner Theatres](../../topics/chanhassen-dinner-theatres/index.md), [David Fricke](../../topics/david-fricke/index.md), [Duane Tudahl](../../topics/duane-tudahl/index.md), [Duff McKagan](../../topics/duff-mckagan/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Minnesota Historical Society](../../topics/minnesota-historical-society/index.md), [motorcycle](../../topics/motorcycle/index.md), [Pop Life (song)](../../topics/song/pop-life/index.md), [The Revolution](../../topics/the-revolution/index.md), [vault](../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2019/12/12/from-prince-to-dessa-to-dylan-here-are-five-homegrown-musical-gift-ideas/))
+
+<br />
+
+ - [**"Q&A: Andrea Swensson on Becoming a Prince Expert -- The Current radio host talks about how she got involved in writing the liner notes for the super deluxe reissue of Prince's 1999 album."**](https://mspmag.com/arts-and-culture/qa-andrea-swensson-prince-expert/)
+    - by [Steve Marsh](../../authors/steve-marsh/index.md)
+    - in [Mpls.St.Paul Magazine](../../publications/k-o/mpls-st-paul-magazine/index.md)
+    - on 12 December 2019
+    - about [Andrea Swensson](../../topics/andrea-swensson/index.md), [Prince: The Story of 1999](../../topics/prince-the-story-of-1999/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://mspmag.com/arts-and-culture/qa-andrea-swensson-prince-expert/))
 
 <br />
 

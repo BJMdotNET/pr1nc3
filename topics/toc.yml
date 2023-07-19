@@ -155,6 +155,9 @@ items:
 - name: Alphabet St. (song)
   href: song/alphabet-st/index.md
   homepage: song/alphabet-st/index.md
+- name: Alphabet Street (song)
+  href: song/alphabet-street/index.md
+  homepage: song/alphabet-street/index.md
 - name: Amazing Grace (movie)
   href: movie/amazing-grace/index.md
   homepage: movie/amazing-grace/index.md
@@ -947,6 +950,9 @@ items:
 - name: De Angela Duff
   href: de-angela-duff/index.md
   homepage: de-angela-duff/index.md
+- name: Debbie Gibson
+  href: debbie-gibson/index.md
+  homepage: debbie-gibson/index.md
 - name: Deborah Allen
   href: deborah-allen/index.md
   homepage: deborah-allen/index.md
@@ -1493,6 +1499,9 @@ items:
 - name: Grammys
   href: grammys/index.md
   homepage: grammys/index.md
+- name: graphic novel (book)
+  href: book/graphic-novel/index.md
+  homepage: book/graphic-novel/index.md
 - name: Great American Music Hall (place)
   href: place/great-american-music-hall/index.md
   homepage: place/great-american-music-hall/index.md
@@ -1541,6 +1550,9 @@ items:
 - name: Hannah Welton
   href: hannah-welton/index.md
   homepage: hannah-welton/index.md
+- name: Hannibal Tabu
+  href: hannibal-tabu/index.md
+  homepage: hannibal-tabu/index.md
 - name: Hawaii (place)
   href: place/hawaii/index.md
   homepage: place/hawaii/index.md
@@ -1817,6 +1829,9 @@ items:
 - name: Jellybean Johnson
   href: jellybean-johnson/index.md
   homepage: jellybean-johnson/index.md
+- name: Jen Bartel
+  href: jen-bartel/index.md
+  homepage: jen-bartel/index.md
 - name: Jeremiah Freed
   href: jeremiah-freed/index.md
   homepage: jeremiah-freed/index.md
@@ -1928,6 +1943,9 @@ items:
 - name: Joseph Daniel Camp Jr.
   href: joseph-daniel-camp-jr/index.md
   homepage: joseph-daniel-camp-jr/index.md
+- name: Joseph Illidge
+  href: joseph-illidge/index.md
+  homepage: joseph-illidge/index.md
 - name: Joseph Ruffalo
   href: joseph-ruffalo/index.md
   homepage: joseph-ruffalo/index.md
@@ -2450,6 +2468,9 @@ items:
 - name: merchandise
   href: merchandise/index.md
   homepage: merchandise/index.md
+- name: Meredith Laxton
+  href: meredith-laxton/index.md
+  homepage: meredith-laxton/index.md
 - name: Meron Bekure
   href: meron-bekure/index.md
   homepage: meron-bekure/index.md
@@ -2639,6 +2660,9 @@ items:
 - name: movie musical
   href: movie-musical/index.md
   homepage: movie-musical/index.md
+- name: MPLS Sound (book)
+  href: book/mpls-sound/index.md
+  homepage: book/mpls-sound/index.md
 - name: MPLSoUND (album)
   href: album/mplsound/index.md
   homepage: album/mplsound/index.md
@@ -3785,6 +3809,9 @@ items:
 - name: Tamron Hall
   href: tamron-hall/index.md
   homepage: tamron-hall/index.md
+- name: Tan Shu
+  href: tan-shu/index.md
+  homepage: tan-shu/index.md
 - name: Tangerine (song)
   href: song/tangerine/index.md
   homepage: song/tangerine/index.md

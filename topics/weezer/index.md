@@ -5,6 +5,7 @@
 ### 2019 November (1)
 
  - [**"Beck talks ‘Hyperspace’ journey, from Zankou Chicken to Paisley Park"**](https://www.yahoo.com/entertainment/beck-talks-hyperspace-journey-from-zankou-chicken-to-paisley-park-222822065.html)
+    - by [Lyndsey Parker](../../authors/lyndsey-parker/index.md)
     - in [Yahoo! Entertainment](../../publications/u-z/yahoo-entertainment/index.md)
     - on 17 November 2019
     - about [Beck](../../topics/beck/index.md), [Weezer](../../topics/weezer/index.md)

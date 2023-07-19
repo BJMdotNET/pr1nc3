@@ -1,8 +1,17 @@
 # All A Share Together Now (song)
 
-## 2023 (19)
+## 2023 (20)
 
-### 2023 July (16)
+### 2023 July (17)
+
+ - [**"Paisley Park Opens the Vault for Two Prince Songs -- The Prince estate shared two new tracks from the legendary artist's vault."**](https://mspmag.com/arts-and-culture/paisley-parks-opens-the-vault-for-two-new-prince-songs/)
+    - by [Paige Schuller](../../../authors/paige-schuller/index.md)
+    - in [Mpls.St.Paul Magazine](../../../publications/k-o/mpls-st-paul-magazine/index.md)
+    - on 12 July 2023
+    - about [All A Share Together Now (song)](../../../topics/song/all-a-share-together-now/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [The Prince Estate](../../../topics/the-prince-estate/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://mspmag.com/arts-and-culture/paisley-parks-opens-the-vault-for-two-new-prince-songs/))
+
+<br />
 
  - [**"Prince fans share their excitement for new songs released from Paisley Park vault"**](https://www.cbsnews.com/minnesota/news/prince-fans-share-their-excitement-for-new-songs-releases-from-paisley-park-vault/)
     - by [Reg Chapman](../../../authors/reg-chapman/index.md)

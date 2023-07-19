@@ -36,9 +36,9 @@
 
 ----
 
-## 2019 (13)
+## 2019 (14)
 
-### 2019 December (10)
+### 2019 December (11)
 
  - [**"Prince: The Story of 1999 bonus feature: Bobby Z, 'Prince went from a caterpillar to a butterfly in that one purple trench coat'"**](https://www.thecurrent.org/feature/2019/12/20/prince-drummer-bobby-z-the-revolution-interview)
     - in [The Current](../../publications/a-e/the-current/index.md)
@@ -61,6 +61,15 @@
     - on 13 December 2019
     - about [1999 (album)](../../topics/album/1999/index.md), [Andrea Swensson](../../topics/andrea-swensson/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Essence Fest (event)](../../topics/event/essence-fest/index.md), [Essence Festival (event)](../../topics/event/essence-festival/index.md), [Grammys](../../topics/grammys/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Morris Day](../../topics/morris-day/index.md), [New Orleans (place)](../../topics/place/new-orleans/index.md), [Nile Rodgers](../../topics/nile-rodgers/index.md), [Prince: The Story of 1999](../../topics/prince-the-story-of-1999/index.md), [Spotify](../../topics/spotify/index.md), [Turks and Caicos](../../topics/turks-and-caicos/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md), [YouTube](../../topics/youtube/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/12/13/prince-the-story-of-1999-bonus-feature-nile-rodgers-interview))
+
+<br />
+
+ - [**"Q&A: Andrea Swensson on Becoming a Prince Expert -- The Current radio host talks about how she got involved in writing the liner notes for the super deluxe reissue of Prince's 1999 album."**](https://mspmag.com/arts-and-culture/qa-andrea-swensson-prince-expert/)
+    - by [Steve Marsh](../../authors/steve-marsh/index.md)
+    - in [Mpls.St.Paul Magazine](../../publications/k-o/mpls-st-paul-magazine/index.md)
+    - on 12 December 2019
+    - about [Andrea Swensson](../../topics/andrea-swensson/index.md), [Prince: The Story of 1999](../../topics/prince-the-story-of-1999/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://mspmag.com/arts-and-culture/qa-andrea-swensson-prince-expert/))
 
 <br />
 

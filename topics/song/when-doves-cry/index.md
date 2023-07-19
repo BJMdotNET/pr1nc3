@@ -205,7 +205,7 @@
 
 ----
 
-## 2019 (40)
+## 2019 (41)
 
 ### 2019 December (2)
 
@@ -276,6 +276,7 @@
 <br />
 
  - [**"Here’s what happened when Beck went to Paisley Park to cover Prince -- Star headed to Minneapolis to record a medley of Prince hits"**](https://www.musicradar.com/news/heres-what-happened-when-beck-went-to-paisley-park-to-cover-prince)
+    - by [Ben Rogerson](../../../authors/ben-rogerson/index.md)
     - in [MusicRadar](../../../publications/k-o/musicradar/index.md)
     - on 13 November 2019
     - about [Beck](../../../topics/beck/index.md), [Raspberry Beret (song)](../../../topics/song/raspberry-beret/index.md), [The Paisley Park Sessions (EP)](../../../topics/ep/the-paisley-park-sessions/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
@@ -299,7 +300,7 @@
 
 ----
 
-### 2019 October (12)
+### 2019 October (13)
 
  - [**"Recensie: Prince - The Beautiful Ones"**](https://writteninmusic.com/boekrecensie/prince-the-beautiful-ones/)
     - in [Written in Music](../../../publications/u-z/written-in-music/index.md)
@@ -370,6 +371,15 @@
     - on 27 October 2019
     - about [Andrea Swensson](../../../topics/andrea-swensson/index.md), [Dan Piepenbring](../../../topics/dan-piepenbring/index.md), [divorce](../../../topics/divorce/index.md), [Jamie Starr](../../../topics/jamie-starr/index.md), [Kiowa Trail](../../../topics/kiowa-trail/index.md), [memoir](../../../topics/memoir/index.md), [Morris Day](../../../topics/morris-day/index.md), [The Beautiful Ones (book)](../../../topics/book/the-beautiful-ones/index.md), [Vanity](../../../topics/vanity/index.md), [vault](../../../topics/vault/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/10/25/prince-beautiful-ones-book-review))
+
+<br />
+
+ - [**"Purple Rain, 35 Years Later -- For the 35th anniversary of Prince's landmark film, the Twin Cities Film Festival held a screening with director Albert Magnoli."**](https://mspmag.com/arts-and-culture/the-morning-after/purple-rain-35-years-later/)
+    - by [Rob Perez](../../../authors/rob-perez/index.md)
+    - in [Mpls.St.Paul Magazine](../../../publications/k-o/mpls-st-paul-magazine/index.md)
+    - on 24 October 2019
+    - about [Academy Award](../../../topics/academy-award/index.md), [Albert Magnoli](../../../topics/albert-magnoli/index.md), [Bobby Z](../../../topics/bobby-z/index.md), [Bobby Z.](../../../topics/bobby-z/index.md), [Darling Nikki (song)](../../../topics/song/darling-nikki/index.md), [Lake Minnetonka (place)](../../../topics/place/lake-minnetonka/index.md), [Morris Day](../../../topics/morris-day/index.md), [motorcycle](../../../topics/motorcycle/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md), [The Revolution](../../../topics/the-revolution/index.md), [Twin Cities (place)](../../../topics/place/twin-cities/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://mspmag.com/arts-and-culture/the-morning-after/purple-rain-35-years-later/))
 
 <br />
 

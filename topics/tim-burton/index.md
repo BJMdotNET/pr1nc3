@@ -30,6 +30,7 @@
 ### 2019 November (1)
 
  - [**"'Batman' composer Danny Elfman says turning down Prince was 'biggest, most stressful gamble' of his career"**](https://www.yahoo.com/entertainment/batman-composer-danny-elfman-says-turning-down-prince-was-biggest-most-stressful-gamble-of-his-career-192951834.html)
+    - by [Lyndsey Parker](../../authors/lyndsey-parker/index.md)
     - in [Yahoo! Entertainment](../../publications/u-z/yahoo-entertainment/index.md)
     - on 12 November 2019
     - about [Batman (album)](../../topics/album/batman/index.md), [Danny Elfman](../../topics/danny-elfman/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Tim Burton](../../topics/tim-burton/index.md)

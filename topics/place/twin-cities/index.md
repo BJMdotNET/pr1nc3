@@ -50,9 +50,18 @@
 
 ----
 
-## 2022 (4)
+## 2022 (5)
 
-### 2022 June (1)
+### 2022 June (2)
+
+ - [**"New Prince Mural Is Complete in Downtown Minneapolis -- The 100-foot-tall painting is being celebrated with a purple party."**](https://mspmag.com/arts-and-culture/new-prince-mural-complete-downtown-minneapolis/)
+    - by [Peter Diamond](../../../authors/peter-diamond/index.md)
+    - in [Mpls.St.Paul Magazine](../../../publications/k-o/mpls-st-paul-magazine/index.md)
+    - on 2 June 2022
+    - about [First Avenue (place)](../../../topics/place/first-avenue/index.md), [mural](../../../topics/mural/index.md), [Prince Rogers Nelson Way (place)](../../../topics/place/prince-rogers-nelson-way/index.md), [Twin Cities (place)](../../../topics/place/twin-cities/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://mspmag.com/arts-and-culture/new-prince-mural-complete-downtown-minneapolis/))
+
+<br />
 
  - [**"Prince Mural Unveiled In Downtown Minneapolis"**](https://www.cbsnews.com/minnesota/news/prince-mural-downtown-minneapolis/)
     - in [WCCO - CBS Minnesota](../../../publications/u-z/wcco-cbs-minnesota/index.md)
@@ -133,9 +142,9 @@
 
 ----
 
-## 2019 (7)
+## 2019 (8)
 
-### 2019 October (3)
+### 2019 October (4)
 
  - [**"4 Generations Of Minnesota’s Peterson Family: A Hall Of Fame Musical Legacy"**](https://minnesota.cbslocal.com/2019/10/27/4-generations-of-minnesotas-peterson-family-a-hall-of-fame-musical-legacy/)
     - in [WCCO - CBS Minnesota (old)](../../../publications/u-z/wcco-cbs-minnesota-old/index.md)
@@ -153,8 +162,17 @@
 
 <br />
 
+ - [**"Purple Rain, 35 Years Later -- For the 35th anniversary of Prince's landmark film, the Twin Cities Film Festival held a screening with director Albert Magnoli."**](https://mspmag.com/arts-and-culture/the-morning-after/purple-rain-35-years-later/)
+    - by [Rob Perez](../../../authors/rob-perez/index.md)
+    - in [Mpls.St.Paul Magazine](../../../publications/k-o/mpls-st-paul-magazine/index.md)
+    - on 24 October 2019
+    - about [Academy Award](../../../topics/academy-award/index.md), [Albert Magnoli](../../../topics/albert-magnoli/index.md), [Bobby Z](../../../topics/bobby-z/index.md), [Bobby Z.](../../../topics/bobby-z/index.md), [Darling Nikki (song)](../../../topics/song/darling-nikki/index.md), [Lake Minnetonka (place)](../../../topics/place/lake-minnetonka/index.md), [Morris Day](../../../topics/morris-day/index.md), [motorcycle](../../../topics/motorcycle/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md), [The Revolution](../../../topics/the-revolution/index.md), [Twin Cities (place)](../../../topics/place/twin-cities/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://mspmag.com/arts-and-culture/the-morning-after/purple-rain-35-years-later/))
+
+<br />
+
  - [**""A REMARKABLE MAN!” -- Susan Rogers Reflects upon her Lifelong Journey in Music, What it was Like to Watch a ‘Genius at Work,’ and Her Personal Vow to lift up Prince’s Legacy at Every Turn -- Spotlight: Susan Rogers"**](http://prnalumni.org/members/spotlight/spotlight-susan-rogers/)
-    - in [prnalumni.org](../../../publications/p-t/prnalumni-org/index.md)
+    - in [PRN Alumni](../../../publications/p-t/prn-alumni/index.md)
     - on 11 October 2019
     - about [André Cymone](../../../topics/andr-cymone/index.md), [ASCAP](../../../topics/ascap/index.md), [Bruce Springsteen](../../../topics/bruce-springsteen/index.md), [Candy Dulfer](../../../topics/candy-dulfer/index.md), [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Computer Blue (song)](../../../topics/song/computer-blue/index.md), [Detroit (place)](../../../topics/place/detroit/index.md), [Eric Leeds](../../../topics/eric-leeds/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Forum (place)](../../../topics/place/forum/index.md), [Inglewood, California (place)](../../../topics/place/inglewood-california/index.md), [Jesse Johnson](../../../topics/jesse-johnson/index.md), [Jill Jones](../../../topics/jill-jones/index.md), [Joe Louis Arena (place)](../../../topics/place/joe-louis-arena/index.md), [Kiowa Trail](../../../topics/kiowa-trail/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Madonna](../../../topics/madonna/index.md), [Mavis Staples](../../../topics/mavis-staples/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [PRN Alumni Foundation](../../../topics/prn-alumni-foundation/index.md), [Sheena Easton](../../../topics/sheena-easton/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [St. Louis Park (place)](../../../topics/place/st-louis-park/index.md), [Steve Fargnoli](../../../topics/steve-fargnoli/index.md), [Susan Rogers](../../../topics/susan-rogers/index.md), [Tevin Campbell](../../../topics/tevin-campbell/index.md), [Twin Cities (place)](../../../topics/place/twin-cities/index.md), [University of Minnesota](../../../topics/university-of-minnesota/index.md), [Warner Bros. Records](../../../topics/warner-bros-records/index.md)
     - ([mirror](https://web.archive.org/web/*/http://prnalumni.org/members/spotlight/spotlight-susan-rogers/))

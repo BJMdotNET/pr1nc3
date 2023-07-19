@@ -1,5 +1,18 @@
 # Aretha Franklin
 
+## 2023 (1)
+
+### 2023 July (1)
+
+ - [**"Expensive court fight over Aretha Franklin’s will provides cautionary tale"**](https://apnews.com/article/aretha-franklin-will-estate-prince-0a8a4cf581f28077a54234d1bec178a6)
+    - by [Steve Karnowski (Associated Press)](../../authors/associated-press/steve-karnowski/index.md)
+    - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
+    - on 12 July 2023
+    - about [Aretha Franklin](../../topics/aretha-franklin/index.md), [probate court](../../topics/probate-court/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/aretha-franklin-will-estate-prince-0a8a4cf581f28077a54234d1bec178a6))
+
+----
+
 ## 2020 (14)
 
 ### 2020 January (14)

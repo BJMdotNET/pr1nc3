@@ -5,7 +5,7 @@
 ### 2020 February (1)
 
  - [**"Engineering Prince: Working With The Purple One as a Creator, Drummer, and Electronic Drum Pioneer"**](https://drummagazine.com/engineering-prince-the-purple-one-as-a-creator-drummer-and-electronic-drum-pioneer/)
-    - in [drummagazine.com](../../../publications/a-e/drummagazine-com/index.md)
+    - in [DRUM Magazine](../../../publications/a-e/drum-magazine/index.md)
     - on 14 February 2020
     - about [3121 (album)](../../../topics/album/3121/index.md), [Around The World In A Day (album)](../../../topics/album/around-the-world-in-a-day/index.md), [Controversy (album)](../../../topics/album/controversy/index.md), [Larrabee Sound (place)](../../../topics/place/larrabee-sound/index.md), [Linn LM-1](../../../topics/linn-lm-1/index.md), [Lisa Chamblee](../../../topics/lisa-chamblee/index.md), [Peggy McCreary](../../../topics/peggy-mccreary/index.md), [PRN Alumni Foundation](../../../topics/prn-alumni-foundation/index.md), [Purple Rain (album)](../../../topics/album/purple-rain/index.md), [Romance 1600 (album)](../../../topics/album/romance-1600/index.md), [Strange Relationship (song)](../../../topics/song/strange-relationship/index.md), [Sunset Sound (place)](../../../topics/place/sunset-sound/index.md), [Susan Rogers](../../../topics/susan-rogers/index.md), [Sylvia Massy](../../../topics/sylvia-massy/index.md), [U Got the Look (song)](../../../topics/song/u-got-the-look/index.md), [vault](../../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://drummagazine.com/engineering-prince-the-purple-one-as-a-creator-drummer-and-electronic-drum-pioneer/))
@@ -27,7 +27,7 @@
 ### 2019 April (2)
 
  - [**"Sunday Sounds: Celebrating The Phenomenal Drummers Of Prince"**](https://drummagazine.com/sunday-sounds-prince-drummers-sheila-e-bobby-z-john-blackwell-michael-bland-hannah-ford/)
-    - in [drummagazine.com](../../../publications/a-e/drummagazine-com/index.md)
+    - in [DRUM Magazine](../../../publications/a-e/drum-magazine/index.md)
     - on 21 April 2019
     - about [3121 (album)](../../../topics/album/3121/index.md), [3rdEyeGirl](../../../topics/3rdeyegirl/index.md), [Around The World In A Day (album)](../../../topics/album/around-the-world-in-a-day/index.md), [Hannah Welton](../../../topics/hannah-welton/index.md), [Michael Bland](../../../topics/michael-bland/index.md), [New Power Generation](../../../topics/new-power-generation/index.md), [Parade (album)](../../../topics/album/parade/index.md), [Purple Rain (album)](../../../topics/album/purple-rain/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [The Revolution](../../../topics/the-revolution/index.md), [U Got the Look (song)](../../../topics/song/u-got-the-look/index.md), [YouTube](../../../topics/youtube/index.md)
     - ([mirror](https://web.archive.org/web/*/https://drummagazine.com/sunday-sounds-prince-drummers-sheila-e-bobby-z-john-blackwell-michael-bland-hannah-ford/))
@@ -142,6 +142,7 @@
 ### 2016 April (4)
 
  - [**"Prince’s Former Mentor Pepe Willie Recalls the Star's Early Days"**](https://www.yahoo.com/entertainment/princes-former-mentor-pepe-willie-recalls-the-215708376.html)
+    - by [Jon Wiederhorn](../../../authors/jon-wiederhorn/index.md)
     - in [Yahoo! Entertainment](../../../publications/u-z/yahoo-entertainment/index.md)
     - on 28 April 2016
     - about [3121 (album)](../../../topics/album/3121/index.md), [94 East](../../../topics/94-east/index.md), [André Cymone](../../../topics/andr-cymone/index.md), [Bob Cavallo](../../../topics/bob-cavallo/index.md), [Bob Dylan](../../../topics/bob-dylan/index.md), [Chris Moon](../../../topics/chris-moon/index.md), [divorce](../../../topics/divorce/index.md), [Do Yourself a Favor (song)](../../../topics/song/do-yourself-a-favor/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Jesse Johnson](../../../topics/jesse-johnson/index.md), [Kenny Rogers](../../../topics/kenny-rogers/index.md), [Minnesota Vikings](../../../topics/minnesota-vikings/index.md), [Morris Day](../../../topics/morris-day/index.md), [Owen Husney](../../../topics/owen-husney/index.md), [Pepe Willie](../../../topics/pepe-willie/index.md), [Stevie Wonder](../../../topics/stevie-wonder/index.md)

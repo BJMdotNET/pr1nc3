@@ -279,6 +279,7 @@
 ### 2019 June (1)
 
  - [**"The Revolution recalls making Prince’s ‘Purple Rain’: ‘He was frantically telling us we were making history’"**](https://www.yahoo.com/entertainment/the-revolution-recalls-making-princes-purple-rain-he-was-frantically-telling-us-we-were-making-history-035500076.html)
+    - by [Lyndsey Parker](../../authors/lyndsey-parker/index.md)
     - in [Yahoo! Entertainment](../../publications/u-z/yahoo-entertainment/index.md)
     - on 25 June 2019
     - about [Albert Magnoli](../../topics/albert-magnoli/index.md), [Bobby Z.](../../topics/bobby-z/index.md), [BrownMark](../../topics/brownmark/index.md), [Computer Blue (song)](../../topics/song/computer-blue/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [The Revolution](../../topics/the-revolution/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
@@ -298,7 +299,7 @@
 <br />
 
  - [**"Sunday Sounds: Celebrating The Phenomenal Drummers Of Prince"**](https://drummagazine.com/sunday-sounds-prince-drummers-sheila-e-bobby-z-john-blackwell-michael-bland-hannah-ford/)
-    - in [drummagazine.com](../../publications/a-e/drummagazine-com/index.md)
+    - in [DRUM Magazine](../../publications/a-e/drum-magazine/index.md)
     - on 21 April 2019
     - about [3121 (album)](../../topics/album/3121/index.md), [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Around The World In A Day (album)](../../topics/album/around-the-world-in-a-day/index.md), [Hannah Welton](../../topics/hannah-welton/index.md), [Michael Bland](../../topics/michael-bland/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Parade (album)](../../topics/album/parade/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Revolution](../../topics/the-revolution/index.md), [U Got the Look (song)](../../topics/song/u-got-the-look/index.md), [YouTube](../../topics/youtube/index.md)
     - ([mirror](https://web.archive.org/web/*/https://drummagazine.com/sunday-sounds-prince-drummers-sheila-e-bobby-z-john-blackwell-michael-bland-hannah-ford/))
@@ -522,7 +523,7 @@
 ### 2013 October (1)
 
  - [**"Hannah Ford: The Princess Ride"**](https://drummagazine.com/hannah-ford-the-princess-ride/)
-    - in [drummagazine.com](../../publications/a-e/drummagazine-com/index.md)
+    - in [DRUM Magazine](../../publications/a-e/drum-magazine/index.md)
     - on 14 October 2013
     - about [Donna Grantis](../../topics/donna-grantis/index.md), [Hannah Ford](../../topics/hannah-ford/index.md), [Ida Neilson](../../topics/ida-neilson/index.md), [Live Out Loud (tour)](../../topics/tour/live-out-loud/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Plectrum Electrum (album)](../../topics/album/plectrum-electrum/index.md), [Screwdriver (song)](../../topics/song/screwdriver/index.md), [She’s Always In My Hair (song)](../../topics/song/she-s-always-in-my-hair/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Family](../../topics/the-family/index.md), [The Revolution](../../topics/the-revolution/index.md), [YouTube](../../topics/youtube/index.md)
     - ([mirror](https://web.archive.org/web/*/https://drummagazine.com/hannah-ford-the-princess-ride/))

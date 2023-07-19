@@ -23,9 +23,9 @@
 
 ----
 
-## 2022 (4)
+## 2022 (5)
 
-### 2022 June (2)
+### 2022 June (3)
 
  - [**"Purple Rain: The Story Behind Prince’s Career-Defining Song -- The song most associated with Prince, Purple Rain is an epic power ballad that embodied its creator’s search for transcendence through music."**](https://www.thisisdig.com/feature/purple-rain-prince-song-story/)
     - by [Jason Draper](../../../authors/jason-draper/index.md)
@@ -33,6 +33,15 @@
     - on 25 June 2022
     - about [Albert Magnoli](../../../topics/albert-magnoli/index.md), [Andrea Swensson](../../../topics/andrea-swensson/index.md), [Baby I’m a Star (song)](../../../topics/song/baby-i-m-a-star/index.md), [Bob Seger](../../../topics/bob-seger/index.md), [Dez Dickerson](../../../topics/dez-dickerson/index.md), [Duane Tudahl](../../../topics/duane-tudahl/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Fleetwood Mac](../../../topics/fleetwood-mac/index.md), [I Would Die 4 U (song)](../../../topics/song/i-would-die-4-u/index.md), [Joni Mitchell](../../../topics/joni-mitchell/index.md), [Lisa Coleman](../../../topics/lisa-coleman/index.md), [Lives Of The Musicians: Prince (book)](../../../topics/book/lives-of-the-musicians-prince/index.md), [Los Angeles (place)](../../../topics/place/los-angeles/index.md), [Novi Novog](../../../topics/novi-novog/index.md), [Prince And The Purple Rain Era Studio Sessions 1983 And 1984 (book)](../../../topics/book/prince-and-the-purple-rain-era-studio-sessions-1983-and-1984/index.md), [Purple Rain (album)](../../../topics/album/purple-rain/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Stevie Nicks](../../../topics/stevie-nicks/index.md), [Sunset Sound (place)](../../../topics/place/sunset-sound/index.md), [Suzie Katayama](../../../topics/suzie-katayama/index.md), [The Revolution](../../../topics/the-revolution/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.thisisdig.com/feature/purple-rain-prince-song-story/))
+
+<br />
+
+ - [**"New Prince Mural Is Complete in Downtown Minneapolis -- The 100-foot-tall painting is being celebrated with a purple party."**](https://mspmag.com/arts-and-culture/new-prince-mural-complete-downtown-minneapolis/)
+    - by [Peter Diamond](../../../authors/peter-diamond/index.md)
+    - in [Mpls.St.Paul Magazine](../../../publications/k-o/mpls-st-paul-magazine/index.md)
+    - on 2 June 2022
+    - about [First Avenue (place)](../../../topics/place/first-avenue/index.md), [mural](../../../topics/mural/index.md), [Prince Rogers Nelson Way (place)](../../../topics/place/prince-rogers-nelson-way/index.md), [Twin Cities (place)](../../../topics/place/twin-cities/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://mspmag.com/arts-and-culture/new-prince-mural-complete-downtown-minneapolis/))
 
 <br />
 
@@ -64,7 +73,18 @@
 
 ----
 
-## 2021 (1)
+## 2021 (3)
+
+### 2021 September (1)
+
+ - [**"Super Producers Jimmy Jam and Terry Lewis Finally Release Their Own Album -- The most successful music production duo of all time finally give themselves top billing on their new album, Jam & Lewis, Vol. 1."**](https://mspmag.com/arts-and-culture/jimmy-jam-terry-lewis-new-album/)
+    - by [Steve Marsh](../../../authors/steve-marsh/index.md)
+    - in [Mpls.St.Paul Magazine](../../../publications/k-o/mpls-st-paul-magazine/index.md)
+    - on 5 September 2021
+    - about [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Flyte Tyme](../../../topics/flyte-tyme/index.md), [Flyte Tyme Studios (place)](../../../topics/place/flyte-tyme-studios/index.md), [Jam & Lewis](../../../topics/jam-lewis/index.md), [Jam and Lewis](../../../topics/jam-and-lewis/index.md), [Janet Jackson](../../../topics/janet-jackson/index.md), [Jimmy “Jam” Harris](../../../topics/jimmy-jam-harris/index.md), [Jimmy Jam](../../../topics/jimmy-jam/index.md), [Morris Day](../../../topics/morris-day/index.md), [Sounds of Blackness](../../../topics/sounds-of-blackness/index.md), [Terry Lewis](../../../topics/terry-lewis/index.md), [The Time](../../../topics/the-time/index.md), [Touré](../../../topics/tour/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://mspmag.com/arts-and-culture/jimmy-jam-terry-lewis-new-album/))
+
+----
 
 ### 2021 June (1)
 
@@ -74,6 +94,17 @@
     - on 25 June 2021
     - about [Alan Leeds](../../../topics/alan-leeds/index.md), [Albert Magnoli](../../../topics/albert-magnoli/index.md), [Apollonia](../../../topics/apollonia/index.md), [Apollonia 6](../../../topics/apollonia-6/index.md), [Baby I’m a Star (song)](../../../topics/song/baby-i-m-a-star/index.md), [BrownMark](../../../topics/brownmark/index.md), [Bruce Springsteen](../../../topics/bruce-springsteen/index.md), [Computer Blue (song)](../../../topics/song/computer-blue/index.md), [Darling Nikki (song)](../../../topics/song/darling-nikki/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [I Would Die 4 U (song)](../../../topics/song/i-would-die-4-u/index.md), [Jimmy Jam](../../../topics/jimmy-jam/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Lisa Coleman](../../../topics/lisa-coleman/index.md), [Lives Of The Musicians: Prince (book)](../../../topics/book/lives-of-the-musicians-prince/index.md), [Morris Day](../../../topics/morris-day/index.md), [Parental Advisory](../../../topics/parental-advisory/index.md), [Parents Music Resource Center](../../../topics/parents-music-resource-center/index.md), [Patricia Kotero](../../../topics/patricia-kotero/index.md), [Peggy McCreary](../../../topics/peggy-mccreary/index.md), [Prince and The Revolution](../../../topics/prince-and-the-revolution/index.md), [Purple Rain (album)](../../../topics/album/purple-rain/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Purple Rain (tour)](../../../topics/tour/purple-rain/index.md), [Sheena Easton](../../../topics/sheena-easton/index.md), [Steve Fargnoli](../../../topics/steve-fargnoli/index.md), [Sugar Walls (song)](../../../topics/song/sugar-walls/index.md), [Sunset Sound (place)](../../../topics/place/sunset-sound/index.md), [Susan Rogers](../../../topics/susan-rogers/index.md), [Terry Lewis](../../../topics/terry-lewis/index.md), [The Beautiful Ones (song)](../../../topics/song/the-beautiful-ones/index.md), [The Revolution](../../../topics/the-revolution/index.md), [The Time](../../../topics/the-time/index.md), [Vanity](../../../topics/vanity/index.md), [Vanity 6](../../../topics/vanity-6/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.thisisdig.com/feature/prince-purple-rain-album/))
+
+----
+
+### 2021 April (1)
+
+ - [**"Graphic Novel MPLS Sound Is an Ode to Prince’s Legacy -- The graphic novel from the publisher Humanoids follows the career of a fictitious Minneapolis funk band, and arrives in stores this month."**](https://mspmag.com/arts-and-culture/graphic-novel-mpls-sound-is-an-ode-to-prince-legacy/)
+    - by [Justine Jones](../../../authors/justine-jones/index.md)
+    - in [Mpls.St.Paul Magazine](../../../publications/k-o/mpls-st-paul-magazine/index.md)
+    - on 21 April 2021
+    - about [First Avenue (place)](../../../topics/place/first-avenue/index.md), [graphic novel (book)](../../../topics/book/graphic-novel/index.md), [Hannibal Tabu](../../../topics/hannibal-tabu/index.md), [Jen Bartel](../../../topics/jen-bartel/index.md), [Joseph Illidge](../../../topics/joseph-illidge/index.md), [Meredith Laxton](../../../topics/meredith-laxton/index.md), [MPLS Sound (book)](../../../topics/book/mpls-sound/index.md), [Prince: Alter Ego](../../../topics/prince-alter-ego/index.md), [Sam’s (place)](../../../topics/place/sam-s/index.md), [Tan Shu](../../../topics/tan-shu/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://mspmag.com/arts-and-culture/graphic-novel-mpls-sound-is-an-ode-to-prince-legacy/))
 
 ----
 
@@ -270,7 +301,7 @@
 <br />
 
  - [**""A REMARKABLE MAN!” -- Susan Rogers Reflects upon her Lifelong Journey in Music, What it was Like to Watch a ‘Genius at Work,’ and Her Personal Vow to lift up Prince’s Legacy at Every Turn -- Spotlight: Susan Rogers"**](http://prnalumni.org/members/spotlight/spotlight-susan-rogers/)
-    - in [prnalumni.org](../../../publications/p-t/prnalumni-org/index.md)
+    - in [PRN Alumni](../../../publications/p-t/prn-alumni/index.md)
     - on 11 October 2019
     - about [André Cymone](../../../topics/andr-cymone/index.md), [ASCAP](../../../topics/ascap/index.md), [Bruce Springsteen](../../../topics/bruce-springsteen/index.md), [Candy Dulfer](../../../topics/candy-dulfer/index.md), [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Computer Blue (song)](../../../topics/song/computer-blue/index.md), [Detroit (place)](../../../topics/place/detroit/index.md), [Eric Leeds](../../../topics/eric-leeds/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Forum (place)](../../../topics/place/forum/index.md), [Inglewood, California (place)](../../../topics/place/inglewood-california/index.md), [Jesse Johnson](../../../topics/jesse-johnson/index.md), [Jill Jones](../../../topics/jill-jones/index.md), [Joe Louis Arena (place)](../../../topics/place/joe-louis-arena/index.md), [Kiowa Trail](../../../topics/kiowa-trail/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Madonna](../../../topics/madonna/index.md), [Mavis Staples](../../../topics/mavis-staples/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [PRN Alumni Foundation](../../../topics/prn-alumni-foundation/index.md), [Sheena Easton](../../../topics/sheena-easton/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [St. Louis Park (place)](../../../topics/place/st-louis-park/index.md), [Steve Fargnoli](../../../topics/steve-fargnoli/index.md), [Susan Rogers](../../../topics/susan-rogers/index.md), [Tevin Campbell](../../../topics/tevin-campbell/index.md), [Twin Cities (place)](../../../topics/place/twin-cities/index.md), [University of Minnesota](../../../topics/university-of-minnesota/index.md), [Warner Bros. Records](../../../topics/warner-bros-records/index.md)
     - ([mirror](https://web.archive.org/web/*/http://prnalumni.org/members/spotlight/spotlight-susan-rogers/))
@@ -428,6 +459,7 @@
 ### 2019 June (2)
 
  - [**"The Revolution recalls making Prince’s ‘Purple Rain’: ‘He was frantically telling us we were making history’"**](https://www.yahoo.com/entertainment/the-revolution-recalls-making-princes-purple-rain-he-was-frantically-telling-us-we-were-making-history-035500076.html)
+    - by [Lyndsey Parker](../../../authors/lyndsey-parker/index.md)
     - in [Yahoo! Entertainment](../../../publications/u-z/yahoo-entertainment/index.md)
     - on 25 June 2019
     - about [Albert Magnoli](../../../topics/albert-magnoli/index.md), [Bobby Z.](../../../topics/bobby-z/index.md), [BrownMark](../../../topics/brownmark/index.md), [Computer Blue (song)](../../../topics/song/computer-blue/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Lisa Coleman](../../../topics/lisa-coleman/index.md), [New Power Generation](../../../topics/new-power-generation/index.md), [The Revolution](../../../topics/the-revolution/index.md), [Under the Cherry Moon (movie)](../../../topics/movie/under-the-cherry-moon/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md)
@@ -839,6 +871,7 @@
 ### 2016 April (16)
 
  - [**"Prince’s Former Mentor Pepe Willie Recalls the Star's Early Days"**](https://www.yahoo.com/entertainment/princes-former-mentor-pepe-willie-recalls-the-215708376.html)
+    - by [Jon Wiederhorn](../../../authors/jon-wiederhorn/index.md)
     - in [Yahoo! Entertainment](../../../publications/u-z/yahoo-entertainment/index.md)
     - on 28 April 2016
     - about [3121 (album)](../../../topics/album/3121/index.md), [94 East](../../../topics/94-east/index.md), [André Cymone](../../../topics/andr-cymone/index.md), [Bob Cavallo](../../../topics/bob-cavallo/index.md), [Bob Dylan](../../../topics/bob-dylan/index.md), [Chris Moon](../../../topics/chris-moon/index.md), [divorce](../../../topics/divorce/index.md), [Do Yourself a Favor (song)](../../../topics/song/do-yourself-a-favor/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Jesse Johnson](../../../topics/jesse-johnson/index.md), [Kenny Rogers](../../../topics/kenny-rogers/index.md), [Minnesota Vikings](../../../topics/minnesota-vikings/index.md), [Morris Day](../../../topics/morris-day/index.md), [Owen Husney](../../../topics/owen-husney/index.md), [Pepe Willie](../../../topics/pepe-willie/index.md), [Stevie Wonder](../../../topics/stevie-wonder/index.md)

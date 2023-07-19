@@ -36,7 +36,7 @@
 
 ----
 
-## 2019 (11)
+## 2019 (12)
 
 ### 2019 December (2)
 
@@ -56,13 +56,22 @@
 
 ----
 
-### 2019 October (1)
+### 2019 October (2)
 
  - [**"Interview: Director Albert Magnoli describes working with Prince and making 'Purple Rain'"**](https://www.thecurrent.org/feature/2019/10/24/interview-director-albert-magnoli-describes-working-with-prince-purple-rain)
     - in [The Current](../../publications/a-e/the-current/index.md)
     - on 24 October 2019
     - about [Albert Magnoli](../../topics/albert-magnoli/index.md), [Chick Huntsberry](../../topics/chick-huntsberry/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Lake Minnetonka (place)](../../topics/place/lake-minnetonka/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [motorcycle](../../topics/motorcycle/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Spotify](../../topics/spotify/index.md), [Steve Fargnoli](../../topics/steve-fargnoli/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/10/24/interview-director-albert-magnoli-describes-working-with-prince-purple-rain))
+
+<br />
+
+ - [**"Purple Rain, 35 Years Later -- For the 35th anniversary of Prince's landmark film, the Twin Cities Film Festival held a screening with director Albert Magnoli."**](https://mspmag.com/arts-and-culture/the-morning-after/purple-rain-35-years-later/)
+    - by [Rob Perez](../../authors/rob-perez/index.md)
+    - in [Mpls.St.Paul Magazine](../../publications/k-o/mpls-st-paul-magazine/index.md)
+    - on 24 October 2019
+    - about [Academy Award](../../topics/academy-award/index.md), [Albert Magnoli](../../topics/albert-magnoli/index.md), [Bobby Z](../../topics/bobby-z/index.md), [Bobby Z.](../../topics/bobby-z/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [Lake Minnetonka (place)](../../topics/place/lake-minnetonka/index.md), [Morris Day](../../topics/morris-day/index.md), [motorcycle](../../topics/motorcycle/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [The Revolution](../../topics/the-revolution/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://mspmag.com/arts-and-culture/the-morning-after/purple-rain-35-years-later/))
 
 ----
 
@@ -126,6 +135,7 @@
 ### 2019 June (2)
 
  - [**"The Revolution recalls making Prince’s ‘Purple Rain’: ‘He was frantically telling us we were making history’"**](https://www.yahoo.com/entertainment/the-revolution-recalls-making-princes-purple-rain-he-was-frantically-telling-us-we-were-making-history-035500076.html)
+    - by [Lyndsey Parker](../../authors/lyndsey-parker/index.md)
     - in [Yahoo! Entertainment](../../publications/u-z/yahoo-entertainment/index.md)
     - on 25 June 2019
     - about [Albert Magnoli](../../topics/albert-magnoli/index.md), [Bobby Z.](../../topics/bobby-z/index.md), [BrownMark](../../topics/brownmark/index.md), [Computer Blue (song)](../../topics/song/computer-blue/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [The Revolution](../../topics/the-revolution/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)

@@ -70,7 +70,7 @@
 
 ----
 
-## 2019 (40)
+## 2019 (41)
 
 ### 2019 December (3)
 
@@ -98,7 +98,7 @@
 
 ----
 
-### 2019 October (8)
+### 2019 October (9)
 
  - [**"4 Generations Of Minnesota’s Peterson Family: A Hall Of Fame Musical Legacy"**](https://minnesota.cbslocal.com/2019/10/27/4-generations-of-minnesotas-peterson-family-a-hall-of-fame-musical-legacy/)
     - in [WCCO - CBS Minnesota (old)](../../../publications/u-z/wcco-cbs-minnesota-old/index.md)
@@ -113,6 +113,15 @@
     - on 24 October 2019
     - about [Albert Magnoli](../../../topics/albert-magnoli/index.md), [Chick Huntsberry](../../../topics/chick-huntsberry/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Lake Minnetonka (place)](../../../topics/place/lake-minnetonka/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [motorcycle](../../../topics/motorcycle/index.md), [Purple Rain (album)](../../../topics/album/purple-rain/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Spotify](../../../topics/spotify/index.md), [Steve Fargnoli](../../../topics/steve-fargnoli/index.md), [Twin Cities (place)](../../../topics/place/twin-cities/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/10/24/interview-director-albert-magnoli-describes-working-with-prince-purple-rain))
+
+<br />
+
+ - [**"Purple Rain, 35 Years Later -- For the 35th anniversary of Prince's landmark film, the Twin Cities Film Festival held a screening with director Albert Magnoli."**](https://mspmag.com/arts-and-culture/the-morning-after/purple-rain-35-years-later/)
+    - by [Rob Perez](../../../authors/rob-perez/index.md)
+    - in [Mpls.St.Paul Magazine](../../../publications/k-o/mpls-st-paul-magazine/index.md)
+    - on 24 October 2019
+    - about [Academy Award](../../../topics/academy-award/index.md), [Albert Magnoli](../../../topics/albert-magnoli/index.md), [Bobby Z](../../../topics/bobby-z/index.md), [Bobby Z.](../../../topics/bobby-z/index.md), [Darling Nikki (song)](../../../topics/song/darling-nikki/index.md), [Lake Minnetonka (place)](../../../topics/place/lake-minnetonka/index.md), [Morris Day](../../../topics/morris-day/index.md), [motorcycle](../../../topics/motorcycle/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md), [The Revolution](../../../topics/the-revolution/index.md), [Twin Cities (place)](../../../topics/place/twin-cities/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://mspmag.com/arts-and-culture/the-morning-after/purple-rain-35-years-later/))
 
 <br />
 
@@ -183,6 +192,7 @@
 <br />
 
  - [**"The builder of Prince’s Cloud guitar speaks out on the trademark dispute with the late pop icon’s estate -- Paisley Park ordered Dave Rusan to give up his trademark for the guitar’s design"**](https://www.musicradar.com/news/the-builder-of-princes-cloud-guitar-speaks-out-on-the-trademark-dispute-with-the-late-pop-icons-estate)
+    - by [Jonathan Horsley](../../../authors/jonathan-horsley/index.md)
     - in [MusicRadar](../../../publications/k-o/musicradar/index.md)
     - on 4 September 2019
     - about [André Cymone](../../../topics/andr-cymone/index.md), [Cloud guitar (instrument)](../../../topics/instrument/cloud-guitar/index.md), [Dave Rusan](../../../topics/dave-rusan/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md), [Sardonyx](../../../topics/sardonyx/index.md), [trademark](../../../topics/trademark/index.md)

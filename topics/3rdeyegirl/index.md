@@ -38,6 +38,7 @@
 ### 2019 December (4)
 
  - [**"Prince's Personal Photographer on What It Was Like to Work Closely with Him"**](https://www.yahoo.com/lifestyle/princes-personal-photographer-closely-him-140000320.html)
+    - by [Brianna Holt](../../authors/brianna-holt/index.md)
     - in [Yahoo! Lifestyle](../../publications/u-z/yahoo-lifestyle/index.md)
     - on 4 December 2019
     - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Elisa Fiorillo](../../topics/elisa-fiorillo/index.md), [Erotic City (song)](../../topics/song/erotic-city/index.md), [ping-pong](../../topics/ping-pong/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md)
@@ -112,7 +113,7 @@
 ### 2019 April (1)
 
  - [**"Sunday Sounds: Celebrating The Phenomenal Drummers Of Prince"**](https://drummagazine.com/sunday-sounds-prince-drummers-sheila-e-bobby-z-john-blackwell-michael-bland-hannah-ford/)
-    - in [drummagazine.com](../../publications/a-e/drummagazine-com/index.md)
+    - in [DRUM Magazine](../../publications/a-e/drum-magazine/index.md)
     - on 21 April 2019
     - about [3121 (album)](../../topics/album/3121/index.md), [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Around The World In A Day (album)](../../topics/album/around-the-world-in-a-day/index.md), [Hannah Welton](../../topics/hannah-welton/index.md), [Michael Bland](../../topics/michael-bland/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Parade (album)](../../topics/album/parade/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Revolution](../../topics/the-revolution/index.md), [U Got the Look (song)](../../topics/song/u-got-the-look/index.md), [YouTube](../../topics/youtube/index.md)
     - ([mirror](https://web.archive.org/web/*/https://drummagazine.com/sunday-sounds-prince-drummers-sheila-e-bobby-z-john-blackwell-michael-bland-hannah-ford/))

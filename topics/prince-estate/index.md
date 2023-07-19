@@ -1,8 +1,17 @@
 # Prince Estate
 
-## 2023 (3)
+## 2023 (4)
 
-### 2023 July (3)
+### 2023 July (4)
+
+ - [**"Paisley Park Opens the Vault for Two Prince Songs -- The Prince estate shared two new tracks from the legendary artist's vault."**](https://mspmag.com/arts-and-culture/paisley-parks-opens-the-vault-for-two-new-prince-songs/)
+    - by [Paige Schuller](../../authors/paige-schuller/index.md)
+    - in [Mpls.St.Paul Magazine](../../publications/k-o/mpls-st-paul-magazine/index.md)
+    - on 12 July 2023
+    - about [All A Share Together Now (song)](../../topics/song/all-a-share-together-now/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://mspmag.com/arts-and-culture/paisley-parks-opens-the-vault-for-two-new-prince-songs/))
+
+<br />
 
  - [**"Prince estate releases two unreleased tracks -- Previously unreleased tracks "All A Share Together Now" and "7 (E Flat Version)" are available on streaming platforms worldwide."**](https://thegrio.com/2023/07/07/prince-estate-releases-two-unreleased-tracks/)
     - in [thegrio.com](../../publications/p-t/thegrio-com/index.md)
