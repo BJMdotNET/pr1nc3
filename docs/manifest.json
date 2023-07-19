@@ -423,6 +423,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "authors/ben-rogerson/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/ben-rogerson/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "authors/bill-donahue/index.md",
       "output": {
         ".html": {
@@ -457,6 +467,16 @@
       "output": {
         ".html": {
           "relative_path": "authors/brian-truitt/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "authors/brianna-holt/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/brianna-holt/index.html"
         }
       },
       "version": ""
@@ -707,6 +727,16 @@
       "output": {
         ".html": {
           "relative_path": "authors/dean-budnick/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "authors/debbie-gibson/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/debbie-gibson/index.html"
         }
       },
       "version": ""
@@ -1073,10 +1103,30 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "authors/jesse-schedeen/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/jesse-schedeen/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "authors/jessica-gresko/index.md",
       "output": {
         ".html": {
           "relative_path": "authors/jessica-gresko/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "authors/jessy-bains/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/jessy-bains/index.html"
         }
       },
       "version": ""
@@ -1133,6 +1183,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "authors/jon-wiederhorn/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/jon-wiederhorn/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "authors/jon-winkler/index.md",
       "output": {
         ".html": {
@@ -1143,10 +1203,30 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "authors/jonathan-horsley/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/jonathan-horsley/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "authors/julia-schiff/index.md",
       "output": {
         ".html": {
           "relative_path": "authors/julia-schiff/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "authors/justine-jones/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/justine-jones/index.html"
         }
       },
       "version": ""
@@ -1277,6 +1357,16 @@
       "output": {
         ".html": {
           "relative_path": "authors/lydia-moran/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "authors/lyndsey-parker/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/lyndsey-parker/index.html"
         }
       },
       "version": ""
@@ -1453,6 +1543,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "authors/mike-walters/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/mike-walters/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "authors/neal-justin/index.md",
       "output": {
         ".html": {
@@ -1513,6 +1613,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "authors/paige-schuller/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/paige-schuller/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "authors/pam-louwagie/index.md",
       "output": {
         ".html": {
@@ -1557,6 +1667,16 @@
       "output": {
         ".html": {
           "relative_path": "authors/paul-walsh/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "authors/peter-diamond/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/peter-diamond/index.html"
         }
       },
       "version": ""
@@ -1617,6 +1737,16 @@
       "output": {
         ".html": {
           "relative_path": "authors/rob-harvilla/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "authors/rob-perez/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/rob-perez/index.html"
         }
       },
       "version": ""
@@ -5458,53 +5588,53 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "publications/a-e/drummagazine-com/drummagazine-com-2013.md",
+      "source_relative_path": "publications/a-e/drum-magazine/drum-magazine-2013.md",
       "output": {
         ".html": {
-          "relative_path": "publications/a-e/drummagazine-com/drummagazine-com-2013.html"
+          "relative_path": "publications/a-e/drum-magazine/drum-magazine-2013.html"
         }
       },
       "version": ""
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "publications/a-e/drummagazine-com/drummagazine-com-2019.md",
+      "source_relative_path": "publications/a-e/drum-magazine/drum-magazine-2019.md",
       "output": {
         ".html": {
-          "relative_path": "publications/a-e/drummagazine-com/drummagazine-com-2019.html"
+          "relative_path": "publications/a-e/drum-magazine/drum-magazine-2019.html"
         }
       },
       "version": ""
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "publications/a-e/drummagazine-com/drummagazine-com-2020.md",
+      "source_relative_path": "publications/a-e/drum-magazine/drum-magazine-2020.md",
       "output": {
         ".html": {
-          "relative_path": "publications/a-e/drummagazine-com/drummagazine-com-2020.html"
+          "relative_path": "publications/a-e/drum-magazine/drum-magazine-2020.html"
         }
       },
       "version": ""
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "publications/a-e/drummagazine-com/index.md",
+      "source_relative_path": "publications/a-e/drum-magazine/index.md",
       "output": {
         ".html": {
-          "relative_path": "publications/a-e/drummagazine-com/index.html"
+          "relative_path": "publications/a-e/drum-magazine/index.html"
         }
       },
       "version": ""
     },
     {
       "type": "Toc",
-      "source_relative_path": "publications/a-e/drummagazine-com/toc.yml",
+      "source_relative_path": "publications/a-e/drum-magazine/toc.yml",
       "output": {
         ".html": {
-          "relative_path": "publications/a-e/drummagazine-com/toc.html"
+          "relative_path": "publications/a-e/drum-magazine/toc.html"
         },
         ".json": {
-          "relative_path": "publications/a-e/drummagazine-com/toc.json"
+          "relative_path": "publications/a-e/drum-magazine/toc.json"
         }
       },
       "version": ""
@@ -9724,6 +9854,39 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "publications/k-o/mpls-st-paul-magazine-http/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/k-o/mpls-st-paul-magazine-http/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/k-o/mpls-st-paul-magazine-http/mpls-st-paul-magazine-http-2020.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/k-o/mpls-st-paul-magazine-http/mpls-st-paul-magazine-http-2020.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "publications/k-o/mpls-st-paul-magazine-http/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "publications/k-o/mpls-st-paul-magazine-http/toc.html"
+        },
+        ".json": {
+          "relative_path": "publications/k-o/mpls-st-paul-magazine-http/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "publications/k-o/mpls-st-paul-magazine/index.md",
       "output": {
         ".html": {
@@ -9734,10 +9897,30 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "publications/k-o/mpls-st-paul-magazine/mpls-st-paul-magazine-2020.md",
+      "source_relative_path": "publications/k-o/mpls-st-paul-magazine/mpls-st-paul-magazine-2019.md",
       "output": {
         ".html": {
-          "relative_path": "publications/k-o/mpls-st-paul-magazine/mpls-st-paul-magazine-2020.html"
+          "relative_path": "publications/k-o/mpls-st-paul-magazine/mpls-st-paul-magazine-2019.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/k-o/mpls-st-paul-magazine/mpls-st-paul-magazine-2021.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/k-o/mpls-st-paul-magazine/mpls-st-paul-magazine-2021.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/k-o/mpls-st-paul-magazine/mpls-st-paul-magazine-2022.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/k-o/mpls-st-paul-magazine/mpls-st-paul-magazine-2022.html"
         }
       },
       "version": ""
@@ -11674,33 +11857,33 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "publications/p-t/prnalumni-org/index.md",
+      "source_relative_path": "publications/p-t/prn-alumni/index.md",
       "output": {
         ".html": {
-          "relative_path": "publications/p-t/prnalumni-org/index.html"
+          "relative_path": "publications/p-t/prn-alumni/index.html"
         }
       },
       "version": ""
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "publications/p-t/prnalumni-org/prnalumni-org-2019.md",
+      "source_relative_path": "publications/p-t/prn-alumni/prn-alumni-2019.md",
       "output": {
         ".html": {
-          "relative_path": "publications/p-t/prnalumni-org/prnalumni-org-2019.html"
+          "relative_path": "publications/p-t/prn-alumni/prn-alumni-2019.html"
         }
       },
       "version": ""
     },
     {
       "type": "Toc",
-      "source_relative_path": "publications/p-t/prnalumni-org/toc.yml",
+      "source_relative_path": "publications/p-t/prn-alumni/toc.yml",
       "output": {
         ".html": {
-          "relative_path": "publications/p-t/prnalumni-org/toc.html"
+          "relative_path": "publications/p-t/prn-alumni/toc.html"
         },
         ".json": {
-          "relative_path": "publications/p-t/prnalumni-org/toc.json"
+          "relative_path": "publications/p-t/prn-alumni/toc.json"
         }
       },
       "version": ""
@@ -16589,6 +16772,39 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "publications/u-z/www-ign-com/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/u-z/www-ign-com/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "publications/u-z/www-ign-com/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "publications/u-z/www-ign-com/toc.html"
+        },
+        ".json": {
+          "relative_path": "publications/u-z/www-ign-com/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/u-z/www-ign-com/www-ign-com-2021.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/u-z/www-ign-com/www-ign-com-2021.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "publications/u-z/yahoo-entertainment/index.md",
       "output": {
         ".html": {
@@ -18713,6 +18929,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/book/graphic-novel/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/book/graphic-novel/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/book/i-would-die-4-u/index.md",
       "output": {
         ".html": {
@@ -18757,6 +18983,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/book/mo-meta-blues/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/book/mpls-sound/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/book/mpls-sound/index.html"
         }
       },
       "version": ""
@@ -19937,6 +20173,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/de-angela-duff/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/debbie-gibson/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/debbie-gibson/index.html"
         }
       },
       "version": ""
@@ -21443,6 +21689,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/hannibal-tabu/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/hannibal-tabu/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/hdmg/index.md",
       "output": {
         ".html": {
@@ -22133,6 +22389,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/jen-bartel/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/jen-bartel/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/jeremiah-freed/index.md",
       "output": {
         ".html": {
@@ -22487,6 +22753,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/joseph-daniel-camp-jr/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/joseph-illidge/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/joseph-illidge/index.html"
         }
       },
       "version": ""
@@ -23857,6 +24133,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/merchandise/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/meredith-laxton/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/meredith-laxton/index.html"
         }
       },
       "version": ""
@@ -27863,6 +28149,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/song/alphabet-street/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/song/alphabet-street/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/song/animal-kingdom/index.md",
       "output": {
         ".html": {
@@ -30097,6 +30393,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/tamron-hall/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/tan-shu/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/tan-shu/index.html"
         }
       },
       "version": ""
