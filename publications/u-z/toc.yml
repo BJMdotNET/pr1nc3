@@ -17,9 +17,6 @@ items:
 - name: Uncut
   href: uncut/index.md
   homepage: uncut/index.md
-- name: Under the Radar
-  href: under-the-radar_1/index.md
-  homepage: under-the-radar_1/index.md
 - name: Under The Radar
   href: under-the-radar/index.md
   homepage: under-the-radar/index.md

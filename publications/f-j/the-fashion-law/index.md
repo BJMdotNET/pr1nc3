@@ -3,6 +3,7 @@
 ## Links by year
 
   * [2020](./the-fashion-law-2020.md) (1)
+  * [2019](./the-fashion-law-2019.md) (1)
 
 ## Homepage
 
