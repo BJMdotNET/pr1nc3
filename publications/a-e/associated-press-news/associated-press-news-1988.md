@@ -1,4 +1,4 @@
-# 1988
+# Associated Press News: 1988
 
 ## July 1988 (1)
 

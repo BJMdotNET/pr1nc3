@@ -1,4 +1,4 @@
-# 2019
+# theblast.com: 2019
 
 ## October 2019 (1)
 

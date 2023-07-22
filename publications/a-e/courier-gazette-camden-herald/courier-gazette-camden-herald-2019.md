@@ -1,4 +1,4 @@
-# 2019
+# Courier-Gazette & Camden Herald: 2019
 
 ## July 2019 (1)
 

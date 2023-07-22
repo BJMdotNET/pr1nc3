@@ -1,4 +1,4 @@
-# 2019
+# Far Out Magazine: 2019
 
 ## October 2019 (1)
 

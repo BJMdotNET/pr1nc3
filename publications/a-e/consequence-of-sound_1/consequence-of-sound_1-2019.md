@@ -1,4 +1,4 @@
-# 2019
+# Consequence of Sound: 2019
 
 ## October 2019 (2)
 

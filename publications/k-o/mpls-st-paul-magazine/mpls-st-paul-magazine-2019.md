@@ -1,4 +1,4 @@
-# 2019
+# Mpls.St.Paul Magazine: 2019
 
 ## December 2019 (1)
 

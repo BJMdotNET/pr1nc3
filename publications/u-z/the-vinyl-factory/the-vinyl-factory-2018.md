@@ -1,4 +1,4 @@
-# 2018
+# The Vinyl Factory: 2018
 
 ## August 2018 (1)
 

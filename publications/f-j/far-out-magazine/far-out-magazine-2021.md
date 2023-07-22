@@ -1,4 +1,4 @@
-# 2021
+# Far Out Magazine: 2021
 
 ## October 2021 (1)
 

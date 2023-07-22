@@ -1,4 +1,4 @@
-# 2022
+# Mpls.St.Paul Magazine: 2022
 
 ## June 2022 (1)
 

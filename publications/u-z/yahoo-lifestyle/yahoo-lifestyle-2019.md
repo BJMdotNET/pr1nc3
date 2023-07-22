@@ -1,4 +1,4 @@
-# 2019
+# Yahoo! Lifestyle: 2019
 
 ## December 2019 (1)
 

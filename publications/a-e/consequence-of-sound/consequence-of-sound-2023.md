@@ -1,4 +1,4 @@
-# 2023
+# Consequence of Sound: 2023
 
 ## July 2023 (1)
 

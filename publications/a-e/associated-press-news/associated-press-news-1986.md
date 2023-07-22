@@ -1,4 +1,4 @@
-# 1986
+# Associated Press News: 1986
 
 ## October 1986 (1)
 

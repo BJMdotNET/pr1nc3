@@ -1,4 +1,4 @@
-# 2022
+# digitalcinemareport.com: 2022
 
 ## June 2022 (1)
 

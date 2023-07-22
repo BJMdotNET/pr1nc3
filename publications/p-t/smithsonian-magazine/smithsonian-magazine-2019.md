@@ -1,4 +1,4 @@
-# 2019
+# Smithsonian Magazine: 2019
 
 ## September 2019 (1)
 

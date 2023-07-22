@@ -1,4 +1,4 @@
-# 2019
+# The Arkansas Democrat-Gazette: 2019
 
 ## September 2019 (1)
 

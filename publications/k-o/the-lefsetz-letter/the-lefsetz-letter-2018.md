@@ -1,4 +1,4 @@
-# 2018
+# The Lefsetz Letter: 2018
 
 ## June 2018 (1)
 

@@ -1,4 +1,4 @@
-# 2019
+# Las Vegas Review-Journal: 2019
 
 ## August 2019 (1)
 

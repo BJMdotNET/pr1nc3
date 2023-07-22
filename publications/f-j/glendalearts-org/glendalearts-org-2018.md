@@ -1,4 +1,4 @@
-# 2018
+# glendalearts.org: 2018
 
 ## May 2018 (1)
 

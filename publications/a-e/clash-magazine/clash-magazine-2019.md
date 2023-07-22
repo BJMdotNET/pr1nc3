@@ -1,4 +1,4 @@
-# 2019
+# Clash Magazine: 2019
 
 ## October 2019 (1)
 

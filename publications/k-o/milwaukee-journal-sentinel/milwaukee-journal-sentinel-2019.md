@@ -1,4 +1,4 @@
-# 2019
+# Milwaukee Journal Sentinel: 2019
 
 ## August 2019 (1)
 

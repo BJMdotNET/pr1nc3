@@ -3,7 +3,7 @@
   * [uDiscover Music](./udiscover-music/index.md) (1)
   * [Uncut](./uncut/index.md) (1)
   * [Under The Radar](./under-the-radar/index.md) (1)
-  * [Under the Radar](./under-the-radar/index.md) (1)
+  * [Under the Radar](./under-the-radar_1/index.md) (1)
   * [Uproxx](./uproxx/index.md) (2)
   * [UrbanBridgez.com](./urbanbridgez-com/index.md) (1)
   * [US Weekly](./us-weekly/index.md) (1)

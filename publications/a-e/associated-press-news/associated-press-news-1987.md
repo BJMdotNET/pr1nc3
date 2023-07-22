@@ -1,4 +1,4 @@
-# 1987
+# Associated Press News: 1987
 
 ## February 1987 (1)
 

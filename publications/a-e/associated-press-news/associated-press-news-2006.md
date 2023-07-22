@@ -1,4 +1,4 @@
-# 2006
+# Associated Press News: 2006
 
 ## July 2006 (1)
 

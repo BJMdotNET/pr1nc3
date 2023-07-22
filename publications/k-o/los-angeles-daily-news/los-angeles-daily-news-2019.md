@@ -1,4 +1,4 @@
-# 2019
+# Los Angeles Daily News: 2019
 
 ## October 2019 (1)
 

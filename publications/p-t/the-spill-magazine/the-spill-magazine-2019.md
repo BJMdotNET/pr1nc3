@@ -1,4 +1,4 @@
-# 2019
+# The Spill Magazine: 2019
 
 ## January 2019 (1)
 

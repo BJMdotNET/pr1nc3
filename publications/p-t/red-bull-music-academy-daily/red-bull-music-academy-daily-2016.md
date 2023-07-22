@@ -1,4 +1,4 @@
-# 2016
+# Red Bull Music Academy Daily: 2016
 
 ## December 2016 (1)
 

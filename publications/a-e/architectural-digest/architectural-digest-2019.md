@@ -1,4 +1,4 @@
-# 2019
+# Architectural Digest: 2019
 
 ## June 2019 (1)
 

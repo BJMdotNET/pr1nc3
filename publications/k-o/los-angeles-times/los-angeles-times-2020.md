@@ -1,4 +1,4 @@
-# 2020
+# Los Angeles Times: 2020
 
 ## January 2020 (2)
 

@@ -1,4 +1,4 @@
-# 2016
+# Premier Guitar: 2016
 
 ## June 2016 (1)
 

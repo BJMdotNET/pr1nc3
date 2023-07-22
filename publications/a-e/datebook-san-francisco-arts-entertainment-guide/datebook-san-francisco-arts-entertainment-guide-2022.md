@@ -1,4 +1,4 @@
-# 2022
+# Datebook - San Francisco Arts & Entertainment Guide: 2022
 
 ## November 2022 (1)
 

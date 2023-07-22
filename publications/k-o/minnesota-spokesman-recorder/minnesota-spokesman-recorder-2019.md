@@ -1,4 +1,4 @@
-# 2019
+# Minnesota Spokesman-Recorder: 2019
 
 ## December 2019 (1)
 

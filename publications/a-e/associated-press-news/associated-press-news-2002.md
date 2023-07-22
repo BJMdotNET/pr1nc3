@@ -1,4 +1,4 @@
-# 2002
+# Associated Press News: 2002
 
 ## September 2002 (1)
 

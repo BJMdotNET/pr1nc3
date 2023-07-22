@@ -1,7 +1,31 @@
 items:
+- name: Minneapolis Star Tribune - 1997
+  href: minneapolis-star-tribune-1997.md
+  homepage: minneapolis-star-tribune-1997.md
 - name: Minneapolis Star Tribune - 2003
   href: minneapolis-star-tribune-2003.md
   homepage: minneapolis-star-tribune-2003.md
+- name: Minneapolis Star Tribune - 2007
+  href: minneapolis-star-tribune-2007.md
+  homepage: minneapolis-star-tribune-2007.md
+- name: Minneapolis Star Tribune - 2008
+  href: minneapolis-star-tribune-2008.md
+  homepage: minneapolis-star-tribune-2008.md
+- name: Minneapolis Star Tribune - 2009
+  href: minneapolis-star-tribune-2009.md
+  homepage: minneapolis-star-tribune-2009.md
+- name: Minneapolis Star Tribune - 2010
+  href: minneapolis-star-tribune-2010.md
+  homepage: minneapolis-star-tribune-2010.md
+- name: Minneapolis Star Tribune - 2011
+  href: minneapolis-star-tribune-2011.md
+  homepage: minneapolis-star-tribune-2011.md
+- name: Minneapolis Star Tribune - 2012
+  href: minneapolis-star-tribune-2012.md
+  homepage: minneapolis-star-tribune-2012.md
+- name: Minneapolis Star Tribune - 2013
+  href: minneapolis-star-tribune-2013.md
+  homepage: minneapolis-star-tribune-2013.md
 - name: Minneapolis Star Tribune - 2015
   href: minneapolis-star-tribune-2015.md
   homepage: minneapolis-star-tribune-2015.md
@@ -20,6 +44,9 @@ items:
 - name: Minneapolis Star Tribune - 2020
   href: minneapolis-star-tribune-2020.md
   homepage: minneapolis-star-tribune-2020.md
+- name: Minneapolis Star Tribune - 2022
+  href: minneapolis-star-tribune-2022.md
+  homepage: minneapolis-star-tribune-2022.md
 - name: Minneapolis Star Tribune - 2023
   href: minneapolis-star-tribune-2023.md
   homepage: minneapolis-star-tribune-2023.md

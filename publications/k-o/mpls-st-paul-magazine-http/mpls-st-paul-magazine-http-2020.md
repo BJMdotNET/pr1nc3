@@ -1,4 +1,4 @@
-# 2020
+# Mpls.St.Paul Magazine (HTTP): 2020
 
 ## February 2020 (1)
 

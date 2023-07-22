@@ -1,4 +1,4 @@
-# 2019
+# Los Angeles Times: 2019
 
 ## November 2019 (1)
 

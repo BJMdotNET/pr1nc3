@@ -1,4 +1,4 @@
-# 2019
+# Santa Cruz Sentinel: 2019
 
 ## August 2019 (1)
 

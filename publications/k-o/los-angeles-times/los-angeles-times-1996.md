@@ -1,4 +1,4 @@
-# 1996
+# Los Angeles Times: 1996
 
 ## August 1996 (1)
 

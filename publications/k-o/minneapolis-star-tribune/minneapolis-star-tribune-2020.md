@@ -1,8 +1,34 @@
-# 2020
+# Minneapolis Star Tribune: 2020
+
+## September 2020 (3)
+
+ - [**"12 choice rarities in the deluxe reissue of Prince&#039;s &#039;Sign o&#039; the Times&#039;"**](https://www.startribune.com/sign-posts/572521301/)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 29 September 2020
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/sign-posts/572521301/))
+
+----
+
+ - [**"Massive reissue of Prince&#039;s best album shows he had &#039;no time for self-pity&#039; in 1987 -- The super-deluxe reissue of "Sign o' the Times" shows the masterwork still holds up — and then some."**](https://www.startribune.com/massive-reissue-of-his-best-album-shows-prince-had-no-time-for-self-pity-in-1987/572521361/)
+    - by [Jon Bream](../../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 24 September 2020
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/massive-reissue-of-his-best-album-shows-prince-had-no-time-for-self-pity-in-1987/572521361/))
+
+----
+
+ - [**"Bassist BrownMark&#039;s life with Prince & the Revolution detailed in new memoir -- Bandmate BrownMark: 'He left me in a hotel room for three days'"**](https://www.startribune.com/bassist-brownmark-s-life-with-prince-the-revolution-detailed-in-new-memoir/572371802/)
+    - by [Jon Bream](../../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 10 September 2020
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/bassist-brownmark-s-life-with-prince-the-revolution-detailed-in-new-memoir/572371802/))
+
+----
 
 ## July 2020 (1)
 
  - [**"Hear a 1979 version of Prince's '87 fave 'I Could Never Take the Place of Your Man'"**](https://www.startribune.com/hear-a-1979-version-of-prince-s-87-fave-i-could-never-take-the-place-of-your-man/571798022/)
+    - by [Jon Bream](../../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 17 July 2020
     - about [I Could Never Take The Place Of Your Man (song)](../../../topics/song/i-could-never-take-the-place-of-your-man/index.md), [Miles Davis](../../../topics/miles-davis/index.md)
@@ -21,6 +47,7 @@
 ----
 
  - [**"Prince's epic 'Sign o' the Times' to get super deluxe reissue on Sept. 25"**](https://www.startribune.com/prince-s-epic-sign-o-the-times-to-get-super-deluxe-reissue-on-sept-25/571488832/)
+    - by [Jon Bream](../../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 25 June 2020
     - about [Dave Chappelle](../../../topics/dave-chappelle/index.md), [Housequake (song)](../../../topics/song/housequake/index.md), [Jeff Katz](../../../topics/jeff-katz/index.md), [Lenny Kravitz](../../../topics/lenny-kravitz/index.md), [Love and Sex (song)](../../../topics/song/love-and-sex/index.md), [Miles Davis](../../../topics/miles-davis/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [Sign O' The Times (album)](../../../topics/album/sign-o-the-times/index.md), [Starfish And Coffee (song)](../../../topics/song/starfish-and-coffee/index.md), [The Prince Estate](../../../topics/the-prince-estate/index.md), [U Got the Look (song)](../../../topics/song/u-got-the-look/index.md), [vault](../../../topics/vault/index.md)
@@ -31,6 +58,7 @@
 ## March 2020 (1)
 
  - [**"Paisley Park gets a reboot: You can take cellphone pics, and even drink, too -- Four years after Prince's death, his Chanhassen studio has come alive again under a new director who's even allowing cellphones and alcohol."**](https://www.startribune.com/paisley-park-gets-a-reboot-you-can-take-cellphone-pics-and-even-drink-too/568554622/)
+    - by [Jon Bream](../../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 7 March 2020
     - about [1999 Super Deluxe (album)](../../../topics/album/1999-super-deluxe/index.md), [Alan Seiffert](../../../topics/alan-seiffert/index.md), [Andrea Bruce](../../../topics/andrea-bruce/index.md), [Angela Aycock](../../../topics/angela-aycock/index.md), [Beck](../../../topics/beck/index.md), [Celebration (event)](../../../topics/event/celebration/index.md), [Comerica](../../../topics/comerica/index.md), [Comerica Trust](../../../topics/comerica-trust/index.md), [exhibit](../../../topics/exhibit/index.md), [Graceland Holdings](../../../topics/graceland-holdings/index.md), [Joel Weinshanker](../../../topics/joel-weinshanker/index.md), [Justin Timberlake](../../../topics/justin-timberlake/index.md), [Kirk Johnson](../../../topics/kirk-johnson/index.md), [Lovesexy (tour)](../../../topics/tour/lovesexy/index.md), [Meshell Ndegeocello](../../../topics/meshell-ndegeocello/index.md), [Mitch Maguire](../../../topics/mitch-maguire/index.md), [museum](../../../topics/museum/index.md), [Super Bowl](../../../topics/super-bowl/index.md), [Trevor Guy](../../../topics/trevor-guy/index.md), [Twin Cities (place)](../../../topics/place/twin-cities/index.md)
@@ -105,15 +133,7 @@
 
 ----
 
-## January 2020 (14)
-
- - [**"Minnesota is often overlooked on a worldwide scale, but we have an amazing medical scene -- Images of 3M masks are widespread, which got me thinking."**](https://www.startribune.com/minnesota-is-often-overlooked-on-a-worldwide-scale-but-we-have-an-amazing-medical-scene/567438732/)
-    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
-    - on 30 January 2020
-    - about [Lizzo](../../../topics/lizzo/index.md), [University of Minnesota](../../../topics/university-of-minnesota/index.md)
-    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/minnesota-is-often-overlooked-on-a-worldwide-scale-but-we-have-an-amazing-medical-scene/567438732/))
-
-----
+## January 2020 (13)
 
  - [**"Minnesota is often overlooked on a worldwide scale, but we have an amazing medical scene -- Images of 3M masks are widespread, which got me thinking."**](https://www.startribune.com/minnesota-is-often-overlooked-on-a-worldwide-scale-but-we-have-an-amazing-medical-scene/567438732/)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)

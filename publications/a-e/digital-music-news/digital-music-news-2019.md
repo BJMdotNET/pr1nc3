@@ -1,4 +1,4 @@
-# 2019
+# Digital Music News: 2019
 
 ## October 2019 (1)
 

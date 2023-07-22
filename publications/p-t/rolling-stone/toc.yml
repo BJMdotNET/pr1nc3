@@ -1,13 +1,4 @@
 items:
-- name: Rolling Stone - 2016
-  href: rolling-stone-2016.md
-  homepage: rolling-stone-2016.md
-- name: Rolling Stone - 2018
-  href: rolling-stone-2018.md
-  homepage: rolling-stone-2018.md
-- name: Rolling Stone - 2019
-  href: rolling-stone-2019.md
-  homepage: rolling-stone-2019.md
-- name: Rolling Stone - 2020
-  href: rolling-stone-2020.md
-  homepage: rolling-stone-2020.md
+- name: Rolling Stone - 2023
+  href: rolling-stone-2023.md
+  homepage: rolling-stone-2023.md

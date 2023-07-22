@@ -1,4 +1,4 @@
-# 1994
+# Seattle Times Newspaper: 1994
 
 ## October 1994 (1)
 

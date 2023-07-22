@@ -1,4 +1,4 @@
-# 2013
+# DRUM Magazine: 2013
 
 ## October 2013 (1)
 

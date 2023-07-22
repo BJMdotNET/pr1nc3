@@ -1,4 +1,4 @@
-# 2016
+# Minnesota Monthly: 2016
 
 ## September 2016 (1)
 

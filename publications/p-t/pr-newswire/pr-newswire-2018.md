@@ -1,4 +1,4 @@
-# 2018
+# PR Newswire: 2018
 
 ## December 2018 (1)
 

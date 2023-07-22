@@ -1,4 +1,4 @@
-# 2017
+# ASMP -- American Society of Media Photographers: 2017
 
 ## September 2017 (1)
 

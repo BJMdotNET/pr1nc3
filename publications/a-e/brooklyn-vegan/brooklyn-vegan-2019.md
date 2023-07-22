@@ -1,4 +1,4 @@
-# 2019
+# Brooklyn Vegan: 2019
 
 ## July 2019 (1)
 

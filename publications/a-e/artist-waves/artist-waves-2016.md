@@ -1,4 +1,4 @@
-# 2016
+# Artist Waves: 2016
 
 ## April 2016 (1)
 

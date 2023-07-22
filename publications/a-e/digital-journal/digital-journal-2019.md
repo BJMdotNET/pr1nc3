@@ -1,4 +1,4 @@
-# 2019
+# Digital Journal: 2019
 
 ## September 2019 (1)
 

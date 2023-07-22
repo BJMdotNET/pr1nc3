@@ -1,4 +1,4 @@
-# 2019
+# The New Yorker: 2019
 
 ## October 2019 (1)
 

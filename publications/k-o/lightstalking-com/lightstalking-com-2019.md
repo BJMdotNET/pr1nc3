@@ -1,4 +1,4 @@
-# 2019
+# lightstalking.com: 2019
 
 ## November 2019 (1)
 

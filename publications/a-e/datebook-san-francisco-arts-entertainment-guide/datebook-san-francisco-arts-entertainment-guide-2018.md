@@ -1,4 +1,4 @@
-# 2018
+# Datebook - San Francisco Arts & Entertainment Guide: 2018
 
 ## October 2018 (1)
 

@@ -1,4 +1,4 @@
-# 2019
+# The Chronicle Herald: 2019
 
 ## July 2019 (1)
 

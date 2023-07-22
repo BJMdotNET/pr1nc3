@@ -1,4 +1,4 @@
-# 2019
+# Paste Magazine: 2019
 
 ## December 2019 (1)
 

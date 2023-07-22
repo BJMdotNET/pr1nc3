@@ -1,4 +1,4 @@
-# 2023
+# Far Out Magazine: 2023
 
 ## July 2023 (1)
 

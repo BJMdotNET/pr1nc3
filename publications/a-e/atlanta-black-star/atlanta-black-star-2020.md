@@ -1,4 +1,4 @@
-# 2020
+# Atlanta Black Star: 2020
 
 ## January 2020 (1)
 

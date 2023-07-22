@@ -1,4 +1,4 @@
-# 1989
+# Los Angeles Times: 1989
 
 ## January 1989 (1)
 

@@ -1,4 +1,4 @@
-# 2016
+# Red Bull Music Academy: 2016
 
 ## December 2016 (1)
 

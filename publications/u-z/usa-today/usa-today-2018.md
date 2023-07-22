@@ -1,4 +1,4 @@
-# 2018
+# USA Today: 2018
 
 ## December 2018 (1)
 

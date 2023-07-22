@@ -1,4 +1,4 @@
-# 2020
+# DRUM Magazine: 2020
 
 ## February 2020 (1)
 

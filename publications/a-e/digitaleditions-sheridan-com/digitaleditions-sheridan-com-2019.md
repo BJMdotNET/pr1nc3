@@ -1,4 +1,4 @@
-# 2019
+# digitaleditions.sheridan.com: 2019
 
 ## January 2019 (1)
 

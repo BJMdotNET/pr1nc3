@@ -1,4 +1,4 @@
-# 1987
+# Los Angeles Times: 1987
 
 ## May 1987 (1)
 

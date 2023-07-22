@@ -1,4 +1,4 @@
-# 2019
+# The Hollywood Reporter: 2019
 
 ## October 2019 (2)
 

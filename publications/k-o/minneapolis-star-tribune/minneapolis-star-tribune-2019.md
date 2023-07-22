@@ -1,4 +1,4 @@
-# 2019
+# Minneapolis Star Tribune: 2019
 
 ## December 2019 (8)
 

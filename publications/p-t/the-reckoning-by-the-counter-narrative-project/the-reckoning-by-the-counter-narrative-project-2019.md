@@ -1,4 +1,4 @@
-# 2019
+# The Reckoning by The Counter Narrative Project: 2019
 
 ## May 2019 (1)
 

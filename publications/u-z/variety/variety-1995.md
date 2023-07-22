@@ -1,4 +1,4 @@
-# 1995
+# Variety: 1995
 
 ## September 1995 (1)
 

@@ -1,4 +1,4 @@
-# 2019
+# Bass Magazine: 2019
 
 ## July 2019 (1)
 
