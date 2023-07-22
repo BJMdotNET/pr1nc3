@@ -623,6 +623,9 @@ items:
 - name: Celebration 2020 (event)
   href: event/celebration-2020/index.md
   homepage: event/celebration-2020/index.md
+- name: Celebration 2022 (event)
+  href: event/celebration-2022/index.md
+  homepage: event/celebration-2022/index.md
 - name: Celebration 2023 (event)
   href: event/celebration-2023/index.md
   homepage: event/celebration-2023/index.md
@@ -758,6 +761,9 @@ items:
 - name: Club Nokia (place)
   href: place/club-nokia/index.md
   homepage: place/club-nokia/index.md
+- name: Coachella (event)
+  href: event/coachella/index.md
+  homepage: event/coachella/index.md
 - name: Cold Coffee & Cocaine (song)
   href: song/cold-coffee-cocaine/index.md
   homepage: song/cold-coffee-cocaine/index.md
@@ -3371,6 +3377,9 @@ items:
 - name: Robert Hilburn
   href: robert-hilburn/index.md
   homepage: robert-hilburn/index.md
+- name: Robert Smith
+  href: robert-smith/index.md
+  homepage: robert-smith/index.md
 - name: Robert Strauss
   href: robert-strauss/index.md
   homepage: robert-strauss/index.md

@@ -21,23 +21,15 @@
 
 ----
 
-## 2020 (7)
+## 2020 (6)
 
-### 2020 January (7)
+### 2020 January (6)
 
  - [**"Sister act: Minneapolis actors return from New York to play siblings in dark comedy ‘Peerless’"**](https://www.twincities.com/2020/01/31/sister-act-minneapolis-actors-return-from-new-york-to-play-siblings-in-dark-comedy-peerless/)
     - in [TwinCities.com - Pioneer Press](../../publications/p-t/twincities-com-pioneer-press/index.md)
     - on 31 January 2020
     - about [Chanhassen Dinner Theatres](../../topics/chanhassen-dinner-theatres/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2020/01/31/sister-act-minneapolis-actors-return-from-new-york-to-play-siblings-in-dark-comedy-peerless/))
-
-<br />
-
- - [**"Minnesota is often overlooked on a worldwide scale, but we have an amazing medical scene -- Images of 3M masks are widespread, which got me thinking."**](https://www.startribune.com/minnesota-is-often-overlooked-on-a-worldwide-scale-but-we-have-an-amazing-medical-scene/567438732/)
-    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
-    - on 30 January 2020
-    - about [Lizzo](../../topics/lizzo/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md)
-    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/minnesota-is-often-overlooked-on-a-worldwide-scale-but-we-have-an-amazing-medical-scene/567438732/))
 
 <br />
 

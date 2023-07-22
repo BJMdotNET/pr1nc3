@@ -18,7 +18,7 @@
   * [California (place)](../place/california/index.md) (7)
   * [Camden Palace (place)](../place/camden-palace/index.md) (1)
   * [Capitol Guitars (place)](../place/capitol-guitars/index.md) (1)
-  * [Capri Theater (place)](../place/capri-theater/index.md) (8)
+  * [Capri Theater (place)](../place/capri-theater/index.md) (9)
   * [Capri Theatre (place)](../place/capri-theatre/index.md) (1)
   * [Caribou (place)](../place/caribou/index.md) (1)
   * [Carrier Dome (place)](../place/carrier-dome/index.md) (6)
@@ -119,7 +119,7 @@
   * [Superdome (place)](../place/superdome/index.md) (5)
   * [Switzerland (place)](../place/switzerland/index.md) (1)
   * [Syracuse (place)](../place/syracuse/index.md) (7)
-  * [Target Center (place)](../place/target-center/index.md) (5)
+  * [Target Center (place)](../place/target-center/index.md) (6)
   * [Texas (place)](../place/texas/index.md) (2)
   * [The Coliseum (place)](../place/the-coliseum/index.md) (2)
   * [The Complex (place)](../place/the-complex/index.md) (1)
@@ -136,7 +136,7 @@
   * [Wayzata (place)](../place/wayzata/index.md) (1)
   * [Weisman Art Museum (place)](../place/weisman-art-museum/index.md) (4)
   * [White House (place)](../place/white-house/index.md) (9)
-  * [Xcel Energy Center (place)](../place/xcel-energy-center/index.md) (24)
+  * [Xcel Energy Center (place)](../place/xcel-energy-center/index.md) (25)
 
 ----
 

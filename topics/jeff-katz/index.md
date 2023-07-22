@@ -26,6 +26,7 @@
 <br />
 
  - [**"Prince's epic 'Sign o' the Times' to get super deluxe reissue on Sept. 25"**](https://www.startribune.com/prince-s-epic-sign-o-the-times-to-get-super-deluxe-reissue-on-sept-25/571488832/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 25 June 2020
     - about [Dave Chappelle](../../topics/dave-chappelle/index.md), [Housequake (song)](../../topics/song/housequake/index.md), [Jeff Katz](../../topics/jeff-katz/index.md), [Lenny Kravitz](../../topics/lenny-kravitz/index.md), [Love and Sex (song)](../../topics/song/love-and-sex/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Sign O' The Times (album)](../../topics/album/sign-o-the-times/index.md), [Starfish And Coffee (song)](../../topics/song/starfish-and-coffee/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [U Got the Look (song)](../../topics/song/u-got-the-look/index.md), [vault](../../topics/vault/index.md)

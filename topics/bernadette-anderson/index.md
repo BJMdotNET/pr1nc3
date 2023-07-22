@@ -1,5 +1,17 @@
 # Bernadette Anderson
 
+## 2023 (1)
+
+### 2023 July (1)
+
+ - [**"Bernadette Anderson"**](https://www.startribune.com/obituaries/detail/951297/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 22 July 2023
+    - about [Bernadette Anderson](../../topics/bernadette-anderson/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/obituaries/detail/951297/))
+
+----
+
 ## 2022 (2)
 
 ### 2022 April (2)

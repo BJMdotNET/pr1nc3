@@ -1,5 +1,18 @@
 # Beyoncé
 
+## 2023 (1)
+
+### 2023 July (1)
+
+ - [**"Review: Erykah Badu is mesmerizing, magical in St. Paul concert -- The high priestess of neo-soul offered an evolved concept for sound, messages and visuals."**](https://www.startribune.com/erykah-badu-mos-def-yasiin-bey-prince-david-bowie-janelle-monae-beyonce-st-paul-xcel-energy-center/600286804/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 1 July 2023
+    - about [Beyoncé](../../topics/beyonc/index.md), [Janelle Monáe](../../topics/janelle-mon-e/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/erykah-badu-mos-def-yasiin-bey-prince-david-bowie-janelle-monae-beyonce-st-paul-xcel-energy-center/600286804/))
+
+----
+
 ## 2020 (9)
 
 ### 2020 January (9)

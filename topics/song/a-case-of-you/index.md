@@ -1,5 +1,18 @@
 # A Case of You (song)
 
+## 2023 (1)
+
+### 2023 June (1)
+
+ - [**"6 cool things in music this week include Joni Mitchell, Rhiannon Giddens and Stokley -- Shoutouts, too, to Known Mpls and Maren Morris as LGBTQ ally."**](https://www.startribune.com/joni-mitchell-rhiannon-giddens-stokley-known-mpls-prince-maren-morris-gorge-brandi-carlile-ojai/600283114/)
+    - by [Jon Bream](../../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 16 June 2023
+    - about [A Case of You (song)](../../../topics/song/a-case-of-you/index.md), [Joni Mitchell](../../../topics/joni-mitchell/index.md), [Prince Legacy LLC](../../../topics/prince-legacy-llc/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/joni-mitchell-rhiannon-giddens-stokley-known-mpls-prince-maren-morris-gorge-brandi-carlile-ojai/600283114/))
+
+----
+
 ## 2018 (14)
 
 ### 2018 October (3)

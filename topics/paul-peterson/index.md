@@ -80,4 +80,16 @@
 
 ----
 
+## 2008 (1)
+
+### 2008 May (1)
+
+ - [**"Music: A New Day Rising at Old Blackberry Way -- Minneapolis' fabled Dinkytown studio is rocking again, and not just because of nostalgia for its glory days."**](https://www.startribune.com/music-a-new-day-rising-at-old-blackberry-way/18451509/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 1 May 2008
+    - about [Kirk Johnson](../../topics/kirk-johnson/index.md), [Paul Peterson](../../topics/paul-peterson/index.md), [Soul Asylum](../../topics/soul-asylum/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/music-a-new-day-rising-at-old-blackberry-way/18451509/))
+
+----
+
 [Home](../index.md)

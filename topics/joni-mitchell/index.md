@@ -1,8 +1,17 @@
 # Joni Mitchell
 
-## 2023 (3)
+## 2023 (4)
 
-### 2023 June (3)
+### 2023 June (4)
+
+ - [**"6 cool things in music this week include Joni Mitchell, Rhiannon Giddens and Stokley -- Shoutouts, too, to Known Mpls and Maren Morris as LGBTQ ally."**](https://www.startribune.com/joni-mitchell-rhiannon-giddens-stokley-known-mpls-prince-maren-morris-gorge-brandi-carlile-ojai/600283114/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 16 June 2023
+    - about [A Case of You (song)](../../topics/song/a-case-of-you/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Prince Legacy LLC](../../topics/prince-legacy-llc/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/joni-mitchell-rhiannon-giddens-stokley-known-mpls-prince-maren-morris-gorge-brandi-carlile-ojai/600283114/))
+
+<br />
 
  - [**"Meet Joni Mitchell’s Joni Jam Crew -- A cast of musicians, led by Brandi Carlile, joined the 79-year-old singer and songwriter onstage at the Gorge in Washington on Saturday."**](https://www.nytimes.com/2023/06/13/arts/music/amplifier-newsletter-joni-mitchell-jam.html)
     - by [Lindsay Zoladz](../../authors/lindsay-zoladz/index.md)

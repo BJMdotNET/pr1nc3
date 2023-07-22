@@ -22,6 +22,19 @@
 
 ----
 
+## 2022 (1)
+
+### 2022 June (1)
+
+ - [**"Parties weren't meant to last: Highlights from two long, exciting days at Prince's Celebration 2022 at Paisley Park -- And some suggestions for future celebrations such as enlisting more A-list performers"**](https://www.startribune.com/highlights-from-two-long-exhilarating-days-at-prince-celebration-2022-at-paisley-park-mayte-garcia/600179523/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 5 June 2022
+    - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Alicia Keys](../../topics/alicia-keys/index.md), [BrownMark](../../topics/brownmark/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [Celebration 2022 (event)](../../topics/event/celebration-2022/index.md), [Chanhassen Dinner Theatres](../../topics/chanhassen-dinner-theatres/index.md), [De Angela Duff](../../topics/de-angela-duff/index.md), [Donna Grantis](../../topics/donna-grantis/index.md), [Elliott Powell](../../topics/elliott-powell/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [Hannah Welton](../../topics/hannah-welton/index.md), [Ida Nielsen](../../topics/ida-nielsen/index.md), [Janelle Monae](../../topics/janelle-monae/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Joshua Welton](../../topics/joshua-welton/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Lenny Kravitz](../../topics/lenny-kravitz/index.md), [Levi Seacer](../../topics/levi-seacer/index.md), [Levi Seacer, Jr.](../../topics/levi-seacer-jr/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Mazarati](../../topics/mazarati/index.md), [Nichole Nordeman](../../topics/nichole-nordeman/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Prince and The Revolution](../../topics/prince-and-the-revolution/index.md), [Questlove](../../topics/questlove/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md), [Sounds of Blackness](../../topics/sounds-of-blackness/index.md), [Stokley](../../topics/stokley/index.md), [Target Center (place)](../../topics/place/target-center/index.md), [Tommy Barbarella](../../topics/tommy-barbarella/index.md), [Zaheer Ali](../../topics/zaheer-ali/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/highlights-from-two-long-exhilarating-days-at-prince-celebration-2022-at-paisley-park-mayte-garcia/600179523/))
+
+----
+
 ## 2020 (1)
 
 ### 2020 January (1)
@@ -387,6 +400,18 @@
 
 ----
 
+## 2013 (1)
+
+### 2013 May (1)
+
+ - [**"Funeral for Prince&#039;s half-brother, Duane Nelson, is Saturday -- A funeral service is planned Saturday for Prince's half-brother, Duane Nelson, who died last week."**](https://www.startribune.com/funeral-for-prince-s-half-brother-duane-nelson-is-saturday/117755303/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 3 May 2013
+    - about [Mayte Garcia](../../topics/mayte-garcia/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/funeral-for-prince-s-half-brother-duane-nelson-is-saturday/117755303/))
+
+----
+
 ## 2012 (1)
 
 ### 2012 June (1)
@@ -411,7 +436,7 @@
 
 ----
 
-## 1997 (1)
+## 1997 (2)
 
 ### 1997 June (1)
 
@@ -420,6 +445,17 @@
     - on 15 June 1997
     - about [Arlene Mojica](../../topics/arlene-mojica/index.md), [Boy Gregory](../../topics/boy-gregory/index.md), [Erlene Mojica](../../topics/erlene-mojica/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Pfeiffer syndrome type 2](../../topics/pfeiffer-syndrome-type-2/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/a34eb1b4bd83629fa6450e237a49cfbb))
+
+----
+
+### 1997 March (1)
+
+ - [**"2007: Death of baby born to Prince&#039;s wife under review"**](https://www.startribune.com/2007-death-of-baby-born-to-prince-s-wife-under-review/11466661/)
+    - by [Chris Graves](../../authors/chris-graves/index.md), [Chris Ison](../../authors/chris-ison/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 1 March 1997
+    - about [Arlene Mojica](../../topics/arlene-mojica/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/2007-death-of-baby-born-to-prince-s-wife-under-review/11466661/))
 
 ----
 

@@ -1,10 +1,24 @@
 # I Could Never Take The Place Of Your Man (song)
 
+## 2023 (1)
+
+### 2023 July (1)
+
+ - [**"Review: The Killers downsize in a big way for First Ave underplay gig -- Thursday's instantly sold-out show was a hastily announced warm-up gig to Friday's TC Summer Fest set at Target Field."**](https://www.startribune.com/review-the-killers-downsize-in-a-big-way-for-first-ave-underplay-gig-minneapolis-brandon-flowers/600289691/)
+    - by [Chris Riemenschneider](../../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 14 July 2023
+    - about [I Could Never Take The Place Of Your Man (song)](../../../topics/song/i-could-never-take-the-place-of-your-man/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/review-the-killers-downsize-in-a-big-way-for-first-ave-underplay-gig-minneapolis-brandon-flowers/600289691/))
+
+----
+
 ## 2020 (4)
 
 ### 2020 July (3)
 
  - [**"Hear a 1979 version of Prince's '87 fave 'I Could Never Take the Place of Your Man'"**](https://www.startribune.com/hear-a-1979-version-of-prince-s-87-fave-i-could-never-take-the-place-of-your-man/571798022/)
+    - by [Jon Bream](../../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 17 July 2020
     - about [I Could Never Take The Place Of Your Man (song)](../../../topics/song/i-could-never-take-the-place-of-your-man/index.md), [Miles Davis](../../../topics/miles-davis/index.md)

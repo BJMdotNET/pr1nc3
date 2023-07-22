@@ -1,6 +1,6 @@
 # Prince Estate
 
-## 2023 (4)
+## 2023 (5)
 
 ### 2023 July (4)
 
@@ -36,6 +36,17 @@
     - on 7 July 2023
     - about [All A Share Together Now (song)](../../topics/song/all-a-share-together-now/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [Love Symbol (album)](../../topics/album/love-symbol/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [vault](../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-news/prince-7-e-flat-version-all-a-share-together-now-1234784358/))
+
+----
+
+### 2023 June (1)
+
+ - [**"The good, the bad and the quotable at Prince Celebration 2023 at Paisley Park -- And some suggestions for next year's annual fan convention in Chanhassen."**](https://www.startribune.com/prince-celebration-2023-paisley-park-chuck-d-chaka-khan-doug-e-fresh-stokley-nur-d-nunnabove/600281951/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 12 June 2023
+    - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Alan Leeds](../../topics/alan-leeds/index.md), [Alicia Keys](../../topics/alicia-keys/index.md), [Bobby Z](../../topics/bobby-z/index.md), [Bruce Springsteen](../../topics/bruce-springsteen/index.md), [Capri Theater (place)](../../topics/place/capri-theater/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [Celebration 2023 (event)](../../topics/event/celebration-2023/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Charles Spicer](../../topics/charles-spicer/index.md), [Charlie Murphy](../../topics/charlie-murphy/index.md), [Don't Play With Love (song)](../../topics/song/don-t-play-with-love/index.md), [Doug E. Fresh](../../topics/doug-e-fresh/index.md), [Gilbert Davison](../../topics/gilbert-davison/index.md), [H.E.R.](../../topics/h-e-r/index.md), [Janelle Monae](../../topics/janelle-monae/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [Lenny Kravitz](../../topics/lenny-kravitz/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Michael Bland](../../topics/michael-bland/index.md), [Michael Pagnotta](../../topics/michael-pagnotta/index.md), [Obama](../../topics/obama/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Prince Legacy LLC](../../topics/prince-legacy-llc/index.md), [Questlove](../../topics/questlove/index.md), [Sounds of Blackness](../../topics/sounds-of-blackness/index.md), [Spike Lee](../../topics/spike-lee/index.md), [Stokley](../../topics/stokley/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Tim Burton](../../topics/tim-burton/index.md), [Trevor Guy](../../topics/trevor-guy/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-celebration-2023-paisley-park-chuck-d-chaka-khan-doug-e-fresh-stokley-nur-d-nunnabove/600281951/))
 
 ----
 
@@ -153,6 +164,7 @@
 <br />
 
  - [**"Prince's epic 'Sign o' the Times' to get super deluxe reissue on Sept. 25"**](https://www.startribune.com/prince-s-epic-sign-o-the-times-to-get-super-deluxe-reissue-on-sept-25/571488832/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 25 June 2020
     - about [Dave Chappelle](../../topics/dave-chappelle/index.md), [Housequake (song)](../../topics/song/housequake/index.md), [Jeff Katz](../../topics/jeff-katz/index.md), [Lenny Kravitz](../../topics/lenny-kravitz/index.md), [Love and Sex (song)](../../topics/song/love-and-sex/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Sign O' The Times (album)](../../topics/album/sign-o-the-times/index.md), [Starfish And Coffee (song)](../../topics/song/starfish-and-coffee/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [U Got the Look (song)](../../topics/song/u-got-the-look/index.md), [vault](../../topics/vault/index.md)
