@@ -23,6 +23,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "authors/aim-e-blanchette/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/aim-e-blanchette/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "authors/aimee-blanchette/index.md",
       "output": {
         ".html": {
@@ -473,6 +483,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "authors/briana-bierschbach/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/briana-bierschbach/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "authors/brianna-holt/index.md",
       "output": {
         ".html": {
@@ -487,6 +507,36 @@
       "output": {
         ".html": {
           "relative_path": "authors/brianne-tracy/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "authors/britt-robson/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/britt-robson/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "authors/brooks-johnson/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/brooks-johnson/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "authors/bruno-povejsil/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/bruno-povejsil/index.html"
         }
       },
       "version": ""
@@ -547,6 +597,36 @@
       "output": {
         ".html": {
           "relative_path": "authors/chao-xiong/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "authors/chris-graves/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/chris-graves/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "authors/chris-hewitt/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/chris-hewitt/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "authors/chris-ison/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/chris-ison/index.html"
         }
       },
       "version": ""
@@ -667,6 +747,16 @@
       "output": {
         ".html": {
           "relative_path": "authors/daniel-griffiths/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "authors/dave-berger/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/dave-berger/index.html"
         }
       },
       "version": ""
@@ -1003,6 +1093,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "authors/jay-boller/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/jay-boller/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "authors/jazz-monroe/index.md",
       "output": {
         ".html": {
@@ -1127,6 +1227,16 @@
       "output": {
         ".html": {
           "relative_path": "authors/jessy-bains/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "authors/jim-adams/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/jim-adams/index.html"
         }
       },
       "version": ""
@@ -1273,10 +1383,30 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "authors/kevin-canfield/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/kevin-canfield/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "authors/kevyn-burger/index.md",
       "output": {
         ".html": {
           "relative_path": "authors/kevyn-burger/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "authors/kim-ode/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/kim-ode/index.html"
         }
       },
       "version": ""
@@ -1303,10 +1433,30 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "authors/kristin-tillotson/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/kristin-tillotson/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "authors/la-velle-e-neal-iii/index.md",
       "output": {
         ".html": {
           "relative_path": "authors/la-velle-e-neal-iii/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "authors/larry-fuchsberg/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/larry-fuchsberg/index.html"
         }
       },
       "version": ""
@@ -1433,6 +1583,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "authors/mary-abbe/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/mary-abbe/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "authors/mary-lynn-smith/index.md",
       "output": {
         ".html": {
@@ -1503,6 +1663,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "authors/melissa-walker/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/melissa-walker/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "authors/michael-mitchell/index.md",
       "output": {
         ".html": {
@@ -1517,6 +1687,16 @@
       "output": {
         ".html": {
           "relative_path": "authors/michael-rand/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "authors/michael-rietmulder/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/michael-rietmulder/index.html"
         }
       },
       "version": ""
@@ -1553,6 +1733,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "authors/nancy-ngo/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/nancy-ngo/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "authors/neal-justin/index.md",
       "output": {
         ".html": {
@@ -1577,6 +1767,16 @@
       "output": {
         ".html": {
           "relative_path": "authors/nick-dager/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "authors/nicole-hvidsten/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/nicole-hvidsten/index.html"
         }
       },
       "version": ""
@@ -1893,6 +2093,26 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "authors/staff/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/staff/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "authors/star-tribune-staff/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/star-tribune-staff/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "authors/stefania-sarrubba/index.md",
       "output": {
         ".html": {
@@ -2110,6 +2330,16 @@
       "output": {
         ".html": {
           "relative_path": "authors/todd-mccarthy/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "authors/todd-nelson/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/todd-nelson/index.html"
         }
       },
       "version": ""
@@ -4848,16 +5078,6 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "publications/a-e/consequence-of-sound/consequence-of-sound-2019.md",
-      "output": {
-        ".html": {
-          "relative_path": "publications/a-e/consequence-of-sound/consequence-of-sound-2019.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
       "source_relative_path": "publications/a-e/consequence-of-sound/consequence-of-sound-2023.md",
       "output": {
         ".html": {
@@ -4885,6 +5105,39 @@
         },
         ".json": {
           "relative_path": "publications/a-e/consequence-of-sound/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/a-e/consequence-of-sound_1/consequence-of-sound_1-2019.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/a-e/consequence-of-sound_1/consequence-of-sound_1-2019.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/a-e/consequence-of-sound_1/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/a-e/consequence-of-sound_1/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "publications/a-e/consequence-of-sound_1/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "publications/a-e/consequence-of-sound_1/toc.html"
+        },
+        ".json": {
+          "relative_path": "publications/a-e/consequence-of-sound_1/toc.json"
         }
       },
       "version": ""
@@ -6639,16 +6892,6 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "publications/f-j/fox-9/fox-9-2016.md",
-      "output": {
-        ".html": {
-          "relative_path": "publications/f-j/fox-9/fox-9-2016.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
       "source_relative_path": "publications/f-j/fox-9/fox-9-2023.md",
       "output": {
         ".html": {
@@ -6676,6 +6919,39 @@
         },
         ".json": {
           "relative_path": "publications/f-j/fox-9/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/f-j/fox-9_1/fox-9_1-2016.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/f-j/fox-9_1/fox-9_1-2016.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/f-j/fox-9_1/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/f-j/fox-9_1/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "publications/f-j/fox-9_1/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "publications/f-j/fox-9_1/toc.html"
+        },
+        ".json": {
+          "relative_path": "publications/f-j/fox-9_1/toc.json"
         }
       },
       "version": ""
@@ -7957,16 +8233,6 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "publications/f-j/the-fashion-law/the-fashion-law-2019.md",
-      "output": {
-        ".html": {
-          "relative_path": "publications/f-j/the-fashion-law/the-fashion-law-2019.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
       "source_relative_path": "publications/f-j/the-fashion-law/the-fashion-law-2020.md",
       "output": {
         ".html": {
@@ -7984,6 +8250,39 @@
         },
         ".json": {
           "relative_path": "publications/f-j/the-fashion-law/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/f-j/the-fashion-law_1/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/f-j/the-fashion-law_1/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/f-j/the-fashion-law_1/the-fashion-law_1-2019.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/f-j/the-fashion-law_1/the-fashion-law_1-2019.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "publications/f-j/the-fashion-law_1/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "publications/f-j/the-fashion-law_1/toc.html"
+        },
+        ".json": {
+          "relative_path": "publications/f-j/the-fashion-law_1/toc.json"
         }
       },
       "version": ""
@@ -9543,10 +9842,90 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "publications/k-o/minneapolis-star-tribune/minneapolis-star-tribune-1997.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/k-o/minneapolis-star-tribune/minneapolis-star-tribune-1997.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "publications/k-o/minneapolis-star-tribune/minneapolis-star-tribune-2003.md",
       "output": {
         ".html": {
           "relative_path": "publications/k-o/minneapolis-star-tribune/minneapolis-star-tribune-2003.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/k-o/minneapolis-star-tribune/minneapolis-star-tribune-2007.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/k-o/minneapolis-star-tribune/minneapolis-star-tribune-2007.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/k-o/minneapolis-star-tribune/minneapolis-star-tribune-2008.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/k-o/minneapolis-star-tribune/minneapolis-star-tribune-2008.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/k-o/minneapolis-star-tribune/minneapolis-star-tribune-2009.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/k-o/minneapolis-star-tribune/minneapolis-star-tribune-2009.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/k-o/minneapolis-star-tribune/minneapolis-star-tribune-2010.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/k-o/minneapolis-star-tribune/minneapolis-star-tribune-2010.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/k-o/minneapolis-star-tribune/minneapolis-star-tribune-2011.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/k-o/minneapolis-star-tribune/minneapolis-star-tribune-2011.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/k-o/minneapolis-star-tribune/minneapolis-star-tribune-2012.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/k-o/minneapolis-star-tribune/minneapolis-star-tribune-2012.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/k-o/minneapolis-star-tribune/minneapolis-star-tribune-2013.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/k-o/minneapolis-star-tribune/minneapolis-star-tribune-2013.html"
         }
       },
       "version": ""
@@ -9607,6 +9986,16 @@
       "output": {
         ".html": {
           "relative_path": "publications/k-o/minneapolis-star-tribune/minneapolis-star-tribune-2020.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/k-o/minneapolis-star-tribune/minneapolis-star-tribune-2022.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/k-o/minneapolis-star-tribune/minneapolis-star-tribune-2022.html"
         }
       },
       "version": ""
@@ -11533,16 +11922,6 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "publications/p-t/playbill-com/playbill-com-2016.md",
-      "output": {
-        ".html": {
-          "relative_path": "publications/p-t/playbill-com/playbill-com-2016.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
       "source_relative_path": "publications/p-t/playbill-com/playbill-com-2018.md",
       "output": {
         ".html": {
@@ -11560,6 +11939,39 @@
         },
         ".json": {
           "relative_path": "publications/p-t/playbill-com/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/p-t/playbill-com_1/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/p-t/playbill-com_1/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/p-t/playbill-com_1/playbill-com_1-2016.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/p-t/playbill-com_1/playbill-com_1-2016.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "publications/p-t/playbill-com_1/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "publications/p-t/playbill-com_1/toc.html"
+        },
+        ".json": {
+          "relative_path": "publications/p-t/playbill-com_1/toc.json"
         }
       },
       "version": ""
@@ -12607,46 +13019,6 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "publications/p-t/rolling-stone/rolling-stone-2016.md",
-      "output": {
-        ".html": {
-          "relative_path": "publications/p-t/rolling-stone/rolling-stone-2016.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "publications/p-t/rolling-stone/rolling-stone-2018.md",
-      "output": {
-        ".html": {
-          "relative_path": "publications/p-t/rolling-stone/rolling-stone-2018.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "publications/p-t/rolling-stone/rolling-stone-2019.md",
-      "output": {
-        ".html": {
-          "relative_path": "publications/p-t/rolling-stone/rolling-stone-2019.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "publications/p-t/rolling-stone/rolling-stone-2020.md",
-      "output": {
-        ".html": {
-          "relative_path": "publications/p-t/rolling-stone/rolling-stone-2020.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
       "source_relative_path": "publications/p-t/rolling-stone/rolling-stone-2023.md",
       "output": {
         ".html": {
@@ -12664,6 +13036,69 @@
         },
         ".json": {
           "relative_path": "publications/p-t/rolling-stone/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/p-t/rolling-stone_1/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/p-t/rolling-stone_1/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/p-t/rolling-stone_1/rolling-stone_1-2016.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/p-t/rolling-stone_1/rolling-stone_1-2016.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/p-t/rolling-stone_1/rolling-stone_1-2018.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/p-t/rolling-stone_1/rolling-stone_1-2018.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/p-t/rolling-stone_1/rolling-stone_1-2019.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/p-t/rolling-stone_1/rolling-stone_1-2019.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/p-t/rolling-stone_1/rolling-stone_1-2020.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/p-t/rolling-stone_1/rolling-stone_1-2020.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "publications/p-t/rolling-stone_1/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "publications/p-t/rolling-stone_1/toc.html"
+        },
+        ".json": {
+          "relative_path": "publications/p-t/rolling-stone_1/toc.json"
         }
       },
       "version": ""
@@ -15471,20 +15906,43 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "publications/u-z/under-the-radar/under-the-radar-2019.md",
+      "source_relative_path": "publications/u-z/under-the-radar/under-the-radar-2023.md",
       "output": {
         ".html": {
-          "relative_path": "publications/u-z/under-the-radar/under-the-radar-2019.html"
+          "relative_path": "publications/u-z/under-the-radar/under-the-radar-2023.html"
         }
       },
       "version": ""
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "publications/u-z/under-the-radar/under-the-radar-2023.md",
+      "source_relative_path": "publications/u-z/under-the-radar_1/index.md",
       "output": {
         ".html": {
-          "relative_path": "publications/u-z/under-the-radar/under-the-radar-2023.html"
+          "relative_path": "publications/u-z/under-the-radar_1/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "publications/u-z/under-the-radar_1/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "publications/u-z/under-the-radar_1/toc.html"
+        },
+        ".json": {
+          "relative_path": "publications/u-z/under-the-radar_1/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/u-z/under-the-radar_1/under-the-radar_1-2019.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/u-z/under-the-radar_1/under-the-radar_1-2019.html"
         }
       },
       "version": ""
@@ -20889,6 +21347,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/event/celebration-2022/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/event/celebration-2022/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/event/celebration-2023/index.md",
       "output": {
         ".html": {
@@ -20903,6 +21371,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/event/celebration/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/event/coachella/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/event/coachella/index.html"
         }
       },
       "version": ""
@@ -27563,6 +28041,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/robert-hilburn/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/robert-smith/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/robert-smith/index.html"
         }
       },
       "version": ""
