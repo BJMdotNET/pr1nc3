@@ -1,5 +1,17 @@
 # Paul Walsh
 
+## 2023 (1)
+
+### 2023 March (1)
+
+ - [**"Prince&#039;s photo added to DEA exhibit in memory of those who have died from fentanyl overdose -- A cousin submitted the music legend's image to the federal agency for inclusion."**](https://www.startribune.com/princes-photo-added-to-dea-exhibit-in-memory-of-those-who-have-died-from-fentanyl-overdose/600262593/)
+    - by [Paul Walsh](../../authors/paul-walsh/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 28 March 2023
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/princes-photo-added-to-dea-exhibit-in-memory-of-those-who-have-died-from-fentanyl-overdose/600262593/))
+
+----
+
 ## 2018 (1)
 
 ### 2018 September (1)
@@ -76,6 +88,19 @@
     - on 10 March 2016
     - about [auction](../../topics/auction/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-s-ex-wife-first-manager-putting-prized-memorabilia-up-for-auction/371654961/))
+
+----
+
+## 2011 (1)
+
+### 2011 October (1)
+
+ - [**"Eleanor Mondale Poling &#039;had a following that was deeply personal&#039; -- Minnesota's famous daughter was recalled as candid and compassionate.
+Friends, colleagues and political heavyweights packed Wednesday's service for the daughter of Walter and Joan Mondale."**](https://www.startribune.com/eleanor-mondale-poling-had-a-following-that-was-deeply-personal/131134588/)
+    - by [Jon Bream](../../authors/jon-bream/index.md), [Paul Walsh](../../authors/paul-walsh/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 5 October 2011
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/eleanor-mondale-poling-had-a-following-that-was-deeply-personal/131134588/))
 
 ----
 

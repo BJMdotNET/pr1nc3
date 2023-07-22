@@ -5,6 +5,9 @@ items:
 - name: Aimee Blanchette
   href: aimee-blanchette/index.md
   homepage: aimee-blanchette/index.md
+- name: Aimée Blanchette
+  href: aim-e-blanchette/index.md
+  homepage: aim-e-blanchette/index.md
 - name: Alain Grasset
   href: alain-grasset/index.md
   homepage: alain-grasset/index.md
@@ -71,12 +74,24 @@ items:
 - name: Brian Truitt
   href: brian-truitt/index.md
   homepage: brian-truitt/index.md
+- name: Briana Bierschbach
+  href: briana-bierschbach/index.md
+  homepage: briana-bierschbach/index.md
 - name: Brianna Holt
   href: brianna-holt/index.md
   homepage: brianna-holt/index.md
 - name: Brianne Tracy
   href: brianne-tracy/index.md
   homepage: brianne-tracy/index.md
+- name: Britt Robson
+  href: britt-robson/index.md
+  homepage: britt-robson/index.md
+- name: Brooks Johnson
+  href: brooks-johnson/index.md
+  homepage: brooks-johnson/index.md
+- name: Bruno Povejsil
+  href: bruno-povejsil/index.md
+  homepage: bruno-povejsil/index.md
 - name: Bryan Alexander
   href: bryan-alexander/index.md
   homepage: bryan-alexander/index.md
@@ -101,6 +116,15 @@ items:
 - name: Chevel Johnson (Associated Press)
   href: associated-press/chevel-johnson/index.md
   homepage: associated-press/chevel-johnson/index.md
+- name: Chris Graves
+  href: chris-graves/index.md
+  homepage: chris-graves/index.md
+- name: Chris Hewitt
+  href: chris-hewitt/index.md
+  homepage: chris-hewitt/index.md
+- name: Chris Ison
+  href: chris-ison/index.md
+  homepage: chris-ison/index.md
 - name: Chris Miller
   href: chris-miller/index.md
   homepage: chris-miller/index.md
@@ -140,6 +164,9 @@ items:
 - name: Daniel Griffiths
   href: daniel-griffiths/index.md
   homepage: daniel-griffiths/index.md
+- name: Dave Berger
+  href: dave-berger/index.md
+  homepage: dave-berger/index.md
 - name: David Bauder (Associated Press)
   href: associated-press/david-bauder/index.md
   homepage: associated-press/david-bauder/index.md
@@ -245,6 +272,9 @@ items:
 - name: Jason Rantala
   href: jason-rantala/index.md
   homepage: jason-rantala/index.md
+- name: Jay Boller
+  href: jay-boller/index.md
+  homepage: jay-boller/index.md
 - name: Jazz Monroe
   href: jazz-monroe/index.md
   homepage: jazz-monroe/index.md
@@ -293,6 +323,9 @@ items:
 - name: Jill Lawless (Associated Press)
   href: associated-press/jill-lawless/index.md
   homepage: associated-press/jill-lawless/index.md
+- name: Jim Adams
+  href: jim-adams/index.md
+  homepage: jim-adams/index.md
 - name: Joe Taysom
   href: joe-taysom/index.md
   homepage: joe-taysom/index.md
@@ -338,9 +371,15 @@ items:
 - name: Kevin Burbach (Associated Press)
   href: associated-press/kevin-burbach/index.md
   homepage: associated-press/kevin-burbach/index.md
+- name: Kevin Canfield
+  href: kevin-canfield/index.md
+  homepage: kevin-canfield/index.md
 - name: Kevyn Burger
   href: kevyn-burger/index.md
   homepage: kevyn-burger/index.md
+- name: Kim Ode
+  href: kim-ode/index.md
+  homepage: kim-ode/index.md
 - name: Kim Palmer
   href: kim-palmer/index.md
   homepage: kim-palmer/index.md
@@ -350,12 +389,18 @@ items:
 - name: Kristin M. Hall (Associated Press)
   href: associated-press/kristin-m-hall/index.md
   homepage: associated-press/kristin-m-hall/index.md
+- name: Kristin Tillotson
+  href: kristin-tillotson/index.md
+  homepage: kristin-tillotson/index.md
 - name: Kyle Potter (Associated Press)
   href: associated-press/kyle-potter/index.md
   homepage: associated-press/kyle-potter/index.md
 - name: La Velle E. Neal III
   href: la-velle-e-neal-iii/index.md
   homepage: la-velle-e-neal-iii/index.md
+- name: Larry Fuchsberg
+  href: larry-fuchsberg/index.md
+  homepage: larry-fuchsberg/index.md
 - name: Larry Neumeister (Associated Press)
   href: associated-press/larry-neumeister/index.md
   homepage: associated-press/larry-neumeister/index.md
@@ -404,6 +449,9 @@ items:
 - name: Martin Talbot
   href: martin-talbot/index.md
   homepage: martin-talbot/index.md
+- name: Mary Abbe
+  href: mary-abbe/index.md
+  homepage: mary-abbe/index.md
 - name: Mary Lynn Smith
   href: mary-lynn-smith/index.md
   homepage: mary-lynn-smith/index.md
@@ -428,6 +476,9 @@ items:
 - name: Melinda Newman
   href: melinda-newman/index.md
   homepage: melinda-newman/index.md
+- name: Melissa Walker
+  href: melissa-walker/index.md
+  homepage: melissa-walker/index.md
 - name: Mesfin Fekadu (Associated Press)
   href: associated-press/mesfin-fekadu/index.md
   homepage: associated-press/mesfin-fekadu/index.md
@@ -437,6 +488,9 @@ items:
 - name: Michael Rand
   href: michael-rand/index.md
   homepage: michael-rand/index.md
+- name: Michael Rietmulder
+  href: michael-rietmulder/index.md
+  homepage: michael-rietmulder/index.md
 - name: Michael Tarm (Associated Press)
   href: associated-press/michael-tarm/index.md
   homepage: associated-press/michael-tarm/index.md
@@ -449,6 +503,9 @@ items:
 - name: Mike Walters
   href: mike-walters/index.md
   homepage: mike-walters/index.md
+- name: Nancy Ngo
+  href: nancy-ngo/index.md
+  homepage: nancy-ngo/index.md
 - name: Neal Justin
   href: neal-justin/index.md
   homepage: neal-justin/index.md
@@ -464,6 +521,9 @@ items:
 - name: Nicole Evatt (Associated Press)
   href: associated-press/nicole-evatt/index.md
   homepage: associated-press/nicole-evatt/index.md
+- name: Nicole Hvidsten
+  href: nicole-hvidsten/index.md
+  homepage: nicole-hvidsten/index.md
 - name: Nicole Neri
   href: nicole-neri/index.md
   homepage: nicole-neri/index.md
@@ -566,6 +626,12 @@ items:
 - name: SPIN Staff
   href: spin-staff/index.md
   homepage: spin-staff/index.md
+- name: Staff
+  href: staff/index.md
+  homepage: staff/index.md
+- name: Star Tribune staff
+  href: star-tribune-staff/index.md
+  homepage: star-tribune-staff/index.md
 - name: Stefania Sarrubba
   href: stefania-sarrubba/index.md
   homepage: stefania-sarrubba/index.md
@@ -623,6 +689,9 @@ items:
 - name: Todd McCarthy
   href: todd-mccarthy/index.md
   homepage: todd-mccarthy/index.md
+- name: Todd Nelson
+  href: todd-nelson/index.md
+  homepage: todd-nelson/index.md
 - name: Todd Spangler
   href: todd-spangler/index.md
   homepage: todd-spangler/index.md

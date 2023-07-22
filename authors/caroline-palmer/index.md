@@ -12,4 +12,16 @@
 
 ----
 
+## 2012 (1)
+
+### 2012 April (1)
+
+ - [**"One family&#039;s half-century dance legacy -- Despite twists and turns, the vision of a dance theater has motivated three generations."**](https://www.startribune.com/one-family-s-half-century-dance-legacy/148279645/)
+    - by [Caroline Palmer](../../authors/caroline-palmer/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 24 April 2012
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/one-family-s-half-century-dance-legacy/148279645/))
+
+----
+
 [Home](../index.md)

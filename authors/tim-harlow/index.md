@@ -35,4 +35,16 @@
 
 ----
 
+## 2010 (1)
+
+### 2010 March (1)
+
+ - [**"Bill Wanner: Passionate about music, musicians -- He showcased an eclectic mix of local acts at William's Pub, Artists' Quarter and the former Rossi's Steakhouse."**](https://www.startribune.com/bill-wanner-passionate-about-music-musicians/87024002/)
+    - by [Tim Harlow](../../authors/tim-harlow/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 8 March 2010
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/bill-wanner-passionate-about-music-musicians/87024002/))
+
+----
+
 [Home](../index.md)

@@ -1,5 +1,79 @@
 # Chris Riemenschneider
 
+## 2023 (4)
+
+### 2023 July (1)
+
+ - [**"Review: The Killers downsize in a big way for First Ave underplay gig -- Thursday's instantly sold-out show was a hastily announced warm-up gig to Friday's TC Summer Fest set at Target Field."**](https://www.startribune.com/review-the-killers-downsize-in-a-big-way-for-first-ave-underplay-gig-minneapolis-brandon-flowers/600289691/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 14 July 2023
+    - about [I Could Never Take The Place Of Your Man (song)](../../topics/song/i-could-never-take-the-place-of-your-man/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/review-the-killers-downsize-in-a-big-way-for-first-ave-underplay-gig-minneapolis-brandon-flowers/600289691/))
+
+----
+
+### 2023 June (2)
+
+ - [**"Review: Robert Smith and the Cure offer deep cuts, dreary favorites for elated Minnesota fans -- Thursday's sold-out Xcel Energy Center concert lasted nearly three hours with 29 songs."**](https://www.startribune.com/review-robert-smith-and-the-cure-offer-deep-cuts-dreary-favorites-for-elated-minnesota-fans/600281313/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 9 June 2023
+    - about [Robert Smith](../../topics/robert-smith/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/review-robert-smith-and-the-cure-offer-deep-cuts-dreary-favorites-for-elated-minnesota-fans/600281313/))
+
+<br />
+
+ - [**"Big Gigs: 10 concerts to see in the Twin Cities this week -- Highlights for June 8-14 include the Cure, Bebe Rexha, Tyler Childers and Weezer."**](https://www.startribune.com/twin-cities-the-cure-bebe-rexha-tyler-childers-weezer-rodrigo-y-gabriela-meshell-ndegeocello/600280755/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md), [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 7 June 2023
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/twin-cities-the-cure-bebe-rexha-tyler-childers-weezer-rodrigo-y-gabriela-meshell-ndegeocello/600280755/))
+
+----
+
+### 2023 May (1)
+
+ - [**"The big gigs: 10 concerts to see in the Twin Cities this week -- Highlights for May 25-31 include Janet Jackson, Dwight Yoakam, Ondara, Caterwaul and Wild Nights at the Zoo."**](https://www.startribune.com/twin-cities-janet-jackson-dwight-yoakam-ondara-caterwaul-terrace-martin-gully-boys-kiss-the-tiger/600277349/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md), [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 24 May 2023
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/twin-cities-janet-jackson-dwight-yoakam-ondara-caterwaul-terrace-martin-gully-boys-kiss-the-tiger/600277349/))
+
+----
+
+## 2022 (3)
+
+### 2022 November (1)
+
+ - [**"The big gigs: 10 concerts to see in the Twin Cities this week -- Concert highlights for Nov. 3-9 include Smashing Pumpkins, Tegan and Sara, Keith Urban and Pentatonix."**](https://www.startribune.com/10-concerts-to-see-in-twin-cities-this-week-smashing-pumpkins-keith-urban-pentatonix-tegan-and-sara/600221249/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md), [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 2 November 2022
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/10-concerts-to-see-in-twin-cities-this-week-smashing-pumpkins-keith-urban-pentatonix-tegan-and-sara/600221249/))
+
+----
+
+### 2022 June (1)
+
+ - [**"Thanks to Prince, First Avenue (the club) no longer sits on 1st Avenue (the street) -- The one-block commemorative name change to Prince Rogers Nelson Way won't change anything at the venue, other than adding a little extra cool factor."**](https://www.startribune.com/thanks-to-prince-first-avenue-the-club-no-longer-sits-on-1st-avenue-the-street/600179897/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 7 June 2022
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/thanks-to-prince-first-avenue-the-club-no-longer-sits-on-1st-avenue-the-street/600179897/))
+
+----
+
+### 2022 March (1)
+
+ - [**"Minneapolis music legend Morris Day says Prince&#039;s estate won&#039;t let him use &#039;the Time&#039; anymore -- The estate says Day's announcement is "not entirely accurate.""**](https://www.startribune.com/minneapolis-music-legend-morris-day-says-prince-estate-wont-let-him-use-the-time-anymore/600152599/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md), [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 3 March 2022
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/minneapolis-music-legend-morris-day-says-prince-estate-wont-let-him-use-the-time-anymore/600152599/))
+
+----
+
 ## 2019 (9)
 
 ### 2019 August (1)
@@ -555,6 +629,141 @@
     - on 31 May 2015
     - about [Alabama Shakes](../../topics/alabama-shakes/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/alabama-shakes-stick-around-for-a-monday-gig-at-prince-s-paisley-park/305620631/))
+
+----
+
+## 2013 (6)
+
+### 2013 October (1)
+
+ - [**"Cyndi Lauper's "Unusual" charm shines at Mill City Nights"**](https://www.startribune.com/cyndi-lauper-s-unusual-charm-shines-at-mill-city-nights/230047071/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 31 October 2013
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/cyndi-lauper-s-unusual-charm-shines-at-mill-city-nights/230047071/))
+
+----
+
+### 2013 May (1)
+
+ - [**"Prince&#039;s surprise shows pay homage to hometown -- After a long dry spell, Minneapolis' enduring megastar reconnected with hometown fans in a big way at a tiny club."**](https://www.startribune.com/prince-s-surprise-shows-pay-homage-to-hometown/187554331/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md), [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 3 May 2013
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-s-surprise-shows-pay-homage-to-hometown/187554331/))
+
+----
+
+### 2013 March (1)
+
+ - [**"See Prince's smashing Fallon performance"**](https://www.startribune.com/see-prince-s-smashing-fallon-performance/194513371/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 2 March 2013
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/see-prince-s-smashing-fallon-performance/194513371/))
+
+----
+
+### 2013 February (2)
+
+ - [**"Minneapolis R&B vet Pierre Lewis resurfaces with Prince connection -- Interest in an old Prince recording helped unearth the Minneapolis Sound pioneer, who tours the world with the Commodores but plays a local dive bar every Sunday."**](https://www.startribune.com/minneapolis-r-b-vet-pierre-lewis-resurfaces-with-prince-connection/192526821/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 22 February 2013
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/minneapolis-r-b-vet-pierre-lewis-resurfaces-with-prince-connection/192526821/))
+
+<br />
+
+ - [**"Bobby Bare Jr. bares all -- Bobby Bare Jr. debuted on the Grand Ole Opry at 5, and a new documentary shows how far he has gone to continue playing. Even to Minneapolis in zombie season."**](https://www.startribune.com/bobby-bare-jr-bares-all/190255631/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 7 February 2013
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/bobby-bare-jr-bares-all/190255631/))
+
+----
+
+### 2013 January (1)
+
+ - [**"Cities 97's Jason Nagel joins KTWIN team"**](https://www.startribune.com/cities-97-s-jason-nagel-joins-ktwin-team/188689331/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 28 January 2013
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/cities-97-s-jason-nagel-joins-ktwin-team/188689331/))
+
+----
+
+## 2012 (5)
+
+### 2012 November (1)
+
+ - [**"A weekend full of Madonna moments -- After making Twin Cities fans wait 25 years, did the Queen of Pop justify our love? Mostly yes, but the show had highs and lows."**](https://www.startribune.com/a-weekend-full-of-madonna-moments/177189131/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md), [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 5 November 2012
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/a-weekend-full-of-madonna-moments/177189131/))
+
+----
+
+### 2012 October (1)
+
+ - [**"Soul Asylum co-founder Dan Murphy quits the band after 30 years"**](https://www.startribune.com/soul-asylum-co-founder-dan-murphy-quits-the-band/173294201/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 9 October 2012
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/soul-asylum-co-founder-dan-murphy-quits-the-band/173294201/))
+
+----
+
+### 2012 July (1)
+
+ - [**"Obituary: Bluesman Big Walter Smith was &#039;rock of a performer&#039; -- The bandleader for the Groove Merchants, 82, schooled hundreds of musicians and helped spark Duluth's Bayfront festival."**](https://www.startribune.com/obituary-bluesman-big-walter-smith-was-rock-of-a-performer/163625516/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 24 July 2012
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/obituary-bluesman-big-walter-smith-was-rock-of-a-performer/163625516/))
+
+----
+
+### 2012 June (1)
+
+ - [**"Owl City duets with Carly Rae Jepsen on his new single"**](https://www.startribune.com/owl-city-duets-with-carly-rae-jepsen-on-his-new-single/159765065/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 20 June 2012
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/owl-city-duets-with-carly-rae-jepsen-on-his-new-single/159765065/))
+
+----
+
+### 2012 February (1)
+
+ - [**"See the Revolutionary clip of Prince raising "Purple Rain" at First Ave"**](https://www.startribune.com/see-the-revolutionary-footage-of-prince-raising-purple-rain/139526103/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 17 February 2012
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/see-the-revolutionary-footage-of-prince-raising-purple-rain/139526103/))
+
+----
+
+## 2008 (2)
+
+### 2008 November (1)
+
+ - [**"Purple One riffs on reining in sexual freedom -- Citing the Bible and tapping it as well, Prince talked with the New Yorker about being a Jehovah's Witness, sex and life among the red and blue."**](https://www.startribune.com/prince-gay-marriage-and-doing-whatever-you-want-is-wrong/34622394/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 18 November 2008
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-gay-marriage-and-doing-whatever-you-want-is-wrong/34622394/))
+
+----
+
+### 2008 April (1)
+
+ - [**"Prince crashes Coachella festival lineup -- No word if the April 26 gig at California's trendy fest will preclude more concert dates."**](https://www.startribune.com/prince-crashes-coachella-festival-lineup/17441094/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 10 April 2008
+    - about [Coachella (event)](../../topics/event/coachella/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-crashes-coachella-festival-lineup/17441094/))
 
 ----
 

@@ -1,5 +1,17 @@
 # Rohan Preston
 
+## 2022 (1)
+
+### 2022 September (1)
+
+ - [**"The renovated Capri theater remains a cultural hub of north Minneapolis -- Patrons streamed into the theater over its first year after a $12.5 million renovation."**](https://www.startribune.com/the-renovated-capri-theater-remains-a-cultural-hub-of-north-minneapolis/600207027/)
+    - by [Rohan Preston](../../authors/rohan-preston/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 15 September 2022
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/the-renovated-capri-theater-remains-a-cultural-hub-of-north-minneapolis/600207027/))
+
+----
+
 ## 2016 (1)
 
 ### 2016 March (1)

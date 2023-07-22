@@ -1,5 +1,47 @@
 # Rochelle Olson
 
+## 2023 (3)
+
+### 2023 May (2)
+
+ - [**"Princely Pride: Stretch of Hwy. 5 officially named for Minnesotan Prince -- Walz signed in purple ink; Lt. Gov. Flanagan said Prince's message of inclusion saved lives."**](https://www.startribune.com/princely-pride-stretch-of-highway-5-officially-named-for-minnesotan-prince-paisley-park/600273577/)
+    - by [Rochelle Olson](../../authors/rochelle-olson/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 9 May 2023
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/princely-pride-stretch-of-highway-5-officially-named-for-minnesotan-prince-paisley-park/600273577/))
+
+<br />
+
+ - [**"Prince&#039;s friends show up for news conference after Senate vote on highway renaming -- Special purple sign will go up in Chanhassen near Paisley Park where Prince was a cherished neighbor."**](https://www.startribune.com/prince-friends-show-up-for-press-conference-ahead-of-highway-renaming-chanhassen-paisley-park/600272469/)
+    - by [Rochelle Olson](../../authors/rochelle-olson/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 4 May 2023
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-friends-show-up-for-press-conference-ahead-of-highway-renaming-chanhassen-paisley-park/600272469/))
+
+----
+
+### 2023 February (1)
+
+ - [**"Senate President Bobby Joe Champion blazes a leadership path at the Capitol -- Lawyer-musician brings array of skills as he seeks to get the Senate working in harmony."**](https://www.startribune.com/senate-president-bobby-joe-champion-blazes-a-leadership-path-at-the-capitol/600254598/)
+    - by [Rochelle Olson](../../authors/rochelle-olson/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 26 February 2023
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/senate-president-bobby-joe-champion-blazes-a-leadership-path-at-the-capitol/600254598/))
+
+----
+
+## 2022 (1)
+
+### 2022 March (1)
+
+ - [**"Women&#039;s Final Four fans arrive in Minneapolis ready for hoops, hype and fun -- The first two games are set for Friday; finalists will face off on Sunday."**](https://www.startribune.com/womens-final-four-fans-arrive-in-minneapolis-ready-for-hoops-hype-and-fun/600161131/)
+    - by [Rochelle Olson](../../authors/rochelle-olson/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 31 March 2022
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/womens-final-four-fans-arrive-in-minneapolis-ready-for-hoops-hype-and-fun/600161131/))
+
+----
+
 ## 2017 (2)
 
 ### 2017 January (2)
