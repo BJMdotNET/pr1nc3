@@ -1,5 +1,14 @@
 # 2009
 
+## August 2009 (1)
+
+ - [**"C.J.: Look out! Melinda is hooked on Meier -- Melinda Jacobs kept getting her hooks into a man while fishing for an episode of "Cook What You Catch with Randy Meier.""**](https://www.startribune.com/look-out-melinda-is-hooked-on-meier/34778854/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 18 August 2009
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/look-out-melinda-is-hooked-on-meier/34778854/))
+
+----
+
 ## July 2009 (1)
 
  - [**"Purple’ afterglow: 25 years ago, film and soundtrack turned Prince into a megastar"**](https://www.bostonherald.com/2009/07/31/purple-afterglow-25-years-ago-film-and-soundtrack-turned-prince-into-a-megastar/)
@@ -21,13 +30,21 @@
 
 ----
 
-## March 2009 (2)
+## March 2009 (3)
 
  - [**"Prince"**](https://variety.com/2009/music/markets-festivals/prince-4-1200473979/)
     - in [Variety](../../publications/u-z/variety/index.md)
     - on 29 March 2009
     - about [Bria Valente](../../topics/bria-valente/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Club Nokia (place)](../../topics/place/club-nokia/index.md), [Colonized Mind (song)](../../topics/song/colonized-mind/index.md), [Conga Room (place)](../../topics/place/conga-room/index.md), [Dreamer (song)](../../topics/song/dreamer/index.md), [LotusFlow3r (album)](../../topics/album/lotusflow3r/index.md), [Michael Bland](../../topics/michael-bland/index.md), [MPLSoUND (album)](../../topics/album/mplsound/index.md), [Nokia Theater (place)](../../topics/place/nokia-theater/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Renato Neto](../../topics/renato-neto/index.md), [Sonny T.](../../topics/sonny-t/index.md), [The Beautiful Ones (song)](../../topics/song/the-beautiful-ones/index.md)
     - ([mirror](https://web.archive.org/web/*/https://variety.com/2009/music/markets-festivals/prince-4-1200473979/))
+
+----
+
+ - [**"Top 15 Greatest Minnesotans"**](https://www.startribune.com/top-15-greatest-minnesotans/41478052/)
+    - by 
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 19 March 2009
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/top-15-greatest-minnesotans/41478052/))
 
 ----
 

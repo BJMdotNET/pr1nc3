@@ -1,6 +1,28 @@
 # 2023
 
-## July 2023 (25)
+## July 2023 (30)
+
+ - [**"Bernadette Anderson"**](https://www.startribune.com/obituaries/detail/951297/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 22 July 2023
+    - about [Bernadette Anderson](../../topics/bernadette-anderson/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/obituaries/detail/951297/))
+
+----
+
+ - [**"Chris &#039;Floater&#039; Malone"**](https://www.startribune.com/obituaries/detail/0000421011/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 22 July 2023
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/obituaries/detail/0000421011/))
+
+----
+
+ - [**"Gregory Kent &#039;Greg&#039; Warner"**](https://www.startribune.com/obituaries/detail/0000445576/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 22 July 2023
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/obituaries/detail/0000445576/))
+
+----
 
  - [**"See spots that inspired Prince through a Minneapolis segway tour -- WCCO - CBS Minnesota"**](https://www.youtube.com/watch?v=jSJCuSZCq-4)
     - in [YouTube](../../publications/u-z/youtube/index.md)
@@ -16,6 +38,15 @@
     - on 14 July 2023
     - about [First Avenue (place)](../../topics/place/first-avenue/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Segway](../../topics/segway/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/prince-segway-tour-gives-fans-unique-minneapolis-perspective/))
+
+----
+
+ - [**"Review: The Killers downsize in a big way for First Ave underplay gig -- Thursday's instantly sold-out show was a hastily announced warm-up gig to Friday's TC Summer Fest set at Target Field."**](https://www.startribune.com/review-the-killers-downsize-in-a-big-way-for-first-ave-underplay-gig-minneapolis-brandon-flowers/600289691/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 14 July 2023
+    - about [I Could Never Take The Place Of Your Man (song)](../../topics/song/i-could-never-take-the-place-of-your-man/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/review-the-killers-downsize-in-a-big-way-for-first-ave-underplay-gig-minneapolis-brandon-flowers/600289691/))
 
 ----
 
@@ -219,7 +250,16 @@
 
 ----
 
-## June 2023 (20)
+ - [**"Review: Erykah Badu is mesmerizing, magical in St. Paul concert -- The high priestess of neo-soul offered an evolved concept for sound, messages and visuals."**](https://www.startribune.com/erykah-badu-mos-def-yasiin-bey-prince-david-bowie-janelle-monae-beyonce-st-paul-xcel-energy-center/600286804/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 1 July 2023
+    - about [Beyoncé](../../topics/beyonc/index.md), [Janelle Monáe](../../topics/janelle-mon-e/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/erykah-badu-mos-def-yasiin-bey-prince-david-bowie-janelle-monae-beyonce-st-paul-xcel-energy-center/600286804/))
+
+----
+
+## June 2023 (26)
 
  - [**"The influence of Black music: How 'Flyte Tyme' changed the world from a recording studio"**](https://www.mprnews.org/story/2023/06/29/the-influence-of-black-music-how-flyte-tyme-changed-the-world-from-a-booth-in-edina)
     - by [Jae Bryson](../../authors/jae-bryson/index.md)
@@ -263,6 +303,15 @@
     - on 22 June 2023
     - about [Alphabet Street (song)](../../topics/song/alphabet-street/index.md), [Debbie Gibson](../../topics/debbie-gibson/index.md), [Martika](../../topics/martika/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/lists/debbie-gibson-foolish-beat-number-one-1988-chart-rewind/alphabet-street-prince/))
+
+----
+
+ - [**"6 cool things in music this week include Joni Mitchell, Rhiannon Giddens and Stokley -- Shoutouts, too, to Known Mpls and Maren Morris as LGBTQ ally."**](https://www.startribune.com/joni-mitchell-rhiannon-giddens-stokley-known-mpls-prince-maren-morris-gorge-brandi-carlile-ojai/600283114/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 16 June 2023
+    - about [A Case of You (song)](../../topics/song/a-case-of-you/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Prince Legacy LLC](../../topics/prince-legacy-llc/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/joni-mitchell-rhiannon-giddens-stokley-known-mpls-prince-maren-morris-gorge-brandi-carlile-ojai/600283114/))
 
 ----
 
@@ -327,12 +376,30 @@
 
 ----
 
+ - [**"The good, the bad and the quotable at Prince Celebration 2023 at Paisley Park -- And some suggestions for next year's annual fan convention in Chanhassen."**](https://www.startribune.com/prince-celebration-2023-paisley-park-chuck-d-chaka-khan-doug-e-fresh-stokley-nur-d-nunnabove/600281951/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 12 June 2023
+    - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Alan Leeds](../../topics/alan-leeds/index.md), [Alicia Keys](../../topics/alicia-keys/index.md), [Bobby Z](../../topics/bobby-z/index.md), [Bruce Springsteen](../../topics/bruce-springsteen/index.md), [Capri Theater (place)](../../topics/place/capri-theater/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [Celebration 2023 (event)](../../topics/event/celebration-2023/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Charles Spicer](../../topics/charles-spicer/index.md), [Charlie Murphy](../../topics/charlie-murphy/index.md), [Don't Play With Love (song)](../../topics/song/don-t-play-with-love/index.md), [Doug E. Fresh](../../topics/doug-e-fresh/index.md), [Gilbert Davison](../../topics/gilbert-davison/index.md), [H.E.R.](../../topics/h-e-r/index.md), [Janelle Monae](../../topics/janelle-monae/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [Lenny Kravitz](../../topics/lenny-kravitz/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Michael Bland](../../topics/michael-bland/index.md), [Michael Pagnotta](../../topics/michael-pagnotta/index.md), [Obama](../../topics/obama/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Prince Legacy LLC](../../topics/prince-legacy-llc/index.md), [Questlove](../../topics/questlove/index.md), [Sounds of Blackness](../../topics/sounds-of-blackness/index.md), [Spike Lee](../../topics/spike-lee/index.md), [Stokley](../../topics/stokley/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Tim Burton](../../topics/tim-burton/index.md), [Trevor Guy](../../topics/trevor-guy/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-celebration-2023-paisley-park-chuck-d-chaka-khan-doug-e-fresh-stokley-nur-d-nunnabove/600281951/))
+
+----
+
  - [**"Joni Mitchell Returns to the Stage, Golden, Glorious and in Control -- The singer-songwriter’s first announced concert in more than 20 years was a nearly three-hour reimagining of her catalog that showcased her evolving, rich voice and her ever-sharp wit."**](https://www.nytimes.com/2023/06/11/arts/music/joni-mitchell-gorge-concert.html)
     - by [Lindsay Zoladz](../../authors/lindsay-zoladz/index.md)
     - in [New York Times](../../publications/k-o/new-york-times/index.md)
     - on 11 June 2023
     - about [Joni Mitchell](../../topics/joni-mitchell/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Purple Rain (tour)](../../topics/tour/purple-rain/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.nytimes.com/2023/06/11/arts/music/joni-mitchell-gorge-concert.html))
+
+----
+
+ - [**"Review: Robert Smith and the Cure offer deep cuts, dreary favorites for elated Minnesota fans -- Thursday's sold-out Xcel Energy Center concert lasted nearly three hours with 29 songs."**](https://www.startribune.com/review-robert-smith-and-the-cure-offer-deep-cuts-dreary-favorites-for-elated-minnesota-fans/600281313/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 9 June 2023
+    - about [Robert Smith](../../topics/robert-smith/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/review-robert-smith-and-the-cure-offer-deep-cuts-dreary-favorites-for-elated-minnesota-fans/600281313/))
 
 ----
 
@@ -353,12 +420,28 @@
 
 ----
 
+ - [**"How much would you pay for Prince&#039;s first demo tape? -- The 1977 tape that got him signed to Warner Bros. is up for auction."**](https://www.startribune.com/prince-warner-bros-records-owen-husney-jeff-gold-rr-auction-black-album-russ-thyret-jesse-johnson/600281039/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 8 June 2023
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-warner-bros-records-owen-husney-jeff-gold-rr-auction-black-album-russ-thyret-jesse-johnson/600281039/))
+
+----
+
  - [**"Welcome to Paisley Park: Prince fans love unreleased songs and concert footage -- Celebration 2023 honors the Purple One for four days this weekend."**](https://www.startribune.com/paisley-park-prince-chanhassen-revolution-john-nelson-yokohama-chaka-khan-chuck-d-stokley/600281268/)
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 8 June 2023
     - about [Sounds of Blackness](../../topics/sounds-of-blackness/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/paisley-park-prince-chanhassen-revolution-john-nelson-yokohama-chaka-khan-chuck-d-stokley/600281268/))
+
+----
+
+ - [**"Big Gigs: 10 concerts to see in the Twin Cities this week -- Highlights for June 8-14 include the Cure, Bebe Rexha, Tyler Childers and Weezer."**](https://www.startribune.com/twin-cities-the-cure-bebe-rexha-tyler-childers-weezer-rodrigo-y-gabriela-meshell-ndegeocello/600280755/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md), [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 7 June 2023
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/twin-cities-the-cure-bebe-rexha-tyler-childers-weezer-rodrigo-y-gabriela-meshell-ndegeocello/600280755/))
 
 ----
 
@@ -379,6 +462,14 @@
 
 ----
 
+ - [**"Celebration 2023 will explore Prince&#039;s complex relationship with hip-hop -- The annual Paisley Park event will feature Chaka Khan and Minneapolis' Stokley and Sounds of Blackness."**](https://www.startribune.com/prince-paisley-park-chuck-d-chaka-khan-stokley-sounds-of-blackness-nur-d-steeles-doug-e-fresh/600280191/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 5 June 2023
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-paisley-park-chuck-d-chaka-khan-stokley-sounds-of-blackness-nur-d-steeles-doug-e-fresh/600280191/))
+
+----
+
  - [**"Celebration returns to Paisley Park this week"**](https://spokesman-recorder.com/2023/06/05/celebration-returns-to-paisley-park/)
     - in [Minnesota Spokesman-Recorder](../../publications/k-o/minnesota-spokesman-recorder/index.md)
     - on 5 June 2023
@@ -395,7 +486,39 @@
 
 ----
 
-## May 2023 (15)
+## May 2023 (23)
+
+ - [**"9 free things to do in the Twin Cities this week -- From a water festival to outdoor opera, Minnesota has it all — cheap."**](https://www.startribune.com/9-free-things-to-do-in-the-twin-cities-this-week/600278672/)
+    - by [Melissa Walker](../../authors/melissa-walker/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 30 May 2023
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/9-free-things-to-do-in-the-twin-cities-this-week/600278672/))
+
+----
+
+ - [**"The big gigs: 10 concerts to see in the Twin Cities this week -- Highlights for May 25-31 include Janet Jackson, Dwight Yoakam, Ondara, Caterwaul and Wild Nights at the Zoo."**](https://www.startribune.com/twin-cities-janet-jackson-dwight-yoakam-ondara-caterwaul-terrace-martin-gully-boys-kiss-the-tiger/600277349/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md), [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 24 May 2023
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/twin-cities-janet-jackson-dwight-yoakam-ondara-caterwaul-terrace-martin-gully-boys-kiss-the-tiger/600277349/))
+
+----
+
+ - [**"Rickie Lee Jones talks about her jazzy new album, &#039;Chuck E.&#039;s in Love&#039; and Prince&#039;s &#039;Raspberry Beret&#039; -- She will be playing standards and jazzy oldies at the Dakota this week."**](https://www.startribune.com/rickie-lee-jones-prince-joni-mitchell-russ-titelman-bette-midler-jazz-standards-new-orleans/600277047/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 23 May 2023
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/rickie-lee-jones-prince-joni-mitchell-russ-titelman-bette-midler-jazz-standards-new-orleans/600277047/))
+
+----
+
+ - [**"New name looms for school formerly known as Henry -- In speaking to the students, it's clear which name they prefer."**](https://www.startribune.com/new-name-looms-for-school-formerly-known-as-henry/600276941/)
+    - by [Dave Berger](../../authors/dave-berger/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 22 May 2023
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/new-name-looms-for-school-formerly-known-as-henry/600276941/))
+
+----
 
  - [**"Exclusive: Bangles' classic Eternal Flame originally REJECTED by band leaving songwriter 'bereft' -- Susanna Hoff, one of the co-founders of The Bangles, recalled her bandmates didn't want the iconic love song on their third album back in the 1980s , leaving her devastated"**](https://www.mirror.co.uk/3am/celebrity-news/bangles-classic-eternal-flame-originally-30038013)
     - in [mirror.co.uk](../../publications/k-o/mirror-co-uk/index.md)
@@ -440,6 +563,22 @@
 
 ----
 
+ - [**"Billy Porter insists &#039;fashion is my job&#039; but he&#039;ll sing new songs and Broadway faves in Minneapolis -- On his inaugural concert tour, he will preview his first album of original material since 1997."**](https://www.startribune.com/billy-porter-broadway-kinky-boots-minneapolis-justin-tranter-james-baldwin-prince-grammy-oscar-tony/600275194/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 16 May 2023
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/billy-porter-broadway-kinky-boots-minneapolis-justin-tranter-james-baldwin-prince-grammy-oscar-tony/600275194/))
+
+----
+
+ - [**"Review: Country superstar Luke Combs delivers big time with ballads and barroom romps at the Vikings stadium -- Red-hot Lainey Wilson starts the evening right."**](https://www.startribune.com/luke-combs-vikings-lainey-wilson-prince-justin-jefferson-tracy-chapman-morgan-wallen-merle-haggard/600274772/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 13 May 2023
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/luke-combs-vikings-lainey-wilson-prince-justin-jefferson-tracy-chapman-morgan-wallen-merle-haggard/600274772/))
+
+----
+
  - [**"Paisley Park's Annual Celebration Is Back, with Music from Prince's Vault -- Honoring seven years since the musician passed, Paisley Park is pulling out all the stops."**](https://mspmag.com/arts-and-culture/paisley-park-celebration-prince-vault/)
     - by [Julia Schiff](../../authors/julia-schiff/index.md)
     - in [Mpls.St.Paul Magazine](../../publications/k-o/mpls-st-paul-magazine/index.md)
@@ -455,6 +594,14 @@
     - on 9 May 2023
     - about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Eden Prairie (place)](../../topics/place/eden-prairie/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Prince Rogers Nelson Memorial Highway (place)](../../topics/place/prince-rogers-nelson-memorial-highway/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [St. Paul (place)](../../topics/place/st-paul/index.md), [Tim Walz](../../topics/tim-walz/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/prince-rogers-nelson-memorial-highway-bill-signed-into-law-renaming-stretch-of-chanhassen-highway/))
+
+----
+
+ - [**"Princely Pride: Stretch of Hwy. 5 officially named for Minnesotan Prince -- Walz signed in purple ink; Lt. Gov. Flanagan said Prince's message of inclusion saved lives."**](https://www.startribune.com/princely-pride-stretch-of-highway-5-officially-named-for-minnesotan-prince-paisley-park/600273577/)
+    - by [Rochelle Olson](../../authors/rochelle-olson/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 9 May 2023
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/princely-pride-stretch-of-highway-5-officially-named-for-minnesotan-prince-paisley-park/600273577/))
 
 ----
 
@@ -481,6 +628,14 @@
     - on 4 May 2023
     - about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Julia Coleman](../../topics/julia-coleman/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Prince Rogers Nelson Memorial Highway (place)](../../topics/place/prince-rogers-nelson-memorial-highway/index.md), [Tim Walz](../../topics/tim-walz/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/minnesota-senate-approves-prince-highway/))
+
+----
+
+ - [**"Prince&#039;s friends show up for news conference after Senate vote on highway renaming -- Special purple sign will go up in Chanhassen near Paisley Park where Prince was a cherished neighbor."**](https://www.startribune.com/prince-friends-show-up-for-press-conference-ahead-of-highway-renaming-chanhassen-paisley-park/600272469/)
+    - by [Rochelle Olson](../../authors/rochelle-olson/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 4 May 2023
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-friends-show-up-for-press-conference-ahead-of-highway-renaming-chanhassen-paisley-park/600272469/))
 
 ----
 
@@ -525,7 +680,15 @@
 
 ----
 
-## April 2023 (8)
+## April 2023 (15)
+
+ - [**"Stokley, Chaka Khan and Chuck D will be part of Celebration 2023 at Prince&#039;s Paisley Park -- The annual event, June 8-11, will feature performances, panels and unreleased Prince music and concert footage."**](https://www.startribune.com/stokley-chaka-khan-chuck-d-prince-paisley-park-steeles-sounds-of-blackness-doug-e-fresh-shelby-j/600270462/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 27 April 2023
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/stokley-chaka-khan-chuck-d-prince-paisley-park-steeles-sounds-of-blackness-doug-e-fresh-shelby-j/600270462/))
+
+----
 
  - [**"Susanna Hoffs talks working with 'superhero' Prince and THAT Rock Hall performance -- Our latest guest on Tim's Listening Party "**](https://planetradio.co.uk/absolute-radio/music/news/susanna-hoffs-prince/)
     - in [planetradio.co.uk](../../publications/p-t/planetradio-co-uk/index.md)
@@ -543,12 +706,44 @@
 
 ----
 
+ - [**"6 cool things in music this week include the War and Treaty, Dan Israel and a Prince song guide -- Shoutouts, too, to Avery*Sunshine, Rogue Valley and MNspin."**](https://www.startribune.com/prince-the-war-and-treaty-dan-israel-rogue-valley-mnspin-avery-sunshine-aretha-ike-tina-turner/600268954/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 21 April 2023
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-the-war-and-treaty-dan-israel-rogue-valley-mnspin-avery-sunshine-aretha-ike-tina-turner/600268954/))
+
+----
+
  - [**"Minnesota House OKs bill to rename highway after Prince"**](https://www.cbsnews.com/minnesota/news/minnesota-house-oks-bill-to-rename-highway-after-prince/)
     - by [WCCO Staff](../../authors/wcco-staff/index.md)
     - in [WCCO - CBS Minnesota](../../publications/u-z/wcco-cbs-minnesota/index.md)
     - on 21 April 2023
     - about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Prince Rogers Nelson Memorial Highway (place)](../../topics/place/prince-rogers-nelson-memorial-highway/index.md), [Tim Walz](../../topics/tim-walz/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/minnesota-house-oks-bill-to-rename-highway-after-prince/))
+
+----
+
+ - [**"Prince&#039;s lessons still resonate seven years after his death -- A Brooklyn Park dance troupe he funded was part of the festivities at Paisley Park on Friday."**](https://www.startribune.com/prince-sharon-nelson-paisley-park-art-of-dance-brooklyn-park-iroquois/600269078/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 21 April 2023
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-sharon-nelson-paisley-park-art-of-dance-brooklyn-park-iroquois/600269078/))
+
+----
+
+ - [**"For Thomasina Petrus, stepping back into Billie Holiday&#039;s pumps is &#039;a little scary&#039; -- The singer/actor reprises musical "Lady Day at Emerson's Bar and Grill" at Yellow Tree Theatre."**](https://www.startribune.com/for-thomasina-petrus-stepping-back-into-billie-holidays-pumps-is-a-little-scary/600267922/)
+    - by [Chris Hewitt](../../authors/chris-hewitt/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 18 April 2023
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/for-thomasina-petrus-stepping-back-into-billie-holidays-pumps-is-a-little-scary/600267922/))
+
+----
+
+ - [**"No massive wait this time because Erykah Badu is coming to St. Paul on June 30 -- The empress of neo-soul's 2021 Armory concert was magical — 20 years after her previous local headline gig."**](https://www.startribune.com/erykah-badu-yasiin-bey-xcel-energy-center-st-paul-jose-james/600267751/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 17 April 2023
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/erykah-badu-yasiin-bey-xcel-energy-center-st-paul-jose-james/600267751/))
 
 ----
 
@@ -584,6 +779,14 @@
 
 ----
 
+ - [**"Paisley Park to offer reflections and a dance party on 7th anniversary of Prince&#039;s death -- DJ Lenka Paris, who worked many of Prince's parties, will spin on April 21 at his Chanhassen complex."**](https://www.startribune.com/paisley-park-prince-anniversary-liv-warfield-mitch-maguire-chanhassen-death/600265119/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 6 April 2023
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/paisley-park-prince-anniversary-liv-warfield-mitch-maguire-chanhassen-death/600265119/))
+
+----
+
  - [**"Susanna Hoffs: When I met Prince I felt like Cinderella. It was a cute little moment"**](https://www.sundaypost.com/fp/susanna-hoffs-interview/)
     - in [sundaypost.com](../../publications/p-t/sundaypost-com/index.md)
     - on 5 April 2023
@@ -592,7 +795,39 @@
 
 ----
 
-## March 2023 (4)
+ - [**"Review: Rock star John Mayer wins over St. Paul crowd with conviction, personality and acoustic tunes -- He was a philosopher, instructor and music critic but could have been more of a guitar hero."**](https://www.startribune.com/john-mayer-tom-petty-prince-andy-cohen-grateful-dead-ed-sheeran-taylor-swift-anniston-katy-perry/600263889/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 2 April 2023
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/john-mayer-tom-petty-prince-andy-cohen-grateful-dead-ed-sheeran-taylor-swift-anniston-katy-perry/600263889/))
+
+----
+
+## March 2023 (9)
+
+ - [**"6 cool things in music this week include Rosalía, Jason Isbell and Snarky Puppy -- Shoutouts, too, to Shemekia Copeland, Danilo Pérez and "Air" movie soundtrack."**](https://www.startribune.com/rosalia-jason-isbell-snarky-puppy-danilo-perez-air-matt-damon-ben-affleck-shemekia-copeland-nike/600263432/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 31 March 2023
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/rosalia-jason-isbell-snarky-puppy-danilo-perez-air-matt-damon-ben-affleck-shemekia-copeland-nike/600263432/))
+
+----
+
+ - [**"Boyz II Men and Chaka Khan are headed to Minnesota State Fair on Aug. 27 -- The annual R&B oldies show is the sixth concert announced  for this year's grandstand series."**](https://www.startribune.com/boyz-ii-men-chaka-khan-minnesota-state-fair-on-aug-27-prince-jimmy-jam-terry-lewis-mariah-carey/600262944/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 29 March 2023
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/boyz-ii-men-chaka-khan-minnesota-state-fair-on-aug-27-prince-jimmy-jam-terry-lewis-mariah-carey/600262944/))
+
+----
+
+ - [**"Prince&#039;s photo added to DEA exhibit in memory of those who have died from fentanyl overdose -- A cousin submitted the music legend's image to the federal agency for inclusion."**](https://www.startribune.com/princes-photo-added-to-dea-exhibit-in-memory-of-those-who-have-died-from-fentanyl-overdose/600262593/)
+    - by [Paul Walsh](../../authors/paul-walsh/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 28 March 2023
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/princes-photo-added-to-dea-exhibit-in-memory-of-those-who-have-died-from-fentanyl-overdose/600262593/))
+
+----
 
  - [**"Susanna Hoffs Proves It's Never Too Late to Fulfill a Lifelong Dream -- The singer/songwriter from The Bangles discusses the writing of her debut novel, 'This Bird Has Flown,' and shares musical memories of Prince and Burt Bacharach"**](https://www.nextavenue.org/susanna-hoffs-proves-its-never-too-late/)
     - in [nextavenue.org](../../publications/k-o/nextavenue-org/index.md)
@@ -602,11 +837,27 @@
 
 ----
 
+ - [**"Uptown might be coming back, but not in the way you&#039;d expect -- Empty storefronts have plagued the area since the pandemic and riots, but locals are working to bring some soul back to Prince's former haunt."**](https://www.startribune.com/minneapolis-uptown-might-be-coming-back-but-not-in-the-way-youd-expect/600261627/)
+    - by [Nicole Norfleet](../../authors/nicole-norfleet/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 24 March 2023
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/minneapolis-uptown-might-be-coming-back-but-not-in-the-way-youd-expect/600261627/))
+
+----
+
  - [**"Prince’s Attempt To Win The Heart Of The Bangles’ Susanna Hoffs"**](https://rockcelebrities.net/princes-attempt-to-win-the-heart-of-the-bangles-susanna-hoffs/)
     - in [rockcelebrities.net](../../publications/p-t/rockcelebrities-net/index.md)
     - on 12 March 2023
     - about [Apollonia](../../topics/apollonia/index.md), [Apollonia 6](../../topics/apollonia-6/index.md), [Bangles](../../topics/bangles/index.md), [Christopher](../../topics/christopher/index.md), [Los Angeles Times (newspaper)](../../topics/newspaper/los-angeles-times/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Patricia Kotero](../../topics/patricia-kotero/index.md), [Robert Hilburn](../../topics/robert-hilburn/index.md), [Rolling Stone (magazine)](../../topics/magazine/rolling-stone/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md)
     - ([mirror](https://web.archive.org/web/*/https://rockcelebrities.net/princes-attempt-to-win-the-heart-of-the-bangles-susanna-hoffs/))
+
+----
+
+ - [**"Minnesota bill moves forward to name a stretch of Hwy. 5 for Prince -- If passed, the highway dedication sign would be the pop star's signature purple color."**](https://www.startribune.com/minnesota-bill-moves-forward-to-name-a-stretch-of-hwy-5-for-prince/600258079/)
+    - by [Briana Bierschbach](../../authors/briana-bierschbach/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 11 March 2023
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/minnesota-bill-moves-forward-to-name-a-stretch-of-hwy-5-for-prince/600258079/))
 
 ----
 
@@ -628,7 +879,15 @@
 
 ----
 
-## February 2023 (3)
+## February 2023 (5)
+
+ - [**"Senate President Bobby Joe Champion blazes a leadership path at the Capitol -- Lawyer-musician brings array of skills as he seeks to get the Senate working in harmony."**](https://www.startribune.com/senate-president-bobby-joe-champion-blazes-a-leadership-path-at-the-capitol/600254598/)
+    - by [Rochelle Olson](../../authors/rochelle-olson/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 26 February 2023
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/senate-president-bobby-joe-champion-blazes-a-leadership-path-at-the-capitol/600254598/))
+
+----
 
  - [**"Why did Prince give away 'Manic Monday'?"**](https://faroutmagazine.co.uk/why-prince-give-away-manic-monday/)
     - in [Far Out Magazine](../../publications/f-j/far-out-magazine/index.md)
@@ -644,6 +903,14 @@
     - on 6 February 2023
     - about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Julia Coleman](../../topics/julia-coleman/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Prince Rogers Nelson Memorial Highway (place)](../../topics/place/prince-rogers-nelson-memorial-highway/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/lawmaker-aims-to-rename-stretch-of-chanhassen-highway-in-honor-of-prince/))
+
+----
+
+ - [**"Beyoncé makes Grammy history for wins, but Harry Styles steals album of the year -- Performers Bad Bunny, Lizzo, Stevie Wonder and Chris Stapleton shine, as did a long hip-hop tribute"**](https://www.startribune.com/beyonce-makes-grammy-history-in-a-night-of-electrifying-performances-harry-styles-lizzo-prince/600249371/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 5 February 2023
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/beyonce-makes-grammy-history-in-a-night-of-electrifying-performances-harry-styles-lizzo-prince/600249371/))
 
 ----
 
