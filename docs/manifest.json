@@ -5078,6 +5078,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "publications/a-e/consequence-of-sound/consequence-of-sound-2019.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/a-e/consequence-of-sound/consequence-of-sound-2019.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "publications/a-e/consequence-of-sound/consequence-of-sound-2023.md",
       "output": {
         ".html": {
@@ -5105,39 +5115,6 @@
         },
         ".json": {
           "relative_path": "publications/a-e/consequence-of-sound/toc.json"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "publications/a-e/consequence-of-sound_1/consequence-of-sound_1-2019.md",
-      "output": {
-        ".html": {
-          "relative_path": "publications/a-e/consequence-of-sound_1/consequence-of-sound_1-2019.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "publications/a-e/consequence-of-sound_1/index.md",
-      "output": {
-        ".html": {
-          "relative_path": "publications/a-e/consequence-of-sound_1/index.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Toc",
-      "source_relative_path": "publications/a-e/consequence-of-sound_1/toc.yml",
-      "output": {
-        ".html": {
-          "relative_path": "publications/a-e/consequence-of-sound_1/toc.html"
-        },
-        ".json": {
-          "relative_path": "publications/a-e/consequence-of-sound_1/toc.json"
         }
       },
       "version": ""
@@ -6892,6 +6869,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "publications/f-j/fox-9/fox-9-2016.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/f-j/fox-9/fox-9-2016.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "publications/f-j/fox-9/fox-9-2023.md",
       "output": {
         ".html": {
@@ -6919,39 +6906,6 @@
         },
         ".json": {
           "relative_path": "publications/f-j/fox-9/toc.json"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "publications/f-j/fox-9_1/fox-9_1-2016.md",
-      "output": {
-        ".html": {
-          "relative_path": "publications/f-j/fox-9_1/fox-9_1-2016.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "publications/f-j/fox-9_1/index.md",
-      "output": {
-        ".html": {
-          "relative_path": "publications/f-j/fox-9_1/index.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Toc",
-      "source_relative_path": "publications/f-j/fox-9_1/toc.yml",
-      "output": {
-        ".html": {
-          "relative_path": "publications/f-j/fox-9_1/toc.html"
-        },
-        ".json": {
-          "relative_path": "publications/f-j/fox-9_1/toc.json"
         }
       },
       "version": ""
@@ -8233,6 +8187,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "publications/f-j/the-fashion-law/the-fashion-law-2019.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/f-j/the-fashion-law/the-fashion-law-2019.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "publications/f-j/the-fashion-law/the-fashion-law-2020.md",
       "output": {
         ".html": {
@@ -8250,39 +8214,6 @@
         },
         ".json": {
           "relative_path": "publications/f-j/the-fashion-law/toc.json"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "publications/f-j/the-fashion-law_1/index.md",
-      "output": {
-        ".html": {
-          "relative_path": "publications/f-j/the-fashion-law_1/index.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "publications/f-j/the-fashion-law_1/the-fashion-law_1-2019.md",
-      "output": {
-        ".html": {
-          "relative_path": "publications/f-j/the-fashion-law_1/the-fashion-law_1-2019.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Toc",
-      "source_relative_path": "publications/f-j/the-fashion-law_1/toc.yml",
-      "output": {
-        ".html": {
-          "relative_path": "publications/f-j/the-fashion-law_1/toc.html"
-        },
-        ".json": {
-          "relative_path": "publications/f-j/the-fashion-law_1/toc.json"
         }
       },
       "version": ""
@@ -11912,72 +11843,6 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "publications/p-t/playbill-com/index.md",
-      "output": {
-        ".html": {
-          "relative_path": "publications/p-t/playbill-com/index.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "publications/p-t/playbill-com/playbill-com-2018.md",
-      "output": {
-        ".html": {
-          "relative_path": "publications/p-t/playbill-com/playbill-com-2018.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Toc",
-      "source_relative_path": "publications/p-t/playbill-com/toc.yml",
-      "output": {
-        ".html": {
-          "relative_path": "publications/p-t/playbill-com/toc.html"
-        },
-        ".json": {
-          "relative_path": "publications/p-t/playbill-com/toc.json"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "publications/p-t/playbill-com_1/index.md",
-      "output": {
-        ".html": {
-          "relative_path": "publications/p-t/playbill-com_1/index.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "publications/p-t/playbill-com_1/playbill-com_1-2016.md",
-      "output": {
-        ".html": {
-          "relative_path": "publications/p-t/playbill-com_1/playbill-com_1-2016.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Toc",
-      "source_relative_path": "publications/p-t/playbill-com_1/toc.yml",
-      "output": {
-        ".html": {
-          "relative_path": "publications/p-t/playbill-com_1/toc.html"
-        },
-        ".json": {
-          "relative_path": "publications/p-t/playbill-com_1/toc.json"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
       "source_relative_path": "publications/p-t/playbill/index.md",
       "output": {
         ".html": {
@@ -11992,6 +11857,16 @@
       "output": {
         ".html": {
           "relative_path": "publications/p-t/playbill/playbill-2016.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/p-t/playbill/playbill-2018.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/p-t/playbill/playbill-2018.html"
         }
       },
       "version": ""
@@ -13019,6 +12894,46 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "publications/p-t/rolling-stone/rolling-stone-2016.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/p-t/rolling-stone/rolling-stone-2016.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/p-t/rolling-stone/rolling-stone-2018.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/p-t/rolling-stone/rolling-stone-2018.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/p-t/rolling-stone/rolling-stone-2019.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/p-t/rolling-stone/rolling-stone-2019.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/p-t/rolling-stone/rolling-stone-2020.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/p-t/rolling-stone/rolling-stone-2020.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "publications/p-t/rolling-stone/rolling-stone-2023.md",
       "output": {
         ".html": {
@@ -13036,69 +12951,6 @@
         },
         ".json": {
           "relative_path": "publications/p-t/rolling-stone/toc.json"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "publications/p-t/rolling-stone_1/index.md",
-      "output": {
-        ".html": {
-          "relative_path": "publications/p-t/rolling-stone_1/index.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "publications/p-t/rolling-stone_1/rolling-stone_1-2016.md",
-      "output": {
-        ".html": {
-          "relative_path": "publications/p-t/rolling-stone_1/rolling-stone_1-2016.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "publications/p-t/rolling-stone_1/rolling-stone_1-2018.md",
-      "output": {
-        ".html": {
-          "relative_path": "publications/p-t/rolling-stone_1/rolling-stone_1-2018.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "publications/p-t/rolling-stone_1/rolling-stone_1-2019.md",
-      "output": {
-        ".html": {
-          "relative_path": "publications/p-t/rolling-stone_1/rolling-stone_1-2019.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "publications/p-t/rolling-stone_1/rolling-stone_1-2020.md",
-      "output": {
-        ".html": {
-          "relative_path": "publications/p-t/rolling-stone_1/rolling-stone_1-2020.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Toc",
-      "source_relative_path": "publications/p-t/rolling-stone_1/toc.yml",
-      "output": {
-        ".html": {
-          "relative_path": "publications/p-t/rolling-stone_1/toc.html"
-        },
-        ".json": {
-          "relative_path": "publications/p-t/rolling-stone_1/toc.json"
         }
       },
       "version": ""
@@ -15906,43 +15758,20 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "publications/u-z/under-the-radar/under-the-radar-2019.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/u-z/under-the-radar/under-the-radar-2019.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "publications/u-z/under-the-radar/under-the-radar-2023.md",
       "output": {
         ".html": {
           "relative_path": "publications/u-z/under-the-radar/under-the-radar-2023.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "publications/u-z/under-the-radar_1/index.md",
-      "output": {
-        ".html": {
-          "relative_path": "publications/u-z/under-the-radar_1/index.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Toc",
-      "source_relative_path": "publications/u-z/under-the-radar_1/toc.yml",
-      "output": {
-        ".html": {
-          "relative_path": "publications/u-z/under-the-radar_1/toc.html"
-        },
-        ".json": {
-          "relative_path": "publications/u-z/under-the-radar_1/toc.json"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "publications/u-z/under-the-radar_1/under-the-radar_1-2019.md",
-      "output": {
-        ".html": {
-          "relative_path": "publications/u-z/under-the-radar_1/under-the-radar_1-2019.html"
         }
       },
       "version": ""
