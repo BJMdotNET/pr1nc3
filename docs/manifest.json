@@ -83,6 +83,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "authors/alicia-eler/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/alicia-eler/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "authors/amber-dowling/index.md",
       "output": {
         ".html": {
@@ -563,6 +573,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "authors/c-j/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/c-j/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "authors/cameron-adams/index.md",
       "output": {
         ".html": {
@@ -673,10 +693,30 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "authors/christy-desmith/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/christy-desmith/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "authors/chuck-philips/index.md",
       "output": {
         ".html": {
           "relative_path": "authors/chuck-philips/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "authors/claude-peck/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/claude-peck/index.html"
         }
       },
       "version": ""
@@ -833,6 +873,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "authors/dee-depass/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/dee-depass/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "authors/derek-james/index.md",
       "output": {
         ".html": {
@@ -857,6 +907,16 @@
       "output": {
         ".html": {
           "relative_path": "authors/eddie-fu/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "authors/editorial-board/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/editorial-board/index.html"
         }
       },
       "version": ""
@@ -1003,6 +1063,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "authors/graydon-royce/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/graydon-royce/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "authors/greg-kot/index.md",
       "output": {
         ".html": {
@@ -1013,10 +1083,30 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "authors/howard-sinker/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/howard-sinker/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "authors/index.md",
       "output": {
         ".html": {
           "relative_path": "authors/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "authors/j-patrick-coolican/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/j-patrick-coolican/index.html"
         }
       },
       "version": ""
@@ -1243,6 +1333,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "authors/jim-souhan/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/jim-souhan/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "authors/joe-taysom/index.md",
       "output": {
         ".html": {
@@ -1373,10 +1473,40 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "authors/katie-galioto/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/katie-galioto/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "authors/katy-read/index.md",
       "output": {
         ".html": {
           "relative_path": "authors/katy-read/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "authors/kavita-kumar/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/kavita-kumar/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "authors/kelly-smith/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/kelly-smith/index.html"
         }
       },
       "version": ""
@@ -1397,6 +1527,16 @@
       "output": {
         ".html": {
           "relative_path": "authors/kevyn-burger/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "authors/kim-hyatt/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/kim-hyatt/index.html"
         }
       },
       "version": ""
@@ -1463,6 +1603,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "authors/laurie-hertzel/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/laurie-hertzel/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "authors/lee-svitak-dean/index.md",
       "output": {
         ".html": {
@@ -1477,6 +1627,16 @@
       "output": {
         ".html": {
           "relative_path": "authors/leila-navidi/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "authors/libor-jany/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/libor-jany/index.html"
         }
       },
       "version": ""
@@ -1517,6 +1677,16 @@
       "output": {
         ".html": {
           "relative_path": "authors/lyndsey-parker/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "authors/madison-karas/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/madison-karas/index.html"
         }
       },
       "version": ""
@@ -2037,6 +2207,16 @@
       "output": {
         ".html": {
           "relative_path": "authors/serge-simonart/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "authors/shannon-prather/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/shannon-prather/index.html"
         }
       },
       "version": ""
@@ -9863,6 +10043,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "publications/k-o/minneapolis-star-tribune/minneapolis-star-tribune-2014.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/k-o/minneapolis-star-tribune/minneapolis-star-tribune-2014.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "publications/k-o/minneapolis-star-tribune/minneapolis-star-tribune-2015.md",
       "output": {
         ".html": {
@@ -9917,6 +10107,16 @@
       "output": {
         ".html": {
           "relative_path": "publications/k-o/minneapolis-star-tribune/minneapolis-star-tribune-2020.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/k-o/minneapolis-star-tribune/minneapolis-star-tribune-2021.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/k-o/minneapolis-star-tribune/minneapolis-star-tribune-2021.html"
         }
       },
       "version": ""
@@ -20060,6 +20260,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/cloud-bass/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/coco-breezy/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/coco-breezy/index.html"
         }
       },
       "version": ""
