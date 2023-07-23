@@ -1,5 +1,18 @@
 # Kevin Smith
 
+## 2022 (1)
+
+### 2022 December (1)
+
+ - [**"Morris Day knows what time it is: &#039;Last Call&#039; for his recording career -- As he heads to Paisley Park for New Year's Eve, the Time singer talks about Prince and the Estate."**](https://www.startribune.com/morris-day-knows-what-time-it-is-last-call-for-his-recording-career-prince-the-time-zz-top-snoop/600239310/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 29 December 2022
+    - about [Kevin Smith](../../topics/kevin-smith/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/morris-day-knows-what-time-it-is-last-call-for-his-recording-career-prince-the-time-zz-top-snoop/600239310/))
+
+----
+
 ## 2016 (1)
 
 ### 2016 April (1)

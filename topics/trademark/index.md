@@ -70,7 +70,7 @@
  - [**"Coffee table books are great gifts — even if you don’t have a coffee table"**](https://www.twincities.com/2019/11/30/coffee-table-books-are-great-gifts-even-if-you-dont-have-a-coffee-table/)
     - in [TwinCities.com - Pioneer Press](../../publications/p-t/twincities-com-pioneer-press/index.md)
     - on 30 November 2019
-    - about [Andy Warhol](../../topics/andy-warhol/index.md), [exhibit](../../topics/exhibit/index.md), [exhibition](../../topics/exhibition/index.md), [Hachette Books](../../topics/hachette-books/index.md), [museum](../../topics/museum/index.md), [Penguin Random House](../../topics/penguin-random-house/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md), [trademark](../../topics/trademark/index.md)
+    - about [Andy Warhol](../../topics/andy-warhol/index.md), [exhibit](../../topics/exhibit/index.md), [exhibition](../../topics/exhibition/index.md), [Hachette Books](../../topics/hachette-books/index.md), [museum](../../topics/museum/index.md), [Oprah (TV show)](../../topics/tv-show/oprah/index.md), [Penguin Random House](../../topics/penguin-random-house/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md), [trademark](../../topics/trademark/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2019/11/30/coffee-table-books-are-great-gifts-even-if-you-dont-have-a-coffee-table/))
 
 <br />
@@ -78,7 +78,7 @@
  - [**"Don’t overlook splashy coffee table books as holiday gifts"**](https://apnews.com/e8495b29d38d4596b879f066a3eec8fb)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 19 November 2019
-    - about [Andy Warhol](../../topics/andy-warhol/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [exhibit](../../topics/exhibit/index.md), [exhibition](../../topics/exhibition/index.md), [Hachette Books](../../topics/hachette-books/index.md), [museum](../../topics/museum/index.md), [Penguin Random House](../../topics/penguin-random-house/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md), [trademark](../../topics/trademark/index.md)
+    - about [Andy Warhol](../../topics/andy-warhol/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [exhibit](../../topics/exhibit/index.md), [exhibition](../../topics/exhibition/index.md), [Hachette Books](../../topics/hachette-books/index.md), [museum](../../topics/museum/index.md), [Oprah (TV show)](../../topics/tv-show/oprah/index.md), [Penguin Random House](../../topics/penguin-random-house/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md), [trademark](../../topics/trademark/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/e8495b29d38d4596b879f066a3eec8fb))
 
 <br />
@@ -86,7 +86,7 @@
  - [**"Don't overlook splashy coffee table books as holiday gifts"**](https://www.startribune.com/don-t-overlook-splashy-coffee-table-books-as-holiday-gifts/565099382/)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 19 November 2019
-    - about [Andy Warhol](../../topics/andy-warhol/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [exhibit](../../topics/exhibit/index.md), [exhibition](../../topics/exhibition/index.md), [Hachette Books](../../topics/hachette-books/index.md), [museum](../../topics/museum/index.md), [Penguin Random House](../../topics/penguin-random-house/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md), [trademark](../../topics/trademark/index.md)
+    - about [Andy Warhol](../../topics/andy-warhol/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [exhibit](../../topics/exhibit/index.md), [exhibition](../../topics/exhibition/index.md), [Hachette Books](../../topics/hachette-books/index.md), [museum](../../topics/museum/index.md), [Oprah (TV show)](../../topics/tv-show/oprah/index.md), [Penguin Random House](../../topics/penguin-random-house/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md), [trademark](../../topics/trademark/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/don-t-overlook-splashy-coffee-table-books-as-holiday-gifts/565099382/))
 
 <br />
@@ -144,7 +144,7 @@
  - [**"Reckoning With The Ethics of The Ever-Unfurling Prince Vault -- The demos, b-sides and rarities keep coming. How should we feel about listening?"**](https://www.pastemagazine.com/articles/2019/10/prince-estate-ethics.html)
     - in [Paste Magazine](../../publications/p-t/paste-magazine/index.md)
     - on 23 October 2019
-    - about [1999 (album)](../../topics/album/1999/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [contract](../../topics/contract/index.md), [D’Angelo](../../topics/d-angelo/index.md), [exhibit](../../topics/exhibit/index.md), [For You (album)](../../topics/album/for-you/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Spotify](../../topics/spotify/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [trademark](../../topics/trademark/index.md), [vault](../../topics/vault/index.md), [YouTube](../../topics/youtube/index.md)
+    - about [1999 (album)](../../topics/album/1999/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [contract](../../topics/contract/index.md), [D’Angelo](../../topics/d-angelo/index.md), [exhibit](../../topics/exhibit/index.md), [For You (album)](../../topics/album/for-you/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Oprah (TV show)](../../topics/tv-show/oprah/index.md), [Spotify](../../topics/spotify/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [trademark](../../topics/trademark/index.md), [vault](../../topics/vault/index.md), [YouTube](../../topics/youtube/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.pastemagazine.com/articles/2019/10/prince-estate-ethics.html))
 
 <br />
@@ -298,7 +298,7 @@
  - [**"The days the music died: A look at funerals of the greats"**](https://apnews.com/7d546ab5dbec4e5ba4ebd0eddd1064e8)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 29 August 2018
-    - about [Aretha Franklin](../../topics/aretha-franklin/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Graceland](../../topics/graceland/index.md), [James Brown](../../topics/james-brown/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [museum](../../topics/museum/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [trademark](../../topics/trademark/index.md)
+    - about [Aretha Franklin](../../topics/aretha-franklin/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Graceland](../../topics/graceland/index.md), [James Brown](../../topics/james-brown/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [museum](../../topics/museum/index.md), [Oprah (TV show)](../../topics/tv-show/oprah/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [trademark](../../topics/trademark/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/7d546ab5dbec4e5ba4ebd0eddd1064e8))
 
 ----

@@ -32,7 +32,7 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 28 April 2022
-    - about [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - about [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [Today Show (TV show)](../../topics/tv-show/today-show/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/her-minneapolis-prince-jimmy-jam-lenny-kravitz-paisley-park-george-floyd-oscars-grammys-super-bowl/600168665/))
 
 ----
@@ -287,7 +287,7 @@
  - [**"Prince Fast Facts"**](https://kxlf.com/cnn-national/2019/07/02/prince-fast-facts/)
     - in [KXLF.com](../../publications/k-o/kxlf-com/index.md)
     - on 3 July 2019
-    - about [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [contract](../../topics/contract/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [divorce](../../topics/divorce/index.md), [fentanyl](../../topics/fentanyl/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [John Nelson](../../topics/john-nelson/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [lawsuit](../../topics/lawsuit/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Michael Schulenberg](../../topics/michael-schulenberg/index.md), [Minnesota Vikings](../../topics/minnesota-vikings/index.md), [museum](../../topics/museum/index.md), [Parents Music Resource Center](../../topics/parents-music-resource-center/index.md), [Percocet](../../topics/percocet/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Super Bowl](../../topics/super-bowl/index.md), [The Revolution](../../topics/the-revolution/index.md), [Tim Burton](../../topics/tim-burton/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md), [Walgreens](../../topics/walgreens/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
+    - about [Amiir](../../topics/amiir/index.md), [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [contract](../../topics/contract/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [divorce](../../topics/divorce/index.md), [fentanyl](../../topics/fentanyl/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [John Nelson](../../topics/john-nelson/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [lawsuit](../../topics/lawsuit/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Michael Schulenberg](../../topics/michael-schulenberg/index.md), [Minnesota Vikings](../../topics/minnesota-vikings/index.md), [museum](../../topics/museum/index.md), [Parents Music Resource Center](../../topics/parents-music-resource-center/index.md), [Percocet](../../topics/percocet/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Super Bowl](../../topics/super-bowl/index.md), [The Revolution](../../topics/the-revolution/index.md), [Tim Burton](../../topics/tim-burton/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md), [Walgreens](../../topics/walgreens/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://kxlf.com/cnn-national/2019/07/02/prince-fast-facts/))
 
 ----
@@ -306,7 +306,7 @@
  - [**"Prince's 'Originals' Album: Comparing Each Demo With Its Well-Known Cover Version"**](https://www.billboard.com/articles/news/8517576/prince-originals-album-covers)
     - in [Billboard](../../publications/a-e/billboard/index.md)
     - on 25 June 2019
-    - about [Alan Light](../../topics/alan-light/index.md), [Apollonia 6](../../topics/apollonia-6/index.md), [Bangles](../../topics/bangles/index.md), [BrownMark](../../topics/brownmark/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Morris Day](../../topics/morris-day/index.md), [Nile Rodgers](../../topics/nile-rodgers/index.md), [Originals (album)](../../topics/album/originals/index.md), [Romance 1600 (album)](../../topics/album/romance-1600/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Super Bowl XLI (event)](../../topics/event/super-bowl-xli/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [The Revolution](../../topics/the-revolution/index.md)
+    - about [Alan Light](../../topics/alan-light/index.md), [Apollonia 6](../../topics/apollonia-6/index.md), [Bangles](../../topics/bangles/index.md), [BrownMark](../../topics/brownmark/index.md), [Coachella (event)](../../topics/event/coachella/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Morris Day](../../topics/morris-day/index.md), [Nile Rodgers](../../topics/nile-rodgers/index.md), [Originals (album)](../../topics/album/originals/index.md), [Romance 1600 (album)](../../topics/album/romance-1600/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Super Bowl XLI (event)](../../topics/event/super-bowl-xli/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [The Revolution](../../topics/the-revolution/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8517576/prince-originals-album-covers))
 
 ----
@@ -347,7 +347,7 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 21 December 2018
-    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Super Bowl](../../topics/super-bowl/index.md)
+    - about [Erykah Badu](../../topics/erykah-badu/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Super Bowl](../../topics/super-bowl/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/10-signs-the-minnesota-music-scene-was-alive-and-well-in-2018/503245841/))
 
 <br />
@@ -385,7 +385,7 @@
     - by [Rochelle Olson](../../authors/rochelle-olson/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 7 February 2018
-    - about [Super Bowl](../../topics/super-bowl/index.md)
+    - about [Mall of America (place)](../../topics/place/mall-of-america/index.md), [Super Bowl](../../topics/super-bowl/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/52-pickup-a-look-at-the-super-bowl-numbers/473202563/))
 
 <br />
@@ -402,7 +402,7 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 3 February 2018
-    - about [Super Bowl](../../topics/super-bowl/index.md)
+    - about [Mall of America (place)](../../topics/place/mall-of-america/index.md), [Super Bowl](../../topics/super-bowl/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/dj-questlove-spins-prince-tunes-for-late-night-party-at-dakota-jazz-club/472482923/))
 
 <br />
@@ -428,7 +428,7 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 2 February 2018
-    - about [Super Bowl](../../topics/super-bowl/index.md)
+    - about [Mall of America (place)](../../topics/place/mall-of-america/index.md), [Super Bowl](../../topics/super-bowl/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/justin-timberlake-shows-off-new-album-dance-moves-at-prince-s-paisley-park/472223243/))
 
 <br />
@@ -540,7 +540,7 @@
  - [**"Embrace the Bold North in Minneapolis for Super Bowl"**](https://apnews.com/5ddc01f147644c79820a62b065eb5efb)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 17 January 2018
-    - about [airport](../../topics/airport/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [museum](../../topics/museum/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md)
+    - about [airport](../../topics/airport/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Mall of America (place)](../../topics/place/mall-of-america/index.md), [museum](../../topics/museum/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/5ddc01f147644c79820a62b065eb5efb))
 
 <br />
@@ -561,7 +561,7 @@
  - [**"Minneapolis will be alive with activity during the Super Bowl"**](https://apnews.com/article/archive-minneapolis-06bbdc75a3da466cbe90d890fe362c72)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 24 December 2017
-    - about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [motorcycle](../../topics/motorcycle/index.md), [museum](../../topics/museum/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md)
+    - about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Mall of America (place)](../../topics/place/mall-of-america/index.md), [motorcycle](../../topics/motorcycle/index.md), [museum](../../topics/museum/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/archive-minneapolis-06bbdc75a3da466cbe90d890fe362c72))
 
 <br />
@@ -586,7 +586,7 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 1 December 2017
-    - about [Jimmy “Jam” Harris](../../topics/jimmy-jam-harris/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - about [Coachella (event)](../../topics/event/coachella/index.md), [Jimmy “Jam” Harris](../../topics/jimmy-jam-harris/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/jimmy-jam-terry-lewis-announce-super-bowl-live-lineup-idina-menzel-sheila-e-morris-day-soul-asylum/461298463/))
 
 <br />
@@ -644,7 +644,7 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md), [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 24 April 2017
-    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Super Bowl](../../topics/super-bowl/index.md)
+    - about [Mall of America (place)](../../topics/place/mall-of-america/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Super Bowl](../../topics/super-bowl/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/highlights-from-prince-memorial-weekend-and-advice-for-future-years/420198123/))
 
 <br />
@@ -673,7 +673,7 @@
  - [**"Remembering Prince’s incredible 2007 Super Bowl halftime show -- It’s the 10th anniversary of one of the best halftime shows ever."**](https://www.sbnation.com/2017/2/4/14463094/super-bowl-halftime-show-prince-2007-purple-rain-retrospective)
     - in [sbnation.com](../../publications/p-t/sbnation-com/index.md)
     - on 5 February 2017
-    - about [1999 (song)](../../topics/song/1999/index.md), [Baby I’m a Star (song)](../../topics/song/baby-i-m-a-star/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Super Bowl XLI (event)](../../topics/event/super-bowl-xli/index.md), [vault](../../topics/vault/index.md), [YouTube](../../topics/youtube/index.md)
+    - about [1999 (song)](../../topics/song/1999/index.md), [Baby I’m a Star (song)](../../topics/song/baby-i-m-a-star/index.md), [Coachella (event)](../../topics/event/coachella/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Super Bowl XLI (event)](../../topics/event/super-bowl-xli/index.md), [vault](../../topics/vault/index.md), [YouTube](../../topics/youtube/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.sbnation.com/2017/2/4/14463094/super-bowl-halftime-show-prince-2007-purple-rain-retrospective))
 
 ----
@@ -730,7 +730,7 @@
  - [**"Oprah, Mick Jagger among celebs to react to Prince’s death"**](https://apnews.com/ad3076cbbe69473495debc13e52669c5)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 22 April 2016
-    - about [Albert Magnoli](../../topics/albert-magnoli/index.md), [Grammy Award](../../topics/grammy-award/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Obama](../../topics/obama/index.md), [Rita Ora](../../topics/rita-ora/index.md), [Sony Music](../../topics/sony-music/index.md), [Spike Lee](../../topics/spike-lee/index.md), [Super Bowl](../../topics/super-bowl/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
+    - about [Albert Magnoli](../../topics/albert-magnoli/index.md), [Grammy Award](../../topics/grammy-award/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Obama](../../topics/obama/index.md), [Oprah (TV show)](../../topics/tv-show/oprah/index.md), [Rita Ora](../../topics/rita-ora/index.md), [Sony Music](../../topics/sony-music/index.md), [Spike Lee](../../topics/spike-lee/index.md), [Super Bowl](../../topics/super-bowl/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/ad3076cbbe69473495debc13e52669c5))
 
 <br />
@@ -883,7 +883,7 @@
     - by [Ann Powers](../../authors/ann-powers/index.md)
     - in [latimesblogs.latimes.com](../../publications/k-o/latimesblogs-latimes-com/index.md)
     - on 8 January 2009
-    - about [Ani DiFranco](../../topics/ani-difranco/index.md), [Better With Time (song)](../../topics/song/better-with-time/index.md), [Bria Valente](../../topics/bria-valente/index.md), [Carlos Santana](../../topics/carlos-santana/index.md), [Earth, Wind and Fire](../../topics/earth-wind-and-fire/index.md), [Esperanza Spalding](../../topics/esperanza-spalding/index.md), [Janelle Monae](../../topics/janelle-monae/index.md), [Kristin Scott Thomas](../../topics/kristin-scott-thomas/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Morris Hayes](../../topics/morris-hayes/index.md), [MPLSoUND (album)](../../topics/album/mplsound/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Paisley Park Studios (place)](../../topics/place/paisley-park-studios/index.md), [perfume](../../topics/perfume/index.md), [Shelby J.](../../topics/shelby-j/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Tamar Davis](../../topics/tamar-davis/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
+    - about [Ani DiFranco](../../topics/ani-difranco/index.md), [Better With Time (song)](../../topics/song/better-with-time/index.md), [Bria Valente](../../topics/bria-valente/index.md), [Carlos Santana](../../topics/carlos-santana/index.md), [Coachella (event)](../../topics/event/coachella/index.md), [Earth, Wind and Fire](../../topics/earth-wind-and-fire/index.md), [Esperanza Spalding](../../topics/esperanza-spalding/index.md), [Janelle Monae](../../topics/janelle-monae/index.md), [Kristin Scott Thomas](../../topics/kristin-scott-thomas/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Morris Hayes](../../topics/morris-hayes/index.md), [MPLSoUND (album)](../../topics/album/mplsound/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Paisley Park Studios (place)](../../topics/place/paisley-park-studios/index.md), [perfume](../../topics/perfume/index.md), [Shelby J.](../../topics/shelby-j/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Tamar Davis](../../topics/tamar-davis/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/http://latimesblogs.latimes.com/music_blog/2009/01/one-night-with.html))
 
 ----

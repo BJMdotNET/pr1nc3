@@ -70,7 +70,7 @@
  - [**"From films at Paisley Park to the new Fillmore, here are four musical events worth catching"**](https://www.twincities.com/2020/01/09/from-films-at-paisley-park-to-the-new-fillmore-here-are-four-musical-events-worth-catching/)
     - in [TwinCities.com - Pioneer Press](../../publications/p-t/twincities-com-pioneer-press/index.md)
     - on 9 January 2020
-    - about [Amazing Grace (movie)](../../topics/movie/amazing-grace/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Dave Chappelle](../../topics/dave-chappelle/index.md), [Dave Chappelle’s Block Party (movie)](../../topics/movie/dave-chappelle-s-block-party/index.md), [exhibit](../../topics/exhibit/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [John Legend](../../topics/john-legend/index.md), [Minnesota History Center](../../topics/minnesota-history-center/index.md), [museum](../../topics/museum/index.md), [Paisley Park Cinema: Music on the Big Screen (event)](../../topics/event/paisley-park-cinema-music-on-the-big-screen/index.md), [The Roots](../../topics/the-roots/index.md), [vault](../../topics/vault/index.md), [Wattstax (movie)](../../topics/movie/wattstax/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md)
+    - about [Amazing Grace (movie)](../../topics/movie/amazing-grace/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Dave Chappelle](../../topics/dave-chappelle/index.md), [Dave Chappelle’s Block Party (movie)](../../topics/movie/dave-chappelle-s-block-party/index.md), [Erykah Badu](../../topics/erykah-badu/index.md), [exhibit](../../topics/exhibit/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [John Legend](../../topics/john-legend/index.md), [Minnesota History Center](../../topics/minnesota-history-center/index.md), [museum](../../topics/museum/index.md), [Paisley Park Cinema: Music on the Big Screen (event)](../../topics/event/paisley-park-cinema-music-on-the-big-screen/index.md), [The Roots](../../topics/the-roots/index.md), [vault](../../topics/vault/index.md), [Wattstax (movie)](../../topics/movie/wattstax/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2020/01/09/from-films-at-paisley-park-to-the-new-fillmore-here-are-four-musical-events-worth-catching/))
 
 <br />
@@ -108,7 +108,7 @@
  - [**"Coffee table books are great gifts — even if you don’t have a coffee table"**](https://www.twincities.com/2019/11/30/coffee-table-books-are-great-gifts-even-if-you-dont-have-a-coffee-table/)
     - in [TwinCities.com - Pioneer Press](../../publications/p-t/twincities-com-pioneer-press/index.md)
     - on 30 November 2019
-    - about [Andy Warhol](../../topics/andy-warhol/index.md), [exhibit](../../topics/exhibit/index.md), [exhibition](../../topics/exhibition/index.md), [Hachette Books](../../topics/hachette-books/index.md), [museum](../../topics/museum/index.md), [Penguin Random House](../../topics/penguin-random-house/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md), [trademark](../../topics/trademark/index.md)
+    - about [Andy Warhol](../../topics/andy-warhol/index.md), [exhibit](../../topics/exhibit/index.md), [exhibition](../../topics/exhibition/index.md), [Hachette Books](../../topics/hachette-books/index.md), [museum](../../topics/museum/index.md), [Oprah (TV show)](../../topics/tv-show/oprah/index.md), [Penguin Random House](../../topics/penguin-random-house/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md), [trademark](../../topics/trademark/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2019/11/30/coffee-table-books-are-great-gifts-even-if-you-dont-have-a-coffee-table/))
 
 <br />
@@ -116,7 +116,7 @@
  - [**"Don’t overlook splashy coffee table books as holiday gifts"**](https://apnews.com/e8495b29d38d4596b879f066a3eec8fb)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 19 November 2019
-    - about [Andy Warhol](../../topics/andy-warhol/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [exhibit](../../topics/exhibit/index.md), [exhibition](../../topics/exhibition/index.md), [Hachette Books](../../topics/hachette-books/index.md), [museum](../../topics/museum/index.md), [Penguin Random House](../../topics/penguin-random-house/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md), [trademark](../../topics/trademark/index.md)
+    - about [Andy Warhol](../../topics/andy-warhol/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [exhibit](../../topics/exhibit/index.md), [exhibition](../../topics/exhibition/index.md), [Hachette Books](../../topics/hachette-books/index.md), [museum](../../topics/museum/index.md), [Oprah (TV show)](../../topics/tv-show/oprah/index.md), [Penguin Random House](../../topics/penguin-random-house/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md), [trademark](../../topics/trademark/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/e8495b29d38d4596b879f066a3eec8fb))
 
 <br />
@@ -124,7 +124,7 @@
  - [**"Don't overlook splashy coffee table books as holiday gifts"**](https://www.startribune.com/don-t-overlook-splashy-coffee-table-books-as-holiday-gifts/565099382/)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 19 November 2019
-    - about [Andy Warhol](../../topics/andy-warhol/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [exhibit](../../topics/exhibit/index.md), [exhibition](../../topics/exhibition/index.md), [Hachette Books](../../topics/hachette-books/index.md), [museum](../../topics/museum/index.md), [Penguin Random House](../../topics/penguin-random-house/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md), [trademark](../../topics/trademark/index.md)
+    - about [Andy Warhol](../../topics/andy-warhol/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [exhibit](../../topics/exhibit/index.md), [exhibition](../../topics/exhibition/index.md), [Hachette Books](../../topics/hachette-books/index.md), [museum](../../topics/museum/index.md), [Oprah (TV show)](../../topics/tv-show/oprah/index.md), [Penguin Random House](../../topics/penguin-random-house/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md), [trademark](../../topics/trademark/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/don-t-overlook-splashy-coffee-table-books-as-holiday-gifts/565099382/))
 
 <br />
@@ -142,7 +142,7 @@
  - [**"Reckoning With The Ethics of The Ever-Unfurling Prince Vault -- The demos, b-sides and rarities keep coming. How should we feel about listening?"**](https://www.pastemagazine.com/articles/2019/10/prince-estate-ethics.html)
     - in [Paste Magazine](../../publications/p-t/paste-magazine/index.md)
     - on 23 October 2019
-    - about [1999 (album)](../../topics/album/1999/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [contract](../../topics/contract/index.md), [D’Angelo](../../topics/d-angelo/index.md), [exhibit](../../topics/exhibit/index.md), [For You (album)](../../topics/album/for-you/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Spotify](../../topics/spotify/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [trademark](../../topics/trademark/index.md), [vault](../../topics/vault/index.md), [YouTube](../../topics/youtube/index.md)
+    - about [1999 (album)](../../topics/album/1999/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [contract](../../topics/contract/index.md), [D’Angelo](../../topics/d-angelo/index.md), [exhibit](../../topics/exhibit/index.md), [For You (album)](../../topics/album/for-you/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Oprah (TV show)](../../topics/tv-show/oprah/index.md), [Spotify](../../topics/spotify/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [trademark](../../topics/trademark/index.md), [vault](../../topics/vault/index.md), [YouTube](../../topics/youtube/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.pastemagazine.com/articles/2019/10/prince-estate-ethics.html))
 
 ----

@@ -159,7 +159,7 @@
  - [**"From films at Paisley Park to the new Fillmore, here are four musical events worth catching"**](https://www.twincities.com/2020/01/09/from-films-at-paisley-park-to-the-new-fillmore-here-are-four-musical-events-worth-catching/)
     - in [TwinCities.com - Pioneer Press](../../publications/p-t/twincities-com-pioneer-press/index.md)
     - on 9 January 2020
-    - about [Amazing Grace (movie)](../../topics/movie/amazing-grace/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Dave Chappelle](../../topics/dave-chappelle/index.md), [Dave Chappelle’s Block Party (movie)](../../topics/movie/dave-chappelle-s-block-party/index.md), [exhibit](../../topics/exhibit/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [John Legend](../../topics/john-legend/index.md), [Minnesota History Center](../../topics/minnesota-history-center/index.md), [museum](../../topics/museum/index.md), [Paisley Park Cinema: Music on the Big Screen (event)](../../topics/event/paisley-park-cinema-music-on-the-big-screen/index.md), [The Roots](../../topics/the-roots/index.md), [vault](../../topics/vault/index.md), [Wattstax (movie)](../../topics/movie/wattstax/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md)
+    - about [Amazing Grace (movie)](../../topics/movie/amazing-grace/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Dave Chappelle](../../topics/dave-chappelle/index.md), [Dave Chappelle’s Block Party (movie)](../../topics/movie/dave-chappelle-s-block-party/index.md), [Erykah Badu](../../topics/erykah-badu/index.md), [exhibit](../../topics/exhibit/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [John Legend](../../topics/john-legend/index.md), [Minnesota History Center](../../topics/minnesota-history-center/index.md), [museum](../../topics/museum/index.md), [Paisley Park Cinema: Music on the Big Screen (event)](../../topics/event/paisley-park-cinema-music-on-the-big-screen/index.md), [The Roots](../../topics/the-roots/index.md), [vault](../../topics/vault/index.md), [Wattstax (movie)](../../topics/movie/wattstax/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2020/01/09/from-films-at-paisley-park-to-the-new-fillmore-here-are-four-musical-events-worth-catching/))
 
 <br />
@@ -187,7 +187,7 @@
  - [**"Paisley Park to host film series featuring Aretha, 'Wattstax' and 'Dave Chappelle's Block Party'"**](https://www.startribune.com/paisley-park-to-host-film-series-featuring-aretha-wattstax-and-dave-chappelle-s-block-party/566561102/)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 30 December 2019
-    - about [Alan Seiffert](../../topics/alan-seiffert/index.md), [Amazing Grace (movie)](../../topics/movie/amazing-grace/index.md), [Andre Cymone](../../topics/andre-cymone/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Dave Chappelle](../../topics/dave-chappelle/index.md), [Dave Chappelle’s Block Party (movie)](../../topics/movie/dave-chappelle-s-block-party/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [Judith Hill](../../topics/judith-hill/index.md), [museum](../../topics/museum/index.md), [Paisley Park Cinema: Music on the Big Screen (event)](../../topics/event/paisley-park-cinema-music-on-the-big-screen/index.md), [The Roots](../../topics/the-roots/index.md)
+    - about [Alan Seiffert](../../topics/alan-seiffert/index.md), [Amazing Grace (movie)](../../topics/movie/amazing-grace/index.md), [Andre Cymone](../../topics/andre-cymone/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Dave Chappelle](../../topics/dave-chappelle/index.md), [Dave Chappelle’s Block Party (movie)](../../topics/movie/dave-chappelle-s-block-party/index.md), [Erykah Badu](../../topics/erykah-badu/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [Judith Hill](../../topics/judith-hill/index.md), [museum](../../topics/museum/index.md), [Paisley Park Cinema: Music on the Big Screen (event)](../../topics/event/paisley-park-cinema-music-on-the-big-screen/index.md), [The Roots](../../topics/the-roots/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/paisley-park-to-host-film-series-featuring-aretha-wattstax-and-dave-chappelle-s-block-party/566561102/))
 
 <br />
@@ -213,7 +213,7 @@
  - [**"Coffee table books are great gifts — even if you don’t have a coffee table"**](https://www.twincities.com/2019/11/30/coffee-table-books-are-great-gifts-even-if-you-dont-have-a-coffee-table/)
     - in [TwinCities.com - Pioneer Press](../../publications/p-t/twincities-com-pioneer-press/index.md)
     - on 30 November 2019
-    - about [Andy Warhol](../../topics/andy-warhol/index.md), [exhibit](../../topics/exhibit/index.md), [exhibition](../../topics/exhibition/index.md), [Hachette Books](../../topics/hachette-books/index.md), [museum](../../topics/museum/index.md), [Penguin Random House](../../topics/penguin-random-house/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md), [trademark](../../topics/trademark/index.md)
+    - about [Andy Warhol](../../topics/andy-warhol/index.md), [exhibit](../../topics/exhibit/index.md), [exhibition](../../topics/exhibition/index.md), [Hachette Books](../../topics/hachette-books/index.md), [museum](../../topics/museum/index.md), [Oprah (TV show)](../../topics/tv-show/oprah/index.md), [Penguin Random House](../../topics/penguin-random-house/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md), [trademark](../../topics/trademark/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2019/11/30/coffee-table-books-are-great-gifts-even-if-you-dont-have-a-coffee-table/))
 
 <br />
@@ -221,7 +221,7 @@
  - [**"Don’t overlook splashy coffee table books as holiday gifts"**](https://apnews.com/e8495b29d38d4596b879f066a3eec8fb)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 19 November 2019
-    - about [Andy Warhol](../../topics/andy-warhol/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [exhibit](../../topics/exhibit/index.md), [exhibition](../../topics/exhibition/index.md), [Hachette Books](../../topics/hachette-books/index.md), [museum](../../topics/museum/index.md), [Penguin Random House](../../topics/penguin-random-house/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md), [trademark](../../topics/trademark/index.md)
+    - about [Andy Warhol](../../topics/andy-warhol/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [exhibit](../../topics/exhibit/index.md), [exhibition](../../topics/exhibition/index.md), [Hachette Books](../../topics/hachette-books/index.md), [museum](../../topics/museum/index.md), [Oprah (TV show)](../../topics/tv-show/oprah/index.md), [Penguin Random House](../../topics/penguin-random-house/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md), [trademark](../../topics/trademark/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/e8495b29d38d4596b879f066a3eec8fb))
 
 <br />
@@ -229,7 +229,7 @@
  - [**"Don't overlook splashy coffee table books as holiday gifts"**](https://www.startribune.com/don-t-overlook-splashy-coffee-table-books-as-holiday-gifts/565099382/)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 19 November 2019
-    - about [Andy Warhol](../../topics/andy-warhol/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [exhibit](../../topics/exhibit/index.md), [exhibition](../../topics/exhibition/index.md), [Hachette Books](../../topics/hachette-books/index.md), [museum](../../topics/museum/index.md), [Penguin Random House](../../topics/penguin-random-house/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md), [trademark](../../topics/trademark/index.md)
+    - about [Andy Warhol](../../topics/andy-warhol/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [exhibit](../../topics/exhibit/index.md), [exhibition](../../topics/exhibition/index.md), [Hachette Books](../../topics/hachette-books/index.md), [museum](../../topics/museum/index.md), [Oprah (TV show)](../../topics/tv-show/oprah/index.md), [Penguin Random House](../../topics/penguin-random-house/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md), [trademark](../../topics/trademark/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/don-t-overlook-splashy-coffee-table-books-as-holiday-gifts/565099382/))
 
 <br />
@@ -431,7 +431,7 @@
  - [**"Prince Fast Facts"**](https://kxlf.com/cnn-national/2019/07/02/prince-fast-facts/)
     - in [KXLF.com](../../publications/k-o/kxlf-com/index.md)
     - on 3 July 2019
-    - about [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [contract](../../topics/contract/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [divorce](../../topics/divorce/index.md), [fentanyl](../../topics/fentanyl/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [John Nelson](../../topics/john-nelson/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [lawsuit](../../topics/lawsuit/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Michael Schulenberg](../../topics/michael-schulenberg/index.md), [Minnesota Vikings](../../topics/minnesota-vikings/index.md), [museum](../../topics/museum/index.md), [Parents Music Resource Center](../../topics/parents-music-resource-center/index.md), [Percocet](../../topics/percocet/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Super Bowl](../../topics/super-bowl/index.md), [The Revolution](../../topics/the-revolution/index.md), [Tim Burton](../../topics/tim-burton/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md), [Walgreens](../../topics/walgreens/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
+    - about [Amiir](../../topics/amiir/index.md), [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [contract](../../topics/contract/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [divorce](../../topics/divorce/index.md), [fentanyl](../../topics/fentanyl/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [John Nelson](../../topics/john-nelson/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [lawsuit](../../topics/lawsuit/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Michael Schulenberg](../../topics/michael-schulenberg/index.md), [Minnesota Vikings](../../topics/minnesota-vikings/index.md), [museum](../../topics/museum/index.md), [Parents Music Resource Center](../../topics/parents-music-resource-center/index.md), [Percocet](../../topics/percocet/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Super Bowl](../../topics/super-bowl/index.md), [The Revolution](../../topics/the-revolution/index.md), [Tim Burton](../../topics/tim-burton/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md), [Walgreens](../../topics/walgreens/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://kxlf.com/cnn-national/2019/07/02/prince-fast-facts/))
 
 ----
@@ -587,7 +587,7 @@
  - [**"The days the music died: A look at funerals of the greats"**](https://apnews.com/7d546ab5dbec4e5ba4ebd0eddd1064e8)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 29 August 2018
-    - about [Aretha Franklin](../../topics/aretha-franklin/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Graceland](../../topics/graceland/index.md), [James Brown](../../topics/james-brown/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [museum](../../topics/museum/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [trademark](../../topics/trademark/index.md)
+    - about [Aretha Franklin](../../topics/aretha-franklin/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Graceland](../../topics/graceland/index.md), [James Brown](../../topics/james-brown/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [museum](../../topics/museum/index.md), [Oprah (TV show)](../../topics/tv-show/oprah/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [trademark](../../topics/trademark/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/7d546ab5dbec4e5ba4ebd0eddd1064e8))
 
 ----
@@ -651,7 +651,7 @@
  - [**"Embrace the Bold North in Minneapolis for Super Bowl"**](https://apnews.com/5ddc01f147644c79820a62b065eb5efb)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 17 January 2018
-    - about [airport](../../topics/airport/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [museum](../../topics/museum/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md)
+    - about [airport](../../topics/airport/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Mall of America (place)](../../topics/place/mall-of-america/index.md), [museum](../../topics/museum/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/5ddc01f147644c79820a62b065eb5efb))
 
 ----
@@ -663,7 +663,7 @@
  - [**"Minneapolis will be alive with activity during the Super Bowl"**](https://apnews.com/article/archive-minneapolis-06bbdc75a3da466cbe90d890fe362c72)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 24 December 2017
-    - about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [motorcycle](../../topics/motorcycle/index.md), [museum](../../topics/museum/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md)
+    - about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Mall of America (place)](../../topics/place/mall-of-america/index.md), [motorcycle](../../topics/motorcycle/index.md), [museum](../../topics/museum/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/archive-minneapolis-06bbdc75a3da466cbe90d890fe362c72))
 
 ----
@@ -923,7 +923,7 @@
  - [**"The Latest: Paisley Park gets temporary permit for 3 days"**](https://apnews.com/73fd90f56feb4f4a8cb841127f205ee1)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 4 October 2016
-    - about [Bremer Trust](../../topics/bremer-trust/index.md), [exhibition](../../topics/exhibition/index.md), [museum](../../topics/museum/index.md)
+    - about [Bremer Trust](../../topics/bremer-trust/index.md), [exhibition](../../topics/exhibition/index.md), [Mall of America (place)](../../topics/place/mall-of-america/index.md), [museum](../../topics/museum/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/73fd90f56feb4f4a8cb841127f205ee1))
 
 ----

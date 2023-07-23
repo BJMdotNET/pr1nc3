@@ -269,7 +269,7 @@
  - [**"Jimmy Jam enjoys some home cooking at Rudolph&#039;s -- Rudolph's Bar-B-Que was calling, and Jimmy Jam was answering."**](https://www.startribune.com/jimmy-jam-enjoys-some-home-cooking-at-rudolph-s/96342699/)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 14 June 2010
-    - about [Jerome Benton](../../topics/jerome-benton/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - about [Jerome Benton](../../topics/jerome-benton/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Oprah (TV show)](../../topics/tv-show/oprah/index.md), [Symbolina](../../topics/symbolina/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/jimmy-jam-enjoys-some-home-cooking-at-rudolph-s/96342699/))
 
 <br />

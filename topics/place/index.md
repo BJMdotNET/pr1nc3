@@ -1,6 +1,7 @@
 # place
 
   * [1015 Folsom (place)](../place/1015-folsom/index.md) (2)
+  * [Abbott Northwestern Hospital (place)](../place/abbott-northwestern-hospital/index.md) (2)
   * [Alamodome (place)](../place/alamodome/index.md) (1)
   * [Aldrich Av. S. (place)](../place/aldrich-av-s/index.md) (1)
   * [Armory (place)](../place/armory/index.md) (4)
@@ -26,6 +27,7 @@
   * [Chanhassen (place)](../place/chanhassen/index.md) (65)
   * [Chanhassen Inn (place)](../place/chanhassen-inn/index.md) (1)
   * [Chicago (place)](../place/chicago/index.md) (1)
+  * [Children's Health Care-Minneapolis (place)](../place/children-s-health-care-minneapolis/index.md) (1)
   * [Citrus Heights (place)](../place/citrus-heights/index.md) (1)
   * [Club Nokia (place)](../place/club-nokia/index.md) (1)
   * [Compaq Center (place)](../place/compaq-center/index.md) (1)
@@ -75,6 +77,7 @@
   * [Los Angeles Convention Center (place)](../place/los-angeles-convention-center/index.md) (13)
   * [Louisiana Superdome (place)](../place/louisiana-superdome/index.md) (2)
   * [Majestic Theatre (place)](../place/majestic-theatre/index.md) (1)
+  * [Mall of America (place)](../place/mall-of-america/index.md) (30)
   * [Mann’s Chinese Theatre (place)](../place/mann-s-chinese-theatre/index.md) (2)
   * [Miami (place)](../place/miami/index.md) (4)
   * [Minneapolis-St. Paul International Airport (place)](../place/minneapolis-st-paul-international-airport/index.md) (7)
@@ -87,6 +90,7 @@
   * [New York (place)](../place/new-york/index.md) (3)
   * [Nicollet Mall (place)](../place/nicollet-mall/index.md) (3)
   * [Nokia Theater (place)](../place/nokia-theater/index.md) (1)
+  * [Nordstrom (place)](../place/nordstrom/index.md) (5)
   * [North Arm Drive (place)](../place/north-arm-drive/index.md) (1)
   * [North Carolina (place)](../place/north-carolina/index.md) (2)
   * [North Memorial Medical Center (place)](../place/north-memorial-medical-center/index.md) (5)

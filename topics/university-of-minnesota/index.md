@@ -36,7 +36,7 @@
  - [**"Minnesota is often overlooked on a worldwide scale, but we have an amazing medical scene -- Images of 3M masks are widespread, which got me thinking."**](https://www.startribune.com/minnesota-is-often-overlooked-on-a-worldwide-scale-but-we-have-an-amazing-medical-scene/567438732/)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 30 January 2020
-    - about [Celebration (event)](../../topics/event/celebration/index.md), [Lizzo](../../topics/lizzo/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md)
+    - about [Celebration (event)](../../topics/event/celebration/index.md), [Lizzo](../../topics/lizzo/index.md), [Mall of America (place)](../../topics/place/mall-of-america/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/minnesota-is-often-overlooked-on-a-worldwide-scale-but-we-have-an-amazing-medical-scene/567438732/))
 
 <br />
@@ -185,7 +185,7 @@
  - [**"Minneapolis will be alive with activity during the Super Bowl"**](https://apnews.com/article/archive-minneapolis-06bbdc75a3da466cbe90d890fe362c72)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 24 December 2017
-    - about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [motorcycle](../../topics/motorcycle/index.md), [museum](../../topics/museum/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md)
+    - about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Mall of America (place)](../../topics/place/mall-of-america/index.md), [motorcycle](../../topics/motorcycle/index.md), [museum](../../topics/museum/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/archive-minneapolis-06bbdc75a3da466cbe90d890fe362c72))
 
 ----

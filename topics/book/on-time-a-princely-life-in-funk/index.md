@@ -94,7 +94,7 @@
  - [**"The Time’s Morris Day imagines a conversation with Prince in his new book ‘On Time’"**](https://www.twincities.com/2019/10/11/the-times-morris-day-imagines-a-conversation-with-prince-in-his-new-book-on-time/)
     - in [TwinCities.com - Pioneer Press](../../../publications/p-t/twincities-com-pioneer-press/index.md)
     - on 11 October 2019
-    - about [divorce](../../../topics/divorce/index.md), [memoir](../../../topics/memoir/index.md), [Morris Day](../../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../../topics/book/on-time-a-princely-life-in-funk/index.md), [The Time](../../../topics/the-time/index.md)
+    - about [divorce](../../../topics/divorce/index.md), [Mall of America (place)](../../../topics/place/mall-of-america/index.md), [memoir](../../../topics/memoir/index.md), [Morris Day](../../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../../topics/book/on-time-a-princely-life-in-funk/index.md), [The Time](../../../topics/the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2019/10/11/the-times-morris-day-imagines-a-conversation-with-prince-in-his-new-book-on-time/))
 
 <br />
@@ -103,7 +103,7 @@
     - by [Jon Bream](../../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 8 October 2019
-    - about [Aretha Franklin](../../../topics/aretha-franklin/index.md), [Donald Trump](../../../topics/donald-trump/index.md), [Jam and Lewis](../../../topics/jam-and-lewis/index.md), [Jamie Starr](../../../topics/jamie-starr/index.md), [Janet Jackson](../../../topics/janet-jackson/index.md), [memoir](../../../topics/memoir/index.md), [Morris Day](../../../topics/morris-day/index.md), [Morris Day and The Time](../../../topics/morris-day-and-the-time/index.md), [On Time: A Princely Life in Funk (book)](../../../topics/book/on-time-a-princely-life-in-funk/index.md), [Pandemonium (album)](../../../topics/album/pandemonium/index.md), [Trump](../../../topics/trump/index.md)
+    - about [Aretha Franklin](../../../topics/aretha-franklin/index.md), [Donald Trump](../../../topics/donald-trump/index.md), [Jam and Lewis](../../../topics/jam-and-lewis/index.md), [Jamie Starr](../../../topics/jamie-starr/index.md), [Janet Jackson](../../../topics/janet-jackson/index.md), [Mall of America (place)](../../../topics/place/mall-of-america/index.md), [memoir](../../../topics/memoir/index.md), [Morris Day](../../../topics/morris-day/index.md), [Morris Day and The Time](../../../topics/morris-day-and-the-time/index.md), [On Time: A Princely Life in Funk (book)](../../../topics/book/on-time-a-princely-life-in-funk/index.md), [Pandemonium (album)](../../../topics/album/pandemonium/index.md), [Trump](../../../topics/trump/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-haunts-morris-day-s-new-memoir-i-still-hear-his-voice-in-my-head/562430972/))
 
 <br />

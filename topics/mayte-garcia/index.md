@@ -30,7 +30,7 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 5 June 2022
-    - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Alicia Keys](../../topics/alicia-keys/index.md), [BrownMark](../../topics/brownmark/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [Celebration 2017 (event)](../../topics/event/celebration-2017/index.md), [Celebration 2019 (event)](../../topics/event/celebration-2019/index.md), [Celebration 2022 (event)](../../topics/event/celebration-2022/index.md), [Chanhassen Dinner Theatres](../../topics/chanhassen-dinner-theatres/index.md), [De Angela Duff](../../topics/de-angela-duff/index.md), [Donna Grantis](../../topics/donna-grantis/index.md), [Elliott Powell](../../topics/elliott-powell/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [Hannah Welton](../../topics/hannah-welton/index.md), [Ida Nielsen](../../topics/ida-nielsen/index.md), [Janelle Monae](../../topics/janelle-monae/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Joshua Welton](../../topics/joshua-welton/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Lenny Kravitz](../../topics/lenny-kravitz/index.md), [Levi Seacer](../../topics/levi-seacer/index.md), [Levi Seacer, Jr.](../../topics/levi-seacer-jr/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Mazarati](../../topics/mazarati/index.md), [Nichole Nordeman](../../topics/nichole-nordeman/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Prince and The Revolution](../../topics/prince-and-the-revolution/index.md), [Questlove](../../topics/questlove/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md), [Sounds of Blackness](../../topics/sounds-of-blackness/index.md), [Stokley](../../topics/stokley/index.md), [Target Center (place)](../../topics/place/target-center/index.md), [Tommy Barbarella](../../topics/tommy-barbarella/index.md), [Zaheer Ali](../../topics/zaheer-ali/index.md)
+    - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Alicia Keys](../../topics/alicia-keys/index.md), [BrownMark](../../topics/brownmark/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [Celebration 2017 (event)](../../topics/event/celebration-2017/index.md), [Celebration 2019 (event)](../../topics/event/celebration-2019/index.md), [Celebration 2022 (event)](../../topics/event/celebration-2022/index.md), [Chanhassen Dinner Theatres](../../topics/chanhassen-dinner-theatres/index.md), [De Angela Duff](../../topics/de-angela-duff/index.md), [Donna Grantis](../../topics/donna-grantis/index.md), [Elliott Powell](../../topics/elliott-powell/index.md), [Erykah Badu](../../topics/erykah-badu/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [Hannah Welton](../../topics/hannah-welton/index.md), [Ida Nielsen](../../topics/ida-nielsen/index.md), [Janelle Monae](../../topics/janelle-monae/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Joshua Welton](../../topics/joshua-welton/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Lenny Kravitz](../../topics/lenny-kravitz/index.md), [Levi Seacer](../../topics/levi-seacer/index.md), [Levi Seacer, Jr.](../../topics/levi-seacer-jr/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Mazarati](../../topics/mazarati/index.md), [Nichole Nordeman](../../topics/nichole-nordeman/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Prince and The Revolution](../../topics/prince-and-the-revolution/index.md), [Questlove](../../topics/questlove/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md), [Sounds of Blackness](../../topics/sounds-of-blackness/index.md), [Stokley](../../topics/stokley/index.md), [Target Center (place)](../../topics/place/target-center/index.md), [Tommy Barbarella](../../topics/tommy-barbarella/index.md), [Zaheer Ali](../../topics/zaheer-ali/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/highlights-from-two-long-exhilarating-days-at-prince-celebration-2022-at-paisley-park-mayte-garcia/600179523/))
 
 ----
@@ -83,7 +83,7 @@
  - [**"Prince Fast Facts"**](https://kxlf.com/cnn-national/2019/07/02/prince-fast-facts/)
     - in [KXLF.com](../../publications/k-o/kxlf-com/index.md)
     - on 3 July 2019
-    - about [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [contract](../../topics/contract/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [divorce](../../topics/divorce/index.md), [fentanyl](../../topics/fentanyl/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [John Nelson](../../topics/john-nelson/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [lawsuit](../../topics/lawsuit/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Michael Schulenberg](../../topics/michael-schulenberg/index.md), [Minnesota Vikings](../../topics/minnesota-vikings/index.md), [museum](../../topics/museum/index.md), [Parents Music Resource Center](../../topics/parents-music-resource-center/index.md), [Percocet](../../topics/percocet/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Super Bowl](../../topics/super-bowl/index.md), [The Revolution](../../topics/the-revolution/index.md), [Tim Burton](../../topics/tim-burton/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md), [Walgreens](../../topics/walgreens/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
+    - about [Amiir](../../topics/amiir/index.md), [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [contract](../../topics/contract/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [divorce](../../topics/divorce/index.md), [fentanyl](../../topics/fentanyl/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [John Nelson](../../topics/john-nelson/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [lawsuit](../../topics/lawsuit/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Michael Schulenberg](../../topics/michael-schulenberg/index.md), [Minnesota Vikings](../../topics/minnesota-vikings/index.md), [museum](../../topics/museum/index.md), [Parents Music Resource Center](../../topics/parents-music-resource-center/index.md), [Percocet](../../topics/percocet/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Super Bowl](../../topics/super-bowl/index.md), [The Revolution](../../topics/the-revolution/index.md), [Tim Burton](../../topics/tim-burton/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md), [Walgreens](../../topics/walgreens/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://kxlf.com/cnn-national/2019/07/02/prince-fast-facts/))
 
 ----
@@ -149,7 +149,7 @@
  - [**"Prince’s ex-wife Mayte Garcia pays tribute to late star"**](https://apnews.com/f7d92f7f16cd4330912e7a1674f4c8e7)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 22 April 2017
-    - about [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [perfume](../../topics/perfume/index.md)
+    - about [Amiir](../../topics/amiir/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [perfume](../../topics/perfume/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/f7d92f7f16cd4330912e7a1674f4c8e7))
 
 <br />
@@ -165,7 +165,7 @@
  - [**"Mayte Garcia on the Prince you didn’t know"**](https://apnews.com/a4115faebefc463a8aad4433e14f5d2b)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 19 April 2017
-    - about [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [The Most Beautiful (book)](../../topics/book/the-most-beautiful/index.md)
+    - about [Amiir](../../topics/amiir/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [The Most Beautiful (book)](../../topics/book/the-most-beautiful/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/a4115faebefc463a8aad4433e14f5d2b))
 
 <br />
@@ -198,7 +198,7 @@
     - by [Leanne Italie (Associated Press)](../../authors/associated-press/leanne-italie/index.md)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 10 April 2017
-    - about [divorce](../../topics/divorce/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [memoir](../../topics/memoir/index.md), [opioid](../../topics/opioid/index.md), [The Most Beautiful (book)](../../topics/book/the-most-beautiful/index.md), [Vicodin](../../topics/vicodin/index.md)
+    - about [Amiir](../../topics/amiir/index.md), [divorce](../../topics/divorce/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [memoir](../../topics/memoir/index.md), [opioid](../../topics/opioid/index.md), [Oprah (TV show)](../../topics/tv-show/oprah/index.md), [The Most Beautiful (book)](../../topics/book/the-most-beautiful/index.md), [Vicodin](../../topics/vicodin/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/0c93c63651ef4f15adde78e51b38c197))
 
 <br />
@@ -217,7 +217,7 @@
     - by [The Associated Press](../../authors/the-associated-press/index.md)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 15 March 2017
-    - about [divorce](../../topics/divorce/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [memoir](../../topics/memoir/index.md), [Pfeiffer syndrome type 2](../../topics/pfeiffer-syndrome-type-2/index.md)
+    - about [Amiir](../../topics/amiir/index.md), [divorce](../../topics/divorce/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [memoir](../../topics/memoir/index.md), [Pfeiffer syndrome type 2](../../topics/pfeiffer-syndrome-type-2/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/4353bb4317364ba9b544c3363334fe4b))
 
 <br />
@@ -300,7 +300,7 @@
     - by [Mesfin Fekadu (Associated Press)](../../authors/associated-press/mesfin-fekadu/index.md)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 28 July 2016
-    - about [Janelle Monae](../../topics/janelle-monae/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [The Roots](../../topics/the-roots/index.md), [Tori Kelly](../../topics/tori-kelly/index.md)
+    - about [Erykah Badu](../../topics/erykah-badu/index.md), [Janelle Monae](../../topics/janelle-monae/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [The Roots](../../topics/the-roots/index.md), [Tori Kelly](../../topics/tori-kelly/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/08568057d51c46f8a3daf99e36db5e38))
 
 <br />
@@ -309,7 +309,7 @@
     - by [Mesfin Fekadu (Associated Press)](../../authors/associated-press/mesfin-fekadu/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 28 July 2016
-    - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [BET Awards](../../topics/bet-awards/index.md), [Beyoncé](../../topics/beyonc/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Janelle Monae](../../topics/janelle-monae/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Roots](../../topics/the-roots/index.md), [The Time](../../topics/the-time/index.md), [Tori Kelly](../../topics/tori-kelly/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)
+    - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [BET Awards](../../topics/bet-awards/index.md), [Beyoncé](../../topics/beyonc/index.md), [Erykah Badu](../../topics/erykah-badu/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Janelle Monae](../../topics/janelle-monae/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Roots](../../topics/the-roots/index.md), [The Time](../../topics/the-time/index.md), [Tori Kelly](../../topics/tori-kelly/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/apnewsbreak-official-prince-tribute-concert-set-for-october/388585801/))
 
 ----
@@ -319,7 +319,7 @@
  - [**"BET Awards full of Prince tributes and political moments"**](https://apnews.com/6b28e8f305564390bd4b11732e176683)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 27 June 2016
-    - about [BET Awards](../../topics/bet-awards/index.md), [Donald Trump](../../topics/donald-trump/index.md), [Janelle Monae](../../topics/janelle-monae/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Ballad Of Dorothy Parker (song)](../../topics/song/the-ballad-of-dorothy-parker/index.md), [Trump](../../topics/trump/index.md)
+    - about [BET Awards](../../topics/bet-awards/index.md), [Donald Trump](../../topics/donald-trump/index.md), [Erykah Badu](../../topics/erykah-badu/index.md), [Janelle Monae](../../topics/janelle-monae/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Ballad Of Dorothy Parker (song)](../../topics/song/the-ballad-of-dorothy-parker/index.md), [Trump](../../topics/trump/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/6b28e8f305564390bd4b11732e176683))
 
 <br />
@@ -454,7 +454,7 @@
     - by [Chris Graves](../../authors/chris-graves/index.md), [Chris Ison](../../authors/chris-ison/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 1 March 1997
-    - about [Arlene Mojica](../../topics/arlene-mojica/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md)
+    - about [Abbott Northwestern Hospital (place)](../../topics/place/abbott-northwestern-hospital/index.md), [Arlene Mojica](../../topics/arlene-mojica/index.md), [Boy Gregory](../../topics/boy-gregory/index.md), [Children's Health Care-Minneapolis (place)](../../topics/place/children-s-health-care-minneapolis/index.md), [John J. Fangman](../../topics/john-j-fangman/index.md), [Larry Altman](../../topics/larry-altman/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Mia Gregory](../../topics/mia-gregory/index.md), [Nanny Mojica](../../topics/nanny-mojica/index.md), [Pat Diamond](../../topics/pat-diamond/index.md), [Pfieffer's syndrome](../../topics/pfieffer-s-syndrome/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/2007-death-of-baby-born-to-prince-s-wife-under-review/11466661/))
 
 ----

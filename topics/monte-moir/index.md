@@ -62,7 +62,7 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 26 January 2016
-    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Monte Moir](../../topics/monte-moir/index.md), [Morris Day](../../topics/morris-day/index.md)
+    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Mall of America (place)](../../topics/place/mall-of-america/index.md), [Monte Moir](../../topics/monte-moir/index.md), [Morris Day](../../topics/morris-day/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/it-s-party-time-at-paisley-morris-day-to-play-prince-s-place-friday/366612721/))
 
 ----

@@ -27,7 +27,7 @@
  - [**"Minnesota is often overlooked on a worldwide scale, but we have an amazing medical scene -- Images of 3M masks are widespread, which got me thinking."**](https://www.startribune.com/minnesota-is-often-overlooked-on-a-worldwide-scale-but-we-have-an-amazing-medical-scene/567438732/)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 30 January 2020
-    - about [Celebration (event)](../../topics/event/celebration/index.md), [Lizzo](../../topics/lizzo/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md)
+    - about [Celebration (event)](../../topics/event/celebration/index.md), [Lizzo](../../topics/lizzo/index.md), [Mall of America (place)](../../topics/place/mall-of-america/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/minnesota-is-often-overlooked-on-a-worldwide-scale-but-we-have-an-amazing-medical-scene/567438732/))
 
 <br />
@@ -115,7 +115,7 @@
  - [**"Lizzo, Charli XCX, Billie Eilish and Lana Del Rey Among 2020 NME Awards Nominees -- Stormzy, The 1975, Yungblud, Foals and Stormzy are also nominated."**](https://www.billboard.com/articles/news/awards/8548499/2020-nme-awards-nominees-list)
     - in [Billboard](../../publications/a-e/billboard/index.md)
     - on 21 January 2020
-    - about [Amazing Grace (movie)](../../topics/movie/amazing-grace/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Beck](../../topics/beck/index.md), [FKA twigs](../../topics/fka-twigs/index.md), [Lizzo](../../topics/lizzo/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)
+    - about [Amazing Grace (movie)](../../topics/movie/amazing-grace/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Beck](../../topics/beck/index.md), [Coachella (event)](../../topics/event/coachella/index.md), [FKA twigs](../../topics/fka-twigs/index.md), [Lizzo](../../topics/lizzo/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/awards/8548499/2020-nme-awards-nominees-list))
 
 <br />
@@ -123,7 +123,7 @@
  - [**"NME Awards 2020: Full list of nominations revealed -- The winners will be revealed at London's O2 Academy Brixton on February 12."**](https://www.nme.com/news/music/nme-awards-2020-nominations-2598499)
     - in [NME (New Musical Express)](../../publications/k-o/nme-new-musical-express/index.md)
     - on 19 January 2020
-    - about [Amazing Grace (movie)](../../topics/movie/amazing-grace/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Beck](../../topics/beck/index.md), [FKA twigs](../../topics/fka-twigs/index.md), [Lizzo](../../topics/lizzo/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)
+    - about [Amazing Grace (movie)](../../topics/movie/amazing-grace/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Beck](../../topics/beck/index.md), [Coachella (event)](../../topics/event/coachella/index.md), [FKA twigs](../../topics/fka-twigs/index.md), [Lizzo](../../topics/lizzo/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.nme.com/news/music/nme-awards-2020-nominations-2598499))
 
 <br />
@@ -213,7 +213,7 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 12 October 2019
-    - about [Aretha Franklin](../../topics/aretha-franklin/index.md), [Ed Sheeran](../../topics/ed-sheeran/index.md), [Frank Zappa](../../topics/frank-zappa/index.md), [hologram](../../topics/hologram/index.md), [Lizzo](../../topics/lizzo/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Morris Day](../../topics/morris-day/index.md), [perfume](../../topics/perfume/index.md)
+    - about [Aretha Franklin](../../topics/aretha-franklin/index.md), [Coachella (event)](../../topics/event/coachella/index.md), [Ed Sheeran](../../topics/ed-sheeran/index.md), [Frank Zappa](../../topics/frank-zappa/index.md), [hologram](../../topics/hologram/index.md), [Lizzo](../../topics/lizzo/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Morris Day](../../topics/morris-day/index.md), [perfume](../../topics/perfume/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/))
 
 <br />

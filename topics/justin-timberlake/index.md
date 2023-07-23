@@ -61,7 +61,7 @@
  - [**"In a Twin Cities living room, the Steeles cook up their 35th annual Christmas show -- The Steeles' annual Christmas show is a family affair, brewed up in a Golden Valley living room."**](https://www.startribune.com/in-a-twin-cities-living-room-the-steeles-cook-up-their-35th-annual-christmas-show/566344542/)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 19 December 2019
-    - about [Alexander O’Neal](../../topics/alexander-o-neal/index.md), [contract](../../topics/contract/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [Kenni Holmen](../../topics/kenni-holmen/index.md), [Sonny Thompson](../../topics/sonny-thompson/index.md), [Sounds of Blackness](../../topics/sounds-of-blackness/index.md), [Tommy Barbarella](../../topics/tommy-barbarella/index.md)
+    - about [Alexander O’Neal](../../topics/alexander-o-neal/index.md), [contract](../../topics/contract/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [Kenni Holmen](../../topics/kenni-holmen/index.md), [Nordstrom (place)](../../topics/place/nordstrom/index.md), [Sonny Thompson](../../topics/sonny-thompson/index.md), [Sounds of Blackness](../../topics/sounds-of-blackness/index.md), [Tommy Barbarella](../../topics/tommy-barbarella/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/in-a-twin-cities-living-room-the-steeles-cook-up-their-35th-annual-christmas-show/566344542/))
 
 <br />
@@ -187,7 +187,7 @@
  - [**"Remembering Prince’s incredible 2007 Super Bowl halftime show -- It’s the 10th anniversary of one of the best halftime shows ever."**](https://www.sbnation.com/2017/2/4/14463094/super-bowl-halftime-show-prince-2007-purple-rain-retrospective)
     - in [sbnation.com](../../publications/p-t/sbnation-com/index.md)
     - on 5 February 2017
-    - about [1999 (song)](../../topics/song/1999/index.md), [Baby I’m a Star (song)](../../topics/song/baby-i-m-a-star/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Super Bowl XLI (event)](../../topics/event/super-bowl-xli/index.md), [vault](../../topics/vault/index.md), [YouTube](../../topics/youtube/index.md)
+    - about [1999 (song)](../../topics/song/1999/index.md), [Baby I’m a Star (song)](../../topics/song/baby-i-m-a-star/index.md), [Coachella (event)](../../topics/event/coachella/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Super Bowl XLI (event)](../../topics/event/super-bowl-xli/index.md), [vault](../../topics/vault/index.md), [YouTube](../../topics/youtube/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.sbnation.com/2017/2/4/14463094/super-bowl-halftime-show-prince-2007-purple-rain-retrospective))
 
 ----

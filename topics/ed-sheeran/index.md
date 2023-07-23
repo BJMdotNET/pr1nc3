@@ -151,7 +151,7 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 12 October 2019
-    - about [Aretha Franklin](../../topics/aretha-franklin/index.md), [Ed Sheeran](../../topics/ed-sheeran/index.md), [Frank Zappa](../../topics/frank-zappa/index.md), [hologram](../../topics/hologram/index.md), [Lizzo](../../topics/lizzo/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Morris Day](../../topics/morris-day/index.md), [perfume](../../topics/perfume/index.md)
+    - about [Aretha Franklin](../../topics/aretha-franklin/index.md), [Coachella (event)](../../topics/event/coachella/index.md), [Ed Sheeran](../../topics/ed-sheeran/index.md), [Frank Zappa](../../topics/frank-zappa/index.md), [hologram](../../topics/hologram/index.md), [Lizzo](../../topics/lizzo/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Morris Day](../../topics/morris-day/index.md), [perfume](../../topics/perfume/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/))
 
 ----

@@ -17,7 +17,7 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 12 June 2023
-    - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Alan Leeds](../../topics/alan-leeds/index.md), [Alicia Keys](../../topics/alicia-keys/index.md), [Bobby Z](../../topics/bobby-z/index.md), [Bruce Springsteen](../../topics/bruce-springsteen/index.md), [Capri Theater (place)](../../topics/place/capri-theater/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [Celebration 2023 (event)](../../topics/event/celebration-2023/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Charles Spicer](../../topics/charles-spicer/index.md), [Charlie Murphy](../../topics/charlie-murphy/index.md), [Don't Play With Love (song)](../../topics/song/don-t-play-with-love/index.md), [Doug E. Fresh](../../topics/doug-e-fresh/index.md), [Gilbert Davison](../../topics/gilbert-davison/index.md), [H.E.R.](../../topics/h-e-r/index.md), [Janelle Monae](../../topics/janelle-monae/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [Lenny Kravitz](../../topics/lenny-kravitz/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Michael Bland](../../topics/michael-bland/index.md), [Michael Pagnotta](../../topics/michael-pagnotta/index.md), [Obama](../../topics/obama/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Prince Legacy LLC](../../topics/prince-legacy-llc/index.md), [Questlove](../../topics/questlove/index.md), [Sounds of Blackness](../../topics/sounds-of-blackness/index.md), [Spike Lee](../../topics/spike-lee/index.md), [Stokley](../../topics/stokley/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Tim Burton](../../topics/tim-burton/index.md), [Trevor Guy](../../topics/trevor-guy/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md)
+    - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Alan Leeds](../../topics/alan-leeds/index.md), [Alicia Keys](../../topics/alicia-keys/index.md), [Bobby Z](../../topics/bobby-z/index.md), [Bruce Springsteen](../../topics/bruce-springsteen/index.md), [Capri Theater (place)](../../topics/place/capri-theater/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [Celebration 2023 (event)](../../topics/event/celebration-2023/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Charles Spicer](../../topics/charles-spicer/index.md), [Charlie Murphy](../../topics/charlie-murphy/index.md), [Don't Play With Love (song)](../../topics/song/don-t-play-with-love/index.md), [Doug E. Fresh](../../topics/doug-e-fresh/index.md), [Erykah Badu](../../topics/erykah-badu/index.md), [Gilbert Davison](../../topics/gilbert-davison/index.md), [H.E.R.](../../topics/h-e-r/index.md), [Janelle Monae](../../topics/janelle-monae/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [Lenny Kravitz](../../topics/lenny-kravitz/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Michael Bland](../../topics/michael-bland/index.md), [Michael Pagnotta](../../topics/michael-pagnotta/index.md), [Obama](../../topics/obama/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Prince Legacy LLC](../../topics/prince-legacy-llc/index.md), [Questlove](../../topics/questlove/index.md), [Sounds of Blackness](../../topics/sounds-of-blackness/index.md), [Spike Lee](../../topics/spike-lee/index.md), [Stokley](../../topics/stokley/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Tim Burton](../../topics/tim-burton/index.md), [Trevor Guy](../../topics/trevor-guy/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-celebration-2023-paisley-park-chuck-d-chaka-khan-doug-e-fresh-stokley-nur-d-nunnabove/600281951/))
 
 <br />
@@ -26,7 +26,7 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md), [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 7 June 2023
-    - about [Jimmy Jam](../../topics/jimmy-jam/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - about [Jimmy Jam](../../topics/jimmy-jam/index.md), [Robert Smith](../../topics/robert-smith/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/twin-cities-the-cure-bebe-rexha-tyler-childers-weezer-rodrigo-y-gabriela-meshell-ndegeocello/600280755/))
 
 <br />
@@ -45,7 +45,7 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md), [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 24 May 2023
-    - about [Jimmy Jam](../../topics/jimmy-jam/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - about [Coachella (event)](../../topics/event/coachella/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/twin-cities-janet-jackson-dwight-yoakam-ondara-caterwaul-terrace-martin-gully-boys-kiss-the-tiger/600277349/))
 
 ----
@@ -67,7 +67,7 @@
     - by [Rochelle Olson](../../authors/rochelle-olson/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 26 February 2023
-    - about [Jimmy Jam](../../topics/jimmy-jam/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - about [Jimmy Jam](../../topics/jimmy-jam/index.md), [Oprah (TV show)](../../topics/tv-show/oprah/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/senate-president-bobby-joe-champion-blazes-a-leadership-path-at-the-capitol/600254598/))
 
 ----
@@ -112,7 +112,7 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 28 April 2022
-    - about [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - about [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [Today Show (TV show)](../../topics/tv-show/today-show/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/her-minneapolis-prince-jimmy-jam-lenny-kravitz-paisley-park-george-floyd-oscars-grammys-super-bowl/600168665/))
 
 <br />
@@ -140,7 +140,7 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 21 March 2022
-    - about [Jimmy Jam](../../topics/jimmy-jam/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - about [Erykah Badu](../../topics/erykah-badu/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/meet-the-next-great-bluesman-christone-kingfish-ingram-prince-bb-king-charley-pride-jimmy-jam/600157947/))
 
 <br />
@@ -461,7 +461,7 @@
  - [**"Rock and Roll Book Club: Morris Day is 'On Time'"**](https://www.thecurrent.org/feature/2019/10/08/morris-day-on-time)
     - in [The Current](../../publications/a-e/the-current/index.md)
     - on 9 October 2019
-    - about [André Cymone](../../topics/andr-cymone/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Kiowa Trail](../../topics/kiowa-trail/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - about [André Cymone](../../topics/andr-cymone/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Kiowa Trail](../../topics/kiowa-trail/index.md), [Mall of America (place)](../../topics/place/mall-of-america/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/10/08/morris-day-on-time))
 
 <br />
@@ -651,7 +651,7 @@
  - [**"Embrace the Bold North in Minneapolis for Super Bowl"**](https://apnews.com/5ddc01f147644c79820a62b065eb5efb)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 17 January 2018
-    - about [airport](../../topics/airport/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [museum](../../topics/museum/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md)
+    - about [airport](../../topics/airport/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Mall of America (place)](../../topics/place/mall-of-america/index.md), [museum](../../topics/museum/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/5ddc01f147644c79820a62b065eb5efb))
 
 ----
@@ -664,7 +664,7 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 1 December 2017
-    - about [Jimmy “Jam” Harris](../../topics/jimmy-jam-harris/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - about [Coachella (event)](../../topics/event/coachella/index.md), [Jimmy “Jam” Harris](../../topics/jimmy-jam-harris/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/jimmy-jam-terry-lewis-announce-super-bowl-live-lineup-idina-menzel-sheila-e-morris-day-soul-asylum/461298463/))
 
 <br />
@@ -721,7 +721,7 @@
     - by [Star Tribune staff](../../authors/star-tribune-staff/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 21 April 2016
-    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [Tommy Barbarella](../../topics/tommy-barbarella/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-an-oral-history-in-the-beginning/51508747/))
 
 <br />
@@ -918,7 +918,7 @@
  - [**"Jimmy Jam enjoys some home cooking at Rudolph&#039;s -- Rudolph's Bar-B-Que was calling, and Jimmy Jam was answering."**](https://www.startribune.com/jimmy-jam-enjoys-some-home-cooking-at-rudolph-s/96342699/)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 14 June 2010
-    - about [Jerome Benton](../../topics/jerome-benton/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - about [Jerome Benton](../../topics/jerome-benton/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Oprah (TV show)](../../topics/tv-show/oprah/index.md), [Symbolina](../../topics/symbolina/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/jimmy-jam-enjoys-some-home-cooking-at-rudolph-s/96342699/))
 
 <br />
@@ -940,7 +940,7 @@
     - by [Ann Powers](../../authors/ann-powers/index.md)
     - in [latimesblogs.latimes.com](../../publications/k-o/latimesblogs-latimes-com/index.md)
     - on 8 January 2009
-    - about [Ani DiFranco](../../topics/ani-difranco/index.md), [Better With Time (song)](../../topics/song/better-with-time/index.md), [Bria Valente](../../topics/bria-valente/index.md), [Carlos Santana](../../topics/carlos-santana/index.md), [Earth, Wind and Fire](../../topics/earth-wind-and-fire/index.md), [Esperanza Spalding](../../topics/esperanza-spalding/index.md), [Janelle Monae](../../topics/janelle-monae/index.md), [Kristin Scott Thomas](../../topics/kristin-scott-thomas/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Morris Hayes](../../topics/morris-hayes/index.md), [MPLSoUND (album)](../../topics/album/mplsound/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Paisley Park Studios (place)](../../topics/place/paisley-park-studios/index.md), [perfume](../../topics/perfume/index.md), [Shelby J.](../../topics/shelby-j/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Tamar Davis](../../topics/tamar-davis/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
+    - about [Ani DiFranco](../../topics/ani-difranco/index.md), [Better With Time (song)](../../topics/song/better-with-time/index.md), [Bria Valente](../../topics/bria-valente/index.md), [Carlos Santana](../../topics/carlos-santana/index.md), [Coachella (event)](../../topics/event/coachella/index.md), [Earth, Wind and Fire](../../topics/earth-wind-and-fire/index.md), [Esperanza Spalding](../../topics/esperanza-spalding/index.md), [Janelle Monae](../../topics/janelle-monae/index.md), [Kristin Scott Thomas](../../topics/kristin-scott-thomas/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Morris Hayes](../../topics/morris-hayes/index.md), [MPLSoUND (album)](../../topics/album/mplsound/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Paisley Park Studios (place)](../../topics/place/paisley-park-studios/index.md), [perfume](../../topics/perfume/index.md), [Shelby J.](../../topics/shelby-j/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Tamar Davis](../../topics/tamar-davis/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/http://latimesblogs.latimes.com/music_blog/2009/01/one-night-with.html))
 
 ----

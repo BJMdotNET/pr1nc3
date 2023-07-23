@@ -75,7 +75,7 @@
  - [**"From films at Paisley Park to the new Fillmore, here are four musical events worth catching"**](https://www.twincities.com/2020/01/09/from-films-at-paisley-park-to-the-new-fillmore-here-are-four-musical-events-worth-catching/)
     - in [TwinCities.com - Pioneer Press](../../../publications/p-t/twincities-com-pioneer-press/index.md)
     - on 9 January 2020
-    - about [Amazing Grace (movie)](../../../topics/movie/amazing-grace/index.md), [Aretha Franklin](../../../topics/aretha-franklin/index.md), [Atlanta (place)](../../../topics/place/atlanta/index.md), [Dave Chappelle](../../../topics/dave-chappelle/index.md), [Dave Chappelle’s Block Party (movie)](../../../topics/movie/dave-chappelle-s-block-party/index.md), [exhibit](../../../topics/exhibit/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [John Legend](../../../topics/john-legend/index.md), [Minnesota History Center](../../../topics/minnesota-history-center/index.md), [museum](../../../topics/museum/index.md), [Paisley Park Cinema: Music on the Big Screen (event)](../../../topics/event/paisley-park-cinema-music-on-the-big-screen/index.md), [The Roots](../../../topics/the-roots/index.md), [vault](../../../topics/vault/index.md), [Wattstax (movie)](../../../topics/movie/wattstax/index.md), [Xcel Energy Center (place)](../../../topics/place/xcel-energy-center/index.md)
+    - about [Amazing Grace (movie)](../../../topics/movie/amazing-grace/index.md), [Aretha Franklin](../../../topics/aretha-franklin/index.md), [Atlanta (place)](../../../topics/place/atlanta/index.md), [Dave Chappelle](../../../topics/dave-chappelle/index.md), [Dave Chappelle’s Block Party (movie)](../../../topics/movie/dave-chappelle-s-block-party/index.md), [Erykah Badu](../../../topics/erykah-badu/index.md), [exhibit](../../../topics/exhibit/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [John Legend](../../../topics/john-legend/index.md), [Minnesota History Center](../../../topics/minnesota-history-center/index.md), [museum](../../../topics/museum/index.md), [Paisley Park Cinema: Music on the Big Screen (event)](../../../topics/event/paisley-park-cinema-music-on-the-big-screen/index.md), [The Roots](../../../topics/the-roots/index.md), [vault](../../../topics/vault/index.md), [Wattstax (movie)](../../../topics/movie/wattstax/index.md), [Xcel Energy Center (place)](../../../topics/place/xcel-energy-center/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2020/01/09/from-films-at-paisley-park-to-the-new-fillmore-here-are-four-musical-events-worth-catching/))
 
 ----
@@ -118,7 +118,7 @@
  - [**"Embrace the Bold North in Minneapolis for Super Bowl"**](https://apnews.com/5ddc01f147644c79820a62b065eb5efb)
     - in [Associated Press News](../../../publications/a-e/associated-press-news/index.md)
     - on 17 January 2018
-    - about [airport](../../../topics/airport/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Jimmy Jam](../../../topics/jimmy-jam/index.md), [museum](../../../topics/museum/index.md), [Super Bowl](../../../topics/super-bowl/index.md), [Terry Lewis](../../../topics/terry-lewis/index.md), [Xcel Energy Center (place)](../../../topics/place/xcel-energy-center/index.md)
+    - about [airport](../../../topics/airport/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Jimmy Jam](../../../topics/jimmy-jam/index.md), [Mall of America (place)](../../../topics/place/mall-of-america/index.md), [museum](../../../topics/museum/index.md), [Super Bowl](../../../topics/super-bowl/index.md), [Terry Lewis](../../../topics/terry-lewis/index.md), [Xcel Energy Center (place)](../../../topics/place/xcel-energy-center/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/5ddc01f147644c79820a62b065eb5efb))
 
 ----
@@ -130,7 +130,7 @@
  - [**"Minneapolis will be alive with activity during the Super Bowl"**](https://apnews.com/article/archive-minneapolis-06bbdc75a3da466cbe90d890fe362c72)
     - in [Associated Press News](../../../publications/a-e/associated-press-news/index.md)
     - on 24 December 2017
-    - about [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [motorcycle](../../../topics/motorcycle/index.md), [museum](../../../topics/museum/index.md), [Super Bowl](../../../topics/super-bowl/index.md), [Twin Cities (place)](../../../topics/place/twin-cities/index.md), [University of Minnesota](../../../topics/university-of-minnesota/index.md), [Xcel Energy Center (place)](../../../topics/place/xcel-energy-center/index.md)
+    - about [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Mall of America (place)](../../../topics/place/mall-of-america/index.md), [motorcycle](../../../topics/motorcycle/index.md), [museum](../../../topics/museum/index.md), [Super Bowl](../../../topics/super-bowl/index.md), [Twin Cities (place)](../../../topics/place/twin-cities/index.md), [University of Minnesota](../../../topics/university-of-minnesota/index.md), [Xcel Energy Center (place)](../../../topics/place/xcel-energy-center/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/archive-minneapolis-06bbdc75a3da466cbe90d890fe362c72))
 
 ----

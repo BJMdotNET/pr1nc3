@@ -20,7 +20,7 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 5 June 2022
-    - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Alicia Keys](../../topics/alicia-keys/index.md), [BrownMark](../../topics/brownmark/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [Celebration 2017 (event)](../../topics/event/celebration-2017/index.md), [Celebration 2019 (event)](../../topics/event/celebration-2019/index.md), [Celebration 2022 (event)](../../topics/event/celebration-2022/index.md), [Chanhassen Dinner Theatres](../../topics/chanhassen-dinner-theatres/index.md), [De Angela Duff](../../topics/de-angela-duff/index.md), [Donna Grantis](../../topics/donna-grantis/index.md), [Elliott Powell](../../topics/elliott-powell/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [Hannah Welton](../../topics/hannah-welton/index.md), [Ida Nielsen](../../topics/ida-nielsen/index.md), [Janelle Monae](../../topics/janelle-monae/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Joshua Welton](../../topics/joshua-welton/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Lenny Kravitz](../../topics/lenny-kravitz/index.md), [Levi Seacer](../../topics/levi-seacer/index.md), [Levi Seacer, Jr.](../../topics/levi-seacer-jr/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Mazarati](../../topics/mazarati/index.md), [Nichole Nordeman](../../topics/nichole-nordeman/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Prince and The Revolution](../../topics/prince-and-the-revolution/index.md), [Questlove](../../topics/questlove/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md), [Sounds of Blackness](../../topics/sounds-of-blackness/index.md), [Stokley](../../topics/stokley/index.md), [Target Center (place)](../../topics/place/target-center/index.md), [Tommy Barbarella](../../topics/tommy-barbarella/index.md), [Zaheer Ali](../../topics/zaheer-ali/index.md)
+    - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Alicia Keys](../../topics/alicia-keys/index.md), [BrownMark](../../topics/brownmark/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [Celebration 2017 (event)](../../topics/event/celebration-2017/index.md), [Celebration 2019 (event)](../../topics/event/celebration-2019/index.md), [Celebration 2022 (event)](../../topics/event/celebration-2022/index.md), [Chanhassen Dinner Theatres](../../topics/chanhassen-dinner-theatres/index.md), [De Angela Duff](../../topics/de-angela-duff/index.md), [Donna Grantis](../../topics/donna-grantis/index.md), [Elliott Powell](../../topics/elliott-powell/index.md), [Erykah Badu](../../topics/erykah-badu/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [Hannah Welton](../../topics/hannah-welton/index.md), [Ida Nielsen](../../topics/ida-nielsen/index.md), [Janelle Monae](../../topics/janelle-monae/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Joshua Welton](../../topics/joshua-welton/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Lenny Kravitz](../../topics/lenny-kravitz/index.md), [Levi Seacer](../../topics/levi-seacer/index.md), [Levi Seacer, Jr.](../../topics/levi-seacer-jr/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Mazarati](../../topics/mazarati/index.md), [Nichole Nordeman](../../topics/nichole-nordeman/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Prince and The Revolution](../../topics/prince-and-the-revolution/index.md), [Questlove](../../topics/questlove/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md), [Sounds of Blackness](../../topics/sounds-of-blackness/index.md), [Stokley](../../topics/stokley/index.md), [Target Center (place)](../../topics/place/target-center/index.md), [Tommy Barbarella](../../topics/tommy-barbarella/index.md), [Zaheer Ali](../../topics/zaheer-ali/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/highlights-from-two-long-exhilarating-days-at-prince-celebration-2022-at-paisley-park-mayte-garcia/600179523/))
 
 ----
@@ -69,7 +69,7 @@
  - [**"'GMA' anchors share their favorite books of 2019"**](https://www.goodmorningamerica.com/culture/story/gma-anchors-share-favorite-books-2019-67598695)
     - in [goodmorningamerica.com](../../publications/f-j/goodmorningamerica-com/index.md)
     - on 12 December 2019
-    - about [Celebration (event)](../../topics/event/celebration/index.md), [Donald Trump](../../topics/donald-trump/index.md), [memoir](../../topics/memoir/index.md), [My Name Is Prince: 25 Inspired Years (book)](../../topics/book/my-name-is-prince-25-inspired-years/index.md), [Obama](../../topics/obama/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md), [Trump](../../topics/trump/index.md)
+    - about [Celebration (event)](../../topics/event/celebration/index.md), [Donald Trump](../../topics/donald-trump/index.md), [memoir](../../topics/memoir/index.md), [My Name Is Prince: 25 Inspired Years (book)](../../topics/book/my-name-is-prince-25-inspired-years/index.md), [Obama](../../topics/obama/index.md), [Oprah (TV show)](../../topics/tv-show/oprah/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md), [Trump](../../topics/trump/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.goodmorningamerica.com/culture/story/gma-anchors-share-favorite-books-2019-67598695))
 
 <br />
@@ -120,7 +120,7 @@
  - [**"Coffee table books are great gifts — even if you don’t have a coffee table"**](https://www.twincities.com/2019/11/30/coffee-table-books-are-great-gifts-even-if-you-dont-have-a-coffee-table/)
     - in [TwinCities.com - Pioneer Press](../../publications/p-t/twincities-com-pioneer-press/index.md)
     - on 30 November 2019
-    - about [Andy Warhol](../../topics/andy-warhol/index.md), [exhibit](../../topics/exhibit/index.md), [exhibition](../../topics/exhibition/index.md), [Hachette Books](../../topics/hachette-books/index.md), [museum](../../topics/museum/index.md), [Penguin Random House](../../topics/penguin-random-house/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md), [trademark](../../topics/trademark/index.md)
+    - about [Andy Warhol](../../topics/andy-warhol/index.md), [exhibit](../../topics/exhibit/index.md), [exhibition](../../topics/exhibition/index.md), [Hachette Books](../../topics/hachette-books/index.md), [museum](../../topics/museum/index.md), [Oprah (TV show)](../../topics/tv-show/oprah/index.md), [Penguin Random House](../../topics/penguin-random-house/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md), [trademark](../../topics/trademark/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2019/11/30/coffee-table-books-are-great-gifts-even-if-you-dont-have-a-coffee-table/))
 
 <br />
@@ -128,7 +128,7 @@
  - [**"Prince Photographer Randee St. Nicholas Shares 25 Years of Stories"**](https://www.rollingstone.com/music/music-pictures/prince-photographer-randee-st-nicholas-photo-book-914562/)
     - in [Rolling Stone](../../publications/p-t/rolling-stone/index.md)
     - on 20 November 2019
-    - about [My Name Is Prince: 25 Inspired Years (book)](../../topics/book/my-name-is-prince-25-inspired-years/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md)
+    - about [Coachella (event)](../../topics/event/coachella/index.md), [My Name Is Prince: 25 Inspired Years (book)](../../topics/book/my-name-is-prince-25-inspired-years/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-pictures/prince-photographer-randee-st-nicholas-photo-book-914562/))
 
 <br />
@@ -136,7 +136,7 @@
  - [**"Don’t overlook splashy coffee table books as holiday gifts"**](https://apnews.com/e8495b29d38d4596b879f066a3eec8fb)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 19 November 2019
-    - about [Andy Warhol](../../topics/andy-warhol/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [exhibit](../../topics/exhibit/index.md), [exhibition](../../topics/exhibition/index.md), [Hachette Books](../../topics/hachette-books/index.md), [museum](../../topics/museum/index.md), [Penguin Random House](../../topics/penguin-random-house/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md), [trademark](../../topics/trademark/index.md)
+    - about [Andy Warhol](../../topics/andy-warhol/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [exhibit](../../topics/exhibit/index.md), [exhibition](../../topics/exhibition/index.md), [Hachette Books](../../topics/hachette-books/index.md), [museum](../../topics/museum/index.md), [Oprah (TV show)](../../topics/tv-show/oprah/index.md), [Penguin Random House](../../topics/penguin-random-house/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md), [trademark](../../topics/trademark/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/e8495b29d38d4596b879f066a3eec8fb))
 
 <br />
@@ -144,7 +144,7 @@
  - [**"Don't overlook splashy coffee table books as holiday gifts"**](https://www.startribune.com/don-t-overlook-splashy-coffee-table-books-as-holiday-gifts/565099382/)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 19 November 2019
-    - about [Andy Warhol](../../topics/andy-warhol/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [exhibit](../../topics/exhibit/index.md), [exhibition](../../topics/exhibition/index.md), [Hachette Books](../../topics/hachette-books/index.md), [museum](../../topics/museum/index.md), [Penguin Random House](../../topics/penguin-random-house/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md), [trademark](../../topics/trademark/index.md)
+    - about [Andy Warhol](../../topics/andy-warhol/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [exhibit](../../topics/exhibit/index.md), [exhibition](../../topics/exhibition/index.md), [Hachette Books](../../topics/hachette-books/index.md), [museum](../../topics/museum/index.md), [Oprah (TV show)](../../topics/tv-show/oprah/index.md), [Penguin Random House](../../topics/penguin-random-house/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md), [trademark](../../topics/trademark/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/don-t-overlook-splashy-coffee-table-books-as-holiday-gifts/565099382/))
 
 <br />
@@ -152,7 +152,7 @@
  - [**"How The Massive New Prince Photo Book Came Together"**](https://www.billboard.com/articles/news/8541575/prince-photo-book-details-randee-st-nicholas-interview)
     - in [Billboard](../../publications/a-e/billboard/index.md)
     - on 1 November 2019
-    - about [memoir](../../topics/memoir/index.md), [My Name Is Prince: 25 Inspired Years (book)](../../topics/book/my-name-is-prince-25-inspired-years/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md)
+    - about [Coachella (event)](../../topics/event/coachella/index.md), [memoir](../../topics/memoir/index.md), [My Name Is Prince: 25 Inspired Years (book)](../../topics/book/my-name-is-prince-25-inspired-years/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8541575/prince-photo-book-details-randee-st-nicholas-interview))
 
 ----
@@ -172,7 +172,7 @@
  - [**"My Name Is Prince: 25 Inspired Years—1991 to 2016 -- Randee St. Nicholas. Amistad, $90 (384p) ISBN 978-0-06-293923-4"**](https://www.publishersweekly.com/978-0-06-293923-4)
     - in [Publishers Weekly](../../publications/p-t/publishers-weekly/index.md)
     - on 27 September 2019
-    - about [Mayte](../../topics/mayte/index.md), [My Name Is Prince: 25 Inspired Years (book)](../../topics/book/my-name-is-prince-25-inspired-years/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md)
+    - about [Coachella (event)](../../topics/event/coachella/index.md), [Mayte](../../topics/mayte/index.md), [My Name Is Prince: 25 Inspired Years (book)](../../topics/book/my-name-is-prince-25-inspired-years/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.publishersweekly.com/978-0-06-293923-4))
 
 ----

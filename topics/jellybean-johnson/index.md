@@ -247,7 +247,7 @@
     - by [Star Tribune staff](../../authors/star-tribune-staff/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 21 April 2016
-    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [Tommy Barbarella](../../topics/tommy-barbarella/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-an-oral-history-in-the-beginning/51508747/))
 
 ----
@@ -266,7 +266,7 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 26 January 2016
-    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Monte Moir](../../topics/monte-moir/index.md), [Morris Day](../../topics/morris-day/index.md)
+    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Mall of America (place)](../../topics/place/mall-of-america/index.md), [Monte Moir](../../topics/monte-moir/index.md), [Morris Day](../../topics/morris-day/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/it-s-party-time-at-paisley-morris-day-to-play-prince-s-place-friday/366612721/))
 
 ----
@@ -341,7 +341,7 @@
  - [**"C.J.: Bobby Z making great strides, wife says -- Beating drums has ceased to be Bobby Z's only form of exercise, since his heart attack scare earlier this year."**](https://www.startribune.com/c-j-bobby-z-making-great-strides-wife-says/130165398/)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 26 September 2011
-    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md)
+    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Symbolina](../../topics/symbolina/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/c-j-bobby-z-making-great-strides-wife-says/130165398/))
 
 <br />

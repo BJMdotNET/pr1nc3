@@ -66,7 +66,7 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 29 December 2022
-    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md)
+    - about [Kevin Smith](../../topics/kevin-smith/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/morris-day-knows-what-time-it-is-last-call-for-his-recording-career-prince-the-time-zz-top-snoop/600239310/))
 
 <br />
@@ -75,7 +75,7 @@
     - by [Star Tribune staff](../../authors/star-tribune-staff/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 26 December 2022
-    - about [Morris Day](../../topics/morris-day/index.md)
+    - about [Mall of America (place)](../../topics/place/mall-of-america/index.md), [Morris Day](../../topics/morris-day/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/how-to-celebrate-nye-in-brate/600238731/))
 
 ----
@@ -128,7 +128,7 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 28 April 2022
-    - about [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - about [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [Today Show (TV show)](../../topics/tv-show/today-show/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/her-minneapolis-prince-jimmy-jam-lenny-kravitz-paisley-park-george-floyd-oscars-grammys-super-bowl/600168665/))
 
 <br />
@@ -775,7 +775,7 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 12 October 2019
-    - about [Aretha Franklin](../../topics/aretha-franklin/index.md), [Ed Sheeran](../../topics/ed-sheeran/index.md), [Frank Zappa](../../topics/frank-zappa/index.md), [hologram](../../topics/hologram/index.md), [Lizzo](../../topics/lizzo/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Morris Day](../../topics/morris-day/index.md), [perfume](../../topics/perfume/index.md)
+    - about [Aretha Franklin](../../topics/aretha-franklin/index.md), [Coachella (event)](../../topics/event/coachella/index.md), [Ed Sheeran](../../topics/ed-sheeran/index.md), [Frank Zappa](../../topics/frank-zappa/index.md), [hologram](../../topics/hologram/index.md), [Lizzo](../../topics/lizzo/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Morris Day](../../topics/morris-day/index.md), [perfume](../../topics/perfume/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/))
 
 <br />
@@ -791,7 +791,7 @@
  - [**"The Time’s Morris Day imagines a conversation with Prince in his new book ‘On Time’"**](https://www.twincities.com/2019/10/11/the-times-morris-day-imagines-a-conversation-with-prince-in-his-new-book-on-time/)
     - in [TwinCities.com - Pioneer Press](../../publications/p-t/twincities-com-pioneer-press/index.md)
     - on 11 October 2019
-    - about [divorce](../../topics/divorce/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [The Time](../../topics/the-time/index.md)
+    - about [divorce](../../topics/divorce/index.md), [Mall of America (place)](../../topics/place/mall-of-america/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [The Time](../../topics/the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2019/10/11/the-times-morris-day-imagines-a-conversation-with-prince-in-his-new-book-on-time/))
 
 <br />
@@ -799,7 +799,7 @@
  - [**"Rock and Roll Book Club: Morris Day is 'On Time'"**](https://www.thecurrent.org/feature/2019/10/08/morris-day-on-time)
     - in [The Current](../../publications/a-e/the-current/index.md)
     - on 9 October 2019
-    - about [André Cymone](../../topics/andr-cymone/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Kiowa Trail](../../topics/kiowa-trail/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - about [André Cymone](../../topics/andr-cymone/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Kiowa Trail](../../topics/kiowa-trail/index.md), [Mall of America (place)](../../topics/place/mall-of-america/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/10/08/morris-day-on-time))
 
 <br />
@@ -808,7 +808,7 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 8 October 2019
-    - about [Aretha Franklin](../../topics/aretha-franklin/index.md), [Donald Trump](../../topics/donald-trump/index.md), [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jamie Starr](../../topics/jamie-starr/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [Pandemonium (album)](../../topics/album/pandemonium/index.md), [Trump](../../topics/trump/index.md)
+    - about [Aretha Franklin](../../topics/aretha-franklin/index.md), [Donald Trump](../../topics/donald-trump/index.md), [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jamie Starr](../../topics/jamie-starr/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Mall of America (place)](../../topics/place/mall-of-america/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [Pandemonium (album)](../../topics/album/pandemonium/index.md), [Trump](../../topics/trump/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-haunts-morris-day-s-new-memoir-i-still-hear-his-voice-in-my-head/562430972/))
 
 <br />
@@ -1017,7 +1017,7 @@
  - [**"Prince's 'Originals' Album: Comparing Each Demo With Its Well-Known Cover Version"**](https://www.billboard.com/articles/news/8517576/prince-originals-album-covers)
     - in [Billboard](../../publications/a-e/billboard/index.md)
     - on 25 June 2019
-    - about [Alan Light](../../topics/alan-light/index.md), [Apollonia 6](../../topics/apollonia-6/index.md), [Bangles](../../topics/bangles/index.md), [BrownMark](../../topics/brownmark/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Morris Day](../../topics/morris-day/index.md), [Nile Rodgers](../../topics/nile-rodgers/index.md), [Originals (album)](../../topics/album/originals/index.md), [Romance 1600 (album)](../../topics/album/romance-1600/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Super Bowl XLI (event)](../../topics/event/super-bowl-xli/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [The Revolution](../../topics/the-revolution/index.md)
+    - about [Alan Light](../../topics/alan-light/index.md), [Apollonia 6](../../topics/apollonia-6/index.md), [Bangles](../../topics/bangles/index.md), [BrownMark](../../topics/brownmark/index.md), [Coachella (event)](../../topics/event/coachella/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Morris Day](../../topics/morris-day/index.md), [Nile Rodgers](../../topics/nile-rodgers/index.md), [Originals (album)](../../topics/album/originals/index.md), [Romance 1600 (album)](../../topics/album/romance-1600/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Super Bowl XLI (event)](../../topics/event/super-bowl-xli/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [The Revolution](../../topics/the-revolution/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8517576/prince-originals-album-covers))
 
 <br />
@@ -1158,7 +1158,7 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 21 December 2018
-    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Super Bowl](../../topics/super-bowl/index.md)
+    - about [Erykah Badu](../../topics/erykah-badu/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Super Bowl](../../topics/super-bowl/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/10-signs-the-minnesota-music-scene-was-alive-and-well-in-2018/503245841/))
 
 <br />
@@ -1347,7 +1347,7 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 1 December 2017
-    - about [Jimmy “Jam” Harris](../../topics/jimmy-jam-harris/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - about [Coachella (event)](../../topics/event/coachella/index.md), [Jimmy “Jam” Harris](../../topics/jimmy-jam-harris/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/jimmy-jam-terry-lewis-announce-super-bowl-live-lineup-idina-menzel-sheila-e-morris-day-soul-asylum/461298463/))
 
 <br />
@@ -1444,7 +1444,7 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md), [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 24 April 2017
-    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Super Bowl](../../topics/super-bowl/index.md)
+    - about [Mall of America (place)](../../topics/place/mall-of-america/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Super Bowl](../../topics/super-bowl/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/highlights-from-prince-memorial-weekend-and-advice-for-future-years/420198123/))
 
 <br />
@@ -1547,7 +1547,7 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 30 December 2016
-    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md)
+    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Tommy Barbarella](../../topics/tommy-barbarella/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/artist-of-the-year-2016-prince-s-memorials-were-the-year-s-rock-stars/408655055/))
 
 <br />
@@ -1789,7 +1789,7 @@
     - by [Mesfin Fekadu (Associated Press)](../../authors/associated-press/mesfin-fekadu/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 28 July 2016
-    - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [BET Awards](../../topics/bet-awards/index.md), [Beyoncé](../../topics/beyonc/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Janelle Monae](../../topics/janelle-monae/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Roots](../../topics/the-roots/index.md), [The Time](../../topics/the-time/index.md), [Tori Kelly](../../topics/tori-kelly/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)
+    - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [BET Awards](../../topics/bet-awards/index.md), [Beyoncé](../../topics/beyonc/index.md), [Erykah Badu](../../topics/erykah-badu/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Janelle Monae](../../topics/janelle-monae/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Roots](../../topics/the-roots/index.md), [The Time](../../topics/the-time/index.md), [Tori Kelly](../../topics/tori-kelly/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/apnewsbreak-official-prince-tribute-concert-set-for-october/388585801/))
 
 <br />
@@ -1894,7 +1894,7 @@
  - [**"A synthesizer of sounds, Prince ‘rewrote the rulebook’"**](https://apnews.com/c07d6a9a2752405fa8ed91e8d949806a)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 22 April 2016
-    - about [Bangles](../../topics/bangles/index.md), [contract](../../topics/contract/index.md), [Cyndi Lauper](../../topics/cyndi-lauper/index.md), [Frank Zappa](../../topics/frank-zappa/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Obama](../../topics/obama/index.md), [Parents Music Resource Center](../../topics/parents-music-resource-center/index.md), [Roger Ebert](../../topics/roger-ebert/index.md), [The Time](../../topics/the-time/index.md), [White House (place)](../../topics/place/white-house/index.md)
+    - about [Bangles](../../topics/bangles/index.md), [contract](../../topics/contract/index.md), [Cyndi Lauper](../../topics/cyndi-lauper/index.md), [Frank Zappa](../../topics/frank-zappa/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Obama](../../topics/obama/index.md), [Oprah (TV show)](../../topics/tv-show/oprah/index.md), [Parents Music Resource Center](../../topics/parents-music-resource-center/index.md), [Roger Ebert](../../topics/roger-ebert/index.md), [The Time](../../topics/the-time/index.md), [White House (place)](../../topics/place/white-house/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/c07d6a9a2752405fa8ed91e8d949806a))
 
 <br />
@@ -1902,7 +1902,7 @@
  - [**"Pop superstar Prince dies at his Minnesota home at age 57"**](https://apnews.com/b9e3df0421a04344835cd4fac7680c24)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 22 April 2016
-    - about [Bangles](../../topics/bangles/index.md), [contract](../../topics/contract/index.md), [Cyndi Lauper](../../topics/cyndi-lauper/index.md), [Frank Zappa](../../topics/frank-zappa/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Obama](../../topics/obama/index.md), [Parents Music Resource Center](../../topics/parents-music-resource-center/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md), [White House (place)](../../topics/place/white-house/index.md)
+    - about [Bangles](../../topics/bangles/index.md), [contract](../../topics/contract/index.md), [Cyndi Lauper](../../topics/cyndi-lauper/index.md), [Frank Zappa](../../topics/frank-zappa/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Obama](../../topics/obama/index.md), [Oprah (TV show)](../../topics/tv-show/oprah/index.md), [Parents Music Resource Center](../../topics/parents-music-resource-center/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md), [White House (place)](../../topics/place/white-house/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/b9e3df0421a04344835cd4fac7680c24))
 
 <br />
@@ -1910,7 +1910,7 @@
  - [**"Prince “reescribió las reglas” de la música"**](https://apnews.com/article/dbe5c9245d024a89bca2376ee8b631c0)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 22 April 2016
-    - about [Bangles](../../topics/bangles/index.md), [Black Album (album)](../../topics/album/black-album/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Cyndi Lauper](../../topics/cyndi-lauper/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [Eden Prairie (place)](../../topics/place/eden-prairie/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Frank Zappa](../../topics/frank-zappa/index.md), [James Brown](../../topics/james-brown/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Morris Day](../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Parents Music Resource Center](../../topics/parents-music-resource-center/index.md), [Roger Ebert](../../topics/roger-ebert/index.md), [The Black Album (album)](../../topics/album/the-black-album/index.md), [Tidal](../../topics/tidal/index.md), [Tipper Gore](../../topics/tipper-gore/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md), [Yvette Noel-Schure](../../topics/yvette-noel-schure/index.md)
+    - about [Bangles](../../topics/bangles/index.md), [Black Album (album)](../../topics/album/black-album/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Cyndi Lauper](../../topics/cyndi-lauper/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [Eden Prairie (place)](../../topics/place/eden-prairie/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Frank Zappa](../../topics/frank-zappa/index.md), [James Brown](../../topics/james-brown/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Morris Day](../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Oprah (TV show)](../../topics/tv-show/oprah/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Parents Music Resource Center](../../topics/parents-music-resource-center/index.md), [Roger Ebert](../../topics/roger-ebert/index.md), [The Black Album (album)](../../topics/album/the-black-album/index.md), [Tidal](../../topics/tidal/index.md), [Tipper Gore](../../topics/tipper-gore/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md), [Yvette Noel-Schure](../../topics/yvette-noel-schure/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/dbe5c9245d024a89bca2376ee8b631c0))
 
 <br />
@@ -1918,7 +1918,7 @@
  - [**"Prince, hugely inventive, influential musician, dead at 57"**](https://apnews.com/988e107cf6964494b58ad2ca9bcd0985)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 22 April 2016
-    - about [Academy Award](../../topics/academy-award/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Bangles](../../topics/bangles/index.md), [contract](../../topics/contract/index.md), [Cyndi Lauper](../../topics/cyndi-lauper/index.md), [Frank Zappa](../../topics/frank-zappa/index.md), [I Wanna Be Your Lover (song)](../../topics/song/i-wanna-be-your-lover/index.md), [James Brown](../../topics/james-brown/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Obama](../../topics/obama/index.md), [Parents Music Resource Center](../../topics/parents-music-resource-center/index.md), [Roger Ebert](../../topics/roger-ebert/index.md), [Tidal](../../topics/tidal/index.md), [Vanity](../../topics/vanity/index.md), [White House (place)](../../topics/place/white-house/index.md)
+    - about [Academy Award](../../topics/academy-award/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Bangles](../../topics/bangles/index.md), [contract](../../topics/contract/index.md), [Cyndi Lauper](../../topics/cyndi-lauper/index.md), [Frank Zappa](../../topics/frank-zappa/index.md), [I Wanna Be Your Lover (song)](../../topics/song/i-wanna-be-your-lover/index.md), [James Brown](../../topics/james-brown/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Obama](../../topics/obama/index.md), [Oprah (TV show)](../../topics/tv-show/oprah/index.md), [Parents Music Resource Center](../../topics/parents-music-resource-center/index.md), [Roger Ebert](../../topics/roger-ebert/index.md), [Tidal](../../topics/tidal/index.md), [Vanity](../../topics/vanity/index.md), [White House (place)](../../topics/place/white-house/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/988e107cf6964494b58ad2ca9bcd0985))
 
 <br />
@@ -1936,7 +1936,7 @@
     - by [Star Tribune staff](../../authors/star-tribune-staff/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 21 April 2016
-    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [Tommy Barbarella](../../topics/tommy-barbarella/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-an-oral-history-in-the-beginning/51508747/))
 
 <br />
@@ -2001,7 +2001,7 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 26 January 2016
-    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Monte Moir](../../topics/monte-moir/index.md), [Morris Day](../../topics/morris-day/index.md)
+    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Mall of America (place)](../../topics/place/mall-of-america/index.md), [Monte Moir](../../topics/monte-moir/index.md), [Morris Day](../../topics/morris-day/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/it-s-party-time-at-paisley-morris-day-to-play-prince-s-place-friday/366612721/))
 
 <br />
@@ -2061,7 +2061,7 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 19 February 2015
-    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md)
+    - about [Coachella (event)](../../topics/event/coachella/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/irish-hitmaker-hozier-talks-church-and-his-state-of-mind/292710011/))
 
 <br />
@@ -2070,7 +2070,7 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 18 February 2015
-    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md)
+    - about [Coachella (event)](../../topics/event/coachella/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/hozier-s-church-and-state/292515361/))
 
 ----
@@ -2082,7 +2082,7 @@
  - [**"Item World: Eddie Vedder visits U of M Children&#039;s Hospital, Morris Day at Mall of America, more"**](https://www.startribune.com/item-world-eddie-vedder-visits-u-of-m-children-s-hospital-morris-day-at-mall-of-america-more/280214302/)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 23 October 2014
-    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md)
+    - about [Mall of America (place)](../../topics/place/mall-of-america/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/item-world-eddie-vedder-visits-u-of-m-children-s-hospital-morris-day-at-mall-of-america-more/280214302/))
 
 <br />
@@ -2091,7 +2091,7 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 23 October 2014
-    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md)
+    - about [Mall of America (place)](../../topics/place/mall-of-america/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/morris-day-inaugurates-hard-rock-cafe-at-mall-of-america/280153032/))
 
 ----
@@ -2371,7 +2371,7 @@
  - [**"Jimmy Jam enjoys some home cooking at Rudolph&#039;s -- Rudolph's Bar-B-Que was calling, and Jimmy Jam was answering."**](https://www.startribune.com/jimmy-jam-enjoys-some-home-cooking-at-rudolph-s/96342699/)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 14 June 2010
-    - about [Jerome Benton](../../topics/jerome-benton/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - about [Jerome Benton](../../topics/jerome-benton/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Oprah (TV show)](../../topics/tv-show/oprah/index.md), [Symbolina](../../topics/symbolina/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/jimmy-jam-enjoys-some-home-cooking-at-rudolph-s/96342699/))
 
 <br />
@@ -2546,7 +2546,7 @@
  - [**"‘Urban Cowboy’ Honky-Tonk Reopens"**](https://apnews.com/article/364ab90c9586855c2cfd89f85e36a796)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 17 October 2003
-    - about [John Travolta](../../topics/john-travolta/index.md), [Morris Day](../../topics/morris-day/index.md)
+    - about [Erykah Badu](../../topics/erykah-badu/index.md), [John Travolta](../../topics/john-travolta/index.md), [Morris Day](../../topics/morris-day/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/364ab90c9586855c2cfd89f85e36a796))
 
 ----

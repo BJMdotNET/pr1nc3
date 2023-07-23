@@ -21,7 +21,7 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 5 June 2022
-    - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Alicia Keys](../../topics/alicia-keys/index.md), [BrownMark](../../topics/brownmark/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [Celebration 2017 (event)](../../topics/event/celebration-2017/index.md), [Celebration 2019 (event)](../../topics/event/celebration-2019/index.md), [Celebration 2022 (event)](../../topics/event/celebration-2022/index.md), [Chanhassen Dinner Theatres](../../topics/chanhassen-dinner-theatres/index.md), [De Angela Duff](../../topics/de-angela-duff/index.md), [Donna Grantis](../../topics/donna-grantis/index.md), [Elliott Powell](../../topics/elliott-powell/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [Hannah Welton](../../topics/hannah-welton/index.md), [Ida Nielsen](../../topics/ida-nielsen/index.md), [Janelle Monae](../../topics/janelle-monae/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Joshua Welton](../../topics/joshua-welton/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Lenny Kravitz](../../topics/lenny-kravitz/index.md), [Levi Seacer](../../topics/levi-seacer/index.md), [Levi Seacer, Jr.](../../topics/levi-seacer-jr/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Mazarati](../../topics/mazarati/index.md), [Nichole Nordeman](../../topics/nichole-nordeman/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Prince and The Revolution](../../topics/prince-and-the-revolution/index.md), [Questlove](../../topics/questlove/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md), [Sounds of Blackness](../../topics/sounds-of-blackness/index.md), [Stokley](../../topics/stokley/index.md), [Target Center (place)](../../topics/place/target-center/index.md), [Tommy Barbarella](../../topics/tommy-barbarella/index.md), [Zaheer Ali](../../topics/zaheer-ali/index.md)
+    - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Alicia Keys](../../topics/alicia-keys/index.md), [BrownMark](../../topics/brownmark/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [Celebration 2017 (event)](../../topics/event/celebration-2017/index.md), [Celebration 2019 (event)](../../topics/event/celebration-2019/index.md), [Celebration 2022 (event)](../../topics/event/celebration-2022/index.md), [Chanhassen Dinner Theatres](../../topics/chanhassen-dinner-theatres/index.md), [De Angela Duff](../../topics/de-angela-duff/index.md), [Donna Grantis](../../topics/donna-grantis/index.md), [Elliott Powell](../../topics/elliott-powell/index.md), [Erykah Badu](../../topics/erykah-badu/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [Hannah Welton](../../topics/hannah-welton/index.md), [Ida Nielsen](../../topics/ida-nielsen/index.md), [Janelle Monae](../../topics/janelle-monae/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Joshua Welton](../../topics/joshua-welton/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Lenny Kravitz](../../topics/lenny-kravitz/index.md), [Levi Seacer](../../topics/levi-seacer/index.md), [Levi Seacer, Jr.](../../topics/levi-seacer-jr/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Mazarati](../../topics/mazarati/index.md), [Nichole Nordeman](../../topics/nichole-nordeman/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Prince and The Revolution](../../topics/prince-and-the-revolution/index.md), [Questlove](../../topics/questlove/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md), [Sounds of Blackness](../../topics/sounds-of-blackness/index.md), [Stokley](../../topics/stokley/index.md), [Target Center (place)](../../topics/place/target-center/index.md), [Tommy Barbarella](../../topics/tommy-barbarella/index.md), [Zaheer Ali](../../topics/zaheer-ali/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/highlights-from-two-long-exhilarating-days-at-prince-celebration-2022-at-paisley-park-mayte-garcia/600179523/))
 
 ----
@@ -33,7 +33,7 @@
  - [**"In a Twin Cities living room, the Steeles cook up their 35th annual Christmas show -- The Steeles' annual Christmas show is a family affair, brewed up in a Golden Valley living room."**](https://www.startribune.com/in-a-twin-cities-living-room-the-steeles-cook-up-their-35th-annual-christmas-show/566344542/)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 19 December 2019
-    - about [Alexander O’Neal](../../topics/alexander-o-neal/index.md), [contract](../../topics/contract/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [Kenni Holmen](../../topics/kenni-holmen/index.md), [Sonny Thompson](../../topics/sonny-thompson/index.md), [Sounds of Blackness](../../topics/sounds-of-blackness/index.md), [Tommy Barbarella](../../topics/tommy-barbarella/index.md)
+    - about [Alexander O’Neal](../../topics/alexander-o-neal/index.md), [contract](../../topics/contract/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [Kenni Holmen](../../topics/kenni-holmen/index.md), [Nordstrom (place)](../../topics/place/nordstrom/index.md), [Sonny Thompson](../../topics/sonny-thompson/index.md), [Sounds of Blackness](../../topics/sounds-of-blackness/index.md), [Tommy Barbarella](../../topics/tommy-barbarella/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/in-a-twin-cities-living-room-the-steeles-cook-up-their-35th-annual-christmas-show/566344542/))
 
 ----
@@ -58,6 +58,30 @@
     - on 26 September 2018
     - about [Central High](../../topics/central-high/index.md), [Cloud guitar (instrument)](../../topics/instrument/cloud-guitar/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [museum](../../topics/museum/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Paul Peterson](../../topics/paul-peterson/index.md), [St. Paul Peterson](../../topics/st-paul-peterson/index.md), [Tommy Barbarella](../../topics/tommy-barbarella/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/38a03f35b393465ba72fa83d6841b3a3))
+
+----
+
+## 2016 (2)
+
+### 2016 December (1)
+
+ - [**"Artist of the Year 2016: Prince&#039;s memorials were the year&#039;s rock stars -- An impromptu street gathering in the grim hours following Prince's death lit a spark that shined through a year of tributes."**](https://www.startribune.com/artist-of-the-year-2016-prince-s-memorials-were-the-year-s-rock-stars/408655055/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 30 December 2016
+    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Tommy Barbarella](../../topics/tommy-barbarella/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/artist-of-the-year-2016-prince-s-memorials-were-the-year-s-rock-stars/408655055/))
+
+----
+
+### 2016 April (1)
+
+ - [**"Prince / An Oral History: In the Beginning -- Prince Rogers Nelson was born June 7, 1958, at Mount Sinai Hospital in Minneapolis to Mattie Shaw and John Nelson. They had been in a jazz ensemble called the Prince Roger Trio. Since Mattie called her husband Prince, she dubbed her son Skipper "because he was small in size and he was just real cute - he was a darling baby.""**](https://www.startribune.com/prince-an-oral-history-in-the-beginning/51508747/)
+    - by [Star Tribune staff](../../authors/star-tribune-staff/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 21 April 2016
+    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [Tommy Barbarella](../../topics/tommy-barbarella/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-an-oral-history-in-the-beginning/51508747/))
 
 ----
 

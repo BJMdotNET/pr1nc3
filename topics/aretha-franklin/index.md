@@ -44,7 +44,7 @@
  - [**"Lizzo, Charli XCX, Billie Eilish and Lana Del Rey Among 2020 NME Awards Nominees -- Stormzy, The 1975, Yungblud, Foals and Stormzy are also nominated."**](https://www.billboard.com/articles/news/awards/8548499/2020-nme-awards-nominees-list)
     - in [Billboard](../../publications/a-e/billboard/index.md)
     - on 21 January 2020
-    - about [Amazing Grace (movie)](../../topics/movie/amazing-grace/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Beck](../../topics/beck/index.md), [FKA twigs](../../topics/fka-twigs/index.md), [Lizzo](../../topics/lizzo/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)
+    - about [Amazing Grace (movie)](../../topics/movie/amazing-grace/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Beck](../../topics/beck/index.md), [Coachella (event)](../../topics/event/coachella/index.md), [FKA twigs](../../topics/fka-twigs/index.md), [Lizzo](../../topics/lizzo/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/awards/8548499/2020-nme-awards-nominees-list))
 
 <br />
@@ -60,7 +60,7 @@
  - [**"NME Awards 2020: Full list of nominations revealed -- The winners will be revealed at London's O2 Academy Brixton on February 12."**](https://www.nme.com/news/music/nme-awards-2020-nominations-2598499)
     - in [NME (New Musical Express)](../../publications/k-o/nme-new-musical-express/index.md)
     - on 19 January 2020
-    - about [Amazing Grace (movie)](../../topics/movie/amazing-grace/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Beck](../../topics/beck/index.md), [FKA twigs](../../topics/fka-twigs/index.md), [Lizzo](../../topics/lizzo/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)
+    - about [Amazing Grace (movie)](../../topics/movie/amazing-grace/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Beck](../../topics/beck/index.md), [Coachella (event)](../../topics/event/coachella/index.md), [FKA twigs](../../topics/fka-twigs/index.md), [Lizzo](../../topics/lizzo/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.nme.com/news/music/nme-awards-2020-nominations-2598499))
 
 <br />
@@ -92,7 +92,7 @@
  - [**"From films at Paisley Park to the new Fillmore, here are four musical events worth catching"**](https://www.twincities.com/2020/01/09/from-films-at-paisley-park-to-the-new-fillmore-here-are-four-musical-events-worth-catching/)
     - in [TwinCities.com - Pioneer Press](../../publications/p-t/twincities-com-pioneer-press/index.md)
     - on 9 January 2020
-    - about [Amazing Grace (movie)](../../topics/movie/amazing-grace/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Dave Chappelle](../../topics/dave-chappelle/index.md), [Dave Chappelle’s Block Party (movie)](../../topics/movie/dave-chappelle-s-block-party/index.md), [exhibit](../../topics/exhibit/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [John Legend](../../topics/john-legend/index.md), [Minnesota History Center](../../topics/minnesota-history-center/index.md), [museum](../../topics/museum/index.md), [Paisley Park Cinema: Music on the Big Screen (event)](../../topics/event/paisley-park-cinema-music-on-the-big-screen/index.md), [The Roots](../../topics/the-roots/index.md), [vault](../../topics/vault/index.md), [Wattstax (movie)](../../topics/movie/wattstax/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md)
+    - about [Amazing Grace (movie)](../../topics/movie/amazing-grace/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Dave Chappelle](../../topics/dave-chappelle/index.md), [Dave Chappelle’s Block Party (movie)](../../topics/movie/dave-chappelle-s-block-party/index.md), [Erykah Badu](../../topics/erykah-badu/index.md), [exhibit](../../topics/exhibit/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [John Legend](../../topics/john-legend/index.md), [Minnesota History Center](../../topics/minnesota-history-center/index.md), [museum](../../topics/museum/index.md), [Paisley Park Cinema: Music on the Big Screen (event)](../../topics/event/paisley-park-cinema-music-on-the-big-screen/index.md), [The Roots](../../topics/the-roots/index.md), [vault](../../topics/vault/index.md), [Wattstax (movie)](../../topics/movie/wattstax/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2020/01/09/from-films-at-paisley-park-to-the-new-fillmore-here-are-four-musical-events-worth-catching/))
 
 <br />
@@ -136,7 +136,7 @@
  - [**"Paisley Park to host film series featuring Aretha, 'Wattstax' and 'Dave Chappelle's Block Party'"**](https://www.startribune.com/paisley-park-to-host-film-series-featuring-aretha-wattstax-and-dave-chappelle-s-block-party/566561102/)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 30 December 2019
-    - about [Alan Seiffert](../../topics/alan-seiffert/index.md), [Amazing Grace (movie)](../../topics/movie/amazing-grace/index.md), [Andre Cymone](../../topics/andre-cymone/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Dave Chappelle](../../topics/dave-chappelle/index.md), [Dave Chappelle’s Block Party (movie)](../../topics/movie/dave-chappelle-s-block-party/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [Judith Hill](../../topics/judith-hill/index.md), [museum](../../topics/museum/index.md), [Paisley Park Cinema: Music on the Big Screen (event)](../../topics/event/paisley-park-cinema-music-on-the-big-screen/index.md), [The Roots](../../topics/the-roots/index.md)
+    - about [Alan Seiffert](../../topics/alan-seiffert/index.md), [Amazing Grace (movie)](../../topics/movie/amazing-grace/index.md), [Andre Cymone](../../topics/andre-cymone/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Dave Chappelle](../../topics/dave-chappelle/index.md), [Dave Chappelle’s Block Party (movie)](../../topics/movie/dave-chappelle-s-block-party/index.md), [Erykah Badu](../../topics/erykah-badu/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [Judith Hill](../../topics/judith-hill/index.md), [museum](../../topics/museum/index.md), [Paisley Park Cinema: Music on the Big Screen (event)](../../topics/event/paisley-park-cinema-music-on-the-big-screen/index.md), [The Roots](../../topics/the-roots/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/paisley-park-to-host-film-series-featuring-aretha-wattstax-and-dave-chappelle-s-block-party/566561102/))
 
 ----
@@ -197,7 +197,7 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 12 October 2019
-    - about [Aretha Franklin](../../topics/aretha-franklin/index.md), [Ed Sheeran](../../topics/ed-sheeran/index.md), [Frank Zappa](../../topics/frank-zappa/index.md), [hologram](../../topics/hologram/index.md), [Lizzo](../../topics/lizzo/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Morris Day](../../topics/morris-day/index.md), [perfume](../../topics/perfume/index.md)
+    - about [Aretha Franklin](../../topics/aretha-franklin/index.md), [Coachella (event)](../../topics/event/coachella/index.md), [Ed Sheeran](../../topics/ed-sheeran/index.md), [Frank Zappa](../../topics/frank-zappa/index.md), [hologram](../../topics/hologram/index.md), [Lizzo](../../topics/lizzo/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Morris Day](../../topics/morris-day/index.md), [perfume](../../topics/perfume/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/))
 
 <br />
@@ -206,7 +206,7 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 8 October 2019
-    - about [Aretha Franklin](../../topics/aretha-franklin/index.md), [Donald Trump](../../topics/donald-trump/index.md), [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jamie Starr](../../topics/jamie-starr/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [Pandemonium (album)](../../topics/album/pandemonium/index.md), [Trump](../../topics/trump/index.md)
+    - about [Aretha Franklin](../../topics/aretha-franklin/index.md), [Donald Trump](../../topics/donald-trump/index.md), [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jamie Starr](../../topics/jamie-starr/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Mall of America (place)](../../topics/place/mall-of-america/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [Pandemonium (album)](../../topics/album/pandemonium/index.md), [Trump](../../topics/trump/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-haunts-morris-day-s-new-memoir-i-still-hear-his-voice-in-my-head/562430972/))
 
 ----
@@ -287,7 +287,7 @@
  - [**"The days the music died: A look at funerals of the greats"**](https://apnews.com/7d546ab5dbec4e5ba4ebd0eddd1064e8)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 29 August 2018
-    - about [Aretha Franklin](../../topics/aretha-franklin/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Graceland](../../topics/graceland/index.md), [James Brown](../../topics/james-brown/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [museum](../../topics/museum/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [trademark](../../topics/trademark/index.md)
+    - about [Aretha Franklin](../../topics/aretha-franklin/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Graceland](../../topics/graceland/index.md), [James Brown](../../topics/james-brown/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [museum](../../topics/museum/index.md), [Oprah (TV show)](../../topics/tv-show/oprah/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [trademark](../../topics/trademark/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/7d546ab5dbec4e5ba4ebd0eddd1064e8))
 
 ----

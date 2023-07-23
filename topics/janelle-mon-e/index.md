@@ -8,7 +8,7 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 1 July 2023
-    - about [Beyoncé](../../topics/beyonc/index.md), [Janelle Monáe](../../topics/janelle-mon-e/index.md)
+    - about [Beyoncé](../../topics/beyonc/index.md), [Erykah Badu](../../topics/erykah-badu/index.md), [Janelle Monáe](../../topics/janelle-mon-e/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/erykah-badu-mos-def-yasiin-bey-prince-david-bowie-janelle-monae-beyonce-st-paul-xcel-energy-center/600286804/))
 
 ----

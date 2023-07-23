@@ -73,7 +73,7 @@
  - [**"Lizzo, Charli XCX, Billie Eilish and Lana Del Rey Among 2020 NME Awards Nominees -- Stormzy, The 1975, Yungblud, Foals and Stormzy are also nominated."**](https://www.billboard.com/articles/news/awards/8548499/2020-nme-awards-nominees-list)
     - in [Billboard](../../publications/a-e/billboard/index.md)
     - on 21 January 2020
-    - about [Amazing Grace (movie)](../../topics/movie/amazing-grace/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Beck](../../topics/beck/index.md), [FKA twigs](../../topics/fka-twigs/index.md), [Lizzo](../../topics/lizzo/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)
+    - about [Amazing Grace (movie)](../../topics/movie/amazing-grace/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Beck](../../topics/beck/index.md), [Coachella (event)](../../topics/event/coachella/index.md), [FKA twigs](../../topics/fka-twigs/index.md), [Lizzo](../../topics/lizzo/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/awards/8548499/2020-nme-awards-nominees-list))
 
 <br />
@@ -81,7 +81,7 @@
  - [**"NME Awards 2020: Full list of nominations revealed -- The winners will be revealed at London's O2 Academy Brixton on February 12."**](https://www.nme.com/news/music/nme-awards-2020-nominations-2598499)
     - in [NME (New Musical Express)](../../publications/k-o/nme-new-musical-express/index.md)
     - on 19 January 2020
-    - about [Amazing Grace (movie)](../../topics/movie/amazing-grace/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Beck](../../topics/beck/index.md), [FKA twigs](../../topics/fka-twigs/index.md), [Lizzo](../../topics/lizzo/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)
+    - about [Amazing Grace (movie)](../../topics/movie/amazing-grace/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Beck](../../topics/beck/index.md), [Coachella (event)](../../topics/event/coachella/index.md), [FKA twigs](../../topics/fka-twigs/index.md), [Lizzo](../../topics/lizzo/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.nme.com/news/music/nme-awards-2020-nominations-2598499))
 
 <br />
@@ -174,7 +174,7 @@
  - [**"'GMA' anchors share their favorite books of 2019"**](https://www.goodmorningamerica.com/culture/story/gma-anchors-share-favorite-books-2019-67598695)
     - in [goodmorningamerica.com](../../publications/f-j/goodmorningamerica-com/index.md)
     - on 12 December 2019
-    - about [Celebration (event)](../../topics/event/celebration/index.md), [Donald Trump](../../topics/donald-trump/index.md), [memoir](../../topics/memoir/index.md), [My Name Is Prince: 25 Inspired Years (book)](../../topics/book/my-name-is-prince-25-inspired-years/index.md), [Obama](../../topics/obama/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md), [Trump](../../topics/trump/index.md)
+    - about [Celebration (event)](../../topics/event/celebration/index.md), [Donald Trump](../../topics/donald-trump/index.md), [memoir](../../topics/memoir/index.md), [My Name Is Prince: 25 Inspired Years (book)](../../topics/book/my-name-is-prince-25-inspired-years/index.md), [Obama](../../topics/obama/index.md), [Oprah (TV show)](../../topics/tv-show/oprah/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md), [Trump](../../topics/trump/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.goodmorningamerica.com/culture/story/gma-anchors-share-favorite-books-2019-67598695))
 
 <br />
@@ -265,7 +265,7 @@
  - [**"From 'The Ladder' to 'The Cross,' Prince's Legacy Endures Through His Friends and Music at a Town Hall Tribute"**](https://www.theroot.com/from-the-ladder-to-the-cross-princes-legacy-endured-th-1839945113)
     - in [The Root](../../publications/p-t/the-root/index.md)
     - on 19 November 2019
-    - about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Greg Tate](../../topics/greg-tate/index.md), [memoir](../../topics/memoir/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Spike Lee](../../topics/spike-lee/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
+    - about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Greg Tate](../../topics/greg-tate/index.md), [memoir](../../topics/memoir/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Oprah (TV show)](../../topics/tv-show/oprah/index.md), [Spike Lee](../../topics/spike-lee/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.theroot.com/from-the-ladder-to-the-cross-princes-legacy-endured-th-1839945113))
 
 <br />
@@ -305,7 +305,7 @@
  - [**"Prince's Posthumous Memoir The Beautiful Ones Celebrates His Humanity. A Musical Event in New York City Will Celebrate Its Release"**](https://thegrapevine.theroot.com/princes-posthumous-memoir-the-beautiful-ones-celebrates-1839906780)
     - in [The Grapevine (The Root)](../../publications/f-j/the-grapevine-the-root/index.md)
     - on 16 November 2019
-    - about [Chris Jackson](../../topics/chris-jackson/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Greg Tate](../../topics/greg-tate/index.md), [memoir](../../topics/memoir/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Raspberry Beret (song)](../../topics/song/raspberry-beret/index.md), [Spike Lee](../../topics/spike-lee/index.md), [The Ballad Of Dorothy Parker (song)](../../topics/song/the-ballad-of-dorothy-parker/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [Timberwolves](../../topics/timberwolves/index.md)
+    - about [Chris Jackson](../../topics/chris-jackson/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Greg Tate](../../topics/greg-tate/index.md), [Mall of America (place)](../../topics/place/mall-of-america/index.md), [memoir](../../topics/memoir/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Raspberry Beret (song)](../../topics/song/raspberry-beret/index.md), [Spike Lee](../../topics/spike-lee/index.md), [The Ballad Of Dorothy Parker (song)](../../topics/song/the-ballad-of-dorothy-parker/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [Timberwolves](../../topics/timberwolves/index.md)
     - ([mirror](https://web.archive.org/web/*/https://thegrapevine.theroot.com/princes-posthumous-memoir-the-beautiful-ones-celebrates-1839906780))
 
 <br />
@@ -425,7 +425,7 @@
  - [**"How The Massive New Prince Photo Book Came Together"**](https://www.billboard.com/articles/news/8541575/prince-photo-book-details-randee-st-nicholas-interview)
     - in [Billboard](../../publications/a-e/billboard/index.md)
     - on 1 November 2019
-    - about [memoir](../../topics/memoir/index.md), [My Name Is Prince: 25 Inspired Years (book)](../../topics/book/my-name-is-prince-25-inspired-years/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md)
+    - about [Coachella (event)](../../topics/event/coachella/index.md), [memoir](../../topics/memoir/index.md), [My Name Is Prince: 25 Inspired Years (book)](../../topics/book/my-name-is-prince-25-inspired-years/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8541575/prince-photo-book-details-randee-st-nicholas-interview))
 
 <br />
@@ -739,7 +739,7 @@
  - [**"Book excerpt: Prince's memoir, "The Beautiful Ones""**](https://www.cbsnews.com/news/book-excerpt-prince-memoir-the-beautiful-ones/)
     - in [CBS News](../../publications/a-e/cbs-news/index.md)
     - on 26 October 2019
-    - about [airport](../../topics/airport/index.md), [Chris Jackson](../../topics/chris-jackson/index.md), [Country Inn & Suites (place)](../../topics/place/country-inn-suites/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Kim Pratt](../../topics/kim-pratt/index.md), [memoir](../../topics/memoir/index.md), [Penguin Random House](../../topics/penguin-random-house/index.md), [Random House](../../topics/random-house/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)
+    - about [airport](../../topics/airport/index.md), [Chris Jackson](../../topics/chris-jackson/index.md), [Country Inn & Suites (place)](../../topics/place/country-inn-suites/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Kim Pratt](../../topics/kim-pratt/index.md), [memoir](../../topics/memoir/index.md), [Oprah (TV show)](../../topics/tv-show/oprah/index.md), [Penguin Random House](../../topics/penguin-random-house/index.md), [Random House](../../topics/random-house/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/news/book-excerpt-prince-memoir-the-beautiful-ones/))
 
 <br />
@@ -819,7 +819,7 @@
  - [**"Prince’s memoir ‘The Beautiful Ones’ is ‘warm, funny, well observed, eloquent and surprisingly focused’"**](https://www.twincities.com/2019/10/25/princes-memoir-the-beautiful-ones-is-warm-funny-well-observed-eloquent-and-surprisingly-focused/)
     - in [TwinCities.com - Pioneer Press](../../publications/p-t/twincities-com-pioneer-press/index.md)
     - on 25 October 2019
-    - about [Andrea Swensson](../../topics/andrea-swensson/index.md), [Capri Theater (place)](../../topics/place/capri-theater/index.md), [Chris Jackson](../../topics/chris-jackson/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [memoir](../../topics/memoir/index.md), [NPG Music Club (website)](../../topics/website/npg-music-club/index.md), [Raspberry Beret (song)](../../topics/song/raspberry-beret/index.md), [The Ballad Of Dorothy Parker (song)](../../topics/song/the-ballad-of-dorothy-parker/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)
+    - about [Andrea Swensson](../../topics/andrea-swensson/index.md), [Capri Theater (place)](../../topics/place/capri-theater/index.md), [Chris Jackson](../../topics/chris-jackson/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [memoir](../../topics/memoir/index.md), [NPG Music Club (website)](../../topics/website/npg-music-club/index.md), [Oprah (TV show)](../../topics/tv-show/oprah/index.md), [Raspberry Beret (song)](../../topics/song/raspberry-beret/index.md), [The Ballad Of Dorothy Parker (song)](../../topics/song/the-ballad-of-dorothy-parker/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2019/10/25/princes-memoir-the-beautiful-ones-is-warm-funny-well-observed-eloquent-and-surprisingly-focused/))
 
 <br />
@@ -891,7 +891,7 @@
  - [**"The Time’s Morris Day imagines a conversation with Prince in his new book ‘On Time’"**](https://www.twincities.com/2019/10/11/the-times-morris-day-imagines-a-conversation-with-prince-in-his-new-book-on-time/)
     - in [TwinCities.com - Pioneer Press](../../publications/p-t/twincities-com-pioneer-press/index.md)
     - on 11 October 2019
-    - about [divorce](../../topics/divorce/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [The Time](../../topics/the-time/index.md)
+    - about [divorce](../../topics/divorce/index.md), [Mall of America (place)](../../topics/place/mall-of-america/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [The Time](../../topics/the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2019/10/11/the-times-morris-day-imagines-a-conversation-with-prince-in-his-new-book-on-time/))
 
 <br />
@@ -908,7 +908,7 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 8 October 2019
-    - about [Aretha Franklin](../../topics/aretha-franklin/index.md), [Donald Trump](../../topics/donald-trump/index.md), [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jamie Starr](../../topics/jamie-starr/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [Pandemonium (album)](../../topics/album/pandemonium/index.md), [Trump](../../topics/trump/index.md)
+    - about [Aretha Franklin](../../topics/aretha-franklin/index.md), [Donald Trump](../../topics/donald-trump/index.md), [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jamie Starr](../../topics/jamie-starr/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Mall of America (place)](../../topics/place/mall-of-america/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [Pandemonium (album)](../../topics/album/pandemonium/index.md), [Trump](../../topics/trump/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-haunts-morris-day-s-new-memoir-i-still-hear-his-voice-in-my-head/562430972/))
 
 <br />
@@ -999,7 +999,7 @@
     - by [Dan Piepenbring](../../authors/dan-piepenbring/index.md)
     - in [The New Yorker](../../publications/k-o/the-new-yorker/index.md)
     - on 2 September 2019
-    - about [airport](../../topics/airport/index.md), [Alexander Nevermind](../../topics/alexander-nevermind/index.md), [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [bootleg](../../topics/bootleg/index.md), [Chanhassen Cinema](../../topics/chanhassen-cinema/index.md), [Chris Jackson](../../topics/chris-jackson/index.md), [contract](../../topics/contract/index.md), [Country Inn & Suites (place)](../../topics/place/country-inn-suites/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Denise Matthews](../../topics/denise-matthews/index.md), [DJ Kiss](../../topics/dj-kiss/index.md), [fentanyl](../../topics/fentanyl/index.md), [I.C.M.](../../topics/i-c-m/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Jakissa Taylor Semple](../../topics/jakissa-taylor-semple/index.md), [Jamie Starr](../../topics/jamie-starr/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [Joey Coco](../../topics/joey-coco/index.md), [John Lewis Nelson](../../topics/john-lewis-nelson/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Kim Pratt](../../topics/kim-pratt/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Mattie Della Shaw Baker](../../topics/mattie-della-shaw-baker/index.md), [memoir](../../topics/memoir/index.md), [Meron Bekure](../../topics/meron-bekure/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [Pam Warren](../../topics/pam-warren/index.md), [Penguin Random House](../../topics/penguin-random-house/index.md), [perfume](../../topics/perfume/index.md), [Peter Bravestrong](../../topics/peter-bravestrong/index.md), [Phaedra Ellis-Lamkins](../../topics/phaedra-ellis-lamkins/index.md), [Purple Music (song)](../../topics/song/purple-music/index.md), [Purple Pam](../../topics/purple-pam/index.md), [Random House](../../topics/random-house/index.md), [Raspberry Beret (song)](../../topics/song/raspberry-beret/index.md), [royalties](../../topics/royalties/index.md), [separation](../../topics/separation/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Ballad Of Dorothy Parker (song)](../../topics/song/the-ballad-of-dorothy-parker/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [The Beautiful Ones (song)](../../topics/song/the-beautiful-ones/index.md), [TMZ (website)](../../topics/website/tmz/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md), [Vicodin](../../topics/vicodin/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
+    - about [airport](../../topics/airport/index.md), [Alexander Nevermind](../../topics/alexander-nevermind/index.md), [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [bootleg](../../topics/bootleg/index.md), [Chanhassen Cinema](../../topics/chanhassen-cinema/index.md), [Chris Jackson](../../topics/chris-jackson/index.md), [contract](../../topics/contract/index.md), [Country Inn & Suites (place)](../../topics/place/country-inn-suites/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Denise Matthews](../../topics/denise-matthews/index.md), [DJ Kiss](../../topics/dj-kiss/index.md), [fentanyl](../../topics/fentanyl/index.md), [I.C.M.](../../topics/i-c-m/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Jakissa Taylor Semple](../../topics/jakissa-taylor-semple/index.md), [Jamie Starr](../../topics/jamie-starr/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [Joey Coco](../../topics/joey-coco/index.md), [John Lewis Nelson](../../topics/john-lewis-nelson/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Kim Pratt](../../topics/kim-pratt/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Mattie Della Shaw Baker](../../topics/mattie-della-shaw-baker/index.md), [memoir](../../topics/memoir/index.md), [Meron Bekure](../../topics/meron-bekure/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [Oprah (TV show)](../../topics/tv-show/oprah/index.md), [Pam Warren](../../topics/pam-warren/index.md), [Penguin Random House](../../topics/penguin-random-house/index.md), [perfume](../../topics/perfume/index.md), [Peter Bravestrong](../../topics/peter-bravestrong/index.md), [Phaedra Ellis-Lamkins](../../topics/phaedra-ellis-lamkins/index.md), [Purple Music (song)](../../topics/song/purple-music/index.md), [Purple Pam](../../topics/purple-pam/index.md), [Random House](../../topics/random-house/index.md), [Raspberry Beret (song)](../../topics/song/raspberry-beret/index.md), [royalties](../../topics/royalties/index.md), [separation](../../topics/separation/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Ballad Of Dorothy Parker (song)](../../topics/song/the-ballad-of-dorothy-parker/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [The Beautiful Ones (song)](../../topics/song/the-beautiful-ones/index.md), [TMZ (website)](../../topics/website/tmz/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md), [Vicodin](../../topics/vicodin/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.newyorker.com/magazine/2019/09/09/the-book-of-prince))
 
 ----
@@ -1227,7 +1227,7 @@
     - by [Leanne Italie (Associated Press)](../../authors/associated-press/leanne-italie/index.md)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 10 April 2017
-    - about [divorce](../../topics/divorce/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [memoir](../../topics/memoir/index.md), [opioid](../../topics/opioid/index.md), [The Most Beautiful (book)](../../topics/book/the-most-beautiful/index.md), [Vicodin](../../topics/vicodin/index.md)
+    - about [Amiir](../../topics/amiir/index.md), [divorce](../../topics/divorce/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [memoir](../../topics/memoir/index.md), [opioid](../../topics/opioid/index.md), [Oprah (TV show)](../../topics/tv-show/oprah/index.md), [The Most Beautiful (book)](../../topics/book/the-most-beautiful/index.md), [Vicodin](../../topics/vicodin/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/0c93c63651ef4f15adde78e51b38c197))
 
 <br />
@@ -1246,7 +1246,7 @@
     - by [The Associated Press](../../authors/the-associated-press/index.md)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 15 March 2017
-    - about [divorce](../../topics/divorce/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [memoir](../../topics/memoir/index.md), [Pfeiffer syndrome type 2](../../topics/pfeiffer-syndrome-type-2/index.md)
+    - about [Amiir](../../topics/amiir/index.md), [divorce](../../topics/divorce/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [memoir](../../topics/memoir/index.md), [Pfeiffer syndrome type 2](../../topics/pfeiffer-syndrome-type-2/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/4353bb4317364ba9b544c3363334fe4b))
 
 ----
@@ -1284,7 +1284,7 @@
  - [**"A synthesizer of sounds, Prince ‘rewrote the rulebook’"**](https://apnews.com/c07d6a9a2752405fa8ed91e8d949806a)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 22 April 2016
-    - about [Bangles](../../topics/bangles/index.md), [contract](../../topics/contract/index.md), [Cyndi Lauper](../../topics/cyndi-lauper/index.md), [Frank Zappa](../../topics/frank-zappa/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Obama](../../topics/obama/index.md), [Parents Music Resource Center](../../topics/parents-music-resource-center/index.md), [Roger Ebert](../../topics/roger-ebert/index.md), [The Time](../../topics/the-time/index.md), [White House (place)](../../topics/place/white-house/index.md)
+    - about [Bangles](../../topics/bangles/index.md), [contract](../../topics/contract/index.md), [Cyndi Lauper](../../topics/cyndi-lauper/index.md), [Frank Zappa](../../topics/frank-zappa/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Obama](../../topics/obama/index.md), [Oprah (TV show)](../../topics/tv-show/oprah/index.md), [Parents Music Resource Center](../../topics/parents-music-resource-center/index.md), [Roger Ebert](../../topics/roger-ebert/index.md), [The Time](../../topics/the-time/index.md), [White House (place)](../../topics/place/white-house/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/c07d6a9a2752405fa8ed91e8d949806a))
 
 <br />
@@ -1292,7 +1292,7 @@
  - [**"Pop superstar Prince dies at his Minnesota home at age 57"**](https://apnews.com/b9e3df0421a04344835cd4fac7680c24)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 22 April 2016
-    - about [Bangles](../../topics/bangles/index.md), [contract](../../topics/contract/index.md), [Cyndi Lauper](../../topics/cyndi-lauper/index.md), [Frank Zappa](../../topics/frank-zappa/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Obama](../../topics/obama/index.md), [Parents Music Resource Center](../../topics/parents-music-resource-center/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md), [White House (place)](../../topics/place/white-house/index.md)
+    - about [Bangles](../../topics/bangles/index.md), [contract](../../topics/contract/index.md), [Cyndi Lauper](../../topics/cyndi-lauper/index.md), [Frank Zappa](../../topics/frank-zappa/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Obama](../../topics/obama/index.md), [Oprah (TV show)](../../topics/tv-show/oprah/index.md), [Parents Music Resource Center](../../topics/parents-music-resource-center/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md), [White House (place)](../../topics/place/white-house/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/b9e3df0421a04344835cd4fac7680c24))
 
 <br />
@@ -1300,7 +1300,7 @@
  - [**"Prince, hugely inventive, influential musician, dead at 57"**](https://apnews.com/988e107cf6964494b58ad2ca9bcd0985)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 22 April 2016
-    - about [Academy Award](../../topics/academy-award/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Bangles](../../topics/bangles/index.md), [contract](../../topics/contract/index.md), [Cyndi Lauper](../../topics/cyndi-lauper/index.md), [Frank Zappa](../../topics/frank-zappa/index.md), [I Wanna Be Your Lover (song)](../../topics/song/i-wanna-be-your-lover/index.md), [James Brown](../../topics/james-brown/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Obama](../../topics/obama/index.md), [Parents Music Resource Center](../../topics/parents-music-resource-center/index.md), [Roger Ebert](../../topics/roger-ebert/index.md), [Tidal](../../topics/tidal/index.md), [Vanity](../../topics/vanity/index.md), [White House (place)](../../topics/place/white-house/index.md)
+    - about [Academy Award](../../topics/academy-award/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Bangles](../../topics/bangles/index.md), [contract](../../topics/contract/index.md), [Cyndi Lauper](../../topics/cyndi-lauper/index.md), [Frank Zappa](../../topics/frank-zappa/index.md), [I Wanna Be Your Lover (song)](../../topics/song/i-wanna-be-your-lover/index.md), [James Brown](../../topics/james-brown/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Obama](../../topics/obama/index.md), [Oprah (TV show)](../../topics/tv-show/oprah/index.md), [Parents Music Resource Center](../../topics/parents-music-resource-center/index.md), [Roger Ebert](../../topics/roger-ebert/index.md), [Tidal](../../topics/tidal/index.md), [Vanity](../../topics/vanity/index.md), [White House (place)](../../topics/place/white-house/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/988e107cf6964494b58ad2ca9bcd0985))
 
 <br />
@@ -1317,7 +1317,7 @@
     - by [C.J. (Cheryl Johnson)](../../authors/c-j-cheryl-johnson/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 15 April 2016
-    - about [airport](../../topics/airport/index.md), [C.J.](../../topics/c-j/index.md), [memoir](../../topics/memoir/index.md), [Neal Karlen](../../topics/neal-karlen/index.md)
+    - about [airport](../../topics/airport/index.md), [C.J.](../../topics/c-j/index.md), [memoir](../../topics/memoir/index.md), [Neal Karlen](../../topics/neal-karlen/index.md), [Symbolina](../../topics/symbolina/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/c-j-writing-a-book-with-prince-would-be-a-nightmare-job-says-neal-karlen-who-loves-the-purple-guy/375907901/))
 
 ----

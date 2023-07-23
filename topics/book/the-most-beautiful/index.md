@@ -17,7 +17,7 @@
  - [**"Mayte Garcia on the Prince you didn’t know"**](https://apnews.com/a4115faebefc463a8aad4433e14f5d2b)
     - in [Associated Press News](../../../publications/a-e/associated-press-news/index.md)
     - on 19 April 2017
-    - about [Mayte](../../../topics/mayte/index.md), [Mayte Garcia](../../../topics/mayte-garcia/index.md), [The Most Beautiful (book)](../../../topics/book/the-most-beautiful/index.md)
+    - about [Amiir](../../../topics/amiir/index.md), [Mayte](../../../topics/mayte/index.md), [Mayte Garcia](../../../topics/mayte-garcia/index.md), [The Most Beautiful (book)](../../../topics/book/the-most-beautiful/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/a4115faebefc463a8aad4433e14f5d2b))
 
 <br />
@@ -34,7 +34,7 @@
     - by [Leanne Italie (Associated Press)](../../../authors/associated-press/leanne-italie/index.md)
     - in [Associated Press News](../../../publications/a-e/associated-press-news/index.md)
     - on 10 April 2017
-    - about [divorce](../../../topics/divorce/index.md), [Manuela Testolini](../../../topics/manuela-testolini/index.md), [Mayte](../../../topics/mayte/index.md), [Mayte Garcia](../../../topics/mayte-garcia/index.md), [memoir](../../../topics/memoir/index.md), [opioid](../../../topics/opioid/index.md), [The Most Beautiful (book)](../../../topics/book/the-most-beautiful/index.md), [Vicodin](../../../topics/vicodin/index.md)
+    - about [Amiir](../../../topics/amiir/index.md), [divorce](../../../topics/divorce/index.md), [Manuela Testolini](../../../topics/manuela-testolini/index.md), [Mayte](../../../topics/mayte/index.md), [Mayte Garcia](../../../topics/mayte-garcia/index.md), [memoir](../../../topics/memoir/index.md), [opioid](../../../topics/opioid/index.md), [Oprah (TV show)](../../../topics/tv-show/oprah/index.md), [The Most Beautiful (book)](../../../topics/book/the-most-beautiful/index.md), [Vicodin](../../../topics/vicodin/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/0c93c63651ef4f15adde78e51b38c197))
 
 <br />
@@ -52,7 +52,7 @@
  - [**"AM Prep-Music -- PRINCE’S EX OPENS UP ABOUT THE DEATH OF THEIR SON"**](https://apnews.com/00a854bad6dc4bea836dcf16182e0978)
     - in [Associated Press News](../../../publications/a-e/associated-press-news/index.md)
     - on 16 March 2017
-    - about [Mayte](../../../topics/mayte/index.md), [Pfeiffer syndrome type 2](../../../topics/pfeiffer-syndrome-type-2/index.md), [The Most Beautiful (book)](../../../topics/book/the-most-beautiful/index.md)
+    - about [Amiir](../../../topics/amiir/index.md), [Mayte](../../../topics/mayte/index.md), [Pfeiffer syndrome type 2](../../../topics/pfeiffer-syndrome-type-2/index.md), [The Most Beautiful (book)](../../../topics/book/the-most-beautiful/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/00a854bad6dc4bea836dcf16182e0978))
 
 ----

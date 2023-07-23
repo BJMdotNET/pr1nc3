@@ -150,7 +150,7 @@
     - by [Steve Marsh](../../authors/steve-marsh/index.md)
     - in [Mpls.St.Paul Magazine](../../publications/k-o/mpls-st-paul-magazine/index.md)
     - on 12 December 2019
-    - about [Andrea Swensson](../../topics/andrea-swensson/index.md), [Prince: The Story of 1999](../../topics/prince-the-story-of-1999/index.md)
+    - about [Andrea Swensson](../../topics/andrea-swensson/index.md), [Prince: The Story of 1999](../../topics/prince-the-story-of-1999/index.md), [Symbolina](../../topics/symbolina/index.md)
     - ([mirror](https://web.archive.org/web/*/https://mspmag.com/arts-and-culture/qa-andrea-swensson-prince-expert/))
 
 <br />
@@ -250,7 +250,7 @@
  - [**"Prince’s memoir ‘The Beautiful Ones’ is ‘warm, funny, well observed, eloquent and surprisingly focused’"**](https://www.twincities.com/2019/10/25/princes-memoir-the-beautiful-ones-is-warm-funny-well-observed-eloquent-and-surprisingly-focused/)
     - in [TwinCities.com - Pioneer Press](../../publications/p-t/twincities-com-pioneer-press/index.md)
     - on 25 October 2019
-    - about [Andrea Swensson](../../topics/andrea-swensson/index.md), [Capri Theater (place)](../../topics/place/capri-theater/index.md), [Chris Jackson](../../topics/chris-jackson/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [memoir](../../topics/memoir/index.md), [NPG Music Club (website)](../../topics/website/npg-music-club/index.md), [Raspberry Beret (song)](../../topics/song/raspberry-beret/index.md), [The Ballad Of Dorothy Parker (song)](../../topics/song/the-ballad-of-dorothy-parker/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)
+    - about [Andrea Swensson](../../topics/andrea-swensson/index.md), [Capri Theater (place)](../../topics/place/capri-theater/index.md), [Chris Jackson](../../topics/chris-jackson/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [memoir](../../topics/memoir/index.md), [NPG Music Club (website)](../../topics/website/npg-music-club/index.md), [Oprah (TV show)](../../topics/tv-show/oprah/index.md), [Raspberry Beret (song)](../../topics/song/raspberry-beret/index.md), [The Ballad Of Dorothy Parker (song)](../../topics/song/the-ballad-of-dorothy-parker/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2019/10/25/princes-memoir-the-beautiful-ones-is-warm-funny-well-observed-eloquent-and-surprisingly-focused/))
 
 ----
