@@ -73,6 +73,7 @@
     - by [Chris Riemenschneider](../../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 9 October 2012
+    - about [Mall of America (place)](../../../topics/place/mall-of-america/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/soul-asylum-co-founder-dan-murphy-quits-the-band/173294201/))
 
 ----
@@ -81,11 +82,20 @@
     - by [Aimée Blanchette](../../../authors/aim-e-blanchette/index.md)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 4 October 2012
+    - about [Mall of America (place)](../../../topics/place/mall-of-america/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/the-little-train-show-that-could/172492981/))
 
 ----
 
-## September 2012 (1)
+## September 2012 (2)
+
+ - [**"PA&#039;s secure in his &#039;masculine femininity&#039; -- Yes, there was an elephant in the lobby of Winter Park when KFAN's Paul Allen, "Voice of the Vikings," and 18-year Canterbury Park track announcer, talked to me for this Q&A."**](https://www.startribune.com/pa-s-secure-in-his-masculine-femininity/170842681/)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 22 September 2012
+    - about [Symbolina](../../../topics/symbolina/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/pa-s-secure-in-his-masculine-femininity/170842681/))
+
+----
 
  - [**"Prince sports new retro afro, song"**](https://www.startribune.com/prince-sports-new-retro-afro-song/170049356/)
     - by [Chris Riemenschneider](../../../authors/chris-riemenschneider/index.md)
@@ -95,7 +105,7 @@
 
 ----
 
-## August 2012 (8)
+## August 2012 (9)
 
  - [**"@work: Twins&#039; tunesmith Kevin Dutcher -- Minnesota Twins' music director Kevin Dutcher can't wait to crank up the volume at Target Field."**](https://www.startribune.com/work-twins-tunesmith-kevin-dutcher/89449282/)
     - by [Todd Nelson](../../../authors/todd-nelson/index.md)
@@ -163,7 +173,15 @@
 
 ----
 
-## July 2012 (5)
+ - [**"C.J.: NYT food writer was joking -- not inventing stereotypes -- New York Times food writer Julia Moskin sounded as if she was just a tad weary Friday over getting feedback from her Aug. 1 article about Bachelor Farmer."**](https://www.startribune.com/c-j-nyt-food-writer-was-joking-not-inventing-stereotypes/166057046/)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 13 August 2012
+    - about [Symbolina](../../../topics/symbolina/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/c-j-nyt-food-writer-was-joking-not-inventing-stereotypes/166057046/))
+
+----
+
+## July 2012 (6)
 
  - [**"Obituary: Bluesman Big Walter Smith was &#039;rock of a performer&#039; -- The bandleader for the Groove Merchants, 82, schooled hundreds of musicians and helped spark Duluth's Bayfront festival."**](https://www.startribune.com/obituary-bluesman-big-walter-smith-was-rock-of-a-performer/163625516/)
     - by [Chris Riemenschneider](../../../authors/chris-riemenschneider/index.md)
@@ -180,9 +198,18 @@
 
 ----
 
+ - [**"C.J.: TSA agent&#039;s comments stun former producer for Oprah -- In a nutshell, author Janet Lee found remarks last week by a Chicago-based TSA agent ethnically offensive."**](https://www.startribune.com/c-j-tsa-agent-s-comments-stun-former-producer-for-oprah/162962366/)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 18 July 2012
+    - about [Mall of America (place)](../../../topics/place/mall-of-america/index.md), [Oprah (TV show)](../../../topics/tv-show/oprah/index.md), [Symbolina](../../../topics/symbolina/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/c-j-tsa-agent-s-comments-stun-former-producer-for-oprah/162962366/))
+
+----
+
  - [**"Q&A with C.J.: Lee Hawkins, journalist and songwriter -- Wall Street Journal reporter and Minnesota native Lee Hawkins' "I Love You Woman" was Grand Prize winner in the R&B category of the 2011 John Lennon Songwriting Contest. Winning the contest "prompted me to release a few songs from my catalogue on iTunes under the title 'Midnight Conversations,'" he told me. Hawkins writes, sings and hosts "The Business of Celebrity with Lee Hawkins" on YouTube. It's the kind of smart family content that Magic Johnson mused about while being interviewed for the show -- programming that the NBA Hall of Famer and businessman would like to see on his new network, "Aspire." On rare occasions, Hawkins is able to integrate journalism and singing, as he did in an interview (startribune.com/a1511) with boxer Manny Pacquiao. "Reporters had been asking Manny to sing all day as part of his [Timothy] Bradley-Pacquiao fight, but I was the only reporter who was willing to sing with him. He kept telling everybody 'No' but when I started singing with him, the fun began." The results are charming, even though neither Pacquiao nor Hawkins can fully recall the lyrics to Lennon's "Imagine." Still, it's "one example of how being a musician helps me with my guests," said Hawkins. I conducted this Q&A with him via e-mail and was left with the impression he'd like to interview with Katie Couric."**](https://www.startribune.com/q-a-with-c-j-lee-hawkins-journalist-and-songwriter/162446386/)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 14 July 2012
+    - about [Oprah (TV show)](../../../topics/tv-show/oprah/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/q-a-with-c-j-lee-hawkins-journalist-and-songwriter/162446386/))
 
 ----
@@ -231,7 +258,15 @@
 
 ----
 
-## March 2012 (1)
+## March 2012 (3)
+
+ - [**"C.J.: Piece of purple past posted at a princely price -- Do you desperately need to own a teeny-tiny piece of Prince's Purple House?"**](https://www.startribune.com/c-j-piece-of-purple-past-posted-at-a-princely-price/142711965/)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 14 March 2012
+    - about [Symbolina](../../../topics/symbolina/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/c-j-piece-of-purple-past-posted-at-a-princely-price/142711965/))
+
+----
 
  - [**"Twin Cities recording engineer/producer/teacher Tom Tucker dies"**](https://www.startribune.com/twin-cities-recording-engineer-producer-teacher-tom-tucker-dies/141392973/)
     - by 
@@ -242,7 +277,23 @@
 
 ----
 
-## February 2012 (8)
+ - [**"C.J.: Remembering Davy Jones: &#039;He was just fun&#039; -- Davy Jones was easily Twin Cities PR woman Mary Haugen's favorite Monkee."**](https://www.startribune.com/c-j-remembering-davy-jones-he-was-just-fun/140970983/)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 1 March 2012
+    - about [Symbolina](../../../topics/symbolina/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/c-j-remembering-davy-jones-he-was-just-fun/140970983/))
+
+----
+
+## February 2012 (9)
+
+ - [**"C.J.: Madson gets ready to strut his stuff in charity dance-off -- Brad Madson's hips don't lie -- or apparently move that much at all."**](https://www.startribune.com/c-j-madson-gets-ready-to-strut-his-stuff-in-charity-dance-off/140075173/)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 23 February 2012
+    - about [Symbolina](../../../topics/symbolina/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/c-j-madson-gets-ready-to-strut-his-stuff-in-charity-dance-off/140075173/))
+
+----
 
  - [**"It was evening of Purple pride with Revolution & Questlove @ First Ave"**](https://www.startribune.com/purple-pride-with-revolution-questlove-first-ave/139678873/)
     - by [Jon Bream](../../../authors/jon-bream/index.md)

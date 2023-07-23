@@ -6,7 +6,7 @@
     - by [Chris Riemenschneider](../../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 30 December 2016
-    - about [Morris Day](../../../topics/morris-day/index.md), [Morris Day & The Time](../../../topics/morris-day-the-time/index.md)
+    - about [Morris Day](../../../topics/morris-day/index.md), [Morris Day & The Time](../../../topics/morris-day-the-time/index.md), [Tommy Barbarella](../../../topics/tommy-barbarella/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/artist-of-the-year-2016-prince-s-memorials-were-the-year-s-rock-stars/408655055/))
 
 ----
@@ -73,7 +73,15 @@
 
 ----
 
-## October 2016 (12)
+## October 2016 (13)
+
+ - [**"Prince&#039;s &#039;wall of security&#039; didn&#039;t keep Tommy Smith from getting great photos"**](https://www.startribune.com/c-j-prince-s-wall-of-security-didn-t-keep-tommy-smith-from-getting-great-photos/398541311/)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 26 October 2016
+    - about [Symbolina](../../../topics/symbolina/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/c-j-prince-s-wall-of-security-didn-t-keep-tommy-smith-from-getting-great-photos/398541311/))
+
+----
 
  - [**"Paisley Park museum finally gets go-ahead from Chanhassen -- After weeks of hesitation, Chanhassen signs off on zoning permits."**](https://www.startribune.com/paisley-park-museum-finally-gets-go-ahead-from-chanhassen/398282691/)
     - by [Erin Adler](../../../authors/erin-adler/index.md)
@@ -495,7 +503,7 @@
     - by [Mesfin Fekadu (Associated Press)](../../../authors/associated-press/mesfin-fekadu/index.md)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 28 July 2016
-    - about [3rdEyeGirl](../../../topics/3rdeyegirl/index.md), [BET Awards](../../../topics/bet-awards/index.md), [Beyoncé](../../../topics/beyonc/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Janelle Monae](../../../topics/janelle-monae/index.md), [Judith Hill](../../../topics/judith-hill/index.md), [Mayte](../../../topics/mayte/index.md), [Mayte Garcia](../../../topics/mayte-garcia/index.md), [Morris Day](../../../topics/morris-day/index.md), [Morris Day and The Time](../../../topics/morris-day-and-the-time/index.md), [New Power Generation](../../../topics/new-power-generation/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [Stevie Wonder](../../../topics/stevie-wonder/index.md), [The Revolution](../../../topics/the-revolution/index.md), [The Roots](../../../topics/the-roots/index.md), [The Time](../../../topics/the-time/index.md), [Tori Kelly](../../../topics/tori-kelly/index.md), [Tyka Nelson](../../../topics/tyka-nelson/index.md)
+    - about [3rdEyeGirl](../../../topics/3rdeyegirl/index.md), [BET Awards](../../../topics/bet-awards/index.md), [Beyoncé](../../../topics/beyonc/index.md), [Erykah Badu](../../../topics/erykah-badu/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Janelle Monae](../../../topics/janelle-monae/index.md), [Judith Hill](../../../topics/judith-hill/index.md), [Mayte](../../../topics/mayte/index.md), [Mayte Garcia](../../../topics/mayte-garcia/index.md), [Morris Day](../../../topics/morris-day/index.md), [Morris Day and The Time](../../../topics/morris-day-and-the-time/index.md), [New Power Generation](../../../topics/new-power-generation/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [Stevie Wonder](../../../topics/stevie-wonder/index.md), [The Revolution](../../../topics/the-revolution/index.md), [The Roots](../../../topics/the-roots/index.md), [The Time](../../../topics/the-time/index.md), [Tori Kelly](../../../topics/tori-kelly/index.md), [Tyka Nelson](../../../topics/tyka-nelson/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/apnewsbreak-official-prince-tribute-concert-set-for-october/388585801/))
 
 ----
@@ -1832,7 +1840,7 @@
     - by [Star Tribune staff](../../../authors/star-tribune-staff/index.md)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 21 April 2016
-    - about [Jellybean Johnson](../../../topics/jellybean-johnson/index.md), [Jimmy Jam](../../../topics/jimmy-jam/index.md), [Morris Day](../../../topics/morris-day/index.md), [Terry Lewis](../../../topics/terry-lewis/index.md)
+    - about [Jellybean Johnson](../../../topics/jellybean-johnson/index.md), [Jimmy Jam](../../../topics/jimmy-jam/index.md), [Morris Day](../../../topics/morris-day/index.md), [Terry Lewis](../../../topics/terry-lewis/index.md), [Tommy Barbarella](../../../topics/tommy-barbarella/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-an-oral-history-in-the-beginning/51508747/))
 
 ----
@@ -1880,7 +1888,7 @@
     - by [C.J. (Cheryl Johnson)](../../../authors/c-j-cheryl-johnson/index.md)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 15 April 2016
-    - about [airport](../../../topics/airport/index.md), [C.J.](../../../topics/c-j/index.md), [memoir](../../../topics/memoir/index.md), [Neal Karlen](../../../topics/neal-karlen/index.md)
+    - about [airport](../../../topics/airport/index.md), [C.J.](../../../topics/c-j/index.md), [memoir](../../../topics/memoir/index.md), [Neal Karlen](../../../topics/neal-karlen/index.md), [Symbolina](../../../topics/symbolina/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/c-j-writing-a-book-with-prince-would-be-a-nightmare-job-says-neal-karlen-who-loves-the-purple-guy/375907901/))
 
 ----
@@ -1901,7 +1909,7 @@
 
 ----
 
-## March 2016 (9)
+## March 2016 (10)
 
  - [**"C.J.: Prince's memoir will be a beauty if he gives his take on my questions"**](https://www.startribune.com/c-j-prince-s-memoir-will-be-a-beauty-if-he-gives-his-take-on-my-questions/373295271/)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
@@ -1947,6 +1955,14 @@
 
 ----
 
+ - [**"C.J.: Cuteness alert: KARE 11 anchors Williams and Hepola expecting twins"**](https://www.startribune.com/c-j-cuteness-alert-kare-11-anchors-williams-and-hepola-expecting-twins/372039801/)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 14 March 2016
+    - about [Symbolina](../../../topics/symbolina/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/c-j-cuteness-alert-kare-11-anchors-williams-and-hepola-expecting-twins/372039801/))
+
+----
+
  - [**"Prince gives surprise (brief) performance at Chanhassen Dinner Theatres"**](https://www.startribune.com/prince-gives-surprise-brief-performance-at-chanhassen-dinner-theatres/371944961/)
     - by [Jon Bream](../../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
@@ -1988,7 +2004,7 @@
  - [**"C.J.: James Corden is not vague about examining Prince's facial hair"**](https://www.startribune.com/c-j-james-corden-is-not-vague-about-examining-prince-s-facial-hair/370042781/)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 25 February 2016
-    - about [C.J.](../../../topics/c-j/index.md), [Donald Trump](../../../topics/donald-trump/index.md), [Trump](../../../topics/trump/index.md)
+    - about [C.J.](../../../topics/c-j/index.md), [Donald Trump](../../../topics/donald-trump/index.md), [Symbolina](../../../topics/symbolina/index.md), [Trump](../../../topics/trump/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/c-j-james-corden-is-not-vague-about-examining-prince-s-facial-hair/370042781/))
 
 ----
@@ -2024,6 +2040,7 @@
     - by [Chris Riemenschneider](../../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 11 February 2016
+    - about [Erykah Badu](../../../topics/erykah-badu/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/a-royal-homecoming-for-king-buzzing-r-b-trio-with-minneapolis-roots/368488381/))
 
 ----
@@ -2066,7 +2083,7 @@
     - by [Chris Riemenschneider](../../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 26 January 2016
-    - about [Jellybean Johnson](../../../topics/jellybean-johnson/index.md), [Monte Moir](../../../topics/monte-moir/index.md), [Morris Day](../../../topics/morris-day/index.md)
+    - about [Jellybean Johnson](../../../topics/jellybean-johnson/index.md), [Mall of America (place)](../../../topics/place/mall-of-america/index.md), [Monte Moir](../../../topics/monte-moir/index.md), [Morris Day](../../../topics/morris-day/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/it-s-party-time-at-paisley-morris-day-to-play-prince-s-place-friday/366612721/))
 
 ----

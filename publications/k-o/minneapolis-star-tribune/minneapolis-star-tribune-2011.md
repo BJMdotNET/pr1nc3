@@ -1,6 +1,22 @@
 # Minneapolis Star Tribune: 2011
 
-## November 2011 (1)
+## November 2011 (3)
+
+ - [**"C.J.: Tardy Bieber didn&#039;t make photo cut; too bad for him -- Justin Bieber was reportedly late, extremely tardy, which is not exactly an innovation in the annals of rudeness."**](https://www.startribune.com/c-j-tardy-bieber-didn-t-make-photo-cut-too-bad-for-him/134291883/)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 22 November 2011
+    - about [Symbolina](../../../topics/symbolina/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/c-j-tardy-bieber-didn-t-make-photo-cut-too-bad-for-him/134291883/))
+
+----
+
+ - [**"Jimmy Jam: He loves California, misses &#039;Nice&#039; -- Music producer and performer Jimmy Jam returned to his hometown to perform with the Original 7ven at the State Theatre. These are the original members of the Time, the band Prince put together in 1981 but won't give permission to use the name by which they are best known because Symbolina owns the rights to it. After the group autographed copies of their new CD "Condensate" at the Mall of America for some of their most longtime, devoted fans, Jimmy Jam talked with me about more pleasant matters. A sports fan and former Wolves courtside season ticket holder, he says something that may have jittery Vikings fans praying from "Jimmy's lips to Zygi's ears.""**](https://www.startribune.com/jimmy-jam-he-loves-california-misses-nice/133747358/)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 14 November 2011
+    - about [Mall of America (place)](../../../topics/place/mall-of-america/index.md), [Symbolina](../../../topics/symbolina/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/jimmy-jam-he-loves-california-misses-nice/133747358/))
+
+----
 
  - [**"Original 7ven was a nostalgic good Time in homecoming concert"**](https://www.startribune.com/original-7ven-was-a-nostalgic-good-time-in-homecoming-concert/133316393/)
     - by [Jon Bream](../../../authors/jon-bream/index.md)
@@ -71,7 +87,7 @@ Friends, colleagues and political heavyweights packed Wednesday's service for th
  - [**"C.J.: Bobby Z making great strides, wife says -- Beating drums has ceased to be Bobby Z's only form of exercise, since his heart attack scare earlier this year."**](https://www.startribune.com/c-j-bobby-z-making-great-strides-wife-says/130165398/)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 26 September 2011
-    - about [Jellybean Johnson](../../../topics/jellybean-johnson/index.md)
+    - about [Jellybean Johnson](../../../topics/jellybean-johnson/index.md), [Symbolina](../../../topics/symbolina/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/c-j-bobby-z-making-great-strides-wife-says/130165398/))
 
 ----
@@ -122,11 +138,30 @@ Friends, colleagues and political heavyweights packed Wednesday's service for th
 
 ----
 
-## April 2011 (2)
+## May 2011 (2)
+
+ - [**"Prince gives Whitney Houston the hook -- A Prince concert at the Forum in Inglewood, Calif., is just one more place Whitney Houston shouldn't be seen while enjoying the outpatient part of rehab."**](https://www.startribune.com/prince-gives-whitney-houston-the-hook/121677754/)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 13 May 2011
+    - about [Symbolina](../../../topics/symbolina/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-gives-whitney-houston-the-hook/121677754/))
+
+----
+
+ - [**"C.J.: Prince gives Whitney Houston heave-ho from stage -- Troubled Whitney Houston was gently escorted off stage and reportedly added to the "banned" list by Prince and/or his people after her antics at the Forum."**](https://www.startribune.com/c-j-prince-gives-whitney-houston-heave-ho-from-stage/121656454/)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 11 May 2011
+    - about [Symbolina](../../../topics/symbolina/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/c-j-prince-gives-whitney-houston-heave-ho-from-stage/121656454/))
+
+----
+
+## April 2011 (4)
 
  - [**"C.J.: Coolio was just asking for it at the Lounge -- Word is that Coolio showed patrons at the Lounge nightclub Thursday what a disgusting foolio he's capable of being on stage."**](https://www.startribune.com/c-j-coolio-was-just-asking-for-it-at-the-lounge/119981344/)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 17 April 2011
+    - about [Symbolina](../../../topics/symbolina/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/c-j-coolio-was-just-asking-for-it-at-the-lounge/119981344/))
 
 ----
@@ -135,11 +170,28 @@ Friends, colleagues and political heavyweights packed Wednesday's service for th
     - by [Jon Bream](../../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 14 April 2011
+    - about [Oprah (TV show)](../../../topics/tv-show/oprah/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/diddy-gives-club-dirty-money-s-worth/119848329/))
 
 ----
 
-## March 2011 (2)
+ - [**"Ask twice for the skinny on Erica Kane -- Susan Lucci is apparently no Erica Kane."**](https://www.startribune.com/ask-twice-for-the-skinny-on-erica-kane/119223954/)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 6 April 2011
+    - about [Mall of America (place)](../../../topics/place/mall-of-america/index.md), [Symbolina](../../../topics/symbolina/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/ask-twice-for-the-skinny-on-erica-kane/119223954/))
+
+----
+
+ - [**"&#039;Snow-bate&#039; lands new film &#039;Lumpy&#039; in Minnesota -- A tipster overheard actors Justin Long and Jessica Weixler being told to check out St. Paul's Little Szechuan when the stars of "Lumpy" asked where they could get good Chinese food."**](https://www.startribune.com/snow-bate-lands-new-film-lumpy-in-minnesota/119120489/)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 5 April 2011
+    - about [Mall of America (place)](../../../topics/place/mall-of-america/index.md), [Symbolina](../../../topics/symbolina/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/snow-bate-lands-new-film-lumpy-in-minnesota/119120489/))
+
+----
+
+## March 2011 (3)
 
  - [**"Sue Ann Carwell's homecoming as blues mama packs Dakota"**](https://www.startribune.com/sue-ann-carwell-s-homecoming-as-blues-mama-packs-dakota/118759199/)
     - by 
@@ -152,7 +204,44 @@ Friends, colleagues and political heavyweights packed Wednesday's service for th
  - [**"Tony Little&#039;s current wife&#039;s ex-husband speaks -- Florida-based fitness guru Tony Little's ambitious Minnesota-born fitness model wife, Melissa Hall, sure has been mum about their marriage."**](https://www.startribune.com/tony-little-s-current-wife-s-ex-husband-speaks/117979064/)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 15 March 2011
+    - about [Today Show (TV show)](../../../topics/tv-show/today-show/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/tony-little-s-current-wife-s-ex-husband-speaks/117979064/))
+
+----
+
+ - [**"For Prince, a slightly manlier mane -- Is a ballet dancer bringing out the boy in Prince?"**](https://www.startribune.com/for-prince-a-slightly-manlier-mane/117289953/)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 2 March 2011
+    - about [Oprah (TV show)](../../../topics/tv-show/oprah/index.md), [Symbolina](../../../topics/symbolina/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/for-prince-a-slightly-manlier-mane/117289953/))
+
+----
+
+## February 2011 (2)
+
+ - [**"Will Prince and ballerina live happily ever after? -- Prince has a new love interest, a ballerina, who is being described as "his first sister since Sheila E" by Mediatakeout.com"**](https://www.startribune.com/will-prince-and-ballerina-live-happily-ever-after/116538748/)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 19 February 2011
+    - about [Symbolina](../../../topics/symbolina/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/will-prince-and-ballerina-live-happily-ever-after/116538748/))
+
+----
+
+ - [**"Divas&#039; do&#039;s, and the guy who does &#039;em -- Who's a bigger diva, Diana Ross or Naomi Campbell? I asked a hairstyling icon who'd know the answer on Monday at the Wayzata location of Jon Charles Salon."**](https://www.startribune.com/miss-ross-or-naomi-their-stylist-knows-who-s-the-bigger-diva/115685054/)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 10 February 2011
+    - about [Symbolina](../../../topics/symbolina/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/miss-ross-or-naomi-their-stylist-knows-who-s-the-bigger-diva/115685054/))
+
+----
+
+## January 2011 (1)
+
+ - [**"Safe Bette: The cold was too much for Midler -- Next time Bette Midler gets a wintertime job opportunity in Minnesota, maybe she should decline."**](https://www.startribune.com/safe-bette-the-cold-was-too-much-for-midler/114517584/)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 24 January 2011
+    - about [Oprah (TV show)](../../../topics/tv-show/oprah/index.md), [Symbolina](../../../topics/symbolina/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/safe-bette-the-cold-was-too-much-for-midler/114517584/))
 
 ----
 

@@ -1,6 +1,14 @@
 # Minneapolis Star Tribune: 2010
 
-## December 2010 (1)
+## December 2010 (2)
+
+ - [**"Red tulips win her heart -- It started with red tulips and purple irises delivered to VIP Hair & Nails Salon owner Tiffany Wilson around Valentine's Day, along with a mysterious anonymous note about how they might meet in the future. "Regards," the note ended, formally."**](https://www.startribune.com/red-tulips-win-her-heart/112455294/)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 25 December 2010
+    - about [Symbolina](../../../topics/symbolina/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/red-tulips-win-her-heart/112455294/))
+
+----
 
  - [**"Taking tiki to the riverfront -- If the old Psycho Suzi's was an indie hit, the new version is a blockbuster. So big, so epic, would you believe it even has a gift shop?"**](https://www.startribune.com/taking-tiki-to-the-riverfront/111615064/)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
@@ -19,13 +27,21 @@
 
 ----
 
-## September 2010 (1)
+## September 2010 (2)
 
  - [**"Item World: Local news and views -- Dust Bunnies' guest star; Toby Keith in a Twins jersey?"**](https://www.startribune.com/item-world-local-news-and-views/103639909/)
     - by [Star Tribune staff](../../../authors/star-tribune-staff/index.md)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 23 September 2010
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/item-world-local-news-and-views/103639909/))
+
+----
+
+ - [**"Kelly Carlson nips Stamos rumor in the bud -- "Nip/Tuck" star Kelly Carlson tells me there's a huge problem with Globe magazine's account of a romantic dinner she supposedly shared in L.A. with John Stamos: "Completely fabricated, 100 percent.""**](https://www.startribune.com/kelly-carlson-nips-stamos-rumor-in-the-bud/102823039/)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 13 September 2010
+    - about [Symbolina](../../../topics/symbolina/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/kelly-carlson-nips-stamos-rumor-in-the-bud/102823039/))
 
 ----
 
@@ -53,6 +69,7 @@
     - by 
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 17 July 2010
+    - about [Nordstrom (place)](../../../topics/place/nordstrom/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/courtney-love-at-first-ave-treat-not-trainwreck/98659494/))
 
 ----
@@ -65,7 +82,7 @@
 
 ----
 
-## June 2010 (3)
+## June 2010 (4)
 
  - [**"Larry Graham: Hot fun in the summertime -- Hall of Fame bass giant will headline his first Twin Cities gig since moving here."**](https://www.startribune.com/larry-graham-hot-fun-in-the-summertime/96575399/)
     - by [Jon Bream](../../../authors/jon-bream/index.md)
@@ -78,8 +95,16 @@
  - [**"Jimmy Jam enjoys some home cooking at Rudolph&#039;s -- Rudolph's Bar-B-Que was calling, and Jimmy Jam was answering."**](https://www.startribune.com/jimmy-jam-enjoys-some-home-cooking-at-rudolph-s/96342699/)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 14 June 2010
-    - about [Jerome Benton](../../../topics/jerome-benton/index.md), [Jimmy Jam](../../../topics/jimmy-jam/index.md), [Morris Day](../../../topics/morris-day/index.md), [Terry Lewis](../../../topics/terry-lewis/index.md)
+    - about [Jerome Benton](../../../topics/jerome-benton/index.md), [Jimmy Jam](../../../topics/jimmy-jam/index.md), [Morris Day](../../../topics/morris-day/index.md), [Oprah (TV show)](../../../topics/tv-show/oprah/index.md), [Symbolina](../../../topics/symbolina/index.md), [Terry Lewis](../../../topics/terry-lewis/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/jimmy-jam-enjoys-some-home-cooking-at-rudolph-s/96342699/))
+
+----
+
+ - [**"Cheryl Tiegs: There&#039;s no &#039;Love Story&#039; with Ryan O&#039;Neal -- Cheryl Tiegs is NOT dating Ryan O'Neal, even though the alleged romance is all over the Web."**](https://www.startribune.com/cheryl-tiegs-there-s-no-love-story-with-ryan-o-neal/95694644/)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 6 June 2010
+    - about [Oprah (TV show)](../../../topics/tv-show/oprah/index.md), [Symbolina](../../../topics/symbolina/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/cheryl-tiegs-there-s-no-love-story-with-ryan-o-neal/95694644/))
 
 ----
 
@@ -92,7 +117,15 @@
 
 ----
 
-## May 2010 (1)
+## May 2010 (2)
+
+ - [**"Wolfgang Puck eats up fashion talk -- First Lady fashion, a delightful unexpected dish, was on the menu Friday when Wolfgang Puck was at his 20.21 restaurant at the Walker Art Center."**](https://www.startribune.com/wolfgang-puck-eats-up-fashion-talk/94787639/)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 24 May 2010
+    - about [Symbolina](../../../topics/symbolina/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/wolfgang-puck-eats-up-fashion-talk/94787639/))
+
+----
 
  - [**"Ke$ha: &#039;I&#039;m not crazy. Just ambitious&#039; -- She and Debby Boone have one thing in common, and it's not Jack Daniels."**](https://www.startribune.com/ke-ha-i-m-not-crazy-just-ambitious/93734139/)
     - by [Jon Bream](../../../authors/jon-bream/index.md)
@@ -102,7 +135,7 @@
 
 ----
 
-## April 2010 (3)
+## April 2010 (4)
 
  - [**"Spoon-ful of love for First Ave 40th -- Still growing in size and popularity, Texas' little band that could had the honor of marking the club's birthday."**](https://www.startribune.com/spoon-ful-of-love-for-first-ave-40th/89867622/)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
@@ -120,6 +153,14 @@
 
 ----
 
+ - [**"Princely visions at Cub -- Prince really must consider more sensible footwear for traipsing around the Twin Cities. Shouldn't aging hips, punished by years of high-heel dancing, require it?"**](https://www.startribune.com/princely-visions-at-cub/89841312/)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 3 April 2010
+    - about [Symbolina](../../../topics/symbolina/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/princely-visions-at-cub/89841312/))
+
+----
+
  - [**"Target Field from the cheap seats"**](https://www.startribune.com/target-field-from-the-cheap-seats/89831482/)
     - by [Howard Sinker](../../../authors/howard-sinker/index.md)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
@@ -129,7 +170,15 @@
 
 ----
 
-## March 2010 (2)
+## March 2010 (3)
+
+ - [**"Hey, Mister Hill, can you sign this? -- Grant Hill is -- as talk show host Wendy Williams would say -- all kinds of sexy. How you doin'?"**](https://www.startribune.com/hey-mister-hill-can-you-sign-this/89474742/)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 29 March 2010
+    - about [Symbolina](../../../topics/symbolina/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/hey-mister-hill-can-you-sign-this/89474742/))
+
+----
 
  - [**"Bill Wanner: Passionate about music, musicians -- He showcased an eclectic mix of local acts at William's Pub, Artists' Quarter and the former Rossi's Steakhouse."**](https://www.startribune.com/bill-wanner-passionate-about-music-musicians/87024002/)
     - by [Tim Harlow](../../../authors/tim-harlow/index.md)
@@ -147,7 +196,25 @@
 
 ----
 
-## January 2010 (2)
+## February 2010 (2)
+
+ - [**"Vonn&#039;s SI bikini has Minnesota ties -- One of the bikinis Minnesota's skiing Olympian Lindsey Vonn wore for SI is creating a sensation around the LA offices of swimsuit designer Kerry Cushman, a native of Cambridge."**](https://www.startribune.com/vonn-s-si-bikini-has-minnesota-ties/84068112/)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 10 February 2010
+    - about [Symbolina](../../../topics/symbolina/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/vonn-s-si-bikini-has-minnesota-ties/84068112/))
+
+----
+
+ - [**"Down, but maybe not out -- "It's all about ratings. It's not about finding a date or anything like that," Shauna Raisch said, explaining her unforgettable TV energy with Bravo's repugnant "Millionaire Matchmaker.""**](https://www.startribune.com/down-but-maybe-not-out/83722177/)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 6 February 2010
+    - about [Symbolina](../../../topics/symbolina/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/down-but-maybe-not-out/83722177/))
+
+----
+
+## January 2010 (5)
 
  - [**"Favre is no pantywaist -- "It is horrible," said Tom Zenner of Brett Favre's "Pants on the Ground" performance, which has become a Youtube.com sensation."**](https://www.startribune.com/favre-is-no-pantywaist/82517362/)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
@@ -157,11 +224,35 @@
 
 ----
 
+ - [**"Prince&#039;s &#039;fight&#039; song sounded familiar - and led to a familiar result -- Thanks a lot for the rousing "Vikings fight song," Prince."**](https://www.startribune.com/prince-s-fight-song-sounded-familiar-and-led-to-a-familiar-result/82649917/)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 25 January 2010
+    - about [Symbolina](../../../topics/symbolina/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-s-fight-song-sounded-familiar-and-led-to-a-familiar-result/82649917/))
+
+----
+
+ - [**"Prince&#039;s Vikings song savaged -- Prince may feel a tad blue after Friday's installment of ESPN's "Pardon the Interruption," where the song he wrote for the Vikings, "Purple and Gold," got savaged."**](https://www.startribune.com/prince-s-vikings-song-savaged/82441537/)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 22 January 2010
+    - about [Symbolina](../../../topics/symbolina/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-s-vikings-song-savaged/82441537/))
+
+----
+
  - [**"Pick Six: A half-dozen cool things in music"**](https://www.startribune.com/pick-six-a-half-dozen-cool-things-in-music/81585077/)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 16 January 2010
     - about [Morris Day](../../../topics/morris-day/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/pick-six-a-half-dozen-cool-things-in-music/81585077/))
+
+----
+
+ - [**"Dishin&#039; -- The buzz in the music world is that Prince may be seen more around his hometown. I'm told that Symbolina is moving back, but since I never thought he totally moved away ..."**](https://www.startribune.com/dishin/81050127/)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 10 January 2010
+    - about [Symbolina](../../../topics/symbolina/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/dishin/81050127/))
 
 ----
 

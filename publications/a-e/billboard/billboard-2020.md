@@ -81,7 +81,7 @@
  - [**"Lizzo, Charli XCX, Billie Eilish and Lana Del Rey Among 2020 NME Awards Nominees -- Stormzy, The 1975, Yungblud, Foals and Stormzy are also nominated."**](https://www.billboard.com/articles/news/awards/8548499/2020-nme-awards-nominees-list)
     - in [Billboard](../../../publications/a-e/billboard/index.md)
     - on 21 January 2020
-    - about [Amazing Grace (movie)](../../../topics/movie/amazing-grace/index.md), [Aretha Franklin](../../../topics/aretha-franklin/index.md), [Beck](../../../topics/beck/index.md), [FKA twigs](../../../topics/fka-twigs/index.md), [Lizzo](../../../topics/lizzo/index.md), [memoir](../../../topics/memoir/index.md), [The Beautiful Ones (book)](../../../topics/book/the-beautiful-ones/index.md)
+    - about [Amazing Grace (movie)](../../../topics/movie/amazing-grace/index.md), [Aretha Franklin](../../../topics/aretha-franklin/index.md), [Beck](../../../topics/beck/index.md), [Coachella (event)](../../../topics/event/coachella/index.md), [FKA twigs](../../../topics/fka-twigs/index.md), [Lizzo](../../../topics/lizzo/index.md), [memoir](../../../topics/memoir/index.md), [The Beautiful Ones (book)](../../../topics/book/the-beautiful-ones/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/awards/8548499/2020-nme-awards-nominees-list))
 
 ----

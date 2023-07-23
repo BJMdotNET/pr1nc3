@@ -6,7 +6,7 @@
     - by [Chris Riemenschneider](../../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 1 December 2017
-    - about [Jimmy “Jam” Harris](../../../topics/jimmy-jam-harris/index.md), [Morris Day](../../../topics/morris-day/index.md), [Morris Day & The Time](../../../topics/morris-day-the-time/index.md), [Super Bowl](../../../topics/super-bowl/index.md), [Terry Lewis](../../../topics/terry-lewis/index.md)
+    - about [Coachella (event)](../../../topics/event/coachella/index.md), [Jimmy “Jam” Harris](../../../topics/jimmy-jam-harris/index.md), [Morris Day](../../../topics/morris-day/index.md), [Morris Day & The Time](../../../topics/morris-day-the-time/index.md), [Super Bowl](../../../topics/super-bowl/index.md), [Terry Lewis](../../../topics/terry-lewis/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/jimmy-jam-terry-lewis-announce-super-bowl-live-lineup-idina-menzel-sheila-e-morris-day-soul-asylum/461298463/))
 
 ----
@@ -420,7 +420,7 @@
 
 ----
 
-## May 2017 (5)
+## May 2017 (6)
 
  - [**"Judge: Sound engineer can't publish unreleased Prince tracks"**](https://www.startribune.com/judge-sound-engineer-can-t-publish-unreleased-prince-tracks/423717653/)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
@@ -463,6 +463,15 @@
 
 ----
 
+ - [**"Prince&#039;s first ex-wife on her new memoir: &#039;A lot of trauma I made myself forget&#039; -- Mayte Garcia is returning to the Twin Cities this week to promote her new book, "The Most Beautiful.""**](https://www.startribune.com/prince-s-first-ex-wife-on-her-new-memoir-a-lot-of-trauma-i-made-myself-forget/421629693/)
+    - by [Jon Bream](../../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 8 May 2017
+    - about [Abbott Northwestern Hospital (place)](../../../topics/place/abbott-northwestern-hospital/index.md), [Amiir](../../../topics/amiir/index.md), [Boy Gregory](../../../topics/boy-gregory/index.md), [Joni Rodgers](../../../topics/joni-rodgers/index.md), [Mall of America (place)](../../../topics/place/mall-of-america/index.md), [Mia Gregory](../../../topics/mia-gregory/index.md), [Nordstrom (place)](../../../topics/place/nordstrom/index.md), [Oprah (TV show)](../../../topics/tv-show/oprah/index.md), [Today Show (TV show)](../../../topics/tv-show/today-show/index.md), [Tommy Lee](../../../topics/tommy-lee/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-s-first-ex-wife-on-her-new-memoir-a-lot-of-trauma-i-made-myself-forget/421629693/))
+
+----
+
 ## April 2017 (20)
 
  - [**"Details of Prince's expanded 'Purple Rain' reissue revealed, coming June 23"**](https://www.startribune.com/details-of-prince-s-expanded-purple-rain-reissue-revealed-coming-june-23/420722973/)
@@ -478,7 +487,7 @@
     - by [Chris Riemenschneider](../../../authors/chris-riemenschneider/index.md), [Jon Bream](../../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 24 April 2017
-    - about [Morris Day](../../../topics/morris-day/index.md), [Morris Day & The Time](../../../topics/morris-day-the-time/index.md), [Super Bowl](../../../topics/super-bowl/index.md)
+    - about [Mall of America (place)](../../../topics/place/mall-of-america/index.md), [Morris Day](../../../topics/morris-day/index.md), [Morris Day & The Time](../../../topics/morris-day-the-time/index.md), [Super Bowl](../../../topics/super-bowl/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/highlights-from-prince-memorial-weekend-and-advice-for-future-years/420198123/))
 
 ----

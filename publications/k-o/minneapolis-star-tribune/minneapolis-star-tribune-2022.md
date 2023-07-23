@@ -6,7 +6,7 @@
     - by [Jon Bream](../../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 29 December 2022
-    - about [Morris Day](../../../topics/morris-day/index.md), [Morris Day & The Time](../../../topics/morris-day-the-time/index.md)
+    - about [Kevin Smith](../../../topics/kevin-smith/index.md), [Morris Day](../../../topics/morris-day/index.md), [Morris Day & The Time](../../../topics/morris-day-the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/morris-day-knows-what-time-it-is-last-call-for-his-recording-career-prince-the-time-zz-top-snoop/600239310/))
 
 ----
@@ -15,7 +15,7 @@
     - by [Star Tribune staff](../../../authors/star-tribune-staff/index.md)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 26 December 2022
-    - about [Morris Day](../../../topics/morris-day/index.md)
+    - about [Mall of America (place)](../../../topics/place/mall-of-america/index.md), [Morris Day](../../../topics/morris-day/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/how-to-celebrate-nye-in-brate/600238731/))
 
 ----
@@ -109,7 +109,7 @@
     - by [Jon Bream](../../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 5 June 2022
-    - about [3rdEyeGirl](../../../topics/3rdeyegirl/index.md), [Alicia Keys](../../../topics/alicia-keys/index.md), [BrownMark](../../../topics/brownmark/index.md), [Celebration (event)](../../../topics/event/celebration/index.md), [Celebration 2017 (event)](../../../topics/event/celebration-2017/index.md), [Celebration 2019 (event)](../../../topics/event/celebration-2019/index.md), [Celebration 2022 (event)](../../../topics/event/celebration-2022/index.md), [Chanhassen Dinner Theatres](../../../topics/chanhassen-dinner-theatres/index.md), [De Angela Duff](../../../topics/de-angela-duff/index.md), [Donna Grantis](../../../topics/donna-grantis/index.md), [Elliott Powell](../../../topics/elliott-powell/index.md), [Graceland Holdings](../../../topics/graceland-holdings/index.md), [Hannah Welton](../../../topics/hannah-welton/index.md), [Ida Nielsen](../../../topics/ida-nielsen/index.md), [Janelle Monae](../../../topics/janelle-monae/index.md), [Jill Jones](../../../topics/jill-jones/index.md), [Joshua Welton](../../../topics/joshua-welton/index.md), [Kirk Johnson](../../../topics/kirk-johnson/index.md), [Lenny Kravitz](../../../topics/lenny-kravitz/index.md), [Levi Seacer](../../../topics/levi-seacer/index.md), [Levi Seacer, Jr.](../../../topics/levi-seacer-jr/index.md), [Mavis Staples](../../../topics/mavis-staples/index.md), [Mayte](../../../topics/mayte/index.md), [Mayte Garcia](../../../topics/mayte-garcia/index.md), [Mazarati](../../../topics/mazarati/index.md), [Nichole Nordeman](../../../topics/nichole-nordeman/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Prince and The Revolution](../../../topics/prince-and-the-revolution/index.md), [Questlove](../../../topics/questlove/index.md), [Randee St. Nicholas](../../../topics/randee-st-nicholas/index.md), [Sounds of Blackness](../../../topics/sounds-of-blackness/index.md), [Stokley](../../../topics/stokley/index.md), [Target Center (place)](../../../topics/place/target-center/index.md), [Tommy Barbarella](../../../topics/tommy-barbarella/index.md), [Zaheer Ali](../../../topics/zaheer-ali/index.md)
+    - about [3rdEyeGirl](../../../topics/3rdeyegirl/index.md), [Alicia Keys](../../../topics/alicia-keys/index.md), [BrownMark](../../../topics/brownmark/index.md), [Celebration (event)](../../../topics/event/celebration/index.md), [Celebration 2017 (event)](../../../topics/event/celebration-2017/index.md), [Celebration 2019 (event)](../../../topics/event/celebration-2019/index.md), [Celebration 2022 (event)](../../../topics/event/celebration-2022/index.md), [Chanhassen Dinner Theatres](../../../topics/chanhassen-dinner-theatres/index.md), [De Angela Duff](../../../topics/de-angela-duff/index.md), [Donna Grantis](../../../topics/donna-grantis/index.md), [Elliott Powell](../../../topics/elliott-powell/index.md), [Erykah Badu](../../../topics/erykah-badu/index.md), [Graceland Holdings](../../../topics/graceland-holdings/index.md), [Hannah Welton](../../../topics/hannah-welton/index.md), [Ida Nielsen](../../../topics/ida-nielsen/index.md), [Janelle Monae](../../../topics/janelle-monae/index.md), [Jill Jones](../../../topics/jill-jones/index.md), [Joshua Welton](../../../topics/joshua-welton/index.md), [Kirk Johnson](../../../topics/kirk-johnson/index.md), [Lenny Kravitz](../../../topics/lenny-kravitz/index.md), [Levi Seacer](../../../topics/levi-seacer/index.md), [Levi Seacer, Jr.](../../../topics/levi-seacer-jr/index.md), [Mavis Staples](../../../topics/mavis-staples/index.md), [Mayte](../../../topics/mayte/index.md), [Mayte Garcia](../../../topics/mayte-garcia/index.md), [Mazarati](../../../topics/mazarati/index.md), [Nichole Nordeman](../../../topics/nichole-nordeman/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Prince and The Revolution](../../../topics/prince-and-the-revolution/index.md), [Questlove](../../../topics/questlove/index.md), [Randee St. Nicholas](../../../topics/randee-st-nicholas/index.md), [Sounds of Blackness](../../../topics/sounds-of-blackness/index.md), [Stokley](../../../topics/stokley/index.md), [Target Center (place)](../../../topics/place/target-center/index.md), [Tommy Barbarella](../../../topics/tommy-barbarella/index.md), [Zaheer Ali](../../../topics/zaheer-ali/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/highlights-from-two-long-exhilarating-days-at-prince-celebration-2022-at-paisley-park-mayte-garcia/600179523/))
 
 ----
@@ -148,7 +148,7 @@
     - by [Jon Bream](../../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 28 April 2022
-    - about [Jam and Lewis](../../../topics/jam-and-lewis/index.md), [Jimmy Jam](../../../topics/jimmy-jam/index.md), [Morris Day](../../../topics/morris-day/index.md), [Super Bowl](../../../topics/super-bowl/index.md), [Terry Lewis](../../../topics/terry-lewis/index.md)
+    - about [Jam and Lewis](../../../topics/jam-and-lewis/index.md), [Jimmy Jam](../../../topics/jimmy-jam/index.md), [Morris Day](../../../topics/morris-day/index.md), [Super Bowl](../../../topics/super-bowl/index.md), [Terry Lewis](../../../topics/terry-lewis/index.md), [Today Show (TV show)](../../../topics/tv-show/today-show/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/her-minneapolis-prince-jimmy-jam-lenny-kravitz-paisley-park-george-floyd-oscars-grammys-super-bowl/600168665/))
 
 ----
@@ -209,6 +209,7 @@
     - by [Rochelle Olson](../../../authors/rochelle-olson/index.md)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 31 March 2022
+    - about [Mall of America (place)](../../../topics/place/mall-of-america/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/womens-final-four-fans-arrive-in-minneapolis-ready-for-hoops-hype-and-fun/600161131/))
 
 ----
@@ -233,7 +234,7 @@
     - by [Jon Bream](../../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 21 March 2022
-    - about [Jimmy Jam](../../../topics/jimmy-jam/index.md), [Terry Lewis](../../../topics/terry-lewis/index.md)
+    - about [Erykah Badu](../../../topics/erykah-badu/index.md), [Jimmy Jam](../../../topics/jimmy-jam/index.md), [Terry Lewis](../../../topics/terry-lewis/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/meet-the-next-great-bluesman-christone-kingfish-ingram-prince-bb-king-charley-pride-jimmy-jam/600157947/))
 
 ----

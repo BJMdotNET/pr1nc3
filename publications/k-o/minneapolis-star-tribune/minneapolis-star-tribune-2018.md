@@ -29,7 +29,7 @@
     - by [Chris Riemenschneider](../../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 21 December 2018
-    - about [Morris Day](../../../topics/morris-day/index.md), [Morris Day & The Time](../../../topics/morris-day-the-time/index.md), [Super Bowl](../../../topics/super-bowl/index.md)
+    - about [Erykah Badu](../../../topics/erykah-badu/index.md), [Morris Day](../../../topics/morris-day/index.md), [Morris Day & The Time](../../../topics/morris-day-the-time/index.md), [Super Bowl](../../../topics/super-bowl/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/10-signs-the-minnesota-music-scene-was-alive-and-well-in-2018/503245841/))
 
 ----
@@ -778,7 +778,7 @@
     - by [Rochelle Olson](../../../authors/rochelle-olson/index.md)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 7 February 2018
-    - about [Super Bowl](../../../topics/super-bowl/index.md)
+    - about [Mall of America (place)](../../../topics/place/mall-of-america/index.md), [Super Bowl](../../../topics/super-bowl/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/52-pickup-a-look-at-the-super-bowl-numbers/473202563/))
 
 ----
@@ -787,7 +787,7 @@
     - by [Jon Bream](../../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 3 February 2018
-    - about [Super Bowl](../../../topics/super-bowl/index.md)
+    - about [Mall of America (place)](../../../topics/place/mall-of-america/index.md), [Super Bowl](../../../topics/super-bowl/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/dj-questlove-spins-prince-tunes-for-late-night-party-at-dakota-jazz-club/472482923/))
 
 ----
@@ -805,7 +805,7 @@
     - by [Jon Bream](../../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 2 February 2018
-    - about [Super Bowl](../../../topics/super-bowl/index.md)
+    - about [Mall of America (place)](../../../topics/place/mall-of-america/index.md), [Super Bowl](../../../topics/super-bowl/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/justin-timberlake-shows-off-new-album-dance-moves-at-prince-s-paisley-park/472223243/))
 
 ----

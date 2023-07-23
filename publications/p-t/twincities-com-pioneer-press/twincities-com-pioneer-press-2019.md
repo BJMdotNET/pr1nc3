@@ -15,7 +15,7 @@
  - [**"Coffee table books are great gifts — even if you don’t have a coffee table"**](https://www.twincities.com/2019/11/30/coffee-table-books-are-great-gifts-even-if-you-dont-have-a-coffee-table/)
     - in [TwinCities.com - Pioneer Press](../../../publications/p-t/twincities-com-pioneer-press/index.md)
     - on 30 November 2019
-    - about [Andy Warhol](../../../topics/andy-warhol/index.md), [exhibit](../../../topics/exhibit/index.md), [exhibition](../../../topics/exhibition/index.md), [Hachette Books](../../../topics/hachette-books/index.md), [museum](../../../topics/museum/index.md), [Penguin Random House](../../../topics/penguin-random-house/index.md), [Randee St. Nicholas](../../../topics/randee-st-nicholas/index.md), [trademark](../../../topics/trademark/index.md)
+    - about [Andy Warhol](../../../topics/andy-warhol/index.md), [exhibit](../../../topics/exhibit/index.md), [exhibition](../../../topics/exhibition/index.md), [Hachette Books](../../../topics/hachette-books/index.md), [museum](../../../topics/museum/index.md), [Oprah (TV show)](../../../topics/tv-show/oprah/index.md), [Penguin Random House](../../../topics/penguin-random-house/index.md), [Randee St. Nicholas](../../../topics/randee-st-nicholas/index.md), [trademark](../../../topics/trademark/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2019/11/30/coffee-table-books-are-great-gifts-even-if-you-dont-have-a-coffee-table/))
 
 ----
@@ -25,7 +25,7 @@
  - [**"Prince’s memoir ‘The Beautiful Ones’ is ‘warm, funny, well observed, eloquent and surprisingly focused’"**](https://www.twincities.com/2019/10/25/princes-memoir-the-beautiful-ones-is-warm-funny-well-observed-eloquent-and-surprisingly-focused/)
     - in [TwinCities.com - Pioneer Press](../../../publications/p-t/twincities-com-pioneer-press/index.md)
     - on 25 October 2019
-    - about [Andrea Swensson](../../../topics/andrea-swensson/index.md), [Capri Theater (place)](../../../topics/place/capri-theater/index.md), [Chris Jackson](../../../topics/chris-jackson/index.md), [Dan Piepenbring](../../../topics/dan-piepenbring/index.md), [I Feel For You (song)](../../../topics/song/i-feel-for-you/index.md), [Joni Mitchell](../../../topics/joni-mitchell/index.md), [memoir](../../../topics/memoir/index.md), [NPG Music Club (website)](../../../topics/website/npg-music-club/index.md), [Raspberry Beret (song)](../../../topics/song/raspberry-beret/index.md), [The Ballad Of Dorothy Parker (song)](../../../topics/song/the-ballad-of-dorothy-parker/index.md), [The Beautiful Ones (book)](../../../topics/book/the-beautiful-ones/index.md)
+    - about [Andrea Swensson](../../../topics/andrea-swensson/index.md), [Capri Theater (place)](../../../topics/place/capri-theater/index.md), [Chris Jackson](../../../topics/chris-jackson/index.md), [Dan Piepenbring](../../../topics/dan-piepenbring/index.md), [I Feel For You (song)](../../../topics/song/i-feel-for-you/index.md), [Joni Mitchell](../../../topics/joni-mitchell/index.md), [memoir](../../../topics/memoir/index.md), [NPG Music Club (website)](../../../topics/website/npg-music-club/index.md), [Oprah (TV show)](../../../topics/tv-show/oprah/index.md), [Raspberry Beret (song)](../../../topics/song/raspberry-beret/index.md), [The Ballad Of Dorothy Parker (song)](../../../topics/song/the-ballad-of-dorothy-parker/index.md), [The Beautiful Ones (book)](../../../topics/book/the-beautiful-ones/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2019/10/25/princes-memoir-the-beautiful-ones-is-warm-funny-well-observed-eloquent-and-surprisingly-focused/))
 
 ----
@@ -33,7 +33,7 @@
  - [**"The Time’s Morris Day imagines a conversation with Prince in his new book ‘On Time’"**](https://www.twincities.com/2019/10/11/the-times-morris-day-imagines-a-conversation-with-prince-in-his-new-book-on-time/)
     - in [TwinCities.com - Pioneer Press](../../../publications/p-t/twincities-com-pioneer-press/index.md)
     - on 11 October 2019
-    - about [divorce](../../../topics/divorce/index.md), [memoir](../../../topics/memoir/index.md), [Morris Day](../../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../../topics/book/on-time-a-princely-life-in-funk/index.md), [The Time](../../../topics/the-time/index.md)
+    - about [divorce](../../../topics/divorce/index.md), [Mall of America (place)](../../../topics/place/mall-of-america/index.md), [memoir](../../../topics/memoir/index.md), [Morris Day](../../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../../topics/book/on-time-a-princely-life-in-funk/index.md), [The Time](../../../topics/the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2019/10/11/the-times-morris-day-imagines-a-conversation-with-prince-in-his-new-book-on-time/))
 
 ----

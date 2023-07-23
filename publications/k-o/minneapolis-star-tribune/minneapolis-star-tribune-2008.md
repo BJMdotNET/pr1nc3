@@ -1,6 +1,40 @@
 # Minneapolis Star Tribune: 2008
 
-## November 2008 (1)
+## December 2008 (2)
+
+ - [**"Prince&#039;s sister Tyka is singing her own tune on new gospel CD -- Listeners to Tyka Nelson's new gospel CD, "A Brand New Me," could swear they hear her older brother on background vocals."**](https://www.startribune.com/prince-s-sister-tyka-is-singing-her-own-tune-on-new-gospel-cd/36856879/)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 29 December 2008
+    - about [Symbolina](../../../topics/symbolina/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-s-sister-tyka-is-singing-her-own-tune-on-new-gospel-cd/36856879/))
+
+----
+
+ - [**"What&#039;s OK in the locker room isn&#039;t OK on Fox or YouTube, OK? -- As overexposures go, Visanthe Shiancoe thinks his moment of nakedness on Fox could have been much worse."**](https://www.startribune.com/what-s-ok-in-the-locker-room-isn-t-ok-on-fox-or-youtube-ok/35773164/)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 9 December 2008
+    - about [Symbolina](../../../topics/symbolina/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/what-s-ok-in-the-locker-room-isn-t-ok-on-fox-or-youtube-ok/35773164/))
+
+----
+
+## November 2008 (3)
+
+ - [**"C.J.: Prince told New Yorker writer no to tape recorder, notepad -- As suspected, New Yorker mag contributor Claire Hoffman didn't write up her gay-marriage-is-wrong interview with Prince from notes or a tape recorder."**](https://www.startribune.com/c-j-prince-told-new-yorker-writer-no-to-tape-recorder-notepad/35137799/)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 26 November 2008
+    - about [Symbolina](../../../topics/symbolina/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/c-j-prince-told-new-yorker-writer-no-to-tape-recorder-notepad/35137799/))
+
+----
+
+ - [**"Suddenly, the explorer found himself face to face with an ... Oprah -- Somewhere during taping of the seventh segment, it hit Dan Buettner: "I was on with Oprah!""**](https://www.startribune.com/suddenly-the-explorer-found-himself-face-to-face-with-an-oprah/35017094/)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 24 November 2008
+    - about [Oprah (TV show)](../../../topics/tv-show/oprah/index.md), [Symbolina](../../../topics/symbolina/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/suddenly-the-explorer-found-himself-face-to-face-with-an-oprah/35017094/))
+
+----
 
  - [**"Purple One riffs on reining in sexual freedom -- Citing the Bible and tapping it as well, Prince talked with the New Yorker about being a Jehovah's Witness, sex and life among the red and blue."**](https://www.startribune.com/prince-gay-marriage-and-doing-whatever-you-want-is-wrong/34622394/)
     - by [Chris Riemenschneider](../../../authors/chris-riemenschneider/index.md)
@@ -39,7 +73,7 @@
 
 ----
 
-## August 2008 (2)
+## August 2008 (3)
 
  - [**"Fashions of the 1980s -- Glamorama, Macy's annual glitzfest to benefit children's cancer research, will be all about the '80s Friday night, featuring Cyndi Lauper and MC Hammer. Of all the fashion eras of the 20th century, the 1980s seemed least likely to cycle back."**](https://www.startribune.com/fashions-of-the-1980s/26915199/)
     - by [Kristin Tillotson](../../../authors/kristin-tillotson/index.md)
@@ -58,7 +92,15 @@
 
 ----
 
-## July 2008 (1)
+ - [**"From Dungy to A.J. to Symbolina: Readers have lots on their minds -- At least Democratic presidential candidate Barack Obama has a sense of humor about those satellite dishes on the sides of his face. I make this observation while kicking off today's batch of reader complaints and comments."**](https://www.startribune.com/from-dungy-to-a-j-to-symbolina-readers-have-lots-on-their-minds/26263049/)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 4 August 2008
+    - about [Symbolina](../../../topics/symbolina/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/from-dungy-to-a-j-to-symbolina-readers-have-lots-on-their-minds/26263049/))
+
+----
+
+## July 2008 (2)
 
  - [**"Critic&#039;s picks"**](https://www.startribune.com/critic-s-picks/25759839/)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
@@ -68,12 +110,21 @@
 
 ----
 
-## June 2008 (4)
+ - [**"Wanna-be authors as inscrutable as their would-be subject -- "I'm going to write a book, write a book about the life of a farm boy and a rock star," said Carson Erickson."**](https://www.startribune.com/wanna-be-authors-as-inscrutable-as-their-would-be-subject/22936779/)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 8 July 2008
+    - about [Symbolina](../../../topics/symbolina/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/wanna-be-authors-as-inscrutable-as-their-would-be-subject/22936779/))
+
+----
+
+## June 2008 (5)
 
  - [**"Sheila E: All in the family -- Sheila E is celebrating this weekend in Minneapolis with her Minnesota family (her godson is getting married) and her California family (a rare club gig by the E Family)."**](https://www.startribune.com/sheila-e-all-in-the-family/21802919/)
     - by [Jon Bream](../../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 26 June 2008
+    - about [Coachella (event)](../../../topics/event/coachella/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/sheila-e-all-in-the-family/21802919/))
 
 ----
@@ -91,6 +142,7 @@
     - by [Kim Ode](../../../authors/kim-ode/index.md)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 15 June 2008
+    - about [Oprah (TV show)](../../../topics/tv-show/oprah/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/touched-by-history/19926609/))
 
 ----
@@ -104,6 +156,14 @@
 
 ----
 
+ - [**"Washburn High&#039;s class of &#039;58 reunion will be right on the button -- Members of Washburn High's Class of 1958 who held on to a homecoming button designed by Charles Schulz have a piece of memorabilia that might be worth more than a few peanuts."**](https://www.startribune.com/washburn-high-s-class-of-58-reunion-will-be-right-on-the-button/19473379/)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 2 June 2008
+    - about [Symbolina](../../../topics/symbolina/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/washburn-high-s-class-of-58-reunion-will-be-right-on-the-button/19473379/))
+
+----
+
 ## May 2008 (1)
 
  - [**"Music: A New Day Rising at Old Blackberry Way -- Minneapolis' fabled Dinkytown studio is rocking again, and not just because of nostalgia for its glory days."**](https://www.startribune.com/music-a-new-day-rising-at-old-blackberry-way/18451509/)
@@ -114,13 +174,21 @@
 
 ----
 
-## April 2008 (3)
+## April 2008 (4)
+
+ - [**"Hirshfield&#039;s-Britton feud is a colorful one -- Hirshfield's is painting Edina makeup queen Carroll Britton in an unflattering light."**](https://www.startribune.com/hirshfield-s-britton-feud-is-a-colorful-one/18227114/)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 26 April 2008
+    - about [Symbolina](../../../topics/symbolina/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/hirshfield-s-britton-feud-is-a-colorful-one/18227114/))
+
+----
 
  - [**"Music: Alicia Keys: From breakdown to breakthrough -- Career stress and a death in the family pushed Alicia Keys to the brink. But a journey of "self-discovery" led to her smash album "As I Am.""**](https://www.startribune.com/music-alicia-keys-from-breakdown-to-breakthrough/18138374/)
     - by [Jon Bream](../../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 24 April 2008
-    - about [Alicia Keys](../../../topics/alicia-keys/index.md)
+    - about [Alicia Keys](../../../topics/alicia-keys/index.md), [Oprah (TV show)](../../../topics/tv-show/oprah/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/music-alicia-keys-from-breakdown-to-breakthrough/18138374/))
 
 ----

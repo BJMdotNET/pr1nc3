@@ -14,7 +14,7 @@
  - [**"Paisley Park to host film series featuring Aretha, 'Wattstax' and 'Dave Chappelle's Block Party'"**](https://www.startribune.com/paisley-park-to-host-film-series-featuring-aretha-wattstax-and-dave-chappelle-s-block-party/566561102/)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 30 December 2019
-    - about [Alan Seiffert](../../../topics/alan-seiffert/index.md), [Amazing Grace (movie)](../../../topics/movie/amazing-grace/index.md), [Andre Cymone](../../../topics/andre-cymone/index.md), [Aretha Franklin](../../../topics/aretha-franklin/index.md), [Dave Chappelle](../../../topics/dave-chappelle/index.md), [Dave Chappelle’s Block Party (movie)](../../../topics/movie/dave-chappelle-s-block-party/index.md), [Graceland](../../../topics/graceland/index.md), [Graceland Holdings](../../../topics/graceland-holdings/index.md), [Judith Hill](../../../topics/judith-hill/index.md), [museum](../../../topics/museum/index.md), [Paisley Park Cinema: Music on the Big Screen (event)](../../../topics/event/paisley-park-cinema-music-on-the-big-screen/index.md), [The Roots](../../../topics/the-roots/index.md)
+    - about [Alan Seiffert](../../../topics/alan-seiffert/index.md), [Amazing Grace (movie)](../../../topics/movie/amazing-grace/index.md), [Andre Cymone](../../../topics/andre-cymone/index.md), [Aretha Franklin](../../../topics/aretha-franklin/index.md), [Dave Chappelle](../../../topics/dave-chappelle/index.md), [Dave Chappelle’s Block Party (movie)](../../../topics/movie/dave-chappelle-s-block-party/index.md), [Erykah Badu](../../../topics/erykah-badu/index.md), [Graceland](../../../topics/graceland/index.md), [Graceland Holdings](../../../topics/graceland-holdings/index.md), [Judith Hill](../../../topics/judith-hill/index.md), [museum](../../../topics/museum/index.md), [Paisley Park Cinema: Music on the Big Screen (event)](../../../topics/event/paisley-park-cinema-music-on-the-big-screen/index.md), [The Roots](../../../topics/the-roots/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/paisley-park-to-host-film-series-featuring-aretha-wattstax-and-dave-chappelle-s-block-party/566561102/))
 
 ----
@@ -22,7 +22,7 @@
  - [**"In a Twin Cities living room, the Steeles cook up their 35th annual Christmas show -- The Steeles' annual Christmas show is a family affair, brewed up in a Golden Valley living room."**](https://www.startribune.com/in-a-twin-cities-living-room-the-steeles-cook-up-their-35th-annual-christmas-show/566344542/)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 19 December 2019
-    - about [Alexander O’Neal](../../../topics/alexander-o-neal/index.md), [contract](../../../topics/contract/index.md), [Janet Jackson](../../../topics/janet-jackson/index.md), [Justin Timberlake](../../../topics/justin-timberlake/index.md), [Kenni Holmen](../../../topics/kenni-holmen/index.md), [Sonny Thompson](../../../topics/sonny-thompson/index.md), [Sounds of Blackness](../../../topics/sounds-of-blackness/index.md), [Tommy Barbarella](../../../topics/tommy-barbarella/index.md)
+    - about [Alexander O’Neal](../../../topics/alexander-o-neal/index.md), [contract](../../../topics/contract/index.md), [Janet Jackson](../../../topics/janet-jackson/index.md), [Justin Timberlake](../../../topics/justin-timberlake/index.md), [Kenni Holmen](../../../topics/kenni-holmen/index.md), [Nordstrom (place)](../../../topics/place/nordstrom/index.md), [Sonny Thompson](../../../topics/sonny-thompson/index.md), [Sounds of Blackness](../../../topics/sounds-of-blackness/index.md), [Tommy Barbarella](../../../topics/tommy-barbarella/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/in-a-twin-cities-living-room-the-steeles-cook-up-their-35th-annual-christmas-show/566344542/))
 
 ----
@@ -30,7 +30,7 @@
  - [**"Art at the airport: 10 great spots to catch a flight of fancy"**](https://www.startribune.com/art-at-the-airport-10-great-spots-to-catch-a-flight-of-fancy/566170451/)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 17 December 2019
-    - about [airport](../../../topics/airport/index.md)
+    - about [airport](../../../topics/airport/index.md), [Oprah (TV show)](../../../topics/tv-show/oprah/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/art-at-the-airport-10-great-spots-to-catch-a-flight-of-fancy/566170451/))
 
 ----
@@ -90,7 +90,7 @@
  - [**"Don't overlook splashy coffee table books as holiday gifts"**](https://www.startribune.com/don-t-overlook-splashy-coffee-table-books-as-holiday-gifts/565099382/)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 19 November 2019
-    - about [Andy Warhol](../../../topics/andy-warhol/index.md), [Celebration (event)](../../../topics/event/celebration/index.md), [exhibit](../../../topics/exhibit/index.md), [exhibition](../../../topics/exhibition/index.md), [Hachette Books](../../../topics/hachette-books/index.md), [museum](../../../topics/museum/index.md), [Penguin Random House](../../../topics/penguin-random-house/index.md), [Randee St. Nicholas](../../../topics/randee-st-nicholas/index.md), [trademark](../../../topics/trademark/index.md)
+    - about [Andy Warhol](../../../topics/andy-warhol/index.md), [Celebration (event)](../../../topics/event/celebration/index.md), [exhibit](../../../topics/exhibit/index.md), [exhibition](../../../topics/exhibition/index.md), [Hachette Books](../../../topics/hachette-books/index.md), [museum](../../../topics/museum/index.md), [Oprah (TV show)](../../../topics/tv-show/oprah/index.md), [Penguin Random House](../../../topics/penguin-random-house/index.md), [Randee St. Nicholas](../../../topics/randee-st-nicholas/index.md), [trademark](../../../topics/trademark/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/don-t-overlook-splashy-coffee-table-books-as-holiday-gifts/565099382/))
 
 ----
@@ -212,7 +212,7 @@
     - by [Jon Bream](../../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 12 October 2019
-    - about [Aretha Franklin](../../../topics/aretha-franklin/index.md), [Ed Sheeran](../../../topics/ed-sheeran/index.md), [Frank Zappa](../../../topics/frank-zappa/index.md), [hologram](../../../topics/hologram/index.md), [Lizzo](../../../topics/lizzo/index.md), [Michael Jackson](../../../topics/michael-jackson/index.md), [Morris Day](../../../topics/morris-day/index.md), [perfume](../../../topics/perfume/index.md)
+    - about [Aretha Franklin](../../../topics/aretha-franklin/index.md), [Coachella (event)](../../../topics/event/coachella/index.md), [Ed Sheeran](../../../topics/ed-sheeran/index.md), [Frank Zappa](../../../topics/frank-zappa/index.md), [hologram](../../../topics/hologram/index.md), [Lizzo](../../../topics/lizzo/index.md), [Michael Jackson](../../../topics/michael-jackson/index.md), [Morris Day](../../../topics/morris-day/index.md), [perfume](../../../topics/perfume/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/))
 
 ----
@@ -237,7 +237,7 @@
     - by [Jon Bream](../../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 8 October 2019
-    - about [Aretha Franklin](../../../topics/aretha-franklin/index.md), [Donald Trump](../../../topics/donald-trump/index.md), [Jam and Lewis](../../../topics/jam-and-lewis/index.md), [Jamie Starr](../../../topics/jamie-starr/index.md), [Janet Jackson](../../../topics/janet-jackson/index.md), [memoir](../../../topics/memoir/index.md), [Morris Day](../../../topics/morris-day/index.md), [Morris Day and The Time](../../../topics/morris-day-and-the-time/index.md), [On Time: A Princely Life in Funk (book)](../../../topics/book/on-time-a-princely-life-in-funk/index.md), [Pandemonium (album)](../../../topics/album/pandemonium/index.md), [Trump](../../../topics/trump/index.md)
+    - about [Aretha Franklin](../../../topics/aretha-franklin/index.md), [Donald Trump](../../../topics/donald-trump/index.md), [Jam and Lewis](../../../topics/jam-and-lewis/index.md), [Jamie Starr](../../../topics/jamie-starr/index.md), [Janet Jackson](../../../topics/janet-jackson/index.md), [Mall of America (place)](../../../topics/place/mall-of-america/index.md), [memoir](../../../topics/memoir/index.md), [Morris Day](../../../topics/morris-day/index.md), [Morris Day and The Time](../../../topics/morris-day-and-the-time/index.md), [On Time: A Princely Life in Funk (book)](../../../topics/book/on-time-a-princely-life-in-funk/index.md), [Pandemonium (album)](../../../topics/album/pandemonium/index.md), [Trump](../../../topics/trump/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-haunts-morris-day-s-new-memoir-i-still-hear-his-voice-in-my-head/562430972/))
 
 ----

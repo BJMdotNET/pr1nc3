@@ -13,7 +13,7 @@
  - [**"Minneapolis will be alive with activity during the Super Bowl"**](https://apnews.com/article/archive-minneapolis-06bbdc75a3da466cbe90d890fe362c72)
     - in [Associated Press News](../../../publications/a-e/associated-press-news/index.md)
     - on 24 December 2017
-    - about [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [motorcycle](../../../topics/motorcycle/index.md), [museum](../../../topics/museum/index.md), [Super Bowl](../../../topics/super-bowl/index.md), [Twin Cities (place)](../../../topics/place/twin-cities/index.md), [University of Minnesota](../../../topics/university-of-minnesota/index.md), [Xcel Energy Center (place)](../../../topics/place/xcel-energy-center/index.md)
+    - about [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Mall of America (place)](../../../topics/place/mall-of-america/index.md), [motorcycle](../../../topics/motorcycle/index.md), [museum](../../../topics/museum/index.md), [Super Bowl](../../../topics/super-bowl/index.md), [Twin Cities (place)](../../../topics/place/twin-cities/index.md), [University of Minnesota](../../../topics/university-of-minnesota/index.md), [Xcel Energy Center (place)](../../../topics/place/xcel-energy-center/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/archive-minneapolis-06bbdc75a3da466cbe90d890fe362c72))
 
 ----
@@ -248,7 +248,7 @@
  - [**"Prince’s ex-wife Mayte Garcia pays tribute to late star"**](https://apnews.com/f7d92f7f16cd4330912e7a1674f4c8e7)
     - in [Associated Press News](../../../publications/a-e/associated-press-news/index.md)
     - on 22 April 2017
-    - about [Mayte](../../../topics/mayte/index.md), [Mayte Garcia](../../../topics/mayte-garcia/index.md), [perfume](../../../topics/perfume/index.md)
+    - about [Amiir](../../../topics/amiir/index.md), [Mayte](../../../topics/mayte/index.md), [Mayte Garcia](../../../topics/mayte-garcia/index.md), [perfume](../../../topics/perfume/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/f7d92f7f16cd4330912e7a1674f4c8e7))
 
 ----
@@ -304,7 +304,7 @@
  - [**"Mayte Garcia on the Prince you didn’t know"**](https://apnews.com/a4115faebefc463a8aad4433e14f5d2b)
     - in [Associated Press News](../../../publications/a-e/associated-press-news/index.md)
     - on 19 April 2017
-    - about [Mayte](../../../topics/mayte/index.md), [Mayte Garcia](../../../topics/mayte-garcia/index.md), [The Most Beautiful (book)](../../../topics/book/the-most-beautiful/index.md)
+    - about [Amiir](../../../topics/amiir/index.md), [Mayte](../../../topics/mayte/index.md), [Mayte Garcia](../../../topics/mayte-garcia/index.md), [The Most Beautiful (book)](../../../topics/book/the-most-beautiful/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/a4115faebefc463a8aad4433e14f5d2b))
 
 ----
@@ -412,7 +412,7 @@
     - by [Leanne Italie (Associated Press)](../../../authors/associated-press/leanne-italie/index.md)
     - in [Associated Press News](../../../publications/a-e/associated-press-news/index.md)
     - on 10 April 2017
-    - about [divorce](../../../topics/divorce/index.md), [Manuela Testolini](../../../topics/manuela-testolini/index.md), [Mayte](../../../topics/mayte/index.md), [Mayte Garcia](../../../topics/mayte-garcia/index.md), [memoir](../../../topics/memoir/index.md), [opioid](../../../topics/opioid/index.md), [The Most Beautiful (book)](../../../topics/book/the-most-beautiful/index.md), [Vicodin](../../../topics/vicodin/index.md)
+    - about [Amiir](../../../topics/amiir/index.md), [divorce](../../../topics/divorce/index.md), [Manuela Testolini](../../../topics/manuela-testolini/index.md), [Mayte](../../../topics/mayte/index.md), [Mayte Garcia](../../../topics/mayte-garcia/index.md), [memoir](../../../topics/memoir/index.md), [opioid](../../../topics/opioid/index.md), [Oprah (TV show)](../../../topics/tv-show/oprah/index.md), [The Most Beautiful (book)](../../../topics/book/the-most-beautiful/index.md), [Vicodin](../../../topics/vicodin/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/0c93c63651ef4f15adde78e51b38c197))
 
 ----
@@ -422,7 +422,7 @@
  - [**"AM Prep-Music -- PRINCE’S EX OPENS UP ABOUT THE DEATH OF THEIR SON"**](https://apnews.com/00a854bad6dc4bea836dcf16182e0978)
     - in [Associated Press News](../../../publications/a-e/associated-press-news/index.md)
     - on 16 March 2017
-    - about [Mayte](../../../topics/mayte/index.md), [Pfeiffer syndrome type 2](../../../topics/pfeiffer-syndrome-type-2/index.md), [The Most Beautiful (book)](../../../topics/book/the-most-beautiful/index.md)
+    - about [Amiir](../../../topics/amiir/index.md), [Mayte](../../../topics/mayte/index.md), [Pfeiffer syndrome type 2](../../../topics/pfeiffer-syndrome-type-2/index.md), [The Most Beautiful (book)](../../../topics/book/the-most-beautiful/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/00a854bad6dc4bea836dcf16182e0978))
 
 ----
@@ -431,7 +431,7 @@
     - by [The Associated Press](../../../authors/the-associated-press/index.md)
     - in [Associated Press News](../../../publications/a-e/associated-press-news/index.md)
     - on 15 March 2017
-    - about [divorce](../../../topics/divorce/index.md), [Mayte](../../../topics/mayte/index.md), [Mayte Garcia](../../../topics/mayte-garcia/index.md), [memoir](../../../topics/memoir/index.md), [Pfeiffer syndrome type 2](../../../topics/pfeiffer-syndrome-type-2/index.md)
+    - about [Amiir](../../../topics/amiir/index.md), [divorce](../../../topics/divorce/index.md), [Mayte](../../../topics/mayte/index.md), [Mayte Garcia](../../../topics/mayte-garcia/index.md), [memoir](../../../topics/memoir/index.md), [Pfeiffer syndrome type 2](../../../topics/pfeiffer-syndrome-type-2/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/4353bb4317364ba9b544c3363334fe4b))
 
 ----
