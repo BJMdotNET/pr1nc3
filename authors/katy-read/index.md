@@ -1,5 +1,17 @@
 # Katy Read
 
+## 2021 (1)
+
+### 2021 September (1)
+
+ - [**"Prince&#039;s brother, one of his remaining family heirs, dies -- Half of the superstar's estate owned by a music company."**](https://www.startribune.com/prince-s-brother-one-of-his-remaining-family-heirs-dies/600094009/)
+    - by [Katy Read](../../authors/katy-read/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 4 September 2021
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-s-brother-one-of-his-remaining-family-heirs-dies/600094009/))
+
+----
+
 ## 2019 (3)
 
 ### 2019 June (1)

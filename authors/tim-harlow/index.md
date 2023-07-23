@@ -1,5 +1,17 @@
 # Tim Harlow
 
+## 2021 (1)
+
+### 2021 March (1)
+
+ - [**"Minnesota legislators want to rename highway after Prince"**](https://www.startribune.com/minnesota-legislators-want-to-rename-highway-after-prince/600034298/)
+    - by [Tim Harlow](../../authors/tim-harlow/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 15 March 2021
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/minnesota-legislators-want-to-rename-highway-after-prince/600034298/))
+
+----
+
 ## 2017 (1)
 
 ### 2017 April (1)
@@ -12,7 +24,18 @@
 
 ----
 
-## 2016 (2)
+## 2016 (3)
+
+### 2016 September (1)
+
+ - [**"Prince tribute tickets gone in an instant -- The Oct. 13 show at Xcel Energy Center sold out as soon as tickets went on sale Monday."**](https://www.startribune.com/prince-tribute-tickets-gone-in-an-instant/393988771/)
+    - by [Tim Harlow](../../authors/tim-harlow/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 19 September 2016
+    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-tribute-tickets-gone-in-an-instant/393988771/))
+
+----
 
 ### 2016 August (1)
 

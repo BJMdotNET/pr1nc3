@@ -8,6 +8,7 @@
     - by [Nicole Hvidsten](../../authors/nicole-hvidsten/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 21 September 2022
+    - about [Super Bowl](../../topics/super-bowl/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/smores-kits-fire-up-long-lake-marshmallow-business/600208843/))
 
 ----

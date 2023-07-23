@@ -1,6 +1,29 @@
 # Neal Justin
 
-## 2019 (5)
+## 2021 (1)
+
+### 2021 November (1)
+
+ - [**"Surprise! Usher and Justin Bieber join Dave Chappelle for Minneapolis show -- Moments after the comedian wished the crowd a good night, Bieber marched out unannounced for four songs. He was soon joined by Usher."**](https://www.startribune.com/surprise-usher-and-justin-bieber-perform-at-dave-chappelles-minneapolis-show/600114116/)
+    - by [Neal Justin](../../authors/neal-justin/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 8 November 2021
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/surprise-usher-and-justin-bieber-perform-at-dave-chappelles-minneapolis-show/600114116/))
+
+----
+
+## 2019 (7)
+
+### 2019 July (1)
+
+ - [**"TV picks for July 31: &#039;Four Weddings and a Funeral,&#039; &#039;Jihadi John, &#039;Sherman&#039;s Showcase&#039; -- Mindy Kaling's series is loosely based on the 1994 film."**](https://www.startribune.com/tv-picks-for-july-31-four-weddings-and-a-funeral-jihadi-john-sherman-s-showcase/513392622/)
+    - by [Neal Justin](../../authors/neal-justin/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 30 July 2019
+    - about [Morris Day](../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/tv-picks-for-july-31-four-weddings-and-a-funeral-jihadi-john-sherman-s-showcase/513392622/))
+
+----
 
 ### 2019 June (1)
 
@@ -13,7 +36,16 @@
 
 ----
 
-### 2019 April (2)
+### 2019 April (3)
+
+ - [**"Former Minnesota football player scored in Hollywood with AMC&#039;s &#039;Into the Badlands&#039; series -- "Into the Badlands" star Sherman Augustus on how football informed his acting career."**](https://www.startribune.com/former-minnesota-viking-scored-in-hollywood-with-amc-s-into-the-badlands-series/508803152/)
+    - by [Neal Justin](../../authors/neal-justin/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 19 April 2019
+    - about [Jerome Benton](../../topics/jerome-benton/index.md), [Morris Day](../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/former-minnesota-viking-scored-in-hollywood-with-amc-s-into-the-badlands-series/508803152/))
+
+<br />
 
  - [**"TV picks for April 20-21: 'Ramy,' Prince, 'Motown 60: A Grammy Celebration'"**](https://www.startribune.com/tv-picks-for-april-20-21-ramy-prince-motown-60-a-grammy-celebration/508806472/)
     - by [Neal Justin](../../authors/neal-justin/index.md)
@@ -63,7 +95,7 @@
     - by [Neal Justin](../../authors/neal-justin/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 14 December 2018
-    - about [Morris Day](../../topics/morris-day/index.md)
+    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/morris-day-s-misadventures-in-minneapolis-get-animated-for-mike-judge-s-tv-series/502781422/))
 
 ----
@@ -113,6 +145,69 @@
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 18 January 2017
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/fred-armisen-holly-robinson-peete-remember-prince/411014275/))
+
+----
+
+## 2016 (1)
+
+### 2016 January (1)
+
+ - [**"Live from LA: Jam & Lewis board 'Fresh Off the Boat'"**](https://www.startribune.com/live-from-la-jam-lewis-board-fresh-off-the-boat/365536321/)
+    - by [Neal Justin](../../authors/neal-justin/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 16 January 2016
+    - about [Jam & Lewis](../../topics/jam-lewis/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/live-from-la-jam-lewis-board-fresh-off-the-boat/365536321/))
+
+----
+
+## 2014 (1)
+
+### 2014 January (1)
+
+ - [**"More details for Prince's appearance on 'New Girl'"**](https://www.startribune.com/more-details-for-prince-s-appearance-on-new-girl/239979281/)
+    - by [Neal Justin](../../authors/neal-justin/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 15 January 2014
+    - about [Morris Day](../../topics/morris-day/index.md), [Super Bowl](../../topics/super-bowl/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/more-details-for-prince-s-appearance-on-new-girl/239979281/))
+
+----
+
+## 2013 (1)
+
+### 2013 February (1)
+
+ - [**"Item World: Duluth student hangs with Ben Affleck at Oscars, Prince Week in NYC, more"**](https://www.startribune.com/item-world-duluth-student-hangs-with-ben-affleck-at-oscars-prince-week-in-nyc-more/193927421/)
+    - by [Claude Peck](../../authors/claude-peck/index.md), [Graydon Royce](../../authors/graydon-royce/index.md), [Jon Bream](../../authors/jon-bream/index.md), [Laurie Hertzel](../../authors/laurie-hertzel/index.md), [Neal Justin](../../authors/neal-justin/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 28 February 2013
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/item-world-duluth-student-hangs-with-ben-affleck-at-oscars-prince-week-in-nyc-more/193927421/))
+
+----
+
+## 2011 (1)
+
+### 2011 October (1)
+
+ - [**"TV critic&#039;s picks Oct. 23-27"**](https://www.startribune.com/tv-critic-s-picks-oct-23-27/132281093/)
+    - by [Neal Justin](../../authors/neal-justin/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 22 October 2011
+    - about [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/tv-critic-s-picks-oct-23-27/132281093/))
+
+----
+
+## 2010 (1)
+
+### 2010 July (1)
+
+ - [**"Minnesota connections at Emmys"**](https://www.startribune.com/minnesota-connections-at-emmys/98029264/)
+    - by [Neal Justin](../../authors/neal-justin/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 8 July 2010
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/minnesota-connections-at-emmys/98029264/))
 
 ----
 

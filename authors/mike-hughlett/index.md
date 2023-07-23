@@ -1,5 +1,37 @@
 # Mike Hughlett
 
+## 2021 (3)
+
+### 2021 December (1)
+
+ - [**"Prince estate disputes near an end as hearing in February looms for distribution of assets -- Other hurdles may arise, but the estate and IRS settled on a final valuation of the superstar's assets."**](https://www.startribune.com/prince-estate-disputes-near-an-end-hearing-in-february-looms-for-distribution-of-assets/600129536/)
+    - by [Mike Hughlett](../../authors/mike-hughlett/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 22 December 2021
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-estate-disputes-near-an-end-hearing-in-february-looms-for-distribution-of-assets/600129536/))
+
+----
+
+### 2021 July (1)
+
+ - [**"Big music firm controls half of Prince&#039;s estate as case winds down -- Primary Wave has bought out three siblings' interest in the estate; a deal on the value of Prince's real estate also has been reached."**](https://www.startribune.com/big-music-firm-controls-half-of-princes-estate-as-case-winds-down/600081132/)
+    - by [Jon Bream](../../authors/jon-bream/index.md), [Mike Hughlett](../../authors/mike-hughlett/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 25 July 2021
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/big-music-firm-controls-half-of-princes-estate-as-case-winds-down/600081132/))
+
+----
+
+### 2021 January (1)
+
+ - [**"IRS says Prince&#039;s estate undervalued by 50%, triggering another dispute in settlement"**](https://www.startribune.com/irs-says-prince-s-estate-undervalued-by-50-triggering-another-dispute-in-settlement/600006126/)
+    - by [Mike Hughlett](../../authors/mike-hughlett/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 2 January 2021
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/irs-says-prince-s-estate-undervalued-by-50-triggering-another-dispute-in-settlement/600006126/))
+
+----
+
 ## 2020 (1)
 
 ### 2020 February (1)

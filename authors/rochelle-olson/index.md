@@ -8,6 +8,7 @@
     - by [Rochelle Olson](../../authors/rochelle-olson/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 9 May 2023
+    - about [Super Bowl](../../topics/super-bowl/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/princely-pride-stretch-of-highway-5-officially-named-for-minnesotan-prince-paisley-park/600273577/))
 
 <br />
@@ -26,6 +27,7 @@
     - by [Rochelle Olson](../../authors/rochelle-olson/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 26 February 2023
+    - about [Jimmy Jam](../../topics/jimmy-jam/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/senate-president-bobby-joe-champion-blazes-a-leadership-path-at-the-capitol/600254598/))
 
 ----
@@ -42,7 +44,42 @@
 
 ----
 
-## 2017 (2)
+## 2018 (2)
+
+### 2018 February (1)
+
+ - [**"52 pickup: a look at the Super Bowl numbers -- With Super Bowl LII over and visitors out of town, the counting is just gearing up."**](https://www.startribune.com/52-pickup-a-look-at-the-super-bowl-numbers/473202563/)
+    - by [Rochelle Olson](../../authors/rochelle-olson/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 7 February 2018
+    - about [Super Bowl](../../topics/super-bowl/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/52-pickup-a-look-at-the-super-bowl-numbers/473202563/))
+
+----
+
+### 2018 January (1)
+
+ - [**"Pop-up Prince exhibit, ice skating and an IMAX-style dome part of 10-day Super Bowl Live event -- Organizers announce more activities on Nicollet Mall before the big game."**](https://www.startribune.com/pop-up-prince-exhibit-ice-skating-and-an-imax-style-dome-part-of-10-day-super-bowl-live-event/469433723/)
+    - by [Rochelle Olson](../../authors/rochelle-olson/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 16 January 2018
+    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Super Bowl](../../topics/super-bowl/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/pop-up-prince-exhibit-ice-skating-and-an-imax-style-dome-part-of-10-day-super-bowl-live-event/469433723/))
+
+----
+
+## 2017 (3)
+
+### 2017 October (1)
+
+ - [**"Prince tribute, and maybe Janet Jackson, in the works for Jam and Lewis&#039; Super Bowl Live series -- The pop mega-producers discussed their plans for the free outdoor concerts as organizers unveiled the look and layout."**](https://www.startribune.com/super-bowl-organizers-plan-ice-stage-walk-in-snow-globe-and-northern-lights-show-in-minneapolis/453625783/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md), [Rochelle Olson](../../authors/rochelle-olson/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 27 October 2017
+    - about [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Morris Day](../../topics/morris-day/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/super-bowl-organizers-plan-ice-stage-walk-in-snow-globe-and-northern-lights-show-in-minneapolis/453625783/))
+
+----
 
 ### 2017 January (2)
 

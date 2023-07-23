@@ -26,4 +26,17 @@
 
 ----
 
+## 2015 (1)
+
+### 2015 February (1)
+
+ - [**"At 100, Greater Twin Cities United Way courts a new generation of givers"**](https://www.startribune.com/greater-twin-cities-united-way-courts-a-new-generation/293094321/)
+    - by [Jean Hopfensperger](../../authors/jean-hopfensperger/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 23 February 2015
+    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/greater-twin-cities-united-way-courts-a-new-generation/293094321/))
+
+----
+
 [Home](../index.md)
