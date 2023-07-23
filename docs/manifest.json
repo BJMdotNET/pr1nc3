@@ -2183,6 +2183,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "authors/sanguinic/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/sanguinic/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "authors/sarah-cascone/index.md",
       "output": {
         ".html": {
@@ -18666,6 +18676,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/amiir/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/amiir/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/amy-conners/index.md",
       "output": {
         ".html": {
@@ -19816,6 +19836,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/captain-kirk-douglas/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/captain-kirk-douglas/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/caribbean/index.md",
       "output": {
         ".html": {
@@ -20086,6 +20116,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/cheo-hodari-coker/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/cheo-hodari-coker/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/chick-huntsberry/index.md",
       "output": {
         ".html": {
@@ -20260,6 +20300,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/cloud-bass/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/coco-and-breezy/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/coco-and-breezy/index.html"
         }
       },
       "version": ""
@@ -21300,6 +21350,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/erlene-mojica/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/erykah-badu/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/erykah-badu/index.html"
         }
       },
       "version": ""
@@ -23136,6 +23196,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/john-j-fangman/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/john-j-fangman/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/john-l-nelson-project/index.md",
       "output": {
         ".html": {
@@ -23260,6 +23330,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/joni-mitchell/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/joni-rodgers/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/joni-rodgers/index.html"
         }
       },
       "version": ""
@@ -23700,6 +23780,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/l-uva-bella-winery/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/larry-altman/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/larry-altman/index.html"
         }
       },
       "version": ""
@@ -24696,6 +24786,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/mia-gregory/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/mia-gregory/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/michael-bland/index.md",
       "output": {
         ".html": {
@@ -25366,6 +25466,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/nanny-mojica/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/nanny-mojica/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/nate-d-sanders-auctions/index.md",
       "output": {
         ".html": {
@@ -25866,6 +25976,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/pat-diamond/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/pat-diamond/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/patrice-rushen/index.md",
       "output": {
         ".html": {
@@ -26086,6 +26206,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/pfieffer-s-syndrome/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/pfieffer-s-syndrome/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/phaedra-ellis-lamkin/index.md",
       "output": {
         ".html": {
@@ -26140,6 +26270,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/place/1015-folsom/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/place/abbott-northwestern-hospital/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/place/abbott-northwestern-hospital/index.html"
         }
       },
       "version": ""
@@ -26390,6 +26530,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/place/chicago/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/place/children-s-health-care-minneapolis/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/place/children-s-health-care-minneapolis/index.html"
         }
       },
       "version": ""
@@ -26896,6 +27046,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/place/mall-of-america/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/place/mall-of-america/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/place/mann-s-chinese-theatre/index.md",
       "output": {
         ".html": {
@@ -27010,6 +27170,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/place/nokia-theater/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/place/nordstrom/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/place/nordstrom/index.html"
         }
       },
       "version": ""
@@ -30836,6 +31006,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/symbolina/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/symbolina/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/t-mar-davis/index.md",
       "output": {
         ".html": {
@@ -31299,6 +31479,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/tommy-lee/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/tommy-lee/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/tony-maiden/index.md",
       "output": {
         ".html": {
@@ -31619,6 +31809,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/tv-show/oprah/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/tv-show/oprah/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/tv-show/pop-through-the-decades/index.md",
       "output": {
         ".html": {
@@ -31653,6 +31853,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/tv-show/snl/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/tv-show/today-show/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/tv-show/today-show/index.html"
         }
       },
       "version": ""
