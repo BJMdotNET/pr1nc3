@@ -314,7 +314,7 @@
  - [**"Carmen Electra Flipping Out in Hollywood Hills"**](https://www.dirt.com/more-dirt/real-estate-listings/carmen-electra-flipping-out-in-hollywood-hills-1203534640/)
     - in [DIRT](../../publications/a-e/dirt/index.md)
     - on 25 March 2015
-    - about [Carmen Electra](../../topics/carmen-electra/index.md), [Los Angeles (place)](../../topics/place/los-angeles/index.md)
+    - about [Carmen Electra](../../topics/carmen-electra/index.md), [Los Angeles (place)](../../topics/place/los-angeles/index.md), [Tommy Lee](../../topics/tommy-lee/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.dirt.com/more-dirt/real-estate-listings/carmen-electra-flipping-out-in-hollywood-hills-1203534640/))
 
 ----
@@ -368,7 +368,7 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 19 February 2015
-    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md)
+    - about [Coachella (event)](../../topics/event/coachella/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/irish-hitmaker-hozier-talks-church-and-his-state-of-mind/292710011/))
 
 ----
@@ -377,7 +377,7 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 18 February 2015
-    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md)
+    - about [Coachella (event)](../../topics/event/coachella/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/hozier-s-church-and-state/292515361/))
 
 ----
@@ -398,7 +398,23 @@
 
 ----
 
-## January 2015 (1)
+## January 2015 (3)
+
+ - [**"C.J.: Slide over to Beverly Hills Pawn for a pair of Prince&#039;s shoes or Mayte&#039;s handcuffs"**](https://www.startribune.com/c-j-slide-over-to-beverly-hills-pawn-for-a-pair-of-prince-s-shoes-or-mayte-s-handcuffs/289374891/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 21 January 2015
+    - about [Symbolina](../../topics/symbolina/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/c-j-slide-over-to-beverly-hills-pawn-for-a-pair-of-prince-s-shoes-or-mayte-s-handcuffs/289374891/))
+
+----
+
+ - [**"C.J.: Prince is a gem for &quot;Diamonds and Pearls&quot; vocalist Rosie Gaines"**](https://www.startribune.com/c-j-prince-is-a-gem-for-diamonds-and-pearls-vocalist-rosie-gaines/288340461/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 13 January 2015
+    - about [Symbolina](../../topics/symbolina/index.md), [Today Show (TV show)](../../topics/tv-show/today-show/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/c-j-prince-is-a-gem-for-diamonds-and-pearls-vocalist-rosie-gaines/288340461/))
+
+----
 
  - [**"30 years ago: Prince holds court at the Summit"**](https://www.sfchronicle.com/local/bayou-city-history/article/30-years-ago-Prince-holds-court-at-the-Summit-6000026.php)
     - by [J.R. Gonzales](../../authors/j-r-gonzales/index.md)

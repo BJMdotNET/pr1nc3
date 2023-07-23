@@ -1,6 +1,13 @@
 # 2023
 
-## July 2023 (27)
+## July 2023 (28)
+
+ - [**"Prince fans mark fifth anniversary of his death: &#039;My soul said I need to be here&#039;"**](https://www.startribune.com/prince-fans-mark-fifth-anniversary-of-his-death-my-soul-said-i-need-to-be-here/600048637/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 22 July 2023
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-fans-mark-fifth-anniversary-of-his-death-my-soul-said-i-need-to-be-here/600048637/))
+
+----
 
  - [**"See spots that inspired Prince through a Minneapolis segway tour -- WCCO - CBS Minnesota"**](https://www.youtube.com/watch?v=jSJCuSZCq-4)
     - in [YouTube](../../publications/u-z/youtube/index.md)
@@ -232,7 +239,7 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 1 July 2023
-    - about [Beyoncé](../../topics/beyonc/index.md), [Janelle Monáe](../../topics/janelle-mon-e/index.md)
+    - about [Beyoncé](../../topics/beyonc/index.md), [Erykah Badu](../../topics/erykah-badu/index.md), [Janelle Monáe](../../topics/janelle-mon-e/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/erykah-badu-mos-def-yasiin-bey-prince-david-bowie-janelle-monae-beyonce-st-paul-xcel-energy-center/600286804/))
 
 ----
@@ -358,7 +365,7 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 12 June 2023
-    - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Alan Leeds](../../topics/alan-leeds/index.md), [Alicia Keys](../../topics/alicia-keys/index.md), [Bobby Z](../../topics/bobby-z/index.md), [Bruce Springsteen](../../topics/bruce-springsteen/index.md), [Capri Theater (place)](../../topics/place/capri-theater/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [Celebration 2023 (event)](../../topics/event/celebration-2023/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Charles Spicer](../../topics/charles-spicer/index.md), [Charlie Murphy](../../topics/charlie-murphy/index.md), [Don't Play With Love (song)](../../topics/song/don-t-play-with-love/index.md), [Doug E. Fresh](../../topics/doug-e-fresh/index.md), [Gilbert Davison](../../topics/gilbert-davison/index.md), [H.E.R.](../../topics/h-e-r/index.md), [Janelle Monae](../../topics/janelle-monae/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [Lenny Kravitz](../../topics/lenny-kravitz/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Michael Bland](../../topics/michael-bland/index.md), [Michael Pagnotta](../../topics/michael-pagnotta/index.md), [Obama](../../topics/obama/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Prince Legacy LLC](../../topics/prince-legacy-llc/index.md), [Questlove](../../topics/questlove/index.md), [Sounds of Blackness](../../topics/sounds-of-blackness/index.md), [Spike Lee](../../topics/spike-lee/index.md), [Stokley](../../topics/stokley/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Tim Burton](../../topics/tim-burton/index.md), [Trevor Guy](../../topics/trevor-guy/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md)
+    - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Alan Leeds](../../topics/alan-leeds/index.md), [Alicia Keys](../../topics/alicia-keys/index.md), [Bobby Z](../../topics/bobby-z/index.md), [Bruce Springsteen](../../topics/bruce-springsteen/index.md), [Capri Theater (place)](../../topics/place/capri-theater/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [Celebration 2023 (event)](../../topics/event/celebration-2023/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Charles Spicer](../../topics/charles-spicer/index.md), [Charlie Murphy](../../topics/charlie-murphy/index.md), [Don't Play With Love (song)](../../topics/song/don-t-play-with-love/index.md), [Doug E. Fresh](../../topics/doug-e-fresh/index.md), [Erykah Badu](../../topics/erykah-badu/index.md), [Gilbert Davison](../../topics/gilbert-davison/index.md), [H.E.R.](../../topics/h-e-r/index.md), [Janelle Monae](../../topics/janelle-monae/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [Lenny Kravitz](../../topics/lenny-kravitz/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Michael Bland](../../topics/michael-bland/index.md), [Michael Pagnotta](../../topics/michael-pagnotta/index.md), [Obama](../../topics/obama/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Prince Legacy LLC](../../topics/prince-legacy-llc/index.md), [Questlove](../../topics/questlove/index.md), [Sounds of Blackness](../../topics/sounds-of-blackness/index.md), [Spike Lee](../../topics/spike-lee/index.md), [Stokley](../../topics/stokley/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Tim Burton](../../topics/tim-burton/index.md), [Trevor Guy](../../topics/trevor-guy/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-celebration-2023-paisley-park-chuck-d-chaka-khan-doug-e-fresh-stokley-nur-d-nunnabove/600281951/))
 
 ----
@@ -419,7 +426,7 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md), [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 7 June 2023
-    - about [Jimmy Jam](../../topics/jimmy-jam/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - about [Jimmy Jam](../../topics/jimmy-jam/index.md), [Robert Smith](../../topics/robert-smith/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/twin-cities-the-cure-bebe-rexha-tyler-childers-weezer-rodrigo-y-gabriela-meshell-ndegeocello/600280755/))
 
 ----
@@ -488,7 +495,7 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md), [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 24 May 2023
-    - about [Jimmy Jam](../../topics/jimmy-jam/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - about [Coachella (event)](../../topics/event/coachella/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/twin-cities-janet-jackson-dwight-yoakam-ondara-caterwaul-terrace-martin-gully-boys-kiss-the-tiger/600277349/))
 
 ----
@@ -733,6 +740,7 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 17 April 2023
+    - about [Erykah Badu](../../topics/erykah-badu/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/erykah-badu-yasiin-bey-xcel-energy-center-st-paul-jose-james/600267751/))
 
 ----
@@ -876,7 +884,7 @@
     - by [Rochelle Olson](../../authors/rochelle-olson/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 26 February 2023
-    - about [Jimmy Jam](../../topics/jimmy-jam/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - about [Jimmy Jam](../../topics/jimmy-jam/index.md), [Oprah (TV show)](../../topics/tv-show/oprah/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/senate-president-bobby-joe-champion-blazes-a-leadership-path-at-the-capitol/600254598/))
 
 ----

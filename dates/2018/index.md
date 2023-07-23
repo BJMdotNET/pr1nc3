@@ -77,7 +77,7 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 21 December 2018
-    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Super Bowl](../../topics/super-bowl/index.md)
+    - about [Erykah Badu](../../topics/erykah-badu/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Super Bowl](../../topics/super-bowl/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/10-signs-the-minnesota-music-scene-was-alive-and-well-in-2018/503245841/))
 
 ----
@@ -812,7 +812,7 @@
  - [**"De Cooke a Houston: funerales de los grandes de la música"**](https://apnews.com/article/192fabd3f7a544828a8f6233b72aa3e5)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 29 August 2018
-    - about [Alicia Keys](../../topics/alicia-keys/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Sheila E.](../../topics/sheila-e/index.md)
+    - about [Alicia Keys](../../topics/alicia-keys/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Oprah (TV show)](../../topics/tv-show/oprah/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Sheila E.](../../topics/sheila-e/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/192fabd3f7a544828a8f6233b72aa3e5))
 
 ----
@@ -820,7 +820,7 @@
  - [**"The days the music died: A look at funerals of the greats"**](https://apnews.com/7d546ab5dbec4e5ba4ebd0eddd1064e8)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 29 August 2018
-    - about [Aretha Franklin](../../topics/aretha-franklin/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Graceland](../../topics/graceland/index.md), [James Brown](../../topics/james-brown/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [museum](../../topics/museum/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [trademark](../../topics/trademark/index.md)
+    - about [Aretha Franklin](../../topics/aretha-franklin/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Graceland](../../topics/graceland/index.md), [James Brown](../../topics/james-brown/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [museum](../../topics/museum/index.md), [Oprah (TV show)](../../topics/tv-show/oprah/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [trademark](../../topics/trademark/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/7d546ab5dbec4e5ba4ebd0eddd1064e8))
 
 ----
@@ -1931,7 +1931,7 @@
     - by [Rochelle Olson](../../authors/rochelle-olson/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 7 February 2018
-    - about [Super Bowl](../../topics/super-bowl/index.md)
+    - about [Mall of America (place)](../../topics/place/mall-of-america/index.md), [Super Bowl](../../topics/super-bowl/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/52-pickup-a-look-at-the-super-bowl-numbers/473202563/))
 
 ----
@@ -1972,7 +1972,7 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 3 February 2018
-    - about [Super Bowl](../../topics/super-bowl/index.md)
+    - about [Mall of America (place)](../../topics/place/mall-of-america/index.md), [Super Bowl](../../topics/super-bowl/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/dj-questlove-spins-prince-tunes-for-late-night-party-at-dakota-jazz-club/472482923/))
 
 ----
@@ -1998,7 +1998,7 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 2 February 2018
-    - about [Super Bowl](../../topics/super-bowl/index.md)
+    - about [Mall of America (place)](../../topics/place/mall-of-america/index.md), [Super Bowl](../../topics/super-bowl/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/justin-timberlake-shows-off-new-album-dance-moves-at-prince-s-paisley-park/472223243/))
 
 ----
@@ -2118,7 +2118,7 @@
  - [**"Embrace the Bold North in Minneapolis for Super Bowl"**](https://apnews.com/5ddc01f147644c79820a62b065eb5efb)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 17 January 2018
-    - about [airport](../../topics/airport/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [museum](../../topics/museum/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md)
+    - about [airport](../../topics/airport/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Mall of America (place)](../../topics/place/mall-of-america/index.md), [museum](../../topics/museum/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/5ddc01f147644c79820a62b065eb5efb))
 
 ----

@@ -129,7 +129,7 @@
     - by [Philip Utz](../../authors/philip-utz/index.md)
     - in [Numéro](../../publications/k-o/num-ro/index.md)
     - on 7 July 2020
-    - about [Kristin Scott Thomas](../../topics/kristin-scott-thomas/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md)
+    - about [Kristin Scott Thomas](../../topics/kristin-scott-thomas/index.md), [Oprah (TV show)](../../topics/tv-show/oprah/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.numero.com/en/cinema/kristin-scott-thomas-interview-fleabag-prince-impossible-mission-tom-cruise-oscar-four-weddings-and-a-funeral))
 
 ----
@@ -645,7 +645,7 @@
  - [**"Minnesota is often overlooked on a worldwide scale, but we have an amazing medical scene -- Images of 3M masks are widespread, which got me thinking."**](https://www.startribune.com/minnesota-is-often-overlooked-on-a-worldwide-scale-but-we-have-an-amazing-medical-scene/567438732/)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 30 January 2020
-    - about [Celebration (event)](../../topics/event/celebration/index.md), [Lizzo](../../topics/lizzo/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md)
+    - about [Celebration (event)](../../topics/event/celebration/index.md), [Lizzo](../../topics/lizzo/index.md), [Mall of America (place)](../../topics/place/mall-of-america/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/minnesota-is-often-overlooked-on-a-worldwide-scale-but-we-have-an-amazing-medical-scene/567438732/))
 
 ----
@@ -862,7 +862,7 @@
  - [**"Grammys: Usher, Sheila E. and FKA Twigs Team Up for Prince Tribute -- The group of Prince collaborators and friends performed a medley of the icon's biggest hits."**](https://www.hollywoodreporter.com/news/grammys-usher-sheila-e-fka-twigs-perform-prince-tribute-1272924)
     - in [The Hollywood Reporter](../../publications/f-j/the-hollywood-reporter/index.md)
     - on 26 January 2020
-    - about [Alicia Keys](../../topics/alicia-keys/index.md), [Beck](../../topics/beck/index.md), [BET Awards](../../topics/bet-awards/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [Coldplay](../../topics/coldplay/index.md), [FKA twigs](../../topics/fka-twigs/index.md), [Grammy Award](../../topics/grammy-award/index.md), [H.E.R.](../../topics/h-e-r/index.md), [John Legend](../../topics/john-legend/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Los Angeles Convention Center (place)](../../topics/place/los-angeles-convention-center/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Glamorous Life (song)](../../topics/song/the-glamorous-life/index.md), [The Roots](../../topics/the-roots/index.md), [The Time](../../topics/the-time/index.md), [Usher](../../topics/usher/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
+    - about [Alicia Keys](../../topics/alicia-keys/index.md), [Beck](../../topics/beck/index.md), [BET Awards](../../topics/bet-awards/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [Coachella (event)](../../topics/event/coachella/index.md), [Coldplay](../../topics/coldplay/index.md), [FKA twigs](../../topics/fka-twigs/index.md), [Grammy Award](../../topics/grammy-award/index.md), [H.E.R.](../../topics/h-e-r/index.md), [John Legend](../../topics/john-legend/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Los Angeles Convention Center (place)](../../topics/place/los-angeles-convention-center/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Glamorous Life (song)](../../topics/song/the-glamorous-life/index.md), [The Roots](../../topics/the-roots/index.md), [The Time](../../topics/the-time/index.md), [Usher](../../topics/usher/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.hollywoodreporter.com/news/grammys-usher-sheila-e-fka-twigs-perform-prince-tribute-1272924))
 
 ----
@@ -1022,7 +1022,7 @@
  - [**"Lizzo, Charli XCX, Billie Eilish and Lana Del Rey Among 2020 NME Awards Nominees -- Stormzy, The 1975, Yungblud, Foals and Stormzy are also nominated."**](https://www.billboard.com/articles/news/awards/8548499/2020-nme-awards-nominees-list)
     - in [Billboard](../../publications/a-e/billboard/index.md)
     - on 21 January 2020
-    - about [Amazing Grace (movie)](../../topics/movie/amazing-grace/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Beck](../../topics/beck/index.md), [FKA twigs](../../topics/fka-twigs/index.md), [Lizzo](../../topics/lizzo/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)
+    - about [Amazing Grace (movie)](../../topics/movie/amazing-grace/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Beck](../../topics/beck/index.md), [Coachella (event)](../../topics/event/coachella/index.md), [FKA twigs](../../topics/fka-twigs/index.md), [Lizzo](../../topics/lizzo/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/awards/8548499/2020-nme-awards-nominees-list))
 
 ----
@@ -1139,7 +1139,7 @@
  - [**"NME Awards 2020: Full list of nominations revealed -- The winners will be revealed at London's O2 Academy Brixton on February 12."**](https://www.nme.com/news/music/nme-awards-2020-nominations-2598499)
     - in [NME (New Musical Express)](../../publications/k-o/nme-new-musical-express/index.md)
     - on 19 January 2020
-    - about [Amazing Grace (movie)](../../topics/movie/amazing-grace/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Beck](../../topics/beck/index.md), [FKA twigs](../../topics/fka-twigs/index.md), [Lizzo](../../topics/lizzo/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)
+    - about [Amazing Grace (movie)](../../topics/movie/amazing-grace/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Beck](../../topics/beck/index.md), [Coachella (event)](../../topics/event/coachella/index.md), [FKA twigs](../../topics/fka-twigs/index.md), [Lizzo](../../topics/lizzo/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.nme.com/news/music/nme-awards-2020-nominations-2598499))
 
 ----
@@ -1269,7 +1269,7 @@
  - [**"From films at Paisley Park to the new Fillmore, here are four musical events worth catching"**](https://www.twincities.com/2020/01/09/from-films-at-paisley-park-to-the-new-fillmore-here-are-four-musical-events-worth-catching/)
     - in [TwinCities.com - Pioneer Press](../../publications/p-t/twincities-com-pioneer-press/index.md)
     - on 9 January 2020
-    - about [Amazing Grace (movie)](../../topics/movie/amazing-grace/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Dave Chappelle](../../topics/dave-chappelle/index.md), [Dave Chappelle’s Block Party (movie)](../../topics/movie/dave-chappelle-s-block-party/index.md), [exhibit](../../topics/exhibit/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [John Legend](../../topics/john-legend/index.md), [Minnesota History Center](../../topics/minnesota-history-center/index.md), [museum](../../topics/museum/index.md), [Paisley Park Cinema: Music on the Big Screen (event)](../../topics/event/paisley-park-cinema-music-on-the-big-screen/index.md), [The Roots](../../topics/the-roots/index.md), [vault](../../topics/vault/index.md), [Wattstax (movie)](../../topics/movie/wattstax/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md)
+    - about [Amazing Grace (movie)](../../topics/movie/amazing-grace/index.md), [Aretha Franklin](../../topics/aretha-franklin/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Dave Chappelle](../../topics/dave-chappelle/index.md), [Dave Chappelle’s Block Party (movie)](../../topics/movie/dave-chappelle-s-block-party/index.md), [Erykah Badu](../../topics/erykah-badu/index.md), [exhibit](../../topics/exhibit/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [John Legend](../../topics/john-legend/index.md), [Minnesota History Center](../../topics/minnesota-history-center/index.md), [museum](../../topics/museum/index.md), [Paisley Park Cinema: Music on the Big Screen (event)](../../topics/event/paisley-park-cinema-music-on-the-big-screen/index.md), [The Roots](../../topics/the-roots/index.md), [vault](../../topics/vault/index.md), [Wattstax (movie)](../../topics/movie/wattstax/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2020/01/09/from-films-at-paisley-park-to-the-new-fillmore-here-are-four-musical-events-worth-catching/))
 
 ----

@@ -13,7 +13,7 @@
  - [**"Minneapolis will be alive with activity during the Super Bowl"**](https://apnews.com/article/archive-minneapolis-06bbdc75a3da466cbe90d890fe362c72)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 24 December 2017
-    - about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [motorcycle](../../topics/motorcycle/index.md), [museum](../../topics/museum/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md)
+    - about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Mall of America (place)](../../topics/place/mall-of-america/index.md), [motorcycle](../../topics/motorcycle/index.md), [museum](../../topics/museum/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/archive-minneapolis-06bbdc75a3da466cbe90d890fe362c72))
 
 ----
@@ -70,7 +70,7 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 1 December 2017
-    - about [Jimmy “Jam” Harris](../../topics/jimmy-jam-harris/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - about [Coachella (event)](../../topics/event/coachella/index.md), [Jimmy “Jam” Harris](../../topics/jimmy-jam-harris/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/jimmy-jam-terry-lewis-announce-super-bowl-live-lineup-idina-menzel-sheila-e-morris-day-soul-asylum/461298463/))
 
 ----
@@ -763,7 +763,7 @@
 
 ----
 
-## May 2017 (16)
+## May 2017 (17)
 
  - [**"Judge: Sound engineer can’t publish unreleased Prince tracks"**](https://apnews.com/28f8d4317b3b43219621f58a3252addb)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
@@ -863,6 +863,15 @@
 
 ----
 
+ - [**"Prince&#039;s first ex-wife on her new memoir: &#039;A lot of trauma I made myself forget&#039; -- Mayte Garcia is returning to the Twin Cities this week to promote her new book, "The Most Beautiful.""**](https://www.startribune.com/prince-s-first-ex-wife-on-her-new-memoir-a-lot-of-trauma-i-made-myself-forget/421629693/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 8 May 2017
+    - about [Abbott Northwestern Hospital (place)](../../topics/place/abbott-northwestern-hospital/index.md), [Amiir](../../topics/amiir/index.md), [Boy Gregory](../../topics/boy-gregory/index.md), [Joni Rodgers](../../topics/joni-rodgers/index.md), [Mall of America (place)](../../topics/place/mall-of-america/index.md), [Mia Gregory](../../topics/mia-gregory/index.md), [Nordstrom (place)](../../topics/place/nordstrom/index.md), [Oprah (TV show)](../../topics/tv-show/oprah/index.md), [Today Show (TV show)](../../topics/tv-show/today-show/index.md), [Tommy Lee](../../topics/tommy-lee/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-s-first-ex-wife-on-her-new-memoir-a-lot-of-trauma-i-made-myself-forget/421629693/))
+
+----
+
  - [**"Backspin: The Revolution talk Prince's 'Purple Rain' -- (Yahoo)"**](https://www.youtube.com/watch?v=-yCWato9aZ8)
     - in [YouTube](../../publications/u-z/youtube/index.md)
     - on 4 May 2017
@@ -926,7 +935,7 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md), [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 24 April 2017
-    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Super Bowl](../../topics/super-bowl/index.md)
+    - about [Mall of America (place)](../../topics/place/mall-of-america/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Super Bowl](../../topics/super-bowl/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/highlights-from-prince-memorial-weekend-and-advice-for-future-years/420198123/))
 
 ----
@@ -974,7 +983,7 @@
  - [**"Prince’s ex-wife Mayte Garcia pays tribute to late star"**](https://apnews.com/f7d92f7f16cd4330912e7a1674f4c8e7)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 22 April 2017
-    - about [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [perfume](../../topics/perfume/index.md)
+    - about [Amiir](../../topics/amiir/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [perfume](../../topics/perfume/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/f7d92f7f16cd4330912e7a1674f4c8e7))
 
 ----
@@ -1135,7 +1144,7 @@
  - [**"Mayte Garcia on the Prince you didn’t know"**](https://apnews.com/a4115faebefc463a8aad4433e14f5d2b)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 19 April 2017
-    - about [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [The Most Beautiful (book)](../../topics/book/the-most-beautiful/index.md)
+    - about [Amiir](../../topics/amiir/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [The Most Beautiful (book)](../../topics/book/the-most-beautiful/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/a4115faebefc463a8aad4433e14f5d2b))
 
 ----
@@ -1237,7 +1246,7 @@
     - by [Eric Henderson](../../authors/eric-henderson/index.md)
     - in [WCCO - CBS Minnesota](../../publications/u-z/wcco-cbs-minnesota/index.md)
     - on 17 April 2017
-    - about [17 Days (song)](../../topics/song/17-days/index.md), [4 the Tears in Your Eyes (song)](../../topics/song/4-the-tears-in-your-eyes/index.md), [Baby I'm a Star (song)](../../topics/song/baby-i-m-a-star/index.md), [Call My Name (song)](../../topics/song/call-my-name/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Erotic City (song)](../../topics/song/erotic-city/index.md), [Housequake (song)](../../topics/song/housequake/index.md), [How Come U Don't Call Me Anymore (song)](../../topics/song/how-come-u-don-t-call-me-anymore/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [I Wanna Be Your Lover (song)](../../topics/song/i-wanna-be-your-lover/index.md), [I Would Die 4 U (song)](../../topics/song/i-would-die-4-u/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Nasty Girl (song)](../../topics/song/nasty-girl/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Patrice Rushen](../../topics/patrice-rushen/index.md), [Pop Life (song)](../../topics/song/pop-life/index.md), [Raspberry Beret (song)](../../topics/song/raspberry-beret/index.md), [Round and Round (song)](../../topics/song/round-and-round/index.md), [Sex Shooter (song)](../../topics/song/sex-shooter/index.md), [Sometimes It Snows In April (song)](../../topics/song/sometimes-it-snows-in-april/index.md), [Starfish And Coffee (song)](../../topics/song/starfish-and-coffee/index.md), [Tevin Campbell](../../topics/tevin-campbell/index.md), [The Ballad Of Dorothy Parker (song)](../../topics/song/the-ballad-of-dorothy-parker/index.md), [WCCO](../../topics/wcco/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
+    - about [17 Days (song)](../../topics/song/17-days/index.md), [4 the Tears in Your Eyes (song)](../../topics/song/4-the-tears-in-your-eyes/index.md), [Baby I'm a Star (song)](../../topics/song/baby-i-m-a-star/index.md), [Call My Name (song)](../../topics/song/call-my-name/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Erotic City (song)](../../topics/song/erotic-city/index.md), [Housequake (song)](../../topics/song/housequake/index.md), [How Come U Don't Call Me Anymore (song)](../../topics/song/how-come-u-don-t-call-me-anymore/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [I Wanna Be Your Lover (song)](../../topics/song/i-wanna-be-your-lover/index.md), [I Would Die 4 U (song)](../../topics/song/i-would-die-4-u/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Nasty Girl (song)](../../topics/song/nasty-girl/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Oprah (TV show)](../../topics/tv-show/oprah/index.md), [Patrice Rushen](../../topics/patrice-rushen/index.md), [Pop Life (song)](../../topics/song/pop-life/index.md), [Raspberry Beret (song)](../../topics/song/raspberry-beret/index.md), [Round and Round (song)](../../topics/song/round-and-round/index.md), [Sex Shooter (song)](../../topics/song/sex-shooter/index.md), [Sometimes It Snows In April (song)](../../topics/song/sometimes-it-snows-in-april/index.md), [Starfish And Coffee (song)](../../topics/song/starfish-and-coffee/index.md), [Tevin Campbell](../../topics/tevin-campbell/index.md), [The Ballad Of Dorothy Parker (song)](../../topics/song/the-ballad-of-dorothy-parker/index.md), [WCCO](../../topics/wcco/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/top-25-best-prince-songs-of-all-time/))
 
 ----
@@ -1352,7 +1361,7 @@
     - by [Leanne Italie (Associated Press)](../../authors/associated-press/leanne-italie/index.md)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 10 April 2017
-    - about [divorce](../../topics/divorce/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [memoir](../../topics/memoir/index.md), [opioid](../../topics/opioid/index.md), [The Most Beautiful (book)](../../topics/book/the-most-beautiful/index.md), [Vicodin](../../topics/vicodin/index.md)
+    - about [Amiir](../../topics/amiir/index.md), [divorce](../../topics/divorce/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [memoir](../../topics/memoir/index.md), [opioid](../../topics/opioid/index.md), [Oprah (TV show)](../../topics/tv-show/oprah/index.md), [The Most Beautiful (book)](../../topics/book/the-most-beautiful/index.md), [Vicodin](../../topics/vicodin/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/0c93c63651ef4f15adde78e51b38c197))
 
 ----
@@ -1495,7 +1504,7 @@
  - [**"AM Prep-Music -- PRINCE’S EX OPENS UP ABOUT THE DEATH OF THEIR SON"**](https://apnews.com/00a854bad6dc4bea836dcf16182e0978)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 16 March 2017
-    - about [Mayte](../../topics/mayte/index.md), [Pfeiffer syndrome type 2](../../topics/pfeiffer-syndrome-type-2/index.md), [The Most Beautiful (book)](../../topics/book/the-most-beautiful/index.md)
+    - about [Amiir](../../topics/amiir/index.md), [Mayte](../../topics/mayte/index.md), [Pfeiffer syndrome type 2](../../topics/pfeiffer-syndrome-type-2/index.md), [The Most Beautiful (book)](../../topics/book/the-most-beautiful/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/00a854bad6dc4bea836dcf16182e0978))
 
 ----
@@ -1504,7 +1513,7 @@
     - by [The Associated Press](../../authors/the-associated-press/index.md)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 15 March 2017
-    - about [divorce](../../topics/divorce/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [memoir](../../topics/memoir/index.md), [Pfeiffer syndrome type 2](../../topics/pfeiffer-syndrome-type-2/index.md)
+    - about [Amiir](../../topics/amiir/index.md), [divorce](../../topics/divorce/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [memoir](../../topics/memoir/index.md), [Pfeiffer syndrome type 2](../../topics/pfeiffer-syndrome-type-2/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/4353bb4317364ba9b544c3363334fe4b))
 
 ----
@@ -1646,7 +1655,7 @@
  - [**"Remembering Prince’s incredible 2007 Super Bowl halftime show -- It’s the 10th anniversary of one of the best halftime shows ever."**](https://www.sbnation.com/2017/2/4/14463094/super-bowl-halftime-show-prince-2007-purple-rain-retrospective)
     - in [sbnation.com](../../publications/p-t/sbnation-com/index.md)
     - on 5 February 2017
-    - about [1999 (song)](../../topics/song/1999/index.md), [Baby I’m a Star (song)](../../topics/song/baby-i-m-a-star/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Super Bowl XLI (event)](../../topics/event/super-bowl-xli/index.md), [vault](../../topics/vault/index.md), [YouTube](../../topics/youtube/index.md)
+    - about [1999 (song)](../../topics/song/1999/index.md), [Baby I’m a Star (song)](../../topics/song/baby-i-m-a-star/index.md), [Coachella (event)](../../topics/event/coachella/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Super Bowl XLI (event)](../../topics/event/super-bowl-xli/index.md), [vault](../../topics/vault/index.md), [YouTube](../../topics/youtube/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.sbnation.com/2017/2/4/14463094/super-bowl-halftime-show-prince-2007-purple-rain-retrospective))
 
 ----

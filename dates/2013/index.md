@@ -15,6 +15,7 @@
  - [**"C.J.: Lindsey and Tiger get weekend &quot;Privacy&quot; sailing on his yachtly lair"**](https://www.startribune.com/c-j-lindsey-and-tiger-get-weekend-privacy-sailing-on-his-yachtly-lair/197897281/)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 23 November 2013
+    - about [Captain Kirk Douglas](../../topics/captain-kirk-douglas/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/c-j-lindsey-and-tiger-get-weekend-privacy-sailing-on-his-yachtly-lair/197897281/))
 
 ----
@@ -50,6 +51,7 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 18 October 2013
+    - about [Erykah Badu](../../topics/erykah-badu/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/pop-music-spotlight-janelle-monae/228255711/))
 
 ----
@@ -72,7 +74,15 @@
 
 ----
 
-## August 2013 (2)
+## August 2013 (4)
+
+ - [**"C.J.: KARE 11&#039;s Sven gets love peck from a bat"**](https://www.startribune.com/c-j-kare-11-s-sven-gets-love-peck-from-a-bat/221572061/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 28 August 2013
+    - about [Symbolina](../../topics/symbolina/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/c-j-kare-11-s-sven-gets-love-peck-from-a-bat/221572061/))
+
+----
 
  - [**"Our five faves of the moment: &#039;The World&#039;s End,&#039; Questlove&#039;s &#039;Mo Meta Blues&#039; and more"**](https://www.startribune.com/our-five-faves-of-the-moment-the-world-s-end-questlove-s-mo-meta-blues-and-more/220743611/)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
@@ -90,7 +100,23 @@
 
 ----
 
-## July 2013 (2)
+ - [**"C.J.: Prince makes list of top tax liens: $1.6 millon"**](https://www.startribune.com/c-j-prince-makes-list-of-top-tax-liens-1-6-millon/219700081/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 14 August 2013
+    - about [Symbolina](../../topics/symbolina/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/c-j-prince-makes-list-of-top-tax-liens-1-6-millon/219700081/))
+
+----
+
+## July 2013 (3)
+
+ - [**"C.J.: Take note: Pen and paper among parting gifts for Queen Bey"**](https://www.startribune.com/c-j-take-note-pen-and-paper-among-parting-gifts-for-queen-bey/214685701/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 12 July 2013
+    - about [Symbolina](../../topics/symbolina/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/c-j-take-note-pen-and-paper-among-parting-gifts-for-queen-bey/214685701/))
+
+----
 
  - [**"Cracked Actor: The Films of David Bowie To Unspool at Lincoln Center"**](https://variety.com/2013/film/news/cracked-actor-the-films-of-david-bowie-to-unspool-at-lincoln-center-1200504760/)
     - in [Variety](../../publications/u-z/variety/index.md)
@@ -103,6 +129,7 @@
  - [**"C.J.: &#039;America Pie&#039; producer may film in Minnesota"**](https://www.startribune.com/c-j-america-pie-producer-may-film-in-minnesota/213918261/)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 1 July 2013
+    - about [Mall of America (place)](../../topics/place/mall-of-america/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/c-j-america-pie-producer-may-film-in-minnesota/213918261/))
 
 ----
@@ -141,7 +168,7 @@
 
 ----
 
-## May 2013 (8)
+## May 2013 (9)
 
  - [**"Maplewood&#039;s Myth nightclub rises again -- Once left for dead after a messy demise in 2009, the Maplewood venue has a hot summer ahead."**](https://www.startribune.com/maplewood-s-myth-nightclub-rises-again/209546201/)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
@@ -204,16 +231,33 @@
 
 ----
 
-## April 2013 (1)
+ - [**"What&#039;s Prince up to now? -- Prince has been moving all around Chanhassen lately, and yet he still hasn't found time to pay his property taxes."**](https://www.startribune.com/c-j-what-s-prince-up-to-now/94662359/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 3 May 2013
+    - about [Symbolina](../../topics/symbolina/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/c-j-what-s-prince-up-to-now/94662359/))
+
+----
+
+## April 2013 (2)
 
  - [**"C.J.: Will Prince be flattered by kiss-and-tell?"**](https://www.startribune.com/c-j-will-prince-be-flattered-by-kiss-and-tell/205318881/)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 30 April 2013
+    - about [Symbolina](../../topics/symbolina/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/c-j-will-prince-be-flattered-by-kiss-and-tell/205318881/))
 
 ----
 
-## March 2013 (13)
+ - [**"C.J.: Will our Prince testify in MJ case?"**](https://www.startribune.com/c-j-will-our-prince-testify-in-mj-case/200964171/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 1 April 2013
+    - about [Symbolina](../../topics/symbolina/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/c-j-will-our-prince-testify-in-mj-case/200964171/))
+
+----
+
+## March 2013 (14)
 
  - [**"Q&A with C.J.: André Cymone a long way from Revolution, but music endures"**](https://www.startribune.com/q-a-with-c-j-andre-cymone-a-long-way-from-revolution-but-music-endures/200740991/)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
@@ -264,6 +308,7 @@
     - by [C.J.](../../authors/c-j/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 11 March 2013
+    - about [Symbolina](../../topics/symbolina/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/some-swore-they-saw-prince-at-bobby-z-s-heart-gala/197243771/))
 
 ----
@@ -299,6 +344,14 @@
 
 ----
 
+ - [**"C.J.: Immature Prince treats borrowed guitar like his own before tossing it"**](https://www.startribune.com/c-j-immature-prince-treats-borrowed-guitar-like-his-own-before-tossing-it/195179101/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 4 March 2013
+    - about [Symbolina](../../topics/symbolina/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/c-j-immature-prince-treats-borrowed-guitar-like-his-own-before-tossing-it/195179101/))
+
+----
+
  - [**"C.J.: Bobby Z&#039;s still full of love for Prince"**](https://www.startribune.com/c-j-bobby-z-s-still-full-of-love-for-prince/194535821/)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 2 March 2013
@@ -314,13 +367,21 @@
 
 ----
 
-## February 2013 (4)
+## February 2013 (6)
 
  - [**"Item World: Duluth student hangs with Ben Affleck at Oscars, Prince Week in NYC, more"**](https://www.startribune.com/item-world-duluth-student-hangs-with-ben-affleck-at-oscars-prince-week-in-nyc-more/193927421/)
     - by [Claude Peck](../../authors/claude-peck/index.md), [Graydon Royce](../../authors/graydon-royce/index.md), [Jon Bream](../../authors/jon-bream/index.md), [Laurie Hertzel](../../authors/laurie-hertzel/index.md), [Neal Justin](../../authors/neal-justin/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 28 February 2013
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/item-world-duluth-student-hangs-with-ben-affleck-at-oscars-prince-week-in-nyc-more/193927421/))
+
+----
+
+ - [**"C.J.: WCCO&#039;s Santaniello gets caught in a fur-trimmed trapper hat"**](https://www.startribune.com/c-j-wcco-s-santaniello-gets-caught-in-a-fur-trimmed-trapper-hat/193712721/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 27 February 2013
+    - about [Nordstrom (place)](../../topics/place/nordstrom/index.md), [Symbolina](../../topics/symbolina/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/c-j-wcco-s-santaniello-gets-caught-in-a-fur-trimmed-trapper-hat/193712721/))
 
 ----
 
@@ -338,6 +399,14 @@
     - on 21 February 2013
     - about [Michael Jackson](../../topics/michael-jackson/index.md), [Weird Al Yankovic](../../topics/weird-al-yankovic/index.md)
     - ([mirror](https://web.archive.org/web/*/http://www.citypages.com/music/why-prince-should-let-weird-al-yankovic-parody-his-songs-6619434))
+
+----
+
+ - [**"C.J.: Jason Matheson reportedly leaving Fox 9 -- Word has it Jason Matheson is leaving Fox 9 after 12 years."**](https://www.startribune.com/c-j-jason-matheson-reportedly-leaving-fox-9/190766631/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 11 February 2013
+    - about [Symbolina](../../topics/symbolina/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/c-j-jason-matheson-reportedly-leaving-fox-9/190766631/))
 
 ----
 

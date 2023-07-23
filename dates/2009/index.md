@@ -5,6 +5,7 @@
  - [**"C.J.: Look out! Melinda is hooked on Meier -- Melinda Jacobs kept getting her hooks into a man while fishing for an episode of "Cook What You Catch with Randy Meier.""**](https://www.startribune.com/look-out-melinda-is-hooked-on-meier/34778854/)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 18 August 2009
+    - about [Symbolina](../../topics/symbolina/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/look-out-melinda-is-hooked-on-meier/34778854/))
 
 ----
@@ -57,7 +58,15 @@
 
 ----
 
-## February 2009 (1)
+## February 2009 (2)
+
+ - [**"Keillor&#039;s marital status on Facebook? It&#039;s (not that) complicated -- Twenty-four hours of un-wedded abyss came to an end at 4:34 p.m. Monday for Garrison Keillor."**](https://www.startribune.com/keillor-s-marital-status-on-facebook-it-s-not-that-complicated/39691517/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 16 February 2009
+    - about [Symbolina](../../topics/symbolina/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/keillor-s-marital-status-on-facebook-it-s-not-that-complicated/39691517/))
+
+----
 
  - [**"Pick Six: A half-dozen cool things in music"**](https://www.startribune.com/pick-six-a-half-dozen-cool-things-in-music/39526827/)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
@@ -81,7 +90,7 @@
     - by [Ann Powers](../../authors/ann-powers/index.md)
     - in [latimesblogs.latimes.com](../../publications/k-o/latimesblogs-latimes-com/index.md)
     - on 8 January 2009
-    - about [Ani DiFranco](../../topics/ani-difranco/index.md), [Better With Time (song)](../../topics/song/better-with-time/index.md), [Bria Valente](../../topics/bria-valente/index.md), [Carlos Santana](../../topics/carlos-santana/index.md), [Earth, Wind and Fire](../../topics/earth-wind-and-fire/index.md), [Esperanza Spalding](../../topics/esperanza-spalding/index.md), [Janelle Monae](../../topics/janelle-monae/index.md), [Kristin Scott Thomas](../../topics/kristin-scott-thomas/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Morris Hayes](../../topics/morris-hayes/index.md), [MPLSoUND (album)](../../topics/album/mplsound/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Paisley Park Studios (place)](../../topics/place/paisley-park-studios/index.md), [perfume](../../topics/perfume/index.md), [Shelby J.](../../topics/shelby-j/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Tamar Davis](../../topics/tamar-davis/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
+    - about [Ani DiFranco](../../topics/ani-difranco/index.md), [Better With Time (song)](../../topics/song/better-with-time/index.md), [Bria Valente](../../topics/bria-valente/index.md), [Carlos Santana](../../topics/carlos-santana/index.md), [Coachella (event)](../../topics/event/coachella/index.md), [Earth, Wind and Fire](../../topics/earth-wind-and-fire/index.md), [Esperanza Spalding](../../topics/esperanza-spalding/index.md), [Janelle Monae](../../topics/janelle-monae/index.md), [Kristin Scott Thomas](../../topics/kristin-scott-thomas/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Morris Hayes](../../topics/morris-hayes/index.md), [MPLSoUND (album)](../../topics/album/mplsound/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Paisley Park Studios (place)](../../topics/place/paisley-park-studios/index.md), [perfume](../../topics/perfume/index.md), [Shelby J.](../../topics/shelby-j/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Tamar Davis](../../topics/tamar-davis/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/http://latimesblogs.latimes.com/music_blog/2009/01/one-night-with.html))
 
 ----

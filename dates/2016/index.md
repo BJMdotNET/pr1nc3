@@ -14,7 +14,7 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 30 December 2016
-    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md)
+    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Tommy Barbarella](../../topics/tommy-barbarella/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/artist-of-the-year-2016-prince-s-memorials-were-the-year-s-rock-stars/408655055/))
 
 ----
@@ -55,7 +55,7 @@
  - [**"Prince’s Closest Friends Share Their Best Prince Stories -- From Van Jones to Carmen Electra, publicists to Paisley Park members, those close to Prince Rogers Nelson tell tales—ordinary and out there—of the late legend."**](https://www.gq.com/story/prince-stories)
     - in [GQ](../../publications/f-j/gq/index.md)
     - on 8 December 2016
-    - about [Albert Magnoli](../../topics/albert-magnoli/index.md), [American Bandstand](../../topics/american-bandstand/index.md), [André Cymone](../../topics/andr-cymone/index.md), [Audubon Road (place)](../../topics/place/audubon-road/index.md), [Bangles](../../topics/bangles/index.md), [Cat Glover](../../topics/cat-glover/index.md), [Central High](../../topics/central-high/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Chappelle's Show (TV show)](../../topics/tv-show/chappelle-s-show/index.md), [Charlie Murphy](../../topics/charlie-murphy/index.md), [Corey Tollefson](../../topics/corey-tollefson/index.md), [Dave Chappelle](../../topics/dave-chappelle/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [divorce](../../topics/divorce/index.md), [Gwen Stefani](../../topics/gwen-stefani/index.md), [Jeremiah Freed](../../topics/jeremiah-freed/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Kandace Springs](../../topics/kandace-springs/index.md), [Lake Minnetonka (place)](../../topics/place/lake-minnetonka/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Mayte](../../topics/mayte/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Micki Free](../../topics/micki-free/index.md), [Misty Copeland](../../topics/misty-copeland/index.md), [Morris Hayes](../../topics/morris-hayes/index.md), [Neal Karlen](../../topics/neal-karlen/index.md), [Netflix](../../topics/netflix/index.md), [NPG Records](../../topics/npg-records/index.md), [Obama](../../topics/obama/index.md), [Owen Husney](../../topics/owen-husney/index.md), [ping-pong](../../topics/ping-pong/index.md), [piracy](../../topics/piracy/index.md), [St. Louis Park (place)](../../topics/place/st-louis-park/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [The Gold Experience (album)](../../topics/album/the-gold-experience/index.md), [The Revolution](../../topics/the-revolution/index.md), [Van Jones](../../topics/van-jones/index.md), [Vanity](../../topics/vanity/index.md), [vault](../../topics/vault/index.md), [White House (place)](../../topics/place/white-house/index.md), [YouTube](../../topics/youtube/index.md)
+    - about [Albert Magnoli](../../topics/albert-magnoli/index.md), [American Bandstand](../../topics/american-bandstand/index.md), [André Cymone](../../topics/andr-cymone/index.md), [Audubon Road (place)](../../topics/place/audubon-road/index.md), [Bangles](../../topics/bangles/index.md), [Cat Glover](../../topics/cat-glover/index.md), [Central High](../../topics/central-high/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Chappelle's Show (TV show)](../../topics/tv-show/chappelle-s-show/index.md), [Charlie Murphy](../../topics/charlie-murphy/index.md), [Corey Tollefson](../../topics/corey-tollefson/index.md), [Dave Chappelle](../../topics/dave-chappelle/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [divorce](../../topics/divorce/index.md), [Gwen Stefani](../../topics/gwen-stefani/index.md), [Jeremiah Freed](../../topics/jeremiah-freed/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Kandace Springs](../../topics/kandace-springs/index.md), [Lake Minnetonka (place)](../../topics/place/lake-minnetonka/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Mall of America (place)](../../topics/place/mall-of-america/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Mayte](../../topics/mayte/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Micki Free](../../topics/micki-free/index.md), [Misty Copeland](../../topics/misty-copeland/index.md), [Morris Hayes](../../topics/morris-hayes/index.md), [Neal Karlen](../../topics/neal-karlen/index.md), [Netflix](../../topics/netflix/index.md), [NPG Records](../../topics/npg-records/index.md), [Obama](../../topics/obama/index.md), [Oprah (TV show)](../../topics/tv-show/oprah/index.md), [Owen Husney](../../topics/owen-husney/index.md), [ping-pong](../../topics/ping-pong/index.md), [piracy](../../topics/piracy/index.md), [St. Louis Park (place)](../../topics/place/st-louis-park/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [The Gold Experience (album)](../../topics/album/the-gold-experience/index.md), [The Revolution](../../topics/the-revolution/index.md), [Van Jones](../../topics/van-jones/index.md), [Vanity](../../topics/vanity/index.md), [vault](../../topics/vault/index.md), [White House (place)](../../topics/place/white-house/index.md), [YouTube](../../topics/youtube/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.gq.com/story/prince-stories))
 
 ----
@@ -234,13 +234,21 @@
 
 ----
 
-## October 2016 (29)
+## October 2016 (30)
 
  - [**"Judge rejects claim to Prince estate from woman and girl"**](https://apnews.com/26dcb05f3dc549dd8d6f415e3b6f2602)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 27 October 2016
     - about [Brianna Nelson](../../topics/brianna-nelson/index.md), [Carver County](../../topics/carver-county/index.md), [Duane Nelson](../../topics/duane-nelson/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Victoria Nelson](../../topics/victoria-nelson/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/26dcb05f3dc549dd8d6f415e3b6f2602))
+
+----
+
+ - [**"Prince&#039;s &#039;wall of security&#039; didn&#039;t keep Tommy Smith from getting great photos"**](https://www.startribune.com/c-j-prince-s-wall-of-security-didn-t-keep-tommy-smith-from-getting-great-photos/398541311/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 26 October 2016
+    - about [Symbolina](../../topics/symbolina/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/c-j-prince-s-wall-of-security-didn-t-keep-tommy-smith-from-getting-great-photos/398541311/))
 
 ----
 
@@ -297,7 +305,7 @@
  - [**"Prince's Most NSFW Lyrics: 10 Times He Would Have Had to Pay The Swear Jar"**](https://www.billboard.com/articles/columns/pop/7542026/prince-lyrics-most-nsfw-songs)
     - in [Billboard](../../publications/a-e/billboard/index.md)
     - on 16 October 2016
-    - about [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [Netflix](../../topics/netflix/index.md), [Sheena Easton](../../topics/sheena-easton/index.md), [Sugar Walls (song)](../../topics/song/sugar-walls/index.md), [The Gold Experience (album)](../../topics/album/the-gold-experience/index.md)
+    - about [Cheo Hodari Coker](../../topics/cheo-hodari-coker/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [Netflix](../../topics/netflix/index.md), [Sheena Easton](../../topics/sheena-easton/index.md), [Sugar Walls (song)](../../topics/song/sugar-walls/index.md), [The Gold Experience (album)](../../topics/album/the-gold-experience/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/columns/pop/7542026/prince-lyrics-most-nsfw-songs))
 
 ----
@@ -463,7 +471,7 @@
  - [**"The Latest: Paisley Park gets temporary permit for 3 days"**](https://apnews.com/73fd90f56feb4f4a8cb841127f205ee1)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 4 October 2016
-    - about [Bremer Trust](../../topics/bremer-trust/index.md), [exhibition](../../topics/exhibition/index.md), [museum](../../topics/museum/index.md)
+    - about [Bremer Trust](../../topics/bremer-trust/index.md), [exhibition](../../topics/exhibition/index.md), [Mall of America (place)](../../topics/place/mall-of-america/index.md), [museum](../../topics/museum/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/73fd90f56feb4f4a8cb841127f205ee1))
 
 ----
@@ -1057,7 +1065,7 @@
     - by [Mesfin Fekadu (Associated Press)](../../authors/associated-press/mesfin-fekadu/index.md)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 28 July 2016
-    - about [Janelle Monae](../../topics/janelle-monae/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [The Roots](../../topics/the-roots/index.md), [Tori Kelly](../../topics/tori-kelly/index.md)
+    - about [Erykah Badu](../../topics/erykah-badu/index.md), [Janelle Monae](../../topics/janelle-monae/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [The Roots](../../topics/the-roots/index.md), [Tori Kelly](../../topics/tori-kelly/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/08568057d51c46f8a3daf99e36db5e38))
 
 ----
@@ -1098,7 +1106,7 @@
     - by [Mesfin Fekadu (Associated Press)](../../authors/associated-press/mesfin-fekadu/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 28 July 2016
-    - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [BET Awards](../../topics/bet-awards/index.md), [Beyoncé](../../topics/beyonc/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Janelle Monae](../../topics/janelle-monae/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Roots](../../topics/the-roots/index.md), [The Time](../../topics/the-time/index.md), [Tori Kelly](../../topics/tori-kelly/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)
+    - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [BET Awards](../../topics/bet-awards/index.md), [Beyoncé](../../topics/beyonc/index.md), [Erykah Badu](../../topics/erykah-badu/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Janelle Monae](../../topics/janelle-monae/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Roots](../../topics/the-roots/index.md), [The Time](../../topics/the-time/index.md), [Tori Kelly](../../topics/tori-kelly/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/apnewsbreak-official-prince-tribute-concert-set-for-october/388585801/))
 
 ----
@@ -1314,7 +1322,7 @@
  - [**"BET Awards full of Prince tributes and political moments"**](https://apnews.com/6b28e8f305564390bd4b11732e176683)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 27 June 2016
-    - about [BET Awards](../../topics/bet-awards/index.md), [Donald Trump](../../topics/donald-trump/index.md), [Janelle Monae](../../topics/janelle-monae/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Ballad Of Dorothy Parker (song)](../../topics/song/the-ballad-of-dorothy-parker/index.md), [Trump](../../topics/trump/index.md)
+    - about [BET Awards](../../topics/bet-awards/index.md), [Donald Trump](../../topics/donald-trump/index.md), [Erykah Badu](../../topics/erykah-badu/index.md), [Janelle Monae](../../topics/janelle-monae/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Ballad Of Dorothy Parker (song)](../../topics/song/the-ballad-of-dorothy-parker/index.md), [Trump](../../topics/trump/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/6b28e8f305564390bd4b11732e176683))
 
 ----
@@ -3078,7 +3086,7 @@
  - [**"Prince was a one-man band and a friend to many others"**](https://apnews.com/508256962cd942f3bc61e1cc034900ad)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 25 April 2016
-    - about [Bangles](../../topics/bangles/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Cyndi Lauper](../../topics/cyndi-lauper/index.md), [Esperanza Spalding](../../topics/esperanza-spalding/index.md), [Grammy Award](../../topics/grammy-award/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Kandace Springs](../../topics/kandace-springs/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Rita Ora](../../topics/rita-ora/index.md), [royalties](../../topics/royalties/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stand Back (song)](../../topics/song/stand-back/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [YouTube](../../topics/youtube/index.md)
+    - about [Bangles](../../topics/bangles/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Cyndi Lauper](../../topics/cyndi-lauper/index.md), [Erykah Badu](../../topics/erykah-badu/index.md), [Esperanza Spalding](../../topics/esperanza-spalding/index.md), [Grammy Award](../../topics/grammy-award/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Kandace Springs](../../topics/kandace-springs/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Rita Ora](../../topics/rita-ora/index.md), [royalties](../../topics/royalties/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stand Back (song)](../../topics/song/stand-back/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [YouTube](../../topics/youtube/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/508256962cd942f3bc61e1cc034900ad))
 
 ----
@@ -3086,7 +3094,7 @@
  - [**"Prince, un hombre orquesta y un amigo para muchos"**](https://apnews.com/article/archive-0cd78570b8f24969999622976c4cf547)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 25 April 2016
-    - about [Bangles](../../topics/bangles/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Cyndi Lauper](../../topics/cyndi-lauper/index.md), [Esperanza Spalding](../../topics/esperanza-spalding/index.md), [Fleetwood Mac](../../topics/fleetwood-mac/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Kandace Springs](../../topics/kandace-springs/index.md), [Ken Ehrlich](../../topics/ken-ehrlich/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Rita Ora](../../topics/rita-ora/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stand Back (song)](../../topics/song/stand-back/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md)
+    - about [Bangles](../../topics/bangles/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Cyndi Lauper](../../topics/cyndi-lauper/index.md), [Erykah Badu](../../topics/erykah-badu/index.md), [Esperanza Spalding](../../topics/esperanza-spalding/index.md), [Fleetwood Mac](../../topics/fleetwood-mac/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Kandace Springs](../../topics/kandace-springs/index.md), [Ken Ehrlich](../../topics/ken-ehrlich/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Rita Ora](../../topics/rita-ora/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stand Back (song)](../../topics/song/stand-back/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/archive-0cd78570b8f24969999622976c4cf547))
 
 ----
@@ -3371,7 +3379,7 @@
  - [**"A synthesizer of sounds, Prince ‘rewrote the rulebook’"**](https://apnews.com/c07d6a9a2752405fa8ed91e8d949806a)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 22 April 2016
-    - about [Bangles](../../topics/bangles/index.md), [contract](../../topics/contract/index.md), [Cyndi Lauper](../../topics/cyndi-lauper/index.md), [Frank Zappa](../../topics/frank-zappa/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Obama](../../topics/obama/index.md), [Parents Music Resource Center](../../topics/parents-music-resource-center/index.md), [Roger Ebert](../../topics/roger-ebert/index.md), [The Time](../../topics/the-time/index.md), [White House (place)](../../topics/place/white-house/index.md)
+    - about [Bangles](../../topics/bangles/index.md), [contract](../../topics/contract/index.md), [Cyndi Lauper](../../topics/cyndi-lauper/index.md), [Frank Zappa](../../topics/frank-zappa/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Obama](../../topics/obama/index.md), [Oprah (TV show)](../../topics/tv-show/oprah/index.md), [Parents Music Resource Center](../../topics/parents-music-resource-center/index.md), [Roger Ebert](../../topics/roger-ebert/index.md), [The Time](../../topics/the-time/index.md), [White House (place)](../../topics/place/white-house/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/c07d6a9a2752405fa8ed91e8d949806a))
 
 ----
@@ -3476,7 +3484,7 @@
  - [**"Oprah, Mick Jagger among celebs to react to Prince’s death"**](https://apnews.com/ad3076cbbe69473495debc13e52669c5)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 22 April 2016
-    - about [Albert Magnoli](../../topics/albert-magnoli/index.md), [Grammy Award](../../topics/grammy-award/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Obama](../../topics/obama/index.md), [Rita Ora](../../topics/rita-ora/index.md), [Sony Music](../../topics/sony-music/index.md), [Spike Lee](../../topics/spike-lee/index.md), [Super Bowl](../../topics/super-bowl/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
+    - about [Albert Magnoli](../../topics/albert-magnoli/index.md), [Grammy Award](../../topics/grammy-award/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Obama](../../topics/obama/index.md), [Oprah (TV show)](../../topics/tv-show/oprah/index.md), [Rita Ora](../../topics/rita-ora/index.md), [Sony Music](../../topics/sony-music/index.md), [Spike Lee](../../topics/spike-lee/index.md), [Super Bowl](../../topics/super-bowl/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/ad3076cbbe69473495debc13e52669c5))
 
 ----
@@ -3484,7 +3492,7 @@
  - [**"Pop superstar Prince dies at his Minnesota home at age 57"**](https://apnews.com/b9e3df0421a04344835cd4fac7680c24)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 22 April 2016
-    - about [Bangles](../../topics/bangles/index.md), [contract](../../topics/contract/index.md), [Cyndi Lauper](../../topics/cyndi-lauper/index.md), [Frank Zappa](../../topics/frank-zappa/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Obama](../../topics/obama/index.md), [Parents Music Resource Center](../../topics/parents-music-resource-center/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md), [White House (place)](../../topics/place/white-house/index.md)
+    - about [Bangles](../../topics/bangles/index.md), [contract](../../topics/contract/index.md), [Cyndi Lauper](../../topics/cyndi-lauper/index.md), [Frank Zappa](../../topics/frank-zappa/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Obama](../../topics/obama/index.md), [Oprah (TV show)](../../topics/tv-show/oprah/index.md), [Parents Music Resource Center](../../topics/parents-music-resource-center/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md), [White House (place)](../../topics/place/white-house/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/b9e3df0421a04344835cd4fac7680c24))
 
 ----
@@ -3492,7 +3500,7 @@
  - [**"Prince “reescribió las reglas” de la música"**](https://apnews.com/article/dbe5c9245d024a89bca2376ee8b631c0)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 22 April 2016
-    - about [Bangles](../../topics/bangles/index.md), [Black Album (album)](../../topics/album/black-album/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Cyndi Lauper](../../topics/cyndi-lauper/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [Eden Prairie (place)](../../topics/place/eden-prairie/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Frank Zappa](../../topics/frank-zappa/index.md), [James Brown](../../topics/james-brown/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Morris Day](../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Parents Music Resource Center](../../topics/parents-music-resource-center/index.md), [Roger Ebert](../../topics/roger-ebert/index.md), [The Black Album (album)](../../topics/album/the-black-album/index.md), [Tidal](../../topics/tidal/index.md), [Tipper Gore](../../topics/tipper-gore/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md), [Yvette Noel-Schure](../../topics/yvette-noel-schure/index.md)
+    - about [Bangles](../../topics/bangles/index.md), [Black Album (album)](../../topics/album/black-album/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Cyndi Lauper](../../topics/cyndi-lauper/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [Eden Prairie (place)](../../topics/place/eden-prairie/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Frank Zappa](../../topics/frank-zappa/index.md), [James Brown](../../topics/james-brown/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Morris Day](../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Oprah (TV show)](../../topics/tv-show/oprah/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Parents Music Resource Center](../../topics/parents-music-resource-center/index.md), [Roger Ebert](../../topics/roger-ebert/index.md), [The Black Album (album)](../../topics/album/the-black-album/index.md), [Tidal](../../topics/tidal/index.md), [Tipper Gore](../../topics/tipper-gore/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md), [Yvette Noel-Schure](../../topics/yvette-noel-schure/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/dbe5c9245d024a89bca2376ee8b631c0))
 
 ----
@@ -3541,7 +3549,7 @@
  - [**"Prince, hugely inventive, influential musician, dead at 57"**](https://apnews.com/988e107cf6964494b58ad2ca9bcd0985)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 22 April 2016
-    - about [Academy Award](../../topics/academy-award/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Bangles](../../topics/bangles/index.md), [contract](../../topics/contract/index.md), [Cyndi Lauper](../../topics/cyndi-lauper/index.md), [Frank Zappa](../../topics/frank-zappa/index.md), [I Wanna Be Your Lover (song)](../../topics/song/i-wanna-be-your-lover/index.md), [James Brown](../../topics/james-brown/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Obama](../../topics/obama/index.md), [Parents Music Resource Center](../../topics/parents-music-resource-center/index.md), [Roger Ebert](../../topics/roger-ebert/index.md), [Tidal](../../topics/tidal/index.md), [Vanity](../../topics/vanity/index.md), [White House (place)](../../topics/place/white-house/index.md)
+    - about [Academy Award](../../topics/academy-award/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Bangles](../../topics/bangles/index.md), [contract](../../topics/contract/index.md), [Cyndi Lauper](../../topics/cyndi-lauper/index.md), [Frank Zappa](../../topics/frank-zappa/index.md), [I Wanna Be Your Lover (song)](../../topics/song/i-wanna-be-your-lover/index.md), [James Brown](../../topics/james-brown/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Obama](../../topics/obama/index.md), [Oprah (TV show)](../../topics/tv-show/oprah/index.md), [Parents Music Resource Center](../../topics/parents-music-resource-center/index.md), [Roger Ebert](../../topics/roger-ebert/index.md), [Tidal](../../topics/tidal/index.md), [Vanity](../../topics/vanity/index.md), [White House (place)](../../topics/place/white-house/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/988e107cf6964494b58ad2ca9bcd0985))
 
 ----
@@ -3787,7 +3795,7 @@
     - by [Star Tribune staff](../../authors/star-tribune-staff/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 21 April 2016
-    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [Tommy Barbarella](../../topics/tommy-barbarella/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-an-oral-history-in-the-beginning/51508747/))
 
 ----
@@ -3998,7 +4006,7 @@
     - by [C.J. (Cheryl Johnson)](../../authors/c-j-cheryl-johnson/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 15 April 2016
-    - about [airport](../../topics/airport/index.md), [C.J.](../../topics/c-j/index.md), [memoir](../../topics/memoir/index.md), [Neal Karlen](../../topics/neal-karlen/index.md)
+    - about [airport](../../topics/airport/index.md), [C.J.](../../topics/c-j/index.md), [memoir](../../topics/memoir/index.md), [Neal Karlen](../../topics/neal-karlen/index.md), [Symbolina](../../topics/symbolina/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/c-j-writing-a-book-with-prince-would-be-a-nightmare-job-says-neal-karlen-who-loves-the-purple-guy/375907901/))
 
 ----
@@ -4027,7 +4035,7 @@
 
 ----
 
-## March 2016 (10)
+## March 2016 (11)
 
  - [**"C.J.: Prince's memoir will be a beauty if he gives his take on my questions"**](https://www.startribune.com/c-j-prince-s-memoir-will-be-a-beauty-if-he-gives-his-take-on-my-questions/373295271/)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
@@ -4081,6 +4089,14 @@
 
 ----
 
+ - [**"C.J.: Cuteness alert: KARE 11 anchors Williams and Hepola expecting twins"**](https://www.startribune.com/c-j-cuteness-alert-kare-11-anchors-williams-and-hepola-expecting-twins/372039801/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 14 March 2016
+    - about [Symbolina](../../topics/symbolina/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/c-j-cuteness-alert-kare-11-anchors-williams-and-hepola-expecting-twins/372039801/))
+
+----
+
  - [**"Prince gives surprise (brief) performance at Chanhassen Dinner Theatres"**](https://www.startribune.com/prince-gives-surprise-brief-performance-at-chanhassen-dinner-theatres/371944961/)
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
@@ -4131,7 +4147,7 @@
  - [**"C.J.: James Corden is not vague about examining Prince's facial hair"**](https://www.startribune.com/c-j-james-corden-is-not-vague-about-examining-prince-s-facial-hair/370042781/)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 25 February 2016
-    - about [C.J.](../../topics/c-j/index.md), [Donald Trump](../../topics/donald-trump/index.md), [Trump](../../topics/trump/index.md)
+    - about [C.J.](../../topics/c-j/index.md), [Donald Trump](../../topics/donald-trump/index.md), [Symbolina](../../topics/symbolina/index.md), [Trump](../../topics/trump/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/c-j-james-corden-is-not-vague-about-examining-prince-s-facial-hair/370042781/))
 
 ----
@@ -4176,6 +4192,7 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 11 February 2016
+    - about [Erykah Badu](../../topics/erykah-badu/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/a-royal-homecoming-for-king-buzzing-r-b-trio-with-minneapolis-roots/368488381/))
 
 ----
@@ -4226,7 +4243,7 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 26 January 2016
-    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Monte Moir](../../topics/monte-moir/index.md), [Morris Day](../../topics/morris-day/index.md)
+    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Mall of America (place)](../../topics/place/mall-of-america/index.md), [Monte Moir](../../topics/monte-moir/index.md), [Morris Day](../../topics/morris-day/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/it-s-party-time-at-paisley-morris-day-to-play-prince-s-place-friday/366612721/))
 
 ----
