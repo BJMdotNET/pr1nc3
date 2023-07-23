@@ -85,7 +85,17 @@
 
 ----
 
-## August 2012 (6)
+## September 2012 (1)
+
+ - [**"Prince sports new retro afro, song"**](https://www.startribune.com/prince-sports-new-retro-afro-song/170049356/)
+    - by [Chris Riemenschneider](../../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 17 September 2012
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-sports-new-retro-afro-song/170049356/))
+
+----
+
+## August 2012 (8)
 
  - [**"@work: Twins&#039; tunesmith Kevin Dutcher -- Minnesota Twins' music director Kevin Dutcher can't wait to crank up the volume at Target Field."**](https://www.startribune.com/work-twins-tunesmith-kevin-dutcher/89449282/)
     - by [Todd Nelson](../../../authors/todd-nelson/index.md)
@@ -115,6 +125,7 @@
     - by [Jon Bream](../../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 17 August 2012
+    - about [Super Bowl](../../../topics/super-bowl/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/music-drummer-bobby-z-is-keeping-the-beat/139390048/))
 
 ----
@@ -127,11 +138,28 @@
 
 ----
 
+ - [**"The Crawl: A Revolution without a Prince -- News and notes from the scene."**](https://www.startribune.com/the-crawl-a-revolution-without-a-prince/140072913/)
+    - by [Staff](../../../authors/staff/index.md)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 17 August 2012
+    - about [Jimmy Jam](../../../topics/jimmy-jam/index.md), [Terry Lewis](../../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/the-crawl-a-revolution-without-a-prince/140072913/))
+
+----
+
  - [**"The Crawl: Fun facts about the new Psycho Suzi&#039;s -- News and notes from the scene."**](https://www.startribune.com/the-crawl-fun-facts-about-the-new-psycho-suzi-s/111560194/)
     - by [Staff](../../../authors/staff/index.md)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 17 August 2012
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/the-crawl-fun-facts-about-the-new-psycho-suzi-s/111560194/))
+
+----
+
+ - [**"The Crawl: St. Paul library is quiet no more -- News and notes from the scene."**](https://www.startribune.com/the-crawl-st-paul-library-is-quiet-no-more/138568344/)
+    - by [Staff](../../../authors/staff/index.md)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 17 August 2012
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/the-crawl-st-paul-library-is-quiet-no-more/138568344/))
 
 ----
 
@@ -209,11 +237,20 @@
     - by 
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 5 March 2012
+    - about [Jimmy Jam](../../../topics/jimmy-jam/index.md), [Terry Lewis](../../../topics/terry-lewis/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/twin-cities-recording-engineer-producer-teacher-tom-tucker-dies/141392973/))
 
 ----
 
-## February 2012 (4)
+## February 2012 (8)
+
+ - [**"It was evening of Purple pride with Revolution & Questlove @ First Ave"**](https://www.startribune.com/purple-pride-with-revolution-questlove-first-ave/139678873/)
+    - by [Jon Bream](../../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 20 February 2012
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/purple-pride-with-revolution-questlove-first-ave/139678873/))
+
+----
 
  - [**"Revolution puts heart in reunion -- Prince's "Purple Rain" band staged a benefit to mark drummer Bobby Z's recovery from a heart attack."**](https://www.startribune.com/revolution-puts-heart-in-reunion/139664853/)
     - by [Jon Bream](../../../authors/jon-bream/index.md)
@@ -223,11 +260,36 @@
 
 ----
 
+ - [**"Drummer Bobby Z&#039;s purple heart is still beating -- Bobby Z reunites Prince's "Purple Rain" band to keep the rhythm going in more ways than one."**](https://www.startribune.com/drummer-bobby-z-s-purple-heart-is-still-beating/139481378/)
+    - by [Jon Bream](../../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 18 February 2012
+    - about [Super Bowl](../../../topics/super-bowl/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/drummer-bobby-z-s-purple-heart-is-still-beating/139481378/))
+
+----
+
+ - [**"A quick Q&A with Questlove -- Questlove, leader of the Roots, will DJ the afterparty following Sunday's show. He called from New York after a taping of "Late Night With Jimmy Fallon.""**](https://www.startribune.com/a-quick-q-a-with-questlove/139481358/)
+    - by [Jon Bream](../../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 17 February 2012
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/a-quick-q-a-with-questlove/139481358/))
+
+----
+
  - [**"See the Revolutionary clip of Prince raising "Purple Rain" at First Ave"**](https://www.startribune.com/see-the-revolutionary-footage-of-prince-raising-purple-rain/139526103/)
     - by [Chris Riemenschneider](../../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 17 February 2012
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/see-the-revolutionary-footage-of-prince-raising-purple-rain/139526103/))
+
+----
+
+ - [**"Prince dines with Bobby Z but will he play with Revolution on Sunday?"**](https://www.startribune.com/prince-dines-with-bobby-z-but-will-he-play-sunday-with-revolution/139424928/)
+    - by [Jon Bream](../../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 16 February 2012
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-dines-with-bobby-z-but-will-he-play-sunday-with-revolution/139424928/))
 
 ----
 
@@ -243,6 +305,33 @@
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 1 February 2012
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/c-j-kim-sheds-crocodile-tears-over-a-bad-business-decision/138531924/))
+
+----
+
+## January 2012 (3)
+
+ - [**"Item World: Local news and views for 1/27 -- An Ides of March moment at the Guthrie. Plus Shatner comes to town."**](https://www.startribune.com/item-world-local-news-and-views-for-1-27/138137303/)
+    - by [Star Tribune staff](../../../authors/star-tribune-staff/index.md)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 26 January 2012
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/item-world-local-news-and-views-for-1-27/138137303/))
+
+----
+
+ - [**"Questlove to lead Revolution reunion after-party Feb. 19"**](https://www.startribune.com/questlove-to-lead-revolution-reunion-after-party-feb-19/138093068/)
+    - by [Chris Riemenschneider](../../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 26 January 2012
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/questlove-to-lead-revolution-reunion-after-party-feb-19/138093068/))
+
+----
+
+ - [**"Jesse Johnson quits the Original 7ven (aka the Time)"**](https://www.startribune.com/jesse-johnson-quits-the-original-7ven-aka-the-time/137615848/)
+    - by [Jon Bream](../../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 18 January 2012
+    - about [Jellybean Johnson](../../../topics/jellybean-johnson/index.md), [Jerome Benton](../../../topics/jerome-benton/index.md), [Jimmy Jam](../../../topics/jimmy-jam/index.md), [Monte Moir](../../../topics/monte-moir/index.md), [Morris Day](../../../topics/morris-day/index.md), [Terry Lewis](../../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/jesse-johnson-quits-the-original-7ven-aka-the-time/137615848/))
 
 ----
 

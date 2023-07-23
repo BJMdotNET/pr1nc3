@@ -9,7 +9,7 @@
 
 ----
 
-## October 2013 (2)
+## October 2013 (4)
 
  - [**"Cyndi Lauper's "Unusual" charm shines at Mill City Nights"**](https://www.startribune.com/cyndi-lauper-s-unusual-charm-shines-at-mill-city-nights/230047071/)
     - by [Chris Riemenschneider](../../../authors/chris-riemenschneider/index.md)
@@ -19,11 +19,46 @@
 
 ----
 
+ - [**"Item World: Neko Case loves the Time, Twin Cities love PBS, Bonnie Raitt loves her Minnesota guests, more"**](https://www.startribune.com/item-world-neko-case-loves-the-time-twin-cities-love-pbs-bonnie-raitt-loves-her-minnesota-guests-more/229141881/)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 24 October 2013
+    - about [Morris Day](../../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/item-world-neko-case-loves-the-time-twin-cities-love-pbs-bonnie-raitt-loves-her-minnesota-guests-more/229141881/))
+
+----
+
+ - [**"Neko Case two-times fans at First Ave"**](https://www.startribune.com/neko-case-two-times-fans-at-first-ave/228333111/)
+    - by [Chris Riemenschneider](../../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 18 October 2013
+    - about [Morris Day](../../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/neko-case-two-times-fans-at-first-ave/228333111/))
+
+----
+
  - [**"Pop music spotlight: Janelle Monae"**](https://www.startribune.com/pop-music-spotlight-janelle-monae/228255711/)
     - by [Jon Bream](../../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 18 October 2013
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/pop-music-spotlight-janelle-monae/228255711/))
+
+----
+
+## August 2013 (2)
+
+ - [**"Our five faves of the moment: &#039;The World&#039;s End,&#039; Questlove&#039;s &#039;Mo Meta Blues&#039; and more"**](https://www.startribune.com/our-five-faves-of-the-moment-the-world-s-end-questlove-s-mo-meta-blues-and-more/220743611/)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 22 August 2013
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/our-five-faves-of-the-moment-the-world-s-end-questlove-s-mo-meta-blues-and-more/220743611/))
+
+----
+
+ - [**"The grandstand: A little bit young, a lot of oldies -- This year's lineup includes classic and modern rock, veteran country stars, a Latin superstar -- and a made-for-TV boy band."**](https://www.startribune.com/the-grandstand-who-s-there-and-when/128014458/)
+    - by [Jon Bream](../../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 17 August 2013
+    - about [Jellybean Johnson](../../../topics/jellybean-johnson/index.md), [Monte Moir](../../../topics/monte-moir/index.md), [Morris Day](../../../topics/morris-day/index.md), [Morris Day & The Time](../../../topics/morris-day-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/the-grandstand-who-s-there-and-when/128014458/))
 
 ----
 
@@ -36,13 +71,29 @@
 
 ----
 
-## June 2013 (1)
+## June 2013 (3)
 
  - [**"Jeanne Arland Peterson, matriarch of Minnesota jazz, dies at 91 -- In eight decades as a singer and pianist, she made her name by balancing her family with her career."**](https://www.startribune.com/jeanne-arland-peterson-matriarch-of-minnesota-jazz-dies-at-91/212853431/)
     - by [Jon Bream](../../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 25 June 2013
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/jeanne-arland-peterson-matriarch-of-minnesota-jazz-dies-at-91/212853431/))
+
+----
+
+ - [**"How did long-lost soul star D'Angelo feel in Prince's house?"**](https://www.startribune.com/how-did-long-lost-soul-star-d-angelo-feel-in-prince-s-house/212725141/)
+    - by [Jon Bream](../../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 24 June 2013
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/how-did-long-lost-soul-star-d-angelo-feel-in-prince-s-house/212725141/))
+
+----
+
+ - [**"D&#039;Angelo is back with a First Avenue gig and a new album soon -- After disappearing for a decade, neo-soul star D'Angelo is back with a First Avenue gig and a new album coming this fall."**](https://www.startribune.com/d-angelo-is-back-with-a-first-avenue-gig-and-a-new-album-soon/212330371/)
+    - by [Jon Bream](../../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 21 June 2013
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/d-angelo-is-back-with-a-first-avenue-gig-and-a-new-album-soon/212330371/))
 
 ----
 
@@ -96,6 +147,7 @@
     - by [Jon Bream](../../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 3 May 2013
+    - about [Morris Day](../../../topics/morris-day/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-plays-chicago-with-biggest-band-ever/171147871/))
 
 ----
@@ -108,7 +160,16 @@
 
 ----
 
-## March 2013 (3)
+## April 2013 (1)
+
+ - [**"C.J.: Will Prince be flattered by kiss-and-tell?"**](https://www.startribune.com/c-j-will-prince-be-flattered-by-kiss-and-tell/205318881/)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 30 April 2013
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/c-j-will-prince-be-flattered-by-kiss-and-tell/205318881/))
+
+----
+
+## March 2013 (12)
 
  - [**"Q&A with C.J.: André Cymone a long way from Revolution, but music endures"**](https://www.startribune.com/q-a-with-c-j-andre-cymone-a-long-way-from-revolution-but-music-endures/200740991/)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
@@ -117,10 +178,79 @@
 
 ----
 
+ - [**"Pick Six: Brother Ali, Ana Moura and more"**](https://www.startribune.com/pick-six-brother-ali-ana-moura-and-more/200632291/)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 29 March 2013
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/pick-six-brother-ali-ana-moura-and-more/200632291/))
+
+----
+
  - [**"Item World: Partying with Andy Warhol, Prince&#039;s theme song and T-shirts, more"**](https://www.startribune.com/item-world-partying-with-andy-warhol-prince-s-theme-song-and-t-shirts-more/198161591/)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 22 March 2013
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/item-world-partying-with-andy-warhol-prince-s-theme-song-and-t-shirts-more/198161591/))
+
+----
+
+ - [**"Live from First Avenue, it&#039;s Maya Rudolph and her Prince cover band -- On Saturday night, her Prince cover band will play a dream gig at the club that "Purple Rain" put on the map."**](https://www.startribune.com/live-from-first-avenue-it-s-maya-rudolph-and-her-prince-cover-band/194380591/)
+    - by [Jon Bream](../../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 22 March 2013
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/live-from-first-avenue-it-s-maya-rudolph-and-her-prince-cover-band/194380591/))
+
+----
+
+ - [**"Prince closes out SXSW with a six-encore marathon"**](https://www.startribune.com/prince-closes-out-sxsw-with-a-six-encore-marathon/198667351/)
+    - by [Chris Riemenschneider](../../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 17 March 2013
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-closes-out-sxsw-with-a-six-encore-marathon/198667351/))
+
+----
+
+ - [**"Maya Rudolph, Questlove & Bobby Z partied like it was 1984 at First Avenue -- MUSIC REVIEW: Maya Rudolph, Questlove and Bobby Z brought a "Saturday Night Live" and "Purple Rain" mashup to Minneapolis."**](https://www.startribune.com/maya-rudolph-questlove-bobby-z-partied-like-it-was-1984-at-first-ave/196789921/)
+    - by [Jon Bream](../../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 11 March 2013
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/maya-rudolph-questlove-bobby-z-partied-like-it-was-1984-at-first-ave/196789921/))
+
+----
+
+ - [**"Some swore they saw Prince at Bobby Z&#039;s heart gala"**](https://www.startribune.com/some-swore-they-saw-prince-at-bobby-z-s-heart-gala/197243771/)
+    - by [C.J.](../../../authors/c-j/index.md)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 11 March 2013
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/some-swore-they-saw-prince-at-bobby-z-s-heart-gala/197243771/))
+
+----
+
+ - [**"Collision of 'Saturday Night Live' & 'Purple Rain' creates party like 1984 at First Avenue"**](https://www.startribune.com/collision-of-saturday-night-live-purple-rain-creates-party-like-1984-at-first-avenue/196738151/)
+    - by [Jon Bream](../../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 10 March 2013
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/collision-of-saturday-night-live-purple-rain-creates-party-like-1984-at-first-avenue/196738151/))
+
+----
+
+ - [**"The Big Gigs: March 8-14"**](https://www.startribune.com/the-big-gigs-march-8-14/196517861/)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 8 March 2013
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/the-big-gigs-march-8-14/196517861/))
+
+----
+
+ - [**"Questlove, D'Angelo prepare for Prince tribute gig tonight at Carnegie Hall"**](https://www.startribune.com/questlove-d-angelo-prepare-for-prince-tribute-gig-tonight-at-carnegie-hall/195814351/)
+    - by [Jon Bream](../../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 7 March 2013
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/questlove-d-angelo-prepare-for-prince-tribute-gig-tonight-at-carnegie-hall/195814351/))
+
+----
+
+ - [**"C.J.: Bobby Z&#039;s still full of love for Prince"**](https://www.startribune.com/c-j-bobby-z-s-still-full-of-love-for-prince/194535821/)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 2 March 2013
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/c-j-bobby-z-s-still-full-of-love-for-prince/194535821/))
 
 ----
 
@@ -132,12 +262,21 @@
 
 ----
 
-## February 2013 (2)
+## February 2013 (3)
+
+ - [**"Item World: Duluth student hangs with Ben Affleck at Oscars, Prince Week in NYC, more"**](https://www.startribune.com/item-world-duluth-student-hangs-with-ben-affleck-at-oscars-prince-week-in-nyc-more/193927421/)
+    - by [Claude Peck](../../../authors/claude-peck/index.md), [Graydon Royce](../../../authors/graydon-royce/index.md), [Jon Bream](../../../authors/jon-bream/index.md), [Laurie Hertzel](../../../authors/laurie-hertzel/index.md), [Neal Justin](../../../authors/neal-justin/index.md)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 28 February 2013
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/item-world-duluth-student-hangs-with-ben-affleck-at-oscars-prince-week-in-nyc-more/193927421/))
+
+----
 
  - [**"Minneapolis R&B vet Pierre Lewis resurfaces with Prince connection -- Interest in an old Prince recording helped unearth the Minneapolis Sound pioneer, who tours the world with the Commodores but plays a local dive bar every Sunday."**](https://www.startribune.com/minneapolis-r-b-vet-pierre-lewis-resurfaces-with-prince-connection/192526821/)
     - by [Chris Riemenschneider](../../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 22 February 2013
+    - about [Jimmy Jam](../../../topics/jimmy-jam/index.md), [Morris Day](../../../topics/morris-day/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/minneapolis-r-b-vet-pierre-lewis-resurfaces-with-prince-connection/192526821/))
 
 ----
@@ -150,7 +289,7 @@
 
 ----
 
-## January 2013 (3)
+## January 2013 (4)
 
  - [**"Cities 97's Jason Nagel joins KTWIN team"**](https://www.startribune.com/cities-97-s-jason-nagel-joins-ktwin-team/188689331/)
     - by [Chris Riemenschneider](../../../authors/chris-riemenschneider/index.md)
@@ -165,6 +304,14 @@
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 24 January 2013
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/fun-fun-fun-punctuation-doesn-t-matter/188145741/))
+
+----
+
+ - [**"More Prince news: Bobby Z heart benefit, new single/website"**](https://www.startribune.com/more-prince-news-bobby-z-heart-benefit-new-single-website/187876641/)
+    - by [Chris Riemenschneider](../../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 24 January 2013
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/more-prince-news-bobby-z-heart-benefit-new-single-website/187876641/))
 
 ----
 

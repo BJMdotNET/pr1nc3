@@ -15,7 +15,18 @@
     - by 
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 19 March 2009
+    - about [Morris Day](../../../topics/morris-day/index.md), [Morris Day and The Time](../../../topics/morris-day-and-the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/top-15-greatest-minnesotans/41478052/))
+
+----
+
+## February 2009 (1)
+
+ - [**"Pick Six: A half-dozen cool things in music"**](https://www.startribune.com/pick-six-a-half-dozen-cool-things-in-music/39526827/)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 14 February 2009
+    - about [Jimmy Jam](../../../topics/jimmy-jam/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/pick-six-a-half-dozen-cool-things-in-music/39526827/))
 
 ----
 

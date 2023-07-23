@@ -1,6 +1,35 @@
 # Minneapolis Star Tribune: 2017
 
-## November 2017 (4)
+## December 2017 (1)
+
+ - [**"A &#039;very Minnesota&#039; Super Bowl Live lineup announced for free concerts on Nicollet Mall -- Music marathon to cast spotlight on dynamic Minnesota music scene."**](https://www.startribune.com/jimmy-jam-terry-lewis-announce-super-bowl-live-lineup-idina-menzel-sheila-e-morris-day-soul-asylum/461298463/)
+    - by [Chris Riemenschneider](../../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 1 December 2017
+    - about [Jimmy “Jam” Harris](../../../topics/jimmy-jam-harris/index.md), [Morris Day](../../../topics/morris-day/index.md), [Morris Day & The Time](../../../topics/morris-day-the-time/index.md), [Super Bowl](../../../topics/super-bowl/index.md), [Terry Lewis](../../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/jimmy-jam-terry-lewis-announce-super-bowl-live-lineup-idina-menzel-sheila-e-morris-day-soul-asylum/461298463/))
+
+----
+
+## November 2017 (7)
+
+ - [**"Meet the Pictureman, whose goal was to show &#039;the best of black life&#039; in Minnesota -- "The best of black life" in Minnesota comes alive in a book and show of photographs by the late Charles Chamblis."**](https://www.startribune.com/meet-the-pictureman-whose-goal-was-to-show-the-best-of-black-life-in-minnesota/458015263/)
+    - by [Alicia Eler](../../../authors/alicia-eler/index.md)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 16 November 2017
+    - about [Morris Day](../../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/meet-the-pictureman-whose-goal-was-to-show-the-best-of-black-life-in-minnesota/458015263/))
+
+----
+
+ - [**"MCAD art sale leads the Twin Cities' 5 must-do art events this week"**](https://www.startribune.com/mcad-art-sale-leads-the-twin-cities-5-must-do-art-events-this-week/456475923/)
+    - by [Alicia Eler](../../../authors/alicia-eler/index.md)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 15 November 2017
+    - about [Morris Day](../../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/mcad-art-sale-leads-the-twin-cities-5-must-do-art-events-this-week/456475923/))
+
+----
 
  - [**"Bank managing Prince's estate punches back against heirs -- Bank has filed documents countering claims by heirs that it has cost the estate millions."**](https://www.startribune.com/bank-managing-prince-s-estate-punches-back-against-heirs/457300243/)
     - by [David Chanen](../../../authors/david-chanen/index.md)
@@ -35,7 +64,15 @@
 
 ----
 
-## October 2017 (2)
+ - [**"Writer for 89.3 the Current traces rise of &#039;Minneapolis Sound&#039; in new book -- MPR writer Andrea Swensson examines the music scene that produced Prince."**](https://www.startribune.com/writer-for-89-3-the-current-traces-rise-of-minneapolis-sound-in-new-book/453374003/)
+    - by [Jon Bream](../../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 1 November 2017
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/writer-for-89-3-the-current-traces-rise-of-minneapolis-sound-in-new-book/453374003/))
+
+----
+
+## October 2017 (4)
 
  - [**"
                                             Three Prince heirs demand a new administrator for the artist's massive estate
@@ -44,6 +81,24 @@
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 30 October 2017
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/several-prince-heirs-demand-a-new-administrator-for-the-artist-s-massive-estate/454144553/))
+
+----
+
+ - [**"Prince tribute, and maybe Janet Jackson, in the works for Jam and Lewis&#039; Super Bowl Live series -- The pop mega-producers discussed their plans for the free outdoor concerts as organizers unveiled the look and layout."**](https://www.startribune.com/super-bowl-organizers-plan-ice-stage-walk-in-snow-globe-and-northern-lights-show-in-minneapolis/453625783/)
+    - by [Chris Riemenschneider](../../../authors/chris-riemenschneider/index.md), [Rochelle Olson](../../../authors/rochelle-olson/index.md)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 27 October 2017
+    - about [Jam and Lewis](../../../topics/jam-and-lewis/index.md), [Morris Day](../../../topics/morris-day/index.md), [Super Bowl](../../../topics/super-bowl/index.md), [Terry Lewis](../../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/super-bowl-organizers-plan-ice-stage-walk-in-snow-globe-and-northern-lights-show-in-minneapolis/453625783/))
+
+----
+
+ - [**"It's that Time of the year: Minnesota casinos unveil New Year's Eve shows"**](https://www.startribune.com/that-time-of-the-year-minnesota-casinos-unveil-new-year-s-eve-shows/450773703/)
+    - by [Chris Riemenschneider](../../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 13 October 2017
+    - about [Jellybean Johnson](../../../topics/jellybean-johnson/index.md), [Jerome Benton](../../../topics/jerome-benton/index.md), [Monte Moir](../../../topics/monte-moir/index.md), [Morris Day](../../../topics/morris-day/index.md), [Morris Day & The Time](../../../topics/morris-day-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/that-time-of-the-year-minnesota-casinos-unveil-new-year-s-eve-shows/450773703/))
 
 ----
 
@@ -56,7 +111,15 @@
 
 ----
 
-## September 2017 (1)
+## September 2017 (2)
+
+ - [**"Prince items belonging to Susannah Melvoin and other associates go up for auction"**](https://www.startribune.com/prince-items-belonging-to-susannah-melvoin-and-other-associates-go-up-for-auction/446849253/)
+    - by [Chris Riemenschneider](../../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 22 September 2017
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-items-belonging-to-susannah-melvoin-and-other-associates-go-up-for-auction/446849253/))
+
+----
 
  - [**"Prince's brother announces plan to launch new record label"**](https://www.startribune.com/prince-s-brother-announces-plan-to-launch-new-record-label/443175193/)
     - by [Jon Bream](../../../authors/jon-bream/index.md)
@@ -66,7 +129,16 @@
 
 ----
 
-## August 2017 (15)
+## August 2017 (16)
+
+ - [**"Meet the bands set to battle at Paisley Park&#039;s Musicology event -- Nine acts, including four locals, are competing this weekend to record at Prince's studio."**](https://www.startribune.com/meet-the-bands-set-to-battle-at-paisley-park-s-musicology-event/442255523/)
+    - by [Jon Bream](../../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 30 August 2017
+    - about [Jellybean Johnson](../../../topics/jellybean-johnson/index.md), [Morris Day](../../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/meet-the-bands-set-to-battle-at-paisley-park-s-musicology-event/442255523/))
+
+----
 
  - [**"For $160, you get to hold Prince's guitar on 3-hour 'Ultimate' Paisley Park tour -- Is the new "Ultimate Experience" at Prince's museum worth $160?"**](https://www.startribune.com/for-160-you-get-to-hold-prince-s-guitar-on-3-hour-ultimate-paisley-park-tour/441644933/)
     - by [Jon Bream](../../../authors/jon-bream/index.md)
@@ -195,7 +267,7 @@
 
 ----
 
-## July 2017 (8)
+## July 2017 (9)
 
  - [**"109-year-old Dorothy Hall McFarland was dedicated to music, children, community"**](https://www.startribune.com/dorothy-hall-mcfarland-109-her-long-life-was-dedicated-to-music-children-community/437396823/)
     - by [Chao Xiong](../../../authors/chao-xiong/index.md)
@@ -211,6 +283,14 @@
     - on 29 July 2017
     - about [Donna Grantis](../../../topics/donna-grantis/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/former-prince-guitarist-donna-grantis-debuts-genre-bending-band-in-minneapolis/437048403/))
+
+----
+
+ - [**"Bon Iver gambles &#039;A Million&#039; to top off an otherwise lively Rock the Garden -- Justin Vernon, the Revolution mixed moods Saturday at Walker Art Center's annual fest."**](https://www.startribune.com/bon-iver-gambles-a-million-to-top-off-an-otherwise-lively-rock-the-garden/436158233/)
+    - by [Chris Riemenschneider](../../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 24 July 2017
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/bon-iver-gambles-a-million-to-top-off-an-otherwise-lively-rock-the-garden/436158233/))
 
 ----
 
@@ -383,7 +463,7 @@
 
 ----
 
-## April 2017 (14)
+## April 2017 (20)
 
  - [**"Details of Prince's expanded 'Purple Rain' reissue revealed, coming June 23"**](https://www.startribune.com/details-of-prince-s-expanded-purple-rain-reissue-revealed-coming-june-23/420722973/)
     - by [Chris Riemenschneider](../../../authors/chris-riemenschneider/index.md)
@@ -391,6 +471,56 @@
     - on 28 April 2017
     - about [17 Days (song)](../../../topics/song/17-days/index.md), [bootleg](../../../topics/bootleg/index.md), [Erotic City (song)](../../../topics/song/erotic-city/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Minnesota Dance Theatre](../../../topics/minnesota-dance-theatre/index.md), [NPG Records](../../../topics/npg-records/index.md), [Our Destiny (song)](../../../topics/song/our-destiny/index.md), [Possessed (song)](../../../topics/song/possessed/index.md), [Purple Rain (album)](../../../topics/album/purple-rain/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Roadhouse Garden (song)](../../../topics/song/roadhouse-garden/index.md), [The Beautiful Ones (song)](../../../topics/song/the-beautiful-ones/index.md), [The Revolution](../../../topics/the-revolution/index.md), [vault](../../../topics/vault/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/details-of-prince-s-expanded-purple-rain-reissue-revealed-coming-june-23/420722973/))
+
+----
+
+ - [**"Highlights from Prince memorial weekend, and advice for future years -- Highlights and lasting impressions from this weekend's memorial tributes around town."**](https://www.startribune.com/highlights-from-prince-memorial-weekend-and-advice-for-future-years/420198123/)
+    - by [Chris Riemenschneider](../../../authors/chris-riemenschneider/index.md), [Jon Bream](../../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 24 April 2017
+    - about [Morris Day](../../../topics/morris-day/index.md), [Morris Day & The Time](../../../topics/morris-day-the-time/index.md), [Super Bowl](../../../topics/super-bowl/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/highlights-from-prince-memorial-weekend-and-advice-for-future-years/420198123/))
+
+----
+
+ - [**"Prince's Revolution added to the Bon Iver-led Rock the Garden 2017"**](https://www.startribune.com/prince-s-revolution-added-to-the-bon-iver-led-rock-the-garden-2017/420246133/)
+    - by [Chris Riemenschneider](../../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 24 April 2017
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-s-revolution-added-to-the-bon-iver-led-rock-the-garden-2017/420246133/))
+
+----
+
+ - [**"Purple City Take 4: A parade of Prince associates performs late-night show"**](https://www.startribune.com/purple-city-take-4-a-parade-of-prince-associates-performs-late-night-show/420176323/)
+    - by [Jon Bream](../../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 23 April 2017
+    - about [Morris Day](../../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/purple-city-take-4-a-parade-of-prince-associates-performs-late-night-show/420176323/))
+
+----
+
+ - [**"Inside Paisley Park: Honoring the legacy of Prince -- Paisley Park kicked off four days of activities to honor Prince, including music, panel discussions and special presentations at his recording studio in Chanhassen, attracting fans from around the world."**](https://www.startribune.com/inside-paisley-park-honoring-the-legacy-of-prince/420074323/)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 22 April 2017
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/inside-paisley-park-honoring-the-legacy-of-prince/420074323/))
+
+----
+
+ - [**"Prince fans make &#039;pilgrimages&#039; to Minnesota&#039;s purple landmarks -- Fans marked the first anniversary of Prince's death by visiting the star's Minnesota haunts."**](https://www.startribune.com/prince-fans-make-pilgrimages-to-minnesota-s-purple-landmarks/420098183/)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 22 April 2017
+    - about [Celebration 2017 (event)](../../../topics/event/celebration-2017/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-fans-make-pilgrimages-to-minnesota-s-purple-landmarks/420098183/))
+
+----
+
+ - [**"Paisley Park&#039;s Prince party kicks off with live music and inside stories -- About 2,000 ardent fans attended the $500 to $1,000 per ticket affair."**](https://www.startribune.com/paisley-park-s-prince-party-kicks-off-with-live-music-and-inside-stories/420033773/)
+    - by [Chris Riemenschneider](../../../authors/chris-riemenschneider/index.md), [Jon Bream](../../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 21 April 2017
+    - about [Morris Day](../../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/paisley-park-s-prince-party-kicks-off-with-live-music-and-inside-stories/420033773/))
 
 ----
 
@@ -502,7 +632,7 @@
 
 ----
 
-## March 2017 (11)
+## March 2017 (12)
 
  - [**"Paisley Park museum opens new room dedicated to Prince's 'Lovesexy'"**](https://www.startribune.com/paisley-park-museum-opens-new-room-dedicated-to-prince-s-lovesexy/417745653/)
     - by [Jon Bream](../../../authors/jon-bream/index.md)
@@ -591,16 +721,53 @@
     - by [Jon Bream](../../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 10 March 2017
+    - about [Morris Day](../../../topics/morris-day/index.md), [Morris Day and The Time](../../../topics/morris-day-and-the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-prot-xe9-g-xe9-e-liv-warfield-returns-to-minneapolis-to-perform-at-dakota/415818874/))
 
 ----
 
-## February 2017 (2)
+ - [**"Prince's Revolution bandmates going on full parade with 24-gig tour"**](https://www.startribune.com/prince-s-revolution-bandmates-going-on-full-parade-with-24-gig-tour/415484264/)
+    - by [Chris Riemenschneider](../../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 6 March 2017
+    - about [Celebration 2017 (event)](../../../topics/event/celebration-2017/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-s-revolution-bandmates-going-on-full-parade-with-24-gig-tour/415484264/))
+
+----
+
+## February 2017 (5)
 
  - [**"Delta's boarding music almost rocks"**](https://www.startribune.com/delta-s-boarding-music-almost-rocks/414664093/)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 24 February 2017
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/delta-s-boarding-music-almost-rocks/414664093/))
+
+----
+
+ - [**"Grammys go crazy for Prince: Tribute with Bruno Mars and the Time took months of planning -- Bruno Mars "ripped it up," said Morris Day of the Time after they collaborated on a high-energy reprise of "Purple Rain" highlights."**](https://www.startribune.com/grammys-go-crazy-for-prince-tribute-with-bruno-mars-and-the-time-took-months-of-planning/413551993/)
+    - by [Jon Bream](../../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 14 February 2017
+    - about [Jimmy Jam](../../../topics/jimmy-jam/index.md), [Morris Day](../../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/grammys-go-crazy-for-prince-tribute-with-bruno-mars-and-the-time-took-months-of-planning/413551993/))
+
+----
+
+ - [**"Morris Day and the Time ranks fourth in Spotify surge after Grammys"**](https://www.startribune.com/morris-day-and-the-time-ranks-fourth-in-spotify-surge-after-grammys/413618253/)
+    - by [Jon Bream](../../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 13 February 2017
+    - about [Morris Day](../../../topics/morris-day/index.md), [Morris Day and The Time](../../../topics/morris-day-and-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/morris-day-and-the-time-ranks-fourth-in-spotify-surge-after-grammys/413618253/))
+
+----
+
+ - [**"What time is it? Time for the Time to open Bruno Mars' tour?"**](https://www.startribune.com/what-time-is-it-time-for-the-time-to-open-bruno-mars-tour/413560813/)
+    - by [Jon Bream](../../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 13 February 2017
+    - about [Jerome Benton](../../../topics/jerome-benton/index.md), [Morris Day](../../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/what-time-is-it-time-for-the-time-to-open-bruno-mars-tour/413560813/))
 
 ----
 

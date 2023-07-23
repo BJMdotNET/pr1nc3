@@ -1,5 +1,15 @@
 # Minneapolis Star Tribune: 2003
 
+## October 2003 (1)
+
+ - [**"Obituary: Bernadette Anderson"**](https://www.startribune.com/obituaries/detail/951297/)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 10 October 2003
+    - about [Bernadette Anderson](../../../topics/bernadette-anderson/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/obituaries/detail/951297/))
+
+----
+
 ## April 2003 (1)
 
  - [**"Margaret's time: Singer Cox finally puts together first solo CD"**](https://www.startribune.com/stories/919/3798852.html)

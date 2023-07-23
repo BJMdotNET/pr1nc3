@@ -36,7 +36,7 @@
   * [metro.news](./metro-news/index.md) (1)
   * [Milwaukee Journal Sentinel](./milwaukee-journal-sentinel/index.md) (1)
   * [Minneapolis / St. Paul Business Journal](./minneapolis-st-paul-business-journal/index.md) (1)
-  * [Minneapolis Star Tribune](./minneapolis-star-tribune/index.md) (704)
+  * [Minneapolis Star Tribune](./minneapolis-star-tribune/index.md) (912)
   * [Minnesota Monthly](./minnesota-monthly/index.md) (1)
   * [Minnesota Spokesman-Recorder](./minnesota-spokesman-recorder/index.md) (9)
   * [Mirador de les Arts](./mirador-de-les-arts/index.md) (1)
