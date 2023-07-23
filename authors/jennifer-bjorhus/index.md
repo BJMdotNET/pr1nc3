@@ -12,4 +12,17 @@
 
 ----
 
+## 2014 (1)
+
+### 2014 September (1)
+
+ - [**"Minnesota Department of Commerce holding $606M in unclaimed assets -- Total hit $606 million after Minnesota cut back its efforts to find assets' rightful owners."**](https://www.startribune.com/state-holds-606m-in-unclaimed-assets-cuts-efforts-to-find-owners/273336501/)
+    - by [Jennifer Bjorhus](../../authors/jennifer-bjorhus/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 2 September 2014
+    - about [Mall of America (place)](../../topics/place/mall-of-america/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/state-holds-606m-in-unclaimed-assets-cuts-efforts-to-find-owners/273336501/))
+
+----
+
 [Home](../index.md)

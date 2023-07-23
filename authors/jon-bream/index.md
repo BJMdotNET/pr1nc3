@@ -8,7 +8,7 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 1 July 2023
-    - about [Beyoncé](../../topics/beyonc/index.md), [Janelle Monáe](../../topics/janelle-mon-e/index.md)
+    - about [Beyoncé](../../topics/beyonc/index.md), [Erykah Badu](../../topics/erykah-badu/index.md), [Janelle Monáe](../../topics/janelle-mon-e/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/erykah-badu-mos-def-yasiin-bey-prince-david-bowie-janelle-monae-beyonce-st-paul-xcel-energy-center/600286804/))
 
 ----
@@ -28,7 +28,7 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 12 June 2023
-    - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Alan Leeds](../../topics/alan-leeds/index.md), [Alicia Keys](../../topics/alicia-keys/index.md), [Bobby Z](../../topics/bobby-z/index.md), [Bruce Springsteen](../../topics/bruce-springsteen/index.md), [Capri Theater (place)](../../topics/place/capri-theater/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [Celebration 2023 (event)](../../topics/event/celebration-2023/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Charles Spicer](../../topics/charles-spicer/index.md), [Charlie Murphy](../../topics/charlie-murphy/index.md), [Don't Play With Love (song)](../../topics/song/don-t-play-with-love/index.md), [Doug E. Fresh](../../topics/doug-e-fresh/index.md), [Gilbert Davison](../../topics/gilbert-davison/index.md), [H.E.R.](../../topics/h-e-r/index.md), [Janelle Monae](../../topics/janelle-monae/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [Lenny Kravitz](../../topics/lenny-kravitz/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Michael Bland](../../topics/michael-bland/index.md), [Michael Pagnotta](../../topics/michael-pagnotta/index.md), [Obama](../../topics/obama/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Prince Legacy LLC](../../topics/prince-legacy-llc/index.md), [Questlove](../../topics/questlove/index.md), [Sounds of Blackness](../../topics/sounds-of-blackness/index.md), [Spike Lee](../../topics/spike-lee/index.md), [Stokley](../../topics/stokley/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Tim Burton](../../topics/tim-burton/index.md), [Trevor Guy](../../topics/trevor-guy/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md)
+    - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Alan Leeds](../../topics/alan-leeds/index.md), [Alicia Keys](../../topics/alicia-keys/index.md), [Bobby Z](../../topics/bobby-z/index.md), [Bruce Springsteen](../../topics/bruce-springsteen/index.md), [Capri Theater (place)](../../topics/place/capri-theater/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [Celebration 2023 (event)](../../topics/event/celebration-2023/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Charles Spicer](../../topics/charles-spicer/index.md), [Charlie Murphy](../../topics/charlie-murphy/index.md), [Don't Play With Love (song)](../../topics/song/don-t-play-with-love/index.md), [Doug E. Fresh](../../topics/doug-e-fresh/index.md), [Erykah Badu](../../topics/erykah-badu/index.md), [Gilbert Davison](../../topics/gilbert-davison/index.md), [H.E.R.](../../topics/h-e-r/index.md), [Janelle Monae](../../topics/janelle-monae/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [Lenny Kravitz](../../topics/lenny-kravitz/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Michael Bland](../../topics/michael-bland/index.md), [Michael Pagnotta](../../topics/michael-pagnotta/index.md), [Obama](../../topics/obama/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Prince Legacy LLC](../../topics/prince-legacy-llc/index.md), [Questlove](../../topics/questlove/index.md), [Sounds of Blackness](../../topics/sounds-of-blackness/index.md), [Spike Lee](../../topics/spike-lee/index.md), [Stokley](../../topics/stokley/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Tim Burton](../../topics/tim-burton/index.md), [Trevor Guy](../../topics/trevor-guy/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-celebration-2023-paisley-park-chuck-d-chaka-khan-doug-e-fresh-stokley-nur-d-nunnabove/600281951/))
 
 <br />
@@ -63,7 +63,7 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md), [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 7 June 2023
-    - about [Jimmy Jam](../../topics/jimmy-jam/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - about [Jimmy Jam](../../topics/jimmy-jam/index.md), [Robert Smith](../../topics/robert-smith/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/twin-cities-the-cure-bebe-rexha-tyler-childers-weezer-rodrigo-y-gabriela-meshell-ndegeocello/600280755/))
 
 <br />
@@ -91,7 +91,7 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md), [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 24 May 2023
-    - about [Jimmy Jam](../../topics/jimmy-jam/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - about [Coachella (event)](../../topics/event/coachella/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/twin-cities-janet-jackson-dwight-yoakam-ondara-caterwaul-terrace-martin-gully-boys-kiss-the-tiger/600277349/))
 
 <br />
@@ -150,6 +150,7 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 17 April 2023
+    - about [Erykah Badu](../../topics/erykah-badu/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/erykah-badu-yasiin-bey-xcel-energy-center-st-paul-jose-james/600267751/))
 
 <br />
@@ -215,7 +216,7 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 29 December 2022
-    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md)
+    - about [Kevin Smith](../../topics/kevin-smith/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/morris-day-knows-what-time-it-is-last-call-for-his-recording-career-prince-the-time-zz-top-snoop/600239310/))
 
 ----
@@ -247,7 +248,7 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 5 June 2022
-    - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Alicia Keys](../../topics/alicia-keys/index.md), [BrownMark](../../topics/brownmark/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [Celebration 2017 (event)](../../topics/event/celebration-2017/index.md), [Celebration 2019 (event)](../../topics/event/celebration-2019/index.md), [Celebration 2022 (event)](../../topics/event/celebration-2022/index.md), [Chanhassen Dinner Theatres](../../topics/chanhassen-dinner-theatres/index.md), [De Angela Duff](../../topics/de-angela-duff/index.md), [Donna Grantis](../../topics/donna-grantis/index.md), [Elliott Powell](../../topics/elliott-powell/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [Hannah Welton](../../topics/hannah-welton/index.md), [Ida Nielsen](../../topics/ida-nielsen/index.md), [Janelle Monae](../../topics/janelle-monae/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Joshua Welton](../../topics/joshua-welton/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Lenny Kravitz](../../topics/lenny-kravitz/index.md), [Levi Seacer](../../topics/levi-seacer/index.md), [Levi Seacer, Jr.](../../topics/levi-seacer-jr/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Mazarati](../../topics/mazarati/index.md), [Nichole Nordeman](../../topics/nichole-nordeman/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Prince and The Revolution](../../topics/prince-and-the-revolution/index.md), [Questlove](../../topics/questlove/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md), [Sounds of Blackness](../../topics/sounds-of-blackness/index.md), [Stokley](../../topics/stokley/index.md), [Target Center (place)](../../topics/place/target-center/index.md), [Tommy Barbarella](../../topics/tommy-barbarella/index.md), [Zaheer Ali](../../topics/zaheer-ali/index.md)
+    - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Alicia Keys](../../topics/alicia-keys/index.md), [BrownMark](../../topics/brownmark/index.md), [Celebration (event)](../../topics/event/celebration/index.md), [Celebration 2017 (event)](../../topics/event/celebration-2017/index.md), [Celebration 2019 (event)](../../topics/event/celebration-2019/index.md), [Celebration 2022 (event)](../../topics/event/celebration-2022/index.md), [Chanhassen Dinner Theatres](../../topics/chanhassen-dinner-theatres/index.md), [De Angela Duff](../../topics/de-angela-duff/index.md), [Donna Grantis](../../topics/donna-grantis/index.md), [Elliott Powell](../../topics/elliott-powell/index.md), [Erykah Badu](../../topics/erykah-badu/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [Hannah Welton](../../topics/hannah-welton/index.md), [Ida Nielsen](../../topics/ida-nielsen/index.md), [Janelle Monae](../../topics/janelle-monae/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Joshua Welton](../../topics/joshua-welton/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Lenny Kravitz](../../topics/lenny-kravitz/index.md), [Levi Seacer](../../topics/levi-seacer/index.md), [Levi Seacer, Jr.](../../topics/levi-seacer-jr/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Mazarati](../../topics/mazarati/index.md), [Nichole Nordeman](../../topics/nichole-nordeman/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Prince and The Revolution](../../topics/prince-and-the-revolution/index.md), [Questlove](../../topics/questlove/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md), [Sounds of Blackness](../../topics/sounds-of-blackness/index.md), [Stokley](../../topics/stokley/index.md), [Target Center (place)](../../topics/place/target-center/index.md), [Tommy Barbarella](../../topics/tommy-barbarella/index.md), [Zaheer Ali](../../topics/zaheer-ali/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/highlights-from-two-long-exhilarating-days-at-prince-celebration-2022-at-paisley-park-mayte-garcia/600179523/))
 
 <br />
@@ -278,7 +279,7 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 28 April 2022
-    - about [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - about [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [Today Show (TV show)](../../topics/tv-show/today-show/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/her-minneapolis-prince-jimmy-jam-lenny-kravitz-paisley-park-george-floyd-oscars-grammys-super-bowl/600168665/))
 
 <br />
@@ -324,7 +325,7 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 21 March 2022
-    - about [Jimmy Jam](../../topics/jimmy-jam/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - about [Erykah Badu](../../topics/erykah-badu/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/meet-the-next-great-bluesman-christone-kingfish-ingram-prince-bb-king-charley-pride-jimmy-jam/600157947/))
 
 <br />
@@ -690,7 +691,7 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 12 October 2019
-    - about [Aretha Franklin](../../topics/aretha-franklin/index.md), [Ed Sheeran](../../topics/ed-sheeran/index.md), [Frank Zappa](../../topics/frank-zappa/index.md), [hologram](../../topics/hologram/index.md), [Lizzo](../../topics/lizzo/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Morris Day](../../topics/morris-day/index.md), [perfume](../../topics/perfume/index.md)
+    - about [Aretha Franklin](../../topics/aretha-franklin/index.md), [Coachella (event)](../../topics/event/coachella/index.md), [Ed Sheeran](../../topics/ed-sheeran/index.md), [Frank Zappa](../../topics/frank-zappa/index.md), [hologram](../../topics/hologram/index.md), [Lizzo](../../topics/lizzo/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Morris Day](../../topics/morris-day/index.md), [perfume](../../topics/perfume/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/))
 
 <br />
@@ -699,7 +700,7 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 8 October 2019
-    - about [Aretha Franklin](../../topics/aretha-franklin/index.md), [Donald Trump](../../topics/donald-trump/index.md), [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jamie Starr](../../topics/jamie-starr/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [Pandemonium (album)](../../topics/album/pandemonium/index.md), [Trump](../../topics/trump/index.md)
+    - about [Aretha Franklin](../../topics/aretha-franklin/index.md), [Donald Trump](../../topics/donald-trump/index.md), [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jamie Starr](../../topics/jamie-starr/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Mall of America (place)](../../topics/place/mall-of-america/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [Pandemonium (album)](../../topics/album/pandemonium/index.md), [Trump](../../topics/trump/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-haunts-morris-day-s-new-memoir-i-still-hear-his-voice-in-my-head/562430972/))
 
 ----
@@ -1184,7 +1185,7 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 3 February 2018
-    - about [Super Bowl](../../topics/super-bowl/index.md)
+    - about [Mall of America (place)](../../topics/place/mall-of-america/index.md), [Super Bowl](../../topics/super-bowl/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/dj-questlove-spins-prince-tunes-for-late-night-party-at-dakota-jazz-club/472482923/))
 
 <br />
@@ -1193,7 +1194,7 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 2 February 2018
-    - about [Super Bowl](../../topics/super-bowl/index.md)
+    - about [Mall of America (place)](../../topics/place/mall-of-america/index.md), [Super Bowl](../../topics/super-bowl/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/justin-timberlake-shows-off-new-album-dance-moves-at-prince-s-paisley-park/472223243/))
 
 ----
@@ -1209,7 +1210,7 @@
 
 ----
 
-## 2017 (29)
+## 2017 (30)
 
 ### 2017 November (1)
 
@@ -1334,13 +1335,22 @@
 
 ----
 
-### 2017 May (1)
+### 2017 May (2)
 
  - [**"Twin Cities finalist on NBC's 'The Voice': Prince 'taught me to believe in myself' -- The burly, bearded, bespectacled dude who's never had a voice lesson or sung in a choir is trying to find his singing voice while becoming a finalist on NBC's "The Voice." And he's going about it in a rather novel way."**](https://www.startribune.com/twin-cities-finalist-on-nbc-s-the-voice-prince-taught-me-to-believe-in-myself/423524923/)
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 21 May 2017
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/twin-cities-finalist-on-nbc-s-the-voice-prince-taught-me-to-believe-in-myself/423524923/))
+
+<br />
+
+ - [**"Prince&#039;s first ex-wife on her new memoir: &#039;A lot of trauma I made myself forget&#039; -- Mayte Garcia is returning to the Twin Cities this week to promote her new book, "The Most Beautiful.""**](https://www.startribune.com/prince-s-first-ex-wife-on-her-new-memoir-a-lot-of-trauma-i-made-myself-forget/421629693/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 8 May 2017
+    - about [Abbott Northwestern Hospital (place)](../../topics/place/abbott-northwestern-hospital/index.md), [Amiir](../../topics/amiir/index.md), [Boy Gregory](../../topics/boy-gregory/index.md), [Joni Rodgers](../../topics/joni-rodgers/index.md), [Mall of America (place)](../../topics/place/mall-of-america/index.md), [Mia Gregory](../../topics/mia-gregory/index.md), [Nordstrom (place)](../../topics/place/nordstrom/index.md), [Oprah (TV show)](../../topics/tv-show/oprah/index.md), [Today Show (TV show)](../../topics/tv-show/today-show/index.md), [Tommy Lee](../../topics/tommy-lee/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-s-first-ex-wife-on-her-new-memoir-a-lot-of-trauma-i-made-myself-forget/421629693/))
 
 ----
 
@@ -1350,7 +1360,7 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md), [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 24 April 2017
-    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Super Bowl](../../topics/super-bowl/index.md)
+    - about [Mall of America (place)](../../topics/place/mall-of-america/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Super Bowl](../../topics/super-bowl/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/highlights-from-prince-memorial-weekend-and-advice-for-future-years/420198123/))
 
 <br />
@@ -1933,7 +1943,27 @@
 
 ----
 
-## 2014 (4)
+## 2014 (10)
+
+### 2014 December (1)
+
+ - [**"Dakota Jazz Club to take over former St. Paul Artists&#039; Quarter space -- The deal is still pending, but the proprietors plan a more eclectic music lineup."**](https://www.startribune.com/april-1-dakota-jazz-club-to-take-over-former-st-paul-artists-quarter-space/253282831/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 30 December 2014
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/april-1-dakota-jazz-club-to-take-over-former-st-paul-artists-quarter-space/253282831/))
+
+----
+
+### 2014 November (1)
+
+ - [**"And Garth is done: Notes about record-setting Garth Brooks concerts in Minneapolis -- His record 11-show run at Target Center ended rambunctiously about 2 a.m. on Sunday. Eleven thoughts about Garth Brooks' record-setting 11 concerts at Target Center, which ended at 1:58 a.m. Sunday."**](https://www.startribune.com/11-shows-11-thoughts-on-garth-brooks-concerts-at-target-center/282876101/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 16 November 2014
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/11-shows-11-thoughts-on-garth-brooks-concerts-at-target-center/282876101/))
+
+----
 
 ### 2014 October (1)
 
@@ -1941,7 +1971,7 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 23 October 2014
-    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md)
+    - about [Mall of America (place)](../../topics/place/mall-of-america/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/morris-day-inaugurates-hard-rock-cafe-at-mall-of-america/280153032/))
 
 ----
@@ -1957,7 +1987,7 @@
 
 ----
 
-### 2014 June (1)
+### 2014 June (2)
 
  - [**"Bobby Z's Purple Hearts Club Band at First Ave, Apollonia at Paisley Park"**](https://www.startribune.com/bobby-z-s-purple-hearts-club-band-at-first-ave-apollonia-at-paisley-park/265133361/)
     - by [Jon Bream](../../authors/jon-bream/index.md)
@@ -1965,6 +1995,14 @@
     - on 30 June 2014
     - about [Morris Day](../../topics/morris-day/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/bobby-z-s-purple-hearts-club-band-at-first-ave-apollonia-at-paisley-park/265133361/))
+
+<br />
+
+ - [**"Lake Minnetonka is calling Apollonia back -- For the first time since filming that famous "Purple Rain" scene, the actress returns to Minneapolis Saturday for a benefit at First Avenue."**](https://www.startribune.com/lake-minnetonka-is-calling-apollonia-back/264942331/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 27 June 2014
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/lake-minnetonka-is-calling-apollonia-back/264942331/))
 
 ----
 
@@ -1979,6 +2017,32 @@
 
 ----
 
+### 2014 March (3)
+
+ - [**"Rolling &#039;The Stone&#039;: Andre Cymone, Prince&#039;s ex-bassist, makes his first album since 1985 -- Ex-Prince sideman Andre Cymone is trying to bring back socially conscious rock with his first album since 1985, a solo treatise on "what's important.""**](https://www.startribune.com/andre-cymone-prince-s-ex-bassist-makes-first-album-since-1985/250210601/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 13 March 2014
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/andre-cymone-prince-s-ex-bassist-makes-first-album-since-1985/250210601/))
+
+<br />
+
+ - [**"Miley Cyrus: Queen of the button-pushers -- Provocative pop star Miley Cyrus, who visits St. Paul on Monday, has taken a page from Madonna's playbook by blurring the lines between sexuality and showbiz."**](https://www.startribune.com/miley-cyrus-queen-of-the-button-pushers/248915011/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 8 March 2014
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/miley-cyrus-queen-of-the-button-pushers/248915011/))
+
+<br />
+
+ - [**"Review: Luke Bryan delivers country charm at Xcel -- Who needs the Oscars? Country superstar Luke Bryan – and opening acts Cole Swindell and Lee Brice – showed it was their kind of night at sold-out Xcel."**](https://www.startribune.com/review-luke-bryan-delivers-country-charm-at-xcel/248138741/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 3 March 2014
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/review-luke-bryan-delivers-country-charm-at-xcel/248138741/))
+
+----
+
 ## 2013 (14)
 
 ### 2013 October (1)
@@ -1987,6 +2051,7 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 18 October 2013
+    - about [Erykah Badu](../../topics/erykah-badu/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/pop-music-spotlight-janelle-monae/228255711/))
 
 ----
@@ -2280,6 +2345,7 @@ Friends, colleagues and political heavyweights packed Wednesday's service for th
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 14 April 2011
+    - about [Oprah (TV show)](../../topics/tv-show/oprah/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/diddy-gives-club-dirty-money-s-worth/119848329/))
 
 ----
@@ -2347,6 +2413,7 @@ Friends, colleagues and political heavyweights packed Wednesday's service for th
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 26 June 2008
+    - about [Coachella (event)](../../topics/event/coachella/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/sheila-e-all-in-the-family/21802919/))
 
 <br />
@@ -2375,7 +2442,7 @@ Friends, colleagues and political heavyweights packed Wednesday's service for th
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 24 April 2008
-    - about [Alicia Keys](../../topics/alicia-keys/index.md)
+    - about [Alicia Keys](../../topics/alicia-keys/index.md), [Oprah (TV show)](../../topics/tv-show/oprah/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/music-alicia-keys-from-breakdown-to-breakthrough/18138374/))
 
 <br />

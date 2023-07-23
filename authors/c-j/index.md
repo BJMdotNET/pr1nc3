@@ -8,6 +8,7 @@
     - by [C.J.](../../authors/c-j/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 11 March 2013
+    - about [Symbolina](../../topics/symbolina/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/some-swore-they-saw-prince-at-bobby-z-s-heart-gala/197243771/))
 
 ----

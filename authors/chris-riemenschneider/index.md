@@ -28,7 +28,7 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md), [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 7 June 2023
-    - about [Jimmy Jam](../../topics/jimmy-jam/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - about [Jimmy Jam](../../topics/jimmy-jam/index.md), [Robert Smith](../../topics/robert-smith/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/twin-cities-the-cure-bebe-rexha-tyler-childers-weezer-rodrigo-y-gabriela-meshell-ndegeocello/600280755/))
 
 ----
@@ -48,7 +48,7 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md), [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 24 May 2023
-    - about [Jimmy Jam](../../topics/jimmy-jam/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - about [Coachella (event)](../../topics/event/coachella/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/twin-cities-janet-jackson-dwight-yoakam-ondara-caterwaul-terrace-martin-gully-boys-kiss-the-tiger/600277349/))
 
 ----
@@ -314,7 +314,7 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 21 December 2018
-    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Super Bowl](../../topics/super-bowl/index.md)
+    - about [Erykah Badu](../../topics/erykah-badu/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Super Bowl](../../topics/super-bowl/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/10-signs-the-minnesota-music-scene-was-alive-and-well-in-2018/503245841/))
 
 <br />
@@ -469,7 +469,7 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 1 December 2017
-    - about [Jimmy “Jam” Harris](../../topics/jimmy-jam-harris/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - about [Coachella (event)](../../topics/event/coachella/index.md), [Jimmy “Jam” Harris](../../topics/jimmy-jam-harris/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/jimmy-jam-terry-lewis-announce-super-bowl-live-lineup-idina-menzel-sheila-e-morris-day-soul-asylum/461298463/))
 
 ----
@@ -592,7 +592,7 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md), [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 24 April 2017
-    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Super Bowl](../../topics/super-bowl/index.md)
+    - about [Mall of America (place)](../../topics/place/mall-of-america/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Super Bowl](../../topics/super-bowl/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/highlights-from-prince-memorial-weekend-and-advice-for-future-years/420198123/))
 
 <br />
@@ -668,7 +668,7 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 30 December 2016
-    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md)
+    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Tommy Barbarella](../../topics/tommy-barbarella/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/artist-of-the-year-2016-prince-s-memorials-were-the-year-s-rock-stars/408655055/))
 
 ----
@@ -900,6 +900,7 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 11 February 2016
+    - about [Erykah Badu](../../topics/erykah-badu/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/a-royal-homecoming-for-king-buzzing-r-b-trio-with-minneapolis-roots/368488381/))
 
 ----
@@ -910,7 +911,7 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 26 January 2016
-    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Monte Moir](../../topics/monte-moir/index.md), [Morris Day](../../topics/morris-day/index.md)
+    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Mall of America (place)](../../topics/place/mall-of-america/index.md), [Monte Moir](../../topics/monte-moir/index.md), [Morris Day](../../topics/morris-day/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/it-s-party-time-at-paisley-morris-day-to-play-prince-s-place-friday/366612721/))
 
 ----
@@ -1010,7 +1011,7 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 19 February 2015
-    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md)
+    - about [Coachella (event)](../../topics/event/coachella/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/irish-hitmaker-hozier-talks-church-and-his-state-of-mind/292710011/))
 
 <br />
@@ -1019,8 +1020,20 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 18 February 2015
-    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md)
+    - about [Coachella (event)](../../topics/event/coachella/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/hozier-s-church-and-state/292515361/))
+
+----
+
+## 2014 (1)
+
+### 2014 December (1)
+
+ - [**"Lizzo in 2014: Big breaks, big hugs -- It was a banner year for Twin Cities rapper/singer Lizzo."**](https://www.startribune.com/lizzo-in-2014-big-breaks-big-hugs/287060631/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 29 December 2014
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/lizzo-in-2014-big-breaks-big-hugs/287060631/))
 
 ----
 
@@ -1128,6 +1141,7 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 9 October 2012
+    - about [Mall of America (place)](../../topics/place/mall-of-america/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/soul-asylum-co-founder-dan-murphy-quits-the-band/173294201/))
 
 ----

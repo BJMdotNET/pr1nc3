@@ -8,6 +8,7 @@
     - by [Aimée Blanchette](../../authors/aim-e-blanchette/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 4 October 2012
+    - about [Mall of America (place)](../../topics/place/mall-of-america/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/the-little-train-show-that-could/172492981/))
 
 ----

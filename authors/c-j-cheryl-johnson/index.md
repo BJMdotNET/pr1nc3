@@ -154,7 +154,7 @@
     - by [C.J. (Cheryl Johnson)](../../authors/c-j-cheryl-johnson/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 15 April 2016
-    - about [airport](../../topics/airport/index.md), [C.J.](../../topics/c-j/index.md), [memoir](../../topics/memoir/index.md), [Neal Karlen](../../topics/neal-karlen/index.md)
+    - about [airport](../../topics/airport/index.md), [C.J.](../../topics/c-j/index.md), [memoir](../../topics/memoir/index.md), [Neal Karlen](../../topics/neal-karlen/index.md), [Symbolina](../../topics/symbolina/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/c-j-writing-a-book-with-prince-would-be-a-nightmare-job-says-neal-karlen-who-loves-the-purple-guy/375907901/))
 
 <br />

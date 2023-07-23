@@ -27,7 +27,7 @@
     - by [Rochelle Olson](../../authors/rochelle-olson/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 26 February 2023
-    - about [Jimmy Jam](../../topics/jimmy-jam/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - about [Jimmy Jam](../../topics/jimmy-jam/index.md), [Oprah (TV show)](../../topics/tv-show/oprah/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/senate-president-bobby-joe-champion-blazes-a-leadership-path-at-the-capitol/600254598/))
 
 ----
@@ -40,6 +40,7 @@
     - by [Rochelle Olson](../../authors/rochelle-olson/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 31 March 2022
+    - about [Mall of America (place)](../../topics/place/mall-of-america/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/womens-final-four-fans-arrive-in-minneapolis-ready-for-hoops-hype-and-fun/600161131/))
 
 ----
@@ -52,7 +53,7 @@
     - by [Rochelle Olson](../../authors/rochelle-olson/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 7 February 2018
-    - about [Super Bowl](../../topics/super-bowl/index.md)
+    - about [Mall of America (place)](../../topics/place/mall-of-america/index.md), [Super Bowl](../../topics/super-bowl/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/52-pickup-a-look-at-the-super-bowl-numbers/473202563/))
 
 ----

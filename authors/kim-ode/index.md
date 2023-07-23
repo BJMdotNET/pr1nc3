@@ -8,6 +8,7 @@
     - by [Kim Ode](../../authors/kim-ode/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 15 June 2008
+    - about [Oprah (TV show)](../../topics/tv-show/oprah/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/touched-by-history/19926609/))
 
 ----

@@ -161,7 +161,17 @@
 
 ----
 
-## 2014 (1)
+## 2014 (2)
+
+### 2014 June (1)
+
+ - [**"&#039;Sullivan&#039; star Steve Byrne is feeling Minnesota -- The popular comedian and star of the TBS sitcom "Sullivan & Son" explains how he's almost one of us."**](https://www.startribune.com/sullivan-star-steve-byrne-is-feeling-minnesota/263859791/)
+    - by [Neal Justin](../../authors/neal-justin/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 19 June 2014
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/sullivan-star-steve-byrne-is-feeling-minnesota/263859791/))
+
+----
 
 ### 2014 January (1)
 

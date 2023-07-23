@@ -8,7 +8,7 @@
     - by [Star Tribune staff](../../authors/star-tribune-staff/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 26 December 2022
-    - about [Morris Day](../../topics/morris-day/index.md)
+    - about [Mall of America (place)](../../topics/place/mall-of-america/index.md), [Morris Day](../../topics/morris-day/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/how-to-celebrate-nye-in-brate/600238731/))
 
 ----
@@ -41,7 +41,7 @@
     - by [Star Tribune staff](../../authors/star-tribune-staff/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 21 April 2016
-    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [Tommy Barbarella](../../topics/tommy-barbarella/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-an-oral-history-in-the-beginning/51508747/))
 
 ----
