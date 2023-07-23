@@ -21,7 +21,26 @@
 
 ----
 
-## September 2014 (1)
+## October 2014 (2)
+
+ - [**"Item World: Eddie Vedder visits U of M Children&#039;s Hospital, Morris Day at Mall of America, more"**](https://www.startribune.com/item-world-eddie-vedder-visits-u-of-m-children-s-hospital-morris-day-at-mall-of-america-more/280214302/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 23 October 2014
+    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/item-world-eddie-vedder-visits-u-of-m-children-s-hospital-morris-day-at-mall-of-america-more/280214302/))
+
+----
+
+ - [**"Morris Day inaugurates Hard Rock Cafe at Mall of America"**](https://www.startribune.com/morris-day-inaugurates-hard-rock-cafe-at-mall-of-america/280153032/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 23 October 2014
+    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/morris-day-inaugurates-hard-rock-cafe-at-mall-of-america/280153032/))
+
+----
+
+## September 2014 (2)
 
  - [**"Memorable moments from Paisley Park"**](https://apnews.com/d341d2b22be74bf7843f3c485d527b18)
     - by [Nekesa Mumbi Moody (Associated Press)](../../authors/associated-press/nekesa-mumbi-moody/index.md)
@@ -32,13 +51,31 @@
 
 ----
 
-## August 2014 (2)
+ - [**"Obituary: Leonard Share, owner of Arcade Men&#039;s Shop in downtown Minneapolis"**](https://www.startribune.com/obituary-leonard-share-owner-of-arcade-men-s-shop-in-downtown-minneapolis/275220301/)
+    - by [Kavita Kumar](../../authors/kavita-kumar/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 15 September 2014
+    - about [Edina (place)](../../topics/place/edina/index.md), [Morris Day](../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/obituary-leonard-share-owner-of-arcade-men-s-shop-in-downtown-minneapolis/275220301/))
+
+----
+
+## August 2014 (3)
 
  - [**"Prince to release new album in September"**](https://apnews.com/article/entertainment-music-arts-and-entertainment-prince-14e082a14f724f6c999fb180c5000b2c)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 25 August 2014
     - about [20Ten (album)](../../topics/album/20ten/index.md), [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Art Official Age (album)](../../topics/album/art-official-age/index.md), [Donna Grantis](../../topics/donna-grantis/index.md), [Hannah Ford](../../topics/hannah-ford/index.md), [Ida Nielsen](../../topics/ida-nielsen/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/entertainment-music-arts-and-entertainment-prince-14e082a14f724f6c999fb180c5000b2c))
+
+----
+
+ - [**"Kid Rock is King of Saturday Night"**](https://www.startribune.com/kid-rock-is-king-of-saturday-night/272452681/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 24 August 2014
+    - about [Morris Day](../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/kid-rock-is-king-of-saturday-night/272452681/))
 
 ----
 
@@ -87,6 +124,17 @@
 
 ----
 
+## June 2014 (1)
+
+ - [**"Bobby Z's Purple Hearts Club Band at First Ave, Apollonia at Paisley Park"**](https://www.startribune.com/bobby-z-s-purple-hearts-club-band-at-first-ave-apollonia-at-paisley-park/265133361/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 30 June 2014
+    - about [Morris Day](../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/bobby-z-s-purple-hearts-club-band-at-first-ave-apollonia-at-paisley-park/265133361/))
+
+----
+
 ## May 2014 (1)
 
  - [**"‘New Girl’ Cast Talks Relationships in Season 4, Prince"**](https://variety.com/2014/scene/news/new-girl-cast-relationships-season-4-prince-1201176454/)
@@ -97,7 +145,16 @@
 
 ----
 
-## April 2014 (1)
+## April 2014 (2)
+
+ - [**"What might emerge from Prince&#039;s vault of unreleased music? -- Insiders speculate on his surprise deal with Warner Bros. Records."**](https://www.startribune.com/what-might-emerge-from-prince-s-vault-of-unreleased-music/257034001/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 29 April 2014
+    - about [Morris Day](../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/what-might-emerge-from-prince-s-vault-of-unreleased-music/257034001/))
+
+----
 
  - [**"Music Attorney Lee Phillips Deals With Fickle Personalities, Changing Technology -- Beverly Hills Bar Association's Enterteinment Lawyer of the YearStar lawyer has repped Barbra Streisand, Randy Jackson, Prince, Axl Rose and Michael Jackson"**](https://variety.com/2014/biz/awards/music-attorney-lee-phillips-deals-with-fickle-personalities-changing-technology-1201157806/)
     - in [Variety](../../publications/u-z/variety/index.md)
@@ -123,6 +180,17 @@
     - on 5 February 2014
     - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [bootleg](../../topics/bootleg/index.md), [contract](../../topics/contract/index.md), [Donna Grantis](../../topics/donna-grantis/index.md), [Hannah Ford](../../topics/hannah-ford/index.md), [Ida Nielsen](../../topics/ida-nielsen/index.md), [lawsuit](../../topics/lawsuit/index.md), [London (place)](../../topics/place/london/index.md), [O2 (place)](../../topics/place/o2/index.md), [O2 Arena (place)](../../topics/place/o2-arena/index.md), [Plectrum Electrum (album)](../../topics/album/plectrum-electrum/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/f22a4231a0ec48dba636f2d710184fe0))
+
+----
+
+## January 2014 (1)
+
+ - [**"More details for Prince's appearance on 'New Girl'"**](https://www.startribune.com/more-details-for-prince-s-appearance-on-new-girl/239979281/)
+    - by [Neal Justin](../../authors/neal-justin/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 15 January 2014
+    - about [Morris Day](../../topics/morris-day/index.md), [Super Bowl](../../topics/super-bowl/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/more-details-for-prince-s-appearance-on-new-girl/239979281/))
 
 ----
 

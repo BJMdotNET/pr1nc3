@@ -71,7 +71,25 @@
 
 ----
 
-## July 2010 (1)
+## July 2010 (4)
+
+ - [**"Home funky home for Alexander O&#039;Neal -- Soul man Alexander O'Neal is back in town with a new CD echoing the glory days of the Minneapolis Sound."**](https://www.startribune.com/home-funky-home-for-alexander-o-neal/99058304/)
+    - by [Britt Robson](../../authors/britt-robson/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 29 July 2010
+    - about [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/home-funky-home-for-alexander-o-neal/99058304/))
+
+----
+
+ - [**"Home funky home -- Soul man Alexander O'Neal moves back to town, with a new CD celebrating the Minneapolis Sound."**](https://www.startribune.com/home-funky-home/98865344/)
+    - by [Britt Robson](../../authors/britt-robson/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 24 July 2010
+    - about [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/home-funky-home/98865344/))
+
+----
 
  - [**"Courtney Love at First Ave: Treat, not trainwreck"**](https://www.startribune.com/courtney-love-at-first-ave-treat-not-trainwreck/98659494/)
     - by 
@@ -81,13 +99,38 @@
 
 ----
 
-## June 2010 (1)
+ - [**"Minnesota connections at Emmys"**](https://www.startribune.com/minnesota-connections-at-emmys/98029264/)
+    - by [Neal Justin](../../authors/neal-justin/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 8 July 2010
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/minnesota-connections-at-emmys/98029264/))
+
+----
+
+## June 2010 (3)
 
  - [**"Larry Graham: Hot fun in the summertime -- Hall of Fame bass giant will headline his first Twin Cities gig since moving here."**](https://www.startribune.com/larry-graham-hot-fun-in-the-summertime/96575399/)
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 17 June 2010
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/larry-graham-hot-fun-in-the-summertime/96575399/))
+
+----
+
+ - [**"Jimmy Jam enjoys some home cooking at Rudolph&#039;s -- Rudolph's Bar-B-Que was calling, and Jimmy Jam was answering."**](https://www.startribune.com/jimmy-jam-enjoys-some-home-cooking-at-rudolph-s/96342699/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 14 June 2010
+    - about [Jerome Benton](../../topics/jerome-benton/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/jimmy-jam-enjoys-some-home-cooking-at-rudolph-s/96342699/))
+
+----
+
+ - [**"Real Time: Morris, Jimmy, Terry & Co. to reunite again June 13 at Epic"**](https://www.startribune.com/real-time-morris-jimmy-terry-co-to-reunite-again-june-13-at-epic/95453884/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 2 June 2010
+    - about [Jerome Benton](../../topics/jerome-benton/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Monte Moir](../../topics/monte-moir/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/real-time-morris-jimmy-terry-co-to-reunite-again-june-13-at-epic/95453884/))
 
 ----
 
@@ -109,7 +152,7 @@
 
 ----
 
-## April 2010 (1)
+## April 2010 (3)
 
  - [**"Spoon-ful of love for First Ave 40th -- Still growing in size and popularity, Texas' little band that could had the honor of marking the club's birthday."**](https://www.startribune.com/spoon-ful-of-love-for-first-ave-40th/89867622/)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
@@ -118,7 +161,25 @@
 
 ----
 
-## March 2010 (2)
+ - [**"Read the "First Avenue Day" proclamation"**](https://www.startribune.com/read-the-first-avenue-day-proclamation/89879047/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 4 April 2010
+    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/read-the-first-avenue-day-proclamation/89879047/))
+
+----
+
+ - [**"Target Field from the cheap seats"**](https://www.startribune.com/target-field-from-the-cheap-seats/89831482/)
+    - by [Howard Sinker](../../authors/howard-sinker/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 3 April 2010
+    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/target-field-from-the-cheap-seats/89831482/))
+
+----
+
+## March 2010 (3)
 
  - [**"EXCLUSIVE: Prince Being Sued For Over $150,000"**](https://radaronline.com/exclusives/2010/03/exclusive-prince-being-sued-over-150000/)
     - in [Radar Online](../../publications/p-t/radar-online/index.md)
@@ -136,12 +197,29 @@
 
 ----
 
-## January 2010 (1)
+ - [**"Wendy & Lisa score with 'Nurse Jackie'"**](https://www.startribune.com/wendy-lisa-score-with-nurse-jackie/86246202/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 3 March 2010
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/wendy-lisa-score-with-nurse-jackie/86246202/))
+
+----
+
+## January 2010 (2)
 
  - [**"Favre is no pantywaist -- "It is horrible," said Tom Zenner of Brett Favre's "Pants on the Ground" performance, which has become a Youtube.com sensation."**](https://www.startribune.com/favre-is-no-pantywaist/82517362/)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 25 January 2010
+    - about [Super Bowl](../../topics/super-bowl/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/favre-is-no-pantywaist/82517362/))
+
+----
+
+ - [**"Pick Six: A half-dozen cool things in music"**](https://www.startribune.com/pick-six-a-half-dozen-cool-things-in-music/81585077/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 16 January 2010
+    - about [Morris Day](../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/pick-six-a-half-dozen-cool-things-in-music/81585077/))
 
 ----
 

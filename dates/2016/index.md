@@ -10,10 +10,11 @@
 
 ----
 
- - [**"Artist of the Year 2016: Prince's memorials were the year's rock stars -- An impromptu street gathering in the grim hours following Prince's death lit a spark that shined through a year of tributes."**](https://www.startribune.com/artist-of-the-year-2016-prince-s-memorials-were-the-year-s-rock-stars/408655055/)
+ - [**"Artist of the Year 2016: Prince&#039;s memorials were the year&#039;s rock stars -- An impromptu street gathering in the grim hours following Prince's death lit a spark that shined through a year of tributes."**](https://www.startribune.com/artist-of-the-year-2016-prince-s-memorials-were-the-year-s-rock-stars/408655055/)
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 30 December 2016
+    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/artist-of-the-year-2016-prince-s-memorials-were-the-year-s-rock-stars/408655055/))
 
 ----
@@ -85,9 +86,10 @@
 ----
 
  - [**"Jesse Johnson soars as guitar hero in power trio marathon at First Avenue"**](https://www.startribune.com/jesse-johnson-soars-as-guitar-hero-in-power-trio-marathon-at-first-avenue/404557246/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 4 December 2016
-    - about [First Avenue (place)](../../topics/place/first-avenue/index.md), [Jesse Johnson](../../topics/jesse-johnson/index.md)
+    - about [First Avenue (place)](../../topics/place/first-avenue/index.md), [Jesse Johnson](../../topics/jesse-johnson/index.md), [Morris Day](../../topics/morris-day/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/jesse-johnson-soars-as-guitar-hero-in-power-trio-marathon-at-first-avenue/404557246/))
 
 ----
@@ -99,7 +101,7 @@
 
 ----
 
-## November 2016 (15)
+## November 2016 (16)
 
  - [**"Around the state: Paisley Park to host Prince celebration"**](https://apnews.com/61839c62b9d94fec885fbf304d279168)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
@@ -125,11 +127,11 @@
 
 ----
 
- - [**"Time guitarist Jesse Johnson returns to First Ave, a venue that 'always felt strange' -- After stints with the Time and D'Angelo, guitar ace Jesse Johnson returns to First Avenue fronting a power trio."**](https://www.startribune.com/guitarist-jesse-johnson-from-the-time-returns-to-first-ave-a-venue-that-always-felt-strange/403806736/)
+ - [**"Time guitarist Jesse Johnson returns to First Ave, a venue that &#039;always felt strange&#039; -- After stints with the Time and D'Angelo, guitar ace Jesse Johnson returns to First Avenue fronting a power trio."**](https://www.startribune.com/guitarist-jesse-johnson-from-the-time-returns-to-first-ave-a-venue-that-always-felt-strange/403806736/)
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 30 November 2016
-    - about [First Avenue (place)](../../topics/place/first-avenue/index.md), [Jesse Johnson](../../topics/jesse-johnson/index.md)
+    - about [First Avenue (place)](../../topics/place/first-avenue/index.md), [Jesse Johnson](../../topics/jesse-johnson/index.md), [Morris Day](../../topics/morris-day/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/guitarist-jesse-johnson-from-the-time-returns-to-first-ave-a-venue-that-always-felt-strange/403806736/))
 
 ----
@@ -139,6 +141,15 @@
     - on 28 November 2016
     - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Celebration 2017 (event)](../../topics/event/celebration-2017/index.md), [Morris Day](../../topics/morris-day/index.md), [museum](../../topics/museum/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/f5878da287eb4498ab600a0f313d602d))
+
+----
+
+ - [**"Paisley Park to host Celebration concerts on anniversary of Prince&#039;s death -- The Revolution, Morris Day, NPG and other cohorts will perform at his Chanhassen studio in April."**](https://www.startribune.com/paisley-park-to-host-celebration-concerts-on-anniversary-of-prince-s-death/403427176/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 28 November 2016
+    - about [Celebration 2017 (event)](../../topics/event/celebration-2017/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/paisley-park-to-host-celebration-concerts-on-anniversary-of-prince-s-death/403427176/))
 
 ----
 
@@ -223,7 +234,7 @@
 
 ----
 
-## October 2016 (25)
+## October 2016 (29)
 
  - [**"Judge rejects claim to Prince estate from woman and girl"**](https://apnews.com/26dcb05f3dc549dd8d6f415e3b6f2602)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
@@ -258,12 +269,20 @@
 
 ----
 
- - [**"What should Prince's estate do to keep his music alive? -- The tribute concert is over, and the museum is open. Here's how Prince's family should handle other posthumous projects."**](https://www.startribune.com/what-should-prince-s-estate-do-to-keep-his-music-alive/397828981/)
+ - [**"What should Prince&#039;s estate do to keep his music alive? -- The tribute concert is over, and the museum is open. Here's how Prince's family should handle other posthumous projects."**](https://www.startribune.com/what-should-prince-s-estate-do-to-keep-his-music-alive/397828981/)
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 21 October 2016
     - about [museum](../../topics/museum/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/what-should-prince-s-estate-do-to-keep-his-music-alive/397828981/))
+
+----
+
+ - [**"Artcetera: Stevie Wonder hits First Avenue, SPCO hits NYC, more"**](https://www.startribune.com/artcetera-stevie-wonder-hits-first-avenue-spco-hits-nyc-billy-bragg-talks-politics-more/397779361/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 20 October 2016
+    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/artcetera-stevie-wonder-hits-first-avenue-spco-hits-nyc-billy-bragg-talks-politics-more/397779361/))
 
 ----
 
@@ -283,10 +302,20 @@
 
 ----
 
+ - [**"Morris Day & the Time make up for lost time in late-night First Ave set"**](https://www.startribune.com/morris-day-the-time-make-up-for-lost-time-in-late-night-first-ave-set/397094861/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 14 October 2016
+    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Monte Moir](../../topics/monte-moir/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/morris-day-the-time-make-up-for-lost-time-in-late-night-first-ave-set/397094861/))
+
+----
+
  - [**"Prince tribute shows why he is missed -- Review: The performers showed their love but lacked the master's electricity."**](https://www.startribune.com/prince-tribute-shows-what-makes-us-miss-him/397048281/)
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 14 October 2016
+    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-tribute-shows-what-makes-us-miss-him/397048281/))
 
 ----
@@ -315,11 +344,30 @@
 
 ----
 
- - [**"How tonight's Prince tribute was saved: Concert promoter 'put Humpty Dumpty back together again' -- Minneapolis concert promoter was called in to "put Humpty Dumpty back together again.""**](https://www.startribune.com/how-thursday-s-prince-tribute-was-saved-concert-promoter-put-humpty-dumpty-back-together-again/396866631/)
+ - [**"Gov. Mark Dayton declares "Prince Tribute Day""**](https://www.startribune.com/gov-mark-dayton-declares-prince-tribute-day/396988081/)
+    - by [J. Patrick Coolican](../../authors/j-patrick-coolican/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 13 October 2016
+    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/gov-mark-dayton-declares-prince-tribute-day/396988081/))
+
+----
+
+ - [**"How tonight&#039;s Prince tribute was saved: Concert promoter &#039;put Humpty Dumpty back together again&#039; -- Minneapolis concert promoter was called in to "put Humpty Dumpty back together again.""**](https://www.startribune.com/how-thursday-s-prince-tribute-was-saved-concert-promoter-put-humpty-dumpty-back-together-again/396866631/)
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 13 October 2016
+    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/how-thursday-s-prince-tribute-was-saved-concert-promoter-put-humpty-dumpty-back-together-again/396866631/))
+
+----
+
+ - [**"John Mayer drops out of Thursday's Prince tribute concert in St. Paul"**](https://www.startribune.com/john-mayer-drops-out-of-thursday-s-prince-tribute-concert-in-st-paul/396754841/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 12 October 2016
+    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/john-mayer-drops-out-of-thursday-s-prince-tribute-concert-in-st-paul/396754841/))
 
 ----
 
@@ -347,19 +395,20 @@
 
 ----
 
+ - [**"Who&#039;s performing at Prince tribute concert in St. Paul? -- How the performers at Thursday's big tribute concert are connected to Prince."**](https://www.startribune.com/who-s-performing-at-prince-tribute-concert-in-st-paul/396229541/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 12 October 2016
+    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/who-s-performing-at-prince-tribute-concert-in-st-paul/396229541/))
+
+----
+
  - [**"Ex-wife Mayte added to Prince tribute concert in Minnesota"**](https://apnews.com/9fb9e3ee056e44988544d5f92a1bef2a)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 11 October 2016
     - about [Ana Moura](../../topics/ana-moura/index.md), [Andre Cymone](../../topics/andre-cymone/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Christina Aguilera](../../topics/christina-aguilera/index.md), [John Mayer](../../topics/john-mayer/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Tori Kelly](../../topics/tori-kelly/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/9fb9e3ee056e44988544d5f92a1bef2a))
-
-----
-
- - [**"Who's performing at Prince tribute concert in St. Paul? -- How the performers at Thursday's big tribute concert are connected to Prince."**](https://www.startribune.com/who-s-performing-at-prince-tribute-concert-in-st-paul/396229541/)
-    - by [Jon Bream](../../authors/jon-bream/index.md)
-    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
-    - on 7 October 2016
-    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/who-s-performing-at-prince-tribute-concert-in-st-paul/396229541/))
 
 ----
 
@@ -427,7 +476,7 @@
 
 ----
 
-## September 2016 (23)
+## September 2016 (30)
 
  - [**"Let's go crazy: Prince's family announces after-parties tied to Xcel tribute concert"**](https://www.startribune.com/ain-t-no-party-like-a-prince-family-after-party-oct-12-13-14-at-muse/394771091/)
     - by [Jon Bream](../../authors/jon-bream/index.md)
@@ -449,7 +498,7 @@
     - by [Steve Karnowski (Associated Press)](../../authors/associated-press/steve-karnowski/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 25 September 2016
-    - about [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [Morris Day](../../topics/morris-day/index.md), [museum](../../topics/museum/index.md), [Prince Estate](../../topics/prince-estate/index.md), [royalties](../../topics/royalties/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)
+    - about [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [museum](../../topics/museum/index.md), [Prince Estate](../../topics/prince-estate/index.md), [royalties](../../topics/royalties/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/still-no-will-but-work-to-settle-prince-estate-forges-ahead/394729181/))
 
 ----
@@ -458,6 +507,15 @@
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 23 September 2016
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/an-emotional-sheila-e-says-her-tribute-show-will-honor-prince-s-quiet-philanthropy/394589921/))
+
+----
+
+ - [**"Sheila E. to play Prince tribute show Oct. 23 at Orchestra Hall -- Not available for the Xcel bash, she'll headline at Orchestra Hall on Oct. 23."**](https://www.startribune.com/sheila-e-to-play-prince-tribute-show-oct-23-at-orchestra-hall/394503081/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 23 September 2016
+    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/sheila-e-to-play-prince-tribute-show-oct-23-at-orchestra-hall/394503081/))
 
 ----
 
@@ -485,10 +543,20 @@
 
 ----
 
+ - [**"Prince tribute tickets gone in an instant -- The Oct. 13 show at Xcel Energy Center sold out as soon as tickets went on sale Monday."**](https://www.startribune.com/prince-tribute-tickets-gone-in-an-instant/393988771/)
+    - by [Tim Harlow](../../authors/tim-harlow/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 19 September 2016
+    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-tribute-tickets-gone-in-an-instant/393988771/))
+
+----
+
  - [**"Prince tribute set for Oct. 13: Stevie Wonder, Christina Aguilera, at Xcel Energy Center -- Among those performing: Stevie Wonder, Chaka Khan, Christina Aguilera, John Mayer and Tori Kelly."**](https://www.startribune.com/prince-tribute-announced-for-oct-13-stevie-wonder-christina-aguilera-at-xcel-energy-center/393618071/)
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 16 September 2016
+    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-tribute-announced-for-oct-13-stevie-wonder-christina-aguilera-at-xcel-energy-center/393618071/))
 
 ----
@@ -506,6 +574,15 @@
     - on 15 September 2016
     - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Anita Baker](../../topics/anita-baker/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Christina Aguilera](../../topics/christina-aguilera/index.md), [Doug E. Fresh](../../topics/doug-e-fresh/index.md), [John Mayer](../../topics/john-mayer/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Morris Hayes](../../topics/morris-hayes/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [St. Paul (place)](../../topics/place/st-paul/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [The Time](../../topics/the-time/index.md), [Tori Kelly](../../topics/tori-kelly/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/-----c39cbbf9dd5b4a90a221d40688a61b69))
+
+----
+
+ - [**"No contract, no official info exist for Prince tribute concert at U.S. Bank Stadium -- With a promised show at U.S. Bank barely a month away, details are scant."**](https://www.startribune.com/no-contract-no-official-info-exist-for-prince-tribute-concert-at-vikings-stadium/393327211/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 14 September 2016
+    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/no-contract-no-official-info-exist-for-prince-tribute-concert-at-vikings-stadium/393327211/))
 
 ----
 
@@ -599,6 +676,14 @@
 
 ----
 
+ - [**"Revolution grieves rather than celebrates Prince in reunion concert at First Avenue -- REVIEW: There was a big hole in the middle at the first of three reunion concerts by his "Purple Rain" band."**](https://www.startribune.com/revolution-grieves-rather-than-celebrates-prince-in-reunion-concert-at-first-avenue/392118781/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 4 September 2016
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/revolution-grieves-rather-than-celebrates-prince-in-reunion-concert-at-first-avenue/392118781/))
+
+----
+
  - [**"Three nights of Revolution: Reflecting on Prince tribute concerts at First Avenue -- The three-night reunion by Prince's old band, the Revolution, finally found the fun at First Avenue."**](https://www.startribune.com/three-nights-of-revolution-reflecting-on-prince-tribute-concerts-at-first-avenue/392295351/)
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
@@ -616,13 +701,53 @@
 
 ----
 
-## August 2016 (34)
+ - [**"Best concerts of the week: Weezer at the State Fair, Lauryn Hill at First Avenue"**](https://www.startribune.com/best-concerts-of-the-week-weezer-at-the-state-fair-lauryn-hill-at-first-avenue/392082271/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md), [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 2 September 2016
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/best-concerts-of-the-week-weezer-at-the-state-fair-lauryn-hill-at-first-avenue/392082271/))
+
+----
+
+ - [**"Artcetera: Questlove will DJ post-Revolution parties; Lea Thompson returns to Minnesota for film festival, more"**](https://www.startribune.com/artcetera-questlove-will-dj-post-revolution-parties-lea-thompson-returns-to-minnesota-for-film-festival-more/392031201/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 1 September 2016
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/artcetera-questlove-will-dj-post-revolution-parties-lea-thompson-returns-to-minnesota-for-film-festival-more/392031201/))
+
+----
+
+ - [**"Best concerts of the week: Malamanya, Guided by Voices, something for everyone at the Minnesota State Fair -- Your guide to the Twin Cities's must-see shows this week."**](https://www.startribune.com/best-concerts-of-the-week-malamanya-guided-by-voices-something-for-everyone-at-the-minnesota-state-fair/391192361/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 1 September 2016
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/best-concerts-of-the-week-malamanya-guided-by-voices-something-for-everyone-at-the-minnesota-state-fair/391192361/))
+
+----
+
+## August 2016 (37)
 
  - [**"Musicians close to Prince reportedly in the mix for tribute"**](https://apnews.com/5c33d9f6e9654074898b04452f17c598)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 31 August 2016
     - about [Morris Day](../../topics/morris-day/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Revolution](../../topics/the-revolution/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/5c33d9f6e9654074898b04452f17c598))
+
+----
+
+ - [**"Sheila E is a no-go for Prince tribute concert at U.S. Bank Stadium"**](https://www.startribune.com/sheila-e-is-a-no-go-for-prince-tribute-concert-at-us-bank-stadium/391937311/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 31 August 2016
+    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/sheila-e-is-a-no-go-for-prince-tribute-concert-at-us-bank-stadium/391937311/))
+
+----
+
+ - [**"After &#039;no proper tribute,&#039; Prince & the Revolution survivors target First Avenue for &#039;grieving&#039; concerts -- The members of Prince & the Revolution will grieve with three sold-out First Avenue concerts."**](https://www.startribune.com/prince-amp-the-revolution-survivors-talk-about-first-avenue-grieving-concerts/391346091/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 27 August 2016
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-amp-the-revolution-survivors-talk-about-first-avenue-grieving-concerts/391346091/))
 
 ----
 
@@ -765,6 +890,14 @@
 
 ----
 
+ - [**"Josh Hartnett smiles pretty at the Birdie"**](https://www.startribune.com/josh-hartnett-smiles-pretty-at-the-birdie/389810001/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 10 August 2016
+    - about [Morris Day](../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/josh-hartnett-smiles-pretty-at-the-birdie/389810001/))
+
+----
+
  - [**"State Fair to celebrate Prince with "Unite in Purple" Day Aug. 26 -- "Unite in Purple" Day will offer tributes to the late rock icon on Aug. 26."**](https://www.startribune.com/state-fair-to-celebrate-prince-with-unite-in-purple-day/389514481/)
     - by [Tim Harlow](../../authors/tim-harlow/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
@@ -893,7 +1026,7 @@
 
 ----
 
-## July 2016 (29)
+## July 2016 (30)
 
  - [**"Prince's possible heirs narrowed down to six"**](https://edition.cnn.com/2016/07/29/entertainment/prince-estate-possible-heirs-ruling/)
     - in [CNN International](../../publications/a-e/cnn-international/index.md)
@@ -1095,6 +1228,14 @@
 
 ----
 
+ - [**"Artcetera: Morris Day and the Time show their Purple pride, Adele goes to Brit&#039;s Pub, more"**](https://www.startribune.com/artcetera-morris-day-and-the-time-show-their-purple-pride-adele-goes-to-brit-s-pub-more/385874841/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 7 July 2016
+    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/artcetera-morris-day-and-the-time-show-their-purple-pride-adele-goes-to-brit-s-pub-more/385874841/))
+
+----
+
  - [**"Prince backup band The Revolution to reunite for 2 shows"**](https://www.startribune.com/prince-backup-band-the-revolution-to-reunite-for-2-shows/385743961/)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 6 July 2016
@@ -1131,7 +1272,7 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 1 July 2016
-    - about [Morris Day](../../topics/morris-day/index.md), [The Time](../../topics/the-time/index.md)
+    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [The Time](../../topics/the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/morris-day-and-the-time-perform-with-purple-pride-at-the-minnesota-zoo/385161471/))
 
 ----
@@ -1294,6 +1435,7 @@
  - [**"Artcetera: A Time to remember Prince"**](https://www.startribune.com/artcetera-a-time-to-remember-prince/384133681/)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 23 June 2016
+    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/artcetera-a-time-to-remember-prince/384133681/))
 
 ----
@@ -1504,7 +1646,7 @@
 
 ----
 
- - [**"Celebrate Prince's birthday with 10 songs he gave to other singers"**](https://www.startribune.com/celebrate-prince-s-birthday-with-10-songs-he-gifted-to-other-singers/381866931/)
+ - [**"Celebrate Prince&#039;s birthday with 10 songs he gave to other singers"**](https://www.startribune.com/celebrate-prince-s-birthday-with-10-songs-he-gifted-to-other-singers/381866931/)
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 7 June 2016
@@ -1739,13 +1881,21 @@
 
 ----
 
-## May 2016 (96)
+## May 2016 (97)
 
  - [**"Record crowd on hand as St. Paul Saints play Purple Game to remember Prince -- The St. Paul Saints gave Prince a final farewell — complete with a lot of purple, and some red Corvettes."**](https://www.startribune.com/record-crowd-on-hand-as-st-paul-saints-play-purple-game-to-remember-prince/381305401/)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 30 May 2016
     - about [Sheila E.](../../topics/sheila-e/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/record-crowd-on-hand-as-st-paul-saints-play-purple-game-to-remember-prince/381305401/))
+
+----
+
+ - [**"State Fair Midway hosts &#039;best Soundset yet&#039; -- New acts drew regulars as well as newbies to giant hip-hop music fest."**](https://www.startribune.com/soundset-hits-state-fairgrounds-without-missing-a-beat/381259791/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 29 May 2016
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/soundset-hits-state-fairgrounds-without-missing-a-beat/381259791/))
 
 ----
 
@@ -2516,7 +2666,31 @@
 
 ----
 
-## April 2016 (161)
+## April 2016 (166)
+
+ - [**"Critical guide to Prince&#039;s albums -- Here's our attempt to sort out the legacy left by one of pop music's most prolific recording artists. The following list of 37 albums is as complete as we can make it, omitting best-ofs, remixes and fan-club releases."**](https://www.startribune.com/critical-guide-breaking-down-37-of-prince-s-albums/376785321/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md), [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 30 April 2016
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/critical-guide-breaking-down-37-of-prince-s-albums/376785321/))
+
+----
+
+ - [**"Prince and First Avenue: a history of the club&#039;s ties to its brightest star -- First Avenue nightclub will forever be tied to Prince's legacy, as it has been since 1981. Here's a look at the history they shared."**](https://www.startribune.com/prince-and-first-avenue-a-history-of-the-club-s-ties-to-its-brightest-star/377583391/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 30 April 2016
+    - about [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-and-first-avenue-a-history-of-the-club-s-ties-to-its-brightest-star/377583391/))
+
+----
+
+ - [**"Prince&#039;s top 5 First Avenue concerts, from &#039;Purple Rain&#039; to getting shut down by police -- His key gigs at the club he made famous from 1981 to 2007"**](https://www.startribune.com/prince-s-top-5-first-avenue-concerts-from-purple-rain-to-getting-shut-down-by-police/377583571/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 30 April 2016
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-s-top-5-first-avenue-concerts-from-purple-rain-to-getting-shut-down-by-police/377583571/))
+
+----
 
  - [**"AP Exclusive: Prince’s ‘Purple Rain’ coat is up for auction"**](https://apnews.com/8110dcbaa6714d75a12db043ff989975)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
@@ -2640,6 +2814,15 @@
     - on 28 April 2016
     - about [vault](../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/fans-holy-grail-unreleased-songs-in-prince-s-vault/377485941/))
+
+----
+
+ - [**"History Theater musical &#039;Complicated Fun&#039; is a Minneapolis mixtape -- "Complicated Fun" is a musical love letter to the 1980s Twin Cities music scene."**](https://www.startribune.com/history-theater-musical-complicated-fun-is-a-minneapolis-mixtape/377452831/)
+    - by [Graydon Royce](../../authors/graydon-royce/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 28 April 2016
+    - about [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/history-theater-musical-complicated-fun-is-a-minneapolis-mixtape/377452831/))
 
 ----
 
@@ -3014,10 +3197,11 @@
 
 ----
 
- - [**"Until the end, an enigma: Flashes of frailty stand out in Prince's vibrant final months"**](https://www.startribune.com/until-the-end-an-enigmaflashes-of-frailty-stand-out-in-prince-s-vibrant-final-months/376860181/)
+ - [**"Until the end, an enigma: Flashes of frailty stand out in Prince&#039;s vibrant final months -- In retrospect, those who saw Prince regularly say there were indications that he might have been concealing health problems. He abandoned his trademark high-heeled boots for custom platform sneakers, for one thing, and began carrying a cane."**](https://www.startribune.com/until-the-end-an-enigmaflashes-of-frailty-stand-out-in-prince-s-vibrant-final-months/376860181/)
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 24 April 2016
+    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/until-the-end-an-enigmaflashes-of-frailty-stand-out-in-prince-s-vibrant-final-months/376860181/))
 
 ----
@@ -3284,7 +3468,7 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md), [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 22 April 2016
-    - about [André Cymone](../../topics/andr-cymone/index.md), [Audubon Road (place)](../../topics/place/audubon-road/index.md), [divorce](../../topics/divorce/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Grammy Award](../../topics/grammy-award/index.md), [John Nelson](../../topics/john-nelson/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Obama](../../topics/obama/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Super Bowl XLI (event)](../../topics/event/super-bowl-xli/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
+    - about [André Cymone](../../topics/andr-cymone/index.md), [Audubon Road (place)](../../topics/place/audubon-road/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [divorce](../../topics/divorce/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Grammy Award](../../topics/grammy-award/index.md), [John Nelson](../../topics/john-nelson/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Obama](../../topics/obama/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Super Bowl XLI (event)](../../topics/event/super-bowl-xli/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/jon-bream-prince-was-a-once-in-a-generation-artist-who-never-rested-on-his-laurels/376594221/))
 
 ----
@@ -3326,6 +3510,15 @@
     - on 22 April 2016
     - about [Central High](../../topics/central-high/index.md), [Central High School (place)](../../topics/place/central-high-school/index.md), [Duane Nelson](../../topics/duane-nelson/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Minnesota Twins](../../topics/minnesota-twins/index.md), [Purple and Gold (song)](../../topics/song/purple-and-gold/index.md), [St. Paul (place)](../../topics/place/st-paul/index.md), [Super Bowl](../../topics/super-bowl/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/6e2e2f449641404596505f08bf84bb3a))
+
+----
+
+ - [**"Prince dead at 57: Legendary musician found at Paisley Park -- Worldwide grief over sudden death of musical genius"**](https://www.startribune.com/authorities-investigating-death-at-prince-s-paisley-park/376578441/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md), [Pam Louwagie](../../authors/pam-louwagie/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 22 April 2016
+    - about [Super Bowl](../../topics/super-bowl/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/authorities-investigating-death-at-prince-s-paisley-park/376578441/))
 
 ----
 
@@ -3590,6 +3783,15 @@
 
 ----
 
+ - [**"Prince / An Oral History: In the Beginning -- Prince Rogers Nelson was born June 7, 1958, at Mount Sinai Hospital in Minneapolis to Mattie Shaw and John Nelson. They had been in a jazz ensemble called the Prince Roger Trio. Since Mattie called her husband Prince, she dubbed her son Skipper "because he was small in size and he was just real cute - he was a darling baby.""**](https://www.startribune.com/prince-an-oral-history-in-the-beginning/51508747/)
+    - by [Star Tribune staff](../../authors/star-tribune-staff/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 21 April 2016
+    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-an-oral-history-in-the-beginning/51508747/))
+
+----
+
  - [**"Prince celebrated with all-night dance party at First Avenue"**](http://www.fox9.com/entertainment/all-night-dance-party-at-first-avenue-to-honor-prince)
     - in [Fox 9](../../publications/f-j/fox-9/index.md)
     - on 21 April 2016
@@ -3611,13 +3813,6 @@
     - on 21 April 2016
     - about [1999 (album)](../../topics/album/1999/index.md), [Around The World In A Day (album)](../../topics/album/around-the-world-in-a-day/index.md), [Batdance (song)](../../topics/song/batdance/index.md), [Carver County](../../topics/carver-county/index.md), [Chaos and Disorder (album)](../../topics/album/chaos-and-disorder/index.md), [contract](../../topics/contract/index.md), [For You (album)](../../topics/album/for-you/index.md), [Grammy Award](../../topics/grammy-award/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [The Revolution](../../topics/the-revolution/index.md), [TMZ (website)](../../topics/website/tmz/index.md), [vault](../../topics/vault/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/7341522/prince-dead))
-
-----
-
- - [**"Prince found dead at Paisley Park -- The Associated Press is reporting his death"**](https://www.startribune.com/authorities-investigating-death-at-prince-s-paisley-park/376578441/)
-    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
-    - on 21 April 2016
-    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/authorities-investigating-death-at-prince-s-paisley-park/376578441/))
 
 ----
 
@@ -3832,7 +4027,7 @@
 
 ----
 
-## March 2016 (9)
+## March 2016 (10)
 
  - [**"C.J.: Prince's memoir will be a beauty if he gives his take on my questions"**](https://www.startribune.com/c-j-prince-s-memoir-will-be-a-beauty-if-he-gives-his-take-on-my-questions/373295271/)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
@@ -3904,6 +4099,15 @@
 
 ----
 
+ - [**"Southside Johnny shows who's the Boss at the Dakota"**](https://www.startribune.com/southside-johnny-shows-who-s-the-boss-at-the-dakota/371490211/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 9 March 2016
+    - about [Morris Day](../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/southside-johnny-shows-who-s-the-boss-at-the-dakota/371490211/))
+
+----
+
  - [**"Brian Gallagher of Greazy Meal and Prince's NPG dies unexpectedly at 52"**](https://www.startribune.com/brian-gallagher-of-greazy-meal-and-prince-s-npg-dies-unexpectedly-at-52/371095321/)
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
@@ -3913,7 +4117,7 @@
 
 ----
 
-## February 2016 (8)
+## February 2016 (9)
 
  - [**"Key Tracks: Jimmy Jam on Janet Jackson’s Control -- The super producer talks us through the recording process for one of the biggest albums of the ’80s"**](https://daily.redbullmusicacademy.com/2016/02/key-tracks-janet-jackson-control)
     - by [Chris Williams](../../authors/chris-williams/index.md)
@@ -3968,6 +4172,14 @@
 
 ----
 
+ - [**"A royal homecoming for King, buzzing R&B trio with Minneapolis roots -- Minneapolis natives Paris and Amber Strother return to town riding a wave of attention for their synth-laden R&B trio."**](https://www.startribune.com/a-royal-homecoming-for-king-buzzing-r-b-trio-with-minneapolis-roots/368488381/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 11 February 2016
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/a-royal-homecoming-for-king-buzzing-r-b-trio-with-minneapolis-roots/368488381/))
+
+----
+
  - [**"Paean to Prince: 15 Fascinating Facts About His Purple Majesty -- Juicy secrets from a legendary music career, collected by an infatuated fan"**](https://medium.com/cuepoint/paean-to-prince-15-fascinating-facts-about-his-purple-majesty-6aa627d1d17e)
     - in [Cuepoint](../../publications/a-e/cuepoint/index.md)
     - on 10 February 2016
@@ -3983,7 +4195,7 @@
 
 ----
 
-## January 2016 (7)
+## January 2016 (10)
 
  - [**"YouTube 'dancing baby' video with Prince music births a legal battle that won't go away"**](https://www.startribune.com/youtube-dancing-baby-video-births-a-legal-battle-that-won-t-go-away/367109661/)
     - by [James Eli Shiffer](../../authors/james-eli-shiffer/index.md)
@@ -3991,6 +4203,14 @@
     - on 30 January 2016
     - about [lawsuit](../../topics/lawsuit/index.md), [royalties](../../topics/royalties/index.md), [Super Bowl](../../topics/super-bowl/index.md), [YouTube](../../topics/youtube/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/youtube-dancing-baby-video-births-a-legal-battle-that-won-t-go-away/367109661/))
+
+----
+
+ - [**"Big Gigs for Jan.29-Feb. 4: Morris Day and the Time, Judith Hill, Sean Anonymous, Sicbay, Vampire Hands, Chris Young and more"**](https://www.startribune.com/the-big-gigs-for-jan-29-feb-4-morris-day-and-the-time-judith-hill-sean-anonymous-sicbay-vampire-hands-chris-young-and-more/366869351/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 29 January 2016
+    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Monte Moir](../../topics/monte-moir/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/the-big-gigs-for-jan-29-feb-4-morris-day-and-the-time-judith-hill-sean-anonymous-sicbay-vampire-hands-chris-young-and-more/366869351/))
 
 ----
 
@@ -4006,8 +4226,15 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 26 January 2016
-    - about [Morris Day](../../topics/morris-day/index.md)
+    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Monte Moir](../../topics/monte-moir/index.md), [Morris Day](../../topics/morris-day/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/it-s-party-time-at-paisley-morris-day-to-play-prince-s-place-friday/366612721/))
+
+----
+
+ - [**"Pick Six: Praise for Jessica Lee Wilkes, the Parkway Theater, Bruce Springsteen, Questlove vs. Prince"**](https://www.startribune.com/pick-six-praise-for-jessica-lee-wilkes-the-parkway-theater-bruce-springsteen-questlove-vs-prince/366130411/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 23 January 2016
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/pick-six-praise-for-jessica-lee-wilkes-the-parkway-theater-bruce-springsteen-questlove-vs-prince/366130411/))
 
 ----
 
@@ -4032,6 +4259,15 @@
     - on 20 January 2016
     - about [Larry Graham](../../topics/larry-graham/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/larry-graham-to-play-night-2-of-gala-event-at-prince-s-paisley-park/365992291/))
+
+----
+
+ - [**"Live from LA: Jam & Lewis board 'Fresh Off the Boat'"**](https://www.startribune.com/live-from-la-jam-lewis-board-fresh-off-the-boat/365536321/)
+    - by [Neal Justin](../../authors/neal-justin/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 16 January 2016
+    - about [Jam & Lewis](../../topics/jam-lewis/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/live-from-la-jam-lewis-board-fresh-off-the-boat/365536321/))
 
 ----
 

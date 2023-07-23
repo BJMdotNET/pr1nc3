@@ -1,6 +1,6 @@
 # 2018
 
-## December 2018 (26)
+## December 2018 (27)
 
  - [**"The Cloud Bass"**](https://madcatsandclouds.com/2018/12/30/the-cloud-bass/)
     - in [Madcats & Clouds](../../publications/k-o/madcats-clouds/index.md)
@@ -73,6 +73,15 @@
 
 ----
 
+ - [**"10 signs the Minnesota music scene was alive and well in 2018 -- Need a reason to stay positive? Here are 10."**](https://www.startribune.com/10-signs-the-minnesota-music-scene-was-alive-and-well-in-2018/503245841/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 21 December 2018
+    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Super Bowl](../../topics/super-bowl/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/10-signs-the-minnesota-music-scene-was-alive-and-well-in-2018/503245841/))
+
+----
+
  - [**"First Ave, Electric Fetus named best in U.S. again by Rolling Stone"**](https://www.startribune.com/first-ave-electric-fetus-named-best-in-u-s-again-by-rolling-stone/502770432/)
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
@@ -86,7 +95,7 @@
     - by [Neal Justin](../../authors/neal-justin/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 14 December 2018
-    - about [Morris Day](../../topics/morris-day/index.md)
+    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/morris-day-s-misadventures-in-minneapolis-get-animated-for-mike-judge-s-tv-series/502781422/))
 
 ----
@@ -798,7 +807,7 @@
 
 ----
 
-## August 2018 (11)
+## August 2018 (14)
 
  - [**"De Cooke a Houston: funerales de los grandes de la música"**](https://apnews.com/article/192fabd3f7a544828a8f6233b72aa3e5)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
@@ -856,6 +865,15 @@
 
 ----
 
+ - [**"At 79, William Bell proves to be consummate soul man at the Dakota in Minneapolis"**](https://www.startribune.com/review-at-79-william-bell-proves-to-be-consummate-soul-man-at-the-dakota/490695081/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 13 August 2018
+    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/review-at-79-william-bell-proves-to-be-consummate-soul-man-at-the-dakota/490695081/))
+
+----
+
  - [**"Prince to receive honorary degree from University of Minnesota"**](https://www.startribune.com/prince-to-receive-honorary-degree-from-university-of-minnesota-on-sept-26/490762631/)
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
@@ -865,11 +883,27 @@
 
 ----
 
+ - [**"Questlove says don't blame him for no symphonic Prince concert in Minneapolis — yet"**](https://www.startribune.com/questlove-says-don-t-blame-him-for-no-symphonic-prince-concert-in-minneapolis-yet/490753101/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 13 August 2018
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/questlove-says-don-t-blame-him-for-no-symphonic-prince-concert-in-minneapolis-yet/490753101/))
+
+----
+
  - [**"Susan Rogers on her four intense years working for Prince -- Susan Rogers was Prince's sound engineer on albums including Purple Rain and Sign o' the Times. It was four years of her life that left a huge impression, she tells Tony Stamp."**](https://www.rnz.co.nz/national/programmes/nat-music/audio/2018657684/susan-rogers-on-her-four-intense-years-working-for-prince)
     - in [RNZ](../../publications/p-t/rnz/index.md)
     - on 11 August 2018
     - about [Owen Husney](../../topics/owen-husney/index.md), [ping-pong](../../topics/ping-pong/index.md), [Susan Rogers](../../topics/susan-rogers/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.rnz.co.nz/national/programmes/nat-music/audio/2018657684/susan-rogers-on-her-four-intense-years-working-for-prince))
+
+----
+
+ - [**"Questlove to curate authorized Prince symphonic tour but there's no Minneapolis concert"**](https://www.startribune.com/questlove-to-curate-authorized-prince-symphonic-tour-but-there-s-no-minneapolis-concert/490572431/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 10 August 2018
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/questlove-to-curate-authorized-prince-symphonic-tour-but-there-s-no-minneapolis-concert/490572431/))
 
 ----
 
@@ -965,7 +999,7 @@
 
 ----
 
-## June 2018 (20)
+## June 2018 (21)
 
  - [**"Former Prince Property to be Developed into Residential Neighborhood"**](https://kstp.com/news/prince-property-chanhassen-developed-residential-neighborhood-/4969812/)
     - in [KSTP](../../publications/k-o/kstp/index.md)
@@ -1098,6 +1132,15 @@
 
 ----
 
+ - [**"Jimmy Jam lands new music talk-show on SiriusXM radio"**](https://www.startribune.com/jimmy-jam-lands-new-music-talk-show-on-siriusxm-radio/484604231/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 5 June 2018
+    - about [Jimmy Jam](../../topics/jimmy-jam/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/jimmy-jam-lands-new-music-talk-show-on-siriusxm-radio/484604231/))
+
+----
+
  - [**"Recording with Prince: An Interview with Susan Rogers from Berklee Online"**](https://online.berklee.edu/takenote/recording-with-prince-an-interview-with-susan-rogers-from-berklee-online/)
     - in [Berklee Online (Berklee College of Music)](../../publications/a-e/berklee-online-berklee-college-of-music/index.md)
     - on 5 June 2018
@@ -1190,7 +1233,7 @@
 
 ----
 
-## April 2018 (58)
+## April 2018 (59)
 
  - [**"Investigation says Prince was isolated, addicted and in pain -- (AP Archive)"**](https://www.youtube.com/watch?v=iO7eX1j6n2E)
     - in [YouTube](../../publications/u-z/youtube/index.md)
@@ -1238,6 +1281,14 @@
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 23 April 2018
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/rediscovered-prince-photos-capture-rising-star/480030753/))
+
+----
+
+ - [**"Rediscovered Prince photos show the rising star in 1980s Minneapolis -- Unpublished images from Star Tribune archives offer fresh proof of his love for the Twin Cities."**](https://www.startribune.com/rediscovered-prince-photos-show-the-rising-star-in-1980s-minneapolis/480030753/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 23 April 2018
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/rediscovered-prince-photos-show-the-rising-star-in-1980s-minneapolis/480030753/))
 
 ----
 
@@ -1455,9 +1506,10 @@
 ----
 
  - [**"New Prince record released today: His version of 'Nothing Compares 2 U'"**](https://www.startribune.com/new-prince-record-released-today-his-version-of-nothing-compares-2-u/480265043/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 19 April 2018
-    - about [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md)
+    - about [Celebration 2018 (event)](../../topics/event/celebration-2018/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jerome Benton](../../topics/jerome-benton/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/new-prince-record-released-today-his-version-of-nothing-compares-2-u/480265043/))
 
 ----
@@ -1816,7 +1868,7 @@
 
 ----
 
-## February 2018 (14)
+## February 2018 (19)
 
  - [**"Minnesota Twins will funk it up with Prince branding deal, second night honoring the artist"**](https://www.startribune.com/minnesota-twins-bring-back-popular-prince-night-for-a-second-year/475168823/)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
@@ -1854,7 +1906,7 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 23 February 2018
-    - about [fDeluxe](../../topics/fdeluxe/index.md), [Sheila E.](../../topics/sheila-e/index.md)
+    - about [fDeluxe](../../topics/fdeluxe/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Super Bowl](../../topics/super-bowl/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/second-annual-celebration-at-prince-s-paisley-park-to-feature-sheila-e-fdeluxe-npg/474975113/))
 
 ----
@@ -1872,6 +1924,15 @@
     - on 8 February 2018
     - about [lawsuit](../../topics/lawsuit/index.md), [opioid](../../topics/opioid/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/107709159cae04ce00e3ce016a7523ab))
+
+----
+
+ - [**"52 pickup: a look at the Super Bowl numbers -- With Super Bowl LII over and visitors out of town, the counting is just gearing up."**](https://www.startribune.com/52-pickup-a-look-at-the-super-bowl-numbers/473202563/)
+    - by [Rochelle Olson](../../authors/rochelle-olson/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 7 February 2018
+    - about [Super Bowl](../../topics/super-bowl/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/52-pickup-a-look-at-the-super-bowl-numbers/473202563/))
 
 ----
 
@@ -1907,11 +1968,38 @@
 
 ----
 
+ - [**"DJ Questlove spins Prince tunes for late-night party at Dakota Jazz Club"**](https://www.startribune.com/dj-questlove-spins-prince-tunes-for-late-night-party-at-dakota-jazz-club/472482923/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 3 February 2018
+    - about [Super Bowl](../../topics/super-bowl/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/dj-questlove-spins-prince-tunes-for-late-night-party-at-dakota-jazz-club/472482923/))
+
+----
+
+ - [**"Flash mob brings Prince to St. Paul's Ice Palace"**](https://www.startribune.com/flash-mob-brings-prince-to-st-paul-s-ice-palace/472535903/)
+    - by [Kelly Smith](../../authors/kelly-smith/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 3 February 2018
+    - about [Super Bowl](../../topics/super-bowl/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/flash-mob-brings-prince-to-st-paul-s-ice-palace/472535903/))
+
+----
+
  - [**"Justin Timberlake previews Super Bowl halftime show: No Janet Jackson"**](https://apnews.com/7c4321049c904c9fa912ac8290000f23)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 2 February 2018
     - about [Janet Jackson](../../topics/janet-jackson/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [Super Bowl](../../topics/super-bowl/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/7c4321049c904c9fa912ac8290000f23))
+
+----
+
+ - [**"Justin Timberlake shows off new album, dance moves at Prince's Paisley Park"**](https://www.startribune.com/justin-timberlake-shows-off-new-album-dance-moves-at-prince-s-paisley-park/472223243/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 2 February 2018
+    - about [Super Bowl](../../topics/super-bowl/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/justin-timberlake-shows-off-new-album-dance-moves-at-prince-s-paisley-park/472223243/))
 
 ----
 
@@ -1931,13 +2019,40 @@
 
 ----
 
-## January 2018 (8)
+ - [**"Twin Cities concerts of the week: Dieg Cig, Mary Lambert, Bob Marley Remembered -- Big gigs for the week of Feb. 2-8, also including New Power Generation, Questlove, Kimbra and Pink."**](https://www.startribune.com/twin-cities-concerts-of-the-week-dieg-cig-mary-lambert-bob-marley-remembered/472225943/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 1 February 2018
+    - about [Super Bowl](../../topics/super-bowl/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/twin-cities-concerts-of-the-week-dieg-cig-mary-lambert-bob-marley-remembered/472225943/))
+
+----
+
+## January 2018 (13)
+
+ - [**"NPG, Dessa, Mint Condition weather another electric Super Bowl Live show"**](https://www.startribune.com/npg-dessa-mint-condition-weather-another-electric-super-bowl-live-show/472074623/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 31 January 2018
+    - about [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/npg-dessa-mint-condition-weather-another-electric-super-bowl-live-show/472074623/))
+
+----
 
  - [**"Justin Timberlake Super Bowl bash upsets some Prince fans"**](https://apnews.com/06f3c57285d142b4968a920090c3afe8)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 30 January 2018
     - about [Jeremiah Freed](../../topics/jeremiah-freed/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [museum](../../topics/museum/index.md), [Super Bowl](../../topics/super-bowl/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/06f3c57285d142b4968a920090c3afe8))
+
+----
+
+ - [**"Super-sized Prince party rocks Nicollet Mall -- Three acts closely associated with the Minnesota rock legend — none of whom had played together since his 2016 death — showed their singular dedication by performing his songs outside in single-digit temperatures for the Super Bowl Live concert series."**](https://www.startribune.com/super-sized-prince-party-rocks-nicollet-mall/471712573/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 30 January 2018
+    - about [Morris Day](../../topics/morris-day/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/super-sized-prince-party-rocks-nicollet-mall/471712573/))
 
 ----
 
@@ -1949,12 +2064,21 @@
 
 ----
 
- - [**"Super-sized Prince party rocks Nicollet Mall -- Three acts closely associated with the Minnesota rock legend — none of whom had played together since his 2016 death — showed their singular dedication by performing his songs outside in single-digit temperatures for the Super Bowl Live concert series."**](https://www.startribune.com/super-sized-prince-party-rocks-nicollet-mall/471712573/)
+ - [**"5 Minneapolis Super Bowl concerts worth the splurge, plus 5 cheaper alternatives -- Five shows worth the inflated price tags, and cheaper alternatives that we think will rock."**](https://www.startribune.com/5-minneapolis-super-bowl-concerts-worth-the-splurge-plus-5-cheaper-alternatives/471123683/)
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
-    - on 29 January 2018
-    - about [Super Bowl](../../topics/super-bowl/index.md)
-    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/super-sized-prince-party-rocks-nicollet-mall/471712573/))
+    - on 26 January 2018
+    - about [Morris Day](../../topics/morris-day/index.md), [Super Bowl](../../topics/super-bowl/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/5-minneapolis-super-bowl-concerts-worth-the-splurge-plus-5-cheaper-alternatives/471123683/))
+
+----
+
+ - [**"Minneapolis-bred producer Jimmy Jam talks Janet Jackson, free Super Bowl concerts -- He wouldn't say whether his pal will be in Minneapolis for the festivities."**](https://www.startribune.com/minneapolis-bred-producer-jimmy-jam-talks-janet-jackson-free-super-bowl-concerts/471303144/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 26 January 2018
+    - about [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/minneapolis-bred-producer-jimmy-jam-talks-janet-jackson-free-super-bowl-concerts/471303144/))
 
 ----
 
@@ -1963,6 +2087,15 @@
     - on 25 January 2018
     - about [André Cymone](../../topics/andr-cymone/index.md), [Brother Jules](../../topics/brother-jules/index.md), [Cynthia Johnson](../../topics/cynthia-johnson/index.md), [Dakota (place)](../../topics/place/dakota/index.md), [fDeluxe](../../topics/fdeluxe/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Gwen Stefani](../../topics/gwen-stefani/index.md), [Morris Day](../../topics/morris-day/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Nicollet Mall (place)](../../topics/place/nicollet-mall/index.md), [Nooky Jones](../../topics/nooky-jones/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Soul Asylum](../../topics/soul-asylum/index.md), [Sounds of Blackness](../../topics/sounds-of-blackness/index.md), [Super Bowl](../../topics/super-bowl/index.md), [The Family](../../topics/the-family/index.md), [The Revolution](../../topics/the-revolution/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/b5354fb801f94674abaf28203dd6eec2))
+
+----
+
+ - [**"Super Bowl Live free concert schedule revealed with new Minnesota all-stars -- The final lineup includes themed nights, including a Rhymesayers hip-hop showcase and a Sunday offering of gospel performers."**](https://www.startribune.com/super-bowl-live-free-concert-schedule-revealed-with-new-minnesota-all-stars/470150683/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 19 January 2018
+    - about [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/super-bowl-live-free-concert-schedule-revealed-with-new-minnesota-all-stars/470150683/))
 
 ----
 
@@ -1987,6 +2120,15 @@
     - on 17 January 2018
     - about [airport](../../topics/airport/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [museum](../../topics/museum/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/5ddc01f147644c79820a62b065eb5efb))
+
+----
+
+ - [**"Pop-up Prince exhibit, ice skating and an IMAX-style dome part of 10-day Super Bowl Live event -- Organizers announce more activities on Nicollet Mall before the big game."**](https://www.startribune.com/pop-up-prince-exhibit-ice-skating-and-an-imax-style-dome-part-of-10-day-super-bowl-live-event/469433723/)
+    - by [Rochelle Olson](../../authors/rochelle-olson/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 16 January 2018
+    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Super Bowl](../../topics/super-bowl/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/pop-up-prince-exhibit-ice-skating-and-an-imax-style-dome-part-of-10-day-super-bowl-live-event/469433723/))
 
 ----
 

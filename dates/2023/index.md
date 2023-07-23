@@ -1,28 +1,6 @@
 # 2023
 
-## July 2023 (30)
-
- - [**"Bernadette Anderson"**](https://www.startribune.com/obituaries/detail/951297/)
-    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
-    - on 22 July 2023
-    - about [Bernadette Anderson](../../topics/bernadette-anderson/index.md)
-    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/obituaries/detail/951297/))
-
-----
-
- - [**"Chris &#039;Floater&#039; Malone"**](https://www.startribune.com/obituaries/detail/0000421011/)
-    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
-    - on 22 July 2023
-    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/obituaries/detail/0000421011/))
-
-----
-
- - [**"Gregory Kent &#039;Greg&#039; Warner"**](https://www.startribune.com/obituaries/detail/0000445576/)
-    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
-    - on 22 July 2023
-    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/obituaries/detail/0000445576/))
-
-----
+## July 2023 (27)
 
  - [**"See spots that inspired Prince through a Minneapolis segway tour -- WCCO - CBS Minnesota"**](https://www.youtube.com/watch?v=jSJCuSZCq-4)
     - in [YouTube](../../publications/u-z/youtube/index.md)
@@ -441,6 +419,7 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md), [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 7 June 2023
+    - about [Jimmy Jam](../../topics/jimmy-jam/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/twin-cities-the-cure-bebe-rexha-tyler-childers-weezer-rodrigo-y-gabriela-meshell-ndegeocello/600280755/))
 
 ----
@@ -486,7 +465,16 @@
 
 ----
 
-## May 2023 (23)
+## May 2023 (24)
+
+ - [**"The Big Gigs: 10 concerts (and more) to see in the Twin Cities this week -- Highlights for June 1-7 include the Yeah Yeah Yeahs, Morris Day, Brooks & Dunn, Jaedyn James and Alejandro Escovedo."**](https://www.startribune.com/twin-cities-yeah-yeah-yeahs-morris-day-brooks-and-dunn-alejandro-escovedo-jimmy-webb-jaedyn-james/600278975/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md), [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 31 May 2023
+    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/twin-cities-yeah-yeah-yeahs-morris-day-brooks-and-dunn-alejandro-escovedo-jimmy-webb-jaedyn-james/600278975/))
+
+----
 
  - [**"9 free things to do in the Twin Cities this week -- From a water festival to outdoor opera, Minnesota has it all — cheap."**](https://www.startribune.com/9-free-things-to-do-in-the-twin-cities-this-week/600278672/)
     - by [Melissa Walker](../../authors/melissa-walker/index.md)
@@ -500,6 +488,7 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md), [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 24 May 2023
+    - about [Jimmy Jam](../../topics/jimmy-jam/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/twin-cities-janet-jackson-dwight-yoakam-ondara-caterwaul-terrace-martin-gully-boys-kiss-the-tiger/600277349/))
 
 ----
@@ -601,6 +590,7 @@
     - by [Rochelle Olson](../../authors/rochelle-olson/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 9 May 2023
+    - about [Super Bowl](../../topics/super-bowl/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/princely-pride-stretch-of-highway-5-officially-named-for-minnesotan-prince-paisley-park/600273577/))
 
 ----
@@ -817,6 +807,7 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 29 March 2023
+    - about [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/boyz-ii-men-chaka-khan-minnesota-state-fair-on-aug-27-prince-jimmy-jam-terry-lewis-mariah-carey/600262944/))
 
 ----
@@ -879,12 +870,13 @@
 
 ----
 
-## February 2023 (5)
+## February 2023 (6)
 
  - [**"Senate President Bobby Joe Champion blazes a leadership path at the Capitol -- Lawyer-musician brings array of skills as he seeks to get the Senate working in harmony."**](https://www.startribune.com/senate-president-bobby-joe-champion-blazes-a-leadership-path-at-the-capitol/600254598/)
     - by [Rochelle Olson](../../authors/rochelle-olson/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 26 February 2023
+    - about [Jimmy Jam](../../topics/jimmy-jam/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/senate-president-bobby-joe-champion-blazes-a-leadership-path-at-the-capitol/600254598/))
 
 ----
@@ -911,6 +903,14 @@
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 5 February 2023
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/beyonce-makes-grammy-history-in-a-night-of-electrifying-performances-harry-styles-lizzo-prince/600249371/))
+
+----
+
+ - [**"Our critic handicaps the 14 new Rock & Roll Hall of Fame nominees -- The top finalists include Willie Nelson, the White Stripes, George Michael, Missy Elliott and Sheryl Crow."**](https://www.startribune.com/rock-hall-of-fame-critic-handicaps-14-new-nominees-willie-nelson-kate-bush-white-stripes-sheryl-crow/600248255/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 1 February 2023
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/rock-hall-of-fame-critic-handicaps-14-new-nominees-willie-nelson-kate-bush-white-stripes-sheryl-crow/600248255/))
 
 ----
 

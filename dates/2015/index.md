@@ -87,7 +87,7 @@
 
 ----
 
-## September 2015 (8)
+## September 2015 (11)
 
  - [**"Beyonce, Jay Z and Prince to Headline Tidal Charity Concert"**](https://variety.com/2015/music/news/beyonce-jay-z-prince-tidal-charity-concert-1201606351/)
     - in [Variety](../../publications/u-z/variety/index.md)
@@ -114,11 +114,35 @@
 
 ----
 
+ - [**"Who&#039;s on Taylor Swift&#039;s all-star guest list for Twin Cities shows? -- Her three St. Paul shows could be celeb-packed like the rest of her "1989" tour."**](https://www.startribune.com/who-s-on-taylor-swift-s-all-star-guest-list-for-twin-cities/326369041/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 13 September 2015
+    - about [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/who-s-on-taylor-swift-s-all-star-guest-list-for-twin-cities/326369041/))
+
+----
+
+ - [**"Item World: D&#039;Angelo vs. Prince; Questlove gets upset; University of Minnesota student wins funniest person in Twin Cities, more"**](https://www.startribune.com/item-world-d-angelo-vs-prince-questlove-gets-upset-university-of-minnesota-student-wins-funniest-person-in-twin-cities-more/326368471/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 10 September 2015
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/item-world-d-angelo-vs-prince-questlove-gets-upset-university-of-minnesota-student-wins-funniest-person-in-twin-cities-more/326368471/))
+
+----
+
  - [**"Review: Prince's new album is hit and miss -- On “HitNRun,” the Purple One delivers a hodgepodge of R&B, EDM and some guitar heroics."**](https://www.startribune.com/review-prince-s-new-album-is-hit-and-miss/325974271/)
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 9 September 2015
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/review-prince-s-new-album-is-hit-and-miss/325974271/))
+
+----
+
+ - [**"Review: D&#039;Angelo burns brightly at First Avenue -- Review: After tentative start, the eccentric soul man ignited for a blazing two-hour finale."**](https://www.startribune.com/review-d-angelo-burns-brightly-at-first-avenue/325479831/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 7 September 2015
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/review-d-angelo-burns-brightly-at-first-avenue/325479831/))
 
 ----
 
@@ -154,13 +178,35 @@
 
 ----
 
-## August 2015 (2)
+## August 2015 (5)
+
+ - [**"Music spotlight: D&#039;Angelo brings his 10-piece band to First Avenue"**](https://www.startribune.com/music-spotlight-d-angelo-brings-his-10-piece-band-to-first-avenue/323230891/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 28 August 2015
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/music-spotlight-d-angelo-brings-his-10-piece-band-to-first-avenue/323230891/))
+
+----
+
+ - [**"Dylan tops Rolling Stone's rankings of best songwriters; Prince is No. 18"**](https://www.startribune.com/dylan-tops-rolling-stone-s-rankings-of-best-songwriters-prince-is-no-18/321851631/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 14 August 2015
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/dylan-tops-rolling-stone-s-rankings-of-best-songwriters-prince-is-no-18/321851631/))
+
+----
 
  - [**"C.J.: The bachelorette party was in the secure hands of CBS' Jeff Pegues"**](https://www.startribune.com/c-j-the-bachelorette-party-was-in-the-secure-hands-of-cbs-jeff-pegues/321326941/)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 10 August 2015
     - about [C.J.](../../topics/c-j/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/c-j-the-bachelorette-party-was-in-the-secure-hands-of-cbs-jeff-pegues/321326941/))
+
+----
+
+ - [**"Pick Six: Praise for Lauryn Hill, Jon Batiste, Don Cheadle, Prince, Rickie Lee Jones, more"**](https://www.startribune.com/pick-six-praise-for-lauryn-hill-jon-batiste-don-cheadle-prince-rickie-lee-jones-more/321047611/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 8 August 2015
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/pick-six-praise-for-lauryn-hill-jon-batiste-don-cheadle-prince-rickie-lee-jones-more/321047611/))
 
 ----
 
@@ -232,7 +278,7 @@
     - by [C.J. (Cheryl Johnson)](../../authors/c-j-cheryl-johnson/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 6 May 2015
-    - about [C.J.](../../topics/c-j/index.md)
+    - about [C.J.](../../topics/c-j/index.md), [Coco & Breezy](../../topics/coco-breezy/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/c-j-tv-guys-blake-mccoy-and-tom-butler-have-nationally-recognized-hair/302847421/))
 
 ----
@@ -289,7 +335,52 @@
 
 ----
 
-## February 2015 (2)
+## February 2015 (7)
+
+ - [**"At 100, Greater Twin Cities United Way courts a new generation of givers"**](https://www.startribune.com/greater-twin-cities-united-way-courts-a-new-generation/293094321/)
+    - by [Jean Hopfensperger](../../authors/jean-hopfensperger/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 23 February 2015
+    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/greater-twin-cities-united-way-courts-a-new-generation/293094321/))
+
+----
+
+ - [**"Concert review: Hozier full of holy fire but not yet wholly rounded -- The Irish artist proved Friday he has soul, and some learning to do."**](https://www.startribune.com/hozier-full-of-holy-fire-but-not-yet-wholly-rounded/293665801/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 23 February 2015
+    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/hozier-full-of-holy-fire-but-not-yet-wholly-rounded/293665801/))
+
+----
+
+ - [**"Review: Hozier full of holy fire but not yet wholly rounded -- The Irish artist proved Friday he has soul, and some learning to do."**](https://www.startribune.com/review-hozier-full-of-holy-fire-but-not-yet-wholly-rounded/293222771/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 23 February 2015
+    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/review-hozier-full-of-holy-fire-but-not-yet-wholly-rounded/293222771/))
+
+----
+
+ - [**"Irish hitmaker Hozier talks &#039;Church&#039; and his state of mind -- The "Take Me to Church" singer, 24, says he' enjoying the ride, especially when it came to the Grammys."**](https://www.startribune.com/irish-hitmaker-hozier-talks-church-and-his-state-of-mind/292710011/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 19 February 2015
+    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/irish-hitmaker-hozier-talks-church-and-his-state-of-mind/292710011/))
+
+----
+
+ - [**"Hozier&#039;s &#039;Church&#039; and state -- "Take Me to Church" hitmaker is enjoying the ride."**](https://www.startribune.com/hozier-s-church-and-state/292515361/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 18 February 2015
+    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/hozier-s-church-and-state/292515361/))
+
+----
 
  - [**"Players, celebs and models converge during All-Star weekend"**](https://apnews.com/ba65c68171c64269919a07e1d745ced6)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)

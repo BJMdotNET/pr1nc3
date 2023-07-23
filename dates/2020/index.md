@@ -1,6 +1,6 @@
 # 2020
 
-## November 2020 (2)
+## November 2020 (3)
 
  - [**"Finding Minnesota: Prince The Tour -- WCCO - CBS Minnesota"**](https://www.youtube.com/watch?v=5ihp2951itU)
     - in [YouTube](../../publications/u-z/youtube/index.md)
@@ -10,12 +10,31 @@
 
 ----
 
+ - [**"15 holiday gifts for music lovers: Taylor Swift, Bob Dylan and more -- The lack of concerts in 2020 only adds to the appetite for music-related presents."**](https://www.startribune.com/15-holiday-gifts-for-music-lovers-from-taylor-swift-bob-dylan-and-more/573215411/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md), [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 29 November 2020
+    - about [Morris Day](../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/15-holiday-gifts-for-music-lovers-from-taylor-swift-bob-dylan-and-more/573215411/))
+
+----
+
  - [**"Kristin Scott Thomas Opens Up On Working With Prince On Her First Film Role -- Kristin Scott Thomas has looked back on the highlights of her acting career, kicked off with a lead role in Prince’s directorial debut feature."**](https://www.thethings.com/kristin-scott-thomas-opens-up-on-working-with-prince-on-her-first-film-role/)
     - by [Stefania Sarrubba](../../authors/stefania-sarrubba/index.md)
     - in [thethings.com](../../publications/p-t/thethings-com/index.md)
     - on 17 November 2020
     - about [Kristin Scott Thomas](../../topics/kristin-scott-thomas/index.md), [Mary Sharon](../../topics/mary-sharon/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.thethings.com/kristin-scott-thomas-opens-up-on-working-with-prince-on-her-first-film-role/))
+
+----
+
+## October 2020 (1)
+
+ - [**"When Prince met the rabbi: Singer&#039;s spiritual awakening detailed in &#039;This Thing Called Life&#039; -- The singer's spiritual awakening is detailed in a new book out Tuesday."**](https://www.startribune.com/when-prince-met-the-rabbi-singer-s-spiritual-awakening-detailed-in-this-thing-called-life/572642902/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 5 October 2020
+    - about [Morris Day](../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/when-prince-met-the-rabbi-singer-s-spiritual-awakening-detailed-in-this-thing-called-life/572642902/))
 
 ----
 
@@ -49,6 +68,16 @@
     - on 2 September 2020
     - about [bootleg](../../topics/bootleg/index.md), [Carole King](../../topics/carole-king/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Don’t Talk 2 Strangers (song)](../../topics/song/don-t-talk-2-strangers/index.md), [Girl 6 (movie)](../../topics/movie/girl-6/index.md), [I Can’t Love U Anymore (song)](../../topics/song/i-can-t-love-u-anymore/index.md), [I’ll Do Anything (movie)](../../topics/movie/i-ll-do-anything/index.md), [James L Brooks](../../topics/james-l-brooks/index.md), [Julie Kavner](../../topics/julie-kavner/index.md), [Karina Longworth](../../topics/karina-longworth/index.md), [Los Angeles Times (newspaper)](../../topics/newspaper/los-angeles-times/index.md), [movie musical](../../topics/movie-musical/index.md), [musical](../../topics/musical/index.md), [My Little Pill (song)](../../topics/song/my-little-pill/index.md), [Nick Nolte](../../topics/nick-nolte/index.md), [Polly Platt](../../topics/polly-platt/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md), [Spike Lee](../../topics/spike-lee/index.md), [There Is Lonely (song)](../../topics/song/there-is-lonely/index.md), [Tracey Ullman](../../topics/tracey-ullman/index.md), [vault](../../topics/vault/index.md), [workprint](../../topics/workprint/index.md), [Wow (song)](../../topics/song/wow/index.md), [You Must Remember This (podcast)](../../topics/podcast/you-must-remember-this/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.independent.co.uk/arts-entertainment/films/features/ill-do-anything-musical-cut-watch-james-l-brooks-prince-nick-nolte-polly-platt-a9700661.html))
+
+----
+
+## August 2020 (1)
+
+ - [**"Official Prince estate podcast explores 'Sign o' the Times' album"**](https://www.startribune.com/official-prince-estate-podcast-explores-sign-o-the-times-album/572243652/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 27 August 2020
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/official-prince-estate-podcast-explores-sign-o-the-times-album/572243652/))
 
 ----
 
@@ -180,7 +209,77 @@
 
 ----
 
-## April 2020 (2)
+## May 2020 (2)
+
+ - [**"Here comes another Purple memoir -- from Prince bassist Brownmark"**](https://www.startribune.com/here-comes-another-purple-memoir-from-prince-bassist-brownmark/570565402/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 18 May 2020
+    - about [Morris Day](../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/here-comes-another-purple-memoir-from-prince-bassist-brownmark/570565402/))
+
+----
+
+ - [**"How Little Richard influenced Minnesota&#039;s biggest rock acts -- Bob Dylan, Prince, the Time and even the Replacements all showed off his impressions on them."**](https://www.startribune.com/how-little-richard-influenced-minnesota-s-biggest-rock-acts/570339721/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 9 May 2020
+    - about [Jerome Benton](../../topics/jerome-benton/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/how-little-richard-influenced-minnesota-s-biggest-rock-acts/570339721/))
+
+----
+
+## April 2020 (8)
+
+ - [**"6 cool things in music this week include Rita Wilson, Dion, Fiona Apple and Questlove&#039;s Prince marathon"**](https://www.startribune.com/6-cool-things-in-music-this-week-include-rita-wilson-dion-fiona-apple-and-questlove-s-prince-marathon/569927132/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 24 April 2020
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/6-cool-things-in-music-this-week-include-rita-wilson-dion-fiona-apple-and-questlove-s-prince-marathon/569927132/))
+
+----
+
+ - [**"Minneapolis Super Bowl got Jimmy Jam, Terry Lewis ready for Grammy salute to Prince"**](https://www.startribune.com/minneapolis-super-bowl-got-jimmy-jam-terry-lewis-ready-for-grammy-salute-to-prince/569845292/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 22 April 2020
+    - about [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/minneapolis-super-bowl-got-jimmy-jam-terry-lewis-ready-for-grammy-salute-to-prince/569845292/))
+
+----
+
+ - [**"On anniversary of Prince&#039;s death, Paisley Park will stay dark for now"**](https://www.startribune.com/on-anniversary-of-prince-s-death-paisley-park-will-stay-dark-for-now/569794822/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 21 April 2020
+    - about [Celebration 2020 (event)](../../topics/event/celebration-2020/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/on-anniversary-of-prince-s-death-paisley-park-will-stay-dark-for-now/569794822/))
+
+----
+
+ - [**"Tuesday&#039;s all-star Grammy salute proves &#039;Prince does music better than anybody&#039; -- CBS salutes Prince on the fourth anniversary of his death."**](https://www.startribune.com/tuesday-s-all-star-grammy-salute-proves-prince-does-music-better-than-anybody/569794772/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 21 April 2020
+    - about [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/tuesday-s-all-star-grammy-salute-proves-prince-does-music-better-than-anybody/569794772/))
+
+----
+
+ - [**"Our Prince wish list: 12 more items we hope to unearth from his fabled vault -- Here's a wish list of 12 cherished items from Prince's fabled vault."**](https://www.startribune.com/our-prince-wish-list-12-more-items-we-hope-to-unearth-from-his-fabled-vault/569724522/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md), [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 19 April 2020
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/our-prince-wish-list-12-more-items-we-hope-to-unearth-from-his-fabled-vault/569724522/))
+
+----
+
+ - [**"Prince estate treats quarantined fans to &#039;Live at Aladdin&#039; EP, new concert playlists -- The 2002 EP is part of a five-disc 'Up All Nite' box set due on May 29."**](https://www.startribune.com/prince-estate-treats-quarantined-fans-to-live-at-aladdin-ep-new-concert-playlists/569726932/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 17 April 2020
+    - about [Morris Day](../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-estate-treats-quarantined-fans-to-live-at-aladdin-ep-new-concert-playlists/569726932/))
+
+----
 
  - [**"Tom Petty and Others Tell the Story Behind Prince’s “While My Guitar Gently Weeps” Solo -- “Everybody wonders where that guitar went, and I gotta tell you, I was on the stage, and I wonder where it went, too.”"**](https://www.guitarplayer.com/players/tom-petty-and-others-tell-the-story-behind-princes-while-my-guitar-gently-weeps-solo)
     - in [GuitarPlayer](../../publications/f-j/guitarplayer/index.md)

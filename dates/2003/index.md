@@ -1,12 +1,20 @@
 # 2003
 
-## October 2003 (1)
+## October 2003 (2)
 
  - [**"‘Urban Cowboy’ Honky-Tonk Reopens"**](https://apnews.com/article/364ab90c9586855c2cfd89f85e36a796)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 17 October 2003
     - about [John Travolta](../../topics/john-travolta/index.md), [Morris Day](../../topics/morris-day/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/364ab90c9586855c2cfd89f85e36a796))
+
+----
+
+ - [**"Obituary: Bernadette Anderson"**](https://www.startribune.com/obituaries/detail/951297/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 10 October 2003
+    - about [Bernadette Anderson](../../topics/bernadette-anderson/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/obituaries/detail/951297/))
 
 ----
 

@@ -149,6 +149,7 @@
 ----
 
  - [**"20 gift ideas for the music lovers on your holiday list -- Twenty ideas for the music lovers on your holiday list."**](https://www.startribune.com/20-gift-ideas-for-the-music-lovers-on-your-holiday-list/566181501/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 16 December 2019
     - about [1999 Super Deluxe (album)](../../topics/album/1999-super-deluxe/index.md), [Bob Dylan](../../topics/bob-dylan/index.md), [bootleg](../../topics/bootleg/index.md), [Lizzo](../../topics/lizzo/index.md), [memoir](../../topics/memoir/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Morris Day](../../topics/morris-day/index.md), [My Name Is Prince: 25 Inspired Years (book)](../../topics/book/my-name-is-prince-25-inspired-years/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)
@@ -722,7 +723,8 @@
 
 ----
 
- - [**"How '1999' made Prince a star: 'This album was the turning point' -- An expanded reissue of Prince's breakthrough album shows how prolific he was in the early '80s."**](https://www.startribune.com/how-1999-made-prince-a-star-this-album-was-the-turning-point/565432932/)
+ - [**"How &#039;1999&#039; made Prince a star: &#039;This album was the turning point&#039; -- An expanded reissue of Prince's breakthrough album shows how prolific he was in the early '80s."**](https://www.startribune.com/how-1999-made-prince-a-star-this-album-was-the-turning-point/565432932/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 25 November 2019
     - about [1999 (album)](../../topics/album/1999/index.md), [Bangles](../../topics/bangles/index.md), [Bobby Z.](../../topics/bobby-z/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [James Brown](../../topics/james-brown/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Kiowa Trail](../../topics/kiowa-trail/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [memoir](../../topics/memoir/index.md), [Sly Stone](../../topics/sly-stone/index.md), [The Revolution](../../topics/the-revolution/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md)
@@ -2073,6 +2075,7 @@
 ----
 
  - [**"Buddy Holly and Roy Orbison in Minnesota? Hologram tours of old stars are the hot new concert trend -- Buddy Holly is coming to town with Roy Orbison? Yes, rock 'n' roll holograms are here to stay."**](https://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 12 October 2019
     - about [Aretha Franklin](../../topics/aretha-franklin/index.md), [Ed Sheeran](../../topics/ed-sheeran/index.md), [Frank Zappa](../../topics/frank-zappa/index.md), [hologram](../../topics/hologram/index.md), [Lizzo](../../topics/lizzo/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Morris Day](../../topics/morris-day/index.md), [perfume](../../topics/perfume/index.md)
@@ -2200,10 +2203,11 @@
 
 ----
 
- - [**"Prince haunts Morris Day's new memoir: 'I still hear his voice in my head' -- "Purple Rain" co-star and Time leader Morris Day details his long friendship with Prince in a memoir that brings him home to the Twin Cities this week."**](https://www.startribune.com/prince-haunts-morris-day-s-new-memoir-i-still-hear-his-voice-in-my-head/562430972/)
+ - [**"Prince haunts Morris Day&#039;s new memoir: &#039;I still hear his voice in my head&#039; -- "Purple Rain" co-star and Time leader Morris Day details his long friendship with Prince in a memoir that brings him home to the Twin Cities this week."**](https://www.startribune.com/prince-haunts-morris-day-s-new-memoir-i-still-hear-his-voice-in-my-head/562430972/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 8 October 2019
-    - about [Aretha Franklin](../../topics/aretha-franklin/index.md), [Donald Trump](../../topics/donald-trump/index.md), [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jamie Starr](../../topics/jamie-starr/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [Pandemonium (album)](../../topics/album/pandemonium/index.md), [Trump](../../topics/trump/index.md)
+    - about [Aretha Franklin](../../topics/aretha-franklin/index.md), [Donald Trump](../../topics/donald-trump/index.md), [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jamie Starr](../../topics/jamie-starr/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [Pandemonium (album)](../../topics/album/pandemonium/index.md), [Trump](../../topics/trump/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-haunts-morris-day-s-new-memoir-i-still-hear-his-voice-in-my-head/562430972/))
 
 ----
@@ -2289,7 +2293,7 @@
 
 ----
 
-## September 2019 (71)
+## September 2019 (72)
 
  - [**"Deborah Allen talks about 40-year career in country music, Prince -- Veteran country singer-songwriter Deborah Allen chatted with Digital Journal about her 40-year career in the country music scene."**](http://www.digitaljournal.com/entertainment/music/deborah-allen-talks-about-40-year-career-in-country-music-prince/article/558910)
     - in [Digital Journal](../../publications/a-e/digital-journal/index.md)
@@ -2724,6 +2728,13 @@
 
 ----
 
+ - [**"Vikings open season with 28-12 victory over Atlanta"**](https://www.startribune.com/vikings-open-season-with-28-12-win-over-atlanta/559728661/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 8 September 2019
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/vikings-open-season-with-28-12-win-over-atlanta/559728661/))
+
+----
+
  - [**"Prince Lives on in the Minnesota History Center’s Photo Exhibit Starting September 21"**](http://twincitiesgeek.com/2019/09/prince-lives-on-in-the-minnesota-history-centers-photo-exhibit-starting-september-21/)
     - in [twincitiesgeek.com](../../publications/p-t/twincitiesgeek-com/index.md)
     - on 7 September 2019
@@ -2862,7 +2873,7 @@
 
 ----
 
-## August 2019 (60)
+## August 2019 (62)
 
  - [**"Lionel Richie is ham on a shtick at the Minnesota State Fair -- He was chatty and comical in a sold-out hits-filled concert."**](https://www.startribune.com/lionel-richie-is-ham-on-a-shtick-at-the-minnesota-state-fair/558897292/)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
@@ -2909,6 +2920,15 @@
     - on 29 August 2019
     - about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [divorce](../../topics/divorce/index.md), [Donald Trump](../../topics/donald-trump/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [Trump](../../topics/trump/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.santacruzsentinel.com/2019/08/29/atwood-rushdie-novels-among-fall-highlights/))
+
+----
+
+ - [**"Daryl Hall & John Oates finally land at State Fair -- The grandstand was packed, but Hall's voice wasn't the guilty pleasure of the past."**](https://www.startribune.com/daryl-hall-amp-john-oates-finally-land-at-state-fair/558644652/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 29 August 2019
+    - about [Morris Day](../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/daryl-hall-amp-john-oates-finally-land-at-state-fair/558644652/))
 
 ----
 
@@ -3297,6 +3317,14 @@
 
 ----
 
+ - [**"TV picks for Aug. 4-8: &#039;My Life Is Murder,&#039; &#039;Woodstock,&#039; Morris Day"**](https://www.startribune.com/tv-picks-for-aug-4-8-my-life-is-murder-woodstock-morris-day/513510742/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 3 August 2019
+    - about [Morris Day](../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/tv-picks-for-aug-4-8-my-life-is-murder-woodstock-morris-day/513510742/))
+
+----
+
  - [**"Prince's Estate is Still Fighting to Register the Color Purple as a Trademark"**](http://www.thefashionlaw.com/home/princes-estate-is-still-fighting-to-register-the-color-purple)
     - in [The Fashion Law](../../publications/f-j/the-fashion-law/index.md)
     - on 2 August 2019
@@ -3346,7 +3374,7 @@
 
 ----
 
-## July 2019 (47)
+## July 2019 (49)
 
  - [**"Designer Laura LiPuma Nash talks directing Prince’s iconic album packages from ‘Purple Rain’ to ‘Lovesexy’"**](https://blog.thecurrent.org/2019/07/designer-laura-lipuma-nash-talks-directing-princes-iconic-album-packages-from-purple-rain-to-lovesexy/)
     - by [Lydia Moran](../../authors/lydia-moran/index.md)
@@ -3357,11 +3385,28 @@
 
 ----
 
+ - [**"TV picks for July 31: &#039;Four Weddings and a Funeral,&#039; &#039;Jihadi John, &#039;Sherman&#039;s Showcase&#039; -- Mindy Kaling's series is loosely based on the 1994 film."**](https://www.startribune.com/tv-picks-for-july-31-four-weddings-and-a-funeral-jihadi-john-sherman-s-showcase/513392622/)
+    - by [Neal Justin](../../authors/neal-justin/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 30 July 2019
+    - about [Morris Day](../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/tv-picks-for-july-31-four-weddings-and-a-funeral-jihadi-john-sherman-s-showcase/513392622/))
+
+----
+
  - [**"KIRKUS REVIEW: MY NAME IS PRINCE by Randee St. Nicholas"**](https://www.kirkusreviews.com/book-reviews/randee-st-nicholas/my-name-is-prince/)
     - in [Kirkus Reviews](../../publications/k-o/kirkus-reviews/index.md)
     - on 28 July 2019
     - about [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [My Name Is Prince: 25 Inspired Years (book)](../../topics/book/my-name-is-prince-25-inspired-years/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md), [Rearrange (song)](../../topics/song/rearrange/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.kirkusreviews.com/book-reviews/randee-st-nicholas/my-name-is-prince/))
+
+----
+
+ - [**"Pick Six: Praise of &#039;Song Exploder,&#039; Purple Mountains, Queen, Lyle Lovett, St. Paul Peterson -- Pick Six is a half-dozen cool things in music, from two points of view."**](https://www.startribune.com/pick-six-praise-of-song-exploder-purple-mountains-queen-lyle-lovett-st-paul-peterson/513208932/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 27 July 2019
+    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/pick-six-praise-of-song-exploder-purple-mountains-queen-lyle-lovett-st-paul-peterson/513208932/))
 
 ----
 
@@ -3760,7 +3805,7 @@
 
 ----
 
-## June 2019 (51)
+## June 2019 (52)
 
  - [**"Meet the man in charge of releasing Prince’s unheard songs from his private vault"**](https://thewest.com.au/entertainment/meet-the-man-in-charge-of-releasing-princes-unheard-songs-from-his-private-vault-ng-5844d5d8a68b1a7ddac6c4893ef8083f)
     - by [Cameron Adams](../../authors/cameron-adams/index.md)
@@ -3795,6 +3840,15 @@
     - on 27 June 2019
     - about [Around The World In A Day (album)](../../topics/album/around-the-world-in-a-day/index.md), [bootleg](../../topics/bootleg/index.md), [Michael Howe](../../topics/michael-howe/index.md), [museum](../../topics/museum/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../topics/album/originals/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [The Glamorous Life (song)](../../topics/song/the-glamorous-life/index.md), [Troy Carter](../../topics/troy-carter/index.md), [vault](../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.superdeluxeedition.com/interview/princes-archivist-michael-howe-talks-to-sde/))
+
+----
+
+ - [**"Twin Cities concerts of the week: The Roots, J. Lo, Rock the Garden, Common Sound -- The big gigs for June 28-July 4, also including Lake Street Dive, Dillinger Four's D4th, Lonely Island, Sergio Mendes and a new St. Paul concert series with Leftover Salmon."**](https://www.startribune.com/twin-cities-concerts-of-the-week-the-roots-j-lo-rock-the-garden-common-sound/511904782/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 27 June 2019
+    - about [Super Bowl](../../topics/super-bowl/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/twin-cities-concerts-of-the-week-the-roots-j-lo-rock-the-garden-common-sound/511904782/))
 
 ----
 
@@ -4130,11 +4184,11 @@
 
 ----
 
- - [**"Sometimes he dreamed his songs: A portrait of Prince in the recording studio -- “You had to be ready at any time for anything that inspired him,” says his L.A. engineer, who dishes on a new album of songs Prince wrote for other artists."**](https://www.startribune.com/sometimes-he-dreamed-his-songs-a-portrait-of-prince-in-the-recording-studio/510918872/)
+ - [**"Sometimes he dreamed his songs: A portrait of Prince in the recording studio -- "You had to be ready at any time for anything that inspired him," says his L.A. engineer, who dishes on a new album of songs Prince wrote for other artists."**](https://www.startribune.com/sometimes-he-dreamed-his-songs-a-portrait-of-prince-in-the-recording-studio/510918872/)
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 6 June 2019
-    - about [Originals (album)](../../topics/album/originals/index.md), [Peggy McCreary](../../topics/peggy-mccreary/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md)
+    - about [Morris Day](../../topics/morris-day/index.md), [Originals (album)](../../topics/album/originals/index.md), [Peggy McCreary](../../topics/peggy-mccreary/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/sometimes-he-dreamed-his-songs-a-portrait-of-prince-in-the-recording-studio/510918872/))
 
 ----
@@ -4191,7 +4245,7 @@
 
 ----
 
-## May 2019 (14)
+## May 2019 (15)
 
  - [**"Prince’s bodyguard deposed in wrongful death lawsuit"**](https://apnews.com/8e68cf25ceb245319425b5952c5d1be8)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
@@ -4222,6 +4276,15 @@
     - on 24 May 2019
     - about [James Brown](../../topics/james-brown/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://wepresent.wetransfer.com/story/susan-rogers/))
+
+----
+
+ - [**"Cher triumphs with the ultimate Cher drag show in St. Paul -- Cher was fabulous and fun, but she didn't spend enough time onstage entertaining on Saturday at Xcel Energy Center in St. Paul."**](https://www.startribune.com/cher-triumphs-with-the-ultimate-cher-drag-show-in-st-paul/510130912/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 20 May 2019
+    - about [Morris Day](../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/cher-triumphs-with-the-ultimate-cher-drag-show-in-st-paul/510130912/))
 
 ----
 
@@ -4310,7 +4373,7 @@
 
 ----
 
-## April 2019 (37)
+## April 2019 (41)
 
  - [**"Two veteran Minnesota bands earn their First Avenue stars (one a do-over)"**](https://www.startribune.com/two-veteran-minnesota-bands-earn-their-first-avenue-stars-one-a-do-over/509260572/)
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
@@ -4534,12 +4597,21 @@
 
 ----
 
- - [**"Prince's greatest talent? Self-confidence, says the manager who landed 'Purple Rain' -- Bob Cavallo recounts some of the tales he'll tell at Paisley Park for the third annual Celebration."**](https://www.startribune.com/prince-s-greatest-talent-self-confidence-says-the-manager-who-landed-purple-rain/508774052/)
+ - [**"Prince&#039;s greatest talent? Self-confidence, says the manager who landed &#039;Purple Rain&#039; -- Bob Cavallo recounts some of the tales he'll tell at Paisley Park for the third annual Celebration."**](https://www.startribune.com/prince-s-greatest-talent-self-confidence-says-the-manager-who-landed-purple-rain/508774052/)
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 20 April 2019
-    - about [Bob Cavallo](../../topics/bob-cavallo/index.md), [Graffiti Bridge (movie)](../../topics/movie/graffiti-bridge/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md)
+    - about [Bob Cavallo](../../topics/bob-cavallo/index.md), [Graffiti Bridge (movie)](../../topics/movie/graffiti-bridge/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-s-greatest-talent-self-confidence-says-the-manager-who-landed-purple-rain/508774052/))
+
+----
+
+ - [**"Former Minnesota football player scored in Hollywood with AMC&#039;s &#039;Into the Badlands&#039; series -- "Into the Badlands" star Sherman Augustus on how football informed his acting career."**](https://www.startribune.com/former-minnesota-viking-scored-in-hollywood-with-amc-s-into-the-badlands-series/508803152/)
+    - by [Neal Justin](../../authors/neal-justin/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 19 April 2019
+    - about [Jerome Benton](../../topics/jerome-benton/index.md), [Morris Day](../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/former-minnesota-viking-scored-in-hollywood-with-amc-s-into-the-badlands-series/508803152/))
 
 ----
 
@@ -4588,6 +4660,15 @@
 
 ----
 
+ - [**"Jimmy Jam and Terry Lewis kick off a new all-star project with Sounds of Blackness single"**](https://www.startribune.com/jimmy-jam-and-terry-lewis-new-project-kicks-off-with-sounds-of-blackness-single/508475872/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 12 April 2019
+    - about [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/jimmy-jam-and-terry-lewis-new-project-kicks-off-with-sounds-of-blackness-single/508475872/))
+
+----
+
  - [**"Pick Six: Praise for Lil Nas X, Bob Mould, Zedd, 'Jay's Longhorn' and more -- Pick Six is a half-dozen cool things in music, from two points of view."**](https://www.startribune.com/pick-six-praise-for-lil-nas-x-bob-mould-zedd-jay-s-longhorn-and-more/508453002/)
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
@@ -4614,11 +4695,27 @@
 
 ----
 
+ - [**"9 things to do this week: Record Store Day, Southside Johnny, Ragamala Dance, more"**](https://www.startribune.com/best-of-the-week-record-store-day-southside-johnny-ragamala-dance-more/508127642/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 8 April 2019
+    - about [Morris Day](../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/best-of-the-week-record-store-day-southside-johnny-ragamala-dance-more/508127642/))
+
+----
+
  - [**"Former Prince Estate Advisors Ordered to Place Millions in Commissions in Escrow"**](https://variety.com/2019/music/news/prince-estate-former-advisors-millions-in-commissions-in-escro-1203180112/)
     - in [Variety](../../publications/u-z/variety/index.md)
     - on 8 April 2019
     - about [Charles Koppelman](../../topics/charles-koppelman/index.md), [contract](../../topics/contract/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [merchandise](../../topics/merchandise/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Sony Music](../../topics/sony-music/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Troy Carter](../../topics/troy-carter/index.md), [Universal Music Group](../../topics/universal-music-group/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md)
     - ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/news/prince-estate-former-advisors-millions-in-commissions-in-escro-1203180112/))
+
+----
+
+ - [**"The Funky Final Four -- These teams are perfect for Minneapolis; they bring joy, surprise and the best of sports to our big stadium."**](https://www.startribune.com/the-funky-final-four/507030422/)
+    - by [Jim Souhan](../../authors/jim-souhan/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 6 April 2019
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/the-funky-final-four/507030422/))
 
 ----
 
@@ -4630,7 +4727,7 @@
 
 ----
 
-## March 2019 (21)
+## March 2019 (22)
 
  - [**"Herb Ritts photos of Bowie, Madonna, more to be exhibited"**](https://apnews.com/1c8308821f394c988d91e49742dbd17e)
     - by [The Associated Press](../../authors/the-associated-press/index.md)
@@ -4756,6 +4853,15 @@
     - on 12 March 2019
     - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Donna Grantis](../../topics/donna-grantis/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Shelby J.](../../topics/shelby-j/index.md), [Sly Stone](../../topics/sly-stone/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/paisley-park-rocks-again-with-four-of-prince-s-female-protegees-in-concert/507037812/))
+
+----
+
+ - [**"At 75, piano star Bobby Lyle returns home to Minneapolis to start his &#039;final quarter&#039; -- He returns home this weekend for a 75th birthday celebration."**](https://www.startribune.com/at-75-piano-star-bobby-lyle-returns-home-to-minneapolis-to-start-his-final-quarter/506825512/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 7 March 2019
+    - about [Morris Day](../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/at-75-piano-star-bobby-lyle-returns-home-to-minneapolis-to-start-his-final-quarter/506825512/))
 
 ----
 
