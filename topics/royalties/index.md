@@ -150,7 +150,7 @@
     - by [Steve Karnowski (Associated Press)](../../authors/associated-press/steve-karnowski/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 25 September 2016
-    - about [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [Morris Day](../../topics/morris-day/index.md), [museum](../../topics/museum/index.md), [Prince Estate](../../topics/prince-estate/index.md), [royalties](../../topics/royalties/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)
+    - about [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [museum](../../topics/museum/index.md), [Prince Estate](../../topics/prince-estate/index.md), [royalties](../../topics/royalties/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/still-no-will-but-work-to-settle-prince-estate-forges-ahead/394729181/))
 
 ----

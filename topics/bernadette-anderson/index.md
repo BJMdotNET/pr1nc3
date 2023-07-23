@@ -1,17 +1,5 @@
 # Bernadette Anderson
 
-## 2023 (1)
-
-### 2023 July (1)
-
- - [**"Bernadette Anderson"**](https://www.startribune.com/obituaries/detail/951297/)
-    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
-    - on 22 July 2023
-    - about [Bernadette Anderson](../../topics/bernadette-anderson/index.md)
-    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/obituaries/detail/951297/))
-
-----
-
 ## 2022 (2)
 
 ### 2022 April (2)
@@ -30,6 +18,18 @@
     - on 7 April 2022
     - about [Anil Dash](../../topics/anil-dash/index.md), [Bernadette Anderson](../../topics/bernadette-anderson/index.md), [Elliott Powell](../../topics/elliott-powell/index.md), [Jeff Wagner](../../topics/jeff-wagner/index.md), [Mattie Shaw](../../topics/mattie-shaw/index.md), [Mattie Shaw Nelson Baker](../../topics/mattie-shaw-nelson-baker/index.md), [Quent Neufeld](../../topics/quent-neufeld/index.md), [Questlove](../../topics/questlove/index.md), [Skipper](../../topics/skipper/index.md), [Terrance Jackson](../../topics/terrance-jackson/index.md), [Tom Ziegler](../../topics/tom-ziegler/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md), [WCCO](../../topics/wcco/index.md), [WCCO-TV](../../topics/wcco-tv/index.md), [Zaheer Ali](../../topics/zaheer-ali/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2022/04/07/film-at-11-how-wcco-tv-found-old-footage-of-a-very-young-prince/))
+
+----
+
+## 2003 (1)
+
+### 2003 October (1)
+
+ - [**"Obituary: Bernadette Anderson"**](https://www.startribune.com/obituaries/detail/951297/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 10 October 2003
+    - about [Bernadette Anderson](../../topics/bernadette-anderson/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/obituaries/detail/951297/))
 
 ----
 

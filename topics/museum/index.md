@@ -862,7 +862,7 @@
 
 <br />
 
- - [**"What should Prince's estate do to keep his music alive? -- The tribute concert is over, and the museum is open. Here's how Prince's family should handle other posthumous projects."**](https://www.startribune.com/what-should-prince-s-estate-do-to-keep-his-music-alive/397828981/)
+ - [**"What should Prince&#039;s estate do to keep his music alive? -- The tribute concert is over, and the museum is open. Here's how Prince's family should handle other posthumous projects."**](https://www.startribune.com/what-should-prince-s-estate-do-to-keep-his-music-alive/397828981/)
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 21 October 2016
@@ -942,7 +942,7 @@
     - by [Steve Karnowski (Associated Press)](../../authors/associated-press/steve-karnowski/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 25 September 2016
-    - about [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [Morris Day](../../topics/morris-day/index.md), [museum](../../topics/museum/index.md), [Prince Estate](../../topics/prince-estate/index.md), [royalties](../../topics/royalties/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)
+    - about [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [museum](../../topics/museum/index.md), [Prince Estate](../../topics/prince-estate/index.md), [royalties](../../topics/royalties/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/still-no-will-but-work-to-settle-prince-estate-forges-ahead/394729181/))
 
 <br />

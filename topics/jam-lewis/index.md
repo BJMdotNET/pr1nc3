@@ -13,7 +13,7 @@
 
 ----
 
-## 2021 (4)
+## 2021 (5)
 
 ### 2021 September (2)
 
@@ -45,7 +45,7 @@
 
 ----
 
-### 2021 July (1)
+### 2021 July (2)
 
  - [**"Jam & Lewis: “With Prince, we learned to use synthesizers in a very musical way” -- 35 years in the making, the incomparable songwriting and production duo have just released what is - unbelievably - their debut album..."**](https://www.musicradar.com/news/jam-and-lewis-prince-synths)
     - by [Daniel Griffiths](../../authors/daniel-griffiths/index.md)
@@ -53,6 +53,15 @@
     - on 9 July 2021
     - about [A&M Records](../../topics/a-m-records/index.md), [Jam & Lewis](../../topics/jam-lewis/index.md), [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [LinnDrum (instrument)](../../topics/instrument/linndrum/index.md), [Mariah Carey](../../topics/mariah-carey/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [What Have You Done For Me Lately (song)](../../topics/song/what-have-you-done-for-me-lately/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.musicradar.com/news/jam-and-lewis-prince-synths))
+
+<br />
+
+ - [**"Jimmy Jam and Terry Lewis release their first album as artists -- Legendary producers Jimmy Jam and Terry Lewis release their debut album as artists."**](https://www.startribune.com/jimmy-jam-and-terry-lewis-release-their-first-album-as-artists/600076547/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 9 July 2021
+    - about [Jam & Lewis](../../topics/jam-lewis/index.md), [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jerome Benton](../../topics/jerome-benton/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/jimmy-jam-and-terry-lewis-release-their-first-album-as-artists/600076547/))
 
 ----
 
@@ -73,6 +82,19 @@
     - on 10 October 2019
     - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Jam & Lewis](../../topics/jam-lewis/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Lenny Kravitz](../../topics/lenny-kravitz/index.md), [Lizzo](../../topics/lizzo/index.md), [Paisley Park Records](../../topics/paisley-park-records/index.md), [Paul Peterson](../../topics/paul-peterson/index.md), [Quincy Jones](../../topics/quincy-jones/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Time](../../topics/the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://themusic.com.au/features/og-flavas-velvet-negroni-cyclone/v8zb09LV1Nc/))
+
+----
+
+## 2016 (1)
+
+### 2016 January (1)
+
+ - [**"Live from LA: Jam & Lewis board 'Fresh Off the Boat'"**](https://www.startribune.com/live-from-la-jam-lewis-board-fresh-off-the-boat/365536321/)
+    - by [Neal Justin](../../authors/neal-justin/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 16 January 2016
+    - about [Jam & Lewis](../../topics/jam-lewis/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/live-from-la-jam-lewis-board-fresh-off-the-boat/365536321/))
 
 ----
 

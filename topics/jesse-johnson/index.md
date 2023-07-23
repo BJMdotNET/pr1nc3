@@ -191,20 +191,21 @@
 <br />
 
  - [**"Jesse Johnson soars as guitar hero in power trio marathon at First Avenue"**](https://www.startribune.com/jesse-johnson-soars-as-guitar-hero-in-power-trio-marathon-at-first-avenue/404557246/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 4 December 2016
-    - about [First Avenue (place)](../../topics/place/first-avenue/index.md), [Jesse Johnson](../../topics/jesse-johnson/index.md)
+    - about [First Avenue (place)](../../topics/place/first-avenue/index.md), [Jesse Johnson](../../topics/jesse-johnson/index.md), [Morris Day](../../topics/morris-day/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/jesse-johnson-soars-as-guitar-hero-in-power-trio-marathon-at-first-avenue/404557246/))
 
 ----
 
 ### 2016 November (1)
 
- - [**"Time guitarist Jesse Johnson returns to First Ave, a venue that 'always felt strange' -- After stints with the Time and D'Angelo, guitar ace Jesse Johnson returns to First Avenue fronting a power trio."**](https://www.startribune.com/guitarist-jesse-johnson-from-the-time-returns-to-first-ave-a-venue-that-always-felt-strange/403806736/)
+ - [**"Time guitarist Jesse Johnson returns to First Ave, a venue that &#039;always felt strange&#039; -- After stints with the Time and D'Angelo, guitar ace Jesse Johnson returns to First Avenue fronting a power trio."**](https://www.startribune.com/guitarist-jesse-johnson-from-the-time-returns-to-first-ave-a-venue-that-always-felt-strange/403806736/)
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 30 November 2016
-    - about [First Avenue (place)](../../topics/place/first-avenue/index.md), [Jesse Johnson](../../topics/jesse-johnson/index.md)
+    - about [First Avenue (place)](../../topics/place/first-avenue/index.md), [Jesse Johnson](../../topics/jesse-johnson/index.md), [Morris Day](../../topics/morris-day/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/guitarist-jesse-johnson-from-the-time-returns-to-first-ave-a-venue-that-always-felt-strange/403806736/))
 
 ----

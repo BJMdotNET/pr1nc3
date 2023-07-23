@@ -26,9 +26,18 @@
 
 ----
 
-## 2017 (1)
+## 2017 (2)
 
-### 2017 December (1)
+### 2017 December (2)
+
+ - [**"A &#039;very Minnesota&#039; Super Bowl Live lineup announced for free concerts on Nicollet Mall -- Music marathon to cast spotlight on dynamic Minnesota music scene."**](https://www.startribune.com/jimmy-jam-terry-lewis-announce-super-bowl-live-lineup-idina-menzel-sheila-e-morris-day-soul-asylum/461298463/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 1 December 2017
+    - about [Jimmy “Jam” Harris](../../topics/jimmy-jam-harris/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/jimmy-jam-terry-lewis-announce-super-bowl-live-lineup-idina-menzel-sheila-e-morris-day-soul-asylum/461298463/))
+
+<br />
 
  - [**"Super Bowl Live concert series will include Prince tribute"**](https://apnews.com/30711cb14b744f1aa016784116c806cc)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)

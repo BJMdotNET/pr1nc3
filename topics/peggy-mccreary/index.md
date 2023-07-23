@@ -212,11 +212,11 @@
 
 <br />
 
- - [**"Sometimes he dreamed his songs: A portrait of Prince in the recording studio -- “You had to be ready at any time for anything that inspired him,” says his L.A. engineer, who dishes on a new album of songs Prince wrote for other artists."**](https://www.startribune.com/sometimes-he-dreamed-his-songs-a-portrait-of-prince-in-the-recording-studio/510918872/)
+ - [**"Sometimes he dreamed his songs: A portrait of Prince in the recording studio -- "You had to be ready at any time for anything that inspired him," says his L.A. engineer, who dishes on a new album of songs Prince wrote for other artists."**](https://www.startribune.com/sometimes-he-dreamed-his-songs-a-portrait-of-prince-in-the-recording-studio/510918872/)
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 6 June 2019
-    - about [Originals (album)](../../topics/album/originals/index.md), [Peggy McCreary](../../topics/peggy-mccreary/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md)
+    - about [Morris Day](../../topics/morris-day/index.md), [Originals (album)](../../topics/album/originals/index.md), [Peggy McCreary](../../topics/peggy-mccreary/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/sometimes-he-dreamed-his-songs-a-portrait-of-prince-in-the-recording-studio/510918872/))
 
 ----

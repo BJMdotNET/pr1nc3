@@ -1,6 +1,6 @@
 # Morris Day
 
-## 2023 (5)
+## 2023 (6)
 
 ### 2023 June (5)
 
@@ -47,7 +47,38 @@
 
 ----
 
-## 2022 (5)
+### 2023 May (1)
+
+ - [**"The Big Gigs: 10 concerts (and more) to see in the Twin Cities this week -- Highlights for June 1-7 include the Yeah Yeah Yeahs, Morris Day, Brooks & Dunn, Jaedyn James and Alejandro Escovedo."**](https://www.startribune.com/twin-cities-yeah-yeah-yeahs-morris-day-brooks-and-dunn-alejandro-escovedo-jimmy-webb-jaedyn-james/600278975/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md), [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 31 May 2023
+    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/twin-cities-yeah-yeah-yeahs-morris-day-brooks-and-dunn-alejandro-escovedo-jimmy-webb-jaedyn-james/600278975/))
+
+----
+
+## 2022 (14)
+
+### 2022 December (2)
+
+ - [**"Morris Day knows what time it is: &#039;Last Call&#039; for his recording career -- As he heads to Paisley Park for New Year's Eve, the Time singer talks about Prince and the Estate."**](https://www.startribune.com/morris-day-knows-what-time-it-is-last-call-for-his-recording-career-prince-the-time-zz-top-snoop/600239310/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 29 December 2022
+    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/morris-day-knows-what-time-it-is-last-call-for-his-recording-career-prince-the-time-zz-top-snoop/600239310/))
+
+<br />
+
+ - [**"36 ways to celebrate New Year&#039;s Eve in the Twin Cities area -- Put some sparkle into your New Year's Eve with a pickleball bash, a sledding party or a jump in the lake."**](https://www.startribune.com/how-to-celebrate-nye-in-brate/600238731/)
+    - by [Star Tribune staff](../../authors/star-tribune-staff/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 26 December 2022
+    - about [Morris Day](../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/how-to-celebrate-nye-in-brate/600238731/))
+
+----
 
 ### 2022 November (1)
 
@@ -69,7 +100,49 @@
 
 ----
 
-### 2022 March (3)
+### 2022 June (1)
+
+ - [**"Afropunk festival will spotlight &#039;alternative Black culture&#039; in Minneapolis this weekend -- The Brooklyn-born event will host singer Ari Lennox and local stars Evv and Miloe for a Juneteenth celebration Sunday."**](https://www.startribune.com/afropunk-festival-will-spotlight-alternative-black-culture-in-minneapolis-this-weekend/600182597/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 16 June 2022
+    - about [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/afropunk-festival-will-spotlight-alternative-black-culture-in-minneapolis-this-weekend/600182597/))
+
+----
+
+### 2022 May (1)
+
+ - [**"Minneapolis songwriters, producers Jimmy Jam and Terry Lewis named to Rock & Roll Hall of Fame -- Other inductees include Dolly Parton, Carly Simon, Lionel Richie, Pat Benatar, Eurythmics, Duran Duran and Eminem."**](https://www.startribune.com/minneapolis-producers-jimmy-jam-terry-lewis-rock-hall-of-fame-eminem-dolly-parton-carly-simon-duran/600170364/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 4 May 2022
+    - about [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/minneapolis-producers-jimmy-jam-terry-lewis-rock-hall-of-fame-eminem-dolly-parton-carly-simon-duran/600170364/))
+
+----
+
+### 2022 April (2)
+
+ - [**"She sang &#039;I Can&#039;t Breathe&#039; for George Floyd and loves Prince. Finally H.E.R. is coming to Minneapolis -- The Oscar- and Grammy-winning singer talks about activism, style and Friday's Twin Cities debut at the Armory."**](https://www.startribune.com/her-minneapolis-prince-jimmy-jam-lenny-kravitz-paisley-park-george-floyd-oscars-grammys-super-bowl/600168665/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 28 April 2022
+    - about [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/her-minneapolis-prince-jimmy-jam-lenny-kravitz-paisley-park-george-floyd-oscars-grammys-super-bowl/600168665/))
+
+<br />
+
+ - [**"The big gigs: 10 concerts to see in the Twin Cities this week -- Concert highlights for April 14-20 include Snail Mail, Eliane Elias, Jon Spencer's new group, Olivia Rodrigo and Morris Day's Time."**](https://www.startribune.com/the-big-gigs-10-concerts-to-see-in-the-twin-cities-this-week/600164574/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md), [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 13 April 2022
+    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/the-big-gigs-10-concerts-to-see-in-the-twin-cities-this-week/600164574/))
+
+----
+
+### 2022 March (4)
 
  - [**"Prince ‘Despised Alcohol,’ Says Winery In ‘Purple Rain’ Name Dispute -- The Ohio winemaker says there's no confusion because Prince — who famously didn't drink — would never have endorsed booze."**](https://www.billboard.com/pro/prince-estate-battles-winery-purple-rain/)
     - by [Bill Donahue](../../authors/bill-donahue/index.md)
@@ -88,6 +161,15 @@
 
 <br />
 
+ - [**"Minneapolis music legend Morris Day says Prince&#039;s estate won&#039;t let him use &#039;the Time&#039; anymore -- The estate says Day's announcement is "not entirely accurate.""**](https://www.startribune.com/minneapolis-music-legend-morris-day-says-prince-estate-wont-let-him-use-the-time-anymore/600152599/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md), [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 3 March 2022
+    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/minneapolis-music-legend-morris-day-says-prince-estate-wont-let-him-use-the-time-anymore/600152599/))
+
+<br />
+
  - [**"Prince Estate Told Morris Day He Could Not Use ‘Time’ Band Name, Docs Show -- Day says the Prince estate is trying to "rewrite history" by "taking my name away from me.""**](https://www.billboard.com/business/legal/prince-estate-morris-day-the-time-response-1235039415/)
     - by [Bill Donahue](../../authors/bill-donahue/index.md)
     - in [Billboard](../../publications/a-e/billboard/index.md)
@@ -97,7 +179,26 @@
 
 ----
 
-## 2021 (7)
+### 2022 February (2)
+
+ - [**"6 cool things in music include El DeBarge, Cory Wong, Nunnabove and Andre Cymone with Jody Watley -- Shoutouts, too, to Gregory Porter and Earth, Wind & Fire."**](https://www.startribune.com/6-cool-things-in-music-el-debarge-cory-wong-nunnabove-gregory-porter-andre-cymone-jody-watley/600150547/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 25 February 2022
+    - about [Morris Day](../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/6-cool-things-in-music-el-debarge-cory-wong-nunnabove-gregory-porter-andre-cymone-jody-watley/600150547/))
+
+<br />
+
+ - [**"Tyler, the Creator takes Twin Cities fans for a wild ride at Target Center -- Review: The former Odd Future rap star was joined by Kali Uchis and Vince Staples in Minnesota's first arena hip-hop concert since 2019."**](https://www.startribune.com/tyler-the-creator-takes-twin-cities-fans-for-a-wild-ride-at-target-center/600149013/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 20 February 2022
+    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/tyler-the-creator-takes-twin-cities-fans-for-a-wild-ride-at-target-center/600149013/))
+
+----
+
+## 2021 (12)
 
 ### 2021 December (2)
 
@@ -128,7 +229,7 @@
 
 ----
 
-### 2021 September (1)
+### 2021 September (2)
 
  - [**"Super Producers Jimmy Jam and Terry Lewis Finally Release Their Own Album -- The most successful music production duo of all time finally give themselves top billing on their new album, Jam & Lewis, Vol. 1."**](https://mspmag.com/arts-and-culture/jimmy-jam-terry-lewis-new-album/)
     - by [Steve Marsh](../../authors/steve-marsh/index.md)
@@ -136,6 +237,15 @@
     - on 5 September 2021
     - about [First Avenue (place)](../../topics/place/first-avenue/index.md), [Flyte Tyme](../../topics/flyte-tyme/index.md), [Flyte Tyme Studios (place)](../../topics/place/flyte-tyme-studios/index.md), [Jam & Lewis](../../topics/jam-lewis/index.md), [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jimmy “Jam” Harris](../../topics/jimmy-jam-harris/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Sounds of Blackness](../../topics/sounds-of-blackness/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Time](../../topics/the-time/index.md), [Touré](../../topics/tour/index.md)
     - ([mirror](https://web.archive.org/web/*/https://mspmag.com/arts-and-culture/jimmy-jam-terry-lewis-new-album/))
+
+<br />
+
+ - [**"Nashville&#039;s new Black music museum is out of place but spot-on -- What's the National Museum of African American Music doing in Nashville? We visited to find out."**](https://www.startribune.com/nashville-s-new-black-music-museum-is-out-of-place-but-spot-on/600093578/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 3 September 2021
+    - about [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/nashville-s-new-black-music-museum-is-out-of-place-but-spot-on/600093578/))
 
 ----
 
@@ -146,6 +256,17 @@
     - on 31 August 2021
     - about [Chaka Khan](../../topics/chaka-khan/index.md), [Grammys](../../topics/grammys/index.md), [H.E.R.](../../topics/h-e-r/index.md), [Jam & Lewis](../../topics/jam-lewis/index.md), [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [Sounds of Blackness](../../topics/sounds-of-blackness/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Time](../../topics/the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/entertainment-business-music-arts-and-entertainment-hip-hop-and-rap-2474c3f5a5d3aa311320a74321bb9cde))
+
+----
+
+### 2021 July (1)
+
+ - [**"Jimmy Jam and Terry Lewis release their first album as artists -- Legendary producers Jimmy Jam and Terry Lewis release their debut album as artists."**](https://www.startribune.com/jimmy-jam-and-terry-lewis-release-their-first-album-as-artists/600076547/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 9 July 2021
+    - about [Jam & Lewis](../../topics/jam-lewis/index.md), [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jerome Benton](../../topics/jerome-benton/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/jimmy-jam-and-terry-lewis-release-their-first-album-as-artists/600076547/))
 
 ----
 
@@ -160,6 +281,17 @@
 
 ----
 
+### 2021 May (1)
+
+ - [**"Morris Day is cool on two-LP 40th anniversary edition of the Time&#039;s debut -- The Prince-produced six-song collection will be reissued with a second album of single edits by Warner/Rhino Records."**](https://www.startribune.com/morris-day-is-cool-on-two-lp-40th-anniversary-edition-of-the-time-s-debut/600056144/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 11 May 2021
+    - about [Morris Day](../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/morris-day-is-cool-on-two-lp-40th-anniversary-edition-of-the-time-s-debut/600056144/))
+
+----
+
 ### 2021 April (1)
 
  - [**"Adele wins top Grammys, but pays tribute to Beyonce"**](https://apnews.com/article/music-music-industry-chance-the-rapper-bruno-mars-ca-state-wire-4d1ad7e831a04e55bf623d62a7332390)
@@ -170,7 +302,50 @@
 
 ----
 
-## 2020 (15)
+### 2021 March (1)
+
+ - [**"At 64, Minnesota music hero Jellybean Johnson makes his solo guitar debut -- Thanks to the pandemic, the drummer for the Time got a chance to finish something he's wanted to do for a long time."**](https://www.startribune.com/at-64-minnesota-music-hero-jellybean-johnson-makes-his-solo-guitar-debut/600035752/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 19 March 2021
+    - about [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/at-64-minnesota-music-hero-jellybean-johnson-makes-his-solo-guitar-debut/600035752/))
+
+----
+
+### 2021 February (1)
+
+ - [**"New Minneapolis Fourth Precinct inspector&#039;s story is one of the North Side -- Charlie Adams is a product of the area he polices."**](https://www.startribune.com/new-minneapolis-fourth-precinct-inspector-s-story-is-one-of-the-north-side/600016327/)
+    - by [Libor Jany](../../authors/libor-jany/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 1 February 2021
+    - about [Jerome Benton](../../topics/jerome-benton/index.md), [Morris Day](../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/new-minneapolis-fourth-precinct-inspector-s-story-is-one-of-the-north-side/600016327/))
+
+----
+
+## 2020 (23)
+
+### 2020 November (1)
+
+ - [**"15 holiday gifts for music lovers: Taylor Swift, Bob Dylan and more -- The lack of concerts in 2020 only adds to the appetite for music-related presents."**](https://www.startribune.com/15-holiday-gifts-for-music-lovers-from-taylor-swift-bob-dylan-and-more/573215411/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md), [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 29 November 2020
+    - about [Morris Day](../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/15-holiday-gifts-for-music-lovers-from-taylor-swift-bob-dylan-and-more/573215411/))
+
+----
+
+### 2020 October (1)
+
+ - [**"When Prince met the rabbi: Singer&#039;s spiritual awakening detailed in &#039;This Thing Called Life&#039; -- The singer's spiritual awakening is detailed in a new book out Tuesday."**](https://www.startribune.com/when-prince-met-the-rabbi-singer-s-spiritual-awakening-detailed-in-this-thing-called-life/572642902/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 5 October 2020
+    - about [Morris Day](../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/when-prince-met-the-rabbi-singer-s-spiritual-awakening-detailed-in-this-thing-called-life/572642902/))
+
+----
 
 ### 2020 July (1)
 
@@ -179,6 +354,63 @@
     - on 15 July 2020
     - about [Jerome Benton](../../topics/jerome-benton/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Maya Rudolph](../../topics/maya-rudolph/index.md), [Morris Day](../../topics/morris-day/index.md), [SiriusXM](../../topics/siriusxm/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/new-streaming-channels-with-musics-legendary-and-game-changing-artists-to-launch-today-on-siriusxm-301093865.html))
+
+----
+
+### 2020 May (2)
+
+ - [**"Here comes another Purple memoir -- from Prince bassist Brownmark"**](https://www.startribune.com/here-comes-another-purple-memoir-from-prince-bassist-brownmark/570565402/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 18 May 2020
+    - about [Morris Day](../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/here-comes-another-purple-memoir-from-prince-bassist-brownmark/570565402/))
+
+<br />
+
+ - [**"How Little Richard influenced Minnesota&#039;s biggest rock acts -- Bob Dylan, Prince, the Time and even the Replacements all showed off his impressions on them."**](https://www.startribune.com/how-little-richard-influenced-minnesota-s-biggest-rock-acts/570339721/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 9 May 2020
+    - about [Jerome Benton](../../topics/jerome-benton/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/how-little-richard-influenced-minnesota-s-biggest-rock-acts/570339721/))
+
+----
+
+### 2020 April (4)
+
+ - [**"Minneapolis Super Bowl got Jimmy Jam, Terry Lewis ready for Grammy salute to Prince"**](https://www.startribune.com/minneapolis-super-bowl-got-jimmy-jam-terry-lewis-ready-for-grammy-salute-to-prince/569845292/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 22 April 2020
+    - about [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/minneapolis-super-bowl-got-jimmy-jam-terry-lewis-ready-for-grammy-salute-to-prince/569845292/))
+
+<br />
+
+ - [**"On anniversary of Prince&#039;s death, Paisley Park will stay dark for now"**](https://www.startribune.com/on-anniversary-of-prince-s-death-paisley-park-will-stay-dark-for-now/569794822/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 21 April 2020
+    - about [Celebration 2020 (event)](../../topics/event/celebration-2020/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/on-anniversary-of-prince-s-death-paisley-park-will-stay-dark-for-now/569794822/))
+
+<br />
+
+ - [**"Tuesday&#039;s all-star Grammy salute proves &#039;Prince does music better than anybody&#039; -- CBS salutes Prince on the fourth anniversary of his death."**](https://www.startribune.com/tuesday-s-all-star-grammy-salute-proves-prince-does-music-better-than-anybody/569794772/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 21 April 2020
+    - about [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/tuesday-s-all-star-grammy-salute-proves-prince-does-music-better-than-anybody/569794772/))
+
+<br />
+
+ - [**"Prince estate treats quarantined fans to &#039;Live at Aladdin&#039; EP, new concert playlists -- The 2002 EP is part of a five-disc 'Up All Nite' box set due on May 29."**](https://www.startribune.com/prince-estate-treats-quarantined-fans-to-live-at-aladdin-ep-new-concert-playlists/569726932/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 17 April 2020
+    - about [Morris Day](../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-estate-treats-quarantined-fans-to-live-at-aladdin-ep-new-concert-playlists/569726932/))
 
 ----
 
@@ -297,7 +529,7 @@
 
 ----
 
-## 2019 (61)
+## 2019 (72)
 
 ### 2019 December (10)
 
@@ -318,6 +550,7 @@
 <br />
 
  - [**"20 gift ideas for the music lovers on your holiday list -- Twenty ideas for the music lovers on your holiday list."**](https://www.startribune.com/20-gift-ideas-for-the-music-lovers-on-your-holiday-list/566181501/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 16 December 2019
     - about [1999 Super Deluxe (album)](../../topics/album/1999-super-deluxe/index.md), [Bob Dylan](../../topics/bob-dylan/index.md), [bootleg](../../topics/bootleg/index.md), [Lizzo](../../topics/lizzo/index.md), [memoir](../../topics/memoir/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Morris Day](../../topics/morris-day/index.md), [My Name Is Prince: 25 Inspired Years (book)](../../topics/book/my-name-is-prince-25-inspired-years/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)
@@ -539,6 +772,7 @@
 <br />
 
  - [**"Buddy Holly and Roy Orbison in Minnesota? Hologram tours of old stars are the hot new concert trend -- Buddy Holly is coming to town with Roy Orbison? Yes, rock 'n' roll holograms are here to stay."**](https://www.startribune.com/buddy-holly-in-minnesota-hologram-tours-of-old-stars-are-the-hot-new-concert-trend/562754472/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 12 October 2019
     - about [Aretha Franklin](../../topics/aretha-franklin/index.md), [Ed Sheeran](../../topics/ed-sheeran/index.md), [Frank Zappa](../../topics/frank-zappa/index.md), [hologram](../../topics/hologram/index.md), [Lizzo](../../topics/lizzo/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Morris Day](../../topics/morris-day/index.md), [perfume](../../topics/perfume/index.md)
@@ -570,10 +804,11 @@
 
 <br />
 
- - [**"Prince haunts Morris Day's new memoir: 'I still hear his voice in my head' -- "Purple Rain" co-star and Time leader Morris Day details his long friendship with Prince in a memoir that brings him home to the Twin Cities this week."**](https://www.startribune.com/prince-haunts-morris-day-s-new-memoir-i-still-hear-his-voice-in-my-head/562430972/)
+ - [**"Prince haunts Morris Day&#039;s new memoir: &#039;I still hear his voice in my head&#039; -- "Purple Rain" co-star and Time leader Morris Day details his long friendship with Prince in a memoir that brings him home to the Twin Cities this week."**](https://www.startribune.com/prince-haunts-morris-day-s-new-memoir-i-still-hear-his-voice-in-my-head/562430972/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 8 October 2019
-    - about [Aretha Franklin](../../topics/aretha-franklin/index.md), [Donald Trump](../../topics/donald-trump/index.md), [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jamie Starr](../../topics/jamie-starr/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [Pandemonium (album)](../../topics/album/pandemonium/index.md), [Trump](../../topics/trump/index.md)
+    - about [Aretha Franklin](../../topics/aretha-franklin/index.md), [Donald Trump](../../topics/donald-trump/index.md), [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jamie Starr](../../topics/jamie-starr/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [Pandemonium (album)](../../topics/album/pandemonium/index.md), [Trump](../../topics/trump/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-haunts-morris-day-s-new-memoir-i-still-hear-his-voice-in-my-head/562430972/))
 
 <br />
@@ -628,13 +863,22 @@
 
 ----
 
-### 2019 August (6)
+### 2019 August (8)
 
  - [**"Atwood, Rushdie novels among fall highlights"**](https://www.santacruzsentinel.com/2019/08/29/atwood-rushdie-novels-among-fall-highlights/)
     - in [Santa Cruz Sentinel](../../publications/p-t/santa-cruz-sentinel/index.md)
     - on 29 August 2019
     - about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [divorce](../../topics/divorce/index.md), [Donald Trump](../../topics/donald-trump/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [Trump](../../topics/trump/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.santacruzsentinel.com/2019/08/29/atwood-rushdie-novels-among-fall-highlights/))
+
+<br />
+
+ - [**"Daryl Hall & John Oates finally land at State Fair -- The grandstand was packed, but Hall's voice wasn't the guilty pleasure of the past."**](https://www.startribune.com/daryl-hall-amp-john-oates-finally-land-at-state-fair/558644652/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 29 August 2019
+    - about [Morris Day](../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/daryl-hall-amp-john-oates-finally-land-at-state-fair/558644652/))
 
 <br />
 
@@ -676,9 +920,34 @@
     - about [Allen Beaulieu](../../topics/allen-beaulieu/index.md), [Andrea Swensson](../../topics/andrea-swensson/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [exhibit](../../topics/exhibit/index.md), [exhibition](../../topics/exhibition/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Minnesota History Center](../../topics/minnesota-history-center/index.md), [Morris Day](../../topics/morris-day/index.md), [Prince: Before the Rain](../../topics/prince-before-the-rain/index.md)
     - ([mirror](https://web.archive.org/web/*/https://bringmethenews.com/minnesota-lifestyle/rare-pictures-of-prince-to-feature-at-minnesota-history-center))
 
+<br />
+
+ - [**"TV picks for Aug. 4-8: &#039;My Life Is Murder,&#039; &#039;Woodstock,&#039; Morris Day"**](https://www.startribune.com/tv-picks-for-aug-4-8-my-life-is-murder-woodstock-morris-day/513510742/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 3 August 2019
+    - about [Morris Day](../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/tv-picks-for-aug-4-8-my-life-is-murder-woodstock-morris-day/513510742/))
+
 ----
 
-### 2019 July (7)
+### 2019 July (9)
+
+ - [**"TV picks for July 31: &#039;Four Weddings and a Funeral,&#039; &#039;Jihadi John, &#039;Sherman&#039;s Showcase&#039; -- Mindy Kaling's series is loosely based on the 1994 film."**](https://www.startribune.com/tv-picks-for-july-31-four-weddings-and-a-funeral-jihadi-john-sherman-s-showcase/513392622/)
+    - by [Neal Justin](../../authors/neal-justin/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 30 July 2019
+    - about [Morris Day](../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/tv-picks-for-july-31-four-weddings-and-a-funeral-jihadi-john-sherman-s-showcase/513392622/))
+
+<br />
+
+ - [**"Pick Six: Praise of &#039;Song Exploder,&#039; Purple Mountains, Queen, Lyle Lovett, St. Paul Peterson -- Pick Six is a half-dozen cool things in music, from two points of view."**](https://www.startribune.com/pick-six-praise-of-song-exploder-purple-mountains-queen-lyle-lovett-st-paul-peterson/513208932/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 27 July 2019
+    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/pick-six-praise-of-song-exploder-purple-mountains-queen-lyle-lovett-st-paul-peterson/513208932/))
+
+<br />
 
  - [**"‘Purple Rain’ Director Gets Deep About Working With Prince: ‘How Is It You Just Told My Life Story?’"**](https://variety.com/2019/film/news/prince-purple-rain-anniversary-director-gets-deep-1203274953/)
     - by [Todd Gilchrist](../../authors/todd-gilchrist/index.md)
@@ -743,7 +1012,7 @@
 
 ----
 
-### 2019 June (4)
+### 2019 June (5)
 
  - [**"Prince's 'Originals' Album: Comparing Each Demo With Its Well-Known Cover Version"**](https://www.billboard.com/articles/news/8517576/prince-originals-album-covers)
     - in [Billboard](../../publications/a-e/billboard/index.md)
@@ -776,9 +1045,29 @@
     - about [Apollonia 6](../../topics/apollonia-6/index.md), [Baby I’m a Star (song)](../../topics/song/baby-i-m-a-star/index.md), [Bangles](../../topics/bangles/index.md), [hologram](../../topics/hologram/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Michael Howe](../../topics/michael-howe/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Morris Day](../../topics/morris-day/index.md), [Originals (album)](../../topics/album/originals/index.md), [Peggy McCreary](../../topics/peggy-mccreary/index.md), [The Revolution](../../topics/the-revolution/index.md), [Troy Carter](../../topics/troy-carter/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.nme.com/blogs/11-things-we-learned-at-playback-new-prince-album-2506506))
 
+<br />
+
+ - [**"Sometimes he dreamed his songs: A portrait of Prince in the recording studio -- "You had to be ready at any time for anything that inspired him," says his L.A. engineer, who dishes on a new album of songs Prince wrote for other artists."**](https://www.startribune.com/sometimes-he-dreamed-his-songs-a-portrait-of-prince-in-the-recording-studio/510918872/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 6 June 2019
+    - about [Morris Day](../../topics/morris-day/index.md), [Originals (album)](../../topics/album/originals/index.md), [Peggy McCreary](../../topics/peggy-mccreary/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/sometimes-he-dreamed-his-songs-a-portrait-of-prince-in-the-recording-studio/510918872/))
+
 ----
 
-### 2019 April (1)
+### 2019 May (1)
+
+ - [**"Cher triumphs with the ultimate Cher drag show in St. Paul -- Cher was fabulous and fun, but she didn't spend enough time onstage entertaining on Saturday at Xcel Energy Center in St. Paul."**](https://www.startribune.com/cher-triumphs-with-the-ultimate-cher-drag-show-in-st-paul/510130912/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 20 May 2019
+    - about [Morris Day](../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/cher-triumphs-with-the-ultimate-cher-drag-show-in-st-paul/510130912/))
+
+----
+
+### 2019 April (5)
 
  - [**"Coming soon from the Prince vault: A new album called ‘Originals’ -- Prince’s estate is announcing the collection of his performances of songs he wrote for others."**](https://www.startribune.com/coming-soon-from-the-prince-vault-a-new-album-called-originals/509009862/)
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md), [Jon Bream](../../authors/jon-bream/index.md)
@@ -787,15 +1076,59 @@
     - about [Ani DiFranco](../../topics/ani-difranco/index.md), [Apple Music](../../topics/apple-music/index.md), [Ava DuVernay](../../topics/ava-duvernay/index.md), [Bangles](../../topics/bangles/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Martika](../../topics/martika/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Netflix](../../topics/netflix/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../topics/album/originals/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Random House](../../topics/random-house/index.md), [Rave In2 the Joy Fantastic (album)](../../topics/album/rave-in2-the-joy-fantastic/index.md), [Rave Un2 the Joy Fantastic (album)](../../topics/album/rave-un2-the-joy-fantastic/index.md), [Rave Un2 the Year 2000 (video)](../../topics/video/rave-un2-the-year-2000/index.md), [Sex Shooter (song)](../../topics/song/sex-shooter/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [The Family](../../topics/the-family/index.md), [The Glamorous Life (song)](../../topics/song/the-glamorous-life/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [The Time](../../topics/the-time/index.md), [Ultimate Rave (album)](../../topics/album/ultimate-rave/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/coming-soon-from-the-prince-vault-a-new-album-called-originals/509009862/))
 
+<br />
+
+ - [**"Prince&#039;s greatest talent? Self-confidence, says the manager who landed &#039;Purple Rain&#039; -- Bob Cavallo recounts some of the tales he'll tell at Paisley Park for the third annual Celebration."**](https://www.startribune.com/prince-s-greatest-talent-self-confidence-says-the-manager-who-landed-purple-rain/508774052/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 20 April 2019
+    - about [Bob Cavallo](../../topics/bob-cavallo/index.md), [Graffiti Bridge (movie)](../../topics/movie/graffiti-bridge/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-s-greatest-talent-self-confidence-says-the-manager-who-landed-purple-rain/508774052/))
+
+<br />
+
+ - [**"Former Minnesota football player scored in Hollywood with AMC&#039;s &#039;Into the Badlands&#039; series -- "Into the Badlands" star Sherman Augustus on how football informed his acting career."**](https://www.startribune.com/former-minnesota-viking-scored-in-hollywood-with-amc-s-into-the-badlands-series/508803152/)
+    - by [Neal Justin](../../authors/neal-justin/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 19 April 2019
+    - about [Jerome Benton](../../topics/jerome-benton/index.md), [Morris Day](../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/former-minnesota-viking-scored-in-hollywood-with-amc-s-into-the-badlands-series/508803152/))
+
+<br />
+
+ - [**"Jimmy Jam and Terry Lewis kick off a new all-star project with Sounds of Blackness single"**](https://www.startribune.com/jimmy-jam-and-terry-lewis-new-project-kicks-off-with-sounds-of-blackness-single/508475872/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 12 April 2019
+    - about [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/jimmy-jam-and-terry-lewis-new-project-kicks-off-with-sounds-of-blackness-single/508475872/))
+
+<br />
+
+ - [**"9 things to do this week: Record Store Day, Southside Johnny, Ragamala Dance, more"**](https://www.startribune.com/best-of-the-week-record-store-day-southside-johnny-ragamala-dance-more/508127642/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 8 April 2019
+    - about [Morris Day](../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/best-of-the-week-record-store-day-southside-johnny-ragamala-dance-more/508127642/))
+
 ----
 
-### 2019 March (1)
+### 2019 March (2)
 
  - [**"AM Prep-Music -- TIMBERWOLVES WILL GIVE AWAY PRINCE 7-INCH SINGLE"**](https://apnews.com/article/c06f9630f85740c59c3c6e9235c77141)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 22 March 2019
     - about [Minnesota Timberwolves](../../topics/minnesota-timberwolves/index.md), [Morris Day](../../topics/morris-day/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Timberwolves](../../topics/timberwolves/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/c06f9630f85740c59c3c6e9235c77141))
+
+<br />
+
+ - [**"At 75, piano star Bobby Lyle returns home to Minneapolis to start his &#039;final quarter&#039; -- He returns home this weekend for a 75th birthday celebration."**](https://www.startribune.com/at-75-piano-star-bobby-lyle-returns-home-to-minneapolis-to-start-his-final-quarter/506825512/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 7 March 2019
+    - about [Morris Day](../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/at-75-piano-star-bobby-lyle-returns-home-to-minneapolis-to-start-his-final-quarter/506825512/))
 
 ----
 
@@ -817,15 +1150,24 @@
 
 ----
 
-## 2018 (9)
+## 2018 (18)
 
-### 2018 December (1)
+### 2018 December (2)
+
+ - [**"10 signs the Minnesota music scene was alive and well in 2018 -- Need a reason to stay positive? Here are 10."**](https://www.startribune.com/10-signs-the-minnesota-music-scene-was-alive-and-well-in-2018/503245841/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 21 December 2018
+    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Super Bowl](../../topics/super-bowl/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/10-signs-the-minnesota-music-scene-was-alive-and-well-in-2018/503245841/))
+
+<br />
 
  - [**"Morris Day's misadventures in Minneapolis get animated for Mike Judge's TV series"**](https://www.startribune.com/morris-day-s-misadventures-in-minneapolis-get-animated-for-mike-judge-s-tv-series/502781422/)
     - by [Neal Justin](../../authors/neal-justin/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 14 December 2018
-    - about [Morris Day](../../topics/morris-day/index.md)
+    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/morris-day-s-misadventures-in-minneapolis-get-animated-for-mike-judge-s-tv-series/502781422/))
 
 ----
@@ -850,6 +1192,17 @@
 
 ----
 
+### 2018 August (1)
+
+ - [**"At 79, William Bell proves to be consummate soul man at the Dakota in Minneapolis"**](https://www.startribune.com/review-at-79-william-bell-proves-to-be-consummate-soul-man-at-the-dakota/490695081/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 13 August 2018
+    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/review-at-79-william-bell-proves-to-be-consummate-soul-man-at-the-dakota/490695081/))
+
+----
+
 ### 2018 June (1)
 
  - [**"Prince the Prankster: Marc Anthony, Bobby Z and More Remember His Humor (and an Epic Food Fight)"**](https://variety.com/2018/music/news/prince-birthday-prankster-marc-anthony-bobby-z-revolution-humor-1202835528/)
@@ -871,7 +1224,16 @@
 
 ----
 
-### 2018 February (1)
+### 2018 February (2)
+
+ - [**"Second annual Celebration at Prince's Paisley Park to feature Sheila E., fDeluxe, NPG"**](https://www.startribune.com/second-annual-celebration-at-prince-s-paisley-park-to-feature-sheila-e-fdeluxe-npg/474975113/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 23 February 2018
+    - about [fDeluxe](../../topics/fdeluxe/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Super Bowl](../../topics/super-bowl/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/second-annual-celebration-at-prince-s-paisley-park-to-feature-sheila-e-fdeluxe-npg/474975113/))
+
+<br />
 
  - [**"Prince is gone, but his spirit lives at Minnesota Super Bowl"**](https://apnews.com/760ec69e7a2e430a9879834f5f2eae63)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
@@ -881,13 +1243,49 @@
 
 ----
 
-### 2018 January (3)
+### 2018 January (9)
+
+ - [**"NPG, Dessa, Mint Condition weather another electric Super Bowl Live show"**](https://www.startribune.com/npg-dessa-mint-condition-weather-another-electric-super-bowl-live-show/472074623/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 31 January 2018
+    - about [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/npg-dessa-mint-condition-weather-another-electric-super-bowl-live-show/472074623/))
+
+<br />
+
+ - [**"Super-sized Prince party rocks Nicollet Mall -- Three acts closely associated with the Minnesota rock legend — none of whom had played together since his 2016 death — showed their singular dedication by performing his songs outside in single-digit temperatures for the Super Bowl Live concert series."**](https://www.startribune.com/super-sized-prince-party-rocks-nicollet-mall/471712573/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 30 January 2018
+    - about [Morris Day](../../topics/morris-day/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/super-sized-prince-party-rocks-nicollet-mall/471712573/))
+
+<br />
 
  - [**"Super-sized Prince party rocks Nicollet Mall"**](https://apnews.com/article/football-prince-archive-minnesota-334367853c7e479fb18e178463c02063)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 29 January 2018
     - about [D.M.S.R. (song)](../../topics/song/d-m-s-r/index.md), [fDeluxe](../../topics/fdeluxe/index.md), [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Nicollet Avenue](../../topics/nicollet-avenue/index.md), [Nicollet Mall (place)](../../topics/place/nicollet-mall/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Soul Asylum](../../topics/soul-asylum/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Bird (song)](../../topics/song/the-bird/index.md), [The Family](../../topics/the-family/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/football-prince-archive-minnesota-334367853c7e479fb18e178463c02063))
+
+<br />
+
+ - [**"5 Minneapolis Super Bowl concerts worth the splurge, plus 5 cheaper alternatives -- Five shows worth the inflated price tags, and cheaper alternatives that we think will rock."**](https://www.startribune.com/5-minneapolis-super-bowl-concerts-worth-the-splurge-plus-5-cheaper-alternatives/471123683/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 26 January 2018
+    - about [Morris Day](../../topics/morris-day/index.md), [Super Bowl](../../topics/super-bowl/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/5-minneapolis-super-bowl-concerts-worth-the-splurge-plus-5-cheaper-alternatives/471123683/))
+
+<br />
+
+ - [**"Minneapolis-bred producer Jimmy Jam talks Janet Jackson, free Super Bowl concerts -- He wouldn't say whether his pal will be in Minneapolis for the festivities."**](https://www.startribune.com/minneapolis-bred-producer-jimmy-jam-talks-janet-jackson-free-super-bowl-concerts/471303144/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 26 January 2018
+    - about [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/minneapolis-bred-producer-jimmy-jam-talks-janet-jackson-free-super-bowl-concerts/471303144/))
 
 <br />
 
@@ -899,17 +1297,35 @@
 
 <br />
 
+ - [**"Super Bowl Live free concert schedule revealed with new Minnesota all-stars -- The final lineup includes themed nights, including a Rhymesayers hip-hop showcase and a Sunday offering of gospel performers."**](https://www.startribune.com/super-bowl-live-free-concert-schedule-revealed-with-new-minnesota-all-stars/470150683/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 19 January 2018
+    - about [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/super-bowl-live-free-concert-schedule-revealed-with-new-minnesota-all-stars/470150683/))
+
+<br />
+
  - [**"Super Bowl Live free concerts schedule revealed with new Minnesota all-stars"**](https://apnews.com/359610d132dc4676a00e9e4da420ecaf)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 19 January 2018
     - about [Andre Cymone](../../topics/andre-cymone/index.md), [Brother Jules](../../topics/brother-jules/index.md), [Cynthia Johnson](../../topics/cynthia-johnson/index.md), [DJ Dudley D](../../topics/dj-dudley-d/index.md), [fDeluxe](../../topics/fdeluxe/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Nicollet Mall (place)](../../topics/place/nicollet-mall/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Soul Asylum](../../topics/soul-asylum/index.md), [Sounds of Blackness](../../topics/sounds-of-blackness/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Revolution](../../topics/the-revolution/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/359610d132dc4676a00e9e4da420ecaf))
 
+<br />
+
+ - [**"Pop-up Prince exhibit, ice skating and an IMAX-style dome part of 10-day Super Bowl Live event -- Organizers announce more activities on Nicollet Mall before the big game."**](https://www.startribune.com/pop-up-prince-exhibit-ice-skating-and-an-imax-style-dome-part-of-10-day-super-bowl-live-event/469433723/)
+    - by [Rochelle Olson](../../authors/rochelle-olson/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 16 January 2018
+    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Super Bowl](../../topics/super-bowl/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/pop-up-prince-exhibit-ice-skating-and-an-imax-style-dome-part-of-10-day-super-bowl-live-event/469433723/))
+
 ----
 
-## 2017 (10)
+## 2017 (23)
 
-### 2017 December (3)
+### 2017 December (4)
 
  - [**"Singer Gwen Stefani to wrap up Super Bowl week performances"**](https://apnews.com/80ec55b99dd74c77b9d3fbcd79adf7c1)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
@@ -927,11 +1343,71 @@
 
 <br />
 
+ - [**"A &#039;very Minnesota&#039; Super Bowl Live lineup announced for free concerts on Nicollet Mall -- Music marathon to cast spotlight on dynamic Minnesota music scene."**](https://www.startribune.com/jimmy-jam-terry-lewis-announce-super-bowl-live-lineup-idina-menzel-sheila-e-morris-day-soul-asylum/461298463/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 1 December 2017
+    - about [Jimmy “Jam” Harris](../../topics/jimmy-jam-harris/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/jimmy-jam-terry-lewis-announce-super-bowl-live-lineup-idina-menzel-sheila-e-morris-day-soul-asylum/461298463/))
+
+<br />
+
  - [**"Super Bowl Live concert series will include Prince tribute"**](https://apnews.com/30711cb14b744f1aa016784116c806cc)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 1 December 2017
     - about [Jimmy “Jam” Harris](../../topics/jimmy-jam-harris/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/30711cb14b744f1aa016784116c806cc))
+
+----
+
+### 2017 November (2)
+
+ - [**"Meet the Pictureman, whose goal was to show &#039;the best of black life&#039; in Minnesota -- "The best of black life" in Minnesota comes alive in a book and show of photographs by the late Charles Chamblis."**](https://www.startribune.com/meet-the-pictureman-whose-goal-was-to-show-the-best-of-black-life-in-minnesota/458015263/)
+    - by [Alicia Eler](../../authors/alicia-eler/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 16 November 2017
+    - about [Morris Day](../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/meet-the-pictureman-whose-goal-was-to-show-the-best-of-black-life-in-minnesota/458015263/))
+
+<br />
+
+ - [**"MCAD art sale leads the Twin Cities' 5 must-do art events this week"**](https://www.startribune.com/mcad-art-sale-leads-the-twin-cities-5-must-do-art-events-this-week/456475923/)
+    - by [Alicia Eler](../../authors/alicia-eler/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 15 November 2017
+    - about [Morris Day](../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/mcad-art-sale-leads-the-twin-cities-5-must-do-art-events-this-week/456475923/))
+
+----
+
+### 2017 October (2)
+
+ - [**"Prince tribute, and maybe Janet Jackson, in the works for Jam and Lewis&#039; Super Bowl Live series -- The pop mega-producers discussed their plans for the free outdoor concerts as organizers unveiled the look and layout."**](https://www.startribune.com/super-bowl-organizers-plan-ice-stage-walk-in-snow-globe-and-northern-lights-show-in-minneapolis/453625783/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md), [Rochelle Olson](../../authors/rochelle-olson/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 27 October 2017
+    - about [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Morris Day](../../topics/morris-day/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/super-bowl-organizers-plan-ice-stage-walk-in-snow-globe-and-northern-lights-show-in-minneapolis/453625783/))
+
+<br />
+
+ - [**"It's that Time of the year: Minnesota casinos unveil New Year's Eve shows"**](https://www.startribune.com/that-time-of-the-year-minnesota-casinos-unveil-new-year-s-eve-shows/450773703/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 13 October 2017
+    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jerome Benton](../../topics/jerome-benton/index.md), [Monte Moir](../../topics/monte-moir/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/that-time-of-the-year-minnesota-casinos-unveil-new-year-s-eve-shows/450773703/))
+
+----
+
+### 2017 August (1)
+
+ - [**"Meet the bands set to battle at Paisley Park&#039;s Musicology event -- Nine acts, including four locals, are competing this weekend to record at Prince's studio."**](https://www.startribune.com/meet-the-bands-set-to-battle-at-paisley-park-s-musicology-event/442255523/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 30 August 2017
+    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Morris Day](../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/meet-the-bands-set-to-battle-at-paisley-park-s-musicology-event/442255523/))
 
 ----
 
@@ -962,13 +1438,40 @@
 
 ----
 
-### 2017 April (4)
+### 2017 April (7)
+
+ - [**"Highlights from Prince memorial weekend, and advice for future years -- Highlights and lasting impressions from this weekend's memorial tributes around town."**](https://www.startribune.com/highlights-from-prince-memorial-weekend-and-advice-for-future-years/420198123/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md), [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 24 April 2017
+    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Super Bowl](../../topics/super-bowl/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/highlights-from-prince-memorial-weekend-and-advice-for-future-years/420198123/))
+
+<br />
+
+ - [**"Purple City Take 4: A parade of Prince associates performs late-night show"**](https://www.startribune.com/purple-city-take-4-a-parade-of-prince-associates-performs-late-night-show/420176323/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 23 April 2017
+    - about [Morris Day](../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/purple-city-take-4-a-parade-of-prince-associates-performs-late-night-show/420176323/))
+
+<br />
 
  - [**"Morris Day, Prince’s Childhood Friend And Collaborator, Reflects On His Death -- On the one-year anniversary of Prince’s passing, Day opens up about the virtuoso’s art and immortality."**](https://www.thefader.com/2017/04/21/morris-day-prince-interview)
     - in [The FADER](../../publications/f-j/the-fader/index.md)
     - on 21 April 2017
     - about [Andre Cymone](../../topics/andre-cymone/index.md), [George Clinton](../../topics/george-clinton/index.md), [Morris Day](../../topics/morris-day/index.md), [The Time](../../topics/the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.thefader.com/2017/04/21/morris-day-prince-interview))
+
+<br />
+
+ - [**"Paisley Park&#039;s Prince party kicks off with live music and inside stories -- About 2,000 ardent fans attended the $500 to $1,000 per ticket affair."**](https://www.startribune.com/paisley-park-s-prince-party-kicks-off-with-live-music-and-inside-stories/420033773/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md), [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 21 April 2017
+    - about [Morris Day](../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/paisley-park-s-prince-party-kicks-off-with-live-music-and-inside-stories/420033773/))
 
 <br />
 
@@ -996,9 +1499,69 @@
 
 ----
 
-## 2016 (27)
+### 2017 March (1)
 
-### 2016 November (2)
+ - [**"Prince protege Liv Warfield returns to Minneapolis for Dakota show -- Prince protege Liv Warfield carries on with famous singers from Heart and the Purple universe."**](https://www.startribune.com/prince-prot-xe9-g-xe9-e-liv-warfield-returns-to-minneapolis-to-perform-at-dakota/415818874/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 10 March 2017
+    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-prot-xe9-g-xe9-e-liv-warfield-returns-to-minneapolis-to-perform-at-dakota/415818874/))
+
+----
+
+### 2017 February (3)
+
+ - [**"Grammys go crazy for Prince: Tribute with Bruno Mars and the Time took months of planning -- Bruno Mars "ripped it up," said Morris Day of the Time after they collaborated on a high-energy reprise of "Purple Rain" highlights."**](https://www.startribune.com/grammys-go-crazy-for-prince-tribute-with-bruno-mars-and-the-time-took-months-of-planning/413551993/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 14 February 2017
+    - about [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/grammys-go-crazy-for-prince-tribute-with-bruno-mars-and-the-time-took-months-of-planning/413551993/))
+
+<br />
+
+ - [**"Morris Day and the Time ranks fourth in Spotify surge after Grammys"**](https://www.startribune.com/morris-day-and-the-time-ranks-fourth-in-spotify-surge-after-grammys/413618253/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 13 February 2017
+    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/morris-day-and-the-time-ranks-fourth-in-spotify-surge-after-grammys/413618253/))
+
+<br />
+
+ - [**"What time is it? Time for the Time to open Bruno Mars' tour?"**](https://www.startribune.com/what-time-is-it-time-for-the-time-to-open-bruno-mars-tour/413560813/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 13 February 2017
+    - about [Jerome Benton](../../topics/jerome-benton/index.md), [Morris Day](../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/what-time-is-it-time-for-the-time-to-open-bruno-mars-tour/413560813/))
+
+----
+
+## 2016 (53)
+
+### 2016 December (2)
+
+ - [**"Artist of the Year 2016: Prince&#039;s memorials were the year&#039;s rock stars -- An impromptu street gathering in the grim hours following Prince's death lit a spark that shined through a year of tributes."**](https://www.startribune.com/artist-of-the-year-2016-prince-s-memorials-were-the-year-s-rock-stars/408655055/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 30 December 2016
+    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/artist-of-the-year-2016-prince-s-memorials-were-the-year-s-rock-stars/408655055/))
+
+<br />
+
+ - [**"Jesse Johnson soars as guitar hero in power trio marathon at First Avenue"**](https://www.startribune.com/jesse-johnson-soars-as-guitar-hero-in-power-trio-marathon-at-first-avenue/404557246/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 4 December 2016
+    - about [First Avenue (place)](../../topics/place/first-avenue/index.md), [Jesse Johnson](../../topics/jesse-johnson/index.md), [Morris Day](../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/jesse-johnson-soars-as-guitar-hero-in-power-trio-marathon-at-first-avenue/404557246/))
+
+----
+
+### 2016 November (4)
 
  - [**"Around the state: Paisley Park to host Prince celebration"**](https://apnews.com/61839c62b9d94fec885fbf304d279168)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
@@ -1008,15 +1571,59 @@
 
 <br />
 
+ - [**"Time guitarist Jesse Johnson returns to First Ave, a venue that &#039;always felt strange&#039; -- After stints with the Time and D'Angelo, guitar ace Jesse Johnson returns to First Avenue fronting a power trio."**](https://www.startribune.com/guitarist-jesse-johnson-from-the-time-returns-to-first-ave-a-venue-that-always-felt-strange/403806736/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 30 November 2016
+    - about [First Avenue (place)](../../topics/place/first-avenue/index.md), [Jesse Johnson](../../topics/jesse-johnson/index.md), [Morris Day](../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/guitarist-jesse-johnson-from-the-time-returns-to-first-ave-a-venue-that-always-felt-strange/403806736/))
+
+<br />
+
  - [**"Paisley Park to host 2017 celebration of Prince’s life"**](https://apnews.com/f5878da287eb4498ab600a0f313d602d)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 28 November 2016
     - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Celebration 2017 (event)](../../topics/event/celebration-2017/index.md), [Morris Day](../../topics/morris-day/index.md), [museum](../../topics/museum/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/f5878da287eb4498ab600a0f313d602d))
 
+<br />
+
+ - [**"Paisley Park to host Celebration concerts on anniversary of Prince&#039;s death -- The Revolution, Morris Day, NPG and other cohorts will perform at his Chanhassen studio in April."**](https://www.startribune.com/paisley-park-to-host-celebration-concerts-on-anniversary-of-prince-s-death/403427176/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 28 November 2016
+    - about [Celebration 2017 (event)](../../topics/event/celebration-2017/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/paisley-park-to-host-celebration-concerts-on-anniversary-of-prince-s-death/403427176/))
+
 ----
 
-### 2016 October (3)
+### 2016 October (10)
+
+ - [**"Artcetera: Stevie Wonder hits First Avenue, SPCO hits NYC, more"**](https://www.startribune.com/artcetera-stevie-wonder-hits-first-avenue-spco-hits-nyc-billy-bragg-talks-politics-more/397779361/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 20 October 2016
+    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/artcetera-stevie-wonder-hits-first-avenue-spco-hits-nyc-billy-bragg-talks-politics-more/397779361/))
+
+<br />
+
+ - [**"Morris Day & the Time make up for lost time in late-night First Ave set"**](https://www.startribune.com/morris-day-the-time-make-up-for-lost-time-in-late-night-first-ave-set/397094861/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 14 October 2016
+    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Monte Moir](../../topics/monte-moir/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/morris-day-the-time-make-up-for-lost-time-in-late-night-first-ave-set/397094861/))
+
+<br />
+
+ - [**"Prince tribute shows why he is missed -- Review: The performers showed their love but lacked the master's electricity."**](https://www.startribune.com/prince-tribute-shows-what-makes-us-miss-him/397048281/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 14 October 2016
+    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-tribute-shows-what-makes-us-miss-him/397048281/))
+
+<br />
 
  - [**"Stevie Wonder, Chaka Khan headline Prince tribute show"**](https://apnews.com/776650efcc1b4b3997f8af7b73f4e16c)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
@@ -1040,9 +1647,45 @@
     - about [Anita Baker](../../topics/anita-baker/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Chris Coleman](../../topics/chris-coleman/index.md), [Christina Aguilera](../../topics/christina-aguilera/index.md), [Doug E. Fresh](../../topics/doug-e-fresh/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Jessie J](../../topics/jessie-j/index.md), [John Mayer](../../topics/john-mayer/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Minnesota Vikings](../../topics/minnesota-vikings/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Prince Day](../../topics/prince-day/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Tori Kelly](../../topics/tori-kelly/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/0f0e837095fd4116aaaffee4cf83329b))
 
+<br />
+
+ - [**"Gov. Mark Dayton declares "Prince Tribute Day""**](https://www.startribune.com/gov-mark-dayton-declares-prince-tribute-day/396988081/)
+    - by [J. Patrick Coolican](../../authors/j-patrick-coolican/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 13 October 2016
+    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/gov-mark-dayton-declares-prince-tribute-day/396988081/))
+
+<br />
+
+ - [**"How tonight&#039;s Prince tribute was saved: Concert promoter &#039;put Humpty Dumpty back together again&#039; -- Minneapolis concert promoter was called in to "put Humpty Dumpty back together again.""**](https://www.startribune.com/how-thursday-s-prince-tribute-was-saved-concert-promoter-put-humpty-dumpty-back-together-again/396866631/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 13 October 2016
+    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/how-thursday-s-prince-tribute-was-saved-concert-promoter-put-humpty-dumpty-back-together-again/396866631/))
+
+<br />
+
+ - [**"John Mayer drops out of Thursday's Prince tribute concert in St. Paul"**](https://www.startribune.com/john-mayer-drops-out-of-thursday-s-prince-tribute-concert-in-st-paul/396754841/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 12 October 2016
+    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/john-mayer-drops-out-of-thursday-s-prince-tribute-concert-in-st-paul/396754841/))
+
+<br />
+
+ - [**"Who&#039;s performing at Prince tribute concert in St. Paul? -- How the performers at Thursday's big tribute concert are connected to Prince."**](https://www.startribune.com/who-s-performing-at-prince-tribute-concert-in-st-paul/396229541/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 12 October 2016
+    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/who-s-performing-at-prince-tribute-concert-in-st-paul/396229541/))
+
 ----
 
-### 2016 September (4)
+### 2016 September (8)
 
  - [**"Still no will, but work to settle Prince estate forges ahead"**](https://apnews.com/e2669a78b7dd4d8fb5c6e743d4acc29d)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
@@ -1056,8 +1699,35 @@
     - by [Steve Karnowski (Associated Press)](../../authors/associated-press/steve-karnowski/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 25 September 2016
-    - about [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [Morris Day](../../topics/morris-day/index.md), [museum](../../topics/museum/index.md), [Prince Estate](../../topics/prince-estate/index.md), [royalties](../../topics/royalties/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)
+    - about [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [museum](../../topics/museum/index.md), [Prince Estate](../../topics/prince-estate/index.md), [royalties](../../topics/royalties/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/still-no-will-but-work-to-settle-prince-estate-forges-ahead/394729181/))
+
+<br />
+
+ - [**"Sheila E. to play Prince tribute show Oct. 23 at Orchestra Hall -- Not available for the Xcel bash, she'll headline at Orchestra Hall on Oct. 23."**](https://www.startribune.com/sheila-e-to-play-prince-tribute-show-oct-23-at-orchestra-hall/394503081/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 23 September 2016
+    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/sheila-e-to-play-prince-tribute-show-oct-23-at-orchestra-hall/394503081/))
+
+<br />
+
+ - [**"Prince tribute tickets gone in an instant -- The Oct. 13 show at Xcel Energy Center sold out as soon as tickets went on sale Monday."**](https://www.startribune.com/prince-tribute-tickets-gone-in-an-instant/393988771/)
+    - by [Tim Harlow](../../authors/tim-harlow/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 19 September 2016
+    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-tribute-tickets-gone-in-an-instant/393988771/))
+
+<br />
+
+ - [**"Prince tribute set for Oct. 13: Stevie Wonder, Christina Aguilera, at Xcel Energy Center -- Among those performing: Stevie Wonder, Chaka Khan, Christina Aguilera, John Mayer and Tori Kelly."**](https://www.startribune.com/prince-tribute-announced-for-oct-13-stevie-wonder-christina-aguilera-at-xcel-energy-center/393618071/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 16 September 2016
+    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-tribute-announced-for-oct-13-stevie-wonder-christina-aguilera-at-xcel-energy-center/393618071/))
 
 <br />
 
@@ -1075,9 +1745,18 @@
     - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Anita Baker](../../topics/anita-baker/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Christina Aguilera](../../topics/christina-aguilera/index.md), [Doug E. Fresh](../../topics/doug-e-fresh/index.md), [John Mayer](../../topics/john-mayer/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Morris Hayes](../../topics/morris-hayes/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [St. Paul (place)](../../topics/place/st-paul/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [The Time](../../topics/the-time/index.md), [Tori Kelly](../../topics/tori-kelly/index.md), [Xcel Energy Center (place)](../../topics/place/xcel-energy-center/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/-----c39cbbf9dd5b4a90a221d40688a61b69))
 
+<br />
+
+ - [**"No contract, no official info exist for Prince tribute concert at U.S. Bank Stadium -- With a promised show at U.S. Bank barely a month away, details are scant."**](https://www.startribune.com/no-contract-no-official-info-exist-for-prince-tribute-concert-at-vikings-stadium/393327211/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 14 September 2016
+    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/no-contract-no-official-info-exist-for-prince-tribute-concert-at-vikings-stadium/393327211/))
+
 ----
 
-### 2016 August (1)
+### 2016 August (3)
 
  - [**"Musicians close to Prince reportedly in the mix for tribute"**](https://apnews.com/5c33d9f6e9654074898b04452f17c598)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
@@ -1085,9 +1764,26 @@
     - about [Morris Day](../../topics/morris-day/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Revolution](../../topics/the-revolution/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/5c33d9f6e9654074898b04452f17c598))
 
+<br />
+
+ - [**"Sheila E is a no-go for Prince tribute concert at U.S. Bank Stadium"**](https://www.startribune.com/sheila-e-is-a-no-go-for-prince-tribute-concert-at-us-bank-stadium/391937311/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 31 August 2016
+    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/sheila-e-is-a-no-go-for-prince-tribute-concert-at-us-bank-stadium/391937311/))
+
+<br />
+
+ - [**"Josh Hartnett smiles pretty at the Birdie"**](https://www.startribune.com/josh-hartnett-smiles-pretty-at-the-birdie/389810001/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 10 August 2016
+    - about [Morris Day](../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/josh-hartnett-smiles-pretty-at-the-birdie/389810001/))
+
 ----
 
-### 2016 July (2)
+### 2016 July (3)
 
  - [**"Official Prince tribute concert set for October at U.S. Bank Stadium"**](https://www.startribune.com/apnewsbreak-official-prince-tribute-concert-set-for-october/388585801/)
     - by [Mesfin Fekadu (Associated Press)](../../authors/associated-press/mesfin-fekadu/index.md)
@@ -1098,16 +1794,32 @@
 
 <br />
 
+ - [**"Artcetera: Morris Day and the Time show their Purple pride, Adele goes to Brit&#039;s Pub, more"**](https://www.startribune.com/artcetera-morris-day-and-the-time-show-their-purple-pride-adele-goes-to-brit-s-pub-more/385874841/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 7 July 2016
+    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/artcetera-morris-day-and-the-time-show-their-purple-pride-adele-goes-to-brit-s-pub-more/385874841/))
+
+<br />
+
  - [**"Morris Day and the Time perform with Purple pride at the Minnesota Zoo"**](https://www.startribune.com/morris-day-and-the-time-perform-with-purple-pride-at-the-minnesota-zoo/385161471/)
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 1 July 2016
-    - about [Morris Day](../../topics/morris-day/index.md), [The Time](../../topics/the-time/index.md)
+    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [The Time](../../topics/the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/morris-day-and-the-time-perform-with-purple-pride-at-the-minnesota-zoo/385161471/))
 
 ----
 
-### 2016 June (1)
+### 2016 June (2)
+
+ - [**"Artcetera: A Time to remember Prince"**](https://www.startribune.com/artcetera-a-time-to-remember-prince/384133681/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 23 June 2016
+    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/artcetera-a-time-to-remember-prince/384133681/))
+
+<br />
 
  - [**"Dave Rusan: Building Prince’s Cloud Guitar"**](https://www.premierguitar.com/articles/24199-dave-rusan-building-princes-cloud-guitar)
     - in [Premier Guitar](../../publications/p-t/premier-guitar/index.md)
@@ -1117,7 +1829,25 @@
 
 ----
 
-### 2016 April (12)
+### 2016 April (16)
+
+ - [**"Prince and First Avenue: a history of the club&#039;s ties to its brightest star -- First Avenue nightclub will forever be tied to Prince's legacy, as it has been since 1981. Here's a look at the history they shared."**](https://www.startribune.com/prince-and-first-avenue-a-history-of-the-club-s-ties-to-its-brightest-star/377583391/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 30 April 2016
+    - about [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-and-first-avenue-a-history-of-the-club-s-ties-to-its-brightest-star/377583391/))
+
+<br />
+
+ - [**"History Theater musical &#039;Complicated Fun&#039; is a Minneapolis mixtape -- "Complicated Fun" is a musical love letter to the 1980s Twin Cities music scene."**](https://www.startribune.com/history-theater-musical-complicated-fun-is-a-minneapolis-mixtape/377452831/)
+    - by [Graydon Royce](../../authors/graydon-royce/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 28 April 2016
+    - about [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/history-theater-musical-complicated-fun-is-a-minneapolis-mixtape/377452831/))
+
+<br />
 
  - [**"Prince Remembered by Childhood Best Friend and Bandmate André Cymone : 'There Was a Lot More to Him Than What People Saw'"**](https://www.billboard.com/articles/news/magazine-feature/7348518/prince-childhood-friend-bassist-andre-cymone-remembrance)
     - in [Billboard](../../publications/a-e/billboard/index.md)
@@ -1133,6 +1863,15 @@
     - on 28 April 2016
     - about [3121 (album)](../../topics/album/3121/index.md), [94 East](../../topics/94-east/index.md), [André Cymone](../../topics/andr-cymone/index.md), [Bob Cavallo](../../topics/bob-cavallo/index.md), [Bob Dylan](../../topics/bob-dylan/index.md), [Chris Moon](../../topics/chris-moon/index.md), [divorce](../../topics/divorce/index.md), [Do Yourself a Favor (song)](../../topics/song/do-yourself-a-favor/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Jesse Johnson](../../topics/jesse-johnson/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Minnesota Vikings](../../topics/minnesota-vikings/index.md), [Morris Day](../../topics/morris-day/index.md), [Owen Husney](../../topics/owen-husney/index.md), [Pepe Willie](../../topics/pepe-willie/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.yahoo.com/entertainment/princes-former-mentor-pepe-willie-recalls-the-215708376.html))
+
+<br />
+
+ - [**"Until the end, an enigma: Flashes of frailty stand out in Prince&#039;s vibrant final months -- In retrospect, those who saw Prince regularly say there were indications that he might have been concealing health problems. He abandoned his trademark high-heeled boots for custom platform sneakers, for one thing, and began carrying a cane."**](https://www.startribune.com/until-the-end-an-enigmaflashes-of-frailty-stand-out-in-prince-s-vibrant-final-months/376860181/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 24 April 2016
+    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/until-the-end-an-enigmaflashes-of-frailty-stand-out-in-prince-s-vibrant-final-months/376860181/))
 
 <br />
 
@@ -1193,6 +1932,15 @@
 
 <br />
 
+ - [**"Prince / An Oral History: In the Beginning -- Prince Rogers Nelson was born June 7, 1958, at Mount Sinai Hospital in Minneapolis to Mattie Shaw and John Nelson. They had been in a jazz ensemble called the Prince Roger Trio. Since Mattie called her husband Prince, she dubbed her son Skipper "because he was small in size and he was just real cute - he was a darling baby.""**](https://www.startribune.com/prince-an-oral-history-in-the-beginning/51508747/)
+    - by [Star Tribune staff](../../authors/star-tribune-staff/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 21 April 2016
+    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-an-oral-history-in-the-beginning/51508747/))
+
+<br />
+
  - [**"Prince, a singular, meticulous master of pop, dies at 57"**](https://www.sfchronicle.com/news/nation-world/nation/article/Prince-a-singular-meticulous-master-of-pop-7294913.php)
     - by [Jon Pareles](../../authors/jon-pareles/index.md)
     - in [San Francisco Chronicle](../../publications/p-t/san-francisco-chronicle/index.md)
@@ -1218,6 +1966,17 @@
 
 ----
 
+### 2016 March (1)
+
+ - [**"Southside Johnny shows who's the Boss at the Dakota"**](https://www.startribune.com/southside-johnny-shows-who-s-the-boss-at-the-dakota/371490211/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 9 March 2016
+    - about [Morris Day](../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/southside-johnny-shows-who-s-the-boss-at-the-dakota/371490211/))
+
+----
+
 ### 2016 February (1)
 
  - [**"Paean to Prince: 15 Fascinating Facts About His Purple Majesty -- Juicy secrets from a legendary music career, collected by an infatuated fan"**](https://medium.com/cuepoint/paean-to-prince-15-fascinating-facts-about-his-purple-majesty-6aa627d1d17e)
@@ -1228,18 +1987,136 @@
 
 ----
 
-### 2016 January (1)
+### 2016 January (3)
+
+ - [**"Big Gigs for Jan.29-Feb. 4: Morris Day and the Time, Judith Hill, Sean Anonymous, Sicbay, Vampire Hands, Chris Young and more"**](https://www.startribune.com/the-big-gigs-for-jan-29-feb-4-morris-day-and-the-time-judith-hill-sean-anonymous-sicbay-vampire-hands-chris-young-and-more/366869351/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 29 January 2016
+    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Monte Moir](../../topics/monte-moir/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/the-big-gigs-for-jan-29-feb-4-morris-day-and-the-time-judith-hill-sean-anonymous-sicbay-vampire-hands-chris-young-and-more/366869351/))
+
+<br />
 
  - [**"Time to party at Paisley: Morris Day to play Prince's place Friday"**](https://www.startribune.com/it-s-party-time-at-paisley-morris-day-to-play-prince-s-place-friday/366612721/)
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 26 January 2016
-    - about [Morris Day](../../topics/morris-day/index.md)
+    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Monte Moir](../../topics/monte-moir/index.md), [Morris Day](../../topics/morris-day/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/it-s-party-time-at-paisley-morris-day-to-play-prince-s-place-friday/366612721/))
+
+<br />
+
+ - [**"Live from LA: Jam & Lewis board 'Fresh Off the Boat'"**](https://www.startribune.com/live-from-la-jam-lewis-board-fresh-off-the-boat/365536321/)
+    - by [Neal Justin](../../authors/neal-justin/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 16 January 2016
+    - about [Jam & Lewis](../../topics/jam-lewis/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/live-from-la-jam-lewis-board-fresh-off-the-boat/365536321/))
 
 ----
 
-## 2014 (4)
+## 2015 (6)
+
+### 2015 September (1)
+
+ - [**"Who&#039;s on Taylor Swift&#039;s all-star guest list for Twin Cities shows? -- Her three St. Paul shows could be celeb-packed like the rest of her "1989" tour."**](https://www.startribune.com/who-s-on-taylor-swift-s-all-star-guest-list-for-twin-cities/326369041/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 13 September 2015
+    - about [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/who-s-on-taylor-swift-s-all-star-guest-list-for-twin-cities/326369041/))
+
+----
+
+### 2015 February (5)
+
+ - [**"At 100, Greater Twin Cities United Way courts a new generation of givers"**](https://www.startribune.com/greater-twin-cities-united-way-courts-a-new-generation/293094321/)
+    - by [Jean Hopfensperger](../../authors/jean-hopfensperger/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 23 February 2015
+    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/greater-twin-cities-united-way-courts-a-new-generation/293094321/))
+
+<br />
+
+ - [**"Concert review: Hozier full of holy fire but not yet wholly rounded -- The Irish artist proved Friday he has soul, and some learning to do."**](https://www.startribune.com/hozier-full-of-holy-fire-but-not-yet-wholly-rounded/293665801/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 23 February 2015
+    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/hozier-full-of-holy-fire-but-not-yet-wholly-rounded/293665801/))
+
+<br />
+
+ - [**"Review: Hozier full of holy fire but not yet wholly rounded -- The Irish artist proved Friday he has soul, and some learning to do."**](https://www.startribune.com/review-hozier-full-of-holy-fire-but-not-yet-wholly-rounded/293222771/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 23 February 2015
+    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/review-hozier-full-of-holy-fire-but-not-yet-wholly-rounded/293222771/))
+
+<br />
+
+ - [**"Irish hitmaker Hozier talks &#039;Church&#039; and his state of mind -- The "Take Me to Church" singer, 24, says he' enjoying the ride, especially when it came to the Grammys."**](https://www.startribune.com/irish-hitmaker-hozier-talks-church-and-his-state-of-mind/292710011/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 19 February 2015
+    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/irish-hitmaker-hozier-talks-church-and-his-state-of-mind/292710011/))
+
+<br />
+
+ - [**"Hozier&#039;s &#039;Church&#039; and state -- "Take Me to Church" hitmaker is enjoying the ride."**](https://www.startribune.com/hozier-s-church-and-state/292515361/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 18 February 2015
+    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/hozier-s-church-and-state/292515361/))
+
+----
+
+## 2014 (11)
+
+### 2014 October (2)
+
+ - [**"Item World: Eddie Vedder visits U of M Children&#039;s Hospital, Morris Day at Mall of America, more"**](https://www.startribune.com/item-world-eddie-vedder-visits-u-of-m-children-s-hospital-morris-day-at-mall-of-america-more/280214302/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 23 October 2014
+    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/item-world-eddie-vedder-visits-u-of-m-children-s-hospital-morris-day-at-mall-of-america-more/280214302/))
+
+<br />
+
+ - [**"Morris Day inaugurates Hard Rock Cafe at Mall of America"**](https://www.startribune.com/morris-day-inaugurates-hard-rock-cafe-at-mall-of-america/280153032/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 23 October 2014
+    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/morris-day-inaugurates-hard-rock-cafe-at-mall-of-america/280153032/))
+
+----
+
+### 2014 September (1)
+
+ - [**"Obituary: Leonard Share, owner of Arcade Men&#039;s Shop in downtown Minneapolis"**](https://www.startribune.com/obituary-leonard-share-owner-of-arcade-men-s-shop-in-downtown-minneapolis/275220301/)
+    - by [Kavita Kumar](../../authors/kavita-kumar/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 15 September 2014
+    - about [Edina (place)](../../topics/place/edina/index.md), [Morris Day](../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/obituary-leonard-share-owner-of-arcade-men-s-shop-in-downtown-minneapolis/275220301/))
+
+----
+
+### 2014 August (1)
+
+ - [**"Kid Rock is King of Saturday Night"**](https://www.startribune.com/kid-rock-is-king-of-saturday-night/272452681/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 24 August 2014
+    - about [Morris Day](../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/kid-rock-is-king-of-saturday-night/272452681/))
+
+----
 
 ### 2014 July (4)
 
@@ -1278,7 +2155,267 @@
 
 ----
 
-## 2009 (1)
+### 2014 June (1)
+
+ - [**"Bobby Z's Purple Hearts Club Band at First Ave, Apollonia at Paisley Park"**](https://www.startribune.com/bobby-z-s-purple-hearts-club-band-at-first-ave-apollonia-at-paisley-park/265133361/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 30 June 2014
+    - about [Morris Day](../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/bobby-z-s-purple-hearts-club-band-at-first-ave-apollonia-at-paisley-park/265133361/))
+
+----
+
+### 2014 April (1)
+
+ - [**"What might emerge from Prince&#039;s vault of unreleased music? -- Insiders speculate on his surprise deal with Warner Bros. Records."**](https://www.startribune.com/what-might-emerge-from-prince-s-vault-of-unreleased-music/257034001/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 29 April 2014
+    - about [Morris Day](../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/what-might-emerge-from-prince-s-vault-of-unreleased-music/257034001/))
+
+----
+
+### 2014 January (1)
+
+ - [**"More details for Prince's appearance on 'New Girl'"**](https://www.startribune.com/more-details-for-prince-s-appearance-on-new-girl/239979281/)
+    - by [Neal Justin](../../authors/neal-justin/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 15 January 2014
+    - about [Morris Day](../../topics/morris-day/index.md), [Super Bowl](../../topics/super-bowl/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/more-details-for-prince-s-appearance-on-new-girl/239979281/))
+
+----
+
+## 2013 (5)
+
+### 2013 October (2)
+
+ - [**"Item World: Neko Case loves the Time, Twin Cities love PBS, Bonnie Raitt loves her Minnesota guests, more"**](https://www.startribune.com/item-world-neko-case-loves-the-time-twin-cities-love-pbs-bonnie-raitt-loves-her-minnesota-guests-more/229141881/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 24 October 2013
+    - about [Morris Day](../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/item-world-neko-case-loves-the-time-twin-cities-love-pbs-bonnie-raitt-loves-her-minnesota-guests-more/229141881/))
+
+<br />
+
+ - [**"Neko Case two-times fans at First Ave"**](https://www.startribune.com/neko-case-two-times-fans-at-first-ave/228333111/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 18 October 2013
+    - about [Morris Day](../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/neko-case-two-times-fans-at-first-ave/228333111/))
+
+----
+
+### 2013 August (1)
+
+ - [**"The grandstand: A little bit young, a lot of oldies -- This year's lineup includes classic and modern rock, veteran country stars, a Latin superstar -- and a made-for-TV boy band."**](https://www.startribune.com/the-grandstand-who-s-there-and-when/128014458/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 17 August 2013
+    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Monte Moir](../../topics/monte-moir/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/the-grandstand-who-s-there-and-when/128014458/))
+
+----
+
+### 2013 May (1)
+
+ - [**"Prince plays Chicago with biggest band ever -- Monday's concert at United Center, the first of three in the Windy City, left fans wanting more."**](https://www.startribune.com/prince-plays-chicago-with-biggest-band-ever/171147871/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 3 May 2013
+    - about [Morris Day](../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-plays-chicago-with-biggest-band-ever/171147871/))
+
+----
+
+### 2013 February (1)
+
+ - [**"Minneapolis R&B vet Pierre Lewis resurfaces with Prince connection -- Interest in an old Prince recording helped unearth the Minneapolis Sound pioneer, who tours the world with the Commodores but plays a local dive bar every Sunday."**](https://www.startribune.com/minneapolis-r-b-vet-pierre-lewis-resurfaces-with-prince-connection/192526821/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 22 February 2013
+    - about [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/minneapolis-r-b-vet-pierre-lewis-resurfaces-with-prince-connection/192526821/))
+
+----
+
+## 2012 (1)
+
+### 2012 January (1)
+
+ - [**"Jesse Johnson quits the Original 7ven (aka the Time)"**](https://www.startribune.com/jesse-johnson-quits-the-original-7ven-aka-the-time/137615848/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 18 January 2012
+    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jerome Benton](../../topics/jerome-benton/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Monte Moir](../../topics/monte-moir/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/jesse-johnson-quits-the-original-7ven-aka-the-time/137615848/))
+
+----
+
+## 2011 (9)
+
+### 2011 November (1)
+
+ - [**"Original 7ven was a nostalgic good Time in homecoming concert"**](https://www.startribune.com/original-7ven-was-a-nostalgic-good-time-in-homecoming-concert/133316393/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 6 November 2011
+    - about [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jerome Benton](../../topics/jerome-benton/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/original-7ven-was-a-nostalgic-good-time-in-homecoming-concert/133316393/))
+
+----
+
+### 2011 October (3)
+
+ - [**"The Time or the Original 7ven: By any name, they&#039;re still &#039;Cool&#039; -- Minneapolis funkateers the Time are back on the clock - even though Prince won't let them use their original moniker."**](https://www.startribune.com/the-time-or-the-original-7ven-by-any-name-they-re-still-cool/132797383/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 29 October 2011
+    - about [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jerome Benton](../../topics/jerome-benton/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Monte Moir](../../topics/monte-moir/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/the-time-or-the-original-7ven-by-any-name-they-re-still-cool/132797383/))
+
+<br />
+
+ - [**"TV critic&#039;s picks Oct. 23-27"**](https://www.startribune.com/tv-critic-s-picks-oct-23-27/132281093/)
+    - by [Neal Justin](../../authors/neal-justin/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 22 October 2011
+    - about [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/tv-critic-s-picks-oct-23-27/132281093/))
+
+<br />
+
+ - [**"The Time (aka Original 7ven) book hometown gig for Nov. 5 at State Theatre"**](https://www.startribune.com/the-time-aka-original-7ven-book-hometown-gig-for-nov-5-at-state-theatre/131558738/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 12 October 2011
+    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jerome Benton](../../topics/jerome-benton/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Monte Moir](../../topics/monte-moir/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/the-time-aka-original-7ven-book-hometown-gig-for-nov-5-at-state-theatre/131558738/))
+
+----
+
+### 2011 September (4)
+
+ - [**"Item World: Seven, seven, Original 7ven -- Local news and views."**](https://www.startribune.com/item-world-seven-seven-original-7ven/130789043/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 29 September 2011
+    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jerome Benton](../../topics/jerome-benton/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Monte Moir](../../topics/monte-moir/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/item-world-seven-seven-original-7ven/130789043/))
+
+<br />
+
+ - [**"The Time changes moniker in order to release first album since 1990"**](https://www.startribune.com/the-time-changes-moniker-in-order-to-release-first-album-since-1990/130591908/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 28 September 2011
+    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jerome Benton](../../topics/jerome-benton/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Monte Moir](../../topics/monte-moir/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/the-time-changes-moniker-in-order-to-release-first-album-since-1990/130591908/))
+
+<br />
+
+ - [**"It&#039;s a Family affair for the band fDeluxe -- After being put in a band by Prince 25 years ago, vocalists Paul Peterson and Susannah Melvoin reunite in fDeluxe."**](https://www.startribune.com/it-s-a-family-affair-for-the-band-fdeluxe/129894773/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 15 September 2011
+    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/it-s-a-family-affair-for-the-band-fdeluxe/129894773/))
+
+<br />
+
+ - [**"Who&#039;d get your vote for a Minneapolis high schools hall of fame? -- A Nobel Prize winner? Former governors? An astronaut? Actors? Journalists? Prince? Inspired by Anoka High's recent induction, send in your ideas."**](https://www.startribune.com/who-d-get-your-vote-for-a-minneapolis-high-schools-hall-of-fame/129595198/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 13 September 2011
+    - about [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/who-d-get-your-vote-for-a-minneapolis-high-schools-hall-of-fame/129595198/))
+
+----
+
+### 2011 August (1)
+
+ - [**"The Big Gigs: Aug. 26-Sept. 1 -- Def Leppard and Steely Dan at the fair; Ke$ha at Roy Wilkins"**](https://www.startribune.com/the-big-gigs-aug-26-sept-1/128403458/)
+    - by [Star Tribune staff](../../authors/star-tribune-staff/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 25 August 2011
+    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Monte Moir](../../topics/monte-moir/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/the-big-gigs-aug-26-sept-1/128403458/))
+
+----
+
+## 2010 (7)
+
+### 2010 July (2)
+
+ - [**"Home funky home for Alexander O&#039;Neal -- Soul man Alexander O'Neal is back in town with a new CD echoing the glory days of the Minneapolis Sound."**](https://www.startribune.com/home-funky-home-for-alexander-o-neal/99058304/)
+    - by [Britt Robson](../../authors/britt-robson/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 29 July 2010
+    - about [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/home-funky-home-for-alexander-o-neal/99058304/))
+
+<br />
+
+ - [**"Home funky home -- Soul man Alexander O'Neal moves back to town, with a new CD celebrating the Minneapolis Sound."**](https://www.startribune.com/home-funky-home/98865344/)
+    - by [Britt Robson](../../authors/britt-robson/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 24 July 2010
+    - about [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/home-funky-home/98865344/))
+
+----
+
+### 2010 June (2)
+
+ - [**"Jimmy Jam enjoys some home cooking at Rudolph&#039;s -- Rudolph's Bar-B-Que was calling, and Jimmy Jam was answering."**](https://www.startribune.com/jimmy-jam-enjoys-some-home-cooking-at-rudolph-s/96342699/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 14 June 2010
+    - about [Jerome Benton](../../topics/jerome-benton/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/jimmy-jam-enjoys-some-home-cooking-at-rudolph-s/96342699/))
+
+<br />
+
+ - [**"Real Time: Morris, Jimmy, Terry & Co. to reunite again June 13 at Epic"**](https://www.startribune.com/real-time-morris-jimmy-terry-co-to-reunite-again-june-13-at-epic/95453884/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 2 June 2010
+    - about [Jerome Benton](../../topics/jerome-benton/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Monte Moir](../../topics/monte-moir/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/real-time-morris-jimmy-terry-co-to-reunite-again-june-13-at-epic/95453884/))
+
+----
+
+### 2010 April (2)
+
+ - [**"Read the "First Avenue Day" proclamation"**](https://www.startribune.com/read-the-first-avenue-day-proclamation/89879047/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 4 April 2010
+    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/read-the-first-avenue-day-proclamation/89879047/))
+
+<br />
+
+ - [**"Target Field from the cheap seats"**](https://www.startribune.com/target-field-from-the-cheap-seats/89831482/)
+    - by [Howard Sinker](../../authors/howard-sinker/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 3 April 2010
+    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/target-field-from-the-cheap-seats/89831482/))
+
+----
+
+### 2010 January (1)
+
+ - [**"Pick Six: A half-dozen cool things in music"**](https://www.startribune.com/pick-six-a-half-dozen-cool-things-in-music/81585077/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 16 January 2010
+    - about [Morris Day](../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/pick-six-a-half-dozen-cool-things-in-music/81585077/))
+
+----
+
+## 2009 (2)
 
 ### 2009 July (1)
 
@@ -1288,6 +2425,117 @@
     - on 31 July 2009
     - about [1999 (song)](../../topics/song/1999/index.md), [Albert Magnoli](../../topics/albert-magnoli/index.md), [Apollonia](../../topics/apollonia/index.md), [Bob Cavallo](../../topics/bob-cavallo/index.md), [Bruce Springsteen](../../topics/bruce-springsteen/index.md), [Christopher Reeve](../../topics/christopher-reeve/index.md), [Clarence Williams III](../../topics/clarence-williams-iii/index.md), [Detroit (place)](../../topics/place/detroit/index.md), [Eddie Murphy](../../topics/eddie-murphy/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Ghostbusters (movie)](../../topics/movie/ghostbusters/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [John Mellencamp](../../topics/john-mellencamp/index.md), [Kevin Bacon](../../topics/kevin-bacon/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Lindsey Buckingham](../../topics/lindsey-buckingham/index.md), [Lionel Richie](../../topics/lionel-richie/index.md), [Little Richard](../../topics/little-richard/index.md), [LotusFlow3r (album)](../../topics/album/lotusflow3r/index.md), [Martin Scorsese](../../topics/martin-scorsese/index.md), [Minnesota Dance Theatre](../../topics/minnesota-dance-theatre/index.md), [Minnesota Vikings](../../topics/minnesota-vikings/index.md), [Monte Moir](../../topics/monte-moir/index.md), [Montreux Jazz Festival (event)](../../topics/event/montreux-jazz-festival/index.md), [Morgan Fairchild](../../topics/morgan-fairchild/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [Palace nightclub (place)](../../topics/place/palace-nightclub/index.md), [Patricia Kotero](../../topics/patricia-kotero/index.md), [Pee Wee Herman](../../topics/pee-wee-herman/index.md), [Prince & The Revolution](../../topics/prince-the-revolution/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Rickie Lee Jones](../../topics/rickie-lee-jones/index.md), [St. Louis Park (place)](../../topics/place/st-louis-park/index.md), [St. Paul (place)](../../topics/place/st-paul/index.md), [Steve Fargnoli](../../topics/steve-fargnoli/index.md), [Steven Spielberg](../../topics/steven-spielberg/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md), [Switzerland (place)](../../topics/place/switzerland/index.md), [Talking Heads](../../topics/talking-heads/index.md), [Target](../../topics/target/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md), [William Blinn](../../topics/william-blinn/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.bostonherald.com/2009/07/31/purple-afterglow-25-years-ago-film-and-soundtrack-turned-prince-into-a-megastar/))
+
+----
+
+### 2009 March (1)
+
+ - [**"Top 15 Greatest Minnesotans"**](https://www.startribune.com/top-15-greatest-minnesotans/41478052/)
+    - by 
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 19 March 2009
+    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/top-15-greatest-minnesotans/41478052/))
+
+----
+
+## 2008 (10)
+
+### 2008 September (3)
+
+ - [**"At the Hotel Minneapolis: Time Machine"**](https://www.startribune.com/at-the-hotel-minneapolis-time-machine/28624404/)
+    - by [Christy DeSmith](../../authors/christy-desmith/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 22 September 2008
+    - about [Jerome Benton](../../topics/jerome-benton/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/at-the-hotel-minneapolis-time-machine/28624404/))
+
+<br />
+
+ - [**"Review: Hotel Minneapolis revives the Time&#039;s cool R&B -- Morris Day and his original band members turn back the clock in a spirited reunion."**](https://www.startribune.com/review-hotel-minneapolis-revives-the-time-s-cool-r-b/28352309/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 13 September 2008
+    - about [Jimmy Jam](../../topics/jimmy-jam/index.md), [Monte Moir](../../topics/monte-moir/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/review-hotel-minneapolis-revives-the-time-s-cool-r-b/28352309/))
+
+<br />
+
+ - [**"Music: It&#039;s homecoming night for the Time -- The Twin Cities-bred funkateers reunite to open a new hotel -- and show their kids how they put the Minneapolis Sound on the map."**](https://www.startribune.com/it-s-homecoming-night-for-the-time/28250824/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 11 September 2008
+    - about [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Monte Moir](../../topics/monte-moir/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/it-s-homecoming-night-for-the-time/28250824/))
+
+----
+
+### 2008 August (2)
+
+ - [**"Fashions of the 1980s -- Glamorama, Macy's annual glitzfest to benefit children's cancer research, will be all about the '80s Friday night, featuring Cyndi Lauper and MC Hammer. Of all the fashion eras of the 20th century, the 1980s seemed least likely to cycle back."**](https://www.startribune.com/fashions-of-the-1980s/26915199/)
+    - by [Kristin Tillotson](../../authors/kristin-tillotson/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 15 August 2008
+    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/fashions-of-the-1980s/26915199/))
+
+<br />
+
+ - [**"The Big Gigs: Upcoming shows in the week of entertainment -- Our critic's picks this week include Staind, Morris Day and the Time, Cyndi Lauper, Jordin Sparks and many more."**](https://www.startribune.com/the-big-gigs/26957179/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 14 August 2008
+    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Monte Moir](../../topics/monte-moir/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/the-big-gigs/26957179/))
+
+----
+
+### 2008 July (1)
+
+ - [**"Critic&#039;s picks"**](https://www.startribune.com/critic-s-picks/25759839/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 22 July 2008
+    - about [Morris Day](../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/critic-s-picks/25759839/))
+
+----
+
+### 2008 June (1)
+
+ - [**"The Time has come again -- After reuniting for the Grammys, the 1980s Minneapolis hitmakers are doing Vegas and a new album."**](https://www.startribune.com/the-time-has-come-again/20582659/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 21 June 2008
+    - about [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Monte Moir](../../topics/monte-moir/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/the-time-has-come-again/20582659/))
+
+----
+
+### 2008 April (1)
+
+ - [**"Bootsy Collins, Hootie & the Blowfish booked for 2008"**](https://www.startribune.com/bootsy-collins-hootie-the-blowfish-booked-for-2008/17880114/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 17 April 2008
+    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/bootsy-collins-hootie-the-blowfish-booked-for-2008/17880114/))
+
+----
+
+### 2008 February (2)
+
+ - [**"C.J.: &#039;Split Ends&#039; stylist swap needed conditioner; a new girl for Josh? -- There was drama in the air at Twiggs on Friday as a crew for a reality show roamed the Wayzata salon and spa."**](https://www.startribune.com/split-ends-stylist-swap-needed-conditioner-a-new-girl-for-josh/15615467/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 13 February 2008
+    - about [Jerome Benton](../../topics/jerome-benton/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Monte Moir](../../topics/monte-moir/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/split-ends-stylist-swap-needed-conditioner-a-new-girl-for-josh/15615467/))
+
+<br />
+
+ - [**"A taste of the 1980s Minneapolis Sound"**](https://www.startribune.com/a-taste-of-the-1980s-minneapolis-sound/15499751/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 10 February 2008
+    - about [Jerome Benton](../../topics/jerome-benton/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/a-taste-of-the-1980s-minneapolis-sound/15499751/))
 
 ----
 

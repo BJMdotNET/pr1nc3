@@ -45,7 +45,7 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 23 February 2018
-    - about [fDeluxe](../../topics/fdeluxe/index.md), [Sheila E.](../../topics/sheila-e/index.md)
+    - about [fDeluxe](../../topics/fdeluxe/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Super Bowl](../../topics/super-bowl/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/second-annual-celebration-at-prince-s-paisley-park-to-feature-sheila-e-fdeluxe-npg/474975113/))
 
 ----

@@ -67,11 +67,11 @@
 
 ### 2019 April (1)
 
- - [**"Prince's greatest talent? Self-confidence, says the manager who landed 'Purple Rain' -- Bob Cavallo recounts some of the tales he'll tell at Paisley Park for the third annual Celebration."**](https://www.startribune.com/prince-s-greatest-talent-self-confidence-says-the-manager-who-landed-purple-rain/508774052/)
+ - [**"Prince&#039;s greatest talent? Self-confidence, says the manager who landed &#039;Purple Rain&#039; -- Bob Cavallo recounts some of the tales he'll tell at Paisley Park for the third annual Celebration."**](https://www.startribune.com/prince-s-greatest-talent-self-confidence-says-the-manager-who-landed-purple-rain/508774052/)
     - by [Jon Bream](../../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 20 April 2019
-    - about [Bob Cavallo](../../../topics/bob-cavallo/index.md), [Graffiti Bridge (movie)](../../../topics/movie/graffiti-bridge/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md)
+    - about [Bob Cavallo](../../../topics/bob-cavallo/index.md), [Graffiti Bridge (movie)](../../../topics/movie/graffiti-bridge/index.md), [Morris Day](../../../topics/morris-day/index.md), [Morris Day and The Time](../../../topics/morris-day-and-the-time/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-s-greatest-talent-self-confidence-says-the-manager-who-landed-purple-rain/508774052/))
 
 ----

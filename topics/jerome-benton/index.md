@@ -1,6 +1,30 @@
 # Jerome Benton
 
-## 2020 (4)
+## 2021 (2)
+
+### 2021 July (1)
+
+ - [**"Jimmy Jam and Terry Lewis release their first album as artists -- Legendary producers Jimmy Jam and Terry Lewis release their debut album as artists."**](https://www.startribune.com/jimmy-jam-and-terry-lewis-release-their-first-album-as-artists/600076547/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 9 July 2021
+    - about [Jam & Lewis](../../topics/jam-lewis/index.md), [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jerome Benton](../../topics/jerome-benton/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/jimmy-jam-and-terry-lewis-release-their-first-album-as-artists/600076547/))
+
+----
+
+### 2021 February (1)
+
+ - [**"New Minneapolis Fourth Precinct inspector&#039;s story is one of the North Side -- Charlie Adams is a product of the area he polices."**](https://www.startribune.com/new-minneapolis-fourth-precinct-inspector-s-story-is-one-of-the-north-side/600016327/)
+    - by [Libor Jany](../../authors/libor-jany/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 1 February 2021
+    - about [Jerome Benton](../../topics/jerome-benton/index.md), [Morris Day](../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/new-minneapolis-fourth-precinct-inspector-s-story-is-one-of-the-north-side/600016327/))
+
+----
+
+## 2020 (5)
 
 ### 2020 July (1)
 
@@ -9,6 +33,17 @@
     - on 15 July 2020
     - about [Jerome Benton](../../topics/jerome-benton/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Maya Rudolph](../../topics/maya-rudolph/index.md), [Morris Day](../../topics/morris-day/index.md), [SiriusXM](../../topics/siriusxm/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/new-streaming-channels-with-musics-legendary-and-game-changing-artists-to-launch-today-on-siriusxm-301093865.html))
+
+----
+
+### 2020 May (1)
+
+ - [**"How Little Richard influenced Minnesota&#039;s biggest rock acts -- Bob Dylan, Prince, the Time and even the Replacements all showed off his impressions on them."**](https://www.startribune.com/how-little-richard-influenced-minnesota-s-biggest-rock-acts/570339721/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 9 May 2020
+    - about [Jerome Benton](../../topics/jerome-benton/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/how-little-richard-influenced-minnesota-s-biggest-rock-acts/570339721/))
 
 ----
 
@@ -39,7 +74,7 @@
 
 ----
 
-## 2019 (3)
+## 2019 (4)
 
 ### 2019 November (1)
 
@@ -72,7 +107,18 @@
 
 ----
 
-## 2018 (1)
+### 2019 April (1)
+
+ - [**"Former Minnesota football player scored in Hollywood with AMC&#039;s &#039;Into the Badlands&#039; series -- "Into the Badlands" star Sherman Augustus on how football informed his acting career."**](https://www.startribune.com/former-minnesota-viking-scored-in-hollywood-with-amc-s-into-the-badlands-series/508803152/)
+    - by [Neal Justin](../../authors/neal-justin/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 19 April 2019
+    - about [Jerome Benton](../../topics/jerome-benton/index.md), [Morris Day](../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/former-minnesota-viking-scored-in-hollywood-with-amc-s-into-the-badlands-series/508803152/))
+
+----
+
+## 2018 (2)
 
 ### 2018 June (1)
 
@@ -85,7 +131,29 @@
 
 ----
 
-## 2017 (1)
+### 2018 April (1)
+
+ - [**"New Prince record released today: His version of 'Nothing Compares 2 U'"**](https://www.startribune.com/new-prince-record-released-today-his-version-of-nothing-compares-2-u/480265043/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 19 April 2018
+    - about [Celebration 2018 (event)](../../topics/event/celebration-2018/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jerome Benton](../../topics/jerome-benton/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/new-prince-record-released-today-his-version-of-nothing-compares-2-u/480265043/))
+
+----
+
+## 2017 (3)
+
+### 2017 October (1)
+
+ - [**"It's that Time of the year: Minnesota casinos unveil New Year's Eve shows"**](https://www.startribune.com/that-time-of-the-year-minnesota-casinos-unveil-new-year-s-eve-shows/450773703/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 13 October 2017
+    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jerome Benton](../../topics/jerome-benton/index.md), [Monte Moir](../../topics/monte-moir/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/that-time-of-the-year-minnesota-casinos-unveil-new-year-s-eve-shows/450773703/))
+
+----
 
 ### 2017 July (1)
 
@@ -94,6 +162,17 @@
     - on 27 July 2017
     - about [Albert Magnoli](../../topics/albert-magnoli/index.md), [Anne McCulley](../../topics/anne-mcculley/index.md), [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Donald L. Thorin](../../topics/donald-l-thorin/index.md), [Jerome Benton](../../topics/jerome-benton/index.md), [Ken Robinson](../../topics/ken-robinson/index.md), [Morris Day](../../topics/morris-day/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md), [William Blinn](../../topics/william-blinn/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.hollywoodreporter.com/review/purple-rain-review-1984-movie-1024852))
+
+----
+
+### 2017 February (1)
+
+ - [**"What time is it? Time for the Time to open Bruno Mars' tour?"**](https://www.startribune.com/what-time-is-it-time-for-the-time-to-open-bruno-mars-tour/413560813/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 13 February 2017
+    - about [Jerome Benton](../../topics/jerome-benton/index.md), [Morris Day](../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/what-time-is-it-time-for-the-time-to-open-bruno-mars-tour/413560813/))
 
 ----
 
@@ -115,6 +194,123 @@
     - on 19 April 2016
     - about [Alan Leeds](../../topics/alan-leeds/index.md), [Bobby Z](../../topics/bobby-z/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Chick Huntsberry](../../topics/chick-huntsberry/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [Detroit (place)](../../topics/place/detroit/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Gwen Leeds](../../topics/gwen-leeds/index.md), [James Brown](../../topics/james-brown/index.md), [Jerome Benton](../../topics/jerome-benton/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [John Nelson](../../topics/john-nelson/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Morris Day](../../topics/morris-day/index.md), [New Orleans (place)](../../topics/place/new-orleans/index.md), [Paisley Park Records](../../topics/paisley-park-records/index.md), [Prince and The Revolution](../../topics/prince-and-the-revolution/index.md), [Steve Fargnoli](../../topics/steve-fargnoli/index.md), [Superdome (place)](../../topics/place/superdome/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Revolution](../../topics/the-revolution/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.waxpoetics.com/connections/prince/article/prince-and-the-revolution/))
+
+----
+
+## 2012 (1)
+
+### 2012 January (1)
+
+ - [**"Jesse Johnson quits the Original 7ven (aka the Time)"**](https://www.startribune.com/jesse-johnson-quits-the-original-7ven-aka-the-time/137615848/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 18 January 2012
+    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jerome Benton](../../topics/jerome-benton/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Monte Moir](../../topics/monte-moir/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/jesse-johnson-quits-the-original-7ven-aka-the-time/137615848/))
+
+----
+
+## 2011 (5)
+
+### 2011 November (1)
+
+ - [**"Original 7ven was a nostalgic good Time in homecoming concert"**](https://www.startribune.com/original-7ven-was-a-nostalgic-good-time-in-homecoming-concert/133316393/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 6 November 2011
+    - about [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jerome Benton](../../topics/jerome-benton/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/original-7ven-was-a-nostalgic-good-time-in-homecoming-concert/133316393/))
+
+----
+
+### 2011 October (2)
+
+ - [**"The Time or the Original 7ven: By any name, they&#039;re still &#039;Cool&#039; -- Minneapolis funkateers the Time are back on the clock - even though Prince won't let them use their original moniker."**](https://www.startribune.com/the-time-or-the-original-7ven-by-any-name-they-re-still-cool/132797383/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 29 October 2011
+    - about [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jerome Benton](../../topics/jerome-benton/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Monte Moir](../../topics/monte-moir/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/the-time-or-the-original-7ven-by-any-name-they-re-still-cool/132797383/))
+
+<br />
+
+ - [**"The Time (aka Original 7ven) book hometown gig for Nov. 5 at State Theatre"**](https://www.startribune.com/the-time-aka-original-7ven-book-hometown-gig-for-nov-5-at-state-theatre/131558738/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 12 October 2011
+    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jerome Benton](../../topics/jerome-benton/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Monte Moir](../../topics/monte-moir/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/the-time-aka-original-7ven-book-hometown-gig-for-nov-5-at-state-theatre/131558738/))
+
+----
+
+### 2011 September (2)
+
+ - [**"Item World: Seven, seven, Original 7ven -- Local news and views."**](https://www.startribune.com/item-world-seven-seven-original-7ven/130789043/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 29 September 2011
+    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jerome Benton](../../topics/jerome-benton/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Monte Moir](../../topics/monte-moir/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/item-world-seven-seven-original-7ven/130789043/))
+
+<br />
+
+ - [**"The Time changes moniker in order to release first album since 1990"**](https://www.startribune.com/the-time-changes-moniker-in-order-to-release-first-album-since-1990/130591908/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 28 September 2011
+    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jerome Benton](../../topics/jerome-benton/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Monte Moir](../../topics/monte-moir/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/the-time-changes-moniker-in-order-to-release-first-album-since-1990/130591908/))
+
+----
+
+## 2010 (2)
+
+### 2010 June (2)
+
+ - [**"Jimmy Jam enjoys some home cooking at Rudolph&#039;s -- Rudolph's Bar-B-Que was calling, and Jimmy Jam was answering."**](https://www.startribune.com/jimmy-jam-enjoys-some-home-cooking-at-rudolph-s/96342699/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 14 June 2010
+    - about [Jerome Benton](../../topics/jerome-benton/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/jimmy-jam-enjoys-some-home-cooking-at-rudolph-s/96342699/))
+
+<br />
+
+ - [**"Real Time: Morris, Jimmy, Terry & Co. to reunite again June 13 at Epic"**](https://www.startribune.com/real-time-morris-jimmy-terry-co-to-reunite-again-june-13-at-epic/95453884/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 2 June 2010
+    - about [Jerome Benton](../../topics/jerome-benton/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Monte Moir](../../topics/monte-moir/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/real-time-morris-jimmy-terry-co-to-reunite-again-june-13-at-epic/95453884/))
+
+----
+
+## 2008 (3)
+
+### 2008 September (1)
+
+ - [**"At the Hotel Minneapolis: Time Machine"**](https://www.startribune.com/at-the-hotel-minneapolis-time-machine/28624404/)
+    - by [Christy DeSmith](../../authors/christy-desmith/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 22 September 2008
+    - about [Jerome Benton](../../topics/jerome-benton/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/at-the-hotel-minneapolis-time-machine/28624404/))
+
+----
+
+### 2008 February (2)
+
+ - [**"C.J.: &#039;Split Ends&#039; stylist swap needed conditioner; a new girl for Josh? -- There was drama in the air at Twiggs on Friday as a crew for a reality show roamed the Wayzata salon and spa."**](https://www.startribune.com/split-ends-stylist-swap-needed-conditioner-a-new-girl-for-josh/15615467/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 13 February 2008
+    - about [Jerome Benton](../../topics/jerome-benton/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Monte Moir](../../topics/monte-moir/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/split-ends-stylist-swap-needed-conditioner-a-new-girl-for-josh/15615467/))
+
+<br />
+
+ - [**"A taste of the 1980s Minneapolis Sound"**](https://www.startribune.com/a-taste-of-the-1980s-minneapolis-sound/15499751/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 10 February 2008
+    - about [Jerome Benton](../../topics/jerome-benton/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/a-taste-of-the-1980s-minneapolis-sound/15499751/))
 
 ----
 

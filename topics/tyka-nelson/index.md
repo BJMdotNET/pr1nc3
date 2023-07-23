@@ -480,7 +480,7 @@
     - by [Steve Karnowski (Associated Press)](../../authors/associated-press/steve-karnowski/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 25 September 2016
-    - about [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [Morris Day](../../topics/morris-day/index.md), [museum](../../topics/museum/index.md), [Prince Estate](../../topics/prince-estate/index.md), [royalties](../../topics/royalties/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)
+    - about [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [museum](../../topics/museum/index.md), [Prince Estate](../../topics/prince-estate/index.md), [royalties](../../topics/royalties/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/still-no-will-but-work-to-settle-prince-estate-forges-ahead/394729181/))
 
 ----
@@ -807,7 +807,7 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md), [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 22 April 2016
-    - about [André Cymone](../../topics/andr-cymone/index.md), [Audubon Road (place)](../../topics/place/audubon-road/index.md), [divorce](../../topics/divorce/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Grammy Award](../../topics/grammy-award/index.md), [John Nelson](../../topics/john-nelson/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Obama](../../topics/obama/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Super Bowl XLI (event)](../../topics/event/super-bowl-xli/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
+    - about [André Cymone](../../topics/andr-cymone/index.md), [Audubon Road (place)](../../topics/place/audubon-road/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [divorce](../../topics/divorce/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Grammy Award](../../topics/grammy-award/index.md), [John Nelson](../../topics/john-nelson/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Obama](../../topics/obama/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Super Bowl XLI (event)](../../topics/event/super-bowl-xli/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/jon-bream-prince-was-a-once-in-a-generation-artist-who-never-rested-on-his-laurels/376594221/))
 
 <br />

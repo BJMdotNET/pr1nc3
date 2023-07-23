@@ -22,6 +22,31 @@
 
 ----
 
+## 2022 (1)
+
+### 2022 December (1)
+
+ - [**"Obituary: Gregory Kent 'Greg' Warner"**](https://www.startribune.com/obituaries/detail/0000445576/)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 25 December 2022
+    - about [Eden Prairie (place)](../../../topics/place/eden-prairie/index.md), [Edina (place)](../../../topics/place/edina/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Twin Cities (place)](../../../topics/place/twin-cities/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/obituaries/detail/0000445576/))
+
+----
+
+## 2014 (1)
+
+### 2014 September (1)
+
+ - [**"Obituary: Leonard Share, owner of Arcade Men&#039;s Shop in downtown Minneapolis"**](https://www.startribune.com/obituary-leonard-share-owner-of-arcade-men-s-shop-in-downtown-minneapolis/275220301/)
+    - by [Kavita Kumar](../../../authors/kavita-kumar/index.md)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 15 September 2014
+    - about [Edina (place)](../../../topics/place/edina/index.md), [Morris Day](../../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/obituary-leonard-share-owner-of-arcade-men-s-shop-in-downtown-minneapolis/275220301/))
+
+----
+
 ## 2011 (1)
 
 ### 2011 June (1)

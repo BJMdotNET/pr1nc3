@@ -1,6 +1,16 @@
 # Celebration 2020 (event)
 
-## 2020 (1)
+## 2020 (2)
+
+### 2020 April (1)
+
+ - [**"On anniversary of Prince&#039;s death, Paisley Park will stay dark for now"**](https://www.startribune.com/on-anniversary-of-prince-s-death-paisley-park-will-stay-dark-for-now/569794822/)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 21 April 2020
+    - about [Celebration 2020 (event)](../../../topics/event/celebration-2020/index.md), [Morris Day](../../../topics/morris-day/index.md), [Morris Day & The Time](../../../topics/morris-day-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/on-anniversary-of-prince-s-death-paisley-park-will-stay-dark-for-now/569794822/))
+
+----
 
 ### 2020 January (1)
 

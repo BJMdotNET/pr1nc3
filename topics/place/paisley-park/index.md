@@ -170,7 +170,17 @@
 
 ----
 
-## 2022 (4)
+## 2022 (6)
+
+### 2022 December (1)
+
+ - [**"Obituary: Gregory Kent 'Greg' Warner"**](https://www.startribune.com/obituaries/detail/0000445576/)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 25 December 2022
+    - about [Eden Prairie (place)](../../../topics/place/eden-prairie/index.md), [Edina (place)](../../../topics/place/edina/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Twin Cities (place)](../../../topics/place/twin-cities/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/obituaries/detail/0000445576/))
+
+----
 
 ### 2022 July (1)
 
@@ -194,7 +204,15 @@
 
 ----
 
-### 2022 March (1)
+### 2022 March (2)
+
+ - [**"Obituary: Chris 'Floater' Malone"**](https://www.startribune.com/obituaries/detail/0000421011/)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 27 March 2022
+    - about [Paisley Park (place)](../../../topics/place/paisley-park/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/obituaries/detail/0000421011/))
+
+<br />
 
  - [**"When Prince Did the Batdance -- Batman is an eccentric hero with a cape, so when it came time to pick an artist to make the soundtrack for Tim Burton’s 1989 film, the choice was obvious"**](https://www.theringer.com/movies/2022/3/4/22960026/prince-batman-soundtrack-oral-history-batdance)
     - in [The Ringer](../../../publications/p-t/the-ringer/index.md)

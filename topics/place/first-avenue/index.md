@@ -776,20 +776,21 @@
 <br />
 
  - [**"Jesse Johnson soars as guitar hero in power trio marathon at First Avenue"**](https://www.startribune.com/jesse-johnson-soars-as-guitar-hero-in-power-trio-marathon-at-first-avenue/404557246/)
+    - by [Jon Bream](../../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 4 December 2016
-    - about [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Jesse Johnson](../../../topics/jesse-johnson/index.md)
+    - about [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Jesse Johnson](../../../topics/jesse-johnson/index.md), [Morris Day](../../../topics/morris-day/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/jesse-johnson-soars-as-guitar-hero-in-power-trio-marathon-at-first-avenue/404557246/))
 
 ----
 
 ### 2016 November (2)
 
- - [**"Time guitarist Jesse Johnson returns to First Ave, a venue that 'always felt strange' -- After stints with the Time and D'Angelo, guitar ace Jesse Johnson returns to First Avenue fronting a power trio."**](https://www.startribune.com/guitarist-jesse-johnson-from-the-time-returns-to-first-ave-a-venue-that-always-felt-strange/403806736/)
+ - [**"Time guitarist Jesse Johnson returns to First Ave, a venue that &#039;always felt strange&#039; -- After stints with the Time and D'Angelo, guitar ace Jesse Johnson returns to First Avenue fronting a power trio."**](https://www.startribune.com/guitarist-jesse-johnson-from-the-time-returns-to-first-ave-a-venue-that-always-felt-strange/403806736/)
     - by [Jon Bream](../../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 30 November 2016
-    - about [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Jesse Johnson](../../../topics/jesse-johnson/index.md)
+    - about [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Jesse Johnson](../../../topics/jesse-johnson/index.md), [Morris Day](../../../topics/morris-day/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/guitarist-jesse-johnson-from-the-time-returns-to-first-ave-a-venue-that-always-felt-strange/403806736/))
 
 <br />
@@ -939,7 +940,7 @@
     - by [Chris Riemenschneider](../../../authors/chris-riemenschneider/index.md), [Jon Bream](../../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 22 April 2016
-    - about [André Cymone](../../../topics/andr-cymone/index.md), [Audubon Road (place)](../../../topics/place/audubon-road/index.md), [divorce](../../../topics/divorce/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Grammy Award](../../../topics/grammy-award/index.md), [John Nelson](../../../topics/john-nelson/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Mayte](../../../topics/mayte/index.md), [Mayte Garcia](../../../topics/mayte-garcia/index.md), [Obama](../../../topics/obama/index.md), [Super Bowl](../../../topics/super-bowl/index.md), [Super Bowl XLI (event)](../../../topics/event/super-bowl-xli/index.md), [Tyka Nelson](../../../topics/tyka-nelson/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
+    - about [André Cymone](../../../topics/andr-cymone/index.md), [Audubon Road (place)](../../../topics/place/audubon-road/index.md), [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [divorce](../../../topics/divorce/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Grammy Award](../../../topics/grammy-award/index.md), [John Nelson](../../../topics/john-nelson/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Mayte](../../../topics/mayte/index.md), [Mayte Garcia](../../../topics/mayte-garcia/index.md), [Obama](../../../topics/obama/index.md), [Super Bowl](../../../topics/super-bowl/index.md), [Super Bowl XLI (event)](../../../topics/event/super-bowl-xli/index.md), [Tyka Nelson](../../../topics/tyka-nelson/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/jon-bream-prince-was-a-once-in-a-generation-artist-who-never-rested-on-his-laurels/376594221/))
 
 <br />

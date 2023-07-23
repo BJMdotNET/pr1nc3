@@ -163,6 +163,7 @@
 <br />
 
  - [**"20 gift ideas for the music lovers on your holiday list -- Twenty ideas for the music lovers on your holiday list."**](https://www.startribune.com/20-gift-ideas-for-the-music-lovers-on-your-holiday-list/566181501/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 16 December 2019
     - about [1999 Super Deluxe (album)](../../topics/album/1999-super-deluxe/index.md), [Bob Dylan](../../topics/bob-dylan/index.md), [bootleg](../../topics/bootleg/index.md), [Lizzo](../../topics/lizzo/index.md), [memoir](../../topics/memoir/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Morris Day](../../topics/morris-day/index.md), [My Name Is Prince: 25 Inspired Years (book)](../../topics/book/my-name-is-prince-25-inspired-years/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)
@@ -236,7 +237,8 @@
 
 <br />
 
- - [**"How '1999' made Prince a star: 'This album was the turning point' -- An expanded reissue of Prince's breakthrough album shows how prolific he was in the early '80s."**](https://www.startribune.com/how-1999-made-prince-a-star-this-album-was-the-turning-point/565432932/)
+ - [**"How &#039;1999&#039; made Prince a star: &#039;This album was the turning point&#039; -- An expanded reissue of Prince's breakthrough album shows how prolific he was in the early '80s."**](https://www.startribune.com/how-1999-made-prince-a-star-this-album-was-the-turning-point/565432932/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 25 November 2019
     - about [1999 (album)](../../topics/album/1999/index.md), [Bangles](../../topics/bangles/index.md), [Bobby Z.](../../topics/bobby-z/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [James Brown](../../topics/james-brown/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Kiowa Trail](../../topics/kiowa-trail/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [memoir](../../topics/memoir/index.md), [Sly Stone](../../topics/sly-stone/index.md), [The Revolution](../../topics/the-revolution/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md)
@@ -902,10 +904,11 @@
 
 <br />
 
- - [**"Prince haunts Morris Day's new memoir: 'I still hear his voice in my head' -- "Purple Rain" co-star and Time leader Morris Day details his long friendship with Prince in a memoir that brings him home to the Twin Cities this week."**](https://www.startribune.com/prince-haunts-morris-day-s-new-memoir-i-still-hear-his-voice-in-my-head/562430972/)
+ - [**"Prince haunts Morris Day&#039;s new memoir: &#039;I still hear his voice in my head&#039; -- "Purple Rain" co-star and Time leader Morris Day details his long friendship with Prince in a memoir that brings him home to the Twin Cities this week."**](https://www.startribune.com/prince-haunts-morris-day-s-new-memoir-i-still-hear-his-voice-in-my-head/562430972/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 8 October 2019
-    - about [Aretha Franklin](../../topics/aretha-franklin/index.md), [Donald Trump](../../topics/donald-trump/index.md), [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jamie Starr](../../topics/jamie-starr/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [Pandemonium (album)](../../topics/album/pandemonium/index.md), [Trump](../../topics/trump/index.md)
+    - about [Aretha Franklin](../../topics/aretha-franklin/index.md), [Donald Trump](../../topics/donald-trump/index.md), [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jamie Starr](../../topics/jamie-starr/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [Pandemonium (album)](../../topics/album/pandemonium/index.md), [Trump](../../topics/trump/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-haunts-morris-day-s-new-memoir-i-still-hear-his-voice-in-my-head/562430972/))
 
 <br />

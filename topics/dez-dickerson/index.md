@@ -110,7 +110,8 @@
 
 <br />
 
- - [**"How '1999' made Prince a star: 'This album was the turning point' -- An expanded reissue of Prince's breakthrough album shows how prolific he was in the early '80s."**](https://www.startribune.com/how-1999-made-prince-a-star-this-album-was-the-turning-point/565432932/)
+ - [**"How &#039;1999&#039; made Prince a star: &#039;This album was the turning point&#039; -- An expanded reissue of Prince's breakthrough album shows how prolific he was in the early '80s."**](https://www.startribune.com/how-1999-made-prince-a-star-this-album-was-the-turning-point/565432932/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 25 November 2019
     - about [1999 (album)](../../topics/album/1999/index.md), [Bangles](../../topics/bangles/index.md), [Bobby Z.](../../topics/bobby-z/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [James Brown](../../topics/james-brown/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Kiowa Trail](../../topics/kiowa-trail/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [memoir](../../topics/memoir/index.md), [Sly Stone](../../topics/sly-stone/index.md), [The Revolution](../../topics/the-revolution/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md)

@@ -764,6 +764,9 @@ items:
 - name: Coachella (event)
   href: event/coachella/index.md
   homepage: event/coachella/index.md
+- name: Coco & Breezy
+  href: coco-breezy/index.md
+  homepage: coco-breezy/index.md
 - name: Cold Coffee & Cocaine (song)
   href: song/cold-coffee-cocaine/index.md
   homepage: song/cold-coffee-cocaine/index.md

@@ -765,7 +765,7 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 1 July 2016
-    - about [Morris Day](../../topics/morris-day/index.md), [The Time](../../topics/the-time/index.md)
+    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [The Time](../../topics/the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/morris-day-and-the-time-perform-with-purple-pride-at-the-minnesota-zoo/385161471/))
 
 ----

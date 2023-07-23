@@ -50,7 +50,17 @@
 
 ----
 
-## 2022 (5)
+## 2022 (6)
+
+### 2022 December (1)
+
+ - [**"Obituary: Gregory Kent 'Greg' Warner"**](https://www.startribune.com/obituaries/detail/0000445576/)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 25 December 2022
+    - about [Eden Prairie (place)](../../../topics/place/eden-prairie/index.md), [Edina (place)](../../../topics/place/edina/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Twin Cities (place)](../../../topics/place/twin-cities/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/obituaries/detail/0000445576/))
+
+----
 
 ### 2022 June (2)
 

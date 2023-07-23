@@ -21,15 +21,37 @@
 
 ----
 
-## 2022 (1)
+## 2022 (2)
 
-### 2022 March (1)
+### 2022 March (2)
 
  - [**"Morris Day Says Prince Estate Preventing Him From Using The Time's Band Name"**](https://www.cbsnews.com/minnesota/news/morris-day-says-prince-estate-preventing-him-from-using-the-times-band-name/)
     - in [WCCO - CBS Minnesota](../../publications/u-z/wcco-cbs-minnesota/index.md)
     - on 4 March 2022
     - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [The Time](../../topics/the-time/index.md), [WCCO](../../topics/wcco/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/morris-day-says-prince-estate-preventing-him-from-using-the-times-band-name/))
+
+<br />
+
+ - [**"Minneapolis music legend Morris Day says Prince&#039;s estate won&#039;t let him use &#039;the Time&#039; anymore -- The estate says Day's announcement is "not entirely accurate.""**](https://www.startribune.com/minneapolis-music-legend-morris-day-says-prince-estate-wont-let-him-use-the-time-anymore/600152599/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md), [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 3 March 2022
+    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/minneapolis-music-legend-morris-day-says-prince-estate-wont-let-him-use-the-time-anymore/600152599/))
+
+----
+
+## 2021 (1)
+
+### 2021 March (1)
+
+ - [**"At 64, Minnesota music hero Jellybean Johnson makes his solo guitar debut -- Thanks to the pandemic, the drummer for the Time got a chance to finish something he's wanted to do for a long time."**](https://www.startribune.com/at-64-minnesota-music-hero-jellybean-johnson-makes-his-solo-guitar-debut/600035752/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 19 March 2021
+    - about [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/at-64-minnesota-music-hero-jellybean-johnson-makes-his-solo-guitar-debut/600035752/))
 
 ----
 
@@ -53,7 +75,7 @@
 
 ----
 
-## 2019 (7)
+## 2019 (8)
 
 ### 2019 December (2)
 
@@ -99,7 +121,15 @@
 
 ----
 
-### 2019 July (2)
+### 2019 July (3)
+
+ - [**"Pick Six: Praise of &#039;Song Exploder,&#039; Purple Mountains, Queen, Lyle Lovett, St. Paul Peterson -- Pick Six is a half-dozen cool things in music, from two points of view."**](https://www.startribune.com/pick-six-praise-of-song-exploder-purple-mountains-queen-lyle-lovett-st-paul-peterson/513208932/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 27 July 2019
+    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/pick-six-praise-of-song-exploder-purple-mountains-queen-lyle-lovett-st-paul-peterson/513208932/))
+
+<br />
 
  - [**"The Family’s Paul Peterson returns with a pair of new solo songs that sound a lot like Prince"**](https://www.twincities.com/2019/07/18/the-familys-paul-peterson-returns-with-a-pair-of-new-solo-songs-that-sound-a-lot-like-prince/)
     - by [Ross Raihala](../../authors/ross-raihala/index.md)
@@ -119,7 +149,18 @@
 
 ----
 
-## 2018 (1)
+## 2018 (4)
+
+### 2018 December (1)
+
+ - [**"Morris Day's misadventures in Minneapolis get animated for Mike Judge's TV series"**](https://www.startribune.com/morris-day-s-misadventures-in-minneapolis-get-animated-for-mike-judge-s-tv-series/502781422/)
+    - by [Neal Justin](../../authors/neal-justin/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 14 December 2018
+    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/morris-day-s-misadventures-in-minneapolis-get-animated-for-mike-judge-s-tv-series/502781422/))
+
+----
 
 ### 2018 September (1)
 
@@ -128,6 +169,200 @@
     - on 26 September 2018
     - about [Central High](../../topics/central-high/index.md), [Cloud guitar (instrument)](../../topics/instrument/cloud-guitar/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [museum](../../topics/museum/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Paul Peterson](../../topics/paul-peterson/index.md), [St. Paul Peterson](../../topics/st-paul-peterson/index.md), [Tommy Barbarella](../../topics/tommy-barbarella/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [University of Minnesota](../../topics/university-of-minnesota/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/38a03f35b393465ba72fa83d6841b3a3))
+
+----
+
+### 2018 April (1)
+
+ - [**"New Prince record released today: His version of 'Nothing Compares 2 U'"**](https://www.startribune.com/new-prince-record-released-today-his-version-of-nothing-compares-2-u/480265043/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 19 April 2018
+    - about [Celebration 2018 (event)](../../topics/event/celebration-2018/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jerome Benton](../../topics/jerome-benton/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/new-prince-record-released-today-his-version-of-nothing-compares-2-u/480265043/))
+
+----
+
+### 2018 February (1)
+
+ - [**"Second annual Celebration at Prince's Paisley Park to feature Sheila E., fDeluxe, NPG"**](https://www.startribune.com/second-annual-celebration-at-prince-s-paisley-park-to-feature-sheila-e-fdeluxe-npg/474975113/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 23 February 2018
+    - about [fDeluxe](../../topics/fdeluxe/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Super Bowl](../../topics/super-bowl/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/second-annual-celebration-at-prince-s-paisley-park-to-feature-sheila-e-fdeluxe-npg/474975113/))
+
+----
+
+## 2017 (2)
+
+### 2017 October (1)
+
+ - [**"It's that Time of the year: Minnesota casinos unveil New Year's Eve shows"**](https://www.startribune.com/that-time-of-the-year-minnesota-casinos-unveil-new-year-s-eve-shows/450773703/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 13 October 2017
+    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jerome Benton](../../topics/jerome-benton/index.md), [Monte Moir](../../topics/monte-moir/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/that-time-of-the-year-minnesota-casinos-unveil-new-year-s-eve-shows/450773703/))
+
+----
+
+### 2017 August (1)
+
+ - [**"Meet the bands set to battle at Paisley Park&#039;s Musicology event -- Nine acts, including four locals, are competing this weekend to record at Prince's studio."**](https://www.startribune.com/meet-the-bands-set-to-battle-at-paisley-park-s-musicology-event/442255523/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 30 August 2017
+    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Morris Day](../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/meet-the-bands-set-to-battle-at-paisley-park-s-musicology-event/442255523/))
+
+----
+
+## 2016 (5)
+
+### 2016 October (1)
+
+ - [**"Morris Day & the Time make up for lost time in late-night First Ave set"**](https://www.startribune.com/morris-day-the-time-make-up-for-lost-time-in-late-night-first-ave-set/397094861/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 14 October 2016
+    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Monte Moir](../../topics/monte-moir/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/morris-day-the-time-make-up-for-lost-time-in-late-night-first-ave-set/397094861/))
+
+----
+
+### 2016 June (1)
+
+ - [**"Artcetera: A Time to remember Prince"**](https://www.startribune.com/artcetera-a-time-to-remember-prince/384133681/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 23 June 2016
+    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/artcetera-a-time-to-remember-prince/384133681/))
+
+----
+
+### 2016 April (1)
+
+ - [**"Prince / An Oral History: In the Beginning -- Prince Rogers Nelson was born June 7, 1958, at Mount Sinai Hospital in Minneapolis to Mattie Shaw and John Nelson. They had been in a jazz ensemble called the Prince Roger Trio. Since Mattie called her husband Prince, she dubbed her son Skipper "because he was small in size and he was just real cute - he was a darling baby.""**](https://www.startribune.com/prince-an-oral-history-in-the-beginning/51508747/)
+    - by [Star Tribune staff](../../authors/star-tribune-staff/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 21 April 2016
+    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-an-oral-history-in-the-beginning/51508747/))
+
+----
+
+### 2016 January (2)
+
+ - [**"Big Gigs for Jan.29-Feb. 4: Morris Day and the Time, Judith Hill, Sean Anonymous, Sicbay, Vampire Hands, Chris Young and more"**](https://www.startribune.com/the-big-gigs-for-jan-29-feb-4-morris-day-and-the-time-judith-hill-sean-anonymous-sicbay-vampire-hands-chris-young-and-more/366869351/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 29 January 2016
+    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Monte Moir](../../topics/monte-moir/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/the-big-gigs-for-jan-29-feb-4-morris-day-and-the-time-judith-hill-sean-anonymous-sicbay-vampire-hands-chris-young-and-more/366869351/))
+
+<br />
+
+ - [**"Time to party at Paisley: Morris Day to play Prince's place Friday"**](https://www.startribune.com/it-s-party-time-at-paisley-morris-day-to-play-prince-s-place-friday/366612721/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 26 January 2016
+    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Monte Moir](../../topics/monte-moir/index.md), [Morris Day](../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/it-s-party-time-at-paisley-morris-day-to-play-prince-s-place-friday/366612721/))
+
+----
+
+## 2013 (1)
+
+### 2013 August (1)
+
+ - [**"The grandstand: A little bit young, a lot of oldies -- This year's lineup includes classic and modern rock, veteran country stars, a Latin superstar -- and a made-for-TV boy band."**](https://www.startribune.com/the-grandstand-who-s-there-and-when/128014458/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 17 August 2013
+    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Monte Moir](../../topics/monte-moir/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/the-grandstand-who-s-there-and-when/128014458/))
+
+----
+
+## 2012 (1)
+
+### 2012 January (1)
+
+ - [**"Jesse Johnson quits the Original 7ven (aka the Time)"**](https://www.startribune.com/jesse-johnson-quits-the-original-7ven-aka-the-time/137615848/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 18 January 2012
+    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jerome Benton](../../topics/jerome-benton/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Monte Moir](../../topics/monte-moir/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/jesse-johnson-quits-the-original-7ven-aka-the-time/137615848/))
+
+----
+
+## 2011 (7)
+
+### 2011 October (2)
+
+ - [**"The Time or the Original 7ven: By any name, they&#039;re still &#039;Cool&#039; -- Minneapolis funkateers the Time are back on the clock - even though Prince won't let them use their original moniker."**](https://www.startribune.com/the-time-or-the-original-7ven-by-any-name-they-re-still-cool/132797383/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 29 October 2011
+    - about [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jerome Benton](../../topics/jerome-benton/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Monte Moir](../../topics/monte-moir/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/the-time-or-the-original-7ven-by-any-name-they-re-still-cool/132797383/))
+
+<br />
+
+ - [**"The Time (aka Original 7ven) book hometown gig for Nov. 5 at State Theatre"**](https://www.startribune.com/the-time-aka-original-7ven-book-hometown-gig-for-nov-5-at-state-theatre/131558738/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 12 October 2011
+    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jerome Benton](../../topics/jerome-benton/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Monte Moir](../../topics/monte-moir/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/the-time-aka-original-7ven-book-hometown-gig-for-nov-5-at-state-theatre/131558738/))
+
+----
+
+### 2011 September (4)
+
+ - [**"Item World: Seven, seven, Original 7ven -- Local news and views."**](https://www.startribune.com/item-world-seven-seven-original-7ven/130789043/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 29 September 2011
+    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jerome Benton](../../topics/jerome-benton/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Monte Moir](../../topics/monte-moir/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/item-world-seven-seven-original-7ven/130789043/))
+
+<br />
+
+ - [**"The Time changes moniker in order to release first album since 1990"**](https://www.startribune.com/the-time-changes-moniker-in-order-to-release-first-album-since-1990/130591908/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 28 September 2011
+    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jerome Benton](../../topics/jerome-benton/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Monte Moir](../../topics/monte-moir/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/the-time-changes-moniker-in-order-to-release-first-album-since-1990/130591908/))
+
+<br />
+
+ - [**"C.J.: Bobby Z making great strides, wife says -- Beating drums has ceased to be Bobby Z's only form of exercise, since his heart attack scare earlier this year."**](https://www.startribune.com/c-j-bobby-z-making-great-strides-wife-says/130165398/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 26 September 2011
+    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/c-j-bobby-z-making-great-strides-wife-says/130165398/))
+
+<br />
+
+ - [**"It&#039;s a Family affair for the band fDeluxe -- After being put in a band by Prince 25 years ago, vocalists Paul Peterson and Susannah Melvoin reunite in fDeluxe."**](https://www.startribune.com/it-s-a-family-affair-for-the-band-fdeluxe/129894773/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 15 September 2011
+    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/it-s-a-family-affair-for-the-band-fdeluxe/129894773/))
+
+----
+
+### 2011 August (1)
+
+ - [**"The Big Gigs: Aug. 26-Sept. 1 -- Def Leppard and Steely Dan at the fair; Ke$ha at Roy Wilkins"**](https://www.startribune.com/the-big-gigs-aug-26-sept-1/128403458/)
+    - by [Star Tribune staff](../../authors/star-tribune-staff/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 25 August 2011
+    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Monte Moir](../../topics/monte-moir/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/the-big-gigs-aug-26-sept-1/128403458/))
 
 ----
 
@@ -141,6 +376,40 @@
     - on 31 July 2009
     - about [1999 (song)](../../topics/song/1999/index.md), [Albert Magnoli](../../topics/albert-magnoli/index.md), [Apollonia](../../topics/apollonia/index.md), [Bob Cavallo](../../topics/bob-cavallo/index.md), [Bruce Springsteen](../../topics/bruce-springsteen/index.md), [Christopher Reeve](../../topics/christopher-reeve/index.md), [Clarence Williams III](../../topics/clarence-williams-iii/index.md), [Detroit (place)](../../topics/place/detroit/index.md), [Eddie Murphy](../../topics/eddie-murphy/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Ghostbusters (movie)](../../topics/movie/ghostbusters/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [John Mellencamp](../../topics/john-mellencamp/index.md), [Kevin Bacon](../../topics/kevin-bacon/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Lindsey Buckingham](../../topics/lindsey-buckingham/index.md), [Lionel Richie](../../topics/lionel-richie/index.md), [Little Richard](../../topics/little-richard/index.md), [LotusFlow3r (album)](../../topics/album/lotusflow3r/index.md), [Martin Scorsese](../../topics/martin-scorsese/index.md), [Minnesota Dance Theatre](../../topics/minnesota-dance-theatre/index.md), [Minnesota Vikings](../../topics/minnesota-vikings/index.md), [Monte Moir](../../topics/monte-moir/index.md), [Montreux Jazz Festival (event)](../../topics/event/montreux-jazz-festival/index.md), [Morgan Fairchild](../../topics/morgan-fairchild/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [Palace nightclub (place)](../../topics/place/palace-nightclub/index.md), [Patricia Kotero](../../topics/patricia-kotero/index.md), [Pee Wee Herman](../../topics/pee-wee-herman/index.md), [Prince & The Revolution](../../topics/prince-the-revolution/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Rickie Lee Jones](../../topics/rickie-lee-jones/index.md), [St. Louis Park (place)](../../topics/place/st-louis-park/index.md), [St. Paul (place)](../../topics/place/st-paul/index.md), [Steve Fargnoli](../../topics/steve-fargnoli/index.md), [Steven Spielberg](../../topics/steven-spielberg/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md), [Switzerland (place)](../../topics/place/switzerland/index.md), [Talking Heads](../../topics/talking-heads/index.md), [Target](../../topics/target/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md), [William Blinn](../../topics/william-blinn/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.bostonherald.com/2009/07/31/purple-afterglow-25-years-ago-film-and-soundtrack-turned-prince-into-a-megastar/))
+
+----
+
+## 2008 (3)
+
+### 2008 September (1)
+
+ - [**"Music: It&#039;s homecoming night for the Time -- The Twin Cities-bred funkateers reunite to open a new hotel -- and show their kids how they put the Minneapolis Sound on the map."**](https://www.startribune.com/it-s-homecoming-night-for-the-time/28250824/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 11 September 2008
+    - about [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Monte Moir](../../topics/monte-moir/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/it-s-homecoming-night-for-the-time/28250824/))
+
+----
+
+### 2008 August (1)
+
+ - [**"The Big Gigs: Upcoming shows in the week of entertainment -- Our critic's picks this week include Staind, Morris Day and the Time, Cyndi Lauper, Jordin Sparks and many more."**](https://www.startribune.com/the-big-gigs/26957179/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 14 August 2008
+    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Monte Moir](../../topics/monte-moir/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/the-big-gigs/26957179/))
+
+----
+
+### 2008 June (1)
+
+ - [**"The Time has come again -- After reuniting for the Grammys, the 1980s Minneapolis hitmakers are doing Vegas and a new album."**](https://www.startribune.com/the-time-has-come-again/20582659/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 21 June 2008
+    - about [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Monte Moir](../../topics/monte-moir/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/the-time-has-come-again/20582659/))
 
 ----
 

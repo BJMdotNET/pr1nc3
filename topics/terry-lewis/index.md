@@ -1,8 +1,8 @@
 # Terry Lewis
 
-## 2023 (3)
+## 2023 (7)
 
-### 2023 June (3)
+### 2023 June (4)
 
  - [**"The influence of Black music: How 'Flyte Tyme' changed the world from a recording studio"**](https://www.mprnews.org/story/2023/06/29/the-influence-of-black-music-how-flyte-tyme-changed-the-world-from-a-booth-in-edina)
     - by [Jae Bryson](../../authors/jae-bryson/index.md)
@@ -22,6 +22,15 @@
 
 <br />
 
+ - [**"Big Gigs: 10 concerts to see in the Twin Cities this week -- Highlights for June 8-14 include the Cure, Bebe Rexha, Tyler Childers and Weezer."**](https://www.startribune.com/twin-cities-the-cure-bebe-rexha-tyler-childers-weezer-rodrigo-y-gabriela-meshell-ndegeocello/600280755/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md), [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 7 June 2023
+    - about [Jimmy Jam](../../topics/jimmy-jam/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/twin-cities-the-cure-bebe-rexha-tyler-childers-weezer-rodrigo-y-gabriela-meshell-ndegeocello/600280755/))
+
+<br />
+
  - [**"Minneapolis Sound Museum honors local music legends"**](https://www.fox9.com/news/jellybean-johnson-on-the-minneapolis-sound)
     - in [Fox 9](../../publications/f-j/fox-9/index.md)
     - on 7 June 2023
@@ -30,7 +39,40 @@
 
 ----
 
-## 2022 (2)
+### 2023 May (1)
+
+ - [**"The big gigs: 10 concerts to see in the Twin Cities this week -- Highlights for May 25-31 include Janet Jackson, Dwight Yoakam, Ondara, Caterwaul and Wild Nights at the Zoo."**](https://www.startribune.com/twin-cities-janet-jackson-dwight-yoakam-ondara-caterwaul-terrace-martin-gully-boys-kiss-the-tiger/600277349/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md), [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 24 May 2023
+    - about [Jimmy Jam](../../topics/jimmy-jam/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/twin-cities-janet-jackson-dwight-yoakam-ondara-caterwaul-terrace-martin-gully-boys-kiss-the-tiger/600277349/))
+
+----
+
+### 2023 March (1)
+
+ - [**"Boyz II Men and Chaka Khan are headed to Minnesota State Fair on Aug. 27 -- The annual R&B oldies show is the sixth concert announced  for this year's grandstand series."**](https://www.startribune.com/boyz-ii-men-chaka-khan-minnesota-state-fair-on-aug-27-prince-jimmy-jam-terry-lewis-mariah-carey/600262944/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 29 March 2023
+    - about [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/boyz-ii-men-chaka-khan-minnesota-state-fair-on-aug-27-prince-jimmy-jam-terry-lewis-mariah-carey/600262944/))
+
+----
+
+### 2023 February (1)
+
+ - [**"Senate President Bobby Joe Champion blazes a leadership path at the Capitol -- Lawyer-musician brings array of skills as he seeks to get the Senate working in harmony."**](https://www.startribune.com/senate-president-bobby-joe-champion-blazes-a-leadership-path-at-the-capitol/600254598/)
+    - by [Rochelle Olson](../../authors/rochelle-olson/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 26 February 2023
+    - about [Jimmy Jam](../../topics/jimmy-jam/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/senate-president-bobby-joe-champion-blazes-a-leadership-path-at-the-capitol/600254598/))
+
+----
+
+## 2022 (8)
 
 ### 2022 November (1)
 
@@ -42,7 +84,38 @@
 
 ----
 
-### 2022 April (1)
+### 2022 October (1)
+
+ - [**"It all started here in Minnesota for music moguls Jimmy Jam and Terry Lewis -- Longtime music critic goes behind the scenes with Rock & Roll Hall of Fame inductees."**](https://www.startribune.com/jimmy-jam-and-terry-lewis-it-all-started-in-minnesota-for-music-moguls/600219019/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 28 October 2022
+    - about [Jimmy Jam](../../topics/jimmy-jam/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/jimmy-jam-and-terry-lewis-it-all-started-in-minnesota-for-music-moguls/600219019/))
+
+----
+
+### 2022 May (1)
+
+ - [**"Minneapolis songwriters, producers Jimmy Jam and Terry Lewis named to Rock & Roll Hall of Fame -- Other inductees include Dolly Parton, Carly Simon, Lionel Richie, Pat Benatar, Eurythmics, Duran Duran and Eminem."**](https://www.startribune.com/minneapolis-producers-jimmy-jam-terry-lewis-rock-hall-of-fame-eminem-dolly-parton-carly-simon-duran/600170364/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 4 May 2022
+    - about [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/minneapolis-producers-jimmy-jam-terry-lewis-rock-hall-of-fame-eminem-dolly-parton-carly-simon-duran/600170364/))
+
+----
+
+### 2022 April (3)
+
+ - [**"She sang &#039;I Can&#039;t Breathe&#039; for George Floyd and loves Prince. Finally H.E.R. is coming to Minneapolis -- The Oscar- and Grammy-winning singer talks about activism, style and Friday's Twin Cities debut at the Armory."**](https://www.startribune.com/her-minneapolis-prince-jimmy-jam-lenny-kravitz-paisley-park-george-floyd-oscars-grammys-super-bowl/600168665/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 28 April 2022
+    - about [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/her-minneapolis-prince-jimmy-jam-lenny-kravitz-paisley-park-george-floyd-oscars-grammys-super-bowl/600168665/))
+
+<br />
 
  - [**"'Prince Was Not Scared Of Nobody': Childhood Friends Remember 'The Purple One'"**](https://www.cbsnews.com/minnesota/news/prince-friends/)
     - in [WCCO - CBS Minnesota](../../publications/u-z/wcco-cbs-minnesota/index.md)
@@ -50,11 +123,40 @@
     - about [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Ronnie Kitchen](../../topics/ronnie-kitchen/index.md), [Terrance Jackson](../../topics/terrance-jackson/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md), [WCCO](../../topics/wcco/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/prince-friends/))
 
+<br />
+
+ - [**"Grammys go retro as crafty pros steal the show from Olivia Rodrigo and Billie Eilish -- Jon Batiste and Silk Sonic won three of the four top awards while Rodrigo was named best new artist."**](https://www.startribune.com/grammys-go-vegas-in-a-multifaceted-night-of-stars-including-the-president-of-ukraine/600161941/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 3 April 2022
+    - about [Jimmy Jam](../../topics/jimmy-jam/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/grammys-go-vegas-in-a-multifaceted-night-of-stars-including-the-president-of-ukraine/600161941/))
+
 ----
 
-## 2021 (6)
+### 2022 March (2)
 
-### 2021 September (3)
+ - [**"Meet the next great bluesman: Christone &#039;Kingfish&#039; Ingram makes his Minneapolis debut -- The Mississippi guitar star expands his musical palette on his second Grammy-nominated album."**](https://www.startribune.com/meet-the-next-great-bluesman-christone-kingfish-ingram-prince-bb-king-charley-pride-jimmy-jam/600157947/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 21 March 2022
+    - about [Jimmy Jam](../../topics/jimmy-jam/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/meet-the-next-great-bluesman-christone-kingfish-ingram-prince-bb-king-charley-pride-jimmy-jam/600157947/))
+
+<br />
+
+ - [**"Minneapolis music legend Morris Day says Prince&#039;s estate won&#039;t let him use &#039;the Time&#039; anymore -- The estate says Day's announcement is "not entirely accurate.""**](https://www.startribune.com/minneapolis-music-legend-morris-day-says-prince-estate-wont-let-him-use-the-time-anymore/600152599/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md), [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 3 March 2022
+    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/minneapolis-music-legend-morris-day-says-prince-estate-wont-let-him-use-the-time-anymore/600152599/))
+
+----
+
+## 2021 (9)
+
+### 2021 September (4)
 
  - [**"The Legend of Prince: The Purple One's Guitar Players Share Untold Secrets and Tales from the Studio and Road -- Mike Scott, Dez Dickerson, Donna Grantis, and Kat Dyson tell all in these GP-exclusive interviews."**](https://www.guitarplayer.com/players/the-legend-of-prince-the-purple-ones-guitar-players-share-untold-secrets-and-tales-from-the-studio-and-road)
     - by [Art Thompson](../../authors/art-thompson/index.md)
@@ -81,6 +183,15 @@
     - about [Flyte Tyme](../../topics/flyte-tyme/index.md), [Flyte Tyme Studios (place)](../../topics/place/flyte-tyme-studios/index.md), [Grammy Award](../../topics/grammy-award/index.md), [Jam & Lewis](../../topics/jam-lewis/index.md), [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [What Have You Done For Me Lately (song)](../../topics/song/what-have-you-done-for-me-lately/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.grammy.com/news/watch-jimmy-jam-terry-lewis-win-their-first-grammy-award-1987-grammy-rewind))
 
+<br />
+
+ - [**"Nashville&#039;s new Black music museum is out of place but spot-on -- What's the National Museum of African American Music doing in Nashville? We visited to find out."**](https://www.startribune.com/nashville-s-new-black-music-museum-is-out-of-place-but-spot-on/600093578/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 3 September 2021
+    - about [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/nashville-s-new-black-music-museum-is-out-of-place-but-spot-on/600093578/))
+
 ----
 
 ### 2021 August (1)
@@ -93,7 +204,7 @@
 
 ----
 
-### 2021 July (1)
+### 2021 July (2)
 
  - [**"Jam & Lewis: “With Prince, we learned to use synthesizers in a very musical way” -- 35 years in the making, the incomparable songwriting and production duo have just released what is - unbelievably - their debut album..."**](https://www.musicradar.com/news/jam-and-lewis-prince-synths)
     - by [Daniel Griffiths](../../authors/daniel-griffiths/index.md)
@@ -101,6 +212,15 @@
     - on 9 July 2021
     - about [A&M Records](../../topics/a-m-records/index.md), [Jam & Lewis](../../topics/jam-lewis/index.md), [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [LinnDrum (instrument)](../../topics/instrument/linndrum/index.md), [Mariah Carey](../../topics/mariah-carey/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [What Have You Done For Me Lately (song)](../../topics/song/what-have-you-done-for-me-lately/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.musicradar.com/news/jam-and-lewis-prince-synths))
+
+<br />
+
+ - [**"Jimmy Jam and Terry Lewis release their first album as artists -- Legendary producers Jimmy Jam and Terry Lewis release their debut album as artists."**](https://www.startribune.com/jimmy-jam-and-terry-lewis-release-their-first-album-as-artists/600076547/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 9 July 2021
+    - about [Jam & Lewis](../../topics/jam-lewis/index.md), [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jerome Benton](../../topics/jerome-benton/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/jimmy-jam-and-terry-lewis-release-their-first-album-as-artists/600076547/))
 
 ----
 
@@ -115,7 +235,18 @@
 
 ----
 
-## 2020 (13)
+### 2021 March (1)
+
+ - [**"At 64, Minnesota music hero Jellybean Johnson makes his solo guitar debut -- Thanks to the pandemic, the drummer for the Time got a chance to finish something he's wanted to do for a long time."**](https://www.startribune.com/at-64-minnesota-music-hero-jellybean-johnson-makes-his-solo-guitar-debut/600035752/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 19 March 2021
+    - about [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/at-64-minnesota-music-hero-jellybean-johnson-makes-his-solo-guitar-debut/600035752/))
+
+----
+
+## 2020 (16)
 
 ### 2020 July (1)
 
@@ -124,6 +255,37 @@
     - on 15 July 2020
     - about [Jerome Benton](../../topics/jerome-benton/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Maya Rudolph](../../topics/maya-rudolph/index.md), [Morris Day](../../topics/morris-day/index.md), [SiriusXM](../../topics/siriusxm/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/new-streaming-channels-with-musics-legendary-and-game-changing-artists-to-launch-today-on-siriusxm-301093865.html))
+
+----
+
+### 2020 May (1)
+
+ - [**"How Little Richard influenced Minnesota&#039;s biggest rock acts -- Bob Dylan, Prince, the Time and even the Replacements all showed off his impressions on them."**](https://www.startribune.com/how-little-richard-influenced-minnesota-s-biggest-rock-acts/570339721/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 9 May 2020
+    - about [Jerome Benton](../../topics/jerome-benton/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/how-little-richard-influenced-minnesota-s-biggest-rock-acts/570339721/))
+
+----
+
+### 2020 April (2)
+
+ - [**"Minneapolis Super Bowl got Jimmy Jam, Terry Lewis ready for Grammy salute to Prince"**](https://www.startribune.com/minneapolis-super-bowl-got-jimmy-jam-terry-lewis-ready-for-grammy-salute-to-prince/569845292/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 22 April 2020
+    - about [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/minneapolis-super-bowl-got-jimmy-jam-terry-lewis-ready-for-grammy-salute-to-prince/569845292/))
+
+<br />
+
+ - [**"Tuesday&#039;s all-star Grammy salute proves &#039;Prince does music better than anybody&#039; -- CBS salutes Prince on the fourth anniversary of his death."**](https://www.startribune.com/tuesday-s-all-star-grammy-salute-proves-prince-does-music-better-than-anybody/569794772/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 21 April 2020
+    - about [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/tuesday-s-all-star-grammy-salute-proves-prince-does-music-better-than-anybody/569794772/))
 
 ----
 
@@ -226,7 +388,7 @@
 
 ----
 
-## 2019 (16)
+## 2019 (18)
 
 ### 2019 November (4)
 
@@ -322,7 +484,15 @@
 
 ----
 
-### 2019 July (3)
+### 2019 July (4)
+
+ - [**"Pick Six: Praise of &#039;Song Exploder,&#039; Purple Mountains, Queen, Lyle Lovett, St. Paul Peterson -- Pick Six is a half-dozen cool things in music, from two points of view."**](https://www.startribune.com/pick-six-praise-of-song-exploder-purple-mountains-queen-lyle-lovett-st-paul-peterson/513208932/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 27 July 2019
+    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/pick-six-praise-of-song-exploder-purple-mountains-queen-lyle-lovett-st-paul-peterson/513208932/))
+
+<br />
 
  - [**"The Family’s Paul Peterson returns with a pair of new solo songs that sound a lot like Prince"**](https://www.twincities.com/2019/07/18/the-familys-paul-peterson-returns-with-a-pair-of-new-solo-songs-that-sound-a-lot-like-prince/)
     - by [Ross Raihala](../../authors/ross-raihala/index.md)
@@ -370,9 +540,31 @@
 
 ----
 
-## 2018 (5)
+### 2019 April (1)
 
-### 2018 June (1)
+ - [**"Jimmy Jam and Terry Lewis kick off a new all-star project with Sounds of Blackness single"**](https://www.startribune.com/jimmy-jam-and-terry-lewis-new-project-kicks-off-with-sounds-of-blackness-single/508475872/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 12 April 2019
+    - about [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/jimmy-jam-and-terry-lewis-new-project-kicks-off-with-sounds-of-blackness-single/508475872/))
+
+----
+
+## 2018 (11)
+
+### 2018 December (1)
+
+ - [**"Morris Day's misadventures in Minneapolis get animated for Mike Judge's TV series"**](https://www.startribune.com/morris-day-s-misadventures-in-minneapolis-get-animated-for-mike-judge-s-tv-series/502781422/)
+    - by [Neal Justin](../../authors/neal-justin/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 14 December 2018
+    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/morris-day-s-misadventures-in-minneapolis-get-animated-for-mike-judge-s-tv-series/502781422/))
+
+----
+
+### 2018 June (2)
 
  - [**"Prince the Prankster: Marc Anthony, Bobby Z and More Remember His Humor (and an Epic Food Fight)"**](https://variety.com/2018/music/news/prince-birthday-prankster-marc-anthony-bobby-z-revolution-humor-1202835528/)
     - by [Jem Aswad](../../authors/jem-aswad/index.md)
@@ -380,6 +572,15 @@
     - on 7 June 2018
     - about [Bobby Z](../../topics/bobby-z/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [Fred Armisen](../../topics/fred-armisen/index.md), [Jerome Benton](../../topics/jerome-benton/index.md), [Jesse Johnson](../../topics/jesse-johnson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Matt Fink](../../topics/matt-fink/index.md), [Morris Day](../../topics/morris-day/index.md), [Questlove](../../topics/questlove/index.md), [Raphael Saadiq](../../topics/raphael-saadiq/index.md), [Rebekah Alperin](../../topics/rebekah-alperin/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [Steve Fargnoli](../../topics/steve-fargnoli/index.md), [Ted Cohen](../../topics/ted-cohen/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [Vanity 6](../../topics/vanity-6/index.md)
     - ([mirror](https://web.archive.org/web/*/https://variety.com/2018/music/news/prince-birthday-prankster-marc-anthony-bobby-z-revolution-humor-1202835528/))
+
+<br />
+
+ - [**"Jimmy Jam lands new music talk-show on SiriusXM radio"**](https://www.startribune.com/jimmy-jam-lands-new-music-talk-show-on-siriusxm-radio/484604231/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 5 June 2018
+    - about [Jimmy Jam](../../topics/jimmy-jam/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/jimmy-jam-lands-new-music-talk-show-on-siriusxm-radio/484604231/))
 
 ----
 
@@ -393,13 +594,49 @@
 
 ----
 
-### 2018 January (3)
+### 2018 January (7)
+
+ - [**"NPG, Dessa, Mint Condition weather another electric Super Bowl Live show"**](https://www.startribune.com/npg-dessa-mint-condition-weather-another-electric-super-bowl-live-show/472074623/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 31 January 2018
+    - about [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/npg-dessa-mint-condition-weather-another-electric-super-bowl-live-show/472074623/))
+
+<br />
+
+ - [**"Super-sized Prince party rocks Nicollet Mall -- Three acts closely associated with the Minnesota rock legend — none of whom had played together since his 2016 death — showed their singular dedication by performing his songs outside in single-digit temperatures for the Super Bowl Live concert series."**](https://www.startribune.com/super-sized-prince-party-rocks-nicollet-mall/471712573/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 30 January 2018
+    - about [Morris Day](../../topics/morris-day/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/super-sized-prince-party-rocks-nicollet-mall/471712573/))
+
+<br />
 
  - [**"Super-sized Prince party rocks Nicollet Mall"**](https://apnews.com/article/football-prince-archive-minnesota-334367853c7e479fb18e178463c02063)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 29 January 2018
     - about [D.M.S.R. (song)](../../topics/song/d-m-s-r/index.md), [fDeluxe](../../topics/fdeluxe/index.md), [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Nicollet Avenue](../../topics/nicollet-avenue/index.md), [Nicollet Mall (place)](../../topics/place/nicollet-mall/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Soul Asylum](../../topics/soul-asylum/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Bird (song)](../../topics/song/the-bird/index.md), [The Family](../../topics/the-family/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/football-prince-archive-minnesota-334367853c7e479fb18e178463c02063))
+
+<br />
+
+ - [**"Minneapolis-bred producer Jimmy Jam talks Janet Jackson, free Super Bowl concerts -- He wouldn't say whether his pal will be in Minneapolis for the festivities."**](https://www.startribune.com/minneapolis-bred-producer-jimmy-jam-talks-janet-jackson-free-super-bowl-concerts/471303144/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 26 January 2018
+    - about [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/minneapolis-bred-producer-jimmy-jam-talks-janet-jackson-free-super-bowl-concerts/471303144/))
+
+<br />
+
+ - [**"Super Bowl Live free concert schedule revealed with new Minnesota all-stars -- The final lineup includes themed nights, including a Rhymesayers hip-hop showcase and a Sunday offering of gospel performers."**](https://www.startribune.com/super-bowl-live-free-concert-schedule-revealed-with-new-minnesota-all-stars/470150683/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 19 January 2018
+    - about [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/super-bowl-live-free-concert-schedule-revealed-with-new-minnesota-all-stars/470150683/))
 
 <br />
 
@@ -419,9 +656,18 @@
 
 ----
 
-## 2017 (1)
+## 2017 (3)
 
-### 2017 December (1)
+### 2017 December (2)
+
+ - [**"A &#039;very Minnesota&#039; Super Bowl Live lineup announced for free concerts on Nicollet Mall -- Music marathon to cast spotlight on dynamic Minnesota music scene."**](https://www.startribune.com/jimmy-jam-terry-lewis-announce-super-bowl-live-lineup-idina-menzel-sheila-e-morris-day-soul-asylum/461298463/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 1 December 2017
+    - about [Jimmy “Jam” Harris](../../topics/jimmy-jam-harris/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/jimmy-jam-terry-lewis-announce-super-bowl-live-lineup-idina-menzel-sheila-e-morris-day-soul-asylum/461298463/))
+
+<br />
 
  - [**"Super Bowl Live concert series will include Prince tribute"**](https://apnews.com/30711cb14b744f1aa016784116c806cc)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
@@ -431,9 +677,29 @@
 
 ----
 
-## 2016 (5)
+### 2017 October (1)
 
-### 2016 April (3)
+ - [**"Prince tribute, and maybe Janet Jackson, in the works for Jam and Lewis&#039; Super Bowl Live series -- The pop mega-producers discussed their plans for the free outdoor concerts as organizers unveiled the look and layout."**](https://www.startribune.com/super-bowl-organizers-plan-ice-stage-walk-in-snow-globe-and-northern-lights-show-in-minneapolis/453625783/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md), [Rochelle Olson](../../authors/rochelle-olson/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 27 October 2017
+    - about [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Morris Day](../../topics/morris-day/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/super-bowl-organizers-plan-ice-stage-walk-in-snow-globe-and-northern-lights-show-in-minneapolis/453625783/))
+
+----
+
+## 2016 (8)
+
+### 2016 April (5)
+
+ - [**"History Theater musical &#039;Complicated Fun&#039; is a Minneapolis mixtape -- "Complicated Fun" is a musical love letter to the 1980s Twin Cities music scene."**](https://www.startribune.com/history-theater-musical-complicated-fun-is-a-minneapolis-mixtape/377452831/)
+    - by [Graydon Royce](../../authors/graydon-royce/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 28 April 2016
+    - about [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/history-theater-musical-complicated-fun-is-a-minneapolis-mixtape/377452831/))
+
+<br />
 
  - [**"Prince Remembered by Childhood Best Friend and Bandmate André Cymone : 'There Was a Lot More to Him Than What People Saw'"**](https://www.billboard.com/articles/news/magazine-feature/7348518/prince-childhood-friend-bassist-andre-cymone-remembrance)
     - in [Billboard](../../publications/a-e/billboard/index.md)
@@ -448,6 +714,15 @@
     - on 23 April 2016
     - about [94 East](../../topics/94-east/index.md), [Andre Cymone](../../topics/andre-cymone/index.md), [Chris Moon](../../topics/chris-moon/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Morris Day](../../topics/morris-day/index.md), [Pepe Willie](../../topics/pepe-willie/index.md), [performing rights](../../topics/performing-rights/index.md), [Piano and a Microphone (tour)](../../topics/tour/piano-and-a-microphone/index.md), [Soft and Wet (song)](../../topics/song/soft-and-wet/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/music/2016/apr/23/prince-death-early-years-formed-music-legend))
+
+<br />
+
+ - [**"Prince / An Oral History: In the Beginning -- Prince Rogers Nelson was born June 7, 1958, at Mount Sinai Hospital in Minneapolis to Mattie Shaw and John Nelson. They had been in a jazz ensemble called the Prince Roger Trio. Since Mattie called her husband Prince, she dubbed her son Skipper "because he was small in size and he was just real cute - he was a darling baby.""**](https://www.startribune.com/prince-an-oral-history-in-the-beginning/51508747/)
+    - by [Star Tribune staff](../../authors/star-tribune-staff/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 21 April 2016
+    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-an-oral-history-in-the-beginning/51508747/))
 
 <br />
 
@@ -478,7 +753,42 @@
 
 ----
 
-## 2012 (1)
+### 2016 January (1)
+
+ - [**"Live from LA: Jam & Lewis board 'Fresh Off the Boat'"**](https://www.startribune.com/live-from-la-jam-lewis-board-fresh-off-the-boat/365536321/)
+    - by [Neal Justin](../../authors/neal-justin/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 16 January 2016
+    - about [Jam & Lewis](../../topics/jam-lewis/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/live-from-la-jam-lewis-board-fresh-off-the-boat/365536321/))
+
+----
+
+## 2015 (1)
+
+### 2015 September (1)
+
+ - [**"Who&#039;s on Taylor Swift&#039;s all-star guest list for Twin Cities shows? -- Her three St. Paul shows could be celeb-packed like the rest of her "1989" tour."**](https://www.startribune.com/who-s-on-taylor-swift-s-all-star-guest-list-for-twin-cities/326369041/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 13 September 2015
+    - about [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/who-s-on-taylor-swift-s-all-star-guest-list-for-twin-cities/326369041/))
+
+----
+
+## 2012 (4)
+
+### 2012 August (1)
+
+ - [**"The Crawl: A Revolution without a Prince -- News and notes from the scene."**](https://www.startribune.com/the-crawl-a-revolution-without-a-prince/140072913/)
+    - by [Staff](../../authors/staff/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 17 August 2012
+    - about [Jimmy Jam](../../topics/jimmy-jam/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/the-crawl-a-revolution-without-a-prince/140072913/))
+
+----
 
 ### 2012 June (1)
 
@@ -487,6 +797,138 @@
     - on 6 June 2012
     - about [Alexander O’Neal](../../topics/alexander-o-neal/index.md), [Flyte Tyme Productions](../../topics/flyte-tyme-productions/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Monte Moir](../../topics/monte-moir/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Time](../../topics/the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/http://www.oneradsong.com/2012/06/pleasure-principle-by-monte.html))
+
+----
+
+### 2012 March (1)
+
+ - [**"Twin Cities recording engineer/producer/teacher Tom Tucker dies"**](https://www.startribune.com/twin-cities-recording-engineer-producer-teacher-tom-tucker-dies/141392973/)
+    - by 
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 5 March 2012
+    - about [Jimmy Jam](../../topics/jimmy-jam/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/twin-cities-recording-engineer-producer-teacher-tom-tucker-dies/141392973/))
+
+----
+
+### 2012 January (1)
+
+ - [**"Jesse Johnson quits the Original 7ven (aka the Time)"**](https://www.startribune.com/jesse-johnson-quits-the-original-7ven-aka-the-time/137615848/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 18 January 2012
+    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jerome Benton](../../topics/jerome-benton/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Monte Moir](../../topics/monte-moir/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/jesse-johnson-quits-the-original-7ven-aka-the-time/137615848/))
+
+----
+
+## 2011 (7)
+
+### 2011 November (1)
+
+ - [**"Original 7ven was a nostalgic good Time in homecoming concert"**](https://www.startribune.com/original-7ven-was-a-nostalgic-good-time-in-homecoming-concert/133316393/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 6 November 2011
+    - about [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jerome Benton](../../topics/jerome-benton/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/original-7ven-was-a-nostalgic-good-time-in-homecoming-concert/133316393/))
+
+----
+
+### 2011 October (3)
+
+ - [**"The Time or the Original 7ven: By any name, they&#039;re still &#039;Cool&#039; -- Minneapolis funkateers the Time are back on the clock - even though Prince won't let them use their original moniker."**](https://www.startribune.com/the-time-or-the-original-7ven-by-any-name-they-re-still-cool/132797383/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 29 October 2011
+    - about [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jerome Benton](../../topics/jerome-benton/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Monte Moir](../../topics/monte-moir/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/the-time-or-the-original-7ven-by-any-name-they-re-still-cool/132797383/))
+
+<br />
+
+ - [**"TV critic&#039;s picks Oct. 23-27"**](https://www.startribune.com/tv-critic-s-picks-oct-23-27/132281093/)
+    - by [Neal Justin](../../authors/neal-justin/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 22 October 2011
+    - about [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/tv-critic-s-picks-oct-23-27/132281093/))
+
+<br />
+
+ - [**"The Time (aka Original 7ven) book hometown gig for Nov. 5 at State Theatre"**](https://www.startribune.com/the-time-aka-original-7ven-book-hometown-gig-for-nov-5-at-state-theatre/131558738/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 12 October 2011
+    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jerome Benton](../../topics/jerome-benton/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Monte Moir](../../topics/monte-moir/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/the-time-aka-original-7ven-book-hometown-gig-for-nov-5-at-state-theatre/131558738/))
+
+----
+
+### 2011 September (3)
+
+ - [**"Item World: Seven, seven, Original 7ven -- Local news and views."**](https://www.startribune.com/item-world-seven-seven-original-7ven/130789043/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 29 September 2011
+    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jerome Benton](../../topics/jerome-benton/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Monte Moir](../../topics/monte-moir/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/item-world-seven-seven-original-7ven/130789043/))
+
+<br />
+
+ - [**"The Time changes moniker in order to release first album since 1990"**](https://www.startribune.com/the-time-changes-moniker-in-order-to-release-first-album-since-1990/130591908/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 28 September 2011
+    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jerome Benton](../../topics/jerome-benton/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Monte Moir](../../topics/monte-moir/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/the-time-changes-moniker-in-order-to-release-first-album-since-1990/130591908/))
+
+<br />
+
+ - [**"Who&#039;d get your vote for a Minneapolis high schools hall of fame? -- A Nobel Prize winner? Former governors? An astronaut? Actors? Journalists? Prince? Inspired by Anoka High's recent induction, send in your ideas."**](https://www.startribune.com/who-d-get-your-vote-for-a-minneapolis-high-schools-hall-of-fame/129595198/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 13 September 2011
+    - about [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/who-d-get-your-vote-for-a-minneapolis-high-schools-hall-of-fame/129595198/))
+
+----
+
+## 2010 (4)
+
+### 2010 July (2)
+
+ - [**"Home funky home for Alexander O&#039;Neal -- Soul man Alexander O'Neal is back in town with a new CD echoing the glory days of the Minneapolis Sound."**](https://www.startribune.com/home-funky-home-for-alexander-o-neal/99058304/)
+    - by [Britt Robson](../../authors/britt-robson/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 29 July 2010
+    - about [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/home-funky-home-for-alexander-o-neal/99058304/))
+
+<br />
+
+ - [**"Home funky home -- Soul man Alexander O'Neal moves back to town, with a new CD celebrating the Minneapolis Sound."**](https://www.startribune.com/home-funky-home/98865344/)
+    - by [Britt Robson](../../authors/britt-robson/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 24 July 2010
+    - about [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/home-funky-home/98865344/))
+
+----
+
+### 2010 June (2)
+
+ - [**"Jimmy Jam enjoys some home cooking at Rudolph&#039;s -- Rudolph's Bar-B-Que was calling, and Jimmy Jam was answering."**](https://www.startribune.com/jimmy-jam-enjoys-some-home-cooking-at-rudolph-s/96342699/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 14 June 2010
+    - about [Jerome Benton](../../topics/jerome-benton/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/jimmy-jam-enjoys-some-home-cooking-at-rudolph-s/96342699/))
+
+<br />
+
+ - [**"Real Time: Morris, Jimmy, Terry & Co. to reunite again June 13 at Epic"**](https://www.startribune.com/real-time-morris-jimmy-terry-co-to-reunite-again-june-13-at-epic/95453884/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 2 June 2010
+    - about [Jerome Benton](../../topics/jerome-benton/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Monte Moir](../../topics/monte-moir/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/real-time-morris-jimmy-terry-co-to-reunite-again-june-13-at-epic/95453884/))
 
 ----
 
@@ -500,6 +942,47 @@
     - on 8 January 2009
     - about [Ani DiFranco](../../topics/ani-difranco/index.md), [Better With Time (song)](../../topics/song/better-with-time/index.md), [Bria Valente](../../topics/bria-valente/index.md), [Carlos Santana](../../topics/carlos-santana/index.md), [Earth, Wind and Fire](../../topics/earth-wind-and-fire/index.md), [Esperanza Spalding](../../topics/esperanza-spalding/index.md), [Janelle Monae](../../topics/janelle-monae/index.md), [Kristin Scott Thomas](../../topics/kristin-scott-thomas/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Miles Davis](../../topics/miles-davis/index.md), [Morris Hayes](../../topics/morris-hayes/index.md), [MPLSoUND (album)](../../topics/album/mplsound/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Paisley Park Studios (place)](../../topics/place/paisley-park-studios/index.md), [perfume](../../topics/perfume/index.md), [Shelby J.](../../topics/shelby-j/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Tamar Davis](../../topics/tamar-davis/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/http://latimesblogs.latimes.com/music_blog/2009/01/one-night-with.html))
+
+----
+
+## 2008 (4)
+
+### 2008 September (3)
+
+ - [**"At the Hotel Minneapolis: Time Machine"**](https://www.startribune.com/at-the-hotel-minneapolis-time-machine/28624404/)
+    - by [Christy DeSmith](../../authors/christy-desmith/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 22 September 2008
+    - about [Jerome Benton](../../topics/jerome-benton/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/at-the-hotel-minneapolis-time-machine/28624404/))
+
+<br />
+
+ - [**"Review: Hotel Minneapolis revives the Time&#039;s cool R&B -- Morris Day and his original band members turn back the clock in a spirited reunion."**](https://www.startribune.com/review-hotel-minneapolis-revives-the-time-s-cool-r-b/28352309/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 13 September 2008
+    - about [Jimmy Jam](../../topics/jimmy-jam/index.md), [Monte Moir](../../topics/monte-moir/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/review-hotel-minneapolis-revives-the-time-s-cool-r-b/28352309/))
+
+<br />
+
+ - [**"Music: It&#039;s homecoming night for the Time -- The Twin Cities-bred funkateers reunite to open a new hotel -- and show their kids how they put the Minneapolis Sound on the map."**](https://www.startribune.com/it-s-homecoming-night-for-the-time/28250824/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 11 September 2008
+    - about [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Monte Moir](../../topics/monte-moir/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/it-s-homecoming-night-for-the-time/28250824/))
+
+----
+
+### 2008 February (1)
+
+ - [**"C.J.: &#039;Split Ends&#039; stylist swap needed conditioner; a new girl for Josh? -- There was drama in the air at Twiggs on Friday as a crew for a reality show roamed the Wayzata salon and spa."**](https://www.startribune.com/split-ends-stylist-swap-needed-conditioner-a-new-girl-for-josh/15615467/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 13 February 2008
+    - about [Jerome Benton](../../topics/jerome-benton/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Monte Moir](../../topics/monte-moir/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/split-ends-stylist-swap-needed-conditioner-a-new-girl-for-josh/15615467/))
 
 ----
 
