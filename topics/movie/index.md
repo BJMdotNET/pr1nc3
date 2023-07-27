@@ -8,6 +8,7 @@
   * [I’ll Do Anything (movie)](../movie/i-ll-do-anything/index.md) (1)
   * [Krush Groove (movie)](../movie/krush-groove/index.md) (3)
   * [Purple Rain (movie)](../movie/purple-rain/index.md) (72)
+  * [The Adjustment Bureau (movie)](../movie/the-adjustment-bureau/index.md) (1)
   * [The Dawn (movie)](../movie/the-dawn/index.md) (1)
   * [Under the Cherry Moon (movie)](../movie/under-the-cherry-moon/index.md) (33)
   * [Wattstax (movie)](../movie/wattstax/index.md) (3)

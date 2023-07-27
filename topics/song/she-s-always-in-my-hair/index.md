@@ -1,38 +1,27 @@
-# She’s Always In My Hair (song)
+# She's Always in My Hair (song)
 
-## 2020 (1)
+## 2017 (1)
 
-### 2020 January (1)
+### 2017 April (1)
 
- - [**"Prince: requiem for a bass hero -- The bassists that played with the late legend share their stories"**](https://www.guitarworld.com/features/prince-requiem-for-a-bass-hero)
-    - in [GuitarWorld](../../../publications/f-j/guitarworld/index.md)
-    - on 8 January 2020
-    - about [3rdEyeGirl](../../../topics/3rdeyegirl/index.md), [Alex Al](../../../topics/alex-al/index.md), [André Cymone](../../../topics/andr-cymone/index.md), [BrownMark](../../../topics/brownmark/index.md), [Larry Graham](../../../topics/larry-graham/index.md), [Pop Life (song)](../../../topics/song/pop-life/index.md), [She’s Always In My Hair (song)](../../../topics/song/she-s-always-in-my-hair/index.md), [Sonny Thompson](../../../topics/sonny-thompson/index.md), [Tal Wilkenfeld](../../../topics/tal-wilkenfeld/index.md), [Terry Lewis](../../../topics/terry-lewis/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md), [YouTube](../../../topics/youtube/index.md)
-    - ([mirror](https://web.archive.org/web/*/https://www.guitarworld.com/features/prince-requiem-for-a-bass-hero))
-
-----
-
-## 2019 (1)
-
-### 2019 February (1)
-
- - [**"The Prince Estate in Partnership with Legacy Recordings Announce Next Wave of Physical Titles in Definitive Catalog Rerelease Project with Prince’s Ultimate Rave on Friday, April 26, 2019"**](https://www.legacyrecordings.com/2019/02/22/the-prince-estate-in-partnership-with-legacy-recordings-announce-next-wave-of-physical-titles-cd-dvd-vinyl-in-definitive-catalog-rerelease-project-with-princes-ultimate-rave-on-friday-april-26-2/)
-    - in [Legacy Recordings](../../../publications/k-o/legacy-recordings/index.md)
-    - on 22 February 2019
-    - about [Ani DiFranco](../../../topics/ani-difranco/index.md), [Baby Knows (song)](../../../topics/song/baby-knows/index.md), [Bobby Z](../../../topics/bobby-z/index.md), [BrownMark](../../../topics/brownmark/index.md), [Celebration 2019 (event)](../../../topics/event/celebration-2019/index.md), [George Clinton](../../../topics/george-clinton/index.md), [Gwen Stefani](../../../topics/gwen-stefani/index.md), [Jesse Johnson](../../../topics/jesse-johnson/index.md), [Larry Graham](../../../topics/larry-graham/index.md), [Legacy Recordings](../../../topics/legacy-recordings/index.md), [Lenny Kravitz](../../../topics/lenny-kravitz/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Lisa Coleman](../../../topics/lisa-coleman/index.md), [Liv Warfield](../../../topics/liv-warfield/index.md), [Maceo Parker](../../../topics/maceo-parker/index.md), [Matt Fink](../../../topics/matt-fink/index.md), [Miami (place)](../../../topics/place/miami/index.md), [Minnesota Timberwolves](../../../topics/minnesota-timberwolves/index.md), [Morris Day](../../../topics/morris-day/index.md), [Morris Day & The Time](../../../topics/morris-day-the-time/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [NPG Music Club (website)](../../../topics/website/npg-music-club/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [Prince In Concert: Rave Un2 the Year 2000 (video)](../../../topics/video/prince-in-concert-rave-un2-the-year-2000/index.md), [Raspberry Beret (song)](../../../topics/song/raspberry-beret/index.md), [Rave In2 the Joy Fantastic (album)](../../../topics/album/rave-in2-the-joy-fantastic/index.md), [Rave Un2 the Joy Fantastic (album)](../../../topics/album/rave-un2-the-joy-fantastic/index.md), [Rave Un2 the Year 2000 (video)](../../../topics/video/rave-un2-the-year-2000/index.md), [She’s Always In My Hair (song)](../../../topics/song/she-s-always-in-my-hair/index.md), [Sheryl Crow](../../../topics/sheryl-crow/index.md), [Sony Music](../../../topics/sony-music/index.md), [Sony Music Entertainment](../../../topics/sony-music-entertainment/index.md), [Sounds of Blackness](../../../topics/sounds-of-blackness/index.md), [Target Center (place)](../../../topics/place/target-center/index.md), [The Greatest Romance Ever Sold (song)](../../../topics/song/the-greatest-romance-ever-sold/index.md), [The Prince Estate](../../../topics/the-prince-estate/index.md), [Timberwolves](../../../topics/timberwolves/index.md), [U Got the Look (song)](../../../topics/song/u-got-the-look/index.md), [Ultimate Rave (album)](../../../topics/album/ultimate-rave/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md)
-    - ([mirror](https://web.archive.org/web/*/https://www.legacyrecordings.com/2019/02/22/the-prince-estate-in-partnership-with-legacy-recordings-announce-next-wave-of-physical-titles-cd-dvd-vinyl-in-definitive-catalog-rerelease-project-with-princes-ultimate-rave-on-friday-april-26-2/))
+ - [**"The 25 best Prince songs of all time"**](https://www.cbsnews.com/minnesota/news/top-25-best-prince-songs-of-all-time/)
+    - by [Eric Henderson](../../../authors/eric-henderson/index.md)
+    - in [WCCO - CBS Minnesota](../../../publications/u-z/wcco-cbs-minnesota/index.md)
+    - on 17 April 2017
+    - about [17 Days (song)](../../../topics/song/17-days/index.md), [4 the Tears in Your Eyes (song)](../../../topics/song/4-the-tears-in-your-eyes/index.md), [Baby I'm a Star (song)](../../../topics/song/baby-i-m-a-star/index.md), [Call My Name (song)](../../../topics/song/call-my-name/index.md), [Chaka Khan](../../../topics/chaka-khan/index.md), [Erotic City (song)](../../../topics/song/erotic-city/index.md), [Housequake (song)](../../../topics/song/housequake/index.md), [How Come U Don't Call Me Anymore (song)](../../../topics/song/how-come-u-don-t-call-me-anymore/index.md), [I Feel For You (song)](../../../topics/song/i-feel-for-you/index.md), [I Wanna Be Your Lover (song)](../../../topics/song/i-wanna-be-your-lover/index.md), [I Would Die 4 U (song)](../../../topics/song/i-would-die-4-u/index.md), [Joni Mitchell](../../../topics/joni-mitchell/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Nasty Girl (song)](../../../topics/song/nasty-girl/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Oprah (TV show)](../../../topics/tv-show/oprah/index.md), [Patrice Rushen](../../../topics/patrice-rushen/index.md), [Paula Abdul](../../../topics/paula-abdul/index.md), [Pop Life (song)](../../../topics/song/pop-life/index.md), [Raspberry Beret (song)](../../../topics/song/raspberry-beret/index.md), [Round and Round (song)](../../../topics/song/round-and-round/index.md), [Sex Shooter (song)](../../../topics/song/sex-shooter/index.md), [She's Always in My Hair (song)](../../../topics/song/she-s-always-in-my-hair/index.md), [Sinead O'Connor](../../../topics/sinead-o-connor/index.md), [Sinéad O'Connor](../../../topics/sin-ad-o-connor/index.md), [Sometimes It Snows In April (song)](../../../topics/song/sometimes-it-snows-in-april/index.md), [Starfish And Coffee (song)](../../../topics/song/starfish-and-coffee/index.md), [Tevin Campbell](../../../topics/tevin-campbell/index.md), [The Ballad Of Dorothy Parker (song)](../../../topics/song/the-ballad-of-dorothy-parker/index.md), [WCCO](../../../topics/wcco/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/top-25-best-prince-songs-of-all-time/))
 
 ----
 
 ## 2013 (1)
 
-### 2013 October (1)
+### 2013 January (1)
 
- - [**"Hannah Ford: The Princess Ride"**](https://drummagazine.com/hannah-ford-the-princess-ride/)
-    - in [DRUM Magazine](../../../publications/a-e/drum-magazine/index.md)
-    - on 14 October 2013
-    - about [Donna Grantis](../../../topics/donna-grantis/index.md), [Hannah Ford](../../../topics/hannah-ford/index.md), [Ida Neilson](../../../topics/ida-neilson/index.md), [Live Out Loud (tour)](../../../topics/tour/live-out-loud/index.md), [New Power Generation](../../../topics/new-power-generation/index.md), [Plectrum Electrum (album)](../../../topics/album/plectrum-electrum/index.md), [Screwdriver (song)](../../../topics/song/screwdriver/index.md), [She’s Always In My Hair (song)](../../../topics/song/she-s-always-in-my-hair/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [The Family](../../../topics/the-family/index.md), [The Revolution](../../../topics/the-revolution/index.md), [YouTube](../../../topics/youtube/index.md)
-    - ([mirror](https://web.archive.org/web/*/https://drummagazine.com/hannah-ford-the-princess-ride/))
+ - [**"Prince: The (New) Billboard Cover Story -- More than three decades into his career, Prince is still recording amazing music -- and fighting as hard as he can for the ownership of his songs"**](https://www.billboard.com/features/prince-the-new-billboard-cover-story-1008105372.story)
+    - in [Billboard](../../../publications/a-e/billboard/index.md)
+    - on 24 January 2013
+    - about [20Ten (album)](../../../topics/album/20ten/index.md), [Billboard Music Awards (event)](../../../topics/event/billboard-music-awards/index.md), [Cause and Effect (song)](../../../topics/song/cause-and-effect/index.md), [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Dakota Jazz Club (place)](../../../topics/place/dakota-jazz-club/index.md), [Donna Grantis](../../../topics/donna-grantis/index.md), [Hannah Ford](../../../topics/hannah-ford/index.md), [Ida Nielsen](../../../topics/ida-nielsen/index.md), [Jason Franzen](../../../topics/jason-franzen/index.md), [Julia Ramadan](../../../topics/julia-ramadan/index.md), [Nichole Nordeman](../../../topics/nichole-nordeman/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [She's Always in My Hair (song)](../../../topics/song/she-s-always-in-my-hair/index.md), [The Adjustment Bureau (movie)](../../../topics/movie/the-adjustment-bureau/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/features/prince-the-new-billboard-cover-story-1008105372.story))
 
 ----
 

@@ -12,7 +12,7 @@
 
 ----
 
-## 2018 (15)
+## 2018 (16)
 
 ### 2018 December (1)
 
@@ -24,7 +24,7 @@
 
 ----
 
-### 2018 April (12)
+### 2018 April (13)
 
  - [**"Investigation says Prince was isolated, addicted and in pain -- (AP Archive)"**](https://www.youtube.com/watch?v=iO7eX1j6n2E)
     - in [YouTube](../../publications/u-z/youtube/index.md)
@@ -107,6 +107,14 @@
     - on 19 April 2018
     - about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [Greg Brooker](../../topics/greg-brooker/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Jim Olson](../../topics/jim-olson/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Mark Metz](../../topics/mark-metz/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [oxycodone](../../topics/oxycodone/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/221f45fbd6e4440d944b38c34cffed15))
+
+<br />
+
+ - [**"Sinead O’Connor Told Police That Prince ‘Used Hard Drugs Commonly’ and Was ‘Violent to a Number of Women’ "**](https://www.usmagazine.com/celebrity-news/news/sinead-oconnor-told-police-that-prince-used-hard-drugs-commonly/)
+    - in [US Weekly](../../publications/u-z/us-weekly/index.md)
+    - on 19 April 2018
+    - about [Black Album (album)](../../topics/album/black-album/index.md), [Mark Metz](../../topics/mark-metz/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md), [The Black Album (album)](../../topics/album/the-black-album/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.usmagazine.com/celebrity-news/news/sinead-oconnor-told-police-that-prince-used-hard-drugs-commonly/))
 
 <br />
 

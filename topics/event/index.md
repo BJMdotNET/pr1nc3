@@ -1,5 +1,6 @@
 # event
 
+  * [Billboard Music Awards (event)](../event/billboard-music-awards/index.md) (3)
   * [Celebration (event)](../event/celebration/index.md) (62)
   * [Celebration 2017 (event)](../event/celebration-2017/index.md) (11)
   * [Celebration 2018 (event)](../event/celebration-2018/index.md) (3)

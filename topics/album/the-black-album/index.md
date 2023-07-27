@@ -63,7 +63,7 @@
     - by [Martin Talbot](../../../authors/martin-talbot/index.md)
     - in [Official Charts](../../../publications/k-o/official-charts/index.md)
     - on 24 June 2019
-    - about [Aretha Franklin](../../../topics/aretha-franklin/index.md), [Bangles](../../../topics/bangles/index.md), [Crystal Ball (album)](../../../topics/album/crystal-ball/index.md), [Cynthia Rose](../../../topics/cynthia-rose/index.md), [David Geffen](../../../topics/david-geffen/index.md), [Dream Factory (album)](../../../topics/album/dream-factory/index.md), [Jill Jones](../../../topics/jill-jones/index.md), [Kenny Rogers](../../../topics/kenny-rogers/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Martika](../../../topics/martika/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Quincy Jones](../../../topics/quincy-jones/index.md), [Sandy Scipioni](../../../topics/sandy-scipioni/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [Sunset Sound (place)](../../../topics/place/sunset-sound/index.md), [Susannah Melvoin](../../../topics/susannah-melvoin/index.md), [The Black Album (album)](../../../topics/album/the-black-album/index.md), [The Family](../../../topics/the-family/index.md), [vault](../../../topics/vault/index.md), [Wally (song)](../../../topics/song/wally/index.md), [Wendy & Lisa](../../../topics/wendy-lisa/index.md)
+    - about [Aretha Franklin](../../../topics/aretha-franklin/index.md), [Bangles](../../../topics/bangles/index.md), [Crystal Ball (album)](../../../topics/album/crystal-ball/index.md), [Cynthia Rose](../../../topics/cynthia-rose/index.md), [David Geffen](../../../topics/david-geffen/index.md), [Dream Factory (album)](../../../topics/album/dream-factory/index.md), [Jill Jones](../../../topics/jill-jones/index.md), [Kenny Rogers](../../../topics/kenny-rogers/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Martika](../../../topics/martika/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Quincy Jones](../../../topics/quincy-jones/index.md), [Sandy Scipioni](../../../topics/sandy-scipioni/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md), [Sunset Sound (place)](../../../topics/place/sunset-sound/index.md), [Susannah Melvoin](../../../topics/susannah-melvoin/index.md), [The Black Album (album)](../../../topics/album/the-black-album/index.md), [The Family](../../../topics/the-family/index.md), [vault](../../../topics/vault/index.md), [Wally (song)](../../../topics/song/wally/index.md), [Wendy & Lisa](../../../topics/wendy-lisa/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.officialcharts.com/chart-news/prince-originals-exclusive-interview-with-muse-and-collaborator-susannah-melvoin__26670/))
 
 <br />
@@ -87,7 +87,7 @@
 
 ----
 
-## 2018 (1)
+## 2018 (2)
 
 ### 2018 August (1)
 
@@ -99,6 +99,16 @@
 
 ----
 
+### 2018 April (1)
+
+ - [**"Sinead O’Connor Told Police That Prince ‘Used Hard Drugs Commonly’ and Was ‘Violent to a Number of Women’ "**](https://www.usmagazine.com/celebrity-news/news/sinead-oconnor-told-police-that-prince-used-hard-drugs-commonly/)
+    - in [US Weekly](../../../publications/u-z/us-weekly/index.md)
+    - on 19 April 2018
+    - about [Black Album (album)](../../../topics/album/black-album/index.md), [Mark Metz](../../../topics/mark-metz/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [The Black Album (album)](../../../topics/album/the-black-album/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.usmagazine.com/celebrity-news/news/sinead-oconnor-told-police-that-prince-used-hard-drugs-commonly/))
+
+----
+
 ## 2016 (3)
 
 ### 2016 April (3)
@@ -106,7 +116,7 @@
  - [**"Prince “reescribió las reglas” de la música"**](https://apnews.com/article/dbe5c9245d024a89bca2376ee8b631c0)
     - in [Associated Press News](../../../publications/a-e/associated-press-news/index.md)
     - on 22 April 2016
-    - about [Bangles](../../../topics/bangles/index.md), [Black Album (album)](../../../topics/album/black-album/index.md), [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Cyndi Lauper](../../../topics/cyndi-lauper/index.md), [Darling Nikki (song)](../../../topics/song/darling-nikki/index.md), [Eden Prairie (place)](../../../topics/place/eden-prairie/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Frank Zappa](../../../topics/frank-zappa/index.md), [James Brown](../../../topics/james-brown/index.md), [Judith Hill](../../../topics/judith-hill/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Morris Day](../../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Oprah (TV show)](../../../topics/tv-show/oprah/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Parents Music Resource Center](../../../topics/parents-music-resource-center/index.md), [Roger Ebert](../../../topics/roger-ebert/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [The Black Album (album)](../../../topics/album/the-black-album/index.md), [Tidal](../../../topics/tidal/index.md), [Tipper Gore](../../../topics/tipper-gore/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md), [Yvette Noel-Schure](../../../topics/yvette-noel-schure/index.md)
+    - about [Bangles](../../../topics/bangles/index.md), [Black Album (album)](../../../topics/album/black-album/index.md), [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Cyndi Lauper](../../../topics/cyndi-lauper/index.md), [Darling Nikki (song)](../../../topics/song/darling-nikki/index.md), [Eden Prairie (place)](../../../topics/place/eden-prairie/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Frank Zappa](../../../topics/frank-zappa/index.md), [James Brown](../../../topics/james-brown/index.md), [Judith Hill](../../../topics/judith-hill/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Morris Day](../../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Oprah (TV show)](../../../topics/tv-show/oprah/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Parents Music Resource Center](../../../topics/parents-music-resource-center/index.md), [Roger Ebert](../../../topics/roger-ebert/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md), [The Black Album (album)](../../../topics/album/the-black-album/index.md), [Tidal](../../../topics/tidal/index.md), [Tipper Gore](../../../topics/tipper-gore/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md), [Yvette Noel-Schure](../../../topics/yvette-noel-schure/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/dbe5c9245d024a89bca2376ee8b631c0))
 
 <br />

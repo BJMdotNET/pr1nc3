@@ -19,7 +19,7 @@
     - by [Cameron Adams](../../authors/cameron-adams/index.md)
     - in [The West Australian](../../publications/u-z/the-west-australian/index.md)
     - on 29 June 2019
-    - about [Bangles](../../topics/bangles/index.md), [bootleg](../../topics/bootleg/index.md), [Holly Rock (song)](../../topics/song/holly-rock/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Joey Coco](../../topics/joey-coco/index.md), [Jungle Love (song)](../../topics/song/jungle-love/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Martika](../../topics/martika/index.md), [Michael Howe](../../topics/michael-howe/index.md), [Originals (album)](../../topics/album/originals/index.md), [Sheena Easton](../../topics/sheena-easton/index.md), [The Family](../../topics/the-family/index.md), [The Glamorous Life (song)](../../topics/song/the-glamorous-life/index.md), [The Time](../../topics/the-time/index.md), [vault](../../topics/vault/index.md)
+    - about [Bangles](../../topics/bangles/index.md), [bootleg](../../topics/bootleg/index.md), [Holly Rock (song)](../../topics/song/holly-rock/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Joey Coco](../../topics/joey-coco/index.md), [Jungle Love (song)](../../topics/song/jungle-love/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Martika](../../topics/martika/index.md), [Michael Howe](../../topics/michael-howe/index.md), [Originals (album)](../../topics/album/originals/index.md), [Sheena Easton](../../topics/sheena-easton/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md), [The Family](../../topics/the-family/index.md), [The Glamorous Life (song)](../../topics/song/the-glamorous-life/index.md), [The Time](../../topics/the-time/index.md), [vault](../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://thewest.com.au/entertainment/meet-the-man-in-charge-of-releasing-princes-unheard-songs-from-his-private-vault-ng-5844d5d8a68b1a7ddac6c4893ef8083f))
 
 <br />
@@ -28,7 +28,7 @@
     - by [Cameron Adams](../../authors/cameron-adams/index.md)
     - in [Herald Sun](../../publications/f-j/herald-sun/index.md)
     - on 29 June 2019
-    - about [Bangles](../../topics/bangles/index.md), [bootleg](../../topics/bootleg/index.md), [Holly Rock (song)](../../topics/song/holly-rock/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Joey Coco](../../topics/joey-coco/index.md), [Jungle Love (song)](../../topics/song/jungle-love/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Martika](../../topics/martika/index.md), [Michael Howe](../../topics/michael-howe/index.md), [Originals (album)](../../topics/album/originals/index.md), [Sheena Easton](../../topics/sheena-easton/index.md), [The Family](../../topics/the-family/index.md), [The Glamorous Life (song)](../../topics/song/the-glamorous-life/index.md), [The Time](../../topics/the-time/index.md), [vault](../../topics/vault/index.md)
+    - about [Bangles](../../topics/bangles/index.md), [bootleg](../../topics/bootleg/index.md), [Holly Rock (song)](../../topics/song/holly-rock/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Joey Coco](../../topics/joey-coco/index.md), [Jungle Love (song)](../../topics/song/jungle-love/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Martika](../../topics/martika/index.md), [Michael Howe](../../topics/michael-howe/index.md), [Originals (album)](../../topics/album/originals/index.md), [Sheena Easton](../../topics/sheena-easton/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md), [The Family](../../topics/the-family/index.md), [The Glamorous Life (song)](../../topics/song/the-glamorous-life/index.md), [The Time](../../topics/the-time/index.md), [vault](../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.heraldsun.com.au/entertainment/meet-the-man-in-charge-of-releasing-princes-unheard-songs-from-his-private-vault/news-story/5844d5d8a68b1a7ddac6c4893ef8083f))
 
 <br />
@@ -56,7 +56,7 @@
     - by [The Associated Press](../../authors/the-associated-press/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 25 April 2019
-    - about [Joey Coco](../../topics/joey-coco/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../topics/album/originals/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md)
+    - about [Joey Coco](../../topics/joey-coco/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../topics/album/originals/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/new-prince-album-featuring-unreleased-demos-out-in-june/509058902/))
 
 <br />
@@ -65,7 +65,7 @@
     - by [The Associated Press](../../authors/the-associated-press/index.md)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 25 April 2019
-    - about [Apple Music](../../topics/apple-music/index.md), [Bangles](../../topics/bangles/index.md), [Joey Coco](../../topics/joey-coco/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../topics/album/originals/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md), [Spotify](../../topics/spotify/index.md), [The Time](../../topics/the-time/index.md), [Tidal](../../topics/tidal/index.md), [Troy Carter](../../topics/troy-carter/index.md)
+    - about [Apple Music](../../topics/apple-music/index.md), [Bangles](../../topics/bangles/index.md), [Joey Coco](../../topics/joey-coco/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../topics/album/originals/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md), [Spotify](../../topics/spotify/index.md), [The Time](../../topics/the-time/index.md), [Tidal](../../topics/tidal/index.md), [Troy Carter](../../topics/troy-carter/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/f60b62d07cd74a92aec4ceb6d9c338f1))
 
 ----
