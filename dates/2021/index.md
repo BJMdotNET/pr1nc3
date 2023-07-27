@@ -388,7 +388,7 @@
  - [**"‘60 Songs That Explain the ’90s’: How Sinéad O’Connor Turned a Prince Song Into Her Classic -- The Purple One wrote ‘Nothing Compares 2 U,’ but O’Connor managed to inhabit the song and make it fully her own"**](https://www.theringer.com/2021/6/2/22464082/sinead-oconnor-nothing-compares-2-u-prince)
     - in [The Ringer](../../publications/p-t/the-ringer/index.md)
     - on 2 June 2021
-    - about [Bangles](../../topics/bangles/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Cyndi Lauper](../../topics/cyndi-lauper/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md), [The Glamorous Life (song)](../../topics/song/the-glamorous-life/index.md)
+    - about [Bangles](../../topics/bangles/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Cyndi Lauper](../../topics/cyndi-lauper/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md), [The Glamorous Life (song)](../../topics/song/the-glamorous-life/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.theringer.com/2021/6/2/22464082/sinead-oconnor-nothing-compares-2-u-prince))
 
 ----
@@ -398,7 +398,7 @@
  - [**"Sinéad O’Connor: ‘I’ll always be a bit crazy, but that’s OK’ -- After a life marked by abuse, fame, scandal and struggle, the Irish singer-songwriter says she never lost faith"**](https://www.theguardian.com/music/2021/may/29/sinead-oconnor-ill-always-be-a-bit-crazy-but-thats-ok-rememberings)
     - in [The Guardian](../../publications/f-j/the-guardian/index.md)
     - on 29 May 2021
-    - about [Bob Dylan](../../topics/bob-dylan/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md), [The Family](../../topics/the-family/index.md)
+    - about [Bob Dylan](../../topics/bob-dylan/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md), [The Family](../../topics/the-family/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/music/2021/may/29/sinead-oconnor-ill-always-be-a-bit-crazy-but-thats-ok-rememberings))
 
 ----
@@ -406,7 +406,7 @@
  - [**"Sinéad O’Connor: How I survived hellish night with ‘devil’ Prince"**](https://nypost.com/2021/05/28/sinead-oconnor-my-hellish-night-with-devil-prince/)
     - in [New York Post](../../publications/k-o/new-york-post/index.md)
     - on 28 May 2021
-    - about [Duane Nelson](../../topics/duane-nelson/index.md), [memoir](../../topics/memoir/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md), [Steve Fargnoli](../../topics/steve-fargnoli/index.md), [The Family](../../topics/the-family/index.md), [YouTube](../../topics/youtube/index.md)
+    - about [Duane Nelson](../../topics/duane-nelson/index.md), [memoir](../../topics/memoir/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md), [Steve Fargnoli](../../topics/steve-fargnoli/index.md), [The Family](../../topics/the-family/index.md), [YouTube](../../topics/youtube/index.md)
     - ([mirror](https://web.archive.org/web/*/https://nypost.com/2021/05/28/sinead-oconnor-my-hellish-night-with-devil-prince/))
 
 ----
@@ -428,10 +428,10 @@
 
 ----
 
- - [**"Sinead O’Connor Remembers Things Differently -- The mainstream narrative is that a pop star ripped up a photo of the pope on “Saturday Night Live” and derailed her life. What if the opposite were true?"**](https://www.nytimes.com/2021/05/18/arts/music/sinead-oconnor-rememberings.html)
+ - [**"Sinéad O’Connor Remembers Things Differently -- The mainstream narrative is that a pop star ripped up a photo of the pope on “Saturday Night Live” and derailed her life. What if the opposite were true?"**](https://www.nytimes.com/2021/05/18/arts/music/sinead-oconnor-rememberings.html)
     - in [New York Times](../../publications/k-o/new-york-times/index.md)
     - on 18 May 2021
-    - about [Bob Dylan](../../topics/bob-dylan/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md)
+    - about [Bob Dylan](../../topics/bob-dylan/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.nytimes.com/2021/05/18/arts/music/sinead-oconnor-rememberings.html))
 
 ----
