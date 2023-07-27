@@ -3412,6 +3412,39 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "publications/a-e/aol-entertainment/aol-entertainment-2023.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/a-e/aol-entertainment/aol-entertainment-2023.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/a-e/aol-entertainment/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/a-e/aol-entertainment/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "publications/a-e/aol-entertainment/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "publications/a-e/aol-entertainment/toc.html"
+        },
+        ".json": {
+          "relative_path": "publications/a-e/aol-entertainment/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "publications/a-e/architectural-digest/architectural-digest-2019.md",
       "output": {
         ".html": {
@@ -4062,6 +4095,16 @@
       "output": {
         ".html": {
           "relative_path": "publications/a-e/bbc-news/bbc-news-2019.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/a-e/bbc-news/bbc-news-2023.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/a-e/bbc-news/bbc-news-2023.html"
         }
       },
       "version": ""
@@ -5173,6 +5216,16 @@
       "output": {
         ".html": {
           "relative_path": "publications/a-e/cnn-international/cnn-international-2022.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/a-e/cnn-international/cnn-international-2023.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/a-e/cnn-international/cnn-international-2023.html"
         }
       },
       "version": ""
@@ -7984,6 +8037,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "publications/f-j/independent-co-uk/independent-co-uk-2023.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/f-j/independent-co-uk/independent-co-uk-2023.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "publications/f-j/independent-co-uk/index.md",
       "output": {
         ".html": {
@@ -8516,6 +8579,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "publications/f-j/the-guardian/the-guardian-2010.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/f-j/the-guardian/the-guardian-2010.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "publications/f-j/the-guardian/the-guardian-2016.md",
       "output": {
         ".html": {
@@ -8556,10 +8629,30 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "publications/f-j/the-guardian/the-guardian-2021.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/f-j/the-guardian/the-guardian-2021.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "publications/f-j/the-guardian/the-guardian-2022.md",
       "output": {
         ".html": {
           "relative_path": "publications/f-j/the-guardian/the-guardian-2022.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/f-j/the-guardian/the-guardian-2023.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/f-j/the-guardian/the-guardian-2023.html"
         }
       },
       "version": ""
@@ -11072,6 +11165,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "publications/k-o/new-york-times/new-york-times-2021.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/k-o/new-york-times/new-york-times-2021.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "publications/k-o/new-york-times/new-york-times-2022.md",
       "output": {
         ".html": {
@@ -11938,6 +12041,16 @@
       "output": {
         ".html": {
           "relative_path": "publications/p-t/people/people-2019.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/p-t/people/people-2023.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/p-t/people/people-2023.html"
         }
       },
       "version": ""
@@ -16097,6 +16210,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "publications/u-z/us-weekly/us-weekly-2023.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/u-z/us-weekly/us-weekly-2023.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "publications/u-z/usa-today/index.md",
       "output": {
         ".html": {
@@ -17269,6 +17392,39 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "publications/u-z/www-abc-net-au/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/u-z/www-abc-net-au/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "publications/u-z/www-abc-net-au/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "publications/u-z/www-abc-net-au/toc.html"
+        },
+        ".json": {
+          "relative_path": "publications/u-z/www-abc-net-au/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/u-z/www-abc-net-au/www-abc-net-au-2023.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/u-z/www-abc-net-au/www-abc-net-au-2023.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "publications/u-z/www-ign-com/index.md",
       "output": {
         ".html": {
@@ -17296,6 +17452,39 @@
       "output": {
         ".html": {
           "relative_path": "publications/u-z/www-ign-com/www-ign-com-2021.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/u-z/www-thelist-com/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/u-z/www-thelist-com/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "publications/u-z/www-thelist-com/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "publications/u-z/www-thelist-com/toc.html"
+        },
+        ".json": {
+          "relative_path": "publications/u-z/www-thelist-com/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/u-z/www-thelist-com/www-thelist-com-2023.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/u-z/www-thelist-com/www-thelist-com-2023.html"
         }
       },
       "version": ""
@@ -28480,6 +28669,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/saks/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/sandy-scipioni/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/sandy-scipioni/index.html"
         }
       },
       "version": ""
