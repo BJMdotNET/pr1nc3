@@ -2,6 +2,9 @@ items:
 - name: US Weekly - 2016
   href: us-weekly-2016.md
   homepage: us-weekly-2016.md
+- name: US Weekly - 2018
+  href: us-weekly-2018.md
+  homepage: us-weekly-2018.md
 - name: US Weekly - 2023
   href: us-weekly-2023.md
   homepage: us-weekly-2023.md

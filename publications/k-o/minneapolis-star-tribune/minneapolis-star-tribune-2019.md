@@ -740,7 +740,7 @@
     - by [The Associated Press](../../../authors/the-associated-press/index.md)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 25 April 2019
-    - about [Joey Coco](../../../topics/joey-coco/index.md), [Kenny Rogers](../../../topics/kenny-rogers/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md)
+    - about [Joey Coco](../../../topics/joey-coco/index.md), [Kenny Rogers](../../../topics/kenny-rogers/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/new-prince-album-featuring-unreleased-demos-out-in-june/509058902/))
 
 ----

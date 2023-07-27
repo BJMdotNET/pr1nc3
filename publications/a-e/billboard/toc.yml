@@ -8,6 +8,9 @@ items:
 - name: Billboard - 2009
   href: billboard-2009.md
   homepage: billboard-2009.md
+- name: Billboard - 2013
+  href: billboard-2013.md
+  homepage: billboard-2013.md
 - name: Billboard - 2016
   href: billboard-2016.md
   homepage: billboard-2016.md

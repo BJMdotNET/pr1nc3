@@ -29,7 +29,7 @@
   * [BBC - Culture](./bbc-culture/index.md) (1)
   * [BBC News](./bbc-news/index.md) (8)
   * [Berklee Online (Berklee College of Music)](./berklee-online-berklee-college-of-music/index.md) (1)
-  * [Billboard](./billboard/index.md) (60)
+  * [Billboard](./billboard/index.md) (61)
   * [Biography](./biography/index.md) (1)
   * [Blitz](./blitz/index.md) (1)
   * [blog.discmakers.com](./blog-discmakers-com/index.md) (1)

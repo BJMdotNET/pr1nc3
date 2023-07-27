@@ -5,7 +5,7 @@
  - [**"Sinéad O’Connor and Prince Controversy Explained: All About the Drama Behind ‘Nothing Compares 2 U' -- Prince's estate refused rights for O'Connor's hit track to be used in her 2022 documentary, 'Nothing Compares,' named after the song"**](https://people.com/sinead-oconnor-prince-nothing-compares-2-u-drama-explained-7566098)
     - in [People](../../../publications/p-t/people/index.md)
     - on 26 July 2023
-    - about [memoir](../../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [Rosie Gaines](../../../topics/rosie-gaines/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Sharon Nelson](../../../topics/sharon-nelson/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md), [The Prince Estate](../../../topics/the-prince-estate/index.md)
+    - about [memoir](../../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [Rosie Gaines](../../../topics/rosie-gaines/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Sharon Nelson](../../../topics/sharon-nelson/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md), [The Prince Estate](../../../topics/the-prince-estate/index.md)
     - ([mirror](https://web.archive.org/web/*/https://people.com/sinead-oconnor-prince-nothing-compares-2-u-drama-explained-7566098))
 
 ----

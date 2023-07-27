@@ -104,6 +104,12 @@ items:
 - name: www.abc.net.au
   href: www-abc-net-au/index.md
   homepage: www-abc-net-au/index.md
+- name: www.chartsinfrance.net
+  href: www-chartsinfrance-net/index.md
+  homepage: www-chartsinfrance-net/index.md
+- name: www.dailymail.co.uk
+  href: www-dailymail-co-uk/index.md
+  homepage: www-dailymail-co-uk/index.md
 - name: www.ign.com
   href: www-ign-com/index.md
   homepage: www-ign-com/index.md

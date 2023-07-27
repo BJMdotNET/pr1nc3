@@ -6,7 +6,7 @@
     - by 
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 31 December 2012
-    - about [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Sinead O'Connor](../../../topics/sinead-o-connor/index.md)
+    - about [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Sinead O'Connor](../../../topics/sinead-o-connor/index.md), [Sinéad O'Connor](../../../topics/sin-ad-o-connor/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/nothing-compares-to-brandi-carlile-on-new-year-s-eve/185253922/))
 
 ----
