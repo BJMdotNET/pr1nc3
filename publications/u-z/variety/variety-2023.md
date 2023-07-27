@@ -1,6 +1,14 @@
 # Variety: 2023
 
-## July 2023 (1)
+## July 2023 (2)
+
+ - [**"Sinéad O’Connor, Irish Singer of ‘Nothing Compares 2 U,’ Dies at 56"**](https://variety.com/2023/music/news/sinead-oconnor-dead-nothing-compares-2-u-1235680724/)
+    - in [Variety](../../../publications/u-z/variety/index.md)
+    - on 26 July 2023
+    - about [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md), [The Family](../../../topics/the-family/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://variety.com/2023/music/news/sinead-oconnor-dead-nothing-compares-2-u-1235680724/))
+
+----
 
  - [**"UMG Names Michele Anthony EVP of US Recorded Music"**](https://variety.com/2013/music/news/umg-names-michele-anthony-evp-of-us-recorded-music-1200670631/)
     - in [Variety](../../../publications/u-z/variety/index.md)

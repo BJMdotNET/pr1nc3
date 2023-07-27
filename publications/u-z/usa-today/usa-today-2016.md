@@ -75,7 +75,7 @@
  - [**"Prince's death, Day 13: Woman reported Prince had bad cocaine habit in 2011"**](https://usatoday.com/story/life/people/2016/05/03/princes-death-day-13-latest-news-and-tributes/83866634/)
     - in [USA Today](../../../publications/u-z/usa-today/index.md)
     - on 3 May 2016
-    - about [Carver County](../../../topics/carver-county/index.md)
+    - about [Carver County](../../../topics/carver-county/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Sinéad O'Connor](../../../topics/sin-ad-o-connor/index.md)
     - ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/people/2016/05/03/princes-death-day-13-latest-news-and-tributes/83866634/))
 
 ----

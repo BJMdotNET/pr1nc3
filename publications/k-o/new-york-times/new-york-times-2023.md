@@ -1,6 +1,14 @@
 # New York Times: 2023
 
-## July 2023 (1)
+## July 2023 (2)
+
+ - [**"Sinead O’Connor, Evocative and Outspoken Singer, Is Dead at 56 -- She broke out with the single “Nothing Compares 2 U,” then caused an uproar a few years later by ripping up a photo of Pope John Paul II on “S.N.L.”"**](https://www.nytimes.com/2023/07/26/arts/music/sinead-oconnor-dead.html)
+    - in [New York Times](../../../publications/k-o/new-york-times/index.md)
+    - on 26 July 2023
+    - about [Bob Dylan](../../../topics/bob-dylan/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [The Family](../../../topics/the-family/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.nytimes.com/2023/07/26/arts/music/sinead-oconnor-dead.html))
+
+----
 
  - [**"Taylor Swift’s Revised ‘Revenge,’ and 10 More New Songs -- Hear tracks by Prince, Rauw Alejandro, First Aid Kit and others."**](https://www.nytimes.com/2023/07/07/arts/music/playlist-taylor-swift-speak-now-better-than-revenge.html)
     - by [Jon Pareles](../../../authors/jon-pareles/index.md)

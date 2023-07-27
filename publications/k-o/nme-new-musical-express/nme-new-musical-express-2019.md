@@ -24,7 +24,7 @@
  - [**"This week’s biggest vinyl releases to buy and pre-order: Bon Iver, Thom Yorke, Prince and more"**](https://www.nme.com/blogs/biggest-vinyl-releases-this-week-2527518)
     - in [NME (New Musical Express)](../../../publications/k-o/nme-new-musical-express/index.md)
     - on 19 July 2019
-    - about [Bangles](../../../topics/bangles/index.md), [Originals (album review)](../../../topics/album-review/originals/index.md), [Originals (album)](../../../topics/album/originals/index.md)
+    - about [Bangles](../../../topics/bangles/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Originals (album review)](../../../topics/album-review/originals/index.md), [Originals (album)](../../../topics/album/originals/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.nme.com/blogs/biggest-vinyl-releases-this-week-2527518))
 
 ----

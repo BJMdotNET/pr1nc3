@@ -5,7 +5,7 @@
  - [**"Prince: An appreciation"**](https://www.cbsnews.com/news/prince-an-appreciation/)
     - in [CBS News](../../../publications/a-e/cbs-news/index.md)
     - on 24 April 2016
-    - about [Bangles](../../../topics/bangles/index.md), [George Clinton](../../../topics/george-clinton/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Raspberry Beret (song)](../../../topics/song/raspberry-beret/index.md), [U Got the Look (song)](../../../topics/song/u-got-the-look/index.md)
+    - about [Bangles](../../../topics/bangles/index.md), [George Clinton](../../../topics/george-clinton/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Raspberry Beret (song)](../../../topics/song/raspberry-beret/index.md), [Sinead O'Connor](../../../topics/sinead-o-connor/index.md), [U Got the Look (song)](../../../topics/song/u-got-the-look/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/news/prince-an-appreciation/))
 
 ----

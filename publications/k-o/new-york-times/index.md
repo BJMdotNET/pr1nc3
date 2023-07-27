@@ -2,8 +2,9 @@
 
 ## Links by year
 
-  * [2023](./new-york-times-2023.md) (3)
+  * [2023](./new-york-times-2023.md) (4)
   * [2022](./new-york-times-2022.md) (1)
+  * [2021](./new-york-times-2021.md) (1)
   * [2019](./new-york-times-2019.md) (2)
 
 ## Homepage

@@ -612,7 +612,7 @@
     - by [Jon Bream](../../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 6 June 2019
-    - about [Morris Day](../../../topics/morris-day/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Peggy McCreary](../../../topics/peggy-mccreary/index.md), [Sunset Sound (place)](../../../topics/place/sunset-sound/index.md)
+    - about [Morris Day](../../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Peggy McCreary](../../../topics/peggy-mccreary/index.md), [Sunset Sound (place)](../../../topics/place/sunset-sound/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/sometimes-he-dreamed-his-songs-a-portrait-of-prince-in-the-recording-studio/510918872/))
 
 ----
@@ -740,7 +740,7 @@
     - by [The Associated Press](../../../authors/the-associated-press/index.md)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 25 April 2019
-    - about [Joey Coco](../../../topics/joey-coco/index.md), [Kenny Rogers](../../../topics/kenny-rogers/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Sheila E.](../../../topics/sheila-e/index.md)
+    - about [Joey Coco](../../../topics/joey-coco/index.md), [Kenny Rogers](../../../topics/kenny-rogers/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/new-prince-album-featuring-unreleased-demos-out-in-june/509058902/))
 
 ----

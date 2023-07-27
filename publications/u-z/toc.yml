@@ -101,9 +101,15 @@ items:
 - name: WTOC-TV
   href: wtoc-tv/index.md
   homepage: wtoc-tv/index.md
+- name: www.abc.net.au
+  href: www-abc-net-au/index.md
+  homepage: www-abc-net-au/index.md
 - name: www.ign.com
   href: www-ign-com/index.md
   homepage: www-ign-com/index.md
+- name: www.thelist.com
+  href: www-thelist-com/index.md
+  homepage: www-thelist-com/index.md
 - name: Yahoo! Entertainment
   href: yahoo-entertainment/index.md
   homepage: yahoo-entertainment/index.md

@@ -2,6 +2,7 @@
 
 ## Links by year
 
+  * [2023](./independent-co-uk-2023.md) (1)
   * [2020](./independent-co-uk-2020.md) (1)
   * [2019](./independent-co-uk-2019.md) (1)
 
