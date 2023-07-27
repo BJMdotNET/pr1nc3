@@ -218,7 +218,7 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 3 May 2013
-    - about [Morris Day](../../topics/morris-day/index.md)
+    - about [Morris Day](../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Sinead O'Connor](../../topics/sinead-o-connor/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-plays-chicago-with-biggest-band-ever/171147871/))
 
 ----

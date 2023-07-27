@@ -1,6 +1,148 @@
 # 2023
 
-## July 2023 (28)
+## July 2023 (46)
+
+ - [**"‘Nothing Compares 2 U is perfect’: Sinéad O’Connor’s 10 greatest songs -- The late singer’s magnificent voice powered haunted hits about heartbreak, personal traumas, politics and sex, blending rock, folk and hip-hop beats"**](https://www.theguardian.com/music/2023/jul/27/sinead-o-connor-10-best-songs-nothing-compares-2-u)
+    - in [The Guardian](../../publications/f-j/the-guardian/index.md)
+    - on 27 July 2023
+    - about [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/music/2023/jul/27/sinead-o-connor-10-best-songs-nothing-compares-2-u))
+
+----
+
+ - [**"Controversy never drowned out the astonishing songcraft of Sinéad O’Connor -- As well as being a fearless interpreter of others’ work, the late singer adapted to a seemingly endless array of styles, marking her out as a bold and utterly singular artist"**](https://www.theguardian.com/music/2023/jul/26/controversy-never-drowned-out-the-astonishing-songcraft-of-sinead-oconnor)
+    - in [The Guardian](../../publications/f-j/the-guardian/index.md)
+    - on 27 July 2023
+    - about [Bob Dylan](../../topics/bob-dylan/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/music/2023/jul/26/controversy-never-drowned-out-the-astonishing-songcraft-of-sinead-oconnor))
+
+----
+
+ - [**"How Sinéad O'Connor recorded Nothing Compares 2 U"**](https://www.bbc.com/news/entertainment-arts-66320163)
+    - in [BBC News](../../publications/a-e/bbc-news/index.md)
+    - on 27 July 2023
+    - about [Duane Tudahl](../../topics/duane-tudahl/index.md), [Jerome Benton](../../topics/jerome-benton/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Nothing Compares 2U (song)](../../topics/song/nothing-compares-2u/index.md), [Paul Peterson](../../topics/paul-peterson/index.md), [Sandy Scipioni](../../topics/sandy-scipioni/index.md), [Sinéad O'Connor](../../topics/sin-ad-o-connor/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [The Family](../../topics/the-family/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.bbc.com/news/entertainment-arts-66320163))
+
+----
+
+ - [**"Nothing Compares 2 U: How the song of 1990 went from Prince to Sinéad and back again"**](https://www.abc.net.au/news/2023-07-27/nothing-compares-2-u-sinead-o-connor-prince-the-family/102654218)
+    - in [www.abc.net.au](../../publications/u-z/www-abc-net-au/index.md)
+    - on 27 July 2023
+    - about [Eden Prairie (place)](../../topics/place/eden-prairie/index.md), [Flying Cloud Drive (place)](../../topics/place/flying-cloud-drive/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Paisley Park Records](../../topics/paisley-park-records/index.md), [Prince & The Revolution](../../topics/prince-the-revolution/index.md), [Rosie Gaines](../../topics/rosie-gaines/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Sinéad O'Connor](../../topics/sin-ad-o-connor/index.md), [The Family](../../topics/the-family/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.abc.net.au/news/2023-07-27/nothing-compares-2-u-sinead-o-connor-prince-the-family/102654218))
+
+----
+
+ - [**"Sinead O’Connor: the angelic skinhead for whom love, intelligence and madness were inseparable -- I interviewed Sinéad twice. She was supremely gifted, terrifyingly vulnerable and hilarious – even at her bleakest she’d make you laugh"**](https://www.theguardian.com/music/2023/jul/27/sinead-oconnor-mental-health-struggles-parental-abuse)
+    - in [The Guardian](../../publications/f-j/the-guardian/index.md)
+    - on 27 July 2023
+    - about [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/music/2023/jul/27/sinead-oconnor-mental-health-struggles-parental-abuse))
+
+----
+
+ - [**"What Prince Thought of Sinead O'Connor's 'Nothing Compares 2 U' Cover"**](https://www.aol.com/entertainment/prince-thought-sinead-oconnors-nothing-194128980.html)
+    - in [Aol. - Entertainment](../../publications/a-e/aol-entertainment/index.md)
+    - on 27 July 2023
+    - ([mirror](https://web.archive.org/web/*/https://www.aol.com/entertainment/prince-thought-sinead-oconnors-nothing-194128980.html))
+
+----
+
+ - [**"‘Nothing Compares 2 U’: How Sinead O’Connor turned Prince’s song into a classic -- Dublin-born singer shot to fame with her cover of a previously forgotten Prince song"**](https://www.independent.co.uk/arts-entertainment/music/news/sinead-oconnor-nothing-compares-2-u-b2382514.html)
+    - in [independent.co.uk](../../publications/f-j/independent-co-uk/index.md)
+    - on 26 July 2023
+    - ([mirror](https://web.archive.org/web/*/https://www.independent.co.uk/arts-entertainment/music/news/sinead-oconnor-nothing-compares-2-u-b2382514.html))
+
+----
+
+ - [**"How Sinéad O’Connor’s ‘Nothing Compares 2 U’ changed ’90s rock — and upstaged Prince"**](https://nypost.com/2023/07/26/how-sinead-oconnors-nothing-compares-2-u-upstaged-prince-and-changed-rock/)
+    - in [New York Post](../../publications/k-o/new-york-post/index.md)
+    - on 26 July 2023
+    - about [Chaka Khan](../../topics/chaka-khan/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md), [The Family](../../topics/the-family/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://nypost.com/2023/07/26/how-sinead-oconnors-nothing-compares-2-u-upstaged-prince-and-changed-rock/))
+
+----
+
+ - [**"Sinéad O’Connor and Prince Controversy Explained: All About the Drama Behind ‘Nothing Compares 2 U' -- Prince's estate refused rights for O'Connor's hit track to be used in her 2022 documentary, 'Nothing Compares,' named after the song"**](https://people.com/sinead-oconnor-prince-nothing-compares-2-u-drama-explained-7566098)
+    - in [People](../../publications/p-t/people/index.md)
+    - on 26 July 2023
+    - about [memoir](../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Rosie Gaines](../../topics/rosie-gaines/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://people.com/sinead-oconnor-prince-nothing-compares-2-u-drama-explained-7566098))
+
+----
+
+ - [**"Sinead O’Connor, Evocative and Outspoken Singer, Is Dead at 56 -- She broke out with the single “Nothing Compares 2 U,” then caused an uproar a few years later by ripping up a photo of Pope John Paul II on “S.N.L.”"**](https://www.nytimes.com/2023/07/26/arts/music/sinead-oconnor-dead.html)
+    - in [New York Times](../../publications/k-o/new-york-times/index.md)
+    - on 26 July 2023
+    - about [Bob Dylan](../../topics/bob-dylan/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md), [The Family](../../topics/the-family/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.nytimes.com/2023/07/26/arts/music/sinead-oconnor-dead.html))
+
+----
+
+ - [**"Sinéad O’Connor, Irish Singer of ‘Nothing Compares 2 U,’ Dies at 56"**](https://variety.com/2023/music/news/sinead-oconnor-dead-nothing-compares-2-u-1235680724/)
+    - in [Variety](../../publications/u-z/variety/index.md)
+    - on 26 July 2023
+    - about [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md), [The Family](../../topics/the-family/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://variety.com/2023/music/news/sinead-oconnor-dead-nothing-compares-2-u-1235680724/))
+
+----
+
+ - [**"Sinéad O’Connor, Irish singer of ‘Nothing Compares 2 U’ and more, dead at 56, Irish media says"**](https://edition.cnn.com/2023/07/26/entertainment/sinead-oconnor-death/index.html)
+    - in [CNN International](../../publications/a-e/cnn-international/index.md)
+    - on 26 July 2023
+    - about [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://edition.cnn.com/2023/07/26/entertainment/sinead-oconnor-death/index.html))
+
+----
+
+ - [**"Sinéad O'Connor Dead at 56 -- The "Nothing Compares 2 U" singer had struggled for years with her mental health, and had recently announced plans for new music and a tour"**](https://people.com/sinead-o-connor-dead-at-age-56-7565896)
+    - in [People](../../publications/p-t/people/index.md)
+    - on 26 July 2023
+    - about [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [Sinéad O'Connor](../../topics/sin-ad-o-connor/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://people.com/sinead-o-connor-dead-at-age-56-7565896))
+
+----
+
+ - [**"Sinéad O'Connor obituary: A talent beyond compare"**](https://www.bbc.com/news/entertainment-arts-35031186)
+    - in [BBC News](../../publications/a-e/bbc-news/index.md)
+    - on 26 July 2023
+    - about [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [Sinéad O'Connor](../../topics/sin-ad-o-connor/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.bbc.com/news/entertainment-arts-35031186))
+
+----
+
+ - [**"Sinéad O'Connor: Irish singer dies aged 56"**](https://www.bbc.com/news/entertainment-arts-66318626)
+    - in [BBC News](../../publications/a-e/bbc-news/index.md)
+    - on 26 July 2023
+    - about [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [Sinéad O'Connor](../../topics/sin-ad-o-connor/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.bbc.com/news/entertainment-arts-66318626))
+
+----
+
+ - [**"The Real Meaning Behind Sinéad O'Connor's Hit Nothing Compares 2 U  Read More: https://www.thelist.com/1349960/real-meaning-behind-sinead-oconnor-hit-nothing-compares-2-u/"**](https://www.thelist.com/1349960/real-meaning-behind-sinead-oconnor-hit-nothing-compares-2-u/)
+    - in [www.thelist.com](../../publications/u-z/www-thelist-com/index.md)
+    - on 26 July 2023
+    - about [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Paul Peterson](../../topics/paul-peterson/index.md), [Sandy Scipioni](../../topics/sandy-scipioni/index.md), [Sinéad O'Connor](../../topics/sin-ad-o-connor/index.md), [St. Paul Peterson](../../topics/st-paul-peterson/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [The Family](../../topics/the-family/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.thelist.com/1349960/real-meaning-behind-sinead-oconnor-hit-nothing-compares-2-u/))
+
+----
+
+ - [**"Watch Sinead O’Connor Perform a Breathtaking ‘Nothing Compares 2 U’ on Her Final Tour -- She pledged to stop performing the song in 2015, but brought it back for her final tour just a few years later"**](https://www.rollingstone.com/music/music-features/sinead-oconnor-dead-nothing-compares-2-u-final-tour-1234795622/)
+    - in [Rolling Stone](../../publications/p-t/rolling-stone/index.md)
+    - on 26 July 2023
+    - about [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/sinead-oconnor-dead-nothing-compares-2-u-final-tour-1234795622/))
+
+----
+
+ - [**"What Prince Really Thought of Sinead O’Connor’s ‘Nothing Compares 2 U’ Cover"**](https://www.usmagazine.com/entertainment/news/what-prince-thought-of-sinead-oconnors-nothing-compares-2-u/)
+    - in [US Weekly](../../publications/u-z/us-weekly/index.md)
+    - on 26 July 2023
+    - about [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Rosie Gaines](../../topics/rosie-gaines/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.usmagazine.com/entertainment/news/what-prince-thought-of-sinead-oconnors-nothing-compares-2-u/))
+
+----
 
  - [**"Prince fans mark fifth anniversary of his death: &#039;My soul said I need to be here&#039;"**](https://www.startribune.com/prince-fans-mark-fifth-anniversary-of-his-death-my-soul-said-i-need-to-be-here/600048637/)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)

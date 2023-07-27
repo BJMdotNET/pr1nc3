@@ -199,6 +199,7 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 15 September 2021
+    - about [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/bob-dylan-prince-land-several-tunes-on-rolling-stone-s-list-of-500-greatest-songs-of-all-time/600097653/))
 
 ----
@@ -392,7 +393,15 @@
 
 ----
 
-## May 2021 (6)
+## May 2021 (8)
+
+ - [**"Sinéad O’Connor: ‘I’ll always be a bit crazy, but that’s OK’ -- After a life marked by abuse, fame, scandal and struggle, the Irish singer-songwriter says she never lost faith"**](https://www.theguardian.com/music/2021/may/29/sinead-oconnor-ill-always-be-a-bit-crazy-but-thats-ok-rememberings)
+    - in [The Guardian](../../publications/f-j/the-guardian/index.md)
+    - on 29 May 2021
+    - about [Bob Dylan](../../topics/bob-dylan/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md), [The Family](../../topics/the-family/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/music/2021/may/29/sinead-oconnor-ill-always-be-a-bit-crazy-but-thats-ok-rememberings))
+
+----
 
  - [**"Sinéad O’Connor: How I survived hellish night with ‘devil’ Prince"**](https://nypost.com/2021/05/28/sinead-oconnor-my-hellish-night-with-devil-prince/)
     - in [New York Post](../../publications/k-o/new-york-post/index.md)
@@ -416,6 +425,14 @@
     - on 19 May 2021
     - about [exhibit](../../topics/exhibit/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md)
     - ([mirror](https://web.archive.org/web/*/https://mspmag.com/arts-and-culture/paisley-park-prince-shoes-exhibit/))
+
+----
+
+ - [**"Sinead O’Connor Remembers Things Differently -- The mainstream narrative is that a pop star ripped up a photo of the pope on “Saturday Night Live” and derailed her life. What if the opposite were true?"**](https://www.nytimes.com/2021/05/18/arts/music/sinead-oconnor-rememberings.html)
+    - in [New York Times](../../publications/k-o/new-york-times/index.md)
+    - on 18 May 2021
+    - about [Bob Dylan](../../topics/bob-dylan/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.nytimes.com/2021/05/18/arts/music/sinead-oconnor-rememberings.html))
 
 ----
 
@@ -580,7 +597,7 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 19 March 2021
-    - about [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - about [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/at-64-minnesota-music-hero-jellybean-johnson-makes-his-solo-guitar-debut/600035752/))
 
 ----

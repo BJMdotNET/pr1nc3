@@ -27,7 +27,7 @@
 
 ----
 
-## September 2010 (3)
+## September 2010 (4)
 
  - [**"Item World: Local news and views -- Dust Bunnies' guest star; Toby Keith in a Twins jersey?"**](https://www.startribune.com/item-world-local-news-and-views/103639909/)
     - by [Star Tribune staff](../../authors/star-tribune-staff/index.md)
@@ -50,6 +50,14 @@
     - on 13 September 2010
     - about [Symbolina](../../topics/symbolina/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/kelly-carlson-nips-stamos-rumor-in-the-bud/102823039/))
+
+----
+
+ - [**"Sinead O'Connor: 'The Vatican is a nest of devils' -- When she tore up the pope's picture as a protest against child abuse, people thought she was loopy. But Sinead O'Connor – former pop star, priest, newly married mother of four – won't say 'I told you so'"**](https://www.theguardian.com/world/2010/sep/10/sinead-oconnor-pope-visit)
+    - in [The Guardian](../../publications/f-j/the-guardian/index.md)
+    - on 11 September 2010
+    - about [Bob Dylan](../../topics/bob-dylan/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [Sinead O'Connor](../../topics/sinead-o-connor/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/world/2010/sep/10/sinead-oconnor-pope-visit))
 
 ----
 

@@ -112,7 +112,7 @@ Friends, colleagues and political heavyweights packed Wednesday's service for th
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 15 September 2011
-    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md)
+    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Paula Abdul](../../topics/paula-abdul/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/it-s-a-family-affair-for-the-band-fdeluxe/129894773/))
 
 ----
@@ -254,7 +254,7 @@ Friends, colleagues and political heavyweights packed Wednesday's service for th
  - [**"Divas&#039; do&#039;s, and the guy who does &#039;em -- Who's a bigger diva, Diana Ross or Naomi Campbell? I asked a hairstyling icon who'd know the answer on Monday at the Wayzata location of Jon Charles Salon."**](https://www.startribune.com/miss-ross-or-naomi-their-stylist-knows-who-s-the-bigger-diva/115685054/)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 10 February 2011
-    - about [Symbolina](../../topics/symbolina/index.md)
+    - about [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Symbolina](../../topics/symbolina/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/miss-ross-or-naomi-their-stylist-knows-who-s-the-bigger-diva/115685054/))
 
 ----
