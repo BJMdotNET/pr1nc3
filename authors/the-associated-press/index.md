@@ -8,7 +8,7 @@
     - by [The Associated Press](../../authors/the-associated-press/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 25 April 2019
-    - about [Joey Coco](../../topics/joey-coco/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../topics/album/originals/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md)
+    - about [Joey Coco](../../topics/joey-coco/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../topics/album/originals/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/new-prince-album-featuring-unreleased-demos-out-in-june/509058902/))
 
 <br />
@@ -17,7 +17,7 @@
     - by [The Associated Press](../../authors/the-associated-press/index.md)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 25 April 2019
-    - about [Apple Music](../../topics/apple-music/index.md), [Bangles](../../topics/bangles/index.md), [Joey Coco](../../topics/joey-coco/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../topics/album/originals/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md), [Spotify](../../topics/spotify/index.md), [The Time](../../topics/the-time/index.md), [Tidal](../../topics/tidal/index.md), [Troy Carter](../../topics/troy-carter/index.md)
+    - about [Apple Music](../../topics/apple-music/index.md), [Bangles](../../topics/bangles/index.md), [Joey Coco](../../topics/joey-coco/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../topics/album/originals/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md), [Spotify](../../topics/spotify/index.md), [The Time](../../topics/the-time/index.md), [Tidal](../../topics/tidal/index.md), [Troy Carter](../../topics/troy-carter/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/f60b62d07cd74a92aec4ceb6d9c338f1))
 
 ----
