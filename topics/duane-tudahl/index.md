@@ -1,5 +1,17 @@
 # Duane Tudahl
 
+## 2023 (1)
+
+### 2023 July (1)
+
+ - [**"How Sinéad O'Connor recorded Nothing Compares 2 U"**](https://www.bbc.com/news/entertainment-arts-66320163)
+    - in [BBC News](../../publications/a-e/bbc-news/index.md)
+    - on 27 July 2023
+    - about [Duane Tudahl](../../topics/duane-tudahl/index.md), [Jerome Benton](../../topics/jerome-benton/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Nothing Compares 2U (song)](../../topics/song/nothing-compares-2u/index.md), [Paul Peterson](../../topics/paul-peterson/index.md), [Sandy Scipioni](../../topics/sandy-scipioni/index.md), [Sinéad O'Connor](../../topics/sin-ad-o-connor/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [The Family](../../topics/the-family/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.bbc.com/news/entertainment-arts-66320163))
+
+----
+
 ## 2022 (1)
 
 ### 2022 June (1)

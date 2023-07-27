@@ -1,5 +1,17 @@
 # Universal Music Publishing Group
 
+## 2022 (1)
+
+### 2022 September (1)
+
+ - [**"Why Prince’s Estate Refused to Allow ‘Nothing Compares 2 U’ To Be Used in New Sinéad O’Connor Documentary -- "I didn't feel she deserved to use the song," says the icon's co-heir and half-sister Sharon Nelson."**](https://www.billboard.com/pro/prince-sinead-o-connor-documentary-nothing-compares-2-u/)
+    - in [Billboard](../../publications/a-e/billboard/index.md)
+    - on 30 September 2022
+    - about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Charles Spicer](../../topics/charles-spicer/index.md), [Comerica](../../topics/comerica/index.md), [Comerica Bank & Trust](../../topics/comerica-bank-trust/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [L. Londell McMillan](../../topics/l-londell-mcmillan/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Primary Wave](../../topics/primary-wave/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Rosie Gaines](../../topics/rosie-gaines/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Universal Music Publishing Group](../../topics/universal-music-publishing-group/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/pro/prince-sinead-o-connor-documentary-nothing-compares-2-u/))
+
+----
+
 ## 2018 (3)
 
 ### 2018 December (2)
@@ -45,7 +57,7 @@
  - [**"The Estate Of Prince Rogers Nelson Selects Universal Music Publishing Group To Serve As Worldwide Publisher For Prince's Iconic Catalog Of Songs"**](https://www.prnewswire.com/news-releases/the-estate-of-prince-rogers-nelson-selects-universal-music-publishing-group-to-serve-as-worldwide-publisher-for-princes-iconic-catalog-of-songs-300356320.html)
     - in [PR Newswire](../../publications/p-t/pr-newswire/index.md)
     - on 2 November 2016
-    - about [Alabama Shakes](../../topics/alabama-shakes/index.md), [Alicia Keys](../../topics/alicia-keys/index.md), [Bangles](../../topics/bangles/index.md), [Bremer Trust](../../topics/bremer-trust/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [Danny Elfman](../../topics/danny-elfman/index.md), [Elton John](../../topics/elton-john/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [L. Londell McMillan](../../topics/l-londell-mcmillan/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Universal Music Group](../../topics/universal-music-group/index.md), [Universal Music Publishing Group](../../topics/universal-music-publishing-group/index.md)
+    - about [Alabama Shakes](../../topics/alabama-shakes/index.md), [Alicia Keys](../../topics/alicia-keys/index.md), [Bangles](../../topics/bangles/index.md), [Bremer Trust](../../topics/bremer-trust/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [Danny Elfman](../../topics/danny-elfman/index.md), [Elton John](../../topics/elton-john/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [L. Londell McMillan](../../topics/l-londell-mcmillan/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Sinead O'Connor](../../topics/sinead-o-connor/index.md), [Universal Music Group](../../topics/universal-music-group/index.md), [Universal Music Publishing Group](../../topics/universal-music-publishing-group/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/the-estate-of-prince-rogers-nelson-selects-universal-music-publishing-group-to-serve-as-worldwide-publisher-for-princes-iconic-catalog-of-songs-300356320.html))
 
 ----

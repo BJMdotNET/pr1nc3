@@ -1,5 +1,25 @@
 # Paul Peterson
 
+## 2023 (2)
+
+### 2023 July (2)
+
+ - [**"How Sinéad O'Connor recorded Nothing Compares 2 U"**](https://www.bbc.com/news/entertainment-arts-66320163)
+    - in [BBC News](../../publications/a-e/bbc-news/index.md)
+    - on 27 July 2023
+    - about [Duane Tudahl](../../topics/duane-tudahl/index.md), [Jerome Benton](../../topics/jerome-benton/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Nothing Compares 2U (song)](../../topics/song/nothing-compares-2u/index.md), [Paul Peterson](../../topics/paul-peterson/index.md), [Sandy Scipioni](../../topics/sandy-scipioni/index.md), [Sinéad O'Connor](../../topics/sin-ad-o-connor/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [The Family](../../topics/the-family/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.bbc.com/news/entertainment-arts-66320163))
+
+<br />
+
+ - [**"The Real Meaning Behind Sinéad O'Connor's Hit Nothing Compares 2 U  Read More: https://www.thelist.com/1349960/real-meaning-behind-sinead-oconnor-hit-nothing-compares-2-u/"**](https://www.thelist.com/1349960/real-meaning-behind-sinead-oconnor-hit-nothing-compares-2-u/)
+    - in [www.thelist.com](../../publications/u-z/www-thelist-com/index.md)
+    - on 26 July 2023
+    - about [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Paul Peterson](../../topics/paul-peterson/index.md), [Sandy Scipioni](../../topics/sandy-scipioni/index.md), [Sinéad O'Connor](../../topics/sin-ad-o-connor/index.md), [St. Paul Peterson](../../topics/st-paul-peterson/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [The Family](../../topics/the-family/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.thelist.com/1349960/real-meaning-behind-sinead-oconnor-hit-nothing-compares-2-u/))
+
+----
+
 ## 2020 (1)
 
 ### 2020 February (1)
@@ -30,7 +50,7 @@
     - by [Ross Raihala](../../authors/ross-raihala/index.md)
     - in [TwinCities.com - Pioneer Press](../../publications/p-t/twincities-com-pioneer-press/index.md)
     - on 18 July 2019
-    - about [Alan Leeds](../../topics/alan-leeds/index.md), [Eric Leeds](../../topics/eric-leeds/index.md), [fDeluxe](../../topics/fdeluxe/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jerome Benton](../../topics/jerome-benton/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Monte Moir](../../topics/monte-moir/index.md), [Nothing Compares 2 Prince](../../topics/nothing-compares-2-prince/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Paul Peterson](../../topics/paul-peterson/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [St. Paul and the Minneapolis Funk All-Stars](../../topics/st-paul-and-the-minneapolis-funk-all-stars/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Family](../../topics/the-family/index.md), [The Time](../../topics/the-time/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
+    - about [Alan Leeds](../../topics/alan-leeds/index.md), [Eric Leeds](../../topics/eric-leeds/index.md), [fDeluxe](../../topics/fdeluxe/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jerome Benton](../../topics/jerome-benton/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Monte Moir](../../topics/monte-moir/index.md), [Nothing Compares 2 Prince](../../topics/nothing-compares-2-prince/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Paul Peterson](../../topics/paul-peterson/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md), [St. Paul and the Minneapolis Funk All-Stars](../../topics/st-paul-and-the-minneapolis-funk-all-stars/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Family](../../topics/the-family/index.md), [The Time](../../topics/the-time/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2019/07/18/the-familys-paul-peterson-returns-with-a-pair-of-new-solo-songs-that-sound-a-lot-like-prince/))
 
 ----

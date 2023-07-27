@@ -1,6 +1,32 @@
 # Rosie Gaines
 
-## 2023 (6)
+## 2023 (9)
+
+### 2023 July (3)
+
+ - [**"Nothing Compares 2 U: How the song of 1990 went from Prince to Sinéad and back again"**](https://www.abc.net.au/news/2023-07-27/nothing-compares-2-u-sinead-o-connor-prince-the-family/102654218)
+    - in [www.abc.net.au](../../publications/u-z/www-abc-net-au/index.md)
+    - on 27 July 2023
+    - about [Eden Prairie (place)](../../topics/place/eden-prairie/index.md), [Flying Cloud Drive (place)](../../topics/place/flying-cloud-drive/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Paisley Park Records](../../topics/paisley-park-records/index.md), [Prince & The Revolution](../../topics/prince-the-revolution/index.md), [Rosie Gaines](../../topics/rosie-gaines/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Sinéad O'Connor](../../topics/sin-ad-o-connor/index.md), [The Family](../../topics/the-family/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.abc.net.au/news/2023-07-27/nothing-compares-2-u-sinead-o-connor-prince-the-family/102654218))
+
+<br />
+
+ - [**"Sinéad O’Connor and Prince Controversy Explained: All About the Drama Behind ‘Nothing Compares 2 U' -- Prince's estate refused rights for O'Connor's hit track to be used in her 2022 documentary, 'Nothing Compares,' named after the song"**](https://people.com/sinead-oconnor-prince-nothing-compares-2-u-drama-explained-7566098)
+    - in [People](../../publications/p-t/people/index.md)
+    - on 26 July 2023
+    - about [memoir](../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Rosie Gaines](../../topics/rosie-gaines/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://people.com/sinead-oconnor-prince-nothing-compares-2-u-drama-explained-7566098))
+
+<br />
+
+ - [**"What Prince Really Thought of Sinead O’Connor’s ‘Nothing Compares 2 U’ Cover"**](https://www.usmagazine.com/entertainment/news/what-prince-thought-of-sinead-oconnors-nothing-compares-2-u/)
+    - in [US Weekly](../../publications/u-z/us-weekly/index.md)
+    - on 26 July 2023
+    - about [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Rosie Gaines](../../topics/rosie-gaines/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.usmagazine.com/entertainment/news/what-prince-thought-of-sinead-oconnors-nothing-compares-2-u/))
+
+----
 
 ### 2023 June (4)
 
@@ -52,6 +78,18 @@
     - on 3 May 2023
     - about [Celebration (event)](../../topics/event/celebration/index.md), [Celebration 2023 (event)](../../topics/event/celebration-2023/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [DJ Rashida](../../topics/dj-rashida/index.md), [Doug E. Fresh](../../topics/doug-e-fresh/index.md), [Mint Condition](../../topics/mint-condition/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Rosie Gaines](../../topics/rosie-gaines/index.md), [Sounds of Blackness](../../topics/sounds-of-blackness/index.md), [Stokley](../../topics/stokley/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/paisley-parks-celebration-2023-to-feature-new-unreleased-music-by-prince--performances-by-stokley-sounds-of-blackness-d-nice-shelby-j-doug-e-fresh-members-of-npg-and-more-honoring-princes-music-legacy--global-cultural--301815036.html))
+
+----
+
+## 2022 (1)
+
+### 2022 September (1)
+
+ - [**"Why Prince’s Estate Refused to Allow ‘Nothing Compares 2 U’ To Be Used in New Sinéad O’Connor Documentary -- "I didn't feel she deserved to use the song," says the icon's co-heir and half-sister Sharon Nelson."**](https://www.billboard.com/pro/prince-sinead-o-connor-documentary-nothing-compares-2-u/)
+    - in [Billboard](../../publications/a-e/billboard/index.md)
+    - on 30 September 2022
+    - about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Charles Spicer](../../topics/charles-spicer/index.md), [Comerica](../../topics/comerica/index.md), [Comerica Bank & Trust](../../topics/comerica-bank-trust/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [L. Londell McMillan](../../topics/l-londell-mcmillan/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Primary Wave](../../topics/primary-wave/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Rosie Gaines](../../topics/rosie-gaines/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Universal Music Publishing Group](../../topics/universal-music-publishing-group/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/pro/prince-sinead-o-connor-documentary-nothing-compares-2-u/))
 
 ----
 

@@ -398,7 +398,7 @@
  - [**"Divas&#039; do&#039;s, and the guy who does &#039;em -- Who's a bigger diva, Diana Ross or Naomi Campbell? I asked a hairstyling icon who'd know the answer on Monday at the Wayzata location of Jon Charles Salon."**](https://www.startribune.com/miss-ross-or-naomi-their-stylist-knows-who-s-the-bigger-diva/115685054/)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 10 February 2011
-    - about [Symbolina](../../topics/symbolina/index.md)
+    - about [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Symbolina](../../topics/symbolina/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/miss-ross-or-naomi-their-stylist-knows-who-s-the-bigger-diva/115685054/))
 
 ----

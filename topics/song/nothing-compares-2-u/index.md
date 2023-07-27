@@ -1,6 +1,136 @@
 # Nothing Compares 2 U (song)
 
-## 2023 (1)
+## 2023 (17)
+
+### 2023 July (16)
+
+ - [**"‘Nothing Compares 2 U is perfect’: Sinéad O’Connor’s 10 greatest songs -- The late singer’s magnificent voice powered haunted hits about heartbreak, personal traumas, politics and sex, blending rock, folk and hip-hop beats"**](https://www.theguardian.com/music/2023/jul/27/sinead-o-connor-10-best-songs-nothing-compares-2-u)
+    - in [The Guardian](../../../publications/f-j/the-guardian/index.md)
+    - on 27 July 2023
+    - about [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/music/2023/jul/27/sinead-o-connor-10-best-songs-nothing-compares-2-u))
+
+<br />
+
+ - [**"Controversy never drowned out the astonishing songcraft of Sinéad O’Connor -- As well as being a fearless interpreter of others’ work, the late singer adapted to a seemingly endless array of styles, marking her out as a bold and utterly singular artist"**](https://www.theguardian.com/music/2023/jul/26/controversy-never-drowned-out-the-astonishing-songcraft-of-sinead-oconnor)
+    - in [The Guardian](../../../publications/f-j/the-guardian/index.md)
+    - on 27 July 2023
+    - about [Bob Dylan](../../../topics/bob-dylan/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/music/2023/jul/26/controversy-never-drowned-out-the-astonishing-songcraft-of-sinead-oconnor))
+
+<br />
+
+ - [**"How Sinéad O'Connor recorded Nothing Compares 2 U"**](https://www.bbc.com/news/entertainment-arts-66320163)
+    - in [BBC News](../../../publications/a-e/bbc-news/index.md)
+    - on 27 July 2023
+    - about [Duane Tudahl](../../../topics/duane-tudahl/index.md), [Jerome Benton](../../../topics/jerome-benton/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Nothing Compares 2U (song)](../../../topics/song/nothing-compares-2u/index.md), [Paul Peterson](../../../topics/paul-peterson/index.md), [Sandy Scipioni](../../../topics/sandy-scipioni/index.md), [Sinéad O'Connor](../../../topics/sin-ad-o-connor/index.md), [Susan Rogers](../../../topics/susan-rogers/index.md), [Susannah Melvoin](../../../topics/susannah-melvoin/index.md), [The Family](../../../topics/the-family/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.bbc.com/news/entertainment-arts-66320163))
+
+<br />
+
+ - [**"Nothing Compares 2 U: How the song of 1990 went from Prince to Sinéad and back again"**](https://www.abc.net.au/news/2023-07-27/nothing-compares-2-u-sinead-o-connor-prince-the-family/102654218)
+    - in [www.abc.net.au](../../../publications/u-z/www-abc-net-au/index.md)
+    - on 27 July 2023
+    - about [Eden Prairie (place)](../../../topics/place/eden-prairie/index.md), [Flying Cloud Drive (place)](../../../topics/place/flying-cloud-drive/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Paisley Park Records](../../../topics/paisley-park-records/index.md), [Prince & The Revolution](../../../topics/prince-the-revolution/index.md), [Rosie Gaines](../../../topics/rosie-gaines/index.md), [Sharon Nelson](../../../topics/sharon-nelson/index.md), [Sinéad O'Connor](../../../topics/sin-ad-o-connor/index.md), [The Family](../../../topics/the-family/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.abc.net.au/news/2023-07-27/nothing-compares-2-u-sinead-o-connor-prince-the-family/102654218))
+
+<br />
+
+ - [**"Sinead O’Connor: the angelic skinhead for whom love, intelligence and madness were inseparable -- I interviewed Sinéad twice. She was supremely gifted, terrifyingly vulnerable and hilarious – even at her bleakest she’d make you laugh"**](https://www.theguardian.com/music/2023/jul/27/sinead-oconnor-mental-health-struggles-parental-abuse)
+    - in [The Guardian](../../../publications/f-j/the-guardian/index.md)
+    - on 27 July 2023
+    - about [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/music/2023/jul/27/sinead-oconnor-mental-health-struggles-parental-abuse))
+
+<br />
+
+ - [**"How Sinéad O’Connor’s ‘Nothing Compares 2 U’ changed ’90s rock — and upstaged Prince"**](https://nypost.com/2023/07/26/how-sinead-oconnors-nothing-compares-2-u-upstaged-prince-and-changed-rock/)
+    - in [New York Post](../../../publications/k-o/new-york-post/index.md)
+    - on 26 July 2023
+    - about [Chaka Khan](../../../topics/chaka-khan/index.md), [I Feel For You (song)](../../../topics/song/i-feel-for-you/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md), [The Family](../../../topics/the-family/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://nypost.com/2023/07/26/how-sinead-oconnors-nothing-compares-2-u-upstaged-prince-and-changed-rock/))
+
+<br />
+
+ - [**"Sinéad O’Connor and Prince Controversy Explained: All About the Drama Behind ‘Nothing Compares 2 U' -- Prince's estate refused rights for O'Connor's hit track to be used in her 2022 documentary, 'Nothing Compares,' named after the song"**](https://people.com/sinead-oconnor-prince-nothing-compares-2-u-drama-explained-7566098)
+    - in [People](../../../publications/p-t/people/index.md)
+    - on 26 July 2023
+    - about [memoir](../../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [Rosie Gaines](../../../topics/rosie-gaines/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Sharon Nelson](../../../topics/sharon-nelson/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md), [The Prince Estate](../../../topics/the-prince-estate/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://people.com/sinead-oconnor-prince-nothing-compares-2-u-drama-explained-7566098))
+
+<br />
+
+ - [**"Sinead O’Connor, Evocative and Outspoken Singer, Is Dead at 56 -- She broke out with the single “Nothing Compares 2 U,” then caused an uproar a few years later by ripping up a photo of Pope John Paul II on “S.N.L.”"**](https://www.nytimes.com/2023/07/26/arts/music/sinead-oconnor-dead.html)
+    - in [New York Times](../../../publications/k-o/new-york-times/index.md)
+    - on 26 July 2023
+    - about [Bob Dylan](../../../topics/bob-dylan/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [The Family](../../../topics/the-family/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.nytimes.com/2023/07/26/arts/music/sinead-oconnor-dead.html))
+
+<br />
+
+ - [**"Sinéad O’Connor, Irish Singer of ‘Nothing Compares 2 U,’ Dies at 56"**](https://variety.com/2023/music/news/sinead-oconnor-dead-nothing-compares-2-u-1235680724/)
+    - in [Variety](../../../publications/u-z/variety/index.md)
+    - on 26 July 2023
+    - about [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md), [The Family](../../../topics/the-family/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://variety.com/2023/music/news/sinead-oconnor-dead-nothing-compares-2-u-1235680724/))
+
+<br />
+
+ - [**"Sinéad O’Connor, Irish singer of ‘Nothing Compares 2 U’ and more, dead at 56, Irish media says"**](https://edition.cnn.com/2023/07/26/entertainment/sinead-oconnor-death/index.html)
+    - in [CNN International](../../../publications/a-e/cnn-international/index.md)
+    - on 26 July 2023
+    - about [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://edition.cnn.com/2023/07/26/entertainment/sinead-oconnor-death/index.html))
+
+<br />
+
+ - [**"Sinéad O'Connor Dead at 56 -- The "Nothing Compares 2 U" singer had struggled for years with her mental health, and had recently announced plans for new music and a tour"**](https://people.com/sinead-o-connor-dead-at-age-56-7565896)
+    - in [People](../../../publications/p-t/people/index.md)
+    - on 26 July 2023
+    - about [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Sinéad O'Connor](../../../topics/sin-ad-o-connor/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://people.com/sinead-o-connor-dead-at-age-56-7565896))
+
+<br />
+
+ - [**"Sinéad O'Connor obituary: A talent beyond compare"**](https://www.bbc.com/news/entertainment-arts-35031186)
+    - in [BBC News](../../../publications/a-e/bbc-news/index.md)
+    - on 26 July 2023
+    - about [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Sinéad O'Connor](../../../topics/sin-ad-o-connor/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.bbc.com/news/entertainment-arts-35031186))
+
+<br />
+
+ - [**"Sinéad O'Connor: Irish singer dies aged 56"**](https://www.bbc.com/news/entertainment-arts-66318626)
+    - in [BBC News](../../../publications/a-e/bbc-news/index.md)
+    - on 26 July 2023
+    - about [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Sinéad O'Connor](../../../topics/sin-ad-o-connor/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.bbc.com/news/entertainment-arts-66318626))
+
+<br />
+
+ - [**"The Real Meaning Behind Sinéad O'Connor's Hit Nothing Compares 2 U  Read More: https://www.thelist.com/1349960/real-meaning-behind-sinead-oconnor-hit-nothing-compares-2-u/"**](https://www.thelist.com/1349960/real-meaning-behind-sinead-oconnor-hit-nothing-compares-2-u/)
+    - in [www.thelist.com](../../../publications/u-z/www-thelist-com/index.md)
+    - on 26 July 2023
+    - about [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Paul Peterson](../../../topics/paul-peterson/index.md), [Sandy Scipioni](../../../topics/sandy-scipioni/index.md), [Sinéad O'Connor](../../../topics/sin-ad-o-connor/index.md), [St. Paul Peterson](../../../topics/st-paul-peterson/index.md), [Susan Rogers](../../../topics/susan-rogers/index.md), [Susannah Melvoin](../../../topics/susannah-melvoin/index.md), [The Family](../../../topics/the-family/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.thelist.com/1349960/real-meaning-behind-sinead-oconnor-hit-nothing-compares-2-u/))
+
+<br />
+
+ - [**"Watch Sinead O’Connor Perform a Breathtaking ‘Nothing Compares 2 U’ on Her Final Tour -- She pledged to stop performing the song in 2015, but brought it back for her final tour just a few years later"**](https://www.rollingstone.com/music/music-features/sinead-oconnor-dead-nothing-compares-2-u-final-tour-1234795622/)
+    - in [Rolling Stone](../../../publications/p-t/rolling-stone/index.md)
+    - on 26 July 2023
+    - about [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/sinead-oconnor-dead-nothing-compares-2-u-final-tour-1234795622/))
+
+<br />
+
+ - [**"What Prince Really Thought of Sinead O’Connor’s ‘Nothing Compares 2 U’ Cover"**](https://www.usmagazine.com/entertainment/news/what-prince-thought-of-sinead-oconnors-nothing-compares-2-u/)
+    - in [US Weekly](../../../publications/u-z/us-weekly/index.md)
+    - on 26 July 2023
+    - about [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Rosie Gaines](../../../topics/rosie-gaines/index.md), [Sharon Nelson](../../../topics/sharon-nelson/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.usmagazine.com/entertainment/news/what-prince-thought-of-sinead-oconnors-nothing-compares-2-u/))
+
+----
 
 ### 2023 June (1)
 
@@ -13,7 +143,17 @@
 
 ----
 
-## 2022 (1)
+## 2022 (2)
+
+### 2022 September (1)
+
+ - [**"Why Prince’s Estate Refused to Allow ‘Nothing Compares 2 U’ To Be Used in New Sinéad O’Connor Documentary -- "I didn't feel she deserved to use the song," says the icon's co-heir and half-sister Sharon Nelson."**](https://www.billboard.com/pro/prince-sinead-o-connor-documentary-nothing-compares-2-u/)
+    - in [Billboard](../../../publications/a-e/billboard/index.md)
+    - on 30 September 2022
+    - about [Alfred Jackson](../../../topics/alfred-jackson/index.md), [Charles Spicer](../../../topics/charles-spicer/index.md), [Comerica](../../../topics/comerica/index.md), [Comerica Bank & Trust](../../../topics/comerica-bank-trust/index.md), [John R. Nelson](../../../topics/john-r-nelson/index.md), [L. Londell McMillan](../../../topics/l-londell-mcmillan/index.md), [Norrine Nelson](../../../topics/norrine-nelson/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Omarr Baker](../../../topics/omarr-baker/index.md), [Primary Wave](../../../topics/primary-wave/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [Rosie Gaines](../../../topics/rosie-gaines/index.md), [Sharon Nelson](../../../topics/sharon-nelson/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md), [The Prince Estate](../../../topics/the-prince-estate/index.md), [Tyka Nelson](../../../topics/tyka-nelson/index.md), [Universal Music Publishing Group](../../../topics/universal-music-publishing-group/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/pro/prince-sinead-o-connor-documentary-nothing-compares-2-u/))
+
+----
 
 ### 2022 June (1)
 
@@ -26,7 +166,18 @@
 
 ----
 
-## 2021 (2)
+## 2021 (6)
+
+### 2021 September (1)
+
+ - [**"Bob Dylan, Prince land several tunes on Rolling Stone&#039;s list of 500 greatest songs of all time -- The Replacements, Lizzo and Eddie Cochran also placed on this updated list topped by Aretha's "Respect.""**](https://www.startribune.com/bob-dylan-prince-land-several-tunes-on-rolling-stone-s-list-of-500-greatest-songs-of-all-time/600097653/)
+    - by [Jon Bream](../../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 15 September 2021
+    - about [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/bob-dylan-prince-land-several-tunes-on-rolling-stone-s-list-of-500-greatest-songs-of-all-time/600097653/))
+
+----
 
 ### 2021 June (2)
 
@@ -47,7 +198,47 @@
 
 ----
 
-## 2020 (6)
+### 2021 May (2)
+
+ - [**"Sinéad O’Connor: ‘I’ll always be a bit crazy, but that’s OK’ -- After a life marked by abuse, fame, scandal and struggle, the Irish singer-songwriter says she never lost faith"**](https://www.theguardian.com/music/2021/may/29/sinead-oconnor-ill-always-be-a-bit-crazy-but-thats-ok-rememberings)
+    - in [The Guardian](../../../publications/f-j/the-guardian/index.md)
+    - on 29 May 2021
+    - about [Bob Dylan](../../../topics/bob-dylan/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md), [The Family](../../../topics/the-family/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/music/2021/may/29/sinead-oconnor-ill-always-be-a-bit-crazy-but-thats-ok-rememberings))
+
+<br />
+
+ - [**"Sinead O’Connor Remembers Things Differently -- The mainstream narrative is that a pop star ripped up a photo of the pope on “Saturday Night Live” and derailed her life. What if the opposite were true?"**](https://www.nytimes.com/2021/05/18/arts/music/sinead-oconnor-rememberings.html)
+    - in [New York Times](../../../publications/k-o/new-york-times/index.md)
+    - on 18 May 2021
+    - about [Bob Dylan](../../../topics/bob-dylan/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.nytimes.com/2021/05/18/arts/music/sinead-oconnor-rememberings.html))
+
+----
+
+### 2021 March (1)
+
+ - [**"At 64, Minnesota music hero Jellybean Johnson makes his solo guitar debut -- Thanks to the pandemic, the drummer for the Time got a chance to finish something he's wanted to do for a long time."**](https://www.startribune.com/at-64-minnesota-music-hero-jellybean-johnson-makes-his-solo-guitar-debut/600035752/)
+    - by [Jon Bream](../../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 19 March 2021
+    - about [Jam and Lewis](../../../topics/jam-and-lewis/index.md), [Jellybean Johnson](../../../topics/jellybean-johnson/index.md), [Jimmy Jam](../../../topics/jimmy-jam/index.md), [Morris Day](../../../topics/morris-day/index.md), [Morris Day & The Time](../../../topics/morris-day-the-time/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Terry Lewis](../../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/at-64-minnesota-music-hero-jellybean-johnson-makes-his-solo-guitar-debut/600035752/))
+
+----
+
+## 2020 (7)
+
+### 2020 April (1)
+
+ - [**"Tuesday&#039;s all-star Grammy salute proves &#039;Prince does music better than anybody&#039; -- CBS salutes Prince on the fourth anniversary of his death."**](https://www.startribune.com/tuesday-s-all-star-grammy-salute-proves-prince-does-music-better-than-anybody/569794772/)
+    - by [Jon Bream](../../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 21 April 2020
+    - about [Jimmy Jam](../../../topics/jimmy-jam/index.md), [Morris Day](../../../topics/morris-day/index.md), [Morris Day & The Time](../../../topics/morris-day-the-time/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Super Bowl](../../../topics/super-bowl/index.md), [Terry Lewis](../../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/tuesday-s-all-star-grammy-salute-proves-prince-does-music-better-than-anybody/569794772/))
+
+----
 
 ### 2020 February (2)
 
@@ -73,7 +264,7 @@
     - by [Jem Aswad](../../../authors/jem-aswad/index.md)
     - in [Yahoo! Entertainment](../../../publications/u-z/yahoo-entertainment/index.md)
     - on 30 January 2020
-    - about [1999 (song)](../../../topics/song/1999/index.md), [Baby I’m a Star (song)](../../../topics/song/baby-i-m-a-star/index.md), [Bangles](../../../topics/bangles/index.md), [Beck](../../../topics/beck/index.md), [Chris Martin](../../../topics/chris-martin/index.md), [Coldplay](../../../topics/coldplay/index.md), [Controversy (song)](../../../topics/song/controversy/index.md), [D’Angelo](../../../topics/d-angelo/index.md), [Darling Nikki (song)](../../../topics/song/darling-nikki/index.md), [Diamonds and Pearls (song)](../../../topics/song/diamonds-and-pearls/index.md), [Earth, Wind & Fire](../../../topics/earth-wind-fire/index.md), [Foo Fighters](../../../topics/foo-fighters/index.md), [Fred Armisen](../../../topics/fred-armisen/index.md), [Gary Clark Jr.](../../../topics/gary-clark-jr/index.md), [Gretchen Lieberum](../../../topics/gretchen-lieberum/index.md), [H.E.R.](../../../topics/h-e-r/index.md), [Janelle Monae](../../../topics/janelle-monae/index.md), [Jerome Benton](../../../topics/jerome-benton/index.md), [Jimmy Jam](../../../topics/jimmy-jam/index.md), [John Legend](../../../topics/john-legend/index.md), [Juanes](../../../topics/juanes/index.md), [Jungle Love (song)](../../../topics/song/jungle-love/index.md), [Ken Ehrlich](../../../topics/ken-ehrlich/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Lisa Coleman](../../../topics/lisa-coleman/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Mavis Staples](../../../topics/mavis-staples/index.md), [Maya Rudolph](../../../topics/maya-rudolph/index.md), [Misty Copeland](../../../topics/misty-copeland/index.md), [Morris Day](../../../topics/morris-day/index.md), [Mountains (song)](../../../topics/song/mountains/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Pop Life (song)](../../../topics/song/pop-life/index.md), [PRINCEss](../../../topics/princess/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Raspberry Beret (song)](../../../topics/song/raspberry-beret/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [St. Vincent](../../../topics/st-vincent/index.md), [Stevie Wonder](../../../topics/stevie-wonder/index.md), [Super Bowl](../../../topics/super-bowl/index.md), [Terry Lewis](../../../topics/terry-lewis/index.md), [The Beautiful Ones (song)](../../../topics/song/the-beautiful-ones/index.md), [The Bird (song)](../../../topics/song/the-bird/index.md), [The Glamorous Life (song)](../../../topics/song/the-glamorous-life/index.md), [The Revolution](../../../topics/the-revolution/index.md), [The Time](../../../topics/the-time/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md)
+    - about [1999 (song)](../../../topics/song/1999/index.md), [Baby I’m a Star (song)](../../../topics/song/baby-i-m-a-star/index.md), [Bangles](../../../topics/bangles/index.md), [Beck](../../../topics/beck/index.md), [Chris Martin](../../../topics/chris-martin/index.md), [Coldplay](../../../topics/coldplay/index.md), [Controversy (song)](../../../topics/song/controversy/index.md), [D’Angelo](../../../topics/d-angelo/index.md), [Darling Nikki (song)](../../../topics/song/darling-nikki/index.md), [Diamonds and Pearls (song)](../../../topics/song/diamonds-and-pearls/index.md), [Earth, Wind & Fire](../../../topics/earth-wind-fire/index.md), [Foo Fighters](../../../topics/foo-fighters/index.md), [Fred Armisen](../../../topics/fred-armisen/index.md), [Gary Clark Jr.](../../../topics/gary-clark-jr/index.md), [Gretchen Lieberum](../../../topics/gretchen-lieberum/index.md), [H.E.R.](../../../topics/h-e-r/index.md), [Janelle Monae](../../../topics/janelle-monae/index.md), [Jerome Benton](../../../topics/jerome-benton/index.md), [Jimmy Jam](../../../topics/jimmy-jam/index.md), [John Legend](../../../topics/john-legend/index.md), [Juanes](../../../topics/juanes/index.md), [Jungle Love (song)](../../../topics/song/jungle-love/index.md), [Ken Ehrlich](../../../topics/ken-ehrlich/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Lisa Coleman](../../../topics/lisa-coleman/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Mavis Staples](../../../topics/mavis-staples/index.md), [Maya Rudolph](../../../topics/maya-rudolph/index.md), [Misty Copeland](../../../topics/misty-copeland/index.md), [Morris Day](../../../topics/morris-day/index.md), [Mountains (song)](../../../topics/song/mountains/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Nothing Compares 2U (song)](../../../topics/song/nothing-compares-2u/index.md), [Pop Life (song)](../../../topics/song/pop-life/index.md), [PRINCEss](../../../topics/princess/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Raspberry Beret (song)](../../../topics/song/raspberry-beret/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [St. Vincent](../../../topics/st-vincent/index.md), [Stevie Wonder](../../../topics/stevie-wonder/index.md), [Super Bowl](../../../topics/super-bowl/index.md), [Terry Lewis](../../../topics/terry-lewis/index.md), [The Beautiful Ones (song)](../../../topics/song/the-beautiful-ones/index.md), [The Bird (song)](../../../topics/song/the-bird/index.md), [The Glamorous Life (song)](../../../topics/song/the-glamorous-life/index.md), [The Revolution](../../../topics/the-revolution/index.md), [The Time](../../../topics/the-time/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.yahoo.com/entertainment/foo-fighters-beck-h-e-233930375.html))
 
 <br />
@@ -97,12 +288,12 @@
  - [**"Foo Fighters, Beck, H.E.R., Sheila E. Light Up ‘Grammy Salute to Prince’ Concert"**](https://variety.com/2020/music/news/prince-tribute-concert-foo-fighters-her-beck-1203485036/)
     - in [Variety](../../../publications/u-z/variety/index.md)
     - on 29 January 2020
-    - about [1999 (song)](../../../topics/song/1999/index.md), [Baby I’m a Star (song)](../../../topics/song/baby-i-m-a-star/index.md), [Bangles](../../../topics/bangles/index.md), [Beck](../../../topics/beck/index.md), [bootleg](../../../topics/bootleg/index.md), [Chris Martin](../../../topics/chris-martin/index.md), [Coldplay](../../../topics/coldplay/index.md), [Controversy (song)](../../../topics/song/controversy/index.md), [D’Angelo](../../../topics/d-angelo/index.md), [Darling Nikki (song)](../../../topics/song/darling-nikki/index.md), [Diamonds and Pearls (song)](../../../topics/song/diamonds-and-pearls/index.md), [Earth, Wind & Fire](../../../topics/earth-wind-fire/index.md), [Foo Fighters](../../../topics/foo-fighters/index.md), [Fred Armisen](../../../topics/fred-armisen/index.md), [Gary Clark Jr.](../../../topics/gary-clark-jr/index.md), [Gretchen Lieberum](../../../topics/gretchen-lieberum/index.md), [H.E.R.](../../../topics/h-e-r/index.md), [Janelle Monae](../../../topics/janelle-monae/index.md), [Jerome Benton](../../../topics/jerome-benton/index.md), [Jimmy Jam](../../../topics/jimmy-jam/index.md), [John Legend](../../../topics/john-legend/index.md), [Juanes](../../../topics/juanes/index.md), [Jungle Love (song)](../../../topics/song/jungle-love/index.md), [Ken Ehrlich](../../../topics/ken-ehrlich/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Lisa Coleman](../../../topics/lisa-coleman/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Mavis Staples](../../../topics/mavis-staples/index.md), [Maya Rudolph](../../../topics/maya-rudolph/index.md), [Misty Copeland](../../../topics/misty-copeland/index.md), [Morris Day](../../../topics/morris-day/index.md), [Mountains (song)](../../../topics/song/mountains/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Pop Life (song)](../../../topics/song/pop-life/index.md), [PRINCEss](../../../topics/princess/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Raspberry Beret (song)](../../../topics/song/raspberry-beret/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [St. Vincent](../../../topics/st-vincent/index.md), [Stevie Wonder](../../../topics/stevie-wonder/index.md), [Super Bowl](../../../topics/super-bowl/index.md), [Terry Lewis](../../../topics/terry-lewis/index.md), [The Beautiful Ones (song)](../../../topics/song/the-beautiful-ones/index.md), [The Bird (song)](../../../topics/song/the-bird/index.md), [The Glamorous Life (song)](../../../topics/song/the-glamorous-life/index.md), [The Revolution](../../../topics/the-revolution/index.md), [The Time](../../../topics/the-time/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md)
+    - about [1999 (song)](../../../topics/song/1999/index.md), [Baby I’m a Star (song)](../../../topics/song/baby-i-m-a-star/index.md), [Bangles](../../../topics/bangles/index.md), [Beck](../../../topics/beck/index.md), [bootleg](../../../topics/bootleg/index.md), [Chris Martin](../../../topics/chris-martin/index.md), [Coldplay](../../../topics/coldplay/index.md), [Controversy (song)](../../../topics/song/controversy/index.md), [D’Angelo](../../../topics/d-angelo/index.md), [Darling Nikki (song)](../../../topics/song/darling-nikki/index.md), [Diamonds and Pearls (song)](../../../topics/song/diamonds-and-pearls/index.md), [Earth, Wind & Fire](../../../topics/earth-wind-fire/index.md), [Foo Fighters](../../../topics/foo-fighters/index.md), [Fred Armisen](../../../topics/fred-armisen/index.md), [Gary Clark Jr.](../../../topics/gary-clark-jr/index.md), [Gretchen Lieberum](../../../topics/gretchen-lieberum/index.md), [H.E.R.](../../../topics/h-e-r/index.md), [Janelle Monae](../../../topics/janelle-monae/index.md), [Jerome Benton](../../../topics/jerome-benton/index.md), [Jimmy Jam](../../../topics/jimmy-jam/index.md), [John Legend](../../../topics/john-legend/index.md), [Juanes](../../../topics/juanes/index.md), [Jungle Love (song)](../../../topics/song/jungle-love/index.md), [Ken Ehrlich](../../../topics/ken-ehrlich/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Lisa Coleman](../../../topics/lisa-coleman/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Mavis Staples](../../../topics/mavis-staples/index.md), [Maya Rudolph](../../../topics/maya-rudolph/index.md), [Misty Copeland](../../../topics/misty-copeland/index.md), [Morris Day](../../../topics/morris-day/index.md), [Mountains (song)](../../../topics/song/mountains/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Nothing Compares 2U (song)](../../../topics/song/nothing-compares-2u/index.md), [Pop Life (song)](../../../topics/song/pop-life/index.md), [PRINCEss](../../../topics/princess/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Raspberry Beret (song)](../../../topics/song/raspberry-beret/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [St. Vincent](../../../topics/st-vincent/index.md), [Stevie Wonder](../../../topics/stevie-wonder/index.md), [Super Bowl](../../../topics/super-bowl/index.md), [Terry Lewis](../../../topics/terry-lewis/index.md), [The Beautiful Ones (song)](../../../topics/song/the-beautiful-ones/index.md), [The Bird (song)](../../../topics/song/the-bird/index.md), [The Glamorous Life (song)](../../../topics/song/the-glamorous-life/index.md), [The Revolution](../../../topics/the-revolution/index.md), [The Time](../../../topics/the-time/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md)
     - ([mirror](https://web.archive.org/web/*/https://variety.com/2020/music/news/prince-tribute-concert-foo-fighters-her-beck-1203485036/))
 
 ----
 
-## 2019 (29)
+## 2019 (44)
 
 ### 2019 December (1)
 
@@ -114,13 +305,21 @@
 
 ----
 
-### 2019 November (1)
+### 2019 November (2)
 
  - [**"The afterlife of Prince, in words and music"**](https://www.inquirer.com/entertainment/prince-1999-beautiful-ones-music-book-tom-petty-david-bowie-20191115.html)
     - in [inquirer.com](../../../publications/f-j/inquirer-com/index.md)
     - on 15 November 2019
-    - about [bootleg](../../../topics/bootleg/index.md), [Chaka Khan](../../../topics/chaka-khan/index.md), [Dan Piepenbring](../../../topics/dan-piepenbring/index.md), [memoir](../../../topics/memoir/index.md), [museum](../../../topics/museum/index.md), [New Power Generation](../../../topics/new-power-generation/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [Spiegel & Grau](../../../topics/spiegel-grau/index.md), [Spike Lee](../../../topics/spike-lee/index.md), [The Beautiful Ones (book)](../../../topics/book/the-beautiful-ones/index.md), [Vagina (song)](../../../topics/song/vagina/index.md), [Vanity](../../../topics/vanity/index.md), [Vanity 6](../../../topics/vanity-6/index.md), [vault](../../../topics/vault/index.md)
+    - about [bootleg](../../../topics/bootleg/index.md), [Chaka Khan](../../../topics/chaka-khan/index.md), [Dan Piepenbring](../../../topics/dan-piepenbring/index.md), [I Feel For You (song)](../../../topics/song/i-feel-for-you/index.md), [memoir](../../../topics/memoir/index.md), [museum](../../../topics/museum/index.md), [New Power Generation](../../../topics/new-power-generation/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [Spiegel & Grau](../../../topics/spiegel-grau/index.md), [Spike Lee](../../../topics/spike-lee/index.md), [The Beautiful Ones (book)](../../../topics/book/the-beautiful-ones/index.md), [Vagina (song)](../../../topics/song/vagina/index.md), [Vanity](../../../topics/vanity/index.md), [Vanity 6](../../../topics/vanity-6/index.md), [vault](../../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.inquirer.com/entertainment/prince-1999-beautiful-ones-music-book-tom-petty-david-bowie-20191115.html))
+
+<br />
+
+ - [**"The Beautiful Ones: Memoir offers a fragmentary snapshot of the life of Prince"**](https://www.independent.ie/entertainment/music/the-beautiful-ones-memoir-offers-a-fragmentary-snapshot-of-the-life-of-prince-38650373.html)
+    - in [independent.ie](../../../publications/f-j/independent-ie/index.md)
+    - on 2 November 2019
+    - about [Dan Piepenbring](../../../topics/dan-piepenbring/index.md), [memoir](../../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Sinéad O'Connor](../../../topics/sin-ad-o-connor/index.md), [The Beautiful Ones (book)](../../../topics/book/the-beautiful-ones/index.md), [The Paris Review (magazine)](../../../topics/magazine/the-paris-review/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.independent.ie/entertainment/music/the-beautiful-ones-memoir-offers-a-fragmentary-snapshot-of-the-life-of-prince-38650373.html))
 
 ----
 
@@ -134,17 +333,25 @@
 
 ----
 
-### 2019 September (1)
+### 2019 September (2)
 
  - [**"'HE TRIED TO PUNCH ME' Sinead O’Connor accuses Prince of trying to beat her up when he was on ‘dark’ drugs"**](https://www.thesun.co.uk/tvandshowbiz/9936189/sinead-oconnor-accuses-prince-attack/)
     - in [The Sun](../../../publications/p-t/the-sun/index.md)
     - on 16 September 2019
-    - about [fentanyl](../../../topics/fentanyl/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md)
+    - about [fentanyl](../../../topics/fentanyl/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Nothing Compares 2U (song)](../../../topics/song/nothing-compares-2u/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [Sinead O'Connor](../../../topics/sinead-o-connor/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.thesun.co.uk/tvandshowbiz/9936189/sinead-oconnor-accuses-prince-attack/))
+
+<br />
+
+ - [**"Watch Prince Celebrate Pop Apocalypse With Previously Unreleased ‘1999’ Live Clip -- DVD of full 1982 concert in Houston, Texas will appear on upcoming 1999 deluxe reissue"**](https://www.rollingstone.com/music/music-news/prince-1999-live-houston-1982-883499/)
+    - in [Rolling Stone](../../../publications/p-t/rolling-stone/index.md)
+    - on 12 September 2019
+    - about [1999 (album)](../../../topics/album/1999/index.md), [1999 (song)](../../../topics/song/1999/index.md), [1999 Deluxe (album)](../../../topics/album/1999-deluxe/index.md), [Allen Beaulieu](../../../topics/allen-beaulieu/index.md), [Brown Mark](../../../topics/brown-mark/index.md), [David Fricke](../../../topics/david-fricke/index.md), [Dez Dickerson](../../../topics/dez-dickerson/index.md), [Duff McKagan](../../../topics/duff-mckagan/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-news/prince-1999-live-houston-1982-883499/))
 
 ----
 
-### 2019 July (3)
+### 2019 July (7)
 
  - [**"Fan-favourite ‘lost’ Prince song ‘Holly Rock’ is released as a single, with a brand-new video"**](https://www.nme.com/news/music/listen-new-prince-single-holly-rock-new-video-2532592)
     - by [Elizabeth Aubrey](../../../authors/elizabeth-aubrey/index.md)
@@ -155,11 +362,27 @@
 
 <br />
 
+ - [**"New Single From Prince Released Off His Originals Album (Listen) -- The basic tracking for “Holly Rock” took place at Sunset Sound studios in Los Angeles at the end of April 1985"**](https://bassmagazine.com/artists/new-single-from-prince-released-off-his-originals-album)
+    - in [Bass Magazine](../../../publications/a-e/bass-magazine/index.md)
+    - on 25 July 2019
+    - about [Electric Light Studios](../../../topics/electric-light-studios/index.md), [Holly Rock (song)](../../../topics/song/holly-rock/index.md), [Jill Jones](../../../topics/jill-jones/index.md), [Krush Groove (movie)](../../../topics/movie/krush-groove/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [Sunset Sound (place)](../../../topics/place/sunset-sound/index.md), [The Prince Estate](../../../topics/the-prince-estate/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://bassmagazine.com/artists/new-single-from-prince-released-off-his-originals-album))
+
+<br />
+
+ - [**"This week’s biggest vinyl releases to buy and pre-order: Bon Iver, Thom Yorke, Prince and more"**](https://www.nme.com/blogs/biggest-vinyl-releases-this-week-2527518)
+    - in [NME (New Musical Express)](../../../publications/k-o/nme-new-musical-express/index.md)
+    - on 19 July 2019
+    - about [Bangles](../../../topics/bangles/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Originals (album review)](../../../topics/album-review/originals/index.md), [Originals (album)](../../../topics/album/originals/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.nme.com/blogs/biggest-vinyl-releases-this-week-2527518))
+
+<br />
+
  - [**"The Family’s Paul Peterson returns with a pair of new solo songs that sound a lot like Prince"**](https://www.twincities.com/2019/07/18/the-familys-paul-peterson-returns-with-a-pair-of-new-solo-songs-that-sound-a-lot-like-prince/)
     - by [Ross Raihala](../../../authors/ross-raihala/index.md)
     - in [TwinCities.com - Pioneer Press](../../../publications/p-t/twincities-com-pioneer-press/index.md)
     - on 18 July 2019
-    - about [Alan Leeds](../../../topics/alan-leeds/index.md), [Eric Leeds](../../../topics/eric-leeds/index.md), [fDeluxe](../../../topics/fdeluxe/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Jellybean Johnson](../../../topics/jellybean-johnson/index.md), [Jerome Benton](../../../topics/jerome-benton/index.md), [Jimmy Jam](../../../topics/jimmy-jam/index.md), [Monte Moir](../../../topics/monte-moir/index.md), [Nothing Compares 2 Prince](../../../topics/nothing-compares-2-prince/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Paul Peterson](../../../topics/paul-peterson/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md), [St. Paul and the Minneapolis Funk All-Stars](../../../topics/st-paul-and-the-minneapolis-funk-all-stars/index.md), [Susannah Melvoin](../../../topics/susannah-melvoin/index.md), [Terry Lewis](../../../topics/terry-lewis/index.md), [The Family](../../../topics/the-family/index.md), [The Time](../../../topics/the-time/index.md), [Tyka Nelson](../../../topics/tyka-nelson/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md)
+    - about [Alan Leeds](../../../topics/alan-leeds/index.md), [Eric Leeds](../../../topics/eric-leeds/index.md), [fDeluxe](../../../topics/fdeluxe/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Jellybean Johnson](../../../topics/jellybean-johnson/index.md), [Jerome Benton](../../../topics/jerome-benton/index.md), [Jimmy Jam](../../../topics/jimmy-jam/index.md), [Monte Moir](../../../topics/monte-moir/index.md), [Nothing Compares 2 Prince](../../../topics/nothing-compares-2-prince/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Paul Peterson](../../../topics/paul-peterson/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [St. Paul and the Minneapolis Funk All-Stars](../../../topics/st-paul-and-the-minneapolis-funk-all-stars/index.md), [Susannah Melvoin](../../../topics/susannah-melvoin/index.md), [Terry Lewis](../../../topics/terry-lewis/index.md), [The Family](../../../topics/the-family/index.md), [The Time](../../../topics/the-time/index.md), [Tyka Nelson](../../../topics/tyka-nelson/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2019/07/18/the-familys-paul-peterson-returns-with-a-pair-of-new-solo-songs-that-sound-a-lot-like-prince/))
 
 <br />
@@ -168,12 +391,30 @@
     - by [Serge Simonart](../../../authors/serge-simonart/index.md)
     - in [Humo](../../../publications/f-j/humo/index.md)
     - on 8 July 2019
-    - about [contract](../../../topics/contract/index.md), [Cynthia Rose](../../../topics/cynthia-rose/index.md), [Michael Howe](../../../topics/michael-howe/index.md), [Mo Ostin](../../../topics/mo-ostin/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Starfish And Coffee (song)](../../../topics/song/starfish-and-coffee/index.md), [Susannah Melvoin](../../../topics/susannah-melvoin/index.md), [The Family](../../../topics/the-family/index.md)
+    - about [contract](../../../topics/contract/index.md), [Cynthia Rose](../../../topics/cynthia-rose/index.md), [Michael Howe](../../../topics/michael-howe/index.md), [Mo Ostin](../../../topics/mo-ostin/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md), [Starfish And Coffee (song)](../../../topics/song/starfish-and-coffee/index.md), [Susannah Melvoin](../../../topics/susannah-melvoin/index.md), [The Family](../../../topics/the-family/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.humo.be/humo-archief/403403/prince-humo-sprak-met-zijn-manager-en-muze-wij-hadden-een-heerlijk-seksleven-maar-als-er-een-song-in-zn-hoofd-opdook-moest-ik-wijken))
+
+<br />
+
+ - [**"Dylan’s Rolling Thunder Revue, unreleased Prince"**](https://knox.villagesoup.com/p/dylans-rolling-thunder-revue-unreleased-prince/1822785)
+    - by [Tom Von Malder](../../../authors/tom-von-malder/index.md)
+    - in [Courier-Gazette & Camden Herald](../../../publications/a-e/courier-gazette-camden-herald/index.md)
+    - on 7 July 2019
+    - about [Apollonia 6](../../../topics/apollonia-6/index.md), [Bangles](../../../topics/bangles/index.md), [Jill Jones](../../../topics/jill-jones/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Originals (album review)](../../../topics/album-review/originals/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://knox.villagesoup.com/p/dylans-rolling-thunder-revue-unreleased-prince/1822785))
+
+<br />
+
+ - [**"Exclusive: Universal Fast Tracking Movie with Prince’s Songs Now That Beatles Movie “Yesterday” is A Hit, “Rocketman” Still Soaring"**](https://www.showbiz411.com/2019/07/02/exclusive-universal-fast-tracking-movie-with-princes-songs-now-that-beatles-movie-yesterday-is-a-hit-rocketman-still-soaring)
+    - by [Roger Friedman](../../../authors/roger-friedman/index.md)
+    - in [Showbiz411](../../../publications/p-t/showbiz411/index.md)
+    - on 2 July 2019
+    - about [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Purple Rain (movie)](../../../topics/movie/purple-rain/index.md), [Universal Pictures](../../../topics/universal-pictures/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.showbiz411.com/2019/07/02/exclusive-universal-fast-tracking-movie-with-princes-songs-now-that-beatles-movie-yesterday-is-a-hit-rocketman-still-soaring))
 
 ----
 
-### 2019 June (17)
+### 2019 June (24)
 
  - [**"Interview: Prince’s vault archivist, Michael Howe, talks to SDE"**](https://www.superdeluxeedition.com/interview/princes-archivist-michael-howe-talks-to-sde/)
     - by [Paul Sinclair](../../../authors/paul-sinclair/index.md)
@@ -187,8 +428,25 @@
  - [**"Prince Collaborators Share Stories About the Songs He Gave to Others on 'Originals'"**](https://www.billboard.com/articles/news/8517755/prince-collaborators-originals)
     - in [Billboard](../../../publications/a-e/billboard/index.md)
     - on 26 June 2019
-    - about [Andy Warhol](../../../topics/andy-warhol/index.md), [Bangles](../../../topics/bangles/index.md), [Jill Jones](../../../topics/jill-jones/index.md), [Kenny Rogers](../../../topics/kenny-rogers/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Martika](../../../topics/martika/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Peggy McCreary](../../../topics/peggy-mccreary/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [Sunset Sound (place)](../../../topics/place/sunset-sound/index.md), [Susanna Hoffs](../../../topics/susanna-hoffs/index.md), [Susannah Melvoin](../../../topics/susannah-melvoin/index.md), [The Family](../../../topics/the-family/index.md), [The Revolution](../../../topics/the-revolution/index.md), [The Time](../../../topics/the-time/index.md)
+    - about [Andy Warhol](../../../topics/andy-warhol/index.md), [Bangles](../../../topics/bangles/index.md), [Jill Jones](../../../topics/jill-jones/index.md), [Kenny Rogers](../../../topics/kenny-rogers/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Martika](../../../topics/martika/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Peggy McCreary](../../../topics/peggy-mccreary/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [Sinead O'Connor](../../../topics/sinead-o-connor/index.md), [Sunset Sound (place)](../../../topics/place/sunset-sound/index.md), [Susanna Hoffs](../../../topics/susanna-hoffs/index.md), [Susannah Melvoin](../../../topics/susannah-melvoin/index.md), [The Family](../../../topics/the-family/index.md), [The Revolution](../../../topics/the-revolution/index.md), [The Time](../../../topics/the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8517755/prince-collaborators-originals))
+
+<br />
+
+ - [**"Prince's 'Originals' Album: Comparing Each Demo With Its Well-Known Cover Version"**](https://www.billboard.com/articles/news/8517576/prince-originals-album-covers)
+    - in [Billboard](../../../publications/a-e/billboard/index.md)
+    - on 25 June 2019
+    - about [Alan Light](../../../topics/alan-light/index.md), [Apollonia 6](../../../topics/apollonia-6/index.md), [Bangles](../../../topics/bangles/index.md), [BrownMark](../../../topics/brownmark/index.md), [Chaka Khan](../../../topics/chaka-khan/index.md), [Coachella (event)](../../../topics/event/coachella/index.md), [Jill Jones](../../../topics/jill-jones/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Morris Day](../../../topics/morris-day/index.md), [Nile Rodgers](../../../topics/nile-rodgers/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Romance 1600 (album)](../../../topics/album/romance-1600/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md), [Sinéad O'Connor](../../../topics/sin-ad-o-connor/index.md), [Super Bowl](../../../topics/super-bowl/index.md), [Super Bowl XLI (event)](../../../topics/event/super-bowl-xli/index.md), [Susanna Hoffs](../../../topics/susanna-hoffs/index.md), [The Revolution](../../../topics/the-revolution/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8517576/prince-originals-album-covers))
+
+<br />
+
+ - [**"Album Review: Prince – “Originals”"**](https://www.theyoungfolks.com/review/133972/album-review-prince-originals/)
+    - by [Jon Winkler](../../../authors/jon-winkler/index.md)
+    - in [The Young Folks](../../../publications/u-z/the-young-folks/index.md)
+    - on 24 June 2019
+    - about [Apollonia 6](../../../topics/apollonia-6/index.md), [Bangles](../../../topics/bangles/index.md), [Jill Jones](../../../topics/jill-jones/index.md), [Morris Day](../../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Originals (album review)](../../../topics/album-review/originals/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Piano & A Microphone 1983 (album)](../../../topics/album/piano-a-microphone-1983/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.theyoungfolks.com/review/133972/album-review-prince-originals/))
 
 <br />
 
@@ -196,7 +454,7 @@
     - by [Martin Talbot](../../../authors/martin-talbot/index.md)
     - in [Official Charts](../../../publications/k-o/official-charts/index.md)
     - on 24 June 2019
-    - about [Aretha Franklin](../../../topics/aretha-franklin/index.md), [Bangles](../../../topics/bangles/index.md), [Crystal Ball (album)](../../../topics/album/crystal-ball/index.md), [Cynthia Rose](../../../topics/cynthia-rose/index.md), [David Geffen](../../../topics/david-geffen/index.md), [Dream Factory (album)](../../../topics/album/dream-factory/index.md), [Jill Jones](../../../topics/jill-jones/index.md), [Kenny Rogers](../../../topics/kenny-rogers/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Martika](../../../topics/martika/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Quincy Jones](../../../topics/quincy-jones/index.md), [Sunset Sound (place)](../../../topics/place/sunset-sound/index.md), [Susannah Melvoin](../../../topics/susannah-melvoin/index.md), [The Black Album (album)](../../../topics/album/the-black-album/index.md), [The Family](../../../topics/the-family/index.md), [vault](../../../topics/vault/index.md), [Wally (song)](../../../topics/song/wally/index.md), [Wendy & Lisa](../../../topics/wendy-lisa/index.md)
+    - about [Aretha Franklin](../../../topics/aretha-franklin/index.md), [Bangles](../../../topics/bangles/index.md), [Crystal Ball (album)](../../../topics/album/crystal-ball/index.md), [Cynthia Rose](../../../topics/cynthia-rose/index.md), [David Geffen](../../../topics/david-geffen/index.md), [Dream Factory (album)](../../../topics/album/dream-factory/index.md), [Jill Jones](../../../topics/jill-jones/index.md), [Kenny Rogers](../../../topics/kenny-rogers/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Martika](../../../topics/martika/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Quincy Jones](../../../topics/quincy-jones/index.md), [Sandy Scipioni](../../../topics/sandy-scipioni/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [Sunset Sound (place)](../../../topics/place/sunset-sound/index.md), [Susannah Melvoin](../../../topics/susannah-melvoin/index.md), [The Black Album (album)](../../../topics/album/the-black-album/index.md), [The Family](../../../topics/the-family/index.md), [vault](../../../topics/vault/index.md), [Wally (song)](../../../topics/song/wally/index.md), [Wendy & Lisa](../../../topics/wendy-lisa/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.officialcharts.com/chart-news/prince-originals-exclusive-interview-with-muse-and-collaborator-susannah-melvoin__26670/))
 
 <br />
@@ -205,7 +463,7 @@
     - by [Kory Grow](../../../authors/kory-grow/index.md)
     - in [Rolling Stone](../../../publications/p-t/rolling-stone/index.md)
     - on 24 June 2019
-    - about [Apollonia 6](../../../topics/apollonia-6/index.md), [Apollonia Kotero](../../../topics/apollonia-kotero/index.md), [Bangles](../../../topics/bangles/index.md), [contract](../../../topics/contract/index.md), [fentanyl overdose](../../../topics/fentanyl-overdose/index.md), [George Clinton](../../../topics/george-clinton/index.md), [Jill Jones](../../../topics/jill-jones/index.md), [Jungle Love (song)](../../../topics/song/jungle-love/index.md), [Kenny Rogers](../../../topics/kenny-rogers/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Martika](../../../topics/martika/index.md), [Mazarati](../../../topics/mazarati/index.md), [Nasty Girl (song)](../../../topics/song/nasty-girl/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Peggy McCreary](../../../topics/peggy-mccreary/index.md), [perfume](../../../topics/perfume/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [Sex Shooter (song)](../../../topics/song/sex-shooter/index.md), [Sheena Easton](../../../topics/sheena-easton/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [Sugar Walls (song)](../../../topics/song/sugar-walls/index.md), [Sunset Sound (place)](../../../topics/place/sunset-sound/index.md), [Susan Rogers](../../../topics/susan-rogers/index.md), [Susanna Hoffs](../../../topics/susanna-hoffs/index.md), [Susannah Melvoin](../../../topics/susannah-melvoin/index.md), [Tevin Campbell](../../../topics/tevin-campbell/index.md), [The Family](../../../topics/the-family/index.md), [The Prince Estate](../../../topics/the-prince-estate/index.md), [The Time](../../../topics/the-time/index.md), [Troy Carter](../../../topics/troy-carter/index.md), [Vanity 6](../../../topics/vanity-6/index.md), [vault](../../../topics/vault/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
+    - about [Apollonia 6](../../../topics/apollonia-6/index.md), [Apollonia Kotero](../../../topics/apollonia-kotero/index.md), [Bangles](../../../topics/bangles/index.md), [contract](../../../topics/contract/index.md), [fentanyl overdose](../../../topics/fentanyl-overdose/index.md), [George Clinton](../../../topics/george-clinton/index.md), [Jill Jones](../../../topics/jill-jones/index.md), [Jungle Love (song)](../../../topics/song/jungle-love/index.md), [Kenny Rogers](../../../topics/kenny-rogers/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Martika](../../../topics/martika/index.md), [Mazarati](../../../topics/mazarati/index.md), [Nasty Girl (song)](../../../topics/song/nasty-girl/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Paula Abdul](../../../topics/paula-abdul/index.md), [Peggy McCreary](../../../topics/peggy-mccreary/index.md), [perfume](../../../topics/perfume/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [Sandy Scipioni](../../../topics/sandy-scipioni/index.md), [Sex Shooter (song)](../../../topics/song/sex-shooter/index.md), [Sheena Easton](../../../topics/sheena-easton/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md), [Sugar Walls (song)](../../../topics/song/sugar-walls/index.md), [Sunset Sound (place)](../../../topics/place/sunset-sound/index.md), [Susan Rogers](../../../topics/susan-rogers/index.md), [Susanna Hoffs](../../../topics/susanna-hoffs/index.md), [Susannah Melvoin](../../../topics/susannah-melvoin/index.md), [Tevin Campbell](../../../topics/tevin-campbell/index.md), [The Family](../../../topics/the-family/index.md), [The Prince Estate](../../../topics/the-prince-estate/index.md), [The Time](../../../topics/the-time/index.md), [Troy Carter](../../../topics/troy-carter/index.md), [Vanity 6](../../../topics/vanity-6/index.md), [vault](../../../topics/vault/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/prince-originals-interview-842940/))
 
 <br />
@@ -218,6 +476,15 @@
 
 <br />
 
+ - [**"New record delves into Prince’s archive of tunes he gave to others"**](https://www.outinperth.com/new-record-delves-into-princes-archive-of-tunes-he-gave-to-others/)
+    - by [Graeme Watson](../../../authors/graeme-watson/index.md)
+    - in [OUT In Perth](../../../publications/k-o/out-in-perth/index.md)
+    - on 23 June 2019
+    - about [Apollonia 6](../../../topics/apollonia-6/index.md), [Bangles](../../../topics/bangles/index.md), [Jill Jones](../../../topics/jill-jones/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Originals (album review)](../../../topics/album-review/originals/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Paula Abdul](../../../topics/paula-abdul/index.md), [Purple Music (song)](../../../topics/song/purple-music/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [Susanna Hoffs](../../../topics/susanna-hoffs/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.outinperth.com/new-record-delves-into-princes-archive-of-tunes-he-gave-to-others/))
+
+<br />
+
  - [**"Album Review: Prince’s ‘Originals’"**](https://variety.com/2019/music/reviews/album-review-princes-originals-1203249946/)
     - by [Jem Aswad](../../../authors/jem-aswad/index.md)
     - in [Variety](../../../publications/u-z/variety/index.md)
@@ -227,18 +494,42 @@
 
 <br />
 
+ - [**"Another Treasure Trove Emerges from Prince's Vaults with 'Originals' -- A collection of 15 highly enjoyable demos of songs written for other artists is another reminder – as if we needed one – of why we love Prince Rogers Nelson."**](https://www.popmatters.com/prince-originals-review-2638918026.html)
+    - in [PopMatters](../../../publications/p-t/popmatters/index.md)
+    - on 21 June 2019
+    - about [Apollonia 6](../../../topics/apollonia-6/index.md), [Bangles](../../../topics/bangles/index.md), [Jill Jones](../../../topics/jill-jones/index.md), [Morris Day](../../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [One Nite Alone (album)](../../../topics/album/one-nite-alone/index.md), [Originals (album review)](../../../topics/album-review/originals/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Piano & A Microphone 1983 (album)](../../../topics/album/piano-a-microphone-1983/index.md), [Sinead O'Connor](../../../topics/sinead-o-connor/index.md), [vault](../../../topics/vault/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.popmatters.com/prince-originals-review-2638918026.html))
+
+<br />
+
+ - [**"Inside The Recording Of Prince's Originals Album"**](https://www.ilikeyouroldstuff.com/news/inside-the-recording-of-prince-originals-album-peggy-mccreary)
+    - in [I Like Your Old Stuff](../../../publications/f-j/i-like-your-old-stuff/index.md)
+    - on 21 June 2019
+    - about [Alan Leeds](../../../topics/alan-leeds/index.md), [Apollonia 6](../../../topics/apollonia-6/index.md), [Bangles](../../../topics/bangles/index.md), [cough drops](../../../topics/cough-drops/index.md), [Martika](../../../topics/martika/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Peggy McCreary](../../../topics/peggy-mccreary/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [Sunset Sound (place)](../../../topics/place/sunset-sound/index.md), [The Family](../../../topics/the-family/index.md), [The Time](../../../topics/the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.ilikeyouroldstuff.com/news/inside-the-recording-of-prince-originals-album-peggy-mccreary))
+
+<br />
+
  - [**"Prince: Originals review – Dazzling tracks from the vault of a pop genius"**](https://www.irishtimes.com/culture/music/prince-originals-review-dazzling-tracks-from-the-vault-of-a-pop-genius-1.3928324)
     - in [irishtimes.com](../../../publications/f-j/irishtimes-com/index.md)
     - on 21 June 2019
-    - about [Bangles](../../../topics/bangles/index.md), [Kenny Rogers](../../../topics/kenny-rogers/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Originals (album review)](../../../topics/album-review/originals/index.md), [vault](../../../topics/vault/index.md)
+    - about [Bangles](../../../topics/bangles/index.md), [Kenny Rogers](../../../topics/kenny-rogers/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Originals (album review)](../../../topics/album-review/originals/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md), [vault](../../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.irishtimes.com/culture/music/prince-originals-review-dazzling-tracks-from-the-vault-of-a-pop-genius-1.3928324))
+
+<br />
+
+ - [**"Prince's Originals is a unique look into the late artist's songwriting prowess"**](https://ew.com/music-reviews/2019/06/21/prince-originals-review/)
+    - in [EW (Entertainment Weekly)](../../../publications/a-e/ew-entertainment-weekly/index.md)
+    - on 21 June 2019
+    - about [Bangles](../../../topics/bangles/index.md), [Jill Jones](../../../topics/jill-jones/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Originals (album review)](../../../topics/album-review/originals/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://ew.com/music-reviews/2019/06/21/prince-originals-review/))
 
 <br />
 
  - [**"What It Was Like to Be the Only Other Person in the Studio With Prince, According to His Engineer Peggy McCreary"**](https://pitchfork.com/thepitch/prince-engineer-peggy-mccreary-interview-originals/)
     - in [Pitchfork](../../../publications/p-t/pitchfork/index.md)
     - on 19 June 2019
-    - about [Bangles](../../../topics/bangles/index.md), [Jimmy Jam](../../../topics/jimmy-jam/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Peggy McCreary](../../../topics/peggy-mccreary/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [Sunset Sound (place)](../../../topics/place/sunset-sound/index.md), [The Time](../../../topics/the-time/index.md), [Vanity](../../../topics/vanity/index.md), [Vanity 6](../../../topics/vanity-6/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
+    - about [Bangles](../../../topics/bangles/index.md), [Jimmy Jam](../../../topics/jimmy-jam/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Peggy McCreary](../../../topics/peggy-mccreary/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md), [Sunset Sound (place)](../../../topics/place/sunset-sound/index.md), [The Time](../../../topics/the-time/index.md), [Vanity](../../../topics/vanity/index.md), [Vanity 6](../../../topics/vanity-6/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://pitchfork.com/thepitch/prince-engineer-peggy-mccreary-interview-originals/))
 
 <br />
@@ -254,7 +545,7 @@
  - [**"Falámos com o arquivista de Prince. “O cofre-forte de canções está atualmente num espaço de alta segurança, à prova de acidentes”"**](https://blitz.pt/principal/update/2019-06-16-Falamos-com-o-arquivista-de-Prince.-O-cofre-forte-de-cancoes-esta-atualmente-num-espaco-de-alta-seguranca-a-prova-de-acidentes)
     - in [Blitz](../../../publications/a-e/blitz/index.md)
     - on 16 June 2019
-    - about [Bangles](../../../topics/bangles/index.md), [Jill Jones](../../../topics/jill-jones/index.md), [Michael Howe](../../../topics/michael-howe/index.md), [Miles Davis](../../../topics/miles-davis/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Piano & A Microphone 1983 (album)](../../../topics/album/piano-a-microphone-1983/index.md), [Sinéad O'Connor](../../../topics/sin-ad-o-connor/index.md), [The Time](../../../topics/the-time/index.md), [Vanity](../../../topics/vanity/index.md), [Vanity 6](../../../topics/vanity-6/index.md)
+    - about [Bangles](../../../topics/bangles/index.md), [Jill Jones](../../../topics/jill-jones/index.md), [Michael Howe](../../../topics/michael-howe/index.md), [Miles Davis](../../../topics/miles-davis/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Nothing Compares 2U (song)](../../../topics/song/nothing-compares-2u/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Piano & A Microphone 1983 (album)](../../../topics/album/piano-a-microphone-1983/index.md), [Sinead O'Connor](../../../topics/sinead-o-connor/index.md), [Sinéad O'Connor](../../../topics/sin-ad-o-connor/index.md), [The Time](../../../topics/the-time/index.md), [Vanity](../../../topics/vanity/index.md), [Vanity 6](../../../topics/vanity-6/index.md)
     - ([mirror](https://web.archive.org/web/*/https://blitz.pt/principal/update/2019-06-16-Falamos-com-o-arquivista-de-Prince.-O-cofre-forte-de-cancoes-esta-atualmente-num-espaco-de-alta-seguranca-a-prova-de-acidentes))
 
 <br />
@@ -271,7 +562,7 @@
  - [**"UB Special Feature: The Album Eras of Prince"**](https://urbanbridgez.com/2019/06/07/ub-special-feature-the-album-eras-of-prince/)
     - in [UrbanBridgez.com](../../../publications/u-z/urbanbridgez-com/index.md)
     - on 7 June 2019
-    - about [1999 (album)](../../../topics/album/1999/index.md), [Academy Award](../../../topics/academy-award/index.md), [Alicia Keys](../../../topics/alicia-keys/index.md), [Bangles](../../../topics/bangles/index.md), [Chaka Khan](../../../topics/chaka-khan/index.md), [Controversy (album)](../../../topics/album/controversy/index.md), [Dirty Mind (album)](../../../topics/album/dirty-mind/index.md), [For You (album)](../../../topics/album/for-you/index.md), [Grammy Award](../../../topics/grammy-award/index.md), [I Feel For You (song)](../../../topics/song/i-feel-for-you/index.md), [I Wanna Be Your Lover (song)](../../../topics/song/i-wanna-be-your-lover/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Purple Rain (album)](../../../topics/album/purple-rain/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [The Revolution](../../../topics/the-revolution/index.md), [Vanity](../../../topics/vanity/index.md), [Vanity Fair (magazine)](../../../topics/magazine/vanity-fair/index.md), [vault](../../../topics/vault/index.md), [Warner Bros. Records](../../../topics/warner-bros-records/index.md)
+    - about [1999 (album)](../../../topics/album/1999/index.md), [Academy Award](../../../topics/academy-award/index.md), [Alicia Keys](../../../topics/alicia-keys/index.md), [Bangles](../../../topics/bangles/index.md), [Chaka Khan](../../../topics/chaka-khan/index.md), [Controversy (album)](../../../topics/album/controversy/index.md), [Dirty Mind (album)](../../../topics/album/dirty-mind/index.md), [For You (album)](../../../topics/album/for-you/index.md), [Grammy Award](../../../topics/grammy-award/index.md), [I Feel For You (song)](../../../topics/song/i-feel-for-you/index.md), [I Wanna Be Your Lover (song)](../../../topics/song/i-wanna-be-your-lover/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Purple Rain (album)](../../../topics/album/purple-rain/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [The Revolution](../../../topics/the-revolution/index.md), [Vanity](../../../topics/vanity/index.md), [Vanity Fair (magazine)](../../../topics/magazine/vanity-fair/index.md), [vault](../../../topics/vault/index.md), [Warner Bros. Records](../../../topics/warner-bros-records/index.md)
     - ([mirror](https://web.archive.org/web/*/https://urbanbridgez.com/2019/06/07/ub-special-feature-the-album-eras-of-prince/))
 
 <br />
@@ -292,10 +583,19 @@
 
 <br />
 
+ - [**"Sometimes he dreamed his songs: A portrait of Prince in the recording studio -- "You had to be ready at any time for anything that inspired him," says his L.A. engineer, who dishes on a new album of songs Prince wrote for other artists."**](https://www.startribune.com/sometimes-he-dreamed-his-songs-a-portrait-of-prince-in-the-recording-studio/510918872/)
+    - by [Jon Bream](../../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 6 June 2019
+    - about [Morris Day](../../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Peggy McCreary](../../../topics/peggy-mccreary/index.md), [Sunset Sound (place)](../../../topics/place/sunset-sound/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/sometimes-he-dreamed-his-songs-a-portrait-of-prince-in-the-recording-studio/510918872/))
+
+<br />
+
  - [**"Artistas recuerdan cuando Prince les regaló una canción"**](https://apnews.com/article/0ce82e34396a4aafbe0317a16d51fb38)
     - in [Associated Press News](../../../publications/a-e/associated-press-news/index.md)
     - on 5 June 2019
-    - about [Apollonia 6](../../../topics/apollonia-6/index.md), [Apollonia Kotero](../../../topics/apollonia-kotero/index.md), [Bangles](../../../topics/bangles/index.md), [Denise Matthews](../../../topics/denise-matthews/index.md), [Joey Coco](../../../topics/joey-coco/index.md), [Kenny Rogers](../../../topics/kenny-rogers/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Sex Shooter (song)](../../../topics/song/sex-shooter/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [Susanna Hoffs](../../../topics/susanna-hoffs/index.md), [Susannah Melvoin](../../../topics/susannah-melvoin/index.md), [The Family](../../../topics/the-family/index.md), [The Glamorous Life (song)](../../../topics/song/the-glamorous-life/index.md), [Tidal](../../../topics/tidal/index.md), [Vanity 6](../../../topics/vanity-6/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md)
+    - about [Apollonia 6](../../../topics/apollonia-6/index.md), [Apollonia Kotero](../../../topics/apollonia-kotero/index.md), [Bangles](../../../topics/bangles/index.md), [Denise Matthews](../../../topics/denise-matthews/index.md), [Joey Coco](../../../topics/joey-coco/index.md), [Kenny Rogers](../../../topics/kenny-rogers/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Sex Shooter (song)](../../../topics/song/sex-shooter/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md), [Susanna Hoffs](../../../topics/susanna-hoffs/index.md), [Susannah Melvoin](../../../topics/susannah-melvoin/index.md), [The Family](../../../topics/the-family/index.md), [The Glamorous Life (song)](../../../topics/song/the-glamorous-life/index.md), [Tidal](../../../topics/tidal/index.md), [Vanity 6](../../../topics/vanity-6/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/0ce82e34396a4aafbe0317a16d51fb38))
 
 <br />
@@ -304,7 +604,7 @@
     - by [Mesfin Fekadu (Associated Press)](../../../authors/associated-press/mesfin-fekadu/index.md)
     - in [Associated Press News](../../../publications/a-e/associated-press-news/index.md)
     - on 4 June 2019
-    - about [Apollonia 6](../../../topics/apollonia-6/index.md), [Apollonia Kotero](../../../topics/apollonia-kotero/index.md), [Bangles](../../../topics/bangles/index.md), [Denise Matthews](../../../topics/denise-matthews/index.md), [Joey Coco](../../../topics/joey-coco/index.md), [Kenny Rogers](../../../topics/kenny-rogers/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Michael Jackson](../../../topics/michael-jackson/index.md), [Nile Rodgers](../../../topics/nile-rodgers/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Paisley Park Records](../../../topics/paisley-park-records/index.md), [Sex Shooter (song)](../../../topics/song/sex-shooter/index.md), [Susanna Hoffs](../../../topics/susanna-hoffs/index.md), [Susannah Melvoin](../../../topics/susannah-melvoin/index.md), [The Family](../../../topics/the-family/index.md), [The Glamorous Life (song)](../../../topics/song/the-glamorous-life/index.md), [The Time](../../../topics/the-time/index.md), [Vanity](../../../topics/vanity/index.md), [Vanity 6](../../../topics/vanity-6/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md)
+    - about [Apollonia 6](../../../topics/apollonia-6/index.md), [Apollonia Kotero](../../../topics/apollonia-kotero/index.md), [Bangles](../../../topics/bangles/index.md), [Denise Matthews](../../../topics/denise-matthews/index.md), [Joey Coco](../../../topics/joey-coco/index.md), [Kenny Rogers](../../../topics/kenny-rogers/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Michael Jackson](../../../topics/michael-jackson/index.md), [Nile Rodgers](../../../topics/nile-rodgers/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Paisley Park Records](../../../topics/paisley-park-records/index.md), [Sex Shooter (song)](../../../topics/song/sex-shooter/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md), [Susanna Hoffs](../../../topics/susanna-hoffs/index.md), [Susannah Melvoin](../../../topics/susannah-melvoin/index.md), [The Family](../../../topics/the-family/index.md), [The Glamorous Life (song)](../../../topics/song/the-glamorous-life/index.md), [The Time](../../../topics/the-time/index.md), [Vanity](../../../topics/vanity/index.md), [Vanity 6](../../../topics/vanity-6/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/9946e6f68e354265a15047187b217b56))
 
 <br />
@@ -318,7 +618,7 @@
 
 ----
 
-### 2019 April (4)
+### 2019 April (6)
 
  - [**"Prince’s estate gets it right the second time around with Prince: In Concert on the Big Screen"**](https://www.twincities.com/2019/04/27/princes-estate-gets-it-right-the-second-time-around-with-prince-in-concert-on-the-big-screen/)
     - in [TwinCities.com - Pioneer Press](../../../publications/p-t/twincities-com-pioneer-press/index.md)
@@ -337,12 +637,29 @@
 
 <br />
 
+ - [**"New Prince album featuring unreleased demos out in June"**](https://www.startribune.com/new-prince-album-featuring-unreleased-demos-out-in-june/509058902/)
+    - by [The Associated Press](../../../authors/the-associated-press/index.md)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 25 April 2019
+    - about [Joey Coco](../../../topics/joey-coco/index.md), [Kenny Rogers](../../../topics/kenny-rogers/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/new-prince-album-featuring-unreleased-demos-out-in-june/509058902/))
+
+<br />
+
  - [**"New Prince album featuring unreleased demos out in June"**](https://apnews.com/f60b62d07cd74a92aec4ceb6d9c338f1)
     - by [The Associated Press](../../../authors/the-associated-press/index.md)
     - in [Associated Press News](../../../publications/a-e/associated-press-news/index.md)
     - on 25 April 2019
-    - about [Apple Music](../../../topics/apple-music/index.md), [Bangles](../../../topics/bangles/index.md), [Joey Coco](../../../topics/joey-coco/index.md), [Kenny Rogers](../../../topics/kenny-rogers/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [Spotify](../../../topics/spotify/index.md), [The Time](../../../topics/the-time/index.md), [Tidal](../../../topics/tidal/index.md), [Troy Carter](../../../topics/troy-carter/index.md)
+    - about [Apple Music](../../../topics/apple-music/index.md), [Bangles](../../../topics/bangles/index.md), [Joey Coco](../../../topics/joey-coco/index.md), [Kenny Rogers](../../../topics/kenny-rogers/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md), [Spotify](../../../topics/spotify/index.md), [The Time](../../../topics/the-time/index.md), [Tidal](../../../topics/tidal/index.md), [Troy Carter](../../../topics/troy-carter/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/f60b62d07cd74a92aec4ceb6d9c338f1))
+
+<br />
+
+ - [**"Prince Album of Unreleased Demos, 'Originals,' Coming in June -- Album will feature songs later recorded by The Time, Vanity 6, Sheila E., the Bangles and Apollonia 6."**](https://www.billboard.com/articles/columns/rock/8508690/prince-album-unreleased-demos-originals)
+    - in [Billboard](../../../publications/a-e/billboard/index.md)
+    - on 25 April 2019
+    - about [Apollonia 6](../../../topics/apollonia-6/index.md), [Bangles](../../../topics/bangles/index.md), [Jill Jones](../../../topics/jill-jones/index.md), [Mazarati](../../../topics/mazarati/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [The Time](../../../topics/the-time/index.md), [Troy Carter](../../../topics/troy-carter/index.md), [Vanity 6](../../../topics/vanity-6/index.md), [Warner Bros. Records](../../../topics/warner-bros-records/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/columns/rock/8508690/prince-album-unreleased-demos-originals))
 
 <br />
 
@@ -350,7 +667,7 @@
     - by [Jem Aswad](../../../authors/jem-aswad/index.md)
     - in [Variety](../../../publications/u-z/variety/index.md)
     - on 24 April 2019
-    - about [Apollonia 6](../../../topics/apollonia-6/index.md), [Jill Jones](../../../topics/jill-jones/index.md), [Kenny Rogers](../../../topics/kenny-rogers/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Mazarati](../../../topics/mazarati/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [The Family](../../../topics/the-family/index.md), [The Glamorous Life (song)](../../../topics/song/the-glamorous-life/index.md), [The Prince Estate](../../../topics/the-prince-estate/index.md), [The Time](../../../topics/the-time/index.md), [Tidal](../../../topics/tidal/index.md), [Troy Carter](../../../topics/troy-carter/index.md), [Vanity](../../../topics/vanity/index.md), [Vanity 6](../../../topics/vanity-6/index.md), [Warner Bros. Records](../../../topics/warner-bros-records/index.md)
+    - about [Apollonia 6](../../../topics/apollonia-6/index.md), [Jill Jones](../../../topics/jill-jones/index.md), [Kenny Rogers](../../../topics/kenny-rogers/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Mazarati](../../../topics/mazarati/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [The Family](../../../topics/the-family/index.md), [The Glamorous Life (song)](../../../topics/song/the-glamorous-life/index.md), [The Prince Estate](../../../topics/the-prince-estate/index.md), [The Time](../../../topics/the-time/index.md), [Tidal](../../../topics/tidal/index.md), [Troy Carter](../../../topics/troy-carter/index.md), [Vanity](../../../topics/vanity/index.md), [Vanity 6](../../../topics/vanity-6/index.md), [Warner Bros. Records](../../../topics/warner-bros-records/index.md)
     - ([mirror](https://web.archive.org/web/*/https://variety.com/2019/music/news/prince-estate-to-release-originals-album-songs-he-gave-to-other-artists-1203197451/))
 
 ----
@@ -365,9 +682,19 @@
 
 ----
 
-## 2018 (6)
+## 2018 (11)
 
-### 2018 September (2)
+### 2018 October (1)
+
+ - [**"'Piano and a Microphone': The Inside Story of the Long-Lost Prince Recording From 1983"**](https://www.newsweek.com/2018/10/19/prince-piano-microphone-purple-rain-17-days-1983-paisly-park-1131839.html)
+    - in [Newsweek](../../../publications/k-o/newsweek/index.md)
+    - on 19 October 2018
+    - about [A Case of You (song)](../../../topics/song/a-case-of-you/index.md), [Jill Jones](../../../topics/jill-jones/index.md), [Joni Mitchell](../../../topics/joni-mitchell/index.md), [Kiowa Trail](../../../topics/kiowa-trail/index.md), [Michael Howe](../../../topics/michael-howe/index.md), [Morris Day](../../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Piano & A Microphone 1983 (album)](../../../topics/album/piano-a-microphone-1983/index.md), [Piano and a Microphone 1983 (album)](../../../topics/album/piano-and-a-microphone-1983/index.md), [Sinéad O'Connor](../../../topics/sin-ad-o-connor/index.md), [Strange Relationship (song)](../../../topics/song/strange-relationship/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.newsweek.com/2018/10/19/prince-piano-microphone-purple-rain-17-days-1983-paisly-park-1131839.html))
+
+----
+
+### 2018 September (4)
 
  - [**"Prince’s and Tom Petty’s Posthumous Careers Are Off to a Great Start -- For ‘Piano & a Microphone 1983’ and ‘An American Treasure,’ the estates of two beloved rock stars raid their respective vaults, tastefully"**](https://www.theringer.com/music/2018/9/26/17904480/prince-piano-microphone-1983-tom-petty-an-american-treasure-posthumous-album-box-set)
     - in [The Ringer](../../../publications/p-t/the-ringer/index.md)
@@ -383,6 +710,23 @@
     - about [Central High](../../../topics/central-high/index.md), [Cloud guitar (instrument)](../../../topics/instrument/cloud-guitar/index.md), [Jellybean Johnson](../../../topics/jellybean-johnson/index.md), [museum](../../../topics/museum/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Omarr Baker](../../../topics/omarr-baker/index.md), [Paul Peterson](../../../topics/paul-peterson/index.md), [St. Paul Peterson](../../../topics/st-paul-peterson/index.md), [Tommy Barbarella](../../../topics/tommy-barbarella/index.md), [Tyka Nelson](../../../topics/tyka-nelson/index.md), [University of Minnesota](../../../topics/university-of-minnesota/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/38a03f35b393465ba72fa83d6841b3a3))
 
+<br />
+
+ - [**"Prince’s new basement tape: Just him singing, playing piano"**](https://apnews.com/e0a9e78a662c40d3adee133110bc8489)
+    - by [Jeff Baenen (Associated Press)](../../../authors/associated-press/jeff-baenen/index.md)
+    - in [Associated Press News](../../../publications/a-e/associated-press-news/index.md)
+    - on 18 September 2018
+    - about [17 Days (song)](../../../topics/song/17-days/index.md), [A Case of You (song)](../../../topics/song/a-case-of-you/index.md), [Aretha Franklin](../../../topics/aretha-franklin/index.md), [Cold Coffee & Cocaine (song)](../../../topics/song/cold-coffee-cocaine/index.md), [fentanyl](../../../topics/fentanyl/index.md), [fentanyl overdose](../../../topics/fentanyl-overdose/index.md), [International Lover (song)](../../../topics/song/international-lover/index.md), [Joni Mitchell](../../../topics/joni-mitchell/index.md), [Legacy Recordings](../../../topics/legacy-recordings/index.md), [Lisa Coleman](../../../topics/lisa-coleman/index.md), [Mary Don’t You Weep (song)](../../../topics/song/mary-don-t-you-weep/index.md), [Michael Howe](../../../topics/michael-howe/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [NPG Records](../../../topics/npg-records/index.md), [Piano & A Microphone 1983 (album)](../../../topics/album/piano-a-microphone-1983/index.md), [Piano and a Microphone 1983 (album)](../../../topics/album/piano-and-a-microphone-1983/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [Sony Music](../../../topics/sony-music/index.md), [Sony Music Entertainment](../../../topics/sony-music-entertainment/index.md), [Strange Relationship (song)](../../../topics/song/strange-relationship/index.md), [Troy Carter](../../../topics/troy-carter/index.md), [Warner Bros. Records](../../../topics/warner-bros-records/index.md), [Why The Butterflies (song)](../../../topics/song/why-the-butterflies/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://apnews.com/e0a9e78a662c40d3adee133110bc8489))
+
+<br />
+
+ - [**"Prince's New 'Piano & A Microphone 1983' Basement Tape Is as Simple as It Sounds"**](https://www.billboard.com/articles/news/8475824/prince-piano-and-a-microphone-1983-album)
+    - in [Billboard](../../../publications/a-e/billboard/index.md)
+    - on 18 September 2018
+    - about [A Case of You (song)](../../../topics/song/a-case-of-you/index.md), [Aretha Franklin](../../../topics/aretha-franklin/index.md), [fentanyl overdose](../../../topics/fentanyl-overdose/index.md), [International Lover (song)](../../../topics/song/international-lover/index.md), [Joni Mitchell](../../../topics/joni-mitchell/index.md), [Legacy Recordings](../../../topics/legacy-recordings/index.md), [Lisa Coleman](../../../topics/lisa-coleman/index.md), [Mary Don’t You Weep (song)](../../../topics/song/mary-don-t-you-weep/index.md), [Michael Howe](../../../topics/michael-howe/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Piano & A Microphone 1983 (album)](../../../topics/album/piano-a-microphone-1983/index.md), [Piano and a Microphone 1983 (album)](../../../topics/album/piano-and-a-microphone-1983/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [Sony Music](../../../topics/sony-music/index.md), [Sony Music Entertainment](../../../topics/sony-music-entertainment/index.md), [Strange Relationship (song)](../../../topics/song/strange-relationship/index.md), [Troy Carter](../../../topics/troy-carter/index.md), [Warner Bros. Records](../../../topics/warner-bros-records/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8475824/prince-piano-and-a-microphone-1983-album))
+
 ----
 
 ### 2018 July (1)
@@ -390,7 +734,7 @@
  - [**"The Prince Estate’s Big Plans: Inside the Upcoming Purple Reign -- The late singer’s estate is currently exploring licensing, future releases and even a hotel – all while trying to consider what Prince would have wanted"**](https://www.rollingstone.com/music/music-features/prince-estate-big-plans-upcoming-purple-reign-698529/)
     - in [Rolling Stone](../../../publications/p-t/rolling-stone/index.md)
     - on 13 July 2018
-    - about [A Case of You (song)](../../../topics/song/a-case-of-you/index.md), [Bravado](../../../topics/bravado/index.md), [Bremer Trust](../../../topics/bremer-trust/index.md), [Carver County](../../../topics/carver-county/index.md), [Charles Koppelman](../../../topics/charles-koppelman/index.md), [Comerica](../../../topics/comerica/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Graceland](../../../topics/graceland/index.md), [hologram](../../../topics/hologram/index.md), [John Nelson](../../../topics/john-nelson/index.md), [Joni Mitchell](../../../topics/joni-mitchell/index.md), [Mary Don’t You Weep (song)](../../../topics/song/mary-don-t-you-weep/index.md), [Mayte](../../../topics/mayte/index.md), [Mayte Garcia](../../../topics/mayte-garcia/index.md), [merchandise](../../../topics/merchandise/index.md), [Michael Howe](../../../topics/michael-howe/index.md), [Minnesota Twins](../../../topics/minnesota-twins/index.md), [museum](../../../topics/museum/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Piano and a Microphone 1983 (album)](../../../topics/album/piano-and-a-microphone-1983/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [Questlove](../../../topics/questlove/index.md), [Sharon Nelson](../../../topics/sharon-nelson/index.md), [Spotify](../../../topics/spotify/index.md), [Super Bowl](../../../topics/super-bowl/index.md), [Susan Rogers](../../../topics/susan-rogers/index.md), [The Prince Estate](../../../topics/the-prince-estate/index.md), [Troy Carter](../../../topics/troy-carter/index.md), [Tyka Nelson](../../../topics/tyka-nelson/index.md), [Warner Bros. Records](../../../topics/warner-bros-records/index.md)
+    - about [A Case of You (song)](../../../topics/song/a-case-of-you/index.md), [Bravado](../../../topics/bravado/index.md), [Bremer Trust](../../../topics/bremer-trust/index.md), [Carver County](../../../topics/carver-county/index.md), [Charles Koppelman](../../../topics/charles-koppelman/index.md), [Comerica](../../../topics/comerica/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Graceland](../../../topics/graceland/index.md), [hologram](../../../topics/hologram/index.md), [John Nelson](../../../topics/john-nelson/index.md), [Joni Mitchell](../../../topics/joni-mitchell/index.md), [Mary Don’t You Weep (song)](../../../topics/song/mary-don-t-you-weep/index.md), [Mayte](../../../topics/mayte/index.md), [Mayte Garcia](../../../topics/mayte-garcia/index.md), [merchandise](../../../topics/merchandise/index.md), [Michael Howe](../../../topics/michael-howe/index.md), [Minnesota Twins](../../../topics/minnesota-twins/index.md), [museum](../../../topics/museum/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Piano and a Microphone 1983 (album)](../../../topics/album/piano-and-a-microphone-1983/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [Questlove](../../../topics/questlove/index.md), [Sharon Nelson](../../../topics/sharon-nelson/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md), [Spotify](../../../topics/spotify/index.md), [Super Bowl](../../../topics/super-bowl/index.md), [Susan Rogers](../../../topics/susan-rogers/index.md), [The Prince Estate](../../../topics/the-prince-estate/index.md), [Troy Carter](../../../topics/troy-carter/index.md), [Tyka Nelson](../../../topics/tyka-nelson/index.md), [Warner Bros. Records](../../../topics/warner-bros-records/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/prince-estate-big-plans-upcoming-purple-reign-698529/))
 
 ----
@@ -422,7 +766,40 @@
 
 ----
 
-## 2017 (1)
+### 2018 February (1)
+
+ - [**"Second annual Celebration at Prince's Paisley Park to feature Sheila E., fDeluxe, NPG"**](https://www.startribune.com/second-annual-celebration-at-prince-s-paisley-park-to-feature-sheila-e-fdeluxe-npg/474975113/)
+    - by [Chris Riemenschneider](../../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 23 February 2018
+    - about [fDeluxe](../../../topics/fdeluxe/index.md), [Jellybean Johnson](../../../topics/jellybean-johnson/index.md), [Morris Day](../../../topics/morris-day/index.md), [Morris Day & The Time](../../../topics/morris-day-the-time/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [Super Bowl](../../../topics/super-bowl/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/second-annual-celebration-at-prince-s-paisley-park-to-feature-sheila-e-fdeluxe-npg/474975113/))
+
+----
+
+### 2018 January (1)
+
+ - [**"Super-sized Prince party rocks Nicollet Mall -- Three acts closely associated with the Minnesota rock legend — none of whom had played together since his 2016 death — showed their singular dedication by performing his songs outside in single-digit temperatures for the Super Bowl Live concert series."**](https://www.startribune.com/super-sized-prince-party-rocks-nicollet-mall/471712573/)
+    - by [Chris Riemenschneider](../../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 30 January 2018
+    - about [Morris Day](../../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Super Bowl](../../../topics/super-bowl/index.md), [Terry Lewis](../../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/super-sized-prince-party-rocks-nicollet-mall/471712573/))
+
+----
+
+## 2017 (2)
+
+### 2017 September (1)
+
+ - [**"Prince items belonging to Susannah Melvoin and other associates go up for auction"**](https://www.startribune.com/prince-items-belonging-to-susannah-melvoin-and-other-associates-go-up-for-auction/446849253/)
+    - by [Chris Riemenschneider](../../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 22 September 2017
+    - about [Eric Leeds](../../../topics/eric-leeds/index.md), [Gwen Leeds](../../../topics/gwen-leeds/index.md), [Helen Hiatt](../../../topics/helen-hiatt/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [PRN Productions](../../../topics/prn-productions/index.md), [Rick James](../../../topics/rick-james/index.md), [Starfish And Coffee (song)](../../../topics/song/starfish-and-coffee/index.md), [Susannah Melvoin](../../../topics/susannah-melvoin/index.md), [The Family](../../../topics/the-family/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-items-belonging-to-susannah-melvoin-and-other-associates-go-up-for-auction/446849253/))
+
+----
 
 ### 2017 April (1)
 
@@ -430,19 +807,28 @@
     - by [Eric Henderson](../../../authors/eric-henderson/index.md)
     - in [WCCO - CBS Minnesota](../../../publications/u-z/wcco-cbs-minnesota/index.md)
     - on 17 April 2017
-    - about [17 Days (song)](../../../topics/song/17-days/index.md), [4 the Tears in Your Eyes (song)](../../../topics/song/4-the-tears-in-your-eyes/index.md), [Baby I'm a Star (song)](../../../topics/song/baby-i-m-a-star/index.md), [Call My Name (song)](../../../topics/song/call-my-name/index.md), [Chaka Khan](../../../topics/chaka-khan/index.md), [Erotic City (song)](../../../topics/song/erotic-city/index.md), [Housequake (song)](../../../topics/song/housequake/index.md), [How Come U Don't Call Me Anymore (song)](../../../topics/song/how-come-u-don-t-call-me-anymore/index.md), [I Feel For You (song)](../../../topics/song/i-feel-for-you/index.md), [I Wanna Be Your Lover (song)](../../../topics/song/i-wanna-be-your-lover/index.md), [I Would Die 4 U (song)](../../../topics/song/i-would-die-4-u/index.md), [Joni Mitchell](../../../topics/joni-mitchell/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Nasty Girl (song)](../../../topics/song/nasty-girl/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Oprah (TV show)](../../../topics/tv-show/oprah/index.md), [Patrice Rushen](../../../topics/patrice-rushen/index.md), [Pop Life (song)](../../../topics/song/pop-life/index.md), [Raspberry Beret (song)](../../../topics/song/raspberry-beret/index.md), [Round and Round (song)](../../../topics/song/round-and-round/index.md), [Sex Shooter (song)](../../../topics/song/sex-shooter/index.md), [Sometimes It Snows In April (song)](../../../topics/song/sometimes-it-snows-in-april/index.md), [Starfish And Coffee (song)](../../../topics/song/starfish-and-coffee/index.md), [Tevin Campbell](../../../topics/tevin-campbell/index.md), [The Ballad Of Dorothy Parker (song)](../../../topics/song/the-ballad-of-dorothy-parker/index.md), [WCCO](../../../topics/wcco/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
+    - about [17 Days (song)](../../../topics/song/17-days/index.md), [4 the Tears in Your Eyes (song)](../../../topics/song/4-the-tears-in-your-eyes/index.md), [Baby I'm a Star (song)](../../../topics/song/baby-i-m-a-star/index.md), [Call My Name (song)](../../../topics/song/call-my-name/index.md), [Chaka Khan](../../../topics/chaka-khan/index.md), [Erotic City (song)](../../../topics/song/erotic-city/index.md), [Housequake (song)](../../../topics/song/housequake/index.md), [How Come U Don't Call Me Anymore (song)](../../../topics/song/how-come-u-don-t-call-me-anymore/index.md), [I Feel For You (song)](../../../topics/song/i-feel-for-you/index.md), [I Wanna Be Your Lover (song)](../../../topics/song/i-wanna-be-your-lover/index.md), [I Would Die 4 U (song)](../../../topics/song/i-would-die-4-u/index.md), [Joni Mitchell](../../../topics/joni-mitchell/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Nasty Girl (song)](../../../topics/song/nasty-girl/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Oprah (TV show)](../../../topics/tv-show/oprah/index.md), [Patrice Rushen](../../../topics/patrice-rushen/index.md), [Paula Abdul](../../../topics/paula-abdul/index.md), [Pop Life (song)](../../../topics/song/pop-life/index.md), [Raspberry Beret (song)](../../../topics/song/raspberry-beret/index.md), [Round and Round (song)](../../../topics/song/round-and-round/index.md), [Sex Shooter (song)](../../../topics/song/sex-shooter/index.md), [Sinead O'Connor](../../../topics/sinead-o-connor/index.md), [Sometimes It Snows In April (song)](../../../topics/song/sometimes-it-snows-in-april/index.md), [Starfish And Coffee (song)](../../../topics/song/starfish-and-coffee/index.md), [Tevin Campbell](../../../topics/tevin-campbell/index.md), [The Ballad Of Dorothy Parker (song)](../../../topics/song/the-ballad-of-dorothy-parker/index.md), [WCCO](../../../topics/wcco/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/top-25-best-prince-songs-of-all-time/))
 
 ----
 
-## 2016 (13)
+## 2016 (22)
 
-### 2016 December (1)
+### 2016 December (2)
+
+ - [**"Artist of the Year 2016: Prince&#039;s memorials were the year&#039;s rock stars -- An impromptu street gathering in the grim hours following Prince's death lit a spark that shined through a year of tributes."**](https://www.startribune.com/artist-of-the-year-2016-prince-s-memorials-were-the-year-s-rock-stars/408655055/)
+    - by [Chris Riemenschneider](../../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 30 December 2016
+    - about [Chaka Khan](../../../topics/chaka-khan/index.md), [Morris Day](../../../topics/morris-day/index.md), [Morris Day & The Time](../../../topics/morris-day-the-time/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Tommy Barbarella](../../../topics/tommy-barbarella/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/artist-of-the-year-2016-prince-s-memorials-were-the-year-s-rock-stars/408655055/))
+
+<br />
 
  - [**"Susan Rogers - 2016 Red Bull Music Academy lecture"**](https://www.redbullmusicacademy.com/lectures/susan-rogers-lecture)
     - in [Red Bull Music Academy](../../../publications/p-t/red-bull-music-academy/index.md)
     - on 8 December 2016
-    - about [17 Days (song)](../../../topics/song/17-days/index.md), [Academy Award](../../../topics/academy-award/index.md), [Anita Baker](../../../topics/anita-baker/index.md), [Bernie Grundman](../../../topics/bernie-grundman/index.md), [bootleg](../../../topics/bootleg/index.md), [Condition of the Heart (song)](../../../topics/song/condition-of-the-heart/index.md), [contract](../../../topics/contract/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Grammy Award](../../../topics/grammy-award/index.md), [James Brown](../../../topics/james-brown/index.md), [Jesse Johnson](../../../topics/jesse-johnson/index.md), [Jill Jones](../../../topics/jill-jones/index.md), [Joni Mitchell](../../../topics/joni-mitchell/index.md), [Kate Bush](../../../topics/kate-bush/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [LinnDrum (instrument)](../../../topics/instrument/linndrum/index.md), [Lisa Coleman](../../../topics/lisa-coleman/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Michael Jackson](../../../topics/michael-jackson/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Pop Life (song)](../../../topics/song/pop-life/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [Sly Stone](../../../topics/sly-stone/index.md), [Sometimes It Snows In April (song)](../../../topics/song/sometimes-it-snows-in-april/index.md), [Stevie Wonder](../../../topics/stevie-wonder/index.md), [Sunset Sound (place)](../../../topics/place/sunset-sound/index.md), [Susan Rogers](../../../topics/susan-rogers/index.md), [Susannah Melvoin](../../../topics/susannah-melvoin/index.md), [Tevin Campbell](../../../topics/tevin-campbell/index.md), [The Ballad Of Dorothy Parker (song)](../../../topics/song/the-ballad-of-dorothy-parker/index.md), [The Revolution](../../../topics/the-revolution/index.md), [Under the Cherry Moon (movie)](../../../topics/movie/under-the-cherry-moon/index.md), [University of Minnesota](../../../topics/university-of-minnesota/index.md), [Vanity 6](../../../topics/vanity-6/index.md), [vault](../../../topics/vault/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md)
+    - about [17 Days (song)](../../../topics/song/17-days/index.md), [Academy Award](../../../topics/academy-award/index.md), [Anita Baker](../../../topics/anita-baker/index.md), [Bernie Grundman](../../../topics/bernie-grundman/index.md), [bootleg](../../../topics/bootleg/index.md), [Condition of the Heart (song)](../../../topics/song/condition-of-the-heart/index.md), [contract](../../../topics/contract/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Grammy Award](../../../topics/grammy-award/index.md), [James Brown](../../../topics/james-brown/index.md), [Jesse Johnson](../../../topics/jesse-johnson/index.md), [Jill Jones](../../../topics/jill-jones/index.md), [Joni Mitchell](../../../topics/joni-mitchell/index.md), [Kate Bush](../../../topics/kate-bush/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [LinnDrum (instrument)](../../../topics/instrument/linndrum/index.md), [Lisa Coleman](../../../topics/lisa-coleman/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Michael Jackson](../../../topics/michael-jackson/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Pop Life (song)](../../../topics/song/pop-life/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md), [Sly Stone](../../../topics/sly-stone/index.md), [Sometimes It Snows In April (song)](../../../topics/song/sometimes-it-snows-in-april/index.md), [Stevie Wonder](../../../topics/stevie-wonder/index.md), [Sunset Sound (place)](../../../topics/place/sunset-sound/index.md), [Susan Rogers](../../../topics/susan-rogers/index.md), [Susannah Melvoin](../../../topics/susannah-melvoin/index.md), [Tevin Campbell](../../../topics/tevin-campbell/index.md), [The Ballad Of Dorothy Parker (song)](../../../topics/song/the-ballad-of-dorothy-parker/index.md), [The Revolution](../../../topics/the-revolution/index.md), [Under the Cherry Moon (movie)](../../../topics/movie/under-the-cherry-moon/index.md), [University of Minnesota](../../../topics/university-of-minnesota/index.md), [Vanity 6](../../../topics/vanity-6/index.md), [vault](../../../topics/vault/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.redbullmusicacademy.com/lectures/susan-rogers-lecture))
 
 ----
@@ -460,12 +846,53 @@
  - [**"The Estate Of Prince Rogers Nelson Selects Universal Music Publishing Group To Serve As Worldwide Publisher For Prince's Iconic Catalog Of Songs"**](https://www.prnewswire.com/news-releases/the-estate-of-prince-rogers-nelson-selects-universal-music-publishing-group-to-serve-as-worldwide-publisher-for-princes-iconic-catalog-of-songs-300356320.html)
     - in [PR Newswire](../../../publications/p-t/pr-newswire/index.md)
     - on 2 November 2016
-    - about [Alabama Shakes](../../../topics/alabama-shakes/index.md), [Alicia Keys](../../../topics/alicia-keys/index.md), [Bangles](../../../topics/bangles/index.md), [Bremer Trust](../../../topics/bremer-trust/index.md), [Chaka Khan](../../../topics/chaka-khan/index.md), [Charles Koppelman](../../../topics/charles-koppelman/index.md), [Danny Elfman](../../../topics/danny-elfman/index.md), [Elton John](../../../topics/elton-john/index.md), [I Feel For You (song)](../../../topics/song/i-feel-for-you/index.md), [Justin Timberlake](../../../topics/justin-timberlake/index.md), [L. Londell McMillan](../../../topics/l-londell-mcmillan/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Universal Music Group](../../../topics/universal-music-group/index.md), [Universal Music Publishing Group](../../../topics/universal-music-publishing-group/index.md)
+    - about [Alabama Shakes](../../../topics/alabama-shakes/index.md), [Alicia Keys](../../../topics/alicia-keys/index.md), [Bangles](../../../topics/bangles/index.md), [Bremer Trust](../../../topics/bremer-trust/index.md), [Chaka Khan](../../../topics/chaka-khan/index.md), [Charles Koppelman](../../../topics/charles-koppelman/index.md), [Danny Elfman](../../../topics/danny-elfman/index.md), [Elton John](../../../topics/elton-john/index.md), [I Feel For You (song)](../../../topics/song/i-feel-for-you/index.md), [Justin Timberlake](../../../topics/justin-timberlake/index.md), [L. Londell McMillan](../../../topics/l-londell-mcmillan/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Sinead O'Connor](../../../topics/sinead-o-connor/index.md), [Universal Music Group](../../../topics/universal-music-group/index.md), [Universal Music Publishing Group](../../../topics/universal-music-publishing-group/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/the-estate-of-prince-rogers-nelson-selects-universal-music-publishing-group-to-serve-as-worldwide-publisher-for-princes-iconic-catalog-of-songs-300356320.html))
 
 ----
 
-### 2016 May (1)
+### 2016 October (1)
+
+ - [**"Prince tribute shows why he is missed -- Review: The performers showed their love but lacked the master's electricity."**](https://www.startribune.com/prince-tribute-shows-what-makes-us-miss-him/397048281/)
+    - by [Jon Bream](../../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 14 October 2016
+    - about [Chaka Khan](../../../topics/chaka-khan/index.md), [I Feel For You (song)](../../../topics/song/i-feel-for-you/index.md), [Morris Day](../../../topics/morris-day/index.md), [Morris Day and The Time](../../../topics/morris-day-and-the-time/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-tribute-shows-what-makes-us-miss-him/397048281/))
+
+----
+
+### 2016 July (1)
+
+ - [**"APNewsBreak: Official Prince tribute concert set for October"**](https://apnews.com/08568057d51c46f8a3daf99e36db5e38)
+    - by [Mesfin Fekadu (Associated Press)](../../../authors/associated-press/mesfin-fekadu/index.md)
+    - in [Associated Press News](../../../publications/a-e/associated-press-news/index.md)
+    - on 28 July 2016
+    - about [Erykah Badu](../../../topics/erykah-badu/index.md), [Janelle Monae](../../../topics/janelle-monae/index.md), [Mayte](../../../topics/mayte/index.md), [Mayte Garcia](../../../topics/mayte-garcia/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [Stevie Wonder](../../../topics/stevie-wonder/index.md), [The Roots](../../../topics/the-roots/index.md), [Tori Kelly](../../../topics/tori-kelly/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://apnews.com/08568057d51c46f8a3daf99e36db5e38))
+
+----
+
+### 2016 June (2)
+
+ - [**"BET Awards full of Prince tributes and political moments"**](https://apnews.com/6b28e8f305564390bd4b11732e176683)
+    - in [Associated Press News](../../../publications/a-e/associated-press-news/index.md)
+    - on 27 June 2016
+    - about [BET Awards](../../../topics/bet-awards/index.md), [Donald Trump](../../../topics/donald-trump/index.md), [Erykah Badu](../../../topics/erykah-badu/index.md), [Janelle Monae](../../../topics/janelle-monae/index.md), [Mayte](../../../topics/mayte/index.md), [Mayte Garcia](../../../topics/mayte-garcia/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [The Ballad Of Dorothy Parker (song)](../../../topics/song/the-ballad-of-dorothy-parker/index.md), [Trump](../../../topics/trump/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://apnews.com/6b28e8f305564390bd4b11732e176683))
+
+<br />
+
+ - [**"Celebrate Prince&#039;s birthday with 10 songs he gave to other singers"**](https://www.startribune.com/celebrate-prince-s-birthday-with-10-songs-he-gifted-to-other-singers/381866931/)
+    - by [Jon Bream](../../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 7 June 2016
+    - about [Chaka Khan](../../../topics/chaka-khan/index.md), [I Feel For You (song)](../../../topics/song/i-feel-for-you/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Paula Abdul](../../../topics/paula-abdul/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/celebrate-prince-s-birthday-with-10-songs-he-gifted-to-other-singers/381866931/))
+
+----
+
+### 2016 May (3)
 
  - [**"Prince's death, Day 18: Ex-wife speaks about loss of son"**](https://usatoday.com/story/life/people/2016/05/08/princes-death-day-18-ex-wife-speaks-loss-son/84109510/)
     - in [USA Today](../../../publications/u-z/usa-today/index.md)
@@ -473,15 +900,32 @@
     - about [Bremer Trust](../../../topics/bremer-trust/index.md), [Mayte](../../../topics/mayte/index.md), [Mayte Garcia](../../../topics/mayte-garcia/index.md), [Mixed Blood](../../../topics/mixed-blood/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md)
     - ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/people/2016/05/08/princes-death-day-18-ex-wife-speaks-loss-son/84109510/))
 
+<br />
+
+ - [**"Prince's Family band members debut new version of 'Nothing Compares 2 U'"**](https://www.startribune.com/prince-s-family-band-members-debut-new-version-of-nothing-compares-2-u/378178461/)
+    - by [Chris Riemenschneider](../../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 4 May 2016
+    - about [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-s-family-band-members-debut-new-version-of-nothing-compares-2-u/378178461/))
+
+<br />
+
+ - [**"Prince's death, Day 13: Woman reported Prince had bad cocaine habit in 2011"**](https://usatoday.com/story/life/people/2016/05/03/princes-death-day-13-latest-news-and-tributes/83866634/)
+    - in [USA Today](../../../publications/u-z/usa-today/index.md)
+    - on 3 May 2016
+    - about [Carver County](../../../topics/carver-county/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Sinéad O'Connor](../../../topics/sin-ad-o-connor/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://usatoday.com/story/life/people/2016/05/03/princes-death-day-13-latest-news-and-tributes/83866634/))
+
 ----
 
-### 2016 April (9)
+### 2016 April (11)
 
  - [**"The Women in Prince’s World: His Muses and Collaborators From Sheila E. to Kim Basinger"**](https://www.billboard.com/photos/7348470/prince-female-muses-collaborators-lovers-sheila-e-kim-basinger-more)
     - by [Camille Dodero](../../../authors/camille-dodero/index.md)
     - in [Billboard](../../../publications/a-e/billboard/index.md)
     - on 28 April 2016
-    - about [3rdEyeGirl](../../../topics/3rdeyegirl/index.md), [Apollonia 6](../../../topics/apollonia-6/index.md), [Bangles](../../../topics/bangles/index.md), [Boy Gregory](../../../topics/boy-gregory/index.md), [Bria Valente](../../../topics/bria-valente/index.md), [Cat Glover](../../../topics/cat-glover/index.md), [Chaka Khan](../../../topics/chaka-khan/index.md), [contract](../../../topics/contract/index.md), [Denise Matthews](../../../topics/denise-matthews/index.md), [Dez Dickerson](../../../topics/dez-dickerson/index.md), [divorce](../../../topics/divorce/index.md), [Donna Grantis](../../../topics/donna-grantis/index.md), [Hannah Welton](../../../topics/hannah-welton/index.md), [I Feel For You (song)](../../../topics/song/i-feel-for-you/index.md), [I Wanna Be Your Lover (song)](../../../topics/song/i-wanna-be-your-lover/index.md), [Ingrid Chavez](../../../topics/ingrid-chavez/index.md), [Jehovah’s Witness](../../../topics/jehovah-s-witness/index.md), [Kristin Scott Thomas](../../../topics/kristin-scott-thomas/index.md), [Lisa Coleman](../../../topics/lisa-coleman/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Manuela Testolini](../../../topics/manuela-testolini/index.md), [Martika](../../../topics/martika/index.md), [Mavis Staples](../../../topics/mavis-staples/index.md), [Mayte](../../../topics/mayte/index.md), [Mayte Garcia](../../../topics/mayte-garcia/index.md), [Misty Copeland](../../../topics/misty-copeland/index.md), [Nasty Girl (song)](../../../topics/song/nasty-girl/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Paisley Park Records](../../../topics/paisley-park-records/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Sheena Easton](../../../topics/sheena-easton/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [Stand Back (song)](../../../topics/song/stand-back/index.md), [Stevie Nicks](../../../topics/stevie-nicks/index.md), [Sugar Walls (song)](../../../topics/song/sugar-walls/index.md), [Susanna Hoffs](../../../topics/susanna-hoffs/index.md), [Susannah Melvoin](../../../topics/susannah-melvoin/index.md), [The Revolution](../../../topics/the-revolution/index.md), [U Got the Look (song)](../../../topics/song/u-got-the-look/index.md), [Under the Cherry Moon (movie)](../../../topics/movie/under-the-cherry-moon/index.md), [Vanity](../../../topics/vanity/index.md), [Vanity 6](../../../topics/vanity-6/index.md), [Wendy & Lisa](../../../topics/wendy-lisa/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
+    - about [3rdEyeGirl](../../../topics/3rdeyegirl/index.md), [Apollonia 6](../../../topics/apollonia-6/index.md), [Bangles](../../../topics/bangles/index.md), [Boy Gregory](../../../topics/boy-gregory/index.md), [Bria Valente](../../../topics/bria-valente/index.md), [Cat Glover](../../../topics/cat-glover/index.md), [Chaka Khan](../../../topics/chaka-khan/index.md), [contract](../../../topics/contract/index.md), [Denise Matthews](../../../topics/denise-matthews/index.md), [Dez Dickerson](../../../topics/dez-dickerson/index.md), [divorce](../../../topics/divorce/index.md), [Donna Grantis](../../../topics/donna-grantis/index.md), [Hannah Welton](../../../topics/hannah-welton/index.md), [I Feel For You (song)](../../../topics/song/i-feel-for-you/index.md), [I Wanna Be Your Lover (song)](../../../topics/song/i-wanna-be-your-lover/index.md), [Ingrid Chavez](../../../topics/ingrid-chavez/index.md), [Jehovah’s Witness](../../../topics/jehovah-s-witness/index.md), [Kristin Scott Thomas](../../../topics/kristin-scott-thomas/index.md), [Lisa Coleman](../../../topics/lisa-coleman/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Manuela Testolini](../../../topics/manuela-testolini/index.md), [Martika](../../../topics/martika/index.md), [Mavis Staples](../../../topics/mavis-staples/index.md), [Mayte](../../../topics/mayte/index.md), [Mayte Garcia](../../../topics/mayte-garcia/index.md), [Misty Copeland](../../../topics/misty-copeland/index.md), [Nasty Girl (song)](../../../topics/song/nasty-girl/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Paisley Park Records](../../../topics/paisley-park-records/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Sheena Easton](../../../topics/sheena-easton/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md), [Stand Back (song)](../../../topics/song/stand-back/index.md), [Stevie Nicks](../../../topics/stevie-nicks/index.md), [Sugar Walls (song)](../../../topics/song/sugar-walls/index.md), [Susanna Hoffs](../../../topics/susanna-hoffs/index.md), [Susannah Melvoin](../../../topics/susannah-melvoin/index.md), [The Revolution](../../../topics/the-revolution/index.md), [U Got the Look (song)](../../../topics/song/u-got-the-look/index.md), [Under the Cherry Moon (movie)](../../../topics/movie/under-the-cherry-moon/index.md), [Vanity](../../../topics/vanity/index.md), [Vanity 6](../../../topics/vanity-6/index.md), [Wendy & Lisa](../../../topics/wendy-lisa/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/photos/7348470/prince-female-muses-collaborators-lovers-sheila-e-kim-basinger-more))
 
 <br />
@@ -489,7 +933,7 @@
  - [**"Prince was a one-man band and a friend to many others"**](https://apnews.com/508256962cd942f3bc61e1cc034900ad)
     - in [Associated Press News](../../../publications/a-e/associated-press-news/index.md)
     - on 25 April 2016
-    - about [Bangles](../../../topics/bangles/index.md), [Chaka Khan](../../../topics/chaka-khan/index.md), [Cyndi Lauper](../../../topics/cyndi-lauper/index.md), [Erykah Badu](../../../topics/erykah-badu/index.md), [Esperanza Spalding](../../../topics/esperanza-spalding/index.md), [Grammy Award](../../../topics/grammy-award/index.md), [I Feel For You (song)](../../../topics/song/i-feel-for-you/index.md), [Judith Hill](../../../topics/judith-hill/index.md), [Kandace Springs](../../../topics/kandace-springs/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Liv Warfield](../../../topics/liv-warfield/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Rita Ora](../../../topics/rita-ora/index.md), [royalties](../../../topics/royalties/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [Stand Back (song)](../../../topics/song/stand-back/index.md), [Stevie Nicks](../../../topics/stevie-nicks/index.md), [Stevie Wonder](../../../topics/stevie-wonder/index.md), [Sunset Sound (place)](../../../topics/place/sunset-sound/index.md), [YouTube](../../../topics/youtube/index.md)
+    - about [Bangles](../../../topics/bangles/index.md), [Chaka Khan](../../../topics/chaka-khan/index.md), [Cyndi Lauper](../../../topics/cyndi-lauper/index.md), [Erykah Badu](../../../topics/erykah-badu/index.md), [Esperanza Spalding](../../../topics/esperanza-spalding/index.md), [Grammy Award](../../../topics/grammy-award/index.md), [I Feel For You (song)](../../../topics/song/i-feel-for-you/index.md), [Judith Hill](../../../topics/judith-hill/index.md), [Kandace Springs](../../../topics/kandace-springs/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Liv Warfield](../../../topics/liv-warfield/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Rita Ora](../../../topics/rita-ora/index.md), [royalties](../../../topics/royalties/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [Stand Back (song)](../../../topics/song/stand-back/index.md), [Stevie Nicks](../../../topics/stevie-nicks/index.md), [Stevie Wonder](../../../topics/stevie-wonder/index.md), [Sunset Sound (place)](../../../topics/place/sunset-sound/index.md), [YouTube](../../../topics/youtube/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/508256962cd942f3bc61e1cc034900ad))
 
 <br />
@@ -497,7 +941,7 @@
  - [**"Prince, un hombre orquesta y un amigo para muchos"**](https://apnews.com/article/archive-0cd78570b8f24969999622976c4cf547)
     - in [Associated Press News](../../../publications/a-e/associated-press-news/index.md)
     - on 25 April 2016
-    - about [Bangles](../../../topics/bangles/index.md), [Chaka Khan](../../../topics/chaka-khan/index.md), [Cyndi Lauper](../../../topics/cyndi-lauper/index.md), [Erykah Badu](../../../topics/erykah-badu/index.md), [Esperanza Spalding](../../../topics/esperanza-spalding/index.md), [Fleetwood Mac](../../../topics/fleetwood-mac/index.md), [I Feel For You (song)](../../../topics/song/i-feel-for-you/index.md), [Judith Hill](../../../topics/judith-hill/index.md), [Kandace Springs](../../../topics/kandace-springs/index.md), [Ken Ehrlich](../../../topics/ken-ehrlich/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Liv Warfield](../../../topics/liv-warfield/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Rita Ora](../../../topics/rita-ora/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [Stand Back (song)](../../../topics/song/stand-back/index.md), [Stevie Nicks](../../../topics/stevie-nicks/index.md), [Stevie Wonder](../../../topics/stevie-wonder/index.md), [Sunset Sound (place)](../../../topics/place/sunset-sound/index.md)
+    - about [Bangles](../../../topics/bangles/index.md), [Chaka Khan](../../../topics/chaka-khan/index.md), [Cyndi Lauper](../../../topics/cyndi-lauper/index.md), [Erykah Badu](../../../topics/erykah-badu/index.md), [Esperanza Spalding](../../../topics/esperanza-spalding/index.md), [Fleetwood Mac](../../../topics/fleetwood-mac/index.md), [I Feel For You (song)](../../../topics/song/i-feel-for-you/index.md), [Judith Hill](../../../topics/judith-hill/index.md), [Kandace Springs](../../../topics/kandace-springs/index.md), [Ken Ehrlich](../../../topics/ken-ehrlich/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Liv Warfield](../../../topics/liv-warfield/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Rita Ora](../../../topics/rita-ora/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [Stand Back (song)](../../../topics/song/stand-back/index.md), [Stevie Nicks](../../../topics/stevie-nicks/index.md), [Stevie Wonder](../../../topics/stevie-wonder/index.md), [Sunset Sound (place)](../../../topics/place/sunset-sound/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/archive-0cd78570b8f24969999622976c4cf547))
 
 <br />
@@ -505,7 +949,7 @@
  - [**"Prince: An appreciation"**](https://www.cbsnews.com/news/prince-an-appreciation/)
     - in [CBS News](../../../publications/a-e/cbs-news/index.md)
     - on 24 April 2016
-    - about [Bangles](../../../topics/bangles/index.md), [George Clinton](../../../topics/george-clinton/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Raspberry Beret (song)](../../../topics/song/raspberry-beret/index.md), [U Got the Look (song)](../../../topics/song/u-got-the-look/index.md)
+    - about [Bangles](../../../topics/bangles/index.md), [George Clinton](../../../topics/george-clinton/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Raspberry Beret (song)](../../../topics/song/raspberry-beret/index.md), [Sinead O'Connor](../../../topics/sinead-o-connor/index.md), [U Got the Look (song)](../../../topics/song/u-got-the-look/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/news/prince-an-appreciation/))
 
 <br />
@@ -513,7 +957,7 @@
  - [**"A synthesizer of sounds, Prince ‘rewrote the rulebook’"**](https://apnews.com/c07d6a9a2752405fa8ed91e8d949806a)
     - in [Associated Press News](../../../publications/a-e/associated-press-news/index.md)
     - on 22 April 2016
-    - about [Bangles](../../../topics/bangles/index.md), [contract](../../../topics/contract/index.md), [Cyndi Lauper](../../../topics/cyndi-lauper/index.md), [Frank Zappa](../../../topics/frank-zappa/index.md), [Judith Hill](../../../topics/judith-hill/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [memoir](../../../topics/memoir/index.md), [Morris Day](../../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Obama](../../../topics/obama/index.md), [Oprah (TV show)](../../../topics/tv-show/oprah/index.md), [Parents Music Resource Center](../../../topics/parents-music-resource-center/index.md), [Roger Ebert](../../../topics/roger-ebert/index.md), [The Time](../../../topics/the-time/index.md), [White House (place)](../../../topics/place/white-house/index.md)
+    - about [Bangles](../../../topics/bangles/index.md), [contract](../../../topics/contract/index.md), [Cyndi Lauper](../../../topics/cyndi-lauper/index.md), [Frank Zappa](../../../topics/frank-zappa/index.md), [Judith Hill](../../../topics/judith-hill/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [memoir](../../../topics/memoir/index.md), [Morris Day](../../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Obama](../../../topics/obama/index.md), [Oprah (TV show)](../../../topics/tv-show/oprah/index.md), [Parents Music Resource Center](../../../topics/parents-music-resource-center/index.md), [Roger Ebert](../../../topics/roger-ebert/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [The Time](../../../topics/the-time/index.md), [White House (place)](../../../topics/place/white-house/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/c07d6a9a2752405fa8ed91e8d949806a))
 
 <br />
@@ -521,7 +965,7 @@
  - [**"Pop superstar Prince dies at his Minnesota home at age 57"**](https://apnews.com/b9e3df0421a04344835cd4fac7680c24)
     - in [Associated Press News](../../../publications/a-e/associated-press-news/index.md)
     - on 22 April 2016
-    - about [Bangles](../../../topics/bangles/index.md), [contract](../../../topics/contract/index.md), [Cyndi Lauper](../../../topics/cyndi-lauper/index.md), [Frank Zappa](../../../topics/frank-zappa/index.md), [memoir](../../../topics/memoir/index.md), [Morris Day](../../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Obama](../../../topics/obama/index.md), [Oprah (TV show)](../../../topics/tv-show/oprah/index.md), [Parents Music Resource Center](../../../topics/parents-music-resource-center/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md), [White House (place)](../../../topics/place/white-house/index.md)
+    - about [Bangles](../../../topics/bangles/index.md), [contract](../../../topics/contract/index.md), [Cyndi Lauper](../../../topics/cyndi-lauper/index.md), [Frank Zappa](../../../topics/frank-zappa/index.md), [memoir](../../../topics/memoir/index.md), [Morris Day](../../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Obama](../../../topics/obama/index.md), [Oprah (TV show)](../../../topics/tv-show/oprah/index.md), [Parents Music Resource Center](../../../topics/parents-music-resource-center/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md), [White House (place)](../../../topics/place/white-house/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/b9e3df0421a04344835cd4fac7680c24))
 
 <br />
@@ -529,7 +973,7 @@
  - [**"Prince “reescribió las reglas” de la música"**](https://apnews.com/article/dbe5c9245d024a89bca2376ee8b631c0)
     - in [Associated Press News](../../../publications/a-e/associated-press-news/index.md)
     - on 22 April 2016
-    - about [Bangles](../../../topics/bangles/index.md), [Black Album (album)](../../../topics/album/black-album/index.md), [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Cyndi Lauper](../../../topics/cyndi-lauper/index.md), [Darling Nikki (song)](../../../topics/song/darling-nikki/index.md), [Eden Prairie (place)](../../../topics/place/eden-prairie/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Frank Zappa](../../../topics/frank-zappa/index.md), [James Brown](../../../topics/james-brown/index.md), [Judith Hill](../../../topics/judith-hill/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Morris Day](../../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Oprah (TV show)](../../../topics/tv-show/oprah/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Parents Music Resource Center](../../../topics/parents-music-resource-center/index.md), [Roger Ebert](../../../topics/roger-ebert/index.md), [The Black Album (album)](../../../topics/album/the-black-album/index.md), [Tidal](../../../topics/tidal/index.md), [Tipper Gore](../../../topics/tipper-gore/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md), [Yvette Noel-Schure](../../../topics/yvette-noel-schure/index.md)
+    - about [Bangles](../../../topics/bangles/index.md), [Black Album (album)](../../../topics/album/black-album/index.md), [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Cyndi Lauper](../../../topics/cyndi-lauper/index.md), [Darling Nikki (song)](../../../topics/song/darling-nikki/index.md), [Eden Prairie (place)](../../../topics/place/eden-prairie/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Frank Zappa](../../../topics/frank-zappa/index.md), [James Brown](../../../topics/james-brown/index.md), [Judith Hill](../../../topics/judith-hill/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Morris Day](../../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Oprah (TV show)](../../../topics/tv-show/oprah/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Parents Music Resource Center](../../../topics/parents-music-resource-center/index.md), [Roger Ebert](../../../topics/roger-ebert/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [The Black Album (album)](../../../topics/album/the-black-album/index.md), [Tidal](../../../topics/tidal/index.md), [Tipper Gore](../../../topics/tipper-gore/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md), [Yvette Noel-Schure](../../../topics/yvette-noel-schure/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/dbe5c9245d024a89bca2376ee8b631c0))
 
 <br />
@@ -537,8 +981,25 @@
  - [**"Prince, hugely inventive, influential musician, dead at 57"**](https://apnews.com/988e107cf6964494b58ad2ca9bcd0985)
     - in [Associated Press News](../../../publications/a-e/associated-press-news/index.md)
     - on 22 April 2016
-    - about [Academy Award](../../../topics/academy-award/index.md), [Atlanta (place)](../../../topics/place/atlanta/index.md), [Bangles](../../../topics/bangles/index.md), [contract](../../../topics/contract/index.md), [Cyndi Lauper](../../../topics/cyndi-lauper/index.md), [Frank Zappa](../../../topics/frank-zappa/index.md), [I Wanna Be Your Lover (song)](../../../topics/song/i-wanna-be-your-lover/index.md), [James Brown](../../../topics/james-brown/index.md), [Judith Hill](../../../topics/judith-hill/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [memoir](../../../topics/memoir/index.md), [Morris Day](../../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Obama](../../../topics/obama/index.md), [Oprah (TV show)](../../../topics/tv-show/oprah/index.md), [Parents Music Resource Center](../../../topics/parents-music-resource-center/index.md), [Roger Ebert](../../../topics/roger-ebert/index.md), [Tidal](../../../topics/tidal/index.md), [Vanity](../../../topics/vanity/index.md), [White House (place)](../../../topics/place/white-house/index.md)
+    - about [Academy Award](../../../topics/academy-award/index.md), [Atlanta (place)](../../../topics/place/atlanta/index.md), [Bangles](../../../topics/bangles/index.md), [contract](../../../topics/contract/index.md), [Cyndi Lauper](../../../topics/cyndi-lauper/index.md), [Frank Zappa](../../../topics/frank-zappa/index.md), [I Wanna Be Your Lover (song)](../../../topics/song/i-wanna-be-your-lover/index.md), [James Brown](../../../topics/james-brown/index.md), [Judith Hill](../../../topics/judith-hill/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [memoir](../../../topics/memoir/index.md), [Morris Day](../../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Obama](../../../topics/obama/index.md), [Oprah (TV show)](../../../topics/tv-show/oprah/index.md), [Parents Music Resource Center](../../../topics/parents-music-resource-center/index.md), [Roger Ebert](../../../topics/roger-ebert/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [Tidal](../../../topics/tidal/index.md), [Vanity](../../../topics/vanity/index.md), [White House (place)](../../../topics/place/white-house/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/988e107cf6964494b58ad2ca9bcd0985))
+
+<br />
+
+ - [**"Pop superstar Prince dead at 57"**](https://www.chron.com/entertainment/celebrities/article/Reports-Prince-dead-at-57-7287598.php)
+    - in [The Houston Chronicle at Chron.com](../../../publications/f-j/the-houston-chronicle-at-chron-com/index.md)
+    - on 21 April 2016
+    - about [Atlanta (place)](../../../topics/place/atlanta/index.md), [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Eden Prairie (place)](../../../topics/place/eden-prairie/index.md), [Judith Hill](../../../topics/judith-hill/index.md), [memoir](../../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Piano and a Microphone (tour)](../../../topics/tour/piano-and-a-microphone/index.md), [Sinead O'Connor](../../../topics/sinead-o-connor/index.md), [Spiegel & Grau](../../../topics/spiegel-grau/index.md), [Yvette Noel-Schure](../../../topics/yvette-noel-schure/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.chron.com/entertainment/celebrities/article/Reports-Prince-dead-at-57-7287598.php))
+
+<br />
+
+ - [**"Prince, a singular, meticulous master of pop, dies at 57"**](https://www.sfchronicle.com/news/nation-world/nation/article/Prince-a-singular-meticulous-master-of-pop-7294913.php)
+    - by [Jon Pareles](../../../authors/jon-pareles/index.md)
+    - in [San Francisco Chronicle](../../../publications/p-t/san-francisco-chronicle/index.md)
+    - on 21 April 2016
+    - about [Albert Magnoli](../../../topics/albert-magnoli/index.md), [Chaka Khan](../../../topics/chaka-khan/index.md), [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [I Feel For You (song)](../../../topics/song/i-feel-for-you/index.md), [I Wanna Be Your Lover (song)](../../../topics/song/i-wanna-be-your-lover/index.md), [I Would Die 4 U (song)](../../../topics/song/i-would-die-4-u/index.md), [Jim Olson](../../../topics/jim-olson/index.md), [John L. Nelson](../../../topics/john-l-nelson/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Morris Day](../../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Raspberry Beret (song)](../../../topics/song/raspberry-beret/index.md), [Sinead O'Connor](../../../topics/sinead-o-connor/index.md), [Super Bowl](../../../topics/super-bowl/index.md), [Under the Cherry Moon (movie)](../../../topics/movie/under-the-cherry-moon/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md), [While My Guitar Gently Weeps (song)](../../../topics/song/while-my-guitar-gently-weeps/index.md), [Yvette Noel-Schure](../../../topics/yvette-noel-schure/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.sfchronicle.com/news/nation-world/nation/article/Prince-a-singular-meticulous-master-of-pop-7294913.php))
 
 <br />
 
@@ -550,15 +1011,74 @@
 
 ----
 
-## 2012 (1)
+## 2013 (1)
+
+### 2013 May (1)
+
+ - [**"Prince plays Chicago with biggest band ever -- Monday's concert at United Center, the first of three in the Windy City, left fans wanting more."**](https://www.startribune.com/prince-plays-chicago-with-biggest-band-ever/171147871/)
+    - by [Jon Bream](../../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 3 May 2013
+    - about [Morris Day](../../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Sinead O'Connor](../../../topics/sinead-o-connor/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-plays-chicago-with-biggest-band-ever/171147871/))
+
+----
+
+## 2012 (2)
+
+### 2012 December (1)
+
+ - [**"Nothing compares to Brandi Carlile on New Year's Eve"**](https://www.startribune.com/nothing-compares-to-brandi-carlile-on-new-year-s-eve/185253922/)
+    - by 
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 31 December 2012
+    - about [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Sinead O'Connor](../../../topics/sinead-o-connor/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/nothing-compares-to-brandi-carlile-on-new-year-s-eve/185253922/))
+
+----
 
 ### 2012 February (1)
 
  - [**"Classic Tracks: Sinéad O’Connor ‘Nothing Compares 2 U’ -- Recording Sinéad O'Connor's breakthrough hit was easy in some ways, but difficult in others — for example, all compression was forbidden..."**](https://www.soundonsound.com/people/sinead-oconnor-nothing-compares-2-u)
     - in [soundonsound.com](../../../publications/p-t/soundonsound-com/index.md)
     - on 1 February 2012
-    - about [contract](../../../topics/contract/index.md), [divorce](../../../topics/divorce/index.md), [Grammy Award](../../../topics/grammy-award/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [royalties](../../../topics/royalties/index.md), [Sinéad O'Connor](../../../topics/sin-ad-o-connor/index.md), [The Family](../../../topics/the-family/index.md), [Toronto (place)](../../../topics/place/toronto/index.md)
+    - about [contract](../../../topics/contract/index.md), [divorce](../../../topics/divorce/index.md), [Grammy Award](../../../topics/grammy-award/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [royalties](../../../topics/royalties/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md), [Sinéad O'Connor](../../../topics/sin-ad-o-connor/index.md), [The Family](../../../topics/the-family/index.md), [Toronto (place)](../../../topics/place/toronto/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.soundonsound.com/people/sinead-oconnor-nothing-compares-2-u))
+
+----
+
+## 2011 (2)
+
+### 2011 September (1)
+
+ - [**"It&#039;s a Family affair for the band fDeluxe -- After being put in a band by Prince 25 years ago, vocalists Paul Peterson and Susannah Melvoin reunite in fDeluxe."**](https://www.startribune.com/it-s-a-family-affair-for-the-band-fdeluxe/129894773/)
+    - by [Jon Bream](../../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 15 September 2011
+    - about [Jellybean Johnson](../../../topics/jellybean-johnson/index.md), [Morris Day](../../../topics/morris-day/index.md), [Morris Day & The Time](../../../topics/morris-day-the-time/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Paula Abdul](../../../topics/paula-abdul/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/it-s-a-family-affair-for-the-band-fdeluxe/129894773/))
+
+----
+
+### 2011 February (1)
+
+ - [**"Divas&#039; do&#039;s, and the guy who does &#039;em -- Who's a bigger diva, Diana Ross or Naomi Campbell? I asked a hairstyling icon who'd know the answer on Monday at the Wayzata location of Jon Charles Salon."**](https://www.startribune.com/miss-ross-or-naomi-their-stylist-knows-who-s-the-bigger-diva/115685054/)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 10 February 2011
+    - about [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Symbolina](../../../topics/symbolina/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/miss-ross-or-naomi-their-stylist-knows-who-s-the-bigger-diva/115685054/))
+
+----
+
+## 2010 (1)
+
+### 2010 September (1)
+
+ - [**"Sinead O'Connor: 'The Vatican is a nest of devils' -- When she tore up the pope's picture as a protest against child abuse, people thought she was loopy. But Sinead O'Connor – former pop star, priest, newly married mother of four – won't say 'I told you so'"**](https://www.theguardian.com/world/2010/sep/10/sinead-oconnor-pope-visit)
+    - in [The Guardian](../../../publications/f-j/the-guardian/index.md)
+    - on 11 September 2010
+    - about [Bob Dylan](../../../topics/bob-dylan/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Sinead O'Connor](../../../topics/sinead-o-connor/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/world/2010/sep/10/sinead-oconnor-pope-visit))
 
 ----
 
@@ -569,7 +1089,7 @@
  - [**"Prince"**](https://variety.com/2009/music/markets-festivals/prince-4-1200473979/)
     - in [Variety](../../../publications/u-z/variety/index.md)
     - on 29 March 2009
-    - about [Bria Valente](../../../topics/bria-valente/index.md), [Chaka Khan](../../../topics/chaka-khan/index.md), [Club Nokia (place)](../../../topics/place/club-nokia/index.md), [Colonized Mind (song)](../../../topics/song/colonized-mind/index.md), [Conga Room (place)](../../../topics/place/conga-room/index.md), [Dreamer (song)](../../../topics/song/dreamer/index.md), [LotusFlow3r (album)](../../../topics/album/lotusflow3r/index.md), [Michael Bland](../../../topics/michael-bland/index.md), [MPLSoUND (album)](../../../topics/album/mplsound/index.md), [Nokia Theater (place)](../../../topics/place/nokia-theater/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Renato Neto](../../../topics/renato-neto/index.md), [Sonny T.](../../../topics/sonny-t/index.md), [The Beautiful Ones (song)](../../../topics/song/the-beautiful-ones/index.md)
+    - about [Bria Valente](../../../topics/bria-valente/index.md), [Chaka Khan](../../../topics/chaka-khan/index.md), [Club Nokia (place)](../../../topics/place/club-nokia/index.md), [Colonized Mind (song)](../../../topics/song/colonized-mind/index.md), [Conga Room (place)](../../../topics/place/conga-room/index.md), [Dreamer (song)](../../../topics/song/dreamer/index.md), [LotusFlow3r (album)](../../../topics/album/lotusflow3r/index.md), [Michael Bland](../../../topics/michael-bland/index.md), [MPLSoUND (album)](../../../topics/album/mplsound/index.md), [Nokia Theater (place)](../../../topics/place/nokia-theater/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Renato Neto](../../../topics/renato-neto/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [Sonny T.](../../../topics/sonny-t/index.md), [The Beautiful Ones (song)](../../../topics/song/the-beautiful-ones/index.md)
     - ([mirror](https://web.archive.org/web/*/https://variety.com/2009/music/markets-festivals/prince-4-1200473979/))
 
 ----

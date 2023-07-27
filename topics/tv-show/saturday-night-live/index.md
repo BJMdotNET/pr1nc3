@@ -1,5 +1,81 @@
 # Saturday Night Live (TV show)
 
+## 2023 (9)
+
+### 2023 July (9)
+
+ - [**"Controversy never drowned out the astonishing songcraft of Sinéad O’Connor -- As well as being a fearless interpreter of others’ work, the late singer adapted to a seemingly endless array of styles, marking her out as a bold and utterly singular artist"**](https://www.theguardian.com/music/2023/jul/26/controversy-never-drowned-out-the-astonishing-songcraft-of-sinead-oconnor)
+    - in [The Guardian](../../../publications/f-j/the-guardian/index.md)
+    - on 27 July 2023
+    - about [Bob Dylan](../../../topics/bob-dylan/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/music/2023/jul/26/controversy-never-drowned-out-the-astonishing-songcraft-of-sinead-oconnor))
+
+<br />
+
+ - [**"Sinead O’Connor: the angelic skinhead for whom love, intelligence and madness were inseparable -- I interviewed Sinéad twice. She was supremely gifted, terrifyingly vulnerable and hilarious – even at her bleakest she’d make you laugh"**](https://www.theguardian.com/music/2023/jul/27/sinead-oconnor-mental-health-struggles-parental-abuse)
+    - in [The Guardian](../../../publications/f-j/the-guardian/index.md)
+    - on 27 July 2023
+    - about [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/music/2023/jul/27/sinead-oconnor-mental-health-struggles-parental-abuse))
+
+<br />
+
+ - [**"Sinéad O’Connor and Prince Controversy Explained: All About the Drama Behind ‘Nothing Compares 2 U' -- Prince's estate refused rights for O'Connor's hit track to be used in her 2022 documentary, 'Nothing Compares,' named after the song"**](https://people.com/sinead-oconnor-prince-nothing-compares-2-u-drama-explained-7566098)
+    - in [People](../../../publications/p-t/people/index.md)
+    - on 26 July 2023
+    - about [memoir](../../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [Rosie Gaines](../../../topics/rosie-gaines/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Sharon Nelson](../../../topics/sharon-nelson/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md), [The Prince Estate](../../../topics/the-prince-estate/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://people.com/sinead-oconnor-prince-nothing-compares-2-u-drama-explained-7566098))
+
+<br />
+
+ - [**"Sinead O’Connor, Evocative and Outspoken Singer, Is Dead at 56 -- She broke out with the single “Nothing Compares 2 U,” then caused an uproar a few years later by ripping up a photo of Pope John Paul II on “S.N.L.”"**](https://www.nytimes.com/2023/07/26/arts/music/sinead-oconnor-dead.html)
+    - in [New York Times](../../../publications/k-o/new-york-times/index.md)
+    - on 26 July 2023
+    - about [Bob Dylan](../../../topics/bob-dylan/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [The Family](../../../topics/the-family/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.nytimes.com/2023/07/26/arts/music/sinead-oconnor-dead.html))
+
+<br />
+
+ - [**"Sinéad O’Connor, Irish Singer of ‘Nothing Compares 2 U,’ Dies at 56"**](https://variety.com/2023/music/news/sinead-oconnor-dead-nothing-compares-2-u-1235680724/)
+    - in [Variety](../../../publications/u-z/variety/index.md)
+    - on 26 July 2023
+    - about [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md), [The Family](../../../topics/the-family/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://variety.com/2023/music/news/sinead-oconnor-dead-nothing-compares-2-u-1235680724/))
+
+<br />
+
+ - [**"Sinéad O’Connor, Irish singer of ‘Nothing Compares 2 U’ and more, dead at 56, Irish media says"**](https://edition.cnn.com/2023/07/26/entertainment/sinead-oconnor-death/index.html)
+    - in [CNN International](../../../publications/a-e/cnn-international/index.md)
+    - on 26 July 2023
+    - about [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://edition.cnn.com/2023/07/26/entertainment/sinead-oconnor-death/index.html))
+
+<br />
+
+ - [**"Sinéad O'Connor Dead at 56 -- The "Nothing Compares 2 U" singer had struggled for years with her mental health, and had recently announced plans for new music and a tour"**](https://people.com/sinead-o-connor-dead-at-age-56-7565896)
+    - in [People](../../../publications/p-t/people/index.md)
+    - on 26 July 2023
+    - about [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Sinéad O'Connor](../../../topics/sin-ad-o-connor/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://people.com/sinead-o-connor-dead-at-age-56-7565896))
+
+<br />
+
+ - [**"Sinéad O'Connor obituary: A talent beyond compare"**](https://www.bbc.com/news/entertainment-arts-35031186)
+    - in [BBC News](../../../publications/a-e/bbc-news/index.md)
+    - on 26 July 2023
+    - about [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Sinéad O'Connor](../../../topics/sin-ad-o-connor/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.bbc.com/news/entertainment-arts-35031186))
+
+<br />
+
+ - [**"Sinéad O'Connor: Irish singer dies aged 56"**](https://www.bbc.com/news/entertainment-arts-66318626)
+    - in [BBC News](../../../publications/a-e/bbc-news/index.md)
+    - on 26 July 2023
+    - about [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Sinéad O'Connor](../../../topics/sin-ad-o-connor/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.bbc.com/news/entertainment-arts-66318626))
+
+----
+
 ## 2022 (1)
 
 ### 2022 March (1)
@@ -9,6 +85,26 @@
     - on 4 March 2022
     - about [200 Balloons (song)](../../../topics/song/200-balloons/index.md), [Albert Magnoli](../../../topics/albert-magnoli/index.md), [Anna “Fantastic” Garcia](../../../topics/anna-fantastic-garcia/index.md), [Baby I’m a Star (song)](../../../topics/song/baby-i-m-a-star/index.md), [Batdance (song)](../../../topics/song/batdance/index.md), [Batman (album)](../../../topics/album/batman/index.md), [Bill Gerber](../../../topics/bill-gerber/index.md), [Chuck Zwicky](../../../topics/chuck-zwicky/index.md), [Dance With the Devil (song)](../../../topics/song/dance-with-the-devil/index.md), [Danny Elfman](../../../topics/danny-elfman/index.md), [Eddie Murphy](../../../topics/eddie-murphy/index.md), [Electric Chair (song)](../../../topics/song/electric-chair/index.md), [Eric Leeds](../../../topics/eric-leeds/index.md), [Gary Hines](../../../topics/gary-hines/index.md), [Gary LeMel](../../../topics/gary-lemel/index.md), [Gemini](../../../topics/gemini/index.md), [Jack Nicholson](../../../topics/jack-nicholson/index.md), [Kim Basinger](../../../topics/kim-basinger/index.md), [Lemon Crush (song)](../../../topics/song/lemon-crush/index.md), [London (place)](../../../topics/place/london/index.md), [Mark Canton](../../../topics/mark-canton/index.md), [Matt “Dr. Fink” Fink](../../../topics/matt-dr-fink-fink/index.md), [Matt Larson](../../../topics/matt-larson/index.md), [Michael Jackson](../../../topics/michael-jackson/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Paisley Park Studios (place)](../../../topics/place/paisley-park-studios/index.md), [Partyman (song)](../../../topics/song/partyman/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Scandalous (song)](../../../topics/song/scandalous/index.md), [Sheena Easton](../../../topics/sheena-easton/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [Sounds of Blackness](../../../topics/sounds-of-blackness/index.md), [The Arms of Orion (song)](../../../topics/song/the-arms-of-orion/index.md), [Tim Burton](../../../topics/tim-burton/index.md), [Vicki Waiting (song)](../../../topics/song/vicki-waiting/index.md), [Warner Bros. Records](../../../topics/warner-bros-records/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.theringer.com/movies/2022/3/4/22960026/prince-batman-soundtrack-oral-history-batdance))
+
+----
+
+## 2021 (2)
+
+### 2021 May (2)
+
+ - [**"Sinéad O’Connor: ‘I’ll always be a bit crazy, but that’s OK’ -- After a life marked by abuse, fame, scandal and struggle, the Irish singer-songwriter says she never lost faith"**](https://www.theguardian.com/music/2021/may/29/sinead-oconnor-ill-always-be-a-bit-crazy-but-thats-ok-rememberings)
+    - in [The Guardian](../../../publications/f-j/the-guardian/index.md)
+    - on 29 May 2021
+    - about [Bob Dylan](../../../topics/bob-dylan/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md), [The Family](../../../topics/the-family/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/music/2021/may/29/sinead-oconnor-ill-always-be-a-bit-crazy-but-thats-ok-rememberings))
+
+<br />
+
+ - [**"Sinead O’Connor Remembers Things Differently -- The mainstream narrative is that a pop star ripped up a photo of the pope on “Saturday Night Live” and derailed her life. What if the opposite were true?"**](https://www.nytimes.com/2021/05/18/arts/music/sinead-oconnor-rememberings.html)
+    - in [New York Times](../../../publications/k-o/new-york-times/index.md)
+    - on 18 May 2021
+    - about [Bob Dylan](../../../topics/bob-dylan/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.nytimes.com/2021/05/18/arts/music/sinead-oconnor-rememberings.html))
 
 ----
 
@@ -130,7 +226,7 @@
     - by [Camille Dodero](../../../authors/camille-dodero/index.md)
     - in [Billboard](../../../publications/a-e/billboard/index.md)
     - on 28 April 2016
-    - about [3rdEyeGirl](../../../topics/3rdeyegirl/index.md), [Apollonia 6](../../../topics/apollonia-6/index.md), [Bangles](../../../topics/bangles/index.md), [Boy Gregory](../../../topics/boy-gregory/index.md), [Bria Valente](../../../topics/bria-valente/index.md), [Cat Glover](../../../topics/cat-glover/index.md), [Chaka Khan](../../../topics/chaka-khan/index.md), [contract](../../../topics/contract/index.md), [Denise Matthews](../../../topics/denise-matthews/index.md), [Dez Dickerson](../../../topics/dez-dickerson/index.md), [divorce](../../../topics/divorce/index.md), [Donna Grantis](../../../topics/donna-grantis/index.md), [Hannah Welton](../../../topics/hannah-welton/index.md), [I Feel For You (song)](../../../topics/song/i-feel-for-you/index.md), [I Wanna Be Your Lover (song)](../../../topics/song/i-wanna-be-your-lover/index.md), [Ingrid Chavez](../../../topics/ingrid-chavez/index.md), [Jehovah’s Witness](../../../topics/jehovah-s-witness/index.md), [Kristin Scott Thomas](../../../topics/kristin-scott-thomas/index.md), [Lisa Coleman](../../../topics/lisa-coleman/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Manuela Testolini](../../../topics/manuela-testolini/index.md), [Martika](../../../topics/martika/index.md), [Mavis Staples](../../../topics/mavis-staples/index.md), [Mayte](../../../topics/mayte/index.md), [Mayte Garcia](../../../topics/mayte-garcia/index.md), [Misty Copeland](../../../topics/misty-copeland/index.md), [Nasty Girl (song)](../../../topics/song/nasty-girl/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Paisley Park Records](../../../topics/paisley-park-records/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Sheena Easton](../../../topics/sheena-easton/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [Stand Back (song)](../../../topics/song/stand-back/index.md), [Stevie Nicks](../../../topics/stevie-nicks/index.md), [Sugar Walls (song)](../../../topics/song/sugar-walls/index.md), [Susanna Hoffs](../../../topics/susanna-hoffs/index.md), [Susannah Melvoin](../../../topics/susannah-melvoin/index.md), [The Revolution](../../../topics/the-revolution/index.md), [U Got the Look (song)](../../../topics/song/u-got-the-look/index.md), [Under the Cherry Moon (movie)](../../../topics/movie/under-the-cherry-moon/index.md), [Vanity](../../../topics/vanity/index.md), [Vanity 6](../../../topics/vanity-6/index.md), [Wendy & Lisa](../../../topics/wendy-lisa/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
+    - about [3rdEyeGirl](../../../topics/3rdeyegirl/index.md), [Apollonia 6](../../../topics/apollonia-6/index.md), [Bangles](../../../topics/bangles/index.md), [Boy Gregory](../../../topics/boy-gregory/index.md), [Bria Valente](../../../topics/bria-valente/index.md), [Cat Glover](../../../topics/cat-glover/index.md), [Chaka Khan](../../../topics/chaka-khan/index.md), [contract](../../../topics/contract/index.md), [Denise Matthews](../../../topics/denise-matthews/index.md), [Dez Dickerson](../../../topics/dez-dickerson/index.md), [divorce](../../../topics/divorce/index.md), [Donna Grantis](../../../topics/donna-grantis/index.md), [Hannah Welton](../../../topics/hannah-welton/index.md), [I Feel For You (song)](../../../topics/song/i-feel-for-you/index.md), [I Wanna Be Your Lover (song)](../../../topics/song/i-wanna-be-your-lover/index.md), [Ingrid Chavez](../../../topics/ingrid-chavez/index.md), [Jehovah’s Witness](../../../topics/jehovah-s-witness/index.md), [Kristin Scott Thomas](../../../topics/kristin-scott-thomas/index.md), [Lisa Coleman](../../../topics/lisa-coleman/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Manuela Testolini](../../../topics/manuela-testolini/index.md), [Martika](../../../topics/martika/index.md), [Mavis Staples](../../../topics/mavis-staples/index.md), [Mayte](../../../topics/mayte/index.md), [Mayte Garcia](../../../topics/mayte-garcia/index.md), [Misty Copeland](../../../topics/misty-copeland/index.md), [Nasty Girl (song)](../../../topics/song/nasty-girl/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Paisley Park Records](../../../topics/paisley-park-records/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Sheena Easton](../../../topics/sheena-easton/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md), [Stand Back (song)](../../../topics/song/stand-back/index.md), [Stevie Nicks](../../../topics/stevie-nicks/index.md), [Sugar Walls (song)](../../../topics/song/sugar-walls/index.md), [Susanna Hoffs](../../../topics/susanna-hoffs/index.md), [Susannah Melvoin](../../../topics/susannah-melvoin/index.md), [The Revolution](../../../topics/the-revolution/index.md), [U Got the Look (song)](../../../topics/song/u-got-the-look/index.md), [Under the Cherry Moon (movie)](../../../topics/movie/under-the-cherry-moon/index.md), [Vanity](../../../topics/vanity/index.md), [Vanity 6](../../../topics/vanity-6/index.md), [Wendy & Lisa](../../../topics/wendy-lisa/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/photos/7348470/prince-female-muses-collaborators-lovers-sheila-e-kim-basinger-more))
 
 <br />
@@ -180,6 +276,18 @@
     - on 10 September 2013
     - about [1-800-NEW-FUNK (album)](../../../topics/album/1-800-new-funk/index.md), [A&M Records](../../../topics/a-m-records/index.md), [American Bandstand](../../../topics/american-bandstand/index.md), [Blueberry Gossip (album)](../../../topics/album/blueberry-gossip/index.md), [Bunker’s Music Bar and Grill (place)](../../../topics/place/bunker-s-music-bar-and-grill/index.md), [Bunkers (place)](../../../topics/place/bunkers/index.md), [Chaka Khan](../../../topics/chaka-khan/index.md), [contract](../../../topics/contract/index.md), [Cynthia Johnson](../../../topics/cynthia-johnson/index.md), [Cynthia Jonson](../../../topics/cynthia-jonson/index.md), [Dick Clark](../../../topics/dick-clark/index.md), [Dr. Mambo’s Combo](../../../topics/dr-mambo-s-combo/index.md), [Dr. Mambo's Combo](../../../topics/dr-mambo-s-combo/index.md), [Everybody Dance (song)](../../../topics/song/everybody-dance/index.md), [Fleetwood Mac](../../../topics/fleetwood-mac/index.md), [Gerry Hubbard](../../../topics/gerry-hubbard/index.md), [Jesse Johnson](../../../topics/jesse-johnson/index.md), [Legendary Combo](../../../topics/legendary-combo/index.md), [Lipps, Inc.](../../../topics/lipps-inc/index.md), [Margaret Cox](../../../topics/margaret-cox/index.md), [Margie Cox](../../../topics/margie-cox/index.md), [Margie's Little Demo (album)](../../../topics/album/margie-s-little-demo/index.md), [Mavis Staples](../../../topics/mavis-staples/index.md), [MC Flash](../../../topics/mc-flash/index.md), [Patrice Rushen](../../../topics/patrice-rushen/index.md), [Paula Abdul](../../../topics/paula-abdul/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Standing at the Altar (song)](../../../topics/song/standing-at-the-altar/index.md), [Stevie Wonder](../../../topics/stevie-wonder/index.md), [Sue Ann Carwell](../../../topics/sue-ann-carwell/index.md), [Ta Mara and the Seen](../../../topics/ta-mara-and-the-seen/index.md), [The Legendary Combo](../../../topics/the-legendary-combo/index.md), [Tuff Girl (album)](../../../topics/album/tuff-girl/index.md), [vault](../../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/http://beautifulnightschitown.blogspot.com/2013/09/willing-and-able-margaret-cox-talks-2.html))
+
+----
+
+## 2010 (1)
+
+### 2010 September (1)
+
+ - [**"Sinead O'Connor: 'The Vatican is a nest of devils' -- When she tore up the pope's picture as a protest against child abuse, people thought she was loopy. But Sinead O'Connor – former pop star, priest, newly married mother of four – won't say 'I told you so'"**](https://www.theguardian.com/world/2010/sep/10/sinead-oconnor-pope-visit)
+    - in [The Guardian](../../../publications/f-j/the-guardian/index.md)
+    - on 11 September 2010
+    - about [Bob Dylan](../../../topics/bob-dylan/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Sinead O'Connor](../../../topics/sinead-o-connor/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/world/2010/sep/10/sinead-oconnor-pope-visit))
 
 ----
 

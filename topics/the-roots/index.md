@@ -85,7 +85,7 @@
     - by [Mesfin Fekadu (Associated Press)](../../authors/associated-press/mesfin-fekadu/index.md)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 28 July 2016
-    - about [Erykah Badu](../../topics/erykah-badu/index.md), [Janelle Monae](../../topics/janelle-monae/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [The Roots](../../topics/the-roots/index.md), [Tori Kelly](../../topics/tori-kelly/index.md)
+    - about [Erykah Badu](../../topics/erykah-badu/index.md), [Janelle Monae](../../topics/janelle-monae/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [The Roots](../../topics/the-roots/index.md), [Tori Kelly](../../topics/tori-kelly/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/08568057d51c46f8a3daf99e36db5e38))
 
 <br />

@@ -1,6 +1,24 @@
 # Bob Dylan
 
-## 2023 (1)
+## 2023 (3)
+
+### 2023 July (2)
+
+ - [**"Controversy never drowned out the astonishing songcraft of Sinéad O’Connor -- As well as being a fearless interpreter of others’ work, the late singer adapted to a seemingly endless array of styles, marking her out as a bold and utterly singular artist"**](https://www.theguardian.com/music/2023/jul/26/controversy-never-drowned-out-the-astonishing-songcraft-of-sinead-oconnor)
+    - in [The Guardian](../../publications/f-j/the-guardian/index.md)
+    - on 27 July 2023
+    - about [Bob Dylan](../../topics/bob-dylan/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/music/2023/jul/26/controversy-never-drowned-out-the-astonishing-songcraft-of-sinead-oconnor))
+
+<br />
+
+ - [**"Sinead O’Connor, Evocative and Outspoken Singer, Is Dead at 56 -- She broke out with the single “Nothing Compares 2 U,” then caused an uproar a few years later by ripping up a photo of Pope John Paul II on “S.N.L.”"**](https://www.nytimes.com/2023/07/26/arts/music/sinead-oconnor-dead.html)
+    - in [New York Times](../../publications/k-o/new-york-times/index.md)
+    - on 26 July 2023
+    - about [Bob Dylan](../../topics/bob-dylan/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md), [The Family](../../topics/the-family/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.nytimes.com/2023/07/26/arts/music/sinead-oconnor-dead.html))
+
+----
 
 ### 2023 May (1)
 
@@ -10,6 +28,26 @@
     - on 18 May 2023
     - about [Andy Warhol](../../topics/andy-warhol/index.md), [Andy Warhol Foundation](../../topics/andy-warhol-foundation/index.md), [Bob Dylan](../../topics/bob-dylan/index.md), [Bruce Springsteen](../../topics/bruce-springsteen/index.md), [Condé Nast](../../topics/cond-nast/index.md), [fair use](../../topics/fair-use/index.md), [IRS](../../topics/irs/index.md), [Joel Wachs](../../topics/joel-wachs/index.md), [lawsuit](../../topics/lawsuit/index.md), [Lynn Goldsmith](../../topics/lynn-goldsmith/index.md), [National Music Publishers’ Association](../../topics/national-music-publishers-association/index.md), [NMPA](../../topics/nmpa/index.md), [Purple Fame](../../topics/purple-fame/index.md), [Recording Industry Association of America](../../topics/recording-industry-association-of-america/index.md), [RIAA](../../topics/riaa/index.md), [Supreme Court](../../topics/supreme-court/index.md), [Vanity Fair (magazine)](../../topics/magazine/vanity-fair/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/pro/andy-warhol-prince-supreme-court-copyright-case-ruling/))
+
+----
+
+## 2021 (2)
+
+### 2021 May (2)
+
+ - [**"Sinéad O’Connor: ‘I’ll always be a bit crazy, but that’s OK’ -- After a life marked by abuse, fame, scandal and struggle, the Irish singer-songwriter says she never lost faith"**](https://www.theguardian.com/music/2021/may/29/sinead-oconnor-ill-always-be-a-bit-crazy-but-thats-ok-rememberings)
+    - in [The Guardian](../../publications/f-j/the-guardian/index.md)
+    - on 29 May 2021
+    - about [Bob Dylan](../../topics/bob-dylan/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md), [The Family](../../topics/the-family/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/music/2021/may/29/sinead-oconnor-ill-always-be-a-bit-crazy-but-thats-ok-rememberings))
+
+<br />
+
+ - [**"Sinead O’Connor Remembers Things Differently -- The mainstream narrative is that a pop star ripped up a photo of the pope on “Saturday Night Live” and derailed her life. What if the opposite were true?"**](https://www.nytimes.com/2021/05/18/arts/music/sinead-oconnor-rememberings.html)
+    - in [New York Times](../../publications/k-o/new-york-times/index.md)
+    - on 18 May 2021
+    - about [Bob Dylan](../../topics/bob-dylan/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.nytimes.com/2021/05/18/arts/music/sinead-oconnor-rememberings.html))
 
 ----
 
@@ -177,6 +215,18 @@
     - on 28 April 2016
     - about [3121 (album)](../../topics/album/3121/index.md), [94 East](../../topics/94-east/index.md), [André Cymone](../../topics/andr-cymone/index.md), [Bob Cavallo](../../topics/bob-cavallo/index.md), [Bob Dylan](../../topics/bob-dylan/index.md), [Chris Moon](../../topics/chris-moon/index.md), [divorce](../../topics/divorce/index.md), [Do Yourself a Favor (song)](../../topics/song/do-yourself-a-favor/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Jesse Johnson](../../topics/jesse-johnson/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Minnesota Vikings](../../topics/minnesota-vikings/index.md), [Morris Day](../../topics/morris-day/index.md), [Owen Husney](../../topics/owen-husney/index.md), [Pepe Willie](../../topics/pepe-willie/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.yahoo.com/entertainment/princes-former-mentor-pepe-willie-recalls-the-215708376.html))
+
+----
+
+## 2010 (1)
+
+### 2010 September (1)
+
+ - [**"Sinead O'Connor: 'The Vatican is a nest of devils' -- When she tore up the pope's picture as a protest against child abuse, people thought she was loopy. But Sinead O'Connor – former pop star, priest, newly married mother of four – won't say 'I told you so'"**](https://www.theguardian.com/world/2010/sep/10/sinead-oconnor-pope-visit)
+    - in [The Guardian](../../publications/f-j/the-guardian/index.md)
+    - on 11 September 2010
+    - about [Bob Dylan](../../topics/bob-dylan/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [Sinead O'Connor](../../topics/sinead-o-connor/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/world/2010/sep/10/sinead-oconnor-pope-visit))
 
 ----
 

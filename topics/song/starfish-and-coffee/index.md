@@ -21,7 +21,7 @@
     - by [Serge Simonart](../../../authors/serge-simonart/index.md)
     - in [Humo](../../../publications/f-j/humo/index.md)
     - on 8 July 2019
-    - about [contract](../../../topics/contract/index.md), [Cynthia Rose](../../../topics/cynthia-rose/index.md), [Michael Howe](../../../topics/michael-howe/index.md), [Mo Ostin](../../../topics/mo-ostin/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Starfish And Coffee (song)](../../../topics/song/starfish-and-coffee/index.md), [Susannah Melvoin](../../../topics/susannah-melvoin/index.md), [The Family](../../../topics/the-family/index.md)
+    - about [contract](../../../topics/contract/index.md), [Cynthia Rose](../../../topics/cynthia-rose/index.md), [Michael Howe](../../../topics/michael-howe/index.md), [Mo Ostin](../../../topics/mo-ostin/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md), [Starfish And Coffee (song)](../../../topics/song/starfish-and-coffee/index.md), [Susannah Melvoin](../../../topics/susannah-melvoin/index.md), [The Family](../../../topics/the-family/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.humo.be/humo-archief/403403/prince-humo-sprak-met-zijn-manager-en-muze-wij-hadden-een-heerlijk-seksleven-maar-als-er-een-song-in-zn-hoofd-opdook-moest-ik-wijken))
 
 ----
@@ -37,7 +37,18 @@
 
 ----
 
-## 2017 (2)
+## 2017 (3)
+
+### 2017 September (1)
+
+ - [**"Prince items belonging to Susannah Melvoin and other associates go up for auction"**](https://www.startribune.com/prince-items-belonging-to-susannah-melvoin-and-other-associates-go-up-for-auction/446849253/)
+    - by [Chris Riemenschneider](../../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 22 September 2017
+    - about [Eric Leeds](../../../topics/eric-leeds/index.md), [Gwen Leeds](../../../topics/gwen-leeds/index.md), [Helen Hiatt](../../../topics/helen-hiatt/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [PRN Productions](../../../topics/prn-productions/index.md), [Rick James](../../../topics/rick-james/index.md), [Starfish And Coffee (song)](../../../topics/song/starfish-and-coffee/index.md), [Susannah Melvoin](../../../topics/susannah-melvoin/index.md), [The Family](../../../topics/the-family/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-items-belonging-to-susannah-melvoin-and-other-associates-go-up-for-auction/446849253/))
+
+----
 
 ### 2017 April (1)
 
@@ -45,7 +56,7 @@
     - by [Eric Henderson](../../../authors/eric-henderson/index.md)
     - in [WCCO - CBS Minnesota](../../../publications/u-z/wcco-cbs-minnesota/index.md)
     - on 17 April 2017
-    - about [17 Days (song)](../../../topics/song/17-days/index.md), [4 the Tears in Your Eyes (song)](../../../topics/song/4-the-tears-in-your-eyes/index.md), [Baby I'm a Star (song)](../../../topics/song/baby-i-m-a-star/index.md), [Call My Name (song)](../../../topics/song/call-my-name/index.md), [Chaka Khan](../../../topics/chaka-khan/index.md), [Erotic City (song)](../../../topics/song/erotic-city/index.md), [Housequake (song)](../../../topics/song/housequake/index.md), [How Come U Don't Call Me Anymore (song)](../../../topics/song/how-come-u-don-t-call-me-anymore/index.md), [I Feel For You (song)](../../../topics/song/i-feel-for-you/index.md), [I Wanna Be Your Lover (song)](../../../topics/song/i-wanna-be-your-lover/index.md), [I Would Die 4 U (song)](../../../topics/song/i-would-die-4-u/index.md), [Joni Mitchell](../../../topics/joni-mitchell/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Nasty Girl (song)](../../../topics/song/nasty-girl/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Oprah (TV show)](../../../topics/tv-show/oprah/index.md), [Patrice Rushen](../../../topics/patrice-rushen/index.md), [Pop Life (song)](../../../topics/song/pop-life/index.md), [Raspberry Beret (song)](../../../topics/song/raspberry-beret/index.md), [Round and Round (song)](../../../topics/song/round-and-round/index.md), [Sex Shooter (song)](../../../topics/song/sex-shooter/index.md), [Sometimes It Snows In April (song)](../../../topics/song/sometimes-it-snows-in-april/index.md), [Starfish And Coffee (song)](../../../topics/song/starfish-and-coffee/index.md), [Tevin Campbell](../../../topics/tevin-campbell/index.md), [The Ballad Of Dorothy Parker (song)](../../../topics/song/the-ballad-of-dorothy-parker/index.md), [WCCO](../../../topics/wcco/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
+    - about [17 Days (song)](../../../topics/song/17-days/index.md), [4 the Tears in Your Eyes (song)](../../../topics/song/4-the-tears-in-your-eyes/index.md), [Baby I'm a Star (song)](../../../topics/song/baby-i-m-a-star/index.md), [Call My Name (song)](../../../topics/song/call-my-name/index.md), [Chaka Khan](../../../topics/chaka-khan/index.md), [Erotic City (song)](../../../topics/song/erotic-city/index.md), [Housequake (song)](../../../topics/song/housequake/index.md), [How Come U Don't Call Me Anymore (song)](../../../topics/song/how-come-u-don-t-call-me-anymore/index.md), [I Feel For You (song)](../../../topics/song/i-feel-for-you/index.md), [I Wanna Be Your Lover (song)](../../../topics/song/i-wanna-be-your-lover/index.md), [I Would Die 4 U (song)](../../../topics/song/i-would-die-4-u/index.md), [Joni Mitchell](../../../topics/joni-mitchell/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Nasty Girl (song)](../../../topics/song/nasty-girl/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Oprah (TV show)](../../../topics/tv-show/oprah/index.md), [Patrice Rushen](../../../topics/patrice-rushen/index.md), [Paula Abdul](../../../topics/paula-abdul/index.md), [Pop Life (song)](../../../topics/song/pop-life/index.md), [Raspberry Beret (song)](../../../topics/song/raspberry-beret/index.md), [Round and Round (song)](../../../topics/song/round-and-round/index.md), [Sex Shooter (song)](../../../topics/song/sex-shooter/index.md), [Sinead O'Connor](../../../topics/sinead-o-connor/index.md), [Sometimes It Snows In April (song)](../../../topics/song/sometimes-it-snows-in-april/index.md), [Starfish And Coffee (song)](../../../topics/song/starfish-and-coffee/index.md), [Tevin Campbell](../../../topics/tevin-campbell/index.md), [The Ballad Of Dorothy Parker (song)](../../../topics/song/the-ballad-of-dorothy-parker/index.md), [WCCO](../../../topics/wcco/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/top-25-best-prince-songs-of-all-time/))
 
 ----

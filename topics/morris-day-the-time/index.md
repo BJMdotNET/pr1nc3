@@ -87,7 +87,7 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 19 March 2021
-    - about [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - about [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/at-64-minnesota-music-hero-jellybean-johnson-makes-his-solo-guitar-debut/600035752/))
 
 ----
@@ -117,7 +117,7 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 21 April 2020
-    - about [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - about [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/tuesday-s-all-star-grammy-salute-proves-prince-does-music-better-than-anybody/569794772/))
 
 ----
@@ -210,7 +210,7 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 23 February 2018
-    - about [fDeluxe](../../topics/fdeluxe/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Super Bowl](../../topics/super-bowl/index.md)
+    - about [fDeluxe](../../topics/fdeluxe/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Super Bowl](../../topics/super-bowl/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/second-annual-celebration-at-prince-s-paisley-park-to-feature-sheila-e-fdeluxe-npg/474975113/))
 
 ----
@@ -293,7 +293,7 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 30 December 2016
-    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Tommy Barbarella](../../topics/tommy-barbarella/index.md)
+    - about [Chaka Khan](../../topics/chaka-khan/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Tommy Barbarella](../../topics/tommy-barbarella/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/artist-of-the-year-2016-prince-s-memorials-were-the-year-s-rock-stars/408655055/))
 
 ----
@@ -543,7 +543,7 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 15 September 2011
-    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md)
+    - about [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Paula Abdul](../../topics/paula-abdul/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/it-s-a-family-affair-for-the-band-fdeluxe/129894773/))
 
 ----

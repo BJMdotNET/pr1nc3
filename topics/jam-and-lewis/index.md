@@ -136,7 +136,7 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 19 March 2021
-    - about [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - about [Jam and Lewis](../../topics/jam-and-lewis/index.md), [Jellybean Johnson](../../topics/jellybean-johnson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/at-64-minnesota-music-hero-jellybean-johnson-makes-his-solo-guitar-debut/600035752/))
 
 ----

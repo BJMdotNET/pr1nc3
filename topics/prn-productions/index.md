@@ -1,5 +1,18 @@
 # PRN Productions
 
+## 2017 (1)
+
+### 2017 September (1)
+
+ - [**"Prince items belonging to Susannah Melvoin and other associates go up for auction"**](https://www.startribune.com/prince-items-belonging-to-susannah-melvoin-and-other-associates-go-up-for-auction/446849253/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 22 September 2017
+    - about [Eric Leeds](../../topics/eric-leeds/index.md), [Gwen Leeds](../../topics/gwen-leeds/index.md), [Helen Hiatt](../../topics/helen-hiatt/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [PRN Productions](../../topics/prn-productions/index.md), [Rick James](../../topics/rick-james/index.md), [Starfish And Coffee (song)](../../topics/song/starfish-and-coffee/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [The Family](../../topics/the-family/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-items-belonging-to-susannah-melvoin-and-other-associates-go-up-for-auction/446849253/))
+
+----
+
 ## 1989 (1)
 
 ### 1989 January (1)

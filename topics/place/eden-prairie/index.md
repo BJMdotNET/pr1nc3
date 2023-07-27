@@ -1,6 +1,16 @@
 # Eden Prairie (place)
 
-## 2023 (2)
+## 2023 (3)
+
+### 2023 July (1)
+
+ - [**"Nothing Compares 2 U: How the song of 1990 went from Prince to Sinéad and back again"**](https://www.abc.net.au/news/2023-07-27/nothing-compares-2-u-sinead-o-connor-prince-the-family/102654218)
+    - in [www.abc.net.au](../../../publications/u-z/www-abc-net-au/index.md)
+    - on 27 July 2023
+    - about [Eden Prairie (place)](../../../topics/place/eden-prairie/index.md), [Flying Cloud Drive (place)](../../../topics/place/flying-cloud-drive/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Paisley Park Records](../../../topics/paisley-park-records/index.md), [Prince & The Revolution](../../../topics/prince-the-revolution/index.md), [Rosie Gaines](../../../topics/rosie-gaines/index.md), [Sharon Nelson](../../../topics/sharon-nelson/index.md), [Sinéad O'Connor](../../../topics/sin-ad-o-connor/index.md), [The Family](../../../topics/the-family/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.abc.net.au/news/2023-07-27/nothing-compares-2-u-sinead-o-connor-prince-the-family/102654218))
+
+----
 
 ### 2023 June (1)
 
@@ -43,7 +53,7 @@
  - [**"Prince “reescribió las reglas” de la música"**](https://apnews.com/article/dbe5c9245d024a89bca2376ee8b631c0)
     - in [Associated Press News](../../../publications/a-e/associated-press-news/index.md)
     - on 22 April 2016
-    - about [Bangles](../../../topics/bangles/index.md), [Black Album (album)](../../../topics/album/black-album/index.md), [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Cyndi Lauper](../../../topics/cyndi-lauper/index.md), [Darling Nikki (song)](../../../topics/song/darling-nikki/index.md), [Eden Prairie (place)](../../../topics/place/eden-prairie/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Frank Zappa](../../../topics/frank-zappa/index.md), [James Brown](../../../topics/james-brown/index.md), [Judith Hill](../../../topics/judith-hill/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Morris Day](../../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Oprah (TV show)](../../../topics/tv-show/oprah/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Parents Music Resource Center](../../../topics/parents-music-resource-center/index.md), [Roger Ebert](../../../topics/roger-ebert/index.md), [The Black Album (album)](../../../topics/album/the-black-album/index.md), [Tidal](../../../topics/tidal/index.md), [Tipper Gore](../../../topics/tipper-gore/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md), [Yvette Noel-Schure](../../../topics/yvette-noel-schure/index.md)
+    - about [Bangles](../../../topics/bangles/index.md), [Black Album (album)](../../../topics/album/black-album/index.md), [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Cyndi Lauper](../../../topics/cyndi-lauper/index.md), [Darling Nikki (song)](../../../topics/song/darling-nikki/index.md), [Eden Prairie (place)](../../../topics/place/eden-prairie/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Frank Zappa](../../../topics/frank-zappa/index.md), [James Brown](../../../topics/james-brown/index.md), [Judith Hill](../../../topics/judith-hill/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Morris Day](../../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Oprah (TV show)](../../../topics/tv-show/oprah/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Parents Music Resource Center](../../../topics/parents-music-resource-center/index.md), [Roger Ebert](../../../topics/roger-ebert/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [The Black Album (album)](../../../topics/album/the-black-album/index.md), [Tidal](../../../topics/tidal/index.md), [Tipper Gore](../../../topics/tipper-gore/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md), [Yvette Noel-Schure](../../../topics/yvette-noel-schure/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/dbe5c9245d024a89bca2376ee8b631c0))
 
 <br />
@@ -60,7 +70,7 @@
  - [**"Pop superstar Prince dead at 57"**](https://www.chron.com/entertainment/celebrities/article/Reports-Prince-dead-at-57-7287598.php)
     - in [The Houston Chronicle at Chron.com](../../../publications/f-j/the-houston-chronicle-at-chron-com/index.md)
     - on 21 April 2016
-    - about [Atlanta (place)](../../../topics/place/atlanta/index.md), [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Eden Prairie (place)](../../../topics/place/eden-prairie/index.md), [Judith Hill](../../../topics/judith-hill/index.md), [memoir](../../../topics/memoir/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Piano and a Microphone (tour)](../../../topics/tour/piano-and-a-microphone/index.md), [Spiegel & Grau](../../../topics/spiegel-grau/index.md), [Yvette Noel-Schure](../../../topics/yvette-noel-schure/index.md)
+    - about [Atlanta (place)](../../../topics/place/atlanta/index.md), [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Eden Prairie (place)](../../../topics/place/eden-prairie/index.md), [Judith Hill](../../../topics/judith-hill/index.md), [memoir](../../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Piano and a Microphone (tour)](../../../topics/tour/piano-and-a-microphone/index.md), [Sinead O'Connor](../../../topics/sinead-o-connor/index.md), [Spiegel & Grau](../../../topics/spiegel-grau/index.md), [Yvette Noel-Schure](../../../topics/yvette-noel-schure/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.chron.com/entertainment/celebrities/article/Reports-Prince-dead-at-57-7287598.php))
 
 ----

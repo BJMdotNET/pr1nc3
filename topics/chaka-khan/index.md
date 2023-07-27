@@ -1,6 +1,16 @@
 # Chaka Khan
 
-## 2023 (13)
+## 2023 (14)
+
+### 2023 July (1)
+
+ - [**"How Sinéad O’Connor’s ‘Nothing Compares 2 U’ changed ’90s rock — and upstaged Prince"**](https://nypost.com/2023/07/26/how-sinead-oconnors-nothing-compares-2-u-upstaged-prince-and-changed-rock/)
+    - in [New York Post](../../publications/k-o/new-york-post/index.md)
+    - on 26 July 2023
+    - about [Chaka Khan](../../topics/chaka-khan/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md), [The Family](../../topics/the-family/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://nypost.com/2023/07/26/how-sinead-oconnors-nothing-compares-2-u-upstaged-prince-and-changed-rock/))
+
+----
 
 ### 2023 June (8)
 
@@ -179,14 +189,14 @@
 
 ----
 
-## 2019 (21)
+## 2019 (22)
 
 ### 2019 November (1)
 
  - [**"The afterlife of Prince, in words and music"**](https://www.inquirer.com/entertainment/prince-1999-beautiful-ones-music-book-tom-petty-david-bowie-20191115.html)
     - in [inquirer.com](../../publications/f-j/inquirer-com/index.md)
     - on 15 November 2019
-    - about [bootleg](../../topics/bootleg/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [museum](../../topics/museum/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [Spike Lee](../../topics/spike-lee/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [Vagina (song)](../../topics/song/vagina/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md)
+    - about [bootleg](../../topics/bootleg/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [memoir](../../topics/memoir/index.md), [museum](../../topics/museum/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [Spike Lee](../../topics/spike-lee/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [Vagina (song)](../../topics/song/vagina/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.inquirer.com/entertainment/prince-1999-beautiful-ones-music-book-tom-petty-david-bowie-20191115.html))
 
 ----
@@ -293,12 +303,20 @@
 
 ----
 
-### 2019 June (1)
+### 2019 June (2)
+
+ - [**"Prince's 'Originals' Album: Comparing Each Demo With Its Well-Known Cover Version"**](https://www.billboard.com/articles/news/8517576/prince-originals-album-covers)
+    - in [Billboard](../../publications/a-e/billboard/index.md)
+    - on 25 June 2019
+    - about [Alan Light](../../topics/alan-light/index.md), [Apollonia 6](../../topics/apollonia-6/index.md), [Bangles](../../topics/bangles/index.md), [BrownMark](../../topics/brownmark/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Coachella (event)](../../topics/event/coachella/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Morris Day](../../topics/morris-day/index.md), [Nile Rodgers](../../topics/nile-rodgers/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../topics/album/originals/index.md), [Romance 1600 (album)](../../topics/album/romance-1600/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md), [Sinéad O'Connor](../../topics/sin-ad-o-connor/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Super Bowl XLI (event)](../../topics/event/super-bowl-xli/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [The Revolution](../../topics/the-revolution/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/news/8517576/prince-originals-album-covers))
+
+<br />
 
  - [**"UB Special Feature: The Album Eras of Prince"**](https://urbanbridgez.com/2019/06/07/ub-special-feature-the-album-eras-of-prince/)
     - in [UrbanBridgez.com](../../publications/u-z/urbanbridgez-com/index.md)
     - on 7 June 2019
-    - about [1999 (album)](../../topics/album/1999/index.md), [Academy Award](../../topics/academy-award/index.md), [Alicia Keys](../../topics/alicia-keys/index.md), [Bangles](../../topics/bangles/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Controversy (album)](../../topics/album/controversy/index.md), [Dirty Mind (album)](../../topics/album/dirty-mind/index.md), [For You (album)](../../topics/album/for-you/index.md), [Grammy Award](../../topics/grammy-award/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [I Wanna Be Your Lover (song)](../../topics/song/i-wanna-be-your-lover/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [The Revolution](../../topics/the-revolution/index.md), [Vanity](../../topics/vanity/index.md), [Vanity Fair (magazine)](../../topics/magazine/vanity-fair/index.md), [vault](../../topics/vault/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md)
+    - about [1999 (album)](../../topics/album/1999/index.md), [Academy Award](../../topics/academy-award/index.md), [Alicia Keys](../../topics/alicia-keys/index.md), [Bangles](../../topics/bangles/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Controversy (album)](../../topics/album/controversy/index.md), [Dirty Mind (album)](../../topics/album/dirty-mind/index.md), [For You (album)](../../topics/album/for-you/index.md), [Grammy Award](../../topics/grammy-award/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [I Wanna Be Your Lover (song)](../../topics/song/i-wanna-be-your-lover/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md), [The Revolution](../../topics/the-revolution/index.md), [Vanity](../../topics/vanity/index.md), [Vanity Fair (magazine)](../../topics/magazine/vanity-fair/index.md), [vault](../../topics/vault/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md)
     - ([mirror](https://web.archive.org/web/*/https://urbanbridgez.com/2019/06/07/ub-special-feature-the-album-eras-of-prince/))
 
 ----
@@ -487,14 +505,23 @@
     - by [Eric Henderson](../../authors/eric-henderson/index.md)
     - in [WCCO - CBS Minnesota](../../publications/u-z/wcco-cbs-minnesota/index.md)
     - on 17 April 2017
-    - about [17 Days (song)](../../topics/song/17-days/index.md), [4 the Tears in Your Eyes (song)](../../topics/song/4-the-tears-in-your-eyes/index.md), [Baby I'm a Star (song)](../../topics/song/baby-i-m-a-star/index.md), [Call My Name (song)](../../topics/song/call-my-name/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Erotic City (song)](../../topics/song/erotic-city/index.md), [Housequake (song)](../../topics/song/housequake/index.md), [How Come U Don't Call Me Anymore (song)](../../topics/song/how-come-u-don-t-call-me-anymore/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [I Wanna Be Your Lover (song)](../../topics/song/i-wanna-be-your-lover/index.md), [I Would Die 4 U (song)](../../topics/song/i-would-die-4-u/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Nasty Girl (song)](../../topics/song/nasty-girl/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Oprah (TV show)](../../topics/tv-show/oprah/index.md), [Patrice Rushen](../../topics/patrice-rushen/index.md), [Pop Life (song)](../../topics/song/pop-life/index.md), [Raspberry Beret (song)](../../topics/song/raspberry-beret/index.md), [Round and Round (song)](../../topics/song/round-and-round/index.md), [Sex Shooter (song)](../../topics/song/sex-shooter/index.md), [Sometimes It Snows In April (song)](../../topics/song/sometimes-it-snows-in-april/index.md), [Starfish And Coffee (song)](../../topics/song/starfish-and-coffee/index.md), [Tevin Campbell](../../topics/tevin-campbell/index.md), [The Ballad Of Dorothy Parker (song)](../../topics/song/the-ballad-of-dorothy-parker/index.md), [WCCO](../../topics/wcco/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
+    - about [17 Days (song)](../../topics/song/17-days/index.md), [4 the Tears in Your Eyes (song)](../../topics/song/4-the-tears-in-your-eyes/index.md), [Baby I'm a Star (song)](../../topics/song/baby-i-m-a-star/index.md), [Call My Name (song)](../../topics/song/call-my-name/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Erotic City (song)](../../topics/song/erotic-city/index.md), [Housequake (song)](../../topics/song/housequake/index.md), [How Come U Don't Call Me Anymore (song)](../../topics/song/how-come-u-don-t-call-me-anymore/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [I Wanna Be Your Lover (song)](../../topics/song/i-wanna-be-your-lover/index.md), [I Would Die 4 U (song)](../../topics/song/i-would-die-4-u/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Nasty Girl (song)](../../topics/song/nasty-girl/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Oprah (TV show)](../../topics/tv-show/oprah/index.md), [Patrice Rushen](../../topics/patrice-rushen/index.md), [Paula Abdul](../../topics/paula-abdul/index.md), [Pop Life (song)](../../topics/song/pop-life/index.md), [Raspberry Beret (song)](../../topics/song/raspberry-beret/index.md), [Round and Round (song)](../../topics/song/round-and-round/index.md), [Sex Shooter (song)](../../topics/song/sex-shooter/index.md), [Sinead O'Connor](../../topics/sinead-o-connor/index.md), [Sometimes It Snows In April (song)](../../topics/song/sometimes-it-snows-in-april/index.md), [Starfish And Coffee (song)](../../topics/song/starfish-and-coffee/index.md), [Tevin Campbell](../../topics/tevin-campbell/index.md), [The Ballad Of Dorothy Parker (song)](../../topics/song/the-ballad-of-dorothy-parker/index.md), [WCCO](../../topics/wcco/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.cbsnews.com/minnesota/news/top-25-best-prince-songs-of-all-time/))
 
 ----
 
-## 2016 (21)
+## 2016 (25)
 
-### 2016 December (2)
+### 2016 December (3)
+
+ - [**"Artist of the Year 2016: Prince&#039;s memorials were the year&#039;s rock stars -- An impromptu street gathering in the grim hours following Prince's death lit a spark that shined through a year of tributes."**](https://www.startribune.com/artist-of-the-year-2016-prince-s-memorials-were-the-year-s-rock-stars/408655055/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 30 December 2016
+    - about [Chaka Khan](../../topics/chaka-khan/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Tommy Barbarella](../../topics/tommy-barbarella/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/artist-of-the-year-2016-prince-s-memorials-were-the-year-s-rock-stars/408655055/))
+
+<br />
 
  - [**"Prince death, mall attack among year’s top Minnesota stories"**](https://apnews.com/f4859fe2db0e4820b8062b664141a973)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
@@ -525,12 +552,21 @@
  - [**"The Estate Of Prince Rogers Nelson Selects Universal Music Publishing Group To Serve As Worldwide Publisher For Prince's Iconic Catalog Of Songs"**](https://www.prnewswire.com/news-releases/the-estate-of-prince-rogers-nelson-selects-universal-music-publishing-group-to-serve-as-worldwide-publisher-for-princes-iconic-catalog-of-songs-300356320.html)
     - in [PR Newswire](../../publications/p-t/pr-newswire/index.md)
     - on 2 November 2016
-    - about [Alabama Shakes](../../topics/alabama-shakes/index.md), [Alicia Keys](../../topics/alicia-keys/index.md), [Bangles](../../topics/bangles/index.md), [Bremer Trust](../../topics/bremer-trust/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [Danny Elfman](../../topics/danny-elfman/index.md), [Elton John](../../topics/elton-john/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [L. Londell McMillan](../../topics/l-londell-mcmillan/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Universal Music Group](../../topics/universal-music-group/index.md), [Universal Music Publishing Group](../../topics/universal-music-publishing-group/index.md)
+    - about [Alabama Shakes](../../topics/alabama-shakes/index.md), [Alicia Keys](../../topics/alicia-keys/index.md), [Bangles](../../topics/bangles/index.md), [Bremer Trust](../../topics/bremer-trust/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [Danny Elfman](../../topics/danny-elfman/index.md), [Elton John](../../topics/elton-john/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Justin Timberlake](../../topics/justin-timberlake/index.md), [L. Londell McMillan](../../topics/l-londell-mcmillan/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Sinead O'Connor](../../topics/sinead-o-connor/index.md), [Universal Music Group](../../topics/universal-music-group/index.md), [Universal Music Publishing Group](../../topics/universal-music-publishing-group/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.prnewswire.com/news-releases/the-estate-of-prince-rogers-nelson-selects-universal-music-publishing-group-to-serve-as-worldwide-publisher-for-princes-iconic-catalog-of-songs-300356320.html))
 
 ----
 
-### 2016 October (5)
+### 2016 October (6)
+
+ - [**"Prince tribute shows why he is missed -- Review: The performers showed their love but lacked the master's electricity."**](https://www.startribune.com/prince-tribute-shows-what-makes-us-miss-him/397048281/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 14 October 2016
+    - about [Chaka Khan](../../topics/chaka-khan/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-tribute-shows-what-makes-us-miss-him/397048281/))
+
+<br />
 
  - [**"Stevie Wonder, Chaka Khan headline Prince tribute show"**](https://apnews.com/776650efcc1b4b3997f8af7b73f4e16c)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
@@ -617,6 +653,17 @@
 
 ----
 
+### 2016 June (1)
+
+ - [**"Celebrate Prince&#039;s birthday with 10 songs he gave to other singers"**](https://www.startribune.com/celebrate-prince-s-birthday-with-10-songs-he-gifted-to-other-singers/381866931/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 7 June 2016
+    - about [Chaka Khan](../../topics/chaka-khan/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Paula Abdul](../../topics/paula-abdul/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/celebrate-prince-s-birthday-with-10-songs-he-gifted-to-other-singers/381866931/))
+
+----
+
 ### 2016 May (1)
 
  - [**"Prince's death: Sheila E. disputes 'irrelevant' label"**](https://usatoday.com/story/life/people/2016/05/21/princes-death-day-31-questions-over-timeline/84709882/)
@@ -627,13 +674,13 @@
 
 ----
 
-### 2016 April (6)
+### 2016 April (7)
 
  - [**"The Women in Prince’s World: His Muses and Collaborators From Sheila E. to Kim Basinger"**](https://www.billboard.com/photos/7348470/prince-female-muses-collaborators-lovers-sheila-e-kim-basinger-more)
     - by [Camille Dodero](../../authors/camille-dodero/index.md)
     - in [Billboard](../../publications/a-e/billboard/index.md)
     - on 28 April 2016
-    - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Apollonia 6](../../topics/apollonia-6/index.md), [Bangles](../../topics/bangles/index.md), [Boy Gregory](../../topics/boy-gregory/index.md), [Bria Valente](../../topics/bria-valente/index.md), [Cat Glover](../../topics/cat-glover/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [contract](../../topics/contract/index.md), [Denise Matthews](../../topics/denise-matthews/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [divorce](../../topics/divorce/index.md), [Donna Grantis](../../topics/donna-grantis/index.md), [Hannah Welton](../../topics/hannah-welton/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [I Wanna Be Your Lover (song)](../../topics/song/i-wanna-be-your-lover/index.md), [Ingrid Chavez](../../topics/ingrid-chavez/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [Kristin Scott Thomas](../../topics/kristin-scott-thomas/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Martika](../../topics/martika/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Misty Copeland](../../topics/misty-copeland/index.md), [Nasty Girl (song)](../../topics/song/nasty-girl/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Paisley Park Records](../../topics/paisley-park-records/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [Sheena Easton](../../topics/sheena-easton/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stand Back (song)](../../topics/song/stand-back/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md), [Sugar Walls (song)](../../topics/song/sugar-walls/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [The Revolution](../../topics/the-revolution/index.md), [U Got the Look (song)](../../topics/song/u-got-the-look/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [Wendy & Lisa](../../topics/wendy-lisa/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
+    - about [3rdEyeGirl](../../topics/3rdeyegirl/index.md), [Apollonia 6](../../topics/apollonia-6/index.md), [Bangles](../../topics/bangles/index.md), [Boy Gregory](../../topics/boy-gregory/index.md), [Bria Valente](../../topics/bria-valente/index.md), [Cat Glover](../../topics/cat-glover/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [contract](../../topics/contract/index.md), [Denise Matthews](../../topics/denise-matthews/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [divorce](../../topics/divorce/index.md), [Donna Grantis](../../topics/donna-grantis/index.md), [Hannah Welton](../../topics/hannah-welton/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [I Wanna Be Your Lover (song)](../../topics/song/i-wanna-be-your-lover/index.md), [Ingrid Chavez](../../topics/ingrid-chavez/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [Kristin Scott Thomas](../../topics/kristin-scott-thomas/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Martika](../../topics/martika/index.md), [Mavis Staples](../../topics/mavis-staples/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [Misty Copeland](../../topics/misty-copeland/index.md), [Nasty Girl (song)](../../topics/song/nasty-girl/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Paisley Park Records](../../topics/paisley-park-records/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [Sheena Easton](../../topics/sheena-easton/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md), [Stand Back (song)](../../topics/song/stand-back/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md), [Sugar Walls (song)](../../topics/song/sugar-walls/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [The Revolution](../../topics/the-revolution/index.md), [U Got the Look (song)](../../topics/song/u-got-the-look/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [Wendy & Lisa](../../topics/wendy-lisa/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/photos/7348470/prince-female-muses-collaborators-lovers-sheila-e-kim-basinger-more))
 
 <br />
@@ -641,7 +688,7 @@
  - [**"Prince was a one-man band and a friend to many others"**](https://apnews.com/508256962cd942f3bc61e1cc034900ad)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 25 April 2016
-    - about [Bangles](../../topics/bangles/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Cyndi Lauper](../../topics/cyndi-lauper/index.md), [Erykah Badu](../../topics/erykah-badu/index.md), [Esperanza Spalding](../../topics/esperanza-spalding/index.md), [Grammy Award](../../topics/grammy-award/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Kandace Springs](../../topics/kandace-springs/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Rita Ora](../../topics/rita-ora/index.md), [royalties](../../topics/royalties/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stand Back (song)](../../topics/song/stand-back/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [YouTube](../../topics/youtube/index.md)
+    - about [Bangles](../../topics/bangles/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Cyndi Lauper](../../topics/cyndi-lauper/index.md), [Erykah Badu](../../topics/erykah-badu/index.md), [Esperanza Spalding](../../topics/esperanza-spalding/index.md), [Grammy Award](../../topics/grammy-award/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Kandace Springs](../../topics/kandace-springs/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Rita Ora](../../topics/rita-ora/index.md), [royalties](../../topics/royalties/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md), [Stand Back (song)](../../topics/song/stand-back/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [YouTube](../../topics/youtube/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/508256962cd942f3bc61e1cc034900ad))
 
 <br />
@@ -649,7 +696,7 @@
  - [**"Prince, un hombre orquesta y un amigo para muchos"**](https://apnews.com/article/archive-0cd78570b8f24969999622976c4cf547)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 25 April 2016
-    - about [Bangles](../../topics/bangles/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Cyndi Lauper](../../topics/cyndi-lauper/index.md), [Erykah Badu](../../topics/erykah-badu/index.md), [Esperanza Spalding](../../topics/esperanza-spalding/index.md), [Fleetwood Mac](../../topics/fleetwood-mac/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Kandace Springs](../../topics/kandace-springs/index.md), [Ken Ehrlich](../../topics/ken-ehrlich/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Rita Ora](../../topics/rita-ora/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stand Back (song)](../../topics/song/stand-back/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md)
+    - about [Bangles](../../topics/bangles/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Cyndi Lauper](../../topics/cyndi-lauper/index.md), [Erykah Badu](../../topics/erykah-badu/index.md), [Esperanza Spalding](../../topics/esperanza-spalding/index.md), [Fleetwood Mac](../../topics/fleetwood-mac/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Judith Hill](../../topics/judith-hill/index.md), [Kandace Springs](../../topics/kandace-springs/index.md), [Ken Ehrlich](../../topics/ken-ehrlich/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Liv Warfield](../../topics/liv-warfield/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Rita Ora](../../topics/rita-ora/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md), [Stand Back (song)](../../topics/song/stand-back/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/archive-0cd78570b8f24969999622976c4cf547))
 
 <br />
@@ -676,6 +723,15 @@
     - on 22 April 2016
     - about [Academy Award](../../topics/academy-award/index.md), [Batdance (song)](../../topics/song/batdance/index.md), [Batman (album)](../../topics/album/batman/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Glam Slam (place)](../../topics/place/glam-slam/index.md), [Graffiti Bridge (movie)](../../topics/movie/graffiti-bridge/index.md), [Grammy Award](../../topics/grammy-award/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Krush Groove (movie)](../../topics/movie/krush-groove/index.md), [Morris Day](../../topics/morris-day/index.md), [Parade (album)](../../topics/album/parade/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Roger Ebert](../../topics/roger-ebert/index.md), [Sheila E.](../../topics/sheila-e/index.md), [The Time](../../topics/the-time/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/8082812e075544679812ad4cc742307f))
+
+<br />
+
+ - [**"Prince, a singular, meticulous master of pop, dies at 57"**](https://www.sfchronicle.com/news/nation-world/nation/article/Prince-a-singular-meticulous-master-of-pop-7294913.php)
+    - by [Jon Pareles](../../authors/jon-pareles/index.md)
+    - in [San Francisco Chronicle](../../publications/p-t/san-francisco-chronicle/index.md)
+    - on 21 April 2016
+    - about [Albert Magnoli](../../topics/albert-magnoli/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [I Wanna Be Your Lover (song)](../../topics/song/i-wanna-be-your-lover/index.md), [I Would Die 4 U (song)](../../topics/song/i-would-die-4-u/index.md), [Jim Olson](../../topics/jim-olson/index.md), [John L. Nelson](../../topics/john-l-nelson/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Morris Day](../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Raspberry Beret (song)](../../topics/song/raspberry-beret/index.md), [Sinead O'Connor](../../topics/sinead-o-connor/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Under the Cherry Moon (movie)](../../topics/movie/under-the-cherry-moon/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md), [While My Guitar Gently Weeps (song)](../../topics/song/while-my-guitar-gently-weeps/index.md), [Yvette Noel-Schure](../../topics/yvette-noel-schure/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.sfchronicle.com/news/nation-world/nation/article/Prince-a-singular-meticulous-master-of-pop-7294913.php))
 
 ----
 
@@ -734,7 +790,7 @@
  - [**"Prince"**](https://variety.com/2009/music/markets-festivals/prince-4-1200473979/)
     - in [Variety](../../publications/u-z/variety/index.md)
     - on 29 March 2009
-    - about [Bria Valente](../../topics/bria-valente/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Club Nokia (place)](../../topics/place/club-nokia/index.md), [Colonized Mind (song)](../../topics/song/colonized-mind/index.md), [Conga Room (place)](../../topics/place/conga-room/index.md), [Dreamer (song)](../../topics/song/dreamer/index.md), [LotusFlow3r (album)](../../topics/album/lotusflow3r/index.md), [Michael Bland](../../topics/michael-bland/index.md), [MPLSoUND (album)](../../topics/album/mplsound/index.md), [Nokia Theater (place)](../../topics/place/nokia-theater/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Renato Neto](../../topics/renato-neto/index.md), [Sonny T.](../../topics/sonny-t/index.md), [The Beautiful Ones (song)](../../topics/song/the-beautiful-ones/index.md)
+    - about [Bria Valente](../../topics/bria-valente/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Club Nokia (place)](../../topics/place/club-nokia/index.md), [Colonized Mind (song)](../../topics/song/colonized-mind/index.md), [Conga Room (place)](../../topics/place/conga-room/index.md), [Dreamer (song)](../../topics/song/dreamer/index.md), [LotusFlow3r (album)](../../topics/album/lotusflow3r/index.md), [Michael Bland](../../topics/michael-bland/index.md), [MPLSoUND (album)](../../topics/album/mplsound/index.md), [Nokia Theater (place)](../../topics/place/nokia-theater/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Renato Neto](../../topics/renato-neto/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md), [Sonny T.](../../topics/sonny-t/index.md), [The Beautiful Ones (song)](../../topics/song/the-beautiful-ones/index.md)
     - ([mirror](https://web.archive.org/web/*/https://variety.com/2009/music/markets-festivals/prince-4-1200473979/))
 
 ----

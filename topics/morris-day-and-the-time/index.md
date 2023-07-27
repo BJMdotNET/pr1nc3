@@ -230,7 +230,7 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 14 October 2016
-    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md)
+    - about [Chaka Khan](../../topics/chaka-khan/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-tribute-shows-what-makes-us-miss-him/397048281/))
 
 ----
