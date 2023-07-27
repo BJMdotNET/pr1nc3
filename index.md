@@ -28,7 +28,7 @@
 	 
 ## Articles
 
-  * There are approximately 2449 links.
+  * There are approximately 2458 links.
   * Some links might be duplicates, e.g. some AP News articles are linked through multiple links.
   * Some articles might be duplicated, usually because for instance an AP News article is republished elsewhere.
      * I try to avoid including such republished articles, but likely I've missed some instances.

@@ -4197,6 +4197,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "publications/a-e/billboard/billboard-2013.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/a-e/billboard/billboard-2013.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "publications/a-e/billboard/billboard-2016.md",
       "output": {
         ".html": {
@@ -11035,6 +11045,16 @@
       "version": ""
     },
     {
+      "type": "Conceptual",
+      "source_relative_path": "publications/k-o/nbc-news/nbc-news-2023.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/k-o/nbc-news/nbc-news-2023.html"
+        }
+      },
+      "version": ""
+    },
+    {
       "type": "Toc",
       "source_relative_path": "publications/k-o/nbc-news/toc.yml",
       "output": {
@@ -11397,6 +11417,16 @@
       "output": {
         ".html": {
           "relative_path": "publications/k-o/nme-new-musical-express/nme-new-musical-express-2011.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/k-o/nme-new-musical-express/nme-new-musical-express-2013.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/k-o/nme-new-musical-express/nme-new-musical-express-2013.html"
         }
       },
       "version": ""
@@ -14317,6 +14347,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "publications/p-t/spin/spin-2020.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/p-t/spin/spin-2020.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "publications/p-t/spin/spin-2023.md",
       "output": {
         ".html": {
@@ -14906,6 +14946,16 @@
       "output": {
         ".html": {
           "relative_path": "publications/p-t/the-telegraph/the-telegraph-2019.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/p-t/the-telegraph/the-telegraph-2023.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/p-t/the-telegraph/the-telegraph-2023.html"
         }
       },
       "version": ""
@@ -16210,6 +16260,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "publications/u-z/us-weekly/us-weekly-2018.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/u-z/us-weekly/us-weekly-2018.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "publications/u-z/us-weekly/us-weekly-2023.md",
       "output": {
         ".html": {
@@ -17419,6 +17479,72 @@
       "output": {
         ".html": {
           "relative_path": "publications/u-z/www-abc-net-au/www-abc-net-au-2023.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/u-z/www-chartsinfrance-net/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/u-z/www-chartsinfrance-net/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "publications/u-z/www-chartsinfrance-net/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "publications/u-z/www-chartsinfrance-net/toc.html"
+        },
+        ".json": {
+          "relative_path": "publications/u-z/www-chartsinfrance-net/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/u-z/www-chartsinfrance-net/www-chartsinfrance-net-2023.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/u-z/www-chartsinfrance-net/www-chartsinfrance-net-2023.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/u-z/www-dailymail-co-uk/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/u-z/www-dailymail-co-uk/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "publications/u-z/www-dailymail-co-uk/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "publications/u-z/www-dailymail-co-uk/toc.html"
+        },
+        ".json": {
+          "relative_path": "publications/u-z/www-dailymail-co-uk/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/u-z/www-dailymail-co-uk/www-dailymail-co-uk-2023.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/u-z/www-dailymail-co-uk/www-dailymail-co-uk-2023.html"
         }
       },
       "version": ""
@@ -21595,6 +21721,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/event/billboard-music-awards/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/event/billboard-music-awards/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/event/celebration-2017/index.md",
       "output": {
         ".html": {
@@ -23065,6 +23201,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/jason-franzen/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/jason-franzen/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/jay-rolandi/index.md",
       "output": {
         ".html": {
@@ -23629,6 +23775,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/julia-coleman/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/julia-ramadan/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/julia-ramadan/index.html"
         }
       },
       "version": ""
@@ -25545,6 +25701,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/movie/the-adjustment-bureau/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/movie/the-adjustment-bureau/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/movie/the-dawn/index.md",
       "output": {
         ".html": {
@@ -26789,6 +26955,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/place/cow-palace/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/place/dakota-jazz-club/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/place/dakota-jazz-club/index.html"
         }
       },
       "version": ""
@@ -29169,6 +29345,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/song/can-t-stop-this-feeling-i-got/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/song/cause-and-effect/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/song/cause-and-effect/index.html"
         }
       },
       "version": ""
