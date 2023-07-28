@@ -174,6 +174,7 @@
   * [Larry Fuchsberg](./larry-fuchsberg/index.md) (1)
   * [Laurie Hertzel](./laurie-hertzel/index.md) (1)
   * [Lee Svitak Dean](./lee-svitak-dean/index.md) (1)
+  * [Leila Brillson](./leila-brillson/index.md) (1)
   * [Leila Navidi](./leila-navidi/index.md) (1)
   * [Libor Jany](./libor-jany/index.md) (1)
   * [Lindsay Zoladz](./lindsay-zoladz/index.md) (2)

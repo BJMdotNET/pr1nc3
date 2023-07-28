@@ -19,7 +19,7 @@
     - by [A.D. Amorosi](../../authors/a-d-amorosi/index.md)
     - in [Variety](../../publications/u-z/variety/index.md)
     - on 15 September 2022
-    - about [Columbia Records](../../topics/columbia-records/index.md), [Mariah Carey](../../topics/mariah-carey/index.md), [The Beautiful Ones (song)](../../topics/song/the-beautiful-ones/index.md)
+    - about [Columbia Records](../../topics/columbia-records/index.md), [Mariah Carey](../../topics/mariah-carey/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (song)](../../topics/song/the-beautiful-ones/index.md)
     - ([mirror](https://web.archive.org/web/*/https://variety.com/2022/music/news/mariah-carey-butterfly-25-anniversary-meghan-markle-prince-1235373657/))
 
 ----
