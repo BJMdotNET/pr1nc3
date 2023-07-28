@@ -243,6 +243,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "authors/associated-press/doug-glass/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/associated-press/doug-glass/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "authors/associated-press/hillel-italie/index.md",
       "output": {
         ".html": {
@@ -1343,6 +1353,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "authors/joe-coscarelli/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/joe-coscarelli/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "authors/joe-taysom/index.md",
       "output": {
         ".html": {
@@ -2263,6 +2283,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "authors/sheila-m-eldred/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/sheila-m-eldred/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "authors/sheila-regan/index.md",
       "output": {
         ".html": {
@@ -2620,6 +2650,26 @@
       "output": {
         ".html": {
           "relative_path": "authors/trisha-ahmed/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "authors/usa-today/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/usa-today/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "authors/usa-today/maria-puente/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/usa-today/maria-puente/index.html"
         }
       },
       "version": ""
@@ -29018,6 +29068,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/russ-thyret/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/ruth-martinez/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/ruth-martinez/index.html"
         }
       },
       "version": ""
