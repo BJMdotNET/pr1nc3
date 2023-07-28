@@ -1623,6 +1623,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "authors/leila-brillson/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "authors/leila-brillson/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "authors/leila-navidi/index.md",
       "output": {
         ".html": {
@@ -5539,6 +5549,39 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "publications/a-e/daily-mail/daily-mail-2023.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/a-e/daily-mail/daily-mail-2023.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/a-e/daily-mail/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/a-e/daily-mail/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "publications/a-e/daily-mail/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "publications/a-e/daily-mail/toc.html"
+        },
+        ".json": {
+          "relative_path": "publications/a-e/daily-mail/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "publications/a-e/datebook-san-francisco-arts-entertainment-guide/datebook-san-francisco-arts-entertainment-guide-2018.md",
       "output": {
         ".html": {
@@ -6913,6 +6956,39 @@
       "version": ""
     },
     {
+      "type": "Conceptual",
+      "source_relative_path": "publications/a-e/the-daily-beast/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/a-e/the-daily-beast/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/a-e/the-daily-beast/the-daily-beast-2016.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/a-e/the-daily-beast/the-daily-beast-2016.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "publications/a-e/the-daily-beast/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "publications/a-e/the-daily-beast/toc.html"
+        },
+        ".json": {
+          "relative_path": "publications/a-e/the-daily-beast/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
       "type": "Toc",
       "source_relative_path": "publications/a-e/toc.yml",
       "output": {
@@ -7786,6 +7862,26 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "publications/f-j/hot-press/hot-press-2011.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/f-j/hot-press/hot-press-2011.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/f-j/hot-press/hot-press-2016.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/f-j/hot-press/hot-press-2016.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "publications/f-j/hot-press/hot-press-2019.md",
       "output": {
         ".html": {
@@ -7800,6 +7896,36 @@
       "output": {
         ".html": {
           "relative_path": "publications/f-j/hot-press/hot-press-2020.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/f-j/hot-press/hot-press-2021.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/f-j/hot-press/hot-press-2021.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/f-j/hot-press/hot-press-2022.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/f-j/hot-press/hot-press-2022.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/f-j/hot-press/hot-press-2023.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/f-j/hot-press/hot-press-2023.html"
         }
       },
       "version": ""
@@ -8027,59 +8153,6 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "publications/f-j/independent-co-uk/independent-co-uk-2019.md",
-      "output": {
-        ".html": {
-          "relative_path": "publications/f-j/independent-co-uk/independent-co-uk-2019.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "publications/f-j/independent-co-uk/independent-co-uk-2020.md",
-      "output": {
-        ".html": {
-          "relative_path": "publications/f-j/independent-co-uk/independent-co-uk-2020.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "publications/f-j/independent-co-uk/independent-co-uk-2023.md",
-      "output": {
-        ".html": {
-          "relative_path": "publications/f-j/independent-co-uk/independent-co-uk-2023.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "publications/f-j/independent-co-uk/index.md",
-      "output": {
-        ".html": {
-          "relative_path": "publications/f-j/independent-co-uk/index.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Toc",
-      "source_relative_path": "publications/f-j/independent-co-uk/toc.yml",
-      "output": {
-        ".html": {
-          "relative_path": "publications/f-j/independent-co-uk/toc.html"
-        },
-        ".json": {
-          "relative_path": "publications/f-j/independent-co-uk/toc.json"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
       "source_relative_path": "publications/f-j/independent-ie/independent-ie-2019.md",
       "output": {
         ".html": {
@@ -8113,43 +8186,63 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "publications/f-j/index.md",
+      "source_relative_path": "publications/f-j/independent/independent-2019.md",
       "output": {
         ".html": {
-          "relative_path": "publications/f-j/index.html"
+          "relative_path": "publications/f-j/independent/independent-2019.html"
         }
       },
       "version": ""
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "publications/f-j/inquirer-com/index.md",
+      "source_relative_path": "publications/f-j/independent/independent-2020.md",
       "output": {
         ".html": {
-          "relative_path": "publications/f-j/inquirer-com/index.html"
+          "relative_path": "publications/f-j/independent/independent-2020.html"
         }
       },
       "version": ""
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "publications/f-j/inquirer-com/inquirer-com-2019.md",
+      "source_relative_path": "publications/f-j/independent/independent-2023.md",
       "output": {
         ".html": {
-          "relative_path": "publications/f-j/inquirer-com/inquirer-com-2019.html"
+          "relative_path": "publications/f-j/independent/independent-2023.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/f-j/independent/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/f-j/independent/index.html"
         }
       },
       "version": ""
     },
     {
       "type": "Toc",
-      "source_relative_path": "publications/f-j/inquirer-com/toc.yml",
+      "source_relative_path": "publications/f-j/independent/toc.yml",
       "output": {
         ".html": {
-          "relative_path": "publications/f-j/inquirer-com/toc.html"
+          "relative_path": "publications/f-j/independent/toc.html"
         },
         ".json": {
-          "relative_path": "publications/f-j/inquirer-com/toc.json"
+          "relative_path": "publications/f-j/independent/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/f-j/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/f-j/index.html"
         }
       },
       "version": ""
@@ -8255,76 +8348,33 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "publications/f-j/irishexaminer-com/index.md",
+      "source_relative_path": "publications/f-j/irish-examiner/index.md",
       "output": {
         ".html": {
-          "relative_path": "publications/f-j/irishexaminer-com/index.html"
+          "relative_path": "publications/f-j/irish-examiner/index.html"
         }
       },
       "version": ""
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "publications/f-j/irishexaminer-com/irishexaminer-com-2019.md",
+      "source_relative_path": "publications/f-j/irish-examiner/irish-examiner-2019.md",
       "output": {
         ".html": {
-          "relative_path": "publications/f-j/irishexaminer-com/irishexaminer-com-2019.html"
+          "relative_path": "publications/f-j/irish-examiner/irish-examiner-2019.html"
         }
       },
       "version": ""
     },
     {
       "type": "Toc",
-      "source_relative_path": "publications/f-j/irishexaminer-com/toc.yml",
+      "source_relative_path": "publications/f-j/irish-examiner/toc.yml",
       "output": {
         ".html": {
-          "relative_path": "publications/f-j/irishexaminer-com/toc.html"
+          "relative_path": "publications/f-j/irish-examiner/toc.html"
         },
         ".json": {
-          "relative_path": "publications/f-j/irishexaminer-com/toc.json"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "publications/f-j/irishtimes-com/index.md",
-      "output": {
-        ".html": {
-          "relative_path": "publications/f-j/irishtimes-com/index.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "publications/f-j/irishtimes-com/irishtimes-com-2018.md",
-      "output": {
-        ".html": {
-          "relative_path": "publications/f-j/irishtimes-com/irishtimes-com-2018.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "publications/f-j/irishtimes-com/irishtimes-com-2019.md",
-      "output": {
-        ".html": {
-          "relative_path": "publications/f-j/irishtimes-com/irishtimes-com-2019.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Toc",
-      "source_relative_path": "publications/f-j/irishtimes-com/toc.yml",
-      "output": {
-        ".html": {
-          "relative_path": "publications/f-j/irishtimes-com/toc.html"
-        },
-        ".json": {
-          "relative_path": "publications/f-j/irishtimes-com/toc.json"
+          "relative_path": "publications/f-j/irish-examiner/toc.json"
         }
       },
       "version": ""
@@ -8772,6 +8822,49 @@
         },
         ".json": {
           "relative_path": "publications/f-j/the-houston-chronicle-at-chron-com/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/f-j/the-irish-times/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/f-j/the-irish-times/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/f-j/the-irish-times/the-irish-times-2018.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/f-j/the-irish-times/the-irish-times-2018.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/f-j/the-irish-times/the-irish-times-2019.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/f-j/the-irish-times/the-irish-times-2019.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "publications/f-j/the-irish-times/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "publications/f-j/the-irish-times/toc.html"
+        },
+        ".json": {
+          "relative_path": "publications/f-j/the-irish-times/toc.json"
         }
       },
       "version": ""
@@ -11882,6 +11975,39 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "publications/k-o/the-list/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/k-o/the-list/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/k-o/the-list/the-list-2023.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/k-o/the-list/the-list-2023.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "publications/k-o/the-list/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "publications/k-o/the-list/toc.html"
+        },
+        ".json": {
+          "relative_path": "publications/k-o/the-list/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "publications/k-o/the-new-yorker/index.md",
       "output": {
         ".html": {
@@ -12610,6 +12736,39 @@
         },
         ".json": {
           "relative_path": "publications/p-t/publishers-weekly/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/p-t/pure-charts-by-charts-in-france/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/p-t/pure-charts-by-charts-in-france/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/p-t/pure-charts-by-charts-in-france/pure-charts-by-charts-in-france-2023.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/p-t/pure-charts-by-charts-in-france/pure-charts-by-charts-in-france-2023.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "publications/p-t/pure-charts-by-charts-in-france/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "publications/p-t/pure-charts-by-charts-in-france/toc.html"
+        },
+        ".json": {
+          "relative_path": "publications/p-t/pure-charts-by-charts-in-france/toc.json"
         }
       },
       "version": ""
@@ -14631,6 +14790,39 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "publications/p-t/the-philadelphia-inquirer/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/p-t/the-philadelphia-inquirer/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/p-t/the-philadelphia-inquirer/the-philadelphia-inquirer-2019.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/p-t/the-philadelphia-inquirer/the-philadelphia-inquirer-2019.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "publications/p-t/the-philadelphia-inquirer/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "publications/p-t/the-philadelphia-inquirer/toc.html"
+        },
+        ".json": {
+          "relative_path": "publications/p-t/the-philadelphia-inquirer/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "publications/p-t/the-quietus/index.md",
       "output": {
         ".html": {
@@ -15088,39 +15280,6 @@
         },
         ".json": {
           "relative_path": "publications/p-t/theblast-com/toc.json"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "publications/p-t/thedailybeast-com/index.md",
-      "output": {
-        ".html": {
-          "relative_path": "publications/p-t/thedailybeast-com/index.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "publications/p-t/thedailybeast-com/thedailybeast-com-2016.md",
-      "output": {
-        ".html": {
-          "relative_path": "publications/p-t/thedailybeast-com/thedailybeast-com-2016.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Toc",
-      "source_relative_path": "publications/p-t/thedailybeast-com/toc.yml",
-      "output": {
-        ".html": {
-          "relative_path": "publications/p-t/thedailybeast-com/toc.html"
-        },
-        ".json": {
-          "relative_path": "publications/p-t/thedailybeast-com/toc.json"
         }
       },
       "version": ""
@@ -17353,6 +17512,39 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "publications/u-z/welcome-to-hell-world/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/u-z/welcome-to-hell-world/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "publications/u-z/welcome-to-hell-world/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "publications/u-z/welcome-to-hell-world/toc.html"
+        },
+        ".json": {
+          "relative_path": "publications/u-z/welcome-to-hell-world/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/u-z/welcome-to-hell-world/welcome-to-hell-world-2023.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/u-z/welcome-to-hell-world/welcome-to-hell-world-2023.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "publications/u-z/wepresent/index.md",
       "output": {
         ".html": {
@@ -17485,72 +17677,6 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "publications/u-z/www-chartsinfrance-net/index.md",
-      "output": {
-        ".html": {
-          "relative_path": "publications/u-z/www-chartsinfrance-net/index.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Toc",
-      "source_relative_path": "publications/u-z/www-chartsinfrance-net/toc.yml",
-      "output": {
-        ".html": {
-          "relative_path": "publications/u-z/www-chartsinfrance-net/toc.html"
-        },
-        ".json": {
-          "relative_path": "publications/u-z/www-chartsinfrance-net/toc.json"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "publications/u-z/www-chartsinfrance-net/www-chartsinfrance-net-2023.md",
-      "output": {
-        ".html": {
-          "relative_path": "publications/u-z/www-chartsinfrance-net/www-chartsinfrance-net-2023.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "publications/u-z/www-dailymail-co-uk/index.md",
-      "output": {
-        ".html": {
-          "relative_path": "publications/u-z/www-dailymail-co-uk/index.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Toc",
-      "source_relative_path": "publications/u-z/www-dailymail-co-uk/toc.yml",
-      "output": {
-        ".html": {
-          "relative_path": "publications/u-z/www-dailymail-co-uk/toc.html"
-        },
-        ".json": {
-          "relative_path": "publications/u-z/www-dailymail-co-uk/toc.json"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "publications/u-z/www-dailymail-co-uk/www-dailymail-co-uk-2023.md",
-      "output": {
-        ".html": {
-          "relative_path": "publications/u-z/www-dailymail-co-uk/www-dailymail-co-uk-2023.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
       "source_relative_path": "publications/u-z/www-ign-com/index.md",
       "output": {
         ".html": {
@@ -17578,39 +17704,6 @@
       "output": {
         ".html": {
           "relative_path": "publications/u-z/www-ign-com/www-ign-com-2021.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "publications/u-z/www-thelist-com/index.md",
-      "output": {
-        ".html": {
-          "relative_path": "publications/u-z/www-thelist-com/index.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Toc",
-      "source_relative_path": "publications/u-z/www-thelist-com/toc.yml",
-      "output": {
-        ".html": {
-          "relative_path": "publications/u-z/www-thelist-com/toc.html"
-        },
-        ".json": {
-          "relative_path": "publications/u-z/www-thelist-com/toc.json"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "publications/u-z/www-thelist-com/www-thelist-com-2023.md",
-      "output": {
-        ".html": {
-          "relative_path": "publications/u-z/www-thelist-com/www-thelist-com-2023.html"
         }
       },
       "version": ""
@@ -18411,6 +18504,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/album/don-t-play-with-love_2/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/album/don-t-play-with-love_2/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/album/dream-factory/index.md",
       "output": {
         ".html": {
@@ -18611,10 +18714,30 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/album/one-nite-alone-the-aftershow-it-ain-t-over_2/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/album/one-nite-alone-the-aftershow-it-ain-t-over_2/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/album/one-nite-alone/index.md",
       "output": {
         ".html": {
           "relative_path": "topics/album/one-nite-alone/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/album/one-nite-alone_2/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/album/one-nite-alone_2/index.html"
         }
       },
       "version": ""
@@ -19321,6 +19444,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/arsenio-hall/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/arsenio-hall/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/arts-msp/index.md",
       "output": {
         ".html": {
@@ -19435,6 +19568,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/axs-tv/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/axs-tv_2/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/axs-tv_2/index.html"
         }
       },
       "version": ""
@@ -19705,6 +19848,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/bobby-z/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/bobby-z_2/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/bobby-z_2/index.html"
         }
       },
       "version": ""
@@ -21351,6 +21504,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/dr-mambo-s-combo_2/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/dr-mambo-s-combo_2/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/duane-nelson/index.md",
       "output": {
         ".html": {
@@ -21825,6 +21988,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/event/essence-festival/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/event/hop-farm/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/event/hop-farm/index.html"
         }
       },
       "version": ""
@@ -28671,6 +28844,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/rock-cyfi-martinez_2/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/rock-cyfi-martinez_2/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/rock-martinez/index.md",
       "output": {
         ".html": {
@@ -29031,6 +29214,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/shuhada-sadaqat/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/shuhada-sadaqat/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/simmons/index.md",
       "output": {
         ".html": {
@@ -29051,10 +29244,30 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/sin-ad-o-connor_2/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/sin-ad-o-connor_2/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/sinead-o-connor/index.md",
       "output": {
         ".html": {
           "relative_path": "topics/sinead-o-connor/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/sinead-o-connor_2/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/sinead-o-connor_2/index.html"
         }
       },
       "version": ""
@@ -29275,6 +29488,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/song/baby-i-m-a-star/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/song/baby-i-m-a-star_2/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/song/baby-i-m-a-star_2/index.html"
         }
       },
       "version": ""
@@ -29601,6 +29824,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/song/don-t-play-with-love_2/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/song/don-t-play-with-love_2/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/song/don-t-stop-til-you-get-enough/index.md",
       "output": {
         ".html": {
@@ -29871,6 +30104,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/song/how-come-u-don-t-call-me-anymore_2/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/song/how-come-u-don-t-call-me-anymore_2/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/song/i-can-t-love-u-anymore/index.md",
       "output": {
         ".html": {
@@ -29945,6 +30188,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/song/if-it-ll-make-u-happy/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/song/if-it-ll-make-u-happy_2/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/song/if-it-ll-make-u-happy_2/index.html"
         }
       },
       "version": ""
@@ -30445,6 +30698,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/song/she-s-always-in-my-hair/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/song/she-s-always-in-my-hair_2/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/song/she-s-always-in-my-hair_2/index.html"
         }
       },
       "version": ""
@@ -32164,6 +32427,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/tv-show/chappelle-s-show_2/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/tv-show/chappelle-s-show_2/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/tv-show/goodnight-sweet-prince/index.md",
       "output": {
         ".html": {
@@ -32464,6 +32737,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/vince-power/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/vince-power/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/vincent-herring/index.md",
       "output": {
         ".html": {
@@ -32528,6 +32811,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/warner-chappell-music/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/warner-chappell-music_2/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/warner-chappell-music_2/index.html"
         }
       },
       "version": ""

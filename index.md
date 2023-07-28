@@ -13,6 +13,7 @@
      * Unfortunately, lots of those older articles were not archived by the Internet Archive's Wayback Machine.
      * This is a shame, since APNews had articles going back to the mid-1980s(!).
   * Added a lot of Minneapolis Star Tribune articles. Lots don't yet have topics, though.
+  * Added a lot of articles about Sinéad O'Connor.
 	 
 ## How to use
 
@@ -28,7 +29,7 @@
 	 
 ## Articles
 
-  * There are approximately 2458 links.
+  * There are approximately 2471 links.
   * Some links might be duplicates, e.g. some AP News articles are linked through multiple links.
   * Some articles might be duplicated, usually because for instance an AP News article is republished elsewhere.
      * I try to avoid including such republished articles, but likely I've missed some instances.
