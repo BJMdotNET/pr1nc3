@@ -1,14 +1,30 @@
-# One Nite Alone… (album)
+# One Nite Alone (album)
 
-## 2020 (2)
+## 2020 (4)
 
-### 2020 February (2)
+### 2020 February (4)
 
  - [**"Prince’s The Rainbow Children and One Nite Alone Reissues Announced -- His long out-of-print albums from the early ’00s are coming to vinyl"**](https://pitchfork.com/news/princes-the-rainbow-childrenandnbspandandnbspone-nite-alone-reissues-announced/)
     - in [Pitchfork](../../../publications/p-t/pitchfork/index.md)
     - on 21 February 2020
     - about [Live at The Aladdin Las Vegas (DVD)](../../../topics/dvd/live-at-the-aladdin-las-vegas/index.md), [One Nite Alone (album)](../../../topics/album/one-nite-alone/index.md), [One Nite Alone… (album)](../../../topics/album/one-nite-alone/index.md), [One Nite Alone…Live! (album)](../../../topics/album/one-nite-alone-live/index.md), [The Rainbow Children (album)](../../../topics/album/the-rainbow-children/index.md)
     - ([mirror](https://web.archive.org/web/*/https://pitchfork.com/news/princes-the-rainbow-childrenandnbspandandnbspone-nite-alone-reissues-announced/))
+
+<br />
+
+ - [**"Get Ready For More Prince Rarities: Estate Will Reissue 'The Rainbow Children' and 'One Nite Alone' Albums"**](https://www.billboard.com/articles/columns/rock/8551497/prince-estate-reissuing-live-early-2000s-studio-album)
+    - in [Billboard](../../../publications/a-e/billboard/index.md)
+    - on 20 February 2020
+    - about [Candy Dulfer](../../../topics/candy-dulfer/index.md), [Eric Leeds](../../../topics/eric-leeds/index.md), [George Clinton](../../../topics/george-clinton/index.md), [Joni Mitchell](../../../topics/joni-mitchell/index.md), [Legacy Recordings](../../../topics/legacy-recordings/index.md), [Maceo Parker](../../../topics/maceo-parker/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [NPG Music Club (website)](../../../topics/website/npg-music-club/index.md), [NPG Records](../../../topics/npg-records/index.md), [One Nite Alone (album)](../../../topics/album/one-nite-alone/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [Raspberry Beret (song)](../../../topics/song/raspberry-beret/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [The Prince Estate](../../../topics/the-prince-estate/index.md), [The Rainbow Children (album)](../../../topics/album/the-rainbow-children/index.md), [Up All Nite with Prince: The One Nite Alone Collection (album)](../../../topics/album/up-all-nite-with-prince-the-one-nite-alone-collection/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/articles/columns/rock/8551497/prince-estate-reissuing-live-early-2000s-studio-album))
+
+<br />
+
+ - [**"Prince Estate’s Next Wave of Reissues: ‘Rainbow Children,’ ‘One Nite Alone …’ -- Prince’s 2001 and 2002 output, including live albums and concert film, to be rereleased April 17th"**](https://www.rollingstone.com/music/music-news/prince-rainbow-children-one-nite-alone-reissues-955535/)
+    - in [Rolling Stone](../../../publications/p-t/rolling-stone/index.md)
+    - on 20 February 2020
+    - about [Chaos and Disorder (album)](../../../topics/album/chaos-and-disorder/index.md), [Emancipation (album)](../../../topics/album/emancipation/index.md), [Legacy Recordings](../../../topics/legacy-recordings/index.md), [Live at The Aladdin Las Vegas (DVD)](../../../topics/dvd/live-at-the-aladdin-las-vegas/index.md), [NPG Records](../../../topics/npg-records/index.md), [One Nite Alone (album)](../../../topics/album/one-nite-alone/index.md), [Pop Life (song)](../../../topics/song/pop-life/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [Prince Live at The Aladdin Las Vegas (DVD)](../../../topics/dvd/prince-live-at-the-aladdin-las-vegas/index.md), [The Prince Estate](../../../topics/the-prince-estate/index.md), [The Rainbow Children (album)](../../../topics/album/the-rainbow-children/index.md), [The Versace Experience (Prelude 2 Gold) (album)](../../../topics/album/the-versace-experience-prelude-2-gold/index.md), [Up All Nite with Prince: The One Nite Alone Collection (album)](../../../topics/album/up-all-nite-with-prince-the-one-nite-alone-collection/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-news/prince-rainbow-children-one-nite-alone-reissues-955535/))
 
 <br />
 
@@ -20,9 +36,31 @@
 
 ----
 
-## 2018 (2)
+## 2019 (2)
 
-### 2018 August (2)
+### 2019 November (1)
+
+ - [**"Prince : tous les bonus de “1999 Super Deluxe” titre par titre"**](http://www.funku.fr/2019/prince-tous-les-bonus-de-1999-super-deluxe-titre-par-titre/)
+    - in [Funk-U](../../../publications/f-j/funk-u/index.md)
+    - on 3 November 2019
+    - about [1999 (album)](../../../topics/album/1999/index.md), [94 East](../../../topics/94-east/index.md), [Bobby Z.](../../../topics/bobby-z/index.md), [Bold Generation (song)](../../../topics/song/bold-generation/index.md), [bootleg](../../../topics/bootleg/index.md), [Colleen (song)](../../../topics/song/colleen/index.md), [Dez Dickerson](../../../topics/dez-dickerson/index.md), [Feel U Up (song)](../../../topics/song/feel-u-up/index.md), [Graffiti Bridge (album)](../../../topics/album/graffiti-bridge/index.md), [How Come U Don’t Call Me Anymore? (song)](../../../topics/song/how-come-u-don-t-call-me-anymore/index.md), [International Lover (song)](../../../topics/song/international-lover/index.md), [Irresistible Bitch (song)](../../../topics/song/irresistible-bitch/index.md), [James Brown](../../../topics/james-brown/index.md), [Kiowa Trail](../../../topics/kiowa-trail/index.md), [LinnDrum (instrument)](../../../topics/instrument/linndrum/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Michael Howe](../../../topics/michael-howe/index.md), [Morris Day](../../../topics/morris-day/index.md), [New Power Generation](../../../topics/new-power-generation/index.md), [No Call U (song)](../../../topics/song/no-call-u/index.md), [One Nite Alone (album)](../../../topics/album/one-nite-alone/index.md), [Peggy McCreary](../../../topics/peggy-mccreary/index.md), [Pepé Willie](../../../topics/pep-willie/index.md), [Possessed (song)](../../../topics/song/possessed/index.md), [Purple Music (song)](../../../topics/song/purple-music/index.md), [Rearrange (song)](../../../topics/song/rearrange/index.md), [The Revolution](../../../topics/the-revolution/index.md), [Vagina (song)](../../../topics/song/vagina/index.md), [vault](../../../topics/vault/index.md), [Yah, You Know (song)](../../../topics/song/yah-you-know/index.md)
+    - ([mirror](https://web.archive.org/web/*/http://www.funku.fr/2019/prince-tous-les-bonus-de-1999-super-deluxe-titre-par-titre/))
+
+----
+
+### 2019 June (1)
+
+ - [**"Another Treasure Trove Emerges from Prince's Vaults with 'Originals' -- A collection of 15 highly enjoyable demos of songs written for other artists is another reminder – as if we needed one – of why we love Prince Rogers Nelson."**](https://www.popmatters.com/prince-originals-review-2638918026.html)
+    - in [PopMatters](../../../publications/p-t/popmatters/index.md)
+    - on 21 June 2019
+    - about [Apollonia 6](../../../topics/apollonia-6/index.md), [Bangles](../../../topics/bangles/index.md), [Jill Jones](../../../topics/jill-jones/index.md), [Morris Day](../../../topics/morris-day/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [One Nite Alone (album)](../../../topics/album/one-nite-alone/index.md), [Originals (album review)](../../../topics/album-review/originals/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Piano & A Microphone 1983 (album)](../../../topics/album/piano-a-microphone-1983/index.md), [Sinead O'Connor](../../../topics/sinead-o-connor/index.md), [Sinéad O'Connor](../../../topics/sin-ad-o-connor/index.md), [vault](../../../topics/vault/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.popmatters.com/prince-originals-review-2638918026.html))
+
+----
+
+## 2018 (3)
+
+### 2018 August (3)
 
  - [**"Legacy Recordings and The Prince Estate Launch First Wave of Prince Catalog Digital Releases Today -- 23 Catalog Titles (including Rare and Out-of-Print Recordings) + Newly Curated 37-Track Prince Anthology: 1995-2010 Available Now on Streaming Services and DSPs"**](https://www.prnewswire.com/news-releases/legacy-recordings-and-the-prince-estate-launch-first-wave-of-prince-catalog-digital-releases-today-300698544.html)
     - in [PR Newswire](../../../publications/p-t/pr-newswire/index.md)
@@ -37,6 +75,47 @@
     - on 17 August 2018
     - about [20Ten (album)](../../../topics/album/20ten/index.md), [3121 (album)](../../../topics/album/3121/index.md), [Call My Name (song)](../../../topics/song/call-my-name/index.md), [Crystal Ball (album)](../../../topics/album/crystal-ball/index.md), [Dreamer (song)](../../../topics/song/dreamer/index.md), [Emancipation (album)](../../../topics/album/emancipation/index.md), [Legacy Recordings](../../../topics/legacy-recordings/index.md), [LotusFlow3r (album)](../../../topics/album/lotusflow3r/index.md), [MPLSoUND (album)](../../../topics/album/mplsound/index.md), [Musicology (album)](../../../topics/album/musicology/index.md), [Musicology (song)](../../../topics/song/musicology/index.md), [NPG Music Club (website)](../../../topics/website/npg-music-club/index.md), [One Nite Alone (album)](../../../topics/album/one-nite-alone/index.md), [One Nite Alone… (album)](../../../topics/album/one-nite-alone/index.md), [One Nite Alone…Live! (album)](../../../topics/album/one-nite-alone-live/index.md), [Planet Earth (album)](../../../topics/album/planet-earth/index.md), [Prince Anthology: 1995-2010 (album)](../../../topics/album/prince-anthology-1995-2010/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [Rave In2 the Joy Fantastic (album)](../../../topics/album/rave-in2-the-joy-fantastic/index.md), [Rave Un2 the Joy Fantastic (album)](../../../topics/album/rave-un2-the-joy-fantastic/index.md), [Sony Music](../../../topics/sony-music/index.md), [Sony Music Entertainment](../../../topics/sony-music-entertainment/index.md), [The Gold Experience (album)](../../../topics/album/the-gold-experience/index.md), [The Greatest Romance Ever Sold (song)](../../../topics/song/the-greatest-romance-ever-sold/index.md), [The Most Beautiful Girl In The World (song)](../../../topics/song/the-most-beautiful-girl-in-the-world/index.md), [The Prince Estate](../../../topics/the-prince-estate/index.md), [The Rainbow Children (album)](../../../topics/album/the-rainbow-children/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.legacyrecordings.com/2018/08/17/legacy-recordings-and-the-prince-estate-launch-first-wave-of-prince-catalog-digital-releases-today/))
+
+<br />
+
+ - [**"Prince Estate and Sony Release 23 Long-Unavailable Albums Digitally"**](https://variety.com/2018/biz/news/prince-estate-and-sony-release-23-long-unavailable-albums-digitally-1202908647/)
+    - in [Variety](../../../publications/u-z/variety/index.md)
+    - on 17 August 2018
+    - about [3121 (album)](../../../topics/album/3121/index.md), [Chaos and Disorder (album)](../../../topics/album/chaos-and-disorder/index.md), [Crystal Ball (album)](../../../topics/album/crystal-ball/index.md), [Emancipation (album)](../../../topics/album/emancipation/index.md), [Legacy Recordings](../../../topics/legacy-recordings/index.md), [NPG Music Club (website)](../../../topics/website/npg-music-club/index.md), [One Nite Alone (album)](../../../topics/album/one-nite-alone/index.md), [Prince Anthology: 1995-2010 (album)](../../../topics/album/prince-anthology-1995-2010/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [Rave In2 the Joy Fantastic (album)](../../../topics/album/rave-in2-the-joy-fantastic/index.md), [Rave Un2 the Joy Fantastic (album)](../../../topics/album/rave-un2-the-joy-fantastic/index.md), [The Prince Estate](../../../topics/the-prince-estate/index.md), [Warner Bros. Records](../../../topics/warner-bros-records/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://variety.com/2018/biz/news/prince-estate-and-sony-release-23-long-unavailable-albums-digitally-1202908647/))
+
+----
+
+## 2016 (3)
+
+### 2016 November (1)
+
+ - [**"Prince & The Vault: The 10 Things That Should and Shouldn’t Happen"**](https://medium.com/cuepoint/prince-the-vault-the-10-things-that-should-and-shouldnt-happen-ad96cc58999f)
+    - in [Cuepoint](../../../publications/a-e/cuepoint/index.md)
+    - on 19 November 2016
+    - about [3rdEyeGirl](../../../topics/3rdeyegirl/index.md), [Alan Leeds](../../../topics/alan-leeds/index.md), [Apollonia 6](../../../topics/apollonia-6/index.md), [Art Official Age (album)](../../../topics/album/art-official-age/index.md), [Batdance (song)](../../../topics/song/batdance/index.md), [Big Daddy Kane](../../../topics/big-daddy-kane/index.md), [Dance With the Devil (song)](../../../topics/song/dance-with-the-devil/index.md), [Donna Grantis](../../../topics/donna-grantis/index.md), [Electric Chair (song)](../../../topics/song/electric-chair/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [George Clinton](../../../topics/george-clinton/index.md), [Graceland](../../../topics/graceland/index.md), [Graceland Holdings](../../../topics/graceland-holdings/index.md), [Ingrid Chavez](../../../topics/ingrid-chavez/index.md), [James Brown](../../../topics/james-brown/index.md), [Jill Jones](../../../topics/jill-jones/index.md), [Jon Bream](../../../topics/jon-bream/index.md), [Joshua Welton](../../../topics/joshua-welton/index.md), [Kirk Johnson](../../../topics/kirk-johnson/index.md), [LotusFlow3r (album)](../../../topics/album/lotusflow3r/index.md), [Mavis Staples](../../../topics/mavis-staples/index.md), [Mayte](../../../topics/mayte/index.md), [museum](../../../topics/museum/index.md), [New Power Generation](../../../topics/new-power-generation/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [One Nite Alone (album)](../../../topics/album/one-nite-alone/index.md), [Purple Music (song)](../../../topics/song/purple-music/index.md), [Susan Rogers](../../../topics/susan-rogers/index.md), [The Ballad Of Dorothy Parker (song)](../../../topics/song/the-ballad-of-dorothy-parker/index.md), [The Gold Experience (album)](../../../topics/album/the-gold-experience/index.md), [vault](../../../topics/vault/index.md), [Vicki Waiting (song)](../../../topics/song/vicki-waiting/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://medium.com/cuepoint/prince-the-vault-the-10-things-that-should-and-shouldnt-happen-ad96cc58999f))
+
+----
+
+### 2016 April (1)
+
+ - [**"24 Outrageous Prince Stories"**](https://www.vulture.com/2014/09/24-outrageous-prince-stories.html)
+    - by [David Marchese](../../../authors/david-marchese/index.md)
+    - in [Vulture](../../../publications/u-z/vulture/index.md)
+    - on 21 April 2016
+    - about [3rdEyeGirl](../../../topics/3rdeyegirl/index.md), [Alan Leeds](../../../topics/alan-leeds/index.md), [Albert Magnoli](../../../topics/albert-magnoli/index.md), [Art Official Age (album)](../../../topics/album/art-official-age/index.md), [Black Album (album)](../../../topics/album/black-album/index.md), [bootleg](../../../topics/bootleg/index.md), [Carlos Boozer](../../../topics/carlos-boozer/index.md), [Carmen Electra](../../../topics/carmen-electra/index.md), [Chappelle’s Show (TV show)](../../../topics/tv-show/chappelle-s-show/index.md), [Charlie Murphy](../../../topics/charlie-murphy/index.md), [Daily Mail (newspaper)](../../../topics/newspaper/daily-mail/index.md), [Divinity (animal)](../../../topics/animal/divinity/index.md), [Eden Prairie (place)](../../../topics/place/eden-prairie/index.md), [Glam Slam Ulysses](../../../topics/glam-slam-ulysses/index.md), [Jay Williams](../../../topics/jay-williams/index.md), [Jehovah’s Witness](../../../topics/jehovah-s-witness/index.md), [Kevin Smith](../../../topics/kevin-smith/index.md), [Kim Basinger](../../../topics/kim-basinger/index.md), [Larry Graham](../../../topics/larry-graham/index.md), [lawsuit](../../../topics/lawsuit/index.md), [Majesty (animal)](../../../topics/animal/majesty/index.md), [Mayte](../../../topics/mayte/index.md), [Mayte Garcia](../../../topics/mayte-garcia/index.md), [Michael Jackson](../../../topics/michael-jackson/index.md), [Mo’ Meta Blues (book)](../../../topics/book/mo-meta-blues/index.md), [Notorious (magazine)](../../../topics/magazine/notorious/index.md), [One Nite Alone (album)](../../../topics/album/one-nite-alone/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [ping-pong](../../../topics/ping-pong/index.md), [PlectrumElectrum (album)](../../../topics/album/plectrumelectrum/index.md), [Questlove](../../../topics/questlove/index.md), [roller-skating](../../../topics/roller-skating/index.md), [Scandalous (song)](../../../topics/song/scandalous/index.md), [Scandalous Sex Suite (EP)](../../../topics/ep/scandalous-sex-suite/index.md), [The Most Beautiful Girl In The World (song)](../../../topics/song/the-most-beautiful-girl-in-the-world/index.md), [The New Yorker](../../../topics/the-new-yorker/index.md), [vault](../../../topics/vault/index.md), [Yom Kippur](../../../topics/yom-kippur/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.vulture.com/2014/09/24-outrageous-prince-stories.html))
+
+----
+
+### 2016 February (1)
+
+ - [**"Paean to Prince: 15 Fascinating Facts About His Purple Majesty -- Juicy secrets from a legendary music career, collected by an infatuated fan"**](https://medium.com/cuepoint/paean-to-prince-15-fascinating-facts-about-his-purple-majesty-6aa627d1d17e)
+    - in [Cuepoint](../../../publications/a-e/cuepoint/index.md)
+    - on 10 February 2016
+    - about [Alan Light](../../../topics/alan-light/index.md), [Albert Magnoli](../../../topics/albert-magnoli/index.md), [Apollonia 6](../../../topics/apollonia-6/index.md), [Dave Chappelle](../../../topics/dave-chappelle/index.md), [Janet Jackson](../../../topics/janet-jackson/index.md), [Jehovah’s Witness](../../../topics/jehovah-s-witness/index.md), [Jesse Johnson](../../../topics/jesse-johnson/index.md), [Jimmy Jam](../../../topics/jimmy-jam/index.md), [Joni Mitchell](../../../topics/joni-mitchell/index.md), [Larry Graham](../../../topics/larry-graham/index.md), [Lisa Coleman](../../../topics/lisa-coleman/index.md), [Matt Fink](../../../topics/matt-fink/index.md), [memoir](../../../topics/memoir/index.md), [Michael Jackson](../../../topics/michael-jackson/index.md), [Morris Day](../../../topics/morris-day/index.md), [One Nite Alone (album)](../../../topics/album/one-nite-alone/index.md), [Questlove](../../../topics/questlove/index.md), [Quincy Jones](../../../topics/quincy-jones/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [Stand Back (song)](../../../topics/song/stand-back/index.md), [Stevie Nicks](../../../topics/stevie-nicks/index.md), [Sunset Sound (place)](../../../topics/place/sunset-sound/index.md), [Susan Rogers](../../../topics/susan-rogers/index.md), [Terry Lewis](../../../topics/terry-lewis/index.md), [The Revolution](../../../topics/the-revolution/index.md), [Vagina (song)](../../../topics/song/vagina/index.md), [Vanity](../../../topics/vanity/index.md), [Vanity 6](../../../topics/vanity-6/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://medium.com/cuepoint/paean-to-prince-15-fascinating-facts-about-his-purple-majesty-6aa627d1d17e))
 
 ----
 

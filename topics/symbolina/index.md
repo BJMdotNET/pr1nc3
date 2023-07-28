@@ -8,7 +8,7 @@
     - by [Steve Marsh](../../authors/steve-marsh/index.md)
     - in [Mpls.St.Paul Magazine](../../publications/k-o/mpls-st-paul-magazine/index.md)
     - on 12 December 2019
-    - about [Andrea Swensson](../../topics/andrea-swensson/index.md), [Prince: The Story of 1999](../../topics/prince-the-story-of-1999/index.md), [Symbolina](../../topics/symbolina/index.md)
+    - about [Andrea Swensson](../../topics/andrea-swensson/index.md), [memoir](../../topics/memoir/index.md), [Prince: The Story of 1999](../../topics/prince-the-story-of-1999/index.md), [Symbolina](../../topics/symbolina/index.md)
     - ([mirror](https://web.archive.org/web/*/https://mspmag.com/arts-and-culture/qa-andrea-swensson-prince-expert/))
 
 ----
@@ -191,7 +191,7 @@
  - [**"C.J.: Will Prince be flattered by kiss-and-tell?"**](https://www.startribune.com/c-j-will-prince-be-flattered-by-kiss-and-tell/205318881/)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 30 April 2013
-    - about [Symbolina](../../topics/symbolina/index.md)
+    - about [memoir](../../topics/memoir/index.md), [Symbolina](../../topics/symbolina/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/c-j-will-prince-be-flattered-by-kiss-and-tell/205318881/))
 
 <br />
@@ -362,7 +362,7 @@
  - [**"Ask twice for the skinny on Erica Kane -- Susan Lucci is apparently no Erica Kane."**](https://www.startribune.com/ask-twice-for-the-skinny-on-erica-kane/119223954/)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 6 April 2011
-    - about [Mall of America (place)](../../topics/place/mall-of-america/index.md), [Symbolina](../../topics/symbolina/index.md)
+    - about [Mall of America (place)](../../topics/place/mall-of-america/index.md), [memoir](../../topics/memoir/index.md), [Symbolina](../../topics/symbolina/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/ask-twice-for-the-skinny-on-erica-kane/119223954/))
 
 <br />
@@ -448,7 +448,7 @@
  - [**"Cheryl Tiegs: There&#039;s no &#039;Love Story&#039; with Ryan O&#039;Neal -- Cheryl Tiegs is NOT dating Ryan O'Neal, even though the alleged romance is all over the Web."**](https://www.startribune.com/cheryl-tiegs-there-s-no-love-story-with-ryan-o-neal/95694644/)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 6 June 2010
-    - about [Oprah (TV show)](../../topics/tv-show/oprah/index.md), [Symbolina](../../topics/symbolina/index.md)
+    - about [memoir](../../topics/memoir/index.md), [Oprah (TV show)](../../topics/tv-show/oprah/index.md), [Symbolina](../../topics/symbolina/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/cheryl-tiegs-there-s-no-love-story-with-ryan-o-neal/95694644/))
 
 ----

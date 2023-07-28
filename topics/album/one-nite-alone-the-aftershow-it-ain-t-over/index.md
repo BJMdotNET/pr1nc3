@@ -1,4 +1,4 @@
-# One Nite Alone… The Aftershow: It Ain’t Over! (album)
+# One Nite Alone: The Aftershow…It Ain’t Over! (album)
 
 ## 2020 (1)
 

@@ -69,7 +69,7 @@
 <br />
 
  - [**"Noteworthy music books of the year"**](https://www.irishexaminer.com/breakingnews/lifestyle/noteworthy-music-books-of-the-year-971884.html)
-    - in [irishexaminer.com](../../publications/f-j/irishexaminer-com/index.md)
+    - in [Irish Examiner](../../publications/f-j/irish-examiner/index.md)
     - on 22 December 2019
     - about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Donald Trump](../../topics/donald-trump/index.md), [memoir](../../topics/memoir/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [orange](../../topics/orange/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [Trump](../../topics/trump/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.irishexaminer.com/breakingnews/lifestyle/noteworthy-music-books-of-the-year-971884.html))
@@ -175,7 +175,7 @@
 <br />
 
  - [**"The afterlife of Prince, in words and music"**](https://www.inquirer.com/entertainment/prince-1999-beautiful-ones-music-book-tom-petty-david-bowie-20191115.html)
-    - in [inquirer.com](../../publications/f-j/inquirer-com/index.md)
+    - in [The Philadelphia Inquirer](../../publications/p-t/the-philadelphia-inquirer/index.md)
     - on 15 November 2019
     - about [bootleg](../../topics/bootleg/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [memoir](../../topics/memoir/index.md), [museum](../../topics/museum/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [Spike Lee](../../topics/spike-lee/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [Vagina (song)](../../topics/song/vagina/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.inquirer.com/entertainment/prince-1999-beautiful-ones-music-book-tom-petty-david-bowie-20191115.html))
@@ -239,7 +239,7 @@
 <br />
 
  - [**"Prince’s last days: ‘He seemed so strong. He was still burning with ambition’ -- Dan Piepenbring on how he brought the musician’s memoir to life following his death"**](https://www.irishtimes.com/culture/music/prince-s-last-days-he-seemed-so-strong-he-was-still-burning-with-ambition-1.4059357)
-    - in [irishtimes.com](../../publications/f-j/irishtimes-com/index.md)
+    - in [The Irish Times](../../publications/f-j/the-irish-times/index.md)
     - on 2 November 2019
     - about [contract](../../topics/contract/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [memoir](../../topics/memoir/index.md), [Penguin Random House](../../topics/penguin-random-house/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.irishtimes.com/culture/music/prince-s-last-days-he-seemed-so-strong-he-was-still-burning-with-ambition-1.4059357))
@@ -247,7 +247,7 @@
 <br />
 
  - [**"The Beautiful Ones: Memoir offers a fragmentary snapshot of the life of Prince"**](https://www.independent.ie/entertainment/music/the-beautiful-ones-memoir-offers-a-fragmentary-snapshot-of-the-life-of-prince-38650373.html)
-    - in [independent.ie](../../publications/f-j/independent-ie/index.md)
+    - in [Independent.ie](../../publications/f-j/independent-ie/index.md)
     - on 2 November 2019
     - about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Sinéad O'Connor](../../topics/sin-ad-o-connor/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [The Paris Review (magazine)](../../topics/magazine/the-paris-review/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.independent.ie/entertainment/music/the-beautiful-ones-memoir-offers-a-fragmentary-snapshot-of-the-life-of-prince-38650373.html))
@@ -867,7 +867,7 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md), [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 25 April 2019
-    - about [Ani DiFranco](../../topics/ani-difranco/index.md), [Apple Music](../../topics/apple-music/index.md), [Ava DuVernay](../../topics/ava-duvernay/index.md), [Bangles](../../topics/bangles/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Martika](../../topics/martika/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Netflix](../../topics/netflix/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../topics/album/originals/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Random House](../../topics/random-house/index.md), [Rave In2 the Joy Fantastic (album)](../../topics/album/rave-in2-the-joy-fantastic/index.md), [Rave Un2 the Joy Fantastic (album)](../../topics/album/rave-un2-the-joy-fantastic/index.md), [Rave Un2 the Year 2000 (video)](../../topics/video/rave-un2-the-year-2000/index.md), [Sex Shooter (song)](../../topics/song/sex-shooter/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [The Family](../../topics/the-family/index.md), [The Glamorous Life (song)](../../topics/song/the-glamorous-life/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [The Time](../../topics/the-time/index.md), [Ultimate Rave (album)](../../topics/album/ultimate-rave/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
+    - about [Ani DiFranco](../../topics/ani-difranco/index.md), [Apple Music](../../topics/apple-music/index.md), [Ava DuVernay](../../topics/ava-duvernay/index.md), [Bangles](../../topics/bangles/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Martika](../../topics/martika/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Netflix](../../topics/netflix/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../topics/album/originals/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Random House](../../topics/random-house/index.md), [Rave In2 the Joy Fantastic (album)](../../topics/album/rave-in2-the-joy-fantastic/index.md), [Rave Un2 the Joy Fantastic (album)](../../topics/album/rave-un2-the-joy-fantastic/index.md), [Rave Un2 the Year 2000 (video)](../../topics/video/rave-un2-the-year-2000/index.md), [Sex Shooter (song)](../../topics/song/sex-shooter/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [The Family](../../topics/the-family/index.md), [The Glamorous Life (song)](../../topics/song/the-glamorous-life/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [The Time](../../topics/the-time/index.md), [Ultimate Rave (album)](../../topics/album/ultimate-rave/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/coming-soon-from-the-prince-vault-a-new-album-called-originals/509009862/))
 
 <br />

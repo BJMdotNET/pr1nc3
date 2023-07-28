@@ -99,7 +99,7 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 21 December 2018
-    - about [Erykah Badu](../../topics/erykah-badu/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Super Bowl](../../topics/super-bowl/index.md)
+    - about [Erykah Badu](../../topics/erykah-badu/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Super Bowl](../../topics/super-bowl/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/10-signs-the-minnesota-music-scene-was-alive-and-well-in-2018/503245841/))
 
 ----

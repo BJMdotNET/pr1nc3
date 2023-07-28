@@ -1,14 +1,14 @@
-# Warner/Chappell Music
+# Warner Chappell Music
 
-## 2015 (1)
+## 2019 (1)
 
-### 2015 February (1)
+### 2019 September (1)
 
- - [**"What were the specifics of Prince's “$100 million contract” with Warner Bros. Records in 1992?"**](https://musicfans.stackexchange.com/a/89/129)
-    - in [Music Fans Stack Exchange](../../publications/k-o/music-fans-stack-exchange/index.md)
-    - on 15 February 2015
-    - about [advance](../../topics/advance/index.md), [contract](../../topics/contract/index.md), [Controversy Music](../../topics/controversy-music/index.md), [Diamonds & Pearls (album)](../../topics/album/diamonds-pearls/index.md), [Gary Stiffelman](../../topics/gary-stiffelman/index.md), [Gilbert Davidson](../../topics/gilbert-davidson/index.md), [Jill Wills](../../topics/jill-wills/index.md), [Jon Bream](../../topics/jon-bream/index.md), [Lovesexy (album)](../../topics/album/lovesexy/index.md), [Madonna](../../topics/madonna/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [Paisley Park Records](../../topics/paisley-park-records/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [royalties](../../topics/royalties/index.md), [Sony Music](../../topics/sony-music/index.md), [Time Warner](../../topics/time-warner/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md), [Warner/Chappell Music](../../topics/warner-chappell-music/index.md)
-    - ([mirror](https://web.archive.org/web/*/https://musicfans.stackexchange.com/a/89/129))
+ - [**"Exclusive: Prince's estate sued for $3 million"**](https://au.lifestyle.yahoo.com/princes-estate-sued-for-3-million-053919372.html)
+    - in [Yahoo! Lifestyle Australia](../../publications/u-z/yahoo-lifestyle-australia/index.md)
+    - on 24 September 2019
+    - about [Bruno Bergonzi](../../topics/bruno-bergonzi/index.md), [contract](../../topics/contract/index.md), [Jay Rolandi](../../topics/jay-rolandi/index.md), [lawsuit](../../topics/lawsuit/index.md), [Michele Vicino](../../topics/michele-vicino/index.md), [royalties](../../topics/royalties/index.md), [Spotify](../../topics/spotify/index.md), [Takin Me To Paradise (song)](../../topics/song/takin-me-to-paradise/index.md), [The Most Beautiful Girl In The World (song)](../../topics/song/the-most-beautiful-girl-in-the-world/index.md), [Warner Chappell Music](../../topics/warner-chappell-music/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://au.lifestyle.yahoo.com/princes-estate-sued-for-3-million-053919372.html))
 
 ----
 

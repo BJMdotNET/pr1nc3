@@ -23,7 +23,7 @@
  - [**"Sinéad O’Connor: the angelic skinhead for whom love, intelligence and madness were inseparable -- I interviewed Sinéad twice. She was supremely gifted, terrifyingly vulnerable and hilarious – even at her bleakest she’d make you laugh"**](https://www.theguardian.com/music/2023/jul/27/sinead-oconnor-mental-health-struggles-parental-abuse)
     - in [The Guardian](../../../publications/f-j/the-guardian/index.md)
     - on 27 July 2023
-    - about [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md)
+    - about [memoir](../../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/music/2023/jul/27/sinead-oconnor-mental-health-struggles-parental-abuse))
 
 <br />
@@ -39,7 +39,7 @@
  - [**"Sinéad O’Connor, Evocative and Outspoken Singer, Is Dead at 56 -- She broke out with the single “Nothing Compares 2 U,” then caused an uproar a few years later by ripping up a photo of Pope John Paul II on “S.N.L.”"**](https://www.nytimes.com/2023/07/26/arts/music/sinead-oconnor-dead.html)
     - in [New York Times](../../../publications/k-o/new-york-times/index.md)
     - on 26 July 2023
-    - about [Bob Dylan](../../../topics/bob-dylan/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md), [The Family](../../../topics/the-family/index.md)
+    - about [Bob Dylan](../../../topics/bob-dylan/index.md), [memoir](../../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md), [The Family](../../../topics/the-family/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.nytimes.com/2023/07/26/arts/music/sinead-oconnor-dead.html))
 
 <br />
@@ -55,7 +55,7 @@
  - [**"Sinéad O’Connor, Irish singer of ‘Nothing Compares 2 U’ and more, dead at 56, Irish media says"**](https://edition.cnn.com/2023/07/26/entertainment/sinead-oconnor-death/index.html)
     - in [CNN International](../../../publications/a-e/cnn-international/index.md)
     - on 26 July 2023
-    - about [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md)
+    - about [memoir](../../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md)
     - ([mirror](https://web.archive.org/web/*/https://edition.cnn.com/2023/07/26/entertainment/sinead-oconnor-death/index.html))
 
 <br />
@@ -63,7 +63,7 @@
  - [**"Sinéad O’Connor, Irish singer who rose to fame with 'Nothing Compares 2 U,' dies at 56 -- O’Connor was also known for courting controversy, including boycotting the Grammys and ripping up a photo of the pope on NBC's "Saturday Night Live.""**](https://www.nbcnews.com/pop-culture/pop-culture-news/sinead-oconnor-death-singer-rcna96482)
     - in [NBC News](../../../publications/k-o/nbc-news/index.md)
     - on 26 July 2023
-    - about [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md)
+    - about [memoir](../../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.nbcnews.com/pop-culture/pop-culture-news/sinead-oconnor-death-singer-rcna96482))
 
 <br />
@@ -79,7 +79,7 @@
  - [**"Sinéad O'Connor obituary: A talent beyond compare"**](https://www.bbc.com/news/entertainment-arts-35031186)
     - in [BBC News](../../../publications/a-e/bbc-news/index.md)
     - on 26 July 2023
-    - about [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Sinéad O'Connor](../../../topics/sin-ad-o-connor/index.md)
+    - about [memoir](../../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Sinéad O'Connor](../../../topics/sin-ad-o-connor/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.bbc.com/news/entertainment-arts-35031186))
 
 <br />
@@ -87,7 +87,7 @@
  - [**"Sinéad O'Connor: Irish singer dies aged 56"**](https://www.bbc.com/news/entertainment-arts-66318626)
     - in [BBC News](../../../publications/a-e/bbc-news/index.md)
     - on 26 July 2023
-    - about [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Sinéad O'Connor](../../../topics/sin-ad-o-connor/index.md)
+    - about [memoir](../../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Sinéad O'Connor](../../../topics/sin-ad-o-connor/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.bbc.com/news/entertainment-arts-66318626))
 
 ----
@@ -104,14 +104,24 @@
 
 ----
 
-## 2021 (2)
+## 2021 (3)
+
+### 2021 June (1)
+
+ - [**"Book Review: Sinéad O'Connor, Rememberings -- "Always a punk, never a pop star; Sinéad's principles will always trump fame, fortune and recognition...""**](https://www.hotpress.com/opinion/book-review-sinead-oconnor-rememberings-22857586)
+    - in [Hot Press](../../../publications/f-j/hot-press/index.md)
+    - on 17 June 2021
+    - about [memoir](../../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Shuhada Sadaqat](../../../topics/shuhada-sadaqat/index.md), [Sinéad O'Connor](../../../topics/sin-ad-o-connor/index.md), [SNL (TV show)](../../../topics/tv-show/snl/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.hotpress.com/opinion/book-review-sinead-oconnor-rememberings-22857586))
+
+----
 
 ### 2021 May (2)
 
  - [**"Sinéad O’Connor: ‘I’ll always be a bit crazy, but that’s OK’ -- After a life marked by abuse, fame, scandal and struggle, the Irish singer-songwriter says she never lost faith"**](https://www.theguardian.com/music/2021/may/29/sinead-oconnor-ill-always-be-a-bit-crazy-but-thats-ok-rememberings)
     - in [The Guardian](../../../publications/f-j/the-guardian/index.md)
     - on 29 May 2021
-    - about [Bob Dylan](../../../topics/bob-dylan/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md), [The Family](../../../topics/the-family/index.md)
+    - about [Bob Dylan](../../../topics/bob-dylan/index.md), [memoir](../../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md), [The Family](../../../topics/the-family/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/music/2021/may/29/sinead-oconnor-ill-always-be-a-bit-crazy-but-thats-ok-rememberings))
 
 <br />
@@ -119,7 +129,7 @@
  - [**"Sinéad O’Connor Remembers Things Differently -- The mainstream narrative is that a pop star ripped up a photo of the pope on “Saturday Night Live” and derailed her life. What if the opposite were true?"**](https://www.nytimes.com/2021/05/18/arts/music/sinead-oconnor-rememberings.html)
     - in [New York Times](../../../publications/k-o/new-york-times/index.md)
     - on 18 May 2021
-    - about [Bob Dylan](../../../topics/bob-dylan/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md)
+    - about [Bob Dylan](../../../topics/bob-dylan/index.md), [memoir](../../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.nytimes.com/2021/05/18/arts/music/sinead-oconnor-rememberings.html))
 
 ----

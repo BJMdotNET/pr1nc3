@@ -443,7 +443,7 @@
 ### 2018 September (3)
 
  - [**"Prince: Piano & a Microphone 1983 review – demo gems from the Paisley Park vaults"**](https://www.irishtimes.com/culture/music/prince-piano-a-microphone-1983-review-demo-gems-from-the-paisley-park-vaults-1.3632309)
-    - in [irishtimes.com](../../../publications/f-j/irishtimes-com/index.md)
+    - in [The Irish Times](../../../publications/f-j/the-irish-times/index.md)
     - on 20 September 2018
     - about [17 Days (song)](../../../topics/song/17-days/index.md), [A Case of You (song)](../../../topics/song/a-case-of-you/index.md), [Joni Mitchell](../../../topics/joni-mitchell/index.md), [Mary Don’t You Weep (song)](../../../topics/song/mary-don-t-you-weep/index.md), [Piano & A Microphone 1983 (album)](../../../topics/album/piano-a-microphone-1983/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Strange Relationship (song)](../../../topics/song/strange-relationship/index.md), [vault](../../../topics/vault/index.md), [Why The Butterflies (song)](../../../topics/song/why-the-butterflies/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.irishtimes.com/culture/music/prince-piano-a-microphone-1983-review-demo-gems-from-the-paisley-park-vaults-1.3632309))
@@ -571,7 +571,7 @@
 ### 2016 May (2)
 
  - [**"My Surreal Time Planning Prince’s Iconic Super Bowl Performance -- As Head of Programming for the NFL, it was my job to plan Prince’s rain-soaked Super Bowl halftime show on February 4, 2007. And what a time it was."**](https://www.thedailybeast.com/my-surreal-time-planning-princes-iconic-super-bowl-performance)
-    - in [thedailybeast.com](../../../publications/p-t/thedailybeast-com/index.md)
+    - in [The Daily Beast](../../../publications/a-e/the-daily-beast/index.md)
     - on 14 May 2016
     - about [1999 (song)](../../../topics/song/1999/index.md), [Foo Fighters](../../../topics/foo-fighters/index.md), [James Brown](../../../topics/james-brown/index.md), [Lenny Kravitz](../../../topics/lenny-kravitz/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Raspberry Beret (song)](../../../topics/song/raspberry-beret/index.md), [Super Bowl](../../../topics/super-bowl/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.thedailybeast.com/my-surreal-time-planning-princes-iconic-super-bowl-performance))

@@ -15,15 +15,15 @@
  - [**"What Prince Thought of Sinéad O'Connor's 'Nothing Compares 2 U' Cover"**](https://www.aol.com/entertainment/prince-thought-sinead-oconnors-nothing-194128980.html)
     - in [Aol. - Entertainment](../../publications/a-e/aol-entertainment/index.md)
     - on 27 July 2023
-    - about [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Rosie Gaines](../../topics/rosie-gaines/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md), [Sinéad O'Connor](../../topics/sin-ad-o-connor/index.md)
+    - about [memoir](../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Rosie Gaines](../../topics/rosie-gaines/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md), [Sinéad O'Connor](../../topics/sin-ad-o-connor/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.aol.com/entertainment/prince-thought-sinead-oconnors-nothing-194128980.html))
 
 <br />
 
  - [**"‘Nothing Compares 2 U’: How Sinéad O’Connor turned Prince’s song into a classic -- Dublin-born singer shot to fame with her cover of a previously forgotten Prince song"**](https://www.independent.co.uk/arts-entertainment/music/news/sinead-oconnor-nothing-compares-2-u-b2382514.html)
-    - in [independent.co.uk](../../publications/f-j/independent-co-uk/index.md)
+    - in [Independent](../../publications/f-j/independent/index.md)
     - on 26 July 2023
-    - about [Billboard Music Awards (event)](../../topics/event/billboard-music-awards/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Rosie Gaines](../../topics/rosie-gaines/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md)
+    - about [Billboard Music Awards (event)](../../topics/event/billboard-music-awards/index.md), [memoir](../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Rosie Gaines](../../topics/rosie-gaines/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.independent.co.uk/arts-entertainment/music/news/sinead-oconnor-nothing-compares-2-u-b2382514.html))
 
 <br />
@@ -39,7 +39,7 @@
  - [**"What Prince Really Thought of Sinead O’Connor’s ‘Nothing Compares 2 U’ Cover"**](https://www.usmagazine.com/entertainment/news/what-prince-thought-of-sinead-oconnors-nothing-compares-2-u/)
     - in [US Weekly](../../publications/u-z/us-weekly/index.md)
     - on 26 July 2023
-    - about [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Rosie Gaines](../../topics/rosie-gaines/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md)
+    - about [memoir](../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Rosie Gaines](../../topics/rosie-gaines/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.usmagazine.com/entertainment/news/what-prince-thought-of-sinead-oconnors-nothing-compares-2-u/))
 
 <br />
@@ -47,7 +47,7 @@
  - [**"What Prince Really Thought of Sinéad O’Connor’s ‘Nothing Compares 2 U’ Cover"**](https://www.usmagazine.com/entertainment/news/what-prince-thought-of-sinead-oconnors-nothing-compares-2-u/)
     - in [US Weekly](../../publications/u-z/us-weekly/index.md)
     - on 26 July 2023
-    - about [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Rosie Gaines](../../topics/rosie-gaines/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md)
+    - about [memoir](../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Rosie Gaines](../../topics/rosie-gaines/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.usmagazine.com/entertainment/news/what-prince-thought-of-sinead-oconnors-nothing-compares-2-u/))
 
 ----
@@ -112,7 +112,7 @@
  - [**"Why Prince’s Estate Refused to Allow ‘Nothing Compares 2 U’ To Be Used in New Sinéad O’Connor Documentary -- "I didn't feel she deserved to use the song," says the icon's co-heir and half-sister Sharon Nelson."**](https://www.billboard.com/pro/prince-sinead-o-connor-documentary-nothing-compares-2-u/)
     - in [Billboard](../../publications/a-e/billboard/index.md)
     - on 30 September 2022
-    - about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Charles Spicer](../../topics/charles-spicer/index.md), [Comerica](../../topics/comerica/index.md), [Comerica Bank & Trust](../../topics/comerica-bank-trust/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [L. Londell McMillan](../../topics/l-londell-mcmillan/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Primary Wave](../../topics/primary-wave/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Rosie Gaines](../../topics/rosie-gaines/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Universal Music Publishing Group](../../topics/universal-music-publishing-group/index.md)
+    - about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Charles Spicer](../../topics/charles-spicer/index.md), [Comerica](../../topics/comerica/index.md), [Comerica Bank & Trust](../../topics/comerica-bank-trust/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [L. Londell McMillan](../../topics/l-londell-mcmillan/index.md), [memoir](../../topics/memoir/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Primary Wave](../../topics/primary-wave/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Rosie Gaines](../../topics/rosie-gaines/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Universal Music Publishing Group](../../topics/universal-music-publishing-group/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/pro/prince-sinead-o-connor-documentary-nothing-compares-2-u/))
 
 ----

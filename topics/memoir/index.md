@@ -1,8 +1,65 @@
 # memoir
 
-## 2023 (1)
+## 2023 (19)
 
-### 2023 July (1)
+### 2023 July (16)
+
+ - [**"‘Nothing Compares 2 U is perfect’: Sinéad O’Connor’s 10 greatest songs -- The late singer’s magnificent voice powered haunted hits about heartbreak, personal traumas, politics and sex, blending rock, folk and hip-hop beats"**](https://www.theguardian.com/music/2023/jul/27/sinead-o-connor-10-best-songs-nothing-compares-2-u)
+    - in [The Guardian](../../publications/f-j/the-guardian/index.md)
+    - on 27 July 2023
+    - about [memoir](../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/music/2023/jul/27/sinead-o-connor-10-best-songs-nothing-compares-2-u))
+
+<br />
+
+ - [**"How Sinéad O'Connor recorded Nothing Compares 2 U"**](https://www.bbc.com/news/entertainment-arts-66320163)
+    - in [BBC News](../../publications/a-e/bbc-news/index.md)
+    - on 27 July 2023
+    - about [Duane Tudahl](../../topics/duane-tudahl/index.md), [Jerome Benton](../../topics/jerome-benton/index.md), [memoir](../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Nothing Compares 2U (song)](../../topics/song/nothing-compares-2u/index.md), [Paul Peterson](../../topics/paul-peterson/index.md), [Sandy Scipioni](../../topics/sandy-scipioni/index.md), [Sinéad O'Connor](../../topics/sin-ad-o-connor/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [The Family](../../topics/the-family/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.bbc.com/news/entertainment-arts-66320163))
+
+<br />
+
+ - [**"Sinéad O’Connor: the angelic skinhead for whom love, intelligence and madness were inseparable -- I interviewed Sinéad twice. She was supremely gifted, terrifyingly vulnerable and hilarious – even at her bleakest she’d make you laugh"**](https://www.theguardian.com/music/2023/jul/27/sinead-oconnor-mental-health-struggles-parental-abuse)
+    - in [The Guardian](../../publications/f-j/the-guardian/index.md)
+    - on 27 July 2023
+    - about [memoir](../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/music/2023/jul/27/sinead-oconnor-mental-health-struggles-parental-abuse))
+
+<br />
+
+ - [**"Sinéad O'Connor: Revisiting her final Hot Press interview – "Anger is the first step towards courage" -- Following the tragic news of the death of Sinéad O'Connor, aged 56, we're looking back at her last interview with Hot Press – originally published in 2020, around the release of her single 'Trouble of the World'"**](https://www.hotpress.com/music/sinead-oconnor-revisiting-her-final-hot-press-interview-anger-is-the-first-step-towards-courage-22981817)
+    - in [Hot Press](../../publications/f-j/hot-press/index.md)
+    - on 27 July 2023
+    - about [memoir](../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Shuhada Sadaqat](../../topics/shuhada-sadaqat/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md), [Sinéad O'Connor](../../topics/sin-ad-o-connor/index.md), [The Family](../../topics/the-family/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.hotpress.com/music/sinead-oconnor-revisiting-her-final-hot-press-interview-anger-is-the-first-step-towards-courage-22981817))
+
+<br />
+
+ - [**"The Fury of Sinéad O'Connor -- It is no measure of health to be well adjusted to a profoundly sick society"**](https://www.welcometohellworld.com/the-fury-of-sinead-oconnor-2/)
+    - by [Leila Brillson](../../authors/leila-brillson/index.md)
+    - in [Welcome to Hell World](../../publications/u-z/welcome-to-hell-world/index.md)
+    - on 27 July 2023
+    - about [memoir](../../topics/memoir/index.md), [Nothing Compares 2U (song)](../../topics/song/nothing-compares-2u/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md), [Sinéad O'Connor](../../topics/sin-ad-o-connor/index.md), [SNL (TV show)](../../topics/tv-show/snl/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.welcometohellworld.com/the-fury-of-sinead-oconnor-2/))
+
+<br />
+
+ - [**"What Prince Thought of Sinéad O'Connor's 'Nothing Compares 2 U' Cover"**](https://www.aol.com/entertainment/prince-thought-sinead-oconnors-nothing-194128980.html)
+    - in [Aol. - Entertainment](../../publications/a-e/aol-entertainment/index.md)
+    - on 27 July 2023
+    - about [memoir](../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Rosie Gaines](../../topics/rosie-gaines/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md), [Sinéad O'Connor](../../topics/sin-ad-o-connor/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.aol.com/entertainment/prince-thought-sinead-oconnors-nothing-194128980.html))
+
+<br />
+
+ - [**"‘Nothing Compares 2 U’: How Sinéad O’Connor turned Prince’s song into a classic -- Dublin-born singer shot to fame with her cover of a previously forgotten Prince song"**](https://www.independent.co.uk/arts-entertainment/music/news/sinead-oconnor-nothing-compares-2-u-b2382514.html)
+    - in [Independent](../../publications/f-j/independent/index.md)
+    - on 26 July 2023
+    - about [Billboard Music Awards (event)](../../topics/event/billboard-music-awards/index.md), [memoir](../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Rosie Gaines](../../topics/rosie-gaines/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.independent.co.uk/arts-entertainment/music/news/sinead-oconnor-nothing-compares-2-u-b2382514.html))
+
+<br />
 
  - [**"Sinéad O’Connor and Prince Controversy Explained: All About the Drama Behind ‘Nothing Compares 2 U' -- Prince's estate refused rights for O'Connor's hit track to be used in her 2022 documentary, 'Nothing Compares,' named after the song"**](https://people.com/sinead-oconnor-prince-nothing-compares-2-u-drama-explained-7566098)
     - in [People](../../publications/p-t/people/index.md)
@@ -10,11 +67,107 @@
     - about [memoir](../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Rosie Gaines](../../topics/rosie-gaines/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md)
     - ([mirror](https://web.archive.org/web/*/https://people.com/sinead-oconnor-prince-nothing-compares-2-u-drama-explained-7566098))
 
+<br />
+
+ - [**"Sinéad O’Connor, Evocative and Outspoken Singer, Is Dead at 56 -- She broke out with the single “Nothing Compares 2 U,” then caused an uproar a few years later by ripping up a photo of Pope John Paul II on “S.N.L.”"**](https://www.nytimes.com/2023/07/26/arts/music/sinead-oconnor-dead.html)
+    - in [New York Times](../../publications/k-o/new-york-times/index.md)
+    - on 26 July 2023
+    - about [Bob Dylan](../../topics/bob-dylan/index.md), [memoir](../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md), [The Family](../../topics/the-family/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.nytimes.com/2023/07/26/arts/music/sinead-oconnor-dead.html))
+
+<br />
+
+ - [**"Sinéad O’Connor, Irish singer of ‘Nothing Compares 2 U’ and more, dead at 56, Irish media says"**](https://edition.cnn.com/2023/07/26/entertainment/sinead-oconnor-death/index.html)
+    - in [CNN International](../../publications/a-e/cnn-international/index.md)
+    - on 26 July 2023
+    - about [memoir](../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://edition.cnn.com/2023/07/26/entertainment/sinead-oconnor-death/index.html))
+
+<br />
+
+ - [**"Sinéad O’Connor, Irish singer who rose to fame with 'Nothing Compares 2 U,' dies at 56 -- O’Connor was also known for courting controversy, including boycotting the Grammys and ripping up a photo of the pope on NBC's "Saturday Night Live.""**](https://www.nbcnews.com/pop-culture/pop-culture-news/sinead-oconnor-death-singer-rcna96482)
+    - in [NBC News](../../publications/k-o/nbc-news/index.md)
+    - on 26 July 2023
+    - about [memoir](../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.nbcnews.com/pop-culture/pop-culture-news/sinead-oconnor-death-singer-rcna96482))
+
+<br />
+
+ - [**"Sinéad O'Connor obituary: A talent beyond compare"**](https://www.bbc.com/news/entertainment-arts-35031186)
+    - in [BBC News](../../publications/a-e/bbc-news/index.md)
+    - on 26 July 2023
+    - about [memoir](../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [Sinéad O'Connor](../../topics/sin-ad-o-connor/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.bbc.com/news/entertainment-arts-35031186))
+
+<br />
+
+ - [**"Sinéad O'Connor: Irish singer dies aged 56"**](https://www.bbc.com/news/entertainment-arts-66318626)
+    - in [BBC News](../../publications/a-e/bbc-news/index.md)
+    - on 26 July 2023
+    - about [memoir](../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [Sinéad O'Connor](../../topics/sin-ad-o-connor/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.bbc.com/news/entertainment-arts-66318626))
+
+<br />
+
+ - [**"Watch Sinéad O’Connor Perform a Breathtaking ‘Nothing Compares 2 U’ on Her Final Tour -- She pledged to stop performing the song in 2015, but brought it back for her final tour just a few years later"**](https://www.rollingstone.com/music/music-features/sinead-oconnor-dead-nothing-compares-2-u-final-tour-1234795622/)
+    - in [Rolling Stone](../../publications/p-t/rolling-stone/index.md)
+    - on 26 July 2023
+    - about [memoir](../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/sinead-oconnor-dead-nothing-compares-2-u-final-tour-1234795622/))
+
+<br />
+
+ - [**"What Prince Really Thought of Sinead O’Connor’s ‘Nothing Compares 2 U’ Cover"**](https://www.usmagazine.com/entertainment/news/what-prince-thought-of-sinead-oconnors-nothing-compares-2-u/)
+    - in [US Weekly](../../publications/u-z/us-weekly/index.md)
+    - on 26 July 2023
+    - about [memoir](../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Rosie Gaines](../../topics/rosie-gaines/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.usmagazine.com/entertainment/news/what-prince-thought-of-sinead-oconnors-nothing-compares-2-u/))
+
+<br />
+
+ - [**"What Prince Really Thought of Sinéad O’Connor’s ‘Nothing Compares 2 U’ Cover"**](https://www.usmagazine.com/entertainment/news/what-prince-thought-of-sinead-oconnors-nothing-compares-2-u/)
+    - in [US Weekly](../../publications/u-z/us-weekly/index.md)
+    - on 26 July 2023
+    - about [memoir](../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Rosie Gaines](../../topics/rosie-gaines/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.usmagazine.com/entertainment/news/what-prince-thought-of-sinead-oconnors-nothing-compares-2-u/))
+
 ----
 
-## 2022 (1)
+### 2023 May (1)
 
-### 2022 November (1)
+ - [**"Rickie Lee Jones talks about her jazzy new album, &#039;Chuck E.&#039;s in Love&#039; and Prince&#039;s &#039;Raspberry Beret&#039; -- She will be playing standards and jazzy oldies at the Dakota this week."**](https://www.startribune.com/rickie-lee-jones-prince-joni-mitchell-russ-titelman-bette-midler-jazz-standards-new-orleans/600277047/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 23 May 2023
+    - about [memoir](../../topics/memoir/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/rickie-lee-jones-prince-joni-mitchell-russ-titelman-bette-midler-jazz-standards-new-orleans/600277047/))
+
+----
+
+### 2023 April (1)
+
+ - [**"Bangles cofounder Susanna Hoffs infused her debut novel with her love of music -- NPR's Andrew Limbong speaks with the Bangles cofounder Susanna Hoffs on her debut novel This Bird Has Flown and how she used her music career to create her main character, singer Jane Start."**](https://www.npr.org/2023/04/13/1169808268/bangles-cofounder-susanna-hoffs-infused-her-debut-novel-with-her-love-of-music)
+    - in [National Public Radio](../../publications/k-o/national-public-radio/index.md)
+    - on 13 April 2023
+    - about [Bangles](../../topics/bangles/index.md), [memoir](../../topics/memoir/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.npr.org/2023/04/13/1169808268/bangles-cofounder-susanna-hoffs-infused-her-debut-novel-with-her-love-of-music))
+
+----
+
+### 2023 February (1)
+
+ - [**"Beyoncé makes Grammy history for wins, but Harry Styles steals album of the year -- Performers Bad Bunny, Lizzo, Stevie Wonder and Chris Stapleton shine, as did a long hip-hop tribute"**](https://www.startribune.com/beyonce-makes-grammy-history-in-a-night-of-electrifying-performances-harry-styles-lizzo-prince/600249371/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 5 February 2023
+    - about [memoir](../../topics/memoir/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/beyonce-makes-grammy-history-in-a-night-of-electrifying-performances-harry-styles-lizzo-prince/600249371/))
+
+----
+
+## 2022 (7)
+
+### 2022 November (2)
 
  - [**"Review: 2 fanboys send a kiss to Prince, music’s most prolific and mysterious artist"**](https://datebook.sfchronicle.com/books/review-2-fanboys-send-a-kiss-to-prince-musics-most-prolific-and-mysterious-artist)
     - in [Datebook - San Francisco Arts & Entertainment Guide](../../publications/a-e/datebook-san-francisco-arts-entertainment-guide/index.md)
@@ -22,11 +175,91 @@
     - about [Charles Dickens](../../topics/charles-dickens/index.md), [Dickens and Prince (book)](../../topics/book/dickens-and-prince/index.md), [Dickens and Prince: A Particular Kind of Genius (book)](../../topics/book/dickens-and-prince-a-particular-kind-of-genius/index.md), [Hilton Als](../../topics/hilton-als/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [memoir](../../topics/memoir/index.md), [My Pinup: A Paean to Prince (book)](../../topics/book/my-pinup-a-paean-to-prince/index.md), [Nick Hornby](../../topics/nick-hornby/index.md)
     - ([mirror](https://web.archive.org/web/*/https://datebook.sfchronicle.com/books/review-2-fanboys-send-a-kiss-to-prince-musics-most-prolific-and-mysterious-artist))
 
+<br />
+
+ - [**"The big gigs: 10 concerts to see in the Twin Cities this week -- Concert highlights for Nov. 3-9 include Smashing Pumpkins, Tegan and Sara, Keith Urban and Pentatonix."**](https://www.startribune.com/10-concerts-to-see-in-twin-cities-this-week-smashing-pumpkins-keith-urban-pentatonix-tegan-and-sara/600221249/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md), [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 2 November 2022
+    - about [memoir](../../topics/memoir/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/10-concerts-to-see-in-twin-cities-this-week-smashing-pumpkins-keith-urban-pentatonix-tegan-and-sara/600221249/))
+
 ----
 
-## 2021 (3)
+### 2022 September (4)
 
-### 2021 May (1)
+ - [**"Why Prince’s Estate Refused to Allow ‘Nothing Compares 2 U’ To Be Used in New Sinéad O’Connor Documentary -- "I didn't feel she deserved to use the song," says the icon's co-heir and half-sister Sharon Nelson."**](https://www.billboard.com/pro/prince-sinead-o-connor-documentary-nothing-compares-2-u/)
+    - in [Billboard](../../publications/a-e/billboard/index.md)
+    - on 30 September 2022
+    - about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Charles Spicer](../../topics/charles-spicer/index.md), [Comerica](../../topics/comerica/index.md), [Comerica Bank & Trust](../../topics/comerica-bank-trust/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [L. Londell McMillan](../../topics/l-londell-mcmillan/index.md), [memoir](../../topics/memoir/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Primary Wave](../../topics/primary-wave/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Rosie Gaines](../../topics/rosie-gaines/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Universal Music Publishing Group](../../topics/universal-music-publishing-group/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/pro/prince-sinead-o-connor-documentary-nothing-compares-2-u/))
+
+<br />
+
+ - [**"‘Crown,’ ‘Interview With the Vampire’ among TV highlights"**](https://apnews.com/article/fall-television-shows-to-watch-the-crown-andor-2649cc250edba973bc68e92f2dc4d917)
+    - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
+    - on 29 September 2022
+    - about [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/fall-television-shows-to-watch-the-crown-andor-2649cc250edba973bc68e92f2dc4d917))
+
+<br />
+
+ - [**"Mariah Carey on the 25th Anniversary of ‘Butterfly,’ and Bonding With Meghan Markle and Prince"**](https://variety.com/2022/music/news/mariah-carey-butterfly-25-anniversary-meghan-markle-prince-1235373657/)
+    - by [A.D. Amorosi](../../authors/a-d-amorosi/index.md)
+    - in [Variety](../../publications/u-z/variety/index.md)
+    - on 15 September 2022
+    - about [Columbia Records](../../topics/columbia-records/index.md), [Mariah Carey](../../topics/mariah-carey/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (song)](../../topics/song/the-beautiful-ones/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://variety.com/2022/music/news/mariah-carey-butterfly-25-anniversary-meghan-markle-prince-1235373657/))
+
+<br />
+
+ - [**"WATCH: Trailer arrives for Sinéad O'Connor documentary NOTHING COMPARES -- NOTHING COMPARES will land in Irish cinemas on October 7th, via Paramount."**](https://www.hotpress.com/film-tv/watch-trailer-arrives-for-sinead-oconnor-documentary-nothing-compares-22928987)
+    - in [Hot Press](../../publications/f-j/hot-press/index.md)
+    - on 15 September 2022
+    - about [memoir](../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md), [Sinéad O'Connor](../../topics/sin-ad-o-connor/index.md), [SNL (TV show)](../../topics/tv-show/snl/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.hotpress.com/film-tv/watch-trailer-arrives-for-sinead-oconnor-documentary-nothing-compares-22928987))
+
+----
+
+### 2022 January (1)
+
+ - [**"Prince’s estate blocks Sinéad O’Connor’s version of ‘Nothing Compares 2 U’ being used in Nothing Compares documentary -- The documentary about the iconic Irish singer recently premiered at the Sundance Film without her biggest hit."**](https://www.hotpress.com/music/princes-estate-blocks-sinead-oconnors-version-of-nothing-compares-2-u-being-used-in-nothing-compares-documentary-22888594)
+    - in [Hot Press](../../publications/f-j/hot-press/index.md)
+    - on 25 January 2022
+    - about [memoir](../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md), [SNL (TV show)](../../topics/tv-show/snl/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.hotpress.com/music/princes-estate-blocks-sinead-oconnors-version-of-nothing-compares-2-u-being-used-in-nothing-compares-documentary-22888594))
+
+----
+
+## 2021 (8)
+
+### 2021 June (2)
+
+ - [**"Book Review: Sinéad O'Connor, Rememberings -- "Always a punk, never a pop star; Sinéad's principles will always trump fame, fortune and recognition...""**](https://www.hotpress.com/opinion/book-review-sinead-oconnor-rememberings-22857586)
+    - in [Hot Press](../../publications/f-j/hot-press/index.md)
+    - on 17 June 2021
+    - about [memoir](../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [Shuhada Sadaqat](../../topics/shuhada-sadaqat/index.md), [Sinéad O'Connor](../../topics/sin-ad-o-connor/index.md), [SNL (TV show)](../../topics/tv-show/snl/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.hotpress.com/opinion/book-review-sinead-oconnor-rememberings-22857586))
+
+<br />
+
+ - [**"‘60 Songs That Explain the ’90s’: How Sinéad O’Connor Turned a Prince Song Into Her Classic -- The Purple One wrote ‘Nothing Compares 2 U,’ but O’Connor managed to inhabit the song and make it fully her own"**](https://www.theringer.com/2021/6/2/22464082/sinead-oconnor-nothing-compares-2-u-prince)
+    - in [The Ringer](../../publications/p-t/the-ringer/index.md)
+    - on 2 June 2021
+    - about [Bangles](../../topics/bangles/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Cyndi Lauper](../../topics/cyndi-lauper/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [memoir](../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md), [The Glamorous Life (song)](../../topics/song/the-glamorous-life/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.theringer.com/2021/6/2/22464082/sinead-oconnor-nothing-compares-2-u-prince))
+
+----
+
+### 2021 May (3)
+
+ - [**"Sinéad O’Connor: ‘I’ll always be a bit crazy, but that’s OK’ -- After a life marked by abuse, fame, scandal and struggle, the Irish singer-songwriter says she never lost faith"**](https://www.theguardian.com/music/2021/may/29/sinead-oconnor-ill-always-be-a-bit-crazy-but-thats-ok-rememberings)
+    - in [The Guardian](../../publications/f-j/the-guardian/index.md)
+    - on 29 May 2021
+    - about [Bob Dylan](../../topics/bob-dylan/index.md), [memoir](../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md), [The Family](../../topics/the-family/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/music/2021/may/29/sinead-oconnor-ill-always-be-a-bit-crazy-but-thats-ok-rememberings))
+
+<br />
 
  - [**"Sinéad O’Connor: How I survived hellish night with ‘devil’ Prince"**](https://nypost.com/2021/05/28/sinead-oconnor-my-hellish-night-with-devil-prince/)
     - in [New York Post](../../publications/k-o/new-york-post/index.md)
@@ -34,9 +267,17 @@
     - about [Duane Nelson](../../topics/duane-nelson/index.md), [memoir](../../topics/memoir/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md), [Steve Fargnoli](../../topics/steve-fargnoli/index.md), [The Family](../../topics/the-family/index.md), [YouTube](../../topics/youtube/index.md)
     - ([mirror](https://web.archive.org/web/*/https://nypost.com/2021/05/28/sinead-oconnor-my-hellish-night-with-devil-prince/))
 
+<br />
+
+ - [**"Sinéad O’Connor Remembers Things Differently -- The mainstream narrative is that a pop star ripped up a photo of the pope on “Saturday Night Live” and derailed her life. What if the opposite were true?"**](https://www.nytimes.com/2021/05/18/arts/music/sinead-oconnor-rememberings.html)
+    - in [New York Times](../../publications/k-o/new-york-times/index.md)
+    - on 18 May 2021
+    - about [Bob Dylan](../../topics/bob-dylan/index.md), [memoir](../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.nytimes.com/2021/05/18/arts/music/sinead-oconnor-rememberings.html))
+
 ----
 
-### 2021 April (2)
+### 2021 April (3)
 
  - [**"Prince’s posthumous book released as fans continue to mourn"**](https://apnews.com/article/dan-piepenbring-us-news-music-prince-entertainment-7d2379f3184b4447ba4c1be55a1afbe1)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
@@ -52,9 +293,59 @@
     - about [Apollonia](../../topics/apollonia/index.md), [Apollonia 6](../../topics/apollonia-6/index.md), [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/prince-apollonia-music-entertainment-mn-state-wire-9a9cbf083a15413eaf4055acbcb4492d))
 
+<br />
+
+ - [**"&#039;It&#039;s a great adventure story,&#039; says singer Rickie Lee Jones of her new memoir -- A colorful cast of characters populates the hipster pop star's new memoir."**](https://www.startribune.com/it-s-a-great-adventure-story-says-singer-rickie-lee-jones-of-her-new-memoir/600042454/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 6 April 2021
+    - about [memoir](../../topics/memoir/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/it-s-a-great-adventure-story-says-singer-rickie-lee-jones-of-her-new-memoir/600042454/))
+
 ----
 
-## 2020 (10)
+## 2020 (14)
+
+### 2020 November (1)
+
+ - [**"15 holiday gifts for music lovers: Taylor Swift, Bob Dylan and more -- The lack of concerts in 2020 only adds to the appetite for music-related presents."**](https://www.startribune.com/15-holiday-gifts-for-music-lovers-from-taylor-swift-bob-dylan-and-more/573215411/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md), [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 29 November 2020
+    - about [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/15-holiday-gifts-for-music-lovers-from-taylor-swift-bob-dylan-and-more/573215411/))
+
+----
+
+### 2020 September (2)
+
+ - [**"Bassist BrownMark&#039;s life with Prince & the Revolution detailed in new memoir -- Bandmate BrownMark: 'He left me in a hotel room for three days'"**](https://www.startribune.com/bassist-brownmark-s-life-with-prince-the-revolution-detailed-in-new-memoir/572371802/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 10 September 2020
+    - about [memoir](../../topics/memoir/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/bassist-brownmark-s-life-with-prince-the-revolution-detailed-in-new-memoir/572371802/))
+
+<br />
+
+ - [**"The Prince musical so disastrous it was never released: the story of I’ll Do Anything -- The Purple One’s song and dance numbers, along with ones by Carole King and Sinéad O’Connor, were cut from the 1994 film. The original still exists, but no one can get to see it. Adam White investigates"**](https://www.independent.co.uk/arts-entertainment/films/features/ill-do-anything-musical-cut-watch-james-l-brooks-prince-nick-nolte-polly-platt-a9700661.html)
+    - in [Independent](../../publications/f-j/independent/index.md)
+    - on 2 September 2020
+    - about [bootleg](../../topics/bootleg/index.md), [Carole King](../../topics/carole-king/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Don’t Talk 2 Strangers (song)](../../topics/song/don-t-talk-2-strangers/index.md), [Girl 6 (movie)](../../topics/movie/girl-6/index.md), [I Can’t Love U Anymore (song)](../../topics/song/i-can-t-love-u-anymore/index.md), [I’ll Do Anything (movie)](../../topics/movie/i-ll-do-anything/index.md), [James L Brooks](../../topics/james-l-brooks/index.md), [Julie Kavner](../../topics/julie-kavner/index.md), [Karina Longworth](../../topics/karina-longworth/index.md), [Los Angeles Times (newspaper)](../../topics/newspaper/los-angeles-times/index.md), [memoir](../../topics/memoir/index.md), [movie musical](../../topics/movie-musical/index.md), [musical](../../topics/musical/index.md), [My Little Pill (song)](../../topics/song/my-little-pill/index.md), [Nick Nolte](../../topics/nick-nolte/index.md), [Polly Platt](../../topics/polly-platt/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md), [Spike Lee](../../topics/spike-lee/index.md), [There Is Lonely (song)](../../topics/song/there-is-lonely/index.md), [Tracey Ullman](../../topics/tracey-ullman/index.md), [vault](../../topics/vault/index.md), [workprint](../../topics/workprint/index.md), [Wow (song)](../../topics/song/wow/index.md), [You Must Remember This (podcast)](../../topics/podcast/you-must-remember-this/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.independent.co.uk/arts-entertainment/films/features/ill-do-anything-musical-cut-watch-james-l-brooks-prince-nick-nolte-polly-platt-a9700661.html))
+
+----
+
+### 2020 May (1)
+
+ - [**"Here comes another Purple memoir -- from Prince bassist Brownmark"**](https://www.startribune.com/here-comes-another-purple-memoir-from-prince-bassist-brownmark/570565402/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 18 May 2020
+    - about [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/here-comes-another-purple-memoir-from-prince-bassist-brownmark/570565402/))
+
+----
 
 ### 2020 January (10)
 
@@ -138,9 +429,9 @@
 
 ----
 
-## 2019 (124)
+## 2019 (134)
 
-### 2019 December (11)
+### 2019 December (12)
 
  - [**"Official Prince website publishes interactive guide to Minneapolis"**](https://blog.thecurrent.org/2019/12/official-prince-website-publishes-interactive-guide-to-minneapolis/)
     - in [The Current - Local Current Blog](../../publications/a-e/the-current-local-current-blog/index.md)
@@ -159,7 +450,7 @@
 <br />
 
  - [**"Noteworthy music books of the year"**](https://www.irishexaminer.com/breakingnews/lifestyle/noteworthy-music-books-of-the-year-971884.html)
-    - in [irishexaminer.com](../../publications/f-j/irishexaminer-com/index.md)
+    - in [Irish Examiner](../../publications/f-j/irish-examiner/index.md)
     - on 22 December 2019
     - about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Donald Trump](../../topics/donald-trump/index.md), [memoir](../../topics/memoir/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [orange](../../topics/orange/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [Trump](../../topics/trump/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.irishexaminer.com/breakingnews/lifestyle/noteworthy-music-books-of-the-year-971884.html))
@@ -188,6 +479,15 @@
     - on 12 December 2019
     - about [Celebration (event)](../../topics/event/celebration/index.md), [Donald Trump](../../topics/donald-trump/index.md), [memoir](../../topics/memoir/index.md), [My Name Is Prince: 25 Inspired Years (book)](../../topics/book/my-name-is-prince-25-inspired-years/index.md), [Obama](../../topics/obama/index.md), [Oprah (TV show)](../../topics/tv-show/oprah/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md), [Trump](../../topics/trump/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.goodmorningamerica.com/culture/story/gma-anchors-share-favorite-books-2019-67598695))
+
+<br />
+
+ - [**"Q&A: Andrea Swensson on Becoming a Prince Expert -- The Current radio host talks about how she got involved in writing the liner notes for the super deluxe reissue of Prince's 1999 album."**](https://mspmag.com/arts-and-culture/qa-andrea-swensson-prince-expert/)
+    - by [Steve Marsh](../../authors/steve-marsh/index.md)
+    - in [Mpls.St.Paul Magazine](../../publications/k-o/mpls-st-paul-magazine/index.md)
+    - on 12 December 2019
+    - about [Andrea Swensson](../../topics/andrea-swensson/index.md), [memoir](../../topics/memoir/index.md), [Prince: The Story of 1999](../../topics/prince-the-story-of-1999/index.md), [Symbolina](../../topics/symbolina/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://mspmag.com/arts-and-culture/qa-andrea-swensson-prince-expert/))
 
 <br />
 
@@ -224,7 +524,7 @@
 <br />
 
  - [**"Books of the month: From Dave Eggers’ The Captain and the Glory to Hayley Nolan’s corrective history of Anne Boleyn -- Martin Chilton reviews five of December’s best books for our monthly book column"**](https://www.independent.co.uk/arts-entertainment/books/features/december-book-dave-eggers-the-captain-teen-idol-leif-garrett-anne-boleyn-a9220196.html)
-    - in [independent.co.uk](../../publications/f-j/independent-co-uk/index.md)
+    - in [Independent](../../publications/f-j/independent/index.md)
     - on 1 December 2019
     - about [divorce](../../topics/divorce/index.md), [Kate Bush](../../topics/kate-bush/index.md), [memoir](../../topics/memoir/index.md), [Michael Jackson](../../topics/michael-jackson/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.independent.co.uk/arts-entertainment/books/features/december-book-dave-eggers-the-captain-teen-idol-leif-garrett-anne-boleyn-a9220196.html))
@@ -339,7 +639,7 @@
 <br />
 
  - [**"The afterlife of Prince, in words and music"**](https://www.inquirer.com/entertainment/prince-1999-beautiful-ones-music-book-tom-petty-david-bowie-20191115.html)
-    - in [inquirer.com](../../publications/f-j/inquirer-com/index.md)
+    - in [The Philadelphia Inquirer](../../publications/p-t/the-philadelphia-inquirer/index.md)
     - on 15 November 2019
     - about [bootleg](../../topics/bootleg/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [memoir](../../topics/memoir/index.md), [museum](../../topics/museum/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [Spike Lee](../../topics/spike-lee/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [Vagina (song)](../../topics/song/vagina/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.inquirer.com/entertainment/prince-1999-beautiful-ones-music-book-tom-petty-david-bowie-20191115.html))
@@ -403,7 +703,7 @@
 <br />
 
  - [**"Prince’s last days: ‘He seemed so strong. He was still burning with ambition’ -- Dan Piepenbring on how he brought the musician’s memoir to life following his death"**](https://www.irishtimes.com/culture/music/prince-s-last-days-he-seemed-so-strong-he-was-still-burning-with-ambition-1.4059357)
-    - in [irishtimes.com](../../publications/f-j/irishtimes-com/index.md)
+    - in [The Irish Times](../../publications/f-j/the-irish-times/index.md)
     - on 2 November 2019
     - about [contract](../../topics/contract/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [memoir](../../topics/memoir/index.md), [Penguin Random House](../../topics/penguin-random-house/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.irishtimes.com/culture/music/prince-s-last-days-he-seemed-so-strong-he-was-still-burning-with-ambition-1.4059357))
@@ -411,7 +711,7 @@
 <br />
 
  - [**"The Beautiful Ones: Memoir offers a fragmentary snapshot of the life of Prince"**](https://www.independent.ie/entertainment/music/the-beautiful-ones-memoir-offers-a-fragmentary-snapshot-of-the-life-of-prince-38650373.html)
-    - in [independent.ie](../../publications/f-j/independent-ie/index.md)
+    - in [Independent.ie](../../publications/f-j/independent-ie/index.md)
     - on 2 November 2019
     - about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Sinéad O'Connor](../../topics/sin-ad-o-connor/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [The Paris Review (magazine)](../../topics/magazine/the-paris-review/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.independent.ie/entertainment/music/the-beautiful-ones-memoir-offers-a-fragmentary-snapshot-of-the-life-of-prince-38650373.html))
@@ -474,7 +774,7 @@
 
 ----
 
-### 2019 October (59)
+### 2019 October (63)
 
  - [**"All of Prince’s Spiciest Pop-Culture Hot Takes From His New Book, The Beautiful Ones"**](https://www.vulture.com/2019/10/prince-memoir-pop-culture-hot-takes.html)
     - in [Vulture](../../publications/u-z/vulture/index.md)
@@ -521,6 +821,14 @@
     - on 30 October 2019
     - about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [divorce](../../topics/divorce/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [memoir](../../topics/memoir/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [vault](../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.washingtonpost.com/entertainment/books/the-beautiful-ones-isnt-the-memoir-prince-envisioned-but-its-a-moving-look-at-the-singers-life/2019/10/30/b4868632-fb16-11e9-8906-ab6b60de9124_story.html))
+
+<br />
+
+ - [**"De laatste woorden van popster Prince: ‘Hij liep nog over van de plannen’ -- Enkele maanden voor zijn dood begon popster Prince aan een autobiografie. Het boek kwam in de verste verte niet af, maar verschijnt nu toch, dankzij co-auteur Dan Piepenbring. ‘Prince was meer dan ooit bezig met zijn sterfelijkheid.’"**](https://www.parool.nl/kunst-media/de-laatste-woorden-van-popster-prince-hij-liep-nog-over-van-de-plannen~baef9d74/)
+    - in [Het Parool](../../publications/f-j/het-parool/index.md)
+    - on 30 October 2019
+    - about [Ed Sheeran](../../topics/ed-sheeran/index.md), [Katy Perry](../../topics/katy-perry/index.md), [memoir](../../topics/memoir/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.parool.nl/kunst-media/de-laatste-woorden-van-popster-prince-hij-liep-nog-over-van-de-plannen~baef9d74/))
 
 <br />
 
@@ -609,6 +917,22 @@
     - on 29 October 2019
     - about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.thatericalper.com/2019/10/29/my-next-read-the-beautiful-ones-by-prince/))
+
+<br />
+
+ - [**"New Prince memoir reveals he hated Katy Perry and Ed Sheeran’s music -- The Purple One had a message for modern pop purveyors: "We don’t like it no matter how many times they play it""**](https://consequenceofsound.net/2019/10/prince-memoir-katy-perry-ed-sheerans-music/)
+    - in [Consequence of Sound](../../publications/a-e/consequence-of-sound/index.md)
+    - on 29 October 2019
+    - about [Allen Beaulieu](../../topics/allen-beaulieu/index.md), [Ed Sheeran](../../topics/ed-sheeran/index.md), [Katy Perry](../../topics/katy-perry/index.md), [memoir](../../topics/memoir/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://consequenceofsound.net/2019/10/prince-memoir-katy-perry-ed-sheerans-music/))
+
+<br />
+
+ - [**"Prince had a problem with pop stars Ed Sheeran and Katy Perry"**](https://www.latimes.com/entertainment-arts/music/story/2019-10-29/prince-katy-perry-ed-sheeran-memoir)
+    - in [Los Angeles Times](../../publications/k-o/los-angeles-times/index.md)
+    - on 29 October 2019
+    - about [Ed Sheeran](../../topics/ed-sheeran/index.md), [Katy Perry](../../topics/katy-perry/index.md), [memoir](../../topics/memoir/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.latimes.com/entertainment-arts/music/story/2019-10-29/prince-katy-perry-ed-sheeran-memoir))
 
 <br />
 
@@ -908,6 +1232,14 @@
 
 <br />
 
+ - [**"Rock and Roll Book Club: Morris Day is 'On Time'"**](https://www.thecurrent.org/feature/2019/10/08/morris-day-on-time)
+    - in [The Current](../../publications/a-e/the-current/index.md)
+    - on 9 October 2019
+    - about [André Cymone](../../topics/andr-cymone/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Kiowa Trail](../../topics/kiowa-trail/index.md), [Mall of America (place)](../../topics/place/mall-of-america/index.md), [memoir](../../topics/memoir/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/10/08/morris-day-on-time))
+
+<br />
+
  - [**"The Beautiful Ones' Editor Reveals How Prince Tapped Him to Write His Memoir -- A month after Chris Jackson signed a deal to publish Prince’s memoir, Prince died. Here, Jackson opens up about the three-year journey to make The Purple One proud."**](https://www.oprahmag.com/entertainment/books/a29339794/prince-the-beautiful-ones-book-chris-jackson/)
     - in [Oprah Magazine](../../publications/k-o/oprah-magazine/index.md)
     - on 9 October 2019
@@ -949,13 +1281,21 @@
 
 ----
 
-### 2019 September (8)
+### 2019 September (9)
 
  - [**"Fall fiction titles have eye for truth; new poetry, nonfiction and memoirs also due -- Ta-Nehisi Coates, Joy Harjo, Prince, Liz Phair among authors with new works"**](https://www.arkansasonline.com/news/2019/sep/29/fall-fiction-releases-have-eye-for-trut/)
     - in [The Arkansas Democrat-Gazette](../../publications/a-e/the-arkansas-democrat-gazette/index.md)
     - on 29 September 2019
     - about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [divorce](../../topics/divorce/index.md), [Donald Trump](../../topics/donald-trump/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [On Time: A Princely Life in Funk (book)](../../topics/book/on-time-a-princely-life-in-funk/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [Trump](../../topics/trump/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.arkansasonline.com/news/2019/sep/29/fall-fiction-releases-have-eye-for-trut/))
+
+<br />
+
+ - [**"Here’s the Guitar That Prince Revolutionized Music With in ‘Purple Rain’ -- The artist gave the “cloud” guitar to the Smithsonian in 1993, but only now do we know it’s the same instrument used in the iconic movie"**](https://www.smithsonianmag.com/smithsonian-institution/guitar-prince-revolutionized-music-purple-rain-180973083/)
+    - in [Smithsonian Magazine](../../publications/p-t/smithsonian-magazine/index.md)
+    - on 19 September 2019
+    - about [Cloud guitar (instrument)](../../topics/instrument/cloud-guitar/index.md), [memoir](../../topics/memoir/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.smithsonianmag.com/smithsonian-institution/guitar-prince-revolutionized-music-purple-rain-180973083/))
 
 <br />
 
@@ -1066,7 +1406,7 @@
 
 ----
 
-### 2019 July (1)
+### 2019 July (2)
 
  - [**"Ani DiFranco on Trump, Her New Memoir, Defying Music Moguls & Working with Pete Seeger and Prince"**](https://www.democracynow.org/2019/7/16/ani_difranco_on_trump_her_new)
     - in [Democracy Now](../../publications/a-e/democracy-now/index.md)
@@ -1074,9 +1414,29 @@
     - about [Ani DiFranco](../../topics/ani-difranco/index.md), [divorce](../../topics/divorce/index.md), [Grammy Award](../../topics/grammy-award/index.md), [memoir](../../topics/memoir/index.md), [separation](../../topics/separation/index.md), [Trump](../../topics/trump/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.democracynow.org/2019/7/16/ani_difranco_on_trump_her_new))
 
+<br />
+
+ - [**"Prince: Humo sprak met zijn manager en muze. 'Wij hadden een heerlijk seksleven, maar als er een song in z'n hoofd opdook, moest ik wijken'"**](https://www.humo.be/humo-archief/403403/prince-humo-sprak-met-zijn-manager-en-muze-wij-hadden-een-heerlijk-seksleven-maar-als-er-een-song-in-zn-hoofd-opdook-moest-ik-wijken)
+    - by [Serge Simonart](../../authors/serge-simonart/index.md)
+    - in [Humo](../../publications/f-j/humo/index.md)
+    - on 8 July 2019
+    - about [contract](../../topics/contract/index.md), [Cynthia Rose](../../topics/cynthia-rose/index.md), [memoir](../../topics/memoir/index.md), [Michael Howe](../../topics/michael-howe/index.md), [Mo Ostin](../../topics/mo-ostin/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../topics/album/originals/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md), [Starfish And Coffee (song)](../../topics/song/starfish-and-coffee/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [The Family](../../topics/the-family/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.humo.be/humo-archief/403403/prince-humo-sprak-met-zijn-manager-en-muze-wij-hadden-een-heerlijk-seksleven-maar-als-er-een-song-in-zn-hoofd-opdook-moest-ik-wijken))
+
 ----
 
-### 2019 May (4)
+### 2019 June (1)
+
+ - [**"Prince’s Unearthed ‘Originals’: Collaborators Look Back on the Hits He Passed Along -- As demos of future classics like “Manic Monday” and Nothing Compares 2 U” finally see official release, Apollonia, the Bangles’ Susanna Hoffs, and others recall the artist’s “otherworldly” songwriting talents"**](https://www.rollingstone.com/music/music-features/prince-originals-interview-842940/)
+    - by [Kory Grow](../../authors/kory-grow/index.md)
+    - in [Rolling Stone](../../publications/p-t/rolling-stone/index.md)
+    - on 24 June 2019
+    - about [Apollonia 6](../../topics/apollonia-6/index.md), [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Bangles](../../topics/bangles/index.md), [contract](../../topics/contract/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [George Clinton](../../topics/george-clinton/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Jungle Love (song)](../../topics/song/jungle-love/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Martika](../../topics/martika/index.md), [Mazarati](../../topics/mazarati/index.md), [memoir](../../topics/memoir/index.md), [Nasty Girl (song)](../../topics/song/nasty-girl/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../topics/album/originals/index.md), [Paula Abdul](../../topics/paula-abdul/index.md), [Peggy McCreary](../../topics/peggy-mccreary/index.md), [perfume](../../topics/perfume/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Sandy Scipioni](../../topics/sandy-scipioni/index.md), [Sex Shooter (song)](../../topics/song/sex-shooter/index.md), [Sheena Easton](../../topics/sheena-easton/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md), [Sugar Walls (song)](../../topics/song/sugar-walls/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [Tevin Campbell](../../topics/tevin-campbell/index.md), [The Family](../../topics/the-family/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [The Time](../../topics/the-time/index.md), [Troy Carter](../../topics/troy-carter/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/prince-originals-interview-842940/))
+
+----
+
+### 2019 May (5)
 
  - [**"Ani DiFranco: The making of an iconoclast"**](https://www.washingtonpost.com/entertainment/books/ani-difranco-the-making-of-an-iconoclast/2019/05/09/2ddb20f2-6b7e-11e9-8f44-e8d8bb1df986_story.html)
     - in [Washington Post](../../publications/u-z/washington-post/index.md)
@@ -1091,6 +1451,15 @@
     - on 10 May 2019
     - about [memoir](../../topics/memoir/index.md), [My Name Is Prince: 25 Inspired Years (book)](../../topics/book/my-name-is-prince-25-inspired-years/index.md), [Randee St. Nicholas](../../topics/randee-st-nicholas/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-news/prince-photo-book-randee-st-nicholas-833631/))
+
+<br />
+
+ - [**"Re-live the 1980s heyday of Minnesota music and comedy in a new photo book -- Writer Martin Keller and photographer Greg Helgeson walked “the thin-grooved line between fandom and journalism,” as chronicled in “Hijinx and Hearsay.”"**](https://www.startribune.com/80s-scenesters-offer-snapshots-of-the-minneapolis-sound-in-new-photo-book/509385652/)
+    - by [Tim Campbell](../../authors/tim-campbell/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 7 May 2019
+    - about [Capri Theater (place)](../../topics/place/capri-theater/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Mayte](../../topics/mayte/index.md), [memoir](../../topics/memoir/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/80s-scenesters-offer-snapshots-of-the-minneapolis-sound-in-new-photo-book/509385652/))
 
 <br />
 
@@ -1110,7 +1479,16 @@
 
 ----
 
-### 2019 April (5)
+### 2019 April (6)
+
+ - [**"Coming soon from the Prince vault: A new album called ‘Originals’ -- Prince’s estate is announcing the collection of his performances of songs he wrote for others."**](https://www.startribune.com/coming-soon-from-the-prince-vault-a-new-album-called-originals/509009862/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md), [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 25 April 2019
+    - about [Ani DiFranco](../../topics/ani-difranco/index.md), [Apple Music](../../topics/apple-music/index.md), [Ava DuVernay](../../topics/ava-duvernay/index.md), [Bangles](../../topics/bangles/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Martika](../../topics/martika/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Netflix](../../topics/netflix/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../topics/album/originals/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Random House](../../topics/random-house/index.md), [Rave In2 the Joy Fantastic (album)](../../topics/album/rave-in2-the-joy-fantastic/index.md), [Rave Un2 the Joy Fantastic (album)](../../topics/album/rave-un2-the-joy-fantastic/index.md), [Rave Un2 the Year 2000 (video)](../../topics/video/rave-un2-the-year-2000/index.md), [Sex Shooter (song)](../../topics/song/sex-shooter/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [The Family](../../topics/the-family/index.md), [The Glamorous Life (song)](../../topics/song/the-glamorous-life/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [The Time](../../topics/the-time/index.md), [Ultimate Rave (album)](../../topics/album/ultimate-rave/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/coming-soon-from-the-prince-vault-a-new-album-called-originals/509009862/))
+
+<br />
 
  - [**"C.J.: Prince protégée Ashley Támar Davis performed with pre-Destiny Beyoncé"**](https://www.startribune.com/c-j-the-fame-of-destiny-s-child-almost-broke-singer-ashley-tamar-davis/508902862/)
     - by [C.J. (Cheryl Johnson)](../../authors/c-j-cheryl-johnson/index.md)
@@ -1156,7 +1534,28 @@
 
 ----
 
-## 2018 (5)
+## 2018 (7)
+
+### 2018 December (1)
+
+ - [**"10 signs the Minnesota music scene was alive and well in 2018 -- Need a reason to stay positive? Here are 10."**](https://www.startribune.com/10-signs-the-minnesota-music-scene-was-alive-and-well-in-2018/503245841/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 21 December 2018
+    - about [Erykah Badu](../../topics/erykah-badu/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Super Bowl](../../topics/super-bowl/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/10-signs-the-minnesota-music-scene-was-alive-and-well-in-2018/503245841/))
+
+----
+
+### 2018 July (1)
+
+ - [**"The Prince Estate’s Big Plans: Inside the Upcoming Purple Reign -- The late singer’s estate is currently exploring licensing, future releases and even a hotel – all while trying to consider what Prince would have wanted"**](https://www.rollingstone.com/music/music-features/prince-estate-big-plans-upcoming-purple-reign-698529/)
+    - in [Rolling Stone](../../publications/p-t/rolling-stone/index.md)
+    - on 13 July 2018
+    - about [A Case of You (song)](../../topics/song/a-case-of-you/index.md), [Bravado](../../topics/bravado/index.md), [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [Comerica](../../topics/comerica/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Graceland](../../topics/graceland/index.md), [hologram](../../topics/hologram/index.md), [John Nelson](../../topics/john-nelson/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Mary Don’t You Weep (song)](../../topics/song/mary-don-t-you-weep/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [memoir](../../topics/memoir/index.md), [merchandise](../../topics/merchandise/index.md), [Michael Howe](../../topics/michael-howe/index.md), [Minnesota Twins](../../topics/minnesota-twins/index.md), [museum](../../topics/museum/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Piano and a Microphone 1983 (album)](../../topics/album/piano-and-a-microphone-1983/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Questlove](../../topics/questlove/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md), [Spotify](../../topics/spotify/index.md), [Super Bowl](../../topics/super-bowl/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Troy Carter](../../topics/troy-carter/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Warner Bros. Records](../../topics/warner-bros-records/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/prince-estate-big-plans-upcoming-purple-reign-698529/))
+
+----
 
 ### 2018 June (2)
 
@@ -1202,7 +1601,7 @@
 
 ----
 
-## 2017 (6)
+## 2017 (10)
 
 ### 2017 August (1)
 
@@ -1215,7 +1614,7 @@
 
 ----
 
-### 2017 May (1)
+### 2017 May (2)
 
  - [**"Prince's First Wife, Mayte Garcia, Talks Memoir -- WCCO - CBS Minnesota"**](https://www.youtube.com/watch?v=MbH1fnq3YVg)
     - in [YouTube](../../publications/u-z/youtube/index.md)
@@ -1223,9 +1622,18 @@
     - about [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [memoir](../../topics/memoir/index.md), [The Most Beautiful (book)](../../topics/book/the-most-beautiful/index.md), [WCCO](../../topics/wcco/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.youtube.com/watch?v=MbH1fnq3YVg))
 
+<br />
+
+ - [**"Prince&#039;s first ex-wife on her new memoir: &#039;A lot of trauma I made myself forget&#039; -- Mayte Garcia is returning to the Twin Cities this week to promote her new book, "The Most Beautiful.""**](https://www.startribune.com/prince-s-first-ex-wife-on-her-new-memoir-a-lot-of-trauma-i-made-myself-forget/421629693/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 8 May 2017
+    - about [Abbott Northwestern Hospital (place)](../../topics/place/abbott-northwestern-hospital/index.md), [Amiir](../../topics/amiir/index.md), [Boy Gregory](../../topics/boy-gregory/index.md), [Joni Rodgers](../../topics/joni-rodgers/index.md), [Mall of America (place)](../../topics/place/mall-of-america/index.md), [memoir](../../topics/memoir/index.md), [Mia Gregory](../../topics/mia-gregory/index.md), [Nordstrom (place)](../../topics/place/nordstrom/index.md), [Oprah (TV show)](../../topics/tv-show/oprah/index.md), [Today Show (TV show)](../../topics/tv-show/today-show/index.md), [Tommy Lee](../../topics/tommy-lee/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-s-first-ex-wife-on-her-new-memoir-a-lot-of-trauma-i-made-myself-forget/421629693/))
+
 ----
 
-### 2017 April (3)
+### 2017 April (6)
 
  - [**"A year after Prince's death, these questions remain unanswered"**](https://usatoday.com/story/life/music/2017/04/20/death-prince-one-year-later-what-do-we-know/100180398/)
     - in [USA Today](../../publications/u-z/usa-today/index.md)
@@ -1235,12 +1643,36 @@
 
 <br />
 
+ - [**"Mayte Garcia on the Prince you didn’t know"**](https://apnews.com/a4115faebefc463a8aad4433e14f5d2b)
+    - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
+    - on 19 April 2017
+    - about [Amiir](../../topics/amiir/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [memoir](../../topics/memoir/index.md), [The Most Beautiful (book)](../../topics/book/the-most-beautiful/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://apnews.com/a4115faebefc463a8aad4433e14f5d2b))
+
+<br />
+
+ - [**"Mayte Garcia reflects on life with Prince"**](https://apnews.com/5a81cc1b557141e4b9cbdd3bbbf4a40d)
+    - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
+    - on 10 April 2017
+    - about [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [memoir](../../topics/memoir/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://apnews.com/5a81cc1b557141e4b9cbdd3bbbf4a40d))
+
+<br />
+
  - [**"No ‘tell-all,’ but Prince’s ex details their life in memoir"**](https://apnews.com/0c93c63651ef4f15adde78e51b38c197)
     - by [Leanne Italie (Associated Press)](../../authors/associated-press/leanne-italie/index.md)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 10 April 2017
     - about [Amiir](../../topics/amiir/index.md), [divorce](../../topics/divorce/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [memoir](../../topics/memoir/index.md), [opioid](../../topics/opioid/index.md), [Oprah (TV show)](../../topics/tv-show/oprah/index.md), [The Most Beautiful (book)](../../topics/book/the-most-beautiful/index.md), [Vicodin](../../topics/vicodin/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/0c93c63651ef4f15adde78e51b38c197))
+
+<br />
+
+ - [**"Prince's Strange Relationship with Parody (and Weird Al) Detailed in Excerpt From Ben Greenman's 'Dig If U Will The Picture' [Exclusive]"**](https://www.okayplayer.com/news/prince-weird-al-exclusive-excerpt-ben-greenman-interview.html)
+    - in [Okayplayer](../../publications/k-o/okayplayer/index.md)
+    - on 6 April 2017
+    - about [Charlie Murphy](../../topics/charlie-murphy/index.md), [Dave Chappelle](../../topics/dave-chappelle/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [memoir](../../topics/memoir/index.md), [Miami (place)](../../topics/place/miami/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Questlove](../../topics/questlove/index.md), [Strange Relationship (song)](../../topics/song/strange-relationship/index.md), [Weird Al Yankovic](../../topics/weird-al-yankovic/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.okayplayer.com/news/prince-weird-al-exclusive-excerpt-ben-greenman-interview.html))
 
 <br />
 
@@ -1263,7 +1695,18 @@
 
 ----
 
-## 2016 (14)
+## 2016 (18)
+
+### 2016 October (1)
+
+ - [**"What should Prince&#039;s estate do to keep his music alive? -- The tribute concert is over, and the museum is open. Here's how Prince's family should handle other posthumous projects."**](https://www.startribune.com/what-should-prince-s-estate-do-to-keep-his-music-alive/397828981/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 21 October 2016
+    - about [memoir](../../topics/memoir/index.md), [museum](../../topics/museum/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/what-should-prince-s-estate-do-to-keep-his-music-alive/397828981/))
+
+----
 
 ### 2016 September (1)
 
@@ -1275,13 +1718,22 @@
 
 ----
 
-### 2016 April (7)
+### 2016 April (10)
 
  - [**"‘I’m Going to Personify Sex in Every Way’: Prince’s Defining ‘Dirty Mind’ Album -- A refusal to be labeled R&B, a rivalry with Rick James and a very dirty song called 'Head': the groundbreaking arrival of 1980's 'Dirty Mind.'"**](https://www.billboard.com/music/features/prince-dirty-mind-retrospective-7348526/)
     - in [Billboard](../../publications/a-e/billboard/index.md)
     - on 28 April 2016
     - about [American Bandstand](../../topics/american-bandstand/index.md), [André Cymone](../../topics/andr-cymone/index.md), [Andy Warhol](../../topics/andy-warhol/index.md), [Bobby Z](../../topics/bobby-z/index.md), [Denver (place)](../../topics/place/denver/index.md), [Detroit (place)](../../topics/place/detroit/index.md), [Dez Dickerson](../../topics/dez-dickerson/index.md), [Dick Clark](../../topics/dick-clark/index.md), [Dirty Mind (album)](../../topics/album/dirty-mind/index.md), [Dirty Mind (tour)](../../topics/tour/dirty-mind/index.md), [Gayle Chapman](../../topics/gayle-chapman/index.md), [Head (song)](../../topics/song/head/index.md), [I Wanna Be Your Lover (song)](../../topics/song/i-wanna-be-your-lover/index.md), [Ken Tucker](../../topics/ken-tucker/index.md), [Lake Minnetonka (place)](../../topics/place/lake-minnetonka/index.md), [Lenny Waronker](../../topics/lenny-waronker/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Los Angeles (place)](../../topics/place/los-angeles/index.md), [memoir](../../topics/memoir/index.md), [Mo Ostin](../../topics/mo-ostin/index.md), [Rick James](../../topics/rick-james/index.md), [Rolling Stone (magazine)](../../topics/magazine/rolling-stone/index.md), [Roxy (place)](../../topics/place/roxy/index.md), [Russ Thyret](../../topics/russ-thyret/index.md), [Sam’s (place)](../../topics/place/sam-s/index.md), [Steve Fargnoli](../../topics/steve-fargnoli/index.md), [Stevie Wonder](../../topics/stevie-wonder/index.md), [Ted Cohen](../../topics/ted-cohen/index.md), [The Rainbow (place)](../../topics/place/the-rainbow/index.md), [The Ritz (place)](../../topics/place/the-ritz/index.md), [The Village Voice (magazine)](../../topics/magazine/the-village-voice/index.md), [Twin Cities (place)](../../topics/place/twin-cities/index.md), [Wayzata (place)](../../topics/place/wayzata/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/music/features/prince-dirty-mind-retrospective-7348526/))
+
+<br />
+
+ - [**"Until the end, an enigma: Flashes of frailty stand out in Prince&#039;s vibrant final months -- In retrospect, those who saw Prince regularly say there were indications that he might have been concealing health problems. He abandoned his trademark high-heeled boots for custom platform sneakers, for one thing, and began carrying a cane."**](https://www.startribune.com/until-the-end-an-enigmaflashes-of-frailty-stand-out-in-prince-s-vibrant-final-months/376860181/)
+    - by [Jon Bream](../../authors/jon-bream/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 24 April 2016
+    - about [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/until-the-end-an-enigmaflashes-of-frailty-stand-out-in-prince-s-vibrant-final-months/376860181/))
 
 <br />
 
@@ -1309,6 +1761,15 @@
 
 <br />
 
+ - [**"Prince dead at 57: Legendary musician found at Paisley Park -- Worldwide grief over sudden death of musical genius"**](https://www.startribune.com/authorities-investigating-death-at-prince-s-paisley-park/376578441/)
+    - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md), [Pam Louwagie](../../authors/pam-louwagie/index.md)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 22 April 2016
+    - about [memoir](../../topics/memoir/index.md), [Super Bowl](../../topics/super-bowl/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/authorities-investigating-death-at-prince-s-paisley-park/376578441/))
+
+<br />
+
  - [**"Prince, hugely inventive, influential musician, dead at 57"**](https://apnews.com/988e107cf6964494b58ad2ca9bcd0985)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 22 April 2016
@@ -1322,6 +1783,14 @@
     - on 21 April 2016
     - about [Atlanta (place)](../../topics/place/atlanta/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Eden Prairie (place)](../../topics/place/eden-prairie/index.md), [Judith Hill](../../topics/judith-hill/index.md), [memoir](../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Piano and a Microphone (tour)](../../topics/tour/piano-and-a-microphone/index.md), [Sinead O'Connor](../../topics/sinead-o-connor/index.md), [Sinéad O'Connor](../../topics/sin-ad-o-connor/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [Yvette Noel-Schure](../../topics/yvette-noel-schure/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.chron.com/entertainment/celebrities/article/Reports-Prince-dead-at-57-7287598.php))
+
+<br />
+
+ - [**"Prince, musical and social trailblazer, dies at 57"**](https://www.sfchronicle.com/music/article/Prince-musical-and-social-trailblazer-dies-at-57-7287717.php)
+    - in [San Francisco Chronicle](../../publications/p-t/san-francisco-chronicle/index.md)
+    - on 21 April 2016
+    - about [Atlanta (place)](../../topics/place/atlanta/index.md), [Bay Area (place)](../../topics/place/bay-area/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [John Lewis Nelson](../../topics/john-lewis-nelson/index.md), [memoir](../../topics/memoir/index.md), [Piano and a Microphone (tour)](../../topics/tour/piano-and-a-microphone/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md), [Yvette Noel-Schure](../../topics/yvette-noel-schure/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.sfchronicle.com/music/article/Prince-musical-and-social-trailblazer-dies-at-57-7287717.php))
 
 <br />
 
@@ -1386,6 +1855,62 @@
     - on 10 February 2016
     - about [Alan Light](../../topics/alan-light/index.md), [Albert Magnoli](../../topics/albert-magnoli/index.md), [Apollonia 6](../../topics/apollonia-6/index.md), [Dave Chappelle](../../topics/dave-chappelle/index.md), [Janet Jackson](../../topics/janet-jackson/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [Jesse Johnson](../../topics/jesse-johnson/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Joni Mitchell](../../topics/joni-mitchell/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Matt Fink](../../topics/matt-fink/index.md), [memoir](../../topics/memoir/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Morris Day](../../topics/morris-day/index.md), [One Nite Alone (album)](../../topics/album/one-nite-alone/index.md), [Questlove](../../topics/questlove/index.md), [Quincy Jones](../../topics/quincy-jones/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Stand Back (song)](../../topics/song/stand-back/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Revolution](../../topics/the-revolution/index.md), [Vagina (song)](../../topics/song/vagina/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md)
     - ([mirror](https://web.archive.org/web/*/https://medium.com/cuepoint/paean-to-prince-15-fascinating-facts-about-his-purple-majesty-6aa627d1d17e))
+
+----
+
+## 2013 (3)
+
+### 2013 August (1)
+
+ - [**"Our five faves of the moment: &#039;The World&#039;s End,&#039; Questlove&#039;s &#039;Mo Meta Blues&#039; and more"**](https://www.startribune.com/our-five-faves-of-the-moment-the-world-s-end-questlove-s-mo-meta-blues-and-more/220743611/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 22 August 2013
+    - about [memoir](../../topics/memoir/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/our-five-faves-of-the-moment-the-world-s-end-questlove-s-mo-meta-blues-and-more/220743611/))
+
+----
+
+### 2013 April (1)
+
+ - [**"C.J.: Will Prince be flattered by kiss-and-tell?"**](https://www.startribune.com/c-j-will-prince-be-flattered-by-kiss-and-tell/205318881/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 30 April 2013
+    - about [memoir](../../topics/memoir/index.md), [Symbolina](../../topics/symbolina/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/c-j-will-prince-be-flattered-by-kiss-and-tell/205318881/))
+
+----
+
+### 2013 March (1)
+
+ - [**"Item World: Partying with Andy Warhol, Prince&#039;s theme song and T-shirts, more"**](https://www.startribune.com/item-world-partying-with-andy-warhol-prince-s-theme-song-and-t-shirts-more/198161591/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 22 March 2013
+    - about [memoir](../../topics/memoir/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/item-world-partying-with-andy-warhol-prince-s-theme-song-and-t-shirts-more/198161591/))
+
+----
+
+## 2011 (1)
+
+### 2011 April (1)
+
+ - [**"Ask twice for the skinny on Erica Kane -- Susan Lucci is apparently no Erica Kane."**](https://www.startribune.com/ask-twice-for-the-skinny-on-erica-kane/119223954/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 6 April 2011
+    - about [Mall of America (place)](../../topics/place/mall-of-america/index.md), [memoir](../../topics/memoir/index.md), [Symbolina](../../topics/symbolina/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/ask-twice-for-the-skinny-on-erica-kane/119223954/))
+
+----
+
+## 2010 (1)
+
+### 2010 June (1)
+
+ - [**"Cheryl Tiegs: There&#039;s no &#039;Love Story&#039; with Ryan O&#039;Neal -- Cheryl Tiegs is NOT dating Ryan O'Neal, even though the alleged romance is all over the Web."**](https://www.startribune.com/cheryl-tiegs-there-s-no-love-story-with-ryan-o-neal/95694644/)
+    - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 6 June 2010
+    - about [memoir](../../topics/memoir/index.md), [Oprah (TV show)](../../topics/tv-show/oprah/index.md), [Symbolina](../../topics/symbolina/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/cheryl-tiegs-there-s-no-love-story-with-ryan-o-neal/95694644/))
 
 ----
 

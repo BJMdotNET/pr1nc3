@@ -438,7 +438,7 @@
  - [**"Prince's Strange Relationship with Parody (and Weird Al) Detailed in Excerpt From Ben Greenman's 'Dig If U Will The Picture' [Exclusive]"**](https://www.okayplayer.com/news/prince-weird-al-exclusive-excerpt-ben-greenman-interview.html)
     - in [Okayplayer](../../../publications/k-o/okayplayer/index.md)
     - on 6 April 2017
-    - about [Charlie Murphy](../../../topics/charlie-murphy/index.md), [Dave Chappelle](../../../topics/dave-chappelle/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Miami (place)](../../../topics/place/miami/index.md), [Michael Jackson](../../../topics/michael-jackson/index.md), [Questlove](../../../topics/questlove/index.md), [Strange Relationship (song)](../../../topics/song/strange-relationship/index.md), [Weird Al Yankovic](../../../topics/weird-al-yankovic/index.md)
+    - about [Charlie Murphy](../../../topics/charlie-murphy/index.md), [Dave Chappelle](../../../topics/dave-chappelle/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [memoir](../../../topics/memoir/index.md), [Miami (place)](../../../topics/place/miami/index.md), [Michael Jackson](../../../topics/michael-jackson/index.md), [Questlove](../../../topics/questlove/index.md), [Strange Relationship (song)](../../../topics/song/strange-relationship/index.md), [Weird Al Yankovic](../../../topics/weird-al-yankovic/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.okayplayer.com/news/prince-weird-al-exclusive-excerpt-ben-greenman-interview.html))
 
 ----
@@ -651,6 +651,18 @@
     - on 8 March 2013
     - about [D’Angelo](../../../topics/d-angelo/index.md), [Darling Nikki (song)](../../../topics/song/darling-nikki/index.md), [Eric Leeds](../../../topics/eric-leeds/index.md), [Fred Armisen](../../../topics/fred-armisen/index.md), [Gretchen Lieberum](../../../topics/gretchen-lieberum/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Maya Rudolph](../../../topics/maya-rudolph/index.md), [Paul Peterson](../../../topics/paul-peterson/index.md), [Pop Life (song)](../../../topics/song/pop-life/index.md), [PRINCEss](../../../topics/princess/index.md), [Questlove](../../../topics/questlove/index.md), [St. Paul Peterson](../../../topics/st-paul-peterson/index.md), [Susannah Melvoin](../../../topics/susannah-melvoin/index.md), [The Beautiful Ones (song)](../../../topics/song/the-beautiful-ones/index.md), [The Revolution](../../../topics/the-revolution/index.md), [The Roots](../../../topics/the-roots/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/f78be2e8ad1b4b7ebeb0c45b96f32081))
+
+----
+
+## 2011 (1)
+
+### 2011 July (1)
+
+ - [**"Sinéad O'Connor album delayed until 2012 -- The follow-up to Theology will surface next year."**](https://www.hotpress.com/music/sinead-oconnor-album-delayed-until-2012-8033539)
+    - in [Hot Press](../../../publications/f-j/hot-press/index.md)
+    - on 4 July 2011
+    - about [Hop Farm (event)](../../../topics/event/hop-farm/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md), [Sinéad O'Connor](../../../topics/sin-ad-o-connor/index.md), [U Got the Look (song)](../../../topics/song/u-got-the-look/index.md), [Vince Power](../../../topics/vince-power/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.hotpress.com/music/sinead-oconnor-album-delayed-until-2012-8033539))
 
 ----
 

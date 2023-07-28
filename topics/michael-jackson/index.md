@@ -199,7 +199,7 @@
 <br />
 
  - [**"Noteworthy music books of the year"**](https://www.irishexaminer.com/breakingnews/lifestyle/noteworthy-music-books-of-the-year-971884.html)
-    - in [irishexaminer.com](../../publications/f-j/irishexaminer-com/index.md)
+    - in [Irish Examiner](../../publications/f-j/irish-examiner/index.md)
     - on 22 December 2019
     - about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Donald Trump](../../topics/donald-trump/index.md), [memoir](../../topics/memoir/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [orange](../../topics/orange/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [Trump](../../topics/trump/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.irishexaminer.com/breakingnews/lifestyle/noteworthy-music-books-of-the-year-971884.html))
@@ -255,7 +255,7 @@
 <br />
 
  - [**"Books of the month: From Dave Eggers’ The Captain and the Glory to Hayley Nolan’s corrective history of Anne Boleyn -- Martin Chilton reviews five of December’s best books for our monthly book column"**](https://www.independent.co.uk/arts-entertainment/books/features/december-book-dave-eggers-the-captain-teen-idol-leif-garrett-anne-boleyn-a9220196.html)
-    - in [independent.co.uk](../../publications/f-j/independent-co-uk/index.md)
+    - in [Independent](../../publications/f-j/independent/index.md)
     - on 1 December 2019
     - about [divorce](../../topics/divorce/index.md), [Kate Bush](../../topics/kate-bush/index.md), [memoir](../../topics/memoir/index.md), [Michael Jackson](../../topics/michael-jackson/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.independent.co.uk/arts-entertainment/books/features/december-book-dave-eggers-the-captain-teen-idol-leif-garrett-anne-boleyn-a9220196.html))
@@ -383,7 +383,7 @@
  - [**"Rock and Roll Book Club: Morris Day is 'On Time'"**](https://www.thecurrent.org/feature/2019/10/08/morris-day-on-time)
     - in [The Current](../../publications/a-e/the-current/index.md)
     - on 9 October 2019
-    - about [André Cymone](../../topics/andr-cymone/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Kiowa Trail](../../topics/kiowa-trail/index.md), [Mall of America (place)](../../topics/place/mall-of-america/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - about [André Cymone](../../topics/andr-cymone/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Kiowa Trail](../../topics/kiowa-trail/index.md), [Mall of America (place)](../../topics/place/mall-of-america/index.md), [memoir](../../topics/memoir/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/10/08/morris-day-on-time))
 
 ----
@@ -638,7 +638,7 @@
  - [**"Prince's Strange Relationship with Parody (and Weird Al) Detailed in Excerpt From Ben Greenman's 'Dig If U Will The Picture' [Exclusive]"**](https://www.okayplayer.com/news/prince-weird-al-exclusive-excerpt-ben-greenman-interview.html)
     - in [Okayplayer](../../publications/k-o/okayplayer/index.md)
     - on 6 April 2017
-    - about [Charlie Murphy](../../topics/charlie-murphy/index.md), [Dave Chappelle](../../topics/dave-chappelle/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Miami (place)](../../topics/place/miami/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Questlove](../../topics/questlove/index.md), [Strange Relationship (song)](../../topics/song/strange-relationship/index.md), [Weird Al Yankovic](../../topics/weird-al-yankovic/index.md)
+    - about [Charlie Murphy](../../topics/charlie-murphy/index.md), [Dave Chappelle](../../topics/dave-chappelle/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [memoir](../../topics/memoir/index.md), [Miami (place)](../../topics/place/miami/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Questlove](../../topics/questlove/index.md), [Strange Relationship (song)](../../topics/song/strange-relationship/index.md), [Weird Al Yankovic](../../topics/weird-al-yankovic/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.okayplayer.com/news/prince-weird-al-exclusive-excerpt-ben-greenman-interview.html))
 
 ----

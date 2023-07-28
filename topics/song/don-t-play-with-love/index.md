@@ -1,27 +1,32 @@
-# Don't Play With Love (song)
+# Don’t Play With Love (song)
 
-## 2023 (1)
+## 2018 (3)
 
-### 2023 June (1)
+### 2018 March (3)
 
- - [**"The good, the bad and the quotable at Prince Celebration 2023 at Paisley Park -- And some suggestions for next year's annual fan convention in Chanhassen."**](https://www.startribune.com/prince-celebration-2023-paisley-park-chuck-d-chaka-khan-doug-e-fresh-stokley-nur-d-nunnabove/600281951/)
+ - [**"Music by Prince's father featured on new album, tracking 'that DNA thing' -- John L. Nelson's daughter has produced a CD of his tunes played by jazz all-stars."**](https://www.startribune.com/music-by-prince-s-father-featured-on-new-album-tracking-that-dna-thing/476308573/)
     - by [Jon Bream](../../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
-    - on 12 June 2023
-    - about [3rdEyeGirl](../../../topics/3rdeyegirl/index.md), [Alan Leeds](../../../topics/alan-leeds/index.md), [Alicia Keys](../../../topics/alicia-keys/index.md), [Bobby Z](../../../topics/bobby-z/index.md), [Bruce Springsteen](../../../topics/bruce-springsteen/index.md), [Capri Theater (place)](../../../topics/place/capri-theater/index.md), [Celebration (event)](../../../topics/event/celebration/index.md), [Celebration 2023 (event)](../../../topics/event/celebration-2023/index.md), [Chaka Khan](../../../topics/chaka-khan/index.md), [Charles Spicer](../../../topics/charles-spicer/index.md), [Charlie Murphy](../../../topics/charlie-murphy/index.md), [Don't Play With Love (song)](../../../topics/song/don-t-play-with-love/index.md), [Doug E. Fresh](../../../topics/doug-e-fresh/index.md), [Erykah Badu](../../../topics/erykah-badu/index.md), [Gilbert Davison](../../../topics/gilbert-davison/index.md), [H.E.R.](../../../topics/h-e-r/index.md), [Janelle Monae](../../../topics/janelle-monae/index.md), [Jimmy Jam](../../../topics/jimmy-jam/index.md), [John L. Nelson](../../../topics/john-l-nelson/index.md), [Lenny Kravitz](../../../topics/lenny-kravitz/index.md), [Mavis Staples](../../../topics/mavis-staples/index.md), [Michael Bland](../../../topics/michael-bland/index.md), [Michael Pagnotta](../../../topics/michael-pagnotta/index.md), [Obama](../../../topics/obama/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [Prince Legacy LLC](../../../topics/prince-legacy-llc/index.md), [Questlove](../../../topics/questlove/index.md), [Sounds of Blackness](../../../topics/sounds-of-blackness/index.md), [Spike Lee](../../../topics/spike-lee/index.md), [Stokley](../../../topics/stokley/index.md), [Terry Lewis](../../../topics/terry-lewis/index.md), [The Prince Estate](../../../topics/the-prince-estate/index.md), [Tim Burton](../../../topics/tim-burton/index.md), [Trevor Guy](../../../topics/trevor-guy/index.md), [Under the Cherry Moon (movie)](../../../topics/movie/under-the-cherry-moon/index.md)
-    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-celebration-2023-paisley-park-chuck-d-chaka-khan-doug-e-fresh-stokley-nur-d-nunnabove/600281951/))
+    - on 10 March 2018
+    - about [Adi Yeshaya](../../../topics/adi-yeshaya/index.md), [Cannonball Legacy Band](../../../topics/cannonball-legacy-band/index.md), [Don’t Play With Love (album)](../../../topics/album/don-t-play-with-love/index.md), [Don’t Play With Love (song)](../../../topics/song/don-t-play-with-love/index.md), [Duke Ellington](../../../topics/duke-ellington/index.md), [Father’s Song (album)](../../../topics/album/father-s-song/index.md), [Father’s Song (song)](../../../topics/song/father-s-song/index.md), [Honeywell (place)](../../../topics/place/honeywell/index.md), [Jeremy Pelt](../../../topics/jeremy-pelt/index.md), [John L. Nelson](../../../topics/john-l-nelson/index.md), [John L. Nelson Project](../../../topics/john-l-nelson-project/index.md), [Louis Hayes](../../../topics/louis-hayes/index.md), [Owen Husney](../../../topics/owen-husney/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Rick Germanson](../../../topics/rick-germanson/index.md), [Scandalous (song)](../../../topics/song/scandalous/index.md), [Sharon Nelson](../../../topics/sharon-nelson/index.md), [Soft and Wet (song)](../../../topics/song/soft-and-wet/index.md), [Vincent Herring](../../../topics/vincent-herring/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/music-by-prince-s-father-featured-on-new-album-tracking-that-dna-thing/476308573/))
 
-----
+<br />
 
-## 2018 (1)
+ - [**"Music by Prince’s father featured on new album, tracking ‘that DNA thing’"**](https://apnews.com/869e0302972c4e36aa99981332602cd0)
+    - by [Jon Bream](../../../authors/jon-bream/index.md)
+    - in [Associated Press News](../../../publications/a-e/associated-press-news/index.md)
+    - on 8 March 2018
+    - about [Adi Yeshaya](../../../topics/adi-yeshaya/index.md), [Cannonball Legacy Band](../../../topics/cannonball-legacy-band/index.md), [Don’t Play With Love (album)](../../../topics/album/don-t-play-with-love/index.md), [Don’t Play With Love (song)](../../../topics/song/don-t-play-with-love/index.md), [Duke Ellington](../../../topics/duke-ellington/index.md), [Father’s Song (album)](../../../topics/album/father-s-song/index.md), [Father’s Song (song)](../../../topics/song/father-s-song/index.md), [Honeywell (place)](../../../topics/place/honeywell/index.md), [Jeremy Pelt](../../../topics/jeremy-pelt/index.md), [John L. Nelson](../../../topics/john-l-nelson/index.md), [John L. Nelson Project](../../../topics/john-l-nelson-project/index.md), [Louis Hayes](../../../topics/louis-hayes/index.md), [Owen Husney](../../../topics/owen-husney/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Rick Germanson](../../../topics/rick-germanson/index.md), [Scandalous (song)](../../../topics/song/scandalous/index.md), [Sharon Nelson](../../../topics/sharon-nelson/index.md), [Soft and Wet (song)](../../../topics/song/soft-and-wet/index.md), [Vincent Herring](../../../topics/vincent-herring/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://apnews.com/869e0302972c4e36aa99981332602cd0))
 
-### 2018 March (1)
+<br />
 
- - [**"Recording of jazz compositions by Prince's father released"**](https://www.startribune.com/recording-of-jazz-compositions-by-prince-s-father-released/475668083/)
-    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+ - [**"Recording of jazz compositions by Prince’s father released"**](https://apnews.com/266d5d7ee9454715a6f8c4cfddb7bf77)
+    - in [Associated Press News](../../../publications/a-e/associated-press-news/index.md)
     - on 2 March 2018
-    - about [Don't Play With Love (album)](../../../topics/album/don-t-play-with-love/index.md), [Don't Play With Love (song)](../../../topics/song/don-t-play-with-love/index.md), [Jeremy Pelt](../../../topics/jeremy-pelt/index.md), [John L. Nelson](../../../topics/john-l-nelson/index.md), [John L. Nelson Project](../../../topics/john-l-nelson-project/index.md), [John Nelson](../../../topics/john-nelson/index.md), [Louis Hayes](../../../topics/louis-hayes/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Sharon L. Nelson](../../../topics/sharon-l-nelson/index.md), [Sharon Nelson](../../../topics/sharon-nelson/index.md), [Vincent Herring](../../../topics/vincent-herring/index.md)
-    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/recording-of-jazz-compositions-by-prince-s-father-released/475668083/))
+    - about [Don’t Play With Love (album)](../../../topics/album/don-t-play-with-love/index.md), [Don’t Play With Love (song)](../../../topics/song/don-t-play-with-love/index.md), [Jeremy Pelt](../../../topics/jeremy-pelt/index.md), [John L. Nelson](../../../topics/john-l-nelson/index.md), [John L. Nelson Project](../../../topics/john-l-nelson-project/index.md), [John Nelson](../../../topics/john-nelson/index.md), [Louis Hayes](../../../topics/louis-hayes/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Paisley Park Studios (place)](../../../topics/place/paisley-park-studios/index.md), [Sharon Nelson](../../../topics/sharon-nelson/index.md), [Vincent Herring](../../../topics/vincent-herring/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://apnews.com/266d5d7ee9454715a6f8c4cfddb7bf77))
 
 ----
 
@@ -29,12 +34,12 @@
 
 ### 2017 June (1)
 
- - [**"Song by Prince's father John L Nelson released to mark 101st birthday -- John Nelson, AKA Prince Rogers, was a jazz pianist who co-wrote some of the late artist's songs, including Computer Blue."**](https://news.sky.com/story/song-by-princes-father-john-l-nelson-released-to-mark-101st-birthday-10930753)
-    - by [Duarte Garrido](../../../authors/duarte-garrido/index.md)
-    - in [news.sky.com](../../../publications/k-o/news-sky-com/index.md)
+ - [**"Song from Prince’s father being released on his 101st b’day"**](https://apnews.com/229ffc268c5e4b1ca1eef644539b5247)
+    - by [Mesfin Fekadu (Associated Press)](../../../authors/associated-press/mesfin-fekadu/index.md)
+    - in [Associated Press News](../../../publications/a-e/associated-press-news/index.md)
     - on 29 June 2017
-    - about [Computer Blue (song)](../../../topics/song/computer-blue/index.md), [Don't Play With Love (album)](../../../topics/album/don-t-play-with-love/index.md), [Don't Play With Love (song)](../../../topics/song/don-t-play-with-love/index.md), [Heart Of Mine (song)](../../../topics/song/heart-of-mine/index.md), [John Nelson](../../../topics/john-nelson/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Sharon Nelson](../../../topics/sharon-nelson/index.md)
-    - ([mirror](https://web.archive.org/web/*/https://news.sky.com/story/song-by-princes-father-john-l-nelson-released-to-mark-101st-birthday-10930753))
+    - about [Alfred Jackson](../../../topics/alfred-jackson/index.md), [Computer Blue (song)](../../../topics/song/computer-blue/index.md), [Don’t Play With Love (album)](../../../topics/album/don-t-play-with-love/index.md), [Don’t Play With Love (song)](../../../topics/song/don-t-play-with-love/index.md), [Heart Of Mine (song)](../../../topics/song/heart-of-mine/index.md), [John L. Nelson](../../../topics/john-l-nelson/index.md), [John L. Nelson Project](../../../topics/john-l-nelson-project/index.md), [John Nelson](../../../topics/john-nelson/index.md), [John R. Nelson](../../../topics/john-r-nelson/index.md), [Maken It Music](../../../topics/maken-it-music/index.md), [Norrine Nelson](../../../topics/norrine-nelson/index.md), [Omarr Baker](../../../topics/omarr-baker/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Sharon Nelson](../../../topics/sharon-nelson/index.md), [Tyka Nelson](../../../topics/tyka-nelson/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://apnews.com/229ffc268c5e4b1ca1eef644539b5247))
 
 ----
 

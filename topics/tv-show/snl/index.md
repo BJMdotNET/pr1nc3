@@ -1,5 +1,52 @@
 # SNL (TV show)
 
+## 2023 (1)
+
+### 2023 July (1)
+
+ - [**"The Fury of Sinéad O'Connor -- It is no measure of health to be well adjusted to a profoundly sick society"**](https://www.welcometohellworld.com/the-fury-of-sinead-oconnor-2/)
+    - by [Leila Brillson](../../../authors/leila-brillson/index.md)
+    - in [Welcome to Hell World](../../../publications/u-z/welcome-to-hell-world/index.md)
+    - on 27 July 2023
+    - about [memoir](../../../topics/memoir/index.md), [Nothing Compares 2U (song)](../../../topics/song/nothing-compares-2u/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md), [Sinéad O'Connor](../../../topics/sin-ad-o-connor/index.md), [SNL (TV show)](../../../topics/tv-show/snl/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.welcometohellworld.com/the-fury-of-sinead-oconnor-2/))
+
+----
+
+## 2022 (2)
+
+### 2022 September (1)
+
+ - [**"WATCH: Trailer arrives for Sinéad O'Connor documentary NOTHING COMPARES -- NOTHING COMPARES will land in Irish cinemas on October 7th, via Paramount."**](https://www.hotpress.com/film-tv/watch-trailer-arrives-for-sinead-oconnor-documentary-nothing-compares-22928987)
+    - in [Hot Press](../../../publications/f-j/hot-press/index.md)
+    - on 15 September 2022
+    - about [memoir](../../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md), [Sinéad O'Connor](../../../topics/sin-ad-o-connor/index.md), [SNL (TV show)](../../../topics/tv-show/snl/index.md), [The Prince Estate](../../../topics/the-prince-estate/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.hotpress.com/film-tv/watch-trailer-arrives-for-sinead-oconnor-documentary-nothing-compares-22928987))
+
+----
+
+### 2022 January (1)
+
+ - [**"Prince’s estate blocks Sinéad O’Connor’s version of ‘Nothing Compares 2 U’ being used in Nothing Compares documentary -- The documentary about the iconic Irish singer recently premiered at the Sundance Film without her biggest hit."**](https://www.hotpress.com/music/princes-estate-blocks-sinead-oconnors-version-of-nothing-compares-2-u-being-used-in-nothing-compares-documentary-22888594)
+    - in [Hot Press](../../../publications/f-j/hot-press/index.md)
+    - on 25 January 2022
+    - about [memoir](../../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md), [SNL (TV show)](../../../topics/tv-show/snl/index.md), [The Prince Estate](../../../topics/the-prince-estate/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.hotpress.com/music/princes-estate-blocks-sinead-oconnors-version-of-nothing-compares-2-u-being-used-in-nothing-compares-documentary-22888594))
+
+----
+
+## 2021 (1)
+
+### 2021 June (1)
+
+ - [**"Book Review: Sinéad O'Connor, Rememberings -- "Always a punk, never a pop star; Sinéad's principles will always trump fame, fortune and recognition...""**](https://www.hotpress.com/opinion/book-review-sinead-oconnor-rememberings-22857586)
+    - in [Hot Press](../../../publications/f-j/hot-press/index.md)
+    - on 17 June 2021
+    - about [memoir](../../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Shuhada Sadaqat](../../../topics/shuhada-sadaqat/index.md), [Sinéad O'Connor](../../../topics/sin-ad-o-connor/index.md), [SNL (TV show)](../../../topics/tv-show/snl/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.hotpress.com/opinion/book-review-sinead-oconnor-rememberings-22857586))
+
+----
+
 ## 2020 (2)
 
 ### 2020 January (2)

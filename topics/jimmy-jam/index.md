@@ -462,7 +462,7 @@
  - [**"Rock and Roll Book Club: Morris Day is 'On Time'"**](https://www.thecurrent.org/feature/2019/10/08/morris-day-on-time)
     - in [The Current](../../publications/a-e/the-current/index.md)
     - on 9 October 2019
-    - about [André Cymone](../../topics/andr-cymone/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Kiowa Trail](../../topics/kiowa-trail/index.md), [Mall of America (place)](../../topics/place/mall-of-america/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - about [André Cymone](../../topics/andr-cymone/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Kiowa Trail](../../topics/kiowa-trail/index.md), [Mall of America (place)](../../topics/place/mall-of-america/index.md), [memoir](../../topics/memoir/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/10/08/morris-day-on-time))
 
 <br />
@@ -554,7 +554,7 @@
     - by [Tim Campbell](../../authors/tim-campbell/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 7 May 2019
-    - about [Capri Theater (place)](../../topics/place/capri-theater/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Mayte](../../topics/mayte/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - about [Capri Theater (place)](../../topics/place/capri-theater/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Mayte](../../topics/mayte/index.md), [memoir](../../topics/memoir/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/80s-scenesters-offer-snapshots-of-the-minneapolis-sound-in-new-photo-book/509385652/))
 
 ----

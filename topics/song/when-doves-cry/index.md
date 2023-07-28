@@ -87,7 +87,17 @@
 
 ----
 
-## 2020 (14)
+## 2020 (15)
+
+### 2020 May (1)
+
+ - [**"TRIP THROUGH HIS WIRES: Bono pens open letters to Prince and Sinead O'Connor -- He says Sinead O'Connor 'stole his heart', and calls Prince 'the most cinematic of musical geniuses'."**](https://www.hotpress.com/music/trip-wires-bono-pens-open-letters-prince-sinead-oconnor-22815725)
+    - in [Hot Press](../../../publications/f-j/hot-press/index.md)
+    - on 19 May 2020
+    - about [Sinead O'Connor](../../../topics/sinead-o-connor/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.hotpress.com/music/trip-wires-bono-pens-open-letters-prince-sinead-oconnor-22815725))
+
+----
 
 ### 2020 February (1)
 
@@ -503,7 +513,7 @@
     - by [Kory Grow](../../../authors/kory-grow/index.md)
     - in [Rolling Stone](../../../publications/p-t/rolling-stone/index.md)
     - on 24 June 2019
-    - about [Apollonia 6](../../../topics/apollonia-6/index.md), [Apollonia Kotero](../../../topics/apollonia-kotero/index.md), [Bangles](../../../topics/bangles/index.md), [contract](../../../topics/contract/index.md), [fentanyl overdose](../../../topics/fentanyl-overdose/index.md), [George Clinton](../../../topics/george-clinton/index.md), [Jill Jones](../../../topics/jill-jones/index.md), [Jungle Love (song)](../../../topics/song/jungle-love/index.md), [Kenny Rogers](../../../topics/kenny-rogers/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Martika](../../../topics/martika/index.md), [Mazarati](../../../topics/mazarati/index.md), [Nasty Girl (song)](../../../topics/song/nasty-girl/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Paula Abdul](../../../topics/paula-abdul/index.md), [Peggy McCreary](../../../topics/peggy-mccreary/index.md), [perfume](../../../topics/perfume/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [Sandy Scipioni](../../../topics/sandy-scipioni/index.md), [Sex Shooter (song)](../../../topics/song/sex-shooter/index.md), [Sheena Easton](../../../topics/sheena-easton/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md), [Sugar Walls (song)](../../../topics/song/sugar-walls/index.md), [Sunset Sound (place)](../../../topics/place/sunset-sound/index.md), [Susan Rogers](../../../topics/susan-rogers/index.md), [Susanna Hoffs](../../../topics/susanna-hoffs/index.md), [Susannah Melvoin](../../../topics/susannah-melvoin/index.md), [Tevin Campbell](../../../topics/tevin-campbell/index.md), [The Family](../../../topics/the-family/index.md), [The Prince Estate](../../../topics/the-prince-estate/index.md), [The Time](../../../topics/the-time/index.md), [Troy Carter](../../../topics/troy-carter/index.md), [Vanity 6](../../../topics/vanity-6/index.md), [vault](../../../topics/vault/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
+    - about [Apollonia 6](../../../topics/apollonia-6/index.md), [Apollonia Kotero](../../../topics/apollonia-kotero/index.md), [Bangles](../../../topics/bangles/index.md), [contract](../../../topics/contract/index.md), [fentanyl overdose](../../../topics/fentanyl-overdose/index.md), [George Clinton](../../../topics/george-clinton/index.md), [Jill Jones](../../../topics/jill-jones/index.md), [Jungle Love (song)](../../../topics/song/jungle-love/index.md), [Kenny Rogers](../../../topics/kenny-rogers/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Martika](../../../topics/martika/index.md), [Mazarati](../../../topics/mazarati/index.md), [memoir](../../../topics/memoir/index.md), [Nasty Girl (song)](../../../topics/song/nasty-girl/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Paula Abdul](../../../topics/paula-abdul/index.md), [Peggy McCreary](../../../topics/peggy-mccreary/index.md), [perfume](../../../topics/perfume/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [Sandy Scipioni](../../../topics/sandy-scipioni/index.md), [Sex Shooter (song)](../../../topics/song/sex-shooter/index.md), [Sheena Easton](../../../topics/sheena-easton/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md), [Sugar Walls (song)](../../../topics/song/sugar-walls/index.md), [Sunset Sound (place)](../../../topics/place/sunset-sound/index.md), [Susan Rogers](../../../topics/susan-rogers/index.md), [Susanna Hoffs](../../../topics/susanna-hoffs/index.md), [Susannah Melvoin](../../../topics/susannah-melvoin/index.md), [Tevin Campbell](../../../topics/tevin-campbell/index.md), [The Family](../../../topics/the-family/index.md), [The Prince Estate](../../../topics/the-prince-estate/index.md), [The Time](../../../topics/the-time/index.md), [Troy Carter](../../../topics/troy-carter/index.md), [Vanity 6](../../../topics/vanity-6/index.md), [vault](../../../topics/vault/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/prince-originals-interview-842940/))
 
 <br />
@@ -723,7 +733,7 @@
 ### 2016 May (1)
 
  - [**"My Surreal Time Planning Prince’s Iconic Super Bowl Performance -- As Head of Programming for the NFL, it was my job to plan Prince’s rain-soaked Super Bowl halftime show on February 4, 2007. And what a time it was."**](https://www.thedailybeast.com/my-surreal-time-planning-princes-iconic-super-bowl-performance)
-    - in [thedailybeast.com](../../../publications/p-t/thedailybeast-com/index.md)
+    - in [The Daily Beast](../../../publications/a-e/the-daily-beast/index.md)
     - on 14 May 2016
     - about [1999 (song)](../../../topics/song/1999/index.md), [Foo Fighters](../../../topics/foo-fighters/index.md), [James Brown](../../../topics/james-brown/index.md), [Lenny Kravitz](../../../topics/lenny-kravitz/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Raspberry Beret (song)](../../../topics/song/raspberry-beret/index.md), [Super Bowl](../../../topics/super-bowl/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.thedailybeast.com/my-surreal-time-planning-princes-iconic-super-bowl-performance))
@@ -851,7 +861,7 @@
  - [**"Prince, musical and social trailblazer, dies at 57"**](https://www.sfchronicle.com/music/article/Prince-musical-and-social-trailblazer-dies-at-57-7287717.php)
     - in [San Francisco Chronicle](../../../publications/p-t/san-francisco-chronicle/index.md)
     - on 21 April 2016
-    - about [Atlanta (place)](../../../topics/place/atlanta/index.md), [Bay Area (place)](../../../topics/place/bay-area/index.md), [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [John Lewis Nelson](../../../topics/john-lewis-nelson/index.md), [Piano and a Microphone (tour)](../../../topics/tour/piano-and-a-microphone/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md), [Yvette Noel-Schure](../../../topics/yvette-noel-schure/index.md)
+    - about [Atlanta (place)](../../../topics/place/atlanta/index.md), [Bay Area (place)](../../../topics/place/bay-area/index.md), [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [John Lewis Nelson](../../../topics/john-lewis-nelson/index.md), [memoir](../../../topics/memoir/index.md), [Piano and a Microphone (tour)](../../../topics/tour/piano-and-a-microphone/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md), [Yvette Noel-Schure](../../../topics/yvette-noel-schure/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.sfchronicle.com/music/article/Prince-musical-and-social-trailblazer-dies-at-57-7287717.php))
 
 <br />

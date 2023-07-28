@@ -43,7 +43,7 @@
  - [**"New Prince memoir reveals he hated Katy Perry and Ed Sheeran’s music -- The Purple One had a message for modern pop purveyors: "We don’t like it no matter how many times they play it""**](https://consequenceofsound.net/2019/10/prince-memoir-katy-perry-ed-sheerans-music/)
     - in [Consequence of Sound](../../publications/a-e/consequence-of-sound/index.md)
     - on 29 October 2019
-    - about [Allen Beaulieu](../../topics/allen-beaulieu/index.md), [Ed Sheeran](../../topics/ed-sheeran/index.md), [Katy Perry](../../topics/katy-perry/index.md)
+    - about [Allen Beaulieu](../../topics/allen-beaulieu/index.md), [Ed Sheeran](../../topics/ed-sheeran/index.md), [Katy Perry](../../topics/katy-perry/index.md), [memoir](../../topics/memoir/index.md)
     - ([mirror](https://web.archive.org/web/*/https://consequenceofsound.net/2019/10/prince-memoir-katy-perry-ed-sheerans-music/))
 
 ----

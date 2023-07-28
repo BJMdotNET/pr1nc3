@@ -1,13 +1,13 @@
 # Nothing Compares 2 U (song)
 
-## 2023 (24)
+## 2023 (28)
 
-### 2023 July (23)
+### 2023 July (24)
 
  - [**"‘Nothing Compares 2 U is perfect’: Sinéad O’Connor’s 10 greatest songs -- The late singer’s magnificent voice powered haunted hits about heartbreak, personal traumas, politics and sex, blending rock, folk and hip-hop beats"**](https://www.theguardian.com/music/2023/jul/27/sinead-o-connor-10-best-songs-nothing-compares-2-u)
     - in [The Guardian](../../../publications/f-j/the-guardian/index.md)
     - on 27 July 2023
-    - about [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md)
+    - about [memoir](../../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/music/2023/jul/27/sinead-o-connor-10-best-songs-nothing-compares-2-u))
 
 <br />
@@ -23,7 +23,7 @@
  - [**"How Sinéad O'Connor recorded Nothing Compares 2 U"**](https://www.bbc.com/news/entertainment-arts-66320163)
     - in [BBC News](../../../publications/a-e/bbc-news/index.md)
     - on 27 July 2023
-    - about [Duane Tudahl](../../../topics/duane-tudahl/index.md), [Jerome Benton](../../../topics/jerome-benton/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Nothing Compares 2U (song)](../../../topics/song/nothing-compares-2u/index.md), [Paul Peterson](../../../topics/paul-peterson/index.md), [Sandy Scipioni](../../../topics/sandy-scipioni/index.md), [Sinéad O'Connor](../../../topics/sin-ad-o-connor/index.md), [Susan Rogers](../../../topics/susan-rogers/index.md), [Susannah Melvoin](../../../topics/susannah-melvoin/index.md), [The Family](../../../topics/the-family/index.md)
+    - about [Duane Tudahl](../../../topics/duane-tudahl/index.md), [Jerome Benton](../../../topics/jerome-benton/index.md), [memoir](../../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Nothing Compares 2U (song)](../../../topics/song/nothing-compares-2u/index.md), [Paul Peterson](../../../topics/paul-peterson/index.md), [Sandy Scipioni](../../../topics/sandy-scipioni/index.md), [Sinéad O'Connor](../../../topics/sin-ad-o-connor/index.md), [Susan Rogers](../../../topics/susan-rogers/index.md), [Susannah Melvoin](../../../topics/susannah-melvoin/index.md), [The Family](../../../topics/the-family/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.bbc.com/news/entertainment-arts-66320163))
 
 <br />
@@ -47,13 +47,13 @@
  - [**"Sinéad O’Connor: the angelic skinhead for whom love, intelligence and madness were inseparable -- I interviewed Sinéad twice. She was supremely gifted, terrifyingly vulnerable and hilarious – even at her bleakest she’d make you laugh"**](https://www.theguardian.com/music/2023/jul/27/sinead-oconnor-mental-health-struggles-parental-abuse)
     - in [The Guardian](../../../publications/f-j/the-guardian/index.md)
     - on 27 July 2023
-    - about [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md)
+    - about [memoir](../../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/music/2023/jul/27/sinead-oconnor-mental-health-struggles-parental-abuse))
 
 <br />
 
  - [**"Sinead O'Connor : l'histoire de son tube "Nothing Compares 2 U", écrit par Prince"**](https://www.chartsinfrance.net/Sinead-O-connor/news-125605.html)
-    - in [www.chartsinfrance.net](../../../publications/u-z/www-chartsinfrance-net/index.md)
+    - in [Pure Charts by Charts in France](../../../publications/p-t/pure-charts-by-charts-in-france/index.md)
     - on 27 July 2023
     - about [Billboard Music Awards (event)](../../../topics/event/billboard-music-awards/index.md), [Jungle Love (song)](../../../topics/song/jungle-love/index.md), [Nasty Girl (song)](../../../topics/song/nasty-girl/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Sinead O'Connor](../../../topics/sinead-o-connor/index.md), [Steve Fargnoli](../../../topics/steve-fargnoli/index.md), [Susannah Melvoin](../../../topics/susannah-melvoin/index.md), [Vanity](../../../topics/vanity/index.md), [Vanity 6](../../../topics/vanity-6/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.chartsinfrance.net/Sinead-O-connor/news-125605.html))
@@ -61,25 +61,33 @@
 <br />
 
  - [**"Sinead O'Connor revealed her iconic Nothing Compares 2 U tears were for her 'abusive and torturous' late mother who she 'never stopped crying over' ahead of the star's tragic aged 56"**](https://www.dailymail.co.uk/tvshowbiz/article-12343355/Sinead-OConnor-revealed-iconic-Compares-2-U-tears-abusive-torturous-mum-never-stopped-crying-over.html)
-    - in [www.dailymail.co.uk](../../../publications/u-z/www-dailymail-co-uk/index.md)
+    - in [Daily Mail](../../../publications/a-e/daily-mail/index.md)
     - on 27 July 2023
     - about [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Sinead O'Connor](../../../topics/sinead-o-connor/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.dailymail.co.uk/tvshowbiz/article-12343355/Sinead-OConnor-revealed-iconic-Compares-2-U-tears-abusive-torturous-mum-never-stopped-crying-over.html))
 
 <br />
 
+ - [**"Sinéad O'Connor: Revisiting her final Hot Press interview – "Anger is the first step towards courage" -- Following the tragic news of the death of Sinéad O'Connor, aged 56, we're looking back at her last interview with Hot Press – originally published in 2020, around the release of her single 'Trouble of the World'"**](https://www.hotpress.com/music/sinead-oconnor-revisiting-her-final-hot-press-interview-anger-is-the-first-step-towards-courage-22981817)
+    - in [Hot Press](../../../publications/f-j/hot-press/index.md)
+    - on 27 July 2023
+    - about [memoir](../../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Shuhada Sadaqat](../../../topics/shuhada-sadaqat/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md), [Sinéad O'Connor](../../../topics/sin-ad-o-connor/index.md), [The Family](../../../topics/the-family/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.hotpress.com/music/sinead-oconnor-revisiting-her-final-hot-press-interview-anger-is-the-first-step-towards-courage-22981817))
+
+<br />
+
  - [**"What Prince Thought of Sinéad O'Connor's 'Nothing Compares 2 U' Cover"**](https://www.aol.com/entertainment/prince-thought-sinead-oconnors-nothing-194128980.html)
     - in [Aol. - Entertainment](../../../publications/a-e/aol-entertainment/index.md)
     - on 27 July 2023
-    - about [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Rosie Gaines](../../../topics/rosie-gaines/index.md), [Sharon Nelson](../../../topics/sharon-nelson/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md), [Sinéad O'Connor](../../../topics/sin-ad-o-connor/index.md)
+    - about [memoir](../../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Rosie Gaines](../../../topics/rosie-gaines/index.md), [Sharon Nelson](../../../topics/sharon-nelson/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md), [Sinéad O'Connor](../../../topics/sin-ad-o-connor/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.aol.com/entertainment/prince-thought-sinead-oconnors-nothing-194128980.html))
 
 <br />
 
  - [**"‘Nothing Compares 2 U’: How Sinéad O’Connor turned Prince’s song into a classic -- Dublin-born singer shot to fame with her cover of a previously forgotten Prince song"**](https://www.independent.co.uk/arts-entertainment/music/news/sinead-oconnor-nothing-compares-2-u-b2382514.html)
-    - in [independent.co.uk](../../../publications/f-j/independent-co-uk/index.md)
+    - in [Independent](../../../publications/f-j/independent/index.md)
     - on 26 July 2023
-    - about [Billboard Music Awards (event)](../../../topics/event/billboard-music-awards/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Rosie Gaines](../../../topics/rosie-gaines/index.md), [Sharon Nelson](../../../topics/sharon-nelson/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md)
+    - about [Billboard Music Awards (event)](../../../topics/event/billboard-music-awards/index.md), [memoir](../../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Rosie Gaines](../../../topics/rosie-gaines/index.md), [Sharon Nelson](../../../topics/sharon-nelson/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.independent.co.uk/arts-entertainment/music/news/sinead-oconnor-nothing-compares-2-u-b2382514.html))
 
 <br />
@@ -103,7 +111,7 @@
  - [**"Sinéad O’Connor, Evocative and Outspoken Singer, Is Dead at 56 -- She broke out with the single “Nothing Compares 2 U,” then caused an uproar a few years later by ripping up a photo of Pope John Paul II on “S.N.L.”"**](https://www.nytimes.com/2023/07/26/arts/music/sinead-oconnor-dead.html)
     - in [New York Times](../../../publications/k-o/new-york-times/index.md)
     - on 26 July 2023
-    - about [Bob Dylan](../../../topics/bob-dylan/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md), [The Family](../../../topics/the-family/index.md)
+    - about [Bob Dylan](../../../topics/bob-dylan/index.md), [memoir](../../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md), [The Family](../../../topics/the-family/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.nytimes.com/2023/07/26/arts/music/sinead-oconnor-dead.html))
 
 <br />
@@ -119,7 +127,7 @@
  - [**"Sinéad O’Connor, Irish singer of ‘Nothing Compares 2 U’ and more, dead at 56, Irish media says"**](https://edition.cnn.com/2023/07/26/entertainment/sinead-oconnor-death/index.html)
     - in [CNN International](../../../publications/a-e/cnn-international/index.md)
     - on 26 July 2023
-    - about [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md)
+    - about [memoir](../../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md)
     - ([mirror](https://web.archive.org/web/*/https://edition.cnn.com/2023/07/26/entertainment/sinead-oconnor-death/index.html))
 
 <br />
@@ -127,7 +135,7 @@
  - [**"Sinéad O’Connor, Irish singer who rose to fame with 'Nothing Compares 2 U,' dies at 56 -- O’Connor was also known for courting controversy, including boycotting the Grammys and ripping up a photo of the pope on NBC's "Saturday Night Live.""**](https://www.nbcnews.com/pop-culture/pop-culture-news/sinead-oconnor-death-singer-rcna96482)
     - in [NBC News](../../../publications/k-o/nbc-news/index.md)
     - on 26 July 2023
-    - about [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md)
+    - about [memoir](../../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.nbcnews.com/pop-culture/pop-culture-news/sinead-oconnor-death-singer-rcna96482))
 
 <br />
@@ -143,7 +151,7 @@
  - [**"Sinéad O'Connor obituary: A talent beyond compare"**](https://www.bbc.com/news/entertainment-arts-35031186)
     - in [BBC News](../../../publications/a-e/bbc-news/index.md)
     - on 26 July 2023
-    - about [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Sinéad O'Connor](../../../topics/sin-ad-o-connor/index.md)
+    - about [memoir](../../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Sinéad O'Connor](../../../topics/sin-ad-o-connor/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.bbc.com/news/entertainment-arts-35031186))
 
 <br />
@@ -151,13 +159,13 @@
  - [**"Sinéad O'Connor: Irish singer dies aged 56"**](https://www.bbc.com/news/entertainment-arts-66318626)
     - in [BBC News](../../../publications/a-e/bbc-news/index.md)
     - on 26 July 2023
-    - about [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Sinéad O'Connor](../../../topics/sin-ad-o-connor/index.md)
+    - about [memoir](../../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Sinéad O'Connor](../../../topics/sin-ad-o-connor/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.bbc.com/news/entertainment-arts-66318626))
 
 <br />
 
  - [**"The Real Meaning Behind Sinéad O'Connor's Hit Nothing Compares 2 U"**](https://www.thelist.com/1349960/real-meaning-behind-sinead-oconnor-hit-nothing-compares-2-u/)
-    - in [www.thelist.com](../../../publications/u-z/www-thelist-com/index.md)
+    - in [The List](../../../publications/k-o/the-list/index.md)
     - on 26 July 2023
     - about [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Paul Peterson](../../../topics/paul-peterson/index.md), [Sandy Scipioni](../../../topics/sandy-scipioni/index.md), [Sinéad O'Connor](../../../topics/sin-ad-o-connor/index.md), [St. Paul Peterson](../../../topics/st-paul-peterson/index.md), [Susan Rogers](../../../topics/susan-rogers/index.md), [Susannah Melvoin](../../../topics/susannah-melvoin/index.md), [The Family](../../../topics/the-family/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.thelist.com/1349960/real-meaning-behind-sinead-oconnor-hit-nothing-compares-2-u/))
@@ -167,7 +175,7 @@
  - [**"Watch Sinéad O’Connor Perform a Breathtaking ‘Nothing Compares 2 U’ on Her Final Tour -- She pledged to stop performing the song in 2015, but brought it back for her final tour just a few years later"**](https://www.rollingstone.com/music/music-features/sinead-oconnor-dead-nothing-compares-2-u-final-tour-1234795622/)
     - in [Rolling Stone](../../../publications/p-t/rolling-stone/index.md)
     - on 26 July 2023
-    - about [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md)
+    - about [memoir](../../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/sinead-oconnor-dead-nothing-compares-2-u-final-tour-1234795622/))
 
 <br />
@@ -175,7 +183,7 @@
  - [**"What Prince Really Thought of Sinead O’Connor’s ‘Nothing Compares 2 U’ Cover"**](https://www.usmagazine.com/entertainment/news/what-prince-thought-of-sinead-oconnors-nothing-compares-2-u/)
     - in [US Weekly](../../../publications/u-z/us-weekly/index.md)
     - on 26 July 2023
-    - about [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Rosie Gaines](../../../topics/rosie-gaines/index.md), [Sharon Nelson](../../../topics/sharon-nelson/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md)
+    - about [memoir](../../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Rosie Gaines](../../../topics/rosie-gaines/index.md), [Sharon Nelson](../../../topics/sharon-nelson/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.usmagazine.com/entertainment/news/what-prince-thought-of-sinead-oconnors-nothing-compares-2-u/))
 
 <br />
@@ -183,7 +191,7 @@
  - [**"What Prince Really Thought of Sinéad O’Connor’s ‘Nothing Compares 2 U’ Cover"**](https://www.usmagazine.com/entertainment/news/what-prince-thought-of-sinead-oconnors-nothing-compares-2-u/)
     - in [US Weekly](../../../publications/u-z/us-weekly/index.md)
     - on 26 July 2023
-    - about [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Rosie Gaines](../../../topics/rosie-gaines/index.md), [Sharon Nelson](../../../topics/sharon-nelson/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md)
+    - about [memoir](../../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Rosie Gaines](../../../topics/rosie-gaines/index.md), [Sharon Nelson](../../../topics/sharon-nelson/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.usmagazine.com/entertainment/news/what-prince-thought-of-sinead-oconnors-nothing-compares-2-u/))
 
 ----
@@ -199,15 +207,53 @@
 
 ----
 
-## 2022 (2)
+### 2023 April (1)
 
-### 2022 September (1)
+ - [**"On this day in 1990: Sinéad O'Connor kicked off her four-week run at No.1 in the US with 'Nothing Compares 2 U' -- 33 years ago, Sinéad O'Connor started a four week run at No.1 on the US Singles Chart, with her cover of Prince's 'Nothing Compares 2 U'. To celebrate, we're revisiting Bill Graham's original 1990 review of I Do Not Want What I Haven't Got..."**](https://www.hotpress.com/music/on-this-day-in-1990-sinead-oconnor-kicked-off-her-four-week-run-at-no-1-in-the-us-with-nothing-compares-2-u-22963912)
+    - in [Hot Press](../../../publications/f-j/hot-press/index.md)
+    - on 21 April 2023
+    - about [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Sinéad O'Connor](../../../topics/sin-ad-o-connor/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.hotpress.com/music/on-this-day-in-1990-sinead-oconnor-kicked-off-her-four-week-run-at-no-1-in-the-us-with-nothing-compares-2-u-22963912))
+
+----
+
+### 2023 March (1)
+
+ - [**"On this day in 1990: Sinéad O'Connor released I Do Not Want What I Haven't Got -- 33 years ago today, Sinéad O'Connor released her iconic second album, I Do Not Want What I Haven't Got – which was recently honoured with the first ever Classic Irish Album award at the Choice Music Prize. Featuring classic tracks like 'Nothing Compares 2 U' and 'Three Babies', the LP topped the charts in multiple countries, and has gone on to be considered one of the greatest albums of all time. To celebrate the album's anniversary, we're revisiting the late Bill Graham's original review – first published in Hot Press in 1990."**](https://www.hotpress.com/music/on-this-day-in-1990-sinead-oconnor-released-i-do-not-want-what-i-havent-got-22957843)
+    - in [Hot Press](../../../publications/f-j/hot-press/index.md)
+    - on 20 March 2023
+    - about [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Sinéad O'Connor](../../../topics/sin-ad-o-connor/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.hotpress.com/music/on-this-day-in-1990-sinead-oconnor-released-i-do-not-want-what-i-havent-got-22957843))
+
+----
+
+### 2023 February (1)
+
+ - [**"On this day in 1990: Sinead O'Connor kicked off her four-week run at No.1 in the UK with 'Nothing Compares 2 U' -- 33 years ago today, Sinead O'Connor kicked off her run of four consecutive weeks at No.1 on the UK chart, with her iconic version of Prince's 'Nothing Compares 2 U'. To celebrate, we're revisiting the late Bill Graham's original 1990 review of I Do Not Want What I Haven't Got..."**](https://www.hotpress.com/music/on-this-day-in-1990-sinead-oconnor-kicked-off-her-four-week-run-at-no-1-in-the-uk-with-nothing-compares-2-u-22950105)
+    - in [Hot Press](../../../publications/f-j/hot-press/index.md)
+    - on 3 February 2023
+    - about [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Sinead O'Connor](../../../topics/sinead-o-connor/index.md), [Sinéad O'Connor](../../../topics/sin-ad-o-connor/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.hotpress.com/music/on-this-day-in-1990-sinead-oconnor-kicked-off-her-four-week-run-at-no-1-in-the-uk-with-nothing-compares-2-u-22950105))
+
+----
+
+## 2022 (4)
+
+### 2022 September (2)
 
  - [**"Why Prince’s Estate Refused to Allow ‘Nothing Compares 2 U’ To Be Used in New Sinéad O’Connor Documentary -- "I didn't feel she deserved to use the song," says the icon's co-heir and half-sister Sharon Nelson."**](https://www.billboard.com/pro/prince-sinead-o-connor-documentary-nothing-compares-2-u/)
     - in [Billboard](../../../publications/a-e/billboard/index.md)
     - on 30 September 2022
-    - about [Alfred Jackson](../../../topics/alfred-jackson/index.md), [Charles Spicer](../../../topics/charles-spicer/index.md), [Comerica](../../../topics/comerica/index.md), [Comerica Bank & Trust](../../../topics/comerica-bank-trust/index.md), [John R. Nelson](../../../topics/john-r-nelson/index.md), [L. Londell McMillan](../../../topics/l-londell-mcmillan/index.md), [Norrine Nelson](../../../topics/norrine-nelson/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Omarr Baker](../../../topics/omarr-baker/index.md), [Primary Wave](../../../topics/primary-wave/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [Rosie Gaines](../../../topics/rosie-gaines/index.md), [Sharon Nelson](../../../topics/sharon-nelson/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md), [The Prince Estate](../../../topics/the-prince-estate/index.md), [Tyka Nelson](../../../topics/tyka-nelson/index.md), [Universal Music Publishing Group](../../../topics/universal-music-publishing-group/index.md)
+    - about [Alfred Jackson](../../../topics/alfred-jackson/index.md), [Charles Spicer](../../../topics/charles-spicer/index.md), [Comerica](../../../topics/comerica/index.md), [Comerica Bank & Trust](../../../topics/comerica-bank-trust/index.md), [John R. Nelson](../../../topics/john-r-nelson/index.md), [L. Londell McMillan](../../../topics/l-londell-mcmillan/index.md), [memoir](../../../topics/memoir/index.md), [Norrine Nelson](../../../topics/norrine-nelson/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Omarr Baker](../../../topics/omarr-baker/index.md), [Primary Wave](../../../topics/primary-wave/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [Rosie Gaines](../../../topics/rosie-gaines/index.md), [Sharon Nelson](../../../topics/sharon-nelson/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md), [The Prince Estate](../../../topics/the-prince-estate/index.md), [Tyka Nelson](../../../topics/tyka-nelson/index.md), [Universal Music Publishing Group](../../../topics/universal-music-publishing-group/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/pro/prince-sinead-o-connor-documentary-nothing-compares-2-u/))
+
+<br />
+
+ - [**"WATCH: Trailer arrives for Sinéad O'Connor documentary NOTHING COMPARES -- NOTHING COMPARES will land in Irish cinemas on October 7th, via Paramount."**](https://www.hotpress.com/film-tv/watch-trailer-arrives-for-sinead-oconnor-documentary-nothing-compares-22928987)
+    - in [Hot Press](../../../publications/f-j/hot-press/index.md)
+    - on 15 September 2022
+    - about [memoir](../../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md), [Sinéad O'Connor](../../../topics/sin-ad-o-connor/index.md), [SNL (TV show)](../../../topics/tv-show/snl/index.md), [The Prince Estate](../../../topics/the-prince-estate/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.hotpress.com/film-tv/watch-trailer-arrives-for-sinead-oconnor-documentary-nothing-compares-22928987))
 
 ----
 
@@ -222,7 +268,17 @@
 
 ----
 
-## 2021 (6)
+### 2022 January (1)
+
+ - [**"Prince’s estate blocks Sinéad O’Connor’s version of ‘Nothing Compares 2 U’ being used in Nothing Compares documentary -- The documentary about the iconic Irish singer recently premiered at the Sundance Film without her biggest hit."**](https://www.hotpress.com/music/princes-estate-blocks-sinead-oconnors-version-of-nothing-compares-2-u-being-used-in-nothing-compares-documentary-22888594)
+    - in [Hot Press](../../../publications/f-j/hot-press/index.md)
+    - on 25 January 2022
+    - about [memoir](../../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md), [SNL (TV show)](../../../topics/tv-show/snl/index.md), [The Prince Estate](../../../topics/the-prince-estate/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.hotpress.com/music/princes-estate-blocks-sinead-oconnors-version-of-nothing-compares-2-u-being-used-in-nothing-compares-documentary-22888594))
+
+----
+
+## 2021 (8)
 
 ### 2021 September (1)
 
@@ -235,7 +291,15 @@
 
 ----
 
-### 2021 June (2)
+### 2021 June (3)
+
+ - [**"Book Review: Sinéad O'Connor, Rememberings -- "Always a punk, never a pop star; Sinéad's principles will always trump fame, fortune and recognition...""**](https://www.hotpress.com/opinion/book-review-sinead-oconnor-rememberings-22857586)
+    - in [Hot Press](../../../publications/f-j/hot-press/index.md)
+    - on 17 June 2021
+    - about [memoir](../../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Shuhada Sadaqat](../../../topics/shuhada-sadaqat/index.md), [Sinéad O'Connor](../../../topics/sin-ad-o-connor/index.md), [SNL (TV show)](../../../topics/tv-show/snl/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.hotpress.com/opinion/book-review-sinead-oconnor-rememberings-22857586))
+
+<br />
 
  - [**"‘Studio Sessions 1985-1986’ Is a Deep, Deep Dive on Prince’s Peak Years: Book Review"**](https://variety.com/2021/music/reviews/prince-parade-sign-times-studio-sessions-1985-1986-book-review-1234989823/)
     - by [Jem Aswad](../../../authors/jem-aswad/index.md)
@@ -249,7 +313,7 @@
  - [**"‘60 Songs That Explain the ’90s’: How Sinéad O’Connor Turned a Prince Song Into Her Classic -- The Purple One wrote ‘Nothing Compares 2 U,’ but O’Connor managed to inhabit the song and make it fully her own"**](https://www.theringer.com/2021/6/2/22464082/sinead-oconnor-nothing-compares-2-u-prince)
     - in [The Ringer](../../../publications/p-t/the-ringer/index.md)
     - on 2 June 2021
-    - about [Bangles](../../../topics/bangles/index.md), [Chaka Khan](../../../topics/chaka-khan/index.md), [Cyndi Lauper](../../../topics/cyndi-lauper/index.md), [I Feel For You (song)](../../../topics/song/i-feel-for-you/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md), [The Glamorous Life (song)](../../../topics/song/the-glamorous-life/index.md)
+    - about [Bangles](../../../topics/bangles/index.md), [Chaka Khan](../../../topics/chaka-khan/index.md), [Cyndi Lauper](../../../topics/cyndi-lauper/index.md), [I Feel For You (song)](../../../topics/song/i-feel-for-you/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [memoir](../../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md), [The Glamorous Life (song)](../../../topics/song/the-glamorous-life/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.theringer.com/2021/6/2/22464082/sinead-oconnor-nothing-compares-2-u-prince))
 
 ----
@@ -259,7 +323,7 @@
  - [**"Sinéad O’Connor: ‘I’ll always be a bit crazy, but that’s OK’ -- After a life marked by abuse, fame, scandal and struggle, the Irish singer-songwriter says she never lost faith"**](https://www.theguardian.com/music/2021/may/29/sinead-oconnor-ill-always-be-a-bit-crazy-but-thats-ok-rememberings)
     - in [The Guardian](../../../publications/f-j/the-guardian/index.md)
     - on 29 May 2021
-    - about [Bob Dylan](../../../topics/bob-dylan/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md), [The Family](../../../topics/the-family/index.md)
+    - about [Bob Dylan](../../../topics/bob-dylan/index.md), [memoir](../../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md), [The Family](../../../topics/the-family/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/music/2021/may/29/sinead-oconnor-ill-always-be-a-bit-crazy-but-thats-ok-rememberings))
 
 <br />
@@ -267,8 +331,18 @@
  - [**"Sinéad O’Connor Remembers Things Differently -- The mainstream narrative is that a pop star ripped up a photo of the pope on “Saturday Night Live” and derailed her life. What if the opposite were true?"**](https://www.nytimes.com/2021/05/18/arts/music/sinead-oconnor-rememberings.html)
     - in [New York Times](../../../publications/k-o/new-york-times/index.md)
     - on 18 May 2021
-    - about [Bob Dylan](../../../topics/bob-dylan/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md)
+    - about [Bob Dylan](../../../topics/bob-dylan/index.md), [memoir](../../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../../topics/tv-show/saturday-night-live/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.nytimes.com/2021/05/18/arts/music/sinead-oconnor-rememberings.html))
+
+----
+
+### 2021 April (1)
+
+ - [**"On this day in 1990: Sinéad O'Connor kicked off a four-week run at No.1 in the US with 'Nothing Compares 2 U' -- 31 years ago today, Sinéad O'Connor started a four week run at No.1 on the US Singles Chart, with her cover of Prince's 'Nothing Compares 2 U'. To celebrate, we're revisiting Bill Graham's original 1990 review of I Do Not Want What I Haven't Got..."**](https://www.hotpress.com/music/on-this-day-in-1990-sinead-oconnor-kicked-off-a-four-week-run-at-no-1-in-the-us-with-nothing-compares-2-u-22849457)
+    - in [Hot Press](../../../publications/f-j/hot-press/index.md)
+    - on 21 April 2021
+    - about [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Sinéad O'Connor](../../../topics/sin-ad-o-connor/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.hotpress.com/music/on-this-day-in-1990-sinead-oconnor-kicked-off-a-four-week-run-at-no-1-in-the-us-with-nothing-compares-2-u-22849457))
 
 ----
 
@@ -374,7 +448,7 @@
 ### 2019 November (2)
 
  - [**"The afterlife of Prince, in words and music"**](https://www.inquirer.com/entertainment/prince-1999-beautiful-ones-music-book-tom-petty-david-bowie-20191115.html)
-    - in [inquirer.com](../../../publications/f-j/inquirer-com/index.md)
+    - in [The Philadelphia Inquirer](../../../publications/p-t/the-philadelphia-inquirer/index.md)
     - on 15 November 2019
     - about [bootleg](../../../topics/bootleg/index.md), [Chaka Khan](../../../topics/chaka-khan/index.md), [Dan Piepenbring](../../../topics/dan-piepenbring/index.md), [I Feel For You (song)](../../../topics/song/i-feel-for-you/index.md), [memoir](../../../topics/memoir/index.md), [museum](../../../topics/museum/index.md), [New Power Generation](../../../topics/new-power-generation/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md), [Spiegel & Grau](../../../topics/spiegel-grau/index.md), [Spike Lee](../../../topics/spike-lee/index.md), [The Beautiful Ones (book)](../../../topics/book/the-beautiful-ones/index.md), [Vagina (song)](../../../topics/song/vagina/index.md), [Vanity](../../../topics/vanity/index.md), [Vanity 6](../../../topics/vanity-6/index.md), [vault](../../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.inquirer.com/entertainment/prince-1999-beautiful-ones-music-book-tom-petty-david-bowie-20191115.html))
@@ -382,7 +456,7 @@
 <br />
 
  - [**"The Beautiful Ones: Memoir offers a fragmentary snapshot of the life of Prince"**](https://www.independent.ie/entertainment/music/the-beautiful-ones-memoir-offers-a-fragmentary-snapshot-of-the-life-of-prince-38650373.html)
-    - in [independent.ie](../../../publications/f-j/independent-ie/index.md)
+    - in [Independent.ie](../../../publications/f-j/independent-ie/index.md)
     - on 2 November 2019
     - about [Dan Piepenbring](../../../topics/dan-piepenbring/index.md), [memoir](../../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Sinéad O'Connor](../../../topics/sin-ad-o-connor/index.md), [The Beautiful Ones (book)](../../../topics/book/the-beautiful-ones/index.md), [The Paris Review (magazine)](../../../topics/magazine/the-paris-review/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.independent.ie/entertainment/music/the-beautiful-ones-memoir-offers-a-fragmentary-snapshot-of-the-life-of-prince-38650373.html))
@@ -457,7 +531,7 @@
     - by [Serge Simonart](../../../authors/serge-simonart/index.md)
     - in [Humo](../../../publications/f-j/humo/index.md)
     - on 8 July 2019
-    - about [contract](../../../topics/contract/index.md), [Cynthia Rose](../../../topics/cynthia-rose/index.md), [Michael Howe](../../../topics/michael-howe/index.md), [Mo Ostin](../../../topics/mo-ostin/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md), [Starfish And Coffee (song)](../../../topics/song/starfish-and-coffee/index.md), [Susannah Melvoin](../../../topics/susannah-melvoin/index.md), [The Family](../../../topics/the-family/index.md)
+    - about [contract](../../../topics/contract/index.md), [Cynthia Rose](../../../topics/cynthia-rose/index.md), [memoir](../../../topics/memoir/index.md), [Michael Howe](../../../topics/michael-howe/index.md), [Mo Ostin](../../../topics/mo-ostin/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md), [Starfish And Coffee (song)](../../../topics/song/starfish-and-coffee/index.md), [Susannah Melvoin](../../../topics/susannah-melvoin/index.md), [The Family](../../../topics/the-family/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.humo.be/humo-archief/403403/prince-humo-sprak-met-zijn-manager-en-muze-wij-hadden-een-heerlijk-seksleven-maar-als-er-een-song-in-zn-hoofd-opdook-moest-ik-wijken))
 
 <br />
@@ -529,7 +603,7 @@
     - by [Kory Grow](../../../authors/kory-grow/index.md)
     - in [Rolling Stone](../../../publications/p-t/rolling-stone/index.md)
     - on 24 June 2019
-    - about [Apollonia 6](../../../topics/apollonia-6/index.md), [Apollonia Kotero](../../../topics/apollonia-kotero/index.md), [Bangles](../../../topics/bangles/index.md), [contract](../../../topics/contract/index.md), [fentanyl overdose](../../../topics/fentanyl-overdose/index.md), [George Clinton](../../../topics/george-clinton/index.md), [Jill Jones](../../../topics/jill-jones/index.md), [Jungle Love (song)](../../../topics/song/jungle-love/index.md), [Kenny Rogers](../../../topics/kenny-rogers/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Martika](../../../topics/martika/index.md), [Mazarati](../../../topics/mazarati/index.md), [Nasty Girl (song)](../../../topics/song/nasty-girl/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Paula Abdul](../../../topics/paula-abdul/index.md), [Peggy McCreary](../../../topics/peggy-mccreary/index.md), [perfume](../../../topics/perfume/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [Sandy Scipioni](../../../topics/sandy-scipioni/index.md), [Sex Shooter (song)](../../../topics/song/sex-shooter/index.md), [Sheena Easton](../../../topics/sheena-easton/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md), [Sugar Walls (song)](../../../topics/song/sugar-walls/index.md), [Sunset Sound (place)](../../../topics/place/sunset-sound/index.md), [Susan Rogers](../../../topics/susan-rogers/index.md), [Susanna Hoffs](../../../topics/susanna-hoffs/index.md), [Susannah Melvoin](../../../topics/susannah-melvoin/index.md), [Tevin Campbell](../../../topics/tevin-campbell/index.md), [The Family](../../../topics/the-family/index.md), [The Prince Estate](../../../topics/the-prince-estate/index.md), [The Time](../../../topics/the-time/index.md), [Troy Carter](../../../topics/troy-carter/index.md), [Vanity 6](../../../topics/vanity-6/index.md), [vault](../../../topics/vault/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
+    - about [Apollonia 6](../../../topics/apollonia-6/index.md), [Apollonia Kotero](../../../topics/apollonia-kotero/index.md), [Bangles](../../../topics/bangles/index.md), [contract](../../../topics/contract/index.md), [fentanyl overdose](../../../topics/fentanyl-overdose/index.md), [George Clinton](../../../topics/george-clinton/index.md), [Jill Jones](../../../topics/jill-jones/index.md), [Jungle Love (song)](../../../topics/song/jungle-love/index.md), [Kenny Rogers](../../../topics/kenny-rogers/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Martika](../../../topics/martika/index.md), [Mazarati](../../../topics/mazarati/index.md), [memoir](../../../topics/memoir/index.md), [Nasty Girl (song)](../../../topics/song/nasty-girl/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Paula Abdul](../../../topics/paula-abdul/index.md), [Peggy McCreary](../../../topics/peggy-mccreary/index.md), [perfume](../../../topics/perfume/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [Sandy Scipioni](../../../topics/sandy-scipioni/index.md), [Sex Shooter (song)](../../../topics/song/sex-shooter/index.md), [Sheena Easton](../../../topics/sheena-easton/index.md), [Sheila E.](../../../topics/sheila-e/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md), [Sugar Walls (song)](../../../topics/song/sugar-walls/index.md), [Sunset Sound (place)](../../../topics/place/sunset-sound/index.md), [Susan Rogers](../../../topics/susan-rogers/index.md), [Susanna Hoffs](../../../topics/susanna-hoffs/index.md), [Susannah Melvoin](../../../topics/susannah-melvoin/index.md), [Tevin Campbell](../../../topics/tevin-campbell/index.md), [The Family](../../../topics/the-family/index.md), [The Prince Estate](../../../topics/the-prince-estate/index.md), [The Time](../../../topics/the-time/index.md), [Troy Carter](../../../topics/troy-carter/index.md), [Vanity 6](../../../topics/vanity-6/index.md), [vault](../../../topics/vault/index.md), [When Doves Cry (song)](../../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/prince-originals-interview-842940/))
 
 <br />
@@ -577,7 +651,7 @@
 <br />
 
  - [**"Prince: Originals review – Dazzling tracks from the vault of a pop genius"**](https://www.irishtimes.com/culture/music/prince-originals-review-dazzling-tracks-from-the-vault-of-a-pop-genius-1.3928324)
-    - in [irishtimes.com](../../../publications/f-j/irishtimes-com/index.md)
+    - in [The Irish Times](../../../publications/f-j/the-irish-times/index.md)
     - on 21 June 2019
     - about [Bangles](../../../topics/bangles/index.md), [Kenny Rogers](../../../topics/kenny-rogers/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Originals (album review)](../../../topics/album-review/originals/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md), [vault](../../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.irishtimes.com/culture/music/prince-originals-review-dazzling-tracks-from-the-vault-of-a-pop-genius-1.3928324))
@@ -698,7 +772,7 @@
     - by [Chris Riemenschneider](../../../authors/chris-riemenschneider/index.md), [Jon Bream](../../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 25 April 2019
-    - about [Ani DiFranco](../../../topics/ani-difranco/index.md), [Apple Music](../../../topics/apple-music/index.md), [Ava DuVernay](../../../topics/ava-duvernay/index.md), [Bangles](../../../topics/bangles/index.md), [Dan Piepenbring](../../../topics/dan-piepenbring/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Kenny Rogers](../../../topics/kenny-rogers/index.md), [Larry Graham](../../../topics/larry-graham/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Martika](../../../topics/martika/index.md), [Morris Day](../../../topics/morris-day/index.md), [Morris Day & The Time](../../../topics/morris-day-the-time/index.md), [Netflix](../../../topics/netflix/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [Random House](../../../topics/random-house/index.md), [Rave In2 the Joy Fantastic (album)](../../../topics/album/rave-in2-the-joy-fantastic/index.md), [Rave Un2 the Joy Fantastic (album)](../../../topics/album/rave-un2-the-joy-fantastic/index.md), [Rave Un2 the Year 2000 (video)](../../../topics/video/rave-un2-the-year-2000/index.md), [Sex Shooter (song)](../../../topics/song/sex-shooter/index.md), [The Beautiful Ones (book)](../../../topics/book/the-beautiful-ones/index.md), [The Family](../../../topics/the-family/index.md), [The Glamorous Life (song)](../../../topics/song/the-glamorous-life/index.md), [The Prince Estate](../../../topics/the-prince-estate/index.md), [The Time](../../../topics/the-time/index.md), [Ultimate Rave (album)](../../../topics/album/ultimate-rave/index.md), [Vanity 6](../../../topics/vanity-6/index.md), [vault](../../../topics/vault/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md)
+    - about [Ani DiFranco](../../../topics/ani-difranco/index.md), [Apple Music](../../../topics/apple-music/index.md), [Ava DuVernay](../../../topics/ava-duvernay/index.md), [Bangles](../../../topics/bangles/index.md), [Dan Piepenbring](../../../topics/dan-piepenbring/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Kenny Rogers](../../../topics/kenny-rogers/index.md), [Larry Graham](../../../topics/larry-graham/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../../topics/song/manic-monday/index.md), [Martika](../../../topics/martika/index.md), [memoir](../../../topics/memoir/index.md), [Morris Day](../../../topics/morris-day/index.md), [Morris Day & The Time](../../../topics/morris-day-the-time/index.md), [Netflix](../../../topics/netflix/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../../topics/album/originals/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [Random House](../../../topics/random-house/index.md), [Rave In2 the Joy Fantastic (album)](../../../topics/album/rave-in2-the-joy-fantastic/index.md), [Rave Un2 the Joy Fantastic (album)](../../../topics/album/rave-un2-the-joy-fantastic/index.md), [Rave Un2 the Year 2000 (video)](../../../topics/video/rave-un2-the-year-2000/index.md), [Sex Shooter (song)](../../../topics/song/sex-shooter/index.md), [The Beautiful Ones (book)](../../../topics/book/the-beautiful-ones/index.md), [The Family](../../../topics/the-family/index.md), [The Glamorous Life (song)](../../../topics/song/the-glamorous-life/index.md), [The Prince Estate](../../../topics/the-prince-estate/index.md), [The Time](../../../topics/the-time/index.md), [Ultimate Rave (album)](../../../topics/album/ultimate-rave/index.md), [Vanity 6](../../../topics/vanity-6/index.md), [vault](../../../topics/vault/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/coming-soon-from-the-prince-vault-a-new-album-called-originals/509009862/))
 
 <br />
@@ -800,7 +874,7 @@
  - [**"The Prince Estate’s Big Plans: Inside the Upcoming Purple Reign -- The late singer’s estate is currently exploring licensing, future releases and even a hotel – all while trying to consider what Prince would have wanted"**](https://www.rollingstone.com/music/music-features/prince-estate-big-plans-upcoming-purple-reign-698529/)
     - in [Rolling Stone](../../../publications/p-t/rolling-stone/index.md)
     - on 13 July 2018
-    - about [A Case of You (song)](../../../topics/song/a-case-of-you/index.md), [Bravado](../../../topics/bravado/index.md), [Bremer Trust](../../../topics/bremer-trust/index.md), [Carver County](../../../topics/carver-county/index.md), [Charles Koppelman](../../../topics/charles-koppelman/index.md), [Comerica](../../../topics/comerica/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Graceland](../../../topics/graceland/index.md), [hologram](../../../topics/hologram/index.md), [John Nelson](../../../topics/john-nelson/index.md), [Joni Mitchell](../../../topics/joni-mitchell/index.md), [Mary Don’t You Weep (song)](../../../topics/song/mary-don-t-you-weep/index.md), [Mayte](../../../topics/mayte/index.md), [Mayte Garcia](../../../topics/mayte-garcia/index.md), [merchandise](../../../topics/merchandise/index.md), [Michael Howe](../../../topics/michael-howe/index.md), [Minnesota Twins](../../../topics/minnesota-twins/index.md), [museum](../../../topics/museum/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Piano and a Microphone 1983 (album)](../../../topics/album/piano-and-a-microphone-1983/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [Questlove](../../../topics/questlove/index.md), [Sharon Nelson](../../../topics/sharon-nelson/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md), [Spotify](../../../topics/spotify/index.md), [Super Bowl](../../../topics/super-bowl/index.md), [Susan Rogers](../../../topics/susan-rogers/index.md), [The Prince Estate](../../../topics/the-prince-estate/index.md), [Troy Carter](../../../topics/troy-carter/index.md), [Tyka Nelson](../../../topics/tyka-nelson/index.md), [Warner Bros. Records](../../../topics/warner-bros-records/index.md)
+    - about [A Case of You (song)](../../../topics/song/a-case-of-you/index.md), [Bravado](../../../topics/bravado/index.md), [Bremer Trust](../../../topics/bremer-trust/index.md), [Carver County](../../../topics/carver-county/index.md), [Charles Koppelman](../../../topics/charles-koppelman/index.md), [Comerica](../../../topics/comerica/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [Graceland](../../../topics/graceland/index.md), [hologram](../../../topics/hologram/index.md), [John Nelson](../../../topics/john-nelson/index.md), [Joni Mitchell](../../../topics/joni-mitchell/index.md), [Mary Don’t You Weep (song)](../../../topics/song/mary-don-t-you-weep/index.md), [Mayte](../../../topics/mayte/index.md), [Mayte Garcia](../../../topics/mayte-garcia/index.md), [memoir](../../../topics/memoir/index.md), [merchandise](../../../topics/merchandise/index.md), [Michael Howe](../../../topics/michael-howe/index.md), [Minnesota Twins](../../../topics/minnesota-twins/index.md), [museum](../../../topics/museum/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Piano and a Microphone 1983 (album)](../../../topics/album/piano-and-a-microphone-1983/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [Questlove](../../../topics/questlove/index.md), [Sharon Nelson](../../../topics/sharon-nelson/index.md), [Sinead O’Connor](../../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md), [Spotify](../../../topics/spotify/index.md), [Super Bowl](../../../topics/super-bowl/index.md), [Susan Rogers](../../../topics/susan-rogers/index.md), [The Prince Estate](../../../topics/the-prince-estate/index.md), [Troy Carter](../../../topics/troy-carter/index.md), [Tyka Nelson](../../../topics/tyka-nelson/index.md), [Warner Bros. Records](../../../topics/warner-bros-records/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/prince-estate-big-plans-upcoming-purple-reign-698529/))
 
 ----
@@ -1121,7 +1195,7 @@
 
 ----
 
-## 2011 (2)
+## 2011 (3)
 
 ### 2011 September (1)
 
@@ -1131,6 +1205,16 @@
     - on 15 September 2011
     - about [Jellybean Johnson](../../../topics/jellybean-johnson/index.md), [Morris Day](../../../topics/morris-day/index.md), [Morris Day & The Time](../../../topics/morris-day-the-time/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Paula Abdul](../../../topics/paula-abdul/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/it-s-a-family-affair-for-the-band-fdeluxe/129894773/))
+
+----
+
+### 2011 July (1)
+
+ - [**"Sinéad O'Connor album delayed until 2012 -- The follow-up to Theology will surface next year."**](https://www.hotpress.com/music/sinead-oconnor-album-delayed-until-2012-8033539)
+    - in [Hot Press](../../../publications/f-j/hot-press/index.md)
+    - on 4 July 2011
+    - about [Hop Farm (event)](../../../topics/event/hop-farm/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Nothing Compares 2 U (song)](../../../topics/song/nothing-compares-2-u/index.md), [Sinéad O’Connor](../../../topics/sin-ad-o-connor/index.md), [Sinéad O'Connor](../../../topics/sin-ad-o-connor/index.md), [U Got the Look (song)](../../../topics/song/u-got-the-look/index.md), [Vince Power](../../../topics/vince-power/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.hotpress.com/music/sinead-oconnor-album-delayed-until-2012-8033539))
 
 ----
 

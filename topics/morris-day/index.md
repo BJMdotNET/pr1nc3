@@ -95,7 +95,7 @@
  - [**"‘Crown,’ ‘Interview With the Vampire’ among TV highlights"**](https://apnews.com/article/fall-television-shows-to-watch-the-crown-andor-2649cc250edba973bc68e92f2dc4d917)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 29 September 2022
-    - about [Morris Day](../../topics/morris-day/index.md)
+    - about [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/fall-television-shows-to-watch-the-crown-andor-2649cc250edba973bc68e92f2dc4d917))
 
 ----
@@ -332,7 +332,7 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md), [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 29 November 2020
-    - about [Morris Day](../../topics/morris-day/index.md)
+    - about [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/15-holiday-gifts-for-music-lovers-from-taylor-swift-bob-dylan-and-more/573215411/))
 
 ----
@@ -363,7 +363,7 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 18 May 2020
-    - about [Morris Day](../../topics/morris-day/index.md)
+    - about [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/here-comes-another-purple-memoir-from-prince-bassist-brownmark/570565402/))
 
 <br />
@@ -799,7 +799,7 @@
  - [**"Rock and Roll Book Club: Morris Day is 'On Time'"**](https://www.thecurrent.org/feature/2019/10/08/morris-day-on-time)
     - in [The Current](../../publications/a-e/the-current/index.md)
     - on 9 October 2019
-    - about [André Cymone](../../topics/andr-cymone/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Kiowa Trail](../../topics/kiowa-trail/index.md), [Mall of America (place)](../../topics/place/mall-of-america/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - about [André Cymone](../../topics/andr-cymone/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Kiowa Trail](../../topics/kiowa-trail/index.md), [Mall of America (place)](../../topics/place/mall-of-america/index.md), [memoir](../../topics/memoir/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/10/08/morris-day-on-time))
 
 <br />
@@ -1073,7 +1073,7 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md), [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 25 April 2019
-    - about [Ani DiFranco](../../topics/ani-difranco/index.md), [Apple Music](../../topics/apple-music/index.md), [Ava DuVernay](../../topics/ava-duvernay/index.md), [Bangles](../../topics/bangles/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Martika](../../topics/martika/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Netflix](../../topics/netflix/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../topics/album/originals/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Random House](../../topics/random-house/index.md), [Rave In2 the Joy Fantastic (album)](../../topics/album/rave-in2-the-joy-fantastic/index.md), [Rave Un2 the Joy Fantastic (album)](../../topics/album/rave-un2-the-joy-fantastic/index.md), [Rave Un2 the Year 2000 (video)](../../topics/video/rave-un2-the-year-2000/index.md), [Sex Shooter (song)](../../topics/song/sex-shooter/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [The Family](../../topics/the-family/index.md), [The Glamorous Life (song)](../../topics/song/the-glamorous-life/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [The Time](../../topics/the-time/index.md), [Ultimate Rave (album)](../../topics/album/ultimate-rave/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
+    - about [Ani DiFranco](../../topics/ani-difranco/index.md), [Apple Music](../../topics/apple-music/index.md), [Ava DuVernay](../../topics/ava-duvernay/index.md), [Bangles](../../topics/bangles/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Martika](../../topics/martika/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Netflix](../../topics/netflix/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../topics/album/originals/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Random House](../../topics/random-house/index.md), [Rave In2 the Joy Fantastic (album)](../../topics/album/rave-in2-the-joy-fantastic/index.md), [Rave Un2 the Joy Fantastic (album)](../../topics/album/rave-un2-the-joy-fantastic/index.md), [Rave Un2 the Year 2000 (video)](../../topics/video/rave-un2-the-year-2000/index.md), [Sex Shooter (song)](../../topics/song/sex-shooter/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [The Family](../../topics/the-family/index.md), [The Glamorous Life (song)](../../topics/song/the-glamorous-life/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [The Time](../../topics/the-time/index.md), [Ultimate Rave (album)](../../topics/album/ultimate-rave/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/coming-soon-from-the-prince-vault-a-new-album-called-originals/509009862/))
 
 <br />
@@ -1158,7 +1158,7 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 21 December 2018
-    - about [Erykah Badu](../../topics/erykah-badu/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Super Bowl](../../topics/super-bowl/index.md)
+    - about [Erykah Badu](../../topics/erykah-badu/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Super Bowl](../../topics/super-bowl/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/10-signs-the-minnesota-music-scene-was-alive-and-well-in-2018/503245841/))
 
 <br />
@@ -1870,7 +1870,7 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 24 April 2016
-    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md)
+    - about [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/until-the-end-an-enigmaflashes-of-frailty-stand-out-in-prince-s-vibrant-final-months/376860181/))
 
 <br />

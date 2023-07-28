@@ -11,6 +11,7 @@
   * [Coachella (event)](../event/coachella/index.md) (18)
   * [Essence Fest (event)](../event/essence-fest/index.md) (8)
   * [Essence Festival (event)](../event/essence-festival/index.md) (8)
+  * [Hop Farm (event)](../event/hop-farm/index.md) (1)
   * [Let's Go Crazy: The Grammy Salute to Prince (event)](../event/let-s-go-crazy-the-grammy-salute-to-prince/index.md) (7)
   * [London Fashion Week (event)](../event/london-fashion-week/index.md) (3)
   * [Montreux Jazz Festival (event)](../event/montreux-jazz-festival/index.md) (1)

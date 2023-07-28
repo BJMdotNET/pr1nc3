@@ -5,7 +5,7 @@
 ### 2023 July (1)
 
  - [**"Sinead O'Connor : l'histoire de son tube "Nothing Compares 2 U", écrit par Prince"**](https://www.chartsinfrance.net/Sinead-O-connor/news-125605.html)
-    - in [www.chartsinfrance.net](../../publications/u-z/www-chartsinfrance-net/index.md)
+    - in [Pure Charts by Charts in France](../../publications/p-t/pure-charts-by-charts-in-france/index.md)
     - on 27 July 2023
     - about [Billboard Music Awards (event)](../../topics/event/billboard-music-awards/index.md), [Jungle Love (song)](../../topics/song/jungle-love/index.md), [Nasty Girl (song)](../../topics/song/nasty-girl/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Sinead O'Connor](../../topics/sinead-o-connor/index.md), [Steve Fargnoli](../../topics/steve-fargnoli/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.chartsinfrance.net/Sinead-O-connor/news-125605.html))
@@ -287,7 +287,7 @@
 <br />
 
  - [**"The afterlife of Prince, in words and music"**](https://www.inquirer.com/entertainment/prince-1999-beautiful-ones-music-book-tom-petty-david-bowie-20191115.html)
-    - in [inquirer.com](../../publications/f-j/inquirer-com/index.md)
+    - in [The Philadelphia Inquirer](../../publications/p-t/the-philadelphia-inquirer/index.md)
     - on 15 November 2019
     - about [bootleg](../../topics/bootleg/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [memoir](../../topics/memoir/index.md), [museum](../../topics/museum/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [Spike Lee](../../topics/spike-lee/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [Vagina (song)](../../topics/song/vagina/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.inquirer.com/entertainment/prince-1999-beautiful-ones-music-book-tom-petty-david-bowie-20191115.html))

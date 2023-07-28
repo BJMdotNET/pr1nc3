@@ -150,7 +150,7 @@
     - by [Steve Marsh](../../authors/steve-marsh/index.md)
     - in [Mpls.St.Paul Magazine](../../publications/k-o/mpls-st-paul-magazine/index.md)
     - on 12 December 2019
-    - about [Andrea Swensson](../../topics/andrea-swensson/index.md), [Prince: The Story of 1999](../../topics/prince-the-story-of-1999/index.md), [Symbolina](../../topics/symbolina/index.md)
+    - about [Andrea Swensson](../../topics/andrea-swensson/index.md), [memoir](../../topics/memoir/index.md), [Prince: The Story of 1999](../../topics/prince-the-story-of-1999/index.md), [Symbolina](../../topics/symbolina/index.md)
     - ([mirror](https://web.archive.org/web/*/https://mspmag.com/arts-and-culture/qa-andrea-swensson-prince-expert/))
 
 <br />

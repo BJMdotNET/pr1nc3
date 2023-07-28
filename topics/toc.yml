@@ -281,6 +281,9 @@ items:
 - name: Around The World In A Day (song)
   href: song/around-the-world-in-a-day/index.md
   homepage: song/around-the-world-in-a-day/index.md
+- name: Arsenio Hall
+  href: arsenio-hall/index.md
+  homepage: arsenio-hall/index.md
 - name: Art Official Age (album)
   href: album/art-official-age/index.md
   homepage: album/art-official-age/index.md
@@ -326,15 +329,15 @@ items:
 - name: AXS TV
   href: axs-tv/index.md
   homepage: axs-tv/index.md
-- name: AXS-TV
-  href: axs-tv/index.md
-  homepage: axs-tv/index.md
+- name: AXS-TV (2)
+  href: axs-tv_2/index.md
+  homepage: axs-tv_2/index.md
 - name: Baby I’m a Star (song)
   href: song/baby-i-m-a-star/index.md
   homepage: song/baby-i-m-a-star/index.md
-- name: Baby I'm a Star (song)
-  href: song/baby-i-m-a-star/index.md
-  homepage: song/baby-i-m-a-star/index.md
+- name: Baby I'm a Star (song) (2)
+  href: song/baby-i-m-a-star_2/index.md
+  homepage: song/baby-i-m-a-star_2/index.md
 - name: Baby Knows (song)
   href: song/baby-knows/index.md
   homepage: song/baby-knows/index.md
@@ -452,9 +455,9 @@ items:
 - name: Bobby Z
   href: bobby-z/index.md
   homepage: bobby-z/index.md
-- name: Bobby Z.
-  href: bobby-z/index.md
-  homepage: bobby-z/index.md
+- name: Bobby Z. (2)
+  href: bobby-z_2/index.md
+  homepage: bobby-z_2/index.md
 - name: Bold Generation (song)
   href: song/bold-generation/index.md
   homepage: song/bold-generation/index.md
@@ -680,9 +683,9 @@ items:
 - name: Chappelle’s Show (TV show)
   href: tv-show/chappelle-s-show/index.md
   homepage: tv-show/chappelle-s-show/index.md
-- name: Chappelle's Show (TV show)
-  href: tv-show/chappelle-s-show/index.md
-  homepage: tv-show/chappelle-s-show/index.md
+- name: Chappelle's Show (TV show) (2)
+  href: tv-show/chappelle-s-show_2/index.md
+  homepage: tv-show/chappelle-s-show_2/index.md
 - name: Charles Dickens
   href: charles-dickens/index.md
   homepage: charles-dickens/index.md
@@ -1133,21 +1136,21 @@ items:
 - name: Don't Let Him Fool Ya (song)
   href: song/don-t-let-him-fool-ya/index.md
   homepage: song/don-t-let-him-fool-ya/index.md
-- name: Don't Play With Love (album)
-  href: album/don-t-play-with-love/index.md
-  homepage: album/don-t-play-with-love/index.md
-- name: Don't Play With Love (song)
-  href: song/don-t-play-with-love/index.md
-  homepage: song/don-t-play-with-love/index.md
+- name: Don't Play With Love (album) (2)
+  href: album/don-t-play-with-love_2/index.md
+  homepage: album/don-t-play-with-love_2/index.md
+- name: Don't Play With Love (song) (2)
+  href: song/don-t-play-with-love_2/index.md
+  homepage: song/don-t-play-with-love_2/index.md
 - name: Doug E. Fresh
   href: doug-e-fresh/index.md
   homepage: doug-e-fresh/index.md
 - name: Dr. Mambo’s Combo
   href: dr-mambo-s-combo/index.md
   homepage: dr-mambo-s-combo/index.md
-- name: Dr. Mambo's Combo
-  href: dr-mambo-s-combo/index.md
-  homepage: dr-mambo-s-combo/index.md
+- name: Dr. Mambo's Combo (2)
+  href: dr-mambo-s-combo_2/index.md
+  homepage: dr-mambo-s-combo_2/index.md
 - name: Dream Factory (album)
   href: album/dream-factory/index.md
   homepage: album/dream-factory/index.md
@@ -1664,6 +1667,9 @@ items:
 - name: honorary degree
   href: honorary-degree/index.md
   homepage: honorary-degree/index.md
+- name: Hop Farm (event)
+  href: event/hop-farm/index.md
+  homepage: event/hop-farm/index.md
 - name: Hornheads
   href: hornheads/index.md
   homepage: hornheads/index.md
@@ -1685,9 +1691,9 @@ items:
 - name: How Come U Don’t Call Me Anymore? (song)
   href: song/how-come-u-don-t-call-me-anymore/index.md
   homepage: song/how-come-u-don-t-call-me-anymore/index.md
-- name: How Come U Don't Call Me Anymore (song)
-  href: song/how-come-u-don-t-call-me-anymore/index.md
-  homepage: song/how-come-u-don-t-call-me-anymore/index.md
+- name: How Come U Don't Call Me Anymore (song) (2)
+  href: song/how-come-u-don-t-call-me-anymore_2/index.md
+  homepage: song/how-come-u-don-t-call-me-anymore_2/index.md
 - name: Howard Kornfeld
   href: howard-kornfeld/index.md
   homepage: howard-kornfeld/index.md
@@ -1733,9 +1739,9 @@ items:
 - name: If It’ll Make U Happy (song)
   href: song/if-it-ll-make-u-happy/index.md
   homepage: song/if-it-ll-make-u-happy/index.md
-- name: If It'll Make U Happy (song)
-  href: song/if-it-ll-make-u-happy/index.md
-  homepage: song/if-it-ll-make-u-happy/index.md
+- name: If It'll Make U Happy (song) (2)
+  href: song/if-it-ll-make-u-happy_2/index.md
+  homepage: song/if-it-ll-make-u-happy_2/index.md
 - name: Illinois (place)
   href: place/illinois/index.md
   homepage: place/illinois/index.md
@@ -2951,12 +2957,12 @@ items:
 - name: One Nite Alone - The Aftershow…It Ain’t Over! (album)
   href: album/one-nite-alone-the-aftershow-it-ain-t-over/index.md
   homepage: album/one-nite-alone-the-aftershow-it-ain-t-over/index.md
-- name: One Nite Alone… (album)
-  href: album/one-nite-alone/index.md
-  homepage: album/one-nite-alone/index.md
-- name: One Nite Alone… The Aftershow - It Ain’t Over! (album)
-  href: album/one-nite-alone-the-aftershow-it-ain-t-over/index.md
-  homepage: album/one-nite-alone-the-aftershow-it-ain-t-over/index.md
+- name: One Nite Alone… (album) (2)
+  href: album/one-nite-alone_2/index.md
+  homepage: album/one-nite-alone_2/index.md
+- name: One Nite Alone… The Aftershow - It Ain’t Over! (album) (2)
+  href: album/one-nite-alone-the-aftershow-it-ain-t-over_2/index.md
+  homepage: album/one-nite-alone-the-aftershow-it-ain-t-over_2/index.md
 - name: One Nite Alone…Live! (album)
   href: album/one-nite-alone-live/index.md
   homepage: album/one-nite-alone-live/index.md
@@ -3464,9 +3470,9 @@ items:
 - name: Rock “Cyfi” Martinez
   href: rock-cyfi-martinez/index.md
   homepage: rock-cyfi-martinez/index.md
-- name: Rock 'Cyfi' Martinez
-  href: rock-cyfi-martinez/index.md
-  homepage: rock-cyfi-martinez/index.md
+- name: Rock 'Cyfi' Martinez (2)
+  href: rock-cyfi-martinez_2/index.md
+  homepage: rock-cyfi-martinez_2/index.md
 - name: Rock Martinez
   href: rock-martinez/index.md
   homepage: rock-martinez/index.md
@@ -3626,12 +3632,15 @@ items:
 - name: Sheryl Crow
   href: sheryl-crow/index.md
   homepage: sheryl-crow/index.md
-- name: She's Always in My Hair (song)
-  href: song/she-s-always-in-my-hair/index.md
-  homepage: song/she-s-always-in-my-hair/index.md
+- name: She's Always in My Hair (song) (2)
+  href: song/she-s-always-in-my-hair_2/index.md
+  homepage: song/she-s-always-in-my-hair_2/index.md
 - name: Shortberry Strawcake (song)
   href: song/shortberry-strawcake/index.md
   homepage: song/shortberry-strawcake/index.md
+- name: Shuhada Sadaqat
+  href: shuhada-sadaqat/index.md
+  homepage: shuhada-sadaqat/index.md
 - name: Sign O' The Times (album)
   href: album/sign-o-the-times/index.md
   homepage: album/sign-o-the-times/index.md
@@ -3647,12 +3656,12 @@ items:
 - name: Sinéad O’Connor
   href: sin-ad-o-connor/index.md
   homepage: sin-ad-o-connor/index.md
-- name: Sinead O'Connor
-  href: sinead-o-connor/index.md
-  homepage: sinead-o-connor/index.md
-- name: Sinéad O'Connor
-  href: sin-ad-o-connor/index.md
-  homepage: sin-ad-o-connor/index.md
+- name: Sinead O'Connor (2)
+  href: sinead-o-connor_2/index.md
+  homepage: sinead-o-connor_2/index.md
+- name: Sinéad O'Connor (2)
+  href: sin-ad-o-connor_2/index.md
+  homepage: sin-ad-o-connor_2/index.md
 - name: SiriusXM
   href: siriusxm/index.md
   homepage: siriusxm/index.md
@@ -4307,6 +4316,9 @@ items:
 - name: Vigliano Associates, LTD
   href: vigliano-associates-ltd/index.md
   homepage: vigliano-associates-ltd/index.md
+- name: Vince Power
+  href: vince-power/index.md
+  homepage: vince-power/index.md
 - name: Vincent Herring
   href: vincent-herring/index.md
   homepage: vincent-herring/index.md
@@ -4337,9 +4349,9 @@ items:
 - name: Warner Chappell Music
   href: warner-chappell-music/index.md
   homepage: warner-chappell-music/index.md
-- name: Warner/Chappell Music
-  href: warner-chappell-music/index.md
-  homepage: warner-chappell-music/index.md
+- name: Warner/Chappell Music (2)
+  href: warner-chappell-music_2/index.md
+  homepage: warner-chappell-music_2/index.md
 - name: Washington Avenue (place)
   href: place/washington-avenue/index.md
   homepage: place/washington-avenue/index.md

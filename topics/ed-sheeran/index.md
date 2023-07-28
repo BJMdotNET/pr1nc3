@@ -45,7 +45,7 @@
  - [**"De laatste woorden van popster Prince: ‘Hij liep nog over van de plannen’ -- Enkele maanden voor zijn dood begon popster Prince aan een autobiografie. Het boek kwam in de verste verte niet af, maar verschijnt nu toch, dankzij co-auteur Dan Piepenbring. ‘Prince was meer dan ooit bezig met zijn sterfelijkheid.’"**](https://www.parool.nl/kunst-media/de-laatste-woorden-van-popster-prince-hij-liep-nog-over-van-de-plannen~baef9d74/)
     - in [Het Parool](../../publications/f-j/het-parool/index.md)
     - on 30 October 2019
-    - about [Ed Sheeran](../../topics/ed-sheeran/index.md), [Katy Perry](../../topics/katy-perry/index.md)
+    - about [Ed Sheeran](../../topics/ed-sheeran/index.md), [Katy Perry](../../topics/katy-perry/index.md), [memoir](../../topics/memoir/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.parool.nl/kunst-media/de-laatste-woorden-van-popster-prince-hij-liep-nog-over-van-de-plannen~baef9d74/))
 
 <br />
@@ -77,7 +77,7 @@
  - [**"New Prince memoir reveals he hated Katy Perry and Ed Sheeran’s music -- The Purple One had a message for modern pop purveyors: "We don’t like it no matter how many times they play it""**](https://consequenceofsound.net/2019/10/prince-memoir-katy-perry-ed-sheerans-music/)
     - in [Consequence of Sound](../../publications/a-e/consequence-of-sound/index.md)
     - on 29 October 2019
-    - about [Allen Beaulieu](../../topics/allen-beaulieu/index.md), [Ed Sheeran](../../topics/ed-sheeran/index.md), [Katy Perry](../../topics/katy-perry/index.md)
+    - about [Allen Beaulieu](../../topics/allen-beaulieu/index.md), [Ed Sheeran](../../topics/ed-sheeran/index.md), [Katy Perry](../../topics/katy-perry/index.md), [memoir](../../topics/memoir/index.md)
     - ([mirror](https://web.archive.org/web/*/https://consequenceofsound.net/2019/10/prince-memoir-katy-perry-ed-sheerans-music/))
 
 <br />
@@ -93,7 +93,7 @@
  - [**"Prince had a problem with pop stars Ed Sheeran and Katy Perry"**](https://www.latimes.com/entertainment-arts/music/story/2019-10-29/prince-katy-perry-ed-sheeran-memoir)
     - in [Los Angeles Times](../../publications/k-o/los-angeles-times/index.md)
     - on 29 October 2019
-    - about [Ed Sheeran](../../topics/ed-sheeran/index.md), [Katy Perry](../../topics/katy-perry/index.md)
+    - about [Ed Sheeran](../../topics/ed-sheeran/index.md), [Katy Perry](../../topics/katy-perry/index.md), [memoir](../../topics/memoir/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.latimes.com/entertainment-arts/music/story/2019-10-29/prince-katy-perry-ed-sheeran-memoir))
 
 <br />

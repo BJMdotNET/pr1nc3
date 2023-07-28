@@ -20,7 +20,7 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 8 May 2017
-    - about [Abbott Northwestern Hospital (place)](../../topics/place/abbott-northwestern-hospital/index.md), [Amiir](../../topics/amiir/index.md), [Boy Gregory](../../topics/boy-gregory/index.md), [Joni Rodgers](../../topics/joni-rodgers/index.md), [Mall of America (place)](../../topics/place/mall-of-america/index.md), [Mia Gregory](../../topics/mia-gregory/index.md), [Nordstrom (place)](../../topics/place/nordstrom/index.md), [Oprah (TV show)](../../topics/tv-show/oprah/index.md), [Today Show (TV show)](../../topics/tv-show/today-show/index.md), [Tommy Lee](../../topics/tommy-lee/index.md)
+    - about [Abbott Northwestern Hospital (place)](../../topics/place/abbott-northwestern-hospital/index.md), [Amiir](../../topics/amiir/index.md), [Boy Gregory](../../topics/boy-gregory/index.md), [Joni Rodgers](../../topics/joni-rodgers/index.md), [Mall of America (place)](../../topics/place/mall-of-america/index.md), [memoir](../../topics/memoir/index.md), [Mia Gregory](../../topics/mia-gregory/index.md), [Nordstrom (place)](../../topics/place/nordstrom/index.md), [Oprah (TV show)](../../topics/tv-show/oprah/index.md), [Today Show (TV show)](../../topics/tv-show/today-show/index.md), [Tommy Lee](../../topics/tommy-lee/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-s-first-ex-wife-on-her-new-memoir-a-lot-of-trauma-i-made-myself-forget/421629693/))
 
 ----
@@ -38,7 +38,7 @@
  - [**"Mayte Garcia on the Prince you didn’t know"**](https://apnews.com/a4115faebefc463a8aad4433e14f5d2b)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 19 April 2017
-    - about [Amiir](../../topics/amiir/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [The Most Beautiful (book)](../../topics/book/the-most-beautiful/index.md)
+    - about [Amiir](../../topics/amiir/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [memoir](../../topics/memoir/index.md), [The Most Beautiful (book)](../../topics/book/the-most-beautiful/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/a4115faebefc463a8aad4433e14f5d2b))
 
 <br />

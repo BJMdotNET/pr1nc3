@@ -63,7 +63,7 @@
 <br />
 
  - [**"Prince: Piano & a Microphone 1983 review – demo gems from the Paisley Park vaults"**](https://www.irishtimes.com/culture/music/prince-piano-a-microphone-1983-review-demo-gems-from-the-paisley-park-vaults-1.3632309)
-    - in [irishtimes.com](../../../publications/f-j/irishtimes-com/index.md)
+    - in [The Irish Times](../../../publications/f-j/the-irish-times/index.md)
     - on 20 September 2018
     - about [17 Days (song)](../../../topics/song/17-days/index.md), [A Case of You (song)](../../../topics/song/a-case-of-you/index.md), [Joni Mitchell](../../../topics/joni-mitchell/index.md), [Mary Don’t You Weep (song)](../../../topics/song/mary-don-t-you-weep/index.md), [Piano & A Microphone 1983 (album)](../../../topics/album/piano-a-microphone-1983/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Strange Relationship (song)](../../../topics/song/strange-relationship/index.md), [vault](../../../topics/vault/index.md), [Why The Butterflies (song)](../../../topics/song/why-the-butterflies/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.irishtimes.com/culture/music/prince-piano-a-microphone-1983-review-demo-gems-from-the-paisley-park-vaults-1.3632309))
@@ -152,7 +152,7 @@
  - [**"Prince's Strange Relationship with Parody (and Weird Al) Detailed in Excerpt From Ben Greenman's 'Dig If U Will The Picture' [Exclusive]"**](https://www.okayplayer.com/news/prince-weird-al-exclusive-excerpt-ben-greenman-interview.html)
     - in [Okayplayer](../../../publications/k-o/okayplayer/index.md)
     - on 6 April 2017
-    - about [Charlie Murphy](../../../topics/charlie-murphy/index.md), [Dave Chappelle](../../../topics/dave-chappelle/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Miami (place)](../../../topics/place/miami/index.md), [Michael Jackson](../../../topics/michael-jackson/index.md), [Questlove](../../../topics/questlove/index.md), [Strange Relationship (song)](../../../topics/song/strange-relationship/index.md), [Weird Al Yankovic](../../../topics/weird-al-yankovic/index.md)
+    - about [Charlie Murphy](../../../topics/charlie-murphy/index.md), [Dave Chappelle](../../../topics/dave-chappelle/index.md), [Let’s Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [memoir](../../../topics/memoir/index.md), [Miami (place)](../../../topics/place/miami/index.md), [Michael Jackson](../../../topics/michael-jackson/index.md), [Questlove](../../../topics/questlove/index.md), [Strange Relationship (song)](../../../topics/song/strange-relationship/index.md), [Weird Al Yankovic](../../../topics/weird-al-yankovic/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.okayplayer.com/news/prince-weird-al-exclusive-excerpt-ben-greenman-interview.html))
 
 ----
