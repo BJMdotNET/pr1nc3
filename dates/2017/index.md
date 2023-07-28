@@ -905,7 +905,7 @@
 
 ----
 
-## April 2017 (61)
+## April 2017 (65)
 
  - [**"‘Purple Rain’ re-issue to feature unreleased Prince songs"**](https://apnews.com/495f034e59ad4375a854c5476852d886)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
@@ -990,6 +990,7 @@
 ----
 
  - [**"A year after Prince's death, these questions remain unanswered"**](https://usatoday.com/story/life/music/2017/04/20/death-prince-one-year-later-what-do-we-know/100180398/)
+    - by [Maria Puente (USA Today)](../../authors/usa-today/maria-puente/index.md)
     - in [USA Today](../../publications/u-z/usa-today/index.md)
     - on 21 April 2017
     - about [Amy Conners](../../topics/amy-conners/index.md), [Apple Music](../../topics/apple-music/index.md), [bootleg](../../topics/bootleg/index.md), [Carver County](../../topics/carver-county/index.md), [Comerica](../../topics/comerica/index.md), [divorce](../../topics/divorce/index.md), [fentanyl](../../topics/fentanyl/index.md), [George Ian Boxill](../../topics/george-ian-boxill/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [memoir](../../topics/memoir/index.md), [Michael Schulenberg](../../topics/michael-schulenberg/index.md), [museum](../../topics/museum/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [Patrick Cousins](../../topics/patrick-cousins/index.md), [probate court](../../topics/probate-court/index.md), [Spotify](../../topics/spotify/index.md), [Tidal](../../topics/tidal/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Universal Music Group](../../topics/universal-music-group/index.md), [vault](../../topics/vault/index.md)
@@ -1159,10 +1160,20 @@
 
 ----
 
- - [**"Affidavit: Doc prescribed Prince opioids under friend’s name"**](https://apnews.com/af6ad628c59f4c7fb7351908c72f4c23)
+ - [**"Affidavit: Doc prescribed Prince opioids under friend’s name"**](https://apnews.com/article/af6ad628c59f4c7fb7351908c72f4c23)
+    - by [Amy Forliti (Associated Press)](../../authors/associated-press/amy-forliti/index.md)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 18 April 2017
-    - about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [opioid](../../topics/opioid/index.md), [oxycodone](../../topics/oxycodone/index.md)
+    - about [Amy Conners](../../topics/amy-conners/index.md), [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Carver County](../../topics/carver-county/index.md), [Carver County District Court](../../topics/carver-county-district-court/index.md), [Clayton Tyler](../../topics/clayton-tyler/index.md), [fentanyl](../../topics/fentanyl/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [opioid](../../topics/opioid/index.md), [oxycodone](../../topics/oxycodone/index.md), [Peter Bravestrong](../../topics/peter-bravestrong/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/af6ad628c59f4c7fb7351908c72f4c23))
+
+----
+
+ - [**"Affidavit: Doc prescribed Prince opioids under friend’s name"**](https://apnews.com/af6ad628c59f4c7fb7351908c72f4c23)
+    - by [Amy Forliti (Associated Press)](../../authors/associated-press/amy-forliti/index.md)
+    - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
+    - on 18 April 2017
+    - about [Amy Conners](../../topics/amy-conners/index.md), [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [opioid](../../topics/opioid/index.md), [oxycodone](../../topics/oxycodone/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/af6ad628c59f4c7fb7351908c72f4c23))
 
 ----
@@ -1176,10 +1187,20 @@
 ----
 
  - [**"Documents highlight Prince’s struggle with opioid addiction"**](https://apnews.com/6309636fb0d84b968b1bfe720c289961)
+    - by [Carla K. Johnson (Associated Press)](../../authors/associated-press/carla-k-johnson/index.md)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 18 April 2017
-    - about [fentanyl](../../topics/fentanyl/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [opioid](../../topics/opioid/index.md), [oxycodone](../../topics/oxycodone/index.md)
+    - about [Amy Conners](../../topics/amy-conners/index.md), [fentanyl](../../topics/fentanyl/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [opioid](../../topics/opioid/index.md), [oxycodone](../../topics/oxycodone/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/6309636fb0d84b968b1bfe720c289961))
+
+----
+
+ - [**"Documents highlight Prince’s struggle with opioid addiction"**](https://apnews.com/article/d1ef1ae190bd435f8c34fa0bdd104b93)
+    - by [Carla K. Johnson (Associated Press)](../../authors/associated-press/carla-k-johnson/index.md)
+    - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
+    - on 18 April 2017
+    - about [Amy Conners](../../topics/amy-conners/index.md), [Clayton Tyler](../../topics/clayton-tyler/index.md), [fentanyl](../../topics/fentanyl/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Michael Schulenberg](../../topics/michael-schulenberg/index.md), [opioid](../../topics/opioid/index.md), [oxycodone](../../topics/oxycodone/index.md), [Ruth Martinez](../../topics/ruth-martinez/index.md), [TMZ (website)](../../topics/website/tmz/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/d1ef1ae190bd435f8c34fa0bdd104b93))
 
 ----
 
@@ -1209,12 +1230,30 @@
 
 ----
 
+ - [**"Prince search warrants lay bare struggle with opioids"**](https://apnews.com/a85735eef7fa4d4a98df48b9e154e8ab)
+    - by [Amy Forliti (Associated Press)](../../authors/associated-press/amy-forliti/index.md)
+    - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
+    - on 18 April 2017
+    - about [Amy Conners](../../topics/amy-conners/index.md), [Carver County](../../topics/carver-county/index.md), [Carver County District Court](../../topics/carver-county-district-court/index.md), [Clayton Tyler](../../topics/clayton-tyler/index.md), [fentanyl](../../topics/fentanyl/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [opioid](../../topics/opioid/index.md), [oxycodone](../../topics/oxycodone/index.md), [Peter Bravestrong](../../topics/peter-bravestrong/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://apnews.com/a85735eef7fa4d4a98df48b9e154e8ab))
+
+----
+
  - [**"'Purple Rain' suit worn by Prince in movie on display in St. Paul -- The suit and other items can be viewed free of charge at the Minnesota History Center in St. Paul."**](https://www.startribune.com/purple-rain-suit-worn-by-prince-in-movie-goes-on-display-starting-today/419713513/)
     - by [Paul Walsh](../../authors/paul-walsh/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 18 April 2017
     - about [Minnesota History Center](../../topics/minnesota-history-center/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/purple-rain-suit-worn-by-prince-in-movie-goes-on-display-starting-today/419713513/))
+
+----
+
+ - [**"Documento: Doctor recetó medicinas a Prince bajo otro nombre"**](https://apnews.com/cddc2add1bce498695ded07e9b043f31)
+    - by [Amy Forliti (Associated Press)](../../authors/associated-press/amy-forliti/index.md)
+    - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
+    - on 17 April 2017
+    - about [Amy Conners](../../topics/amy-conners/index.md), [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [opioid](../../topics/opioid/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Peter Bravestrong](../../topics/peter-bravestrong/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://apnews.com/cddc2add1bce498695ded07e9b043f31))
 
 ----
 
@@ -1253,9 +1292,10 @@
 ----
 
  - [**"The Latest: Doctor disputes prescribing opioids for Prince"**](https://apnews.com/d72d2ba9032e45debb8ac8700dc24e84)
+    - by [The Associated Press](../../authors/the-associated-press/index.md)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 17 April 2017
-    - about [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [opioid](../../topics/opioid/index.md)
+    - about [Amy Conners](../../topics/amy-conners/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [opioid](../../topics/opioid/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/d72d2ba9032e45debb8ac8700dc24e84))
 
 ----

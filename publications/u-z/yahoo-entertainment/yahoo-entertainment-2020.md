@@ -3,6 +3,7 @@
 ## February 2020 (1)
 
  - [**"Prince doctor to pay $4K civil penalty for prescription"**](https://www.yahoo.com/entertainment/prince-doctor-pay-4k-civil-224903514.html)
+    - by [The Associated Press](../../../authors/the-associated-press/index.md)
     - in [Yahoo! Entertainment](../../../publications/u-z/yahoo-entertainment/index.md)
     - on 3 February 2020
     - about [Amy Conners](../../../topics/amy-conners/index.md), [fentanyl](../../../topics/fentanyl/index.md), [fentanyl overdose](../../../topics/fentanyl-overdose/index.md), [Kirk Johnson](../../../topics/kirk-johnson/index.md), [lawsuit](../../../topics/lawsuit/index.md), [Michael Schulenberg](../../../topics/michael-schulenberg/index.md), [oxycodone](../../../topics/oxycodone/index.md)

@@ -1,5 +1,36 @@
 # The Associated Press
 
+## 2020 (3)
+
+### 2020 February (3)
+
+ - [**"Prince doctor to pay $4K civil penalty for painkiller prescription"**](https://www.twincities.com/2020/02/03/prince-doctor-to-pay-4k-civil-penalty-for-painkiller-prescription/)
+    - by [The Associated Press](../../authors/the-associated-press/index.md)
+    - in [TwinCities.com - Pioneer Press](../../publications/p-t/twincities-com-pioneer-press/index.md)
+    - on 3 February 2020
+    - about [Amy Conners](../../topics/amy-conners/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [lawsuit](../../topics/lawsuit/index.md), [Michael Schulenberg](../../topics/michael-schulenberg/index.md), [oxycodone](../../topics/oxycodone/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.twincities.com/2020/02/03/prince-doctor-to-pay-4k-civil-penalty-for-painkiller-prescription/))
+
+<br />
+
+ - [**"Prince doctor to pay $4K civil penalty for prescription"**](https://www.yahoo.com/entertainment/prince-doctor-pay-4k-civil-224903514.html)
+    - by [The Associated Press](../../authors/the-associated-press/index.md)
+    - in [Yahoo! Entertainment](../../publications/u-z/yahoo-entertainment/index.md)
+    - on 3 February 2020
+    - about [Amy Conners](../../topics/amy-conners/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [lawsuit](../../topics/lawsuit/index.md), [Michael Schulenberg](../../topics/michael-schulenberg/index.md), [oxycodone](../../topics/oxycodone/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.yahoo.com/entertainment/prince-doctor-pay-4k-civil-224903514.html))
+
+<br />
+
+ - [**"Prince doctor to pay $4K civil penalty for prescription"**](https://apnews.com/58492fc402a996c118253c33f6fd5703)
+    - by [The Associated Press](../../authors/the-associated-press/index.md)
+    - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
+    - on 3 February 2020
+    - about [Amy Conners](../../topics/amy-conners/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [lawsuit](../../topics/lawsuit/index.md), [Michael Schulenberg](../../topics/michael-schulenberg/index.md), [opioid](../../topics/opioid/index.md), [oxycodone](../../topics/oxycodone/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://apnews.com/58492fc402a996c118253c33f6fd5703))
+
+----
+
 ## 2019 (6)
 
 ### 2019 April (2)
@@ -62,7 +93,7 @@
 
 ----
 
-## 2018 (3)
+## 2018 (5)
 
 ### 2018 October (1)
 
@@ -97,7 +128,27 @@
 
 ----
 
-## 2017 (4)
+### 2018 April (2)
+
+ - [**"The Latest: Doctor said Prince ‘doesn’t look really well’"**](https://apnews.com/article/acdea18b521b4b7d886de7b06c2d302a)
+    - by [The Associated Press](../../authors/the-associated-press/index.md)
+    - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
+    - on 20 April 2018
+    - about [Amy Conners](../../topics/amy-conners/index.md), [Carver County](../../topics/carver-county/index.md), [Clayton Tyler](../../topics/clayton-tyler/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Mark Metz](../../topics/mark-metz/index.md), [Meron Bekure](../../topics/meron-bekure/index.md), [Michael Schulenberg](../../topics/michael-schulenberg/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [opioid](../../topics/opioid/index.md), [oxycodone](../../topics/oxycodone/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Vicodin](../../topics/vicodin/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/acdea18b521b4b7d886de7b06c2d302a))
+
+<br />
+
+ - [**"The Latest: Doctor said Prince ‘doesn’t look really well’"**](https://apnews.com/acdea18b521b4b7d886de7b06c2d302a)
+    - by [The Associated Press](../../authors/the-associated-press/index.md)
+    - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
+    - on 20 April 2018
+    - about [Amy Conners](../../topics/amy-conners/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Mark Metz](../../topics/mark-metz/index.md), [Meron Bekure](../../topics/meron-bekure/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [opioid](../../topics/opioid/index.md), [oxycodone](../../topics/oxycodone/index.md), [Vicodin](../../topics/vicodin/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://apnews.com/acdea18b521b4b7d886de7b06c2d302a))
+
+----
+
+## 2017 (5)
 
 ### 2017 August (1)
 
@@ -111,7 +162,16 @@
 
 ----
 
-### 2017 April (2)
+### 2017 April (3)
+
+ - [**"The Latest: Doctor disputes prescribing opioids for Prince"**](https://apnews.com/d72d2ba9032e45debb8ac8700dc24e84)
+    - by [The Associated Press](../../authors/the-associated-press/index.md)
+    - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
+    - on 17 April 2017
+    - about [Amy Conners](../../topics/amy-conners/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [opioid](../../topics/opioid/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://apnews.com/d72d2ba9032e45debb8ac8700dc24e84))
+
+<br />
 
  - [**"AM Prep-Music -- PRINCE’S SIBLINGS WANT TO BE DECLARED HIS HEIRS / TROY CARTER NAMED ENTERTAINMENT ADVISER FOR PRINCE ESTATE"**](https://apnews.com/63ffae131dda46bcb6a431332d0a5efc)
     - by [The Associated Press](../../authors/the-associated-press/index.md)
@@ -142,9 +202,18 @@
 
 ----
 
-## 2016 (3)
+## 2016 (4)
 
-### 2016 August (1)
+### 2016 August (2)
+
+ - [**"Correction: Prince Death story"**](https://apnews.com/6ea0a330a6fa442990b24ec0c5153b27)
+    - by [The Associated Press](../../authors/the-associated-press/index.md)
+    - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
+    - on 22 August 2016
+    - about [Amy Conners](../../topics/amy-conners/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [opioid](../../topics/opioid/index.md), [oxycodone](../../topics/oxycodone/index.md), [U-47700](../../topics/u-47700/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://apnews.com/6ea0a330a6fa442990b24ec0c5153b27))
+
+<br />
 
  - [**"Prince's Paisley Park, other properties could go on sale"**](https://www.startribune.com/prince-s-paisley-park-other-properties-could-go-on-sale/389333051/)
     - by [The Associated Press](../../authors/the-associated-press/index.md)

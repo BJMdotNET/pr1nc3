@@ -102,7 +102,7 @@
 
 ----
 
-## 2017 (1)
+## 2017 (5)
 
 ### 2017 May (1)
 
@@ -114,9 +114,67 @@
 
 ----
 
-## 2016 (3)
+### 2017 April (4)
 
-### 2016 June (2)
+ - [**"Affidavit: Doc prescribed Prince opioids under friend’s name"**](https://apnews.com/article/af6ad628c59f4c7fb7351908c72f4c23)
+    - by [Amy Forliti (Associated Press)](../../../authors/associated-press/amy-forliti/index.md)
+    - in [Associated Press News](../../../publications/a-e/associated-press-news/index.md)
+    - on 18 April 2017
+    - about [Amy Conners](../../../topics/amy-conners/index.md), [Andrew Kornfeld](../../../topics/andrew-kornfeld/index.md), [Carver County](../../../topics/carver-county/index.md), [Carver County District Court](../../../topics/carver-county-district-court/index.md), [Clayton Tyler](../../../topics/clayton-tyler/index.md), [fentanyl](../../../topics/fentanyl/index.md), [Howard Kornfeld](../../../topics/howard-kornfeld/index.md), [Kirk Johnson](../../../topics/kirk-johnson/index.md), [opioid](../../../topics/opioid/index.md), [oxycodone](../../../topics/oxycodone/index.md), [Peter Bravestrong](../../../topics/peter-bravestrong/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/af6ad628c59f4c7fb7351908c72f4c23))
+
+<br />
+
+ - [**"Affidavit: Doc prescribed Prince opioids under friend’s name"**](https://apnews.com/af6ad628c59f4c7fb7351908c72f4c23)
+    - by [Amy Forliti (Associated Press)](../../../authors/associated-press/amy-forliti/index.md)
+    - in [Associated Press News](../../../publications/a-e/associated-press-news/index.md)
+    - on 18 April 2017
+    - about [Amy Conners](../../../topics/amy-conners/index.md), [Andrew Kornfeld](../../../topics/andrew-kornfeld/index.md), [Carver County](../../../topics/carver-county/index.md), [fentanyl](../../../topics/fentanyl/index.md), [Howard Kornfeld](../../../topics/howard-kornfeld/index.md), [Kirk Johnson](../../../topics/kirk-johnson/index.md), [Michael Todd Schulenberg](../../../topics/michael-todd-schulenberg/index.md), [opioid](../../../topics/opioid/index.md), [oxycodone](../../../topics/oxycodone/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://apnews.com/af6ad628c59f4c7fb7351908c72f4c23))
+
+<br />
+
+ - [**"Prince search warrants lay bare struggle with opioids"**](https://apnews.com/a85735eef7fa4d4a98df48b9e154e8ab)
+    - by [Amy Forliti (Associated Press)](../../../authors/associated-press/amy-forliti/index.md)
+    - in [Associated Press News](../../../publications/a-e/associated-press-news/index.md)
+    - on 18 April 2017
+    - about [Amy Conners](../../../topics/amy-conners/index.md), [Carver County](../../../topics/carver-county/index.md), [Carver County District Court](../../../topics/carver-county-district-court/index.md), [Clayton Tyler](../../../topics/clayton-tyler/index.md), [fentanyl](../../../topics/fentanyl/index.md), [Kirk Johnson](../../../topics/kirk-johnson/index.md), [Michael Todd Schulenberg](../../../topics/michael-todd-schulenberg/index.md), [opioid](../../../topics/opioid/index.md), [oxycodone](../../../topics/oxycodone/index.md), [Peter Bravestrong](../../../topics/peter-bravestrong/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://apnews.com/a85735eef7fa4d4a98df48b9e154e8ab))
+
+<br />
+
+ - [**"Documento: Doctor recetó medicinas a Prince bajo otro nombre"**](https://apnews.com/cddc2add1bce498695ded07e9b043f31)
+    - by [Amy Forliti (Associated Press)](../../../authors/associated-press/amy-forliti/index.md)
+    - in [Associated Press News](../../../publications/a-e/associated-press-news/index.md)
+    - on 17 April 2017
+    - about [Amy Conners](../../../topics/amy-conners/index.md), [Andrew Kornfeld](../../../topics/andrew-kornfeld/index.md), [Howard Kornfeld](../../../topics/howard-kornfeld/index.md), [Kirk Johnson](../../../topics/kirk-johnson/index.md), [Michael Todd Schulenberg](../../../topics/michael-todd-schulenberg/index.md), [opioid](../../../topics/opioid/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Peter Bravestrong](../../../topics/peter-bravestrong/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://apnews.com/cddc2add1bce498695ded07e9b043f31))
+
+----
+
+## 2016 (9)
+
+### 2016 August (2)
+
+ - [**"Official: Pills found at Prince’s estate contained fentanyl"**](https://apnews.com/article/f2cb614f0e79404692d5582509874869)
+    - by [Amy Forliti (Associated Press)](../../../authors/associated-press/amy-forliti/index.md)
+    - in [Associated Press News](../../../publications/a-e/associated-press-news/index.md)
+    - on 22 August 2016
+    - about [Amy Conners](../../../topics/amy-conners/index.md), [fentanyl](../../../topics/fentanyl/index.md), [fentanyl overdose](../../../topics/fentanyl-overdose/index.md), [Illinois (place)](../../../topics/place/illinois/index.md), [Michael Todd Schulenberg](../../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../../topics/place/moline-illinois/index.md), [opioid](../../../topics/opioid/index.md), [oxycodone](../../../topics/oxycodone/index.md), [U-47700](../../../topics/u-47700/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/f2cb614f0e79404692d5582509874869))
+
+<br />
+
+ - [**"Official: Pills found at Prince’s estate contained fentanyl"**](https://apnews.com/f2cb614f0e79404692d5582509874869)
+    - by [Amy Forliti (Associated Press)](../../../authors/associated-press/amy-forliti/index.md)
+    - in [Associated Press News](../../../publications/a-e/associated-press-news/index.md)
+    - on 22 August 2016
+    - about [Amy Conners](../../../topics/amy-conners/index.md), [Atlanta (place)](../../../topics/place/atlanta/index.md), [fentanyl](../../../topics/fentanyl/index.md), [fentanyl overdose](../../../topics/fentanyl-overdose/index.md), [Illinois (place)](../../../topics/place/illinois/index.md), [Michael Todd Schulenberg](../../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../../topics/place/moline-illinois/index.md), [opioid](../../../topics/opioid/index.md), [oxycodone](../../../topics/oxycodone/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://apnews.com/f2cb614f0e79404692d5582509874869))
+
+----
+
+### 2016 June (3)
 
  - [**"Judge won't hear media request at Prince estate hearing"**](https://www.startribune.com/judge-won-t-hear-media-request-at-prince-estate-hearing/384399061/)
     - by [Amy Forliti (Associated Press)](../../../authors/associated-press/amy-forliti/index.md)
@@ -132,6 +190,44 @@
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 3 June 2016
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/finding-overdose-killed-prince-just-the-beginning-of-probe/381743311/))
+
+<br />
+
+ - [**"Finding overdose killed Prince just the beginning of probe"**](https://apnews.com/amp/2db1760078a14799a43dfd02bdab6b67)
+    - by [Amy Forliti (Associated Press)](../../../authors/associated-press/amy-forliti/index.md), [Michael Tarm (Associated Press)](../../../authors/associated-press/michael-tarm/index.md)
+    - in [Associated Press News](../../../publications/a-e/associated-press-news/index.md)
+    - on 3 June 2016
+    - about [Amy Conners](../../../topics/amy-conners/index.md), [Andrew Kornfeld](../../../topics/andrew-kornfeld/index.md), [Carver County](../../../topics/carver-county/index.md), [fentanyl](../../../topics/fentanyl/index.md), [Howard Kornfeld](../../../topics/howard-kornfeld/index.md), [Michael Todd Schulenberg](../../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../../topics/place/moline-illinois/index.md), [opioid](../../../topics/opioid/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://apnews.com/amp/2db1760078a14799a43dfd02bdab6b67))
+
+----
+
+### 2016 May (3)
+
+ - [**"Un médico vio a Prince y recetó fármacos, según documentos"**](https://apnews.com/article/archive-a2ac92f8fe6c4aaf991dfbcde3b83d04)
+    - by [Amy Forliti (Associated Press)](../../../authors/associated-press/amy-forliti/index.md), [Steve Karnowski (Associated Press)](../../../authors/associated-press/steve-karnowski/index.md)
+    - in [Associated Press News](../../../publications/a-e/associated-press-news/index.md)
+    - on 11 May 2016
+    - about [Amy Conners](../../../topics/amy-conners/index.md), [Andrew Kornfeld](../../../topics/andrew-kornfeld/index.md), [Howard Kornfeld](../../../topics/howard-kornfeld/index.md), [Michael Todd Schulenberg](../../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../../topics/place/moline-illinois/index.md), [opioid](../../../topics/opioid/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/archive-a2ac92f8fe6c4aaf991dfbcde3b83d04))
+
+<br />
+
+ - [**"Warrant: Minnesota doctor saw Prince, prescribed drugs"**](https://apnews.com/21140409ac784faf88f88ce5c400bbe3)
+    - by [Amy Forliti (Associated Press)](../../../authors/associated-press/amy-forliti/index.md), [Steve Karnowski (Associated Press)](../../../authors/associated-press/steve-karnowski/index.md)
+    - in [Associated Press News](../../../publications/a-e/associated-press-news/index.md)
+    - on 11 May 2016
+    - about [Amy Conners](../../../topics/amy-conners/index.md), [Andrew Kornfeld](../../../topics/andrew-kornfeld/index.md), [Atlanta (place)](../../../topics/place/atlanta/index.md), [Carver County](../../../topics/carver-county/index.md), [Howard Kornfeld](../../../topics/howard-kornfeld/index.md), [Illinois (place)](../../../topics/place/illinois/index.md), [Michael Todd Schulenberg](../../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../../topics/place/moline-illinois/index.md), [North Memorial Medical Center (place)](../../../topics/place/north-memorial-medical-center/index.md), [opioid](../../../topics/opioid/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://apnews.com/21140409ac784faf88f88ce5c400bbe3))
+
+<br />
+
+ - [**"Warrant: Minnesota doctor saw Prince, prescribed drugs"**](https://apnews.com/53b7f73993c649aebb7165d234092956)
+    - by [Amy Forliti (Associated Press)](../../../authors/associated-press/amy-forliti/index.md), [Steve Karnowski (Associated Press)](../../../authors/associated-press/steve-karnowski/index.md)
+    - in [Associated Press News](../../../publications/a-e/associated-press-news/index.md)
+    - on 11 May 2016
+    - about [Amy Conners](../../../topics/amy-conners/index.md), [Andrew Kornfeld](../../../topics/andrew-kornfeld/index.md), [Atlanta (place)](../../../topics/place/atlanta/index.md), [Carver County](../../../topics/carver-county/index.md), [Howard Kornfeld](../../../topics/howard-kornfeld/index.md), [Illinois (place)](../../../topics/place/illinois/index.md), [Michael Todd Schulenberg](../../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../../topics/place/moline-illinois/index.md), [North Memorial Medical Center (place)](../../../topics/place/north-memorial-medical-center/index.md), [opioid](../../../topics/opioid/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://apnews.com/53b7f73993c649aebb7165d234092956))
 
 ----
 

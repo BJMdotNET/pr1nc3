@@ -12,7 +12,7 @@
 
 ----
 
-## 2018 (16)
+## 2018 (18)
 
 ### 2018 December (1)
 
@@ -24,7 +24,7 @@
 
 ----
 
-### 2018 April (13)
+### 2018 April (15)
 
  - [**"Investigation says Prince was isolated, addicted and in pain -- (AP Archive)"**](https://www.youtube.com/watch?v=iO7eX1j6n2E)
     - in [YouTube](../../publications/u-z/youtube/index.md)
@@ -69,6 +69,15 @@
 
 <br />
 
+ - [**"No criminal charges in Prince’s overdose death"**](https://apnews.com/article/music-prince-archive-minnesota-3f63f8bd2d1c4b6c92546cedf314971a)
+    - by [Joe Coscarelli](../../authors/joe-coscarelli/index.md), [Sheila M. Eldred](../../authors/sheila-m-eldred/index.md)
+    - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
+    - on 20 April 2018
+    - about [Amy Conners](../../topics/amy-conners/index.md), [Carver County](../../topics/carver-county/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Clayton Tyler](../../topics/clayton-tyler/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Mark Metz](../../topics/mark-metz/index.md), [Michael Schulenberg](../../topics/michael-schulenberg/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [toxicology report](../../topics/toxicology-report/index.md), [Vicodin](../../topics/vicodin/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/music-prince-archive-minnesota-3f63f8bd2d1c4b6c92546cedf314971a))
+
+<br />
+
  - [**"Prince's death: New photos, video show singer on the day before he died"**](https://usatoday.com/story/life/people/2018/04/20/princes-death-new-photos-video-show-singer-day-before-he-died/535971002/)
     - in [USA Today](../../publications/u-z/usa-today/index.md)
     - on 20 April 2018
@@ -77,10 +86,20 @@
 
 <br />
 
- - [**"The Latest: Doctor said Prince ‘doesn’t look really well’"**](https://apnews.com/acdea18b521b4b7d886de7b06c2d302a)
+ - [**"The Latest: Doctor said Prince ‘doesn’t look really well’"**](https://apnews.com/article/acdea18b521b4b7d886de7b06c2d302a)
+    - by [The Associated Press](../../authors/the-associated-press/index.md)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 20 April 2018
-    - about [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Mark Metz](../../topics/mark-metz/index.md), [Meron Bekure](../../topics/meron-bekure/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [opioid](../../topics/opioid/index.md), [oxycodone](../../topics/oxycodone/index.md), [Vicodin](../../topics/vicodin/index.md)
+    - about [Amy Conners](../../topics/amy-conners/index.md), [Carver County](../../topics/carver-county/index.md), [Clayton Tyler](../../topics/clayton-tyler/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Mark Metz](../../topics/mark-metz/index.md), [Meron Bekure](../../topics/meron-bekure/index.md), [Michael Schulenberg](../../topics/michael-schulenberg/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [opioid](../../topics/opioid/index.md), [oxycodone](../../topics/oxycodone/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Vicodin](../../topics/vicodin/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/acdea18b521b4b7d886de7b06c2d302a))
+
+<br />
+
+ - [**"The Latest: Doctor said Prince ‘doesn’t look really well’"**](https://apnews.com/acdea18b521b4b7d886de7b06c2d302a)
+    - by [The Associated Press](../../authors/the-associated-press/index.md)
+    - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
+    - on 20 April 2018
+    - about [Amy Conners](../../topics/amy-conners/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Mark Metz](../../topics/mark-metz/index.md), [Meron Bekure](../../topics/meron-bekure/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [opioid](../../topics/opioid/index.md), [oxycodone](../../topics/oxycodone/index.md), [Vicodin](../../topics/vicodin/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/acdea18b521b4b7d886de7b06c2d302a))
 
 <br />

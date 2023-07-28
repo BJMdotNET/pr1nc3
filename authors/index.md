@@ -1,12 +1,13 @@
 # Authors
 
   * [Associated Press](./associated-press/index.md)
-     * [Amy Forliti (Associated Press)](./associated-press/amy-forliti/index.md) (14)
-     * [Carla K. Johnson (Associated Press)](./associated-press/carla-k-johnson/index.md) (2)
+     * [Amy Forliti (Associated Press)](./associated-press/amy-forliti/index.md) (24)
+     * [Carla K. Johnson (Associated Press)](./associated-press/carla-k-johnson/index.md) (6)
      * [Chevel Johnson (Associated Press)](./associated-press/chevel-johnson/index.md) (2)
      * [Christopher Weber (Associated Press)](./associated-press/christopher-weber/index.md) (1)
      * [David Bauder (Associated Press)](./associated-press/david-bauder/index.md) (1)
      * [Derrik J. Lang (Associated Press)](./associated-press/derrik-j-lang/index.md) (2)
+     * [Doug Glass (Associated Press)](./associated-press/doug-glass/index.md) (2)
      * [Hillel Italie (Associated Press)](./associated-press/hillel-italie/index.md) (3)
      * [Jeff Baenen (Associated Press)](./associated-press/jeff-baenen/index.md) (7)
      * [Jesse J. Holland (Associated Press)](./associated-press/jesse-j-holland/index.md) (3)
@@ -19,17 +20,22 @@
      * [Lynne O'Donnell (Associated Press)](./associated-press/lynne-o-donnell/index.md) (1)
      * [Mark Kennedy (Associated Press)](./associated-press/mark-kennedy/index.md) (2)
      * [Mesfin Fekadu (Associated Press)](./associated-press/mesfin-fekadu/index.md) (8)
-     * [Michael Tarm (Associated Press)](./associated-press/michael-tarm/index.md) (1)
+     * [Michael Tarm (Associated Press)](./associated-press/michael-tarm/index.md) (2)
      * [Nekesa Mumbi Moody (Associated Press)](./associated-press/nekesa-mumbi-moody/index.md) (6)
      * [Nicole Evatt (Associated Press)](./associated-press/nicole-evatt/index.md) (1)
      * [Pablo Gorondi (Associated Press)](./associated-press/pablo-gorondi/index.md) (5)
      * [Ryan Nakashima (Associated Press)](./associated-press/ryan-nakashima/index.md) (1)
-     * [Steve Karnowski (Associated Press)](./associated-press/steve-karnowski/index.md) (18)
+     * [Steve Karnowski (Associated Press)](./associated-press/steve-karnowski/index.md) (21)
 
 ----
 
   * [The Washington Times](./the-washington-times/index.md)
      * [Andrew Blake (The Washington Times)](./the-washington-times/andrew-blake/index.md) (1)
+
+----
+
+  * [USA Today](./usa-today/index.md)
+     * [Maria Puente (USA Today)](./usa-today/maria-puente/index.md) (1)
 
 ----
 
@@ -146,6 +152,7 @@
   * [Jessy Bains](./jessy-bains/index.md) (1)
   * [Jim Adams](./jim-adams/index.md) (1)
   * [Jim Souhan](./jim-souhan/index.md) (1)
+  * [Joe Coscarelli](./joe-coscarelli/index.md) (1)
   * [Joe Taysom](./joe-taysom/index.md) (2)
   * [John Ewoldt](./john-ewoldt/index.md) (1)
   * [John Reinan](./john-reinan/index.md) (3)
@@ -238,6 +245,7 @@
   * [Shannon Prather](./shannon-prather/index.md) (1)
   * [Sharyn Jackson](./sharyn-jackson/index.md) (4)
   * [Shawn Grant](./shawn-grant/index.md) (1)
+  * [Sheila M. Eldred](./sheila-m-eldred/index.md) (1)
   * [Sheila Regan](./sheila-regan/index.md) (1)
   * [Shirley Ju](./shirley-ju/index.md) (1)
   * [SPIN Staff](./spin-staff/index.md) (1)
@@ -250,7 +258,7 @@
   * [Steve Marsh](./steve-marsh/index.md) (3)
   * [Sue Campbell](./sue-campbell/index.md) (1)
   * [Suzanne Vega](./suzanne-vega/index.md) (1)
-  * [The Associated Press](./the-associated-press/index.md) (16)
+  * [The Associated Press](./the-associated-press/index.md) (23)
   * [The Wrap](./the-wrap/index.md) (2)
   * [TheWrap](./thewrap/index.md) (1)
   * [Thomas Maddrey](./thomas-maddrey/index.md) (1)

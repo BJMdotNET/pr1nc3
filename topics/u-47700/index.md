@@ -24,7 +24,7 @@
 
 ----
 
-## 2016 (2)
+## 2016 (3)
 
 ### 2016 November (1)
 
@@ -36,13 +36,23 @@
 
 ----
 
-### 2016 August (1)
+### 2016 August (2)
 
  - [**"Correction: Prince Death story"**](https://apnews.com/6ea0a330a6fa442990b24ec0c5153b27)
+    - by [The Associated Press](../../authors/the-associated-press/index.md)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 22 August 2016
     - about [Amy Conners](../../topics/amy-conners/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [opioid](../../topics/opioid/index.md), [oxycodone](../../topics/oxycodone/index.md), [U-47700](../../topics/u-47700/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/6ea0a330a6fa442990b24ec0c5153b27))
+
+<br />
+
+ - [**"Official: Pills found at Prince’s estate contained fentanyl"**](https://apnews.com/article/f2cb614f0e79404692d5582509874869)
+    - by [Amy Forliti (Associated Press)](../../authors/associated-press/amy-forliti/index.md)
+    - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
+    - on 22 August 2016
+    - about [Amy Conners](../../topics/amy-conners/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [opioid](../../topics/opioid/index.md), [oxycodone](../../topics/oxycodone/index.md), [U-47700](../../topics/u-47700/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/f2cb614f0e79404692d5582509874869))
 
 ----
 

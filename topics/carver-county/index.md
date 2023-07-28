@@ -110,7 +110,7 @@
 
 ----
 
-## 2018 (28)
+## 2018 (30)
 
 ### 2018 December (1)
 
@@ -153,7 +153,7 @@
 
 ----
 
-### 2018 April (21)
+### 2018 April (23)
 
  - [**"Investigation says Prince was isolated, addicted and in pain -- (AP Archive)"**](https://www.youtube.com/watch?v=iO7eX1j6n2E)
     - in [YouTube](../../publications/u-z/youtube/index.md)
@@ -240,6 +240,15 @@
 
 <br />
 
+ - [**"No criminal charges in Prince’s overdose death"**](https://apnews.com/article/music-prince-archive-minnesota-3f63f8bd2d1c4b6c92546cedf314971a)
+    - by [Joe Coscarelli](../../authors/joe-coscarelli/index.md), [Sheila M. Eldred](../../authors/sheila-m-eldred/index.md)
+    - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
+    - on 20 April 2018
+    - about [Amy Conners](../../topics/amy-conners/index.md), [Carver County](../../topics/carver-county/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Clayton Tyler](../../topics/clayton-tyler/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Mark Metz](../../topics/mark-metz/index.md), [Michael Schulenberg](../../topics/michael-schulenberg/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [toxicology report](../../topics/toxicology-report/index.md), [Vicodin](../../topics/vicodin/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/music-prince-archive-minnesota-3f63f8bd2d1c4b6c92546cedf314971a))
+
+<br />
+
  - [**"Prince's death: His laptop, diet, weight loss and distress highlight intriguing police docs"**](https://usatoday.com/story/life/2018/04/20/prince-death-his-body-laptop-diet-weight-distress-highlighted-police-docs/536626002/)
     - in [USA Today](../../publications/u-z/usa-today/index.md)
     - on 20 April 2018
@@ -256,10 +265,20 @@
 
 <br />
 
- - [**"The Latest: Doctor said Prince ‘doesn’t look really well’"**](https://apnews.com/acdea18b521b4b7d886de7b06c2d302a)
+ - [**"The Latest: Doctor said Prince ‘doesn’t look really well’"**](https://apnews.com/article/acdea18b521b4b7d886de7b06c2d302a)
+    - by [The Associated Press](../../authors/the-associated-press/index.md)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 20 April 2018
-    - about [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Mark Metz](../../topics/mark-metz/index.md), [Meron Bekure](../../topics/meron-bekure/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [opioid](../../topics/opioid/index.md), [oxycodone](../../topics/oxycodone/index.md), [Vicodin](../../topics/vicodin/index.md)
+    - about [Amy Conners](../../topics/amy-conners/index.md), [Carver County](../../topics/carver-county/index.md), [Clayton Tyler](../../topics/clayton-tyler/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Mark Metz](../../topics/mark-metz/index.md), [Meron Bekure](../../topics/meron-bekure/index.md), [Michael Schulenberg](../../topics/michael-schulenberg/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [opioid](../../topics/opioid/index.md), [oxycodone](../../topics/oxycodone/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Vicodin](../../topics/vicodin/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/acdea18b521b4b7d886de7b06c2d302a))
+
+<br />
+
+ - [**"The Latest: Doctor said Prince ‘doesn’t look really well’"**](https://apnews.com/acdea18b521b4b7d886de7b06c2d302a)
+    - by [The Associated Press](../../authors/the-associated-press/index.md)
+    - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
+    - on 20 April 2018
+    - about [Amy Conners](../../topics/amy-conners/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Mark Metz](../../topics/mark-metz/index.md), [Meron Bekure](../../topics/meron-bekure/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [opioid](../../topics/opioid/index.md), [oxycodone](../../topics/oxycodone/index.md), [Vicodin](../../topics/vicodin/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/acdea18b521b4b7d886de7b06c2d302a))
 
 <br />
@@ -355,7 +374,7 @@
 
 ----
 
-## 2017 (19)
+## 2017 (21)
 
 ### 2017 October (2)
 
@@ -416,7 +435,7 @@
 
 ----
 
-### 2017 April (7)
+### 2017 April (9)
 
  - [**"Prince Was Prescribed Opioids with Friend's Name -- (AP Archive)"**](https://www.youtube.com/watch?v=MulPSR7FWWA)
     - in [YouTube](../../publications/u-z/youtube/index.md)
@@ -427,6 +446,7 @@
 <br />
 
  - [**"A year after Prince's death, these questions remain unanswered"**](https://usatoday.com/story/life/music/2017/04/20/death-prince-one-year-later-what-do-we-know/100180398/)
+    - by [Maria Puente (USA Today)](../../authors/usa-today/maria-puente/index.md)
     - in [USA Today](../../publications/u-z/usa-today/index.md)
     - on 21 April 2017
     - about [Amy Conners](../../topics/amy-conners/index.md), [Apple Music](../../topics/apple-music/index.md), [bootleg](../../topics/bootleg/index.md), [Carver County](../../topics/carver-county/index.md), [Comerica](../../topics/comerica/index.md), [divorce](../../topics/divorce/index.md), [fentanyl](../../topics/fentanyl/index.md), [George Ian Boxill](../../topics/george-ian-boxill/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Kevin Eide](../../topics/kevin-eide/index.md), [Manuela Testolini](../../topics/manuela-testolini/index.md), [Mayte](../../topics/mayte/index.md), [Mayte Garcia](../../topics/mayte-garcia/index.md), [memoir](../../topics/memoir/index.md), [Michael Schulenberg](../../topics/michael-schulenberg/index.md), [museum](../../topics/museum/index.md), [Paisley Park Enterprises](../../topics/paisley-park-enterprises/index.md), [Patrick Cousins](../../topics/patrick-cousins/index.md), [probate court](../../topics/probate-court/index.md), [Spotify](../../topics/spotify/index.md), [Tidal](../../topics/tidal/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Universal Music Group](../../topics/universal-music-group/index.md), [vault](../../topics/vault/index.md)
@@ -434,10 +454,20 @@
 
 <br />
 
- - [**"Affidavit: Doc prescribed Prince opioids under friend’s name"**](https://apnews.com/af6ad628c59f4c7fb7351908c72f4c23)
+ - [**"Affidavit: Doc prescribed Prince opioids under friend’s name"**](https://apnews.com/article/af6ad628c59f4c7fb7351908c72f4c23)
+    - by [Amy Forliti (Associated Press)](../../authors/associated-press/amy-forliti/index.md)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 18 April 2017
-    - about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [opioid](../../topics/opioid/index.md), [oxycodone](../../topics/oxycodone/index.md)
+    - about [Amy Conners](../../topics/amy-conners/index.md), [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Carver County](../../topics/carver-county/index.md), [Carver County District Court](../../topics/carver-county-district-court/index.md), [Clayton Tyler](../../topics/clayton-tyler/index.md), [fentanyl](../../topics/fentanyl/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [opioid](../../topics/opioid/index.md), [oxycodone](../../topics/oxycodone/index.md), [Peter Bravestrong](../../topics/peter-bravestrong/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/af6ad628c59f4c7fb7351908c72f4c23))
+
+<br />
+
+ - [**"Affidavit: Doc prescribed Prince opioids under friend’s name"**](https://apnews.com/af6ad628c59f4c7fb7351908c72f4c23)
+    - by [Amy Forliti (Associated Press)](../../authors/associated-press/amy-forliti/index.md)
+    - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
+    - on 18 April 2017
+    - about [Amy Conners](../../topics/amy-conners/index.md), [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [opioid](../../topics/opioid/index.md), [oxycodone](../../topics/oxycodone/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/af6ad628c59f4c7fb7351908c72f4c23))
 
 <br />
@@ -448,6 +478,15 @@
     - on 18 April 2017
     - about [Bravado](../../topics/bravado/index.md), [Bremer Trust](../../topics/bremer-trust/index.md), [Carver County](../../topics/carver-county/index.md), [Charles Koppelman](../../topics/charles-koppelman/index.md), [Comerica](../../topics/comerica/index.md), [contract](../../topics/contract/index.md), [Graceland](../../topics/graceland/index.md), [Graceland Holdings](../../topics/graceland-holdings/index.md), [hologram](../../topics/hologram/index.md), [merchandise](../../topics/merchandise/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [museum](../../topics/museum/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Spotify](../../topics/spotify/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/the-floodgates-are-about-to-open-on-prince-s-career-after-death/419710153/))
+
+<br />
+
+ - [**"Prince search warrants lay bare struggle with opioids"**](https://apnews.com/a85735eef7fa4d4a98df48b9e154e8ab)
+    - by [Amy Forliti (Associated Press)](../../authors/associated-press/amy-forliti/index.md)
+    - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
+    - on 18 April 2017
+    - about [Amy Conners](../../topics/amy-conners/index.md), [Carver County](../../topics/carver-county/index.md), [Carver County District Court](../../topics/carver-county-district-court/index.md), [Clayton Tyler](../../topics/clayton-tyler/index.md), [fentanyl](../../topics/fentanyl/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [opioid](../../topics/opioid/index.md), [oxycodone](../../topics/oxycodone/index.md), [Peter Bravestrong](../../topics/peter-bravestrong/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://apnews.com/a85735eef7fa4d4a98df48b9e154e8ab))
 
 <br />
 
@@ -532,7 +571,7 @@
 
 ----
 
-## 2016 (60)
+## 2016 (62)
 
 ### 2016 December (1)
 
@@ -652,7 +691,7 @@
 
 ----
 
-### 2016 June (11)
+### 2016 June (13)
 
  - [**"Prince estate lawyers get deadline to weigh in on DNA tests"**](https://apnews.com/3000566d908b457fb4329be42fdf45d7)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
@@ -721,11 +760,30 @@
 
 <br />
 
+ - [**"News Guide: Prince died of overdose, but questions linger"**](https://apnews.com/general-news-arts-and-entertainment-music-e31c398f2bc142d2ae9a05023cebbe7d)
+    - by [Doug Glass (Associated Press)](../../authors/associated-press/doug-glass/index.md)
+    - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
+    - on 4 June 2016
+    - about [Amy Conners](../../topics/amy-conners/index.md), [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [opioid](../../topics/opioid/index.md), [probate court](../../topics/probate-court/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://apnews.com/general-news-arts-and-entertainment-music-e31c398f2bc142d2ae9a05023cebbe7d))
+
+<br />
+
  - [**"News Guide: Prince died of overdose, but questions linger"**](https://apnews.com/e31c398f2bc142d2ae9a05023cebbe7d)
+    - by [Doug Glass (Associated Press)](../../authors/associated-press/doug-glass/index.md)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 4 June 2016
     - about [Amy Conners](../../topics/amy-conners/index.md), [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [opioid](../../topics/opioid/index.md), [probate court](../../topics/probate-court/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [vault](../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/e31c398f2bc142d2ae9a05023cebbe7d))
+
+<br />
+
+ - [**"Finding overdose killed Prince just the beginning of probe"**](https://apnews.com/amp/2db1760078a14799a43dfd02bdab6b67)
+    - by [Amy Forliti (Associated Press)](../../authors/associated-press/amy-forliti/index.md), [Michael Tarm (Associated Press)](../../authors/associated-press/michael-tarm/index.md)
+    - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
+    - on 3 June 2016
+    - about [Amy Conners](../../topics/amy-conners/index.md), [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [opioid](../../topics/opioid/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://apnews.com/amp/2db1760078a14799a43dfd02bdab6b67))
 
 <br />
 
@@ -782,17 +840,19 @@
 <br />
 
  - [**"Warrant: Minnesota doctor saw Prince, prescribed drugs"**](https://apnews.com/21140409ac784faf88f88ce5c400bbe3)
+    - by [Amy Forliti (Associated Press)](../../authors/associated-press/amy-forliti/index.md), [Steve Karnowski (Associated Press)](../../authors/associated-press/steve-karnowski/index.md)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 11 May 2016
-    - about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [North Memorial Medical Center (place)](../../topics/place/north-memorial-medical-center/index.md), [opioid](../../topics/opioid/index.md)
+    - about [Amy Conners](../../topics/amy-conners/index.md), [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [North Memorial Medical Center (place)](../../topics/place/north-memorial-medical-center/index.md), [opioid](../../topics/opioid/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/21140409ac784faf88f88ce5c400bbe3))
 
 <br />
 
  - [**"Warrant: Minnesota doctor saw Prince, prescribed drugs"**](https://apnews.com/53b7f73993c649aebb7165d234092956)
+    - by [Amy Forliti (Associated Press)](../../authors/associated-press/amy-forliti/index.md), [Steve Karnowski (Associated Press)](../../authors/associated-press/steve-karnowski/index.md)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 11 May 2016
-    - about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [North Memorial Medical Center (place)](../../topics/place/north-memorial-medical-center/index.md), [opioid](../../topics/opioid/index.md)
+    - about [Amy Conners](../../topics/amy-conners/index.md), [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [North Memorial Medical Center (place)](../../topics/place/north-memorial-medical-center/index.md), [opioid](../../topics/opioid/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/53b7f73993c649aebb7165d234092956))
 
 <br />

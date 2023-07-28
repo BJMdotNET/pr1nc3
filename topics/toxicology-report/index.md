@@ -1,8 +1,8 @@
 # toxicology report
 
-## 2018 (7)
+## 2018 (8)
 
-### 2018 April (3)
+### 2018 April (4)
 
  - [**"Files show rising alarm in Prince’s circle as health failed"**](https://apnews.com/01ab0aaba1ab4e719af50e79319afdfb)
     - by [Amy Forliti (Associated Press)](../../authors/associated-press/amy-forliti/index.md)
@@ -10,6 +10,15 @@
     - on 20 April 2018
     - about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Mark Metz](../../topics/mark-metz/index.md), [Meron Bekure](../../topics/meron-bekure/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [opioid](../../topics/opioid/index.md), [oxycodone](../../topics/oxycodone/index.md), [toxicology report](../../topics/toxicology-report/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/01ab0aaba1ab4e719af50e79319afdfb))
+
+<br />
+
+ - [**"No criminal charges in Prince’s overdose death"**](https://apnews.com/article/music-prince-archive-minnesota-3f63f8bd2d1c4b6c92546cedf314971a)
+    - by [Joe Coscarelli](../../authors/joe-coscarelli/index.md), [Sheila M. Eldred](../../authors/sheila-m-eldred/index.md)
+    - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
+    - on 20 April 2018
+    - about [Amy Conners](../../topics/amy-conners/index.md), [Carver County](../../topics/carver-county/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [Clayton Tyler](../../topics/clayton-tyler/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Mark Metz](../../topics/mark-metz/index.md), [Michael Schulenberg](../../topics/michael-schulenberg/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [toxicology report](../../topics/toxicology-report/index.md), [Vicodin](../../topics/vicodin/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/music-prince-archive-minnesota-3f63f8bd2d1c4b6c92546cedf314971a))
 
 <br />
 

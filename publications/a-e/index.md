@@ -19,7 +19,7 @@
   * [artnet news](./artnet-news/index.md) (4)
   * [asbarez.com](./asbarez-com/index.md) (1)
   * [ASMP -- American Society of Media Photographers](./asmp-american-society-of-media-photographers/index.md) (1)
-  * [Associated Press News](./associated-press-news/index.md) (392)
+  * [Associated Press News](./associated-press-news/index.md) (403)
   * [The Athletic](./the-athletic/index.md) (1)
   * [Atlanta Black Star](./atlanta-black-star/index.md) (1)
   * [atwoodmagazine.com](./atwoodmagazine-com/index.md) (1)

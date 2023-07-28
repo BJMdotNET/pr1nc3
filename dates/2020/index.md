@@ -585,6 +585,7 @@
 ----
 
  - [**"Prince doctor to pay $4K civil penalty for painkiller prescription"**](https://www.twincities.com/2020/02/03/prince-doctor-to-pay-4k-civil-penalty-for-painkiller-prescription/)
+    - by [The Associated Press](../../authors/the-associated-press/index.md)
     - in [TwinCities.com - Pioneer Press](../../publications/p-t/twincities-com-pioneer-press/index.md)
     - on 3 February 2020
     - about [Amy Conners](../../topics/amy-conners/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [lawsuit](../../topics/lawsuit/index.md), [Michael Schulenberg](../../topics/michael-schulenberg/index.md), [oxycodone](../../topics/oxycodone/index.md)
@@ -593,6 +594,7 @@
 ----
 
  - [**"Prince doctor to pay $4K civil penalty for prescription"**](https://www.yahoo.com/entertainment/prince-doctor-pay-4k-civil-224903514.html)
+    - by [The Associated Press](../../authors/the-associated-press/index.md)
     - in [Yahoo! Entertainment](../../publications/u-z/yahoo-entertainment/index.md)
     - on 3 February 2020
     - about [Amy Conners](../../topics/amy-conners/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [lawsuit](../../topics/lawsuit/index.md), [Michael Schulenberg](../../topics/michael-schulenberg/index.md), [oxycodone](../../topics/oxycodone/index.md)
@@ -601,6 +603,7 @@
 ----
 
  - [**"Prince doctor to pay $4K civil penalty for prescription"**](https://apnews.com/58492fc402a996c118253c33f6fd5703)
+    - by [The Associated Press](../../authors/the-associated-press/index.md)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 3 February 2020
     - about [Amy Conners](../../topics/amy-conners/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [lawsuit](../../topics/lawsuit/index.md), [Michael Schulenberg](../../topics/michael-schulenberg/index.md), [opioid](../../topics/opioid/index.md), [oxycodone](../../topics/oxycodone/index.md)

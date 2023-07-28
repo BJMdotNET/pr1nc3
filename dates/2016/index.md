@@ -732,7 +732,7 @@
 
 ----
 
-## August 2016 (37)
+## August 2016 (38)
 
  - [**"Musicians close to Prince reportedly in the mix for tribute"**](https://apnews.com/5c33d9f6e9654074898b04452f17c598)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
@@ -817,6 +817,7 @@
 ----
 
  - [**"Correction: Prince Death story"**](https://apnews.com/6ea0a330a6fa442990b24ec0c5153b27)
+    - by [The Associated Press](../../authors/the-associated-press/index.md)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 22 August 2016
     - about [Amy Conners](../../topics/amy-conners/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [opioid](../../topics/opioid/index.md), [oxycodone](../../topics/oxycodone/index.md), [U-47700](../../topics/u-47700/index.md)
@@ -824,10 +825,20 @@
 
 ----
 
- - [**"Official: Pills found at Prince’s estate contained fentanyl"**](https://apnews.com/f2cb614f0e79404692d5582509874869)
+ - [**"Official: Pills found at Prince’s estate contained fentanyl"**](https://apnews.com/article/f2cb614f0e79404692d5582509874869)
+    - by [Amy Forliti (Associated Press)](../../authors/associated-press/amy-forliti/index.md)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 22 August 2016
-    - about [Atlanta (place)](../../topics/place/atlanta/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [opioid](../../topics/opioid/index.md), [oxycodone](../../topics/oxycodone/index.md)
+    - about [Amy Conners](../../topics/amy-conners/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [opioid](../../topics/opioid/index.md), [oxycodone](../../topics/oxycodone/index.md), [U-47700](../../topics/u-47700/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/f2cb614f0e79404692d5582509874869))
+
+----
+
+ - [**"Official: Pills found at Prince’s estate contained fentanyl"**](https://apnews.com/f2cb614f0e79404692d5582509874869)
+    - by [Amy Forliti (Associated Press)](../../authors/associated-press/amy-forliti/index.md)
+    - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
+    - on 22 August 2016
+    - about [Amy Conners](../../topics/amy-conners/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [opioid](../../topics/opioid/index.md), [oxycodone](../../topics/oxycodone/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/f2cb614f0e79404692d5582509874869))
 
 ----
@@ -1285,7 +1296,7 @@
 
 ----
 
-## June 2016 (76)
+## June 2016 (80)
 
  - [**"Bloomington guitar-maker's link to Prince passes to Colts owner -- Jim Irsay, owner of the Indianapolis Colts, collects famous guitars. Last week, he paid $137,500 in an auction to buy a guitar that at least looks a lot like the yellow version of Prince's "Cloud" guitar."**](https://www.startribune.com/bloomington-guitar-maker-s-link-to-prince-passes-to-colts-owner/385127861/)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
@@ -1604,6 +1615,24 @@
 
 ----
 
+ - [**"Cuando estrellas buscan médico, sube riesgo de Síndrome VIP"**](https://apnews.com/7731bcd9f8954bfdac1392bf379d1ccb)
+    - by [Carla K. Johnson (Associated Press)](../../authors/associated-press/carla-k-johnson/index.md)
+    - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
+    - on 12 June 2016
+    - about [Amy Conners](../../topics/amy-conners/index.md), [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Recovery Without Walls](../../topics/recovery-without-walls/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://apnews.com/7731bcd9f8954bfdac1392bf379d1ccb))
+
+----
+
+ - [**"When stars seek medical care, risk of ‘VIP Syndrome’ looms"**](https://apnews.com/2fd92c41a7544d87a6aa270bee5b9309/when-stars-seek-medical-care-risk-vip-syndrome-looms)
+    - by [Carla K. Johnson (Associated Press)](../../authors/associated-press/carla-k-johnson/index.md)
+    - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
+    - on 12 June 2016
+    - about [Amy Conners](../../topics/amy-conners/index.md), [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [opioid](../../topics/opioid/index.md), [Recovery Without Walls](../../topics/recovery-without-walls/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://apnews.com/2fd92c41a7544d87a6aa270bee5b9309/when-stars-seek-medical-care-risk-vip-syndrome-looms))
+
+----
+
  - [**"When stars seek medical care, risk of 'VIP Syndrome' looms -- Authorities have not said whether Prince had a prescription for the fentanyl and, if not, how he obtained it."**](https://www.startribune.com/when-stars-seek-medical-care-risk-of-vip-syndrome-looms/382570941/)
     - by [Carla K. Johnson (Associated Press)](../../authors/associated-press/carla-k-johnson/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
@@ -1732,7 +1761,17 @@
 
 ----
 
+ - [**"News Guide: Prince died of overdose, but questions linger"**](https://apnews.com/general-news-arts-and-entertainment-music-e31c398f2bc142d2ae9a05023cebbe7d)
+    - by [Doug Glass (Associated Press)](../../authors/associated-press/doug-glass/index.md)
+    - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
+    - on 4 June 2016
+    - about [Amy Conners](../../topics/amy-conners/index.md), [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [opioid](../../topics/opioid/index.md), [probate court](../../topics/probate-court/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://apnews.com/general-news-arts-and-entertainment-music-e31c398f2bc142d2ae9a05023cebbe7d))
+
+----
+
  - [**"News Guide: Prince died of overdose, but questions linger"**](https://apnews.com/e31c398f2bc142d2ae9a05023cebbe7d)
+    - by [Doug Glass (Associated Press)](../../authors/associated-press/doug-glass/index.md)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 4 June 2016
     - about [Amy Conners](../../topics/amy-conners/index.md), [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Kirk Johnson](../../topics/kirk-johnson/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [opioid](../../topics/opioid/index.md), [probate court](../../topics/probate-court/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [vault](../../topics/vault/index.md)
@@ -1778,6 +1817,15 @@
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 3 June 2016
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/finding-overdose-killed-prince-just-the-beginning-of-probe/381743311/))
+
+----
+
+ - [**"Finding overdose killed Prince just the beginning of probe"**](https://apnews.com/amp/2db1760078a14799a43dfd02bdab6b67)
+    - by [Amy Forliti (Associated Press)](../../authors/associated-press/amy-forliti/index.md), [Michael Tarm (Associated Press)](../../authors/associated-press/michael-tarm/index.md)
+    - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
+    - on 3 June 2016
+    - about [Amy Conners](../../topics/amy-conners/index.md), [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Carver County](../../topics/carver-county/index.md), [fentanyl](../../topics/fentanyl/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [opioid](../../topics/opioid/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://apnews.com/amp/2db1760078a14799a43dfd02bdab6b67))
 
 ----
 
@@ -2234,9 +2282,10 @@
 ----
 
  - [**"Un médico vio a Prince y recetó fármacos, según documentos"**](https://apnews.com/article/archive-a2ac92f8fe6c4aaf991dfbcde3b83d04)
+    - by [Amy Forliti (Associated Press)](../../authors/associated-press/amy-forliti/index.md), [Steve Karnowski (Associated Press)](../../authors/associated-press/steve-karnowski/index.md)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 11 May 2016
-    - about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [opioid](../../topics/opioid/index.md)
+    - about [Amy Conners](../../topics/amy-conners/index.md), [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [opioid](../../topics/opioid/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/archive-a2ac92f8fe6c4aaf991dfbcde3b83d04))
 
 ----
@@ -2249,17 +2298,19 @@
 ----
 
  - [**"Warrant: Minnesota doctor saw Prince, prescribed drugs"**](https://apnews.com/21140409ac784faf88f88ce5c400bbe3)
+    - by [Amy Forliti (Associated Press)](../../authors/associated-press/amy-forliti/index.md), [Steve Karnowski (Associated Press)](../../authors/associated-press/steve-karnowski/index.md)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 11 May 2016
-    - about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [North Memorial Medical Center (place)](../../topics/place/north-memorial-medical-center/index.md), [opioid](../../topics/opioid/index.md)
+    - about [Amy Conners](../../topics/amy-conners/index.md), [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [North Memorial Medical Center (place)](../../topics/place/north-memorial-medical-center/index.md), [opioid](../../topics/opioid/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/21140409ac784faf88f88ce5c400bbe3))
 
 ----
 
  - [**"Warrant: Minnesota doctor saw Prince, prescribed drugs"**](https://apnews.com/53b7f73993c649aebb7165d234092956)
+    - by [Amy Forliti (Associated Press)](../../authors/associated-press/amy-forliti/index.md), [Steve Karnowski (Associated Press)](../../authors/associated-press/steve-karnowski/index.md)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 11 May 2016
-    - about [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [North Memorial Medical Center (place)](../../topics/place/north-memorial-medical-center/index.md), [opioid](../../topics/opioid/index.md)
+    - about [Amy Conners](../../topics/amy-conners/index.md), [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Atlanta (place)](../../topics/place/atlanta/index.md), [Carver County](../../topics/carver-county/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../topics/place/moline-illinois/index.md), [North Memorial Medical Center (place)](../../topics/place/north-memorial-medical-center/index.md), [opioid](../../topics/opioid/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/53b7f73993c649aebb7165d234092956))
 
 ----

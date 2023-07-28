@@ -662,7 +662,7 @@
 
 ----
 
-## 2016 (35)
+## 2016 (37)
 
 ### 2016 December (3)
 
@@ -735,7 +735,25 @@
 
 ----
 
-### 2016 June (4)
+### 2016 June (6)
+
+ - [**"Cuando estrellas buscan médico, sube riesgo de Síndrome VIP"**](https://apnews.com/7731bcd9f8954bfdac1392bf379d1ccb)
+    - by [Carla K. Johnson (Associated Press)](../../authors/associated-press/carla-k-johnson/index.md)
+    - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
+    - on 12 June 2016
+    - about [Amy Conners](../../topics/amy-conners/index.md), [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [Recovery Without Walls](../../topics/recovery-without-walls/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://apnews.com/7731bcd9f8954bfdac1392bf379d1ccb))
+
+<br />
+
+ - [**"When stars seek medical care, risk of ‘VIP Syndrome’ looms"**](https://apnews.com/2fd92c41a7544d87a6aa270bee5b9309/when-stars-seek-medical-care-risk-vip-syndrome-looms)
+    - by [Carla K. Johnson (Associated Press)](../../authors/associated-press/carla-k-johnson/index.md)
+    - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
+    - on 12 June 2016
+    - about [Amy Conners](../../topics/amy-conners/index.md), [Andrew Kornfeld](../../topics/andrew-kornfeld/index.md), [fentanyl](../../topics/fentanyl/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [Howard Kornfeld](../../topics/howard-kornfeld/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Michael Todd Schulenberg](../../topics/michael-todd-schulenberg/index.md), [opioid](../../topics/opioid/index.md), [Recovery Without Walls](../../topics/recovery-without-walls/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://apnews.com/2fd92c41a7544d87a6aa270bee5b9309/when-stars-seek-medical-care-risk-vip-syndrome-looms))
+
+<br />
 
  - [**"A Prince wish, Paisley Park eyed for museum like Graceland"**](https://apnews.com/e126f8cb38574b21b3cf0f5dd0843873)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)

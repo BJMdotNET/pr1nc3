@@ -91,7 +91,7 @@
 
 ----
 
-## 2016 (10)
+## 2016 (13)
 
 ### 2016 September (1)
 
@@ -161,7 +161,34 @@
 
 ----
 
-### 2016 May (3)
+### 2016 May (6)
+
+ - [**"Un médico vio a Prince y recetó fármacos, según documentos"**](https://apnews.com/article/archive-a2ac92f8fe6c4aaf991dfbcde3b83d04)
+    - by [Amy Forliti (Associated Press)](../../../authors/associated-press/amy-forliti/index.md), [Steve Karnowski (Associated Press)](../../../authors/associated-press/steve-karnowski/index.md)
+    - in [Associated Press News](../../../publications/a-e/associated-press-news/index.md)
+    - on 11 May 2016
+    - about [Amy Conners](../../../topics/amy-conners/index.md), [Andrew Kornfeld](../../../topics/andrew-kornfeld/index.md), [Howard Kornfeld](../../../topics/howard-kornfeld/index.md), [Michael Todd Schulenberg](../../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../../topics/place/moline-illinois/index.md), [opioid](../../../topics/opioid/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/archive-a2ac92f8fe6c4aaf991dfbcde3b83d04))
+
+<br />
+
+ - [**"Warrant: Minnesota doctor saw Prince, prescribed drugs"**](https://apnews.com/21140409ac784faf88f88ce5c400bbe3)
+    - by [Amy Forliti (Associated Press)](../../../authors/associated-press/amy-forliti/index.md), [Steve Karnowski (Associated Press)](../../../authors/associated-press/steve-karnowski/index.md)
+    - in [Associated Press News](../../../publications/a-e/associated-press-news/index.md)
+    - on 11 May 2016
+    - about [Amy Conners](../../../topics/amy-conners/index.md), [Andrew Kornfeld](../../../topics/andrew-kornfeld/index.md), [Atlanta (place)](../../../topics/place/atlanta/index.md), [Carver County](../../../topics/carver-county/index.md), [Howard Kornfeld](../../../topics/howard-kornfeld/index.md), [Illinois (place)](../../../topics/place/illinois/index.md), [Michael Todd Schulenberg](../../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../../topics/place/moline-illinois/index.md), [North Memorial Medical Center (place)](../../../topics/place/north-memorial-medical-center/index.md), [opioid](../../../topics/opioid/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://apnews.com/21140409ac784faf88f88ce5c400bbe3))
+
+<br />
+
+ - [**"Warrant: Minnesota doctor saw Prince, prescribed drugs"**](https://apnews.com/53b7f73993c649aebb7165d234092956)
+    - by [Amy Forliti (Associated Press)](../../../authors/associated-press/amy-forliti/index.md), [Steve Karnowski (Associated Press)](../../../authors/associated-press/steve-karnowski/index.md)
+    - in [Associated Press News](../../../publications/a-e/associated-press-news/index.md)
+    - on 11 May 2016
+    - about [Amy Conners](../../../topics/amy-conners/index.md), [Andrew Kornfeld](../../../topics/andrew-kornfeld/index.md), [Atlanta (place)](../../../topics/place/atlanta/index.md), [Carver County](../../../topics/carver-county/index.md), [Howard Kornfeld](../../../topics/howard-kornfeld/index.md), [Illinois (place)](../../../topics/place/illinois/index.md), [Michael Todd Schulenberg](../../../topics/michael-todd-schulenberg/index.md), [Moline, Illinois (place)](../../../topics/place/moline-illinois/index.md), [North Memorial Medical Center (place)](../../../topics/place/north-memorial-medical-center/index.md), [opioid](../../../topics/opioid/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://apnews.com/53b7f73993c649aebb7165d234092956))
+
+<br />
 
  - [**"Colorado inmate claims Prince is his father, seeks DNA test"**](https://apnews.com/13fdcc29391d427bab6b4b5584316da8)
     - by [Steve Karnowski (Associated Press)](../../../authors/associated-press/steve-karnowski/index.md)
