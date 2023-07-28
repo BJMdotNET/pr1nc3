@@ -2,8 +2,13 @@
 
 ## Links by year
 
-  * [2020](./hot-press-2020.md) (1)
+  * [2023](./hot-press-2023.md) (4)
+  * [2022](./hot-press-2022.md) (2)
+  * [2021](./hot-press-2021.md) (2)
+  * [2020](./hot-press-2020.md) (2)
   * [2019](./hot-press-2019.md) (1)
+  * [2016](./hot-press-2016.md) (2)
+  * [2011](./hot-press-2011.md) (1)
   * [2001](./hot-press-2001.md) (1)
 
 ## Homepage

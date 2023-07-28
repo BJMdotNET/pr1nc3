@@ -178,7 +178,7 @@ Friends, colleagues and political heavyweights packed Wednesday's service for th
  - [**"Ask twice for the skinny on Erica Kane -- Susan Lucci is apparently no Erica Kane."**](https://www.startribune.com/ask-twice-for-the-skinny-on-erica-kane/119223954/)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 6 April 2011
-    - about [Mall of America (place)](../../../topics/place/mall-of-america/index.md), [Symbolina](../../../topics/symbolina/index.md)
+    - about [Mall of America (place)](../../../topics/place/mall-of-america/index.md), [memoir](../../../topics/memoir/index.md), [Symbolina](../../../topics/symbolina/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/ask-twice-for-the-skinny-on-erica-kane/119223954/))
 
 ----

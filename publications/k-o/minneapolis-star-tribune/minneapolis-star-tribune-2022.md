@@ -42,6 +42,7 @@
     - by [Chris Riemenschneider](../../../authors/chris-riemenschneider/index.md), [Jon Bream](../../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 2 November 2022
+    - about [memoir](../../../topics/memoir/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/10-concerts-to-see-in-twin-cities-this-week-smashing-pumpkins-keith-urban-pentatonix-tegan-and-sara/600221249/))
 
 ----

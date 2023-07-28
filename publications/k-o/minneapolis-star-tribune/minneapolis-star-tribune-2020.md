@@ -6,7 +6,7 @@
     - by [Chris Riemenschneider](../../../authors/chris-riemenschneider/index.md), [Jon Bream](../../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 29 November 2020
-    - about [Morris Day](../../../topics/morris-day/index.md)
+    - about [memoir](../../../topics/memoir/index.md), [Morris Day](../../../topics/morris-day/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/15-holiday-gifts-for-music-lovers-from-taylor-swift-bob-dylan-and-more/573215411/))
 
 ----
@@ -42,6 +42,7 @@
     - by [Jon Bream](../../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 10 September 2020
+    - about [memoir](../../../topics/memoir/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/bassist-brownmark-s-life-with-prince-the-revolution-detailed-in-new-memoir/572371802/))
 
 ----
@@ -92,7 +93,7 @@
     - by [Jon Bream](../../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 18 May 2020
-    - about [Morris Day](../../../topics/morris-day/index.md)
+    - about [memoir](../../../topics/memoir/index.md), [Morris Day](../../../topics/morris-day/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/here-comes-another-purple-memoir-from-prince-bassist-brownmark/570565402/))
 
 ----

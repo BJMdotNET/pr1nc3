@@ -51,7 +51,7 @@
  - [**"‘Crown,’ ‘Interview With the Vampire’ among TV highlights"**](https://apnews.com/article/fall-television-shows-to-watch-the-crown-andor-2649cc250edba973bc68e92f2dc4d917)
     - in [Associated Press News](../../../publications/a-e/associated-press-news/index.md)
     - on 29 September 2022
-    - about [Morris Day](../../../topics/morris-day/index.md)
+    - about [memoir](../../../topics/memoir/index.md), [Morris Day](../../../topics/morris-day/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/fall-television-shows-to-watch-the-crown-andor-2649cc250edba973bc68e92f2dc4d917))
 
 ----

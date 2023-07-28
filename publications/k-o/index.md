@@ -18,6 +18,7 @@
   * [lexology.com](./lexology-com/index.md) (1)
   * [lightstalking.com](./lightstalking-com/index.md) (1)
   * [linternaute.com](./linternaute-com/index.md) (1)
+  * [The List](./the-list/index.md) (1)
   * [littlethings.com](./littlethings-com/index.md) (1)
   * [liveforlivemusic.com](./liveforlivemusic-com/index.md) (2)
   * [Long Live Vinyl](./long-live-vinyl/index.md) (1)

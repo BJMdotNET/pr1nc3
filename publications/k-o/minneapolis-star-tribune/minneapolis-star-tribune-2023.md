@@ -131,6 +131,7 @@
     - by [Jon Bream](../../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 23 May 2023
+    - about [memoir](../../../topics/memoir/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/rickie-lee-jones-prince-joni-mitchell-russ-titelman-bette-midler-jazz-standards-new-orleans/600277047/))
 
 ----
@@ -293,6 +294,7 @@
     - by [Jon Bream](../../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 5 February 2023
+    - about [memoir](../../../topics/memoir/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/beyonce-makes-grammy-history-in-a-night-of-electrifying-performances-harry-styles-lizzo-prince/600249371/))
 
 ----

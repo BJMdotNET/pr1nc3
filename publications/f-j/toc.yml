@@ -89,15 +89,12 @@ items:
 - name: iheart.com
   href: iheart-com/index.md
   homepage: iheart-com/index.md
-- name: independent.co.uk
-  href: independent-co-uk/index.md
-  homepage: independent-co-uk/index.md
-- name: independent.ie
+- name: Independent
+  href: independent/index.md
+  homepage: independent/index.md
+- name: Independent.ie
   href: independent-ie/index.md
   homepage: independent-ie/index.md
-- name: inquirer.com
-  href: inquirer-com/index.md
-  homepage: inquirer-com/index.md
 - name: insidehook.com
   href: insidehook-com/index.md
   homepage: insidehook-com/index.md
@@ -107,12 +104,9 @@ items:
 - name: Interview Magazine
   href: interview-magazine/index.md
   homepage: interview-magazine/index.md
-- name: irishexaminer.com
-  href: irishexaminer-com/index.md
-  homepage: irishexaminer-com/index.md
-- name: irishtimes.com
-  href: irishtimes-com/index.md
-  homepage: irishtimes-com/index.md
+- name: Irish Examiner
+  href: irish-examiner/index.md
+  homepage: irish-examiner/index.md
 - name: Jambase
   href: jambase/index.md
   homepage: jambase/index.md
@@ -140,3 +134,6 @@ items:
 - name: The Houston Chronicle at Chron.com
   href: the-houston-chronicle-at-chron-com/index.md
   homepage: the-houston-chronicle-at-chron-com/index.md
+- name: The Irish Times
+  href: the-irish-times/index.md
+  homepage: the-irish-times/index.md

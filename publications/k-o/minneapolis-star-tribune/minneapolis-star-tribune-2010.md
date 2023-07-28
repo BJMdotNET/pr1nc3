@@ -103,7 +103,7 @@
  - [**"Cheryl Tiegs: There&#039;s no &#039;Love Story&#039; with Ryan O&#039;Neal -- Cheryl Tiegs is NOT dating Ryan O'Neal, even though the alleged romance is all over the Web."**](https://www.startribune.com/cheryl-tiegs-there-s-no-love-story-with-ryan-o-neal/95694644/)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 6 June 2010
-    - about [Oprah (TV show)](../../../topics/tv-show/oprah/index.md), [Symbolina](../../../topics/symbolina/index.md)
+    - about [memoir](../../../topics/memoir/index.md), [Oprah (TV show)](../../../topics/tv-show/oprah/index.md), [Symbolina](../../../topics/symbolina/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/cheryl-tiegs-there-s-no-love-story-with-ryan-o-neal/95694644/))
 
 ----

@@ -253,6 +253,7 @@
     - by [Jon Bream](../../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 6 April 2021
+    - about [memoir](../../../topics/memoir/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/it-s-a-great-adventure-story-says-singer-rickie-lee-jones-of-her-new-memoir/600042454/))
 
 ----

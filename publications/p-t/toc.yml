@@ -47,6 +47,9 @@ items:
 - name: Publishers Weekly
   href: publishers-weekly/index.md
   homepage: publishers-weekly/index.md
+- name: Pure Charts by Charts in France
+  href: pure-charts-by-charts-in-france/index.md
+  homepage: pure-charts-by-charts-in-france/index.md
 - name: Radar Online
   href: radar-online/index.md
   homepage: radar-online/index.md
@@ -212,6 +215,9 @@ items:
 - name: thatericalper.com
   href: thatericalper-com/index.md
   homepage: thatericalper-com/index.md
+- name: The Philadelphia Inquirer
+  href: the-philadelphia-inquirer/index.md
+  homepage: the-philadelphia-inquirer/index.md
 - name: The Quietus
   href: the-quietus/index.md
   homepage: the-quietus/index.md
@@ -242,9 +248,6 @@ items:
 - name: theblast.com
   href: theblast-com/index.md
   homepage: theblast-com/index.md
-- name: thedailybeast.com
-  href: thedailybeast-com/index.md
-  homepage: thedailybeast-com/index.md
 - name: thegrio.com
   href: thegrio-com/index.md
   homepage: thegrio-com/index.md

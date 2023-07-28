@@ -67,6 +67,8 @@
   * [Cuepoint](./cuepoint/index.md) (2)
   * [The Current](./the-current/index.md) (36)
   * [The Current - Local Current Blog](./the-current-local-current-blog/index.md) (25)
+  * [The Daily Beast](./the-daily-beast/index.md) (1)
+  * [Daily Mail](./daily-mail/index.md) (1)
   * [Datebook - San Francisco Arts & Entertainment Guide](./datebook-san-francisco-arts-entertainment-guide/index.md) (4)
   * [De Morgen](./de-morgen/index.md) (2)
   * [De Tijd](./de-tijd/index.md) (1)

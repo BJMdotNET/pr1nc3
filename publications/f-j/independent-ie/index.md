@@ -1,4 +1,4 @@
-# independent.ie
+# Independent.ie
 
 ## Links by year
 

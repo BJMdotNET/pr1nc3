@@ -96,7 +96,7 @@
     - by [Chris Riemenschneider](../../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 21 October 2016
-    - about [museum](../../../topics/museum/index.md)
+    - about [memoir](../../../topics/memoir/index.md), [museum](../../../topics/museum/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/what-should-prince-s-estate-do-to-keep-his-music-alive/397828981/))
 
 ----
@@ -1685,7 +1685,7 @@
     - by [Jon Bream](../../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 24 April 2016
-    - about [Morris Day](../../../topics/morris-day/index.md), [Morris Day and The Time](../../../topics/morris-day-and-the-time/index.md)
+    - about [memoir](../../../topics/memoir/index.md), [Morris Day](../../../topics/morris-day/index.md), [Morris Day and The Time](../../../topics/morris-day-and-the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/until-the-end-an-enigmaflashes-of-frailty-stand-out-in-prince-s-vibrant-final-months/376860181/))
 
 ----
@@ -1783,7 +1783,7 @@
     - by [Chris Riemenschneider](../../../authors/chris-riemenschneider/index.md), [Pam Louwagie](../../../authors/pam-louwagie/index.md)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 22 April 2016
-    - about [Super Bowl](../../../topics/super-bowl/index.md)
+    - about [memoir](../../../topics/memoir/index.md), [Super Bowl](../../../topics/super-bowl/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/authorities-investigating-death-at-prince-s-paisley-park/376578441/))
 
 ----

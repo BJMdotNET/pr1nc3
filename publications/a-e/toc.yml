@@ -179,6 +179,9 @@ items:
 - name: Cuepoint
   href: cuepoint/index.md
   homepage: cuepoint/index.md
+- name: Daily Mail
+  href: daily-mail/index.md
+  homepage: daily-mail/index.md
 - name: Datebook - San Francisco Arts & Entertainment Guide
   href: datebook-san-francisco-arts-entertainment-guide/index.md
   homepage: datebook-san-francisco-arts-entertainment-guide/index.md
@@ -284,3 +287,6 @@ items:
 - name: The Current - Local Current Blog
   href: the-current-local-current-blog/index.md
   homepage: the-current-local-current-blog/index.md
+- name: The Daily Beast
+  href: the-daily-beast/index.md
+  homepage: the-daily-beast/index.md

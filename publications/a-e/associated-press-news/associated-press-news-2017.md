@@ -304,7 +304,7 @@
  - [**"Mayte Garcia on the Prince you didn’t know"**](https://apnews.com/a4115faebefc463a8aad4433e14f5d2b)
     - in [Associated Press News](../../../publications/a-e/associated-press-news/index.md)
     - on 19 April 2017
-    - about [Amiir](../../../topics/amiir/index.md), [Mayte](../../../topics/mayte/index.md), [Mayte Garcia](../../../topics/mayte-garcia/index.md), [The Most Beautiful (book)](../../../topics/book/the-most-beautiful/index.md)
+    - about [Amiir](../../../topics/amiir/index.md), [Mayte](../../../topics/mayte/index.md), [Mayte Garcia](../../../topics/mayte-garcia/index.md), [memoir](../../../topics/memoir/index.md), [The Most Beautiful (book)](../../../topics/book/the-most-beautiful/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/a4115faebefc463a8aad4433e14f5d2b))
 
 ----
@@ -403,7 +403,7 @@
  - [**"Mayte Garcia reflects on life with Prince"**](https://apnews.com/5a81cc1b557141e4b9cbdd3bbbf4a40d)
     - in [Associated Press News](../../../publications/a-e/associated-press-news/index.md)
     - on 10 April 2017
-    - about [Mayte](../../../topics/mayte/index.md), [Mayte Garcia](../../../topics/mayte-garcia/index.md)
+    - about [Mayte](../../../topics/mayte/index.md), [Mayte Garcia](../../../topics/mayte-garcia/index.md), [memoir](../../../topics/memoir/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/5a81cc1b557141e4b9cbdd3bbbf4a40d))
 
 ----

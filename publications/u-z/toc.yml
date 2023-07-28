@@ -92,6 +92,9 @@ items:
 - name: WebWire
   href: webwire/index.md
   homepage: webwire/index.md
+- name: Welcome to Hell World
+  href: welcome-to-hell-world/index.md
+  homepage: welcome-to-hell-world/index.md
 - name: WePresent
   href: wepresent/index.md
   homepage: wepresent/index.md
@@ -104,18 +107,9 @@ items:
 - name: www.abc.net.au
   href: www-abc-net-au/index.md
   homepage: www-abc-net-au/index.md
-- name: www.chartsinfrance.net
-  href: www-chartsinfrance-net/index.md
-  homepage: www-chartsinfrance-net/index.md
-- name: www.dailymail.co.uk
-  href: www-dailymail-co-uk/index.md
-  homepage: www-dailymail-co-uk/index.md
 - name: www.ign.com
   href: www-ign-com/index.md
   homepage: www-ign-com/index.md
-- name: www.thelist.com
-  href: www-thelist-com/index.md
-  homepage: www-thelist-com/index.md
 - name: Yahoo! Entertainment
   href: yahoo-entertainment/index.md
   homepage: yahoo-entertainment/index.md
