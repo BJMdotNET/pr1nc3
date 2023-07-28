@@ -349,7 +349,7 @@
 
 ----
 
-## June 2021 (5)
+## June 2021 (6)
 
  - [**"Purple Rain: How Prince Stormed His Way To Superstardom -- Creating the zeitgeist, Prince’s ‘Purple Rain’ era raised the bars for music, cinema and live performance. No one has come close since."**](https://www.thisisdig.com/feature/prince-purple-rain-album/)
     - by [Jason Draper](../../authors/jason-draper/index.md)
@@ -357,6 +357,14 @@
     - on 25 June 2021
     - about [Alan Leeds](../../topics/alan-leeds/index.md), [Albert Magnoli](../../topics/albert-magnoli/index.md), [Apollonia](../../topics/apollonia/index.md), [Apollonia 6](../../topics/apollonia-6/index.md), [Baby I’m a Star (song)](../../topics/song/baby-i-m-a-star/index.md), [BrownMark](../../topics/brownmark/index.md), [Bruce Springsteen](../../topics/bruce-springsteen/index.md), [Computer Blue (song)](../../topics/song/computer-blue/index.md), [Darling Nikki (song)](../../topics/song/darling-nikki/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [I Would Die 4 U (song)](../../topics/song/i-would-die-4-u/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Let’s Go Crazy (song)](../../topics/song/let-s-go-crazy/index.md), [Lisa Coleman](../../topics/lisa-coleman/index.md), [Lives Of The Musicians: Prince (book)](../../topics/book/lives-of-the-musicians-prince/index.md), [Morris Day](../../topics/morris-day/index.md), [Parental Advisory](../../topics/parental-advisory/index.md), [Parents Music Resource Center](../../topics/parents-music-resource-center/index.md), [Patricia Kotero](../../topics/patricia-kotero/index.md), [Peggy McCreary](../../topics/peggy-mccreary/index.md), [Prince and The Revolution](../../topics/prince-and-the-revolution/index.md), [Purple Rain (album)](../../topics/album/purple-rain/index.md), [Purple Rain (movie)](../../topics/movie/purple-rain/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Purple Rain (tour)](../../topics/tour/purple-rain/index.md), [Sheena Easton](../../topics/sheena-easton/index.md), [Steve Fargnoli](../../topics/steve-fargnoli/index.md), [Sugar Walls (song)](../../topics/song/sugar-walls/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [Terry Lewis](../../topics/terry-lewis/index.md), [The Beautiful Ones (song)](../../topics/song/the-beautiful-ones/index.md), [The Revolution](../../topics/the-revolution/index.md), [The Time](../../topics/the-time/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.thisisdig.com/feature/prince-purple-rain-album/))
+
+----
+
+ - [**"Book Review: Sinéad O'Connor, Rememberings -- "Always a punk, never a pop star; Sinéad's principles will always trump fame, fortune and recognition...""**](https://www.hotpress.com/opinion/book-review-sinead-oconnor-rememberings-22857586)
+    - in [Hot Press](../../publications/f-j/hot-press/index.md)
+    - on 17 June 2021
+    - about [memoir](../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [Shuhada Sadaqat](../../topics/shuhada-sadaqat/index.md), [Sinéad O'Connor](../../topics/sin-ad-o-connor/index.md), [SNL (TV show)](../../topics/tv-show/snl/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.hotpress.com/opinion/book-review-sinead-oconnor-rememberings-22857586))
 
 ----
 
@@ -388,7 +396,7 @@
  - [**"‘60 Songs That Explain the ’90s’: How Sinéad O’Connor Turned a Prince Song Into Her Classic -- The Purple One wrote ‘Nothing Compares 2 U,’ but O’Connor managed to inhabit the song and make it fully her own"**](https://www.theringer.com/2021/6/2/22464082/sinead-oconnor-nothing-compares-2-u-prince)
     - in [The Ringer](../../publications/p-t/the-ringer/index.md)
     - on 2 June 2021
-    - about [Bangles](../../topics/bangles/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Cyndi Lauper](../../topics/cyndi-lauper/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md), [The Glamorous Life (song)](../../topics/song/the-glamorous-life/index.md)
+    - about [Bangles](../../topics/bangles/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Cyndi Lauper](../../topics/cyndi-lauper/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [memoir](../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md), [The Glamorous Life (song)](../../topics/song/the-glamorous-life/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.theringer.com/2021/6/2/22464082/sinead-oconnor-nothing-compares-2-u-prince))
 
 ----
@@ -398,7 +406,7 @@
  - [**"Sinéad O’Connor: ‘I’ll always be a bit crazy, but that’s OK’ -- After a life marked by abuse, fame, scandal and struggle, the Irish singer-songwriter says she never lost faith"**](https://www.theguardian.com/music/2021/may/29/sinead-oconnor-ill-always-be-a-bit-crazy-but-thats-ok-rememberings)
     - in [The Guardian](../../publications/f-j/the-guardian/index.md)
     - on 29 May 2021
-    - about [Bob Dylan](../../topics/bob-dylan/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md), [The Family](../../topics/the-family/index.md)
+    - about [Bob Dylan](../../topics/bob-dylan/index.md), [memoir](../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md), [The Family](../../topics/the-family/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.theguardian.com/music/2021/may/29/sinead-oconnor-ill-always-be-a-bit-crazy-but-thats-ok-rememberings))
 
 ----
@@ -431,7 +439,7 @@
  - [**"Sinéad O’Connor Remembers Things Differently -- The mainstream narrative is that a pop star ripped up a photo of the pope on “Saturday Night Live” and derailed her life. What if the opposite were true?"**](https://www.nytimes.com/2021/05/18/arts/music/sinead-oconnor-rememberings.html)
     - in [New York Times](../../publications/k-o/new-york-times/index.md)
     - on 18 May 2021
-    - about [Bob Dylan](../../topics/bob-dylan/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md)
+    - about [Bob Dylan](../../topics/bob-dylan/index.md), [memoir](../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Saturday Night Live (TV show)](../../topics/tv-show/saturday-night-live/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.nytimes.com/2021/05/18/arts/music/sinead-oconnor-rememberings.html))
 
 ----
@@ -461,7 +469,7 @@
 
 ----
 
-## April 2021 (15)
+## April 2021 (16)
 
  - [**"Prince’s posthumous book released as fans continue to mourn"**](https://apnews.com/article/dan-piepenbring-us-news-music-prince-entertainment-7d2379f3184b4447ba4c1be55a1afbe1)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
@@ -520,6 +528,14 @@
 
 ----
 
+ - [**"On this day in 1990: Sinéad O'Connor kicked off a four-week run at No.1 in the US with 'Nothing Compares 2 U' -- 31 years ago today, Sinéad O'Connor started a four week run at No.1 on the US Singles Chart, with her cover of Prince's 'Nothing Compares 2 U'. To celebrate, we're revisiting Bill Graham's original 1990 review of I Do Not Want What I Haven't Got..."**](https://www.hotpress.com/music/on-this-day-in-1990-sinead-oconnor-kicked-off-a-four-week-run-at-no-1-in-the-us-with-nothing-compares-2-u-22849457)
+    - in [Hot Press](../../publications/f-j/hot-press/index.md)
+    - on 21 April 2021
+    - about [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Sinéad O'Connor](../../topics/sin-ad-o-connor/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.hotpress.com/music/on-this-day-in-1990-sinead-oconnor-kicked-off-a-four-week-run-at-no-1-in-the-us-with-nothing-compares-2-u-22849457))
+
+----
+
  - [**"Prince fans pay respects at Paisley Park 5 years after death"**](https://apnews.com/article/prince-fans-pay-respects-paisley-park-5-years-after-death-0862a1a2f9f857ec2e0bcf5572447938)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 21 April 2021
@@ -570,6 +586,7 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 6 April 2021
+    - about [memoir](../../topics/memoir/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/it-s-a-great-adventure-story-says-singer-rickie-lee-jones-of-her-new-memoir/600042454/))
 
 ----

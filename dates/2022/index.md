@@ -99,6 +99,7 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md), [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 2 November 2022
+    - about [memoir](../../topics/memoir/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/10-concerts-to-see-in-twin-cities-this-week-smashing-pumpkins-keith-urban-pentatonix-tegan-and-sara/600221249/))
 
 ----
@@ -146,12 +147,12 @@
 
 ----
 
-## September 2022 (5)
+## September 2022 (6)
 
  - [**"Why Prince’s Estate Refused to Allow ‘Nothing Compares 2 U’ To Be Used in New Sinéad O’Connor Documentary -- "I didn't feel she deserved to use the song," says the icon's co-heir and half-sister Sharon Nelson."**](https://www.billboard.com/pro/prince-sinead-o-connor-documentary-nothing-compares-2-u/)
     - in [Billboard](../../publications/a-e/billboard/index.md)
     - on 30 September 2022
-    - about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Charles Spicer](../../topics/charles-spicer/index.md), [Comerica](../../topics/comerica/index.md), [Comerica Bank & Trust](../../topics/comerica-bank-trust/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [L. Londell McMillan](../../topics/l-londell-mcmillan/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Primary Wave](../../topics/primary-wave/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Rosie Gaines](../../topics/rosie-gaines/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Universal Music Publishing Group](../../topics/universal-music-publishing-group/index.md)
+    - about [Alfred Jackson](../../topics/alfred-jackson/index.md), [Charles Spicer](../../topics/charles-spicer/index.md), [Comerica](../../topics/comerica/index.md), [Comerica Bank & Trust](../../topics/comerica-bank-trust/index.md), [John R. Nelson](../../topics/john-r-nelson/index.md), [L. Londell McMillan](../../topics/l-londell-mcmillan/index.md), [memoir](../../topics/memoir/index.md), [Norrine Nelson](../../topics/norrine-nelson/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Omarr Baker](../../topics/omarr-baker/index.md), [Primary Wave](../../topics/primary-wave/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Rosie Gaines](../../topics/rosie-gaines/index.md), [Sharon Nelson](../../topics/sharon-nelson/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [Universal Music Publishing Group](../../topics/universal-music-publishing-group/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.billboard.com/pro/prince-sinead-o-connor-documentary-nothing-compares-2-u/))
 
 ----
@@ -159,7 +160,7 @@
  - [**"‘Crown,’ ‘Interview With the Vampire’ among TV highlights"**](https://apnews.com/article/fall-television-shows-to-watch-the-crown-andor-2649cc250edba973bc68e92f2dc4d917)
     - in [Associated Press News](../../publications/a-e/associated-press-news/index.md)
     - on 29 September 2022
-    - about [Morris Day](../../topics/morris-day/index.md)
+    - about [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/article/fall-television-shows-to-watch-the-crown-andor-2649cc250edba973bc68e92f2dc4d917))
 
 ----
@@ -177,7 +178,7 @@
     - by [A.D. Amorosi](../../authors/a-d-amorosi/index.md)
     - in [Variety](../../publications/u-z/variety/index.md)
     - on 15 September 2022
-    - about [Columbia Records](../../topics/columbia-records/index.md), [Mariah Carey](../../topics/mariah-carey/index.md), [The Beautiful Ones (song)](../../topics/song/the-beautiful-ones/index.md)
+    - about [Columbia Records](../../topics/columbia-records/index.md), [Mariah Carey](../../topics/mariah-carey/index.md), [memoir](../../topics/memoir/index.md), [The Beautiful Ones (song)](../../topics/song/the-beautiful-ones/index.md)
     - ([mirror](https://web.archive.org/web/*/https://variety.com/2022/music/news/mariah-carey-butterfly-25-anniversary-meghan-markle-prince-1235373657/))
 
 ----
@@ -187,6 +188,14 @@
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 15 September 2022
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/the-renovated-capri-theater-remains-a-cultural-hub-of-north-minneapolis/600207027/))
+
+----
+
+ - [**"WATCH: Trailer arrives for Sinéad O'Connor documentary NOTHING COMPARES -- NOTHING COMPARES will land in Irish cinemas on October 7th, via Paramount."**](https://www.hotpress.com/film-tv/watch-trailer-arrives-for-sinead-oconnor-documentary-nothing-compares-22928987)
+    - in [Hot Press](../../publications/f-j/hot-press/index.md)
+    - on 15 September 2022
+    - about [memoir](../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md), [Sinéad O'Connor](../../topics/sin-ad-o-connor/index.md), [SNL (TV show)](../../topics/tv-show/snl/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.hotpress.com/film-tv/watch-trailer-arrives-for-sinead-oconnor-documentary-nothing-compares-22928987))
 
 ----
 
@@ -766,7 +775,15 @@
 
 ----
 
-## January 2022 (2)
+## January 2022 (3)
+
+ - [**"Prince’s estate blocks Sinéad O’Connor’s version of ‘Nothing Compares 2 U’ being used in Nothing Compares documentary -- The documentary about the iconic Irish singer recently premiered at the Sundance Film without her biggest hit."**](https://www.hotpress.com/music/princes-estate-blocks-sinead-oconnors-version-of-nothing-compares-2-u-being-used-in-nothing-compares-documentary-22888594)
+    - in [Hot Press](../../publications/f-j/hot-press/index.md)
+    - on 25 January 2022
+    - about [memoir](../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md), [SNL (TV show)](../../topics/tv-show/snl/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.hotpress.com/music/princes-estate-blocks-sinead-oconnors-version-of-nothing-compares-2-u-being-used-in-nothing-compares-documentary-22888594))
+
+----
 
  - [**"Our Friday Best: Kacey Musgraves, Billie Holiday tribute, MLK weekend and ice castles in New Brighton -- Critics' picks for entertainment in the week ahead."**](https://www.startribune.com/our-friday-best-kacey-musgraves-billie-holiday-tribute-mlk-weekend-and-ice-castles-in-new-brighton/600135440/)
     - by [Star Tribune staff](../../authors/star-tribune-staff/index.md)

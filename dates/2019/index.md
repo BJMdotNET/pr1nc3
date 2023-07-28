@@ -77,7 +77,7 @@
 ----
 
  - [**"Noteworthy music books of the year"**](https://www.irishexaminer.com/breakingnews/lifestyle/noteworthy-music-books-of-the-year-971884.html)
-    - in [irishexaminer.com](../../publications/f-j/irishexaminer-com/index.md)
+    - in [Irish Examiner](../../publications/f-j/irish-examiner/index.md)
     - on 22 December 2019
     - about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Donald Trump](../../topics/donald-trump/index.md), [memoir](../../topics/memoir/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [orange](../../topics/orange/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [Trump](../../topics/trump/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.irishexaminer.com/breakingnews/lifestyle/noteworthy-music-books-of-the-year-971884.html))
@@ -241,7 +241,7 @@
     - by [Steve Marsh](../../authors/steve-marsh/index.md)
     - in [Mpls.St.Paul Magazine](../../publications/k-o/mpls-st-paul-magazine/index.md)
     - on 12 December 2019
-    - about [Andrea Swensson](../../topics/andrea-swensson/index.md), [Prince: The Story of 1999](../../topics/prince-the-story-of-1999/index.md), [Symbolina](../../topics/symbolina/index.md)
+    - about [Andrea Swensson](../../topics/andrea-swensson/index.md), [memoir](../../topics/memoir/index.md), [Prince: The Story of 1999](../../topics/prince-the-story-of-1999/index.md), [Symbolina](../../topics/symbolina/index.md)
     - ([mirror](https://web.archive.org/web/*/https://mspmag.com/arts-and-culture/qa-andrea-swensson-prince-expert/))
 
 ----
@@ -529,7 +529,7 @@
 ----
 
  - [**"Books of the month: From Dave Eggers’ The Captain and the Glory to Hayley Nolan’s corrective history of Anne Boleyn -- Martin Chilton reviews five of December’s best books for our monthly book column"**](https://www.independent.co.uk/arts-entertainment/books/features/december-book-dave-eggers-the-captain-teen-idol-leif-garrett-anne-boleyn-a9220196.html)
-    - in [independent.co.uk](../../publications/f-j/independent-co-uk/index.md)
+    - in [Independent](../../publications/f-j/independent/index.md)
     - on 1 December 2019
     - about [divorce](../../topics/divorce/index.md), [Kate Bush](../../topics/kate-bush/index.md), [memoir](../../topics/memoir/index.md), [Michael Jackson](../../topics/michael-jackson/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.independent.co.uk/arts-entertainment/books/features/december-book-dave-eggers-the-captain-teen-idol-leif-garrett-anne-boleyn-a9220196.html))
@@ -975,7 +975,7 @@
 ----
 
  - [**"The afterlife of Prince, in words and music"**](https://www.inquirer.com/entertainment/prince-1999-beautiful-ones-music-book-tom-petty-david-bowie-20191115.html)
-    - in [inquirer.com](../../publications/f-j/inquirer-com/index.md)
+    - in [The Philadelphia Inquirer](../../publications/p-t/the-philadelphia-inquirer/index.md)
     - on 15 November 2019
     - about [bootleg](../../topics/bootleg/index.md), [Chaka Khan](../../topics/chaka-khan/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [I Feel For You (song)](../../topics/song/i-feel-for-you/index.md), [memoir](../../topics/memoir/index.md), [museum](../../topics/museum/index.md), [New Power Generation](../../topics/new-power-generation/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md), [Spiegel & Grau](../../topics/spiegel-grau/index.md), [Spike Lee](../../topics/spike-lee/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [Vagina (song)](../../topics/song/vagina/index.md), [Vanity](../../topics/vanity/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.inquirer.com/entertainment/prince-1999-beautiful-ones-music-book-tom-petty-david-bowie-20191115.html))
@@ -1200,7 +1200,7 @@
 ----
 
  - [**"Prince’s last days: ‘He seemed so strong. He was still burning with ambition’ -- Dan Piepenbring on how he brought the musician’s memoir to life following his death"**](https://www.irishtimes.com/culture/music/prince-s-last-days-he-seemed-so-strong-he-was-still-burning-with-ambition-1.4059357)
-    - in [irishtimes.com](../../publications/f-j/irishtimes-com/index.md)
+    - in [The Irish Times](../../publications/f-j/the-irish-times/index.md)
     - on 2 November 2019
     - about [contract](../../topics/contract/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [Jehovah’s Witness](../../topics/jehovah-s-witness/index.md), [memoir](../../topics/memoir/index.md), [Penguin Random House](../../topics/penguin-random-house/index.md), [Prince Estate](../../topics/prince-estate/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.irishtimes.com/culture/music/prince-s-last-days-he-seemed-so-strong-he-was-still-burning-with-ambition-1.4059357))
@@ -1216,7 +1216,7 @@
 ----
 
  - [**"The Beautiful Ones: Memoir offers a fragmentary snapshot of the life of Prince"**](https://www.independent.ie/entertainment/music/the-beautiful-ones-memoir-offers-a-fragmentary-snapshot-of-the-life-of-prince-38650373.html)
-    - in [independent.ie](../../publications/f-j/independent-ie/index.md)
+    - in [Independent.ie](../../publications/f-j/independent-ie/index.md)
     - on 2 November 2019
     - about [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [memoir](../../topics/memoir/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Paisley Park (place)](../../topics/place/paisley-park/index.md), [Sinéad O'Connor](../../topics/sin-ad-o-connor/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [The Paris Review (magazine)](../../topics/magazine/the-paris-review/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.independent.ie/entertainment/music/the-beautiful-ones-memoir-offers-a-fragmentary-snapshot-of-the-life-of-prince-38650373.html))
@@ -1404,7 +1404,7 @@
  - [**"De laatste woorden van popster Prince: ‘Hij liep nog over van de plannen’ -- Enkele maanden voor zijn dood begon popster Prince aan een autobiografie. Het boek kwam in de verste verte niet af, maar verschijnt nu toch, dankzij co-auteur Dan Piepenbring. ‘Prince was meer dan ooit bezig met zijn sterfelijkheid.’"**](https://www.parool.nl/kunst-media/de-laatste-woorden-van-popster-prince-hij-liep-nog-over-van-de-plannen~baef9d74/)
     - in [Het Parool](../../publications/f-j/het-parool/index.md)
     - on 30 October 2019
-    - about [Ed Sheeran](../../topics/ed-sheeran/index.md), [Katy Perry](../../topics/katy-perry/index.md)
+    - about [Ed Sheeran](../../topics/ed-sheeran/index.md), [Katy Perry](../../topics/katy-perry/index.md), [memoir](../../topics/memoir/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.parool.nl/kunst-media/de-laatste-woorden-van-popster-prince-hij-liep-nog-over-van-de-plannen~baef9d74/))
 
 ----
@@ -1548,7 +1548,7 @@
  - [**"New Prince memoir reveals he hated Katy Perry and Ed Sheeran’s music -- The Purple One had a message for modern pop purveyors: "We don’t like it no matter how many times they play it""**](https://consequenceofsound.net/2019/10/prince-memoir-katy-perry-ed-sheerans-music/)
     - in [Consequence of Sound](../../publications/a-e/consequence-of-sound/index.md)
     - on 29 October 2019
-    - about [Allen Beaulieu](../../topics/allen-beaulieu/index.md), [Ed Sheeran](../../topics/ed-sheeran/index.md), [Katy Perry](../../topics/katy-perry/index.md)
+    - about [Allen Beaulieu](../../topics/allen-beaulieu/index.md), [Ed Sheeran](../../topics/ed-sheeran/index.md), [Katy Perry](../../topics/katy-perry/index.md), [memoir](../../topics/memoir/index.md)
     - ([mirror](https://web.archive.org/web/*/https://consequenceofsound.net/2019/10/prince-memoir-katy-perry-ed-sheerans-music/))
 
 ----
@@ -1564,7 +1564,7 @@
  - [**"Prince had a problem with pop stars Ed Sheeran and Katy Perry"**](https://www.latimes.com/entertainment-arts/music/story/2019-10-29/prince-katy-perry-ed-sheeran-memoir)
     - in [Los Angeles Times](../../publications/k-o/los-angeles-times/index.md)
     - on 29 October 2019
-    - about [Ed Sheeran](../../topics/ed-sheeran/index.md), [Katy Perry](../../topics/katy-perry/index.md)
+    - about [Ed Sheeran](../../topics/ed-sheeran/index.md), [Katy Perry](../../topics/katy-perry/index.md), [memoir](../../topics/memoir/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.latimes.com/entertainment-arts/music/story/2019-10-29/prince-katy-perry-ed-sheeran-memoir))
 
 ----
@@ -2182,7 +2182,7 @@
  - [**"Rock and Roll Book Club: Morris Day is 'On Time'"**](https://www.thecurrent.org/feature/2019/10/08/morris-day-on-time)
     - in [The Current](../../publications/a-e/the-current/index.md)
     - on 9 October 2019
-    - about [André Cymone](../../topics/andr-cymone/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Kiowa Trail](../../topics/kiowa-trail/index.md), [Mall of America (place)](../../topics/place/mall-of-america/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - about [André Cymone](../../topics/andr-cymone/index.md), [Illinois (place)](../../topics/place/illinois/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Kiowa Trail](../../topics/kiowa-trail/index.md), [Mall of America (place)](../../topics/place/mall-of-america/index.md), [memoir](../../topics/memoir/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Morris Day](../../topics/morris-day/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.thecurrent.org/feature/2019/10/08/morris-day-on-time))
 
 ----
@@ -2370,7 +2370,7 @@
  - [**"Here’s the Guitar That Prince Revolutionized Music With in ‘Purple Rain’ -- The artist gave the “cloud” guitar to the Smithsonian in 1993, but only now do we know it’s the same instrument used in the iconic movie"**](https://www.smithsonianmag.com/smithsonian-institution/guitar-prince-revolutionized-music-purple-rain-180973083/)
     - in [Smithsonian Magazine](../../publications/p-t/smithsonian-magazine/index.md)
     - on 19 September 2019
-    - about [Cloud guitar (instrument)](../../topics/instrument/cloud-guitar/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md)
+    - about [Cloud guitar (instrument)](../../topics/instrument/cloud-guitar/index.md), [memoir](../../topics/memoir/index.md), [Stevie Nicks](../../topics/stevie-nicks/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.smithsonianmag.com/smithsonian-institution/guitar-prince-revolutionized-music-purple-rain-180973083/))
 
 ----
@@ -3676,7 +3676,7 @@
     - by [Serge Simonart](../../authors/serge-simonart/index.md)
     - in [Humo](../../publications/f-j/humo/index.md)
     - on 8 July 2019
-    - about [contract](../../topics/contract/index.md), [Cynthia Rose](../../topics/cynthia-rose/index.md), [Michael Howe](../../topics/michael-howe/index.md), [Mo Ostin](../../topics/mo-ostin/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../topics/album/originals/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md), [Starfish And Coffee (song)](../../topics/song/starfish-and-coffee/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [The Family](../../topics/the-family/index.md)
+    - about [contract](../../topics/contract/index.md), [Cynthia Rose](../../topics/cynthia-rose/index.md), [memoir](../../topics/memoir/index.md), [Michael Howe](../../topics/michael-howe/index.md), [Mo Ostin](../../topics/mo-ostin/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../topics/album/originals/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md), [Starfish And Coffee (song)](../../topics/song/starfish-and-coffee/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [The Family](../../topics/the-family/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.humo.be/humo-archief/403403/prince-humo-sprak-met-zijn-manager-en-muze-wij-hadden-een-heerlijk-seksleven-maar-als-er-een-song-in-zn-hoofd-opdook-moest-ik-wijken))
 
 ----
@@ -3916,7 +3916,7 @@
     - by [Kory Grow](../../authors/kory-grow/index.md)
     - in [Rolling Stone](../../publications/p-t/rolling-stone/index.md)
     - on 24 June 2019
-    - about [Apollonia 6](../../topics/apollonia-6/index.md), [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Bangles](../../topics/bangles/index.md), [contract](../../topics/contract/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [George Clinton](../../topics/george-clinton/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Jungle Love (song)](../../topics/song/jungle-love/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Martika](../../topics/martika/index.md), [Mazarati](../../topics/mazarati/index.md), [Nasty Girl (song)](../../topics/song/nasty-girl/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../topics/album/originals/index.md), [Paula Abdul](../../topics/paula-abdul/index.md), [Peggy McCreary](../../topics/peggy-mccreary/index.md), [perfume](../../topics/perfume/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Sandy Scipioni](../../topics/sandy-scipioni/index.md), [Sex Shooter (song)](../../topics/song/sex-shooter/index.md), [Sheena Easton](../../topics/sheena-easton/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md), [Sugar Walls (song)](../../topics/song/sugar-walls/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [Tevin Campbell](../../topics/tevin-campbell/index.md), [The Family](../../topics/the-family/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [The Time](../../topics/the-time/index.md), [Troy Carter](../../topics/troy-carter/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
+    - about [Apollonia 6](../../topics/apollonia-6/index.md), [Apollonia Kotero](../../topics/apollonia-kotero/index.md), [Bangles](../../topics/bangles/index.md), [contract](../../topics/contract/index.md), [fentanyl overdose](../../topics/fentanyl-overdose/index.md), [George Clinton](../../topics/george-clinton/index.md), [Jill Jones](../../topics/jill-jones/index.md), [Jungle Love (song)](../../topics/song/jungle-love/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Martika](../../topics/martika/index.md), [Mazarati](../../topics/mazarati/index.md), [memoir](../../topics/memoir/index.md), [Nasty Girl (song)](../../topics/song/nasty-girl/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../topics/album/originals/index.md), [Paula Abdul](../../topics/paula-abdul/index.md), [Peggy McCreary](../../topics/peggy-mccreary/index.md), [perfume](../../topics/perfume/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Sandy Scipioni](../../topics/sandy-scipioni/index.md), [Sex Shooter (song)](../../topics/song/sex-shooter/index.md), [Sheena Easton](../../topics/sheena-easton/index.md), [Sheila E.](../../topics/sheila-e/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md), [Sugar Walls (song)](../../topics/song/sugar-walls/index.md), [Sunset Sound (place)](../../topics/place/sunset-sound/index.md), [Susan Rogers](../../topics/susan-rogers/index.md), [Susanna Hoffs](../../topics/susanna-hoffs/index.md), [Susannah Melvoin](../../topics/susannah-melvoin/index.md), [Tevin Campbell](../../topics/tevin-campbell/index.md), [The Family](../../topics/the-family/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [The Time](../../topics/the-time/index.md), [Troy Carter](../../topics/troy-carter/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.rollingstone.com/music/music-features/prince-originals-interview-842940/))
 
 ----
@@ -4021,7 +4021,7 @@
 ----
 
  - [**"Prince: Originals review – Dazzling tracks from the vault of a pop genius"**](https://www.irishtimes.com/culture/music/prince-originals-review-dazzling-tracks-from-the-vault-of-a-pop-genius-1.3928324)
-    - in [irishtimes.com](../../publications/f-j/irishtimes-com/index.md)
+    - in [The Irish Times](../../publications/f-j/the-irish-times/index.md)
     - on 21 June 2019
     - about [Bangles](../../topics/bangles/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (album review)](../../topics/album-review/originals/index.md), [Sinead O’Connor](../../topics/sinead-o-connor/index.md), [Sinéad O’Connor](../../topics/sin-ad-o-connor/index.md), [vault](../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.irishtimes.com/culture/music/prince-originals-review-dazzling-tracks-from-the-vault-of-a-pop-genius-1.3928324))
@@ -4334,7 +4334,7 @@
     - by [Tim Campbell](../../authors/tim-campbell/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 7 May 2019
-    - about [Capri Theater (place)](../../topics/place/capri-theater/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Mayte](../../topics/mayte/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
+    - about [Capri Theater (place)](../../topics/place/capri-theater/index.md), [Jimmy Jam](../../topics/jimmy-jam/index.md), [Mayte](../../topics/mayte/index.md), [memoir](../../topics/memoir/index.md), [Terry Lewis](../../topics/terry-lewis/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/80s-scenesters-offer-snapshots-of-the-minneapolis-sound-in-new-photo-book/509385652/))
 
 ----
@@ -4421,7 +4421,7 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md), [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 25 April 2019
-    - about [Ani DiFranco](../../topics/ani-difranco/index.md), [Apple Music](../../topics/apple-music/index.md), [Ava DuVernay](../../topics/ava-duvernay/index.md), [Bangles](../../topics/bangles/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Martika](../../topics/martika/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Netflix](../../topics/netflix/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../topics/album/originals/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Random House](../../topics/random-house/index.md), [Rave In2 the Joy Fantastic (album)](../../topics/album/rave-in2-the-joy-fantastic/index.md), [Rave Un2 the Joy Fantastic (album)](../../topics/album/rave-un2-the-joy-fantastic/index.md), [Rave Un2 the Year 2000 (video)](../../topics/video/rave-un2-the-year-2000/index.md), [Sex Shooter (song)](../../topics/song/sex-shooter/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [The Family](../../topics/the-family/index.md), [The Glamorous Life (song)](../../topics/song/the-glamorous-life/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [The Time](../../topics/the-time/index.md), [Ultimate Rave (album)](../../topics/album/ultimate-rave/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
+    - about [Ani DiFranco](../../topics/ani-difranco/index.md), [Apple Music](../../topics/apple-music/index.md), [Ava DuVernay](../../topics/ava-duvernay/index.md), [Bangles](../../topics/bangles/index.md), [Dan Piepenbring](../../topics/dan-piepenbring/index.md), [First Avenue (place)](../../topics/place/first-avenue/index.md), [Kenny Rogers](../../topics/kenny-rogers/index.md), [Larry Graham](../../topics/larry-graham/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Manic Monday (song)](../../topics/song/manic-monday/index.md), [Martika](../../topics/martika/index.md), [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day & The Time](../../topics/morris-day-the-time/index.md), [Netflix](../../topics/netflix/index.md), [Nothing Compares 2 U (song)](../../topics/song/nothing-compares-2-u/index.md), [Originals (album)](../../topics/album/originals/index.md), [Prince Estate](../../topics/prince-estate/index.md), [Random House](../../topics/random-house/index.md), [Rave In2 the Joy Fantastic (album)](../../topics/album/rave-in2-the-joy-fantastic/index.md), [Rave Un2 the Joy Fantastic (album)](../../topics/album/rave-un2-the-joy-fantastic/index.md), [Rave Un2 the Year 2000 (video)](../../topics/video/rave-un2-the-year-2000/index.md), [Sex Shooter (song)](../../topics/song/sex-shooter/index.md), [The Beautiful Ones (book)](../../topics/book/the-beautiful-ones/index.md), [The Family](../../topics/the-family/index.md), [The Glamorous Life (song)](../../topics/song/the-glamorous-life/index.md), [The Prince Estate](../../topics/the-prince-estate/index.md), [The Time](../../topics/the-time/index.md), [Ultimate Rave (album)](../../topics/album/ultimate-rave/index.md), [Vanity 6](../../topics/vanity-6/index.md), [vault](../../topics/vault/index.md), [Wendy Melvoin](../../topics/wendy-melvoin/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/coming-soon-from-the-prince-vault-a-new-album-called-originals/509009862/))
 
 ----

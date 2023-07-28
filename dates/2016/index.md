@@ -281,7 +281,7 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 21 October 2016
-    - about [museum](../../topics/museum/index.md)
+    - about [memoir](../../topics/memoir/index.md), [museum](../../topics/museum/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/what-should-prince-s-estate-do-to-keep-his-music-alive/397828981/))
 
 ----
@@ -1890,7 +1890,7 @@
 
 ----
 
-## May 2016 (97)
+## May 2016 (98)
 
  - [**"Record crowd on hand as St. Paul Saints play Purple Game to remember Prince -- The St. Paul Saints gave Prince a final farewell — complete with a lot of purple, and some red Corvettes."**](https://www.startribune.com/record-crowd-on-hand-as-st-paul-saints-play-purple-game-to-remember-prince/381305401/)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
@@ -2128,7 +2128,7 @@
 ----
 
  - [**"My Surreal Time Planning Prince’s Iconic Super Bowl Performance -- As Head of Programming for the NFL, it was my job to plan Prince’s rain-soaked Super Bowl halftime show on February 4, 2007. And what a time it was."**](https://www.thedailybeast.com/my-surreal-time-planning-princes-iconic-super-bowl-performance)
-    - in [thedailybeast.com](../../publications/p-t/thedailybeast-com/index.md)
+    - in [The Daily Beast](../../publications/a-e/the-daily-beast/index.md)
     - on 14 May 2016
     - about [1999 (song)](../../topics/song/1999/index.md), [Foo Fighters](../../topics/foo-fighters/index.md), [James Brown](../../topics/james-brown/index.md), [Lenny Kravitz](../../topics/lenny-kravitz/index.md), [Little Red Corvette (song)](../../topics/song/little-red-corvette/index.md), [Purple Rain (song)](../../topics/song/purple-rain/index.md), [Raspberry Beret (song)](../../topics/song/raspberry-beret/index.md), [Super Bowl](../../topics/super-bowl/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.thedailybeast.com/my-surreal-time-planning-princes-iconic-super-bowl-performance))
@@ -2448,6 +2448,14 @@
 
 ----
 
+ - [**"Arsenio Hall suing Sinead O'Connor over Prince drug allegations -- The US comedian files case in L.A. following Irish star's Facebook message"**](https://www.hotpress.com/music/arsenio-hall-suing-sinead-oconnor-over-prince-drug-allegations-17226080)
+    - in [Hot Press](../../publications/f-j/hot-press/index.md)
+    - on 6 May 2016
+    - about [Arsenio Hall](../../topics/arsenio-hall/index.md), [Sinead O'Connor](../../topics/sinead-o-connor/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.hotpress.com/music/arsenio-hall-suing-sinead-oconnor-over-prince-drug-allegations-17226080))
+
+----
+
  - [**"Judge authorizes DNA testing of Prince's blood for estate case"**](http://www.fox9.com/news/judge-authorizes-dna-testing-of-princes-blood-for-estate-case)
     - in [Fox 9](../../publications/f-j/fox-9/index.md)
     - on 6 May 2016
@@ -2676,7 +2684,7 @@
 
 ----
 
-## April 2016 (166)
+## April 2016 (167)
 
  - [**"Critical guide to Prince&#039;s albums -- Here's our attempt to sort out the legacy left by one of pop music's most prolific recording artists. The following list of 37 albums is as complete as we can make it, omitting best-ofs, remixes and fan-club releases."**](https://www.startribune.com/critical-guide-breaking-down-37-of-prince-s-albums/376785321/)
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md), [Jon Bream](../../authors/jon-bream/index.md)
@@ -2732,6 +2740,14 @@
     - on 29 April 2016
     - about [Bangles](../../topics/bangles/index.md), [Bremer Trust](../../topics/bremer-trust/index.md), [Michael Jackson](../../topics/michael-jackson/index.md), [Miles Davis](../../topics/miles-davis/index.md), [probate court](../../topics/probate-court/index.md), [Spotify](../../topics/spotify/index.md), [Tyka Nelson](../../topics/tyka-nelson/index.md), [vault](../../topics/vault/index.md)
     - ([mirror](https://web.archive.org/web/*/https://apnews.com/73b9ba74daa4423bb36ac62d4655a71b))
+
+----
+
+ - [**"From The Archives: Sinead O'Connor On Her Turbulent Incident With Prince -- For The New Hot Press: Special Prince Collectors' Issue, we dig back through the archives for our revealing interview with Sinead O'Connor, about her upsetting experience at the late singer's mansion."**](https://www.hotpress.com/music/from-the-archives-sinead-oconnor-on-her-turbulent-incident-with-prince-17220483)
+    - in [Hot Press](../../publications/f-j/hot-press/index.md)
+    - on 29 April 2016
+    - about [Sinead O'Connor](../../topics/sinead-o-connor/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.hotpress.com/music/from-the-archives-sinead-oconnor-on-her-turbulent-incident-with-prince-17220483))
 
 ----
 
@@ -3211,7 +3227,7 @@
     - by [Jon Bream](../../authors/jon-bream/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 24 April 2016
-    - about [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md)
+    - about [memoir](../../topics/memoir/index.md), [Morris Day](../../topics/morris-day/index.md), [Morris Day and The Time](../../topics/morris-day-and-the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/until-the-end-an-enigmaflashes-of-frailty-stand-out-in-prince-s-vibrant-final-months/376860181/))
 
 ----
@@ -3527,7 +3543,7 @@
     - by [Chris Riemenschneider](../../authors/chris-riemenschneider/index.md), [Pam Louwagie](../../authors/pam-louwagie/index.md)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 22 April 2016
-    - about [Super Bowl](../../topics/super-bowl/index.md)
+    - about [memoir](../../topics/memoir/index.md), [Super Bowl](../../topics/super-bowl/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/authorities-investigating-death-at-prince-s-paisley-park/376578441/))
 
 ----
@@ -3854,7 +3870,7 @@
  - [**"Prince, musical and social trailblazer, dies at 57"**](https://www.sfchronicle.com/music/article/Prince-musical-and-social-trailblazer-dies-at-57-7287717.php)
     - in [San Francisco Chronicle](../../publications/p-t/san-francisco-chronicle/index.md)
     - on 21 April 2016
-    - about [Atlanta (place)](../../topics/place/atlanta/index.md), [Bay Area (place)](../../topics/place/bay-area/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [John Lewis Nelson](../../topics/john-lewis-nelson/index.md), [Piano and a Microphone (tour)](../../topics/tour/piano-and-a-microphone/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md), [Yvette Noel-Schure](../../topics/yvette-noel-schure/index.md)
+    - about [Atlanta (place)](../../topics/place/atlanta/index.md), [Bay Area (place)](../../topics/place/bay-area/index.md), [Chanhassen (place)](../../topics/place/chanhassen/index.md), [John Lewis Nelson](../../topics/john-lewis-nelson/index.md), [memoir](../../topics/memoir/index.md), [Piano and a Microphone (tour)](../../topics/tour/piano-and-a-microphone/index.md), [When Doves Cry (song)](../../topics/song/when-doves-cry/index.md), [Yvette Noel-Schure](../../topics/yvette-noel-schure/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.sfchronicle.com/music/article/Prince-musical-and-social-trailblazer-dies-at-57-7287717.php))
 
 ----

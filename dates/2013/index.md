@@ -87,6 +87,7 @@
  - [**"Our five faves of the moment: &#039;The World&#039;s End,&#039; Questlove&#039;s &#039;Mo Meta Blues&#039; and more"**](https://www.startribune.com/our-five-faves-of-the-moment-the-world-s-end-questlove-s-mo-meta-blues-and-more/220743611/)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 22 August 2013
+    - about [memoir](../../topics/memoir/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/our-five-faves-of-the-moment-the-world-s-end-questlove-s-mo-meta-blues-and-more/220743611/))
 
 ----
@@ -244,7 +245,7 @@
  - [**"C.J.: Will Prince be flattered by kiss-and-tell?"**](https://www.startribune.com/c-j-will-prince-be-flattered-by-kiss-and-tell/205318881/)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 30 April 2013
-    - about [Symbolina](../../topics/symbolina/index.md)
+    - about [memoir](../../topics/memoir/index.md), [Symbolina](../../topics/symbolina/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/c-j-will-prince-be-flattered-by-kiss-and-tell/205318881/))
 
 ----
@@ -276,6 +277,7 @@
  - [**"Item World: Partying with Andy Warhol, Prince&#039;s theme song and T-shirts, more"**](https://www.startribune.com/item-world-partying-with-andy-warhol-prince-s-theme-song-and-t-shirts-more/198161591/)
     - in [Minneapolis Star Tribune](../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 22 March 2013
+    - about [memoir](../../topics/memoir/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/item-world-partying-with-andy-warhol-prince-s-theme-song-and-t-shirts-more/198161591/))
 
 ----
