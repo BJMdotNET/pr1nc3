@@ -1,6 +1,7 @@
 # Publications U - Z
 
   * [uDiscover Music](./udiscover-music/index.md) (1)
+  * [ultimateprince.com](./ultimateprince-com/index.md) (2)
   * [Uncut](./uncut/index.md) (1)
   * [Under The Radar](./under-the-radar/index.md) (2)
   * [Uproxx](./uproxx/index.md) (2)
@@ -25,7 +26,7 @@
   * [Wax Poetics](./wax-poetics/index.md) (1)
   * [wbbm780.radio.com](./wbbm780-radio-com/index.md) (1)
   * [wbur.org](./wbur-org/index.md) (1)
-  * [WCCO - CBS Minnesota](./wcco-cbs-minnesota/index.md) (25)
+  * [WCCO - CBS Minnesota](./wcco-cbs-minnesota/index.md) (27)
   * [WCCO - CBS Minnesota (old)](./wcco-cbs-minnesota-old/index.md) (12)
   * [wdet.org](./wdet-org/index.md) (1)
   * [WebWire](./webwire/index.md) (2)
@@ -36,13 +37,14 @@
   * [WTOC-TV](./wtoc-tv/index.md) (1)
   * [www.abc.net.au](./www-abc-net-au/index.md) (1)
   * [www.ign.com](./www-ign-com/index.md) (1)
+  * [www.lpm.org](./www-lpm-org/index.md) (1)
   * [Yahoo! Entertainment](./yahoo-entertainment/index.md) (10)
   * [Yahoo! Lifestyle](./yahoo-lifestyle/index.md) (1)
   * [Yahoo! Lifestyle Australia](./yahoo-lifestyle-australia/index.md) (1)
   * [Yahoo! News](./yahoo-news/index.md) (2)
   * [The Young Folks](./the-young-folks/index.md) (1)
   * [YourTango](./yourtango/index.md) (1)
-  * [YouTube](./youtube/index.md) (38)
+  * [YouTube](./youtube/index.md) (41)
   * [Zapproved](./zapproved/index.md) (1)
 
 ----

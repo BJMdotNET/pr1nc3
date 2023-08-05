@@ -281,6 +281,7 @@
     - by [Tim Harlow](../../../authors/tim-harlow/index.md)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 15 March 2021
+    - about [Julia Coleman](../../../topics/julia-coleman/index.md), [Mark Webster](../../../topics/mark-webster/index.md), [MnDOT](../../../topics/mndot/index.md), [Prince Rogers Nelson Memorial Highway (place)](../../../topics/place/prince-rogers-nelson-memorial-highway/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/minnesota-legislators-want-to-rename-highway-after-prince/600034298/))
 
 ----

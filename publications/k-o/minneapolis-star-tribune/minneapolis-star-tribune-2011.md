@@ -117,7 +117,7 @@ Friends, colleagues and political heavyweights packed Wednesday's service for th
 
 ----
 
-## August 2011 (1)
+## August 2011 (2)
 
  - [**"The Big Gigs: Aug. 26-Sept. 1 -- Def Leppard and Steely Dan at the fair; Ke$ha at Roy Wilkins"**](https://www.startribune.com/the-big-gigs-aug-26-sept-1/128403458/)
     - by [Star Tribune staff](../../../authors/star-tribune-staff/index.md)
@@ -125,6 +125,14 @@ Friends, colleagues and political heavyweights packed Wednesday's service for th
     - on 25 August 2011
     - about [Jellybean Johnson](../../../topics/jellybean-johnson/index.md), [Monte Moir](../../../topics/monte-moir/index.md), [Morris Day](../../../topics/morris-day/index.md), [Morris Day & The Time](../../../topics/morris-day-the-time/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/the-big-gigs-aug-26-sept-1/128403458/))
+
+----
+
+ - [**"Stevie Nicks' new whirl -- Fleetwood Mac's twirling singer is suddenly hot again, thanks to TV appearances and her best solo album in 30 years. "**](https://www.startribune.com/stevie-nicks-new-whirl/128097743/)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 23 August 2011
+    - about [Fleetwood Mac](../../../topics/fleetwood-mac/index.md), [Lindsey Buckingham](../../../topics/lindsey-buckingham/index.md), [Little Red Corvette (song)](../../../topics/song/little-red-corvette/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [Ricky Peterson](../../../topics/ricky-peterson/index.md), [Stand Back (song)](../../../topics/song/stand-back/index.md), [Stevie Nicks](../../../topics/stevie-nicks/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/stevie-nicks-new-whirl/128097743/))
 
 ----
 

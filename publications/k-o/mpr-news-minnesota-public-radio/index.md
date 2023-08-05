@@ -2,7 +2,7 @@
 
 ## Links by year
 
-  * [2023](./mpr-news-minnesota-public-radio-2023.md) (1)
+  * [2023](./mpr-news-minnesota-public-radio-2023.md) (2)
   * [2022](./mpr-news-minnesota-public-radio-2022.md) (1)
   * [2020](./mpr-news-minnesota-public-radio-2020.md) (1)
   * [2019](./mpr-news-minnesota-public-radio-2019.md) (1)

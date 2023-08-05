@@ -5,6 +5,9 @@ items:
 - name: People - 2019
   href: people-2019.md
   homepage: people-2019.md
+- name: People - 2021
+  href: people-2021.md
+  homepage: people-2021.md
 - name: People - 2023
   href: people-2023.md
   homepage: people-2023.md

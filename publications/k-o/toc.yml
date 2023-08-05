@@ -11,6 +11,9 @@ items:
 - name: ktlo.com
   href: ktlo-com/index.md
   homepage: ktlo-com/index.md
+- name: KTTC
+  href: kttc/index.md
+  homepage: kttc/index.md
 - name: KXLF.com
   href: kxlf-com/index.md
   homepage: kxlf-com/index.md
@@ -107,6 +110,9 @@ items:
 - name: Minneapolis Star Tribune
   href: minneapolis-star-tribune/index.md
   homepage: minneapolis-star-tribune/index.md
+- name: Minneapolis Star Tribune (HTTP)
+  href: minneapolis-star-tribune-http/index.md
+  homepage: minneapolis-star-tribune-http/index.md
 - name: Minnesota Monthly
   href: minnesota-monthly/index.md
   homepage: minnesota-monthly/index.md

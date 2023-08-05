@@ -75,7 +75,7 @@
   * [Deadline](./deadline/index.md) (2)
   * [Democracy Now](./democracy-now/index.md) (1)
   * [deseret.com](./deseret-com/index.md) (1)
-  * [Dig!](./dig/index.md) (3)
+  * [Dig!](./dig/index.md) (4)
   * [Digital Arts](./digital-arts/index.md) (1)
   * [Digital Journal](./digital-journal/index.md) (1)
   * [Digital Music News](./digital-music-news/index.md) (1)

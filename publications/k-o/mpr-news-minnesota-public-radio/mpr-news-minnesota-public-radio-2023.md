@@ -1,5 +1,15 @@
 # MPR News (Minnesota Public Radio): 2023
 
+## August 2023 (1)
+
+ - [**"Signs honoring Prince to go up on section of Minnesota highway on Thursday"**](https://www.mprnews.org/story/2023/08/02/signs-honoring-prince-to-go-up-on-section-of-minnesota-highway-on-thursday)
+    - in [MPR News (Minnesota Public Radio)](../../../publications/k-o/mpr-news-minnesota-public-radio/index.md)
+    - on 2 August 2023
+    - about [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Mark Webster](../../../topics/mark-webster/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Prince Rogers Nelson Memorial Highway (place)](../../../topics/place/prince-rogers-nelson-memorial-highway/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.mprnews.org/story/2023/08/02/signs-honoring-prince-to-go-up-on-section-of-minnesota-highway-on-thursday))
+
+----
+
 ## June 2023 (1)
 
  - [**"The influence of Black music: How 'Flyte Tyme' changed the world from a recording studio"**](https://www.mprnews.org/story/2023/06/29/the-influence-of-black-music-how-flyte-tyme-changed-the-world-from-a-booth-in-edina)

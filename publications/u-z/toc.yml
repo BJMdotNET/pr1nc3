@@ -14,6 +14,9 @@ items:
 - name: uDiscover Music
   href: udiscover-music/index.md
   homepage: udiscover-music/index.md
+- name: ultimateprince.com
+  href: ultimateprince-com/index.md
+  homepage: ultimateprince-com/index.md
 - name: Uncut
   href: uncut/index.md
   homepage: uncut/index.md
@@ -110,6 +113,9 @@ items:
 - name: www.ign.com
   href: www-ign-com/index.md
   homepage: www-ign-com/index.md
+- name: www.lpm.org
+  href: www-lpm-org/index.md
+  homepage: www-lpm-org/index.md
 - name: Yahoo! Entertainment
   href: yahoo-entertainment/index.md
   homepage: yahoo-entertainment/index.md

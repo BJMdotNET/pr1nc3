@@ -1,6 +1,32 @@
 # Minneapolis Star Tribune: 2023
 
-## July 2023 (3)
+## August 2023 (2)
+
+ - [**"They were gathered there today to rename this Minnesota highway after Prince -- MnDOT install Prince Rogers Nelson Memorial Highway sings along Highway 5 through Chanhassen, where the late Minnesota pop star's Paisley Park was located.  "**](https://www.startribune.com/mndot-installs-prince-rogers-nelson-memorial-highway-signs-on-hwy-5-in-chanhassen/600294625/)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 3 August 2023
+    - about [Julia Coleman](../../../topics/julia-coleman/index.md), [Lucy Rehm](../../../topics/lucy-rehm/index.md), [MnDOT](../../../topics/mndot/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Prince Rogers Nelson Memorial Highway (place)](../../../topics/place/prince-rogers-nelson-memorial-highway/index.md), [Sharon Nelson](../../../topics/sharon-nelson/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/mndot-installs-prince-rogers-nelson-memorial-highway-signs-on-hwy-5-in-chanhassen/600294625/))
+
+----
+
+ - [**"The Big Gigs: 10 concerts in the Twin Cities to see this week -- Highlights for Aug. 3-9 include Zach Bryan, Lionel Richie, Suki Waterhouse, We Fest and the National. "**](https://www.startribune.com/zach-bryan-lionel-richie-suki-waterhouse-we-fest-the-national-indigo-girls-steve-miller-prince/600294199/)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 2 August 2023
+    - about [Aug. 3, 1983 (event)](../../../topics/event/aug-3-1983/index.md), [Baby, I'm a Star (song)](../../../topics/song/baby-i-m-a-star/index.md), [Computer Blue (song)](../../../topics/song/computer-blue/index.md), [Dr. Mambo's Combo](../../../topics/dr-mambo-s-combo/index.md), [First Avenue (place)](../../../topics/place/first-avenue/index.md), [I Would Die 4 U (song)](../../../topics/song/i-would-die-4-u/index.md), [Let's Go Crazy (song)](../../../topics/song/let-s-go-crazy/index.md), [Minnesota Dance Theatre](../../../topics/minnesota-dance-theatre/index.md), [Prince & The Revolution](../../../topics/prince-the-revolution/index.md), [Purple Rain (album)](../../../topics/album/purple-rain/index.md), [Purple Rain (song)](../../../topics/song/purple-rain/index.md), [The Revolution](../../../topics/the-revolution/index.md), [Wendy Melvoin](../../../topics/wendy-melvoin/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/zach-bryan-lionel-richie-suki-waterhouse-we-fest-the-national-indigo-girls-steve-miller-prince/600294199/))
+
+----
+
+## July 2023 (4)
+
+ - [**"For 50 years, singer Mary Jane Alm has been Minnesota's queen of near misses -- She will celebrate her golden jubilee with special guests at two Chanhassen concerts. "**](https://www.startribune.com/mary-jane-alm-mankato-minnesota-peter-yarrow-martina-mcbride-bob-gaudio-chanhassen-prince-bob-dylan/600292765/)
+    - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
+    - on 29 July 2023
+    - about [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Chanhassen Dinner Theatres](../../../topics/chanhassen-dinner-theatres/index.md), [Minnesota Music Awards (event)](../../../topics/event/minnesota-music-awards/index.md), [Twin Cities (place)](../../../topics/place/twin-cities/index.md)
+    - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/mary-jane-alm-mankato-minnesota-peter-yarrow-martina-mcbride-bob-gaudio-chanhassen-prince-bob-dylan/600292765/))
+
+----
 
  - [**"Prince fans mark fifth anniversary of his death: &#039;My soul said I need to be here&#039;"**](https://www.startribune.com/prince-fans-mark-fifth-anniversary-of-his-death-my-soul-said-i-need-to-be-here/600048637/)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
@@ -140,6 +166,7 @@
     - by [Dave Berger](../../../authors/dave-berger/index.md)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 22 May 2023
+    - about [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Eden Prairie (place)](../../../topics/place/eden-prairie/index.md), [Prince Estate](../../../topics/prince-estate/index.md), [Prince Rogers Nelson Memorial Highway (place)](../../../topics/place/prince-rogers-nelson-memorial-highway/index.md), [The Prince Estate](../../../topics/the-prince-estate/index.md), [Tim Walz](../../../topics/tim-walz/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/new-name-looms-for-school-formerly-known-as-henry/600276941/))
 
 ----
@@ -164,7 +191,7 @@
     - by [Rochelle Olson](../../../authors/rochelle-olson/index.md)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 9 May 2023
-    - about [Super Bowl](../../../topics/super-bowl/index.md)
+    - about [Julia Coleman](../../../topics/julia-coleman/index.md), [Lucy Rehm](../../../topics/lucy-rehm/index.md), [Mark Webster](../../../topics/mark-webster/index.md), [MnDOT](../../../topics/mndot/index.md), [Super Bowl](../../../topics/super-bowl/index.md), [Tim Walz](../../../topics/tim-walz/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/princely-pride-stretch-of-highway-5-officially-named-for-minnesotan-prince-paisley-park/600273577/))
 
 ----
@@ -173,6 +200,7 @@
     - by [Rochelle Olson](../../../authors/rochelle-olson/index.md)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 4 May 2023
+    - about [Julia Coleman](../../../topics/julia-coleman/index.md), [Mark Webster](../../../topics/mark-webster/index.md), [Prince Rogers Nelson Memorial Highway (place)](../../../topics/place/prince-rogers-nelson-memorial-highway/index.md), [Tim Walz](../../../topics/tim-walz/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/prince-friends-show-up-for-press-conference-ahead-of-highway-renaming-chanhassen-paisley-park/600272469/))
 
 ----
@@ -275,6 +303,7 @@
     - by [Briana Bierschbach](../../../authors/briana-bierschbach/index.md)
     - in [Minneapolis Star Tribune](../../../publications/k-o/minneapolis-star-tribune/index.md)
     - on 11 March 2023
+    - about [Chanhassen (place)](../../../topics/place/chanhassen/index.md), [Julia Coleman](../../../topics/julia-coleman/index.md), [Lucy Rehm](../../../topics/lucy-rehm/index.md), [Paisley Park (place)](../../../topics/place/paisley-park/index.md), [Prince Rogers Nelson Memorial Highway (place)](../../../topics/place/prince-rogers-nelson-memorial-highway/index.md)
     - ([mirror](https://web.archive.org/web/*/https://www.startribune.com/minnesota-bill-moves-forward-to-name-a-stretch-of-hwy-5-for-prince/600258079/))
 
 ----

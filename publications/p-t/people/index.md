@@ -3,6 +3,7 @@
 ## Links by year
 
   * [2023](./people-2023.md) (2)
+  * [2021](./people-2021.md) (1)
   * [2019](./people-2019.md) (5)
   * [2016](./people-2016.md) (2)
 

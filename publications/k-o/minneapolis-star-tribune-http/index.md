@@ -1,30 +1,12 @@
-# Minneapolis Star Tribune
+# Minneapolis Star Tribune (HTTP)
 
 ## Links by year
 
-  * [2023](./minneapolis-star-tribune-2023.md) (38)
-  * [2022](./minneapolis-star-tribune-2022.md) (31)
-  * [2021](./minneapolis-star-tribune-2021.md) (43)
-  * [2020](./minneapolis-star-tribune-2020.md) (39)
-  * [2019](./minneapolis-star-tribune-2019.md) (128)
-  * [2018](./minneapolis-star-tribune-2018.md) (104)
-  * [2017](./minneapolis-star-tribune-2017.md) (100)
-  * [2016](./minneapolis-star-tribune-2016.md) (257)
-  * [2015](./minneapolis-star-tribune-2015.md) (36)
-  * [2014](./minneapolis-star-tribune-2014.md) (27)
-  * [2013](./minneapolis-star-tribune-2013.md) (47)
-  * [2012](./minneapolis-star-tribune-2012.md) (45)
-  * [2011](./minneapolis-star-tribune-2011.md) (28)
-  * [2010](./minneapolis-star-tribune-2010.md) (29)
-  * [2009](./minneapolis-star-tribune-2009.md) (4)
-  * [2008](./minneapolis-star-tribune-2008.md) (26)
-  * [2007](./minneapolis-star-tribune-2007.md) (1)
-  * [2003](./minneapolis-star-tribune-2003.md) (2)
-  * [1997](./minneapolis-star-tribune-1997.md) (1)
+  * [2016](./minneapolis-star-tribune-http-2016.md) (1)
 
 ## Homepage
 
-[homepage](https://www.startribune.com/)
+[homepage](http://www.startribune.com/)
 
 ## Google search
 

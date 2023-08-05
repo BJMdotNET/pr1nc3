@@ -2,7 +2,7 @@
 
 ## Links by year
 
-  * [2023](./twincities-com-pioneer-press-2023.md) (1)
+  * [2023](./twincities-com-pioneer-press-2023.md) (5)
   * [2022](./twincities-com-pioneer-press-2022.md) (1)
   * [2020](./twincities-com-pioneer-press-2020.md) (6)
   * [2019](./twincities-com-pioneer-press-2019.md) (10)

@@ -2,7 +2,7 @@
 
 ## Links by year
 
-  * [2023](./youtube-2023.md) (2)
+  * [2023](./youtube-2023.md) (5)
   * [2022](./youtube-2022.md) (7)
   * [2021](./youtube-2021.md) (1)
   * [2020](./youtube-2020.md) (1)
