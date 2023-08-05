@@ -5880,6 +5880,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "publications/a-e/dig/dig-2023.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/a-e/dig/dig-2023.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "publications/a-e/dig/index.md",
       "output": {
         ".html": {
@@ -8699,6 +8709,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "publications/f-j/the-guardian/the-guardian-2011.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/f-j/the-guardian/the-guardian-2011.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "publications/f-j/the-guardian/the-guardian-2016.md",
       "output": {
         ".html": {
@@ -9100,6 +9120,39 @@
         },
         ".json": {
           "relative_path": "publications/k-o/ktlo-com/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/k-o/kttc/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/k-o/kttc/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/k-o/kttc/kttc-2023.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/k-o/kttc/kttc-2023.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "publications/k-o/kttc/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "publications/k-o/kttc/toc.html"
+        },
+        ".json": {
+          "relative_path": "publications/k-o/kttc/toc.json"
         }
       },
       "version": ""
@@ -10193,6 +10246,39 @@
         },
         ".json": {
           "relative_path": "publications/k-o/minneapolis-st-paul-business-journal/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/k-o/minneapolis-star-tribune-http/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/k-o/minneapolis-star-tribune-http/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/k-o/minneapolis-star-tribune-http/minneapolis-star-tribune-http-2016.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/k-o/minneapolis-star-tribune-http/minneapolis-star-tribune-http-2016.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "publications/k-o/minneapolis-star-tribune-http/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "publications/k-o/minneapolis-star-tribune-http/toc.html"
+        },
+        ".json": {
+          "relative_path": "publications/k-o/minneapolis-star-tribune-http/toc.json"
         }
       },
       "version": ""
@@ -11423,6 +11509,16 @@
       "version": ""
     },
     {
+      "type": "Conceptual",
+      "source_relative_path": "publications/k-o/news-sky-com/news-sky-com-2023.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/k-o/news-sky-com/news-sky-com-2023.html"
+        }
+      },
+      "version": ""
+    },
+    {
       "type": "Toc",
       "source_relative_path": "publications/k-o/news-sky-com/toc.yml",
       "output": {
@@ -12247,6 +12343,16 @@
       "output": {
         ".html": {
           "relative_path": "publications/p-t/people/people-2019.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/p-t/people/people-2021.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/p-t/people/people-2021.html"
         }
       },
       "version": ""
@@ -16284,6 +16390,49 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "publications/u-z/ultimateprince-com/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/u-z/ultimateprince-com/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "publications/u-z/ultimateprince-com/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "publications/u-z/ultimateprince-com/toc.html"
+        },
+        ".json": {
+          "relative_path": "publications/u-z/ultimateprince-com/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/u-z/ultimateprince-com/ultimateprince-com-2021.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/u-z/ultimateprince-com/ultimateprince-com-2021.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/u-z/ultimateprince-com/ultimateprince-com-2023.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/u-z/ultimateprince-com/ultimateprince-com-2023.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "publications/u-z/uncut/index.md",
       "output": {
         ".html": {
@@ -17760,6 +17909,39 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "publications/u-z/www-lpm-org/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/u-z/www-lpm-org/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "publications/u-z/www-lpm-org/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "publications/u-z/www-lpm-org/toc.html"
+        },
+        ".json": {
+          "relative_path": "publications/u-z/www-lpm-org/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "publications/u-z/www-lpm-org/www-lpm-org-2023.md",
+      "output": {
+        ".html": {
+          "relative_path": "publications/u-z/www-lpm-org/www-lpm-org-2023.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "publications/u-z/yahoo-entertainment/index.md",
       "output": {
         ".html": {
@@ -18904,6 +19086,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/album/purple-reggae/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/album/purple-reggae/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/album/rave-in2-the-joy-fantastic/index.md",
       "output": {
         ".html": {
@@ -19744,6 +19936,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/beverley-knight/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/beverley-knight/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/beyonc/index.md",
       "output": {
         ".html": {
@@ -20088,6 +20290,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/book/prince-pre-fame/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/book/rememberings/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/book/rememberings/index.html"
         }
       },
       "version": ""
@@ -21934,6 +22146,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/event/aug-3-1983/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/event/aug-3-1983/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/event/billboard-music-awards/index.md",
       "output": {
         ".html": {
@@ -22078,6 +22300,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/event/london-fashion-week/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/event/minnesota-music-awards/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/event/minnesota-music-awards/index.html"
         }
       },
       "version": ""
@@ -22334,6 +22566,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/frank-benbini/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/frank-benbini/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/frank-zappa/index.md",
       "output": {
         ".html": {
@@ -22388,6 +22630,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/fredrikson-byron/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/fun-lovin-criminals/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/fun-lovin-criminals/index.html"
         }
       },
       "version": ""
@@ -24224,6 +24476,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/kim-anderson/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/kim-anderson/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/kim-basinger/index.md",
       "output": {
         ".html": {
@@ -24764,6 +25026,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/lucy-rehm/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/lucy-rehm/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/luthier/index.md",
       "output": {
         ".html": {
@@ -25028,6 +25300,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/mark-schindele/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/mark-webster/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/mark-webster/index.html"
         }
       },
       "version": ""
@@ -25728,6 +26010,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/mixed-blood/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/mndot/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/mndot/index.html"
         }
       },
       "version": ""
@@ -26818,6 +27110,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/phish/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/pillow-fight/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/pillow-fight/index.html"
         }
       },
       "version": ""
@@ -28544,6 +28846,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/radio-riddler/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/radio-riddler/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/raf-van-hoy/index.md",
       "output": {
         ".html": {
@@ -29564,6 +29876,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "topics/song/baby-i-m-a-star_3/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/song/baby-i-m-a-star_3/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "topics/song/baby-knows/index.md",
       "output": {
         ".html": {
@@ -30348,6 +30670,16 @@
       "output": {
         ".html": {
           "relative_path": "topics/song/let-s-go-crazy/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "topics/song/let-s-go-crazy_2/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "topics/song/let-s-go-crazy_2/index.html"
         }
       },
       "version": ""
